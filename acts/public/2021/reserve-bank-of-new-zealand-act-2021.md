@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 2021
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2023-12-20_
 
 ### 1 Title
 This Act is the Reserve Bank of New Zealand Act 2021.
@@ -21,7 +21,7 @@ The purposes of this Act are to—
 (1) This section is a guide to the general scheme and effect of this Act.
 (2) This Part deals with preliminary matters, including specifying the purposes of this Act and definitions of terms used in this Act.
 (3) Part 2 provides for the continuation of the Reserve Bank of New Zealand (the Bank). The Part provides for—
-  (a) the Bank’s objectives, including the economic objectives and the financial stability objective; and
+  (a) the Bank’s objectives, including the economic objective and the financial stability objective; and
   (b) the Bank’s functions, including acting as New Zealand’s central bank, acting as a prudential regulator and supervisor of banks, insurers, and other financial institutions, and monitoring the financial system; and
   (c) the Bank to be a body corporate with the power to do anything that a natural person may do; and
   (d) the role of the Minister to oversee and manage the Crown’s interests in, and relationship with, the Bank; and
@@ -29,7 +29,7 @@ The purposes of this Act are to—
   (f) a Governor of the Bank to be its chief executive and a member of the board; and
   (g) a monetary policy committee (the MPC) to perform the function of formulating monetary policy.
 (4) Part 3 relates to the Bank’s function to act as New Zealand’s central bank. This function includes—
-  (a) formulating (through the MPC) and implementing a monetary policy directed to the economic objectives; and
+  (a) formulating (through the MPC) and implementing a monetary policy directed to the economic objective; and
   (b) managing foreign reserves and otherwise dealing in foreign exchange; and
   (c) issuing bank notes and coins in New Zealand; and
   (d) providing liquidity facilities; and
@@ -148,10 +148,8 @@ This Act binds the Crown.
 (2) The Bank is the same body as the Reserve Bank constituted under the Reserve Bank of New Zealand Act 1989.
 
 ### 9 Bank’s objectives
-(1) The Bank’s main objectives are—Economic objectivesFinancial stability objectiveCentral bank objective
-  (a) the economic objectives of—
-    (i) achieving and maintaining stability in the general level of prices over the medium term; and
-    (ii) supporting maximum sustainable employment; and
+(1) The Bank’s main objectives are—Economic objectiveFinancial stability objectiveCentral bank objective
+  (a) the economic objective of achieving and maintaining stability in the general level of prices over the medium term; and
   (b) the financial stability objective of protecting and promoting the stability of New Zealand’s financial system; and
   (c) otherwise acting as New Zealand’s central bank in a way that furthers the purposes of this Act.
 (2) However, if an Order in Council is in force under section 125, the economic objective or objectives that apply under subsection (1)﻿(a) are those that are specified in the order.
@@ -160,7 +158,7 @@ This Act binds the Crown.
 ### 10 Bank’s functions
 (1) The Bank’s functions are as follows:
   (a) to act as the central bank for New Zealand, including by—
-    (i) formulating (through the MPC) and implementing a monetary policy directed to the economic objectives, while recognising the Crown’s right to determine economic policy (see subpart 2 of Part 3); and
+    (i) formulating (through the MPC) and implementing a monetary policy directed to the economic objective, while recognising the Crown’s right to determine economic policy (see subpart 2 of Part 3); and
     (ii) doing the other things set out in section 116:
   (b) to act as a prudential regulator and supervisor under prudential legislation, including by—
     (i) carrying out prudential supervision; and
@@ -987,7 +985,7 @@ The Bank must act as the central bank for New Zealand.
 
 ### 116 Central bank functions
 The central bank functions include—
-  (a) formulating (through the MPC) and implementing a monetary policy directed to the economic objectives, while recognising the Crown’s right to determine economic policy (see subpart 2); and
+  (a) formulating (through the MPC) and implementing a monetary policy directed to the economic objective, while recognising the Crown’s right to determine economic policy (see subpart 2); and
   (b) managing foreign reserves and otherwise dealing in foreign exchange for the purposes of the Bank’s objectives (see subpart 3); and
   (c) doing the following to ensure that bank notes and coins in New Zealand meet the needs of the public (see subparts 4 and 5):
     (i) issuing bank notes and coins:
@@ -1007,14 +1005,12 @@ The central bank functions include—
 **Formulating monetary policy**
 
 ### 117 Function to formulate monetary policy through MPC
-(1) The Bank, acting through the MPC, has the function of formulating a monetary policy directed to the economic objectives of—
-  (a) achieving and maintaining stability in the general level of prices over the medium term; and
-  (b) supporting maximum sustainable employment.
+(1) The Bank, acting through the MPC, has the function of formulating a monetary policy directed to the economic objective of achieving and maintaining stability in the general level of prices over the medium term.
 (2) The function of formulating monetary policy includes deciding the approach by which the operational objectives set out in an MPC remit are intended to be achieved.
 
-### 118 MPC must formulate monetary policy in manner consistent with economic objectives and MPC remit
+### 118 MPC must formulate monetary policy in manner consistent with economic objective and MPC remit
 The MPC must formulate monetary policy in a manner consistent with—
-  (a) the economic objectives; and
+  (a) the economic objective; and
   (b) the MPC remit.
 
 ### 119 What MPC must have regard to in formulating monetary policy
@@ -1042,11 +1038,11 @@ Despite section 120, the Bank is not required to implement a monetary policy for
 ### 123 Contents of MPC remit
 (1) The MPC remit must set out operational objectives for carrying out the function of formulating monetary policy.
 (2) The MPC remit may specify or provide for the operational objectives in any way that the Minister thinks fit, including by specifying or providing for 1 or more of the following matters:
-  (a) a target or targets for an economic objective:
-  (b) a framework for weighting the economic objectives:
-  (c) defining any matters in connection with an economic objective:
-  (d) a requirement for the MPC to have regard to 1 or more matters in connection with seeking to achieve an economic objective.
-(3) A matter under subsection (2) must not be inconsistent with an economic objective.
+  (a) a target or targets for the economic objective:
+  (b) a framework for weighting the economic objectives (if an Order in Council in force under section 125 provides for more than 1 economic objective):
+  (c) defining any matters in connection with the economic objective:
+  (d) a requirement for the MPC to have regard to 1 or more matters in connection with seeking to achieve the economic objective.
+(3) A matter under subsection (2) must not be inconsistent with the economic objective.
 
 ### 124 Other matters relating to MPC remit
 Part 1 of Schedule 3 provides for other matters relating to the MPC remit.
@@ -1055,12 +1051,10 @@ Part 1 of Schedule 3 provides for other matters relating to the MPC remit.
 
 ### 125 Order providing for different economic objective or objectives
 (1) The Governor-General may, by Order in Council, on the advice of the Minister, direct the MPC to formulate, and the Bank to implement, monetary policy for 1 or more economic objectives for a period not exceeding 12 months that is specified in the order.
-(2) The economic objective or objectives may be—
-  (a) only 1 of the objectives specified in section 9(1)﻿(a) (instead of both); or
-  (b) 1 or more new objectives in addition to or instead of either or both of the economic objectives specified in section 9(1)﻿(a).
+(2) The economic objective or objectives may be in addition to or instead of the economic objective specified in section 9(1)﻿(a).
 (3) While the Order in Council is in force,—
   (a) the MPC must formulate, and the Bank must implement, monetary policy in accordance with the economic objective or objectives specified in the Order in Council; and
-  (b) the MPC and the Bank must disregard either or both of the economic objectives specified in section 9(1)﻿(a) if so required by the Order in Council.
+  (b) the MPC and the Bank must disregard the economic objective specified in section 9(1)﻿(a) if so required by the Order in Council.
 (4) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 126 Minister must consider replacing or amending MPC remit
@@ -1123,7 +1117,7 @@ The report under section 131 must contain the information required by the charte
 (3) The Minister must comply with section 174(2) when the Minister ceases to be satisfied under subsection (1).
 
 ### 136 Effect of directions on operational objectives
-(1) This section applies if the Bank considers that giving effect to a direction under section 134 (while not being inconsistent with the economic objectives) would be inconsistent with 1 or more operational objectives set out in an MPC remit.
+(1) This section applies if the Bank considers that giving effect to a direction under section 134 (while not being inconsistent with the economic objective) would be inconsistent with 1 or more operational objectives set out in an MPC remit.
 (2) The Bank may, by notice in writing,—
   (a) advise the Minister that the Bank will, in giving effect to the direction, be unable to give effect to those operational objectives; and
   (b) request that the operational objectives be amended or replaced.
@@ -1135,7 +1129,7 @@ The report under section 131 must contain the information required by the charte
 (3) This section does not apply if the Minister withdraws the direction.
 
 ### 138 Effect of directions on monetary policy
-(1) If the Bank considers that giving effect to a direction under section 134 would be inconsistent with the economic objectives, the Bank may, by notice in writing, advise the Minister that the MPC and the Bank do not propose to give effect to the direction.
+(1) If the Bank considers that giving effect to a direction under section 134 would be inconsistent with the economic objective, the Bank may, by notice in writing, advise the Minister that the MPC and the Bank do not propose to give effect to the direction.
 (2) The Bank may only give a notice with the approval of the MPC.
 
 ### 139 Effect of Bank’s notice on duty to comply with Minister’s direction
