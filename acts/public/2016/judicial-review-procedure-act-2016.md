@@ -1,5 +1,5 @@
 # Judicial Review Procedure Act 2016
-_Consolidation as at 2022-12-01_
+_Consolidation as at 2023-12-20_
 
 ### 1 Title
 This Act is the Judicial Review Procedure Act 2016.
@@ -52,22 +52,16 @@ In this Act, unless the context otherwise requires,—
 (1) This Act binds the Crown.
 (2) However, in its application to the Crown, this Act must be read subject to the Crown Proceedings Act 1950.
 
-### 7 This Act subject to certain provisions of Employment Relations Act 2000 and Fair Pay Agreements Act 2022
-(1) This Act is subject to the provisions of the Employment Relations Act 2000 and the Fair Pay Agreements Act 2022 relating to the jurisdiction of the Employment Court and High Court in respect of—
+### 7 This Act subject to certain provisions of Employment Relations Act 2000
+(1) This Act is subject to the provisions of the Employment Relations Act 2000 relating to the jurisdiction of the Employment Court and High Court in respect of—
   (a) applications for review; or
   (b) proceedings for a writ or order of, or in the nature of, mandamus, prohibition, or certiorari; or
-  (c) proceedings for a declaration or injunctions against any body constituted by, or any person acting under, the Employment Relations Act 2000 or the Fair Pay Agreements Act 2022.
-(2) In particular, this Act is subject to—
-  (a) the following provisions of the Employment Relations Act 2000:
-    (i) section 184 (which restricts review proceedings being brought in respect of any matter before the Employment Relations Authority):
-    (ii) section 187(1)﻿(h), (i), (j), and (ka) (which confers on the Employment Court exclusive jurisdiction to hear and determine certain proceedings and applications):
-    (iii) section 194A (which provides that review proceedings in relation to an employment relationship problem may not be brought in either the Employment Court or the High Court):
-    (iv) section 213 (which confers on the Court of Appeal exclusive jurisdiction in relation to the review of any proceedings before the Employment Court); and
-  (b) the following provisions of the Fair Pay Agreements Act 2022:
-    (i) clause 22 of Schedule 3 (which restricts review proceedings being brought in respect of any matter before the Employment Relations Authority):
-    (ii) clause 25(1)﻿(c) of Schedule 3 (which confers on the Employment Court exclusive jurisdiction to hear and determine certain proceedings and applications):
-    (iii) clause 27 of Schedule 3 (which provides that a person may not apply for review or bring proceedings unless any appeal has first been determined):
-    (iv) clause 28 of Schedule 3 (which provides that a person may only apply for review or bring proceedings in certain circumstances).
+  (c) proceedings for a declaration or injunctions against any body constituted by, or any person acting under, the Employment Relations Act 2000.
+(2) In particular, this Act is subject to the following provisions of the Employment Relations Act 2000:
+  (a) section 184 (which restricts review proceedings being brought in respect of any matter before the Employment Relations Authority):
+  (b) section 187(1)﻿(h), (i), (j), and (ka) (which confers on the Employment Court exclusive jurisdiction to hear and determine certain proceedings and applications):
+  (c) section 194A (which provides that review proceedings in relation to an employment relationship problem may not be brought in either the Employment Court or the High Court):
+  (d) section 213 (which confers on the Court of Appeal exclusive jurisdiction in relation to the review of any proceedings before the Employment Court).
 
 **Judicial review**
 
