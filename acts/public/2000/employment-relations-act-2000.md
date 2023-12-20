@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2023-11-28_
+_Consolidation as at 2023-12-20_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -138,7 +138,7 @@ In this Act, unless the context otherwise requires,—
   - **employment standards** means any of the following:
     (a) the requirements of any of sections 64, 69Y, 69ZD, 69ZE, and 130:
     (b) the requirements of section 2AAC(a) and 2A of the Equal Pay Act 1972:
-    (ba) the minimum entitlement provisions under section 127 of the Fair Pay Agreements Act 2022:
+    (ba)
     (c) the minimum entitlements and payment for those under the Holidays Act 2003:
     (d) the requirements of sections 81 and 82 of the Holidays Act 2003:
     (e) the minimum entitlements under the Minimum Wage Act 1983:
@@ -157,7 +157,7 @@ In this Act, unless the context otherwise requires,—
   - **mediation services** means the mediation services provided, under section 144, by the chief executive
   - **member of the Authority** means a member of the Authority who holds office under section 166(1); and includes a temporary member who holds office under section 172
   - **minimum entitlement provisions** means—
-    (aaa) the minimum entitlement provisions under section 127 of the Fair Pay Agreements Act 2022; and
+    (aaa)
     (a) the minimum entitlements and payment for those under the Holidays Act 2003; and
     (b) the minimum entitlements under the Minimum Wage Act 1983; and
     (c) the provisions of the Wages Protection Act 1983
@@ -281,8 +281,8 @@ The object of this Part is—
     (iv) not contrary to law; and
   (ca) the society's rules contain a provision relating to the process for holding a secret ballot for the purposes of this Act; and
   (d) the society is independent of, and is constituted and operates at arm's length from, any employer.
-(1A) A society may satisfy the requirement in subsection (1)﻿(a) despite having rules (registered under the Incorporated Societies Act 1908) or a constitution (registered under the Incorporated Societies Act 2022) that, for the purposes of the Fair Pay Agreements Act 2022, enables the society to represent the collective interests of covered employees under section 11 of that Act, whether or not the employees are members of the society or any union.
-(1B) For the purposes of subsection (1A), covered employee has the meaning given in section 5(1) of the Fair Pay Agreements Act 2022.
+(1A)
+(1B)
 (2) In deciding whether a society is entitled to be registered as a union, the Registrar of Unions may rely on the statutory declaration made under section 13(2)﻿(c).
 
 ### 15 Registration of society as union
@@ -408,7 +408,7 @@ A representative of a union may be denied access to a workplace if—
   (c) there are no more than 20 employees employed to work in the workplace.
 
 ### 24 Issue of certificate of exemption
-(1) The chief executive may, for the purposes of section 23, or for the purposes of section 91 of the Fair Pay Agreements Act 2022, issue a certificate of exemption to an employer who is an individual if the chief executive is satisfied that the employer is a practising member of a religious society or order whose doctrines or beliefs preclude membership of any organisation or body other than the religious society or order of which the employer is a member.
+(1) The chief executive may, for the purposes of section 23, issue a certificate of exemption to an employer who is an individual if the chief executive is satisfied that the employer is a practising member of a religious society or order whose doctrines or beliefs preclude membership of any organisation or body other than the religious society or order of which the employer is a member.
 (2) The chief executive may revoke a certificate of exemption if—
   (a) the employer to whom it has been issued agrees; or
   (b) it was issued in error; or
@@ -526,11 +526,8 @@ The object of this Part is—
     (ii) including rates of wages or salary in a collective agreement; or
   (b) disagreement about including a bargaining fee clause under Part 6B in a collective agreement; or
   (c) the existence of an unsettled pay equity claim between an employer and a claimant under the Equal Pay Act 1972; or
-  (d) the existence of a requirement to review a pay equity claim settlement under the Equal Pay Act 1972; or
-  (e) any of the following under the Fair Pay Agreements Act 2022:
-    (i) the initiation of bargaining for a proposed agreement or a proposed variation:
-    (ii) the existence of bargaining for a proposed agreement or a proposed variation:
-    (iii) the existence of a fair pay agreement.
+  (d) the existence of a requirement to review a pay equity claim settlement under the Equal Pay Act 1972.
+  (e)
 (3) For the purposes of subsection (1), opposition to concluding a multi-employer collective agreement is a genuine reason not to conclude a collective agreement if that opposition is based on reasonable grounds.
 (4) Clause 6 of Schedule 1B overrides subsection (3).
 (5) In this section and in clause 6 of Schedule 1B, multi-employer collective agreement means a single collective agreement involving 2 or more employers.
@@ -2380,7 +2377,7 @@ Participation in a strike or lockout is lawful if the employees who strike have,
   (d) relates to a dispute; or
   (da) relates to a bargaining fee clause or proposed bargaining fee clause under Part 6B; or
   (e) relates to any matter dealt with in Part 3; or
-  (ea) relates to a proposed agreement, a proposed variation, or a fair pay agreement under the Fair Pay Agreements Act 2022; or
+  (ea)
   (f) is in an essential service and the requirements as to notice that are contained in section 90 or section 91, as the case may be, have not been complied with; or
   (g) takes place in contravention of an order of the court.
 (2) Subsection (1)﻿(a) does not apply—
@@ -3101,9 +3098,8 @@ Where the remedy of reinstatement is provided by the Authority or the court, the
   (a) the defendant employer failed to keep or produce a wages and time record in respect of that employee as required by this Act; and
   (b) that failure prejudiced the employee's ability to bring an accurate claim under section 131.
 (2) Where evidence of the type referred to in subsection (1) is given, the Authority may, unless the defendant proves that those claims are incorrect, accept as proved all claims made by the employee in respect of—
-  (a) the wages actually paid to the employee, including overtime rate payments, and penalty rate payments:
-  (b) the hours, days, and time worked by the employee:
-  (c) the district in which the employee worked for each hour and day (see section 135 of the Fair Pay Agreements Act 2022).
+  (a) the wages actually paid to the employee:
+  (b) the hours, days, and time worked by the employee.
 (3) A defendant may not use as evidence any wages and time record that would be inadmissible under section 232(3).
 
 **Penalties**
@@ -3181,7 +3177,7 @@ The chief executive or a Labour Inspector may recover in the District Court as a
     (x) clauses 18, 19, and 21 of Schedule 5 of the Accident Compensation Act 2001; or
     (xi) Part 3 and sections 589 and 600 of the Education and Training Act 2020; or
     (xi)
-  (xii) the Fair Pay Agreements Act 2022.
+    (xii)
   (b) any order, determination, direction, or requirement made or given under this Act by the Authority or a member or officer of the Authority.
   (c) any order, determination, direction, or requirement made or given under the Screen Industry Workers Act 2022 by the Authority or a member or an officer of the Authority.
 (2) Where this section applies, the Authority may, in addition to any other power it may exercise, by order require, in or in conjunction with any matter before the Authority under this Act to which that person is a party or in respect of which that person is a witness, that person to do any specified thing or to cease any specified activity, for the purpose of preventing further non-observance of or non-compliance with that provision, order, determination, direction, or requirement.
@@ -3624,7 +3620,7 @@ A person who wishes to access mediation services must contact an office of the d
   (a) mediation under this Part; and
   (b) agreed terms of settlement under section 149(1).
 (2) Despite subsection (1), a person who is employed or engaged by the chief executive to provide mediation services and who holds a general authority to sign agreed terms of settlement under section 149(1) must not sign agreed terms of settlement in which a party agrees to forgo all, or part, of the party's entitlements specified in subsection (3).
-(3) This section applies to wages or holiday pay or other money payable by the employer to the employee under the Minimum Wage Act 1983, the Holidays Act 2003, the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016, the Support Workers (Pay Equity) Settlements Act 2017, or the Fair Pay Agreements Act 2022.
+(3) This section applies to wages or holiday pay or other money payable by the employer to the employee under the Minimum Wage Act 1983, the Holidays Act 2003, the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016, or the Support Workers (Pay Equity) Settlements Act 2017.
 
 ### 149 Settlements
 (1) Where a problem is resolved, whether through the provision of mediation services or otherwise, any person—may, at the request of the parties to the problem, and under that general authority, sign the agreed terms of settlement.
@@ -3809,7 +3805,7 @@ If a matter before the Authority relates principally to an alleged breach of emp
     (iiia) under section 25 of the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016:
     (iv) under section 10 of the Minimum Wage Act 1983:
     (v) under section 13 of the Wages Protection Act 1983:
-    (vi) under section 211 or 212 of the Fair Pay Agreements Act 2022:
+    (vi)
   (n) compliance orders under section 137:
   (o) objections under section 225 to demand notices:
   (p) orders for interim reinstatement under section 127:
@@ -3826,7 +3822,7 @@ If a matter before the Authority relates principally to an alleged breach of emp
     (vi) determining whether the terms and conditions of employment in an employee’s employment agreement are more or less favourable than the terms and conditions of employment in a pay equity claim settlement for the purposes of section 13ZM of that Act:
     (vii) determining whether to provide for recovery of an amount of remuneration for past work, and the amount to provide, under section 13ZZD of that Act:
     (viii) determining the applicable start date for the purposes of section 13ZZE of that Act:
-  (qe) all matters arising under the Fair Pay Agreements Act 2022 and, in particular, those listed in section 228 of that Act:
+  (qe)
   (r) any other action (being an action that is not directly within the jurisdiction of the court) arising from or related to the employment relationship or related to the interpretation of this Act (other than an action founded on tort):
   (s) determinations under such other powers and functions as are conferred on it by this or any other Act.
 (2) Except as provided in subsection (1)﻿(ca), (cb), (d), (da), (f), and (qd), the Authority does not have jurisdiction to make a determination about any matter relating to—
@@ -4534,7 +4530,7 @@ The functions of the chief executive under this Act are—
   (a) this Act; and
   (ab) the Support Workers (Pay Equity) Settlements Act 2017; and
   (b) the Equal Pay Act 1972; and
-  (ba) the Fair Pay Agreements Act 2022; and
+  (ba)
   (c) the Holidays Act 2003; and
   (ca) the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016; and
   (d) the Minimum Wage Act 1983; and
@@ -4601,10 +4597,7 @@ An improvement notice may be withdrawn at any time by a Labour Inspector, but th
 
 ### 224 Demand notice
 (1) A Labour Inspector (or a person authorised by a Labour Inspector to do so) may serve on an employer a demand notice, in the prescribed form, if—
-  (a) an employee makes a complaint to the Labour Inspector, or the Labour Inspector believes on reasonable grounds, that an employee has not received wages or holiday pay or other money payable by the employer to the employee under—
-    (i) the Fair Pay Agreements Act 2022; or
-    (ii) the Holidays Act 2003; or
-    (iii) the Minimum Wage Act 1983; and
+  (a) an employee makes a complaint to the Labour Inspector, or the Labour Inspector believes on reasonable grounds, that an employee has not received wages or holiday pay or other money payable by the employer to the employee under the Minimum Wage Act 1983 or the Holidays Act 2003; and
   (b) the Labour Inspector has given the employer not less than 7 days to comment on the complaint or the grounds for the Labour Inspector's belief; and
   (c) the Labour Inspector, after considering any comments made by the employer under paragraph (b), is satisfied that the employee is entitled to the wages or holiday pay or other money; and
   (d) the Labour Inspector is satisfied that the employer is not willing to pay the wages or holiday pay or other money to the employee in a reasonable manner or within a reasonable time.
@@ -4636,10 +4629,7 @@ A demand notice may be withdrawn at any time by a Labour Inspector, but the with
 **Actions to recover wages or holiday pay, etc**
 
 ### 228 Actions by Labour Inspector
-(1) A Labour Inspector may commence an action on behalf of an employee to recover any wages or holiday pay or other money payable by an employer to that employee under—
-  (a) the Fair Pay Agreements Act 2022; or
-  (b) the Holidays Act 2003; or
-  (c) the Minimum Wage Act 1983.
+(1) A Labour Inspector may commence an action on behalf of an employee to recover any wages or holiday pay or other money payable by an employer to that employee under the Minimum Wage Act 1983 or the Holidays Act 2003.
 (2) If a Labour Inspector commences an action under subsection (1), the Labour Inspector must not issue an improvement notice under section 223D or serve a demand notice under section 224 in respect of the same wages or holiday pay or other money.
 (3) Sections 131 and 132 apply, with the necessary modifications, to actions commenced under subsection (1).
 
@@ -4748,10 +4738,7 @@ A Judge who, on application made on oath, is satisfied that there is reasonable 
 
 ### 235A Interpretation
 In sections 235B to 235F, infringement offence means—
-  (a) a failure by an employer to comply with the requirements of—
-    (i) section 64(1) or (2) or 130(1) of this Act; or
-    (ii) section 269(1) or 270(1) of the Fair Pay Agreements Act 2022; or
-    (iii) section 81(2) of the Holidays Act 2003:
+  (a) a failure by an employer to comply with the requirements of section 64(1) or (2) or 130(1) of this Act or section 81(2) of the Holidays Act 2003:
   (b) breaches of this Act that are prescribed by regulations as infringement offences.
 
 ### 235B Infringement offences
