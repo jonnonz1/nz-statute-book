@@ -1,5 +1,5 @@
 # Fair Pay Agreements Act 2022
-_Consolidation as at 2023-06-01_
+_Consolidation as at 2023-12-20_
 
 ### 1 Title
 This Act is the Fair Pay Agreements Act 2022.
