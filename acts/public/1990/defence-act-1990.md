@@ -1,5 +1,5 @@
 # Defence Act 1990
-_Consolidation as at 2022-12-01_
+_Consolidation as at 2023-12-20_
 
 > An Act—ato continue to authorise the raising and maintaining of armed forces for certain purposes; andbto constitute the New Zealand Defence Force, comprising—ithe Armed Forces under the command of the Chief of Defence Force; andiithe Civil Staff under the control of the Chief of Defence Force; andcto reaffirm that the Armed Forces are under Ministerial authority; anddto define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeto redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfto make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
@@ -49,7 +49,7 @@ _Consolidation as at 2022-12-01_
   - **military** means of or pertaining to the Armed Forces
   - **Minister** means the Minister of Defence; and includes any other Minister for the time being lawfully exercising the powers of the Minister of Defence
   - **naval establishment** means any area of land or water (either in New Zealand or elsewhere) used or set aside for the purposes of the Navy; and includes any building or other premises, tents, structures, or works on any such land, and any structures or works in any such water
-  - **naval ship** means any of Her Majesty’s New Zealand ships; and includes any ship used or set aside for the purposes of the Navy
+  - **naval ship** means any of His Majesty’s New Zealand ships; and includes any ship used or set aside for the purposes of the Navy
   - **Navy** means the New Zealand Naval Forces constituted under section 11(3)
   - **New Zealand cadet** means any person, other than a cadet officer, who is a member of the New Zealand Cadet Corps; and includes an under-officer or any other non-commissioned officer of the New Zealand Cadet Corps; but does not include a member of the Armed Forces
   - **New Zealand force** means a force comprising a part or parts of the Armed Forces or any Service
@@ -529,7 +529,7 @@ Part 2 of the Volunteers Employment Protection Act 1973 applies to—
   (c) the Chief of Army; or
   (d) the Chief of Air Force,—
 (5) Nothing in the Employment Relations Act 2000 applies to the conditions of service of members of the Armed Forces.
-(5A) Nothing in the Fair Pay Agreements Act 2022 applies to members of the Armed Forces.
+(5A)
 (6) Nothing in this section affects any conditions of service in force in respect of members of the Armed Forces immediately before 1 April 1988.
 
 ### 46 Regulations fixing certain terms and conditions of service
@@ -650,7 +650,7 @@ Notwithstanding sections 53 to 55, the Chief of Defence Force, or a Chief of Ser
 (5) The Chief of Air Force may from time to time establish, or authorise the establishment of, such funds under such names as the Chief of Air Force thinks fit for—
   (a) the benefit of any Air Force base or unit of the Air Force, or of members or discharged members of the Air Force generally or members or discharged members of any part of the Air Force, or of the dependants of any such members or discharged or deceased members; and
   (b) any other object of any kind that the Chief of Air Force considers will be beneficial to the Air Force or to members of the Air Force.
-(6) Without limiting the provisions of subsections (2) to (5), money forming part of any fund established under this section may from time to time, with the prior consent of the appropriate service authority, be spent on the acquisition of any land (whether Crown land or otherwise) to be held for any of the objects of the fund. Notwithstanding anything in any enactment or rule of law, any land so acquired may be vested in and held in the name of Her Majesty the Queen for the purposes of this section.
+(6) Without limiting the provisions of subsections (2) to (5), money forming part of any fund established under this section may from time to time, with the prior consent of the appropriate service authority, be spent on the acquisition of any land (whether Crown land or otherwise) to be held for any of the objects of the fund. Notwithstanding anything in any enactment or rule of law, any land so acquired may be vested in and held in the name of the Sovereign for the purposes of this section.
 (7) Any land so acquired may, with the prior consent of the appropriate service authority, be disposed of for valuable consideration, and on any such disposal, the land shall cease to be subject to this section. The proceeds of any such disposition shall be held for the purposes of the fund from which the money for the acquisition of the land was expended.
 (8) All documents required to be executed for the purposes of subsection (6) or subsection (7) by or on behalf of the Crown may be executed by the Chief of Defence Force.
 (9) Without limiting the power of the Chief of Defence Force to issue orders under section 27, orders may be issued under that section prescribing rules for the administration, supervision, accounting, and auditing of any fund established under this section.
