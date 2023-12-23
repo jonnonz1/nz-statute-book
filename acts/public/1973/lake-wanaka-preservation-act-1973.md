@@ -1,5 +1,5 @@
 # Lake Wanaka Preservation Act 1973
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to make provision for the preservation of the normal water levels and shoreline of Lake Wanaka, and the maintenance and improvement of its water quality
 
@@ -31,11 +31,11 @@ The purposes of this Act are—
   (b) in particular—
     (i) to declare as an emergency any state of affairs existing when the lake water appears likely to attain such a level as to cause loss or damage to human life, livestock, or property by flooding:
     (ii) to consult the Otago Regional Council from time to time on those functions of the Otago Regional Council which may affect the lake, and to advise the Minister of Conservation of any such consultation and its outcome:
-    (iii) to give advice to the Minister of Conservation on any matter referred to the Minister under subsection (1) of section 11:
-    (iv) to participate in the process under the Spatial Planning Act 2023 for preparing the regional spatial strategy that relates to Lake Wanaka in a manner that is consistent with the other functions of the Guardians.
+    (iii) to give advice to the Minister of Conservation on any matter referred to the Minister under subsection (1) of section 11.
+    (iv)
 
 ### 6 Lake levels not to be controlled
-(1) Notwithstanding anything to the contrary in the Public Works Act 1981, the Natural and Built Environment Act 2023, the Electricity Act 1992, or any other Act, or section 7 of this Act,—
+(1) Notwithstanding anything to the contrary in the Public Works Act 1981, the Resource Management Act 1991, the Electricity Act 1992, or any other Act, or section 7 of this Act,—
   (a) no person shall, except for the duration of an emergency, impound or control the water in the body of the lake by any works:
   (b) no person shall, except for the duration of an emergency, build, construct, erect, or excavate any works which could measurably increase or decrease the natural rate of flow of lake water between the outlet of the lake which forms the source of the Clutha River and the confluence of that river and the Cardrona River.
 (2) Where, under subsection (1), any works are built, constructed, erected, or excavated for the duration of an emergency, then forthwith on the abatement of that emergency, those works shall be removed or, as the case may require, filled.
@@ -45,7 +45,7 @@ The purposes of this Act are—
 Where, at the commencement of this Act, there exists any right or power vested, authorised, or conferred by or granted pursuant to any other Act which will allow the holder to take water from the lake, or discharge water or any other substance (whether dissolved or suspended in water or not) into the lake, or disturb or alter the shoreline of the lake, then that right or power shall continue and may be exercised in the same manner and to the same extent as if this Act had not been passed, but the holder shall, in so exercising the right or power, have regard to the purposes of this Act.
 
 ### 8 Otago Regional Council to implement policy of the Government
-(1) In the exercise of its functions under the Natural and Built Environment Act 2023 in respect of the lake and its tributaries, the Otago Regional Council shall have regard to the purposes of this Act and shall give effect to the policy of the Government in relation to those functions as communicated to it from time to time in writing by the Minister of Conservation.
+(1) In the exercise of its functions under the Resource Management Act 1991 in respect of the lake and its tributaries, the Otago Regional Council shall have regard to the purposes of this Act and shall give effect to the policy of the Government in relation to those functions as communicated to it from time to time in writing by the Minister of Conservation.
 (2)
 
 ### 9 Reserve and Domain Boards to implement policy of the Government
