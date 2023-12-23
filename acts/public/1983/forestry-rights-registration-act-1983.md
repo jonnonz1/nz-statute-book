@@ -1,5 +1,5 @@
 # Forestry Rights Registration Act 1983
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to provide for the creation and registration of forestry rights
 
@@ -58,7 +58,7 @@ Notwithstanding any rule of law or equity to the contrary, every forestry covena
 (5) Nothing in this section limits anything in section 5.
 
 ### 6 Subdivisions and rights of way
-For the purposes of the Natural and Built Environment Act 2023, the creation of a forestry right shall be deemed not to be a subdivision of the land of the proprietor, and any right of access created as ancillary to a forestry right over the land of the proprietor shall be deemed not to be the creation of a right of way under section 348 of the Local Government Act 1974.
+For the purposes of the Resource Management Act 1991, the creation of a forestry right shall be deemed not to be a subdivision of the land of the proprietor, and any right of access created as ancillary to a forestry right over the land of the proprietor shall be deemed not to be the creation of a right of way under section 348 of the Local Government Act 1974.
 
 ### 7 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as are necessary or expedient for giving effect to the provisions of this Act and the due administration thereof.
