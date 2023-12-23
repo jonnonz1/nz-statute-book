@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2023-10-05_
+_Consolidation as at 2023-12-23_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -160,7 +160,7 @@ _Consolidation as at 2023-10-05_
   - **member** means a member of the Authority
   - **Minister** means the Minister for the Environment
   - **motor vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
-  - **natural and physical resources** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
+  - **natural and physical resources** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **new organism** has the meaning given to it by section 2A
   - **organism** —
     (a) does not include a human being:
@@ -2042,11 +2042,11 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
   (g) the chief executive of the Ministry of Health shall ensure that the provisions of this Act are enforced where it is necessary to protect public health:
   (h) the chief executive of any territorial authority—
     (i) shall ensure that the provisions of this Act are enforced in or on any premises situated in the district of the territorial authority other than those premises specified in paragraphs (a) to (g):
-    (ii) may enforce the provisions of this Act in or on those premises specified in paragraphs (a) to (g) where the territorial authority is in or on those premises for the purposes of enforcing the provisions of the Natural and Built Environment Act 2023:
+    (ii) may enforce the provisions of this Act in or on those premises specified in paragraphs (a) to (g) where the territorial authority is in or on those premises for the purposes of enforcing the provisions of the Resource Management Act 1991:
     (iii) shall ensure that the provisions of this Act are enforced in or on those premises specified in paragraphs (a) to (g), where the function, power, or duty is transferred to the territorial authority in accordance with section 98.
     (iv)
 (2) The chief executive of a regional council may—
-  (a) enforce the provisions of this Act in or on those premises specified in subsection (1)﻿(a) to (g) if the regional council is in or on those premises for the purposes of enforcing the provisions of the Natural and Built Environment Act 2023:
+  (a) enforce the provisions of this Act in or on those premises specified in subsection (1)﻿(a) to (g) if the regional council is in or on those premises for the purposes of enforcing the provisions of the Resource Management Act 1991:
   (b) enforce the provisions of this Act in or on those premises specified in subsection (1)﻿(a) to (g) if the function, power, or duty is transferred to the regional council in accordance with section 98.
 (3) The Authority must ensure that the following matters are enforced:
   (a) provisions of this Act in respect of classification controls and content controls, and equivalent conditions in group standards issued under section 96B that relate to hazardous substances:
@@ -2885,11 +2885,11 @@ No action or proceedings shall be brought against any enforcement officer or any
 (1) Nothing in this Act shall affect the requirements of the Biosecurity Act 1993 in relation to any organism.
 (2)
 (3)
-(4) Nothing in this Act shall apply to any resource consent, being—where that resource consent was granted before the coming into force of any regulations made under this Act (other than regulations made under Parts 11 to 16) until such time as the conditions on the resource consent are reviewed in accordance with section 337 of the Natural and Built Environment Act 2023.
+(4) Nothing in this Act shall apply to any resource consent, being—where that resource consent was granted before the coming into force of any regulations made under this Act (other than regulations made under Parts 11 to 16) until such time as the conditions on the resource consent are reviewed in accordance with section 128 of the Resource Management Act 1991.
   (a) a land use consent relating to the storage, use, disposal, or transportation of any hazardous substance; or
-  (b) a coastal permit to do something that would otherwise contravene section 26 of the Natural and Built Environment Act 2023; or
+  (b) a coastal permit to do something that would otherwise contravene section 15 of the Resource Management Act 1991; or
   (c) a discharge permit,—
-(5) For the purposes of this section, resource consent has the same meaning as in the Natural and Built Environment Act 2023.
+(5) For the purposes of this section, resource consent has the same meaning as in the Resource Management Act 1991.
 (6) Any controls prescribed under any other Act for any hazardous substance shall not contravene the provisions of EPA notices issued under sections 75 and 76 unless—
   (a) there is a provision in that other Act that expressly provides that controls made under that other Act for specified purposes may contravene the provisions of EPA notices issued under this Act; and
   (b) the controls are made for the purposes provided for in that Act.
