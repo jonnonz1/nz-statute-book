@@ -1,5 +1,5 @@
 # Crown Research Institutes Act 1992
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to provide for the formation of Crown-owned companies to undertake scientific research and other related activities, and to provide for matters incidental thereto
 
@@ -307,7 +307,7 @@ Nothing in this Act shall be construed as requiring the inclusion in any stateme
 (3) In stating, in a caveat lodged pursuant to subsection (1), the interest claimed by the caveator, it shall be sufficient, for the purposes of the Land Transfer Act 2017, to refer to sections 40 to 42 of the Public Works Act 1981 and this section.
 
 ### 32 Transfer of land not to constitute a subdivision or development
-Nothing in section 22 or Part 10 of the Natural and Built Environment Act 2023 applies to the transfer of land or an interest in land to a Crown Research Institute—where that transfer occurs not later than 30 June 1994.
+Nothing in section 11 or Part 10 of the Resource Management Act 1991 applies to the transfer of land or an interest in land to a Crown Research Institute—where that transfer occurs not later than 30 June 1994.
   (a) pursuant to this Act; or
   (b) by another Crown Research Institute,—
 
