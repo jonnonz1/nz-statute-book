@@ -1,5 +1,5 @@
 # Environmental Reporting Act 2015
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Environmental Reporting Act 2015.
@@ -51,7 +51,7 @@ In this Act, unless the context otherwise requires,—
   - **public health** has the meaning given in section 6(1) of the New Zealand Public Health and Disability Act 2000
   - **Secretary** means the chief executive of the Ministry
   - **Statistics New Zealand** means the department of State continued by the Data and Statistics Act 2022
-  - **structure** has the meaning given in section 11 of the Natural and Built Environment Act 2023
+  - **structure** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **synthesis report** means a report of a kind required to be produced by section 7
   - **te ao Māori** means Māori world view
   - **topic** means a topic prescribed for a synthesis report or a domain report in regulations made under section 19.
