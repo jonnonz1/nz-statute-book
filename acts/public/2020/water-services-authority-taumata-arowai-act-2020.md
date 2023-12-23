@@ -1,5 +1,5 @@
 # Taumata Arowai–the Water Services Regulator Act 2020
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Taumata Arowai–the Water Services Regulator Act 2020.
@@ -43,8 +43,8 @@ In this Act, unless the context otherwise requires,—
     (b) any person who operates a stormwater network, or any aspect of a stormwater network, for, or on behalf of, an organisation specified in paragraph (a)
   - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established by section 8
   - **Te Mana o te Wai** —
-    (a) has the meaning set out in the national planning framework made by Order in Council under section 103 of the Natural and Built Environment Act 2023 (and see also sections 5, 10, 17, and 18 of this Act):
-    (b) applies, for the purposes of this Act, to water (as that term is defined in section 11(1) of the Natural and Built Environment Act 2023)
+    (a) has the meaning set out in the National Policy Statement for Freshwater Management issued in 2020 under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2020 statement (and see also sections 5, 10, 17, and 18 of this Act); and
+    (b) applies, for the purposes of this Act, to water (as that term is defined in this section)
   - **urban area** —
     (a) means an area identified in a district plan or proposed district plan as being primarily zoned for residential, industrial, or commercial activities, together with adjoining special-purpose and open-space zones, however described; but
     (b) does not include an area zoned primarily for rural or rural-residential activities, however described
