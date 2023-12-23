@@ -1,5 +1,5 @@
 # Farm Debt Mediation Act 2019
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Farm Debt Mediation Act 2019.
@@ -90,7 +90,7 @@ The purpose of this Act is to provide parties to farm debt with the opportunity 
   - **prohibition certificate** means a prohibition certificate issued under section 39
   - **property** —
     (a) means any real or personal property in New Zealand; and
-    (b) includes any consent or permit granted under the Natural and Built Environment Act 2023
+    (b) includes any consent or permit granted under the Resource Management Act 1991
   - **related activities** means business activities that involve primary production and are carried out in connection with a primary production businessExampleA company produces buffalo milk and is a primary production business. In addition to producing milk, the company also makes and sells a limited range of cheeses. The company is primarily producing milk, and the cheese-making is a related activity.
   - **security interest** —
     (a) means—
