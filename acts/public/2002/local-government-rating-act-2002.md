@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -1982,11 +1982,11 @@ Land owned or used by a society or association of persons (whether incorporated 
 The use to which the land is put.
 
 ### 2
-The activities that are permitted, anticipated, discretionary, or prohibited for the area in which the land is situated under the Natural and Built Environment Act 2023 and the rules to which the land is subject under an operative plan under that Act.
+The activities that are permitted, controlled, or discretionary for the area in which the land is situated, and the rules to which the land is subject under an operative district plan or regional plan under the Resource Management Act 1991.
 
 ### 3
-The activities that are proposed to be permitted, anticipated, discretionary, or prohibited activities under the Natural and Built Environment Act 2023 and the proposed rules for the area in which the land is situated under a proposed plan under that Act, but only if—
-(a) no submissions in opposition have been made under subpart 2 of Part 2 of Schedule 6 of that Act on those proposed activities or rules, and the time for making submissions has expired; or
+The activities that are proposed to be permitted, controlled, or discretionary activities, and the proposed rules for the area in which the land is situated under a proposed district plan or proposed regional plan under the Resource Management Act 1991, but only if—
+(a) no submissions in opposition have been made under clause 6 of Schedule 1 of that Act on those proposed activities or rules, and the time for making submissions has expired; or
 (b) all submissions in opposition, and any appeals, have been determined, withdrawn, or dismissed.
 
 ### 4
