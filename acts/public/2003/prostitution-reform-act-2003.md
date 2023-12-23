@@ -1,5 +1,5 @@
 # Prostitution Reform Act 2003
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Prostitution Reform Act 2003.
@@ -115,11 +115,11 @@ Without limiting section 145 of the Local Government Act 2002, a territorial aut
 **Resource consents**
 
 ### 15 Resource consents in relation to businesses of prostitution
-(1) When considering an application for a resource consent under the Natural and Built Environment Act 2023 for a land use relating to a business of prostitution, a territorial authority must have regard to whether the business of prostitution—
+(1) When considering an application for a resource consent under the Resource Management Act 1991 for a land use relating to a business of prostitution, a territorial authority must have regard to whether the business of prostitution—
   (a) is likely to cause a nuisance or serious offence to ordinary members of the public using the area in which the land is situated; or
   (b) is incompatible with the existing character or use of the area in which the land is situated.
-(2) Having considered the matters in subsection (1)﻿(a) and (b) as well as the matters it is required to consider under the Natural and Built Environment Act 2023, the territorial authority may, in accordance with sections 287 and 288 of that Act, grant or refuse to grant a resource consent, or, in accordance with section 294 of that Act, impose conditions on any resource consent granted.
-(3) Subsection (1) does not limit or affect the operation of the Natural and Built Environment Act 2023 in any way, and it may be overriden, with respect to particular areas within a district, by the provisions of a plan or proposed plan under the Natural and Built Environment Act 2023.
+(2) Having considered the matters in subsection (1)﻿(a) and (b) as well as the matters it is required to consider under the Resource Management Act 1991, the territorial authority may, in accordance with sections 104A to 104D of that Act, grant or refuse to grant a resource consent, or, in accordance with section 108 of that Act, impose conditions on any resource consent granted.
+(3) Subsection (1) does not limit or affect the operation of the Resource Management Act 1991 in any way, and it may be overriden, with respect to particular areas within a district, by the provisions of a district plan or proposed district plan.
 
 **Protections for sex workers**
 
@@ -297,7 +297,7 @@ Every person commits an offence, and is liable on conviction to a fine not excee
     (ii) sections 127 to 144C (includes sexual crimes):
     (iii) Part 8 (includes murder, manslaughter, assault, and abduction):
     (iv) sections 234 to 244 (robbery, extortion, and burglary):
-    (v) section 257A (money laundering):
+    (v) section 243 (money laundering):
   (c) an offence under the Arms Act 1983 that is punishable by imprisonment:
   (d) in relation to the Misuse of Drugs Act 1975,—
     (i) an offence under section 6 (other than possession of a Class C controlled drug):
