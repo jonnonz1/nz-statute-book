@@ -1,5 +1,5 @@
 # Environment Act 1986
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to—aprovide for the establishment of the office of Parliamentary Commissioner for the Environment:bprovide for the establishment of the Ministry for the Environment:censure that, in the management of natural and physical resources, full and balanced account is taken of—ithe intrinsic values of ecosystems; andiiall values which are placed by individuals and groups on the quality of the environment; andiiithe principles of the Treaty of Waitangi; andivthe sustainability of natural and physical resources; andvthe needs of future generations
 
@@ -13,7 +13,7 @@ In this Act, unless the context otherwise requires,—
   - **consent** means an authorisation, permission, a licence, a permit, a right, and any other approval of any type whatsoever, capable of being granted under—and which it is necessary to obtain before the lawful commencement of any undertaking or activity which may affect the environment
     (a) any Act specified in the Schedule:
     (b) any regulation, rule, Order in Council, Proclamation, notice, or bylaw in force under any of those Acts:
-    (c) any plan or proposed plan under the Natural and Built Environment Act 2023
+    (c) any operative regional plan or district plan or proposed plan under the Resource Management Act 1991—
   - **contaminant** , means any substance (including gases, liquids, solids, and micro-organisms) or energy (including radioactivity and electromagnetic radiation but excluding noise) or heat, that either by itself or in combination with the same, similar, or other substances, energy, or heat—
     (a) changes or has the potential, when discharged into water, to change the physical, chemical, or biological condition of that water; or
     (b) changes or has the potential, when discharged onto or into land or into air, to change the physical, chemical, or biological condition of the land or air onto or into which it is discharged
@@ -79,7 +79,7 @@ The Commissioner shall not be capable of being a member of Parliament or of a lo
 (2) The salary of the Commissioner shall not be diminished during the continuance of the Commissioner's appointment.
 (3) Notwithstanding anything in subsection (1), there shall be paid to the Commissioner, in respect of time spent in travelling in the exercise of the Commissioner's functions, travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the Commissioner were a member of a statutory board and the travelling were in the service of a statutory board.
 (4) The Commissioner shall be entitled to such annual leave, sick leave, and other leave as may be determined by the Speaker of the House of Representatives.
-(5) The Commissioner shall not be regarded as being employed in the service of Her Majesty for the purposes of the Public Service Act 2020 by reason of appointment as the Commissioner.
+(5) The Commissioner shall not be regarded as being employed in the service of the Sovereign for the purposes of the Public Service Act 2020 by reason of appointment as the Commissioner.
 
 ### 10 Oath to be taken by Commissioner
 (1) Before entering upon the exercise of the duties of office the Commissioner shall take an oath that he or she will faithfully and impartially perform the duties of the office, and will not, except for the purposes of this Act, divulge any information received by the Commissioner under this Act.
@@ -89,7 +89,7 @@ The Commissioner shall not be capable of being a member of Parliament or of a lo
 (1) The Commissioner may from time to time appoint such employees as may be necessary for the efficient carrying out of the Commissioner's functions, powers, and duties under this Act.
 (2) The Commissioner is responsible for negotiating, under the Employment Relations Act 2000, every employment agreement applicable to employees appointed under this section.
 (3) The Commissioner shall operate a personnel policy that complies with the principle of being a good employer.
-(4) No person so employed shall be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 by reason of that person's appointment under this section.
+(4) No person so employed shall be deemed to be employed in the service of the Sovereign for the purposes of the Public Service Act 2020 by reason of that person's appointment under this section.
 
 ### 12 Secondment of State servants to office of Commissioner
 [Repealed]
@@ -246,9 +246,7 @@ The Ministry shall have the following functions:
     (iii) ways of ensuring that effective provision is made for public participation in environmental planning and policy formulation processes in order to assist decision making, particularly at the regional and local level:
   (b) to solicit and obtain information from any source, and to conduct and supervise research, so far as it is necessary for the formulation of advice to the Government on environmental policies:
   (c) to provide the Government, its agencies, and other public authorities with advice on—
-    (i) the application, operation, and effectiveness of the following Acts in relation to the achievement of the objectives of this Act:
-      (A) the Acts specified in the Schedule:
-      (B) the Spatial Planning Act 2023:
+    (i) the application, operation, and effectiveness of the Acts specified in the Schedule in relation to the achievement of the objectives of this Act:
     (ii) procedures for the assessment and monitoring of environmental impacts:
     (iii) pollution control and the co-ordination of the management of pollutants in the environment:
     (iv) the identification and likelihood of natural hazards and the reduction of the effects of natural hazards:
