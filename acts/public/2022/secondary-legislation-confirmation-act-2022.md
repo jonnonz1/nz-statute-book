@@ -1,5 +1,5 @@
 # Secondary Legislation Confirmation Act 2022
-_Consolidation as at 2022-12-16_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Secondary Legislation Confirmation Act 2022.
