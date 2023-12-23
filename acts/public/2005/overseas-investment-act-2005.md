@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2023-11-28_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -41,7 +41,7 @@ This Act is the Overseas Investment Act 2005.
 (2) See section 57A of the Fisheries Act 1996 for further provisions on the interpretation of the overseas investment fishing provisions.
 
 ### 6 Interpretation
-(1) In this Act, unless the context requires otherwise,—
+(1) In this Act, unless the context requires otherwise,—historic heritage has the meaning set out in section 2(1) of the Resource Management Act 1991
   - **acquisition** includes obtaining ownership or coming into possession by any means
   - **associate** has the meaning set out in section 8
   - **associated land** has the meaning set out in section 8
@@ -67,7 +67,6 @@ This Act is the Overseas Investment Act 2005.
   - **conveyancing services** has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006
   - **court** means the High Court
   - **critical direct supplier** means a person who has been notified by the Minister of their status as a critical direct supplier under section 20D
-  - **cultural heritage** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
   - **direction order** means an order made under section 88
   - **director** , in the case of a limited partnership, includes any general partner
   - **disposal order** means an order made under section 93
@@ -124,8 +123,8 @@ This Act is the Overseas Investment Act 2005.
   - **investor test** means the test set out in section 18A
   - **investor test factors** means the factors set out in section 18A(4)
   - **involved** , in relation to a contravention, an offence, or a failure to comply, has the meaning set out in subsection (7)
-  - **kaitiakitanga** has the meaning set out in section 11 of the Natural and Built Environment Act 2023
-  - **lake** means a lake (as defined in section 11 of the Natural and Built Environment Act 2023) that has a bed that exceeds 8 hectares in area
+  - **kaitiakitanga** has the meaning set out in section 2(1) of the Resource Management Act 1991
+  - **lake** means a lake (as defined in section 2(1) of the Resource Management Act 1991) that has a bed that exceeds 8 hectares in area
   - **land decision** means a decision under this Act on whether or not to consent to an overseas investment in sensitive land
   - **LINZ** means Land Information New Zealand
   - **listed issuer** —where terms used in this definition have the same meanings as in the Financial Markets Conduct Act 2013
@@ -147,7 +146,7 @@ This Act is the Overseas Investment Act 2005.
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **more than 25% ownership or control interest** has the meaning set out in subsection (4)
   - **more than 25% subsidiary** has the meaning set out in subsection (5)
-  - **natural and physical resources** has the meaning set out in section 11 of the Natural and Built Environment Act 2023
+  - **natural and physical resources** has the meaning set out in section 2(1) of the Resource Management Act 1991
   - **natural environment** includes land, water, air, soil, all forms of plants and animals (whether native to New Zealand or introduced), and ecosystems and their constituent parts
   - **New Zealand listed issuer** means a listed issuer that is incorporated in New Zealand or, in the case of a managed investment scheme, established under New Zealand law
   - **non-occupation outcome** has the meaning set out in clause 17 of Schedule 2
@@ -230,7 +229,7 @@ This Act is the Overseas Investment Act 2005.
     (a) means land that has a property category of residential or lifestyle in, or for the purpose of, the relevant district valuation roll (for example, the land’s first character category code is “R” or “L”); and
     (b) includes a residential flat in a building owned by a flat-owning company (regardless of whether the building is on land within a property category referred to in paragraph (a)), and, for that purpose, references in this Act to interest include a licence to occupy that flat, where terms in this paragraph have a meaning corresponding to those in section 121A of the Land Transfer Act 1952 or section 122 of the Land Transfer Act 2017
   - **risk management action** means the making of a direction order, prohibition order, disposal order, or recommendation under section 96 that a person be put into statutory management
-  - **river** means a river (as defined in section 11 of the Natural and Built Environment Act 2023) that has a bed of an average width, for its length on or adjoining the relevant land, of 3 metres or more
+  - **river** means a river (as defined in section 2(1) of the Resource Management Act 1991) that has a bed of an average width, for its length on or adjoining the relevant land, of 3 metres or more
   - **section 12 interest** has the meaning set out in section 12
   - **securities of the same class** means securities that have attached to them identical rights, privileges, limitations, and conditions, and securities of a has a corresponding meaning
   - **security** —
@@ -556,7 +555,7 @@ Special test relating to forestry activities
 (5) Regulations may, for the purposes of subsection (4)﻿(d), set out requirements that must be met after the overseas investment is given effect to.
 (6) Requirements set out in regulations for the purposes of subsection (4)﻿(d) may (without limitation) be about 1 or more of the following:
   (a) activities that must, or must not, be carried out on the relevant land:
-  (b) the maintenance or protection of things that exist when or before the overseas investment transaction is entered into (including (without limitation) the maintenance of existing arrangements relating to cultural heritage, biodiversity, environmental matters, public access, or the supply of logs):
+  (b) the maintenance or protection of things that exist when or before the overseas investment transaction is entered into (including (without limitation) the maintenance of existing arrangements relating to historic heritage, biodiversity, environmental matters, public access, or the supply of logs):
   (c) outcomes that must result from the overseas investment.
 Powers not to apply, or to modify, certain requirements
 (7) The relevant Ministers may decide—
@@ -598,8 +597,8 @@ What are the factors
 (1) The factors for assessing the benefit of overseas investments in sensitive land are whether the overseas investment will, or is likely to,—
   (a) result in economic benefits for New Zealand (for example, the creation or retention of jobs, the introduction of technology or business skills, increases in productivity or export receipts, or a reduced risk of illiquid assets):
   (b) result in benefits to the natural environment (for example, protection of indigenous flora and fauna or erosion control):
-  (c) result in continued or enhanced access by the public, or any section of the public, within or over the sensitive land or the features giving rise to the sensitivity (for example, access for recreational purposes or for the purposes of undertaking stewardship of, or exercising kaitiakitanga in relation to, cultural heritage or the natural environment):
-  (d) result in continued or enhanced protection of cultural heritage in or on the relevant land (for example, agreement to execute a heritage covenant (or comply with existing covenants), agreement to support entry to wāhi tūpuna, wāhi tapu, or wāhi tapu areas on the New Zealand Heritage List/ Rārangi Kōrero, taking other actions under the Heritage New Zealand Pouhere Taonga Act 2014 to recognise or protect heritage values, or agreement to land being set apart as a Māori reservation):
+  (c) result in continued or enhanced access by the public, or any section of the public, within or over the sensitive land or the features giving rise to the sensitivity (for example, access for recreational purposes or for the purposes of undertaking stewardship of, or exercising kaitiakitanga in relation to, historic heritage or the natural environment):
+  (d) result in continued or enhanced protection of historic heritage in or on the relevant land (for example, agreement to execute a heritage covenant (or comply with existing covenants), agreement to support entry to wāhi tūpuna, wāhi tapu, or wāhi tapu areas on the New Zealand Heritage List/ Rārangi Kōrero, taking other actions under the Heritage New Zealand Pouhere Taonga Act 2014 to recognise or protect heritage values, or agreement to land being set apart as a Māori reservation):
   (e) give effect to or advance a significant Government policy:
   (f) involve oversight of, or participation in, the overseas investment or any relevant overseas person by persons who are not overseas persons:
   (g) result in other consequential benefits to New Zealand.
@@ -1528,7 +1527,7 @@ The purpose of sections 61C and 61D is to—
     (iv) security arrangements that are entered into in the ordinary course of business:
     (v) relationship property as defined in section 8 of the Property (Relationships) Act 1976:
     (vi) interests in land acquired for the purpose of providing network utility services:
-    (vii) interests in residential (but not otherwise sensitive) land acquired in order to comply with a requirement imposed by or under the Natural and Built Environment Act 2023 and to support a business that is not principally in the business of using land for residential purposes:
+    (vii) interests in residential (but not otherwise sensitive) land acquired in order to comply with a requirement imposed by or under the Resource Management Act 1991 and to support a business that is not principally in the business of using land for residential purposes:
     (viii) persons, transactions, rights, interests, or assets that the Minister considers to be majority owned and substantively controlled by New Zealanders:
     (ix) persons, transactions, rights, interests, or assets that the Minister considers support, or are related to, the issuance or management of residential mortgage-backed securities complying with a standard created or endorsed by the Reserve Bank:
     (x) estates or interests in land other than freehold or leasehold (for example, covenants).
@@ -2503,8 +2502,8 @@ In this Part, unless the context otherwise requires,—
 | 5 | marine and coastal area | — |
 | 6 | bed of a lake | 0.4 hectares |
 | 7 | land held for conservation purposes under the Conservation Act 1987 | 0.4 hectares |
-| 8 | land that a plan under the Natural and Built Environment Act 2023 provides is to be used as a reserve, as a public park, for recreation purposes, or as open space | 0.4 hectares |
-| 9 | land subject to a heritage protection order, or a requirement for a heritage protection order, under the Natural and Built Environment Act 2023 or by Heritage New Zealand Pouhere Taonga under the Heritage New Zealand Pouhere Taonga Act 2014 | 0.4 hectares |
+| 8 | land that a district plan or proposed district plan under the Resource Management Act 1991 provides is to be used as a reserve, as a public park, for recreation purposes, or as open space | 0.4 hectares |
+| 9 | land subject to a heritage order, or a requirement for a heritage order, under the Resource Management Act 1991 or by Heritage New Zealand Pouhere Taonga under the Heritage New Zealand Pouhere Taonga Act 2014 | 0.4 hectares |
 | 10 | a historic place, historic area, wahi tapu, or wahi tapu area that is entered on the New Zealand Heritage List/Rārangi Kōrero or for which there is an application that is notified under section 67(4) or 68(4) of the Heritage New Zealand Pouhere Taonga Act 2014 | 0.4 hectares |
 | 11 | land that is set apart as Māori reservation and that is wahi tapu under section 338 of Te Ture Whenua Maori Act 1993 | 0.4 hectares |
 
@@ -3236,7 +3235,7 @@ If the owner’s acquisition of the relevant fresh or seawater interest is confi
 (5) The Crown only acquires the fresh or seawater interest under this clause to the extent that there is no better claim to the fresh or seawater interest than the claim that the owner had immediately prior to the vesting.
 
 ### 21 Acquisition is not subdivision
-Nothing in section 22 and Part 10 of the Natural and Built Environment Act 2023 applies to—
+Nothing in section 11 and Part 10 of the Resource Management Act 1991 applies to—
   (a) any acquisition by the Crown of land as a direct or indirect consequence of the operation of this schedule; or
   (b) any matter incidental to, or required for the purpose of, any acquisition of that kind.
 
