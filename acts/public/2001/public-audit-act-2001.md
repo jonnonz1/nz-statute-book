@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
