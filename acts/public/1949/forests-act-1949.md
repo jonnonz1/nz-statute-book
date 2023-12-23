@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -1231,7 +1231,7 @@ Where the Secretary—the beech coupe size provisions in a sustainable forest ma
   (d) vary or cancel the notification to the extent necessary to give effect to the agreement or amendment or renewal stated in the certificate.
 
 ### 67L Plan not to constitute subdivision
-The approval or registration of a sustainable forest management plan shall not constitute a subdivision of land for the purposes of the Local Government Act 1974 or the Natural and Built Environment Act 2023.
+The approval or registration of a sustainable forest management plan shall not constitute a subdivision of land for the purposes of the Local Government Act 1974 or the Resource Management Act 1991.
 
 **Miscellaneous provisions**
 
@@ -1281,7 +1281,7 @@ The representative area that may be set aside and accordingly be unavailable for
 (2) Any person or organisation having any interest in the decision greater than the public generally may, within 15 working days after the date on which the decision is notified under section 67G, appeal against a decision of the Secretary to the Environment Court if—
   (a) the decision is to approve a beech coupe size exceeding 0.5 hectares; or
   (b) the decision is the granting of an exemption under section 67J(2) in respect of beech coupe size provisions in a sustainable forest management plan.
-(3) For the purposes of this section, Schedule 13 of the Natural and Built Environment Act 2023 shall apply, with the necessary modifications, as if the decision appealed against were a resource consent under that Act.
+(3) For the purposes of this section, Part 11 of the Resource Management Act 1991 shall apply, with the necessary modifications, as if the decision appealed against were a resource consent under that Act.
 
 ### 67Q Records
 (1) The operator of any sawmill milling indigenous timber shall maintain in such form as may be prescribed by regulations made under section 72 a record of particulars relating to the source of such timber, including separate records specifically relating to—
@@ -1332,8 +1332,8 @@ Every person commits an offence who—
   (a) that the act that constituted the offence took place with his or her authority, permission, or consent; or
   (b) that he or she knew or could be reasonably expected to have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
 
-### 67V Relationship with Natural and Built Environment Act 2023
-Nothing in this Part derogates from the Natural and Built Environment Act 2023.
+### 67V Relationship of Part with Resource Management Act 1991
+Nothing in this Part derogates from any provision of the Resource Management Act 1991.
 
 ## Part 3B — Mechanism allowing landowners to access value created by Kyoto Protocol of carbon sequestration on land through establishment of forest sink covenants
 
@@ -1435,7 +1435,7 @@ Nothing in sections 316 to 318 of the Property Law Act 2007 applies to any fores
   (a) with the agreement of the Minister, redefines the boundaries of the land subject to the covenant; and
   (b) supercedes any previously submitted diagram or aerial photograph, or any part of any previously submitted diagram or aerial photograph.
 (9) If a plan is deposited under section 224 of the Land Transfer Act 2017 with respect to a forest sink covenant, the Registrar-General of Land must, if necessary, endorse, on any relevant record of title, a memorial that indicates that the boundaries of the land subject to the covenant, as defined, have been surveyed.
-(10) A forest sink covenant may not be treated as a subdivision of land for the purposes of the Natural and Built Environment Act 2023.
+(10) A forest sink covenant may not be treated as a subdivision of land for the purposes of the Resource Management Act 1991.
 
 ### 67ZE The Crown may register charges with respect to land subject to forest sink covenants in certain circumstances
 (1) The Minister may register a charge under subpart 5 of Part 3 of the Land Transfer Act 2017 against land subject to a forest sink covenant if—
@@ -1581,8 +1581,8 @@ The obligation of a person to pay any fee, levy, charge, or penalty under this s
 ### 67ZT Levy orders are confirmable instruments
 [Repealed]
 
-### 67ZU Relationship with Natural and Built Environment Act 2023
-Nothing in this Part derogates from the Natural and Built Environment Act 2023.
+### 67ZU Relationship of Part with Resource Management Act 1991
+Nothing in this Part derogates from any provision of the Resource Management Act 1991.
 
 ## Part 4 — Miscellaneous provisions
 
@@ -1693,8 +1693,8 @@ The plan shall include—
   (a) shall, in the case of a body corporate, be the owner's registered office:
   (b) may, in the case of multiple owners of Maori land, be the office of the appropriate Registrar of the Maori Land Court.
 
-### 4 Plan to specify relevant requirements under Natural and Built Environment Act 2023
-The plan must specify the relevant details of all applicable plans under the Natural and Built Environment Act 2023.
+### 4 Plan to specify relevant requirements under Resource Management Act 1991
+The plan must specify the relevant details of all applicable district plans and regional plans under the Resource Management Act 1991.
 
 ### 5 Term
 The plan shall specify the period for which the plan shall be in force.
