@@ -1,5 +1,5 @@
 # Health and Safety at Work Act 2015
-_Consolidation as at 2023-11-28_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Health and Safety at Work Act 2015.
@@ -2477,15 +2477,15 @@ The publication by the regulator of a notice under section 223(1) is conclusive 
 (6) If the regulator purports to act under a delegation under this section, the regulator must, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
 (7) No delegation affects or prevents the performance or exercise of any function or power by the Minister or affects the responsibility of the Minister for the actions of a person acting under the delegation.
 
-### 230 Relationship between regulations relating to hazardous substances under this Act and Natural and Built Environment Act 2023
+### 230 Relationship between regulations relating to hazardous substances under this Act and Resource Management Act 1991
 (1)
 (2)
 (3) Nothing prescribed in regulations made under this Act for the safe use, handling, manufacture, or storage of hazardous substances applies in relation to any resource consent to which this subsection applies that is—
   (a) a land use consent relating to the use, handling, manufacture, or storage of any hazardous substance; or
-  (b) a coastal permit to do something that would otherwise contravene section 26 of the Natural and Built Environment Act 2023; or
+  (b) a coastal permit to do something that would otherwise contravene section 15 of the Resource Management Act 1991; or
   (c) a discharge permit.
-(4) Subsection (3) applies where the resource consent concerned was granted before the coming into force of any regulations made under the Hazardous Substances and New Organisms Act 1996 and until such time as the conditions on the resource consent are reviewed in accordance with section 337 of the Natural and Built Environment Act 2023.
-(5) In this section, resource consent has the same meaning as in section 11 of the Natural and Built Environment Act 2023.
+(4) Subsection (3) applies where the resource consent concerned was granted before the coming into force of any regulations made under the Hazardous Substances and New Organisms Act 1996 and until such time as the conditions on the resource consent are reviewed in accordance with section 128 of the Resource Management Act 1991.
+(5) In this section, resource consent has the same meaning as in section 2(1) of the Resource Management Act 1991.
 
 ### Subpart 5 — Repeals, revocations, and consequential amendments
 
