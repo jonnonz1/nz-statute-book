@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -125,7 +125,7 @@ The purposes of this Act are—
 (3) For the purposes of this Act, otherwise dealing with an offender or other means of dealing with an offender—
   (a) means dealing with the offender in relation to an offence following a finding of guilt or a plea of guilty, instead of imposing a sentence; and
   (b) to avoid doubt, does not include dealing with a person for non-payment of a sum of money, disobedience of a court order, or contempt of court.
-(4) For the purposes of this Act, the offender, in the case of a Crown organisation that is charged with, or convicted of, an offence against the Building Act 2004, the Health and Safety at Work Act 2015, the Natural and Built Environment Act 2023, or Part 3 of the Children’s Act 2014, is that Crown organisation and not the Crown.
+(4) For the purposes of this Act, the offender, in the case of a Crown organisation that is charged with, or convicted of, an offence against the Building Act 2004, the Health and Safety at Work Act 2015, the Resource Management Act 1991, or Part 3 of the Children’s Act 2014, is that Crown organisation and not the Crown.
 
 ### 4A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
