@@ -1,5 +1,5 @@
 # Fiordland (Te Moana o Atawhenua) Marine Management Act 2005
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ## Preamble
 (1) Fiordland is a unique area that contains both exceptional marine biodiversity and valuable marine resources. Many marine species are found only in Fiordland, and some species (such as black and red corals) that are usually found only in very deep water occur in relatively shallow water in Fiordland. The fiords have become national icons and annually attract large numbers of tourists. The fiords and outer coast also support important commercial and recreational fisheries, notably rock lobster and blue cod.
@@ -35,12 +35,12 @@ In recognition of the Fiordland (Te Moana o Atawhenua) Marine Area's local, nati
     (b) the Ministry for the Environment:
     (c) the Ministry of Agriculture and Forestry:
     (d) the Ministry of Fisheries:
-    (e) the joint planning committee for the region under the Natural and Built Environment Act 2023
+    (e) the Southland Regional Council
   - **Minister** means the Minister for the Environment
   - **Ngāi Tahu Whānui** has the meaning set out in section 2 of Te Runanga o Ngai Tahu Act 1996
   - **pounamu** has the meaning set out in section 2 of the Ngai Tahu (Pounamu Vesting) Act 1997
   - **Southland Regional Coastal Plan** means the version of the proposed Southland Regional Coastal Plan as at 1 December 2004.
-(2) Unless the context otherwise requires, terms and expressions used and not defined in this Act, but defined in the Natural and Built Environment Act 2023, have the same meaning as in that Act.
+(2) Unless the context otherwise requires, terms and expressions used and not defined in this Act, but defined in the Resource Management Act 1991, have the same meaning as in that Act.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -96,7 +96,7 @@ This Act binds the Crown.
   (b) apply only to the Fiordland (Te Moana o Atawhenua) Marine Area (except for the amendments to section 7 of the Plan, some of which may apply to the wider Southland coastal marine area):
   (c) may become operative at different times:
   (d) do not require the Minister of Conservation's approval under clause 18 or clause 19 of Schedule 1 of the Resource Management Act 1991.
-(3) Nothing in this section prevents the Southland Regional Coastal Plan being varied or amended in accordance with Part 1 of Schedule 6 of the Natural and Built Environment Act 2023.
+(3) Nothing in this section prevents the Southland Regional Coastal Plan being varied or amended in accordance with Part 1 of Schedule 1 of the Resource Management Act 1991.
 (4) Subsection (2)﻿(d) does not apply to subsequent variations or amendments to the amendments referred to in subsection (1).
 (5) Subsections (3) and (4) are for the avoidance of doubt.
 
@@ -136,7 +136,7 @@ This section establishes the Fiordland Marine Guardians.
 ### 15 Membership of Guardians
 (1) The Guardians consist of not more than 8 members, and not less than 5 members, appointed by the Minister.
 (2) In appointing members to the Guardians, the Minister must—
-  (a) consult the Minister for Biosecurity, the Minister of Conservation, the Minister of Fisheries, and the joint planning committee for the region; and
+  (a) consult the Minister for Biosecurity, the Minister of Conservation, the Minister of Fisheries, and the Southland Regional Council; and
   (b) ensure that the membership reflects a balanced mix of knowledge and experience in relation to the Fiordland (Te Moana o Atawhenua) Marine Area; and
   (c) ensure that 1 member is nominated by Te Rūnanga o Ngāi Tahu: and
   (d) ensure that at least 5 members are ordinarily resident in the Otago or Southland regions.
@@ -256,7 +256,7 @@ The co-ordinates shown in this schedule are in terms of WGS84 Datum.
 (1) Subject to subclause (3), access is granted for members of Ngāi Tahu Whānui to remove pounamu from the marine reserves established by section 7(1).
 (2) The access granted by subclause (1) must be treated as if it were granted under the Crown Minerals Act 1991.
 (3) Subclause (1) is subject to—
-  (a) any prohibition, or requirement for a resource consent, under the Natural and Built Environment Act 2023; and
+  (a) any prohibition, or requirement for a resource consent, under the Resource Management Act 1991; and
   (b) authorisation by the kaitiaki rūnaka; and
   (c) the conditions specified in subclause (4).
 (4) The conditions referred to in subclause (3)﻿(c) are that—
