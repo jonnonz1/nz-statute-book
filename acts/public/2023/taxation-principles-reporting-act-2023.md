@@ -1,5 +1,5 @@
 # Taxation Principles Reporting Act 2023
-_Consolidation as at 2023-08-30_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Taxation Principles Reporting Act 2023.
