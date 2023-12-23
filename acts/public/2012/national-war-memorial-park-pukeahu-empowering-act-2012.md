@@ -1,5 +1,5 @@
 # National War Memorial Park (Pukeahu) Empowering Act 2012
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the National War Memorial Park (Pukeahu) Empowering Act 2012.
@@ -36,17 +36,17 @@ In this Act, unless the context otherwise requires,—
   - **certification** means the process by which statutory authorisations are certified under—
     (a) sections 20 to 22, in relation to statutory authorisations granted to the Agency:
     (b) section 24, in relation to statutory authorisations granted to the chief executive of the Ministry
-  - **consent authority** has the meaning given in section 11 of the Natural and Built Environment Act 2023
-  - **designation** has the meaning given in section 11 of the Natural and Built Environment Act 2023
-  - **discharge permit** has the meaning given in section 11 of the Natural and Built Environment Act 2023
+  - **consent authority** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **designation** has the meaning given in section 166 of the Resource Management Act 1991
+  - **discharge permit** has the meaning given in section 87(e) of the Resource Management Act 1991
   - **district plan** —
-    (a) means the plan for the Wellington Region as approved under Schedule 6 of the Natural and Built Environment Act 2023; and
+    (a) means the Wellington City District Plan as approved by the Wellington City Council under Schedule 1 of the Resource Management Act 1991; and
     (b) includes all operative changes to that plan; and
     (c) includes a proposed plan, to the extent that—
-      (i) it has legal effect under section 198 of the Natural and Built Environment Act 2023; or
-      (ii) it must be treated as operative under section 202 of that Act; and
-    (d) includes any changes to the former district plan notified before 1 October 2009
-  - **land use consent** has the meaning given in section 220 of the Natural and Built Environment Act 2023
+      (i) it has legal effect under section 86B of the Resource Management Act 1991; or
+      (ii) it must be treated as operative under section 86F of that Act; and
+    (d) includes any changes to the district plan notified before 1 October 2009
+  - **land use consent** has the meaning given in section 87(a) of the Resource Management Act 1991
   - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
   - **Minister** means the Minister for Arts, Culture and Heritage
   - **Ministry** means the Ministry for Culture and Heritage
@@ -55,8 +55,8 @@ In this Act, unless the context otherwise requires,—
     (b) include the land above the area indicated in figure 2 of Schedule 9 by the red hatched area and labelled as the cut and cover underpass envelope with Park over; but
     (c) do not include the roading network
   - **Park land** has the meaning given in section 5
-  - **requiring authority** has the meaning given in section 11 of the Natural and Built Environment Act 2023
-  - **resource consent** has the meaning given in section 11 of the Natural and Built Environment Act 2023
+  - **requiring authority** has the meaning given in section 166 of the Resource Management Act 1991
+  - **resource consent** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **roading network** means the roading network that is reconstructed or otherwise altered under the designation provided by section 9
   - **statutory authorisations** —
     (a) means the following:
@@ -68,7 +68,7 @@ In this Act, unless the context otherwise requires,—
       (vi) the property rights granted by section 18; and
     (b) includes any amendments to a statutory authorisation described in paragraph (a) or amendments to a statutory authorisation or other permission or right granted by Order in Council made under section 25
   - **territorial authority** has the meaning given in section 5(1) of the Local Government Act 2002
-  - **water permit** has the meaning given in section 220 of the Natural and Built Environment Act 2023.
+  - **water permit** has the meaning given in section 87(d) of the Resource Management Act 1991.
 
 ### 5 Meaning of Park land
 In this Act, Park land means all of the following land in the Wellington Land Registration District, to the extent that the land is within the boundaries of the land indicated in figure 2 of Schedule 9 by the blue dashed line:
@@ -148,7 +148,7 @@ This Act binds the Crown.
   (b) has the same force and effect as if it were included in the district plan or any proposed district plan under section 175(2) of the Resource Management Act 1991.
 (2) The conditions applying to the designation are specified in Part 2 of Schedule 3.
 (3) The land to which the designation applies is shown in figure 1 of Schedule 9.
-(4) The provisions of the Natural and Built Environment Act 2023 apply to the designation provided for by this section.
+(4) The provisions of the Resource Management Act 1991 apply to the designation provided for by this section (other than as excluded by subsection (5)).
 (5) The following provisions of the Resource Management Act 1991 do not apply in relation to the designation provided by this section:
   (a) section 174 (which provides for appeal rights):
   (b) section 176(1)﻿(b) (which prohibits certain actions from being carried out to or on land that is subject to a designation without the consent of the requiring authority), but only in respect of the construction, operation, and maintenance of the Park:
