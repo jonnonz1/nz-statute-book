@@ -1,5 +1,5 @@
 # Racing Industry Act 2020
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Racing Industry Act 2020.
@@ -443,8 +443,8 @@ Registration of ownership and record of title
   (b) record on the record of title any interests that are registered, noted, or to be noted and that are described in the application.
 (10) Subsection (9) is subject to the completion of any survey necessary to create a record of title.
 (11) A record of title must be created under subsection (9) as soon as is reasonably practicable after the transfer date.
-Application of Natural and Built Environment Act 2023
-(12) Section 22 and Part 10 of the Natural and Built Environment Act 2023 do not apply to—
+Application of Resource Management Act 1991
+(12) Section 11 and Part 10 of the Resource Management Act 1991 do not apply to—
   (a) the vesting of a surplus venue under this subpart; or
   (b) any matter incidental to, or required for the purpose of, the vesting.
 General
