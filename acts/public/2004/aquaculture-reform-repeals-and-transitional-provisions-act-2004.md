@@ -1,5 +1,5 @@
 # Aquaculture Reform (Repeals and Transitional Provisions) Act 2004
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
@@ -431,8 +431,8 @@ Section 36 of the Resource Management Act 1991 applies in relation to the functi
 
 **Transitional provisions relating to end of moratorium under Resource Management Act 1991**
 
-### 34 References to principal Act in sections 35 to 54
-In sections 35 to 54, references to provisions of the principal Act (formerly the Resource Management Act 1991) must be read as references to the corresponding provisions of the Natural and Built Environment Act 2023.
+### 34 Resource Management Act 1991 called principal Act in sections 35 to 54
+In sections 35 to 54, the Resource Management Act 1991 is called “the principal Act”.
 
 **Interim aquaculture management areas**
 
