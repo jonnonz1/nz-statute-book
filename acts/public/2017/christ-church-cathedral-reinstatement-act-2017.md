@@ -1,5 +1,5 @@
 # Christ Church Cathedral Reinstatement Act 2017
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Christ Church Cathedral Reinstatement Act 2017.
