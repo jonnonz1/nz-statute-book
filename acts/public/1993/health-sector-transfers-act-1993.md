@@ -1,5 +1,5 @@
 # Health Sector (Transfers) Act 1993
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > Title
 
@@ -447,7 +447,7 @@ Assets that have been fixed to, or placed under or over, any land may be transfe
 (3) In stating, in a caveat lodged under subclause (1), the interest claimed by the caveator, it shall be sufficient to refer to sections 40 to 42 of the Public Works Act 1981 and to this clause.
 
 ### 5 Transfer of land not to constitute a subdivision or development
-Nothing in section 22 or Part 10 of the Natural and Built Environment Act 2023 or section 348 of the Local Government Act 1974 applies to the transfer of land or an interest in land to a transferee under this Act or by another transferee.
+Nothing in section 11 or Part 10 of the Resource Management Act 1991 or section 348 of the Local Government Act 1974 applies to the transfer of land or an interest in land to a transferee under this Act or by another transferee.
 
 ### 6 Marginal strips
 Nothing in Part 4A of the Conservation Act 1987 shall apply to the disposition of any land by the transferring Ministers on behalf of a transferor other than the Crown.
@@ -456,7 +456,7 @@ Nothing in Part 4A of the Conservation Act 1987 shall apply to the disposition o
 The provisions of Part 2 of the Land Settlement Promotion and Land Acquisition Act 1952 shall not apply to any transfer of land or an interest in land to a transferee by another transferee.
 
 ### 8 Uses deemed to be permitted activity
-If any land is transferred to a transferee under this Act, the use of that land which is established at the date of the transfer is deemed to be a permitted activity under the Natural and Built Environment Act 2023 until the next completion of the review of the plan or appropriate part of the plan under that Act, and after that review the status of that use is to be as provided from time to time in or under the plan under that Act.
+If any land is transferred to a transferee under this Act, the use of that land which is established at the date of the transfer is deemed to be a permitted activity under the Resource Management Act 1991 until the next completion of the review of the district plan or appropriate part of the district plan, and after that review the status of that use is to be as provided from time to time in or under the district plan.
 
 ### 9 Title to land
 (1) The Registrar-General of Land must, on written application by any person authorised by the Minister and on payment of the prescribed fee,—
