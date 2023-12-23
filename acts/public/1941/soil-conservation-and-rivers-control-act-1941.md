@@ -1,5 +1,5 @@
 # Soil Conservation and Rivers Control Act 1941
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to make provision for the conservation of soil resources and for the prevention of damage by erosion, and to make better provision with respect to the protection of property from damage by floods
 
@@ -67,8 +67,8 @@ The objects of this Act are—
   (c) the prevention of damage by floods:
   (d) the utilisation of lands in such a manner as will tend towards the attainment of the said objects.
 
-### 10A Relationship to Natural and Built Environment Act 2023
-Despite section 10, nothing in this Act derogates from the provisions of sections 176 to 182 of the Harbours Act 1950, the Natural and Built Environment Act 2023, or the Spatial Planning Act 2023.
+### 10A Relationship to Resource Management Act 1991
+Despite section 10, nothing in this Act derogates from the provisions of sections 176 to 182 of the Harbours Act 1950 or the Resource Management Act 1991.
 
 ### 11 Functions of the Authority
 [Repealed]
@@ -1004,11 +1004,11 @@ Where any rate records, valuation roll or list, ratepayers roll, or any book or 
 ### 169 Government works not to be interfered with
 (1) Nothing in this Act shall—
   (a) authorise any Board to interfere with any public work executed or carried on by, or under the control of, the Government without the previous written consent and approval of the Minister under whose control the work is being executed or carried on; or
-  (b) prejudice or affect any power or authority vested in Her Majesty, or in the Governor-General, or in any Minister or other person on behalf of Her Majesty or the Governor-General, under any Act authorising the erection, construction, carrying on, or maintenance of any work.
+  (b) prejudice or affect any power or authority vested in the Sovereign, or in the Governor-General, or in any Minister or other person on behalf of the Sovereign or the Governor-General, under any Act authorising the erection, construction, carrying on, or maintenance of any work.
 (2) In giving any consent and approval under the last preceding subsection the Minister may impose such conditions as he thinks fit for the protection and safety of the public work.
 
 ### 170 Act not to affect property of the Crown
-Except as expressly provided in this Act, nothing in this Act or in any regulations or bylaws under this Act shall in any way affect the interest of Her Majesty in any property of any kind belonging to or vested in Her Majesty:provided that this Act and the regulations and bylaws thereunder shall apply to the interest of any lessee, licensee, or other person claiming an interest in any property of the Crown in the same manner as they apply to private property.
+Except as expressly provided in this Act, nothing in this Act or in any regulations or bylaws under this Act shall in any way affect the interest of the Sovereign in any property of any kind belonging to or vested in the Sovereign:provided that this Act and the regulations and bylaws thereunder shall apply to the interest of any lessee, licensee, or other person claiming an interest in any property of the Crown in the same manner as they apply to private property.
 
 ## Schedule 1
 
