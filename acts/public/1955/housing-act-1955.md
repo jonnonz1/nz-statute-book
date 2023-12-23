@@ -1,5 +1,5 @@
 # Housing Act 1955
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Short title
 This Act may be cited as the Housing Act 1955.
@@ -36,8 +36,8 @@ This Act may be cited as the Housing Act 1955.
 ### 3 Powers of Minister in relation to State housing
 The Minister may from time to time determine either generally or in any particular case what land or classes of land may be acquired for State housing purposes and the general scheme of development thereof, the number and classes of dwellings and ancillary commercial buildings to be constructed, and any other matters of State housing policy.
 
-### 3A Relationship to Natural and Built Environment Act 2023
-Nothing in this Part derogates from any provisions of the Natural and Built Environment Act 2023.
+### 3A Relationship to Resource Management Act 1991
+Nothing in this Part derogates from any of the provisions of the Resource Management Act 1991.
 
 ### 4 Crown land may be set apart for State housing purposes
 (1) The Minister of Lands may from time to time, by notice in the Gazette, set apart as State housing land any Crown land within the meaning of the Land Act 1948.
@@ -69,7 +69,7 @@ The cost of doing all or any of the following may be paid or contributed to out 
 
 ### 11 Vesting of roads, streets, etc
 (1) The Governor-General may, by Order in Council published in the Gazette, declare that any road, street, access way, or service lane, laid out or constructed under this Part within a district shall be vested in the territorial authority of the district and be under the control and management of that authority, and thereupon the road, street, access way, or service lane and the soil thereof and all materials of which it is composed shall be deemed to be vested in the authority in fee simple.
-(2) Subject to the Natural and Built Environment Act 2023, but notwithstanding anything to the contrary in the Public Works Act 1981 or the Local Government Act 1974, it shall be lawful for any local authority to consent under section 29 of the Public Works Amendment Act 1948 to the proclaiming of any land as a road or street of a width less than 12 metres if the land is State housing land or if the road or street is required to provide access to any State housing land or land subject to an agreement for sale or licence to occupy under section 16 or section 17 of this Act.
+(2) Subject to the Resource Management Act 1991, but notwithstanding anything to the contrary in the Public Works Act 1981 or the Local Government Act 1974, it shall be lawful for any local authority to consent under section 29 of the Public Works Amendment Act 1948 to the proclaiming of any land as a road or street of a width less than 12 metres if the land is State housing land or if the road or street is required to provide access to any State housing land or land subject to an agreement for sale or licence to occupy under section 16 or section 17 of this Act.
 
 ### 12 Building line restrictions
 [Repealed]
@@ -210,7 +210,7 @@ Subject to the provisions of this Part, Kāinga Ora–Homes and Communities may 
 
 ### 29 Registration of easement certificates
 (1) Any easement certificate issued by Kāinga Ora–Homes and Communities as aforesaid shall upon presentation for registration be registered by the Registrar-General of Land or Registrar of Deeds against the title to all land indicated in the certificate as affected thereby. An easement certificate shall not be registered as aforesaid unless there is a registered title to all land indicated in the certificate as affected thereby.
-(2) Any easement certificate may be registered as aforesaid notwithstanding that Her Majesty the Queen is the sole registered owner of all land indicated in the certificate as affected thereby.
+(2) Any easement certificate may be registered as aforesaid notwithstanding that the Sovereign is the sole registered owner of all land indicated in the certificate as affected thereby.
 (3) Any easement certificate may be varied, or may be cancelled in respect of all or any of the land indicated in the certificate as affected thereby,—
   (a) by the issue by Kāinga Ora–Homes and Communities of a further similar certificate specifying the manner in which the easement certificate is to be varied or the extent to which the certificate is to be cancelled:
     provided that an easement certificate shall not be varied under this paragraph so as to make it more onerous in respect of any land which is not for the time being State housing land:
