@@ -1,5 +1,5 @@
 # Legislation Act 2019
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Legislation Act 2019.
@@ -1661,8 +1661,6 @@ A failure to comply with this schedule does not invalidate secondary legislation
 | Section 44 |  | Exemption applies | Exemption applies |
 | Misuse of Drugs Act 1975 |  |  |  |
 | Section 4(1), (1B) |  |  | Exemption applies |
-| Natural and Built Environment Act 2023 |  |  |  |
-| Section 167 |  | Exemption applies |  |
 | Ombudsmen Act 1975 |  |  |  |
 | Section 15 |  | Exemption applies | See s 115(a) |
 | Organic Products and Production Act 2023 |  |  |  |
