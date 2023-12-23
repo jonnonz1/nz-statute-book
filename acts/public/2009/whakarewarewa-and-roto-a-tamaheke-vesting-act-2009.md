@@ -1,5 +1,5 @@
 # Whakarewarewa and Roto-a-Tamaheke Vesting Act 2009
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ## Preamble
 (1) The Whakarewarewa Valley Land and the Roto-a-Tamaheke Reserve are of significant cultural, traditional, historical, and spiritual importance to Ngāti Whakaue and Tūhourangi Ngāti Wahiao:
@@ -87,11 +87,14 @@ This Act binds the Crown.
   (b) the requirement in subsection (2A) of that section is to be treated as having been complied with in respect of that land.
 
 ### 9 Application of other enactments
+(1) Section 11 and Part 10 of the Resource Management Act 1991 (which relate to subdivisions and reclamations) do not apply to—
+  (a) the vesting of the fee simple estate in the Southern Arikikapakapa Reserve under this Part; or
+  (b) any matter incidental to, or required for the purpose of, that vesting.
 (1)
 (2) The vesting of the fee simple estate in the Southern Arikikapakapa Reserve under this Part does not—
   (a) limit section 10 or 11 of the Crown Minerals Act 1991; or
   (b) affect other rights to subsurface minerals; or
-  (c) limit the rights and obligations of the Crown or of a local authority in respect of geothermal energy (as defined by section 11 of the Natural and Built Environment Act 2023) under any enactment or rule of law.
+  (c) limit the rights and obligations of the Crown or of a local authority in respect of geothermal energy (as defined by section 2(1) of the Resource Management Act 1991) under any enactment or rule of law.
 
 ### 10 Modified application of Reserves Act 1977
 (1) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to the Southern Arikikapakapa Reserve, despite sections 48A(6), 114(5), and 115(6) of that Act.
@@ -240,7 +243,7 @@ The Minister of Conservation may direct that any intra-Crown payment for the Sou
   (c) the Minister of Māori Affairs certifies in writing that the subdivision and transfer complies with the conditions set out in the vesting deed; and
   (d) the Reserve or Reserves in question (relevant Reserves) remain reserves under the Reserves Act 1977 at the time of the subdivision and transfer.
 (2) The Minister of Māori Affairs must give the certificate required by subsection (1)﻿(c) if he or she is satisfied that the subdivision and transfer complies with the conditions set out in the vesting deed, but no more than 1 certificate may be given for the purposes of this section.
-(3) If this section applies, section 22 and Part 10 of the Natural and Built Environment Act 2023 do not apply to the subdivision and transfer or to any matter incidental to or required for the purpose of it.
+(3) If this section applies, section 11 and Part 10 of the Resource Management Act 1991 do not apply to the subdivision and transfer or to any matter incidental to or required for the purpose of it.
 (4) However, the subdivision and transfer may not take place unless the Minister of Conservation consents in writing to the transfer.
 (5) The Minister of Conservation must give that consent if, upon written application, the joint trustees satisfy the Minister of Conservation that the first transferee of each resulting parcel of land—
   (a) is able to comply with the requirements of the Reserves Act 1977; and
