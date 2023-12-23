@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -269,7 +269,7 @@ Each member of a Civil Defence Emergency Management Group—
   (h) Local Government Act 1974:
   (ha) Local Government Act 2002:
   (i) Maritime Transport Act 1994:
-  (j) Natural and Built Environment Act 2023:
+  (j) Resource Management Act 1991:
   (k) any enactment passed in substitution for any of the Acts in paragraphs (a) to (j).
 
 ### 18 General powers of Civil Defence Emergency Management Groups
@@ -1319,8 +1319,8 @@ A person who commits an offence against this Act is liable on conviction,—
 (2) Subsection (1) applies whether the loss or damage is caused by any person taking any action or failing to take any action, so long as the act or omission occurred in the exercise or performance of his or her functions, duties, or powers under this Act.
 (3) No person is exempted from liability under subsection (1) for any act or omission to act that constitutes bad faith or gross negligence on the part of that person.
 
-### 111 Restricted application of Natural and Built Environment Act 2023
-If a state of emergency is declared, or notice of a transition period is given, under this Act, the Natural and Built Environment Act 2023 applies to emergency works as provided for in section 696 of that Act.
+### 111 Restricted application of Resource Management Act 1991
+If a state of emergency is declared, or notice of a transition period is given, under this Act, the Resource Management Act 1991 applies to emergency works as provided for in section 330B of that Act.
 
 ### 112 Absence on duty not to affect employment rights
 (1) No person who is required by the Director or a Controller to be absent from his or her accustomed employment on civil defence emergency management duties during a state of emergency is liable to dismissal from that employment merely because of his or her absence on civil defence emergency management duties, whether or not his or her accustomed employer has consented to that absence.
