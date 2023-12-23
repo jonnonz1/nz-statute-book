@@ -1,5 +1,5 @@
 # Crown Forest Assets Act 1989
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to provide for—athe management of the Crown's forest assets:bthe transfer of those assets while at the same time protecting the claims of Maori under the Treaty of Waitangi Act 1975:cin the case of successful claims by Maori under that Act, the transfer of Crown forest land to Maori ownership and for payment by the Crown to Maori of compensation:dother incidental matters
 
@@ -9,7 +9,7 @@ _Consolidation as at 2023-08-24_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Crown** means Her Majesty the Queen in right of New Zealand
+  - **Crown** means the Sovereign in right of New Zealand
   - **Crown forest land** means all land that immediately before the commencement of section 32(1) of the State-Owned Enterprises Act 1986, was State forest land under the Forests Act 1949, Crown land, and other lands of the Crown, being land or lands shown as being allocated to New Zealand Forestry Corporation Limited on record plans—and includes land or any interest in land acquired pursuant to section 8(d); but does not include any land specified in Schedule 2, being land leased or licensed to the Crown for forestry purposes
     (a) lodged, whether before or after the commencement of this Act, in the office of the Chief Surveyor for the land district in which the land is situated; and
     (b) certified as correct for the purposes of this Act by that Chief Surveyor; and
@@ -274,12 +274,12 @@ A Crown forestry licence does not transfer to, or confer on, the licensee an est
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 33 Application of other Acts
-(1) None of the following constitutes a subdivision of land for the purposes of Part 10 of the Natural and Built Environment Act 2023—
+(1) None of the following constitutes a subdivision of land for the purposes of Part 10 of the Resource Management Act 1991—
   (a) the grant of a Crown forestry licence:
   (b) the termination of a Crown forestry licence or the termination of a Crown forestry licence in respect of part of the licensed land:
   (c) the surrender or rescission of a Crown forestry licence:
   (d) the transfer of any Crown forestry asset.
-(2) The taking of possession of any land pursuant to section 17(4)﻿(c)﻿(iv) is not a subdivision of land for the purposes of Part 10 of the Natural and Built Environment Act 2023.
+(2) The taking of possession of any land pursuant to section 17(4)﻿(c)﻿(iv) is not a subdivision of land for the purposes of Part 10 of the Resource Management Act 1991.
 (3) A right of access granted or reserved by, or created as ancillary to, a Crown forestry licence shall be deemed not to be the grant of a right of way under section 348 of the Local Government Act 1974.
 (4) Nothing in sections 40 to 42 of the Public Works Act 1981 applies to the grant of any Crown forestry licence or the transfer of any Crown forestry asset under this Act.
 
