@@ -1,5 +1,5 @@
 # Water Services Act 2021
-_Consolidation as at 2023-10-04_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Water Services Act 2021.
@@ -20,7 +20,7 @@ This Act is the Water Services Act 2021.
   (a) providing a drinking water regulatory framework that is consistent with internationally accepted best practice, including a duty on drinking water suppliers to—
     (i) have a drinking water safety plan; and
     (ii) comply with legislative requirements (such as drinking water standards) on a consistent basis; and
-  (b) providing a source water risk management framework that, together with the Natural and Built Environment Act 2023, regulations made under that Act, and the relevant part of the national planning framework under that Act, enables risks to source water to be properly identified, managed, and monitored; and
+  (b) providing a source water risk management framework that, together with the Resource Management Act 1991, regulations made under that Act, and the National Policy Statement for Freshwater Management, enables risks to source water to be properly identified, managed, and monitored; and
   (c) providing mechanisms that enable the regulation of drinking water to be proportionate to the scale, complexity, and risk profile of each drinking water supply.
 (2) This Act has the following additional purposes:
   (a) to establish a framework to provide transparency about the performance of drinking water, wastewater, and stormwater networks and network operators; and
@@ -83,8 +83,8 @@ In this Act, unless the context otherwise requires,—
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **medical officer of health** means a medical officer of health appointed under the Health Act 1956
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
+  - **National Policy Statement for Freshwater Management** means the National Policy Statement for Freshwater Management issued in 2020 under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2020 statement
   - **New Zealand Defence Force** has the same meaning as the term Defence Force in section 2(1) of the Defence Act 1990
-  - **NPF freshwater provisions** means a framework rule under the Natural and Built Environment Act 2023 that relates to freshwater management
   - **officer** , in relation to a drinking water supply,—
     (a) if the owner or operator is a company,—
       (i) means any person occupying the position of a director of the company by whatever name called; and
@@ -223,8 +223,8 @@ In this Act, unless the context otherwise requires, point of supply, in relation
 ### 14 Te Mana o te Wai: meaning, application, effect
 Meaning and application
 (1) In this Act, Te Mana o te Wai—
-  (a) has the meaning set out in the national planning framework made by Order in Council under section 103 of the Natural and Built Environment Act 2023 (and see also sections 5, 10, 17, and 18 of this Act):
-  (b) applies, for the purposes of this Act, to water (as that term is defined in section 11(1) of the Natural and Built Environment Act 2023.
+  (a) has the meaning set out in the National Policy Statement for Freshwater Management (as that term is defined in section 5 of this Act); and
+  (b) applies, for the purposes of this Act, to water (as that term is defined in section 5 of this Act).
 Effect
 (2) When exercising or performing a function, power, or duty under this Act, a person must give effect to Te Mana o te Wai, to the extent that Te Mana o te Wai applies to the function, power, or duty.
 
@@ -522,7 +522,7 @@ Notification regarding operation of other suppliers
 ### Subpart 5 — Source water
 
 ### 41 Purpose of subpart
-The purpose of this subpart is to provide a framework to ensure that, together with measures set out in the Natural and Built Environment Act 2023, regulations made under that Act, and the national planning framework freshwater provisions,—
+The purpose of this subpart is to provide a framework to ensure that, together with measures set out in the Resource Management Act 1991, regulations made under that Act, and the National Policy Statement for Freshwater Management,—
   (a) the risks and hazards to source water are identified, assessed, managed, and monitored by drinking water suppliers and local authorities; and
   (b) information on source water, and measures to manage risks and hazards to source water, are published on a regular basis by regional councils.
 
@@ -536,7 +536,7 @@ ExamplesSections 43 and 44 do not apply to a water carrier that fills tankers fr
   (a) identify any hazards that relate to the source water, including emerging or potential hazards; and
   (b) assess any risks that are associated with those hazards; and
   (c) identify how those risks will be managed, controlled, monitored, or eliminated as part of a drinking water safety plan; and
-  (d) have regard to any values identified by local authorities under the NPF freshwater provisions that relate to a freshwater body that the supplier uses as a source of a drinking water supply.
+  (d) have regard to any values identified by local authorities under the National Policy Statement for Freshwater Management that relate to a freshwater body that the supplier uses as a source of a drinking water supply.
 (3) A source water risk management plan is part of the supplier’s drinking water safety plan and, unless the context otherwise requires, references in this Act to a drinking water safety plan must be read as including a reference to a source water risk management plan.
 (4) Local authorities must contribute to the development and implementation of source water risk management plans prepared by drinking water suppliers, including by—
   (a) providing information to suppliers in accordance with compliance rules, including information about—
@@ -785,8 +785,8 @@ No drinking water emergency declaration may remain in force for longer than 28 d
   (b) the amount of compensation determined to be payable under this section; or
   (c) the determination of liability of any person to reimburse Taumata Arowai under subsection (4).
 
-### 65 Actions taken under emergency powers may be exempted from requirements of Part 2 of Natural and Built Environment Act 2023
-(1) If any action under section 62 is an activity that breaches the provisions of Part 2 of the Natural and Built Environment Act 2023, Taumata Arowai may exempt the action taken from those provisions during the period specified under section 59(4)﻿(d).
+### 65 Actions taken under emergency powers may be exempted from requirements of Part 3 of Resource Management Act 1991
+(1) If any action under section 62 is an activity that breaches the provisions of Part 3 of the Resource Management Act 1991, Taumata Arowai may exempt the action taken from those provisions during the period specified under section 59(4)﻿(d).
 (2) Before granting an exemption, Taumata Arowai—
   (a) must consult the relevant consent authority (to the extent that is practicable in the circumstances); and
   (b) may consult any other persons that Taumata Arowai considers appropriate.
@@ -796,7 +796,7 @@ No drinking water emergency declaration may remain in force for longer than 28 d
   (b) any appeal is lodged against the decision of the consent authority, in which case the exemption expires on the determination of the appeal or at the time specified by the court that determines the appeal.
 
 ### 66 Regulations relating to emergency situations
-(1) If any action has been exempted from Part 2 of the Natural and Built Environment Act 2023 under section 65 and Taumata Arowai considers that it is necessary, on the grounds prescribed in section 59(1), to continue the action beyond the period specified under section 59(4)﻿(d),—
+(1) If any action has been exempted from Part 3 of the Resource Management Act 1991 under section 65 and Taumata Arowai considers that it is necessary, on the grounds prescribed in section 59(1), to continue the action beyond the period specified under section 59(4)﻿(d),—
   (a) Taumata Arowai may request the Minister to recommend the making of regulations that extend the exemption; and
   (b) the Minister may recommend that the regulations be made; and
   (c) the Governor-General may, by Order in Council, make regulations for that purpose.
@@ -808,7 +808,7 @@ No drinking water emergency declaration may remain in force for longer than 28 d
 (4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 67 Effect of exemption
-If an exemption is granted under section 65 or extended under section 66(1), the provisions of Part 2 of the Natural and Built Environment Act 2023 do not apply to the actions taken under section 62 to which the exemption relates while the exemption remains in force.
+If an exemption is granted under section 65 or extended under section 66(1), the provisions of Part 3 of the Resource Management Act 1991 do not apply to the actions taken under section 62 to which the exemption relates while the exemption remains in force.
 
 ### Subpart 10 — Authorisations
 
@@ -1128,7 +1128,7 @@ A compliance officer may exercise a power under this subpart only for 1 or more 
 (6) To avoid doubt, a direction issued under this section may require the treatment of drinking water.
 
 ### 106 Requirements relating to exercise of section 105 powers
-(1) The exercise of any power referred to in section 105(3) that would otherwise involve the contravention of any of sections 21, 23, 24, 25, and 26 of the Natural and Built Environment Act 2023 is not a contravention of any of those sections if, before the exercise of the power, the compliance officer—
+(1) The exercise of any power referred to in section 105(3) that would otherwise involve the contravention of any of sections 9, 12, 13, 14, and 15 of the Resource Management Act 1991 is not a contravention of any of those sections if, before the exercise of the power, the compliance officer—
   (a) consults the relevant consent authority and takes account of any views expressed by the authority about the way in which the power is to be exercised; and
   (b) obtains the consent of Taumata Arowai to the exercise of the power.
 (2) A compliance officer must—
