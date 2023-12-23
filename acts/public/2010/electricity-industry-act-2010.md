@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -1152,11 +1152,11 @@ The trustees of a customer trust and the trustees of a community trust must, wit
 ### 116 Interpretation for subpart
 In this subpart, unless the context otherwise requires,—
   - **board** means the board of directors of a State generator
-  - **consent authority** means a consent authority under the Natural and Built Environment Act 2023
+  - **consent authority** means a consent authority under the Resource Management Act 1991
   - **Genesis** means Genesis Energy Limited, and includes any subsidiary of that company
   - **Meridian** means Meridian Energy Limited, and includes any subsidiary of that company
   - **Mighty River** means Mighty River Power Limited, and includes any subsidiary of that company
-  - **permit** means a water permit or a discharge permit granted, or deemed to be granted, under the Natural and Built Environment Act 2023
+  - **permit** means a water permit or a discharge permit granted, or deemed to be granted, under the Resource Management Act 1991
   - **shareholding Ministers** means the Minister of Finance and the Minister for State Owned Enterprises
   - **State generator** means each of Genesis, Meridian, and Mighty River
   - **Waitaki Power Scheme** means the activities allowed by the resource consents numbered from CRC905301.1 to CRC905366.1 relating to the generation of electricity within the Waitaki River system.
@@ -1218,7 +1218,7 @@ The purposes of sections 121 to 126 are—
   (e) the Minister has considered any representations made by the consent authority by the date specified under section 121(5).
 (3) An order under this section—
   (a)
-  (b) takes effect on a date specified in the order (which may be on or before the date that the permits are transferred to Genesis under the Natural and Built Environment Act 2023 but may not be before the date of the notice in the Gazette); and
+  (b) takes effect on a date specified in the order (which may be on or before the date that the permits are transferred to Genesis under the Resource Management Act 1991 but may not be before the date of the notice in the Gazette); and
   (c) takes effect as if it were a change to a condition that had been made by the consent authority.
   (d)
 (4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -1260,8 +1260,8 @@ The purposes of sections 121 to 126 are—
 (1) Sections 118 and 119 apply to any direction given under section 124(4), but nothing in this section requires the terms and conditions of any agreement to be disclosed under section 118(3).
 (2) This section and section 124 do not limit section 117.
 
-### 126 Interface with Natural and Built Environment Act 2023
-(1) Sections 239 to 325 and 334 of the Natural and Built Environment Act 2023 do not apply in respect of any matters under sections 121 to 125.
+### 126 Interface with Resource Management Act 1991
+(1) Sections 88 to 121 and 127 of the Resource Management Act 1991 do not apply in respect of any matters under sections 121 to 125.
 (2) There are no other appeal rights in respect of any matters under sections 121 to 125.
 (3) To avoid doubt, the Waitaki Catchment Water Allocation Regional Plan is not changed by this Act, and its effect on permits that are transferred or changed under this subpart is not affected by the transfer or change.
 
