@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -231,8 +231,8 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
       (i) a building that is included on the New Zealand Heritage List/Rārangi Kōrero maintained under section 65 of the Heritage New Zealand Pouhere Taonga Act 2014; or
       (ii) a building that is included on the National Historic Landmarks/Ngā Manawhenua o Aotearoa me ōna Kōrero Tūturu list maintained under section 81 of the Heritage New Zealand Pouhere Taonga Act 2014; or
       (iii) a place, or part of a place, that is subject to a heritage covenant under section 39 of the Heritage New Zealand Pouhere Taonga Act 2014 and is registered under section 41 of that Act; or
-      (iv) a place, or part of a place, that is subject to a heritage protection order within the meaning of section 11 of the Natural and Built Environment Act 2023; or
-      (v) a place, or part of a place, that is included in a schedule of a plan under the Natural and Built Environment Act 2023 because of its heritage value:
+      (iv) a place, or part of a place, that is subject to a heritage order within the meaning of section 187 of the Resource Management Act 1991; or
+      (v) a place, or part of a place, that is included in a schedule of a district plan because of its heritage value:
     (b) elsewhere in this Act, a building referred to in paragraph (a)﻿(i) or (ii)
   - **heritage dam** means a dam that is included on—
     (a) the New Zealand Heritage List/Rārangi Kōrero maintained under section 65 of the Heritage New Zealand Pouhere Taonga Act 2014; or
@@ -399,7 +399,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **territorial authority** —
     (a) means a city council or district council named in Part 2 of Schedule 2 of the Local Government Act 2002; and,—
       (i) in relation to land within the district of a territorial authority, or a building on or proposed to be built on any such land, means that territorial authority; and
-      (ii) in relation to any part of a coastal marine area (within the meaning of the Natural and Built Environment Act 2023) that is not within the district of a territorial authority, or a building on or proposed to be built on any such part, means the territorial authority whose district is adjacent to that part; and
+      (ii) in relation to any part of a coastal marine area (within the meaning of the Resource Management Act 1991) that is not within the district of a territorial authority, or a building on or proposed to be built on any such part, means the territorial authority whose district is adjacent to that part; and
     (b) includes the Minister of Conservation or the Minister of Local Government, as the case may be, in any case in which the Minister of Conservation or the Minister of Local Government is the territorial authority under section 22 of the Local Government Act 2002
   - **trade** means any trade, business, industry, profession, occupation, activity of commerce, or undertaking relating to—
     (a) the supply or acquisition of goods or services; or
@@ -488,13 +488,13 @@ In this Act, building does not include—
 (1) In this Act, unless the context otherwise requires, allotment means a parcel of land—
   (a) that is a continuous area of land; and
   (b) whose boundaries are shown on a survey plan, whether or not as a subdivision—
-    (i) approved by way of a subdivision consent granted under the Natural and Built Environment Act 2023; or
+    (i) approved by way of a subdivision consent granted under the Resource Management Act 1991; or
     (ii) allowed or granted under any other Act; and
   (c) that is—
     (i) subject to the Land Transfer Act 2017 and comprised in 1 record of title or for which 1 record of title could be issued under that Act; or
     (ii) not subject to that Act and was acquired by its owner under 1 instrument of conveyance.
 (2) For the purposes of subsection (1), an allotment is taken—
-  (a) to be a continuous area of land even if part of it is physically separated from any other part by a road or in any other manner, unless the division of the allotment into those parts has been allowed by a subdivision consent granted under the Natural and Built Environment Act 2023 or a subdivision approval under any former enactment relating to the subdivision of land:
+  (a) to be a continuous area of land even if part of it is physically separated from any other part by a road or in any other manner, unless the division of the allotment into those parts has been allowed by a subdivision consent granted under the Resource Management Act 1991 or a subdivision approval under any former enactment relating to the subdivision of land:
   (b) to include the balance of any land from which any allotment is being or has been subdivided.
 
 ### Subpart 3 — Outline of regulatory roles under this Act
@@ -975,7 +975,7 @@ An owner may apply to a territorial authority for a project information memorand
   - **special feature of the land concerned** includes, without limitation, potential natural hazards, or the likely presence of hazardous contaminants, that—
     (a) is likely to be relevant to the design and construction or alteration of the building or proposed building; and
     (b) is known to the territorial authority; and
-    (c) is not apparent from the plan under the Natural and Built Environment Act 2023.
+    (c) is not apparent from the district plan under the Resource Management Act 1991.
 
 ### 36 Territorial authority may issue development contribution notice
 (1) This section applies if a territorial authority considers that a development contribution under the Local Government Act 2002 is payable by the owner.
@@ -986,7 +986,7 @@ An owner may apply to a territorial authority for a project information memorand
 
 ### 37 Territorial authority must issue certificate if resource consent required
 (1) This section applies if a territorial authority considers that—
-  (a) a resource consent under the Natural and Built Environment Act 2023 has not yet been obtained; and
+  (a) a resource consent under the Resource Management Act 1991 has not yet been obtained; and
   (b) the resource consent will or may materially affect building work to which a project information memorandum or an application for a building consent relates.
 (2) The territorial authority must issue a certificate, in the prescribed form, to the effect that until the resource consent has been obtained—
   (a) no building work may proceed; or
@@ -1910,7 +1910,7 @@ An owner of a building must not change the use of the building,—
   (b) complies with section 112.
 
 ### 116A Code compliance requirements: subdivision
-A territorial authority must not issue a certificate under section 589 of the Natural and Built Environment Act 2023 for the purpose of giving effect to a subdivision affecting a building or part of a building unless satisfied, on reasonable grounds, that the building—
+A territorial authority must not issue a certificate under section 224(f) of the Resource Management Act 1991 for the purpose of giving effect to a subdivision affecting a building or part of a building unless satisfied, on reasonable grounds, that the building—
   (a) will comply, as nearly as is reasonably practicable, with every provision of the building code that relates to the following matters:
     (i) means of escape from fire:
     (ii) access and facilities for persons with disabilities (if this is a requirement under section 118):
@@ -2930,7 +2930,7 @@ ExampleA building that is not a heritage building has been damaged by an earthqu
   (d) state why the works are required; and
   (e) specify when the works must be completed; and
   (f) state that, if the works are carried out without a building consent, in reliance on section 41(1)﻿(cb), the owner must apply for a certificate of acceptance after completing the works, in accordance with section 42; and
-  (g) state that resource consent under the Natural and Built Environment Act 2023 is not required for the works (see section 133BY).
+  (g) state that resource consent under the Resource Management Act 1991 is not required for the works (see section 133BY).
 (5) The owner of a building must carry out works that are directed under subsection (2)﻿(b) at the owner’s expense.
 (6) If the owner does not carry out the works in accordance with the direction, the responsible person may do so.
 (7) If a responsible person carries out the works,—
@@ -2979,7 +2979,7 @@ ExampleA building that is not a heritage building has been damaged by an earthqu
 ExampleA building that is not a heritage building has been damaged by an earthquake. Urgent works are not required and re-entry to the building need not be prohibited. However, the responsible person believes that works on a damaged wall are necessary to make the building safe, sanitary, and otherwise suitable for long-term use or occupation. So this section applies and the responsible person may direct the building owner to carry out the works.
 
 ### 133BY Resource consent not required for certain works
-Resource consent under the Natural and Built Environment Act 2023 is not required for works that are carried out under section 133BS, 133BV, or 133BW.
+Resource consent under the Resource Management Act 1991 is not required for works that are carried out under section 133BS, 133BV, or 133BW.
 
 **Other matters**
 
@@ -3613,7 +3613,7 @@ In sections 177 to 190, party, in relation to a determination, means any or all 
   (f) sections 112, 113, 115, and 116 (which relate to alterations to, or changes in the use of, a building) and 124 and 129 (which relate to dangerous, affected, and insanitary buildings):
   (fa) any power of decision of a territorial authority under subpart 6A of Part 2, other than a power of decision under section 133AS (territorial authority may carry out seismic work):
   (g) a certificate for public use under section 363A:
-  (h) a certificate under section 589 of the Natural and Built Environment Act 2023.
+  (h) a certificate under section 224(f) of the Resource Management Act 1991.
 (4) Subsection (1)﻿(b) applies to any power of decision under this Act of a regional authority in respect of a dam.
 (4A) Subsection (1)﻿(b) applies to any power of decision of a responsible person under—
   (a) section 133BS (measures to keep people at safe distance and protect building); or
@@ -4254,7 +4254,7 @@ A person who wilfully obstructs, hinders, or resists the investigation of a buil
 **Functions, duties, and powers of territorial authorities generally**
 
 ### 212 Territorial authority must act as building consent authority for its district
-(1) A territorial authority must perform the functions of a building consent authority within its district, and for any coastal marine area (within the meaning of the Natural and Built Environment Act 2023) adjacent to its district that is not within the district of another territorial authority, in relation to—
+(1) A territorial authority must perform the functions of a building consent authority within its district, and for any coastal marine area (within the meaning of the Resource Management Act 1991) adjacent to its district that is not within the district of another territorial authority, in relation to—
   (a) any application for a building consent made to the territorial authority; and
   (b) any building consent granted under that application.
 (2) Subsection (1) does not apply in the case of dams.
@@ -7650,7 +7650,7 @@ Section 378, as in force before the commencement of section 91 of the Building (
 ### 1AA Interpretation
 In this schedule, unless the context otherwise requires,—
   - **Acceptable Solution B1/AS1** means Acceptable Solution B1/AS1 as set out in the Acceptable Solution for New Zealand Building Code Clause B1 Structure, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 28 November 2019
-  - **rural zone** , in relation to building work, means any zone or area (other than a rural residential area) that, in the plan under the Natural and Built Environment Act 2023 of the territorial authority in whose district the building work is to be undertaken, is described as a rural zone, rural resource area, or rural environment, or by words of similar meaning
+  - **rural zone** , in relation to building work, means any zone or area (other than a rural residential area) that, in the district plan of the territorial authority in whose district the building work is to be undertaken, is described as a rural zone, rural resource area, or rural environment, or by words of similar meaning
   - **Verification Method B1/VM1** means Verification Method B1/VM1 as set out in the Verification Method for New Zealand Building Code Clause B1 Structure, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 28 November 2019.
 
 ### Part 1 — Exempted building work
@@ -7992,7 +7992,7 @@ Building work in connection with any plinth or similar foundation if the plinth 
 (1) Building work in connection with a retaining wall in a rural zone, if—
   (a) the wall retains not more than 3 metres depth of ground; and
   (b) the distance between the wall and any legal boundary or existing building is at least the height of the wall.
-(2) In subclause (1), rural zone means any zone or area (other than a rural residential area) that, in the plan under the Natural and Built Environment Act 2023 of the territorial authority in whose district the building work is to be undertaken, is described as a rural zone, rural resource area, or rural environment, or by words of similar meaning.
+(2) In subclause (1), rural zone means any zone or area (other than a rural residential area) that, in the district plan of the territorial authority in whose district the building work is to be undertaken, is described as a rural zone, rural resource area, or rural environment, or by words of similar meaning.
 
 ### 42 Certain public playground equipment
 Building work in connection with playground equipment if the work is for a government department, Crown entity, licensed early childhood centre, territorial or regional authority, or other similar public organisation.
