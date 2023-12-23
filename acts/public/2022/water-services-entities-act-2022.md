@@ -1,5 +1,5 @@
 # Water Services Entities Act 2022
-_Consolidation as at 2023-08-31_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Water Services Entities Act 2022.
@@ -205,8 +205,6 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **regional planning committee** has the same meaning as in section 11(1) of the Natural and Built Environment Act 2023
   - **regional representative** means a territorial authority representative or mana whenua representative
   - **regional representative group** means, in relation to a water services entity, the regional representative group established for the entity under section 27
-  - **regional spatial strategy** has the meaning set out in section 8 of the Spatial Planning Act 2023
-  - **regional spatial strategy** has the same meaning as in section 8(1) of the Spatial Planning Act 2023
   - **regulations** means regulations made under section 484 or section 485 (as the case may be)
   - **reserve** has the same meaning as in section 2(1) of the Reserves Act 1977
   - **resource consent** has the same meaning as in section 11(1) of the Natural and Built Environment Act 2023
@@ -249,7 +247,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
       (i) 2 or more water services entities hold shares; and
       (ii) the combined shareholding produces 1 or more of the circumstances described in paragraph (a)
   - **Te Mana o te Wai** —
-    (a) has the meaning set out in the national planning framework made by Order in Council under section 103 of the Natural and Built Environment Act 2023; and
+    (a) has the meaning set out in the National Policy Statement for Freshwater Management issued in 2020 under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2020 statement (see also sections 4, 5, and 14 of this Act); and
     (b) applies, for the purposes of this Act, to water (as that term is defined in this section)
   - **Te Mana o te Wai statement for water services** means a statement provided by mana whenua to a water services entity under section 143
   - **territorial authority** has the meaning set out in section 5 of the Local Government Act 2002
@@ -1898,7 +1896,7 @@ The purpose of a statement of intent is to promote the public accountability of 
 (6) A statement of intent must include the information in section 149(2)﻿(f) and (3)﻿(a) and (c)—
   (a) in detail for each of the first 3 financial years covered by the statement; and
   (b) in outline for each of the later financial years covered by the statement.
-(7) In preparing a statement of intent, the board must take into account each regional spatial strategy and implementation plan (as defined in section 8 of the Spatial Planning Act 2023) that applies within the entity’s service area.
+(7)
 
 ### 149 Content of statement of intent
 Strategic elements
@@ -1951,7 +1949,7 @@ The board of a water services entity must, as soon as practicable after providin
   (c) how the plan meets the proposed activities and intention of the entity set out in its statement of intent; and
   (d) any actions the entity intends to take in a particular geographic area (consistent with its statement of intent) in response to advice provided (to the entity’s regional representative group) by a regional advisory panel; and
   (e) how the plan relates to any actions the entity intends to take (consistent with its plan under section 144(2)) as part of its response to a Te Mana o te Wai statement for water services.
-(2) An asset management plan must not be inconsistent with any of the regional spatial strategies that apply within the entity’s service area.
+(2)
 
 ### 153 Obligation to publish asset management plan
 As soon as practicable after an asset management plan is provided to the regional representative group, the chief executive of a water services entity must publish the asset management plan on an Internet site maintained by, or on behalf of, the water services entity in a format that is readily accessible.
@@ -1964,7 +1962,7 @@ As soon as practicable after an asset management plan is provided to the regiona
   (a) cover a period of not less than 10 consecutive financial years; and
   (b) comply with section 155; and
   (c) be prepared in accordance with Part 3 of Schedule 3.
-(3) In preparing the financial strategy required by section 155(1)﻿(c), the board must take into account each regional spatial strategy that applies within the entity’s service area.
+(3)
 
 ### 155 Content of funding and pricing plan
 (1) A funding and pricing plan for a water services entity must, for the period to which it relates, set out—
@@ -2034,7 +2032,7 @@ As soon as practicable after a funding and pricing plan is provided to the regio
 (8) An infrastructure strategy for a water services entity must also identify and explain any significant connections with, or interdependencies between, the matters included in—
   (a) that infrastructure strategy; and
   (b) the infrastructure strategies prepared and adopted (under section 101B of the Local Government Act 2002) by local authorities in the entity’s service area.
-(9) An infrastructure strategy must not be inconsistent with any of the regional spatial strategies that apply within the entity’s service area.
+(9)
 
 ### 159 Obligation to publish infrastructure strategy
 As soon as practicable after an infrastructure strategy is provided to the regional representative group, the chief executive of a water services entity must publish the infrastructure strategy on an Internet site maintained by, or on behalf of, the water services entity in a format that is readily accessible.
