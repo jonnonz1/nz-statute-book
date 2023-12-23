@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > Title
 
@@ -348,9 +348,9 @@ Any existing fittings, lawfully fixed to or lawfully installed over or under any
   (g) the co-ordination with road construction work by the local authority or other body or person who has jurisdiction over that road:
   (h) the need of the gas operator to establish a gas network in a timely manner.
 (2) Nothing in subsection (1) limits a local authority’s or other body’s or person’s ability to impose reasonable conditions under section 25(2).
-(3) However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a plan under the Natural and Built Environment Act 2023 as an area in relation to which, under the plan under that Act, there are particular considerations, or rules or requirements, relating to amenity values.
+(3) However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a district plan as an area in relation to which, under the district plan, there are particular considerations, or rules or requirements, relating to amenity values.
 (4) If the cost to the gas operator of complying with a condition referred to in subsection (3) is higher than it would have been if there were not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.
-(5) In subsection (3), a reference to a plan under the Natural and Built Environment Act 2023 includes a reference to a development plan under the Urban Development Act 2020.
+(5) In subsection (3), a reference to a district plan includes a reference to a development plan under the Urban Development Act 2020.
 
 ### 26 Notice to be given before work undertaken
 (1) Except as provided in subsection (5), before a gas operator proceeds to undertake any work pursuant to the powers contained in section 25(1), the gas operator shall give notice of its intention to undertake the work to—
