@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Act 1981
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to establish a corporation to maintain, operate, and develop the services at present carried on by the New Zealand Government Railways Department and to consolidate and amend the law relating thereto
 
@@ -54,8 +54,8 @@ _Consolidation as at 2023-08-24_
 ### 3 Minister of Railways
 [Repealed]
 
-### 3A Relationship to Natural and Built Environment Act 2023
-Despite section 16 of the Natural and Built Environment Act 2023, that Act applies to the Corporation as if it were a Crown organisation.
+### 3A Relationship to Resource Management Act 1991
+The Corporation is not an instrument of the Executive Government of New Zealand for the purposes of the Resource Management Act 1991.
 
 ### 4 New Zealand Railways Corporation
 (1) There shall be a Corporation to be called the New Zealand Railways Corporation, which shall be an instrument of the Executive Government of New Zealand.
@@ -304,7 +304,7 @@ The Corporation may from time to time enter into any agreement or contract with 
 (6) The said cost shall be a charge upon the land.
 (7) Except with the written consent of the Corporation or of the Minister of Transport, it shall not be lawful for any local authority, or for any person other than the Corporation or the Minister of Transport, to exercise upon any railway land any of the powers conferred by this section upon the Corporation or the Minister of Transport.
 (8) All claims for compensation in respect of the exercise of any of the powers conferred by this section shall, unless settled by agreement, be determined in the manner provided by the Public Works Act 1981, and the provisions of that Act relating to compensation shall, so far as they are applicable and with any necessary modifications, apply accordingly.
-(9) Nothing in this section shall derogate from the provisions of Part 2 of the Natural and Built Environment Act 2023.
+(9) Nothing in this section shall derogate from the provisions of Part 3 of the Resource Management Act 1991.
 
 ### 31A Railway drains
 [Repealed]
