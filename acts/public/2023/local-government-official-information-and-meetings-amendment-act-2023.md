@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Amendment Act 2023
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Local Government Official Information and Meetings Amendment Act 2023.
@@ -18,7 +18,8 @@ This Act amends the Local Government Official Information and Meetings Act 1987.
 
 ### 4 Section 2 amended (Interpretation)
 In section 2(1), insert in their appropriate alphabetical order:
-  - **natural hazard** has the meaning given in paragraphs (a) and (b) of the definition of that term in section 11(1) of the Natural and Built Environment Act 2023
+  - **climate change** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **natural hazard** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **regional council** has the meaning given in section 5(1) of the Local Government Act 2002
   - **regulations** means regulations made under section 55
   - **territorial authority** has the meaning given in section 5(1) of the Local Government Act 2002
@@ -35,23 +36,25 @@ Replace section 44A(2)﻿(a) with:
   (a) the information about natural hazards that is required by section 44B:
   (aa) information about other special features or characteristics of the land concerned, including information about the likely presence of hazardous contaminants, that—
     (i) is known to the territorial authority; but
-    (ii) is not apparent from a plan under the Natural and Built Environment Act 2023:
+    (ii) is not apparent from a district plan under the Resource Management Act 1991:
 
 ### 8 New sections 44B to 44D inserted
 After section 44A, insert:Natural hazard information to be included in land information memorandaRegional council must provide territorial authority with natural hazard informationTerritorial authority and regional council protected against certain actions when providing information in good faith
-  (1) The purpose of this section is to ensure that land information memoranda contain understandable information about natural hazards in relation to land.
+  (1) The purpose of this section is to ensure that land information memoranda contain understandable information about the following in relation to land:
+    (a) natural hazards:
+    (b) impacts of climate change that exacerbate natural hazards.
   (2) A land information memorandum must include—
     (a) information that identifies the following, to the extent that the information is known to the territorial authority:
-      (i) each natural hazard that affects the land concerned:
-      (ii) each potential natural hazard to the extent that the territorial authority is satisfied that there is a reasonable possibility that the hazard may affect the land concerned (whether now or in the future):
-      (iii) the cumulative or combined effects of the hazards referred to in subparagraphs (i) and (ii) on the land concerned; and
+      (i) each natural hazard, and each impact of climate change that exacerbates natural hazards, that affects the land concerned:
+      (ii) each potential natural hazard, and each potential impact of climate change that exacerbates natural hazards, to the extent that the territorial authority is satisfied that there is a reasonable possibility that the hazard or impact may affect the land concerned (whether now or in the future):
+      (iii) the cumulative or combined effects of the hazards and impacts referred to in subparagraphs (i) and (ii) on the land concerned; and
     (b) any further information required by the regulations to make the information provided under paragraph (a) more understandable.
   (3) The information must be summarised and presented in the land information memorandum in the form required by the regulations (if any).
   (1) A regional council must, as soon as is reasonably practicable in the circumstances, provide to a territorial authority within or partly within its region—
     (a) information that identifies the following, to the extent that the information is known to the regional council:
-      (i) each natural hazard that affects land in the territorial authority’s district:
-      (ii) each potential natural hazard to the extent that the regional council is satisfied that there is a reasonable possibility that the hazard may affect land in the territorial authority’s district (whether now or in the future):
-      (iii) the cumulative or combined effects of the hazards referred to in subparagraphs (i) and (ii) on land in the territorial authority’s district; and
+      (i) each natural hazard, and each impact of climate change that exacerbates natural hazards, that affects land in the territorial authority’s district:
+      (ii) each potential natural hazard, and each potential impact of climate change that exacerbates natural hazards, to the extent that the regional council is satisfied that there is a reasonable possibility that the hazard or impact may affect land in the territorial authority’s district (whether now or in the future):
+      (iii) the cumulative or combined effects of the hazards and impacts referred to in subparagraphs (i) and (ii) on land in the territorial authority’s district; and
     (b) any further information required by the regulations to make the information provided under paragraph (a) more understandable.
   (2) The information must be summarised and presented in the form required by the regulations (if any).
   A territorial authority or regional council is not liable in civil or criminal proceedings for making available in good faith,—
