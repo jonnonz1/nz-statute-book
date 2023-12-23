@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Restructuring Act 1990
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to enable the New Zealand Railways Corporation to be restructured, to provide for the vesting in companies incorporated under the Companies Act 1955 and in the Crown of railways assets and liabilities, to amend the New Zealand Railways Corporation Act 1981, and to provide for related matters
 
@@ -129,7 +129,7 @@ Notwithstanding any other provision of this Act, Crown land within the meaning o
 ### 12 Ancillary powers to grant leases and other rights to use railways assets
 (1) The Ministers or the Corporation, as the case may be, may grant to a transferee company or a railway operator leases, licences, easements, and permits or rights of any kind in respect of railways assets owned by the Crown or the Corporation for such consideration and on such terms and conditions as the Ministers or the Corporation, as the case may be, may agree with the transferee company or railway operator.
 (2)
-(3) Section 22 of the Natural and Built Environment Act 2023 does not apply in respect of the granting of a lease to a railway operator under subsection (1) unless the land in respect of which the lease is granted is used, or is intended to be used, solely or principally for car parking, or for administration or residential purposes, or for any purpose that is not connected with the operation of a railway.
+(3) Section 11(1) of the Resource Management Act 1991 does not apply in respect of the granting of a lease to a railway operator under subsection (1) unless the land in respect of which the lease is granted is used, or is intended to be used, solely or principally for car parking, or for administration or residential purposes, or for any purpose that is not connected with the operation of a railway.
 
 ### 13 Continuity of employment
 Where the rights and liabilities arising under a contract of service between a worker and the Corporation or between a worker and a Crown transferee company are vested in a Crown transferee company pursuant to this Act—
@@ -223,17 +223,17 @@ For the purposes of this section and sections 23, 24, and 26,—
 (4) Within 1 month after the registration of the memorandum of transfer, the transferor shall give to the Chief Surveyor written notice of the registration and of the full name, address, and occupation of the transferee.
 
 ### 25A Subdivision
-(1) Subject to the provisions of this section, section 22 and Part 10 of the Natural and Built Environment Act 2023 shall not apply to any subdivision undertaken by the Corporation, transferee company, or a railway operator to give effect to a transfer or disposal of land pursuant to section 23 or section 24 or section 26, if that transfer or disposal (of all or part of an allotment) is to an owner of adjoining land.
+(1) Subject to the provisions of this section, section 11 and Part 10 of the Resource Management Act 1991 shall not apply to any subdivision undertaken by the Corporation, transferee company, or a railway operator to give effect to a transfer or disposal of land pursuant to section 23 or section 24 or section 26, if that transfer or disposal (of all or part of an allotment) is to an owner of adjoining land.
 (2) Every transfer or other disposition to which subsection (1) applies, shall be deemed to be subject to a condition that—
   (a) the land being transferred or disposed of shall be held in one certificate of title with the owner's adjoining land; or
-  (b) where subsection (4) applies, a covenant shall be entered into between the owner of the adjoining land and the territorial authority that the land being transferred or disposed of shall not, otherwise than in accordance with a subdivision consent under the Natural and Built Environment Act 2023, be transferred, leased, or otherwise disposed of except in conjunction with the owner's adjoining land.
+  (b) where subsection (4) applies, a covenant shall be entered into between the owner of the adjoining land and the territorial authority that the land being transferred or disposed of shall not, otherwise than in accordance with a subdivision consent under the Resource Management Act 1991, be transferred, leased, or otherwise disposed of except in conjunction with the owner's adjoining land.
 (3) The Corporation, transferee company, or the railway operator (as the case may be) shall consult with the District Land Registrar as to the practicality of a condition of a kind referred to in subsection (2)﻿(a).
 (4) If the District Land Registrar advises the Corporation, transferee company, or railway operator (as the case may be) that a condition of a kind referred to in subsection (2)﻿(a) is not practical, then any transfer or disposal of land to which subsection (1) applies shall be deemed to be subject to a condition of a kind referred to in subsection (2)﻿(b).
 (5) Every condition of a kind referred to in subsection (2)﻿(a) or (b) shall be endorsed on the survey plan giving effect to the subdivision to which subsection (1) applies, and the District Land Registrar shall not deposit that survey plan unless—
   (a) he or she is satisfied that any condition of the kind referred to in subsection (2)﻿(a) has been complied with as fully as may be possible in the office of the Registrar; or
   (b) a covenant of a kind referred to in subsection (2)﻿(b) has been lodged for registration.
 (6) Where a condition of a kind referred to in subsection (2)﻿(a) has been complied with—
-  (a) the separate parcels of land included in the certificate of title in accordance with the condition shall not be capable of being disposed of individually or being held under separate certificates of title, otherwise than in accordance with a subdivision consent under the Natural and Built Environment Act 2023; and
+  (a) the separate parcels of land included in the certificate of title in accordance with the condition shall not be capable of being disposed of individually or being held under separate certificates of title, otherwise than in accordance with a subdivision consent under the Resource Management Act 1991; and
   (b) on the issue of a certificate of title, the District Land Registrar shall enter on the certificate of title a memorandum that the land is subject to this subsection.
 (7) Every covenant of a kind referred to in subsection (2)﻿(b) shall be in writing, be signed by the owner of the adjoining land, have affixed to it the common seal of the territorial authority, and be deemed—
   (a) to be an instrument capable of registration under the Land Transfer Act 1952, and, when so registered, to create in favour of the territorial authority an interest in the land, in respect of which it is registered, within the meaning of section 62 of that Act; and
@@ -250,7 +250,7 @@ For the purposes of this section and sections 23, 24, and 26,—
   (c) that power, right, or obligation becomes exercisable but is not able to be exercised or fully exercised because of subsection (5) or subsection (6)—
 (11) Where any instrument to which subsection (10) applies is a mortgage, charge, or lien, it shall be deemed to have priority over any mortgage, charge, or lien against the land being transferred or disposed of which is registered subsequent to the issue of the certificate of title pursuant to subsections (5) and (6), or the registration of the covenant entered into pursuant to subsections (5) and (7), as the case may be; and the District Land Registrar shall enter upon all relevant certificates of title a memorandum to the effect that the land therein is subject to this subsection.
 (12) For the purposes of this section—
-  - **allotment** has the same meaning as in section 575 of the Natural and Built Environment Act 2023
+  - **allotment** has the same meaning as in section 218 of the Resource Management Act 1991
   - **amalgamated** means amalgamated pursuant to a condition under subsection (3)
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002.
 
