@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2023-12-01_
+_Consolidation as at 2023-12-23_
 
 > Title
 
@@ -37,9 +37,9 @@ Schedule 1 contains savings and transitional provisions that affect other provis
   - **change** includes amend, add to, delete from, and replace
   - **chief executive** means the chief executive of the department that, with the authority of the Prime Minister, is responsible for the administration of this Act
   - **coal** means anthracite, bituminous coal, sub-bituminous coal, lignite, and peat; and includes every other substance worked or normally worked with coal
-  - **coastal marine area** has the meaning given in section 11 of the Natural and Built Environment Act 2023
+  - **coastal marine area** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **common marine and coastal area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
-  - **consent authority** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
+  - **consent authority** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **continental shelf** has the same meaning as in section 2(1) of the Continental Shelf Act 1964
   - **contravene** includes fail to comply with
   - **controlling authority** , in relation to land, means—
@@ -185,14 +185,14 @@ Schedule 1 contains savings and transitional provisions that affect other provis
     (a) section 34(b); or
     (b) regulations made under section 105A
   - **sand** does not include ironsand
-  - **serve** means serve in accordance with section 742 or 744 of the Natural and Built Environment Act 2023
+  - **serve** means serve in accordance with section 352 or 353 of the Resource Management Act 1991
   - **ship** has the same meaning as in section 2(1) of the Maritime Transport Act 1994
   - **silver** includes any substance containing silver, or having silver mixed in it, other than a substance that also contains gold or has gold mixed in it
   - **special purpose mining activity** means an activity carried out to demonstrate historical mining methods
   - **specified Act** means the—
     (a) Health and Safety at Work Act 2015:
     (b) Maritime Transport Act 1994:
-    (c) Natural and Built Environment Act 2023:
+    (c) Resource Management Act 1991:
     (d) Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
   - **speculative prospector** has the meaning given by section 90C(7)
   - **submission** means a written submission
@@ -1266,7 +1266,7 @@ For the purposes of sections 53 to 54A, prospecting, exploration, or mining carr
   (da) the direct net economic and other benefits of the proposed activity in relation to which the access arrangement is sought; and
   (db) if section 61C(3) applies, the recommendation of the Director-General of Conservation and summary referred to in that subsection; and
   (e) any other matters that that Minister or those Ministers consider relevant.
-(3) Where a permit holder has secured the right, under the Natural and Built Environment Act 2023, to exclusive occupation of Crown land in the coastal marine area (as defined in section 11 of that Act), it shall not be necessary for the permit holder to enter into an access arrangement in respect of that land.
+(3) Where a permit holder has secured the right, under the Resource Management Act 1991, to exclusive occupation of Crown land in the coastal marine area (as defined in section 2(1) of that Act), it shall not be necessary for the permit holder to enter into an access arrangement in respect of that land.
 (4) Subject to subsections (6) to (9), the Governor-General may from time to time, by Order in Council made on the recommendation of the Minister and the Minister of Conservation, amend Schedule 4.
 (5) Before making any recommendation for the purposes of subsection (4), the Minister and the Minister of Conservation must consult to the extent that is reasonably practicable, having regard to all the circumstances of the particular case, those persons the Ministers have reason to believe are representative of interests likely to be substantially affected by the Order in Council or representative of some aspect of the public interest.
 (6) No Order in Council may be made under subsection (4) in respect of any land held under the Conservation Act 1987 for conservation purposes that is declared an ecological area under section 18(1) of the Conservation Act 1987 unless the Minister and the Minister of Conservation make a recommendation to the Governor-General after making an assessment of—
@@ -1300,7 +1300,7 @@ For the purposes of sections 53 to 54A, prospecting, exploration, or mining carr
   (d) the safeguards against any potential adverse effects of carrying out the proposed programme of work in relation to the mineral; and
   (e) the interests of the owner of the mineral, or of any person to whom the owner of the mineral has granted any rights in relation to the mineral, in obtaining access to that mineral; and
   (f) such other matters as the appropriate Minister considers relevant.
-(3) Where the owner of the mineral or any person to whom the owner of the mineral has granted any rights in relation to the mineral, as the case may be, has secured the right, under the Natural and Built Environment Act 2023, to exclusive occupation of Crown land in the coastal marine area (as defined in section 11 of that Act), it is not necessary for the owner of the mineral or that person to enter into an access arrangement in respect of that land.
+(3) Where the owner of the mineral or any person to whom the owner of the mineral has granted any rights in relation to the mineral, as the case may be, has secured the right, under the Resource Management Act 1991, to exclusive occupation of Crown land in the coastal marine area (as defined in section 2(1) of that Act), it is not necessary for the owner of the mineral or that person to enter into an access arrangement in respect of that land.
 
 ### 61C Public notification of certain access arrangements
 (1) This section applies if an application under section 61 is made for an access arrangement in respect of Crown land for which the Minister of Conservation is the appropriate Minister and the purpose of access is to allow mining activities.
@@ -1497,7 +1497,7 @@ This subpart applies to—
   (f) a person who on commencement held a licence which has subsequently expired, been surrendered, or revoked (former licence holder).
 
 ### 89B Relationship between this subpart and other enactments
-(1) This subpart does not limit or affect any person’s obligations under another enactment (for example, the Natural and Built Environment Act 2023, the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, or the Health and Safety at Work Act 2015).
+(1) This subpart does not limit or affect any person’s obligations under another enactment (for example, the Resource Management Act 1991, the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, or the Health and Safety at Work Act 2015).
 (2) Any requirement under this subpart for a person to supply information does not replace or limit any requirement for that person to supply information under other provisions in this Act or another enactment.
 (3) An exemption granted under this subpart from complying with a decommissioning requirement under this subpart does not exempt the person from complying with another enactment.
 
@@ -1527,7 +1527,7 @@ This subpart applies to—
 
 ### 89E Decommissioning
 (1) In this Act, unless the context otherwise requires, decommissioning, in relation to any petroleum infrastructure or a well,—
-  (a) means an activity undertaken under any enactment (for example, the Natural and Built Environment Act 2023, the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, or the Health and Safety at Work Act 2015), and in accordance with any requirements or standards set by or under that enactment or imposed by a regulatory agency, to take out of service permanently petroleum infrastructure or a well used for prospecting or exploring for, or mining of, petroleum; and
+  (a) means an activity undertaken under any enactment (for example, the Resource Management Act 1991, the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, or the Health and Safety at Work Act 2015), and in accordance with any requirements or standards set by or under that enactment or imposed by a regulatory agency, to take out of service permanently petroleum infrastructure or a well used for prospecting or exploring for, or mining of, petroleum; and
   (b) includes (without limitation) and to the extent required by this Act or another enactment or by standards or by a regulatory agency,—
     (i) removing petroleum infrastructure; and
     (ii) plugging and abandoning a well; and
@@ -2410,8 +2410,8 @@ No person may enter into a contract of insurance that indemnifies or purports to
 (3) The Minister may provide to the Environmental Protection Authority (established by section 7 of the Environmental Protection Authority Act 2011) and to any consent authority any information, or a copy of any document, that the Minister—
   (a) holds in relation to the matters referred to in section 29A(2)﻿(d) (whether obtained under section 24, 29A, or 29B); and
   (b) considers may assist—
-    (i) the Environmental Protection Authority in the performance or exercise of its functions, duties, or powers under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 or the Natural and Built Environment Act 2023; or
-    (ii) a consent authority in the performance or exercise of its functions, duties, or powers under the Natural and Built Environment Act 2023.
+    (i) the Environmental Protection Authority in the performance or exercise of its functions, duties, or powers under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 or the Resource Management Act 1991; or
+    (ii) a consent authority in the performance or exercise of its functions, duties, or powers under the Resource Management Act 1991.
 (4) However, subsections (1) to (3) do not apply to any information obtained under section 90 relating to the calculation and payment of royalties by permit holders.
 (5) A regulatory agency must not disclose any information provided to it under this section to any other person or organisation unless—
   (a) the disclosure is for the purposes of, or in connection with, the performance or exercise of any function, power, or duty conferred or imposed by a specified Act on the regulatory agency; or
@@ -2481,12 +2481,12 @@ Except as otherwise provided in this Act or in regulations, no person holding an
 
 ### 95 Address for service
 (1) Every permit holder shall give written notification to the chief executive of a physical address in New Zealand to which any notice required to be served on the permit holder under this Part may be sent. A permit holder may change that address to a different physical address in New Zealand at any time by giving written notification to the chief executive of the change.
-(2) Without limiting sections 742 and 744 of the Natural and Built Environment Act 2023 (as applied by section 96 of this Act), any notice which is required to be served on a permit holder under this Act may be served by sending the notice by post to the last address notified under subsection (1).
+(2) Without limiting sections 352 and 353 of the Resource Management Act 1991 (as applied by section 96 of this Act), any notice which is required to be served on a permit holder under this Act may be served by sending the notice by post to the last address notified under subsection (1).
 (3) Every permit participant must give written notice to the chief executive of an address (which may be an email address) and telephone number at which the permit participant can be contacted.
 (4) A permit participant must give written notice to the chief executive of any change to the address or telephone number provided under subsection (3) as soon as reasonably practicable, but no later than 10 working days after the change takes effect.
 
 ### 96 Service of documents, etc
-Sections 742 and 744 of the Natural and Built Environment Act 2023, with the necessary modifications, shall apply in respect of the service of documents and of notices and consents in relation to Maori land under this Act.
+Sections 352 and 353 of the Resource Management Act 1991, with the necessary modifications, shall apply in respect of the service of documents and of notices and consents in relation to Maori land under this Act.
 
 ### 97 Application of monetary deposits
 (1) Subject to subsections (2) and (4), Part 7 of the Public Finance Act 1989 shall apply in respect of all money paid to the chief executive in respect of any monetary deposit or bond required or permitted under this Part.
@@ -3174,7 +3174,7 @@ This subpart applies to existing privileges in replacement of all provisions con
 ### 12 Existing privileges continue
 (1) Except as otherwise provided in the rest of this clause and subpart, each existing privilege continues to have effect after the commencement of the Amendment Act as if—
   (a) the Act that applied to the privilege before the commencement of the principal Act continues in force; and
-  (b) the holder of the privilege continues to have the same statutory rights as the holder would have had if the principal Act and the Natural and Built Environment Act 2023 had not been enacted (except that if any consent in respect of the privilege would, but for this subclause, be required and need to be sought under the Natural and Built Environment Act 2023, then the Natural and Built Environment Act 2023 does apply); and
+  (b) the holder of the privilege continues to have the same statutory rights as the holder would have had if the principal Act and the Resource Management Act 1991 had not been enacted (except that if any consent in respect of the privilege would, but for this subclause, be required and need to be sought under the Resource Management Act 1991, then the Resource Management Act 1991 does apply); and
   (c) subject to clause 15, the holder of the privilege continues to have the same statutory obligations as the holder would have had if the principal Act had not been enacted; and
   (d) every person having any function, power, or duty relating to the administration of the Act that applied to the privilege before that date continues to have those functions, powers, and duties; and
   (e) the Environment Court and any other body having any function, power, or duty connected with the determination of any dispute under the Act which applied to the privilege before that date continued to have those functions, powers, and duties; and
@@ -3202,15 +3202,15 @@ This subpart applies to existing privileges in replacement of all provisions con
 (2) New sections 33C, 33D, and 90 apply to each existing privilege as if the existing privilege were a permit and the holder of the privilege a permit holder and, for the purpose of those sections, new sections 2B to 2D also apply.
 (3) New sections 99B to 99G and 99I to 99M apply to each existing privilege as if the existing privilege were a permit and the holder of the privilege a permit holder, but the reference in new section 99C to an offence against the principal Act must be read as a reference to an offence against the relevant Act referred to in the definition of existing privilege in section 2.
 
-### 15 Administration of existing privileges in respect of Natural and Built Environment Act 2023 and Health and Safety at Work Act 2015 matters
-(1) Subject to clause 16, the functions, powers, and duties—are exercisable or performable by the appropriate consent authority and the provisions of the Natural and Built Environment Act 2023 relating to the existing privilege, with all necessary modifications, apply accordingly.
+### 15 Administration of existing privileges in respect of Resource Management Act 1991 and Health and Safety at Work Act 2015 matters
+(1) Subject to clause 16, the functions, powers, and duties—are exercisable or performable by the appropriate consent authority and the provisions of the Resource Management Act 1991 relating to the existing privilege, with all necessary modifications, apply accordingly.
   (a) that, before the commencement of the principal Act, would have been exercisable or performable by the Minister of Energy in respect of an existing privilege, or of any condition of an existing privilege, or of any provisions of an Act that relate to an existing privilege; and
-  (b) that concern matters that are within the functions of a local authority under section 49 or 51 of the Natural and Built Environment Act 2023—
+  (b) that concern matters that are within the functions of a local authority under section 30 or 31 of the Resource Management Act 1991—
 (2) Where there is doubt as to which person is responsible for exercising or performing a particular function, power, or duty, and that doubt cannot be resolved by agreement between those persons, any such person may apply to the Environment Court for an order determining the matter, and the court may grant such an order on such conditions as it thinks fit.
 (3) Before the Minister varies the terms and conditions of an existing privilege, or takes any enforcement action against the holder of an existing privilege in respect of the existing privilege, the Minister must give written notice to the consent authority that has any functions, powers, and duties in relation to the privilege under this clause, of the proposed action and the reasons for it.
 (4) Before a consent authority varies the terms and conditions of an existing privilege, or takes any enforcement action against the holder of an existing privilege in respect of the existing privilege, the consent authority must give written notice to the Minister of the proposed action and the reasons for it.
 (5) A failure to comply with subclause (3) or (4) does not invalidate any variation or enforcement action.
-(6) A local authority has, for the purposes of exercising or performing its functions, powers, and duties in relation to an existing privilege under this section, all of the powers conferred on an enforcement officer by section 727 of the Natural and Built Environment Act 2023.
+(6) A local authority has, for the purposes of exercising or performing its functions, powers, and duties in relation to an existing privilege under this section, all of the powers conferred on an enforcement officer by section 332 of the Resource Management Act 1991.
 (7) Despite clause 12(1)﻿(d) or section 4 of the Health and Safety in Employment Act 1992,—
   (a) the health and safety regulator or an inspector may exercise or perform the functions, powers, and duties—
     (i) that would have been exercisable or performable by any person in respect of an existing privilege before the commencement of the Health and Safety in Employment Act 1992; and
@@ -3218,7 +3218,7 @@ This subpart applies to existing privileges in replacement of all provisions con
   (b) the Acts referred to in paragraph (a)﻿(ii) apply accordingly with any necessary modifications.
 (8) Despite clause 12(1)﻿(d), the functions, powers, and duties—are exercisable or performable by the chief executive, and the provisions of the Act relating to the existing privilege apply accordingly, with any necessary modifications.
   (a) that before the commencement of the principal Act would have been exercisable or performable by an Inspector and that would have arisen in respect of an existing privilege, or of any condition of an existing privilege, or of any provisions of an Act that relate to an existing privilege; and
-  (b) that concern matters that are not within the functions of a local authority under section 49 or 51 of the Natural and Built Environment Act 2023 or the regulator or an inspector under the Health and Safety at Work Act 2015 or the WorkSafe New Zealand Act 2013—
+  (b) that concern matters that are not within the functions of a local authority under section 30 or 31 of the Resource Management Act 1991 or the regulator or an inspector under the Health and Safety at Work Act 2015 or the WorkSafe New Zealand Act 2013—
 (9) References in this section to the Minister include references to any statutory officer appointed under the Act under which the existing privilege was granted.
 
 ### 16 Bonds and monetary deposits
@@ -3229,7 +3229,7 @@ This subpart applies to existing privileges in replacement of all provisions con
 (2) Where the regional council for the region within which any land subject to a coal mining right is wholly or predominantly situated is satisfied, after consultation with the appropriate territorial authority, that the amount of the deposit or bond lodged in respect of that right pursuant to section 71(1) of the Coal Mines Act 1979 is insufficient to meet the amount that is or may become payable under section 71(3) of that Act, the regional council may, at intervals of not less than 3 years, require the holder of the coal mining right to increase the amount of the deposit or bond accordingly; and the holder of the coal mining right must comply with that requirement.
 (3) Within 15 working days after the date on which notice is given to the holder of the coal mining right that a regional council has increased the amount of deposit or bond pursuant to subclause (2), the holder of the coal mining right may appeal against the decision of the regional council by lodging a notice of appeal with the Environment Court.
 (4) A copy of the notice of appeal must be served on the regional council and on the chief executive either before or immediately after it is lodged with the Environment Court.
-(5) Subject to subclauses (6) and (7), for the purposes of an appeal under this clause, the Environment Court has all the powers, duties, functions, immunities, and discretions conferred on it under the Natural and Built Environment Act 2023.
+(5) Subject to subclauses (6) and (7), for the purposes of an appeal under this clause, the Environment Court has all the powers, duties, functions, immunities, and discretions conferred on it under the Resource Management Act 1991.
 (6) In hearing an appeal under this clause, the Environment Court must have regard to—
   (a) the purpose for which the deposit or bond is levied; and
   (b) the reasonableness of the amount of the deposit or bond set by the regional council, given the purpose for which the deposit or bond is levied.
