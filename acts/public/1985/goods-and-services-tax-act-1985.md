@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -493,10 +493,10 @@ _Consolidation as at 2023-08-24_
   (a) every local authority is deemed to supply goods and services to any person where any amount of rates is payable by that person to that local authority:
   (b) the Chatham Islands Council is treated as supplying goods and services to a person if an amount of council dues, as defined in section 2 of the Chatham Islands Council Act 1995, is payable by the person to the Chatham Islands Council.
 (7B) For the purposes of this Act, a local authority is treated as supplying goods and services to a person if the local authority requires a contribution from the person as—
-  (a) a financial contribution that is a condition of a resource consent under the Natural and Built Environment Act 2023:
+  (a) a financial contribution that is a condition of a resource consent under the Resource Management Act 1991:
   (b) a development contribution under the Local Government Act 2002.
 (7C) For the purposes of this Act, a person who makes a contribution to a local authority is treated as supplying goods and services to the local authority to the extent that the contribution consists of land and is—
-  (a) a financial contribution that is a condition of a resource consent under the Natural and Built Environment Act 2023:
+  (a) a financial contribution that is a condition of a resource consent under the Resource Management Act 1991:
   (b) a development contribution under the Local Government Act 2002.
 (7D)
 (7E)
