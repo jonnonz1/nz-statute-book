@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -23,7 +23,7 @@ In this Act, unless the context otherwise requires,—
     (c) any other fortification, camping ground, training ground, parade ground, rifle, artillery, tank, weapon, or bomb range, or other work however designated which is constructed or intended to be used for the purpose of defence, and all roads or other works which may be requisite for approach to or otherwise necessary or convenient for the purposes of any such defence work
   - **drain** means a passage, channel, or pipe on, over, or under the ground for the reception and discharge of stormwater or pollutants, whether continuously or intermittently
   - **eligible infrastructure** has the same meaning as in section 8 of the Infrastructure Funding and Financing Act 2020
-  - **Environment Court** means the Environment Court continued by clause 3 of Schedule 13 of the Natural and Built Environment Act 2023
+  - **Environment Court** means the Environment Court constituted under the Resource Management Act 1991
   - **Government work** means a work or an intended work that is to be constructed, undertaken, established, managed, operated, or maintained by or under the control of the Crown or any Minister of the Crown for any public purpose; and includes land held or to be acquired for the purposes of the Conservation Act 1987 or any of the Acts specified in Schedule 1 of that Act (except the common marine and coastal area), even where the purpose of holding or acquiring the land is to ensure that it remains in an undeveloped state
   - **intellectual property** includes all property rights constituted by the Patents Act 2013, the Designs Act 1953, the Trade Marks Act 2002, and the Plant Variety Rights Act 2022, and includes any trade secret; but does not include any property rights constituted by the Copyright Act 1994
   - **land** includes any estate or interest in land
@@ -280,7 +280,7 @@ Any notifying authority, as defined in section 59, may acquire any land under se
 (5) Every such hearing shall be held in public unless the objector gives written notice to the Environment Court before the date of the hearing that he requires the hearing to be held in private.
 (6) At every such hearing the Minister or the local authority may be represented by counsel or by an officer of the Minister's department or local authority, as the case may require, and the objector may appear and act personally or by counsel or any duly authorised representative.
 (6A) The Environment Court may, whether or not the parties consent,—
-  (a) accept evidence that was presented at a hearing described in clause 78 of Schedule 6 of the Natural and Built Environment Act 2023, or at a related inquiry or appeal heard by the court; and
+  (a) accept evidence that was presented at a hearing described in section 39(1) of the Resource Management Act 1991, or at a related inquiry or appeal heard by the court; and
   (b) direct how evidence is to be given to the court.
 (7) The Environment Court shall—
   (a) ascertain the objectives of the Minister or local authority, as the case may require:
@@ -295,7 +295,7 @@ Any notifying authority, as defined in section 59, may acquire any land under se
 (11) Any objection filed under section 23 may be withdrawn by the objector at any time before the court makes its report and findings under this section.
 (12) Where the objection is withdrawn by the objector pursuant to subsection (11), the court shall not be obliged to make a report and findings under this section.
 (13) The Environment Court may award such costs as it considers just either in favour of or against the objector, the Crown, or the local authority.
-(14) Subject to clauses 79 to 88 of Schedule 13 of the Natural and Built Environment Act 2023, no appeal shall lie from any report or recommendation of the Environment Court under this section.
+(14) Subject to sections 299 and 308 of the Resource Management Act 1991, no appeal shall lie from any report or recommendation of the Environment Court under this section.
 
 ### 25 Environment Judge may conduct inquiry alone by agreement
 An Environment Judge or alternate Environment Judge, sitting alone or with any other member of the court shall, if both the Minister or local authority and the objector agree, have jurisdiction to conduct the inquiry under section 24 and to report on the inquiry and make recommendations in respect of it.
@@ -333,7 +333,7 @@ An Environment Judge or alternate Environment Judge, sitting alone or with any o
   (g) a statement that the owner or occupier will be entitled to compensation under this Act.
 (6) The owner or occupier may, within 10 working days after receiving the notice and after giving notice to the Minister or local authority, as the case may be, of his intention to do so, object to the District Court nearest to the land concerned, and the court may summon the Minister or local authority or his or its representative to appear before the court at a time and place named in the summons.
 (7) If it appears to the court that the taking proposed is unreasonable or unnecessary, the court may order that natural material from the land in question shall not be taken, or shall not be taken in the manner proposed; or the court may order that natural material be taken from such land in such manner and to such extent only and subject to such limitations and restrictions as the court thinks fit; and all persons concerned shall be bound by any such order.
-(8) Nothing in this section shall derogate from the provisions of Part 2 of the Natural and Built Environment Act 2023.
+(8) Nothing in this section shall derogate from the provisions of Part 3 of the Resource Management Act 1991.
 
 **Land required under Infrastructure Funding and Financing Act 2020**
 
@@ -500,7 +500,7 @@ The purchase money or instalments of purchase money of land sold under section 4
 ### 46 Sale and removal of timber and coal from land held for public work
 (1) The Minister may, by notice in the Gazette, authorise the sale and removal of timber or coal on or under any land vested in the Crown for a public work.
 (2) Nothing in subsection (1) shall limit the liability of the Crown for any damage that may be caused by reason of the removal of any such timber or coal.
-(3) Nothing in this section shall derogate from the provisions of the Natural and Built Environment Act 2023.
+(3) Nothing in this section shall derogate from the provisions of the Resource Management Act 1991.
 
 ### 47 Issue of record of title to land held for public work
 (1) Except as provided in subsection (4), where any land has become vested in the Crown or a local authority under this Act or any former Act relating to public works, the Registrar-General of Land, on the completion of such surveys (if any) as may be necessary, shall at the request of the Minister or local authority issue a record of title for the estate in the land or part of the land specified in the request in the name of the Crown or local authority, as the case may require, and that record of title shall include a reference to the purposes (if any) for which the land is held, and may be subject to any relevant encumbrances or restrictions.
@@ -594,8 +594,8 @@ In this Part and in Part 6, unless the context otherwise requires,—
   - **Land Valuation Tribunal** or means a Land Valuation Tribunal established under the Land Valuation Proceedings Act 1948; and the expression or , when used in relation to any land transaction, means the particular Land Valuation Tribunal to which any application or matter arising under this Act and relating to that land or transaction has been made or referred
   - **Minister** means the Minister of Lands
   - **notified** , in relation to any land, means—
-    (a) made the subject of a requirement by a Minister of the Crown, a local authority, or a network utility operator under section 517 of the Natural and Built Environment Act 2023, or by a heritage protection authority under section 562 of that Act, or by any such body or person under clause 30 of Schedule 6 of that Act or under the corresponding provisions of any former enactment; or
-    (b) designated for a public work or a project or work, or made the subject of a heritage protection order, included in an operative or a proposed plan under the Natural and Built Environment Act 2023; or
+    (a) made the subject of a requirement by a Minister of the Crown, a local authority, or a network utility operator under section 168 of the Resource Management Act 1991, or by a heritage protection authority under section 189 of that Act, or by any such body or person under clause 4 of Part 1 of Schedule 1 of that Act or under the corresponding provisions of any former enactment; or
+    (b) designated for a public work or a project or work, or made the subject of a heritage order, included in an operative or proposed district plan under the Resource Management Act 1991; or
     (c) made subject to a notice of intention to take, or to the powers conferred by a middle line notice, issued under this Act; or
     (d)
     (e) made the subject of negotiations under section 17 or a notice under section 18(1), in which case the date of notification shall be the date on which the negotiations commenced or the date of the service of the notice, as the case may be
@@ -716,7 +716,7 @@ Where land is taken or acquired from any person for the purpose of constructing 
 ### 71 Claimant's acts making execution of work more costly
 (1) For the purposes of this section, the term relevant date means—as the case may be.
   (a) the date on which notification was given under section 18(1)﻿(a); or
-  (b) the date on which a requirement was notified under section 515 of the Natural and Built Environment Act 2023,—
+  (b) the date on which a requirement was notified under section 167 of the Resource Management Act 1991,—
 (2) If the Land Valuation Tribunal considers that the claimant in respect of any land taken or acquired for a public work has at any time after the relevant date done anything on or under the land with the purpose and effect of rendering the execution of the work more difficult or costly, the Tribunal shall take into account, by way of deduction from the amount of compensation to be awarded, any increase in the cost of executing the work caused or likely to be caused thereby; and if the Tribunal considers such increase in cost exceeds the value of the land taken, the award shall be for the payment by the claimant to the respondent of the amount of such excess and the costs of the inquiry.
 (3) The carrying out of repairs or maintenance to any improvements on the land to a value not exceeding, in any 3-yearly period, 15% of the value of the improvements on that land as shown on the valuation roll for the district, shall for the purposes of this section be deemed not to have been done with the purpose and effect of rendering the execution of the work on that land more difficult or costly.
 (4) Where any such claimant has at any time after the relevant date done anything on or under the land with the effect of rendering the execution of the work more difficult or costly he shall be presumed to have done so with that purpose unless he proves that in so doing he took reasonable precautions to avoid that effect.
@@ -729,7 +729,7 @@ Where land is taken or acquired from any person for the purpose of constructing 
   (b) notify the Railways District Engineer or the chief executive of the department within the meaning of section 2 of the Survey Act 1986 or the local authority, as the case may be, when he has so placed the pegs in the ground—
 (7) The Railways District Engineer or the chief executive of the department within the meaning of section 2 of the Survey Act 1986 or the local authority may decline any application so made to him or it; and every such application that is not declined by notice in writing given to the applicant within 3 months after the date of the receipt of the application (exclusive of any period which is not to be taken into account in accordance with subsection (6)) shall be deemed to have been granted, and anything done on or under the land after approval of that thing has been granted or is deemed to have been granted shall not be subject to the provisions of this section. Notice under this subsection may be given to any applicant by delivering it to him personally or by sending it to him by post in a registered letter addressed to him at the address specified in his application.
 (8) Any person whose application is declined under subsection (7) may, within 15 working days after the receipt by him of the notice declining the application, appeal to the Environment Court against the declining of his application.
-(9) Every such appeal shall be made and determined by the Environment Court in the manner prescribed by the Natural and Built Environment Act 2023 and any regulations made under that Act.
+(9) Every such appeal shall be made and determined by the Environment Court in the manner prescribed by the Resource Management Act 1991 and any regulations made under that Act.
 (10) The decision of the Environment Court on any such appeal shall be final and binding.
 
 **Additional compensation**
@@ -1178,7 +1178,7 @@ In this Part, unless the context otherwise requires, Minister means any Minister
 (1) In this section, developer means—
   (a)
   (b) a network operator within the meaning of section 5 of the Telecommunications Act 2001; or
-  (ba) a network utility operator within the meaning of section 11 of the Natural and Built Environment Act 2023 which has approval as a requiring authority under section 513 of that Act; or
+  (ba) a network utility operator within the meaning of section 166 of the Resource Management Act 1991 which has approval as a requiring authority under section 167 of that Act; or
   (c) the Airways Corporation of New Zealand Limited, a company that is a State enterprise under the State-Owned Enterprises Act 1986.
 (2) Where a developer wishes to undertake a survey or other investigation on any land for the purpose of gathering information necessary for any application for any right, designation, consent, or permit, or for the preparation of any report, required for any proposed development, the developer may, upon giving the owner and occupier of the land not less than 10 working days' notice of its intention to do so, apply to the District Court for an order under this section.
 (3) On being satisfied that the proposed survey or investigation is necessary for the purposes of the proposed development, that the proposed development may properly be undertaken by the developer, and that the developer has taken all reasonable steps to negotiate an agreement for entry, the court may make an order authorising the developer to:
@@ -1266,7 +1266,7 @@ In this Part, unless the context otherwise requires,—
 (1) Notwithstanding section 117, where any road or any portion of a road along the mark of mean high-water springs of the sea, or along the bank of any river, or the margin of any lake (as the case may be) is stopped under section 116—
   (a) section 345(3) of the Local Government Act 1974 (relating to esplanade reserves) shall apply to the land comprising the road or portion of the road so stopped if that land was formerly a road vested in a local authority (including a State highway vested in a local authority):
   (b) Part 4A of the Conservation Act 1987 (relating to marginal strips) shall apply to the land comprising the road or portion of the road so stopped if that land was formerly a Government road or a State highway or other road vested in the Crown.
-(2) For the purpose of subsection (1), lake and river have the same meaning as in section 11 of the Natural and Built Environment Act 2023.
+(2) For the purpose of subsection (1), lake and river have the same meaning as in section 2(1) of the Resource Management Act 1991.
 
 ### 119 Taking severances
 (1) If, as the result of any land being declared road by a notice under section 114, any adjacent land, whether owned by the Crown or not, would become significantly more costly to retain at the same standard as previously or significantly less useful to the owner, lessee, or licensee, the Minister may, by the same or a subsequent notice, declare such adjacent land to be taken under this subsection.
@@ -1489,9 +1489,9 @@ Subject to the restrictions specified in this Part, the Minister may do the foll
   (b) take machinery and vehicles of any kind on to and across any land within the area set out in the notice defining the middle line of the railway, and use the machinery and vehicles on that land:
   (c) make any part of the railway on and along any part of any road, access way, or service lane:
   (d) make the railway on, across, over, or under any road, motorway, access way, service lane, railway, or tramway along the defined middle line; and alter the level of any road, access way, motorway, service lane, railway, or tramway for that purpose:
-  (e) subject to compliance with the Natural and Built Environment Act 2023, make the railway across any arm of the sea or any river, stream, lake, or water (whether navigable or not) by means of a bridge, causeway, or tunnel:
-  (f) subject to compliance with the Natural and Built Environment Act 2023, alter the course or the level of any river that is not navigable, or of any stream, watercourse, ditch, or drain:
-  (g) subject to compliance with the Natural and Built Environment Act 2023, make drains or conduits on or under any land adjacent to the railway for the purpose of carrying water off the railway, and at all times maintain them in good repair:
+  (e) subject to compliance with the Resource Management Act 1991, make the railway across any arm of the sea or any river, stream, lake, or water (whether navigable or not) by means of a bridge, causeway, or tunnel:
+  (f) subject to compliance with the Resource Management Act 1991, alter the course or the level of any river that is not navigable, or of any stream, watercourse, ditch, or drain:
+  (g) subject to compliance with the Resource Management Act 1991, make drains or conduits on or under any land adjacent to the railway for the purpose of carrying water off the railway, and at all times maintain them in good repair:
   (h) remove or alter any drain or sewer or any pipes, wire, cable, or duct, together with any associated equipment, belonging to any person within or beyond the defined limits of the railway:
   (i) make or construct all such buildings, stations, machinery, bridges, roads, approaches, and other structures and works in connection with the railway as the Minister thinks necessary:
   (ia) make or construct all rolling stock, motor vehicles, vessels, plant, machinery, goods, chattels, and other fixed or moveable property of every description used in connection with the railway:
@@ -1660,7 +1660,7 @@ In this Part, unless the context otherwise requires, Minister means any Minister
   - **artificial lake** means a body of water formed or impounded by a Government work or by a work acquired by the Crown
   - **natural lake** means a lake that is not an artificial lake.
 (2) Where a natural lake exists before the construction of a Government work, or a work acquired by the Crown, which increases the area of that lake, the whole of the lake as so increased in area shall be deemed to be a natural lake for the purposes of this section.
-(3) In addition to all powers of making regulations in respect of lakes conferred on him by the Harbours Act 1950 or by any other Act, but subject to the Natural and Built Environment Act 2023 and subsection (4), the Governor-General may from time to time, by Order in Council, in respect of any artificial lake, make regulations—
+(3) In addition to all powers of making regulations in respect of lakes conferred on him by the Harbours Act 1950 or by any other Act, but subject to the Resource Management Act 1991 and subsection (4), the Governor-General may from time to time, by Order in Council, in respect of any artificial lake, make regulations—
   (a) prohibiting, or permitting, regulating, and prescribing terms and conditions for, the use of the lake or its waters or any part of it or its waters:
   (b) prohibiting, or permitting, regulating, and prescribing terms and conditions for, the discharge into or placing in the lake of any solid or liquid matter likely to settle in the lake, or cause an obstruction in it, or interfere with any authority or person lawfully using the lake, or its waters, or any part of it or its waters:
   (c) prescribing fines, not exceeding $500 in any case, for the breach of any regulations made under this section.
@@ -1689,7 +1689,7 @@ In this Part, unless the context otherwise requires, Minister means any Minister
   (d) any trustees empowered by or under any Act or any other lawful authority; or
   (e) any persons acting as trustees for the inhabitants of the locality—
 (8) Any notice under this section may from time to time be amended or revoked by a subsequent notice.
-(9) Nothing in this section shall derogate from the provisions of the Natural and Built Environment Act 2023.
+(9) Nothing in this section shall derogate from the provisions of the Resource Management Act 1991.
 
 ### 192 Compensation under this Part
 (1) On the termination or revocation of any licence, permit, or privilege granted under section 191, or under regulations in force under section 190, compensation shall be payable only for improvements to the land made with the written approval of the grantor; and no compensation shall be payable if there has been a breach of any term or condition upon or subject to which the licence, permit, or privilege was granted unless the grantor agrees to waive the breach.
@@ -1883,7 +1883,7 @@ For the purposes of sections 209 to 212, interest shall be calculated at yearly 
 (3) If, at any time after the commencement of availability of supply, the Minister is of the opinion that the supply of water from the water supply works is likely to be in excess of the amount to be supplied in accordance with water availability agreements, the Minister may supply the surplus water to any person on conditions not more favourable than those applicable to water availability agreements.
 
 ### 218 Diminished supply
-(1) Notwithstanding anything in this Part, if, during any season, water from the water supply works fails or becomes diminished, or the Minister is required by powers exercised under the Natural and Built Environment Act 2023 to cease or reduce the supply of water, so that it is impracticable to supply to any occupier the number of unit quantities or unit rates of supply agreed to be allocated or supplied to the occupier under this Part, no person shall, by reason of such failure or diminished supply or requirement, have any claim to compensation or any right of action or other remedy against the Crown or the Minister.
+(1) Notwithstanding anything in this Part, if, during any season, water from the water supply works fails or becomes diminished, or the Minister is required by powers exercised under the Resource Management Act 1991 to cease or reduce the supply of water, so that it is impracticable to supply to any occupier the number of unit quantities or unit rates of supply agreed to be allocated or supplied to the occupier under this Part, no person shall, by reason of such failure or diminished supply or requirement, have any claim to compensation or any right of action or other remedy against the Crown or the Minister.
 (2) If, during any season, it is impracticable to supply to any occupier the number of unit quantities or unit rates of supply agreed to be allocated or supplied to him under this Part, the charge payable by that occupier for that season shall be reduced by such amounts as the Minister considers reasonable.
 (3) Notwithstanding subsection (2), in any case where a charge is payable under a water availability agreement, the charge payable under section 214 shall not be affected by the operation of this section.
 
@@ -1952,7 +1952,7 @@ For the purposes of sections 209 to 212, interest shall be calculated at yearly 
 (17) Agreements may be made under this section in respect of any undertaking that has been completed or partially completed as well as in respect of any undertaking not commenced.
 (18) Kāinga Ora–Homes and Communities or the New Zealand Transport Agency may be a party to an agreement with any local authority under this section in relation to any undertaking which, in the opinion of the Minister of Finance and any other Minister, is of both national and local importance in the same manner and to the same effect as if Kāinga Ora–Homes and Communities or the Agency were a Minister of the Crown.
 (19) Notwithstanding anything to the contrary in this Act, any land taken, acquired, or used for any undertaking in respect of which an agreement has been made under this section may be transferred or leased to any party to the agreement, or sold or otherwise disposed of, and the proceeds thereof shared or distributed, in accordance with the provisions of the agreement.
-(20) For the purposes of any agreement under this section, any party to the agreement which is a requiring authority within the meaning of the Natural and Built Environment Act 2023, in their or its own name or on behalf of all parties, may make any requirement under subpart 1 of Part 9 of that Act, and make an application under any statutory provision for consent, authorisation, permission, a licence, a permit, a right, or any other type of approval.
+(20) For the purposes of any agreement under this section, any party to the agreement which is a requiring authority within the meaning of the Resource Management Act 1991, in their or its own name or on behalf of all parties, may make any requirement under Part 8 of the Resource Management Act 1991, and make an application under any statutory provision for consent, authorisation, permission, a licence, a permit, a right, or any other type of approval.
 
 ## Part 21 — General provisions
 
