@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2023-12-20_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -1164,23 +1164,21 @@ The object of this Part is—
 (2) Failure to comply with subsection (1)﻿(a) does not affect the validity of the employment agreement between the parties.
 (3) However, if the employer does not comply with subsection (1)﻿(a), the employer may not rely on any term agreed under subsection (1) that the employee serve a period of probation if the employee elects, at any time, to treat that term as ineffective.
 
-### 67A When employment agreement may contain provision for trial period for 90 days or less
-(1) An employment agreement containing a trial provision may be entered into by a small-to-medium-sized employer and an employee who has not previously been employed by the small-to-medium-sized employer.
-(2) For the purposes of this section and section 67B,—
-  - **small-to-medium-sized employer** means an employer who employs fewer than 20 employees at the beginning of the day on which the employment agreement is entered into
-  - **trial provision** means a written provision in an employment agreement that states, or is to the effect, that—
-    (a) for a specified period (not exceeding 90 days), starting at the beginning of the employee’s employment, the employee is to serve a trial period; and
-    (b) during that period, the small-to-medium-sized employer may dismiss the employee; and
-    (c) if the small-to-medium-sized employer does so, the employee is not entitled to bring a personal grievance or other legal proceedings in respect of the dismissal.
+### 67A Employment agreement may contain provision for trial period for 90 days or less
+(1) An employment agreement containing a trial provision may be entered into by an employer and an employee who has not previously been employed by that employer.
+(2) For the purposes of this section and section 67B, trial provision means a written provision in an employment agreement that states, or is to the effect, that—
+  (a) for a specified period (not exceeding 90 days), starting at the beginning of the employee’s employment, the employee is to serve a trial period; and
+  (b) during that period, the employer may dismiss the employee; and
+  (c) if the employer does so, the employee is not entitled to bring a personal grievance or other legal proceedings in respect of the dismissal.
 
 ### 67B Effect of trial provision under section 67A
-(1) This section applies if a small-to-medium-sized employer terminates an employment agreement containing a trial provision under section 67A by giving the employee notice of the termination before the end of the trial period, whether the termination takes effect before, at, or after the end of the trial period.
+(1) This section applies if an employer terminates an employment agreement containing a trial provision under section 67A by giving the employee notice of the termination before the end of the trial period, whether the termination takes effect before, at, or after the end of the trial period.
 (2) An employee whose employment agreement is terminated in accordance with subsection (1) may not bring a personal grievance or legal proceedings in respect of the dismissal.
 (3) Neither this section nor a trial provision prevents an employee from bringing a personal grievance or legal proceedings on any of the grounds specified in section 103(1)﻿(b) to (k).
 (4) An employee whose employment agreement contains a trial provision is, in all other respects (including access to mediation services), to be treated no differently from an employee whose employment agreement contains no trial provision or contains a trial provision that has ceased to have effect.
 (5) Subsection (4) applies subject to the following provisions:
-  (a) in observing the obligation in section 4 of dealing in good faith with the employee, the small-to-medium-sized employer is not required to comply with section 4(1A)﻿(c) in making a decision whether to terminate an employment agreement under this section; and
-  (b) the small-to-medium-sized employer is not required to comply with a request under section 120 that relates to terminating an employment agreement under this section.
+  (a) in observing the obligation in section 4 of dealing in good faith with the employee, the employer is not required to comply with section 4(1A)﻿(c) in making a decision whether to terminate an employment agreement under this section; and
+  (b) the employer is not required to comply with a request under section 120 that relates to terminating an employment agreement under this section.
 
 ### 67C Agreed hours of work
 (1) Hours of work agreed by an employer and employee must be specified as follows:
