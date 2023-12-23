@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > Title
 
@@ -391,10 +391,10 @@ Sections 23A to 23D do not limit or override any new or existing agreement that 
 (3) Within 1 month after receiving a copy of the objection or within any further period that the Environment Court allows, the other party to the dispute must send to the Environment Court and serve on the objector a reply to the objection containing matters that are appropriate having regard to the objection made and to any practice directions issued by the Environment Court.
 (4) The Environment Court must inquire into the objection and, for that purpose, may conduct a hearing at any time and place it appoints.
 (5) The Environment Court must give not less than 15 working days' notice of any time and place so appointed to the objector and to the other party to the dispute.
-(6) The Environment Court has power to make a declaration as if the proceeding had been brought under sections 637 to 640 of the Natural and Built Environment Act 2023.
+(6) The Environment Court has power to make a declaration as if the proceeding had been brought under sections 310 to 313 of the Resource Management Act 1991.
 (7) The findings of the Environment Court are binding on the objector and the other party to the dispute.
 (8) The Environment Court may award those costs that it considers just either in favour of or against either party.
-(9) Subject to clauses 79 to 88 of Schedule 13 of the Natural and Built Environment Act 2023, no appeal lies from any declaration of the Environment Court under this section.
+(9) Subject to sections 299 to 308 of the Resource Management Act 1991, no appeal lies from any declaration of the Environment Court under this section.
 
 ### 24 Construction or maintenance of works on roads
 (1) Except as provided in subsections (2) and (5), an electricity operator may from time to time construct and maintain works in, on, along, over, across, or under any road, and for any of these purposes may—
@@ -426,9 +426,9 @@ Sections 23A to 23D do not limit or override any new or existing agreement that 
   (g) the co-ordination with road construction work by the local authority or other body or person who has jurisdiction over that road:
   (h) the need of the electricity operator to establish an electricity network in a timely manner.
 (2) Nothing in subsection (1) limits a local authority's or other body's or person's ability to impose reasonable conditions under section 24(2).
-(3) However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a plan under the Natural and Built Environment Act 2023 as an area in relation to which, under the district plan, there are particular considerations, or rules or requirements, relating to amenity values.
+(3) However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a district plan as an area in relation to which, under the district plan, there are particular considerations, or rules or requirements, relating to amenity values.
 (4) If the cost to the network operator of complying with a condition referred to in subsection (3) is higher than it would have been if there were not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.
-(5) In subsection (3), a reference to a plan under the Natural and Built Environment Act 2023 includes a reference to a development plan under the Urban Development Act 2020.
+(5) In subsection (3), a reference to a district plan includes a reference to a development plan under the Urban Development Act 2020.
 
 ### 25 Notice to be given before work undertaken
 (1) Except as provided in subsection (5), before an electricity operator proceeds to undertake any work pursuant to the powers contained in section 24(1), the electricity operator shall give notice of its intention to undertake the work to—
