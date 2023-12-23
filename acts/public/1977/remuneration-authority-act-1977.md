@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > Title
 
