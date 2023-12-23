@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -3471,7 +3471,7 @@ A practitioner commits an offence and is liable on conviction to a fine not exce
     (c) does not include a company so registered that is a listed issuer
   - **conveyance** means—
     (a) a deed or agreement in writing—
-      (i) for the sale and purchase of, or relating to, any interest in land or buildings, including a company lease within the meaning of section 11 of the Natural and Built Environment Act 2023:
+      (i) for the sale and purchase of, or relating to, any interest in land or buildings, including a company lease within the meaning of section 2(1) of the Resource Management Act 1991:
       (ii) for the granting, in relation to any land or buildings, of a lease, tenancy, or licence to occupy, or for the sale and purchase or transfer or assignment of any such lease, tenancy, or licence:
       (iii) for the sale and purchase of a business (including its shares and securities) and for any leases, licences, or rights connected with the business:
       (iv) for the sale and purchase or lease of chattels, either separately or as part of an agreement to which subparagraph (i) or subparagraph (ii) or subparagraph (iii) applies:
@@ -3803,7 +3803,7 @@ For the purposes of section 363, section 160 of the Law Practitioners Act 1982 m
 
 ### 370 Repeal of provisions relating to Solicitors' Fidelity Guarantee Fund
 (1) Sections 363 to 369 are repealed.
-(2) This section comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) This section comes into force on a date to be appointed by the Governor-General by Order in Council.The following table is small in size and has 3 columns that are grouped under the heading Provisions commenced by Order in Council.Provisions commenced by Order in CouncilProvisionsCommencement dateOrder in CouncilSection 37012 February 2026Clause 2 of the Lawyers and Conveyancers Act (Repeal of Provisions Relating to Solicitors’ Fidelity Guarantee Fund) Commencement Order 2025This note is not part of the Act.
 (3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Transitional provisions relating to barristers and solicitors**
