@@ -1,5 +1,5 @@
 # Public Safety (Public Protection Orders) Act 2014
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Public Safety (Public Protection Orders) Act 2014.
@@ -1156,7 +1156,7 @@ For the purposes of any review under section 15 or 87, the review panel must int
 (1) The Minister may, by notice in the Gazette, declare any building located in prison precincts or any part of that building and any land adjacent to that building to be a residence.
 (2) Before making a declaration under subsection (1), the Minister must be satisfied that the proposed residence will be separate and secure.
 (3) When the notice takes effect, the building or the part of the building and any adjacent land are excluded from the prison and cease to be subject to the Corrections Act 2004.
-(4) Despite subsection (3), for the purposes of the Natural and Built Environment Act 2023, the land specified in the notice continues to be part of the prison in which it is located and the use of the land as a residence is deemed to be an authorised use under any existing designation or provisions of any plan that applies to the prison under that Act.
+(4) Despite subsection (3), for the purposes of the Resource Management Act 1991, the land specified in the notice continues to be part of the prison in which it is located and the use of the land as a residence is deemed to be an authorised use under any existing designation or provisions of any plan that applies to the prison under that Act.
 (5) Every notice under this section takes effect from the date specified in the notice.
 (6) The building or the part of the building and any adjacent land declared to be a residence may be described in the notice in any way that is sufficient to identify it.
 
