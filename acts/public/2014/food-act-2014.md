@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -4409,7 +4409,7 @@ The chief executive must enter the outcome of each review of a decision describe
   (f) the New Zealand Horticulture Export Authority Act 1987; or
   (g) the Education and Training Act 2020; or
   (h) the Commodity Levies Act 1990; or
-  (i) the Natural and Built Environment Act 2023; or
+  (i) the Resource Management Act 1991; or
   (j) the Biosecurity Act 1993; or
   (k) the Consumer Guarantees Act 1993; or
   (l) the Customs and Excise Act 2018; or
@@ -4616,7 +4616,7 @@ The chief executive must enter the outcome of each review of a decision describe
 (6) If a lawyer or other agent of a person represents that he or she is authorised to accept a notice on behalf of the person, the person is treated as having been notified if—
   (a) the notice is delivered to the lawyer or other agent; and
   (b) the lawyer or agent signs a statement that he or she accepts the notice on the person’s behalf.
-(7) In this section, official means any person in the service of Her Majesty in right of New Zealand (whether that service is honorary or not, and whether it is within or outside New Zealand), or any member or employee of any local authority or public body.
+(7) In this section, official means any person in the service of the Sovereign in right of New Zealand (whether that service is honorary or not, and whether it is within or outside New Zealand), or any member or employee of any local authority or public body.
 
 **Consultation**
 
