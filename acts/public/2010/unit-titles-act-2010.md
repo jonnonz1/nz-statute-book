@@ -1,5 +1,5 @@
 # Unit Titles Act 2010
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Unit Titles Act 2010.
@@ -232,9 +232,9 @@ The following sections of this Act do not apply to a unit title development that
 ### 12 Application of Act to timeshare resorts
 In relation to timeshare resorts within the meaning of Schedule 2, the provisions of this Act apply as if they have been amended in the manner indicated in that schedule and subject to all other necessary modifications.
 
-### 13 General relationship with Natural and Built Environment Act 2023
-(1) Except as provided in this section and sections 28 and 29, nothing in this Act derogates from the provisions of the Natural and Built Environment Act 2023.
-(2) Nothing in section 22 or Part 10 of the Natural and Built Environment Act 2023 applies to section 74, subparts 2 and 3 of Part 4, or section 204.
+### 13 General relationship to Resource Management Act 1991
+(1) Except as provided in this section and sections 28 and 29, nothing in this Act derogates from the provisions of the Resource Management Act 1991.
+(2) Nothing in section 11 or Part 10 of the Resource Management Act 1991 applies to section 74, subparts 2 and 3 of Part 4, or section 204.
 
 ### 14 Certain Acts not restricted
 Nothing in this Act restricts the Land Act 1948 or Te Ture Whenua Maori Act 1993.
@@ -340,7 +340,7 @@ The deposit of a unit plan creates in each principal unit and each accessory uni
 (5) No stage unit plan and no complete unit plan may be deposited unless the certificate given under section 32(2)﻿(a) includes a statement by the authorised officer of the territorial authority in whose district the land is situated that the plan is consistent with the relevant proposed unit development plan.
 
 ### 26 Grounds for principal administrative officer’s refusal to give certificate in staged development
-For the purposes of section 35(b) and (c), it is sufficient if every building and every other part of the whole development shown on a stage unit plan complies with the territorial authority’s plan requirements under the Natural and Built Environment Act 2023 applied at the date on which approval of the proposed unit development plan under section 578 of that Act was given, even if, because of subsequent changes to the requirements, any building or other part of the development no longer complies with all the requirements.
+For the purposes of section 35(b) and (c), it is sufficient if every building and every other part of the whole development shown on a stage unit plan complies with the territorial authority’s district plan requirements applied at the date on which approval of the proposed unit development plan under section 223 of the Resource Management Act 1991 was given, even if, because of subsequent changes to the requirements, any building or other part of the development no longer complies with all the requirements.
 
 ### 27 Future development units
 (1) The deposit of the first stage unit plan under section 24(2)﻿(a) has the effect of creating in each future development unit a stratum estate in freehold or a stratum estate in leasehold or licence (as the case may be).
@@ -350,23 +350,23 @@ For the purposes of section 35(b) and (c), it is sufficient if every building an
     (ii) on the cancellation of a stage unit plan, in accordance with subpart 2 of Part 4, on which the unit is shown as a future development unit:
   (b) the undivided share in the fee simple estate or the estate as lessee or licensee (as the case may be) in all the units to which the owner of the unit is contingently entitled by virtue of subpart 2 of Part 4.
 
-### 28 Application of Natural and Built Environment Act 2023 to staged development
-(1) Nothing in section 22 or Part 10 of the Natural and Built Environment Act 2023 applies to the deposit of a stage unit plan or a complete unit plan except for—
-  (a) the requirement to obtain a certificate under section 587 of that Act (as modified by section 29 of this Act) unless a certificate under section 587 has already been obtained for the proposed unit development plan; and
-  (b) the requirement to comply with section 585(2) of that Act.
-(2) Section 22 and Part 10 of the Natural and Built Environment Act 2023 apply to the deposit of a proposed unit development plan except for the requirement to obtain a certificate under section 587 of that Act if a certificate will be obtained for each stage unit plan and the complete unit plan in accordance with subsection (1).
-(3) For the avoidance of doubt, the certificate required to be obtained under section 587 of the Natural and Built Environment Act 2023 may be provided for either—
+### 28 Application of Resource Management Act 1991 to staged development
+(1) Nothing in section 11 or Part 10 of the Resource Management Act 1991 applies to the deposit of a stage unit plan or a complete unit plan except for—
+  (a) the requirement to obtain a certificate under section 224(c) of that Act (as modified by section 29 of this Act) unless a certificate under section 224(c) has already been obtained for the proposed unit development plan; and
+  (b) the requirement to comply with section 224(e) of that Act.
+(2) Section 11 and Part 10 of the Resource Management Act 1991 apply to the deposit of a proposed unit development plan except for the requirement to obtain a certificate under section 224(c) of that Act if a certificate will be obtained for each stage unit plan and the complete unit plan in accordance with subsection (1).
+(3) For the avoidance of doubt, the certificate required to be obtained under section 224(c) of the Resource Management Act 1991 may be provided for either—
   (a) the proposed unit development plan; or
   (b) each stage unit plan and the complete unit plan.
-(4) The reference in section 587 of the Natural and Built Environment Act 2023 to a survey plan is, in respect of a staged unit plan or a complete unit plan, a reference to the proposed unit development plan to which the staged unit plan or complete unit plan relates.
+(4) The reference in section 224(c) of the Resource Management Act 1991 to a survey plan is, in respect of a staged unit plan or a complete unit plan, a reference to the proposed unit development plan to which the staged unit plan or complete unit plan relates.
 
-### 29 Stage unit plan or complete unit plan and certificate under section 587 of Natural and Built Environment Act 2023
-(1) Unless a condition of the subdivision consent for a stage unit plan or a complete unit plan requires otherwise, a certificate issued by a territorial authority under section 587 of the Natural and Built Environment Act 2023 for a stage unit plan or a complete unit plan may certify that—
+### 29 Stage unit plan or complete unit plan and certificate under section 224(c) of Resource Management Act 1991
+(1) Unless a condition of the subdivision consent for a stage unit plan or a complete unit plan requires otherwise, a certificate issued by a territorial authority under section 224(c) of the Resource Management Act 1991 for a stage unit plan or a complete unit plan may certify that—
   (a) the conditions specified in the subdivision consent that are relevant to that stage of the subdivision consent have been complied with to the satisfaction of the territorial authority; or
   (b) in respect of conditions that have not been complied with,—
     (i) the conditions specified in the subdivision consent are not relevant to that stage and therefore do not need to be complied with; or
-    (ii) if the conditions specified in the subdivision consent that are relevant to that stage of the subdivision consent have not been complied with, the provisions of section 587(4)﻿(a)﻿(i), (ii), and (iii) of the Natural and Built Environment Act 2023 continue to apply.
-(2) If subsection (1)﻿(b)﻿(ii) applies, a territorial authority may issue a certificate under section 587 of the Natural and Built Environment Act 2023.
+    (ii) if the conditions specified in the subdivision consent that are relevant to that stage of the subdivision consent have not been complied with, the provisions of section 224(c)﻿(i), (ii), and (iii) of the Resource Management Act 1991 continue to apply.
+(2) If subsection (1)﻿(b)﻿(ii) applies, a territorial authority may issue a certificate under section 224(c) of the Resource Management Act 1991.
 
 ### 30 Alteration of proposed unit development plan
 (1) This section applies to any alteration to a proposed unit development plan other than one—
@@ -421,15 +421,15 @@ A unit plan must comply with the provisions of rules made under section 49 of th
 ### 35 Grounds for authorised officer's refusal to give certificate
 An authorised officer of a territorial authority must not refuse to give a certificate in respect of any unit plan under section 32(2)﻿(a) except on 1 or more of the following grounds:
   (a) that any building shown on the plan has not been erected, or that any other development work has not been carried out, to the extent necessary to enable all the boundaries of every unit and the common property shown on the plan to be physically measured:
-  (b) that any building on the land has been erected in such a place in relation to any boundary, or to a height, so as to contravene the requirements of the territorial authority's plan under the Natural and Built Environment Act 2023 unless the contravention is authorised by the territorial authority:
-  (c) that any building or any other part of the whole development contravenes the requirements of the territorial authority's plan under the Natural and Built Environment Act 2023 in any other manner to such an extent that alterations are required that may affect the location or the boundaries of any unit or of any part of the common property shown on the plan unless the contravention is authorised by the territorial authority.
+  (b) that any building on the land has been erected in such a place in relation to any boundary, or to a height, so as to contravene the requirements of the territorial authority's district plan unless the contravention is authorised by the territorial authority:
+  (c) that any building or any other part of the whole development contravenes the requirements of the territorial authority's district plan in any other manner to such an extent that alterations are required that may affect the location or the boundaries of any unit or of any part of the common property shown on the plan unless the contravention is authorised by the territorial authority.
 
 ### 36 Territorial authority cannot require alterations once certificate given
 (1) This section applies if—
   (a) an authorised officer of a territorial authority has given a certificate in respect of any unit plan under section 32(2)﻿(a); and
   (b) that plan has been deposited.
 (2) The territorial authority has no power to require any alteration to any building or any other part of the whole development that may affect the location or the boundaries of any unit or of any part of the common property shown on the plan.
-(3) The territorial authority may otherwise pursue any remedies it may have (including the prosecution of any person) in respect of any non-compliance with the provision of its plan under the Natural and Built Environment Act 2023 or the requirements of that Act.
+(3) The territorial authority may otherwise pursue any remedies it may have (including the prosecution of any person) in respect of any non-compliance with the provision of its district plan or the requirements of the Resource Management Act 1991.
 (4) Subsection (2) applies despite any enactment or rule of law to the contrary.
 
 ### 37 Protection of territorial authority, etc, from liability for issuing of certificate
