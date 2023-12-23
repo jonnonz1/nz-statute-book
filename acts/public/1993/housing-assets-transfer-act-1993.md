@@ -1,5 +1,5 @@
 # Housing Assets Transfer Act 1993
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > Title
 
@@ -51,7 +51,7 @@ The Ministers shall, before exercising the powers conferred on them by this Act 
   (e) shall invalidate or discharge any contract or security.
 (2) The Registrar-General of Land and all other persons charged with the keeping of books or registers shall make such entries in their respective books or registers and do everything necessary to give effect to the vesting of any housing assets in Kāinga Ora–Homes and Communities under this Act.
 (3) A certificate, signed by the Chief Surveyor for the land district in which the land is situated, that land described in the certificate, or described in any document on which the certificate appears, is land vested in Kāinga Ora–Homes and Communities pursuant to this Act, shall be sufficient evidence, in the absence of proof to the contrary, that the land was so vested.
-(4) The vesting of housing assets pursuant to this Act shall take effect notwithstanding any enactment or rule of law or agreement and, in particular, but without limitation, the vesting shall take effect notwithstanding any provision contained in the Land Act 1948, the Local Government Act 2002, the Reserves Act 1977, the Public Works Act 1981, the Natural and Built Environment Act 2023, or any other enactment relating to land.
+(4) The vesting of housing assets pursuant to this Act shall take effect notwithstanding any enactment or rule of law or agreement and, in particular, but without limitation, the vesting shall take effect notwithstanding any provision contained in the Land Act 1948, the Local Government Act 2002, the Reserves Act 1977, the Public Works Act 1981, the Resource Management Act 1991, or any other enactment relating to land.
 (5) Where, by virtue of this Act, any land vests in Kāinga Ora–Homes and Communities, the land shall vest in Kāinga Ora–Homes and Communities for an estate in fee simple subject to and together with all agreements for sale, licences, leases, agreements to lease, and mortgages thereof, and to all trusts, reservations, encumbrances, and interests existing in respect of any part of that land immediately before the land vests in Kāinga Ora–Homes and Communities.
 (6) Without limiting subsection (5), where by virtue of this Act any land vests in Kāinga Ora–Homes and Communities and the land is at the time of vesting subject to any agreement for sale or licence, all the rights and obligations of the Crown under any such agreement or licence shall vest in Kāinga Ora–Homes and Communities.
 (7) All housing assets that are subject to the Maori Housing Act 1935 or the Maori Housing Amendment Act 1938 or the Housing Act 1955 and that are vested in Kāinga Ora–Homes and Communities pursuant to this Act shall cease to be subject to those Acts unless otherwise expressly provided by this Act or any other Act.
