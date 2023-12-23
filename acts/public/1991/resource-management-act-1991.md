@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -1174,6 +1174,27 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
   (b) a further evaluation must be undertaken under this Act.
 
 ### 33 Transfer of powers
+(1) A local authority may transfer any 1 or more of its functions, powers, or duties under this Act, except this power of transfer, to another public authority in accordance with this section.
+(2) For the purposes of this section, public authority includes—
+  (a) a local authority; and
+  (b) an iwi authority; and
+  (c) a government department; and
+  (d) a statutory authority; and
+  (e) a joint committee set up for the purposes of section 80; and
+  (f) a local board.
+(3) A local authority must not transfer any of its functions, powers, or duties under this section unless—
+  (a) it has used the special consultative procedure set out in section 83 of the Local Government Act 2002; and
+  (b) before using that special consultative procedure it serves notice on the Minister of its proposal to transfer the function, power, or duty; and
+  (c) both authorities agree that the transfer is desirable on all of the following grounds:
+    (i) the authority to which the transfer is made represents the appropriate community of interest relating to the exercise or performance of the function, power, or duty:
+    (ii) efficiency:
+    (iii) technical or special capability or expertise.
+(4) A transfer of functions, powers, or duties under this section must be made by agreement between the authorities concerned and on such terms and conditions as are agreed.
+(5) A public authority to which any function, power, or duty is transferred under this section may accept the transfer, unless expressly forbidden to do so by the terms of any Act by or under which it is constituted, and upon the transfer its functions, powers, and duties are deemed to be extended in such manner as may be necessary to enable it to undertake, exercise, and perform the function, power, or duty.
+(6) A local authority that has transferred any function, power, or duty under this section may change or revoke the transfer at any time by notice to the transferee.
+(7) A public authority to which any function, power, or duty has been transferred under this section may relinquish the transfer in accordance with the transfer agreement.
+
+### 33 Transfer of powers
 [Repealed]
 
 ### 34 Delegation of functions, etc, by local authorities
@@ -1639,6 +1660,30 @@ An authority conducting a hearing on a matter described in section 39(1) may exe
   (a) subsection (3) if it is satisfied that there is no material prejudice, or is not aware of any material prejudice, to any person who should have been provided with a copy of the report under that subsection; or
   (b) subsection (4)﻿(b) if it is satisfied that there is no material prejudice, or is not aware of any material prejudice, to any person who should have been given notice of the report under that paragraph.
 
+**Information for post-settlement governance entities**
+
+### 42AA Provision of relevant information to post-settlement governance entity
+(1) This section applies if—
+  (a) a consent authority is or was required by legislation to provide to a post-settlement governance entity relevant information relating to an application for a resource consent for an activity within, adjacent to, or directly affecting a statutory area of a post-settlement governance entity; and
+  (b) the requirement to provide the relevant information no longer applies (for example, through the expiry of any period specified in the legislation).
+(2) The consent authority must provide the post-settlement governance entity with relevant information relating to an application for a resource consent.
+(3) In this section, relevant information means the following information relating to an application for a resource consent for an activity within, adjacent to, or directly affecting a statutory area of the post-settlement governance entity:
+  (a) if the application is received by the consent authority, a summary of the application; or
+  (b) if a notice of the application is served on the consent authority under section 145(10), a copy of the notice.
+(4) The summary must be the same as would be given to an affected person by limited notification under section 95B or as may be agreed between the post-settlement governance entity and the consent authority.
+(5) A consent authority must provide the post-settlement governance entity—
+  (a) with the summary—
+    (i) as soon as is reasonably practicable after the consent authority receives the application for the resource consent; but
+    (ii) before the relevant consent authority decides under section 95 whether to notify the application; and
+  (b) with the copy of the notice not later than 10 working days after the day on which the consent authority receives the notice.
+(6) The post-settlement governance entity may, by written notice to a consent authority,—
+  (a) waive the right to be provided with the summary or copy of the notice; and
+  (b) state the scope of that waiver and the period it applies for.
+(7) This section does not affect the obligation of a consent authority to decide,—
+  (a) under section 95, whether to notify an application:
+  (b) under section 95E, whether the post-settlement governance entity is an affected person in relation to an activity.
+(8) In this section, legislation has the meaning given in section 5 of the Legislation Act 2019 and includes any enactment.
+
 ## Part 4A — Environmental Protection Authority
 
 ### 42B Establishment of Environmental Protection Authority
@@ -1860,15 +1905,13 @@ A national environmental standard for an activity that is a discharge may descri
   (c) have particular regard to that report when deciding whether to recommend the making of the standard; and
   (d) publicly notify the report and recommendation made under section 46A(4)﻿(c) or 51(2), as the case requires.
 (2) For the purposes of subsection (1)﻿(a), the Minister—
-  (a) must consider a report and any recommendations made to the Minister under section 46A(4)﻿(c) or 51, as the case requires, and consider the desirability of consistency with the Natural and Built Environment Act 2023; and
+  (a) must consider a report and any recommendations made to the Minister under section 46A(4)﻿(c) or 51, as the case requires; and
   (b) may make any changes, or no changes, to the proposed national environmental standard as the Minister thinks fit.
 (2)
 (3) The Minister need not follow the steps in section 46A if the Minister is recommending the making of an amendment—
   (a) that has no more than a minor effect; or
   (b) that corrects errors or makes similar technical alterations.
-(4) The Minister need not follow the steps in section 46A if the Minister is recommending the making of an amendment to remove content and is satisfied that—
-  (a) the content would be more efficiently addressed through the processes in the Natural and Built Environment Act 2023 or the Spatial Planning Act 2023; or
-  (b) the content is redundant because of the transition from the RMA to the Natural and Built Environment Act 2023 and the Spatial Planning Act 2023.
+(4)
 
 ### 44A Local authority recognition of national environmental standards
 (1) Subsections (3) to (5) apply if a local authority's plan or proposed plan contains a rule that duplicates a provision in a national environmental standard.
@@ -2006,7 +2049,7 @@ A national direction may incorporate material by reference under Schedule 1AA.
   (c) any submissions received on the proposed national direction; and
   (ca) if applicable, any additional material provided by the Minister under section 47A(1)﻿(b); and
   (d) any evidence received; and
-  (da) the desirability of consistency with the Natural and Built Environment Act 2023; and
+  (da)
   (e) any other relevant matter.
 (2) After considering the matters, the board of inquiry must arrange for a report and recommendations to be made to the Minister within any terms of reference set by the Minister.
 
@@ -2019,7 +2062,7 @@ A national direction may incorporate material by reference under Schedule 1AA.
 
 ### 52 Consideration of recommendations and approval or withdrawal of statement
 (1) In the case of a national policy statement, whether made in accordance with section 46A(3)﻿(a) or (b), the Minister—
-  (a) first, must consider a report and any recommendations made to the Minister by a board of inquiry under section 46A(4)﻿(c) or 51, as the case requires, and consider the desirability of consistency with the Natural and Built Environment Act 2023; and
+  (a) first, must consider a report and any recommendations made to them by a board of inquiry under section 46A(4)﻿(c) or 51, as the case requires; and
   (b) secondly, may—
     (i) make any changes, or no changes, to the proposed national policy statement as he or she thinks fit; or
     (ii) withdraw all or part of the proposed national policy statement and give public notice of the withdrawal, including the reasons for the withdrawal; and
@@ -2040,9 +2083,7 @@ A national direction may incorporate material by reference under Schedule 1AA.
 (2) The Minister may, without using a process referred to in subsection (1),—
   (a) amend a national policy statement if the amendment is of minor effect or corrects a minor error:
   (b) amend the NPS-UD in accordance with section 77S(2).
-(2A) The Minister may, without using a process referred to in subsection (1), amend a national policy statement to remove content if the Minister is satisfied that—
-  (a) the content would be more efficiently addressed through the processes in the Natural and Built Environment Act 2023 or the Spatial Planning Act 2023; or
-  (b) the content is redundant because of the transition from the RMA to the Natural and Built Environment Act 2023 and the Spatial Planning Act 2023.
+(2A)
 (3) A change, revocation, or amendment under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 54 Publication of national policy statements
@@ -2165,7 +2206,7 @@ The purpose of a New Zealand coastal policy statement is to state objectives and
 ### 58E Approval of national planning standard
 (1) Before approving a national planning standard, the Minister must—
   (a) consider the report and recommendations made under section 58D(3)﻿(d)﻿(ii); and
-  (aa) consider the desirability of consistency with the Natural and Built Environment Act 2023; and
+  (aa)
   (b) carry out a further evaluation of the draft national planning standard in accordance with section 32AA and have particular regard to that evaluation when deciding whether to approve the national planning standard.
 (2) The Minister may—
   (a) approve a national planning standard after changing the draft in the manner that the Minister thinks fit; or
@@ -2192,9 +2233,7 @@ The purpose of a New Zealand coastal policy statement is to state objectives and
 (1) The Minister may change or replace a national planning standard, following the process set out in sections 58D and 58E.
 (2) If a change to a national planning standard has not more than a minor effect or corrects errors or makes similar technical alterations, the Minister may make the change without following the process set out in sections 58D and 58E.
 (2A) The Minister may change the period for compliance specified in standards 17.2.a and 17.8.a of the National Planning Standards 2019 from 3 years to 5 years without following the process set out in sections 58D and 58E, other than to give notice of the change in the Gazette and on the Internet site referred to in section 58F(2).
-(2B) The Minister may change a national planning standard to remove content without following the process set out in sections 58D and 58E if the Minister is satisfied that—
-  (a) the content would be more efficiently addressed through the processes in the Natural and Built Environment Act 2023 or the Spatial Planning Act 2023; or
-  (b) the content is redundant because of the transition from the RMA to the Natural and Built Environment Act 2023 and the Spatial Planning Act 2023.
+(2B)
 (3) The Minister may revoke a national planning standard in whole or in part, but must first give the public and iwi authorities notice, with adequate time and opportunity to comment on the proposed revocation.
 (4) The revocation of the whole or part of a national planning standard does not have the effect of revoking any provision of a plan included at the direction of, or in reliance on, a revoked provision of the national planning standard.
 (5) A change to or revocation of a national planning standard is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -3010,7 +3049,7 @@ Each specified territorial authority may, if it considers it appropriate to do s
 (9) The obligations on a local authority under this section are in addition to its duty to monitor under section 35.
 
 ### 79A Local authority not required to commence full plan review after Natural and Built Environment Act 2023 receives Royal assent
-Despite section 79 or any other provision of this Act, a local authority is not required to commence a full review of a regional or district plan on and from the day after the date that the Natural and Built Environment Act 2023 receives the Royal assent.
+[Repealed]
 
 ### 79AA Application of temporary provisions in respect of section 79
 (1) The temporary provisions set out in subsections (2) and (3) apply instead of section 79(1) during the period—
@@ -3079,7 +3118,7 @@ Despite section 79 or any other provision of this Act, a local authority is not 
 (3) A regional council must prepare a freshwater planning instrument in accordance with this subpart and Part 4 of Schedule 1.
 (4) A regional council must—
   (a) publicly notify the freshwater planning instrument; and
-  (b) if the purpose of the freshwater planning instrument is to give effect to the National Policy Statement for Freshwater Management 2020, publicly notify the freshwater planning instrument by 31 December 2024; and
+  (b) if the purpose of the freshwater planning instrument is to give effect to the National Policy Statement for Freshwater Management 2020, publicly notify the freshwater planning instrument by 31 December 2027; and
   (c) no later than 6 months after it has publicly notified the freshwater planning instrument, submit the documents required by clause 37(1) of Schedule 1 (the required documents) to the Chief Freshwater Commissioner; and
   (d) at least 20 working days before submitting the required documents, provide to the Chief Freshwater Commissioner in writing—
     (i) its notice of intention to submit those documents; and
@@ -3507,6 +3546,9 @@ This Part applies subject to Part 6A.
   (b) notice of a decision on the application must be given within the time limit specified in section 115(4A); and
   (c) except as provided for in paragraphs (a) and (b), this Act applies to the application in the same way as it applies to any other application for a resource consent.
 (3) This overview is by way of explanation only. If any provision of this Act conflicts with this overview, that provision prevails.
+
+### 87AAE Other fast-track consenting process
+Despite the repeal of the Natural and Built Environment Act 2023, Schedule 10 of that Act continues in force subject to the modifications set out in Schedule 1 of the Resource Management (Natural and Built Environment and Spatial Planning Repeal and Interim Fast-track Consenting) Act 2023.
 
 ### 87 Types of resource consents
 In this Act, the term resource consent means any of the following:
@@ -10187,7 +10229,7 @@ Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices u
   (g) in respect of the consent authority's decision on an application or review described in subsections (2) to (5), for an applicant or consent holder, if the application or review was not notified.
 (2) Subsection (1)﻿(f) and (g) apply to an application made under section 88 for a resource consent. However, they do not apply if the consent authority refuses to grant the resource consent under sections 104B and 104C. They do apply if an officer of the consent authority exercising delegated authority under section 34A refuses to grant the resource consent under sections 104B and 104C.
 (3) Subsection (1)﻿(f) and (g) apply to an application made under section 127 for a change or cancellation of a condition of a resource consent.
-(3A) Subsection (1)﻿(f) and (g) applies to a determination by a consent authority under clause 40 of Schedule 12 that the application for a resource consent is not primarily for an activity described in clause 40(3) of that schedule.
+(3A)
 (4) Subsection (1)﻿(f) and (g) apply to a review of the conditions of a resource consent under sections 128 to 132.
 (5) Subsection (1)﻿(f) and (g) apply to an application made under section 221 to vary or cancel a condition specified in a consent notice.
 
@@ -13434,69 +13476,19 @@ In this Part,—
 ### Part 6 — Provisions relating to Natural and Built Environment Act 2023
 
 ### 38 Interpretation
-In this Part, unless the context otherwise requires,—
-  - **affected resource consent** means any of the following resource consents for the following activities under this Act:
-    (a) a water permit for an activity that takes, uses, dams, or diverts freshwater:
-    (b) a discharge permit for an activity that—
-      (i) discharges any contaminant or water into freshwater; or
-      (ii) discharges any contaminant onto or into land in circumstances that may result in that contaminant (or any other contaminant emanating as a result of natural processes from that contaminant) entering freshwater:
-    (c) a land use consent for an activity that would otherwise contravene section 15(1)﻿(b) by discharging a contaminant onto or into land in circumstances that may result in the contaminant entering freshwater
-  - **applicable interim period** , in relation to an application for an affected resource consent, means the period—
-    (a) commencing on the day after the date that the Natural and Built Environment Act 2023 receives the Royal assent; and
-    (b) ending on the date that the relevant rules for the region (in which the application is lodged) have legal effect in accordance with clause 6(4) of Schedule 1 of the Natural and Built Environment Act 2023
-  - **relevant rules** means rules in the first natural and built environment plan for a region that provide for allocation methods.
+[Repealed]
 
 ### 39 Duration of affected resource consent
-(1) The duration of an affected resource consent must be determined in accordance with this clause if, during the applicable interim period,—
-  (a) an application for an affected resource consent is lodged with a consent authority; and
-  (b) the consent authority grants the application.
-(2) The consent authority may grant the affected resource consent for a fixed period or require that it expire by a fixed date but, in either case, the duration of the consent must not exceed 5 years after the date that the relevant rules have legal effect in accordance with clause 6(4) of Schedule 1 of the Natural and Built Environment Act 2023.
-(3) A consent authority must, no later than 10 working days after receiving an application for an affected resource consent, notify the applicant whether clauses 38 to 40 are relevant to their application.
-(4) Subclause (3) does not apply if the consent authority determines under section 88(3) that the application is incomplete and returns it to the applicant in accordance with section 88(3A).
+[Repealed]
 
 ### 40 When clause 39 does not affect duration of resource consent
-(1) Clause 39 does not affect the duration of an affected resource consent if—
-  (a) a person (regardless of whether they are a holder of an affected resource consent)—
-    (i) applies, during the applicable interim period, for an affected resource consent (or an affected resource consent for the same activity applied for in accordance with section 124); and
-    (ii) seeks, as part of their resource consent application, a determination from the consent authority that clause 39 does not affect the duration of the consent; and
-    (iii) demonstrates that the application is primarily for an activity described in subclause (3); and
-  (b) the consent authority determines that clause 39 does not affect the duration of the consent after being satisfied that the application is primarily for an activity described in subclause (3).
-(2) If subclause (1)﻿(b) applies, the consent authority must determine the duration of the affected resource consent in accordance with sections 104 and 123.
-(3) The activities referred to in subclause (1)﻿(a)﻿(iii) and (b) are as follows:
-  (a) the construction, operation, upgrading, or maintenance of local authority or community reticulated water supply networks:
-  (b) the construction, operation, upgrading, and maintenance of infrastructure that forms part of a public wastewater or stormwater network:
-  (c) the operation, upgrading, or maintenance of any hydro-electricity generation scheme that exists on the day after the date that the Natural and Built Environment Act 2023 receives the Royal assent:
-  (d) the construction, operation, upgrading, or maintenance of any of the following infrastructure activities:
-    (i) State highways:
-    (ii) the high-pressure gas transmission pipeline network operating in the North Island:
-    (iii) the national grid electricity transmission network or local distribution network:
-    (iv) the New Zealand rail network (including light rail):
-    (v) renewable electricity generation facilities, excluding any hydro-electricity generation facility, that connect directly to the national grid electricity transmission network or that connect to a local distribution network:
-    (vi) any airport used for regular air transport services by aeroplanes capable of carrying more than 30 passengers:
-    (vii) port facilities of each port company referred to in item 6 of Part A of Schedule 1 of the Civil Defence Emergency Management Act 2002:
-    (viii) infrastructure that forms part of a public telecommunications network:
-  (e) replacement, repair, or removal activities for the purpose of an activity described in paragraphs (a) to (d):
-  (f) an activity specified in an Order in Council made under this clause.
-(4) The activities described in subclause (3)﻿(d)﻿(vi) and (vii) do not include any ancillary commercial activity or facilities for that activity.
-(5) The Governor-General may, on the recommendation of the Minister, make regulations specifying further infrastructure activities that are not affected by clause 39.
-(6) Before making a recommendation under subclause (5), the Minister must be satisfied that the activity is—
-  (a) an infrastructure activity that has regional or national significance; or
-  (b) an activity that is associated with an activity described in paragraph (a); or
-  (c) the construction, operation, upgrading, and maintenance of water storage facilities for the purpose of improving outcomes related to resilience to environmental change or climate change.
-(7) Regulations made under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 41 Public notification of applications for affected resource consent for same activity precluded
-(1) During the applicable interim period, a consent authority must not give public notification of an application for an affected resource consent if—
-  (a) clause 39 would affect the duration of the consent if the application were granted; and
-  (b) the application is for the same activity to which an application under section 124 relates.
-(2) To avoid doubt, subclause (1)—
-  (a) applies despite any provision of this Act or any rule in a national environmental standard or regional plan; and
-  (b) does not prevent a consent authority from giving limited notification of the affected resource consent.
-(3) However, this clause does not apply if an applicant for an affected resource consent requests that the consent authority give public notification of the application.
+[Repealed]
 
 ### 42 Submitters’ appeal rights restricted for limited notified affected resource consent application
-(1) This section applies to a person who made a submission on a limited notified application for an affected resource consent the duration of which has been determined in accordance with clause 39(2).
-(2) The person may not, despite section 120(1)﻿(b), appeal against the whole or any part of a decision of a consent authority on the application, unless the Environment Court is satisfied that the person has an interest in the application that is greater than the interest that the general public has.
+[Repealed]
 
 ### 1 Title
 (1) This Act is the Resource Management Amendment Act 2003.
