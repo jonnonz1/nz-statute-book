@@ -1,5 +1,5 @@
 # Joint Family Homes Act 1964
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to provide for joint family homes, and for an exemption from gift duty in respect thereof
 
@@ -39,7 +39,7 @@ In this Act, unless the context otherwise requires,—
   (a) the flat is, or will within 6 months of the date of the application be, used exclusively or principally as a home for the husband and wife and such of the members of their household (if any) as for the time being reside in the flat; and
   (b) the land to which the application relates comprises only the flat and any other land which is used exclusively or principally in connection with the use of the flat as a home.
 (2A) For the purposes of paragraph (b) of subsection (2), in the case of an application to settle any land comprising or including a leasehold interest in a flat, if the applicant is also the registered proprietor of an undivided share in the land which is the site of or appurtenant to the flat, and if neither the applicant nor the husband or wife of the applicant is deriving any pecuniary gain from or in respect of that undivided share in the land, then that undivided share in the land shall be deemed to be used principally in connection with the use of the flat as a home.
-(3) The provisions of Part 10 of the Natural and Built Environment Act 2023 apply to any settlement of land under this Act as if the settlement were a sale of the land.
+(3) The provisions of Part 10 of the Resource Management Act 1991 apply to any settlement of land under this Act as if the settlement were a sale of the land.
 
 ### 4 Settlement of additional land
 (1) In any case where the husband and wife on whom land is settled as a joint family home are the registered proprietors, or either of them is the registered proprietor, of additional land contiguous to the joint family home, and the husband and wife or either of them could, on the cancellation of the settlement, resettle under this Act the land originally settled together with the additional land, that additional land may be settled as part of the joint family home without any cancellation of the original settlement.
