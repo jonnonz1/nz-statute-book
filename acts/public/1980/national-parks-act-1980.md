@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -76,7 +76,7 @@ In this Act, unless the context otherwise requires,—
     (a) means a grant of rights to carry out an activity for a purpose referred to in section 49 that does not require an interest in land; and
     (b) includes any authorisation or licence granted before the commencement of this definition that granted similar rights;—
   - **plant** means any angiosperm, gymnosperm, fern or fern ally; and includes any moss, liverwort, alga, fungus, or related organism
-  - **private land** means any land that is for the time being held in fee simple by any person other than Her Majesty; and includes any Maori land within the meaning of the Maori Affairs Act 1953
+  - **private land** means any land that is for the time being held in fee simple by any person other than the Sovereign; and includes any Maori land within the meaning of the Maori Affairs Act 1953
   - **protected wildlife** means—
     (a) any animal for the time being absolutely protected pursuant to section 3 of the Wildlife Act 1953:
     (b) any animal for the time being partially protected pursuant to section 5 of the Wildlife Act 1953, other than an animal in such circumstances that it may be hunted or killed under the authority of subsection (2) of that section:
@@ -154,7 +154,7 @@ This Act shall bind the Crown.
     (i) any conservation area; or
     (ii)
     (iii) any land subject to the Tourist and Health Resorts Control Act 1908 or the Tourist Hotel Corporation Act 1974; or
-    (iv) any reserve vested in Her Majesty subject to the Reserves Act 1977; or
+    (iv) any reserve vested in the Sovereign subject to the Reserves Act 1977; or
     (v) any land acquired by the Crown for national park purposes,—
   (b) add any such land to any park:
   (c) declare that any foreshore described in the order shall be a national park or be added to any park:
@@ -164,7 +164,7 @@ This Act shall bind the Crown.
 (3)
 (4) No land subject to the Tourist and Health Resorts Control Act 1908 or the Tourist Hotel Corporation Act 1974 shall be declared to be a park or to be added to any park, except on the joint recommendation of the Minister and the Minister of Tourism.
 (5)
-(6) No foreshore shall be declared to be a park or to be added to any park, except on the joint recommendation of the Minister and the Minister of Transport, and, where the foreshore is under the control of a regional council under the Natural and Built Environment Act 2023, except with the consent of that body.
+(6) No foreshore shall be declared to be a park or to be added to any park, except on the joint recommendation of the Minister and the Minister of Transport, and, where the foreshore is under the control of a regional council under the Resource Management Act 1991, except with the consent of that body.
 
 ### 8 Investigation of proposals to add to parks or establish new parks
 (1) The Authority may, after having advised the Minister of its intention to do so, request the Director-General to investigate and report to it on any proposal that land should be declared to be a park or part of a park, or acquired for national park purposes.
@@ -175,9 +175,9 @@ This Act shall bind the Crown.
 
 ### 9 Acquisition of land for national parks
 (1) Where the Minister, on the recommendation of the Authority made after consultation with the appropriate Board (if any), considers that any private land, or any easement over private land, or the interest of any lessee or licensee in any land, should be acquired by the Crown for national park purposes,—
-  (a) the Minister may, in the name and on behalf of Her Majesty, contract for the purchase or lease of the land, easement, or interest, or accept the land, easement, or interest as a gift; or
+  (a) the Minister may, in the name and on behalf of the Sovereign, contract for the purchase or lease of the land, easement, or interest, or accept the land, easement, or interest as a gift; or
   (b) the land, easement, or interest may be taken or otherwise acquired under the Public Works Act 1928 as for a public work under that Act.
-(2) All land, easements, or interests in land acquired under subsection (1) shall vest in Her Majesty for national park purposes, and all lands acquired by the Minister by way of lease under this section shall, during the term of the lease, be subject to this Act.
+(2) All land, easements, or interests in land acquired under subsection (1) shall vest in the Sovereign for national park purposes, and all lands acquired by the Minister by way of lease under this section shall, during the term of the lease, be subject to this Act.
 
 ### 10 Park land administered under certain other Acts
 (1) Any land that, at the commencement of this Act, is part of a national park and is being administered under the Tourist and Health Resorts Control Act 1908 shall continue to be administered under that Act, but otherwise shall remain part of the park.
@@ -350,7 +350,7 @@ The Minister shall consult the Authority in respect of any notice requesting an 
 (4) The Director-General shall supply to every ranger a written warrant signed by or on behalf of the Director-General evidencing the appointment, and the production of that warrant shall, in the absence of proof to the contrary, be sufficient proof of the appointment.
 (5) Every ranger shall, on the expiration of the term of his appointment, or on the sooner vacation of his office, surrender to the Director-General his warrant of appointment and any badge of office that may have been issued to him.
 (6) Every honorary ranger shall be appointed to hold office during the pleasure of the Minister or for such specified term as the Minister thinks fit.
-(7) No person appointed to be an honorary ranger shall, by virtue of that appointment, be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or of the Government Superannuation Fund Act 1956.
+(7) No person appointed to be an honorary ranger shall, by virtue of that appointment, be deemed to be employed in the service of the Sovereign for the purposes of the Public Service Act 2020 or of the Government Superannuation Fund Act 1956.
 (8) Every constable, every warranted officer appointed under subsection (1) or deemed to have been appointed by subsection (9) of section 59 of the Conservation Act 1987, and every ranger appointed under the Wildlife Act 1953, shall, by virtue of his office, have all the powers of a ranger under this Act.
 
 ### 41 Delegation of Minister's powers and functions
@@ -957,13 +957,13 @@ A person who commits an infringement offence is liable on conviction to—
 (6) Except as provided in subsections (3) and (5), nothing in this section shall derogate from the provisions of the Land Transfer Act 2017.
 
 ### 74 Director-General may execute documents on behalf of the Crown
-All documents that require to be executed for the purpose of this Act by or on behalf of Her Majesty or by or on behalf of the Minister may, unless otherwise provided by this Act, be executed by the Director-General, and if so executed shall be as valid and effectual as if executed by or on behalf of Her Majesty or by or on behalf of the Minister, as the case may be.
+All documents that require to be executed for the purpose of this Act by or on behalf of the Sovereign or by or on behalf of the Minister may, unless otherwise provided by this Act, be executed by the Director-General, and if so executed shall be as valid and effectual as if executed by or on behalf of the Sovereign or by or on behalf of the Minister, as the case may be.
 
 ### 75 Director-General may act in proceedings on behalf of the Crown
 All actions and proceedings by or on behalf of the Crown in connection with any breach of contract or any trespass or any damage accruing by reason of trespass or for the recovery of any rent, purchase money, or other money in respect of any national park or in respect of any damages or wrongs suffered by the Crown in respect of any national park may be commenced, prosecuted, and carried on by the Director-General on behalf of the Crown, and the Director-General may be plaintiff or defendant, as the case may require, in any such action or proceeding.
 
 ### 76 Records of title in respect of national parks
-(1) The Registrar-General of Land must, on completion of such surveys (if any) as may be necessary, and on being requested in writing to do so by the Director-General, issue a record or records of title under the Land Transfer Act 2017 in the name of Her Majesty in respect of any such land.
+(1) The Registrar-General of Land must, on completion of such surveys (if any) as may be necessary, and on being requested in writing to do so by the Director-General, issue a record or records of title under the Land Transfer Act 2017 in the name of the Sovereign in respect of any such land.
 (2) Subsection (1) shall not oblige any person to register any lease or licence granted under this Act.
 
 ### 77 Approval under this Act not to authorise actions in contravention of other Acts
