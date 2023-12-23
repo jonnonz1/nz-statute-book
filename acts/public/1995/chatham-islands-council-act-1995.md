@@ -1,5 +1,5 @@
 # Chatham Islands Council Act 1995
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act—ato reform the local government of the Chatham Islands by establishing a Chatham Islands Council with appropriate functions, duties, and powers:bto dissolve the Chatham Islands County Council:cto make provision incidental to the establishment of the Chatham Islands Council and the dissolution of the Chatham Islands County Council
 
@@ -48,9 +48,9 @@ A territorial authority to be known as the Chatham Islands Council is hereby con
     (i) the Local Government Act 2002; and
     (ii) the Local Government Act 1974; and
     (iii) the Local Government (Rating) Act 2002; and
-    (iv) the Natural and Built Environment Act 2023; and
+    (iv) the Resource Management Act 1991; and
     (v) any other public Act; and
-  (b) a regional council under the Natural and Built Environment Act 2023; and
+  (b) a regional council under the Resource Management Act 1991; and
   (c) a regional authority under the Building Act 2004.
 (2) Except as otherwise provided in this Act or any other Act, the Chatham Islands Council shall have the functions, duties, and powers conferred on the former council by or under any Act that is for the time being in force.
 
@@ -218,13 +218,26 @@ The amount of any unpaid council dues may be recovered by the Chatham Islands Co
 **Resource management**
 
 ### 26 Resource management planning
+(1) The Chatham Islands Council must have a single resource management document.
+(2) That document must contain all the information that the Resource Management Act 1991 requires to be contained in—
+  (a) a regional policy statement; and
+  (b) a regional coastal plan; and
+  (c) a district plan.
+(3) That document may also contain provision for—
+  (a) the matters provided for in section 67 of the Resource Management Act 1991; and
+  (b) regional rules made in accordance with section 68 of the Resource Management Act 1991.
+(4) The Chatham Islands Council may develop, in addition to the document specified in subsection (1), 1 or more regional plans in accordance with section 65 of the Resource Management Act 1991.
+(5) Despite section 28(b) of the Resource Management Act 1991, the Minister of Conservation has the function of approving any part of the document specified in subsection (1) that relates to the coastal marine area.
+(6) The Chatham Islands Council must publicly notify the proposed Chatham Islands resource management document no later than 2 years after the commencement of this Act.
+
+### 26 Resource management planning
 [Repealed]
 
 ### 27 Time periods for consent hearings
-Where the Natural and Built Environment Act 2023, or any regulations made pursuant to that Act, specifies any period of time within which the consent authority or any other person must perform any action in the course of the consent hearing process, and where the consent is required for an activity within the area of the Chatham Islands Territory, that time period shall be extended by 5 working days.
+Where the Resource Management Act 1991, or any regulations made pursuant to that Act, specifies any period of time within which the consent authority or any other person must perform any action in the course of the consent hearing process, and where the consent is required for an activity within the area of the Chatham Islands Territory, that time period shall be extended by 5 working days.
 
 ### 28 Enforcement officers
-Notwithstanding section 725 of the Natural and Built Environment Act 2023, the Chatham Islands Council may authorise—to carry out all or any of the functions and powers as an enforcement officer under that Act.
+Notwithstanding section 38 of the Resource Management Act 1991, the Chatham Islands Council may authorise—to carry out all or any of the functions and powers as an enforcement officer under that Act.
   (a) any of its officers; or
   (b) any of the officers of the new Ministry or the Ministry of Fisheries or the Department of Conservation or the New Zealand Police, subject to such terms and conditions as to the payment of salary and expenses and as to the appointment of his or her duties as may be agreed between the relevant authorities,—
 
@@ -332,32 +345,3 @@ Nothing effected or authorised by this Act—
 
 ### 14 Remuneration
 Nothing in section 101ZZQ of the Local Government Act 1974 shall apply in respect of the first determination of remuneration made after the commencement of this clause in relation to the Chatham Islands Council.
-
-### 1 Title
-This Act is the Local Government (Rating) Act 2002.
-
-## Part 1 — Preliminary and key provisions
-
-### Subpart 1 — Preliminary provisions
-
-### 2 Commencement
-(1) Section 137(1), so far as it relates to the item relating to section 122ZAA of the Local Government Act 1974 in Schedule 5, comes into force on the day after the date on which this Act receives the Royal assent.
-(2) The following provisions come into force on the day after the date on which this Act receives the Royal assent, but only for the purpose of rating in a financial year that begins on or after 1 July 2003:
-  (a) section 11, so far as it relates to district valuation rolls; and
-  (b) section 137(1), so far as it relates to—
-    (i) Schedule 4; and
-    (ii) items relating to the Rating Valuations Regulations 1998 in Schedule 5.
-(3) The following provisions come into force on 30 April 2003:
-  (a) section 11, so far as it relates to rating information databases; and
-  (b) sections 27 to 36.
-(4) The rest of this Act comes into force on 1 July 2003.
-
-## Part 5 — Replacement of rates and miscellaneous matters
-
-### Subpart 2 — Miscellaneous matters
-
-**Amendments, savings, repeals of other enactments, and transitional provisions**
-
-### 137 Amendments to other enactments
-(1) The Acts and regulations specified in Schedules 4 and 5 are amended in the manner indicated in those schedules.
-(2) However, those Acts and regulations continue in force as if they had not been amended to the extent necessary for the levying and collection of rates made or levied for the financial year ending on 30 June 2003 or a previous financial year.
