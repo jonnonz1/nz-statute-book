@@ -1,5 +1,5 @@
 # Inquiries Act 2013
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Inquiries Act 2013.
@@ -405,7 +405,6 @@ The Acts specified in Schedule 2 are amended in the manner indicated in that sch
 | Land Valuation Proceedings Act 1948 | s 19 |
 | Lawyers and Conveyancers Act 2006 | s 47(d) |
 | Legal Services Act 2011 | s 7 |
-| Local Government Act 2002 | s 34, and cl 1 of Schedule 5 |
 | Maori Reserved Land Act 1955 | s 74 |
 | Maritime Transport Act 1994 | ss 58, 235, 246E, 246F, and cl 10 of Schedule 2 |
 | Mental Health (Compulsory Assessment and Treatment) Act 1992 | ss 95, 104 |
@@ -417,6 +416,7 @@ The Acts specified in Schedule 2 are amended in the manner indicated in that sch
 | Reserves and Other Lands Disposal and Public Bodies Empowering Act 1915 | s 38 |
 | Reserves and Other Lands Disposal and Public Bodies Empowering Act 1917 | ss 110, 129 |
 | Reserves and Other Lands Disposal and Public Bodies Empowering Act 1920 | ss 91, 108 |
+| Resource Management Act 1991 | s 41 |
 | River Boards Amendment Act 1913 | s 4 |
 | Rotorua Borough Act 1922 | s 10 |
 | Sale and Supply of Alcohol Act 2012 | s 201 |
