@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2023-10-01_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -101,7 +101,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
     (d) in relation to a regional council, means a member of the governing body of the regional council elected under the Local Electoral Act 2001, including the chairperson:
     (e) in relation to a territorial authority, means a member of the governing body of the territorial authority elected under the Local Electoral Act 2001, including the mayor
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **natural hazard** has the meaning given to it in section 11 of the Natural and Built Environment Act 2023
+  - **natural hazard** has the meaning given to it in section 2(1) of the Resource Management Act 1991
   - **network infrastructure** has the meaning set out in section 197(2)
   - **operating expenses** and have the same meaning as under generally accepted accounting practice
   - **pecuniary interest** , in relation to a member, means a matter or activity of financial benefit to the member
@@ -803,7 +803,7 @@ A local authority must act in accordance with the following principles in relati
   (c) appointing, in accordance with clause 30 of Schedule 7, 1 or more committees in addition to any established by the mayor under subsection (3)﻿(b); or
   (d) discharging, in accordance with clause 31 of Schedule 7, a chairperson appointed by the mayor under subsection (3)﻿(c).
 (5) A mayor is a member of each committee of a territorial authority.
-(5A) Despite subsections (1) to (5), any appointment of a mayor or other member of a territorial authority to a regional planning committee under the Natural and Built Environment Act 2023 must be made only in accordance with that Act.
+(5A)
 (6) To avoid doubt, a mayor must not delegate any of his or her powers under subsection (3).
 (7) To avoid doubt,—
   (a) clause 17(1) of Schedule 7 does not apply to the election of a deputy mayor of a territorial authority unless the mayor of the territorial authority declines to exercise the power in subsection (3)﻿(a):
@@ -887,7 +887,7 @@ A local authority must act in accordance with the following principles in relati
   (b) the member acted honestly and reasonably and, having regard to all the circumstances of the case, the member ought fairly to be excused.
 
 ### 47A Application of sections 43 to 47 to planning committees under Natural and Built Environment Act 2023
-Sections 43 to 47 apply to the acts and failures of a member of a regional planning committee under the Natural and Built Environment Act 2023 (whether the person is a member of a local authority or appointed to represent other interests under that Act) that occur in the course of, and relate to, the business of the planning committee.
+[Repealed]
 
 ### 48 Further provisions of Schedule 7
 The following activities of local authorities must be carried out in accordance with Part 1 of Schedule 7:
@@ -966,7 +966,7 @@ The membership of a local board consists of—
 
 ### 48J Decision-making responsibilities of governing body
 (1) The governing body is responsible and democratically accountable for—
-  (a) the decision making of the unitary authority in relation to any regulatory responsibility, duty, or power conferred on, or applying to, the unitary authority under this Act or any other enactment (for example, the responsibilities, duties, or powers conferred on, or applying to, a local authority under the Natural and Built Environment Act 2023, the Health Act 1956, the Building Act 2004, and the Civil Defence Emergency Management Act 2002); and
+  (a) the decision making of the unitary authority in relation to any regulatory responsibility, duty, or power conferred on, or applying to, the unitary authority under this Act or any other enactment (for example, the responsibilities, duties, or powers conferred on, or applying to, a local authority under the Resource Management Act 1991, the Health Act 1956, the Building Act 2004, and the Civil Defence Emergency Management Act 2002); and
   (b) the decision making of the unitary authority in relation to—
     (i) transport networks and infrastructure; and
     (ii) any non-regulatory activities of the unitary authority that are allocated to the governing body in accordance with section 48L; and
@@ -1164,7 +1164,7 @@ The role of a community board is to—
   (a) members of the local authority; and
   (b) members who have been elected under the Local Electoral Act 2001 to a community board that is part of the local authority; and
   (c) members who have been elected under the Local Electoral Act 2001 to a local board that is part of the local authority.
-(1A) A regional planning committee must keep a register of the pecuniary interests of its members appointed under the Natural and Built Environment Act 2023.
+(1A)
 (2) The register must comprise the pecuniary interest returns that—
   (a) are made by members under section 54C; and
   (b) contain all information in any pecuniary interest return that is required to be disclosed under sections 54E and 54F, and include any notifications made under section 54D of errors or omissions in those returns.
@@ -1178,7 +1178,7 @@ The role of a community board is to—
 The purpose of the register of members’ pecuniary interests is to record members’ interests so as to provide transparency and to strengthen public trust and confidence in local government processes and decision-making.
 
 ### 54C Members to make pecuniary interest returns
-(1) A member described in section 54A(1)﻿(a), (b), (c), or (1A) must make a pecuniary interest return containing the information specified in sections 54E and 54F in respect of the 12-month period that ended on the day that is 1 month before each date specified for the return in subsection (2).
+(1) A member described in section 54A(1)﻿(a), (b), or (c) must make a pecuniary interest return containing the information specified in sections 54E and 54F in respect of the 12-month period that ended on the day that is 1 month before each date specified for the return in subsection (2).
 (2) The member must make the pecuniary interest return by the following dates:
   (a) the day that is 120 days after the date on which the member comes into office under section 115 of the Local Electoral Act 2001:
   (b) the last day of February in each subsequent year.
@@ -1474,7 +1474,7 @@ This Part—
 (3) The policy adopted under subsection (1) must list the assets considered by the local authority to be strategic assets.
 (4) A policy adopted under subsection (1) may be amended from time to time.
 (5) When adopting or amending a policy under this section, the local authority must consult in accordance with section 82 unless it considers on reasonable grounds that it has sufficient information about community interests and preferences to enable the purpose of the policy to be achieved.
-(5A) Despite what may be set out in a policy adopted under this section, public engagement on matters provided for in a regional spatial strategy under the Spatial Planning Act 2023 must be limited to options for dealing with those matters in a way that is consistent with the strategy.
+(5A)
 (6) To avoid doubt, section 80 applies when a local authority deviates from this policy.
 
 **Decision-making**
@@ -1514,7 +1514,7 @@ This Part—
   (a) the principles set out in section 14; and
   (b) the extent of the local authority's resources; and
   (c) the extent to which the nature of a decision, or the circumstances in which a decision is taken, allow the local authority scope and opportunity to consider a range of options or the views and preferences of other persons.
-(3) The nature and circumstances of a decision referred to in subsection (2)﻿(c) include the extent to which the requirements for such decision-making are prescribed in or under any other enactment (for example, the Natural and Built Environment Act 2023).
+(3) The nature and circumstances of a decision referred to in subsection (2)﻿(c) include the extent to which the requirements for such decision-making are prescribed in or under any other enactment (for example, the Resource Management Act 1991).
 (4) Subsection (3) is for the avoidance of doubt.
 
 ### 80 Identification of inconsistent decisions
@@ -1967,14 +1967,14 @@ If a local authority carries out consultation in relation to an amendment to a l
   (a) a revenue and financing policy; and
   (b) a liability management policy; and
   (c) an investment policy; and
-  (d) a policy on development contributions or environmental contributions; and
+  (d) a policy on development contributions or financial contributions; and
   (e) a policy on the remission and postponement of rates on Māori freehold land; and
   (f) in the case of a unitary authority for a district that includes 1 or more local board areas, a local boards funding policy.
 (3) A local authority may adopt either or both of the following policies:
   (a) a rates remission policy:
   (b) a rates postponement policy.
 (3A) The following policies must also support the principles set out in the Preamble to Te Ture Whenua Maori Act 1993:
-  (a) the revenue and financing policy, the policy on development contributions or environmental contributions, and the policy on the remission and postponement of rates on Māori freehold land adopted under subsection (1):
+  (a) the revenue and financing policy, the policy on development contributions or financial contributions, and the policy on the remission and postponement of rates on Māori freehold land adopted under subsection (1):
   (b) any rates remission policy or rates postponement policy adopted under subsection (3).
 (4) A local authority—
   (a) must consult on a draft policy in a manner that gives effect to the requirements of section 82 before adopting a policy under this section:
@@ -1999,7 +1999,7 @@ If a local authority carries out consultation in relation to an amendment to a l
   (e) borrowing:
   (f) proceeds from asset sales:
   (g) development contributions:
-  (h) environmental contributions under the Natural and Built Environment Act 2023:
+  (h) financial contributions under the Resource Management Act 1991:
   (i) grants and subsidies:
   (ia) regional fuel taxes under the Land Transport Management Act 2003:
   (j) any other source.
@@ -2023,18 +2023,18 @@ A policy adopted under section 102(1) must state the local authority's policies 
   (d) an outline of the procedures by which investments are managed and reported on to the local authority; and
   (e) an outline of how risks associated with investments are assessed and managed.
 
-### 106 Policy on development contributions or environmental contributions
-(1) In this section, environmental contributions has the meaning given to it by section 11 of the Natural and Built Environment Act 2023.
-(2) A policy adopted under section 102(1) must, in relation to the purposes for which development contributions or environmental contributions may be required,—
+### 106 Policy on development contributions or financial contributions
+(1) In this section, financial contributions has the meaning given to it by section 108(9) of the Resource Management Act 1991.
+(2) A policy adopted under section 102(1) must, in relation to the purposes for which development contributions or financial contributions may be required,—
   (a) summarise and explain the total cost of capital expenditure identified in the long-term plan, or identified under clause 1(2) of Schedule 13 that the local authority expects to incur to meet the increased demand for community facilities resulting from growth; and
   (b) state the proportion of that total cost of capital expenditure that will be funded by—
     (i) development contributions:
-    (ii) environmental contributions:
+    (ii) financial contributions:
     (iii) other sources of funding; and
   (c) explain, in terms of the matters required to be considered under section 101(3), why the local authority has determined to use these funding sources to meet the expected total cost of capital expenditure referred to in paragraph (a); and
-  (d) identify separately each activity or group of activities for which a development contribution or an environmental contribution will be required and, in relation to each activity or group of activities, specify the total amount of funding to be sought by development contributions or environmental contributions; and
+  (d) identify separately each activity or group of activities for which a development contribution or a financial contribution will be required and, in relation to each activity or group of activities, specify the total amount of funding to be sought by development contributions or financial contributions; and
   (e) if development contributions will be required, comply with the requirements set out in sections 201 to 202A; and
-  (f) if environmental contributions will be required, summarise the provisions that relate to environmental contributions in the plan under the Natural and Built Environment Act 2023.
+  (f) if financial contributions will be required, summarise the provisions that relate to financial contributions in the district plan or regional plan prepared under the Resource Management Act 1991.
 (2A) This section does not prevent a local authority from calculating development contributions over the capacity life of assets or groups of assets for which development contributions are required, so long as—
   (a) the assets that have a capacity life extending beyond the period covered by the territorial authority’s long-term plan are identified in the development contributions policy; and
   (b) development contributions per unit of demand do not exceed the maximum amount allowed by section 203.
@@ -2047,7 +2047,7 @@ A policy adopted under section 102(1) must state the local authority's policies 
     (i) the amount of the newly adjusted development contribution; and
     (ii) how the increase complies with the requirements of paragraph (a).
 (3) If development contributions are required, the local authority must keep available for public inspection the full methodology that demonstrates how the calculations for those contributions were made.
-(4) If environmental contributions are required, the local authority must keep available for public inspection the provisions of the plan under the Natural and Built Environment Act 2023 that relate to environmental contributions.
+(4) If financial contributions are required, the local authority must keep available for public inspection the provisions of the district plan or regional plan prepared under the Resource Management Act 1991 that relate to financial contributions.
 (5) The places within its district or region at which the local authority must keep the information specified in subsections (3) and (4) available for public inspection are—
   (a) the principal public office of the local authority; and
   (b) such other places within its district or region as the local authority considers necessary in order to provide members of the public with reasonable access to the methodology, provisions, or plan.
@@ -2263,7 +2263,7 @@ In this Part,—
     (ii) a drinking water supplier that is at risk of ceasing to provide a service.
 (3) A territorial authority must also consider the findings and implications of the assessment in relation to—
   (a) the territorial authority’s current and future infrastructure strategy and long-term plan; and
-  (b) the territorial authority’s plan under the Natural and Built Environment Act 2023; and
+  (b) the territorial authority’s district plan prepared under the Resource Management Act 1991; and
   (c) the territorial authority’s broader duty to improve, promote, and protect public health within its district in accordance with section 23 of the Health Act 1956.
 
 ### 127 Duty to ensure communities have access to drinking water if existing suppliers facing significant problems
@@ -2605,7 +2605,7 @@ Regulations under section 259 may do any or all of the following:
   (a) must enter on a register the name and postal address of an owner or occupier of trade premises who serves on the territorial authority a written request for registration; and
   (b) must ensure that a copy of a notice required under subsection (2) is sent to the persons registered under paragraph (a); and
   (c) may remove from the register the name of a person who has ceased to be the owner or occupier of trade premises within its district, or who has requested the local authority in writing to remove his or her name from the register.
-(6) Nothing in this section limits the provisions of the Health Act 1956 or the Natural and Built Environment Act 2023.
+(6) Nothing in this section limits the provisions of the Health Act 1956 or the Resource Management Act 1991.
 (7) The requirements in this section are in addition to the requirements in section 156, but a territorial authority may comply with both sections by using a single process.
 
 **Power of regional councils to make bylaws**
@@ -3024,7 +3024,7 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
   (b) the authorisation referred to in subsection (1) is terminated.
 (5) This section does not apply to—
   (a) a dog control officer or dog ranger acting under a power of entry conferred by the Dog Control Act 1996; or
-  (b) an enforcement officer acting under a power conferred by the Natural and Built Environment Act 2023; or
+  (b) an enforcement officer acting under a power conferred by the Resource Management Act 1991; or
   (c) an inspector or authorised person acting under a power conferred by the Biosecurity Act 1993.
 
 **Recovery for damage**
@@ -3193,16 +3193,16 @@ A person who is supplied with reticulated water by, or on behalf of, a local aut
 ### 195 Discharge of sewage
 (1) The discharge of domestic sewage into a sewerage drain under the control of a local authority in accordance with the bylaws of the local authority, and the discharge of trade wastes into a sewerage drain in accordance with trade wastes bylaws, is not a breach of—
   (a) this Act; or
-  (b) the Natural and Built Environment Act 2023 or regulations made under that Act; or
+  (b) the Resource Management Act 1991 or regulations made under that Act; or
   (c) the Building Act 2004 or regulations made under that Act.
-(2) However, this section does not absolve a local authority from liability for the discharge, in contravention of this Part or of the Natural and Built Environment Act 2023, of a contaminant from a sewerage drain under the control of the local authority.
+(2) However, this section does not absolve a local authority from liability for the discharge, in contravention of this Part or of the Resource Management Act 1991, of a contaminant from a sewerage drain under the control of the local authority.
 (3) The Minister of Health may, by notice in the Gazette, declare that a bylaw made by a local authority and specified in the notice is a trade wastes bylaw for the purposes of this section.
 
 ### 196 Discharge of trade wastes
 (1) The occupier of trade premises within the district of a territorial authority may discharge into the sewerage drains under the control of the territorial authority trade wastes proceeding from those premises either—
   (a) with the consent of the territorial authority; or
   (b) without consent if, and to the extent that, the discharge is permitted by trade wastes bylaws.
-(2) This section does not override any trade wastes bylaws, or the Natural and Built Environment Act 2023.
+(2) This section does not override any trade wastes bylaws, or the Resource Management Act 1991.
 
 ### Subpart 5 — Development contributions
 
@@ -3226,13 +3226,13 @@ The purpose of the development contributions provisions in this Act is to enable
 
 ### 197 Interpretation
 (1) In this subpart and Schedule 13,—
-  - **allotment** has the meaning given to it in section 575 of the Natural and Built Environment Act 2023
+  - **allotment** has the meaning given to it in section 218(2) of the Resource Management Act 1991
   - **capital expenditure** includes any funding provided by a responsible levy authority to contribute to the construction costs of eligible infrastructure that has been, or is intended to be, transferred to the authority under section 90 of the Infrastructure Funding and Financing Act 2020
   - **development** means—
     (a) any subdivision, building (as defined in section 8 of the Building Act 2004), land use, or work that generates a demand for reserves, network infrastructure, or community infrastructure; but
     (b) does not include the pipes or lines of a network utility operator
   - **methodology** means the methodology for calculating development contributions set out in Schedule 13
-  - **network utility operator** has the meaning given to it by section 11 of the Natural and Built Environment Act 2023.
+  - **network utility operator** has the meaning given to it by section 166 of the Resource Management Act 1991.
 (2) In this Act, unless the context otherwise requires,—
   - **accommodation units** means units, apartments, rooms in 1 or more buildings, or cabins or sites in camping grounds and holiday parks, for the purpose of providing overnight, temporary, or rental accommodation
   - **community facilities** means reserves, network infrastructure, or community infrastructure for which development contributions may be required in accordance with section 199
@@ -3252,14 +3252,14 @@ The purpose of the development contributions provisions in this Act is to enable
   - **development contributions commissioner** means a person appointed under section 199F
   - **network infrastructure** means the provision of roads and other transport, water, wastewater, and stormwater collection and management
   - **objector** means a person who lodges a development contribution objection
-  - **resource consent** has the meaning given by section 11 of the Natural and Built Environment Act 2023, and includes a change to a condition of a resource consent under section 334 of that Act
+  - **resource consent** has the meaning given to it in section 2(1) of the Resource Management Act 1991, and includes a change to a condition of a resource consent under section 127 of that Act
   - **service connection** means a physical connection to a service provided by, or on behalf of, a territorial authority.
 
 **Contributions may be required by territorial authorities**
 
 ### 198 Power to require contributions for developments
 (1) A territorial authority may require a development contribution to be made to the territorial authority when—
-  (a) a resource consent is granted under the Natural and Built Environment Act 2023 for a development within its district:
+  (a) a resource consent is granted under the Resource Management Act 1991 for a development within its district:
   (b) a building consent is granted under the Building Act 2004 for building work situated in its district (whether by the territorial authority or a building consent authority):
   (c) an authorisation for a service connection is granted.
 (2) A territorial authority may only require the development contribution as provided for in a policy adopted under section 102(1) that is consistent with section 201.
@@ -3398,7 +3398,7 @@ A territorial authority must supply all secretarial and administrative services 
 
 ### 200 Limitations applying to requirement for development contribution
 (1) A territorial authority must not require a development contribution for a reserve, network infrastructure, or community infrastructure if, and to the extent that—
-  (a) it has, under section 295(1)﻿(b) of the Natural and Built Environment Act 2023, imposed a condition on a resource consent in relation to the same development for the same purpose; or
+  (a) it has, under section 108(2)﻿(a) of the Resource Management Act 1991, imposed a condition on a resource consent in relation to the same development for the same purpose; or
   (b) the developer will fund or otherwise provide for the same reserve, network infrastructure, or community infrastructure; or
   (ba) the territorial authority has already required a development contribution for the same purpose in respect of the same building work, whether on the granting of a building consent or a certificate of acceptance; or
   (c) a third party has funded or provided, or undertaken to fund or provide, the same reserve, network infrastructure, or community infrastructure.
@@ -3461,7 +3461,7 @@ A territorial authority must supply all secretarial and administrative services 
     (ii) network infrastructure; and
     (iii) community infrastructure; and
   (b) the event that will give rise to a requirement for a development contribution under section 198, whether upon granting—
-    (i) a resource consent under the Natural and Built Environment Act 2023; or
+    (i) a resource consent under the Resource Management Act 1991; or
     (ii) a building consent under the Building Act 2004; or
     (iii) an authorisation for a service connection.
 (2) If different development contributions are payable in different parts of the district, subsection (1) applies in relation to the parts of the district.
@@ -3564,10 +3564,10 @@ Despite sections 197AB(d) and 205, if the territorial authority considers that t
 (1) A development agreement is a legally enforceable contract.
 (2) A development agreement has no force until all parties that will be bound by the agreement have signed it.
 (3) A development agreement does not oblige a territorial authority or any other consent authority to—
-  (a) grant a resource consent under the Natural and Built Environment Act 2023; or
+  (a) grant a resource consent under the Resource Management Act 1991; or
   (b) issue a building consent under the Building Act 2004; or
   (c) issue a code compliance certificate under the Building Act 2004; or
-  (d) grant a certificate under section 578 of the Natural and Built Environment Act 2023; or
+  (d) grant a certificate under section 224 of the Resource Management Act 1991; or
   (e) grant an authorisation for a service connection.
 (4) A territorial authority or other consent authority must not refuse to grant or issue a consent, certificate, or authorisation (as the case may be) referred to in subsection (3) on the basis that a development agreement has not been entered into.
 (5) If there is any conflict between the content of a development agreement and the application of a relevant development contributions policy in relation to that agreement, the content of the development agreement prevails.
@@ -3591,8 +3591,8 @@ Despite sections 197AB(d) and 205, if the territorial authority considers that t
 ### 208 Powers of territorial authority if development contributions not paid or made
 (1) Until a development contribution required in relation to a development has been paid or made under section 198, a territorial authority may,—
   (a) in the case of a development contribution required under section 198(1)﻿(a),—
-    (i) withhold a certificate under section 578 of the Natural and Built Environment Act 2023:
-    (ii) prevent the commencement of a resource consent under the Natural and Built Environment Act 2023:
+    (i) withhold a certificate under section 224(c) of the Resource Management Act 1991:
+    (ii) prevent the commencement of a resource consent under the Resource Management Act 1991:
   (b) in the case of a development contribution required under section 198(1)﻿(b), withhold a code compliance certificate under section 95 of the Building Act 2004:
   (ba) in the case of a development contribution required under section 198(4A), withhold a certificate of acceptance under section 99 of the Building Act 2004:
   (c) in the case of a development contribution required under section 198(1)﻿(c), withhold a service connection to the development:
@@ -3605,8 +3605,8 @@ Despite sections 197AB(d) and 205, if the territorial authority considers that t
 ### 209 Refund of money and return of land if development does not proceed
 (1) A territorial authority must refund or return to the consent holder or to his or her personal representative a development contribution paid or land set aside under this subpart if—
   (a) the resource consent—
-    (i) lapses under section 332 of the Natural and Built Environment Act 2023; or
-    (ii) is surrendered under section 350 of that Act; or
+    (i) lapses under section 125 of the Resource Management Act 1991; or
+    (ii) is surrendered under section 138 of that Act; or
   (b) the building consent lapses under section 52 of the Building Act 2004; or
   (c) the development or building in respect of which the resource consent or building consent was granted does not proceed; or
   (d) the territorial authority does not provide the reserve, network infrastructure, or community infrastructure for which the development contribution was required.
@@ -3619,7 +3619,7 @@ Despite sections 197AB(d) and 205, if the territorial authority considers that t
 (2) A territorial authority may retain part of the money or land referred to in subsection (1) of a value equivalent to the costs of the authority in refunding the money or returning the land.
 
 ### 211 Application of other Acts
-This subpart is in addition to the Building Act 2004 and the Natural and Built Environment Act 2023.
+This subpart is in addition to the Building Act 2004 and the Resource Management Act 1991.
 
 ### Subpart 6 — Removal orders
 
@@ -3630,7 +3630,9 @@ In sections 215 to 221 and Schedule 14, unless the context otherwise requires,�
   - **controlled drug** has the meaning given to it by section 2(1) of the Misuse of Drugs Act 1975
   - **court** means the District Court; and includes a District Court Judge
   - **crime involving dishonesty** has the meaning given to it by section 2(1) of the Crimes Act 1961
+  - **plan** has the meaning given to it by section 2(1) of the Resource Management Act 1991
   - **proceeds** means property that is derived or realised, directly or indirectly, by a person from the commission of a serious offence
+  - **proposed plan** has the meaning given to it by section 2(1) of the Resource Management Act 1991
   - **removal order** or means an order made under section 216 to remove or alter any fence, structure, or vegetation
   - **respondent** means the person against whom an application for a removal order has been made; and includes a person against whom a removal order is made
   - **serious offence** means an offence punishable by imprisonment for a term of 5 years or more
@@ -3731,8 +3733,8 @@ If a party to proceedings under this subpart appeals to the High Court under Par
 
 **Application of certain other Acts**
 
-### 222 Provisions of Natural and Built Environment Act 2023 and Building Act 2004 continue to apply
-Except as otherwise provided in this subpart or in Schedule 14, sections 215 to 221 and Schedule 14 apply in addition to, and not in derogation of, the provisions relating to the removal or alteration of fences, structures, or vegetation under this Act, the Natural and Built Environment Act 2023, and the Building Act 2004.
+### 222 Provisions of Resource Management Act 1991 and Building Act 2004 continue to apply
+Except as otherwise provided in this subpart or in Schedule 14, sections 215 to 221 and Schedule 14 apply in addition to, and not in derogation of, the provisions relating to the removal or alteration of fences, structures, or vegetation under this Act, the Resource Management Act 1991, and the Building Act 2004.
 
 ### 223 Relationship with Fencing Act 1978
 (1) If a fence, within the meaning of section 2 of the Fencing Act 1978, or vegetation or a structure that is, or forms part of, a fence, is altered in accordance with a removal order made under this subpart, it is presumed, unless a court orders otherwise under the Fencing Act 1978, to be an adequate fence within the meaning of that Act in respect of the part of the boundary of the property that it covers until the expiry of the period described in subsection (4).
@@ -3766,7 +3768,7 @@ Every person who contravenes section 192 and continues to waste water or allow i
 (2) It is not an offence under subsection (1) if the work referred to in subsection (1)﻿(d)—
   (a) is authorised by a valid consent granted under—
     (i) the Building Act 2004, regulations made under that Act, or the Building Code; or
-    (ii) the Natural and Built Environment Act 2023 or regulations made under that Act; or
+    (ii) the Resource Management Act 1991 or regulations made under that Act; or
   (b) was carried out in accordance with a valid building, plumbing, or drainage consent.
 (3) It is a defence to an offence under subsection (1)﻿(d) if the work—
   (a) was necessary to avoid an emergency, or to mitigate or remedy the effects of an emergency; and
@@ -5459,7 +5461,7 @@ In this schedule, unless the context otherwise requires,—
     (c) in relation to a reorganisation initiative or plan that relates solely to 1 or more matters described in section 24(1)﻿(i) to (m) (which relates to local board areas),—
       (i) for the purposes of any of clauses 3(1)﻿(b), 4(1)﻿(b)﻿(i), 4(1)﻿(c)﻿(ii), and 5(1)﻿(a), means the area of the local board or proposed local board; and
       (ii) for all other purposes, means the area comprising the district of the unitary authority; and
-    (d) in the case of a plan to which clause 23(1)﻿(e) applies (which relates to the transfer from one local authority to another of responsibilities, duties, and powers under the Natural and Built Environment Act 2023 or in relation to water services or transport services) means the districts or regions of both local authorities
+    (d) in the case of a plan to which clause 23(1)﻿(e) applies (which relates to the transfer from one local authority to another of responsibilities, duties, and powers under the Resource Management Act 1991 or in relation to water services or transport services) means the districts or regions of both local authorities
   - **affected elector** means—
     (a) a person who is a residential elector (within the meaning of section 23 of the Local Electoral Act 2001), if the address in respect of which the person is registered is in an affected area:
     (b) a person who is a ratepayer elector (within the meaning of section 24 of the Local Electoral Act 2001), if the person is qualified as a ratepayer elector in respect of a rating unit in an affected area
@@ -5821,13 +5823,13 @@ When preparing a reorganisation plan or (if clause 14(4) applies) a reorganisati
   (d) the assumption by a territorial authority of the powers of a regional council as a unitary authority:
   (e) the transfer from one local authority to another of—
     (i) responsibilities, duties, and powers in relation to water services or transport services; or
-    (ii) responsibilities, duties, and powers under the Natural and Built Environment Act 2023.
+    (ii) responsibilities, duties, and powers under the Resource Management Act 1991.
 (2) Despite subclause (1)﻿(e), this subpart does not apply to a transfer of responsibilities, duties, and powers described in that subclause if the Commission is satisfied, on reasonable grounds, that the transfer—
   (a) is not a major transfer; or
   (b) has the support of all affected local authorities.
 (3) For the purposes of subclause (2), a transfer of responsibilities, duties, and powers is a major transfer if the responsibilities, duties, or powers to be transferred—
   (a) represent 50% or more of the transferring local authority’s operational expenditure, or assets, or staff, in respect of water services, transport services, or resource management functions (as the case may be); or
-  (b) include responsibility for preparing a policy statement, plan, variation, or plan change under the Natural and Built Environment Act 2023.
+  (b) include responsibility for preparing a policy statement, plan, variation, or plan change under the Resource Management Act 1991.
 
 ### 24 Petition to require poll
 [Repealed]
@@ -6066,8 +6068,8 @@ Without limiting clause 42, a reorganisation implementation scheme in respect of
   (c) provisions dealing with the requirements and application of long-term plans, annual plans, and annual reports as provided for under this enactment:
   (d) provisions dealing with the requirements in any enactment that relate to plans, programmes, and strategies, including (but not limited to) regional land transport programmes and regional land transport strategies under the Land Transport Management Act 2003:
   (e) provisions dealing with—
-    (i) the administration of an existing, proposed, or operative plan under the Natural and Built Environment Act 2023:
-    (ii) the administration of any designations, resource consents, and notices of requirement under that Act, but subject to Parts 6 and 8 and subpart 1 of Part 9 of that Act:
+    (i) the administration of an existing, proposed, or operative district plan or regional plan under the Resource Management Act 1991:
+    (ii) the administration of any designations, resource consents, and notices of requirement under the Resource Management Act 1991, but subject to sections 81 to 180 of that Act:
   (f) if an area is included in the district of another territorial authority, provisions that the civil defence emergency management group plan for the district in which the area is included applies to the area so included and is the only operative local civil defence plan to apply in that area:
   (g) if a new district or region is constituted, provisions that every civil defence emergency management group plan that is in force in respect of any area included in that district or region continues in force until a new plan is prepared and approved for the district under the Civil Defence Emergency Management Act 2002:
   (h) provisions requiring the establishment, by 1 or more affected local authorities, of a council-controlled organisation, which may specify—
@@ -6897,7 +6899,7 @@ In deciding whether or not to constitute a community, the territorial authority 
   (d) chairpersons of committees of community boards:
   (e) chairpersons and members of local boards:
   (f) chairpersons of committees of local boards:
-  (g) chairpersons and members of regional planning committees.
+  (g)
 (2) The Remuneration Authority may also determine the remuneration, allowances, and expenses payable to the following persons, if requested to do so by a local authority:
   (a) members of the local authority with specified responsibilities other than those listed in subclause (1):
   (b) members of community boards of the local authority with specified responsibilities other than those referred to in subclause (1):
@@ -7601,11 +7603,7 @@ A transfer of liabilities in relation to an undertaking from a local authority t
 A long-term plan must, to the extent determined appropriate by the local authority, describe the community outcomes for the local authority's district or region.
 
 ### 1A Implementation of regional spatial strategy
-(1) A long-term plan must set out steps to implement or progress the key actions for which the local authority is a lead under the Spatial Planning Act 2023.
-(2) The steps must provide for the local authority to implement or progress the key actions in a way that the local authority considers appropriate, having regard to competing demands and any other relevant circumstances.
-(3) The steps must provide for the local authority to implement or progress the key actions only to the extent that the local authority is reasonably able to do so—
-  (a) in the period covered by the long-term plan; and
-  (b) consistently with the local authority's role, functions, duties, and powers under this Act and any other legislation.
+[Repealed]
 
 ### 2 Groups of activities
 (1) A long-term plan must, in relation to each group of activities of the local authority,—
@@ -7833,9 +7831,7 @@ An annual report must include an audited statement that—
   (b) compare the information in paragraph (a) with information included in the long-term plan in accordance with clause 5(2).
 
 ### 26A Statement on implementation of regional spatial strategy
-An annual report must include a statement that sets out—
-  (a) the steps that the local authority has taken to implement or progress the key actions for which the local authority is a lead under the Spatial Planning Act 2023; and
-  (b) the steps that the local authority intended to take (but has not taken) to implement or progress the key actions and an explanation of why the local authority has not taken them.
+[Repealed]
 
 ### 27 Internal borrowing
 (1) This clause applies to borrowing of the type described in paragraph (b)﻿(iii) of the definition of borrowing in section 112 (internal borrowing).
@@ -8197,7 +8193,9 @@ A removal order does not take effect unless—
     (ii) if an objection is made, the court, after considering the objection, confirms the order under section 218(1) with or without variation.
 
 ### 4 Circumstances when certain other Acts do not apply
-A removal order may be made under section 216 even if the fence, structure, or vegetation complies with the Natural and Built Environment Act 2023.
+A removal order may be made under section 216 even if the fence, structure, or vegetation has been constructed or is otherwise in accordance with—
+  (a) a resource consent granted under the Resource Management Act 1991; or
+  (b) a building consent granted under the Building Act 2004.
 
 ### 5 Evidence of conviction
 (1) For the purposes of proceedings under subpart 4 of Part 9, proof that a respondent or any other person has been convicted of an offence by any court in New Zealand is conclusive evidence that that person committed the offence, and the conviction is admissible in evidence.
