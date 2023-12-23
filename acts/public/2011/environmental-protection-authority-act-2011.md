@@ -1,5 +1,5 @@
 # Environmental Protection Authority Act 2011
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Environmental Protection Authority Act 2011.
@@ -26,16 +26,16 @@ In this Act, unless the context otherwise requires,—
   - **collective agreement** has the meaning given to it by section 22
   - **employee** has the meaning given to it by section 22
   - **employment agreement** has the meaning given to it by section 22
-  - **environment** has the same meaning as in section 11 of the Natural and Built Environment Act 2023
+  - **environment** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **environmental Act** means—
     (a) the Climate Change Response Act 2002:
     (ab) the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012:
     (b) the Hazardous Substances and New Organisms Act 1996:
     (c) the Imports and Exports (Restrictions) Act 1988:
-    (ca) the Natural and Built Environment Act 2023:
+    (ca) the Resource Management (Natural and Built Environment and Spatial Planning Repeal and Interim Fast-track Consenting) Act 2023:
     (d) the Ozone Layer Protection Act 1996:
     (e) the Resource Management Act 1991:
-    (f) the Spatial Planning Act 2023
+    (f)
   - **Environmental Protection Authority** , , or means the Environmental Protection Authority established by section 7
   - **Environmental Risk Management Authority** or means the Environmental Risk Management Authority established by section 14 of the Hazardous Substances and New Organisms Act 1996
   - **fees framework** means the framework determined by the Government for the classification and remuneration of members of statutory and other bodies in which the Crown has an interest
@@ -97,7 +97,7 @@ The functions of the EPA are—
   (c) if requested by the Minister,—
     (i) to provide technical advice to the Government and Crown entities on any matter related to its functions under an environmental Act:
     (ii) to provide administrative assistance (including secretarial services) to a person or group of people appointed by the Minister to provide advice or report on any matter related to its functions under an environmental Act:
-    (iia) to provide secretarial and support services to a person appointed under an Act to make a decision requiring the application of provisions of the Natural and Built Environment Act 2023 as applied or modified by the Act under which the person is appointed:
+    (iia) to provide secretarial and support services to a person appointed under an Act to make a decision requiring the application of provisions of the Resource Management Act 1991 or the Resource Management (Natural and Built Environment and Spatial Planning Repeal and Interim Fast-track Consenting) Act 2023 as applied or modified by the Act under which the person is appointed:
     (iib) to provide support services to an IHP established under Schedule 3 of the Urban Development Act 2020:
     (iii) to contribute to and co-operate with international forums and carry out international obligations related to its functions under an environmental Act.
 
@@ -184,7 +184,7 @@ The Environmental Protection Authority established by section 42B of the Resourc
   (b) all money payable to or by the former EPA becomes payable to or by the EPA; and
   (c) all rights, liabilities, contracts, entitlements, and engagements of the former EPA become the rights, liabilities, contracts, entitlements, and engagements of the EPA; and
   (d) all directions to the former EPA in effect immediately before the commencement of this section become directions to the EPA; and
-  (e) any delegation to the former EPA by the Minister under section 46(1) of the Natural and Built Environment Act 2023 that is in effect immediately before the commencement of this section has effect as if it were a delegation to the EPA; and
+  (e) any delegation to the former EPA by the Minister under section 29(4) of the Resource Management Act 1991 that is in effect immediately before the commencement of this section has effect as if it were a delegation to the EPA; and
   (f) anything done, or omitted to be done, or that is to be done, by, or in relation to, the former EPA is to be treated as having been done, or omitted to be done, or to be done, by, or in relation to, the EPA; and
   (g) the commencement, continuation, or enforcement of proceedings by or against the former EPA may instead be carried out by or against the EPA without amendment to the proceedings; and
   (h) a matter or thing that would, but for this section, have been completed by the former EPA may be completed by the EPA.
