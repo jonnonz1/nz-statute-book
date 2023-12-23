@@ -1,5 +1,5 @@
 # Sharemilking Agreements Act 1937
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act to make provision for safeguarding the interests of sharemilkers under sharemilking agreements
 
