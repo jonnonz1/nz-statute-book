@@ -1,5 +1,5 @@
 # Hauraki Gulf Marine Park Act 2000
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ## Preamble
 (1) The Hauraki Gulf has a quality and diversity of biology and landscape that makes it outstanding within New Zealand. The islands of the Gulf are valued as the habitats of plants and animals, once common, now rare, and are often the only places in the world where these species exist naturally:
@@ -101,20 +101,17 @@ To recognise the national significance of the Hauraki Gulf, its islands, and cat
   (e) the maintenance and, where appropriate, the enhancement of the contribution of the natural, historic, and physical resources of the Hauraki Gulf, its islands, and catchments to the social and economic well-being of the people and communities of the Hauraki Gulf and New Zealand:
   (f) the maintenance and, where appropriate, the enhancement of the natural, historic, and physical resources of the Hauraki Gulf, its islands, and catchments, which contribute to the recreation and enjoyment of the Hauraki Gulf for the people and communities of the Hauraki Gulf and New Zealand.
 
-### 9 Relationship with Natural and Built Environment Act 2023
-(1) For the purposes of this section and section 10,—
-  - **national planning framework** has the meaning given in section 11 of the Natural and Built Environment Act 2023
-  - **plan** means a plan under the Natural and Built Environment Act 2023
-  - **proposed plan** means a proposed plan under the Natural and Built Environment Act 2023
-  - **regional planning committee** has the meaning given in section 11 of the Natural and Built Environment Act 2023
-  - **regional spatial strategy** means a regional spatial strategy under the Spatial Planning Act 2023
-  - **resource consent** has the meaning given in section 11 of the Natural and Built Environment Act 2023.
-(2) A regional planning committee must ensure that any part of a plan or regional spatial strategy that applies to the Hauraki Gulf, its islands, and catchments does not conflict with sections 7 and 8.
-(3) A consent authority must, when considering an application for a resource consent for the Hauraki Gulf, its islands, and catchments, have regard to sections 7 and 8 in addition to the matters contained in the Natural and Built Environment Act 2023.
+### 9 Relationship of Act with Resource Management Act 1991
+(1) For the purposes of this section and section 10, the terms district plan, plan, proposed plan, regional plan, regional policy statement, resource consent, and New Zealand coastal policy statement have the same meanings as in the Resource Management Act 1991, and regional council and territorial authority have the same meanings as in the Local Government Act 2002.
+(2) A regional council must ensure that any part of a regional policy statement or a regional plan that applies to the Hauraki Gulf, its islands, and its catchments does not conflict with sections 7 and 8.
+(3) A territorial authority must ensure that any part of a district plan that applies to the Hauraki Gulf, its islands, and catchments does not conflict with sections 7 and 8.
+(4) A consent authority must, when considering an application for a resource consent for the Hauraki Gulf, its islands, and catchments, have regard to sections 7 and 8 in addition to the matters contained in the Resource Management Act 1991.
+(5) The provisions of section 55 of the Resource Management Act 1991 apply as though sections 7 and 8 of this Act were a national policy statement, and a regional council or a territorial authority must take action in accordance with that section and notify a change to a regional policy statement, plan, or proposed plan within 5 years of the date of commencement of this Act.
 
-### 10 Sections 7 and 8 treated as part of national planning framework
-(1) For the coastal environment of the Hauraki Gulf, sections 7 and 8 must be treated as part of the national planning framework.
-(2) For the coastal environment of the Hauraki Gulf, if there is a conflict between sections 7 and 8 and the provisions of the national planning framework, the national planning framework prevails.
+### 10 Creation of New Zealand coastal policy statement by this Act
+(1) For the coastal environment of the Hauraki Gulf, sections 7 and 8 must be treated as a New Zealand coastal policy statement issued under the Resource Management Act 1991.
+(2) For the coastal environment of the Hauraki Gulf, if there is a conflict between sections 7 and 8 and the provisions of any New Zealand coastal policy statement issued under the Resource Management Act 1991, the New Zealand coastal policy statement prevails.
+(3) The provisions of section 55 of the Resource Management Act 1991 apply to the New Zealand coastal policy statement created by this section, and a regional council or a territorial authority must take action in accordance with that section and notify a change to a regional policy statement, plan, or proposed plan within 5 years of the date of commencement of this Act.
 
 ### 11 Statements of general policy under Conservation Act 1987 and Acts in Schedule 1 of that Act
 (1) For the purposes of each of the following Acts for the Hauraki Gulf, sections 7 and 8 have the same effect as a statement of general policy approved under the following specified sections:
