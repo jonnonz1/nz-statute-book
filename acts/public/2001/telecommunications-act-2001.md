@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -13,7 +13,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 3 Purpose
 (1) The main purpose of this Act is to regulate the supply of telecommunications services.
-(2) To avoid doubt, nothing in subsection (1) or in any other provision of this Act limits the Natural and Built Environment Act 2023.
+(2) To avoid doubt, nothing in subsection (1) or in any other provision of this Act limits the Resource Management Act 1991.
 
 ### 4 Overview
 In this Act,—
@@ -1514,25 +1514,25 @@ Section 156AO applies with necessary modifications to undertakings under this su
   - **land** has the same meaning as in section 2 of the Public Works Act 1981
   - **working day** has the same meaning as in section 2 of the Public Works Act 1981.
 
-**Natural and Built Environment Act 2023 issues**
+**Resource Management Act 1991 issues**
 
-### 69XI Requiring authority status under Natural and Built Environment Act 2023
-(1) Chorus is approved as a requiring authority, as a network utility operator, under the Natural and Built Environment Act 2023 for the following purposes:
+### 69XI Requiring authority status under Resource Management Act 1991
+(1) Chorus is approved as a requiring authority, as a network utility operator, under the Resource Management Act 1991 for the following purposes:
   (a) constructing or operating, or proposing to construct or operate, a network for the purpose of telecommunication as defined in section 5 of this Act; and
   (b) constructing or operating, or proposing to construct or operate, a network for the purpose of radiocommunications as defined in section 2(1) of the Radiocommunications Act 1989.
-(2) Subpart 1 of Part 9 of the Natural and Built Environment Act 2023 applies with necessary modifications as if the designation had been transferred under that Part.
+(2) Part 8 of the Resource Management Act 1991 applies with necessary modifications as if the approval had been given under section 167 of that Act.
 
-### 69XJ Designations under Natural and Built Environment Act 2023
-(1) The Minister may, before separation day, by notice in the Gazette, issue 2 lists comprising all or any of the designations (within the meaning of section 11 of the Natural and Built Environment Act 2023) for which Telecom is responsible, as follows:
+### 69XJ Designations under Resource Management Act 1991
+(1) The Minister may, before separation day, by notice in the Gazette, issue 2 lists comprising all or any of the designations (within the meaning of section 166 of the Resource Management Act 1991) for which Telecom is responsible, as follows:
   (a) designations that are to be transferred to Chorus:
   (b) designations that are to be additionally granted back to Telecom.
 (2) On separation day,—
-  (a) all the rights and responsibilities of Telecom in relation to the designations listed in a Gazette notice under subsection (1)﻿(a), as they existed immediately before separation day, are transferred to Chorus for the purposes of section 541 of the Natural and Built Environment Act 2023; and
+  (a) all the rights and responsibilities of Telecom in relation to the designations listed in a Gazette notice under subsection (1)﻿(a), as they existed immediately before separation day, are transferred to Chorus for the purposes of section 180 of the Resource Management Act 1991; and
   (b) the designations listed in a Gazette notice under subsection (1)﻿(b), as they existed immediately before separation day, are (in addition to being transferred to Chorus) granted back to Telecom, with the effect that, subject to subsection (3), Telecom continues to have the same rights and responsibilities as Chorus in relation to the designations.
-(3) For the purposes of section 532 of the Natural and Built Environment Act 2023,—
+(3) For the purposes of section 177 of the Resource Management Act 1991,—
   (a) the designations transferred to Chorus under subsection (2)﻿(a) are treated as earlier designations; and
   (b) the additional designations granted to Telecom under subsection (2)﻿(b) are treated as later designations.
-(4) Subpart 1 of Part 9 of the Natural and Built Environment Act 2023 applies with necessary modifications as if the approval had been given under section 513 of that Act.
+(4) Part 8 of the Resource Management Act 1991 applies with necessary modifications as if the designations had been transferred or made under that Part.
 
 **Restrictive covenants**
 
@@ -2320,7 +2320,7 @@ The Minister must revoke a declaration if the Minister is satisfied that a netwo
 (1) In this subpart, maintenance includes—
   (a) any repairs and any other activities for the purpose of maintaining, or that have the effect of maintaining, lines or works; and
   (b) the carrying out of any replacement or upgrade of lines or works as long as the land will not be injuriously affected as a result of the replacement or upgrade.
-(2) Subsection (1) does not have the effect of making an activity of a kind referred to in that subsection a permitted use under a plan under the Natural and Built Environment Act 2023 or a development plan under the Urban Development Act 2020 if the activity would not have otherwise been a permitted use.
+(2) Subsection (1) does not have the effect of making an activity of a kind referred to in that subsection a permitted use under a district plan or regional plan under the Resource Management Act 1991 or a development plan under the Urban Development Act 2020 if the activity would not have otherwise been a permitted use.
 
 ### 118 Meaning of evidence of authority
 In this subpart, evidence of authority, in relation to an officer, employee, or agent of a network operator, means a written authority issued to that officer, employee, or agent by the network operator that states—
@@ -2346,9 +2346,9 @@ In this subpart, evidence of authority, in relation to an officer, employee, or 
   (g) the co-ordination with road construction work by the local authority or other person who has jurisdiction over that road:
   (h) the need of a network operator to establish a telecommunications network in a timely manner.
 (2) Nothing in subsection (1) limits a local authority's or other person's ability to impose reasonable conditions under section 135(2) or section 142(2)﻿(b).
-(3) However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a plan under the Natural and Built Environment Act 2023 as an area in relation to which, under that plan, there are particular considerations, or rules or requirements, relating to amenity values.
+(3) However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a district plan as an area in relation to which, under the district plan, there are particular considerations, or rules or requirements, relating to amenity values.
 (4) If the cost to the network operator of complying with a condition referred to in subsection (3) is higher than it would have been if there were not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.
-(5) In subsection (3), a reference to a plan under the Natural and Built Environment Act 2023 includes a reference to a development plan under the Urban Development Act 2020.
+(5) In subsection (3), a reference to a district plan includes a reference to a development plan under the Urban Development Act 2020.
 
 **Rights of entry to land in respect of lines**
 
@@ -5023,7 +5023,7 @@ The following standard access principles apply to designated access services and
 | Access provider: | Every person who operates a cellular mobile telephone network |
 | Access seeker: | Any person who—aoperates, or is likely to operate, a cellular mobile telephone network; andbseeks access to the service |
 | Access principles: | The standard access principles set out in clause 5 |
-| Limits on access principles: | The limits set out in clause 6 and additional limits, which must be set by taking the following matters into account:athe access provider's current and reasonable forecast requirements for capacity on the relevant facilities:bthe management of existing or potential radio spectrum interference arising from use of the relevant facilities:call relevant requirements under the Natural and Built Environment Act 2023:dall relevant health and safety requirements under any enactment:eall existing contractual obligations to third parties, including lessors of land on which relevant facilities are located:fthe interests of third parties who use the relevant facilities |
+| Limits on access principles: | The limits set out in clause 6 and additional limits, which must be set by taking the following matters into account:athe access provider's current and reasonable forecast requirements for capacity on the relevant facilities:bthe management of existing or potential radio spectrum interference arising from use of the relevant facilities:call relevant requirements under the Resource Management Act 1991:dall relevant health and safety requirements under any enactment:eall existing contractual obligations to third parties, including lessors of land on which relevant facilities are located:fthe interests of third parties who use the relevant facilities |
 | Additional matters that must be considered regarding application of section 18: | Nil |
 | Co-location of equipment for fixed telecommunications services at sites used by Broadcast Communications Limited[Expired] |  |
 
