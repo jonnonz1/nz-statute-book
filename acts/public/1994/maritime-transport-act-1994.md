@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2023-12-23_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -199,7 +199,7 @@ Except as provided in section 4, this Act shall bind the Crown.
   (e) any ship owned or operated by a State other than New Zealand, if the ship is being used by that State for wholly governmental (but not including commercial) purposes; or
   (f) the master or the crew of any ship referred to in paragraph (a) or paragraph (b) or paragraph (e); or
   (g) defence areas as defined in section 2 of the Defence Act 1990.
-(2) The provisions of sections 344 to 352, 361, and 368 shall apply to warships of the New Zealand Defence Force and, for the purposes of determining any liability under any of those provisions in respect of any act or omission involving such a warship, any provision of this Act, the Natural and Built Environment Act 2023, or any other enactment referred to in those provisions shall be deemed to apply to such warships.
+(2) The provisions of sections 344 to 352, 361, and 368 shall apply to warships of the New Zealand Defence Force and, for the purposes of determining any liability under any of those provisions in respect of any act or omission involving such a warship, any provision of this Act, the Resource Management Act 1991, or any other enactment referred to in those provisions shall be deemed to apply to such warships.
 (3) Where it is alleged that the Crown has contravened a provision of this Act, or any rules or regulations made under this Act, and such contravention constitutes an offence,—
   (a) any person may apply to the High Court for a declaration that the Crown has contravened that provision; and
   (b) if satisfied beyond reasonable doubt that the Crown has contravened that provision, the court may make a declaration to that effect.
@@ -542,7 +542,7 @@ For the purposes of carrying out his or her duties under this Part, a harbourmas
 (2) Works constructed by a regional council or territorial authority under this section are the property of the council or authority.
 (3) A regional council or territorial authority may not construct works, or levy tolls, on private land without the owner's consent.
 (4) This section is subject to—
-  (a) the Natural and Built Environment Act 2023; and
+  (a) the Resource Management Act 1991; and
   (b) anything to the contrary in the Marine and Coastal Area (Takutai Moana) Act 2011.
 
 **Wrecks**
@@ -625,7 +625,7 @@ For the purposes of carrying out his or her duties under this Part, a harbourmas
   (c) impose licensing requirements in respect of any aspect of commercial shipping operations that is subject to any requirement contained in any maritime rule:
   (d) be inconsistent with—
     (i) regulations or rules made under this Act; or
-    (ii) the Natural and Built Environment Act 2023; or
+    (ii) the Resource Management Act 1991; or
     (iii) the Lakes District Waterways Authority (Shotover River) Empowering Act 1985; or
     (iv) the Northland Regional Council and Far North District Council Vesting and Empowering Act 1992.
 (3) Navigation bylaws may specify the boundaries of any port, harbour, or waters to which the bylaws relate.
@@ -2076,7 +2076,7 @@ In this Part, unless the context otherwise requires,—
   (a) the owner of the hazard has not made arrangements under that section to secure and remove the hazard; and
   (b) no regional council has jurisdiction over the waters or place where the hazard is located; and
   (c) the Director considers the hazard is a hazard to navigation; and
-  (d) the action taken to remove the hazard is not inconsistent with the Natural and Built Environment Act 2023.
+  (d) the action taken to remove the hazard is not inconsistent with the Resource Management Act 1991.
 (2) The Director may, by notice in writing given to the owner or master or person in command of the hazard, or to any agent of the owner, require that person to remove the whole or any part of that hazard in a manner satisfactory to, and within a time to be specified by, the Director.
 (3) If a person fails to comply with the notice, or if a person to whom the notice can be given cannot be found, the Director or a person authorised by the Director may—
   (a) take possession of and remove or destroy the whole or any part of the hazard; and
@@ -2856,7 +2856,7 @@ In this Part, unless the context otherwise requires,—
     (c) the taking or extraction of minerals from the sea or seabed, and associated processing of those minerals
     - **mining discharge** , in relation to a harmful substance, means a discharge made as an integral part of, or as a direct result of, mining activity
   - **noxious liquid substance** means any substance specified as a noxious liquid substance for the purposes of this definition by the marine protection rules
-  - **pollution incident** means an event involving the probable discharge or escape into the sea or seabed of a harmful substance in contravention of this Act or the Natural and Built Environment Act 2023 or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
+  - **pollution incident** means an event involving the probable discharge or escape into the sea or seabed of a harmful substance in contravention of this Act or the Resource Management Act 1991 or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
   - **transfer facility** means any facility, structure, or building for transferring liquids to or from a ship or an offshore installation; and includes any storage tanks or pipelines connected to the facility.
 
 **Obligations to protect marine environment from harmful substances**
@@ -2880,7 +2880,7 @@ In this Part, unless the context otherwise requires,—
 ### 227 Duty to report discharge or escape of harmful substances
 (1) This section applies to the discharge or escape of a harmful substance into the sea, or onto or into the seabed, in breach of—
   (a) section 226 or 226A; or
-  (b) section 28 of the Natural and Built Environment Act 2023; or
+  (b) section 15B of the Resource Management Act 1991; or
   (c) section 20B or 20C of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
 (2) Notice of the discharge or escape must be given,—
   (a) if the discharge or escape occurred beyond New Zealand continental waters, to the Director; or
@@ -2893,7 +2893,7 @@ In this Part, unless the context otherwise requires,—
   (d) if the discharge or escape was a result of a marine operation, the person in charge of and the person carrying on the operation.
 (4) If one person gives notice of the discharge or escape of a harmful substance in accordance with subsection (3), no other person is required to give notice of the discharge or escape.
 (5) If the discharge or escape of a harmful substance breaches section 226A, the master of the ship must, as soon as practicable, report the discharge or escape to the appropriate authority of the nearest State.
-(6) This section applies whether or not a defence may be available under this Act, the Natural and Built Environment Act 2023, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
+(6) This section applies whether or not a defence may be available under this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
 
 ### 228 Notice of pollution incidents
 (1) This section applies to a pollution incident involving—
@@ -2931,13 +2931,13 @@ No oil or noxious liquid substance—unless notice has been given by the master 
 **Powers of Director in relation to protection of marine environment from harmful substances**
 
 ### 232 Director may require provision of financial security
-(1) This section applies if the Director has reasonable cause to believe that a harmful substance has been discharged or has escaped from a ship in breach of this Act, the Natural and Built Environment Act 2023, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
-(1A) The Director may require the owner of the ship to provide a contract of insurance or other financial security of a kind and for an amount that is sufficient security for the payment of any amounts that may be payable by the owner, or the master of the ship, under this Act, the Natural and Built Environment Act 2023, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 in respect of the discharge or escape.
+(1) This section applies if the Director has reasonable cause to believe that a harmful substance has been discharged or has escaped from a ship in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
+(1A) The Director may require the owner of the ship to provide a contract of insurance or other financial security of a kind and for an amount that is sufficient security for the payment of any amounts that may be payable by the owner, or the master of the ship, under this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 in respect of the discharge or escape.
 (2) The Director shall not exercise his or her powers under subsection (1A) in relation to a ship in respect of which an insurance certificate under section 363 or the marine protection rules has been issued, recognised, or accepted.
 
 ### 233 Rectification of hazardous conditions
 (1) This section applies if the Director believes on reasonable grounds that the conditions on a ship, offshore installation, or pipeline—
-  (a) have been or are likely to be responsible for a discharge or escape of a harmful substance into the sea or onto or into the seabed in breach of this Act, the Natural and Built Environment Act 2023, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
+  (a) have been or are likely to be responsible for a discharge or escape of a harmful substance into the sea or onto or into the seabed in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
   (b) pose an unreasonable threat of harm to the marine environment.
 (1A) The Director may require the owner of the ship, offshore installation, or pipeline to take all necessary steps to rectify the conditions.
 (2) Any owner of any ship, offshore installation, or pipeline whom the Director requires to do anything under this section may appeal against that requirement to the District Court under section 424.
@@ -2951,7 +2951,7 @@ No oil or noxious liquid substance—unless notice has been given by the master 
 (2) An owner of a ship whom the Director requires to do anything under this section may appeal against that requirement to the District Court under section 424.
 
 ### 235 Powers of investigation of Director
-(1) The Director may investigate any discharge or escape of a harmful substance in breach of this Act, the Natural and Built Environment Act 2023, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, or any pollution incident.
+(1) The Director may investigate any discharge or escape of a harmful substance in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, or any pollution incident.
 (2) For the purposes of carrying out an investigation under this section, the Director (or a person authorised for the purpose by the Director) may—
   (a) make inquiries from any person who he or she has reason to believe is in possession of information that may lead to discovery of the cause of the discharge or escape or pollution incident:
   (b) issue in writing a summons requiring any person to attend at the time and place specified in the summons and to give evidence, and to produce any documents or things in that person’s possession or under that person’s control that are relevant to the subject of the investigation:
@@ -3323,7 +3323,7 @@ In this Part, unless the context otherwise requires,—
   (b) beyond New Zealand continental waters on a New Zealand ship, a New Zealand structure, or a New Zealand aircraft.
 (4) No person may export waste or other matter to another country for dumping at sea or incineration at sea.
 (5) No person may take waste or other matter on board a ship or an aircraft in New Zealand, or within the internal waters of New Zealand or New Zealand continental waters, for the purpose of dumping that waste or other matter within any of those waters unless the dumping is authorised by—
-  (a) a resource consent granted under the Natural and Built Environment Act 2023; or
+  (a) a resource consent granted under the Resource Management Act 1991; or
   (b) a marine consent granted under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
   (c) a permit granted under section 262.
 (6) This section does not—
@@ -3473,8 +3473,8 @@ Subject to section 267, every person who commits an offence against section 263 
   (e) is satisfied that such action is necessary to ensure compliance with—
     (i) any provision of Parts 19 to 27; or
     (ii) any regulations or marine protection rules made under this Act; or
-    (iii) any provision of the national planning framework made under the Natural and Built Environment Act 2023; or
-    (iv) any regulations made under section 801 of the Natural and Built Environment Act 2023; or
+    (iii) section 15A, 15B, or 15C of the Resource Management Act 1991; or
+    (iv) any regulations made under any of paragraphs (ha) to (he) of section 360(1) of the Resource Management Act 1991; or
     (v) section 20B or 20C of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
     (vi) any regulations made under section 29A or 29B of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
   (ea) is satisfied that the holder has failed to take corrective action to ensure the condition of the ship’s equipment (including the ship’s systems, fittings, arrangements, and materials) corresponds substantially to the particulars of the relevant marine protection document; or
@@ -3517,11 +3517,11 @@ Subject to section 267, every person who commits an offence against section 263 
 ### 276 Criteria for action under section 272 or section 273
 (1) The provisions of this section shall apply for the purpose of determining whether a marine protection document, or recognition of a document as a marine protection document, should be suspended or made subject to conditions under section 272 or revoked under section 273.
 (2) Where this section applies, the Director may have regard to, and give such weight as the Director considers appropriate to, the following matters:
-  (a) the person’s compliance history with any regulatory requirements relating to protection of the sea from harmful substances or ballast water and the person’s compliance history with the Natural and Built Environment Act 2023 or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 in respect of the discharge of harmful substances:
+  (a) the person’s compliance history with any regulatory requirements relating to protection of the sea from harmful substances or ballast water and the person’s compliance history with the Resource Management Act 1991 or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 in respect of the discharge of harmful substances:
   (b) any conviction for any offence related to the discharge of harmful substances or ballast water into the sea, whether or not—
     (i) the conviction was in a New Zealand court; or
     (ii) the offence was committed before the commencement of this Act:
-  (c) any conviction for any offence under the Natural and Built Environment Act 2023 or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 in respect of the discharge of harmful substances.
+  (c) any conviction for any offence under the Resource Management Act 1991 or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 in respect of the discharge of harmful substances.
 (3) The Director shall not be confined to consideration of the matters specified in subsection (2) and may take into account such other matters and evidence as may be relevant.
 (4) The Director may—
   (a) seek and receive such information as the Director thinks fit; or
@@ -3668,7 +3668,7 @@ Every regional council shall review its regional marine oil spill contingency pl
 (2) In preparing, under section 289, or reviewing, under section 290, its draft regional marine oil spill contingency plan, a regional council shall consider the following matters:
   (a) the regional marine oil spill contingency plans of regional councils with adjacent regions:
   (b) such other marine oil spill contingency plans as it considers appropriate:
-  (c) any plan under the Natural and Built Environment Act 2023:
+  (c) any regional coastal plan applying to that region and prepared under the Resource Management Act 1991:
   (d) any conservation management strategies and conservation management plans approved under section 17F or section 17G of the Conservation Act 1987 in respect of the coastal resources in its region:
   (e) the harmful effects that marine oil spills may have on the marine environment and measures that can be taken to limit these effects:
   (f) the substances that are suitable to contain and clean up marine oil spills:
@@ -4653,9 +4653,9 @@ A person in respect of whom any decision is taken to grant (or not to grant), to
   (d) impose conditions on the release from detention of the ship or the release from seizure of a marine protection product:
   (e) prohibit a ship from entering a port or calling at an offshore terminal.
 (2) The powers under subsection (1) may be exercised where the Director believes on clear grounds that—
-  (a) there is an existing discharge from the ship of a harmful substance in breach of this Act, the Natural and Built Environment Act 2023, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
-  (b) there is likely to be a discharge from the ship of a harmful substance in breach of this Act, the Natural and Built Environment Act 2023, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
-  (c) ships of a particular class are likely to give rise to a discharge of a harmful substance in breach of this Act, the Natural and Built Environment Act 2023, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
+  (a) there is an existing discharge from the ship of a harmful substance in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
+  (b) there is likely to be a discharge from the ship of a harmful substance in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
+  (c) ships of a particular class are likely to give rise to a discharge of a harmful substance in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
   (ca) in relation to ballast water, and ships as defined in section 246A(3)﻿(a),—
     (i) there is an existing discharge from the ship of ballast water in breach of this Act; or
     (ii) there is likely to be a discharge from the ship of ballast water in breach of this Act; or
@@ -4671,7 +4671,7 @@ A person in respect of whom any decision is taken to grant (or not to grant), to
 (4) Without limiting the generality of subsection (2), the Director may detain any ship to which section 232 applies if the owner of that ship has not provided a contract of insurance or other financial security in accordance with the provisions of that section.
 (5) Nothing in this section shall permit the Director to detain a foreign ship where that detention would constitute a breach of any marine protection convention.
 (6) Subject to subsections (7) and (8), any detention or seizure under subsection (1) shall be maintained for only such time as the grounds under subsection (2) which gave rise to the detention or seizure continue.
-(7) If ships, marine protection products, or parts thereof are required for the purpose of evidence in any prosecution under a provision in this Act, the Natural and Built Environment Act 2023, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, those ships, products, or parts thereof may be retained by the Director for such period as the Director considers necessary for that purpose.
+(7) If ships, marine protection products, or parts thereof are required for the purpose of evidence in any prosecution under a provision in this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, those ships, products, or parts thereof may be retained by the Director for such period as the Director considers necessary for that purpose.
 (8) Any detention under subsection (4) shall be maintained until the Director is satisfied that either—
   (a) the owner of the ship has complied with the obligation under section 232 to provide a contract of insurance or financial security; or
   (b) such obligation to provide a contract of insurance or financial security is no longer appropriate as it has been determined that there is no liability to pay the amounts in respect of which the security was sought or all such amounts have been paid.
@@ -5315,7 +5315,7 @@ Where for the purposes of this Act any document is to be served on, or any notic
 (2A) The ship may be detained until security has been provided for costs, damages, or other money that may be payable as a result of civil proceedings.
 (2B) The offences relate to—
   (a) the discharge of a harmful substance from a ship in breach of this Act:
-  (b) contravening or permitting a contravention of section 28 of the Natural and Built Environment Act 2023:
+  (b) contravening or permitting a contravention of section 15B of the Resource Management Act 1991:
   (c) a breach of section 20C of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
 (3) Despite subsection (2), a certificate issued under section 363 or a certificate complying with the terms of Article VII of the Civil Liability Convention shall be sufficient security for the purposes of this section.
 (4) On any order being made under subsection (2), the officer to whom the order is directed shall detain the ship.
@@ -5324,7 +5324,7 @@ Where for the purposes of this Act any document is to be served on, or any notic
 
 ### 464 Agents' contracts of indemnity
 (1) This section applies to a person (the agent) who enters into an agreement to act as the agent in New Zealand of the owner, charterer, manager, or operator of a ship.
-(2) The agent may enter into a contract of indemnity under which the owner, charterer, manager, or operator agrees to indemnify the agent for any sum for which the agent may become liable as a result of proceedings (whether civil or criminal) against the agent, in that capacity, in any court under any provision of any 1 or more of this Act, the Natural and Built Environment Act 2023, and the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
+(2) The agent may enter into a contract of indemnity under which the owner, charterer, manager, or operator agrees to indemnify the agent for any sum for which the agent may become liable as a result of proceedings (whether civil or criminal) against the agent, in that capacity, in any court under any provision of any 1 or more of this Act, the Resource Management Act 1991, and the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
 (3) A New Zealand court may enforce the contract of indemnity only if the proceedings do not result from the wilful act or neglect or default of the agent.
 
 ### 465 Designation of parties to conventions
@@ -5337,8 +5337,8 @@ Where for the purposes of this Act any document is to be served on, or any notic
 ### 466 Other enactments not affected
 Subject to section 467, and except where this Act or any other enactment otherwise provides, the provisions of Parts 19 to 28 are in addition to and not in substitution for the provisions of any other enactment, and, except as expressly provided by this Act, nothing in this Act shall derogate from the provisions of any other enactment.
 
-### 467 Provisions of Natural and Built Environment Act 2023 not to apply
-The provisions of sections 21 and 23 to 29 of the Natural and Built Environment Act 2023 shall not apply to—
+### 467 Provisions of Resource Management Act 1991 not to apply
+The provisions of sections 9, 12, 13, 14, 15, 15A, 15B, and 15C of the Resource Management Act 1991 shall not apply to—
   (a) anything done by or on behalf of the Director under section 248 or section 249 or by or on behalf of any person in accordance with any instructions under either of those sections; or
   (b) anything done by or on behalf of an on-scene commander—
     (i) under section 305 or section 311; or
