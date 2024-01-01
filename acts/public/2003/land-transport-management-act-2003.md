@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-01-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -49,13 +49,6 @@ In order to recognise and respect the Crown’s responsibility to take appropria
       (ii) construction and reconstruction; and
       (iii) any activity of a capital nature the purpose of which is to improve public safety in relation to land transport; and
       (iv) administration related to the particular capital project
-  - **clean vehicle discount scheme** —
-    (a) means the scheme administered by the Agency under section 95(1)﻿(ma), established for the purpose of promoting the transition of New Zealand’s light vehicle fleet to zero- and low-emission vehicles and reducing vehicle carbon dioxide emissions; and
-    (b) includes—
-      (i) the provision of rebates in relation to the carbon dioxide emissions of a vehicle; and
-      (ii) the imposition of charges under section 167(1)﻿(j) of the Land Transport Act 1998 for the purpose of section 167A of that Act; and
-      (iii) actual and reasonable costs incurred by the Agency in relation to administration of the scheme; and
-      (iv) any funding provided to the Agency by the Crown for the purposes of the scheme and the repayment of that funding
   - **coastal shipping** means the carriage of coastal cargo by means of any ship (as defined in section 2(1) of the Maritime Transport Act 1994), being carriage that is authorised by or under section 198 of that Act
   - **combination of activities** means 2 or more activities from—
     (a) the same activity class:
@@ -293,10 +286,10 @@ This Act binds the Crown.
   (a) publish a notice of the Agency’s proposed recommendation on its Internet site; and
   (b) give interested parties a reasonable time, specified in the notice, to make submissions on the proposed recommendation.
 (1D) The Agency must include the results of the consultation under subsection (1C) in its recommendation to the Ministers.
-(1E) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in a financial year up to an amount equal to the revenue for that financial year received from charges paid pursuant to regulations made under section 167(1)﻿(j) of the Land Transport Act 1998 for the purpose of section 167A of that Act to fund the clean vehicle discount scheme.
-(1F) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in any financial year, up to any positive amount calculated under subsection (1G), to fund the clean vehicle discount scheme.
-(1G) The amount referred to in subsection (1F) must be calculated in accordance with the following formula:a − b = cwhere—ais the revenue received in any previous financial year from charges paid pursuant to regulations made under section 167(1)﻿(j) of the Land Transport Act 1998 for the purpose of section 167A of that Actbis the expenses and capital expenditure incurred under subsections (1E) and (1F) for those previous financial yearscis the calculated amount.
-(1H) The positive amount calculated under subsection (1G) may be used only to fund the clean vehicle discount scheme.
+(1E)
+(1F)
+(1G)
+(1H)
 (2) The Crown may utilise land transport revenue to fund—
   (a) Police activities or combinations of Police activities up to the amount approved by the responsible Minister under section 18L:
   (aa) rail activities or combinations of rail activities up to the amount approved by the Minister under section 22F:
@@ -311,13 +304,13 @@ This Act binds the Crown.
   (c) investment strategy and policy activities (up to the amount approved by the Minister and the Minister of Finance) that—
     (i) are carried out by the Ministry; and
     (ii) relate to matters that could have a significant impact on the national land transport fund.
-(3) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure up to an amount equal to the land transport revenue for that financial year less the amounts for the year that are referred to in subsections (1), (1A), (1E), (1F), and (2) for—
+(3) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure up to an amount equal to the land transport revenue for that financial year less the amounts for the year that are referred to in subsections (1), (1A), and (2) for—
   (a) activities and combinations of activities approved under section 20; and
   (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)﻿(b).
 (4) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in any financial year up to any positive amount calculated under subsection (5) for—
   (a) activities and combinations of activities approved under section 20; and
   (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)﻿(b).
-(5) The amount referred to in subsection (4) is to be calculated in accordance with the following formula:a − b = cwhere—ais land transport revenue from any previous financial years; andbis the expenses and capital expenditure incurred under subsections (1), (1A), (1E), (1F), (2), (3), and (4) for those previous financial years; andcis the calculated amount.
+(5) The amount referred to in subsection (4) is to be calculated in accordance with the following formula:a − b = cwhere—ais land transport revenue from any previous financial years; andbis the expenses and capital expenditure incurred under subsections (1), (1A), (2), (3), and (4) for those previous financial years; andcis the calculated amount.
 (6) To avoid doubt, the Agency’s regulatory functions referred to in subsection (1A) include—
   (a) any function of the Director under this Act or any other Act; and
   (b) any regulatory function of the Agency under this Act or any other Act (including the functions referred to in section 95(1)﻿(b) to (g)); and
@@ -327,13 +320,7 @@ This Act binds the Crown.
 (7) In subsection (1), recreational aviation means the use of aircraft for private sport and recreation operations, including flight training.
 
 ### 9A Accounting for clean vehicle discount scheme
-The annual report of the Agency must, in respect of the financial year to which it relates, contain the following information concerning the clean vehicle discount scheme funded under section 9(1E) and (1F):
-  (a) the revenue received from charges paid pursuant to regulations made under section 167(1)﻿(j) of the Land Transport Act 1998 for the purpose of section 167A of that Act:
-  (b) any positive amount from a previous year, in accordance with section 9(1F) and (1G):
-  (c) the expenses and capital expenditure for the purpose of administering the scheme, including—
-    (i) rebates provided, in relation to the carbon dioxide emissions of a vehicle; and
-    (ii) actual and reasonable costs incurred by the Agency in relation to administration of the scheme; and
-    (iii) any funding provided to the Agency by the Crown for the purposes of the scheme and repayment of that funding.
+[Repealed]
 
 **National land transport account**
 
@@ -345,8 +332,8 @@ The annual report of the Agency must, in respect of the financial year to which 
     (ii) the Crown, in accordance with subpart 1 of Part 6 of the Public Finance Act 1989.
 (2) The inflows of the national land transport fund are—
   (a) land transport revenue, less—
-    (i) any expenses or capital expenditure incurred under section 9(1) or (1A); and
-    (ii) the revenue received from charges paid pursuant to regulations made under section 167(1)﻿(j) of the Land Transport Act 1998 for the purpose of section 167A of that Act:
+    (i) any expenses or capital expenditure incurred under section 9(1) or (1A):
+    (ii)
   (b) any revenue received by the Agency for the management of Crown land, including leases and licences:
   (ba) any toll revenue collected in respect of a road tolling scheme if—
     (i) the Minister has approved that toll revenue inflow in writing; and
@@ -1928,7 +1915,7 @@ The objective of the Agency is to undertake its functions in a way that contribu
   (k) to assist, advise, and co-operate with approved organisations:
   (l) to assist, advise, and co-operate with KiwiRail in relation to KiwiRail’s role in preparing each rail network investment programme:
   (m) to monitor and report to the Minister on the matters set out in section 102A:
-  (ma) to administer the clean vehicle discount scheme funded under section 9(1E) and (1F) in accordance with this Act, the regulations made under section 167(1)﻿(j) of the Land Transport Act 1998 for the purpose of section 167A of that Act, and any direction under section 103 of the Crown Entities Act 2004:
+  (ma)
   (n) to deliver, or manage the delivery of, activities relating to research, education, and training in relation to the land transport system:
   (o) to deliver, or manage the delivery of, activities for ticketing systems and payments in relation to the land transport system (and for this purpose, the statutory exemption in section 43 of the Commerce Act 1986 applies to any activities delivered or managed in accordance with this provision):
   (p) to issue reports and guidance and to comment about any matter relating to the land transport system and its participants or any other persons engaged with it:
@@ -2036,14 +2023,7 @@ In the course of performing its functions and exercising its powers, the Agency 
   (b) affect the responsible Minister's functions, duties, or powers under the Crown Entities Act 2004.
 
 ### 101A Monitoring matters relating to clean vehicle discount scheme
-(1) The Secretary, for the purpose of evaluating the performance of the clean vehicle discount scheme, may monitor and review—
-  (a) the revenue used by the Agency for the purposes of administering the scheme; and
-  (b) the number and nature of rebates provided in relation to the carbon dioxide emissions of vehicles; and
-  (c) the expenses and capital expenditure for the purpose of administering the scheme; and
-  (d) any funding provided to the Agency by the Crown for the purposes of the scheme and repayment of that funding.
-(2) The Secretary may, in writing, request the Agency to provide any information that is reasonably required and relevant to enable the Secretary to carry out the monitoring specified in subsection (1).
-(3) The Agency must provide the Secretary with the information that the Secretary requests under subsection (2).
-(4) Section 101(4) and (5) applies with all necessary modifications in relation to a request for information from the Secretary under this provision.
+[Repealed]
 
 ### 102 Monitoring and reporting on delivery of approved Police activities or combinations of Police activities
 (1) The Agency must monitor the delivery of Police activities or combinations of Police activities that the responsible Minister has approved under section 18L.
@@ -2985,6 +2965,19 @@ In this Part, amendment Act means the Land Transport Management (Regulation of P
 (2) On and from the commencement of the amendment Act, all processes of consultation by the Agency and consideration and recommendation by the Minister may continue under section 150(2) as in force immediately before the amendment Act commences.
 (3) If the Minister continues consideration under subclause (2), the Minister’s consideration must be of the matters set out in section 150(2)﻿(a), (b), or (c) (as applicable) as in force immediately before the amendment Act commences.
 (4) Regulations made on a recommendation that is made after consideration under subclause (3) have effect as if they were made under section 150 as in force on and from the commencement of the amendment Act.
+
+### Part 4 — Provisions relating to Land Transport (Clean Vehicle Discount Scheme Repeal) Amendment Act 2023
+
+### 14 Interpretation
+In this Part, amendment Act means the Land Transport (Clean Vehicle Discount Scheme Repeal) Amendment Act 2023.
+
+### 15 Transitional provision for obligations concerning winding up of clean vehicle discount scheme
+This Act continues to have effect, as if it had not been amended by sections 11 to 14 and 16 of the amendment Act, until the close of the financial year ending on 30 June 2024 for the following purposes:
+  (a) enabling any application for a rebate received before the close of 31 December 2023 to be processed:
+  (b) allowing expenses or capital expenditure incurred by the Crown to be used for the administration of rebates and for winding up the clean vehicle discount scheme:
+  (c) requiring the Agency to include information relating to the clean vehicle discount scheme in the annual report of the Agency in respect of the financial year ending 30 June 2024:
+  (d) enabling revenue from charges to be returned to the Crown after the scheme is wound up:
+  (e) enabling the Secretary to continue to monitor the Agency in respect of the winding up of the scheme and the return of funding to the Crown.
 
 ## Schedule 1 — Provisions relating to programmes
 
