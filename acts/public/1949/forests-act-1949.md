@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-01-01_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -34,11 +34,8 @@ This Act may be cited as the Forests Act 1949 and shall come into force on 1 Jan
   - **indigenous** , in relation to a species of flora or fauna, means a species that occurs naturally in New Zealand or arrived in New Zealand without human assistance
   - **indigenous forest land** means land wholly or predominantly under the cover of indigenous flora
   - **landholding** ,—
-    (a) in the case of land subject to a forest sink covenant as defined in section 67X, means a registered—
-      (i) freehold estate in that land; or
-      (ii) leasehold estate in that land; or
-      (iii) interest in that land that entitles a person to receive units or the value of units based on carbon sequestration by that forest sink; but does not include a registered interest by way of charge or security:
-    (b) in any other case, means an estate, right, title, or interest of any kind in or over an area of land by or under which indigenous timber may be harvested; but does not include an interest by way of charge or security
+    (a) means an estate, right, title, or interest of any kind in or over an area of land by or under which indigenous timber may be harvested; but
+    (b) does not include an interest by way of charge or security
   - **log trader** has the meaning given in section 63I
   - **mineral** has the same meaning as in section 2(1) of the Crown Minerals Act 1991
   - **mining operation** means any operation in connection with mining, exploring, or prospecting for any mineral
@@ -1102,7 +1099,7 @@ The purpose of this Part is to promote the sustainable forest management of indi
   (g) any indigenous timber—
     (i) from a planted indigenous forest, if that timber is, or is from, a shrub, bush, seedling, or sapling; or
     (ii) other than indigenous timber to which subparagraph (i) applies, if the Secretary has stated in writing that he or she is satisfied that the timber has been harvested from a planted indigenous forest; or
-    (iii) harvested from a forest subject to a forest sink covenant established in accordance with Part 3B; or
+    (iii)
     (iv) harvested from a forest on land in respect of which a person is registered as a participant in permanent forestry under the Climate Change Response Act 2002.
 (2) Before giving approval under subsection (1)﻿(f)﻿(ii), the Secretary must be satisfied that the area concerned can continue to supply an annual or periodic non-diminishing yield of tree fern trunks in perpetuity.
 (3) No indigenous timber (other than personal effects and any finished or manufactured indigenous timber products) may be exported from New Zealand—
@@ -1125,7 +1122,7 @@ The purpose of this Part is to promote the sustainable forest management of indi
       (A) specified Maori land that is not land on which a forest specified in an Order in Council made under section 67DA is situated; or
       (B) land held, managed, or administered by the Crown under the Conservation Act 1987 or any Act listed in Schedule 1 of that Act; or
       (C) a planted indigenous forest; or
-      (D) a forest subject to a forest sink covenant established in accordance with Part 3B; or
+      (D)
       (E) a forest on land in respect of which a person is registered as a participant in permanent forestry under the Climate Change Response Act 2002; or
     (ii) the timber has been or will be felled—
       (A) for a public work as defined in the Public Works Act 1981; or
@@ -1338,251 +1335,83 @@ Nothing in this Part derogates from any provision of the Resource Management Act
 ## Part 3B — Mechanism allowing landowners to access value created by Kyoto Protocol of carbon sequestration on land through establishment of forest sink covenants
 
 ### 67W Purpose of Part
-The purpose of this Part is to provide a mechanism to allow landowners to access the value of carbon sequestration on land through the establishment of forest sink covenants.
+[Repealed]
 
 ### 67X Interpretation of Part
-In this Part, unless the context otherwise requires,—
-  - **carbon sequestration** means the removal of greenhouse gases from the atmosphere by a forest sink
-  - **forest sink** means a forest prescribed in regulations made under section 67Y
-  - **forest sink covenant** means any covenant established under regulations made under section 67Y, or any variation of that covenant, for the purpose of establishing and maintaining a forest sink; including, but not limited to, controlling the harvesting of timber from the forest sink
-  - **greenhouse gas** has the same meaning as in section 4(1) of the Climate Change Response Act 2002
-  - **landowner** means the owner of a freehold estate
-  - **Protocol** has the same meaning as in section 4(1) of the Climate Change Response Act 2002
-  - **units** has the same meaning as in section 4(1) of the Climate Change Response Act 2002.
+[Repealed]
 
 ### Subpart 1 — Forest sink covenants
 
 ### 67Y Regulation-making powers for forest sink covenants
-(1) The Governor-General may make regulations to—
-  (a) establish a framework to facilitate the establishment and ongoing administration of forest sink covenants that allow landowners to access the value of carbon sequestration on land, including (but not limited to) Crown land:
-  (b) prescribe and update methodologies or mechanisms for measuring carbon sequestration or emissions of greenhouse gases from a forest sink:
-  (c) prescribe the manner, quantity, type, and timing of units that may be transferred to or by a landowner:
-  (d) prescribe requirements that a forest must meet to be a forest sink:
-  (e) establish a dispute resolution process for disputes arising in relation to a forest sink or a forest sink covenant:
-  (f) prescribe reporting and verification requirements in relation to a forest sink or forest sink covenant:
-  (g) prescribe harvesting restrictions in relation to a forest sink:
-  (h) establish penalties for breaches of a forest sink covenant:
-  (i) prescribe any forms required to facilitate the framework specified in paragraph (a):
-  (j) prescribe procedures and requirements relating to the selection, appointment, and performance of persons who carry out functions in relation to a forest sink covenant:
-  (ja) prescribe the persons or organisations, or classes of persons or organisations, who have been recognised under section 92 of the Climate Change Response Act 2002 as being able to carry out verification functions under that Act, and who may carry out verification functions in relation to a forest sink or forest sink covenant:
-  (k) prescribe records, returns, or information in relation to a forest sink covenant that a person or class of persons must keep or provide to the Minister:
-  (l) prescribe requirements, including (but not limited to) ongoing obligations, or criteria for a landowner to provide a guarantor or insurer, or any other risk management arrangement that the Minister considers appropriate, to meet any obligations of the landowner under the Act or the forest sink covenant in the event of the landowner's default.
-(2) Without limiting subsection (1)﻿(a), the framework may permit the Minister, on behalf of the Crown, to negotiate, and enter into, a forest sink covenant.
-(2A) Regulations made under subsection (1)﻿(b) may incorporate by reference any relevant—
-  (a) methodologies prescribed in regulations made under section 163(1)﻿(b) of the Climate Change Response Act 2002; or
-  (b) guidelines or standards issued under regulations made under section 163(1)﻿(d) of the Climate Change Response Act 2002.
-(3) Despite subsection (1)﻿(h), a penalty—
-  (a) may only be imposed in respect of the proportion of forest on land subject to a forest sink covenant that is harvested in breach of the covenant; and
-  (b) may not exceed the sum of—
-    (i) all units received in respect of that proportion of the forest (or their monetary equivalent); and
-    (ii) any additional units calculated on the basis of an annual compounding rate of 10% applied to each year's carbon sequestration from that proportion of the forest for the period beginning on the date that the covenant came into force and ending on the date that the breach occurred (or their monetary equivalent).
-(3A) Regulations made under subsection (1)﻿(k) may incorporate by reference any form or format for a record, return, or information prescribed under section 90 of the Climate Change Response Act 2002, or in regulations made under section 168(1)﻿(k) of that Act, or in any guidelines or standards issued under regulations made under section 163(1)﻿(d) of that Act.
-(4) However, nothing in this Part requires the Minister to negotiate, enter into, or enforce any provisions of, any forest sink covenant.
-(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 67Z Content of forest sink covenants
-Without limiting the content of forest sink covenants, a forest sink covenant may—
-  (a) specify any or all of the following:
-    (i) the obligations of any landowner for monitoring and administrative costs:
-    (ii) the rights of any landowner with respect to receiving units based on carbon sequestration:
-    (iii) any exceptions to the covenant to control the harvesting of timber, including (but not limited to) the use of plants for traditional Maori purposes:
-    (iv) access to the land by the Secretary, or any of its contractors or agents, to—
-      (A) verify carbon inventories; and
-      (B) monitor compliance with the forest sink covenant:
-    (v) the obligations of any landowner to meet any liabilities to the Crown arising if there is a loss of carbon from the landowner's forest sink:
-    (vi) a requirement, including (but not limited to) an ongoing obligation, for the landowner to provide a guarantor or insurer, or any other risk management arrangement that the Minister considers appropriate, to meet any obligations of the landowner under the Act or the forest sink covenant in the event of the landowner's default:
-    (vii) a requirement to control the harvesting of timber:
-    (viii) a requirement to include a forest sink management plan:
-  (b) be expressed to—
-    (i) have effect in perpetuity; and
-    (ii) terminate if certain circumstances arise or certain conditions are met; and
-    (iii) provide obligations if certain circumstances arise or certain conditions are met; and
-    (iv) come into effect when registered; and
-    (v) expire unless registered within 180 days of being agreed:
-  (c) be varied or cancelled by agreement between the landowner and the Minister if that agreement is registered under section 67ZD.
+[Repealed]
 
 ### 67ZA Landowner must obtain written consent of interested persons to enter into, vary, or cancel forest sink covenants
-A landowner intending to enter into, vary, or cancel a forest sink covenant must obtain the written consent of each person with a registered interest in the affected land to enter into, vary, or cancel that forest sink covenant.
+[Repealed]
 
 ### 67ZB Nothing in Part makes Crown liable
-(1) Provided the Crown has acted in good faith and with reasonable care, nothing in this Part makes the Crown liable to any person for compensation or damages in respect of any matter arising from a forest sink covenant.
-(2) However, the Crown and the other party (or parties) to a forest sink covenant may agree to a different liability regime in that forest sink covenant.
+[Repealed]
 
 ### 67ZC Sections 316 to 318 of Property Law Act 2007 do not apply to forest sink covenants
-Nothing in sections 316 to 318 of the Property Law Act 2007 applies to any forest sink covenant entered into in accordance with this Act.
+[Repealed]
 
 ### 67ZD Registrar-General of Land to register forest sink covenants
-(1) A landowner who has entered into a forest sink covenant must, within 180 days of that covenant being agreed, submit that covenant to the Registrar-General of Land for registration under the Land Transfer Act 2017.
-(2) If a forest sink covenant relates to land for which no record of title has been created, the Registrar-General of Land must—
-  (a) create a record of title for the covenant if—
-    (i) a licensed cadastral surveyor has certified that the land to which the covenant relates is within the boundaries of an identified parcel of land; and
-    (ii) the Registrar-General of Land is satisfied that the certificate is correct; and
-  (b) record the certificate of the licensed cadastral surveyor on the record of title issued for the covenant.
-(3) If a forest sink covenant relates to Maori land (within the meaning of section 4 of Te Ture Whenua Maori Act 1993) for which no computer freehold register or provisional register has been created, the Registrar of the Maori Land Court must enter on the memorial schedule of the Title Binder relating to the Maori land a notification of the forest sink covenant.
-(4) If, in respect of a forest sink covenant, the Registrar-General of Land receives a submission under subsection (1) or a notice from the Minister under section 67ZG, the Registrar-General of Land must enter in the record of title notification of—
-  (a) that forest sink covenant; or
-  (b) the variation, cancellation, or termination of that forest sink covenant.
-(5) For the purposes of the Land Transfer Act 2017, a forest sink covenant, or an agreement to vary a forest sink covenant, is an instrument that—
-  (a) may be registered; and
-  (b) if registered, creates an interest in land that runs with that land.
-(6) If a forest sink covenant is registered under the Land Transfer Act 2017, and any provision of that covenant has terminated, or has been varied or cancelled by an agreement,—
-  (a) the Registrar-General of Land must, if satisfied that the provision has terminated, or has been varied or cancelled, make an entry on the record of title noting that the provision has terminated, or has been varied or cancelled; and
-  (b) the forest sink covenant takes effect as varied or ceases to have effect (as the case may be).
-(7) The landowner must provide the Registrar-General of Land with—
-  (a) a diagram or an aerial photo that shows the boundaries of the land to which the forest sink covenant applies; and
-  (b) if required by the Registrar-General of Land, a plan capable of deposit under section 224 of the Land Transfer Act 2017.
-(8) A landowner subject to a registered forest sink covenant may, at any time, deposit a plan in accordance with section 224 of the Land Transfer Act 2017 and any relevant regulations that,—
-  (a) with the agreement of the Minister, redefines the boundaries of the land subject to the covenant; and
-  (b) supercedes any previously submitted diagram or aerial photograph, or any part of any previously submitted diagram or aerial photograph.
-(9) If a plan is deposited under section 224 of the Land Transfer Act 2017 with respect to a forest sink covenant, the Registrar-General of Land must, if necessary, endorse, on any relevant record of title, a memorial that indicates that the boundaries of the land subject to the covenant, as defined, have been surveyed.
-(10) A forest sink covenant may not be treated as a subdivision of land for the purposes of the Resource Management Act 1991.
+[Repealed]
 
 ### 67ZE The Crown may register charges with respect to land subject to forest sink covenants in certain circumstances
-(1) The Minister may register a charge under subpart 5 of Part 3 of the Land Transfer Act 2017 against land subject to a forest sink covenant if—
-  (a) liabilities are owed to the Crown by an owner of a landholding arising from the emission of greenhouse gases in relation to the forest sink on that land:
-  (b) penalties are imposed for breaches by an owner of a landholding of the harvesting restrictions in relation to the forest sink on that land:
-  (c) costs are incurred by the Crown in—
-    (i) remedying a breach of the covenant; or
-    (ii) enforcing its right to payment in relation to the covenant:
-  (d) the covenant is breached.
-(2) If the owner of a landholding fails or refuses, within the time provided for payment in the forest sink covenant or otherwise, to make any payment for which a charge may be registered under subsection (1), the failed or refused payment is an unpaid statutory debt owed to the Crown, and the amount by which it, or any unpaid part of it, is deemed to have been increased is the sum of—
-  (a) 10% of the debt (or that part of the debt that remained unpaid after the expiry of the time provided for the debt's payment); and
-  (b) for every complete period of 12 months after that expiry during which the debt or any part of it (including any deemed increase calculated under this subsection) has remained unpaid, 10% of the debt or that part of the debt.
-(3) If the owner of a landholding pays the statutory debt (including any deemed increase) or the Crown releases the owner of the landholding from the obligation to pay the debt, the Minister must release the relevant charge on the land (if any).
-(4) For the purposes of this section, a charge that is registered by the Minister under subpart 5 of Part 3 of the Land Transfer Act 2017 against land subject to a forest sink covenant—
-  (a) has priority over any subsequently registered mortgages, charges, and encumbrances with respect to that land; but
-  (b) does not have priority over any prior registered mortgages, charges, and encumbrances with respect to that land.
+[Repealed]
 
 ### 67ZF Liability to the Crown of persons who have or had landholding subject to registered forest sink covenants
-(1) If a person has a landholding in land that is subject to a registered forest sink covenant,—
-  (a) the person is, unless a contrary intention appears in the covenant, personally liable to the Crown for the observance of all the obligations in the covenant:
-  (b) the Crown may, in the event of a breach of an obligation in the covenant, seek any appropriate remedy directly against the person as if the person were a party to the covenant.
-(2) If a person acquires a landholding in land that is subject to a registered forest sink covenant,—
-  (a) the person is, unless a contrary intention appears in the covenant, personally liable to the Crown for—
-    (i) the observance of all the obligations in the covenant:
-    (ii) any liabilities arising from the emission of greenhouse gases from that forest sink that are owed to the Crown by any person who was an owner of a landholding in that land before the acquisition:
-    (iii) any penalties imposed for breaches of the harvesting restrictions in relation to the forest sink on that land by any person who was an owner of a landholding in that land before the acquisition:
-    (iv) any costs incurred by the Crown in—
-      (A) remedying a breach of the covenant by any person who was an owner of a landholding in that land before the acquisition; or
-      (B) enforcing its right to payment in respect of any person who was an owner before the acquisition:
-  (b) the Crown may, in relation to any matter specified in paragraph (a), seek any appropriate remedy directly against the person.
-(3) If a person ceases to have a landholding subject to a registered forest sink covenant, the person is no longer personally liable to the Crown for a breach of, or liabilities that arise under, the covenant unless the breach occurred or the liabilities arose while the person had the landholding.
-(4) If 2 or more persons have a landholding subject to a registered forest sink covenant, the covenant is deemed to bind each person jointly and severally.
+[Repealed]
 
 ### 67ZG Minister must give notice to Registrar-General of Land if forest sink covenants are varied, cancelled, or terminated
-If a forest sink covenant is varied, cancelled, or terminated, the Minister must give notice of the variation, cancellation, or termination in the prescribed form to the Registrar-General of Land.
+[Repealed]
 
 ### Subpart 2 — Cost recovery
 
 ### 67ZH Principles of cost recovery
-(1) The Minister must take all reasonable steps to ensure that the direct and indirect costs of administering this Part that are not provided for by money appropriated by Parliament for the purpose are recovered under this subpart, whether by way of fees, levies, or otherwise.
-(2) In determining the most appropriate method of cost recovery under section 67ZI, the Minister must have regard, as far as is reasonably practicable, to the following criteria:
-  (a) equity, in that funding for a particular function, power, or service, or a particular class of functions, powers, or services, should generally, and to the extent practicable, be sourced from the users or beneficiaries of the relevant function, power, or service at a level commensurate with their use or benefit from the function, power, or service:
-  (b) efficiency, in that costs should generally be allocated and recovered in order to ensure that maximum benefits are delivered at minimum cost:
-  (c) justifiability, in that costs should be collected only to meet the actual and reasonable costs (including indirect costs) for the provision or exercise of the relevant function, power, or service:
-  (d) transparency, in that costs should be identified and allocated as closely as practicable in relation to tangible service provision for the recovery period in which the service is provided.
-(3) Costs should not be recovered under this subpart unless there has been appropriate consultation with affected persons or representatives of persons substantially affected.
-(4) Nothing in subsection (3) requires consultation in relation to specific fees or charges, or the specific levels of fees or charges, so long as the fees or charges set are reasonably within the purview of any general consultation; and a failure to comply with subsection (3) does not affect the validity of any regulations made for the purposes of this subpart.
-(5) Nothing in this section requires a strict apportionment of the costs to be recovered for a particular function or service based on usage; and, without limiting the way in which fees or charges may be set, a fee or charge may be set at a level or in a way that—
-  (a) is determined by calculations that involve an averaging of costs or potential costs:
-  (b) takes into account costs or potential costs of services that are not directly to be provided to the person who pays the fee or charge but which are an indirect or potential cost arising from the delivery of the service in question to a class of persons or all persons who use the service.
+[Repealed]
 
 ### 67ZI Methods of cost recovery
-The methods by which costs may be recovered under this subpart are as follows:
-  (a) fixed fees or charges:
-  (b) fees or charges based on a scale or formula or at a rate determined on an hourly or other unit basis:
-  (c) use of a formula or other method of calculation for fixing fees and charges:
-  (d) the recovery by way of fee or charge of actual and reasonable costs expended in, or associated with, the performance of a service or function:
-  (e) estimated fees or charges, or fees or charges based on estimated costs, paid before the provision of the service or function, followed by reconciliation and an appropriate further payment or refund after provision of the service or function:
-  (f) levies:
-  (g) any combination of the above.
+[Repealed]
 
 ### 67ZJ Cost recovery to relate generally to financial year
-(1) Except as provided in subsection (2), any regulations under this subpart that set a fee, charge, or levy that applies in any financial year—
-  (a) must have been made before the start of that financial year; but
-  (b) except as the regulations may otherwise provide, apply in that year and all subsequent years until revoked or replaced.
-(2) Subsection (1) does not prevent the alteration or setting during any financial year of a fee, charge, or levy payable in that year if either—
-  (a) the fee, charge, or levy is reduced, removed, or restated without substantive alteration; or
-  (b) in the case of an increase or a new fee, charge, or levy,—
-    (i) appropriate consultation has been carried out with persons or representatives of persons substantially affected by the alteration or setting; and
-    (ii) the Minister is satisfied that those persons, or their representatives, agree or do not substantially disagree with the alteration or setting.
-(3) Subsection (1) does not prevent the amendment of any regulation setting a fee, charge, or levy if any substantive alteration effected by the amendment is for the purpose of correcting an error.
-(4) Recovery may be made in any financial year of any shortfall in cost recovery for any of the preceding 4 financial years, and allowance may be made for any over-recovery of costs in those years (including any estimated shortfall or over-recovery for the immediately preceding financial year).
+[Repealed]
 
 ### 67ZK Minister may review levels and methods of cost recovery
-(1) The Minister may, as and when appropriate, review the levels and methods of cost recovery in relation to forest sink covenants.
-(2) A review may make provision for recovery in any relevant financial year of any shortfall in cost recovery for any of the preceding 4 financial years, or make allowance for any over-recovery of costs in those years (including any estimated shortfall or over-recovery for the immediately preceding financial year).
-(3) To avoid doubt, all areas of cost recovery need not be reviewed at the same time, nor is there any time limit on the making of regulations to implement the results of a review.
+[Repealed]
 
 ### 67ZL Fees and charges to be prescribed by regulations
-(1) The Governor-General may, by Order in Council and on the recommendation of the Minister, make regulations prescribing fees and charges for the purposes of this Part.
-(2) The fees and charges may be prescribed using any 1 or more of the methods specified in section 67ZI, or any combination of those methods.
-(3) Different fees and charges, or different rates or types of fee or charge, may be prescribed in respect of different forest sink covenants.
-(4) Without limiting subsection (3), the fees and charges prescribed may—
-  (a) differ depending on whether a special or urgent service is provided:
-  (b) include more than 1 level of fee or charge for the same service provided in different ways, or provided in, or in respect of, different places:
-  (c) differ for otherwise similar services provided in different ways:
-  (d) differ depending on the amount of service required or the components of the service required for the particular person.
-(5) If regulations prescribe a formula for determining a fee or charge, the formula may specify the value attributed to any component of that formula.
-(6) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 67ZH and 67ZJ have been met.
-(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 67ZM Levies
-(1) The Governor-General may, by Order in Council and on the recommendation of the Minister, impose a levy payable to the Secretary for the purposes of wholly or partially funding a service provided or function performed by the Ministry or the Secretary for the purposes of this Act.
-(2) An order under this section—
-  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
-  (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
+[Repealed]
 
 ### 67ZN Contents of levy order
-(1) Every levy order under section 67ZM must specify—
-  (a) the persons primarily responsible for paying the levy; and
-  (b) the basis on which the amount of levy is to be calculated or ascertained; and
-  (c) the persons (if any) to be exempt from paying the levy; and
-  (d) the persons responsible for collecting the levy from those primarily responsible for paying it; and
-  (e) the maximum rate of levy; and
-  (f) how the actual rate of the levy is to be set; and
-  (g) how the rates of the levy and variation of rates are to be notified; and
-  (h) whether or not the persons collecting the levy are entitled to recover the cost of levy collection and the estimated amount.
-(2) The levy order may prescribe any of the following matters:
-  (a) the making of returns to the Minister for the purpose of enabling or assisting the determination of amounts of levy payable:
-  (b) the circumstances in which, and conditions subject to which, persons may be allowed extensions of time for the payment of any levy:
-  (c) the payment of additional or increased levy when amounts of levy otherwise payable have been paid late, paid in part, or not paid at all:
-  (d) the holding of funds from which payments of levy are to be made, on trust in separate accounts.
+[Repealed]
 
 ### 67ZO Trust accounts required to be kept by persons collecting levies
-(1) If a levy order made under section 67ZM requires the operation of a trust account for any levy money by the person responsible for collecting the levy,—
-  (a) any amount held in such an account that is due to be paid to the Secretary by the levy collector is to be treated as levy money held on trust for the Secretary; and
-  (b) any amount so held on trust is not available for the payment of a creditor (other than the Secretary) of the levy collector, and is not liable to be attached or taken in execution at the instance of that creditor; and
-  (c) a person who ceases to be a person responsible for collecting a levy must continue to maintain the trust account until all the levy money payable to the Secretary in respect of the period during which the person was responsible for collecting the levy has been paid.
-(2) Nothing in subsection (1)﻿(c) affects any obligation or liability under this Act of any other person who has become responsible for collecting the levy concerned.
+[Repealed]
 
 ### 67ZP Exemptions, waivers, and refunds
-(1) Regulations made under this subpart may—
-  (a) provide for exemptions from, or waivers or refunds of, any fee, levy, or charge payable under this subpart, in whole or in part, in any class of case:
-  (b) authorise the Secretary to grant an exemption, waiver, or refund in any particular case or class of case.
-(2) If the regulations authorise the Secretary to grant an exemption, waiver, or refund,—
-  (a) an instrument granting such an exemption, waiver, or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only in a particular case; and
-  (b) the regulations must contain a statement to that effect.
+[Repealed]
 
 ### 67ZQ Fees, levies, and charges to constitute debt due to Secretary
-Any fee, levy, or charge that has become payable is a debt due to the Secretary, and is recoverable by the Secretary as a debt in any court of competent jurisdiction. Until paid in full, it remains a debt due to the Crown.
+[Repealed]
 
 ### 67ZR Penalties for failure to pay fee, levy, or charge
-(1) If a person has failed to pay to the Secretary by the due date any fee, levy, or charge payable under this subpart,—
-  (a) section 14 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 applies to increase the amount payable; and
-  (b) section 15 of that Act applies to allow the Secretary, in appropriate cases, to waive the payment of all or any of the amount of any such increase; and
-  (c) section 16 of that Act applies to allow the Secretary to withdraw, or refuse to provide the person in default with, any service of the kind to which the debt relates.
-(2) For the purposes of subsection (1)﻿(c) and section 16 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of section 16 of that Act, the references in those provisions to the refusal to provide any service are to be treated as also authorising the Secretary, in an appropriate case, to refuse to perform any function under this Act leading to the issue of units in relation to the person in default.
-(3) If the refusal requires the Secretary to provide any further service, or perform any further function involved in the refusal, the Secretary may recover any reasonable amount for the additional service, function, or costs as a debt due from the person who owns or is responsible for the operation concerned.
+[Repealed]
 
 ### 67ZS Obligation to pay fee, levy, charge, or penalty not suspended by dispute
-The obligation of a person to pay any fee, levy, charge, or penalty under this subpart, and the right of the Secretary to receive and recover the fee, levy, charge, or penalty, are not suspended by any dispute between the person and the Secretary regarding the person's liability to pay the fee, levy, charge, or penalty, or the amount of the fee, levy, charge, or penalty.
+[Repealed]
 
 ### 67ZT Levy orders are confirmable instruments
 [Repealed]
 
 ### 67ZU Relationship of Part with Resource Management Act 1991
-Nothing in this Part derogates from any provision of the Resource Management Act 1991.
+[Repealed]
 
 ## Part 4 — Miscellaneous provisions
 
@@ -1674,6 +1503,19 @@ The following new provisions do not apply in respect of an act or omission that 
   (a) section 63H(1) (which prohibits a person from acting as a log trader unless registered or exempt):
   (b) section 63L(1) (which prohibits a person from providing a forestry adviser service unless registered or exempt):
   (c) section 63ZK(1)﻿(a) to (f) (which creates offences under Part 2A).
+
+### Part 2 — Provisions relating to Climate Change Response (Emissions Trading Reform) Amendment Act 2020
+
+### 4 Removal of forest sink covenants from register and records
+(1) The EPA (as defined by section 4 of the Climate Change Response Act 2002) must, as soon as is reasonably practicable after the commencement of this clause, give notice that the clause has commenced to—
+  (a) the Registrar-General of Land; and
+  (b) the Registrar of the Maori Land Court.
+(2) As soon as is reasonably practicable after receiving the notice,—
+  (a) the Registrar-General of Land must record, on each record of title on which a forest sink covenant is registered, that the covenant is terminated; and
+  (b) the Registrar of the Maori Land Court must remove any notification of a forest sink covenant from the court’s records of Maori land.
+
+### 5 Crown charges continue against land subject to forest sink covenants
+For the purposes of any charge registered against land in accordance with section 67ZE immediately before the commencement of this clause, the charge and that section continue to apply as if the section had not been repealed.
 
 ## Schedule 1 — Enactments repealed
 
