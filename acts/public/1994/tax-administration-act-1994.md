@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-01-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -212,6 +212,9 @@ _Consolidation as at 2023-12-23_
     (c) is defined in section 138D(2) for the purposes of that section
   - **exploratory well** , in section 91(1)﻿(e), has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **exploratory well expenditure** , in section 91(1), has the same meaning as in section YA 1 of the Income Tax Act 2007
+  - **extended model reporting standard for digital platforms** means—
+    (a) the model reporting standard for digital platforms; and
+    (b) Part II of the Model Reporting Rules for Digital Platforms: International Exchange Framework and Optional Module for Sale of Goods
   - **family notice of entitlement** , in relation to any person, means a notice issued by the Commissioner under section 80KD for the estimated entitlement of the person to a tax credit under the family scheme
   - **family scheme** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **family trust** is defined in section 173M(5) for the purpose of that section
@@ -296,6 +299,9 @@ _Consolidation as at 2023-12-23_
   - **Maori authority distribution penalty tax** means tax payable under section 140CB
   - **Minister** means the Minister of Finance
   - **Ministry** is defined in schedule 7, part C, subpart 2, clause 44(6) for the purposes of that clause
+  - **model reporting standard for digital platforms** means the Model Rules for Reporting by Platform Operators with respect to Sellers in the Sharing and Gig Economy that is a standard—
+    (a) developed by the Organisation for Economic Co-operation and Development and the Group of Twenty countries; and
+    (b) agreed by the Council for the Organisation for Economic Co-operation and Development
   - **natural person** —
     (a) does not include a natural person who is acting in the capacity of trustee:
     (b) for the purposes of sections 177 and 177A, includes a natural person who is acting in the capacity of trustee
@@ -414,6 +420,7 @@ _Consolidation as at 2023-12-23_
   - **relinquishment** , in section 91, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **reportable income** is defined in section 22D(3) for the purposes of this Act and the Income Tax Act 2007
   - **reportable unpaid tax** is defined in schedule 7, part C, subpart 1, clause 33(12) for the purposes of that clause
+  - **reporting platform operator** , in sections 22(2)﻿(fe) and (lf), 94D, 142J, 143(2E), 185S, 185T, and 226F, has the meaning set out in the model reporting standard for digital platforms or the extended model reporting standard for digital platforms, as applicable
   - **representative** means a person who—
     (a) is eligible under section 124D(2) to act as a representative; and
     (b) is approved by the Commissioner as a representative; and
@@ -1814,11 +1821,12 @@ An information holder who is required to disclose information in relation to a p
   (ec) is an approved research provider:
   (ed) is an employer to whom section RD 13B of that Act applies in relation to the treatment of a tax credit for a payroll donation:
   (f) is a company that is an ICA company, a BETA person, a PCA company, or a PCA person:
-  (fb) is a resident foreign trustee of a foreign trust in any income year:
+  (fb) is a resident trustee of a foreign trust in any income year:
   (fc) is a borrower under section 4(1) of the Student Loan Scheme Act 2011 who has adjusted net income as defined in section 73 of that Act:
   (fd) must meet requirements under Part 11B, including requirements expressed as being imposed on an entity other than a person, of—
     (i) a financial institution, as defined in the FATCA agreement:
-    (ii) a financial institution, as defined in the CRS applied standard,—
+    (ii) a financial institution, as defined in the CRS applied standard:
+  (fe) is a reporting platform operator to whom sections 185S and 185T apply—
   (g) the assessable income derived by that person from the carrying on of that business, or the carrying on of that other activity, or the making or holding or disposing of that investment; and
   (h) the deductions of that person in the carrying on of that business, or the carrying on of that other activity, or the making or holding or disposing of that investment; and
   (i) every fringe benefit, and the taxable value of every fringe benefit, provided by the person to any person in relation to whom the person is an employer, and every fringe benefit provided by the person to any person who in relation to another person is an employee, those records to include (without limiting the generality of the preceding provisions of this paragraph) details of the recipient of the fringe benefit, the occasion of the providing of it, and the amount (if any) paid or payable by the employee for the receipt or enjoyment of it; and
@@ -1835,6 +1843,7 @@ An information holder who is required to disclose information in relation to a p
   (lc) the person’s compliance with Part 11B; and
   (ld) a failure by the person to obtain a self-certification as required by the CRS applied standard; and
   (le) steps taken by the person and evidence relied upon by the person in performing obligations under Part 11B relating to the CRS applied standard; and
+  (lf) for a reporting platform operator, evidence of steps undertaken in the operation of the digital platform, and information relied on for the performance of due diligence procedures and reporting requirements set out in the model reporting standard for digital platforms and the extended model reporting standard for digital platforms, as applicable; and
   (m) the financial position of the foreign trust; and
   (n) adjusted net income under the Student Loan Scheme Act 2011,—
 (2BA) A taxpayer required by subsection (2) to keep and retain a record must keep and retain the record—
@@ -1843,7 +1852,7 @@ An information holder who is required to disclose information in relation to a p
     (i) the Commissioner authorises the taxpayer under subsection (8) to keep the record or the type of record:
     (ii) the record is kept by a person authorised by the Commissioner under subsection (8) to keep records for taxpayers that include the taxpayer.
 (2B) A taxpayer referred to in subsection (2)﻿(e) who is required by subsection (2) to retain records is not required to retain those records for a period of more than 7 years after the end of the income year to which the records relate.
-(2C) If there are more than 1 resident foreign trustee of a foreign trust, the resident foreign trustees may appoint one of themselves as an agent for the purposes of keeping the records required by subsection (2).
+(2C) If there are more than 1 resident trustee of a foreign trust, the resident trustees may appoint one of themselves as an agent for the purposes of keeping the records required by subsection (2).
 (3) A qualifying individual who is required by subsection (2) to retain records of their assessable income, must retain those records for a period of 12 months after the end of the income year in which the individual derived the income.
 (4) This section shall not require the retention of any records—
   (a) in respect of which the Commissioner has given notice that retention is not required:
@@ -4519,6 +4528,7 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
   (l) the assessment results from an amendment made under section 22G(6); or
   (lbaa) the Commissioner is making an amendment before finalising the account of a qualifying individual under section 22H; or
   (lba) the assessment is of a penalty under section 142H or 142I; or
+  (lbab) the assessment is of a penalty under section 142J or 142K; or
   (lb) the assessment extinguishes all or part of a taxpayer's tax loss in accordance with section 177C(5); or
   (lbb) the assessment extinguishes all or part of a taxpayer’s excess amount under section EL 4 of the Income Tax Act 2007 in accordance with section 177C(5BA); or
   (m) the assessment includes a calculation by the Commissioner of a tax credit under the family scheme.
@@ -4947,6 +4957,14 @@ A person who enters into a financial arrangement before a determination or notic
 (6) Within 30 days of issuing a determination under this section, the Commissioner must publish a notice in a publication chosen by the Commissioner that—
   (a) gives notice that the determination has been issued; and
   (b) states where copies of the determination can be obtained.
+
+### 91AABB Determinations relating to monetary threshold in extended model reporting standard for digital platforms
+(1) For the purpose of section 185T, the Commissioner may determine the New Zealand dollar equivalent of the monetary threshold set out in the definition of excluded seller in section I, B(4)﻿(d) of the extended model reporting standard for digital platforms.
+(2) The Commissioner may amend, if necessary, the New Zealand dollar equivalent of the threshold referred to in subsection (1) to account for exchange rate fluctuations to ensure its consistency with the reporting standard.
+(3) The determination may set out the year or years for which it is to apply, but it may not apply for years before the implementation of the extended model reporting standard for digital platforms under section 185T(1).
+(4) The determination may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination.
+(5) A person affected by a determination made under this section may dispute or challenge the determination under Parts 4A and 8A.
+(6) Within 30 days of having made a determination under this section, the Commissioner must publish a notice in a publication chosen by the Commissioner setting out the New Zealand dollar equivalent that is the subject of the determination, any necessary amendment caused by exchange rate fluctuations, and the periods for which the threshold is to apply.
 
 **Determinations relating to prepayments**
 
@@ -5921,6 +5939,11 @@ The fact that there has been an application for a private ruling or a product ru
 ### 94C Assessment of penalties under sections 142H and 142I
 (1) The Commissioner may, for a financial institution having obligations under Part 11B for financial accounts maintained by the financial institution, make an assessment of the amount of a penalty under section 142H that, in the Commissioner’s judgement, ought to be imposed and the financial institution is liable to pay the penalty assessed, except so far as the financial institution establishes in proceedings challenging the assessment that the assessment is excessive or that the financial institution is not chargeable with the penalty.
 (2) The Commissioner may, for a person or entity having obligations under Part 11B for the provision of information relating to a person or entity for a financial account, make an assessment of the amount of a penalty under section 142I that, in the Commissioner’s judgement, ought to be imposed and the person or entity is liable to pay the penalty assessed, except so far as the person or entity establishes in proceedings challenging the assessment that the assessment is excessive or that the person or entity is not chargeable with the penalty.
+
+### 94D Assessment of penalties related to requirements under model rules
+(1) The Commissioner may make an assessment for a reporting platform operator of the amount of a penalty under section 142J(1) to (5) that, in the Commissioner’s opinion, ought to be imposed, and the operator is liable to pay the penalty assessed.
+(2) The Commissioner may make an assessment for a seller operating on a digital platform of a reporting platform operator of the amount of a penalty under section 142K that, in the Commissioner’s opinion, ought to be imposed, and the seller is liable to pay the penalty assessed.
+(3) Despite subsections (1) and (2), this section does not apply in so far as the operator or seller, as applicable, establishes in proceedings challenging the assessment that the assessment is excessive or that the operator or seller, as applicable, is not chargeable with the penalty.
 
 ### 95 Assessment of withdrawal tax
 [Repealed]
@@ -8101,6 +8124,38 @@ The due date for payment, by a member of a large multinational group, of a penal
   (a) 30 days after the date on which the Commissioner issues the notice of assessment for the penalty:
   (b) the date specified by the Commissioner in the notice of assessment as being the due date for payment of the penalty.
 
+### 142J When reporting requirements for operators under model rules for digital platforms not met
+(1) This section applies when a reporting platform operator (the operator), including a resident reporting platform operator,—
+  (a) is required under sections 185S and 185T to meet all the requirements set out in, as applicable,—
+    (i) the model reporting standard for digital platforms:
+    (ii) the extended model reporting standard for digital platforms; and
+  (b) does not meet the requirements in relation to sellers operating on the digital platform in cases where the non-compliance is serious or unreasonable.
+(2) The operator is liable to pay a penalty of $300 for each occasion on which the operator does not meet the requirements.
+(3) The operator is not liable to pay a penalty under subsection (2) if the failure to meet the requirements is shown to be due to circumstances outside the control of the operator.
+(4) If the operator does not take reasonable care to meet a requirement, and no penalty is imposed under subsection (2), the operator is liable to pay a penalty of—
+  (a) $20,000 for the first occasion:
+  (b) $40,000 for each further occasion.
+(5) The total amount of penalties for a reportable period for which an operator is liable must not be more than—
+  (a) $10,000 for a penalty under subsection (2):
+  (b) $100,000 for a penalty under subsection (4).
+(6) The due date for payment of a penalty imposed under this section is the later of—
+  (a) 30 days after the date on which the Commissioner makes the assessment for the penalty:
+  (b) the date set out by the Commissioner in the notice of assessment as being the due date for payment of the penalty.
+
+### 142K When reporting requirements for sellers operating on digital platforms not met
+(1) This section applies when a seller operating on a digital platform—
+  (a) is required under sections 185S and 185T to provide information to the reporting platform operator; and
+  (b) does not meet the requirements.
+(2) The seller is liable to pay a penalty of $1,000 if they—
+  (a) provide false or misleading information to the reporting platform operator about either themselves or another person or entity:
+  (b) do not provide information to the reporting platform operator about either themselves or another person or entity within a reasonable time after having received a request for the information:
+  (c) do not provide information that they are required to provide to the reporting platform operator as a seller operating on the digital platform under—
+    (i) the model reporting standard for digital platforms:
+    (ii) the extended model reporting standard for digital platforms.
+(3) The due date for payment of a penalty imposed under this section is the later of—
+  (a) 30 days after the date on which the Commissioner makes the assessment for the penalty:
+  (b) the date set out by the Commissioner in the notice of assessment as being the due date for payment of the penalty.
+
 **Criminal penalties**
 
 ### 143 Absolute liability offences and strict liability offences
@@ -8123,6 +8178,9 @@ The due date for payment, by a member of a large multinational group, of a penal
 (2D) No person may be convicted of an offence against subsection (1)﻿(d) if the person proves that the person, either or both,—
   (a) took reasonable care when claiming the amounts of input tax:
   (b) corrected, under section 113A of the Tax Administration Act 1994, the amount claimed for input tax.
+(2E) No person may be convicted of an offence against subsection (1) if the requirement with which the person does not comply is a requirement under—
+  (a) the model reporting standard for digital platforms:
+  (b) the extended model reporting standard for digital platforms.
 (3) A person who is convicted of an offence against subsection (1) is liable—
   (a) the first time the person is convicted in relation to a particular type of offence, to a fine not exceeding $4,000:
   (b) the second time the person is convicted of the same type of offence, to a fine not exceeding $8,000:
@@ -9337,6 +9395,9 @@ If a double tax agreement exempts from tax any income derived before the date on
 (2) Sections 185F to 185M impose requirements on a person relating to information that is the subject of the FATCA agreement.
 (3) Sections 185N and 185O impose requirements on a person relating to information that is the subject of the CRS applied standard.
 (4) Sections 185P to 185R impose requirements on a person relating to either of the FATCA agreement and the CRS applied standard.
+(5) Sections 185S and 185T impose requirements on a person relating to the reporting of information required by—
+  (a) the model reporting standard for digital platforms:
+  (b) subject to implementation, the extended model reporting standard for digital platforms.
 
 **FATCA agreement**
 
@@ -9452,6 +9513,33 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
 ### 185R Foreign account information-sharing agreements: anti-avoidance
 (1) If a main purpose of a person in entering an arrangement is to avoid a requirement under this Part, the arrangement is treated as having no effect in relation to the person’s requirements under this Part.
 (2) The person has the requirements under this Part that the Commissioner considers to be appropriate in the absence of the arrangement.
+
+**Model reporting standards for digital platforms**
+
+### 185S Requirements for reporting platform operators and sellers: model reporting standard
+(1) This section applies when a person who is resident in New Zealand carries on a business by way of a digital platform through which a seller of goods or services may operate in New Zealand.
+(2) The person who is the platform operator must comply with all the requirements for reporting platform operators set out in the model reporting standard for digital platforms.
+(3) The seller operating on the digital platform must comply with all the requirements to provide information under the model reporting standard for digital platforms to the platform operator.
+(4) For the purposes of Part 11B, in the application of the model reporting standard for digital platforms,—
+  (a) a term defined in the reporting standard and used in this Act has the meaning that it has at the time in the reporting standard:
+  (b) unless the context requires otherwise, a reference to a jurisdiction in the reporting standard is taken as a reference to New Zealand:
+  (c) the optional provision contained in section I, A(3) of the reporting standard relating to excluded platform operators does not apply in New Zealand:
+  (d) the commencement provision contained in section II, F(2)﻿(a) in the reporting standard is treated as a reference to 1 January 2024:
+  (e) the provision contained in section III, B(2)﻿(c) and B(3)﻿(c) in the reporting standard is treated as a reference to the list maintained by the Commissioner that outlines those receiving jurisdictions using financial account identifier information:
+  (f) Annex A in the reporting standard does not apply:
+  (g) for the purposes of section III, A(1) and A(2) of the reporting standard, a reference to 31 January is treated as a reference to 7 February.
+
+### 185T Implementation of and requirements for extended model reporting standard for digital platforms
+(1) For the purposes of sections 91AABB, 142J, 142K, 143(2E), 185E, and 185S, the Governor-General may by Order in Council made on the recommendation of the Minister of Revenue declare a date on which the extended model reporting standard for digital platforms is to be implemented in New Zealand.
+(2) As required by section 185S(2) and (3) in relation to the model reporting standard for digital platforms, the platform operator and the seller must comply in the same way with all the requirements set out in the extended model reporting standard for digital platforms.
+(3) Despite subsection (2), the platform operator may choose to apply only the model reporting standard for digital platforms under section 185S in relation to sellers operating on the digital platform if the sellers—
+  (a) are resident in New Zealand; and
+  (b) are not resident in a country or territory other than New Zealand.
+(4) For the purposes of Part 11B in the application of the extended model reporting standard for digital platforms,—
+  (a) section 185S(4) applies in the same way as it applies to the model reporting standard for digital platforms:
+  (b) the Commissioner must determine and publish the New Zealand dollar equivalent to the monetary threshold in the definition of excluded seller in section I, B(4)﻿(d) of the extended model reporting standard for digital platforms (see section 91AABB).
+(5) An Order in Council under this section may be made only in the period that starts on the date of commencement of the Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023 and ends on the date that is 3 years after that date.
+(6) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 12 — Offences and penalties
 
@@ -9737,6 +9825,16 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
 (2) A regulation may set out the period for which it is to apply, which must not begin before the latest reporting period that finishes before the regulation is made.
 (3) A regulation may provide for the change, extension, limitation, suspension, or cancellation of an earlier regulation.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 226F Application of changes to model reporting standards for digital platforms
+(1) The Governor-General may, by Order in Council, make regulations for a change in the model reporting standards for digital platforms providing for the cancellation, reversal, or non-application of—
+  (a) a change to or the effect of a change on the model reporting standard for digital platforms or extended model reporting standard for digital platforms, as applicable:
+  (b) a period for which a change or an effect applies or does not apply:
+  (c) the effect of a change to the model reporting standard for digital platforms or extended model reporting standard for digital platforms, as applicable, on the obligations and liabilities of a person or entity or class of persons or entities.
+(2) A regulation may set out the period for which it is to apply, which must not begin before the latest reportable period that finishes before the regulation is made. If necessary or appropriate, a regulation may also make a change in the model reporting standards for digital platforms that applies during a reportable period.
+(3) When a change is made by regulations under this section and is expressed to apply for a reportable period in which the regulation is made as set out in subsection (2), the change applies from the date on which the regulation comes into force. Nothing in this section or in the regulation requires a reporting platform operator to give effect to the change from an earlier date.
+(4) A regulation may provide for the change, extension, limitation, suspension, or cancellation of an earlier regulation.
+(5) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 14 — Transitional provisions and savings
 
