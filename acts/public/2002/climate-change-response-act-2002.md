@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-01-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -4272,6 +4272,19 @@ If an entity ceases to be a member of a consolidated group, the entity—
 ### 161F Consultation on activities that may be prescribed as eligible industrial activities
 [Repealed]
 
+### 161FA Determining electricity allocation factors
+(1) The Minister may recommend the making of regulations under section 161A(1)﻿(d)﻿(i) that prescribe an allocation factor for electricity for a calendar year only if the Electricity Authority notifies the allocation factor for the year in accordance with this section.
+(2) The Electricity Authority must notify the Minister of the allocation factor for a year on or before 31 July in that year determined in accordance with the following formula:a = (b + c + d) ÷ 3where—ais the allocation factor for the relevant yearbis the ETS impact on the price of electricity in the financial year that ends on 30 June in the relevant yearcis the ETS impact on the price of electricity in the financial year preceding the financial year described in the definition of variable bdis the ETS impact on the price of electricity for the financial year preceding the financial year described in the definition of variable c.
+(3) The Electricity Authority must use a market model to determine the ETS impact on the price of electricity for each of the financial years described in the definitions of variables b, c, and d.
+(4) The market model must—
+  (a) be consistent with the market clearing algorithm set out in the Electricity Industry Participation Code 2010; and
+  (b) use, as the counterfactual input, a reasonable estimate of the offers that would have been made for the electricity actually offered in the financial year if there were no liability to surrender units to cover emissions; and
+  (c) comply with any regulations made under subsection (6).
+(5) The Electricity Authority must ensure that the market model, and any input data necessary to operate the model, is publicly available.
+(6) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing modelling assumptions for the purpose of the market model.
+(7) In this section, ETS impact, in relation to the price of electricity, is the modelled impact of the emissions trading scheme on the price of electricity.
+(8) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
 ### 161G Regulations in relation to eligible agricultural activities
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
   (a) prescribing in respect of each eligible agricultural activity, as appropriate,—
@@ -8042,6 +8055,14 @@ A reference (in an enactment or other document) to pre-1990 offsetting forest la
 Section 161A(3A) does not apply in relation to the making of regulations under section 161A for the purpose set out in section 161A(1)﻿(c) arising from information collected as a result of a notice issued under section 161D in accordance with clause 39.
 
 **Provision relating to electricity allocation factor for 2024 and 2025**
+
+### 42 Calculating electricity allocation factors for 2024 and 2025
+(1) This clause modifies section 161FA(2) for the purposes of determining an allocation factor in accordance with the formula in that section for the years commencing 1 January 2024 and 1 January 2025.
+(2) In the formula in section 161FA(2),—
+  (a) for the year commencing 1 January 2024,—
+    (i) variable c in the formula equals 0.537:
+    (ii) variable d in the formula equals 0.537:
+  (b) for the year commencing 1 January 2025, variable d in the formula equals 0.537.
 
 ## Schedule 1 — United Nations Framework Convention on Climate Change
 
