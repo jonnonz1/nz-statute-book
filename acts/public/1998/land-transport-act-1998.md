@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2023-11-01_
+_Consolidation as at 2024-01-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -53,7 +53,6 @@ _Consolidation as at 2023-11-01_
   - **certificate of compliance** means a certificate given under section 75A by a person authorised by the Science Minister
   - **certificate of loading** means a certificate of loading issued under the regulations or the rules
   - **class exemption** means an exemption granted under section 168D(1)﻿(b)
-  - **clean vehicle discount scheme** has the same meaning as in section 5(1) of the Land Transport Management Act 2003
   - **Commissioner** means the Commissioner of Police
   - **compulsory impairment test** means a test, carried out in a manner prescribed by the Minister of Police by notice (see subsection (6)), to indicate whether a person’s capacity to drive is impaired
   - **concurrent offence** means an offence—
@@ -4573,31 +4572,18 @@ Without limiting any other method of proof, the production in proceedings of a c
   (d) the tolerance levels specified, at the time of advising the Ministers, in Part 2 of Schedule 5 for other listed qualifying drugs and, in particular (where possible), for drugs with similar effects.
 
 ### 167A Regulations imposing fees and charges for purposes of clean vehicle discount scheme
-(1) Without limiting the generality of section 167(1)﻿(j), regulations for the purpose of promoting the transition of New Zealand’s light vehicle fleet to zero- and low-emission vehicles and reducing vehicle carbon dioxide emissions may be made under that provision providing for fees and charges to be paid in relation to the carbon dioxide emissions of imported new and used light vehicles.
-(2) Subsection (1) is subject to subsections (5) and (7).
-(3) Regulations made under section 167(1)﻿(j) for the purpose specified in subsection (1) may—
-  (a) do any of the things specified in section 168(4)﻿(a), (aa), (ab), and (d) to (h):
-  (b) prescribe any vehicle or class of vehicle as excluded from the definition of light vehicle for the purposes of the regulations:
-  (c) apply, with any necessary modifications, provisions of this Act concerning the manner in which carbon dioxide emissions of vehicles must be determined for the purposes of the regulations:
-  (d) prescribe, for the purposes of applying section 174 in the regulations, how the carbon dioxide emissions of an imported vehicle must be determined, which may be in accordance with a land transport rule:
-  (e) provide for unpaid fees or charges to be recoverable as a debt due to the Crown.
-(4) Different rates of fees or charges, or both, may be prescribed or fixed in respect of different classes of vehicles or on any other differential basis.
-(5) Regulations under section 167(1)﻿(j) for the purpose specified in subsection (1) may be made only on the recommendation of the Minister in accordance with subsection (7).
-(6) Before recommending the making of regulations, the Minister must consult such persons as the Minister considers appropriate.
-(7) The Minister must not recommend the making of regulations unless the Minister is satisfied—
-  (a) that the fees or charges are appropriate to sustain a scheme designed to increase consumer demand for zero- and low-emission vehicles and decrease consumer demand for high-emission vehicles:
-  (b) that the imposition and level of fees or charges are appropriate, after considering—
-    (i) the variety and availability of zero- and low-emission vehicles expected to enter the New Zealand light vehicle market in the following 12 to 24 months; and
-    (ii) the market behaviour of consumers, including the nature of any continued demand for high-emission vehicles; and
-    (iii) international and domestic climate change ambitions and commitments; and
-    (iv) the anticipated impact of the fees and charges on the market; and
-    (v) whether the estimated revenue to be received from the charges is sufficient to meet the costs and expenses of the clean vehicle discount scheme funded under section 9(1E) and (1F) of the Land Transport Management Act 2003.
+[Repealed]
 
 ### 167B Regulations setting fees and charges for purpose of Part 13 (clean vehicle standard) requirements to import vehicles with zero carbon dioxide emissions
 (1) Without limiting the generality of section 167(1)﻿(j), regulations for the purpose set out in section 170 may be made under section 167(1)﻿(j) setting fees and charges payable by vehicle importers for not including, among the vehicles they imported in any given year, the minimum proportion of vehicles with zero carbon dioxide emissions required under regulations made under section 167C(1)﻿(k).
 (2) Subsection (1) is subject to subsection (6).
 (3) Different rates of fees or charges, or both, may be prescribed or fixed in respect of different classes of vehicles or on any other differential basis.
-(4) Section 167A(3)﻿(a) to (e) applies to any regulations made under section 167(1)﻿(j) for the purpose specified in subsection (1).
+(4) Regulations made under section 167(1)﻿(j) for the purpose specified in subsection (1) may—
+  (a) do any of the things specified in section 168(4)﻿(a), (aa), (ab), and (d) to (h):
+  (b) prescribe any vehicle or class of vehicle as excluded from the definition of light vehicle for the purposes of the regulations:
+  (c) apply, with any necessary modifications, provisions of this Act concerning the manner in which carbon dioxide emissions of vehicles must be determined for the purposes of the regulations:
+  (d) prescribe, for the purposes of applying section 174 in the regulations, how the carbon dioxide emissions of an imported vehicle must be determined, which may be in accordance with a land transport rule:
+  (e) provide for unpaid fees or charges to be recoverable as a debt due to the Crown.
 (5) Before recommending the making of regulations, the Minister must consult such persons as the Minister considers appropriate.
 (6) The Minister must not recommend the making of regulations unless the Minister is satisfied—
   (a) that the fees and charges are appropriate to increase the supply and availability of vehicles with zero carbon dioxide emissions; and
@@ -5736,8 +5722,8 @@ The purposes of the register are to facilitate—
   (a) may be supplied for the purposes set out in section 235(a) to (c) if the supply of the information is approved by the Registrar; and
   (b) must be released if disclosure is—
     (i) required by another enactment; or
-    (ii) to the Police at the request of the Commissioner of Police; or
-    (iii) to the Agency, if necessary for the administration of the clean vehicle discount scheme.
+    (ii) to the Police at the request of the Commissioner of Police.
+    (iii)
 (5) In considering under subsection (4)﻿(a) whether to approve a supply of information, the Registrar must—
   (a) consult any agency that provided advice in support of the granting of confidential status in respect of the vehicle or vehicles to which the information relates; and
   (b) have regard to the reasons for which that status was granted.
@@ -5789,7 +5775,7 @@ The purposes of the register are to facilitate—
     (i) the prescribed fee; and
     (ii) an application for a licence for the motor vehicle.
 (1A) An application for registration of a motor vehicle must also be accompanied by the amount of the motor vehicle (synthetic greenhouse gas) levy for the motor vehicle if required under section 227(1)﻿(a) of the Climate Change Response Act 2002.
-(1B) An application for registration of a motor vehicle must also be accompanied by the amount of any fees or charges prescribed under section 167(1)﻿(j) for the purpose under section 167A.
+(1B)
 (2) The only persons who may be registered in respect of motor vehicles are—
   (a) a natural person of or over 15 years of age; or
   (b) a body corporate; or
@@ -6360,6 +6346,14 @@ Despite sections 180(1) and (2) and 184(1) and (2), a light vehicle importer may
 (1) The Governor-General may, by Order in Council, on the advice of the Minister, require that the review undertaken under clause 24 not consider 1 or more of the matters identified in clause 24(3).
 (2) Before advising the Governor-General to make an Order in Council under subclause (1), the Minister must present a paper to the House of Representatives explaining the reasons why, in the Minister’s view, the review should not consider the matters identified in the Order in Council.
 (3) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### Part 7 — Provisions relating to Land Transport (Clean Vehicle Discount Scheme Repeal) Amendment Act 2023
+
+### 26 Interpretation
+In this Part, amendment Act means the Land Transport (Clean Vehicle Discount Scheme Repeal) Amendment Act 2023.
+
+### 27 Transitional provision for rebate applications received before close of 31 December 2023
+This Act continues to apply, as if it had not been amended by sections 4 and 7 of the amendment Act, for the purposes of processing any application for a rebate received before the close of 31 December 2023.
 
 ## Schedule 1 — Provisions concerning Land Transport Safety Authority of New Zealand
 
