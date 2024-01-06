@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-01-06_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -4644,10 +4644,11 @@ A demand notice may be withdrawn at any time by a Labour Inspector, but the with
   (d) the power to require any employer to supply to the Labour Inspector a copy of the wages and time record or holiday and leave record or employment agreement or both of any employee of that employer:
   (e) the power to inspect, and take copies of, any record kept under section 98 of strikes and lockouts:
   (f) the power to question any employer about compliance with any of the Acts referred to in section 223(1).
-(2) Where any Labour Inspector makes any requirement of an employer under subsection (1)﻿(c) or subsection (1)﻿(d), that employer must forthwith comply with that requirement.
-(3) Every employer who, without reasonable cause, fails to comply with any requirement made of that employer under subsection (1)﻿(c) or subsection (1)﻿(d) is liable, in an action brought by a Labour Inspector, to a penalty under this Act imposed by the Authority.
+(2) An employer must comply with a requirement under subsection (1)﻿(c) while the Labour Inspector is with the employer, or, if that is not practicable, within 10 working days.
+(2A) An employer must comply with a requirement under subsection (1)﻿(d) immediately after receiving it, or, if that is not practicable, within 10 working days of the date on which the requirement is received.
+(3) Every employer who, without reasonable cause, fails to comply with any requirement made of that employer under subsection (1)﻿(c) or (d) within the period required by subsection (2) or (2A) is liable, in an action brought by a Labour Inspector, to a penalty under this Act imposed by the Authority.
 (4) Where a Labour Inspector alleges that any person has not observed or not complied with any provision of section 130(1) or of subsection (2) of this section or of any of the Acts referred to in section 223(1), that Labour Inspector may commence proceedings against that other person in respect of the non-observance or non-compliance by applying to the Authority under section 137 for an order of the kind described in subsection (1) of that section, and the provisions of that section apply accordingly with all necessary modifications.
-(5) No person is, on examination or inquiry under this section, required to give to any question any answer tending to incriminate that person.
+(5) No person is, during an interview or in answer to a question under this section, required to give to any question any answer tending to incriminate that person.
 (5A) A person is not excused from answering a Labour Inspector’s questions under subsection (1) on the grounds that doing so might expose the person to a pecuniary penalty under Part 9A, but any answers given are not admissible in criminal proceedings or in proceedings under that Part for pecuniary penalties.
 (6) Despite subsection (1), the power of a Labour Inspector to enter any defence area within the meaning of the Defence Act 1990 is subject to any regulations made under section 93 of that Act.
 (7) A Labour Inspector may recover a penalty under this Act in the Authority for a breach of any provision that provides for the imposition of a penalty and is a provision of any of the Acts referred to in section 223(1).
@@ -4698,7 +4699,7 @@ A Judge who, on application made on oath, is satisfied that there is reasonable 
 (5)
 
 ### 233A Obligation of Labour Inspector and department not to disclose information
-(1) Neither a Labour Inspector who inspects, or is supplied with a copy of, a document under section 229 or 229A nor the department may disclose to any person any information obtained as a result of the inspection of the document or the supply of the copy, unless the disclosure is for the purposes of an Act specified in section 223(1).
+(1) Neither a Labour Inspector who inspects, or is supplied with a copy of, a document under section 229 or 229A nor the department may disclose to any person any information obtained as a result of the inspection of the document or the supply of the copy, unless the disclosure is for the purposes of an Act specified in section 223(1) or the Immigration Act 2009.
 (2) This section applies subject to section 233B.
 
 ### 233B Information sharing
@@ -4735,44 +4736,64 @@ A Judge who, on application made on oath, is satisfied that there is reasonable 
 **Infringement offences**
 
 ### 235A Interpretation
-In sections 235B to 235F, infringement offence means—
+In sections 235B to 235F,—
+  - **infringement fee** in relation to an infringement offence, means the infringement fee for the offence specified in section 235E
+  - **infringement offence** means—
   (a) a failure by an employer to comply with the requirements of section 64(1) or (2) or 130(1) of this Act or section 81(2) of the Holidays Act 2003:
-  (b) breaches of this Act that are prescribed by regulations as infringement offences.
+  (b) breaches of this Act that are prescribed by regulations as infringement offences:
+  (c) a failure by an employer to comply with a requirement made under section 229(1)﻿(d) within the time period required by section 229(2A).
 
 ### 235B Infringement offences
 (1) If a person is alleged to have committed an infringement offence, the person may—
   (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
-  (b) be served with an infringement notice as provided in section 235D.
-(2) Proceedings commenced in the way described in subsection (1)﻿(a) require the leave of a District Court Judge or Registrar under section 21(1)﻿(a) of the Summary Proceedings Act 1957.
+  (b) be issued with an infringement notice under section 235C.
+(2) Proceedings commenced in the way described in subsection (1)﻿(a) do not require the leave of a District Court Judge or Registrar under section 21(1)﻿(a) of the Summary Proceedings Act 1957.
+(3) See section 21 of the Summary Proceedings Act 1957 for the procedure that applies if an infringement notice is issued.
 
-### 235C Infringement notices
-(1) An infringement notice may be issued to a person if there are reasonable grounds for believing that the person is committing, or has committed, an infringement offence.
-(2) Only a Labour Inspector may issue an infringement notice.
+### 235C When infringement notice may be issued
+A Labour Inspector may issue an infringement notice to a person if the Labour Inspector believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
 
-### 235D Procedural requirements for infringement notices
-(1) An infringement notice may be served on a person who the Labour Inspector believes has committed the infringement offence—
-  (a) by delivering it, or a copy of it, personally to the person; or
-  (b) by sending it, or a copy of it, by post, addressed to the person at the person’s last known place of residence or business.
-(2) An infringement notice sent under subsection (1)﻿(b) must be treated as having been served on the person on the date it was posted.
-(3) An infringement notice must be in the prescribed form and must contain—
-  (a) details of the alleged infringement offence that are sufficient to fairly inform a person of the time, place, and nature of the alleged offence; and
-  (b) the amount of the infringement fee; and
-  (c) an address at which the infringement fee may be paid; and
-  (d) the time within which the infringement fee must be paid; and
-  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
-  (f) a statement that the person served with the notice has a right to request a hearing; and
-  (g) a statement of what will happen if the person served with the notice does not pay the fee and does not request a hearing; and
-  (h) any other prescribed matters.
-(4) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957 and, in that case,—
-  (a) reminder notices may be prescribed; and
-  (b) in all other respects, section 21 of the Summary Proceedings Act 1957 applies with all necessary modifications.
-(5) Reminder notices must contain the prescribed information.
+### 235D Revocation of infringement notice before payment made
+(1) A Labour Inspector may revoke an infringement notice before—
+  (a) the infringement fee is paid; or
+  (b) an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
+(2) The Labour Inspector must take reasonable steps to ensure that the person to whom the notice was issued is made aware of the revocation of the notice.
+(3) The revocation of an infringement notice before the infringement fee is paid is not a bar to any other enforcement action against the person to whom the notice was issued in respect of the same matter.
+
+### 235DA What infringement notice must contain
+An infringement notice must be in the form prescribed in regulations made under section 237 and must contain the following particulars:
+  (a) details of the alleged infringement offence that fairly inform a person of the time, place, and nature of the alleged offence:
+  (b) the amount of the infringement fee:
+  (c) the address of the department:
+  (d) how the infringement fee may be paid:
+  (e) the time within which the infringement fee must be paid:
+  (f) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957:
+  (g) a statement that the person served with the notice has a right to request a hearing:
+  (h) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing:
+  (i) any other matters prescribed in the regulations.
+
+### 235DB How infringement notice may be served
+(1) An infringement notice may be served on a person who the Labour Inspector believes is committing or has committed an infringement offence by—
+  (a) delivering it to the person or, if the person refuses to accept it, bringing it to the person’s notice; or
+  (b) leaving it for the person at the person’s last known place of residence with another person who appears to be of or over the age of 14 years; or
+  (c) leaving it for the person at the person’s place of business or work with another person; or
+  (d) sending it to the person by prepaid post addressed to the person’s last known place of residence or place of business or work; or
+  (e) sending it to an electronic address of the person in any case where the person does not have a known place of residence or business in New Zealand.
+(2) Unless the contrary is shown,—
+  (a) an infringement notice (or a copy of it) sent by prepaid post to a person under subsection (1) is to be treated as having been served on that person on the fifth working day after the date on which it was posted; and
+  (b) an infringement notice sent to a valid electronic address is to be treated as having been served at the time the electronic communication first entered an information system that is outside the control of the department.
+
+### 235DC Reminder notices
+A reminder notice must be in the form prescribed in regulations made under section 237 and must include the same particulars, or substantially the same particulars, as the infringement notice.
 
 ### 235E Infringement fees
-(1) The infringement fee payable for an infringement offence is—
-  (a) $1,000 for an infringement offence specified in section 235A(a):
-  (b) the infringement fee specified in regulations for an infringement offence prescribed by regulations under section 235A(b).
-(2) However, the maximum aggregate infringement fees an employer is liable to pay in a 3-month period is $20,000, whether for breaches of the same provision or breaches of different provisions.
+(1) The infringement fee,—
+  (a) for an infringement offence specified in paragraph (a) or (c) of the definition of that term in section 235A, is $1,000:
+  (b) for an infringement offence prescribed by regulations under paragraph (b) of the definition of that term in section 235A, is the infringement fee specified in regulations.
+(2) However, the maximum aggregate infringement fees that an employer is liable to pay in a 3-month period for infringement offences specified in paragraph (a) or (b) of the definition of infringement offence in section 235A is $20,000 (whether for breaches of the same provision or breaches of different provisions).
+
+### 235EA Infringement fine
+The maximum fine that can be imposed by the court in relation to an infringement offence is double the amount of the infringement fee.
 
 ### 235F Payment of infringement fee
 All infringement fees received must be paid into a Crown Bank Account.
@@ -5153,6 +5174,11 @@ Individual employment agreements
   (b) if applicable, notify a controlling third party that the employee considers that the actions of the controlling third party caused or contributed to the personal grievance.
 (2) Sections 114 to 115A (as amended by the 2023 amendment Act) apply in respect of a personal grievance if the action alleged to amount to the personal grievance occurred or came to the notice of the employee on or after the date of commencement.
 (3) Sections 114 to 115A (as they read immediately before commencement) continue to apply in respect of a personal grievance if the action alleged to amount to the personal grievance occurred and came to the notice of the employee before commencement.
+
+### Part 6 — Provision relating to Worker Protection (Migrant and Other Employees) Act 2023
+
+### 22 Transitional provision relating to section 229 of this Act
+Section 229 (as amended by the Worker Protection (Migrant and Other Employees) Act 2023) applies to documents and employment information created before or after that amendment.
 
 ## Schedule 1 — Essential services
 
