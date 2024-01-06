@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2023-05-16_
+_Consolidation as at 2024-01-06_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -82,6 +82,7 @@ In this Act, unless the context otherwise requires,—
     (b) does not include a person whose claim has been finally determined (within the meaning of section 128)
   - **classified information** has the meaning given to it by section 7(1)
   - **commercial craft** means a craft that travels for a commercial purpose or as part of a commercial operation
+  - **commercial craft infringement offence** has the meaning given to it by section 359
   - **compulsion order** means an order made by a District Court Judge under section 290(1) requiring a person to allow the collection of specified biometric information from him or her
   - **compulsory education** means education that is—
     (a) provided at any primary school, intermediate school, composite school, secondary school, or specialist school (within the meaning of the Education and Training Act 2020), whether at a State school, a private school, or an integrated school (within the meaning of section 10(1) of that Act); and
@@ -120,6 +121,7 @@ In this Act, unless the context otherwise requires,—
     (d) in any other case, means the institution, body, or person that or who is entitled to the fees payable by or on behalf of the persons undertaking the course, or that or who would be so entitled if any such fees were payable
   - **employee** means a person who does work for an employer (whether under a contract of service or a contract for services)
   - **employer** means a person who employs or engages a person to do work, whether under a contract of service or a contract for services
+  - **employment infringement offence** has the meaning given to it by section 359
   - **entry permission** is the permission that the following persons are required to obtain before being allowed to enter New Zealand:
     (a) a person who is not a New Zealand citizen:
     (b) a New Zealand citizen who is a national of 1 or more other countries and who wishes to enter New Zealand other than as a New Zealand citizen
@@ -148,7 +150,7 @@ In this Act, unless the context otherwise requires,—
       (i) lawfully in New Zealand and, if so, what class and type of visa the person holds, and any conditions of the visa; or
       (ii) unlawfully in New Zealand (within the meaning of section 9)
   - **imprisonment** means any form of detention or custody whereby a person is deprived of liberty for a continuous period, including home detention, detention or custody in a psychiatric institution or hospital, and military custody; but does not include detention or custody under this Act
-  - **infringement fee** , in relation to an infringement offence, means the fee set in respect of that offence by regulations made under section 400
+  - **infringement fee** has the meaning given to it by section 359
   - **infringement offence** has the meaning given to it by section 359
   - **international visitor conservation and tourism levy** means a levy imposed by regulations under section 400 for the purposes of section 399A
   - **invitation to apply** means an invitation to apply for a visa, as described in section 94
@@ -2140,7 +2142,7 @@ When making a determination under section 143, 145, or 146,—
     (iii) not later than 2 years after the person first held a residence class visa; or
   (b) of an offence for which the court has the power to impose imprisonment for a term of 2 years or more, if the offence was committed not later than 5 years after the person first held a residence class visa; or
   (c) of an offence and sentenced to imprisonment for a term of 5 years or more (or for an indeterminate period capable of running for 5 years or more), if the offence was committed not later than 10 years after the person first held a residence class visa; or
-  (d) of an offence against section 350(1)﻿(a) or 351, if the offence was committed not later than 10 years after the person first held a residence class visa, and whether that visa was granted before or after this paragraph comes into force.
+  (d) of an offence against section 350(1)﻿ or 351, if the offence was committed not later than 10 years after the person first held a residence class visa, and whether that visa was granted before or after this paragraph comes into force.
 (2) A person liable for deportation under this section may, not later than 28 days after being served with a deportation liability notice, appeal to the Tribunal—
   (a) on humanitarian grounds against his or her liability for deportation; and
   (b) if he or she is a refugee or a protected person, against any decision of a refugee and protection officer that he or she may be deported.
@@ -3461,6 +3463,22 @@ The persons and bodies who may be required by certificate under section 274 to p
   (k) real estate agents:
   (l) in relation to a person whose location is being sought, the person’s employer or former employer.
 
+**Power to access employment documents**
+
+### 275A Power to access employment documents
+(1) An immigration officer may exercise the power in subsection (2) for the following purposes:
+  (a) determining whether a supporting employer is employing (or has employed) a supported employee in accordance with the work-related conditions of the supported employee’s visa:
+  (b) determining whether a supporting employer is complying (or has complied) with the supporting employer’s obligations (which, to avoid doubt, include the obligation not to commit an offence) under this Act.
+(2) An immigration officer may require a supporting employer to supply a document (or a copy of it) that is—
+  (a) a wages and time record, or leave record kept in accordance with the provisions of any Act; or
+  (b) any other document relating to the remuneration or employment conditions of a supported employee (for example, an employment agreement).
+(3) A supporting employer must comply with the requirement immediately after receiving it, or, if that is not practicable, within 10 working days of the date on which the requirement is received.
+(4) A supporting employer is not excused from complying with the requirement on the ground that complying might tend to incriminate them or expose them to a penalty.
+(5) In this section, supporting employer means an employer in relation to either of the following people (who is a supported employee of that employer):
+  (a) a person who was required by immigration instructions to have an offer of employment to be granted a visa and had an offer from that employer; or
+  (b) a person who has work-related conditions of their visa specifying that they may only work for that employer.
+(6) If an immigration officer obtains information from a supporting employer under this section, the immigration officer and the Department must not use that information for the purpose of taking adverse action under this Act against any person other than the supporting employer or another supporting employer.
+
 **Powers of entry, inspection, etc**
 
 ### 276 Powers of entry and inspection relating to records of accommodation providers
@@ -3764,6 +3782,40 @@ For the purposes of this Act, a constable has all the powers of an immigration o
 (5) The provisions of Part 4 of the Search and Surveillance Act 2012 apply, except that sections 118 and 119 apply only if the warrant is executed (as provided for in section 293 of this Act) by a constable.
 
 **Disclosure of information to or by other agencies, bodies, or persons**
+
+### 294AAA Obligation of immigration officer and Department not to disclose information
+An immigration officer who is provided with a document (or a copy of a document) under section 275A and the Department may not disclose any information obtained as a result, unless the disclosure is—
+  (a) in accordance with section 294AAB; and
+  (b) for the purposes of one of the following Acts:
+    (i) this Act:
+    (ii) the Employment Relations Act 2000:
+    (iii) the Equal Pay Act 1972:
+    (iv) the Holidays Act 2003:
+    (v) the Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016:
+    (vi) the Minimum Wage Act 1983:
+    (vii) the Parental Leave and Employment Protection Act 1987:
+    (viii) the Support Workers (Pay Equity) Settlements Act 2017:
+    (ix) the Volunteers Employment Protection Act 1973:
+    (x) the Wages Protection Act 1983.
+
+### 294AAB Information sharing
+(1) An immigration officer and the Department may provide to a regulatory agency any information, or a copy of any document, described in section 294AAA that the officer or Department considers may assist the regulatory agency in the performance or exercise of the regulatory agency’s functions, duties, or powers under or in relation to any enactment listed in section 294AAA(b).
+(2) A regulatory agency may provide an immigration officer or the Department with any information, or a copy of any document, that the regulatory agency—
+  (a) holds in relation to the performance or exercise of its functions, duties, or powers under or in relation to any enactment; and
+  (b) considers may assist the officer or the Department in the performance or exercise of the officer’s or the Department’s functions, duties, or powers under or in relation to this Act.
+(3) An immigration officer who or the Department that provides information or a copy of a document under this section may impose conditions relating to the provision of the information, including conditions relating to—
+  (a) the storage and use of, or access to, anything provided:
+  (b) the copying, returning, or disposing of any documents provided.
+(4) This section applies subject to any other enactment, including the Privacy Act 2020.
+(5) This section overrides provisions in contracts, deeds, and other documents that are inconsistent with this section.
+(6) In this section, regulatory agency means—
+  (a) the department responsible for compliance and enforcement under the Residential Tenancies Act 1986:
+  (b) the Inland Revenue Department:
+  (c) a Labour Inspector under the Employment Relations Act 2000:
+  (d) the New Zealand Police:
+  (e) the Registrar of Companies:
+  (f) WorkSafe New Zealand and any agency designated under section 191 of the Health and Safety at Work Act 2015:
+  (g) any other department of State, person, or organisation defined in regulations as a regulatory agency for the purposes of this section.
 
 ### 294 Information matching to identify immigration status of person sentenced to imprisonment or community-based sentence
 (1) The purpose of this section is to facilitate the disclosure of information between the Department and the department of State for the time being responsible for the administration of the Corrections Act 2004 (the responsible department) to enable the responsible department to identify the immigration status of any person who has been sentenced to imprisonment or who has received a community-based sentence.
@@ -4920,14 +4972,10 @@ Every person commits an offence against this Act who, not being an immigration o
   (b) whether the offence occurred in or outside New Zealand.
 
 ### 350 Offences by employers
-(1) Every employer commits an offence against this Act who—
-  (a) allows or continues to allow any person to work in that employer’s service, knowing that the person is not entitled under this Act to do that work; or
-  (b) allows a person who is not entitled under this Act to work in the employer’s service to do that work.
-(2) Subsection (1)﻿(a) applies whether the person commenced work in the employer’s service before or after the commencement of this section.
-(3) It is a defence to a charge under subsection (1)﻿(b) that the employer—
-  (a) did not know that the person was not entitled to do the work; and
-  (b) took reasonable precautions and exercised due diligence to ascertain whether the person was entitled to do the work.
-(4) Except as provided in subsection (3), it is not a defence to a charge under subsection (1)﻿(b) that the employer did not know that the person was not entitled under this Act to do that work.
+(1) Every employer commits an offence against this Act who allows, or continues to allow, any person to work in that employer’s service, knowing that the person is not entitled under this Act to do that work.
+(2) Subsection (1) applies whether the person commenced work in the employer’s service before or after the commencement of this section.
+(3)
+(4)
 (5) A charge alleging an offence against this section may specify any day on which it is alleged the person was working for the employer, and need not state the day on which that work is alleged to have commenced.
 (6) For the purposes of this section, an employer is treated as knowing that an employee is not entitled under this Act to do any particular work if, at any time in the preceding 12 months (whether before or after the commencement of this section), the employer has been informed of that fact in writing by an immigration officer.
 (7) No employer is liable for an offence against this section in respect of any period during which the employer continues to allow any person to work in the employer's service in compliance with the minimum requirements of any employment agreement (within the meaning of the Employment Relations Act 2000) relating to the giving of notice on termination of employment.
@@ -5033,8 +5081,8 @@ Every person commits an offence who, without reasonable excuse,—
   (b) in the case of a person in charge of a craft, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $10,000.
 
 ### 357 Penalties: employers
-(1) A person convicted of an offence against section 350(1)﻿(a) is liable to a fine not exceeding $50,000.
-(2) A person convicted of an offence against section 350(1)﻿(b) is liable to a fine not exceeding $10,000.
+(1) A person convicted of an offence against section 350(1) is liable to a fine not exceeding $50,000.
+(2)
 (3) A person convicted of an offence against section 351(1) is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both, if the offence relates to—
   (a) a temporary worker within the meaning of paragraph (a) of the definition of temporary worker in section 351(8); or
   (b) an unlawful employee within the meaning of paragraph (a) of the definition of unlawful employee in section 351(8).
@@ -5046,20 +5094,47 @@ Every person commits an offence who, without reasonable excuse,—
 (1) A person convicted of an offence against section 352(1)﻿(a) is liable to a fine not exceeding $50,000.
 (2) A person convicted of an offence against section 352(1)﻿(b) is liable to a fine not exceeding $30,000.
 
-**Infringement offences for carriers, or persons in charge, of craft**
+**Infringement offences**
 
-### 359 Infringement offences
-In this Act, infringement offence means—
-  (a) an offence against section 349(1) or 349(2)﻿(a):
-  (b) an offence prescribed as an infringement offence for the purposes of this Act by regulations made under section 400.
+### 359 Interpretation
+In this Act,—
+  - **commercial craft infringement offence** means—
+    (a) an offence against section 349(1) or (2)﻿(a):
+    (b) an offence prescribed as a commercial craft infringement offence for the purposes of this Act by regulations made under section 400
+  - **employment infringement offence** means—
+    (a) an offence described in section 359A:
+    (b) an offence prescribed as an employment infringement offence for the purposes of this Act by regulations made under section 400
+  - **infringement fee** , in relation to an infringement offence, means the infringement fee for that offence—
+    (a) specified in section 359A(2) (for an employment infringement offence under that section); or
+    (b) set in regulations made under section 400 (for other employment infringement offences); or
+    (c) set in regulations made under section 400 (for commercial craft infringement offences)
+  - **infringement offence** means an employment infringement offence or a commercial craft infringement offence.
 
-### 360 Proceedings for infringement offences
-If a person who is a carrier, or a person in charge, of any craft is alleged to have committed an infringement offence, the person may either—
-  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
-  (b) be served with an infringement notice as provided in section 362.
+### 359A Employment infringement offence
+(1) An employer must not—
+  (a) allow a person who is not entitled under this Act to work in the employer’s service to do that work:
+  (b) employ a person in a manner that is inconsistent with a work-related condition of that person’s visa:
+  (c) fail to comply with a requirement made under section 275A within the time period required by that section.
+(2) A person who contravenes subsection (1)﻿(a) or (b) commits an infringement offence and is liable to,—
+  (a) in the case of an employer who is an individual,—
+    (i) an infringement fee of $1,000 for each employee in respect of whom an employment infringement offence is being, or has been, committed; or
+    (ii) a fine imposed by a court not exceeding double the amount of the total infringement fees payable:
+  (b) in the case of an employer that is a body corporate or another entity,—
+    (i) $3,000 for each employee in respect of whom an employment infringement offence is being, or was, committed; or
+    (ii) a fine imposed by a court not exceeding double the total amount of the infringement fees payable.
+(3) A person who contravenes subsection (1)﻿(c) commits an infringement offence and is liable to—
+  (a) an infringement fee of $1,000; or
+  (b) a fine imposed by a court not exceeding $2,000.
+
+### 360 Infringement offences
+(1) A person who is alleged to have committed an infringement offence may—
+  (a) be proceeded against by the filing of a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be issued with an infringement notice under section 362.
+(2) Proceedings commenced in the way described in subsection (1)﻿(a) do not require the leave of a District Court Judge or a Registrar under section 21(1)﻿(a) of the Summary Proceedings Act 1957.
+(3) See section 21 of the Summary Proceedings Act 1957 for the procedure that applies if an infringement notice is issued.
 
 ### 361 Immigration officer may require information
-When considering whether to issue an infringement notice, an immigration officer may require the person concerned to provide all or any of the following information:
+(1) When considering whether to issue an infringement notice for a commercial craft infringement offence, an immigration officer may require the person concerned to provide all or any of the following information:
   (a) the full name of the person in charge of the craft:
   (b) the date of birth of the person in charge of the craft:
   (c) the full residential address and, if different, the full postal address of the person in charge of the craft:
@@ -5067,48 +5142,76 @@ When considering whether to issue an infringement notice, an immigration officer
   (e) the full postal address of the carrier of the craft:
   (f) an electronic address for service for the carrier:
   (g) an electronic address for service for the person in charge of the craft.
+(2) When considering whether to issue an infringement notice for an employment infringement offence, an immigration officer may require the employer to provide all or any of the following information:
+  (a) if the employer is an individual, the employer’s—
+    (i) full name:
+    (ii) date of birth:
+    (iii) full residential and postal address:
+    (iv) title or position:
+  (b) if the employer is a body corporate or another entity, the employer’s—
+    (i) legal name:
+    (ii) business starting or registration date:
+    (iii) address for service.
 
-### 362 Infringement notices
-(1) If an immigration officer believes on reasonable grounds that a carrier, or a person in charge, of a craft has committed an infringement offence, the immigration officer may issue an infringement notice to the carrier, or the person in charge, of the craft.
-(2) Every infringement notice must be in the prescribed form and must include the following particulars:
-  (a) sufficient detail to fairly inform the person of the time, place, and nature of the alleged infringement offence:
-  (b) the infringement fee for the infringement offence:
-  (c) an address at which the infringement fee may be paid:
-  (d) the time within which the infringement fee must be paid:
-  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957:
-  (f) a statement that the person has a right to request a hearing:
-  (g) a statement of the consequences if the person does not pay the infringement fee and does not request a hearing:
-  (h) any other prescribed matters.
-(3) Every infringement notice must be served on the carrier, or person in charge, of the craft who appears to have committed the infringement offence.
-(4)
-(5) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957 and, in that case, the provisions of that section apply with all necessary modifications.
+### 362 When infringement notice may be issued
+An immigration officer may issue an infringement notice to a person if the officer believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+
+### 362A What infringement notice must contain
+An infringement notice must be in the form prescribed in regulations made under section 400 and must contain the following particulars:
+  (a) details of the alleged infringement offence that fairly inform a person of the time, place, and nature of the alleged offence:
+  (b) the amount of the infringement fee:
+  (c) the address of the Department:
+  (d) how the infringement fee may be paid:
+  (e) the time within which the infringement fee must be paid:
+  (f) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957:
+  (g) a statement that the person served with the notice has a right to request a hearing:
+  (h) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing:
+  (i) any other matters prescribed in regulations made under section 400.
 
 ### 363 Reminder notices
-Regulations made under section 400 may prescribe the form of reminder notices to be used in relation to infringement offences under this Act.
+A reminder notice must be in the form prescribed in regulations made under section 400, and must include the same particulars, or substantially the same particulars, as the infringement notice.
 
-### 364 Infringement fees
-(1) Infringement fees prescribed under this Act may not exceed,—
+### 364 Payment of infringement fees
+All infringement fees paid for infringement offences must be paid to the chief executive, and the chief executive must pay all infringement fees received into a Crown Bank Account.
+
+### 364A Maximum fees for infringement offences
+(1) An infringement fee prescribed under this Act for a commercial craft infringement offence may not exceed,—
   (a) in the case of a person in charge of a craft, $2,500; and
   (b) in the case of a carrier of a craft, $5,000.
-(2) All infringement fees are payable to the chief executive, and the chief executive must pay all infringement fees received into a Crown Bank Account.
+(2) An infringement fee prescribed under this Act for an employment infringement offence may not exceed,—
+  (a) in the case of an employer who is an individual, an infringement fee of $1,000 for each employee in respect of whom an employment infringement offence is being, or has been, committed; or
+  (b) in the case of an employer that is a body corporate or another entity, $3,000 for each employee in respect of whom an employment infringement offence is being, or was, committed.
 
-### 365 Revocation of infringement notices
-An immigration officer may, by written notice served on the person to whom the infringement notice was issued, revoke an infringement notice at any time before—
+### 364B Infringement fine for prescribed employment infringement offences
+The maximum fine that can be imposed by the court in relation to an employment infringement offence prescribed in regulations is double the amount of the infringement fee.
+
+### 365 Revocation of infringement notice before payment made
+(1) An immigration officer may, by written notice served on the person to whom an infringement notice was issued, revoke the infringement notice before—
   (a) the infringement fee is paid; or
-  (b) an order for payment of a fine is made by a court under section 21 of the Summary Proceedings Act 1957.
+  (b) an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
+(2) The revocation of an infringement notice before the infringement fee is paid is not a bar to any other enforcement action against the person to whom the notice was issued in respect of the same matter.
 
-### 365A Service of notices
-(1) This section applies to the following notices:
-  (a) an infringement notice served under section 362:
-  (b) a reminder notice referred to in section 363:
-  (c) a notice served under section 365 that revokes an infringement notice.
-(2) Every notice to which this section applies must be served by way of—
-  (a) sending it to the electronic address for service of the recipient, in which case it is deemed to be received by the recipient on the date on which it was sent; or
+### 365A How infringement notice may be served: carriers, and persons in charge, of craft
+(1) This section applies to infringement notices, reminder notices, and revocation notices relating to commercial craft infringement offences.
+(2) A notice may be served on the carrier, or person in charge, of a craft who the immigration officer believes is committing or has committed an infringement offence by—
+  (a) sending the notice to the electronic address for service of the recipient, in which case it is deemed to be received by the recipient on the date on which it was sent; or
   (b) personal service on the recipient; or
-  (c) sending it by registered post to the recipient's last known place of residence or business, in which case it is deemed to be received by the recipient on the date on which it was posted.
+  (c) sending it by registered post to the recipient’s last known place of residence or business, in which case it is deemed to be received by the recipient on the date on which it was posted.
 (3) Subsection (2) applies despite anything in section 24 of the Summary Proceedings Act 1957, and,—
   (a) if service is effected in accordance with subsection (2), the recipient is deemed to have consented to service in that way (despite sections 220 and 224(1)﻿(b) of the Contract and Commercial Law Act 2017); and
-  (b) in any case, for the purpose of sections 387 and 389 of the Companies Act 1993, the service is deemed to have been service by way of leaving the notice at the recipient's address for service.
+  (b) in any case, for the purpose of sections 387 and 389 of the Companies Act 1993, the service is deemed to have been service by way of leaving the notice at the recipient’s address for service.
+
+### 365B How infringement notice may be served: employers
+(1) This section applies to infringement notices, reminder notices, and revocation notices relating to employment infringement offences.
+(2) A notice may be served on a person who the immigration officer believes is committing or has committed an infringement offence by—
+  (a) delivering it to the person or, if the person refuses to accept it, bringing it to the person’s notice; or
+  (b) leaving it for the person at the person’s last known place of residence with another person who appears to be of or over the age of 14 years; or
+  (c) leaving it for the person at the person’s place of business or work with another person; or
+  (d) sending it to the person by prepaid post addressed to the person’s last known place of residence or place of business or work; or
+  (e) sending it to an electronic address of the person in any case where the person does not have a known place of residence or business in New Zealand.
+(3) Unless the contrary is shown,—
+  (a) a notice (or a copy of it) sent by prepaid post to a person under subsection (2)﻿(d) is to be treated as having been served on that person on the fifth working day after the date on which it was posted; and
+  (b) a notice sent to a valid electronic address is to be treated as having been served at the time the electronic communication first entered an information system that is outside the control of the Department.
 
 **Evidence in proceedings**
 
@@ -5356,6 +5459,19 @@ Any decision made, or discretion exercised, under this Act by an immigration off
   (a) offices of the Department; and
   (b) New Zealand Government offices overseas that deal with immigration matters.
 
+### 383A Publication of names and information in respect of immigration offences
+(1) The chief executive may, in order to promote the objects of this Act, publish the information specified in subsection (2) in relation to an employer who has been—
+  (a) convicted of an offence against this Act; or
+  (b) issued with an infringement notice in respect of an infringement offence against this Act.
+(2) The information that may be published is the following:
+  (a) the name of the employer:
+  (b) the employer’s trading name (if any):
+  (c) the fact that the employer has been convicted of an offence against this Act, or issued with an infringement notice in respect of an offence against this Act (as applicable):
+  (d) a reference number for the conviction or infringement notice:
+  (e) a description of any restrictions imposed on the employer as a consequence of being convicted or being issued with the infringement notice:
+  (f) the period during which those restrictions apply.
+(3) However, despite subsections (1) and (2), information that relates to an employer having been issued with an infringement notice may not be published under this section until at least 28 days after the date on which the infringement notice was issued.
+
 **Endorsement of New Zealand citizenship in foreign passports**
 
 ### 384 Endorsement in foreign passport
@@ -5453,7 +5569,7 @@ Sections 386A to 387A are default rules that apply subject to any other provisio
 (3) An immigration officer authorised to exercise 1 or more of the following powers must be issued with a warrant of designation, signed by the chief executive, specifying which of those powers the officer may exercise:
   (a) the power to deport a person under section 178:
   (b) the power of entry and inspection under sections 276, 277, 277A, and 278:
-  (c) the powers under sections 279, 280, 281, 281A, and 281B to require information or documents for the purpose of ensuring compliance with this Act:
+  (c) the powers under sections 275A, 279, 280, 281, 281A, and 281B to require information or documents for the purpose of ensuring compliance with this Act:
   (d) the powers under sections 282, 283, 284, 285, and 285A at a border:
   (e) the power of entry and search under section 286:
   (f) the power to require biometric information, special biometric information, or both under section 288:
@@ -5685,12 +5801,13 @@ Sections 386A to 387A are default rules that apply subject to any other provisio
   (d) prescribing procedures to be followed for the purposes of Part 5, or such other matters as are contemplated by or necessary for giving full effect to the Refugee Convention, including matters provided for in section 403:
   (e) prescribing procedures and other matters in respect of reconsiderations, appeals, and reviews under Part 7:
   (f) prescribing fees and charges in respect of any matters under this Act, and providing for exemptions from or refunds of any fees and charges, including matters provided for in sections 393 and 395:
-  (g) prescribing infringement offences against this Act in the case of carriers, or persons in charge, of craft:
+  (g) specifying the offences in this Act that are commercial craft infringement offences:
+  (ga) specifying the offences in this Act that are employment infringement offences:
   (h) setting the infringement fees payable in respect of infringement offences, which fees—
     (i) may differ for different infringement offences; and
     (ii) may differ for different classes of person; and
-    (iii) in the case of a person in charge of a craft, may not exceed $2,500; and
-    (iv) in the case of a carrier of a craft, may not exceed $5,000:
+    (iii)
+    (iv)
   (i) prescribing forms for the purposes of this Act, including the form of infringement notices and infringement offence reminder notices:
   (j) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made for the purposes of this Act, and the maximum amounts of fines that may be imposed in respect of those offences (which maximum amounts may not exceed $5,000):
   (k) providing for transitional and related matters, as provided in section 472:
@@ -6195,7 +6312,7 @@ Any appeal against, or review proceedings in respect of, a decision of the Tribu
   (a) an employer allowed a person to undertake employment in the employer’s service; and
   (b) at the time that the person commenced employment in the employer’s service, the employer had a reasonable excuse under section 39(1B) of the former Act for allowing the person to undertake that employment; and
   (c) the person is not entitled under this Act to undertake that employment.
-(2) No employer to whom subsection (1) applies is liable for an offence against section 350(1)﻿(b) of this Act in respect of any period after the commencement of section 404 of this Act during which the employer continues to employ the employee, unless, at any time in the preceding 12 months, the employer has been informed in writing by an immigration officer (under either Act) that the employee is not entitled to undertake that employment.
+(2) No employer to whom subsection (1) applies is liable for an offence against section 350(1) of this Act in respect of any period after the commencement of section 404 of this Act during which the employer continues to employ the employee, unless, at any time in the preceding 12 months, the employer has been informed in writing by an immigration officer (under either Act) that the employee is not entitled to undertake that employment.
 
 ### 457 Evidence in proceedings
 In any proceedings relating to any matter under this Act, whether before the Tribunal or a court, a certificate signed by an immigration officer and containing a statement in relation to any person to the effect of 1 or more of the matters described in section 143(1) of the former Act is deemed to be proof of the truth of the statement, in the absence of proof to the contrary established on the balance of probabilities.
@@ -6369,6 +6486,11 @@ Nothing in regulations made under section 400 for the purpose in section 401A(1)
 (2) In this clause,—
   - **commencement date** means the date on which the Remuneration Authority Legislation Act 2022 comes into force
   - **member of the Tribunal** includes an acting member appointed under section 219A(1)﻿(b).
+
+### Part 3 — Provision relating to Worker Protection (Migrant and Other Employees) Act 2023
+
+### 5 Power to access employment documents
+The power in section 275A to require a document applies on and from the commencement of that section, even if the document was created before that commencement.
 
 ## Schedule 1 — Convention Relating to the Status of Refugees
 
