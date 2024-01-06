@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-01-06_
 
 > Title
 
@@ -80,6 +80,7 @@ _Consolidation as at 2023-12-23_
     (jh) section 30 of the COVID-19 Public Health Response Act 2020; or
     (ji) section 70 of the Data and Statistics Act 2022; or
     (jj) section 27 of the Freedom Camping Act 2011; or
+    (jk) section 362 of the Immigration Act 2009; or
     (jk)
     (k) any provision of any other Act providing for the use of the infringement notice procedure under section 21
   - **infringement offence** means any offence under any Act in respect of which a person may be issued with an infringement notice
