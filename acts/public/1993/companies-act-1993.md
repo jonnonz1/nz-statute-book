@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2023-08-04_
+_Consolidation as at 2024-01-06_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -6729,6 +6729,8 @@ Any person who, not being incorporated with limited liability, whether alone or 
   (b) a person has committed an offence for which the person is liable (whether convicted or not) under this Part; or
   (ba) a person has been convicted of an offence under section 143A(1)﻿(d) or 143B(1) of the Tax Administration Act 1994; or
   (bb) a person has been convicted of an offence under section 148 of the Tax Administration Act 1994 of aiding, abetting, inciting, or conspiring with another person to commit an offence against section 143B(1) of that Act; or
+  (bc) a person has been convicted of an offence under section 351 of the Immigration Act 2009 (exploitation of unlawful employees and temporary workers) and the offence was enabled by, or otherwise related to, the use of a company; or
+  (bd) a person has been convicted of an offence under section 98D of the Crimes Act 1961 (trafficking in persons) and the offence was enabled by, or otherwise related to, the use of a company; or
   (c) a person has, while a director of a company and whether convicted or not,—
     (i) persistently failed to comply with this Act, the Financial Markets Conduct Act 2013, the Takeovers Act 1993, or the takeovers code in force under that Act or, if the company has failed to so comply, persistently failed to take reasonable steps to obtain compliance with those Acts or the code; or
     (ii) been guilty of fraud in relation to the company or of a breach of duty to the company or a shareholder; or
