@@ -1,5 +1,5 @@
 # Fair Pay Agreements Act Repeal Act 2023
-_Consolidation as at 2023-12-19_
+_Consolidation as at 2024-01-18_
 
 ### 1 Title
 This Act is the Fair Pay Agreements Act Repeal Act 2023.
