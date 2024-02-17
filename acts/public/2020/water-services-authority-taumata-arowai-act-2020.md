@@ -1,5 +1,5 @@
 # Taumata Arowai–the Water Services Regulator Act 2020
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-02-17_
 
 ### 1 Title
 This Act is the Taumata Arowai–the Water Services Regulator Act 2020.
@@ -25,18 +25,27 @@ In this Act, unless the context otherwise requires,—
   - **drinking water** has the meaning given by section 6 of the Water Services Act 2021
   - **drinking water network** has the meaning given to by section 9 of the Water Services Act 2021
   - **drinking water supplier** has the meaning given by section 8 of the Water Services Act 2021
+  - **green water services infrastructure** —
+    (a) means a natural or semi-natural area, feature, or process that mimics natural areas, features, or processes that are planned or managed to provide water services; and
+    (b) includes an engineered system that is an area, feature, or process that complies with paragraph (a)
   - **Māori Advisory Group** means the Māori Advisory Group established by section 14
+  - **overland flow path** means any flow path taken by stormwater on the surface of land
   - **premises** and have the meanings given in section 2 of the Residential Tenancies Act 1986
   - ****
   - **responsible Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
-  - **stormwater network** means the infrastructure and processes that—
-    (a) are used to collect, treat, drain, store, reuse, or discharge stormwater in an urban area; and
-    (b) are operated by, for, or on behalf of one of the following:
-      (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
-      (ii) a department:
-      (iii) the New Zealand Defence Force
+  - **stormwater network** —
+    (a) means the infrastructure and processes that—
+      (i) are used to collect, treat, drain, store, reuse, or discharge stormwater in an urban area; and
+      (ii) are operated by, for, or on behalf of one of the following:
+        (A) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+        (B) a department:
+        (C) the New Zealand Defence Force; and
+    (b) includes—
+      (i) an overland flow path:
+      (ii) green water services infrastructure that delivers stormwater services:
+      (iii) watercourses that are part of, or related to, the infrastructure described in paragraph (a)﻿(i)
   - **stormwater network operator** means—
-    (a) each of the following, to the extent that they operate a stormwater network or supervise its operation or aspects of its operation:
+    (a) each of the following entities (to the extent that a stormwater network is operated, or its operation or aspects of its operation are supervised, by, for, or on behalf of the entity):
       (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
       (ii) a department listed in Part 1 of Schedule 2 of the Public Service Act 2020:
       (iii) the New Zealand Defence Force; and
@@ -55,7 +64,7 @@ In this Act, unless the context otherwise requires,—
       (ii) a department:
       (iii) the New Zealand Defence Force
   - **wastewater network operator** means—
-    (a) each of the following, to the extent that they operate a wastewater network or supervise its operation or aspects of its operation:
+    (a) each of the following entities (to the extent that a wastewater network is operated, or its operation or aspects of its operation are supervised, by, for, or on behalf of the entity):
       (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
       (ii) a department listed in Part 1 of Schedule 2 of the Public Service Act 2020:
       (iii) the New Zealand Defence Force; and
@@ -63,7 +72,9 @@ In this Act, unless the context otherwise requires,—
     (c) an organisation or individual involved in the operation of a wastewater network if the organisation or individual is authorised or included on a register in accordance with regulations made under section 200 of the Water Services Act 2021
   - **water** —
     (a) has the same meaning as in section 2(1) of the Resource Management Act 1991; but
-    (b) includes water in any form while in any pipe, tank, or cistern.
+    (b) includes water in any form while in any pipe, tank, or cistern
+  - **water services** means services relating to water supply, wastewater, and stormwater
+  - **watercourse** means a watercourse that is part of, or related to, the drainage or discharge of stormwater in an urban area.
 
 ### 5 Māori interests
 In order to recognise and respect the Crown’s responsibility to consider and provide for Māori interests,—
