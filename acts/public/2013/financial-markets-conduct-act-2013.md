@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2023-08-23_
+_Consolidation as at 2024-02-17_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -294,7 +294,7 @@ This Act has the following additional purposes:
     (a) a person that is a party to a listing agreement with a licensed market operator in relation to a licensed market (and includes a licensed market operator that has financial products quoted on its own licensed market):
     (b) a person to which paragraph (a) previously applied, in respect of any action or event or circumstance to which this Act applied at that time
   - **listing rules** means the rules for a financial product market that deal with the matters set out in section 328(3)﻿(a) to (e)
-  - **local authority** has the meaning set out in section 5(1) of the Local Government Act 2002 (and see also section 8 of the Local Government Borrowing Act 2011 and section 173E of the Water Services Entities Act 2022)
+  - **local authority** has the meaning set out in section 5(1) of the Local Government Act 2002 (and see also section 8 of the Local Government Borrowing Act 2011)
   - **managed investment product** has the meaning set out in section 8(3)
   - **managed investment scheme** has the meaning set out in section 9
   - **manager** means,—
