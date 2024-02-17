@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-02-17_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -45012,7 +45012,7 @@ In this Act, unless the context requires otherwise,—
       (vii) Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009):
       (viii) other than for the purposes of section CW 39(4) (Local authorities), Auckland Regional Holdings as established by section 18 of the Local Government (Auckland) Amendment Act 2004:
       (ix) the New Zealand Local Government Funding Agency Limited while it is a council-controlled organisation within the meaning of section 6(1) of the Local Government Act 2002:
-      (ixa) the Funding Agency as defined in section 173B of the Water Services Entities Act 2022 while it is a subsidiary of 1 or more water services entities (as defined in section 6 of that Act):
+      (ixa)
       (x) the Auckland Council Independent Maori Statutory Board established by section 81 of the Local Government (Auckland Council) Act 2009
   - **logbook term** is defined in section DE 8 (Logbook term)
   - **long-term bailment** is defined in section EC 27 (Some definitions) for the purposes of subpart EC (Valuation of livestock)
