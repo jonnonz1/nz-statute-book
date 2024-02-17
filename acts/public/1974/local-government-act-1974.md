@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-02-17_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -2691,7 +2691,7 @@ For the purposes of this Act, section 159 of the Customs Act 1966, so far as it 
   (j) to name and to alter the name of any road and to place on any building or erection on or abutting on any road a plate bearing the name of the road:
   (k) to sell the surplus spoil of roads:
   (l) for the purpose of providing access from one road to another, or from one part of a road to another part of the same road, to construct on any road, or on land adjacent to any road, elevators, moving platforms, machinery, and overhead bridges for passengers or other traffic, and such subways, tunnels, shafts, and approaches as are required in connection therewith.
-(2) Before exercising a power under this section to do anything that will or is likely to interfere with any pipe, line, or other work associated with wastewater or the supply of water, electricity, gas, or telecommunications, the council must give not less than 10 working days' notice in writing of the proposed interference to the owner of the pipe, line, or other work, except in the case of any emergency or danger.
+(2) Before exercising a power under this section to do anything that will or is likely to interfere with any pipe, line, or other work associated with wastewater, stormwater, or the supply of water, electricity, gas, or telecommunications, the council must give not less than 10 working days' notice in writing of the proposed interference to the owner of the pipe, line, or other work, except in the case of any emergency or danger.
 
 ### 319A Naming of roads
 If the council names any road for the first time, or alters the name of a road, the council must as soon as practicable send a copy of the relevant resolution to the Registrar-General of Land and the Surveyor-General.
@@ -4063,16 +4063,16 @@ The proposer of a transfer proposal filed under section 517E, or the proposer's 
   (c) every local authority within whose district the scheme to which the transfer proposal relates is wholly or partly situated or which is otherwise likely to be affected by the transfer of that scheme (other than the local authority that has control of that scheme).
 
 ### 517K Right to object to transfer proposal
-Where a transfer proposal is filed under section 517E in relation to any land drainage scheme or water race scheme,—may, in accordance with this Part, object to the transfer proposal.
-  (a) any scheme user who is the operator of a drainage system or water supply system that utilises the scheme to which the transfer proposal relates; and
-  (b) any other scheme user in relation to the scheme to which the transfer proposal relates; and
-  (c) any local authority within whose district the scheme to which the transfer proposal relates is wholly or partly situated or which is otherwise likely to be affected by the transfer of that scheme (including the local authority that has control of that scheme)—
+The following may, in accordance with this Part, object to a transfer proposal filed under section 517E in relation to any land drainage scheme or water race scheme:
+  (a) any scheme user who is the operator of a drainage system or water supply system that utilises the scheme to which the transfer proposal relates:
+  (b) any other scheme user in relation to the scheme to which the transfer proposal relates:
+  (c) any local authority within whose district the scheme to which the transfer proposal relates is wholly or partly situated or that is otherwise likely to be affected by the transfer of that scheme (including the local authority that has control of that scheme).
 
 ### 517L Notice of right to object
-Subject to section 517F(3), every local authority that receives a transfer petition and transfer proposal under section 517E must, as soon as practicable after such receipt, forward—a notice complying with section 517M.
-  (a) to every scheme user who is the operator of a drainage system or water supply system that utilises the scheme to which the transfer proposal relates; and
-  (b) to every other scheme user in relation to the scheme to which the transfer proposal relates; and
-  (c) to every local authority entitled under section 517K(c) to object to the transfer proposal,—
+Subject to section 517F(3), a local authority that receives a transfer petition and transfer proposal under section 517E must, as soon as practicable after receiving it, forward a notice that complies with section 517M to—
+  (a) every scheme user who is the operator of a drainage system or water supply system that utilises the scheme to which the transfer proposal relates; and
+  (b) every other scheme user in relation to the scheme to which the transfer proposal relates; and
+  (c) every local authority entitled under section 517K(c) to object to the transfer proposal.
 
 ### 517M Contents of notice of right to object
 Every notice given under section 517L must—
