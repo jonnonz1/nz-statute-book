@@ -1,5 +1,5 @@
 # Crown Organisations (Criminal Liability) Act 2002
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-02-17_
 
 ### 1 Title
 This Act is the Crown Organisations (Criminal Liability) Act 2002.
@@ -47,12 +47,13 @@ This Act binds the Crown.
   (b) an offence under the Health and Safety at Work Act 2015:
   (c) an offence against the Resource Management Act 1991:
   (d) an offence against the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012:
-  (e) an offence against Part 3 of the Children’s Act 2014.
+  (e) an offence against Part 3 of the Children’s Act 2014:
+  (f) an offence against the Water Services Act 2021.
 (2) This section does not affect any liability of a Crown organisation that arises independently of this section to prosecution for an offence.
 
 ### 7 Legal status of certain Crown organisations
 A Crown organisation that is not a body corporate has a separate legal personality for the purposes of—
-  (a) compliance with the obligations imposed by the Building Act 2004, the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, the Health and Safety at Work Act 2015, the Resource Management Act 1991, or Part 3 of the Children’s Act 2014; and
+  (a) compliance with the obligations imposed by the Building Act 2004, the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, the Health and Safety at Work Act 2015, the Resource Management Act 1991, the Water Services Act 2021, or Part 3 of the Children’s Act 2014; and
   (b) the bringing, hearing, and determination of proceedings against it for an offence referred to in section 6; and
   (c) the imposition of sentence if that organisation is convicted; and
   (d) the enforcement of any sentence imposed on that organisation.
