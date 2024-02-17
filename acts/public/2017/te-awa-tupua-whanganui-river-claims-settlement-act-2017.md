@@ -1,5 +1,5 @@
 # Te Awa Tupua (Whanganui River Claims Settlement) Act 2017
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2024-02-17_
 
 ### 1 Title
 This Act is the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017.
@@ -1466,8 +1466,10 @@ Section 15(2) applies to the following Acts:
   (s) Resource Management Act 1991 (in relation to preparing or changing a regional policy statement, regional plan, or district plan):
   (t) River Boards Act 1908:
   (u) Soil Conservation and Rivers Control Act 1941:
+  (ua) Taumata Arowai–the Water Services Regulator Act 2020:
   (v) Trade in Endangered Species Act 1989:
   (w) Walking Access Act 2008:
+  (wa) Water Services Act 2021:
   (x) Wild Animal Control Act 1977:
   (y) Wildlife Act 1953.
 
