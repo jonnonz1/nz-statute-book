@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-02-17_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -4315,6 +4315,9 @@ A hearing need not be held in accordance with this Act in respect of an applicat
 (2D) When considering a resource consent application that relates to a wastewater network, as defined in section 5 of the Water Services Act 2021, a consent authority—
   (a) must not grant the consent contrary to a wastewater environmental performance standard made under section 138 of that Act; and
   (b) must include, as a condition of granting the consent, requirements that are no less restrictive than is necessary to give effect to the wastewater environmental performance standard.
+(2E) When considering a resource consent application that relates to a stormwater network, as defined in section 5 of the Water Services Act 2021, a consent authority—
+  (a) must not grant the consent contrary to a stormwater environmental performance standard made under section 139A of that Act; and
+  (b) must include, as a condition of granting the consent, requirements that are no less restrictive than is necessary to give effect to the stormwater environmental performance standard.
 (3) A consent authority must not,—
   (a) when considering an application, have regard to—
     (i) trade competition or the effects of trade competition; or
@@ -4485,7 +4488,8 @@ When considering an application for a resource consent, the consent authority mu
   (b) the condition is directly connected to 1 or more of the following:
     (i) an adverse effect of the activity on the environment:
     (ii) an applicable district or regional rule, or a national environmental standard:
-    (iii) a wastewater environmental performance standard made under section 138 of the Water Services Act 2021; or
+    (iii) a wastewater environmental performance standard made under section 138 of the Water Services Act 2021:
+    (iv) a stormwater environmental performance standard made under section 139A of the Water Services Act 2021; or
   (c) the condition relates to administrative matters that are essential for the efficient implementation of the relevant resource consent.
 (2) Subsection (1) does not limit this Act or regulations made under it.
 (3) This section does not limit section 77A (power to make rules to apply to classes of activities and specify conditions), 106 (consent authority may refuse subdivision consent in certain circumstances), or 220 (condition of subdivision consents).
