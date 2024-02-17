@@ -1,5 +1,5 @@
 # Water Services Act 2021
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-02-17_
 
 ### 1 Title
 This Act is the Water Services Act 2021.
@@ -70,6 +70,9 @@ In this Act, unless the context otherwise requires,—
   - **drinking water supply** has the meaning set out in section 9
   - **end-point treatment** means treatment of drinking water at the final point of the supply at which the consumer can consume, use, or collect drinking water
   - **end-point treatment device** means a device used for end-point treatment as part of an acceptable solution or verification method
+  - **green water services infrastructure** —
+    (a) means a natural or semi-natural area, feature, or process that mimics natural areas, features, or processes that are planned or managed to provide water services; and
+    (b) includes an engineered system that is an area, feature, or process that complies with paragraph (a)
   - **illness** means any acute or chronic illness
   - **legislative requirement** —
     (a) means a requirement imposed by—
@@ -81,6 +84,7 @@ In this Act, unless the context otherwise requires,—
       (i) a wastewater environmental performance standard made under section 138; or
       (ii) an environmental performance measure or target for networks made under section 145
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
+  - **marae** includes the area of land on which all buildings such as wharenui, wharekai, wharepaku, papakāinga, and any other associated buildings are situated
   - **medical officer of health** means a medical officer of health appointed under the Health Act 1956
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
   - **National Policy Statement for Freshwater Management** means the National Policy Statement for Freshwater Management issued in 2020 under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2020 statement
@@ -97,6 +101,7 @@ In this Act, unless the context otherwise requires,—
     (e) does not include a person who merely advises or makes recommendations to a person referred to in any of paragraphs (a) to (d), or who completes discrete operational tasks concerning the supply:
     (f) does not include a Minister of the Crown acting in that capacity
   - **operator** has the meaning set out in section 11
+  - **overland flow path** means any flow path taken by stormwater on the surface of land
   - **owner** has the meaning set out in section 12
   - **point of supply** has the meaning set out in section 13
   - **raw water** means water that has been abstracted from a source, but has not been subject to any treatment or other processes that may be required to make it safe to consume
@@ -106,20 +111,28 @@ In this Act, unless the context otherwise requires,—
     (a) the water body from which water is abstracted for use in a drinking water supply (for example, a river, stream, lake, or aquifer); and
     (b) rainwater
   - **source water risk management plan** means a plan required by section 43
-  - **stormwater network** means the infrastructure and processes that—
-    (a) are used to collect, treat, drain, store, reuse, or discharge stormwater in an urban area; and
-    (b) are operated by, for, or on behalf of one of the following:
-      (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
-      (ii) a department:
-      (iii) the New Zealand Defence Force
+  - **stormwater network** —
+    (a) means the infrastructure and processes that—
+      (i) are used to collect, treat, drain, store, reuse, or discharge stormwater in an urban area; and
+      (ii) are owned or operated by, for, or on behalf of one of the following:
+        (A) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+        (B) a department:
+        (C) the New Zealand Defence Force; and
+    (b) includes—
+      (i) an overland flow path:
+      (ii) green water services infrastructure that delivers stormwater services:
+      (iii) watercourses that are part of, or related to, the infrastructure described in paragraph (a)
   - **stormwater network operator** means—
-    (a) each of the following, to the extent that they operate a stormwater network or supervise its operation or aspects of its operation:
+    (a) each of the following entities (to the extent that a stormwater network is operated, or its operation or aspects of its operation are supervised, by, for, or on behalf of the entity):
       (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
       (ii) a department:
       (iii) the New Zealand Defence Force; and
     (b) any person who operates a stormwater network, or any aspect of a stormwater network, for, or on behalf of, an organisation specified in paragraph (a)
   - **sufficient quantity** , in relation to the drinking water supplied to a point of supply, has the meaning set out in section 25(2)
   - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established by section 8 of the Taumata Arowai–the Water Services Regulator Act 2020
+  - **trade waste** means any waste that is—
+    (a) produced for an industrial or a trade purpose, or a related purpose; and
+    (b) discharged into a wastewater network
   - **unplanned** , in relation to the supply of drinking water, has the meaning set out in section 34(2)
   - **urban area** —
     (a) means an area identified in a district plan or proposed district plan as being primarily zoned for residential, industrial, or commercial activities, together with adjoining special-purpose and open-space zones, however described; but
@@ -131,7 +144,7 @@ In this Act, unless the context otherwise requires,—
       (ii) a department:
       (iii) the New Zealand Defence Force
   - **wastewater network operator** means—
-    (a) each of the following, to the extent that they operate a wastewater network or supervise its operation or aspects of its operation:
+    (a) each of the following entities (to the extent that a wastewater network is operated, or its operation or aspects of its operation are supervised, by, for, or on behalf of the entity):
       (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
       (ii) a department:
       (iii) the New Zealand Defence Force; and
@@ -141,6 +154,8 @@ In this Act, unless the context otherwise requires,—
     (a) has the same meaning as in section 2(1) of the Resource Management Act 1991; but
     (b) includes water in any form while in any pipe, tank, or cistern
   - **water carrier** means a drinking water supplier that transports drinking water (other than by reticulation) for the purpose of supplying it to consumers or another drinking water supplier.
+  - **water services** means services relating to water supply, wastewater, and stormwater
+  - **watercourse** means a watercourse that is part of, or related to, the drainage or discharge of stormwater in an urban area
 
 **Key terms**
 
@@ -223,7 +238,7 @@ In this Act, unless the context otherwise requires, point of supply, in relation
 ### 14 Te Mana o te Wai: meaning, application, effect
 Meaning and application
 (1) In this Act, Te Mana o te Wai—
-  (a) has the meaning set out in the National Policy Statement for Freshwater Management (as that term is defined in section 5 of this Act); and
+  (a) has the meaning set out in the National Policy Statement for Freshwater Management issued in 2020 under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2020 statement; and
   (b) applies, for the purposes of this Act, to water (as that term is defined in section 5 of this Act).
 Effect
 (2) When exercising or performing a function, power, or duty under this Act, a person must give effect to Te Mana o te Wai, to the extent that Te Mana o te Wai applies to the function, power, or duty.
@@ -344,7 +359,7 @@ A drinking water supplier must take all reasonably practicable steps to supply d
   (a) may restrict supply to a point of supply if the relevant customer has unpaid accounts for any previous supply of drinking water or has failed to remedy water leaks that the customer is obliged to remedy; but
   (b) must, despite any non-payment or failure referred to in paragraph (a), continue to provide a sufficient quantity of drinking water in accordance with subsection (1).
 (8) This section is subject to section 26 and to any contrary provisions in the Civil Defence Emergency Management Act 2002.
-(9) Nothing in this section limits or affects the power of a compliance officer appointed under the Water Services Entities Act 2022 to restrict the water supply to land or a building under section 373 of that Act.
+(9)
 
 ### 26 Duties where sufficient quantity of drinking water at imminent risk
 (1) If any drinking water supplier considers that the supplier’s ability to maintain a sufficient quantity of drinking water in accordance with section 25 is or may be at imminent risk for any reason, the supplier must—
@@ -465,10 +480,10 @@ A drinking water supplier must take all reasonably practicable steps to supply d
 (3) Taumata Arowai must, on receiving notification under subsection (2)﻿(b), notify the relevant medical officer of health that a notifiable risk or hazard exists.
 (4) A declaration made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 35A Water services entity or regional council may be required to warn users of domestic self-supply about contamination
+### 35A Notice to warn users of domestic self-supply about contamination
 (1) This section applies if a medical officer of health or Taumata Arowai believes that a source of water for domestic self-supply is contaminated in a way that affects, or is likely to affect, that domestic self-supply.
-(2) The medical officer of health or Taumata Arowai may issue a notice to the water services entity responsible for the service area or to the regional council responsible for the area to which water is supplied from that source, or to both.
-(3) A water services entity or regional council that receives a notice under subsection (2) must—
+(2) The medical officer of health or Taumata Arowai may issue a notice to any local authority, council-controlled organisation, or subsidiary of a council-controlled organisation that is responsible for the area to which water is supplied from that source.
+(3) A local authority, council-controlled organisation, or subsidiary of a council-controlled organisation that receives a notice under subsection (2) must—
   (a) ensure that an assessment is made as to whether any domestic self-supply is abstracting or otherwise receiving unsafe water from the source specified in the notice; and
   (b) if that assessment so requires, take all practicable steps—
     (i) to warn users of that supply—
@@ -504,14 +519,37 @@ Notification regarding operation of other suppliers
   (b) at particular times (for example, according to a schedule); or
   (c) continuously.
 
-### Subpart 4 — Consumer information
+### Subpart 4 — Consumer complaints
 
-### 38 Requirement for supplier to provide information to consumers
+### 38 Requirement for supplier to provide information to consumers and have complaints process
 (1) A drinking water supplier must, in accordance with regulations that apply to the supplier,—
   (a) provide any prescribed information to consumers; and
+  (b) establish, maintain, and administer a consumer complaints process; and
+  (c) report annually to Taumata Arowai on its consumer complaints process.
   (b)
   (c)
+(2) A drinking water supplier must ensure that complaints are dealt with—
+  (a) in accordance with its consumer complaints process; and
+  (b) in an efficient and effective manner.
 (2)
+
+### 39 Review by Taumata Arowai
+(1) A drinking water consumer who is not satisfied with the outcome of a complaint under this subpart may, in the approved form, request Taumata Arowai to review the complaint.
+(2) Taumata Arowai must—
+  (a) investigate the drinking water supplier’s handling of the complaint; and
+  (b) take any action that Taumata Arowai considers necessary as a result of Taumata Arowai’s investigation findings.
+(3) Taumata Arowai may appoint a person to provide a dispute resolution process on its behalf for the purposes of subsection (2).
+(4) Taumata Arowai may, at its discretion, decide to take no action or, as the case may require, no further action on any complaint if, in the opinion of Taumata Arowai,—
+  (a) the length of time that has elapsed between the date when the subject matter of the complaint arose and the date when the complaint was made is such that an investigation of the complaint is no longer practicable or desirable; or
+  (b) the complaint is trivial, frivolous, or vexatious or is not made in good faith; or
+  (c) the person alleged to be aggrieved does not want action to be taken or, as the case may be, continued; or
+  (d) the complainant does not have sufficient personal interest in the subject matter of the complaint; or
+  (e) there is in all the circumstances an adequate remedy or right of appeal, other than the right to petition the House of Representatives or to make a complaint to an Ombudsman, that it would be reasonable for the aggrieved person to exercise.
+
+### 40 Taumata Arowai to monitor compliance with complaints process
+Taumata Arowai must—
+  (a) monitor compliance with this subpart; and
+  (b) have regard to the scale, complexity, and risk profile of a drinking water supplier when performing the functions in this subpart.
 
 ### 39 Review by Taumata Arowai
 [Repealed]
@@ -678,7 +716,7 @@ Information sharing between suppliers and local authorities
   (f) requirements relating to end-point treatment (see section 28):
   (g) to have a drinking water safety plan (see section 30):
   (h) to keep records (see section 37):
-  (i) to provide information to consumers (see section 38).
+  (i) to provide information to consumers and have a consumer complaints process (see section 38).
 (2) An exemption must exempt a drinking water supplier, or class of supplier, from all the requirements described in subsection (1).
 (3) An application for an exemption under this section must be accompanied by the prescribed fee (if any).
 (4) The chief executive must not grant an exemption unless—
@@ -1474,12 +1512,12 @@ An enforceable undertaking takes effect and becomes enforceable when the chief e
 
 ### 140 Interpretation
 In this subpart and in section 205,—
-  - **drinking water network** means a drinking water supply that is operated by, or whose operation or aspects of whose operation is supervised by, one of the following:
+  - **drinking water network** means a drinking water supply that is operated by, for, or on behalf of, or whose operation or aspects of whose operation are supervised by, one of the following:
     (a) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
     (b) a department:
     (c) the New Zealand Defence Force
   - **drinking water network operator** means—
-    (a) each of the following, to the extent that they operate a drinking water network or supervise its operation or aspects of its operation:
+    (a) each of the following entities (to the extent that a drinking water network is operated, or its operation or aspects of its operation are supervised, by, for, or on behalf of the entity):
       (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
       (ii) a department:
       (iii) the New Zealand Defence Force; and
@@ -1539,7 +1577,8 @@ Taumata Arowai must monitor and report in accordance with this subpart on the en
 (1) Taumata Arowai may, by notice, require network operators to keep and maintain records relating to compliance with applicable—
   (a) environmental performance measures; and
   (b) environmental performance targets; and
-  (c) for wastewater network operators, wastewater environmental performance standards and the requirements of wastewater network risk management plans.
+  (c) for wastewater network operators, wastewater environmental performance standards and the requirements of wastewater network risk management plans; and
+  (d) for stormwater network operators, stormwater environmental performance standards.
 (2) Network operators must—
   (a) keep and maintain the records required by the notice; and
   (b) make the records available to Taumata Arowai in any format specified in the notice.
@@ -1557,8 +1596,8 @@ Taumata Arowai must monitor and report in accordance with this subpart on the en
 (2) Taumata Arowai is not required to include in the report required by subsection (1) information that is required to be provided in the annual drinking water regulation report under section 137.
 
 ### 148 Further provisions relating to reporting
-(1) To avoid doubt, the reporting requirements in sections 137 and 141 are in addition to the obligation to prepare, present, and publish an annual report under section 150 of the Crown Entities Act 2004.
-(2) Taumata Arowai must give effect to the reporting duties in sections 141 and 147 in a report that is—
+(1) To avoid doubt, the reporting requirements in sections 137 and 147 are in addition to the obligation to prepare, present, and publish an annual report under section 150 of the Crown Entities Act 2004.
+(2) Taumata Arowai must give effect to the reporting duties in sections 137 and 147 in a report that is—
   (a) separate from Taumata Arowai’s annual report; and
   (b) published in accordance with section 205.
 
@@ -1677,7 +1716,7 @@ Despite anything in section 162 or 163, the proceedings for an offence against s
 **Defence for strict liability offences**
 
 ### 165 Defence in prosecution for strict liability offence
-(1) This section applies in a prosecution for an offence against any section listed in the following table:The following table is small in size and has 2 columns. Column 1 is headed Section. Column 2 is headed Description.SectionDescription172Negligence in supply of unsafe drinking water173Offence involving contamination of raw water or drinking water175Negligence in failure to take immediate action when drinking water unsafe176Failure to notify Taumata Arowai of notifiable risk or hazard177Failure to provide sufficient quantity of drinking water178Supplying drinking water from unregistered supply179Providing false or misleading information180Failure to notify changes in details on register181Failure to comply with requirements relating to drinking water safety plan182Failure to comply with condition, direction, prohibition, or requirement183Failure to comply with compliance order or court order184Failure to keep and maintain records185Failure to comply with emergency directions 186Breach of requirements relating to authorisations187Offences relating to planned events or unplanned supply of drinking water188Failure to provide consumers with prescribed information192Failure to comply with duty of due diligence
+(1) This section applies in a prosecution for an offence against any section listed in the following table:The following table is small in size and has 2 columns. Column 1 is headed Section. Column 2 is headed Description.SectionDescription172Negligence in supply of unsafe drinking water173Offence involving contamination of raw water or drinking water175Negligence in failure to take immediate action when drinking water unsafe176Failure to notify Taumata Arowai of notifiable risk or hazard177Failure to provide sufficient quantity of drinking water178Supplying drinking water from unregistered supply179Providing false or misleading information180Failure to notify changes in details on register181Failure to comply with requirements relating to drinking water safety plan182Failure to comply with condition, direction, prohibition, or requirement183Failure to comply with compliance order or court order184Failure to keep and maintain records185Failure to comply with emergency directions 186Breach of requirements relating to authorisations187Offences relating to planned events or unplanned supply of drinking water188Failure to advise consumers about, provide, and report on complaint process192Failure to comply with duty of due diligence
 (2) The defendant has a defence if the defendant proves that—
   (a) the commission of the offence was due to—
     (i) the act or omission of another person; or
@@ -1712,7 +1751,7 @@ Despite anything in section 162 or 163, the proceedings for an offence against s
 (2) An officer, employee, or agent of the drinking water supplier does not commit an offence against this Act, except where the officer, employee, or agent commits an offence against section 186, 190, 191, or 192.
 
 ### 169 Liability of volunteers
-(1) Subsection (2) applies in a prosecution for an offence against any section listed in the following table:The following table is small in size and has 2 columns. Column 1 is headed Section. Column 2 is headed DescriptionSectionDescription172Negligence in supply of unsafe drinking water 175Negligence in failure to take immediate action when drinking water unsafe177Failure to provide sufficient quantity of drinking water188Failure to provide consumers with prescribed information192Failure to comply with duty of due diligence
+(1) Subsection (2) applies in a prosecution for an offence against any section listed in the following table:The following table is small in size and has 2 columns. Column 1 is headed Section. Column 2 is headed DescriptionSectionDescription172Negligence in supply of unsafe drinking water 175Negligence in failure to take immediate action when drinking water unsafe177Failure to provide sufficient quantity of drinking water188Failure to advise consumers about, provide, and report on complaint process192Failure to comply with duty of due diligence
 (2) A volunteer acting in that capacity may not be charged with an offence to which this subsection applies.
 (3) In this section, volunteer means a person who is acting on a voluntary basis (whether or not the person receives out-of-pocket expenses).
 
@@ -1891,14 +1930,17 @@ Despite anything in section 162 or 163, the proceedings for an offence against s
   (a) for an individual, to a fine not exceeding $50,000:
   (b) for a body corporate or an unincorporated body, to a fine not exceeding $200,000.
 
-**Offence relating to consumer information**
+**Offence relating to consumer complaints**
 
-### 188 Offence involving failure to provide consumers with prescribed information
+### 188 Offence involving failure to advise consumers about, provide, and report on complaint process
 (1) A drinking water supplier commits an offence against this section if the supplier fails,—
   (a) in accordance with regulations that apply to the supplier,—
     (i) to comply with the duty under section 38(1)﻿(a) to provide consumers with prescribed information; or
+    (ii) to comply with the duty under section 38(1)﻿(b) to establish, maintain, and administer a consumer complaints process; or
+    (iii) to comply with the duty under section 38(1)﻿(c) to report annually to Taumata Arowai on its consumer complaints process; or
     (ii)
     (iii)
+  (b) to comply with the duty under section 38(2) relating to consumer complaints.
   (b)
 (2) A supplier who commits an offence against subsection (1) is liable on conviction,—
   (a) for an individual, to a fine not exceeding $10,000:
@@ -2005,8 +2047,17 @@ If a court finds a person guilty of an offence against this Act, the court may i
   (a) prescribing the information that drinking water suppliers, or classes of drinking water supplier, must provide to consumers, including—
     (i) the legislative requirements that apply to a supplier’s drinking water supply; and
     (ii) whether drinking water that is supplied by a supplier meets those legislative requirements; and
+    (iii) how a consumer may make a complaint to a drinking water supplier; and
     (iii)
     (iv) the form in which information must be provided to consumers, and its frequency:
+  (b) prescribing requirements relating to consumer complaints that drinking water suppliers, or classes of drinking water supplier, must meet, including requirements for—
+    (i) investigating consumer complaints; and
+    (ii) the time frame for making decisions on consumer complaints; and
+    (iii) notifying decisions on complaints, including any action that was taken to resolve the matters that gave rise to the complaint; and
+    (iv) records that drinking water suppliers must keep about consumer complaints:
+  (c) prescribing requirements for annual reporting about consumer complaints to Taumata Arowai by drinking water suppliers, or classes of drinking water supplier, including—
+    (i) the number of complaints that have been received; and
+    (ii) the outcome of complaints, including any action taken:
   (b)
   (c)
   (d) prescribing matters relating to identity cards:
@@ -2032,10 +2083,8 @@ If a court finds a person guilty of an offence against this Act, the court may i
   (a) determine the costs of Taumata Arowai, including the costs of collecting the levy, to be covered by the levy; and
   (b) request, and have regard to, advice from Taumata Arowai on the proposed levy; and
   (c) consult the persons listed in subsection (1) who will be affected by the levy.
-(2A) Before making a recommendation under subsection (1) during the period starting on 1 July 2024 and ending on 1 July 2026, the Minister must also consult the following as if they were levy payers:
-  (a) water services entities established under section 11 of that Act:
-  (b) their territorial authority owners (as defined in section 6 of that Act).
-(2B) Subsection (2A) and this subsection are repealed on 1 July 2026.
+(2A)
+(2B)
 (3) Regulations made under this section must—
   (a) specify the amount of the levy, or method of calculating or ascertaining the amount of the levy; and
   (b) provide for the payment and collection of the levy; and
@@ -2115,125 +2164,25 @@ Taumata Arowai may recover any fee or levy payable to Taumata Arowai in any cour
 ## Part 5 — Amendments to Local Government Act 2002
 
 ### 207 Amendments to Local Government Act 2002
-This Part amends the Local Government Act 2002.
+[Repealed]
 
 ### 208 Subpart 1 of Part 7 replaced
-In Part 7, replace subpart 1 with:Specific obligations to make assessments of drinking water, wastewater, and sanitary services and to ensure communities have access to safe drinking waterInterpretationRequirement to assess drinking water servicesRequirements following assessment of community drinking water serviceDuty to ensure communities have access to drinking water if existing suppliers facing significant problemsRequirement to assess wastewater and other sanitary services
-  In this Part,—
-    - **assessment** ,—
-      (a) in relation to drinking water,—
-        (i) means an assessment of drinking water services available to communities in the district of the territorial authority, including private and community-owned or community-operated drinking water supplies; but
-        (ii) does not include assessments in relation to domestic self-suppliers; and
-      (b) in relation to wastewater and other sanitary services,—
-        (i) means an assessment of wastewater services and other sanitary services available to communities in the district of the territorial authority; but
-        (ii) does not include assessments in relation to individual properties
-    - **domestic self-supplier** has the meaning given in section 10 of the Water Services Act 2021
-    - **drinking water** has the meaning given in section 6 of the Water Services Act 2021
-    - **drinking water services** means the supply of drinking water to communities to the point of supply of each dwelling house and commercial premise to which drinking water is supplied
-    - **local government organisation** means a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation, that provides water services
-    - **point of supply** has the meaning given in section 13 of the Water Services Act 2021
-    - **sanitary services** has the same meaning as sanitary works in section 25(1)﻿(a), (b), (d), (h), and (i) of the Health Act 1956
-    - **sufficient quantity** , in relation to the drinking water supplied to a point of supply, has the meaning given in section 25 of the Water Services Act 2021
-    - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established under section 8 of the Taumata Arowai–the Water Services Regulator Act 2020
-    - **wastewater services** means sewerage, treatment and disposal of sewage, and stormwater drainage.
-  (1) A territorial authority must inform itself about the access that each community in its district has to drinking water services by undertaking an assessment of drinking water services in accordance with this section.
-  (2) An assessment of drinking water services must—
-    (a) identify each community that receives a drinking water service; and
-    (b) describe the nature of existing drinking water services to the community; and
-    (c) describe the characteristics of the community; and
-    (d) assess the extent to which the community is currently receiving, and will continue to receive, a sufficient quantity of drinking water, including a consideration of—
-      (i) the community’s existing access to drinking water services; and
-      (ii) any reasonably foreseeable risks to the community’s access to drinking water services in the future; and
-      (iii) the current and estimated future demands for drinking water services within the community; and
-    (e) describe the safety and quality of drinking water currently being supplied to the community, using information collected and made available by Taumata Arowai and any other organisations that the territorial authority considers relevant; and
-    (f) identify and assess any other public health risks relating to the drinking water services supplied to the community; and
-    (g) include an assessment of wastewater and sanitary services in accordance with section 128; and
-    (h) based on the assessment under paragraphs (b) to (g),—
-      (i) assess the consequences if the community loses access to drinking water services in the future, or is provided with drinking water services that are deficient in any way, including the implications for that community’s public health; and
-      (ii) outline a plan to provide for the community’s ongoing access to drinking water services.
-  (3) A territorial authority must conduct an assessment of drinking water services under subsection (2)—
-    (a) at least once every 3 years, which may be carried out when other assessments are carried out or at different times; or
-    (b) at an earlier date than required by paragraph (a), if the territorial authority is made aware of concerns about the access that a community has to drinking water services.
-  (4) A territorial authority must provide opportunities for any person to alert the territorial authority at any time to concerns about a community’s access to drinking water services.
-  (5) For the purposes of this section,—
-    (a) references to assessments include—
-      (i) assessing a service for the first time; and
-      (ii) reviewing and updating an existing assessment:
-    (b) the scope of each assessment must include—
-      (i) communities that receive drinking water services from the territorial authority or other local government organisation; and
-      (ii) communities that do not receive drinking water services from the territorial authority or other local government organisation; and
-      (iii) all types of water supply arrangements, including communities (and households within those communities) that do not receive drinking water services supplied by network reticulation:
-    (c) territorial authorities need not consider within an assessment drinking water services that are owned or operated by the Crown:
-    (d) an assessment may be carried out by the territorial authority, or undertaken on its behalf (whether in whole or in part) by another appropriate organisation, including an iwi or Māori organisation.
-  (1) On completion of an assessment of a community drinking water service, a territorial authority must—
-    (a) make the assessment available to the public on an Internet site maintained by or on behalf of the territorial authority; and
-    (b) provide Taumata Arowai with a copy of the assessment in electronic form.
-  (2) A territorial authority must also notify Taumata Arowai about—
-    (a) any suppliers of drinking water services that are, or appear to be, failing to meet the supplier’s statutory obligations or are at risk of doing so; and
-    (b) any other matters of concern arising from the assessment, including potential risks to communities affected by the assessment that relate to—
-      (i) any absence of, or deficiency in, a drinking water service; or
-      (ii) a drinking water supplier that is at risk of ceasing to provide a service.
-  (3) A territorial authority must also consider the findings and implications of the assessment in relation to—
-    (a) the territorial authority’s current and future infrastructure strategy and long-term plan; and
-    (b) the territorial authority’s district plan prepared under the Resource Management Act 1991; and
-    (c) the territorial authority’s broader duty to improve, promote, and protect public health within its district in accordance with section 23 of the Health Act 1956.
-  (1) Subsection (2) applies if—
-    (a) a territorial authority’s or Taumata Arowai’s assessment of a drinking water supply is that the supplier (not being the territorial authority) is facing a significant problem or potential problem with any of its drinking water services, and the territorial authority has notified Taumata Arowai of those concerns and discussed them with Taumata Arowai; or
-    (b) Taumata Arowai requires the territorial authority to take action under subsection (2).
-  (2) If this subsection applies, a territorial authority must—
-    (a) work collaboratively with the supplier, the consumers of the supply, and Taumata Arowai to identify, as the circumstances allow and within a time frame determined by Taumata Arowai, 1 or more of the following:
-      (i) an immediate solution to the problem:
-      (ii) a temporary solution to the problem:
-      (iii) a long-term, permanent solution to the problem; and
-    (b) ensure that drinking water is provided to the affected consumers, on a temporary or permanent basis, if—
-      (i) the supplier is unable to continue to provide a service that meets the statutory requirements; and
-      (ii) an alternative solution is not readily available, or cannot be agreed by the parties involved within the time frame determined by Taumata Arowai.
-  (3) For the purposes of this section,—
-    (a) a significant problem or potential problem includes where—
-      (i) a drinking water supplier has persistently failed to comply with legislative requirements; or
-      (ii) there is a serious risk to public health relating to the drinking water services provided by a drinking water supplier; or
-      (iii) a drinking water supplier has ceased to operate a drinking water service, or is, in Taumata Arowai’s opinion, at significant risk of ceasing to operate a service:
-    (b) if a territorial authority is obliged to ensure access to drinking water, the territorial authority may consider a range of options to fulfil its obligation, including—
-      (i) taking over the management and operations of the drinking water service, on a temporary or permanent basis:
-      (ii) ensuring drinking water continues to be provided through alternative supply arrangements:
-    (c) nothing in paragraph (b) obliges a territorial authority to provide the supply via a reticulated network:
-    (d) if a territorial authority takes over the management and operations of a drinking water service on a permanent basis, the territorial authority, Taumata Arowai, the former supplier, and (if relevant) the affected consumers must work together to determine how to deal with—
-      (i) any assets and liabilities that may relate to the service; and
-      (ii) any legal or other issues that may affect the territorial authority’s ability to manage and operate the service, such as access to the land on, or beneath which, assets are situated; and
-      (iii) how the territorial authority might be compensated for the costs incurred in taking over responsibility for the service:
-    (e) a territorial authority may charge for any drinking water services that are provided to affected consumers, and may recover its costs from the previous supplier, but, when making decisions about future charges and funding arrangements, the territorial authority must—
-      (i) take reasonable steps to ascertain and consider the financial circumstances facing the affected consumers; and
-      (ii) consider the range of funding sources provided for in its revenue and financing policy, including the potential use of general rates; and
-      (iii) on request, demonstrate that it has considered those factors.
-  (4) See also subpart 12 of Part 2 of the Water Services Act 2021 (statutory management and transfer of operations).
-  (1) A territorial authority must assess the provision within its district of—
-    (a) wastewater services; and
-    (b) other sanitary services.
-  (2) The purpose of an assessment under subsection (1) is to assess, from a public health perspective, the adequacy of wastewater services and other sanitary services available to communities within a territorial authority’s district, in light of—
-    (a) the health risks to communities arising from any absence of, or deficiency in, the services; and
-    (b) the quality of the services currently available to communities within the district; and
-    (c) the current and estimated future demands for any of those services; and
-    (d) the actual or potential consequences of stormwater and sewage discharges within the district.
-  (3) One type of service may be assessed in conjunction with another type of service.
+[Repealed]
 
 ### 209 Section 130 amended (Obligation to maintain water services)
-In section 130(3)﻿(d)﻿(ii), replace section 69S of the Health Act 1956 with section 25 of the Water Services Act 2021.
+[Repealed]
 
 ### 210 Section 131 amended (Power to close down or transfer small water services)
-In section 131(2)﻿(b) and (c)﻿(i), replace ; and, with or Taumata Arowai; and.
+[Repealed]
 
 ### 211 Section 146 amended (Specific bylaw-making powers of territorial authorities)
-In section 146, insert as subsections (2) and (3):
-  (2) If a territorial authority makes bylaws under section 145 or subsection (1) regulating a wastewater network, as defined in section 5 of the Water Services Act 2021, the bylaws must give effect to any wastewater environmental performance standards made under section 138 of that Act.
-  (3) Subsection (2) applies to bylaws made on and after the commencement of section 211 of the Water Services Act 2021.
+[Repealed]
 
 ### 212 Schedule 1AA amended
-In Schedule 1AA, after Part 4, insert:Provisions relating to Water Services Act 2021Requirements in subpart 1 of Part 7
-  Despite section 125(3), every territorial authority must complete an assessment of drinking water services in accordance with section 125 by 1 July 2026.
+[Repealed]
 
 ### 213 Schedule 10 amended
-In Schedule 10, replace clause 6(a) with:
-  (a) assessment of drinking water, wastewater, and other sanitary services under sections 125 and 128:
+[Repealed]
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
