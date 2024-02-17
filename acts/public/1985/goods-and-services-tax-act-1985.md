@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-02-17_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -3224,12 +3224,7 @@ Where—the supplier may increase the consideration for the supply by an amount 
 (2) In this section, Te Kōwhatu Tū Moana has the meaning given in section 4 of the New Plymouth District Council (Waitara Lands) Act 2018.
 
 ### 78I Support package payment made by water services entity to be zero-rated
-(1) A support package payment made by a water services entity is, when and after it is made, treated as being consideration for a taxable supply that is charged with tax at the rate of 0%.
-(2) In this section, support package payment made by a water services entity means a payment (of an amount, if any, determined by the chief executive of the department under clause 36 of Schedule 1 of the Water Services Entities Act 2022)—
-  (a) made by a water services entity to a local authority (within the meaning of the Local Government Act 2002); and
-  (b) made under the Three Waters Reforms Programme—Support package (announced in July 2021); and
-  (c) made under that package’s “no worse off” component; and
-  (d) arising from a funding proposal made or finalised before, on, or after the commencement of this section.
+[Repealed]
 
 ### 79 Disclosure of information
 (1) No obligation as to secrecy or other restriction upon the disclosure of information imposed by any enactment or otherwise shall prevent either—from disclosing to each other information obtained for revenue-gathering purposes and which is required to be disclosed by the persons authorised by this subsection for the same purpose to give effect to the provisions of this Act.
