@@ -1,13 +1,13 @@
 # Deposit Takers Act 2023
-_Consolidation as at 2023-07-06_
+_Consolidation as at 2024-02-17_
 
 ### 1 Title
 This Act is the Deposit Takers Act 2023.
 
 ### 2 Commencement
-(1) Subpart 2 of Part 3, sections 238 to 244, subpart 7 of Part 6, and subpart 5 of Part 8 come into force on the day after the date of Royal assent.
-(2) The rest of this Act comes into force on a date or dates set by Order in Council.
-(3) Any part of the Act that has not come into force by the sixth anniversary of Royal assent comes into force then.
+(1) Subpart 2 of Part 3, sections 238 to 244, subpart 7 of Part 6, and subpart 5 of Part 8 come into force on 7 July 2023.
+(2) The rest of this Act comes into force on a date or dates set by Order in Council.The following table is large in size and has 3 columns that are grouped under the heading Provisions commenced by Order in Council.Provisions commenced by Order in CouncilProvisionsCommencement dateOrder in CouncilPart 1, other than section 8; section 8 (but only for the purpose of giving effect to clauses 7 and 22 of Schedule 1); sections 98 to 100; subpart 9 of Part 4; subpart 4 of Part 5; subpart 6 of Part 5; sections 190, 191, and 195; subparts 3 and 4 of Part 8; sections 474, 475, and 479(3); section 495(1) (but only for the purpose of giving effect to items relating to new section 49(2)﻿(d) of the Reserve Bank of New Zealand Act 2021 and new section 31(3)﻿(ea) of the Russia Sanctions Act 2022)1 April 2025Clause 2(1) of the Deposit Takers Act Commencement Order 2025Section 8 (but only for the purpose of giving effect to clauses 1 to 6, 15, and 17 of Schedule 1); subparts 2, 3, and 5 of Part 5; sections 192 to 194; subparts 2 to 5 of Part 6; sections 235 to 237; subparts 8 to 10 of Part 6; sections 484, 487, 490 to 492, and 494; section 495 (but only for the purpose of giving effect to items relating to new section 286(1)﻿(j) of the Companies Act 1993; new section 248(2A) of the Reserve Bank of New Zealand Act 2021; and Financial Markets Conduct Regulation 2014)1 July 2025Clause 2(2) of the Deposit Takers Act Commencement Order 2025This note is not part of the Act.
+(3) Any part of the Act that has not come into force by 6 July 2029 comes into force then.
 (4) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Preliminary provisions
@@ -3875,7 +3875,7 @@ A notice under section 449 or 450 may specify 1 or more of the following:
 A relevant person must also provide to the Bank the information that is required by the Bank to assist the Bank in performing or exercising its functions, powers, or duties in relation to the thing (for example, to supply further information in support of an application or request).
 
 ### 453 Bank may refuse to act if requirements not complied with
-(1) The Bank may refuse to perform or exercise a function, power, or duty if— ExampleAn applicant for a licence does not apply in the manner specified by the Bank in a notice issued under section 450.The Bank may refuse to consider the application.
+(1) The Bank may refuse to perform or exercise a function, power, or duty if—ExampleAn applicant for a licence does not apply in the manner specified by the Bank in a notice issued under section 450.The Bank may refuse to consider the application.
   (a) a thing is not done in the manner specified by the Bank in a notice given or issued under this subpart; or
   (b) a person fails to comply with section 452.
 (2) This section does not limit any other provision of this Act that provides for an offence, a penalty, or any other consequence for a failure to do a thing in the manner specified by the Bank.
@@ -4420,7 +4420,7 @@ A covered bond programme that, immediately before the commencement of this claus
     (iv) a Crown entity under section 7(1)﻿(a) of the Crown Entities Act 2004:
     (v) the Bank or any subsidiary of the Bank:
     (vi) a person, or a member of a class of persons, that is declared by Order in Council not to be a deposit taker for the purposes of this Act (see clause 6).
-(2) A person carries on the business of borrowing and lending money if the person— BorrowingLending
+(2) A person carries on the business of borrowing and lending money if the person—BorrowingLending
   (a) carries on a business that includes doing 1 or more of the following:
     (i) making DT regulated offers of debt securities:
     (ii) making, in New Zealand, offers of any debt securities of a class that is declared by Order in Council to be debt securities for the purposes of this subparagraph:
