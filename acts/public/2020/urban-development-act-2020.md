@@ -1,5 +1,5 @@
 # Urban Development Act 2020
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-02-17_
 
 ### 1 Title
 This Act is the Urban Development Act 2020.
@@ -286,6 +286,7 @@ In this Act, unless the context otherwise requires,—
     (e) a local purpose reserve
   - **specified work** has the meaning set out in section 252
   - **statutory acknowledgment** means redress of that name included in certain Treaty settlement Acts
+  - **stormwater network** has the same meaning as in section 5 of the Water Services Act 2021
   - **supporting documents** means the documents required by sections 69 to 71
   - **targeted rate** has the meaning set out in section 182(1)
   - **targeted rates order** is defined in section 182(1) for the purposes of Part 4
@@ -308,6 +309,7 @@ In this Act, unless the context otherwise requires,—
   - **urban renewal** is defined in section 251 for the purposes of Part 5
   - **Utilities Access Code** means the Code approved under the Utilities Access Act 2010
   - **utility operator** has the same meaning as in section 4 of the Utilities Access Act 2010
+  - **wastewater network** has the same meaning as in section 5 of the Water Services Act 2021
   - **wastewater services** has the same meaning as in section 124 of the Local Government Act 2002
   - **water-related infrastructure** has the meaning set out in section 142(1)
   - **water-related infrastructure powers** has the meaning set out in section 150(1)
@@ -1863,10 +1865,9 @@ Bylaw changes
   - **owner** , in relation to land that is a road and the exercise of water-related infrastructure powers, means the person that has jurisdiction over the road (and, if Kāinga Ora has the roading powers in relation to the road, means Kāinga Ora)
   - **relevant territorial authority** , in Auckland, includes Auckland Transport
   - **water-related infrastructure** means infrastructure associated with, or necessary for, any of the following:
-    (a) the supply of reticulated drinking water:
-    (b) wastewater services:
-    (c) the supply of water through water races:
-    (d) land drainage and rivers clearance.
+    (a) three waters services:
+    (b) the supply of water through water races:
+    (c) drainage and rivers clearance.
 (2) A reference to alter or construct includes a reference to—
   (a) carrying out preliminary work associated with those works (for example, design); and
   (b) carrying out work subsequent to those works for the purpose of ensuring operability of those works (for example, testing).
