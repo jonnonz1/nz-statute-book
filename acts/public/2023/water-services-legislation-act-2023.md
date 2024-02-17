@@ -1,5 +1,5 @@
 # Water Services Legislation Act 2023
-_Consolidation as at 2023-08-30_
+_Consolidation as at 2024-02-17_
 
 ### 1 Title
 This Act is the Water Services Legislation Act 2023.
