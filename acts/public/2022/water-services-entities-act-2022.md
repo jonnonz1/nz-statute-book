@@ -1,5 +1,5 @@
 # Water Services Entities Act 2022
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-02-17_
 
 ### 1 Title
 This Act is the Water Services Entities Act 2022.
