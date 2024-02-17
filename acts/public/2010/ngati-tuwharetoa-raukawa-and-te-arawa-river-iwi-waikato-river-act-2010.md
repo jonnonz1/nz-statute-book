@@ -1,5 +1,5 @@
 # Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2024-02-17_
 
 ### 1 Title
 This Act is the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010.
@@ -271,6 +271,13 @@ The matters provided for in sections 10 to 35 are also provided for in sections 
   (l) River Boards Act 1908:
   (m) Soil Conservation and Rivers Control Act 1941:
   (n) Walking Access Act 2008.
+(8) Subsection (9) applies to a person carrying out functions or exercising powers under an enactment specified in subsection (10) if the functions or powers relate to—
+  (a) the Waikato River; or
+  (b) activities in the catchment that affect the Waikato River.
+(9) Except as otherwise expressly provided in this Act, the person must have particular regard to the vision and strategy in addition to any requirement specified in the enactment for carrying out the functions or exercising the powers.
+(10) The enactments are—
+  (a) the Taumata Arowai–the Water Services Regulator Act 2020; and
+  (b) the Water Services Act 2021.
 
 **Reviews**
 
