@@ -1,12 +1,12 @@
 # Social Workers Registration Legislation Act 2019
-_Consolidation as at 2019-02-27_
+_Consolidation as at 2024-02-22_
 
 ### 1 Title
 This Act is the Social Workers Registration Legislation Act 2019.
 
 ### 2 Commencement
 (1) Sections 4, 6, 9, 10, 11, 13, 14, 15, 17, 19, 21, 23, 28, 30, 31, 37, 41, 43, 46, 48, 51, 52, 54, 56, 59, 60, 62, 63, 67, 81, 83, 84, 86, 92, 97, 102, 108, 110, 113, 124, 136, 140, 142, 144(2), and Part 2 of Schedule 1 come into force on the day that is 2 years after the date on which this Act receives the Royal assent.
-(2) Section 24 comes into force on the day that is 5 years after the date on which this Act receives the Royal assent.
+(2) Section 24 comes into force on 28 February 2026.
 (3) Section 116 comes into force on the day that is 3 months after the date on which this Act receives the Royal assent.
 (4) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
 
