@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2024-02-22_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -4493,41 +4493,23 @@ A power in this Part to make any Orders in Council is not limited by any power o
 (8) An order under this section must also be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
 ### 452A Orders in Council: mandatory annual average weekly earnings adjustment of rates of main benefits
-(1) The rates of benefits set out in the provisions to which this subsection applies must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate is the rate at that date adjusted by any percentage movement upwards in average ordinary time weekly earnings between—
-  (a) average ordinary time weekly earnings, expressed on a base quarter, last published before 1 March in that year; and
-  (b) average ordinary time weekly earnings expressed on the same base quarter of the year immediately preceding the year of the base quarter referred to in paragraph (a).
-(2) Subsection (1) applies to the following provisions:
-  (a) Part 1 of Schedule 4 (rates of jobseeker support):
-  (b) Part 2 of Schedule 4 (rates of sole parent support):
-  (c) Part 3 of Schedule 4, including clause 2, but excluding clauses 3 and 4 (rates of supported living payment):
-  (d) Part 6 of Schedule 4, other than any rate of incentive payment in subpart 3 of Part 6 of Schedule 4 (rates and component of youth payment and young parent payment, and criteria for incentive payments):
-  (e) Part 10 of Schedule 4 (rates of generally abolished former widows’ benefits under section 21 of the Social Security Act 1964 as saved by clause 55 of Schedule 1 for reciprocity agreement applicants or recipients):
-  (f) Part 11 of Schedule 4 (rates of generally abolished former DPB for solo parents under section 27B of the Social Security Act 1964 as saved by clause 55 of Schedule 1 for reciprocity agreement applicants or recipients).
-(3) An adjustment under subsection (1) also affects the maximum rate at which MSD may grant an emergency benefit (see section 63(4)).
-(4) An adjustment under subsection (1) must not reduce the weekly amounts of benefits payable under those Parts of Schedule 4.
-(5) Every Order in Council made under subsection (1)—
-  (a) comes into force or is considered to come into force on 1 April of the calendar year in which it is made; and
-  (b) applies to benefits payable on and after that date.
-(5A) An order under this section—
-  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
-  (b) commences in accordance with subsection (5), even if it is not yet published.
-(6) In this section,—
-  - **average ordinary time weekly earnings** means average ordinary time weekly earnings (per full-time equivalent) as determined by the QES (after the deduction of standard tax, and the earner levies, payable as at 1 April of the following year, on those earnings)
-  - **earner levies** means the levies payable under section 219(1) of the Accident Compensation Act 2001
-  - **QES** means the Quarterly Employment Survey of wages published (as original, or revised, statistics) by Statistics New Zealand or, if that survey ceases to be published, any measure certified by the Government Statistician as being equivalent to that survey
-  - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with the tax code “M” stated in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994.
+[Repealed]
 
-### 453 Orders in Council: mandatory annual CPI adjustment of rates of certain benefits that are not main benefits
+### 453 Orders in Council: mandatory annual CPI adjustment of rates of certain benefits
 (1) The rates of benefits set out in the provisions to which this subsection applies must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate is the rate at that date adjusted by any percentage movement upwards in the CPI between—
   (a) the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December; and
   (b) the CPI for the quarter ended with the immediately preceding 31 December.
 (2) Subsection (1) applies to the following provisions:
-  (a) Part 4 of Schedule 4 (orphan’s benefit):
-  (b) Part 5 of Schedule 4 (unsupported child’s benefit):
-  (c) Part 12 of Schedule 4 (rates of benefits payable to long-term hospital patients).
-(3) The adjustments (by any percentage movement upwards in the CPI) required under subsection (1) as at 1 April in any year from 2018 to 2021 (inclusive) must, despite subsections (1) and (2), be calculated,—
-  (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the CPI; and
-  (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the Consumers Price Index (less cigarettes and tobacco subgroup) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
+  (a) Part 1 of Schedule 4 (rates of jobseeker support):
+  (b) Part 2 of Schedule 4 (rates of sole parent support):
+  (c) Part 3 of Schedule 4, including clause 2, but excluding clauses 3 and 4 (rates of supported living payment):
+  (d) Part 4 of Schedule 4 (orphan’s benefit):
+  (e) Part 5 of Schedule 4 (unsupported child’s benefit):
+  (f) Part 6 of Schedule 4, other than any rate of incentive payment in subpart 3 of Part 6 of Schedule 4 (rates and component of youth payment and young parent payment, and criteria for incentive payments):
+  (g) Part 10 of Schedule 4 (rates of generally abolished former widows’ benefits under section 21 of the Social Security Act 1964 as saved by clause 55 of Schedule 1 for reciprocity agreement applicants or recipients):
+  (h) Part 11 of Schedule 4 (rates of generally abolished former DPB for solo parents under section 27B of the Social Security Act 1964 as saved by clause 55 of Schedule 1 for reciprocity agreement applicants or recipients):
+  (i) Part 12 of Schedule 4 (rates of benefits payable to long-term hospital patients).
+(3) An adjustment under subsection (1) also affects the maximum rate at which MSD may grant an emergency benefit (see section 63(4)).
 (4) An adjustment under subsection (1) must not reduce the weekly amounts of benefits payable under those Parts of Schedule 4.
 (5) Every Order in Council made under subsection (1)—
   (a) comes into force or is considered to come into force on 1 April of the calendar year in which it is made; and
@@ -4933,8 +4915,8 @@ Reciprocity agreement recipients' entitlement continues as if former benefits no
   (a) the person continues to meet the conditions of entitlement to that benefit in those provisions; and
   (b) the agreement or convention, or any replacement agreement or convention, continues in force in relation to New Zealand; and
   (c) the person continues to be ordinarily resident in New Zealand or the overseas country to which that agreement or convention applies.
-Alteration, and annual average weekly earnings adjustment, of rates of saved former benefits
-(6) Sections 452 and 452A authorise amendments and require adjustments to Parts 10 and 11 of Schedule 4.
+Alteration, and annual CPI adjustment, of rates of saved former benefits
+(6) Sections 452 and 453 authorise amendments and require adjustments to Parts 10 and 11 of Schedule 4.
 
 ### 56 Entitlement cards regulations
 Regulations made under section 132A of the Social Security Act 1964 are saved as if they were made under section 437.
