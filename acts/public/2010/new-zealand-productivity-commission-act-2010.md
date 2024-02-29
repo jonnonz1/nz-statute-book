@@ -1,5 +1,5 @@
 # New Zealand Productivity Commission Act 2010
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2024-02-29_
 
 ### 1 Title
 This Act is the New Zealand Productivity Commission Act 2010.
