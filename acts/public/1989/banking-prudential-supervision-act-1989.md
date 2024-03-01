@@ -1,5 +1,5 @@
 # Banking (Prudential Supervision) Act 1989
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2024-03-01_
 
 > Title
 
@@ -27,7 +27,6 @@ The purpose of this Act is to promote the prosperity and well-being of New Zeala
 (1) In this Act, unless the context otherwise requires,—
   - **banking group** has the meaning given to it in the Orders in Council made under section 81
   - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
-  - **designated settlement system** has the meaning set out in section 156M
   - **director** , except in relation to the Bank, means—
     (a) a person occupying the position of director by whatever name called:
     (b) in the case of an entity that does not have directors as such, any trustee, manager, or other person who acts in relation to that entity in the same or a similar fashion as a director would act were that entity a company incorporated in New Zealand under the Companies Act 1993
@@ -59,20 +58,11 @@ The purpose of this Act is to promote the prosperity and well-being of New Zeala
     (b) another person who may be nominated by that bank and agreed to in writing by the Bank; or
     (c) if section 82(3) applies, an employee of that bank who has been specified by the Bank under that section
   - **non-voting security** , in relation to any body, means a specified security that does not confer a voting right
-  - **operator** , in relation to either a settlement system or a payment system, means any person that provides clearing, settlement, or processing services in respect of that system
   - **overseas bank** means any person that is formed, licensed, or registered as a bank in any country other than New Zealand
   - **overseas person** means—
     (a) a body corporate incorporated outside New Zealand; or
     (b) an unincorporated body that has its head office or principal place of business outside New Zealand
   - **parent bank** means an overseas bank that is a holding company of a registered bank
-  - **participant** , in relation to either a settlement system or a payment system,—
-    (a) means a person who has agreed to participate in either a settlement system or a payment system in accordance with the rules of that system; and
-    (b) in the case of a designated settlement system, includes an operator of the settlement system if the designation under section 156N(3)﻿(b) so provides
-  - **payment system** —
-    (a) means a system or arrangement for—
-      (i) the clearing or settlement of payment obligations; or
-      (ii) the processing of payment instructions; and
-    (b) includes any instruments, rules, and procedures that relate to the matters referred to in paragraph (a)
   - **qualifying interest** , in relation to a specified security, means—
     (a) the legal or beneficial ownership of the specified security; or
     (b) the power to exercise, or control the exercise of, any voting right attached to the specified security; or
@@ -86,11 +76,9 @@ The purpose of this Act is to promote the prosperity and well-being of New Zeala
     (b) includes—
       (i) any of those words as part of any other word:
       (ii) a translation of those words into another language (whether or not the translation of those words is part of any other word)
-  - **settlement system** has the meaning set out in section 156M
   - **significant influence** , in relation to a registered bank, means—
     (a) the ability to directly or indirectly appoint 25% or more of the board of directors (or other persons exercising powers of management, however described) of the registered bank; or
     (b) a direct or indirect qualifying interest in 10% or more of the voting securities issued or allotted by the registered bank
-  - **specified operator** has the meaning set out in section 156M
   - **specified security** has the meaning given to security in section 6(1) of the Overseas Investment Act 2005
   - **subsidiary** means a subsidiary within the meaning of section 5(1)﻿(a)﻿(iii) and (b) of the Companies Act 1993
   - **trade mark** has the meaning given to it by section 5(1) of the Trade Marks Act 2002
@@ -1379,12 +1367,15 @@ Subject to section 142, every statutory manager of a registered bank shall compl
     (i) the termination, in accordance with the netting agreement, of all or any transactions that are subject to the netting agreement by reason of the occurrence of an event specified in the netting agreement, being an event (including the appointment of a statutory manager) occurring not later than the commencement of statutory management; or
     (ii) the taking of an account, in accordance with the netting agreement, of all money due between the parties to the netting agreement in respect of transactions affected by the termination; and
   (c) nothing in subsection (1) limits or prevents the exercise of any right referred to in paragraphs (d) to (f) of that subsection in respect of any property of that registered bank to the extent that the right is exercised to enforce, or to assist in enforcing, the due performance, by that registered bank, of obligations entered into by that registered bank under a recognised multilateral netting agreement (within the meaning of section 310A of the Companies Act 1993).
-(8) In the case of netting under the rules of a designated settlement system,—
+(8) In the case of netting under the rules of a designated FMI to which subpart 5 of Part 3 of the Financial Market Infrastructures Act 2021 applies,—
   (a) nothing in subsection (1) limits or prevents the exercise of any rights relating to the calculation of a netted balance under those rules; and
   (b) nothing in subsection (1) limits or prevents the exercise of any right referred to in paragraphs (d) to (f) of that subsection in respect of any property of that registered bank if the right that is exercised—
-    (i) is provided under the rules of the designated settlement system; and
+    (i) is provided under the rules of the designated FMI; and
     (ii) has been granted to secure, or to assist in securing, the due performance, by that registered bank, of obligations entered into by that registered bank under those rules.
-(9) For the purpose of subsection (8), netted balance and netting have the meanings set out in section 156L.
+(9) In subsection (8) and this subsection,—
+  (a) designated FMI, netting, and participant have the meanings given in section 5 of the Financial Market Infrastructures Act 2021; and
+  (b) netted balance means any amount calculated in accordance with the rules of a designated FMI as the net debit payable by, or on behalf of, a participant of the designated FMI to, or on behalf of, another participant of that designated FMI for all or any claims or obligations to which those rules apply; and
+  (c) rules is to be read in accordance with section 35 of the Financial Market Infrastructures Act 2021.
 (9A) Nothing in subsection (1) limits or prevents the exercise of any rights to enforce a security interest over collateral to the extent that the security interest secures payment or performance of an obligation under or in relation to a qualifying derivative if—
   (a) the counterparties to the derivative are—
     (i) 2 qualifying counterparties; or
@@ -1416,13 +1407,13 @@ Subject to section 142, every statutory manager of a registered bank shall compl
     (a) a registered bank; or
     (b) the Accident Compensation Corporation (as continued by section 259 of the Accident Compensation Act 2001); or
     (c) the Guardians of New Zealand Superannuation established under section 48 of the New Zealand Superannuation and Retirement Income Act 2001; or
-    (d) a specified operator; or
+    (d) a specified operator within the meaning of section 5 of the Financial Market Infrastructures Act 2021; or
     (e) any prescribed entity; or
     (f) any other entity of a prescribed class
   - **qualifying derivative** , in relation to enforcing a security interest over collateral, means a derivative to which both of the following apply:
     (a) the derivative is subject to—
       (i) a netting agreement to which sections 310A to 310O of the Companies Act 1993 or sections 255 to 263 of the Insolvency Act 2006 apply; or
-      (ii) netting under the rules of a designated settlement system; and
+      (ii) netting under the rules of a designated FMI to which subpart 5 of Part 3 of the Financial Market Infrastructures Act 2021 applies; and
     (b) the enforcing counterparty’s interest in the collateral is evidenced in writing
   - **security interest** has the same meaning as in section 17 of the Personal Property Securities Act 1999
   - **specified time** means—
@@ -1471,7 +1462,7 @@ The matters referred to in section 122C(3)﻿(b) are that—
   (a) A is able to meet all of the following liabilities as and when those liabilities become due and payable:
     (i) A’s liabilities under all netting agreements to which sections 310A to 310O of the Companies Act 1993 or sections 255 to 263 of the Insolvency Act 2006 apply:
     (ii) A’s liabilities in respect of security interests over collateral to the extent that the security interests secure payment or performance of obligations under or in relation to qualifying derivatives:
-    (iii) A’s liabilities that are subject to netting under the rules of a designated settlement system; and
+    (iii) A’s liabilities that are subject to netting under the rules of a designated FMI to which subpart 5 of Part 3 of the Financial Market Infrastructures Act 2021 applies; and
   (b) A is able to pay its debts as they become due in the normal course of business; and
   (c) either—
     (i) A complies with the minimum capital requirements (if any) to which it is subject under conditions imposed under section 74; or
@@ -2041,455 +2032,162 @@ Except as otherwise provided in this Part, no registered bank, associated person
 **General**
 
 ### 156B Exercise of powers under this Part
-The powers conferred on the Bank by this Part must be exercised for the purpose of promoting the maintenance of a sound and efficient financial system.
+[Repealed]
 
 **Supply of information relating to payment systems**
 
 ### 156C Requirement to supply information relating to payment system
-(1) The Bank may, by notice in writing to any person referred to in subsection (2), require that person to supply any information or data relating to a payment system.
-(2) A notice may be given to—
-  (a) an operator of a payment system; or
-  (b) any person who is wholly or partly responsible for the operation of a payment system; or
-  (c) a participant in a payment system.
-(3) A notice may specify—
-  (a) the periods for which, and the form in which, the information or data must be supplied; and
-  (b) the time by which, and the place in New Zealand at which, the information or data must be supplied.
-(4) The Bank may, by a subsequent notice, vary, revoke, or amend a notice.
+[Repealed]
 
 ### 156D Offence to fail to supply information
-(1) A person commits an offence if the person, without lawful justification or excuse,—
-  (a) fails to supply information or data in accordance with section 156C or fails to comply with any requirement of the Bank under that section; or
-  (b) supplies information or data in accordance with section 156C that is false or misleading in a material particular.
-(2) The penalty for an offence against this section is set out in section 156J.
+[Repealed]
 
 ### 156E Requirement that information be audited
-(1) The Bank may, by notice in writing to any person referred to in section 156C(2), require that person to obtain an audit of any information or data supplied in accordance with section 156C if the Bank has reasonable grounds to believe that the information or data is inadequate or inaccurate.
-(2) Every audit must be conducted by a suitably qualified independent person who is approved by the Bank.
+[Repealed]
 
 ### 156F Offence not to comply with requirement for audit
-(1) A person commits an offence if the person fails, without lawful justification or excuse, to comply with a requirement under section 156E(1) for that person to obtain an audit.
-(2) The penalty for an offence against this section is set out in section 156J.
+[Repealed]
 
 **Disclosure of information relating to payment systems**
 
 ### 156G Disclosure of information
-(1) The Bank may publish or disclose any information or data supplied in accordance with section 156C only if—
-  (a) the information or data is available to the public under any Act or is otherwise publicly available information; or
-  (b) the information or data is in a statistical or summary form; or
-  (c) the publication or disclosure of the information or data is for the purposes of, or in connection with, the performance or exercise of any function, power, or duty conferred or imposed on the Bank by this Act or any other legislation; or
-  (d) the publication or disclosure of the information or data is under subpart 3 of Part 6 of the Reserve Bank of New Zealand Act 2021 (which relates to information sharing); or
-  (e) the publication or disclosure of the information or data is to any person who the Bank is satisfied has a proper interest in receiving the information; or
-  (f) the publication or disclosure of the information or data is with the consent of the person to whom the information relates or of the person to whom the information is confidential.
-(2) The Bank must not publish or disclose information or data under subsection (1)﻿(d) or (e) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of that information or data.
-(3) An officer or employee of the Bank must not publish or disclose any information or data supplied in accordance with section 156C except for the purposes of, or in connection with, the exercise of powers conferred by this Act.
-(4) An officer or employee of the Bank commits an offence if the officer or employee contravenes this section.
-(5) The penalty for an offence against this section is set out in section 156J.
+[Repealed]
 
 ### 156H Limits on further disclosure of information
-(1) A person to whom any information or data is published or disclosed must not publish, disclose, or use that information or data unless the publication, disclosure, or use is,—
-  (a) in the case of a publication or disclosure under section 156G(1)﻿(c),—
-    (i) for the purposes of, or in connection with, the performance or exercise of any function, power, or duty referred to in that paragraph; and
-    (ii) in accordance with any conditions that may be imposed by the Bank:
-  (b) in the case of a publication or disclosure under section 156G(1)﻿(e),—
-    (i) authorised by the Bank and in accordance with any conditions that the Bank may have imposed; or
-    (ii) necessary or desirable for the exercise of any function or power conferred by any enactment:
-  (c) in the case of a publication or disclosure under section 156G(1)﻿(f), in accordance with the terms and conditions of the consent referred to in that paragraph.
-(2) A person commits an offence if the person contravenes this section.
-(3) The penalty for an offence against this section is set out in section 156J.
+[Repealed]
 
 ### 156I Application of other enactments to information published or disclosed under section 156G
-Nothing in any Act, other than this Act or the Official Information Act 1982, requires the Bank or any person to whom information or data has been published or disclosed under section 156G to make that information or data available to any other person.
+[Repealed]
 
 **Penalties for offences against this Part**
 
 ### 156J Penalties for offences
-(1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $50,000; and
-  (b) in the case of a body corporate, to a fine not exceeding $500,000.
-(2) The provisions are—
-  (a) section 156D (which relates to failing to supply information relating to a payment system):
-  (b) section 156F (which relates to failing to comply with a requirement for an audit):
-  (c) section 156G (which relates to disclosure of information supplied in accordance with section 156C):
-  (d) section 156H (which relates to further disclosure of information).
+[Repealed]
 
 ## Part 5C — Designated settlement systems
 
 **General**
 
 ### 156K Exercise of powers under this Part
-(1) The powers conferred on the Minister and the Bank by this Part must be exercised for the purposes of—
-  (a) promoting the maintenance of a sound and efficient financial system; and
-  (b) avoiding significant damage to the financial system that could result from the failure of a participant in a settlement system.
-(2) The powers conferred on the Minister responsible for the Financial Markets Conduct Act 2013 and the FMA by this Part must be exercised for the purposes of—
-  (a) promoting the integrity and effectiveness of settlement systems and related markets in New Zealand; and
-  (b) enhancing the confidence of investors and other market participants in settlement systems and related markets in New Zealand.
-(3) The Governor-General must exercise the powers conferred on him or her by this Part for the purposes set out in subsections (1) and (2).
+[Repealed]
 
 ### 156L Limit on FMA's powers in relation to Bank
-For the purposes of this Part, the FMA may exercise its powers under subpart 1 of Part 3 of the Financial Markets Authority Act 2011 in relation to the Bank only if, and to the extent that, the Bank is—
-  (a) a participant in a settlement system; or
-  (b) an operator of a settlement system.
+[Repealed]
 
 **Designation**
 
 ### 156M Definitions for this Part
-(1) In this Part, unless the context otherwise requires,—
-  - **contact person** , in relation to a settlement system, means the person specified under section 156N(2)﻿(d)
-  - **designated settlement system** means a settlement system that is declared to be a designated settlement system under section 156N
-  - **joint regulators** means—
-    (a) the Bank; and
-    (b) the FMA
-  - **Minister responsible for the Financial Markets Conduct Act 2013** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Financial Markets Conduct Act 2013
-  - **netted balance** means any amount calculated in accordance with the netting provisions of the rules of a designated settlement system as the net debit payable by, or on behalf of, a participant in the designated settlement system to, or on behalf of, another participant in that system for all or any claims or obligations to which those rules apply
-  - **netting** means the conversion into 1 net claim or obligation, or the set-off, of different claims or obligations between participants in a settlement system that results from the issue and receipt of settlement instructions involving 2 or more participants in the settlement system or that is otherwise provided for under the rules of the settlement system,—
-    (a) whether on a bilateral or multilateral basis; and
-    (b) whether or not through the interposition of an operator of the settlement system (whether by novation or otherwise); and
-    (c) whether or not the obligations or claims constitute mutual credits, mutual debts, or other mutual dealings; and
-    (d) whether or not the obligations or claims are denominated in New Zealand currency
-  - **property** means personal property
-  - **pure payment system** means a designated settlement system that is a payment system that is declared to be a pure payment system in accordance with section 156N(3)﻿(d)
-  - **rules** ,—
-    (a) in relation to a settlement system, means the rules of the settlement system (whether made under bylaws, agreements, procedures, contracts, or other documents) that are evidenced in writing and that provide, among other things, for—
-      (i) the basis on which settlement instructions are given or received; and
-      (ii) the basis on which settlement obligations are determined and calculated (either on a gross basis or using netting); and
-      (iii) the basis on which settlements are effected (either on a gross basis or using netting); and
-      (iv) any action to be taken if a participant in the settlement system is unable, or likely to become unable, to meet the participant's obligations to any or all of the following:
-        (A) an operator of the settlement system:
-        (B) another participant in the settlement system:
-        (C) any other party to those rules; and
-    (b) in relation to a designated settlement system, means the rules of that settlement system that are contained in documents specified in the designation under section 156N; and includes any amendments to those rules that have—
-      (i) been notified, not been disallowed, and come into effect in accordance with the processes and the time frames set out in sections 156ZB and 156ZC; or
-      (ii) been made pursuant to a variation of a designation under section 156ZD
-  - **settlement** means—
-    (a) the making of a payment or the transfer of the title to, or an interest in, property—
-      (i) that is done in accordance with, or to give effect to, a settlement instruction; and
-      (ii) that is on a gross basis or that uses netting; and
-      (iii) whether by way of book entry on the accounts of a central bank or an operator of a settlement system or otherwise; or
-    (b) any other act that discharges an obligation to make a payment or transfer the title to, or an interest in, property in accordance with the rules of a settlement system
-  - **settlement instruction** means an instruction by a participant in, or to an operator of, a settlement system—
-    (a) that is made in accordance with the rules of that settlement system; and
-    (b) that results, or is intended to result, in 1 or more settlements being effected
-  - **settlement system** —
-    (a) means a system or arrangement for effecting settlements or processing settlement instructions in accordance with rules; and
-    (b) includes a payment system
-  - **specified operator** means the operator of a settlement system specified in an Order in Council in accordance with section 156N(2)﻿(c).
-(2) In this Part, a participant becomes subject to an insolvency event on the date on which, and (if specified) the time at which,—
-  (a) in the case of a company or other body corporate,—
-    (i) a liquidator is appointed in respect of a liquidation under Part 16 of the Companies Act 1993 or under any other Act; or
-    (ii) an administrator is appointed in respect of a voluntary administration under Part 15A of the Companies Act 1993; or
-    (iii) a liquidator is appointed in respect of a liquidation of an overseas company under section 342 of the Companies Act 1993; or
-    (iv) a statutory manager is appointed in respect of a statutory management under Part 3 of the Corporations (Investigation and Management) Act 1989; or
-    (v) a statutory manager is appointed in respect of a statutory management under Part 5 of this Act; or
-    (vi) a person is appointed in respect of, or another event occurs that indicates the start of, a process in New Zealand or in any other country in which the company or other body corporate was incorporated, created, or established that is similar to those set out in subparagraphs (i) to (v); and
-  (b) in the case of an individual,—
-    (i) a person is adjudicated bankrupt under the Insolvency Act 2006 or is given, or determined to have, a similar status (whether in New Zealand or in another country); or
-    (ii) a person is admitted to the no asset procedure in subpart 4 of Part 5 of the Insolvency Act 2006 or becomes subject to a similar procedure (whether in New Zealand or in another country).
+[Repealed]
 
 **Designation**
 
 ### 156N Designation of settlement system
-(1) The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 given in accordance with a joint recommendation of the joint regulators, declare any settlement system to be a designated settlement system.
-(2) The order must specify—
-  (a) the settlement system that is the subject of the designation; and
-  (b) the documents that evidence the rules of that settlement system; and
-  (c) which operator of the settlement system is the specified operator; and
-  (d) the name or title of the person to whom notices relating to that settlement system must be given (the contact person).
-(3) The order may also specify all or any of the following:
-  (a) conditions to which the designation is subject:
-  (b) that a particular operator is a participant in the settlement system that is the subject of the designation:
-  (c) that the operator specified in accordance with subsection (2)﻿(c) is an operator to whom section 103A of the Personal Property Securities Act 1999 applies:
-  (d) that the settlement system that is the subject of the designation is a pure payment system.
-(4) Both of the joint regulators must, as soon as practicable after a settlement system has been declared to be a designated settlement system, post on their respective Internet sites the contact details and the name or title of the contact person of that designated settlement system.
-(5) However, the FMA does not have to comply with subsection (4) if a settlement system is specified to be a pure payment system in accordance with subsection (3)﻿(d).
-(6) To avoid doubt,—
-  (a)
-  (b) a breach of a condition to which the designation of a settlement system is subject does not affect the application of section 156Q, 156R, 156T, or 156X of this Act or section 103A of the Personal Property Securities Act 1999.
-(7) An Order in Council under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 **Effect of designation**
 
 ### 156O Joint regulators' recommendations subject to procedure in sections 156Y to 156ZA
-The procedure set out in sections 156Y to 156ZA must be followed by the joint regulators when they make a recommendation under section 156N(1).
+[Repealed]
 
 **Effect of designation**
 
 ### 156P Application of this Part to pure payment systems
-(1) If a designated settlement system is specified to be a pure payment system in accordance with section 156N(3)﻿(d), then this Part applies to that designated settlement system as follows:
-  (a) all references to a settlement must be read as if they were references to a settlement as defined in subsection (4); and
-  (b) for the purposes of sections 156K, 156M, and 156ZB to 156ZQ, the Bank is the sole regulator of that settlement system; and
-  (c) all references to the joint regulators in sections 156K, 156M, and 156ZB to 156ZQ must be read as if they were references to the Bank; and
-  (d) anything in sections 156K, 156M, and 156ZB to 156ZQ that may or must be done by both of the joint regulators may or must be done by the Bank alone; and
-  (e) except as set out in subsection (2), in performing its functions and duties and exercising its powers under sections 156K, 156M, and 156ZB to 156ZQ, the Bank does not have to consult with, advise, or give notice to, the FMA; and
-  (f) section 156L does not apply; and
-  (g) the advice of the Minister responsible for the Financial Markets Conduct Act 2013 is not required under section 156ZD or 156ZE; and
-  (h) this Part must be interpreted with all necessary modifications in order to give effect to this section.
-(2) However, if the Bank intends to recommend, in accordance with section 156ZD (applied as set out in subsection (1)), that a designated settlement system's designation is varied so that it is no longer specified to be a pure payment system, the Bank must consult with the FMA before making that recommendation.
-(3) This section ceases to apply to a designated settlement system if, in accordance with section 156ZD (applied as set out in subsection (1)), that settlement system's designation is varied so that it is no longer specified to be a pure payment system.
-(4) For the purposes of subsection (1)﻿(a), settlement means—
-  (a) the making of a payment—
-    (i) that is done in accordance with, or to give effect to, a settlement instruction; and
-    (ii) that is on a gross basis or that uses netting; and
-    (iii) whether by way of book entry on the accounts of a central bank or an operator of a settlement system or otherwise; or
-  (b) any other act that discharges an obligation to make a payment in accordance with the rules of a settlement system.
+[Repealed]
 
 ### 156Q Rules of designated settlement system are valid and enforceable
-(1) The rules of a designated settlement system are valid and enforceable despite any enactment or rule of law to the contrary.
-(2) However, subsection (1) applies only to the extent that the rules provide for—
-  (a) the basis on which settlement instructions are given or received; and
-  (b) the basis on which settlement obligations are determined and calculated (either on a gross basis or using netting); and
-  (c) the basis on which settlements are effected (either on a gross basis or using netting); and
-  (d) any action to be taken if a participant in the designated settlement system is unable, or likely to become unable, to meet the participant's obligations to any or all of the following:
-    (i) the specified operator of the designated settlement system:
-    (ii) another participant in the designated settlement system:
-    (iii) any other party to those rules.
+[Repealed]
 
 ### 156R Settlements must not be reversed, etc
-(1) A settlement that is effected in accordance with the rules of a designated settlement system must not, whether in whole or in part, be reversed, repaid, recovered, or set aside despite any enactment or rule of law to the contrary.
-(2) Subsection (1) extends to any application made to a New Zealand court by a foreign court, foreign representative, or foreign creditor to reverse, repay, recover, or set aside a settlement (whether in whole or in part) that relates to an insolvency (in any form, whether personal or corporate) that is within the jurisdiction of the relevant foreign court, foreign representative, or foreign creditor.
-(3) In this section,—
-  - **foreign court** means a judicial or other authority competent to control or supervise a foreign proceeding
-  - **foreign proceeding** means a collective judicial or administrative proceeding in a foreign jurisdiction, including an interim proceeding, under a law relating to insolvency (in any form, whether personal or corporate), in which proceeding the assets and affairs of the debtor are subject to control or supervision by a foreign court, for the purpose of reorganisation or liquidation
-  - **foreign representative** means a person or body, including one appointed on an interim basis, authorised in a foreign proceeding to administer the reorganisation or the liquidation of the debtor's assets or affairs or to act as a representative of the foreign proceeding.
+[Repealed]
 
 ### 156S Limits on application of section 156R(1)
-(1) Section 156R(1) does not apply to a settlement that is effected in accordance with the rules of a designated settlement system if—
-  (a) a participant in the designated settlement system in respect of whom the settlement is effected becomes subject to an insolvency event (the insolvent participant); and
-  (b) the settlement is effected after the insolvent participant becomes subject to an insolvency event.
-(2) Despite subsection (1), section 156R(1) applies to the settlement if—
-  (a) the settlement is effected within 24 hours after the insolvent participant becomes subject to an insolvency event; or
-  (b) the settlement instruction that gives rise to the settlement is duly authorised on behalf of the insolvent participant after the insolvent participant becomes subject to an insolvency event.
-(3) For the purposes of subsection (2), authorised on behalf of the insolvent participant means authorised (either individually or as part of a broader authorisation) by—
-  (a) a liquidator appointed under Part 16 of the Companies Act 1993 or under any other Act; or
-  (b) an administrator appointed in accordance with subpart 2 of Part 15A of the Companies Act 1993; or
-  (c) a statutory manager appointed in accordance with section 38 of the Corporations (Investigation and Management) Act 1989; or
-  (d) a statutory manager appointed in accordance with section 117 of this Act; or
-  (e) a person who performs a role similar to those set out in paragraphs (a) to (d) in respect of a process in New Zealand or in any other country in which the insolvent participant was incorporated, created, or established that is similar to those set out in section 156M(2)﻿(a)﻿(i) to (v); or
-  (f) a person who is authorised to do so under any enactment or rule of law of New Zealand or of any other country in which the insolvent participant was incorporated, created, or established; or
-  (g) the Assignee nominated under section 59 of the Insolvency Act 2006 to be the Assignee of a bankrupt's property or any person who performs a similar role in respect of a process (whether in New Zealand or in another country) that is, or is similar to, bankruptcy.
+[Repealed]
 
 ### 156T Netting is valid and enforceable
-If the rules of a designated settlement system provide for netting, any netting in accordance with those rules is valid and enforceable despite any enactment or rule of law to the contrary.
+[Repealed]
 
 ### 156U Interrelationship between netting and Companies Act 1993 and Insolvency Act 2006
-(1) The following provisions do not apply to any netting in accordance with the rules of a designated settlement system:
-  (a) sections 310 to 310O of the Companies Act 1993:
-  (b) sections 254 to 262 of the Insolvency Act 2006.
-(2) However, a netted balance is to be treated as—
-  (a) an amount to which section 310(1) of the Companies Act 1993 applies if a company that is in liquidation and another party (both of whom are participants in a designated settlement system) also have mutual credits, mutual debts, or other mutual dealings between them that are not netted in accordance with the rules of the designated settlement system; and
-  (b) an amount to which section 254(1) of the Insolvency Act 2006 applies if the bankrupt (as defined in section 3 of that Act) and another party (both of whom are participants in a designated settlement system) also have mutual credits, mutual debts, or other mutual dealings between them that are not netted in accordance with the rules of the designated settlement system.
+[Repealed]
 
 **Procedure for making designation**
 
 ### 156V Underlying transactions, settlements, and limits on effect of sections 156Q, 156R, and 156T
-(1) Nothing in section 156Q, 156R, or 156T prevents—
-  (a) the operation of any enactment or rule of law in relation to an underlying transaction (including, without limitation, sections 56, 292, 297, and 298 of the Companies Act 1993 and section 194 of the Insolvency Act 2006); or
-  (b) any party from taking action against another party that has acted fraudulently or dishonestly so long as the remedy sought or obtained in respect of that action does not affect the application of section 156Q, 156R, or 156T.
-(2) If a person brings an action under any enactment or rule of law in relation to an underlying transaction (including, without limitation, sections 56, 292, 297, and 298 of the Companies Act 1993 and section 194 of the Insolvency Act 2006), that person may produce evidence of a settlement before the court for the purpose of proving that—
-  (a) a participant received value by means of that settlement; and
-  (b) the value received was an element of the underlying transaction.
-(3) Nothing in section 292(4A) of the Companies Act 1993 or section 196 of the Insolvency Act 2006 applies to—
-  (a) an underlying transaction; or
-  (b) a settlement that was effected in accordance with the rules of a designated settlement system.
-(4) In this section, underlying transaction—
-  (a) means a transaction that gave rise to—
-    (i) a settlement; or
-    (ii) a settlement obligation; but
-  (b) does not include—
-    (i) a settlement instruction; or
-    (ii) a settlement that was effected in accordance with the rules of a designated settlement system; or
-    (iii) any novation of the obligations of a participant in a designated settlement system that was completed in accordance with the rules of that designated settlement system.
+[Repealed]
 
 ### 156W Interrelationship with other enactments
-(1) The following enactments prevail over sections 156Q, 156R, and 156T:
-  (a) sections 122(8) and 127(4) of this Act:
-  (b) sections 42(8) and 44(4) of the Corporations (Investigation and Management) Act 1989.
-(2) This Part prevails over the Insolvency (Cross-border) Act 2006.
+[Repealed]
 
 ### 156X Transfer of property in accordance with rules is effective
-(1) Subsection (2) applies if property is transferred in accordance with the rules of a designated settlement system.
-(2) If this subsection applies, no person may refuse to take an action on the ground that the transfer was not effective.
-(3) Nothing in this section—
-  (a) affects any right a person has to refuse to take an action on any other ground; or
-  (b) derogates from section 45G(3) of the Reserve Bank of New Zealand Act 1964 (as continued in force by section 84 of the Public Finance Act 1989).
-(4) Section 45I of the Reserve Bank of New Zealand Act 1964 (as continued in force by section 84 of the Public Finance Act 1989) must be read subject to this section.
-(5) Except as provided in this section, this section has effect despite anything to the contrary in any enactment, rule of law, constitution, deed, or agreement.
+[Repealed]
 
 **Procedure for making designation**
 
 ### 156Y Application for designation
-(1) A person who wishes to have a settlement system declared to be a designated settlement system may apply to either of the joint regulators.
-(2) A joint regulator must, as soon as practicable, advise the other joint regulator if it receives an application.
-(3) An application must—
-  (a) be accompanied by a copy of the rules of the settlement system; and
-  (b) be accompanied by any information required by either or both of the joint regulators; and
-  (c) set out the contact details and the name or title of the person who is proposed to act as the contact person of the settlement system; and
-  (d) be accompanied by the application fee (if any) that is jointly determined by the joint regulators with the approval of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013.
-(4) The joint regulators may, together, produce guidelines relating to the application procedure.
-(5) A determination under subsection (3)﻿(d) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 156Z Consideration of application
-(1) Both of the joint regulators must consider any application made in accordance with section 156Y.
-(2) In considering an application, each of the joint regulators may have regard to any or all of the following matters:
-  (a) the purpose and scope of the settlement system:
-  (b) the rules of the settlement system:
-  (c) any laws or regulatory requirements relating to the operation of the settlement system and the extent to which the settlement system complies with those laws or regulatory requirements:
-  (d) relevant international standards concerning clearing and settlement systems, to the extent that they are relevant in the circumstances:
-  (e) the capability and capacity of the operators of the settlement system:
-  (f) the financial resources of the settlement system:
-  (g) the importance of the settlement system to the financial system:
-  (h) the impact on creditors of participants in the settlement system of specifying that an operator of the settlement system is an operator to whom section 103A of the Personal Property Securities Act 1999 applies:
-  (i) any other matters that the regulator considers appropriate.
-(3) In considering an application, each of the joint regulators must consider whether the settlement system should be specified to be a pure payment system.
-(4) In considering an application, each of the joint regulators may have regard, or refer, to, and may rely upon, any relevant information, work, or matter held, or produced, by the other joint regulator.
+[Repealed]
 
 ### 156ZA Decision on application
-(1) After considering an application, the joint regulators must, together, either—
-  (a) make a joint recommendation to both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 that the settlement system to which the application relates be declared to be a designated settlement system under section 156N; or
-  (b) refuse to make that recommendation.
-(2) If subsection (1)﻿(b) applies, the joint regulators must together give notice in writing to the applicant stating—
-  (a) that the joint regulators refuse to make a recommendation that the settlement system to which the application relates be declared to be a designated settlement system under section 156N; and
-  (b) the reasons for the joint regulators' refusal.
+[Repealed]
 
 **Amendments to rules**
 
 ### 156ZB Joint regulators must be notified of proposed amendments to rules
-(1) The specified operator of a designated settlement system must, as soon as practicable, notify either of the joint regulators of any amendment that is proposed to be made to the rules of that designated settlement system.
-(2) A joint regulator must, as soon as practicable, advise the other joint regulator if it receives notice of a proposed amendment to the rules of a designated settlement system.
+[Repealed]
 
 ### 156ZC Proposed amendments to rules may be disallowed
-(1) The joint regulators may disallow any amendment that is proposed to be made to the rules of a designated settlement system by giving notice to that effect to the contact person of that designated settlement system on or before the day that is 20 working days after the date on which either of the joint regulators first received notice of the proposed amendment under section 156ZB(1).
-(2) If the joint regulators disallow a proposed amendment in accordance with subsection (1),—
-  (a) the proposed amendment does not come into effect; and
-  (b) the rules of the designated settlement system continue to apply as they did before the amendment was proposed.
-(3) If the joint regulators do not disallow a proposed amendment in accordance with subsection (1), the proposed amendment comes into effect on—
-  (a) the earlier of—
-    (i) the day after the date on which the contact person of the designated settlement system receives notice from the joint regulators that they have decided not to disallow the proposed amendment; or
-    (ii) the day that is 21 working days after the date on which either of the joint regulators first received notice of the proposed amendment under section 156ZB(1); or
-  (b) any later date that is specified as part of the proposed amendment.
+[Repealed]
 
 **Variation and revocation of designation**
 
 ### 156ZD Variation of designation
-(1) The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 given in accordance with a joint recommendation of the joint regulators, vary any designation made under section 156N—
-  (a) by amending any of the matters referred to in section 156N(2)﻿(b) to (d) and (3)﻿(b) to (d); or
-  (b) by making the designation subject to a requirement that an amendment be made to the documents that evidence the rules of the settlement system that is the subject of the designation; or
-  (c) by revoking or amending any condition to which the designation is subject; or
-  (d) by making the designation subject to a new condition.
-(2) An Order in Council under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 156ZE Revocation of designation
-(1) The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 given in accordance with a joint recommendation of the joint regulators, revoke any designation made under section 156N.
-(2) An Order in Council under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 156ZF Settlement and netting not affected by variation or revocation of designation
-The variation or revocation of a designation made under section 156N does not affect the application of sections 156Q, 156R, and 156T to settlements that were effected, and netting that took place, before the variation or revocation.
+[Repealed]
 
 ### 156ZG Application for variation or revocation of designation
-(1) A person who wishes to have the designation made under section 156N for a designated settlement system varied or revoked may apply to either of the joint regulators.
-(2) A joint regulator must, as soon as practicable, advise the other joint regulator if it receives an application.
-(3) An application must be accompanied by the application fee (if any) that is jointly determined by the joint regulators with the approval of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013.
-(4) A determination under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 156ZH Either joint regulator may independently begin review of designation
-(1) Either of the joint regulators may, independently of the other joint regulator and without having received an application under section 156ZG, begin a review to determine whether to recommend a variation or revocation of a designation made under section 156N.
-(2) A joint regulator must, as soon as practicable, advise the other joint regulator if it begins a review to determine whether to recommend a variation or revocation of a designation made under section 156N.
-(3) No fee can be charged if a joint regulator begins a review under subsection (1).
+[Repealed]
 
 ### 156ZI Matters joint regulators may have regard to in recommending variation or revocation of designation
-(1) In determining whether to make a recommendation that any designation made under section 156N be varied or revoked, each of the joint regulators may have regard to any or all of the following matters:
-  (a) the purpose and scope of the designated settlement system:
-  (b) the rules of the designated settlement system:
-  (c) any laws or regulatory requirements relating to the operation of the designated settlement system and the extent to which the designated settlement system complies with those laws or regulatory requirements:
-  (d) relevant international standards concerning clearing and settlement systems, to the extent that they are relevant in the circumstances:
-  (e) the capability and capacity of the operators of the settlement system:
-  (f) the financial resources of the settlement system:
-  (g) the importance of the designated settlement system to the financial system:
-  (h) the impact on creditors of participants in the settlement system of specifying, or no longer specifying, that an operator of the settlement system is an operator to whom section 103A of the Personal Property Securities Act 1999 applies:
-  (i) any failure to comply with any condition to which the designation is subject:
-  (j) any failure to comply with the requirements of this Act:
-  (k) any other matters that the joint regulator considers appropriate.
-(2) In determining whether to make a recommendation that any designation made under section 156N be varied or revoked, each of the joint regulators may have regard, or refer, to, and may rely upon, any relevant information, work, or matter held, or produced, by the other joint regulator.
+[Repealed]
 
 ### 156ZJ Procedure for variation or revocation of designation
-(1) Before making a recommendation that any designation made under section 156N be varied or revoked, the joint regulators must together—
-  (a) give the contact person notice of—
-    (i) the reasons for proposing to vary or revoke the designation; and
-    (ii) the fact that the contact person may make submissions to the joint regulators in relation to the proposed variation or revocation; and
-  (b) give the contact person an opportunity to make those submissions within a time period that the joint regulators consider reasonable in the circumstances; and
-  (c) consider any submissions made by the contact person during that time period.
-(2) The notice referred to in subsection (1)﻿(a) may be given either in writing or orally depending on the circumstances of the particular case.
+[Repealed]
 
 **Obligations to give notice and supply information**
 
 ### 156ZK Contact person must be notified of insolvency event
-(1) This section applies if—
-  (a) a participant in a designated settlement system (participant A) becomes subject to an insolvency event:
-  (b) any other participant whose settlements are effected by participant A in accordance with the rules of that designated settlement system becomes subject to an insolvency event.
-(2) If this section applies, participant A must, as soon as practicable after becoming aware of the insolvency event, notify that fact to the contact person of that designated settlement system.
-(3) It is sufficient compliance with the requirement to notify the contact person under subsection (2) if—
-  (a) participant A takes all reasonable steps to comply with that requirement; or
-  (b) the contact person was already aware of the insolvency event by the time participant A had to notify the contact person under that subsection.
+[Repealed]
 
 ### 156ZL Supply of information relating to designated settlement system
-(1) The joint regulators may, by notice in writing, require any or all of the following persons to supply the joint regulators with any information relating to any designated settlement system:
-  (a) the specified operator of the designated settlement system:
-  (b) a participant in the designated settlement system:
-  (c) the contact person of the designated settlement system.
-(2) The joint regulators may exercise the power conferred by subsection (1) only if the joint regulators consider that the information is reasonably required to enable them to perform their functions and duties, or exercise their powers, under this Part.
-(3) A notice under subsection (1) may specify—
-  (a) the periods for which, and the form in which, the information must be supplied; and
-  (b) the manner in which the information must be verified.
-(4) A person commits an offence if the person, without lawful justification or excuse, fails to supply information in accordance with this section.
-(5) The penalty for an offence against this section is set out in section 156ZQ.
+[Repealed]
 
 **Disclosure of information**
 
 ### 156ZM Disclosure of information between joint regulators
-(1) No obligation as to secrecy or other restriction upon the disclosure of information, whether imposed by an enactment or otherwise, prevents the disclosure of information between either of the following persons:
-  (a) the Bank; and
-  (b) the FMA.
-(2) Subsection (1) only applies to information—
-  (a) obtained for the purposes of the administration of this Part, whether under sections 156Z(4), 156ZI(2), or 156ZL or otherwise; and
-  (b) that is disclosed by the Bank or the FMA in order to enable them to perform their functions and duties, or exercise their powers, under this Part.
+[Repealed]
 
 ### 156ZN Disclosure of information to third parties
-(1) The joint regulators may publish or disclose any information or data supplied in accordance with section 156Y(3)﻿(b) or 156ZL only if—
-  (a) the information or data is available to the public under any Act or is otherwise publicly available information; or
-  (b) the information or data is in a statistical or summary form; or
-  (c) the publication or disclosure of the information or data is for the purposes of, or in connection with, the performance or exercise of any function, power, or duty conferred or imposed on the Bank or the FMA by this Act or any other legislation; or
-  (d) the publication or disclosure of the information or data is under subpart 3 of Part 6 of the Reserve Bank of New Zealand Act 2021 or section 30 of the Financial Markets Authority Act 2011 (which relate to information sharing); or
-  (e) the publication or disclosure of the information or data is to any person who the joint regulators are satisfied has a proper interest in receiving the information; or
-  (f) the publication or disclosure of the information or data is with the consent of the person to whom the information relates or of the person to whom the information is confidential.
-(2) The joint regulators must not publish or disclose information or data under subsection (1)﻿(d) or (e) unless the joint regulators are satisfied that satisfactory provision exists to protect the confidentiality of that information or data.
-(3) An officer or employee of either of the joint regulators must not publish or disclose any information or data supplied in accordance with section 156Y(3)﻿(b) or 156ZL except for the purposes of, or in connection with, the exercise of powers conferred by this Act.
-(4) An officer or employee of either of the joint regulators commits an offence if the officer or employee contravenes this section.
-(5) The penalty for an offence against this section is set out in section 156ZQ.
+[Repealed]
 
 ### 156ZO Limits on further disclosure of information
-(1) A person to whom any information or data is published or disclosed must not publish, disclose, or use that information or data unless the publication, disclosure, or use is,—
-  (a) in the case of a publication or disclosure under section 156ZN(1)﻿(c),—
-    (i) for the purposes of, or in connection with, the performance or exercise of any function, power, or duty referred to in that paragraph; and
-    (ii) in accordance with any conditions that may be imposed by the joint regulators:
-  (b) in the case of a publication or disclosure under section 156ZN(1)﻿(e),—
-    (i) authorised by the joint regulators and in accordance with any conditions that may be imposed by the joint regulators; or
-    (ii) necessary or desirable for the performance of any function or duty, or the exercise of any power, conferred by any enactment:
-  (c) in the case of a publication or disclosure under section 156ZN(1)﻿(f), in accordance with the terms and conditions (if any) of the consent referred to in that paragraph.
-(2) A person commits an offence if the person contravenes this section.
-(3) The penalty for an offence against this section is set out in section 156ZQ.
+[Repealed]
 
 ### 156ZP Application of other enactments to information published or disclosed under section 156ZN
-Nothing in any Act, other than this Act or the Official Information Act 1982, requires the joint regulators or any person to whom information or data has been published or disclosed under section 156ZN to make that information or data available to any other person.
+[Repealed]
 
 **Penalties for offences against this Part**
 
 ### 156ZQ Penalties for offences
-(1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000; or
-  (b) in the case of a body corporate, to a fine not exceeding $750,000.
-(2) The provisions are—
-  (a) section 156ZL (which relates to failing to supply information relating to a designated settlement system):
-  (b) section 156ZN (which relates to disclosure of information supplied in accordance with section 156ZL to third parties):
-  (c) section 156ZO (which relates to limits on further disclosure of information).
+[Repealed]
 
 ## Part 5D — Deposit takers
 
