@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2024-03-01_
 
 > An Act to enable the Registrar of Companies and the Financial Markets Authority to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -69,12 +69,14 @@ Nothing in this Act shall be regarded as imposing on the Registrar, or the FMA, 
 ### 8 Consultation with Reserve Bank
 (1) For the purposes of this section—
   - **covered bond SPV** has the meaning given to it by section 139B of the Banking (Prudential Supervision) Act 1989
+  - **designated FMI** means a designated FMI within the meaning of the Financial Market Infrastructures Act 2021
   - **licensed insurer** means a licensed insurer within the meaning of the Insurance (Prudential Supervision) Act 2010
+  - **operator** means an operator within the meaning of the Financial Market Infrastructures Act 2021
   - **registered bank** means a registered bank within the meaning of section 2(1) of the Banking (Prudential Supervision) Act 1989.
 (2) The Registrar must consult the Reserve Bank of New Zealand before—
-  (a) giving a written notice requiring any licensed insurer or registered bank to supply any information under section 9:
-  (b) appointing any person to carry out an investigation of the affairs of any licensed insurer or registered bank under section 19:
-  (c) giving a written notice to any licensed insurer or registered bank that it is considered to be a corporation at risk.
+  (a) giving a written notice requiring any licensed insurer, registered bank, or operator of a designated FMI to supply any information under section 9:
+  (b) appointing any person to carry out an investigation of the affairs of any licensed insurer, registered bank, or operator of a designated FMI under section 19:
+  (c) giving a written notice to any licensed insurer, registered bank, or operator of a designated FMI that it is considered to be a corporation at risk.
 (3) The FMA must consult with the Reserve Bank of New Zealand before making a recommendation to the Minister under section 38 in respect of any licensed insurer, non-bank deposit taker licensed under the Non-bank Deposit Takers Act 2013, registered bank, or covered bond SPV.
 
 ## Part 1 — Supply of information by, and investigation of affairs of, corporations
@@ -307,6 +309,8 @@ If the Registrar or the FMA gives a notice to a corporation under section 30, or
 (3) Every Order in Council made under subsection (1) must specify the date on which, and the time at which, the Order in Council comes into force.
 (4) The date and time as specified must not be earlier than the date on which, and the time at which, the Order in Council is made.
 (5) Subsections (1)﻿(a) and (2) are subject to section 139J(4) of the Banking (Prudential Supervision) Act 1989.
+(6) The FMA must consult the Reserve Bank of New Zealand before making a recommendation under this section that would lead to an operator of a designated FMI being subject to statutory management.
+(7) In subsection (6), designated FMI and operator have the meanings given in section 5 of the Financial Market Infrastructures Act 2021.
 (8) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 39 Grounds on which corporation can be declared to be subject to statutory management
@@ -355,13 +359,16 @@ The FMA shall not make a recommendation under section 38 in respect of an associ
     (i) the termination, in accordance with the netting agreement, of all or any transactions that are subject to the netting agreement by reason of the occurrence of an event specified in the netting agreement, being an event (including the appointment of a statutory manager) occurring not later than the commencement of statutory management; or
     (ii) the taking of an account, in accordance with the netting agreement, of all money due between the parties to the netting agreement in respect of transactions affected by the termination; and
   (c) nothing in subsection (1) limits or prevents the exercise by a recognised clearing house (within the meaning of section 310A of the Companies Act 1993), of any right referred to in subsection (1)﻿(d) to (f) in respect of any property of that corporation if the right that is exercised has been granted to secure, or to assist in securing, the due performance, by that corporation, of obligations entered into by that corporation under a recognised multilateral netting agreement (within the meaning of that section).
-(8) In the case of netting under the rules of a settlement system that is declared to be a designated settlement system under Part 5C of the Banking (Prudential Supervision) Act 1989,—
+(8) In the case of netting under the rules of a designated FMI to which subpart 5 of Part 3 of the Financial Market Infrastructures Act 2021 applies,—
   (a) nothing in subsection (1) limits or prevents the exercise of any rights relating to the calculation of a netted balance under those rules; and
   (b) nothing in subsection (1) limits or prevents the exercise of any right referred to in paragraphs (d) to (f) of that subsection in respect of any property of that corporation if the right that is exercised—
-    (i) is provided under the rules of the designated settlement system; and
+    (i) is provided under the rules of the designated FMI; and
     (ii) has been granted to secure, or to assist in securing, the due performance, by that corporation, of obligations entered into by that corporation under those rules.
 (8A) Subsection (1) is subject to section 139J(1) to (3) of the Banking (Prudential Supervision) Act 1989.
-(9) For the purpose of subsection (8), netted balance, netting, and rules have the meanings set out in section 156M of the Banking (Prudential Supervision) Act 1989.
+(9) In subsection (8) and this subsection,—
+  (a) designated FMI, netting, and participant have the meanings given in section 5 of the Financial Market Infrastructures Act 2021; and
+  (b) netted balance means any amount calculated in accordance with the rules of a designated FMI as the net debit payable by, or on behalf of, a participant of the designated FMI to, or on behalf of, another participant of that designated FMI for all or any claims or obligations to which those rules apply; and
+  (c) rules is to be read in accordance with section 35 of the Financial Market Infrastructures Act 2021.
 (10) Nothing in subsection (1) limits or prevents the exercise of any rights to enforce a security interest over collateral to the extent that the security interest secures payment or performance of an obligation under or in relation to a qualifying derivative if—
   (a) the counterparties to the derivative are—
     (i) 2 qualifying counterparties; or
@@ -384,7 +391,7 @@ The FMA shall not make a recommendation under section 38 in respect of an associ
 (1) The statutory manager of a corporation may, notwithstanding the terms of any contract, suspend in whole or in part the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person.
 (2) The suspension by a statutory manager in whole or in part of the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person pursuant to subsection (1) shall not constitute a breach or repudiation of any contract entered into by the corporation with any person.
 (3) Nothing in subsection (1) shall authorise the suspension by the statutory manager of the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person where the obligation to repay the deposit, or to pay the debt, or to discharge the obligation, was incurred by the corporation or by the statutory manager after the date upon which, and the time at which, the corporation became subject to statutory management.
-(4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with section 310C of the Companies Act 1993 or section 257 of the Insolvency Act 2006 or section 156T of the Banking (Prudential Supervision) Act 1989, as the case may be. However, subsection (1) applies to the payment of the netted balance.
+(4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with section 310C of the Companies Act 1993 or section 257 of the Insolvency Act 2006 or section 57(1) and (2) of the Financial Market Infrastructures Act 2021, as the case may be. However, subsection (1) applies to the payment of the netted balance.
 (5) Subsection (1) is subject to section 139J(1) to (3) of the Banking (Prudential Supervision) Act 1989.
 
 ### 45 Management of corporation to vest in statutory manager
