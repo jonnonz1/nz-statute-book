@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2024-02-17_
+_Consolidation as at 2024-03-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -41299,7 +41299,14 @@ When this section applies
   (b) the institution has RWT-exempt status; and
   (c) the institution pays on or transfers the amount received to an end investor.
 When this section does not apply
-(2) This section does not apply to a custodial institution that is the specified operator of a designated settlement system under the Banking (Prudential Supervision) Act 1989. The exclusion extends to a nominee or agent of the specified operator.
+(2) This section does not apply to a custodial institution that is the specified operator of a designated FMI to the extent that the designated FMI is a settlement system. The exclusion extends to a nominee or agent of the specified operator.
+Meaning of settlement system and other terms
+(2B) For the purposes of subsection (2) and this subsection,—
+  (a) FMI settlement means a settlement within the meaning of section 5 of the Financial Market Infrastructures Act 2021:
+  (b) settlement system—
+    (i) means a system or arrangement for effecting FMI settlements or processing settlement instructions in accordance with rules; and
+    (ii) includes a payment system:
+  (c) designated FMI, rules, settlement instruction, and specified operator have the same meanings as in section 5 of the Financial Market Infrastructures Act 2021.
 Obligation to withhold
 (3) At the time the payment or transfer is made and to the extent to which the amount of tax has not already been withheld, the custodial institution that makes the payment to the end investor must withhold the amount of tax for the payment and pay it to the Commissioner.
 Agreements to transfer withholding obligations: outsourcing withholding
@@ -41309,7 +41316,7 @@ Agreements to transfer withholding obligations: passing obligation to other cust
 Meaning of custodial institution
 (6) For the purposes of this section and sections RE 4 and RF 4, a custodial institution means an entity—
   (a) that holds financial assets or financial instruments as a bare trustee on account for another person; and
-  (b) whose activities are supervised or regulated under the Financial Markets Conduct Act 2013, the Financial Markets Authority Act 2011, the Financial Advisers Act 2008, or the Banking (Prudential Supervision) Act 1989, or are supervised or regulated under corresponding legislation in another jurisdiction.
+  (b) whose activities are supervised or regulated under the Financial Markets Conduct Act 2013, the Financial Market Infrastructures Act 2021, the Financial Markets Authority Act 2011, the Financial Advisers Act 2008, or the Banking (Prudential Supervision) Act 1989, or are supervised or regulated under corresponding legislation in another jurisdiction.
 Meaning of end investor
 (7) For the purposes of this section and sections RE 4 and RF 4, an end investor—
   (a) means an investor to whom a payment of investment income is made who is—
@@ -43840,6 +43847,7 @@ In this Act, unless the context requires otherwise,—
   - **descended associate** is defined in section EC 4B(7) (Compulsory use of herd scheme method for associated persons) for the purposes of that section
   - **design registration** means a registration of a design under the Designs Act 1953, and includes a similar registration and protection of a design under the laws of a country or territory other than New Zealand
   - **design registration application** means an application for a design registration
+  - **designated FMI** is defined in section RE 10C(2B) (Obligations of custodial institutions in relation to certain payments of investment income) for the purposes of that section
   - **designated group investment fund** is defined in section HR 3(6) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **designated source investments** is defined in section HR 3(7) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **designated sources** is defined in section HR 3(5) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
@@ -44358,6 +44366,7 @@ In this Act, unless the context requires otherwise,—
     (i) in section EX 46(10)﻿(a) and subpart FE (Interest apportionment on thin capitalisation), means a share meeting the requirements of paragraph (f)﻿(i) and (iii)
   - **flat-owning company** is defined in section CD 31(2) (Flat-owning companies) for the purposes of that section, section HA 6 (Corporate requirements), and the definition of
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
+  - **FMI settlement** is defined in section RE 10C(2B) (Obligations of custodial institutions in relation to certain payments of investment income) for the purposes of that section
   - **foreign account information-sharing agreement** means a double tax agreement that facilitates the automatic exchange by the parties of information relating to financial accounts, including—
     (a) the Agreement between the Government of New Zealand and the Government of the United States of America to Improve International Tax Compliance and to Implement FATCA brought into force for New Zealand by the Double Tax Agreements (United States of America—FATCA) Order 2014 (LI 2014/209), as amended from time to time:
     (b) the multilateral Convention on Mutual Administrative Assistance in Tax Matters, as amended by 2010 Protocol which was brought into force for New Zealand by the Double Tax Agreements (Mutual Administrative Assistance) Order 2013 (SR 2013/437), as amended from time to time
@@ -46208,6 +46217,7 @@ In this Act, unless the context requires otherwise,—
   - **royalty** is defined in section CC 9(2) and (3) (Royalties)
   - **RSCT** means retirement scheme contribution tax
   - **RSCT rules** is defined in section RH 1 (RSCT rules and their application)
+  - **rules** is defined in section RE 10C(2B) (Obligations of custodial institutions in relation to certain payments of investment income) for the purposes of that section
   - **RWT** means resident withholding tax and refers to an amount payable as income tax under the RWT rules
   - **RWT-exempt status** means the status of an eligible person under section RE 27 (RWT-exempt status) relating to the treatment of resident passive income derived by the person
   - **RWT exemption certificate**
@@ -46287,9 +46297,11 @@ In this Act, unless the context requires otherwise,—
       (iii) a person with power of appointment or removal of trustees:
       (iv) a person with a contingent interest in the trust property, in the case that the trust fails:
       (v) a decision-maker under the trust
+  - **settlement instruction** is defined in section RE 10C(2B) (Obligations of custodial institutions in relation to certain payments of investment income) for the purposes of that section
   - **settlement of relationship property** is defined in section FB 1B(a) (Meaning of settlement of relationship property and property) for the purposes of subpart FB (Transfers of relationship property)
   - **settlement of relationship property**
   - **settlement of relationship property**
+  - **settlement system** is defined in section RE 10C(2B) (Obligations of custodial institutions in relation to certain payments of investment income) for the purposes of that section
   - **settlor** ,—
     (a) is defined in section HC 27 (Who is a settlor?):
     (b) in sections HC 36 and HC 37 (which relate to minor beneficiaries), has the meaning given in paragraph (a), with the following qualifications:
@@ -46449,6 +46461,7 @@ In this Act, unless the context requires otherwise,—
     (b) does not include an animal that is high-priced livestock, except as provided in section EC 37 (Bailment)
   - **specified living allowance**
   - **specified mineral**
+  - **specified operator** is defined in section RE 10C(2B) (Obligations of custodial institutions in relation to certain payments of investment income) for the purposes of that section
   - **specified option** ,—
     (a) in the financial arrangements rules,—
       (i) means an option to acquire or dispose of property or services; and
