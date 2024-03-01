@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2024-01-01_
+_Consolidation as at 2024-03-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -2600,8 +2600,14 @@ When this section applies
 (1) This section applies when—
   (a) a person who is a custodial institution receives a payment of investment income; and
   (b) the institution pays on or transfers the amount received to an end investor.
-Specified operators of designated settlement systems
-(2) Despite subsection (1) and section 25E(1), the rules in this subpart do not apply to a custodial institution that is the specified operator of a designated settlement system under the Banking (Prudential Supervision) Act 1989. The exclusion extends to a nominee or agent of the specified operator.
+Specified operators of designated FMIs
+(2) Despite subsection (1) and section 25E(1), the rules in this subpart do not apply to a custodial institution that is the specified operator of a designated FMI to the extent that the FMI is a settlement system. The exclusion extends to a nominee or agent of the specified operator.
+Meaning of settlement system and other terms
+(2B) For the purposes of subsection (2) and this subsection,—
+  (a) settlement system—
+    (i) means a system or arrangement for effecting settlements or processing settlement instructions in accordance with rules; and
+    (ii) includes a payment system:
+  (b) designated FMI, FMI, rules, settlement, settlement instruction, and specified operator have the same meanings as in section 5 of the Financial Market Infrastructures Act 2021.
 Providing investment income information
 (3) The custodial institution must provide investment income information relating to the payment of investment income to the Commissioner under section 25E(1).
 Agreements to transfer reporting obligations: outsourcing obligations
@@ -2615,7 +2621,7 @@ Limited information
 Meaning of custodial institution
 (7) For the purposes of this subpart, a custodial institution means an entity—
   (a) that holds financial assets or financial instruments as a bare trustee on account for another person; and
-  (b) whose activities are supervised or regulated under the Financial Markets Conduct Act 2013, the Financial Markets Authority Act 2011, the Financial Advisers Act 2008, or the Banking (Prudential Supervision) Act 1989, or are supervised or regulated under corresponding legislation in another jurisdiction.
+  (b) whose activities are supervised or regulated under the Financial Markets Conduct Act 2013, the Financial Market Infrastructures Act 2021, the Financial Markets Authority Act 2011, the Financial Advisers Act 2008, or the Banking (Prudential Supervision) Act 1989, or are supervised or regulated under corresponding legislation in another jurisdiction.
 Meaning of end investor
 (8) For the purposes of this subpart, an end investor —
   (a) means an investor to whom a payment of investment income is made who is—
