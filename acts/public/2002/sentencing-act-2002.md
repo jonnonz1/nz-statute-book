@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-03-01_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -2742,7 +2742,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 ### 128 Confiscation of motor vehicle
 (1) This section applies if a person is convicted of any of the following offences:
   (a) an offence punishable by imprisonment for a term of more than 12 months, or by imprisonment for life:
-  (b) an offence against any of the provisions of sections 35(1)﻿(a), 35(1)﻿(b), 36A(1)﻿(a) or (c), 38(1), 39(1), 52(6), 52A(1), or 56 to 60 of the Land Transport Act 1998 (which relate to driving offences).
+  (b) an offence against any of the provisions of sections 35(1)﻿(a), 35(1)﻿(b), 36A(1)﻿(a) or (c), 38(1), 39(1), 52(6), 52A(1)﻿(c), or 56 to 60 of the Land Transport Act 1998 (which relate to driving offences).
 (2) A court may exercise the power in subsection (3) if a person is convicted of an offence referred to in subsection (1) and the court by or before which the offender is convicted is satisfied—
   (a) that a motor vehicle—
     (i) was used to commit or facilitate the commission of the offence, whether or not the offender was the driver or person in charge; or
@@ -2769,6 +2769,9 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 (4) Despite subsection (3), the court must not make an order under that subsection if—
   (a) it will result in extreme hardship to the offender or undue hardship to any other person; or
   (b) an interlock is or is to be fitted to the motor vehicle.
+(4A) Despite subsection (3), if the subsequent offence is against section 52A(1)﻿(a) or (b) of the Land Transport Act 1998, the court must—
+  (a) make a confiscation order under subsection (3); or
+  (b) order that the vehicle be forfeited to the Crown under section 142AAB.
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 that corresponds to an offence specified in subsection (1) must be treated as a conviction for an offence specified in that subsection.
 
 ### 129A Confiscation and destruction after third illegal street racing offence
@@ -3085,6 +3088,54 @@ If, under section 129A or 136(4), the court orders a motor vehicle to be confisc
   (a) must make an order prohibiting the offender from acquiring any interest in a motor vehicle within 12 months after the date of the confiscation order or confiscation and destruction order:
   (b) may make any other consequential order or orders that it thinks just and reasonable.
 (3) Section 136 applies with any necessary modifications to an order made under subsection (2)﻿(a).
+
+**Forfeiture of vehicles used in offence of failing to stop, etc**
+
+### 142AAA Interpretation of terms used in sections 142AAB to 142AAF
+Section 127 applies, with all necessary modifications, to sections 142AAB to 142AAF.
+
+### 142AAB Forfeiture of vehicle used in offence of failing to stop, etc
+(1) This section applies if a person is convicted of an offence against section 52A(1)﻿(a) or (b) of the Land Transport Act 1998.
+(2) The court may make an order under subsection (3) if satisfied that, at the time of the conviction, the offender or a substitute for the offender owns or has an interest in the motor vehicle that was used in the commission of the offence.
+(3) The court may order that the motor vehicle be forfeited to the Crown.
+(4) Section 128(3A) to (5) applies, with any necessary modifications, to the making of a forfeiture order under this section.
+
+### 142AAC Offence to sell or dispose of motor vehicle subject to forfeiture order
+(1) This section applies if a motor vehicle—
+  (a) is subject to a forfeiture order under section 142AAB(3) or a confiscation order under section 142AAE(4); and
+  (b) has not yet been surrendered to, or seized by, a Registrar, bailiff, or constable.
+(2) A person who sells or disposes of the motor vehicle or any part of the motor vehicle commits an offence and is liable on conviction to a fine not exceeding $2,000.
+
+### 142AAD Offence to remove forfeited vehicle
+A person who removes or attempts to remove a motor vehicle surrendered to or seized by a bailiff or constable under section 132 (as modified by section 142AAF) from the custody of that bailiff or constable, or from the custody of the Registrar of the court (without the approval of the Registrar), commits an offence and is liable on conviction to a fine not exceeding $200.
+
+### 142AAE Offender must not acquire new interest in motor vehicle for 12 months
+(1) This section applies if—
+  (a) a court makes an order for the forfeiture of a motor vehicle under section 142AAB; or
+  (b) a court has made an order under section 131(2)﻿(a) (as applied by section 142AAF) prohibiting an offender from acquiring a motor vehicle for 12 months.
+(2) The offender must not, within 12 months after the date of the order, acquire any interest in any motor vehicle.
+(3) A person who acquires any interest in a motor vehicle in contravention of subsection (2) commits an offence and is liable on conviction to a fine not exceeding $500.
+(4) If a court convicts a person of an offence against this section, then instead of, or in addition to, imposing a fine, the court may order that the motor vehicle concerned be confiscated.
+(5) If a court orders the confiscation of a motor vehicle under subsection (4), sections 129EA, 130, 131 to 135, 136A, 137 (except section 137(3)﻿(g)), and 138 to 142 (as applied and modified by section 142AAF) apply accordingly.
+
+### 142AAF Modified application of confiscation scheme to forfeiture
+(1) If a court orders the forfeiture of a motor vehicle under section 142AAB, the provisions specified in subsection (2) apply, with all necessary modifications, to the order, the motor vehicle, the offender and other persons, and in all other respects, in the same way as they apply if a court orders the confiscation of a vehicle under section 128 or 129.
+(2) The following provisions apply:
+  (a) sections 129B to 129D (relating to written cautions given to persons with interest in motor vehicles involved in offences):
+  (b) sections 129E and 129EA (relating to appeals against confiscation):
+  (c) section 130 (court may order declaration of ownership to be completed):
+  (d) sections 130A and 131 (relating to the effect of any disposal of a motor vehicle or ownership or other interest in it):
+  (e) sections 132, 134, and 135 (relating to the enforcement of a confiscation order):
+  (f) section 136A (Registrar must apply for deregistration of motor vehicle subject to confiscation and destruction order):
+  (g) section 137 (except section 137(3)﻿(g)) and sections 138 to 141C (relating to the sale of confiscated motor vehicles):
+  (h) section 142 (order may be cancelled on application by bona fide purchaser).
+(3) Modifications to the application of the provisions specified in subsection (2) include the following:
+  (a) a reference to the confiscation of a motor vehicle, or an order for the confiscation of a motor vehicle, under section 128 must be read as a reference to the forfeiture of a motor vehicle, or an order for the forfeiture of a motor vehicle, under section 142AAB:
+  (b) any other reference to the confiscation of a motor vehicle must be read as a reference to the forfeiture of a motor vehicle:
+  (c) a reference to an offence specified in section 128(1) must be read as a reference to an offence against section 52A(1)﻿(a) or (b) of the Land Transport Act 1998 (as referred to in section 142AAB(1)):
+  (d) any reference to an offender in connection with an offence specified in section 128 or 129 must be read as a reference to an offender in connection with an offence against section 52A(1)﻿(a) or (b) of the Land Transport Act 1998 (as referred to in section 142AAB(1)):
+  (e) any other reference to section 128 must be read as a reference to section 142AAB:
+  (f) any reference to any section specified in subsection (2) must be read as a reference to that section as applied and modified by this section.
 
 **Instrument forfeiture orders**
 
