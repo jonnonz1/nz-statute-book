@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2024-01-06_
+_Consolidation as at 2024-03-01_
 
 > Title
 
@@ -33,6 +33,9 @@ _Consolidation as at 2024-01-06_
   - **defendant** means any person charged with an offence; and includes—
     (a) in relation to an infringement offence for which an infringement notice has been issued, any person served with a reminder notice in respect of the offence, or any person who gives notice requesting a hearing in respect of the offence, pursuant to section 21; and
     (b) a Crown organisation, if proceedings are brought against that organisation for an offence referred to in section 6 of the Crown Organisations (Criminal Liability) Act 2002
+  - **impoundment period** , in relation to a motor vehicle that is impounded under the Land Transport Act 1998, means,—
+    (a) for a vehicle impounded under section 96, 96AAB, or 96A of that Act, the 28-day period for which the vehicle would otherwise be required to be impounded:
+    (b) for a vehicle impounded under section 96AAA of that Act, the 6-month period for which the vehicle would otherwise be required to be impounded
   - **informant** , in relation to an infringement offence for which an infringement notice has been issued, includes the department, local body, or other authority in or by which the officer or employee who issued the notice was employed
   - **infringement fee** , in relation to an infringement offence, means the amount fixed as the infringement fee for the offence by or under the Act under which the offence is created
   - **infringement notice** means a notice issued under—
@@ -1512,7 +1515,7 @@ The purposes of sections 98 to 100T are—
 (6) The notice required to be given by subsection (5) must be delivered to the defendant or the substitute, or left for the defendant or the substitute in a conspicuous place at the premises from which the property is seized, or sent to the defendant or the substitute by ordinary post, fax, email, or other electronic means.
 
 ### 100 Seizure of motor vehicles impounded under Land Transport Act 1998
-(1) Any motor vehicle in which the defendant or a substitute for the defendant appears to have an ownership interest or other interest may be seized under a warrant to seize property even if it is impounded under section 96 or 96A of the Land Transport Act 1998, as long as it has been impounded under that Act for at least 14 days.
+(1) Any motor vehicle in which the defendant or a substitute for the defendant appears to have an ownership interest or other interest may be seized under a warrant to seize property even if it is impounded under section 96, 96AAA, 96AAB, or 96A of the Land Transport Act 1998, as long as it has been impounded under that Act for at least 14 days.
 (2) The power to seize a motor vehicle described in subsection (1) is not limited by any appeal pending under section 102 or 110 of the Land Transport Act 1998.
 
 **Seizure, release, and sale of motor vehicles**
@@ -1557,13 +1560,13 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
 ### 100E Release of property if fine and other costs paid or if certain appeals successful
 (1) Any property (whether real property or personal property) that has been seized and is retained by the Registrar may be returned to the person from whom it was seized or to the person apparently lawfully entitled to it if the following are paid:
   (a) the fine:
-  (b) if the property is a motor vehicle that has been impounded under section 96 or 96A of the Land Transport Act 1998, any impoundment costs:
+  (b) if the property is a motor vehicle that has been impounded under section 96, 96AAA, 96AAB, or 96A of the Land Transport Act 1998, any impoundment costs:
   (c) all costs incurred in seizing, transporting, and storing the property.
 (2) Subsection (1) applies even though claims under any of sections 100F, 100H, and 100J are pending in respect of the property.
 (3) If the property is a motor vehicle that has been seized from a substitute for the defendant, the only type of fines required to be paid under subsection (1)﻿(a) are ones imposed in respect of traffic offences committed by the defendant in a motor vehicle that, at the time of the commission of the offence, was owned by the substitute or in which the substitute had an interest.
-(4) If the property is a motor vehicle that has been seized while impounded under section 96 or 96A of the Land Transport Act 1998, the motor vehicle may not be released under subsection (1) before the day after the close of the 28-day period for which the vehicle would otherwise be required to be impounded under that Act.
+(4) If the property is a motor vehicle that has been seized while impounded under section 96, 96AAA, 96AAB, or 96A of the Land Transport Act 1998, the motor vehicle may not be released under subsection (1) before the day after the close of the impoundment period.
 (5) Subsection (4) is subject to section 100L(1)﻿(a) and (3).
-(6) If an appeal under section 102 or 110 of the Land Transport Act 1998 against the impoundment of the motor vehicle is allowed before the expiry of the 28-day period for which the motor vehicle would otherwise be required to be impounded under section 96 or 96A of that Act,—
+(6) If an appeal under section 102 or 110 of the Land Transport Act 1998 against the impoundment of the motor vehicle is allowed before the expiry of the impoundment period,—
   (a) the Registrar must release the motor vehicle to the person who is registered in respect of that vehicle; and
   (b) that person is not liable for any fees and costs payable under an enactment in respect of the motor vehicle.
 (7) Subsection (6)—
@@ -1579,9 +1582,9 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
 (4) Where a summons has been, or is to be, issued under subsection (2), the Registrar may release the property to the defendant or, if applicable in the case of a motor vehicle, to the substitute for the defendant if a deposit is paid or security is provided for whichever is the lesser of—
   (a) the value of the seized property; or
   (b) the fine in default, including the costs incurred in seizing, transporting, and storing the property, and any impoundment costs.
-(5) In any case where a motor vehicle has been seized while impounded under section 96 or 96A of the Land Transport Act 1998, the motor vehicle—
+(5) In any case where a motor vehicle has been seized while impounded under section 96, 96AAA, 96AAB, or 96A of the Land Transport Act 1998, the motor vehicle—
   (a) may not be released under this section unless—
-    (i) the 28-day period for which the vehicle would otherwise be required to be impounded under that Act has expired; and
+    (i) the impoundment period has expired; and
     (ii) any impoundment costs have been paid into court within 7 days after the close of that period or within any longer period specified by the Registrar in writing; and
   (b) may be sold under section 100P if those costs are not paid in accordance with paragraph (a)﻿(ii).
 
@@ -1596,9 +1599,9 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
   (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the Land Transport Act 1998.
 (3) In the case of a motor vehicle seized in respect of a traffic fine, the Judge may ask any claimant to satisfy the Judge that any agreement, transfer, or change in registration or ownership is genuine if the Judge has reason to question whether the claimant is a nominee for the defendant or any substitute for the defendant.
 (4) A person who claims to have acquired property from the defendant after the commission of any offence or after the taking of any enforcement action against the defendant must satisfy the Judge that the transaction on which the acquisition was based was genuine.
-(5) In any case where the motor vehicle has been seized while impounded under section 96 or 96A of the Land Transport Act 1998, the motor vehicle—
+(5) In any case where the motor vehicle has been seized while impounded under section 96, 96AAA, 96AAB, or 96A of the Land Transport Act 1998, the motor vehicle—
   (a) may not be released under this section unless—
-    (i) the 28-day period for which the vehicle would otherwise be required to be impounded under that Act has expired; and
+    (i) the impoundment period has expired; and
     (ii) any impoundment costs have been paid into court within 7 days after the close of that period or within any longer period specified by the Registrar in writing; and
   (b) may be sold under section 100P if those costs are not paid in accordance with paragraph (a)﻿(ii).
 (6) If the claimant succeeds in the claim to the property,—
@@ -1613,7 +1616,7 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
   (c) in the case of a motor vehicle seized in respect of a traffic fine, the lessor is not a substitute for the defendant or a nominee for the defendant or the substitute.
 (2) The lessor may apply to the court, at any time before the Registrar has sold the property, for the release of the property to the lessor as if the defendant or the substitute for the defendant or the nominee for the defendant or the substitute had breached the terms of the lease.
 (3) On an application under subsection (2), the Registrar or a District Court Judge may release the property to the lessor.
-(4) Property that is a motor vehicle may also be released under subsection (3) if it has been seized while impounded under section 96 or 96A of the Land Transport Act 1998 even though the 28-day period of impoundment for which the motor vehicle would otherwise be required to be impounded under that Act has not yet expired.
+(4) Property that is a motor vehicle may also be released under subsection (3) if it has been seized while impounded under section 96, 96AAA, 96AAB, or 96A of the Land Transport Act 1998 even though the impoundment period has not yet expired.
 (5) On the release of a motor vehicle under subsection (3) to the lessor, the lease is cancelled.
 (6) This section is subject to section 100M.
 
@@ -1674,13 +1677,13 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
   (a) release the property to a secured party, at the request of the secured party, and direct the secured party to sell the property and account for the proceeds of sale in accordance with section 100N; or
   (b) order the sale of the property under section 100P.
 (2) If the Judge or Registrar takes action under subsection (1)﻿(a) and 2 or more secured parties have requested the taking of that action, then the Judge or Registrar must release the property to the secured party with the highest-ranking security interest under the order of priority determined by Part 7 or 8 of the Personal Property Securities Act 1999.
-(3) If the property is a motor vehicle that has been seized while impounded under section 96 or 96A of the Land Transport Act 1998, the motor vehicle may also be released under subsection (1)﻿(a) even though the 28-day period of impoundment for which the motor vehicle would otherwise be required to be impounded under that Act has not yet expired.
+(3) If the property is a motor vehicle that has been seized while impounded under section 96, 96AAA, 96AAB, or 96A of the Land Transport Act 1998, the motor vehicle may also be released under subsection (1)﻿(a) even though the impoundment period has not yet expired.
 (4) A purchaser of property that is sold to the purchaser under a direction given under subsection (1)﻿(a) obtains, by virtue of this section, good title to the property free of all ownership interests and other proprietary interests held in the property before that sale.
 (5) Subsection (1)﻿(a) is subject to section 100M.
 
 ### 100M Certain payments required before release to lessor or secured party takes effect
 (1) An order for the release of property under section 100H(3) or 100L(1)﻿(a) does not take effect unless the following costs have been paid into court:
-  (a) if the property is a motor vehicle that has been impounded under section 96 or 96A of the Land Transport Act 1998, any impoundment costs:
+  (a) if the property is a motor vehicle that has been impounded under section 96, 96AAA, 96AAB, or 96A of the Land Transport Act 1998, any impoundment costs:
   (b) any costs incurred in seizing, transporting, and storing the property and in complying with the provisions of this Part:
   (c) in the case of a secured party claiming under a security agreement, any applicable default balance certified under section 100K in respect of that agreement.
 (2) Any payments required to be paid by subsection (1) must be paid within 7 days after the day on which the lessor or secured party is notified of the decision to release the property, or within any longer period specified by the Registrar in writing.
@@ -1708,8 +1711,8 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
   (a) that the property be sold at public auction or in any other manner that the Judge or Registrar directs; or
   (b) in the case of a negotiable instrument, that the Registrar obtain payment under, assign, or otherwise dispose of the negotiable instrument; or
   (c) in the case of money, that the Registrar apply the money in accordance with section 100R.
-(2) The relevant period referred to in subsection (1) is 7 days after the day on which the property was seized or a sale order was issued or, if the property is a motor vehicle that was seized while impounded under section 96 or 96A of the Land Transport Act 1998, the later of—
-  (a) the day after the close of the 28-day period for which the motor vehicle would otherwise be required to be impounded under that Act; or
+(2) The relevant period referred to in subsection (1) is 7 days after the day on which the property was seized or a sale order was issued or, if the property is a motor vehicle that was seized while impounded under section 96, 96AAA, 96AAB, or 96A of the Land Transport Act 1998, the later of—
+  (a) the day after the close of the impoundment period; or
   (b) the expiry of 8 days after the day on which the motor vehicle was seized.
 (3) A motor vehicle may be sold under this section even though it fails to comply in any respect with section 242 of the Land Transport Act 1998, and the purchaser of that motor vehicle—
   (a) is, despite that Act or any other enactment, entitled to tow the motor vehicle to any appropriate place; and
@@ -1717,9 +1720,9 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
   (c) must comply in all respects with that Act as soon as the motor vehicle has been towed to that place.
 (4) Despite subsections (1) to (3), the Registrar may dispose of a motor vehicle in any manner that he or she thinks fit if the Registrar has reasonable grounds to believe that the motor vehicle is a low-value motor vehicle referred to in section 100A.
 (5) If the Registrar considers that a motor vehicle is not roadworthy and that it would be uneconomic to render it roadworthy, the Registrar must, before the motor vehicle is sold or disposed of under this section, apply, under the Land Transport Act 1998, to have the registration of the motor vehicle cancelled as if the Registrar were the person who, under that Act, is entitled to apply for that cancellation.
-(6) The sale of a motor vehicle that has been seized while impounded under section 96 or 96A of the Land Transport Act 1998 is not affected by any appeal that is pending after the 28-day period for which the motor vehicle would otherwise be required to be impounded under that Act, or by any appeal that is determined after that period.
-(7) In any case where a motor vehicle has been seized while impounded under section 96 or 96A of the Land Transport Act 1998, the vehicle may be sold under this section (even if the fine and all costs incurred in seizing, towing, and storing the vehicle have been paid) if any impoundment costs are not paid within—
-  (a) 7 days after the close of the 28-day period for which the vehicle would otherwise be required to be impounded under that Act; or
+(6) The sale of a motor vehicle that has been seized while impounded under section 96, 96AAA, 96AAB, or 96A of the Land Transport Act 1998 is not affected by any appeal that is pending after the impoundment period, or by any appeal that is determined after that period.
+(7) In any case where a motor vehicle has been seized while impounded under section 96, 96AAA, 96AAB, or 96A of the Land Transport Act 1998, the vehicle may be sold under this section (even if the fine and all costs incurred in seizing, towing, and storing the vehicle have been paid) if any impoundment costs are not paid within—
+  (a) 7 days after the close of the impoundment period; or
   (b) any longer period specified by the Registrar in writing.
 (7A) If real property is sold under this section, a District Court Judge or Community Magistrate must issue an order vesting the property in the person who bought it.
 (8) The sale of property by the Registrar is deferred by a pending claim in respect of the property only if the costs of storage have been paid under section 100Q or a deposit has been paid, or security has been provided, under section 100F.
@@ -1736,7 +1739,7 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
 
 ### 100R Application of proceeds of sale of personal property
 (1) When personal property is sold under section 100P, the proceeds of the sale must be applied in the following manner and order of priority:
-  (a) if the property is a motor vehicle that has been impounded under section 96 or 96A of the Land Transport Act 1998, in payment of any impoundment costs:
+  (a) if the property is a motor vehicle that has been impounded under section 96, 96AAA, 96AAB, or 96A of the Land Transport Act 1998, in payment of any impoundment costs:
   (b) in payment of the costs of the sale (including all costs incurred in seizing, transporting, and storing the property and in complying with the provisions of this Part preliminary to sale):
   (c) if 1 or more security agreements have been recognised under section 100J before the proceeds of the sale are fully applied, in payment to each secured party of the amount to which the secured party would, but for the extinguishment of the security interest concerned, have been entitled under that agreement less any applicable default balance certified, under section 100K, in respect of that agreement:
   (d) in payment of any amount of reparation payable by the defendant:
