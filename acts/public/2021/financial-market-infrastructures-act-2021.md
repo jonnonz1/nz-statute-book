@@ -1,5 +1,5 @@
 # Financial Market Infrastructures Act 2021
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2024-03-01_
 
 ### 1 Title
 This Act is the Financial Market Infrastructures Act 2021.
