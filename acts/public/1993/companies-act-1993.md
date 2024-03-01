@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2024-01-06_
+_Consolidation as at 2024-03-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -35,7 +35,7 @@ _Consolidation as at 2024-01-06_
   - **constitution** means a document referred to in section 29
   - **control interest** has the meaning set out in sections 365B to 365E
   - **court** means the High Court of New Zealand
-  - **designated settlement system** has the meaning set out in section 156M of the Banking (Prudential Supervision) Act 1989
+  - **designated FMI** means a designated FMI as defined in section 5 of the Financial Market Infrastructures Act 2021 and to which subpart 5 of Part 3 of that Act applies
   - **director** has the meaning set out in section 126
   - **distribution** , in relation to a distribution by a company to a shareholder, means—in relation to shares held by that shareholder, and whether by means of a purchase of property, the redemption or other acquisition of shares, a distribution of indebtedness, or by some other means
     (a) the direct or indirect transfer of money or property, other than the company's own shares, to or for the benefit of the shareholder; or
@@ -90,6 +90,7 @@ _Consolidation as at 2024-01-06_
     (ba) any parent, child, brother, or sister of a spouse, civil union partner, or de facto partner of that person; or
     (c) a nominee or trustee for any of those persons
   - **relevant interest** has the meaning set out in section 146
+  - **rules** , in relation to a designated FMI, is to be read in accordance with section 35 of the Financial Market Infrastructures Act 2021
   - **secured creditor** , in relation to a company, means a person entitled to a charge on or over property owned by that company
   - **share** has the meaning set out in section 35
   - **share register** means the share register required to be kept under section 87
@@ -994,11 +995,11 @@ For the purposes of section 78, a disclosure document is a document that sets ou
   (c) either—
     (i) the Act or the constitution expressly permits the board to refuse or delay registration for the reasons stated; or
     (ii) any identification number assigned to the shares or issued to the holder of the shares under a system of transfer approved under section 376 of the Financial Markets Conduct Act 2013 is not recorded on the form of transfer of the shares or otherwise communicated in writing to the company by or on behalf of the transferor.
-(1A) If shares in a company are transferred in accordance with the rules of a designated settlement system, the company may refuse to complete or delay the registration of the transfer of the shares if—
+(1A) If shares in a company are transferred in accordance with the rules of a designated FMI, the company may refuse to complete or delay the registration of the transfer of the shares if—
   (a) the board of the company resolves, within 30 working days of the date on which the settlement was effected, to refuse or delay registration of the transfer, and the resolution sets out in full the reasons for doing so; and
   (b) notice of the resolution, including those reasons, is sent to the transferor and to the transferee within 5 working days of the resolution being passed by the board; and
   (c) this Act or the constitution of the company expressly permits the board to refuse or delay registration for the reasons stated.
-(2) Subject to subsections (1) and (1A), if a company fails to enter or cause to be entered the name of the transferee on the share register on a transfer of shares effected in accordance with the rules of a designated settlement system, or under a system approved under section 376 of the Financial Markets Conduct Act 2013,—
+(2) Subject to subsections (1) and (1A), if a company fails to enter or cause to be entered the name of the transferee on the share register on a transfer of shares effected in accordance with the rules of a designated FMI, or under a system approved under section 376 of the Financial Markets Conduct Act 2013,—
   (a) the company commits an offence and is liable on conviction to the penalty set out in section 373(1); and
   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(1).
 
@@ -1099,7 +1100,7 @@ For the purposes of this Act, ultimate holding company information means informa
   (a) the name of the company; and
   (b) the class of shares held by that person; and
   (c) the number of shares held by that person.
-(2) Nothing in subsections (1) or (5) applies in relation to a company the shares in which can be transferred in accordance with the rules of a designated settlement system, or under a system approved under section 376 of the Financial Markets Conduct Act 2013, that does not require a share certificate for the transfer of shares.
+(2) Nothing in subsections (1) or (5) applies in relation to a company the shares in which can be transferred in accordance with the rules of a designated FMI, or under a system approved under section 376 of the Financial Markets Conduct Act 2013, that does not require a share certificate for the transfer of shares.
 (3) A shareholder in a company, not being a company to which subsection (1) or subsection (2) applies, may apply to the company for a certificate relating to some or all of the shareholder's shares in the company.
 (4) On receipt of an application for a share certificate under subsection (3), the company must, within 20 working days after receiving the application,—
   (a) if the application relates to some but not all of the shares, separate the shares shown in the register as owned by the applicant into separate parcels; one parcel being the shares to which the share certificate relates, and the other parcel being any remaining shares; and
@@ -4803,7 +4804,7 @@ Every document entered into, made, or issued by a liquidator of a company on beh
   (b) does not include—
     (i) a netting agreement to which sections 310A to 310O apply; or
     (ii) any contract of the company that constitutes a transaction under a netting agreement; or
-    (iii) a settlement instruction or a settlement under the rules of a settlement system that is declared to be a designated settlement system under Part 5C of the Banking (Prudential Supervision) Act 1989.
+    (iii) a settlement instruction or a settlement under the rules of a designated FMI.
 (3) A disclaimer under this section—
   (a) brings to an end on and from the date of the disclaimer the rights, interests, and liabilities of the company in relation to the property disclaimed:
   (b) does not, except so far as necessary to release the company from a liability, affect the rights or liabilities of any other person.
