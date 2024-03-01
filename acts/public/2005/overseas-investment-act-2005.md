@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-03-01_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -1999,7 +1999,7 @@ A statutory manager has, and may exercise, all of the powers conferred on a liqu
   (b) a covered bond SPV (within the meaning of section 139B of the Banking (Prudential Supervision) Act 1989):
   (c) a licensed insurer (within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010):
   (d) a non-bank deposit taker (within the meaning of NBDT in section 5 of the Non-bank Deposit Takers Act 2013):
-  (e) an operator of a designated settlement system (within the meaning of section 156N of the Banking (Prudential Supervision) Act 1989).
+  (e) an operator of a designated FMI (within the meaning of section 5 of the Financial Market Infrastructures Act 2021).
 (2) The Minister must consult the Reserve Bank before making a recommendation under section 96.
 (3) Section 99(1) does not apply and instead the statutory manager must have regard to—
   (a) the purpose of statutory management (see section 94):
