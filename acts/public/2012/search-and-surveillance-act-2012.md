@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2024-02-17_
+_Consolidation as at 2024-03-01_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3909,6 +3909,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 47L | Authorised employee may obtain and execute search warrant to monitor and enforce compliance with certain standards and notices | All (except sections 118 and 119) |
 | Films, Videos, and Publications Classification Act 1993 | 109 | Constable or inspector may obtain and execute search warrant to search for evidence of offences against Films, Videos, and Publications Classification Act 1993 (other than against sections 126 and 131A) | All (except sections 118 and 119) |
 |  | 109A(1) and 109B | Constable or inspector may obtain and execute search warrant to search for evidence of offences against section 126 or 131A of Films, Videos, and Publications Classification Act 1993 | All (except sections 118 and 119) |
+| Financial Market Infrastructures Act 2021 | 63(3) and 64 | Investigator of designated FMI may exercise search powers | All |
 | Financial Markets Authority Act 2011 | 29(1) and (3) | Specified person may enter and search place, vehicle, or other thing by consent or with warrant to ascertain if person is contravening financial markets legislation | All (except sections 118 and 119) |
 | Financial Transactions Reporting Act 1996 | 44 | Constable may obtain and execute search warrant to search for evidence of offence against Financial Transactions Reporting Act 1996 or any regulations made under that Act | All |
 | Fire and Emergency New Zealand Act 2017 | 170(1) | FENZ inspector may enter and inspect land and buildings for the purposes specified in section 170(2) of the Fire and Emergency New Zealand Act 2017 | All (except subpart 3 and sections 118 and 119) |
