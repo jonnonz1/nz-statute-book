@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2024-03-01_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -883,15 +883,15 @@ A perfected security interest in crops is not extinguished or prejudicially affe
   (b) in any other case, the time when a charging order or a garnishee order is made.
 (2) To avoid doubt, an execution creditor does not include a landlord who exercises a right of distress.
 
-**Priority of interests of certain operators of designated settlement system**
+**Priority of interests of certain operators of designated FMI**
 
-### 103A Priority of interests of certain operators of designated settlement system
-(1) The interest of an operator in personal property has priority over any security interest (including a purchase money security interest) in the same personal property if a participant in a designated settlement system has, in accordance with the rules of that designated settlement system,—
+### 103A Priority of interests of certain operators of designated FMI
+(1) The interest of an operator in personal property has priority over any security interest (including a purchase money security interest) in the same personal property if a participant in a designated FMI has, in accordance with the rules of that designated FMI,—
   (a) either—
     (i) granted a security interest in that personal property in favour of the operator; or
     (ii) transferred that personal property, or the participant’s interest in that personal property, to the operator; and
   (b) taken that action for the purpose of, or in connection with, either—
-    (i) effecting a settlement in accordance with the rules of that designated settlement system; or
+    (i) effecting a settlement in accordance with the rules of that designated FMI; or
     (ii) mitigating a loss that may be incurred by the operator if the participant defaults.
 (2) Subsection (3) applies if—
   (a) the interest of an operator in personal property has priority under subsection (1); and
@@ -899,18 +899,19 @@ A perfected security interest in crops is not extinguished or prejudicially affe
   (c) the relevant participant has defaulted.
 (3) If this subsection applies, the operator—
   (a) does not have to comply with section 114(1) in respect of that personal property; and
-  (b) may immediately apply the personal property, in accordance with the rules of the designated settlement system,—
+  (b) may immediately apply the personal property, in accordance with the rules of the designated FMI,—
     (i) to satisfy the participant's obligations in respect of which the participant is in default; or
     (ii) to mitigate any loss incurred by the operator as a result of the participant's default.
-(4) Whether a loss has been incurred and whether a participant has defaulted, for the purposes of this section, must be determined by reference to, and in accordance with, the rules of the designated settlement system.
+(4) Whether a loss has been incurred and whether a participant has defaulted, for the purposes of this section, must be determined by reference to, and in accordance with, the rules of the designated FMI.
 (5) This section overrides anything in this Act to the contrary.
 (6) In this section,—
-  - **operator** means an operator of a designated settlement system who is (and at the time in question remains) specified under section 156N(3)﻿(c) of the Banking (Prudential Supervision) Act 1989 as being an operator to whom this section applies
-  - **participant** —
-    (a) means a person who has agreed to participate in a settlement system in accordance with the rules of that system; and
-    (b) includes an operator of a designated settlement system if the designation under section 156N(3)﻿(b) of the Banking (Prudential Supervision) Act 1989 so provides
-  - **rules** means the rules of a designated settlement system, as that term is defined in paragraph (b) of the definition of rules in section 156M of the Banking (Prudential Supervision) Act 1989.
-(7) In this section, designated settlement system and settlement have the meanings given to them by section 2(1) or 156M of the Banking (Prudential Supervision) Act 1989.
+  (a) designated FMI means a designated FMI (as defined in section 5 of the Financial Market Infrastructures Act 2021)—
+    (i) to which subpart 5 of Part 3 of that Act applies; and
+    (ii) whose designation notice specifies under section 29(2)﻿(b) of that Act that the specified operator is an operator to whom this section applies; and
+  (b) operator means an operator of a designated FMI who is (and at the time in question remains) the specified operator in relation to the designated FMI; and
+  (c) rules is to be read in accordance with section 35 of the Financial Market Infrastructures Act 2021; and
+  (d) other terms used that are defined in section 5 of the Financial Market Infrastructures Act 2021 have the meanings given in that section.
+(7)
 
 **Priority of interests under qualifying derivatives**
 
