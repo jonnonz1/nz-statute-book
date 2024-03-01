@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2024-01-01_
+_Consolidation as at 2024-03-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -34,6 +34,7 @@ _Consolidation as at 2024-01-01_
   - **approved provider** , in relation to alcohol interlock devices, means a person approved by the Director to install, maintain, or remove alcohol interlock devices
   - **approved vehicle surveillance equipment** means vehicle surveillance equipment of a kind approved by the Minister or the Minister of Police, by notice (see subsection (6))
   - **assessment centre** means an establishment or individual for the time being approved as an assessment centre for the purposes of this Act by the chief executive of the Ministry of Health
+  - **automated infringement system** means a device or a system of devices that has been approved by the Minister of Transport under section 139AAB
   - **axle** means 1 or more shafts, spindles, or bearings in the same vertical transverse plane by means of which, in conjunction with wheels mounted on those shafts, spindles, or bearings, a portion of the weight of the vehicle is transmitted to the roadway; and, except as the provisions of this Act or of the rules otherwise provide, the following provisions apply for the purposes of this Act and the regulations and rules:
     (a) if 2 or more wheels of a motor vehicle are substantially in the same line transversely and some or all of them have separate axles, the axles of all those wheels are to be treated as 1 axle:
     (b) if the longitudinal centre line of an axle of a motor vehicle is less than 1 metre distant from the longitudinal centre line of another axle, the 2 axles are to be treated as 1 axle (a dual axle):
@@ -60,6 +61,7 @@ _Consolidation as at 2024-01-01_
     (b) that occurred as part of the same series of events as the facts that gave rise to the person’s conviction for a qualifying offence; and
     (c) for which the offender may or must be disqualified from holding or obtaining a driver licence under this Act or under section 124 of the Sentencing Act 2002
   - **control** , in relation to a transport service, means direct or indirect control of the management of the whole or part of the transport service by a shareholding or the holding of any position (however described) in the management of the whole or part of the transport service that gives the person a significant influence on the operation of the whole or part of the service (whether or not other persons are also involved)
+  - **convert** , in relation to a motor vehicle, means to dishonestly and without claim of right, but not so as to be guilty of theft, take or use the vehicle for one’s own purposes or another person’s purposes (see Crimes Act 1961, section 226), and has a corresponding meaning
   - **court** means the District Court
   - **cruising** means driving repeatedly in the same direction over the same section of a road in a motor vehicle in a manner that—
     (a) draws attention to the power or sound of the engine of the motor vehicle being driven; or
@@ -75,11 +77,13 @@ _Consolidation as at 2024-01-01_
   - **dangerous goods** means goods declared by rules made under this Act to be dangerous goods
   - **dangerous goods enforcement officer** means a person appointed by warrant under section 208
   - **design** , in relation to a motor vehicle, refers to the construction of the motor vehicle, and not its use or intended use; and has a corresponding meaning
+  - **detection point** , in relation to a point-to-point average speed system, means a point on a road at which an item of approved vehicle surveillance equipment that is part of the system detects the presence of a motor vehicle
   - **Director** or means the Director of Land Transport appointed under section 104A of the Land Transport Management Act 2003
   - **drink** means alcoholic drink
   - **driver** , in relation to a vehicle, includes the rider of the motorcycle or moped or bicycle; and has a corresponding meaning
   - **driver licence** means a licence to drive that is issued or has effect under this Act; and includes an endorsement on a driver licence
   - **driver licence stop order** means an order imposed under section 91E
+  - **electronic address** includes an email address
   - **enforcement authority** , in relation to an infringement offence, means (except in relation to Part 17)—
     (a) the New Zealand Police, in any case:
     (b) the Agency or the Director, in the case of an infringement offence for which an infringement notice is issued by an employee of the Agency or the Director or on behalf of the Agency:
@@ -144,6 +148,7 @@ _Consolidation as at 2024-01-01_
   - **high-risk level** means, for a listed qualifying drug, the blood concentration level specified for the drug in Part 1 of Schedule 5
   - **hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **image** , in relation to approved vehicle surveillance equipment, includes a photograph, an electronic form of information storage, and the display and transmission of any pictorial or digital information
+  - **information system** , in relation to electronic communications, means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications
   - **infringement offence** means—
     (a) a moving vehicle offence:
     (ab) a stationary vehicle offence:
@@ -221,11 +226,13 @@ _Consolidation as at 2024-01-01_
     (a) means a motor vehicle running on 2 wheels, or not more than 3 wheels when fitted with a sidecar; and
     (b) includes a vehicle with motorcycle controls that is approved as a motorcycle by the Director; but
     (c) does not include a moped
-  - **moving vehicle offence** means an offence detected by approved vehicle surveillance equipment that is—
-    (a) a speeding offence; or
-    (b) an offence in respect of the failure to comply with the directions given by a traffic signal or a traffic sign that is a variable traffic or lane control sign; or
-    (c) any offence against regulations made under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986 that is declared by regulations under this Act to be a moving vehicle offence for the purposes of this definition; or
-    (d) a toll offence
+  - **moving vehicle offence** means—
+    (a) an offence detected by approved vehicle surveillance equipment that is—
+      (i) a speeding offence; or
+      (ii) an offence in respect of the failure to comply with the directions given by a traffic signal or a traffic sign that is a variable traffic or lane control sign; or
+      (iii) any offence against regulations made under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986 that is declared by regulations under this Act to be a moving vehicle offence for the purposes of this paragraph; or
+      (iv) a toll offence; or
+    (b) a speeding offence detected by a point-to-point average speed system
   - **non-serviced area** means an area that is identified on an Internet site maintained by or on behalf of the Agency and—
     (a) is 70 km or more from an approved provider’s service centre or is on an island without an approved provider’s service centre; and
     (b) is not able to be serviced by an approved provider via remote technology
@@ -273,6 +280,12 @@ _Consolidation as at 2024-01-01_
       (ii) a vehicle specified as an exempt passenger service vehicle in the regulations or the rules
   - **passive breath-testing device** means a passive breath-testing device of a kind approved by the Minister of Police, by notice (see subsection (6))
   - **permanent speed limit** means a speed limit that is in force except when a seasonal, variable, minimum, emergency, or temporary speed limit is in force
+  - **point-to-point average speed system** means a system that—
+    (a) consists of 2 items of approved vehicle surveillance equipment that operate in combination and with the support of associated software; and
+    (b) has the ability to—
+      (i) detect a speeding offence; and
+      (ii) calculate the average speed of a motor vehicle between 2 detection points; and
+    (c) has been approved by the Minister by notice (see subsection (6))
   - **positive** ,—
     (a) in relation to the result of an evidential breath test, means the result of the test indicates,—
       (i) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, that the breath of the person who underwent the test contains alcohol; or
@@ -637,11 +650,14 @@ If an enforcement officer, acting in the course of his or her official duties, b
   (b) render all practicable assistance to any injured persons.
 (2) The driver or rider of the vehicle must, if required by an enforcement officer or any other person involved in the accident, give the officer or other person—
   (a) the driver's or rider's name and address; and
+  (aa) the driver’s or rider’s electronic address (if the driver or rider has an electronic address); and
   (b) the name and address of the owner of the vehicle; and
+  (ba) the owner’s electronic address (if the owner has an electronic address); and
   (c) if the vehicle concerned is a motor vehicle, the number or letters or other expression on the registration plates assigned to the vehicle.
-(3) If the accident involves an injury to or the death of a person, the driver or rider must report the accident to an enforcement officer as soon as reasonably practicable, and in any case not later than 24 hours after the time of the accident, unless the driver or rider is incapable of doing so by reason of injuries sustained by him or her in the accident.
-(4) If the accident involves damage to an unoccupied motor vehicle or to other property belonging to a person other than the driver or rider, the driver or rider must (unless he or she is incapable of doing so by reason of injuries sustained by him or her in the accident), not later than 48 hours after the time of the accident, report to the owner—
+(3) If the accident involves an injury to or the death of a person, the driver or rider must report the accident to an enforcement officer as soon as reasonably practicable, and in any case not later than 24 hours after the time of the accident, unless the driver or rider is incapable of doing so by reason of injuries sustained in the accident.
+(4) If the accident involves damage to an unoccupied motor vehicle or to other property belonging to a person other than the driver or rider, the driver or rider must (unless is incapable of doing so by reason of injuries sustained in the accident), not later than 48 hours after the time of the accident, report to the owner—
   (a) the driver's or rider's name and address; and
+  (aa) the driver’s or rider’s electronic address (if the driver or rider has an electronic address); and
   (b) the number on the registration plates assigned to the motor vehicle; and
   (c) the location of the accident.
 (5) If the accident involves damage to an unoccupied motor vehicle or to other property belonging to a person other than the driver or rider, but the owner cannot readily be contacted or identified, the driver or rider must report the accident to an enforcement officer as soon as practicable and in any case within 60 hours after the time of the accident.
@@ -1555,8 +1571,8 @@ A court may impose a fine for an infringement offence, other than an overloading
 
 ### 49 Contravention of section 97(5) or (6)
 (1) A person commits an offence if—
-  (a) the person, without reasonable excuse and acting without authority under this Act, removes or releases from storage a motor vehicle impounded under any of sections 96, 96A, 122, 123, and 249; or
-  (b) the person is a storage provider and fails or refuses, without reasonable excuse, to comply immediately with a direction under this Act to release a vehicle impounded under any of sections 96, 96A, 122, 123, and 249 to the owner or a person authorised by the owner.
+  (a) the person, without reasonable excuse and acting without authority under this Act, removes or releases from storage a motor vehicle impounded under any of sections 96, 96AAA, 96AAB, 96A, 122, 123, and 249; or
+  (b) the person is a storage provider and fails or refuses, without reasonable excuse, to comply immediately with a direction under this Act to release a vehicle impounded under any of sections 96, 96AAA, 96AAB, 96A, 122, 123, and 249 to the owner or a person authorised by the owner.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $5,000.
 
 ### 50 Contravention of section 117(2)
@@ -1593,7 +1609,7 @@ A court may impose a fine for an infringement offence, other than an overloading
   (c) fails or refuses to provide information or provides false or misleading information in response to a demand for information made by an enforcement officer under section 114(3)﻿(b).
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
 (3) If a person is convicted of a first offence against subsection (1)﻿(a) or (b) and committed the offence while exceeding the applicable speed limit or operating a motor vehicle in an otherwise dangerous manner, a court must order the person to be disqualified from holding or obtaining a driver licence for 6 months.
-(4) If a person is convicted of a second offence against subsection (1), a court must order the person to be disqualified from holding or obtaining a driver licence for 1 year.
+(4) If a person is convicted of a second offence against subsection (1), a court must order the person to be disqualified from holding or obtaining a driver licence for a period of not less than 1 year and not more than 2 years.
 (5) If a person is convicted for a third or subsequent offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 2 years.
@@ -1612,12 +1628,12 @@ A court may impose a fine for an infringement offence, other than an overloading
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
 (3) Subsection (1) does not affect section 48 of the Policing Act 2008.
 
-### 55 Tampering with vehicle surveillance equipment
+### 55 Tampering with vehicle surveillance equipment or point-to-point average speed system
 (1) A person commits an offence if the person—
-  (a) tampers with approved vehicle surveillance equipment; or
+  (a) tampers with approved vehicle surveillance equipment or a point-to-point average speed system; or
   (b) interferes with—
-    (i) approved vehicle surveillance equipment; or
-    (ii) the operation of approved vehicle surveillance equipment.
+    (i) approved vehicle surveillance equipment or a point-to-point average speed system; or
+    (ii) the operation of approved vehicle surveillance equipment or a point-to-point average speed system.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $5,000.
 
 ### 55A Offences concerning alcohol interlock devices
@@ -2789,7 +2805,7 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 **Demerit points system**
 
 ### 88 Demerit points to be recorded by Director
-(1) If a person is convicted of an offence (other than an offence detected by approved vehicle surveillance equipment) concerning the driving of a motor vehicle, the Director must record in respect of that person such number of points (demerit points) as may be prescribed for that offence.
+(1) If a person is convicted of an offence (other than an offence detected by approved vehicle surveillance equipment or a point-to-point average speed system) concerning the driving of a motor vehicle, the Director must record in respect of that person such number of points (demerit points) as may be prescribed for that offence.
 (2) The Registrar of the court must send to the Director particulars of convictions to which subsection (1) applies.
 (3) If a person is convicted of 2 or more offences arising out of the same set of circumstances,—
   (a) demerit points must be recorded in relation to 1 offence only; and
@@ -2852,7 +2868,7 @@ In this section and in sections 91C to 91H, unless the context otherwise require
 ### 91B Ways in which warning notice or driver licence stop order or details of related fines must be served
 (1) A warning notice or a driver licence stop order, or notice of details of the fines to which that order relates, must be served on a defendant in 1 of the following ways:
   (a) by an employee or agent of the Ministry of Justice or an enforcement officer delivering it to the defendant personally or bringing it to the defendant's notice if the defendant refuses to accept it:
-  (b) by an employee or agent of the Ministry of Justice or an enforcement officer leaving it for the defendant, at his or her place of residence, with another person who appears to be of or over the age of 14 years:
+  (b) by an employee or agent of the Ministry of Justice or an enforcement officer leaving it for the defendant, at the defendant’s place of residence, with another person who appears to be of or over the age of 14 years:
   (c) by an employee or agent of the Ministry of Justice or an enforcement officer leaving it for the defendant, at the defendant’s place of business or place of work, with another person:
   (d) by the chief executive of the Ministry of Justice sending it to the defendant by prepaid post addressed to the defendant at the defendant's last known place of residence or business or place of work:
   (e) if the defendant has a known electronic address, by the chief executive of the Ministry of Justice sending it to the defendant at that address in electronic form.
@@ -2861,7 +2877,7 @@ In this section and in sections 91C to 91H, unless the context otherwise require
 (4) If a warning notice or driver licence stop order, or notice of details of the fines to which that order relates, is served in electronic form under subsection (1)﻿(e), then, unless the contrary is shown,—
   (a) the notice or order, or notice of details, is served at the time the electronic communication containing the notice or order, or notice of details, first enters an information system outside the control of its originator; and
   (b) in proving service, it is sufficient to prove that the electronic communication was properly addressed and sent.
-(5) In this section, information system means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications.
+(5)
 
 ### 91C Liability to driver licence stop order
 A defendant who is obliged to pay a traffic fine is liable to the imposition of a driver licence stop order if—
@@ -2994,8 +3010,8 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
       (B) to have a blood alcohol concentration exceeding 130 milligrams of alcohol per 100 millilitres of blood; or
   (b) failed or refused to undergo a blood test, after having been required or requested to do so under section 72 or section 73; or
   (c) driven a motor vehicle on a road at a speed exceeding—
-    (i) the permanent speed limit by more than 40 km an hour (which speed was detected by a means other than approved vehicle surveillance equipment); or
-    (ii) any other speed limit by more than 50 km an hour (which speed was detected by a means other than approved vehicle surveillance equipment).
+    (i) the permanent speed limit by more than 40 km an hour (which speed was detected by a means other than approved vehicle surveillance equipment or a point-to-point average speed system); or
+    (ii) any other speed limit by more than 50 km an hour (which speed was detected by a means other than approved vehicle surveillance equipment or a point-to-point average speed system).
 (1A) If an enforcement officer believes on reasonable grounds that a person has undergone an evidential breath test and has been found to have a breath alcohol concentration exceeding 650 micrograms of alcohol per litre of breath,—
   (a) the enforcement officer must give the person a notice under subsection (1)﻿(a) even though the person has the right under section 70A to elect to have a blood test; and
   (b) a further notice is not required and must not be given under subsection (1)﻿(a) if the person undergoes a blood test and is found to have a blood alcohol concentration exceeding 130 milligrams of alcohol per 100 millilitres of blood.
@@ -3035,7 +3051,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (a) the person was disqualified from holding or obtaining a driver licence authorising the person to drive that vehicle; or
   (b) the person's driver licence is for the time being suspended or was revoked; or
   (ba) in the case of a person who is the holder of an alcohol interlock licence, the person operated that vehicle contrary to the conditions of that licence; or
-  (c) in the case of a person who was previously forbidden to drive because the person was an unlicensed driver or his or her driver licence had expired, the person did not hold a driver licence; or
+  (c) in the case of a person who was previously forbidden to drive because the person was an unlicensed driver or their driver licence had expired, the person did not hold a driver licence; or
   (d) the person, if they had previously been convicted of 2 or more offences against any of sections 56(1) and (2), 57, 57AA, 57A(1), 57B(1), 57C(1), 58(1), 60(1), and 61(1) and (2) within the last 4 years,—
     (i) had a breath alcohol concentration exceeding 400 micrograms of alcohol per litre of breath; or
     (ii) had a blood alcohol concentration exceeding 80 milligrams of alcohol per 100 millilitres of blood; or
@@ -3049,29 +3065,37 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 (1A) An enforcement officer must, if practicable, seize and impound, or seize and authorise the impoundment of, a motor vehicle for 28 days if the officer believes on reasonable grounds that a person—
   (a) operated the vehicle in a race, or in an unnecessary exhibition of speed or acceleration, on a road in contravention of section 22A(1); or
   (b) without reasonable excuse, operated the vehicle on a road in a manner that caused the vehicle to undergo sustained loss of traction in contravention of section 22A(3).
-(1AB) An enforcement officer may seize and impound, or seize and authorise the impoundment of, a motor vehicle for 28 days if the officer believes on reasonable grounds that a person driving the vehicle has failed to stop (or remain stopped) as signalled, requested, or required under section 114.
+(1AB)
 (1B) An enforcement officer who seizes and impounds (or authorises the impoundment of) a motor vehicle under subsection (1A) must, by means of a notice in the form approved for the purposes of section 115(1), direct that the vehicle is not to be driven on a road.
 (1C) For the purposes of this Act and any other enactment, a notice given under subsection (1B) has effect as a notice given under section 115(1).
 (1D) A notice under subsection (1B) may include a condition to the effect that the vehicle may continue to be driven to reach a specified place for repair or may continue to be driven for a given time or under limitations as to speed or route or otherwise, unless the direction referred to in that subsection has been cancelled.
-(1E) An enforcement officer who seizes and impounds (or authorises the impoundment of) a motor vehicle because he or she believes on reasonable grounds that a person has undergone an evidential breath test and has been found to have a breath alcohol concentration exceeding 400 micrograms of alcohol per litre of breath,—
+(1E) An enforcement officer who seizes and impounds, or seizes and authorises the impoundment of, a motor vehicle because the enforcement officer believes on reasonable grounds that a person has undergone an evidential breath test and has been found to have a breath alcohol concentration exceeding 400 micrograms of alcohol per litre of breath,—
   (a) must give the person a notice under subsection (2) even though the person has the right under section 70A to elect to have a blood test; and
   (b) a further notice is not required and must not be given under subsection (2) if the person undergoes a blood test and is found to have a blood alcohol concentration exceeding 80 milligrams of alcohol per 100 millilitres of blood.
-(2) An enforcement officer who seizes and impounds (or authorises the impoundment of) a motor vehicle under this section must—
+(2) An enforcement officer who seizes and impounds, or seizes and authorises the impoundment of, a motor vehicle under this section must—
   (a) complete a notice in the prescribed form, or in a form to the same effect, acknowledging the seizure and impoundment, and setting out (if the particulars are reasonably ascertainable)—
     (i) the full name and full address of the driver; and
+    (ia) the driver’s electronic address (if the driver has an electronic address); and
     (ii) the year and make of the vehicle, and its registration plate details or vehicle identification number; and
     (iia) if subsection (1A) applies, the date and time of the alleged offence; and
     (iii) the date and time of the seizure; and
     (iv) the place where the vehicle is to be impounded; and
     (v) an outline of the person's rights of appeal under sections 102 and 110; and
   (b) give the driver a copy of the notice, unless the driver has left the scene; and
-  (c) give the person registered under Part 17 in respect of the vehicle a copy of the notice, if that person is present at the time of the seizure, or as soon as practicable send a copy to that person by ordinary post to that person's last known place of residence or business or postal address, or address as recorded on the register of motor vehicles; and
-  (d) cause a copy of the notice to be given to the storage provider who stores the motor vehicle; and
+  (c) if the driver has left the scene, give a copy of the notice to the registered person, if that person is present at the time of the seizure, or send a copy of the notice to that person in accordance with subsection (2AAA); and
+  (d) give or send a copy of the notice to the vehicle recovery service operator who tows or carries the impounded motor vehicle to the place where it is to be stored; and
+  (da) give or send a copy of the notice to the storage provider who stores the motor vehicle; and
   (e) retain a copy of the notice for 12 months.
+(2AAA) For the purposes of subsection (2)﻿(c), if the registered person is not present at the time of the seizure, the enforcement officer must, as soon as practicable, send a copy of the notice to the registered person—
+  (a) by post addressed to that person at their last known place of residence or business, their last known postal address, or their address as recorded on the register of motor vehicles or any other register administered by the Agency; or
+  (b) by electronic means addressed to that person at—
+    (i) an electronic address that the person has given to an enforcement authority; or
+    (ii) otherwise, the person’s last known electronic address.
 (2A) The driver of a motor vehicle seized or impounded under this section must, if requested to do so by an enforcement officer,—
   (a) provide the driver's—
     (i) full name; and
     (ii) full address; and
+    (iia) electronic address (if the driver has an electronic address); and
     (iii) date of birth; and
     (iv) occupation; and
     (v) telephone number; and
@@ -3079,31 +3103,32 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (b) provide, if known to the driver and the driver is not the registered person, the registered person's—
     (i) full name; and
     (ii) full address; and
+    (iia) electronic address (if the person has an electronic address); and
     (iii) date of birth; and
     (iv) occupation; and
     (v) telephone number.
-(3) The owner of an impounded vehicle has the rights of appeal provided in sections 102 and 110.
-(4) Personal property (other than property attached to or used in connection with the operation of the vehicle) present in a motor vehicle at the time of the seizure and impoundment must be released on request to a person who produces satisfactory evidence to the effect that he or she was lawfully entitled to possession of the vehicle or personal property immediately before the vehicle was moved.
+(3) The relevant person specified in subsection (6B) has the rights of appeal provided in sections 102 and 110.
+(4) Personal property (other than property attached to or used in connection with the operation of the vehicle) present in a motor vehicle at the time of the seizure and impoundment must be released on request to a person who produces satisfactory evidence to the effect that they were lawfully entitled to possession of the vehicle or personal property immediately before the vehicle was moved.
 (4A) Personal property present in a motor vehicle at the time of the seizure and impoundment must be released subsequently to—
   (a) a bailiff or constable who is executing a warrant to seize property:
   (b) a person acting on behalf of the owner of the goods if the person produces satisfactory evidence of the owner's consent to such release.
-(5) An enforcement officer does not have to seize or impound a motor vehicle if the officer has good cause to suspect that the vehicle is a stolen vehicle or had been converted, is a write-off, or has suffered severe damage.
-(6) A vehicle to which a notice under this section relates must be released to the owner if—
+(5) An enforcement officer does not have to seize and impound a motor vehicle if the officer has good cause to suspect that the vehicle is a stolen vehicle or had been converted, is a write-off, or has suffered severe damage.
+(6) A vehicle to which a notice under this section relates must be released to the relevant person specified in subsection (6B) if—
   (a) the Police have decided not to take any of the following proceedings (or if proceedings have been taken and the person is acquitted):
     (i) proceedings against a person who drove the vehicle in circumstances referred to in subsection (1):
-    (ii) proceedings against a person who operated the vehicle in circumstances referred to in subsection (1AA) or (1A):
-    (iii) in relation to a vehicle driven by a person who failed to stop (or remain stopped) in the circumstances referred to in subsection (1AB), proceedings against that person:
-    (iv) in relation to a vehicle driven by a person who failed to stop (or remain stopped) in the circumstances referred to in subsection (1AB), proceedings against a person (if any) who has not provided the information requested under section 118(4); and
+    (ii) proceedings against a person who operated the vehicle in circumstances referred to in subsection (1AA) or (1A); and
+    (iii)
+    (iv)
   (b) the vehicle has not been—
     (i) released; or
     (ii) seized under the Summary Proceedings Act 1957; or
-    (iii) confiscated under the Sentencing Act 2002.
-(6A) A vehicle to which a notice under this section relates must be released to the owner when the result of the blood test (if any) is notified to the person who drove the vehicle in circumstances referred to in subsection (1)﻿(d) if—
-  (a) the blood test shows that he or she had a blood alcohol concentration of, or less than, 80 milligrams of alcohol per 100 millilitres of blood; and
+    (iii) confiscated or forfeited under the Sentencing Act 2002.
+(6A) A vehicle to which a notice under this section relates must be released to the relevant person specified in subsection (6B) when the result of the blood test (if any) is notified to the person who drove the vehicle in circumstances referred to in subsection (1)﻿(d) if—
+  (a) the blood test shows that the driver had a blood alcohol concentration of, or less than, 80 milligrams of alcohol per 100 millilitres of blood; and
   (b) the vehicle has not already been released.
-(6B) A vehicle to which subsection (1AB) applies may be released to the owner if the owner—
-  (a) was not the person driving the vehicle when the vehicle failed to stop (or remain stopped); and
-  (b) has provided the information requested under section 118(4).
+(6B) In subsections (3), (6), and (6A), the relevant person is—
+  (a) the registered person, if the vehicle is registered; or
+  (b) if the vehicle is not registered, a person who the enforcement officer is satisfied is the owner of the vehicle.
 (7) Nothing in this section authorises the seizure or impoundment of a trailer or any other vehicle without motive power that is being towed by or is attached to a motor vehicle.
 (8) Nothing in subsection (1) applies to a person driving a vehicle if—
   (a) the person has been ordered by a court to attend an approved course or programme; and
@@ -3111,6 +3136,60 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
     (i) in the case of a motorcyclist, under the supervision of a person who holds a current certificate of approval as a driving instructor issued by the Director under the regulations or the rules:
     (ii) in any other case, while accompanied by a person who holds a certificate referred to in subparagraph (i).
 (9) Nothing in subsection (1A) applies to a person operating a motor vehicle in a manner that is authorised by law within the meaning of section 22A(4).
+
+### 96AAA Impoundment of motor vehicle used in offence of failing to stop, etc
+(1) An enforcement officer may seize and impound, or seize and authorise the impoundment of, a motor vehicle for 6 months if the officer believes on reasonable grounds that—
+  (a) the person driving the vehicle has failed to stop (or remain stopped) as signalled, requested, or required under section 114 (see section 52A(1)﻿(a) and (b) for the offence); and
+  (b) the vehicle—
+    (i) is not a stolen vehicle; and
+    (ii) has not been converted; and
+    (iii) is not a write-off; and
+    (iv) has not suffered severe damage.
+(2) If an enforcement officer seizes and impounds, or seizes and authorises the impoundment of, a vehicle under this section, the following provisions apply, with any necessary modifications, as if the vehicle were seized and impounded under section 96:
+  (a) section 96(2) to (4A), (7), and (8):
+  (b) section 97:
+  (c) section 98.
+(3) A vehicle to which this section applies and a notice under section 96(2) relates must be released to the relevant person specified in subsection (5) if—
+  (a) the Police have decided not to take any of the following proceedings (or proceedings have been taken and the person against whom they are taken is acquitted):
+    (i) proceedings against the driver who failed to stop (or remain stopped) (see section 52A(1)﻿(a) or (b) for the offence):
+    (ii) proceedings against the registered person for, or hirer of, the motor vehicle who, without reasonable excuse, failed or refused to provide information or provided false or misleading information in response to a request under section 118(4) (see section 52(6) for the offence); and
+  (b) the vehicle has not been—
+    (i) released; or
+    (ii) seized under the Summary Proceedings Act 1957; or
+    (iii) confiscated under the Sentencing Act 2002.
+(4) A vehicle to which this section applies and a notice under section 96(2) relates may be released to the relevant person specified in subsection (5) if that person—
+  (a) was not the person driving the vehicle when the vehicle failed to stop (or remain stopped); and
+  (b) has provided the information requested under section 118(4).
+(5) For the purposes of subsections (3) and (4), the relevant person is,—
+  (a) if the vehicle is registered,—
+    (i) the hirer (if any) of the vehicle; or
+    (ii) otherwise, the registered person for the vehicle; or
+  (b) if the vehicle is not registered, a person who the enforcement officer is satisfied is the owner of the vehicle.
+
+### 96AAB Impoundment of motor vehicle for failure to give information about offence of failing to stop, etc
+(1) This section applies if a vehicle—
+  (a) is involved in the commission of an offence against section 52A(1)﻿(a) or (b); and
+  (b) has not been seized and impounded under section 96AAA.
+(2) An enforcement officer may seize and impound, or seize and authorise the impoundment of, a motor vehicle for 28 days if the officer believes on reasonable grounds that—
+  (a) either—
+    (i) the driver of the vehicle failed or refused to provide information or provided false or misleading information in response to a demand for information made by the officer under section 114(3)﻿(b) (see section 52A(1)﻿(c) for the offence); or
+    (ii) the registered person for, or the hirer of, the motor vehicle, without reasonable excuse, failed or refused to provide information or provided false or misleading information in response to a request under section 118(4) (see section 52(6) for the offence); and
+  (b) impounding the vehicle is necessary to prevent a serious threat to road safety.
+(3) If an enforcement officer seizes and impounds, or seizes and authorises the impoundment of, a vehicle under this section, the following provisions apply, with any necessary modifications, as if the vehicle were seized and impounded under section 96:
+  (a) section 96(2) to (4A), (7), and (8):
+  (b) section 97:
+  (c) section 98.
+(4) A vehicle to which this section applies and a notice under section 96(2) relates must be released to the relevant person specified in subsection (6) if the Police have decided not to take any of the following proceedings (or if proceedings have been taken and the person against whom they are taken is acquitted):
+  (a) proceedings against the driver for a matter referred to in subsection (2)﻿(a)﻿(i):
+  (b) proceedings against the registered person or hirer for a matter referred to in subsection (2)﻿(a)﻿(ii).
+(5) A vehicle to which this section applies and a notice under section 96(2) relates may be released to the relevant person specified in subsection (6) if—
+  (a) the driver has given the information demanded under section 114(3)﻿(b); or
+  (b) the registered person or hirer has given the information requested under section 118(4).
+(6) For the purposes of subsections (4) and (5), the relevant person is,—
+  (a) if the vehicle is registered,—
+    (i) the hirer (if any) of the vehicle; or
+    (ii) otherwise, the registered person for the vehicle; or
+  (b) if the vehicle is not registered, a person who the enforcement officer is satisfied is the owner of the vehicle.
 
 ### 96A Impoundment of vehicle used in transport service
 (1) An enforcement officer must seize and impound, or seize and authorise the impoundment of, a motor vehicle that is being used in a transport service for 28 days if the officer believes on reasonable grounds that a person drove the vehicle on a road while—
@@ -3122,19 +3201,28 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 (2) An enforcement officer who seizes and impounds (or authorises the impoundment of) a vehicle under this section must—
   (a) complete a notice in the prescribed form, or in a form to the same effect, acknowledging the seizure and impoundment, and setting out (if the particulars are reasonably ascertainable)—
     (i) the full name and full address of the driver; and
+    (ia) the driver’s electronic address (if the driver has an electronic address); and
     (ii) the full name and full address of the transport service operator, if different from the driver; and
+    (iia) the transport service operator’s electronic address (if the transport service operator is different from the driver and has an electronic address); and
     (iii) the year of manufacture and make of the vehicle, and its registration plate details or vehicle identification number; and
     (iv) the date and time of the seizure; and
     (v) the place where the vehicle is to be impounded; and
     (vi) an outline of the person's rights of appeal under sections 102 and 110; and
   (b) give the driver a copy of the notice, unless the driver has left the scene; and
-  (c) give the person registered under Part 17 in respect of the vehicle a copy of the notice, if that person is present at the time of the seizure, or as soon as practicable send a copy to that person by ordinary post to that person's last known place of residence or business or postal address, or address as recorded on the register of motor vehicles; and
-  (d) cause a copy of the notice to be given to the storage provider who stores the motor vehicle; and
+  (c) if the driver has left the scene, give a copy of the notice to the registered person, if that person is present at the time of the seizure, or send a copy of the notice to that person in accordance with subsection (2AAA); and
+  (d) give or send a copy of the notice to the vehicle recovery service operator who tows or carries the impounded motor vehicle to the place where it is to be stored; and
+  (da) give or send a copy of the notice to the storage provider who stores the motor vehicle; and
   (e) retain a copy of the notice for 12 months.
+(2AAA) For the purposes of subsection (2)﻿(c), if the registered person is not present at the time of the seizure, the enforcement officer must, as soon as practicable, send a copy of the notice to the registered person—
+  (a) by post addressed to that person at their last known place of residence or business, their last known postal address, or their address as recorded on the register of motor vehicles or any other register administered by the Agency; or
+  (b) by electronic means addressed to that person at—
+    (i) an electronic address that the person has given to an enforcement authority; or
+    (ii) otherwise, the person’s last known electronic address.
 (2A) The driver of a motor vehicle seized or impounded under this section must, if requested to do so by an enforcement officer,—
   (a) provide the driver’s—
     (i) full name; and
     (ii) full address; and
+    (iia) electronic address (if the driver has an electronic address); and
     (iii) date of birth; and
     (iv) occupation; and
     (v) telephone number; and
@@ -3142,59 +3230,90 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (b) provide, if known to the driver and different from the driver, the transport service operator’s—
     (i) full name; and
     (ii) full address; and
+    (iia) electronic address (if the transport service operator has an electronic address); and
     (iii) date of birth (if an individual); and
     (iv) telephone number.
-(3) The owner of an impounded vehicle has the rights of appeal provided in sections 102 and 110.
-(4) Personal property (other than property attached to or used in connection with the operation of the vehicle) present in a motor vehicle at the time of the seizure and impoundment must be released on request to a person who produces satisfactory evidence to the effect that he or she was lawfully entitled to possession of the vehicle or personal property immediately before the vehicle was moved.
+(3) The relevant person specified in subsection (7) has the rights of appeal provided in sections 102 and 110.
+(4) Personal property (other than property attached to or used in connection with the operation of the vehicle) present in a motor vehicle at the time of the seizure and impoundment must be released on request to a person who produces satisfactory evidence to the effect that they were lawfully entitled to possession of the vehicle or personal property immediately before the vehicle was moved.
 (4A) Personal property present in a motor vehicle at the time of the seizure and impoundment must be released subsequently to—
   (a) a bailiff or constable who is executing a warrant to seize property:
   (b) a person acting on behalf of the owner of the goods if the person produces satisfactory evidence of the owner's consent to such release.
 (5) An enforcement officer does not have to seize or impound a motor vehicle if the officer has good cause to suspect that the vehicle is a stolen vehicle or had been converted, is a write-off, or has suffered severe damage.
-(6) A vehicle to which a notice under this section relates must be released to the owner if—
+(6) A vehicle to which a notice under this section relates must be released to the relevant person specified in subsection (7) if—
   (a) the Director or the Police have decided finally that proceedings will not be taken against the transport service operator or the person who drove the vehicle in circumstances referred to in subsection (1) or such proceedings have been taken and the person is acquitted; and
   (b) the vehicle has not been—
     (i) released; or
     (ii) seized under the Summary Proceedings Act 1957; or
     (iii) confiscated under the Sentencing Act 2002.
+(6A) For the purposes of subsections (3) and (6), the relevant person is,—
+  (a) if the vehicle is registered, the registered person for the vehicle; or
+  (b) if the vehicle is not registered, a person who the enforcement officer is satisfied is the owner of the vehicle.
 (7) Nothing in subsection (1) authorises the seizure or impoundment of a trailer or any other vehicle without motive power that is being towed by or is attached to a motor vehicle.
 (8) Sections 97 and 98 apply, with any necessary modifications, to a motor vehicle used in a transport service that is impounded under this section.
 
-### 97 Storage of impounded vehicles
-(1) A motor vehicle seized and impounded under section 96 must be stored where the enforcement officer directs.
-(2) The owner of the impounded vehicle is liable to pay the fees and charges for towage and storage that are prescribed or assessed in the manner specified by regulations made under section 167.
-(2A) For the purposes of subsection (2), owner, in relation to an impounded vehicle, means the person who is the registered person in respect of the vehicle at the time that the vehicle is impounded.
-(3) The fees and charges referred to in subsection (2) are recoverable from the owner of the impounded vehicle by the vehicle recovery service operator or storage provider.
-(3A) The fees and charges referred to in subsection (2) are recoverable from the chief executive of the Ministry of Justice by the vehicle recovery service operator or storage provider if an impounded vehicle is seized or confiscated from impoundment under the Summary Proceedings Act 1957 or the Sentencing Act 2002.
-(4) Nothing in subsection (3) limits or affects any rights against the owner of the vehicle, or in respect of the vehicle, that may be exercised by the vehicle recovery service operator or storage provider.
+### 97 Storage of impounded vehicles: generally
+(1) A motor vehicle seized and impounded under section 96, 96AAA, 96AAB, or 96A must be stored where the enforcement officer directs.
+(2) The registered person for the impounded vehicle is liable to pay the fees and charges for towage and storage that are prescribed or assessed in the manner specified by regulations made under section 167.
+(2A) Subsection (2) does not apply if—
+  (a) the registered person, or a person authorised by them, has not claimed the vehicle; or
+  (b) the vehicle is released under section 96(6) or (6A), 96AAA(3) or (4), or 96AAB(4) or (5); or
+  (c) in the case of a vehicle seized and impounded under section 96AAA, the registered person is a person who—
+    (i) held a security interest in the vehicle before its seizure for impoundment; and
+    (ii) since the impoundment,—
+      (A) repossessed the vehicle under Part 3A of the Credit Contracts and Consumer Finance Act 2003 or section 109 of the Personal Property Securities Act 1999; and
+      (B) became the registered person.
+(3) The fees and charges referred to in subsection (2) are recoverable from the registered person for the impounded vehicle by the vehicle recovery service operator or storage provider.
+(3AAA) The registered person for a motor vehicle impounded under section 96AAA must, within 38 days after the vehicle is seized and impounded,—
+  (a) pay the fees and charges for towage and storage referred to in subsection (2); or
+  (b) enter into an arrangement with the vehicle recovery operator and the storage provider for the payment of those fees and charges (for example, an arrangement for payment by instalments).
+(3A) The fees and charges referred to in subsection (2) are recoverable from the chief executive of the Ministry of Justice by the vehicle recovery service operator or storage provider if an impounded vehicle is seized, confiscated, or forfeited from impoundment under the Summary Proceedings Act 1957 or the Sentencing Act 2002.
+(3B) The fees and charges referred to in subsection (2) are recoverable from the Commissioner by the vehicle recovery service operator or storage provider if the vehicle is released under—
+  (a) section 96(6) or (6A), 96AAA(3) or (4), or 96AAB(4) or (5); or
+  (b) section 102(3) (unless the ground of appeal is the ground set out in section 102(1)﻿(gb)).
+(3C) Subsection (3D) applies to a vehicle recovery service operator or a storage provider who is entitled to recover fees or charges under subsection (3A) or (3B).
+(3D) The vehicle recovery operator or storage provider must repay to the registered person any fees or charges previously recovered from that person in relation to the impoundment within 10 working days after becoming aware of the seizure, confiscation, or forfeiture referred to in subsection (3A) or the direction to release under subsection (3B) (as applicable).
+(4) Nothing in subsection (3) limits or affects any rights against the registered person for the vehicle, or in respect of the vehicle, that may be exercised by the vehicle recovery service operator or storage provider.
 (5) A person may not remove or release from storage an impounded motor vehicle, unless allowed to do so under this Act.
 (6) The storage provider must immediately comply with—
-  (a) a direction given under this Act to release the vehicle to the owner or a person authorised for the purpose by the owner; or
+  (a) a direction given under this Act to release the vehicle to the registered person (or the owner, if the vehicle is not registered) or a person authorised for the purpose by the registered person (or owner); or
   (b) a warrant to seize property executed by a bailiff or constable under section 94 of the Summary Proceedings Act 1957; or
-  (c) a warrant of confiscation under section 132 of the Sentencing Act 2002 executed by a Registrar, bailiff, or constable.
-(7) The Commissioner, the chief executive of the Ministry of Justice, or a Registrar, or an enforcement officer authorised for the purpose by the Commissioner, may enter into such arrangements with vehicle recovery service operators and storage providers as he or she thinks necessary for the purposes of this section.
+  (c) a warrant of confiscation under section 132 of the Sentencing Act 2002 executed by a Registrar, bailiff, or constable; or
+  (d) an order of forfeiture made under section 142AAB of the Sentencing Act 2002.
+(7) The Commissioner, the chief executive of the Ministry of Justice, or a Registrar, or an enforcement officer authorised for the purpose by the Commissioner, may enter into such arrangements with vehicle recovery service operators and storage providers as they think necessary for the purposes of this section.
 (8) For the purposes of subsection (7), Registrar means any Registrar of the High Court or of the District Court, as the case may require, and includes a Deputy Registrar.
 
-### 98 Release of vehicle after 28 days
-(1) On or after the close of the 28-day impoundment period, the owner of the vehicle, or a person authorised for the purpose by the owner, or a bailiff or a constable executing a warrant to seize property under section 94 of the Summary Proceedings Act 1957, or a Registrar, bailiff, or constable executing a warrant of confiscation under section 132 of the Sentencing Act 2002, is entitled to remove the vehicle from storage by—
+### 98 Release of impounded vehicle
+(1) On or after the close of the impoundment period, the relevant person specified in subsection (10), or a person authorised for the purpose by the relevant person, or a bailiff or a constable executing a warrant to seize property under section 94 of the Summary Proceedings Act 1957, or a Registrar, bailiff, or constable executing a warrant of confiscation under section 132 of the Sentencing Act 2002, is entitled to remove the vehicle from storage by—
   (a) showing the storage provider proof of identity and either,—
-    (i) in the case of the owner of the vehicle, or a person authorised for the purpose by him or her, proof of ownership of the vehicle or the owner's copy of the notice of acknowledgement of seizure and impoundment; or
+    (i) in the case of the relevant person specified in subsection (10), or a person authorised for the purpose by the relevant person, either the relevant person’s copy of the notice of acknowledgement of seizure and impoundment or 1 of the following:
+      (A) if the relevant person is the registered person for the vehicle, proof of registration of the vehicle in their name:
+      (B) if the relevant person is the owner of the vehicle, proof of ownership of the vehicle; or
     (ii) in the case of a Registrar, bailiff, or constable, the warrant; and
   (b) paying the fees and charges for towage and storage of the vehicle, or entering into an arrangement to pay those fees and charges.
 (2) The storage provider is directed to release the vehicle as soon as practicable after subsections (1), (6), and (7) are satisfied.
-(3) An enforcement officer authorised for the purpose by the Commissioner may order the release of an impounded vehicle at any time before the close of the 28-day impoundment period if—
+(3) An enforcement officer authorised for the purpose by the Commissioner may order the release of an impounded vehicle at any time before the close of the impoundment period if—
   (a) the vehicle was impounded from an unlicensed driver; and
-  (b) that person has paid the fees and charges due for towage and storage of the vehicle as at the time of payment and produces to the officer his or her current driver licence.
+  (b) that person has paid the fees and charges due for towage and storage of the vehicle as at the time of payment and produces their current driver licence to the officer.
+(3A) In addition to the early release allowed by subsection (3), an enforcement officer authorised for the purpose by the Commissioner may order the release of a vehicle impounded under section 96AAA to the registered person at any time before the close of the impoundment period if the registered person is a person who—
+  (a) held a security interest in the vehicle before its seizure for impoundment; and
+  (b) since the impoundment,—
+    (i) repossessed the vehicle under Part 3A of the Credit Contracts and Consumer Finance Act 2003 or section 109 of the Personal Property Securities Act 1999; and
+    (ii) became the registered person.
 (4) If—the storage provider may apply to an enforcement officer authorised for the purpose by the Commissioner for approval to dispose of the vehicle, and any personal property found in the vehicle, and may, with the officer's approval, dispose of the vehicle, and any personal property found in the vehicle, on the terms and conditions that the officer thinks fit.
-  (a) a further 10 days has elapsed since the close of the 28-day impoundment period; and
-  (b) the owner, or a person authorised for the purpose by the owner, has not claimed the vehicle and has not paid the fees and charges for towage and storage of the vehicle or entered into an arrangement to pay those fees and charges; and
+  (a) 38 days have passed since the vehicle was impounded (whether it was impounded for 28 days or 6 months); and
+  (b) the relevant person specified in subsection (10), or a person authorised for the purpose by the relevant person, has not claimed the vehicle and has not paid the fees and charges for towage and storage of the vehicle or entered into an arrangement to pay those fees and charges; and
   (c) no other person has, within that period, established to the satisfaction of the authorised officer that the person is entitled to possession of the vehicle,—
+(4A) In making a decision under subsection (4) in relation to a vehicle impounded under section 96AAA (and any personal property found in the vehicle), the enforcement officer must have regard to whether the Police intend to take any of the following proceedings:
+  (a) proceedings against the driver of the vehicle who failed to stop (or remain stopped):
+  (b) proceedings against the registered person for, or hirer of, the motor vehicle who, without reasonable excuse, failed or refused to provide information or provided false or misleading information in response to a request under section 118(4).
+(4B) If the relevant person specified in subsection (10) has lodged an appeal under section 102 or 110, the enforcement officer must not approve the disposal of the vehicle (and any personal property found in it) before the appeal is determined.
 (5) On obtaining approval under subsection (4), the storage provider becomes the owner of the vehicle, and any personal property found in the vehicle, for all purposes.
 (6) However, before disposing of a motor vehicle under subsection (4), a storage provider must—
   (a) search the personal property securities register to identify every person with a security interest in the motor vehicle; and
   (b) notify in writing every person with a security interest in the motor vehicle.
 (7) Before removing a vehicle under subsection (1), a bailiff or constable executing a warrant to seize property under section 94 of the Summary Proceedings Act 1957, or a Registrar, bailiff, or constable executing a warrant of confiscation under section 132 of the Sentencing Act 2002, must—
   (a) pay any unpaid fees and charges referred to in section 97(2) related to the vehicle to be removed; or
-  (b) enter into an arrangement with the storage provider for the payment of any unpaid fees and charges that the owner of the impounded vehicle is liable to pay under section 97(2) in relation to the vehicle to be removed.
+  (b) enter into an arrangement with the storage provider for the payment of any unpaid fees and charges that the registered person for the impounded vehicle is liable to pay under section 97(2) in relation to the vehicle to be removed.
 (8) For the purposes of subsection (6), security interest has the same meaning as in section 17 of the Personal Property Securities Act 1999.
 (9) Despite anything in subsections (1) to (8),—
   (a) in the case of a bailiff or constable executing a warrant to seize property under section 94 of the Summary Proceedings Act 1957, the period during which an impounded vehicle may be seized—
@@ -3207,13 +3326,21 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
     (ii) ends when—
       (A) the vehicle is released under subsection (1); or
       (B) the storage provider becomes the owner of the vehicle under subsection (5).
+(10) For the purposes of subsections (1) and (4)﻿(b), the relevant person is—
+  (a) the registered person, if the vehicle is registered; or
+  (b) if the vehicle is not registered, a person who the enforcement officer is satisfied is the owner of the vehicle.
+(11) In this section, unless the context otherwise requires, impoundment period means,—
+  (a) for a vehicle impounded under section 96, 96AAB, or 96A, the 28-day period for which the vehicle was impounded:
+  (b) for a vehicle impounded under section 96AAA, the 6-month period for which the vehicle was impounded.
 
 **Prohibiting sale or disposal of motor vehicles**
 
 ### 98A Commissioner may prohibit sale or disposal of certain motor vehicles
 (1) This section applies if—
-  (a) a person is charged with an offence under this Act or any other enactment that would, if the person is convicted of the offence, permit or require a court to order the confiscation of the person's motor vehicle under the Sentencing Act 2002; and
-  (b) the Commissioner believes, on reasonable grounds in the circumstances, that the court would, if the person is convicted of the offence, order the confiscation of the person's motor vehicle under the Sentencing Act 2002.
+  (a) a person is charged with an offence under this Act or any other enactment that would, if the person is convicted of the offence, permit or require a court to order—
+    (i) the confiscation of the person’s motor vehicle under the Sentencing Act 2002; or
+    (ii) the forfeiture of the vehicle under section 142AAB of that Act; and
+  (b) the Commissioner believes, on reasonable grounds in the circumstances, that the court would, if the person is convicted of the offence, order that confiscation or forfeiture.
 (2) If this section applies, the Commissioner may prohibit the sale or disposal of the motor vehicle by giving notice in the prescribed form to—
   (a) the person who is charged; and
   (b) the registered person of the motor vehicle (if a person other than the person who is charged).
@@ -3227,8 +3354,8 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
     (iii) is convicted of such an offence but a court does not order the confiscation of the person's motor vehicle under the Sentencing Act 2002; or
   (b) may cancel the notice given under subsection (2) if—
     (i) the motor vehicle specified in the notice was stolen or converted at the time the person charged used it in a way that gave rise to the charge; or
-    (ii) the owner of the vehicle specified in the notice took all reasonable steps to prevent the person charged from using the vehicle in a way that gave rise to the charge; or
-    (iii) the Commissioner is satisfied that prohibiting the sale of the motor vehicle specified in the notice would entail undue hardship to the person charged, the owner of the motor vehicle, or any other person.
+    (ii) the registered person for the motor vehicle specified in the notice took all reasonable steps to prevent the person charged from using the vehicle in a way that gave rise to the charge; or
+    (iii) the Commissioner is satisfied that prohibiting the sale of the motor vehicle specified in the notice would entail undue hardship to the person charged, registered person for the motor vehicle, or any other person.
 
 ### 98B Appeal of notice to District Court
 (1) Any person who is given notice under section 98A may appeal to the District Court against the Commissioner's decision to give the notice.
@@ -3361,31 +3488,41 @@ In this Part,—
 (5) The Director may refuse to consider an appeal under this section if satisfied that the appeal is frivolous or vexatious, or that the appellant has provided insufficient information.
 
 ### 102 Appeal to Police against impoundment of vehicle
-(1) An owner whose motor vehicle has been seized and impounded under section 96 or section 96A may appeal to the Police against the seizure and impoundment on the grounds that—
+(1) A relevant person specified in subsection (6) whose motor vehicle has been seized and impounded under section 96, 96AAA, 96AAB, or 96A may appeal to the Police against the seizure and impoundment on the grounds that—
   (a) the impounded vehicle was a stolen or converted vehicle at the time of the seizure and impoundment; or
-  (b) the enforcement officer who seized the vehicle did not have reasonable grounds of belief as required by section 96 or section 96A or did not comply with the notice requirements in subsection (2) of those sections; or
-  (c) the owner did not know and could not reasonably have been expected to know that the driver was not permitted to drive; or
-  (d) the owner took all reasonable steps to prevent the driver from driving the vehicle; or
+  (b) the enforcement officer who seized the vehicle did not—
+    (i) have reasonable grounds of belief as required by section 96, 96AAA, 96AAB, or 96A; or
+    (ii) comply with the notice requirements in section 96(2) (including as applied by section 96AAA(2) or 96AAB(3)) or 96A(2) (whichever applies); or
+  (c) the relevant person did not know and could not reasonably have been expected to know that the driver was not permitted to drive; or
+  (d) the relevant person took all reasonable steps to prevent the driver from driving the vehicle; or
   (e) the driver drove the vehicle in a serious medical emergency (which for the purpose of this paragraph includes carrying a person who is about to give birth); or
-  (f) if section 96(1A), (1AA), (1AAB), or (1AB) applies, the owner did not know and could not reasonably be expected to know that the operator of the vehicle would contravene section 22A(1) or (3), 22AF, 35(1)﻿(a) or (b), 39(1), or 114 (whichever applies); or
-  (g) if section 96(1A), (1AA), (1AAB), or (1AB) applies, the owner took all reasonable steps to prevent the operator of the vehicle from contravening section 22A(1) or (3), 22AF, 35(1)﻿(a) or (b), 39(1), or 114 (whichever applies); or
-  (ga) if section 96(1AB) applies, the owner—
+  (f) if section 96(1AA) or (1A), 96AAA, or 96AAB applies, the relevant person did not know and could not reasonably be expected to know that the operator or hirer of the vehicle would contravene section 22A(1) or (3), 22AF, 114, or 118(4) (whichever applies); or
+  (g) if section 96(1AA) or (1A), 96AAA, or 96AAB applies, the relevant person took all reasonable steps to prevent the operator or hirer of the vehicle from contravening section 22A(1) or (3), 22AF, 114, or 118(4) (whichever applies); or
+  (ga) if section 96AAA applies, the relevant person specified in subsection (6)—
     (i) was not the person driving the vehicle when the vehicle failed to stop (or remain stopped); and
     (ii) either—
       (A) did not know, and could not reasonably have been expected to know, the identity of the driver; or
       (B) has otherwise provided the information requested under section 118(4); or
-  (h) if section 96A applies, the owner did not know, and could not reasonably have been expected to know, that the operator of the transport service in which the vehicle was being used—
+  (gb) if section 96AAA applies, release of the vehicle to the relevant person is appropriate because—
+    (i) the seizure and impoundment of the vehicle have resulted or will result in—
+      (A) extreme hardship to the relevant person (whether in relation to employment or otherwise); or
+      (B) undue hardship to a person other than the relevant person (whether in relation to employment or otherwise); and
+    (ii) release of the vehicle is not contrary to the interests of road safety; or
+  (h) if section 96A applies, the relevant person did not know, and could not reasonably have been expected to know, that the operator of the transport service in which the vehicle was being used—
     (i) was disqualified from holding a transport service licence; or
     (ii) had the relevant transport service licence suspended or revoked; or
     (iii) did not hold a transport service licence and had previously been forbidden to operate a transport service.
 (2) An appeal under this section must be set out in a statutory declaration and lodged no later than 14 days after the date on which the vehicle is seized and impounded.
 (3) An enforcement officer authorised for the purpose by the Commissioner may hear and determine the appeal, and, if satisfied that a ground referred to in subsection (1) has been established,—
-  (a) the authorised officer must direct that the vehicle be released immediately to the owner or a person authorised by the owner; and
-  (b) if a direction in respect of the vehicle has been given under section 96(1B), the authorised officer must cancel the direction unless he or she believes on reasonable grounds that the vehicle does not comply with the provisions of the regulations or the rules.
+  (a) the authorised officer must direct that the vehicle be released immediately to the relevant person specified in subsection (6) or a person authorised by the relevant person; and
+  (b) if a direction in respect of the vehicle has been given under section 96(1B), the authorised officer must cancel the direction unless they believe on reasonable grounds that the vehicle does not comply with the provisions of the regulations or the rules.
 (4) The authorised officer must consider and determine the appeal as soon as reasonably practicable, and,—
   (a) in the case of an appeal lodged on the ground set out in subsection (1)﻿(a), determine the appeal not later than 2 working days after the day of lodgement:
   (b) in any other case, determine the appeal not later than 5 working days after the day of lodgement.
 (5) The authorised officer may refuse to consider an appeal under this section if satisfied that the appeal is frivolous or vexatious, or that the appellant has provided insufficient information.
+(6) For the purposes of subsections (1) and (3)﻿(a), the relevant person is—
+  (a) the registered person for the vehicle, if the vehicle is registered; or
+  (b) if the vehicle is not registered, a person who the enforcement officer is satisfied is the owner of the vehicle.
 
 **Grant of limited licence**
 
@@ -3589,11 +3726,11 @@ An enforceable undertaking takes effect and becomes enforceable when the Directo
 **General enforcement powers**
 
 ### 113 Enforcement officers may enforce transport legislation
-(1) An enforcement officer in uniform or in possession of a warrant or other evidence of his or her authority as an enforcement officer may enforce the provisions of—
+(1) An enforcement officer in uniform or in possession of a warrant or other evidence of their authority as an enforcement officer may enforce the provisions of—
   (a) the Local Government Act 1974, the Local Government Act 2002, the Road User Charges Act 2012, the Government Roading Powers Act 1989, the Railways Act 2005, the Land Transport Management Act 2003, and this Act:
   (b) regulations and rules and bylaws in force under any Acts mentioned in paragraph (a).
 (2) Without limiting any other powers conferred on an enforcement officer, an enforcement officer, in enforcing any provisions referred to in subsection (1), may at any time—
-  (a) direct a person on a road (whether or not in charge of a vehicle) to give the person's full name, full address, date of birth, occupation, and telephone number, or such of those particulars as the enforcement officer may specify, and give any other particulars required as to the person's identity, and (unless the person is for the time being detained or under arrest under any enactment) give such information as is within the person's knowledge and as may lead to the identification of the driver or person in charge of a vehicle:
+  (a) direct a person on a road (whether or not in charge of a vehicle) to give the person's full name, full address, electronic address (if the person has an electronic address), date of birth, occupation, and telephone number, or such of those particulars as the enforcement officer may specify, and give any other particulars required as to the person's identity, and (unless the person is for the time being detained or under arrest under any enactment) give such information as is within the person's knowledge and as may lead to the identification of the driver or person in charge of a vehicle:
   (b) inspect, test, and examine—
     (i) the brakes or any other part of a vehicle on a road or any associated equipment; or
     (ii) a land transport document, or a document resembling a land transport document, displayed or carried on the vehicle:
@@ -3619,9 +3756,9 @@ An enforceable undertaking takes effect and becomes enforceable when the Directo
 (3) An enforcement officer may require the driver of a vehicle that is stopped under this Act to—
   (a) remain stopped for as long as is reasonably necessary for an enforcement officer to obtain the particulars referred to in paragraph (b), or to complete the exercise of any other power conferred on an enforcement officer by this Act; and
   (b) on demand by an enforcement officer,—
-    (i) give his or her full name, full address, date of birth, occupation, and telephone number, or such of those particulars as the enforcement officer may specify; and
-    (ii) state whether or not he or she is the owner of the vehicle; and
-    (iii) if the driver is not the owner of the vehicle, give the name and address of the owner or such particulars within the driver's knowledge as may lead to the identification of the owner.
+    (i) give their full name, full address, electronic address (if they have an electronic address), date of birth, occupation, and telephone number, or such of those particulars as the enforcement officer may specify; and
+    (ii) state whether or not he or she is the registered person for the vehicle; and
+    (iii) if the driver is not the registered person for the vehicle, give the name and address of the registered person or such particulars within the driver’s knowledge as may lead to the identification of the registered person.
 (4) The driver of a vehicle that is stopped under subsection (2) is not obliged to remain stopped if the vehicle with flashing lights and siren does not itself stop in the near vicinity of the place where the driver has stopped.
 (5) An enforcement officer may require a driver to remain stopped on a road for as long as is reasonably necessary to enable the officer to establish the identity of the driver, but not for longer than 15 minutes if the requirement to remain stopped is made under this subsection only.
 (6) An enforcement officer may arrest a person without warrant if the officer has good cause to suspect the person of having—
@@ -3665,33 +3802,33 @@ An enforceable undertaking takes effect and becomes enforceable when the Directo
   (b) when requested at a reasonable time to do so by a person who produces satisfactory evidence to the effect that he or she was lawfully entitled to possession of the vehicle immediately before it was moved,—
 
 ### 118 Requirement to give information as to identity of driver or passenger
-(1) If an enforcement officer has reasonable cause to believe that the driver of a vehicle has committed an offence while in charge of the vehicle, the officer may request the owner or hirer of the vehicle to give all information in his or her possession or obtainable by him or her which may lead to the identification and apprehension of the driver of the vehicle.
-(2) If an enforcement officer has reasonable cause to believe that a passenger of a vehicle has committed an offence in or through the use of the vehicle where that use relates to the commission of the offence or the aiding of the commission of the offence or the assisting of that passenger to avoid arrest in connection with or conviction for that offence, the officer may request the owner or hirer of the vehicle to give all information which may lead to the identification and apprehension of the passenger.
-(3) A request under subsection (1) or subsection (2) or subsection (6) may be made orally or in writing and the owner or hirer or licence holder (as the case may be) must comply with the request within 14 days.
-(4) If a vehicle failed to stop or remain stopped in contravention of section 114, an enforcement officer may request the owner or hirer of the vehicle to give all information in his or her possession or obtainable by him or her which may lead to the identification and apprehension of the driver, and the owner or hirer must give the officer that information immediately.
-(5) Subsection (4) does not apply if the owner or hirer has been arrested or detained in relation to the suspected offence.
-(6) If the holder of a transport service licence employs any person to drive a vehicle under that licence, the licence holder, on being informed of any offence alleged to have been committed by that person or by a person driving a vehicle being used under the licence, and on being requested to do so by an enforcement officer, must supply in writing the full name and address of the driver.
+(1) If an enforcement officer has reasonable cause to believe that the driver of a vehicle has committed an offence while in charge of the vehicle, the officer may request the registered person for, or the hirer of, the vehicle to give all information in the registered person’s or hirer’s possession or obtainable by the registered person or hirer which may lead to the identification and apprehension of the driver of the vehicle.
+(2) If an enforcement officer has reasonable cause to believe that a passenger of a vehicle has committed an offence in or through the use of the vehicle where that use relates to the commission of the offence or the aiding of the commission of the offence or the assisting of that passenger to avoid arrest in connection with or conviction for that offence, the officer may request the registered person for, or the hirer of, the vehicle to give all information which may lead to the identification and apprehension of the passenger.
+(3) A request under subsection (1) or subsection (2) or subsection (6) may be made orally or in writing and the registered person or hirer or licence holder (as the case may be) must comply with the request within 14 days.
+(4) If a vehicle failed to stop (or remain stopped) as signalled, requested, or required under section 114, an enforcement officer may request the registered person for, or the hirer of, the vehicle to give all information in the registered person’s or hirer’s possession or obtainable by the registered person or hirer that may lead to the identification and apprehension of the driver, and the registered person or hirer must give the officer that information immediately.
+(5) Subsection (4) does not apply if the registered person or hirer has been arrested or detained in relation to the suspected offence.
+(6) If the holder of a transport service licence employs any person to drive a vehicle under that licence, the licence holder, on being informed of any offence alleged to have been committed by that person or by a person driving a vehicle being used under the licence, and on being requested to do so by an enforcement officer, must supply in writing the driver’s full name, full address, and electronic address (if the driver has an electronic address).
 
 **Powers of entry, arrest, immobilisation, and impoundment**
 
 ### 119 Powers of entry
 (1) An enforcement officer may exercise the powers conferred by subsection (2) if the enforcement officer—
   (a) has good cause to suspect that a person—
-    (i) has contravened a request or requirement or demand made under section 114 (other than subsection (1)); and
+    (i) has failed to comply with a requirement under section 114(2) or (3) (relating to stopping a vehicle, remaining stopped, or giving information to an enforcement officer); and
     (ii) has also committed or is committing an offence against section 35(1)﻿(a) or section 35(1)﻿(b) (which relate to reckless or dangerous driving offences), or is, or has recently been, driving under the influence of drink or a drug, or both; and
   (b) is freshly pursuing that person.
 (2) The enforcement officer may, without warrant, in the course of the pursuit enter, by force if necessary, any premises which the person has entered, for either or both of the following purposes:
   (a) determining whether or not a power conferred on an enforcement officer by section 68, 69, or 71A should be exercised in respect of that person:
   (b) exercising or completing the exercise of any such power in respect of that person (as if the person were in a motor vehicle on a road).
 (2A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power in subsection (2).
-((3)) An enforcement officer may, without warrant, enter, by force if necessary, a building or place where a vehicle to which section 96, 96A, or 123 applies is being stored or kept, and seize and impound the vehicle,—
+((3)) An enforcement officer may, without warrant, enter, by force if necessary, a building or place where a vehicle to which section 96, 96AAA, 96AAB, 96A, or 123 applies is being stored or kept, and seize and impound the vehicle,—
   (a) if—
     (i) an enforcement officer has been freshly pursuing the vehicle; or
     (ii) it is likely that a person was about to remove, conceal, destroy, or dispose of the vehicle; or
     (iii) an enforcement officer believes on reasonable grounds that the vehicle was about to be used in the commission of an imprisonable offence (within the meaning of section 5 of the Criminal Procedure Act 2011); and
   (b) if, because of the time of the day or the locality, it was impracticable to obtain a warrant without creating an opportunity for the person to do anything referred to in paragraph (a)﻿(ii) or (iii).
-(4) For the purposes of seizing and impounding a vehicle under section 96 or section 96A or section 123 in any case where subsection (3) does not apply, an enforcement officer may enter a building or place where a vehicle to which that section applies is being stored or kept only with the consent of the occupier or under a warrant issued under subsection (5).
-(5) An enforcement officer may apply, in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, to an issuing officer (within the meaning of section 3 of that Act), for a warrant to enter a place referred to in subsection (4) and, if satisfied that there is reasonable ground for believing that a vehicle to which section 96 or section 96A or section 123 applies is being stored or kept in the building or place, the issuing officer may issue a warrant authorising an enforcement officer to enter, by force if necessary, any part of the building or place, and seize and impound the vehicle.
+(4) For the purposes of seizing and impounding a vehicle under section 96, 96AAA, 96AAB, 96A, or 123 in any case where subsection (3) does not apply, an enforcement officer may enter a building or place where a vehicle to which that section applies is being stored or kept only with the consent of the occupier or under a warrant issued under subsection (5).
+(5) An enforcement officer may apply, in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, to an issuing officer (within the meaning of section 3 of that Act), for a warrant to enter a place referred to in subsection (4) and, if satisfied that there is reasonable ground for believing that a vehicle to which section 96, 96AAA, 96AAB, 96A, or 123 applies is being stored or kept in the building or place, the issuing officer may issue a warrant authorising an enforcement officer to enter, by force if necessary, any part of the building or place, and seize and impound the vehicle.
 (6) The provisions of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers in subsections (3) and (5) (except for subpart 3 of that Part in relation to subsection (3)).
 (7) An enforcement officer who enters any premises under this section may not exercise on those premises any power of arrest conferred by this Act other than a power of arrest conferred by any of sections 68(3), 69(6), and 120.
 
@@ -3924,11 +4061,11 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
   (a) at the time the alleged offence was committed,—
     (i) the person was not lawfully entitled to possession of the vehicle (either jointly with any other person or severally); or
     (ii) another person was driving the vehicle; and
-  (b) immediately after becoming aware of the alleged offence, the person advised the enforcement authority in writing that, at the time the offence was committed, he or she was not lawfully entitled to possession of the vehicle or another person was driving the vehicle (as the case may be); and
+  (b) immediately after becoming aware of the alleged offence, the person advised the enforcement authority in writing that, at the time the offence was committed, they were not lawfully entitled to possession of the vehicle or another person was driving the vehicle (as the case may be); and
   (c) the person has given the enforcement authority a statutory declaration—
     (i) identifying the driver, by giving—
       (A) the full name and full address of the driver; and
-      (B) any other identifying particulars, so far as they are within the person’s knowledge, such as the driver’s date of birth, occupation, telephone number; or
+      (B) any other identifying particulars, so far as they are within the person’s knowledge, such as the driver’s date of birth, occupation, telephone number, or electronic address; or
     (ii) establishing that the person could not identify the driver, after taking all reasonable steps to do so.
 (5) In proceedings for a moving vehicle offence or a special vehicle lane offence, a statutory declaration given under subsection (4) is, in the absence of proof to the contrary, sufficient evidence of the matters stated in the declaration; and it is admissible for all purposes of any proceedings under this section.
 
@@ -3945,13 +4082,13 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 (3) It is a defence to proceedings taken against a person for a stationary vehicle offence if the person proves that another person has, by virtue of an order under the Criminal Procedure Act 2011 or the Summary Proceedings Act 1957, become liable to pay a fine or costs, or both, in respect of the offence.
 (4) It is a defence to proceedings taken against a person under subsection (1)﻿(b) or (c) if—
   (a) the person proves that, at the time the alleged offence was committed,—
-    (i) he or she was not lawfully entitled to possession of the vehicle (either jointly with any other person or individually); or
+    (i) they were was not lawfully entitled to possession of the vehicle (either jointly with any other person or individually); or
     (ii) another person was unlawfully in charge of the vehicle; and
   (b) as soon as practicable after becoming aware of the alleged offence, he or she advised the enforcement authority in writing that, at the time the offence was committed, he or she was not lawfully entitled to possession of the vehicle or another person unlawfully had charge of the vehicle, as the case may be; and
   (c) he or she has given the enforcement authority a statutory declaration that—
     (i) identifies another person who was, at the time of the alleged offence, lawfully entitled to possession, or was unlawfully in charge, of the vehicle by providing—
       (A) the full name and full address of the other person; and
-      (B) any other identifying particulars of the other person that are known to the person making the declaration (for example, the other person's date of birth, occupation, and telephone number); or
+      (B) any other identifying particulars of the other person that are known to the person making the declaration (for example, the other person's date of birth, occupation, telephone number, or electronic address); or
     (ii) establishes that the person making the declaration was unable to identify the other person after taking all reasonable steps to do so.
 (5) In the case of any stationary vehicle offence, any defence available under subsection (3) or (4) is in addition to and not in substitution for any defences available under the enactment creating the offence.
 
@@ -4011,23 +4148,57 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
   (a) by attaching it, or a copy of it, to the vehicle to which the notice relates; or
   (b) by delivering it, or a copy of it, personally to the person who appears to have committed the infringement offence; or
   (ba) by delivering it, or a copy of it, personally to the person who appears to be in charge of the vehicle to which the notice relates; or
-  (c) by sending it, or a copy of it, by post addressed to the person who appears to have committed the infringement offence at the person’s last known place of residence or business or postal address; or
-  (d) if the person is a holder of a land transport document, by serving it, or a copy of it, by post on that person at his or her last address for service provided for the purposes of that document.
+  (c) by sending it, or a copy of it, to the person who appears to have committed the infringement offence—
+    (i) by post addressed to the person at their last known place of residence or business or last known postal address; or
+    (ii) by electronic means addressed to the person at their electronic address; or
+  (d) if the person is the holder of a land transport document, by serving it, or a copy of it, on that person—
+    (i) by post at the last address the person provided for service for the purposes of that land transport document; or
+    (ii) by electronic means at their electronic address.
 (3) An infringement notice that—
-  (a) is attached to a vehicle under subsection (2)﻿(a) or personally delivered under subsection (2)﻿(ba) must be treated as having been served on every person liable in respect of the alleged offence when it is attached to the vehicle or personally delivered:
-  (b) is sent to a person by post under subsection (2)﻿(c) or (d) must be treated as having been served on the person when it would have been delivered in the ordinary course of post.
+  (a) is attached to a vehicle under subsection (2)﻿(a) or personally delivered under subsection (2)﻿(b) or (ba) must be treated as having been served on every person liable in respect of the alleged offence when it is attached to the vehicle or personally delivered:
+  (b) is sent to a person by post under subsection (2)﻿(c)﻿(i) or (d)﻿(i) must be treated as having been served on the person when it would have been delivered in the ordinary course of post:
+  (c) is sent electronically to a person under subsection (2)﻿(c)﻿(ii) or (d)﻿(ii) must, unless the contrary is shown, be treated as having been sent to, or served on, the person at the time the electronic communication containing the notice first enters an information system that is outside the control of the enforcement officer.
 (4)
 (5)
 (6) If a parking warden has reason to believe that the user of a vehicle has committed an infringement offence that may be enforced by a parking warden under section 128E,—
   (a) the user of the vehicle may be proceeded against for the alleged offence under the Criminal Procedure Act 2011; or
   (b) the parking warden may issue an infringement notice in respect of the alleged offence.
+Service of reminder notice
+(6A) Despite section 24(1)﻿(e) of the Summary Proceedings Act 1957, a reminder notice may be served on a person for the purposes of section 21(2) of that Act by serving the notice in accordance with subsection (2)﻿(c)﻿(ii) or (d)﻿(ii) in addition to the other modes of service set out in section 24(1) of that Act and without otherwise limiting or affecting the operation of section 24 of that Act.
 (7) For the purposes of any proceedings in respect of an infringement offence that is an offence against a bylaw made under section 9(1)﻿(e) or (g) of the Airport Authorities Act 1966, enforcement officer includes officers appointed by an airport authority.
+(8) In this section, unless the context otherwise requires, electronic address, in relation to a person, means—
+  (a) an electronic address that the person has given to an enforcement authority; or
+  (b) otherwise, the person’s last known electronic address.
 (8)
 (9)
 (10)
 (11)
 (12)
 (13)
+
+### 139AAA Infringement offence verified by automated infringement system
+(1) This section applies if an automated infringement system that is linked to information on the register of motor vehicles verifies, on the basis of data provided by approved vehicle surveillance equipment or a point-to-point average speed system,—
+  (a) the commission of an infringement offence, that is a moving vehicle offence, detected by the equipment or system; and
+  (b) the following data in connection with the offence:
+    (i) 1 or more electronic images (or sequences of electronic images) connected with the infringement offence:
+    (ii) the registration plate of the vehicle involved in the infringement offence:
+    (iii) the registered person for the vehicle; and
+  (c) that the images referred to in paragraph (b)﻿(i) are of sufficient quality to be used as evidence in relation to the offence.
+(2) The automated infringement system produces an infringement notice in relation to the verified infringement offence that the Agency issues as enforcement officer under section 139.
+(3) For the purposes of section 139(1), the Agency as enforcement officer (see section 208A) is treated as having reasonable cause to believe the infringement offence has been committed if the automated infringement system verifies the matters set out in subsection (1) in relation to the offence.
+
+### 139AAB Approval of automated infringement system
+(1) The Minister of Transport may approve an automated infringement system for the purposes of section 139AAA if satisfied that the system is capable of verifying the matters set out in section 139AAA(1).
+(2) Before approving an automated infringement system, the Minister must consult the Privacy Commissioner about—
+  (a) how the system is proposed to operate; and
+  (b) any privacy implications of its operation.
+(3) The Minister of Transport may issue a certificate of approval.
+(4) A certificate of approval issued under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 139AAC Annual quality assurance of automated infringement system
+The Agency must ensure that an automated infringement system undergoes annually a quality assurance process to ensure the ongoing capability of the system—
+  (a) to verify the matters set out in section 139AAA(1); and
+  (b) to collect, hold, use, and disclose personal information in accordance with the Privacy Act 2020.
 
 ### 139A Towage fees if parking offences prosecuted
 (1) The court must order the defendant to pay, in addition to any fine and any costs ordered by the court, the amount of the appropriate towage fee if, in proceedings in respect of a parking offence,—
@@ -4049,6 +4220,11 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
   (i) a statement of the right of the person served with the notice to request a hearing; and
   (j) a statement of the consequences if the person served with the notice does not pay the infringement fee and does not make a request for a hearing; and
   (k) any other particulars as are prescribed.
+(1A) For the purposes of subsection (1)﻿(a) and (b), in the case of a speeding offence where the person issuing the infringement notice relies on section 146A,—
+  (a) the place of the offence is the length of road between the 2 detection points in relation to which the point-to-point average speed system operated; and
+  (b) the time of the offence is the whole time during which the vehicle was travelling between the 2 detection points; and
+  (c) the speed at which it is alleged the driver was travelling is the average speed calculated under section 146A; and
+  (d) if more than 1 speed limit applies between the 2 detection points, the applicable speed limit is the average weighted speed limit calculated under section 146B.
 (2) A reminder notice must—
   (a) be in the form prescribed by regulations made under this Act; and
   (b) include the same particulars, or substantially the same particulars, as the infringement notice; and
@@ -4074,6 +4250,16 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 (8) For the purposes of this section, road controlling authority includes an airport authority.
 
 **Evidence**
+
+### 141A Evidence of ongoing capability of automated infringement system
+(1) In proceedings relating to an infringement offence verified by an automated infringement system, the production of a certificate (or a document purporting to be a copy of the certificate) purporting to be signed by a person authorised for the purpose by the Agency, as to the capability of the automated infringement system referred to in the certificate, is, in the absence of proof to the contrary, sufficient proof that—
+  (a) the system had, within the preceding 12 months, undergone a quality assurance process as required by section 139AAC; and
+  (b) the system was verifying the matters set out in section 139AAA(1); and
+  (c) the system was being operated in a way that collects, holds, uses, and discloses personal information in accordance with the Privacy Act 2020.
+(2) A certificate under subsection (1)—
+  (a) must be, or have been, current on the date of the alleged offence; and
+  (b) is not valid if it was given more than 12 months before the date of the alleged offence.
+(3) In any proceedings where a certificate has been produced under this section, the court may, on application made not less than 14 days before the hearing of the charge concerned, and if satisfied that there is good cause to do so, set aside the certificate and require the capability of the automated infringement system to be established by evidence other than the certificate.
 
 ### 142 Evidence of driver history relating to infringement fees
 (1) In proceedings against a person for an offence in connection with the driving of a motor vehicle, a certificate purporting to be signed by an employee of the Agency or a constable to the effect described in subsection (2) that has annexed to it a printout of the record referred to in that subsection is, in the absence of evidence to the contrary, sufficient evidence of the matters contained in the certificate.
@@ -4117,6 +4303,59 @@ In any proceedings for an offence against Part 6A,—
 (4) This section applies to distance-measuring devices, speed-measuring devices, approved vehicle surveillance equipment, and tuning forks used to check such devices or equipment.
 (5) The fact that any equipment or device to which this section applies was tested before or after the date of the alleged offence does not of itself affect the validity of any certificate given under this section in relation to the testing of that equipment or device. However, any testing must not be more than 12 months before the date of the alleged offence.
 (6) In any proceedings where a certificate has been produced under this section, the court may, on application made not less than 14 days before the hearing of the charge concerned, and if satisfied that there is good cause to do so, set aside the certificate and require the accuracy of the equipment or device to be established by evidence other than the certificate.
+
+### 146A Average speed treated as actual speed
+(1) In proceedings against a person for a speeding offence, the average speed of the relevant vehicle between 2 detection points on a road calculated by a point-to-point average speed system must, in the absence of proof to the contrary, be treated as being the speed at which the vehicle was actually travelling between those 2 detection points.
+(2) The average speed of a vehicle between 2 detection points on a road is to be calculated using the following formula (and expressed in kilometres per hour rounded down to the next whole number):(d × 3.6) ÷ twhere—dis the surveyed distance (expressed in metres and rounded down to the next whole number)tis the period (expressed in seconds) between the time when the vehicle passes the first detection point and the time when it passes the second detection point.
+(3) In this section and sections 146B to 146D, unless the context otherwise requires,—
+  - **data** , in relation to a speeding offence detected by a point-to-point average speed system, means any form of data (including electronic images or a sequence of electronic images) about any 1 or more of the following:
+    (a) the time of any event recorded (including the time a vehicle passed a detection point):
+    (b) the position of a vehicle on a road at any given time:
+    (c) the direction in which a vehicle is moving:
+    (d) the characters on a vehicle’s registration plate:
+    (e) the average speed of a vehicle between 2 detection points:
+    (f) any speed limit or speed limits between 2 detection points:
+    (g) any self-test, diagnostic, or other data about how the system is operating
+  - **element** , of a point-to-point average speed system, means any 1 or more of the following:
+    (a) the 2 items of approved vehicle surveillance equipment at the detection points:
+    (b) the location of the 2 detection points:
+    (c) the surveyed distance between those 2 detection points:
+    (d) if only 1 speed limit applies between those 2 detection points, that speed limit:
+    (e) if more than 1 speed limit applies between those 2 detection points,—
+      (i) those speed limits; and
+      (ii) when those speed limits apply; and
+      (iii) the intermediate surveyed distance for each speed limit; and
+      (iv) the weighted average speed limit between those 2 detection points, as calculated under section 146B
+  - **intermediate surveyed distance** , in a case where 2 or more speed limits apply between 2 detection points, means the distance along the length of road where each speed limit applies—
+    (a) measured by a cadastral surveyor licensed under the Cadastral Survey Act 2002 in accordance with the method determined and published by the Director after consulting with the Surveyor-General appointed under that Act; and
+    (b) published by the Director under section 146D
+  - **surveyed distance** means the distance between 2 detection points to which 1 or more speed limits apply—
+    (a) measured by a cadastral surveyor licensed under the Cadastral Survey Act 2002 in accordance with the method determined and published by the Director after consulting the Surveyor-General appointed under that Act; and
+    (b) published by the Director under section 146D.
+
+### 146B Weighted average speed limit between 2 detection points
+(1) This section applies if more than 1 speed limit applies between 2 detection points on a length of road along which the average speed of a vehicle is to be calculated for the purposes of section 146A.
+(2) The speed limit for the purpose of that calculation is the average weighted speed limit calculated under subsection (3).
+(3) The average weighted speed limit for a length of road between 2 detection points is to be calculated using the following formula (and expressed in kilometres per hour rounded up to the next whole number):dt ÷ ((d1 ÷ s1) + (d2 ÷ s2) + ... (dn ÷ sn))where—dtis the surveyed distance (expressed in metres and rounded down to the next whole number)d1, d2 ... dnare the intermediate surveyed distances (expressed in metres and rounded down to the next whole number) over which the speed limits between the 2 detection points applys1, s2 ... snare the speed limits that apply between the 2 detection points.
+
+### 146C Evidence relating to average speed
+(1) This section applies to proceedings for a speeding offence in which the average speed of the vehicle under section 146A is relied on.
+(2) In those proceedings, the production of data relating to the alleged speeding offence and purporting to be generated by a point-to-point average speed system is, in the absence of proof to the contrary, sufficient evidence of the accuracy of that data.
+(3) In those proceedings, the production of a notice published under section 146D describing an element of a point-to-point average speed system is, in the absence of proof to the contrary, sufficient evidence of that element.
+(4) In cases to which section 146B applies, the weighted average speed limit calculated under that section must be treated as a speed limit in provisions in or under this Act that impose different penalties for speeding offences depending on the degree to which a speed limit is exceeded, and those provisions apply accordingly.
+(5) This section does not limit or affect any other evidence of the speed of a motor vehicle in proceedings for a speeding offence.
+
+### 146D Publication of matters relating to point-to-point average speed system
+(1) The Director must publish—
+  (a) the elements of a point-to-point average speed system; and
+  (b) the method by which surveyed distances and intermediate surveyed distances are to be measured for the purpose of the operation of any point-to-point average speed system.
+(2) The Director must publish those matters by notice—
+  (a) in the Gazette; and
+  (b) on an Internet site maintained by the Agency.
+
+### 146E Traffic control devices informing drivers of system
+(1) If the Agency installs a point-to-point average speed system on a road, it must ensure that, while the system is being operated, 1 or more traffic control devices are in place that inform drivers passing the first detection point of the presence of the system.
+(2) In proceedings for a speeding offence in which the average speed of the vehicle under section 146A is relied on, a certificate purporting to be signed by a constable, a Police employee who is not a constable, or an employee of the Agency, that states that 1 or more traffic control devices were in place on a date no more than 1 year before the date of the alleged offence, is, in the absence of proof to the contrary, sufficient evidence that the device or devices were in place as stated.
 
 ### 147 Evidence of accuracy of weighing devices and sites
 (1) In proceedings for an offence against this Act or an offence against the Road User Charges Act 2012 (or any regulations made under that Act), the production of a certificate (or a document purporting to be a copy of a certificate) purporting to be signed by a constable or Police employee who is not a constable authorised by the Commissioner in that behalf (either generally or in a particular case) to the effect described in subsection (2) is, in the absence of evidence to the contrary, sufficient evidence that the device or site to which the certificate relates has been tested and was accurate on the date of the alleged offence.
@@ -5190,7 +5429,7 @@ Sections 109A and 109B of the Land Transport Management Act 2003 apply to inform
 ### 199 Agency to maintain register of driver licences
 (1) The Agency must continue and maintain the national register of all driver licences that was established under section 45 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
 (2) The national register must show for each driver licence the following information:
-  (a) the holder's full name, address, gender, date of birth, place of birth (if known to the Agency), and signature:
+  (a) the holder's full name, address, electronic address (if they have an electronic address that is known to the Agency), gender, date of birth, place of birth (if known to the Agency), and signature:
   (b) the number of the licence:
   (c) the original date of issue of the licence and the date of issue of the current licence:
   (d) the date of expiry of the licence:
@@ -5227,7 +5466,9 @@ Sections 109A and 109B of the Land Transport Management Act 2003 apply to inform
   (a) the holder's full name:
   (b) if the holder is a natural person, the holder's date of birth:
   (c) the holder's business or residential address:
+  (ca) the holder’s business or personal electronic address (if they have an electronic address that is known to the Agency):
   (d) the full name and address of any person in control:
+  (da) the business or personal electronic address of any person in control (if they have an electronic address that is known to the Agency):
   (e) the number of the licence:
   (f) the date of issue of the licence:
   (g) the class or classes of transport services to which the licence applies:
@@ -5416,9 +5657,9 @@ Once a land transport record is created, the Registrar must notify the person th
 (7) The Commissioner or the Agency (as the case may be) may at any time revoke an appointment made by the Commissioner or the Agency under this section.
 
 ### 208A Agency is enforcement officer for certain infringement offences
-For the purposes of issuing an infringement notice under section 139, the Agency is an enforcement officer where—
-  (a) the infringement offence to which the notice relates is a moving vehicle offence; and
-  (b) the alleged offence was detected by approved vehicle surveillance equipment (whether the equipment is owned or operated by the Agency or some other person).
+(1) This section applies to an infringement offence that is a moving vehicle offence.
+(2) The Agency is an enforcement officer for the purposes of issuing an infringement notice under section 139.
+(3) This section applies whether the approved vehicle surveillance equipment or the point-to-point average speed system that detected the offence was operated by the Agency or another person.
 
 ### 209 Taking of blood specimens for statistical or research purposes
 (1) Despite anything in any Act or rule of law, a health practitioner or medical officer employed by an approved health authority—
@@ -5443,14 +5684,24 @@ Subsections (2A) to (2C) of section 209 expire and are repealed with the close o
 (4) An oral fluid sample or a blood specimen analysed or re-analysed under subsection (1) must be treated in a manner that does not identify the person from whom the oral fluid sample or blood specimen is taken.
 (5) Nothing in this section limits the purposes for which an oral fluid sample or a blood specimen may be analysed or re-analysed under this Act.
 
-### 210 Service of notices
-(1) A notice required to be given to a person for the purposes of this Act, or a request in writing under section 118, may be given or made by causing it to be delivered to that person, or to be left at the person's usual or last known place of residence or business or at the address specified by the person in any application or other document under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or to be posted in a letter addressed to the person at that place of residence or business or address.
-(2) If any such notice or request is sent to a person by post, then, unless the contrary is shown, it is to be treated as having been delivered to him or her when it would have been delivered in the ordinary course of post, and in proving the delivery it is sufficient to prove that the letter was properly addressed and posted.
-(3) This section does not apply to an infringement notice or a copy of the notice.
-(4)
-(5)
-(6)
-(7)
+### 210 How notices and requests are given, served, or made
+(1) This section describes—
+  (a) how a notice required to be given or sent to a person, or served on a person, under this Act (other than an infringement notice) may be given, sent, or served; and
+  (b) how a request in writing to a person under section 118 may be made.
+(2) The notice or request may be given, sent, served, or made by—
+  (a) delivering it to the person; or
+  (b) leaving it at—
+    (i) the person’s usual or last known place of residence or business; or
+    (ii) at the address specified by the person in any application or other document under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986; or
+  (c) sending it—
+    (i) by post addressed to the person at the place or address referred to in paragraph (b); or
+    (ii) by electronic means addressed to the person at their electronic address.
+(3) A notice or request that is, in accordance with subsection (2)﻿(c), sent to a person—
+  (a) by post must, unless the contrary is shown, be treated as having been given, sent, served, or made when it would have been delivered in the ordinary course of post and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted:
+  (b) by electronic means must, unless the contrary is shown, be treated as having been given, sent, served, or made at the time the electronic communication first enters an information system that is outside the control of the person giving or serving the notice or making the request and, in proving the sending, it is sufficient to prove that the electronic communication was properly addressed and sent.
+(4) In this section, unless the context otherwise requires, electronic address, in relation to a person, means—
+  (a) an electronic address that the person has given to an enforcement authority; or
+  (b) otherwise, the person’s last known electronic address.
 
 ### 210A Transfer of responsibilities between regional councils and territorial authorities
 (1) A regional council may transfer 1 or more of its responsibilities under this Act to a territorial authority under section 17 of the Local Government Act 2002.
@@ -5639,7 +5890,12 @@ An application pending under any provision of the Transport Act 1962 that is rep
     (d) the Registrar
   - **motor vehicle (synthetic greenhouse gas) levy** means the levy payable under section 227(1)﻿(a) of the Climate Change Response Act 2002
   - **ordinary plate** means a registration plate that must be displayed on a motor vehicle unless a personalised plate or a trade plate is issued for display on the motor vehicle
-  - **personal information** means the name and address (and, in the case of an individual, the date of birth and driver licence number) and any other information about a person registered or previously registered in respect of a motor vehicle
+  - **personal information** means the following information about a person registered or previously registered in respect of a motor vehicle:
+    (a) their name:
+    (b) their physical address:
+    (c) an electronic address that the person has given to an enforcement authority (or, otherwise, the person’s last known electronic address):
+    (d) if the person is an individual, their date of birth and driver licence number:
+    (e) any other information about the person that is on the register
   - **personalised plate** means a registration plate with a single letter or number or combination of letters, numbers, or letters and numbers allocated under section 259
   - **prescribed fees** means the applicable fees and charges prescribed by regulations made under this Part and, in relation to a particular application or notification under this Part, means the fee or charge, if any, prescribed for that application or notification (subject to section 270(5))
   - **registered person** means a person registered under this Part in respect of a motor vehicle and, in relation to a particular motor vehicle, means the person registered in respect of that vehicle
@@ -5735,19 +5991,19 @@ The purposes of the register are to facilitate—
   (b) if the Attorney-General considers that the complaint is valid, reverse the Registrar’s decision.
 
 ### 241 Authorised access to name and address only
-(1) After consulting with the Privacy Commissioner, the Chief Ombudsman, and the Commissioner of Police, the Secretary may, by notice in the Gazette, authorise specified persons or classes of persons to have access to the names and addresses of persons registered in respect of motor vehicles and information on those vehicles—
+(1) After consulting with the Privacy Commissioner, the Chief Ombudsman, and the Commissioner of Police, the Secretary may, by notice in the Gazette, authorise specified persons or classes of persons to have access to the names, addresses, and electronic addresses (if any) of persons registered in respect of motor vehicles and information on those vehicles—
   (a) for specified purposes (in addition to the purposes recognised by section 235); and
   (b) on conditions that the Secretary thinks fit; and
   (c) for a specified event or specified period of time not exceeding 5 years.
-(2) The Secretary may, as he or she thinks fit, cancel or amend by notice in the Gazette a notice published under subsection (1).
+(2) The Secretary may, as the Secretary thinks fit, cancel or amend by notice in the Gazette a notice published under subsection (1).
 (3) An application for authorisation under subsection (1) must be—
   (a) made to the Secretary in accordance with any regulations made under this Part; and
   (b) accompanied by the prescribed fee.
-(4) The Secretary must decide whether to approve the application, and must inform the applicant of his or her decision, within a reasonable time after receiving the information reasonably required by him or her to make the decision.
+(4) The Secretary must decide whether to approve the application, and must inform the applicant of the Secretary’s decision, within a reasonable time after receiving the information reasonably required to make the decision.
 (5) The Secretary may refuse to consider the application if the Secretary believes that it is vexatious or frivolous.
 (6) The Registrar may withhold the names and addresses of registered persons from a person authorised by a notice published under subsection (1) until the Registrar is satisfied that—
   (a) the names and addresses will be—
-    (i) kept secure by that person and his or her agents, if any; and
+    (i) kept secure by that person and the person’s agents, if any; and
     (ii) used only for the purpose specified in the notice published under subsection (1); and
   (b) provision of the names and addresses will not compromise the purpose of any confidential status granted under section 239; and
   (c) any conditions specified in that notice will be complied with.
@@ -5832,6 +6088,7 @@ Except as otherwise prescribed by regulations made under this Part, a licence co
   (a) acknowledges that the specified motor vehicle has been seized and impounded; and
   (b) sets out the following matters (if the particulars are reasonably ascertainable):
     (i) the name and address of the driver; and
+    (ia) the electronic address of the driver (if the driver has an electronic address); and
     (ii) the year and make of the motor vehicle, and the details of its registration plates or vehicle identification number; and
     (iii) the date and time of the seizure; and
     (iv) the place where the motor vehicle is, or is to be, impounded; and
@@ -6354,6 +6611,11 @@ In this Part, amendment Act means the Land Transport (Clean Vehicle Discount Sch
 
 ### 27 Transitional provision for rebate applications received before close of 31 December 2023
 This Act continues to apply, as if it had not been amended by sections 4 and 7 of the amendment Act, for the purposes of processing any application for a rebate received before the close of 31 December 2023.
+
+### Part 8 — Provision relating to Land Transport (Road Safety) Amendment Act 2023
+
+### 28 Increased penalty for second offence under section 52A
+Section 52A(4), as amended by the Land Transport (Road Safety) Amendment Act 2023, applies only if the relevant first offence is committed on or after the day on which that Act comes into force.
 
 ## Schedule 1 — Provisions concerning Land Transport Safety Authority of New Zealand
 
