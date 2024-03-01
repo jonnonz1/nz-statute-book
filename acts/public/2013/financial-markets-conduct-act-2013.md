@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2024-02-17_
+_Consolidation as at 2024-03-01_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -2837,9 +2837,10 @@ A person (A) has a relevant interest in a financial product that another person 
   (e) A is a bare trustee of a trust to which the product is subject; or
   (f) A is a director of a body corporate and the body corporate has a relevant interest in the product; or
   (g) A is a product holder of a body corporate and the body corporate's constitution gives the product holder pre-emptive rights on the transfer of the product, if all product holders of the products have pre-emptive rights on the same terms; or
-  (h) A is an operator of a designated settlement system (as defined in section 156M(1) of the Banking (Prudential Supervision) Act 1989) and is acting in the ordinary course of that business.
+  (h) A is an operator of a designated FMI and is acting in the ordinary course of that business.
 (2) Subsection (1)﻿(a) to (h) do not apply to a person if the person is currently declared by the FMA, by notice under section 562(1)﻿(i), to be a person that is not exempt under any of those paragraphs.
 (3) For the purposes of subsection (1)﻿(e), a trustee may be a bare trustee even if he or she is entitled as a trustee to be remunerated out of the income or property of the trust.
+(4) In subsection (1)﻿(h), designated FMI and operator have the meanings given in section 5 of the Financial Market Infrastructures Act 2021.
 
 **Territorial scope**
 
@@ -3596,7 +3597,7 @@ To avoid doubt, market rules are not—
 (3) The FMA—
   (a) may, in carrying out the review, take into account the most recent report and other information provided under section 337 and any other information it considers appropriate; and
   (b) must, after carrying out the review, provide a draft written report on its review to the licensed market operator and take into account any submissions made by the licensed market operator within the reasonable period for submissions specified by the FMA.
-(4) The FMA must not carry out a review of a designated settlement system (within the meaning of section 156M(1) of the Banking (Prudential Supervision) Act 1989) of a licensed market operator under this section (but nothing in this subsection prevents a review under that Act being carried out in conjunction with a review under this section).
+(4) The FMA must not carry out a review of a designated FMI (as defined in section 5 of the Financial Market Infrastructures Act 2021) of a licensed market operator under this section (but nothing in this subsection prevents a review under that Act being carried out in conjunction with a review under this section).
 
 ### 339 FMA must make written report on market operator obligations review
 (1) The FMA must give a written report on a review under section 338 to the Minister and the licensed market operator—
@@ -4057,8 +4058,9 @@ A person must not provide any of the following market services without holding, 
 General exemptions
 (1) A person is exempt from the licensing requirement under section 388 to the extent that the person—
   (a) carries out activities that are covered by a financial product market licence:
-  (b) acts as the operator of a designated settlement system (within the meaning of Part 5C of the Banking (Prudential Supervision) Act 1989):
+  (b) acts as an operator of a designated FMI:
   (c) carries out activities as a participant in a licensed market, or in another prescribed overseas market, in the prescribed circumstances.
+(1A) In subsection (1)﻿(b), designated FMI and operator have the meanings given in section 5 of the Financial Market Infrastructures Act 2021.
 Exemptions for financial advice service
 (2) A person is exempt from the licensing requirement under section 388(ba) in respect of a service (unless a declaration applies under subpart 3 of Part 9) to the extent that—
   (a) the service is not provided to any retail clients; orExampleA service provider may provide a financial advice service to a number of clients. As long as the service provider has no retail clients for that service, the provider need not be licensed as a financial advice provider.
@@ -8912,10 +8914,13 @@ If an exclusion under clauses 8 to 17 applies to a person (A), it applies equall
   (b) gives the service in the ordinary course of carrying on that occupation, or exercising the powers or performing the functions of that office or position.
 
 ### 21 Other exclusions
-A client money or property service is not a regulated client money or property service if—
-  (a) the person giving the service is an operator of a designated settlement system under section 156N of the Reserve Bank of New Zealand Act 1989 and the service is provided by the receipt, holding, payment, or transfer of money or property in accordance with the rules of that settlement system; or
+(1) A client money or property service is not a regulated client money or property service if—
+  (a) the person giving the service is an operator of a designated FMI and the service is provided by the receipt, holding, payment, or transfer of money or property in accordance with the designated FMI’s rules; or
   (b) the service is provided by a derivatives issuer in the ordinary course of acting as a derivatives issuer under a licence under Part 6; or
   (c) the service is provided by an employer to an employee in connection with a financial product made available through the person’s workplace.
+(2) In subclause (1)﻿(a),—
+  - **designated FMI** and have the meanings given in section 5 of the Financial Market Infrastructures Act 2021
+  - **rules** is to be read in accordance with section 35 of that Act.
 
 ### 22 Prescribed circumstances
 A client money or property service is not a regulated client money or property service if it is given in prescribed circumstances.
