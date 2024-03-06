@@ -1,16 +1,14 @@
 # Smokefree Environments and Regulated Products (Smoked Tobacco) Amendment Act 2022
-_Consolidation as at 2022-12-16_
+_Consolidation as at 2024-03-06_
 
 ### 1 Title
 This Act is the Smokefree Environments and Regulated Products (Smoked Tobacco) Amendment Act 2022.
 
 ### 2 Commencement
-(1) Sections 20, 21(1) and (2), 22 to 26, 41(1) and (2), 52(3), and 61 to 63 come into force on 1 January 2027.
-(2) Section 52(1) comes into force 18 months after the commencement of the rest of this Act under subsection (4).
-(3) The following provisions come into force 27 months after the commencement of the rest of this Act under subsection (4):
-  (a) section 52(2):
-  (b) subpart 1 of Part 2.
-(4) The rest of this Act comes into force on the later of the following:
+(1)
+(2)
+(3)
+(4) This Act comes into force on the later of the following:
   (a) 1 January 2023:
   (b) the day after the date on which it receives the Royal assent.
 
@@ -281,55 +279,29 @@ Replace section 33(4) with:
   (4) Subsection (2) does not apply to the supply of vaping products by a specialist vape retailer from their approved vaping premises or approved Internet site.
 
 ### 20 Subpart 7 heading in Part 2 amended
-In Part 2, in the subpart 7 heading, delete to people under 18 years.
+[Repealed]
 
 ### 21 Section 40 amended (Sale and delivery of regulated product to people younger than 18 years prohibited)
-(1) In the heading to section 40, replace regulated product with notifiable product.
-(2) In section 40(1)﻿(a) and (b), replace regulated product with notifiable product.
+(1)
+(2)
 (3) After section 40(4), insert:
   (4A) A person charged with contravening subsection (1)﻿(a) does not satisfy the requirements of subsection (3)﻿(a) and (b) if the person relies solely on a statement (given orally or in written form) from the person to whom the product was sold that indicated that the person was of or over the age of 18 years.
 (4) Repeal section 40(7) and (8).
 
 ### 22 New sections 40A and 40B inserted
-After section 40, insert:Sale and delivery of smoked tobacco product to smokefree generationSupplying smoked tobacco product to smokefree generation prohibited
-  (1) A person—
-    (a) must not sell a smoked tobacco product to a person born on or after 1 January 2009; or
-    (b) having sold a smoked tobacco product to a person of any age, must not deliver it, or arrange for it to be delivered, to a person born on or after 1 January 2009.
-  (2) A person who knowingly or recklessly contravenes subsection (1)﻿(a) or (b) commits an offence and is liable on conviction to a fine not exceeding $150,000.
-  (1) A person must not, in a public place,—
-    (a) supply a smoked tobacco product to a person born on or after 1 January 2009; or
-    (b) supply a smoked tobacco product to a person with the intention that it be supplied (directly or indirectly) to a person born on or after 1 January 2009.
-  (2) A person who knowingly or recklessly contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $50,000.
-  (3) In this section, public place has the same meaning as in section 2(1) of the Summary Offences Act 1981.
+[Repealed]
 
 ### 23 Section 41 amended (Supplying regulated product to people younger than 18 years prohibited)
-(1) In the heading to section 41, replace regulated product with notifiable product.
-(2) In section 41(1)﻿(a) and (b), replace regulated product with notifiable product.
+[Repealed]
 
 ### 24 Section 43 replaced (Point-of-sale purchase age information)
-Replace section 43 with:Point-of-sale purchase prohibition information or warnings
-  (1) This section applies if regulations made under section 81(1)﻿(17) requiring point-of-sale prohibition information or warnings are in force.
-  (2) A person to whom those regulations apply who offers a notifiable product for sale by retail must display clearly at each point of sale, at the outside of or inside the person’s place of business, a notice for the public that—
-    (a) does no more than communicate information or warnings to the effect that the sale of notifiable products to people who are younger than 18 years is prohibited; and
-    (b) complies with any requirements of those regulations.
-  (3) A person to whom those regulations apply who offers a smoked tobacco product for sale by retail must display clearly, at each point of sale at the outside of or inside the person’s place of business, a notice for the public that—
-    (a) does no more than communicate information or warnings to the effect that the sale of smoked tobacco products to a person born on or after 1 January 2009 is prohibited; and
-    (b) complies with any requirements of those regulations.
-  (4) A person who, without reasonable excuse, contravenes subsection (2) or (3) commits an offence and is liable to a fine not exceeding $2,000.
+[Repealed]
 
 ### 25 Section 44 replaced (Internet-sales purchase age information or warnings)
-Replace section 44 with:Internet purchase prohibition information or warnings
-  (1) This section applies if regulations made under section 81(1)﻿(18) are in force requiring prohibition information or warnings to be visible on a person’s Internet site when people access it.
-  (2) A person to whom those regulations apply who offers regulated products for sale must comply with those regulations.
-  (3) The health warning information or warnings that are required to be visible must,—
-    (a) for the sale of notifiable products, do no more than communicate information or warnings to the effect that the sale of those products to people who are younger than 18 years is prohibited; and
-    (b) for the sale of smoked tobacco products, do no more than communicate information or warnings to the effect that the sale of those products to a person born on or after 1 January 2009 is prohibited; and
-    (c) comply with any requirements of those regulations.
-  (4) A person who, without reasonable excuse, contravenes subsection (2) commits an offence and is liable to a fine not exceeding $2,000.
+[Repealed]
 
 ### 26 Section 45 amended (Court may order certain repeat offenders not to sell regulated product)
-(1) In the heading to section 45, replace regulated product with notifiable product.
-(2) In section 45(2)﻿(a)﻿(i) and (ii), (b)﻿(i) and (ii), and (c)﻿(i) and (ii), replace regulated products with notifiable products.
+[Repealed]
 
 ### 27 Section 47 replaced (Automatic vending machines must not be located where public have access)
 Replace section 47 with:Automatic vending machines must not be located in public place
@@ -496,11 +468,8 @@ In section 77(3)﻿(a), delete by a notifier.
 Repeal section 79.
 
 ### 41 Section 81 amended (Regulations)
-(1) Replace section 81(1)﻿(17) with:
-  (17) prescribing, for the purposes of section 43(2)﻿(b) and (3)﻿(b), requirements with which the following notices for the public must comply:
-    (i) a notice to the effect that the sale of notifiable products to people who are younger than 18 years is prohibited:
-    (ii) a notice to the effect that the sale of smoked tobacco products to a person born on or after 1 January 2009 is prohibited:
-(2) In section 81(1)﻿(18), replace purchase age information with purchase prohibition information.
+(1)
+(2)
 (3) Replace section 81(1)﻿(20) and the heading above section 81(1)﻿(20) with:Approval of smoked tobacco products
   (20) prescribing requirements for the purposes of section 57C(1):
   (20A) prescribing criteria that the Director-General must have regard to for the purpose of section 57C(2)﻿(d) or (4):
@@ -605,20 +574,7 @@ After section 90, insert:Other offence provisionsLiability for action of employe
 In section 91(1)﻿(a), replace Ministry of Health with Ministry.
 
 ### 52 Section 94 amended (Enforcement officer may require identifying information)
-(1) After section 94(1)﻿(c), insert:
-  (d) smoked tobacco products have been sold or offered for sale by a person who is not an approved smoked tobacco retailer.
-(2) After section 94(1)﻿(d), insert:
-  (e) smoked tobacco products that are not currently approved by the Director-General have been sold or offered for sale at retail.
-(3) Replace section 94(1) with:
-  (1) An enforcement officer may at any time require information under subsection (2) if the officer believes on reasonable grounds that within the previous 14 days—
-    (a) notifiable products have been sold to a person younger than 18 years in and from a place where those products are sold; or
-    (b) smoked tobacco products have been sold to a person born on or after 1 January 2009 in and from a place where those products are sold; or
-    (c) notifiable products have, after they are sold, been delivered to a person younger than 18 years in and from a place where those products are sold; or
-    (d) smoked tobacco products have, after they are sold, been delivered to a person born on or after 1 January 2009 in and from a place where those products are sold; or
-    (e) notifiable products have been delivered to a person younger than 18 years after being sold at that place (where the products were sold) or at another place; or
-    (f) smoked tobacco products have been delivered to a person born on or after 1 January 2009 after being sold at that place (where the products were sold) or at another place; or
-    (g) smoked tobacco products have been sold or offered for sale by a person who is not an approved smoked tobacco retailer; or
-    (h) smoked tobacco products that are not currently approved by the Director-General have been sold or offered for sale at retail.
+[Repealed]
 
 ### 53 Section 100 amended (Annual reporting requirements for manufacturers, importers, and specialist vape retailers)
 (1) In the heading to section 100, replace and specialist vape retailers with distributors, and retailers of regulated products.
@@ -708,38 +664,13 @@ In Schedule 1,—
 ### Subpart 1 — Amendments to Customs and Excise Act 2018
 
 ### 57 Principal Act
-Sections 58 and 59 amend the Customs and Excise Act 2018.
+[Repealed]
 
 ### 58 Section 95A amended (Prohibition on importation of tobacco and certain tobacco products)
-(1) Replace section 95A(2) with:
-  (2) The prohibition in subsection (1) does not apply to the following goods:
-    (a) chewing tobacco:
-    (b) snuff:
-    (c) snus.
-(2) Replace section 95A(3) with:
-  (3) The prohibition in subsection (1) does not apply if—
-    (a) the person importing the goods (whether or not the goods are intended for commercial or personal use)—
-      (i) has a permit granted by the chief executive under Schedule 3A, allowing the goods to be imported; and
-      (ii) complies with any conditions of the permit; and
-      (iii) completes a declaration that they understand and will comply with the approval requirements for smoked tobacco products under the Smokefree Environments and Regulated Products Act 1990; and
-    (b) for manufactured tobacco, the goods have been approved by the Director-General of Health for sale, supply, or import into New Zealand under the Smokefree Environments and Regulated Products Act 1990.
-  (4) The prohibition in subsection (1) does not apply if the goods are in the possession or under the control of a person specified in section 30(1)﻿(a), and the goods,—
-    (a) in the case of cigarettes, do not exceed 250 cigarettes; and
-    (b) in the case of loose tobacco, cigars, cigarillos, water-pipe tobacco, or other smoked tobacco items, do not exceed 200 grams.
-  (5) The prohibition in subsection (1) does not apply if the goods—
-    (a) are not unloaded in New Zealand and are destined for a point outside New Zealand; or
-    (b) are to be, or are being, transhipped internationally, and are covered by a transhipment request made under section 87(2) and granted by the chief executive.
+[Repealed]
 
 ### 59 Schedule 3A amended
-In Schedule 3A, replace clause 3(2) with:
-  (2) The chief executive must not grant a permit to import the goods unless the chief executive is satisfied—
-    (a) that the applicant has provided the declaration required by section 95A(3)﻿(a)﻿(iii) and—
-      (i) holds a current licence to use an area as a Customs-controlled area for one of the purposes specified in subclause (3); or
-      (ii) intends to use the goods for a legitimate purpose unrelated to the manufacture of tobacco for smoking; or
-    (b) that the applicant—
-      (i) intends to import manufactured tobacco only, either for commercial resale or personal use; and
-      (ii) has provided the declaration required by section 95A(3)﻿(a)﻿(iii); and
-      (iii) has provided evidence that the goods have been approved by the Director-General of Health for sale, supply, or import in New Zealand under the Smokefree Environments and Regulated Products Act 1990.
+[Repealed]
 
 ### Subpart 2 — Amendments to Smokefree Environments and Regulated Products Regulations 2021
 
@@ -747,13 +678,13 @@ In Schedule 3A, replace clause 3(2) with:
 Sections 61 to 67 amend the Smokefree Environments and Regulated Products Regulations 2021.
 
 ### 61 Regulation 56 amended (Notice indicating availability of tobacco products)
-In regulation 56(2)﻿(b), replace persons under the age of 18 with persons born on or after 1 January 2009.
+[Repealed]
 
 ### 62 Regulation 57 amended (How information about tobacco products offered for Internet sale must be provided)
-In regulation 57(6), replace persons under the age of 18 with persons born on or after 1 January 2009.
+[Repealed]
 
 ### 63 Regulation 58 amended (Information that must be provided inside retailer’s place of business in response to request)
-In regulation 58(5), replace persons under the age of 18 with persons born on or after 1 January 2009.
+[Repealed]
 
 ### 64 Regulation 62 replaced (Manufactured cigarettes to be tested)
 Replace regulation 62 with:Manufactured cigarettes to be tested
