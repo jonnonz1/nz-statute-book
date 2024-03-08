@@ -1,5 +1,5 @@
 # Business Payment Practices Act 2023
-_Consolidation as at 2023-07-26_
+_Consolidation as at 2024-03-08_
 
 ### 1 Title
 This Act is the Business Payment Practices Act 2023.
