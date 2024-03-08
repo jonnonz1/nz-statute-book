@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2024-03-01_
+_Consolidation as at 2024-03-08_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -10332,9 +10332,7 @@ Section 18 does not prevent the Commissioner disclosing to the chief executive o
 (4) In this clause, authorised officer, in relation to the responsible department, means any officer, employee, or agent of that department who is authorised by the chief executive of that department to receive information supplied by the Commissioner under this clause.
 
 ### 25B Business, Innovation, and Employment: Registrar of Business Payment Practices
-Section 18 does not prevent the Commissioner disclosing information to the Registrar of Business Payment Practices for the following purposes:
-  (a) establishing and maintaining the register under the Business Payment Practices Act 2023:
-  (b) monitoring compliance with the requirements of that Act (under which certain entities must disclose their payment practices information).
+[Repealed]
 
 ### 26 Agencies for workplace safety
 Section 18 does not prevent the Commissioner communicating to a person who is an officer or employee of the Ministry of Business, Innovation and Employment, WorkSafe New Zealand, or an agency designated under section 191 of the Health and Safety at Work Act 2015, information that—
