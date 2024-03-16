@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2024-03-01_
+_Consolidation as at 2024-03-16_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -8603,20 +8603,7 @@ The FMA must, after receiving an application for a transitional licence, issue t
 #### Subpart 5 — Transitional and savings regulations
 
 ### 90 Transitional and savings regulations
-(1) The Governor-General may, by Order in Council, on the recommendation of the Minister made in accordance with section 549, make regulations for any of the following purposes:
-  (a) providing that, subject to any conditions stated in the regulations, transitional or savings provisions prescribed by the regulations that relate to the implementation of the amending Act (in addition to, or in substitution for, any provisions in this Part or Part 1 of Schedule 1AA of the Financial Service Providers (Registration and Dispute Resolution) Act 2008) apply during the whole or any part of the period ending on the 3-year date:
-  (b) providing that, during the whole or any part of the period ending on the 3-year date and subject to any conditions stated in the regulations, specified provisions of this Act, of the Financial Service Providers (Registration and Dispute Resolution) Act 2008, or of other enactments amended, revoked, or repealed by the amending Act—
-    (i) do not apply; or
-    (ii) continue to apply; or
-    (iii) apply with modifications or additions, or both.
-(2) The Minister must not recommend the making of regulations under this clause unless the Minister is satisfied that the regulations—
-  (a) are necessary or desirable for the orderly implementation of the amending Act; and
-  (b) are consistent with the purposes of this Act and the Financial Service Providers (Registration and Dispute Resolution) Act 2008 as amended by the amending Act.
-(3) This clause is repealed on the close of the 3-year date.
-(4) Any regulations made under this clause that are in force on the 3-year date are revoked on the close of that day.
-(5) In this clause,—
-  - **3-year date** means the date that is 3 years after the commencement of section 16 of the amending Act
-  - **amending Act** means the Financial Services Legislation Amendment Act 2019.
+[Repealed]
 
 ### Part 7 — Provisions relating to Part 1 of Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021
 
