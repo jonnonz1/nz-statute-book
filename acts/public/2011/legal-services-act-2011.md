@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-03-21_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -1267,6 +1267,7 @@ The Commissioner may examine a claim or part of a claim by a provider of legal a
   (a) any claim to the extent that it exceeds the maximum grant specified in the grant; and
   (b) where a claim or part of a claim is for, or is determined by the Commissioner to be for, work of a kind for which a fee is prescribed by regulations pursuant to section 114(1)﻿(ca) or authorised pursuant to section 114(1)﻿(cc), so much of that claim as exceeds the fee so prescribed or authorised; and
   (c) any claim to the extent to which it is for a disbursement of a type not approved for payment by the Commissioner; and
+  (ca) any claim to the extent to which it is for a disbursement incurred in relation to a report or statement (whether oral or written) of a person called by an offender under section 27 of the Sentencing Act 2002; and
   (d) any claim or any part of a claim that has been determined to be excessive or inaccurate by an examination under subsection (2); and
   (e)
 (5) The Commissioner may decline any claim that was not made in accordance with the time frame referred to in section 98.
@@ -1721,6 +1722,20 @@ In this Part,—
     (ii) section 43(1):
     (iii) section 44(2):
     (iv) regulations 14 and 14A of the Legal Services Regulations 2011.
+
+### Part 3 — Provisions relating to Legal Services Amendment Act 2024
+
+### 6 Interpretation
+In this Part,—
+  - **amendment Act** means the Legal Services Amendment Act 2024
+  - **commencement** means the commencement of the amendment Act
+  - **disbursement** means a disbursement relating to a report or statement (whether oral or written) of a person called by an offender under section 27 of the Sentencing Act 2002.
+
+### 7 Grant for disbursement approved but claim not determined before commencement of amendment Act
+(1) This clause applies if, before commencement,—
+  (a) the lead provider has obtained the Commissioner’s approval to incur a disbursement as part of a grant of legal aid; but
+  (b) the Commissioner has not approved, deferred, or declined payment of a claim for payment in respect of legal aid services or specified legal services that includes the disbursement.
+(2) The Commissioner must approve, defer, or decline payment of the claim as if section 99(4)﻿(ca) had not been enacted.
 
 ## Schedule 1 — Definition of income and disposable capital
 
