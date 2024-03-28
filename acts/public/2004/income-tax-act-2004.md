@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2023-03-31_
+_Consolidation as at 2024-03-28_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -5402,34 +5402,45 @@ When this section applies
   (c) no other provision allows a deduction for the expenditure.
 Amount and timing of deduction
 (2) The person is allowed for an income year a deduction for the expenditure of,—
-  (a) if paragraphs (b) and (c) do not apply, an amount that is calculated using the formula—rate x value:
-  (b) if the operations of the business for which the expenditure was incurred come to an end in the income year, the diminished value or adjusted tax value of the expenditure for the income year:
-  (c) if an improvement on which the expenditure was incurred is destroyed, or is rendered useless for the purposes for which the expenditure was incurred, and paragraph (b) does not apply, the diminished value or adjusted tax value of the expenditure for the income year.
+  (a) if paragraphs (b) and (c) do not apply, an amount that is calculated using the formula—rate × value:
+  (b) if the operations of the business for which the expenditure was incurred come to an end in the income year, the diminished value or adjusted value of the expenditure for the income year:
+  (c) if an improvement to land described in schedule 6B on which the expenditure was incurred is destroyed, or is rendered useless for the purposes for which the expenditure was incurred, and paragraph (b) does not apply, the diminished value or adjusted value of the expenditure for the income year.
 Definition of items in formula
-(3) The items in the formula in subsection (2)﻿(a) are defined in subsections (4) and (5).
+(3) The items in the formula in subsection (2)﻿(a) are defined in subsections (4) and (6).
 Rate
 (4) Rate is—
-  (a) 100%, if the expenditure is of a type listed in schedule 6B, part A, item 1, or part B (Expenditure in avoiding, remedying, or mitigating detrimental effects of discharge of contaminant) and the rate is not given by paragraph (b) or (c):
-  (b) the appropriate rate given by subsection (5) if—
+  (a) 100% if the expenditure is of a type listed in schedule 6B, part A, item 1, or part B and neither paragraph (b) nor (c) applies:
+  (b) the appropriate rate under subsection (5) if—
     (i) the expenditure is of a type listed in schedule 6B, part A, items 2 to 5; and
-    (ii) no applicable rate is given by paragraph (c):
-  (c) the rate for the type of expenditure, the income year, the valuation method adopted under subsection (6), and the person, determined by the Commissioner under section 91AAN of the Tax Administration Act 1994, if such a rate is determined.
-Banded straight-line rate or corresponding diminishing value rate
-(5) The rate for expenditure if subsection (4)﻿(b) is satisfied is—
-  (a) the straight-line rate given in schedule 11, column 2 that is nearest to the rate calculated for the expenditure using the formula in subsection (7), if the person elects to use the straight-line method:
-  (b) the diminishing value rate given in schedule 11, column 1 that corresponds to the straight-line rate given by paragraph (a), if the person elects to use the diminishing value method.
+    (ii) paragraph (c) does not apply:
+  (c) the rate for the type of expenditure, the income year, the valuation method adopted under subsection (6), and the person determined by the Commissioner under section 91AAN of the Tax Administration Act 1994 if such a rate is determined.
+Schedule 11 rates
+(5) The rate for expenditure if the requirements of subsection (4)﻿(b) are met is—
+  (a) the rate set out in schedule 11, column 2 (Banded rates of depreciation) that is nearest to the rate calculated for the expenditure using the formula in subsection (7) if the person chooses to use the straight-line equivalent method:
+  (b) the rate set out in schedule 11, column 1 that corresponds to the rate under paragraph (a) if the person chooses to use the diminishing value equivalent method.
 Value
 (6) Value is—
-  (a) the adjusted tax value of the expenditure, if the person elects to use the straight-line method:
-  (b) the diminished value of the expenditure for the income year, if the person elects to use the diminishing value method.
+  (a) the amount of the expenditure incurred if the person chooses to use the straight-line equivalent method:
+  (b) the diminished value of the expenditure for the income year if the person chooses to use the diminishing value equivalent method.
 Formula for rate for expenditure with assumed life
-(7) The formula for the straight-line rate for a type of expenditure to which subsection (4)﻿(b) applies is—
+(7) The formula for the rate referred to in subsection (5)﻿(a) for a kind of expenditure to which subsection (4)﻿(b) applies is—100% ÷ assumed life.
 Definition of item in formula
 (8) In the formula in subsection (7), assumed life for expenditure and an income year is,—
   (a) for expenditure associated with a business activity that does not require a resource consent, 35:
-  (b) for expenditure associated with a business activity that requires a resource consent, the lesser of 35 and the number of the years in the period of the resource consent that include or follow the time at which the expenditure is incurred.
+  (b) for expenditure associated with a business activity that requires a resource consent, the lesser of 35 and the number of years in the period of the resource consent that include or follow the time at which the expenditure is incurred.
+Adjusted value
+(9) In this section, adjusted value means, where the person chooses to use the straight-line equivalent method, the amount calculated using the formula—amount of expenditure − deductions allowed + income derived.
+Definition of items in formula
+(10) In the formula in subsection (9),—
+  (a) amount of expenditure is the total amount of the expenditure incurred:
+  (b) deductions allowed is the total amount of the expenditure allowed as a deduction in previous income years:
+  (c) income derived is the total amount of income derived under section CB 24B(8) (Environmental restoration accounts) in relation to the expenditure.
+Diminishing value equivalent method
+(11) In this section, diminishing value equivalent method means the method of calculating an amount of deduction under this section by subtracting, in each income year, a constant percentage of the diminished value of the expenditure from the diminished value of the expenditure.
+Straight-line equivalent method
+(12) In this section, straight-line equivalent method means the method of calculating an amount of deduction under this section by subtracting, in each income year, a constant percentage of the amount of the expenditure incurred from the adjusted value of the expenditure.
 Link with subpart DA
-(9) This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+(13) This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
 
 ### DB 38 Payments for remitted amounts
 When this section applies
@@ -27444,6 +27455,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (a) is defined in sections EE 46 to EE 51 (which relate to depreciation):
     (b) for software acquired before 1 April 1993, is defined in section EZ 19 (Adjusted tax value for software acquired before 1 April 1993):
     (c) in section FE 6 (Acquisition of property by amalgamated company on qualifying amalgamation), is defined in paragraphs (a) and (b) and sections EE 21 to EE 24 (which relate to depreciation)
+  - **adjusted value** is defined in section DB 37 (Avoiding, remedying, or mitigating effects of discharge of contaminant) for the purposes of that section
   - **adverse event deposit** is defined in section EH 64 (Other definitions)
   - **adverse event income equalisation account** is defined in section EH 64 (Other definitions)
   - **adverse event income equalisation scheme** means the scheme referred to in section EH 1(2)﻿(b) (Income equalisation schemes)
@@ -28013,6 +28025,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (a) in any earlier income year under this Act or an earlier Act:
       (b) in the income year under this Act, except an amount allowed in the income year under section DB 37 (Avoiding, remedying, or mitigating effects of discharge of contaminant), section DO 4 (Improvements to farm land), DO 4B (Expenditure on land: planting of listed horticultural plants), DO 4C (Expenditure on land: horticultural replacement planting), DO 6 (Improvements to aquacultural business), or DP 3 (Improvements to forestry land)
   - **diminishing value equivalent** is defined in section EC 34(4) (General rule) for the purposes of that section
+  - **diminishing value equivalent method** is defined in section DB 37 (Avoiding, remedying, or mitigating effects of discharge of contaminant) for the purposes of that section
   - **diminishing value method** , for depreciation, is defined in section EE 58 (Other definitions)
   - **diminishing value rate** is defined in section EE 58 (Other definitions)
   - **direct control interest** is defined in section EX 5 (Direct control interests)
@@ -30424,6 +30437,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (ii) a marketing authority as defined in the Primary Products Marketing Act 1953 that is established by regulations made under that Act:
       (iii) a primary producer board or marketing board established by an Act; and
     (b) in sections HF 1 (Profits of mutual associations in respect of transactions with members) and OC 3 (Statutory producer boards), and in the definition of special corporate entity, does not include a body that derives only exempt income
+  - **straight-line equivalent method** is defined in section DB 37 (Avoiding, remedying, or mitigating effects of discharge of contaminant) for the purposes of that section
   - **straight-line method** , for depreciation, is defined in section EE 58 (Other definitions)
   - **straight-line rate** is defined in section EE 58 (Other definitions)
   - **subpart KD credit** means the credit of tax allowed under section KD 2 (Calculation of subpart KD credit)
