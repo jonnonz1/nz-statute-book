@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2021–22, GST, and Remedial Matters) Act 2022
-_Consolidation as at 2023-03-31_
+_Consolidation as at 2024-03-28_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2021–22, GST, and Remedial Matters) Act 2022.
@@ -826,7 +826,7 @@ In section BC 5, list of defined terms, delete tax loss.
   (5) Māori trustee means a trustee of a trust that is either a Maori authority, or eligible to elect to be a Maori authority, under section HF 2(3)﻿(e)﻿(i) (Who is eligible to be a Maori authority?).
   (1) This section applies to a transfer by a person (a transferor) of residential land that is subject to Te Ture Whenua Maori Act 1993 and is part of the settlement of a claim under the Treaty of Waitangi to a trustee of a trust that is a Maori authority (a recipient (person A)), or eligible to elect to be a Maori authority, under section HF 2(3)﻿(e)﻿(i) (Who is eligible to be a Maori authority?) (also recipient (person A)).
   (2) For the purposes of sections CB 6A and CZ 39 (Disposal within 5 years: bright-line test for residential land: acquisition on or after 29 March 2018), the recipient (person A) of the transfer of the residential land has the bright-line acquisition date that the transferor had, if the transfer is made on or after 1 April 2022.
-(2) Subsection (1) applies to a person’s disposal of residential land, if the person acquires an estate or interest in the land on or after 27 March 2021. However, subsection (1) does not apply if the person makes an offer for the acquisition of the land, on or before 23 March 2021, that is irrevocable before 27 March 2021 and the person acquires an estate or interest in the land on or after 27 March 2021 as a result of that offer. Further, subsection (1) does not apply to—
+(2) Section CB 6A, as inserted by subsection (1), applies to a person’s disposal of residential land, if the person acquires an estate or interest in the land on or after 27 March 2021. However, section CB 6A, as inserted by subsection (1), does not apply if the person makes an offer for the acquisition of the land, on or before 23 March 2021, that is irrevocable before 27 March 2021 and the person acquires an estate or interest in the land on or after 27 March 2021 as a result of that offer. Further, section CB 6A, as inserted by subsection (1), does not apply to—
   (a) a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 27 March 2021:
   (b) a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 27 March 2021 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 
@@ -2411,7 +2411,7 @@ Replace section 183ABAB(4) with:
 (7) In section 183ABAC(3)﻿(b),—
   (a) replace terminal tax with residual income tax:
   (b) replace 2020–21 tax year with affected tax year.
-(8) Subsections (1)﻿(b), (2), (3), (5), (6), and (7) apply for the 2020–21 and 2021–22 tax years.
+(8) Subsections (1)﻿(b), (2), (3), (5), (6), and (7)﻿(b) apply for the 2020–21 and 2021–22 tax years.
 
 ### 228 Section 183C amended (Cancellation of interest)
 (1) Repeal section 183C(4B)﻿(b).
