@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2024-03-08_
+_Consolidation as at 2024-03-28_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -254,7 +254,7 @@ _Consolidation as at 2024-03-08_
   - **income other than reportable income** , for the purposes of Part 3, subpart 3B and the definition of tax position, has the same meaning as other income
   - **income tax** is defined in section 157(10) for the purposes of that section
   - **incremental late payment penalty** means a late payment penalty imposed under section 139B(2)﻿(b)
-  - **individual** , for a person, is defined in section 22D(1) of the Tax Administration Act 1994 for the purposes of Part 3, subpart 3B, sections 22, 33, 37, 38, 42C, 89D, 92, 106, 110, 143, and 227G, and schedule 8, and the definitions of final account, pre-populated account, tax return, and taxpayer’s tax position
+  - **individual** , for a person, is defined in section 22D(1) of the Tax Administration Act 1994 for the purposes of Part 3, subpart 3B, sections 4A, 22, 33, 37, 42C, 89D, 92, 106, 110, 143, and 227G, and schedule 8, and the definitions of final account, pre-populated account, tax return, and taxpayer’s tax position
   - **inflation-indexed instrument** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **inform** , for a mode of communication, has the meaning set out in section 14B
   - **information** , for the purpose of Part 11B, includes a self-certification
@@ -403,7 +403,7 @@ _Consolidation as at 2024-03-08_
   - **provisional tax payable** is defined in section 139C
   - **provisional taxpayer** means a person who is liable to pay provisional tax under section RC 3 of the Income Tax Act 2007
   - **public services** is defined in section 18E(5) for the purposes of that section and sections 16B and 18F
-  - **qualifying individual** is defined in section 22D(2) for the purposes of Part 3, subpart 3B, sections 4A, 22, and 120C, in the definition of date interest starts, paragraph (a), and schedule 8
+  - **qualifying individual** is defined in section 22D(2) for the purposes of Part 3, subpart 3B, sections 22, 38, 89C, and 120C, in the definition of date interest starts, paragraph (a), and schedule 8
   - **ratio instalment date** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **record** —
     (a) is defined in section 152(18) for the purposes of that section:
@@ -1810,7 +1810,7 @@ An information holder who is required to disclose information in relation to a p
     (v) the taxpayer must comply with section EB 22(4) of the Income Tax Act 2007; and
   (d) where that business involves the provision of services, records of the services provided and all invoices relating to them; and
   (e) the charts and codes of accounts, the accounting instruction manuals, and the system and programme documentation which describes the accounting system used in each income year in the carrying on of that business.
-(2) Subject to subsections (2BA), (2B), (3), (4), and (6), every person who—shall keep sufficient records to enable the ascertainment readily by the Commissioner, or any officer authorised by the Commissioner in that behalf, of—and shall retain all such records for a period of at least 7 years after the end of the income year, or (for paragraph (k)) the tax or income year (as applicable), to which they relate.
+(2) Subject to subsections (2BA), (2B), (3), (4), and (6), every person who—shall keep sufficient records to enable the ascertainment readily by the Commissioner, or any officer authorised by the Commissioner in that behalf, of—and shall retain all such records for a period of at least 7 years after the end of the income year, or (for paragraph (k)) the tax or income year (as applicable), or (for paragraph (lf)) the calendar year, to which they relate.
   (a) carries on any business in New Zealand:
   (b) carries on any other activity (not being the carrying on of employment as an employee) in New Zealand for the purpose of deriving assessable income:
   (c) is a person to whom the ESCT rules apply and who makes an employer's superannuation cash contribution to a superannuation fund:
@@ -1979,12 +1979,12 @@ Flowchart 1: Scheme of subpart 3B
 
 ### 22D Key terms
 Meaning of individual
-(1) For the purposes of this subpart and sections 22, 33, 37, 38, 42C, 89D, 92, 106, 110, 142AC, 143, and 227G, and schedule 8, individual—
+(1) For the purposes of this subpart and sections 4A, 22, 33, 37, 42C, 89D, 92, 106, 110, 142AC, 143, and 227G, and schedule 8, individual—
   (a) means a natural person; and
   (b) includes a natural person who is non-resident, other than a person whose only income for the corresponding income year is non-residents’ foreign-sourced income; and
   (c) excludes, from the date of their death, a deceased natural person.
 Meaning of qualifying individual
-(2) For the purposes of this subpart and sections 4A, 22, and 120C, definition of date interest starts, paragraph (a), and schedule 8, qualifying individual means—
+(2) For the purposes of this subpart and sections 22, 38, 89C, and 120C, definition of date interest starts, paragraph (a), and schedule 8, qualifying individual means—
   (a) an individual who derives only reportable income for an income year; and
   (b) has no other income information that must be provided to the Commissioner under this subpart for the income year.
 Meaning of reportable income
@@ -2071,7 +2071,7 @@ Requests for information from qualifying individuals
   (b) finalise the account by confirming that the income information in the account as adjusted correctly and completely records their income for the corresponding income year.
 Due dates
 (4) The adjustment, correction, or confirmation is due to be made by—
-  (a) 7 July in the following tax year, as set out in section 37(1):
+  (a) the date set out in section 37(1):
   (b) for an individual who has, under section 37(3) to (5), an extension of time to file a return of income, by the later date in the next tax year.
 
 ### 22I Returns and assessments
@@ -2899,7 +2899,7 @@ A life insurer (the transferor) that transfers a life insurance policy to anothe
 **Resident passive income**
 
 ### 32E Applications for RWT-exempt status
-(1A) A person who is registered as a charitable trust under the Charities Act 2005 is treated as having RWT-exempt status for the duration of the registration.
+(1A) A person who is registered as a charitable entity under the Charities Act 2005 is treated as having RWT-exempt status for the duration of the registration.
 (1) A person listed in subsection (2) may apply to the Commissioner for RWT-exempt status.
 (2) The persons are—
   (a) a registered bank:
@@ -3164,9 +3164,9 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
 (6)
 
 ### 38 Returns to annual balance date
-(1) Instead of furnishing a tax year return under section 33 on the basis of a corresponding income year that ends on 31 March, a taxpayer (other than an individual referred to in subsection (1C)) may, with the consent of the Commissioner, elect to furnish a return based on a corresponding income year that ends with the date of the annual balance of the taxpayer's accounts.
+(1) Instead of furnishing a tax year return under section 33 on the basis of a corresponding income year that ends on 31 March, a taxpayer may, with the consent of the Commissioner, elect to furnish a return based on a corresponding income year that ends with the date of the annual balance of the taxpayer's accounts.
 (1B) A multi-rate PIE that does not calculate and pay tax using the provisional tax calculation option under section HM 44 of the Income Tax Act 2007 must not make an election under subsection (1).
-(1C) The person is an individual whose final account for the tax year is treated under section 22I(1)﻿(b) as an assessment under section 92.
+(1C) Subsection (1) does not apply to a qualifying individual whose final account for the tax year is treated under section 22I(1)﻿(b) as an assessment.
 (2)
 (3) Any election made by a taxpayer for the purposes of this section shall continue in force unless and until it is altered by the taxpayer with the prior notified approval of the Commissioner.
 
@@ -3666,7 +3666,8 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
   (f) the other information required by the Commissioner.
 (3) A trustee of a trust who is required to file a return for a tax year under subsection (1) is not required to file a return in the form required by subsection (2) if—
   (a) the trustee is excluded from the requirement to make a return by section 43B:
-  (b) the trust is a foreign exemption trust:
+  (b) the trust is a foreign trust:
+  (bb) the trust is a foreign exemption trust:
   (c) the trustees of the trust are incorporated as a board under the Charitable Trusts Act 1957:
   (d) the trust is a charitable trust registered under the Charities Act 2005:
   (e) the trustee is eligible under section HF 2 of the Income Tax Act 2007 to choose under section HF 11 of that Act to become a Maori authority:
@@ -3975,13 +3976,14 @@ A company or person apportioning its interest expenditure under section FE 6B of
 (3) Subsection (1) does not apply to an ICA company that is a member of a consolidated imputation group if the ICA for the company has a nil balance at all times during the relevant tax year.
 
 ### 69B Annual Maori authority credit account return required by Maori authority
-(1) A Maori authority must, no later than the time allowed by section 37 for furnishing a return of income for a tax year, furnish to the Commissioner an annual Maori authority credit account return in the prescribed form for the tax year.
+(1) Subject to subsection (3), a Maori authority must, no later than the time allowed by section 37 for furnishing a return of income for a tax year, furnish to the Commissioner an annual Maori authority credit account return in the prescribed form for the tax year.
 (2) The annual Maori authority credit account return must show—
   (a) the opening and closing balances of the Maori authority credit account for the tax year:
   (b) the amount and sources of all credits and debits that have arisen during the tax year in accordance with sections OK 2 to OK 18 of the Income Tax Act 2007:
   (c) the amount of any further income tax payable for the tax year under sections OK 21 and OK 22 of that Act:
   (d) the amount of any Maori authority distribution penalty tax payable for the tax year:
   (e) such further information as the Commissioner may prescribe or require.
+(3) Subsection (1) does not apply to a Maori authority that is a member of a consolidated imputation group if the ICA for the Maori authority has a nil balance at all times during the relevant tax year.
 
 ### 70 Annual ICA return to be furnished if: required by Commissioner; requirement for imputation credit account ceases; or balance retrospectively reduced to debit or to less than refund
 (1) The Commissioner may require an ICA company to furnish, within such time as the Commissioner may allow, an annual ICA return in respect of any period specified by the Commissioner.
@@ -4096,10 +4098,10 @@ A taxpayer who has not provided their investment income payer with their tax fil
 (2) The report for a period must be provided to the Commissioner by the date that is 12 months after the end of the period.
 
 ### 79 Other annual returns
-In addition to the returns required by sections 33 and 41 to 44, every person, whether a taxpayer or not, shall make to the Commissioner such annual returns as may be prescribed for the purposes of this Act or the Income Tax Act 2007.
+In addition to the returns required by sections 33, 41 to 44, and 59BA, every person, whether a taxpayer or not, shall make to the Commissioner such annual returns as may be prescribed for the purposes of this Act or the Income Tax Act 2007.
 
 ### 80 Commissioner may require other returns to be made
-In addition to the returns mentioned in sections 33, 41 to 44, 63, and 79, every person, whether a taxpayer or not, shall, as and when required by the Commissioner, make such further or other returns as the Commissioner requires for the purposes of this Act or the Income Tax Act 2007.
+In addition to the returns mentioned in sections 33, 41 to 44, 59BA, 63, and 79, every person, whether a taxpayer or not, shall, as and when required by the Commissioner, make such further or other returns as the Commissioner requires for the purposes of this Act or the Income Tax Act 2007.
 
 ## Part 3A — Income statements
 
@@ -5226,9 +5228,9 @@ A person who enters into a financial arrangement before a determination or notic
 **Determinations relating to family scheme income**
 
 ### 91AAS Declaration of emergency event for purposes of family scheme income
-(1) The Commissioner may determine that an event is an emergency event, for the purposes of section MB 13(2)﻿(r)﻿(i) of the Income Tax Act 2007, if the event meets the requirements of paragraphs (a) and (b) of the definition of emergency in section 4 of the Civil Defence Emergency Management Act 2002.
-(2) The determination must set a period relating to the event, for the purposes of section MB 13(2)﻿(r)﻿(ii) of the Income Tax Act 2007, equal to or less than 12 months and beginning on the day of the event.
-(3) The determination may provide for the extension, limitation, variation, cancellation, or repeal of an earlier determination, except that the total period relating to an event may not exceed 12 months.
+(1) The Commissioner may determine that an event is an emergency event, for the purposes of section MB 13(2)﻿(r) of the Income Tax Act 2007, if the event meets the requirements of paragraphs (a) and (b) of the definition of emergency in section 4 of the Civil Defence Emergency Management Act 2002.
+(2) The determination must set a period relating to the event that begins on the day of the event.
+(3) The determination may provide for the extension, limitation, variation, cancellation, or repeal of an earlier determination.
 (4) As soon as possible after issuing or changing a determination under this section, the Commissioner must publish the new or changed determination in a publication chosen by the Commissioner.
 
 **Determinations relating to certain employment expenditure**
@@ -6437,7 +6439,7 @@ Except where a tax law provides otherwise, interest payable by a taxpayer to the
 
 ### 120KBB Interest for most standard method provisional taxpayers
 (1) This section applies if, for a tax year and a provisional taxpayer (the person),—
-  (a) section 120KE does not apply for the person for the tax year (for example: a person does not make a required payment, so section 120KE does not apply); and
+  (a) section 120KE does not apply for the person for the tax year; and
   (b) the person is an interest concession provisional taxpayer; and
   (c) the provisional tax associates of the person that are liable to pay provisional tax—
     (i) are interest concession provisional taxpayers:
@@ -8155,7 +8157,7 @@ The due date for payment, by a member of a large multinational group, of a penal
 (2) The seller is liable to pay a penalty of $1,000 if they—
   (a) provide false or misleading information to the reporting platform operator about either themselves or another person or entity:
   (b) do not provide information to the reporting platform operator about either themselves or another person or entity within a reasonable time after having received a request for the information:
-  (c) do not provide information that they are required to provide to the reporting platform operator as a seller operating on the digital platform under—
+  (c) do not provide information that the reporting platform operator requires them to provide to enable the reporting platform operator to meet its obligations as an operator on the digital platform under—
     (i) the model reporting standard for digital platforms:
     (ii) the extended model reporting standard for digital platforms.
 (3) The due date for payment of a penalty imposed under this section is the later of—
@@ -9888,11 +9890,11 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
 (3) A reference in a document to an exemption certificate for a schedular payment or to the provision of a copy of an exemption certificate is to be read as including a reference to a notice of the Commissioner under schedule 5, part C, clause 6 that a person is entitled to receive payment for which no amount of tax is to be withheld or to the provision of evidence of the notice, as applicable, to the extent necessary to reflect sensibly the intent of the document.
 
 ### 227F Transitional provisions related to information disclosures
-(1) Subpart 3A, sections 16 to 17K are sections 16 to 19, 21 and 21BA of the Tax Administration Act 1994 in rewritten form and are intended to have the same effect. Subsection (3) overrides this subsection.
-(2) Unless a limit in subsection (3) applies, in circumstances where the meaning of a taxation law that comes into force at the commencement of this Act (the new law) is unclear or gives rise to absurdity,—
-  (a) the wording of a taxation law that is replaced in part by section 13C of this Act and that corresponds to a new law (the old law) must be used to determine the correct meaning of the new law; and
+(1) Sections 16 to 17K are sections 16 to 19, 21, and 21BA of this Act, as they read on 17 March 2019, in rewritten form and are intended to have the same effect. Subsection (3) overrides this subsection.
+(2) Unless a limit in subsection (3) applies, in circumstances where the meaning of a taxation law that comes into force on 18 March 2019 (the new law) is unclear or gives rise to absurdity,—
+  (a) the wording of a taxation law that is replaced in part by section 10 of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters) Act 2019 and that corresponds to a new law (the old law) must be used to determine the correct meaning of the new law; and
   (b) it can be assumed that a corresponding old law provision exists for each new law provision.
-(3) Subsections (1) and (2) do not apply in the case of a new law that is amended after the commencement of this Act, with effect from the date on which the amendment comes into force.
+(3) Subsections (1) and (2) do not apply in the case of a new law that is amended after 18 March 2019, with effect from the date on which the amendment comes into force.
 (4) For the avoidance of doubt, in relation to permitted disclosures under schedule 7, the authorisation of a specific disclosure under an exception set out in the schedule does not affect the general rule that confidentiality, as set out in section 18, applies only to sensitive revenue information.
 
 ### 227G Transitional provision related to individuals’ income information
