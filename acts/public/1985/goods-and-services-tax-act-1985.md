@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2024-02-17_
+_Consolidation as at 2024-03-28_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -1600,7 +1600,7 @@ Where taxable supply information or supply correction information has been issue
   (a) the supply correction information relates to taxable supply information issued by the registered person for taxable supplies, or a class or classes of taxable supplies, made to the recipient, or to a class or classes of recipients that include the recipient; and
   (b) the supplier’s records show that the information provided to the recipient, in the supply correction information and the taxable supply information for the supply, includes the details required under subsection (2) for each supply to the recipient to which the supply correction information relates.
 (7) Supply correction information for a supply may not be issued under subsection (2) after whichever of the following is the date that is, or is the earlier of the dates that are, applicable to the supply:
-  (a) if the supply is not described in paragraph (b), the date that is 4 years from the end of the taxable period in which the registered person provides the return for the taxable period in which the supply was made:
+  (a) if the supply is not described in paragraph (b) or (c), the date that is 4 years from the end of the taxable period in which the registered person provides the return for the taxable period in which the supply was made:
   (b) if the supply gives rise to an overpayment of tax that is described in section 45(1), (2), or (3) and the Commissioner is satisfied that the registered person took due care to avoid errors in the taxable supply information, the date that is 4 years from the end of the 4-year period referred to in the subsection that describes the overpayment:
   (c) if the supply was not zero-rated, because section 11(1)﻿(mb) was incorrectly applied to the supply, the date that is 7 years from the date of settlement of the transaction relating to the supply.
 (8) If a person claims to have lost supply correction information, the registered person who issued the information may provide a copy to the person.
@@ -1697,7 +1697,7 @@ Where taxable supply information or supply correction information has been issue
 (3A) For the purpose of subsection (3), output tax does not include the tax on the taxable value of a fringe benefit provided or granted to another person under the FBT rules of the Income Tax Act 1994.
 (3AB)
 (3B)
-(3C) For the purposes of subsection (3), and if subsections (3CB), (3CC), (3D), (3L), or (3LB) do not apply,—
+(3C) For the purposes of subsection (3), and if subsections (3CB), (3CC), (3D), (3L), (3LB), or (3LC) do not apply,—
   (a) input tax as defined in section 3A(1)﻿(a) or (c) may be deducted to the extent to which the goods or services are used for, or are intended to be used in, making taxable supplies:
   (b) input tax as defined in section 3A(1)﻿(b) may be deducted to the extent to which the goods are used for, or are intended to be used in, making taxable supplies other than—
     (i) the delivery of the goods to a person in New Zealand:
@@ -1735,7 +1735,7 @@ Where taxable supply information or supply correction information has been issue
     (iii) determine the amount that is the same proportion of the nominal GST component as the proportion of the use of the goods and services that is non-taxable use; and
     (iv) attribute as output tax to a taxable period under subsection (4)—
       (A) the amount determined under subparagraph (iii); or
-      (B) the nominal GST component calculated by section 20(3J)﻿(a)﻿(i), if the person intends to apply section 14(4) on disposal of the goods; and
+      (B) the nominal GST component calculated by section 20(3J)﻿(a)﻿(i), if the person intends to apply section 6(3)﻿(e) on disposal of the goods; and
   (b) for later adjustment periods, make adjustments under the apportionment rules set out in sections 20G and 21 to 21H in relation to the taxable supply referred to in paragraph (a).
 (3JB) For a supply to which section 20G applies, the recipient must,—
   (a) on acquisition,—
@@ -1766,8 +1766,8 @@ Where taxable supply information or supply correction information has been issue
     (i) each amount, which may be estimated using a method acceptable to the Commissioner if adequate records are not available, that affects under subsection (3K) the calculation of the registered person’s input tax before the election date and is included in the cost of the asset; and
     (ii) each amount arising from the asset, which may be estimated using a method acceptable to the Commissioner if adequate records are not available, that affects under subsection (3K) the calculation of the registered person’s input tax before the election date and is included in the operating costs of the asset in the period of 7 years before the election date.
 (3L) For the purposes of subsection (3), and if subsections (3CB) and (3CC) do not apply, a registered person who is non-resident may deduct input tax as defined in section 3A(1)﻿(a) or (c) to the extent to which the registered person uses the goods and services for, or intends the goods or services for use in, making taxable supplies, treating all the supplies made by the person as if they are made and received in New Zealand.
-(3LB) For the purposes of subsection (3), and if subsections (3CB) and (3CC) do not apply, a registered person who is non-resident may deduct input tax as defined in section 3(1)﻿(b) to the extent to which the goods or services are used for, or intended to be used in, making taxable supplies, treating all supplies made by the person as if they were made and received in New Zealand.
-(3LC) A registered person who is non-resident may not deduct input tax as defined in section 3A(1)﻿(b) if the imported goods are—
+(3LB) For the purposes of subsection (3), and if subsections (3CB) and (3CC) do not apply, a registered person who is non-resident may deduct input tax as defined in section 3A(1)﻿(b) to the extent to which the goods or services are used for, or intended to be used in, making taxable supplies, treating all supplies made by the person as if they were made and received in New Zealand.
+(3LC) Despite subsection (3LB), a registered person who is non-resident may not deduct input tax as defined in section 3A(1)﻿(b) if the imported goods are—
   (a) supplied to a person (the recipient) who—
     (i) is not a registered person; or
     (ii) is a registered person and the supply is not for use in a taxable activity of the recipient; and
@@ -2137,7 +2137,7 @@ Any company, being a registered person, shall, where any amount of tax has been 
 (3A)
 (3B)
 (3C)
-(4) If a registered person makes a deduction in a taxable period of input tax relating to a supply for which the person has taxable supply information and is then issued with supply correction information showing, or otherwise knows, that the supply correction information includes an amount of output tax on the supply exceeding the correct amount, the amount of the excess tax is—
+(4) If a registered person makes a deduction in a taxable period of input tax relating to a supply for which the person has taxable supply information and is then issued with supply correction information showing, or otherwise knows, that the taxable supply information includes an amount of output tax on the supply exceeding the correct amount, the amount of the excess tax is—
   (a) treated as being output tax charged on a taxable supply made by the registered person, to the extent that the input tax deducted relating to the supply exceeds the output tax properly charged on the supply; and
   (b) attributed to the taxable period in which the supply correction information is issued or the registered person becomes aware of the excess.
 (5) If a registered person makes a deduction in a taxable period of input tax relating to a supply for which the person has taxable supply information and is then issued with supply correction information showing that the correct amount of output tax on the supply exceeds the amount included in the taxable supply information, the amount of the excess tax is treated as being input tax that is a deduction under section 20(3) in the taxable period in which the supply correction information is issued, to the extent that the output tax properly charged on the supply exceeds the input tax deducted relating to the supply.
@@ -2741,6 +2741,12 @@ The obligations and liabilities under this Act of any person in respect of anyth
   (b) the operator of the marketplace treats the underlying supplier as a New Zealand resident in relation to the supply; and
   (c) in treating the underlying supplier as a New Zealand resident, the operator of the marketplace meets the requirements of section 60G(1) for information held by the operator relating to the residence of the underlying supplier.
 (3) If, in relation to a single supply of goods or supply of remote services, more than 1 operator of an electronic marketplace is liable for tax on the supply, the first operator that authorises a charge or receives consideration for the supply is treated as making the supply. If no operator exists that meets this requirement, the first operator that authorises delivery of the supply is treated as making the supply.
+(3B) Subsection (3C) applies when—
+  (a) an operator of an electronic marketplace is treated for the purposes of this Act as the supplier of remote services or distantly taxable goods; and
+  (b) the operator collects an amount from the underlying supplier or deducts an amount from the payment made by the recipient of the goods or services; and
+  (c) the amount is used to meet the operator’s output tax liability for the supply.
+(3C) To the extent of the operator’s output tax liability for the supply, the collection of the amount does not give rise to consideration for a supply for the purposes of this Act.
+(3D) For the purposes of the electronic marketplace rules set out in section 152 of the Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023, the Commissioner may determine the circumstances and the criteria required for a person to enter into an opt-out agreement under those rules.
 (4) This section overrides section 60(1).
 
 ### 60D Approved marketplaces
