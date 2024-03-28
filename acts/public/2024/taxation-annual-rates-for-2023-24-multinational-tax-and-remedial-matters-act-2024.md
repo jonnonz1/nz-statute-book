@@ -1805,7 +1805,7 @@ In section 48(2), replace Subsection (1) applies with Section CB 6A, as inserted
 In section 227(8), replace (7) with (7)﻿(b).
 
 ### 184 Amendments to Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023
-Sections 185 to 200 amend the Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023.
+Sections 185 to 201 amend the Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023.
 
 ### 185 Section 2 amended (Commencement)
 In section 2(39),—
