@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2023-10-06_
+_Consolidation as at 2024-03-28_
 
 > Title
 
@@ -1137,7 +1137,7 @@ In assessing the annual rate at which child support or domestic maintenance is p
 (2) An exception applies if—
   (a) the Commissioner is of the opinion that information provided by a person is fraudulent or wilfully misleading; or
   (b) the Commissioner is of the opinion that information provided by a person does not mention income that is of a particular nature, or that was derived from a particular source, and in respect of which information is required to be provided; or
-  (c) an assessment is made under subpart 4 of Part 5A (which relates to victims of sex offences).
+  (c) an amended assessment is required to give effect to a decision, determination, or exemption made under Part 5A (which relates to exemptions for hospital patients, persons suffering from long-term periods of illness, prisoners, persons under 16 years, and victims of sex offences).
 (3) An exception also applies if—
   (a) a liable person, child, or payee to whom the assessment relates has died; or
   (b) a person is not a parent of the child; or
