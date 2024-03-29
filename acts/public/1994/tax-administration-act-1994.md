@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2024-03-28_
+_Consolidation as at 2024-03-29_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -89,6 +89,7 @@ _Consolidation as at 2024-03-28_
     (b) a late payment penalty; or
     (c) a shortfall penalty; or
     (cb) a promoter penalty; or
+    (cbb) a penalty under section 139AAB, 139AB, or 139AC; or
     (cc) a penalty under section 142H, 142I, 142J, or 142K; or
     (cd) a penalty under section 141EE; or
     (d) a non-electronic filing penalty; or
@@ -4535,8 +4536,8 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
   (ka) the assessment corrects a tax position taken by the taxpayer in relation to a tax position taken by a look-through company in a return of income under section 42B, and the Commissioner and the company have completed the disputes process for that return of income and that tax position; or
   (l) the assessment results from an amendment made under section 22G(6); or
   (lbaa) the Commissioner is making an amendment before finalising the account of a qualifying individual under section 22H; or
-  (lba) the assessment is of a penalty under section 142H or 142I; or
-  (lbab) the assessment is of a penalty under section 142J or 142K; or
+  (lba) the assessment is of a penalty under section 139AAB, 139AB, 139AC, 142H, 142I, 142J, or 142K; or
+  (lbab)
   (lb) the assessment extinguishes all or part of a taxpayer's tax loss in accordance with section 177C(5); or
   (lbb) the assessment extinguishes all or part of a taxpayer’s excess amount under section EL 4 of the Income Tax Act 2007 in accordance with section 177C(5BA); or
   (m) the assessment includes a calculation by the Commissioner of a tax credit under the family scheme.
@@ -5927,7 +5928,7 @@ The fact that there has been an application for a private ruling or a product ru
 (3) An assessment made under subsection (1) is subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act applies accordingly.
 
 ### 94A Assessment of shortfall penalties
-(1) The Commissioner may make or amend an assessment of a civil penalty other than under section 142H or 142I in the same way as the Commissioner may make or amend an assessment of the tax in respect of which the penalty is imposed.
+(1) The Commissioner may make or amend an assessment of a civil penalty other than under section 139AAB, 139AB, 139AC, 142H, 142I, 142J, or 142K in the same way as the Commissioner may make or amend an assessment of the tax in respect of which the penalty is imposed.
 (2) The Commissioner must assess a shortfall penalty in the same way as the tax to which it relates, but separately from the tax. However, this subsection does not apply to a penalty under section 141ED.
 (3) The Commissioner may assess a shortfall penalty before or after unpaid tax has been assessed, or has become assessable or payable, or has been paid.
 (4) If the Commissioner assesses a shortfall penalty in respect of unpaid income tax before the passing of the annual taxing Act, the unpaid income tax shall be calculated by reference to the rates determined by the last preceding annual taxing Act.
@@ -5943,6 +5944,18 @@ The fact that there has been an application for a private ruling or a product ru
 (3) For the purposes of subsection (2),—
   (a) where a shortfall penalty is imposed in respect of a partnership, the part of that penalty imposed on each partner shall be in proportion to the partner's share or interest in the partnership; and
   (b) where a shortfall penalty is imposed in respect of a group of persons (other than a partnership), that penalty shall be imposed in such proportions as the Commissioner determines on any 1 or more of the persons in that group.
+
+### 94BB Assessment of penalty for large multinational group failing to meet country-by-country reporting requirements
+(1) The Commissioner may make an assessment for an ultimate owner of a large multinational group of the amount of a penalty under section 139AAB that, in the Commissioner’s opinion, ought to be imposed, and the ultimate owner is liable to pay the penalty assessed.
+(2) Despite subsection (1), this section does not apply in so far as the ultimate owner establishes in proceedings challenging the assessment that the assessment is excessive or that the ultimate owner is not chargeable with the penalty.
+
+### 94BC Assessment of penalty for member of large multinational group failing to provide information
+(1) The Commissioner may make an assessment for a member of a large multinational group of the amount of a penalty under section 139AB that, in the Commissioner’s opinion, ought to be imposed, and the member is liable to pay the penalty assessed.
+(2) Despite subsection (1), this section does not apply in so far as the member establishes in proceedings challenging the assessment that the assessment is excessive or that the member is not chargeable with the penalty.
+
+### 94BD Assessment of penalty for trustee failing to register, or provide information for, foreign exemption trust
+(1) The Commissioner may make an assessment for a trustee of a foreign exemption trust of the amount of a penalty payable under section 139AC that, in the Commissioner’s opinion, ought to be imposed, and the trustee is liable to pay the penalty assessed.
+(2) Despite subsection (1), this section does not apply in so far as the trustee establishes in proceedings challenging the assessment that the assessment is excessive or that the trustee is not chargeable with the penalty.
 
 ### 94C Assessment of penalties under sections 142H and 142I
 (1) The Commissioner may, for a financial institution having obligations under Part 11B for financial accounts maintained by the financial institution, make an assessment of the amount of a penalty under section 142H that, in the Commissioner’s judgement, ought to be imposed and the financial institution is liable to pay the penalty assessed, except so far as the financial institution establishes in proceedings challenging the assessment that the assessment is excessive or that the financial institution is not chargeable with the penalty.
@@ -7436,6 +7449,14 @@ The purposes of this Part are—
 (5) For GST purposes, the non-electronic filing penalty is $250.
 (6) For investment income information, the non-electronic filing penalty is $250.
 (7)
+
+### 139AAB Penalty for large multinational group failing to meet country-by-country reporting requirements
+(1) This section applies when a large multinational group with an ultimate owner that is a New Zealand resident fails to comply with the requirements of section 78G.
+(2) The ultimate owner is liable to pay a penalty under this section.
+(3) The penalty under this section is the amount specified by the Commissioner, which must not exceed $100,000.
+(4) The due date for payment of a penalty imposed under this section is the later of—
+  (a) 30 days after the date on which the Commissioner issues the notice of assessment for the penalty:
+  (b) the date specified by the Commissioner in the notice of assessment as being the due date for payment of the penalty.
 
 ### 139AB Penalty for member of large multinational group failing to provide information
 (1) A member of a large multinational group is liable to pay a penalty under this section if—
@@ -10320,7 +10341,8 @@ Section 18 does not prevent the Commissioner disclosing to a government agency o
   (b) the New Zealand Police:
   (c) the Accident Compensation Corporation:
   (d) Kāinga Ora–Homes and Communities:
-  (e) Callaghan Innovation.
+  (e) Callaghan Innovation:
+  (f) Health New Zealand.
 
 ### 24 New Zealand Customs Service: value of imported goods
 Section 18 does not prevent the Commissioner disclosing to the chief executive of the New Zealand Customs Service information for the purpose of assessing the suitability of an arrangement relating to the use of provisional values under the Customs and Excise Act 2018, including the determination of an application to use provisional values.
