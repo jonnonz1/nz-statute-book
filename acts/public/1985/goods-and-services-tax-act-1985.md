@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2024-03-28_
+_Consolidation as at 2024-03-29_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -880,13 +880,13 @@ This Act shall bind the Crown.
   (a) as the amount of money (including cheques not collected) a person pays to the casino to purchase a chip or otherwise to participate in gambling played or conducted at a casino venue; or
   (b) as commission for participation in the gambling.
 (15B) For the purposes of subsection (15A), the terms casino venue, chip, and gambling have the meanings set out in section 4(1) of the Gambling Act 2003.
-(15C) If a non-resident makes a supply of services to a resident who is a member of the same group of companies under section IA 6 of the Income Tax Act 2007 as the supplier, or who is treated by section 56B as being a separate person from the supplier, and the supply is treated by sections 5B and 8(4B) as being made in New Zealand by the recipient of the supply, or section 20(3JC) applies, the value of the supply is determined as if the consideration for the supply did not include—
+(15C) If a non-resident makes a supply of services to a resident who is a member of the same group of companies under the Income Tax Act 2007 as the supplier, or who is treated by section 56B as being a separate person from the supplier, and the supply is treated by sections 5B and 8(4B) as being made in New Zealand by the recipient of the supply, or section 20(3JC) applies, the value of the supply is determined as if the consideration for the supply did not include—
   (a) the amount of the consideration for the supply that represents salary or wages paid to an employee of—
     (i) the non-resident:
-    (ii) a company that is in a wholly-owned group with the non-resident under section IA 6 of the Income Tax Act 2007; and
+    (ii) a company that is in a wholly-owned group with the non-resident under the Income Tax Act 2007; and
   (b) the amount of the consideration for the supply that represents interest incurred by—
     (i) the non-resident:
-    (ii) a company that is in a wholly-owned group with the non-resident under section IA 6 of the Income Tax Act 2007.
+    (ii) a company that is in a wholly-owned group with the non-resident under the Income Tax Act 2007.
 (16)
 (16A)
 (17)
@@ -1087,7 +1087,7 @@ This Act shall bind the Crown.
   (q) the services are financial services that are supplied in respect of a taxable period, by a registered person who has made an election under section 20F, to a registered person who makes supplies of goods and services such that taxable supplies that are not charged with tax at the rate of 0% under this paragraph or under paragraph (r) make up not less than 75% of the total value of the supplies in respect of—
     (i) a 12-month period that includes the taxable period; or
     (ii) a period acceptable to the Commissioner; or
-  (r) the services are financial services that are supplied in respect of a taxable period, by a registered person who has made an election under section 20F, to a person who is a member of a group of companies for the purposes of section IA 6 of the Income Tax Act 2007 and—
+  (r) the services are financial services that are supplied in respect of a taxable period, by a registered person who has made an election under section 20F, to a person who is a member of a group of companies under the Income Tax Act 2007 and—
     (i) the members of the group make supplies of goods and services to persons who are not members of the group in respect of—
       (A) a 12-month period that includes the taxable period; or
       (B) a period acceptable to the Commissioner; and
