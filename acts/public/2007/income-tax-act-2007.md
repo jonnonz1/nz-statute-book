@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2024-03-28_
+_Consolidation as at 2024-03-29_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -119,7 +119,7 @@ Multiple schedular income
 Income tax liability of multi-rate PIEs
 (4) The income tax liability for a tax year of a multi-rate PIE is determined under subpart HM (Portfolio investment entities).
 Special rule for natural person investors in multi-rate PIEs
-(5) The schedular income tax liability of a natural person investor in a multi-rate PIE, when the rate of tax applied for the year is not equal to the investor’s prescribed investor rate for the year, is calculated under section HM 36B (Calculating PIE schedular income adjustments for natural person investors) to provide an adjustment to the amount of the person’s income tax liability referred to in subsection (1)﻿(b).
+(5) The schedular income tax liability of a natural person who is resident in New Zealand and is an investor in a multi-rate PIE, when the rate of tax applied for the year is not equal to the investor’s prescribed investor rate for the year, is calculated under section HM 36B (Calculating PIE schedular income adjustments for natural person investors) to provide an adjustment to the amount of the person’s income tax liability referred to in subsection (1)﻿(b).
 
 ### BC 8 Satisfaction of income tax liability
 Use of tax credits
@@ -415,6 +415,8 @@ Family trusts: transfers from trusts
     (i) the transferees are beneficiaries of trust A; and
     (ii) at least 1 transferee is a principal settlor of trust A; or
   (b) if the transferees had not previously transferred the land to the trustee, all transferees were principal settlors at the time the trustee acquired the land and at the time the trustee transferred the land to the transferees.
+Family trusts: transfers from trusts — modified proportionality rule
+(2B) For the purposes of the proportionality requirement in subsection (2)﻿(a), in the case where a settlor who had previously transferred the land to the trustee has died, the proportionality requirement is met if the transferees receive at least the same proportion of the land back from the trustee as they had previously transferred.
 Other capacities
 (3) For the purposes of applying subsections (1)﻿(a) and (2), the transferors and transferees may have different capacities in relation to the different criteria in those subsections (for example: a transferee may be a settlor in their personal capacity and be a beneficiary as an LTC owner).
 Transfer to self
@@ -455,6 +457,8 @@ Transfers from trusts
     (i) the transferees are beneficiaries of trust A; and
     (ii) trust A is a Māori rollover trust; and
     (iii) the transferees are settlors of trust A.
+Transfers from trusts — modified proportionality rule
+(2B) For the purposes of the proportionality requirement in subsection (2)﻿(b), in the case where a settlor who had previously transferred the land to the trustee has died, the proportionality requirement is met if the transferees receive at least the same proportion of the land back from the trustee as they had previously transferred.
 Other capacities
 (3) For the purposes of applying subsections (1)﻿(a) and (2), the transferors and transferees may have different capacities in relation to the different criteria in those subsections (for example: a transferee may be a settlor in their personal capacity and be a beneficiary as an LTC owner).
 Key term: Māori rollover trust
@@ -17197,9 +17201,17 @@ Consideration: debtor
   (a) if the relevant debt, creditor, and debtor are described in subsection (1)﻿(a) or (b):
   (b) to the extent to which the proportional debt ratio for the amount equals the proportional ownership ratio.
 Consideration: creditor
-(5) The creditor is treated as having been paid the amount of debt on the date on which it is remitted,—
+(5) Unless subsection (5C) applies, the creditor is treated as having been paid the amount of debt on the date on which it is remitted,—
   (a) if the relevant debt, creditor, and debtor are described in subsection (1)﻿(a) or (b):
   (b) to the extent to which the proportional debt ratio for the amount equals the proportional ownership ratio.
+When subsection (5C) applies
+(5B) Subsection (5C) applies when—
+  (a) the relevant debt, creditor, and debtor are described in subsection (1)﻿(a) or (b); and
+  (b) the creditor is a person to which section EW 41 applies in relation to the relevant debt.
+Consideration: special case
+(5C) The creditor is treated as having been paid, on the date on which the amount of debt is remitted, the lesser of the following 2 amounts, or the first amount if they are the same:
+  (a) the amount of debt:
+  (b) the amount calculated by subtracting, from the amount of debt, any impairment of the relevant debt under generally accepted accounting practice at the time the creditor is treated under section EW 41(2) as having acquired their accrued entitlement to receive consideration in relation to the relevant debt.
 Some definitions
 (6) For the purposes of this section,—
   - **nominal shares** are shares held by the trustee of an exempt ESS, or employees or former employees of the debtor, if the total of those shares represent voting interests in the debtor that add up to no more than 3%, or, as applicable, market value interests in the company that add up to no more than 3%
@@ -23358,7 +23370,7 @@ Market value
 Date of transfer of estate of deceased person
 (2) For property referred to in section FC 1(1)﻿(a), the disposal and acquisition is treated as occurring immediately before the death of the person.
 Exceptions to general rule
-(3) Sections ED 2B (Transfers to shareholders by ASX-listed Australian company of shares in subsidiary) and FC 3 to FC 6 and FC 10 override this section.
+(3) Sections ED 2B (Transfers to shareholders by ASX-listed Australian company of shares in subsidiary) and FC 3 to FC 9C and FC 10 override this section.
 Relationship with settlements and distributions for trusts
 (4) Subsection (1) does not apply for the purposes of determining whether a transfer of property is—
   (a) a settlement on a trust:
@@ -28571,9 +28583,7 @@ A trust is a foreign trust at a moment in time if no settlor is resident in New 
 A trust is a non-complying trust in relation to a distribution if it is neither a complying trust nor a foreign trust.
 
 ### HC 13 Charitable trusts
-In the trust rules, a trust is a charitable trust in an income year if—
-  (a) all income derived or accumulated by the trustee in that or in any earlier income year is held for charitable purposes; and
-  (b) any income derived by the trustee in the income year is exempt income under either section CW 41(1) (Charities: non-business income) or CW 42(1) (Charities: business income).
+[Repealed]
 
 ### HC 14 Distributions from trusts
 Transfers of value
@@ -28874,7 +28884,7 @@ Exclusion: resident trustee
 (3) This section does not apply if the trust has a resident trustee for the full income year or, if the first settlement on the terms of the trust is made during the income year, from the day on which the settlement is made to the end of the income year.
 Exclusion: trust types
 (4) This section does not apply to the settlor of—
-  (a) a charitable trust; or
+  (a) a trust that is a tax charity; or
   (b) a superannuation fund; or
   (c) a trust to the extent to which trustee income is derived from the settlor’s remitting an amount under a financial arrangement to which section EW 31 or EZ 38 (which relate to base price adjustments) applies.
 Exclusion: settlor not resident at time of settlement
@@ -28925,7 +28935,7 @@ When this section applies
   (a) a non-resident settlor becomes resident in New Zealand, see section HC 30.
   (b)
 When this section does not apply
-(1B) This section does not apply if the relevant change in circumstances is a charitable trust failing to meet the requirements to derive exempt income under section CW 41 or CW 42 (which relate to charities). Instead, see sections HR 11 and HR 12 (which relate to non-exempt charities).
+(1B) This section does not apply if the relevant change in circumstances is a trust that is a tax charity failing to meet the requirements to derive exempt income under section CW 41 or CW 42 (which relate to charities). Instead, see sections HR 11 and HR 12 (which relate to non-exempt charities).
 Person able to make choice
 (2) The choice given in subsections (3) and (4) is to be made by the person who is liable to satisfy the income tax liability of the trustee.
 Establishing cost of trust property
@@ -29036,8 +29046,9 @@ When this section applies
 (1) This section applies when a person who is a minor derives an amount of beneficiary income from a trust in an income year. Subsection (4) and sections HC 36 and HC 37 override this subsection.
 Treatment of amount derived
 (2) The amount is—
-  (a) excluded income of the minor under section CX 58 (Amounts derived by minors from trusts):
-  (b) treated as trustee income for the purposes of determining the rate of tax that applies, who pays the relevant tax, and who provides the return of income.
+  (a) excluded income of the minor under section CX 58 (Amounts derived by minors from trusts); and
+  (b) treated as trustee income for the purposes of who pays the relevant tax and who provides the return of income; and
+  (c) subject to the basic rate of income tax set out in schedule 1, part A, clause 3.
 Meaning of minor
 (3) For the purposes of this section, and sections HC 36, HC 37, LE 4, and LF 2 (which relate to the treatment of tax credits of beneficiary minors), a minor is a natural person resident in New Zealand who is under 16 years of age on the trust’s balance date for the income year.
 Exclusions
@@ -29172,7 +29183,7 @@ Imputation groups
 Beneficiary income and taxable distributions
 (1) If a beneficiary of a trust, other than a beneficiary of a community trust, derives an amount of beneficiary income or taxable distribution in a tax year, the trustee of the trust is treated under section HC 32 (Liability of trustee as agent) as the agent of the beneficiary.
 Settlors
-(2) If a trustee of a trust, other than a charitable trust, derives trustee income in a tax year, and a settlor of the trust is resident in New Zealand in the tax year, the settlor is treated under section HC 29 (Settlors’ liability to income tax) as the agent of the trustee for income tax payable by the trustee (but not for income tax that the trustee is liable for as agent).
+(2) If a trustee of a trust, other than a trust that is a tax charity, derives trustee income in a tax year, and a settlor of the trust is resident in New Zealand in the tax year, the settlor is treated under section HC 29 (Settlors’ liability to income tax) as the agent of the trustee for income tax payable by the trustee (but not for income tax that the trustee is liable for as agent).
 
 ### HD 13 Unit trusts
 A trustee of a unit trust is treated as an agent of the unit trust in relation to income derived by the unit trust.
@@ -30950,7 +30961,7 @@ Exception: new notified rate
 
 ### HM 60 Notified investor rates
 Notifying PIE
-(1) Despite sections HM 56 to HM 58, an investor other than a notified foreign investor who has provided their tax file number to a multi-rate PIE may notify the PIE of the investor rate to be applied for a period (the notified investor rate). Section 28B of the Tax Administration Act 1994 sets out the requirements for the notice.
+(1) Despite sections HM 56 to HM 58, an investor other than a notified foreign investor who has provided their tax file number to a multi-rate PIE may notify the PIE of the investor rate to be applied for a period (the notified investor rate).
 Time of notification
 (2) The investor must give notice before the end of the relevant period.
 Application of rate
@@ -30968,7 +30979,7 @@ Exception for 2010–11 income year
 Consistent application of rates
 (3D) In applying notified investor rates, a multi-rate PIE must use the same approach under subsections (3) and (3C) for all investors for an income year.
 When chosen rate lower than rate in sections HM 56 to HM 58
-(4) If an investor other than an investor who is a natural person advises a notified investor rate that is lower than their prescribed investor rate that would apply under sections HM 56 to HM 58, income attributed to them by the PIE is not excluded income of the investor under section CX 56 (Attributed income of certain investors in multi-rate PIEs).
+(4) If an investor advises a notified investor rate that is lower than their prescribed investor rate that would apply under sections HM 56 to HM 58, income attributed to them by the PIE is not excluded income of the investor under section CX 56 (Attributed income of certain investors in multi-rate PIEs).
 When rate disregarded
 (5)
 When no rate notified
@@ -34669,10 +34680,10 @@ Exception for some trusts
 Income amount
 (2B) The amount included in the person’s family scheme income is the amount calculated using the formulas in subsections (3) and (5), adjusted, if applicable, by subsections (7) and (8) for main income equalisation account amounts.
 First formula: family scheme income
-(3) For the purposes of subsection (2B), the relevant amount is calculated using the formula—(trustee income + companies income) ÷ settlor number.
+(3) For the purposes of subsection (2B), the relevant amount is calculated using the formula—(trustee’s adjusted net income + companies income) ÷ settlor number.
 Definition of items in formula in subsection (3)
 (4) In the formula in subsection (3),—
-  (a) trustee income is the net income of the trustee of the person's trust for the income year reduced, to not less than zero, by the amount of the trustee's income that vests or is paid by the trustee as beneficiary income for the income year:
+  (a) trustee’s adjusted net income is the net income of the trustee of the person's trust for the income year reduced, to not less than zero, by the amount of the trustee's income that vests or is paid by the trustee as beneficiary income for the income year:
   (b) companies income is the greater of zero and the amount given by totalling the amounts calculated by applying the formula in subsection (5) to each company in which the trustee of the person's trust and associated persons hold, on the last day of the income year, voting interests of 50% or more:
   (c) settlor number is the number of settlors of the person's trust who are alive at any time in the income year, including the person, for which this section applies.
 Second formula: companies income
@@ -34684,11 +34695,11 @@ Definition of items in formula in subsection (5)
   (c) dividends is the total dividends paid by the relevant company for the company's income year.
 Main income equalisation deposits
 (7) For the purposes of subsection (2B), if the trustee or a company described in subsection (4)﻿(b) makes a main income equalisation deposit for an income year, the amount of the deposit is added to—
-  (a) the item trustee income in the formula in subsection (3), if the trustee makes the deposit:
+  (a) the item trustee’s adjusted net income in the formula in subsection (3), if the trustee makes the deposit:
   (b) the item income in the formula in subsection (5), if the company makes the deposit.
 Main income equalisation refunds
 (8) For the purposes of subsection (2B), if the trustee or a company described in subsection (4)﻿(b) receives a main income equalisation refund for an income year, the amount of the refund is subtracted from—
-  (a) the item trustee income in the formula in subsection (3), if the trustee receives the refund:
+  (a) the item trustee’s adjusted net income in the formula in subsection (3), if the trustee receives the refund:
   (b) the item income in the formula in subsection (5), if the company receives the refund.
 
 ### MB 7B Family scheme income from employment benefits: employees not controlling shareholders
@@ -43880,7 +43891,7 @@ In this Act, unless the context requires otherwise,—
     (b) a marae has a charitable purpose if—
       (i) the physical structure of the marae is situated on land that is a Maori reservation referred to in Te Ture Whenua Maori Act 1993 (the Maori Land Act 1993); and
       (ii) the funds of the marae are not used for a purpose other than the administration and maintenance of the land and of the physical structure of the marae, or are used for a purpose that is a charitable purpose
-  - **charitable trust** is defined in section HC 13 (Charitable trusts) for the purposes of the trust rules
+  - **charitable trust**
   - **chief executive** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **chief executive of the administering department** —
     (a) means the chief executive, appointed under the Public Service Act 2020, of the department responsible for administering the Social Security Act 2018; and
@@ -44137,8 +44148,8 @@ In this Act, unless the context requires otherwise,—
       (iv) an organisation that would be a council-controlled organisation of a kind described in paragraph (a) or (b) or (c) if it did not have an exemption granted under section 6(4)﻿(i) of the Local Government Act 2002:
       (v) the New Zealand Local Government Association Incorporated:
       (vi) a company or organisation, as defined in section 6(2) of the Local Government Act 2002, that is subject to the control, directly or indirectly, of the New Zealand Local Government Association Incorporated:
-      (vii) New Zealand Local Government Insurance Corporation and any subsidiaries it has:
-      (viii) Watercare Services Limited and any subsidiaries it has: but
+      (vii) New Zealand Local Government Insurance Corporation and any subsidiaries it has; but
+      (viii)
     (b) does not include Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009) or Auckland Regional Holdings (as established by section 18 of the Local Government (Auckland) Amendment Act 2004 or the New Zealand Local Government Funding Agency Limited
   - **counted associate** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **country-by-country report** is the report that must be provided to the Commissioner under section 78G of the Tax Administration Act 1994
@@ -47489,7 +47500,7 @@ Treatment of spouses and partners
 Association
 (1) A trustee of a trust and a settlor of the trust are associated persons.
 Exclusion
-(2) This section does not apply if the trust is a charitable trust.
+(2) This section does not apply if the trust is a tax charity.
 
 ### YB 9 Settlor and beneficiary
 Association
