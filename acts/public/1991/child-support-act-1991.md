@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2024-03-28_
+_Consolidation as at 2024-03-29_
 
 > Title
 
@@ -4022,6 +4022,11 @@ The amendment to section 152B made by section 241 of the 2022 Act applies to all
 
 ### 32 Regulations for transitional and savings purposes
 Clauses 29 to 31 may be added to or displaced by transitional provisions or savings provisions prescribed by regulations made under clause 98(1) of Schedule 1 of the Social Security Act 2018.
+
+### Part 8 — Provisions relating to Taxation (Annual Rates for 2023–24, Multinational Tax, and Remedial Matters) Act 2024
+
+### 33 Amendment to section 87A (Four-year time bar for amendment of certain assessments)
+The amendment to section 87A made by section 173 of the Taxation (Annual Rates for 2023–24, Multinational Tax, and Remedial Matters) Act 2024 applies in respect of all child support years, whether ending before, on, or after 26 October 2021.
 
 ## Schedule 2 — Care cost percentage
 
