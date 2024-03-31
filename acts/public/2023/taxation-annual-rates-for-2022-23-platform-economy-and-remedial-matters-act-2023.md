@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023
-_Consolidation as at 2023-03-31_
+_Consolidation as at 2024-03-31_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023.
@@ -43,7 +43,7 @@ This Act is the Taxation (Annual Rates for 2022–23, Platform Economy, and Reme
 (36) Sections 14(2) and (4), 16, 17, 25, 27, 31, 55, 58, 59, 80, 105, 107, 114(8), 116, 119(5), 124(3), (8), (9), and (10), 125(2), 132(2), 113(2), 136(2), 137(2), (3), (7), (10), (13), (18), (22), (24), and (25), 139(1), 142(1) and (3), 143(2), 145, 159, 163, 166, 188(2), 192, 193, 195, 198, 205, 208(2) and (4), 222, and 223 come into force on 1 April 2023.
 (37) Sections 121(8) and 124(4) come into force on 1 July 2023.
 (38) Sections 162(4), (7), and (9), 165, 188(1), 189, 191, 201, 202(3), 210, 211, and 212 come into force on 1 January 2024.
-(39) Sections 18, 24, 28, 36, 100, 103, 104, 106, 114(18), 121(2), (3), (4), (5), (6), and (7), 124(5), 126(1), 130, 131, 132(1), (4), and (5), 134, 135, 136, 137(4), (5), (14), (15), (16), (17), (23), (27), and (28), 138, 140, 141, 144(1), (3), and (5), 146, 147, 151, 152(1), (3), (4), and (5), 153, 154, 155, 167, 168, 169, 199, 208(3), and 213(1) come into force on 1 April 2024.
+(39) Sections 18, 24B, 28, 36, 100, 103, 104, 106, 114(18), 121(2), (3), (4), (5), (6), and (7), 123(1A), 124(5), 126(1), 130, 132(1), (4), and (5), 134, 135, 136B, 137(4), (5), (14), (15), (16), (17), (23), and (28), 138, 140, 141, 144(1), (3), and (5), 145B, 146, 147, 151, 152(1), (3), (4), (5), and (5B), 152B, 153, 154, 155, 157B, 167, 168, 169, 199, 208(3), and 213(1) come into force on 1 April 2024.
 (40) Section 119(3) comes into force on 1 April 2026.
 (41) Sections 124(1) and (2) and 158(2) come into force on 30 June 2026.
 (42) Section 119(7) comes into force on 1 April 2027.
@@ -238,8 +238,11 @@ After section CW 3, insert:Certain subdivisions of landExempt incomeException: 5
 (6) In section CW 10, list of defined terms, insert amount, double tax agreement, fully imputed, New Zealand resident, New Zealand tax, and shareholder.
 
 ### 24 Section CX 1 amended (Goods and services tax)
-After section CX 1(b), insert:
-  (c) a flat-rate credit referred to in sections 8C(3) and (4) and 20(3)﻿(de), (3JD), (3N), and (4E).
+[Repealed]
+
+### 24B New section CX 1B inserted (Treatment of flat-rate credits under platform economy rules)
+After section CX 1, insert:Treatment of flat-rate credits under platform economy rulesamount, excluded income, registered person
+  For the purposes of the flat-rate credit, as defined in section 2(1) of the Goods and Services Tax Act 1985, the amount of the credit is excluded income of the person receiving the credit, whether or not the person is a registered person.
 
 ### 25 Section CX 9 amended (Subsidised transport)
 (1) In section CX 9, after employee, insert , unless section CX 19C or CX 19D applies.
@@ -1020,9 +1023,9 @@ This Part amends the Goods and Services Tax Act 1985.
 ### 121 Section 2 amended (Interpretation)
 (1) This section amends section 2(1).
 (2) In the definition of electronic marketplace, replace paragraph (a) with:
-  (a) means a marketplace that is operated by electronic means by which a person (the underlying supplier) makes 1 or more of the following supplies by electronic means through another person (the operator of the marketplace) to a third person (the recipient):
+  (a) means a marketplace that is operated by electronic means by which a person (the underlying supplier) makes 1 or more of the following supplies through another person (the operator of the marketplace) to a third person (the recipient):
     (i) a supply of goods:
-    (ii) a supply of remote services:
+    (ii) a supply of remote services by electronic means:
     (iii) a supply of listed services; and
 (3) Insert, in appropriate alphabetical order:
   - **flat-rate credit** means an amount equal to the amount of input tax that an operator of an electronic marketplace passes on to an underlying supplier for a supply of listed services made through the electronic marketplace as a credit that is intended for an underlying supplier who is not a registered person
@@ -1041,6 +1044,8 @@ This Part amends the Goods and Services Tax Act 1985.
 (2) Subsection (1) applies to a tax position taken by a person on or after 30 August 2022.
 
 ### 123 Section 3A amended (Meaning of input tax)
+(1A) After section 3A(1)﻿(c), insert:
+  (d) an amount equal to the flat-rate credit that an operator of an electronic marketplace or listing intermediary passes on under section 8C(3)﻿(b)﻿(ii) to an underlying supplier.
 (1) Replace section 3A(3)﻿(a)﻿(i) and (ib) with:
   (i) the tax fraction of the original purchase price of the goods when they were received by the supplier; and
 (2) Subsection (1) applies for a supply of secondhand goods—
@@ -1165,17 +1170,18 @@ After section 8BB, insert:Optional use of place of supply rules for certain supp
       (i) is required to account for output tax under section 20(3JD) for the flat-rate credit received by them; and
       (ii) has a tax shortfall equal to the amount of the flat-rate credit received by them.
   (4) For the amount of the input tax and the flat-rate credit, see section 20(3)﻿(de) and (3N).
+  (4B) The amount of a flat-rate credit when passed on by an operator of an electronic marketplace to an underlying supplier does not constitute consideration for a supply of goods or services.
   (5) If the Commissioner notifies the operator of the electronic marketplace as to the registration status of an underlying supplier to enable the correct tax treatment for both the operator and the underlying supplier, the operator must act on the notification as soon as practicable.
   (6) The operator must provide the underlying supplier with a statement showing the flat-rate credit passed on to the underlying supplier. The statement may be provided periodically in a way consistent with the operator’s usual reporting practices, but must be provided at least once a month.
   (7) The services listed in subsection (2) include other services that—
     (a) are closely connected to the listed service supplied by the underlying supplier, other than a supply of services made directly by the operator to the recipient, ignoring for this purpose the effect of section 60C which treats the operator as a supplier of certain services that they themselves have not supplied; and
     (b) are advertised, listed, or otherwise made available through the electronic marketplace.
+  (7B) Subsection (7) does not apply to a supply of services connected to a listed service when the supply is made by a listing intermediary directly to a recipient, ignoring for this purpose the effect of section 60CB(3)﻿(a), which treats a supply of other services by the listing intermediary to a recipient of listed services as instead being made to the operator of the marketplace.
   (8) In this section, ride-sharing or ride-hailing services means services provided through an electronic marketplace that involve the engagement of a personal driver to transport a person to their chosen destination.
 (2) Subsection (1) applies for taxable periods starting on or after 1 April 2024.
 
 ### 131 Section 9 amended (Time of supply)
-(1) In section 9(9), replace a supply of services with a supply of services including listed services.
-(2) Subsection (1) applies for taxable periods starting on or after 1 April 2024.
+[Repealed]
 
 ### 132 Section 10 amended (Value of supply of goods and services)
 (1) After section 10(6), insert:
@@ -1194,16 +1200,19 @@ After section 8BB, insert:Optional use of place of supply rules for certain supp
   - **lump sum payment** includes irregular payments made before or after another irregular payment if the payments added together equal more than 25% of the total consideration specified under the lease agreement
 
 ### 134 Section 11A amended (Zero-rating of services)
-In section 11A(1)﻿(x), replace . with ; or and insert:
-  (y) the services are listed services that consist of a supply of services from 1 operator of an electronic marketplace to another operator of an electronic marketplace.
+After section 11A(1)﻿(jc), insert—
+  (jd) the services are a supply of services to which section 60(1D)﻿(a) and (b) applies, being supplies made by an underlying supplier to a listing intermediary and by a listing intermediary to an operator of an electronic marketplace, including a supply referred to in section 60CB(3)﻿(a); or
 
 ### 135 Section 15 amended (Taxable periods)
 (1) In section 15(6), replace section 8(3)﻿(c) applies with section 8(3)﻿(c) applies, or listed services referred to in section 8C,.
 (2) Subsection (1) applies for taxable periods starting on or after 1 April 2024.
 
 ### 136 Section 19K amended (Taxable supply information: supplies by registered person)
-(1) In section 19K(3), replace request for the taxable supply information. with request for the taxable supply information. However, in relation to a supply of listed services, the taxable supply information must be provided to the recipient without the need for a request.
-(2) Subsection (1) applies for taxable periods starting on or after 1 April 2024.
+[Repealed]
+
+### 136B New section 19NB inserted (Taxable supply information and supply correction information for listed services)
+After section 19N, insert:Taxable supply information and supply correction information for listed services
+  Despite sections 19K to 19N, in relation to a supply of listed services made by an operator of an electronic marketplace, taxable supply information and supply correction information, as applicable, must be provided to the recipient of the supply without the need for a request. For the avoidance of doubt, when section 60CB(7) applies to treat a listing intermediary as if they were the operator of an electronic marketplace, the responsibility for providing the information remains with the operator of the electronic marketplace.
 
 ### 137 Section 20 amended (Calculation of tax payable)
 (1) Replace section 20(2) with:
@@ -1265,12 +1274,12 @@ In section 11A(1)﻿(x), replace . with ; or and insert:
   (3LB) For the purposes of subsection (3), a registered person who is non-resident may deduct input tax as defined in section 3(1)﻿(b) to the extent to which the goods or services are used for, or intended to be used in, making taxable supplies, treating all supplies made by the person as if they were made and received in New Zealand.
 (22) In section 20(3LB), after subsection (3), insert and if subsections (3CB) and (3CC) do not apply,.
 (23) After section 20(3M), insert:
-  (3N) For the purposes of subsection (3)﻿(de), the amount of input tax to be deducted by the operator of the electronic marketplace corresponding to the flat-rate credit passed on under section 8C(3)﻿(b)﻿(ii) to the underlying supplier is equal to 8.5% of the value of the supply of the listed services.
+  (3N) For the purposes of subsection (3)﻿(de), the amount of input tax to be deducted by the operator of the electronic marketplace corresponding to the flat-rate credit passed on under section 8C(3)﻿(b)﻿(ii) to the underlying supplier is equal to 8.5% of the value of the supply of the listed services. For the purposes of calculation of the amount under this subsection, the special valuation rule in section 10(7D) is ignored.
 (24) In section 20(4)﻿(c), replace 21FB(4) with 21FB(4)﻿(b).
 (25) In section 20(4)﻿(c), replace period. with period; or and, after section 20(4)﻿(c), insert:
   (d) in the case of a registered person who elected to return output tax under section 91(3), the taxable period in which the election was made.
 (26) In section 20(4B), replace section 5(23) with section 5(23B) in each place.
-(27) In section 20(4C), replace section 8(3)﻿(ab) applies or a supply of remote services to which section 8(3)﻿(c) applies, with section 8(3)﻿(ab) applies, or a supply of remote services to which section 8(3)﻿(c) applies, or a supply of listed services referred to in section 8C,.
+(27)
 (28) After section 20(4D), insert:
   (4E) For the purposes of subsection (3JD), an output tax adjustment for the flat-rate credit must be made by the underlying supplier of listed services in a taxable period in which they received the flat-rate credit.
 (29) Subsections (4), (5), (14), (15), (16), (17), (23), (27), and (28) apply to taxable periods starting on or after 1 April 2024.
@@ -1338,6 +1347,18 @@ In section 21D(3), delete and section 20G,.
 ### 145 Section 21HB amended (Transitional rules related to treatment of dwellings)
 In section 21HB(7)﻿(b), replace 21FB(4) with 21FB(4)﻿(b).
 
+### 145B New section 25AAA inserted (Corrections of inaccuracies by marketplace operators)
+After section 25, insert:Corrections of inaccuracies by marketplace operators
+  (1) This section applies when an operator of an electronic marketplace—
+    (a) is required to deduct input tax for a flat-rate credit to pass on under section 20(3)﻿(de) to an underlying supplier; and
+    (b) discovers, after having deducted the amount, that the amount is incorrect.
+  (2) The operator of the electronic marketplace must correct the amount of input tax or output tax, as applicable, as follows:
+    (a) if the amount of input tax is more than the correct amount, the operator must return an amount of output tax that is equal to the excess input tax:
+    (b) if the amount of input tax is less than the correct amount, the operator must deduct input tax of an amount equal to the deficiency in the input tax.
+  (3) The adjustments referred to in subsection (2)﻿(a) and (b) must be made for the taxable period in which the inaccuracy is discovered.
+  (4) For the purposes of subsection (2)﻿(a), if the requirement to pass on the flat-rate credit to the underlying supplier has been met, the amount of the excess may be offset in relation to another amount of flat-rate credit required to be passed on.
+  (5) The operator of the electronic marketplace must pass on any amount of the deficiency referred to in subsection (2)﻿(b) to the underlying supplier under section 8C(3)﻿(b)﻿(ii).
+
 ### 146 Section 26AA amended (Marketplace operators: bad debts for amounts of tax)
 (1) In section 26AA(1), replace goods or remote services with goods, remote services, or listed services.
 (2) Subsection (1) applies for taxable periods starting on or after 1 April 2024.
@@ -1362,8 +1383,17 @@ In section 21HB(7)﻿(b), replace 21FB(4) with 21FB(4)﻿(b).
 (3) In section 58(3), after receivership, insert or voluntary administration.
 
 ### 151 Section 60 amended (Agents and auctioneers)
-(1) In section 60(1A)﻿(b), replace goods or remote services with goods, remote services, or listed services.
-(2) Subsection (1) applies for taxable periods starting on or after 1 April 2024.
+(1) Replace section 60(1A)﻿(b) with:
+  (b) makes supplies for and on behalf of a non-resident principal of—
+    (i) remote services to a person resident in New Zealand:
+    (ii) distantly taxable goods:
+    (iii) listed services.
+(1B) After section 60(1C), insert:
+  (1D) For the purposes of sections 60C and 60CB, when a listing intermediary is interposed between an operator of an electronic marketplace and an underlying supplier, the operator, supplier, and listing intermediary must treat the supply as 3 separate supplies, being—
+    (a) a supply from the underlying supplier to the listing intermediary:
+    (b) a supply from the listing intermediary to the operator:
+    (c) a supply from the operator to the recipient of the supply.
+(2) Subsections (1) and (1B) apply for taxable periods starting on or after 1 April 2024.
 
 ### 152 Section 60C amended (Electronic marketplaces)
 (1) In section 60C(1)—
@@ -1386,23 +1416,48 @@ In section 21HB(7)﻿(b), replace 21FB(4) with 21FB(4)﻿(b).
     (c) the underlying supplier and the operator of the electronic marketplace have agreed, recording their agreement in a document, that the underlying supplier is liable for the payment of tax in relation to the supplies of listed services and will continue to remain responsible for their tax obligations under this Act.
   (2BC) For the purposes of subsection (2BB), the Commissioner may determine the circumstances in which, and the criteria that a person must meet to enter into an opt-out agreement, having regard to the factors set out in subsection (2BD).
   (2BD) In making the determination under subsection (2BC), the Commissioner must have regard to—
-    (a) the compliance costs that would arise for underlying suppliers in making changes to their accounting systems and practices:
+    (a) the compliance costs that would arise for underlying suppliers in making changes to their accounting systems and practices; and
     (b) the size, scale, and nature of the services and activities undertaken by underlying suppliers.
-  (2BE) Despite a determination made under subsection (2BC), a person who is an underlying supplier may enter into an agreement with the operator of the electronic marketplace if they have, or they are part of a group of companies as defined in section IA 6 of the Income Tax Act 2007 that has,—
+  (2BE) Despite a determination made under subsection (2BC), a person who is an underlying supplier may enter into an agreement with the operator of the electronic marketplace if they have, or they are part of a group of companies under the Income Tax Act 2007 that has,—
     (a) 2,000 nights’ accommodation listed as available on 1 electronic marketplace in a 12-month period:
     (b) a reasonable expectation that they can meet the threshold in paragraph (a) for any 12-month period.
   (2BF) Subsection (2) does not apply to a supply of listed services provided through an electronic marketplace if—
-    (a) the underlying supplier is a person that is required to maintain a 2-month or a 1-month taxable period under section 15; and
+    (a) the underlying supplier is a person, other than a natural person, that does not meet the requirement in section 15(2)﻿(a) for a 6-month taxable period; and
     (b) they choose to be liable for the payment of tax in relation to the supply and will continue to remain responsible for their tax obligations under the Act; and
     (c) they have notified the marketplace operator of their election.
 (5) In section 60C(3), replace goods or supply of remote services, with goods, remote services, or listed services,.
-(6) Subsections (1), (3), (4), and (5) apply for taxable periods starting on or after 1 April 2024.
+(5B) In section 60C(3B)﻿(a), replace remote services or distantly taxable goods with remote services, distantly taxable goods, or listed services.
+(6) Subsections (1), (3), (4), (5), and (5B) apply for taxable periods starting on or after 1 April 2024.
+
+### 152B New section 60CB inserted (Listing intermediaries and supply of listed services)
+After section 60C, insert:Listing intermediaries and supply of listed services
+  (1) This section applies for the purposes of the rules related to the supply of listed services through an electronic marketplace when a listing intermediary is interposed between—
+    (a) the underlying supplier of the services; and
+    (b) the operator of the electronic marketplace.
+  (2) The supply of the listed services is treated as 3 separate supplies as follows:
+    (a) a supply by the underlying supplier to the listing intermediary that is zero-rated under section 11A(1)﻿(jd) if the underlying supplier is a registered person; and
+    (b) a supply from the listing intermediary to the operator of the electronic marketplace that is zero-rated under section 11A(1)﻿(jd); and
+    (c) a supply of listed services under section 8C by the operator to the recipient of the services, treating the operator as if they were the underlying supplier of the listed services.
+  (3) When subsection (2) applies to a supply of listed services, a supply of other services by the listing intermediary to the recipient through the electronic marketplace is treated as 2 separate supplies as follows:
+    (a) a supply from the listing intermediary to the operator of the electronic marketplace that is zero-rated under section 11A(1)﻿(jd); and
+    (b) a supply by the operator, in the course or furtherance of its taxable activity, to the recipient.
+  (4) In relation to a supply described in subsection (2)﻿(b) or (3)﻿(a), the supply of listed services facilitated by a listing intermediary or a supply of other services by a listing intermediary does not create a requirement to provide taxable supply information.
+  (5) For a supply described in subsection (2)﻿(c), the listing intermediary is treated for the purposes of the definition of flat-rate credit and sections 8C(3)﻿(b)﻿(ii) and (6), 20(3)﻿(de) and (3N), 25AAA, and 60H as if they were the operator of the electronic marketplace and must meet all the requirements placed on the operator in relation to the flat-rate credit under those provisions for that supply.
+  (6) Subsection (7) applies, in relation to an operator of an electronic marketplace, when a listing intermediary resident in New Zealand—
+    (a) enters into agreements with more than one operator of an electronic marketplace to list or advertise the listed services provided by an underlying supplier on those marketplaces; and
+    (b) enables or facilitates the supply of the listed services through the use of an electronic system that can facilitate and manage automatically the bookings made by recipients of the services; and
+    (c) has agreed with the operator of the electronic marketplace, recording their agreement in a document, that the listing intermediary is liable for the payment of tax in relation to the supplies of listed services on that electronic marketplace.
+  (7) Despite subsections (2) and (3), the listing intermediary is treated for the purposes of this section, the definition of flat-rate credit, and sections 8C, 20(3)﻿(de) and (3N), 25AAA, 60(1C), 60C(2)﻿(ab), (2BB), (2BE), (2BF), (3B), and (3C), 60H, and 85E as if they were the operator of the electronic marketplace and must meet all the requirements placed on the operator. The operator has no liability under this Act in relation to the supply of the listed services other than the provision of taxable supply information and supply correction information, as applicable, to the recipient as required under section 19NB. For the avoidance of doubt, the operator is treated as the supplier for the provision of that information.
+  (8) A listing intermediary means a registered person who—
+    (a) lists services referred to in section 8C(2)﻿(a) on an electronic marketplace on behalf of the underlying supplier who makes those supplies through the electronic marketplace; and
+    (b) enters into an agreement with an operator of an electronic marketplace to list or advertise the listed services provided by the underlying supplier.
 
 ### 153 New section 60H inserted (Information requirements for underlying suppliers operating through electronic marketplaces)
 (1) After section 60G, insert: Information requirements for underlying suppliers operating through electronic marketplaces
   (1) An underlying supplier of listed services operating on an electronic marketplace must notify the operator of the electronic marketplace of—
     (a) their name and tax file number:
     (b) their GST registration status.
+  (1B) If a listing intermediary is treated as if they were the operator of the electronic marketplace under section 60CB(5) or (7), the underlying supplier must also treat the listing intermediary as if they were the operator for the purposes of subsections (1), (2), and (4).
   (2) For the purposes of subsection (1)﻿(b), if the GST registration status of an underlying supplier changes, the underlying supplier must notify the operator of the electronic marketplace as soon as practicable.
   (3) For the purposes of section 60C(2BF), an underlying supplier who chooses to be liable for the payment of tax on a supply of listed services must notify the operator of the electronic marketplace of the election.
   (4) Once notified under subsection (1), (2), or (3), the operator may rely on the information provided by the underlying supplier, and a deficiency in an amount of tax allocated to a taxable period that arises as a consequence of relying on the information provided is treated as a reduction in the total output tax allocated to the taxable period.
@@ -1427,6 +1482,21 @@ After section 85C, insert:Transitional provision for certain supplies of listed 
     (a) an underlying supplier who meets the criteria set out in section 60C(2BB) agrees with the marketplace operator that the underlying supplier is liable for the payment of tax in relation to the supplies of listed services and will continue to remain responsible for their tax obligations under this Act; or
     (b) an underlying supplier who meets the criteria set out in section 60C(2BF) chooses to be liable for the payment of tax in relation to the supplies of listed services and to continue to remain responsible for their tax obligations under this Act.
   (2) Despite the commencement provisions in the Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023 (the amendment Act), the underlying supplier may choose to enter into an opt-out agreement described in section 60C(2BB) to (2BE) or choose to be liable for the tax obligations in relation to the supply as set out in section 60C(2BF). For the purpose of determining whether the supplier can enter into the agreement or make the election, as applicable, the provisions of the amendment Act relating to a supply of listed services are treated as if they commenced on the date of Royal assent for the amendment Act.
+
+### 157B New section 85E inserted (Certain contracts entered into before 1 April 2024)
+After section 85D, insert:Certain contracts entered into before 1 April 2024
+  (1) This section applies to a supply of listed services described in section 8C(2)﻿(a) when—
+    (a) the supply is made through an electronic marketplace; and
+    (b) the contract under which the supply is made was entered into before 1 April 2024; and
+    (c) the time of supply for that supply takes place on or after 1 April 2024; and
+    (d) section 60C(2)﻿(ab) would apply to the supply in the absence of this section.
+  (2) Subject to subsections (3) and (4), the operator of the electronic marketplace may choose that section 60C(2)﻿(ab) will not apply to the supply. For the purposes of this subsection and subsection (3), a listing intermediary is treated as if they were the operator of the electronic marketplace if section 60CB(7) applies.
+  (3) If the underlying supplier is a registered person, the operator of the electronic marketplace may only apply subsection (2) if they take reasonable steps within a reasonable time to—
+    (a) notify the underlying supplier that the operator chooses not to apply section 60C(2)﻿(ab) to that supply; and
+    (b) provide sufficient information to the underlying supplier to enable the underlying supplier to correctly account for output tax on the supply.
+  (4) If section 60CB(7) does not apply and a listing intermediary is interposed between the underlying supplier and the operator of the electronic marketplace, the operator may only apply subsection (2) if they take reasonable steps within a reasonable time to—
+    (a) notify the listing intermediary that the operator chooses not to apply section 60C(2)﻿(ab) to that supply; and
+    (b) provide sufficient information to the listing intermediary for the listing intermediary to provide to the underlying supplier to enable the underlying supplier to correctly account for output tax on the supply.
 
 ### 158 New section 90 inserted and repealed (Transitional regulation-making power: legislative charges)
 (1) After section 89, insert:Transitional regulation-making power: legislative charges
