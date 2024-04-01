@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2023-03-01_
+_Consolidation as at 2024-04-01_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -82,11 +82,12 @@ The purpose of this Act is to—
     (a) is of a kind approved by the RUC collector under section 48; and
     (b) is fitted to the axle or wheel of a RUC vehicle in accordance with regulations made under section 89
   - **light electric RUC vehicle** means a RUC vehicle with—
-    (a) a gross vehicle mass of 3 500 kilograms or less; and
+    (a) a gross vehicle mass of more than 1 000 kilograms but not more than 3 500 kilograms; and
     (b) motive power wholly or partly derived from an external source of electricity
   - **light RUC vehicle** —
     (a) means a motor vehicle with a gross vehicle mass of 3 500 kilograms or less and with motive power that is not wholly derived from petrol; and
-    (b) includes a light electric RUC vehicle
+    (b) includes a light electric RUC vehicle; and
+    (c) does not include a very light electric RUC vehicle
   - **mass** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **maximum reading** , in relation to a licence, means a figure specified on the licence as the maximum reading
   - **minimum reading** , in relation to a licence, means a figure specified on the licence as the minimum reading
@@ -100,6 +101,7 @@ The purpose of this Act is to—
   - **petrol** —
     (a) means any motor spirits (including motor spirits blended with other fuels) or compressed natural gas or liquefied petroleum gas on which excise duty or excise-equivalent duty is payable under the Customs and Excise Act 2018; but
     (b) does not include diesel or electricity
+  - **plug-in hybrid electric RUC vehicle** means a light electric RUC vehicle with motive power partly derived from petrol and partly derived from an external source of electricity
   - **reading** , in relation to a distance recorder, means the reading of distance recorded on the distance recorder at any particular time
   - **records** , in relation to a RUC vehicle or RUC vehicles, means the following documents that relate to the use and maintenance of the vehicle or vehicles:
     (a) logbooks:
@@ -153,11 +155,17 @@ The purpose of this Act is to—
     (b) may receive inputs from other sources or systems of the RUC vehicle; and
     (c) controls 1 or more functions of the RUC vehicle; and
     (d) stores data relating to the operation of the RUC vehicle
+  - **very light electric RUC vehicle** means a RUC vehicle with—ExamplesAn electric motorcycle or an electric moped.
+    (a) a gross vehicle mass of 1 000 kilograms or less; and
+    (b) motive power wholly or partly derived from an external source of electricity
   - **working day** means a day of the week except a Saturday, Sunday, or a public holiday (as specified in the Holidays Act 2003).
 (2) For the purposes of this Act, a trailer (whether attached to another motor vehicle or not) must be treated as a separate RUC vehicle, except for the purpose of issuing an additional licence.
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
+
+### 6AA Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 6A Act is land transport Act
 (1) This Act is a land transport Act under section 2(1) of the Land Transport Act 1998.
@@ -1041,6 +1049,7 @@ Sections 139 and 140 of the Land Transport Act 1998 apply with any necessary mod
 (2) Regulations made under subsection (1) may specify different rates for—
   (a) different RUC vehicle types and RUC weights; and
   (b) distance licences and additional licences.
+(2A) For the purposes of subsection (2)﻿(a), regulations made under subsection (1) may specify, for plug-in hybrid electric RUC vehicles, a reduced rate that takes into account any excise duty or excise-equivalent duty payable under the Customs and Excise Act 2018 in relation to the amount of petrol likely to be used by the vehicle type.
 (3) Regulations made under subsection (1)—
   (aa) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
   (a) come into force 42 days after the date of their publication under the Legislation Act 2019, or on any later date that may be specified in the order, unless, in the case of an increase to any existing rate, the increase relates only to the GST payable on the rate; and
@@ -1197,6 +1206,27 @@ The enactments listed in Schedule 3 are consequentially amended in the manner in
 (2) An inquiry commenced under section 18A of the former Act that is pending or in progress immediately before the repeal of that section by this Act may be continued or completed (as the case may be) as if this Act had not been passed.
 (3) An assessment for any unpaid road user charges made under section 18C or 18D of the former Act must, despite the repeal of those provisions, be treated as remaining in force and proceedings for the recovery of those road user charges may be enforced, continued, or completed in accordance with those provisions, as if this Act had not been passed.
 (4) All proceedings in respect of an offence committed or alleged to have been committed under the former Act may, despite the repeal of those provisions, be enforced, continued, or completed (as the case may be) as if this Act had not been passed.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Road User Charges (Light Electric RUC Vehicles) Amendment Act 2024
+
+### 1 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **exempt light electric RUC vehicle** means a light electric RUC vehicle—
+    (a) registered under Part 17 of the Land Transport Act 1998 on or before 31 March 2024; and
+    (b) for which a distance licence has not previously been issued
+  - **transition period** means the period between 1 April 2024 and 31 May 2024.
+
+### 2 No licence held
+(1) This clause applies to a person who, during the transition period, operates a light electric RUC vehicle that—
+  (a) is an exempt light electric RUC vehicle; and
+  (b) does not have a distance licence that complies with section 9(2).
+(2) The person does not commit an offence against section 9(4)﻿(a) if a distance licence that complies with section 9(2) is issued by the end of the transition period.
+
+### 3 No licence displayed or carried
+(1) This clause applies to a person who, during the transition period, operates a light electric RUC vehicle that was an exempt light electric RUC vehicle without displaying or carrying a RUC licence in accordance with section 19(1).
+(2) The person does not commit an offence against section 19(2) if a RUC licence is displayed or carried in accordance with section 19(1) by the end of the transition period.
 
 ## Schedule 1 — Duties relating to management of RUC information by electronic system providers
 
