@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2023-04-01_
+_Consolidation as at 2024-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -2154,7 +2154,8 @@ Sections 217 to 219 apply to the giving or supplying of a product disclosure sta
     (ii) the effective date of the transfer:
     (iii) details of the new scheme or old scheme such as the scheme’s registered name and number, address, and tax file number:
     (iv) the date on which the person first became a member of a KiwiSaver scheme, if the old scheme is a KiwiSaver scheme:
-    (v) information about claims made under section 68C of the Tax Administration Act 1994 for the person.
+    (v) information about claims made under section 68C of the Tax Administration Act 1994 for the person:
+  (d) information relating to the administration of the estate of a person who is a deceased member of a scheme.
 (2) Nothing in subsection (1) removes an obligation imposed on a provider under this Act to communicate information.
 
 **Miscellaneous provisions**
