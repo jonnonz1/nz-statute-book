@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2024-03-29_
+_Consolidation as at 2024-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -2249,6 +2249,9 @@ When information delivered electronically
 ### 23I Employment income information requirements for employees
 An employee who is required to provide employment income information relating to employment-related tax obligations as if an employer under section CE 1F(3) of the Income Tax Act 2007 must deliver the information in the prescribed format within 10 working days after the end of the month in which the payment is made.
 
+### 23IB Employment income information requirements in relation to certain cross-border employees
+A person that is required to provide employment income information relating to a PAYE income payment to the Commissioner under section RA 15(4B) of the Income Tax Act 2007 must deliver the information in the prescribed format by 31 May after the end of the tax year.
+
 ### 23J Delivery of employment income information for certain special payments
 What this section applies to
 (1) This section applies for the purposes of sections 23E to 23H in relation to—
@@ -2424,11 +2427,25 @@ A payee, other than a non-resident entertainer, may apply to the Commissioner, u
 
 ### 24H Exempt schedular payments
 Notifying payee of exempt payment
-(1) The Commissioner may notify a payee under schedule 5, part C, clause 6 that 1 or more schedular payments that they are entitled to receive are payments for which no amount of tax is to be withheld.
+(1) The Commissioner may notify a payee under schedule 5, part C, clause 6 that 1 or more schedular payments that they are entitled to receive are payments for which no amount of tax is to be withheld. For this purpose, the Commissioner may include in the notification a retroactive period of up to 92 days before the date of their application in which to include a schedular payment.
 What this section does not apply to
 (2) This section does not apply to—
   (a) a payment made to a non-resident entertainer:
   (b) a payment described in schedule 4, part J of the Income Tax Act 2007 that is made to a payee who is a New Zealand resident.
+
+### 24HB Schedular payments: tax obligations undertaken by nominated persons
+When this section applies
+(1) This section applies in relation to a non-resident contractor that has a schedular payment under schedule 4, part A of the Income Tax Act 2007 for a tax year, if the non-resident contractor has made an arrangement with a person resident in New Zealand in relation to their PAYE, FBT, and ESCT obligations.
+Nominating person to carry out tax obligations
+(2) The contractor may nominate the person to carry out the contractor’s tax obligations under section 124F.
+Notifying Commissioner
+(3) The nominated person must notify the Commissioner that they act on behalf of the contractor in discharging the contractor’s tax obligations for the tax year in relation to unpaid tax.
+Compliance history
+(4) The actions of the nominated person or a party to the arrangement with the contractor may provide a compliance history for the purposes of section RD 24(1)﻿(c) of the Income Tax Act 2007, and for an application under section 24H for an exempt payment.
+No separate return
+(5) The contractor may not make a separate assessment or return for the tax year in relation to the arrangement unless they are, for part of the corresponding income year, not part of the arrangement.
+Joint and several liability
+(6) Each person who is part of the arrangement is jointly and severally liable for the contractor’s unpaid tax.
 
 ### 24I Notification requirements
 Payees to notify payers: names and tax file numbers
@@ -3406,9 +3423,8 @@ A person who is adjudicated bankrupt under the Insolvency Act 2006 and derives a
 ### 44C Certificates about trees
 (1) The question whether trees are ornamental or incidental arises under the following provisions of the Income Tax Act 2007:
   (a) section CB 25:
-  (c) section EB 24:
-  (c) sections FB 6 and FB 7:
-  (d) sections GC 1 and GC 2.
+  (b) sections FB 6 and FB 7:
+  (c) sections GC 1 and GC 2.
 (2) A certificate as to whether trees are ornamental or incidental provides conclusive evidence on the question if it is given by—
   (a) a properly authorised officer of the Ministry of Agriculture and Forestry; or
   (b) any other person suitably qualified to give a certificate.
@@ -7930,6 +7946,17 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
   (b) the time at which an audit or investigation starts.
 (6) The Commissioner may specify the information required for a full disclosure and the form in which it must be provided.
 
+### 141GC Grace periods for certain schedular payments
+(1) This section applies when—
+  (a) a person (the payer) makes a schedular payment referred to in section RD 3 and schedule 4, part A of the Income Tax Act 2007 to a non-resident contractor; and
+  (b) at the time of the payment, it is unclear whether the payer is liable to withhold an amount of tax for the schedular payment, whether because of the application of an exemption threshold or otherwise; and
+  (c) some or all of the amount of tax is underpaid at the due date for payment of the tax; and
+  (d) the payer is able to demonstrate that they have taken reasonable measures to comply with their tax obligations for the schedular payment.
+(2) When a threshold under section RD 8 of that Act has been breached, the payer has a 60-day period (the grace period) during which they must make a reasonable effort to meet or correct their tax obligations relating to the schedular payments made to the person in relation to the time the person was in New Zealand. The grace period starts to run from the earlier of—
+  (a) the date of the breach:
+  (b) the date on which the employer could reasonably foresee that a breach will occur.
+(3) To the extent to which the payer remedies the underpayment of the amount of tax by the end of the grace period, the payer is not liable to pay interest under Part 7 or a penalty under Part 9.
+
 ### 141H Reduction for disclosure of unacceptable tax position
 (1) A shortfall penalty payable by a taxpayer under section 141B or section 141D may be reduced if, in the Commissioner's opinion, the taxpayer makes adequate disclosure of the taxpayer's tax position at the time, determined under section 141B(6), the taxpayer takes the taxpayer's tax position.
 (2) The level by which a shortfall penalty is to be reduced for adequate disclosure is 75%.
@@ -9074,7 +9101,7 @@ Despite any other provision of this Act or the Income Tax Act 2007, the Commissi
 (5) If the Commissioner writes off outstanding tax for a taxpayer who has a tax loss, other than a write-off under section 22J or 174AA, the Commissioner must extinguish all or part of the taxpayer's tax loss, by—
   (a) dividing the amount written off by 0.33 and reducing the tax loss by that amount, if the taxpayer is not a company; or
   (b) dividing the amount written off by 0.28 and reducing the tax loss by that amount, if the taxpayer is a company.
-(5BA) If the Commissioner writes off outstanding tax for a taxpayer who has an excess amount under section EL 4 of the Income Tax Act 2007, the Commissioner must extinguish all or part of the taxpayer’s excess amount by—
+(5BA) If the Commissioner writes off outstanding tax for a taxpayer who has an excess amount under section EL 4 or EL 20 of the Income Tax Act 2007, the Commissioner must extinguish all or part of the taxpayer’s excess amount by—
   (a) dividing the amount written off by 0.33 and reducing the excess amount by that amount, if the taxpayer is not a company; or
   (b) dividing the amount written off by 0.28 and reducing the excess amount by that amount, if the taxpayer is a company.
 (5B) If the Commissioner writes off outstanding tax for a taxpayer who has a tax credit carried forward under section LE 3 of the Income Tax Act 2007, the Commissioner must extinguish an amount of the tax credit on a one-for-one basis.
@@ -9731,20 +9758,7 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
 (3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 225ABA Orders in Council: periods for purposes of certain provisions of Income Tax Act 2007 relating to disposals of trading stock
-(1) This section provides a power to extend the period, or specify another later period, during which certain provisions of the Income Tax Act 2007 apply in relation to certain disposals of trading stock.
-(2) The Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue,—
-  (a) replace the date on which the period specified in 1 or more of sections FZ 9(c)﻿(i), GZ 4(b)﻿(i), and GZ 5(1)﻿(b)﻿(i) of the Income Tax Act 2007 ends with another date that is later than the one it replaces:
-  (b) specify a period for the purposes of 1 or more of sections FZ 9(c)﻿(ii), GZ 4(b)﻿(ii), and GZ 5(1)﻿(b)﻿(ii) of that Act.
-(3) An Order in Council under subsection (2)﻿(a) to replace the existing end date of a period must be made before that date.
-(4) The Minister of Revenue may recommend the making of an Order in Council under subsection (2)﻿(a) only if satisfied that people in New Zealand are likely to continue, beyond the expiry of the existing period, to be significantly adversely affected by COVID-19.
-(5) The period specified by an Order in Council made under subsection (2)﻿(b) may begin before the date on which the Order in Council comes into force.
-(6) The Minister of Revenue may recommend the making of an Order in Council under subsection (2)﻿(b) only if satisfied that—
-  (a) an event has occurred that meets the requirements of paragraphs (a) and (b) of the definition of emergency in section 4 of the Civil Defence Emergency Management Act 2002; and
-  (b) people in New Zealand were being significantly adversely affected as a consequence of the event at the beginning of the period that is to be recommended is specified; and
-  (c) people in New Zealand—
-    (i) were being significantly adversely affected as a consequence of the event at the end of the period that is to be recommended is specified; or
-    (ii) are likely to continue to be significantly adversely affected as a consequence of the event at least until the end of the period that is to be recommended is specified.
-(7) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 225AB Order in Council amending schedule 18B of Income Tax Act 2007
 (1) This section provides a power to amend, by Order in Council, the list of sales of bloodstock yearlings in schedule 18B of the Income Tax Act 2007 that meet the definition of a premier yearling sale in section EC 39B(4) of that Act.
@@ -10206,6 +10220,9 @@ Section 18 does not prevent the disclosure of sensitive revenue information—
   (c) the information—
     (i) is relevant to a decision of the Commissioner disallowing the person’s approval as a representative or refusing to approve the person as a representative:
     (ii) in the Commissioner’s opinion, is or would be relevant to a decision referred to in subparagraph (i).
+
+### 3B GST registration status
+Despite section 18, the Commissioner may supply information to an operator of an electronic marketplace about the registration status of a person under the Goods and Services Tax Act 1985 for the purposes of enabling the operator to determine whether they are required to make a deduction under section 20(3)﻿(de) of that Act for a flat-rate credit that is required to be passed on to an underlying supplier of listed services.
 
 ### 4 Misappropriation of money
 Section 18 does not prevent the Commissioner communicating such information as is necessary for the purpose of any prosecution under any Act of the Parliament of New Zealand or under the law of any country or territory outside New Zealand, or such information as the Commissioner considers desirable for the purpose of any investigation into any suspected offence, being a prosecution or an investigation in relation to any misappropriation or attempted misappropriation by any person in respect of money payable by the department to another person or by any person in respect of money entrusted to that person by, or on behalf of, another person for payment to the department: provided that no communication under this clause shall be made in respect of any person to whom such money was payable, or by, or for, or on behalf of, whom any such money was entrusted, unless that person or that person’s legal personal representative, or, where that person is a company, the authorised officer of that company, consents to the communication.
