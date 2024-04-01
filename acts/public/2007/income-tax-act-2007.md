@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2024-03-29_
+_Consolidation as at 2024-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2114,6 +2114,7 @@ Capital gain amount: when capital gain amounts arise
   (c) an amount is derived by the company from another company on liquidation of the other company that is excluded from being a dividend as a result of section CD 26(2)﻿(b) and this section; or
   (d) an amount is derived by the company that is attributable to a revaluation of livestock in the 1992–93 tax year or a later tax year under section 86D of the Income Tax Act 1976 or section EC 16 (Valuation under herd scheme) or EC 20 (Herd livestock disposed of before values determined); or
   (db) an amount is derived by the company that is attributable to the difference between the consideration for disposal or acquisition of livestock and the value of that livestock under section EC 4C (Value and timing of transfers); or
+  (dc) an amount is derived by the company that is subject to section HC 38(3) (Beneficiary income of certain close companies); or
   (e) the amount is described in section CZ 9(1) (Available capital distribution amount: 1965 and 1985–1992).
 Disposal of shares received in a share-for-share exchange
 (7B) A company that sells or transfers to a person that is not associated, for consideration, shares that are capital property, and the shares were received by the company in a share-for-share exchange to which section CD 43(9) and (10) (Available subscribed capital (ASC) amount) apply, has a capital gain amount, in addition to any other capital gain amount, equal to the subscriptions amount not included, because of the application of section CD 43(10), for the relevant issue of the company’s shares in the share-for-share exchange.
@@ -2370,6 +2371,21 @@ Amounts treated as derived 20 days after payment
 (2) When the employee remains on the employer’s payroll system in a country or territory outside New Zealand, the PAYE income payment is treated as derived by them on the 20th day after payment when the employer chooses to deliver their employment income information under section 23J(3) of the Tax Administration Act 1994.
 Employees undertaking tax obligations
 (3) When an amount of tax is not withheld or when payment is insufficient as described in section RD 21, RD 62B, or RD 71B, as applicable, and the employee must undertake the relevant tax obligations in relation to employment, they must do so as if an employer, and, for this purpose, may pay the initial amount of tax for the payment as a lump sum.
+Meeting or correcting employment-related tax obligations
+(3B) Subsection (3C) applies when the employer or other person that the PAYE rules apply to under section RD 2(2) has taken reasonable measures to manage their employment-related tax obligations, and—
+  (a) the employee is a New Zealand resident working outside New Zealand for a period, and during that period the employee receives an unexpected PAYE income payment:
+  (b) the employee is present in New Zealand for a period during which they—
+    (i) have breached a threshold under section CW 19 (Amounts derived during short-term visits):
+    (ii) have breached a threshold set out in a double tax agreement:
+    (iii) have received an unexpected PAYE income payment in the period.
+Grace period
+(3C) The employer or other person that the PAYE rules apply to has a 60-day period within which they must make a reasonable effort to meet or correct their tax obligations relating to the PAYE income payments, employer superannuation cash contributions, or fringe benefits made or provided to the employee for the time the employee was in New Zealand.
+Timing
+(3D) The 60-day period referred to in subsection (3C) starts to run from the earlier of—
+  (a) the date of the breach or the payment, as applicable:
+  (b) the date on which the employer could reasonably foresee that a breach or a payment, as applicable, will occur.
+Grace period when employee has undertaken obligations
+(3E) When the employee has undertaken to meet their employment-related tax obligations under subsection (3) for the period during which they are in New Zealand, the employee may be treated as the employer for the purposes of subsection (3C), making the grace period available to the employee.
 Meaning of cross-border employee
 (4) For the purposes of this section and sections CE 1(3B), RA 15(4B), RD 62B, RD 65, and RD 71B, and sections 23IB, 120B, and 141ED of the Tax Administration Act 1994, a cross-border employee—
   (a) means—
@@ -3035,7 +3051,7 @@ Transfer pricing arrangements
 (1) An amount treated as income of a person under section GC 8 (Insufficient amount receivable by person) is income of the person.
 Disposal at below market value
 (2) A person may be treated as deriving an amount—
-  (a) on disposal of trading stock under section GC 1 (Disposals of trading stock at below market value):
+  (a) on disposal of trading stock under section GC 1 (Certain disposals of trading stock at below market value):
   (b) on the lease of a property under section GC 5 (Leases for inadequate rent).
 
 ### CH 9 Interest apportionment: excess debt entity
@@ -3906,6 +3922,8 @@ Exclusion: certain friendly society dividends
 (5) The dividend must not be derived by a friendly society from a company registered as an insurer under the Accident Insurance Act 1998 that is under the control of the society.
 Exclusion: certain sickness, accident, or death benefit fund dividends
 (6) The dividend must not be derived by a trustee in trust for a sickness, accident, or death benefit fund from a company registered as an insurer under the Accident Insurance Act 1998 that is under the control of the trustee.
+Relationship with other provisions
+(7) This section overrides section HC 38 (Beneficiary income of certain close companies).
 
 ### CW 10B Dividends derived by council-controlled organisation holding companies
 A dividend derived by a council-controlled organisation (the recipient) from another person (the payer) is exempt income of the recipient if—
@@ -4647,7 +4665,7 @@ Exempt income
   (b) they pay an amount to another person for providing them in the income year or in an earlier income year a key aspect of social rehabilitation referred to in the definition of personal service rehabilitation payment; and
   (c) the amount paid is equal to or more than the amount of personal service rehabilitation payment for the income year or an earlier income year after taking into account any amount of tax withheld.
 Meaning of reimbursement payment
-(2) For the purposes of this section, sections CZ 36, DF 4, and LB 7, reimbursement payment means a personal service rehabilitation payment that—
+(2) For the purposes of this section, sections DF 4, LB 7, and RD 20B, reimbursement payment means a personal service rehabilitation payment that—
   (a) relates to a key aspect of social rehabilitation that is provided to a person in an income year; and
   (b) is paid to them in an income year that is later than the income year in which they were provided the rehabilitation.
 
@@ -5156,6 +5174,9 @@ The following are excluded income of a registered person:
   (a) output tax on goods and services they supply:
   (b) goods and services tax (GST) payable to them by the Commissioner.
 
+### CX 1B Treatment of flat-rate credits under platform economy rules
+For the purposes of the flat-rate credit, as defined in section 2(1) of the Goods and Services Tax Act 1985, the amount of the credit is excluded income of the person receiving the credit, whether or not the person is a registered person.
+
 **Introductory provisions**
 
 ### CX 2 Meaning of fringe benefit
@@ -5471,7 +5492,10 @@ Meaning of short-term charge facilities
   (c) is not a fringe benefit under section CX 10.
 
 ### CX 26 Non-liable payments
-A benefit received by an employee is not a fringe benefit to the extent to which it is received in a quarter or in an income year in which they derive 1 or more pay-as-you-earn (PAYE) income payments, all of which are not liable for income tax.
+Employees’ PAYE income payments
+(1) A benefit received by an employee is not a fringe benefit to the extent to which it is received in a quarter or in an income year in which they derive 1 or more pay-as-you-earn (PAYE) income payments, all of which are not liable for income tax.
+Benefit provided during time spent in New Zealand
+(2) Despite subsection (1), some or all of a benefit received by an employee who is not resident in New Zealand but derives a PAYE income payment that is taxable in New Zealand is a fringe benefit only to the extent to which the benefit relates to time spent by the employee in New Zealand.
 
 ### CX 27 Assistance with tax returns
 Not fringe benefit
@@ -5807,6 +5831,9 @@ Excluded income
 
 ### CX 58 Amounts derived by minors from trusts
 To the extent to which section HC 35 (Beneficiary income of minors) applies to an amount of beneficiary income, the amount is excluded income of the minor.
+
+### CX 58B Amounts derived by certain close companies from trusts
+To the extent to which section HC 38 (Beneficiary income of certain close companies) applies to an amount of beneficiary income of a close company, the amount is excluded income of the close company.
 
 ### CX 59 Taxable distributions from non-complying trusts
 An amount that a person derives in an income year as a taxable distribution from a non-complying trust under section HC 19 (Taxable distributions from non-complying trusts) is excluded income of the person.
@@ -6500,7 +6527,7 @@ Excluded income
 (2) A refund under section EZ 80 or EZ 81 is, to the extent to which the refund is not interest payable under section EH 6 or EH 40, excluded income.
 
 ### CZ 38 Disposals of trading stock to non-associates without business purpose
-An amount that a person is treated as deriving in an income year under section GZ 5 (Disposals of trading stock to non-associates) is income of the person for the income year.
+[Repealed]
 
 ### CZ 39 Disposal within 5 years: bright-line test for residential land: acquisition on or after 29 March 2018
 When this section applies
@@ -6700,6 +6727,8 @@ Deduction
 (2) A registered person is allowed a deduction for deductible output tax but only to the extent to which—
   (a) they are allowed a deduction for expenditure that they incur in acquiring or producing the goods or services; or
   (b) they are allowed a deduction for an amount of depreciation loss for the goods or services.
+Treatment of flat-rate credit
+(2B) For the purposes of subsections (1) and (2), an underlying supplier referred to in section 8C of the Goods and Services Tax Act 1985 who is not a registered person is treated as if they were a registered person for the purposes of this section in relation to a deduction for expenditure to the extent to which the expenditure is attributable to a supply of listed services.
 Exclusion
 (3) Subsection (2) does not apply to an adjustment made in relation to a capital asset.
 Depreciable property
@@ -7730,7 +7759,7 @@ Transfer pricing arrangements
 (1) A person may be denied a deduction under section GC 7 (Excess amount payable by person).
 Acquisition for below market value
 (2) A person may be treated as providing an amount—
-  (a) for acquisition of trading stock, under section GC 1 (Disposals of trading stock at below market value):
+  (a) for acquisition of trading stock, under section GC 1 (Certain disposals of trading stock at below market value):
   (b) for lease of a property, under section GC 5 (Leases for inadequate rent).
 Link with subpart DA
 (3) Subsection (1) overrides, and subsection (2) supplements, the general permission. The general limitations still apply.
@@ -7808,6 +7837,38 @@ Links with subpart DA
 
 ### DB 65 Allowance for certain commercial buildings
 [Repealed]
+
+### DB 65B Allowance for embedded fit-out of certain commercial buildings
+When this section applies
+(1) This section applies when—
+  (a) a person owns a commercial building and the building is depreciable property with an annual rate of 0% in an income year; and
+  (b) the building was acquired in the 2010–11 or an earlier income year; and
+  (c) the person has never had a deduction for commercial fit-out that was acquired at the same time as the building and relates to the building other than under—
+    (i) this section:
+    (ii) section DB 65, as in force before its repeal by section 4 of the COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020.
+Deduction for commercial fit-out
+(2) Except as provided in subsection (4), the person is treated as having a loss for the income year equal to the amount calculated using the formula—starting pool × 0.015 × whole months ÷ 12.
+Calculation of starting pool
+(3) Starting pool is the amount given by the formula—(0.15 × building atv) − fit-out atv.
+Deduction limited to value of starting pool
+(4) Despite subsection (2), if the amount given by the formula in subsection (2) is more than the amount given by the formula in subsection (5), then the person is treated as having a loss for the income year equal to the amount given by the formula in subsection (5).
+Calculation of deduction limit
+(5) For the purposes of subsection (4), the formula is—starting pool − historical fit-out deductions − fit-out deductions − imputed deductions.
+Imputed deductions
+(6) The amount of the imputed deductions is—starting pool × 0.015 × 4.
+Definition of items in formulas
+(7) In the formulas in subsections (2), (3), (5), and (6), as applicable, —
+  (a) starting pool is the amount given by the formula in subsection (3):
+  (b) whole months is the number of whole months in the income year in which the building is used, or is available for use, by the person in deriving assessable income or carrying on a business for the purpose of deriving assessable income:
+  (c) building atv is the adjusted tax value of the building that results for the 2010–11 income year after all relevant amounts for that income year have been subtracted under subpart EE (Depreciation):
+  (d) fit-out atv is the total adjusted tax value of all items of commercial fit-out that results for the 2010–11 income year after all relevant amounts for that income year have been subtracted under subpart EE if—
+    (i) the items of commercial fit-out relate to the building and were acquired after the building was acquired; and
+    (ii) the person has had a deduction for an amount of depreciation loss for the items of commercial fit-out:
+  (e) historical fit-out deductions is the total amount of a person’s deductions allowed under section DB 65, as in force before its repeal by section 4 of the COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020, for income years before the 2020–21 income year:
+  (f) fit-out deductions is the total amount of deductions the person has claimed under this section for all income years:
+  (g) imputed deductions is the amount given by the formula in subsection (6), being the total amount of deductions the person would have received for the 2020–21 to 2023–24 income years if this section applied from the beginning of the 2020–21 income year to the end of the 2023–24 income year.
+Treatment of amounts under specific and general rules for deductions
+(8) The capital limitation does not apply to a loss under this section merely because the item of property is itself of a capital nature.
 
 ### DB 66 Feasibility expenditure: spread deduction
 When this section applies
@@ -9087,14 +9148,15 @@ Deduction denied
   (b) grandparented residential interest:
   (c) incurred to acquire an ownership interest in, or become a beneficiary of, an interposed residential property holder:
   (d) incurred to refinance a loan, interest for which is described in paragraph (a) or (c).
-Denial limited: grandparented residential interest
-(2) The amount of the deduction denied for grandparented residential interest is limited to the following percentages for the following periods:A small table of periods and applicable percentages of interest denied.Period that grandparented residential interest is incurredPercentage denied1 October 2021 to 31 March 202225%1 April 2022 to 31 March 202325%1 April 2023 to 31 March 202450%1 April 2024 to 31 March 202575%On and after 1 April 2025100%
+Denial limited
+(2) The amount of the deduction denied for interest described in subsection (1) is limited to the following percentage for the following period:The following table is small in size and contains 2 columns. Column 1 is headed Period that interest is incurred. Column 2 is headed Percentage denied.Period that interest is incurredPercentage denied1 April 2024 – 31 March 202520%
 Denial limited using quarterly calculation periods: owners of interposed residential property holders
-(3) The amount of the deduction denied for interest (the interest) incurred as the owner or to become an owner of an interposed residential property holder that is a close company is limited, for an income year, to the amount calculated quarterly using the following formula and summed for the entire income year:interposed interest × quarterly interposed residential property percentage.
+(3) The amount of the deduction denied for interest (the interest) incurred as the owner or to become an owner of an interposed residential property holder that is a close company is limited, for an income year, to the amount calculated quarterly using the following formula and summed for the entire income year:interposed interest × quarterly interposed residential property percentage × denial percentage.
 Definition of items in formula
 (4) In the formula in subsection (3)—
   (a) interposed interest is the interest, to the extent to which it is incurred in the relevant quarterly calculation period:
-  (b) quarterly interposed residential property percentage is the interposed residential property percentage for the interposed residential property holder, calculated, as described in section DH 6, at the end of the relevant quarterly calculation period.
+  (b) quarterly interposed residential property percentage is the interposed residential property percentage for the interposed residential property holder, calculated, as described in section DH 6, at the end of the relevant quarterly calculation period:
+  (c) denial percentage is the percentage denied in the table in subsection (2) for the period.
 
 ### DH 9 Exception to limited denial of deductions: loans denominated in foreign currencies
 [Repealed]
@@ -9704,10 +9766,10 @@ Cost of acquiring new rights
 Acquiring land with standing timber
 (1) For a person acquiring land with standing timber on it in a disposal to which section CB 25 (Disposal of land with standing timber) applies, the cost of acquiring the timber is the amount that is, under section CB 25, income of the person disposing of the land.
 Recharacterisation or avoidance
-(2) For a person acquiring timber or a right to take timber in a disposal or distribution to which section EB 24, FB 6, FB 7, GC 1, or GC 2 (which relate to the disposal of trading stock) applies, the cost of acquiring the timber or the cost of acquiring a right to take timber is the amount treated as—
-  (a) the price paid or realised under section EB 24 (Apportionment on disposal of business assets that include trading stock); or
+(2) For a person acquiring timber or a right to take timber in a disposal or distribution to which section FB 6, FB 7, GC 1, or GC 2 (which relate to the disposal of trading stock) applies, the cost of acquiring the timber or the cost of acquiring a right to take timber is the amount treated as—
+  (a)
   (b) the consideration under sections FB 6 and FB 7 (which relate to the disposal of timber under a relationship agreement); or
-  (c) the price realised under section GC 1 (Disposals of trading stock at below market value); or
+  (c) the price realised under section GC 1 (Certain disposals of trading stock at below market value); or
   (d) the price realised under section GC 2 (Disposals of timber rights or standing timber).
 Transfers between associated persons
 (3) Subsections (4) and (5) apply if—
@@ -11695,21 +11757,7 @@ Closing value
 (2) The person may use the opening value of their trading stock as the value of their closing stock for the income year.
 
 ### EB 24 Apportionment on disposal of business assets that include trading stock
-When this section applies
-(1) This section applies when a person disposes of trading stock together with other assets of a business to another person. This section also applies if a person disposes of an interest in trading stock together with other assets of a business or an interest in those other assets, whether or not the disposal of the partial interest is to another person.
-Apportionment
-(2) The total amount received on disposal must be apportioned between the trading stock and the other assets in a way that reflects their respective market values.
-Purchase price
-(3) The amount apportioned to the trading stock under subsection (2) is treated as the price paid for it by the buyer.
-Disposals of timber
-(4) For the purposes of this section, a disposal of timber is treated as—
-  (a) including the creation or grant of a right to take timber:
-  (b) including a disposal of land with standing timber except to the extent to which the timber is any of the following:
-    (i) trees that are ornamental or incidental, as evidenced by a certificate given under section 44C of the Tax Administration Act 1994; or
-    (ii) timber subject to a forestry right, as defined in section 2 of the Forestry Rights Registration Act 1983, registered under the Land Transfer Act 2017; or
-    (iii) timber subject to a profit a prendre granted before 1 January 1984.
-Transfers under settlement of relationship property
-(5) A disposal under this section includes a transfer under a settlement of relationship property.
+[Repealed]
 
 ### Subpart EC — Valuation of livestock
 
@@ -13124,7 +13172,7 @@ Rate for item acquired on or before 20 May 2010
     (iii) is not a used imported car; and
     (iv) is not an international aircraft:
   (c) a diminishing value rate of 15% or a straight-line rate of 10%, for an international aircraft:
-  (d) 0% for a residential building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
+  (d) 0% for a building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
 Requirements for subsection (3) rate
 (3A) This subsection applies, and the rate is 1 of the rates given by subsection (3), if subsections (2A) and (2) do not apply and the person—
   (a) acquires the item after 20 May 2010; or
@@ -13135,7 +13183,7 @@ Rate for item acquired after 20 May 2010
 (3) If subsection (3A) applies, the rate is 1 of the following:
   (a) the item's economic rate, special rate, or provisional rate, for an item not described in paragraph (b) or (c):
   (b) a diminishing value rate of 15% or a straight-line rate of 10% for an international aircraft:
-  (c) 0%, for a residential building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
+  (c) 0%, for a building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
 Administrative requirements
 (4) For the purposes of subsection (2A)﻿(b), a person must—
   (a) have available for the Commissioner documents dated on or before 20 May 2010 that evidence that the person had, on or before 20 May 2010, decided to acquire or construct the relevant item:
@@ -13205,8 +13253,8 @@ How rate expressed
 ### EE 35 Special rate or provisional rate
 Rate set for item of depreciable property
 (1) A special rate or a provisional rate is set for an item of depreciable property under sections 91AAG to 91AAJ of the Tax Administration Act 1994.
-No special rate for excluded depreciable property or residential building
-(2) A special rate may not be set for an item of excluded depreciable property or a residential building.
+No special rate for excluded depreciable property, special excluded depreciable property, or building
+(2) A special rate may not be set for an item of excluded depreciable property, an item of special excluded depreciable property, or a building.
 No provisional rate for fixed life intangible property or excluded depreciable property
 (3) A provisional rate may not be set for an item of fixed life intangible property or an item of excluded depreciable property.
 Exception
@@ -13506,7 +13554,9 @@ Amount for subsection (1)﻿(b)
 (1B) The amount for the purposes of subsection (1)﻿(b) is given by the following formula:item depreciation loss + CZ 11 item amount + DB 64 item amount.
 Definition of items in formula
 (1C) In the formula in subsection (1B),—
-  (a) item depreciation loss is the total of the amounts of depreciation loss for which the person has been allowed deductions for the item:
+  (a) item depreciation loss is the total of the amounts of—
+    (i) depreciation loss for which the person has been allowed deductions for the item; and
+    (ii) if the item is a building, the total amount of deductions allowed under sections DB 65, as in force before its repeal by section 4 of the COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020, and DB 65B (which deal with allowances for commercial buildings):
   (b) CZ 11 item amount is the amount of any deduction allowed for the acquisition of the item, for the person, if the item is one to which section CZ 11 (Recovery of deductions for software acquired before 1 April 1993) applies:
   (c) DB 64 item amount is the amount of the capital contribution for the item, for the person, if the item is one to which section DB 64 (Capital contributions) applies.
 Amount of depreciation loss
@@ -13714,7 +13764,7 @@ Total deductions
   (a) the amount described in subsection (2); and
   (b) the amount described in subsection (3); and
   (c) the amount of a deduction under section EE 25; and
-  (d) the total amount of previous deductions under section DB 65 (Allowance for certain commercial buildings).
+  (d) the total amount of deductions allowed under sections DB 65, as in force before its repeal by section 4 of the COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020, and DB 65B (which deal with allowances for commercial buildings).
 First amount for purposes of subsection (1)
 (2) The amount is all amounts that 1 or more of the following provisions has required to be subtracted from the item’s adjusted tax value since the start of the 1993–94 income year:
   (a) section EE 52(2):
@@ -13760,8 +13810,8 @@ Meaning
   (b) the item is not dealt with in any of subsections (3) to (5).
 1995–96 income year or later: international aircraft
 (3) The rate is the rate set by section EE 31(2)﻿(c), or by section EE 31(3)﻿(b), as applicable, if the item is an international aircraft that the person acquires in their 1995–96 income year or a later income year.
-1995–1996 income year or later: residential buildings with estimated useful lives of 50 years or more
-(3B) The rate is the rate set by section EE 31(2)﻿(d), or by section EE 31(3)﻿(c), as applicable, if the item is a residential building that—
+1995–1996 income year or later: buildings with estimated useful lives of 50 years or more
+(3B) The rate is the rate set by section EE 31(2)﻿(d), or by section EE 31(3)﻿(c), as applicable, if the item is a building that—
   (a) has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more; and
   (b) the person acquires in their 1995–96 income year or a later income year.
 Fixed life intangible property
@@ -13779,8 +13829,8 @@ Design registrations, applications
   (c) the item is not an item of excluded depreciable property.
 Excluded depreciable property
 (7) The rate is the rate set by section EZ 15 (Annual rate for excluded depreciable property: 1992–93 tax year) if the item is an item of excluded depreciable property.
-Residential buildings
-(7B) The rate is 0% for all depreciation methods, if the item is a residential building.
+Special excluded depreciable property
+(7B) The rate is 0% for all depreciation methods if the item is an item of special excluded depreciable property that would be an item of excluded depreciable property but for the exclusion in section EE 64(3).
 Exception
 (8) Section FA 11B(7) (Adjustments for certain operating leases) overrides this section.
 
@@ -13814,6 +13864,8 @@ Exclusion
 (2) Excluded depreciable property does not include property to which both the following apply:
   (a) it existed at the end of the 1992–93 income year; and
   (b) the Commissioner allowed it to be accounted for in that income year using the standard value method, the replacement value method, or the annual revaluation method.
+Another exclusion
+(3) Excluded depreciable property does not include special excluded depreciable property.
 Another exclusion
 (3)
 
@@ -13871,6 +13923,7 @@ In this Act,—
   - **pool** means items of depreciable property that a person chooses under section EE 12 to depreciate as a pool using the pool method
   - **pool method** means the method of calculating an amount of depreciation loss set out in section EE 21
   - **provisional rate** means a provisional rate as described in section EE 35
+  - **special excluded depreciable property** means all buildings that are not items specified in schedule 39 (Items for purposes of definition of special excluded depreciable property)
   - **special excluded depreciable property**
   - **special rate** means a special rate as described in section EE 35
   - **straight-line method** means the method of calculating an amount of depreciation loss for an item of depreciable property by subtracting, in each income year, a constant percentage of the item’s cost, to its owner, from the item’s adjusted tax value
@@ -20995,13 +21048,13 @@ What this section is about
 (1) This section is about the annual rate that applies to an item of depreciable property that a person acquires before the end of their 1994–95 income year (not including fixed life intangible property or excluded depreciable property, for which rates are set in sections EE 33 (Annual rate for fixed life intangible property) and EZ 15 respectively).
 Rate
 (2) The rate is—
-  (a) the item's economic rate, if the item is not a residential building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more; or
+  (a) the item's economic rate, if the item is not a building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more; or
   (b) the pre-1993 depreciation rate described in section EZ 14, if the person chooses under that section; or
-  (c) 0%, for a residential building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
+  (c) 0%, for a building that has an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
 
 ### EZ 14 Pre-1993 depreciation rate
 Scope of election
-(1) A person may choose the pre-1993 depreciation rate for all items, or any item, that they acquire before the end of their 1994–95 income year excluding residential buildings that have an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
+(1) A person may choose the pre-1993 depreciation rate for all items, or any item, that they acquire before the end of their 1994–95 income year excluding buildings that have an economic rate or provisional rate of more than 0% due to an estimated useful life of 50 years or more.
 How election made
 (2) The election is made by applying the pre-1993 depreciation rate for the item to the item in the person’s return of income for the income year for which the election is made.
 Election unchangeable
@@ -23348,7 +23401,7 @@ Types of distributions and gifts
   (b) the transfer of property on a distribution by an executor, administrator, or trustee of a deceased person’s estate to a beneficiary who is beneficially entitled to receive the property under the will or the rules governing intestacy:
   (c) the transfer of property on a distribution by a trustee of a trust to a beneficiary of the trust, unless the distribution is part of an arrangement under which the beneficiary pays an amount for the property that would reasonably be expected to be paid on a disposal at arm’s length:
   (d) the transfer of property on a distribution in kind by a company in a transfer of company value caused by a shareholding in the company under section CD 6 (When is a transfer caused by a shareholding relationship?):
-  (e) the transfer of property on the making of a gift:
+  (e) the transfer of property on the making of a gift, other than a gift of trading stock or an interest in trading stock:
   (f) the transfer of property on a settlement by the trustee of a trust on the trustee of another trust, if authorised under—
     (i) a trust instrument as a power of advancement or resettlement:
     (ii) section 64 of the Trusts Act 2019 as the payment or application of capital money or other capital assets.
@@ -26155,14 +26208,7 @@ Transition date
   (b) the date that is the last measurement date under section FE 8 (Measurement dates) preceding the introduction date.
 
 ### FZ 9 Transfers of trading stock to non-associates, donee organisations, or public authorities
-Section FC 2(1) (Transfer at market value) does not apply to a transfer of property if—
-  (a) the property is trading stock of the transferor; and
-  (b) the transferee—
-    (i) is not associated with the transferor; or
-    (ii) is associated with the transferor, but is a donee organisation or a public authority; and
-  (c) the transfer is made in—
-    (i) the period that begins on 17 March 2020 and ends on 31 March 2024; or
-    (ii) a period specified by an Order in Council made under section 225ABA of the Tax Administration Act 1994.
+[Repealed]
 
 ## Part G — Avoidance and non-market transactions
 
@@ -27201,22 +27247,29 @@ Credit reduced
 
 ### Subpart GC — Market value substituted
 
-### GC 1 Disposals of trading stock at below market value
+### GC 1 Certain disposals of trading stock at below market value
 When this section applies
-(1) This section applies when a person disposes of trading stock for—
-  (a) no consideration:
-  (b) an amount that is less than the market value of the trading stock at the time of disposal.
+(1) This section applies when—
+  (a) a person (person A) disposes of trading stock for—
+    (i) no consideration; or
+    (ii) an amount that is less than the market value of the trading stock at the time of the disposal; and
+  (b) 1 or more of the following apply:
+    (i) the disposal is effected by person A taking the trading stock for their own use or consumption:
+    (ii) the disposal is not made by person A in the course of carrying on a business for the purpose of deriving their assessable income, or their excluded income, or a combination of their assessable income and excluded income:
+    (iii) the disposal is to an associated person.
 Market value consideration
-(2) The person is treated as deriving an amount equal to the market value of the trading stock at the time of disposal.
+(2) Person A is treated as deriving an amount equal to the market value of the trading stock at the time of the disposal.
 Market value expenditure
-(3) If the person disposes of the trading stock to another person, an amount equal to the market value of the trading stock at the time of disposal is treated as expenditure incurred by the other person in acquiring the trading stock.
+(3) If person A disposes of the trading stock to another person, an amount equal to the market value of the trading stock at the time of the disposal is treated as expenditure incurred by the other person in acquiring the trading stock.
 Shares in trading stock
 (4) In this section, trading stock includes an interest in trading stock.
 Exclusions
 (5) This section does not apply to a disposal of trading stock—
-  (a) under a relationship agreement:
-  (b) by the person to another person who is not associated with them, for use by the other person in a farming, agricultural, or fishing business that is affected by a self-assessed adverse event:
-  (c) under a share-lending arrangement, by a share user to a share supplier or by a share supplier to a share user.
+  (a) to a donee organisation:
+  (b) under a relationship agreement:
+  (c) by a person to another person, who is not associated with them, for use by the other person in a farming, agricultural, or fishing business that is affected by a self-assessed adverse event:
+  (d) under a share-lending arrangement, by a share user to a share supplier or by a share supplier to a share user:
+  (e) to which section GC 20(2) or GC 21(7) applies.
 
 ### GC 2 Disposals of timber rights or standing timber
 When section GC 1 applies
@@ -27623,6 +27676,10 @@ Agreed amount enforced, at market
 (2) A class of purchased property—
   (a) is treated as disposed of and acquired for the relevant allocated amount; or
   (b) may be treated by the Commissioner as disposed of and acquired for an amount that reflects the relative market value of the class of purchased property, proportional to the other classes of purchased property, if the Commissioner considers the allocated amount does not reflect that value.
+Exception: trading stock disposed of at below market value to associate
+(2B) Subsection (2) does not apply to a class of purchased property described in subsection (1)﻿(a)﻿(i) or (ii) if—
+  (a) person A and person B are associated persons at the time of the disposal; and
+  (b) the allocated amount for the class of purchased property is less than the total market value of the items of purchased property in the class of purchased property at the time of the disposal.
 Exception: low value depreciable property
 (3) Subsection (2)﻿(b) does not apply to an item of purchased property that is an item of depreciable property, if—
   (a) the original cost of the item for person A is less than $10,000; and
@@ -27678,6 +27735,10 @@ Exception: low value depreciable property
   (c) the allocated amount for the item is—
     (i) no greater than its original cost for person A; and
     (ii) no less than its tax book value.
+Exception: trading stock disposed of at below market value to associate
+(11B) Subsection (7) does not apply to a class of purchased property described in subsection (1)﻿(a)﻿(i) or (ii) if—
+  (a) person A and person B are associated persons at the time of the disposal; and
+  (b) the relevant allocated amount provided by subsections (3) to (6) for the class of purchased property is less than the total market value of the items of purchased property in the class of purchased property at the time of the disposal.
 Relationship with subject matter
 (12) This section overrides a provision of this Act that expressly requires the use of the market value for purchased property, to the extent to which subsection (7) treats the relevant class of purchased property as disposed of and acquired for an amount that is provided by this section.
 Definitions
@@ -27700,44 +27761,13 @@ Section GB 20 (Arrangements involving petroleum and mineral mining) does not app
 [Repealed]
 
 ### GZ 3 Donations of trading stock for relief of Canterbury earthquakes
-Section GC 1 (Disposals of trading stock at below market value) does not apply to the disposal of trading stock by a person to a person who is not an associated person—
-  (a) for the purpose of relief from the adverse effects of a Canterbury earthquake, as defined in section 4 of the Canterbury Earthquake Recovery Act 2011; and
-  (b) in the period beginning on 4 September 2010 and ending on 31 March 2012.
+[Repealed]
 
 ### GZ 4 Disposals of trading stock to donee organisations or public authorities
-Section GC 1 (Disposals of trading stock at below market value) does not apply to a disposal of trading stock by a person—
-  (a) to a donee organisation or a public authority; and
-  (b) in—
-    (i) the period that begins on 17 March 2020 and ends on 31 March 2024; or
-    (ii) a period specified by an Order in Council made under section 225ABA of the Tax Administration Act 1994.
+[Repealed]
 
 ### GZ 5 Disposals of trading stock to non-associates
-When this section applies
-(1) This section applies when a person (person A) disposes of trading stock—
-  (a) to another person (person B) that—
-    (i) is not associated with person A; and
-    (ii) is not a donee organisation or a public authority; and
-  (b) in—
-    (i) the period that begins on 17 March 2020 and ends on 31 March 2024; or
-    (ii) a period specified by an Order in Council made under section 225ABA of the Tax Administration Act 1994.
-Exclusion from section GC 1
-(2) Section GC 1 (Disposals of trading stock at below market value) does not apply to the disposal.
-When subsection (4) applies
-(3) Subsection (4) applies if—
-  (a) person A does not have a business purpose for the disposal; and
-  (b) the disposal is for no consideration, or an amount that is less than,—
-    (i) for trading stock held by person A at the beginning of the income year of person A in which the disposal occurs, the value of the trading stock under section EB 3 (Valuation of trading stock) at the end of the previous income year; or
-    (ii) otherwise, the cost of the trading stock to person A.
-Income
-(4) Person A is treated as deriving, in the income year of person A in which the disposal occurs, an amount calculated using the formula in subsection (5).
-Formula
-(5) The formula is—value – consideration received.
-Definition of items in formula
-(6) In the formula,—
-  (a) value is,—
-    (i) for trading stock held by person A at the beginning of the income year of person A in which the disposal occurs, the value of the trading stock under section EB 3 at the end of the previous income year; or
-    (ii) otherwise, the cost of the trading stock to person A:
-  (b) consideration received is the amount of consideration paid or payable to person A in relation to the disposal.
+[Repealed]
 
 ## Part H — Taxation of certain entities
 
@@ -28486,7 +28516,9 @@ Settlement value of settled property
 Settlements excluded from corpus
 (2) Corpus does not include an amount equal to the market value of the property settlements described in subsections (3) to (5).
 Settlements on other trusts
-(3) A property settlement by a trustee of another trust is excluded from corpus to the extent to which, if the property were distributed to a beneficiary of the other trust, and the beneficiary was resident in New Zealand, the distribution would be beneficiary income or a taxable distribution to that beneficiary.
+(3) A property settlement by a trustee of another trust is excluded from corpus to the extent to which the property—
+  (a) is not first distributed to a beneficiary, resident in New Zealand, of the other trust; and
+  (b) if it were first distributed to a beneficiary, resident in New Zealand, of the other trust, the property would be beneficiary income or a taxable distribution to that beneficiary.
 Deductions
 (4) A property settlement for which the settlor is allowed a deduction is excluded from corpus.
 Income or dividend
@@ -28531,10 +28563,13 @@ Deriving beneficiary income in same year as trustee
 Meaning
 (1) To the extent to which it is not beneficiary income, an amount of income derived by a trustee of a trust is trustee income.
 Minors’ beneficiary income
-(2) An amount of beneficiary income to which section HC 35 applies that is derived in an income year by a person who is a minor is treated as if it were trustee income for the purposes of—
-  (a) determining the tax rate that applies; and
-  (b) paying the tax; and
-  (c) providing returns of income.
+(2) An amount of beneficiary income to which section HC 35 applies that is derived in an income year by a person who is a minor is—
+  (a) treated as trustee income for the purposes of who pays the tax and who provides the return of income; and
+  (b) subject to the basic rate of income tax set out in schedule 1, part A, clause 3.
+Close companies’ beneficiary income
+(2B) An amount of beneficiary income to which section HC 38 applies is—
+  (a) treated as trustee income for the purposes of who pays the tax and who provides the return of income; and
+  (b) subject to the basic rate of income tax set out in schedule 1, part A, clause 3.
 Exclusions from corpus
 (3) The trustee of a trust has, from a property settlement that is referred to in section HC 4(3) to (5) and made in an income year, an amount of trustee income for the income year equal to the market value of the property settlement reduced by the amount of the market value that the trustee treats as beneficiary income, or as a taxable distribution made by the trustee, in the income year.
 
@@ -28545,6 +28580,12 @@ Reportable income received within 28 days after person’s death
 (1B) The trustee may treat an amount of reportable income received by the trustee within the period of 28 days starting with the date of the person’s death as if it were income that was derived by the person before being received by the trustee.
 Income
 (2) An amount not treated as being derived by the person under subsection (1B) is treated under section CV 12 (Trustees: amounts received after person’s death) as income derived by the trustee in the income year.
+
+### HC 8B Trustee income in income year of person’s death and following 3 income years
+When this section applies
+(1) This section applies to a trustee of an estate of a deceased person for the income year in which the person died and the subsequent 3 income years.
+Basic rate of tax for trustee
+(2) For an income year in which the trustee derives trustee income, the basic rate of income tax for the trustee on each dollar of the trustee’s taxable income is set out in schedule 1, part A, clause 6B (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 
 ### HC 9 Classifying trusts
 A trust is classified at the time it makes a distribution as—
@@ -28678,10 +28719,12 @@ Meaning of non-discretionary trust
 (8) In this section, a non-discretionary trust is a trust in relation to which the trustee has no discretion as to the source, nature, and amount of distributions to beneficiaries, including but not limited to the classification of trust property as capital or income.
 
 ### HC 17 Amounts derived as beneficiary income
-Non-minor beneficiaries
-(1) An amount that a person derives in an income year as beneficiary income is income of the person under section CV 13(a) (Amounts derived from trusts), except to the extent to which it is beneficiary income to which section HC 35 applies.
+Beneficiaries other than minors or close companies
+(1) An amount that a person derives in an income year as beneficiary income is income of the person under section CV 13(a) (Amounts derived from trusts), except to the extent to which it is beneficiary income to which section HC 35 or HC 38 applies.
 Minor beneficiaries
 (2) Subsection (1) does not apply to beneficiary income derived by a minor. The beneficiary income is excluded income of the minor, and treated as trustee income under sections CX 58 (Amounts derived by minors from trusts) and HC 35.
+Beneficiaries that are close companies
+(3) Subsection (1) does not apply to beneficiary income derived by a close company to which section HC 38 applies. The beneficiary income is excluded income of the company under section CX 58B (Amounts derived by certain close companies from trusts) and treated as trustee income under section HC 38.
 
 ### HC 18 Taxable distributions from foreign trusts
 An amount that a person derives in an income year as a taxable distribution from a foreign trust is income of the person under section CV 13(c) (Amounts derived from trusts).
@@ -28743,6 +28786,8 @@ No tax credits
 (2) In determining the income tax liability, the trustee is not entitled to have a tax credit under subparts LC and LD (which relate to tax credits for natural persons and for certain gifts).
 Beneficiary income of minors
 (3) Section HC 35 applies to treat beneficiary income derived by a minor as if it were trustee income.
+Beneficiary income of certain close companies
+(3B) Section HC 38 applies to treat beneficiary income derived by a close company that meets the requirements of the section as if it were trustee income.
 Calculating trustees’ deductions
 (4) Section DV 9(2) (Trusts) applies for the purposes of calculating a trustee’s deductions.
 Superannuation funds
@@ -29096,6 +29141,47 @@ Testamentary trusts not subject to minor beneficiary rule
   (b) the minor has a brother, sister, half-brother, or half-sister alive within 12 months of the date of the settlor’s death.
 Small additional settlements permitted
 (2) Section HC 36(3) may apply to extend the application of this exemption.
+
+### HC 38 Beneficiary income of certain close companies
+When this section applies
+(1) This section applies when a close company derives an amount of beneficiary income from a trust (trust A) in an income year and a voting interest or market value interest in the close company is held, directly or indirectly, by 1 or more of the following:
+  (a) a settlor of trust A:
+  (b) the trustees of trust A:
+  (c) a person for whom a settlor of trust A has natural love and affection:
+  (d) the trustees of a trust (trust B), if a settlor of trust A has natural love and affection for a settlor or beneficiary of trust B.
+When this section does not apply
+(2) This section does not apply to a close company that is a—
+  (a) Maori authority:
+  (b) tax charity:
+  (c) securitisation trust beneficiary.
+Treatment of amount derived
+(3) The amount is—
+  (a) excluded income of the close company under section CX 58B (Amounts derived by certain close companies from trusts); and
+  (b) treated as trustee income for the purposes of who pays the relevant tax and who provides the return of income; and
+  (c) subject to the basic rate of income tax set out in schedule 1, part A, clause 3.
+Relationship with other provisions
+(4) This section—
+  (a) overrides sections HC 5, HC 22, HC 23, and HC 32; and
+  (b) is overridden by section CW 10 (Dividend within New Zealand wholly-owned group).
+
+### HC 39 Trustee income: disabled beneficiary trusts
+Basic rate of tax for trustee of disabled beneficiary trust
+(1) When a trustee of a disabled beneficiary trust derives trustee income in an income year, the basic rate of income tax for the trustee on each dollar of the trustee’s taxable income is set out in schedule 1, part A, clause 6B (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
+Definition of disabled beneficiary trust
+(2) A disabled beneficiary trust is a trust—
+  (a) with 1 or more beneficiaries who are all disabled beneficiaries; and
+  (b) from which no person other than a disabled beneficiary may ever receive distributions, except on the dissolution of the trust if no disabled beneficiaries are alive.
+Definition of disabled beneficiary
+(3) A disabled beneficiary, for an income year, is a person who—
+  (a) derives for the income year, under the Social Security Act 2018, 1 or more of the following:
+    (i) a supported living payment on the ground of restricted work capacity:
+    (ii) a child disability allowance:
+    (iii) jobseeker support on the ground of health condition, injury, or disability:
+    (iv) a disability allowance; or
+  (b) satisfied 1 or more of paragraph (a)﻿(i), (iii), or (iv) for the income year in which the person turned 65 years of age or the income year before that income year.
+
+### HC 40 De minimis trust
+A trust is a de minimis trust in an income year if the net income of the trustee for that income year, excluding any income treated as trustee income under section HC 35 or HC 38, is $10,000 or less.
 
 ### Subpart HD — Agents
 
@@ -31463,9 +31549,9 @@ When this section does not apply
   (c) the person would, but for this paragraph, have $10,000 or less income under this section on their end date.
 Treatment of income
 (3) The person has an amount of income derived on the day that is 1 year after the end date that is equal to the current market value, on the end date, of assets that the person has on the end date less the current market value, on the end date, of liabilities that the person has on the end date, but ignoring:
-  (a) assets that are disposed of or transferred within 1 year of the end date, together with any rights and obligations, to another person—
-    (i) for charitable purposes:
-    (ii) in accordance with the person’s rules set out in the register of charitable entities immediately before the person’s removal from the register:
+  (a) assets that are disposed of or transferred for charitable purposes within 1 year of the end date, together with any rights and obligations, to—
+    (i) a tax charity, other than a tax charity as defined in paragraph (c) of the definition of tax charity:
+    (ii) a New Zealand resident person, other than a natural person, that derives exempt income under any of sections CW 38 to CW 52, CW 55BA, or CW 64 (which relate to exempt income of certain entities):
   (b) assets received from the Crown—
     (i) to settle a Treaty of Waitangi claim:
     (ii) in accordance with the Maori Fisheries Act 2004:
@@ -33300,6 +33386,12 @@ When this section applies
 Trustee treated as beneficiary
 (2) To the extent to which section HC 7(2) (Trustee income) applies, the person is treated as deriving the minor’s beneficiary income as a beneficiary.
 
+### LE 4B Trustees for certain close companies
+When this section applies
+(1) This section applies when a person who has a tax credit under section LE 1 (the tax credit) is the trustee of a trust and a close company derives beneficiary income from the trust.
+Trustee treated as beneficiary
+(2) To the extent to which section HC 38 (Beneficiary income of certain close companies) applies, the person is treated as deriving the company’s beneficiary income as a beneficiary.
+
 ### LE 5 Beneficiaries of trusts
 When this section applies
 (1) This section applies when a person who has a tax credit under section LE 1 is the beneficiary of a trust and, in that capacity, derives a dividend with an imputation credit attached.
@@ -34996,8 +35088,8 @@ Definition of items in formula
 (3) The items in the formula are defined in subsections (4) and (5).
 Prescribed amount
 (4) Prescribed amount is the sum of the following amounts:
-  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, $7,121; and
-  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, $5,802.
+  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, $7,524; and
+  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, $6,130.
 Days
 (5) Days is the number of days in the entitlement period.
 Order in Council increasing amount
@@ -35224,7 +35316,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $34,216:
+  (a) prescribed amount is $35,204:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -35482,7 +35574,7 @@ Best Start tax credit for dependent child
 (1) For the purposes of section MG 1(3)﻿(a), the person’s Best Start tax credit for the entitlement period for the dependent child is calculated using the formula—prescribed amount × days ÷ 365.
 Definition of items in formula
 (2) In the formula,—
-  (a) prescribed amount is, for the dependent child, $3,632:
+  (a) prescribed amount is, for the dependent child, $3,838:
   (b) days is the number of days in the entitlement period.
 If dependent child dies during entitlement period
 (3) The person continues to be entitled to the Best Start tax credit for 4 weeks after the dependent child dies, if the person otherwise meets the requirements of section MG 1(1).
@@ -39428,6 +39520,8 @@ Relevant end dates
     (ii) for the second instalment, the last day of March.
 When payment due in December
 (4) Despite subsection (2), for the purposes of this section and the payment of PAYE and ESCT to the Commissioner, if the month referred to in subsection (3)﻿(a)﻿(ii) is December, the payment is due by 15 January.
+Treatment of certain cross-border employees
+(4B) Despite subsections (2)﻿(a) and (b) and (3)﻿(a) and (b), and on application by an employer, the Commissioner may, in special circumstances, agree with the employer that the payment of amounts of tax for PAYE income payments made to a class of cross-border employees for a tax year is due by 31 May after the end of the tax year.
 Discrepancies
 (5)
 Payment dates
@@ -40266,7 +40360,7 @@ Amount of early-payment discount
   (b) 105% of the small-business person’s residual income tax for the income year.
 Discount rate
 (4) The discount rate is—
-  (a) the rate that is 2% greater than the highest Commissioner’s paying rate set by an Order in Council under section 120H of the Tax Administration Act 1994 that applied at any time during the tax year if no rate is set under paragraph (b):
+  (a) the rate that is 2% greater than the Commissioner’s paying rate set by an Order in Council under section 120H of the Tax Administration Act 1994 that applied at the end of the preceding tax year if no rate is set under paragraph (b):
   (b) the rate set by the Governor-General by Order in Council.
 Secondary legislation
 (5) An Order in Council under subsection (4)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -40583,7 +40677,7 @@ When a person calculates an amount of tax for a PAYE income payment, they must u
 
 ### RD 10 Amounts of tax for PAYE income payments
 PAYE income payments other than schedular payments
-(1) The amount of tax for a PAYE income payment that a person must withhold and pay to the Commissioner under section RA 5 (Tax obligations for employment-related taxes) is the relevant amount under schedule 2 (Basic tax rates for PAYE income payments). Subsections (2), (2B), (2C), (2D), and (3) and sections RD 12 to RD 20 override this subsection.
+(1) The amount of tax for a PAYE income payment that a person must withhold and pay to the Commissioner under section RA 5 (Tax obligations for employment-related taxes) is the relevant amount under schedule 2 (Basic tax rates for PAYE income payments). Subsections (2), (2B), (2C), (2D), and (3) and sections RD 12 to RD 20C override this subsection.
 Choosing rate for extra pay
 (2) An employee who notifies their employer of their tax code may choose to have the amount of tax for an extra pay fixed as follows:
   (a) for an employee whose taxable income for the income year is expected to be not more than $48,000, the rate set out in schedule 2, part B, table 1, row 3; or
@@ -40761,6 +40855,43 @@ When this section applies
 Obligation to retain amount
 (2) The PAYE rules apply to the contractor in relation to a payment made to the subcontractor in relation to the work carried out under the contract.
 
+### RD 20B Payments of accident compensation for period of more than 1 year
+What this section applies to
+(1) This section applies to a person for a payment (the multi-year compensation payment) that is made in a lump sum and relates to a period of more than 1 income year for the person and is—
+  (a) an accident compensation earnings-related payment, except to the extent to which the payment is the conversion of weekly compensation to an aggregated payment under schedule 1, part 4, clause 67 of the Accident Compensation Act 2001; or
+  (b) a personal service rehabilitation payment, except to the extent to which the payment is a reimbursement payment to which section CW 35 (Personal service rehabilitation payments) applies.
+Tax rate for payment and income year
+(2) The tax rate given by subsection (3) applies to the multi-year compensation payment for the income year in which the person derives the payment.
+Tax rate
+(3) The tax rate referred to in subsection (2) is—
+  (a) 10.5%, if the rate given by the formula in subsection (4) (the average basic tax rate) is less than 10.5% and paragraph (c) does not apply; or
+  (b) the person’s average basic tax rate, if neither of paragraphs (a) and (c) apply; or
+  (c) the person’s basic tax rate for the income year in which the person derives the multi-year compensation payment, if that basic tax rate is less than the average basic tax rate.
+Formula for average basic tax rate
+(4) The person’s average basic tax rate for this section is calculated over the period of the 4 income years (the rate averaging period) ending before the income year in which the person derives the multi-year compensation payment using the formula—total basic rates ÷ number of income years.
+Definition of items in formula
+(5) In the formula in subsection (4),—
+  (a) total basic rates is the sum of the person’s basic tax rate calculated under schedule 1, part A, clause 1 for each of the income years in the rate averaging period for which that rate is known by the Commissioner:
+  (b) number of income years is the number of income years within the rate averaging period for which the person’s basic tax rate is known by the Commissioner and included in the total basic rates.
+Withholding from payment
+(6) For the purposes of section RA 5 (Tax obligations for employment-related taxes), if the multi-year compensation payment is an accident compensation earnings-related payment, the person making the payment must withhold an amount of tax from the payment at the rate given by subsection (7).
+Rate of withholding
+(7) The rate referred to in subsection (6) is,—
+  (a) if the person’s average basic tax rate is less than 10.5%, 10.5%; or
+  (b) in any other case, the person’s average basic tax rate.
+
+### RD 20C Payments of recalculated main benefit
+What this section applies to
+(1) This section applies to a person for a payment (the recalculated main benefit payment) that is made in a lump sum in an income year and arises from a recalculation of the amount of main benefit payable to the person for 1 or more earlier income years.
+Tax rate for payment
+(2) The rate of income tax given by subsection (3) applies to the recalculated main benefit payment for the income year in which the person derives the payment.
+Formula for tax rate
+(3) The rate of income tax referred to in subsection (2) is the rate calculated using the formula—tax deduction ÷ (received amount + tax deduction).
+Definition of items in formula
+(4) In the formula in subsection (3),—
+  (a) tax deduction is the amount paid to the Commissioner by the department of State responsible for the administration of the Social Security Act 2018 (the MSD) as the amount for income tax payable on the recalculated main benefit payment:
+  (b) received amount is the amount paid to the person by the MSD as the amount of the recalculated main benefit payment after the withholding of income tax.
+
 **Paying amounts of tax**
 
 ### RD 21 When amounts of tax not withheld or payment insufficient
@@ -40788,27 +40919,13 @@ Exception
   (b) to a benefit under an exempt ESS.
 
 ### RD 23 Bonds given by employers of certain non-resident employees
-When this section applies
-(1) This section applies if it cannot reasonably be determined at the time an employer or PAYE intermediary is required to withhold the amount of tax for a PAYE income payment whether the payment will be exempt income of an employee under either section CW 19 (Amounts derived during short-term visits) or a double tax agreement.
-Providing bond
-(2) The employer or PAYE intermediary may apply to the Commissioner to be released from their obligation to withhold the amount by providing a bond or other security for the amount that would be required to be withheld but for this section.
-Consequences of acceptance of bond
-(3) If the Commissioner accepts the bond or security referred to in subsection (2),—
-  (a) the employer or PAYE intermediary must not withhold the amount of tax for a PAYE income payment to the employee; and
-  (b) information concerning the employee must not be included in employment income information; and
-  (c) a non-notified tax code under section 24E of the Tax Administration Act 1994 must not be used in relation to the PAYE income payment.
-When subsection (3) no longer applies
-(4) If the employee later becomes liable to pay income tax because of an event provided for in an arrangement made under section BH 1 (Double tax agreements) or CW 19, the application of subsection (3) ends, and the employer or PAYE intermediary must withhold the amount of tax for a PAYE income payment made to the employee.
-Employee’s liability
-(5) If the Commissioner considers that the employee is liable for income tax in relation to a PAYE income payment from which no amount of tax is withheld because of the application of subsection (3), the Commissioner must notify the employer or PAYE intermediary, as applicable. The employer or intermediary must then account for and pay the total amount of tax for all PAYE income payments that would have been due, or a lesser amount as the Commissioner determines.
-Treatment of amount paid under subsection (5)
-(6) An amount paid to the Commissioner under subsection (5) is treated as the amount of tax for a PAYE income payment made on the date of the Commissioner’s notice. Section 120U of the Tax Administration Act 1994 overrides this subsection.
+[Repealed]
 
 ### RD 24 Exemptions for non-resident contractors
 When this section applies
 (1) This section applies when—
   (a) a non-resident contractor derives an amount from a contract activity or service that is not assessable income, whether because of a double tax agreement or for another reason; or
-  (b) the contractor provides a bond or other security for the payment of any income tax payable on an amount derived by them from a contract activity or service; or
+  (b)
   (c) the contractor has in the period of 24 months before the date of the application referred to in subsection (2) paid all income tax payable by them and complied with their obligations under the Inland Revenue Acts, and the Commissioner is satisfied that the contractor will continue to do this.
 Exemptions
 (2) The non-resident contractor may apply to the Commissioner to provide them with an exemption under section 24H of the Tax Administration Act 1994 for a contract payment made to them or another person acting on their behalf in relation to a contract activity or service set out in the certificate for which no amount of tax is to be withheld.
@@ -41437,9 +41554,10 @@ Application
 
 ### RD 65 Employer's superannuation cash contributions
 Contribution in money for benefit of employees or past employees
-(1) An employer's superannuation cash contribution means a superannuation contribution paid in money either to a superannuation fund or under the KiwiSaver Act 2006 to the Commissioner for later payment to a superannuation fund, if the contribution is—
-  (a) an employer's superannuation contribution:
-  (b) made by a person for the benefit of 1 or more of their past employees.
+(1) An employer’s superannuation cash contribution means a superannuation contribution that is an employer’s superannuation contribution or made by a person for the benefit of 1 or more of their past employees, if the contribution is paid in money—
+  (a) to a superannuation fund:
+  (b) by an employer of a cross-border employee to a foreign superannuation scheme and the employer chooses to apply this subsection to the contribution:
+  (c) under the KiwiSaver Act 2006 to the Commissioner for later payment to a superannuation fund.
 Determining amount of contribution
 (2) The amount of an employer's superannuation cash contribution is the sum of—
   (a) the amount of the contribution received by the superannuation fund or, for a contribution paid to the Commissioner under the KiwiSaver Act 2006, received by the Commissioner for payment to the superannuation fund; and
@@ -43632,7 +43750,7 @@ In this Act, unless the context requires otherwise,—
   - **amount** —
     (a) includes an amount in money’s worth:
     (b) in sections CB 24 (Disposal of timber or right to take timber), CB 25 (Disposal of land with standing timber), and CB 29 (Disposal of minerals), includes the amount treated as—
-      (i) the price paid or realised under section EB 24 (Apportionment on disposal of business assets that include trading stock):
+      (i)
       (ii) the consideration under sections FB 6 and FB 7 (which relate to the disposal of timber on a settlement of relationship property):
       (iii) the price realised under sections GC 1 and GC 2 (which relate to the disposal of trading stock for inadequate consideration):
     (c) is defined in section EH 35(2) (Meaning of main maximum deposit) for the purposes of that section:
@@ -43819,7 +43937,9 @@ In this Act, unless the context requires otherwise,—
       (iii) the tenancy agreement expressly refers to the ability of the tenant to personalise the dwelling with the consent of the landlord in accordance with sections 42, 42A, and 42B of the Residential Tenancies Act 1986, and includes examples of possible personalisations and the landlord’s position on the keeping of pets; and
       (iv) the tenancy agreement provides that a tenant may terminate the tenancy with 56 days’ notice, as provided by section 58A of the Residential Tenancies Act 1986:
     (b) does not include land that at any time after it first meets the requirements of paragraph (a) fails to meet those requirements
-  - **building** , in subpart EE, includes part of a building, to the extent to which it is a unit in a unit title development under the Unit Titles Act 2010, but, in subparts EE and EZ, does not include a grandparented structure
+  - **building** , in subpart EE, includes part of a building, to the extent to which it is a unit in a unit title development under the Unit Titles Act 2010, but, in subparts EE and EZ, does not include—
+    (a) a grandparented structure:
+    (b) commercial fit-out, except for commercial fit-out acquired as part of a building in the 2010–11 or an earlier income year for which the person has never had any deductions under any provisions other than sections DB 65, as in force before its repeal by section 4 of the COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020, and DB 65B (Allowance for embedded fit-out of certain commercial buildings)
   - **building**
   - **building society** is defined in section 2 of the Building Societies Act 1965
   - **bus service** is defined in section CX 19C (Certain public transport) for the purposes of that section
@@ -44201,6 +44321,7 @@ In this Act, unless the context requires otherwise,—
     (a) the day the relevant person is removed from the register of charitable entities under the Charities Act 2005:
     (b) the day on which all reasonably contemplated administrative appeals and court proceedings, including appeal rights, are finalised or exhausted in relation to the person's charitable status
   - **de facto partner** means a person who is party to a de facto relationship
+  - **de minimis trust** is defined in section HC 40 (De minimis trust)
   - **debenture** includes debenture stock
   - **debenture holder** includes the owner of debenture stock
   - **debt funding special purpose vehicle** means a company or a trustee of a trust that, ignoring section HR 9 (Debt funding special purpose vehicles are transparent if election made by originator),—
@@ -44311,6 +44432,8 @@ In this Act, unless the context requires otherwise,—
       (iii) a person treated as being a director by any other provision of this Act:
       (iv) in the case of an entity that does not have directors and that is treated as, or assumed to be, a company by a provision of this Act, any trustee, manager, or other person who acts in relation to the entity in the same way as a director would act, or in a similar way to that in which a director would act, were the entity a company incorporated in New Zealand under the Companies Act 1993:
     (b) is defined in section HD 15(9) (Asset stripping of companies) for the purposes of that section
+  - **disabled beneficiary** is defined in section HC 39(3) (Trustee income: disabled beneficiary trusts)
+  - **disabled beneficiary trust** is defined in section HC 39(2) (Trustee income: disabled beneficiary trusts)
   - **disabled workshop payment** is defined in section CW 33(2) (Allowances and benefits) for the purposes of that section
   - **disallowed residential property** is defined in section DH 5 (Key terms)
   - **discontinuance profit** means the amount calculated by a life insurer following the steps in section EY 36 (Discontinuance profit for income year)
@@ -44379,7 +44502,7 @@ In this Act, unless the context requires otherwise,—
   - **DRCD deferral date** is defined in section RA 6(6) (Withholding and payment obligations for passive income) for the purposes of that section and sections CD 1, OB 9, OB 30, RA 15, RF 3, and RF 11BB (which relate to dividends, imputation credit accounts, and withholding and payment obligations)
   - **dwelling** —
     (a) means any place configured as a residence or abode, whether or not it is used as a place of residence or abode, including any appurtenances belonging to or enjoyed with the place:
-    (ab) despite paragraph (a), for the purposes of subpart EE and the definitions of commercial building, commercial fit-out, and residential building, means any place used predominantly as a place of residence or abode, including any appurtenances belonging to or enjoyed with the place:
+    (ab) despite paragraph (a), for the purposes of subpart EE and the definitions of commercial building and commercial fit-out, means any place used predominantly as a place of residence or abode, including any appurtenances belonging to or enjoyed with the place:
     (b) does not include any of the following, in whole or part:
       (i) a hospital:
       (ii) a hotel, motel, inn, hostel, or boarding establishment:
@@ -45338,6 +45461,9 @@ In this Act, unless the context requires otherwise,—
       (ii) an arrangement relating to property that is land, livestock, or bloodstock and that would be a lease as described in paragraph (d) if the property were a personal property lease asset:
       (iii) an occupation right agreement as defined in the Retirement Villages Act 2003
   - **leasehold estate** includes any estate, however created, other than a freehold estate
+  - **legacy superannuation fund** means a scheme that previously qualified as a widely-held superannuation fund and is either—
+    (a) a restricted workplace savings scheme as designated by the Financial Markets Conduct (Designation of Restricted Schemes) Order 2016; or
+    (b) treated as a registered scheme that is a superannuation fund by section 59A(1)﻿(b) of the National Provident Fund Restructuring Act 1990
   - **legal and equitable rights** is defined in section EZ 68 (Definitions) for the purposes of sections EZ 64 to EZ 67 (which relate to New Zealand Railways Corporation restructure)
   - **legal defeasance** means a defeasance in which the release of a party to a financial arrangement or an excepted financial arrangement from the primary obligation of the financial arrangement or the excepted financial arrangement is—
     (a) acknowledged formally by the creditor; or
@@ -45345,6 +45471,9 @@ In this Act, unless the context requires otherwise,—
     (c) established by legal judgment
   - **legal expenses** is defined in section DB 62 (Deduction for legal expenses) for the purposes of that section
   - **legal life** is defined in section EE 67 (Other definitions)
+  - **lending person** means a person—
+    (a) whose main business activity is lending funds or leasing personal property to persons who are not associated with the person; or
+    (b) who is a member of a group whose main business activity is lending funds or leasing personal property to persons who are not associated with any member of the group
   - **less than 10% holder** is defined in section YC 15(3) (Directors’ knowledge of failure to meet requirements of continuity provision) for the purposes of that section
   - **lessee** ,—
     (a) for a lease as described in paragraph (c) of the definition of lease, includes the holder of a licence to occupy:
@@ -45864,7 +45993,8 @@ In this Act, unless the context requires otherwise,—
     (a) is not resident in New Zealand under subpart YD (Residence and source in New Zealand); and
     (b) undertakes under a contract, agreement, or arrangement (other than a contract of service or apprenticeship)—
       (i) to perform services of any kind in New Zealand:
-      (ii) to supply the use, or right to use, in New Zealand any personal property or services of another person
+      (ii) to supply the use, or right to use, in New Zealand any personal property or services of another person; and
+    (c) is not a non-resident entertainer
   - **non-resident crew member** is defined in section CW 21(2) (Amounts derived by visiting crew of pleasure craft) for the purposes of that section
   - **non-resident entertainer** is defined in section CW 20(4) (Amounts derived by visiting entertainers including sportspersons) for the purposes of that section, and in the PAYE rules, means a person who—
     (a) is not resident in New Zealand under subpart YD (Residence and source in New Zealand); and
@@ -45888,7 +46018,7 @@ In this Act, unless the context requires otherwise,—
   - **non-resident trader** means a person who—
     (a) is in New Zealand; and
     (b) carries on business here without having a fixed and permanent place of business or home here
-  - **non-residential building** means a building that is not a residential building
+  - **non-residential building**
   - **non-residents’ foreign-sourced income** is defined in section BD 1(4) (Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income)
   - **non-residents’ foreign-sourced income limitation** is defined in section DA 2(6) (General limitations)
   - **non-specified livestock** means livestock other than bloodstock, high-priced livestock, and specified livestock
@@ -46485,7 +46615,7 @@ In this Act, unless the context requires otherwise,—
   - **registered person** is defined in section 2 of the Goods and Services Tax Act 1985
   - **registered security** is defined in section 86F of the Stamp and Cheque Duties Act 1971
   - **regulatory value** is defined in section FE 20(2) (Financial value and regulatory value) for the purposes of section FE 19 (Banking group’s equity threshold)
-  - **reimbursement payment** is defined in section CW 35(2) (Personal service rehabilitation payments) for the purposes of that section and sections DF 4 and LB 7 (which relate to personal service rehabilitation payments)
+  - **reimbursement payment** is defined in section CW 35(2) (Personal service rehabilitation payments) for the purposes of that section and sections DF 4, LB 7, and RD 20B (which relate to personal service rehabilitation payments)
   - **reinsurance contract** includes—
     (a) a cover note:
     (b) a renewal of a reinsurance contract
@@ -46565,9 +46695,7 @@ In this Act, unless the context requires otherwise,—
   - **resident passive income** —
     (a) is defined in section RE 2(1) (Resident passive income); and
     (b) unless the context otherwise requires, includes RWT required to be withheld under the RWT rules
-  - **residential building** —
-    (a) means a dwelling; and
-    (b) includes a building intended to ordinarily provide accommodation for periods of less than 28 days at a time, if the building, together with other buildings on the same land, has less than 4 units for separate accommodation
+  - **residential building**
   - **residential income** is defined in section EL 3 (Definitions for this subpart) for the purposes of subpart EL (Allocation of deductions for excess residential land expenditure)
   - **residential land** —
     (a) means—
@@ -46690,7 +46818,9 @@ In this Act, unless the context requires otherwise,—
     (h)
     (i) income to which section YD 8 (Apportionment of premiums derived by non-resident general insurers) applies:
     (j) income under section CR 3B (Lloyd’s of London: income from life insurance premiums):
-    (k) income to which section GB 3BAB (Arrangements to inject income into companies carrying forward loss balances) applies
+    (k) income to which section GB 3BAB (Arrangements to inject income into companies carrying forward loss balances) applies:
+    (l) income to which section RD 20B (Payments of accident compensation for period of more than 1 year) applies:
+    (m) income to which section RD 20C (Payments of recalculated main benefit) applies
   - **schedular income tax liability** means the amount determined under section BC 7 (Income tax liability of person with schedular income)
   - **scheduled overhaul period** , for an aircraft engine and an aircraft and an operator of the aircraft, means the maximum permitted interval between successive aircraft engine overhauls of the aircraft engine that the operator is required to perform
   - **schedular payment** is defined in section RD 8 (Schedular payments)
@@ -46706,6 +46836,23 @@ In this Act, unless the context requires otherwise,—
   - **secured arrangement** ,—
     (a) in the financial arrangements rules, and in the definitions of security arrangement and security payment, means an arrangement whose non-performance is secured against by a financial arrangement:
     (b) is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
+  - **securitisation trust** , for an income year, means a trust that, from the establishment of the trust to the end of the relevant income year, only has one beneficiary and that beneficiary is a company, and at all times during the income year—
+    (a) operates to do 1 or more of the following:
+      (i) guarantee liabilities of a financial institution (person A), who transferred some or all of their assets to the trust:
+      (ii) guarantee liabilities of a company, incorporated in and resident in New Zealand, that is a member of a wholly-owned group of companies that includes person A:
+      (iii) raise funds by issuing securities backed by its assets:
+      (iv) raise funds by borrowing money backed by its assets; and
+    (b) has interests in assets for the sole purpose of carrying out the trust’s operations described in paragraph (a); and
+    (c) receives only funds that—
+      (i) are used to acquire assets as described in paragraph (b):
+      (ii) are derived from assets described in paragraph (b):
+      (iii) are incidental to the trust’s sole purpose described in paragraph (b); and
+    (d) derives no exempt income; and
+    (e) is a New Zealand resident; and
+    (f) meets at least one of the following requirements:
+      (i) the beneficiary of the trust is a lending person:
+      (ii) the trust has its assets included in financial statements that are prepared using IFRSs
+  - **securitisation trust beneficiary** means a beneficiary of a securitisation trust
   - **security arrangement** ,—
     (a) except in the old financial arrangements rules, means a financial arrangement that secures a party against another person failing to perform the person’s obligations under a secured arrangement:
     (b) in the old financial arrangements rules, is defined in section EZ 48 (Definitions)
@@ -46879,6 +47026,7 @@ In this Act, unless the context requires otherwise,—
       (i) the statutory body is established by an Act of the Parliament of New Zealand or by a statute of the legislature, whether federal or state or provincial, of any territory outside New Zealand; and
       (ii) the Commissioner, having regard to the terms of the statute by which the body is established, is satisfied that it would be appropriate to treat the body as a special corporate entity for the purposes of those provisions of this Act whose application is dependent on the measurement of voting and market value interests:
     (j) any body incorporated under the Incorporated Societies Act 1908, for an income year in which the body on no day in the income year has shares on issue to the members of the body
+  - **special excluded depreciable property** is defined in section EE 67 (Other definitions)
   - **special excluded depreciable property**
   - **special home ownership account**
   - **special rate** is defined in section EE 67 (Other definitions)
@@ -47115,9 +47263,9 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section DP 11(4) (Cost of timber) for the purposes of that section:
     (b) includes standing timber in—
       (i) section DP 11:
-      (ii) section EB 24 (Apportionment on disposal of business assets that include trading stock):
+      (ii)
       (iii) section FB 6 (Timber or right to take timber):
-      (iv) section GC 1 (Disposals of trading stock at below market value):
+      (iv) section GC 1 (Certain disposals of trading stock at below market value):
       (v) the definition of dispose, paragraph (b):
       (vi) the definition of right to take timber:
       (vii) the definition of trading stock, paragraph (b)﻿(iv)
@@ -47137,11 +47285,11 @@ In this Act, unless the context requires otherwise,—
   - **tracking associate**
   - **trade credit** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
   - **trading stock** —
-    (a) is defined in section EB 2 (Meaning of trading stock) except for the provisions to which paragraphs (ab), (b), (bb), (bc), and (d) apply:
+    (a) is defined in section EB 2 (Meaning of trading stock) except for the provisions to which paragraphs (ab), (b), and (d) apply:
     (ab) in sections CB 2, FE 16, and FO 10 (which apply to livestock), means property that is—
       (i) trading stock under section EB 2:
       (ii) livestock:
-    (b) in sections CG 6 (Receipts from insurance, indemnity, or compensation for trading stock), EB 24 (Apportionment on disposal of business assets that include trading stock), FB 13 (Trading stock), GC 1 to GC 3 (which relate to the disposal of trading stock for inadequate consideration), and GC 20 and GC 21 (which relate to purchase price allocation),—
+    (b) in sections CG 6 (Receipts from insurance, indemnity, or compensation for trading stock), FB 13 (Trading stock), FC 1 (Disposals to which this subpart applies), GC 1 to GC 3 (which relate to the disposal of trading stock for inadequate consideration), and GC 20 and GC 21 (which relate to purchase price allocation),—
       (i) includes anything produced or manufactured:
       (ii) includes anything acquired for the purposes of manufacture or disposal:
       (iii) includes livestock:
@@ -47149,13 +47297,9 @@ In this Act, unless the context requires otherwise,—
       (v) includes land whose disposal would produce income under any of sections CB 6A to CB 15 and CZ 39 (which relate to income from land):
       (vi) includes any thing for which expenditure is incurred and which would be trading stock if possession of it were taken:
       (vii) does not include a financial arrangement to which the financial arrangements rules or the old financial arrangements rules apply:
-    (bb) in section FZ 9 (Transfers of trading stock to non-associates, donee organisations, or public authorities), means property that is trading stock under section EB 2 except that it includes—
-      (i) livestock not used in a dealing business:
-      (ii) consumable aids to be used in the process of producing trading stock:
-    (bc) in sections GZ 4 and GZ 5 (which relate to the disposal of trading stock to non-associates, donee organisations, or public authorities), has the meaning given in paragraph (b) except that it does not include—
-      (i) timber or a right to take timber:
-      (ii) land whose disposal would produce income under any of sections CB 6A to CB 15:
-    (c) for the purposes of section GC 1 (Disposals of trading stock at below market value), has an expanded meaning as set out in section GC 1(4):
+    (bb)
+    (bc)
+    (c) for the purposes of section GC 1 (Certain disposals of trading stock at below market value), has an expanded meaning as set out in section GC 1(4):
     (d) in the old financial arrangements rules, is defined in section EZ 48 (Definitions)
   - **trading transactions** —
     (a) is defined in section CD 34B(8) (Distributions to members of co-operative companies) for the purposes of that section:
@@ -47199,13 +47343,13 @@ In this Act, unless the context requires otherwise,—
   - **trust rules** means—
     (aa) section BD 1(4)﻿(c) (Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income):
     (a)
-    (ab) sections CV 13, CW 53, CW 54, and CX 59 (which relate to distributions by trusts and amounts derived by trustees):
+    (ab) sections CV 13, CW 53, CW 54, CX 58, CX 58B, and CX 59 (which relate to distributions by trusts and amounts derived by trustees):
     (b) sections DV 1 to DV 7 (which relate to superannuation funds):
     (c) section DV 9 (Trusts):
     (d) section GB 22 (Arrangements involving trust beneficiary income):
     (e) subpart HC (Trusts):
     (f) subpart HZ (Terminating provisions):
-    (g) sections LE 4, LE 5, LF 2, LF 3, and LO 2 (which relate to tax credits for beneficiary minors):
+    (g) sections LE 4 to LE 5 and LO 2 (which relate to tax credits for beneficiary minors):
     (gb) the definitions of look-through company and look-through counted owner:
     (gc) section YD 3BA (Country of residence of joint trustees):
     (h) sections 43B, 59, 59BA, 59BAB, 59B, 59C, 59D, 59DB, 93B, and 139AC of the Tax Administration Act 1994
@@ -48464,7 +48608,7 @@ Purpose of schedule
 ## Schedule 1 — Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits
 
 ### 1 Taxable income: general
-To the extent to which a person does not have a basic rate under clauses 2 to 10, the basic rate of income tax for the person on each dollar of the person's taxable income is calculated using the formula—tax under table 1 ÷ taxable income: Table 1The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Range of dollar in taxable income. Column 3 is headed Tax rate.RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1052$14,001 – $48,0000.1753$48,001 – $70,0000.3004$70,001 – $180,0000.3305$180,001 upwards0.390 How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
+To the extent to which a person does not have a basic rate under clauses 2 to 14, the basic rate of income tax for the person on each dollar of the person's taxable income is calculated using the formula—tax under table 1 ÷ taxable income: Table 1The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Range of dollar in taxable income. Column 3 is headed Tax rate.RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1052$14,001 – $48,0000.1753$48,001 – $70,0000.3004$70,001 – $180,0000.3305$180,001 upwards0.390 How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
   (a) tax under table 1 means the total tax, calculated for each dollar in the person’s taxable income, using table 1:
   (b) taxable income means the number of dollars in the person’s taxable income.
 
@@ -48472,7 +48616,7 @@ To the extent to which a person does not have a basic rate under clauses 2 to 10
 To the extent to which a company does not have a basic rate under clauses 3 to 9, the basic rate of income tax for the company on each dollar of the company’s taxable income is 0.28.
 
 ### 3 Taxable income: trustees
-To the extent to which a trustee does not have a basic rate under clause 4, 5 or 6, the basic rate of income tax for the trustee on each dollar of the trustee’s taxable income is 0.33.
+To the extent to which a trustee does not have a basic rate under clause 4, 5, 6, or 6B, the basic rate of income tax for the trustee on each dollar of the trustee’s taxable income is 0.39.
 
 ### 4 Taxable distribution: non-complying trust
 The basic rate of income tax on each dollar of a taxable distribution made by a non-complying trust is 0.45.
@@ -48484,7 +48628,15 @@ The basic rate of income tax for a trustee on each dollar of the trustee’s sch
 To the extent to which a trustee does not have a basic rate under clause 4 or 5, the basic rate of income tax on each dollar of taxable income is 0.28 if the income is of a trustee of—
   (a) an approved unit trust to which the Income Tax Act (Exempt Unit Trusts) Order 1990 applies:
   (b) a widely-held GIF:
-  (c) a widely-held superannuation fund.
+  (c) a widely-held superannuation fund:
+  (d) a legacy superannuation fund.
+
+### 6B Taxable income: trustees of certain trusts and estates
+To the extent to which a trustee does not have a basic rate under clause 4, the basic rate of income tax on each dollar of the trustee’s taxable income is 0.33 if the trustee is a trustee of—
+  (a) a disabled beneficiary trust:
+  (b) an estate referred to in section HC 8B (Trustee income in income year of person’s death and following 3 income years):
+  (c) a lines trust:
+  (d) a de minimis trust.
 
 ### 7 Taxable income: Maori authorities
 The basic rate of income tax for a Maori authority on each dollar of the Maori authority’s taxable income is 0.175.
@@ -48503,6 +48655,12 @@ The basic rate of income tax for a person on each dollar of the person’s sched
 
 ### 12 Taxable income: Venture Capital Fund
 The basic rate of income tax on each dollar of taxable income derived by the Crown through the VCF is the rate applying to companies set out in clause 2.
+
+### 13 Schedular taxable income: accident compensation payments for period of more than 1 year
+The basic rate of income tax for a person on each dollar of the person’s schedular taxable income that is income from a payment to which section RD 20B (Payments of accident compensation for periods of more than 1 year) applies is the tax rate given by section RD 20B(3) for the payment and the tax year in which the person derives the payment.
+
+### 14 Schedular taxable income: recalculated main benefit payments
+The basic rate of income tax for a person on each dollar of the person’s schedular taxable income that is income from a payment to which section RD 20C (Payments of recalculated main benefit) applies is the rate of income tax given by section RD 20C(3) for the payment and the tax year in which the person derives the payment.
 
 | Row | Range of dollar in all-inclusive pay | Tax rate |
 | --- | --- | --- |
@@ -49491,6 +49649,8 @@ In this schedule,—
 ## Schedule 37 — Statutory producer boards
 
 ## Schedule 38 — Acts exempting income from tax: income included in family scheme income
+
+## Schedule 39 — Items for purposes of definition of special excluded depreciable property
 
 ## Schedule 39 — Items for purposes of definition of special excluded depreciable property
 
