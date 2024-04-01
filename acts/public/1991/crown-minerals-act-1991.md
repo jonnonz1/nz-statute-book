@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-04-01_
 
 > Title
 
@@ -560,6 +560,15 @@ Where the Minister considers it appropriate to do so, the Minister may require t
 (5) In this section,—
   - **exploration drilling committal date** means the point in a work programme at which a permit holder must commit to drilling for exploration purposes or surrender the permit
   - **work** means work to be undertaken under a work programme for a permit.
+
+### 29C Minister’s functions in relation to feedback from iwi or hapū when considering application
+(1) This section applies if—
+  (a) the applicant is a previous or current permit holder or a previous or existing privilege holder; and
+  (b) the applicant, in their capacity as a previous or current permit holder or a previous or existing privilege holder, is or was required to submit an iwi engagement report or reports under section 33C; and
+  (c) the applicant is applying for a permit for which an iwi engagement report is required under section 33C.
+(2) If this section applies, before granting a permit, the Minister—
+  (a) must have regard to feedback provided in iwi engagement reports and at annual review meetings about the quality of the applicant’s previous engagement with iwi or hapū in the applicant’s capacity as a previous or current permit holder or a previous or existing privilege holder; and
+  (b) may have regard to any other feedback from iwi or hapū about the quality of the applicant’s previous engagement with iwi or hapū, in the applicant’s capacity as a previous or current permit holder or a previous or existing privilege holder.
 
 **Conditions of permits**
 
