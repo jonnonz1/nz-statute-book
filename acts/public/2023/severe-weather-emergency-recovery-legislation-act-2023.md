@@ -1,5 +1,5 @@
 # Severe Weather Emergency Recovery Legislation Act 2023
-_Consolidation as at 2023-10-01_
+_Consolidation as at 2024-04-02_
 
 ### 1 Title
 This Act is the Severe Weather Emergency Recovery Legislation Act 2023.
@@ -330,16 +330,7 @@ This subpart amends the Resource Management Act 1991.
 (2) This section is repealed on the close of 1 October 2024.
 
 ### 32 Section 331B amended (Owner or occupier of rural land may take emergency preventive or remedial measures)
-(1) In section 331B(4)﻿(b), after statutory acknowledgement, insert or specified statutory overlay.
-(2) In section 331B(4)﻿(c), after statutory acknowledgement, insert or specified statutory overlay.
-(3) In section 331B(4)﻿(e), after statutory acknowledgement, insert or specified statutory overlay.
-(4) In section 331B(7), definition of culturally significant land, paragraph (b), replace is on, near, or adjoins with is on or adjoins.
-(5) In section 331B(7), definition of culturally significant land, after paragraph (b), insert:
-  (c) is within, is adjacent to, or directly affects the statutory overlay of ngā rohe moana and ngā rohe moana o ngā hapū o Ngāti Porou, as described in section 11 and Schedule 3 of the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019
-(6) In section 331B(7), insert in its appropriate alphabetical order:
-  - **specified statutory overlay** means the statutory overlay of ngā rohe moana and ngā rohe moana o ngā hapū o Ngāti Porou in the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019, as described in section 11 and Schedule 3 of that Act
-(7) In section 331B(7), definition of wāhi tapu or site of cultural significance, after paragraph (c), insert:
-  (ca) section 11 and Schedule 3 of the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019:
+[Repealed]
 
 ## Part 4 — Reporting on and repeal of this Act
 
