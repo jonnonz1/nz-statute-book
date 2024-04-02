@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2024-02-17_
+_Consolidation as at 2024-04-02_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -9705,71 +9705,22 @@ Every abatement notice shall be in the prescribed form and shall state—
 **Emergency activities undertaken by certain rural landowners and occupiers**
 
 ### 331A Application of sections 331B to 331E
-(1) Sections 331B to 331E apply to activities undertaken on rural land in an affected area.
-(2) In this section and sections 331B, 331C, and 331E, rural land means land in an affected area that—
-  (a) has a general rural, rural production, or Māori purpose zoning status (or the nearest equivalent zone) in the relevant district or combined plan; or
-  (b) has located on it any marae, papakāinga, or urupā; or
-  (c) is used for the primary purpose of livestock or horticultural farming.
-(3) In this section, affected area has the same meaning as in section 329A.
+[Repealed]
 
 ### 331B Owner or occupier of rural land may take emergency preventive or remedial measures
-(1) Subsection (2) applies if,—
-  (a) because of or in connection with the impacts of a severe weather event, a sudden event or an adverse effect on the environment has caused, is causing, or is likely to cause loss of life or injury to humans, loss of life or serious detriment to the health or well-being of animals, or serious damage to land or property; and
-  (b) the owner or occupier of rural land—
-    (i) considers, on reasonable grounds, that preventive or remedial measures are required to avoid, remedy, or mitigate the loss, injury, detriment, or damage; and
-    (ii) considers that, in the circumstances, the measures are proportionate to the loss, injury, detriment, or damage or the risk of the loss, injury, detriment, or damage; and
-    (iii) undertakes 1 or more activities to implement the measures in a manner that,—
-      (A) so far as is reasonably practicable, avoids, remedies, or mitigates the adverse environmental effects; and
-      (B) will not cause significant adverse effects beyond the boundaries of the owner’s or occupier’s rural land.
-(2) An activity undertaken under subsection (1)﻿(b)﻿(iii) is deemed to be a permitted activity for the purposes of any or all of the following:
-  (a) any relevant plan or proposed plan:
-  (b) any applicable regulations:
-  (c) any applicable national environmental standards.
-(3) However, an activity is not deemed a permitted activity under subsection (2) if it—
-  (a) is classified as a prohibited activity in any of the following:
-    (i) any relevant plan or proposed plan:
-    (ii) any applicable regulations:
-    (iii) any applicable national environmental standard; or
-  (b) is an activity referred to in section 12; or
-  (c) is undertaken on culturally significant land, or will impact on culturally significant land, without the written permission of the relevant iwi or hapū given following notice to the relevant iwi or hapū by the owner or occupier of the rural land in accordance with subsection (4).
-(4) The notice referred to in subsection (3)﻿(c) must be given to the relevant iwi or hapū at least 20 working days before the activity is undertaken and must include—
-  (a) details of the proposed activity to be undertaken; and
-  (b) the proximity of the proposed activity to the wāhi tapu, site of cultural significance, or area subject to a statutory acknowledgement or specified statutory overlay; and
-  (c) the anticipated effect of the proposed activity on the wāhi tapu, site of cultural significance, or area subject to a statutory acknowledgement or specified statutory overlay and proposals to avoid, remedy, or mitigate the effect; and
-  (d) a request for permission from the relevant iwi or hapū to undertake the proposed activity; and
-  (e) a request for protocols or management plans in relation to the wāhi tapu, site of cultural significance, or area subject to a statutory acknowledgement or specified statutory overlay.
-(5) If an activity undertaken under subsection (1)﻿(b)﻿(iii) is not deemed a permitted activity, the relevant provisions of any relevant plan or proposed plan, any applicable regulations, and any applicable national environmental standards apply.
-(6) Subsection (2) applies whether or not the sudden event or adverse effect was foreseeable.
-(7) In this section,—
-  - **culturally significant land** is land that—
-    (a) is on, or adjoins, a wāhi tapu or a site of cultural significance; or
-    (b) is on or adjoins land that has an area that is subject to a statutory acknowledgement; or
-    (c) is within, is adjacent to, or directly affects the statutory overlay of ngā rohe moana and ngā rohe moana o ngā hapū o Ngāti Porou, as described in section 11 and Schedule 3 of the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019
-  - **severe weather event** has the same meaning as in section 329A
-  - **specified statutory overlay** means the statutory overlay of ngā rohe moana and ngā rohe moana o ngā hapū o Ngāti Porou in the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019, as described in section 11 and Schedule 3 of that Act
-  - **statutory acknowledgement** means redress of that name included in certain Treaty settlement Acts
-  - **wāhi tapu** or includes those identified in any of the following:
-    (a) a relevant plan or proposed plan:
-    (b) the New Zealand Archaeological Association’s site recording scheme:
-    (c) a list maintained under section 65 or 81 of the Heritage New Zealand Pouhere Taonga Act 2014:
-    (ca) section 11 and Schedule 3 of the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019:
-    (d) the records of the Maori Land Court as a site set apart as a Maori reservation under Part 17 of Te Ture Whenua Maori Act 1993.
+[Repealed]
 
 ### 331C Requirement for owner or occupier to give notice to relevant consent authority
-(1) An owner or occupier of rural land who has acted under section 331B must give written notice to the relevant consent authority that the activity has been undertaken.
-(2) Notice must be given within 60 working days after the activity begins, or such extended period that the consent authority may allow by written notice.
-(3) If the owner or occupier fails to comply with the specified or extended notice period in subsection (2), the permitted activity status of the activity is revoked as from the date on which the notice period in that subsection ends.
+[Repealed]
 
 ### 331D Duty to gather information, monitor, and keep records
-Nothing in section 331B or 331C limits or affects a local authority’s duties under section 35.
+[Repealed]
 
 ### 331E Enforcement proceedings
-For the purposes of activities undertaken under section 331B, any person authorised to do so by Part 12 may take enforcement proceedings (including declaratory proceedings) under that Part, including in any case where it is alleged that the owner or occupier of rural land has breached section 16 or 17.
+[Repealed]
 
 ### 331F Repeal of this section and sections 331A to 331E
-(1) This section and sections 331A to 331E and the cross-heading above section 331A are repealed on the close of 1 April 2024.
-(2) The repeal of section 331B does not affect a permitted activity status conferred on an activity under section 331B(2).
-(3) However, subsection (2) does not limit or affect the operation of this Act (including the ability to change the status of the permitted activity in a district or regional plan) after the repeal of section 331B.
+[Repealed]
 
 **Powers of entry and search**
 
