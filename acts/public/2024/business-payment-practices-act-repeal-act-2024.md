@@ -1,5 +1,5 @@
 # Business Payment Practices Act Repeal Act 2024
-_Consolidation as at 2024-03-07_
+_Consolidation as at 2024-04-06_
 
 ### 1 Title
 This Act is the Business Payment Practices Act Repeal Act 2024.
