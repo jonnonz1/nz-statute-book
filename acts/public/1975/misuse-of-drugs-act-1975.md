@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2023-10-01_
+_Consolidation as at 2024-04-12_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -819,10 +819,10 @@ In any proceedings against any person in respect of any offence against this Act
 (6) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 32 Forfeiture
-(1) Every person convicted of an offence against this Act shall, in addition to any penalty imposed pursuant to this Act, forfeit to Her Majesty, by virtue of such conviction, all articles, if any, in respect of which the offence was committed and in the possession of such person.
+(1) Every person convicted of an offence against this Act shall, in addition to any penalty imposed pursuant to this Act, forfeit to the Sovereign, by virtue of such conviction, all articles, if any, in respect of which the offence was committed and in the possession of such person.
 (2) Articles forfeited under the provisions of subsection (1) shall be sold, destroyed, or otherwise disposed of as the Minister directs.
 (3) If, on the conviction of any person for an offence against section 6, the Judge or District Court Judge is satisfied that money found in the possession of that person was received by that person in the course of or consequent upon the commission of that offence, or was in the possession of that person for the purpose of facilitating the commission of an offence against that section, the Judge or District Court Judge may, in addition to any other penalty imposed pursuant to this Act, order that that money be forfeited to the Crown.
-(4) If, on the conviction of any person for an offence against section 6, the court is satisfied that any motor vehicle, aircraft, or ship or boat or other vessel owned by the convicted person (whether solely or as joint tenant or tenant in common with any other person or persons) or in which he has any interest (whether pursuant to a hire purchase agreement, leasing agreement, or otherwise) at the time of his conviction was used by the convicted person in the commission of that offence (whether or not he was the driver or person in charge), the court shall, unless in the circumstances of the case the court considers that it would be unjust to do so, order, in addition to any other penalty imposed under this Act, that the motor vehicle, aircraft, or ship or boat or other vessel be forfeited to Her Majesty.
+(4) If, on the conviction of any person for an offence against section 6, the court is satisfied that any motor vehicle, aircraft, or ship or boat or other vessel owned by the convicted person (whether solely or as joint tenant or tenant in common with any other person or persons) or in which he has any interest (whether pursuant to a hire purchase agreement, leasing agreement, or otherwise) at the time of his conviction was used by the convicted person in the commission of that offence (whether or not he was the driver or person in charge), the court shall, unless in the circumstances of the case the court considers that it would be unjust to do so, order, in addition to any other penalty imposed under this Act, that the motor vehicle, aircraft, or ship or boat or other vessel be forfeited to the Sovereign.
 (5) If the court is considering whether to make an order for forfeiture under subsection (4), sections 128(5), 130, and 131 of the Sentencing Act 2002 apply to the extent that they are applicable and subject to any necessary modifications.
 (6) If an order for forfeiture is made under subsection (4), the following provisions of the Sentencing Act 2002 apply to the extent that they are applicable and subject to any necessary modifications and the exception in paragraph (b):
   (a) sections 132 to 136:
@@ -1338,11 +1338,10 @@ The substance gamma-hydroxybutyrate (GHB) (commonly known as fantasy) and—
 - **4-methylthioamphetamine**
 - **Norpseudoephedrine** (threo-2-amino-1-hydroxy-1-phenylpropane), including cathine
 - **Propylhexedrine** (1-cyclohexyl-2-methylaminopropane)
-- **Pseudoephedrine**
 - **Pyrovalerone** (1-(4-methylphenyl)-2-(1-pyrrolidinyl)-1-pentanone).
 
 ### 2
-The isomers of the substances mentioned in this Part whenever the existence of such isomers is possible within the specific chemical designation.
+The isomers of the substances mentioned in this Part whenever the existence of such isomers is possible within the specific chemical designation, except pseudoephedrine.
 
 ### 3
 The esters and ethers of the substances mentioned in this Part and the esters and ethers of the isomers mentioned in clause 2 whenever the existence of such esters or ethers is possible.
@@ -1375,7 +1374,7 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 - **Concentrate of poppy straw** —that is, the material arising when parts of any plant of the species Papaver somniferum have entered a process for the concentration of the alkaloids
 - **Dextromoramide** ((+)-4-[2-methyl-4-oxo-3,3-diphenyl-4-(1-pyrrolidinyl) butyl] morpholine)
 - **Diampromide** (N-[2-(methylphenethylamino) propyl] propionanilide)
-- **Diethylthiambutene** (3-diethylamino-1,1-di-(2′-thienyl)-1-butene).
+- **Diethylthiambutene** (3-diethylamino-1,1-di-(2′-thienyl)-1-butene)
 - **Difenoxin** (1-(3-cyano-3, 3 diphenylpropyl)-4-phenylisonipecotic acid)
 - **Dihydromorphine**
 - **Dimenoxadol** (2-dimethylaminoethyl 1-ethoxy-1, 1-diphenylacetate)
@@ -1486,8 +1485,8 @@ The following substances:
 - **pFPP** (1-(4-fluorophenyl)piperazine)
 - **MeOPP** (1-(4-methoxyphenyl)piperazine)
 - **mCPP** (1-(meta-chlorophenyl)piperazine) or 1-(3-chlorophenyl)piperazine)
-- **MBZP** (1-methyl-4-benzylpiperazine).
-- **Flubromazolam**
+- **MBZP** (1-methyl-4-benzylpiperazine)
+- **Flubromazolam** .
 
 ### 3
 The isomers of the substances mentioned in clause 2 whenever the existence of such isomers is possible within the specific chemical designation.
@@ -1508,10 +1507,11 @@ Substances containing any proportion of a substance mentioned in clause 2, 3, 4,
 - **Nicodicodine** (6-nicotinyldihydrocodeine or nicotinic acid ester of dihydrocodeine)
 - **Norcodeine** (N-demethylcodeine)
 - **Pholcodine** (morpholinylethylmorphine)
-- **Propiram** (N-(1-methyl-2-piperidinoethyl)-N-2-pyridylpropionamide).
+- **Propiram** (N-(1-methyl-2-piperidinoethyl)-N-2-pyridylpropionamide)
+- **Pseudoephedrine** .
 
 ### 2
-The isomers of the substances mentioned in this Part whenever the existence of such isomers is possible within the specific chemical designation.
+The isomers of the substances mentioned in this Part whenever the existence of such isomers is possible within the specific chemical designation, except ephedrine.
 
 ### 3
 The esters and ethers of the substances mentioned in this Part and the esters and the ethers of the isomers mentioned in clause 2 whenever the existence of such esters or ethers is possible.
@@ -1601,9 +1601,9 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 - **SPA** ((−)-1-dimethylamino-1,2-diphenylethane)
 - **Temazepam**
 - **Tetrazepam**
-- **Triazolam** .
+- **Triazolam**
 - **Zolpidem**
-- **Zopiclone**
+- **Zopiclone** .
 
 ### 2
 The isomers of the substances mentioned in this Part whenever the existence of such isomers is possible within the specific chemical designation.
