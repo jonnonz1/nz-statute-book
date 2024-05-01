@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2023-06-01_
+_Consolidation as at 2024-05-01_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -75,9 +75,7 @@ The purpose of this Act is to—
     (b) the published price on the date that an application is made or a notice of withdrawal is given plus 7.5% if the June price referred to in paragraph (a) exceeds the highest price in the price range; or
     (c) the published price on the date that an application is made or a notice of withdrawal is given less 7.5% if the June price referred to in paragraph (a) is less than the lowest price in the price range
   - **described as organic** has the meaning given in section 9 of the Organic Products and Production Act 2023
-  - **designated market** means,—
-    (a) for the initial and interim licences, a market listed in Schedule 5; and
-    (b) for the licences that apply following the initial and interim licences, a market listed in Schedule 5A
+  - **designated market** means a market listed in Schedule 5A
   - **eligible participant** means a person who—
     (a) is eligible to hold an export licence; and
     (b) collects at least 0.1% of total milk solids collected from farmers in New Zealand based on the most representative data of total milk solids collected in New Zealand in the latest year that data is available prior to an allocation period
@@ -88,10 +86,9 @@ The purpose of this Act is to—
       (i) only 1 trustee, the trustee acting in their capacity as trustee:
       (ii) more than 1 trustee, the trustees acting jointly in their capacity as trustees:
     (d) an unincorporated body (including a partnership)
+  - **EU FTA** means the Free Trade Agreement between New Zealand and the European Union, done at Brussels on 9 July 2023
   - **export** means any shipment in any craft for transportation to a point outside New Zealand
-  - **export licence** , in respect of a designated market, means any of the following:
-    (a) the initial licences of the Board:
-    (b) a licence allocated under section 25, 26, or 29
+  - **export licence** , in respect of a designated market, means a licence allocated under section 26
   - **farm gate milk price** means the total cost of milk divided by kilograms of milk solids that new co-op pays out to shareholder farmers in a season
   - **general export licence** means an export licence allocated under section 26(5)
   - **herd testing** means the testing of milk cows for the purpose of recording the production of individual cows in respect of milk or components of milk
@@ -106,8 +103,6 @@ The purpose of this Act is to—
   - **independent processor** —
     (a) means a processor of milk or milk solids or dairy products who is not an associated person of new co-op; and
     (b) includes New Zealand Dairy Foods Limited and any associated person of that company other than new co-op
-  - **initial licence** means each licence conferred on the Board by section 24
-  - **initial period** has the meaning given by section 24
   - **insolvency** , in relation to the Board, means—
     (a) the appointment of a receiver in respect of all or substantially all of the property of the Board; or
     (b) the appointment of a liquidator or interim liquidator under Part 16 of the Companies Act 1993; or
@@ -115,14 +110,6 @@ The purpose of this Act is to—
     (d) the appointment of a statutory manager under Part 3 of the Corporations (Investigation and Management) Act 1989
   - **intended manager** , in relation to the core database, means an entity named as the intended manager of the core database by regulations made under section 65B
   - **interconnected body corporate** has the meaning given by section 2(7) of the Commerce Act 1986
-  - **interim licence** means, in respect of exports to designated markets in—
-    (a) Canada, the licence for the period beginning on the commencement of the Dairy Industry Restructuring Amendment Act 2007 and ending on 31 December 2007 for a quantity of butter not exceeding 2 000 tonnes; and
-    (b) the Dominican Republic, a licence for the period beginning on the commencement of the Dairy Industry Restructuring Amendment Act 2007 and ending on 31 December 2007 for a quantity of milk powder not exceeding 4 800 tonnes; and
-    (c) the European Communities—
-      (i) as described in section 25(2)﻿(a), a licence for the period beginning on 1 January 2008 and ending on 31 December 2008 for the quantities described in that section; and
-      (ii) as described in section 25(2)﻿(b), a licence for the period beginning on 1 January 2009 and ending on 31 December 2009 for the quantities described in that section; and
-      (iii) as described in section 25(2)﻿(c), a licence for the period beginning on 1 January 2010 and ending on 31 December 2010 for the quantities described in that section
-  - **interim period** means the period for which an interim licence is valid
   - **June price** means the price of a co-operative share determined as at 1 June by new co-op’s board under its constitution
   - **kilograms of milk solids** means the number of kilograms of milk solids supplied to new co-op in a season by shareholding farmers
   - **LIC** means Livestock Improvement Corporation Limited
@@ -162,7 +149,7 @@ The purpose of this Act is to—
     (c) copies of the document or information may be purchased by any person at a reasonable price
   - **published price** means the price of a co-operative share set under section 77(1) or amended under section 77(2) as published by new co-op
   - **quota year** means, for designated markets in—
-    (a) the European Communities, the United States of America, the Dominican Republic, and the United Kingdom, a period of 12 months beginning on 1 January and ending on 31 December; and
+    (a) the European Union, the United States of America, the Dominican Republic, and the United Kingdom, a period of 12 months beginning on 1 January and ending on 31 December; and
     (b) Japan, a period of 12 months beginning on 1 April and ending on 31 March in the following year
   - **quoted** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **raw milk** —
@@ -288,60 +275,39 @@ This Act binds the Crown.
   (c) safeguard New Zealand’s interests in respect of those tariff quotas:
   (d) ensure that the administrative and other arrangements made are consistent with New Zealand’s international obligations.
 (2) The Crown owns the rights to secure the economic benefits deriving from the tariff quotas referred to in subsection (1).
-(3) Those rights in respect of designated markets described in Schedules 5 and 5A are or will be allocated as provided by this subpart.
+(3) Those rights in respect of designated markets described in Schedule 5A are or will be allocated as provided by this subpart.
 (4) This subpart does not prevent the Crown from engaging in international trade negotiations for the purpose of establishing, amending, or terminating tariff quotas.
 
 ### 22 Overview
 (1) Section 23 restricts exports to designated markets.
-(2) Sections 24 and 25 confer initial export licences on the Board.
+(2)
 (3) Sections 26 to 42 contain provisions relating to further export licences, restrictions on dealing with export licences, transferring export licences, enforcement, cost recovery, Ministerial directions on international obligations, and other miscellaneous provisions.
 
 ### 23 Restrictions on exports to designated markets
-(1) A person must not export directly or indirectly to a designated market any dairy product that is described in Schedules 5 and 5A for that market unless he or she—
+(1) A person must not export directly or indirectly to a designated market any dairy product that is described in Schedule 5A for that market unless he or she—
   (a) is the holder of a current export licence; and
   (b) exports product in accordance with that licence in respect to the product and market.
-(2) No export restrictions apply to a designated market listed in Schedule 5 after the expiry of the applicable initial and interim periods unless that designated market is listed in Schedule 5A.
+(2)
 
 **Export licences conferred on Board**
 
 ### 24 Licences during initial period
-(1) The Board has the licences to export to each designated market until the end of the initial period.
-(2) The initial period is,—
-  (a) in respect of exports to designated markets in Canada, the period ending on 31 July 2007:
-  (b) in respect of exports to designated markets in the European Communities, the period ending on 31 December 2007:
-  (c) in respect of exports of cheddar cheese and low-fat cheese to designated markets in the United States of America, the period ending on 31 December 2008:
-  (d) in respect of exports of NSPF cheese and other American-type cheeses to designated markets in the United States of America, the period ending on 31 December 2009:
-  (e) in respect of exports to designated markets in Japan, the period ending on 31 March 2010:
-  (f) in respect of exports to designated markets in the Dominican Republic, the period ending on 30 June 2007.
+[Repealed]
 
 ### 25 Reduction of licences in respect of designated markets in European Communities during the interim period
-(1) The Board holds the interim licences to export to designated markets in the European Communities for the periods and the reduced amounts specified in subsection (2).
-(2) The reductions applying to the interim licences for designated markets in the European Communities must result in each licence being,—
-  (a) in the 12 months to 31 December 2008,—
-    (i) in the case of butter, for the lesser of 75% of the total available quantity and 57 500 tonnes of that butter:
-    (ii) in the case of cheese for processing, for the lesser of 75% of the total available quantity and 3 000 tonnes of that cheese:
-    (iii) in the case of cheddar cheese, for the lesser of 75% of the total available quantity and 5 250 tonnes of that cheese:
-  (b) in the 12 months to 31 December 2009,—
-    (i) in the case of butter, for the lesser of 50% of the total available quantity and 38 333 tonnes of that butter:
-    (ii) in the case of cheese for processing, for the lesser of 50% of the total available quantity and 2 000 tonnes of that cheese:
-    (iii) in the case of cheddar cheese, for the lesser of 50% of the total available quantity and 3 500 tonnes of that cheese:
-  (c) in the 12 months to 31 December 2010,—
-    (i) in the case of butter, for the lesser of 25% of the total available quantity and 19 166 tonnes of that butter:
-    (ii) in the case of cheese for processing, for the lesser of 25% of the total available quantity and 1 000 tonnes of that cheese:
-    (iii) in the case of cheddar cheese, for the lesser of 25% of the total available quantity and 1 750 tonnes of that cheese.
+[Repealed]
 
 ### 25A Export licence conferred on Board by section 24 or 25 must be recorded in register of export licence holders
-(1) The chief executive must record an export licence conferred on the Board by section 24 or 25 in the register of export licence holders in accordance with section 29B as soon as reasonably practicable after the commencement of the Dairy Industry Restructuring Amendment Act 2007.
-(2) The Board must supply all necessary information to the chief executive for the purpose of subsection (1).
+[Repealed]
 
 ### 26 Later allocation of export licences
 (1) The following are vested in or revert to the Crown:
-  (a) any rights in respect of designated markets that become available as a result of the expiry of the initial period under section 24:
-  (b) any rights in respect of designated markets in the European Communities listed in Schedule 5A that become available as a result of reductions under section 25:
-  (c) any quantities that become available as a result of increases in rights in respect of designated markets listed in Schedule 5A after the initial periods, except where the quantities are reallocated in accordance with section 27A(2):
+  (a)
+  (b)
+  (c) any quantities that become available as a result of increases in rights in respect of designated markets listed in Schedule 5A, except where the quantities are reallocated in accordance with section 27A(2):
   (d) any rights in respect of designated markets listed in Schedule 5A that become available at the expiry of any other allocations:
   (e) any rights in respect of the United Kingdom listed in Schedule 5A that become available at the expiry of any other allocations.
-(2) Following the expiry of the initial and interim licences, export licences for the designated markets listed in Schedule 5A must be allocated or reallocated by, or on behalf of, the Crown.
+(2) Export licences for the designated markets listed in Schedule 5A must be allocated or reallocated by, or on behalf of, the Crown.
 (3) The Minister must, in accordance with the rules set out in Schedule 5B, allocate export licences to multiple participants for the designated markets listed in Schedule 5A unless subsection (4) applies.
 (4) If the Minister is satisfied that an allocation under subsection (3) is not appropriate, having regard to the purpose in section 21(1), the Minister may recommend to the Governor-General that an Order in Council is made to allocate or reallocate export licences under subsection (7).
 (5) The Minister may allocate a general export licence for trade at the normal tariff (outside the terms of the quota), in respect of a designated market listed in Schedule 5A, that may be used by any person eligible to hold an export licence for any quantity of the product for which the licence applies.
@@ -362,21 +328,23 @@ This Act binds the Crown.
   - **UK FTA** means the Free Trade Agreement between New Zealand and the United Kingdom of Great Britain and Northern Ireland, done at London on 28 February 2022
   - **UK WTO tariff quota** means a UK WTO tariff quota listed in Schedule 5A.
 
-### 27 Increases in rights to export to designated markets during initial period
-(1) This section applies if, during the initial period, there is an increase in the Crown’s rights to secure the economic benefits that are obtained from designated markets that are not allocated in an existing export licence.
-(2) Any such increase vests automatically in the Board as part of the initial licences conferred on the Board under this subpart.
+### 26B Commencement of EU FTA tariff quotas
+(1) If the EU FTA first comes into force on a day other than 1 January in any year, an EU FTA tariff quota must be applied in that year on a pro rata basis.
+(2) In this section, EU FTA tariff quota means an EU FTA tariff quota listed in Schedule 5A.
 
-### 27A Increases or reductions in rights to export to designated markets after initial period
-(1) This section applies if, after the initial period, there is an increase or reduction in rights to secure economic benefits from designated markets that are not allocated in an existing export licence.
+### 27 Increases in rights to export to designated markets during initial period
+[Repealed]
+
+### 27A Increases or reductions in rights to export to designated markets
+(1) This section applies if there is an increase or reduction in rights to secure economic benefits from designated markets that are not allocated in an existing export licence.
 (2) An increase in a right to export to a designated market during the course of an allocation period accrues on a pro rata basis to the registered holders of export licences at the time the increase first becomes available for use.
 (3) A reduction in a right to export to a designated market during the course of an allocation period applies on a pro rata basis to the registered holders of export licences for that designated market at the time the volumes reduce.
-(4) In the case of interim licences held by the Board, the allocation period for any licence for a specified quantity is the period for which the licence is valid for that quantity.
+(4)
 (5) An accrual under subsection (2) and a reduction under subsection (3) applies only for the remainder of the allocation period.
 (6) An accrual or reduction referred to in subsection (5) must be recorded in the register of export licence holders that is kept in accordance with section 29B.
 
 ### 28 Restriction on transfer of initial licences
-(1) The Board may not transfer, sub-license, or otherwise dispose of an initial licence in respect of a designated market to any other person.
-(2) In order to comply with the restriction on transfer in subsection (1) and for the purposes of the Customs and Excise Act 2018, the Board must own any dairy products which it exports to designated markets.
+[Repealed]
 
 **Transferring export licences**
 
@@ -384,21 +352,13 @@ This Act binds the Crown.
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the purpose of governing the transfer of export licences or parts of export licences.
 (2) Export licences may be transferred only in accordance with regulations made in accordance with subsection (1).
 (3) The chief executive is responsible for administering the transfer of export licences.
-(4) Subsection (1) applies subject to section 28.
+(4)
 (5) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Revocation of initial licences**
 
 ### 29 Revocation of initial licences
-(1) All of the initial licences of the Board are revoked in the case of—
-  (a) the Board’s insolvency:
-  (b) new co-op ceasing to control the Board.
-(2) An initial licence of the Board is revoked if the Board transfers, sub-licenses, or otherwise disposes of any rights conferred by it to another person.
-(3) The rights conferred by a licence that is revoked revert to the Crown.
-(4) The Governor-General may, by Order in Council made on the recommendation of the Minister, allocate new licences in respect of the rights that revert to the Crown under this section.
-(5) Before making a recommendation under subsection (4), the Minister must have regard to the purpose in section 21(1).
-(6) Subsection (1) does not limit the Governor-General’s power under subsection (4) to allocate new licences in respect of those rights to the Board or new co-op.
-(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 **Quota trade completed before trade at normal tariff**
 
@@ -2311,27 +2271,19 @@ In this Part, commencement date means the date on which section 28 of the Dairy 
 
 ## Schedule 5 — Designated markets for initial and interim licences
 
-| Market | Product | Further product description |
-| --- | --- | --- |
-| European Communities | Butter | Destined for import into the European Communities under the tariff quota for butter of New Zealand origin, as provided for in the Current Access Quotas part of Section I–B of Schedule CXL/European Communities of the World Trade Organization (this being the document circulated as WTO document G/L/65) or any successor to that schedule. |
-| European Communities | Cheddar cheese | Destined for import into the European Communities under the tariff quota for cheddar cheese of New Zealand origin, as provided for in the Current Access Quotas part of Section I–B of Schedule CXL/European Communities of the World Trade Organization (this being the document circulated as WTO document G/L/65) or any successor to that schedule. |
-| European Communities | Cheese for processing | Destined for import into the European Communities under the tariff quota for cheese for processing of New Zealand origin, as provided for in the Current Access Quotas part of Section I–B of Schedule CXL/European Communities of the World Trade Organization (this being the document circulated as WTO document G/L/65) or any successor to that schedule. |
-| United States of America | Cheddar cheese | Product which falls within the product description provided in headnote 16 of Schedule XX/United States of the World Trade Organization for entry under the tariff quota for cheddar cheese of New Zealand origin, even if the product is destined for import into the United States other than under the terms of that tariff quota. |
-| United States of America | Low-fat cheese | Product which falls within the product description provided in headnote 21 of Schedule XX/United States of the World Trade Organization for entry under the tariff quota for low-fat cheese of New Zealand origin, even if the product is destined for import into the United States other than under the terms of that tariff quota. |
-| United States of America | NSPF cheese | Cheese and substitutes for cheese which fall within the product description provided in headnote 14 of Schedule XX/United States of the World Trade Organization for entry under the tariff quota for cheese of New Zealand origin, even if the product is destined for import into the United States other than under the terms of that tariff quota. |
-| United States of America | Other American-type cheese | Product which falls within the product description provided in headnote 17 of Schedule XX/United States of the World Trade Organization for entry under the tariff quota for other American-type cheese of New Zealand origin, even if the product is destined for import into the United States other than under the terms of that tariff quota. |
-| Canada | Butter | Butter falling within HS code 0405.10. |
-| Japan | Prepared edible fat | Product falling within HS code 2106.90 which falls within the product description provided in Schedule XXXVIII/Japan of the World Trade Organization for entry under the tariff quota for prepared edible fat of New Zealand origin, even if the product is destined for import into Japan other than under the terms of that tariff quota. |
-| Japan | Cheese | Product falling within HS code 0406 excluding—acheeses not made from cows milk; andbmascarpone, ricotta, feta, blue mould cheeses, and white mould cheeses, in each case in immediate packages having a net content not exceeding 12 kilograms; andcall other cheese in immediate packages having a net content not exceeding 3 kilograms (prepared for immediate consumption, not for further processing). |
-| Dominican Republic | Milk powder | Product which falls within the product description provided in Schedule XXIII/Dominican Republic of the World Trade Organization for entry under the tariff quota for milk powder of New Zealand origin, even if the product is destined for import into the Dominican Republic other than under the terms of that tariff quota. |
-
-## Schedule 5A — Designated markets following expiry of initial and interim licences
+## Schedule 5A — Designated markets
 
 | Market | Product | Further product description |
 | --- | --- | --- |
-| European Communities | Butter | Destined for import into the European Communities under the tariff quota for butter of New Zealand origin, as provided for in the Current Access Quotas part of Section I-B of Schedule CXL/European Communities of the World Trade Organization (this being the document circulated as WTO document G/L/65), including any amendment or any successor to that schedule. |
-| European Communities | Cheddar cheese | Destined for import into the European Communities under the tariff quota for cheddar cheese of New Zealand origin, as provided for in the Current Access Quotas part of Section I-B of Schedule CXL/European Communities of the World Trade Organization (this being the document circulated as WTO document G/L/65), including any amendment or any successor to that schedule. |
-| European Communities | Cheese for processing | Destined for import into the European Communities under the tariff quota for cheese for processing of New Zealand origin, as provided for in the Current Access Quotas part of Section I-B of Schedule CXL/European Communities of the World Trade Organization (this being the document circulated as WTO document G/L/65), including any amendment or any successor to that schedule. |
+| EU WTO tariff quotas |  |  |
+| European Union | Butter | Destined for import into the European Union under the tariff quota for butter of New Zealand origin, as provided for in the Current Access Quotas part of Section I-B of Schedule CLXXV/European Union of the World Trade Organization and as set out in paragraph 25(d)-(f), Section C, Annex 2-A of the EU FTA, including any amendment or any successor to that schedule or annex. |
+| European Union | Cheese | Destined for import into the European Union under the tariff quota for cheddar cheese and cheese for processing of New Zealand origin, as provided for in the Current Access Quotas part of Section I-B of Schedule CLXXV/European Union of the World Trade Organization and as set out in paragraph 26(d), Section C, Annex 2-A of the EU FTA, including any amendment or any successor to that schedule or annex. |
+| EU FTA tariff quotas |  |  |
+| European Union | Milk powders | Destined for import into the European Union under the tariff quota for milk powders of New Zealand origin, as set out in paragraph 24, Section C, Annex 2-A of the EU FTA, including any amendment or any successor to that annex. |
+| European Union | Butter | Destined for import into the European Union under the tariff quota for butter of New Zealand origin, as set out in paragraph 25(a)-(c), Section C, Annex 2-A of the EU FTA, including any amendment or any successor to that annex. |
+| European Union | Cheese | Destined for import into the European Union under the tariff quota for cheese of New Zealand origin, as set out in paragraph 26(a)-(c), Section C, Annex 2-A of the EU FTA, including any amendment or any successor to that annex. |
+| European Union | Dairy processed agricultural products and high protein whey | Destined for import into the European Union under the tariff quota for dairy processed agricultural products and high protein whey of New Zealand origin, as set out in paragraph 27, Section C, Annex 2-A of the EU FTA, including any amendment or any successor to that annex. |
+| Other WTO tariff quotas |  |  |
 | United States of America | Cheddar cheese | Product that falls within the product description provided in headnote 16 of Schedule XX/United States of America of the World Trade Organization for entry under the tariff quota for cheddar cheese of New Zealand origin, only including those quantities for which designated importer import licences are issued in accordance with United States of America law, and not including product destined for import into the United States of America other than under the terms of that tariff quota. |
 | United States of America | Low-fat cheese | Product that falls within the product description provided in headnote 21 of Schedule XX/United States of America of the World Trade Organization for entry under the tariff quota for low-fat cheese of New Zealand origin, not including product destined for import into the United States of America other than under the terms of that tariff quota. |
 | United States of America | NSPF cheese | Cheese and substitutes for cheese that fall within the product description provided in headnote 14 of Schedule XX/United States of America of the World Trade Organization for entry under the tariff quota for cheese of New Zealand origin, only including those quantities for which designated importer import licences are issued in accordance with United States of America law, and not including product destined for import into the United States of America other than under the terms of that tariff quota. |
