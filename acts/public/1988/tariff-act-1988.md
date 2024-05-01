@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2023-05-31_
+_Consolidation as at 2024-05-01_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -29,6 +29,7 @@ _Consolidation as at 2023-05-31_
   - **PACER Plus** means the Pacific Agreement on Closer Economic Relations Plus done at Nuku’alofa, Tonga, on 14 June 2017
   - **preferential abbreviation** has the meaning given to it by section 7(3)
   - **preferential country** has the meaning given to it by section 7(3)
+  - **preferential group of countries** has the meaning given to it by section 7(3)
   - **Preferential Tariff** means the rates of duty and the exemptions from duty specified in the column headed Preferential Tariff in the Tariff; and includes any modification or amendment thereof that may hereafter be made
   - **prescribed** in relation to forms includes prescribed by the chief executive
   - **rate of duty** includes the term Free
@@ -84,14 +85,15 @@ Except as otherwise expressly provided in this Act, the value of any imported go
 Subject to this Act, the duty (if any) payable under the Normal Tariff shall be paid on all goods imported into New Zealand or entered therein for home consumption or entered therein for delivery to a manufacturing area.
 
 ### 7 Application of Tariff
-(1) The Tariff applies to goods in a Tariff item that are the produce or manufacture of a preferential country at the rate—
+(1) The Tariff applies to goods in a Tariff item that are the produce or manufacture of a preferential country or preferential group of countries at the rate—
   (a) specified after the preferential abbreviation (if any) in the column of the Tariff headed Preferential Tariff; or
-  (b) specified in some other way (for example, in a footnote or other indicator) in the Tariff by reference to the preferential country or the preferential abbreviation; or
-  (c) specified in an agreement or document incorporated into an Order in Council in reliance on section 7C by reference to the preferential abbreviation or to the preferential country.
-(2) The liability to duty of any goods that are the produce or manufacture of a country must, for the purposes of this section, be determined according to the status of that country at the time when the goods are imported into New Zealand.
+  (b) specified in some other way (for example, in a footnote or other indicator) in the Tariff by reference to the preferential country or group of countries or the preferential abbreviation; or
+  (c) specified in an agreement or document incorporated into an Order in Council in reliance on section 7C by reference to the preferential abbreviation or to the preferential country or group of countries.
+(2) The liability to duty of any goods that are the produce or manufacture of a country or group of countries must, for the purposes of this section, be determined according to the status of that country or group of countries at the time when the goods are imported into New Zealand.
 (3) In this section, unless the context otherwise requires,—
-  - **preferential abbreviation** , in relation to a preferential country listed or described in the first column of note 3 of the Tariff, means the abbreviation specified opposite that country in the second column of that note
-  - **preferential country** means a country listed or described in the first column of note 3 of the Tariff.
+  - **preferential abbreviation** , in relation to a preferential country or preferential group of countries listed or described in the first column of note 3 of the Tariff, means the abbreviation specified opposite that country or group of countries in the second column of that note
+  - **preferential country** means a country listed or described in the first column of note 3 of the Tariff
+  - **preferential group of countries** means a group of countries listed or described in the first column of note 3 of the Tariff.
 
 ### 7A Orders in Council about preferential countries
 (1) The Governor-General may, by Order in Council, do all or any of the following:
@@ -175,7 +177,7 @@ An amendment to, or replacement of, provisions incorporated under section 7C has
 ### 9 Alterations and modifications of Tariff
 (1) Subject to subsection (2), the Governor-General may, by Order in Council, alter the existing Tariff in whole or in part and may impose on any goods such duties, or create such exemptions from duties, as the Governor-General thinks fit.
 (2) The Governor-General shall not make an Order in Council under this section which has the effect of imposing on any goods a higher duty than specified in respect of those goods in the Normal Tariff, unless the Governor-General is satisfied that such an order is necessary or advisable in the public interest and is in conformity with New Zealand's international obligations.
-(3) Any Order in Council under this section may relate generally to all goods or to goods of any specified class or classes or to goods imported from any specified country or from any specified person.
+(3) Any Order in Council under this section may relate generally to all goods or to goods of any specified class or classes or to goods imported from any specified country or group of countries, or from any specified person.
 (4) Section 9C applies to an order under this section.
 
 ### 9A Certification of 2010 Tariff Document
@@ -282,6 +284,7 @@ In this section and sections 15B to 15H, unless the context otherwise requires,�
   - **directly competitive goods** , in relation to any goods, means goods that, as a matter of fact and commercial common sense, are substitutable for imported goods
   - **emergency action investigation** means an emergency action investigation started under section 15B(1A)
   - **emergency action measure** means an emergency action measure applied under section 15F
+  - **EU FTA** means the Free Trade Agreement between New Zealand and the European Union, done at Brussels on 9 July 2023
   - **free trade agreement** means—
     (a) the Thai FTA; or
     (b) the China FTA; or
@@ -291,7 +294,8 @@ In this section and sections 15B to 15H, unless the context otherwise requires,�
     (f) the CPTPP; or
     (g) the TPP; or
     (h) the RCEP; or
-    (i) the UK FTA
+    (i) the UK FTA; or
+    (j) the EU FTA
   - **industry** , in relation to any goods, means—
     (a) the New Zealand producers, as a whole, of like or directly competitive goods; or
     (b) the New Zealand producers of like or directly competitive goods whose collective output constitutes a major proportion of the total production of those goods
@@ -386,7 +390,7 @@ The Minister may extend a transitional safeguard or emergency action measure app
     (ii) are causing, or threatening to cause, serious injury to an industry producing a like or directly competitive good; and
   (b) there exist,—
     (i) in relation to a provisional transitional safeguard measure to be applied under the Thai FTA, highly unusual and critical circumstances; or
-    (ii) in relation to a provisional transitional safeguard measure to be applied under the China FTA, the AANZFTA, the Malaysia FTA, the Republic of Korea FTA, the RCEP, or the UK FTA, critical circumstances; and
+    (ii) in relation to a provisional transitional safeguard measure to be applied under the China FTA, the AANZFTA, the Malaysia FTA, the Republic of Korea FTA, the RCEP, the UK FTA, or the EU FTA, critical circumstances; and
   (c) the delay in applying a transitional safeguard measure under section 15F would cause serious injury to the industry which would be difficult to repair.
 (2) A provisional transitional safeguard measure applies on and from—
   (a) the date specified in the measure (which may be a date before, on, or after the date on which the determination is made); or
