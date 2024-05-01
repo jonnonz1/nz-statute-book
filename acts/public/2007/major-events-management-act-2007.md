@@ -1,5 +1,5 @@
 # Major Events Management Act 2007
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2024-05-01_
 
 ### 1 Title
 This Act is the Major Events Management Act 2007.
@@ -333,7 +333,7 @@ It is a defence to a prosecution for an offence against section 28, in relation 
 Nothing in this Act affects any principle of law or any other remedy in any other Act, including—
   (a) the law relating to passing off; or
   (b) rights under the Fair Trading Act 1986; or
-  (c) rights under the Geographical Indications (Wines and Spirits) Registration Act 2006; or
+  (c) rights under the Geographical Indications Registration Act 2006; or
   (d) rights under the Trade Marks Act 2002; or
   (e) rights under the Copyright Act 1994.
 
