@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2024-05-01_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -117,7 +117,7 @@ In this Act,—
     (b) that probate of the will of the deceased owner or letters of administration in his or her estate have not been granted or resealed in New Zealand:
     (c) that the interests of the creditors of the deceased owner, and of all persons beneficially interested under his or her will or on his or her intestacy, will be adequately safeguarded if the Commissioner registers the qualified person as the owner of the trade mark
   - **register** means the register of trade marks kept under section 181
-  - **registered geographical indication** has the same meaning as in section 7(1) of the Geographical Indications (Wine and Spirits) Registration Act 2006
+  - **registered geographical indication** has the same meaning as in section 7(1) of the Geographical Indications Registration Act 2006
   - **registered trade mark** means, subject to section 60, a trade mark that is on the register
   - **regulations** means, except in sections 54 to 56, 63, 79, and 80, regulations in force under this Act
   - **series of trade marks** means a number of trade marks for the same goods or description of goods or the same services or description of services (as the case may be) that—
@@ -271,15 +271,20 @@ A collective trade mark may be registered in the name of a collective associatio
 
 ### 20 Trade mark that contains geographical indication must not be registered in certain circumstances
 (1) The Commissioner must not register a trade mark if—
-  (a) a registered geographical indication for a wine or spirit exists under the Geographical Indications (Wine and Spirits) Registration Act 2006 and—
-    (i) the trade mark contains the registered geographical indication for a wine or spirit; and
-    (ii) the trade mark relates to a wine or spirit that does not originate in the place of geographical origin to which the registered geographical indication relates; and
+  (a) a registered geographical indication for a wine, spirit, or other good exists under the Geographical Indications Registration Act 2006 and—
+    (i) the trade mark contains the registered geographical indication for a wine, spirit, or other good; and
+    (ii) the trade mark relates to a wine, spirit, or other good that does not originate in the place of geographical origin to which the registered geographical indication relates; and
     (iii) the use of the trade mark is likely to deceive or confuse; or
-  (b) an application for registration of a geographical indication for a wine or spirit has been made in good faith under the Geographical Indications (Wine and Spirits) Registration Act 2006 and—
+  (b) an application for registration of a New Zealand or foreign geographical indication for a wine or spirit has been made in good faith under the Geographical Indications Registration Act 2006 and—
     (i) the trade mark contains the geographical indication that is the subject of the application for registration; and
     (ii) the trade mark relates to a wine or spirit that does not originate in the place of geographical origin to which the geographical indication relates; and
     (iii) the use of the trade mark is likely to deceive or confuse; and
-    (iv) if registered, the deemed date of registration of the geographical indication is earlier than the deemed date of registration of the trade mark (if registered).
+    (iv) if registered, the deemed date of registration of the geographical indication is earlier than the deemed date of registration of the trade mark (if registered); or
+  (c) the Registrar of Geographical Indications has given public notice of the proposed registration or change to registration of an EU FTA geographical indication under section 58(2)﻿(a) of the Geographical Indications Registration Act 2006 and—
+    (i) the trade mark contains the geographical indication that is the subject of the proposed registration or change to registration; and
+    (ii) the trade mark relates to a wine, spirit, or other good that does not originate in the place of geographical origin to which the geographical indication relates; and
+    (iii) the use of the trade mark is likely to deceive or confuse; and
+    (iv) if the geographical indication is registered or changed, the deemed date of registration is earlier than the deemed date of registration of the trade mark (if registered).
 (2) This section does not apply if the Commissioner or the court, as the case may be, considers that a case of honest concurrent use exists that, in the opinion of the Commissioner or the court, makes it proper for the trade mark to be registered, subject to any conditions that the Commissioner or the court may impose.
 
 ### 21 Trade mark that contains commonly used chemical names must not be registered
@@ -730,7 +735,7 @@ Nothing in this Act prevents a licensee from assigning or transmitting the right
 Nothing in this Act affects—
   (a) the law relating to passing off; or
   (b) rights under the Fair Trading Act 1986; or
-  (c) rights under the Geographical Indications (Wine and Spirits) Registration Act 2006.
+  (c) rights under the Geographical Indications Registration Act 2006.
 
 **Acts amounting to infringement**
 
@@ -817,7 +822,7 @@ A trade mark registered in respect of goods is not infringed by its use in relat
 (2) Subsection (1) applies only to the use of a trade mark in relation to a medicine that is imported by the Crown under section 32A of the Medicines Act 1981.
 
 ### 98A No infringement through use of registered geographical indication
-A registered trade mark is not infringed by the lawful use of a registered geographical indication registered under the Geographical Indications (Wine and Spirits) Registration Act 2006.
+A registered trade mark is not infringed by the lawful use of a registered geographical indication registered under the Geographical Indications Registration Act 2006.
 
 **When infringement proceedings may be brought**
 
@@ -2019,6 +2024,14 @@ The Commissioner may, at the written request of the person who has made an appli
 ### 195 Fees
 (1) Any sum paid to the Commissioner by mistake, or any sum the payment of which is not required by this Act, may be refunded by the Commissioner.
 (2) All money that is so refunded must be paid out of public money without further appropriation than this Act.
+
+### 195A Use of fees under this Act
+(1) A fee, or a portion of a fee, payable to the Commissioner under this Act may be used to recover the costs, or a share of the costs, of the Registrar of Geographical Indications in the performance of the Registrar’s functions, powers, and duties under the Geographical Indications Registration Act 2006.
+(2) The costs recovered in accordance with subsection (1), and the functions, powers, and duties in relation to which those costs were incurred, need not be related, directly or indirectly, to the person or persons from whom the fee is collected.
+
+### 195B Validation of fees used to recover costs of register of geographical indications
+(1) This section applies to a fee payable to the Commissioner under this Act that is or was payable under this Act on or before the commencement of the European Union Free Trade Agreement Legislation Amendment Act 2024.
+(2) Money received by the Commissioner in payment of the fee may be applied on or after the commencement of the European Union Free Trade Agreement Legislation Amendment Act 2024 to recover the costs or a share of the costs of the Registrar of Geographical Indications in accordance with section 195A of this Act.
 
 **Service of notices**
 
