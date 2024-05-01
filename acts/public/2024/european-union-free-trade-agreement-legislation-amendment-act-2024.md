@@ -1,5 +1,5 @@
 # European Union Free Trade Agreement Legislation Amendment Act 2024
-_Consolidation as at 2024-03-25_
+_Consolidation as at 2024-05-01_
 
 ### 1 Title
 This Act is the European Union Free Trade Agreement Legislation Amendment Act 2024.
