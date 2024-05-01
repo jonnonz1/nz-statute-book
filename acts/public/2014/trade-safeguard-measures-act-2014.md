@@ -1,5 +1,5 @@
 # Trade (Safeguard Measures) Act 2014
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2024-05-01_
 
 ### 1 Title
 This Act is the Trade (Safeguard Measures) Act 2014.
@@ -20,7 +20,7 @@ The purpose of this Act is to enable New Zealand to apply safeguard measures and
 (3) New Zealand's other trade remedies are—
   (a) anti-dumping duties under the Trade (Anti-dumping and Countervailing Duties) Act 1988 in relation to goods that are imported into New Zealand at less than their normal value in the exporting country:
   (b) countervailing duties under the Trade (Anti-dumping and Countervailing Duties) Act 1988 in relation to goods imported into New Zealand that are subsidised by a foreign government:
-  (c) transitional safeguard measures (including provisional ones) under sections 15A to 15H of the Tariff Act 1988 in relation to imports from a country that is a party to certain free trade agreements with New Zealand.
+  (c) transitional safeguard measures (including provisional ones) under sections 15A to 15H of the Tariff Act 1988 in relation to imports from a country or group of countries that is a party to certain free trade agreements with New Zealand.
 (4) This section is intended as a guide only.
 
 ### 5 Interpretation
