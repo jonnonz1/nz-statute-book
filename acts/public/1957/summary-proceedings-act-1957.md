@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2024-03-01_
+_Consolidation as at 2024-05-01_
 
 > Title
 
@@ -85,6 +85,7 @@ _Consolidation as at 2024-03-01_
     (jj) section 27 of the Freedom Camping Act 2011; or
     (jk) section 362 of the Immigration Act 2009; or
     (jk)
+    (jl) section 122 of the Geographical Indications Registration Act 2006; or
     (k) any provision of any other Act providing for the use of the infringement notice procedure under section 21
   - **infringement offence** means any offence under any Act in respect of which a person may be issued with an infringement notice
   - **Police employee** has the same meaning as in section 4 of the Policing Act 2008
@@ -1889,7 +1890,7 @@ Every employer commits an offence and is liable on conviction to a fine not exce
     (b) in relation to a person to whom any retiring allowance or pension or other payment of a similar nature is payable—
       (i) out of the Government Superannuation Fund, the Government Superannuation Fund Authority:
       (ii) out of the National Provident Fund, the Board of Trustees of the National Provident Fund
-  - **servant of the Crown** means a person in the service of Her Majesty in respect of the Government of New Zealand; and includes a person in temporary or casual service but does not include a person in honorary service; and also includes any person serving in any of the New Zealand Armed Forces; and also includes a person to whom any retiring allowance or pension or other payment of a similar nature is payable out of the Government Superannuation Fund or the National Provident Fund.
+  - **servant of the Crown** means a person in the service of the Sovereign in respect of the Government of New Zealand; and includes a person in temporary or casual service but does not include a person in honorary service; and also includes any person serving in any of the New Zealand Armed Forces; and also includes a person to whom any retiring allowance or pension or other payment of a similar nature is payable out of the Government Superannuation Fund or the National Provident Fund.
 (2) Sections 104 to 106A shall bind the Crown to the extent of and subject to subsection (3).
 (3) If the defendant liable to pay a fine is a servant of the Crown, an attachment order may be made against the Crown as employer.
 
