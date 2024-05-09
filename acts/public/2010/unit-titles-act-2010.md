@@ -1,5 +1,5 @@
 # Unit Titles Act 2010
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-05-09_
 
 ### 1 Title
 This Act is the Unit Titles Act 2010.
@@ -921,6 +921,7 @@ An owner of a principal unit—
   (n) section 135 (which relates to insurance of the buildings and other improvements on the land):
   (o) section 136(4) (which relates to the application of insurance moneys in or towards reinstatement of the development):
   (p) section 138 (which relates to repair and maintenance of the common property, assets designed for use in connection with the common property, infrastructure, and building elements and access for those purposes):
+  (pa) section 202A (which requires the body corporate to retain prescribed documents and produce them to the chief executive on request):
   (q) section 206 (which relates to the provision of records and documents on request from a unit owner):
   (r) any other provisions of this Act, any other Act, or the regulations that confer powers or duties on the body corporate and subject to any limitations to those powers and duties in this Act, any other Act, or the regulations.
 (2) Except as expressly provided in this Act, the body corporate does not have any duties in respect of a future development unit that comprises part of the unit title development.
@@ -1086,6 +1087,10 @@ An extraordinary general meeting must be held in accordance with the regulations
 (1) An eligible voter or his or her proxy may exercise the right to vote at a body corporate meeting by casting a postal vote.
 (2) Every postal vote must be in the prescribed form.
 (3) A postal vote must be sent to the chairperson or to the person authorised by the chairperson to receive and count postal votes.
+
+### 103A Voting: electronic
+(1) An eligible voter may exercise the right to vote at a body corporate meeting by casting a vote electronically before or during a meeting.
+(2) An electronic vote must be cast in accordance with the regulations.
 
 ### 104 Passing of resolution without general meeting
 (1) A resolution may be passed without a general meeting in accordance with this section.
@@ -1278,6 +1283,10 @@ A body corporate manager must comply with the code of conduct for body corporate
 
 ### 117 Long-term maintenance fund
 (1) A body corporate must establish and maintain a long-term maintenance fund unless the body corporate, by special resolution, decides not to establish a long-term maintenance fund.
+(1A) The body corporate may determine the level of funding to be held in the fund.
+(1B) If a body corporate has decided not to establish a fund, the body corporate—
+  (a) must review the decision annually; and
+  (b) may, by special resolution, decide to establish a fund.
 (2) The fund may only be applied towards spending relating to the long-term maintenance plan.
 (3) The body corporate must, by special resolution, approve any amount to be spent on any 1 maintenance item if the amount exceeds the amount specified for that item in the long-term maintenance plan by more than 10%.
 
@@ -1320,6 +1329,7 @@ The body corporate may enter into an agreement with the owner of a future develo
 ### 124 Recovery of levy
 (1) A body corporate must fix the date on or before which payments of levies are due.
 (2) The amount of any unpaid levy, together with any reasonable costs incurred in collecting the levy, is recoverable as a debt due to the body corporate by the person who was the unit owner at the time the levy became payable or by the person who is the unit owner at the time the proceedings are instituted.
+(3) The recovery of reasonable costs under subsection (2) that are legal costs as defined in section 176A(2) is subject to any regulations made under section 176A(1).
 
 ### 125 Recovery of metered charges
 (1) If any amenity or service is supplied to the unit title development and the body corporate installs and maintains a meter recording the use of that amenity or service by any principal unit or accessory unit, the body corporate may charge the owner of that unit the cost of the usage as indicated on the meter.
@@ -1379,13 +1389,7 @@ The body corporate may distribute money or personal property in its possession a
 (8) The body corporate may, at the annual general meeting, decide by special resolution that subsection (2) does not apply for a particular year.
 
 ### 133 Special powers of chief executive for monitoring and reporting on long-term financial and maintenance planning regime
-(1) The purpose of this section is to enable the chief executive to monitor and report on the financial and maintenance planning regimes of bodies corporate.
-(2) For the purpose of this section, a body corporate, on receiving written notice from the chief executive, must permit the chief executive access to—
-  (a) the unit title development; and
-  (b) all relevant information that is in the possession of the body corporate.
-(3) Subsection (2) does not authorise the chief executive, or any person acting on behalf of the chief executive, to enter any principal unit without the unit occupier’s permission.
-(4) In this section, relevant information means any documents relating to the body corporate’s long-term financial and maintenance planning regime.
-(5) The chief executive must give reasonable notice to the body corporate of a request under this section.
+[Repealed]
 
 **Insurance**
 
@@ -1476,8 +1480,8 @@ The body corporate may distribute money or personal property in its possession a
 **Appointment of administrator**
 
 ### 141 Appointment of administrator
-(1) The body corporate, a creditor of the body corporate, or any person having a registered interest in a unit, may apply to the High Court for the appointment of an administrator.
-(2) In the case of a layered development,—
+(1) The body corporate, a creditor of the body corporate, the chief executive, or any person having a registered interest in a unit, may apply to the High Court for the appointment of an administrator.
+(2) In the case of a layered unit title development,—
   (a) a head body corporate or parent body corporate may apply to the High Court for the appointment of an administrator of any 1 of its subsidiaries:
   (b) a subsidiary body corporate may apply to the High Court for the appointment of an administrator of its parent body corporate.
 (3) The High Court may, in its discretion on cause shown, appoint an administrator for an indefinite period or for a fixed period on such terms and conditions as to remuneration or otherwise as it thinks fit.
@@ -1650,6 +1654,18 @@ The body corporate must hold a general meeting within 3 months from the date on 
 ### 157B Employment or engagement of body corporate manager or managers
 The body corporate of a large unit title development must employ or engage 1 or more body corporate managers, unless the body corporate, by special resolution, decides not to do so.
 
+### 157C Additional requirements regarding long-term maintenance plans
+(1) The body corporate of a large unit title development must comply with all the requirements of this section.
+(2) The long-term maintenance plan for the body corporate must—
+  (a) cover a period of at least 30 years from the date of the plan or the last review of the plan; and
+  (b) comply with the requirements and include the matters prescribed by regulations.
+(3) Regulations may prescribe different requirements and matters to be included in a long-term maintenance plan for different parts of the period described in subsection (2)﻿(a).
+(4) The long-term maintenance plan for the body corporate must be reviewed in accordance with this section every 3 years.
+(5) However, if the body corporate becomes aware of any matter that may have a material impact on the long-term maintenance plan, it must review the plan in accordance with this section as soon as practicable (and the date on which the review is conducted becomes the start date from which the next review cycle is calculated).
+(6) The body corporate must, unless it decides by special resolution not to do so, consult with the building professional or professionals, or other suitably qualified professional or professionals, it considers necessary or appropriate—
+  (a) when it develops the long-term maintenance plan; and
+  (b) when it reviews the plan.
+
 ## Part 3 — Special provisions relating to leasehold land
 
 ### 158 Application of this Part
@@ -1813,7 +1829,9 @@ The owner of a future development unit in a unit title development to which this
 (3A) Without limiting the provisions of the Residential Tenancies Act 1986 that apply to a Tenancy Tribunal by virtue of section 176 of this Act, a Tenancy Tribunal may, in relation to a unit title dispute within its jurisdiction under this section, do any of the following:
   (a) order any party to do anything necessary to remedy a breach by that party of an obligation arising under this Act, the body corporate operational rules, or any agreement that is binding on the party and relevant to the unit title dispute:
   (b) order any party to refrain from doing anything that would constitute a breach of an obligation arising under this Act, the body corporate operational rules, or any agreement that is binding on the party and relevant to the unit title dispute:
-  (c) make any supplementary orders of a consequential or ancillary nature necessary to exercise or perfect the exercise of any of its jurisdiction.
+  (ba) make orders for a person to pay a pecuniary penalty under sections 176B to 176E:
+  (c) make any supplementary orders of a consequential or ancillary nature necessary to exercise or perfect the exercise of any of its jurisdiction:
+  (d) determine objections to improvement notices under section 176J.
 (4) The Tribunal does not have jurisdiction—
   (a) to make an order requiring any person or body to pay any sum, or to do any work to a value, or otherwise incur expenditure, in excess of $100,000; or
   (b) to hear a dispute relating to the application of insurance money under section 136(4); or
@@ -1860,7 +1878,97 @@ The owner of a future development unit in a unit title development to which this
   (ba) section 108(2B) (which relates to certain failures to comply with work orders):
   (c) section 109 (which relates to unlawful acts and claims for exemplary damages):
   (d) sections 109B to 109E (which relate to pecuniary penalties).
+(1A) For the purposes of subsection (1), reasonable costs referred to in section 102(3)﻿(b) of the Residential Tenancies Act 1986 that are legal costs must be determined in accordance with regulations made under section 176A if the regulations are in force.
 (2) Without limiting subsection (1), every reference in Part 3 of the Residential Tenancies Act 1986 to this Act is to be read as a reference to the Unit Titles Act 2010.
+
+### 176A Principles and rules for determination of reasonable legal costs
+(1) The Governor-General may, by Order in Council, make regulations prescribing principles and rules for the determination of reasonable costs that are legal costs for the purpose of section 102(3)﻿(b) of the Residential Tenancies Act 1986, as applied to unit title disputes by section 176 of this Act.
+(2) In this section and in section 176,—
+  - **disbursement** —
+    (a) means an expense paid or incurred for the purposes of a proceeding that would ordinarily be charged for separately from legal professional services in a solicitor’s bill of costs; and
+    (b) includes—
+      (i) fees of the Tribunal for the proceeding:
+      (ii) expenses of serving documents for the purposes of the proceeding:
+      (iii) expenses of photocopying documents required by a direction of the Tribunal:
+      (iv) expenses of conducting a conference by telephone or video link; but
+    (c) does not include counsel’s fees
+  - **legal costs** means the costs to a party of legal professional services related to a proceeding, but does not include disbursements.
+(3) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 176B Tribunal may make pecuniary penalty orders
+(1) The Tribunal may, on the application of the chief executive, order a body corporate manager to pay to the Crown the pecuniary penalty that the Tribunal determines to be appropriate if the Tribunal is satisfied that—
+  (a) the body corporate manager has intentionally and without reasonable excuse breached their duty—
+    (i) under section 114I(1) (disclosure of conflict of interest to a body corporate); or
+    (ii) under section 114I(2) (duties when engaged as a body corporate manager by more than 1 body corporate); and
+  (b) the breach of duty has materially and negatively impacted on 1 or more individual unit owners or the body corporate as a whole.
+(2) The Tribunal may, on the application of the chief executive, order a body corporate or a body corporate manager to pay to the Crown the pecuniary penalty that the Tribunal determines to be appropriate if the Tribunal is satisfied that the body corporate, the body corporate manager, or both have intentionally and without reasonable excuse—
+  (a) failed to comply with the requirement to produce documents under section 202A(3); or
+  (b) obstructed or hindered an authorised person in exercising the power of entry to a unit title development under section 202B(1)﻿(b); or
+  (c) failed to comply with an improvement notice issued under section 176F.
+(3) The chief executive may not make an application under subsection (1) or (2) later than 12 months from the date on which the chief executive first became aware of the breach of this Act.
+
+### 176C Maximum amount of pecuniary penalty
+The maximum amount of pecuniary penalty for a breach of this Act is,—
+  (a) for a breach referred to in section 176B(1), $5,000:
+  (b) for a breach referred to in section 176B(2)﻿(a), $1,500:
+  (c) for a breach referred to in section 176B(2)﻿(b) or (c), $3,000.
+
+### 176D Considerations for Tribunal in determining pecuniary penalty
+In determining an appropriate pecuniary penalty, the Tribunal must have regard to all relevant matters, including—
+  (a) the nature and extent of the breach of this Act; and
+  (b) the nature and extent of any loss or damage suffered as a result of the breach; and
+  (c) any gains made or losses avoided by the body corporate or the body corporate manager as a result of the breach; and
+  (d) the circumstances in which the breach took place.
+
+### 176E Only 1 pecuniary penalty order may be made for same conduct
+(1) If conduct by a body corporate constitutes a breach of 2 or more provisions of this Act, proceedings may be brought against that body corporate for the conduct under any 1 or more of the provisions, but no body corporate is liable to more than 1 pecuniary penalty order for the same conduct.
+(2) If conduct by a body corporate manager constitutes a breach of 2 or more provisions of this Act, proceedings may be brought against that body corporate manager for the conduct under any 1 or more of the provisions, but no body corporate manager is liable to more than 1 pecuniary penalty order for the same conduct.
+
+### Subpart 1A — Improvement notices
+
+### 176F Power to issue improvement notices
+(1) This section applies if the chief executive reasonably believes that a person—
+  (a) is contravening a provision of this Act or of regulations made under this Act; or
+  (b) is likely to contravene a provision of this Act or of regulations made under this Act.
+(2) The chief executive may issue an improvement notice requiring the person to—
+  (a) remedy the contravention; or
+  (b) prevent a likely contravention from occurring; or
+  (c) remedy the things or activities causing the contravention or likely to cause a contravention.
+
+### 176G Content of improvement notices
+(1) An improvement notice must state—
+  (a) that the chief executive believes the person—
+    (i) is contravening a provision of this Act or of regulations made under this Act; or
+    (ii) is likely to contravene a provision of this Act or of regulations made under this Act; and
+  (b) the provision the chief executive believes is being, or is likely to be, contravened; and
+  (c) briefly, how the provision is being, or is likely to be, contravened; and
+  (d) a reasonable period within which the person is required to remedy—
+    (i) the contravention or likely contravention; or
+    (ii) the things or activities causing the contravention or likely to cause a contravention.
+(2) An improvement notice may include recommendations concerning—
+  (a) the measures that could be taken to remedy the contravention, or prevent the likely contravention, to which the notice relates:
+  (b) the things or activities causing the contravention, or likely to cause a contravention, to which the notice relates.
+
+### 176H Extension of time for compliance with improvement notices
+(1) This section applies if a person has been issued with an improvement notice.
+(2) The chief executive may, by written notice given to the person, extend the compliance period for the improvement notice.
+(3) However, the chief executive may extend the compliance period only if the period has not ended.
+(4) In this section, compliance period—
+  (a) means the period stated in the improvement notice under section 176G(1)﻿(d); and
+  (b) includes any extension of that period under this section.
+
+### 176I Chief executive may withdraw improvement notice
+(1) The chief executive may withdraw an improvement notice.
+(2) The withdrawal of an improvement notice does not prevent another improvement notice from being served in relation to the same matter.
+
+### 176J Objection to improvement notice
+(1) A person who has been issued with an improvement notice may file an objection with the Tribunal.
+(2) An objection must be filed with the Tribunal within 28 days after the date on which the improvement notice was served on the person.
+(3) In determining the objection, the Tribunal must consider—
+  (a) whether the person has failed, or is likely to fail, to comply with the specified provision of this Act or of regulations made under this Act; and
+  (b) the nature and extent of the failure or likely failure to comply with the provision; and
+  (c) the nature and extent of any loss suffered by any other person specified in section 171(2) in respect of the unit title development to which the failure or likely failure to comply relates.
+(4) The Tribunal may confirm, vary, or rescind the improvement notice as the Tribunal thinks fit.
 
 ### Subpart 2 — Cancellation of unit plans
 
@@ -2102,9 +2210,89 @@ The chief executive is responsible for the administration of this Act.
   (a) the investigation of, and the conduct of research into, any matters generally affecting or that may affect unit titles, or any such matters arising in any particular case:
   (b) the publication of reports, the dissemination of information, and the taking of such steps as the chief executive thinks proper for informing members of the public about the general operation of this Act and of the rights and obligations of bodies corporate, owners, managers, occupiers, and other persons with an interest in any unit title development:
   (c) the giving of opinions and advice to persons on any provisions of this Act or of any other enactment or rule of law relating to unit title developments:
+  (ca) the monitoring and assessing of compliance by bodies corporate and body corporate managers with this Act:
   (d) the investigation, whether on the complaint of a party or not, of any alleged breach of this Act, and the taking of such action, whether involving legal proceedings, negotiation, or arbitration, as the chief executive thinks proper:
   (e) the making of reports to the Minister on any matter relating to unit titles that the Minister may require, or that the chief executive thinks should be drawn to the attention of the Minister.
 (2) Except as required by the Minister under subsection (1)﻿(e), whether or not to perform or exercise any of the functions and powers specified in that subsection in any particular case is a matter for the chief executive’s discretion, and in no circumstance is the chief executive obliged to perform or exercise any such function or power.
+
+### 202A Documents to be retained by body corporate and body corporate manager and produced to chief executive if required
+(1) A body corporate and a body corporate manager must retain any prescribed documents (or copies of them) for at least 3 years.
+(2) The chief executive may, by notice in writing, require a body corporate or body corporate manager to produce to the chief executive any prescribed document, or class of prescribed documents, that—
+  (a) the body corporate or body corporate manager is required to retain under subsection (1); and
+  (b) the chief executive reasonably requires for the purposes of the chief executive’s functions or powers under this Act.
+(3) A body corporate or body corporate manager who receives a notice under subsection (2) must, within 10 working days after receiving the notice, produce the documents to the chief executive in the way specified in the notice.
+(4) Subsection (3) does not apply to a document or part of a document that is protected by legal professional privilege.
+(5) If a document is produced to the chief executive, the chief executive may—
+  (a) inspect and make records of the document; and
+  (b) take copies of the document or extracts from it.
+
+### 202B Power of entry to inspect unit title development
+(1) An authorised person may, at any reasonable time, enter a unit title development to inspect it—
+  (a) with the consent of the body corporate given in accordance with section 202C; or
+  (b) if—
+    (i) the inspection is authorised by an order of the Tribunal under section 202D and is carried out in accordance with any conditions set out in that order; and
+    (ii) the authorised person gives the body corporate at least 24 hours’ written notice of their intention to enter the unit title development.
+(2) The power of entry does not authorise the authorised person to enter any principal unit without the consent of the occupier of that unit given in accordance with section 202C.
+(3) A notice under subsection (1)﻿(b)﻿(ii) must—
+  (a) state that it is given under this section; and
+  (b) state the address of the unit title development to which it relates; and
+  (c) state the time at which, and the date on which, the authorised person proposes to inspect the unit title development; and
+  (d) include a copy, sealed with the Tribunal’s seal, of the Tribunal’s order under section 202D.
+(4) The authorised person’s power to inspect includes the power to do any of the following:
+  (a) to bring into, and operate at, the unit title development any equipment (and to use electricity from the electricity supply at the unit title development for the purpose of operating the equipment):
+  (b) to take or make photographs, sound or video recordings, measurements, or drawings:
+  (c) to take samples of things for analysis:
+  (d) to test things.
+(5) The body corporate must provide the authorised person with all assistance that the authorised person reasonably requests from the body corporate in relation to the inspection, including (for example) assistance reasonably requested for the purpose of enabling the authorised person to enter the unit title development or to access any part of the unit title development (excluding a principal unit).
+(6) A person authorised by the body corporate may accompany the authorised person while the authorised person is inspecting the unit title development.
+(7) An authorised person who enters any unit title development under this section must,—
+  (a) on initial entry, produce evidence of the authorised person’s identity; and
+  (b) while subsequently at the unit title development, produce that evidence to any person who reasonably requests to see it.
+(8) Sections 166 and 167 of the Search and Surveillance Act 2012 apply (with any necessary modifications) in relation to the powers of an authorised person under this section.
+(9) In this section and in section 202C, authorised person means the chief executive or a person authorised by the chief executive.
+
+### 202C Inspection by consent
+(1) An authorised person may, for the purpose of investigating whether a breach of this Act has occurred, ask—
+  (a) a body corporate to consent to an inspection being made of its unit title development (excluding a principal unit or an accessory unit); or
+  (b) a unit title occupier to consent to an inspection being made of their principal unit or their accessory unit.
+(2) Before conducting an inspection by consent, the authorised person who proposes to conduct it must—
+  (a) determine that the inspection is for the purpose authorised by subsection (1); and
+  (b) advise in writing the person from whom consent is sought—
+    (i) of the reason for the proposed inspection; and
+    (ii) that they may either consent to the inspection or refuse to consent to the inspection.
+
+### 202D Tribunal may authorise inspection
+(1) The chief executive may, in relation to a unit title development, apply to the Tribunal for an order authorising an inspection under section 202B.
+(2) The Tribunal may make an order authorising the inspection if it is satisfied that the chief executive has reasonable grounds for believing—
+  (a) that there has been a breach of this Act in relation to unit title development; and
+  (b) that the inspection is reasonably necessary for the purposes of the chief executive’s functions or powers under this Act in relation to the breach.
+(3) The Tribunal’s authorisation under subsection (2) may be given subject to conditions, which must be set out in the order.
+
+### 202E Chief executive may take proceedings in place of specified person
+(1) The chief executive may, if satisfied that it is in the public interest to do so on any of the grounds listed in subsection (2), do any of the following in relation to 1 or more unit title developments:
+  (a) initiate any proceedings in the Tribunal or a court that could be brought by a person specified in section 171(2) (a specified person):
+  (b) defend any proceedings in the Tribunal or a court that are brought against a specified person:
+  (c) assume the conduct of any proceedings in the Tribunal or a court brought by or against a specified person:
+  (d) take any steps that are necessary to enforce or protect the rights of the specified person under this Act in relation to any infringement or suspected infringement of any of those rights.
+(2) The grounds referred to in subsection (1) are as follows:
+  (a) in the chief executive’s opinion, there are allegations of conduct that is likely to cause or have caused a significant risk to the health or safety of any person:
+  (b) in the chief executive’s opinion, a person has committed a serious breach of this Act, or has persistently breached this Act:
+  (c) in the chief executive’s opinion, actions of a person risk undermining public confidence in the administration of this Act.
+(3) The chief executive must not exercise the powers conferred by subsection (1) unless the written consent of the specified person concerned has first been obtained, which, once given, may be revoked only with the written consent of the chief executive.
+
+### 202F Supplementary provision to section 202E
+(1) The chief executive may not initiate any proceedings under section 202E(1) any later than 12 months after the date on which the chief executive becomes aware of the matters on which the proceedings are based.
+(2) If the chief executive acts in the place of a person (A) under section 202E(1), the following provisions apply in relation to the proceedings in question:
+  (a) the chief executive has the same rights and remedies as A, including the right to settle the proceedings:
+  (b) the chief executive may do anything in relation to the proceedings that A could do and, as between the chief executive and A, has control of the proceedings:
+  (c) if the proceedings have already commenced, the Tribunal or court must substitute the chief executive for A as a party to the proceedings:
+  (d) the Tribunal must, on the chief executive’s application, order that any other claim by or against A be dealt with in separate proceedings brought by the claimant against A (and not against the chief executive):
+  (e) any order or judgment may be enforced by the chief executive as if the chief executive were A:
+  (f) any money (excluding costs) recovered by the chief executive must, without any deduction, be paid by the chief executive to A:
+  (g) A must reasonably co-operate with the chief executive.
+(3) The chief executive may, if acting under section 202E, file an application to commence a proceeding that relates to 2 or more unit title developments if 1 person is the body corporate manager of each of the developments.
+(4) If a person is the body corporate manager of 2 or more unit title developments and the chief executive acts under section 202E in relation to 2 or more of those developments, the Tribunal or any court may allow any of the proceedings in question that are before it to be consolidated with 1 or more of any of the other proceedings in question that are before it.
+(5) Any certificate given by the chief executive relating to the chief executive’s powers under section 202E or this section is, in the absence of proof to the contrary, sufficient evidence of the matters referred to in the certificate.
 
 ### 203 Immunities
 No personal liability attaches to the chief executive or to any delegate of the chief executive for any act or omission by the chief executive or the delegate made in good faith and in the performance or exercise, or purported performance or exercise, of all or any of the functions or powers of the chief executive under this Act, or in the discharge, or purported discharge, of all or any of the chief executive’s duties under this Act, but without prejudice to any liability that the Crown may incur for the acts or omissions of any employee or agent of the Crown.
@@ -2239,6 +2427,7 @@ For the purposes of this subpart, designated resolution means a resolution relat
   (c) prescribing for the regulation of the funds set up under sections 115, 117, 118, and 119:
   (d) specifying the matters to be included in a body corporate committee report:
   (e) specifying the information to be included in the register of unit owners:
+  (ea) specifying the documents or classes of documents to be retained by a body corporate or body corporate manager for the purposes of section 202A:
   (f) prescribing matters relating to the administration of a body corporate and a body corporate committee, including in relation to meeting requirements and procedures for participation by remote access:
   (fa) specifying matters associated with the functions and duties that a body corporate manager may perform or exercise, including any terms that must be included in a manager’s terms of employment or engagement:
   (g) specifying matters associated with the functions, powers, and duties of a body corporate and a body corporate committee:
