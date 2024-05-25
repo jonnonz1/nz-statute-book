@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2023-11-25_
+_Consolidation as at 2024-05-25_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -1732,6 +1732,7 @@ Amendment(s) incorporated in the Act(s).
 
 | Order | Family | Genus, species, or subspecies | Common name | Exceptions/limitations |
 | --- | --- | --- | --- | --- |
+| Aspidochirotida | Stichopodidae—Sea cucumbers | Thelenota spp |  |  |
 | Holothuriida | Holothuriidae—Teatfish, sea cucumbers | Holothuria fuscogilva | White Teatfish |  |
 |  | Holothuria nobilis | Black Teatfish |  |  |
 |  |  | Holothuria whitmaei | Black Teatfish |  |
