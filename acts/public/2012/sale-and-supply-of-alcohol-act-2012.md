@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-05-30_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -1881,7 +1881,8 @@ For the purposes of this Act, the chief executive of the territorial authority i
   (a) the applicant; and
   (b) each objector; and
   (c) the constable, the inspector, and the Medical Officer of Health, to whom a copy of the application has been sent in accordance with this Act.
-(5) The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the licensing authority or the chairperson considers it appropriate and the necessary facilities are available.
+(5) The hearing of a matter or any part of it by the licensing authority or licensing committee concerned may be conducted by telephone, audiovisual link, or other remote access facility if the licensing authority or licensing committee considers it appropriate and the necessary facilities are available.
+(6) The licensing authority or licensing committee concerned must consider any reasonable request made by a person to participate in the hearing of a matter or any part of it by telephone, audiovisual link, or other remote access facility.
 
 ### 203 Proceedings of licensing authority and licensing committees
 (1) Whenever the licensing authority meets for the purpose of hearing any appeal, or the authority or any licensing committee meets for the purposes of exercising or performing any power or function that it is required by this Act to exercise or perform at a public hearing, the meeting must, except in a case to which section 202(1) applies and subject to the provisions of subsections (3) and (4), be held in public.
@@ -1893,6 +1894,20 @@ For the purposes of this Act, the chief executive of the territorial authority i
 (7) In any proceedings before the authority, any counsel or solicitor engaged by the authority pursuant to this Act may appear and be heard as counsel assisting the authority.
 (8) Any decision, order, direction, certificate, or other document issued by the authority or committee may be signed on its behalf by the chairperson or the secretary.
 (9) Subject to the provisions of this Act and of any regulations made under this Act, the authority or committee may regulate its procedure in such manner as it thinks fit.
+
+### 203A Licensing committees must establish appropriate procedures
+(1) A licensing committee must establish appropriate procedures to consider applications.
+(2) When doing so, a licensing committee must ensure that those procedures—
+  (a) avoid unnecessary formality, including, for example (without limitation), by making appropriate provision about—
+    (i) the location and timing of the hearing:
+    (ii) the layout of the venue of the hearing:
+    (iii) the timetable for the hearing:
+    (iv) the language and terminology to be used at the hearing; and
+  (b) do not permit parties or their representatives to question other parties or witnesses of other parties; and
+  (c) do not permit cross-examination; and
+  (d) allow for tikanga Māori to be incorporated into proceedings; and
+  (e) allow for persons to be heard, and to make submissions, in te reo Māori.
+(3) To avoid doubt, nothing in subsection (1) applies to the licensing authority.
 
 ### 204 Right of certain persons to appear in proceedings
 (1) This section applies to the following proceedings:
@@ -1906,7 +1921,13 @@ For the purposes of this Act, the chief executive of the territorial authority i
   (a) an employee, volunteer, or contractor of Fire and Emergency New Zealand authorised to undertake fire safety inspections:
   (b) a person authorised in that behalf by any territorial authority:
   (c) any other person who satisfies the licensing committee or the licensing authority that he or she has an interest in the proceedings, apart from any interest in common with the public.
-(3) Any of the following persons may appear and be heard, whether personally or by counsel, and call, examine, or cross-examine witnesses, in any proceedings stated in subsection (1):
+(3) In the case of proceedings specified in subsection (1) that are before a licensing committee, any of the following persons may appear and be heard (whether personally or by counsel) and call and examine their own witnesses:
+  (a) the applicant:
+  (b) an objector:
+  (c) an inspector:
+  (d) a constable:
+  (e) a Medical Officer of Health.
+(4) In the case of proceedings specified in subsection (1) that are before the licensing authority, any of the following persons may appear and be heard (whether personally or by counsel), and call, examine, and cross-examine any witnesses:
   (a) the applicant:
   (b) an objector:
   (c) an inspector:
@@ -1941,7 +1962,7 @@ For the purposes of this Act, the chief executive of the territorial authority i
 
 ### 207 Evidence in proceedings before licensing authority or licensing committee
 (1) The licensing authority or licensing committee concerned may receive as evidence any statement, document, information, or matter that in its opinion may assist it to deal effectually with any matter before it, whether or not the statement, document, or matter would be admissible in a court of law.
-(2) Subject to the foregoing provisions of this section, the Evidence Act 2006 applies to the authority or the committee and to the members of the authority or committee, and to all proceedings before the authority or committee, in the same manner as if the authority or committee were a court within the meaning of that Act.
+(2) Subject to subsection (1) and to section 203A(2)﻿(b) and (c), the Evidence Act 2006 applies to the authority or the committee and to the members of the authority or committee, and to all proceedings before the authority or committee, in the same manner as if the authority or committee were a court within the meaning of that Act.
 
 ### 208 Licensing authority or licensing committee may waive certain omissions
 Where any person has neglected or omitted to do any act or thing in the precise manner or within the precise time prescribed by this Act, the licensing authority or (as the case may require) the licensing committee or the chairperson, if satisfied that the neglect or omission was not wilful, may waive the same on such terms as they think equitable.
