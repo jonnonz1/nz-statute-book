@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2024-04-01_
+_Consolidation as at 2024-06-04_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3077,6 +3077,12 @@ A person who is entitled to a research and development tax credit must file a re
 ### 33F Research and development tax credits: extension of time for 2019–20 income year
 The time for a person to file a supplementary return under section 33E for the 2019–20 income year is extended to 31 August 2021, or such later date otherwise allowed by that section.
 
+### 33G Research and development tax credits: extension of time if approval corrected
+(1) An extension of time is available for a person to file a supplementary return under section 33E if the person—
+  (a) applies to the Commissioner under section 68CB(3C) or 68CC(4C); and
+  (b) the Commissioner approves the person’s application.
+(2) The time for a person to file a supplementary return under subsection (1) is extended to the day that is 30 days after the Commissioner amends the approval.
+
 ### 34 Presumption as to authority of person making return
 A return purporting to be made by or on behalf of any person shall for all purposes be deemed to have been made by that person or by that person's authority, as the case may be, unless the contrary is proved.
 
@@ -3917,6 +3923,9 @@ A company or person apportioning its interest expenditure under section FE 6B of
   (b) the income years for which approval is sought; and
   (c) any other information required by the Commissioner.
 (3B) If a person’s research and development activities materially change during the period of an approval, and they want the change to be covered by the approval, they must apply to the Commissioner for a variation of the approval by the deadline in subsection (7) or (7B), as applicable.
+(3C) Upon application, the Commissioner may amend an approval if—
+  (a) the amendment is only to correct the name of the person named in the approval; and
+  (b) both the person named in the original approval and the person applying for the amendment are members of the same wholly-owned group.
 (4) The Commissioner may only approve a person’s activities to the extent to which, in the opinion of the Commissioner, the relevant activity is a core research and development activity or a supporting research and development activity.
 (5) If the Commissioner approves a person’s activities for an income year, the Commissioner must notify the person what activities of the person the Commissioner approves of as core research and development activities or supporting research and development activities, for which income years, and any conditions upon which the approval is made.
 (6) The Commissioner must notify the person of the intention to decline the application before the application is declined.
@@ -3942,6 +3951,9 @@ A company or person apportioning its interest expenditure under section FE 6B of
   (b) the income years for which approval of a criterion or methodology is sought; and
   (c) any other information required by the Commissioner.
 (4B) If a person’s criteria and methodologies materially change during the period of an approval, and they want the change to be covered by the approval, they must apply to the Commissioner for a variation of the approval by the deadline in subsection (8).
+(4C) Upon application, the Commissioner may amend an approval if—
+  (a) the amendment is only to correct the name of the person named in the approval; and
+  (b) both the person named in the original approval and the person applying for the amendment are members of the same wholly-owned group.
 (5) The Commissioner may approve—
   (a) appropriate criteria and methodologies for determining whether an activity is a core research and development activity, a supporting research and development activity, or not a research and development activity at all:
   (b) appropriate criteria and methodologies for determining whether an amount of expenditure or loss is or is not an amount of eligible research and development expenditure.
