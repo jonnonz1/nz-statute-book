@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2024-04-01_
+_Consolidation as at 2024-06-04_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -33209,6 +33209,34 @@ Full year abatement
 Credit period months
 (6) Credit period months is the number of whole months in the credit period.
 
+### LC 14 Amount of tax credit for independent earners for 1 April 2024 to 30 July 2024
+When this section applies
+(1) This section applies for calculating the amount of a tax credit under section LC 13 for the period starting on 1 April 2024 and finishing on 30 July 2024.
+Amount of credit formula: section LC 13(2)
+(2) The tax credit for a person under section LC 13 is calculated using the formula—(person’s credit − full year abatement) × credit period days ÷ 365.
+Definition of items in formula
+(3) The items in the formula are defined in subsections (4) to (6).
+Person’s credit
+(4) Person’s credit is, if the person’s net income for the tax year is equal to or more than $24,000, $520. Otherwise it is zero.
+Full year abatement
+(5) Full year abatement is, if the person’s net income is greater than $44,000 for the tax year, 13 cents for each complete dollar of the excess.
+Credit period days
+(6) Credit period days is the number of whole days in the credit period.
+
+### LC 15 Amount of tax credit for independent earners for 31 July 2024 to 31 March 2025
+When this section applies
+(1) This section applies for calculating the amount of a tax credit under section LC 13 for the period starting on 31 July 2024 and finishing on 31 March 2025.
+Amount of credit formula: section LC 13(2)
+(2) The tax credit for a person under section LC 13 is calculated using the formula—(person’s credit − full year abatement) × credit period days ÷ 365.
+Definition of items in formula
+(3) The items in the formula are defined in subsections (4) to (6).
+Person’s credit
+(4) Person’s credit is, if the person’s net income for the tax year is equal to or more than $24,000, $520. Otherwise it is zero.
+Full year abatement
+(5) Full year abatement is, if the person’s net income is greater than $66,000 for the tax year, 13 cents for each complete dollar of the excess.
+Credit period days
+(6) Credit period days is the number of whole days in the credit period.
+
 ### Subpart LD — Tax credits for gifts and donations
 
 ### LD 1 Tax credits for charitable or other public benefit gifts
@@ -35468,6 +35496,58 @@ Minimum family tax credit formula: section ME 1
 Definition of items in formula
 (3) In the formula,—
   (a) prescribed amount is $31,096:
+  (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3 (Meaning of net family scheme income), for a relationship period containing the entitlement period, of—
+    (i) the person; or
+    (ii) their spouse, civil union partner, or de facto partner; or
+    (iii) the person and their spouse, civil union partner, or de facto partner:
+  (c) weekly periods is the number of periods of 1 week in the entitlement period for which the person is a full-time earner.
+
+### MF 4J Calculation of instalments: 1 April 2024 to 30 July 2024
+When this section applies
+(1) This section applies for calculating the amount of an instalment by way of tax credit under section MD 1 (Abating WFF tax credit) or, as applicable, sections MD 1 and ME 1 (Minimum family tax credit) for the period starting on 1 April 2024 and finishing on 30 July 2024.
+In-work tax credit formula: section MD 10
+(2) The instalments for the relevant tax credit are calculated using, for the calculation of the in-work tax credit, the formula—(amount A + amount B × (children − 3)) × weekly periods ÷ 52.
+Definition of items in formula
+(3) In the formula in subsection (2),—
+  (a) amount A is $3,770:
+  (b) amount B is $780:
+  (c) children is the greater of—
+    (i) 3; and
+    (ii) the number of children for whom the person is allowed the in-work tax credit:
+  (d) weekly periods,—
+    (i) for 2 or more entitlement periods forming 1 continuous period, is the number of whole periods of 1 week in the continuous period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) (Fifth requirement: earner) refers or is an earner described in section MD 9(1)﻿(b), and includes whole periods of 1 week to which the alternative requirement in section MD 9(6) applies:
+    (ii) for an entitlement period to which subparagraph (i) does not apply, is the number of whole periods of 1 week in the entitlement period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) refers or is an earner described in section MD 9(1)﻿(b), and includes whole periods of 1 week to which the alternative requirement in section MD 9(6) applies.
+Minimum family tax credit formula: section ME 1
+(4) The instalments for the relevant tax credit are calculated using, for the calculation of the minimum family tax credit, the formula—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
+Definition of items in formula
+(5) In the formula in subsection (4),—
+  (a) prescribed amount is $35,204:
+  (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3 (Meaning of net family scheme income), for a relationship period containing the entitlement period, of—
+    (i) the person; or
+    (ii) their spouse, civil union partner, or de facto partner; or
+    (iii) the person and their spouse, civil union partner, or de facto partner:
+  (c) weekly periods is the number of periods of 1 week in the entitlement period for which the person is a full-time earner.
+
+### MF 4K Calculation of instalments: 31 July 2024 to 31 March 2025
+When this section applies
+(1) This section applies for calculating the amount of an instalment by way of tax credit under section MD 1 (Abating WFF tax credit) or, as applicable, sections MD 1 and ME 1 (Minimum family tax credit) for the period starting on 31 July 2024 and finishing on 31 March 2025.
+In-work tax credit formula: section MD 10
+(2) The instalments for the relevant tax credit are calculated using, for the calculation of the in-work tax credit, the formula—(amount A + amount B × (children − 3)) × weekly periods ÷ 52.
+Definition of items in formula
+(3) In the formula in subsection (2),—
+  (a) amount A is $5,070:
+  (b) amount B is $780:
+  (c) children is the greater of—
+    (i) 3; and
+    (ii) the number of children for whom the person is allowed the in-work tax credit:
+  (d) weekly periods,—
+    (i) for 2 or more entitlement periods forming 1 continuous period, is the number of whole periods of 1 week in the continuous period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) (Fifth requirement: earner) refers or is an earner described in section MD 9(1)﻿(b), and includes whole periods of 1 week to which the alternative requirement in section MD 9(6) applies:
+    (ii) for an entitlement period to which subparagraph (i) does not apply, is the number of whole periods of 1 week in the entitlement period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) refers or is an earner described in section MD 9(1)﻿(b), and includes whole periods of 1 week to which the alternative requirement in section MD 9(6) applies.
+Minimum family tax credit formula: section ME 1
+(4) The instalments for the relevant tax credit are calculated using, for the calculation of the minimum family tax credit, the formula—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
+Definition of items in formula
+(5) In the formula in subsection (4),—
+  (a) prescribed amount is $35,316:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3 (Meaning of net family scheme income), for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -41307,10 +41387,16 @@ Secondary legislation
 When this section applies
 (1) This section applies when an employer is required to attribute the value of a fringe benefit to an employee under sections RD 47 and RD 49.
 Tax liability
-(2) The employer’s FBT liability in relation to the employee is the amount calculated using the formula—tax on all-inclusive pay − tax on cash pay.
-Definition of items in formula
-(3) In the formula,—
+(2) The employer’s FBT liability in relation to the employee is the amount calculated using the formula—tax on all-inclusive pay − FBT on net cash pay.
+Definition of items in formula in subsection (2)
+(3) In the formula in subsection (2),—
   (a) tax on all-inclusive pay is the amount determined at the rate set out in schedule 1, part C, table 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) on the amount of the employee’s all-inclusive pay calculated using the formula in section RD 51(2):
+  (b) FBT on net cash pay is the amount determined at the rate set out in schedule 1, part C, table 1 on the amount of the employee’s net cash pay calculated using the formula in subsection (3B).
+Net cash pay
+(3B) For the purposes of subsection (3)﻿(b), the employee’s net cash pay is the amount calculated using the formula—cash pay − tax on cash pay.
+Definition of items in formula in subsection (3B)
+(3C) In the formula in subsection (3B),—
+  (a) cash pay is the amount calculated under section RD 51(3)﻿(a) or (4)﻿(a):
   (b) tax on cash pay is the amount calculated under section RD 51(3)﻿(b) or (4)﻿(b).
 Exception for shareholder-employees and persons with attributed income
 (4) If the employer has an exception for an employee under section RD 52 in a tax year, and the employer pays FBT at the rate of 49.25% of the taxable value of the attributed fringe benefits under section RD 52(3)﻿(a), the employer must deduct the FBT payable in the tax year from the result of the formula in subsection (2).
@@ -48608,7 +48694,7 @@ Purpose of schedule
 ## Schedule 1 — Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits
 
 ### 1 Taxable income: general
-To the extent to which a person does not have a basic rate under clauses 2 to 14, the basic rate of income tax for the person on each dollar of the person's taxable income is calculated using the formula—tax under table 1 ÷ taxable income: Table 1The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Range of dollar in taxable income. Column 3 is headed Tax rate.RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1052$14,001 – $48,0000.1753$48,001 – $70,0000.3004$70,001 – $180,0000.3305$180,001 upwards0.390 How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
+To the extent to which a person does not have a basic rate under clauses 2 to 14, the basic rate of income tax for the person on each dollar of the person's taxable income is calculated using the formula—tax under table 1 ÷ taxable income: Table 1The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Range of dollar in taxable income. Column 3 is headed Tax rate.RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.10502$14,001 – $15,6000.12823$15,601 – $48,0000.17504$48,001 – $53,5000.21645$53,501 – $70,0000.30006$70,001 – $78,1000.30997$78,101 – $180,0000.33008$180,001 upwards0.3900 How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
   (a) tax under table 1 means the total tax, calculated for each dollar in the person’s taxable income, using table 1:
   (b) taxable income means the number of dollars in the person’s taxable income.
 
@@ -48662,7 +48748,7 @@ The basic rate of income tax for a person on each dollar of the person’s sched
 ### 14 Schedular taxable income: recalculated main benefit payments
 The basic rate of income tax for a person on each dollar of the person’s schedular taxable income that is income from a payment to which section RD 20C (Payments of recalculated main benefit) applies is the rate of income tax given by section RD 20C(3) for the payment and the tax year in which the person derives the payment.
 
-| Row | Range of dollar in all-inclusive pay | Tax rate |
+| Row | Range of dollar in pay | Tax rate |
 | --- | --- | --- |
 | 1 | $0 – $12,530 | 0.1173 |
 | 2 | $12,531 – $40,580 | 0.2121 |
@@ -48670,7 +48756,7 @@ The basic rate of income tax for a person on each dollar of the person’s sched
 | 4 | $55,981 – $129,680 | 0.4925 |
 | 5 | $129,681 upwards | 0.6393 |
 
-| How to use this table:Find the range in the second column for each dollar in the person's all-inclusive pay under section RD 51, and apply the relevant rate for the dollar in the third column. |
+| How to use this table:Find the range in the second column for each dollar in the person's pay, and apply the relevant rate for the dollar in the third column. |
 | --- |
 
 ### 1 Amount of tax for section RD 67(a)
