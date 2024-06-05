@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2024-04-01_
+_Consolidation as at 2024-06-05_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -540,13 +540,13 @@ The Minister may pay any money into the Fund that is additional to that required
 (1)
 (2)
 (3) Sections 100 and 160 to 164 of the Crown Entities Act 2004 do not apply to the Guardians in relation to the Fund.
-(4) There are no restrictions on the Guardians’ power to invest the Fund, other than as provided by sections 58, 59, and 64.
+(4) There are no restrictions on the Guardians’ power to invest the Fund, other than as provided by sections 58 and 64.
 (5) This section is subject to section 50 (borrowing).
 
 ### 49A Saving of certain transactions
 (1) A failure by the Guardians to comply with any provision of this Act, the Venture Capital Fund Act 2019, or the Crown Entities Act 2004 does not affect the validity or enforceability of any deed, agreement, right, or obligation that is entered into, obtained, or incurred by—
   (a) the Guardians; or
-  (b) a Fund investment vehicle referred to in section 59A; or
+  (b) an entity that is formed or controlled by the Guardians for the purpose of holding, facilitating, or managing the investments of the Fund; or
   (ba) a VCF investment vehicle referred to in section 25 of the Venture Capital Fund Act 2019; or
   (c) a Crown entity subsidiary of the Guardians.
 (2) This section applies only to the extent that the deed, agreement, right, or obligation is entered into, obtained, or incurred for the purpose of performing the functions of the Guardians.
@@ -605,33 +605,21 @@ Schedule 3 applies to the board and its members.
   (b) maximising return without undue risk to the Fund as a whole; and
   (c) avoiding prejudice to New Zealand’s reputation as a responsible member of the world community.
 
-### 59 No controlling interests
-(1) The Guardians must use their best endeavours to ensure that the Fund does not control any other entity or hold a percentage of the voting rights in any other entity that would require it to seek control of that entity.
-(2) If a contravention of subsection (1) arises (through inadvertence or otherwise), the Guardians must take all reasonable steps to remedy the default as soon as practicable.
-(3) For the purposes of this Act, an entity is controlled by the Fund if—
-  (a) the entity is a subsidiary of the Fund; or
-  (b) the Fund controls the entity within the meaning of any relevant financial reporting standard (within the meaning of section 5 of the Financial Reporting Act 2013); or
-  (c) the Fund can control directly or indirectly the composition of the board of the entity within the meaning of sections 7 and 8 of the Companies Act 1993 (which, for the purposes of this paragraph, are to be read with all necessary modifications).
-(4) This section does not prevent the board establishing a Crown entity subsidiary of the Guardians (within the meaning of the second column of section 7(1)﻿(c) of the Crown Entities Act 2004).
-(5) This section—
-  (a) does not apply to a Fund investment vehicle referred to in section 59A; but
-  (b) does apply to an entity in which a Fund investment vehicle has an interest, as if the investments of the Fund that are held, facilitated, or managed by the Fund investment vehicle were held directly by the Guardians as manager and administrator of the Fund.
+### 59 Status of certain entities
+(1) A Fund investment, and any related arrangements, do not directly or indirectly result in any entity being any 1 or more of the following:
+  (a) a Crown entity subsidiary of the Guardians (for the purposes of the second column of section 7(1)﻿(c) of the Crown Entities Act 2004):
+  (b) a part of the Guardians’ Crown entity group for the purpose of that Act:
+  (c) a public entity as defined in the Public Audit Act 2001 or subject to that Act or section 67 of this Act.
+(2) To avoid doubt, the Official Information Act 1982 and the Ombudsmen Act 1975 do not apply to any entity by virtue of a Fund investment or any related arrangements (but the Official Information Act 1982 applies to the Guardians in respect of information held by the Guardians about the entity).
+(3) The Guardians’ interests in an entity that is formed or controlled by the Guardians for the purpose of holding, facilitating, or managing the investments of the Fund are Fund investments and part of the Fund.
+(4) This section does not limit sections 66 to 68.ExampleAn entity (E) is exempted by subsection (1)﻿(c) from being a public entity as defined in the Public Audit Act 2001 and therefore is not audited by the Auditor-General. Under section 67(1) of this Act, the Auditor-General is the auditor of the Fund. As part of the audit of the Fund, the Auditor-General will assess the value of the Fund investments, including the value of its interest in E.
+(5) This section does not apply to an entity that the board establishes as a Crown entity subsidiary of the Guardians.
 
 ### 59A Fund investment vehicles
-(1) All or any of the investments of the Fund may be held in an entity that is formed or controlled by the Guardians for the purpose of holding, facilitating, or managing the investments of the Fund (a Fund investment vehicle).
-(2) A Fund investment vehicle is not a Crown entity subsidiary for the purposes of section 7(1)﻿(c) of the Crown Entities Act 2004.
-(3) Interests in Fund investment vehicles are Fund investments and part of the Fund.
-(4) To avoid doubt, the Official Information Act 1982 and the Ombudsmen Act 1975 do not apply to Fund investment vehicles, but the Official Information Act 1982 applies to the Guardians in respect of information held by the Guardians about Fund investment vehicles.
-(5) Subsection (1) applies despite anything to the contrary in the Crown Entities Act 2004, this Act, or any other enactment.
+[Repealed]
 
 ### 59B Fund investment vehicles not required to prepare statements or annual reports
-(1) A Fund investment vehicle is not required to do either of the following:
-  (a) prepare financial statements or group financial statements that are separate from those prepared for the Fund under section 66:
-  (b) have financial statements or group financial statements audited.
-(2) If a Fund investment vehicle is a company, the board of the company is not required to prepare an annual report.
-(3) Subsections (1) and (2) apply despite anything to the contrary in the Companies Act 1993, the Limited Partnerships Act 2008, or the Public Audit Act 2001.
-(4) This section does not limit sections 59A(3) and 66 to 68.
-(5) In this section, annual report and board have the meanings given in section 2(1) of the Companies Act 1993.
+[Repealed]
 
 ### 60 Establishment of investment policies, standards, and procedures
 (1) The Guardians must establish, and adhere to, investment policies, standards, and procedures for the Fund that are consistent with their duty to invest the Fund on a prudent, commercial basis, in accordance with section 58.
@@ -645,7 +633,7 @@ A statement of investment policies, standards, and procedures must cover (but is
   (d) ethical investment, including policies, standards, or procedures for avoiding prejudice to New Zealand’s reputation as a responsible member of the world community; and
   (e) the balance between risk and return in the overall Fund portfolio; and
   (f) the fund management structure; and
-  (fa) the governance framework for the implementation and operation of Fund investment vehicles referred to in section 59A; and
+  (fa) the governance framework for the implementation and operation of all entities that are controlled by the Guardians or that are formed by the Guardians for the purpose of holding, facilitating, or managing the investments of the Fund; and
   (g) the use of options, futures, and other derivative financial instruments; and
   (h) the management of credit, liquidity, operational, currency, market, and other financial risks; and
   (i) the retention, exercise, or delegation of voting rights acquired through investments; and
@@ -955,6 +943,13 @@ In this Part,—old law relating to employment of a person’s spouse or partner
     (i) except as provided by subparagraph (ii), means Veterans’ Affairs New Zealand; or
     (ii) has the same meaning as in section 4 if an applicable delegation is in force under section 160 of the Veterans’ Support Act 2014.
 
+### Part 4 — Provision relating to New Zealand Superannuation and Retirement Income (Controlling Interests) Amendment Act 2024
+
+### 11 Review of amendments relating to controlling interests
+(1) The terms of reference for either the first or second performance review conducted under section 71 after the commencement of the amendment Act must include a requirement that the reviewer form an opinion about the operation and effectiveness of the amendments made by the amendment Act.
+(2) The written report prepared under section 71(6) must include the reviewer’s recommendations for amendments to this Act (if any).
+(3) In this clause, amendment Act means the New Zealand Superannuation and Retirement Income (Controlling Interests) Amendment Act 2024.
+
 ## Schedule 1 — New Zealand superannuation entitlements
 
 |  |  | $ |
@@ -1127,7 +1122,7 @@ The board must delegate a deliberation or decision to a committee if the effect 
 (1) The board may, in relation to the Fund, delegate any of the functions or powers of the board or the entity to all or any of the following, despite section 73(1)﻿(d) of the Crown Entities Act 2004:
   (a) a person appointed to undertake the investment of any part of the Fund under section 62:
   (b) a custodian:
-  (c) a Fund investment vehicle that is formed or controlled under section 59A.
+  (c) an entity that is formed or controlled by the Guardians for the purpose of holding, facilitating, or managing the investments of the Fund.
 (2) The board may, in relation to the VCF, delegate any of the functions or powers of the board or the entity to all or any of the following, despite section 73(1)﻿(d) of the Crown Entities Act 2004:
   (a) a person appointed to undertake the investment of any part of the VCF under section 29 of the Venture Capital Fund Act 2019:
   (b) a person appointed under section 30 of the Venture Capital Fund Act 2019 to act as custodian of the VCF, or any part of the VCF:
