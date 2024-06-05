@@ -1,5 +1,5 @@
 # Treaty of Waitangi Act 1975
-_Consolidation as at 2022-12-17_
+_Consolidation as at 2024-06-05_
 
 > An Act to provide for the observance, and confirmation, of the principles of the Treaty of Waitangi by establishing a Tribunal to make recommendations on claims relating to the practical application of the Treaty and to determine whether certain matters are inconsistent with the principles of the Treaty
 
@@ -36,7 +36,7 @@ This Act shall bind the Crown.
 (2B) The Chairperson of the Tribunal appointed under subsection (2)﻿(a) holds office for such term not exceeding 5 years as the Governor-General specifies in the instrument appointing that Chairperson, and the Chairperson may from time to time be reappointed.
 (2C) Where the Chairperson of the Tribunal is the Chief Judge of the Maori Land Court and he or she ceases to hold office as Chief Judge during the term of his or her appointment as Chairperson, that person's appointment as Chairperson also ceases at that time.
 (3) Every member of the Tribunal appointed under subsection (2)﻿(b) shall hold office for such term as the Governor-General shall specify in his or her appointment, being a term not exceeding 3 years, but may from time to time be reappointed.
-(4) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason of his being a member of the Tribunal.
+(4) No person shall be deemed to be employed in the service of the Sovereign for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason of his being a member of the Tribunal.
 (5) The Ministry of Justice shall furnish such secretarial, recording, and other services as may be necessary to enable the Tribunal to exercise its functions and powers.
 (6) The provisions of Schedule 2 shall have effect in relation to the Tribunal and its proceedings.
 
