@@ -1,12 +1,12 @@
 # Immigration Act 2009
-_Consolidation as at 2024-01-06_
+_Consolidation as at 2024-06-05_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
 
 ### 2 Commencement
 (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council, except as provided in subsections (2) to (5).
-(2) Sections 30, 31, 60, 100, 104, 111, 120, 149(1)﻿(e), 278, 283 to 291, 312, and 400(l) come into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the date appointed under subsection (1)); and 1 or more orders may be made appointing different dates for different provisions.
+(2) Sections 30, 31, 60, 100, 104, 111, 120, 149(1)﻿(e), 278, 283 to 291, 312, and 400(1)﻿(l) come into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the date appointed under subsection (1)); and 1 or more orders may be made appointing different dates for different provisions.
 (3) Section 477 comes into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the second day after the date on which this Act receives the Royal assent).
 (4) Sections 475, 476, and 478 come into force on the day after the date on which this Act receives the Royal assent.
 (5) Section 474 comes into force on the day after the date on which the Immigration Act 2009 Amendment Act 2010 receives the Royal assent.
@@ -171,7 +171,9 @@ In this Act, unless the context otherwise requires,—
     (b) in relation to an airport,—
       (i) means a local authority for the time being authorised under section 3 of the Airport Authorities Act 1966 to operate or manage the airport; and
       (ii) includes any person or association of persons or airport company authorised under section 3(3) of the Airport Authorities Act 1966 to exercise the powers or functions of a local authority under that section
-  - **passenger** , in relation to a craft, means a person, other than a member of the crew, who is carried in or on the craft with the consent of the carrier, or the person in charge, of the craft
+  - **passenger** , in relation to a craft,—
+    (a) means a person, other than a member of the crew, who is carried in or on the craft with the consent of the carrier, or the person in charge, of the craft; but
+    (b) for the purpose of any provision in this Act or secondary legislation made under this Act that deems certain passengers to hold a visa and to have been granted entry permission, does not include a person who is a member of a mass arrival group
   - **passport** means a document that is issued by or on behalf of the government of any country and that is recognised by the Government of New Zealand as a passport, being a document that—
     (a) purports to establish the identity and nationality of the holder; and
     (b) confers on the holder the right to enter the country the government of which has issued the document; and
@@ -1193,7 +1195,8 @@ The holder of a permanent resident visa is entitled—
   (b) a person arriving in New Zealand and to whom a visa waiver applies:
   (c) a person who is onshore, is the holder of a temporary visa, and is either—
     (i) a person to whom section 150(1) and (2) do not apply; or
-    (ii) a claimant to whom section 150(3) applies.
+    (ii) a claimant to whom section 150(3) applies:
+  (d) a person who is a member of a mass arrival group and has the responsibility of applying for a visa under section 103(1)﻿(daa).
 (2) No person who is of a class or category that, by virtue of immigration instructions, may only apply for a temporary visa by invitation may apply for such a visa without an invitation.
 (3) A person may apply for a temporary visa (or a temporary visa of a particular type) in response to an invitation to apply only if the application is made in the time frame specified in the temporary entry instructions.
 (4) To avoid doubt,—
@@ -1486,11 +1489,13 @@ At any time before the transit period of a transit passenger expires, an immigra
     (ii) the person is a New Zealand citizen and holds and produces a foreign passport containing an endorsement of a type described in section 384; or
     (iii) the person is a New Zealand citizen and holds and produces a foreign passport containing a returning resident's visa (within the meaning of section 2(1) of the former Act); or
     (iv) the person is a transit passenger who holds a transit visa or is a person to whom a transit visa waiver applies:
+  (daa) if the person is a member of a mass arrival group and is not the holder of a visa (whether or not the person also has the responsibility in paragraph (c)), to apply in any prescribed manner for a visa and entry permission on the person’s first presentation to an immigration officer:
   (da) to produce, on demand by an immigration officer, the person's passport or certificate of identity and any travel tickets held by the person:
   (e) in the case of a New Zealand citizen who is entering New Zealand as a New Zealand citizen, to comply with any requirements prescribed for the purpose of confirming the person’s status as a New Zealand citizen:
   (f) to comply with any direction of an immigration officer to remain in the immigration control area or other prescribed place, or a specified part of the area or place:
   (g) to comply with any other directions of an immigration officer while in an immigration control area.
 (2) However, the obligation in subsection (1)﻿(e) does not apply if the person, before arriving in New Zealand, has already complied with those requirements in accordance with section 99.
+(2A) If a member of a mass arrival group does not comply with subsection (1)﻿(daa), the person must be treated as if they have applied for a visa and entry permission on the person’s first presentation to an immigration officer.
 (3) Where a person arriving in New Zealand is, by reason of age or disability, incapable of complying with any of the requirements of subsection (1), it is the responsibility of the parent or guardian or other person for the time being having the care of that person to comply with those requirements on that person’s behalf.
 (4) Every passport or certificate of identity produced by a person to an immigration officer under this section—
   (a) must, if the person is a New Zealand citizen or is granted entry permission, be returned to the person before the person leaves the immigration control area; or
@@ -4409,7 +4414,7 @@ The powers of arrest and detention under this Part may be exercised for the foll
 ### 311 Implications of liability to arrest and detention
 Where a person is liable to arrest and detention under this Part,—
   (a) the person may be subject to the 4-hour limited detention by an immigration officer provided for in section 312:
-  (b) the person may be arrested and detained without warrant for a period not exceeding 96 hours by a constable in accordance with section 313:
+  (b) the person may be arrested and detained without warrant by a constable in accordance with section 313 for no longer than 96 hours (or, for a member of a mass arrival group, no longer than allowed by section 313(2)﻿(b)﻿(ii)):
   (c) an immigration officer may agree to residence and reporting requirements with the person in accordance with section 315:
   (d) the person may be detained in custody under a warrant of commitment:
   (e) the person may be released on conditions under section 320.
@@ -4422,9 +4427,13 @@ A person liable to arrest and detention under this Part may be detained by an im
   (d) the purpose of the detention being achieved; or
   (e) the elapsing of 4 hours since the detention commenced.
 
-### 313 Initial period of detention for up to 96 hours without warrant
+### 313 Initial period of detention without warrant
 (1) Where a person is liable to arrest and detention under this Part, a constable may, and if requested by an immigration officer must, for a purpose set out in section 310 arrest the person without warrant and place him or her in custody.
-(2) A person arrested and detained under this section may be detained only as long as is necessary to achieve the purpose of the arrest and detention without further authority than this section, but must not be detained for a period longer than 96 hours.
+(2) A person arrested and detained under this section may be detained—
+  (a) only as long as necessary to achieve the purpose of the arrest and detention without further authority than this section; and
+  (b) no longer than—
+    (i) 96 hours; or
+    (ii) for a member of a mass arrival group in relation to whom an application for a mass arrival warrant has been made within 96 hours of the member’s arrest and detention, the time it takes for that application to be determined. (See also section 317AB, which limits the time for an application to be determined.)
 (3) The period of 96 hours in subsection (2) is to be determined inclusive of any time during which the person was detained by an immigration officer under section 312.
 
 ### 314 Persons arrested and detained pending making of deportation order
@@ -4509,7 +4518,12 @@ A person liable to arrest and detention under this Part may be detained by an im
     (iv) a description of the circumstances in which the craft, or the group of craft, arrived; and
   (c) include a statement of—
     (i) why the warrant is necessary in terms of subsection (1)﻿(a); and
-    (ii) how subsection (1)﻿(c) relates to each person to whom the warrant is to apply.
+    (ii) how subsection (1)﻿(c) relates to each person to whom the warrant is to apply; and
+    (iii) how the proposed terms of the warrant ensure that the detention is for the least amount of time necessary to achieve the outcomes of the detention; and
+    (iv) how the proposed terms of the warrant ensure that the detention is the least restrictive necessary to achieve the outcomes of the detention; and
+    (v) how the proposed location of the detention meets—
+      (i) the Government’s obligations under the New Zealand Bill of Rights Act 1990; and
+      (ii) New Zealand’s obligations under the 1951 Convention Relating to the Status of Refugees and any other relevant international obligations.
 (3) An application under this section may, but is not required to, include any other supporting evidence or information relating to the members of the mass arrival group.
 (4) The Judge must determine an application under section 317B.
 (5) Nothing in this section permits an immigration officer to include a person under 18 years of age in an application for a mass arrival warrant unless the person has a parent, guardian, or relative who is a member of the mass arrival group.
@@ -4517,6 +4531,15 @@ A person liable to arrest and detention under this Part may be detained by an im
   (a) a name of the person (which may be the name that the person is known by or a name assigned to the person):
   (b) biometric information in relation to the person:
   (c) a physical description of the person.
+
+### 317AB Limited period for decision on mass arrival warrant
+(1) An application for a mass arrival warrant must be heard by a District Court Judge—
+  (a) as soon as is reasonably practicable; and
+  (b) within 7 days after the application was made.
+(2) However,—
+  (a) the Judge may, within 7 days after the application was made, adjourn the proceeding if satisfied that it is not reasonably practicable to determine the application within 7 days; and
+  (b) if the Judge adjourns the proceeding, the Judge must determine the application within 28 days after the application was made.
+(3) If 1 or more members of a mass arrival group are detained under section 313(2)﻿(b)﻿(ii) pending determination of the application for a mass arrival warrant, an immigration officer must report to the Judge at least once a week (unless varied by the Judge) as to whether the warrant continues to be necessary for a purpose set out in section 317A(1)﻿(a).
 
 ### 317B Decision on application for mass arrival warrant
 (1) On an application for a mass arrival warrant under section 317A, a District Court Judge must,—
@@ -4532,6 +4555,7 @@ A person liable to arrest and detention under this Part may be detained by an im
   (b) for a specified shorter period, if he or she is satisfied that, after the expiry of the shorter period,—
     (i) the reasons for the necessity of the warrant in terms of section 317A(1)﻿(a) will no longer apply; or
     (ii) the circumstances described in paragraphs (a) to (d) of section 316(1) will no longer apply in respect of each member of the mass arrival group.
+(3A) Despite subsection (3), when issuing the warrant the Judge may vary, on his or her motion or upon application by a party, the place or places of detention named in the application for the warrant.
 (4) The Judge must—
   (a) treat the application as if it were applications made under section 316 in respect of each member of the mass arrival group; and
   (b) determine the applications in accordance with subsection (3) of that section.
@@ -4552,6 +4576,7 @@ A person liable to arrest and detention under this Part may be detained by an im
   (b) 1 or more of the circumstances described in paragraphs (a) to (d) of section 316(1) will apply in respect of each of those persons; and
   (c) the requirements of subsection (2) have been met.
 (5) The Judge must vary the existing warrant to include the persons specified in the application, but must not extend the period of the warrant.
+(5A) When issuing the variation to the existing warrant, the Judge may also vary, on his or her motion or upon application by a party, the place or places of detention named in the warrant.
 (6) The Judge must—
   (a) treat the application as if it were applications made under section 316 in respect of each person the immigration officer has sought to be included in the mass arrival warrant; and
   (b) determine the applications in accordance with subsection (3) of that section.
@@ -4700,6 +4725,7 @@ Where a District Court Judge determines to order the release of a person to whom
   (b) to a specified shorter period, if he or she is satisfied that, after the expiry of the shorter period,—
     (i) the reasons for the necessity of the warrant in terms of section 317A(1)﻿(a) will no longer apply; or
     (ii) the circumstances described in paragraphs (a) to (d) of section 316(1) will no longer apply in respect of each person subject to the varied warrant.
+(4A) On an application under subsection (2)﻿(a), a District Court Judge may also vary, on his or her motion or upon application by a party, the place or places of detention named in the warrant.
 (5) On an application under subsection (2)﻿(b), a District Court Judge may vary the warrant of commitment, but only to authorise the detention of the persons in a place or places other than the place or places currently specified in the warrant for those persons.
 (6) At any stage during the currency of a warrant of commitment, an immigration officer may, in respect of a particular individual detained under the warrant, apply to a District Court Judge for—
   (a) a warrant of commitment for the individual as an individual; or
@@ -4770,7 +4796,8 @@ Where a District Court Judge determines to order the release of a person to whom
 **Form of custody**
 
 ### 330 Approval of premises for purpose of immigration detention
-The chief executive may approve any premises for the purpose of detention under this Act.
+(1) The chief executive may approve any premises for the purpose of detention under this Act.
+(2) Despite subsection (1), the chief executive may not approve a police station or prison as a place that may be used to detain 1 or more members of a mass arrival group under section 313(2)﻿(b)﻿(ii) pending determination of an application for a mass arrival warrant.
 
 ### 331 Form of custody of persons detained without warrant overnight
 Every person who is placed in custody under section 313 and is to be detained overnight must be detained,—
