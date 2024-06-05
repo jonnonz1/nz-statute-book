@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2024-06-04_
+_Consolidation as at 2024-06-05_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4689,7 +4689,7 @@ Exclusion: certain public authorities
   (a) Public Trust:
   (b) State enterprises:
   (c) Crown Research Institutes:
-  (d) a Fund investment vehicle as referred to in section 59A of the New Zealand Superannuation and Retirement Income Act 2001:
+  (d) a Fund investment entity:
   (db) a VCF investment vehicle as referred to in section 25 of the Venture Capital Fund Act 2019:
   (e) a company that is treated as being wholly owned by the Crown under section HR 4B (Activities relating to New Zealand Superannuation Fund and VCF).
 Exclusion: mixed-ownership enterprises
@@ -5741,7 +5741,7 @@ What this section applies to
 (1) This section applies in an income year to the following entities unless the entity is assured, under an arrangement with another person, of having a gain on the disposal:
   (a) a portfolio investment entity other than a life fund PIE:
   (b) the Crown as owner of the New Zealand Superannuation Fund:
-  (bb) a Fund investment vehicle, as referred to in section 59A of the New Zealand Superannuation and Retirement Income Act 2001, that is treated as being wholly owned by the Crown under section HR 4B (Activities relating to New Zealand Superannuation Fund):
+  (bb) a Fund investment entity that is treated as being wholly owned by the Crown under section HR 4B (Activities relating to New Zealand Superannuation Fund):
   (bc) a company that is treated as being wholly owned by the Crown under section HR 4B:
   (bd) the Crown as owner of the VCF:
   (be) a VCF investment vehicle, as referred to in section 25 of the Venture Capital Fund Act 2019, that is treated as being wholly owned by the Crown under section HR 4B:
@@ -31348,10 +31348,10 @@ Activities of the Crown relating to Fund or VCF
 (2) Amounts of income derived and expenditure incurred by the Crown in activities relating to the Fund or the VCF are determined as if the amounts were being derived or incurred by a company (the Fund/VCF company), other than a public authority, that was a special corporate entity wholly owned by,—
   (a) in the case of the Fund, the Minister of the Crown who was for the time being responsible for the administration of the New Zealand Superannuation and Retirement Income Act 2001, Parts 2 and 3:
   (b) in the case of the VCF, the Minister of the Crown who was for the time being responsible for the administration of the Venture Capital Fund Act 2019.
-Fund investment vehicles and VCF investment vehicles
-(3) The consolidation rules, continuity provisions, and other rules relating to groups of companies apply to the Crown as owner of the Fund and of the VCF, to a Fund investment vehicle as referred to in section 59A of the New Zealand Superannuation and Retirement Income Act 2001, to a VCF investment vehicle as referred to in section 25 of the Venture Capital Fund Act 2019, and to a company in which the Guardians of New Zealand Superannuation (the Guardians) hold interests for the Crown, as if—
+Fund investment entities and VCF investment vehicles
+(3) The consolidation rules, continuity provisions, and other rules relating to groups of companies apply to the Crown as owner of the Fund and of the VCF, to a Fund investment entity, to a VCF investment vehicle as referred to in section 25 of the Venture Capital Fund Act 2019, and to a company in which the Guardians of New Zealand Superannuation (the Guardians) hold interests for the Crown, as if—
   (a) the Crown were the Fund/VCF company; and
-  (b) interests in the Fund investment vehicle, VCF investment vehicle, or company held by the Guardians were owned by the Crown as the Fund/VCF company.
+  (b) interests in the Fund investment entity, VCF investment vehicle, or company held by the Guardians were owned by the Crown as the Fund/VCF company.
 
 ### HR 5 Airport operators: general
 When this section applies
@@ -45106,6 +45106,7 @@ In this Act, unless the context requires otherwise,—
   - **fully imputed** ,—
     (a) for the purposes of sections CB 26, CB 32C, CD 39, CW 10, EX 20B, RF 8, RF 10, and RF 11BB, and schedule 6, table 1B (which relate to distributions by PIEs and certain dividends), means the amount calculated under section RF 9(2) (When dividends fully imputed):
     (b) for the purposes of sections CW 15, HA 14, HA 16, and HA 19 (which relate to dividends paid by qualifying companies), and RE 2 (Resident passive income) means the amount calculated under section HA 15(2) (Fully imputed distributions)
+  - **Fund investment entity** means an entity that is formed or controlled by the Guardians of New Zealand Superannuation for the purpose of holding, facilitating, or managing the investments of the New Zealand Superannuation Fund
   - **fund provider** , for a person and a KiwiSaver scheme or a complying superannuation fund of which they are a member, means the trustees of the scheme or fund
   - **further FDP**
   - **further income tax** means an amount of tax by way of further income tax that a company may be liable to pay under—
