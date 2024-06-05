@@ -1,5 +1,5 @@
 # Maori Trust Boards Act 1955
-_Consolidation as at 2022-11-29_
+_Consolidation as at 2024-06-05_
 
 > An Act to make better provision for the administration of certain Maori Trust Boards
 
@@ -92,8 +92,7 @@ _Consolidation as at 2022-11-29_
 **Whakatohea Maori Trust Board**
 
 ### 12 Whakatohea Maori Trust Board
-(1) The body corporate constituted pursuant to section 26 of the Maori Purposes Act 1949, under the name of the Whakatohea Trust Board, shall continue to exist and shall henceforth be known as the Whakatohea Maori Trust Board.
-(2) The beneficiaries of the Board are hereby declared to be the members of the Whakatohea tribe and their descendants.
+[Repealed]
 
 ## Part 2 — General provisions relating to Maori Trust Boards
 
@@ -282,7 +281,7 @@ Any Board may from time to time, in its discretion, invest any of its funds not 
 ### 27 Power to borrow money and guarantee loans
 For any of the purposes of this Act, each Board may, from time to time,—
   (a) borrow money from any bank, person, or body corporate on the security of a mortgage of or charge upon any lands vested in the Board, or a charge upon any money payable to the Board:
-  (b) guarantee to Her Majesty the Queen or to any other person or body corporate the repayment of any principal sum or interest thereon by any person.
+  (b) guarantee to the Sovereign or to any other person or body corporate the repayment of any principal sum or interest thereon by any person.
 
 **Accounts**
 
@@ -552,5 +551,5 @@ This order comes into force on 10 August 2012.
 ### 3 Transition dates for specified Māori Trust Boards
 For the purpose of implementing sections 23C, 23D, and 31 to 32 of the Maori Trust Boards Act 1955 (as amended by the Maori Trust Boards Amendment Act 2011), the transition date for—
   (a) the Tauranga Moana Māori Trust Board is 1 July 2012:
-  (b) the Tūwharetoa Māori Trust Board is 1 July 2012:
-  (c) the Whakatōhea Māori Trust Board is 1 July 2012.
+  (b) the Tūwharetoa Māori Trust Board is 1 July 2012.
+  (c) [Revoked]
