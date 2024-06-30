@@ -1,5 +1,5 @@
 # Pae Ora (Healthy Futures) Act 2022
-_Consolidation as at 2023-07-27_
+_Consolidation as at 2024-06-30_
 
 ### 1 Title
 This Act is the Pae Ora (Healthy Futures) Act 2022.
@@ -24,7 +24,7 @@ In this Act, unless the context otherwise requires,—
     (b) provided for purposes related or incidental to the care or support of people with disabilities or to the promotion of their inclusion and participation in society and their independence
   - **Government Policy Statement** or means the Government Policy Statement on Health required under section 34
   - **Hauora Māori Advisory Committee** means the committee established under section 89
-  - **health entity** means Health New Zealand, HQSC, the Māori Health Authority, Pharmac, or NZBOS
+  - **health entity** means Health New Zealand, HQSC, Pharmac, or NZBOS
   - **Health New Zealand** means the health entity established under section 11
   - **health sector principles** means the principles set out in section 7(1)
   - **health strategy** means any of the following health strategies:
@@ -38,7 +38,6 @@ In this Act, unless the context otherwise requires,—
   - **HQSC** means the Health Quality and Safety Commission continued under section 78
   - **iwi-Māori partnership board** means an organisation listed in Schedule 4
   - **locality** means a geographically defined area determined under section 54
-  - **Māori Health Authority** means the health entity established under section 17
   - **Minister of Health** or means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act means a committee established under section 87 or means the department of the public service referred to by that name
   - **New Zealand Health Charter** or means the charter made under section 57
   - **New Zealand Health Plan** means the plan required under section 50
@@ -72,7 +71,7 @@ In this Act, unless the context otherwise requires,—
 
 ### 5 Guide to this Act
 (1) Part 1 provides for the purpose of this Act, the health sector principles, definitions, and sets out how this Act provides for the Crown’s intention to give effect to the principles of te Tiriti o Waitangi (the Treaty of Waitangi).
-(2) Part 2 provides for the roles of the Minister of Health, Health New Zealand, the Māori Health Authority, and iwi-Māori partnership boards. Part 2 also provides for the key health documents that will inform the provision of services under this Act.
+(2) Part 2 provides for the roles of the Minister of Health, Health New Zealand, and iwi-Māori partnership boards. Part 2 also provides for the key health documents that will inform the provision of services under this Act.
 (3) Part 3 sets out the roles of Pharmac, HQSC, NZBOS, and specified committees including the Hauora Māori Advisory Committee, and provides for the establishment of ministerial committees.
 (4) Part 4 contains powers relating to service commissioning, provisions that apply to health entities, and empowers the making of secondary legislation.
 (5) This section is intended as a guide only.
@@ -80,23 +79,21 @@ In this Act, unless the context otherwise requires,—
 ### 6 Te Tiriti o Waitangi (the Treaty of Waitangi)
 In order to provide for the Crown’s intention to give effect to the principles of te Tiriti o Waitangi (the Treaty of Waitangi), this Act—
   (a) requires the Minister, the Ministry, and all health entities to be guided by the health sector principles, which, among other things, are aimed at improving the health sector for Māori and improving hauora Māori outcomes; and
-  (b) establishes the Māori Health Authority and sets out its objectives and functions; and
-  (c) requires the Minister—
-    (i) to establish a permanent committee, the Hauora Māori Advisory Committee, to advise the Minister; and
-    (ii) to seek that committee’s advice before exercising certain powers; and
-  (d) requires the Minister to have regard to any advice of the Māori Health Authority when determining a health strategy; and
-  (e) requires the Hauora Māori Strategy to be jointly prepared by the Māori Health Authority and the Ministry; and
+  (b)
+  (c) requires the Minister to establish a permanent committee, the Hauora Māori Advisory Committee, to advise the Minister; and
+  (d) requires the Minister to have regard to any advice of the Hauora Māori Advisory Committee when determining a health strategy; and
+  (e)
   (f) provides for iwi-Māori partnership boards to enable Māori to have a meaningful role in the planning and design of local services; and
   (g) requires the Government Policy Statement to contain priorities for hauora Māori; and
-  (h) requires Health New Zealand and the Māori Health Authority to engage with iwi-Māori partnership boards; and
-  (i) requires Health New Zealand and the Māori Health Authority to jointly develop and implement a New Zealand Health Plan and to work together in the performance of specified functions of Health New Zealand; and
-  (j) includes, as criteria for appointment to the board of the Māori Health Authority, that the board collectively has knowledge of, and experience and expertise in relation to, te Tiriti o Waitangi (the Treaty of Waitangi), tikanga Māori, mātauranga Māori, kaupapa Māori services, and cultural safety and responsiveness of services; and
+  (h)
+  (i)
+  (j)
   (k) includes, as criteria for appointment to the board of Health New Zealand, that the board collectively has knowledge of, and experience and expertise in relation to, te Tiriti o Waitangi (the Treaty of Waitangi) and tikanga Māori; and
-  (l) requires the board of Health New Zealand to maintain systems and processes to ensure that Health New Zealand has the capacity and capability to understand te Tiriti o Waitangi (the Treaty of Waitangi), mātauranga Māori, and Māori perspectives of services; and
-  (m) requires the Māori Health Authority—
+  (l) requires the board of Health New Zealand to maintain systems and processes to ensure that Health New Zealand has the capacity and capability to understand te Tiriti o Waitangi (the Treaty of Waitangi), kaupapa Māori services, cultural safety and responsiveness of services, mātauranga Māori, and Māori perspectives of services; and
+  (m) requires Health New Zealand—
     (i) to have systems in place for the purpose of engaging with Māori and enabling responses from that engagement to inform the performance of its functions; and
     (ii) to support and engage with iwi-Māori partnership boards; and
-  (n) requires the Māori Health Authority to report back to Māori on how the engagement under section 20 has informed the performance of its functions.
+  (n) requires Health New Zealand to report back to Māori on how the engagement under section 16A has informed the performance of its functions.
 
 ### 7 Health sector principles
 (1) For the purpose of this Act, the health sector principles are as follows:
@@ -146,7 +143,7 @@ This Act binds the Crown.
     (iv) Health of Disabled People Strategy:
     (v) Women’s Health Strategy:
     (vi) Rural Health Strategy; and
-  (c) approving the New Zealand Health Plan developed by Health New Zealand and the Māori Health Authority; and
+  (c) approving the New Zealand Health Plan developed by Health New Zealand; and
   (d) endorsing the New Zealand Health Charter; and
   (e) approving a code of expectations for consumer and whānau engagement in the health sector; and
   (f) establishing committees under this Act; and
@@ -162,25 +159,25 @@ This Act binds the Crown.
 
 ### 12 Board of Health New Zealand
 (1) The board of Health New Zealand consists of not fewer than 5, and not more than 8, members.
-(2) The Minister must appoint the members of the board (other than the member referred to in subsection (4)) and the chairperson.
+(2) The Minister must appoint the members of the board and the chairperson.
 (3) When appointing members, the Minister must be satisfied that the board collectively has knowledge of, and experience and expertise in relation to,—
   (a) te Tiriti o Waitangi (the Treaty of Waitangi) and tikanga Māori; and
   (b) the public funding and provision of services; and
   (c) public sector governance and government processes; and
   (d) financial management.
-(4) The chairperson of the Māori Health Authority (or the nominated co-chairperson referred to in section 22(3))—
-  (a) is, by virtue of holding that office, a member of the board of Health New Zealand with voting rights; and
-  (b) may delegate that membership to a deputy chairperson of the Māori Health Authority.
+(4)
 
 ### 13 Objectives of Health New Zealand
 The objectives of Health New Zealand are—
   (a) to design, arrange, and deliver services to achieve the purpose of this Act in accordance with the health sector principles; and
   (b) to encourage, support, and maintain community participation in health improvement and service planning; and
-  (c) to promote health and prevent, reduce, and delay ill-health, including by collaborating with other agencies, organisations, and individuals to address the determinants of health.
+  (c) to promote health and prevent, reduce, and delay ill-health, including by collaborating with other agencies, organisations, and individuals to address the determinants of health; and
+  (d) to achieve the best possible health outcomes for all New Zealanders; and
+  (e) to ensure that planning and service delivery respond to the aspirations and needs of the population.
 
 ### 14 Functions of Health New Zealand
 (1) The functions of Health New Zealand are to—
-  (a) jointly develop and implement a New Zealand Health Plan with the Māori Health Authority; and
+  (a) develop and implement a New Zealand Health Plan; and
   (b) own and operate services; and
   (c) provide or arrange for the provision of services at a national, regional, and local level; and
   (d) develop and implement commissioning frameworks and models for the purpose of paragraph (c); and
@@ -191,11 +188,11 @@ The objectives of Health New Zealand are—
   (i) undertake and promote public health measures, including commissioning services to deliver public health programmes specified by the Public Health Agency; and
   (j) improve service delivery and outcomes for all people at all levels within the publicly funded health sector; and
   (k) collaborate with other agencies, organisations, and individuals to improve health and wellbeing outcomes and to address the wider determinants of health outcomes; and
-  (l) work with the Māori Health Authority when performing any function in paragraphs (c) to (k); and
+  (l)
   (m) contribute to key health documents in subpart 6; and
   (n) engage with iwi-Māori partnership boards; and
   (o) evaluate the delivery and performance of services provided or funded by Health New Zealand; and
-  (p) provide accessible and understandable information to the public about services funded by Health New Zealand; and
+  (p) provide accessible and understandable information to the public about services funded by Health New Zealand and the performance of the publicly funded health sector; and
   (q) undertake and support research relating to health; and
   (r) provide, or arrange for the provision of, services on behalf of the Crown or any Crown entity within the meaning of the Crown Entities Act 2004; and
   (s) perform or exercise the functions, duties, and powers conferred or imposed on it by this Act or any other enactment; and
@@ -203,126 +200,69 @@ The objectives of Health New Zealand are—
 (2) Health New Zealand must give effect to the GPS and the New Zealand Health Plan when performing its functions.
 (3) In performing any of its functions in relation to the supply of pharmaceuticals, Health New Zealand must not act inconsistently with the pharmaceutical schedule.
 
-### 15 Health New Zealand must provide information to iwi-Māori partnership boards
-Health New Zealand must provide sufficient and timely information to iwi-Māori partnership boards to support them in achieving their purpose in section 29.
+### 15 Health New Zealand must support and engage with iwi-Māori partnership boards
+Health New Zealand must—
+  (a) take reasonable steps to support iwi-Māori partnership boards to achieve their purpose in section 29, including by providing—
+    (i) administrative, analytical, or financial support where needed; and
+    (ii) sufficient and timely information; and
+  (b) engage with iwi-Māori partnership boards when determining priorities for kaupapa Māori investment.
 
 ### 16 Additional collective duties of board of Health New Zealand
 (1) The board must ensure that Health New Zealand—
   (a) acts in a manner consistent with the GPS and the New Zealand Health Plan; and
-  (b) works collaboratively with the Māori Health Authority; and
+  (b)
   (c) operates in a financially responsible manner and, for that purpose, endeavours to cover all its annual costs (including the cost of capital) from its net annual income; and
   (d) maintains systems and processes to ensure that Health New Zealand—
     (i) has the capacity and capability to perform its functions; and
-    (ii) has the capacity and capability to understand te Tiriti o Waitangi (the Treaty of Waitangi), mātauranga Māori, and Māori perspectives of services.
+    (ii) has the capacity and capability to understand te Tiriti o Waitangi (the Treaty of Waitangi), kaupapa Māori services, cultural safety and responsiveness of services, mātauranga Māori, and Māori perspectives of services.
 (2) The duties of the board in subsection (1) are—
   (a) in addition to its duties in sections 49 to 52 of the Crown Entities Act 2004; and
   (b) collective duties owed to the Minister for the purposes of section 58 of the Crown Entities Act 2004.
 
-### Subpart 3 — Māori Health Authority
-
-### 17 Māori Health Authority established
-(1) The Māori Health Authority is established.
-(2) The Māori Health Authority is an independent statutory entity.
-
-### 18 Objectives of Māori Health Authority
-The objectives of the Māori Health Authority are to—
-  (a) ensure that planning and service delivery respond to the aspirations and needs of whānau, hapū, iwi, and Māori in general; and
-  (b) design, deliver, and arrange services—
-    (i) to achieve the purpose of this Act in accordance with the health sector principles; and
-    (ii) to achieve the best possible health outcomes for whānau, hapū, iwi, and Māori in general; and
-  (c) promote Māori health and prevent, reduce, and delay the onset of ill-health for Māori, including by collaborating with other agencies, organisations, and individuals to address the determinants of Māori health.
-
-### 19 Functions of Māori Health Authority
-(1) The functions of the Māori Health Authority are to—
-  (a) jointly develop and implement a New Zealand Health Plan with Health New Zealand; and
-  (b) own and operate services; and
-  (c) improve service delivery and outcomes for Māori at all levels of the health sector; and
-  (d) collaborate with other agencies, organisations, and individuals to improve health and wellbeing outcomes for Māori and to address the wider determinants of health for Māori; and
-  (e) provide accessible and understandable information to Māori on the performance of the publicly funded health sector; and
-  (f) commission kaupapa Māori services and other services developed for Māori in accordance with the New Zealand Health Plan; and
-  (g) review locality plans developed by Health New Zealand and participate in the processes set out in sections 54 and 55; and
-  (h) undertake and promote public health measures, including commissioning services to deliver public health programmes; and
-  (i) provide policy and strategy advice to the Minister on matters relevant to hauora Māori; and
-  (j) work with Health New Zealand when Health New Zealand performs any function in section 14(1)﻿(c) to (k); and
-  (k) contribute to key health documents in subpart 6; and
-  (l) monitor the delivery of hauora Māori services by Health New Zealand and provide public reports on the results of that monitoring; and
-  (m) monitor, in co-operation with the Ministry and Te Puni Kōkiri, the performance of the publicly funded health sector in relation to hauora Māori; and
-  (n) support and engage with iwi-Māori partnership boards in accordance with section 21; and
-  (o) design and deliver programmes for the purpose of improving the capability and capacity of Māori health providers and the Māori health workforce; and
-  (p) collaborate with relevant entities for the purpose of improving the capability and capacity of the health workforce in relation to hauora Māori; and
-  (q) undertake and support research relating to health; and
-  (r) evaluate the delivery and performance of services provided or funded by the Māori Health Authority; and
-  (s) provide, or arrange for the provision of, services on behalf of the Crown or any Crown entity within the meaning of the Crown Entities Act 2004; and
-  (t) perform or exercise the functions, duties, and powers conferred or imposed on it by this Act or any other enactment; and
-  (u) perform any other functions relevant to its objectives that the responsible Minister directs in accordance with section 112 of the Crown Entities Act 2004.
-(2) The Māori Health Authority must give effect to the GPS and the New Zealand Health Plan when performing its functions.
-
-### 20 Engaging with and reporting to Māori
-(1) The Māori Health Authority must—
+### 16A Engaging with and reporting to Māori
+Health New Zealand must—
   (a) have systems in place for the purpose of—
     (i) engaging with Māori in relation to their aspirations and needs for hauora Māori; and
     (ii) enabling the responses from that engagement to inform the performance of its functions; and
-  (b) engage with relevant Māori organisations when—
-    (i) jointly developing the New Zealand Health Plan with Health New Zealand; and
-    (ii) advising on the GPS and any health strategy; and
-    (iii) preparing its statement of intent and statement of performance expectations; and
-  (c) report back to Māori from time to time on how engagement under this section has informed the performance of its functions.
-(2) In this section,—
-  - **Māori organisation** includes (without limitation) iwi-Māori partnership boards, iwi and hapū authorities, rūnanga, trust boards, Māori health professionals’ organisations, and representatives of whānau and hapū
-  - **relevant Māori organisation** means a Māori organisation that the Māori Health Authority considers relevant for the purpose of the engagement.
+  (b) report back to Māori from time to time on how engagement under this section has informed the performance of its functions.
+
+### Subpart 3 — Māori Health Authority
+
+### 17 Māori Health Authority established
+[Repealed]
+
+### 18 Objectives of Māori Health Authority
+[Repealed]
+
+### 19 Functions of Māori Health Authority
+[Repealed]
+
+### 20 Engaging with and reporting to Māori
+[Repealed]
 
 ### 21 Māori Health Authority to support and engage with iwi-Māori partnership boards
-The Māori Health Authority must—
-  (a) take reasonable steps to support iwi-Māori partnership boards to achieve their purpose in section 29, including by—
-    (i) providing administrative, analytical, or financial support where needed; and
-    (ii) providing sufficient and timely information; and
-  (b) engage with iwi-Māori partnership boards when determining priorities for kaupapa Māori investment.
+[Repealed]
 
 ### 22 Board of Māori Health Authority
-(1) The board of the Māori Health Authority consists of not fewer than 5, and not more than 8, members.
-(2) When appointing members, the Minister must be satisfied that the board, collectively, has knowledge of, and experience and expertise in relation to,—
-  (a) te Tiriti o Waitangi (the Treaty of Waitangi), tikanga Māori, and mātauranga Māori; and
-  (b) kaupapa Māori services; and
-  (c) cultural safety and responsiveness of services; and
-  (d) the public funding and provision of services; and
-  (e) public sector governance and government processes; and
-  (f) financial management.
-(3) The Minister must appoint a chairperson or 2 co-chairpersons of the board. If co-chairpersons are appointed, the Minister must nominate a co-chairperson to be a member of the board of Health New Zealand.
-(4) Sections 28 (other than section 28(1)﻿(b)) and 29 of the Crown Entities Act 2004 apply to the appointment of members of the board of the Māori Health Authority, except that the Minister must consult the Hauora Māori Advisory Committee before appointing any member.
-(5) Section 32(1)﻿(a) and (2) to (4) of the Crown Entities Act 2004 applies to the term of office of members of the board.
+[Repealed]
 
 ### 23 Removal of members
-(1) The Minister may at any time remove a member of the board of the Māori Health Authority from office if the Minister—
-  (a) considers that the removal is justified for any reason; and
-  (b) has consulted the Hauora Māori Advisory Committee and had regard to its views.
-(2) The removal must be made by written notice to the member (with a copy to the Māori Health Authority).
-(3) The notice must—
-  (a) state the date on which the removal takes effect, which must not be earlier than the date on which the notice is received; and
-  (b) state the reasons for the removal.
-(4) The Minister must notify the removal in the Gazette as soon as practicable after the notice is given.
+[Repealed]
 
 ### 24 Financial operations of Māori Health Authority
-The board of the Māori Health Authority must ensure that the Māori Health Authority operates in a financially responsible manner and, for that purpose, endeavours to cover all its annual costs (including the cost of capital) from its net annual income.
+[Repealed]
 
 ### 25 Application of Crown Entities Act 2004 to Māori Health Authority
-The following provisions of the Crown Entities Act 2004 apply, subject to this Act and with all necessary modifications, to the Māori Health Authority:
-  (a) sections 15, 16, 17 to 35, and 41 to 78; and
-  (b) subpart 3 of Part 2 except section 98(1)﻿(c); and
-  (c) Part 3 except sections 104 to 106 and 116; and
-  (d) Part 4; and
-  (e) Schedule 5 except clause 4.
+[Repealed]
 
 ### 26 Application of Anti-Money Laundering and Countering Financing of Terrorism Act 2009 to Māori Health Authority
-The Anti-Money Laundering and Countering Financing of Terrorism Act 2009 applies to the Māori Health Authority as if it were a Crown entity.
+[Repealed]
 
 ### 27 Application of Public Service Act 2020 to Māori Health Authority
-The following provisions of the Public Service Act 2020 apply to the Māori Health Authority:
-  (a) sections 12 and 13; and
-  (b) subpart 4 of Part 1; and
-  (c) Part 4.
+[Repealed]
 
 ### 28 Application of Public Records Act 2005
-The Māori Health Authority is a public office for the purposes of the Public Records Act 2005.
+[Repealed]
 
 ### Subpart 4 — Iwi-Māori partnership boards
 
@@ -334,13 +274,13 @@ The purpose of iwi-Māori partnership boards is to represent local Māori perspe
 
 ### 30 Functions of iwi-Māori partnership boards
 (1) An iwi-Māori partnership board has the following functions:
-  (a) to engage with whānau and hapū about local health needs, and communicate the results and insights from that engagement to Health New Zealand and the Māori Health Authority:
+  (a) to engage with whānau and hapū about local health needs, and communicate the results and insights from that engagement to Health New Zealand:
   (b) to evaluate the current state of hauora Māori in the relevant locality for the purpose of determining priorities for improving hauora Māori:
-  (c) to work with Health New Zealand and the Māori Health Authority in agreeing to locality plans for a relevant locality:
+  (c) to work with Health New Zealand in developing priorities for improving hauora Māori:
   (d) to monitor the performance of the health sector in a relevant locality:
-  (e) to engage with the Māori Health Authority and support its stewardship of hauora Māori and its priorities for kaupapa Māori investment and innovation:
-  (f) to report on the activities of the Māori Health Authority to Māori within the area covered by the iwi-Māori partnership board:
-  (g) to nominate members for appointment to the Hauora Māori Advisory Committee.
+  (e) to engage with Health New Zealand and support its stewardship of hauora Māori and its priorities for kaupapa Māori investment and innovation:
+  (f) to report on the hauora Māori activities of Health New Zealand to Māori within the area covered by the iwi-Māori partnership board.
+  (g)
 (2) In this section, relevant locality means the locality or localities within the area covered by an iwi-Māori partnership board.
 
 ### 31 Recognition of iwi-Māori partnership boards
@@ -359,17 +299,17 @@ The purpose of iwi-Māori partnership boards is to represent local Māori perspe
   (b) may be varied by the board in the same way.
 (3) An iwi-Māori partnership board may determine its own procedures.
 (4) If an organisation wishes to be recognised as an iwi-Māori partnership board,—
-  (a) it must notify the Māori Health Authority; and
-  (b) the Māori Health Authority must, if satisfied that the criteria in subsection (1) have been met, advise the Minister accordingly; and
+  (a) it must notify the Director-General; and
+  (b) the Director-General must, if satisfied that the criteria in subsection (1) have been met, advise the Minister accordingly; and
   (c) the Minister must recommend the making of an Order in Council under subsection (7)﻿(a).
 (5) If 2 or more iwi-Māori partnership boards agree to vary or merge their boundaries,—
-  (a) they must notify the Māori Health Authority; and
-  (b) the Māori Health Authority must, if satisfied that the criteria in subsection (1) have been met, advise the Minister accordingly; and
+  (a) they must notify the Director-General; and
+  (b) the Director-General must, if satisfied that the criteria in subsection (1) have been met, advise the Minister accordingly; and
   (c) the Minister must recommend the making of an Order in Council under subsection (7)﻿(b).
-(6) If the Māori Health Authority is satisfied that an iwi-Māori partnership board no longer meets the criteria in subsection (1) and that it is unlikely that the iwi-Māori partnership board will be able to meet the criteria within a reasonable period of time,—
-  (a) the Māori Health Authority must advise the Minister accordingly; and
+(6) If the Director-General is satisfied that an iwi-Māori partnership board no longer meets the criteria in subsection (1) and that it is unlikely that the iwi-Māori partnership board will be able to meet the criteria within a reasonable period of time,—
+  (a) the Director-General must advise the Minister accordingly; and
   (b) the Minister must recommend the making of an Order in Council under subsection (7)﻿(c).
-(7) The Governor-General may, by Order in Council, on the recommendation of the Minister made only on the advice of the Māori Health Authority, amend Schedule 4 for the purpose of—
+(7) The Governor-General may, by Order in Council, on the recommendation of the Minister made only on the advice of the Director-General, amend Schedule 4 for the purpose of—
   (a) recognising an organisation as an iwi-Māori partnership board; or
   (b) giving effect to an agreement to a variation or merger referred to in subsection (5); or
   (c) removing an iwi-Māori partnership board from Schedule 4 pursuant to subsection (6) or at the request of that iwi-Māori partnership board; or
@@ -380,18 +320,7 @@ The purpose of iwi-Māori partnership boards is to represent local Māori perspe
 ### Subpart 5 — Disputes
 
 ### 32 Disputes between Health New Zealand, Māori Health Authority, and others
-(1) If Health New Zealand and the Māori Health Authority disagree on a matter that they are expected under this Act to work together on, jointly develop, or agree,—
-  (a) either party may give written notice to the other party that it wishes to resolve the dispute in accordance with this section; and
-  (b) as soon as practicable after a party has received written notice, the representatives of each party must meet and use their best endeavours to resolve the dispute.
-(2) If Health New Zealand, the Māori Health Authority, and an iwi-Māori partnership board (the parties) do not agree on a locality plan or an annual report on a locality plan,—
-  (a) a party may give written notice to each other party that it wishes to resolve the dispute in accordance with this section; and
-  (b) as soon as practicable after those parties have received written notice, the representatives of each party must meet and use their best endeavours to resolve the dispute.
-(3) The parties—
-  (a) must refer the dispute to the Minister if they have not resolved it within 20 working days after the date on which a party (or the parties) received written notice under subsection (1)﻿(a) or (2)﻿(a); or
-  (b) may refer the dispute to the Minister earlier if they agree.
-(4) The Minister may determine the dispute or a process to resolve the dispute and, for that purpose, may require any party to provide information to the Minister.
-(5) However, the Minister must, before acting under subsection (4), consult the Minister for Māori Development or the Minister for Māori Crown Relations—Te Arawhiti, as the Minister considers appropriate, depending on the nature of the dispute.
-(6) The parties must comply with the Minister’s determination or the process determined by the Minister and its outcome.
+[Repealed]
 
 ### Subpart 6 — Key health documents
 
@@ -405,9 +334,9 @@ The purpose of iwi-Māori partnership boards is to represent local Māori perspe
     (iv) Health of Disabled People Strategy:
     (v) Women’s Health Strategy:
     (vi) Rural Health Strategy:
-  (c) Health New Zealand and the Māori Health Authority to develop, for the Minister's approval, a New Zealand Health Plan based on population health needs:
-  (d) Health New Zealand, the Māori Health Authority, and relevant iwi-Māori partnership boards to agree to locality plans for localities:
-  (e) Health New Zealand and the Māori Health Authority to facilitate the making of a New Zealand Health Charter:
+  (c) Health New Zealand to develop, for the Minister's approval, a New Zealand Health Plan based on population health needs:
+  (d) Health New Zealand to develop locality plans for localities:
+  (e) Health New Zealand to facilitate the making of a New Zealand Health Charter:
   (f) the Health Quality and Safety Commission to develop a code of expectations of consumer and whānau engagement in the health sector.
 (2) This section is intended as a guide only.
 
@@ -429,7 +358,7 @@ The purpose of iwi-Māori partnership boards is to represent local Māori perspe
 When preparing a GPS, the Minister must—
   (a) be satisfied that the GPS contributes to the purpose of this Act; and
   (b) have regard to, but is not bound by, any health strategy; and
-  (c) consult Health New Zealand and the Māori Health Authority and have regard to their views; and
+  (c) consult Health New Zealand and have regard to its views; and
   (d) engage with organisations and individuals that the Minister considers appropriate.
 
 ### 36 Content of GPS
@@ -437,7 +366,7 @@ When preparing a GPS, the Minister must—
   (a) the Government’s priorities and objectives for the publicly funded health sector:
   (b) how the Government expects health entities to meet the Government’s priorities and objectives for the publicly funded health sector:
   (c) the Government’s priorities for engaging with, and improving health outcomes for, Māori:
-  (d) the Government’s priorities for improving health outcomes for rural people, disabled people, women, rural communities, and other populations:
+  (d) the Government’s priorities for improving health outcomes for Pacific peoples, disabled people, women, rural communities, and other populations:
   (e) a framework for regular monitoring of progress and reporting requirements.
 (2) The GPS may include any other matters the Minister considers relevant.
 (3) To avoid doubt, the GPS may not impose an obligation on any health entity to approve or decline funding for a particular product, service, or provider.
@@ -469,8 +398,8 @@ A health entity must give effect to the GPS to the extent it is relevant to its 
 (4) Subsection (3) does not limit what may be included in the New Zealand Health Strategy.
 
 ### 42 Hauora Māori Strategy
-(1) The Minister must determine a Hauora Māori Strategy.
-(2) The Ministry and the Māori Health Authority must jointly prepare the Hauora Māori Strategy for the Minister’s determination.
+(1) The Minister must prepare and determine a Hauora Māori Strategy.
+(2)
 (3) The purpose of the Hauora Māori Strategy is to provide a framework to guide health entities in improving Māori health outcomes.
 (4) The Hauora Māori Strategy must—
   (a) contain an assessment of the current state of Māori health outcomes and the performance of the health sector in relation to Māori; and
@@ -517,7 +446,7 @@ A health entity must give effect to the GPS to the extent it is relevant to its 
 
 ### 47 Process for making health strategy
 (1) When preparing a health strategy, the Minister must—
-  (a) have regard to any advice from the Māori Health Authority; and
+  (a) have regard to any advice from the Hauora Māori Advisory Committee; and
   (b) when making a new health strategy, have regard to current strategies; and
   (c) consult health entities, individuals, and organisations that the Minister considers are reasonably likely to be affected by the health strategy.
 (2) The Minister must present the health strategy to the House of Representatives as soon as practicable after it has been made.
@@ -536,10 +465,10 @@ A health entity must have regard to all health strategies—
 **New Zealand Health Plan**
 
 ### 50 New Zealand Health Plan
-(1) Health New Zealand and the Māori Health Authority must jointly develop a New Zealand Health Plan.
-(2) The purpose of the plan is to provide a 3-year costed plan for the delivery of publicly funded services by Health New Zealand and the Māori Health Authority.
+(1) Health New Zealand must develop a New Zealand Health Plan.
+(2) The purpose of the plan is to provide a 3-year costed plan for the delivery of publicly funded services by Health New Zealand.
 (3) The plan must give effect to the GPS.
-(4) In developing the plan, Health New Zealand and the Māori Health Authority must also take into account—
+(4) In developing the plan, Health New Zealand must also take into account—
   (a) the functions and services of other health entities and government agencies that contribute to improving health outcomes; and
   (b) the roles of the Cancer Control Agency, the Health and Disability Commissioner, the Health Research Council, the Mental Health and Wellbeing Commission, and the Ministry (including the Public Health Agency); and
   (c) the functions and services of non-government agencies; and
@@ -553,25 +482,25 @@ The New Zealand Health Plan must—
     (ii) priorities for the desired improvements; and
   (c) specify, where appropriate, measurable outcomes for those priorities, including outcomes that are culturally specific; and
   (d) describe how health entities will deliver service and investment changes to achieve the desired improvements, including—
-    (i) how Health New Zealand and the Māori Health Authority will provide and commission services to achieve the desired improvements; and
+    (i) how Health New Zealand will provide and commission services to achieve the desired improvements; and
     (ii) how other health entities will contribute to achieving the desired improvements; and
   (e) describe how the matters referred to in section 50(4) have been taken into account; and
   (f) describe how government agencies, non-government agencies, organisations, and individuals will contribute to achieving the desired improvements; and
   (g) set out—
     (i) key services and activities to be delivered; and
     (ii) key performance measures; and
-  (h) set out how Health New Zealand and the Māori Health Authority—
+  (h) set out how Health New Zealand—
     (i) will achieve the purpose of this Act; and
     (ii) will engage with Māori, protect Māori interests and aspirations, and empower Māori to improve their health; and
-    (iii) have been guided by the health sector principles in the development and content of the New Zealand Health Plan; and
+    (iii) has been guided by the health sector principles in the development and content of the New Zealand Health Plan; and
   (i) set out any other matters the Minister directs.
 
 ### 52 Report of performance against New Zealand Health Plan
-(1) Health New Zealand and the Māori Health Authority must jointly prepare an annual performance report against the New Zealand Health Plan.
+(1) Health New Zealand must prepare an annual performance report against the New Zealand Health Plan.
 (2) The report must—
-  (a) provide an assessment of the performance of Health New Zealand and the Māori Health Authority against outcomes specified in the New Zealand Health Plan; and
+  (a) provide an assessment of the performance of Health New Zealand against outcomes specified in the New Zealand Health Plan; and
   (b) include in the assessment an evaluation—
-    (i) of any new interventions or services for Māori health that either health entity has provided or funded; and
+    (i) of any new interventions or services for Māori health that Health New Zealand has provided or funded; and
     (ii) that is conducted in accordance with culturally relevant evaluation methods; and
   (c) be submitted to the Minister after it has been audited by the Auditor-General.
 (3) The report must, as soon as practicable after it is made,—
@@ -579,13 +508,13 @@ The New Zealand Health Plan must—
   (b) be made publicly available.
 
 ### 53 Process for preparing New Zealand Health Plan
-(1) In preparing the New Zealand Health Plan, Health New Zealand and the Māori Health Authority must engage with—
+(1) In preparing the New Zealand Health Plan, Health New Zealand must engage with—
   (a) the Ministry; and
   (b) other health entities; and
-  (c) individuals and organisations that Health New Zealand and the Māori Health Authority consider appropriate.
+  (c) individuals and organisations that Health New Zealand considers appropriate.
 (2) The plan must be submitted to the Minister after it has been audited by the Auditor-General.
 (3) The plan is made when the Minister approves it.
-(4) Subsection (1)﻿(a) to (c) does not apply to any amendments to the plan that do not have a significant impact on consumers or providers of services (other than Health New Zealand and the Māori Health Authority).
+(4) Subsection (1)﻿(a) to (c) does not apply to any amendments to the plan that do not have a significant impact on consumers or providers of services (other than Health New Zealand).
 (5) The plan must, as soon as practicable after it is made,—
   (a) be presented to the House of Representatives; and
   (b) be made publicly available.
@@ -593,14 +522,14 @@ The New Zealand Health Plan must—
 **Localities and locality plans**
 
 ### 54 Determination of localities
-(1) Health New Zealand must determine, with the agreement of the Māori Health Authority, geographically defined areas (localities) for the purpose of arranging services.
-(2) Before determining a locality, Health New Zealand and the Māori Health Authority must consult relevant local authorities and iwi-Māori partnership boards.
+(1) Health New Zealand must determine geographically defined areas (localities) for the purpose of arranging services.
+(2) Before determining a locality, Health New Zealand must consult relevant local authorities and iwi-Māori partnership boards.
 (3) Health New Zealand must ensure that—
   (a) all of New Zealand is covered by a locality; and
   (b) the boundary of a locality is, subject to subsection (4), consistent with any regional arrangement specified in regulations made under section 102; and
   (c) a list of all localities (including their geographical areas) is made publicly available.
-(4) Subsection (3)﻿(b) does not apply if Health New Zealand and the Māori Health Authority are satisfied that there are exceptional circumstances and have consulted relevant local authorities and iwi-Māori partnership boards.
-(5) Health New Zealand may, with the agreement of the Māori Health Authority, amend the number or boundaries of any localities at any time, as long as the requirements in subsections (2) and (3) are met.
+(4) Subsection (3)﻿(b) does not apply if Health New Zealand is satisfied that there are exceptional circumstances and has consulted relevant local authorities and iwi-Māori partnership boards.
+(5) Health New Zealand may amend the number or boundaries of any localities at any time, as long as the requirements in subsections (2) and (3) are met.
 
 ### 55 Locality plans
 (1) Health New Zealand must develop a locality plan for each locality.
@@ -613,15 +542,11 @@ The New Zealand Health Plan must—
   (a) consult consumers and communities within the locality; and
   (b) consult local authorities affected by the locality plan; and
   (c) consult social sector agencies and other entities that contribute to relevant population outcomes within the locality; and
-  (d) engage with—
-    (i) the Māori Health Authority; and
-    (ii) iwi-Māori partnership boards for the area covered by the plan; and
+  (d)
   (e) consult any other individual or group that Health New Zealand considers appropriate.
-(4) A locality plan is made—
-  (a) when it is agreed to by Health New Zealand, the Māori Health Authority, and the relevant iwi-Māori partnership board or boards; or
-  (b) if section 32 applies, when it is made in accordance with section 32(6).
-(5) Health New Zealand and the Māori Health Authority must prepare an annual report assessing progress against the priority outcomes set out in the locality plan.
-(6) The report is made when it is agreed to by Health New Zealand, the Māori Health Authority, and the relevant iwi-Māori partnership board or boards.
+(4) A locality plan is made when Health New Zealand makes it publicly available.
+(5) Health New Zealand must prepare an annual report assessing progress against the priority outcomes set out in the locality plan.
+(6)
 (7) The report must, as soon as practicable after it is made, be made publicly available.
 
 **New Zealand Health Charter**
@@ -638,10 +563,10 @@ The New Zealand Health Plan must—
   (b) existing professional codes and obligations.
 
 ### 57 Making of charter
-(1) Health New Zealand and the Māori Health Authority must facilitate the making of the charter and, for that purpose, engage with—
+(1) Health New Zealand must facilitate the making of the charter and, for that purpose, engage with—
   (a) health entities; and
   (b) organisations and workers involved in delivering publicly funded services; and
-  (c) organisations that, in their opinion, are representative of the interests of workers who work for health entities or organisations or workers described in paragraph (b); and
+  (c) organisations that, in Health New Zealand’s opinion, are representative of the interests of workers who work for health entities or organisations or workers described in paragraph (b); and
   (d) Māori health professional organisations.
 (2) The charter is made when the Minister endorses it.
 (3) The charter must, as soon as practicable after it is made,—
@@ -649,7 +574,7 @@ The New Zealand Health Plan must—
   (b) be made publicly available.
 
 ### 58 Report on charter
-(1) Health New Zealand and the Māori Health Authority must, at least once every 5 years,—
+(1) Health New Zealand must, at least once every 5 years,—
   (a) prepare a report on how the New Zealand Health Charter has been given effect throughout the health sector; and
   (b) include in the report any recommendations for changes to the charter.
 (2) The report must, as soon as practicable after it is made,—
@@ -674,11 +599,9 @@ The New Zealand Health Plan must—
 ### Subpart 7 — Ministerial powers
 
 ### 61 Minister may appoint Crown observers
-(1) The Minister may make an appointment under this section if—
-  (a) the Minister considers it desirable for the purpose of assisting in improving the performance of Health New Zealand or the Māori Health Authority; and
-  (b) in the case of an appointment to the Māori Health Authority, the Hauora Māori Advisory Committee is consulted.
+(1) The Minister may make an appointment under this section if the Minister considers it desirable for the purpose of assisting in improving the performance of Health New Zealand.
 (2) The Minister may—
-  (a) appoint 1 or more persons to be a Crown observer of Health New Zealand or the Māori Health Authority (as the case may be); and
+  (a) appoint 1 or more persons to be a Crown observer of Health New Zealand; and
   (b) require the Crown observer to attend—
     (i) any board meeting or board committee meeting of the health entity; or
     (ii) any executive level meeting of the health entity at a national or regional level.
@@ -694,16 +617,14 @@ The New Zealand Health Plan must—
 (7) Subsection (6) is subject to the Privacy Act 2020.
 
 ### 62 Minister may dismiss board or appoint commissioner
-(1) If the Minister is seriously dissatisfied with the performance of the board of Health New Zealand or the Māori Health Authority, the Minister may, by written notice, dismiss all members of the board.
-(2) The Minister may, by written notice, appoint a commissioner to replace the board of Health New Zealand or the Māori Health Authority if—
-  (a) all the members of the board are removed from office under subsection (1) or the Crown Entities Act 2004; and
-  (b) in the case of an appointment replacing the board of the Māori Health Authority, the Hauora Māori Advisory Committee is consulted.
+(1) If the Minister is seriously dissatisfied with the performance of the board of Health New Zealand, the Minister may, by written notice, dismiss all members of the board.
+(2) The Minister may, by written notice, appoint a commissioner to replace the board of Health New Zealand if all the members of the board are removed from office under subsection (1) or the Crown Entities Act 2004.
 (3) A commissioner has all the functions, duties, powers, and protections of the board and of a member of the board.
 (4) A commissioner may appoint, on any terms and conditions that may be agreed, up to 3 deputy commissioners, each of whom must be a person who would be eligible to be appointed by the Minister to the board.
 (5) The Minister may at any time, by written notice, dismiss a commissioner from office.
 (6) A commissioner may at any time, by written notice, dismiss a deputy commissioner from office with the agreement of the Minister.
 (7) All the provisions of this Act and the Crown Entities Act 2004 that apply to appointed members of a board apply, with any necessary modifications, to a commissioner and a deputy commissioner.
-(8) To avoid doubt, a member of the board of Health New Zealand referred to in section 12(4)﻿(a) is a member of that board for the purpose of subsection (1).
+(8)
 
 ### 63 Minister may appoint Crown manager for Health New Zealand
 (1) This section applies if the Minister believes on reasonable grounds that there is a risk to the operation or long-term viability of Health New Zealand.
@@ -750,7 +671,7 @@ The New Zealand Health Plan must—
 (5) Subsection (2) applies despite section 134 of the Crown Entities Act 2004.
 
 ### 66 Restrictions on directions under section 103 of Crown Entities Act 2004
-(1) No direction may be given to the Māori Health Authority under section 103 of the Crown Entities Act 2004 unless it relates to improving equity of access and outcomes for Māori.
+(1)
 (2) No direction may be given to Pharmac under section 103 of the Crown Entities Act 2004 that would—
   (a) require Pharmac to purchase a pharmaceutical from a particular source or at a particular price; or
   (b) provide any pharmaceutical or pharmaceutical subsidy or other benefit to a named individual.
@@ -868,7 +789,7 @@ The objectives of HQSC are to lead and co-ordinate work across the health sector
   (a) the Ministry of Health; and
   (b) Health New Zealand; and
   (c) the Health and Disability Commissioner; and
-  (d) the Māori Health Authority; and
+  (d)
   (e) providers; and
   (f) healthcare professional bodies (for example, colleges); and
   (g) any groups representing the interests of consumers of services; and
@@ -953,56 +874,15 @@ In making appointments to a committee of a board of an organisation, the board m
 **Hauora Māori Advisory Committee**
 
 ### 89 Hauora Māori Advisory Committee
-(1) The Minister must establish a Hauora Māori Advisory Committee in accordance with section 90.
-(2) The functions of the committee are—
-  (a) to provide advice to the Minister on the matters specified in subsection (3); and
-  (b) to advise the Minister for the purposes of sections 61 and 62; and
-  (c) to provide any other advice that the Minister requests.
-(3) The Minister must seek and consider the committee’s advice before exercising any power to—
-  (a) appoint or remove members of the board of the Māori Health Authority Board; and
-  (b) require the Māori Health Authority to develop an improvement plan; and
-  (c) issue letters of expectation to the Māori Health Authority; and
-  (d) issue directions to the Māori Health Authority; and
-  (e) require amendments to the Māori Health Authority’s statement of intent or statement of performance expectations.
-(4) The committee may regulate its own procedure in any manner the committee thinks fit.
-(5) If—the public notification must indicate that the Minister did not agree with the committee’s advice.
-  (a) the Minister is required to consider the committee’s advice on a matter under this Act; and
-  (b) the Minister does not agree with that advice; and
-  (c) the matter to which advice relates requires public notification under this Act,—
+(1) The Minister must establish a Hauora Māori Advisory Committee to advise the Minister on any matter relating to hauora Māori that the Minister requests.
+(2) The committee comprises 8 members appointed by the Minister after consulting the Minister for Māori Development.
+(3) Section 87 otherwise applies to the committee and the appointment of its members.
 
 ### 90 Membership of Hauora Māori Advisory Committee
-(1) The Hauora Māori Advisory Committee comprises 8 members, of whom—
-  (a) 6 are appointed for a term not exceeding 3 years—
-    (i) by the Minister on the nomination of all the iwi-Māori partnership boards; or
-    (ii) by the Minister if, and to the extent that, a nomination is not made; and
-  (b) 2 are appointed for a term not exceeding 3 years—
-    (i) by the Minister on the nomination of all the organisations listed in Schedule 2; or
-    (ii) by the Minister if, and to the extent that, a nomination is not made.
-(2) A nomination must—
-  (a) be made in writing to the Minister not later than 2 months after the relevant member’s term of office expires or a vacancy arises; and
-  (b) be signed,—
-    (i) if subsection (1)﻿(a)﻿(i) applies, by all the chairpersons of the iwi-Māori partnership boards to indicate their accord; and
-    (ii) if subsection (1)﻿(b)﻿(i) applies, by all the chairpersons of the organisations to indicate their accord.
-(3) The Minister must appoint a member of the committee—
-  (a) as soon as practicable after receiving their nomination; or
-  (b) as soon as practicable, if subsection (1)﻿(a)﻿(ii) or (b)﻿(ii) applies.
-(4) Section 87(4) applies to the committee and the appointment of its members.
-(5) The Minister must, on the recommendation of the committee, appoint a chairperson, and, if no recommendation is made, the Minister must appoint the chairperson.
-(6) The Minister may, by written notice,—
-  (a) terminate the appointment of a member appointed under subsection (1)﻿(a)﻿(ii) or (b)﻿(ii); and
-  (b) terminate the appointment of a member appointed under subsection (1)﻿(a)﻿(i) or (b)﻿(i) only at the request of all the chairpersons of the iwi-Māori partnership boards or the organisations (as the case may be).
-(7) Until the date that this section takes effect, clause 6 of Schedule 1 provides for the appointment of members. This subsection is repealed on that date.
+[Repealed]
 
 ### 91 Listing of organisations in Schedule 2
-(1) The Governor-General may, by Order in Council, on the recommendation of the Minister, amend Schedule 2 by adding or removing the name of an organisation.
-(2) Before making a recommendation, the Minister must consult the Minister for Māori Development and have regard to the need for the Hauora Māori Advisory Committee to represent the perspectives of organisations that—
-  (a) are governed, managed, or mainly staffed by Māori; and
-  (b) individually or collectively hold system level insights in relation to—
-    (i) the needs or aspirations of particular groups of Māori health consumers (for example, tangata whaikaha or takatāpui); and
-    (ii) the challenges and opportunities for the Māori health workforce; and
-    (iii) the challenges and opportunities for Māori providers of services.
-(3) Subsection (2) does not apply if the Minister is recommending the removal of an organisation from Schedule 2 at the organisation’s request.
-(4) An Order in Council under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 **National advisory committee on health services ethics**
 
@@ -1021,7 +901,7 @@ In making appointments to a committee of a board of an organisation, the board m
 
 ### 93 Expert advisory committee on public health
 (1) The Minister must establish an expert advisory committee on public health.
-(2) The purpose of the committee is to provide independent advice to the Minister, the Public Health Agency, Health New Zealand, and the Māori Health Authority on the following matters:
+(2) The purpose of the committee is to provide independent advice to the Minister, the Public Health Agency, and Health New Zealand on the following matters:
   (a) public health issues, including factors underlying the health of people, whānau, and communities:
   (b) the promotion of public health:
   (c) any other matters that the Minister or the Public Health Agency specifies by notice to the committee.
@@ -1036,9 +916,9 @@ In making appointments to a committee of a board of an organisation, the board m
 ### Subpart 1 — Powers in relation to service commissioning
 
 ### 94 Arrangements relating to payments
-(1) The Crown, Health New Zealand, or the Māori Health Authority may, subject to section 95, give notice (notice) of the terms and conditions (terms and conditions) on which it will make payment to any person or persons.
+(1) The Crown or Health New Zealand may, subject to section 95, give notice (notice) of the terms and conditions (terms and conditions) on which it will make payment to any person or persons.
 (2) A person who accepts the payment referred to in the notice is deemed to accept the terms and conditions.
-(3) Compliance by the person with the terms and conditions may be enforced by the Crown or health entity (as the case may be) as if the person had signed a deed under which the person agreed to the terms and conditions.
+(3) Compliance by the person with the terms and conditions may be enforced by the Crown or Health New Zealand (as the case may be) as if the person had signed a deed under which the person agreed to the terms and conditions.
 (4) The terms and conditions, unless the notice expressly provides otherwise, are deemed to include a provision to the effect that 12 weeks’ notice must be given of any amendment or revocation of the terms and conditions.
 (5) The notice (including any amendment or revocation) must be published in the Gazette before it takes effect.
 (6) The notice (including any amendment or revocation) must be made publicly available as soon as practicable after it is made.
@@ -1084,10 +964,7 @@ A health entity must comply with any requirement specified in regulations made u
 ### 100 Act must be reviewed every 5 years
 (1) The Director-General must, at least once every 5 years, review the operation and effectiveness of this Act.
 (2) The first review must be completed no later than 5 years after the commencement of this Act.
-(3) The Director-General must—
-  (a) review the Act in consultation with the Māori Health Authority; and
-  (b) have particular regard to the views of the Māori Health Authority; and
-  (c) prepare a report of the review.
+(3) The Director-General must prepare a report of the review.
 (4) The Minister must present the report to the House of Representatives as soon as practicable after it has been completed.
 
 ### Subpart 4 — Secondary legislation
@@ -1101,8 +978,8 @@ A health entity must comply with any requirement specified in regulations made u
 ### 102 Regulations
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister, make regulations—Regional arrangementsInformation to be supplied by health entitiesNew Zealand Health PlanProvision of servicesEntitlement cardsLeviesDispute resolutionEligible peopleGeneral
   (a) specifying regional arrangements—
-    (i) through which Health New Zealand and the Māori Health Authority must provide and arrange services; and
-    (ii) which must be maintained by Health New Zealand and the Māori Health Authority:
+    (i) through which Health New Zealand must provide and arrange services; and
+    (ii) which must be maintained by Health New Zealand:
   (b) specifying information or classes of information that all health entities or a specified health entity must provide to the Director-General, including—
     (i) the frequency at which it must be provided or time frames for its provision; and
     (ii) the manner in which it must be provided:
@@ -1113,7 +990,7 @@ A health entity must comply with any requirement specified in regulations made u
     (i) specifying the form of the plan; and
     (ii) imposing requirements relating to the content of the plan; and
     (iii) imposing procedural requirements (including engagement requirements for consultation) that must be complied with in the preparation of the plan:
-  (e) requiring Health New Zealand or the Māori Health Authority to provide or arrange for the provision of any specified services:
+  (e) requiring Health New Zealand to provide or arrange for the provision of any specified services:
   (f) providing for the issue of entitlement cards (including cards that may record information of any description that is capable of being read or processed by a computer, but not including cards that are themselves capable of processing information) to various classes of persons or the continuation of use of such cards issued under the Health Entitlement Cards Regulations 1993:
   (g) prescribing the classes of persons eligible to be issued with the cards:
   (h) prescribing and regulating the use of the cards, including (but not limited to)—
@@ -1126,12 +1003,12 @@ A health entity must comply with any requirement specified in regulations made u
   (k) providing for returns to be made by persons importing into or manufacturing in New Zealand any alcohol, or any class or kind of alcohol, for the purpose of ascertaining the amount of any levy payable under this Act, and providing for the verification of returns:
   (l) exempting any person or class of persons from paying any levy that would otherwise be payable under this Act in any case where the cost of assessing or collecting the levy exceeds the amount payable by way of the levy:
   (m) amending or replacing the table in Schedule 7, and amending, omitting, or reinserting the description of the method for determining variable rates:
-  (n) for the purpose of section 32, prescribing procedural matters and requirements:
+  (n)
   (o) specifying a class of eligible people who are eligible to receive publicly funded services under this Act:
   (p) providing for anything this Act says may or must be provided for by regulations:
   (q) providing for anything incidental that is necessary for carrying out, or giving full effect to, this Act.
 Procedural and other requirements
-(2) The Minister must consult Health New Zealand and the Māori Health Authority before recommending the making of regulations under subsection (1)﻿(a).
+(2) The Minister must consult Health New Zealand before recommending the making of regulations under subsection (1)﻿(a).
 (3) Regulations under subsection (1)﻿(m) may be made only—
   (a) for the purpose of aligning the rates for classes of alcohol under this Act with the classification system applied to alcoholic beverages under Part B of the Excise and Excise-equivalent Duties Table (as defined in section 5(1) of the Customs and Excise Act 2018); and
   (b) after consultation with the Minister of Customs.
@@ -1141,7 +1018,7 @@ Procedural and other requirements
     (ii) the New Zealand Health Plan, all health strategies, and any relevant locality plan; and
   (b) consult the board of the health entity as to the services that are to be required to be provided or arranged, and the cost and funding of those services.
 (5) Regulations under subsection (1)﻿(e) may not—
-  (a) require the supply of services to or by any named individuals or organisations (other than Health New Zealand or the Māori Health Authority); or
+  (a) require the supply of services to or by any named individuals or organisations (other than Health New Zealand); or
   (b) specify the price for any services.
 (6) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
@@ -1199,11 +1076,10 @@ In this Part, unless the context otherwise requires,—
 (3) In this clause, Interim Health Plan means a plan approved by the Minister for the purpose of this clause.
 
 ### 5 Determination of localities and locality plans
-(1) Section 54, which requires localities to be determined, takes effect 2 years after the commencement date.
-(2) Section 55, which requires a locality plan to be developed for each locality, takes effect 3 years after the commencement date.
+[Repealed]
 
 ### 6 Initial appointment of members of Hauora Māori Advisory Committee
-(1) Section 90 takes effect on the date that is 2 years after the commencement date.
+(1)
 (2) On the commencement date, the Hauora Māori Advisory Committee comprises 8 members appointed—
   (a) by the Minister after consulting the Minister for Māori Development; and
   (b) for a term not exceeding 2 years.
@@ -1426,6 +1302,106 @@ Despite the repeal of the former Act, a ministerial direction given under sectio
 Despite the repeal of the former Act, a notice given under section 88 of that Act—
   (a) continues in force on and after the commencement date; and
   (b) is deemed to have been made under section 94 of this Act.
+
+### Part 2 — Provisions relating to Pae Ora (Disestablishment of Māori Health Authority) Amendment Act 2024
+
+### 32 Interpretation
+In this Part,—
+  - **amendment Act** means the Pae Ora (Disestablishment of Māori Health Authority) Amendment Act 2024
+  - **commencement date** means the date on which the amendment Act comes into force.
+
+### 33 Disestablishment of Māori Health Authority
+On the commencement date, the Māori Health Authority is disestablished.
+
+### 34 Determination of localities and locality plans
+(1) Section 54, which requires localities to be determined, takes effect on 1 July 2029.
+(2) Section 55, which requires a locality plan to be developed for each locality, takes effect on 1 July 2030.
+
+### 35 Membership of Hauora Māori Advisory Committee continued
+(1) The Hauora Māori Advisory Committee established under this Act before the commencement date continues as if it were established under section 89 as amended by the amendment Act.
+(2) A person who, immediately before the commencement date, was a member of the Hauora Māori Advisory Committee continues, subject to any terms and conditions of their appointment,—
+  (a) to be a member of the committee after the commencement date; and
+  (b) to hold any office on the committee that they held immediately before the commencement date.
+
+### 36 Transfers from Māori Health Authority to Health New Zealand
+(1) On the commencement date,—
+  (a) all assets belonging to the Māori Health Authority vest in Health New Zealand; and
+  (b) all information and documents held by the Māori Health Authority are held by Health New Zealand; and
+  (c) all money payable to or by the Māori Health Authority becomes payable to or by Health New Zealand; and
+  (d) all rights, liabilities, contracts, entitlements, undertakings, and engagements of the Māori Health Authority become the rights, liabilities, contracts, entitlements, undertakings, and engagements of Health New Zealand; and
+  (e) subject to subclause (4), every employee of the Māori Health Authority becomes an employee of Health New Zealand on the same terms and conditions as applied immediately before they became an employee of Health New Zealand; and
+  (f) anything done, or omitted to be done, or that is to be done, by or in relation to the Māori Health Authority is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to Health New Zealand; and
+  (g) proceedings, inquiries, and investigations under any enactment that may be commenced, continued, or enforced by or against the Māori Health Authority (including as an interested party or intervenor) or in relation to the Māori Health Authority may instead be commenced, continued, or enforced by or against or in relation to Health New Zealand without amendment to the proceedings; and
+  (h) a matter or thing that could, but for this clause, have been done or completed by the Māori Health Authority may be done or completed by Health New Zealand.
+(2) The transfer of information from the Māori Health Authority to Health New Zealand under subclause (1) does not constitute an action that is a breach of information privacy principle 8 or 11 within the meaning of the Privacy Act 2020.
+(3) The disestablishment of the Māori Health Authority does not, by itself, affect any of the following matters:
+  (a) any decision made, or anything done or omitted to be done, by the Māori Health Authority in relation to the performance or exercise of its functions, powers, or duties under any enactment:
+  (b) any proceedings commenced by or against the Māori Health Authority:
+  (c) any other matter or thing arising out of the Māori Health Authority’s performance or exercise, or purported performance or exercise, of its functions, powers, or duties under any enactment.
+(4) Despite subclause (1)﻿(e), the chief executive of the Māori Health Authority does not become an employee of Health New Zealand under this schedule.
+
+### 37 Consequences of transfer for purposes of Inland Revenue Acts
+For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), the Māori Health Authority and Health New Zealand are treated as the same person.
+
+### 38 References to Māori Health Authority
+On and from the commencement date, unless the context otherwise requires, a reference in any enactment, notice, instrument, contract, or other document to the Māori Health Authority must be read as a reference to Health New Zealand.
+
+### 39 Effect of transfer of contracts and engagements of Māori Health Authority
+To avoid doubt, the transfer of a contract or an engagement of the Māori Health Authority under clause 36 does not affect the scope of the contract or engagement or the application of the terms and conditions of the contract or engagement.
+
+### 40 Transfer of employees of Māori Health Authority to Health New Zealand
+(1) This clause applies to an employee of the Māori Health Authority if, before the commencement date, the employee is notified in writing by the chief executive of the Māori Health Authority that—
+  (a) this clause applies to the employee; and
+  (b) on the commencement date, the employee will become an employee of Health New Zealand.
+(2) On the commencement date, the employee becomes an employee of Health New Zealand on the same terms and conditions as applied to the employee immediately before the commencement date.
+(3) The following applies if, immediately before the commencement date, the employee was covered by a collective agreement (the earlier agreement) between the chief executive of the Māori Health Authority and a union of which the employee was a member (the union):
+  (a) on the commencement date, Health New Zealand and the union are parties to a new collective agreement:
+  (b) the terms and conditions of the new collective agreement are the same as the earlier agreement, subject to any necessary modifications:
+  (c) the employee is covered by the new collective agreement as long as they remain a member of the union.
+(4) To avoid doubt, subclause (3)—
+  (a) does not entitle an employee who was not covered by the earlier agreement to be covered by the new collective agreement; and
+  (b) does not prevent the parties to the new collective agreement from varying or terminating the agreement in accordance with the terms of the agreement and other applicable law.
+
+### 41 Employment continuous for purpose of certain entitlements
+(1) If an employee of the Māori Health Authority is moving by operation of clause 36 to be an employee of Health New Zealand, their employment is to be treated as continuous for the purposes of—
+  (a) entitlements under the following provisions in Part 2 of the Holidays Act 2003:
+    (i) subpart 1 (annual holidays); and
+    (ii) subpart 3 (public holidays); and
+    (iii) subpart 4 (sick leave and bereavement leave); and
+    (iv) subpart 5 (family violence leave); and
+  (b) entitlements to leave under the Parental Leave and Employment Protection Act 1987; and
+  (c) the KiwiSaver Act 2006; and
+  (d) entitlements under the Government Superannuation Fund Act 1956; and
+  (e) entitlements or obligations that—
+    (i) are under any other enactment or under a contract; and
+    (ii) relate to employment.
+(2) For the purpose of subclause (1)﻿(a),—
+  (a) the period of employment of the employee with the Māori Health Authority that ends with the date on which the employee moved to Health New Zealand must be treated as a period of employment with Health New Zealand for the purpose of determining the employee’s entitlement to annual holidays, sick leave, bereavement leave, and family violence leave; and
+  (b) the chief executive of the Māori Health Authority must not pay the employee for annual holidays or alternative holidays not taken before the date on which the employee moved to the position in Health New Zealand; and
+  (c) the chief executive of Health New Zealand must recognise the employee’s entitlement to—
+    (i) any sick leave, including any sick leave carried over under section 66 of the Holidays Act 2003, not taken before the date on which the employee moved to the position in Health New Zealand; and
+    (ii) any annual holidays not taken before the date on which the employee moved to the position in Health New Zealand; and
+    (iii) any alternative holidays not taken or exchanged for payment under section 61 of that Act before the date on which the employee moved to the position in Health New Zealand; and
+    (iv) any holidays not taken before the date on which the employee moved to the position in Health New Zealand in relation to which there was an agreement between the employee and the Māori Health Authority under section 44A or 44B of that Act.
+(3) For the purpose of subclause (1)﻿(b),—
+  (a) the period of employment of the employee with the Māori Health Authority that ends with the date on which the employee moved to Health New Zealand must be treated as a period of employment with Health New Zealand; and
+  (b) the chief executive of Health New Zealand must treat any notice given to or by the chief executive of the Māori Health Authority under the Parental Leave and Employment Protection Act 1987 as if it had been given to or by the chief executive of Health New Zealand.
+(4) For the purpose of subclause (1)﻿(c), the employment of the employee in the position with Health New Zealand is not new employment within the meaning of that term in the KiwiSaver Act 2006.
+(5) For the purpose of subclause (1)﻿(d), in the definition of Government service in section 2(1) of the Government Superannuation Fund Act 1956, a health service includes, for the avoidance of doubt, Health New Zealand and the Māori Health Authority.
+
+### 42 Application of sections 14 and 15 of Health Sector (Transfers) Act 1993
+(1) Section 14 of the Health Sector (Transfers) Act 1993—
+  (a) applies with all necessary modifications to a person who becomes an employee of Health New Zealand by operation of clause 36; and
+  (b) must be read as if the contract of service were transferred under that clause.
+(2) Section 15 of the Health Sector (Transfers) Act 1993 applies to an employee who becomes an employee of Health New Zealand by operation of clause 36.
+
+### 43 Employment policies
+(1) The employment policies of the Māori Health Authority—
+  (a) continue to apply after the commencement date—
+    (i) in relation to an employee who becomes an employee of Health New Zealand by operation of clause 36; and
+    (ii) with all necessary modifications; and
+  (b) may be replaced by Health New Zealand by written notice to that employee.
+(2) Health New Zealand must undertake a reasonable consultation process before introducing any employment policy that is reasonably likely to have a material effect on that employee.
 
 ## Schedule 2 — Organisations for purpose of section 90(1)﻿(b)﻿(i)
 
