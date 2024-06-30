@@ -1,5 +1,5 @@
 # Legislation Act 2019
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-06-30_
 
 ### 1 Title
 This Act is the Legislation Act 2019.
@@ -1737,7 +1737,6 @@ A failure to comply with this schedule does not invalidate secondary legislation
 | Energy Resources Levy Act 1976 | 5(1) |  |
 | Fisheries Act 1996 | 74(7) |  |
 | Food Act 2014 | 207 |  |
-| Forests Act 1949 | 63ZZI |  |
 | Forests Act 1949 | 67ZM |  |
 | Gambling Act 2003 | 319(1) |  |
 | KiwiSaver Act 2006 | 65(1) |  |
