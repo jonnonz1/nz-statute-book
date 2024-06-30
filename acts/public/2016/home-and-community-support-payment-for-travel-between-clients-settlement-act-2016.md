@@ -1,5 +1,5 @@
 # Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2024-06-30_
 
 ## Preamble
 (1) On 7 August 2013, proceedings were lodged with the Employment Relations Authority claiming that the time spent by the applicant in travelling between clients to whom the applicant provided home-based care and support was work for the purposes of section 6 of the Minimum Wage Act 1983:
@@ -63,12 +63,11 @@ In this Act, unless the context otherwise requires,—
   - **Health New Zealand** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **home and community-based support services** —
     (a) means—
-      (i) services funded by the Ministry of Health, Health New Zealand, or the Māori Health Authority that are performed in a client’s home for the purpose of assisting the client to continue to live in the client’s home (such as personal care, household management, rehabilitation, or vocational services); and
+      (i) services funded by the Ministry of Health or Health New Zealand that are performed in a client’s home for the purpose of assisting the client to continue to live in the client’s home (such as personal care, household management, rehabilitation, or vocational services); and
       (ii) services funded by ACC that are performed in a client’s home for the purposes of supporting the client's rehabilitation from an injury covered by the Accident Compensation Act 2001 and to achieve and sustain the client’s maximum level of participation in everyday life; but
     (b) does not include—
       (i) services that are performed for the purpose of preparing an intellectually disabled client to live independently in the community; or
       (ii) services purchased by a disabled client (or by a disabled client’s caregiver on the client’s behalf) using funding from the Ministry of Health or another agency to allow the client (or the client’s caregiver) to directly manage the resources allocated for the client’s disability support
-  - **Māori Health Authority** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **maximum travel distance** has the meaning given in section 5(1)
   - **mileage rate** means the mileage rate specified in clause 1 of Schedule 4
   - **qualifying distance** means the qualifying distance specified in clause 2(1) of Schedule 4
