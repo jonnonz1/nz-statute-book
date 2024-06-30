@@ -1,5 +1,5 @@
 # Therapeutic Products Act 2023
-_Consolidation as at 2023-07-26_
+_Consolidation as at 2024-06-30_
 
 ### 1 Title
 This Act is the Therapeutic Products Act 2023.
@@ -2961,7 +2961,7 @@ A person who has been served with a prohibited product order by the Regulator mu
     (c) a person who is allowed under this Act to supply by non-wholesale supply, prescribe, or administer, in the course of a business or undertaking, a medicine to which the statement relates:
     (d) the chief executive of the Ministry:
     (e) the chief executive of Health New Zealand:
-    (f) the chief executive of the Māori Health Authority:
+    (f)
     (g) a certified provider of health care services of any kind (see section 26 of the Health and Disability Services (Safety) Act 2001):
     (h) the manager of a treatment centre (as defined in section 4 of the Substance Addiction (Compulsory Assessment and Treatment) Act 2017):
     (i) a prison manager (as defined in section 3 of the Corrections Act 2004):
