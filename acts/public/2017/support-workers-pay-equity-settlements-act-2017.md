@@ -1,5 +1,5 @@
 # Support Workers (Pay Equity) Settlements Act 2017
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2024-06-30_
 
 ### 1 Title
 This Act is the Support Workers (Pay Equity) Settlements Act 2017.
@@ -31,7 +31,7 @@ In this Act, unless the context otherwise requires,—
   - **ACC** means the Accident Compensation Corporation continued by section 259 of the Accident Compensation Act 2001
   - **care and support services** —
     (a) means—
-      (i) services that are funded by Health New Zealand, the Māori Health Authority, or ACC under a funding agreement that are performed in a person’s home (including residential care facilities, retirement villages, and rest homes) or workplace for the purpose of—
+      (i) services that are funded by Health New Zealand or ACC under a funding agreement that are performed in a person’s home (including residential care facilities, retirement villages, and rest homes) or workplace for the purpose of—
         (A) assisting the person to continue to live in the person’s home or in the community (such as personal care and household management services); or
         (B) assisting a person who has a disability to work in the community; or
         (C) in respect of a person with an injury covered by the Accident Compensation Act 2001, supporting the person’s rehabilitation from the injury or supporting them to achieve and sustain their maximum level of participation in everyday life; and
@@ -64,8 +64,8 @@ In this Act, unless the context otherwise requires,—
       (ii) the person or persons who have the legal authority to make decisions on behalf of an employer to which subparagraph (i) applies, if the employer does not itself have separate legal personality; and
       (iii) a person, trust, or partnership that provides support services on behalf of an employer to which subparagraph (i) applies as a subsidiary or a subcontractor; and
       (iv) Health New Zealand; but
-    (b) does not include a natural person who receives funding directly from ACC, Health New Zealand, or the Māori Health Authority towards the cost of care and support services for the person or a family member of the person
-  - **funder** means the Department of Corrections, the Ministry of Health, the Ministry of Social Development, Oranga Tamariki—Ministry for Children, Health New Zealand, the Māori Health Authority, or ACC
+    (b) does not include a natural person who receives funding directly from ACC or Health New Zealand towards the cost of care and support services for the person or a family member of the person
+  - **funder** means the Department of Corrections, the Ministry of Health, the Ministry of Social Development, Oranga Tamariki—Ministry for Children, Health New Zealand, or ACC
   - **funding agreement** means,—
     (a) in relation to funding agreements to which a funder other than ACC is a party, an agreement between the funder and an employer for the employer to provide support services in exchange for payments from the funder; and
     (b) in relation to funding agreements to which ACC is a party, an agreement between ACC and an employer that is titled—
