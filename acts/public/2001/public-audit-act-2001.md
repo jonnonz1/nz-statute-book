@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-06-30_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -20,7 +20,7 @@ In this Act, unless the context otherwise requires,—
   - **auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **Auditor-General** means the Controller and Auditor-General appointed under section 7 and, in sections 21 and 24 to 30, includes every employee of the Controller and Auditor-General or every appointed auditor who has been authorised under this Act to act under the section concerned
   - **Crown** —
-    (a) means Her Majesty the Queen in right of New Zealand; and
+    (a) means the Sovereign in right of New Zealand; and
     (b) includes all Ministers of the Crown and all departments; but
     (c) does not include—
       (i) an Office of Parliament; or
