@@ -1,5 +1,5 @@
 # Children’s Act 2014
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2024-06-30_
 
 ### 1 Title
 This Act is the Children’s Act 2014.
@@ -241,13 +241,13 @@ Once the oranga tamariki action plan has come into effect, the chief executive o
 
 ### 14 Purpose of this Part
 The purpose of this Part is to require child protection policies (that must contain provisions on the identification and reporting of child abuse and neglect) to be—
-  (a) adopted and reported on by prescribed State services and the boards of Health New Zealand and the Māori Health Authority; and
+  (a) adopted and reported on by prescribed State services and the board of Health New Zealand; and
   (b) adopted by school boards; and
   (c) adopted by certain people with whom those services or boards enter into contracts or funding arrangements.
 
 ### 15 Interpretation
 (1) In this Part, unless the context otherwise requires,—
-  - **board** , in relation to Health New Zealand or the Māori Health Authority, means the members of the board of that organisation (who number no less than the required quorum) acting together as a board
+  - **board** , in relation to Health New Zealand, means the members of the board of that organisation (who number no less than the required quorum) acting together as a board
   - **child** means a person who is under the age of 18 years
   - **children's services** means services that are any of the following:
     (a) services provided to 1 or more children:
@@ -257,10 +257,9 @@ The purpose of this Part is to require child protection policies (that must cont
       (ii) are for the time being prescribed under subsection (2):
     (d) services provided in respect of children that are for the time being prescribed under subsection (3)
   - **Health New Zealand** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
-  - **independent person** , in relation to a prescribed State service and its chief executive, a board of Health New Zealand or the Māori Health Authority, or a school board, means a person who is neither of the following:
+  - **independent person** , in relation to a prescribed State service and its chief executive, the board of Health New Zealand, or a school board, means a person who is neither of the following:
     (a) a member of the board:
     (b) an employee or officer of the service or its chief executive, or the board
-  - **Māori Health Authority** means the Māori Health Authority established by section 17 of the Pae Ora (Healthy Futures) Act 2022
   - **prescribed State service** means each of the following:
     (a) the Ministry of Business, Innovation, and Employment:
     (b) the Ministry of Education:
@@ -295,8 +294,8 @@ The chief executive of a prescribed State service must ensure that the service,�
     (i) its operations have implemented any policy it is required to adopt under paragraph (a)﻿(i); and
     (ii) its contracts and funding arrangements have complied with paragraph (b).
 
-### 17 Health New Zealand and Māori Health Authority to adopt, report on, and require child protection policies
-The board of Health New Zealand and the board of the Māori Health Authority must each—
+### 17 Health New Zealand to adopt, report on, and require child protection policies
+The board of Health New Zealand must—
   (a) adopt, as soon as is practicable, a child protection policy; and
   (b) ensure that a copy of the policy is available on an Internet site maintained by or on behalf of the board; and
   (c) ensure that every contract, or funding arrangement, that after that commencement the board enters into with an independent person requires the person as soon as is practicable to adopt (and to review in accordance with paragraph (d)) a child protection policy if, in the opinion of the board,—
