@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2024-06-30_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’ Rights; andeto provide for matters incidental thereto
 
@@ -108,7 +108,7 @@ The purpose of this Act is to promote and protect the rights of health consumers
 ### 7 Strategies and objectives to be taken into account
 In exercising or performing any power or function under this Act, every person must—
   (a) take into account the Government Policy Statement on Health, and any health strategy issued under the Pae Ora (Healthy Futures) Act 2022, so far as those strategies are applicable to the circumstances of the particular case; and
-  (b) take into account the objectives of Health New Zealand set out in section 13 of the Pae Ora (Healthy Futures) Act 2022 and the objectives of the Māori Health Authority set out in section 18 of the Pae Ora (Healthy Futures) Act 2022.
+  (b) take into account the objectives of Health New Zealand set out in section 13 of the Pae Ora (Healthy Futures) Act 2022.
 
 ## Part 1 — Health and Disability Commissioner
 
