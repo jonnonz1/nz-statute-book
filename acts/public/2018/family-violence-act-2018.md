@@ -1,5 +1,5 @@
 # Family Violence Act 2018
-_Consolidation as at 2023-10-06_
+_Consolidation as at 2024-06-30_
 
 ### 1 Title
 This Act is the Family Violence Act 2018.
@@ -310,8 +310,8 @@ In this Part, unless the context otherwise requires,—
     (j) New Zealand Police:
     (k) Oranga Tamariki—Ministry for Children:
     (l) Ministry of Social Development:
-    (m) any government agency established in substitution for, or set up to take over any relevant function of, the departments and agencies listed in paragraphs (a) to (l):
-  (n) Māori Health Authority (that is, the Māori Health Authority established by section 17 of the Pae Ora (Healthy Futures) Act 2022)
+    (m) any government agency established in substitution for, or set up to take over any relevant function of, the departments and agencies listed in paragraphs (a) to (l)
+  (n)
   - **victim** , of family violence, means a person who—
     (a) has experienced, is experiencing, or may experience family violence (even if no offence involving the violence was, is, or is to be admitted or prosecuted); or
     (b) is, has been, or may be affected by family violence (even if no offence involving the violence was, is, or is to be admitted or prosecuted).
@@ -2018,7 +2018,7 @@ In complying with section 201(1) or (2), the service provider must, unless the s
 (4) This section does not affect or limit court information being able to be accessed by, disclosed to, or shared with, an assessor or a service provider only as authorised by or under—
   (a) section 236 or 237 of the District Court Act 2016; or
   (b) section 173 or 174 of the Senior Courts Act 2016; or
-  (c) regulations made under section 249(d) of this Act; or
+  (c) regulations made under section 249(1)﻿(d) of this Act; or
   (d) any other enactment.
 (5) This section does not affect or limit any collection, use, or disclosure of the information authorised or required by or under the Privacy Act 2020 or any other enactment.
 
