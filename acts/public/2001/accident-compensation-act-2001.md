@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2023-09-06_
+_Consolidation as at 2024-06-30_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -122,9 +122,9 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (a) an average of at least 30 hours per week; or
     (b) a lesser number of hours, if the lesser number of hours is defined as full-time employment in the employment agreement under which the earner was employed, because of the particular nature of that employment
   - **full-time study** means a course of study recognised as full-time by the place of education that administers it
-  - **government agency** , for the purposes of Part 8 and section 324(4)﻿(b)﻿(ii), includes a government department, a Crown entity, and the Māori Health Authority
+  - **government agency** , for the purposes of Part 8 and section 324(4)﻿(b)﻿(ii), includes a government department and a Crown entity
   - **health and safety regulator** has the same meaning as regulator in section 16 of the Health and Safety at Work Act 2015
-  - **Health New Zealand, the Māori Health Authority, or other provider** means Health New Zealand, the Māori Health Authority, or provider as each of those terms are defined in section 4 of the Pae Ora (Healthy Futures) Act 2022
+  - **Health New Zealand or other provider** means Health New Zealand established by section 11 of the Pae Ora (Healthy Futures) Act 2022 or another person who is a provider as defined by section 4 of that Act
   - **health practitioner** —
     (a) means a person who is, or is deemed to be, registered with an authority established or continued by section 114 of the Health Practitioners Competence Assurance Act 2003 as a practitioner of a particular health profession; but
     (b) in relation to that health profession and to any purpose stated in a relevant notice under section 322A, does not include a person who, for that purpose, is declared not to be a health practitioner
@@ -138,7 +138,6 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **individual rehabilitation plan** —
     (a) means a plan under section 75 that provides for a claimant to receive rehabilitation that will assist in accordance with section 70 in restoring the claimant's health, independence, and participation to the maximum practicable extent; and
     (b) includes an individual rehabilitation programme or individual rehabilitation plan entered into under a former Act
-  - **Māori Health Authority** means the Māori Health Authority established by section 17 of the Pae Ora (Healthy Futures) Act 2022
   - **medical practitioner** means a medical practitioner of a type defined in regulations made under this Act
   - **mental injury** has the meaning set out in section 27
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
@@ -1062,7 +1061,7 @@ A claimant who has suffered personal injury for which he or she has cover—
 (3) A treatment provider who is not qualified as required by subsection (1) must refer the claimant to a treatment provider who is so qualified, and the visit to that treatment provider, on referral, is also regarded as acute treatment.
 (4) For the purposes of subsection (2),—
   - **acute admission** means an admission within 7 days of the making of the decision to admit unless otherwise specified in regulations
-  - **publicly funded provider** means a provider that, for the time being, is funded by Health New Zealand, the Māori Health Authority, or the Minister of Health to provide public health acute services.
+  - **publicly funded provider** means a provider that, for the time being, is funded by Health New Zealand or the Minister of Health to provide public health acute services.
 
 **Individual rehabilitation plan**
 
@@ -2692,6 +2691,8 @@ A self-employed person who purchases weekly compensation under section 209 must 
 
 ### 234 Levies may be collected by instalments
 (1) The Corporation may collect any levy by instalments if the person liable to pay the levy agrees.
+(1A) The Corporation may charge interest as prescribed by regulations on any levy collected by instalments.
+(1B) The Corporation must consult levy payers on the proposed rate of interest payable on a levy collected by instalments or the proposed method by which the rate is to be calculated before recommending to the Minister that regulations be made prescribing the rate of interest or method by which the rate is to be calculated.
 (2) The Corporation may charge a reasonable fee to recover its costs of collecting any levy by instalments.
 (3) A fee charged under subsection (2) forms part of the associated levy for collection purposes.
 
@@ -3178,12 +3179,12 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
   (b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 
 ### 282 Disclosure of information by Corporation for health purposes
-(1) The purpose of this section is to facilitate the disclosure of information between the Corporation and the Ministry of Health and Health New Zealand and the Māori Health Authority for the purposes specified in subsection (2).
+(1) The purpose of this section is to facilitate the disclosure of information between the Corporation and the Ministry of Health and Health New Zealand for the purposes specified in subsection (2).
 (2) The purposes are—
   (a) to facilitate the calculation of the funding required for the provision of public health acute services; and
   (b) to facilitate the auditing and monitoring of the provision of treatment, under this Act and otherwise, by registered health professionals.
 (3) Disclosure of information under this section must not affect any entitlements provided to any claimant.
-(4) The Director-General of Health and the chief executive of Health New Zealand or the Māori Health Authority may request information from the Corporation under this section.
+(4) The Director-General of Health and the chief executive of Health New Zealand may request information from the Corporation under this section.
 (5) The persons about whom they may request information under this section are persons who have received, are receiving, or have applied to receive any treatment to which those persons are entitled.
 (6) The information they may request is—
   (a) such biographical information as is sufficient to identify those persons, including their addresses; and
@@ -3191,8 +3192,8 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 (7) A request under subsection (4) must be made in accordance with arrangements made between the Corporation and the Director-General, or the Corporation and each chief executive.
 (8) The Corporation may supply the information requested to, as appropriate,—
   (a) an officer or employee or agent of the Ministry authorised by the Director-General to receive it:
-  (b) an officer, employee or agent of Health New Zealand or the Māori Health Authority and who is authorised by that entity's chief executive to receive it.
-(9) The information may be supplied in such form as is determined by agreement between the Corporation and the Director-General, or the Corporation and each chief executive.
+  (b) an officer or employee or agent of Health New Zealand who is authorised by their chief executive to receive it.
+(9) The information may be supplied in such form as is determined by agreement between the Corporation and the Director-General, or the Corporation and the chief executive.
 
 ### 283 Disclosure of information by Corporation for injury prevention purposes
 (1) The purpose of this section is to facilitate the disclosure of information by the Corporation to the department responsible for administering the Oranga Tamariki Act 1989 for the purpose of preventing or limiting injury to children or young persons arising through unlawful activity.
@@ -3361,7 +3362,7 @@ In exercising any functions or powers under this Act or the Crown Entities Act 2
 (1) The Minister must enter into an annual service agreement in respect of the financial year commencing on 1 July with the Minister of Health requiring the Crown to purchase specified public health acute services, and such other services as are from time to time agreed by the Ministers, on behalf of the Corporation.
 (2) The service agreement must—
   (a) provide for the payment of money to the Crown in return for the Minister of Health—
-    (i) funding the provision of public health acute services, and any other services (including pharmaceuticals and laboratory services) agreed by Health New Zealand, the Māori Health Authority, or other providers, under Health New Zealand or the Māori Health Authority on behalf of the Corporation; and
+    (i) funding the provision of public health acute services, and any other services (including pharmaceuticals and laboratory services) agreed by Health New Zealand or other providers, under Health New Zealand on behalf of the Corporation; and
     (ii) arranging the funding of that provision; and
   (b) provide how the Minister of Health's implementation of the agreement is to be monitored; and
   (c) contain the terms and conditions that the Minister of Health and the Minister agree on; and
@@ -3382,7 +3383,7 @@ In exercising any functions or powers under this Act or the Crown Entities Act 2
   (c) provide for the Minister of Health to provide the Corporation with all information contained in the service agreement that is relevant to the services the Corporation funds.
 
 ### 303 Restriction on purchase by Corporation of public health acute services
-(1) The Corporation must not make any kind of agreement with Health New Zealand, the Māori Health Authority or other provider about—
+(1) The Corporation must not make any kind of agreement with Health New Zealand or other provider about—
   (a) any public health acute services that the Corporation is liable to provide under this Act, whether for the payment for or provision of those services; or
   (b) any other matter concerning those services.
 (2) This section applies to avoid doubt.
@@ -3753,6 +3754,9 @@ A person who commits an offence against this Act or any regulations made under i
   (g) prescribing classifications of industries and risks for the purposes of section 170:
   (h) specifying the threshold that must be met for the purpose of multiple classification in section 170, being a threshold based on the liable earnings of groups of employees or the overall levy payable by the employer:
   (ha) prescribing the rate of interest payable on any amount exceeding $1,000 under section 173(2)﻿(a) or the method by which the rate is to be calculated:
+  (hb) prescribing—
+    (i) the rate of interest payable on any levy collected by instalments under section 234 or the method by which the rate is to be calculated:
+    (ii) the circumstances in which the payment of the whole or any part of the interest may be remitted or waived:
   (i) prescribing the rate of interest payable on any amount under section 250(3) and the method by which the prescribed rate is to be applied (for example, 7.5% compounding monthly on the outstanding amount unpaid):
   (j) providing for levy adjustments and any matters relating to audits of safety management practices referred to in section 175(7):
   (k) prescribing, in relation to the levy payable under section 213(2)﻿(c),—
@@ -3777,6 +3781,8 @@ A person who commits an offence against this Act or any regulations made under i
 (2) Regulations made under subsection (1)﻿(ca) may—
   (a) specify the types of claims to which the system or systems of experience rating or of risk sharing referred to in section 169(2) apply; and
   (b) make different provision for different classes of levy payers or in respect of different industries or levies.
+(2A) The Minister may not recommend the making of regulations under subsection (1)﻿(hb)﻿(i) unless the Minister has first received and considered a recommendation from the Corporation made in accordance with section 234(1B).
+(2B) Regulations made under subsection (1)﻿(hb)﻿(i) may prescribe different rates of interest, or different methods by which rates are to be calculated, for different periods over which the Corporation collects instalments of a levy.
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 330 Consultation requirements for regulations relating to classifications, risk rating, or treatment injury
@@ -4518,6 +4524,24 @@ Section 278B(2)﻿(d) does not apply to the second annual scheme access report.
 The amendments set out in section 9 of the 2023 amendment Act apply only in respect of claimants—
   (a) whose entitlement to weekly compensation arose on or after the date on which section 9 commences; or
   (b) who were receiving weekly compensation before the date on which section 9 commences and remain entitled to receive weekly compensation on or after that date.
+
+### Part 5 — Accident Compensation (Interest on Instalment Plans) Amendment Act 2024
+
+### 16 Interpretation
+In this Part,—
+  - **2024 Act** means the Accident Compensation (Interest on Instalment Plans) Amendment Act 2024
+  - **instalment interest** has the meaning set out in clause 18(1).
+
+### 17 Rates of interest payable on levies collected by instalments
+Until regulations made under section 329(1)﻿(hb) come into force, the following interest rates apply for the purposes of section 234(1A) (as inserted by the 2024 Act):
+  (a) 0% on the total amount of levy collected over a 3-month instalment period:
+  (b) 0% on the total amount of levy collected over a 6-month instalment period:
+  (c) 2.73% on the total amount of levy collected over a 10-month instalment period.
+
+### 18 Validation of interest charged on levies collected by instalments
+(1) This clause applies to interest that was charged or purportedly charged by the Corporation on any levy collected by instalments (whether as a fee or as part of a fee under section 234 or otherwise) before the commencement of the 2024 Act (instalment interest).
+(2) The instalment interest, and all actions of the Corporation in fixing the rate of instalment interest and charging the instalment interest, are valid and declared to be and to have always been lawful.
+(3) Money received by the Corporation in payment of instalment interest, whether received before or after the commencement of the 2024 Act, is to be treated as having been lawfully paid to, received by, and applied by the Corporation as if it were part of the levy.
 
 ## Schedule 1 — Entitlements
 
