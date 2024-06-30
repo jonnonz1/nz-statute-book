@@ -1,5 +1,5 @@
 # Children and Young People's Commission Act 2022
-_Consolidation as at 2022-08-29_
+_Consolidation as at 2024-06-30_
 
 ### 1 Title
 This Act is the Children and Young People’s Commission Act 2022.
@@ -309,7 +309,7 @@ Information rules made under section 31 must contain rules relating to—
   (d) the Chief Commissioner under the Human Rights Act 1993:
   (e) the Director-General of Health:
   (f) the chief executive of Health New Zealand:
-  (g) the chief executive of the Māori Health Authority:
+  (g)
   (h) the Health and Disability Commissioner:
   (i) the Secretary for Education:
   (j) a board constituted under subpart 5 of Part 3 of the Education and Training Act 2020:
