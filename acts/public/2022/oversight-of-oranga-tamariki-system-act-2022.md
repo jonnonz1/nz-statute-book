@@ -1,5 +1,5 @@
 # Oversight of Oranga Tamariki System Act 2022
-_Consolidation as at 2023-05-01_
+_Consolidation as at 2024-06-30_
 
 ### 1 Title
 This Act is the Oversight of Oranga Tamariki System Act 2022.
@@ -588,7 +588,7 @@ The Monitor must notify the person (or persons) prescribed by regulations made u
   (e) the Chief Commissioner under the Human Rights Act 1993:
   (f) the Director-General of Health:
   (g) the chief executive of Health New Zealand:
-  (h) the chief executive of the Māori Health Authority:
+  (h)
   (i) the Health and Disability Commissioner:
   (j) the Secretary for Education:
   (k) a board constituted under subpart 5 of Part 3 of the Education and Training Act 2020:
