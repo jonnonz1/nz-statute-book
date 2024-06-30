@@ -1,5 +1,5 @@
 # Disabled Persons Community Welfare Act 1975
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2024-06-30_
 
 > An Act to make better provision for financial and other assistance in respect of the disabled, and for the support of voluntary organisations and private organisations concerned with providing facilities for the community welfare, sheltered employment, training, and day care of disabled persons
 
@@ -26,7 +26,6 @@ In this Act, unless the context otherwise requires,—
     (a) includes any institution, cottage home, family home, group home or hostel, or other premises which are not administered by the Crown and which are intended to accommodate or provide for 5 or more disabled persons; but
     (b) does not include a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001 or a hospital or institution specifically exempted by the Minister from the application of this Act
   - **lease** includes a licence; and has a corresponding meaning
-  - **Māori Health Authority** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** , in relation to any provisions of this Act, means, subject to any enactment, the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of those provisions
   - **New Zealand Health Plan** has the meaning in section 50 of the Pae Ora (Healthy Futures) Act 2022
@@ -60,7 +59,7 @@ Without limiting in any way the functions and powers conferred on the Minister o
   (b) to promote schemes providing for the assessment, work experience, training, sheltered employment, and other suitable activities of disabled persons:
   (c) to promote the general well-being, recreational opportunities, and welfare in the community of disabled persons by assisting individuals, families, and sections of the community to overcome social problems associated with physical or mental handicap:
   (d) to assist voluntary or charitable organisations engaged in the provision of services and facilities for the welfare in the community of disabled persons:
-  (e) to foster close working relationships, and (as appropriate) consult, with government departments, Health New Zealand, the Māori Health Authority, and other bodies, organisations, and professions concerned with rehabilitation and training of disabled persons and their placement in employment:
+  (e) to foster close working relationships, and (as appropriate) consult, with government departments, Health New Zealand, and other bodies, organisations, and professions concerned with rehabilitation and training of disabled persons and their placement in employment:
   (f) to co-operate with the Accident Compensation Corporation under the Accident Compensation Act 2001 in so far as its responsibilities relate to the promotion of the rehabilitation of persons who suffer personal injury for which they have cover under that Act:
   (g) to promote the co-ordination of services and facilities within the community designed to advance the welfare of disabled persons:
   (h) to encourage and stimulate public interest in the provision of services and facilities for the welfare in the community of disabled persons.
@@ -192,7 +191,7 @@ An application for a review may be made by—
   (c) the date on which the Minister of Health—
     (i) enters into an agreement with a service provider to provide residential care services to the person; or
     (ii) enters into an agreement in renewal of or substitution for a previous agreement, being a renewed or substituted agreement that contains a change in the residential care services to be provided to the person; or
-  (d) the date on which Health New Zealand or the Māori Health Authority—
+  (d) the date on which Health New Zealand—
     (i) enters into a service agreement or an arrangement of the kind described in section 94 of the Pae Ora (Healthy Futures) Act 2022 with a service provider to provide residential care services to the person; or
     (ii) enters into a service agreement or into an arrangement of that kind in renewal of or substitution for a previous service agreement or arrangement, being a renewed or substituted agreement or arrangement that contains a change in the residential care services to be provided to the person.
 (4) The Director-General may accept an application for a review after the time stated in subsection (3) if the Director-General is satisfied that there is good reason for the delay.
