@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2024-06-06_
+_Consolidation as at 2024-06-30_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4960,7 +4960,7 @@ An amount of income derived by the trustee of a community trust is exempt income
 
 ### CW 52B Disability support services
 Exempt income
-(1) An amount of income derived by or on behalf of a person or their carer is exempt income of the relevant person if the amount is paid by Health New Zealand, the Māori Health Authority, the Ministry for Disabled People, or the Ministry of Health for the purpose of the purchase of disability support services in relation to the person.
+(1) An amount of income derived by or on behalf of a person or their carer is exempt income of the relevant person if the amount is paid by Health New Zealand, the Ministry for Disabled People, or the Ministry of Health for the purpose of the purchase of disability support services in relation to the person.
 Meaning
 (2) In this section, disability support services has the meaning given in section 4 of the Pae Ora (Healthy Futures) Act 2022.
 
@@ -48314,7 +48314,7 @@ Final rule
 For 2 or more persons who derive income jointly as trustees of a trust, the residence of the joint trustees is given by sections HC 2(3) and HC 33(1C) (which relate to the obligations and residency of trustees).
 
 ### YD 3B Crown
-For the purposes of this Act and for the avoidance of doubt, Her Majesty the Queen in right of New Zealand is regarded as resident in New Zealand.
+For the purposes of this Act and for the avoidance of doubt, the Sovereign in right of New Zealand is regarded as resident in New Zealand.
 
 ### YD 4 Classes of income treated as having New Zealand source
 What this section does
