@@ -1,5 +1,5 @@
 # Oranga Tamariki Act 1989
-_Consolidation as at 2023-10-06_
+_Consolidation as at 2024-06-30_
 
 > Title
 
@@ -45,8 +45,8 @@ _Consolidation as at 2023-10-06_
     (k) every school board (as defined in section 15(1) of the Children’s Act 2014):
     (l) every early childhood service (as defined in section 10(1) of the Education and Training Act 2020):
     (m) any person, body, or organisation that provides regulated services (as specified in Schedule 1 of the Children’s Act 2014):
-    (n) any organisation or class of organisation designated as a child welfare and protection agency by regulations made under section 447(1)﻿(ga)﻿(i):
-    (o) the Māori Health Authority
+    (n) any organisation or class of organisation designated as a child welfare and protection agency by regulations made under section 447(1)﻿(ga)﻿(i)
+    (o)
   - **Children and Young People’s Commission** means the Children and Young People’s Commission established by section 11 of the Children and Young People’s Commission Act 2022
   - **community service** means any service approved by the chief executive as a community service pursuant to section 403
   - **convene** , in relation to a family group conference, means to take the appropriate steps under sections 20 and 25 (in the case of a family group conference authorised or required under Part 2) or under sections 247 and 253 (in the case of a conference authorised or required under Part 4) in order to cause the conference to meet; and has a corresponding meaning
@@ -104,7 +104,6 @@ _Consolidation as at 2023-10-06_
   - **iwi social service** means any incorporated body approved by the chief executive as an iwi social service pursuant to section 396(1)
   - **lay advocate** does not include any person who is a barrister or solicitor
   - **mana tamaiti (tamariki)** means the intrinsic value and inherent dignity derived from a child’s or young person’s whakapapa (genealogy) and their belonging to a whānau, hapū, iwi, or family group, in accordance with tikanga Māori or its equivalent in the culture of the child or young person
-  - **Māori Health Authority** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** means, subject to any enactment, the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **near relative** means a grandparent, aunt, uncle, brother, or sister; and includes a brother or sister of the half-blood as well as of the full-blood
@@ -1003,7 +1002,7 @@ A person to whom a document is produced for inspection under section 61 may—
 (2) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who contravenes subsection (1).
 
 ### 65 Use of documents in subsequent proceedings
-(1) No document produced, pursuant to an order under section 61,is admissible as evidence in any proceedings under this Act or any other Act if, but for the provisions of section 62, that document could not, by virtue of any enactment, rule of law, or privilege, have been ordered to be so produced.
+(1) No document produced, pursuant to an order under section 61, is admissible as evidence in any proceedings under this Act or any other Act if, but for the provisions of section 62, that document could not, by virtue of any enactment, rule of law, or privilege, have been ordered to be so produced.
 (2) No document or information shall be privileged from being given in evidence in any proceedings under this Act or any other Act, and no objection to the admissibility of any document or information in any such proceedings shall be upheld, merely because the document or information was obtained as a result of the production of any document pursuant to an order under section 61.
 
 **Information sharing**
