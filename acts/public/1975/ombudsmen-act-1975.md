@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2024-06-05_
+_Consolidation as at 2024-06-30_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -21,8 +21,8 @@ _Consolidation as at 2024-06-05_
 (2) For the purposes of Part 2 of Schedule 1, a company registered under the Companies Act 1993 is a related company of—
   (a) a Crown Research Institute if the Crown Research Institute, whether alone or together with any other Crown Research Institute, directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital):
   (b) Health New Zealand if Health New Zealand, directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital):
-  (c) a State enterprise if the State enterprise, whether alone or together with any other State enterprise, directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital):
-  (d) the Māori Health Authority if the Māori Health Authority directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital).
+  (c) a State enterprise if the State enterprise, whether alone or together with any other State enterprise, directly or indirectly owns, or controls the exercise of all the voting rights attaching to, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital).
+  (d)
 (3)
 (4)
 (5)
@@ -370,6 +370,5 @@ Despite the enactment of the Amendment Act, the entity known as Insurance & Fina
 | Climate Change Chief Executives Board | Ministry for the Environment |
 | Digital Executive Board | Department of Internal Affairs |
 | Executive Board for the Elimination of Family Violence and Sexual Violence | Ministry of Justice |
-| Spatial Planning Board | Ministry for the Environment |
 
 ## Schedule 2 — Enactments repealed
