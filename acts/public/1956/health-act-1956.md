@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2024-02-17_
+_Consolidation as at 2024-06-30_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -35,7 +35,6 @@ _Consolidation as at 2024-02-17_
   - **hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **infectious disease** means any disease for the time being specified in Part 1 or Part 2 of Schedule 1
   - **local authority** means a territorial authority within the meaning of the Local Government Act 2002
-  - **Māori Health Authority** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **medical examination** , in Part 3A, means the physical examination or testing of a person for the purpose of determining whether the person has or is likely to have an infectious disease, and includes—
     (a) the taking of a sample of tissue, blood, urine, or other bodily material for medical testing; and
     (b) any diagnostic tests required to detect the presence of, or immunity to, an infectious disease in a person
@@ -270,7 +269,7 @@ In this section and sections 22C to 22H, unless the context otherwise requires,�
   (h) any employee of the Ministry of Agriculture and Forestry authorised by the chief executive of that Ministry to receive the information, for the purposes of administering the Meat Act 1981 or the Animal Products Act 1999:
   (i) any employee of the New Zealand Transport Agency, for statistical or research purposes in relation to road safety or the environment:
   (j) an employee of Health New Zealand, for the purposes of exercising or performing any of that entity’s powers, duties, or functions under the Pae Ora (Healthy Futures) Act 2022:
-  (k) an employee of the Māori Health Authority, for the purposes of exercising or performing any of that entity’s powers, duties, or functions under the Pae Ora (Healthy Futures) Act 2022:
+  (k)
   (l) an employee of the New Zealand Blood and Organ Service, for the purposes of exercising or performing any of that entity’s powers, duties, or functions under the Pae Ora (Healthy Futures) Act 2022.
 (3) For the purposes of information privacy principle 11(1)﻿(c) set out in section 22 of the Privacy Act 2020, the disclosure of health information about an individual may be authorised—
   (a) by that individual personally, if he or she has attained the age of 16 years; or
@@ -278,8 +277,8 @@ In this section and sections 22C to 22H, unless the context otherwise requires,�
 (4) Information provided or obtained under Part 3A may not be used or disclosed by anyone except as authorised or required under a provision of this Act or another Act.
 
 ### 22D Duty to provide health information
-(1) The Minister may at any time, by notice in writing, require Health New Zealand or the Māori Health Authority to provide, in such manner as may from time to time be required, such returns or other information as is specified in the notice concerning the condition or treatment of, or the services provided to, any individuals in order to obtain statistics for health purposes or for the purposes of advancing health knowledge, health education, or health research.
-(2) Subject to subsection (3), it is the duty of Health New Zealand or the Māori Health Authority to provide the returns or other information specified in a notice given to it under subsection (1) within such time, and in such form, as is specified in the notice.
+(1) The Minister may at any time, by notice in writing, require Health New Zealand to provide, in such manner as may from time to time be required, such returns or other information as is specified in the notice concerning the condition or treatment of, or the services provided to, any individuals in order to obtain statistics for health purposes or for the purposes of advancing health knowledge, health education, or health research.
+(2) Subject to subsection (3), it is the duty of Health New Zealand to provide the returns or other information specified in a notice given to it under subsection (1) within such time, and in such form, as is specified in the notice.
 (3) No information that would enable the identification of an individual may be provided under this section unless—
   (a) the individual consents to the provision of such information; or
   (b) the identifying information is essential for the purposes for which the information is sought.
@@ -288,7 +287,7 @@ In this section and sections 22C to 22H, unless the context otherwise requires,�
   (b) by a representative of that individual.
 
 ### 22E Duty to provide information for purposes of blood collection
-The Minister may, at any time, by notice in writing, require Health New Zealand or the Māori Health Authority to provide to an entity appointed under section 63 of the Human Tissue Act 2008, in such manner as the Minister specifies in the notice, such information as is specified in the notice, being health information of the kind referred to in paragraph (d) or paragraph (e) of the definition of that term in section 22B.
+The Minister may, at any time, by notice in writing, require Health New Zealand to provide to an entity appointed under section 63 of the Human Tissue Act 2008, in such manner as the Minister specifies in the notice, such information as is specified in the notice, being health information of the kind referred to in paragraph (d) or paragraph (e) of the definition of that term in section 22B.
 
 ### 22F Communication of information for diagnostic and other purposes
 (1) Every person who holds health information of any kind shall, at the request of the individual about whom the information is held, or a representative of that individual, or any other person that is providing, or is to provide, services to that individual, disclose that information to that individual or, as the case requires, to that representative or to that other person.
@@ -314,10 +313,10 @@ The Minister may, at any time, by notice in writing, require Health New Zealand 
   (g) an area health board:
   (h) a hospital board:
   (i) the Department of Health:
-  (j) Health New Zealand:
-  (k) Māori Health Authority.
-(2) Every provider must, forthwith after a request by the Director-General or the chief executive of Health New Zealand or the Māori Health Authority or of Health Benefits Limited, make available any records of the provider that relate to the services concerned for inspection—
-  (a) by a person authorised in writing by the Director-General or the chief executive of Health New Zealand or the Māori Health Authority or Health Benefits Limited (as the case may be) for this purpose, being a person who holds a professional qualification relevant to the services provided by the provider or any other person the Director-General or the chief executive considers appropriate; and
+  (j) Health New Zealand.
+  (k)
+(2) Every provider must, forthwith after a request by the Director-General or the chief executive of Health New Zealand or of Health Benefits Limited, make available any records of the provider that relate to the services concerned for inspection—
+  (a) by a person authorised in writing by the Director-General or the chief executive of Health New Zealand or Health Benefits Limited (as the case may be) for this purpose, being a person who holds a professional qualification relevant to the services provided by the provider or any other person the Director-General or the chief executive considers appropriate; and
   (b) for the purpose of verifying the claim for payment.
 (3) Any person authorised in accordance with subsection (2) to inspect the records of a provider may copy or take notes of those records for the purposes of the inspection.
 
