@@ -1,5 +1,5 @@
 # Health Sector (Transfers) Act 1993
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-06-30_
 
 > Title
 
@@ -48,10 +48,9 @@ _Consolidation as at 2023-12-23_
     (b) debt securities within the meaning of the Financial Markets Conduct Act 2013; and
     (c) contingent liabilities; and
     (d) interests of any kind in any of the foregoing
-  - **Māori Health Authority** has the meaning in section 4 of the Pae Ora (Healthy Futures) Act 2022
   - **predecessor in title** , in relation to Health New Zealand, means any of its predecessors in title that was a DHB, an area health board or a hospital board or a Crown health enterprise or a hospital and health service or a similar body established under an enactment relating to the management of public hospitals and charitable institutions
   - **publicly-owned health and disability organisation** —
-    (a) means Health New Zealand, the Māori Health Authority, NZBOS, HQSC, and Pharmac; and
+    (a) means Health New Zealand, NZBOS, HQSC, and Pharmac; and
     (b) includes any companies wholly or partially owned by those organisations
   - **rights** includes powers, privileges, interests, leases, licences, approvals, consents, designations, permissions, dispensations, authorisations, benefits, and equities of any kind, whether actual, contingent, or prospective
   - **transfer** includes—and the word has a corresponding meaning
@@ -88,8 +87,8 @@ The purposes of this Act are as follows:
   (a) to provide for assets, liabilities, or functions within the public health and disability sector to be transferred to the Crown or to certain specified bodies within that sector:
   (b) to provide for the effect and the consequences of—
     (i) transfers, in accordance with this Act, of assets, liabilities, or functions within the public health and disability sector:
-    (ii) sales or other dispositions of land by Health New Zealand or the Māori Health Authority:
-  (c) to permit Health New Zealand or the Māori Health Authority, subject to specified conditions, to sell or dispose of land that is subject to trusts or certain other restrictions.
+    (ii) sales or other dispositions of land by Health New Zealand:
+  (c) to permit Health New Zealand, subject to specified conditions, to sell or dispose of land that is subject to trusts or certain other restrictions.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
@@ -211,36 +210,36 @@ For the avoidance of doubt, it is hereby declared that, subject to sections 11 t
 (9) Nothing in this section shall limit the provisions of any other enactment or rule of law relating to the variation of trusts.
 (10) The reasonable costs of Public Trust in acting under this section shall be paid out of money appropriated by Parliament for the purpose.
 
-### 11A Power of Health New Zealand and Māori Health Authority to deal with trust land
-(1) Subject to this section and section 99 of the Pae Ora (Healthy Futures) Act 2022, the powers of Health New Zealand or the Māori Health Authority to sell, exchange, mortgage, or charge land may be exercised by Health New Zealand or the Māori Health Authority in respect of land held in trust for any purpose, despite the terms of that trust.
+### 11A Power of Health New Zealand to deal with trust land
+(1) Subject to this section and section 99 of the Pae Ora (Healthy Futures) Act 2022, the powers of Health New Zealand to sell, exchange, mortgage, or charge land may be exercised by Health New Zealand in respect of land held in trust for any purpose, despite the terms of that trust.
 (2) The proceeds of any sale effected pursuant to subsection (1), and the land or money obtained by any exchange effected pursuant to subsection (1), are to be subject, so far as may be practicable, to the same trusts as the land so disposed of, or to any similar trusts that the Attorney-General may approve.
 (3) Nothing in this section applies to—
   (a) any public reserve within the meaning of the Reserves Act 1977; or
   (b) any Crown endowment land.
 (4) In respect of any land held in trust, the power of sale conferred by subsection (1) may not be exercised if the sale of the land is expressly prohibited by a term of the trust.
 (5) Any question as to whether subsection (4) prevents the sale of any land may be determined by the Attorney-General.
-(6) No mortgage or charge given by Health New Zealand or the Māori Health Authority in respect of any land that is held in trust for any purpose may contain or imply any power of sale of the land, whether or not the mortgage or charge purports to do so.
+(6) No mortgage or charge given by Health New Zealand in respect of any land that is held in trust for any purpose may contain or imply any power of sale of the land, whether or not the mortgage or charge purports to do so.
 
 ### 11B Power of Minister of Health to cancel Crown endowment
-(1) The Minister of Health may, by written notice given to Health New Zealand or the Māori Health Authority, declare that any land vested in Health New Zealand or the Māori Health Authority (being land that the Attorney-General has, by written notice to the Minister of Health, declared to be Crown endowment land) is no longer subject to the Crown endowment.
+(1) The Minister of Health may, by written notice given to Health New Zealand, declare that any land vested in Health New Zealand (being land that the Attorney-General has, by written notice to the Minister of Health, declared to be Crown endowment land) is no longer subject to the Crown endowment.
 (2) Where a notice is given by the Minister of Health under subsection (1), from the date of the notice the land—
   (a) ceases to be subject to the Crown endowment; and
-  (b) subject to section 99 of the Pae Ora (Healthy Futures) Act 2022, may be sold, exchanged, mortgaged, charged, or otherwise dealt with by Health New Zealand or the Māori Health Authority free from the terms of the Crown endowment.
-(3) The Attorney-General may declare any land vested in Health New Zealand or the Māori Health Authority to be Crown endowment land for the purposes of subsection (1) even if either or both of the following applies:
+  (b) subject to section 99 of the Pae Ora (Healthy Futures) Act 2022, may be sold, exchanged, mortgaged, charged, or otherwise dealt with by Health New Zealand free from the terms of the Crown endowment.
+(3) The Attorney-General may declare any land vested in Health New Zealand to be Crown endowment land for the purposes of subsection (1) even if either or both of the following applies:
   (a) the purpose of the Crown endowment can no longer be attained or ascertained:
   (b) it is uncertain whether the land is Crown endowment land.
 
 ### 11C Power of DHB to apply proceeds of sale of Crown endowment land
-(1) Subject to subsection (2), where Health New Zealand or the Māori Health Authority holds in trust the proceeds of the sale of any land (being land that was, at the time of the sale, subject to a Crown endowment), Health New Zealand or the Māori Health Authority may, despite the terms of that endowment, and whether the land was sold before or after the commencement of this section, apply the proceeds of the sale—
-  (a) for the purposes of any health services or disability support services, or both, provided by Health New Zealand or the Māori Health Authority; or
-  (b) for any purpose for which Health New Zealand or the Māori Health Authority may lawfully apply its own property.
-(2) The power conferred by subsection (1) may be exercised in respect of the proceeds of the sale of any land only if the Attorney-General, by written notice given to Health New Zealand or the Māori Health Authority, declares that the land sold (whether before or after the commencement of this section) was Crown endowment land.
-(3) A notice may be given under subsection (2) in respect of land sold by Health New Zealand or the Māori Health Authority even if either or both of the following applies:
+(1) Subject to subsection (2), where Health New Zealand holds in trust the proceeds of the sale of any land (being land that was, at the time of the sale, subject to a Crown endowment), Health New Zealand may, despite the terms of that endowment, and whether the land was sold before or after the commencement of this section, apply the proceeds of the sale—
+  (a) for the purposes of any health services or disability support services, or both, provided by Health New Zealand; or
+  (b) for any purpose for which Health New Zealand may lawfully apply its own property.
+(2) The power conferred by subsection (1) may be exercised in respect of the proceeds of the sale of any land only if the Attorney-General, by written notice given to Health New Zealand, declares that the land sold (whether before or after the commencement of this section) was Crown endowment land.
+(3) A notice may be given under subsection (2) in respect of land sold by Health New Zealand even if either or both of the following applies:
   (a) the purpose of the Crown endowment can no longer be attained or ascertained:
   (b) it is uncertain whether the land sold was Crown endowment land.
 
 ### 11D Saving in respect of Charitable Trusts Act 1957
-Nothing in this Act prevents Health New Zealand or the Māori Health Authority from exercising the rights conferred on trustees by Part 3 of the Charitable Trusts Act 1957.
+Nothing in this Act prevents Health New Zealand from exercising the rights conferred on trustees by Part 3 of the Charitable Trusts Act 1957.
 
 ### 11E Health sector reserves
 (1) In this section, health sector reserve means any land vested in a transferee that is a reserve within the meaning of the Reserves Act 1977.
@@ -274,7 +273,7 @@ Nothing in sections 11A to 11E limits the application of—
 (1) Subject to subsections (2) to (5), the provisions of Part 4A of the Conservation Act 1987 apply, with all necessary modifications, in relation to every sale or other disposition of land by a transferee as if that disposition of land were a sale or other disposition of land by the Crown.
 (2) The provisions of Part 4A of the Conservation Act 1987 do not apply in relation to any sale or other disposition of land by a transferee if the land sold or otherwise disposed of—
   (a) is land that,—
-    (i) before being transferred to, or vested in, the transferee under this Act or the Pae Ora (Healthy Futures) Act 2022 had been given to the Crown, Health New Zealand, the Māori Health Authority, or any predecessors in title of Health New Zealand; and
+    (i) before being transferred to, or vested in, the transferee under this Act or the Pae Ora (Healthy Futures) Act 2022 had been given to the Crown, Health New Zealand, or any predecessors in title of Health New Zealand; and
     (ii) is being sold or disposed of to the donor of the land or to the successor of the donor of the land (being the person who would have been entitled to the land under the will or intestacy of the donor had the donor owned the land at the date of the donor's death); or
   (b) is land acquired by the transferee other than land acquired by virtue of—
     (i) the operation of section 95 of the New Zealand Public Health and Disability Act 2000; or
