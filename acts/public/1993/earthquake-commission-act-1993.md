@@ -1,5 +1,5 @@
 # Earthquake Commission Act 1993
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-07-01_
 
 > An Act to make provision with respect to the insurance of residential property against damage caused by certain natural disasters
 
