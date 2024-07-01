@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2022-10-27_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -236,7 +236,7 @@ In achieving the purposes of this Act, the Bank must take into account the follo
   (b) acts, or has at any material time acted, as an insurer in New Zealand or elsewhere; and
   (c) is liable as an insurer under a contract of insurance to a New Zealand policyholder.
 (2) A person does not carry on insurance business in New Zealand for the purposes of this Act if the person is—
-  (a) a Crown entity within the meaning of section 7(1) of the Crown Entities Act 2004 (for example, the Accident Compensation Corporation or the Earthquake Commission); or
+  (a) a Crown entity within the meaning of section 7(1) of the Crown Entities Act 2004 (for example, the Accident Compensation Corporation or Toka Tū Ake – Natural Hazards Commission); or
   (b) an entity named in Part 1 of Schedule 1 of the Ombudsmen Act 1975; or
   (c) the National Provident Fund Board (as continued in existence under section 12 of the National Provident Fund Restructuring Act 1990) or a subsidiary of the Board; or
   (d) a public entity (within the meaning of section 5(1) of the Public Audit Act 2001) that is declared by regulations to be an entity to which this paragraph applies; or
@@ -360,7 +360,7 @@ This Act binds the Crown.
     (ii) the nature and extent of prudential supervision that applies to the applicant and to insurers generally in the applicant's home jurisdiction are appropriate, having regard to whether the prudential supervision is, in terms of achieving the purposes of this Act, at least as satisfactory as the nature and extent of prudential supervision that applies to insurers incorporated in New Zealand; and
   (k) the applicant—
     (i) is registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008; or
-    (ii) complies with section 13(a) of that Act; and
+    (ii) complies with section 13(1)﻿(a) of that Act; and
   (l) the applicant has the ability to comply with the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (if the applicant is, or will be, a reporting entity under that Act); and
   (m) the applicant complies with any other prescribed requirements.
 (2) For the purposes of subsection (1)﻿(c) and (d), the Bank must, in the case of an applicant that is an overseas person, have regard to any overseas policyholder preference.
@@ -373,7 +373,7 @@ This Act binds the Crown.
   (f) matters concerning insurers that are insolvent or otherwise in serious financial difficulties; and
   (g) the disqualification of persons to be or to act as directors or relevant officers of an insurer.
 (4) The law and regulatory requirements referred to in subsection (1)﻿(j)﻿(i), and the nature and extent of the prudential supervision referred to in subsection (1)﻿(j)﻿(ii), must be treated as being appropriate for the purposes of those provisions if the applicant's home jurisdiction is a prescribed jurisdiction for the purposes of this subsection.
-(5) If an applicant is not required under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 to be registered under that Act, the applicant is still required to comply with section 13(a) of that Act for the purposes of subsection (1)﻿(k).
+(5) If an applicant is not required under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 to be registered under that Act, the applicant is still required to comply with section 13(1)﻿(a) of that Act for the purposes of subsection (1)﻿(k).
 
 ### 20 Carrying on business in prudent manner
 (1) Subsection (2) applies when the Bank is—
