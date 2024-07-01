@@ -1,5 +1,5 @@
 # Privacy Act 2020
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Privacy Act 2020.
@@ -1587,12 +1587,13 @@ In this subpart, unless the context otherwise requires,—
     (a) the Accident Compensation Corporation:
     (b) the Civil Aviation Authority of New Zealand:
     (c) Health New Zealand:
-    (d) the Earthquake Commission:
+    (d)
     (e) Education New Zealand:
     (f) Fire and Emergency New Zealand:
     (g) Housing New Zealand Corporation:
     (h) the New Zealand Qualifications Authority:
     (i) the Tertiary Education Commission:
+    (ia) Toka Tū Ake – Natural Hazards Commission:
     (j) WorkSafe New Zealand.
     (k)
 
