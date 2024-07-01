@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2024-07-01_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -35,7 +35,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
 ### 3 Ombudsmen
 (1) There shall be appointed, as officers of Parliament and Commissioners for Investigations, 1 or more Ombudsmen.
 (2) Subject to the provisions of section 7, each Ombudsman shall be appointed by the Governor-General on the recommendation of the House of Representatives.
-(3) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason of his appointment as an Ombudsman.
+(3) No person shall be deemed to be employed in the service of the Sovereign for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason of his appointment as an Ombudsman.
 (4) One of the Ombudsmen shall be so appointed as Chief Ombudsman, and shall be responsible for the administration of the office, and the co-ordination and allocation of the work between the Ombudsmen.
 (5) In any case where the Governor-General is satisfied that the Chief Ombudsman is incapacitated by illness, absence, or other sufficient cause from performing the duties of his office, the Governor-General may appoint one of the other Ombudsmen to act for the Chief Ombudsman during his incapacity.
 (6) No appointment of an acting Chief Ombudsman and no acts done by him as such, shall in any proceedings be questioned on the ground that the occasion for his appointment had not arisen or had ceased.
@@ -83,7 +83,7 @@ An Ombudsman shall not be capable of being a member of Parliament or of a local 
 (1) The Chief Ombudsman may appoint such officers and employees (including acting, temporary, or casual officers and employees) as may be necessary for the efficient carrying out of the functions, duties, and powers of the Ombudsmen under this Act.
 (2) Except where this Act otherwise expressly provides, the Chief Ombudsman shall have all the rights, duties, and powers of an employer in respect of the persons appointed under subsection (1).
 (3) The Chief Ombudsman shall operate a personnel policy that complies with the principle of being a good employer.
-(4) No person appointed under subsection (1) shall be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason of that person's appointment under this section.
+(4) No person appointed under subsection (1) shall be deemed to be employed in the service of the Sovereign for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason of that person's appointment under this section.
 
 ### 12 Superannuation or retiring allowances of Ombudsmen and staff
 For the purpose of providing superannuation or retiring allowances for any Ombudsman and any officer or employee appointed under this Act, there may from time to time be paid sums by way of contributions or subsidies to any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
@@ -358,11 +358,11 @@ Despite the enactment of the Amendment Act, the entity known as Insurance & Fina
 | --- | --- |
 | Aroturuki Tamariki—Independent Children’s Monitor | Education Review Office |
 | Cancer Control Agency | Ministry of Health |
+| Charter School Agency | Ministry of Education |
 | Ministry for Disabled People | Ministry of Social Development |
 | Ministry for Ethnic Communities | Department of Internal Affairs |
 | National Emergency Management Agency | Department of the Prime Minister and Cabinet |
 | Office for Māori Crown Relations—Te Arawhiti | Ministry of Justice |
-| Social Wellbeing Agency | Public Service Commission |
 
 | Interdepartmental executive board | Servicing department |
 | --- | --- |
