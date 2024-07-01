@@ -1,5 +1,5 @@
 # Canterbury Earthquakes Insurance Tribunal Act 2019
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Canterbury Earthquakes Insurance Tribunal Act 2019.
@@ -41,7 +41,8 @@ In this Act, unless the context otherwise requires,—
       (ii) the person was a plaintiff in proceedings that a court has transferred to the tribunal under section 16; or
     (b) an insurer or the EQC, if they were a plaintiff in proceedings that a court has transferred to the tribunal under section 16
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of subpart 1 of Part 2
-  - **EQC** means the Crown entity, called the Earthquake Commission, continued under section 4 of the Earthquake Commission Act 1993
+  - **Earthquake Commission Act 1993** means that Act as in force before its repeal by section 162 of the Natural Hazards Insurance Act 2023, and section 38(2) of the Legislation Act 2019 does not apply
+  - **EQC** means the Crown entity continued under section 4 of the Earthquake Commission Act 1993 with the name Earthquake Commission, and, after the commencement of the Natural Hazards Insurance Act 2023, continued under section 125 of that Act with the name Toka Tū Ake – Natural Hazards Commission
   - **expert** includes both expert advisers appointed by the tribunal (see sections 24(1)﻿(f), 27(1)﻿(f), and 39(1)﻿(f)) and experts retained by parties as advisers or witnesses
   - **function** includes a function, power, or duty
   - **insurance claim** means—
