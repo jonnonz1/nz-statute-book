@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2024-03-01_
+_Consolidation as at 2024-07-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -4843,7 +4843,7 @@ Without limiting any other method of proof, the production in proceedings of a c
     (i) separate targets for different classes of imported vehicles; and
     (ii) targets adjusted for vehicle weights; and
     (iii) formulas for calculating targets, including vehicle weight-adjusted targets; and
-    (iv) targets in respect of any calendar year after 2027, beginning on 1 January of the relevant calendar year:
+    (iv) targets in respect of any calendar year after 2024, beginning on 1 January of the relevant calendar year:
   (k) requiring vehicle importers to include, among the vehicles they import in any given year, a minimum proportion of vehicles with zero carbon dioxide emissions:
   (l) prescribing procedures and requirements for the purposes of banking and transferring carbon dioxide credits:
   (m) prescribing procedures and requirements for deferring an obligation to meet carbon dioxide emissions targets:
@@ -5095,16 +5095,10 @@ For the purposes of this Part, a vehicle is imported into New Zealand at the poi
   (b) for the calendar year beginning on 1 January 2024,—
     (i) for Type A vehicles, 133.9 grams; and
     (ii) for Type B vehicles, 201.9 grams; and
-  (c) for the calendar year beginning on 1 January 2025,—
-    (i) for Type A vehicles, 112.6 grams; and
-    (ii) for Type B vehicles, 155 grams; and
-  (d) for the calendar year beginning on 1 January 2026,—
-    (i) for Type A vehicles, 84.5 grams; and
-    (ii) for Type B vehicles, 116.3 grams; and
-  (e) for the calendar year beginning on 1 January 2027 and, subject to paragraph (f), any subsequent year,—
-    (i) for Type A vehicles, 63.3 grams; and
-    (ii) for Type B vehicles, 87.2 grams; and
-  (f) for any calendar year after 2027, any target set by regulations made under section 167C(1)﻿(j)﻿(iv).
+  (c)
+  (d)
+  (e)
+  (f) for any calendar year after 2024, any target set by regulations made under section 167C(1)﻿(j)﻿(iv).
 (2) Every reference to grams in subsection (1) must be read as a reference to grams of carbon dioxide per kilometre.
 
 ### 175A Minister must review targets
