@@ -1,5 +1,5 @@
 # Road User Charges (Light Electric RUC Vehicles) Amendment Act 2024
-_Consolidation as at 2024-03-28_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Road User Charges (Light Electric RUC Vehicles) Amendment Act 2024.
