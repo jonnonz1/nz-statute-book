@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2022-12-01_
+_Consolidation as at 2024-07-01_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -773,7 +773,10 @@ Where any conduct, practice, requirement, or condition that is not apparently in
     (v) has otherwise done anything under or by reference to this Act; or
   (b) A believes or suspects that B (or a relative or associate of B) intends to do, or has done, anything mentioned in paragraph (a).
 (2) Subsection (1) does not apply if B knowingly made a false allegation or otherwise acted in bad faith.
-(3) Any breach of section 22(1) of the Protected Disclosures (Protection of Whistleblowers) Act 2022 is unlawful under this Act. The rest of this Act applies to that breach (so that, for example, section 68 of this Act applies to treat employee actions or omissions as done or omitted by their employer).
+(3) The following is unlawful under this Act:
+  (a) a breach of section 22(1) of the Protected Disclosures (Protection of Whistleblowers) Act 2022:
+  (b) a breach of section 40(1) of the Integrity Sport and Recreation Act 2023 to which section 40(4) of that Act applies.
+(4) The rest of this Act applies to a breach referred to in subsection (3) (so that, for example, section 68 of this Act applies to treat an employee’s actions or omissions as done or omitted by their employer).
 
 ### 67 Advertisements
 (1) It shall be unlawful for any person to publish or display, or to cause or allow to be published or displayed, any advertisement or notice which indicates, or could reasonably be understood as indicating, an intention to commit a breach of any of the provisions of this Part.
