@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -186,7 +186,7 @@ All persons exercising functions in relation to the development and implementati
 (2) A person purporting to act under any delegation under section 10 is presumed to be acting in accordance with the terms of the delegation in the absence of proof to the contrary.
 (3) A delegation under section 10 is revocable in writing at will, and no such delegation prevents the exercise of any function or power by the Director.
 (4) A delegation under section 10, until revoked, continues in force according to its tenor even if the Director by whom it was made has ceased to hold office.
-(5) No person is employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 merely because functions and powers are delegated to that person under section 10.
+(5) No person is employed in the service of the Sovereign for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 merely because functions and powers are delegated to that person under section 10.
 
 **National Recovery Manager**
 
@@ -201,7 +201,7 @@ All persons exercising functions in relation to the development and implementati
 (2) A person purporting to act under any delegation under section 11A is presumed to be acting in accordance with the terms of the delegation in the absence of proof to the contrary.
 (3) A delegation under section 11A is revocable in writing at will, and no such delegation prevents the performance of any function or the exercise of any power by the Director.
 (4) A delegation under section 11A, until revoked, continues in force according to its tenor even if the Director who made the delegation has ceased to hold office.
-(5) A person is not employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 merely because functions and powers are delegated to that person under section 11A.
+(5) A person is not employed in the service of the Sovereign for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 merely because functions and powers are delegated to that person under section 11A.
 
 **Civil Defence Emergency Management Groups**
 
@@ -1305,7 +1305,7 @@ A person who commits an offence against this Act is liable on conviction,—
   (b) in the case of uninsured property,—
     (i) by the local authorities that are members of the relevant Civil Defence Emergency Management Group or Groups if the action or measure that caused the damage was undertaken by or on behalf of the Group or Groups; or
     (ii) by the Crown if the action or measure that caused the damage was undertaken by or on behalf of the Crown.
-(8) Despite anything in subsection (7), if any emergency or anticipated emergency is a natural disaster within the meaning of the Earthquake Commission Act 1993 or within the meaning of any policy or contract of insurance, the loss or damage is to be treated as natural disaster damage for the purposes of that Act, policy, or contract.
+(8) Despite anything in subsection (7), if any emergency or anticipated emergency is a natural hazard within the meaning of the Natural Hazards Insurance Act 2023 or within the meaning of any policy or contract of insurance, the loss or damage is to be treated as natural hazard damage for the purposes of that Act, policy, or contract.
 (9) Nothing in this section prevents the Crown or a Civil Defence Emergency Management Group from making any ex gratia payments it considers justifiable on the basis of hardship or fairness.
 (10) For the purposes of this section,—
   - **insurer** means any provider of insurance
