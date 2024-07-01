@@ -1,5 +1,5 @@
 # Fuel Industry Act 2020
-_Consolidation as at 2023-07-27_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Fuel Industry Act 2020.
@@ -16,7 +16,13 @@ This Act is the Fuel Industry Act 2020.
 ## Part 1 — Preliminary provisions
 
 ### 3 Purpose
-The purpose of this Act is to promote competition in engine fuel markets for the long-term benefit of end users of engine fuel products.
+(1) The purpose of Parts 1 to 3 is to promote competition in engine fuel markets for the long-term benefit of end users of engine fuel products.
+(2) The purpose of Part 4 is to promote resilience of engine fuel supplies in New Zealand.
+
+### 3A Act does not apply to certain reserve fuel
+This Act does not apply to—
+  (a) fuel that is imported, for the purpose of holding reserve fuel stock, by the Crown or under an agreement with the Crown; or
+  (b) any activities or any person in respect of that fuel.
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -130,7 +136,7 @@ This Act binds the Crown.
   (b) in the case of regulations specifying engine fuels that are included in, or excluded from, the definition of specified engine fuel,—
     (i) the Minister has had regard to the impact of the regulations on incentives to innovate and to invest in markets for specified engine fuels; and
     (ii) the Minister is satisfied that a significant proportion of the relevant engine fuel is used by motor vehicles (as defined in section 2(1) of the Land Transport Act 1998); and
-    (iii) the Minister is satisfied that the regulations are necessary or desirable after having regard to the purpose of this Act.
+    (iii) the Minister is satisfied that the regulations are necessary or desirable after having regard to the purpose of Parts 1 to 3.
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 2 — Fixed wholesale contractual terms
@@ -185,7 +191,7 @@ A wholesale supplier must ensure that the terms of its fixed wholesale contracts
   (d) prescribing the maximum percentage for the purpose of section 18.
 (2) The Minister may make a recommendation under subsection (1) only if—
   (a) the Minister has consulted any fuel industry participants that the Minister considers are likely to be significantly affected by the regulations; and
-  (b) the Minister is satisfied that the regulations are necessary or desirable after having regard to the purpose of this Act.
+  (b) the Minister is satisfied that the regulations are necessary or desirable after having regard to the purpose of Parts 1 to 3.
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 3 — Consumer information requirements
@@ -213,7 +219,7 @@ A retailer, or the person responsible for displaying information at a retail fue
   (e) any information that must not be displayed (for example, discounts on the price of engine fuels).
 (3) The Minister may make a recommendation under subsection (1) only if—
   (a) the Minister has consulted any fuel industry participants that the Minister considers are likely to be significantly affected by the regulations; and
-  (b) the Minister is satisfied that the regulations are necessary or desirable after having regard to the purposes of this Act and this subpart.
+  (b) the Minister is satisfied that the regulations are necessary or desirable after having regard to the purposes of Parts 1 to 3 and this subpart.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 4 — Disclosure of information
@@ -221,7 +227,7 @@ A retailer, or the person responsible for displaying information at a retail fue
 ### 25 Purposes of this subpart
 The purposes of this subpart are—
   (a) to enable the chief executive and the Commission to monitor the performance of engine fuel markets; and
-  (b) to ensure that sufficient information is readily available to the chief executive and the Commission to assess whether the purpose of this Act is being met.
+  (b) to ensure that sufficient information is readily available to the chief executive and the Commission to assess whether the purpose of Parts 1 to 3 is being met.
 
 ### 26 Obligation to comply with information disclosure requirements
 (1) Every fuel industry participant to which requirements prescribed by the regulations made under this subpart apply must comply with those requirements.
@@ -240,7 +246,7 @@ The purposes of this subpart are—
   (e) requirements relating to the publication of information that is required to be disclosed to the chief executive or the Commission.
 (3) The Minister may make a recommendation under subsection (1) only if—
   (a) the Minister has consulted any fuel industry participants that the Minister considers are likely to be significantly affected by the regulations; and
-  (b) the Minister is satisfied that the regulations are necessary or desirable after having regard to the purpose of this Act and this subpart.
+  (b) the Minister is satisfied that the regulations are necessary or desirable after having regard to the purpose of Parts 1 to 3 and this subpart.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 28 Publication of analysis or summary
@@ -249,13 +255,7 @@ The chief executive or the Commission may,—
   (b) publish any resulting analysis or summary.
 
 ### 29 Information sharing between Commission and chief executive
-(1) The Commission may provide to the chief executive, and the chief executive may provide to the Commission, any information, or a copy of any document, that the Commission or the chief executive (as the case may be)—
-  (a) holds in relation to the exercise of powers, or the performance of functions and duties, in respect of this subpart; and
-  (b) considers may assist the other for the purposes of this subpart.
-(2) The Commission and the chief executive may use any information, or a copy of any document, provided under this section for the purposes of this subpart.
-(3) The Commission or the chief executive must not provide any information or document under this section unless satisfied that appropriate protections are or will be in place to maintain the confidentiality of the information or document (including information that is personal information within the meaning of the Privacy Act 2020).
-(4) This section applies despite anything to the contrary in any contract, deed, or document.
-(5) Nothing in this section limits the Privacy Act 2020 or section 99AA of the Commerce Act 1986.
+[Repealed]
 
 ## Part 2A — Price regulation of terminal gate prices
 
@@ -390,7 +390,7 @@ This Part does not limit subpart 2 of Part 4 of the Commerce Act 1986, which all
   (d) section 98 (Commission may require person to supply information or documents or give evidence).
 (2) This section does not limit the application of other provisions of the Commerce Act 1986.
 
-## Part 3 — Proceedings and miscellaneous provisions
+## Part 3 — Proceedings and miscellaneous provisions for purpose of Parts 1 to 3
 
 ### Subpart 1 — Proceedings
 
@@ -601,6 +601,153 @@ The following provisions of the Commerce Act 1986 apply to this Act with any nec
 ### 49 Chief executive may approve forms
 For the purposes of this Act, the chief executive may approve forms of applications, notices, and other documents required for the purposes of this Act.
 
+### 50 This Part does not apply to Part 4 matters
+This Part does not apply to any matters under Part 4, except as otherwise provided in sections 69(3) and 70.
+
+## Part 4 — Promotion of resilience of engine fuel supplies in New Zealand
+
+### Subpart 1 — Preliminary provision
+
+### 51 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **compliance period** ,—
+    (a) during the initial period, means a calendar month:
+    (b) after the initial period, means the compliance period specified in the regulations
+  - **fuel importer** means a fuel industry participant that imports fuel into New Zealand
+  - **information disclosure requirement** means the obligation imposed by subpart 3 and any regulations referred to in section 63
+  - **initial period** , in respect of an obligation fuel, means the period that starts with the commencement of subpart 2 and that ends on the earlier of the following:
+    (a) the date on which regulations provide that the initial period ends in respect of that type of fuel:
+    (b) the end of the 5-year period referred to in section 61 (review)
+  - **minimum level of cover** means the level of engine fuel stock that represents the minimum number of days for which the fuel stock must last in order to meet the daily fuel demand or consumption, where—
+    (a) the minimum number of days for the initial period is set in section 57(3); and
+    (b) the minimum number of days after the initial period is set in the regulations
+  - **obligation fuel** has the meaning given in section 54
+  - **obliged person** has the meaning given in section 53
+  - **regulations** means regulations made under subpart 6
+  - **stockholding obligation** or means the obligation imposed by subpart 2 and any regulations made for the purpose of that obligation.
+
+### Subpart 3 — Information disclosure requirements for purpose of this Part
+
+### 62 Obligation to comply with information disclosure requirements
+(1) Every fuel industry participant to which requirements prescribed by the regulations apply must comply with those requirements.
+(2) Without limiting subsection (1), a fuel industry participant must disclose information to the chief executive in any circumstances prescribed by the regulations.
+(3) The fuel industry participant must disclose the information in any form and manner specified by the chief executive.
+
+### 63 Information disclosure requirements may be prescribed
+(1) The regulations may prescribe requirements relating to record keeping, and the retention and disclosure of information, about the resilience of engine fuel supplies in New Zealand, including—
+  (a) fuel stocks of industry participants identified in regulations and obliged persons at national, regional, and bulk storage facility levels:
+  (b) international supply chains:
+  (c) contingency arrangements (such as compliance plans):
+  (d) any other information considered necessary for planning and implementing the stockholding obligation.
+(2) In particular, the regulations may prescribe—
+  (a) the kinds of fuel industry participants, the engine fuels, and other matters that the regulations apply to:
+  (b) the information that must be recorded and retained:
+  (c) the methodologies that must be applied in recording the information:
+  (d) the circumstances in which information must be disclosed to the chief executive (for example, when requested by the chief executive, at a specified time, or on the occurrence of a specified event):
+  (e) requirements for the contents of information disclosed to the chief executive to be independently assessed for accuracy and certified by an auditor who is approved by the chief executive (in the prescribed manner, if any, for that purpose):
+  (f) requirements relating to the publication of information that is required to be disclosed to the chief executive.
+(3) The Minister may recommend regulations only if the Minister has had regard to the need for—
+  (a) transparency and timeliness of information about fuel industry participants’ fuel stockholding levels at national, regional, and bulk storage facility levels and at specific locations (such as Auckland International Airport):
+  (b) information required for assessing the adequacy of fuel stockholding levels in New Zealand for meeting New Zealand demand in a plausible fuel supply disruption scenario.
+
+### 64 Publication of analysis or summary
+The chief executive may,—
+  (a) for the purpose of this Part, analyse and summarise any information disclosed to them under this subpart; and
+  (b) publish any resulting analysis or summary.
+
+### Subpart 4 — Pecuniary penalties under this Part
+
+### 65 Pecuniary penalties under this Part
+(1) The High Court may, on the application of the chief executive, order a person to pay to the Crown a civil pecuniary penalty if satisfied that the person—
+  (a) has contravened any of the provisions of the following:
+    (i) the stockholding obligation:
+    (ii) an information disclosure requirement; or
+  (b) has attempted to contravene any of those provisions; or
+  (c) has aided, abetted, counselled, or procured any other person to contravene any of those provisions; or
+  (d) has induced, or attempted to induce, any other person, whether by threats or promises or otherwise, to contravene any of those provisions; or
+  (e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by any other person of any of those provisions; or
+  (f) has conspired with any other person to contravene any of those provisions.
+(2) The amount of any pecuniary penalty must not exceed,—
+  (a) in the case of an individual, $100,000 for each act or omission; or
+  (b) in any other case, the greater of the following for each act or omission:
+    (i) $5 million:
+    (ii) either,—
+      (A) if it can be readily ascertained and if the court is satisfied that the contravention occurred in the course of producing a commercial gain, 3 times the value of any commercial gain resulting from the contravention; or
+      (B) if the commercial gain cannot readily be ascertained, 10% of the turnover of the person and all its interconnected bodies corporate (if any) in each accounting period in which the contravention occurred.
+(3) In determining an appropriate penalty under this subpart, the court must have regard to all matters referred to in section 30(6).
+(4) Sections 30(7) and (8), 31, 34, and 40(c) apply with any necessary modifications.
+
+### Subpart 5 — Enforceable undertakings
+
+### 66 Chief executive may accept undertakings
+(1) The chief executive may accept a written undertaking given by, or on behalf of, a person in connection with any matter relating to the enforcement of this Part.
+(2) The person may withdraw or vary the undertaking with the consent of the chief executive.
+
+### 67 Matters included in undertakings
+(1) An undertaking under section 66 may, without limitation, include either or both of the following:
+  (a) an undertaking (which may include a compliance plan) to take action to avoid, remedy, or mitigate any actual or likely contravention, or possible contravention, of this Part:
+  (b) an undertaking to pay to the chief executive all or part of the chief executive’s costs incurred in investigating, or bringing proceedings in relation to, a contravention, or possible contravention, of this Part.
+(2) If the chief executive accepts an undertaking that involves payment of the chief executive’s costs, the chief executive must make the following information publicly available:
+  (a) the amount of the chief executive’s costs that has been undertaken to be paid; and
+  (b) a brief description of the circumstances and nature of the contravention or possible contravention of this Part to which the undertaking relates.
+(3) In this section, a contravention means any of the following:
+  (a) an actual contravention:
+  (b) aiding, abetting, counselling, or procuring a contravention:
+  (c) inducing a contravention, whether by threats, promises, or otherwise:
+  (d) being in any way, directly or indirectly, knowingly concerned in, or party to, a contravention:
+  (e) conspiring with any other person in a contravention.
+
+### 68 Enforcement of undertakings
+(1) If the chief executive considers that a person has breached an undertaking given under section 66, the chief executive may apply to the High Court for an order under subsection (2).
+(2) The court may make any 1 or more of the following orders if it is satisfied that the person has breached a term of the undertaking:
+  (a) an order directing the person to comply with the term:
+  (b) an order directing the person to pay to the Crown an amount not exceeding the amount of any financial benefit that the person has obtained directly or indirectly and that is reasonably attributable to the breach.
+
+### Subpart 6 — Regulations and other miscellaneous provisions
+
+### 69 Regulations under this Part
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+  (a) providing for anything that this Part says may or must be provided for by regulations:
+  (b) providing for anything incidental that is necessary for carrying out, or giving full effect to, this Part.
+(2) The Minister may recommend regulations under this Part only if—
+  (a) the Minister has consulted any fuel industry participants that the Minister considers are likely to be significantly affected by the regulations; and
+  (b) the Minister is satisfied that the regulations are necessary or desirable after having regard to the purpose of this Part and to the relevant costs and benefits.
+(3) Section 48 applies to any regulations made under this Part.
+(4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 70 Chief executive may approve forms
+Section 49 applies with any necessary modifications.
+
+## Part 5 — General provisions
+
+**Information sharing**
+
+### 71 Information sharing between Commission and chief executive
+(1) The Commission and the chief executive, and any other person with functions, powers, or duties under this Act, may use any information provided under this Act, or a copy of any document provided under this Act, for any purpose of this Act.
+(2) The Commission may provide to the chief executive, and the chief executive may provide to the Commission, any information, or a copy of any document, that the Commission or the chief executive (as the case may be)—
+  (a) holds in relation to the exercise of powers, or the performance of functions and duties, in respect of this Act; and
+  (b) considers may assist the other for any purpose of this Act.
+(3) The Commission or the chief executive must not provide any information or document under this section unless satisfied that appropriate protections are or will be in place to maintain the confidentiality of the information or document (including information that is personal information within the meaning of the Privacy Act 2020).
+
+### 72 Sharing of information and documents with other entities
+(1) The chief executive may provide to a public service agency or a statutory entity (other than the Commission) any information, or a copy of any document, that the chief executive—
+  (a) holds in relation to the performance or exercise of the chief executive’s functions, powers, or duties under this Act or any other legislation; and
+  (b) considers may assist the public service agency or statutory entity in the performance or exercise of its functions, powers, or duties under any legislation.
+(2) The chief executive may provide information, or a copy of a document, under this section only if satisfied that—
+  (a) doing so will not substantially affect the performance of their functions; and
+  (b) appropriate protections are or will be in place to maintain the confidentiality of the information or document provided (in particular, information that is personal information within the meaning of the Privacy Act 2020).
+(3) The chief executive may use any information, or a copy of any document, in the chief executive’s performance or exercise of their functions, powers, or duties under any legislation if the information or copy is provided to the chief executive by a public service agency or a statutory entity (other than the Commission).
+(4) In this section,—
+  - **public service agency** has the meaning given in section 5 of the Public Service Act 2020
+  - **statutory entity** means an entity or office named in Schedule 1 of the Crown Entities Act 2004.
+
+### 73 Effect of information sharing provisions
+(1) Sections 71 and 72 apply despite anything to the contrary in any contract, deed, or document.
+(2) Nothing in section 71 or 72 limits—
+  (a) the Privacy Act 2020; or
+  (b) section 99AA of the Commerce Act 1986; or
+  (c) any provision of this Act or any other legislation that allows the use or disclosure of information (for example, section 17 of the Crown Entities Act 2004).
+
 ## Schedule 1 — Transitional, savings, and related provisions
 
 ### Part 1 — Provisions relating to this Act as enacted
@@ -628,3 +775,15 @@ In this Part, pre-commencement price means a terminal gate price that was posted
 ### 5 Application of new Part 2A to existing prices
 (1) The Commission must not consider whether a pre-commencement price has met the test in section 29C.
 (2) However, the Commission may take into account a pre-commencement price when considering whether a post-commencement price has met that test.ExampleA supplier posts an equal number of terminal gate prices before and after commencement. The prices that the Commission assesses against the test in section 29C will be only the prices from after commencement (that is, half of them). However, in assessing those prices against the test, the Commission can base its assessment, at least in part, on data that pre-dates commencement.
+
+### Part 3 — Provision relating to Fuel Industry (Improving Fuel Resilience) Amendment Act 2023
+
+### 6 Transitional provision about compliance with stockholding obligation
+(1) This clause applies to an obliged person that is unable to comply with all or any of the provisions of subpart 2 of Part 4 (stockholding obligation) within the period of 2 years after the commencement of that subpart because of circumstances that are beyond the reasonable control of the obliged person despite their best endeavours.
+(2) The obliged person may submit to the chief executive terms and conditions based on the obliged person’s circumstances (for example, a compliance plan).
+(3) The chief executive may accept those terms and conditions if—
+  (a) the chief executive considers that they are likely to lead to compliance within a time that is reasonable in the circumstances; and
+  (b) the chief executive has taken into account the matters referred to in section 59(2)﻿(b); and
+  (c) the chief executive is satisfied of the matters referred to in section 59(2)﻿(c); and
+  (d) the chief executive makes a summary of those terms and conditions, and their reasons for accepting them, publicly available.
+(4) If accepted, the terms and conditions are treated as if they were an enforceable undertaking accepted under section 66.
