@@ -1,5 +1,5 @@
 # Earthquake Commission Amendment Act 2019
-_Consolidation as at 2019-02-18_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Earthquake Commission Amendment Act 2019.
