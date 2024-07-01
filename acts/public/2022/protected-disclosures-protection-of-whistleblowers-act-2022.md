@@ -1,5 +1,5 @@
 # Protected Disclosures (Protection of Whistleblowers) Act 2022
-_Consolidation as at 2022-05-13_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Protected Disclosures (Protection of Whistleblowers) Act 2022.
@@ -470,6 +470,7 @@ The Protected Disclosures Act 2000 continues to apply to a protected disclosure 
 | Racism | Human Rights Commission |
 | Sector regulation | Commerce Commission |
 | Social support or benefits | Ombudsman |
+| Sport and recreation | Integrity Sport and Recreation Commission |
 | State services | Public Service CommissionThe Treasury (for State-owned enterprises, Crown companies, and organisations named or described in Schedule 4 of the Public Finance Act 1989) |
 | Transport and transport safety issues | Ministry of Transport |
 | Whistleblowing and protected disclosures | Ombudsman |
