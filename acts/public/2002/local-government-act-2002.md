@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2024-02-17_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -1997,7 +1997,7 @@ If a local authority carries out consultation in relation to an amendment to a l
   (g) development contributions:
   (h) financial contributions under the Resource Management Act 1991:
   (i) grants and subsidies:
-  (ia) regional fuel taxes under the Land Transport Management Act 2003:
+  (ia)
   (j) any other source.
 (3) A policy adopted under section 102(1) must also show how the local authority has, in relation to the sources of funding identified in the policy, complied with section 101(3).
 (4) If a local authority amends its revenue and financing policy under section 93(4), only a significant amendment to the policy is required to be audited in accordance with sections 93D(4) and 94.
@@ -3406,8 +3406,8 @@ A territorial authority must supply all secretarial and administrative services 
     (ii) fees and charges:
     (iii) interest and dividends from investments:
     (iv) borrowings:
-    (v) proceeds from asset sales:
-    (vi) regional fuel tax; or
+    (v) proceeds from asset sales; or
+    (vi)
   (b) a person required to make the development contribution is also a ratepayer in the territorial authority’s district or has paid or will pay fees or charges in respect of the facilities.
 (4) Despite subsection (1)﻿(ba), a territorial authority may require another development contribution to be made for the same purpose if the further development contribution is required to reflect an increase in the scale or intensity of the development since the original contribution was required.
 (5) Subsection (6) applies if a territorial authority or a council-controlled organisation has entered a funding agreement with the New Zealand Transport Agency under which—
@@ -5281,6 +5281,23 @@ If an authority defers adopting its 2024–2034 long-term plan in accordance wit
     (a) water supply:
     (b) wastewater:
     (c) stormwater.
+
+### Part 9 — Provisions relating to Land Transport Management (Repeal of Regional Fuel Tax) Amendment Act 2024
+
+### 55 Interpretation
+In this Part,—
+  - **amendment Act** means the Land Transport Management (Repeal of Regional Fuel Tax) Amendment Act 2024
+  - **Auckland RFT reserve fund** means the regional fuel tax reserve fund operated by the Auckland Council under section 65ZA of the Land Transport Management Act 2003 in relation to the Auckland RFT scheme
+  - **Auckland RFT scheme** means the regional fuel tax scheme established by the Land Transport Management (Regional Fuel Tax Scheme—Auckland) Order 2018.
+
+### 56 Transitional provision relating to revenue and financial policy
+Section 103(2)﻿(ia) continues to apply, as if it had not been repealed by the amendment Act, until the Auckland RFT reserve fund is spent.
+
+### 57 Transitional provision relating to development contributions
+Section 200(3)﻿(a)﻿(vi) continues to apply, as if it had not been repealed by the amendment Act, until the Auckland RFT reserve fund is spent.
+
+### 58 Transitional provision relating to information to be included in annual reports
+In Schedule 10, clause 34B continues to apply, as if it had not been repealed by the amendment Act, in relation to the annual report of the Auckland Council for any year in which the Auckland RFT reserve fund still contained revenue from the Auckland RFT scheme.
 
 ## Schedule 1 — Acts under which responsibilities, powers, and duties are conferred or imposed on Minister of Local Government and Secretary for Local Government
 
@@ -7910,13 +7927,7 @@ An annual report must state, as at the end of the financial year,—
 (3) In this clause, local activities or activities means the non-regulatory activities of the unitary authority in respect of which a local board is allocated decision-making responsibility under section 48L or under section 17 of the Local Government (Auckland Council) Act 2009.
 
 ### 34B Additional information: RFT schemes
-(1) The regional council of an RFT region, in its annual report, must report on—
-  (a) the revenue from an RFT scheme paid to the council by the Agency; and
-  (b) how that revenue was applied by the council, including to which projects and for what purposes (for example, capital expenditures, debt repayment, operational expenditures); and
-  (c) progress with respect to the programme of capital projects supported by the RFT scheme.
-(2) In this clause,—
-  (a) regional council, RFT region, and RFT scheme have the same meanings as in section 65A of the Land Transport Management Act 2003; and
-  (b) Agency has the same meaning as in section 5(1) of that Act.
+[Repealed]
 
 ### 35 General
 An annual report must include a report on the activities that the local authority has undertaken in the year to establish and maintain processes to provide opportunities for Māori to contribute to the decision-making processes of the local authority.
