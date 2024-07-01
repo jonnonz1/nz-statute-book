@@ -1,5 +1,5 @@
 # Sport and Recreation New Zealand Act 2002
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Sport and Recreation New Zealand Act 2002.
@@ -16,9 +16,9 @@ The purpose of this Act is to promote, encourage, and support physical recreatio
 ### 4 Overview
 In this Act,—
   (a) this Part deals with preliminary matters, including interpretation and the application of the Act to the Crown:
-  (b) Part 2 and Schedules 1 to 3 contain provisions regarding a new Crown entity called Sport and Recreation New Zealand and include—
+  (b) Part 2 contains provisions regarding a new Crown entity called Sport and Recreation New Zealand and includes—
     (i) key provisions about the Agency (sections 7 to 12):
-    (ii) provisions relating to the board, the nominations advisory group, and committees of the board (sections 13 to 30) and supplementary provisions regarding the board’s and members’ duties, membership of the board, and procedure of the board (Schedules 1 to 3 respectively):
+    (ii) provisions relating to the board, the nominations advisory group, and committees of the board (sections 13 to 30):
     (iii) provisions regarding the chief executive of the Agency, employees, and the appointment of experts (sections 31 to 41):
     (iv) provisions regarding the execution of documents (sections 42 and 43) and financial provisions (sections 44 to 52):
   (c) Part 3 deals with the dissolution of the Hillary Commission for Sport, Fitness, and Leisure (sections 53 to 61), consequential amendments to other Acts (section 62 and Schedule 4), and the repeal of the Sport, Fitness, and Leisure Act 1987 (section 63).
@@ -29,10 +29,8 @@ In this Act, unless the context otherwise requires,—
   - **board** means the board of the Agency
   - **chief executive** means the chief executive of the Agency
   - **Hillary Commission** means the Hillary Commission for Sport, Fitness, and Leisure established under section 3 of the Sport, Fitness, and Leisure Act 1987
-  - **Inland Revenue Acts** has the meaning set out in section 52(3)
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **New Zealand health strategy** means the New Zealand Health Strategy referred to in section 4 of the Pae Ora (Healthy Futures) Act 2022
-  - **previous employer** has the meaning set out in section 57(3)
   - **transferred employee** means a person who,—
     (a) immediately before the commencement of this Act, is employed by—
       (i) the Ministry of Economic Development in the Office of Tourism and Sport; or
@@ -62,7 +60,7 @@ The functions of the Agency are to—
   (f) promote and support the development and implementation of physical recreation and sport in a way that is culturally appropriate to Māori:
   (g) encourage participation in physical recreation and sport by Pacific peoples, women, older New Zealanders, and people with disabilities:
   (h) recognise the role of physical recreation and sport in the rehabilitation of people with disabilities:
-  (i) facilitate the resolution of disputes between persons or organisations involved in physical recreation and sport:
+  (i) facilitate the resolution of disputes (other than disputes to which the Integrity Sport and Recreation Act 2023 applies) between persons or organisations involved in physical recreation and sport:
   (j) work with schools, regional, central, and local government, and physical recreation and sports organisations to ensure the maintenance and development of the physical and organisational infrastructure for physical recreation and sport:
   (k) work with health, education, and other agencies to promote greater participation in physical recreation and sport through policy development, advocacy, and support, in line with the objectives of the New Zealand health strategy:
   (l) provide advice and support for organisations working in physical recreation and sport at national, regional, and local levels:
