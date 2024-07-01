@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2024-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -320,162 +320,37 @@ An amount that a person derives from disposing of personal property is income of
 ### CB 5 Business of dealing in personal property
 An amount that a person derives from disposing of personal property is income of the person if their business is to deal in property of that kind.
 
-### CB 6A Disposal within 10 years: Bright-line test for residential land
-When this section applies: relationship with subject matter
-(1A) This section applies if none of sections CB 6 to CB 12 apply.
+### CB 6A Disposal within 2 years: bright-line test for residential land
+Income if land disposed of within 2 years
+(1) An amount that a person derives from disposing of residential land is income of the person if the person’s bright-line end date is within 2 years of their bright-line start date.
+Meaning of bright-line start date
+(2) A person’s bright-line start date for their disposal of residential land is given in column 3 of the following table if the condition in column 2 of the relevant row is met for the person and the disposal:The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Condition to be satisfied. Column 3 is headed Bright-line start date for person’s disposal of residential land.RowCondition to be satisfiedBright-line start date for person’s disposal of residential land1If none of the other rows applyThe date on which the instrument to transfer the land to the person was registered under the Land Transfer Act 20172Land outside New ZealandThe date on which the instrument to transfer the land to the person was registered under foreign laws of a similar nature to the Land Transfer Act 20173An instrument to transfer the land to the person was not registered before the person’s bright-line end dateThe date the person acquired an estate or interest in the land under section CB 15B4The land was acquired from another person on completion of a land development or subdivisionThe date the sale and purchase agreement for the developed or subdivided land was entered into5The land results from the person subdividing their land (the undivided land)The person’s bright-line start date for the undivided land6The land is a freehold estate converted from a lease with perpetual right of renewalThe date of the grant of the leasehold estate7A joint tenancy is converted to a tenancy in common or a tenancy in common is converted to a joint tenancyTo the extent the person’s share or notional share in the land is unchanged, the person’s bright-line start date for the land before the conversion8A change of trusteesWhere land is transferred from a trustee of a trust (trustee A) to another trustee of the trust (trustee B) as a result of a change in trustees, trustee B’s bright-line start date is the bright-line start date trustee A had for the landHow to use this table: Read column 2 from top to bottom to find the condition that applies. For the condition in column 2 that is met, the person’s bright-line start date is the date in column 3 of that same row.
+Transfers of land to and from existing landowners
+(3) For the purposes of subsection (2), when a person who owns land (pre-existing land) has more land transferred to them (the transferred land) or transfers part of their pre-existing land (also the transferred land) to another person, the instrument of transfer for the transferred land is treated as being for the transferred land only and not being for the pre-existing land.
+Meaning of bright-line end date
+(4) Bright-line end date, for a person’s disposal of residential land, means—
+  (a) the earliest of—
+    (i) the date the person enters into an agreement for the disposal:
+    (ii) the date on which the person makes a gift of the land:
+    (iii) the date on which the land is compulsorily acquired under any Act by the Crown, a local authority, or a public authority:
+    (iv) if there is a mortgage secured on the land, the date on which the land is disposed of by or for the mortgagee because the mortgagor defaulted; or
+  (b) if none of paragraph (a)﻿(i) to (iv) apply, the date on which the estate or interest in the land is disposed of.
 When this section does not apply
-(1AB) This section does not apply to a person’s disposal of residential land if—
-  (a) the person first acquired an estate or interest in the land before 27 March 2021:
-  (b) the land meets the requirements of section CB 6AB, CB 6AC, CB 6AE, or FB 3A (Residential land), and the transferor first acquired an estate or interest in the land before 27 March 2021.
-Some definitions
-(1) In this section,—
-  (a) 10-year test land means residential land to the extent to which, using a land area test, it is not new build land, and the land’s bright-line disposal date is within 10 years of the earliest of any of the applicable dates (bright-line acquisition dates) described in subsections (3) to (7C):
-  (b) 5-year test land means residential land to the extent to which, using a land area test, it is new build land, and—
-    (i) the person acquires it no later than 12 months after the land becoming new build land; and
-    (ii) the land’s bright-line disposal date is within 5 years of the earliest of any of the applicable dates (bright-line acquisition dates) described in subsections (3) to (7C); and
-    (iii) at the time of its disposal or at the time the instrument to transfer the land to another person is registered as described in subsection (3)﻿(a), it meets the requirements of paragraph (a), (b), (d), (e), or (f) of the definition of new build land or would have met 1 of those requirements but for the destruction of the relevant place by natural disaster or fire.
-Income
-(2) Subject to quantification under subsection (8), an amount that a person derives from disposing of residential land is income of the person to the extent to which the amount is for residential land that is—
-  (a) 10-year test land:
-  (b) 5-year test land.
-Exception: death
-(2B) This section does not apply to an amount that an executor or administrator described in section FC 1(1)﻿(a) (Disposals to which this subpart applies), or a beneficiary described in section FC 1(1)﻿(b), derives from disposing of residential land that was transferred to them on the death of a person (see also: section FC 9 (Residential land transferred to executor, administrator, or beneficiary on death of person).
-Disposal
-(3) In the case where none of subsections (4) to (7C) are applicable, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is—
-  (a) the date on which the instrument to transfer the land to the person was registered—
-    (i) under the Land Transfer Act 2017; or
-    (ii) under foreign laws of a similar nature to the Land Transfer Act 2017, if the land is outside New Zealand; or
-  (b) the latest date on which the person acquires the estate or interest in the land, if an instrument to transfer the land to the person is not registered on or before the bright-line disposal date.
-Change of trustees: disposal
-(3B) For the purposes of subsection (3), and despite subsection (3)﻿(a), in the case of a transfer of land to a trustee of a trust from a trustee of the trust, the date on which the relevant instrument was registered is treated as—
-  (a) the earliest date on which an instrument to transfer the land to a trustee of the trust was registered under the relevant law referred to in the subsection (the first date), if there has been no intervening transfer to a person who is not a trustee; or
-  (b) the first date following the intervening transfer, if there has been an intervening transfer to a person who is not a trustee.
-Subdivision
-(4) In the case where the residential land results from the person subdividing other land (the undivided land), the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is—
-  (a) the date on which the instrument to transfer the undivided land to the person was registered—
-    (i) under the Land Transfer Act 2017; or
-    (ii) under foreign laws of a similar nature to the Land Transfer Act 2017, if the land is outside New Zealand; or
-  (b) the latest date on which the person acquires the estate or interest in the undivided land, if the land is not registered as described in paragraph (a) at the bright-line date.
-Change of trustees: subdivision
-(4B) For the purposes of subsection (4), and despite subsection (4)﻿(a), in the case of a transfer of land to a trustee of a trust from a trustee of the trust, the date on which the relevant instrument was registered is treated as—
-  (a) the earliest date on which an instrument to transfer the undivided land to a trustee of the trust was registered under the relevant law referred to in the subsection (the first undivided date), if there has been no intervening transfer to a person who is not a trustee; or
-  (b) the first undivided date following the intervening transfer, if there has been an intervening transfer to a person who is not a trustee.
-Leases with perpetual right of renewal
-(5) In the case where the residential land is a freehold estate in residential land, acquired as the owner of a leasehold estate with a perpetual right of renewal, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is the date the leasehold estate was granted.
-Joint tenancy converted to tenancy in common
-(5B) In the case and to the extent to which the residential land is held as a tenant in common in a share equal to all joint owners, converted subsequent to, and to the extent to which it was previously being held as a joint tenant nominally in the same share equal to the same joint owners, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is the same as prior to the conversion.
-Tenancy in common converted to joint tenancy
-(5C) In the case and to the extent to which the residential land is held as a joint tenant nominally in a share equal to all joint owners, converted subsequent to, and to the extent to which it was previously being held as a tenant in common in the same share equal to the same joint owners, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is the same as prior to the conversion.
-Land-owning person
-(5D) In the case and to the extent to which a person who owns land (pre-existing land) has more land transferred to them (the transfer land) or transfers part of their pre-existing land (also, the transfer land), the instrument of transfer for the transfer land is for the transfer land only and is treated as not being for the pre-existing land, for the purposes of the definition of bright-line acquisition date.
-Estate or interest acquired upon completion of land development or subdivision
-(6) In the case where the residential land is acquired as the result of the completion of a land development or subdivision, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is the date the person enters into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
-Residential land transferred for certain family trusts
-(7) For residential land transferred to trustees or settlors of certain family trusts, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is given by section CB 6AB.
-Residential land transferred to Maori authorities, or similar eligible persons, for certain family trusts
-(7B) For residential land transferred to Maori authorities, or similar eligible persons, for certain family trusts, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is given by section CB 6AC.
-Certain transfers of residential land included in settlement of claim under the Treaty of Waitangi
-(7C) For certain transfers of residential land included in settlement of claim under the Treaty of Waitangi, the bright-line acquisition date for the purposes of the definitions of 10-year test land and 5-year test land is given by section CB 6AE.
-Quantification
-(8) Despite subsection (1), the amount of income that a person (person A) derives for disposing of 10-year test land or 5-year test land, as the case may be, is reduced by the amount calculated using the following formula:unadjusted income × (exempted non-predominant main home days × main home percentage + exempted predominant main home days) / total days.
-Definition of items in formula
-(9) The items in the formula are defined in subsections (10) to (11D), and subsection (11E) provides an exception.
-Unadjusted income
-(10) Unadjusted income is person A’s amount of income for disposing of the 10-year test land or 5-year test land under subsection (2), ignoring this formula.
-Exempted non-predominant main home days
-(11) Exempted non-predominant main home days is the total number of—
-  (a) days within the land’s bright-line period that the land has been used for a dwelling that was the main home for 1 or more main home persons:
-  (b) days in a period that is equal to or shorter than the exempt main home period limit if, for the period, the land has not been used for a dwelling that was the main home for 1 or more main home persons, and—
-    (i) the start of the period adjoins either a day described in paragraph (a) or the start of the land’s bright-line period; and
-    (ii) the end of the period adjoins either a day described in paragraph (a) or the end of the land’s bright-line period; but
-  (c) does not include any exempted predominant main home days.
-Main home percentage
-(11B) Main home percentage is the percentage area of the land that, during the exempted non-predominant main home days has been used as a main home.
-Exempted predominant main home days
-(11C) Exempted predominant main home days is the total number of exempted predominant main home days under section CB 16A.
-Total days
-(11D) Total days is the total number of days in the land’s bright-line period.
-Exception to quantification
-(11E) Subsection (8) does not apply if person A is described in section CB 16A(3).
+(5) This section does not apply to a person’s disposal of residential land if—
+  (a) any of sections CB 6 to CB 12 apply:
+  (b) section CB 16A applies:
+  (c) section FC 9 (Residential land transferred to executor, administrator, or beneficiary on death of person) applies.
 Relationship with subject matter
-(15) For the purposes of calculating a person’s net income in relation to the disposal of residential land for which they derive an amount of income under this section, sections FC 9B, FC 9C, and FC 9D (which relate to residential land) provide disposal and acquisition amounts for transactions that subsections (7) to (7C) of this section apply to.
+(6) This section is modified by sections FB 3A, FO 10, and FO 17 (which provide rollover relief for land transferred on settlement of relationship property or company amalgamation) and subpart FD (Rollover relief from the bright-line test).
 
 ### CB 6AB Residential land transferred in relation to certain family trusts and other capacities
-Family trusts: transfers to trusts
-(1) The bright-line acquisition date for land, when a trustee of a trust (trust A) disposes of the land, is the bright-line acquisition date that the transferors (the transferors) of the land to the trustee had, if the transferors transfer the land to the trustee on or after 1 April 2022 and—
-  (a) trust A is a rollover trust and the transferors are settlors and, at the time that the transferors transfer the land to the trustee,—
-    (i) the transferors are beneficiaries of trust A; and
-    (ii) at least 1 transferor is a principal settlor of trust A:
-  (b) the transferors are trustees of a trust (trust B) that is a rollover trust, and, for trust A,—
-    (i) all the beneficiaries are the same as for trust B, and trust A is also a rollover trust:
-    (ii) all the natural person beneficiaries are either the same as, or close family associates of a principal settlor of, trust B, and trust A is also a rollover trust.
-Family trusts: transfers from trusts
-(2) When persons (the transferees) dispose of land that was transferred to them from a trustee of a trust that is a rollover trust (trust A), the bright-line acquisition date for the land is the bright-line acquisition date that the trustee of trust A had for the land if the trustee transfers the land to the transferees on or after 1 April 2022 and either,—
-  (a) if the transferees had previously transferred the land to the trustee, the transferees acquire proportionally the same amount of land back from the trustee and, at the time the trustee transfers the land to the transferees,—
-    (i) the transferees are beneficiaries of trust A; and
-    (ii) at least 1 transferee is a principal settlor of trust A; or
-  (b) if the transferees had not previously transferred the land to the trustee, all transferees were principal settlors at the time the trustee acquired the land and at the time the trustee transferred the land to the transferees.
-Family trusts: transfers from trusts — modified proportionality rule
-(2B) For the purposes of the proportionality requirement in subsection (2)﻿(a), in the case where a settlor who had previously transferred the land to the trustee has died, the proportionality requirement is met if the transferees receive at least the same proportion of the land back from the trustee as they had previously transferred.
-Other capacities
-(3) For the purposes of applying subsections (1)﻿(a) and (2), the transferors and transferees may have different capacities in relation to the different criteria in those subsections (for example: a transferee may be a settlor in their personal capacity and be a beneficiary as an LTC owner).
-Transfer to self
-(4) If a person in 1 capacity transfers land to themselves in a different capacity, then the bright-line acquisition date for the land when they dispose of it to a third party in that different capacity is the bright-line acquisition date that the person first had for the land. The transfer to the different capacity must be on or after 1 April 2022.
-Key term: rollover trust
-(5) Rollover trust means, at the time of a relevant transfer to or from a relevant trust,—
-  (a)
-  (b) all principal settlors are beneficiaries of the trust; and
-  (c) all principal settlors are close family associates; and
-  (d) all beneficiaries are close family beneficiaries.
-Key term: close family beneficiary
-(6) Close family beneficiary means, for the relevant trust, a beneficiary that is 1 or more of the following:
-  (a) a principal settlor:
-  (ab) a trustee of another trust and at least 1 beneficiary of the other trust is a close family associate of a beneficiary of the relevant trust:
-  (ac) any association, club, institution, society, organisation, or trust not carried on for the private profit of any person whose funds are applied wholly or principally to any civic, community, charitable, philanthropic, religious, benevolent, or cultural purpose, whether in New Zealand or elsewhere, and, in the case of it having 1 principal settlor only, the trust has 1 or more beneficiaries who are close family associates of the principal settlor:
-  (b) a close family associate of another beneficiary who is also a principal settlor:
-  (c) a company in which a 50% or more voting interest, or a 50% or more market value interest if a market value circumstance exists, is owned by a beneficiary of the trust that is—
-    (i) a principal settlor of the trust:
-    (ii) a close family associate of another beneficiary that is a principal settlor of the trust:
-  (d) a charity registered under the Charities Act 2005.
-Key term: close family associates
-(7) Two persons are close family associates if 1 or more of the following applies:
-  (a) they are within 4 degrees of blood relationship:
-  (b) they are married, in a civil union, or in a de facto relationship:
-  (c) 1 person is within 4 degrees of blood relationship to the other person’s spouse, civil union partner, or de facto partner.
-Exception
-(8) This section does not apply for the transfer of shares in an LTC to or from a trustee.
+[Repealed]
 
 ### CB 6AC Residential land transferred in relation to certain Māori family trusts
-Transfers to trusts
-(1) The bright-line acquisition date for land, when a Māori trustee of a trust (trust A) disposes of the land, is the bright-line acquisition date that the transferors (the transferors) of the land to the Māori trustee had, if the transferors transfer the land to the Māori trustee on or after 1 April 2022 and—
-  (a) trust A is a Māori rollover trust and the transferors are settlors and, at the time that the transferors transfer the land to the trustee, the transferors are beneficiaries of trust A:
-  (b) the transferors are Māori trustees of a trust (trust B) that is a Māori rollover trust, and, for trust A, all the beneficiaries are the same as for trust B, and trust A is also a Māori rollover trust.
-Transfers from trusts
-(2) When persons (the transferees) dispose of land that was transferred to them from a Māori trustee of a trust (trust A), the bright-line acquisition date for the land is the bright-line acquisition date that the Māori trustee of trust A had for the land, if the Māori trustee transfers the land to the transferees on or after 1 April 2022 and—
-  (a) the transferees are settlors of trust A and had transferred the land to the Māori trustee; and
-  (b) the transferees acquire proportionally the same amount of land they had transferred to the Māori trustee and, at the time that the Māori trustee transfers the land to the transferees,—
-    (i) the transferees are beneficiaries of trust A; and
-    (ii) trust A is a Māori rollover trust; and
-    (iii) the transferees are settlors of trust A.
-Transfers from trusts — modified proportionality rule
-(2B) For the purposes of the proportionality requirement in subsection (2)﻿(b), in the case where a settlor who had previously transferred the land to the trustee has died, the proportionality requirement is met if the transferees receive at least the same proportion of the land back from the trustee as they had previously transferred.
-Other capacities
-(3) For the purposes of applying subsections (1)﻿(a) and (2), the transferors and transferees may have different capacities in relation to the different criteria in those subsections (for example: a transferee may be a settlor in their personal capacity and be a beneficiary as an LTC owner).
-Key term: Māori rollover trust
-(4) Māori rollover trust means, at the time of a relevant transfer to or from a relevant trust,—
-  (a)
-  (b) all beneficiaries are—
-    (i) members of the same iwi or hapu:
-    (ii) descendants of the same tipuna; and
-  (c) the land is subject to Te Ture Whenua Maori Act 1993.
-Key term: Māori trustee
-(5) Māori trustee means a trustee of a trust that is either a Maori authority, or eligible to elect to be a Maori authority.
+[Repealed]
 
 ### CB 6AE Certain transfers of residential land included in settlement of claim under the Treaty of Waitangi
-What this section applies to
-(1) This section applies to a transfer by a person (a transferor) of residential land that is subject to Te Ture Whenua Maori Act 1993 and is part of the settlement of a claim under the Treaty of Waitangi to a trustee of a trust that is a Maori authority (a recipient (person A)), or eligible to elect to be a Maori authority, under section HF 2(3)﻿(e)﻿(i) (Who is eligible to be a Maori authority?) (also recipient (person A)).
-Sections CB 6A and CZ 39: bright-line acquisition date
-(2) For the purposes of sections CB 6A and CZ 39 (Disposal within 5 years: bright-line test for residential land: acquisition on or after 29 March 2018), the recipient (person A) of the transfer of the residential land has the bright-line acquisition date that the transferor had, if the transfer is made on or after 1 April 2022.
+[Repealed]
 
 ### CB 6 Disposal: land acquired for purpose or with intention of disposal
 Income
@@ -564,7 +439,7 @@ Exclusions
 ### CB 13 Disposal: amount from major development or division and not already in income
 Income
 (1) An amount that a person derives from disposing of land is income of the person if—
-  (a) the amount is not income under any of sections CB 6A to CB 12, CB 14, and CZ 39 (Disposal within 5 years: bright-line test for residential land: acquisition on or after 29 March 2018); and
+  (a) the amount is not income under any of sections CB 6A to CB 12, and CB 14; and
   (b) the amount is derived in the following circumstances:
     (i) an undertaking or scheme, which is not necessarily in the nature of a business, is carried on; and
     (ii) the undertaking or scheme involves the development of the land or the division of the land into lots; and
@@ -578,7 +453,7 @@ Relationship with section DB 27
 ### CB 14 Disposal: amount from land affected by change and not already in income
 Income
 (1) An amount that a person derives from disposing of land is income of the person if—
-  (a) the amount is not income under any of sections CB 6A to CB 12 and CZ 39 (Disposal within 5 years: bright-line test for residential land: acquisition on or after 29 March 2018); and
+  (a) the amount is not income under any of sections CB 6A to CB 12; and
   (b) the person disposed of the land within 10 years of acquiring it; and
   (c) the total amount that they derive from its disposal is more than the cost of the land; and
   (d) at least 20% of the excess arises from a factor, or more than 1 factor, that—
@@ -616,7 +491,7 @@ Date on which some transferees acquire land
 
 ### CB 15B When land acquired
 General rule
-(1) For the purposes of this subpart except sections CB 6A and CZ 39 (Disposal within 5 years: bright-line test for residential land: acquisition on or after 29 March 2018), a person acquires an estate, interest, or option that is land (the land) on the date that begins a period in which the person has an estate or interest in, or an option to acquire, the land, alone or jointly or in common with another person.
+(1) For the purposes of this subpart, a person acquires an estate, interest, or option that is land (the land) on the date that begins a period in which the person has an estate or interest in, or an option to acquire, the land, alone or jointly or in common with another person.
 First exception: acquisition of land by company to be formed
 (2) If a person, on behalf of a company to be formed, enters an agreement under which the company will have land, the company is treated, for the purposes of this subpart in relation to the land, as existing from when the person enters the agreement.
 Second exception: land from exercise of option
@@ -671,45 +546,25 @@ Exclusion for group members and members of consolidated group
 
 **Exclusions for residential land**
 
-### CB 16A Main home exclusion for disposal within 10 years
+### CB 16A Main home exclusion for disposal within 2 years
 Main home exclusion
-(1) Section CB 6A does not apply to a person (person A) who disposes of residential land if, for the residential land (an exempt main home), all the days in the relevant bright-line period are exempted predominant main home days.
-Key term: exempted predominant main home day
-(1B) Exempted predominant main home day means, for person A and residential land,—
-  (a) a day within the land’s bright-line period that the land has been used predominantly for a dwelling that was the main home for 1 or more main home persons:
-  (b) a day in a period that is equal to or shorter than the exempt main home period limit, if, for the period, the land has not been used predominantly for a dwelling that was the main home for 1 or more main home persons, but—
-    (i) the start of the period adjoins either a day described in paragraph (a) or the start of the land’s bright-line period; and
-    (ii) the end of the period adjoins either a day described in paragraph (a) or the end of the land’s bright-line period.
-Key term: exempt main home period limit
-(1C) Exempt main home period limit means—
-  (a) 365 days:
-  (b) a reasonable period in the case of a period during which person A—
-    (i) constructs a dwelling used as a main home for 1 or more main home persons:
-    (ii) remediates a dwelling affected by a North Island flooding event and that dwelling is used as a main home for 1 or more main home persons.
-Key term: main home person
-(1D) Main home person means, for person A, 1 or more of the following people:
-  (a) person A:
-  (b) a beneficiary of a trust, if person A is a trustee of the trust that owns the residential land disposed of, and—
+(1) Section CB 6A does not apply to a person who disposes of residential land if the land has been used predominantly, for most of the bright-line period, for a dwelling that was the main home of—
+  (a) the person; or
+  (b) a beneficiary of a trust, if the person is a trustee of the trust and—
     (i) a principal settlor of the trust does not have a main home; or
-    (ii) if a principal settlor of the trust does have a main home, it is that main home that is being disposed of.
-Criteria
-(2)
-Modified rule for transfers where rollover relief applies
-(2B) For the purposes of determining whether subsection (1) applies, if person A was the transferee in a transaction to which section CB 6AB applied, the transferor’s use of the property is attributed to person A (for example, if the transferor used the property as a main home for 1 year, this is attributed to person A).
+    (ii) if a principal settlor of the trust does have a main home, it is that main home that the person is disposing of.
+Modified rule for constructing main home
+(2) For the purposes of determining under subsection (1) whether residential land has been used for most of the bright-line period predominantly for a dwelling that was the main home of the person or a beneficiary of a trust, as described in subsection (1), the period in which the dwelling was constructed is ignored.
 When this section does not apply
-(3) The exclusion in subsection (1) does not apply to person A if—
-  (a) the exclusion has been used by person A 2 or more times within the 2 years immediately preceding the bright-line date for the residential land:
-  (b) person A has engaged in a regular pattern of acquiring and disposing of exempt main homes described in subsection (1).
-Regular patterns undertaken by groups of persons
-(4) For the purposes of subsection (3)﻿(b), in relation to exempt main homes described in subsection (1), person A includes a group of persons if the requirements of subsection (5) are met.
+(3) The exclusion in subsection (1) does not apply to a person who disposes of residential land if—
+  (a) the exclusion has been used by the person twice within the 2 years immediately preceding the bright-line end date for the residential land:
+  (b) the person has engaged in a regular pattern of acquiring and disposing of residential land described in subsection (1).
+Person may include group of persons
+(4) For the purposes of subsection (3)﻿(b), person includes a group of persons if the requirements of subsection (5) are met.
 Meaning of group of persons
 (5) For the purposes of subsection (4), a group of persons—
-  (a) means 2 or more persons when together all of the persons occupy, or have occupied, an exempt main home described in subsection (1); and
-  (b) includes a person other than a natural person (the non-natural person), if another person referred to in paragraph (a) has significant involvement in, or control of, the activities of the non-natural person. For the avoidance of doubt, if the other person is able to direct, alone or as part of a group, the activities of the non-natural person, they have significant involvement in, or control of, the activities of the non-natural person.
-Special rule: counted days
-(6)
-A definition
-(7)
+  (a) means 2 or more persons when together all the persons occupy, or have occupied, residential land described in subsection (1); and
+  (b) includes a person other than a natural person (the non-natural person) if another person referred to in paragraph (a) has significant involvement in, or control of, the activities of the non-natural person. For the avoidance of doubt, if the other person can direct, alone or as part of a group, the activities of the non-natural person, they have significant involvement in, or control of, the activities of the non-natural person.
 
 ### CB 16 Residential exclusion from sections CB 6 to CB 11
 Exclusion
@@ -825,7 +680,7 @@ Sections CB 12 and CB 13 do not apply if—
   (b) the development, division, or improvement is for use in, and for the purposes of, the person’s deriving from the land income of the kind described in section CC 1 (Land).
 
 ### CB 23B Land partially disposed of or disposed of with other land
-Sections CB 6A to CB 23, CZ 39, and CZ 40 (which relate to the bright-line test for residential land) apply to an amount derived from the disposal of land if the land is—
+Sections CB 6A to CB 23 apply to an amount derived from the disposal of land if the land is—
   (a) part of the land to which the relevant section applies:
   (b) the whole of the land to which the relevant section applies:
   (c) disposed of together with other land.
@@ -6358,8 +6213,8 @@ Relationship to section CG 4
 ### CZ 26 Land and buildings affected by Canterbury earthquakes—sections CB 9 to CB 11 and CB 14 overridden for Crown purchases
 Sections CB 9 to CB 11 and CB 14 (which relate to disposals within 10 years of acquisition) do not apply to a person and land or buildings purchased by the Crown from the person under section 91, 103, or 104 of the Greater Christchurch Regeneration Act 2016.
 
-### CZ 26B Land and buildings affected by North Island adverse weather event—sections CB 6A, CB 9 to CB 11, and CZ 39 overridden for local authority and Crown purchases
-Sections CB 6A, CB 9 to CB 11, and CZ 39 (which relate to income from disposals of land) do not apply to a person and land or buildings, or both, purchased by the Crown or a local authority from the person if the land or buildings, or both, were damaged by a North Island adverse weather event.
+### CZ 26B Land and buildings affected by North Island adverse weather event—sections CB 6A and CB 9 to CB 11 overridden for local authority and Crown purchases
+Sections CB 6A and CB 9 to CB 11 (which relate to income from disposals of land) do not apply to a person and land or buildings, or both, purchased by the Crown or a local authority from the person if the land or buildings, or both, were damaged by a North Island adverse weather event.
 
 ### CZ 27 Prior bad debt deductions clawback
 When this section applies
@@ -6530,80 +6385,10 @@ Excluded income
 [Repealed]
 
 ### CZ 39 Disposal within 5 years: bright-line test for residential land: acquisition on or after 29 March 2018
-When this section applies
-(1) This section applies to a person’s disposal of residential land, if the person first acquires an estate or interest in the residential land on or after 29 March 2018 and section CB 6A (Disposal within 10 years: bright-line test for residential land) does not apply. However, this section does not apply to—
-  (a) a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018:
-  (b) a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
-When this section does not apply
-(1B) This section does not apply to a person’s disposal of residential land if the land meets the requirements of section CB 6AB, CB 6AC, CB 6AE, or FB 3A (which relate to residential land), and the transferor first acquired an estate or interest in the land before 29 March 2018.
-Disposal within 5 years
-(2) An amount that a person derives from disposing of residential land is income of the person, if the bright-line date for the residential land is within 5 years of—
-  (a) the date (the bright-line acquisition date) on which the instrument to transfer the land to the person was registered—
-    (i) under the Land Transfer Act 2017; or
-    (ii) under foreign laws of a similar nature to the Land Transfer Act 2017, if the land is outside New Zealand; or
-  (b) their date of acquisition (the bright-line acquisition date) of the land, if an instrument to transfer the land to the person is not registered on or before the bright-line date.
-Subdivision
-(3) Despite subsection (2), an amount that a person derives from disposing of residential land that results from the person subdividing other land (the undivided land) is income of the person if the bright-line date for the residential land is within 5 years of—
-  (a) the date (the bright-line acquisition date) on which the instrument to transfer the undivided land to the person was registered—
-    (i) under the Land Transfer Act 2017; or
-    (ii) under foreign laws of a similar nature to the Land Transfer Act 2017, if the land is outside New Zealand; or
-  (b) their date of acquisition (the bright-line acquisition date) of the undivided land, if the land is not registered as described in paragraph (a) at the bright-line date.
-Leases with perpetual right of renewal
-(4) Despite subsection (2), an amount that a person derives from disposing of a freehold estate in residential land, acquired as the owner of a leasehold estate with a perpetual right of renewal, is income if the bright-line date for the freehold estate is within 5 years of the the date of the grant of the leasehold estate (the bright-line acquisition date).
-Estate or interest acquired upon completion of land development or subdivision
-(5) Despite subsection (2), an amount that a person derives from disposing of an estate or interest in residential land, acquired as the result of the completion of a land development or subdivision, is income if the bright-line date for the estate or interest is within 5 years of the date of the person entering into the agreement (the bright-line acquisition date) under which they acquired the estate or interest upon the completion of the land development or subdivision.
-Joint tenancy converted to tenancy in common
-(5B) Despite subsection (2), for residential land transferred in the case and to the extent to which the residential land is held as a tenant in common in a share equal to all joint owners, converted subsequent to, and to the extent to which it was previously being held as a joint tenant nominally in the same share equal to the same joint owners, an amount that a person derives from disposing of the residential land is income of the person if the bright-line disposal date for the residential land is within 5 years of the date (the bright-line acquisition date) that was the person’s bright-line acquisition date for the land prior to the conversion.
-Tenancy in common converted to joint tenancy
-(5C) Despite subsection (2), for residential land transferred in the case and to the extent to which the residential land is held as a joint tenant nominally in a share equal to all joint owners, converted subsequent to, and to the extent to which it was previously being held as a tenant in common in the same share equal to the same joint owners, an amount that a person derives from disposing of the residential land is income of the person if the bright-line disposal date for the residential land is within 5 years of the date (the bright-line acquisition date) that was the person’s bright-line acquisition date for the land prior to the conversion.
-Land-owning person
-(5D) In the case and to the extent to which a person who owns land (pre-existing land) has more land transferred to them (the transfer land) or transfers part of their pre-existing land (also, the transfer land), the instrument of transfer for the transfer land is for the transfer land only and is treated as not being for the pre-existing land, for the purposes of the definition of bright-line acquisition date.
-Beginning of 5-year period for transfers by registration if trustees change
-(6) If the person referred to in subsection (2)﻿(a) or (3)﻿(a) is a trustee of a trust who has been transferred the land or undivided land from a trustee of the trust, the date on which the instrument was registered is treated as occurring on,—
-  (a) for subsection (2)﻿(a),—
-    (i) the earliest date (the first date) on which an instrument to transfer the land to a trustee of the trust was registered under the relevant law referred to in the subsection, if there has been no intervening transfer to a person who is not a trustee; or
-    (ii) the first date following the intervening transfer, if there has been an intervening transfer to a person who is not a trustee:
-  (b) for subsection (3)﻿(a),—
-    (i) the earliest date (the undivided date) on which an instrument to transfer the undivided land to a trustee of the trust was registered under the relevant law referred to in the subsection, if there has been no intervening transfer to a person who is not a trustee; or
-    (ii) the undivided date following the intervening transfer, if there has been an intervening transfer to a person who is not a trustee.
-Residential land transferred for certain family trusts
-(6B) Despite subsections (2) to (5C), for residential land transferred, as described in section CB 6AB (Residential land transferred in relation to certain family trusts and other capacities), to trustees or settlors of certain family trusts, an amount that a person derives from disposing of the residential land is income of the person if the bright-line disposal date for the residential land is within 5 years of the bright-line acquisition date given by section CB 6AB.
-Residential land transferred to Maori authorities, or similar eligible persons, for certain family trusts
-(6C) Despite subsections (2) to (5C), for residential land transferred, as described in section CB 6AC (Residential land transferred in relation to certain Māori family trusts), an amount that a person derives from disposing of the residential land is income of the person if the bright-line disposal date for the residential land is within 5 years of the bright-line acquisition date given by section CB 6AC.
-Certain transfers of residential land included in settlement of claim under the Treaty of Waitangi
-(6D) Despite subsections (2) to (5C), for certain transfers of residential land, as described in section CB 6AE (Certain transfers of residential land included in settlement of claim under the Treaty of Waitangi), an amount that a person derives from disposing of the residential land is income of the person if the bright-line disposal date for the residential land is within 5 years of the bright-line acquisition date given by section CB 6AE.
-Exception: disposal of land by executor, administrator, or beneficiary
-(7) This section does not apply to an amount that an executor or administrator described in section FC 1(1)﻿(a) (Disposals to which this subpart applies), or a beneficiary described in section FC 1(1)﻿(b), derives from disposing of residential land that was transferred to them on the death of a person (see also: section FC 9 (Residential land transferred to executor, administrator, or beneficiary on death of person).
-Relationship with subject matter
-(8) This section applies if none of sections CB 6 to CB 12 apply.
-A definition
-(9) In this section, date of acquisition means the latest date on which the person acquires the estate or interest in the residential land.
+[Repealed]
 
 ### CZ 40 Main home exclusion for bright-line: acquisition on or after 29 March 2018
-When this section applies
-(1) This section applies to a person’s disposal of residential land, if the person first acquires an estate or interest in the residential land on or after 29 March 2018 and section CB 16A (Main home exclusion for disposal within 10 years) does not apply. However, this section does not apply to—
-  (a) a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018:
-  (b) a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
-Main home exclusion
-(2) Section CZ 39 does not apply to a person (person A) who disposes of residential land, if, for most of the bright-line period, the land has been used predominantly for a dwelling that was the bright-line grandparented home for—
-  (a) person A:
-  (b) a beneficiary of a trust, if person A is a trustee of the trust and—
-    (i) a principal settlor of the trust does not have a main home; or
-    (ii) if a principal settlor of the trust does have a main home, it is that main home which person A is disposing of.
-Modified rule for constructing main home
-(2B) For the purposes of determining under subsection (2) whether residential land has been used for most of the bright-line period as a bright-line grandparented home, the period in which the dwelling is constructed is ignored.
-Modified rule for transfers where rollover relief applies
-(2C) For the purposes of determining whether the land has been used predominantly for a dwelling that was the bright-line grandparented home as described in subsection (2), if person A was the transferee in a transaction to which section CB 6AB applied, the transferor’s use of the property is attributed to person A (for example, if the transferor used the property as a main home for 1 year, this is attributed to person A).
-When this section does not apply
-(3) The exclusion in subsection (2) does not apply to person A if—
-  (a) the exclusion has been used by person A 2 or more times within the 2 years immediately preceding the bright-line date for the residential land:
-  (b) person A has engaged in a regular pattern of acquiring and disposing of residential land described in subsection (2).
-Person may include group of persons
-(4) For the purposes of subsection (3)﻿(b), in relation to residential land described in subsection (2), person A includes a group of persons if the requirements of subsection (5) are met.
-Meaning of group of persons
-(5) For the purposes of subsection (4), a group of persons—
-  (a) means 2 or more persons when together all of the persons occupy, or have occupied, residential land described in subsection (2); and
-  (b) includes a person other than a natural person (the non-natural person), if another person referred to in paragraph (a) has significant involvement in, or control of, the activities of the non-natural person. For the avoidance of doubt, if the other person is able to direct, alone or as part of a group, the activities of the non-natural person, they have significant involvement in, or control of, the activities of the non-natural person.
+[Repealed]
 
 ### CZ 41 Distributions to supplying shareholders of Fonterra: 2022–23 to 2024–25 income years
 What this section applies to
@@ -7114,22 +6899,7 @@ Link with subpart DA
 (4) This section overrides the general permission. The other general limitations still apply.
 
 ### DB 23C Revenue account property: cost of some residential land reduced
-Cost reduced
-(1) For the purposes of section DB 23, the cost of residential land for which income is derived under section CB 6A(8) (Disposal within 10 years: bright-line test for residential land) is reduced by the excluded adjustment amount calculated using the formula in subsection (2).
-Excluded adjustment amount formula
-(2) The excluded adjustment amount for the purposes of subsection (1) is calculated using the following formula:cost × (exempted non-predominant main home days × main home percentage + exempted predominant main home days) / total days.
-Definition of items in formula
-(3) The items in the formula are defined in subsections (4) to (7).
-Cost
-(4) Cost is the cost of the land.
-Exempted non-predominant main home days
-(5) Exempted non-predominant main home days has the same meaning as in section CB 6A(11).
-Main home percentage
-(6) Main home percentage has the same meaning as in section CB 6A(11B).
-Exempted predominant main home days
-(7) Exempted predominant main home days has the same meaning as in section CB 6A(11C).
-Total days
-(8) Total days has the same meaning as in section CB 6A(11D).
+[Repealed]
 
 ### DB 24 Share losses
 When this section applies
@@ -7208,7 +6978,7 @@ Link with subpart DA
 (7) This section supplements the general permission. The general limitations still apply.
 
 ### DB 29 Apportionment when land acquired with other property
-If a person derives income under any of sections CB 6A to CB 14 and CZ 39 (which relate to the disposal of land) from the disposal of land, and the land is acquired together with other property, the cost of acquisition must be apportioned between the land and the other property.
+If a person derives income under any of sections CB 6A to CB 14 (which relate to the disposal of land) from the disposal of land, and the land is acquired together with other property, the cost of acquisition must be apportioned between the land and the other property.
 
 ### DB 30 Cost of certain minerals
 When this section applies
@@ -9073,7 +8843,7 @@ Grandparented transitional loans
     (i) made on or before 23 March 2021; and
     (ii) irrevocable before 27 March 2021:
   (d) in relation to disallowed residential property for which a previous owner (the original owner) had loan amounts described in paragraphs (a) to (c), if—
-    (i) every transfer of the property since the original owner acquired it meets the requirements in section FB 3A, FC 9, FC 9B(a) to (e), or FO 17 (which relate to roll-over relief for the bright-line rule), treating the relevant requirements as applying to a transfer of the disallowed residential property on or after 27 March 2021 instead of a transfer of residential land on or after 1 April 2022; and
+    (i) every transfer of the property since the original owner acquired it meets the requirements in section FB 3A, FC 9, or FO 17, or subpart FD (which relate to rollover relief from the bright-line test), treating the relevant requirements as applying to a transfer of the disallowed residential property on or after 27 March 2021 instead of a transfer of residential land on or after 1 April 2022; and
     (ii) the loan amounts are equal to or less than the amount of the original owner’s loan at the time the original owner transferred the property:
   (e) for re-financing, under a new loan facility,—
     (i) loan amounts described in paragraphs (a) to (d):
@@ -9176,7 +8946,7 @@ Initial loan balance
 (4) The initial loan balance is the amount of the loan that is allocated to disallowed residential property for the date (the start date) that is—
   (a) the end of 26 March 2021, if paragraphs (b) and (c) don’t apply; or
   (b) the date on which the loan is drawn down, if the loan is a grandparented transitional loan under paragraph (b) or (c) of the definition of that term and is drawn down on or after 27 March 2021; or
-  (c) the date on which the loan is drawn down if the acquisition of the property is described in section FC 9B(a) to (f).
+  (c) the date on which the loan is drawn down if the acquisition of the property is described in subpart FD.
 Affected loan balance
 (5) The affected loan balance is the amount of the loan that is a grandparented transitional loan at an instant (the balance time) in the affected interest period, calculated using the following formula:initial loan balance + (advances − repayments) − (unrelated advances − unrelated repayments).
 Definition of items in formula
@@ -9188,12 +8958,12 @@ Definition of items in formula
   (e) unrelated repayments is the total amount of the loan repayments applied under section DH 7(4), other than against the notional loan principal, in the period between the start date and the balance time.
 
 ### DH 11 Denied amounts: treatment upon disposal of disallowed residential property
-Disposal subject to section CB 6A or CZ 39: denied amount included as cost
-(1) An amount that relates to disallowed residential property and is denied under section DH 8 as a deduction that would have otherwise been allowed for a person is treated under section DB 23 (Cost of revenue account property) as a cost for the person of the disallowed residential property in the income year of the disposal of the disallowed residential property if the amount derived from the disposal is income under section CB 6A or CZ 39 (which relate to disposals of residential land within a given period from acquisition).
-Disposal not subject to section CB 6A or CZ 39: denied amount allocated under section EL 4 or EL 7
+Disposal subject to section CB 6A: denied amount included as cost
+(1) An amount that relates to disallowed residential property and is denied under section DH 8 as a deduction that would have otherwise been allowed for a person is treated under section DB 23 (Cost of revenue account property) as a cost for the person of the disallowed residential property in the income year of the disposal of the disallowed residential property if the amount derived from the disposal is income under section CB 6A (Disposal within 2 years: bright-line test for residential land).
+Disposal not subject to section CB 6A : denied amount allocated under section EL 4 or EL 7
 (2) An amount that relates to disallowed residential property and is denied under section DH 8 as a deduction that would have otherwise been allowed for a person is allowed under this section as a deduction in the income year of the disposal of the disallowed residential property, and is subject to allocation under subpart EL (Allocation of deductions for excess residential land expenditure), if the disallowed residential property is or was residential rental property for purposes of subpart EL and the amount derived from the disposal of the disallowed residential property—
-  (a) is income under a section other than section CB 6A or CZ 39; and
-  (b) is not income under section CB 6A or CZ 39.
+  (a) is income under a section other than section CB 6A; and
+  (b) is not income under section CB 6A.
 
 ### DH 12 Valuation
 Land not used in undertaking creating new build land
@@ -15773,11 +15543,11 @@ Rules for certain entities
   (b) section EL 15 relating to transfers between companies in wholly-owned groups:
   (c) sections EL 16 to EL 19 relating to deductions for interest expenditure when a person borrows to invest in a residential land-rich entity.
 Bright-line disposals of residential land
-(7) Section EL 20 applies when a person sells residential land within the bright-line period and has expenditure that relates to the land for which they are allowed a deduction as a cost of revenue account property. The section also provides for the treatment of the expenditure when the sale is made to an associated person.
+(7) Section EL 20 applies when a person derives income under section CB 6A (Disposal within 2 years: bright-line test for residential land) and has expenditure that relates to the land for which they are allowed a deduction as a cost of revenue account property. The section also provides for the treatment of the expenditure when the sale is made to an associated person.
 
 ### EL 3 Definitions for this subpart
 In this subpart,—
-  - **land sales provisions** means sections CB 6A to CB 15 and CZ 39 (which relate to amounts derived from disposals of land)
+  - **land sales provisions** means sections CB 6A to CB 15 (which relate to amounts derived from disposals of land)
   - **residential income** means the following amounts that a person derives for an income year in relation to residential land:
     (a) rental income which is the amount of income the person derives under sections CC 1 to CC 2 (which relate to amounts derived from the use of land) for the income year in relation to their residential portfolio:
     (ab) income which is the amount that the person derives under section CC 3 (Financial arrangements) for the income year in relation to a loan, denominated in a foreign currency, to the extent to which that loan relates to their residential portfolio:
@@ -15988,13 +15758,13 @@ Valuation of land
 ### EL 20 Allocation of deductions related to bright-line disposals of residential land
 When this section applies
 (1) This section applies for an income year when a person—
-  (a) derives income under section CB 6A or CZ 39 (which relate to the bright-line test for residential land); and
+  (a) derives income under section CB 6A (Disposal within 2 years: bright-line test for residential land); and
   (b) is allowed a deduction under section DB 23 (Cost of revenue account property) in relation to the land.
 Limited allocation
 (2) The amount of the deduction that may be allocated to the income year must be no more than the amount calculated using the formula—bright-line income + net income from land.
 Definition of items in formula
 (3) In the formula,—
-  (a) bright-line income is the amount of income that the person derives for the income year under section CB 6A or CZ 39:
+  (a) bright-line income is the amount of income that the person derives for the income year under section CB 6A:
   (b) net income from land is the amount of net income that the person would have for the corresponding tax year if their only income were income under sections CB 6 to CB 14 (which relate to amounts derived from the disposals of land).
 Excess amounts carried forward
 (4) To the extent to which the amount of the person’s deduction is more than the amount calculated under subsection (2), the excess amount is—
@@ -23195,11 +22965,11 @@ Further disposal treated as dealing
 
 ### FB 3A Residential land
 When this section applies
-(1) This section applies for the purposes of sections CB 6A, CB 16A, CZ 39, and CZ 40 (which relate to the bright-line test for residential land), and Part D (Deductions) when residential land is transferred on a settlement of relationship property.
+(1) This section applies for the purposes of sections CB 6A and CB 16A (which relate to the bright-line test for residential land), and Part D (Deductions) when residential land is transferred on a settlement of relationship property.
 Transfer at cost
 (2) The transfer is treated as a disposal and acquisition for an amount that equals the total cost of the residential land to the transferor at the date of transfer.
 Date of acquisition
-(3) The transferee is treated as having acquired property in the residential land on the relevant date, for the transferor’s acquisition, in sections CB 6A, and CZ 39.
+(3) The transferee is treated as having acquired property in the residential land on the relevant date, for the transferor’s acquisition, in section CB 6A.
 
 ### FB 3 Land acquired for certain purposes or under certain conditions
 When this section applies
@@ -23423,7 +23193,7 @@ Market value
 Date of transfer of estate of deceased person
 (2) For property referred to in section FC 1(1)﻿(a), the disposal and acquisition is treated as occurring immediately before the death of the person.
 Exceptions to general rule
-(3) Sections ED 2B (Transfers to shareholders by ASX-listed Australian company of shares in subsidiary) and FC 3 to FC 9C and FC 10 override this section.
+(3) Sections ED 2B (Transfers to shareholders by ASX-listed Australian company of shares in subsidiary) and FC 3 to FC 9, FC 10, FD 1, and FD 2 override this section.
 Relationship with settlements and distributions for trusts
 (4) Subsection (1) does not apply for the purposes of determining whether a transfer of property is—
   (a) a settlement on a trust:
@@ -23493,30 +23263,24 @@ Financial arrangements: cash basis person
 What this section applies to
 (1) This section applies in the circumstances described in section FC 1(1)﻿(a) or (b) when residential land is transferred on a person’s death and section FC 5 does not apply.
 Residential land
-(2) Section CB 6A and CZ 39 (which relate to the bright-line test for residential land) do not apply to the transfer of the residential land, including any intervening transfer to an executor or administrator (see also: sections CB 6A(2B) and CZ 39(7)).
+(2) Section CB 6A (Disposal within 2 years: bright-line test for residential land) does not apply to the transfer of residential land, including any intervening transfer to an executor or administrator (see also: section CB 6A(5)﻿(b)).
 Cost of residential land
 (3) If the residential land is transferred to a person who disposes of it, and the person derives income, the cost of the land to the person is—
   (a) the cost of the land incurred by the deceased person; and
   (b) all other expenditure incurred by the person, the deceased person, or the administrator or executor of the deceased person, as applicable, for which no deduction has been allowed.
 Rollover relief extended
-(4) Despite subsection (3), if the residential land is transferred by a beneficiary of the deceased person on or after 1 April 2022 to a person who is a recipient as described in section FC 9B(a) to (e), and the person disposes of it, sections CB 6A and CZ 39 do not apply to the disposal.
+(4) Despite subsection (3), if the residential land is transferred by a beneficiary of the deceased person to a person who is a recipient as described in subpart FD, and the person disposes of it, section CB 6A does not apply to the disposal.
 
 **Exceptions for residential land transferred to trustees of certain trusts or other entities**
 
 ### FC 9B Residential land: certain transferors
-For the purposes of calculating a person’s net income in relation to the disposal of residential land for which they derive an amount of income under section CB 6A or CZ 39 (which relate to residential land), if the person is 1 of the following then they are treated as disposing of the relevant land for the greater of either its cost to them or the consideration they derive for the disposal:
-  (a) a person transferring land to a trustee (the recipient), described in section CB 6AB(1) (Residential land transferred in relation to certain family trusts and other capacities), to which that subsection applies:
-  (b) a trustee transferring land to a settlor (also a recipient), described in section CB 6AB(2), to which that subsection applies:
-  (c) a person in a different capacity (also a recipient), described in section CB 6AB(4), to which that subsection applies:
-  (d) a person transferring land to a Māori trustee (also recipient), described in section CB 6AC(1) (Residential land transferred in relation to certain Māori family trusts), to which that subsection applies:
-  (e) a Māori trustee transferring land to a settlor (also a recipient), described in section CB 6AC(2), to which that subsection applies:
-  (f) a transferor transferring land to a recipient, described in section CB 6AE (Certain transfers of residential land included in settlement of claim under the Treaty of Waitangi), to which that section applies.
+[Repealed]
 
 ### FC 9C Residential land: certain recipients
-For the purposes of calculating a person’s net income in relation to the disposal of residential land for which they derive an amount of income under section CB 6A or CZ 39 (which relate to residential land), if the person is a recipient of a transfer, as described in section FC 9B(a), (b), (c), (d), or (e), then they are treated as acquiring the relevant land for the greater of either its cost to the person (the transferor) that transferred it to them or the consideration they give the transferor for the land.
+[Repealed]
 
 ### FC 9D Residential land: certain recipients of Treaty of Waitangi land
-For the purposes of calculating a person’s (person A’s) net income in relation to the disposal of residential land for which person A derives an amount of income under section CB 6A or CZ 39 (which relate to residential land), person A is treated as acquiring the land for its market value at the time the land was transferred from the Crown, if person A is the recipient under CB 6AE (Certain transfers of residential land included in settlement of claim under the Treaty of Waitangi).
+[Repealed]
 
 ### FC 10 Transfers from person to Official Assignee under Insolvency Act 2006
 When this section applies
@@ -23539,6 +23303,54 @@ Official Assignee and unallocated deductions
 (6) An amount of unallocated deductions is treated as not being a deduction of the person and as being a deduction of the Official Assignee that relates to property of the Official Assignee and that may be allocated by the Official Assignee—
   (a) to a period beginning on or after the transfer date; and
   (b) in a way that the person could have allocated the deduction but for the adjudication or procedure under the Insolvency Act 2006.
+
+### Subpart FD — Rollover relief from the bright-line test
+
+### FD 1 Relief from bright-line test for transfers between associated persons
+When this section applies
+(1) This section applies for the purposes of sections CB 6A and CB 16A (which relate to the bright-line test for residential land) and Part D (Deductions) when residential land is transferred within the bright-line period—
+  (a) between persons associated under any of sections YB 2 to YB 13 at the date of transfer and for at least 2 years before that date; or
+  (b) to a trustee of a trust in which all beneficiaries, other than the transferor in their capacity as a beneficiary, are—
+    (i) associated with the transferor at the date of transfer and for at least 2 years before that date, except for beneficiaries aged less than 2 years and persons who have become associated due to marriage or adoption who must be associated with the transferor since birth, marriage, or adoption, as applicable; or
+    (ii) an association, club, institution, society, organisation, or trust not carried on for the private profit of any person whose funds are applied wholly or principally to any civic, community, charitable, philanthropic, religious, benevolent, or cultural purpose, whether in New Zealand or elsewhere.
+Transfer at cost
+(2) The transfer is treated as a disposal and acquisition, at the date of transfer, for an amount that equals the cost of the residential land to the transferor.
+Bright-line start date
+(3) The transferee’s bright-line start date for the land is the transferor’s bright-line start date.
+Use of property
+(4) For the purposes of determining whether section CB 16A (Main home exclusion for disposal within 2 years) applies, the transferor’s use of the property is attributed to the transferee (for example, if the transferor used the property as a main home for 1 year, this is attributed to the transferee).
+When this section does not apply
+(5) This section does not apply to a transfer of residential land if the section has already been applied to a transfer (the first transfer) of the residential land and 2 years have not passed from the date of the first transfer.
+
+### FD 2 Relief from bright-line test for Māori rollover trusts
+When this section applies
+(1) This section applies for the purposes of sections CB 6A and CB 16A (which relate to the bright-line test for residential land) and Part D (Deductions) when residential land is transferred within the bright-line period as described in the following table:The following table is small in size and contains 3 columns. The first column is headed Row. The second column is headed Transfer. The third column is headed Conditions to be satisfied.RowTransferConditions to be satisfied1Transfers into a Māori rollover trustThe transferor is a settlor and beneficiary of a Māori rollover trust; andThe transferee is a trustee of the Māori rollover trust.2Transfers between Māori rollover trustsThe transferor is a trustee of a Māori rollover trust; andThe transferee is a trustee of another Māori rollover trust; andThe beneficiaries for both trusts are the same.3Transfers out of a Māori rollover trustThe transferor is the trustee of a Māori rollover trust; andThe transferee is a settlor of the Māori rollover trust; andThe settlors—a) originally transferred the land to the trustee; andb) acquired proportionally the same amount of land back from the trustee as they had originally transferred or, where one of the settlors has died, the settlors receive at least the same proportion of the land back from the trustee as they had originally transferred; andc) are beneficiaries of the trust.How to use this table: Read the columns from left to right according to the row that fits the situation. If the parties to the transfer meet the relevant conditions, then this section applies to them.
+Other capacities
+(2) For the purposes of subsection (1), the transferors and transferees may have different capacities in relation to the different conditions in that subsection (for example, a transferee may be a settlor in their personal capacity and a beneficiary as an owner of a look-through company).
+Transfer at greater of cost or consideration derived
+(3) The transfer is treated as a disposal and acquisition, at the date of transfer, for an amount that equals the greater of the cost of the residential land to the transferor or the consideration paid by the transferee.
+Bright-line start date
+(4) The transferee’s bright-line start date for the land is the transferor’s bright-line start date.
+Meaning of Māori rollover trust
+(5) Māori rollover trust means, at the time of a relevant transfer to or from a relevant trust, a trust in which—
+  (a) a trustee of the trust is a Maori authority or eligible to elect to be a Maori authority; and
+  (b) all beneficiaries are—
+    (i) members of the same iwi or hapu:
+    (ii) descendants of the same tipuna; and
+  (c) the land is subject to Te Ture Whenua Maori Act 1993.
+
+### FD 3 Certain transfers of residential land included in settlement of claim under Treaty of Waitangi
+When this section applies
+(1) This section applies for the purposes of sections CB 6A and CB 16A (which relate to the bright-line test for residential land) and Part D (Deductions) to a transfer of residential land within the bright-line period that is—
+  (a) subject to Te Ture Whenua Maori Act 1993; and
+  (b) made as part of the settlement of a claim under the Treaty of Waitangi; and
+  (c) transferred to a trustee of a trust that is a Maori authority or is eligible to be a Maori authority under section HF 2(3)﻿(e)﻿(i) (Who is eligible to be a Maori authority?).
+Transfer by transferor
+(2) The transferor is treated as transferring the land at the greater of the cost of the land to them or the consideration they derive from the disposal.
+Transfer to transferee
+(3) The transferee is treated as acquiring the land at its market value at the time the land was transferred from the Crown.
+Bright-line start date
+(4) The transferee’s bright-line start date for the land is the transferor’s bright-line start date.
 
 ### Subpart FE — Interest apportionment on thin capitalisation
 
@@ -25381,7 +25193,7 @@ When this section applies
 Acquisition by company B
 (2) Company B is treated as acquiring the property on the date it was acquired by company A for the amount set out in subsections (3) to (5).
 Acquisition by company B
-(2B) For the purposes of sections CB 6A and CZ 39 (which relate to residential land), in relation to property that is land, company B is treated as having the same bright-line acquisition date as company A for that land.
+(2B) For the purposes of section CB 6A (Disposal within 2 years: bright-line test for residential land), in relation to property that is land, company B is treated as having the same bright-line start date as company A for that land.
 Whole pool
 (3) When the property forms the whole of a pool of property that is depreciated by company A under sections EE 20 to EE 24 (which relate to depreciation loss calculated under the pool method), the amount in subsection (2) is the adjusted tax value of the pool immediately before the property is transferred to company B.
 Part pool
@@ -25900,7 +25712,7 @@ Timing and consideration
 Trading stock
 (5) If the property is trading stock for both the amalgamating company and the amalgamated company, the consideration for the disposal and acquisition is taken as the value of the trading stock to the amalgamating company determined under subpart EB (Valuation of trading stock (including dealer’s livestock)) at the time of the amalgamation.
 Revenue account property
-(6) If the property is revenue account property of the amalgamating company but not revenue account property of the amalgamated company, the consideration for the disposal and acquisition is taken as the market value of the property at the time of the amalgamation. But this subsection does not apply to land that is revenue account property merely because of the 5-year bright-line test, the 10-year bright-line test, or the 10-year rule in any of sections CB 6A, CB 9 to CB 11, CB 14, and CZ 39 (which relate to the disposal of land), in which case section FO 17(3) may apply.
+(6) If the property is revenue account property of the amalgamating company but not revenue account property of the amalgamated company, the consideration for the disposal and acquisition is taken as the market value of the property at the time of the amalgamation. But this subsection does not apply to land that is revenue account property merely because of the 2-year bright-line test in section CB 6A or the 10-year rule in any of sections CB 9 to CB 11, and CB 14 (which relate to the disposal of land), in which case section FO 17(3) may apply.
 Depreciation loss
 (7) An amalgamating company is allowed a deduction under section DV 15(3) (Amalgamated companies: property passing on resident’s restricted amalgamation) for an amount of depreciation loss for property transferred to the amalgamated company for the period beginning on the first day of the income year of amalgamation and ending on the day before the date of the amalgamation.
 
@@ -25980,10 +25792,10 @@ When this section applies
 (1) This section applies when land belonging to an amalgamating company passes to the amalgamated company on a resident’s restricted amalgamation.
 Disposal at market value
 (2) The amalgamating company is treated as having disposed of the land to the amalgamated company at the market value of the land at the date of the amalgamation if—
-  (a) the land is not revenue account property of the amalgamating company, and the disposal of the land would give rise to income for the amalgamated company under any of sections CB 6A to CB 14, and CZ 39 (which relate to the disposal of land):
-  (b) the land is revenue account property of the amalgamating company but not merely because of the 5-year bright-line test, the 10-year bright-line test, or the 10-year rule in any of sections CB 6A, CB 9 to CB 11, CB 14, and CZ 39, and the land is, or may be, revenue account property of the amalgamated company because of the 5-year bright-line test, the 10-year bright-line test, or the 10-year rule in any of sections CB 6A, CB 9 to CB 11, CB 14, and CZ 39.
-Disposal of land within 5-year bright-line test or 10-year rule
-(3) If the land is, or may be, revenue account property of the amalgamating company because of the 5-year bright-line test, the 10-year bright-line test, or the 10-year rule in any of sections CB 6A, CB 9 to CB 11, CB 14, and CZ 39, and the amalgamated company disposes of the land within the relevant 5-year or 10-year period after the amalgamating company acquired it, an amount derived from the disposal is income of the amalgamated company under whichever is applicable of sections CB 6A to CB 14, and CZ 39.
+  (a) the land is not revenue account property of the amalgamating company, and the disposal of the land would give rise to income for the amalgamated company under any of sections CB 6A to CB 14 (which relate to the disposal of land):
+  (b) the land is revenue account property of the amalgamating company but not merely because of the 2-year bright-line test in section CB 6A or the 10-year rule in any of sections CB 9 to CB 11 and CB 14, and the land is, or may be, revenue account property of the amalgamated company because of the 2-year bright-line test or the 10-year rule.
+Disposal of land within 2-year bright-line test or 10-year rule
+(3) If the land is, or may be, revenue account property of the amalgamating company because of the 2-year bright-line test in section CB 6A or the 10-year rule in any of sections CB 9 to CB 11 and CB 14, and the amalgamated company disposes of the land within the relevant 2-year or 10-year period after the amalgamating company acquired it, an amount derived from the disposal is income of the amalgamated company under whichever is applicable of sections CB 6A to CB 14.
 
 ### FO 18 When amalgamating companies are parties to financial arrangement
 When this section applies
@@ -27029,6 +26841,14 @@ When this section applies
 Credit reduced
 (2) A tax credit under subparts MA to MG and MZ is reduced to the amount that the Commissioner considers would have arisen had the arrangement not occurred.
 
+### GB 44B Arrangements involving FamilyBoost tax credits
+When this section applies
+(1) This section applies when—
+  (a) a person enters into an arrangement; and
+  (b) the arrangement has a purpose or effect of defeating the intent and application of subpart MH (FamilyBoost tax credits).
+Credit reduced
+(2) A tax credit under subpart MH is reduced to the amount the Commissioner considers would have arisen had the arrangement not occurred.
+
 ### GB 45 Arrangements involving money not at risk
 Application of section GB 46
 (1) Section GB 46 can apply to an arrangement when—
@@ -27171,9 +26991,9 @@ Increase or decrease excluded from calculation
 ### GB 52 Arrangements involving residential land: companies’ shares
 When this section applies
 (1) This section applies when—
-  (a) a company owns residential land directly or indirectly for which the relevant date in section CB 6A(1)﻿(a) or (b), or CZ 39(2)﻿(a) or (b) (which relate to the bright-line test for residential land) is within 10 years or 5 years, as applicable, of a disposal of shares that paragraph (c) of this section applies to (company residential land); and
+  (a) a company owns residential land directly or indirectly for which the bright-line end date in section CB 6A(1) (Disposal within 2 years: bright-line test for residential land) is within 2 years of a disposal of shares that paragraph (c) of this section applies to (company residential land); and
   (b) residential land owned directly or indirectly by the company makes up 50% or more, by market value, of the assets of the company; and
-  (c) 50% or more of the shares in the company, by market value, are disposed of within a 12-month period, with a purpose or effect of defeating the intent and application of section CB 6A or CZ 39 (Disposal within 5 years: bright-line test for residential land: acquisition on or after 29 March 2018).
+  (c) 50% or more of the shares in the company, by market value, are disposed of within a 12-month period, with a purpose or effect of defeating the intent and application of section CB 6A.
 Disposal at cost, reacquisition at market
 (2) The company is treated as disposing of the relevant shareholder portion of company residential land to the relevant shareholder for an amount of consideration equal to the total cost to the company of the portion, and the shareholder is treated as acquiring the portion for that total cost and then disposing of it, back to the company, for an amount of consideration equal to the market value of the portion. The company is treated as reacquiring the portion for the market value.
 A definition
@@ -27184,7 +27004,7 @@ When this section applies
 (1) This section applies when—
   (a) the trustees of a trust own residential land directly or indirectly (trust residential land); and
   (b) trust residential land makes up 50% or more, by market value, of the assets of the trust; and
-  (c) the trust’s trust deed changes, a decision-maker under the trust deed changes, or an arrangement under the trust changes, with a purpose or effect of defeating the intent and application of section CB 6A or CZ 39 (which relate to the bright-line test for residential land).
+  (c) the trust’s trust deed changes, a decision-maker under the trust deed changes, or an arrangement under the trust changes, with a purpose or effect of defeating the intent and application of section CB 6A (Disposal within 2 years: bright-line test for residential land).
 Market value disposal
 (2) The trustees are treated as disposing of the trust residential land affected by a change described in subsection (1)﻿(c) for an amount of consideration equal to the market value of the land at the time of the change.
 
@@ -32989,6 +32809,7 @@ Time bar
 What this section applies to
 (1) This section applies to a person's tax credit remaining for a tax year under section LA 5(5), if it is a tax credit under—
   (a) section LB 4 (Tax credits for families):
+  (aba) section LB 4BA (Tax credits for early childhood education):
   (ab) section LB 4B (Tax credit for R&D tax losses):
   (b) section LD 1(5) (Tax credits for charitable and other public benefit gifts).
 Use of credits
@@ -33086,6 +32907,9 @@ Tax credits under subparts MD and ME
 (1) A person has a tax credit for a tax year equal to the total amount of their tax credit under subpart MD (Abating WFF tax credits), their minimum family tax credit under subpart ME (Minimum family tax credit), and their Best Start tax credit under subpart MG (Best Start tax credit) for the tax year.
 Adjustments for credits used
 (2) The person's tax credit is adjusted if an instalment of the credit under subpart MF (Payment of credits) is used to satisfy an amount of tax for an earlier income year. The adjustment to the tax credit is equal to the total amount of instalments payable under section MF 1 (Application for payment of tax credit by instalment) that are recovered by the Commissioner under section MF 6 (Overpayment or underpayment of tax credit) as tax payable by the person.
+
+### LB 4BA Tax credits for early childhood education
+A person has a tax credit equal to the amount of their FamilyBoost tax credit under subpart MH (FamilyBoost tax credits).
 
 ### LB 4B Tax credit for R&D tax losses
 A person has a tax credit for a tax year equal to their R&D loss tax credit under subpart MX (Tax credits for R&D tax losses) for the tax year.
@@ -34592,6 +34416,7 @@ When this section applies
 ### MA 1 What this Part does
 This Part identifies the tax credits to which a natural person is entitled—
   (a) under the family scheme for a tax year, see subparts MA to MG and MZ (which relate to working for families tax credits):
+  (ab) under the FamilyBoost tax credits scheme, see subpart MH (FamilyBoost tax credits):
   (b) under the superannuation savings scheme for a year beginning on 1 July and ending on 30 June, see subpart MK (Tax credits for KiwiSaver schemes and complying superannuation funds):
   (bb) for R&D tax losses for an income year beginning on or after 1 April 2015, see subpart MX (Tax credits for R&D tax losses).
   (c)
@@ -34609,7 +34434,10 @@ If a calculation under this Part produces a result that is negative for the amou
 In determining a person’s entitlement to a tax credit under subparts MB to MG and MZ, the Commissioner may obtain the advice of the chief executive or, as applicable, the General Manager of Veterans’ Affairs New Zealand appointed under section 200(1) of the Veterans' Support Act 2014.
 
 ### MA 6 Avoidance arrangements
-Section GB 44 (Arrangements involving tax credits for families) may apply to reduce a tax credit under subparts MB to MG and MZ.
+Arrangements involving tax credits for families
+(1) Section GB 44 (Arrangements involving tax credits for families) may apply to reduce a tax credit under subparts MB to MG and MZ.
+Arrangements involving FamilyBoost tax credits
+(2) Section GB 44B (Arrangements involving FamilyBoost tax credits) may apply to reduce a tax credit under subpart MH (FamilyBoost tax credits).
 
 ### MA 7 Meaning of full-time earner and earner for family scheme
 Weekly employment: full-time earner
@@ -35684,6 +35512,69 @@ Requirements
   (b) has a spouse, civil union partner, or de facto partner, receives a main benefit, and derives family scheme income that together with the family scheme income of their spouse, civil union partner, or de facto partner is less than the amount set out in section MG 3(2)﻿(a)﻿(ii).
 Annualised equivalent
 (2) Section MB 2 (Adjustment for period that is less or more than 1 year) applies to adjust the amount of family scheme income to provide an annualised equivalent.
+
+### Subpart MH — FamilyBoost tax credits
+
+### MH 1 FamilyBoost tax credits: purpose
+The purpose of the FamilyBoost tax credit is to provide financial assistance to caregivers with early childhood education costs.
+
+### MH 2 Some definitions
+In this subpart,—
+  - **abatement amount** means the amount calculated under section MH 5
+  - **caregiver** means a person, whether or not a parent of the child, who the Commissioner considers has responsibility for the day-to-day care of a child, other than on a temporary basis
+  - **FamilyBoost tax credit** means a tax credit under section MH 3
+  - **licensed early childhood service** has the meaning set out in section 10 of the Education and Training Act 2020
+  - **licensed early childhood service fees** includes optional charges but excludes any portion that is a donation
+  - **tax credit income** means the amount determined under section MH 4.
+
+### MH 3 FamilyBoost tax credit
+Entitlement to FamilyBoost tax credit
+(1) A natural person is entitled to a tax credit, the FamilyBoost tax credit, for a quarter for the amount calculated under subsections (2) and (3) if, during that quarter, the person—
+  (a) is a caregiver of one or more children enrolled with a licensed early childhood service; and
+  (b) incurs licensed early childhood service fees for that child or children; and
+  (c) is resident in New Zealand.
+Amount of credit
+(2) Subject to subsection (3), the FamilyBoost tax credit for the quarter is equal to 25% of the licensed early childhood service fees payable by the person for the quarter up to a maximum credit amount of $975.
+Abatement of credit
+(3) If the person’s tax credit income for the quarter is greater than $35,000, the FamilyBoost tax credit for the quarter is the lesser of—
+  (a) the amount of the FamilyBoost tax credit determined under subsection (2); and
+  (b) $975 less the abatement amount.
+Person may apply for refund
+(4) A person entitled to a FamilyBoost tax credit for a quarter may apply for a refund of that credit under section 41C of the Tax Administration Act 1994 if—
+  (a) the person has met their obligation to file a return of income by the dates set out in section 37 of the Tax Administration Act 1994; and
+  (b) the person’s spouse, civil union partner, or de facto partner (partner), if applicable, has also met their obligation to file a return of income by the dates set out in section 37 of the Tax Administration Act 1994.
+One tax credit per couple
+(5) If a person entitled to a FamilyBoost tax credit under subsection (1) has a partner, that partner is not also entitled to a FamilyBoost tax credit for the quarter, regardless of whether the licensed early childhood service fees are incurred by both the person and their partner.
+Deceased estate
+(6) Despite subsection (4), where a person entitled to a FamilyBoost tax credit dies before applying for a refund of that credit, the trustee of that person’s estate may apply for a refund of the FamilyBoost tax credit to which the deceased person was entitled under subsection (1) as if they were that person.
+Separated persons
+(7) Subsection (5) does not apply for a quarter if the person is separated from their partner and does not have a new partner at the end of the quarter.
+
+### MH 4 Meaning of tax credit income
+Meaning of tax credit income
+(1) The tax credit income of a person entitled to a FamilyBoost tax credit for a quarter under section MH 3 is the amount determined under subsections (2) to (6).
+Reportable income
+(2) Subject to subsection (4), if the person derives reportable income in the quarter, the person’s tax credit income for the quarter is the amount of that reportable income.
+Other income
+(3) Subject to subsection (4), if the person derives taxable income other than reportable income in the quarter, the amount treated as the person’s tax credit income for the quarter is,—
+  (a) if a return of income has been filed by the person for the income year that includes the quarter, 25% of the amount of the person’s taxable income for that income year; or
+  (b) in any other case, 25% of the amount of the person’s taxable income for the income year for which the most recent return of income has been filed by the person before the commencement of the quarter.
+Reportable and other income
+(4) If the person derives both reportable income and taxable income other than reportable income in the quarter, the person’s tax credit income for the quarter is the greater of—
+  (a) the person’s reportable income in the quarter; and
+  (b) the amount treated as the person’s tax credit income for the quarter under subsection (3).
+Combined tax credit incomes
+(5) If the person has a spouse, civil union partner, or de facto partner (partner) for the quarter, the person’s tax credit income for the quarter is the combined total of the person’s tax credit income and the tax credit income of their partner for the quarter. For these purposes, their partner’s tax credit income is determined under subsections (2) to (4) as if their partner were the person referred to in those subsections.
+Separated persons
+(6) Subsection (5) does not apply for a quarter if the person is separated from their partner and does not have a new partner at the end of that quarter.
+
+### MH 5 FamilyBoost tax credit abatement
+What this section does
+(1) When a person is entitled to a FamilyBoost tax credit for a quarter under section MH 3 and the person’s tax credit income for the quarter is greater than $35,000, this section calculates the abatement amount for the purposes of section MH 3(3)﻿(b).
+Rate of abatement
+(2) Subject to subsection (3), the abatement amount is calculated at the rate of 9.75 cents for each complete dollar of the person’s tax credit income for the quarter that is greater than $35,000.
+Zero credit
+(3) If the person’s tax credit income for the quarter is $45,000 or more, the abatement amount is $975 and the FamilyBoost tax credit amount under section MH 3(2) and (3) is zero.
 
 ### Subpart MK — Tax credits for KiwiSaver schemes and complying superannuation funds
 
@@ -42806,7 +42697,7 @@ What this subpart does
 (1) This subpart imposes an obligation to pay a tax called residential land withholding tax (RLWT).
 When this subpart applies
 (2) This subpart applies for a residential land purchase amount in relation to a disposal of residential land located in New Zealand by a person (the vendor) to another person (the purchaser) if—
-  (a) the relevant residential land purchase amount would be income of the vendor under section CB 6A or CZ 39 (which relate to the bright-line test for residential land) ignoring sections CB 6A(1A), CB 16A, CZ 39(8), and CZ 40 (which relate to the bright-line test); and
+  (a) the relevant residential land purchase amount would be income of the vendor under section CB 6A (Disposal within 2 years: bright-line test for residential land) ignoring sections CB 6A(5)﻿(a) and CB 16A (Main home exclusion for disposal within 2 years); and
   (b) the vendor is an offshore RLWT person.
 How this subpart applies to joint owners
 (3) For the purposes of this subpart, vendors who are co-owners are treated as disposing of separate residential land on the basis of an appropriate split of the underlying residential land and the consideration for its disposal.
@@ -43015,6 +42906,10 @@ Commissioner applying refund
 (3) If no request is made under subsection (2), the Commissioner may apply the amount of the refund to satisfy a liability that the person has under the Inland Revenue Acts.
 Exclusion
 (4) Despite subsection (3), the Commissioner must not apply the amount of a refund under section LA 7(1)﻿(a) (Remaining refundable credits: tax credits for social policy and other initiatives) or RM 8, or arising from an election under section IZ 8 (Election to use net loss for 2019–20 or 2020–21 year as tax loss in preceding year), to satisfy a liability of the person.
+FamilyBoost tax credit
+(5) Despite subsections (2) to (4), if a person has a FamilyBoost tax credit under subpart MH (FamilyBoost tax credits) and is entitled to a refund under section 41C of the Tax Administration Act 1994,—
+  (a) the Commissioner may apply the amount of the refund to satisfy a liability that the person has under section 41C(7) of that Act:
+  (b) if paragraph (a) does not apply or an amount remains after the Commissioner has exercised the discretion given under paragraph (a), the person may ask under section 173L of that Act for the Commissioner to apply some, or all, of the amount on a particular date to satisfy a liability under the Inland Revenue Acts.
 
 ### RM 11 Using GST refund to pay instalment of provisional tax
 When this section applies
@@ -43691,8 +43586,8 @@ When this section applies
 
 ### YA 1 Definitions
 In this Act, unless the context requires otherwise,—
-  - **5-year test land** is defined in section CB 6A(1) (Disposal within 10 years: bright-line test for residential land)
-  - **10-year test land** is defined in section CB 6A(1) (Disposal within 10 years: bright-line test for residential land)
+  - **5-year test land**
+  - **10-year test land**
   - **12 month ASAP** —
     (a) means an agreement for the sale and purchase of property or services (ASAP) for which an amount paid or payable for property or services is pre-paid (the prepayment) by reference to the rights date, and the prepayment is paid 12 months or more before the rights date, except if the prepayment is only—
       (i) a payment for progress made on either making or constructing property, or providing services:
@@ -43704,6 +43599,7 @@ In this Act, unless the context requires otherwise,—
   - **1973 version provisions**
   - **1988 version provisions**
   - **1990 version provisions**
+  - **abatement amount** is defined in section MH 2 (Some definitions) for the purposes of subpart MH (FamilyBoost tax credits)
   - **abating WFF tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **absentee** —
     (a) means a person other than a person who is resident in New Zealand during any part of the tax year:
@@ -44001,20 +43897,12 @@ In this Act, unless the context requires otherwise,—
   - **branch equivalent tax debit** means a debit referred to in section OA 6(5) (Debits)
   - **branch mismatch report** is defined in section FH 15(1) (Definitions)
   - **bribe** is defined in section DB 45(4) (Bribes) for the purposes of that section
-  - **bright-line acquisition date** means the relevant bright-line acquisition date described in sections CB 6A to CB 6AE and CZ 39 (which relate to the bright-line test for residential land)
-  - **bright-line disposal date** and means, for a disposal of residential land,—
-    (a) the earliest of—
-      (i) the date that the person enters into an agreement for the disposal:
-      (ii) the date on which the person makes a gift of the residential land:
-      (iii) the date on which the person’s residential land is compulsorily acquired under any Act by the Crown, a local authority, or a public authority:
-      (iv) if there is a mortgage secured on the residential land, the date on which the land is disposed of by or for the mortgagee as a result of the mortgagor’s defaulting; or
-    (b) if none of paragraph (a)﻿(i) to (iv) apply, the date on which the estate or interest in the residential land is disposed of
-  - **bright-line grandparented home** means, for a person, the 1 dwelling—
-    (a) that is mainly used as a residence by the person (a home); and
-    (b) with which the person has the greatest connection, if they have more than 1 home
-  - **bright-line period** means, for a person and residential land, the period beginning with the relevant date described in, as applicable—
-    (a) section CB 6A(3) to (7C) (Disposal within 10 years: bright-line test for residential land), and ending with the bright-line date for the residential land:
-    (b) section CZ 39(2) to (6) (Disposal within 5 years: bright-line test for residential land: acquisition on or after 29 March 2018), and ending with the bright-line date for the residential land
+  - **bright-line acquisition date**
+  - **bright-line disposal date** and
+  - **bright-line end date** is defined in section CB 6A (Disposal within 2 years: bright-line test for residential land)
+  - **bright-line grandparented home**
+  - **bright-line period** means, for a person and residential land, the period beginning with the bright-line start date for the land and ending with the bright-line end date for the land
+  - **bright-line start date** is defined in section CB 6A (Disposal within 2 years: bright-line test for residential land)
   - **broodmare** means a broodmare that is bloodstock
   - **build-to-rent land** —
     (a) means, for a person, land that they own and that is described in section CB 12(1)﻿(a) to (e) or CB 13(1)﻿(a) and (b), to the extent to which it is or was part of 1 project of 20 or more dwellings, and to the extent to which it is currently 1 of 20 or more dwellings used, available for use, or being prepared or restored for use, as a dwelling occupied under a residential tenancy to which the Residential Tenancies Act 1986 applies or would apply, if—
@@ -44036,7 +43924,7 @@ In this Act, unless the context requires otherwise,—
       (ii) an airport operator:
     (c) is further defined in section DD 11 (Some definitions) for the purposes of subpart DD (Entertainment expenditure)
   - **business contacts** is defined in section DD 11 (Some definitions) for the purposes of subpart DD (Entertainment expenditure)
-  - **business premises** , for subparts DD and DH and sections CB 6A to CB 15 and CZ 39,—
+  - **business premises** , for subparts DD and DH and sections CB 6 to CB 13 (which relate to disposals of land),—
     (a) means the normal business premises or a temporary workplace of the person (or an associate):
     (b) does not include premises or a workplace established mainly for the purpose of enjoying entertainment
   - **business tool** means an item that is used by an employee in the performance of their work duties and in the absence of section CX 21 (Business tools) would give rise to an unclassified benefit
@@ -44073,6 +43961,7 @@ In this Act, unless the context requires otherwise,—
       (i) means a motor vehicle designed exclusively or mainly to carry people:
       (ii) includes such a motor vehicle that has rear doors or collapsible rear seats:
       (iii) does not include a minibus, moped, motorcycle, or small passenger service vehicle
+  - **caregiver** is defined in section MH 2 (Some definitions) for the purposes of subpart MH (FamilyBoost tax credits)
   - **cash accounting method** is defined in section EG 2(4) (Adjustment for changes to accounting practice) for the purposes of that section
   - **cash basis person** is defined in section EW 54 (Meaning of cash basis person)
   - **casual agricultural employee** means—
@@ -44396,7 +44285,7 @@ In this Act, unless the context requires otherwise,—
   - **current market value** is defined in section HR 12 (Non-exempt charities: treatment of tax-exempt accumulations) for the purposes of that section
   - **current value** is defined in section HR 3(4) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **custodial institution** is defined in section RE 10C(6) (Obligations of custodial institutions in relation to certain payments of investment income) for the purposes of that section and sections RE 4 and RF 4
-  - **date of acquisition** is defined in section CZ 39 (Disposal within 5 years: bright-line test for residential land: acquisition on or after 29 March 2018) for the purposes of that section
+  - **date of acquisition**
   - **date of transfer** , in subpart FB (Transfers of relationship property), and in the definitions of , for property transferred under a relationship agreement, means the date on which the property was transferred
   - **date the deposit ends** —
     (a) is defined in section EH 36 (Other definitions) for the purposes of the main income equalisation scheme:
@@ -44526,7 +44415,7 @@ In this Act, unless the context requires otherwise,—
   - **discontinuance profit formula** means the formula in section EY 37 (Discontinuance profit formula (existing policies)) or the formula in section EY 38 (Discontinuance profit formula (new policies))
   - **discount payment date** is defined in section EZ 30(3) (Base premium for 1998–99 premium year under Accident Insurance Act 1998) for the purposes of that section
   - **dispose** ,—
-    (a) in sections CB 6A to CB 16, CB 18, CB 19, CB 21, CB 22, CW 3C, CZ 39, and subpart EL (which relate to the disposal of land), for land, includes—
+    (a) in sections CB 6A to CB 16A, CB 18, CB 19, CB 21, CB 22, CW 3C, and subpart EL (which relate to the disposal of land), for land, includes—
       (i) compulsory acquisition under any Act by the Crown, a local authority, or a public authority:
       (ii) if there is a mortgage secured on the land, a disposal by or for the mortgagee as a result of the mortgagor’s defaulting under the mortgage:
     (b) in sections CB 24 (Disposal of timber or right to take timber), CB 25 (Disposal of land with standing timber), DP 10 (Cost of acquiring timber or right to take timber: other cases), DP 11 (Cost of timber), and GC 2 (Disposals of timber rights or standing timber), includes—
@@ -44596,7 +44485,7 @@ In this Act, unless the context requires otherwise,—
       (iv) a convalescent home, nursing home, or hospice:
       (v) a rest home or retirement village, except to the extent that, in relation to a relevant place, it is, or can reasonably be foreseen to be, occupied as a person's principal place of residence for independent living:
       (vi) a camping ground:
-    (c) despite paragraph (b)﻿(iii) and (v), for the purposes of sections CB 16A and CZ 40 (which relate to main home exclusions for disposals of residential land within bright-line periods) and the definition of residential land—
+    (c) despite paragraph (b)﻿(iii) and (v), for the purposes of section CB 16A (Main home exclusion for disposal within 2 years) and the definition of residential land—
       (i) includes a serviced apartment described in paragraph (b)﻿(iii):
       (ii) does not include, in whole or part, a rest home or retirement village
   - **early balance date** has the meaning given in section YE 1(6) (References to balance dates and years)
@@ -44790,10 +44679,10 @@ In this Act, unless the context requires otherwise,—
     (e) payable for bonus bonds or Post Office bonus bonds (as each of those terms is defined in section 2 of the Post Office Bank Act 1987); or
     (f) payable on an overpaid levy under section 173 of the Accident Compensation Act 2001; or
     (g) payable by the Commissioner under section 84 of the KiwiSaver Act 2006
-  - **exempt main home** means an exempt main home described in section CB 16A(1) (Main home exclusion)
-  - **exempt main home period limit** is defined in section CB 16A(1C) (Key term: exempt main home period)
+  - **exempt main home**
+  - **exempt main home period limit**
   - **exempt Māori company** is defined in section DH 5 (Key terms)
-  - **exempted predominant main home day** is defined in section CB 16A(1B) (Key term: exempted predominant main home day)
+  - **exempted predominant main home day**
   - **exemption certificate**
   - **existing business** is defined in section EY 28 (Shareholder base other profit: profit participation policies that are existing business) for the purposes of that section and section EY 29 (Shareholder base other profit: profit participation policies that are new business)
   - **existing farmer**
@@ -44827,6 +44716,7 @@ In this Act, unless the context requires otherwise,—
   - **fair dividend rate periodic method** means the method of calculating FIF income or loss under section EX 53 (Fair dividend rate periodic method)
   - **fair value method** means a method under section EW 15D (IFRS financial reporting method) of calculating income or expenditure for an income year that takes into account movements in fair value as determined under IFRSs
   - **family assistance credit**
+  - **FamilyBoost tax credit** is defined in section MH 2 (Some definitions) for the purposes of subpart MH (FamilyBoost tax credits)
   - **family credit abatement** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **family member** means a family member as defined in section 5 of the Members of Parliament (Remuneration and Services) Act 2013
   - **family plus**
@@ -45207,10 +45097,10 @@ In this Act, unless the context requires otherwise,—
   - **group of companies** is defined in section IC 3 (Common ownership: group of companies)
   - **group of persons** —
     (a) includes 1 person:
-    (b) is defined in section CB 16A(5) (Main home exclusion for disposal within 10 years) for the purposes of subsection (4) of that section:
+    (b) is defined in section CB 16A(5) (Main home exclusion for disposal within 2 years) for the purposes of subsection (4) of that section:
     (c) is defined in section CB 16(5) (Residential exclusion from sections CB 6 to CB 11) for the purposes of subsection (4) of that section:
-    (d) is defined in section CB 19(2C) (Business exclusion from sections CB 6 to CB 11) for the purposes of subsection (2B) of that section:
-    (e) is defined in section CZ 40(5) (Main home exclusion for bright-line: acquisition on or after 29 March 2018) for the purposes of subsection (4) of that section
+    (d) is defined in section CB 19(2C) (Business exclusion from sections CB 6 to CB 11) for the purposes of subsection (2B) of that section
+    (e)
   - **GST** means goods and services tax under the Goods and Services Tax Act 1985
   - **GST charged** means GST charged under section 8(1) of the Goods and Services Tax Act 1985
   - **GST payable** in sections CX 1 (Goods and services tax), DB 2 (Goods and services tax), and DB 3(3) (Determining tax liabilities), has the same meaning as in section 2 of the Goods and Services Tax Act 1985, but does not include interest payable under Part 7 of the Tax Administration Act 1994
@@ -45582,6 +45472,8 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section EZ 68 (Definitions) for the purposes of sections EZ 64 to EZ 67 (which relate to New Zealand Railways Corporation restructure):
     (b) is defined in section HR 12(6) (Non-exempt charities: treatment of tax-exempt accumulations) for the purposes of that section
   - **licence-specific assets** is defined in section DZ 5(6) (Farm-out arrangements for petroleum mining before 16 December 1991) for the purposes of that section
+  - **licensed early childhood service** is defined in section MH 2 (Some definitions) for the purposes of subpart MH (FamilyBoost tax credits)
+  - **licensed early childhood service fees** is defined in section MH 2 (Some definitions) for the purposes of subpart MH (FamilyBoost tax credits)
   - **licensed non-bank deposit taker** means a licensed NBDT as defined in section 4 of the Non-bank Deposit Takers Act 2013
   - **licensed security holder** is defined in section RL 4(8) (How much RLWT?) for the purposes of section RL 4
   - **life financial reinsurance** is defined in section EY 12 (Meaning of life reinsurance)
@@ -45748,9 +45640,9 @@ In this Act, unless the context requires otherwise,—
     (b) clause 11 of that programme
   - **main deposit** is defined in section EH 36 (Other definitions)
   - **main home** means, for a person, the 1 dwelling—
-    (a) that is used as a residence by the person (a home); and
+    (a) that is mainly used as a residence by the person (a home); and
     (b) with which the person has the greatest connection, if they have more than 1 home
-  - **main home person** is defined in section CB 16A(1D) (Key term: main home person)
+  - **main home person**
   - **main income equalisation account** is defined in section EH 36 (Other definitions)
   - **main income equalisation deposit** , in subpart MB (Adjustment of net income for family scheme), means a payment under section EH 4 (Main deposit) made to the Commissioner on or after 1 April 2011 for which a deduction is allowed under section DQ 1 (Main income equalisation scheme)
   - **main income equalisation refund** , in subpart MB (Adjustment of net income for family scheme), means a refund under sections EH 8 to EH 26 (which relate to refunds from main income equalisation accounts), to the extent to which the refund—
@@ -45785,6 +45677,7 @@ In this Act, unless the context requires otherwise,—
   - **Maori owners** —
     (a) means the persons who have a beneficial interest in Maori land acquired by a forestry company; and
     (b) includes every trustee for a Maori owner, the Maori Trustee, and every Maori incorporation that has a beneficial interest in the land
+  - **Māori rollover trust** is defined in section FD 2 for the purposes of that section
   - **market interest** is defined in section RD 35(5) (Employment-related loans: value using market interest rates) for the purposes of that section
   - **market value** ,—
     (a) for a share or option quoted on the official list of a recognised exchange, at the time, means an amount equal to the middle market quotation at the time for a share or option having the same terms as the share or option to be valued, unless the quotation is not a fair reflection of the market value, having regard at the time to the matters referred to in paragraph (e) of the definition of recognised exchange:
@@ -46789,7 +46682,7 @@ In this Act, unless the context requires otherwise,—
       (i) land that has a dwelling on it, unless the land is farmland or is used predominantly as business premises:
       (ii) land for which the owner has an arrangement that relates to erecting a dwelling, unless the land is farmland or is used predominantly as business premises:
       (iii) bare land that may be used for erecting a dwelling under rules in the relevant operative district plan, unless the bare land is farmland or is used predominantly as business premises; and
-    (b) includes land that has a dwelling on it, if it is used by a person predominantly as business premises for a business of supplying accommodation and the dwelling is not a main home for the person or 1 or more other persons referred to in section CB 16A(2) (Main home exclusion for disposal within 10 years)
+    (b) includes land that has a dwelling on it, if it is used by a person predominantly as business premises for a business of supplying accommodation and the dwelling is not a main home for the person or 1 or more other persons referred to in section CB 16A(1) (Main home exclusion for disposal within 2 years)
   - **residential land company** is defined in section DH 5 (Key terms)
   - **residential land purchase amount** means, in relation to residential land located in New Zealand, an amount paid or payable for the disposal of the land, but excludes a deposit or part payment (the ) if deposits and part payments, including the part-amount, total, in aggregate, less than 50% of the purchase price for the land
   - **residential land-rich entity** is defined in section EL 3 (Definitions for this subpart) for the purposes of sections EL 16 to EL 19 (which relate to the calculation of interests in interposed entities)
@@ -47249,6 +47142,7 @@ In this Act, unless the context requires otherwise,—
   - **tax credit advantage** —
     (a) is defined in section GB 36(5) (Reconstruction of imputation arrangements to obtain tax advantage) for the purposes of that section:
     (b) is defined in section GB 43(5) (Reconstruction of Maori authority credit arrangements to obtain tax advantage) for the purposes of that section
+  - **tax credit income** is defined in section MH 2 (Some definitions) for the purposes of subpart MH (FamilyBoost tax credits)
   - **tax file number** means an identification number that the Commissioner has allocated to a person—
     (a) generally for the purposes of this Act; or
     (b) specifically for the purposes of RWT-exempt status under section RE 27 (RWT-exempt status)
@@ -47381,7 +47275,7 @@ In this Act, unless the context requires otherwise,—
       (ii) includes anything acquired for the purposes of manufacture or disposal:
       (iii) includes livestock:
       (iv) includes timber or a right to take timber:
-      (v) includes land whose disposal would produce income under any of sections CB 6A to CB 15 and CZ 39 (which relate to income from land):
+      (v) includes land whose disposal would produce income under any of sections CB 6A to CB 15 (which relate to income from land):
       (vi) includes any thing for which expenditure is incurred and which would be trading stock if possession of it were taken:
       (vii) does not include a financial arrangement to which the financial arrangements rules or the old financial arrangements rules apply:
     (bb)
