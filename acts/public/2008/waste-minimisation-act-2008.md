@@ -1,5 +1,5 @@
 # Waste Minimisation Act 2008
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Waste Minimisation Act 2008.
@@ -11,9 +11,17 @@ This Act is the Waste Minimisation Act 2008.
 ## Part 1 — Preliminary provisions
 
 ### 3 Purpose of this Act
-The purpose of this Act is to encourage waste minimisation and a decrease in waste disposal in order to—
+(1) The purpose of this Act is to encourage waste minimisation and a decrease in waste disposal in order to—
   (a) protect the environment from harm; and
   (b) provide environmental, social, economic, and cultural benefits.
+(2) The purpose of Part 3 is, in addition to the purpose specified in subsection (1), to enable a levy to be imposed on waste disposed of to—
+  (a) raise revenue to fund—
+    (i) the promotion and achievement of waste minimisation; and
+    (ii) activities that reduce environmental harm or increase environmental benefits; and
+    (iii) local authorities to manage emergency waste and to repair or replace waste management and minimisation infrastructure damaged by an emergency; and
+    (iv) the Ministry to undertake its functions and duties, and exercise its powers, in relation to waste management and minimisation and hazardous substances; and
+    (v) projects that provide for the remediation of contaminated sites; and
+  (b) increase the cost of waste disposal to recognise that disposal imposes costs on the environment, society, and the economy.
 
 ### 4 Act binds the Crown
 This Act binds the Crown.
@@ -23,12 +31,23 @@ This Act binds the Crown.
   - **accredited scheme** means a product stewardship scheme accredited by the Minister under section 15
   - **appointed levy collector** means a person appointed in accordance with section 40(1)﻿(a) to collect the levy
   - **auditor** means a person appointed under section 87(1)
+  - **contaminant** includes any substance (including gases, odorous compounds, liquids, solids, and micro-organisms) or energy (excluding noise) or heat that either by itself or in combination with the same, similar, or other substances, energy, or heat,—
+    (a) when discharged into water, changes or is likely to change the physical, chemical, or biological condition of the water; or
+    (b) when discharged onto or into land or into air, changes or is likely to change the physical, chemical, or biological condition of the land or air onto or into which it is discharged
+  - **contaminated site** means land where a contaminant is present, or is likely to be present,—
+    (a) in any physical state in, on, or under the land; and
+    (b) in concentrations that pose an unacceptable risk to human health or the environment
   - **disposal** has the meaning set out in section 6
   - **disposal facility** has the meaning set out in section 7
   - **diverted material** means any thing that is no longer required for its original purpose and, but for commercial or other waste minimisation activities, would be disposed of or discarded
+  - **emergency** has the same meaning as in section 4 of the Civil Defence Emergency Management Act 2002
+  - **emergency waste** means—
+    (a) waste that has been caused by an emergency; or
+    (b) any thing identified as emergency waste by notice made under section 38A
   - **enforcement officer** means a person appointed as an enforcement officer under section 76(1) or (2)
   - **environment** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **financial year** means a period of 12 months ending with 30 June
+  - **hazardous substance** includes, but is not limited to, any substance defined in section 2 of the Hazardous Substances and New Organisms Act 1996 as a hazardous substance
   - **infringement fee** means the amount prescribed as the infringement fee for the infringement offence concerned
   - **infringement offence** means an offence prescribed as an infringement offence under section 59(a)
   - **judicial officer** means a District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a constable)
@@ -37,6 +56,7 @@ This Act binds the Crown.
     (a) the Secretary, if there is no appointed levy collector for the facility; or
     (b) the appointed levy collector for the facility
   - **levy money** means the money paid as levy
+  - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **Medical Officer of Health** has the same meaning as in section 2(1) of the Health Act 1956
   - **Minister** means the Minister for the Environment
   - **nuisance** has the same meaning as in section 29 of the Health Act 1956
@@ -59,6 +79,7 @@ This Act binds the Crown.
   - **reduction** means—
     (a) lessening waste generation, including by using products more efficiently or by redesigning products; and
     (b) in relation to a product, lessening waste generation in relation to the product
+  - **remediate** , in relation to a contaminated site, means to remove a contaminant from the site or to lessen the harmful effects of a contaminant
   - **reuse** means the further use of waste or diverted material in its existing form for the original purpose of the materials or products that constitute the waste or diverted material, or for a similar purpose
   - **sale** includes—
     (a) an offer for sale; and
@@ -75,6 +96,7 @@ This Act binds the Crown.
     (c) to avoid doubt, includes any component or element of diverted material, if the component or element is disposed of or discarded
   - **Waste Advisory Board** or Board means the Waste Advisory Board established by section 89
   - **waste management and minimisation** means waste minimisation and treatment and disposal of waste
+  - **waste management and minimisation infrastructure** means infrastructure and associated equipment that is used to support waste management and minimisation
   - **waste management and minimisation plan** or means a waste management and minimisation plan adopted by a territorial authority under section 43
   - **waste minimisation** means—
     (a) the reduction of waste; and
@@ -98,6 +120,9 @@ This Act binds the Crown.
     (iii) that operates, at least in part, as a business to dispose of waste; and
   (b) any other facility or class of facility at which waste is disposed of that is prescribed as a disposal facility.
 (2) In subsection (1)﻿(a)﻿(ii), household waste means waste from a household that is not entirely from construction, renovation, or demolition of the house.
+
+### 7A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
 
 ## Part 2 — Product stewardship
 
@@ -295,9 +320,7 @@ Any charge payable to the Secretary under section 20 is recoverable as a debt by
 ## Part 3 — Waste disposal levy
 
 ### 25 Purpose of Part
-The purpose of this Part is to enable a levy to be imposed on waste disposed of to—
-  (a) raise revenue for promoting and achieving waste minimisation; and
-  (b) increase the cost of waste disposal to recognise that disposal imposes costs on the environment, society, and the economy.
+[Repealed]
 
 **Levy must be paid**
 
@@ -325,18 +348,25 @@ The levy is payable on the amount of waste disposed of at a disposal facility—
 (4) This section is subject to section 29.
 
 ### 29 Waiver of levy payment
-The Secretary may waive, in writing, the requirement for an operator to pay any amount of levy, if satisfied that exceptional circumstances justify the waiver.
+(1) The Secretary may waive, in writing, the requirement for an operator to pay any amount of levy if satisfied—
+  (a) that exceptional circumstances justify the waiver; or
+  (b) that it is reasonable to do so in relation to waste from the remediation of a contaminated site.
+(2) When a waiver is granted under subsection (1)﻿(b), the Secretary may impose, in writing, conditions on the waiver that are consistent with the purposes of this Act set out in section 3.
 
 **Distribution and spending of levy money**
 
 ### 30 Secretary must distribute and spend levy money
-The Secretary must distribute and spend all levy money received by—
+(1) The Secretary must distribute and spend all levy money received by—
   (a) paying any refunds to operators in accordance with regulations made under section 41(1)﻿(k); and
   (b) paying shares to territorial authorities in accordance with sections 31 and 33; and
   (c) spending the remainder on 1 or more of the following:
     (i) collecting and administering the levy:
     (ii) funding projects that the Minister has approved for funding under section 38:
-    (iii) administration costs relating to projects that the Minister has considered or approved for funding (for example, the costs of approving or declining funding or of auditing the projects).
+    (iii) administration costs relating to projects that the Minister has considered or approved for funding (for example, the costs of approving or declining funding or of auditing the projects):
+    (iv) funding activities that reduce environmental harm or increase environmental benefits:
+    (v) funding local authorities to manage emergency waste and to repair or replace waste management and minimisation infrastructure damaged by an emergency:
+    (vi) funding the Ministry to undertake its functions and duties, and exercise its powers, in relation to waste management and minimisation and hazardous substances.
+(2) The Secretary may only spend levy money under subsection (1)﻿(c)﻿(v) in accordance with any criteria notified by the Minister under section 38A.
 
 ### 31 Territorial authorities to receive share
 (1) The Secretary must pay each territorial authority a share of the total levy money collected in respect of a financial year.
@@ -384,14 +414,30 @@ The Minister may direct the Secretary to retain 1 or more payments of levy money
   (b) a performance standard set by the Minister under section 49:
   (c) any prescribed requirement to provide records or information.
 
-### 38 Minister may approve funding of projects to promote or achieve waste minimisation
-(1) The Minister may approve funding of any project to promote or achieve waste minimisation.
+### 38 Minister may approve funding of projects
+(1) The Minister may approve funding of any project—
+  (a) to promote or achieve waste minimisation; or
+  (b) to provide for the remediation of a contaminated site.
 (2) The Minister may approve funding of a project on any terms or conditions that he or she thinks fit.
 (3) In deciding whether to approve funding of a project, the Minister—
   (a) must consider any criteria notified under subsection (4); and
   (b) may consider any other matters that he or she thinks relevant.
 (4) The Minister may, by notice in the Gazette, set or vary criteria for approving funding of a project under this section.
 (5) Before setting or varying criteria, the Minister must obtain and consider the advice of the Waste Advisory Board.
+
+### 38A Criteria for funding management of emergency waste and repair or replacement of waste management and minimisation infrastructure
+(1) The Minister may, by notice in the Gazette, set or vary criteria for spending levy money under section 30(1)﻿(c)﻿(v).
+(2) The criteria may include—
+  (a) types of costs and types of waste management and minimisation infrastructure that will be funded:
+  (b) limits on the funding of costs:
+  (c) identification, in relation to an emergency, of things that are emergency waste, and whose management will be funded.
+(3) Before setting or varying criteria, the Minister—
+  (a) must consider—
+    (i) whether managing emergency waste is reasonably necessary to address a risk to public health or the environment; and
+    (ii) whether managing emergency waste, or repair or replacement of waste management and minimisation infrastructure, or both activities, is likely to be beyond the resources of a local authority; and
+    (iii) the national civil defence emergency management plan made under section 39 of the Civil Defence Emergency Management Act 2002; and
+  (b) may consider any other matters that they think relevant.
+(4) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 39 Minister must review effectiveness of levy
 (1) The Minister must review the effectiveness of the levy—
@@ -1004,3 +1050,18 @@ The Board may regulate its own proceedings, subject to the provisions of this Pa
   (a) in the manner set out in section 93(2); and
   (b) for the purpose of receiving nominations for members of the Board.
 (2) For the purposes of this Act, the process must be treated as complying with section 93.
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Waste Minimisation (Waste Disposal Levy) Amendment Act 2024
+
+### 1 Consideration of criteria for approval of project to remediate contaminated site
+The requirement in section 38(3)﻿(a) does not apply in respect of a decision to approve funding for a project providing for the remediation of a contaminated site (a remediation project) until the earlier of the following:
+  (a) the date on which the Minister notifies criteria under section 38(4) for the approval of funding of remediation projects:
+  (b) 1 January 2025.
+
+### 2 Use of levy collected before commencement of amendment Act
+(1) To avoid doubt, all levy money received before the commencement date that is distributed and spent after the commencement date must be distributed and spent in accordance with this Act as if it had not been amended by the amendment Act.
+(2) In this clause,—
+  - **amendment Act** means the Waste Minimisation (Waste Disposal Levy) Amendment Act 2024
+  - **commencement date** means the date on which the amendment Act comes into force.
