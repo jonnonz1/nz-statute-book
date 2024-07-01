@@ -1,5 +1,5 @@
 # Children’s Act 2014
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Children’s Act 2014.
@@ -261,6 +261,7 @@ The purpose of this Part is to require child protection policies (that must cont
     (a) a member of the board:
     (b) an employee or officer of the service or its chief executive, or the board
   - **prescribed State service** means each of the following:
+    (aaa) the Integrity Sport and Recreation Commission established under section 8 of the Integrity Sport and Recreation Act 2023:
     (a) the Ministry of Business, Innovation, and Employment:
     (b) the Ministry of Education:
     (c) the Ministry of Health:
