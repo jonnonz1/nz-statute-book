@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2023-12-09_
+_Consolidation as at 2024-07-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -40,7 +40,7 @@ This Act may be cited as the Electoral Act 1993.
   - **Corrupt Practices List** , in relation to any district, means the Corrupt Practices List made out for that district under section 100
   - **costs** includes charges and expenses
   - **counting day** has the meaning given in section 79(2)
-  - **Crown** means Her Majesty in respect of the Government of New Zealand
+  - **Crown** means the Sovereign in respect of the Government of New Zealand
   - **current financial member** , in relation to a political party, means a member of the party—
     (a) whose membership of the party resulted from an application made by the member to join the party; and
     (b) who is, under the party’s rules, subject to an obligation to pay to the party a membership fee—
@@ -119,7 +119,7 @@ This Act may be cited as the Electoral Act 1993.
     (c) does not include any person to whom subsection (2) or subsection (3) applies; and
     (d) does not include—
       (i) any person by reason of his or her holding an office for which salary is payable under the Members of Parliament (Remuneration and Services) Act 2013; or
-      (ii) any person by reason of his or her being employed in any of Her Majesty’s forces except the Royal New Zealand Navy, the Regular Force of the New Zealand Army, or the Regular Air Force of the Royal New Zealand Air Force; or
+      (ii) any person by reason of his or her being employed in any of His Majesty's forces except the Royal New Zealand Navy, the Regular Force of the New Zealand Army, or the Regular Air Force of the Royal New Zealand Air Force; or
       (iii) any person remunerated by fees or commission and not by wages or salary
   - **Registrar** , in relation to any district, means the Registrar of Electors appointed for that district under section 22; and includes his or her deputy
   - **Registrar of Births and Deaths** means Registrar within the meaning of section 4 of the Births, Deaths, Marriages, and Relationships Registration Act 2021
@@ -3614,7 +3614,7 @@ In this Part, unless the context otherwise requires,—
   (a) a party secretary:
   (b) a candidate:
   (c) a registered promoter:
-  (d) an unregistered promoter who does not incur advertising expenses exceeding $15,700 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
+  (d) an unregistered promoter who does not incur advertising expenses exceeding $16,300 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
 (2) The amount in subsection (1)﻿(d) is inclusive of goods and services tax.
 (3) Every person who wilfully promotes an election advertisement without being entitled to do so under subsection (1) is guilty of an illegal practice.
 
@@ -3807,8 +3807,8 @@ Every person is guilty of—
 
 ### 205C Maximum amount of candidate's total election expenses
 (1) The total election expenses of a candidate in respect of any regulated period must not exceed—
-  (a) $32,600 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
-  (b) $65,200 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
+  (a) $33,900 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
+  (b) $67,800 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
 (2) The amounts in subsection (1) are inclusive of goods and services tax.
 
 ### 205D Apportionment of advertising expenses for publication of candidate advertisement both before and during regulated period
@@ -3946,9 +3946,9 @@ Every person is guilty of—
 
 ### 206C Maximum amount of party's total election expenses
 (1) If a party is listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed—
-  (a) $1,388,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
-  (b) $32,600 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
-(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $32,600 for each electoral district contested by a candidate for the party.
+  (a) $1,443,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
+  (b) $33,900 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
+(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $33,900 for each electoral district contested by a candidate for the party.
 (3) The amounts in subsections (1) and (2) are inclusive of goods and services tax.
 
 ### 206CA Apportionment of advertising expenses for publication of party advertisement both before and during regulated period
@@ -4128,7 +4128,7 @@ Every person is guilty of—
   (b) an illegal practice who contravenes section 206T in any other case.
 
 ### 206V Maximum amount of registered promoter's total election expenses
-(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $391,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
+(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $407,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
 (2) The amount in subsection (1) is inclusive of goods and services tax.
 
 ### 206W Apportionment of advertising expenses for publication of election advertisement promoted by registered promoter both before and during regulated period
