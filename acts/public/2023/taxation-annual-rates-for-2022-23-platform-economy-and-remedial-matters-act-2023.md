@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023
-_Consolidation as at 2024-03-31_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023.
@@ -45,7 +45,7 @@ This Act is the Taxation (Annual Rates for 2022–23, Platform Economy, and Reme
 (38) Sections 162(4), (7), and (9), 165, 188(1), 189, 191, 201, 202(3), 210, 211, and 212 come into force on 1 January 2024.
 (39) Sections 18, 24B, 28, 36, 100, 103, 104, 106, 114(18), 121(2), (3), (4), (5), (6), and (7), 123(1A), 124(5), 126(1), 130, 132(1), (4), and (5), 134, 135, 136B, 137(4), (5), (14), (15), (16), (17), (23), and (28), 138, 140, 141, 144(1), (3), and (5), 145B, 146, 147, 151, 152(1), (3), (4), (5), and (5B), 152B, 153, 154, 155, 157B, 167, 168, 169, 199, 208(3), and 213(1) come into force on 1 April 2024.
 (40) Section 119(3) comes into force on 1 April 2026.
-(41) Sections 124(1) and (2) and 158(2) come into force on 30 June 2026.
+(41) Sections 124(1) and 158(2) come into force on 30 June 2026.
 (42) Section 119(7) comes into force on 1 April 2027.
 
 ## Part 1 — Annual rates of income tax
@@ -1054,8 +1054,7 @@ This Part amends the Goods and Services Tax Act 1985.
 
 ### 124 Section 5 amended (Meaning of term supply)
 (1) Repeal section 5(6AA), (6AAB), (6A), (6AB), (6AC), (6B), and (7F).
-(2) Replace section 5(6BB) with:
-  (6BB) For the purposes of this Act, any amount of RFT rebate paid under section 65ZC of the Land Transport Management Act 2003 to a registered person is treated as being consideration for a supply of services in the course or furtherance of the registered person’s taxable activity to the extent to which the RFT rebate relates to fuel used by the person for, or available for use by the person in, making taxable supplies.
+(2)
 (3) In section 5(6D)﻿(a), delete (not being a public authority).
 (4) After section 5(6EB), insert:ExamplesFor the purposes of section 5(6ED) and (6EE), an example of a charge that is—a general tax is income tax:not a general tax is a levy used to fund the performance of regulatory functions.
   (6EC) A charge, including a fee or a levy, payable under legislation is deemed to be consideration for a supply of goods and services.
