@@ -1,8 +1,8 @@
-# Sports Anti-Doping Act 2006
-_Consolidation as at 2021-10-28_
+# Sports Tribunal Act 2006
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
-This Act is the Sports Anti-Doping Act 2006.
+This Act is the Sports Tribunal Act 2006.
 
 ### 2 Commencement
 (1) Sections 52, 53, and 54 come into force on the day after the date on which this Act receives the Royal assent.
@@ -10,26 +10,19 @@ This Act is the Sports Anti-Doping Act 2006.
 
 ## Part 1 — Preliminary provisions
 
-### 3 Purposes of this Act
-The purposes of this Act are to—
-  (a) give effect to the Code in New Zealand in order to achieve the Code’s purposes of—
-    (i) protecting athletes’ fundamental right to participate in doping-free sport and in this way promote health, fairness, and equality for athletes worldwide; and
-    (ii) ensuring harmonised, co-ordinated, and effective anti-doping programmes at an international and national level with regard to detection, deterrence, and prevention of doping; and
-  (b) continue Drug Free Sport NZ as an independent body charged with implementing the Code in New Zealand; and
-  (c) continue the Tribunal as an independent body charged with—
-    (i) implementing the Code in New Zealand; and
-    (ii) hearing, considering, and determining other sports-related matters.
+### 3 Purpose
+The purpose of this Act is to continue the Tribunal as an independent body charged with—
+  (a) implementing the World Anti-Doping Code in New Zealand; and
+  (b) hearing, considering, and determining other sports-related and integrity matters.
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **board** means the board of Drug Free Sport NZ
-  - **Code** means the World Anti-Doping Code 2003 adopted by the World Anti-Doping Agency on 5 March 2003 at Copenhagen; and includes any amendments to the Code adopted by the World Anti-Doping Agency from time to time
-  - **Drug Free Sport NZ** means Drug Free Sport New Zealand, a Crown entity continued by section 6 and previously known as the New Zealand Sports Drug Agency
+  - **anti-doping rules** means the rules made under section 23 of the Integrity Sport and Recreation Act 2023
+  - **integrity code** means a code made under section 19 of the Integrity Sport and Recreation Act 2023
   - **Minister** means the Minister who, under the authority of a warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **national sporting organisation** means a body that represents members involved in a particular type of sporting event or activity in New Zealand and, if a national organisation does not exist for a sport, includes a local, regional, or other sporting organisation
-  - **rules** means the rules made under section 16
   - **Tribunal** means the Sports Tribunal of New Zealand continued by section 29 and previously known as the Sports Disputes Tribunal of New Zealand
-  - **World Anti-Doping Agency** means the body founded by the International Olympic Committee and constituted as a foundation in Lausanne by an instrument of foundation signed on 10 November 1999, and named in that instrument as the Agence Mondiale Antidopage, World Anti-Doping Agency.
+  - **World Anti-Doping Code** means the World Anti-Doping Code 2003 adopted by the World Anti-Doping Agency on 5 March 2003 at Copenhagen; and includes any amendments to the Code adopted by the World Anti-Doping Agency from time to time.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -39,130 +32,62 @@ This Act binds the Crown.
 ### Subpart 1 — Continuation and membership of Drug Free Sport NZ
 
 ### 6 Drug Free Sport New Zealand continued
-(1) There continues to be an organisation to be called Drug Free Sport New Zealand.
-(2) Drug Free Sport NZ is the same body as the New Zealand Sports Drug Agency established under the New Zealand Sports Drug Agency Act 1994.
-(3) Drug Free Sport NZ continues under this Act with the functions, powers, and duties specified in this Act, but otherwise without any change in its continuity, assets, rights, liabilities, contracts, or members.
-(4) Section 51 overrides subsection (3).
+[Repealed]
 
 ### 7 Drug Free Sport NZ is Crown entity
-(1) Drug Free Sport NZ is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to Drug Free Sport NZ except to the extent that this Act expressly provides otherwise.
+[Repealed]
 
 ### 8 Drug Free Sport NZ must act independently
-Except as expressly provided otherwise in this or any other Act, Drug Free Sport NZ must act independently in performing its statutory functions and duties and in exercising its statutory powers under—
-  (a) this Act; and
-  (b) any other Act that expressly provides for the functions, powers, or duties of Drug Free Sport NZ (other than the Crown Entities Act 2004).
+[Repealed]
 
 ### 9 Membership of Drug Free Sport NZ
-(1) Drug Free Sport NZ consists of no more than 5 members.
-(2) The members of Drug Free Sport NZ are the board for the purposes of the Crown Entities Act 2004.
+[Repealed]
 
 ### 10 Eligibility for appointment as member of Drug Free Sport NZ
-(1) When considering whether to recommend a person for appointment as a member of Drug Free Sport NZ, the Minister must have regard to the need to ensure that the membership includes a mix of knowledge and experience in matters relevant to the functions of Drug Free Sport NZ, including knowledge of and experience in 1 or more of the following:
-  (a) law:
-  (b) sports medicine:
-  (c) sports participation and administration.
-(2) This section does not limit section 29 of the Crown Entities Act 2004.
+[Repealed]
 
 ### 11 Superannuation fund or retiring allowances
-(1) For the purpose of providing a superannuation fund or retiring allowances for any of its members, Drug Free Sport NZ may pay sums of money by way of a subsidy or a contribution into any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
-(2) Any person who, immediately before becoming an employee of Drug Free Sport NZ, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed, for the purposes of that Act, to be employed in the Government service so long as he or she continues to be an employee of Drug Free Sport NZ.
-(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if that person’s service as an employee of Drug Free Sport NZ is Government service.
-(4) Subsection (2) does not entitle a person to become a contributor to the Government Superannuation Fund if that person has ceased to be a contributor.
-(5) For the purpose of applying the Government Superannuation Fund Act 1956, Drug Free Sport NZ is the controlling authority.
+[Repealed]
 
 ### Subpart 2 — Functions and powers of Drug Free Sport NZ
 
 ### 12 Functions of Drug Free Sport NZ
-The functions of Drug Free Sport NZ are to—
-  (a) make rules in accordance with sections 16 to 23; and
-  (b) do all things necessary to comply with and implement the rules; and
-  (c) do all things necessary to comply with and implement any Article of the Code that—
-    (i) is not required to be reflected in the rules; but
-    (ii) requires Drug Free Sport NZ to do something; and
-  (d) ensure New Zealand complies with all international agreements and arrangements concerning doping in sport to which New Zealand is a party; and
-  (e) test athletes who are not citizens or residents of New Zealand, and notify the test results, in accordance with bilateral or multilateral agreements entered into with foreign governments, foreign anti-doping organisations, or other signatories to the Code, and enter into reciprocal testing agreements in relation to athletes who are citizens or residents of New Zealand; and
-  (f) consult with, advise, and assist—
-    (i) government departments, local authorities, Sport and Recreation New Zealand, the New Zealand Olympic Committee Incorporated, national sporting organisations, athletes, and other bodies or persons on any matters concerned with doping in sport, and related matters; and
-    (ii) government and non-government organisations and other persons overseas, for the purpose of promoting the adoption of uniform international testing procedures for doping in sport; and
-  (g) advise the Minister on any matters related to doping in sport, and related matters; and
-  (h) generally take all steps necessary or desirable to achieve the purposes of this Act; and
-  (i) perform any other functions that—
-    (i) are conferred on Drug Free Sport NZ by this or any other enactment; or
-    (ii) the Minister may direct in accordance with section 112 of the Crown Entities Act 2004.
+[Repealed]
 
 ### 13 Powers of Drug Free Sport NZ
-(1) Without limiting Drug Free Sport NZ’s powers under sections 16 and 17 of the Crown Entities Act 2004, it may—
-  (a) take all steps necessary to comply with and implement the rules; and
-  (b) take all steps necessary to comply with and implement the Code in accordance with this Act; and
-  (c) subject to section 14, charge any fees, or impose any charges, that are reasonable in respect of the provision of services, information, or advice requested from Drug Free Sport NZ, other than information supplied to an athlete relating to the athlete.
-(2) The amount or rate of a fee or charge must be reasonably related to the expenses incurred or to be incurred in relation to the provision of services, information, or advice to which the fee or charge relates.
+[Repealed]
 
 ### 14 Charges for testing
-(1) Drug Free Sport NZ must not make any charge to a national sporting organisation for testing conducted under a testing programme established under the rules.
-(2) Drug Free Sport NZ may, at the request of a national sporting organisation, conduct testing not provided for under a testing programme established under the rules, and may charge the national sporting organisation fees for that testing.
-(3) If Drug Free Sport NZ conducts testing under subsection (2), athletes are entitled to the same rights to which athletes are entitled under a testing programme established under the rules.
+[Repealed]
 
 ### 15 Performing Drug Free Sport NZ’s functions and exercising Drug Free Sport NZ’s powers
-(1) Drug Free Sport NZ’s functions may be performed, and its powers may be exercised, within and outside New Zealand.
-(2) Drug Free Sport NZ may perform any of its functions in co-operation with any person, body, association, or organisation.
-(3) In the performance of its functions and the exercise of its powers, Drug Free Sport NZ must establish for its use, and for the use of its committees, procedures that—
-  (a) are appropriate and fair in the circumstances; and
-  (b) comply with the rules.
+[Repealed]
 
 ### Subpart 3 — Rules
 
 ### 16 Board must make rules
-(1) The board must make, and from the commencement of this section always have, rules.
-(2) The rules must implement the Code and, in particular, to the extent that the Code requires specified Articles of the Code to be incorporated into the rules without substantive changes (allowing for necessary non-substantive editing changes in order to refer to things like sports, section numbers, and Drug Free Sport NZ’s name), must incorporate those Articles in that manner.
-(3) In addition, the board may also make any other rules that are necessary or desirable to govern the practice and procedure of the board’s functions under section 12(c) to (i).
-(4) Before making a rule under this section, the board must give national sporting organisations, athletes, and the Privacy Commissioner a reasonable opportunity to comment on the proposed rule.
-(5) Rules made under this section may authorise specified procedures or matters of detail to be determined by Drug Free Sport NZ, and may not be challenged on the ground that they leave such matters to the discretion of Drug Free Sport NZ.
-(6) Rules under this section—
-  (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
-  (b) come into force on the later of—
-    (i) the date that is 28 days after they are published under that Act; and
-    (ii) the date specified in the rules.
+[Repealed]
 
 ### 17 Incorporation of material by reference in rules
-(1) The following written material may be incorporated by reference in the rules:
-  (a) standards, requirements, or recommended practices of the World Anti-Doping Agency:
-  (b) the World Anti-Doping Agency’s International Standards:
-  (c) the World Anti-Doping Agency’s Models of Best Practice.
-(2) Material may be incorporated by reference in the rules—
-  (a) in whole or in part; and
-  (b) with modifications, additions, or variations specified in the rules.
-(3) Material incorporated by reference in the rules has effect as part of the rules.
+[Repealed]
 
 ### 18 Effect of amendments to, or replacement of, material incorporated by reference in rules
-An amendment to, or replacement of, material incorporated by reference in the rules (the principal rules) has effect as part of the principal rules only if rules made after the making of the principal rules state that the particular amendment or replacement has that effect.
+[Repealed]
 
 ### 19 Proof of material incorporated by reference
-(1) A copy of material incorporated by reference in the rules, including any amendment to, or replacement of, the material (material) must be—
-  (a) certified as a correct copy of the material by the chief executive of Drug Free Sport NZ; and
-  (b) retained by the chief executive of Drug Free Sport NZ.
-(2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation of the material in the rules.
+[Repealed]
 
 ### 20 Effect of expiry of material incorporated by reference
-Material incorporated by reference in the rules that expires or is revoked or ceases to have effect, ceases to have legal effect as part of the rules only if rules made under section 16 state that the material ceases to have legal effect.
+[Repealed]
 
 ### 21 Application of Legislation Act 2019 to material incorporated by reference
-Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in the rules (or any amendment to, or replacement of, that material) merely because it is incorporated.
+[Repealed]
 
 ### 22 Public access to material incorporated by reference
-(1) The chief executive of Drug Free Sport NZ—
-  (a) must make the material available for inspection during working hours, free of charge, at the head office of Drug Free Sport NZ and at any other places that the chief executive determines are appropriate; and
-  (b) must make copies of the material available for purchase at a reasonable price; and
-  (c) may make copies of the material available in any other way that the chief executive considers appropriate in the circumstances (for example, on an Internet website).
-(2) A failure to comply with this section does not invalidate the rules or the incorporation by reference of material in the rules.
-(3) In this section, material means—
-  (a) material incorporated by reference in the rules:
-  (b) any amendment to, or replacement of, that material that is incorporated in the rules or the material referred to in paragraph (a) with the amendments or replacement material incorporated:
-  (c) if the material referred to in paragraph (a) or (b) is not in an official New Zealand language, as well as the material itself, an accurate translation of the material in an official New Zealand language.
+[Repealed]
 
 ### 23 Review of rules
-(1) The board must review the rules from time to time for the purpose of ensuring that they comply with this Act.
-(2) Sections 16 to 22 apply, with the necessary modifications, to the making of a new, amended, or revised rule.
+[Repealed]
 
 ### 24 Application of Legislation Act 2012 to rules
 [Repealed]
@@ -171,18 +96,15 @@ Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to 
 [Repealed]
 
 ### 26 Application of Standards Act 1988 not affected
-Sections 16 to 25 do not affect the application of sections 22 to 25 of the Standards Act 1988.
+[Repealed]
 
 ### Subpart 4 — Miscellaneous matters concerning Drug Free Sport NZ
 
 ### 27 Recognising needs and privacy of athletes
-In the performance of its functions and the exercise of its powers, Drug Free Sport NZ must, to the extent that there is not an inconsistency with the rules, develop appropriate procedures to—
-  (a) reflect the needs of athletes who are under the age of 18 years; and
-  (b) reflect the culture, language, disabilities, and other special concerns of athletes; and
-  (c) protect athletes’ right to privacy.
+[Repealed]
 
 ### 28 Sharing of evidence and information by Customs, police, and others
-A Police employee, a Customs officer, or any other person may provide evidence or information to Drug Free Sport NZ if that person believes that that evidence or information may assist Drug Free Sport NZ in complying with or implementing the rules.
+[Repealed]
 
 ## Part 3 — Sports Tribunal of New Zealand
 
@@ -195,7 +117,7 @@ A Police employee, a Customs officer, or any other person may provide evidence o
 (4) Sections 57 and 58 override subsection (3).
 
 ### 30 Membership of Tribunal
-(1) The Tribunal consists of at least 5, but no more than 9, members.
+(1) The Tribunal consists of the number of members (which must be not less than 5) as may be required to ensure the efficient and expeditious exercise of the jurisdiction of the Tribunal.
 (2) Each member must be appointed by the Governor-General on the recommendation of the Minister made after consultation with the board of Sport and Recreation New Zealand.
 (3) In recommending a person for appointment as a member of the Tribunal, the Minister must have regard to the person’s personal attributes, qualifications, and skills.
 (4) A member is not employed in the State services for the purposes of the Public Service Act 2020 or the Government service for the purposes of the Government Superannuation Fund Act 1956 only because the person is a member of the Tribunal.
@@ -244,12 +166,15 @@ No member of the Tribunal is personally liable for any act done or omitted to be
 
 ### 38 Functions of Tribunal
 The functions of the Tribunal are to—
-  (a) do all things necessary to comply with and implement the rules; and
+  (a) do all things necessary to comply with and implement the anti-doping rules and integrity codes; and
+  (aa) determine disputes arising from the application of an integrity code; and
+  (ab) hear an appeal against a decision of a disciplinary panel under subpart 4 of Part 4 of the Integrity Sport and Recreation Act 2023; and
+  (ac) hear an appeal against a decision of a disciplinary body established by an organisation that has adopted an integrity code; and
   (b) subject to any other enactment, determine sports-related disputes if—
     (i) all parties to the dispute agree in writing to refer the dispute to the Tribunal; and
     (ii) the Tribunal agrees, at its sole discretion, to hear and determine the dispute; and
   (c) subject to any other enactment, hear an appeal against a decision of a national sporting organisation or the New Zealand Olympic Committee Incorporated if the constitution, rules, or regulations of that body specifically provide for an appeal to the Tribunal in relation to that matter; and
-  (d) consider any matter referred to it by the board of Sport and Recreation New Zealand; and
+  (d) consider any matter referred to it by the board of Sport and Recreation New Zealand or the Integrity Sport and Recreation Commission; and
   (e) generally take all steps necessary or desirable to achieve the purposes of this Act; and
   (f) exercise and perform any other functions, powers, and duties that—
     (i) are conferred or imposed on the Tribunal by this or any other enactment; or
@@ -257,13 +182,13 @@ The functions of the Tribunal are to—
 
 ### 39 Procedure of Tribunal
 (1) Except as provided in this Act, the Tribunal may determine its own practices and procedures for performing the Tribunal’s functions under section 38(a) to (f).
-(2) However, in determining its own practices and procedures, the Tribunal must ensure that it complies with and implements the rules, to the extent that the rules are applicable.
+(2) However, in determining its own practices and procedures, the Tribunal must ensure that it complies with and implements the anti-doping rules, to the extent that the anti-doping rules are applicable.
 
 ### 40 Evidence in proceedings before Tribunal
 (1) The Tribunal may receive as evidence any statement, document, information, or matter that may in its opinion assist it to deal effectively with the matters before it, whether or not the same would be admissible in a court of law.
 (2) The Tribunal may take evidence on oath, and for that purpose any member or officer of the Tribunal may administer an oath.
 (3) The Tribunal may permit a person appearing as a witness before it to give evidence by tendering a written statement and, if the Tribunal thinks fit, verifying it by oath.
-(4) Subject to subsections (1) to (3), the Evidence Act 1908 applies to the Tribunal in the same manner as if the Tribunal were a court within the meaning of that Act.
+(4) Subject to subsections (1) to (3), the Evidence Act 2006 applies to the Tribunal in the same manner as if the Tribunal were a court within the meaning of that Act.
 
 ### 41 Witness summons
 (1) The Tribunal may of its own motion, or on the application of any party to the proceedings, issue a witness summons to any person requiring that person to attend before the Tribunal to give evidence at the hearing of the proceedings.
@@ -326,35 +251,24 @@ All matters to which the New Zealand Sports Drug Agency Act 1994 applied that ha
 **Transitional provisions for Drug Free Sport NZ**
 
 ### 49 Meaning of Agency
-In this Part, Agency means the New Zealand Sports Drug Agency established under the New Zealand Sports Drug Agency Act 1994.
+[Repealed]
 
 ### 50 Tests, proceedings, matters, issues, or things before Agency
-Any test, proceeding, matter, issue, or thing before or with, or being considered or dealt with by, the Agency before 1 July 2007 must be dealt with by Drug Free Sport NZ under the New Zealand Sports Drug Agency Act 1994, whether or not any action was taken in relation to the test, proceeding, matter, issue, or thing before 1 July 2007, as if this Act had not been enacted.
+[Repealed]
 
 ### 51 References to Agency
-From 30 June 2007, unless the context otherwise requires, every reference to the Agency in any contract or other instrument, document, or notice must be read as a reference to Drug Free Sport NZ.
+[Repealed]
 
 ### 52 Preparation and making of rules before 1 July 2007
-(1) The Agency may, prior to 1 July 2007, prepare and make the rules in accordance with sections 16 to 22 as if those sections were in force.
-(2) However, the rules must not take effect before 1 July 2007.
-(3) Anything done by the Agency before the commencement of sections 16 to 22 is valid and effective if, had it been done after the commencement of those sections, it would have been done in accordance with those sections.
-(4) This section does not limit section 11 of the Interpretation Act 1999.
+[Repealed]
 
 **Temporary additional functions of Drug Free Sport NZ**
 
 ### 53 Additional functions of Agency prior to 1 July 2007
-(1) From the day on which this section comes into force until 1 July 2007, the Agency’s functions are extended to include the following:
-  (a) investigating potential violations of Articles 2.2, 2.4, 2.5, 2.6, 2.7, and 2.8 of the Code; and
-  (b) providing evidence of a potential violation of Articles 2.2, 2.4, 2.5, 2.6, 2.7, or 2.8 of the Code to a national sporting organisation or any anti-doping organisation if the Agency considers this to be the appropriate course of action in the circumstances.
-(2) The Agency must perform its additional functions in accordance with the Code and the World Anti-Doping Agency’s International Standards, Models of Best Practice, and its other standards, requirements, and recommended practices.
-(3) The functions set out in subsection (1) are in addition to the functions of the Agency set out in section 6 of the New Zealand Sports Drug Agency Act 1994.
+[Repealed]
 
 ### 54 Use of information and evidence gathered under section 53(1)﻿(a)
-(1) Information and evidence gathered by the Agency under section 53(1)﻿(a) may be used—
-  (a) by the Agency before 1 July 2007 in order to prove a breach of the Code; or
-  (b) by Drug Free Sport NZ on or after 1 July 2007 in order to prove, pursuant to this Act and the rules, a breach of the Code.
-(2) However, subsection (1)﻿(b) only applies if, had that information and evidence been gathered by Drug Free Sport NZ on or after 1 July 2007, it would have been gathered in accordance with the requirements of this Act and the rules.
-(3) Subsection (1)﻿(b) overrides sections 48 and 50.
+[Repealed]
 
 **Transitional provisions for Tribunal**
 
