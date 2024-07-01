@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2024-02-29_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1936,7 +1936,6 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Accident Compensation Corporation | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Callaghan Innovation | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Civil Aviation Authority of New Zealand |  |  |  |  | ✓ |
-| Earthquake Commission | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Education New Zealand |  |  |  |  |  |
 | Energy Efficiency and Conservation Authority |  |  |  |  |  |
 | Environmental Protection Authority |  |  |  |  |  |
@@ -1959,6 +1958,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Sport and Recreation New Zealand |  |  |  |  | ✓ |
 | Taumata Arowai–the Water Services Regulator |  |  |  |  |  |
 | Tertiary Education Commission |  |  |  |  |  |
+| Toka Tū Ake – Natural Hazards Commission | ✓ | ✓ | ✓ | ✓ | ✓ |
 | WorkSafe New Zealand |  |  |  |  | ✓ |
 
 | Name | Exemption from acquisition of financial products, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
@@ -1989,7 +1989,6 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Climate Change Commission |  |  |  |  |  |
 | Commerce Commission |  |  |  |  |  |
 | Criminal Cases Review Commission |  |  |  |  |  |
-| Drug Free Sport New Zealand |  |  |  |  |  |
 | Electoral Commission |  |  |  |  |  |
 | Electricity Authority |  |  |  |  | ✓ |
 | External Reporting Board |  |  |  |  |  |
@@ -1997,6 +1996,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Health and Disability Commissioner |  |  |  |  |  |
 | Human Rights Commission |  |  |  |  |  |
 | Independent Police Conduct Authority |  |  |  |  |  |
+| Integrity Sport and Recreation Commission |  |  |  |  |  |
 | Law Commission |  |  |  |  |  |
 | Mental Health and Wellbeing Commission |  |  |  |  |  |
 | Office of Film and Literature Classification |  |  |  |  |  |
