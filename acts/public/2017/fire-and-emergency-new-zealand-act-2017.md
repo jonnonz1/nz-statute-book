@@ -1,5 +1,5 @@
 # Fire and Emergency New Zealand Act 2017
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Fire and Emergency New Zealand Act 2017.
@@ -1740,9 +1740,9 @@ All infringement fees paid in respect of infringement offences must be paid into
     (i) the performance in good faith of A’s functions or duties; or
     (ii) the exercise in good faith of A’s powers at, or in connection with, any fire or suspected fire.
 (2) However,—
-  (a) if any fire or suspected fire is a natural disaster within the meaning of the Earthquake Commission Act 1993, the damage must be treated as damage by natural disaster fire; and
-  (b) if any damage to property is natural disaster damage, the damage must be treated as damage by natural disaster.
-(3) In this section, natural disaster damage has the same meaning as in section 2(1) of the Earthquake Commission Act 1993.
+  (a) if any fire or suspected fire is a natural hazard within the meaning of the Natural Hazards Insurance Act 2023, the damage must be treated as damage by natural hazard fire; and
+  (b) if any damage to property is natural hazard damage, the damage must be treated as damage by natural hazard.
+(3) In this section, natural hazard damage has the same meaning as in section 24 of the Natural Hazards Insurance Act 2023.
 
 ### 161 Limitation of liability
 (1) No proceeding may be taken against any of the following to recover damages for any loss or damage to property resulting from any act or omission of a specified person resulting from the performance, or intended performance, or the exercise or intended exercise, in good faith of that person’s functions, duties, or powers in relation to designated services under any relevant fire safety legislation or any other enactment:
