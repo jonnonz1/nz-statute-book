@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2024-05-01_
+_Consolidation as at 2024-07-01_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -4017,6 +4017,8 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  |  | 61(6) |  | Ranger may seize any chainsaw, firearm, trap, net, or similar item found in unlawful possession of any person in national park and any item found on any person and used in commission of offence in national park |  | All (except subpart 3) |
 |  |  | 65(1) |  | Ranger may stop and search boats or vehicles, or certain animals, or aircraft, and search premises and possessions, in national park if he or she has reasonable cause to believe offence has been committed against National Parks Act 1980 or any bylaws under that Act and that evidence will be found in course of search |  | All (except subpart 3 and sections 118 and 119) |
 |  |  | 66(1) |  | Authorised person may stop and search boat outside national park if he or she has reasonable cause to believe offence has been committed against National Parks Act 1980 or any bylaws under that Act and that evidence is on boat |  | All (except subpart 3) |
+| Natural Hazards Insurance Act 2023 |  | 147 |  | Authorised person may obtain and execute warrant to enter dwelling or marae for purposes of obtaining information |  | Subpart 3 |
+|  |  | 149 |  | Power to enter if investigating offence |  | All (except sections 118 and 119 and subpart 8) |
 | Non-bank Deposit Takers Act 2013 |  | 52(1) |  | Appointed person may enter and search any place by consent or with warrant for purpose of investigating whether offence committed |  | All (except sections 118 and 119) |
 | Oranga Tamariki Act 1989 |  | 39(1) and (3) |  | Constable or chief executive may obtain and execute place of safety warrant authorising search for, and removal of, child at risk of harm |  | Sections 99, 101, and 105 |
 |  |  | 40(1) and (4) |  | On application for order that child is in need of care and protection, constable or chief executive may obtain and execute search warrant authorising search for and removal of child |  | Sections 99, 101, and 105 |
