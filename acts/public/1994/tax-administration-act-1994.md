@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2024-06-04_
+_Consolidation as at 2024-07-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3310,6 +3310,26 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
 (7) Part 7 does not apply to a refund or an excess refund made under this section.
 (8) Part 9 applies to applications made under this section.
 
+### 41C Application for refund of FamilyBoost tax credit
+(1) This section applies to a person who is entitled to apply for a refund of a FamilyBoost tax credit for a quarter under subpart MH of the Income Tax Act 2007.
+(2) The person may apply for a refund of the amount of the FamilyBoost tax credit for the quarter calculated under subpart MH.
+(3) A person applying for a refund must complete an application—
+  (a) in the manner specified by the Commissioner; and
+  (b) accompanied by the information required by the Commissioner.
+(4) A refund paid under this section must be paid as if it were tax paid in excess.
+(5) If an incorrect amount is paid for a refund under this section, the refund must be treated as if it were correctly calculated under subpart MH and the Commissioner must not take any corrective action unless—
+  (a) the amount of the refund is a significant overpayment or significant underpayment of the correct amount as calculated under subpart MH; or
+  (b) the refund has been paid as a result of the person knowingly providing altered, false, incomplete, or misleading information.
+(6) For the purposes of subsection (5),—
+  (a) the Commissioner may determine the thresholds for what is a significant overpayment or a significant underpayment of an amount of a refund; and
+  (b) any exercise of the Commissioner’s discretion under paragraph (a) must be—
+    (i) carried out having regard to the resources available to the Commissioner; and
+    (ii) published by the Commissioner on an internet site administered by the Commissioner.
+(7) If the Commissioner considers the amount of a FamilyBoost tax credit refunded to a person is a significant overpayment, the Commissioner may recover the overpayment as if it were income tax payable by the person.
+(8) If a person notifies the Commissioner of a change in their circumstances, the Commissioner may reconsider their refund if the Commissioner considers the person’s change in circumstances has resulted in an unduly harsh outcome with regard to the person’s refund.
+(9) A person who is entitled to a refund of a FamilyBoost tax credit must apply for the refund within the 4-year period that begins on the day immediately following the end of the quarter for which the person was entitled to the tax credit under subpart MH.
+(10) The Commissioner must not issue a refund if more than 4 years have passed since the end of the quarter for which a person was entitled to the FamilyBoost tax credit under subpart MH.
+
 ### 42 Returns by joint venturers, partners, and partnerships
 (1) This section applies when 2 or more people derive income jointly or have deductions jointly.
 (2) Despite subsection (1), this section does not apply to the income derived by, and the deductions of, an airport operator from activities undertaken as an airport operator.
@@ -3562,9 +3582,9 @@ A person that uses the AIM method as described in section RC 5(5B) of the Income
 (2) Also, a person must give the Commissioner the return if they have no RLWT to pay because of the application of section RL 4 of the Income Tax Act 2007.
 
 ### 54C Information in relation to payment of RLWT
-(1) This section applies if a person (the vendor) disposes of residential land (the disposal), and the bright-line date for the residential land is either within 5 years if section CZ 39 applies, or within 10 years or 5 years, as the case may be, if section CB 6A applies, of—
+(1) This section applies if a person (the vendor) disposes of residential land (the disposal), and the bright-line end date for the residential land is within 2 years of—
   (a) the date on which the instrument to transfer the land to the person was registered under the Land Transfer Act 1952; or
-  (b) the latest date on which they acquire the estate or interest in the residential land, if an instrument to transfer the land to the person is not registered on or before the bright-line date.
+  (b) the latest date on which they acquire the estate or interest in the residential land, if an instrument to transfer the land to the person is not registered on or before the bright-line end date.
 (2) This section does not apply if the relevant date for the vendor under subsection (1)﻿(a) or (b) is before 1 October 2015.
 (3) The vendor must give to their conveyancer, or if they do not have a conveyancer or they are associated with the purchaser, give to the purchaser’s conveyancer or the purchaser, information in relation to RLWT, in the form prescribed by the Commissioner, before the relevant residential land purchase amount is paid.
 (4) The information must be accompanied by relevant and appropriate documents, as prescribed by the Commissioner.
@@ -3583,7 +3603,7 @@ A person that uses the AIM method as described in section RC 5(5B) of the Income
 ### 54D Information in relation to repayment of RLWT
 (1) For the purposes of deciding if an amount of RLWT may be repaid for a person under section RL 6 of the Income Tax Act 2007, the Commissioner must prescribe a form that requires—
   (a) a person’s income and deductions for land for the period of the part of the income year before the date that is 1 month after the relevant disposal of residential land; and
-  (b) whether or not the person, for the relevant disposal of residential land, will meet the requirements in section CB 16A or CZ 40; and
+  (b) whether or not the person, for the relevant disposal of residential land, will meet the requirements in section CB 16A of that Act; and
   (c) other relevant particulars.
 (2) The Commissioner may also prescribe any appropriate documents to accompany the form.
 
@@ -3601,7 +3621,7 @@ A person that uses the AIM method as described in section RC 5(5B) of the Income
     (i) in the same group of companies as the person; or
     (ii) if the person is a limited partnership, a partner of the person; and
   (c) has complied with all obligations for the 2 years before the person applies for the certificate, or the counted associate has complied with all obligations for the 2 years before the person applies for the certificate.
-(4) The requirements in this subsection are that the person, for the residential land, will meet the requirements in section CB 16A or CZ 40.
+(4) The requirements in this subsection are that the person, for the residential land, will meet the requirements in section CB 16A of the Income Tax Act 2007.
 (5) The Commissioner must issue an RLWT certificate of exemption to the person.
 
 ### 55 Consequence of inability to provide tax file numbers
@@ -8647,7 +8667,8 @@ In any proceedings against a person for refusing or failing to provide a tax ret
     (j) an amount payable in relation to a loan made under the small business cashflow scheme:
     (k) an amount payable in relation to a grant made under the COVID-19 resurgence support payments scheme or another COVID-19 support payments scheme:
     (kb) an amount payable in relation to a grant made under the cost of living payments scheme:
-    (l) KiwiSaver Act 2006 employer contributions
+    (l) KiwiSaver Act 2006 employer contributions:
+    (m) an amount of a significant overpayment of a FamilyBoost tax credit refund under section 41C(7)
   - **taxpayer** —
     (a) in relation to income tax within the meaning of paragraphs (b) and (d) of the definition of income tax in this subsection, includes an employer and a PAYE intermediary; and
     (b) in relation to income tax within the meaning of paragraph (e) of the definition of income tax in this subsection, includes an employer.
@@ -8701,7 +8722,7 @@ Every person who under this Act pays any tax for or on behalf of any other perso
 
 ### 165A Recovery of excess tax credits allowed
 (1) If the Commissioner is satisfied that a credit of tax allowed or credited to a person under a tax law exceeded the amount properly allowable or able to be credited to the person under that tax law, the Commissioner may recover the amount of the excess from the person in the same manner, with any necessary modifications, as if the excess were income tax payable under the Income Tax Act 2007.
-(2) Subsection (1) is subject to sections LA 3 to LA 5, LJ 7, and LK 4 of the Income Tax Act 2007.
+(2) Subsection (1) is subject to section 41C(5) to (7) of this Act and sections LA 3 to LA 5, LJ 7, and LK 4 of the Income Tax Act 2007.
 
 ### 165B Recovery of overpaid refunds: NRWT
 (1) This section applies for the purposes of the NRWT rules when the amount of a refund made to a person is more than the amount properly refundable to them.
@@ -8887,6 +8908,7 @@ In this Part—
   (a) in the case of a GST refund provided by section 19C(8) or 20(5) of the Goods and Services Tax Act 1985, the applicable date set out in subsection (2B):
   (b) in the case of tax withheld or deducted on the taxpayer's behalf, a day after the end of the accounting year in which the amount was withheld or deducted occurred:
   (bb) in the case of a tax credit for expenditure on research and development, a day after the end of the accounting year to which the credit relates:
+  (bc) in the case of a FamilyBoost tax credit, a day after the end of the quarter to which the credit relates:
   (c) in any other case, a date that occurs on or after the date the excess tax is paid.
 (2B) For the purposes of subsection (2)﻿(a), the applicable date is—
   (a) when the taxpayer files their return before the due date, the earlier of—
@@ -9416,6 +9438,7 @@ If a double tax agreement exempts from tax any income derived before the date on
   (a) an amount defined as tax in section 3(1)﻿(a):
   (ab) an amount of income tax:
   (b) a refund allowed under section 41A:
+  (bb) a refund allowed under section 41C:
   (c)
   (d)
   (e) financial support, as defined in section 2 of the Child Support Act 1991:
@@ -9439,6 +9462,7 @@ If a double tax agreement exempts from tax any income derived before the date on
   (c) by way of interest under this Act or the Income Tax Act 2007; or
   (d)
   (e) by way of credits of tax under the family scheme; or
+  (eb) by way of credits of tax under subpart MH of the Income Tax Act 2007; or
   (f) in accordance with section RM 8 of that Act—
   (g)
 (2) On the recovery under Part 10A of an amount of unpaid tax, the amount recovered may be paid to the government of the territory outside New Zealand out of a Crown Bank Account without further appropriation than this section.
@@ -10709,6 +10733,17 @@ Section 18 does not prevent the Commissioner from disclosing sensitive revenue i
   (b) refuse the application for payment of parental leave or for preterm baby payments if a comparison under paragraph (a) indicates that the employee or his or her spouse has received a payment of parental tax credit in respect of the child.
 (4) The Commissioner may treat information obtained while acting as a delegate of the responsible department under section 71ZA of that Act as information obtained for the purposes of administering the Inland Revenue Acts.
 (5) The Commissioner may refuse or recover a parental tax credit under section MD 11 of the Income Tax Act 2007 in respect of a child if a parental leave payment or preterm baby payment under Part 7A of the Parental Leave and Employment Protection Act 1987 is to be paid or has been paid to the applicant in respect of the child.
+
+### 46B Department of Education: FamilyBoost tax credit
+(1) Section 18 does not prevent the Commissioner communicating information to a person who is an officer or employee of the department for the time being responsible for the administration of the Education and Training Act 2020 (the Ministry of Education), being information reasonably necessary for the Commissioner’s administration of the FamilyBoost tax credit, including—
+  (a) identification of a child enrolled in an early childhood education and care service, including their national student number:
+  (b) a child’s address:
+  (c) a child’s enrolment status:
+  (d) a child’s date of birth:
+  (e) a child’s caregivers.
+(2) Despite anything to the contrary in the Education and Training Act 2020, for the purpose of administering the FamilyBoost tax credit,—
+  (a) the chief executive of the Ministry of Education must supply to the Commissioner information, described in subclause (1), that the Ministry of Education holds and that is requested by the Commissioner:
+  (b) the Commissioner may gather, receive, use, store, and disclose information, described in subclause (1), subject to the Commissioner’s duties, powers, and functions under the Tax Administration Act 1994, including comparing that information with information held by the Commissioner that relates to an application for a refund of a FamilyBoost tax credit under section 41C.
 
 ### Part D — Disclosures for purposes of international arrangements
 
