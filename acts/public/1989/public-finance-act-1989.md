@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2023-07-27_
+_Consolidation as at 2024-07-01_
 
 > Title
 
@@ -1565,7 +1565,7 @@ A department's annual report must include—
 (1) In this Act, mixed ownership model company means a company listed in Schedule 5.
 (2) In this Part,—
   - **10% limit** has the meaning set out in section 45S
-  - **Crown** means Her Majesty the Queen in right of New Zealand
+  - **Crown** means the Sovereign in right of New Zealand
   - **excess securities** means those shares or voting securities in which a person has a relevant interest in excess of the 10% limit
   - **FMA** means the Financial Markets Authority established under section 6 of the Financial Markets Authority Act 2011
   - **relevant interest** has the meaning given to it by sections 235 to 238 of the Financial Markets Conduct Act 2013
@@ -2173,7 +2173,7 @@ Any money paid by the Crown under a guarantee or indemnity given under section 6
 
 ### 73 Payment of fines to local authorities and other organisations that conduct prosecutions
 (1) Subject to subsection (2) and any other provision of any Act, where a local authority, or other organisation (other than a department, an Office of Parliament, a Crown entity, a Schedule 4 organisation, or a Schedule 4A company) that is specifically empowered to do so by any Act, or any person on behalf thereof, prosecutes a person in a court of law in respect of an offence and the prosecution results in the imposition of a fine, the amount of the fine recovered shall be paid to the local authority or other organisation.
-(2) There shall be deducted from every amount payable to a local authority or other organisation under subsection (1) a sum equal to 10% thereof, and this sum shall be credited to the Crown Bank Account or a Departmental Bank Account:
+(2) There shall be deducted from every amount payable to a local authority or other organisation under subsection (1) a sum equal to 14% thereof, and this sum shall be credited to the Crown Bank Account or a Departmental Bank Account:
   provided that, where any money awarded by a court in respect of any loss or damage is recovered as a fine, no deduction under this subsection shall be made in respect of that money.
 
 ### 74 Unclaimed money
@@ -2389,6 +2389,26 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
   (a) the financial year commencing on 1 July 2019; or
   (b) a later financial year.
 (2) Despite subclause (1), the report on child poverty required by section 15EA for the main Appropriation Bill for the financial year commencing on 1 July 2019 is required to comply with section 15EA(2)﻿(a) only if, and after, the first targets are set under the Child Poverty Reduction Act 2018.
+
+### Part 4 — Provision relating to Public Finance (Fines Collection Costs—Budget Measures) Amendment Act 2024
+
+### 11 Application of amendment about deductions from fines
+Amendment applies only for fines imposed on or after 1 July 2024
+(1) The amendment applies only to an amount of a fine recovered—
+  (a) on or after 1 July 2024; and
+  (b) in respect of a fine imposed on or after 1 July 2024.
+Old section continues to apply for fines imposed before 1 July 2024
+(2) The old section continues to apply to an amount of a fine recovered—
+  (a) on or after 1 July 2024; and
+  (b) in respect of a fine imposed before 1 July 2024.
+Definitions
+(3) In this clause,—
+  - **amendment** means the amendment made to section 73(2) on 1 July 2024 by the amendment Act
+  - **amendment Act** means the Public Finance (Fines Collection Costs—Budget Measures) Amendment Act 2024
+  - **amount of a fine** includes, without limitation, an instalment—
+    (a) of the fine; and
+    (b) paid under a court order, or an arrangement, allowing payment to be made by instalments
+  - **old section** means section 73(2) as in force immediately before the amendment was made on 1 July 2024 by the amendment Act.
 
 ## Schedule 2 — Enactments repealed
 
