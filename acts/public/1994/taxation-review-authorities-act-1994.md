@@ -1,5 +1,5 @@
 # Taxation Review Authorities Act 1994
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2024-07-05_
 
 > An Act to consolidate the law relating to Taxation Review Authorities
 
@@ -10,7 +10,9 @@ _Consolidation as at 2021-10-28_
 ## Part 1 — Purpose and construction
 
 ### 2 Purpose of Act
-(1) The purpose of this Act is to re-enact the law contained in the Inland Revenue Department Act 1974 as it relates to Taxation Review Authorities.
+(1) The purpose of this Act is to—
+  (a) re-enact the law contained in the Inland Revenue Department Act 1974 as it relates to Taxation Review Authorities; and
+  (b) provide that Taxation Review Authorities are to sit as a judicial authority for hearing and determining appeals under the Charities Act 2005.
 (2) The reorganisation of the provisions and the changes of style and language carried out by this Act in relation to provisions of the Inland Revenue Department Act 1974 are not intended to affect the interpretation or effect of those provisions as they are included in this Act.
 
 ### 3 Interpretation
@@ -40,7 +42,7 @@ The transitional, savings, and related provisions set out in the Schedule have e
 (2) If more than 1, any Authority may be given such distinctive designation as the Governor-General determines, and any such designation may from time to time be changed by the Governor-General.
 (3) Every Authority shall consist of one person, being a District Court Judge or a barrister or solicitor of the High Court of not less than 7 years’ practice.
 (4) Every Authority shall be appointed by the Governor-General on the recommendation of the Minister of Justice.
-(5) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason only of the person being an Authority.
+(5) No person shall be deemed to be employed in the service of the Sovereign for the purposes of the Public Service Act 2020 or the Government Superannuation Fund Act 1956 by reason only of the person being an Authority.
 
 ### 5A Appointment of temporary acting Authority
 (1) If an Authority becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if an Authority considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the recommendation of the Minister of Justice, may appoint a suitable person as an acting Authority for the period or purpose stated in the appointment.
@@ -84,9 +86,10 @@ If any employee of the Crown is appointed as an Authority, that employee’s ser
 Every person (other than a person appointed as an Authority) engaged or employed in connection with the work of any Authority who is not also an officer of the Department, shall, for the purposes of section 18(1) of the Tax Administration Act 1994, be deemed to be an officer of the Department, and shall make the declaration of fidelity and secrecy referred to in that section, and that section shall in every respect apply to that person as if the person were an officer of the Department.
 
 ### 13 Functions of an Authority
-The functions of an Authority are to sit as a judicial authority for hearing and determining objections and challenges—authorised by the Inland Revenue Acts.
+(1) The functions of an Authority are to sit as a judicial authority for hearing and determining objections and challenges—authorised by the Inland Revenue Acts.
   (a) to assessments of tax; and
   (b) to other decisions or determinations of the Commissioner—
+(2) The functions of an Authority are also to sit as a judicial authority for hearing and determining appeals under the Charities Act 2005 (see sections 58A to 58X of that Act) in accordance with the provisions of that Act.
 
 ### 13A General jurisdiction of Authorities
 Every Authority established under section 5 has a general jurisdiction—
@@ -94,6 +97,7 @@ Every Authority established under section 5 has a general jurisdiction—
   (b) to hear and determine challenges—
     (i) that this Act and the Tax Administration Act 1994 authorise the Authority to hear and determine; and
     (ii)
+  (c) to hear and determine appeals under sections 58A to 58X of the Charities Act 2005.
 
 ### 13AB Orderly and efficient operation
 (1) An Authority is responsible for making any arrangements that are practicable to ensure that he or she performs his or her functions—
