@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2023-10-05_
+_Consolidation as at 2024-07-05_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -384,38 +384,16 @@ A search of the register for personal information that has not been carried out 
 (3) Subsection (2) does not limit the circumstances in which an entity may be considered to be no longer qualified for registration as a charitable entity.
 
 ### 33 Notice of intention to remove from register
-(1) The chief executive must, before an entity is removed from the register under section 32(1)﻿(a) to (e), give notice of the matters set out in subsection (2) to the entity.
-(2) That notice must specify—
-  (a) the name of the entity; and
-  (b) the registration number of the entity; and
-  (c) the provision of this Act under which, and the grounds on which, it is intended to remove the entity from the register; and
-  (d) the date by which an objection to the removal from the register must be received by the chief executive, which must be not less than 20 working days after the date of the notice.
+[Repealed]
 
 ### 34 Objection to removal from register
-The entity and any officer of the entity may send or deliver to the chief executive an objection to the entity's removal from the register on either or both of the following grounds:
-  (a) that the grounds on which it is intended to remove the entity from the register have not been satisfied:
-  (b) that, for any other reason, it would not be in the public interest to remove the entity from the register.
+[Repealed]
 
 ### 35 Duties of Board and chief executive if objection received
-(1) If an objection to the removal of an entity from the register under section 34 is received by the chief executive on or before the date referred to in section 33(2)﻿(d), the Board must not proceed with the removal unless the Board is satisfied that it is in the public interest to proceed with the removal from the register and that—
-  (a) 1 or more of the grounds of removal from the register have been satisfied; or
-  (b) the objection has been withdrawn; or
-  (c) any facts on which the objection is based are not, or are no longer, correct; or
-  (d) the objection is frivolous or vexatious.
-(2) If an objection to the removal of an entity from the register under section 34 is received by the chief executive on or before the date referred to in section 33(2)﻿(d) and the Board decides to proceed with the removal of the entity from the register,—
-  (a) the chief executive must give to the charitable entity notice of—
-    (i) the Board's decision to proceed with the removal of the entity from the register; and
-    (ii) the reasons for the Board's decision; and
-    (iii) the entity's right to appeal against the decision under section 59; and
-  (b) the chief executive must not proceed to remove the entity from the register earlier than 20 working days after the date on which the notice referred to in paragraph (a) is given to the charitable entity.
+[Repealed]
 
 ### 36 Board to observe rules of natural justice
-(1) In considering whether to remove an entity from the register and whether to make an order under section 31(4), the Board must—
-  (a) observe the rules of natural justice; and
-  (b) give the entity a reasonable opportunity to make submissions to the Board on the matter.
-(2) In considering whether to disqualify a person from being an officer of a charitable entity under section 31(4), the Board must—
-  (a) observe the rules of natural justice; and
-  (b) give the person a reasonable opportunity to make submissions to the Board on the matter.
+[Repealed]
 
 ### Subpart 1A — Officers of charitable entities
 
@@ -685,9 +663,7 @@ If a single entity is registered as a charitable entity, then, unless the terms 
   (b) treated as a charitable entity under section 47.
 
 ### 49 Board to observe rules of natural justice
-In considering whether to revoke an entity's status as forming part of a single entity, the Board must—
-  (a) observe the rules of natural justice; and
-  (b) give the entity whose status is proposed to be revoked and the parent entity a reasonable opportunity to make submissions to the Board on the matter.
+[Repealed]
 
 **Inquiries into charitable entities and other persons**
 
@@ -752,12 +728,54 @@ In considering whether to revoke an entity's status as forming part of a single 
     (iii) the person has engaged in, or is engaging in, conduct that constitutes, or may constitute, a breach of section 37:
   (c) a statement of the action that the Board has taken, or is considering taking, in relation to those matters:
   (d) a summary of the grounds for the Board's opinion.
-(3) However,—
-  (a) before the Board exercises its powers under subsection (2), the Board must give to the charitable entity or person notice of—
-    (i) the Board's decision to publish a notice under this section; and
-    (ii) the reasons for the Board's decision; and
-    (iii) the entity's or person's right to appeal the decision under section 59; and
-  (b) the Board must not exercise its powers under subsection (2) earlier than 20 working days after the date on which the notice referred to in paragraph (a) is given to the charitable entity or person.
+(3)
+
+**Objections to decisions of Board and chief executive**
+
+### 55A Interpretation
+In sections 55B to 55E,—
+  - **decision** means—
+    (a) the following decisions of the chief executive:
+      (i) a decision under section 25(1) to remove or omit from the register any information or documents that relate to a charitable entity:
+      (ii) a decision under section 26(a) to amend the register to reflect any changes in the information that relates to a charitable entity:
+      (iii) a decision under section 26(ba) to amend the register to correct a mistake caused by any error or omission on the part of a charitable entity:
+      (iv) a decision on an application by an entity for approval to change its balance date under section 41(5)﻿(b):
+      (v) a decision on an application by an entity under section 43 to grant, vary, or revoke an exemption:
+      (vi) a decision on a request by an entity under section 44(1) to treat the entity and 1 or more affiliated or closely related entities as forming part of a single entity:
+      (vii) a decision to give a warning notice to a charitable entity or person under section 54(2); and
+    (b) any decision of the Board under this Act
+  - **decision maker** means the Board or chief executive, whichever applies.
+
+### 55B Notice of intention to make decision
+(1) Before the decision maker makes a decision, they must give notice of the matters set out in subsection (2) to the person who or entity that is the subject of the decision.
+(2) That notice must specify—
+  (a) the name of the person or entity; and
+  (b) where relevant, the registration number of the entity; and
+  (c) the decision that the decision maker intends to make; and
+  (d) the grounds under this Act for the intended decision; and
+  (e) the date by which an objection to the intended decision must be received by the decision maker, which must be no later than 2 months after the date of the notice.
+
+### 55C Objection to intended decision
+The person who or entity that is the subject of the intended decision may send or deliver to the decision maker an objection to the intended decision on either or both of the following grounds:
+  (a) that the grounds for the intended decision have not been satisfied:
+  (b) that, for any other reason, it would not be in the public interest to make the intended decision.
+
+### 55D Decision maker’s duty if objection received
+(1) If an objection to an intended decision is received by the decision maker on or before the date referred to in section 55B(2)﻿(e),—
+  (a) the decision maker must give the person or entity the opportunity to appear (whether in person or by electronic means) and be heard in relation to the intended decision and the objection; and
+  (b) the decision maker must not proceed to make the intended decision unless they are satisfied that it is in the public interest to do so and that—
+    (i) the grounds for the intended decision have been satisfied; or
+    (ii) the objection has been withdrawn; or
+    (iii) any facts on which the objection is based are not, or are no longer, correct; or
+    (iv) the objection is frivolous or vexatious.
+(2) If the decision maker proceeds to make a decision, the decision maker must give to the person or entity notice of—
+  (a) the decision; and
+  (b) the grounds for the decision; and
+  (c) the person or entity’s right to appeal against the decision under section 58A.
+(3) The decision takes effect the day after the date of the notice referred to in subsection (2), unless another date (which may not be earlier than the date of the notice) is specified in the notice.
+
+### 55E Decision maker to observe rules of natural justice
+In considering whether to make a decision, the decision maker must observe the rules of natural justice.
 
 **Provisions relating to how notices are given and served for purposes of various sections**
 
@@ -796,42 +814,187 @@ In considering whether to revoke an entity's status as forming part of a single 
 **Appeals against decisions of Board**
 
 ### 59 Right of appeal
-(1) A person who is aggrieved by a decision of the Board under this Act may appeal to the High Court.
-(2) An appeal under this section must be made by lodging a notice of appeal with the Registrar of the High Court in Wellington and with the Board within—
-  (a) 20 working days after the date of the decision; or
-  (b) any further time that the High Court may allow on application made before or after the expiration of that period.
-(3) Every notice of appeal must specify—
-  (a) the decision or the part of the decision appealed from; and
-  (b) the grounds of appeal in sufficient detail to fully inform the High Court and the Board of the issues in the appeal; and
-  (c) the relief sought.
+[Repealed]
 
 ### 60 High Court may make interim order pending determination of appeal
-(1) At any time before the final determination of an appeal, the High Court may make an interim order requiring an entity—
+[Repealed]
+
+### 61 Determination of appeal
+[Repealed]
+
+## Part 2A — Appeals
+
+**Appeals to Authority**
+
+### 58A Right of appeal to Authority against decisions of Board and certain decisions of chief executive
+(1) A person or an entity may appeal to an Authority against—
+  (a) the following decisions of the chief executive:
+    (i) a decision under section 25(1) to remove or omit from the register any information or documents that relate to a charitable entity:
+    (ii) a decision under section 26(a) to amend the register to reflect any changes in the information that relates to a charitable entity:
+    (iii) a decision under section 26(ba) to amend the register to correct a mistake caused by any error or omission on the part of a charitable entity:
+    (iv) a decision on an application by an entity for approval to change its balance date under section 41(5)﻿(b):
+    (v) a decision on an application by an entity under section 43 to grant, vary, or revoke an exemption:
+    (vi) a decision on a request by an entity under section 44(1) to treat the entity and 1 or more affiliated or closely related entities as forming part of a single entity:
+    (vii) a decision to give a warning notice to a charitable entity or person under section 54(2); and
+  (b) any decision of the Board under this Act.
+(2) An appeal does not operate as a stay of the decision appealed against.
+
+### 58B Period for bringing appeal
+(1) An appellant must lodge an appeal under section 58A with the Authority—
+  (a) no later than 2 months after the date of the decision appealed against; or
+  (b) within any further time that the Authority may allow if, on an application by the appellant, the Authority is satisfied that exceptional grounds outside the appellant’s control prevented the appellant from lodging an appeal before the expiry of the period in paragraph (a).
+(2) An appellant may make an application under subsection (1)﻿(b) at any time before or after the expiry of the period in subsection (1)﻿(a).
+
+### 58C Commencement of appeal
+(1) An appeal before an Authority must be commenced by filing a notice of appeal, together with the prescribed fee (if any), with the Authority.
+(2) A notice of appeal must be in a form approved by the chief executive of the Ministry of Justice after consulting all Authorities and any other parties the chief executive thinks appropriate.
+(3) Every notice of appeal must specify—
+  (a) the decision or the part of the decision to which the appeal relates; and
+  (b) the grounds of appeal in sufficient detail to fully inform the Authority and the respondent of the issues in the appeal; and
+  (c) the relief sought; and
+  (d) the appellant’s address for service (which can be an email address or any other electronic address maintained by the appellant).
+(4) The decision maker must be named as a respondent in the appeal.
+(5) The appellant must serve a notice of appeal on all parties to the appeal.
+
+### 58D Notice of defence
+(1) A respondent must file a notice of defence with the Authority no later than 2 months after being served with the notice of appeal.
+(2) A notice of defence must be in a form approved by the chief executive of the Ministry of Justice after consulting all Authorities and any other parties the chief executive thinks appropriate.
+(3) The respondent must serve the notice of defence on the appellant at the appellant’s address for service.
+(4) Every notice of defence must specify—
+  (a) the grounds of defence in sufficient detail to fully inform the Authority and the appellant of the defence; and
+  (b) the respondent’s address for service (which can be an email address or other electronic address maintained by the respondent).
+
+### 58E Grounds of appeal and burden of proof
+(1) In an appeal,—
+  (a) the appellant is limited to the grounds stated in the notice of appeal; and
+  (b) the respondent is limited to the grounds stated in the decision appealed against; and
+  (c) the burden of proof is on the appellant.
+(2) Despite subsection (1), the Authority may, either on the application of the appellant or of its own motion, amend the grounds stated in the notice of appeal.
+
+### 58F Authority may strike out appeal
+An Authority may strike out an appeal, in whole or in part, if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+
+### 58G Authority may regulate its procedure
+An Authority may regulate its procedure for the commencement, hearing, and determination of an appeal under this Act as it thinks fit, subject to—
+  (a) this Act and any regulations; and
+  (b) any practice notes issued under section 58U.
+
+### 58H Procedure at hearing of appeal
+At the hearing of an appeal before an Authority, the parties—
+  (a) may call evidence; and
+  (b) must be given an opportunity to be heard either in person or by a person they have authorised to represent them (whether or not that person is a lawyer).
+
+### 58I Evidence
+(1) An Authority may receive as evidence any statement, document, information, or matter that the Authority considers may assist the Authority to deal effectively with the appeal, whether or not it would be admissible in a court of law.
+(2) Subject to sections 53 to 67 of the Evidence Act 2006, an Authority may require a respondent to provide to the Authority and all parties to the appeal any statement, document, information, or matter that the Authority considers to be relevant to the decision under appeal.
+(3) An Authority may take evidence on oath.
+(4) An Authority may permit a person appearing as a witness before it to give evidence by providing a written statement and, if the Authority thinks fit, verifying it by oath.
+
+### 58J Determination on papers
+(1) An Authority may determine an appeal on the papers if the Authority considers it appropriate.
+(2) Before doing so, the Authority must give the parties an opportunity to comment on whether the appeal should be dealt with in that manner.
+
+### 58K Power to proceed if party fails to attend
+(1) If any party fails to appear or be represented at the hearing of an appeal before an Authority, the Authority may—
+  (a) adjourn the hearing; or
+  (b) determine the appeal in the absence of the party who failed to appear or be represented; or
+  (c) where it is the appellant who fails to appear or be represented, dismiss the appeal.
+(2) If an Authority determines or dismisses an appeal under subsection (1)﻿(b) or (c) in the absence of any party, the Authority on the application of that party may, if the Authority thinks fit, grant a rehearing of the appeal or set down the dismissed appeal for a hearing.
+(3) An application for a rehearing or the setting down of a new hearing under subsection (2) must be made no later than 20 working days after the date of the Authority’s determination or dismissal of the appeal.
+(4) If a rehearing is granted or a new hearing set down under subsection (2), the determination of the Authority made on the initial hearing, or its dismissal of the appeal, immediately ceases to have effect.
+
+### 58L Use of electronic facilities
+Any sitting of an Authority may be conducted by telephone, audiovisual link, or other remote access facility if an Authority considers it appropriate and the necessary facilities are available.
+
+### 58M Sittings of Authority to hear appeals
+(1) An Authority may sit to hear appeals under this Act at the times and locations that the Authority considers appropriate.
+(2) When considering where an appeal should be heard, the Authority may take into account the location and convenience of the parties.
+(3) An Authority may adjourn a sitting before or at the time of the sitting.
+(4) If an Authority is absent or unable from cause to act, the Registrar of the Authority has the same powers as the Authority to adjourn a sitting.
+(5) All sittings of an Authority are open to the public, unless the Authority considers that a sitting should be conducted in private.
+
+### 58N Powers of Authority in determining appeals
+(1) In determining an appeal under section 58A, an Authority may—
+  (a) confirm, modify, or reverse the decision of the Board or the chief executive or any part of the decision:
+  (b) exercise any of the powers that the Board or the chief executive could have exercised in relation to the matter to which the appeal relates.
+(2) Without limiting subsection (1), the Authority may make an order requiring—
+  (a) an entity to be registered in the register of charitable entities with effect from a specified date; or
+  (b) an entity to be restored to the register of charitable entities with effect from a specified date; or
+  (c) an entity to be removed from the register of charitable entities with effect from a specified date; or
+  (d) an entity to remain registered in the register of charitable entities; or
+  (e) an entity to be treated, or not to be treated, with 1 or more affiliated or closely related entities as forming part of a single entity; or
+  (f) an entity to be exempted, or not to be exempted, from compliance requirements from a specified date; or
+  (g) an entity to provide their annual return from a specified date; or
+  (h) information or documents that relate to an entity to be removed or omitted from, included in, or restored to the register.
+(3) The specified date may be a date that is before or after the order is made.
+(4) The Authority may make any other order that it thinks fit.
+(5) An order may be made on any terms and conditions that the Authority thinks fit.
+
+### 58O Decisions of Authority
+(1) An Authority must give any decision under this Act in writing, and include reasons for the decision.
+(2) As soon as practicable after giving a decision determining an appeal, an Authority must publish the decision and reasons for the decision on a publicly available Internet site maintained by or on behalf of the chief executive of the Ministry of Justice.
+(3) Despite subsection (2),—
+  (a) an Authority may withhold from publication information it considers appropriate (including, but not limited to, the name of the appellant or information that could identify the appellant); and
+  (b) an Authority is not required to publish a decision and reasons for the decision if it considers publication would not be in the public interest.
+
+### 58P Authority may award costs to successful appellant
+(1) An Authority may order the respondent to pay costs to a successful appellant.
+(2) The maximum amount of costs that may be awarded under subsection (1) is the amount of the filing fee to bring the appeal.
+
+### 58Q Authority may make interim order pending determination of appeal
+(1) At any time before the final determination of an appeal under section 58A, an Authority may make an interim order requiring an entity—
   (a) to be registered in the register of charitable entities with effect from a specified date; or
   (b) to be restored to the register of charitable entities with effect from a specified date; or
   (c) to remain registered in the register of charitable entities.
 (2) The specified date may be a date that is before or after the order is made.
-(3) At any time before the final determination of an appeal relating to a decision under section 55, the High Court may make an interim order preventing or restricting the exercise of a power by the Board under that section.
-(4) An interim order may be subject to any terms or conditions that the High Court thinks fit.
-(5) If the High Court refuses to make an interim order, the person or persons who applied for the order may, within 1 month after the date of the refusal, appeal to the Court of Appeal against the decision.
-(6) If an interim order is made under subsection (1), the chief executive must,—
-  (a) amend the register of charitable entities in accordance with the order as soon as is reasonably practicable after receiving the order; and
-  (b) include a copy of the order in the register of charitable entities, unless the court orders otherwise.
-(7) To enable the chief executive to fulfil the duties imposed by this section, the Registrar of the court in which the interim order is made must send a copy of the order to the chief executive as soon as practicable.
+(3) At any time before the final determination of an appeal relating to a decision under section 55, an Authority may make an interim order preventing or restricting the exercise of a power by the Board under that section.
+(4) An interim order may be subject to any terms or conditions that the Authority thinks fit.
+(5) If an interim order is made under subsection (1), the chief executive must—
+  (a) amend the register of charitable entities in accordance with the order as soon as practicable after receiving the order; and
+  (b) include a copy of the order in the register of charitable entities, unless the Authority orders otherwise.
+(6) To enable the chief executive to fulfil the duties imposed by this section, the Registrar of the Authority must send a copy of the order to the chief executive as soon as practicable.
 
-### 61 Determination of appeal
-(1) In determining an appeal, the High Court may—
-  (a) confirm, modify, or reverse the decision of the Board or the chief executive or any part of it:
-  (b) exercise any of the powers that could have been exercised by the Board or the chief executive in relation to the matter to which the appeal relates.
-(2) Without limiting subsection (1), the High Court may make an order requiring an entity—
-  (a) to be registered in the register of charitable entities with effect from a specified date; or
-  (b) to be restored to the register of charitable entities with effect from a specified date; or
-  (c) to be removed from the register of charitable entities with effect from a specified date; or
-  (d) to remain registered in the register of charitable entities.
-(3) The specified date may be a date that is before or after the order is made.
-(4) The High Court may make any other order that it thinks fit.
-(5) An order may be subject to any terms or conditions that the High Court thinks fit.
-(6) Nothing in this section affects the right of any person to apply, in accordance with law, for judicial review.
+### 58R Right of appeal against decision refusing interim order
+If an Authority refuses to make an interim order under section 58Q, the person or persons who applied for the order may, within 1 month after the date of the refusal, appeal to the High Court against the decision.
+
+### 58S Contempt of Authority
+(1) A person commits an offence if the person—
+  (a) wilfully insults or obstructs an Authority or any witness or officer of an Authority during a sitting of the Authority or while the Authority, a witness, or an officer is going to, or returning from, a sitting of the Authority; or
+  (b) wilfully insults or obstructs any person in attendance at a sitting of an Authority; or
+  (c) wilfully interrupts, or otherwise misbehaves at, a sitting of an Authority; or
+  (d) wilfully and without lawful excuse disobeys any order or direction of an Authority in the course of the hearing of any proceedings.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,000.
+(3) An Authority may order the exclusion from a sitting of that Authority of any person whose behaviour, in the opinion of the Authority, constitutes an offence against subsection (1), whether or not the person is charged with the offence, and any officer of the Authority or constable may take any steps that are reasonably necessary to enforce the exclusion.
+
+### 58T Application of District Court Rules 2014
+To the extent that they are not inconsistent with this Act or regulations, the District Court Rules 2014 apply to the commencement, interlocutory steps, and conduct of proceedings in an Authority as if those proceedings were civil proceedings in the District Court.
+
+### 58U Practice notes
+(1) All Authorities acting together may issue practice notes, to apply to all of them, in relation to appeals to an Authority under this Act.
+(2) The practice notes must not be inconsistent with this Act and are for the guidance of an Authority, officers of an Authority, and parties before an Authority.
+
+### 58V Authority must notify Attorney-General of bringing of appeal
+The Authority must notify the Attorney-General promptly of the bringing of any appeal to the Authority under this Act.
+
+**Appeals to High Court**
+
+### 58W Right of appeal to High Court
+(1) A party to an appeal under section 58A who is dissatisfied with the decision of an Authority under this Act on that appeal may appeal to the High Court.
+(2) Every appeal under subsection (1) must be made by filing a notice of appeal in the appropriate registry of the High Court within 20 working days after the date of the decision appealed against or within any further time that the High Court allows.
+(3) On any appeal under subsection (1), the High Court may make an order or a determination as it thinks fit.
+(4) Subject to this section, the procedure in respect of any appeal under this section must be in accordance with the rules of court.
+
+**Authority may state case**
+
+### 58X Authority may state case for High Court
+(1) An Authority may, at any time, on the application of any party to the appeal or of its own motion, state a case for the opinion of the High Court on—
+  (a) any question of law arising in respect of an appeal before the Authority:
+  (b) whether the appeal should be heard by the High Court.
+(2) An Authority must give notice to the parties of the Authority’s intention to state a case under this section, specifying the registry of the High Court in which the case is to be filed.
 
 ## Part 3 — Miscellaneous matters and amendments to other Acts
 
