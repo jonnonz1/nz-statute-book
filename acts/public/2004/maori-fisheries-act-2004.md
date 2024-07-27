@@ -1,5 +1,5 @@
 # Maori Fisheries Act 2004
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2024-07-27_
 
 ## Preamble
 (1) By the Treaty of Waitangi, the Queen of England confirmed and guaranteed to the chiefs, tribes, and individual Maori the full, exclusive, and undisturbed possession of their fisheries for so long as they wished to retain them:
@@ -198,6 +198,10 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
+
+### 6A Transitional, savings, and related provisions
+(1) The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+(2) Transitional provisions about this Act as enacted are set out in Part 6.
 
 ### Subpart 2 — Key concepts
 
@@ -2584,6 +2588,19 @@ The Maori Fisheries Act 1989 (1989 No 159) is repealed on and from the appointed
 
 ### 214 Amendments to other enactments
 On and from the appointed day, the enactments specified in Schedule 9 are amended in the manner indicated in that schedule.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Māori Fisheries Amendment Act 2024 and that come into force on day after Royal assent
+
+### 1 Aotearoa Fisheries Limited issue of income shares to Te Ohu Kai Moana Trustee Limited
+(1) Within 6 months starting on the date of Royal assent of the Māori Fisheries Amendment Act 2024, Te Ohu Kai Moana Trustee Limited must exercise a put option to sell to Aotearoa Fisheries Limited redeemable preference shares—
+  (a) in Aotearoa Fisheries Limited; and
+  (b) held by Te Ohu Kai Moana Trustee Limited.
+(2) As soon as is reasonably practicable after, and in satisfaction of, the exercise of the put option, Aotearoa Fisheries Limited must issue income shares in Aotearoa Fisheries Limited to Te Ohu Kai Moana Trustee Limited.
+(3) Income shares issued to Te Ohu Kai Moana Trustee Limited under this clause are subject to the following (when in force):
+  (a) clause 2 (shares in Aotearoa Fisheries Limited):
+  (b) clause 3 (allocation and transfer of shares held by Te Ohu Kai Moana Trustee Limited).
 
 ## Schedule 1 — Quota shares
 
