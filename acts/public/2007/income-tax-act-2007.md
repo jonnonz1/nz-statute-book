@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2024-07-31_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -8960,7 +8960,7 @@ Definition of items in formula
 ### DH 11 Denied amounts: treatment upon disposal of disallowed residential property
 Disposal subject to section CB 6A: denied amount included as cost
 (1) An amount that relates to disallowed residential property and is denied under section DH 8 as a deduction that would have otherwise been allowed for a person is treated under section DB 23 (Cost of revenue account property) as a cost for the person of the disallowed residential property in the income year of the disposal of the disallowed residential property if the amount derived from the disposal is income under section CB 6A (Disposal within 2 years: bright-line test for residential land).
-Disposal not subject to section CB 6A : denied amount allocated under section EL 4 or EL 7
+Disposal not subject to section CB 6A: denied amount allocated under section EL 4 or EL 7
 (2) An amount that relates to disallowed residential property and is denied under section DH 8 as a deduction that would have otherwise been allowed for a person is allowed under this section as a deduction in the income year of the disposal of the disallowed residential property, and is subject to allocation under subpart EL (Allocation of deductions for excess residential land expenditure), if the disallowed residential property is or was residential rental property for purposes of subpart EL and the amount derived from the disposal of the disallowed residential property—
   (a) is income under a section other than section CB 6A; and
   (b) is not income under section CB 6A.
@@ -33029,7 +33029,7 @@ Definition of items in formula
 Person's credit
 (4) Person's credit is, if the person's net income for the tax year is equal to or more than $24,000, $520. Otherwise it is zero.
 Full year abatement
-(5) Full year abatement is, if the person's net income is greater than $44,000 for the tax year, 13 cents for each complete dollar of the excess.
+(5) Full year abatement is, if the person's net income is greater than $66,000 for the tax year, 13 cents for each complete dollar of the excess.
 Credit period months
 (6) Credit period months is the number of whole months in the credit period.
 
@@ -35030,7 +35030,7 @@ Formula
 (2) The formula is—(amount A + amount B × (children − 3)) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) amount A is $3,770:
+  (a) amount A is $5,070:
   (b) amount B is $780:
   (c) children is the greater of—
     (i) 3; and
@@ -35172,7 +35172,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $35,204:
+  (a) prescribed amount is $35,316:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -48661,7 +48661,7 @@ For the purposes of section RD 67(a), the amount of tax is determined by applyin
 [Repealed]
 
 ### 3 Interest: general
-If clause 4 does not apply, the payment rate for a payment of resident passive income that consists of interest is set out in table 2. Table 2The following table is medium in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Conditions. Column 3 is headed Payment rate.RowConditionsPayment rate1The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.4502The payer of the interest—(a) has been supplied with the tax file number of a person; and(b)has not received a payment rate election from the recipient of the interest; and(c)is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994.0.3303The payer of the interest—(a) has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest choosing the 0.390 payment rate.0.3904The payer of the interest—(a) has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest choosing the 0.330 payment rate.0.3305The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest choosing the 0.300 payment rate.0.3006The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest choosing the 0.175 payment rate.0.1757The payer of the interest—(a)has been supplied with the tax file number of a person, other than a trustee, who is paid the interest; and (b) has received a payment rate election from the recipient of the interest choosing the 0.105 payment rate; and(c)the recipient has a reasonable expectation at the time of the election that their income for the income year will be $14,000 or less.0.1058The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest as a trustee of a testamentary trust to which section HC 37 applies; and(b)has received a payment rate election from the recipient of the interest choosing the 0.105 payment rate.0.105 How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
+If clause 4 does not apply, the payment rate for a payment of resident passive income that consists of interest is set out in table 2. Table 2The following table is medium in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Conditions. Column 3 is headed Payment rate.RowConditionsPayment rate1The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.4502The payer of the interest—(a) has been supplied with the tax file number of a person; and(b)has not received a payment rate election from the recipient of the interest; and(c)is not required to use a rate notified by the Commissioner under section 26B of the Tax Administration Act 1994.0.3303The payer of the interest—(a) has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest choosing the 0.390 payment rate.0.3904The payer of the interest—(a) has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest choosing the 0.330 payment rate.0.3305The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest choosing the 0.300 payment rate.0.3006The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest choosing the 0.175 payment rate.0.1757The payer of the interest—(a)has been supplied with the tax file number of a person, other than a trustee, who is paid the interest; and (b) has received a payment rate election from the recipient of the interest choosing the 0.105 payment rate; and(c)the recipient has a reasonable expectation at the time of the election that their income for the income year will be $15,600 or less.0.1058The payer of the interest—(a)has been supplied with the tax file number of a person who is paid the interest as a trustee of a testamentary trust to which section HC 37 applies; and(b)has received a payment rate election from the recipient of the interest choosing the 0.105 payment rate.0.105 How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
 
 ### 4 Interest: most companies
 (1) The payment rate for a payment of resident passive income that consists of interest is set out in table 3 if the recipient of the payment is a company that is not a Maori authority.
