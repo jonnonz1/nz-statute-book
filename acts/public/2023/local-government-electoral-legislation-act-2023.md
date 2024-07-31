@@ -1,5 +1,5 @@
 # Local Government Electoral Legislation Act 2023
-_Consolidation as at 2023-08-30_
+_Consolidation as at 2024-07-31_
 
 ### 1 Title
 This Act is the Local Government Electoral Legislation Act 2023.
@@ -7,9 +7,7 @@ This Act is the Local Government Electoral Legislation Act 2023.
 ### 2 Commencement
 (1) Except as provided in subsections (2) and (3), this Act comes into force on the day after the date on which it receives the Royal assent.
 (2) Section 49(6) (which relates to local government members attending meetings remotely counting as present) comes into force on 1 October 2024.
-(3) The following provisions (which relate to Māori representation in local government) come into force on 12 October 2025:
-  (a) sections 4(2), 5 to 10, 12(2) and (5), 13(2), 19(1) and (2), 20 to 23, 36(1) and (2), and 37(1), (3), (5), (6), and (8):
-  (b) section 38, but only for the purpose of giving effect to the item in Part 1 of Schedule 2 relating to the Canterbury Regional Council (Ngāi Tahu Representation) Act 2022.
+(3)
 
 ## Part 1 — Amendments to Local Electoral Act 2001
 
@@ -30,59 +28,25 @@ This Part amends the Local Electoral Act 2001.
         (B) named on the dormant rolls for Māori electoral districts or General electoral districts; and
     (b) by applying the proportion ascertained under paragraph (a) to the total number of ordinarily resident Māori persons on the assessment date
   - **unitary authority** has the meaning given in section 5(1) of the Local Government Act 2002
-(2) In section 5(1), insert in its appropriate alphabetical order:
-  - **specific Māori representation** , in relation to the representation arrangements for a territorial authority or regional council, means 1 or more members of the territorial authority (other than the mayor) or regional council elected only by electors who are parliamentary electors of a Māori electoral district
+(2)
 
 ### 5 Section 9 amended (Holding of referendum)
-Replace section 9(7)﻿(a) with:
-  (a) in the case of any matter or proposal relating to a review of representation arrangements for the territorial authority or the regional council under section 19GA, 19H, 19I, or 19J; or
+[Repealed]
 
 ### 6 Section 19C amended (Basis of election of members of territorial authority)
-After section 19C(5), insert:
-  (6) If, for the purpose of a triennial general election, the district of a territorial authority is required by a resolution made under section 19H to be divided into 1 or more Māori wards, this Part (other than sections 19B, 19G, and 19J) is subject to Schedule 1A.
+[Repealed]
 
 ### 7 Section 19E amended (Basis of election of members of regional council)
-After section 19E(5), insert:
-  (6) If, for the purpose of a triennial general election, the region of a regional council is required by a resolution made under section 19I to be divided into 1 or more Māori constituencies, this Part (other than sections 19B, 19G, and 19J) is subject to Schedule 1A.
+[Repealed]
 
 ### 8 New sections 19GA and 19GB inserted
-After section 19G, insert:Review of specific Māori representation for elections of territorial authorities and regional councilsEffect of resolution relating to specific Māori representation
-  (1) Subsection (2) applies if, for the previous 2 triennial general elections, the district of a territorial authority or the region of a regional council was not divided into 1 or more Māori wards or Māori constituencies for electoral purposes.
-  (2) The territorial authority or regional council must, before making a determination under section 19H or 19I, determine by resolution whether the representation arrangements for the territorial authority or the regional council should include specific Māori representation.
-  (3) Subsection (4) applies if, for the previous 2 triennial general elections, the district of a territorial authority or the region of a regional council was divided into 1 or more Māori wards or Māori constituencies for electoral purposes.
-  (4) The territorial authority or regional council may, before making a determination under section 19H or 19I, determine by resolution whether the representation arrangements for the territorial authority or regional council should include specific Māori representation.
-  (5) Before making a determination under subsection (2) or (4), the territorial authority or regional council must—
-    (a) engage with Māori and other communities (as the term communities is used in Part 6 of the Local Government Act 2002) in the district or region under subpart 1 of Part 6 of the Local Government Act 2002 in relation to the determination; and
-    (b) have regard to their views on whether the representation arrangements for the territorial authority or regional council should include specific Māori representation.
-  (6) Any determination under subsection (2) or (4) must be made by the territorial authority or regional council no later than 20 December of the year that is 2 years before the next triennial general election.
-  (7) The territorial authority or regional council must, within 14 days after making a resolution under this section, give public notice of the resolution.
-  (8) This section does not apply to a territorial authority or a regional council if another enactment requires that the district or region be divided into 1 or more Māori wards or Māori constituencies.
-  (1) Subsection (2) applies if, before a territorial authority or regional council makes a determination under section 19H or 19I (a representation arrangements determination),—
-    (a) it determines under section 19GA(2) or (4) that its representation arrangements should include specific Māori representation; or
-    (b) it does not make a determination under section 19GA(2) or (4) but its existing representation arrangements include specific Māori representation.
-  (2) The representation arrangements determination must include,—
-    (a) in the case of a territorial authority, a proposal to divide (or to continue to divide) the district of the authority into 1 or more Māori wards and 1 or more general wards; and
-    (b) in the case of a regional council, a proposal to divide (or to continue to divide) the region of the council into 1 or more Māori constituencies and 1 or more general constituencies; and
-    (c) a proposed number of members of the territorial authority or regional council that is not less than the number required to ensure that the number of Māori ward members or Māori constituency members calculated under clause 2 or 4 of Schedule 1A is 1 or more.
-  (3) Subsection (4) applies if, before a territorial authority or regional council makes a representation determination,—
-    (a) it determines under section 19GA(2) or (4) that its representation arrangements should not include specific Māori representation; or
-    (b) it does not make a determination under section 19GA(2) or (4) but its existing representation arrangements do not include specific Māori representation.
-  (4) The representation arrangements determination must not include a proposal to divide (or to continue to divide) the district or region into 1 or more Māori wards or Māori constituencies.
-  (5) This section is subject to any other enactment requiring a district or region to be divided into 1 or more Māori wards or Māori constituencies.
+[Repealed]
 
 ### 9 Section 19H amended (Review of representation arrangements for elections of territorial authorities)
-(1) After section 19H(1), insert:
-  (1A) If a territorial authority has resolved under section 19GA that representation arrangements should include specific Māori representation, the matters described in clause 1(2)﻿(a) to (g) of Schedule 1A must be determined instead of the matters described in subsection (1)﻿(a) to (d).
-(2) Replace section 19H(2)﻿(b) with:
-  (b) on subsequent occasions, by the end of the period of 6 years beginning with the 1 August immediately following the making of the previous determination.
-(3) In section 19H(3), replace section 19ZH with section 19C(6).
+[Repealed]
 
 ### 10 Section 19I amended (Review of representation arrangements for elections of regional councils)
-(1) After section 19I(1), insert:
-  (1A) If a regional council has resolved under section 19GA that representation arrangements should include specific Māori representation, the matters described in clause 3(2)﻿(a) to (f) of Schedule 1A must be determined instead of the matters described in subsection (1)﻿(b) and (c).
-(2) Replace section 19I(2)﻿(b) with:
-  (b) on subsequent occasions, by the end of the period of 6 years beginning with the 1 August immediately following the making of the previous determination.
-(3) In section 19I(3), replace section 19ZH with section 19E(6).
+[Repealed]
 
 ### 11 New section 19JAA inserted (Review of local board area boundaries by unitary authority)
 After section 19J, insert:Review of local board area boundaries by unitary authority
@@ -105,14 +69,7 @@ After section 19J, insert:Review of local board area boundaries by unitary autho
 ### 12 Section 19K amended (Requirements for resolution)
 (1) Replace section 19K(1AA) with:
   (1AA) A resolution under section 19H, 19I, 19J, or 19JAA that affects the next triennial general election of members of a territorial authority, regional council, local board, or community board must be passed no earlier than 20 December of the year that is 2 years before the year of the election and no later than 31 July of the year that is immediately before the year of the election.
-(2) Replace section 19K(1AA) with:
-  (1AA) A resolution under section 19H, 19I, 19J, or 19JAA that affects the next triennial general election of members of a territorial authority, regional council, local board, or community board must be passed—
-    (a) no earlier than 20 December of the year that is 2 years before the year of the election and no later than 31 July of the year that is immediately before the year of the election if—
-      (i) the district of the territorial authority or region of the regional council is already divided into 1 or more Māori wards or Māori constituencies and 1 or more general wards or general constituencies; or
-      (ii) the territorial authority or regional council has resolved under section 19GA that representation arrangements should not include specific Māori representation; or
-    (b) after public notice of the resolution under section 19GA has been given and no later than 31 July of the year that is immediately before the year of the election if—
-      (i) the district of the territorial authority or region of the regional council is not already divided into 1 or more Māori wards or Māori constituencies and 1 or more general wards or general constituencies; and
-      (ii) the territorial authority or regional council has resolved under section 19GA that representation arrangements should include specific Māori representation.
+(2)
 (3) In section 19K(2), replace If any resolution under section 19H or section 19I or section 19J proposes any change to the basis of election, membership, or ward, constituency, community, or subdivision boundaries with If any resolution under section 19H, 19I, 19J, or 19JAA proposes any change to the basis of election, membership, or boundaries of wards, constituencies, communities, local board areas, or subdivisions of local board areas.
 (4) Replace section 19K(3) with:
   (3) Subsection (1) applies to every resolution under any of the following provisions:
@@ -120,13 +77,11 @@ After section 19J, insert:Review of local board area boundaries by unitary autho
     (b) section 19I(1):
     (c) section 19J(2)﻿(a) to (e) or (h)﻿(iii):
     (d) section 19JAA(1).
-(5) After section 19K(3)﻿(d), insert:
-  (e) clause 1(2)﻿(a) to (g) of Schedule 1A:
-  (f) clause 3(2)﻿(a) to (f) of Schedule 1A.
+(5)
 
 ### 13 Section 19L amended (Distribution of copies of resolution)
 (1) In section 19L, replace section 19H or section 19I or section 19J with section 19H, 19I, 19J, or 19JAA.
-(2) In section 19L, replace section 19H with section 19GA, 19H.
+(2)
 
 ### 14 Section 19M amended (Public notice of proposals and responsibilities in relation to submissions)
 In section 19M(1),—
@@ -149,23 +104,22 @@ In section 19P(1), replace section 19H or section 19I or section 19J with sectio
 (2) In section 19Q(a) and (c), replace section 19H or section 19I or section 19J with section 19H, 19I, 19J, or 19JAA in each place.
 
 ### 19 Section 19R amended (Commission to determine appeals and objections)
-(1) In section 19R(1)﻿(b)﻿(i), after the matters specified in that section, insert and, if applicable, clause 1(2) of Schedule 1A.
-(2) In section 19R(1)﻿(b)﻿(ii), after the matters specified in that section, insert and, if applicable, clause 3(2) of Schedule 1A.
+(1)
+(2)
 (3) After section 19R(1)﻿(b)﻿(iii), insert:
   (iv) in the case of a unitary authority that has made a resolution under section 19JAA, the matters specified in that section.
 
 ### 20 Section 19T amended (Requirement for effective representation and other factors in determination of membership and basis of election of territorial authorities and local boards)
-(1) In section 19T(1), replace paragraphs (a) to (d) of section 19H(1) with section 19H(1)﻿(a) to (d) or clause 1(2)﻿(a) to (g) of Schedule 1A.
-(2) In section 19T(1)﻿(a), replace subparagraphs (i) to (iii) of section 19H(1)﻿(a) with section 19H(1)﻿(a)﻿(i) to (iii) or clause 1(2)﻿(b)﻿(i) and (ii) of Schedule 1A.
+[Repealed]
 
 ### 21 Section 19U amended (Requirement for effective representation and other factors in determination of membership and basis of election of regional council)
-In section 19U, replace paragraphs (a) to (c) of section 19I(1) with section 19I(1)﻿(a) to (c) or clause 3(2)﻿(a) to (f) of Schedule 1A.
+[Repealed]
 
 ### 22 Section 19Z and cross-heading repealed
-Repeal section 19Z and the cross-heading above section 19Z.
+[Repealed]
 
 ### 23 Section 19ZH repealed (Basis of election of territorial authority and regional council)
-Repeal section 19ZH.
+[Repealed]
 
 ### 24 Section 28 amended (Public notice of right to demand poll on electoral system)
 In section 28(2A), replace 21 May with 14 March.
@@ -229,26 +183,23 @@ After section 92, insert:Costs of recountAffected candidate may withdraw if vote
 In section 148, replace the compare note with:1976 No 144 s 122; 1997 No 13 s 63
 
 ### 36 Schedule 1 amended
-(1) In Schedule 1, clause 2(3)﻿(b), replace under section 19Z takes effect with under section 19H or 19I relating to the division of the district or region into 1 or more Māori wards or Māori constituencies takes effect.
-(2) In Schedule 1, replace clause 2(5) with:
-  (5) In this clause, associated election has the same meaning as in section 19Z(5) (as it was immediately before its repeal by section 22 of the Local Government Electoral Legislation Act 2023).
+(1)
+(2)
 (3) In Schedule 1,—
   (a) insert the Part set out in Schedule 1 of this Act as the last Part; and
   (b) make all necessary consequential amendments.
 
 ### 37 Schedule 1A amended
-(1) In the Schedule 1A heading, replace s 19ZH with ss 19C(6), 19E(6).
+(1)
 (2) In Schedule 1A, clauses 1(1) and 3(1), replace 31 August with 31 July.
-(3) In Schedule 1A, clause 1(2), replace must be made as if the territorial authority were required by section 19H to determine by resolution, in accordance with Part 1A, with must include.
+(3)
 (4) In Schedule 1A, clauses 2(1) and 4(1), formulas,—
   (a) after Māori electoral population, insert or estimated Māori electoral population; and
   (b) after general electoral population, insert or estimated general electoral population.
-(5) In Schedule 1A, replace clause 2(5) with:
-  (5) Subclauses (1) and (2) are subject to section 19GB(2)﻿(c).
-(6) In Schedule 1A, clause 3(2), replace must be made as if the regional council were required by section 19I to determine by resolution, in accordance with Part 1A, with must include.
+(5)
+(6)
 (7) In Schedule 1A, clause 6(a)﻿(i) and (ii), after Māori electoral population, insert or estimated Māori electoral population.
-(8) In Schedule 1A, replace clause 4(4) with:
-  (4) Subclause (1) is subject to section 19GB(2)﻿(c).
+(8)
 (9) In Schedule 1A, clause 6(b)﻿(ii), delete and tribal affiliations.
 (10) In Schedule 1A, after clause 6(b)﻿(ii), insert:
   (iii) rohe of iwi and hapū.
