@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2024-07-31_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -10113,7 +10113,7 @@ The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue 
 (1) If an employee is no longer entitled to use a particular tax code, they must notify their employer within 4 days after the date on which they become aware that they are no longer entitled to use the code. The employee must give the reason why the tax code no longer applies and the date on which their entitlement to use the tax code ended.
 (2) The tax code does not apply to a PAYE income payment made to the employee after the date on which the entitlement ends, unless the payment is salary or wages for a current pay period.
 (3) For the purposes of subclause (1), if the employee notifies the Commissioner that their entitlement has ended, they must similarly provide the reason and the date described in that subclause to the Commissioner.
-(4) If an employer has not received notice that the employee’s entitlement to use the tax code has ended, the employer is not required to change the amount of tax withheld from a payment made to an employee. Tax code tableThe following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Tax Code. Column 3 is headed Circumstances for use of tax code.RowTax codeCircumstances for use of tax code1Mfor primary employment earnings when the employee is not entitled to a tax credit under section LC 13 of the Income Tax Act 20072MEfor primary employment earnings when the employee is entitled to a tax credit under section LC 13 of the Income Tax Act 20073SBfor secondary employment earnings for an employee whose total PAYE income payments are not more than $14,0004Sfor secondary employment earnings for an employee whose total PAYE income payments are more than $14,000 but not more than $48,0005SHfor secondary employment earnings for an employee whose total PAYE income payments are more than $48,000 but not more than $70,0006STfor secondary employment earnings for an employee whose total PAYE income payments are more than $70,000 but not more than $180,0006BSAfor secondary employment earnings for an employee whose total PAYE income payments are more than $180,0007CAEfor salary or wages for employment as a casual agricultural employee8EDWfor salary or wages for employment as an election day worker9NSWfor salary or wages for employment as a non-resident seasonal worker
+(4) If an employer has not received notice that the employee’s entitlement to use the tax code has ended, the employer is not required to change the amount of tax withheld from a payment made to an employee. Tax code tableThe following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Tax Code. Column 3 is headed Circumstances for use of tax code.RowTax codeCircumstances for use of tax code1Mfor primary employment earnings when the employee is not entitled to a tax credit under section LC 13 of the Income Tax Act 20072MEfor primary employment earnings when the employee is entitled to a tax credit under section LC 13 of the Income Tax Act 20073SBfor secondary employment earnings for an employee whose total PAYE income payments are not more than $15,6004Sfor secondary employment earnings for an employee whose total PAYE income payments are more than $15,600 but not more than $53,5005SHfor secondary employment earnings for an employee whose total PAYE income payments are more than $53,500 but not more than $78,1006STfor secondary employment earnings for an employee whose total PAYE income payments are more than $78,100 but not more than $180,0006BSAfor secondary employment earnings for an employee whose total PAYE income payments are more than $180,0007CAEfor salary or wages for employment as a casual agricultural employee8EDWfor salary or wages for employment as an election day worker9NSWfor salary or wages for employment as a non-resident seasonal worker
 
 ### Part B — Special and particular tax codes
 
@@ -10821,10 +10821,10 @@ Subject to clause 2, the Commissioner must write off the following amounts under
     (iii) an amount of salary or wages from employment as a casual agricultural employee, when the individual has used the CAE code:
   (e) an amount of a benefit under an employee share agreement in relation to which an employer has not made an election under section RD 7B of the Income Tax Act 2007 to withhold tax.
 (4) For the purposes of subclause (3), the correct rate is—
-  (a) 0.105, if the individual’s annual gross income is $14,000 or less; or
-  (b) 0.175, if the individual’s annual gross income is more than $14,000 and not more than $48,000; or
-  (c) 0.300, if the individual’s annual gross income is more than $48,000 and not more than $70,000; or
-  (d) 0.330, if the individual’s annual gross income is more than $70,000.
+  (a) 0.105, if the individual’s annual gross income is $15,600 or less; or
+  (b) 0.175, if the individual’s annual gross income is more than $15,600 and not more than $53,500; or
+  (c) 0.300, if the individual’s annual gross income is more than $53,500 and not more than $78,100; or
+  (d) 0.330, if the individual’s annual gross income is more than $78,100.
 
 ### 3 Small amounts of tax payable
 Despite clause 2, the Commissioner may write off an amount of tax under section 22J if the amount is not substantial and represents an underpayment of tax that is attributable to a function or operation of the tax collection rules.
