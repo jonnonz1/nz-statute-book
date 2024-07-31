@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-07-31_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -2464,6 +2464,305 @@ In this Part,—
 The amendments made by sections 30 to 34 of the amendment Act apply in respect of an election if—
   (a) the electoral officer has given public notice of the election before the commencement date and nominations for the election close after the commencement date; or
   (b) on or after the commencement date, the electoral officer gives public notice under section 52, or fresh public notice under section 120(3), of the election.
+
+### Part 3 — Provisions relating to Local Government (Electoral Legislation and Māori Wards and Māori Constituencies) Amendment Act 2024
+
+### 10 Interpretation
+(1) In this Part, unless the context otherwise requires,—
+  - **amendment Act** means the Local Government (Electoral Legislation and Māori Wards and Māori Constituencies) Amendment Act 2024
+  - **associated election** has the same meaning as in section 19Z
+  - **commencement date** means the date on which section 17 of the amendment Act comes into force
+  - **group 1 local authority** means a territorial authority or regional council named in the first column of the table in subclause (2)
+  - **group 2 local authority** means a territorial authority or regional council named in the second column of the table in subclause (2)
+  - **transition period** means the period starting on the commencement date and ending on 6 September 2024.
+(2) The following table is small in size and has 2 columns. Column 1 is headed Group 1 local authorities. Column 2 is headed Group 2 local authorities.Group 1 local authoritiesGroup 2 local authoritiesFar North District Council Central Hawke’s Bay District CouncilGisborne District CouncilHauraki District CouncilHamilton City CouncilHutt City CouncilHastings District CouncilKapiti Coast District CouncilHawke’s Bay Regional CouncilKawerau District CouncilHorowhenua District CouncilNapier City CouncilKaipara District CouncilSouth Wairarapa District CouncilManawatu District CouncilTasman District CouncilManawatū-Whanganui Regional CouncilThames-Coromandel District CouncilMarlborough District CouncilUpper Hutt City CouncilMasterton District CouncilWellington Regional CouncilMatamata-Piako District CouncilWestern Bay of Plenty District CouncilNelson City CouncilWhanganui District CouncilNew Plymouth District CouncilNorthland Regional CouncilŌtorohanga District CouncilPalmerston North City CouncilPorirua City CouncilRangitikei District CouncilRotorua District CouncilRuapehu District CouncilSouth Taranaki District CouncilStratford District CouncilTaranaki Regional CouncilTararua District CouncilTaupo District CouncilTauranga City CouncilWaikato District CouncilWaipa District CouncilWellington City CouncilWhakatane District CouncilWhangarei District Council
+
+**Provisions relating to group 1 local authorities**
+
+### 11 Group 1 local authority must resolve to retain or resolve to disestablish Māori wards or Māori constituencies
+(1) This clause applies to a group 1 local authority.
+(2) A group 1 local authority must, by 6 September 2024,—
+  (a) resolve to retain the 1 or more Māori wards or Māori constituencies it has established for electoral purposes since 2020; or
+  (b) resolve to disestablish the 1 or more Māori wards or Māori constituencies it has established for electoral purposes since 2020.
+(3) A resolution under subclause (2)﻿(b) takes effect for the 2025 and 2028 triennial general elections of the local authority, and for any associated election, and continues in effect until—
+  (a) a resolution under section 19Z takes effect; or
+  (b) a poll of electors of the territorial authority or regional council held under section 19ZF takes effect.
+(4) See clause 39 concerning the requirement for a group 1 local authority to hold a binding poll if it resolves under subclause (2)﻿(a) to retain the 1 or more Māori wards or Māori constituencies it has established.
+
+### 12 Special consultative procedure does not apply to resolution
+A group 1 local authority is not required to use or adopt the special consultative procedure under section 83 of the Local Government Act 2002 in respect of a proposed resolution under clause 11(2)﻿(a) or (b).
+
+### 13 Effect of resolution to disestablish
+(1) A resolution of a group 1 local authority to disestablish its 1 or more Māori wards or Māori constituencies under clause 11(2)﻿(b) does not affect—
+  (a) any decision of the local authority made after the local authority’s resolution under section 19Z to establish those Māori wards or Māori constituencies; or
+  (b) any elections held after the resolution referred to in paragraph (a) and before the commencement date.
+(2) Subclause (1) is subject to subclause (3).
+(3) If a group 1 local authority resolves to disestablish its 1 or more Māori wards or Māori constituencies under clause 11(2)﻿(b),—
+  (a) any determination of the group 1 local authority made by resolution under section 19H, 19I, or 19J in the term commencing after the 2022 triennial general election has no effect (and, accordingly, the authority has no obligation to take any further action in respect of the determination under the provisions of Part 1A of this Act); and
+  (b) any proceedings before the Local Government Commission under section 19R relating to a determination referred to in paragraph (a) also come to an end and the Commission is not required to take any further action in respect of the determination.
+(4) Subclause (3) applies regardless of whether public notice of the proposal contained in the resolution under section 19H, 19I, or 19J has been published under section 19M or 19N.
+
+### 14 Local authority resolving to disestablish Māori wards or Māori constituencies must decide how representation arrangements for 2025 election to be set
+(1) A group 1 local authority that resolves to disestablish its 1 or more Māori wards or Māori constituencies under clause 11(2)﻿(b) must, by 6 September 2024, determine how its representation arrangements for the 2025 triennial general election will be set.
+(2) For the purposes of subclause (1), the local authority may—
+  (a) resolve to revert to its representation arrangements that applied at the 2019 triennial general elections (pre-2020 representation arrangements), if the requirements in clause 15 are satisfied; or
+  (b) resolve to undertake, in 2024, a shortened review of its representation arrangements for elections in accordance with sections 19H to 19Q and 19T to 19Y, as modified by clauses 21 to 28.
+(3) A group 1 local authority must undertake a shortened review of its representation arrangements for elections, in 2024, if the requirements in clause 15 are not satisfied (see clauses 21 to 28).
+(4) To avoid doubt, sections 19R and 19S continue to apply in relation to a shortened review of representation arrangements that a local authority resolves, or is required, to undertake under subclause (2)﻿(b) or (3).
+
+### 15 Requirements to be satisfied for local authority to revert to pre-2020 representation arrangements
+(1) A group 1 local authority may resolve under clause 14(2)﻿(a) to revert to its pre-2020 representation arrangements only if the arrangements will provide fair and effective representation of communities of interest in accordance with sections 19T to 19W.
+(2) The local authority must, before passing a resolution referred to in subclause (1),—
+  (a) request 2023 population estimates from Statistics New Zealand on the ordinarily resident population of any region, district, local board area, constituency, ward, community, or subdivision that is included in the pre-2020 representation arrangements; and
+  (b) provide to Statistics New Zealand such information that it may require concerning the definition of any area to which any of the estimates referred to in paragraph (a) are to relate; and
+  (c) table the following at the meeting at which the resolution is to be considered:
+    (i) the 2023 population estimates:
+    (ii) an explanation of how the requirements for fair and effective representation of communities of interest in accordance with sections 19T to 19W will be met if the local authority reverts to the pre-2020 representation arrangements:
+    (iii) a statement from the Local Government Commission on the consistency of the pre-2020 representation arrangements with section 19V(2), taking into account the 2023 population estimates.
+(3) For the purposes of considering the fair and effective representation of communities of interest in accordance with sections 19T to 19W, if an exception from compliance under section 19V(3) has been upheld on a determination by the Local Government Commission under section 19V(6) relating to specific wards, constituencies, or subdivisions in the local authority’s pre-2020 representation arrangements, that exception continues to apply and the local authority is not required to refer the relevant decision to the Commission under section 19V(4).
+
+### 16 Objections process does not apply to resolution to revert to pre-2020 representation arrangements
+Section 19P does not apply in respect of a resolution made by a group 1 local authority under clause 14(2)﻿(a).
+
+### 17 Adjustments to boundaries by group 1 local authority
+(1) This clause applies to a group 1 local authority that resolves under clause 14(2)﻿(a) to revert to its pre-2020 representation arrangements.
+(2) The group 1 local authority must seek and consider advice from Statistics New Zealand as to any adjustments that Statistics New Zealand has made to the boundaries of relevant statistical meshblock areas since—
+  (a) notice of a Local Government Commission determination was given under section 19S(1); or
+  (b) public notice of the proposed pre-2020 arrangements was given under section 19M, if there were no submissions on the proposal; or
+  (c) public notice of the pre-2020 arrangements was given under section 19N(1), if there were no appeals or objections made to the Local Government Commission.
+(3) The group 1 local authority must determine by resolution any necessary adjustments to be made to the boundaries of any ward, constituency, community, or subdivision to ensure that they coincide with the boundaries of the current statistical meshblock areas determined by Statistics New Zealand.
+
+### 18 Local authority must notify resolution to revert to pre-2020 representation arrangements
+A group 1 local authority that resolves under clause 14(2)﻿(a) to revert to its pre-2020 representation arrangements must—
+  (a) give public notice of the resolution, including the following information for the next triennial general election:
+    (i) the number of elected positions the local authority will have:
+    (ii) the number of appointed positions for community boards (if any):
+    (iii) the number, names, and boundaries of wards (if any) or constituencies, communities (if any), and subdivisions (if any) and the number of members to be elected to each:
+    (iv) whether any adjustments have been made by Statistics New Zealand to the meshblocks aligning with the ward, constituency, community, or subdivision boundaries used for the 2019 or 2016 triennial general elections and whether adjustments have been made to boundaries under clause 17; and
+  (b) as soon as practicable, send a copy of the notice to the following:
+    (i) the Local Government Commission:
+    (ii) the Surveyor-General:
+    (iii) the Government Statistician:
+    (iv) the Remuneration Authority:
+    (v) such other local authorities as may be required under section 19Y(2)﻿(b) and (c); and
+  (c) provide to the Surveyor-General—
+    (i) a copy of the plans for the arrangements they are reverting to; or
+    (ii) in a case where minor changes have been made to boundaries in accordance with clause 17, new plans for the arrangements incorporating those changes.
+
+### 19 When notified basis for election for next triennial election has effect
+(1) If a group 1 local authority has, under clause 18, given public notice of the basis of election for the next triennial election of the local authority, no such basis has effect unless—
+  (a) a description or plan of each ward or constituency or community or subdivision has been sent to the Surveyor-General; and
+  (b) the Surveyor-General, or a person appointed by the Surveyor-General, certifies that the description or plan is sufficient to render the boundaries of each ward or constituency or community or subdivision capable of identification.
+(2) If the description of any ward or constituency or community or subdivision to which subclause (1) applies is defective, but the Surveyor-General, or a person appointed by the Surveyor-General, certifies that it can be amended and the defect overcome without making any change in what was evidently intended to be the area comprised in the description, the description—
+  (a) may be so amended by resolution; and
+  (b) if so amended, has effect as if the provisions of subclause (1) had been complied with.
+
+### 20 Group 1 local authority reverting to pre-2020 electoral arrangements: representation review after 2025 triennial general elections
+A group 1 local authority that resolves to disestablish its Māori wards or Māori constituencies and revert to its pre-2020 electoral arrangements must complete its next representation review in the 2025 to 2028 local government term.
+
+**Shortened representation review process**
+
+### 21 Application of clauses 22 to 28
+Clauses 22 to 28 apply to a group 1 local authority that resolves under clause 11(2)﻿(b) to disestablish the 1 or more Māori wards or Māori constituencies it has established since 2020 and—
+  (a) resolves under clause 14(2)﻿(b) to undertake, in 2024, a shortened review of its representation arrangements for the 2025 triennial general election; or
+  (b) is required under clause 14(3) to undertake a shortened review of its representation arrangements for the 2025 triennial general election.
+
+### 22 Requirements for resolution
+Section 19K applies as if, in subsection (1AA), the words “must be passed no earlier than 20 December of the year that is 2 years before the year of the election and no later than 31 July of the year that is immediately before the year of the election” were replaced with “must be passed by 13 September 2024”.
+
+### 23 Public notice of proposals and responsibilities
+Section 19M applies as if,—
+  (a) in subsection (1), the words “must, within 14 days after making the resolution (but, in the year immediately before the year of a triennial general election, not later than 8 August)” were replaced with “must, within 7 days after making the resolution and not later than 20 September 2024”; and
+  (b) in subsection (2)﻿(d), the words “specify a period of not less than 1 month from” were replaced with the words “specify a period that ends not later than 11 October 2024 and that is of not less than 3 weeks from”.
+
+### 24 Response to submissions
+Section 19N applies as if, in subsection (1), the words “must, within 8 weeks after the end of the period allowed for the making of submissions and specified in the notice given under section 19M” were replaced with “must, within 6 weeks after the end of the period allowed for the making of submissions and specified in the notice given under section 19M”.
+
+### 25 Appeals
+Section 19O applies as if,—
+  (a) in subsection (2)﻿(a), the words “must not be earlier than 1 month” were replaced with “must not be earlier than 3 weeks”; and
+  (b) the words in subsection (2)﻿(b) were replaced with “must not, in the year before the 2025 triennial general election, be later than 13 December 2024”.
+
+### 26 Obligation to forward appeals and objections to Commission
+Section 19Q applies as if the reference to “20 December,” were replaced with “23 December 2024,”.
+
+### 27 Commission to determine appeals and objections
+Section 19R applies as if, in subsection (3), the words “before 11 April in the year of a triennial general election” were replaced with “before 11 April 2025”.
+
+### 28 Group 1 local authority completing shortened representation review process: representation review after 2025 triennial general election
+A group 1 local authority that completes a shortened review process must undertake its next review of representation arrangements in accordance with the requirement in section 19H(2)﻿(b) or 19I(2)﻿(b) (whichever applies).
+
+**Provisions relating to group 2 local authorities**
+
+### 29 Group 2 local authority must resolve to affirm or resolve to rescind resolution to establish Māori wards or Māori constituencies
+(1) A group 2 local authority must, by 6 September 2024,—
+  (a) resolve to affirm its resolution to establish 1 or more Māori wards or Māori constituencies for the purposes of the 2025 triennial general election; or
+  (b) resolve to rescind its resolution to establish 1 or more Māori wards or Māori constituencies for the purposes of the 2025 triennial general election.
+(2) See clause 39 concerning the requirement for a group 2 local authority to hold a binding poll if it resolves under subclause (1)﻿(a) to affirm its resolution to establish 1 or more Māori wards or Māori constituencies for the 2025 triennial general election.
+
+### 30 Special consultative procedure does not apply to resolution
+A group 2 local authority is not required to use or adopt the special consultative procedure under section 83 of the Local Government Act 2002 in respect of a proposed resolution under clause 29(1)﻿(a) or (b).
+
+### 31 Effect of resolution to rescind
+(1) If a group 2 local authority passes a resolution under clause 29(1)﻿(b) to rescind its resolution to establish 1 or more Māori wards or Māori constituencies for the 2025 triennial general election, any determination of the group 2 local authority made by resolution under section 19H, 19I, or 19J in the term commencing after the 2022 triennial general election has no effect (and, accordingly, the authority has no obligation to take any further action in respect of the determination under Part 1A of this Act).
+(2) Subclause (1) applies regardless of whether public notice of the proposal has been published under section 19M or 19N of this Act.
+
+### 32 Group 2 local authority rescinding resolution to establish Māori wards or Māori constituencies must decide how representation arrangements for 2025 triennial general election to be set
+A group 2 local authority that resolves under clause 29(1)﻿(b) to rescind its resolution to establish 1 or more Māori wards or Māori constituencies must, by 6 September 2024, determine how its representation arrangements for the 2025 triennial general election will be set.
+
+### 33 Options for representation arrangements for 2025 triennial general election if representation review completed since 2019
+(1) This clause applies to a group 2 local authority if it has completed a representation review since the 2019 triennial general election.
+(2) For the purposes of clause 32, the group 2 local authority is not required to, but may, resolve to complete a shortened representation review process in 2024.
+(3) If the group 2 local authority resolves to complete a shortened representation review process, that process must be completed in accordance with the requirements of clauses 22 to 28 as if the reference to a group 1 local authority were a reference to a group 2 local authority.
+(4) If the group 2 local authority does not resolve to complete a shortened review process in 2024, its existing representation arrangements continue to apply for the 2025 triennial general election in accordance with section 19H(2)﻿(b) or 19I(2)﻿(b) (whichever applies).
+
+### 34 Options for representation arrangements for 2025 triennial general election if no representation review completed since 2019
+(1) This clause applies to a group 2 local authority if it has not completed a representation review since the 2019 triennial general election.
+(2) The group 2 local authority may, for the 2025 triennial general election,—
+  (a) resolve to continue its existing representation arrangements, if the requirements in clause 35 are met; or
+  (b) resolve to undertake, in 2024, a shortened review of its representation arrangements for elections.
+(3) A group 2 local authority must undertake a shortened review of its representation arrangements, in 2024, if the requirements in clause 35 are not met.
+(4) A shortened review process undertaken under subclause (2)﻿(b) or (3) must be completed in accordance with the requirements of clauses 22 to 28 as if the reference to a group 1 local authority were a reference to a group 2 local authority.
+
+### 35 Requirements to be satisfied for group 2 local authority to continue existing representation arrangements
+(1) A group 2 local authority that has not completed a representation review since 2019 may continue its existing representation arrangements only if the arrangements will provide fair and effective representation of communities of interest in accordance with sections 19T to 19W.
+(2) The local authority must, before passing a resolution under clause 34(2)﻿(a) to continue its existing representation arrangements,—
+  (a) request 2023 population estimates from Statistics New Zealand on the ordinarily resident population of any region, district, local board area, constituency, ward, community, or subdivision that is included in the local authority’s existing representation arrangements; and
+  (b) provide to Statistics New Zealand such information as may be required by it concerning the definition of any area to which any of the estimates referred to in paragraph (a) are to relate; and
+  (c) table the following at the meeting at which the resolution is to be considered:
+    (i) the 2023 population estimates:
+    (ii) an explanation of how the fair and effective representation requirements under sections 19T to 19W will be met if the local authority continues its existing representation arrangements:
+    (iii) a statement from the Local Government Commission on the consistency of the existing representation arrangements with section 19V(2), taking into account the 2023 population estimates.
+(3) For the purposes of considering the fair and effective representation of communities of interest in accordance with sections 19T to 19W, if an exception from compliance under section 19V(3) has previously been upheld on a determination by the Local Government Commission under section 19V(6) relating to specific wards, constituencies, or subdivisions in the local authority’s pre-2020 representation arrangements, that exception continues to apply and the local authority is not required to refer the relevant decision to the Commission under section 19V(4).
+
+### 36 Objections process does not apply to resolution to continue existing representation arrangements
+Section 19P does not apply in respect of a resolution made by a group 2 local authority made under clause 34(2)﻿(a).
+
+### 37 Group 2 local authority must notify resolution to continue existing representation arrangements
+(1) A group 2 local authority that resolves under clause 34(2)﻿(a) to continue its existing representation arrangements must—
+  (a) give public notice of the resolution, including the following information for the next triennial general election:
+    (i) the number of elected positions the local authority will have:
+    (ii) the number of appointed positions for community boards (if any):
+    (iii) the number, names, and boundaries of wards (if any) or constituencies, communities (if any), and subdivisions (if any) and the number of members to be elected to each; and
+  (b) as soon as practicable, send a copy of the notice to the following:
+    (i) the Local Government Commission:
+    (ii) the Surveyor-General:
+    (iii) the Government Statistician:
+    (iv) the Remuneration Authority:
+    (v) such other local authorities as may be required under section 19Y(2)﻿(b) and (c).
+(2) If either Western Bay of Plenty District Council or Central Hawke’s Bay District Council gives public notice under subclause (1), the local authority must, in addition, meet the requirements specified in clause 19(1) and (2) as if the reference to a group 1 local authority were a reference to a group 2 local authority.
+
+### 38 Group 2 local authority: representation review after 2025 triennial general election
+(1) A group 2 local authority that has not completed a representation review since the 2019 triennial general election and that resolves under clause 34(2)﻿(a) to continue its existing representation arrangements for the 2025 triennial general election must complete its next representation review in the 2025 to 2028 local government term.
+(2) A group 2 local authority that has completed a representation review since the 2019 triennial general election or that completes a shortened representation review process in accordance with the provisions of this Part must complete its next representation review in accordance with the requirements in section 19H(2)﻿(b) or 19I(2)﻿(b) (whichever applies).
+
+**Conduct of binding polls in conjunction with 2025 triennial general election**
+
+### 39 Local authority resolving to retain, or to affirm resolution to establish, Māori wards or Māori constituencies must conduct binding poll in 2025
+(1) This clause applies to—
+  (a) a group 1 local authority that resolves under clause 11(2)﻿(a) to retain the 1 or more Māori wards or Māori constituencies it has established:
+  (b) a group 2 local authority that resolves under clause 29(1)﻿(a) to affirm its resolution to establish 1 or more Māori wards or Māori constituencies for the 2025 triennial general election.
+(2) A group 1 or group 2 local authority to which this clause applies must hold a poll on the question whether, from the 2028 triennial general election,—
+  (a) in the case of a territorial authority, the district should be divided into 1 or more Māori wards; or
+  (b) in the case of a regional council, the region should be divided into 1 or more Māori constituencies.
+(3) The poll must be conducted using the First Past the Post electoral system.
+(4) The poll must, in each case, be held—
+  (a) in conjunction with the 2025 triennial general election; and
+  (b) in accordance with the provisions of Parts 2, 3, 4, 7, and 8 of this Act that concern the conduct of a poll.
+(5) Every poll held under this Act as required by this clause determines the question referred to in subclause (2)﻿(a) or (b) (whichever applies) for the next 2 triennial general elections for the territorial authority or regional council, and for any associated election, after the 2025 triennial general election.
+
+### 40 Notice of poll must be included in public notice for 2025 triennial general election
+If a local authority is required under clause 39 to hold a poll in conjunction with the 2025 triennial general election, the electoral officer responsible for the conduct of the election must—
+  (a) include public notice of that poll in the notice of the election required to be given under section 52; and
+  (b) conduct the poll in conjunction with the election accordingly.
+
+### 41 Application of limitation on division into Māori wards or Māori constituencies
+Section 19ZE applies as if a poll held under clause 39 on the question specified in clause 39(2) were a poll on a proposal described in section 19ZE(a) held under section 19ZF.
+
+### 42 Review of representation arrangements following conduct of poll
+Poll resulting in “Yes” vote
+(1) Subclauses (2) and (3) apply to a group 1 or group 2 local authority if 50% or more of the valid votes cast in a poll held by the local authority as required by clause 39 are “Yes” votes.
+(2) The local authority must follow the process set out in Schedule 1A of this Act in the 2025 to 2028 electoral term if it has not completed a representation review since the 2022 triennial general election.
+(3) The local authority may continue its existing representation arrangements in the 2025 to 2028 electoral term if it has completed a representation review since the 2022 triennial general election.
+Poll resulting in “No” vote
+(4) If more than 50% of the valid votes cast in a poll held by a group 1 or group 2 local authority under clause 39 are “No” votes, the local authority—
+  (a) must complete a representation review in the 2025 to 2028 electoral term; and
+  (b) must not follow the process set out in Schedule 1A in the 2025 to 2028 electoral term.
+(5) Subclause (4) applies despite section 19Z(3)﻿(c).
+
+**Group 1 and group 2 local authorities:extension to 31 July 2024 deadline for initial representation review proposals**
+
+### 43 Application of clauses 44 to 46
+Clauses 44 to 46 apply—
+  (a) only if they commence on or before 31 July 2024; and
+  (b) only to a group 1 or group 2 local authority that is required to pass a resolution under section 19H, 19I, or 19J by 31 July 2024 but has not passed the resolution by that date.
+
+### 44 Extension of time for passing initial representation review resolution
+A local authority to which this clause applies may pass the resolution referred to in clause 43(b) by 13 September 2024.
+
+### 45 Local authority using extended time must follow shortened representation review process
+A group 1 or group 2 local authority that passes a resolution in accordance with clause 44 must undertake a shortened review of its representation arrangements in accordance with the requirements of clauses 23 to 27.
+
+### 46 When next representation review required
+A group 1 or group 2 local authority that undertakes a shortened review under clause 45 must undertake its next review of representation arrangements in accordance with the requirement under section 19H(2)﻿(b) or 19I(2)﻿(b) (whichever applies).
+
+**Provisions applying to Tauranga City Council**
+
+### 47 Application of clauses 48 to 54
+Clauses 48 to 54 apply to Tauranga City Council (the Council).
+
+### 48 Council must resolve to disestablish Māori ward or resolve to hold poll
+The Council must, by 30 November 2026,—
+  (a) resolve to disestablish (for the 2028 triennial general election onwards) its Māori ward; or
+  (b) resolve to hold, by 28 March 2027, a poll on the question whether the district should be divided into 1 or more Māori wards.
+
+### 49 Effect of resolution to disestablish
+(1) A resolution of the Council to disestablish its Māori ward under clause 48(a) does not affect—
+  (a) any decision of the Council made after the Council’s 2021 resolution under section 19Z that its district be divided into its Māori ward (the 2021 resolution); or
+  (b) elections held since the 2021 resolution and before the commencement date.
+(2) A resolution of the Council to disestablish its Māori ward applies for the next 2 triennial general elections of the Council.
+
+### 50 Council must hold binding poll in accordance with resolution and specified requirements
+(1) This clause applies if the Council resolves under clause 48(b) to hold a poll.
+(2) The Council must, by 28 March 2027, hold a poll on the question whether the district should be divided into 1 or more Māori wards.
+(3) The poll must be held in accordance with the requirements in clause 52.
+
+### 51 Application of limitation on division into Māori wards
+Section 19ZE applies as if a poll held under clause 50 on the question specified in clause 50(2) were a poll on a proposal described in section 19ZE(a) held under section 19ZF.
+
+### 52 Requirements for binding poll
+(1) The Council chief executive must notify the electoral officer, by 1 December 2026, of the date on which the poll under clause 50 is to be held.
+(2) The date specified for the holding of the poll must not be a date that would require deferral of the poll under section 138A.
+(3) The electoral officer must give public notice of the poll under section 52 as soon as practicable after receiving the notice under subclause (1).
+(4) The poll must be conducted using the First Past the Post electoral system.
+(5) The poll must be held in accordance with the provisions of Parts 2, 3, 4, 7, and 8 of this Act (as modified by this Part) that concern the conduct of a poll.
+
+### 53 Effect of poll
+(1) If 50% or more of the valid votes cast in the poll are “Yes” votes, the Council must follow the process set out in Schedule 1A in the 2025 to 2028 term.
+(2) If more than 50% of the valid votes cast in the poll are “No” votes, the Council must not follow the process set out in Schedule 1A.
+(3) Subsection (2) applies despite section 19Z(3)﻿(c).
+(4) The outcome of the poll determines whether, for the next 2 triennial general elections of the Council, the district is to be divided into 1 or more Māori wards.
+(5) The outcome of the poll must be included in the Council’s 2027 representation review.
+
+### 54 Obligations of electoral officer if notice requirements for binding poll not met
+(1) This clause applies if the electoral officer does not receive a notice that accords with clause 52(1) and (2) by 1 December 2026.
+(2) The electoral officer must—
+  (a) fix a date, which must be not later than 28 March 2027, for the holding of the poll; and
+  (b) give public notice of the poll in accordance with section 52; and
+  (c) conduct the poll on the date fixed for holding it.
+
+**Guidelines**
+
+### 55 Commission must issue guidelines for resolutions and determinations under transitional provisions
+(1) The Commission must issue guidelines identifying factors and considerations for group 1 and group 2 local authorities to take into account in passing resolutions and making determinations referred to in the provisions of this Part.
+(2) The Commission may, from time to time, amend or revoke guidelines issued under subclause (1).
+(3) Guidelines issued under subclause (1) may relate to group 1 or group 2 local authorities generally or to a specific class of those authorities.
+(4) The Commission must, as soon as practicable after issuing guidelines under subclause (1),—
+  (a) send a copy of those guidelines to every group 1 and group 2 local authority; and
+  (b) publish in the Gazette a notice—
+    (i) stating that the guidelines have been issued; and
+    (ii) naming the place or places at which copies of the guidelines are available for inspection free of charge or for purchase at a reasonable price.
+(5) Subclauses (3) and (4) apply, with all necessary modifications, in respect of any amendment to or revocation of guidelines issued under subclause (1).
 
 ## Schedule 1 — New Zealand method of counting single transferable votes
 
