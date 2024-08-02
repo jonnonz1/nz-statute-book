@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2024-05-30_
+_Consolidation as at 2024-08-02_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -216,6 +216,9 @@ This Act is the Sale and Supply of Alcohol Act 2012.
     (b) where the person sells alcohol
   - **verified the customer's age** means, in a manner of a kind described by regulations made under this Act for the purposes of this definition, ascertained that the customer appears to be of or over the purchase age
   - **wine** , except in section 58(3), means a product that is grape wine or fruit or vegetable wine within the meaning of section 58(3)
+  - **winery cellar door** means retail premises operated by a person for the purposes of selling grape wine (as defined in section 58(3)) that is made by or on behalf of that person—
+    (a) on those retail premises; or
+    (b) from produce harvested from land occupied by that person
   - **working day** means a day of the week other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
@@ -306,7 +309,12 @@ In addition to doing the things stated in section 14, the holder of an on-licenc
 
 ### 17 Off-licences: sale and supply on licensed premises
 (1) On the premises an off-licence is held for, the licensee can sell alcohol for consumption somewhere else.
-(2) While the premises an off-licence is held for are open for the sale of alcohol for consumption somewhere else, the licensee can also supply alcohol free, as a sample, for consumption on the premises.
+(2) While the premises an off-licence is held for are open for the sale of alcohol for consumption somewhere else, the licensee can also do one or both of the following:
+  (a) supply alcohol free, as a sample, for consumption on the premises:
+  (b) sell alcohol, as a sample, for consumption on the premises, if—
+    (i) the premises are a winery cellar door; and
+    (ii) the alcohol sample is grape wine (as defined in section 58(3)); and
+    (iii) each sample contains no more than 35 millilitres of wine.
 
 ### 18 Off-licences: sale for delivery and sales at distance
 (1) The holder of an off-licence not endorsed under section 40 can sell alcohol on or from the premises the licence is issued for and deliver it somewhere else.
@@ -400,7 +408,8 @@ Sections 28 and 30 are subject to subpart 7 of this Part.
     (ii) at least 85% of the annual income of the person to whom it is to be issued is (in the opinion of the licensing authority or licensing committee concerned) expected to be earned from the remote sale of alcohol; or
   (d) for premises where (in the opinion of the licensing authority or licensing committee concerned) the principal business carried on is the manufacture of alcohol; or
   (e) for premises that (in the opinion of the licensing authority or licensing committee concerned) are a supermarket with a floor area of at least 1 000 m2 (including any separate departments set aside for such foodstuffs as fresh meat, fresh fruit and vegetables, and delicatessen items); or
-  (f) for premises that (in the opinion of the licensing authority or licensing committee concerned) are a grocery store.
+  (f) for premises that (in the opinion of the licensing authority or licensing committee concerned) are a grocery store; or
+  (g) for premises that (in the opinion of the licensing authority or licensing committee concerned) are a winery cellar door.
 (2) Premises for which (by virtue of section 350(b)﻿(i)) an off-licence must not be issued except to a licensing trust can still be premises for which (by virtue of subsection (1)) an off-licence may be issued.
 (3) Section 36 overrides subsection (1).
 
@@ -748,6 +757,17 @@ The holder of a club licence must take all practicable steps to ensure that—
 
 ### 62 No bring-your-own alcohol in clubs
 The holder of a club licence must ensure that, while the premises are open for the sale or supply of alcohol, no person consumes on the premises any alcohol not sold or supplied on the premises by the licensee.
+
+### 62A Snack food to be available when samples sold from winery cellar doors
+(1) This section applies to a person who—
+  (a) holds an off-licence in respect of a winery cellar door; and
+  (b) sells grape wine, as a sample, for consumption at the winery cellar door.
+(2) The person must ensure that, at all times when the winery cellar door is open for the sale of grape wine as described in subsection (1)﻿(b), a reasonable range of snack food is available for sale and consumption at the winery cellar door—
+  (a) at reasonable prices; and
+  (b) within a reasonable time of being ordered.
+(3) In this section,—
+  - **grape wine** has the meaning given in section 58(3)
+  - **snack food** has the meaning given in section 33(1).
 
 **Requirements imposed as conditions**
 
@@ -1179,7 +1199,7 @@ The licensing authority or licensing committee concerned may issue a licence sub
 (2) The licensing authority or licensing committee concerned must ensure that every off-licence it issues is issued subject to conditions—
   (a) stating the days on which and the hours during which alcohol may be sold or delivered; and
   (b) if there are in force regulations under this Act empowering the authority or committee to determine for premises of different kinds different levels of licensing fee prescribed by the regulations, stating the fees payable for the licensing of the premises concerned; and
-  (c) stating (directly or by description) a place or places on the premises at which drinking water is to be freely available to customers, while alcohol is being supplied free as a sample on the premises.
+  (c) stating (directly or by description) a place or places on the premises at which drinking water is to be freely available to customers, while alcohol is being supplied free or sold, as a sample, on the premises.
 (3) In deciding the conditions under subsection (2)﻿(a) subject to which a licence is to be issued, the licensing authority or licensing committee concerned may have regard to the site of the premises in relation to neighbouring land use.
 (4) Subsection (1)﻿(b) is subject to the Human Rights Act 1993.
 
