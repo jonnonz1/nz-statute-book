@@ -1,5 +1,5 @@
 # Flags, Emblems, and Names Protection Act 1981
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2024-08-10_
 
 > An Act to declare the New Zealand Ensign to be the New Zealand Flag and to make provision relating to its use and to the use of certain other flags, and to make better provision for the protection of certain names and emblems of Royal, national, international, commercial, or other significance
 
@@ -30,7 +30,7 @@ In this Act, unless the context otherwise requires,—
     (j) the Registrar of Building Societies under the Building Societies Act 1965:
     (k) the Registrar of Unions under the Employment Relations Act 2000;—
   - **representation** , in relation to any emblem or coat of arms, means any printed or other visual representation of the emblem or coat of arms
-  - **Royal** means relating to Her Majesty or any other member of the Royal Family
+  - **Royal** means relating to the Sovereign or any other member of the Royal Family
   - **the Royal New Zealand Air Force Ensign** means the flag described in the notice published in the Gazette on 14 September 1939 at page 2496 under the heading Royal New Zealand Air Force Ensign.
 
 ### 3 Act to bind Crown
@@ -58,8 +58,8 @@ Subject to section 8, nothing in this Part shall derogate from the use ascribed 
 ### 7 Customs flag
 Nothing in this Part shall derogate from the use ascribed to the Customs flag by section 274 of the Customs and Excise Act 2018.
 
-### 8 Saving of Her Majesty’s powers to approve alteration of New Zealand Flag
-Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or authorise the approval of, the alteration of the New Zealand Flag for any official purposes by the placement thereon of any letter, emblem, or representation.
+### 8 Saving of the Sovereign's powers to approve alteration of New Zealand Flag
+Nothing in this Part shall limit or affect the Sovereign's powers to approve, or authorise the approval of, the alteration of the New Zealand Flag for any official purposes by the placement thereon of any letter, emblem, or representation.
 
 ### 9 Use of alternative flags
 (1) Notwithstanding anything in this Part or in any other Act but subject to subsection (2), the Governor-General may authorise the use on land—
@@ -88,20 +88,20 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
 ## Part 2 — Royal, vice-regal, State, and heraldic emblems and names
 
 ### 12 Unauthorised use of Royal and vice-regal emblems
-(1) Every person commits an offence against this Act who, without the authority of Her Majesty or (as the case may require) the Governor-General, displays or exhibits or otherwise uses any representation to which this subsection applies in such a manner as to be likely to cause any person to believe that he does so under the authority, sanction, approval, appointment, or patronage of Her Majesty or the Governor-General.
+(1) Every person commits an offence against this Act who, without the authority of the Sovereign or (as the case may require) the Governor-General, displays or exhibits or otherwise uses any representation to which this subsection applies in such a manner as to be likely to cause any person to believe that he does so under the authority, sanction, approval, appointment, or patronage of the Sovereign or the Governor-General.
 (2) Subsection (1) applies to the following:
-  (a) any representation of the Coat of Arms of Her Majesty or any other member of the Royal Family:
+  (a) any representation of the Coat of Arms of the Sovereign or any other member of the Royal Family:
   (b) any representation of any Royal crown or Royal coronet or Royal cypher or Royal badge:
   (c) any representation of the Royal Standard, or the Sovereign’s personal flag for New Zealand:
   (d) any representation of the Governor-General’s flag:
   (e) any representation that so closely resembles any thing referred to in any of paragraphs (a) to (d) as to be likely to cause any person to believe that it is that thing.
-(3) In any prosecution for an offence against this section the onus of proving that any representation was used with the authority of Her Majesty or the Governor-General shall be on the defendant.
+(3) In any prosecution for an offence against this section the onus of proving that any representation was used with the authority of the Sovereign or the Governor-General shall be on the defendant.
 (4) Nothing in this section shall limit or affect—
   (a) the Commercial Use of Royal Photographs Rules 1962 (SR 1962/81):
-  (b) section 24 of the Trade Marks Act 2002 (which relates to the representation in trade marks of Her Majesty or any members of the Royal Family).
+  (b) section 24 of the Trade Marks Act 2002 (which relates to the representation in trade marks of the Sovereign or any members of the Royal Family).
 
 ### 13 Unauthorised use of State emblems
-(1) Subject to subsection (3), every person commits an offence against this Act who displays or exhibits or otherwise uses any representation to which this subsection applies in such a manner as to be likely to cause any person to believe that he does so under the authority, sanction, approval, appointment, or patronage of Her Majesty’s Government, or of any Minister of the Crown, or of any government department.
+(1) Subject to subsection (3), every person commits an offence against this Act who displays or exhibits or otherwise uses any representation to which this subsection applies in such a manner as to be likely to cause any person to believe that he does so under the authority, sanction, approval, appointment, or patronage of the Sovereign's Government, or of any Minister of the Crown, or of any government department.
 (2) Subsection (1) applies to the following:
   (a) any representation of the Coat of Arms of New Zealand:
   (b) any representation of the Seal of New Zealand:
@@ -121,7 +121,7 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
   (a) the word Royal:
   (b) the word Government:
   (c) any other word or statement that claims or implies the patronage of—
-    (i) Her Majesty or any other member of the Royal Family; or
+    (i) the Sovereign or any other member of the Royal Family; or
     (ii) the Governor-General; or
     (iii) the House of Representatives; or
     (iv) the Government; or
@@ -130,8 +130,8 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
   (d) any word or statement that claims or implies connection with any society or body incorporated by Royal Charter.
 (4) Subsection (1) does not apply to the use of any word or statement—
   (a) expressly authorised by or under any other Act, or by—
-    (i) Her Majesty or the Governor-General in any case to which paragraph (a) of subsection (3) applies; or
-    (ii) Her Majesty, in any case to which subparagraph (i) of paragraph (c) of that subsection applies; or
+    (i) the Sovereign or the Governor-General in any case to which paragraph (a) of subsection (3) applies; or
+    (ii) the Sovereign, in any case to which subparagraph (i) of paragraph (c) of that subsection applies; or
     (iii) the Governor-General, in any case to which subparagraph (ii) of that paragraph applies; or
     (iv) the Speaker of the House of Representatives, in any case to which subparagraph (iii) of that paragraph applies; or
     (v) the Minister if subsection (3)﻿(b) or (c)﻿(iv) applies; or
@@ -305,7 +305,7 @@ Where any association (whether incorporated or unincorporated) is guilty of an o
 
 ## Schedule 2 — Orders and notices deemed to have been made or given under this Act
 
-## Schedule 2A — Emblems of 28th Maori Battalion (NZ) Association Incorporated
+## Schedule 2A — Emblems of 28th Māori Battalion and 28th Maori Battalion (NZ) Association Incorporated
 
 ## Schedule 3 — Enactments and orders (relating to protection of certain emblems, names, and words) preserved
 
