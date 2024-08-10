@@ -1,5 +1,5 @@
 # Ngarimu VC and 28th (Māori) Battalion Memorial Scholarship Fund Act 1945
-_Consolidation as at 2016-10-29_
+_Consolidation as at 2024-08-10_
 
 > An Act to establish a fund to be known as the Ngarimu VC and 28th (Māori) Battalion Memorial Scholarship Fund, to commemorate the service of Māori and, in particular, of the 28th (Māori) Battalion, in the war against Germany, and the award of the Victoria Cross to Second Lieutenant Te Moana-nui-a-Kiwa Ngarimu, and to make provision for the control and administration of the Fund
 
@@ -39,11 +39,14 @@ In this Act, unless the context otherwise requires,—
   (d) the members of Parliament representing the Māori electoral districts:
   (e) up to 4 people (preferably people who have served in the Armed Forces) to be appointed by the Governor-General to represent each of the companies that make up the 28th (Māori) Battalion:
   (f) 1 Māori to be nominated by the descendants of Hamuera Ngarimu and Maraea Ngarimu and appointed by the Governor-General:
-  (g) 1 Māori who has received assistance from the Fund to undertake tertiary education, and who has successfully completed that education, to be appointed by the Governor-General.
+  (g) 1 Māori who has received assistance from the Fund to undertake tertiary education, and who has successfully completed that education, to be appointed by the Governor-General:
+  (h) 1 Māori who has served or is currently serving in the Armed Forces to be appointed by the Governor-General.
 (3) The Board—
   (a) is a body corporate, with perpetual succession and a common seal; and
   (b) is capable of holding real and personal property and of doing and suffering all that bodies corporate may do and suffer.
+(3A) The Board is the successor to the 28th Maori Battalion (NZ) Association Incorporated.
 (4) Despite subsection (2), the Board consisting of those people specified in subsection (2) before the commencement of subpart 2 of Part 2 of the Education Legislation Act 2016 may continue to perform the functions and exercise the powers of the Board under this Act until the Board described in subsection (2) is assembled.
+(5) In this section, Armed Forces has the same meaning as in section 2(1) of the Defence Act 1990.
 
 ### 4A People disqualified from Board membership
 The following people are disqualified from being members of the Board:
@@ -91,7 +94,10 @@ The following people are disqualified from being members of the Board:
 (11) Subject to the provisions of this Act, the Committee appointed under this section may regulate its procedure in such manner as it thinks fit.
 
 ### 7 Functions of Board
-(1) The general function of the Board shall be to administer the Fund in accordance with the provisions of this Act for the purpose of granting assistance for the education of any Māori, or for the purpose of promoting the study and encouraging the maintenance of the Māori language and of Māori history, tradition, and culture.
+(1) The general functions of the Board are—
+  (a) to administer the Fund in accordance with the provisions of this Act for the purpose of granting assistance for the education of any Māori, or for the purpose of promoting the study and encouraging the maintenance of the Māori language and of Māori history, tradition, and culture; and
+  (b) to perform or exercise any other function, duty, or power conferred on it by or under other legislation.
+(1A) See section 18A(3)﻿(b)﻿(iv) of the Flags, Emblems, and Names Protection Act 1981, which sets out the function of the Board to approve persons, classes of persons, or associations who may use any emblem, words, name, title, style, or designation relating to the 28th Māori Battalion or the 28th Maori Battalion (NZ) Association Incorporated.
 (2) Without limiting subsection (1), the Board may apply money towards all or any of the following purposes:
   (a) the provision of tertiary education scholarships for Māori:
   (b) the provision of prizes for competitions relating to the overseas war service of Māori or to any other subject connected with Māori people:
