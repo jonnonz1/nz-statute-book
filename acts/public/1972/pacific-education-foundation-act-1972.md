@@ -1,5 +1,5 @@
 # Pacific Education Foundation Act 1972
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2024-08-10_
 
 > An Act to establish a Pacific Islands Polynesian Education Foundation
 
@@ -7,7 +7,7 @@ _Consolidation as at 2021-10-28_
 This Act is the Pacific Education Foundation Act 1972.
 
 ### 2 Interpretation
-In this Act, unless the context otherwise requires,—
+(1) In this Act, unless the context otherwise requires,—
   - **Board** means the Board of the Foundation
   - **contributor** means a contributor to the Foundation within the meaning of section 6
   - **education** includes pre-school education
@@ -17,12 +17,19 @@ In this Act, unless the context otherwise requires,—
   - **Foundation** means the Pacific Education Foundation continued under section 4(1)
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Minister** means the Minister of Education
-  - **Pacific person** means—
-    (a) a person living in New Zealand who is both—
-      (i) a native of the Cook Islands, Fiji, Kiribati, Niue, Samoa, Tokelau, Tonga, or Tuvalu; and
-      (ii) a New Zealand citizen or a person who has been granted permanent residence or who has been permitted to enter New Zealand with the intention of permanent residence; and
-    (b) a descendant of a person described in paragraph (a)
-  - **public service** has the same meaning as in section 10 of the Public Service Act 2020.
+  - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **other education agencies** means the following agencies:
+    (a) the Education Review Office:
+    (b) NZQA:
+    (c) TEC:
+    (d) the Teaching Council:
+    (e) the Ministry for Pacific Peoples
+  - **Pacific person** means a person who is living in New Zealand and who—
+    (a) is a New Zealand citizen or has been granted permanent residence or has been permitted to enter New Zealand with the intention of gaining permanent residence; and
+    (b) has indigenous Pacific cultural heritage from a place listed in Schedule 2
+  - **public service** has the same meaning as in section 10 of the Public Service Act 2020
+  - **Treaty of Friendship** means the Treaty of Friendship between the Government of New Zealand and the Government of Western Samoa done at Apia on 1 August 1962.
+(2) In this Act, NZQA, TEC, and Teaching Council have the same meanings as in section 10(1) of the Education and Training Act 2020.
 
 ### 2A Transitional, savings, and related provisions
 The transitional, savings, and related provisions (if any) set out in Schedule 1 have effect according to their terms.
@@ -34,9 +41,12 @@ The transitional, savings, and related provisions (if any) set out in Schedule 1
 (1) The Pacific Islands Polynesian Education Foundation is continued with the name Pacific Education Foundation.
 (2) The Foundation shall consist of the contributors to the Foundation.
 (3) The Foundation shall be a body corporate with perpetual succession and a common seal, and shall be capable of holding real and personal property and of doing and suffering all that bodies corporate may do and suffer.
+(4) In establishing and continuing the Foundation, this Act recognises the Crown’s unique relationship with the Cook Islands, Niue, and Tokelau and, through the Treaty of Friendship, with Samoa.
 
 ### 5 Purpose of Foundation
-The general purpose of the Foundation shall be to promote and encourage the better education of Pacific people and to provide financial assistance for that purpose.
+The general purpose of the Foundation is to promote and encourage the better education of Pacific people by—
+  (a) providing information and advice to the Minister, the Ministry, and other education agencies on matters relating to the educational success of Pacific people; and
+  (b) providing financial assistance for that purpose, including the administration and award of Tulī Takes Flight scholarships that are part of the goodwill gesture of reconciliation that accompanied the New Zealand Government’s apology to Pacific families and communities impacted by the Dawn Raids.
 
 ### 6 Contributors
 (1) During any financial year contributors to the Foundation shall be—
@@ -58,13 +68,14 @@ The general purpose of the Foundation shall be to promote and encourage the bett
 (2) The Board consists of the following members:
   (a) the Secretary for Education:
   (b) the chief executive of the Ministry for Pacific Peoples:
-  (c) the manager at the Ministry of Education who has responsibility for the education of Pacific peoples:
-  (d) 5 other members, to be appointed jointly by the Minister and the Minister for Pacific Peoples after consultation with those Pacific communities that the Ministers consider it appropriate to consult.
+  (c)
+  (d) 6 other members, to be appointed jointly by the Minister and the Minister for Pacific Peoples after consultation with those Pacific communities that the Ministers consider it appropriate to consult.
+(2A) A member appointed under subsection (2)﻿(d) must be resident in New Zealand during their term of office.
 (3) If a member who is an employee of the public service is absent from any meeting, the member may authorise another employee to attend the meeting in the member’s place (and the employee is, for the purposes of the meeting, a member of the Board).
-(4) If a member appointed under subsection (2)﻿(d) is absent from any meeting, the member may authorise any other person to attend the meeting in the member’s place (and the person is, for the purposes of the meeting, a member of the Board).
+(4)
 (5) A member appointed under subsection (2)﻿(d)—
-  (a) must be appointed for a 3-year term; and
-  (b) is eligible for reappointment at the expiry of the 3-year term; and
+  (a) holds office for a term of up to 4 years; and
+  (b) may be reappointed; and
   (c) may at any time be removed from the Board by the Minister for inability to perform the duties of a Board member, bankruptcy, neglect of duty, or misconduct proved to the satisfaction of the Minister; and
   (d) may at any time resign from the Board by notice in writing to the Minister.
 (6) If a member appointed under subsection (2)﻿(d) (member A) dies, is removed from office, or resigns,—
@@ -73,10 +84,13 @@ The general purpose of the Foundation shall be to promote and encourage the bett
 (7) Unless subsection (6) applies, a member appointed under subsection (2)﻿(d) must continue in office until the member’s successor comes into office (even if the member’s term of appointment has expired).
 (8) The powers of the Board are not affected by any vacancy in the Board’s membership.
 
-### 8A Board to elect chairperson and deputy chairperson
-Every year, at a meeting of the Board, the members of the Board must elect—
+### 8A Chairperson and deputy chairperson
+The Minister and the Minister for Pacific Peoples, acting jointly, may appoint—
   (a) 1 member to be chairperson of the Board; and
   (b) 1 member to be deputy chairperson of the Board.
+
+### 8B Letter of expectations
+The Minister and the Minister for Pacific Peoples, acting jointly, may provide a letter of expectations to the Board that sets out the Ministers’ expectations regarding the Foundation’s strategic direction and specific priorities, and that may require the Board to have regard to specific education policies in its advice to the Minister, the Ministry, and other education agencies.
 
 ### 9 Chairperson at meetings of the Board and contributors
 (1) The chairperson shall preside at all meetings of the Board and all meetings of contributors at which the chairperson is present.
@@ -85,7 +99,7 @@ Every year, at a meeting of the Board, the members of the Board must elect—
 (4) If both the chairperson and deputy chairperson are absent from a meeting of contributors, the contributors present and entitled to vote shall elect a chairperson for the meeting from amongst the members (if any) present at the meeting and if no member is present then from amongst the contributors present; and the person elected shall have and may exercise all the powers and functions of the chairperson for the purposes of that meeting.
 
 ### 10 Meetings of Board
-(1) Meetings of the Board shall be held at least once in every year at such times and places as the Board from time to time determines.
+(1) Meetings of the Board must be held at least 3 times a year at the times and places that the Board determines.
 (2) The chairperson may at any time call a special meeting of the Board.
 (3) It shall be the duty of the chairperson or the secretary to call a special meeting of the Board if either person is requested in writing to do so by any 5 members.
 (4) At any meeting of the Board 5 members shall form a quorum.
@@ -200,7 +214,7 @@ The Board may invest any money held by or on behalf of the Foundation, whether a
   (o) the making of such other provision as the Board thinks expedient in order to further the purposes for which the Foundation is established:
   (p) the improvement, development, or the making of effective and profitable use of any land or other property held by or on behalf of the Foundation, the purchase or other acquisition of other property to be used with it, and all proper expenses of management of any such property:
   (q) the payment of costs of administration of the affairs of the Foundation, including its committees and agencies and the provision of office accommodation and equipment:
-  (r) the making for any purposes not hereinbefore mentioned or otherwise specifically mentioned in this Act of payments not exceeding in the aggregate the sum of $500 in any one financial year.
+  (r) the making of a payment (or payments) not exceeding $10,000 in any one financial year for any purposes not otherwise specified in this section or another provision of this Act.
 (2) The Board may apply such part of the capital of the Foundation as consists of money for all or any of the purposes referred to in paragraph (p) of subsection (1) and, subject to the provisions of this Act, may, in addition, convert into money any of that capital which does not consist of money and apply the money resulting from the conversion for those purposes.
 (3) Notwithstanding anything in section 21 or in the foregoing provisions of this section, where on or after 1 January 1974 the Foundation receives any money paid by way of grants, subsidies, donations, or gifts, being money that is not contributed or paid subject to any trust or any express direction by the donor as to whether it is to be applied as capital or as income, the Foundation may in its discretion receive the contribution or payment as either capital or income, and the provisions of this Act relating to capital and income shall in either case apply accordingly.
 
@@ -235,8 +249,9 @@ The Board must ensure that, within 3 months after the end of the financial year,
 (2) The Foundation is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 30 Annual report
-(1) The Board shall, not later than 31 December in each year, furnish to the Minister and to the Minister for Pacific Peoples, a report of its proceedings and operations for its preceding financial year, together with a copy of the financial statements of the Foundation for that year with the report of the Auditor-General thereon.
-(2) A copy of the report and of the financial statements with the report of the Auditor-General thereon shall be laid before Parliament as soon as practicable after their receipt by the Minister.
+(1) The Board must, no later than 31 December in each year, provide the Minister and the Minister for Pacific Peoples with an annual report on its operations and proceedings during the previous financial year, together with a copy of the financial statements of the Foundation for that year and an audit report on those statements.
+(2) The annual report must include information about the advice the Foundation has provided to, or interactions the Foundation has had with, the Ministry and other education agencies in that financial year.
+(3) The Minister must present a copy of the annual report and the financial statements (along with the audit report) to the House of Representatives as soon as practicable after receiving them.
 
 ### 31 Exemption from taxes
 (1) All land held by or on behalf of the Foundation shall be exempt from land tax.
@@ -258,12 +273,24 @@ The Board must ensure that, within 3 months after the end of the financial year,
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as the Governor-General deems to be necessary for the purpose of giving full effect to the provisions of this Act.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
+### 35 Amendments to Schedule 2 by Order in Council
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 2 to—
+  (a) add the name of a place to the schedule:
+  (b) delete the name of a place listed in the schedule:
+  (c) update or correct the name of a place listed in the schedule to reflect the official name of the place.
+(2) Before making a recommendation under subsection (1)﻿(a) or (b), the Minister must take into account the following matters:
+  (a) the location of the place:
+  (b) the number of people estimated to be living in New Zealand that have indigenous Pacific cultural heritage from the place:
+  (c) the results of any consultation with the people described in paragraph (b):
+  (d) any other matters that the Minister considers relevant to determining whether the place is a place of indigenous Pacific cultural heritage.
+(3) An order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
 ## Schedule 1 — Transitional, savings, and related provisions
 
 ### Part 1 — Provisions relating to Education Legislation Act 2016
 
 ### 1 Interpretation
-In this schedule,—
+In this Part,—
   - **amendment Act** means the Education Legislation Act 2016
   - **commencement date** means the commencement date of the amendment Act.
 
@@ -274,3 +301,18 @@ Despite section 8(2), the Board consisting of those people specified in section 
 Despite section 8A,—
   (a) the first election of a chairperson and a deputy chairperson is not required to take place until the year after the year in which the amendment Act commences; and
   (b) the chairman and deputy chairman of the Board before the commencement date continue to hold office (as chairperson and deputy chairperson) until the first election is held.
+
+### Part 2 — Provisions relating to Regulatory Systems (Education) Amendment Act 2024
+
+### 4 Interpretation
+In this Part,—
+  - **amendment Act** means the Regulatory Systems (Education) Amendment Act 2024
+  - **commencement** means the date on which the amendment Act comes into force.
+
+### 5 Transitional provision for Board members holding office under section 8(2)﻿(d) before commencement
+(1) This clause applies to a Board member holding office under section 8(2)﻿(d) immediately before commencement.
+(2) Despite section 12 of the amendment Act,—
+  (a) the Board member continues in office on and after commencement but only for the remainder of the term for which they were appointed under section 8(5)﻿(a) (as it read immediately before commencement); and
+  (b) nothing in section 8(2A) (as inserted by the amendment Act) applies to the Board member during the remainder of that term.
+
+## Schedule 2 — Places of indigenous Pacific cultural heritage
