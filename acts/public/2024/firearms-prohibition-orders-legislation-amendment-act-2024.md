@@ -14,7 +14,7 @@ This Part amends the Arms Act 1983.
 
 ### 4 Section 2 amended (Interpretation)
 In section 2(1), insert in their appropriate alphabetical order:
-  - **gang** has the meaning given to it by section 4 of the Gangs Legislation Amendment Act 2024
+  - **gang** has the meaning given to it by section 4 of the Gangs Act 2024
   - **organised criminal group** has the meaning given to it by section 98A of the Crimes Act 1961
 
 ### 5 Section 24A amended (Fit and proper person to possess firearm or airgun)
