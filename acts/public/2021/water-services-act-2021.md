@@ -1,5 +1,5 @@
 # Water Services Act 2021
-_Consolidation as at 2024-02-17_
+_Consolidation as at 2024-09-03_
 
 ### 1 Title
 This Act is the Water Services Act 2021.
@@ -1476,7 +1476,16 @@ An enforceable undertaking takes effect and becomes enforceable when the chief e
     (i) to all wastewater networks and their operators; or
     (ii) to classes of wastewater network and their operators; but
   (b) must not apply to an individual wastewater network or wastewater network operator.
+(3A) When making wastewater environmental performance standards under this section, Taumata Arowai must not have regard to the hierarchy of obligations in clause 1.3(5) of the National Policy Statement for Freshwater Management.
+(3B) Subsection (3A) applies despite any other provision of this Act.
 (4) Wastewater environmental performance standards made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 138A Repeal of provisions relating to National Policy Statement for Freshwater Management
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, repeal section 138(3A) and (3B) and this section.
+(2) The Minister may make a recommendation under subsection (1) only when the Minister for the Environment—
+  (a) recommends the approval of a new national policy statement under section 52 of the Resource Management Act 1991 to replace the National Policy Statement for Freshwater Management; or
+  (b) reviews, changes, or revokes the National Policy Statement for Freshwater Management under section 53(1) of the Resource Management Act 1991.
+(3) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 139 Wastewater network risk management plans
 (1) A wastewater network operator must prepare and implement a risk management plan for the operator’s wastewater network.
