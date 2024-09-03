@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2023-11-28_
+_Consolidation as at 2024-09-03_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -2125,6 +2125,12 @@ For the purposes of this subpart, publication means publication in the context o
     (ii) the complaints procedure of the Broadcasting Standards Authority or the Press Council; or
   (b) any other person reporting on the proceedings with the permission of the court.
 
+### 198A Hearing may be conducted by audiovisual link or audio link
+(1) Nothing in sections 196 to 198 limits or affects the ability of a court to conduct a hearing wholly or partly by audiovisual link (AVL) or audio link (AL) and to require some or all members of the media or the public who wish to observe the hearing to attend by AVL or AL.
+(2) For the purposes of subsection (1),—
+  - **audio link** or , in relation to a proceeding, means facilities that enable audio communication between, or to be received by, participants when some or all of them are not physically present at the place of hearing for all or part of the proceeding
+  - **audiovisual link** or , in relation to a proceeding, means facilities that enable both audio and visual communication between, or to be received by, participants when some or all of them are not physically present at the place of hearing for all or part of the proceeding.
+
 ### 199 Court must be cleared when complainant gives evidence in cases of sexual nature
 (1) In any case of a sexual nature, no person may be present in the courtroom while the complainant gives oral evidence (whether in chief or under cross-examination or on re-examination), except for the following:
   (a) the Judge and jury:
@@ -4051,10 +4057,7 @@ In this Part, unless the context otherwise requires,—
 ## Schedule 1AB — Temporary provisions in respect of COVID-19
 
 ### 1 Hearing may be conducted by audiovisual link or audio link
-(1) Nothing in sections 196 to 198 limits or affects the ability of a court to conduct a hearing wholly or partly by audiovisual link (AVL) or audio link (AL) and to require some or all members of the media or the public who wish to observe the hearing to attend by AVL or AL.
-(2) For the purposes of subclause (1),—
-  - **audio link** or , in relation to a proceeding, means facilities that enable audio communication between, or to be received by, participants when some or all of them are not physically present at the place of hearing for all or part of the proceeding
-  - **audiovisual link** or , in relation to a proceeding, means facilities that enable both audio and visual communication between, or to be received by, participants when some or all of them are not physically present at the place of hearing for all or part of the proceeding.
+[Repealed]
 
 ### 2 Powers relating to right of public to enter and remain in areas of court
 (1) Nothing in sections 196 to 198 limits or affects—
