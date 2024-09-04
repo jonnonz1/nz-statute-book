@@ -1,5 +1,5 @@
 # Child Protection (Child Sex Offender Government Agency Registration) Act 2016
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2024-09-04_
 
 ### 1 Title
 This Act is the Child Protection (Child Sex Offender Government Agency Registration) Act 2016.
@@ -220,21 +220,31 @@ A registrable offender must make an initial report to the Commissioner of all re
   (b) before the registrable offender leaves New Zealand.
 
 ### 21 Travel plans to be reported
-(1) Subsection (2) applies if a registrable offender intends to travel away from his or her registered residential address, within New Zealand, for more than 48 hours.
+(1) Subsection (2) applies if a registrable offender intends to travel away from his or her registered residential address (see subsection (6)), within New Zealand, for more than 48 hours.
 (2) At least 48 hours before travelling, the registrable offender must report the intended travel to the Commissioner and must provide the following details:
   (a) each address at which the offender intends to stay:
   (b) the dates on which the offender intends to stay at each of those addresses:
   (c) whether any child will or is likely to reside together with the offender at any of those addresses:
   (d) if the offender intends to return to his or her registered residential address, the date on which he or she intends to return.
 (3) Subsection (4) applies if a registrable offender intends to travel out of New Zealand for more than 48 hours.
-(4) At least 48 hours before travelling, the registrable offender must report the intended travel to the Commissioner and must provide the following details:
+(4) At least 48 hours before travelling, the registrable offender must report the intended travel to the Commissioner and must provide the following details:Date offender intends to travel out of New ZealandOffender intends to return to New ZealandOffender does not intend to return to New Zealand
   (a) the date on which the offender intends to travel out of New Zealand:
-  (b) if the offender intends to return to New Zealand, the date on which the offender intends to return:
-  (c) if the offender does not intend to return to New Zealand, a statement of that intention.
+  (b) if the offender intends to return to New Zealand,—
+    (i) the date on which the offender intends to return; and
+    (ii) the name of each country that the offender intends to travel to, and remain in for more than 48 hours; and
+    (iii) for each of those countries, the specified details (see subsection (6)):
+  (c) if the offender does not intend to return to New Zealand,—
+    (i) a statement of that intention; and
+    (ii) the name of the country that the offender intends to generally reside in after leaving New Zealand.
 (5) If exceptional circumstances arise making it impracticable for a registrable offender to whom subsection (2) or (4) applies to make the report 48 hours before he or she travels, it is sufficient compliance with subsection (2) or (4) if the offender reports the required information to the Commissioner—
   (a) as soon as practicable in the circumstances; and
   (b) before travelling.
-(6) For the purposes of subsection (1), in relation to a registrable offender, travel away from his or her registered residential address includes travel between registered residential addresses.
+(6) In this section,—
+  - **specified details** , for the purposes of subsection (4)﻿(b)﻿(iii), in relation to a registrable offender, means—
+    (a) each address at which the registrable offender intends to stay; and
+    (b) the date on which the offender intends to arrive in the country; and
+    (c) the date on which the offender intends to travel out of the country
+  - **travel away from his or her registered residential address** , for the purposes of subsection (1), in relation to a registrable offender, includes travel between registered residential addresses.
 
 ### 22 Change of travel plans while away from home or out of New Zealand to be given
 (1) This section applies if a registrable offender who has travelled away from his or her registered residential address decides to change any details given to the Commissioner under section 21(2) or (4).
@@ -457,7 +467,8 @@ For the purposes of this subpart, a registrable offender’s reporting obligatio
 The Commissioner must ensure that any information in the register about a person to whom section 33 applies, whose identity is apparent or can reasonably be ascertained from that information, can only be accessed in accordance with guidelines issued by the Commissioner for that purpose under section 41.
 
 ### 43 Information sharing between government agencies in interest of public safety
-(1) A specified agency may disclose personal information in the register to another specified agency for any of the following purposes:
+(1) A specified agency may disclose personal information about a registrable offender or a corresponding registrable offender (whether or not that information is in the register) to another specified agency for 1 or more of the purposes listed in subsection (1A).
+(1A) The purposes are the following:
   (a) monitoring the whereabouts of the offender:
   (b) verifying personal information reported by the offender:
   (c) managing the risk that the offender may commit further sexual offences against children:
@@ -734,6 +745,32 @@ Clauses 5 to 8 do not—
 (1) The following clauses had effect, and have effect, despite any other law if, or to the extent that, the other law is inconsistent with them:
   (a) clause 1 as inserted on 8 March 2017 with effect on and after 14 October 2016:
   (b) clauses 5 to 8.
+(2) In particular, any other law, for the purposes of subclause (1), includes any law in all or any of the following:
+  (a) section 6(1) and (2) of the Sentencing Act 2002:
+  (b) sections 25(g) and 26(2) of the New Zealand Bill of Rights Act 1990:
+  (c) D (SC 31/2019) v New Zealand Police [2021] NZSC 2.
+
+### Part 2 — Provisions relating to Child Protection (Child Sex Offender Government Agency Registration) (Overseas Travel Reporting) Amendment Act 2024
+
+### 13 Interpretation
+In this Part,—
+  - **amendment Act** means the Child Protection (Child Sex Offender Government Agency Registration) (Overseas Travel Reporting) Amendment Act 2024
+  - **commencement** means the commencement of the amendment Act
+  - **specified registrable offender** means a person—Offending before 14 October 2016Offending on or after 14 October 2016 and before commencementOffending on or after commencement
+    (a) to whom clause 1 or 5 applies in respect of a qualifying offence, or a corresponding offence in a foreign jurisdiction, committed before 14 October 2016; or
+    (b) who is a registrable offender, or a corresponding registrable offender, in respect of a qualifying offence, or a corresponding offence in a foreign jurisdiction, committed on or after 14 October 2016 and before commencement; or
+    (c) who is a registrable offender, or a corresponding registrable offender, in respect of a qualifying offence, or a corresponding offence in a foreign jurisdiction, committed on or after commencement.
+
+### 14 Application of amendments about overseas travel reporting requirements
+On or after commencement, section 21(4) (as amended by the amendment Act) applies only to a specified registrable offender who intends to travel out of New Zealand for more than 48 hours.
+
+### 15 Application of amendments about information sharing between government agencies in interest of public safety
+On or after commencement, section 43(1) and (1A) (as inserted by the amendment Act) only authorises a specified agency to disclose personal information about a specified registrable offender (whether or not that information is in the register) to another specified agency.
+
+### 16 Clauses 14 and 15 override any inconsistent other law
+(1) The following clauses have effect, despite any other law if, or to the extent that, the other law is inconsistent with them:
+  (a) clause 14:
+  (b) clause 15.
 (2) In particular, any other law, for the purposes of subclause (1), includes any law in all or any of the following:
   (a) section 6(1) and (2) of the Sentencing Act 2002:
   (b) sections 25(g) and 26(2) of the New Zealand Bill of Rights Act 1990:
