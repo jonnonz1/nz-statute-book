@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-10-01_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -14,6 +14,9 @@ This Act is the Corrections Act 2004.
 
 ### 3 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **accused prisoner** —
+    (a) means a prisoner detained only by reason of the fact that the prisoner is awaiting trial or is on remand in custody during the trial:
+    (b) does not include a prisoner who is on remand awaiting sentence
   - **at-risk assessment** means, in relation to a prisoner, an assessment of the prisoner’s risk of self-harm made under section 49(2) or 61A
   - **at-risk cell** means a cell that has been designated as an at-risk cell under section 61H
   - **at-risk management plan** , in relation to a prisoner, means the plan established for that prisoner under section 61D
@@ -27,6 +30,8 @@ This Act is the Corrections Act 2004.
     (f) any family group conference within the meaning of section 2(1) of the Oranga Tamariki Act 1989:
     (g)
     (h) any other person or body of persons the proceedings, or any part of the proceedings, of whom or of which are deemed to be a judicial proceeding for the purposes of section 108 of the Crimes Act 1961 (which relates to perjury)
+  - **audio link** means a facility (for example, a telephone) that enables audio communication between people in different places
+  - **audiovisual link** means a facility that enables audio and visual communication between people in different places
   - **authorised property** means property that is declared by rules made under section 45A as property that prisoners may be issued with or allowed to keep
   - **biometric information** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
   - **chief executive** means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
@@ -103,6 +108,7 @@ This Act is the Corrections Act 2004.
   - **Independent Police Conduct Authority** includes any employee of the Authority
   - **inspector of corrections** or means a person appointed as an inspector of corrections under section 28
   - **intelligence and security agency** has the same meaning as in section 4 of the Intelligence and Security Act 2017
+  - **intelligence purpose** has the meaning given in section 127B
   - **investigating officer** means an officer (within the meaning of section 2(1) of the Defence Act 1990) or other duly authorised person investigating a complaint under section 49 of that Act
   - **legal adviser** —
     (a) means a lawyer (within the meaning of the Lawyers and Conveyancers Act 2006) who represents a prisoner; and
@@ -113,12 +119,13 @@ This Act is the Corrections Act 2004.
   - **member of the Human Rights Commission** includes any employee of the Human Rights Commission
   - **Minister** means the Minister of the Crown for the time being responsible for the department
   - **monitor** means any person appointed under section 199E(1) or (2)
+  - **non-offence-based programme** means a programme designed for persons under control or supervision to assist them to reintegrate into the community, for example, a medical, social, therapeutic, psychological, te ao Māori, cultural, educational, employment-related, religion-based, or reintegrative programme
   - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **offender** —
     (a) means a person who is under control or supervision; and
     (b) includes a person who is dealt with or is liable to be dealt with for non-payment of a sum of money, disobedience of a court order, or contempt of court; but
     (c) does not include—
-      (i) a person who is under control or supervision by reason only that the person is in custody awaiting trial; or
+      (i) an accused prisoner; or
       (ii) a person who is detained solely as a consequence of a warrant or other order issued under the Immigration Act 2009
   - **officer** —
     (a) means—
@@ -138,6 +145,7 @@ This Act is the Corrections Act 2004.
     (e) an Ombudsman; or
     (f) the Commissioner for Children; or
     (g) the Health and Disability Commissioner; or
+    (ga) an advocate within the meaning of section 2(1) of the Health and Disability Commissioner Act 1994; or
     (h) the Human Rights Commission; or
     (i) the Independent Police Conduct Authority; or
     (j) the Privacy Commissioner; or
@@ -174,9 +182,12 @@ This Act is the Corrections Act 2004.
     (c) that is established and operated in accordance with any applicable regulations made under this Act
   - **reasonably promptly** means as soon as is reasonable in all the circumstances
   - **registered health professional** means a health practitioner who is, or is deemed to be, registered with an authority established or continued by the Health Practitioners Competence Assurance Act 2003 as a practitioner of a particular health profession
-  - **rehabilitative programme** —
-    (a) means a programme designed to reduce reoffending by facilitating the rehabilitation of prisoners sentenced to imprisonment and their reintegration into society; and
-    (b) includes any medical, psychological, social, therapeutic, cultural, educational, employment-related, rehabilitative, or reintegrative programme
+  - **rehabilitative programme** means a programme designed for offenders to reduce reoffending by facilitating their rehabilitation and reintegration into the community, for example, a medical, social, therapeutic, psychological, te ao Māori, cultural, educational, employment-related, religion-based, reintegrative, or rehabilitative programme
+  - **remote access facility** means any of the following:
+    (a) audio link:
+    (b) audiovisual link:
+    (c) visual link:
+    (d) any other facility that enables communication between people in different places
   - **rub-down search** has the meaning given to that term in section 89
   - **scanner search** has the meaning given to that term in section 92A
   - **scope of practice** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
@@ -235,11 +246,15 @@ This Act is the Corrections Act 2004.
     (b) a person appointed under section 19(2) to be a Visiting Justice
   - **visitor** —
     (a) means a person (other than a staff member, a security officer, or another prisoner) who visits a prison; and
-    (b) includes a statutory visitor and a specified visitor.
+    (b) includes a statutory visitor and a specified visitor
+  - **visual link** means a facility that enables visual communication between people in different places.
 (2) If any provision of this Act requires that any person employed or engaged for any position be suitable for that position, and that position involves dealing with persons under control or supervision, that person's suitability must be determined in accordance with whether or not that person is competent to exercise or perform his or her powers, duties, and functions under this Act, or any regulations made under this Act, in a fair and humane manner, because of—
   (a) his or her character and personality; and
   (b) his or her training, skills, qualifications, or work experience; and
   (c) other relevant experience.
+
+### 3A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 4 Act binds the Crown
 This Act binds the Crown.
@@ -248,7 +263,7 @@ This Act binds the Crown.
 (1) The purpose of the corrections system is to improve public safety and contribute to the maintenance of a just society by—
   (a) ensuring that the community-based sentences, sentences of home detention, and custodial sentences and related orders that are imposed by the courts and the New Zealand Parole Board are administered in a safe, secure, humane, and effective manner; and
   (b) providing for corrections facilities to be operated in accordance with rules set out in this Act and regulations made under this Act that are based, amongst other matters, on the United Nations Standard Minimum Rules for the Treatment of Prisoners; and
-  (c) assisting in the rehabilitation of offenders and their reintegration into the community, where appropriate, and so far as is reasonable and practicable in the circumstances and within the resources available, through the provision of programmes and other interventions; and
+  (c) assisting in the rehabilitation of offenders and the reintegration of persons under control or supervision into the community, where appropriate, and so far as is reasonable and practicable in the circumstances and within the resources available, through the provision of programmes and other interventions; and
   (d) providing information to the courts and the New Zealand Parole Board to assist them in decision-making.
 (2) Subsection (1) does not affect the application or operation of any other Act.
 
@@ -268,6 +283,7 @@ This Act binds the Crown.
     (ii) ensuring that decisions about those persons are taken in a fair and reasonable way and that those persons have access to an effective complaints procedure:
   (g) sentences and orders must not be administered more restrictively than is reasonably necessary to ensure the maintenance of the law and the safety of the public, corrections staff, and persons under control or supervision:
   (h) offenders must, so far as is reasonable and practicable in the circumstances within the resources available, be given access to activities that may contribute to their rehabilitation and reintegration into the community:
+  (ha) accused prisoners may, so far as is reasonable and practicable in the circumstances within the resources available, be given access to activities including non-offence-based programmes to assist with their successful reintegration into the community:
   (i) contact between prisoners and their families must be encouraged and supported, so far as is reasonable and practicable and within the resources available, and to the extent that this contact is consistent with the maintenance of safety and security requirements.
 (2) Persons who exercise powers and duties under this Act or any regulations made under this Act must take into account those principles set out in subsection (1) that are applicable (if any), so far as is practicable in the circumstances.
 (3) Subsection (1) does not affect the application or operation of any other Act.
@@ -329,6 +345,7 @@ Despite anything in clauses 2 to 4 of Schedule 6 of the Public Service Act 2020 
   (g) the power to grant approvals under sections 66(5)﻿(a) and 66A(2) (which relate to the types and conditions of work in which prisoners will be employed); or
   (gaa) the power under section 81AB to reconsider a decision refusing approval for a placement, or ending the placement, of a child; or
   (ga) the power to approve an employee for the purposes of any regulations made under this Act; or
+  (gb) the power under section 127K(1) to approve the monitoring of visits and the collection of information from communications during the visits; or
   (h) the power to appoint security monitors under section 172; or
   (i) the power to issue guidelines or instructions under section 196; or
   (j) the power to appoint monitors under section 199E(1) or (2); or
@@ -666,13 +683,19 @@ A prisoner must promptly obey every lawful order given to him or her by—
   (b) biometric information being collected from the prisoner:
   (c) measurements being taken from the prisoner:
   (d) any other prescribed procedure designed to create a record to enable the subsequent identification of the prisoner.
-(2) No procedure that purports to authorise the taking of a bodily sample from a prisoner may be prescribed for the purposes of subsection (1)﻿(d).
+(1A) An authorised intelligence person (as defined in section 127A) may, for an intelligence purpose,—
+  (a) take photographs of a prisoner:
+  (b) collect biometric information from a prisoner:
+  (c) take measurements from a prisoner:
+  (d) collect information by carrying out a prescribed procedure designed to create a record to enable the subsequent identification of a prisoner.
+(2) No procedure that purports to authorise the taking of a bodily sample from a prisoner may be prescribed for the purposes of subsection (1)﻿(d) or (1A)﻿(d).
 (3) The powers conferred by subsection (1)—
   (a) may be exercised only for the purpose of—
     (i) facilitating the management and security of the prison; and
     (ii) verifying the identity of prisoners upon release into the community to ensure public safety; and
   (b) must be exercised subject to the provisions of this Act and any other enactment.
-(4) If necessary, reasonable force may be used by an officer to compel the prisoner to submit to the taking of photographs, the collection of biometric information, the taking of measurements, or other prescribed procedures.
+(4) If necessary, reasonable force may be used by an officer under subsection (1) to compel the prisoner to submit to the taking of photographs, the collection of biometric information, the taking of measurements, or other prescribed procedures.
+(4A) Information that is collected or taken from a prisoner under subsection (1) or (1A) may be monitored, collected, used, or disclosed under subpart 4A of this Part.
 (5) The chief executive must ensure that, if the prisoner is a person accused of an offence and subsequently acquitted, all information collected or taken from the prisoner under this section during the prisoner’s detention in respect of the charge, and any record of identifying information created in reliance on subsection (1) during that period, are immediately destroyed.
 
 ### 42 Certain information to be given to recently received prisoners
@@ -710,6 +733,7 @@ A prisoner must promptly obey every lawful order given to him or her by—
     (i) subject to a penalty of forfeiture of privileges imposed under subpart 5 of Part 2; or
     (ii) the subject of a direction under section 60 for the reason described in section 60(1)﻿(b) (which relates to assessing or ensuring the prisoner's mental health); or
     (iii) subject to cell confinement imposed as a penalty under subpart 5 of Part 2; or
+    (iv) an at-risk prisoner; or
   (b) if the prisoner is detained in a Police jail and, in the opinion of the manager, having regard to the facilities available at the Police jail and the resources available, it is not practicable to allow the prisoner to keep the item; or
   (c) in any other circumstances specified in regulations made under this Act or rules made under section 45A.
 
@@ -825,7 +849,9 @@ The chief executive must ensure that, as far as is practicable, every prisoner i
   (f) be consistent with the resources available to the chief executive to manage the prisoner.
 
 ### 52 Rehabilitative programmes
-The chief executive must ensure that, to the extent consistent with the resources available and any prescribed requirements or instructions issued under section 196, rehabilitative programmes are provided to those prisoners sentenced to imprisonment who, in the opinion of the chief executive, will benefit from those programmes.
+((1)) The chief executive must ensure that, to the extent consistent with the resources available and any prescribed requirements or instructions issued under section 196, rehabilitative programmes are provided to those prisoners sentenced to imprisonment who, in the opinion of the chief executive, will benefit from those programmes.
+(2) The chief executive may, to the extent consistent with the resources available and any prescribed requirements or instructions issued under section 196, enable the provision of rehabilitative programmes to prisoners on remand awaiting sentence who, in the opinion of the chief executive, will benefit from those programmes.
+(3) In deciding whether to enable the provision of programmes under subsection (2), the chief executive must consider the resources available to carry out the chief executive’s obligation under subsection (1).
 
 **Transfer of prisoners**
 
@@ -935,6 +961,7 @@ The opportunity of a prisoner to associate with other prisoners must not be deni
 (3) A direction under this section continues in force while the prisoner continues to be detained in the prison unless the prison manager or the chief executive revokes it.
 (4) The prison manager may not revoke a direction under this section unless the health centre manager advises that there has ceased to be any justification, under subsection (1), for continuing to restrict or deny the opportunity of the prisoner to associate with other prisoners.
 (5) While a direction under this section is in force, the health centre manager must, unless he or she is satisfied that it is not necessary in the circumstances, ensure that a registered health professional visits the prisoner concerned at least once a day.
+(6) As part of the visit referred to in subsection (5), the registered health professional must consider and advise the health centre manager of any matters relevant to a review of the continuing justification for a direction under this section.
 (6)
 
 ### 61 Accommodation to be provided if segregation direction in force
@@ -947,7 +974,7 @@ The opportunity of a prisoner to associate with other prisoners must not be deni
 **Prisoners at risk of self-harm**
 
 ### 61A Ongoing assessment for risk of self-harm
-A prisoner who has been assessed, in accordance with section 49(2), as not at risk of self-harm or whose at-risk assessment has been revoked must be re-assessed if there are material changes in the prisoner’s circumstances that are relevant to the risk of self-harm.
+A prisoner who has been assessed as not at risk of self-harm or whose at-risk assessment has been revoked must be reassessed if there are material changes in the prisoner’s circumstances that are relevant to the risk of self-harm.
 
 ### 61B Initial steps that prison manager and health centre manager must take in respect of at-risk prisoner
 The initial steps that must be taken in respect of an at-risk prisoner are—
@@ -961,6 +988,25 @@ The initial steps that must be taken in respect of an at-risk prisoner are—
   (a) reverse the at-risk assessment, if the prison manager considers that the prisoner is not at risk of self-harm; or
   (b) confirm the at-risk assessment, if the prison manager considers that the prisoner is at risk of self-harm.
 
+### 61CA Prison manager may direct that at-risk prisoner’s association with other prisoners be restricted or denied
+(1) A prison manager may direct that the opportunity of an at-risk prisoner to associate with other prisoners be restricted or denied if—
+  (a) the health centre manager of the prison recommends that a direction of that kind is desirable to address the prisoner’s risk of self-harm; and
+  (b) the prison manager has confirmed the prisoner’s at-risk assessment.
+(2) The direction may restrict or deny the at-risk prisoner’s opportunity to associate with other prisoners only to the extent that the restrictions or denial of opportunity are necessary for the safety of the at-risk prisoner.
+(3) If the prison manager gives a direction under this section, the prison manager must ensure that—
+  (a) the at-risk prisoner is promptly informed in writing of the reasons for the direction, and any modification of the direction; and
+  (b) the chief executive is promptly informed in writing of the direction, and any modification of the direction, and the reasons for it.
+(4) The prison manager or chief executive may, at any time, revoke or modify a direction under this section.
+(5) However, the prison manager may not—
+  (a) revoke a restriction on, or the denial of, the opportunity of the at-risk prisoner to associate with other prisoners under this section unless the health centre manager advises that there has ceased to be any justification, under subsections (1) and (2), for the restriction or denial of opportunity; or
+  (b) modify a restriction unless the prison manager has taken into account the advice of the health centre manager.
+(6) More than 1 direction may be given under this section while an at-risk management plan is in effect for the prisoner.
+(7) If the direction is not earlier revoked under subsection (4), a prison manager must revoke a direction under this section when an at-risk management plan for the prisoner ends under section 61F(2).
+(8) While a direction under this section is in force, the health centre manager must, unless the health centre manager is satisfied that it is not necessary in the circumstances, ensure that a registered health professional visits the prisoner concerned at least once a day.
+(9) As part of the visit referred to in subsection (8), the registered health professional must consider and advise the health centre manager—
+  (a) of any matters relevant to the continuing justification for a direction under this section; and
+  (b) whether the prisoner’s at-risk assessment should be reviewed.
+
 ### 61D At-risk management plan established
 (1) If a prison manager confirms a prisoner’s at-risk assessment, the prison manager must ensure that an at-risk management plan is established for the prisoner as soon as practicable.
 (2) The plan must be established in consultation with—
@@ -969,14 +1015,12 @@ The initial steps that must be taken in respect of an at-risk prisoner are—
 
 ### 61E Content of at-risk management plan
 (1) An at-risk management plan must specify—
-  (a) the restrictions (if any) on the opportunity of the prisoner to associate with other prisoners; and
+  (a) whether any direction is in effect under section 61CA to restrict or deny the opportunity of the prisoner to associate with other prisoners; and
   (b) the steps to be taken to address the prisoner’s risk of self-harm; and
   (c) the situations in which the prisoner must be strip searched.
-(2) The plan may specify restrictions on the opportunity of the prisoner to associate with other prisoners only to the extent that those restrictions are necessary for the safety of the prisoner or the safety of other prisoners.
-(3) If the plan specifies restrictions on the opportunity of the prisoner to associate with other prisoners, the prison manager must ensure that—
-  (a) the prisoner is promptly informed in writing of the reasons for the restrictions; and
-  (b) the chief executive is promptly informed in writing of the restrictions and of the reasons for those restrictions.
-(4) The chief executive may, at any time, revoke or modify a restriction on the opportunity of a prisoner to associate with other prisoners and amend the plan accordingly.
+(2)
+(3)
+(4)
 (5) The plan must be revised as necessary at regular intervals, in accordance with any requirements prescribed by regulations made under this Act and any relevant instructions issued under section 196.
 
 ### 61F Revocation of confirmed at-risk assessment
@@ -984,7 +1028,7 @@ The initial steps that must be taken in respect of an at-risk prisoner are—
 (2) On the revocation of a prisoner’s at-risk assessment by the prison manager, the at-risk management plan for that prisoner ends.
 
 ### 61G Health centre manager must consult registered health professional if advice outside scope of practice
-A health centre manager must not give advice under section 61C or 61F in relation to a matter that is outside his or her scope of practice, unless the health centre manager has first consulted a registered health professional whose scope of practice includes the matter in question.
+A health centre manager must not give advice under section 61C, 61CA, or 61F in relation to a matter that is outside his or her scope of practice, unless the health centre manager has first consulted a registered health professional whose scope of practice includes the matter in question.
 
 ### 61H Designation of at-risk cell
 (1) The prison manager may designate a cell as an at-risk cell.
@@ -1347,15 +1391,22 @@ Subject to any restrictions set out in this Act or regulations made under this A
 (1) No officer or staff member may deliberately act or speak in a manner likely to provoke a prisoner.
 (2) To avoid doubt, subsection (1) does not prevent an officer or staff member from issuing any lawful order to a prisoner or providing any information to a prisoner or otherwise carrying out his or her duties.
 
-### 85 Use of non-lethal weapons
-(1) In any situation described in section 83(1) or in any other situation where an officer or staff member is authorised by any other provision in this Act or any other enactment to use physical force, any officer or staff member may, if necessary, use any kind of non-lethal weapon prescribed for use.
-(2) The use of a non-lethal weapon by an officer or a staff member—
+### 85 Use of less-lethal weapons
+(1) In any situation described in section 83(1) or in any other situation where an officer or staff member is authorised by any other provision in this Act or any other enactment to use physical force, any officer or staff member may, if necessary, use any kind of less-lethal weapon prescribed for use.
+(1A) An officer may only use a less-lethal weapon prescribed for use in dealing with a prisoner who is passively resisting a lawful order in the situation described in section 83(1)﻿(c)﻿(ii) if the officer has reasonable grounds for believing there is an imminent threat of injury or harm to the prisoner or any other person.
+(2) The use of a less-lethal weapon by an officer or a staff member—
   (a) is subject to any conditions or restrictions specified in regulations made under this Act; and
   (b) must, if the weapon is used in any situation described in section 83(1), be in accordance with section 83(2).
-(3) Regulations may not be made authorising the use of any kind of non-lethal weapon unless the Minister is satisfied that—
+(3) Regulations may not be made authorising the use of any kind of less-lethal weapon unless the Minister is satisfied that—
   (a) the use of that kind of weapon is compatible with the humane treatment of prisoners; and
   (b) the potential benefits from the use of the weapon outweigh the potential risks.
-(4) In this section, non-lethal weapon means any weapon designed—
+(3A) The Minister must consider sufficient information relevant to the use of a less-lethal weapon to be satisfied of the matters in subsection (3).
+(3B) The information must be provided to the Minister by the chief executive and may include, without limitation, the following:
+  (a) operational policies and procedures including, without limitation, those relating to the management of health impacts relating to the use of the weapon:
+  (b) training manuals:
+  (c) manufacturers’ safety and operational information:
+  (d) any reports by domestic or international agencies that relate to the consistency of the use of the weapon with the humane treatment of prisoners.
+(4) In this section, less-lethal means any weapon designed—
   (a) to temporarily disable a person against whom it is used; or
   (b) to incapacitate a person against whom it is used.
 (5) This section does not limit the powers of a constable under any other enactment.
@@ -1395,7 +1446,7 @@ Subject to any restrictions set out in this Act or regulations made under this A
 (7) In subsection (6), chains or irons does not include handcuffs.
 
 ### 88 Reporting on use of force, weapons, and mechanical restraints
-Particulars of the use of force, non-lethal weapons, and mechanical restraints must, wherever required by regulations made under this Act,—
+Particulars of the use of force, less-lethal weapons, and mechanical restraints must, wherever required by regulations made under this Act,—
   (a) be recorded; and
   (b) be given by notice in writing to the chief executive and to any other person or persons specified in those regulations.
 
@@ -1440,9 +1491,11 @@ For the purposes of the Public Safety (Public Protection Orders) Act 2014, a sca
   (b) comply with any other procedure that needs to be undertaken to carry out the search.
 
 ### 92A Meaning of scanner search for purposes of this Act
-(1) For the purposes of this Act, scanner search means a search of a person and the person’s clothing or possessions using an electronic device (whether or not the device uses imaging technology) designed to identify the presence of unauthorised items that are concealed—
-  (a) in a person’s body:
-  (b) beneath or within clothing or possessions.
+(1) For the purposes of this Act, scanner search means—
+  (a) a search of a person and the person’s clothing or possessions using an electronic device (whether or not the device uses imaging technology) designed to identify the presence of unauthorised items that are concealed—
+    (i) in a person’s body:
+    (ii) beneath or within clothing or possessions; or
+  (b) a search of a person using an electronic device (whether or not the device uses imaging technology) designed to measure a person’s body temperature.
 (2) For the purpose of facilitating a scanner search under this Act, the person conducting the search may require the person being searched to—
   (a) remove any item of outer clothing (including, without limitation, any jacket, jumper, or sweatshirt) that needs to be removed in order to carry out the search, except where the person being searched has no other clothing, or only underclothing, under that outer clothing:
   (b) remove any head covering, gloves, footwear (including socks or stockings), belts, jewellery, or other accessories:
@@ -1457,11 +1510,14 @@ For the purposes of this Act, imaging technology search—
 (1) An image produced as a result of an imaging technology search must,—
   (a) so far as practicable, avoid showing a clear image of the body beneath clothing; and
   (b) obscure the genitals or make them not easily distinguishable if they are included in the image.
-(2) An image produced as a result of an imaging technology search must be retained only as long as is necessary to determine the presence of an unauthorised item.
+(2) An image produced as a result of an imaging technology search for the purpose of detecting any unauthorised item must be disposed of within 24 hours.
+(2A) An image produced as a result of an imaging technology search for the purpose of measuring a person’s body temperature must be disposed of within 1 hour.
 (3) Despite anything to the contrary in another enactment, a person who conducts an imaging technology search must not, without reasonable excuse, photograph or copy the image or provide the image to another person.
 
-### 92D Particular restrictions when imaging technology search used as alternative to strip search
-(1) The restrictions in section 92C(1) do not apply where an imaging technology search is used as an alternative to a strip search under section 98(9).
+### 92D Particular restrictions when imaging technology search used as alternative to rub-down search or strip search
+(1) The restrictions in section 92C(1) do not apply if an imaging technology search is used as—
+  (a) an alternative to a rub-down search under section 98B(2); or
+  (b) an alternative to a strip search under section 98F.
 (2) However, an image that is produced using imaging technology—
   (a) may be viewed only by an officer or a constable of the same sex as the person who is searched; and
   (b) may not be viewed by another prisoner.
@@ -1473,7 +1529,9 @@ Nothing in this Act authorises or permits the internal examination of any body o
 (1) The following searches may be carried out only by a person of the same sex as the person to be searched:
   (a) a rub-down search:
   (b) a strip search:
-  (c) an imaging technology search that is used as an alternative to a strip search under section 98(9).
+  (c) an imaging technology search that is used as—
+    (i) an alternative to a rub-down search under section 98B(2); or
+    (ii) an alternative to a strip search under section 98F.
 (1A) A strip search must not be carried out in view of any person who is not of the same sex as the person to be searched.
 (2) A person who carries out a scanner search, rub-down search, or strip search must conduct the search with decency and sensitivity and in a manner that affords to the person being searched the greatest degree of privacy and dignity consistent with the purpose of the search.
 (3) No officer may conduct a strip search unless one of the following persons is also present:
@@ -1484,11 +1542,30 @@ Nothing in this Act authorises or permits the internal examination of any body o
   (a) another officer:
   (b) a constable.
 
+### 94A Prisoner’s preference in relation to searches
+(1) Despite sections 92D(2)﻿(a) and 94(1) and (1A), if the chief executive has determined under regulations made under this Act that a prisoner is to be detained in a prison for male prisoners or a prison for female prisoners, the prisoner may choose the sex of a person who is to—
+  (a) carry out any specified search of the prisoner; or
+  (b) view any specified image of the prisoner; or
+  (c) be present during any strip search of the prisoner.
+(2) Any specified search of the prisoner may only be carried out by a person of the sex chosen by the prisoner, unless there are reasonable grounds for not complying with this subsection.
+(3) Any specified image of the prisoner may only be viewed by an officer or constable of the sex chosen by the prisoner, unless there are reasonable grounds for not complying with this subsection.
+(4) A strip search of the prisoner must not be carried out in view of any person who is not of the sex chosen by the prisoner, unless there are reasonable grounds for not complying with this subsection.
+(5) For the purposes of this section,—
+  - **specified image** means an image that is produced using imaging technology, if imaging technology is used as—
+    (a) an alternative to a rub-down search under section 98B(2); or
+    (b) an alternative to a strip search under section 98F
+  - **specified search** means the following:
+    (a) a rub-down search:
+    (b) a strip search:
+    (c) an imaging technology search that is used as—
+      (i) an alternative to a rub-down search under section 98B(2); or
+      (ii) an alternative to a strip search under section 98F.
+
 ### 95 Authority to detain for purposes of search
 Authority conferred by this Act to search any person includes the authority to detain that person for the purposes of the search.
 
 ### 96 Authority to search property
-(1) Authority conferred by this Act to conduct a scanner search of any person includes the authority to search—
+(1) Authority conferred by this Act to conduct a scanner search (as defined in section 92A(1)﻿(a)) of any person includes the authority to search—
   (a) any item carried by, or in the possession of, that person:
   (b) any outer clothing removed for the purposes of the search:
   (c) any head covering, gloves, footwear (including socks or stockings), belts, jewellery, or other accessories removed for the purposes of the search.
@@ -1512,52 +1589,57 @@ Authority conferred by this Act to search any person includes the authority to d
 (3) While any officer is using a dog for the purposes of searching any person, the officer who has control of the dog must take reasonable steps to prevent the dog from coming into physical contact with the person being searched.
 (4) Any officer who uses a dog for the purposes of searching any person must conduct the search with decency and sensitivity and in a manner that affords to the person being searched the greatest degree of dignity consistent with the purpose of the search.
 
-### 98 Search of prisoners and cells
-(1) An officer may, at any time, for the purpose of detecting any unauthorised item, conduct—
-  (a) a scanner search of any prisoner:
-  (b) a rub-down search of any prisoner:
-  (c) a search of any cell in a prison.
-(2) Nothing in subsection (1)﻿(c) limits or affects any power or authority to search or inspect any cell in any prison for any purpose relating to the security of the prison.
-(3) An officer may conduct a strip search of a prisoner—
-  (a) if the officer—
-    (i) has reasonable grounds for believing that the prisoner has in his or her possession an unauthorised item; and
-    (ii) has obtained the manager's approval to the conduct of a strip search; or
-  (b) in the situations referred to in subsection (6).
-(4) Despite subsection (3)﻿(a)﻿(ii), it is not necessary to obtain the approval of a prison manager for the conduct of a strip search under subsection (3) if the delay involved in obtaining that approval would endanger the health or safety of any person or prejudice the maintenance of security at the prison.
-(5) The power to conduct a strip search of a prisoner under subsection (3) may only be exercised—
-  (a) for the purpose of detecting any unauthorised item; and
-  (b) if a strip search is necessary in the circumstances for the purpose of detecting an unauthorised item.
-(6) The situations referred to in subsection (3)﻿(b) are as follows:
-  (a) immediately before the prisoner is locked in a cell to undergo a penalty of cell confinement imposed under subpart 5 of Part 2:
-  (b) on the return of the prisoner to the prison after the prisoner is temporarily released from custody:
-  (ba) on the return of the prisoner to the prison after the prisoner has been outside the prison in the control of an officer, a probation officer, or a staff member who is not an officer:
-  (c) on the return of the prisoner from work or from a part of the prison that is not supervised:
-  (d) immediately before the prisoner leaves the prison:
-  (e) at any time while the prisoner is being transferred to another prison:
-  (f) at any time while the prisoner is outside the prison in the control of an officer:
-  (g) immediately before or immediately after the prisoner is brought before—
-    (i) a Visiting Justice for the purposes of any hearing or examination under subpart 5 of Part 2 or any appeal under subpart 5 of Part 2:
-    (ii) a hearing adjudicator for the purposes of any hearing or examination under subpart 5 of Part 2:
-    (iii) any tribunal or court:
-    (iv) any hearing before the New Zealand Parole Board:
-  (h) immediately before any person visits the prisoner:
-  (i) immediately after any person has visited the prisoner:
-  (j) if the prisoner is required under section 124 to submit to a prescribed procedure in the situation referred to in section 124(2)﻿(d), immediately before the prisoner submits to that procedure.
-(7) Every prisoner must be required to undergo a strip search conducted by an officer—
+### 98 Search of cells
+(1) An officer may conduct a search of any cell in a prison, at any time, for the purpose of detecting any unauthorised item.
+(2) Nothing in this section limits or affects any power or authority to search or inspect any cell in any prison for any purpose relating to the security of the prison.
+
+### 98A Scanner search of prisoners
+Detecting unauthorised item
+(1) An officer may conduct a scanner search (as defined in section 92A(1)﻿(a)) of any prisoner, at any time, for the purpose of detecting any unauthorised item.
+Measuring body temperature
+(2) An officer may conduct a scanner search (as defined in section 92A(1)﻿(b)) of any prisoner for the purpose of measuring the prisoner’s body temperature to ascertain any risk that they may be carrying a communicable disease.
+(3) A scanner search under subsection (2) may only be carried out in accordance with an authorisation under section 103AAA.
+
+### 98B Rub-down search of prisoners
+(1) An officer may conduct a rub-down search of any prisoner, at any time, for the purpose of detecting any unauthorised item.
+(2) An officer may conduct an imaging technology search of any prisoner as an alternative to a rub-down search if the chief executive has approved the device used in the imaging technology search as suitable for the purpose of replacing a rub-down search.
+
+### 98C Strip search of prisoner required in specified circumstances
+(1) Every prisoner must be required to undergo a strip search conducted by an officer—
   (a) on first being admitted to a prison; and
-  (b)
-  (c) on being received in a prison on transfer from another prison.
-(7A) Every at-risk prisoner must be required to undergo a strip search conducted by an officer—
+  (b) on being received in a prison on transfer from another prison.
+(2) Every at-risk prisoner must be required to undergo a strip search conducted by an officer—
   (a) each time the prisoner enters an at-risk cell, until an at-risk management plan is established for the prisoner:
   (b) in the situations set out in the at-risk management plan for the prisoner.
-(7B)
-(8) A prisoner who is required under section 124 (other than in the situation referred to in section 124(2)﻿(d)) to submit to a prescribed procedure for the purpose of detecting whether or not the prisoner has used drugs or consumed alcohol, or both, may, immediately before the prisoner supplies a sample in accordance with that procedure, be required to undergo a strip search conducted by an officer, but only if—
+(3) Subsection (2)﻿(a) does not apply if—
+  (a) a strip search has been conducted under subsection (1) or section 98D(1); and
+  (b) the prisoner has been supervised by an officer since the strip search was conducted; and
+  (c) an officer (who may be the same officer as under paragraph (b) or a different officer) considers a strip search under subsection (2)﻿(a) to be unnecessary.
+
+### 98D Strip search of prisoner for purpose of detecting unauthorised item
+(1) An officer may conduct a strip search of a prisoner if the officer—
+  (a) has reasonable grounds for believing that the prisoner has in their possession an unauthorised item; and
+  (b) has obtained the manager’s approval for the conduct of a strip search.
+(2) The power to conduct a strip search of a prisoner under subsection (1) may only be exercised—
+  (a) for the purpose of detecting any unauthorised item; and
+  (b) if a strip search is necessary in the circumstances for the purpose of detecting an unauthorised item.
+(3) Despite subsection (1)﻿(b), it is not necessary to obtain the approval of a prison manager for the conduct of a strip search if the delay involved in obtaining the approval would endanger the health or safety of any person or prejudice the maintenance of security at the prison.
+
+### 98E Strip search of prisoner for purpose of detecting use of drugs or alcohol
+(1) This section applies to a prisoner who is required under section 124 (other than in the situation referred to in section 124(2)﻿(d)) to submit to a prescribed procedure for the purpose of detecting whether the prisoner has used drugs or consumed alcohol, or both.
+(2) Immediately before the prisoner supplies a sample in accordance with the prescribed procedure, the prisoner may be required to undergo a strip search conducted by an officer.
+(3) A strip search of the prisoner may only be required under subsection (2) if—
   (a) the nature of the prescribed procedure is such that there is a risk that the prisoner may dilute, contaminate, or otherwise tamper with the sample; and
   (b) a strip search is necessary to ensure that such dilution, contamination, or tampering does not occur.
-(9) If a prisoner is required to undergo a strip search under this section, a scanner search may be undertaken as an alternative if the chief executive has approved the device as suitable for the purpose of replacing a strip search.
+
+### 98F Imaging technology search may be alternative to strip search
+An officer may conduct an imaging technology search of any prisoner as an alternative to a strip search under this Act if the chief executive has approved the device used in the imaging technology search as suitable for the purpose of replacing a strip search.
 
 ### 99 Search of persons other than prisoners
-(1) A person who wishes to enter a prison or to visit a prisoner may, before being admitted to the prison or before being allowed access to any prisoner, be required to undergo a scanner search conducted by an officer for the purpose of detecting any unauthorised item.
+(1) A person who wishes to enter a prison or to visit a prisoner may, before being admitted to the prison or before being allowed access to any prisoner, be required to undergo the following:
+  (a) a scanner search (as defined in section 92A(1)﻿(a)) conducted by an officer for the purpose of detecting any unauthorised item:
+  (b) a scanner search (as defined in section 92A(1)﻿(b)) conducted by an officer for the purpose of measuring the person’s body temperature to ascertain any risk that they may be carrying a communicable disease.
+(1A) A scanner search under subsection (1)﻿(b) may only be carried out in accordance with an authorisation under section 103AAA.
 (2) A person who enters a prison or visits a prisoner may, at any time while that person is in the prison or visiting a prisoner, be required to undergo a scanner search conducted by an officer for the purpose of detecting any unauthorised item, and, if that person refuses to submit to a scanner search, reasonable force may be used for the purposes of carrying out the search.
 (3) If any officer has reasonable grounds to suspect that any person who wishes to enter a prison or visit a prisoner, or who is in a prison or visiting a prisoner, has in his or her possession any unauthorised item, the officer may, with that person's consent, conduct a rub-down search of that person.
 (4) Any person who refuses to submit to a scanner search or a rub-down search before being admitted to a prison or any part of a prison or before being allowed access to a prisoner—
@@ -1617,6 +1699,16 @@ Authority conferred by this Act to search any person includes the authority to d
 (4) A person must not be detained under this section for a period exceeding 4 hours.
 (5) A person who is detained under this section is not a prisoner (within the meaning of section (3)﻿(1)).
 
+### 103AAA Scanner search authorised to ascertain risk of communicable disease
+(1) The prison manager may authorise a scanner search for the purpose of measuring a person’s body temperature if—
+  (a) the prison manager considers that the scanner search is necessary and justifiable to ascertain any risk that the person entering the prison may be carrying a communicable disease; and
+  (b) the prison manager has taken into account advice from a registered health professional on the matter; and
+  (c) the chief executive has approved the device used in the search as suitable for the purpose.
+(2) The authorisation may apply to 1 or more persons or classes of persons.
+(3) The authorisation may apply only for a period of time that is reasonable in the circumstances based on the advice obtained from the registered health professional under subsection (1)﻿(b).
+(4) The period of time must be specified in the authorisation.
+(5) The authorisation may be extended or revoked in the same manner in which it was made.
+
 **Opening and reading of mail and withholding of correspondence**
 
 ### 103A Interpretation
@@ -1658,7 +1750,7 @@ No prisoner at any prison may send mail to another prisoner without first notify
   (a) the prisoner or the other person asks the manager to do so; or
   (b) the other person is under 16 years, and his or her guardian asks the manager to do so; or
   (c) the other person is a prisoner, and neither prisoner has first notified the prison manager of his or her intention to correspond; or
-  (d) the manager believes on reasonable grounds that the correspondence may, directly or indirectly,—
+  (d) the manager believes on reasonable grounds that the correspondence or mail may, directly or indirectly,—
     (i) threaten or intimidate any person; or
     (ii) endanger the safety or welfare of any person; or
     (iii) pose a threat to the security of the prison; or
@@ -1695,7 +1787,7 @@ A staff member must not open any mail and an authorised person must not read any
 (9) No mail between a prisoner and his or her legal adviser may contain any item other than correspondence or documents relating to the prisoner's legal affairs unless the prisoner and legal adviser first obtain the prison manager's written approval.
 
 ### 110A Restrictions on disclosure of mail
-An authorised person must not disclose any information obtained from correspondence contained in any mail between a prisoner and another person unless—
+An authorised person must not disclose any information obtained from correspondence or mail between a prisoner and another person unless—
   (a) the disclosure is made to another authorised person for the purpose of determining whether—
     (i) mail may be withheld under section 108(1); or
     (ii) mail that is withheld under section 108(1) should be forwarded to an enforcement officer under section 108(2); or
@@ -1709,171 +1801,53 @@ An authorised person must not disclose any information obtained from corresponde
 
 ### 110B Warnings in relation to mail
 The chief executive must take all practicable steps to ensure that when, or reasonably promptly after, prisoners are received at a prison they are informed in writing—
-  (a) that their correspondence—
-    (i) may be opened and read; and
-    (ii) may be withheld, and the grounds on which it may be withheld; and
-  (b) about the types of correspondence that are exempted from being opened, read, and withheld, and the extent to which the exemptions apply.
+  (a) that—
+    (i) their mail may be opened and withheld, and of the grounds on which it may be withheld; and
+    (ii) their correspondence may be opened, read, and withheld, and of the grounds on which it may be withheld; and
+  (b) about—
+    (i) the types of mail that are exempted from being opened and withheld, and the extent to which the exemptions apply; and
+    (ii) the types of correspondence that are exempted from being opened, read, and withheld, and the extent to which the exemptions apply.
 
 ### 110C Application of Privacy Act 2020
-The Privacy Act 2020 applies to any activity authorised under any of sections 104 to 110B relating to correspondence to or from a prisoner.
+The Privacy Act 2020 applies to any activity authorised under any of sections 104 to 110B relating to correspondence or mail to or from a prisoner.
 
 **Telephone calls may be monitored**
 
 ### 111 Interpretation
-In this section and in sections 112 to 122, unless the context otherwise requires,—
-  - **completely erased** means erased so that it is not retrievable
-  - **contracted provider** means a person engaged by the chief executive to provide services in connection with telephone monitoring
-  - **device** , in relation to a telephone call, includes any answering machine, computer, fax, printer, tape recorder, or telephone
-  - **disclose a prisoner call** means to disclose the substance, meaning, or purport of a prisoner call, or of any part of it; and includes—
-    (a) to allow any person to listen to or read a recording of a prisoner call; and
-    (b) to give or lend to any person a recording of a prisoner call
-  - **eligible employee** means a person who is an employee of the chief executive, an employee of a contractor, an employee of a contracted provider, or a contracted provider
-  - **exempt call** means a prisoner call to which section 114 applies
-  - **information** includes data in digital form
-  - **monitor** means to do any or all of the following:
-    (a) listen to, record, and take notes from:
-    (b) listen to, read, and take notes from a recording of
-  - **prisoner call** —
-    (a) means any information transmitted by means of a telephone call to which a prisoner is a party that is conducted while the prisoner is in the prison; and
-    (b) includes part of a prisoner call
-  - **recording** , in relation to a prisoner call, means any means by which all or any part of the call has been captured; and includes—
-    (a) a copy or printout of such a means:
-    (b) a transcript, written translation, or written translation of a transcript, of the call:
-    (c) a copy of a recording of a transcript, written translation, or written translation of a transcript, of the call
-  - **telephone call** means a call made, using any part or parts of 1 or more telephone systems, between a device and any other device or devices
-  - **telephone system** includes a telephone network
-  - **translate** includes to decode and decrypt; and has a corresponding meaning.
+[Repealed]
 
 ### 112 Purposes of monitoring prisoners' calls
-(1) The principal purpose of monitoring prisoner calls is to increase the safety of the community by making it easier to—
-  (a) prevent and discourage the commission of offences by, for the benefit of, or with the help or encouragement of, prisoners; and
-  (b) detect and investigate offences committed by, for the benefit of, or with the help or encouragement of, prisoners; and
-  (c) prosecute, convict, and punish—
-    (i) prisoners who commit offences, or who help or encourage other people to commit offences; and
-    (ii) people who commit offences for the benefit of, or with the help or encouragement of, prisoners; and
-  (ca) detect and prevent non-compliance with directions given under section 168A (no-contact conditions if family violence offence defendant remanded in custody) of the Criminal Procedure Act 2011; and
-  (d) prevent and discourage escapes from prisons.
-(2) Monitoring prisoner calls also has the purpose of making it easier to—
-  (a) maintain the security, good order, and discipline of prisons; and
-  (b) protect the safety of prisoners.
+[Repealed]
 
 ### 113 Prisoner calls that may be monitored
-(1) Any prisoner call that is not an exempt call may be monitored under this Act.
-(2) An exempt call may be monitored under this Act if the person undertaking the monitoring does not have reasonable grounds to believe that it is an exempt call.
-(3) A person listening to a prisoner call or a recording of a prisoner call under this Act who forms the view that there are reasonable grounds to believe that it is an exempt call—
-  (a) must promptly stop listening to it; and
-  (b) must take all practicable steps to ensure that every recording of it is destroyed or completely erased.
-(4) Subsection (2) is subject to subsection (3).
+[Repealed]
 
 ### 114 Certain calls must not be monitored
-(1) A prisoner call to which subsection (2) applies is exempt from monitoring under this Act.
-(2) This subsection applies to a prisoner call if, and only if, it is—
-  (a) a call between a prisoner and a member of Parliament; or
-  (b) a call, relating to the prisoner's legal affairs, between a prisoner and a barrister or solicitor of the High Court—
-    (i) who acts for the prisoner; or
-    (ii) with whom the prisoner is discussing the possibility of the person's acting for the prisoner; or
-  (c) a call between a prisoner and a person acting, in respect of the prisoner, in an official capacity as—
-    (i) an Ombudsman; or
-    (ii) an inspector of corrections; or
-    (iii) the Health and Disability Commissioner; or
-    (iv) the Privacy Commissioner; or
-    (v) a member of the Human Rights Commission continued by section 4 of the Human Rights Act 1993, or an employee of the Commission; or
-    (vi) a member of the Independent Police Conduct Authority; or
-    (vii) a board member of the Children and Young People’s Commission; or
-    (viii) a Justice of the Peace; or
-  (d) a call between a prisoner and a person acting, in his or her official capacity, on behalf of the International Criminal Court; or
-  (e) a call between a prisoner and a person (other than a prisoner) who—
-    (i) is a person of a kind or description for the time being exempted from monitoring under this Act by the Governor-General by Order in Council (being an order specifying a purpose or purposes for which the exemption is granted); and
-    (ii) is acting for a purpose specified in the order; or
-  (f) a call between a prisoner and a person (other than a prisoner) for the time being exempted from monitoring under this Act by the chief executive.
-(3) An order under subsection (2)﻿(e)﻿(i) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 115 Only certain persons may monitor
-(1) No person other than the chief executive or a person who is an eligible employee authorised by the chief executive to monitor prisoner calls (in subsection (2), and sections 117, 118, and 120 referred to as an authorised person) may monitor a prisoner call under this Act.
-(2) A person authorised to monitor prisoner calls under subsection (1) ceases to be an authorised person if—
-  (a) the chief executive cancels the authority; or
-  (b) the person ceases to be an eligible employee.
-(3) A person to whom subsection (4) applies may listen to a prisoner call or a recording of a prisoner call, or read a transcript of a prisoner call, if doing so is necessary for, or incidental to any other action or process necessary for, the effective undertaking of the work concerned.
-(4) This subsection applies to a person who is undertaking, with the chief executive's authority, work comprising the administration, installation, maintenance, repair, testing, or upgrading of a system—
-  (a) by or from which recordings of prisoner calls are made; or
-  (b) in which recordings of prisoner calls are stored.
-(5) Subsection (1) is subject to subsection (2) and to section 117(4) to (6).
+[Repealed]
 
 ### 116 Warnings
-The chief executive must take all practicable steps to ensure that—
-  (a) on or reasonably promptly after being admitted to a prison, prisoners are informed in writing—
-    (i) that some of their telephone calls may be monitored; and
-    (ii) which types of call are exempt from monitoring; and
-    (iii) the purposes for which information obtained from monitoring may be used; and
-  (b) there are prominently placed in every prison, near telephones that prisoners are authorised to use, written notices—
-    (i) warning prisoners that their telephone calls (other than exempt calls) may be monitored; and
-    (ii) stating in general terms the purposes for which information obtained from monitoring may be used; and
-  (c) at the start of every outward prisoner call that is being or is to be monitored, the prisoner hears, and there is transmitted to the device to which the call is made, a message to the effect that the call may be monitored.
+[Repealed]
 
 ### 117 Authorised disclosure of information
-(1AAA) An authorised person may disclose a prisoner call only as provided in this section.
-(1) An authorised person may disclose a prisoner call for a purpose set out in section 112 as a purpose of monitoring prisoner calls.
-(2) An authorised person may disclose a prisoner call if the authorised person believes on reasonable grounds that the disclosure—
-  (a) is necessary to avoid prejudice to the maintenance of the law by a public sector agency (within the meaning of the Privacy Act 2020), including the prevention, detection, investigation, prosecution, and punishment of offences; or
-  (b) is necessary for the conduct of proceedings (already commenced or reasonably in contemplation) before a court or tribunal; or
-  (c) is necessary to prevent or lessen a serious threat (as defined in section 7(1) of the Privacy Act 2020) to—
-    (i) public health or public safety; or
-    (ii) the life or health of any person; or
-  (d) has been authorised by the Privacy Commissioner under section 30 of the Privacy Act 2020.
-(2A) An authorised person may disclose a prisoner call to an intelligence and security agency only if the authorised person believes, on reasonable grounds, that the disclosure is necessary to enable the agency to perform any of its functions under section 10, 11, 13, or 14 of the Intelligence and Security Act 2017.
-(3) An authorised person may disclose a prisoner call to the prisoner concerned.
-(4) An authorised person who is listening to a prisoner call may allow any eligible employee to listen to the call for the purpose of interpreting it.
-(5) An authorised person may allow any eligible employee to listen to a recording of a prisoner for the purpose of providing a transcript, a written translation, or both.
-(6) An authorised person may allow any eligible employee to read a transcript of a prisoner call for the purpose of providing a written translation.
-(7)
+[Repealed]
 
 ### 118 Restrictions on disclosure of information
-(1) An authorised person must not knowingly disclose a prisoner call otherwise than under section 117.
-(2) An authorised person who is listening to a prisoner call must not knowingly allow any other person to listen to it, except under section 117.
-(3) An eligible employee (other than an authorised person) who, under section 117, has been allowed to listen to a prisoner call or a recording of a prisoner call, or to read a transcript of a prisoner call, must not knowingly disclose the call except to an authorised person.
-(4) A person who, under section 115(2), has heard a prisoner call or a recording of a prisoner call, or read a transcript of a prisoner call, must not knowingly disclose the call except to an authorised person.
+[Repealed]
 
 ### 119 Application of Privacy Act 2020
-The Privacy Act 2020 applies to the monitoring of prisoner calls under sections 112 to 122.
+[Repealed]
 
 ### 120 Destruction of recordings
-(1) The chief executive must take all practicable steps to ensure that every recording of a prisoner call held by the chief executive is destroyed or completely erased,—
-  (a) not later than 2 years after the call was made unless the chief executive has within that time considered that the information contained in the recording is likely to be—
-    (i) required for the purposes of an investigation into an offence or possible offence; or
-    (ii) required for the purposes of an investigation into the possibility that an offence may be committed in the future; or
-    (iii) required for evidence in a prosecution or possible prosecution for an offence, or in disciplinary proceedings, or in proceedings against a prisoner for a disciplinary offence; or
-    (iv) required to be disclosed under the Privacy Act 2020; or
-  (b) within a time prescribed in regulations (being a time not later than 2 years after the call was made) if any circumstances prescribed in regulations apply.
-(1A) If a recording of a prisoner call is held by the chief executive for any reason specified in subsection (1)﻿(a), the chief executive must, as soon as he or she is satisfied that the information contained in the recording is no longer likely to be required for that reason, take all practicable steps to ensure the recording is destroyed or completely erased.
-(2) Despite subsection (1), if the Privacy Commissioner has notified the chief executive in writing that a complaint has been made under the Privacy Act 2020 in relation to the recording, the recording must not be destroyed or erased in accordance with that subsection until the Privacy Commissioner has notified the chief executive in writing that the complaint has—
-  (a) not been proceeded with; or
-  (b) been finally disposed of.
-(3) The Commissioner of Police or, as the case may be, the chief executive or board of a public service agency (except an intelligence or security agency) must take all practicable steps to ensure that every recording of a prisoner call held by the Police or that department that was obtained by the monitoring of the call under this Act is destroyed, or completely erased, as soon as it appears that no proceedings or disciplinary proceedings (or no further proceedings or disciplinary proceedings) will be taken in which any information contained in it would be likely to be required to be produced in evidence.
-(3A) The Director-General of an intelligence and security agency must ensure that every recording of a prisoner call held by the agency that was obtained by the monitoring of the call under this Act is destroyed, or completely erased, as soon as practicable if the recording is not required, or is no longer required, by the agency for the purpose of its functions.
-(4) Nothing in subsections (1), (3), and (3A) applies to any record of any information adduced in proceedings in any court or tribunal.
-(5) Subsection (6) applies if—
-  (a) 2 or more recordings of prisoner calls are stored in such a way that it is not practicable to destroy or completely erase one without destroying or completely erasing the others; and
-  (b) subsection (1) requires the destruction or complete erasure of 1 or more, but not all of them.
-(6) If this subsection applies, an authorised person may arrange for the recording or recordings that are not required to be destroyed or completely erased to be copied, so that the copy or copies may be retained and all the recordings may be destroyed or completely erased.
-(7) Any copy made in accordance with subsection (6) is admissible in evidence to the same extent that the destroyed recording it is a copy of would have been.
-(8) For the purpose of subsection (3),—
-  (a) public service agency has the meaning given to it in section 5 of the Public Service Act 2020:
-  (b) if the recording referred to in subsection (3) is held by a departmental agency or an interdepartmental executive board (within the meaning of those terms in section 5 of the Public Service Act 2020), compliance with that subsection is the responsibility of its host department or, as the case may be, servicing department.
+[Repealed]
 
 ### 121 Notice to be given of intention to produce evidence of recording
-Particulars of a recording of a prisoner call must not be received in evidence by any court against any person, or in any proceedings against a prisoner for a disciplinary offence, unless the party intending to adduce it has given the person reasonable notice of the party's intention to do so, together with—
-  (a) either—
-    (i) a transcript of the recording if the party intends to adduce it in the form of a recording; or
-    (ii) a written statement setting out the full particulars of the recording if the party intends to adduce oral evidence of it; and
-  (b) a statement of the time, place, and date of the call, and of the names and addresses of the parties to the call, if they are known.
+[Repealed]
 
 ### 122 Privileged evidence
-(1) This subsection applies to evidence that—
-  (a) has been obtained by the monitoring of a prisoner call under sections 112 to 121; and
-  (b) but for the monitoring, would have been privileged by virtue of—
-    (i) any provision of Part 3 of the Evidence Amendment Act (No 2) 1980; or
-    (ii) any rule of law conferring privilege on communications of a professional character between a barrister or solicitor and a client.
-(2) Evidence to which subsection (1) applies remains privileged, and must not be given in any court except with the consent of the person entitled to waive the privilege.
+[Repealed]
 
 **Alcohol and drugs**
 
@@ -1918,6 +1892,254 @@ If, under section 124, a prisoner submits to a prescribed procedure, the prison 
   (a) in any proceedings under this Act, other than proceedings for an offence against section 129 or section 130(1); or
   (b) in any proceedings under any other enactment.
 (2) To avoid doubt, subsection (1) does not prevent any fact or information from being presented to, or considered by, the New Zealand Parole Board.
+
+### Subpart 4A — Monitoring, collecting, using, and disclosing prisoner communications and information sources for intelligence purpose
+
+### 127A Interpretation
+In this subpart, unless the context otherwise requires,—
+  - **authorised intelligence person** means—
+    (a) the chief executive; and
+    (b) a person who is authorised by the chief executive under section 127G
+  - **collect** , in relation to prisoner communications and information sources,—
+    (a) means to gather prisoner communications and information sources; and
+    (b) includes downloading, photographing, storing, or otherwise making a record of prisoner communications and information sources
+  - **contracted provider** means a person engaged by the chief executive to provide services in connection with translating, transcribing, or interpreting prisoner communications and information sources
+  - **disclose** —
+    (a) means to disclose prisoner communications and information sources; and
+    (b) includes—
+      (i) allowing a person to listen to, watch, read, or examine any of those prisoner communications and information sources; and
+      (ii) giving or lending to a person a copy, printout, recording, video, image, translation, or written document containing those prisoner communications and information sources
+  - **eligible employee** means a person who is an employee of the chief executive or an employee of a contractor
+  - **exempt prisoner call** means the following:
+    (a) a prisoner call that is exempt from this subpart under section 127D, 127E, or 127F:
+    (b) information transmitted by any remote access facility to which a prisoner is a party with a court, tribunal, or the New Zealand Parole Board that is conducted while the prisoner is in prison
+  - **exempt prisoner communications and information sources** means—
+    (a) prisoner communications and information sources that are exempt from this subpart under section 127D, 127E, or 127F; and
+    (b) exempt prisoner calls
+  - **monitor** , in relation to prisoner communications and information sources, means to do any or all of the following:
+    (a) listen to, watch, read, examine, and take notes from prisoner communications and information sources:
+    (b) listen to, watch, read, and take notes from a record of prisoner communications and information sources:
+    (c) process prisoner communications and information sources by technology
+  - **prisoner call** means any information transmitted by an audio link, a visual link, or an audiovisual link to which a prisoner is a party that is conducted while the prisoner is in prison
+  - **prisoner communications and information sources** means—
+    (a) any communications to or from a prisoner; andExamplesCommunications to or from a prisoner are, for example,—conversations:correspondence and mail:email and text messages:writing:photographs, pictures, drawings, symbols, and other images:prisoner calls:visits:signs, signals, and gestural language:video and other electronic communications:recordings of communications to or from a prisoner.
+    (b) the following information sources:
+      (i) images (for example, photographs, drawings, or symbols) made by a prisoner:
+      (ii) video footage and images of a prisoner:
+      (iii) Internet and intranet sources with which a prisoner interacts:
+      (iv) publicly available and legally accessible information (including, but not limited to, information in the news media and on social media) relevant to a prisoner; and
+    (c) the substance of, or any information that is transmitted by,—
+      (i) communications to or from a prisoner; or
+      (ii) an information source described in paragraph (b); and
+    (d) information held by the department about a prisoner (for example, incident reports, information collected or taken from a prisoner under section 41, and trust account details)
+  - **prisoner health records** means health records referred to in section 165
+  - **translate** includes to decode and decrypt; and has a corresponding meaning
+  - **use** , in relation to prisoner communications and information sources, includes to collate, analyse, synthesise, or draw conclusions from prisoner communications and information sources to inform decision making about the management of prisoners or the operation of prisons.
+
+### 127B Meaning of intelligence purpose
+(1) An intelligence purpose, in relation to a purpose for monitoring, collecting, using, or disclosing prisoner communications and information sources, means—
+  (a) to identify risk and to deter and prevent harm:
+  (b) to support the good order, safety, and security of prisons.
+(2) Examples of what constitutes an intelligence purpose are the following:
+  (a) to prevent and discourage the commission of offences by, or for the benefit of, or with the help or encouragement of, prisoners:
+  (b) to detect and investigate offences committed by, for the benefit of, or with the help or encouragement of, prisoners:
+  (c) to prosecute, convict, and penalise—
+    (i) prisoners who commit offences, or who help or encourage other people to commit offences; and
+    (ii) people who commit offences for the benefit of, or with the help or encouragement of, prisoners:
+  (d) to detect and prevent non-compliance with directions given under section 168A (no-contact conditions if family violence offence defendant remanded in custody) of the Criminal Procedure Act 2011:
+  (e) to prevent and discourage escapes from prisons.
+
+### 127C Relationship of this subpart to monitoring, collecting, using, or disclosing information by other means
+(1) Nothing in this subpart limits, or otherwise affects,—
+  (a) sections 103A to 110C (withholding mail):
+  (b) sections 180 to 182E (disclosure of information):
+  (c) sections 189A to 189D (detection, interception, etc, of radiocommunications within prison boundaries).
+(2) Nothing in this subpart limits, or otherwise affects, the operation of security surveillance cameras or other technology in a prison.
+
+**Exemptions**
+
+### 127D Exemptions for specified prisoner communications and information sources
+The following prisoner communications and information sources are exempt from being monitored, collected, used, or disclosed under this subpart:
+  (a) prisoner health records held by the department, including psychological information that is recorded and created to provide treatment to prisoners:
+  (b) prisoner communications and information sources in connection with restorative justice processes.
+
+### 127E Exemptions for prisoner communications and information sources with specified persons
+(1) Prisoner communications and information sources between a prisoner and the following persons are exempt from being monitored, collected, used, or disclosed under this subpart:
+  (a) if the prisoner communications and information sources are related to legal affairs,—
+    (i) the prisoner’s legal adviser; or
+    (ii) a barrister or solicitor with whom the prisoner is discussing the possibility of the person acting for the prisoner; or
+    (iii) a member of the Armed Forces with whom a member of the Armed Forces detained in a prison is discussing the possibility of the person representing the prisoner in the Court Martial or other proceedings:
+  (b) a statutory visitor:
+  (c) a Justice of the Peace acting in an official capacity:
+  (d) a person from an official agency acting in an official capacity:
+  (e) a member of Parliament acting in an official capacity:
+  (f) a person acting in their official capacity on behalf of the International Criminal Court.
+(2) Section 110 applies to the monitoring of mail between a prisoner and a legal adviser under this subpart.
+
+### 127F Powers of Governor-General and chief executive to exempt prisoner communications and information sources
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister, specify—
+  (a) 1 or more classes of persons whose prisoner communications and information sources with prisoners must not be monitored, collected, used, or disclosed under this subpart; and
+  (b) the purpose for which the prisoner communications and information sources are exempt.
+(2) The chief executive may, in writing, specify—
+  (a) a named individual (other than a prisoner) whose prisoner communications and information sources with 1 or more prisoners must not be monitored, collected, used, or disclosed under this subpart; and
+  (b) the purpose and the period for which the prisoner communications and information sources are exempt.
+(3) The purpose of the exemption must take into account the following:
+  (a) the purpose of the corrections system set out in section 5 and the principles guiding the corrections system set out in section 6:
+  (b) the meaning of an intelligence purpose set out in section 127B:
+  (c) the general considerations set out in section 127H.
+(4) A reason must be specified in the order, or in writing by the chief executive, for the exemption.
+(5) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Authorised intelligence persons**
+
+### 127G Authorised intelligence persons
+(1) The chief executive may authorise an eligible employee to be an authorised intelligence person for the purpose of monitoring, collecting, using, and disclosing prisoner communications and information sources under this subpart.
+(2) The chief executive must be satisfied that the eligible employee is suitable to exercise the powers and duties and perform the functions of an authorised intelligence person.
+(3) The chief executive may impose, amend, and revoke conditions on the authorisation.
+(4) A person who is authorised under subsection (1) ceases to be an authorised intelligence person if—
+  (a) the chief executive revokes the authorisation; or
+  (b) the person ceases to be an eligible employee.
+
+**General considerations**
+
+### 127H General considerations
+As far as practicable in the circumstances, an authorised intelligence person must take the following considerations into account when monitoring, collecting, using, or disclosing prisoner communications and information sources under this subpart:
+  (a) the need to protect the privacy of prisoners and their correspondents and visitors:
+  (b) the benefits to prisoners of maintaining contact with persons and organisations outside the prison.
+
+**Monitoring, collecting, and using information under this subpart**
+
+### 127I Authorised intelligence person may monitor, collect, and use prisoner communications and information sources
+(1) An authorised intelligence person may monitor, collect, and use prisoner communications and information sources if—
+  (a) it is reasonably necessary to do so for an intelligence purpose; and
+  (b) the monitoring, collection, and use of the prisoner communications and information sources are aimed at individuals who present a serious risk of harm to the good order, safety, and security of prisons or to public safety.
+(2) Subsection (1) does not apply to the following:
+  (a) exempt prisoner communications and information sources:
+  (b) the making of recordings of prisoner calls (see section 127J):
+  (c) visits between a prisoner and a visitor (see section 127K).
+
+### 127J Recording of prisoner calls
+(1) Any prisoner call that is not an exempt prisoner call may be recorded for a purpose including, without limitation, an intelligence purpose.
+(2) See section 127I(1) in relation to other types of monitoring, collection, and use under this subpart of a prisoner call and any recording of the prisoner call.
+
+### 127K Monitoring of visits and use of information collected
+(1) The chief executive may approve—
+  (a) the monitoring by an authorised intelligence person of visits between a prisoner and a visitor, including communications during the visits; and
+  (b) the collection by an authorised intelligence person of information from communications during the visits.
+(2) The chief executive must have reasonable grounds, based on information previously collected under section 127I or 127J, to believe that the monitoring and collection of information under subsection (1) is necessary for an intelligence purpose and it is likely that information communicated in the visit may—
+  (a) threaten the security, good order, and discipline of the prison; or
+  (b) threaten the safety of any person; or
+  (c) promote or encourage the commission of an offence, or involve, or facilitate the commission or possible commission of, an offence.
+(3) An authorised intelligence person may, for an intelligence purpose, if it is reasonably necessary to do so, monitor and use information that is collected under this section.
+(4) An authorised intelligence person must not, in respect of a visit between a prisoner and a person whose communications are exempt under this subpart,—
+  (a) monitor the visit or communications during the visit; or
+  (b) monitor, collect, or use information from communications during the visit.
+
+### 127L Monitoring of exempt prisoner communications and information sources
+An authorised intelligence person who is monitoring, collecting, or using prisoner communications and information sources under this subpart and who forms the view that there are reasonable grounds to believe that the prisoner communications and information sources are exempt prisoner communications and information sources must—
+  (a) promptly stop monitoring, collecting, or using them; and
+  (b) ensure that all practicable steps are taken to destroy any information collected under this subpart.
+
+### 127M Monitoring that is incidental to other work
+(1) This section applies to a person who is undertaking, with the chief executive’s authority, work comprising the administration, installation, maintenance, repair, testing, or upgrading of a system—
+  (a) by or from which recordings, copies, printouts, transcripts, or translations of prisoner communications and information sources are made; or
+  (b) in which recordings, copies, printouts, transcripts, or translations of prisoner communications and information sources collected under this subpart are stored.
+(2) The person may listen to, watch, read, or examine prisoner communications and information sources (including exempt prisoner communications and information sources) if doing so is necessary for, or incidental to, the effective undertaking of the work concerned.
+
+**Disclosure**
+
+### 127N Disclosure of prisoner communications and information sources to eligible employees
+(1) This section applies to the disclosure to eligible employees of prisoner communications and information sources collected under this subpart.
+(2) An authorised intelligence person may disclose the prisoner communications and information sources to—
+  (a) another authorised intelligence person for a purpose described in section 127O(2) to (7):
+  (b) an eligible employee (who is not an authorised intelligence person) for a purpose described in section 127O(2), (6), or (7).
+(3) An authorised intelligence person may also disclose prisoner communications and information sources to an eligible employee (who is or is not an authorised intelligence person) so that the employee may translate, transcribe, or interpret the prisoner communications and information sources.
+(4) An eligible employee (who is not an authorised intelligence person) may disclose the prisoner communications and information sources to another eligible employee (including an authorised intelligence person) for an intelligence purpose.
+
+### 127O Disclosure of prisoner communications and information sources to persons other than eligible employees
+(1) This section applies to the disclosure to persons other than eligible employees of prisoner communications and information sources monitored, collected, or used under this subpart.
+(2) An authorised intelligence person may disclose the prisoner communications and information sources for an intelligence purpose.
+(3) An authorised intelligence person may disclose the prisoner communications and information sources if they believe on reasonable grounds that the disclosure—
+  (a) is necessary to avoid prejudice to the maintenance of the law by a public sector agency (as defined in section 7(1) of the Privacy Act 2020), including the prevention, detection, investigation, prosecution, and punishment of offences); or
+  (b) is necessary for the conduct of proceedings (already commenced or reasonably in contemplation) before a court or tribunal; or
+  (c) is necessary to prevent or lessen a serious threat (as defined in section 7(1) of the Privacy Act 2020) to—
+    (i) public health or public safety; or
+    (ii) the life or health of any person; or
+  (d) has been authorised by the Privacy Commissioner under section 30 of the Privacy Act 2020.
+(4) An authorised intelligence person may disclose the prisoner communications and information sources to an intelligence and security agency only if the authorised intelligence person believes, on reasonable grounds, that the disclosure is necessary to enable the agency to perform any of its functions under section 10, 11, 13, or 14 of the Intelligence and Security Act 2017.
+(5) An authorised intelligence person may disclose the prisoner communications and information sources to a public sector agency or contracted provider for the purpose of enabling an employee of the agency or contracted provider to translate, transcribe, or interpret the prisoner communications and information sources.
+(6) An authorised intelligence person or an eligible employee may disclose the prisoner communications and information sources if disclosure is—
+  (a) authorised by another provision of this Act; or
+  (b) required by any other legislation (including the Official Information Act 1982 and the Privacy Act 2020).
+(7) An authorised intelligence person or an eligible employee may disclose the prisoner communications and information sources to the prisoner concerned.
+
+### 127P Employee must not knowingly disclose prisoner communications and information sources
+Disclosure to eligible employees
+(1) An authorised intelligence person must not knowingly disclose prisoner communications and information sources collected under this subpart to an eligible employee except under section 127N(2) or (3).
+(2) An eligible employee (who is not an authorised intelligence person) must not knowingly disclose prisoner communications and information sources collected under this subpart to another eligible employee except under section 127N(4).
+Disclosure to persons other than eligible employees
+(3) In subsections (4) and (5), B means a person other than an eligible employee.
+(4) An authorised intelligence person must not knowingly disclose prisoner communications and information sources monitored, collected, or used under this subpart to B except under section 127O(2) to (7).
+(5) An eligible employee (who is not an authorised intelligence person) must not knowingly disclose prisoner communications and information sources monitored, collected, or used under this subpart to B except under section 127O(6) or (7).
+
+**Warnings**
+
+### 127Q Warnings
+Warnings generally
+(1) The chief executive must take all practicable steps to ensure that when, or promptly after, prisoners are received in a prison, they are informed that prisoner communications and information sources may be monitored, collected, used, and disclosed under this subpart.
+(2) The chief executive must ensure that there are prominently placed in every prison written notices warning prisoners of the monitoring, collection, use, and disclosure of prisoner communications and information sources under this subpart.
+Additional requirements for prisoner calls
+(3) The chief executive must ensure that at the start of every outward prisoner call that is being or is to be monitored or collected, the prisoner hears, or there is transmitted to the device to which the call is made, a message to the effect that the call may be monitored or collected.
+Additional requirements for visits
+(4) The chief executive must ensure that there are prominently placed in visiting areas in every prison written notices—
+  (a) warning prisoners and visitors that their visits may be monitored, and that communications in the visits may be monitored and collected; and
+  (b) stating in general terms the purposes for which collected information may be monitored, used, and disclosed under this subpart.
+(5) The chief executive must ensure that a prisoner and their visitor are informed—
+  (a) if the chief executive has approved the monitoring of, and the collection of information from, visits between the prisoner and their visitor; and
+  (b) that the information collected may be monitored, used, and disclosed under this subpart.
+Additional requirements for mail
+(6) The chief executive must ensure that there are prominently placed in every prison written notices warning prisoners of the monitoring, collecting, using, and disclosing of mail under this subpart.
+
+**Disposal of records collected under this subpart**
+
+### 127R Disposal of record held by department delayed pending resolution of complaint
+(1) This section applies to a record that was obtained from the collection of prisoner communications and information sources under this subpart and is held by the department.
+(2) If the Privacy Commissioner has notified the chief executive in writing that a complaint has been made under the Privacy Act 2020 in relation to a record described in subsection (1), the record must not be disposed of until the Privacy Commissioner has notified the chief executive in writing that the complaint—
+  (a) has not been proceeded with; or
+  (b) has been finally disposed of.
+(3) If an Ombudsman has notified the chief executive in writing that a complaint has been made under the Ombudsmen Act 1975 or the Official Information Act 1982 in relation to a record described in subsection (1), the record must not be disposed of until the Ombudsman has notified the chief executive in writing that the complaint—
+  (a) has not been proceeded with; or
+  (b) has been finally disposed of.
+(4) In this section and section 127S, record has the meaning given in section 4 of the Public Records Act 2005.
+
+### 127S Disposal of records held by Police and other agencies
+(1) This section applies to a record that was obtained from the disclosure of information under section 127O.
+(2) The Commissioner of Police must ensure that every record held by the New Zealand Police is disposed of as soon as practicable if the information is not required, or is no longer required, by the New Zealand Police for the purpose of its functions.
+(3) The Director-General of an intelligence and security agency must ensure that every record held by the agency is disposed of as soon as practicable if the information is not required, or is no longer required, by the agency for the purpose of its functions.
+(4) The chief executive or board of a public service agency (except an intelligence and security agency) must ensure that every record held by the public service agency is disposed of as soon as it appears that no proceedings or disciplinary proceedings (or no further proceedings or disciplinary proceedings) will be taken in which the record would be likely required to be produced in evidence.
+(5) Nothing in subsection (2), (3), or (4) applies to any record adduced in proceedings in any court or tribunal.
+(6) For the purpose of subsection (4),—
+  (a) public service agency has the meaning given to it in section 5 of the Public Service Act 2020:
+  (b) if the information referred to in subsection (4) is held by a departmental agency or an interdepartmental executive board (within the meaning of those terms in section 5 of the Public Service Act 2020), compliance with that subsection is the responsibility of the agency’s host department or the board’s servicing department.
+
+**Evidence and privilege**
+
+### 127T Notice to be given of intention to produce evidence in disciplinary proceeding
+(1) Particulars of prisoner communications and information sources monitored, collected, or used under this subpart must not be received in evidence in any proceedings against a prisoner for a disciplinary offence, unless the party intending to adduce the evidence has given the person reasonable notice of the party’s intention to do so.
+(2) The party intending to adduce the evidence must also give the person the following:
+  (a) a statement of—
+    (i) the time, place, and date of the prisoner communications and information sources; and
+    (ii) the names and addresses of the relevant parties to the prisoner communications and information sources, if they are known:
+  (b) a transcript of the recording, if the party intends to adduce the evidence in the form of a recording:
+  (c) a written statement setting out the full particulars of the prisoner communications and information sources, if the party intends to adduce oral evidence of the prisoner communications and information sources.
+
+### 127U Privileged evidence not to be given in court unless waiver of privilege obtained
+(1) This subsection applies to evidence that—
+  (a) has been obtained by monitoring, collecting, using, or disclosing prisoner communications and information sources under this subpart; and
+  (b) but for the monitoring, collecting, using, or disclosing would have been privileged by virtue of—
+    (i) subpart 8 of Part 2 of the Evidence Act 2006; or
+    (ii) any rule of law conferring privilege on communications of a professional character between a barrister or solicitor and a client.
+(2) Evidence to which subsection (1) applies remains privileged, and must not be given in any court except with the consent of the person entitled to waive the privilege.
 
 ### Subpart 5 — Offences
 
@@ -1974,7 +2196,7 @@ Every prisoner commits an offence against discipline who,—
 (4) If a complaint is laid alleging an offence against this section, it must be determined in accordance with sections 133 to 140 and the person against whom the complaint is laid must be treated, for the purposes of this Act, as if he or she were a prisoner at the time when the act or omission alleged to constitute the offence occurred.
 
 ### 131 Attempting or aiding commission of offence against discipline
-Every prisoner or person on temporary release from custody under section 62 who attempts to commit any offence against discipline, or who aids, counsels, or procures the commission of any such offence, is liable to be dealt with and punished in the same manner as if he or she had committed the offence.
+Every prisoner or person on temporary release from custody under section 62 who attempts to commit any offence against discipline, or who aids, counsels, incites, or procures the commission of any such offence, is liable to be dealt with and punished in the same manner as if he or she had committed the offence.
 
 ### 132 Minor or unintentional breaches of discipline
 (1) As far as practicable in the circumstances and if appropriate, an officer must deal with a minor or an unintentional breach of discipline by a prisoner in the following manner:
@@ -1995,10 +2217,22 @@ Every prisoner or person on temporary release from custody under section 62 who 
   (a) any offence against section 128(1), 129, 130, or 131, the hearing adjudicator may, after giving the prisoner an opportunity to provide reasons why the order should not be made, and whether or not he or she imposes a penalty under subsection (3), order that any article or thing used to commit the offence or in respect of which the offence was committed be forfeited to the Crown:
   (b) an offence against section 128(1)﻿(h), the hearing adjudicator may, whether or not he or she imposes any penalty under subsection (3), order that a specified amount (not exceeding the lesser of the value of the damage to, or loss of, property or $100) be withdrawn or withheld from the earnings payable under section 66 or section 67 and credited to the prisoner:
   (c) an offence against section 130(1) or (2), the hearing adjudicator may, after giving the prisoner an opportunity to provide reasons why the order should not be made, and whether or not he or she imposes any penalty under subsection (3), order the forfeiture to the Crown of a specified amount not exceeding $100 from earnings payable under section 67 and credited to the prisoner.
+(4A) Instead of imposing any penalty under subsection (3) or (4) in relation to an offence that has been proved, the hearing adjudicator may order that—
+  (a) the prisoner appear for a hearing for the imposition of any penalties in relation to the offence if the prisoner is called to appear; and
+  (b) the prisoner be called to appear only if the prisoner commits a subsequent offence against discipline within a period set out in the order that does not exceed 3 months beginning on the day the order is made.
+(4B) However, if the offence proved is the subsequent offence described in subsection (4A), the hearing adjudicator may not make an order under subsection (4A) in respect of the subsequent offence.
 (5) If the hearing adjudicator considers that, in the circumstances of the case, the prisoner should be charged before a court with an offence (other than an offence against section 128, section 129, or section 130), instead of being dealt with under this section, the hearing adjudicator may, at his or her discretion, at any time before making a decision as to whether the charge is proved under this section,—
   (a) decline to proceed with the hearing; and
   (b) request the appropriate authority to prosecute the prisoner and forward with that request a summary of the adjudicator's reasons for making the request.
 (6) This section is subject to sections 134 to 140.
+
+### 133A Hearing adjudicator may proceed with hearing without prisoner present
+(1) Despite section 133(2), the hearing adjudicator may proceed with a hearing without the prisoner present if—
+  (a) the adjudicator is satisfied that the prisoner has refused to attend the hearing; or
+  (b) the adjudicator requires the prisoner to leave the hearing on the grounds of the prisoner’s disruptive behaviour.
+(2) Before making a decision under subsection (1)﻿(a), the hearing adjudicator must receive evidence from an officer that the prisoner has been given the opportunity to attend the hearing and has refused.
+(3) If the hearing adjudicator decides to proceed with a hearing without the prisoner present, the adjudicator must record in writing the decision and reasons for it.
+(4) Despite section 136(1), there is no right to appeal to a Visiting Justice solely against a decision of a hearing adjudicator under subsection (1) to proceed with a hearing without the prisoner present.
 
 ### 134 Decision as to who is to hear charge
 (1) If a complaint alleging an offence against discipline is brought before a hearing adjudicator, the adjudicator may, at any time before making a decision as to whether the charge is proved, refer the case to a Visiting Justice for hearing and determination in accordance with section 137.
@@ -2026,17 +2260,42 @@ Every prisoner or person on temporary release from custody under section 62 who 
 (4) If the hearing adjudicator does not permit the prisoner to be legally represented, that hearing adjudicator or another hearing adjudicator must hear and determine the case in accordance with section 133, unless it is referred to a Visiting Justice under section 134.
 (5) A hearing adjudicator or Visiting Justice must provide the prisoner and the prison manager with a summary in writing of his or her reasons for the decision to permit or, as the case may require, not to permit the prisoner to be legally represented.
 
+### 135A Imposition of penalties on prisoner who is called to appear before hearing adjudicator
+(1) This section applies to a prisoner—
+  (a) for whom an order was made under section 133(4A) or 137(4A) in relation to an offence (the first offence); and
+  (b) who is required to appear for a hearing—
+    (i) for a subsequent offence against discipline that is alleged to have been committed during the period specified in the order; and
+    (ii) for the imposition of any penalties in relation to the first offence if the subsequent offence is proved.
+(2) If the subsequent offence is proved, the hearing adjudicator may, with respect to the first offence,—
+  (a) impose on the prisoner 1 or more penalties under section 133(3) or (4) or both (whether the first offence was proved under section 133 or 137); or
+  (b) decide not to impose any penalties on the prisoner if, in the adjudicator’s opinion, it is not in the interests of justice to impose any penalty on the prisoner for the first offence.
+(3) If the prisoner is dissatisfied with a decision of the hearing adjudicator under subsection (2)﻿(a),—
+  (a) the prisoner may, no later than 14 days after the date of the decision, request that the decision be referred by way of appeal to a Visiting Justice; and
+  (b) on receiving the request, the prison manager must promptly refer it to a Visiting Justice; and
+  (c) section 136(5) and (6) applies to the matter.
+
 ### 136 Right to appeal to Visiting Justice against decision of hearing adjudicator
 (1) If a prisoner is dissatisfied with any decision of a hearing adjudicator, the prisoner may, no later than 14 days after the date of the decision, request that the decision be referred by way of appeal to a Visiting Justice; on receiving that request, the prison manager must promptly refer it to a Visiting Justice.
 (2) If the appeal to the Visiting Justice relates to a refusal to grant the prisoner permission to be legally represented at his or her hearing, the Visiting Justice must consider the appeal and may confirm the decision of the hearing adjudicator or reverse it.
 (3) If the Visiting Justice allows the appeal under subsection (2), the Visiting Justice must hear or, as the case requires, rehear the whole case.
 (4) If the appeal to the Visiting Justice relates to any finding of the hearing adjudicator, the Visiting Justice must rehear the whole case, and may—
   (a) either reverse that finding or confirm it; and
-  (b) either confirm the penalty or, if in his or her opinion the circumstances require it, impose in its place any penalty that could have been imposed by the hearing adjudicator.
+  (b) either—
+    (i) confirm the penalty or any section 133(4A) order imposed by the adjudicator; or
+    (ii) if in the Visiting Justice’s opinion the circumstances require it, impose in its place any penalty or any section 133(4A) order that could have been imposed by the adjudicator.
 (5) If the appeal to the Visiting Justice relates only to a penalty imposed by the hearing adjudicator, the Visiting Justice must consider only the question of the penalty, and may either—
   (a) confirm the penalty; or
-  (b) if in his or her opinion the circumstances require it, impose in its place any penalty that could have been imposed by the hearing adjudicator.
+  (b) if in their opinion the circumstances require it, impose in its place any penalty or any section 133(4A) order that could have been imposed by the adjudicator.
+(5A) If the appeal to the Visiting Justice relates only to a section 133(4A) order made by a hearing adjudicator, the Visiting Justice—
+  (a) must consider whether the order is appropriate in the circumstances; and
+  (b) may—
+    (i) confirm the order; or
+    (ii) if in the Visiting Justice’s opinion the circumstances require it, impose in its place 1 or more penalties under section 133(3) or (4) or both that could have been imposed by the adjudicator.
 (6) If there is an appeal under this section, any penalty imposed by the hearing adjudicator is suspended, until the appeal is disposed of.
+(7) If there is an appeal under this section against any section 133(4A) order made by the hearing adjudicator,—
+  (a) the time period for the subsequent offence continues to run during the period specified in the order; but
+  (b) the prisoner may not be called to appear for imposition of any penalty under section 135A(2) unless the order is confirmed on appeal.
+(8) In this section, section 133(4A) order means an order under section 133(4A).
 
 ### 137 Powers of Visiting Justice in relation to offences by prisoners
 (1) Every Visiting Justice has power to hear any complaint relating to any offence against discipline alleged to have been committed by a prisoner, and may examine any person concerning the alleged offence on oath or otherwise at his or her discretion.
@@ -2050,9 +2309,14 @@ Every prisoner or person on temporary release from custody under section 62 who 
   (a) any offence against section 128(1), 129, 130, or 131, the Visiting Justice may, after giving the prisoner an opportunity to provide reasons why the order should not be made, and whether or not he or she imposes a penalty under subsection (3), order that any article or thing used to commit the offence or in respect of which the offence was committed be forfeited to the Crown:
   (b) an offence against section 128(1)﻿(h), the Visiting Justice may, whether or not he or she imposes any penalty under subsection (3), order that a specified amount (not exceeding the lesser of the value of the damage to, or loss of, property involved or $500) be withdrawn or withheld from the earnings payable under section 66 or section 67 and credited to the prisoner:
   (c) an offence against section 130(1) or (2), the Visiting Justice may, after giving the prisoner an opportunity to provide reasons why the order should not be made, and whether or not he or she imposes any penalty under subsection (3), order the forfeiture to the Crown of any specified amount not exceeding $500 from earnings payable under section 67 and credited to the prisoner.
-(5) Despite subsections (3) and (4), if the case was referred to the Visiting Justice for hearing under section 134(2)﻿(b) or section 135(3), the Visiting Justice may only impose 1 or more of the penalties set out in section 133(3) and any applicable penalty set out in section 133(4), unless—
+(4A) Instead of imposing any penalty under subsection (3) or (4) in relation to an offence that has been proved, the Visiting Justice may order that—
+  (a) the prisoner appear for a hearing for the imposition of any penalties in relation to the offence if the prisoner is called to appear; and
+  (b) the prisoner be called to appear only if the prisoner commits a subsequent offence against discipline within a period set out in the order that does not exceed 3 months beginning on the day the order is made.
+(4B) However, if the offence proved is the subsequent offence described in subsection (4A), the Visiting Justice may not make an order under subsection (4A) in respect of the subsequent offence.
+(5) Despite subsections (3), (4), and (4A), if the case was referred to the Visiting Justice for hearing under section 134(2)﻿(b) or section 135(3), the Visiting Justice may only impose 1 or more penalties under section 133(3) or (4), or both, or make an order under section 133(4A), unless—
   (a) the case was also referred to the Visiting Justice for hearing under section 134(2)﻿(a) or (c); or
-  (b) the Visiting Justice considers that the case could have been referred to him or her for hearing under section 134(2)﻿(a), instead of under section 134(2)﻿(b) or section 135(3).
+  (b) the Visiting Justice considers that the case could have been referred to him or her for hearing under section 134(2)﻿(a), instead of under section 134(2)﻿(b) or section 135(3); or
+  (c) the offence proved was the subsequent offence described in section 133(4A), in which case the Visiting Justice may not make an order under section 133(4A) in respect of the subsequent offence.
 (6) If the Visiting Justice considers that, in the circumstances of the case, the prisoner should be charged before a court with an offence (other than an offence against section 128, section 129, or section 130) instead of being dealt with under this section, the Visiting Justice may, at his or her discretion, at any time before making a decision as to whether the charge is proved,—
   (a) decline to proceed with the hearing; and
   (b) request the appropriate authority to prosecute the prisoner and forward with the request a summary of the Visiting Justice's reasons for making that request.
@@ -2063,8 +2327,31 @@ Every prisoner or person on temporary release from custody under section 62 who 
   (a) it is appropriate for the case to be heard by a hearing adjudicator; and
   (b) the case can effectively be determined by the hearing adjudicator without reference or further reference, as the case may be, to a Visiting Justice.
 
-### 139 Mode of hearing or reaching decisions
-Any hearing or application under any of sections 133 to 138 may be conducted or, as the case requires, determined with all or any of the interested persons participating by way of video link, rather than by being present in person.
+### 138A Visiting Justice may proceed with hearing without prisoner present
+(1) Despite section 137(2), the Visiting Justice may proceed with a hearing without the prisoner present if—
+  (a) the Visiting Justice is satisfied that the prisoner has refused to attend the hearing; or
+  (b) the Visiting Justice requires the prisoner to leave the hearing on the grounds of the prisoner’s disruptive behaviour.
+(2) Before making a decision under subsection (1)﻿(a), the Visiting Justice must receive evidence from an officer that the prisoner has been given the opportunity to attend the hearing and has refused.
+(3) If the Visiting Justice decides to proceed with a hearing without the prisoner present, the Visiting Justice must record in writing the decision and reasons for it.
+
+### 138B Imposition of penalties on prisoner who is called to appear before Visiting Justice
+(1) This section applies to a prisoner—
+  (a) for whom an order was made under section 133(4A) or 137(4A) in relation to an offence (the first offence); and
+  (b) who is required to appear for a hearing—
+    (i) for a subsequent offence against discipline that is alleged to have been committed during the period specified in the order; and
+    (ii) for the imposition of any penalties in relation to the first offence if the subsequent offence is proved.
+(2) If the subsequent offence is proved, the Visiting Justice may, with respect to the first offence,—
+  (a) impose on the prisoner 1 or more penalties—
+    (i) under section 133(3) or (4) or both, if the first offence was proved under section 133; or
+    (ii) under section 137(3) or (4) or both, if the first offence was proved under section 137; or
+  (b) decide not to impose any penalties on the prisoner if, in the Visiting Justice’s opinion, it is not in the interests of justice to impose any penalty on the prisoner for the first offence.
+
+### 139 Use of remote access facilities
+(1) Any hearing or application under any of sections 133 to 138B may be conducted or determined with all or any of the interested persons participating by audiovisual link.
+(2) Any interested person may participate by a remote access facility other than an audiovisual link if the hearing adjudicator or Visiting Justice considers that—
+  (a) it is not reasonably practicable for the participant to appear by audiovisual link; and
+  (b) it is not contrary to the interests of justice to use the other remote access facility.
+(3) If the hearing adjudicator or Visiting Justice decides to proceed with a hearing with 1 or more interested persons participating by a remote access facility other than an audiovisual link, the adjudicator or Visiting Justice must record in writing the decision and reasons for it.
 
 ### 139A Mode of hearing or reaching decisions
 [Repealed]
@@ -2133,7 +2420,7 @@ Every person commits an offence and is liable on conviction to imprisonment for 
 Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, without reasonable excuse, fails to comply with any direction or requirement given or made by an officer under section 101(2).
 
 ### 146 Offences in relation to mail, information, and images
-Every person who contravenes section 92C(3), 110A, or 118 commits an offence and is liable on conviction to a fine not exceeding $2,000.
+Every person who contravenes section 92C(3), 110A, or 127P commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 147 Injuring, interfering with, or obstructing dog used for searching
 Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000 or to both who, without lawful excuse,—
@@ -2549,6 +2836,32 @@ The information referred to in section 180A(1) is, for each prisoner detained in
   (a) the notice must, in the absence of proof to the contrary, be taken to have been delivered to that person on the fourth day after the day on which it was posted; and
   (b) in proving the delivery it is sufficient to prove that the letter was properly addressed and posted.
 
+**Disclosure of prisoner information for taxation purposes**
+
+### 180E Information may be disclosed for taxation purposes
+(1) The purpose of this section is to facilitate the disclosure of information, by the department to the Commissioner, for the purposes of the administration or enforcement of the Inland Revenue Acts.
+(2) For the purpose of this section, the chief executive may supply to the Commissioner the information specified in subsection (3) in respect of every prisoner who is or was in the legal custody of the chief executive under this Act.
+(3) The information is as follows:
+  (a) identifying information about the prisoner:
+  (b) the name and address of the prison in which the prisoner is or was detained:
+  (c) whether the prisoner is on remand or has been sentenced:
+  (d) details of the prisoner’s sentence (including relevant dates such as the start date of sentence, the date on which the prisoner is eligible for parole, and their statutory release date).
+(4) No specified information may be supplied under this section except under an agreement entered into between the Commissioner and the chief executive under section 180F.
+(5) Nothing in this section limits the operation of the Privacy Act 2020.
+(6) For the purposes of this section and section 180F,—
+  - **Commissioner** means the Commissioner of Inland Revenue as defined in section 3(1) of the Tax Administration Act 1994
+  - **identifying information** , in relation to any person, includes the person’s full name, date and place of birth, sex or gender, location, citizenship, unique identifying number used by the department, and any known alias
+  - **Inland Revenue Acts** means the Acts listed in Schedule 1 of the Tax Administration Act 1994
+  - **specified information** means the information specified in subsection (3).
+
+### 180F Agreement for disclosing prisoner information for taxation purposes
+(1) An agreement entered into under this section for disclosing specified information about prisoners must set out the operational details about how the information is to be disclosed.
+(2) Without limiting subsection (1), the agreement must—
+  (a) specify the manner in which the information may be disclosed; and
+  (b) set out how the information privacy principles, as set out in section 22 of the Privacy Act 2020, will be complied with.
+(3) Before an agreement is concluded, reviewed, or amended, the department and the Commissioner must consult the Privacy Commissioner.
+(4) An agreement under this section applies to the specified information held by the department in respect of prisoners, whether the information was obtained before or after the agreement came into force.
+
 **Disclosure of offender information**
 
 ### 181 Offender information may be disclosed for immigration purposes
@@ -2748,11 +3061,18 @@ If a prison manager believes on reasonable grounds that an unauthorised electron
   (b) include a report on the work undertaken by inspectors of corrections during the year to which the report relates which includes—
     (i) statistical information about the disposition of complaints made by persons under control or supervision during that period:
     (ii) comment on issues arising out of complaints or visits during that period; and
-  (c) describe the processes and systems in place during the year to which the report relates to supervise and control the monitoring of prisoner calls under this Act; and
-  (d) state, as an approximate proportion of the prisoner calls monitored (otherwise than merely by being recorded) during the year to which the report relates, the number of calls disclosed under section 117(1) and (2) to any person other than an employee of the chief executive or a contractor; and
+  (c) describe the processes and systems in place during the year to which the report relates to supervise and control the monitoring of prisoner calls or other prisoner communications and information sources under this Act; and
+  (d) state, as an approximate proportion of the prisoner calls monitored (otherwise than merely by being recorded) during the year to which the report relates, the number of calls disclosed to any person other than an employee of the chief executive or a contractor; and
   (e) state,—
-    (i) as an approximate proportion of the prisoner calls monitored (otherwise than merely by being recorded) during the year to which the report relates, the number of calls disclosed under section 117(1) and (2) to an employee of a chief executive or a contractor; and
+    (i) as an approximate proportion of the prisoner calls monitored (otherwise than merely by being recorded) during the year to which the report relates, the number of calls disclosed under section 127N to an employee of a chief executive or a contractor; and
     (ii) as an approximate proportion of those prisoner calls disclosed, the number of proceedings against a prisoner for a disciplinary offence in which a recording of any of those calls was used in evidence; and
+  (ea) state, in relation to the year to which the report relates,—
+    (i) the intelligence priorities for the department and any themes and trends:
+    (ii) the methods the department used to monitor prisoner communications and information sources:
+    (iii) the number of requests made to the chief executive to monitor visits and the number of requests that were approved or declined:
+    (iv) the agencies to whom disclosures were made under subpart 4A of Part 2:
+    (v) the number of eligible employees who were authorised intelligence persons; and
+  (eb) include a report on the types of programmes for which accused prisoners and convicted prisoners were mixed and the number of prisoners who were mixed for those programmes; and
   (f) include a report on—
     (i) the measures taken to reduce drug and alcohol use by prisoners:
     (ii) the effectiveness of those measures:
@@ -2772,7 +3092,7 @@ If a prison manager believes on reasonable grounds that an unauthorised electron
 
 ### 190A Minister may approve subsidies for voluntary groups
 (1) The Minister may from time to time, with the concurrence of the Minister of Finance, approve the payment, out of money appropriated by Parliament for the purpose, of contributions towards the expenses of—
-  (a) any medical, psychological, social, therapeutic, cultural, educational, employment-related, rehabilitative, or reintegrative programme involved with the care of persons detained in or released from prisons or subject to community-based sentences:
+  (a) any medical, psychological, social, therapeutic, cultural, educational, employment-related, non-offence-based, rehabilitative, or reintegrative programme involved with the care of persons detained in or released from prisons or subject to community-based sentences:
   (b) any organisation, whether formed before or after the commencement of this Act, that has as its object or one of its objects the assistance of persons detained in or released from prisons or subject to community-based sentences.
 (2) In approving any contribution, the Minister may impose any conditions that the Minister thinks fit with respect to its expenditure and accounting for that expenditure.
 
@@ -3079,6 +3399,10 @@ Regulations made under section 200(1)﻿(c) may include (without limitation) pro
     (i) accused and convicted persons:
     (ii) accused and convicted persons who are under a specified age from persons of that kind who are of or over that age, except in circumstances specified in the regulations:
     (iii) male and female prisoners:
+  (aa) despite section 5(1)﻿(b) and any international obligations and standards, regulating the mixing of prisoners in any of the following circumstances:
+    (i) mixing of accused and convicted persons for non-offence-based programmes if it is not practicable or therapeutic to provide the programmes separately:
+    (ii) mixing of accused and convicted persons who are allowed to keep their children with them in prison if it is not practicable or therapeutic to keep the persons separate:
+    (iii) mixing of young persons (within the meaning given in the Oranga Tamariki Act 1989) and adult prisoners if it is in the best interests of the young persons:
   (b) regulating communication with, and the visual recording of, prisoners:
   (c) regulating—
     (i) the photographing of prisoners:
@@ -3093,7 +3417,7 @@ Regulations made under section 200(1)﻿(c) may include (without limitation) pro
   (g) regulating the conditions of prisoners whose opportunity to associate with other prisoners is restricted or denied:
   (h) regulating the transfer of prisoners:
   (i) prescribing classes of prisoners who may be temporarily released from custody or temporarily removed from prison under section 62, prescribing the purposes for which prisoners may be released or removed under that section, and regulating the release and removal of prisoners under that section:
-  (j) regulating the use and reporting of the use of force, authorising and regulating the use and reporting of the use of specified kinds of mechanical restraints in particular circumstances, and authorising and regulating the use of and reporting of the use of specified kinds of non-lethal weapons:
+  (j) regulating the use and reporting of the use of force, authorising and regulating the use and reporting of the use of specified kinds of mechanical restraints in particular circumstances, and authorising and regulating the use of and reporting of the use of specified kinds of less-lethal weapons:
   (k) regulating imaging technology searches:
   (l) prescribing 1 or more types of procedure to which a prisoner may be required to submit, under section 124, for the purpose of detecting whether or not the prisoner has used drugs, consumed alcohol, or both:
   (m) regulating those procedures, including (without limitation)—
@@ -3114,6 +3438,12 @@ Regulations made under section 200(1)﻿(d) may include (without limitation) pro
   (a) requiring different regimes for different classes of prisoners (for example, provisions designed to ensure the safety and welfare of young persons in prisons or persons detained solely as a consequence of a warrant or other order issued under the Immigration Act 2009):
   (b) requiring persons detained solely as a consequence of a warrant or other order issued under the Immigration Act 1987 to be treated as a prisoner on remand for the purposes of any specified provision:
   (ba) prescribing matters that must be included in rehabilitative programmes, and different matters may be prescribed for different rehabilitative programmes and different classes of prisoners:
+  (bb) prescribing, in relation to case management plans,—
+    (i) the purpose of and basis for the plans; and
+    (ii) the class or classes of prisoners to whom case management plans apply; and
+    (iii) the matters that must be included in the plans (and different matters may be prescribed for different classes of prisoners); and
+    (iv) the periods in which the plans must be reviewed (and different periods may be prescribed for different classes of prisoners):
+  (bc) prescribing matters that must be included in non-offence-based programmes, and different matters may be prescribed for different programmes and different classes of prisoners:
   (c) prescribing conditions relating to the care of children of female prisoners who are allowed to remain with or visit their mothers in prison:
   (d) regulating the appearance of prisoners (including the clothing to be worn by prisoners and the cutting of prisoners' hair):
   (e) regulating the employment of prisoners, including their hours of work and the application or payment of earnings:
@@ -3279,6 +3609,52 @@ Any drug and alcohol strategy issued under section 36B of the Penal Institutions
   (c) if declared to be a Police jail under section 4 of the Penal Institutions Act 1954, deemed to be established under section 32 of this Act as a Police jail.
 (3) In any Act, regulation, rule, order, agreement, deed, instrument, application, notice, or other document of any kind in force at the commencement of this section, every reference to a superintendent of a penal institution or the superintendent of a specified penal institution, must on the commencement of this section, unless the context otherwise requires, be read as a reference to a manager of a prison or the manager of the specified prison, as the case may require.
 (4) In any Act, regulation, rule, order, agreement, deed, instrument, application, notice, or other document of any kind in force at the commencement of this section, every reference to an inspector of a penal institution must on the commencement of this section, unless the context otherwise requires, be read as a reference to an inspector of corrections.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Corrections Amendment Act 2024
+
+### 1 Interpretation
+In clauses 3 to 5, unless the context otherwise requires, commencement date means the day after Royal assent of the Corrections Amendment Act 2024.
+
+### 2 Management plans continue as case management plans
+(1) A management plan that has been devised for a prisoner under section 51 and is in operation immediately before the commencement date is to be considered on or after the commencement date as a case management plan that was devised in accordance with the Corrections Amendment Act 2024.
+(2) In this clause,—
+  - **commencement date** means the date on which section 11 of the Corrections Amendment Act 2024 comes into force
+  - **prisoner** means a prisoner who has been received in a prison before the commencement date and continues to be in a prison on or after the commencement date.
+
+### 3 Restrictions in at-risk management plans continue to apply
+(1) This clause applies to an at-risk management plan for a prisoner that—
+  (a) was established before the commencement date and has not been revoked; and
+  (b) specifies any restriction on the opportunity for the prisoner to associate with other prisoners.
+(2) The restrictions in the at-risk management plan referred to in subclause (1)﻿(b) continue to apply until they are revoked or replaced by a direction given under section 61CA.
+
+### 4 Informing prisoners who have already been received in prison
+(1) This clause applies to prisoners who have been received in a prison before the commencement date and continue to be in a prison on or after the commencement date.
+(2) The chief executive must take all practicable steps to ensure that the prisoners are promptly informed that prisoner communications and information sources may be monitored, collected, used, and disclosed under subpart 4A of Part 2.
+
+### 5 Subpart 4A of Part 2 applies to prisoner calls monitored before commencement date
+Definitions for purpose of this clause
+(1) In this clause,—
+  - **prisoner call** means a prisoner call (as defined in section 111) that—
+    (a) has been monitored under section 113 before the commencement date; but
+    (b) has not been disposed of before that date
+  - **public service agency** has the meaning given in section 127S(6)﻿(a)
+  - **recording** means a recording (as defined in section 111) that has not been disposed of before the commencement date
+  - **section 111** means section 111 of this Act as in force before the commencement date
+  - **section 113** means section 113 of this Act as in force before the commencement date.
+Disclosure of prisoner call or recording
+(2) A prisoner call or recording may be disclosed on or after the commencement date under sections 127N(2) to (4) and 127O(2) to (7).
+Prohibitions on disclosure
+(3) The prohibitions on disclosure in section 127P apply to a prisoner call or recording on or after the commencement date as if it had been collected under subpart 4A of Part 2.
+Disposal of prisoner call and recording
+(4) A prisoner call or recording that is held by the department must, for purposes of disposal, be treated on or after the commencement date as if it had been collected under subpart 4A of Part 2.
+(5) A prisoner call or recording that is held by the department must be treated on or after the commencement date under section 127R as if it had been collected under subpart 4A of Part 2.
+(6) A prisoner call or recording that is held by New Zealand Police or a public service agency must be treated on or after the commencement date under section 127S as if it were a record obtained from the disclosure of information under section 127O.
+Production of prisoner call or recording in evidence in disciplinary proceeding
+(7) Section 127T applies to the production of a prisoner call or recording in evidence in a disciplinary proceeding on or after the commencement date as if the prisoner call or recording had been collected under subpart 4A of Part 2.
+Prisoner call and recording subject to privilege
+(8) A prisoner call or recording is subject to privilege in accordance with section 127U on or after the commencement date as if it had been collected under subpart 4A of Part 2.
 
 ## Schedule 1 — Substantive amendments to Schedule 5 of Privacy Act 1993
 
