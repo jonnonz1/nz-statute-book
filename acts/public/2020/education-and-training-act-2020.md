@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2024-10-01_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -180,6 +180,14 @@ The purpose of this Act is to establish and regulate an education system that—
     (a) was established under section 268; and
     (b) has not been reconstituted under clause 90(1) of Schedule 1 or converted under clause 94(2) of Schedule 1; and
     (c) is a Crown entity
+  - **Charter School Agency** or means the Charter School Agency established under section 23 of the Public Service Act 2020
+  - **charter school contract** means,—
+    (a) in relation to the operation of a charter school, a contract entered into under section 212L:
+    (b) in relation to a sponsor, a contract to which the sponsor and the Agency are parties
+  - **charter school/kura hourua** or means a school in respect of which—
+    (a) the Authorisation Board has approved a sponsor under section 212I; and
+    (b) a charter school contract with the Crown is in force
+  - **Charter Schools Authorisation Board** or means the board established under section 212A
   - **chief executive of Oranga Tamariki** means the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989
   - **Chief Referee** means the person appointed as Chief Referee under section 219(1)
   - **Chief Review Officer** means the chief executive of the Education Review Office
@@ -193,11 +201,13 @@ The purpose of this Act is to establish and regulate an education system that—
   - **Complaints Assessment Committee** means the Complaints Assessment Committee established by rules made under section 486
   - **composite school** means a school that offers education to students in any of years 1 to 8 and in any of years 9 to 13
   - **consensual methods** means dispute resolution processes in which the parties reach mutual agreement on the outcome of the dispute (for example, facilitation or mediation)
-  - **contract of enrolment** , in relation to an international student, means a written contract entered into between the student (or a parent of the student if the student is under the age of 18 years) and the board of a State school that entitles the student to receive tuition at the school
+  - **contract of enrolment** , in relation to an international student, means a written contract entered into between the student (or a parent of the student if the student is under the age of 18 years) and the board of a State school or a sponsor that entitles the student to receive tuition at the school
   - **contributing school** means a school that offers education to students in years 1 to 6
+  - **converting school** means a State school that proposes to convert to a charter school
   - **council** ,—
     (a) in relation to an institution other than Te Pūkenga—New Zealand Institute of Skills and Technology, means the body that governs the institution in accordance with section 271:
     (b) in relation to Te Pūkenga—New Zealand Institute of Skills and Technology, means Te Pūkenga—New Zealand Institute of Skills and Technology’s council members appointed under section 320
+  - **Crown agent** has the same meaning as in section 10(1) of the Crown Entities Act 2004
   - **Crown entity group** has the meaning given by section 136(1) of the Crown Entities Act 2004
   - **deputy chief referee** means a person appointed as a deputy chief referee under section 219(3)
   - **designated character school** means a school designated in accordance with sections 204 and 205
@@ -252,6 +262,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **election year** means a year divisible by 3
   - **employer** , in relation to a teacher or authorised person in a teaching position, means any one of the following who employs, or intends to employ, 1 or more teachers or authorised persons in a teaching position:
     (a) the board of a State school:
+    (aa) a sponsor:
     (b) the managers of a private school:
     (c) the person or body that appoints staff at an early childhood education and care service:
     (d) the Secretary, in the Secretary’s capacity as an employer under section 614
@@ -261,15 +272,6 @@ The purpose of this Act is to establish and regulate an education system that—
   - **enrol** includes admit, and and have corresponding meanings
   - **enrolment scheme** means a scheme developed and implemented (and not since abandoned) under this Act or regulations made under this Act
   - **equal employment opportunities programme** means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality with respect to the employment of any persons or group of persons
-  - **excluded early childhood service** means any of the following:
-    (a) a kōhanga reo chartered to Te Kōhanga Reo National Trust Board:
-    (b) an early childhood service that proposes to teach in te reo Māori at, or close to, full immersion:
-    (c) an early childhood service that—
-      (i) proposes to teach in te reo Māori for the majority of the time; and
-      (ii) is affiliated to a body that is recognised by the Minister, by notice in the Gazette, as meeting criteria set under subsection (3A):
-    (d) an early childhood service that—
-      (i) proposes to teach in te reo Māori for the majority of the time; and
-      (ii) will be provided by, or associated with, an iwi or Māori organisation that is recognised by the Minister, by notice in the Gazette, as meeting criteria set under subsection (3A)
   - **financial product** has the meaning given by section 7 of the Financial Markets Conduct Act 2013
   - **financial year** ,—
     (a) in relation to a school, means a year ending with 31 December:
@@ -367,6 +369,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **person dealing** —
     (a) means the other party to a transaction, if an act of a board is a transaction; and
     (b) includes a person who has acquired property, rights, or interests from a board
+  - **person responsible for teaching and learning** means the person appointed under section 212O(d)﻿(ii)
   - **personal property** includes money
   - **playgroup** means a group that meets on a regular basis to facilitate children's play and in respect of which—
     (a) no child attends for more than 4 hours on any day; and
@@ -390,6 +393,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **proprietor** means the body corporate that—
     (a) has the primary responsibility for determining the special character of a private school or State integrated school and for supervising the maintenance of that special character; and
     (b) owns, holds in trust, or leases the land and buildings that constitute the premises of the private school or a State integrated school
+  - **proposed sponsor** has the meaning given in section 212F(1)﻿(a)
   - **provider** —
     (a) means a person or body that is—
       (i) a registered school; or
@@ -420,7 +424,7 @@ The purpose of this Act is to establish and regulate an education system that—
       (i) the first day of the programme or micro-credential for which the attendance of the student at the establishment is required; or
       (ii) any other day that the establishment permits the student to begin attendance
   - **registered establishment** means a private training establishment that has been granted registration by NZQA under subpart 5 of Part 4 and whose registration has not been cancelled
-  - **registered school** means a State school, a State integrated school, or a private school
+  - **registered school** means a State school, a State integrated school, a private school, or a charter school
   - **registration** or , in relation to any person, means the entry of the person's name on the register kept under clause 8 of Schedule 3
   - **regular teacher** means a teacher who is not a relieving teacher or an employment-based trainee teacher
   - **related entity** , in relation to an institution, means a person or body that is a related party for the purpose of any financial reporting standard that applies to the institution under generally accepted accounting practice
@@ -429,13 +433,14 @@ The purpose of this Act is to establish and regulate an education system that—
     (a) a secondary school; or
     (b) a composite school; or
     (c) a private school, except a school registered as a primary school only; or
-    (d) a specialist school
+    (d) a specialist school; or
+    (e) a charter school
   - **relieving teacher** means a teacher employed by a board to undertake some or all of the duties of a regular teacher who, at that time, is absent from work but remains employed (on salary) by the board
   - **review officer** means a person designated under section 465, and includes the Chief Review Officer
   - **school community** , in relation to a school, means—
     (a) the parents, families, and whānau of the school’s students; and
     (b) the Māori community associated with the school; and
-    (c) any other person, or group of persons, who the board considers is part of the school community for the purposes of the relevant provision
+    (c) any other person, or group of persons, who the board or a sponsor considers is part of the school community for the purposes of the relevant provision
   - **school risk management scheme** means the school risk management scheme established under section 576
   - **seclude** , in relation to a student or child, means placing the student or child involuntarily alone in a room from which they cannot, or believe they cannot, freely exit
   - **secondary component** , in relation to a secondary–tertiary programme, means the portion of the programme that consists of participation in secondary education, whether or not provided by the school at which the participating student is enrolled
@@ -491,6 +496,7 @@ The purpose of this Act is to establish and regulate an education system that—
     (c) NZQA; and
     (d) TEC; and
     (e) any other agency or body declared by regulations made under section 649 to be a specified user
+  - **sponsor** means the governing body of a charter school that the Authorisation Board has approved under section 212I to operate the school
   - **State integrated school** means a State school that—
     (a) offers education with a special character; and
     (b) has been established as a State integrated school under clause 5 of Schedule 6
@@ -519,6 +525,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **tertiary component** , in relation to a secondary–tertiary programme, means the portion of the programme that consists of the participating student's apprenticeship training or participation in tertiary education that—
     (a) is provided by any 1 or more of the following:
       (i) a board of a secondary school, a composite school, or a specialist school that is a relevant school:
+      (ia) a sponsor of a secondary school or composite school:
       (ii) the managers of a private school, other than a school registered only as a primary school:
       (iii) a government training establishment:
       (iv) an institution:
@@ -564,7 +571,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **workforce development council** means a workforce development council established under section 363.
 (2) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence class visa granted under the Immigration Act 2009 must satisfy in order to fulfil the requirements of paragraph (b) of the definition of domestic student or paragraph (a)﻿(ii) of the definition of domestic tertiary student in subsection (1).
 (3) Regulations under subsection (2) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
-(3A) The Minister may, by notice, set criteria relating to the recognition of bodies and iwi or Māori organisations for the purposes of paragraphs (c) and (d) of the definition of excluded early childhood service in subsection (1).
+(3A)
 (4) Despite the definition of immediate caregiver in subsection (1), a student does not have an immediate caregiver if the student—
   (a) usually lives in a household that includes the student’s father and mother; or
   (b) usually spends approximately equal time in 2 or more households; or
@@ -652,7 +659,7 @@ The purpose of this Act is to establish and regulate an education system that—
 (12) If a notice under paragraph (c)﻿(ii) of the definition of tertiary education organisation in subsection (1) is not secondary legislation, the Minister must give the notice to—
   (a) the TEC; and
   (b) the individuals or bodies named in the notice.
-(13) A notice under subsection (3A) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(13)
 
 ### 11 Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
@@ -684,115 +691,31 @@ The purpose of this Part is to regulate an early childhood education system wher
 A service provider who provides a home-based education and care service or a hospital-based education and care service may, but need not, be licensed in accordance with regulations made under section 636 in respect of the service.
 
 ### 17 Ministerial approval required to apply for licence
-(1) Despite sections 15 and 16, an individual or entity that intends to operate a licensed early childhood service (the applicant) must apply to the Minister for approval to apply for a licence to operate the service.
-(2) The Minister may grant approval but, before doing so, must take into account—
-  (a) a high-level assessment of the relevant attributes of the area to be served, including (without limitation) the demography of the area, the needs of the communities in the area, the needs of the children in the area, and the availability of licensed early childhood services in the area with different offerings (for example, the provision of te reo Māori); and
-  (b) any statement issued under section 17D that is relevant to the application; and
-  (c) the suitability of the applicant and of every individual involved in the governance of the proposed service, which, as a minimum, requires the Minister to consider and determine whether each individual is a fit and proper person (including by considering the Secretary’s assessment provided under section 18(4)); and
-  (d) the applicant’s financial position (including by considering the Secretary’s assessment provided under section 18A(3)); and
-  (e) the licensing history of—
-    (i) any other early childhood service previously or currently owned, operated, or managed by, or otherwise connected with, the applicant; and
-    (ii) every individual involved in the governance of the proposed service; and
-  (f) the applicant’s capability to effectively establish and provide the service to which the application relates; and
-  (g) any other matter that the Minister considers is relevant to the application.
-(3) If the Minister considers information referred to in subsection (2) is insufficient to decide whether to grant approval, the Minister may—
-  (a) ask the applicant to supply more information:
-  (b) ask an individual or entity other than the applicant to supply any information that the Minister considers relevant to the application.
-(4) In deciding whether to grant approval, the Minister—
-  (a) may consider the application at the same time as any other application for approval to apply for a licence, regardless of the date on which the applications were received:
-  (b) is not required to defer a decision on the application solely because another applicant for approval to apply for a licence has appealed under section 18C against an assessment by the Secretary or has commenced judicial review proceedings.
-(5) An individual or entity may not apply for a licence without the Minister’s approval.
-(6) Approval to apply for a licence is irrelevant to the granting of a licence (as a licence may only be granted in accordance with regulations made under section 636).
-(7) If the Minister grants approval to an applicant,—
-  (a) the applicant must inform the Secretary of any change in circumstances that may have materially affected the Minister’s decision to grant the approval:
-  (b) that approval cannot be transferred to another individual or entity.
-(8) This section and sections 17A to 18C do not apply in relation to an individual or entity if the service for which the individual or entity intends to apply for a licence is an excluded early childhood service.
+[Repealed]
 
 ### 17A Conditions on approval to apply for licence
-(1) When granting an approval to apply for a licence to operate a licensed early childhood service, the Minister may impose conditions on the approval as the Minister thinks fit, including conditions—
-  (a) relating to the nature, capacity, or location of the proposed service; and
-  (b) that require the applicant to—
-    (i) meet milestones set by the Minister:
-    (ii) provide regular progress reports to the Ministry.
-(2) The Minister may, at any time,—
-  (a) impose new conditions on the approval; or
-  (b) amend or revoke any existing conditions.
-(3) However, before imposing, amending, or revoking a condition under subsection (2), the Minister must—
-  (a) take reasonable steps to notify the applicant of the Minister’s intention to make that decision; and
-  (b) if the applicant provides a response to the notification within a reasonable time, take into account that response.
-(4) When a condition is imposed, the Minister may specify a date by which the applicant must satisfy the condition.
+[Repealed]
 
 ### 17B Expiry of approval to apply for licence
-(1) When granting an approval to apply for a licence to operate a licensed early childhood service, the Minister must specify an expiry date for the approval that is no more than 3 years after the date on which the approval is granted.
-(2) However, the Minister may, at any time before an expiry date,—
-  (a) extend the expiry date to a date that is no more than 3 years after the date on which approval is granted; or
-  (b) if the Minister considers that there are exceptional circumstances that make an extension beyond the maximum period under paragraph (a) desirable, extend the expiry date to a date that is no more than 5 years after the date on which approval is granted.
-(3) For the purposes of subsection (2)﻿(b), exceptional circumstances includes the impacts of natural disasters or other circumstances beyond the applicant’s control on the proposed licensed early childhood service or the building in which the proposed service is to be located.
+[Repealed]
 
 ### 17C Revocation of approval to apply for licence
-(1) The Minister may revoke an approval to apply for a licence to operate a licensed early childhood service if the Minister is satisfied that 1 or more of the following grounds apply:
-  (a) the individual or entity granted the approval is not complying, or has not complied, with 1 or more of the conditions of approval imposed under section 17A:
-  (b) a significant change has occurred in the circumstances relating to the proposed licensed early childhood service that is likely to have materially affected the Minister’s decision to grant the approval:
-  (c) the individual or entity granted the approval has provided false or misleading information in their application.
-(2) Before revoking an approval under subsection (1), the Minister must—
-  (a) take all reasonable steps to give the individual or entity granted the approval written notice—
-    (i) of the Minister’s intention to revoke the approval; and
-    (ii) that the individual or entity may respond in writing to the Minister addressing reasons why the approval should not be revoked; and
-  (b) if the individual or entity provides a response within a reasonable time, take that response into account.
+[Repealed]
 
 ### 17D Minister may issue statements relating to network of licensed early childhood services
-(1) The Minister may, for the purpose of providing potential applicants for approval under section 17 with information about the network of licensed early childhood services, issue 1 or more statements that set out information relating to the network, at either a national or regional level, including—
-  (a) the Government’s strategic priorities for the establishment of licensed early childhood services; and
-  (b) information about the supply, forecast growth, demand, and need for licensed early childhood services; and
-  (c) any other information that the Minister considers relevant to applications for approval under section 17.
-(2) If a proposed statement relates to the Government’s strategic priorities referred to in subsection (1)﻿(a), the Minister must consult the licensed early childhood services sector and Māori before issuing the statement.
-(3) A statement must be published in the Gazette.
+[Repealed]
 
 ### 18 Secretary to assess whether applicants for approval to apply for licences are fit and proper
-(1) For every application under section 17 for approval to apply for a licence to operate a licensed early childhood service, the Secretary must make an assessment of whether each individual who is an applicant, or who is involved in the governance of the proposed service, is a fit and proper person to be granted approval.
-(2) In making an assessment under subsection (1), the Secretary must take into account whether each individual—
-  (a) has had a satisfactory Police vet for the purposes of the application:
-  (b) has been convicted of an offence that the Secretary considers is relevant to providing an early childhood service (for example, an offence involving harm to children, violence, or fraud):
-  (c) has been involved in or associated with an organisation that has been convicted of an offence that the Secretary considers is relevant to providing an early childhood service:
-  (d) has any health conditions that may affect the individual’s ability to comply with this Act and with regulations made under section 636:
-  (e) is, or has been, subject to a property order or personal order under the Protection of Personal and Property Rights Act 1988:
-  (f) owes, or has owed, money to the Crown, including in respect of bodies that the individual has been involved in managing:
-  (g) has been adjudicated bankrupt under the Insolvency Act 2006 or the Insolvency Act 1967:
-  (h) has been prohibited from being a director or promoter of, or being concerned or taking part in the management of,—
-    (i) a company under the Companies Act 1993; or
-    (ii) any other body corporate:
-  (i) has, or has had, any role as a governing member of an entity or organisation that became insolvent, including being placed in liquidation, receivership, or voluntary administration:
-  (j) is, or has been, subject to any prohibition against acting as an employer or an officer of an employer under the Employment Relations Act 2000:
-  (k) has had previous involvement in an early childhood service in respect of which—
-    (i) an application for a licence was refused; or
-    (ii) a licence was suspended or cancelled:
-  (l) meets any other criteria that the Secretary considers relevant.
-(3) In making an assessment under subsection (1), the Secretary may give the weight that the Secretary thinks fit to each of the criteria in subsection (2), having regard to the degree and nature of the individual’s involvement in the proposed service.
-(4) Once an assessment is finalised, the Secretary must provide the assessment to the Minister to inform the Minister’s consideration under section 17(2)﻿(c).
-(5) However, if the Secretary intends to provide an assessment to the Minister that reflects adversely on the application, the Secretary must, before finalising and providing the assessment to the Minister, follow the process set out in section 18B.
+[Repealed]
 
 ### 18A Secretary to assess financial viability of proposed early childhood service
-(1) For every application under section 17 for approval to apply for a licence to operate a licensed early childhood service, the Secretary must make an assessment of the financial viability of the proposed service.
-(2) In making the assessment, the Secretary may consider whether the applicant has access to, or has a credible plan to obtain access to, sufficient resources to effectively establish and provide the service.
-(3) Once an assessment is finalised, the Secretary must provide the assessment to the Minister to inform the Minister’s consideration under section 17(2)﻿(d).
-(4) However, if the Secretary intends to provide an assessment to the Minister that reflects adversely on the application, the Secretary must, before finalising and providing the assessment to the Minister, follow the process set out in section 18B.
+[Repealed]
 
 ### 18B Notification of adverse assessment
-(1) This section applies to—
-  (a) an assessment of whether an individual is a fit and proper person to be granted approval to which section 18(5) applies:
-  (b) an assessment of financial viability to which section 18A(4) applies.
-(2) Before finalising an assessment and providing it to the Minister, the Secretary must—
-  (a) notify the applicant in writing of the findings of the assessment; and
-  (b) give the applicant an opportunity to respond.
-(3) The Secretary may only finalise an assessment and provide it to the Minister under section 18(4) or 18A(3) after—
-  (a) considering the applicant’s response; or
-  (b) if the applicant does not respond, the elapse of 21 days after the applicant received written notice of the assessment.
-(4) The Secretary must notify the applicant in writing of the findings of the final assessment that is provided to the Minister, including any changes made as a result of the applicant’s response.
+[Repealed]
 
 ### 18C Appeal against adverse assessment
-(1) An applicant who is the subject of a final assessment by the Secretary that is provided to the Minister under section 18(4) or 18A(3) and that reflects adversely on the application for approval to apply for a licence to operate a licensed early childhood service may appeal against that assessment to the District Court.
-(2) An appeal under this section must be made within 14 days after the applicant receives written notice of the findings of a final assessment.
-(3) Despite an appeal being made under this section in relation to an assessment, the Minister may make a decision under section 17 in reliance upon the assessment.
+[Repealed]
 
 ### 19 Requirements for licensed home-based education and care service
 (1) A licensed home-based education and care service may be provided to no more than 4 children per home.
@@ -889,6 +812,7 @@ A person commits an offence, and is liable on conviction to a fine not exceeding
 (5) Subpart 4 concerns searches and the surrender of property.
 (6) Subpart 5 concerns the administration of State schools.
 (7) Subpart 6 concerns the establishment and designation of State schools.
+(7A) Subpart 6A concerns the establishment and operation of charter schools/kura hourua.
 (8) Subpart 7 concerns private schools.
 (9) Subpart 8 concerns secondary–tertiary programmes.
 (10) Subpart 9 concerns resolving serious disputes.
@@ -901,7 +825,8 @@ The purpose of this Part is to establish a schooling system that supports all le
   (b) supporting the health, safety, and well-being of students; and
   (c) providing for what is to be taught in schools; and
   (d) establishing governing bodies for State and State integrated schools, and providing for their elections, duties, powers, administration, and accountabilities; and
-  (e) establishing and managing a network of State schools that allows every student to access quality schooling and provides choice about the types of education they receive; and
+  (da) providing for the approval of governing bodies for charter schools/kura hourua and their duties, powers, administration, and accountabilities; and
+  (e) establishing and managing a network of State schools and charter schools that allows every student to access quality schooling and provides choice about the types of education they receive; and
   (f) regulating the teaching profession to ensure the quality of teaching in the schooling system, including (without limitation) setting standards for the registration of teachers; and
   (g) providing for the efficient and effective administration of the schooling system; and
   (h) honouring Te Tiriti o Waitangi and supporting Māori-Crown relationships that make a difference to learning; and
@@ -909,12 +834,12 @@ The purpose of this Part is to establish a schooling system that supports all le
 
 ### Subpart 1 — Priorities, rights, and responsibilities
 
-### 33 Right to free enrolment and free education at State schools (including entitlement to attend full-time)
-(1) Except as provided in this Part, every domestic student is entitled to free enrolment and free education at any State school during the period beginning on the student's fifth birthday and ending on 1 January after the student's 19th birthday.
+### 33 Right to free enrolment and free education at State schools or charter schools (including entitlement to attend full-time)
+(1) Except as provided in this Part, every domestic student is entitled to free enrolment and free education at any State school or charter school during the period beginning on the student's fifth birthday and ending on 1 January after the student's 19th birthday.
 (2) This right includes the entitlement to attend the school at which the student is enrolled during all the hours that the school is open for instruction.
 
-### 34 Students with special educational needs have same rights to education at State schools as others
-(1) Except as provided in this Part, students who have special educational needs (whether because of disability or otherwise) have the same rights to enrol, attend, and receive education at State schools as students who do not.
+### 34 Students with special educational needs have same rights to education at State schools or charter schools as others
+(1) Except as provided in this Part, students who have special educational needs (whether because of disability or otherwise) have the same rights to enrol, attend, and receive education at State schools or charter schools as students who do not.
 (2) This section does not limit or affect subpart 2 (which concerns restrictions on the right to enrol and attend school).
 
 ### 35 Domestic students aged between 6 and 16 years must be enrolled at registered school
@@ -926,16 +851,16 @@ The purpose of this Part is to establish a schooling system that supports all le
 (1) Except as provided in this Act, a student is required to attend a registered school whenever it is open if the student—
   (a) is required to be enrolled at a registered school:
   (b) is aged 5 years and is enrolled at a registered school.
-(2) A board must take all reasonable steps to ensure that the school’s students attend the school when it is open.
+(2) A board or sponsor must take all reasonable steps to ensure that the school’s students attend the school when it is open.
 (3) For the purposes of this section, a student attends a school on any day if, on the day,—
   (a) it has been open for instruction for 4 hours or more; and
   (b) the student has been present for 4 hours or more when it was open for instruction.
 
 ### 37 Special education
 (1) If satisfied that a student under the age of 21 years should have special education, the Secretary must—
-  (a) agree with the student’s parent that the student should be enrolled, or direct the parent to enrol the student, at a particular State school or specialist school; or
+  (a) agree with the student’s parent that the student should be enrolled, or direct the parent to enrol the student, at a particular State school, charter school, or specialist school; or
   (b) agree with the student’s parent that the student should have, or direct the parent to ensure that the student has, education or help from a special service.
-(2) If an agreement is reached or a direction is given under subsection (1), the student concerned must be allowed to enrol at the State school or specialist school concerned or to have education or help from the special service concerned.
+(2) If an agreement is reached or a direction is given under subsection (1), the student concerned must be allowed to enrol at the State school, charter school, or specialist school concerned or to have education or help from the special service concerned.
 (3) Subsection (1) applies despite anything in this Act that relates to enrolment schemes, or anything in the enrolment scheme of any school, but is subject to subpart 2.
 (4) Subject to section 47(4), if a direction has been given under subsection (1), a parent who, more than 1 month after it was given, fails or refuses to comply with it commits an offence and is liable on conviction to the penalty set out in section 243(1) (which relates to a failure to enrol).
 (5) A student may not be or continue to be enrolled at a specialist school, or have or continue to have education or help from a special service, except under an agreement or direction given under subsection (1).
@@ -1003,7 +928,7 @@ While an exemption certificate granted under section 38 or 39 is in force,—
 ### 43 Exceptions to attendance because of secondary–tertiary programmes and multiple timetable arrangements
 (1) Section 36 does not apply to a participating student who is enrolled at a registered school for the purposes of the secondary component of the student’s secondary–tertiary programme, but a participating student must attend the school for any portion of the programme as notified by the provider group or lead provider under clause 9 of Schedule 8.
 (2) Section 36 does not apply to an affected student, but the student must attend school for the whole of the time period (or periods) each day during which their timetable is running.
-(3) A board that is running a multiple timetable arrangement must take all reasonable steps to ensure that an affected student attends the school for the whole of the time period (or periods) each day during which the student's timetable is running.
+(3) A board or a sponsor that is running a multiple timetable arrangement must take all reasonable steps to ensure that an affected student attends the school for the whole of the time period (or periods) each day during which the student's timetable is running.
 
 ### 44 Exemption from attendance because of walking distance to school or some other reason
 (1) Despite section 36, the Secretary may, on application by a parent of a student, grant a certificate to the parent of the student that exempts the student (entirely or partly) from attending a school if the Secretary is satisfied that—
@@ -1078,10 +1003,10 @@ While an exemption certificate granted under section 38 or 39 is in force,—
   (p) despite subsection (1), a parent does not have the right to request the reconsideration or reference to an arbitrator of a decision that the Secretary has made in accordance with an arbitrator’s direction:
   (q) despite subsection (1), if the arbitrator confirms a decision of the Secretary to refuse to come to an agreement under section 37(1), no parent has a right to require the reconsideration or reference to an arbitrator of a further refusal made in respect of the same student within 12 months after the confirmation of the decision.
 
-### 48 Board of State school may appoint attendance officer
-(1) A board of a State school must, by any means it thinks fit, take all reasonable steps to ensure the attendance of students enrolled at its school.
-(2) For the purposes of complying with subsection (1), the board may appoint an attendance officer for the schools it administers.
-(3) A person may be appointed as an attendance officer by more than 1 board.
+### 48 Board of State school or sponsor may appoint attendance officer
+(1) A board of a State school or a sponsor must, by any means it thinks fit, take all reasonable steps to ensure the attendance of students enrolled at its school.
+(2) For the purposes of complying with subsection (1), the board or sponsor may appoint an attendance officer for the schools it administers.
+(3) A person may be appointed as an attendance officer by more than 1 board or sponsor.
 
 ### 49 Powers of attendance officers and constables
 (1) An attendance officer or a constable may detain any person who appears to have turned 5 years and not to have turned 16 years, and who appears to be absent from school, and question the person as to—
@@ -1090,8 +1015,12 @@ While an exemption certificate granted under section 38 or 39 is in force,—
   (c) the reason for the person’s absence from school.
 (2) Before exercising the power under subsection (1), an attendance officer must produce a distinctive badge or other evidence of appointment.
 (3) The attendance officer or constable may, if not satisfied that the person has a good reason for not being at school, take the person to the person's home, or to the school at which the attendance officer or constable thinks the person is enrolled.
-(4) An attendance officer, a principal, the Secretary, or any person appointed by a board or the Secretary for the purpose may file charging documents, conduct prosecutions, and take any other proceedings under this Part.
-(5) A certificate sealed by a board showing that a person named in it is appointed for any purpose under this section is sufficient evidence of the matters specified in the certificate, and the authenticity of, and validity of the affixing of, a board’s seal may not in any proceedings under this Part be inquired into or disputed.
+(4) The following persons may file charging documents, conduct prosecutions, and take any other proceedings under this Part:
+  (a) an attendance officer:
+  (b) a principal:
+  (c) the person responsible for teaching and learning in a charter school:
+  (d) a person appointed by a board, a sponsor, or the Secretary for the purpose.
+(5) A certificate sealed by a board or a sponsor showing that a person named in it is appointed for any purpose under this section is sufficient evidence of the matters specified in the certificate, and the authenticity of, and validity of the affixing of, a board’s or a sponsor’s seal may not in any proceedings under this Part be inquired into or disputed.
 (6) This section applies—
   (a) to a participating student only in relation to any portion of the student’s secondary–tertiary programme during which the student is required to attend school, as notified by the provider group or lead provider under clause 9 of Schedule 8:
   (b) to an affected student only in relation to the time period (or periods) each day during which the student’s timetable is running.
@@ -1099,36 +1028,38 @@ While an exemption certificate granted under section 38 or 39 is in force,—
 **Release from tuition**
 
 ### 50 Release from tuition on religious or cultural grounds
-(1) This section applies to students enrolled at a State school that is not a State integrated school.
-(2) A student over the age of 16 years, or a parent of a student under the age of 16 years, may ask the principal to release the student from tuition in a particular class or subject.
+(1) This section applies to students enrolled at—
+  (a) a State school that is not a State integrated school; or
+  (b) a charter school.
+(2) A student over the age of 16 years, or a parent of a student under the age of 16 years, may ask the principal or person responsible for teaching and learning in a charter school to release the student from tuition in a particular class or subject.
 (3) A request under subsection (2) must be made in writing and at least 24 hours before the start of the tuition.
-(4) The principal may not release the student unless satisfied that—
+(4) The principal or person responsible for teaching and learning in a charter school may not release the student unless satisfied that—
   (a) the parent or student has asked because of sincerely held religious or cultural views; and
   (b) the student is to be adequately supervised (whether within or outside the school) during the period of release from tuition.
-(5) On receiving a request from a parent under subsection (2), the principal must, before agreeing to release the student, take all reasonable steps to find out the student's views on the matter.
-(6) Subject to subsection (4), the principal must release the student from the tuition and (if the student is to be supervised outside the school) let the student leave the school during the tuition unless satisfied that it is inappropriate to do so, having regard to—
+(5) On receiving a request from a parent under subsection (2), the principal or person responsible for teaching and learning in a charter school must, before agreeing to release the student, take all reasonable steps to find out the student's views on the matter.
+(6) Subject to subsection (4), the principal or person responsible for teaching and learning in a charter school must release the student from the tuition and (if the student is to be supervised outside the school) let the student leave the school during the tuition unless satisfied that it is inappropriate to do so, having regard to—
   (a) the student's age, maturity, and ability to formulate and express views; and
   (b) any views the student has expressed.
 (7) Nothing in this section limits or affects section 59.
 
 ### 51 Release from tuition for specified parts of health curriculum
-(1) A parent of a student enrolled at a State school may ask the principal in writing to ensure that the student is released from tuition in specified parts of the health curriculum related to sexuality education.
-(2) On receiving a request under subsection (1), the principal must ensure that—
+(1) A parent of a student enrolled at a State school or charter school may ask the principal or person responsible for teaching and learning in a charter school in writing to ensure that the student is released from tuition in specified parts of the health curriculum related to sexuality education.
+(2) On receiving a request under subsection (1), the principal or person responsible for teaching and learning in a charter school must ensure that—
   (a) the student is released from the relevant tuition; and
   (b) the student is supervised during the period of release from that tuition.
-(3) Subsection (1) does not require a principal to ensure that a student who is to be excluded from tuition in specified parts of the health curriculum related to sexuality education is excluded at any other time while a teacher deals with a question raised by another student that relates to the specified part of the curriculum.
+(3) Subsection (1) does not require a principal or person responsible for teaching and learning in a charter school to ensure that a student who is to be excluded from tuition in specified parts of the health curriculum related to sexuality education is excluded at any other time while a teacher deals with a question raised by another student that relates to the specified part of the curriculum.
 
 ### 52 Release from tuition for outside tuition or if good reasons to leave early
-The principal of a State school may,—
-  (a) if satisfied that the student is to receive outside the school tuition acceptable to the principal, release a student from attendance at the school, for a period or periods agreed with a parent of the student, to receive the tuition (and, as appropriate, travel between the school and the place where the tuition is to be given):
+The principal of a State school or person responsible for teaching and learning in a charter school may,—
+  (a) if satisfied that the student is to receive outside the school tuition acceptable to the principal or person responsible for teaching and learning in a charter school, release a student from attendance at the school, for a period or periods agreed with a parent of the student, to receive the tuition (and, as appropriate, travel between the school and the place where the tuition is to be given):
   (b) let a student leave early on a particular day if satisfied that—
     (i) the student has, on the day on which the school was open for instruction, been present at the school for 4 hours or more; and
     (ii) there are good reasons for the student to leave before the school closes on the day.
 
 ### 53 Courses, work experience, and visits outside school premises
-(1) A board may authorise any students to undertake courses of education, gain work experience, or make visits outside the school premises.
+(1) A board or sponsor may authorise any students to undertake courses of education, gain work experience, or make visits outside the school premises.
 (2) If authorisation is given, the student must be treated as attending the school while undertaking the course, gaining the experience, or making the visit.
-(3) A principal, a teacher, or an occupier of a workplace may not allow a student to go into, or remain in, a workplace to gain work experience except in accordance with any conditions prescribed by the Minister by notice.
+(3) A principal or person responsible for teaching and learning in a charter school, a teacher, or an occupier of a workplace may not allow a student to go into, or remain in, a workplace to gain work experience except in accordance with any conditions prescribed by the Minister by notice.
 (4) A student who is in any workplace to gain work experience is to be treated as being employed by the workplace, and every enactment and collective agreement (to the extent that it relates to the health, safety, and welfare of workers) applies to the student and the occupier of the workplace accordingly.
 (5) However, subsection (4) does not—
   (a) entitle a student to be paid; or
@@ -1195,13 +1126,13 @@ The following persons may not be enrolled at or continue to be enrolled at a pri
   (c) a child who, in the Secretary’s opinion, has made sufficient progress, in terms of any curriculum statement for year 8 made under section 90.
 
 ### 63 Cohort entry policy
-(1) A State school may adopt or revoke a cohort entry policy after complying with the requirements of section 65.
+(1) A State school or charter school may adopt or revoke a cohort entry policy after complying with the requirements of section 65.
 (2) A cohort entry policy must—
   (a) apply to all children aged 5 years who have not previously enrolled at a registered school; and
   (b) provide that they may be enrolled only on a date determined in accordance with section 64.
 
 ### 64 Dates for starting school under cohort entry policy
-(1) This section applies to a State school that has a cohort entry policy.
+(1) This section applies to a State school or charter school that has a cohort entry policy.
 (2) A child may be enrolled no earlier than the child’s fifth birthday on a date that is—
   (a) a term start date:
   (b) a mid-term start date.
@@ -1210,13 +1141,13 @@ The following persons may not be enrolled at or continue to be enrolled at a pri
   - **term start date** , in relation to a school, means a date that is the first day of a term on which the school is open for instruction.
 
 ### 65 Adoption or revocation of cohort entry policy
-(1) When adopting a proposed cohort entry policy for a State school, a board must take all reasonable steps to discover and consider the views of the following persons about the policy and whether it is generally acceptable:
+(1) When adopting a proposed cohort entry policy for a State school or charter school, a board or sponsor must take all reasonable steps to discover and consider the views of the following persons about the policy and whether it is generally acceptable:
   (a) parents of students at the school:
-  (b) employees of the board at the school:
+  (b) employees of the board or sponsor at the school:
   (c) early childhood services in the local community:
   (d) parents of prospective students of the school.
-(2) When considering whether to revoke a cohort entry policy, a board must take all reasonable steps to discover and consider the views of the persons described in subsection (1) as to whether the policy should be revoked.
-(3) A board must take all reasonable steps to give notice of at least 1 term to the Secretary and the persons described in subsection (1) before a cohort entry policy takes effect or ceases to have effect.
+(2) When considering whether to revoke a cohort entry policy, a board or sponsor must take all reasonable steps to discover and consider the views of the persons described in subsection (1) as to whether the policy should be revoked.
+(3) A board or sponsor must take all reasonable steps to give notice of at least 1 term to the Secretary and the persons described in subsection (1) before a cohort entry policy takes effect or ceases to have effect.
 
 ### 66 Publication of mid-term start dates
 (1) The Minister must, before 1 July in any year, publish in a notice the mid-term start dates for the following year.
@@ -1316,27 +1247,30 @@ A State school's enrolment scheme must—
 **Other restrictions on enrolment and attendance**
 
 ### 76 Secretary may direct that students attend particular schools
-(1) The Secretary may, on the recommendation of the chief executive of Oranga Tamariki, direct the board of a State school to enrol a person at the school.
+(1) The Secretary may, on the recommendation of the chief executive of Oranga Tamariki, direct—
+  (a) the board of a State school to enrol a person at the school; or
+  (b) the sponsor to enrol a person at the charter school.
 (2) However, the Secretary may not give a direction under subsection (1) unless the Secretary has first taken all reasonable steps to consult—
   (a) a parent of the person; and
-  (b) the board concerned; and
+  (b) the board or sponsor concerned; and
   (c) the chief executive of Oranga Tamariki and any other person or organisation that, in the Secretary's opinion, may be interested in, or able to advise on or help with, the person's education or welfare.
-(3) The board must comply with a direction given under subsection (1).
+(3) The board or sponsor must comply with a direction given under subsection (1).
 (4) A direction given under subsection (1) overrides any enrolment scheme the school may have in place.
 
-### 77 Principals may preclude students for health reasons
-(1) A principal of a State school may preclude a student from the school if they have reasonable grounds to believe that the student may have a communicable disease (within the meaning of the Health Act 1956).
-(2) As soon as practicable after precluding a student under subsection (1), the principal must make all reasonable efforts to tell the following persons that the student has been precluded and why:
-  (a) the school’s board; and
+### 77 Principals or persons responsible for teaching and learning may preclude students for health reasons
+(1) A principal of a State school or the person responsible for teaching and learning in a charter school may preclude a student from the school if they have reasonable grounds to believe that the student may have a communicable disease (within the meaning of the Health Act 1956).
+(2) As soon as practicable after precluding a student under subsection (1), the principal or person responsible for teaching and learning in a charter school must make all reasonable efforts to tell the following persons that the student has been precluded and why:
+  (a) the school’s board or sponsor; and
   (b) the student (if the student has turned 20 years) or a parent of the student (in any other case); and
   (c) the Medical Officer of Health.
-(3) If a student has been precluded on suspicion of having a communicable disease, the board must, as soon as practicable, investigate the matter and—
+(3) If a student has been precluded on suspicion of having a communicable disease, the board or sponsor must, as soon as practicable, investigate the matter and—
   (a) cancel the preclusion; or
-  (b) confirm that the student should stay precluded until the board has received a certificate from a medical practitioner stating that the student is well enough to go back to school.
-(4) A principal or a board is not liable for any act done or omitted—
-  (a) in good faith; and
-  (b) with reasonable care; and
-  (c) in exercising or performing, or in intending to exercise or perform, a power or duty under this section.
+  (b) confirm that the student should stay precluded until the board or sponsor has received a certificate from a medical practitioner stating that the student is well enough to go back to school.
+(4) The following persons are not liable for any act done or omitted in good faith with reasonable care in exercising or performing, or in intending to exercise or perform, a power or duty under this section:
+  (a) a principal:
+  (b) the person responsible for teaching and learning in a charter school:
+  (c) a board:
+  (d) a sponsor.
 (5) If a parent is charged with an offence against section 244—
   (a) it is a defence to the charge if it is proved that—
     (i) the student did not attend because the student was precluded for having a communicable disease; and
@@ -1344,91 +1278,93 @@ A State school's enrolment scheme must—
   (b) except to the extent set out in paragraph (a), it is not a defence to the charge that the student did not attend because the student was precluded under subsection (1).
 
 ### 78 Purpose of sections 79 to 89
-The purpose of sections 79 to 89 relating to the standing-down, suspension, exclusion, or expulsion of a domestic student from a State school is to—
+The purpose of sections 79 to 89 relating to the standing-down, suspension, exclusion, or expulsion of a domestic student from a State school or a charter school is to—
   (a) provide a range of responses for cases of varying degrees of seriousness; and
   (b) minimise the disruption to a student's attendance at school and facilitate the return of the student to school when that is appropriate; and
   (c) ensure that individual cases are dealt with in accordance with the principles of natural justice.
 
 ### 79 Application of sections 80 to 89
-Sections 80 to 89 (and any rules made under section 89) apply only in relation to domestic students at a State school.
+Sections 80 to 89 (and any rules made under section 89) apply only in relation to domestic students at a State school or a charter school.
 
-### 80 Principals of State schools may stand down or suspend students
-(1) The principal of a State school may stand down or suspend a student if satisfied on reasonable grounds that—
+### 80 Principals of State schools or persons responsible for teaching and learning in charter schools may stand down or suspend students
+(1) The principal of a State school or the person responsible for teaching and learning in a charter school may stand down or suspend a student if satisfied on reasonable grounds that—
   (a) the student's gross misconduct or continual disobedience is a harmful or dangerous example to other students at the school; or
   (b) because of the student's behaviour, it is likely that the student, or other students at the school, would be seriously harmed if the student were not stood down or suspended.
 (2) A stand-down may be for 1 or more specified periods, and—
   (a) the period or periods may not exceed 5 school days in any one term:
   (b) a student may be stood down more than once in the same year but for not more than 10 school days in total in that year:
   (c) in calculating the period of a stand-down, the day on which the student was stood down, and any day on which the student would not have had to attend school in any event, may not be counted:
-  (d) the principal may lift the stand-down before it is due to expire.
+  (d) the principal or person responsible for teaching and learning in a charter school may lift the stand-down before it is due to expire.
 (3) If a student has been stood down or suspended, the following provisions apply in relation to the student's attendance at the school:
-  (a) the principal may require the student to attend the school if the principal reasonably considers that the student's attendance is appropriate for the purposes of section 84:
-  (b) the principal must allow the student to attend the school if a parent of the student requests that the student be permitted to attend the school and the principal considers the request is reasonable:
+  (a) the principal or person responsible for teaching and learning in a charter school may require the student to attend the school if the principal or person responsible for teaching and learning in a charter school reasonably considers that the student’s attendance is appropriate for the purposes of section 84:
+  (b) the principal or person responsible for teaching and learning in a charter school must allow the student to attend the school if a parent of the student requests that the student be permitted to attend the school and the principal or person responsible for teaching and learning in a charter school considers the request is reasonable:
   (c) otherwise the student does not have to, and is not permitted to, attend the school while stood down or suspended.
 
-### 81 Powers of State school board when suspended students aged under 16 years
-(1) If a student aged under 16 years has been suspended from a State school, the school's board may—
+### 81 Powers of State school board and charter school sponsor when suspended students aged under 16 years
+(1) If a student aged under 16 years has been suspended from a State school or a charter school, the school's board or the sponsor may—
   (a) lift the suspension before it expires, either unconditionally or subject to any reasonable conditions the board wants to make:
   (b) extend the suspension conditionally for a reasonable period determined by the board when extending the suspension, in which case subsection (2) applies:
   (c) if the circumstances of the case justify the most serious response, exclude the student from the school by extending the suspension and requiring the student to be enrolled at another school.
-(2) If the board extends a suspension conditionally, the board must impose reasonable conditions aimed at facilitating the return of the student to school and must take appropriate steps to facilitate the return of the student to school.
-(3) If a student fails to comply with any condition imposed under this section in respect of the lifting or extension of their suspension, the principal may request the board to reconsider the action it took under this section.
-(4) If subsection (3) applies, the board may confirm or reverse its earlier decisions or may modify its earlier decisions by taking any action specified in subsection (1).
-(5) If the board has not sooner lifted or extended it or excluded the student under subsection (1)﻿(c), the suspension of the student ceases to have effect—
+(2) If the board or sponsor extends a suspension conditionally, the board or sponsor must impose reasonable conditions aimed at facilitating the return of the student to school and must take appropriate steps to facilitate the return of the student to school.
+(3) If a student fails to comply with any condition imposed under this section in respect of the lifting or extension of their suspension, the principal or person responsible for teaching and learning in a charter school may request the board or sponsor to reconsider the action it took under this section.
+(4) If subsection (3) applies, the board or sponsor may confirm or reverse its earlier decisions or may modify its earlier decisions by taking any action specified in subsection (1).
+(5) If the board or sponsor has not sooner lifted or extended it or excluded the student under subsection (1)﻿(c), the suspension of the student ceases to have effect—
   (a) at the close of the seventh school day after the day of the suspension; or
   (b) if the suspension occurs within 7 school days before the end of a term, at the close of the tenth calendar day after the day of the suspension.
-(6) If the board excludes the student under subsection (1)﻿(c), the principal must try to arrange for the student to attend another school that is suitable and that the student can reasonably conveniently attend.
-(7) If the principal is unable, by the tenth school day after the day of the board's decision to exclude a student, to arrange for the student to attend another school, the principal must tell the Secretary what steps the principal took in trying to do so.
+(6) If the board or sponsor excludes the student under subsection (1)﻿(c), the principal or person responsible for teaching and learning in a charter school must try to arrange for the student to attend another school that is suitable and that the student can reasonably conveniently attend.
+(7) If the principal or person responsible for teaching and learning in a charter school is unable, by the tenth school day after the day of the board's or sponsor’s decision to exclude a student, to arrange for the student to attend another school, the principal or person responsible for teaching and learning in a charter school must tell the Secretary what steps the principal or person responsible for teaching and learning in a charter school took in trying to do so.
 
 ### 82 Secretary’s powers when excluded students aged under 16 years
-(1) If the Secretary is satisfied that the board of a State school has excluded a student aged under 16 years from the school under section 81(1)﻿(c), and that the principal has not arranged for the student to attend another school, the Secretary must,—
+(1) If the Secretary is satisfied that the board of a State school or a sponsor has excluded a student aged under 16 years from the school under section 81(1)﻿(c), and that the principal or person responsible for teaching and learning in a charter school has not arranged for the student to attend another school, the Secretary must,—
   (a) if satisfied that it is appropriate for the student to return to the school from which the student has been excluded, lift the exclusion; or
-  (b) arrange for and, if necessary, direct the board of any other State school (other than a State integrated school) to enrol the student at the other school; or
+  (b) arrange for, and if necessary direct, the following to enrol the student at the other school:
+    (i) the board of any other State school (other than a State integrated school):
+    (ii) the sponsor of any other charter school.
   (c) direct a parent of the student to enrol the student at a distance school.
 (2) The Secretary may not lift an exclusion under subsection (1)﻿(a) or give a direction under subsection (1)﻿(b) unless the Secretary has made all reasonable attempts to consult—
   (a) the student; and
   (b) a parent of the student; and
-  (c) the board; and
+  (c) the board or the sponsor; and
   (d) any other person or organisation that, in the Secretary’s opinion, may be interested in, or able to advise on or help with, the student's education or welfare.
-(3) If the board of a school from which the student has been excluded also controls another school, the Secretary (in exercising the power conferred by subsection (1)﻿(b)) may direct the board to enrol the student at that other school.
-(4) A board must comply with a direction under subsection (1)﻿(b), and the direction overrides any enrolment scheme the school may have in place.
+(3) If the board or the sponsor of a school from which the student has been excluded also controls another school, the Secretary (in exercising the power conferred by subsection (1)﻿(b)) may direct the board or the sponsor to enrol the student at that other school.
+(4) A board or the sponsor must comply with a direction under subsection (1)﻿(b), and the direction overrides any enrolment scheme the school may have in place.
 
-### 83 Powers of State school board when suspended students aged 16 years or over
-(1) If a student aged 16 years or over has been suspended from a State school, the school’s board may—
+### 83 Powers of State school board and charter school sponsor when suspended students aged 16 years or over
+(1) If a student aged 16 years or over has been suspended from a State school or a charter school, the school’s board or sponsor may—
   (a) lift the suspension before it expires, either unconditionally or subject to any reasonable conditions it wants to make; or
-  (b) extend the suspension conditionally for a reasonable period determined by the board when extending the suspension, in which case subsection (2) applies; or
+  (b) extend the suspension conditionally for a reasonable period determined by the board or sponsor when extending the suspension, in which case subsection (2) applies; or
   (c) expel the student.
-(2) If the board extends a suspension conditionally, the board must impose reasonable conditions aimed at facilitating the return of the student to school, and must take steps to facilitate the return of the student to school.
-(3) If a student fails to comply with any condition imposed under this section in respect of the lifting or extension of their suspension, the principal may request the board to reconsider the action it took under this section.
-(4) If subsection (3) applies, the board may confirm or reverse its earlier decisions or may modify its earlier decisions by taking any action specified in subsection (1).
-(5) If the board has not sooner lifted or extended it or expelled the student under subsection (1)﻿(c), the suspension of the student ceases to have effect—
+(2) If the board or sponsor extends a suspension conditionally, the board or sponsor must impose reasonable conditions aimed at facilitating the return of the student to school, and must take steps to facilitate the return of the student to school.
+(3) If a student fails to comply with any condition imposed under this section in respect of the lifting or extension of their suspension, the principal or person responsible for teaching and learning in a charter school may request the board or sponsor to reconsider the action it took under this section.
+(4) If subsection (3) applies, the board or sponsor may confirm or reverse its earlier decisions or may modify its earlier decisions by taking any action specified in subsection (1).
+(5) If the board or sponsor has not sooner lifted or extended it or expelled the student under subsection (1)﻿(c), the suspension of the student ceases to have effect—
   (a) at the close of the seventh school day after the day of the suspension; or
   (b) if the suspension occurs within 7 school days before the end of a term, at the close of the tenth calendar day after the day of the suspension.
 
-### 84 Duties of principals when students stood down or suspended from State schools
-(1) When a student is stood down or suspended from a State school, the principal must take all reasonable steps to ensure that the student has the guidance and counselling that are reasonable and practicable in all the circumstances of the stand-down or suspension.
-(2) If a student's suspension is subject to conditions, the principal must take all reasonable steps to ensure that an appropriate educational programme is provided to the student.
+### 84 Duties of principals or persons responsible for teaching and learning when students stood down or suspended from State schools or charter schools
+(1) When a student is stood down or suspended from a State school or a charter school, the principal or person responsible for teaching and learning in a charter school must take all reasonable steps to ensure that the student has the guidance and counselling that are reasonable and practicable in all the circumstances of the stand-down or suspension.
+(2) If a student's suspension is subject to conditions, the principal or person responsible for teaching and learning in a charter school must take all reasonable steps to ensure that an appropriate educational programme is provided to the student.
 (3) The purpose of the programme referred to in subsection (2) is to facilitate the return of a student to school and to minimise the educational disadvantages that occur from absence from school.
 
-### 85 Who may attend State school board meeting concerning suspensions
-(1) If a student has been suspended from a State school, the student, a parent of the student, and their representatives are entitled to attend at least 1 meeting of the board and speak at that meeting, and to have their views considered by the board before it decides whether to lift or extend the suspension or exclude or expel the student.
-(2) Instead of attending and speaking at a meeting of the board in person, the student, a parent of the student, and their representatives may attend and speak by way of telephone conference or video link.
+### 85 Who may attend meeting concerning suspension
+(1) If a student has been suspended from a State school or a charter school, the student, a parent of the student, and their representatives are entitled to attend at least 1 meeting of the board or sponsor and speak at that meeting, and to have their views considered by the board or sponsor before it decides whether to lift or extend the suspension or exclude or expel the student.
+(2) Instead of attending and speaking at a meeting of the board or sponsor in person, the student, a parent of the student, and their representatives may attend and speak by way of telephone conference or video link.
 (3) However, a telephone conference or video link may be used only if the student and a parent of the student have requested it to be used.
 
 ### 86 Effect of suspension on school register
-(1) The name of a student aged under 16 years who has been suspended from a State school under section 80 or excluded from a State school under section 81(1)﻿(c) must stay on the school's register until the earlier of the following days:
+(1) The name of a student aged under 16 years who has been suspended from a State school or a charter school under section 80 or excluded from a State school or a charter school under section 81(1)﻿(c) must stay on the school's register until the earlier of the following days:
   (a) the day the student is enrolled at another registered school:
   (b) the day the student is given an exemption under section 38 or 39.
-(2) The name of a student who has turned 16 years and is suspended from a State school under section 80 must stay on the register of the school until the earliest of the following days:
+(2) The name of a student who has turned 16 years and is suspended from a State school or a charter school under section 80 must stay on the register of the school until the earliest of the following days:
   (a) the day on which the student is enrolled at another registered school:
   (b) the day on which the student is expelled from the school:
   (c) the day on which the student leaves school:
   (d) 1 January after the student's 19th birthday.
-(3) Subsection (2) applies to a student who is aged under 16 years when suspended from a State school under section 80, or who is excluded from a State school under section 81(1)﻿(c), and turns 16 years while subject to the suspension or exclusion.
+(3) Subsection (2) applies to a student who is aged under 16 years when suspended from a State school or a charter school under section 80, or who is excluded from a State school or a charter school under section 81(1)﻿(c), and turns 16 years while subject to the suspension or exclusion.
 
 ### 87 Re-enrolment of excluded or expelled student
-(1) The board of a State school from which a student has ever been excluded or expelled may refuse to enrol the student at the school (unless, in the case of an exclusion, the Secretary has lifted the exclusion under section 82(1)﻿(a)).
-(2) Subject to section 82(1)﻿(b), the board of a State school may refuse to enrol a student who is for the time being excluded or expelled (whether under section 81 or 83) from another State school.
+(1) The board of a State school or a sponsor from which a student has ever been excluded or expelled may refuse to enrol the student at the school (unless, in the case of an exclusion, the Secretary has lifted the exclusion under section 82(1)﻿(a)).
+(2) Subject to section 82(1)﻿(b), the board of a State school or a sponsor may refuse to enrol a student who is for the time being excluded or expelled (whether under section 81 or 83) from another State school or another charter school.
 (3) The Secretary may, in the case of a student who has turned 16 years, direct the board of another State school (other than a State integrated school) to enrol a student at the school if—
   (a) the student has been expelled from a State school under section 83; and
   (b) the Secretary has made all reasonable attempts to consult—
@@ -1436,26 +1372,37 @@ Sections 80 to 89 (and any rules made under section 89) apply only in relation t
     (ii) a parent of the student; and
     (iii) the board; and
     (iv) any other person or organisation that, in the Secretary’s opinion, may be interested in, or able to advise on or help with, the student's education or welfare.
-(4) A board must comply with a direction under subsection (3) and the direction overrides any enrolment scheme the school may have in place.
+(3A) The Secretary may, in the case of a student who has turned 16 years, direct the sponsor of another charter school to enrol a student at the charter school if—
+  (a) the student has been expelled from a charter school under section 83; and
+  (b) the Secretary has made all reasonable attempts to consult—
+    (i) the student; and
+    (ii) a parent of the student; and
+    (iii) the sponsor; and
+    (iv) any other person or organisation that, in the Secretary’s opinion, may be interested in, or able to advise on or help with, the student’s education or welfare.
+(4) A board or sponsor must comply with a direction under subsection (3) and the direction overrides any enrolment scheme the school may have in place.
 
 ### 88 Notice requirements for stand-downs, suspensions, exclusions, and expulsions
-(1) Immediately after a student is stood down under section 80, the principal must tell the Secretary and a parent of the student—
+(1) Immediately after a student is stood down under section 80, the principal or person responsible for teaching and learning in a charter school must tell the Secretary and a parent of the student—
   (a) that the student has been stood down; and
-  (b) the reasons for the principal's decision; and
+  (b) the reasons for the decision of the principal or person responsible for teaching and learning in a charter school; and
   (c) the period for which the student has been stood down.
-(2) Immediately after a student is suspended under section 80, the principal must tell the board, the Secretary, and a parent of the student—
+(2) Immediately after a student is suspended under section 80, the principal or person responsible for teaching and learning in a charter school must tell the board or sponsor, the Secretary, and a parent of the student—
   (a) that the student has been suspended; and
-  (b) the reasons for the principal's decision.
-(3) Immediately after the principal or the board lifts a suspension, extends a suspension, excludes a student, or expels a student, the principal or the board must tell the Secretary and a parent of the student—
+  (b) the reasons for the decision of the principal or person responsible for teaching and learning in a charter school.
+(3) Immediately after the principal or person responsible for teaching and learning in a charter school or the board or sponsor lifts a suspension, extends a suspension, excludes a student, or expels a student, the principal or person responsible for teaching and learning in a charter school or the board or sponsor must tell the Secretary and a parent of the student—
   (a) that the suspension has been lifted or extended, and the period of the extension (if any), or that the student has been excluded or expelled; and
-  (b) the reasons for the principal’s or the board's decision.
-(4) Nothing in this section requires the board to tell a parent of a student about an action taken under this section if the student has turned 20 years.
+  (b) the reasons for the decision of—
+    (i) the principal; or
+    (ii) the person responsible for teaching and learning in a charter school; or
+    (iii) the board; or
+    (iv) the sponsor.
+(4) Nothing in this section requires the board or sponsor to tell a parent of a student about an action taken under this section if the student has turned 20 years.
 
 ### 89 Secretary may make rules
-(1) The Secretary may make rules (which must be consistent with this Act) regulating the practice and procedure to be followed by boards, principals, students, parents of students, and other persons under sections 80 to 88, including (without limitation) rules—
+(1) The Secretary may make rules (which must be consistent with this Act) regulating the practice and procedure to be followed by boards, sponsors, principals, persons responsible for teaching and learning in charter schools, students, parents of students, and other persons under sections 80 to 88, including (without limitation) rules—
   (a) setting out procedural requirements to be followed when a proposed stand-down, suspension, exclusion, or expulsion is to be considered or decided:
   (b) specifying who should be consulted about the circumstances of a stand-down, suspension, exclusion, or expulsion:
-  (c) setting out the steps to be taken by the principal and board, respectively, when a student has been stood down, suspended, excluded, or expelled:
+  (c) setting out the steps to be taken by the principal (or person responsible for teaching and learning in a charter school) and board (or sponsor), respectively, when a student has been stood down, suspended, excluded, or expelled:
   (d) specifying the notices to be given when a decision not to lift a suspension, or a decision to extend a suspension or expel a student, is made and the particulars to be set out in each notice:
   (e) specifying time limits within which specified things are to be done and the reports that are to be produced and the persons who are to produce them:
   (f) providing reasonable measures (which must not be inconsistent with the Privacy Act 2020) to protect the privacy of individuals:
@@ -1518,6 +1465,7 @@ Sections 80 to 89 (and any rules made under section 89) apply only in relation t
     (ii) been registered as a teacher:
   (d) a person whose limited authority to teach is suspended under section 498 or 500(1)﻿(d).
 (2) An employer may not permanently appoint a person to any teaching position if the person does not hold a practising certificate.
+(3) Despite subsection (2), an employer who is a sponsor may permanently appoint to a teaching position a person who holds a limited authority to teach.
 
 ### 93 Restrictions on continued employment of teachers
 (1) An employer may not continue to employ the following persons in a teaching position:
@@ -1563,8 +1511,8 @@ The registration of teachers, the issue of practising certificates, and the gran
 
 ### 98 Prohibition on corporal punishment and seclusion in registered schools
 The following persons must not use force, by way of correction or punishment, towards any student enrolled at or attending a registered school or seclude any student enrolled at or attending the school:
-  (a) a person who is employed or engaged by the school’s board or the managers of a private school:
-  (b) a person who is supervising or controlling a student on behalf of the school’s board or the managers of a private school.
+  (a) a person who is employed or engaged by the school’s board, the sponsor, or the managers of a private school:
+  (b) a person who is supervising or controlling a student on behalf of the school’s board, the sponsor, or the managers of a private school.
 
 ### 99 Limits on use of physical restraint at registered schools
 (1) A person holding a teaching position or an authorised staff member at a registered school must not physically restrain a student unless the conditions set out in subsection (2) are met.
@@ -1614,21 +1562,21 @@ The following persons must not use force, by way of correction or punishment, to
     (v) the disability community.
 (4) Employers, principals, persons holding a teaching position, and authorised staff members at registered schools must have regard to the guidelines.
 
-### 102 Students at State schools may be released from tuition or for outside tuition
-(1) A student enrolled at a State school may be released from a particular class or subject on religious or cultural grounds in accordance with section 50.
-(2) A student enrolled at a State school may be released from tuition of specified parts of the health curriculum related to sexuality education in accordance with section 51.
-(3) A student enrolled at a State school may be released from tuition at a State school or be allowed to leave early in accordance with section 52.
+### 102 Students at State schools or charter schools may be released from tuition or for outside tuition
+(1) A student enrolled at a State school or a charter school may be released from a particular class or subject on religious or cultural grounds in accordance with section 50.
+(2) A student enrolled at a State school or a charter school may be released from tuition of specified parts of the health curriculum related to sexuality education in accordance with section 51.
+(3) A student enrolled at a State school or a charter school may be released from tuition at a State school or be allowed to leave early in accordance with section 52.
 
-### 103 Students at State schools must receive guidance and counselling and their parents must be told about certain things
-The principal of a State school must take all reasonable steps to ensure that—
+### 103 Students at State schools or charter schools must receive guidance and counselling and their parents must be told about certain things
+The principal of a State school or the person responsible for teaching and learning at a charter school must take all reasonable steps to ensure that—
   (a) students get good guidance and counselling; and
   (b) students in year 7 and above are provided with appropriate career education and guidance that is designed to prepare them to join the workforce or undertake further education or training when they leave school; and
-  (c) a parent of the student is told of matters that, in the principal's opinion,—
+  (c) a parent of the student is told of matters that, in the opinion of the principal or person responsible for teaching and learning at a charter school (as the case may be),—
     (i) are preventing or slowing the student's progress through the school; or
     (ii) are harming the student's relationships with teachers or other students.
 
 ### 104 Required Police vetting
-The board of a State school and the managers of a private school must obtain Police vets of non-teaching and unregistered employees and contractors in accordance with the requirements of Schedule 4.
+The board of a State school, the sponsor, and the managers of a private school must obtain Police vets of non-teaching and unregistered employees and contractors in accordance with the requirements of Schedule 4.
 
 ### Subpart 4 — Searches and surrender of property
 
@@ -2667,6 +2615,408 @@ This subpart concerns—
 ### 212 Application to negotiate integration
 The proprietor of a private school, and any person who proposes to establish a school with the intention that it become a State integrated school, may apply to the Minister to enter into negotiations for integration under Schedule 6.
 
+### Subpart 6A — Charter schools/kura hourua
+
+**Authorisation Board**
+
+### 212A Authorisation Board established
+(1) This section establishes the Charter Schools Authorisation Board.
+(2) The Authorisation Board is a body corporate with perpetual succession and is capable of—
+  (a) holding real and personal property; and
+  (b) suing and being sued; and
+  (c) otherwise doing and suffering all that bodies corporate may do and suffer.
+
+### 212B Membership of Authorisation Board
+(1) The Authorisation Board consists of at least 5, but not more than 9, members appointed by the Minister by notice in the Gazette.
+(2) In appointing members, the Minister must have regard to the knowledge, skills, and experience necessary to carry out the Authorisation Board’s functions, including in the following areas:
+  (a) education:
+  (b) governance:
+  (c) leadership:
+  (d) financial management:
+  (e) audit and performance management:
+  (f) legal and property management:
+  (g) procurement and contracting:
+  (h) engagement with Māori, Pacific people, and other stakeholders.
+
+### 212C Functions and powers of Authorisation Board
+(1) The functions of the Authorisation Board are to—
+  (a) decide on applications by proposed sponsors to operate charter schools:
+  (b) oversee the performance of charter schools:
+  (c) provide advice to the Minister on the operation of the charter school model:
+  (d) provide any other advice or oversight that the Minister requests in writing:
+  (e) decide whether to apply an intervention referred to in section 212ZF to a sponsor:
+  (f) perform any other functions conferred on it by this Act or any other legislation.
+(2) The Authorisation Board may exercise its powers only for the purpose of performing its functions.
+(3) Schedule 6A sets out further provisions relating to the Authorisation Board.
+
+### 212D Application of Public Service Act 2020 to Authorisation Board
+Sections 12 and 17 to 20 of the Public Service Act 2020 apply, with any necessary modifications, to the Authorisation Board as if it were a Crown agent.
+
+### 212E Application of Crown Entities Act 2004 to Authorisation Board
+The provisions of the Crown Entities Act 2004 set out in Schedule 6B apply, with any necessary modifications, to the Authorisation Board as if it were a Crown agent.
+
+**Application to operate charter school**
+
+### 212F Application for approval to operate charter schools
+(1) The following may apply to the Authorisation Board for approval to operate a charter school:
+  (a) a body corporate, corporation sole, limited partnership, institution, or related entity (a proposed sponsor); or
+  (b) in the case of a converting school,—
+    (i) the school’s board with the support of the proposed sponsor; or
+    (ii) 1 or more members of the school community with the support of the proposed sponsor.
+(2) The application must—
+  (a) be in the approved form (if any); and
+  (b) be accompanied by—
+    (i) evidence or information specified in the approved form; and
+    (ii) the prescribed fee (if any).
+(3) The Authorisation Board may require the applicant to provide further information to support the application.
+(4) The chief executive of the Agency may approve forms for the purposes of this section.
+
+### 212G Minister may direct board to apply to convert State school to charter school
+(1) The Minister may, in the Minister’s absolute discretion and after considering whether it is appropriate in all the circumstances, direct the board of a State school to make an application to the Authorisation Board to convert the State school to a charter school.
+(2) Before issuing a direction under subsection (1), the Minister must first seek the views of the Authorisation Board about whether the State school would be appropriate to convert to a charter school.
+(3) A direction issued by the Minister must specify the proposed sponsor of the charter school.
+(4) The board must make an application to the Authorisation Board with the support of the proposed sponsor named in the direction as soon as practicable after receiving the direction.
+(5) Sections 212F, 212I, 212J, and 212K apply, with any necessary modifications, to an application made under this section.
+
+### 212H Restriction on applications and directions
+(1) A specialist school may not apply under section 212F for approval to operate a charter school.
+(2) The Minister may not issue a direction under section 212G to the board of any of the following State schools:
+  (a) a specialist school:
+  (b) a State integrated school:
+  (c) a distance school:
+  (d) a Kura Kaupapa Māori:
+  (e) a designated character school.
+
+**Approval of sponsor**
+
+### 212I Authorisation Board may approve sponsor
+General criteria
+(1) The Authorisation Board may approve a sponsor to operate a charter school if satisfied that the proposed sponsor and every governing member of the proposed sponsor are fit and proper persons (after considering the criteria set out in section 212J).
+(2) When deciding whether to approve a proposed sponsor, the Authorisation Board must take into account the following matters:
+  (a) the focus of the proposed charter school:
+  (b) the capability of the proposed sponsor, including—
+    (i) its experience and knowledge of the New Zealand schooling system; and
+    (ii) its financial and governance capability:
+  (c) the standard of tuition to be provided by the proposed charter school, including—
+    (i) the mode of curriculum delivery; and
+    (ii) the regularity of instruction:
+  (d) the financial implications for the Crown if the proposed charter school is established:
+  (e) whether the purpose in section 32(e) would be achieved if the proposed charter school is established:
+  (f) the level of support for the proposed charter school from the community in which it is proposed to be established:
+  (g) any other matters that the Authorisation Board considers relevant.
+(3) The Authorisation Board must seek the views of the Secretary and the Chief Review Officer on the matters set out in subsections (1) and (2).
+Additional criteria for converting schools
+(4) In the case of a converting school, the Authorisation Board must also take into account the following matters:
+  (a) the performance of the State school:
+  (b) the level of support from the school community, school staff, and students for the proposed sponsor:
+  (c) the level of support from the school community, school staff, and students for the proposed conversion of the school to a charter school.
+(5) For the purpose of ascertaining the matters in subsection (4), the Authorisation Board—
+  (a) must consult the school board, school community, school staff, and students; and
+  (b) may consult any other person it thinks fit.
+
+### 212J Criteria for assessing whether proposed sponsor and governing members are fit and proper persons
+Assessment of proposed sponsor
+(1) In assessing whether a proposed sponsor is a fit and proper person to operate a charter school, the Authorisation Board must take into account the following matters:
+  (a) whether the proposed sponsor has been convicted of any offence involving fraud or any crime involving dishonesty:
+  (b) whether the proposed sponsor owes or has owed money to the Crown, including in respect of bodies the proposed sponsor has been involved in managing:
+  (c) whether an intervention has been applied in relation to another charter school which the proposed sponsor is or was operating:
+  (d) whether the proposed sponsor committed a serious or repeated breach of the sponsor’s statutory duties in relation to another charter school:
+  (e) any other matters that the Authorisation Board considers relevant.
+Assessment of governing members
+(2) In assessing whether a governing member of a proposed sponsor is a fit and proper person to operate a charter school, the Authorisation Board must take into account the following matters:
+  (a) whether the person has been convicted of serious criminal activity (as defined in section 10(1)):
+  (b) whether the person has been—
+    (i) adjudicated bankrupt under the Insolvency Act 2006:
+    (ii) prohibited from being a director or promoter of, or being concerned or taking part in the management of,—
+      (A) a company under the Companies Act 1993; or
+      (B) any other body corporate:
+  (c) whether an intervention has been applied in relation to another charter school of which the person is or was a governing member of the sponsor:
+  (d) whether the person committed a serious or repeated breach of the person’s statutory duties as a governing member of the sponsor:
+  (e) any other matters that the Authorisation Board considers relevant.
+(3) For the purposes of subsection (2), if the proposed sponsor is—
+  (a) a company, the assessment applies to its directors:
+  (b) an incorporated society or an incorporated trust board, the assessment applies to its governing members:
+  (c) another body corporate, corporation sole, institution, or its related entity, the assessment applies to its governing members:
+  (d) a limited partnership, the assessment applies to its partners as defined in the Limited Partnerships Act 2008.
+
+### 212K Conditions on approval
+(1) If the school to which an approval relates is a converting school, the following conditions apply to the approval:
+  (a) all students currently enrolled at the State school who wish to attend the charter school must be allowed to do so:
+  (b) if the State school is a designated character school, a Kura Kaupapa Māori, or a State integrated school, the character of the school must be maintained:
+  (c) if the State school is an ordinary State school, it must not provide education with a special character or that is different from the character of ordinary State schools.
+(2) When granting an approval of a sponsor, the Authorisation Board may impose any other conditions on the approval as it thinks fit, including conditions relating to the maximum number of international students that may be enrolled at the charter school.
+(3) The Authorisation Board may—
+  (a) impose new conditions on the approval; or
+  (b) amend or revoke any existing conditions.
+(4) However, the Authorisation Board may not amend or remove the conditions specified in subsection (1).
+
+**Charter school contracts**
+
+### 212L Charter school contracts
+(1) The Agency may, in the name and on behalf of the Crown, enter into a contract with a sponsor that allows the sponsor to operate a charter school.
+(2) If the Agency is unable to conclude a contract with the sponsor within a reasonable time, it must refer the matter back to the Authorisation Board for further consideration.
+(3) When negotiating a charter school contract, the Agency must have regard to the available budget for charter schools.
+(4) The charter school contract must be for a fixed term.
+(5) The charter school contract must set out, or provide for, the following matters:
+  (a) the physical capacity of the school premises:
+  (b) the conditions that apply to the approval of the sponsor under section 212K:
+  (c) whether the sponsor intends to operate the charter school for profit or not-for-profit:
+  (d) the performance targets and outcomes that the sponsor must meet in relation to the operation of the school:
+  (e) the specific measures to be used to determine if the performance targets and outcomes referred to in paragraph (d) have been met or achieved:
+  (f) the time period to which annual financial statements referred to in section 212S must relate:
+  (g) an annual self-audit report to be provided by the sponsor to the chief executive of the Agency by a specified date that includes—
+    (i) a report on the performance targets and outcomes of the sponsor under the contract:
+    (ii) a report on the sponsor’s compliance with contractual and legislative obligations in relation to the charter school:
+    (iii) the annual financial statements referred to in section 212S:
+  (h) the number or percentage of teaching positions at the charter school that—
+    (i) must be filled by persons holding a practising certificate; and
+    (ii) may be filled by persons holding a limited authority to teach:
+  (i) the curriculum to be taught at the charter school and its mode of delivery:
+  (j) the qualifications to be offered by the charter school (if it is a secondary or composite school):
+  (k) the renewal and termination of the contract:
+  (l) the obligations of the sponsor to comply with any instructions issued by the Agency if the contract expires or is terminated to ensure the orderly and efficient transfer of the operation of the school:
+  (m) the charter school to have a complaints policy, including a procedure for the independent review of complaints:
+  (n) the grounds for the Authorisation Board to apply an intervention under section 212ZF(1)﻿(a), (b), or (c):
+  (o) the process that the Authorisation Board must follow in applying an intervention under section 212ZF:
+  (p) in the case of a converting school, the conversion date for the school.
+Additional requirements for charter schools that offer or provide distance learning
+(6) The charter school contract for a charter school that offers or provides distance learning must also set out, or provide for, the following matters:
+  (a) how student engagement and attendance will be measured and ensured:
+  (b) pastoral care, including the online safety of students and adequate supervision arrangements for students aged under 16 years.
+(7) The charter school contract may contain other provisions as agreed between the Agency and the sponsor that are not inconsistent with this Act, any other legislation, or the general law of New Zealand.
+
+**Notification of charter school**
+
+### 212M Notification of charter school
+(1) The Minister must, by notice in the Gazette, notify the establishment of a charter school as soon as practicable after the date on which the Agency and the sponsor enter into a charter school contract for the school.
+(2) A notice under subsection (1) must specify—
+  (a) the name and location of the charter school to which the contract relates; and
+  (b) the name of the sponsor; and
+  (c) whether the charter school is to be a primary, secondary, or composite school; and
+  (d) if the charter school will offer or provide distance learning and, if so, whether the school’s main mode of curriculum delivery will be distance learning; and
+  (e) the year levels for which education may be given at the school; and
+  (f) any religious, philosophical, or other distinguishing characteristics of the school; and
+  (g) whether all or any (and if so, which) year levels are to be single-sex.
+(3) A notice under subsection (1) may provide for different year levels to be phased in over a specified period.
+
+### 212N Prohibition on operating charter school without approval
+(1) A person that has not been approved as a sponsor under section 212I may not operate, or purport to operate, a charter school.
+(2) A sponsor may not operate a charter school unless the sponsor has entered into a charter school contract with the Agency to operate the school.
+
+**Duties and powers of sponsors**
+
+### 212O Duties of sponsors
+A sponsor must—
+  (a) govern the school so as to ensure that every student is able to attain the highest possible standard of educational achievement; and
+  (b) ensure that every governing member of the sponsor remains a fit and proper person to operate the school; and
+  (c) ensure that a safe physical and emotional environment is provided for students and staff; and
+  (d) appoint—
+    (i) a chief executive to be responsible for the day-to-day management of the school:
+    (ii) a person to be the person responsible overall for teaching and learning at the school who is appropriately qualified and holds a current practising certificate; and
+  (e) ensure that teachers employed in the school have the necessary qualifications and skills to teach; and
+  (f) ensure that the school’s chief executive and staff develop and deliver a curriculum for teaching, learning, and assessment—
+    (i) having regard to any statement of national education and learning priorities; and
+    (ii) that meets tuition standards at least equivalent to those at State schools of the same year levels; and
+  (g) in operating the school, have regard to any statement of national education and learning priorities; and
+  (h) ensure that students have access to a nationally and internationally recognised qualification system; and
+  (i) inform parents of the progress of their children at school, and any barriers to progress, at intervals specified in the charter school contract; and
+  (j) make details of the curriculum and its mode of delivery available to parents; and
+  (k) have policies relating to the following matters:
+    (i) internal disputes management:
+    (ii) engagement with the school community; and
+  (l) ensure that any complaints against the school are responded to promptly.
+
+### 212P Sponsor to control management of charter school
+(1) A sponsor has complete discretion to control the management of the school as the sponsor thinks fit.
+(2) A sponsor may make any bylaws that the sponsor thinks necessary or desirable for the control and management of the school.
+(3) Subsections (1) and (2) are subject to this Act, any other legislation, the general law of New Zealand, and the charter school contract.
+(4) Before making a bylaw, the sponsor must consult its staff, its students (to the extent that the sponsor considers appropriate), and the school community regarding the proposed bylaw.
+
+### 212Q Sponsor’s power to delegate
+(1) A sponsor may, either generally or specifically, delegate any of its functions, duties, or powers under this Act to any person.
+(2) A delegation—
+  (a) must be in writing; and
+  (b) may be revoked at will in writing; and
+  (c) may be subject to instructions or conditions.
+(3) Despite subsection (1), a sponsor must not delegate—
+  (a) the general power of delegation:
+  (b) its power to make bylaws set out in section 212P:
+  (c) its functions, duties, or powers relating to the standing-down, suspension, exclusion, or expulsion of students set out in rules made under this Act.
+(4) The person to whom any functions, duties, or powers are delegated under this section may perform those functions or exercise those powers in the same manner and with the same effect as if they had been conferred on that person directly by this Act (subject to any general or special instructions given or conditions imposed by the sponsor).
+(5) A person purporting to act under a delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of that delegation.
+Subdelegation
+(6) If the sponsor has delegated any functions, duties, or powers to a person, that person may, with the written approval of the sponsor, subdelegate those functions, duties, or powers to another person.
+(7) Subsection (2) applies to a subdelegation under subsection (6).
+
+### 212R Charter schools situated on land owned by, or leased to, the Crown
+(1) The operation of a charter school on land owned by, or leased to, the Crown, and the occupation by a charter school of any building on that land, may be governed by—
+  (a) a lease, tenancy, or licence between the Crown and the sponsor; or
+  (b) a lease between a third party (to whom a lease has been granted by the Crown) and the sponsor.
+(2) In this section, lease includes a sublease.
+
+### 212S Annual financial statements
+(1) A sponsor must ensure the preparation of annual financial statements relating to the charter school for a year ending on a date specified in the charter school contract.
+(2) The financial statements must be audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
+
+### 212T Charter school may participate in school risk management scheme
+(1) A sponsor may, with the consent of the Secretary, participate in a school risk management scheme established under section 576.
+(2) Sections 576 and 577, any regulations made under section 642, and any legal instrument by which a school risk management scheme is established apply to a sponsor that participates in the scheme as if it were a participating school board.
+
+**Enrolment, conditions of enrolment, and instruction of students**
+
+### 212U Enrolment in charter schools
+(1) A charter school must enrol all domestic students entitled to free enrolment and free education under section 33 who apply to the school (up to the physical capacity of the school premises as stated in the charter school contract).
+(2) However, a charter school may refuse to enrol a student if a parent, or other person who has accepted responsibility for the education of the student, refuses to accept that the school operates in accordance with any religious, philosophical, or other distinguishing characteristics approved by the Authorisation Board and notified in the Gazette under section 212M(2)﻿(f).
+(3) Subsections (4) and (5) apply if a charter school receives more applications than there are places at the school.
+(4) If the charter school was previously a State school that had an enrolment scheme in place before its conversion to a charter school, the order of priority is as follows:
+  (a) first priority must be given to any applicant who lives in the area of the converting school’s previous home zone:
+  (b) second priority must be given to any student accepted for enrolment in a special programme run by the school, if applicable:
+  (c) third priority must be given to any applicant who is the sibling of a current student of the school:
+  (d) fourth priority must be given to any applicant who is the sibling of a former student of the school:
+  (e) fifth priority must be given to any applicant who is a child of a former student of the school:
+  (f) sixth priority must be given to any applicant who is a child of an employee of the sponsor or a child of a member of the sponsor:
+  (g) seventh priority must be given to all other applicants.
+(5) For all other charter schools, the order of priority is as follows:
+  (a) first priority must be given to any applicant who is the sibling of a current student of the school:
+  (b) second priority must be given to any applicant who is the sibling of a former student of the school:
+  (c) third priority must be given to all other applicants.
+(6) For the purposes of subsections (4) and (5),—
+  (a) if there are more applicants within a priority group than there are places available, applicants must be selected by ballot; and
+  (b) if 2 or more siblings apply at the same time, their applications must be treated as a single application for the purpose of the ballot.
+(7) In this section, sibling has the same meaning as in section 75(3).
+
+### 212V Students at charter school may be given tuition by State school or another charter school
+(1) Students enrolled at a charter school may, by agreement between the sponsor of a charter school and the board of a State school, receive tuition at or from a State school.
+(2) Students enrolled at a charter school may, by agreement between the sponsors concerned, receive tuition at or from another charter school.
+(3) The sponsor of a charter school at which the students are enrolled may pay the board of the State school or the sponsor of the other charter school giving the tuition.
+(4) Tuition provided under this section may be delivered through any medium, including digital technology.
+
+### 212W Property maintenance fee
+(1) This section applies if an integration agreement that was in force immediately before a State integrated school became a charter school allowed the proprietor to charge attendance dues.
+(2) The sponsor may, if the charter school contract for the school provides, require a parent or other person who has accepted the responsibility for the education of a student at the charter school to pay a property maintenance fee as a condition of the student’s enrolment at the school.
+(3) The fee must be paid at the rate, and subject to any conditions, specified in the charter school contract.
+(4) Revenue that the sponsor receives from the property maintenance fee must be used solely for the following:
+  (a) paying for improvements to the charter school’s buildings and associated facilities as specified or provided for in the charter school contract:
+  (b) any capital works as specified or provided for in the charter school contract:
+  (c) meeting debts, mortgages, liens, or other charges associated with the land and the buildings that constitute the premises of the charter school.
+(5) No revenue that the sponsor receives from property maintenance fees may be used to provide or improve the charter school’s buildings and associated facilities to a standard higher than that appropriate for a comparable State school.
+
+### 212X Failure to pay property maintenance fee
+(1) If a parent, or other person who has accepted the responsibility for the education of a student at a charter school, has entered into an agreement to pay a property maintenance fee and fails to make a payment, the payment is recoverable from the parent or other person in any court of competent jurisdiction as a debt due to the sponsor.
+(2) In addition, any failure to make payment constitutes grounds for the sponsor of the charter school to suspend the student’s attendance at that school and to remove the student’s name from the school register.
+(3) However, no student may be suspended and have the student’s name removed from the school register until arrangements have been made to the satisfaction of the Secretary for the student to be enrolled at another registered school.
+
+### 212Y Accounts for property maintenance fees
+(1) A sponsor who is permitted to charge property maintenance fees must keep accounts in a manner approved by the chief executive of the Agency, showing—
+  (a) the total amount of fees received; and
+  (b) how the fees have been spent.
+(2) The accounts must be—
+  (a) balanced at a date each year approved by the chief executive; and
+  (b) audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
+(3) The sponsor must send a copy of the accounts, together with the auditor’s report on them, to the chief executive by a date to be approved by the chief executive.
+
+### 212Z Religious instruction and observances
+(1) A charter school may provide religious instruction and observances only if permitted under its charter school contract.
+(2) If religious instruction and observances form part of the education with a special character provided by a charter school, these may continue to form part of the general school programme in accordance with the terms and conditions set out in the charter school contract relating to that school.
+(3) If religious instruction and observances form part of the education with a special character provided by a charter school, that school—
+  (a) must be responsive to the sensitivities of students and parents of different religious or philosophical affiliations; and
+  (b) may not require a student of a different religious or philosophical affiliation to participate in religious observances and religious instruction concerned with particular observances if a parent of the student states that they do not wish that student to participate.
+
+**Multiple timetable arrangements**
+
+### 212ZA Multiple timetable arrangements at charter schools
+(1) A sponsor may run a multiple timetable arrangement at a charter school for a specified period if the sponsor is satisfied that the arrangement is appropriate in the circumstances.
+(2) A sponsor must take all reasonable steps to notify every affected student and the student’s parents in writing of—
+  (a) the multiple timetable arrangement; and
+  (b) the time periods for each day during which the affected student’s timetable will run.
+
+**Employment and appointment of teachers**
+
+### 212ZB Religious instruction: appointments to special positions relating to character of charter school
+If religious instruction forms part of the special character of a charter school, advertisements for the position of the chief executive and the person responsible for teaching and learning at the school may state that a willingness and an ability to take part in religious instruction appropriate to that school are conditions of appointment.
+
+### 212ZC Effect of religious instruction requirements in advertisements
+If, in accordance with section 212ZB, an advertisement for a position states a requirement that a willingness and an ability to take part in religious instruction are conditions of appointment, any person appointed to that position must accept that requirement as a condition of appointment.
+
+### 212ZD Restrictions on requirement for teacher to take part in religious instruction
+(1) The appointment of a teacher to a position in a charter school may not be conditional on the willingness and ability of that teacher to take part in religious instruction, and no appointed teacher may be required to take part.
+(2) Subsection (1) is subject to section 212ZB.
+
+**Multi-employer collective agreements**
+
+### 212ZE Restriction on initiating bargaining for multi-employer collective agreement involving sponsor
+(1) This section applies to a union whose members include employees of a sponsor.
+(2) The union may not initiate bargaining under the Employment Relations Act 2000 for a multi-employer collective agreement (as defined in section 33(5) of that Act) with—
+  (a) 2 or more sponsors; or
+  (b) 1 or more sponsors and any 1 or more other employers.
+
+**Interventions**
+
+### 212ZF Interventions in charter schools by Authorisation Board
+Types of interventions
+(1) The Authorisation Board may apply 1 or more of the following interventions in relation to a sponsor:
+  (a) require the Chief Review Officer to review the governance and management of the charter school by the sponsor:
+  (b) require a sponsor to provide the Authorisation Board (or any other person authorised by the Authorisation Board) with the following at a given time, at specified intervals, or both:
+    (i) specified information:
+    (ii) an analysis of the specified information to be provided:
+  (c) require a sponsor to do the following at a given time, at specified intervals, or both:
+    (i) carry out a specified action:
+    (ii) provide the chief executive of the Agency with a report (for example, a progress report and a final report) on the action taken:
+  (d) terminate the charter school contract with a sponsor:
+  (e) terminate the charter school contract with a sponsor and replace the sponsor with another sponsor.
+Grounds for intervention
+(2) The Authorisation Board may apply an intervention described in subsection (1)﻿(a), (b), or (c) if permitted under the relevant charter school contract.
+(3) The Authorisation Board may apply an intervention described in subsection (1)﻿(d) or (e) only if it considers that a less serious intervention is not sufficient to deal with the matter, and either of the following circumstances applies:
+  (a) the Authorisation Board has reasonable grounds to believe that the sponsor—
+    (i) has failed to comply with any of its contractual or legislative obligations in respect of the charter school; and
+    (ii) has not remedied the failure within a reasonable time or the failure cannot be remedied:
+  (b) the Authorisation Board has reasonable grounds to believe that—
+    (i) a significant risk exists that the sponsor will fail to comply with any of its contractual or legislative obligations in respect of the charter school; and
+    (ii) the sponsor is unlikely to mitigate that risk within a reasonable time.
+General process for applying interventions
+(4) The Authorisation Board must ensure that any interventions in subsection (1) are applied in accordance with relevant provisions of the charter school contract.
+Process for applying specified interventions
+(5) The Authorisation Board’s written notice to the sponsor terminating the charter school contract must contain the following information:
+  (a) details of the contractual or legislative obligation the sponsor has failed to comply with; and
+  (b) the grounds for the Authorisation Board’s belief that the sponsor is at risk of failing to comply with specified contractual or legislative obligations; and
+  (c) whether the sponsor will be replaced by another sponsor; and if so, the reasons for the replacement.
+(6) If the Authorisation Board proposes to replace a sponsor, it—
+  (a) must consult the sponsor, school community, school staff, and students; and
+  (b) may consult any other person it thinks fit.
+
+### 212ZG Obligations of sponsor subject to intervention
+(1) A sponsor subject to an intervention under section 212ZF must give the Authorisation Board or any person acting on its behalf—
+  (a) reasonable access to the school on request; and
+  (b) any reasonable assistance on request.
+(2) If a sponsor is required to provide information under section 212ZF(1)﻿(b), it must do so—
+  (a) within the time, or at the intervals, or both, specified by the Authorisation Board; and
+  (b) in the form (if any) required by the Authorisation Board.
+(3) If a sponsor is required to carry out a specified action or provide a report to the Authorisation Board under section 212ZF(1)﻿(c), it must do so—
+  (a) within the time, or at the intervals, or both, specified by the Authorisation Board; and
+  (b) in the form (if any) required by the Authorisation Board.
+
+### 212ZH Process relating to replacement of sponsor
+(1) The Authorisation Board may, without receiving an application under section 212F, approve—
+  (a) a replacement sponsor to operate the charter school; or
+  (b) a temporary sponsor to operate the charter school before replacing the sponsor under subsection (1)﻿(a).
+(2) A replacement sponsor or temporary replacement sponsor must be a body corporate, corporation sole, limited partnership, institution, or related entity.
+(3) Sections 212I, 212J, and 212K apply, with any necessary modifications, to the approval of a replacement sponsor or temporary replacement sponsor under this section.
+(4) Section 212L applies, with any necessary modifications, to a replacement sponsor or temporary replacement sponsor.
+
+**Application of other legislation to charter schools**
+
+### 212ZI Application of New Zealand Bill of Rights Act 1990
+Section 3(b) of the New Zealand Bill of Rights Act 1990 applies to the following persons when performing functions under this Act or in relation to a charter school contract:
+  (a) a sponsor:
+  (b) a person employed or engaged to work in the school by a sponsor.
+
+### 212ZJ Application of Official Information Act 1982 to sponsor
+(1) The Official Information Act 1982 does not apply to a sponsor if the sponsor is performing or exercising its functions, duties, or powers under this Act or the relevant charter school contract.
+(2) However, if the sponsor is an institution, the Official Information Act 1982 applies unless the institution is performing its functions as a sponsor under this Act or a charter school contract.
+
+### 212ZK Application of Public Service Act 2020 to sponsor that is institution
+The Public Service Act 2020 does not apply to an institution that is a sponsor if the institution is performing or exercising its functions, duties, or powers as a sponsor under this Act or the relevant charter school contract.
+
 ### Subpart 7 — Private schools
 
 ### 213 Secretary may require application for registration of school
@@ -2849,15 +3199,28 @@ A member of a dispute resolution panel and any mediator appointed by the panel i
 ### Subpart 10 — Miscellaneous provisions
 
 ### 237 Enrolment records
-(1) The principal of a registered school must ensure that an enrolment record in the form and containing the information that may be specified in rules made under subsection (3) is kept for each student who is enrolled at the school.
-(2) When a student moves from one registered school to another registered school, the principal of the first school must take reasonable steps to send the student’s enrolment record to the principal of the second school.
+(1) The following persons must ensure that an enrolment record in the form and containing the information that may be specified in rules made under subsection (3) is kept for each student who is enrolled at the school:
+  (a) the principal of a State school:
+  (b) the person responsible for teaching and learning in a charter school:
+  (c) a manager of a private school.
+(2) When a student moves from one registered school to another registered school, the principal, or person responsible for teaching and learning, or manager of the first school must take reasonable steps to send the student’s enrolment record to the principal, or person responsible for teaching and learning, or manager of the second school.
 (3) The Secretary may make rules setting out administrative and procedural requirements relating to enrolment records, including (without limitation) rules—
-  (a) setting out the duties of principals concerning enrolment records and the information contained in enrolment records:
-  (b) requiring principals to inform students and parents about enrolment records and the use and distribution of enrolment records, and specifying the particulars about which students and parents are to be informed:
+  (a) setting out the duties of principals, persons responsible for teaching and learning, and managers concerning enrolment records and the information contained in enrolment records:
+  (b) requiring principals, persons responsible for teaching and learning, and managers to inform students and parents about enrolment records and the use and distribution of enrolment records, and specifying the particulars about which students and parents are to be informed:
   (c) specifying the form and content of enrolment records:
   (d) specifying exceptions to particular requirements of the rules.
-(4) A principal of a registered school must comply with rules made under subsection (3).
+(4) The persons referred to in subsection (1) must comply with rules made under subsection (3).
 (5) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 237A Attendance records
+(1) The principal of a State school must ensure that an attendance record is kept for each student who is enrolled at the school.
+(2) The attendance record must be in the form and contain the information specified in rules made under subsection (3).
+(3) The Secretary may make rules setting out administrative and procedural requirements relating to attendance records, including (without limitation) rules—
+  (a) specifying the form and content of attendance records:
+  (b) relating to the collection, storage, and disclosure of information contained in attendance records:
+  (c) specifying the circumstances in which any exceptions to any general requirements for specific school types may be made.
+(4) A principal of a State school must comply with rules made under subsection (3).
+(5) Rules made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 238 Building Act 2004
 (1) A person inspecting sitework or a building under this Act must provide written notice of any non-compliance with the Building Act 2004 to the relevant territorial authority.
@@ -2912,8 +3275,8 @@ In proceedings under section 243 or 244, the burden of proving any of the follow
   (b) the student’s attendance at a school:
   (c) the student’s exemption from enrolment or attendance at a school.
 
-### 248 Fines to be paid to board
-A fine recovered under section 243 or 244 must be paid to the board on whose behalf the proceedings concerned were commenced.
+### 248 Fines to be paid to board or sponsor
+A fine recovered under section 243 or 244 must be paid to the board or sponsor on whose behalf the proceedings concerned were commenced.
 
 ### 249 Offences relating to operation of private schools
 (1) A manager of a private entity that is not registered as a private school under section 214 commits an offence if the entity operates as a school.
@@ -6008,6 +6371,7 @@ The Teaching Council may establish advisory committees for specific aspects of i
   (a) for an oral complaint, a description of the aspects of the teacher’s conduct or competence complained of; and
   (b) for a written complaint, a copy of the complaint; and
   (c) a report of what action (if any) the employer took with respect to the matters complained of.
+(3) This section does not apply to a complaint received by a sponsor in relation to the competence of a former employee who held a limited authority to teach.
 
 ### 491 Mandatory reporting of possible serious misconduct
 (1) The employer of a teacher must immediately report to the Teaching Council if it has reason to believe that the teacher has engaged in serious misconduct.
@@ -6020,6 +6384,7 @@ The Teaching Council may establish advisory committees for specific aspects of i
 (2) A report must be in writing and include—
   (a) a description of the competence issues leading to the report; and
   (b) a description of the action that the employer has taken in relation to it.
+(3) This section does not apply to a sponsor in relation to an employee who holds a limited authority to teach.
 
 ### 493 Mandatory reporting of convictions
 (1) Every holder of a practising certificate, and every authorised person, who is convicted of an offence punishable by imprisonment for 3 months or more must, within 7 days of conviction, report the conviction to the Teaching Council.
@@ -6068,6 +6433,7 @@ The Teaching Council may establish advisory committees for specific aspects of i
   (c) refer the teacher concerned to an impairment process, which may involve either or both of the following:
     (i) assessment of an impairment:
     (ii) assistance with an impairment.
+(2A) Subsection (2)﻿(b) does not apply to an employee in a charter school who holds a limited authority to teach.
 (3) If the Complaints Assessment Committee makes a finding of misconduct or serious misconduct, with the agreement of the teacher concerned, it may do 1 or more of the following:
   (a) censure the teacher:
   (b) impose conditions on the teacher’s practising certificate or authority, including (without limitation) requiring the teacher to undergo supervision or professional development:
@@ -6128,6 +6494,7 @@ The Teaching Council may establish advisory committees for specific aspects of i
   (h) require any party to the hearing to pay costs to any other party:
   (i) require any party to pay a sum to the Teaching Council in respect of the costs of conducting the hearing:
   (j) direct the Teaching Council to impose conditions on any subsequent practising certificate issued to the teacher.
+(1A) Despite subsection (1)﻿(a), the Disciplinary Tribunal may not refer an employee in a charter school who holds a limited authority to teach to a competency review.
 (2) Despite subsection (1), following a hearing that arises out of a report under section 493 of the conviction of a teacher, the Disciplinary Tribunal may not do anything specified in subsection (1)﻿(f), (h), or (i).
 (3) A fine imposed on a teacher under subsection (1)﻿(f), and a sum ordered to be paid to the Teaching Council under subsection (1)﻿(i), are recoverable as debts due to the Teaching Council.
 
@@ -6166,6 +6533,9 @@ The Teaching Council may establish advisory committees for specific aspects of i
 (2) The Complaints Assessment Committee may, with the leave of the Teaching Council, appeal to the District Court against a decision of the chairperson or the Disciplinary Tribunal made under section 498(2) or 500.
 (3) An appeal under this section must be made within 28 days after receipt of written notice of the decision, or any longer period that the court allows.
 (4) Clause 5(2) to (6) of Schedule 3 applies to an appeal under this section as if it were an appeal under clause 5(1) of Schedule 3.
+
+### 504A Application of competence provisions to holders of limited authority to teach in charter schools
+Sections 506 to 509 do not apply to an employee in a charter school who holds a limited authority to teach.
 
 **Review of competence**
 
@@ -6299,65 +6669,68 @@ The purpose of this subpart is to ensure that international students trust New Z
 **International students at schools**
 
 ### 519 Enrolment of international students
-(1) Subject to section 520(3), an international student may not be enrolled at a State school without the board's consent.
-(2) Subject to sections 79 and 521 and to subsections (3) to (6), once enrolled at a State school an international student has the same rights to remain enrolled, and to tuition, at the school as a domestic student.
-(3) If an international student’s conduct is in breach of the student’s contract of enrolment, the school’s board may take appropriate disciplinary action against the student.
+(1) Subject to section 520(3), an international student may not be enrolled at a State school or a charter school without the board's or sponsor’s consent.
+(2) Subject to sections 79 and 521 and to subsections (3) to (6), once enrolled at a State school or a charter school an international student has the same rights to remain enrolled, and to tuition, at the school as a domestic student.
+(3) If an international student’s conduct is in breach of the student’s contract of enrolment, the school’s board or sponsor may take appropriate disciplinary action against the student.
 (4) For the purposes of subsection (3), disciplinary action, including suspension, exclusion, or the termination of the student’s enrolment, is appropriate disciplinary action if it is taken in accordance with the applicable code issued under section 534 and the student’s contract of enrolment.
-(5) An international student may not be enrolled at a State school if the student's enrolment has the effect that a domestic student who is entitled to enrol there and has applied for enrolment is not able to be enrolled.
-(6) An international student may not be enrolled in any subject, course, or programme at a State school if the student's enrolment has the effect that a domestic student who is entitled to enrol in the subject, course, or programme and has applied for enrolment in it is not able to be enrolled in it.
-(7) Despite subsection (5) or (6), although domestic students may not be able to be enrolled, an international student may be enrolled at a State school, or in any subject, course, or programme at a State school, if the enrolment is in a vacant place—
-  (a) that the board established for international students; and
+(5) An international student may not be enrolled at a State school or a charter school if the student's enrolment has the effect that a domestic student who is entitled to enrol there and has applied for enrolment is not able to be enrolled.
+(6) An international student may not be enrolled in any subject, course, or programme at a State school or a charter school if the student's enrolment has the effect that a domestic student who is entitled to enrol in the subject, course, or programme and has applied for enrolment in it is not able to be enrolled in it.
+(7) Despite subsection (5) or (6), although domestic students may not be able to be enrolled, an international student may be enrolled at a State school or charter school, or in any subject, course, or programme at a State school or charter school, if the enrolment is in a vacant place—
+  (a) that the board or sponsor established for international students; and
   (b) the continued availability of which is dependent on the fees payable by international students enrolled in it.
-(8) As soon as practicable after an international student is enrolled at a State school, the principal must give the Secretary written notice of—
+(8) As soon as practicable after an international student is enrolled at a State school or charter school, the principal or person responsible for teaching and learning in a charter school must give the Secretary written notice of—
   (a) the student's name, age, and nationality; and
   (b) the day on which the student began (or will begin) to receive tuition at the school.
-(9) Despite anything in this section or section 521, an international student may, with the consent of the principal and during a period of not more than 28 consecutive days (or any longer period the Secretary approves for any particular student), receive tuition at or from a State school—
-  (a) without the consent of the school’s board; and
+(9) Despite anything in this section or section 521, an international student may, with the consent of the principal or person responsible for teaching and learning in a charter school and during a period of not more than 28 consecutive days (or any longer period the Secretary approves for any particular student), receive tuition at or from a State school or charter school—
+  (a) without the consent of the school’s board or the sponsor; and
   (b) without paying the amount required by section 521.
 (10) If subsection (9) applies, the student may not be counted for the purpose of calculating or ascertaining the school's entitlement to teachers or funding.
 
-### 520 Certain international students may enrol at State schools as of right
-(1) The Minister may, by notice, declare international students of a specified kind or description to be entitled to enrol at State schools.
+### 520 Certain international students may enrol at State schools or charter schools as of right
+(1) The Minister may, by notice, declare international students of a specified kind or description to be entitled to enrol at State schools or charter schools.
 (2) A notice may be unconditional or subject to any conditions specified in it.
 (3) An international student of a kind or description for the time being specified in a notice under subsection (1) has the same rights to enrolment and tuition at State schools as a domestic student, subject to section 521 and any conditions specified in the notice.
 (4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 521 Fees for international students
-(1) Subject to section 519(9), no international student may receive tuition in any subject, course, or programme at a State school unless there has been paid to the school’s board an amount fixed by the board that is not less than the sum of the following amounts:
-  (a) the board's best estimate of the cost involved (including the appropriate proportion of the board’s administrative and other general costs) in providing tuition in the subject, course, or programme for 1 student:
-  (b) an amount that is in the board's opinion an appropriate reflection of the use made of the board's capital facilities by 1 student receiving tuition in the subject, course, or programme:
-  (c) the amount (if any) prescribed under section 523 for a student receiving tuition at a State school in the subject, course, or programme:
-  (d) all other fees (if any) prescribed by the board.
-(2) Nothing in subsection (1) prevents a board from accepting any amount required by that subsection to be paid by instalments but, subject to section 525(2), no international student may continue to receive tuition in any subject, course, or programme at a State school unless the sum of the following amounts is less than the sum of the instalments paid up to that time:
-  (a) the board's best estimate of the cost involved (including the appropriate proportion of the board's administrative and other general costs and the appropriate proportion of any initial or start-up costs of the subject, course, or programme) in providing tuition in the subject, course, or programme for 1 student up to that time:
-  (b) an amount that is in the board's opinion an appropriate reflection of the use made of the board's capital facilities by 1 student receiving tuition in the subject, course, or programme:
-  (c) the appropriate proportion of the amount (if any) prescribed under section 523 for a student receiving tuition at a State school in the subject, course, or programme:
-  (d) all other fees (if any) prescribed by the board.
-(3) If an international student has received tuition in a subject, course, or programme at a State school without paying the full amount required by subsection (1) in respect of the subject, course, or programme, the board may, in any court of competent jurisdiction, recover the underpayment from the student (or a parent of the student) as a debt due to the board.
-(4) A board’s grant under section 550 may be reduced if the student's education has been subsidised by money appropriated by Parliament.
-(5) A grant may not be reduced under subsection (4) unless the Secretary has given the board concerned written notice of the circumstances taken into account when the proposed reduction was decided on.
-(6) If the board disagrees that a grant should be reduced under subsection (4), or disputes the amount by which it should be reduced, the following provisions apply:
-  (a) the board may, within 28 days of getting notice from the Secretary under subsection (5), by written notice to the Secretary giving the name and address of a proposed arbitrator, require the dispute to be settled by arbitration:
-  (b) if, within 14 days of getting the board's notice, the Secretary has agreed an arbitrator with the board, the agreed arbitrator must settle the dispute:
-  (c) if, within 14 days of getting the board's notice, the Secretary has not agreed an arbitrator with the board, an arbitrator appointed jointly by the Secretary and the arbitrator originally proposed by the board must settle the dispute:
+(1) Subject to section 519(9), no international student may receive tuition in any subject, course, or programme at a State school or a charter school unless there has been paid to the school’s board or the sponsor an amount fixed by the board that is not less than the sum of the following amounts:
+  (a) the board's or the sponsor’s best estimate of the cost involved (including the appropriate proportion of the board’s or the sponsor’s administrative and other general costs) in providing tuition in the subject, course, or programme for 1 student:
+  (b) an amount that is in the board's or the sponsor’s opinion an appropriate reflection of the use made of the board's or the sponsor’s capital facilities by 1 student receiving tuition in the subject, course, or programme:
+  (c) the amount (if any) prescribed under section 523 for a student receiving tuition at a State school or a charter school in the subject, course, or programme:
+  (d) all other fees (if any) prescribed by the board or the sponsor.
+(2) Nothing in subsection (1) prevents a board or the sponsor from accepting any amount required by that subsection to be paid by instalments but, subject to section 525(2), no international student may continue to receive tuition in any subject, course, or programme at a State school or a charter school unless the sum of the following amounts is less than the sum of the instalments paid up to that time:
+  (a) the board's or the sponsor’s best estimate of the cost involved (including the appropriate proportion of the board's or the sponsor’s administrative and other general costs and the appropriate proportion of any initial or start-up costs of the subject, course, or programme) in providing tuition in the subject, course, or programme for 1 student up to that time:
+  (b) an amount that is in the board's or the sponsor’s opinion an appropriate reflection of the use made of the board's or the sponsor’s capital facilities by 1 student receiving tuition in the subject, course, or programme:
+  (c) the appropriate proportion of the amount (if any) prescribed under section 523 for a student receiving tuition at a State school or a charter school in the subject, course, or programme:
+  (d) all other fees (if any) prescribed by the board or the sponsor.
+(3) If an international student has received tuition in a subject, course, or programme at a State school or charter school without paying the full amount required by subsection (1) in respect of the subject, course, or programme, the board or sponsor may, in any court of competent jurisdiction, recover the underpayment from the student (or a parent of the student) as a debt due to the board or sponsor.
+(4) A board’s or sponsor’s grant under section 550 may be reduced if the student's education has been subsidised by money appropriated by Parliament.
+(5) A grant may not be reduced under subsection (4) unless the Secretary has given the board or sponsor concerned written notice of the circumstances taken into account when the proposed reduction was decided on.
+(6) If the board or sponsor disagrees that a grant should be reduced under subsection (4), or disputes the amount by which it should be reduced, the following provisions apply:
+  (a) the board or sponsor may, within 28 days of getting notice from the Secretary under subsection (5), by written notice to the Secretary giving the name and address of a proposed arbitrator, require the dispute to be settled by arbitration:
+  (b) if, within 14 days of getting the board's or sponsor’s notice, the Secretary has agreed an arbitrator with the board or sponsor, the agreed arbitrator must settle the dispute:
+  (c) if, within 14 days of getting the board's or sponsor’s notice, the Secretary has not agreed an arbitrator with the board or sponsor, an arbitrator appointed jointly by the Secretary and the arbitrator originally proposed by the board or sponsor must settle the dispute:
   (d) the arbitrator's decision is final.
-(7) If an international student withdraws from a subject, course, or programme at a State school, the school’s board may refund to the person who paid (in respect of the student's enrolment in the subject, course, or programme) the amount of the fees referred to in subsection (1) (or the sum of any instalments paid in respect of those fees) any amount it thinks fit not exceeding the extent (if any) by which the amount paid exceeds the sum of the following amounts:
-  (a) the board's best estimate of the cost involved (including the appropriate proportion of the board's administrative and other general costs and the appropriate proportion of any initial or start-up costs of the subject, course, or programme) in providing tuition in the subject, course, or programme for 1 student up to that time:
-  (b) an amount that is in the board's opinion an appropriate reflection of the use made of the board's capital facilities by 1 student receiving tuition in the subject, course, or programme:
-  (c) the appropriate proportion of the amount (if any) prescribed under section 523 for a student receiving tuition at a State school in the subject, course, or programme:
-  (d) all other fees (if any) prescribed by the board.
+(7) If an international student withdraws from a subject, course, or programme at a State school or charter school, the school’s board or sponsor may refund to the person who paid (in respect of the student's enrolment in the subject, course, or programme) the amount of the fees referred to in subsection (1) (or the sum of any instalments paid in respect of those fees) any amount it thinks fit not exceeding the extent (if any) by which the amount paid exceeds the sum of the following amounts:
+  (a) the board's or sponsor’s best estimate of the cost involved (including the appropriate proportion of the board's or sponsor’s administrative and other general costs and the appropriate proportion of any initial or start-up costs of the subject, course, or programme) in providing tuition in the subject, course, or programme for 1 student up to that time:
+  (b) an amount that is in the board's or sponsor’s opinion an appropriate reflection of the use made of the board's or sponsor’s capital facilities by 1 student receiving tuition in the subject, course, or programme:
+  (c) the appropriate proportion of the amount (if any) prescribed under section 523 for a student receiving tuition at a State school or charter school in the subject, course, or programme:
+  (d) all other fees (if any) prescribed by the board or sponsor.
 
 ### 522 Exemption from paying fees
 (1) The Minister may, by notice, exempt international students of a particular kind or description from paying all or a specified proportion or amount of the amount required by section 521 to be paid.
 (2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 523 Board must reimburse the Crown for expenditure relating to international students
-(1) The Minister must, by notice, set fees to be paid by boards in respect of international students enrolled at State schools.
+### 523 Board or sponsor must reimburse the Crown for expenditure relating to international students
+(1) The Minister must, by notice, set fees to be paid by the following:
+  (a) boards in respect of international students enrolled at State schools:
+  (b) sponsors in respect of international students enrolled at charter schools.
 (2) Fees may be set for 1 or more of the following:
   (a) all State schools, State schools of a specified kind or description, or specified State schools:
+  (aa) all charter schools, charter schools of a specified kind or description, or specified charter schools:
   (b) all international students, or international students of a specified kind or description:
   (c) all subjects, courses, and programmes; subjects, courses, and programmes of a specified kind or description; or specified subjects, courses, or programmes.
-(3) Within 28 days of the first day in any year on which an international student enrolled at a State school attends the school, the board must pay to the Secretary the appropriate fee (if any) prescribed under subsection (1).
+(3) Within 28 days of the first day in any year on which an international student enrolled at a State school or charter school attends the school, the board or sponsor must pay to the Secretary the appropriate fee (if any) prescribed under subsection (1).
 (4) The Minister may pay to the proprietors of a State integrated school whose board has paid a fee under this section a portion of that fee, as determined in accordance with a formula prescribed under subsection (5), for the purpose of reimbursing the proprietors for that part of the levy associated with the use of capital assets owned by the proprietors.
 (5) The Minister may, by notice, prescribe a formula for the payment of money under subsection (4), and may prescribe different formulas to apply to different schools or classes of school.
 (6) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
@@ -6366,18 +6739,18 @@ The purpose of this subpart is to ensure that international students trust New Z
 (7) If a notice under subsection (5) is not secondary legislation, the Minister must give the notice to the proprietor or proprietors of the school or schools named in the notice.
 
 ### 524 Courses for international students
-(1) The board of a State school or the managers of a school registered under section 214 may not establish, or permit any student to enrol or continue to be enrolled in, any class, course, or programme intended exclusively or mainly for international students unless the class, course, or programme is for the time being approved by NZQA.
+(1) The board of a State school, the sponsor, or the managers of a school registered under section 214 may not establish, or permit any student to enrol or continue to be enrolled in, any class, course, or programme intended exclusively or mainly for international students unless the class, course, or programme is for the time being approved by NZQA.
 (2) NZQA may not approve a class, course, or programme under subsection (1) unless satisfied on reasonable grounds that—
   (a) the school has or will have adequate staff, equipment, and premises to provide it; and
   (b) the standard of instruction provided in it will not be lower than the standard that would be expected in any similar class, course, or programme for domestic students.
 
 ### 524A Withdrawal of approval of course for international students
-(1) If NZQA considers that there may be grounds for withdrawing approval of a class, course, or programme intended exclusively or mainly for international students, NZQA must give written notice to the board of the State school or the managers of the school registered under section 214 to whom the approval was granted—
+(1) If NZQA considers that there may be grounds for withdrawing approval of a class, course, or programme intended exclusively or mainly for international students, NZQA must give written notice to the board of the State school, the sponsor, or the managers of the school registered under section 214 to whom the approval was granted—
   (a) setting out the grounds on which NZQA is considering withdrawing approval; and
-  (b) giving the board or the managers a reasonable period to make submissions on the matter.
+  (b) giving the board, the sponsor, or the managers a reasonable period to make submissions on the matter.
 (2) After that period, and having considered any submission made by the board or the managers, NZQA may, on any reasonable grounds, withdraw approval.
-(3) If NZQA withdraws approval under subsection (2), it must give notice of the withdrawal, with reasons, to the board or the managers concerned.
-(4) NZQA may withdraw an approval at the written request of the board or the managers concerned.
+(3) If NZQA withdraws approval under subsection (2), it must give notice of the withdrawal, with reasons, to the board, the sponsor, or the managers concerned.
+(4) NZQA may withdraw an approval at the written request of the board, the sponsor, or the managers concerned.
 
 **International students at tertiary education and vocational education and training institutions**
 
@@ -6844,10 +7217,18 @@ A person who intentionally contravenes section 455(1) commits an offence and is 
   (b) if a grant has been paid to be used only for purposes specified by the Minister under subsection (5)﻿(b), the grant is used only for those purposes.
 
 ### 548A Data accessed by Ministry under Data and Statistics Act 2022
-(1) Despite section 54(1)﻿(c) of the Data and Statistics Act 2022, the Ministry may publish or otherwise disclose, at the level of an early childhood service, data relating to the socio-economic status of children attending early childhood services and their families accessed under Part 5 of that Act in a form that may identify an individual or an organisation if—
-  (a) the publication or other disclosure is for the purpose of assisting the Ministry to develop or use tools relating to the provision of funding to early childhood services under this Act; and
-  (b) the data does not include personal information, as defined in section 7(1) of the Privacy Act 2020, unless the service provider of the early childhood service, who is an individual, has consented to the publication or disclosure of information regarding the service they operate.
-(2) In subsection (1), organisation has the same meaning as in section 6 of the Data and Statistics Act 2022.
+(1) This section applies despite section 54(1)﻿(c) of the Data and Statistics Act 2022.
+(2) The Ministry may, if the criteria specified in this section are met, publish or otherwise disclose the following data accessed under Part 5 of the Data and Statistics Act 2022 in a form that may identify an individual or an organisation:Early childhood servicesCharter schools
+  (a) data relating to the socio-economic status of children attending early childhood services and their families, but only if—
+    (i) the data is published or disclosed at the level of an early childhood service; and
+    (ii) the publication or other disclosure is for the purpose of assisting the Ministry to develop or use tools relating to the provision of funding to early childhood services under this Act; and
+    (iii) the data does not include personal information, unless the service provider of the early childhood service, who is an individual, has consented to the publication or disclosure of information regarding the service they operate:
+  (b) data relating to the socio-economic status of children attending the charter school and their families, but only if—
+    (i) the data is published or disclosed at the level of a charter school; and
+    (ii) the publication or other disclosure is for the purpose of assisting the Ministry to develop or use tools relating to the provision of funding to charter schools or to enable performance measurement of charter schools under this Act.
+(3) In this section,—
+  - **organisation** has the same meaning as in section 6 of the Data and Statistics Act 2022
+  - **personal information** has the same meaning as in section 7(1) of the Privacy Act 2020.
 
 ### 549 Loans to licensed early childhood services
 The Minister may, on any terms and conditions the Minister thinks fit, lend to the service provider of any licensed early childhood service money appropriated by Parliament for the purpose.
@@ -7354,6 +7735,12 @@ The Secretary is responsible for promoting, developing, and monitoring equal emp
   (b) may, subject to any conditions of employment included in the employment agreement applying to the employee, remove any employee from that employee's employment.
 (2) Unless expressly provided to the contrary in this Act, the employer has all the rights, duties, and powers of an ordinary employer in respect of the persons employed in that place of education.
 
+### 601A Lawful instruction regarding charter school services
+(1) The board of a State school may require a person employed by the board at the school to provide services to a charter school (a recipient school) or a charter school student if that requirement would be a lawful and reasonable instruction but for the recipient school being a charter school, or the student being enrolled at a charter school.
+(2) This section overrides anything to the contrary in—
+  (a) the Employment Relations Act 2000; and
+  (b) a relevant employment agreement.
+
 ### 602 Duty to act independently
 In matters relating to decisions on individual employees (whether matters relating to the appointment, promotion, demotion, transfer, disciplining, or the cessation of the employment of any employee, or other matters), the employer must act independently.
 
@@ -7481,6 +7868,7 @@ The council, for just cause or excuse, may remove the chief executive from offic
 ### 619 Secretary may require information for administration of Act
 (1) The Secretary may, by written notice that complies with subsection (2), require any of the following individuals or bodies to provide information:
   (a) the board of a State school:
+  (aa) the sponsor:
   (b) the service provider who operates any licensed early childhood service or any certified playgroup:
   (c) the managers of a private school.
 (2) The notice must specify the information required and the date by which it must be provided to the Secretary.
@@ -7716,13 +8104,11 @@ The right of parents who have children in early childhood centres to enter the p
 
 ### 636 Regulations relating to early childhood services
 (1) The Governor-General may, by Order in Council, make regulations—
-  (a) prescribing matters relating to applications for approval to apply for a licence, including (without limitation)—
-    (i) prescribing fees and charges payable for an application:
-    (ii) specifying any conditions for approval that must be met:
+  (a)
   (aa) providing for the licensing of service providers to provide early childhood services of any kind, including (without limitation) providing for the transfer of licences:
   (b) regulating the management, operation, and control of licensed early childhood services of any kind, and imposing duties on service providers:
   (c) declaring specified early childhood services, or early childhood services of 1 or more specified types or descriptions, to be early childhood education and care services for the purpose of Part 2:
-  (d) modifying the definition of teaching position in section 10(1) for the purposes of applying it to Kura Kaupapa Māori or early childhood services or both:
+  (d) modifying the definition of teaching position in section 10(1) for the purposes of applying it to Kura Kaupapa Māori or early childhood services or both.
   (e)
 (2) Without limiting subsection (1), the regulations may—
   (a) prescribe, for the purposes of ensuring the health, comfort, care, education, and safety of children attending licensed early childhood services, minimum standards relating to—
@@ -7793,10 +8179,12 @@ The right of parents who have children in early childhood centres to enter the p
 (1) The Governor-General may, by Order in Council, make regulations providing for the control, management, organisation, conduct, and administration of schools.
 (2) Without limiting subsection (1), the regulations may—
   (a) provide differently for different classes or descriptions of schools:
-  (b) give powers to, or impose duties on, boards or principals (or both):
-  (c) prescribe processes and procedures in respect of boards:
+  (b) give powers to, or impose duties on, the following:
+    (i) boards or principals (or both):
+    (ii) sponsors or persons responsible for teaching and learning in charter schools (or both):
+  (c) prescribe processes and procedures in respect of boards or sponsors:
   (d) provide for the development of enrolment schemes:
-  (e) provide for when schools must or may be open and closed for instruction, including (without limitation) by—
+  (e) provide for when schools (other than charter schools) must or may be open and closed for instruction, including (without limitation) by—
     (i) specifying term dates and the number of half-days on which schools must be open and providing for exceptions in particular cases:
     (ii) allowing boards to vary the time at which any 1 or more half-days take place subject to any specified preconditions or requirements:
     (iii) allowing boards to run multiple timetable arrangements unconditionally or subject to any specified preconditions or requirements:
@@ -7991,6 +8379,10 @@ The right of parents who have children in early childhood centres to enter the p
   (a) a State primary school were a reference to those classes and courses in that composite school providing primary education; and
   (b) a State secondary school were a reference to those classes and courses in the composite school providing secondary education.
 
+### 651A Regulations relating to applications to operate charter schools
+(1) The Governor-General may, by Order in Council, make regulations prescribing, or providing for the fixing of, the fee payable for an application made under section 212F to operate a charter school.
+(2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
 ### 652 General regulations
 (1) The Governor-General may, by Order in Council, make regulations providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -8037,11 +8429,11 @@ Nothing in sections 653 to 657 limits the academic freedom of—
   (a) an institution other than Te Pūkenga—New Zealand Institute of Skills and Technology as set out in section 267:
   (b) Te Pūkenga—New Zealand Institute of Skills and Technology as set out in section 318.
 
-### 659 Power of boards to close schools
-(1) Despite anything in regulations made under section 638(2)﻿(e), a board may close a school it administers because of an epidemic, a flood, a fire, or any other emergency.
+### 659 Power of boards and sponsors to close schools
+(1) Despite anything in regulations made under section 638(2)﻿(e), a board or a sponsor may close a school it administers because of an epidemic, a flood, a fire, or any other emergency.
 (2) The Secretary may, by written notice to the board, reduce the number of half-days for which a school would otherwise be required by regulations made under section 638(2)﻿(e) to be open for instruction if satisfied that its closure for instruction was necessary because of an epidemic, flood, fire, or other emergency.
-(3) The Secretary may direct a board to reopen a school if the Secretary, after consulting the board and any other parties that the Secretary considers relevant, is satisfied that the closure is no longer justified.
-(4) A board may not close a school if the Secretary has issued a direction under section 654 in respect of the school.
+(3) The Secretary may direct a board or a sponsor to reopen a school if the Secretary, after consulting the board or a sponsor and any other parties that the Secretary considers relevant, is satisfied that the closure is no longer justified.
+(4) A board or a sponsor may not close a school if the Secretary has issued a direction under section 654 in respect of the school.
 
 ### Subpart 8 — Offences
 
@@ -8238,15 +8630,10 @@ In this schedule, unless the context otherwise requires,—
 #### Subpart 2 — Provisions for Part 2 (early childhood education)
 
 ### 8 Applications for licence to operate early childhood education and care centre
-(1) This clause applies to an application for a licence to operate as an early childhood education and care centre made before the date on which section 17 comes into force but not finally determined before that date.
-(2) The application must be determined as if sections 17 and 18 do not apply to it.
+[Repealed]
 
 ### 9 Review of section 17B
-(1) The Minister must, by no later than 1 August 2025, review, or arrange for a review of, section 17B.
-(2) The review must—
-  (a) consider the purpose, operation, and effectiveness of section 17B; and
-  (b) assess whether any amendments to section 17B are necessary or desirable.
-(3) The Minister must prepare a report of the review, which must be published on an Internet site maintained by or on behalf of the Ministry.
+[Repealed]
 
 #### Subpart 3 — Provisions for Part 3 (primary and secondary education)
 
@@ -9093,6 +9480,153 @@ On and after the date of conversion, every reference to a wānanga that was a ca
 (1) This clause applies to a board that has decided under clause 4 of Schedule 23 to adopt a staggered election cycle in relation to the election of board members who are parent representatives.
 (2) Despite clause 4(3) of Schedule 23, the board must hold the next mid-term election of those board members that falls due after the commencement of this clause in November 2023.
 
+### Part 6 — Provisions relating to Education and Training Amendment Act 2024
+
+#### Subpart 1 — Transitional provisions relating to repeal of network approval requirements
+
+### 110 Interpretation
+In this subpart,—
+  - **amendment Act** means the Education and Training Amendment Act 2024
+  - **commencement** means the date on which the amendment Act comes into force.
+
+### 111 Approval conditions need not be met
+(1) This clause applies to an approval to apply for a licence granted under section 17 to which conditions imposed under section 17A apply (as those provisions read immediately before commencement).
+(2) The conditions no longer apply in relation to the approval on and after commencement.
+
+### 112 Licence no longer subject to certain special conditions
+(1) This clause applies to a licence for an early childhood service to which 1 or more of the following special conditions imposed by the Secretary under regulation 22(5) of the Education (Early Childhood Services) Regulations 2008 apply (as it read immediately before commencement):
+  (a) conditions that are a continuation of any conditions on the approval to apply for a licence imposed under section 17A:
+  (b) conditions that are consistent with the approval to apply for a licence granted under section 17:
+  (c) conditions imposed on an excluded early childhood service that relate to the type of excluded early childhood service.
+(2) The special conditions are treated as revoked on and after commencement.
+
+### 113 Pending applications for approval
+(1) This clause applies to an application for approval to apply for a licence under section 17 made, but not determined, before commencement.
+(2) The Secretary must—
+  (a) treat the application as if it had been withdrawn; and
+  (b) refund to the applicant the prescribed fee paid in respect of the application.
+
+#### Subpart 2 — Transitional provisions relating to converted schools
+
+### 114 Interpretation
+In this subpart,—
+  - **conversion date** , in relation to a converted school, means the date on which the State school became a charter school
+  - **converted school** means a former State school that has become a charter school in accordance with an approval granted to a sponsor under section 212I
+  - **sponsor** has the meaning given in section 10(1).
+
+### 115 Board dissolved
+(1) On the conversion date, the board of the converted school is dissolved.
+(2) Every member of the board of the converted school that is holding office immediately before the conversion date goes out of office on the close of the day before that date.
+
+### 116 Integration agreement for State integrated school cancelled
+(1) This clause applies if a converted school was a State integrated school immediately before its conversion date.
+(2) On the conversion date, the integration agreement between the proprietor and the Crown relating to the State integrated school must be treated as if it were cancelled under clause 11 of Schedule 6.
+
+**Rights, assets, and liabilities of converted school**
+
+### 117 Rights, assets, and liabilities of converted school
+(1) This clause applies to all rights, assets, and liabilities that belong to a converted school immediately before its conversion date.
+(2) On the conversion date, all rights, assets, and liabilities of the converted school vest in the Minister on behalf of the Crown.
+(3) Subclause (2) is subject to clauses 121 to 123.
+(4) In this clause, assets, liabilities, and rights have the same meanings as in section 10(6).
+
+### 118 Property held in trust
+(1) This section applies to any property of a converted school that, immediately before the conversion date, was held in trust—
+  (a) by the board of the State school; or
+  (b) by any other person or body for the benefit of—
+    (i) the converted school; or
+    (ii) the students or former students of the converted school.
+(2) The property continues to be subject to the trust concerned, but the person or body in whom it is vested may apply to Public Trust to devise a scheme to modify the trust in light of the conversion of the State school concerned.
+(3) If satisfied that adequate arrangements have been made to meet the costs of doing so, Public Trust must, in consultation with the sponsor concerned, devise a scheme to modify any trust in respect of which Public Trust has received an application under this clause and notify the Solicitor-General of the scheme.
+(4) If Public Trust notifies the Solicitor-General of a scheme, the Solicitor-General may, by written notice to Public Trust,—
+  (a) approve the scheme (as originally notified or with any amendments agreed by Public Trust after consultation with the board concerned); or
+  (b) suggest amendments to it; or
+  (c) direct that it should not proceed.
+(5) If the Solicitor-General directs that it should not proceed, the matter may be dealt with under the Charitable Trusts Act 1957.
+(6) If, within 90 days of being notified of a scheme, the Solicitor-General does not suggest amendments to it or direct that it should not proceed, the Solicitor-General is to be treated as having approved the scheme.
+(7) If the Solicitor-General approves a scheme notified under this clause, the trust concerned has effect accordingly.
+(8) The Solicitor-General may not approve a scheme under this clause unless satisfied that—
+  (a) it modifies the trust concerned so as best to give effect to the intentions of the testator, settlor, or other person or body by whom or which the trust was established; and
+  (b) subject to paragraph (a), it effects the minimum change necessary to enable the trust to operate successfully in light of conversion of the school concerned.
+
+**Transfer of employees of converted school**
+
+### 119 Transfer of employees of converted school to charter school
+(1) On the conversion date, every employee of a converted school becomes an employee of the sponsor (a transferred employee)—
+  (a) on terms and conditions of employment that are no less favourable overall to those that applied to the person immediately before they became an employee of the sponsor; and
+  (b) as if those terms and conditions of employment were contained in an individual employment agreement agreed between the transferred employee and the sponsor.
+(2) The terms and conditions of employment referred to in subclause (1)﻿(a) continue to apply in relation to the transferred employee until—
+  (a) they are varied by agreement between the transferred employee and the sponsor; or
+  (b) the transferred employee becomes bound by a collective agreement agreed between the sponsor and the union of which the transferred employee is a member.
+(3) A transferred employee is not entitled to receive any contractual notice or any payment, benefit, or compensation from the board of the converted school on the grounds that—
+  (a) the person’s position in the converted school has ceased to exist; or
+  (b) the person has ceased to be an employee of the board as a result of the person’s transfer to the charter school.
+(4) To avoid doubt, the employment of a transferred employee by the sponsor does not—
+  (a) constitute new employment, including for the purposes of the Holidays Act 2003 or the KiwiSaver Act 2006 or any service-related entitlements or benefits (whether legislative or otherwise); or
+  (b) treat that employee as a new employee for the purposes of the Employment Relations Act 2000.
+(5) In this clause, terms and conditions of employment that are no less favourable overall, in relation to the transferred employee’s employment at the converted school, is employment at a charter school that—
+  (a) is in substantially the same position; and
+  (b) is in the same general locality; and
+  (c) is on terms that treat the period of service with the converted school (and any other period of service recognised by the converted school as continuous service) as if it were continuous service with the charter school; and
+  (d) is on terms and conditions of employment that are no less favourable overall than those that applied to the transferred employee immediately before the person became an employee of the sponsor, including (without limitation) in relation to the employee’s overall remuneration and any service-related, redundancy, or superannuation conditions; and
+  (e) is subject to any other modifications that are necessary to reflect—
+    (i) the transferred employee’s terms and conditions of employment being treated as if they were contained in an individual employment agreement; and
+    (ii) the transfer of employment from a State school to a charter school, for example, in relation to—
+      (A) funding and payment of the transferred employee’s remuneration:
+      (B) the eligibility of a transferred employee who holds a teaching position for any awards, grants, or associated leave:
+      (C) a sponsor not being required to advertise any vacancy at the charter school in the Education Gazette.
+(6) This clause overrides—
+  (a) Part 6A of the Employment Relations Act 2000; and
+  (b) any employment protection provision in any relevant employment agreement.
+
+### 120 Transfer of employment information
+(1) This clause applies to information held by the board of a converted school, the Ministry, or Education Payroll Limited relating to a transferred employee’s employment with the converted school.
+(2) The information is to be treated as if it were held by the sponsor on and from the later of the following dates:
+  (a) the date on which the charter school contract is entered into under section 212L; and
+  (b) the date that is 3 months before the conversion date.
+(3) The transfer of information under subclause (2) does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
+
+### 121 Transfer of rights, duties, and obligations relating to existing pay equity claims and settlements
+(1) This clause applies to any rights, duties, or obligations of the Secretary (acting under delegation from the Public Service Commissioner) or the board of a converted school in relation to—
+  (a) any pay equity claims relating to the work of a transferred employee raised before the conversion date but not settled before that date:
+  (b) any existing pay equity claim settlements entered into before the conversion date.
+(2) On and after the conversion date,—
+  (a) the rights, duties, and obligations referred to in subclause (1) vest in the sponsor; and
+  (b) the existing pay equity claim settlement in respect of teacher aides recorded in the Teacher Aide Pay Equity Settlement Agreement dated 12 February 2020 is to be treated as binding on the sponsor as if—
+    (i) the sponsor were a party to the agreement; and
+    (ii) all references in the agreement to the Secretary were references to the sponsor; and
+  (c) every other existing pay equity claim settlement to which the board of the converted school was a party before the conversion date is to be treated as binding on the sponsor as if—
+    (i) the sponsor were a party to the agreement; and
+    (ii) all references in the agreement to the board were references to the sponsor.
+(3) In this clause, pay equity claim and pay equity claim settlement have the same meanings as in section 2(1) of the Equal Pay Act 1972.
+
+### 122 Transfer of liabilities for holidays and leave taken before conversion date
+(1) This clause applies in relation to any holiday, sick leave, bereavement leave, or family violence leave—
+  (a) provided under the Holidays Act 2003; and
+  (b) taken by a transferred employee before the conversion date.
+(2) On and after the conversion date, any liabilities of the board of the converted school for holiday pay or leave pay in relation to the holidays and leave referred to in subclause (1) vest in the Minister on behalf of the Crown.
+(3) In this clause, holiday, holiday pay, and leave pay have the same meanings as in section 5(1) of the Holidays Act 2003.
+
+### 123 Transfer of other rights, duties, liabilities, or obligations of board relating to transferred employees
+(1) This clause applies to any other rights, duties, liabilities, or obligations of the board of a converted school relating to a transferred employee that were in existence immediately before the conversion date.
+(2) On the conversion date, those rights, duties, liabilities, and obligations vest in the sponsor.
+
+**Superannuation**
+
+### 124 Government Superannuation Fund
+(1) Any person who, immediately before becoming an employee of a sponsor, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956 is deemed, for the purpose of that Act, to be employed in the Government service as long as the person continues to be employed at a charter school.
+(2) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person’s service as an employee of the sponsor were Government service.
+(3) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(4) For the purpose of applying the Government Superannuation Fund Act 1956, the sponsor is the controlling authority.
+
+**Shared education services**
+
+### 125 Arrangements between State schools for shared education services
+(1) This clause applies if the board of a converted school was, before its conversion, a party to a written arrangement (for example, a memorandum of understanding), whether legally binding or not, with the boards of 1 or more other State schools regarding the sharing of education services, employees, or students.
+(2) On and after the conversion date,—
+  (a) the sponsor is to be treated as if it were a party to the arrangement; and
+  (b) all references in the arrangement to the board of the converted school must be treated as if they were references to the sponsor.
+
 ## Schedule 2 — Special institutions
 
 ## Schedule 2A — Free kindergarten associations
@@ -9253,7 +9787,8 @@ The Teaching Council must deregister a person if—
 **Limited authority to teach**
 
 ### 14 Purpose of limited authority to teach
-The purpose of granting a limited authority to teach is to enable employers to have access to skills that are in short supply and to enable those with specialist skills but who may not have a teaching qualification to teach.
+(1) The purpose of granting a limited authority to teach is to enable employers to have access to skills that are in short supply and to enable those with specialist skills but who may not have a teaching qualification to teach.
+(2) Despite subclause (1), a sponsor may employ a person in a charter school who has been granted a limited authority to teach under clause 16(1A).
 
 ### 15 Applications for limited authority to teach
 Any person may apply to the Teaching Council for a limited authority to teach.
@@ -9262,6 +9797,11 @@ Any person may apply to the Teaching Council for a limited authority to teach.
 (1) The Teaching Council must grant a limited authority to teach if it considers that the applicant is of a suitable disposition and—
   (a) the applicant has the skills and experience appropriate to advance the learning of a student or group of students; or
   (b) the applicant has skills that are in short supply.
+(1A) Despite subclause (1), the Teaching Council must grant a limited authority to teach if—
+  (a) the application relates to teaching in 1 or more charter schools; and
+  (b) the Teaching Council considers that the applicant—
+    (i) is of a suitable disposition: and
+    (ii) has the skills and experience appropriate to advance the learning of a student or group of students.
 (2) A person who has previously been authorised may be authorised again, whether before or after the expiry or cancellation of the previous authorisation.
 (3) In this clause, suitable disposition, in relation to an applicant, means the applicant—
   (a) is of good character and fit to hold a limited authority to teach; and
@@ -9271,7 +9811,7 @@ Any person may apply to the Teaching Council for a limited authority to teach.
 
 ### 17 Cancellation of limited authority to teach
 (1) The Teaching Council must cancel a person's limited authority to teach if—
-  (a) the Teaching Council is satisfied on reasonable grounds that the person no longer satisfies the requirements for holding a limited authority to teach (as set out in clause 16(1)); or
+  (a) the Teaching Council is satisfied on reasonable grounds that the person no longer satisfies the requirements for holding a limited authority to teach (as set out in clause 16(1) or (1A)); or
   (b) the Teaching Council is satisfied on reasonable grounds that the authorisation was granted by mistake or obtained by fraud; or
   (c) the Disciplinary Tribunal has ordered, under section 500(1)﻿(g), that the limited authority to teach be cancelled; or
   (d) the Competence Authority has ordered, under section 508, that the limited authority to teach be cancelled.
@@ -9392,35 +9932,35 @@ The service provider of a licensed home-based education and care service that ap
 **Police vetting in respect of primary and secondary schools**
 
 ### 9 Police vetting of non-teaching and unregistered employees at schools
-(1) The board of a State school and the managers of a private school must obtain a Police vet of every person—
-  (a) whom the board or the managers appoints, or intends to appoint, to a position at the school; and
+(1) The board of a State school, the sponsor, and the managers of a private school must obtain a Police vet of every person—
+  (a) whom the board, the sponsor, or the managers appoints, or intends to appoint, to a position at the school; and
   (b) who is to work at the school during normal school hours; and
   (c) who is not—
     (i) a registered teacher who holds a current practising certificate; or
     (ii) a holder of a limited authority to teach.
-(2) The board or managers must—
+(2) The board, the sponsor, or managers must—
   (a) obtain the Police vet required by subclause (1) before the person begins work at the school; and
   (b) consider the information contained in the Police vet to assess whether the person would pose a risk to the safety of children if the person were to carry out work at the school.
-(3) In carrying out an assessment under subclause (2)﻿(b), the board or managers must take into account any guidelines on risk assessments issued by the Ministry.
+(3) In carrying out an assessment under subclause (2)﻿(b), the board, the sponsor, or managers must take into account any guidelines on risk assessments issued by the Ministry.
 
 ### 10 Police vetting of contractors and their employees who work at schools
-(1) The board of a State school and the managers of a private school must obtain a Police vet of every contractor, or employee of a contractor, who has, or is likely to have, unsupervised access to students at the school during normal school hours.
-(1A) The board or managers must—
+(1) The board of a State school, the sponsor, and the managers of a private school must obtain a Police vet of every contractor, or employee of a contractor, who has, or is likely to have, unsupervised access to students at the school during normal school hours.
+(1A) The board, the sponsor, or managers must—
   (a) obtain the Police vet required by subclause (1) before the contractor, or employee of a contractor, has, or is likely to have, unsupervised access to children at the school; and
   (b) consider the information contained in the Police vet to assess whether the contractor, or employee of a contractor, would pose a risk to the safety of children if they had unsupervised access to children at the school.
-(1B) In carrying out an assessment under subclause (1A)﻿(b), the board or managers must take into account any guidelines on risk assessments issued by the Ministry.
+(1B) In carrying out an assessment under subclause (1A)﻿(b), the board, the sponsor, or managers must take into account any guidelines on risk assessments issued by the Ministry.
 (2) In this clause, contractor means a person who works at a school under a contract for services.
 
 ### 11 Police vet must be obtained before person has unsupervised access to students
 [Repealed]
 
 ### 12 Further Police vets to be obtained every 3 years
-(1) The board of a State school and the managers of a private school must obtain a further Police vet of every person on whom a Police vet has already been obtained under clause 9 or 10 by that board or management and who still works at the school.
+(1) The board of a State school, the sponsor, and the managers of a private school must obtain a further Police vet of every person on whom a Police vet has already been obtained under clause 9 or 10 by that board or management and who still works at the school.
 (2) A further Police vet required under subclause (1) must be obtained on or about every third anniversary of any Police vet that has been previously conducted on the person.
 (3) The requirement for a further Police vet under this clause does not apply to a person on whom a Police vet under clause 9 or 10 would not be required if the person were about to be appointed to a position at the school or to work at the school at the time that the further Police vet would otherwise be required.
 
 ### 13 Procedures relating to Police vets under clause 9 or 10
-The board of a State school or the managers of a private school that applies for a Police vet of a person under clause 9 or 10—
+The board of a State school, the sponsor, or the managers of a private school that applies for a Police vet of a person under clause 9 or 10—
   (a) must ensure that strict confidentiality is observed for Police vets; and
   (b) may not take adverse action in relation to a person who is the subject of a Police vet until—
     (i) the person has validated the information contained in the vet; or
@@ -9438,7 +9978,8 @@ The board of a State school or the managers of a private school that applies for
 (2) A community of learning must consist of a group of 2 or more State schools but may also include 1 or more of the following:
   (a) licensed early childhood services:
   (b) certified playgroups:
-  (c) tertiary education organisations.
+  (c) tertiary education organisations:
+  (d) charter schools.
 (3) The Minister may approve a community of learning only if the Minister is satisfied that—
   (a) the purpose of the group is to come together for the purpose of raising achievement of children and young people; and
   (b) the membership of the group that is to form the community is appropriate, having regard to that purpose.
@@ -9850,6 +10391,75 @@ Any obligation or other commitment entered into by the managers of a private sch
   (b) this schedule must be interpreted in a way that is consistent with the provisions of this Act or any other enactments concerned whenever this construction is appropriate and reasonable.
 (2) Subject to clauses 1 and 2, if any matter concerning State integrated schools is not dealt with by express provision in this schedule, the appropriate provisions of this Act, the Public Service Act 2020, and any regulations made under any of those provisions or under any enactment repealed by this Act or the Public Service Act 2020 apply.
 
+## Schedule 6A — Further provisions applying to Authorisation Board
+
+### 1 Resignation or discharge of members
+(1) A member of the Authorisation Board may resign by giving written notice to the Minister and to the Authorisation Board.
+(2) The Minister may, at the Minister’s discretion, discharge the member by giving written notice to the member and to the Authorisation Board.
+
+### 2 Actions of Authorisation Board not affected by informality in membership
+The powers of the Authorisation Board are not affected by—
+  (a) any vacancy in its membership; or
+  (b) the discovery of any error or defect in appointment of a member; or
+  (c) the fact that a person continued to act as a board member after the person’s office as a member became vacant.
+
+### 3 Delegations
+(1) The Authorisation Board may, either generally or specifically, delegate any of its functions, duties, or powers under this Act to a public service chief executive.
+(2) A delegation—
+  (a) must be in writing; and
+  (b) may be revoked at will in writing; and
+  (c) may be subject to instructions or conditions.
+(3) Despite subclause (1), the Authorisation Board must not delegate the general power of delegation.
+(4) A public service chief executive to whom any functions, duties, or powers are delegated under this clause may perform those functions or exercise those powers in the same manner and with the same effect as if they had been conferred on that person directly by this Act (subject to any general or special instructions given or conditions imposed by the Authorisation Board).
+(5) A public service chief executive purporting to act under a delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of that delegation.
+(6) A delegation continues in force until revoked.
+Subdelegation
+(7) If the Authorisation Board has delegated any functions, duties, or powers to a public service chief executive, that public service chief executive may, with the written approval of the Authorisation Board, subdelegate those functions, duties, or powers in accordance with clause 2 of Schedule 6 of the Public Service Act 2020.
+(8) In this clause, public service chief executive has the meaning given in section 5 of the Public Service Act 2020.
+
+### 4 Personal liability of members
+A member of the Authorisation Board is not personally liable for an act the member has done or omitted to do, or for any loss arising from that act or omission, if the member was acting—
+  (a) in good faith; and
+  (b) in the course of performing or exercising the member’s functions, duties, or powers.
+
+### 5 Annual report
+(1) As soon as practicable after the end of each financial year, the Authorisation Board must prepare and provide the Minister with an annual report on its operations during that year.
+(2) The annual report must include information on the number of new and converted charter schools approved by the Authorisation Board in that year.
+(3) The Minister must present the annual report to the House of Representatives within 5 working days after receiving the report or, if Parliament is not in session, as soon as practicable after the commencement of the next session of Parliament.
+
+### 6 Procedures
+The Authorisation Board may determine its own procedures.
+
+## Schedule 6B — Provisions of Crown Entities Act 2004 that apply to Authorisation Board
+
+| Section | Brief description |
+| --- | --- |
+| Section 26 | Accountability of members to responsible Minister |
+| Section 28 | Method of appointment of members |
+| Section 30 | Qualifications of members |
+| Section 31 | Requirements before appointment |
+| Section 32 | Term of office of members |
+| Section 34 | Validity of members’ acts |
+| Section 35 | Validity of appointments |
+| Section 36 | Removal of members of Crown agents |
+| Section 41 | Process for removal |
+| Section 43 | No compensation for loss of office |
+| Section 44 | Resignation of members |
+| Sections 47–48 | Remuneration and expenses |
+| Section 49 | Entity must act consistently with objectives, functions, statement of intent, and statement of performance expectations |
+| Section 50 | Manner in which functions must be performed |
+| Section 53 | Duty to comply with this Act and entity’s Act |
+| Section 54 | Duty to act with honesty and integrity |
+| Section 55 | Duty to act in good faith and not at expense of entity’s interests |
+| Section 56 | Duty to act with reasonable care, diligence, and skill |
+| Section 57 | Duty not to disclose information |
+| Sections 62–67 | Conflict of interest disclosure rules |
+| Section 103 | Power to direct Crown agents to give effect to government policy |
+| Section 113 | Safeguarding independence of Crown entities |
+| Section 115 | Procedure for ministerial directions on government policy |
+| Section 135 | Members, office holders, and employees are officials |
+| Section 152 | Disclosure of payments in respect of members, committee members, and employees |
+
 ## Schedule 7 — Private schools
 
 ### 1 Provisional and full registration of private schools
@@ -10030,6 +10640,7 @@ As soon as practicable after the end of each financial year during which a schoo
 (1) The Minister may, by notice in the Gazette, recognise as a provider group of secondary–tertiary programmes a group of organisations that consists of—
   (a) any 1 or more of the following:
     (i) a board of a secondary school, a composite school, or a specialist school that is a relevant school:
+    (ia) a sponsor of a secondary school or a composite school:
     (ii) a body corporate that is the manager of a private school, other than a school registered only as a primary school; and
   (b) any 1 or more of the following:
     (i) a government training establishment:
@@ -10064,6 +10675,7 @@ As soon as practicable after the end of each financial year during which a schoo
 ### 5 Recognition as lead provider of secondary–tertiary programme
 The Minister may, by notice in the Gazette, recognise as a lead provider of secondary–tertiary programmes any of the following:
   (a) a board of a secondary school, a composite school, or a specialist school that is a relevant school:
+  (aa) a sponsor of a secondary school or a composite school:
   (b) a body corporate that is the manager of a private school, other than a school registered only as a primary school:
   (c) a government training establishment:
   (d) an institution:
@@ -10075,6 +10687,7 @@ The Minister may, by notice in the Gazette, recognise as a lead provider of seco
   (b) in a form approved by the Secretary.
 (2) Any of the following may provide a secondary component or a tertiary component of a secondary–tertiary programme, after making an arrangement as specified in subclause (1) with the lead provider of the programme:
   (a) a board of a secondary school, a composite school, or a specialist school that is a relevant school:
+  (aa) a sponsor of a secondary school or a composite school:
   (b) the managers of a private school, other than a school registered only as a primary school:
   (c) a government training establishment:
   (d) an institution:
