@@ -1,5 +1,5 @@
 # Children’s Act 2014
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2024-10-01_
 
 ### 1 Title
 This Act is the Children’s Act 2014.
@@ -272,7 +272,8 @@ The purpose of this Part is to require child protection policies (that must cont
     (h) every other instrument for the time being prescribed under subsection (4)
   - **school board** means a board or body that is, or 1 or more managers who are,—
     (a) a board as defined in section 10(1) of the Education and Training Act 2020; or
-    (b) the manager or managers of a private school that is registered under section 214 of that Act.
+    (b) the manager or managers of a private school that is registered under section 214 of that Act; or
+    (c) a sponsor as defined in section 10(1) of the Education and Training Act 2020.
 (2) The Governor-General may, by Order in Council, prescribe, for the purposes of paragraph (c)﻿(ii) of the definition of children's services in subsection (1), classes, descriptions, or kinds of services—
   (a) provided to adults living in households that include 1 or more children; and
   (b) that do or may affect significantly any 1 or more aspects of the well-being of those children.
@@ -384,7 +385,8 @@ The purpose of this Part is to reduce the risk of harm to children by requiring 
   (b) an individual or organisation that is funded (whether wholly or partly and whether directly or indirectly) by a State service to provide regulated services:
   (c) on and after the date that is 2 years after the date on which this Part comes into force (or any earlier date specified in regulations made under section 33(1)﻿(b)),—
     (i) local authorities; and
-    (ii) individuals and organisations that are funded (whether wholly or partly and whether directly or indirectly) by a local authority to provide regulated services.
+    (ii) individuals and organisations that are funded (whether wholly or partly and whether directly or indirectly) by a local authority to provide regulated services:
+  (d) a sponsor as defined in section 10(1) of the Education and Training Act 2020.
 (2) Despite subsection (1), an individual or organisation is not a specified organisation if it is declared by regulations made under section 33(1)﻿(c) not to be a specified organisation for the purposes of this Part.
 (3) Despite subsection (1), the following are not specified organisations:
   (a) an individual (person A) who, in relation to a child (child A),—
