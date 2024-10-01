@@ -1,5 +1,5 @@
 # Appropriation (2023/24 Estimates) Act 2023
-_Consolidation as at 2023-08-24_
+_Consolidation as at 2024-10-01_
 
 ### 1 Title
 This Act is the Appropriation (2023/24 Estimates) Act 2023.
