@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-10-01_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -1880,6 +1880,7 @@ Land owned or used by, and for the purposes of, any of the following as defined 
 (d) a special institution:
 (e) an early childhood education and care centre, except an early childhood education and care centre that operates for profit:
 (f) a private school, except a registered school that operates for profit:
+(fa) a charter school, except a charter school that operates for profit:
 (g) an institution.
 
 ### 7
