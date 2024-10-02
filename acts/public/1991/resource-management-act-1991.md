@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2024-10-01_
+_Consolidation as at 2024-10-02_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -9759,16 +9759,7 @@ Every abatement notice shall be in the prescribed form and shall state—
 **Emergency works**
 
 ### 329A Interpretation
-(1) In sections 330AAA, 330AA, and 330C,—
-  - **affected area** means an area affected by 1 or more severe weather events
-  - **area** means any of the following regions or districts:
-    (a) the regions of Northland, Auckland, Waikato, Bay of Plenty, Gisborne, and Hawke’s Bay:
-    (b) the districts of Tararua, Manawatū, Rangitikei, Masterton, Carterton, and South Wairarapa
-  - **severe weather event** means any of the following weather events:
-    (a) Cyclone Hale, which crossed the North Island during the period commencing on 8 January 2023 and ending on 12 January 2023:
-    (b) heavy rainfall commencing on 26 January 2023 and ending on 3 February 2023 in the Northland, Auckland, Waikato, and Bay of Plenty regions:
-    (c) Cyclone Gabrielle, which crossed the North Island during the period commencing on 12 February 2023 and ending on 16 February 2023.
-(2) This section is repealed on the close of 1 October 2024.
+[Repealed]
 
 ### 330 Emergency works and power to take preventive or remedial action
 (1) Where—is, in the opinion of the person, authority, network utility operator, or lifeline utility, affected by or likely to be affected by—the provisions of sections 9, 12, 13, 14, and 15 shall not apply to any activity undertaken by or on behalf of that person, authority, network utility operator, or lifeline utility to remove the cause of, or mitigate any actual or likely adverse effect of, the emergency.
@@ -9789,11 +9780,7 @@ Every abatement notice shall be in the prescribed form and shall state—
 (5) In this section and section 330A, lifeline utility means a lifeline utility within the meaning of section 4 of the Civil Defence Emergency Management Act 2002 other than a lifeline utility that is a network utility operator to which subsection (1)﻿(c) applies.
 
 ### 330AAA Modification of requirements in section 330(3) for authorities in affected areas
-(1) This section applies if, because of or in connection with the impacts of a severe weather event, a local authority or consent authority acting under section 330(2) enters a place on land within an affected area when the occupier cannot be found there.
-(2) Section 330(3) is satisfied, and the local authority or consent authority is not required to take further action to contact the occupier, if—
-  (a) there is displayed in a prominent place on the land a notice that gives the date of entry, the reasons for entry, and the contact details of a person who can provide further information; and
-  (b) as soon as practicable after entering the land, the local authority or consent authority serves written notice (containing the same information as in paragraph (a)) on the person who is the ratepayer for the land for the purposes of the Local Government (Rating) Act 2002.
-(3) This section is repealed on the close of 1 October 2024.
+[Repealed]
 
 ### 330A Resource consents for emergency works
 (1) Where an activity is undertaken under section 330, the person (other than the occupier), authority, network utility operator, or lifeline utility who or which undertook the activity shall advise the appropriate consent authority, within 7 days, that the activity has been undertaken.
@@ -9801,12 +9788,7 @@ Every abatement notice shall be in the prescribed form and shall state—
 (3) If the application is made within the time stated in subsection (2), the activity may continue until the application for a resource consent and any appeals have been finally determined.
 
 ### 330AA Modification of requirements in section 330A for activities undertaken in affected areas
-(1) This section applies if, because of or in connection with the impacts of a severe weather event, a person, local authority, consent authority, network utility operator, or lifeline utility (or a person acting on their behalf) undertakes an activity in an affected area under section 330.
-(2) The time within which advice of the activity must be given under section 330A(1) is extended to 100 working days.
-(3) The time within which any application for a resource consent must be lodged under section 330A(2) is extended to 160 working days.
-(4) Section 330A(3) applies subject to the time periods as modified by subsections (2) and (3).
-(5) In this section, lifeline utility has the same meaning as in section 330(5).
-(6) This section is repealed on the close of 1 October 2024.
+[Repealed]
 
 ### 330B Emergency works under Civil Defence Emergency Management Act 2002
 (1) If any activity is undertaken by any person exercising emergency powers during a state of emergency declared, or transition period notified, under the Civil Defence Emergency Management Act 2002, the provisions of sections 9, 12, 13, 14, and 15 do not apply to any activity undertaken by or on behalf of that person to remove the cause of, or mitigate any actual or adverse effect of, the emergency.
@@ -9816,11 +9798,7 @@ Every abatement notice shall be in the prescribed form and shall state—
 (5) A person does not commit an offence under section 338(1)﻿(a) by acting in accordance with this section.
 
 ### 330C Modification of requirements in section 330B for activities undertaken in affected areas
-(1) This section applies if, because of or in connection with the impacts of a severe weather event, a person (or a person acting on their behalf) undertakes an activity to which section 330B applies in a part of an affected area to which a state of emergency or transition period under the Civil Defence Emergency Management Act 2002 is in force.
-(2) The time within which advice of the activity must be given under section 330B(2) is extended to 100 working days.
-(3) The time within which any application for a resource consent must be lodged under section 330B(3) is extended to 160 working days.
-(4) Section 330B(4) and (5) applies subject to the time periods as modified by subsections (2) and (3).
-(5) This section is repealed on the close of 1 October 2024.
+[Repealed]
 
 ### 331 Reimbursement or compensation for emergency works
 (1) Where the local authority or consent authority takes action under section 330(2) because of the default of any person, the authority may require reimbursement from that person of its actual and reasonable costs (as defined in section 314(2)).
