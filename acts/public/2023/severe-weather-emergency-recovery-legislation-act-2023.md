@@ -1,5 +1,5 @@
 # Severe Weather Emergency Recovery Legislation Act 2023
-_Consolidation as at 2024-04-02_
+_Consolidation as at 2024-10-02_
 
 ### 1 Title
 This Act is the Severe Weather Emergency Recovery Legislation Act 2023.
@@ -323,11 +323,10 @@ If the Minister makes a recommendation under section 19, the Minister’s reason
 ### Subpart 3 — Amendments to Resource Management Act 1991
 
 ### 30 Principal Act
-This subpart amends the Resource Management Act 1991.
+[Repealed]
 
 ### 31 Section 329A amended (Interpretation)
-(1) In section 329A(1), definition of area, paragraph (b), after Tararua, insert Manawatū, Rangitikei,.
-(2) This section is repealed on the close of 1 October 2024.
+[Repealed]
 
 ### 32 Section 331B amended (Owner or occupier of rural land may take emergency preventive or remedial measures)
 [Repealed]
