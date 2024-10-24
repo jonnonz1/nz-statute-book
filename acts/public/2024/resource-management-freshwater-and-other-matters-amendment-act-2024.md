@@ -99,7 +99,7 @@ In section 57(1), replace using one of the processes referred to in section 46A(
 Repeal section 58D(3)﻿(b).
 
 ### 18 Section 58E amended (Approval of national planning standard)
-Replace regulation 58E(1) with:
+Replace section 58E(1) with:
   (1) Before approving a national planning standard, the Minister must consider the report and recommendations made under section 58D(3)﻿(d)﻿(ii).
 
 ### 19 Section 58H amended (Changing, replacing, or revoking national planning standards)
