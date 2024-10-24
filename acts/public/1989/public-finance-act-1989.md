@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2024-10-24_
 
 > Title
 
@@ -2429,7 +2429,6 @@ Definitions
 | New Zealand Government Property Corporation |  |  |  |  |  |  |  |  |  |
 | New Zealand Lottery Grants Board |  |  |  |  |  |  |  |  |  |
 | Ngai Tahu Ancillary Claims Trust |  |  |  |  |  |  |  |  |  |
-| Pacific Co-operation Foundation |  |  |  |  |  |  |  |  |  |
 | Pacific Island Business Development Trust |  |  |  |  |  |  |  |  |  |
 | Reserves Boards as defined in section 2 of the Reserves Act 1977 |  |  |  |  |  |  |  |  |  |
 
