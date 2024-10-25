@@ -1,5 +1,5 @@
 # Pae Ora (Healthy Futures) Act 2022
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2024-10-25_
 
 ### 1 Title
 This Act is the Pae Ora (Healthy Futures) Act 2022.
@@ -33,7 +33,8 @@ In this Act, unless the context otherwise requires,—
     (c) the Pacific Health Strategy:
     (d) the Health of Disabled People Strategy:
     (e) the Women’s Health Strategy:
-    (f) the Rural Health Strategy
+    (f) the Rural Health Strategy:
+    (g) the Mental Health and Wellbeing Strategy
   - ****
   - **HQSC** means the Health Quality and Safety Commission continued under section 78
   - **iwi-Māori partnership board** means an organisation listed in Schedule 4
@@ -142,7 +143,8 @@ This Act binds the Crown.
     (iii) Pacific Health Strategy:
     (iv) Health of Disabled People Strategy:
     (v) Women’s Health Strategy:
-    (vi) Rural Health Strategy; and
+    (vi) Rural Health Strategy:
+    (vii) Mental Health and Wellbeing Strategy; and
   (c) approving the New Zealand Health Plan developed by Health New Zealand; and
   (d) endorsing the New Zealand Health Charter; and
   (e) approving a code of expectations for consumer and whānau engagement in the health sector; and
@@ -334,6 +336,7 @@ The purpose of iwi-Māori partnership boards is to represent local Māori perspe
     (iv) Health of Disabled People Strategy:
     (v) Women’s Health Strategy:
     (vi) Rural Health Strategy:
+    (vii) Mental Health and Wellbeing Strategy:
   (c) Health New Zealand to develop, for the Minister's approval, a New Zealand Health Plan based on population health needs:
   (d) Health New Zealand to develop locality plans for localities:
   (e) Health New Zealand to facilitate the making of a New Zealand Health Charter:
@@ -443,6 +446,16 @@ A health entity must give effect to the GPS to the extent it is relevant to its 
   (b) contain an assessment of the medium and long-term trends that will affect the health of rural communities and health sector performance; and
   (c) set out priorities for services and health sector improvements relating to the health of rural communities, including workforce development.
 (4) Subsection (3) does not limit what may be included in the Rural Health Strategy.
+
+### 46A Mental Health and Wellbeing Strategy
+(1) The Minister must prepare and determine a Mental Health and Wellbeing Strategy.
+(2) The Minister must have regard to any advice from the Mental Health and Wellbeing Commission when preparing the Mental Health and Wellbeing Strategy.
+(3) The purpose of the Mental Health and Wellbeing Strategy is to provide a framework to guide health entities for the long-term improvement of mental health and wellbeing outcomes, including minimising the harm from addiction.
+(4) The Mental Health and Wellbeing Strategy must—
+  (a) contain an assessment of the current state of, and the performance of the health sector in relation to, mental health and wellbeing outcomes; and
+  (b) contain an assessment of the medium- and long-term trends that will affect mental health and wellbeing outcomes; and
+  (c) set out priorities for mental health and addiction services and health sector improvements relating to mental health and wellbeing, including workforce development.
+(5) Subsection (4) does not limit what may be included in the Mental Health and Wellbeing Strategy.
 
 ### 47 Process for making health strategy
 (1) When preparing a health strategy, the Minister must—
@@ -1402,6 +1415,11 @@ To avoid doubt, the transfer of a contract or an engagement of the Māori Health
     (ii) with all necessary modifications; and
   (b) may be replaced by Health New Zealand by written notice to that employee.
 (2) Health New Zealand must undertake a reasonable consultation process before introducing any employment policy that is reasonably likely to have a material effect on that employee.
+
+### Part 3 — Provision relating to Pae Ora (Healthy Futures) (Improving Mental Health Outcomes) Amendment Act 2024
+
+### 44 Requirement for Mental Health and Wellbeing Strategy
+Section 46A (which relates to the making of the Mental Health and Wellbeing Strategy) does not take effect until 12 months after the date on which the Pae Ora (Healthy Futures) (Improving Mental Health Outcomes) Amendment Act 2024 comes into force.
 
 ## Schedule 2 — Organisations for purpose of section 90(1)﻿(b)﻿(i)
 
