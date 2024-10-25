@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2024-10-02_
+_Consolidation as at 2024-10-25_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -245,6 +245,8 @@ _Consolidation as at 2024-10-02_
   - **national environmental standard** means a standard prescribed by regulations made under section 43
   - **national planning standard** means any of the national planning standards approved under section 58E
   - **national policy statement** means a statement issued under section 52
+  - **National Policy Statement for Freshwater Management 2020** or means the National Policy Statement for Freshwater Management 2020 that was approved by the Governor-General under section 52(2) on 3 August 2020 and that came into effect on 3 September 2020
+  - **National Policy Statement for Indigenous Biodiversity 2023** or means the National Policy Statement for Indigenous Biodiversity 2023 that was approved by the Governor-General under section 52(2) on 31 May 2023 and that came into effect on 4 August 2023
   - **National Policy Statement on Urban Development** or means the National Policy Statement on Urban Development 2020—
     (a) that was approved by the Governor-General under section 52(2) on 20 July 2020 and that came into effect on 20 August 2020; and
     (b) as amended by section 77S(1)
@@ -1134,7 +1136,7 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
     (ii) employment that are anticipated to be provided or reduced; and
   (b) if practicable, quantify the benefits and costs referred to in paragraph (a); and
   (c) assess the risk of acting or not acting if there is uncertain or insufficient information about the subject matter of the provisions.
-(3) If the proposal (an amending proposal) will amend a standard, statement, national planning standard, regulation, plan, or change that is already proposed or that already exists (an existing proposal), the examination under subsection (1)﻿(b) must relate to—
+(3) If the proposal (an amending proposal) will amend a regional policy statement, plan, or change that is already proposed or that already exists (an existing proposal), the examination under subsection (1)﻿(b) must relate to—
   (a) the provisions and objectives of the amending proposal; and
   (b) the objectives of the existing proposal to the extent that those objectives—
     (i) are relevant to the objectives of the amending proposal; and
@@ -1143,14 +1145,12 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
 (4A) If the proposal is a proposed policy statement, plan, or change prepared in accordance with any of the processes provided for in Schedule 1, the evaluation report must—
   (a) summarise all advice concerning the proposal received from iwi authorities under the relevant provisions of Schedule 1; and
   (b) summarise the response to the advice, including any provisions of the proposal that are intended to give effect to the advice.
-(5) The person who must have particular regard to the evaluation report must make the report available for public inspection—
-  (a) as soon as practicable after the proposal is made (in the case of a standard, regulation, national policy statement, or New Zealand coastal policy statement); or
-  (b) at the same time as the proposal is notified.
+(5) The person who must have particular regard to the evaluation report must make the report available for public inspection at the same time as the proposal is notified.
 (6) In this section,—
   - **objectives** means,—
     (a) for a proposal that contains or states objectives, those objectives:
     (b) for all other proposals, the purpose of the proposal
-  - **proposal** means a proposed standard, statement, national planning standard, regulation, plan, or change for which an evaluation report must be prepared under this Act
+  - **proposal** means a proposed regional policy statement, plan, or change for which an evaluation report must be prepared under this Act
   - **provisions** means,—
     (a) for a proposed plan or change, the policies, rules, or other methods that implement, or give effect to, the objectives of the proposed plan or change:
     (b) for all other proposals, the policies or provisions of the proposal that implement, or give effect to, the objectives of the proposal.
@@ -1161,15 +1161,15 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
   (b) must be undertaken in accordance with section 32(1) to (4); and
   (c) must, despite paragraph (b) and section 32(1)﻿(c), be undertaken at a level of detail that corresponds to the scale and significance of the changes; and
   (d) must—
-    (i) be published in an evaluation report that is made available for public inspection at the same time as the approved proposal (in the case of a national policy statement or a New Zealand coastal policy statement or a national planning standard), or the decision on the proposal, is notified; or
+    (i) be published in an evaluation report that is made available for public inspection at the same time as the decision on the proposal is notified; or
     (ii) be referred to in the decision-making record in sufficient detail to demonstrate that the further evaluation was undertaken in accordance with this section.
 (2) To avoid doubt, an evaluation report does not have to be prepared if a further evaluation is undertaken in accordance with subsection (1)﻿(d)﻿(ii).
-(3) In this section, proposal means a proposed statement, national planning standard, plan, or change for which a further evaluation must be undertaken under this Act.
+(3) In this section, proposal means a proposed regional policy statement, plan, or change for which a further evaluation must be undertaken under this Act.
 
 ### 32A Failure to carry out evaluation
-(1) A challenge to an objective, policy, rule, or other method on the ground that an evaluation report required under this Act has not been prepared or regarded, a further evaluation required under this Act has not been undertaken or regarded, or section 32 or 32AA has not been complied with may be made only in a submission under section 49, 149E, 149F, or 149O or under Schedule 1.
+(1) A challenge to an objective, policy, rule, or other method on the ground that an evaluation report required under this Act has not been prepared or regarded, a further evaluation required under this Act has not been undertaken or regarded, or section 32 or 32AA has not been complied with may be made only in a submission under section 149E, 149F, or 149O or under Schedule 1.
 (2) Subsection (1) does not prevent a person who is hearing a submission or an appeal on a proposal from having regard to the matters stated in section 32.
-(3) In this section, proposal means a proposed statement, national planning standard, plan, or change for which—
+(3) In this section, proposal means a proposed regional policy statement plan, or change for which—
   (a) an evaluation report must be prepared under this Act; or
   (b) a further evaluation must be undertaken under this Act.
 
@@ -1631,7 +1631,7 @@ An authority conducting a hearing on a matter described in section 39(1) may exe
 (6) In this section—
   (a) information includes any document or evidence:
   (b) local authority includes—
-    (i) a board of inquiry appointed under section 47 or 149J:
+    (i) a board of inquiry appointed under section 149J:
     (ia) a local board:
     (ii) a community board:
     (iii) a public body:
@@ -1900,18 +1900,26 @@ A national environmental standard for an activity that is a discharge may descri
 
 ### 44 Restriction on power to make national environmental standards
 (1) Before recommending the making of a national environmental standard to the Governor-General, the Minister must—
-  (a) comply with section 46A(3); and
-  (b) prepare an evaluation report for the standard in accordance with section 32; and
-  (c) have particular regard to that report when deciding whether to recommend the making of the standard; and
-  (d) publicly notify the report and recommendation made under section 46A(4)﻿(c) or 51(2), as the case requires.
+  (a) comply with section 46A(1); and
+  (b) publicly notify the report and recommendations made under section 46A(1)﻿(c).
+  (c)
+  (d)
 (2) For the purposes of subsection (1)﻿(a), the Minister—
-  (a) must consider a report and any recommendations made to the Minister under section 46A(4)﻿(c) or 51, as the case requires; and
+  (a) must consider a report and any recommendations made to the Minister under section 46A(1)﻿(c); and
   (b) may make any changes, or no changes, to the proposed national environmental standard as the Minister thinks fit.
 (2)
-(3) The Minister need not follow the steps in section 46A if the Minister is recommending the making of an amendment—
-  (a) that has no more than a minor effect; or
-  (b) that corrects errors or makes similar technical alterations.
+(3) The Minister need not follow the process referred to in section 46A if the Minister is recommending the making of an amendment for 1 of the following reasons:
+  (a) to align with a New Zealand Standard within the meaning of section 4 of the Standards and Accreditation Act 2015:
+  (b) to implement New Zealand’s obligations under any international convention, protocol, or agreement to which New Zealand is a party:
+  (c) to give effect to provisions in an emissions reduction plan or national adaptation plan:
+  (d) to extend the time frame for implementation of any part of a national environmental standard:
+  (e) to remove provisions in a national environmental standard that are no longer required as a consequence of changes to legislation:
+  (f) to make changes that are no more than minor in effect, to correct errors, or to make similar technical alterations.
+(4) The Minister must,—
+  (a) before recommending an amendment for a reason specified in subsection (3), consider whether it is more appropriate to follow the process referred to in section 46A to make the amendment; and
+  (b) as soon as practicable after making the amendment under subsection (3), publish their reasons for the amendment on an internet site to which the public have access.
 (4)
+(5) An amendment under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 44A Local authority recognition of national environmental standards
 (1) Subsections (3) to (5) apply if a local authority's plan or proposed plan contains a rule that duplicates a provision in a national environmental standard.
@@ -1975,102 +1983,55 @@ A national environmental standard for an activity that is a discharge may descri
 ### 46 Proposed national policy statement
 [Repealed]
 
-### 46A Single process for preparing national directions
-(1) This section and sections 47 to 51 set out the requirements for preparing a national direction.
-(2) In this section and sections 46B to 51, national direction means both or either of the following documents:
-  (a) a national environmental standard:
-  (b) a national policy statement.
-(3) If the Minister proposes to issue a national direction, the Minister must either—
-  (a) follow the requirements set out in sections 47 to 51; or
-  (b) establish and follow a process that includes the steps described in subsection (4).
-(4) The steps required in the process established under subsection (3)﻿(b) must include the following:
+### 46A Process for preparing national environmental standards and national policy statements
+(1) If the Minister proposes to issue a national environmental standard or national policy statement, the Minister must establish and follow a process that includes the following steps:
   (a) the public and iwi authorities must be given notice of—
-    (i) the proposed national direction; and
-    (ii) why the Minister considers that the proposed national direction is consistent with the purpose of the Act; and
-  (b) those notified must be given adequate time and opportunity to make a submission on the subject matter of the proposed national direction; and
-  (c) a report and recommendations must be made to the Minister on the submissions and the subject matter of the national direction; and
-  (d) the matters listed in section 51(1) must be considered as if the references in that provision to a board of inquiry were references to the person who prepares the report and recommendations.
-(5) In preparing a national direction, the Minister may, at any time, consult on a draft national direction.
-(6) When choosing between subsection (3)﻿(a) and (b), the Minister may consider—
-  (a) the advantages and disadvantages of preparing the proposed national direction quickly:
-  (b) the extent to which the proposed national direction differs from—
-    (i) other national environmental standards:
-    (ii) other national policy statements:
-    (iii) regional policy statements:
-    (iv) plans:
-  (c) the extent and timing of public debate and consultation that took place before the proposed national direction was prepared:
-  (d) any other relevant matter.
-(7) If the Minister decides, after consulting as required by subsection (3), to recommend that regulations on the same subject matter as that consulted on be made under any of sections 360 to 360C, the consultation under subsection (3) satisfies the requirement to consult the public and iwi authorities in relation to those regulations.
-(8)
+    (i) the proposed national environmental standard or national policy statement (the proposal); and
+    (ii) why the Minister considers that the proposal is consistent with the purpose of this Act; and
+  (b) those notified must, subject to subsection (2), be given what the Minister considers to be adequate time and opportunity to make a submission on the subject matter of the proposal; and
+  (c) a report and recommendations must be made to the Minister on the submissions and the subject matter of the proposal.
+(2) The time given for submissions under subsection (1)﻿(b) must not be less than 20 working days.
+(3) A person preparing a report and recommendations required by subsection (1)﻿(c) must consider the matters in Part 2.
+(4) In preparing a national environmental standard or national policy statement, the Minister may, at any time, consult on a draft of that document.
+(5) If the Minister decides, after consulting as required by subsection (1), to recommend that regulations on the same subject matter as that consulted on be made under any of sections 360 to 360C, the consultation under subsection (1) satisfies the requirement to consult the public and iwi authorities in relation to those regulations.
 
-### 46B Incorporation of material by reference in national direction
-A national direction may incorporate material by reference under Schedule 1AA.
+### 46B Incorporation of material by reference in national environmental standard or national policy statement
+A national environmental standard or national policy statement may incorporate material by reference under Schedule 1AA.
 
 ### 47 Board of inquiry
-(1) The Minister must appoint a board of inquiry to inquire into, and report on, the proposed national direction.
-(2) The Minister may, as the Minister sees fit,—
-  (a) set terms of reference for the board of inquiry; and
-  (b) set the rate of remuneration to be paid to members of the board of inquiry.
-(3) A member of the board of inquiry is not liable for anything the member does, or omits to do, in good faith in performing or exercising the functions, duties, and powers of the board.
+[Repealed]
 
 ### 47A Board of inquiry to suspend consideration or consider additional material
-(1) The Minister may, at any time before a board of inquiry reports to the Minister under section 51(2), do either or both of the following:
-  (a) direct the board to suspend its inquiry for a specified period or until a specified event occurs (for example, until the Minister provides the board with additional material):
-  (b) provide the board with additional material to consider.
-(2) The Minister must give public notice of a direction under subsection (1)﻿(a), including the reasons for the direction.
-(3) A board of inquiry must suspend its inquiry in accordance with a direction under subsection (1)﻿(a).
+[Repealed]
 
 ### 48 Public notification of proposal for national direction and inquiry
-(1) As soon as practicable after its appointment, a board of inquiry must ensure that—
-  (a) public notice of the proposed national direction and inquiry is given; and
-  (b) a copy of the short summary of the notice referred to in section 2AB(1)﻿(b), along with details of the Internet site where the notice can be accessed, is published in a daily newspaper in each of the cities of Auckland, Wellington, Christchurch, and Dunedin.
-(2) Every notice for the purposes of this section shall be in the prescribed form and shall state—
-  (a) a description of the proposed national direction; and
-  (ab) places at which the proposed national direction may be inspected or purchased; and
-  (b) that submissions on the proposed national direction may be made in writing by any person; and
-  (c) the closing date for submissions (which shall be not earlier than 20 working days after public notification).
+[Repealed]
 
 ### 49 Submissions to board of inquiry
-(1) Any person may make a submission to the board of inquiry about a proposed national direction which is notified in accordance with section 48.
-(2) Every submission shall be in writing, shall be served on the board of inquiry, and shall state whether or not the person making the submission wishes to be heard in respect of the submission, and shall also state any other matter prescribed in regulations made under this Act.
+[Repealed]
 
 ### 50 Conduct of hearing
-(1) Sections 39 to 42A apply, with all necessary modifications, in respect of an inquiry by a board of inquiry into a proposed national direction as if every reference in those sections to—
-  (a) a consent authority or local authority were a reference to a board of inquiry; and
-  (b) a proposed direction were a reference to a proposed national direction.
-(2) The board of inquiry must give at least 10 working days' notice of the dates, times, and place of the hearing of the inquiry.
-(3) The Minister has the right to be heard at the hearing, despite anything in sections 39 to 42.
-(4) To avoid doubt, subsection (3) does not limit the right of other persons to be heard under section 40.
+[Repealed]
 
 ### 51 Matters to be considered and board of inquiry's report
-(1) The board of inquiry must consider the following matters:
-  (a) the matters in Part 2; and
-  (b) the proposed national direction; and
-  (c) any submissions received on the proposed national direction; and
-  (ca) if applicable, any additional material provided by the Minister under section 47A(1)﻿(b); and
-  (d) any evidence received; and
-  (da)
-  (e) any other relevant matter.
-(2) After considering the matters, the board of inquiry must arrange for a report and recommendations to be made to the Minister within any terms of reference set by the Minister.
+[Repealed]
 
 ### 51A Withdrawal of proposed national policy statement
 (1) The Minister may withdraw all or part of a proposed national policy statement at any time before the statement is approved under section 52(2).
 (2) The Minister must give public notice of the withdrawal, including the reasons for the withdrawal.
-(3) If a board of inquiry has not reported to the Minister under section 51(2) before public notice is given—
-  (a) withdrawing all matters the board was appointed to inquire into, the board is discharged on and from the date of the notice; or
-  (b) withdrawing any, but not all, of the matters the board was appointed to inquire into, the board must inquire into and report on only the matters that have not been withdrawn, despite any other section of this Act.
+(3)
 
 ### 52 Consideration of recommendations and approval or withdrawal of statement
-(1) In the case of a national policy statement, whether made in accordance with section 46A(3)﻿(a) or (b), the Minister—
-  (a) first, must consider a report and any recommendations made to them by a board of inquiry under section 46A(4)﻿(c) or 51, as the case requires; and
+(1) In the case of a national policy statement, the Minister—
+  (a) first, must consider a report and any recommendations made under section 46A(1)﻿(c); and
   (b) secondly, may—
     (i) make any changes, or no changes, to the proposed national policy statement as he or she thinks fit; or
-    (ii) withdraw all or part of the proposed national policy statement and give public notice of the withdrawal, including the reasons for the withdrawal; and
-  (c) thirdly, must undertake an evaluation of the proposed national policy statement in accordance with section 32 and have particular regard to that evaluation when deciding whether to recommend the statement.
+    (ii) withdraw all or part of the proposed national policy statement and give public notice of the withdrawal, including the reasons for the withdrawal.
+  (c)
 (2) The Governor-General in Council may, on the recommendation of the Minister, approve a national policy statement.
 (3) The Minister must, as soon as practicable after a national policy statement has been approved,—
   (a) issue the statement by having it published under the Legislation Act 2019; and
-  (b) publicly notify the statement and the report in whatever form he or she thinks appropriate and send a copy to every local authority; and
+  (b) publicly notify the statement and the report made under section 46A(1)﻿(c) in whatever form he or she thinks appropriate and send a copy to every local authority; and
   (c) provide every person who made a submission on the statement with a summary of the recommendations and a summary of the Minister’s decision on the recommendations (including reasons for not adopting any recommendations).
   (d)
 (4) A national policy statement under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -2079,9 +2040,11 @@ A national direction may incorporate material by reference under Schedule 1AA.
   (b) the national policy statement were made when the Order in Council under subsection (2) is made.
 
 ### 53 Changes to or review or revocation of national policy statements
-(1) The Minister may review, change, or revoke a national policy statement after using one of the processes referred to in section 46A(1) in relation to the preparation of a national policy statement.
-(2) The Minister may, without using a process referred to in subsection (1),—
-  (a) amend a national policy statement if the amendment is of minor effect or corrects a minor error:
+(1) The Minister may review, change, or revoke a national policy statement after following the process referred to in section 46A.
+(2) The Minister may, without following the process referred to in section 46A,—
+  (a) amend a national policy statement if the Minister is recommending the amendment for a reason specified in section 44(3), in which case,—
+    (i) section 44(3) applies as if a reference to a national environmental standard were a reference to a national policy statement; and
+    (ii) the Minister must comply with section 44(4); or
   (b) amend the NPS-UD in accordance with section 77S(2).
 (2A)
 (3) A change, revocation, or amendment under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -2122,7 +2085,7 @@ A national direction may incorporate material by reference under Schedule 1AA.
 The purpose of a New Zealand coastal policy statement is to state objectives and policies in order to achieve the purpose of this Act in relation to the coastal environment of New Zealand.
 
 ### 57 Preparation of New Zealand coastal policy statements
-(1) There shall at all times be at least 1 New Zealand coastal policy statement prepared, recommended, and issued by the Minister of Conservation using one of the processes referred to in section 46A(3), as if references in sections 46 to 52 to the Minister were references to the Minister of Conservation and references to a national policy statement were references to a New Zealand coastal policy statement.
+(1) There shall at all times be at least 1 New Zealand coastal policy statement prepared, recommended, and issued by the Minister of Conservation after following the process referred to in section 46A as if references in that section to the Minister were references to the Minister of Conservation and references to a national policy statement were references to a New Zealand coastal policy statement.
 (2) Sections 53, 54, and 55, with all necessary modifications, apply to a New Zealand coastal policy statement as if it were a national policy statement and as if references in those sections to the Minister were references to the Minister of Conservation.
 (3) For the status under the Legislation Act 2019 of—
   (a) a New Zealand coastal policy statement, see section 52(4):
@@ -2197,17 +2160,14 @@ The purpose of a New Zealand coastal policy statement is to state objectives and
   (e) any other matter that is relevant to the purpose of the national planning standard.
 (3) Before approving a national planning standard, the Minister must—
   (a) prepare a draft national planning standard; and
-  (b) prepare an evaluation report in accordance with section 32 and have particular regard to that report before deciding whether to publicly notify the draft; and
+  (b)
   (c) publicly notify the draft; and
   (d) establish a process that—
     (i) the Minister considers gives the public, local authorities, and iwi authorities adequate time and opportunity to make a submission on the draft; and
     (ii) requires a report and recommendations to be made to the Minister on those submissions and the subject matter of the draft.
 
 ### 58E Approval of national planning standard
-(1) Before approving a national planning standard, the Minister must—
-  (a) consider the report and recommendations made under section 58D(3)﻿(d)﻿(ii); and
-  (aa)
-  (b) carry out a further evaluation of the draft national planning standard in accordance with section 32AA and have particular regard to that evaluation when deciding whether to approve the national planning standard.
+(1) Before approving a national planning standard, the Minister must consider the report and recommendations made under section 58D(3)﻿(d)﻿(ii).
 (2) The Minister may—
   (a) approve a national planning standard after changing the draft in the manner that the Minister thinks fit; or
   (b) withdraw all or part of a draft national planning standard and give public notice of the withdrawal, including the reasons for the withdrawal.
@@ -2231,7 +2191,9 @@ The purpose of a New Zealand coastal policy statement is to state objectives and
 
 ### 58H Changing, replacing, or revoking national planning standards
 (1) The Minister may change or replace a national planning standard, following the process set out in sections 58D and 58E.
-(2) If a change to a national planning standard has not more than a minor effect or corrects errors or makes similar technical alterations, the Minister may make the change without following the process set out in sections 58D and 58E.
+(2) The Minister need not follow the process set out in sections 58D and 58E if the Minister is recommending a change to a national planning standard for a reason specified in section 44(3), in which case,—
+  (a) section 44(3) applies as if a reference to section 46A were a reference to sections 58D and 58E and a reference to a national environmental standard were a reference to a national planning standard; and
+  (b) the Minister must comply with section 44(4) (which applies as if a reference to section 46A were a reference to sections 58D and 58E and a reference to an amendment were a reference to a change).
 (2A) The Minister may change the period for compliance specified in standards 17.2.a and 17.8.a of the National Planning Standards 2019 from 3 years to 5 years without following the process set out in sections 58D and 58E, other than to give notice of the change in the Gazette and on the Internet site referred to in section 58F(2).
 (2B)
 (3) The Minister may revoke a national planning standard in whole or in part, but must first give the public and iwi authorities notice, with adequate time and opportunity to comment on the proposed revocation.
@@ -3017,6 +2979,36 @@ A matter is not a qualifying matter under section 77O(j) in relation to an area 
 ### 77T Review of financial contributions provisions
 Each specified territorial authority may, if it considers it appropriate to do so, include financial contributions provisions, or change its financial contributions provisions (as applicable) in the district plan, and, if it does so, may notify them in the IPI required to be notified in accordance with section 80F.
 
+**Certain provisions of NPSIB 2023 suspended for 3-year period**
+
+### 78 Time-limited modifications to NPSIB 2023
+(1) In this section,—
+  - **3-year period** means the period that—
+    (a) commences on the date on which the Resource Management (Freshwater and Other Matters) Amendment Act 2024 comes into force; and
+    (b) expires on the date that is 3 years after that date
+  - **commencement** means the date on which the Resource Management (Freshwater and Other Matters) Amendment Act 2024 comes into force
+  - **NPSIB SNA** means a significant natural area as defined in clause 1.6 of the NPSIB 2023.
+(2) The following provisions of the NPSIB 2023 do not apply during the 3-year period:
+  (a) clause 2.2, Policy 6 (which requires a consistent approach in identifying significant indigenous vegetation and significant habitats of indigenous fauna as NPSIB SNAs):
+  (b) clause 3.8(1), (6), and (8) (which requires a territorial authority to conduct assessments to identify areas of significant indigenous vegetation and significant habitats of indigenous fauna that qualify as NPSIB SNAs):
+  (c) clause 3.9(1) (which requires a territorial authority to notify a plan or plan change to include areas identified as qualifying as NPSIB SNAs):
+  (d) clause 3.9(3) (which requires that a local authority must, when doing its 10-yearly plan review, assess its district in accordance with clause 3.8(1) and (2) to determine whether changes are needed).
+(3) Clause 4.1(1) of the NPSIB 2023 (which requires a local authority to give effect to the NPSIB 2023 as soon as reasonably practicable)—
+  (a) does not apply during the 3-year period in relation to clause 3.8(5) of the NPSIB 2023 and the provisions of the NPSIB 2023 specified in subsection (2); but
+  (b) continues to apply in relation to the other provisions of the NPSIB 2023.
+(4) This section does not affect—
+  (a) any function or requirement under other provisions of this Act relating to indigenous biological diversity, areas of significant indigenous vegetation, or areas of significant habitats of indigenous fauna; or
+  (b) any obligations of local authorities and other decision makers under this Act to give effect to provisions in policy statements and plans relating to indigenous biological diversity.
+(5) However, if, during the 3-year period, a new area of significant indigenous vegetation or significant habitat of indigenous fauna is included in a proposed policy statement, proposed plan, or change,—
+  (a) the new area is not an NPSIB SNA regardless of how it is described in that document; and
+  (b) the NPSIB 2023 does not apply to the new area.
+(6) This section does not affect—
+  (a) any NPSIB SNA included in a policy statement, proposed policy statement, plan, proposed plan, or change before commencement (see also clause 40 of Schedule 12); or
+  (b) any of the following matters that commenced but were not completed before commencement (see also clause 40 of Schedule 12):
+    (i) a proposed policy statement, proposed plan, or change (a planning process) that has been notified under Schedule 1; and
+    (ii) the identification, modification, or removal of an area to give effect to decisions on that planning process.
+(7) This section is repealed on the close of the date of expiry of the 3-year period.
+
 **Miscellaneous provisions**
 
 ### 78 Withdrawal of proposed policy statements and plans
@@ -3109,11 +3101,15 @@ Each specified territorial authority may, if it considers it appropriate to do s
 (3) A regional council must prepare a freshwater planning instrument in accordance with this subpart and Part 4 of Schedule 1.
 (4) A regional council must—
   (a) publicly notify the freshwater planning instrument; and
-  (b) if the purpose of the freshwater planning instrument is to give effect to the National Policy Statement for Freshwater Management 2020, publicly notify the freshwater planning instrument by 31 December 2027; and
+  (b) if the purpose of the freshwater planning instrument is to give effect to the National Policy Statement for Freshwater Management 2020, publicly notify the freshwater planning instrument by 31 December 2027 and comply with subsection (4A); and
   (c) no later than 6 months after it has publicly notified the freshwater planning instrument, submit the documents required by clause 37(1) of Schedule 1 (the required documents) to the Chief Freshwater Commissioner; and
   (d) at least 20 working days before submitting the required documents, provide to the Chief Freshwater Commissioner in writing—
     (i) its notice of intention to submit those documents; and
     (ii) the regional council and local tangata whenua nominations for appointment to the freshwater hearings panel required by clause 59(1)﻿(b) and (c) of Schedule 1.
+(4A) If the purpose of the freshwater planning instrument is to give effect to the National Policy Statement for Freshwater Management 2020, a regional council must not publicly notify the freshwater planning instrument earlier than the sooner of the following dates:
+  (a) the date on which a new national policy statement for freshwater management (replacing the National Policy Statement for Freshwater Management 2020) is published under section 54:
+  (b) 31 December 2025.
+(4B) However, see clause 42 of Schedule 12, which allows for an exemption from subsection (4A).
 (5) The following is an outline of the rest of the freshwater planning process set out in Part 4 of Schedule 1:
   (a) the Chief Freshwater Commissioner must convene a freshwater hearings panel to conduct the public hearing of submissions on the freshwater planning instrument:
   (b) the freshwater hearings panel must conduct the public hearing of submissions in accordance with its powers and the procedures set out in Part 4 of Schedule 1:
@@ -3971,6 +3967,7 @@ The period described in section 103(4) of the Urban Development Act 2020 is excl
   (a) the activity for which the resource consent is sought may, in the authority's opinion, have a significant adverse environmental effect; and
   (b) the applicant is notified before the authority commissions the report; and
   (c) the applicant does not refuse, under section 92B(1), to agree to the commissioning of the report.
+(2A) However, a consent authority must not request further information nor commission a report on clause 1.3(5) or 2.1 of the NPSFM 2020 (which relates to the hierarchy of obligations in the NPSFM 2020).
 (3) The consent authority must notify the applicant, in writing, of its reasons for—
   (a) requesting further information under subsection (1); or
   (b) wanting to commission a report under subsection (2).
@@ -4309,6 +4306,8 @@ A hearing need not be held in accordance with this Act in respect of an applicat
 (2E) When considering a resource consent application that relates to a stormwater network, as defined in section 5 of the Water Services Act 2021, a consent authority—
   (a) must not grant the consent contrary to a stormwater environmental performance standard made under section 139A of that Act; and
   (b) must include, as a condition of granting the consent, requirements that are no less restrictive than is necessary to give effect to the stormwater environmental performance standard.
+(2F) When considering an application and any submissions received, a consent authority must not have regard to clause 1.3(5) or 2.1 of the NPSFM 2020 (which relates to the hierarchy of obligations in the NPSFM 2020).
+(2G) Subsection (2F) applies despite subsection (1)﻿(b)﻿(iii) and any other provision of this Act.
 (3) A consent authority must not,—
   (a) when considering an application, have regard to—
     (i) trade competition or the effects of trade competition; or
@@ -4391,7 +4390,7 @@ When considering an application for a resource consent, the consent authority mu
   (b) of a type that could be imposed under section 108.
 
 ### 107 Restriction on grant of certain discharge permits
-(1) Except as provided in subsection (2), a consent authority shall not grant a discharge permit or a coastal permit to do something that would otherwise contravene section 15 or section 15A allowing—if, after reasonable mixing, the contaminant or water discharged (either by itself or in combination with the same, similar, or other contaminants or water), is likely to give rise to all or any of the following effects in the receiving waters:
+(1) Except as provided in subsection (2) or (2A), a consent authority shall not grant a discharge permit or a coastal permit to do something that would otherwise contravene section 15 or section 15A allowing—if, after reasonable mixing, the contaminant or water discharged (either by itself or in combination with the same, similar, or other contaminants or water), is likely to give rise to all or any of the following effects in the receiving waters:
   (a) the discharge of a contaminant or water into water; or
   (b) a discharge of a contaminant onto or into land in circumstances which may result in that contaminant (or any other contaminant emanating as a result of natural processes from that contaminant) entering water; or
   (ba) the dumping in the coastal marine area from any ship, aircraft, or offshore installation of any waste or other matter that is a contaminant,—
@@ -4404,6 +4403,10 @@ When considering an application for a resource consent, the consent authority mu
   (a) that exceptional circumstances justify the granting of the permit; or
   (b) that the discharge is of a temporary nature; or
   (c) that the discharge is associated with necessary maintenance work—
+(2A) A consent authority may grant a discharge permit or a coastal permit to do something that would otherwise contravene section 15 or 15A that may allow the effects described in subsection (1)﻿(g) if the consent authority—
+  (a) is satisfied that, at the time of granting, there are already effects described in subsection (1)﻿(g) in the receiving waters; and
+  (b) imposes conditions on the permit; and
+  (c) is satisfied that those conditions will contribute to a reduction of the effects described in subsection (1)﻿(g) over the duration of the permit.
 (3) In addition to any other conditions imposed under this Act, a discharge permit or coastal permit may include conditions requiring the holder of the permit to undertake such works in such stages throughout the term of the permit as will ensure that upon the expiry of the permit the holder can meet the requirements of subsection (1) and of any relevant regional rules.
 
 ### 107A Restrictions on grant of resource consents
@@ -8141,7 +8144,7 @@ In this Part, unless the context otherwise requires,—
 ### 217C Application of this Part
 (1) This Part applies only—
   (a) to a region, district, or part of New Zealand specified in an Order in Council under this section; and
-  (b) on and from the date specified in the Order in Council.
+  (b) on and from the date specified in the Order in Council (but see section 217CA, which relates to when this Part ceases to apply).
 (2) The Governor-General may, by Order in Council, on the recommendation of the Minister, determine—
   (a) that this Part applies to a specified district, region, or part of New Zealand; and
   (b) the date on which this Part applies to that district, region, or part of New Zealand.
@@ -8152,6 +8155,15 @@ In this Part, unless the context otherwise requires,—
   (a) be satisfied that regulations are necessary to achieve the purpose of this Part in the specified district, region, or part of New Zealand; and
   (b) consult the Minister of Agriculture.
 (4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 217CA When this Part ceases to apply
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister, amend an Order in Council under section 217C to—
+  (a) cease the application of this Part to a district, region, or part of New Zealand specified in that Order in Council; and
+  (b) provide for the date on which this Part ceases to apply to the specified district, region, or part of New Zealand.
+(2) Before making a recommendation under subsection (1), the Minister must—
+  (a) be satisfied that regulations are no longer necessary to achieve the purpose of this Part in the specified district, region, or part of New Zealand; and
+  (b) consult the Minister of Agriculture.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 217D Farm must have certified freshwater farm plan if it meets land use threshold
 (1) A farm must have a certified freshwater farm plan if—
@@ -10483,7 +10495,7 @@ All rents, royalties, and other sums of money which the holders of resource cons
       (BA) a national planning standard; and
       (C) any regional policy statement; and
     (iv) the regional coastal plan as amended by the proposed regulations will not duplicate or conflict with any national environmental standard; and
-  (d) has prepared an evaluation report for the proposed regulations in accordance with section 32 and had particular regard to that report when deciding whether to recommend the making of the regulations; and
+  (d)
   (e) has considered any content in a relevant planning document—
     (i) that has been lodged under section 91A of the Marine and Coastal Area (Takutai Moana) Act 2011 or lodged with the regional council under section 86 of that Act; and
     (ii) that the Minister considers relevant to their decision whether to recommend the making of the regulations; and
@@ -13141,6 +13153,8 @@ Any information required by this schedule, including an assessment under clause 
   (a) any relevant objectives, policies, or rules in a document; and
   (b) any relevant requirements, conditions, or permissions in any rules in a document; and
   (c) any other relevant requirements in a document (for example, in a national environmental standard or other regulations).
+(2A) An assessment required by subclauses (1)﻿(g) and (2) must not include an assessment of the activity against clause 1.3(5) or 2.1 of the NPSFM 2020 (which relates to the hierarchy of obligations in the NPSFM 2020).
+(2B) Subclause (2A) applies despite subclauses (1)﻿(g) and (2) and any other provision of this Act.
 (3) An application must also include an assessment of the activity's effects on the environment that—
   (a) includes the information required by clause 6; and
   (b) addresses the matters specified in clause 7; and
@@ -13550,6 +13564,84 @@ In this Part,—
 
 ### 42 Submitters’ appeal rights restricted for limited notified affected resource consent application
 [Repealed]
+
+### Part 7 — Provisions relating to Resource Management (Freshwater and Other Matters) Amendment Act 2024
+
+### 39 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **amendment Act** means the Resource Management (Freshwater and Other Matters) Amendment Act 2024
+  - **commencement** means the date on which the amendment Act comes into force
+  - **specified provisions relating to the NPSFM 2020** means—
+    (a) section 92(2A); and
+    (b) section 104(2F) and (2G); and
+    (c) clause 2(2A) and (2B) of Schedule 4.
+
+### 40 Effect of certain amendments on significant natural areas before commencement
+(1) The NPSIB 2023, as it was immediately before commencement but subject to the specified amendments, continues to apply in respect of an NPSIB SNA described in section 78(6)﻿(a) or any matter described in section 78(6)﻿(b).
+(2) In this clause, specified amendments means the amendments made by section 30 and Schedule 2 of the amendment Act to—
+  (a) clause 3.8(5) of the NPSIB 2023:
+  (b) clause 3.11(1)﻿(a)﻿(ii) and (iv) of the NPSIB 2023:
+  (c) clause 4.2 of the NPSIB 2023.
+
+### 41 Retrospective application of clause 42 and amendments to section 80A
+Clause 42 of this schedule and the amendments to section 80A made by section 21 of the amendment Act apply on and from 22 October 2024 as if they were in force on and from that date.
+
+### 42 Exemption from requirement to notify freshwater planning instrument no earlier than specified date
+(1) The Minister may, on written application by a regional council, exempt the council from the requirement to comply with section 80A(4A) in relation to all or part of the council’s draft freshwater planning instrument if the Minister is satisfied that the instrument or any part of the instrument—
+  (a) is required to—
+    (i) progress flood protection or flood remediation work; or
+    (ii) prevent or mitigate risks from natural hazards; or
+    (iii) progress housing development; or
+  (b) relates to the provision, operation, or maintenance of—
+    (i) regionally or nationally significant infrastructure, including large hydroelectric power schemes; or
+    (ii) municipal drinking water, stormwater, or wastewater; or
+  (c) is required to give effect to Treaty settlement obligations; or
+  (d) is required, during the relevant period, to address any provisions in a plan or policy statement that—
+    (i) have unintended consequences; or
+    (ii) are unworkable or lead to inefficient outcomes; or
+  (e) is required because of changes in a national direction or to this Act that occur during the relevant period; or
+  (f) is required for any other reason the Minister considers appropriate.
+(2) When applying for an exemption, a regional council must—
+  (a) include an up-to-date copy of the draft freshwater planning instrument that it intends to publicly notify; and
+  (b) if applicable, identify the parts of the draft freshwater planning instrument for which the exemption is sought.
+(3) If the Minister decides to grant an exemption, they must give written notice of the decision to the regional council and, if applicable, specify the relevant parts of the draft freshwater planning instrument that are exempted.
+(4) If the Minister decides not to grant an exemption, they must give written notice to the regional council of the decision and include reasons.
+(5) In this clause,—
+  - **national direction** has the meaning given in section 80B(3)
+  - **relevant period** means the period starting on 22 October 2024 and ending on the sooner of the following dates:
+    (a) the date on which a new national policy statement for freshwater management (replacing the National Policy Statement for Freshwater Management 2020) is published under section 54:
+    (b) 31 December 2025
+  - **Treaty settlement obligations** has the meaning given in section 9 of the Urban Development Act 2020.
+
+### 43 Specified provisions relating to NPSFM 2020
+The specified provisions relating to the NPSFM 2020 apply to an application for a resource consent that is lodged with a consent authority—
+  (a) on or after commencement; or
+  (b) before commencement if the consent authority has not, before commencement, served notice of its decision on the application.
+
+### 44 Repeal of specified provisions relating to NPSFM 2020 by Order in Council
+(1) The Governor-General in Council may, on the recommendation of the Minister, repeal the specified provisions relating to the NPSFM 2020.
+(2) The Minister must make a recommendation under this clause when recommending the approval of a new national policy statement under section 52 to replace the NPSFM 2020.
+(3) An Order in Council under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 45 Effect of certain amendments on applications for resource consents
+(1) The amendments affecting coal mining apply to an application for a resource consent that is lodged with a consent authority—
+  (a) on or after commencement; or
+  (b) before commencement if the consent authority has not, before commencement, served notice of its decision on the application.
+(2) In this clause, amendments affecting coal mining means the amendments made by section 30 and Schedule 2 of the amendment Act to—
+  (a) regulation 45D(7) and (8) of the Resource Management (National Environment Standards for Freshwater) Regulations 2020:
+  (b) clause 3.22(1)﻿(e)﻿(i) of the NPSFM 2020:
+  (c) clause 3.11(1)﻿(a)﻿(ii) and (iv) of the NPSIB 2023.
+
+### 46 Effect of amendments to section 107 on applications for discharge or coastal permits
+The amendments made to section 107 by section 24 of the amendment Act apply to an application for a discharge permit or coastal permit that is lodged with a consent authority—
+  (a) on or after commencement; or
+  (b) before commencement if—
+    (i) the consent authority has not, before commencement, served notice of its decision on the application; or
+    (ii) the consent authority’s decision on the application was the subject of judicial review proceedings and was referred back to the consent authority for reconsideration, as long as the consent authority has not, before commencement, served notice of that decision.
+
+### 47 Part 9A ceases to apply to specified districts, regions, and parts of New Zealand
+(1) Part 9A ceases, on commencement, to apply to any district, region, or part of New Zealand specified in the Resource Management (Application of Part 9A—Freshwater Farm Plans) Order 2023.
+(2) Any freshwater farm plans that, before commencement, have been certified or audited under Part 9A cease to have effect.
 
 ### 1 Title
 (1) This Act is the Resource Management Amendment Act 2003.
