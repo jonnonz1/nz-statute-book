@@ -1,5 +1,5 @@
 # Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2024-10-25_
 
 ### 1 Title
 This Act is the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019.
@@ -370,7 +370,7 @@ For the purposes of sections 45(4)﻿(b), 56(5)﻿(b)﻿(ii), 58(1), and 59(1)�
 ### 31 Effect on other resource management documents
 (1) The Minister for the Environment must consider the environmental covenant when preparing a proposed national environmental standard (as defined by section 2 of the Resource Management Act 1991) that directly affects ngā rohe moana.
 (2) A board of inquiry appointed under section 47 of the Resource Management Act 1991 to inquire into a proposed national policy statement that directly affects ngā rohe moana must treat the environmental covenant as a relevant matter for the purposes of section 51(1)﻿(e) of that Act.
-(3) Any other person who, under a process established under section 46A(3)﻿(b) of the Resource Management Act 1991, prepares a report and recommendations for a proposed national policy statement that directly affects ngā rohe moana must treat the environmental covenant as a relevant matter for the purposes of section 51(1)﻿(e) of that Act.
+(3) A person who, under a process established under section 46A of the Resource Management Act 1991, prepares a report and recommendations for a proposed national policy statement that directly affects ngā rohe moana must consider the environmental covenant.
 
 ### 32 Effect on decisions under Heritage New Zealand Pouhere Taonga Act 2014
 (1) This section applies if an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 in relation to a site or locality within ngā rohe moana o ngā hapū o Ngāti Porou.
