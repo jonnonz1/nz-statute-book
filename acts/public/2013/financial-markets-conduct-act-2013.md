@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2024-03-16_
+_Consolidation as at 2024-10-27_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -94,6 +94,7 @@ This Act has the following additional purposes:
   - **applicable climate standard** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
   - **application** , in relation to financial products, includes an offer to acquire the financial products whether in writing or otherwise
   - **associated person** or has the meaning set out in section 12(1)
+  - **assurance practitioner** , in Part 7A, means a person who is appointed to carry out an assurance engagement under that Part
   - **audio or visual service** means an audio or visual service provided to users of the service by means of telecommunications
   - **authorised body** , in relation to a market services licence, means an entity that is authorised under section 400 to provide a market service under the licence
   - **authoritative notice** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
@@ -5313,6 +5314,7 @@ An auditor must, in carrying out an audit for the purposes of section 461D, comp
 (1) This Part provides for climate reporting entities to—
   (a) keep proper records relating to their obligations to make climate-related disclosures; and
   (b) prepare climate statements; and
+  (ba) to the extent that those statements are required to disclose greenhouse gas emissions, obtain an assurance engagement in relation to those statements; and
   (c) lodge those statements.
 (2) This section is only a guide to the general scheme and effect of this Part.
 
@@ -5420,8 +5422,12 @@ Nothing in this Part requires a climate reporting entity to ensure the completio
 ### Subpart 2 — CRD records
 
 ### 461V Climate reporting entities must keep proper CRD records
-(1) Every climate reporting entity under section 461O(1) must ensure that there are kept at all times records that will enable the climate reporting entity to ensure that the climate statements of the climate reporting entity comply with the climate-related disclosure framework.
-(2) Every manager that is a climate reporting entity in respect of a registered scheme must ensure that there are kept at all times records that will enable the manager to ensure that the climate statements relating to the registered scheme comply with the climate-related disclosure framework.
+(1) Every climate reporting entity under section 461O(1) must ensure that there are kept at all times records that will enable—
+  (a) the climate reporting entity to ensure that the climate statements of the climate reporting entity comply with the climate-related disclosure framework; and
+  (b) the assurance engagement required by section 461ZH to be readily and properly carried out.
+(2) Every manager that is a climate reporting entity in respect of a registered scheme must ensure that there are kept at all times records that will enable—
+  (a) the manager to ensure that the climate statements relating to the registered scheme comply with the climate-related disclosure framework; and
+  (b) the assurance engagement required by section 461ZH to be readily and properly carried out.
 (3) Every climate reporting entity must establish and maintain a satisfactory system of control of the records that it is required to keep under this section.
 (4) In this section,—
   - **climate statements of the climate reporting entity** means the climate statements or group climate statements that are required to be prepared under any of sections 461Z to 461ZB
@@ -5521,15 +5527,61 @@ Nothing in this Part prevents any of the following from being combined in a sing
 
 ### Subpart 4 — Assurance engagements
 
-### 461ZH No requirement for assurance of climate statements on commencement of Part
-(1) A climate reporting entity is not required to obtain an assurance engagement in relation to the climate statements or group climate statements that are required to be prepared under any of sections 461Z to 461ZC.
-(2) See Part 2 of the Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021, which sets out assurance requirements to apply from a later date.
+### 461ZH Assurance engagement required for parts of climate statements relating to greenhouse gas emissions
+(1) Every climate reporting entity must ensure that the climate statements or group climate statements that are required to be prepared under any of sections 461Z to 461ZC are, to the extent that those statements are required to disclose greenhouse gas emissions, the subject of an assurance engagement.
+(2) None of the following persons may carry out the assurance engagement:
+  (a) a director, an officer, or an employee of the climate reporting entity:
+  (b) a person who is in partnership with, or in the employment of, a person specified in paragraph (a):
+  (c) a liquidator or a person who is a receiver in respect of the property of the climate reporting entity:
+  (d) a person who, by virtue of paragraphs (a) to (c), may not carry out an assurance engagement under this Part for a related body corporate of the climate reporting entity.
+(3) In the case of a climate reporting entity that is a public entity under the Public Audit Act 2001, the only person who may carry out the assurance engagement is the Auditor-General or any other person who may act as the CRD assurance practitioner under that Act in respect of the assurance engagement.
+
+### 461ZHA Assurance engagement must be carried out in accordance with auditing and assurance standards
+An assurance practitioner must, in carrying out an assurance engagement under this Part, comply with all applicable auditing and assurance standards.
+
+### 461ZHB Assurance practitioner’s report
+(1) The assurance practitioner’s report on the climate statements or group climate statements prepared by an entity under any of sections 461Z to 461ZC must comply with the requirements of all applicable auditing and assurance standards.
+(2) If the assurance practitioner’s report indicates that the requirements of this Part have not been complied with, the assurance practitioner must, within 20 working days after signing the report, send a copy of the report, and a copy of the climate statements or group climate statements to which it relates, to—
+  (a) the FMA; and
+  (b) the External Reporting Board; and
+  (c) in the case of a climate reporting entity that is an issuer of debt securities or a manager of a registered scheme, the supervisor.
+(3) An assurance practitioner who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $50,000.
+
+### 461ZHC Assurance engagement may cover other parts of climate statements
+(1) Section 461ZH does not prevent the assurance engagement from covering the whole, or other parts, of the climate statements or group climate statements.
+(2) If an assurance engagement does cover the whole, or other parts, of the statements,—
+  (a) the assurance practitioner’s report must separately identify the matters that are required to be the subject of the assurance engagement under section 461ZH; and
+  (b) this subpart applies, with any necessary modifications, in relation to the whole of the assurance engagement.
+(3) In this section, other parts, in relation to climate statements or group climate statements, means any part or parts of those statements that are not required by section 461ZH to be the subject of the assurance engagement.
+
+**Assurance practitioner access to information**
+
+### 461ZHD Climate reporting entity must give assurance practitioner access to information
+(1) Every climate reporting entity must ensure that an assurance practitioner appointed for an assurance engagement under this Part has access, at all times, to—
+  (a) the CRD records of the climate reporting entity or scheme; and
+  (b) any other documents of the climate reporting entity or scheme that are relevant to the assurance engagement.
+(2) If a climate reporting entity contravenes subsection (1), every director of the entity commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(3) In any proceeding against a director for a contravention of subsection (1), it is a defence if the director proves that—
+  (a) the climate reporting entity took all reasonable steps to ensure that subsection would be complied with; or
+  (b) the director took all reasonable steps to ensure that the climate reporting entity complied with that subsection; or
+  (c) in the circumstances, the director could not reasonably have been expected to take steps to ensure that the climate reporting entity complied with that subsection.
+
+### 461ZHE Assurance practitioner may require information and explanations from director or employee
+(1) An assurance practitioner appointed for an assurance engagement under this Part is entitled to require from a director or an employee of the climate reporting entity the information and explanations that the assurance practitioner thinks necessary for the performance of their duties as assurance practitioner.
+(2) A director or an employee who fails to comply with a requirement to provide information or an explanation under subsection (1) commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(3) In any proceeding against an employee for failing to comply with a requirement to provide information or an explanation under subsection (1), it is a defence if the employee proves that—
+  (a) the employee did not have the information required in their possession or under their control; or
+  (b) by reason of the position occupied by the employee or the duties assigned to them, they were unable to give the explanations required.
 
 ### Subpart 5 — Lodgement of climate statements
 
 ### 461ZI Lodgement of climate statements
-(1) Every climate reporting entity that is required to prepare climate statements or group climate statements under any of sections 461Z to 461ZB must ensure that, within 4 months after the balance date of the entity, copies of those statements are delivered to the Registrar for lodgement.
-(2) Every manager that is a climate reporting entity in respect of a registered scheme must ensure that, within 4 months after the balance date of the scheme, copies of the climate statements that are required to be prepared under section 461ZC are delivered to the Registrar for lodgement.
+(1) Every climate reporting entity that is required to prepare climate statements or group climate statements under any of sections 461Z to 461ZB must ensure that, within 4 months after the balance date of the entity, copies of the following are delivered to the Registrar for lodgement:
+  (a) the climate statements or group climate statements that are required to be prepared; and
+  (b) the assurance practitioner’s report on those statements.
+(2) Every manager that is a climate reporting entity in respect of a registered scheme must ensure that, within 4 months after the balance date of the scheme, copies of the following are delivered to the Registrar for lodgement:
+  (a) the climate statements that are required to be prepared under section 461ZC; and
+  (b) the assurance practitioner’s report on those statements.
 (3) A climate reporting entity that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
 (4) The offence in this section is an infringement offence (see subpart 5 of Part 8).
 
@@ -5539,7 +5591,9 @@ Nothing in this Part prevents any of the following from being combined in a sing
   (b) an annual report under the Companies Act 1993 or any other enactment.
 (2) The climate reporting entity must include, in its annual report for the period ending on the balance date,—
   (a) a statement that the entity is a climate reporting entity for the purposes of this Act; and
-  (b) a copy of the climate statements or group climate statements prepared by the entity under any of sections 461Z to 461ZB, or the address of (or a link to) the Internet site where a copy of those statements can be accessed.
+  (b) either—
+    (i) a copy of the climate statements or group climate statements prepared by the entity under any of sections 461Z to 461ZB, together with a copy of the assurance practitioner’s report on those statements; or
+    (ii) the address of (or a link to) the Internet site where a copy of those statements, together with the assurance practitioner’s report on those statements, can be accessed.
 (3) A climate reporting entity that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
 (4) The offence in this section is an infringement offence (see subpart 5 of Part 8).
 (5) In this section, annual report includes a concise annual report.
@@ -5552,6 +5606,7 @@ Nothing in this Part prevents any of the following from being combined in a sing
 (3) For the purposes of subsection (2), the provisions are the following:
   (a) section 461V (climate reporting entities must keep proper CRD records):
   (b) sections 461Z to 461ZC (climate statements and group climate statements must be prepared):
+  (ba) section 461ZH (parts of climate statements must be subject to assurance engagement):
   (c) section 461ZI (climate statements must be lodged).
 (4) A contravention of section 461X (CRD records to be kept for 7 years) may give rise to civil liability (see subpart 3 of Part 8), including a pecuniary penalty not exceeding $200,000 in the case of an individual or $600,000 in any other case.
 
@@ -5957,7 +6012,7 @@ A civil liability order under section 497 may—
 
 ### 501 Additional disclosure or financial reporting or climate-related disclosure defence for directors who are treated as contravening
 (1) This section applies if—
-  (a) a person (A) contravenes any of sections 82, 99, 427, 460 to 461B, 461D, 461H, 461Z to 461ZC, and 461ZI or clause 27 of Schedule 1; and
+  (a) a person (A) contravenes any of sections 82, 99, 427, 460 to 461B, 461D, 461H, 461Z to 461ZC, 461ZH, and 461ZI or clause 27 of Schedule 1; and
   (b) a person (B) is a director of A who is treated as being in contravention under section 534.
 (2) In any proceeding under this subpart against B, it is a defence if B proves that B took all reasonable steps to ensure that A complied with the provision referred to in subsection (1)﻿(a).
 (3) Subsection (2) does not limit any defence that B may have under section 499 or 500 (as a person who is treated as contravening a provision referred to in subsection (1)﻿(a)).
@@ -6305,7 +6360,7 @@ A party to an appeal under section 532A may appeal to the High Court against a d
   (b) an issuer has contravened section 99 (defective ongoing disclosure); or
   (c) a licensee or an authorised body has contravened section 427 (defective disclosure statement); or
   (ca) an FMC reporting entity has contravened any of sections 460 to 461B, 461D, and 461H (financial reporting obligations); or
-  (cb) a climate reporting entity has contravened any of sections 461Z to 461ZC and 461ZI (climate-related disclosure obligations); or
+  (cb) a climate reporting entity has contravened any of sections 461Z to 461ZC, 461ZH, and 461ZI (climate-related disclosure obligations); or
   (d) an entity that provided a limited disclosure document under clause 26 of Schedule 1 has contravened clause 27 of that schedule (defective disclosure).
 (2) However, this section does not apply in the prescribed circumstances.
 (3) For the purposes of subpart 3, every director of the offeror, issuer, licensee, authorised body, FMC reporting entity, climate reporting entity, or entity at the time of the contravention must be treated as also having contravened the provision referred to in subsection (1)﻿(a), (b), (c), (ca), (cb), or (d) (as the case may be).
@@ -7847,7 +7902,8 @@ Section 14 of the Trusts Act 2019 (sole trustee cannot be sole beneficiary) does
   (e) Part 5 provides for transitional provisions relating to the Financial Markets Conduct Regulations 2014:
   (f) Part 6 provides for transitional provisions relating to the Financial Services Legislation Amendment Act 2019:
   (g) Part 7 provides for transitional provisions relating to Part 1 of the Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021:
-  (h) Part 8 provides for transitional provisions relating to the Financial Markets (Conduct of Institutions) Amendment Act 2022.
+  (h) Part 8 provides for transitional provisions relating to the Financial Markets (Conduct of Institutions) Amendment Act 2022:
+  (i) Part 9 provides for transitional provisions relating to Part 2 of the Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021.
 (2) Subclause (1) is only a guide to the general scheme and effect of this schedule.
 
 ### 2 Transitional provisions subject to transitional regulations and exemptions
@@ -8675,6 +8731,25 @@ ExampleThe requirement for financial institutions to hold a market services lice
   (a) place any party to the agreement or any other person in breach of the agreement, or make any of them liable for a civil wrong; or
   (b) entitle any person to terminate or cancel an agreement, or to accelerate the performance of an obligation, or to impose a penalty or an increased charge, unless the regulations provide otherwise.
 ExampleA company (A) acts as an insurer. A offers motor vehicle insurance to consumers.A car dealer (B) offers A’s insurance to its customers when they buy cars. A is contractually obliged to pay B an incentive based on the volume of A’s insurance products that are sold. The contract providing for the incentive is entered into before commencement of the regulations.The regulations cannot apply to incentives that are payable before the commencement of the regulations. However, this clause allows the regulations to apply to incentives payable after commencement even though the contract was entered into before commencement.The regulations ban a certain incentive that would otherwise be payable under the contract.A must no longer pay the incentive. A does not breach the contract by refusing to pay the incentive and B has no right to cancel the contract because of that refusal.
+
+### Part 9 — Provisions relating to Part 2 of Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021
+
+### 99 Interpretation in this Part
+In this Part,—
+  - **commencement date** means the commencement date of section 25 of the Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021
+  - **new** , in relation to a section of this Act, means the section as replaced or amended by a provision of Part 2 of the Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021
+  - **Part 7A assurance engagement obligations** means—
+    (a) new section 461ZH (which relates to assurance engagements required for parts of climate statements relating to greenhouse gas emissions); and
+    (b) new section 461ZI (which relates to lodgement); and
+    (c) except in clause 96(2), new section 461ZJ (which relates to annual reports).
+
+### 100 Application of Part 7A assurance engagement obligations to accounting periods
+(1) The Part 7A assurance engagement obligations apply to a climate reporting entity under section 461O(1) in relation to the following accounting periods of the climate reporting entity:
+  (a) an accounting period that commenced before, but ends on or after, the commencement date:
+  (b) accounting periods that commence on or after the commencement date.
+(2) The Part 7A assurance engagement obligations apply to a manager of a registered scheme that is a climate reporting entity in respect of the scheme in relation to the following accounting periods of the scheme:
+  (a) an accounting period that commenced before, but ends on or after, the commencement date:
+  (b) accounting periods that commence on or after the commencement date.
 
 ## Schedule 5 — Other provisions relating to financial advice services and client money or property services
 
