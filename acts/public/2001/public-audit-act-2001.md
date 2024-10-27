@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2024-10-01_
+_Consolidation as at 2024-10-27_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -17,8 +17,10 @@ The purpose of this Act is to—
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **appointed auditor** means an auditor appointed under either of section 32 or section 33
+  - **appointed CRD assurance practitioner** means a person appointed under section 34A to carry out 1 or more assurance engagements under section 15B
   - **auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
-  - **Auditor-General** means the Controller and Auditor-General appointed under section 7 and, in sections 21 and 24 to 30, includes every employee of the Controller and Auditor-General or every appointed auditor who has been authorised under this Act to act under the section concerned
+  - **Auditor-General** means the Controller and Auditor-General appointed under section 7 and, in sections 21 and 24 to 30, includes every employee of the Controller and Auditor-General or every appointed auditor or appointed CRD assurance practitioner who has been authorised under this Act to act under the section concerned
+  - **climate reporting entity** has the same meaning as in section 461O of the Financial Markets Conduct Act 2013
   - **Crown** —
     (a) means the Sovereign in right of New Zealand; and
     (b) includes all Ministers of the Crown and all departments; but
@@ -125,6 +127,10 @@ The provisions set out in Schedule 3 apply to the Auditor-General, Deputy Audito
   (a) prepare a report on a quality review carried out under this section; and
   (b) include recommendations in the report.
 (5) The Auditor-General must have regard to a report prepared under subsection (4) (but is not required to comply with any recommendations).
+
+### 15B CRD assurance practitioner for public entities
+(1) The Auditor-General is, and must from time to time act as, the CRD assurance practitioner for an assurance engagement required for the purposes of Part 7A of the Financial Markets Conduct Act 2013 by a climate reporting entity that is a public entity.
+(2) In carrying out an assurance engagement under subsection (1), the Auditor-General must (at a minimum) comply with the auditing and assurance standards that apply to the assurance engagement.
 
 ### 16 Performance audit
 (1) The Auditor-General may at any time examine—
@@ -275,12 +281,20 @@ When appointing an auditor under section 32 or section 33, the Auditor-General m
   (f) exercise the powers under section 29:
   (g) disclose information under section 30.
 
+### 34A Appointment of CRD assurance practitioners
+(1) The Auditor-General may from time to time appoint any of the following to act as a CRD assurance practitioner and to carry out, under section 15B, 1 or more assurance engagements required for the purposes of Part 7A of the Financial Markets Conduct Act 2013 by a climate reporting entity that is a public entity, on the Auditor-General’s behalf:
+  (a) an employee of the Auditor-General:
+  (b) a person who, under section 461ZH(2) of the Financial Markets Conduct Act 2013, may carry out the assurance engagement.
+(2) An appointment must be in writing and may be made subject to any restrictions and conditions that the Auditor-General thinks fit.
+(3) The Auditor-General may authorise an appointed CRD assurance practitioner to exercise such of the powers listed in section 34 in relation to the public entity concerned as the Auditor-General specifies in the appointment.
+
 **Delegations**
 
 ### 35 Delegation of powers
 (1) The Auditor-General may from time to time, either generally or particularly, delegate all or any of the Auditor-General’s functions, duties, and powers (including this power of delegation) to an employee of the Auditor-General.
 (2) However, the Auditor-General must not delegate—
   (a) the power of appointment of auditors under section 32 or section 33; or
+  (aa) the power of appointment of CRD assurance practitioners under section 34A; or
   (b) the function of reporting to the House of Representatives; or
   (c) the power to require the tabling of a public report by a local authority.
 (3) A delegation—
@@ -333,19 +347,19 @@ When appointing an auditor under section 32 or section 33, the Auditor-General m
 (1) This section applies to—
   (a) the Auditor-General in his or her personal capacity; and
   (b) the Deputy Auditor-General in his or her personal capacity; and
-  (c) every person employed by the Auditor-General, whether acting as an appointed auditor or not, in connection with the performance or exercise of the Auditor-General’s functions, duties, or powers.
+  (c) every person employed by the Auditor-General, whether acting as an appointed auditor or an appointed CRD assurance practitioner or neither, in connection with the performance or exercise of the Auditor-General’s functions, duties, or powers.
 (2) No person to whom this section applies is personally liable for an act or omission in connection with performing or exercising a function, duty, or power under this Act, unless the act or omission was done in bad faith.
 (3) Subsection (2) does not limit any disciplinary functions, powers, or duties of any person or body that apply to any of the persons to whom this section applies by virtue of their membership of a professional body.
 
 ### 42 Audit fees
-(1) The Auditor-General may charge fees to a public entity for the provision of services under any of sections 14, 15, 16, and 17.
+(1) The Auditor-General may charge fees to a public entity for the provision of services under any of sections 14, 15, 15B, 16, and 17.
 (2) The fees must be reasonable, having regard to—
   (a) the nature and extent of the services provided; and
   (b) the requirements of auditing standards published under section 23; and
   (c) the qualifications and experience of the persons necessarily engaged in providing the services; and
   (d) any other matters the Auditor-General thinks fit.
-(3) The Auditor-General may permit an appointed auditor to recover fees directly from the public entity.
-(4) The public entity must pay any fees to the Auditor-General or to the appointed auditor on the completion of the whole or any part of the audit when requested to do so in writing.
+(3) The Auditor-General may permit an appointed auditor or an appointed CRD assurance practitioner to recover fees directly from the public entity.
+(4) The public entity must pay any fees to the Auditor-General, or to the appointed auditor or the appointed CRD assurance practitioner, on the completion of the whole or any part of the audit or assurance engagement when requested in writing to do so.
 (5) If the Auditor-General and the public entity fail to agree as to the reasonableness of a fee, the matter must be submitted to arbitration and the provisions of the Arbitration Act 1996 apply.
 
 ### 43 Exemption from income tax
