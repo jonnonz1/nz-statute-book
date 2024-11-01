@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2024-11-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -305,7 +305,8 @@ The purpose of this Act is to—
       (i) gambling conducted by the Lotteries Commission; or
       (ii) gambling authorised under the Racing Industry Act 2020; or
       (iii) gambling by a person in New Zealand conducted by a gambling operator located outside New Zealand; or
-      (iv) a sales promotion scheme that is in the form of a lottery and is conducted in New Zealand
+      (iv) a sales promotion scheme that is in the form of a lottery and is conducted in New Zealand; or
+      (v) class 3 gambling in the form of a lottery conducted by any gambling operator that holds a class 3 operator’s licence that allows the gambling operator to conduct a lottery
   - **responsible gambling** means lawful participation in gambling—
     (a) that is lawful, fair, and honest; and
     (b) conducted—
@@ -344,14 +345,7 @@ The purpose of this Act is to—
 (3) References to this Act include regulations made or continued under this Act.
 
 ### 4A Modification of definition of remote interactive gambling during specified period due to effects of COVID-19
-(1) The purpose of this section is to enable any gambling operator that holds a class 3 operator’s licence that allows them to conduct a lottery to conduct that form of class 3 gambling by remote interactive gambling for a specified period due to the effects of COVID-19 on their ability to fund-raise.
-(2) This section applies during the period—
-  (a) beginning on the day on which this section comes into force; and
-  (b) ending on the close of 31 October 2024.
-(3) While this section applies, paragraph (b) of the definition of remote interactive gambling in section 4(1) must be read as if ; or and the following subparagraph were inserted after subparagraph (iv):
-  (“(v)) class 3 gambling in the form of a lottery conducted by any gambling operator that holds a class 3 operator’s licence that allows them to conduct a lottery.”
-(4) This section is repealed on the close of 31 October 2024.
-(5) The repeal of this section does not otherwise affect the previous operation of the definition of remote interactive gambling (as amended by this section) or anything done under it.
+[Repealed]
 
 ### 4A Modification of definition of remote interactive gambling during specified period due to effects of COVID-19
 [Repealed]
