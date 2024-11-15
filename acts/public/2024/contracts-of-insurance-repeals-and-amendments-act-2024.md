@@ -5,9 +5,9 @@ _Consolidation as at 2024-11-15_
 This Act is the Contracts of Insurance (Repeals and Amendments) Act 2024.
 
 ### 2 Commencement
-(1) This Act comes into force on a date or dates set by Order in Council.
-(2) However, section 12(1) comes into force on the day after Royal assent.
-(3) Any part of the Act that has not come into force by the third anniversary of Royal assent comes into force then.
+(1) This Act comes into force on a date or dates set by Order in Council.The following table is small in size and has 3 columns that are grouped under the heading Provisions commenced by Order in Council.Provisions commenced by Order in CouncilProvisionsCommencement dateOrder in CouncilSection 14(1) and (2); sections 17 to 197 April 2025Clause 2 of the Contracts of Insurance (Repeals and Amendments) Act Commencement Order 2025This note is not part of the Act.
+(2) However, section 12(1) comes into force on 16 November 2024.
+(3) Any part of the Act that has not come into force by 15 November 2027 comes into force then.
 (4) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Repeals**
