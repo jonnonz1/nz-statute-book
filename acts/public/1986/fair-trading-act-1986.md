@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2023-07-10_
+_Consolidation as at 2024-11-16_
 
 > Title
 
@@ -1894,7 +1894,7 @@ Section 100 of the Commerce Act 1986 (powers of Commission to prohibit disclosur
     (a) a contract of insurance (as defined in section 7 of the Insurance (Prudential Supervision) Act 2010) entered into before the specified date, including as varied or renewed at any time; or
     (b) a new contract that has the effect of operating as a renewal of a contract described in paragraph (a) or this paragraph, including as varied or renewed at any time
   - **specified date** means—
-    (a) 1 April 2025; or
+    (a) the date that is the third anniversary of Royal assent of the Contracts of Insurance (Repeals and Amendments) Act 2024; or
     (b) if an earlier date is specified under subclause (4), that date.
 (4) The Governor-General may, by Order in Council, specify a date for the purposes of paragraph (b) of the definition of specified date in subclause (3).
 (5) An Order in Council made under subclause (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
