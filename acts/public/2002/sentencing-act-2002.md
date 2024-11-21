@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2024-03-01_
+_Consolidation as at 2024-11-21_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -185,9 +185,9 @@ In sentencing or otherwise dealing with an offender the court—
     (i) the hostility is because of the common characteristic; and
     (ii) the offender believed that the victim has that characteristic:
   (ha) that the offence was committed as part of, or involves, a terrorist act (as defined in section 5(1) of the Terrorism Suppression Act 2002):
-  (hb) the nature and extent of any connection between the offending and the offender's—
-    (i) participation in an organised criminal group (within the meaning of section 98A of the Crimes Act 1961); or
-    (ii) involvement in any other form of organised criminal association:
+  (hb) that the offender was, at the time of the offending,—
+    (i) a participant in an organised criminal group (within the meaning of section 98A of the Crimes Act 1961); or
+    (ii) involved in any other form of organised criminal association:
   (i) premeditation on the part of the offender and, if so, the level of premeditation involved:
   (j) the number, seriousness, date, relevance, and nature of any previous convictions of the offender and of any convictions for which the offender is being sentenced or otherwise dealt with at the same time:
   (k) any failure by the offender personally (or failure by the offender's lawyer arising out of the offender's instructions to, or failure or refusal to co-operate with, his or her lawyer) to comply with a procedural requirement that, in the court's opinion, has done either or both of the following:
@@ -3632,6 +3632,16 @@ In this Part,—
   (a) being entitled to compensation in respect of anything that occurred while the person was serving a sentence or complying with an order or a direction:
   (b) bringing a claim for a breach of their rights under the New Zealand Bill of Rights Act 1990 in respect of being convicted of or sentenced for an offence specified in clause 13(1).
 (3) Nothing in subclause (2)﻿(b) is, or implies, an acknowledgement or a denial that relief (monetary or otherwise) may be available for a breach of the New Zealand Bill of Rights Act 1990 in respect of being convicted of or sentenced for an offence specified in clause 13(1).
+
+### Part 5 — Provisions relating to Sentencing Amendment Act 2024
+
+### 16 Interpretation
+In this Part,—
+  - **amendment Act** means the Sentencing Amendment Act 2024
+  - **commencement date** means the date on which section 4 of the amendment Act comes into force.
+
+### 17 Application to proceedings on or after commencement date
+Section 9(1)﻿(hb) of this Act (as replaced by the amendment Act) applies only to proceedings commenced on or after the commencement date.
 
 ## Schedule 1 — Amendments to other enactments
 
