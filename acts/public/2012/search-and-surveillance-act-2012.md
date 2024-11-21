@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2024-11-21_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -257,16 +257,12 @@ A constable may, without a warrant, enter and search a vehicle that is in a publ
 
 ### 18A Interpretation
 In this subpart, unless the context otherwise requires,—
-  - **gang** has the same meaning as in section 4 of the Prohibition of Gang Insignia in Government Premises Act 2013
+  - **gang** has the same meaning as in section 4 of the Gangs Act 2024
   - **gang conflict** means ongoing dissension between 2 or more gangs, or factions within a gang, that—
     (a) has involved, or is likely to involve, the use of weapons; and
     (b) has presented, or is likely to present, a risk of harm to persons or damage to property
-  - **gang insignia** has the same meaning as in section 4 of the Prohibition of Gang Insignia in Government Premises Act 2013
-  - **gang member** —
-    (a) means an individual who is a member of a gang (including an individual who is a prospective member or nominee); and
-    (b) includes—
-      (i) an individual who demonstrates affiliation to a gang by displaying the gang’s insignia:
-      (ii) an individual who is involved in the affairs of a gang for the likely purpose of participating in a criminal activity
+  - **gang insignia** has the same meaning as in section 4 of the Gangs Act 2024
+  - **gang member** has the same meaning as in section 4 of the Gangs Act 2024
   - **weapon** means—
     (a) any arms; and
     (b) any other item made, or modified, for use to cause bodily injury.
@@ -3863,8 +3859,8 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 | Commerce Act 1986 |  | 98A(2) |  | Authorised employee of Commerce Commission may obtain and execute warrant to search for evidence of offence against most provisions of Commerce Act 1986 |  | All (except sections 118 and 119) |
 | Commodity Levies Act 1990 |  | 19(1) |  | Constable or designated person may obtain and execute warrant to enter and search for evidence of offence against Commodity Levies Act 1990 |  | All (except that sections 118 and 119 apply to constables only) |
 | Conservation Act 1987 |  | 40(1) and (5) |  | Warranted officer may seize various things held in contravention of Conservation Act 1987 and exercise other powers; constable or warranted officer may seize thing in respect of which it is believed offence is being committed under Conservation Act 1987 |  | All (except subpart 3) |
-| Coroners Act 2006 |  | 122 |  | Members of the Police may search specified place, craft, or vehicle if warrant issued |  | Section 110 |
 | Construction Contracts Act 2002 |  | 18P |  | Power to enter premises to investigate offences |  | All (except sections 118 and 119) |
+| Coroners Act 2006 |  | 122 |  | Members of the Police may search specified place, craft, or vehicle if warrant issued |  | Section 110 |
 | Credit Contracts and Consumer Finance Act 2003 |  | 113(d) |  | Powers of Commerce Commission to search and seize under sections 98A and 98G of Commerce Act 1986 are applied to Credit Contracts and Consumer Finance Act 2003 (with any necessary modifications) |  | All (except sections 118 and 119) |
 | Criminal Proceeds (Recovery) Act 2009 |  | 59 |  | Court may declare nature, extent, and value of person's interest in property specified in civil forfeiture order, and give directions |  | All (except subpart 6) |
 |  |  | 71 |  | Court may declare nature, extent, and value of person's interest in property specified in instrument forfeiture order, and give directions |  | All (except subpart 6) |
