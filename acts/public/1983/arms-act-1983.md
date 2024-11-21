@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2023-06-24_
+_Consolidation as at 2024-11-21_
 
 > Title
 
@@ -865,7 +865,7 @@ A person is disqualified from holding a firearms licence if—
     (ii) any international organisation.
 (6) In this section,—
   - **family violence** has the meaning given in section 9 of the Family Violence Act 2018
-  - **gang** has the meaning given in section 4 of the Prohibition of Gang Insignia in Government Premises Act 2013
+  - **gang** has the meaning given in section 4 of the Gangs Act 2024
   - **organised criminal group** has the meaning given in section 98A of the Crimes Act 1961.
 
 ### 24B General conditions of firearms licence
