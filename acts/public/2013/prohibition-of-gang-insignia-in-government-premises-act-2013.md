@@ -1,5 +1,5 @@
 # Prohibition of Gang Insignia in Government Premises Act 2013
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2024-11-21_
 
 ### 1 Title
 This Act is the Prohibition of Gang Insignia in Government Premises Act 2013.
