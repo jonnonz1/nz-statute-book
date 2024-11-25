@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2024-05-25_
+_Consolidation as at 2024-11-25_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -73,7 +73,7 @@ Subject to the control of the Minister, the Director-General shall be responsibl
   (a) the Department of Conservation:
   (b) such Crown Research Institute (within the meaning of the Crown Research Institutes Act 1992) as the Minister from time to time determines:
   (c) the Ministry of Agriculture and Forestry:
-  (d) the Ministry of Fisheries or the National Institute of Water and Atmospheric Research, or both, as the Minister determines:
+  (d) the Ministry of Fisheries or the New Zealand Institute for Earth Science Limited, or both, as the Minister determines:
   (e) such other person or body that the Minister determines,—
 (2) The Scientific Authorities Committee may co-opt additional members and may delegate its function as a scientific authority to any subcommittee consisting of 1 or more members of the Committee, including co-opted members.
 (3) Subject to this Act, the Committee may regulate its procedure in such manner as it thinks fit.
@@ -1798,113 +1798,117 @@ Amendment(s) incorporated in the Act(s).
 | Milleporina | Milleporidae—Fire corals | Milleporidae spp | Fire Corals, Yellow Fire Corals, Stinging Corals | Excluding fossils |
 | Stylasterina | Stylasteridae—Lace corals | Stylasteridae spp | Lace Corals | Excluding fossils |
 
-| Family |  | Genus, species, or subspecies |  | Common name | Exceptions/limitations |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Agavaceae—Agaves |  | Agave victoriae-reginae |  | Queen Agave | #4 |  |
-|  |  | Nolina interrata |  | Dehesa Bear-grass, San Diego Bear-grass |  |  |
-|  |  | Yucca queretaroensis |  | Queretaro Yucca |  |  |
-| Amaryllidaceae—Snowdrops, sternbergias |  | Galanthus spp |  | Snowdrops | #4 |  |
-|  | Sternbergia spp |  | Sternbergias |  | #4 |  |
-| Anacardiaceae—Cashews |  | Operculicarya decaryi |  | Jabily, Elephant Tree |  |  |
-|  |  | Operculicarya hyphaenoides |  | Jabihy |  |  |
-|  |  | Operculicarya pachypus |  | Tabily |  |  |
-| Apocynaceae—Elephant trunks, hoodias |  | Hoodia spp |  | Hoodia | #9 |  |
-|  | Pachypodium spp |  | Elephant Trunks |  | #4; except species included in Schedule 1 |  |
-|  |  | Rauvolfia serpentina |  | Snake-root, Devil-pepper | #2 |  |
-| Araliaceae—Ginseng |  | Panax ginseng |  | Red Ginseng | #3; only population of Russian Federation. No other population is included in the schedules |  |
-|  |  | Panax quinquefolius |  | American Ginseng | #3 |  |
-| Asparagaceae—Includes ponytail palms |  | Beaucarnea spp |  | Pony Tail Palms |  |  |
-| Berberidaceae—May-apple |  | Podophyllum hexandrum |  | Himalayan May-apple | #2 |  |
-| Bromeliaceae—Air plants, bromelias |  | Tillandsia harrisii |  | Harris' Tillandsia | #4 |  |
-|  | Tillandsia kammii |  | Kamm's Tillandsia |  | #4 |  |
-|  |  | Tillandsia xerographica |  | Xerographic Tillandsia | #4 |  |
-| Cactaceae—Cacti |  | Cactaceae spp |  | Cactus Plants | #4; except species included in Schedule 1 and except Pereskia spp, Pereskiopsis spp, and Quiabentia spp. Artificially propagated specimens of the following hybrids and cultivars are not subject to this Act: Hatiora x graeseri; Schlumbergera x buckleyi; Schlumbergera russelliana x Schlumbergera truncata; Schlumbergera orssichiana x Schlumbergera truncata; Schlumbergera opuntioides x Schlumbergera truncata; Schlumbergera truncata (cultivars); Cactaceae spp colour mutants grafted on the following grafting stocks: Harrisia “Jusbertii”, Hylocereus trigonus or Hylocereus undatus; Opuntia microdasys (cultivars) |  |
-| Caryocaraceae—Ajo |  | Caryocar costaricense |  | Costus | #4 |  |
-| Crassulaceae—Roseroot |  | Rhodiola spp |  |  | #2 |  |
-| Cucurbitaceae—Melons, gourds, cucurbits |  | Zygosicyos pubescens |  | Tobory |  |  |
-|  | Zygosicyos tripartitus |  | Betoboky |  |  |  |
-| Cupressaceae—Cypresses |  | Widdringtonia whytei |  | Mulanje Cedar |  |  |
-| Cyatheaceae—Tree ferns |  | Cyathea spp |  | Tree Ferns | #4 |  |
-| Cycadaceae—Cycads |  | Cycadaceae spp |  | Cycads | #4; except species included in Schedule 1 |  |
-| Dicksoniaceae—Tree ferns |  | Cibotium barometz |  |  | #4 |  |
-|  |  | Dicksonia spp |  | Tree Ferns | #4; only populations of the Americas. No other population is included in the schedules |  |
-| Didiereaceae—Allaudias, didiereas |  | Didiereaceae spp |  | Allaudias, Didiereas | #4 |  |
-| Dioscoreaceae—Elephant’s foot, kniss |  | Dioscorea deltoidea |  | Elephant's Foot | #4 |  |
-| Droseraceae—Venus flytrap |  | Dionaea muscipula |  | Venus Flytrap | #4 |  |
-| Ebenaceae—Ebonies |  | Diospyros spp |  | Ebonies, Persimmon Trees | #5; only populations of Madagascar |  |
-| Euphorbiaceae—Spurges |  | Euphorbia spp |  | Euphorbias | #4; succulent species only, except Euphorbia misera and the species included in Schedule 1. The following are not subject to this Act: artificially propagated specimens of cultivars of Euphorbia trigona, artificially propagated specimens of crested, fan-shaped, or colour mutants of Euphorbia lactea, when grafted on artificially propagated root stock of Euphorbia neriifolia, and artificially propagated specimens of cultivars of Euphorbia “Milii”, when they are traded in shipments of 100 or more plants and readily recognisable as artificially propagated |  |
-| Fouquieriaceae—Ocotillos |  | Fouquieria columnaris |  | Boojum Tree | #4 |  |
-| Juglandaceae—Gavilan |  | Oreomunnea pterocarpa |  | Gavilan | #4 |  |
-| Lauraceae—Laurels |  | Aniba rosaeodora |  | Brazilian Rosewood | #12 |  |
-| Leguminosae (Fabaceae)—Afrormosia, cristobal, palisander, rosewood, sandalwood |  | Caesalpinia echinata |  | Brazil Wood | #10 |  |
-|  | Afzelia spp |  | Pod Mahoganies |  | #17; only the African populations. No other population is included in the schedules |  |
-|  | Dalbergia spp |  | Rosewood, Palisander |  | #15; except species included in Schedule 1 |  |
-|  | Guibourtia demeusei |  | Bubinga |  | #15 |  |
-|  |  | Guibourtia pellegriniana |  | Bubinga | #15 |  |
-|  |  | Guibourtia tessmannii |  | Bubinga | #15 |  |
-|  |  | Paubrasilia echinata |  | Brazilwood | #10 |  |
-|  |  | Pericopsis elata |  | African Teak | #17 |  |
-|  |  | Platymiscium parviflorum |  | Quira, Macawood | #4 |  |
-|  |  | Pterocarpus erinaceus |  | African Rosewood, Kosso |  |  |
-|  |  | Pterocarpus spp |  |  | #17; except Pterocarpus santalinus, which is included in Schedule 2 with annotation #7; only the African populations. No other population is included in the schedules |  |
-|  |  | Pterocarpus santalinus |  | Red Sanders | #7 |  |
-|  |  | Senna meridionalis |  |  |  |  |
-| Liliaceae—Aloes |  | Aloe spp |  | Aloes | #4; except species included in Schedule 1; also excludes Aloe vera, also referenced as Aloe barbadensis, which is not included in the schedules |  |
-| Malvaceae—Includes baobabs |  | Adansonia grandidieri |  | Grandidier's Baobab | #16 |  |
-| Meliaceae |  | Cedrela spp |  | Cedars | #6; only populations of the Neotropics |  |
-| Meliaceae—Mahoganies, West Indian Cedar |  | Khaya spp |  |  | #17; only the African populations. No other population is included in the schedules |  |
-|  | Swietenia humilis |  | Mexican Mahogany, Honduras Mahogany |  | #4 |  |
-|  | Swietenia macrophylla |  | Big-leaf Mahogany |  | #6; only populations of Neotropics |  |
-|  | Swietenia mahagoni |  | American Mahogany |  | #5 |  |
-| Nepenthaceae—Pitcher plants (Old World) |  | Nepenthes spp |  | Pitcher Plants | #4; except species included in Schedule 1. |  |
-| Orchidaceae—Orchids |  | Orchidaceae spp |  | Orchids | #4; except species included in Schedule 1. Artificially propagated hybrids of the genera Cymbidium, Dendrobium, Phalaenopsis, and Vanda are not subject to this Act— |  |
-|  |  |  |  |  | (a) | when specimens are readily recognisable as artificially propagated and do not show any signs of having been collected in the wild, such as mechanical damage or strong dehydration resulting from collection, irregular growth and heterogeneous size and shape within a taxon and shipment, algae or other epiphyllous organisms adhering to leaves, or damage by insects or other pests; and |
-|  |  |  |  |  | (b) | (i) when shipped in non-flowering state, the specimens must be traded in shipments consisting of individual containers (such as cartons, boxes, crates, or individual shelves of CC-containers), each containing 20 or more plants of the same hybrid; the plants within each container must exhibit a high degree of uniformity and healthiness; and the shipment must be accompanied by documentation, such as an invoice, that clearly states the number of plants of each hybrid; or |
-|  |  |  |  |  |  | (ii) when shipped in flowering state, with at least 1 fully open flower per specimen, no minimum number of specimens per shipment is required but specimens must be professionally processed for commercial retail sale, eg, labelled with printed labels or packaged with printed packages indicating the name of the hybrid and the country of final processing. This should be clearly visible and allow easy verification. |
-|  |  |  |  |  | Plants not clearly qualifying for the exemption must be accompanied by appropriate CITES documents |  |
-| Orobanchaceae—Broomrapes |  | Cistanche deserticola |  | Desert Cistanche | #4 |  |
-| Palmae (Arecaceae)—Palms |  | Beccariophoenix madagascariensis |  | Manarano Palm, Maruala Palm | #4 |  |
-|  |  | Dypsis decaryi |  | Triangle Palm | #4 |  |
-|  |  | Lemurophoenix halleuxii |  | Red Lemur Palm |  |  |
-|  |  | Marojejya darianii |  | Big Leaf Palm, Madagascar Palm |  |  |
-|  |  | Ravenea louvelii |  |  |  |  |
-|  |  | Ravenea rivularis |  | Majesty Palm |  |  |
-|  |  | Satranala decussilvae |  | Satranabe Palm |  |  |
-|  |  | Voanioala gerardii |  | Forest Coconut |  |  |
-| Passifloraceae—Passionflowers |  | Adenia firingalavensis |  |  |  |  |
-|  |  | Adenia olaboensis |  | Adenia |  |  |
-|  |  | Adenia subsessilifolia |  |  |  |  |
-| Pedaliaceae—Sesames |  | Uncarina grandidieri |  |  |  |  |
-|  |  | Uncarina stellulifera |  |  |  |  |
-| Portulaceae—Lewisias, portulacas, purslanes |  | Anacampseros spp |  | Purselanes | #4 |  |
-|  | Avonia spp |  |  |  | #4 |  |
-|  | Lewisia serrata |  | Saw-toothed Lewisia |  | #4 |  |
-| Primulaceae—Cyclamens |  | Cyclamen spp |  | Cyclamens | #4; except artificially propagated cultivars of Cyclamen persicum. Exemption does not apply to specimens traded as dormant tubers |  |
-| Ranunculaceae—Golden seals, yellow adonis, yellow root |  | Adonis vernalis |  | Yellow Adonis, Spring Adonis | #2 |  |
-|  | Hydrastis canadensis |  | Goldenseal |  | #8 |  |
-| Rosaceae—African cherry, stinkwood |  | Prunus africana |  | African Stinkwood | #4 |  |
-| Santalaceae—Sandalwoods |  | Osyris lanceolata |  | African Sandalwood | #2; only populations of Burundi, Ethiopia, Kenya, Rwanda, Uganda, and United Republic of Tanzania |  |
-| Sarraceniaceae—Pitcher plants (New World) |  | Sarracenia spp |  | Pitcher Plants | #4; except species included in Schedule 1 |  |
-| Scrophulariaceae—Kutki |  | Picrorhiza kurrooa |  |  | #2; excludes Picrorhiza scrophulariiflora |  |
-| Stangeriaceae—Stangerias |  | Bowenia spp |  |  | #4 |  |
-| Taxaceae—Himalayan yew |  | Taxus chinensis and infraspecific taxa of this species |  |  | #2 |  |
-|  |  | Taxus cuspidata and infraspecific taxa of this species |  |  | #2. The following are not subject to this Act: artificially propagated hybrids and cultivars of Taxus cuspidata, live, in pots or other small containers, each consignment being accompanied by a label or document stating the name of the taxon or taxa and the text “artificially propagated” |  |
-|  |  | Taxus fuana and infraspecific taxa of this species |  |  | #2 |  |
-|  |  | Taxus sumatrana and infraspecific taxa of this species |  |  | #2 |  |
-|  |  | Taxus wallichiana |  | Himalayan Yew | #2 |  |
-| Thymelaeaceae (Aquilariaceae)—Agarwood, ramin |  | Aquilaria spp |  | Agarwood | #14 |  |
-|  | Gonystylus spp |  | Ramin |  | #4 |  |
-|  | Gyrinops spp |  | Agarwood |  | #14 |  |
-| Valeriaceae—Himalayan spikenard |  | Nardostachys grandiflora |  | Himalayan Spikenard | #2 |  |
-| Vitaceae—Grapes |  | Cyphostemma elephantopus |  | Elephant Foot Grape Tree |  |  |
-|  |  | Cyphostemma laza |  | Laza |  |  |
-|  |  | Cyphostemma montagnacii |  | Lazambohitra |  |  |
-| Welwitschiaceae—Welwitschia |  | Welwitschia mirabilis |  | Welwitschia | #4 |  |
-| Zamiaceae—Cycads |  | Zamiaceae spp |  | Cycads | #4; except species included in Schedule 1 |  |
-| Zingiberaceae—Ginger lily, Natal ginger |  | Hedychium philippinense |  | Philippine Garland-flower | #4 |  |
-|  |  | Siphonochilus aethiopicus |  | Natal Ginger | Only populations of Eswatini, Mozambique, South Africa, and Zimbabwe |  |
-| Zygophyllaceae—Lignum-vitae |  | Bulnesia sarmientoi |  | Palo Santo, Verawood | #11 |  |
-|  | Guaiacum spp |  | Lignum-vitae |  | #2 |  |
+| Family |  | Genus, species, or subspecies |  | Common name |  | Exceptions/limitations |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Agavaceae—Agaves |  | Agave victoriae-reginae |  | Queen Agave |  | #4 |  |
+|  |  | Nolina interrata |  | Dehesa Bear-grass, San Diego Bear-grass |  |  |  |
+|  |  | Yucca queretaroensis |  | Queretaro Yucca |  |  |  |
+| Amaryllidaceae—Snowdrops, sternbergias |  | Galanthus spp |  | Snowdrops |  | #4 |  |
+|  | Sternbergia spp |  | Sternbergias |  |  | #4 |  |
+| Anacardiaceae—Cashews |  | Operculicarya decaryi |  | Jabily, Elephant Tree |  |  |  |
+|  |  | Operculicarya hyphaenoides |  | Jabihy |  |  |  |
+|  |  | Operculicarya pachypus |  | Tabily |  |  |  |
+| Apocynaceae—Elephant trunks, hoodias |  | Hoodia spp |  | Hoodia |  | #9 |  |
+|  | Pachypodium spp |  | Elephant Trunks |  |  | #4; except species included in Schedule 1 |  |
+|  |  | Rauvolfia serpentina |  | Snake-root, Devil-pepper |  | #2 |  |
+| Araliaceae—Ginseng |  | Panax ginseng |  | Red Ginseng |  | #3; only population of Russian Federation. No other population is included in the schedules |  |
+|  |  | Panax quinquefolius |  | American Ginseng |  | #3 |  |
+| Asparagaceae—Includes ponytail palms |  | Beaucarnea spp |  | Pony Tail Palms |  |  |  |
+| Berberidaceae—May-apple |  | Podophyllum hexandrum |  | Himalayan May-apple |  | #2 |  |
+| Bignoniaceae—Trumpet trees |  | Handroanthus spp |  |  |  | #17 |  |
+|  |  | Roseodendron spp |  |  |  | #17 |  |
+|  |  | Tabebuia spp |  |  |  | #17 |  |
+| Bromeliaceae—Air plants, bromelias |  | Tillandsia harrisii |  | Harris' Tillandsia |  | #4 |  |
+|  | Tillandsia kammii |  | Kamm's Tillandsia |  |  | #4 |  |
+|  |  | Tillandsia xerographica |  | Xerographic Tillandsia |  | #4 |  |
+| Cactaceae—Cacti |  | Cactaceae spp |  | Cactus Plants |  | #4; except species included in Schedule 1 and except Pereskia spp, Pereskiopsis spp, and Quiabentia spp. Artificially propagated specimens of the following hybrids and cultivars are not subject to this Act: Hatiora x graeseri; Schlumbergera x buckleyi; Schlumbergera russelliana x Schlumbergera truncata; Schlumbergera orssichiana x Schlumbergera truncata; Schlumbergera opuntioides x Schlumbergera truncata; Schlumbergera truncata (cultivars); Cactaceae spp colour mutants grafted on the following grafting stocks: Harrisia “Jusbertii”, Hylocereus trigonus or Hylocereus undatus; Opuntia microdasys (cultivars) |  |
+| Caryocaraceae—Ajo |  | Caryocar costaricense |  | Costus |  | #4 |  |
+| Crassulaceae—Roseroot |  | Rhodiola spp |  |  |  | #2 |  |
+| Cucurbitaceae—Melons, gourds, cucurbits |  | Zygosicyos pubescens |  | Tobory |  |  |  |
+|  | Zygosicyos tripartitus |  | Betoboky |  |  |  |  |
+| Cupressaceae—Cypresses |  | Widdringtonia whytei |  | Mulanje Cedar |  |  |  |
+| Cyatheaceae—Tree ferns |  | Cyathea spp |  | Tree Ferns |  | #4 |  |
+| Cycadaceae—Cycads |  | Cycadaceae spp |  | Cycads |  | #4; except species included in Schedule 1 |  |
+| Dicksoniaceae—Tree ferns |  | Cibotium barometz |  |  |  | #4 |  |
+|  |  | Dicksonia spp |  | Tree Ferns |  | #4; only populations of the Americas. No other population is included in the schedules |  |
+| Didiereaceae—Allaudias, didiereas |  | Didiereaceae spp |  | Allaudias, Didiereas |  | #4 |  |
+| Dioscoreaceae—Elephant’s foot, kniss |  | Dioscorea deltoidea |  | Elephant's Foot |  | #4 |  |
+| Droseraceae—Venus flytrap |  | Dionaea muscipula |  | Venus Flytrap |  | #4 |  |
+| Ebenaceae—Ebonies |  | Diospyros spp |  | Ebonies, Persimmon Trees |  | #5; only populations of Madagascar |  |
+| Euphorbiaceae—Spurges |  | Euphorbia spp |  | Euphorbias |  | #4; succulent species only, except Euphorbia misera and the species included in Schedule 1. The following are not subject to this Act: artificially propagated specimens of cultivars of Euphorbia trigona, artificially propagated specimens of crested, fan-shaped, or colour mutants of Euphorbia lactea, when grafted on artificially propagated root stock of Euphorbia neriifolia, and artificially propagated specimens of cultivars of Euphorbia “Milii”, when they are traded in shipments of 100 or more plants and readily recognisable as artificially propagated |  |
+| Fouquieriaceae—Ocotillos |  | Fouquieria columnaris |  | Boojum Tree |  | #4 |  |
+| Juglandaceae—Gavilan |  | Oreomunnea pterocarpa |  | Gavilan |  | #4 |  |
+| Lauraceae—Laurels |  | Aniba rosaeodora |  | Brazilian Rosewood |  | #12 |  |
+| Leguminosae (Fabaceae)—Afrormosia, cristobal, palisander, rosewood, sandalwood |  | Caesalpinia echinata |  | Brazil Wood |  | #10 |  |
+|  | Afzelia spp |  | Pod Mahoganies |  |  | #17; only the African populations. No other population is included in the schedules |  |
+|  | Dalbergia spp |  | Rosewood, Palisander |  |  | #15; except species included in Schedule 1 |  |
+|  | Dipteryx spp |  |  |  | #17 |  |  |
+|  | Guibourtia demeusei |  | Bubinga |  |  | #15 |  |
+|  |  | Guibourtia pellegriniana |  | Bubinga |  | #15 |  |
+|  |  | Guibourtia tessmannii |  | Bubinga |  | #15 |  |
+|  |  | Paubrasilia echinata |  | Brazilwood |  | #10 |  |
+|  |  | Pericopsis elata |  | African Teak |  | #17 |  |
+|  |  | Platymiscium parviflorum |  | Quira, Macawood |  | #4 |  |
+|  |  | Pterocarpus erinaceus |  | African Rosewood, Kosso |  |  |  |
+|  |  | Pterocarpus spp |  |  |  | #17; except Pterocarpus santalinus, which is included in Schedule 2 with annotation #7; only the African populations. No other population is included in the schedules |  |
+|  |  | Pterocarpus santalinus |  | Red Sanders |  | #7 |  |
+|  |  | Senna meridionalis |  |  |  |  |  |
+| Liliaceae—Aloes |  | Aloe spp |  | Aloes |  | #4; except species included in Schedule 1; also excludes Aloe vera, also referenced as Aloe barbadensis, which is not included in the schedules |  |
+| Malvaceae—Includes baobabs |  | Adansonia grandidieri |  | Grandidier's Baobab |  | #16 |  |
+| Meliaceae |  | Cedrela spp |  | Cedars |  | #6; only populations of the Neotropics |  |
+| Meliaceae—Mahoganies, West Indian Cedar |  | Khaya spp |  |  |  | #17; only the African populations. No other population is included in the schedules |  |
+|  | Swietenia humilis |  | Mexican Mahogany, Honduras Mahogany |  |  | #4 |  |
+|  | Swietenia macrophylla |  | Big-leaf Mahogany |  |  | #6; only populations of Neotropics |  |
+|  | Swietenia mahagoni |  | American Mahogany |  |  | #5 |  |
+| Nepenthaceae—Pitcher plants (Old World) |  | Nepenthes spp |  | Pitcher Plants |  | #4; except species included in Schedule 1. |  |
+| Orchidaceae—Orchids |  | Orchidaceae spp |  | Orchids |  | #4; except species included in Schedule 1. Artificially propagated hybrids of the genera Cymbidium, Dendrobium, Phalaenopsis, and Vanda are not subject to this Act— |  |
+|  |  |  |  |  |  | (a) | when specimens are readily recognisable as artificially propagated and do not show any signs of having been collected in the wild, such as mechanical damage or strong dehydration resulting from collection, irregular growth and heterogeneous size and shape within a taxon and shipment, algae or other epiphyllous organisms adhering to leaves, or damage by insects or other pests; and |
+|  |  |  |  |  |  | (b) | (i) when shipped in non-flowering state, the specimens must be traded in shipments consisting of individual containers (such as cartons, boxes, crates, or individual shelves of CC-containers), each containing 20 or more plants of the same hybrid; the plants within each container must exhibit a high degree of uniformity and healthiness; and the shipment must be accompanied by documentation, such as an invoice, that clearly states the number of plants of each hybrid; or |
+|  |  |  |  |  |  |  | (ii) when shipped in flowering state, with at least 1 fully open flower per specimen, no minimum number of specimens per shipment is required but specimens must be professionally processed for commercial retail sale, eg, labelled with printed labels or packaged with printed packages indicating the name of the hybrid and the country of final processing. This should be clearly visible and allow easy verification. |
+|  |  |  |  |  |  | Plants not clearly qualifying for the exemption must be accompanied by appropriate CITES documents |  |
+| Orobanchaceae—Broomrapes |  | Cistanche deserticola |  | Desert Cistanche |  | #4 |  |
+| Palmae (Arecaceae)—Palms |  | Beccariophoenix madagascariensis |  | Manarano Palm, Maruala Palm |  | #4 |  |
+|  |  | Dypsis decaryi |  | Triangle Palm |  | #4 |  |
+|  |  | Lemurophoenix halleuxii |  | Red Lemur Palm |  |  |  |
+|  |  | Marojejya darianii |  | Big Leaf Palm, Madagascar Palm |  |  |  |
+|  |  | Ravenea louvelii |  |  |  |  |  |
+|  |  | Ravenea rivularis |  | Majesty Palm |  |  |  |
+|  |  | Satranala decussilvae |  | Satranabe Palm |  |  |  |
+|  |  | Voanioala gerardii |  | Forest Coconut |  |  |  |
+| Passifloraceae—Passionflowers |  | Adenia firingalavensis |  |  |  |  |  |
+|  |  | Adenia olaboensis |  | Adenia |  |  |  |
+|  |  | Adenia subsessilifolia |  |  |  |  |  |
+| Pedaliaceae—Sesames |  | Uncarina grandidieri |  |  |  |  |  |
+|  |  | Uncarina stellulifera |  |  |  |  |  |
+| Portulaceae—Lewisias, portulacas, purslanes |  | Anacampseros spp |  | Purselanes |  | #4 |  |
+|  | Avonia spp |  |  |  |  | #4 |  |
+|  | Lewisia serrata |  | Saw-toothed Lewisia |  |  | #4 |  |
+| Primulaceae—Cyclamens |  | Cyclamen spp |  | Cyclamens |  | #4; except artificially propagated cultivars of Cyclamen persicum. Exemption does not apply to specimens traded as dormant tubers |  |
+| Ranunculaceae—Golden seals, yellow adonis, yellow root |  | Adonis vernalis |  | Yellow Adonis, Spring Adonis |  | #2 |  |
+|  | Hydrastis canadensis |  | Goldenseal |  |  | #8 |  |
+| Rosaceae—African cherry, stinkwood |  | Prunus africana |  | African Stinkwood |  | #4 |  |
+| Santalaceae—Sandalwoods |  | Osyris lanceolata |  | African Sandalwood |  | #2; only populations of Burundi, Ethiopia, Kenya, Rwanda, Uganda, and United Republic of Tanzania |  |
+| Sarraceniaceae—Pitcher plants (New World) |  | Sarracenia spp |  | Pitcher Plants |  | #4; except species included in Schedule 1 |  |
+| Scrophulariaceae—Kutki |  | Picrorhiza kurrooa |  |  |  | #2; excludes Picrorhiza scrophulariiflora |  |
+| Stangeriaceae—Stangerias |  | Bowenia spp |  |  |  | #4 |  |
+| Taxaceae—Himalayan yew |  | Taxus chinensis and infraspecific taxa of this species |  |  |  | #2 |  |
+|  |  | Taxus cuspidata and infraspecific taxa of this species |  |  |  | #2. The following are not subject to this Act: artificially propagated hybrids and cultivars of Taxus cuspidata, live, in pots or other small containers, each consignment being accompanied by a label or document stating the name of the taxon or taxa and the text “artificially propagated” |  |
+|  |  | Taxus fuana and infraspecific taxa of this species |  |  |  | #2 |  |
+|  |  | Taxus sumatrana and infraspecific taxa of this species |  |  |  | #2 |  |
+|  |  | Taxus wallichiana |  | Himalayan Yew |  | #2 |  |
+| Thymelaeaceae (Aquilariaceae)—Agarwood, ramin |  | Aquilaria spp |  | Agarwood |  | #14 |  |
+|  | Gonystylus spp |  | Ramin |  |  | #4 |  |
+|  | Gyrinops spp |  | Agarwood |  |  | #14 |  |
+| Valeriaceae—Himalayan spikenard |  | Nardostachys grandiflora |  | Himalayan Spikenard |  | #2 |  |
+| Vitaceae—Grapes |  | Cyphostemma elephantopus |  | Elephant Foot Grape Tree |  |  |  |
+|  |  | Cyphostemma laza |  | Laza |  |  |  |
+|  |  | Cyphostemma montagnacii |  | Lazambohitra |  |  |  |
+| Welwitschiaceae—Welwitschia |  | Welwitschia mirabilis |  | Welwitschia |  | #4 |  |
+| Zamiaceae—Cycads |  | Zamiaceae spp |  | Cycads |  | #4; except species included in Schedule 1 |  |
+| Zingiberaceae—Ginger lily, Natal ginger |  | Hedychium philippinense |  | Philippine Garland-flower |  | #4 |  |
+|  |  | Siphonochilus aethiopicus |  | Natal Ginger |  | Only populations of Eswatini, Mozambique, South Africa, and Zimbabwe |  |
+| Zygophyllaceae—Lignum-vitae |  | Bulnesia sarmientoi |  | Palo Santo, Verawood |  | #11 |  |
+|  | Guaiacum spp |  | Lignum-vitae |  |  | #2 |  |
 
 | Footnotes |  |
 | --- | --- |
@@ -2200,7 +2204,6 @@ Amendment(s) incorporated in the Act(s).
 |  | Pelargonium crassicaule |  | South Africa |
 |  | Pelargonium triste |  | South Africa |
 | Gnetaceae—Gnetums | Gnetum montanum |  | #1; Nepal |
-| Leguminosae (Fabaceae)—Afrormosia, cristobal, palisander, rosewood, sandalwood | Dipteryx panamensis |  | Costa Rica, Nicaragua |
 | Magnoliaceae—Magnolias | Magnolia liliifera var obovata |  | #1; Nepal |
 |  | Cedrela odorata | Red Cedar, Cigar-box Wood, Spanish Cedar | #5; Plurinational State of Bolivia, Brazil, Colombia (only population of Colombia), Guatemala (only population of Guatemala), Peru (only population of Peru) |
 | Oleaceae—Ashes, etc | Fraxinus mandshurica | Manchurian Ash | #5; Russian Federation |
