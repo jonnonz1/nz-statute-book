@@ -1,5 +1,5 @@
 # Citizenship (Western Samoa) Act 1982
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2024-11-26_
 
 > An Act to implement the Protocol done at Apia on 21 August 1982 to the Treaty of Friendship between the Government of New Zealand and the Government of Western Samoa done at Apia on 1 August 1962, and to make provision relating to the New Zealand citizenship of certain persons born in Western Samoa before 1949 and others claiming by descent or marriage through such persons
 
@@ -14,7 +14,7 @@ In this Act the term New Zealand does not include the Cook Islands, Niue, or Tok
 This Act binds the Crown.
 
 ### 4 Application
-(1) Subject to subsections (2) and (3) but without limiting section 7(1)(a), this Act applies to—
+(1) Subject to subsections (2) and (3) but without limiting section 7(1)﻿(a), this Act applies to—
   (a) every person—
     (i) who was born in Western Samoa on or after 13 May 1924 and before 1 January 1949; and
     (ii) who, immediately before 1 January 1949, was a British subject by virtue only of having been born in that country; and
@@ -34,7 +34,7 @@ This Act binds the Crown.
 Falema'i Lesa of Wellington (being the petitioner in the case of Lesa v The Attorney-General of New Zealand, argued before the Judicial Committee of the Privy Council in London in July 1982) is hereby declared to be a New Zealand citizen otherwise than by descent.
 
 ### 6 Persons to whom this Act applies not New Zealand citizens
-Notwithstanding anything in the Citizenship Act 1977 or in any other enactment but subject to section 5 of this Act, every person to whom this Act applies shall be deemed never to have been a New Zealand citizen, and no such person shall be a New Zealand citizen unless the Minister of Internal Affairs authorises the grant of such citizenship to that person under section 7 of this Act or any of sections 8 to 10 of the Citizenship Act 1977.
+Notwithstanding anything in the Citizenship Act 1977 or in any other enactment but subject to section 5 of this Act, every person to whom this Act applies shall be deemed never to have been a New Zealand citizen, and no such person shall be a New Zealand citizen unless the Minister of Internal Affairs authorises the grant of such citizenship to that person under section 7 or 7A of this Act or any of sections 8 to 10 of the Citizenship Act 1977.
 
 ### 7 Grant of citizenship as of right in certain cases
 (1) Notwithstanding anything in section 8 or section 9 of the Citizenship Act 1977, the Minister of Internal Affairs shall, upon application made to him, immediately authorise the grant of New Zealand citizenship to any person who proves to the satisfaction of the Minister—
@@ -43,9 +43,35 @@ Notwithstanding anything in the Citizenship Act 1977 or in any other enactment b
     (i) was in New Zealand at any time on the day before the date of the commencement of this Act; or
     (ii) has lawfully entered New Zealand after the commencement of this Act and is entitled, in terms of the Immigration Act 2009, to be in New Zealand indefinitely.
 (2) Sections 4A, 11, 12, 24, 27, and 28 of the Citizenship Act 1977, and any regulations made under that Act, shall apply with any necessary modifications in respect of an application under subsection (1) of this section as if it were an application under section 10 of that Act.
+(3) A person granted New Zealand citizenship under section 7A—
+  (a) may later apply for and be granted citizenship under subsection (1)﻿(b)﻿(i); but
+  (b) may not later apply for or be granted citizenship under subsection (1)﻿(b)﻿(ii).
+
+### 7A Grant of citizenship of special nature as of right in certain other cases
+Who may apply for citizenship under this section
+(1) A person to whom any 1 or more of paragraphs (a) to (d) of section 4(1) apply may apply in the prescribed manner to the Minister of Internal Affairs for New Zealand citizenship under this section.
+Special nature of citizenship under this section
+(2) A mother’s or father’s New Zealand citizenship granted under this section is not a basis for citizenship by descent for a child born outside New Zealand (see section 7(1)﻿(a)﻿(ii) of the Citizenship Act 1977).
+(3) A person granted New Zealand citizenship under this section—
+  (a) may later apply for and be granted New Zealand citizenship under—
+    (i) section 7(1)﻿(b)﻿(i) of this Act (see section 7(3)﻿(a) of this Act); or
+    (ii) section 8, 9, or 10 of the Citizenship Act 1977; but
+  (b) may not later apply for or be granted New Zealand citizenship under section 7(1)﻿(b)﻿(ii) of this Act (see section 7(3)﻿(b) of this Act).
+Minister’s duty in response to application
+(4) The Minister must grant New Zealand citizenship under this section to a person if the person has—
+  (a) applied in the prescribed manner to the Minister under this section; and
+  (b) proved to the Minister’s satisfaction that the person is a person to whom any 1 or more of paragraphs (a) to (d) of section 4(1) apply.
+Application is subject to Citizenship Act 1977 sections and regulations
+(5) An application for citizenship under this section is subject to the following sections of the Citizenship Act 1977 and to any regulations made under that Act (which apply, with all necessary modifications, to the application under this section as if it were an application under section 10 of that Act):
+  (a) section 4A (delegation of powers by Secretary):
+  (b) section 11 (Minister may require oath or affirmation of allegiance to be taken):
+  (c) section 12 (certificate of New Zealand citizenship):
+  (d) section 24 (general provisions as to certificates and other documents):
+  (e) section 27 (offences and penalties):
+  (f) section 28 (regulations).
 
 ### 8 Certain convictions quashed
-(1) Where any person to whom this Act applies has been convicted, at any time before the commencement of this Act, of an offence against section 5(1)(a) of the Immigration Act 1964 or any of the provisions of Part 2 (except section 19A) of that Act, or any corresponding former enactment, that conviction is hereby quashed.
+(1) Where any person to whom this Act applies has been convicted, at any time before the commencement of this Act, of an offence against section 5(1)﻿(a) of the Immigration Act 1964 or any of the provisions of Part 2 (except section 19A) of that Act, or any corresponding former enactment, that conviction is hereby quashed.
 (2) No person to whom this Act applies shall be deemed to be a person to whom section 15 of the Immigration Act 2009 applies merely because he has been deported from New Zealand consequent upon his conviction of any offence to which subsection (1) of this section applies.
 (3) Without limiting or affecting any privilege, immunity, defence, or justification conferred by any other enactment or rule of law, no person shall be guilty of an offence or liable to any civil proceeding by reason of anything done in good faith to or in respect of any person to whom this Act applies in relation to or arising out of any matter referred to in subsection (1).
 
