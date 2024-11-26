@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2024-06-05_
+_Consolidation as at 2024-11-26_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -2285,7 +2285,7 @@ A deportation liability notice must be signed by the Minister or an immigration 
 (1) Where a person’s liability for deportation is suspended by the Minister under section 172, during the period of the suspension—
   (a) the person may not apply for a visa of a different class or type; and
   (b) the processing of any application made by the person for a visa of a different class or type must be suspended; and
-  (c) subject to sections 9 and 10 of the Citizenship Act 1977 and section 7(1)﻿(b)﻿(i) of the Citizenship (Western Samoa) Act 1982, the person may not be granted citizenship on the basis of meeting a requirement (or requirements) for the grant of New Zealand citizenship that requires the person to hold a residence class visa.
+  (c) subject to sections 9 and 10 of the Citizenship Act 1977 and sections 7(1)﻿(b)﻿(i) and 7A of the Citizenship (Western Samoa) Act 1982, the person may not be granted citizenship on the basis of meeting a requirement (or requirements) for the grant of New Zealand citizenship that requires the person to hold a residence class visa.
 (2) If the Minister determines that a person has met the conditions stated by the Minister under section 172(2) for the period of the suspension, the Minister must—
   (a) cancel the person's liability for deportation; and
   (b) notify the person and the Tribunal of that fact.
@@ -2821,7 +2821,7 @@ If the Tribunal decides that an appeal against liability for deportation should 
   (a) subsection (2), (3), or (4) applies, as the case may be; and
   (b) the person may not apply for a visa of a different class or type; and
   (c) the processing of any application made by the person for a visa of a different class or type must be suspended; and
-  (d) subject to sections 9 and 10 of the Citizenship Act 1977 and section 7(1)﻿(b)﻿(i) of the Citizenship (Western Samoa) Act 1982, the person may not be granted citizenship on the basis of meeting a requirement (or requirements) for the grant of New Zealand citizenship that the person hold a residence class visa.
+  (d) subject to sections 9 and 10 of the Citizenship Act 1977 and sections 7(1)﻿(b)﻿(i) and 7A of the Citizenship (Western Samoa) Act 1982, the person may not be granted citizenship on the basis of meeting a requirement (or requirements) for the grant of New Zealand citizenship that the person hold a residence class visa.
 (2) If the person is in custody under this Act, an immigration officer must immediately notify, in writing, the manager or other person in charge of the prison or other premises in which the person is detained that the person's liability for deportation is suspended, and the person must be immediately released.
 (3) If the person is subject to residence or reporting requirements under section 315, an immigration officer must immediately notify, in writing, the person and the person's guarantor (if applicable) that the person's liability for deportation is suspended, and the person ceases to be subject to those requirements.
 (4) If the person has been released on conditions under section 320, an immigration officer must immediately notify, in writing, the person that his or her liability for deportation is suspended, and the person ceases to be subject to those conditions.
