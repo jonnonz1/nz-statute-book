@@ -1,5 +1,5 @@
 # Citizenship Act 1977
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2024-11-26_
 
 > An Act to make better provision with respect to the status of New Zealand citizenship, and to consolidate and amend the British Nationality and New Zealand Citizenship Act 1948
 
@@ -110,7 +110,9 @@ This Act binds the Crown.
 
 ### 7 Citizenship by descent
 (1) Every person born outside New Zealand on or after 1 January 1978 is a New Zealand citizen by descent if, at the time of the person's birth,—
-  (a) his or her mother or father was a New Zealand citizen otherwise than by descent; or
+  (a) his or her mother or father was a New Zealand citizen otherwise than by—
+    (i) descent; or
+    (ii) grant under section 7A of the Citizenship (Western Samoa) Act 1982; or
   (b) his or her mother or father was a New Zealand citizen by descent, and the person would otherwise be stateless.
 (2) A person who is a New Zealand citizen by virtue of subsection (1) may apply for his or her citizenship status to be registered in accordance with regulations made under this Act.
 (3) For the purposes of this section, the Secretary may issue a certificate stating a person's status under this section and, in the absence of evidence to the contrary, a certificate to such effect shall be sufficient evidence of the matters stated in the certificate.
