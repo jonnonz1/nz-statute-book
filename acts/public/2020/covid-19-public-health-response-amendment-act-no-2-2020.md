@@ -1,5 +1,5 @@
 # COVID-19 Public Health Response Amendment Act (No 2) 2020
-_Consolidation as at 2020-12-07_
+_Consolidation as at 2024-11-26_
 
 ### 1 Title
 This Act is the COVID-19 Public Health Response Amendment Act (No 2) 2020.
