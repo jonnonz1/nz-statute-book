@@ -1,5 +1,5 @@
 # COVID-19 Public Health Response (Validation of Managed Isolation and Quarantine Charges) Amendment Act 2021
-_Consolidation as at 2021-05-24_
+_Consolidation as at 2024-11-26_
 
 ### 1 Title
 This Act is the COVID-19 Public Health Response (Validation of Managed Isolation and Quarantine Charges) Amendment Act 2021.
