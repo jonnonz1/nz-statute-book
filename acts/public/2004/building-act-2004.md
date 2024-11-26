@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-11-26_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -379,7 +379,9 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
       (ii) the support of materials or building products used in connection with the work; and
     (b) includes any plank, coupling, fastening, fitting, or device used in connection with the construction, erection, or use of scaffolding
   - **scope of accreditation** , in relation to a building consent authority that is not a territorial authority, means the scope of technical competence for which the building consent authority is accredited by a building consent accreditation body in accordance with section 252
-  - **seismic work** , in relation to a building or a part of a building that is subject to an EPB notice, means the building work required to ensure that the building or part is no longer earthquake prone
+  - **seismic work** , in relation to a building or part of a building that is subject to an EPB notice,—
+    (a) means the building work required to ensure that the building or part is no longer earthquake-prone; and
+    (b) may include the demolition of a building or part of a building
   - **sitework** means work on a building site, including earthworks, preparatory to, or associated with, the construction, alteration, demolition, or removal of a building
   - **small heated pool** means a heated pool (such as a spa pool or a hot tub) that—
     (a) has a water surface area of 5 m2 or less; and
@@ -392,6 +394,9 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
       (ii) contributes to the proper functioning of the building (for example, an automatic sprinkler system); and
       (iii) is declared by the Governor-General, by Order in Council, to be a specified system for the purposes of this Act (see subsection (2)); and
     (b) includes a cable car
+  - **stand-alone building consent authority** means a building consent authority that is not—
+    (a) a territorial authority; or
+    (b) a regional authority
   - **statutory authority** means an authority or organisation that has the statutory power to classify or register land or buildings for any purpose
   - **supervise** , in relation to building work, means provide control or direction and oversight of the building work to an extent that is sufficient to ensure that the building work—
     (a) is performed competently; and
@@ -411,6 +416,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     (c) a day in the period beginning on 20 December in any year and ending with the close of 10 January in the following year.
+(1A) A reference to a regional authority in paragraph (b) of the definition of stand-alone building consent authority is for the avoidance of doubt and does not limit the application of section 14(3), which provides, among other matters, that references in certain sections to territorial authorities include regional authorities.
 (2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Meaning of building**
@@ -1235,46 +1241,55 @@ If a levy has already been paid for building work for which a building consent i
   (a) a building consent was, or ought to have been, obtained for that previous building work; and
   (b) the code compliance certificate for that building work has not been issued as at the date of the application for a building consent for the new building work.
 
-### 58 Liability to pay levy: building consent authority
-(1) A building consent authority, on the grant of a building consent, becomes liable to the territorial authority for the levy payable under section 53 in relation to the building work to which the building consent relates.
-(2) A building consent authority must pay the levy to the territorial authority at the same time that it provides, under section 238(2)﻿(d), copies of information about the collection of that levy.
-(3) A person who fails to comply with subsection (2)—
+### 58 Liability to pay levy: stand-alone building consent authority
+(1) A stand-alone building consent authority, on the grant of a building consent, becomes liable to the chief executive for the levy payable under section 53 in relation to the building work to which the building consent relates. (However, see section 61, which provides for a transfer of liability in respect of shortfalls caused by the failure of an applicant to pay a levy.)
+(2) A stand-alone building consent authority must pay the levy to the chief executive by the 20th day of the month following the month in which the relevant building consent was granted.
+(3) Every payment of the levy must be accompanied by a certificate of the stand-alone building consent authority, or of an officer or agent of the authority, that states that the payment is correct—
+  (a) according to the financial records of the authority; and
+  (b) to the best of that person’s knowledge and belief.
+(4) A person who fails to comply with subsection (2)—
   (a) commits an offence; and
   (b) is liable on conviction,—
     (i) in the case of an individual, to a fine not exceeding $5,000:
     (ii) in the case of a body corporate, to a fine not exceeding $25,000.
-(4)
 
 ### 59 Liability to pay levy: territorial authority
-(1) A territorial authority, on granting a building consent or on receiving all or any of the information specified in section 238(1)﻿(c), becomes liable to the chief executive for the levy payable under section 53 in relation to the building work to which the building consent relates.
+(1) A territorial authority, on granting a building consent, becomes liable to the chief executive for the levy payable under section 53 in relation to the building work to which the building consent relates.
 (2) The total amount of the levy for which a territorial authority becomes liable is due and payable to the chief executive by the 20th day of the month following the month in which the relevant building consent was granted.
 (3) Every payment of the levy must be accompanied by a certificate of the territorial authority, or of an officer or agent of the territorial authority, that states that the payment is correct—
   (a) according to the financial records of the territorial authority; and
   (b) to the best of that person's knowledge and belief.
 
-### 60 Territorial authority may retain part of levy
-(1) A territorial authority may retain 3% of the levies for which the territorial authority is liable, under section 59, in any month.
+### 60 Building consent authority may retain part of levy
+(1) A building consent authority may retain 3% of the levies for which the authority is liable, under section 58 or 59, in any month.
 (2) Subsection (1) is subject to section 61.
 
-### 61 Chief executive may recover unpaid levies from territorial authority
-(1) The consequences specified in subsection (2) apply if a territorial authority that is liable to pay levies to the chief executive under section 59(1) fails to pay the levies by the date referred to in section 59(2).
+### 61 Chief executive may recover unpaid levies from territorial authority or stand-alone building consent authority
+(1) The consequences specified in subsection (2) apply if a territorial authority or stand-alone building consent authority that is liable to pay levies to the chief executive under section 58(1) or 59(1) fails to pay the levies by the date referred to in section 58(2) or 59(2), as applicable.
 (2) The consequences are that—
   (a) section 60(1) does not apply; and
-  (b) the chief executive may recover, as a debt due from the territorial authority, the amount of those levies and any interest on that amount calculated—
-    (i) in monthly instalments at the monthly basic lending rate of the Ministry's bank; and
-    (ii) for the period of each month, or part of a month, starting on the date payment is due and ending on the date payment is made.
+  (b) the chief executive may recover, as a debt due from the territorial authority, or, unless paragraph (c) applies, the stand-alone building consent authority, the amount of those levies and any interest on that amount calculated—
+    (i) in monthly instalments at the monthly basic lending rate of the Ministry’s bank; and
+    (ii) for the period of each month, or part of a month, starting on the date payment is due and ending on the date payment is made; but
+  (c) if a failure on the part of a stand-alone building consent authority to pay the levy arises from an applicant’s failure to pay the amount of levies and any interest on the amount calculated, the liability for the shortfall ceases to be the liability of that authority and—
+    (i) becomes instead the liability of the territorial authority for the district in which the relevant building consent was granted; and
+    (ii) may be recovered by that territorial authority under section 62(2); and
+  (d) if a failure on the part of a stand-alone building consent authority to pay the levy arises for reasons other than an applicant’s failure to pay the levy, then the liability for the shortfall remains that of the stand-alone building consent authority.
 
 ### 62 Territorial authority may recover unpaid levies from applicant for building consent
 (1) The consequence specified in subsection (2) applies if an applicant for a building consent fails to pay a levy or part of a levy under section 53 by the time referred to in section 53(2)﻿(b)﻿(ii).
-(2) The consequence is that the territorial authority may recover, as a debt due from the applicant, the amount of those levies and any interest on that amount calculated—
-  (a) in monthly instalments at the monthly basic lending rate of the territorial authority's bank; and
+(2) The consequence is that the territorial authority, or, if the application was made to a stand-alone building consent authority, the territorial authority for the district in which the relevant building consent was granted, may recover, as a debt due from the applicant, the amount of those levies and any interest on that amount calculated—
+  (a) in monthly instalments at the monthly basic lending rate of the building consent authority’s bank; and
   (b) for the period of each month, or part of a month, starting on the date payment is due and ending on the date payment is made.
+(3) Any amount recovered under subsection (2)—
+  (a) must, as soon as practicable after it is recovered, be paid to the chief executive; and
+  (b) may be recovered by the chief executive from the territorial authority after the 20th day of the month following the month in which it was recovered by the territorial authority under subsection (2).
 
 ### 63 Chief executive may obtain information in order to assess amount of levy payable
 (1) The chief executive may require any or all of the persons referred to in subsection (2) to provide any information about the estimated value of building work specified in a building consent that may be necessary to enable the chief executive to assess the amount of levy that is payable under section 53.
 (2) The persons are—
   (a) an applicant for a building consent:
-  (b) the relevant building consent authority:
+  (b) the relevant building consent authority (including a stand-alone building consent authority, as applicable):
   (c) if applicable, the relevant territorial authority.
 (3) An applicant who provides information to the chief executive under subsection (1) may request the chief executive to treat the information as confidential, and, except if compliance with the request would be contrary to any other law, the chief executive must comply with the request to the fullest extent possible.
 (4) A person who fails to comply with a requirement to provide information under subsection (1)—
@@ -1285,17 +1300,17 @@ If a levy has already been paid for building work for which a building consent i
 (5)
 
 ### 64 Audit of issue of building consents for purpose of ascertaining payment of levy
-(1) A territorial authority must, at all times, keep in safe custody all records of building consents granted within its district, including—
+(1) A building consent authority must keep in safe custody all records of building consents granted by the building consent authority, including—
   (a) the estimated value of the building work to which each consent relates; and
   (b) the amount of any levy payable under section 53; and
-  (c) the date of payment of the levy to the territorial authority.
-(2) The chief executive or the chief executive's authorised officers or agents may, for the purpose of ascertaining whether the levy for which a territorial authority is liable has been paid, and whether this section has been complied with,—
-  (a) require a territorial authority to make available for examination the following records of the territorial authority:
+  (c) the date of payment of the levy to the chief executive.
+(2) The chief executive or the chief executive's authorised officers or agents may, for the purpose of ascertaining whether the levy for which a building consent authority is liable has been paid, and whether this section has been complied with,—
+  (a) require a building consent authority to make available for examination the following records of the building consent authority:
     (i) records of building consents; and
     (ii) financial records; and
   (b) examine those records; and
   (c) make copies of those records.
-(3) A territorial authority must, on being advised of a requirement under subsection (2)﻿(a), comply immediately with that requirement.
+(3) A building consent authority must, on being advised of a requirement under subsection (2)﻿(a), comply immediately with that requirement.
 (4) The chief executive's authorised officers or agents must report to the chief executive the result of any examination that they have conducted under subsection (2).
 
 ### 65 Chief executive may enter into agreements for auditing certain information
@@ -1652,9 +1667,10 @@ If a building consent authority refuses to issue a code compliance certificate, 
   (c) if subsections (3) and (4) of section 91 (which apply if a building consent authority that is not a territorial authority or a regional authority is unable or refuses to issue a code compliance certificate in relation to building work for which it granted a building consent) apply.
   (d)
 (2) A territorial authority may issue a certificate of acceptance only if it is satisfied, to the best of its knowledge and belief and on reasonable grounds, that, insofar as it could ascertain, the building work complies with the building code.
-(3) This section—
+(3) Subsection (1)—
   (a) does not limit section 40 (which provides that a person must not carry out any building work except in accordance with a building consent); and
   (b) accordingly, does not relieve a person from the requirement to obtain a building consent for building work.
+(4) However, if a certificate of acceptance for any work is issued under section 99, it is not necessary for any person to apply for a building consent in respect of that work.
 
 ### 97 How to apply for certificate of acceptance
 An application for a certificate of acceptance must—
@@ -1820,7 +1836,19 @@ An owner of a building for which a compliance schedule has been issued must ensu
 (6) A person who commits an offence under this section is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $50,000:
   (b) in the case of a body corporate, to a fine not exceeding $150,000.
-(7) In subsection (3)﻿(d), a reference to an independently qualified person is a reference to the independently qualified person or independently qualified persons who carried out or supervised the inspection, maintenance, and reporting procedures stated in the compliance schedule during the previous 12 months.
+(7) In subsection (3)﻿(d) and section 108A, a reference to an independently qualified person is a reference to the independently qualified person or independently qualified persons who carried out or supervised the inspection, maintenance, and reporting procedures stated in the compliance schedule during the previous 12 months.
+
+### 108A Duties of independently qualified person
+(1) An independently qualified person must not state (whether in a building warrant of fitness or any other document) that the inspection, maintenance, or reporting procedures in a compliance schedule relating to a specified system (for example, a lift or ventilation system) have been complied with during the previous 12 months if those inspection, maintenance, or reporting procedures for that system have not been fully complied with during that period.
+(2) Every person who acts in breach of subsection (1) commits an offence.
+(3) It is a defence to a prosecution for an offence against subsection (1) if the defendant proves that—
+  (a) the failure to comply with subsection (1) was due to—
+    (i) a reasonable mistake; or
+    (ii) reasonable reliance on information supplied to the defendant by another person; or
+  (b) the defendant took reasonable precautions and exercised due diligence to avoid the failure.
+(4) A person who commits an offence under subsection (1) is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $50,000:
+  (b) in the case of a body corporate, to a fine not exceeding $150,000.
 
 ### 109 Territorial authority must consider recommendation to amend compliance schedule
 A territorial authority must, in relation to a recommendation made by an independently qualified person under section 108(3)﻿(d) for a compliance schedule to be amended,—
@@ -2181,7 +2209,7 @@ This subpart does not apply to—
   (a) the time frame within which a territorial authority must—
     (i) apply the EPB methodology to identify buildings or parts of buildings in the area that are potentially earthquake prone (see section 133AG); and
     (ii) report to the chief executive on its progress towards that objective; and
-  (b) the deadline for completing seismic work on a building or a part of a building in the area, if it is subject to an EPB notice (see section 133AM).
+  (b) the deadline for completing seismic work on a building or a part of a building in the area, if it is subject to an EPB notice (see sections 133AM, 133AMA, 133AMB, and 133AMC).
 
 ### 133AE Meaning of priority building
 (1) In this subpart, priority building means any of the following that are located in an area of medium or high seismic risk:
@@ -2205,7 +2233,7 @@ This subpart does not apply to—
 (3) If only part of a building meets the criteria set out in subsection (1), only that part of the building is a priority building.
 (4) Whether a building is a priority building affects—
   (a) the deadline by which a territorial authority must identify whether the building or a part of the building is potentially earthquake prone (see section 133AG); and
-  (b) the deadline for completing seismic work on the building or a part of the building, if it is subject to an EPB notice (see section 133AM).
+  (b) the deadline for completing seismic work on the building or a part of the building, if it is subject to an EPB notice (see sections 133AM, 133AMA, 133AMB, and 133AMC).
 
 ### 133AF Role of territorial authority in identifying certain priority buildings
 (1) This section applies to a territorial authority whose district includes any area of medium or high seismic risk.
@@ -2291,11 +2319,14 @@ This subpart does not apply to—
 **Remediation of earthquake-prone buildings**
 
 ### 133AL Territorial authority must issue EPB notice for earthquake-prone buildings
-(1) This section applies if a territorial authority makes any of the following decisions:
-  (a) determining under section 133AK or 133AY or clause 2 of Schedule 1AA that a building or a part of a building is earthquake prone; or
-  (b) revoking an exemption under section 133AN; or
-  (c) revoking an extension under section 133AO; or
-  (d) determining under section 133AQ or 133AY that the earthquake rating of a building or a part of a building that is subject to an EPB notice is different from the earthquake rating (if any) of the building or part that is stated in the notice or the EPB register.
+(1) This section applies if—
+  (a) a territorial authority makes any of the following decisions:
+    (i) determining under section 133AK or 133AY or clause 2 of Schedule 1AA that a building or part of a building is earthquake-prone; or
+    (ii) revoking an exemption under section 133AN; or
+    (iii) revoking an extension under section 133AO; or
+    (iv) determining under section 133AQ or 133AY that the earthquake rating of a building or part of a building that is subject to an EPB notice is different from the earthquake rating (if any) for the whole or part of the building that is stated in the notice or the EPB register; or
+  (b) the deadline for completing seismic work on a building or part of a building is altered by section 133AMA; or
+  (c) the deadline for completing seismic work on a building or part of a building is altered by an Order in Council referred to in section 133AMC.
 (2) The territorial authority must promptly issue an EPB notice for the building or the part of the building, which must—
   (a) be dated; and
   (b) be in the prescribed form; and
@@ -2303,7 +2334,7 @@ This subpart does not apply to—
   (d) specify whether the building or part is a priority building; and
   (e) specify the earthquake rating of the building or part (unless this has not been determined: see section 133AK(4) and clause 2 of Schedule 1AA); and
   (f) state that the owner of the building or part is required to carry out building work to ensure that the building or part is no longer earthquake prone (seismic work); and
-  (g) state the deadline for completing seismic work (see section 133AM); and
+  (g) state the deadline for completing seismic work (see sections 133AM, 133AMA, 133AMB, and 133AMC); and
   (h) state that the owner of the building or part may apply under section 133AN for an exemption from the requirement to carry out seismic work; and
   (i) if the building is a heritage building to which section 133AO applies, state that the owner of the building or part may apply under that section for an extension of time to complete seismic work; and
   (j) state that the owner is not required to complete seismic work if the territorial authority determines or is satisfied, in accordance with section 133AQ, that the building or part is not earthquake prone.
@@ -2321,8 +2352,8 @@ This subpart does not apply to—
   (e) Heritage New Zealand Pouhere Taonga, if the building is a heritage building.
 (6) However, the notice is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (5).
 
-### 133AM Deadline for completing seismic work
-(1) The owner of a building or a part of a building that is subject to an EPB notice must complete seismic work on the building or part on or before the deadline specified in this section.
+### 133AM Deadline for completing seismic work on or before 1 April 2024
+(1) The owner of a building or part of a building that is subject to an EPB notice must complete seismic work on the building or part on or before the deadline specified in this section if that deadline is on or before 1 April 2024.
 (2) The deadline is the expiry of whichever of the following periods, as measured from the date of the first EPB notice issued for the building or the part of the building (rather than any replacement EPB notice), is applicable:
   (a) in an area of low seismic risk, 35 years for any building; and
   (b) in an area of medium seismic risk, 12 years and 6 months for a priority building and 25 years for any other building; and
@@ -2330,7 +2361,32 @@ This subpart does not apply to—
 (3) However,—
   (a) if clause 2 of Schedule 1AA applies to the building or the part of the building, the deadline is the deadline determined in accordance with that clause; and
   (b) if the building or the part of the building is a heritage building for which an extension is granted under section 133AO, the deadline is the expiry of the period of the extension, as measured from the deadline that would apply under paragraph (a) or subsection (2) if no extension were granted.
-(4) To avoid doubt, seismic work may include the demolition of a building or part of a building.
+(4)
+
+### 133AMA Deadline for completing seismic work on or after 2 April 2024
+(1) This section applies if the owner of a building or part of a building is required (as a result of a relevant EPB notice issued before the commencement of this section) to complete seismic work on the building or part on or after 2 April 2024.
+(2) The owner of a building or part of a building that is subject to a relevant EPB notice specified in subsection (1) must complete seismic work on the building or part on or before the deadline specified in this section.
+(3) The deadline is the latter of—
+  (a) 4 years after the deadline specified in the relevant EPB notice:
+  (b) the date to which that deadline is extended by Order in Council referred to in section 133AMC.
+(4) In this section, relevant EPB notice—
+  (a) means the current or most recent EPB notice for the building or part of the building as at the commencement of this section; and
+  (b) includes a reissued EPB notice, for example, as a result of an extension granted under section 133AO or under clause 2 of Schedule 1AA.
+
+### 133AMB Deadline for completing seismic work required on or after commencement of this section
+(1) This section applies if the owner of a building or part of a building is required (as a result of an EPB notice issued on or after the commencement of this section) to complete seismic work on or after the commencement of this section.
+(2) The owner of the building or part of the building must complete seismic work on the building or part on or before the deadline referred to in this section.
+(3) The deadline is the expiry of whichever of the following periods, as measured from the date of the first EPB notice issued for the building or the part of the building (rather than any replacement EPB notice), is applicable:
+  (a) in an area of low seismic risk, 35 years for any building; and
+  (b) in an area of medium seismic risk, 12 years and 6 months for a priority building and 25 years for any other building; and
+  (c) in an area of high seismic risk, 7 years and 6 months for a priority building and 15 years for any other building.
+(4) However, if the building or part of the building is a heritage building for which an extension is granted under section 133AO, the deadline is the expiry of the period of the extension, as measured from the deadline that would apply under subsection (3) if no extension were granted.
+(5) The deadline referred to in subsection (3) may be extended by Order in Council made in accordance with section 133AMC.
+
+### 133AMC Extension of qualifying deadlines by Order in Council
+(1) The Governor-General may, by Order in Council made under section 402 on the recommendation of the Minister, extend all of the deadlines under both sections 133AMA and 133AMB before expiry of the deadline to be extended.
+(2) The deadlines under sections 133AMA and 133AMB may be extended once only by a period not exceeding 2 years.
+(3) This section is repealed on 2 April 2028.
 
 ### 133AN Owner may apply for exemption from requirement to carry out seismic work
 (1) The owner of a building or a part of a building that is subject to an EPB notice may apply to a territorial authority for an exemption from the requirement to carry out seismic work on the building or part.
@@ -2358,7 +2414,7 @@ This subpart does not apply to—
     (ii) included on the National Historic Landmarks/Ngā Manawhenua o Aotearoa me ōna Kōrero Tūturu list maintained under section 81 of the Heritage New Zealand Pouhere Taonga Act 2014.
 (2) The owner of the building or the part of the building (the owner) may apply to the territorial authority for an extension of time to complete seismic work on the building or part.
 (3) An application must be in writing and must be accompanied by any fee imposed by the territorial authority under section 219.
-(4) The territorial authority may, by notice in writing to the owner, extend by up to 10 years the deadline for completing seismic work that applies under section 133AM(2) or (3)﻿(a).
+(4) The territorial authority may, by notice in writing to the owner, extend by up to 10 years the deadline for completing seismic work that applies under section 133AM, 133AMA, 133AMB, or 133AMC.
 (5) If the territorial authority grants an extension, the owner must—
   (a) take all reasonably practicable steps to manage or reduce the risks associated with the building or the part of the building being earthquake prone; and
   (b) comply with any conditions imposed by the territorial authority for the purpose of managing or reducing the risks referred to in paragraph (a).
@@ -2416,7 +2472,7 @@ This subpart does not apply to—
   (b) permit another person to use or occupy the building or part.
 
 ### 133AS Territorial authority may carry out seismic work
-(1) This section applies if seismic work on a building or a part of a building that is subject to an EPB notice is not completed by the deadline that applies under section 133AM, or is not proceeding with reasonable speed in the light of that deadline.
+(1) This section applies if seismic work on a building or a part of a building that is subject to an EPB notice is not completed by the deadline that applies under section 133AM, 133AMA, 133AMB, or 133AMC, or is not proceeding with reasonable speed in the light of that deadline.
 (2) The territorial authority may apply to the District Court for an order authorising the territorial authority to carry out seismic work on the building or the part of the building.
 (3) Before the territorial authority applies to the District Court under subsection (2), the territorial authority must give the owner of the building or the part of the building not less than 10 days' written notice of its intention to do so.
 (4) If a territorial authority carries out seismic work on a building or a part of a building under the authority of an order made under subsection (2),—
@@ -2446,7 +2502,7 @@ This subpart does not apply to—
 
 ### 133AU Offences in relation to earthquake-prone buildings
 Failure to complete seismic work
-(1) The owner of a building or a part of a building that is subject to an EPB notice who fails to complete seismic work on the building or part by the deadline that applies under section 133AM—
+(1) The owner of a building or a part of a building that is subject to an EPB notice who fails to complete seismic work on the building or part by the deadline that applies under section 133AM, 133AMA, 133AMB, or 133AMC—
   (a) commits an offence; and
   (b) is liable on conviction,—
     (i) in the case of an individual, to a fine not exceeding $300,000:
@@ -2998,7 +3054,7 @@ Resource consent under the Resource Management Act 1991 is not required for work
   (b) this subpart prevails in the event of any inconsistency in the operation of the provisions of the 2 subparts.
 (3) Despite subsection (2)﻿(a), a responsible person may bring forward—
   (a) a due date (including a due date that has been extended), for the provision of any assessment or information under subpart 6A, if the responsible person believes that the imposition of the earlier due date is reasonably necessary to enable the person to determine the matters referred to in section 133BU(1); or
-  (b) a deadline for completing seismic work under section 133AM (including a deadline that has been extended), if the responsible person believes that the imposition of the earlier deadline is reasonably necessary to remove or reduce risks of injury or death posed by the building.
+  (b) a deadline for completing seismic work under section 133AM, 133AMA, 133AMB, or 133AMC (including a deadline that has been extended), if the responsible person believes that the imposition of the earlier deadline is reasonably necessary to remove or reduce risks of injury or death posed by the building.
 (4) If a dangerous dam (within the meaning of section 153) is in a designated area,—
   (a) sections 153 to 162 continue to apply in accordance with section 153AA; and
   (b) this subpart applies to the dam and prevails in the event of any inconsistency in the operation of this subpart and sections 153 to 162.
@@ -3244,17 +3300,16 @@ An owner of a dam for which a dam safety assurance programme has been approved, 
       (B) except for the identified, minor items of non-compliance, all procedures in the dam safety assurance programme have been complied with during the previous 12 months; and
     (ii) states that the engineer is a recognised engineer; and
     (iii) has attached to it evidence that the engineer is a recognised engineer.
-(3) The owner must publicly display a copy of the dam compliance certificate in a prominent place on the dam.
-(4) A person commits an offence if the person knowingly—
-  (a) fails to display a dam compliance certificate that is required to be displayed under this section; or
-  (b) displays a false or misleading dam compliance certificate; or
-  (c) displays a dam compliance certificate otherwise than in accordance with this section.
-(5) A person who commits an offence under subsection (4)﻿(a) or (c) is liable on conviction,—
+(3) A person commits an offence if the person—
+  (a) fails to supply to the regional authority a dam compliance certificate in accordance with subsection (2); or
+  (b) supplies such a certificate, knowing that it is false or misleading in any respect.
+(4) A person who commits an offence against subsection (3)﻿(a) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $20,000:
   (b) in the case of a body corporate, to a fine not exceeding $60,000.
-(6) A person who commits an offence under subsection (4)﻿(b) is liable on conviction,—
+(5) A person who commits an offence against subsection (3)﻿(b) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $50,000:
   (b) in the case of a body corporate, to a fine not exceeding $150,000.
+(6)
 
 ### 150A Annual dam compliance certificate requirements not to apply to accredited dam owner
 Section 150 does not apply to an accredited dam owner.
@@ -3395,7 +3450,9 @@ This subpart applies to pools with a maximum depth of water of 400 mm or more.
 ### 162D Periodic inspections of residential pools
 (1) Every territorial authority must ensure that the following residential pools within its jurisdiction are inspected at least once every 3 years, within 6 months before or after the pool’s anniversary date, to determine whether the pool has barriers that comply with the requirements of section 162C:
   (a) residential pools other than small heated pools:
-  (b) small heated pools that have barriers that are not exempt, in terms of Schedule 1, from the requirement to have a building consent.
+  (b) small heated pools, except for small heated pools with a safety cover that—
+    (i) complied with the building code when the cover was installed; or
+    (ii) complies with the building code, as it currently provides.
 (2) A territorial authority may accept a certificate of periodic inspection from an independently qualified pool inspector for the purpose of subsection (1) in lieu of carrying out an inspection under section 222.
 (3) If a territorial authority decides not to accept a certificate of periodic inspection from an independently qualified pool inspector under subsection (2), the territorial authority must, within 7 working days of making that decision, give notice to the chief executive of the decision and the reasons for the decision.
 (4) If an independently qualified pool inspector inspects a pool for the purpose of this section and decides that the pool does not have barriers that comply with the requirements of section 162C (subject to any waiver or modification granted under section 67A or 188), the inspector must, within 3 working days of the date of inspection, give written notice to the relevant territorial authority of the decision, attaching any information that the chief executive requires to accompany the notice.
@@ -4339,6 +4396,7 @@ A territorial authority must, for the purpose of ensuring that it complies with 
     (i) in relation to a building consent; and
     (ii) for the performance of any other function or service under this Act; and
   (b) must collect the levy which an applicant is liable to pay to the chief executive under section 53.
+(1A) Despite subsection (1), a territorial authority may not impose a fee or charge for reissuing an EPB notice under section 133AL(2) following a change in a deadline for completing seismic work resulting from section 133AMA or an Order in Council referred to in section 133AMC.
 (2) If a fee, charge, or levy is payable to a territorial authority for the performance of a function or service under this Act, the territorial authority may refuse to perform the function or service, unless the fee, charge, or levy is paid.
 
 **Power of territorial authority to carry out building work on default**
@@ -4482,41 +4540,57 @@ A territorial authority from whom functions, duties, or powers are to be transfe
 ### Subpart 3 — Responsibilities of building consent authority that is not territorial authority or regional authority
 
 ### 237 Application of subpart
-This subpart applies to a building consent authority that—
-  (a) is registered under section 273; and
-  (b) provides services as a building consent authority in a district; but
-  (c) is not—
-    (i) the territorial authority for the district, or another territorial authority to which a function, duty, or power is transferred under section 233; or
-    (ii) the regional authority for the region, or another regional authority to which a function, duty, or power is transferred under section 244.
+This subpart applies to a stand-alone building consent authority.
 
-### 238 Duties of building consent authority
-(1) A building consent authority must, in performing its functions under Part 2,—
+### 238 Duties of stand-alone building consent authority
+(1) A stand-alone building consent authority must, in performing its functions under Part 2,—
   (a) obtain a project information memorandum before granting a building consent; and
   (b) provide to Fire and Emergency New Zealand a copy of every application for a building consent of a kind specified by notice under section 46; and
-  (c) provide to the territorial authority for the relevant district copies of the information referred to in subsection (2).
-(2) The information is—
-  (a) plans and specifications submitted to the building consent authority in relation to an application for a building consent; and
-  (b) the following information issued or received by the building consent authority in respect of a building:
-    (i) project information memoranda:
-    (ii) building consents:
-    (iii) code compliance certificates:
-    (iv) compliance schedules:
-    (iva) if applicable, the intended life of the building:
-    (ivb) statutory declarations provided by an owner-builder:
-    (ivc) records of work and certificates of work provided by licensed building practitioners under section 45(2) or 88(1)﻿(a):
-    (v) building warrants of fitness:
-    (vi) energy work certificates:
-    (vii) notices to fix:
-    (viii) any other records that relate to the information referred to in subparagraphs (i) to (vii); and
-  (c) records of any information on any land or building received by the building consent authority from a statutory authority; and
-  (d) details about any levy collected under section 53; and
-  (e) the following information about the building consent authority:
+  (c) provide to the territorial authority for the relevant district copies of,—
+    (i) in a case where the building consent authority accepts a building consent application, the information set out in section 238A(1) within 5 working days after the date of acceptance; and
+    (ii) in a case where the building consent authority decides whether or not to issue a building consent, the information set out in section 238A(2) within 5 working days after the date of the decision; and
+    (iii) in a case where the building consent authority decides whether or not to issue a code compliance certificate, the information in section 238A(3) within 5 working days after the date of the decision; and
+    (iv) the information listed in section 238A(4) within 5 working days after the date the information is issued or received by the stand-alone building consent authority.
+(2) A stand-alone building consent authority commits an offence if it fails to comply with subsection (1).
+(3) A stand-alone building consent authority that commits an offence under this section is liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part of a day during which the offence continues.
+
+### 238A Information to be supplied by stand-alone building consent authority
+(1) The information required to be provided to the territorial authority for the relevant district under section 238(1)﻿(c)﻿(i) within the time set out in that subparagraph is—
+  (a) project information memoranda:
+  (b) the following information relating to the building consent:
+    (i) plans and specifications:
+    (ii) details of any licensed building practitioners engaged to carry out restricted building work:
+    (iii) relevant correspondence and any other information that the building consent authority has received at the time when the application for a building consent was accepted:
+    (iv) any variation to plans and specifications that have national multiple use approval:
+  (c) if applicable, the intended life of the building:
+  (d) if applicable, statutory declarations provided by an owner-builder:
+  (e) any other information that is relevant to the application for a building consent and that was received when the application was accepted.
+(2) The information required to be provided to the territorial authority for the relevant district under section 238(1)﻿(c)﻿(ii) within the time set out in that subparagraph is—
+  (a) any additional project information memoranda not received with an application for a building consent:
+  (b) the following information relating to the building consent or application for a building consent:
+    (i) a copy of the final building consent:
+    (ii) if the application was not granted, the fact it was not granted and the reasons for that decision:
+    (iii) requests, and responses to requests, for further information:
+    (iv) a copy of all correspondence between the building consent authority and the applicant during the consenting process, including any updated plans:
+  (c) details of any extension for considering an application for a building consent:
+  (d) any other relevant information not received at the time the application for a building consent was accepted that was subsequently received by the building consent authority for the purposes of processing the application.
+(3) The information required to be provided to the territorial authority for the relevant district under section 238(1)﻿(c)﻿(iii) within the time set out in that subparagraph is—
+  (a) a copy of the code compliance certificate or the decision to refuse to issue that certificate:
+  (b) any minor variation to the building work agreed between the owner or builder and a building inspector:
+  (c) information relating to the outcome of the decision on whether to issue a code compliance certificate, including—
+    (i) all inspection outcomes:
+    (ii) records of work and certificates of work provided by licensed building practitioners under section 45(2) or 88(1)﻿(a):
+    (iii) energy work certificates:
+    (iv) the compliance schedules (where relevant):
+  (d) any additional relevant information received by the building consent authority between the decision to issue a building consent and the decision to issue a code compliance certificate.
+(4) The information required to be provided to the territorial authority for the relevant district under section 238(1)﻿(c)﻿(iv) within the time set out in that subparagraph is—
+  (a) records of any information on any land or building received by the building consent authority from a statutory authority:
+  (b) details about any levy collected under section 53:
+  (c) the following information about the building consent authority:
     (i) the name and contact address of the building consent authority:
     (ii) the scope of accreditation of the building consent authority:
-    (iii) whether the building consent authority has adequate means to cover any civil liabilities that may arise in the performance of its functions, and, if so, what those means are.
-(3) A building consent authority must provide the copies of the information to the territorial authority for the relevant district within 5 working days after the building consent authority issues or receives the information.
-(4) A building consent authority commits an offence if it fails to comply with subsection (3).
-(5) A building consent authority that commits an offence under this section is liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part of a day during which the offence has continued.
+    (iii) whether the building consent authority has adequate means to cover any civil liabilities that may arise in the performance of its functions, and, if so, what those means are:
+  (d) any other information that is relevant to the building consent or building consent authority that has not already been provided.
 
 ### 239 Building consent authority must provide information to chief executive
 A building consent authority must provide information to the chief executive in accordance with the regulations.
@@ -5496,7 +5570,7 @@ The register of building consent authorities referred to in section 273(1)﻿(a)
   (c) whether the building is a priority building:
   (d) the date of the EPB notice issued for the building or part:
   (e) the earthquake rating of the building or part, as determined by the territorial authority:
-  (f) the deadline for completing seismic work that applies under section 133AM (unless an exemption from the requirement to carry out seismic work is in force under section 133AN):
+  (f) the deadline for completing seismic work that applies under section 133AM, 133AMA, 133AMB, or 133AMC (unless an exemption from the requirement to carry out seismic work is in force under section 133AN):
   (g) the details of any exemption from the requirement to carry out seismic work that is in force under section 133AN:
   (h) the details of any extension of time for completing seismic work that is in force under section 133AO, including a summary of any conditions imposed by the territorial authority for the purpose of section 133AO(5)﻿(b):
   (i) any information prescribed under section 401C(e).
@@ -7497,11 +7571,7 @@ A territorial authority or a regional authority must, by 31 May 2006, apply to b
 (4) This section overrides sections 14 and 193.
 
 ### 450A Transitional and savings provision for residential pools
-(1) Fencing of a residential pool in accordance with clauses 1 to 10 of the Schedule of the Fencing of Swimming Pools Act 1987 (as that schedule was in force immediately before 1 January 2017) is an acceptable solution for establishing compliance with the building code for the purpose of section 162C.
-(2) Sections 22(2) and (3), 23, 24, and 25A apply to the acceptable solution in subsection (1) as if it had been issued by the chief executive under section 22(1) of this Act.
-(3) In this section and the Schedule of the Fencing of Swimming Pools Act 1987,—
-  - **fence** includes any part of a building, and any gate or door, that forms part of a fence
-  - **fencing** means any barrier or barriers used to enclose a pool (or an immediate pool area) so as to restrict or prevent access to the pool.
+[Repealed]
 
 ### 450B Savings provision for existing residential pools
 (1) This section applies to a residential pool that was constructed, erected, or installed before 1 January 2017 (an existing pool).
@@ -7644,6 +7714,26 @@ This Part applies until the main commencement date (as defined in clause 2 of Sc
 
 ### 13 Time limit for filing charging document
 Section 378, as in force before the commencement of section 91 of the Building (Building Products and Methods, Modular Components, and Other Matters) Amendment Act 2021, continues to apply in relation to offences committed before that commencement.
+
+### Part 5 — Provisions relating to Building (Earthquake-prone Building Deadlines and Other Matters) Amendment Act 2024
+
+### 14 Provisions of amendment Act to apply only to new levies
+(1) The provisions of this Act, as amended by the amendment Act, apply only in respect of levies imposed on or after the commencement of the amendment Act.
+(2) In this clause and clauses 15 to 17, amendment Act means the Building (Earthquake-prone Building Deadlines and Other Matters) Amendment Act 2024.
+
+### 15 EPB notices for earthquake-prone buildings
+A territorial authority must not impose a fee for issuing any notice under section 133AL(2), or any other provision of this Act, notifying building owners of changes to deadlines for completing seismic work made by the amendment Act or an Order in Council made under that Act.
+
+### 16 Clause 2 of this schedule
+(1) On the commencement of the amendment Act, clause 2 of this schedule continues to apply and—
+  (a) applications may continue to be made under clause 2(5)﻿(a); and
+  (b) a territorial authority may take further action under clause 2(5) and (6), irrespective of whether an application was made under clause 2(5)﻿(a) before, on, or after the commencement of the amendment Act.
+(2) If an extension of a deadline granted under clause 2 of this schedule is for a latter date than the extended deadline that would otherwise apply under any of sections 133AM to 133AMC, the extension granted under clause 2 applies.
+
+### 17 Offences
+(1) If, before the commencement of the amendment Act, a person has been charged under this Act with an offence relating to the failure to complete seismic work on or before 1 April 2024, the proceedings in respect of the charge continue as if the amendment Act had not been enacted.
+(2) If a person is at any time alleged to have failed to complete required seismic work on or before 1 April 2024, the person may be charged under this Act after the commencement of the amendment Act and the proceedings may be completed as if the amendment Act had not been enacted.
+(3) However, if an owner fails to comply with a deadline that expires on or after 2 April 2024 but before the commencement of the amendment Act, that person is deemed not to have committed an offence under section 133AU(1) of this Act.
 
 ## Schedule 1 — Building work for which building consent not required
 
@@ -7857,7 +7947,7 @@ Installation of a safety cover as a means of restricting access to a small heate
 Building work in connection with a dam that is not a large dam.
 
 ### 23 Tanks and pools
-Building work in connection with a tank or pool and any structure in support of the tank or pool, including any tank or pool that is part of any other building for which a building consent is required, that—
+(1) Building work in connection with a tank or pool and any structure in support of the tank or pool, including any tank or pool that is part of any other building for which a building consent is required, that—
   (a) does not exceed 500 litres capacity and is supported not more than 4 metres above the supporting ground; or
   (b) does not exceed 1 000 litres capacity and is supported not more than 3 metres above the supporting ground; or
   (c) does not exceed 2 000 litres capacity and is supported not more than 2 metres above the supporting ground; or
@@ -7865,6 +7955,7 @@ Building work in connection with a tank or pool and any structure in support of 
   (e) does not exceed 8 000 litres capacity and is supported not more than 0.5 metres above the supporting ground; or
   (f) does not exceed 16 000 litres capacity and is supported not more than 0.25 metres above the supporting ground; or
   (g) does not exceed 35 000 litres capacity and is supported directly by ground.
+(2) Subclause (1) does not include a fence or hoarding to restrict access to a tank or pool.
 
 ### 23A Flexible water storage bladders
 Building work in connection with a flexible water storage bladder that—
