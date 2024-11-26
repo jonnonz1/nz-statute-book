@@ -1,5 +1,5 @@
 # COVID-19 Public Health Response (Extension of Act and Reduction of Powers) Amendment Act 2022
-_Consolidation as at 2022-12-15_
+_Consolidation as at 2024-11-26_
 
 ### 1 Title
 This Act is the COVID-19 Public Health Response (Extension of Act and Reduction of Powers) Amendment Act 2022.
