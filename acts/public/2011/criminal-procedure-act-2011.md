@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2024-10-01_
+_Consolidation as at 2024-11-26_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -3978,12 +3978,7 @@ Sections 408 and 409 expire 2 years after the commencement date as defined in se
 ### Subpart 5 — Temporary provisions in respect of COVID-19
 
 ### 410A Application of temporary provisions in Schedule 1AB
-(1) The temporary provisions set out in Schedule 1AB apply during the period—
-  (a) beginning on the commencement of this section; and
-  (b) ending with the repeal of the COVID-19 Public Health Response Act 2020.
-(2) The temporary provisions supplement the sections of this Act while they apply.
-(3) If a temporary provision is inconsistent with a section of this Act, the temporary provision prevails.
-(4) This section and Schedule 1AB are repealed on the date on which the COVID-19 Public Health Response Act 2020 is repealed.
+[Repealed]
 
 ## Part 9 — Amendments to other enactments
 
@@ -4060,12 +4055,7 @@ In this Part, unless the context otherwise requires,—
 [Repealed]
 
 ### 2 Powers relating to right of public to enter and remain in areas of court
-(1) Nothing in sections 196 to 198 limits or affects—
-  (a) any inherent or implied powers of a judicial officer to give directions or impose requirements that must be met by persons entering and remaining in a court:
-  (b) the powers of a presiding judicial officer, the chief executive (or a person acting on their behalf), a court security officer, or a head of bench to give directions or impose requirements under clause 1(1) of the Schedule of the Courts Security Act 1999 that must be met by persons entering and remaining in a court.
-(2) In subclause (1)﻿(b),—
-  - **chief executive** , , and have the same meanings as in section 2 of the Courts Security Act 1999
-  - **head of bench** means a head of bench as defined in paragraphs (1) to (4) of the definition of that term in clause 1(6) of the Schedule of the Courts Security Act 1999.
+[Repealed]
 
 ## Schedule 1 — Category 4 offences
 
