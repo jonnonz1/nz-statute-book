@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2024-01-01_
+_Consolidation as at 2024-11-26_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -12,31 +12,17 @@ This Act is the Climate Change Response Act 2002.
 
 ### 2A Application of Schedules 3 and 4
 (1) Any provision in this Act that imposes an obligation on, or provides an entitlement to, a person in respect of an activity listed in Schedule 3 or 4—
-  (a) does not apply to that person unless—
-    (i) the Part or subpart in Schedule 3 or 4 in which the activity is listed applies; and
-    (ii) the person, if carrying out an activity listed in subpart 2 or 4 of Part 5 of Schedule 3 (for fertiliser–farmer activities or animals–farmer activities), falls within a class of persons prescribed in an Order in Council that applies that subpart; and
-  (b) applies subject to sections 2C(3), 217 to 219, 178A, and 178B.
+  (a) does not apply to that person unless the Part or subpart in Schedule 3 or 4 in which the activity is listed applies; and
+  (b) applies subject to sections 178A and 178B.
 (2) Part 1 of Schedule 3 and Part 1 of Schedule 4 apply on and after 1 January 2008.
 (2A) Part 3 of Schedule 4 applies on and after 1 July 2013.
 (3) Part 2 of Schedule 3 and Part 4 of Schedule 4 apply on and after 1 January 2009.
 (4) Subpart 1 of Part 3 of Schedule 3, subpart 1 of Part 4 of Schedule 3, and subpart 1 of Part 2 of Schedule 4 apply on and after 1 January 2010.
 (5)
-(5A) Subpart 1 of Part 5 of Schedule 3 (for fertiliser–processor activities)—
-  (a) applies on and after 1 January 2011; but
-  (b) is affected by section 219, which provides that emissions released during the following excluded period do not require units to be surrendered: the period—
-    (i) starting on 1 January 2011; and
-    (ii) ending on a date determined by that section (which may be 31 December 2024 or another date as early as 1 July 2022).
-(5B) Subpart 2 of Part 5 of Schedule 3 (for fertiliser–farmer activities)—
-  (a) applies on and after a date appointed by the Governor-General by Order in Council (see section 2B); but
-  (b) is affected by section 219, which provides that emissions released during the following excluded period do not require units to be surrendered: the first year in which that subpart 2 applies to the persons, or class of persons, carrying out that activity.
-(5C) Subpart 3 of Part 5 of Schedule 3 (for animals–processor activities)—
-  (a) applies on and after 1 January 2011; but
-  (b) is affected by section 219, which provides that emissions released during the following excluded period do not require units to be surrendered: the period—
-    (i) starting on 1 January 2011; and
-    (ii) ending on a date determined by that section (which may be 31 December 2024 or another date as early as 1 July 2022).
-(5D) Subpart 4 of Part 5 of Schedule 3 (for animals–farmer activities)—
-  (a) applies on and after 1 January 2024 or a later date appointed by the Governor-General by Order in Council (see section 2B); but
-  (b) is affected by section 219, which provides that emissions released during the following excluded period do not require units to be surrendered: the first year in which that subpart 4 applies to the persons, or class of persons, carrying out that activity.
+(5A)
+(5B)
+(5C)
+(5D)
 (6)
 (7) Subpart 2 of Part 4 of Schedule 3, Part 6 of Schedule 3, and subpart 3 of Part 2 of Schedule 4 apply on and after 1 January 2011.
 (7A) Part 1A of Schedule 3 applies on and after 1 January 2013.
@@ -56,49 +42,10 @@ This Act is the Climate Change Response Act 2002.
 (19)
 
 ### 2B Orders in Council in relation to subparts 2 and 4 of Part 5 of Schedule 3 (Agriculture)
-(1) This section relates to an Order in Council made under section 2A(5B) or (5D), which appoints a date on and after which subpart 2 or 4 of Part 5 of Schedule 3 (the subpart) applies (for fertiliser–farmer activities or animals–farmer activities).
-(2) The order must—
-  (a) be made on the recommendation of the Minister; and
-  (b) appoint a date that is 1 January in a year; and
-  (c) be made at least 1 year before the date appointed by the order.
-(3) The order may provide that the subpart applies, on and after the date appointed by the order,—
-  (a) specifically to 1 or more classes of person who carry out an activity listed in the subpart; or
-  (b) generally, to all persons who carry out an activity listed in the subpart.
-(4) Before recommending the making of the order, the Minister must comply with subsections (5) and (6).
-(5) The Minister must have regard to—
-  (a) the need for the EPA to be able to verify information contained in emissions returns of the persons who will become participants in an activity listed in the subpart by operation of the order; and
-  (b) the likelihood that, as a result of becoming participants by operation of the order, persons carrying out an activity listed in the subpart will reduce their emissions; and
-  (c) the desirability of minimising—
-    (i) the compliance and administration costs of persons who will become participants in an activity listed in the subpart by operation of the order; and
-    (ii) the administration costs of the Crown in administering the emissions trading scheme.
-(6) The Minister must consult, or be satisfied that the chief executive has consulted, the persons (or representatives of those persons) that appear to the consulter likely to have an interest in the order.
+[Repealed]
 
 ### 2C Effect of overlapping application of subparts of Part 5 of Schedule 3 (Agriculture)
-(1) This section applies—
-  (a) to the fertiliser–processor and fertiliser–farmer subparts (of Part 5 of Schedule 3) at any time that those subparts apply at the same time (because of an Order in Council made under section 2A(5B)); and
-  (b) to the animals–processor and animals–farmer subparts (of Part 5 of Schedule 3) on and after—
-    (i) 1 January 2024; or
-    (ii) if an Order in Council is made under section 2A(5D), the date appointed in that order.
-(2) If this section applies, then regulations made under section 163(1) may require—
-  (a) a person carrying out a fertiliser–processor activity and a person carrying out a fertiliser–farmer activity to—
-    (i) collect data or other information relating to the same synthetic fertiliser; and
-    (ii) calculate emissions relating to the same synthetic fertiliser; or
-  (b) a person carrying out an animals–processor activity and a person carrying out an animals–farmer activity to—
-    (i) collect data or other information relating to the same ruminant animals, pigs, horses, or poultry; and
-    (ii) calculate emissions relating to the same ruminant animals, pigs, horses, or poultry.
-(3) However,—
-  (a) on and after the first day in respect of which the person carrying out a fertiliser–farmer activity is required to surrender units for emissions relating to the fertiliser, this Act no longer applies to the person carrying out the fertiliser–processor activity in relation to that fertiliser; and
-  (b) on and after the first day in respect of which the person carrying out an animals–farmer activity is required to surrender units for emissions relating to the ruminant animals, pigs, horses, or poultry, this Act no longer applies to the person carrying out the animals–processor activity in relation to those ruminant animals, pigs, horses, or poultry.
-(4) If an Order in Council is made under section 2A(5B) that has the effect of applying the fertiliser–farmer subpart to all persons who carry out a fertiliser–farmer activity, then section 2A(5A) and the fertiliser–processor subpart are repealed on the first day in respect of which emissions from all persons carrying out a fertiliser–farmer activity may result in liability to surrender units.
-(5) On the first day on which, under section 2A(5D), the animals–farmer subpart applies to all persons who carry out an animals–farmer activity, and emissions from all persons carrying out the activity may result in liability to surrender units, section 2A(5C) and the animals–processor subpart are repealed.
-(6) If, by operation of subsection (3), (4), or (5), this Act no longer applies to a person carrying out a fertiliser–processor activity or an animals–processor activity, then—
-  (a) section 54(4) applies, with any necessary modifications, to any person who has ceased, by operation of that subsection, to be a participant in respect of that activity; and
-  (b) the person is not required to comply with section 59, but the EPA may, for the purposes of section 59(2), determine that the person has ceased to carry out the activity.
-(7) In this section and sections 2A, 2B, 216, and 219,—
-  - **animals–farmer subpart** means subpart 4 of Part 5 of Schedule 3, and means an activity listed in that subpart
-  - **animals–processor subpart** means subpart 3 of Part 5 of Schedule 3, and means an activity listed in that subpart
-  - **fertiliser–farmer subpart** means subpart 2 of Part 5 of Schedule 3, and means an activity listed in that subpart
-  - **fertiliser–processor subpart** means subpart 1 of Part 5 of Schedule 3, and means an activity listed in that subpart.
+[Repealed]
 
 ### 3 Purpose
 (1) The purpose of this Act is to—
@@ -126,7 +73,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   (ad) with respect to sections 5ZG and 5ZI (which require the Minister to prepare and publish an emissions reduction plan), the Minister must include in a emissions reduction plan a strategy to recognise and mitigate the impacts on iwi and Māori of reducing emissions and must ensure that iwi and Māori have been adequately consulted on the plan:
   (ae) with respect to section 5ZS (which requires the Minister to prepare a national adaptation plan), the Minister must, in preparing a plan, take into account the economic, social, health, environmental, ecological, and cultural effects of climate change on iwi and Māori:
   (b) with respect to the following provisions (which relate to powers to make secondary legislation), before recommending the making of secondary legislation, under those provisions, the Minister must consult, or be satisfied that the chief executive has consulted, representatives of iwi and Māori that appear to the Minister or chief executive likely to have an interest in the secondary legislation:
-    (i) section 2A(5B) or (5D) (Part 5 of Schedule 3):
+    (i)
     (ii) section 30G(1)﻿(b)﻿(i), (c), (j), or (k) (dealings with units under Part 2):
     (iii) section 30GA (auctions to sell New Zealand units):
     (iv) section 30GB (limits and price controls for units):
@@ -138,7 +85,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (ix) section 84A or 84B (phase-out rates for eligible industrial activities):
     (x) section 161D(1)﻿(a) (notice specifying description of activity in relation to industrial allocations), unless the only purpose of the notice is to require persons to provide electricity-related contracts or any information related to those contracts:
     (xa) section 161FA(6) (assumptions for the model used to determine the electricity allocation factor):
-    (xi) section 161G (eligible agricultural activities):
+    (xi)
     (xii) section 162 (adding further activity to Part 2 of Schedule 4):
     (xiii) section 163 (methodologies and verifiers):
     (xiv) section 164 (unique emissions factors):
@@ -181,7 +128,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (i) to require persons to provide electricity-related contracts or any information related to those contracts; or
     (ii) to provide the Minister with the information necessary to determine whether any matter should be considered by a review under section 160:
   (ia) section 161FA(6) (assumptions for the model used to determine the electricity allocation factor):
-  (j) section 161G(1)﻿(a)﻿(ii) (allocative baseline of eligible agricultural activity):
+  (j)
   (k) section 162 (adding further activity to Part 2 of Schedule 4):
   (l) section 163 (methodologies and verifiers):
   (m) section 164 (unique emissions factors):
@@ -194,7 +141,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   (od) section 193R (temporary adverse event suspensions):
   (p) section 194B (input returns):
   (q) section 196F (forestry classifications):
-  (r) section 216 (voluntary reporting or surrender for animals–farmer or fertiliser–farmer activity):
+  (r)
   (s)
   (t) section 244 (exemptions from payment of synthetic greenhouse gas levy):
   (u) section 246(1)﻿(a) to (e) (synthetic greenhouse gas levy):
@@ -224,9 +171,6 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **allocate** , in relation to New Zealand units,—
     (a) means the allocation or provisional allocation of New Zealand units; but
     (b) does not include the transfer of New Zealand units
-  - **animal material** has the same meaning as in section 4(1) of the Animal Products Act 1999
-  - **animal product** has the same meaning as in section 4(1) of the Animal Products Act 1999
-  - **animal welfare export certificate** means an animal welfare export certificate issued under section 46 of the Animal Welfare Act 1999
   - **annual financial statements of the Government** has the meaning given in section 2(1) of the Public Finance Act 1989
   - **approved overseas unit** means a unit, other than a New Zealand unit, that is—
     (a) issued (as defined by this section); and
@@ -270,7 +214,6 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (a) means a holding account that is established and held by the Crown in accordance with a direction of the Minister of Finance under section 6; and
     (b) does not include a holding account opened by any other person on behalf of the Crown under section 18A
   - **Crown land** has the same meaning as in section 2(1) of the Crown Minerals Act 1991
-  - **dairy processing** , in relation to milk or colostrum, means the first occasion, other than at a farm dairy, on which the milk or colostrum is made subject to heat treatment, freezing, separation, concentration, filtering, blending, extraction of milk components, and the addition of other material, including (but not limited to) food, ingredients, additives, or processing aids as defined in the Food Standards Code
   - **deforest** , in relation to forest land,—
     (a) means to convert forest land to land that is not forest land (see section 180A, for example); and
     (b) includes deforestation after forest land is cleared, where section 179 applies
@@ -294,10 +237,6 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (a) controlling the distribution of electricity; or
     (b) controlling or protecting electrical circuits and electrical equipment; or
     (c) the transmission of electricity
-  - **eligible activity** means—
-    (a) an eligible agricultural activity; or
-    (b) an eligible industrial activity
-  - **eligible agricultural activity** means an activity or subclass of an activity listed in Part 5 of Schedule 3 in respect of which a person is required to surrender units for emissions under this Act
   - **eligible industrial activity** means an activity that is specified as an eligible industrial activity in regulations made under section 161A
   - **eligible person** means a person who meets any requirements for receiving an allocation of New Zealand units specified in, as relevant,—
     (a) section 80(1):
@@ -333,7 +272,6 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (b) does not include any forest land that met the definition in paragraph (a), but has been deforested, and in respect of which the number of units that would have been required to be surrendered in relation to an activity listed in Part 1 of Schedule 3, had the land not been exempt land, have been surrendered under section 182A(2)
   - **exotic forest species** means a forest species that is not an indigenous forest species
   - **export** has a corresponding meaning to exportation in section 5(1) of the Customs and Excise Act 2018
-  - **farm dairy** has the same meaning as in section 4(1) of the Animal Products Act 1999
   - **financial year** has the same meaning as in section 2(1) of the Public Finance Act 1989
   - **first rotation forest** has the meaning given in section 191C(3) and (4)
   - **Food Standards Code** has the same meaning as in section 4(1) of the Animal Products Act 1999
@@ -647,9 +585,7 @@ The functions of the Commission are—
   (fb) to make recommendations to the Minister about decreased or increased phase-out rates (see section 5ZOB):
   (g) to prepare national climate change risk assessments (see section 5ZQ):
   (h) to prepare reports on the implementation of the national adaptation plan (see section 5ZU):
-  (ha) to provide advice to the Minister (as required by section 220) on the progress that has been made towards—
-    (i) meeting the primary sector climate change commitments set out in Schedule 5; and
-    (ii) participants in the activities listed in subpart 4 of Part 5 of Schedule 3 (for animals–farmer participants) being ready to start complying with reporting and surrender obligations under this Act:
+  (ha)
   (i) to provide other reports requested by the Minister (see section 5K).
 
 ### 5K Reports to Government
@@ -1653,7 +1589,7 @@ No action may be brought against the Crown or the Registrar for any loss or dama
 (8) In this section,—
   - **approved overseas units used** means the number of approved overseas units used by participants in a calendar year by, for example, being transferred to holding accounts or being surrendered
   - **New Zealand units available by auction** means the number of New Zealand units sold by auction in a calendar year
-  - **New Zealand units available by other means** means the number of New Zealand units that are allocated for eligible activities, or provided to participants under negotiated greenhouse agreements, in a calendar year.
+  - **New Zealand units available by other means** means the number of New Zealand units that are allocated for eligible industrial activities, or provided to participants under negotiated greenhouse agreements, in a calendar year.
 (9) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 ExampleRegulations are first made under this section in December 2020. They must prescribe the individual limits, overall limits, and price control settings for the 5 (or 6) years from 2021 to 2025 (or 2026). In 2021, the regulations—must be amended to apply (or in how they apply) to 2026; andmay be amended to prescribe new individual limits, overall limits, and price control settings for 2024 and 2025; andmay be amended to prescribe new price control settings for 2022 or 2023.
 
@@ -1761,7 +1697,7 @@ An auction monitor who knowingly acts in contravention of section 30GF commits a
 ### 30IA Minister must obtain greenhouse gas reductions to match certain excess units
 (1) This section applies to the following New Zealand units (if any) to the extent that they cause the emissions budget for an emissions budget period to be exceeded:
   (a) the units sold by auction, after being released in a reserve amount, in that period:
-  (b) the units allocated for eligible activities, or provided to participants under negotiated greenhouse agreements, in that period.
+  (b) the units allocated for eligible industrial activities, or provided to participants under negotiated greenhouse agreements, in that period.
 (2) The Minister must ensure, or enter into agreements that require, that the emission of greenhouse gases is reduced, or the removal of greenhouse gases from the atmosphere is increased, by 1 tonne of carbon dioxide equivalent for each of the units, whether by domestic means or offshore mitigation.
 (3) The deadline for the Minister to do so is as soon as is reasonably practicable after the end of the emissions budget period.
 
@@ -1914,7 +1850,7 @@ The inventory agency must publish New Zealand's annual inventory report, nationa
 (1) The Minister may authorise the following persons, provided that they are suitably qualified and trained, to exercise any or all of the powers of, and carry out any or all of the duties of an inspector under this Part:
   (a) employees of the inventory agency; or
   (b) employees of the Ministry for Primary Industries and employees of any other department of the public service prescribed by regulation; or
-  (c) employees of New Zealand Forest Research Institute Limited, Landcare Research New Zealand Limited, AgResearch Limited, and employees of any other Crown Research Institute (within the meaning of the Crown Research Institutes Act 1992) prescribed by regulation; or
+  (c) employees of New Zealand Institute for Bioeconomy Science Limited, and employees of any other Crown Research Institute (within the meaning of the Crown Research Institutes Act 1992) prescribed by regulation; or
   (d) employees of the EPA.
 (2) An authorisation is subject to the terms and conditions that are agreed to by the Minister and the chief executive of the agency that employs the person authorised to be an inspector.
 (3) The Minister must supply an inspector with a warrant of authorisation that clearly states the powers and duties of that inspector.
@@ -2113,12 +2049,12 @@ For the purpose of reporting to the Secretariat in accordance with international
 ### 54 Participants
 (1) A person is a participant,—
   (a) in respect of an activity listed in Schedule 3, if the person—
-    (i) is required under section 180, 181P, 204, or 213 to be treated as the person carrying out the activity; or
+    (i) is required under section 180, 181P, or 204 to be treated as the person carrying out the activity; or
     (ii) if subparagraph (i) does not apply, carries out the activity; and
   (b) in relation to an activity listed in Schedule 4, if the person—
     (i) carries out the activity, is registered as a participant under section 57 in respect of the activity, and that registration has taken effect; or
     (ii) becomes a participant under Part 5 in respect of the activity and is not removed from the register in respect of that activity.
-(2) Any reference in the ETS participant provisions to a person or participant carrying out an activity must be read as referring to the person who is to be treated under section 180, 181P, 204, or 213 as carrying out the activity, or if those sections do not apply, to the person or participant carrying out the activity.
+(2) Any reference in the ETS participant provisions to a person or participant carrying out an activity must be read as referring to the person who is to be treated under section 180, 181P, or 204 as carrying out the activity, or if those sections do not apply, to the person or participant carrying out the activity.
 (3) Subsection (1)﻿(a) is subject to any exemption under an Order in Council made under section 60.
 (4) A person who was a participant under subsection (1) continues to be a participant for the purposes of this Act in respect of any obligations (including, but not limited to, the obligation to retain records in accordance with section 67), or entitlements under section 64, arising in respect of an activity listed in Schedule 3 or 4 that the person carried out while a participant.
 (5) The EPA must ensure that the registers, or the information contained in the registers, kept for the purposes of section 56 or 57 are open for public inspection, without fee, on the EPA's Internet site and in any other form the EPA considers appropriate.
@@ -2205,7 +2141,7 @@ For the purpose of reporting to the Secretariat in accordance with international
   (b) notify the person that the person’s name—
     (i) has been removed from the register in respect of the activity; or
     (ii) if the person’s name will be removed from the register in respect of the activity on a future date, that the person’s name will be removed from the register in respect of the activity on that date.
-(3) This section is subject to sections 200 and 211.
+(3) This section is subject to sections 200 and 211 and Part 4 of Schedule 1AA.
 
 ### 59AA Removal from register for persistent non-compliance (standard forestry participants only)
 (1) The EPA may remove the name of a person from the register kept under section 57 in respect of an activity of standard forestry if—
@@ -2389,9 +2325,7 @@ For the purpose of reporting to the Secretariat in accordance with international
   (f) be signed by the participant.
 (2A)
 (3) The participant must submit the annual emissions return under subsection (1) by submitting it in the prescribed manner and format.
-(4) Following the submission of an annual emissions return under subsection (1),—
-  (a) a participant (other than a participant carrying out an activity listed in Part 5 of Schedule 3) must, by 31 May, surrender the number of units listed in the participant’s assessment under subsection (2)﻿(c)﻿(i); and
-  (b) a participant carrying out an activity listed in Part 5 of Schedule 3 must, by 31 May, surrender the number of units listed in the participant’s assessment under subsection (2)﻿(c)﻿(i) less the number of units allocated to the participant for the year to which the assessment relates under section 86BA.
+(4) Following the submission of an annual emissions return under subsection (1), a participant must, by 31 May, surrender the number of units listed in the participant’s assessment under subsection (2)﻿(c)﻿(i).
 (5) Despite the rest of this section, a participant in an activity of standard forestry or permanent forestry (on post-1989 forest land) must instead submit emissions returns as required by Part 5.
 (6) To avoid doubt, a person carrying out an activity on land to which section 179A applies (and which therefore may not be treated as deforested) is not carrying out an activity listed in Schedule 3, and so does not have to submit an annual emissions return under subsection (1).
 
@@ -2485,7 +2419,7 @@ For the purpose of reporting to the Secretariat in accordance with international
 ### 79 Effect of new determination
 [Repealed]
 
-**Allocation of New Zealand units in relation to industry and agriculture**
+**Allocation of New Zealand units in relation to industry**
 
 ### 80 Criteria for allocation of New Zealand units to industry
 (1) A person is eligible for an allocation of New Zealand units for an eligible industrial activity in respect of a year if the person carries out the activity at any time in a year.
@@ -2645,49 +2579,27 @@ For the purpose of reporting to the Secretariat in accordance with international
   (b) make the report publicly available.
 
 ### 85 Allocation of New Zealand units in relation to agriculture
-(1) A person is eligible for an allocation of New Zealand units for an eligible agricultural activity in respect of a year if the person carries out the activity at any time in the year.
-(2) An eligible person is entitled to an allocation for the eligible agricultural activity in respect of the year calculated in accordance with the following formula:A = LA × ∑(PDCT × AB)where—Ais the person's allocation entitlement for the eligible agricultural activity for the yearLAis the level of assistance for the eligible agricultural activity for the year, being—∑is the symbol for summation (of each PDCT × AB calculation)PDCTis the total amount of each product from the eligible agricultural activity produced by the person in the year as determined, if relevant, in accordance with regulations made under this ActABis the prescribed allocative baseline for the applicable product.
-  (a) 0.95 for the first year in which surrender obligations are applicable for the activity; and
-  (b) in each year after the first year in which surrender obligations are applicable for the activity, the level of assistance from the previous year less 0.01 (the phase-out rate for an eligible agricultural activity)
-(3) Despite section 86(1)﻿(c), a person who ceases to carry out an eligible agricultural activity in a year may, within 20 working days of ceasing to carry out the activity, apply under section 86 for an allocation for that year calculated in accordance with the formula in subsection (2).
-(4) A person—
-  (a) is not to be treated as having ceased to carry out an eligible agricultural activity for the purposes of subsection (3) and section 59, if the person does not continuously carry out the activity during a year; but
-  (b) must, if the person does not carry out the eligible agricultural activity for a period of 3 months in a year, be treated as having ceased to carry out the activity in the year.
-(5) Subject to subsection (6), an eligible person who has applied for an allocation for a year (the closing year) in accordance with subsection (3) may not apply under section 86 for a further allocation in respect of the closing year.
-(6) An eligible person who has applied in accordance with subsection (3) for an allocation in respect of a closing year, but who then recommences carrying out the activity in the closing year may apply under section 86 for an allocation in respect of the part of the year after the date the person recommenced carrying out the activity (and which was not covered by the application made in accordance with subsection (3)) and, for that purpose, subsection (2) applies as if the year were the part of the year from the date the person recommenced carrying out the activity.
+[Repealed]
 
 ### 85A Temporary suspension of phase-out rate for assistance under section 85(2)
-(1) The purpose of this section is to suspend temporarily the phase-out rate for assistance under section 85(2) until the relevant participants face full surrender obligations.
-(2) Despite anything in section 85(2),—
-  (a) the phase-out rate in that section may not reduce the level of assistance for an eligible activity from the level in the first year in which full surrender obligations are applicable for the activity during the period—
-    (i) beginning on the date that this section comes into force; and
-    (ii) ending, in respect of either or both of those activities, on the close of the date specified for the purpose of this section as the closure date in an Order in Council made by the Governor-General on the recommendation of the Minister; and
-  (b) the phase-out rate applies for each year after the year of the closure date specified in that order.
-(2A) Before recommending the making of an Order in Council under subsection (2)﻿(a)﻿(ii), the Minister must consider the advice of the Climate Change Commission about whether the phase-out rates should continue to be suspended.
-(3) The Minister must not make a recommendation under subsection (2)﻿(a)﻿(ii) before surrender obligations for the relevant participants start.
-(4) This section is repealed on the day after the closure date specified in the Order in Council made under subsection (2)﻿(a)﻿(ii) that specifies the end of all suspensions under this section.
-(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 85B Temporary suspension of allocation entitlement for eligible agricultural activities
 [Repealed]
 
-### 86 Applications for allocation of New Zealand units for industry and agriculture
-(1) An eligible person who wishes to be allocated New Zealand units for an eligible industrial activity or eligible agricultural activity under this subpart must apply to the EPA in the relevant period under subsection (1A), unless this subpart otherwise provides.
+### 86 Applications for allocation of New Zealand units for industry
+(1) An eligible person who wishes to be allocated New Zealand units for an eligible industrial activity under this subpart must apply to the EPA in the relevant period under subsection (1A), unless this subpart otherwise provides.
 (1A) The application must be made,—
   (a) for a provisional allocation for an eligible industrial activity, in the period starting on 1 January and ending on 30 April in the year in respect of which the allocation is sought:
-  (b) for an allocation for an eligible industrial activity (other than a provisional allocation), in the period starting on 1 January and ending on 30 April in the year after the year in respect of which the allocation is sought:
-  (c) for an allocation for an eligible agricultural activity, in the period starting on 1 January and ending on 31 March in the year after the year in respect of which the allocation is sought.
+  (b) for an allocation for an eligible industrial activity (other than a provisional allocation), in the period starting on 1 January and ending on 30 April in the year after the year in respect of which the allocation is sought.
+  (c)
 (2) An application under subsection (1) must—
   (a) be in the prescribed form; and
-  (b) contain, as relevant, the applicant’s assessment of,—
-    (i) in the case of an eligible industrial activity, the person’s—
-      (A) provisional allocation entitlement in respect of the year calculated in accordance with section 81:
-      (B) final allocation entitlement in respect of the previous year calculated in accordance with section 83(2):
-      (C) annual allocation adjustment relating to the previous year calculated in accordance with section 83(3) or 84(4):
-      (D) closing allocation adjustment for the year calculated as required under section 84(1)﻿(b):
-    (ii) in the case of an eligible agricultural activity, the person’s—
-      (A) allocation entitlement in respect of the previous year calculated in accordance with section 85(2); or
-      (B) if section 85(3) applies, allocation entitlement in respect of the year in which the person ceased to carry out the eligible agricultural activity; and
+  (b) contain, as relevant, the applicant’s assessment of their—
+    (i) provisional allocation entitlement in respect of the year calculated in accordance with section 81:
+    (ii) final allocation entitlement in respect of the previous year calculated in accordance with section 83(2):
+    (iii) annual allocation adjustment relating to the previous year calculated in accordance with section 83(3) or 84(4):
+    (iv) closing allocation adjustment for the year calculated as required under section 84(1)﻿(b); and
   (c) be accompanied by—
     (i) any other information that the EPA may require; and
     (ii) the prescribed fee (if any); and
@@ -2715,33 +2627,15 @@ Despite section 86(1A)﻿(a), if an eligible industrial activity is prescribed u
   (c) if the result of the decision is that the person is liable to repay more units than the number of units to which the person would have been entitled in respect of the application, the number of units in the shortfall; and
   (d) the person's right under section 144 to seek a review of the allocation decision.
 (4) If a person has failed to notify the EPA of an annual allocation adjustment or a closing allocation adjustment when required by section 83(6)﻿(b) or 84(1)﻿(c)﻿(ii), or if the EPA is satisfied that an annual allocation adjustment or closing allocation adjustment notified by a person to the EPA under section 83(6)﻿(b) or 84(1)﻿(c)﻿(ii) is incorrect, then the EPA may make a decision as to the person’s annual allocation adjustment, or closing allocation adjustment or correct annual allocation adjustment or closing allocation adjustment.
-(5) The EPA must, as soon as practicable, after deciding an eligible person’s final allocation for an eligible activity in respect of a year,—
+(5) The EPA must, as soon as practicable, after deciding an eligible person’s final allocation for an eligible industrial activity in respect of a year,—
   (a) publish the decision in the Gazette; and
   (b) ensure it is accessible via the Internet site of the EPA.
 (6) For the purposes of subsection (5),—
   (a) the final allocation of a person who received a provisional allocation for an eligible industrial activity is the person’s provisional allocation for the activity in respect of the year adjusted by the annual allocation adjustment for the activity for the year (or closing allocation adjustment, as the case may be); and
-  (b) the EPA is not required to publish the final allocation of an eligible person for an eligible activity in respect of a year, or ensure it is accessible via the Internet, if the EPA considers that publishing that information would be likely to prejudice unreasonably the commercial position of the eligible person who received the allocation.
+  (b) the EPA is not required to publish the final allocation of an eligible person for an eligible industrial activity in respect of a year, or ensure it is accessible via the Internet, if the EPA considers that publishing that information would be likely to prejudice unreasonably the commercial position of the eligible person who received the allocation.
 
 ### 86BA Decisions on applications for allocations of New Zealand units to agriculture
-(1) This section applies if—
-  (a) the EPA receives an application under section 86 in respect of an eligible agricultural activity; and
-  (b) the applicant has submitted any emissions returns that are due.
-(2) The EPA must decide—
-  (a) whether the applicant is eligible to receive an allocation in respect of the application:
-  (b) if in the EPA's opinion the applicant is eligible for an allocation, the number of units the applicant is entitled to be allocated.
-(3) If the EPA decides that an applicant is entitled to receive an allocation, then the EPA must—
-  (a) notify the applicant of—
-    (i) the number of units the applicant has been allocated; and
-    (ii) the person's right under section 144 to seek a review of the allocation decision; and
-  (b) comply with section 86BC.
-(4) If the EPA decides that an applicant is not eligible to receive an allocation, then the EPA must notify the applicant of—
-  (a) the EPA's decision; and
-  (b) the reasons for the decision; and
-  (c) the person's right under section 144 to seek a review of the allocation decision.
-(5) The EPA must, as soon as practicable after deciding an eligible person’s allocation for an eligible agricultural activity in respect of a year,—
-  (a) publish the decision in the Gazette; and
-  (b) ensure that it is accessible via the Internet site of the EPA.
-(6) However, the EPA is not required to publish the allocation of an eligible person for an eligible agricultural activity in respect of a year, or ensure that it is accessible via the Internet, if the EPA considers that publishing that information would be likely to prejudice unreasonably the commercial position of the eligible person who received the allocation.
+[Repealed]
 
 ### 86BB Transfer of allocated units to industry, less any units that must be surrendered or repaid
 The EPA must apply section 64A as follows:
@@ -2750,29 +2644,10 @@ The EPA must apply section 64A as follows:
   (c) the start of the year to which the allocation relates is the relevant time.
 
 ### 86BC Transfer of allocated units to agriculture, less any units that must be surrendered or repaid
-(1) This section applies to the units allocated to an applicant under section 86BA (the potential transfer units).
-(2) The EPA must calculate the specified units by counting units in the following order, but stopping once they equal the number of potential transfer units (if they do):
-  (a) first, the units required for surrender as a result of the assessment for the year to which the allocation relates:
-  (b) second, the units (if any) that the applicant was required to, but did not, surrender, or repay to a Crown holding account, as a result of an assessment for an earlier year, starting from the units that were required to be surrendered or repaid by the earliest dates.
-(3) The EPA must notify the applicant of the following:
-  (a) the number of specified units calculated under subsection (2)﻿(a) that are required for surrender:
-  (b) the number of specified units calculated under subsection (2)﻿(b) that are required for surrender:
-  (c) the number of specified units calculated under subsection (2)﻿(b) that are required for repayment:
-  (d) that the specified units will be deducted from the potential transfer units when they are transferred to the applicant, excluding any specified units that have already been surrendered or repaid by then.
-(4) The EPA must direct the Registrar to transfer—
-  (a) the specified units required for surrender to a surrender account designated by the EPA; and
-  (b) the specified units required for repayment to a Crown holding account designated by the EPA; and
-  (c) any potential transfer units left after the specified units are deducted to the applicant’s holding account.
-(5) However, the Registrar, in transferring—
-  (a) any units under subsection (4), must exclude any specified units that have already been surrendered or repaid by then:
-  (b) any specified units under subsection (4)﻿(a) or (b), may first transfer them to the applicant’s holding account and then immediately transfer them from that holding account.
-(6) The transfer of any specified units for surrender or repayment satisfies—
-  (a) the applicant’s entitlement to be transferred those units; and
-  (b) the applicant’s obligation to surrender or repay the related units.
-(7) To avoid doubt, the applicant remains liable to surrender or repay any units that are not counted as specified units (because they exceed the number of potential transfer units).
+[Repealed]
 
 ### 86C Reconsideration of allocation decisions
-(1) Without limiting section 144, the EPA may reconsider, vary, or revoke any decision made under section 86B or 86BA if in the EPA's opinion the decision has resulted, or would otherwise result, in a person receiving an incorrect allocation because—
+(1) Without limiting section 144, the EPA may reconsider, vary, or revoke any decision made under section 86B if in the EPA's opinion the decision has resulted, or would otherwise result, in a person receiving an incorrect allocation because—
   (a) of an error in the calculation of the person’s entitlement to an allocation or liability to repay units under this subpart; or
   (b) the person has provided altered, false, incomplete, or misleading information in or with an application.
 (2) The EPA may not make a decision in relation to an annual allocation adjustment or a closing allocation adjustment under section 86B(4) or vary or revoke a decision under subsection (1) after the expiration of 4 years from the end of the year or other period to which the decision relates if the decision, or variation or revocation of the decision, would decrease the number of units allocated to a person.
@@ -2788,10 +2663,10 @@ The EPA must apply section 64A as follows:
 (6) Section 83(7) applies to repayment of units under subsection (5) as if it were repayment under section 83.
 
 ### 86D Retention of records and materials in relation to allocation
-(1) A person who has been allocated New Zealand units for an eligible activity must keep sufficient records to enable the EPA to verify, for any year in respect of which the person received an allocation,—
+(1) A person who has been allocated New Zealand units for an eligible industrial activity must keep sufficient records to enable the EPA to verify, for any year in respect of which the person received an allocation,—
   (a) that the person was an eligible person; and
   (b) the person’s calculations of the person’s entitlement to be allocated New Zealand units or liability to repay units under the relevant subsections in sections 81 to 85; and
-  (c) the total amount of each product produced by the person from the eligible activity in the year, as determined, if relevant, in accordance with regulations made under this Act; and
+  (c) the total amount of each product produced by the person from the eligible industrial activity in the year, as determined, if relevant, in accordance with regulations made under this Act; and
   (d) any other prescribed information.
 (2) The records specified in subsection (1)—
   (a) must include—
@@ -2800,7 +2675,7 @@ The EPA must apply section 64A as follows:
   (b) must be retained for a period of at least 7 years after the end of the year to which the application or notice relates.
 
 ### 86E EPA may require further information for purpose of carrying out functions under subpart
-(1) For the purposes of making a decision under section 86B or 86BA, the EPA may give to any of the following persons a notice requiring the person to supply information or further information to the EPA:
+(1) For the purposes of making a decision under section 86B, the EPA may give to any of the following persons a notice requiring the person to supply information or further information to the EPA:
   (a) a person who has made an application for an allocation of New Zealand units or notified an annual allocation adjustment or closing allocation adjustment:
   (b) a person who has failed to notify an annual allocation adjustment or closing allocation adjustment as required by section 83(6)﻿(b) or 84(1)﻿(c)﻿(ii):
   (c) a person who may be affected by a reconsideration of the decision.
@@ -2808,7 +2683,7 @@ The EPA must apply section 64A as follows:
 (3) A notice under subsection (1) may require the information to be provided that is necessary to determine whether a person is or was—
   (a) eligible for an allocation of New Zealand units; or
   (b) entitled to the allocation that the person has applied for or received (in relation to an annual allocation adjustment or a closing allocation adjustment).
-(4) The EPA may, for the purpose of verifying whether a decision made under section 86B or 86BA was correct or whether it should be reconsidered, give a notice to a person who has been allocated New Zealand units under that section requiring the person to supply to the EPA any records, data, or other information that the person is required to keep in relation to the allocation.
+(4) The EPA may, for the purpose of verifying whether a decision made under section 86B was correct or whether it should be reconsidered, give a notice to a person who has been allocated New Zealand units under that section requiring the person to supply to the EPA any records, data, or other information that the person is required to keep in relation to the allocation.
 (5) A person who has received a notice under this section must supply the information requested within the period specified in the notice.
 (6) A person who fails to comply with a notice under this section within the period specified in the notice, or any further period agreed with the EPA, and who has applied for an allocation under section 86, is not entitled to receive an allocation in respect of that application.
 
@@ -2823,7 +2698,7 @@ The EPA must apply section 64A as follows:
 (1) The functions of the EPA are to—
   (a) keep a register under section 56 of persons who carry out activities and a register of persons who register under section 57 as participants; and
   (b) receive and collate the data and other information provided by participants under the ETS participant provisions; and
-  (ba) administer allocations relating to industry and agriculture in accordance with sections 80 to 86E; and
+  (ba) administer allocations relating to industry in accordance with sections 80 to 86E; and
   (c) approve the use of unique emissions factors by participants in accordance with section 91; and
   (d) direct the Registrar to transfer New Zealand units to which participants are entitled for removal activities to participants’ holding accounts; and
   (e) ensure participants and eligible persons comply with the ETS participant provisions and to take any action that may be appropriate to enforce those provisions and any regulations made under those provisions; and
@@ -3093,7 +2968,7 @@ No enforcement officer or person called upon to assist an enforcement officer wh
   (b) whether the person—
     (i) is a participant in respect of an activity listed in Schedule 3 or is eligible to register as a participant in respect of an activity listed in Schedule 4; or
     (ii) would be either of those things if certain proposals were carried out or events happened:
-  (c) the correct application of any provision contained in regulations made under section 161A, 161G, 163, 164, 167, 168, 180G, 181W, 190F, 191I, 192U, 193R, 194B, 196F, or 197A in respect of a particular matter specified in the person’s application:
+  (c) the correct application of any provision contained in regulations made under section 161A, 163, 164, 167, 168, 180G, 181W, 190F, 191I, 192U, 193R, 194B, 196F, or 197A in respect of a particular matter specified in the person’s application:
   (ca) whether any of this Act’s requirements that relate to a decision that the EPA can make about forest land on land that the person has, or will have, an interest in are satisfied, or would be satisfied if certain proposals were carried out or events happened—for example, the requirements that must be satisfied—
     (i) for any forest land that is cleared to not be treated as deforested (for the purposes of this Act) under section 179A:
     (ii) for pre-1990 forest land to be eligible for a decision to be made under section 180E(3)﻿(a) (exemptions for deforestation of land with tree weeds):
@@ -3814,7 +3689,7 @@ If a party to any proceedings before the District Court under section 145 is dis
 (1) Any 2 or more members of a group may elect to form and be treated as a consolidated group, for the purposes of the ETS participant provisions, in respect of any activity or activities listed in Schedule 3 or 4 other than forestry activities.
 (2) A consolidated group may consist of any of the following:
   (a) 1 or more participants:
-  (b) 1 or more eligible persons for an eligible activity:
+  (b) 1 or more eligible persons for an eligible industrial activity:
   (c) 1 other member that is not a participant or an eligible person, if that entity is to act as the nominated entity.
 (3) An election under subsection (1) must be made by giving notice to the EPA in the prescribed form.
 (4) A notice given under subsection (3) must—
@@ -3824,7 +3699,7 @@ If a party to any proceedings before the District Court under section 145 is dis
   (b) nominate one of the entities listed in the notice (the nominated entity) as the agent of the consolidated group in respect of the activities specified in the notice and the ETS participant provisions; and
   (c) contain an agreement by each entity listed in the notice as a member of the consolidated group—
     (i) to be jointly and severally liable with the other members of the consolidated group for any obligations under the ETS participant provisions in respect of emissions and removals resulting from, or allocations, penalties, or interest relating to, the activities specified in the notice; and
-    (ii) to the transfer to the consolidated group's holding account on behalf of the group of any units to which any member of the consolidated group may become entitled in respect of any removal activity, or by an allocation relating to an eligible activity, listed in the notice.
+    (ii) to the transfer to the consolidated group's holding account on behalf of the group of any units to which any member of the consolidated group may become entitled in respect of any removal activity, or by an allocation relating to an eligible industrial activity, listed in the notice.
 (5) The EPA must acknowledge the formation of a consolidated group by notice to all members of the group given within 1 month after the EPA's receipt of a notice under subsection (3).
 (6) Two or more entities who make an election under subsection (1) must be treated, for the purposes of the ETS participant provisions, as being members of a consolidated group,—
   (a) if notice of the formation of the consolidated group is received by the EPA by 30 September in any year, from the beginning of that year:
@@ -3832,8 +3707,8 @@ If a party to any proceedings before the District Court under section 145 is dis
 (6A) Despite subsection (1), 2 or more members of a group may, if they elect to form a consolidated group in respect of an activity to which subsection (1) applies, give notice to the EPA under subsection (3)—
   (a) at the same time they all give notice to the EPA under section 56 in respect of that activity; or
   (b) at the same time they all submit an application under section 57 in respect of that activity; or
-  (c) at the same time they all submit an application under section 86 in respect of that eligible activity.
-(6B) Despite sections 56(1), 57(3), and 61, an entity that gives notice to the EPA in accordance with subsection (6A) is not required to have its own holding account under section 61 to comply with its obligations as a participant or an eligible person in respect of an activity specified in the notice given under subsection (3) and is not required to open a holding account when giving notice under section 56 or making an application under section 57 in respect of an activity, or making an application under section 86 in respect of an eligible activity, if—
+  (c) at the same time they all submit an application under section 86 in respect of that eligible industrial activity.
+(6B) Despite sections 56(1), 57(3), and 61, an entity that gives notice to the EPA in accordance with subsection (6A) is not required to have its own holding account under section 61 to comply with its obligations as a participant or an eligible person in respect of an activity specified in the notice given under subsection (3) and is not required to open a holding account when giving notice under section 56 or making an application under section 57 in respect of an activity, or making an application under section 86 in respect of an eligible industrial activity, if—
   (a) the notice given in accordance with subsection (6A) is received by the EPA by 30 September in the year in which that notice is given; and
   (b) the nominated entity specified in the notice given in accordance with subsection (6A) has, or has applied for, a holding account in the name of the consolidated group.
 (7) To avoid doubt, a participant or an eligible person may be a member of more than 1 consolidated group in relation to different activities.
@@ -3846,21 +3721,21 @@ If a party to any proceedings before the District Court under section 145 is dis
     (ii) the activity or activities in respect of which the entity elects to be treated as a member of that consolidated group; and
   (b) contain the agreement of the entity—
     (i) to be jointly and severally liable with the other members of the consolidated group for any obligations under the ETS participant provisions in respect of emissions and removals resulting from, or allocations, penalties, or interest relating to, the activities of the members of the group; and
-    (ii) to the transfer to the consolidated group’s holding account on behalf of the group of any units to which the entity may become entitled in relation to any removal activities, or by an allocation relating to an eligible activity, specified in the notice; and
+    (ii) to the transfer to the consolidated group’s holding account on behalf of the group of any units to which the entity may become entitled in relation to any removal activities, or by an allocation relating to an eligible industrial activity, specified in the notice; and
   (c) contain the agreement of every existing member of the consolidated group—
     (i) to be jointly and severally liable with the other members of the group for any obligations under the ETS participant provisions in respect of emissions and removals resulting from, or allocations relating to, the activities of the joining entity; and
-    (ii) to the transfer to the consolidated group’s holding account, on behalf of the group, of any units to which the joining entity may become entitled in respect of the activity or activities of that entity, or by an allocation relating to an eligible activity of that entity, specified in the notice.
+    (ii) to the transfer to the consolidated group’s holding account, on behalf of the group, of any units to which the joining entity may become entitled in respect of the activity or activities of that entity, or by an allocation relating to an eligible industrial activity of that entity, specified in the notice.
 (3) The EPA must acknowledge the joining of a member to a consolidated group by notice to all members of the group given within 1 month after the EPA's receipt of a notice under subsection (1).
 (4) Subject to subsection (6), a participant or eligible person that elects under subsection (1) to join a consolidated group must be treated, for the purposes of the ETS participant provisions, as being a member of that consolidated group from 1 January of the year in which they gave the notice under subsection (1).
 (5) An entity other than a participant or eligible person that elects under subsection (1) to join a consolidated group must be treated for the purposes of this Part as being a member of that consolidated group from the date of receipt by the EPA of the notice under subsection (1), or from any later date that may be specified in the notice.
-(6) A participant in respect of an activity, or an eligible person in respect of an eligible activity, may give notice to the EPA under subsection (1)—
+(6) A participant in respect of an activity, or an eligible person in respect of an eligible industrial activity, may give notice to the EPA under subsection (1)—
   (a) at the same time as giving notice to the EPA under section 56 in respect of that activity; or
   (b) when submitting an application under section 57 in respect of that activity; or
-  (c) when submitting an application under section 86 in respect of that eligible activity.
+  (c) when submitting an application under section 86 in respect of that eligible industrial activity.
 (7) Despite sections 56(1), 57(3), and 61, an entity that gives notice to the EPA in accordance with subsection (6) is not required to have its own holding account under section 61 to comply with its obligations as a participant or an eligible person in respect of an activity specified in the notice given under subsection (1) and is not required to apply for a holding account, when—
   (a) giving notice to the EPA under section 56 in respect of that activity; or
   (b) submitting an application under section 57 in respect of that activity; or
-  (c) submitting an application under section 86 in respect of that eligible activity.
+  (c) submitting an application under section 86 in respect of that eligible industrial activity.
 
 ### 151A Addition of activities to consolidated groups
 (1) A member of a consolidated group may elect to add to the activities in respect of which the member is treated as a member of the consolidated group by giving notice to the EPA in the prescribed form.
@@ -3868,7 +3743,7 @@ If a party to any proceedings before the District Court under section 145 is dis
   (a) include the name of the member and the activity or activities the member is electing to add to the activities in respect of which the member is treated as a member of the consolidated group; and
   (b) contain the agreement of every existing member of the consolidated group—
     (i) to be jointly and severally liable with the other members of the group for any obligations under the ETS participant provisions in respect of emissions and removals resulting from, or allocations, penalties, or interest relating to, the member's activity or activities specified in the notice; and
-    (ii) to the transfer to the consolidated group’s holding account, on behalf of the group, of any units to which the adding member may become entitled in respect of the activity or activities, or by an allocation relating to an eligible activity, specified in the notice.
+    (ii) to the transfer to the consolidated group’s holding account, on behalf of the group, of any units to which the adding member may become entitled in respect of the activity or activities, or by an allocation relating to an eligible industrial activity, specified in the notice.
 (3) The EPA must acknowledge that the member has added the activity or activities specified in the notice under subsection (1) to the activities in respect of which the member is treated as a member of the consolidated group by giving notice to all members of the group within 1 month of the EPA's receipt of the notice.
 (4) If a member has elected under subsection (1) to add to the activities in respect of which the member is treated as a member of the consolidated group, the activity or activities specified in the notice are added,—
   (a) if the notice of the election is received by the EPA by 30 September in a year, on and after 1 January of that year:
@@ -3891,14 +3766,14 @@ If a party to any proceedings before the District Court under section 145 is dis
   (c) must submit a single annual emissions return for the consolidated group in respect of a year, which must—
     (i) meet the requirements of section 65(2) in respect of the activities listed in the notice under section 150(4)﻿(a)﻿(ii) or 151(2)﻿(a)﻿(ii) carried out by each member of the consolidated group:
     (ii) be signed by the nominated entity in accordance with section 65(2)﻿(f) on behalf of the consolidated group; and
-  (d) is responsible for applying for any allocation of units under section 86 for an eligible activity, in place of the eligible person who is a member of the consolidated group.
+  (d) is responsible for applying for any allocation of units under section 86 for an eligible industrial activity, in place of the eligible person who is a member of the consolidated group.
 (2) Each member of a consolidated group is jointly and severally liable to surrender or repay the amount of units assessed for the consolidated group or its members in any year.
 (3) Each member of a consolidated group is jointly entitled to be transferred, for removal activities or for allocations of New Zealand units, the amount of units assessed for the consolidated group or its members in any year.
 (4) The joint and several liability, or the joint entitlement,—
   (a) applies to a member only as it relates to a period when they were a member of the consolidated group; and
   (b) replaces the member’s sole liability or entitlement; and
   (c) must be met by transferring units from, or to, the consolidated group’s holding account.
-(5) Despite this section, in calculating an allocation or provisional allocation of New Zealand units (including a related adjustment or repayment) for an eligible activity, only the member’s liabilities and entitlements must be used.
+(5) Despite this section, in calculating an allocation or provisional allocation of New Zealand units (including a related adjustment or repayment) for an eligible industrial activity, only the member’s liabilities and entitlements must be used.
 (5A) However, subsection (5) does not apply to any calculation of offset units under section 86BB, which must be done in accordance with this section.
 (5B) Each member of a consolidated group is jointly and severally liable to pay any penalty or interest imposed on the consolidated group in relation to a period when they were a member of the consolidated group.
 (6) This section—
@@ -3947,8 +3822,8 @@ If a party to any proceedings before the District Court under section 145 is dis
 
 ### 156 Effect of ceasing to be member of consolidated group
 If an entity ceases to be a member of a consolidated group, the entity—
-  (a) continues to be jointly and severally liable with other members of the consolidated group for any obligations under the ETS participant provisions in respect of emissions and removals resulting from, or allocations, penalties, or interest relating to, the activities of the members of the consolidated group, and jointly entitled to any units transferred for the removal activities, or for allocations relating to the eligible activities, of the consolidated group, during the period in which the entity was a member of the consolidated group; but
-  (b) is not liable for any obligations under the ETS participant provisions in respect of emissions and removals resulting from, or allocations, penalties, or interest relating to, the activities of other members of the group, or entitled to the benefit of any units transferred for the removal activities, or for allocations relating to the eligible activities, of other members of the group, for any period during which the entity is not a member of the consolidated group.
+  (a) continues to be jointly and severally liable with other members of the consolidated group for any obligations under the ETS participant provisions in respect of emissions and removals resulting from, or allocations, penalties, or interest relating to, the activities of the members of the consolidated group, and jointly entitled to any units transferred for the removal activities, or for allocations relating to the eligible industrial activities, of the consolidated group, during the period in which the entity was a member of the consolidated group; but
+  (b) is not liable for any obligations under the ETS participant provisions in respect of emissions and removals resulting from, or allocations, penalties, or interest relating to, the activities of other members of the group, or entitled to the benefit of any units transferred for the removal activities, or for allocations relating to the eligible industrial activities, of other members of the group, for any period during which the entity is not a member of the consolidated group.
 
 ### 156A Removal of activities from consolidated groups
 (1) A member of a consolidated group may elect to remove 1 or more activities from the activities in respect of which the member is treated as a member of the consolidated group by giving notice to the EPA in the prescribed form.
@@ -3956,7 +3831,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (a) if the notice of the election is received by the EPA by 30 September in a year, on and after 1 January of that year:
   (b) if the notice of the election is received by the EPA after 30 September in a year, on and after 1 January of the next year.
 (3) The EPA must acknowledge that the activity or activities specified in the notice under subsection (1) are removed from the activities in respect of which the member is treated as a member of the consolidated group by giving notice to all members of the group within 1 month of the EPA's receipt of the notice.
-(4) If a member has removed an activity from the activities in respect of which the member is treated as a member of a consolidated group, that member continues to be jointly and severally liable with the other members of the consolidated group for any obligations under the ETS participant provisions in respect of emissions, removals, and allocations related to the activity, and jointly entitled to any units transferred for the activity (if it is a removal activity or an eligible activity), in respect of the period in which the activity was an activity in respect of which the member was treated as a member of the consolidated group.
+(4) If a member has removed an activity from the activities in respect of which the member is treated as a member of a consolidated group, that member continues to be jointly and severally liable with the other members of the consolidated group for any obligations under the ETS participant provisions in respect of emissions, removals, and allocations related to the activity, and jointly entitled to any units transferred for the activity (if it is a removal activity or an eligible industrial activity), in respect of the period in which the activity was an activity in respect of which the member was treated as a member of the consolidated group.
 (5) Subsection (6) applies to a member of a consolidated group that—
   (a) removes 1 or more activities from the activities in respect of which the member is treated as a member of the consolidated group; and
   (b) remains a participant in respect of 1 or more of those activities; but
@@ -3967,13 +3842,13 @@ If an entity ceases to be a member of a consolidated group, the entity—
 
 ### 157 Unincorporated bodies
 (1) This section applies if the members of an unincorporated body—
-  (a) jointly carry out an eligible activity; or
-  (b) are required under section 180, 204, or 213 to be treated as jointly carrying out an activity listed in Schedule 3; or
+  (a) jointly carry out an eligible industrial activity; or
+  (b) are required under section 180 or 204 to be treated as jointly carrying out an activity listed in Schedule 3; or
   (c) if paragraph (b) does not apply, jointly carry out an activity listed in Schedule 3 or 4.
 (2) If this section applies,—
   (a) the members of the unincorporated body are not individually to be treated as persons carrying out the activity; and
-  (b) if the activity is an eligible activity,—
-    (i) the members of the unincorporated body may not apply individually for an allocation of New Zealand units for the eligible activity under section 86; but
+  (b) if the activity is an eligible industrial activity,—
+    (i) the members of the unincorporated body may not apply individually for an allocation of New Zealand units for the eligible industrial activity under section 86; but
     (ii) the unincorporated body may, as the eligible person, make such an application under section 86; and
   (c) if the activity is an activity listed in Schedule 3 or 4,—
     (i) the members of the unincorporated body—
@@ -3995,9 +3870,9 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (a) it is the joint and several liability of all the members of the unincorporated body to do the thing; and
   (b) any such thing done by 1 member of the unincorporated body is sufficient compliance with the requirement.
 (5) A notice that is addressed to an unincorporated body and given in accordance with this Act to the person nominated by the unincorporated body under subsection (2)﻿(d)﻿(ii) or (if relevant) notified under section 157A(2)﻿(a) is to be treated as notice given to the unincorporated body and all members of the unincorporated body.
-(6) To avoid doubt, if this Act requires a landowner, registered leaseholder, holder of a registered forestry right, or party to a Crown conservation contract to be treated as the person carrying out an eligible activity or an activity listed in Schedule 3 or 4, and the land, registered lease, registered forestry right, or Crown conservation contract is owned, held, or has been entered into, as the case may be, jointly by 2 persons, those persons—
+(6) To avoid doubt, if this Act requires a landowner, registered leaseholder, holder of a registered forestry right, or party to a Crown conservation contract to be treated as the person carrying out an eligible industrial activity or an activity listed in Schedule 3 or 4, and the land, registered lease, registered forestry right, or Crown conservation contract is owned, held, or has been entered into, as the case may be, jointly by 2 persons, those persons—
   (a) must together be treated as the person carrying out the activity for the purposes of this Act; and
-  (b) are, as relevant, together the eligible person in respect of the eligible activity, or the participant in respect of any activity listed in Schedule 3, or may together be registered as the participant in respect of an activity listed in Schedule 4; and
+  (b) are, as relevant, together the eligible person in respect of the eligible industrial activity, or the participant in respect of any activity listed in Schedule 3, or may together be registered as the participant in respect of an activity listed in Schedule 4; and
   (c) are jointly and severally liable for the obligations, or entitled to the benefits, of an eligible person (or a person to whom units have been allocated) or a participant in respect of the activity.
 
 ### 157A Changes to unincorporated bodies that are participants
@@ -4286,43 +4161,10 @@ If an entity ceases to be a member of a consolidated group, the entity—
 (8) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 161G Regulations in relation to eligible agricultural activities
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
-  (a) prescribing in respect of each eligible agricultural activity, as appropriate,—
-    (i) the product or products of the activity:
-    (ii) an allocative baseline for each product:
-  (b) prescribing, for the purpose of subsection (2),—
-    (i) a methodology or methodologies for calculating—
-      (A) the total number of tonnes of methane and nitrous oxide emissions that resulted from the eligible agricultural activity carried out to produce the prescribed product or products in the prescribed years; and
-      (B) the total amount of each prescribed product produced from the eligible agricultural activity in the prescribed years; and
-    (ii) the year or years for the purposes of subparagraph (i):
-  (c) prescribing a methodology or methodologies for calculating the amount of any prescribed product of an eligible agricultural activity for the purposes of sections 85 and 161H:
-  (d) prescribing information that must be kept for the purposes of section 86D.
-(2) For the purposes of subsection (1)﻿(a)﻿(ii), the allocative baseline for each prescribed product of an eligible agricultural activity must be calculated using the following formula:AB = ∑(E) / ∑(PDCT)where—ABis the allocative baseline for the productEis the total number of tonnes of methane and nitrous oxide emissions that resulted from the eligible agricultural activity carried out to produce the product in the prescribed year or years, calculated in accordance with methodologies prescribed in regulations made under this ActPDCTis the total amount of the product produced from the eligible agricultural activity in the prescribed year or years, calculated in accordance with methodologies prescribed in regulations made under this Act∑is the symbol for the summation of E for the year or years for which E must be calculated (as prescribed by regulations made under this Act) and of PDCT for the year or years for which PDCT must be calculated (as prescribed in regulations made under this Act).
-(3) Before recommending the making of regulations under subsection (1)﻿(a)﻿(ii) prescribing the allocative baseline or baselines of an eligible agricultural activity, the Minister must—
-  (a) have regard to the most recent New Zealand Greenhouse Gas Inventory; and
-  (b) comply with the consultation requirements in sections 3A and 3B.
-(4) See section 3A for consultation requirements that apply to the making of other regulations under this section.
-(5) For each eligible agricultural activity, the Minister—
-  (a) must recommend the making of regulations under this section before surrender obligations for participants in that activity start; and
-  (b) must review those regulations at least once in every 5-year period; and
-  (c) must not recommend the making of regulations that would result in there being no regulations in force under this section for the activity while surrender obligations for the activity exist.
-(6) In conducting a review under subsection (5)﻿(b), the Minister must comply with subsections (3) and (4).
-(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 161H Power to request information showing output from eligible agricultural activities
-(1) The Minister may, after 1 January 2011, by notice,—
-  (a) specify an eligible agricultural activity in respect of which information must be provided under paragraph (d):
-  (b) specify, in respect of the eligible agricultural activity specified under paragraph (a), the product or products of the eligible agricultural activity in respect of which the information must be provided under paragraph (d):
-  (c) specify the year or years for which information must be provided under paragraph (d):
-  (d) require any person carrying out the eligible agricultural activity on the date of the notice to provide to the Minister information that shows the amount of each specified product from the activity specified by the person in the year or years specified in the notice, determined (if relevant) in accordance with any prescribed methodologies:
-  (e) specify the date by which the information specified in the notice must be provided to the Minister, which must be no earlier than 30 working days from the date of the notice.
-(2) If a person who is required to comply with a notice given under subsection (1) fails to provide the required information by the date specified in the notice, the Minister may give written notice to the person that requires the information to be provided within 10 working days and advises the person that a failure to provide the information within that time period will render the person ineligible for an allocation of New Zealand units in respect of the activity.
-(3) Despite anything in this Act, if notice is given under subsection (1) requiring a person to provide information with respect to an eligible agricultural activity, the following persons are not eligible to be allocated New Zealand units under subpart 2 in respect of the eligible agricultural activity:
-  (a) any person who—
-    (i) carried out the activity at the date of the notice given under subsection (1); and
-    (ii) failed, without reasonable excuse, to supply the data and information required by the date specified in the notice given under subsection (2); and
-  (b) any associated person of a person referred to in paragraph (a).
-(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 162 Order in Council adding further activity to Part 2 of Schedule 4
 (1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, amend Part 2 of Schedule 4 by adding a further activity to that Part.
@@ -4474,7 +4316,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
   (a) in whole or in part; and
   (b) with modifications, additions, or variations specified in the regulations.
 (3) Material incorporated by reference in regulations has legal effect as part of the regulations.
-(4) In this section and sections 170 to 174, relevant empowering section means section 161A, 161G, 163, 164, 167, 168, 180G, 181W, 190F, 191I, 192U, 193R, 194B, 196F, or 197A.
+(4) In this section and sections 170 to 174, relevant empowering section means section 161A, 163, 164, 167, 168, 180G, 181W, 190F, 191I, 192U, 193R, 194B, 196F, or 197A.
 
 ### 170 Effect of amendments to, or replacement of, material incorporated by reference in regulations
 (1) Subsection (2) applies to an amendment to, or a replacement of, material if the material—
@@ -7115,55 +6957,19 @@ A participant who mines coal or mines natural gas is not required to surrender u
 ### Subpart 4 — Agriculture
 
 ### 213 Participant in respect of subpart 4 of Part 5 of Schedule 3
-(1) If an activity listed in subpart 4 of Part 5 of Schedule 3 is carried out, the landowner of the land on which it is carried out is to be treated as the person carrying out the activity unless the EPA is satisfied that there is a written agreement in place between the landowner and a third party that—
-  (a) allows access by the third party to the land on which the activity listed in subpart 4 of Part 5 of Schedule 3 is being carried out and the third party is carrying out the activity listed in subpart 4 of Part 5 of Schedule 3 on the land; and
-  (b) was entered into—
-    (i) on or after the date appointed in the Order in Council under section 2A(5D) that applies the activity listed in subpart 4 of Part 5 of Schedule 3 to the person carrying out the activity, and is for a term of at least 3 years; or
-    (ii) before the date appointed in the Order in Council under section 2A(5D) that applies the activity listed in subpart 4 of Part 5 of Schedule 3 to the person carrying out the activity, and had at least 3 years until expiry at the date appointed in the Order in Council.
-(2) If the EPA is satisfied that the criteria specified in subsection (1)﻿(a) and (b) are met, the third party is to be treated as the person carrying out the activity.
-(3) To avoid doubt, for the purposes of this Act, no person, other than a landowner or, in the circumstances specified in subsection (2), a third party, is to be treated as carrying out an activity listed in subpart 4 of Part 5 of Schedule 3.
+[Repealed]
 
 ### 214 Units not required to be surrendered for fertilisers embedded in products
-A participant who carries out the activity listed in subpart 1 of Part 5 of Schedule 3 of importing or manufacturing synthetic fertilisers containing nitrogen is not required to surrender units in respect of any synthetic fertiliser containing nitrogen that—
-  (a) is permanently embedded in a product as part of a manufacturing process; and
-  (b) does not result in any emissions.
+[Repealed]
 
 ### 215 Ministers to report on alternative pricing system for farm-level agriculture emissions
-(1) The Minister and the Minister of Agriculture must prepare a report that outlines a system to put a price on emissions from agricultural activities (including, but not limited to, the activities listed in Part 5 of Schedule 3) as an alternative to the emissions trading scheme currently provided for in this Act.
-(2) The report must be prepared and made publicly available by 31 December 2022.
-(3) The report must discuss the following matters in relation to the emissions trading scheme and the alternative system outlined under subsection (1):
-  (a) how emissions from those activities would be priced and accounted for:
-  (b) whether other activities or participants would be included in the system:
-  (c) what methodologies would be used for calculating emissions and removals:
-  (d) what assistance, if any, would be given to participants:
-  (e) how emissions of methane would be treated relative to other greenhouse gases, including whether, how, and what types of removals would be recognised:
-  (f) what information participants would need to provide and how that information would be used, shared, or made publicly available:
-  (g) how participants and relevant industry groups would be engaged with in designing, implementing, and operating the system:
-  (h) who would be responsible for administering the system:
-  (i) what amendments would need to be made to legislation to enable the system to work.
-(4) Before preparing the report, the Ministers must—
-  (a) request a report from the Climate Change Commission under section 5K about what assistance, if any, should be given to participants; and
-  (b) consider that advice.
-(5) In this section, Minister of Agriculture means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of the Commodity Levies Act 1990.
+[Repealed]
 
 ### 215 Effect of purchasing or farming less than threshold level
 [Repealed]
 
 ### 216 Regulations for voluntary reporting or surrender for animals–farmer or fertiliser–farmer activity
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
-  (a) providing for a process by which a person carrying out an activity described by the fertiliser–farmer subpart or animals–farmer subpart (of Part 5 of Schedule 3) may choose to be treated as a participant in the activity described:
-  (b) providing that the person may choose to be treated in that way in respect of 1 or both of—
-    (i) obligations to report under this Act on the emissions from the activity:
-    (ii) obligations to surrender units under this Act for the emissions from the activity:
-  (c) providing for the following participants in corresponding processor activities to be notified:
-    (i) a participant in a fertiliser–processor activity that corresponds to a fertiliser–farmer activity for which a participant has become subject to obligations to surrender units under this Act:
-    (ii) a participant in an animals–processor activity that corresponds to an animals–farmer activity for which a participant has become subject to obligations to surrender units under this Act:
-  (d) if regulations are made under paragraph (b)﻿(ii), providing for a process by which a participant in a corresponding processor activity—
-    (i) ceases to be subject to obligations to surrender units under this Act in respect of that activity, or becomes subject to such obligations as varied to ensure that only 1 person is liable to surrender units in respect of the corresponding processor activities or the activities to which they correspond; and
-    (ii) ceases to be entitled to allocations of units in respect of the activities for which they are no longer liable to surrender units.
-(2) Before recommending the making of the regulations, the Minister must consult the Minister of Agriculture.
-(3) See section 3B for consultation requirements that apply to the making of the regulations.
-(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 216 Effect of registration by farmers
 [Repealed]
@@ -7173,50 +6979,16 @@ A participant who carries out the activity listed in subpart 1 of Part 5 of Sche
 ### Subpart 5 — Transitional provisions
 
 ### 217 Transitional provision for penalties
-(1) This section applies in respect of the first year in which a participant is required to surrender units for emissions in respect of an activity listed in subpart 2 or 4 of Part 5 of Schedule 3.
-(1A) Subsection (2) applies—
-  (a) to the participant if they submit an annual emissions return that relates to that first year; and
-  (b) in respect of the units that the participant is required to surrender in respect of the activity.
-(2) Despite anything in this Act,—
-  (a)
-  (b) if the emissions return of a participant to whom subsection (1) applies is amended by the EPA under section 120, the participant—
-    (i) is liable to surrender any units or additional units required to be surrendered under section 123(3); but
-    (ii) is not liable to pay a penalty under section 134, 134A, or 134C in relation to those units:
-  (c) if a participant to whom subsection (1) applies fails to surrender units or additional units as required under section 123(3), section 159(1)﻿(a) applies as if the date of the notice given under section 123(3) were the date of the penalty notice given under section 134.
-(3) The participant—
-  (a) is not liable to pay a penalty under section 134B or 134D that relates to an allocation of units in respect of that first year; and
-  (b) is not liable for any infringement offence (as defined by section 30L) in respect of an act or omission in that first year.
+[Repealed]
 
 ### 218 Transitional provision for voluntary reporting
 [Repealed]
 
 ### 219 Transitional provision for surrender obligations of certain participants
-(1) This section applies to a person who carries out the following in the specified period (the excluded period):
-  (a) a fertiliser–processor activity in the period starting on 1 January 2011 and ending on—
-    (i) 31 December 2024, if by that date no earlier end date has been appointed for that activity; or
-    (ii) an earlier end date appointed for that activity by an Order in Council made under subsection (3)﻿(a); or
-  (b) a fertiliser–farmer activity in the first year in which the fertiliser–farmer subpart applies to persons, or the class of persons, carrying out that activity (starting on a date appointed by an Order in Council made under section 2A(5B)); or
-  (c) an animals–processor activity in the period starting on 1 January 2011 and ending on—
-    (i) 31 December 2024, if by that date no earlier end date has been appointed for that activity; or
-    (ii) an earlier end date appointed for that activity by an Order in Council made under subsection (3)﻿(b); or
-  (d) an animals–farmer activity in the first year in which the animals–farmer subpart applies to persons, or the class of persons, carrying out that activity (starting on 1 January 2024 or a later date appointed by an Order in Council made under section 2A(5D)).
-(2) Even if the person’s emissions return reports emissions for the excluded period, the person is not liable under this Act to surrender units for those emissions.
-(3) The Governor-General may, by Order in Council made on the recommendation of the Minister, appoint 1 or both of the following (an earlier end date):
-  (a) a date for the purpose of subsection (1)﻿(a)﻿(ii):
-  (b) a date for the purpose of subsection (1)﻿(c)﻿(ii).
-(4) Before recommending the making of an order appointing an earlier end date, the Minister must—
-  (a) consult with the Minister of Agriculture (as defined in section 215); and
-  (b) consider the report provided by the Climate Change Commission under section 220; and
-  (c) be satisfied that progress of the kind referred to in section 220(b) has been insufficient.
-(5) In recommending the making of an order appointing an earlier end date, the Minister must not recommend a date that is before 1 July 2022.
-(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 220 Commission to report on progress towards meeting farm-level obligations
-The Commission must, not later than 30 June 2022, provide written advice to the Minister on—
-  (a) the progress that has been made towards meeting the primary sector climate change commitments set out in Schedule 5; and
-  (b) the progress that has been made towards participants in an activity listed in subpart 4 of Part 5 of Schedule 3 being ready to start complying with reporting and surrender obligations under this Act in respect of that activity; and
-  (c) any barriers to those participants being ready to start complying with those obligations; and
-  (d) what further steps (if any) are required by the primary sector or the Government for those participants to be ready to start complying with those obligations.
+[Repealed]
 
 ### 221 Additional transitional provisions for Part 3 of Schedule 4 participants
 [Repealed]
@@ -7748,7 +7520,7 @@ If section 27 applies to information immediately before its amendment by the ame
 
 ### 11 Members of existing consolidated groups jointly and severally liable
 (1) The joint and several liability to which each member of a consolidated group has agreed, immediately before the commencement of this clause, is treated as if it were joint and several liability for any obligations under the ETS participant provisions in respect of emissions and removals resulting from, or allocations, penalties, or interest relating to, the relevant activities.
-(2) The transfer of units to the consolidated group's holding account (on behalf of the group) to which each member of a consolidated group has agreed, immediately before the commencement of this clause, is treated as if it included the transfer of any units to which a member becomes entitled by an allocation relating to a relevant eligible activity.
+(2) The transfer of units to the consolidated group's holding account (on behalf of the group) to which each member of a consolidated group has agreed, immediately before the commencement of this clause, is treated as if it included the transfer of any units to which a member becomes entitled by an allocation relating to a relevant eligible industrial activity.
 
 ### 12 Consolidated group for activity relating to forestry
 (1) In this clause, an existing forestry consolidated group means a consolidated group that—
@@ -8045,7 +7817,7 @@ A reference (in an enactment or other document) to pre-1990 offsetting forest la
 (3) The Minister must issue the notice no later than 31 December 2026.
 (4) The notice must, for the purposes of section 161D(1)﻿(d), specify the financial years 2016/17, 2017/18, 2018/19, 2019/20, and 2020/21 as the financial years for which information must be provided under the notice.
 (5) A person who is required to comply with a notice providing information may specify 1 financial year, either 2019/20 or 2020/21, for the purposes of subclause (6).
-(6) The Minister must disregard the information from the financial year specified under subclause (5) when determining allocative baselines for an eligible activity.
+(6) The Minister must disregard the information from the financial year specified under subclause (5) when determining allocative baselines for an eligible industrial activity.
 
 ### 40 Restriction on regulations relating to data collected as result of call for data under clause 39
 (1) This clause applies in relation to the making of regulations under section 161A arising from information collected as a result of a notice issued under section 161D in accordance with clause 39.
@@ -8063,6 +7835,34 @@ Section 161A(3A) does not apply in relation to the making of regulations under s
     (i) variable c in the formula equals 0.537:
     (ii) variable d in the formula equals 0.537:
   (b) for the year commencing 1 January 2025, variable d in the formula equals 0.537.
+
+### Part 4 — Provisions relating to Climate Change Response (Emissions Trading Scheme Agricultural Obligations) Amendment Act 2024
+
+### 43 Interpretation
+In this Part,—
+  - **commencement date** means the commencement date of the Climate Change Response (Emissions Trading Scheme Agricultural Obligations) Amendment Act 2024
+  - **deregistration date** means the date that the EPA enters in the register kept under section 56(3) to record when a participant has been removed from the register
+  - **effective removal date** means the date on which a participant ceases to be a participant under this Act (which is the commencement date for the purposes of this Part).
+
+### 44 Existing obligations on agriculture participants
+(1) On and from the commencement date, persons who were participants under section 54(1)﻿(a) by virtue of an activity or activities listed in Part 5 of Schedule 3 will cease to be participants under this Act, subject to subclause (2).
+(2) To avoid doubt,—
+  (a) section 54(4) continues to apply to those persons referred to in subclause (1), but only to the extent that it applies to activities carried out before the commencement date; and
+  (b) those persons referred to in subclause (1) are not required to submit any emissions returns (as defined in section 4(1)) for activities listed in Part 5 of Schedule 3 that were carried out in the 2024 calendar year or any period after the commencement date.
+(3) For the purposes of section 67(2)﻿(c) if it applies under section 54(4) (as referred to in subclause (2)﻿(a)), the 7-year period starts from 1 January 2025.
+(4) Subclauses (1) to (3) apply regardless of when those persons referred to in subclause (1) are removed from the register under clause 45.
+
+### 45 Removal of agriculture participants from register
+(1) This clause applies to the EPA.
+(2) Within 6 months of the commencement date, the EPA must remove the names of participants who had been entered on the register in accordance with section 56 for activities listed under Part 5 of Schedule 3.
+(3) In order to avoid triggering automated 2024 returns notifications being sent to the participants referred to in subclause (2), the EPA may use 31 December 2023 as the deregistration date.
+(4) The use of 31 December 2023 as the deregistration date in subclause (3) is for administrative purposes only and does not affect the effective removal date.
+(5) As soon as is reasonably practicable after removing a participant’s name, the EPA must notify the person that the person’s name has been removed from the register in respect of the relevant activity under Part 5 of Schedule 3.
+(6) The EPA must not register any new participants who, before the commencement date, had provided notice under section 56 for activities in respect of Part 5 of Schedule 3, and who have not yet been entered on the register.
+(7) To avoid doubt, this clause does not affect—
+  (a) the names of participants on the register for activities other than agriculture listed in Schedule 3 or 4; or
+  (b) the option to request the closure of a holding account under section 18B.
+(8) This clause overrides sections 59 and 118.
 
 ## Schedule 1 — United Nations Framework Convention on Climate Change
 
@@ -8140,12 +7940,7 @@ Section 161A(3A) does not apply in relation to the making of regulations under s
 ## Schedule 5 — Primary sector climate change commitments
 
 ###  Farm emissions reporting
-(1) For 25% of farms in New Zealand, a person responsible for farm management holds a documented annual total of on-farm greenhouse gas emissions, by methods and definitions accepted by the He Waka Eke Noa Steering group, by 31 December 2021.
-(2) For all farms in New Zealand, a person responsible for farm management holds a documented annual total of on-farm greenhouse gas emissions, by methods and definitions accepted by the He Waka Eke Noa Steering group, by 31 December 2022.
-(3) A pilot of a farm-level accounting and reporting system has been completed by 1 January 2024 across a range of farm types.
-(4) A system for farm-level accounting and reporting of 2024 agricultural greenhouse gas emissions at farm level is in use by all farms by 1 January 2025.
+[Repealed]
 
 ###  Farm plans
-(5) Guidance is provided to farmers on how to measure and manage greenhouse gas emissions through farm planning by 1 January 2021.
-(6) A quarter of farms have a written plan in place to measure and manage their greenhouse gas emissions by 1 January 2022.
-(7) All farms have a written plan in place to measure and manage their greenhouse gas emissions by 1 January 2025.
+[Repealed]
