@@ -1,5 +1,5 @@
 # COVID-19 Public Health Response Amendment Act 2021
-_Consolidation as at 2022-02-17_
+_Consolidation as at 2024-11-26_
 
 ### 1 Title
 This Act is the COVID-19 Public Health Response Amendment Act 2021.
