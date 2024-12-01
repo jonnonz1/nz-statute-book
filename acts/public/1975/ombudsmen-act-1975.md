@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2024-10-01_
+_Consolidation as at 2024-12-01_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -359,7 +359,6 @@ Despite the enactment of the Amendment Act, the entity known as Insurance & Fina
 | Aroturuki Tamariki—Independent Children’s Monitor | Education Review Office |
 | Cancer Control Agency | Ministry of Health |
 | Charter School Agency | Ministry of Education |
-| Ministry for Disabled People | Ministry of Social Development |
 | Ministry for Ethnic Communities | Department of Internal Affairs |
 | National Emergency Management Agency | Department of the Prime Minister and Cabinet |
 | Office for Māori Crown Relations—Te Arawhiti | Ministry of Justice |
