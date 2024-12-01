@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2024-10-14_
+_Consolidation as at 2024-12-01_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -1191,7 +1191,6 @@ The amendments to the State Sector (Ministry for Primary Industries) Order 2012 
 | Aroturuki Tamariki—Independent Children’s Monitor | Education Review Office | ✓ |  |
 | Cancer Control Agency | Ministry of Health |  |  |
 | Charter School Agency | Ministry of Education |  | ✓ |
-| Ministry for Disabled People | Ministry of Social Development |  |  |
 | Ministry for Ethnic Communities | Department of Internal Affairs |  |  |
 | National Emergency Management Agency | Department of the Prime Minister and Cabinet |  |  |
 | Office for Māori Crown Relations—Te Arawhiti | Ministry of Justice |  |  |
