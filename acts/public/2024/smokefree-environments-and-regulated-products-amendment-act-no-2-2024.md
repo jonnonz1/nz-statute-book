@@ -6,7 +6,7 @@ This Act is the Smokefree Environments and Regulated Products Amendment Act (No 
 
 ### 2 Commencement
 (1) This Act comes into force on the day after Royal assent.
-(2) However, sections 4, 6, 7, 11 to 15, 17, 23(1), (4), and (6), 24, 25, 27 to 29, and 31 come into force 6 months after Royal assent.
+(2) However, sections 4, 6, 7, 11 to 15, 17, 23(1), (4), and (6), 24, 25, 28, 29, and 31 come into force 6 months after Royal assent.
 
 ### 3 Principal Act
 This Act amends the Smokefree Environments and Regulated Products Act 1990.
