@@ -5,11 +5,11 @@ _Consolidation as at 2024-12-17_
 This Act is the Residential Tenancies Amendment Act 2024.
 
 ### 2 Commencement
-(1) Sections 11(3), 13(1), 42, and 44 (which relate to bond lodgement, methods of payment to the chief executive, and transitional arrangements) come into force on the day after Royal assent.
+(1) Sections 11(3), 13(1), 42, and 44 (which relate to bond lodgement, methods of payment to the chief executive, and transitional arrangements) come into force on 18 December 2024.
 (2) Sections 4(2) and (3), 16, 22, 23, 25 to 29, 31 to 33, 40, 41, and 45(4) (which relate to tenancy termination) come into force on 30 January 2025.
 (3) Sections 4(4), 5, 7, 11(1), 17, 21, 30, 36(2) and (3), 37 to 39, 43, and 47 (which relate to miscellaneous matters) come into force on 20 March 2025.
-(4) Sections 4(1) and (5), 6, 8 to 10, 11(2), 12, 13(2), 14, 15, 18 to 20, 24, 34, 35, 36(1), 45(1) to (3), and 46 (which relate to pets) come into force on a single date set by Order in Council.
-(5) Any part of the Act that has not come into force by the second anniversary of Royal assent comes into force then.
+(4) Sections 4(1) and (5), 6, 8 to 10, 11(2), 12, 13(2), 14, 15, 18 to 20, 24, 34, 35, 36(1), 45(1) to (3), and 46 (which relate to pets) come into force on a single date set by Order in Council.The following table is small in size and has 3 columns that are grouped under the heading Provisions commenced by Order in Council.Provisions commenced by Order in CouncilProvisionsCommencement dateOrder in CouncilSection 4(1) and (5); section 6; sections 8 to 10; section 11(2); section 12; section 13(2); section 14; section 15; sections 18 to 20; section 24; section 34; section 35; section 36(1); section 45(1) to (3); and section 461 December 2025Clause 2 of the Residential Tenancies Amendment Act 2024 Commencement Order 2025This note is not part of the Act.
+(5) Any part of the Act that has not come into force by 17 December 2026 comes into force then.
 (6) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Principal Act
