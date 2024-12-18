@@ -1,5 +1,5 @@
 # Smokefree Environments and Regulated Products Act 1990
-_Consolidation as at 2024-03-06_
+_Consolidation as at 2024-12-18_
 
 > Title
 
@@ -249,6 +249,7 @@ The purposes of this Act are, in general, as follows:
   (b) to prevent the normalisation of vaping; and
   (c) to reduce the appeal of regulated products to children and young people; and
   (d) to minimise harm from regulated products, in particular to children and young people; and
+  (da) to reduce access to regulated products by children and young people; and
   (e) to regulate and control the marketing, advertising, and promotion of regulated products (whether directly, including through the appearance of regulated products and packages, or through the sponsoring of other products, services, or events) in order to improve public health by—
     (i) discouraging people, especially children and young people, from taking up smoking; and
     (ii) discouraging non-smokers, especially children and young people, from taking up vaping or using smokeless tobacco products; and
@@ -574,10 +575,15 @@ A person commits an offence, and is liable on conviction to a fine not exceeding
   (a) the retail premises in which the vaping products are or will be sold are—
     (i) a fixed permanent structure; and
     (ii) appropriate premises from which to operate; and
+  (aa) the retail premises in which the vaping products are or will be sold are—
+    (i) at least 300 metres from the boundary of a registered school listed, on the date on which the application for approval is received, on an Internet site provided by the Ministry of Education; and
+    (ii) at least 300 metres from the boundary of a marae listed, on the date on which the application for approval is received, on an Internet site provided by the Ministry of Māori Development—Te Puni Kōkiri; and
+    (iii) at least 100 metres from the boundary of a licensed early childhood service listed, on the date on which the application for approval is received, on an Internet site provided by the Ministry of Education; and
   (b) at least—
     (i) 70% of the total sales from the retail premises are or will be from the sale of vaping products; or
     (ii) 60% of the total sales from the retail premises are or will be from the sale of vaping products and the Director-General is satisfied that the lower threshold is appropriate in the circumstances; and
-  (c) any requirements in regulations have been met.
+  (c) the applicant understands its obligations under this Act (including about sales to minors); and
+  (d) any requirements in regulations have been met.
 (3) In determining whether the lower threshold is appropriate in the circumstances, the Director-General must, in accordance with regulations (if any), have regard to—
   (a) the geographic location of the retail premises; and
   (b) the population in relation to which the retailer carries out their business; and
@@ -597,7 +603,7 @@ A person commits an offence, and is liable on conviction to a fine not exceeding
 ### Subpart 3 — Notification obligations
 
 ### 20R Obligation of person selling notifiable products
-(1) A person who sells notifiable products in New Zealand must notify the Director-General that they are selling the products.
+(1) A person who sells notifiable products in New Zealand must notify the Director-General that they are selling the products and the name and address of each premises from which they are selling the products.
 (2) A person who sells notifiable products in New Zealand must renew their notification each year before the anniversary of their previous notification.
 (3) A notification (including a renewal of a notification) must be made on the database in accordance with requirements in regulations.
 (4) A person who, without reasonable excuse, fails to notify the Director-General that they are selling a notifiable product or fails to renew a notification commits an offence and is liable to a fine not exceeding $5,000.
@@ -636,9 +642,7 @@ A person commits an offence, and is liable on conviction to a fine not exceeding
   (b) in the case of a large retailer,—
     (i) to a fine not exceeding $200,000; but
     (ii) if the contravention relates to a vaping product or smokeless tobacco product, to a fine not exceeding $70,000; and
-  (c) in any other case,—
-    (i) to a fine not exceeding $50,000; but
-    (ii) if the contravention relates to a vaping product or smokeless tobacco product, to a fine not exceeding $15,000.
+  (c) in any other case, to a fine not exceeding $50,000.
 
 ### 24 Specified publications exempt from advertising prohibition
 Section 23 does not apply to—
@@ -905,8 +909,8 @@ In this subpart, unless the context otherwise requires,—
   (a) must not sell a regulated product to a person younger than 18 years; or
   (b) having sold a regulated product to a person of any age, must not deliver it, or arrange for it to be delivered, to a person younger than 18 years.
 (2) A person who contravenes subsection (1)﻿(a) or (b) commits an offence and is liable,—
-  (a) in the case of a body corporate, to a fine not exceeding $10,000; and
-  (b) in any other case, to a fine not exceeding $5,000.
+  (a) in the case of a body corporate, to a fine not exceeding $100,000; and
+  (b) in any other case, to a fine not exceeding $10,000.
 (3) It is a defence to a charge under subsection (2) if the person charged proves that—
   (a) the contravention occurred without the person’s knowledge; and
   (b) the person took reasonable precautions and exercised due diligence to prevent the contravention.
@@ -1419,7 +1423,8 @@ In this Part, manufacture does not include the making of 1 or more smoked tobacc
 ### 60 Notifier must not sell product unless it has been notified
 (1) A notifier of a notifiable product must not sell the product in New Zealand unless it—
   (a) has been notified in accordance with this Part; and
-  (b) complies with product safety requirements.
+  (b) complies with product safety requirements; and
+  (c) complies with any applicable requirements in this Act or regulations.
 (2) A notifier must not sell a notifiable product in New Zealand whose notification has expired.
 (3) A person who, without reasonable excuse, contravenes subsection (1) or (2) commits an offence and is liable to a fine not exceeding $400,000.
 
@@ -1427,10 +1432,7 @@ In this Part, manufacture does not include the making of 1 or more smoked tobacc
 A notifier of a notifiable product must be a New Zealand resident or a company registered in New Zealand.
 
 ### 62 Pre-notification requirements
-Before notifying a notifiable product that is intended for sale in New Zealand, the notifier must ensure that the product complies with—
-  (a) product safety requirements; and
-  (b) sections 68 and 69; and
-  (c) any applicable requirements in regulations.
+Before notifying a notifiable product that is intended for sale in New Zealand, the notifier must ensure that the product complies with any applicable requirements in this Act or regulations.
 
 ### 63 How to notify product
 (1) A notifier must notify the notifiable product by entering on the database—
@@ -1449,7 +1451,8 @@ Before notifying a notifiable product that is intended for sale in New Zealand, 
   (b) that does not comply with product safety requirements; or
   (c) for which notification has been cancelled or suspended; or
   (d) whose notification has been expired for more than 3 months; or
-  (e) that has been recalled under section 73.
+  (e) that has been recalled under section 73; or
+  (f) unless it complies with any applicable requirements in this Act or regulations.
 (2) A retailer must not, unless subsection (3) applies, sell a vaping product or smokeless tobacco product that contains a flavour that is not listed in Part 1 of Schedule 2.
 (3) A specialist vape retailer—
   (a) may sell a vaping product that contains any flavour except a prohibited flavour; but
@@ -1545,7 +1548,8 @@ Before notifying a notifiable product that is intended for sale in New Zealand, 
   (a) the Director-General has reasonable grounds to believe that the continued availability of a notifiable product poses an unacceptable risk of harm to people; or
   (b) the Director-General has reasonable grounds to believe the notifier has provided false, misleading, or incomplete information in the product notification or in response to a requirement under section 71; or
   (c) the Director-General has reasonable grounds for concern because of new information about the safety of the product; or
-  (d) the Director-General has reasonable grounds to believe that the product contains a prohibited substance, a prohibited flavour, or a colouring substance, or contains a substance that exceeds any maximum limit.
+  (d) the Director-General has reasonable grounds to believe that the product contains a prohibited substance, a prohibited flavour, or a colouring substance, or contains a substance that exceeds any maximum limit; or
+  (e) the Director-General has reasonable grounds to believe that the product does not comply with any applicable requirements in this Act or regulations.
 (2) Before suspending a product notification of a notifiable product, the Director-General must give the notifier a reasonable opportunity to be heard.
 (3) The Director-General may extend the period of suspension—
   (a) for a further month:
@@ -1562,7 +1566,8 @@ Before notifying a notifiable product that is intended for sale in New Zealand, 
   (a) the Director-General has reasonable grounds to believe that the continued availability of the product poses an unacceptable risk of harm to people; or
   (b) the Director-General has reasonable grounds to believe the notifier has provided false, misleading, or incomplete information in the product notification or in response to a requirement under section 71; or
   (c) the Director-General has reasonable grounds for concern because of new information about the safety of the product; or
-  (d) the Director-General has reasonable grounds to believe that the product contains a prohibited substance, a prohibited flavour, or a colouring substance, or contains a substance that exceeds any maximum limit.
+  (d) the Director-General has reasonable grounds to believe that the product contains a prohibited substance, a prohibited flavour, or a colouring substance, or contains a substance that exceeds any maximum limit; or
+  (e) the Director-General has reasonable grounds to believe that the product does not comply with any applicable requirements in this Act or regulations.
 (2) Before cancelling a product notification of a notifiable product, the Director-General must give the notifier a reasonable opportunity to be heard.
 (3) The Director-General must tell the notifier in writing of the cancellation and give reasons.
 (4) If a product notification of a notifiable product is cancelled under this section or section 74, the notifier—
@@ -1817,11 +1822,14 @@ Information that must be contained in annual returns
 In this subpart,—
   - **infringement fee** ,—
     (a) in relation to an infringement offence against any of sections 38(3), 39(3), 42(2), 43(4), 44(4), 47(4), and 53(4) or section 41(2) (to the extent that it relates to regulated products other than tobacco products), means $200; and
-    (b) in relation to an infringement offence against any of sections 34(4), 36(5), 37(4), 40(2), 46(3), and 54(4) or section 41(2) (to the extent that it relates to tobacco products), means—
+    (b) in relation to an infringement offence against any of sections 34(4), 36(5), 37(4), 46(3), and 54(4) or section 41(2) (to the extent that it relates to tobacco products), means—
       (i) $1,000, in the case of a manufacturer, an importer, or a distributor; or
       (ii) $500; and
-    (c) in relation to an infringement offence against section 20R(4) or 20S(4), $500
-  - **infringement offence** means an offence against any of sections 20R(4), 20S(4), 34(4), 36(5), 37(4), 38(3), 39(3), 40(2), 41(2), 42(2), 43(4), 44(4), 46(3), 47(4), 53(4), and 54(4).
+    (c) in relation to an infringement offence against section 20R(4) or 20S(4), means $500; and
+    (d) in relation to an infringement offence against section 40(2), means—
+      (i) $2,000 in the case of a manufacturer, an importer, a distributor, or a retailer; or
+      (ii) $1,000 in any other case
+  - **infringement offence** means an offence against any of sections 20R(4), 20S(4), 34(4), 36(5), 37(4), 38(3), 39(3), 40(2), 41(2), 42(2), 43(3),, 44(4), 46(3), 47(4), 53(4), and 54(4).
 
 ### 88 Commission of infringement offences
 (1) A person who is alleged to have committed an infringement offence may—
@@ -1914,7 +1922,7 @@ No enforcement officer who does an act or omits to do an act when carrying out a
 (2) The enforcement officer may—
   (a) require the person that the officer believes on reasonable grounds to have sold, delivered, or arranged for the delivery of the regulated product to, while the person is at the place where the regulated product was sold, give the officer their name and address; and
   (b) require the person who appears to be in charge of that place, or part of that place, to give the officer—
-    (i) the name and address of the person described in paragraph (a); or
+    (i) the name, address, and, in the case of an individual, date of birth of the person described in paragraph (a); or
     (ii) if that information is not within the person’s knowledge, the name or any other identifying information within the person’s knowledge relating to the person described in paragraph (a).
 (3) An enforcement officer who suspects that the person described in subsection (2)﻿(a) is younger than 18 years must not require information under subsection (2)﻿(a) unless—
   (a) there is no other person in the place who appears to be in charge of the place; or
