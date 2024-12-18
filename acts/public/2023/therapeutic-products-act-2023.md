@@ -1,5 +1,5 @@
 # Therapeutic Products Act 2023
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2024-12-18_
 
 ### 1 Title
 This Act is the Therapeutic Products Act 2023.
