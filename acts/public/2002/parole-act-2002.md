@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2023-08-31_
+_Consolidation as at 2024-12-18_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -422,6 +422,7 @@ For the purposes of section 15, a programme means any of the following:
   (a) the offender's parole eligibility date as it would be under subsection (1) if he or she were subject only to the sentence or sentences imposed after the commencement date; and
   (b) the offender's parole eligibility date as it would be under subsection (2) if he or she were subject only to the pre-cd sentence or sentences.
 (4) Despite anything in this section, an offender who is subject only to 1 or more short-term sentences does not have a parole eligibility date (unless the short-term sentences are cumulative and form a long-term notional single sentence, in which case subsection (1) applies to the notional single sentence and the offender will have a parole eligibility date under that subsection).
+(5) If an offender is required, by an order made under section 103(2A) of the Sentencing Act 2002, to serve a sentence of imprisonment for life without parole, the offender may not be released on parole.
 (5)
 (6)
 (7)
@@ -1236,7 +1237,13 @@ The sentence expiry date of a pre-cd sentence is the date, determined under Part
 ### 84 Non-parole periods
 (1) The non-parole period of a long-term determinate sentence is one-third of the length of the sentence, unless the sentence is one to which subsection (2) or subsection (4) applies.
 (2) The non-parole period of a sentence in respect of which the court has imposed a minimum term of imprisonment (whether under section 86, 89, or 103 of the Sentencing Act 2002) is the minimum term imposed.
-(3) The non-parole period of a sentence of imprisonment for life (other than one in respect of which the court has imposed a minimum term of imprisonment) is 10 years.
+(3) The non-parole period of a sentence of imprisonment for life is 10 years, unless the court—
+  (a) has imposed a minimum term of imprisonment in respect of that sentence; or
+  (b) has made an order under section 103(2A) of the Sentencing Act 2002 in respect of that sentence.
+(3A) An offender who is subject to an order made under section 103(2A) of the Sentencing Act 2002 is not eligible for parole in respect of the following sentences:
+  (a) the sentence to which the order relates:
+  (b) any other sentence to which the offender is subject when the order is made:
+  (c) any sentence that is later imposed on the offender.
 (3A)
 (4) The non-parole period of a long-term notional single sentence is the total obtained by adding together all the non-parole periods of every sentence that makes up the notional single sentence.
 (5) For the purpose only of calculating the non-parole period of a long-term notional single sentence,—
@@ -2208,6 +2215,30 @@ In this Part,—
 ### 6 Validation of actions taken in respect of special conditions relating to programmes
 (1) An action taken by any person before this clause commences for the purpose of ensuring any programme condition referred to in clause 5(1) was complied with is valid if the action could have been validly taken had the amendment Act been in force at the time the action was taken.
 (2) The action is valid from when it was taken.
+
+### Part 3 — Provision relating to Three Strikes Legislation Repeal Act 2022
+
+### 7 Treatment of persons serving sentence of life imprisonment without parole for murder on commencement of Three Strikes Legislation Repeal Act 2022
+(1) This clause applies to a person who,—
+  (a) before the repeal Act came into force, was convicted of murder and sentenced to imprisonment for life; and
+  (b) immediately before the repeal Act came into force, was subject to an order made under section 103(2A) of the Sentencing Act 2002.
+(2) A person to whom this clause applies—
+  (a) is not, and has never been, affected by the amendments to sections 20 and 84 made by sections 18 and 19 of the repeal Act; and
+  (b) may not be released on parole so long as the order remains in force.
+(3) In this clause, repeal Act means the Three Strikes Legislation Repeal Act 2022.
+
+### Part 4 — Provisions relating to Sentencing (Reinstating Three Strikes) Amendment Act 2024
+
+### 8 Interpretation
+In this Part,—
+  - **amendment Act** means the Sentencing (Reinstating Three Strikes) Amendment Act 2024
+  - **commencement date** means the date on which sections 21(2), 23(2), and 24 of the amendment Act come into force.
+
+### 9 Retrospective application of section 20(5)
+Section 20(5) (as inserted by section 21(2) of the amendment Act) applies on and from 16 August 2022 as if it were in force on and from that date.
+
+### 10 Retrospective application of section 84(3) and (3A)
+Section 84(3) and (3A) (as inserted by section 23(2) of the amendment Act) apply on and from 16 August 2022 as if they were in force on and from that date.
 
 ## Schedule 2 — Amendments to other enactments
 
