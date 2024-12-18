@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2023-03-31_
+_Consolidation as at 2024-12-18_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -486,7 +486,7 @@ Sections 13 to 13B (and, in the case of a boarding house tenancy, section 66C) d
     (ii) the amount and nature of the payment; and
     (iii) the date of the payment; and
     (iv) the name of the payer (if known to the person who receives the payment):
-  (b) the landlord shall, within 23 working days after the payment is made, forward the amount received to the chief executive, together with a statement of particulars in the approved form signed by the landlord and the tenant.
+  (b) the landlord shall, within 23 working days after the payment is made, forward the amount received to the chief executive, together with a statement of particulars in the approved form.
 (1A) Subsection (1) does not apply if a bond of 1 week’s rent or less is paid in respect of a boarding house tenancy. In that case, section 66D applies instead.
 (2) Failure to issue a receipt, or to forward any amount received, in accordance with this section is hereby declared to be an unlawful act.
 (3) A landlord who fails to comply with subsection (1) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
@@ -504,7 +504,7 @@ Where a landlord forwards to the chief executive any amount paid by way of bond,
 
 ### 21 Tenant may pay bond direct to chief executive with landlord's consent
 (1) Notwithstanding anything in section 19 or section 20, but subject to subsection (2), any amount payable by way of bond may, with the consent of the landlord, be paid direct to the chief executive.
-(2) Every such payment shall be accompanied by a statement of particulars in the approved form signed by the landlord and the tenant.
+(2) Every such payment shall be accompanied by a statement of particulars in the approved form.
 (3) Where any amount payable by way of bond is paid direct to the chief executive, the chief executive shall—
   (a) deposit the money into the Residential Tenancies Trust Account:
   (b) give to the tenant a written receipt showing—
@@ -3045,7 +3045,7 @@ A waiver by the landlord of any breach by the tenant, or a failure by the landlo
   (b) where the breach is not of a continuing nature, prevent the landlord from exercising any remedy in the event of a subsequent breach by the tenant;—
 
 ### 134A Method of payment
-Any amount that is, by virtue of any provision of this Act or of any order of the Tribunal, to be paid to the chief executive shall be paid by such method as may be prescribed by regulations made under section 140.
+Any amount that is, by virtue of any provision of this Act or of any order of the Tribunal, to be paid to the chief executive must be paid using a payment method approved by the chief executive.
 
 ### 135 Recovery of money paid by mistake
 (1) Subject to subsection (2), where one party to a tenancy agreement pays any amount to the other party under a mistake of law or fact relating to the agreement, that party may, upon application to the Tribunal, recover that amount from the other party.
@@ -3477,6 +3477,67 @@ Any action taken before the enactment or commencement of the COVID-19 Response (
   - **Deputy Principal Tenancy Adjudicator** includes an acting Deputy Principal Tenancy Adjudicator appointed under section 67A
   - **Principal Tenancy Adjudicator** includes an acting Principal Tenancy Adjudicator appointed under section 67A
   - **Tenancy Adjudicator** includes an acting Tenancy Adjudicator appointed under section 67A.
+
+### Part 8 — Provisions relating to Residential Tenancies Amendment Act 2024
+
+### 41 Interpretation
+In this Part,—
+  - **2024 Act** means the Residential Tenancies Amendment Act 2024
+  - **amendment** means an amendment to this Act made by a provision of the 2024 Act
+  - **commencement date** , in relation to an amendment, means the date on which the provision of the 2024 Act that makes the amendment comes into force.
+
+### 42 Existing tenancies, etc
+(1) An amendment applies to a tenancy whether the tenancy commences before, on, or after the commencement date.
+(2) This clause is subject to clauses 43 to 54.
+
+### 43 New unlawful acts and pecuniary penalties
+An amendment that creates a new unlawful act or confers a power to impose pecuniary penalties does not apply to acts or omissions before the commencement date.
+
+### 44 Proceedings that have commenced
+(1) An amendment does not apply to proceedings commenced before the Tribunal before the commencement date, except as provided in subclause (2).
+(2) An amendment made by any of sections 37 and 38 of the 2024 Act applies to proceedings commenced before the Tribunal before the commencement date.
+
+### 45 Existing bonds
+(1) A bond that was paid in accordance with section 18 before the commencement date of the amendment made by section 8 of the 2024 Act is to be treated as a general bond under this Act (as amended by the 2024 Act).
+(2) The amendment made by section 18 of the 2024 Act does not apply to a bond that was paid in accordance with section 18 before the commencement date of the amendment made by section 8 of the 2024 Act.
+
+### 46 Existing pets
+(1) This clause applies to a tenancy that commenced before the date on which sections 18AA and 42C (as inserted by sections 9 and 20 of the 2024 Act) came into force if, immediately before that date,—
+  (a) the tenant kept a pet on the premises; and
+  (b) 1 or more of the following apply:
+    (i) the tenancy agreement provided that the tenant may keep the pet on the premises:
+    (ii) the landlord had given express consent for the tenant to keep the pet on the premises:
+    (iii) the tenancy agreement did not prohibit the tenant from keeping the pet on the premises.
+(2) If this clause applies, sections 18AA and 42C do not apply to the tenancy in respect of that pet.
+(3) For the purposes of subclause (1), to avoid doubt, a renewed tenancy is a continuation of the original tenancy.
+
+### 47 Provisions in tenancy agreements relating to pets
+Section 42D(1) and (2) (as inserted by section 20 of the 2024 Act) applies to a tenancy only if the tenancy agreement is made on or after the commencement date.
+
+### 48 Liability for pet damage
+The amendment made by section 24 of the 2024 Act applies to any destruction or damage that the landlord becomes aware of on or after the commencement date, unless the tenant proves that the damage or destruction occurred before the commencement date.
+
+### 49 Notices to terminate periodic tenancies
+An amendment made by any of sections 25 to 27 of the 2024 Act does not apply to the termination of a periodic tenancy by notice if the notice is given before the commencement date.
+
+### 50 Retaliatory notices
+(1) The amendments made by section 28 of the 2024 Act apply to a notice terminating a tenancy whether the notice is given before, on, or after the commencement date.
+(2) This clause is subject to clause 43.
+
+### 51 Withdrawal following family violence
+The amendments made by section 30 of the 2024 Act apply whether the family violence occurred before, on, or after the commencement date.
+
+### 52 Continuation of existing fixed-term tenancies as periodic and notice to renew
+(1) An amendment made by any of sections 25 to 27, 31, and 32 of the 2024 Act does not apply to a fixed-term tenancy if, on the commencement date, the tenancy is due to expire within 90 days or less.
+(2) Instead, an amendment made by any of sections 25 to 27, 31, and 32 of the 2024 Act applies to a fixed-term tenancy referred to in subclause (1) once—
+  (a) the tenancy continues as a periodic tenancy under section 60A(1) of this Act; or
+  (b) the tenancy is renewed or extended as a fixed-term tenancy.
+
+### 53 Abandonment of premises
+The amendment made by section 33 of the 2024 Act does not apply to the abandonment of premises if the date determined by the Tribunal under section 61(2) of this Act in relation to the abandonment is before the commencement date.
+
+### 54 Service on tenants following application
+The amendment made by section 39 of the 2024 Act applies to an application whether or not the application was made before, on, or after the commencement date.
 
 ## Schedule 1 — Clauses for rent increases in fixed-term tenancy agreements
 
