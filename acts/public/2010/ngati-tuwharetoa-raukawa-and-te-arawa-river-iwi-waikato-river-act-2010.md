@@ -1,5 +1,5 @@
 # Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010
-_Consolidation as at 2024-02-17_
+_Consolidation as at 2024-12-24_
 
 ### 1 Title
 This Act is the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010.
@@ -247,6 +247,7 @@ The matters provided for in sections 10 to 35 are also provided for in sections 
 (3) The person must have particular regard to the vision and strategy in addition to any requirement specified in the enactment for the carrying out of the functions or the exercise of the powers.
 (4) The enactments are the—
   (a) Conservation Act 1987:
+  (aa) Fast-track Approvals Act 2024:
   (b) National Parks Act 1980:
   (c) Reserves Act 1977:
   (d) Resource Management Act 1991:
