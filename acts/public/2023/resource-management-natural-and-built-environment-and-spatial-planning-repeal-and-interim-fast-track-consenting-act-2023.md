@@ -1,5 +1,5 @@
 # Resource Management (Natural and Built Environment and Spatial Planning Repeal and Interim Fast-track Consenting) Act 2023
-_Consolidation as at 2023-12-22_
+_Consolidation as at 2024-12-24_
 
 ### 1 Title
 This Act is the Resource Management (Natural and Built Environment and Spatial Planning Repeal and Interim Fast-track Consenting) Act 2023.
@@ -83,65 +83,24 @@ Despite the repeal of the Natural and Built Environment Act 2023, a reference in
 **Status of Treaty settlements under this Act**
 
 ### 4 Obligation to uphold Treaty settlements, NHNP Act, and other arrangements
-(1) All persons exercising a power, or performing a function or duty, in relation to the fast-track consenting process provided for in this Part must give a Treaty settlement, NHNP Act, or other arrangement the same or equivalent effect as would be given to those matters under the Resource Management Act 1991.
-(2) Subclause (1) applies to the extent that the power, function, or duty being exercised or performed in relation to the fast-track consenting process provided for in this Part is generally the same or equivalent to a power, function, or duty under the Resource Management Act 1991 that is affected by the Treaty settlement, NHNP Act, or other arrangement.
+[Repealed]
 
 ### 5 Process for upholding Treaty settlements, NHNP Act, and other arrangements
-(1) The Crown must, unless otherwise agreed with the relevant party,—
-  (a) discuss with each relevant party, for the purpose of agreeing how to uphold the integrity, intent, and effect of the Treaty settlement, the NHNP Act, and other arrangements in relation to the fast-track consenting process under this Act; and
-  (b) support the capacity of the relevant party to participate effectively in those discussions, including by providing appropriate resources; and
-  (c) enter into any agreements with the relevant party that are necessary to uphold the Treaty settlement, the NHNP Act, or other arrangement, including by entering into a deed to amend the entity’s Treaty settlement deed.
-(2) If necessary, to give effect to an agreement relating to a Treaty settlement or the NHNP Act, the Crown must—
-  (a) take all necessary steps within the Crown’s authority to introduce a Bill to the House of Representatives that—
-    (i) amends the relevant party’s Treaty settlement Act or the NHNP Act; and
-    (ii) is in a form agreed by the relevant party; and
-  (b) use the Crown’s best endeavours to promote the enactment of the Bill not later than 18 months after the commencement of this clause.
-(3) The Crown must also—
-  (a) monitor the progress of the matters set out in subclauses (1) and (2); and
-  (b) make a report to the relevant party on progress every 3 months after this clause and clause 7 come into force.
+[Repealed]
 
 ### 6 Duration of obligations relating to fast track consenting process
-Clause 4 ceases to apply in relation to a Treaty settlement, the NHNP Act, or other arrangement when,—
-  (a) in the case of a Treaty settlement or the NHNP Act,—
-    (i) the relevant Treaty settlement Act or Treaty settlement deed is amended in accordance with clause 5(2); or
-    (ii) the Crown and the relevant party agree that amendments are not necessary to uphold the Treaty settlement or NHNP Act in respect of this Part:
-  (b) in the case of any other arrangement, it has been transitioned to the arrangements under this Part.
+[Repealed]
 
 ### 7 Regulations to uphold other arrangements
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister for the Environment, make regulations to provide a process for giving effect to Mana Whakahono ā Rohe and joint management agreements in relation to this Act.
-(2) The regulations may provide for the terms of Mana Whakahono ā Rohe and joint management agreements to be modified, but only with the agreement of every iwi authority or group that represents hapū that is party to the Mana Whakahono ā Rohe or joint management agreement.
-(3) The Minister for the Environment must not recommend the making of regulations under this clause unless that Minister is satisfied that the regulations are consistent with the objective of ensuring that the integrity, intent, and effect of Treaty settlements, the NHNP Act, and other arrangements, as they relate to the Resource Management Act 1991, are upheld.
-(4) Regulations made under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 **Fast-track consenting provisions**
 
 ### 8 Fast-track consenting process
-(1) This clause applies despite the repeal of the Natural and Built Environment Act 2023.
-(2) Subject to subclauses (3) and (4), the following provisions of the Natural and Built Environment Act 2023 must be treated as continuing in force and also be treated as provisions of an environmental Act for the purposes of the Environmental Protection Authority Act 2011:
-  (a) section 44(a):
-  (b) section 46(1) and (4):
-  (c) section 104:
-  (d) section 798:
-  (e) clause 36 of Schedule 1:
-  (f) Part 2 of Schedule 10:
-  (g) clauses 94 to 97 of Schedule 10.
-(3) The provisions specified in subclause (2) apply with the modifications set out in the following table:The following table is small in size and has 3 columns. Column 1 is headed Part 3 provisions. Column 2 is headed Elements of Part 3 provisions to be modified. Column 3 is headed Modifications: to be read or disregarded as follows.Part 3 provisionsElements of Part 3 provisions to be modifiedModifications: to be read or disregarded as followsSection 44(a)Parts 2 to 5To be read as Parts 2 and 5Section 46(1)section 35(c)To be disregardedSection 46(1)Parts 2 to 5 of Schedule 10To be read as Parts 2 and 5Section 46(1)sections 767 and 768To be read as sections 357B and 357C of the Resource Management Act 1991Section 46(1)﻿(b) to (f)To be disregardedThe following table is small in size and has 3 columns. Column 1 is headed Part 4 provision. Column 2 is headed Elements of Part 4 provision to be modified. Column 3 is headed Modifications: to be read or disregarded as follows.Part 4 provisionElements of Part 4 provision to be modifiedModifications: to be read or disregarded as followsSection 104(2)﻿(a)the national planning frameworkTo be read as a national policy statement, New Zealand coastal policy statement, or national planning standardSection 104(2)﻿(b)any plan made under this Act that affects the Waikato River or the Waipā River or activities within their catchments, and the remainder of the planTo be read as the Waikato regional policy statement and any relevant regional and district planThe following table is small in size and has 3 columns. Column 1 is headed Schedule 1 provision. Column 2 is headed Elements to be modified. Column 3 is headed Modifications: to be read or disregarded as follows.Schedule 1 provisionElements to be modifiedModifications: to be read or disregarded as followsClause 36(2)﻿(b)”this Act”To be disregardedThe following table is medium in size and has 3 columns. Column 1 is headed Schedule 10 provisions. Column 2 is headed Elements of Schedule 10 provisions to be modified. Column 3 is headed Modifications: to be read or disregarded as follows.Schedule 10 provisionsElements of Schedule 10 provisions to be modifiedModifications: to be read or disregarded as followsClause 13, definition of panel, paragraph (b)regulations made under section 798To be read as regulations made under section 360 of the Resource Management Act 1991Clause 13, definition of usual consenting pathwayreplace the definitionTo be read as:“usual consenting pathway means,—Clause 16(1)﻿(c)﻿(i)this ActTo be disregardedClause 16(1)﻿(c)﻿(ii)national planning framework and this ActTo be read as national environmental standards and national policy statements and the Resource Management Act 1991Clause 16(1)﻿(c)﻿(iii)(including the Resource Management Act 1991)To be disregardedClause 16(3)﻿(a)support the well-functioning urban area outcomes set out in section 6(9)To be read as support a well-functioning urban environment (as defined in the National Policy Statement: Urban Development 2020)Clause 16(3)﻿(c)﻿(i)regional spatial strategy or a planTo be read as regional policy statement, regional plan, or district planClause 17(3)regulations made under section 798To be read as regulations made under section 360 of the Resource Management Act 1991Clause 17(3)﻿(j)this Act orTo be disregardedClause 18(2)﻿(b)portfolios:To be read as portfolios; andClause 18(2)﻿(c)regulations made under section 798To be read as regulations made under section 360 of the Resource Management Act 1991Clause 18(7)﻿(b)﻿(i) to (iv)Replace : with ; andClause 18(7)﻿(b)﻿(iii)this ActTo be read as the Resource Management Act 1991Clause 22(2)﻿(b)regulations made under section 798To be read as regulations made under section 360 of the Resource Management Act 1991Clause 22(2)﻿(c)﻿(i)section 239To be read as section 88 of the Resource Management Act 1991Clause 22(2)﻿(c)﻿(ii)sections 517 to 520To be read as sections 168 and 168A of the Resource Management Act 1991Clause 23(2)﻿(a)regulations made under section 798To be read as regulations made under section 360 of the Resource Management Act 1991Clause 25(2)section 354To be read as section 139 of the Resource Management Act 1991Clause 26(2)﻿(a)﻿(i)regulations made under section 798To be read as regulations made under section 360 of the Resource Management Act 1991Clause 26(2)﻿(b)﻿(ii)replace clause 26(2)﻿(b)﻿(ii)To be read as replaced by the following: (ii) for whom the panel considers the activity is relevant.Clause 27(2)Sections 272 to 276 To be read as Sections 96 to 99 of the Resource Management Act 1991Clause 27(2)﻿(c)section 522(4)To be read as section 168A of the Resource Management Act 1991Clause 29(1)clauses 78 to 80, 83, and 86 to 93 of Schedule 6To be read as sections 39, 39AA, 39B, and 41 to 42A of the Resource Management Act 1991Clause 31(5)regulations made under section 798To be read as regulations made under section 360 of the Resource Management Act 1991Clauses 33 and 34replace clauses 33 and 34To be read as replaced by the following: “33 Panel’s consideration of resource consent application or notice of requirement(1) If the panel is considering a resource consent application,—(2) If the panel is considering a notice of requirement, section 149P(4) and (4A) of the Resource Management Act 1991 applies as if the panel were a board of inquiry.”Clause 35Sections 326, 335, and 336 applyTo be read as Section 123 of the Resource Management Act 1991 appliesClause 36(4)regulations made under section 798To be read as regulations made under section 360 of the Resource Management Act 1991Clause 39(3)﻿(a)in its planTo be read as in the district plan and any proposed district planClause 40(2)replace clause 40(2)Read clause 40(2) as being replaced with the following:“(2) The territorial authority must, as soon as practicable and without using Schedule 1 of the Resource Management Act 1991,—Clause 42(1)﻿(c)the regional planning committeeTo be disregardedClause 42(2)Clauses 80 to 87 of Schedule 13To be read as Sections 300 to 307 of the Resource Management Act 1991Clause 53under clause 75To be disregardedClause 94(1)or regional planning committeeTo be disregardedClause 94(1)any of Parts 2 to 4 orTo be read as Part 2Clause 94(3)to 4To be disregardedClause 94(4)replace clause 94(4)To be read as replaced with the following:(4) The Minister must recover from an applicant the actual and reasonable costs incurred in relation to a panel.Clause 94(7)section 767To be read as section 357B of the Resource Management Act 1991Clause 97(6)section 767To be read as section 357B of the Resource Management Act 1991Clause 97(6)section 771To be read as section 358 of the Resource Management Act 1991
-  (a) for processing a resource consent application, the standard processes under the Resource Management Act 1991; and
-  (b) for a notice of requirement, the process set out in Part 8 of the Resource Management Act 1991”
-  (a) section 149P(2) of the Resource Management Act 1991 applies as if the panel were a board of inquiry; and
-  (b) section 220 of that Act applies with the necessary modifications.
-  (a) include the designation in its district plan and any proposed district plan as if it were a rule in the plan or proposed plan issued in accordance with the Resource Management Act 1991; and
-  (b) state in its district plan and in any proposed district plan the name of the requiring authority that has the benefit of the designation.”
-(4) Part 2 of Schedule 10 of the Natural and Built Environment Act 2023 must be treated as if it were subject to Part 2 of the Resource Management Act 1991, with any necessary modifications.
+[Repealed]
 
 ### 9 Existing applications
-(1) This clause applies in the case of applications described in subclause (2), if the application—
-  (a) was made or lodged under the Natural and Built Environment Act 2023 before the commencement date; but
-  (b) has not been determined.
-(2) The applications referred to in subclause (1) are a referral application or substantive fast-track application made under Part 2 of Schedule 10 of the Natural and Built Environment Act 2023.
-(3) If the application complied with the requirements for those instruments under the Natural and Built Environment Act 2023 and has not been withdrawn,—
-  (a) no further steps in the process may be taken; and
-  (b) the application may proceed under the process described in clause 8 of this Part.
+[Repealed]
 
 ### 10 Existing delegations
 An existing delegation made by a Minister to the EPA under section 44 or 46 of the Natural and Built Environment Act 2023 continues in accordance with its terms, as long as it has not been revoked.
