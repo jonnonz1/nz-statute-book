@@ -1,5 +1,5 @@
 # Te Awa Tupua (Whanganui River Claims Settlement) Act 2017
-_Consolidation as at 2024-02-17_
+_Consolidation as at 2024-12-24_
 
 ### 1 Title
 This Act is the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017.
@@ -1447,6 +1447,7 @@ Whanganui Iwi do not include—
 Section 15(2) applies to the following Acts:
   (a) Biosecurity Act 1993:
   (b) Conservation Act 1987:
+  (ba) Fast-track Approvals Act 2024:
   (c) Fisheries Act 1996:
   (d) Forests Act 1949:
   (e) Freedom Camping Act 2011:
