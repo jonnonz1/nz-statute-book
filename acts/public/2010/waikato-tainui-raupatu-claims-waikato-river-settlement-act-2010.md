@@ -1,5 +1,5 @@
 # Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010
-_Consolidation as at 2024-02-17_
+_Consolidation as at 2024-12-24_
 
 ## Preamble
 The Relationship of Waikato-Tainui with the Waikato River
@@ -299,6 +299,7 @@ This Act binds the Crown.
 (3) The person must have particular regard to the vision and strategy in addition to any requirement specified in the enactment for the carrying out of the functions or the exercise of the powers.
 (4) The enactments are the—
   (a) Conservation Act 1987:
+  (aa) Fast-track Approvals Act 2024:
   (b) National Parks Act 1980:
   (c) Reserves Act 1977:
   (d) Resource Management Act 1991:
