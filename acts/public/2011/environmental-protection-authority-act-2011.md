@@ -1,5 +1,5 @@
 # Environmental Protection Authority Act 2011
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-12-24_
 
 ### 1 Title
 This Act is the Environmental Protection Authority Act 2011.
@@ -32,7 +32,7 @@ In this Act, unless the context otherwise requires,—
     (ab) the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012:
     (b) the Hazardous Substances and New Organisms Act 1996:
     (c) the Imports and Exports (Restrictions) Act 1988:
-    (ca) the Resource Management (Natural and Built Environment and Spatial Planning Repeal and Interim Fast-track Consenting) Act 2023:
+    (ca) the Fast-track Approvals Act 2024:
     (d) the Ozone Layer Protection Act 1996:
     (e) the Resource Management Act 1991:
     (f)
