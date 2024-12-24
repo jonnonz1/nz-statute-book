@@ -1,5 +1,5 @@
 # Heritage New Zealand Pouhere Taonga Act 2014
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2024-12-24_
 
 ### 1 Title
 This Act is the Heritage New Zealand Pouhere Taonga Act 2014.
@@ -305,7 +305,7 @@ Despite section 73 of the Crown Entities Act 2004, the Board must not delegate t
 (6) A delegation under this section is revocable at will and does not prevent the Board from carrying out a function or exercising a power.
 
 ### 23 Rules
-The Board may, by resolution, make rules that are not incompatible with this Act or the Crown Entities Act 2004 for the following purposes:
+The Board may, by resolution, make rules that are not incompatible with this Act, the Crown Entities Act 2004, or the Fast-track Approvals Act 2024 for the following purposes:
   (a) regulating the proceedings of the Board and the Council:
   (b) providing for the custody of the property of Heritage New Zealand Pouhere Taonga and the use of its common seal:
   (c) other purposes that Heritage New Zealand Pouhere Taonga considers necessary or expedient for properly carrying out its functions and exercising its powers, including in relation to the Council.
