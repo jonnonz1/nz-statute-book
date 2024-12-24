@@ -1,5 +1,5 @@
 # Ngāti Rangi Claims Settlement Act 2019
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2024-12-24_
 
 ### 1 Title
 This Act is the Ngāti Rangi Claims Settlement Act 2019.
@@ -2258,6 +2258,7 @@ The members of Te Pae Ao jointly must appoint 1 of their members to be the chair
 Section 109(2) applies to the following Acts:
   (a) Biosecurity Act 1993 (in relation to functions performed by local authorities):
   (b) Conservation Act 1987 (in relation to functions performed by the Minister of Conservation and the Director-General of Conservation, and in relation to freshwater management and freshwater fisheries management functions performed by the New Zealand Fish and Game Council):
+  (ba) Fast-track Approvals Act 2024:
   (c) Local Government Act 1974:
   (d) Local Government Act 2002:
   (e) Marine Mammals Protection Act 1978 (in relation to the declaration of a marine mammal sanctuary, and in relation to the approval of a population management plan):
