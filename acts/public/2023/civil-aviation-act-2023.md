@@ -1,5 +1,5 @@
 # Civil Aviation Act 2023
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2024-12-28_
 
 ### 1 Title
 This Act is the Civil Aviation Act 2023.
@@ -4531,7 +4531,7 @@ A person who commits an act or omission on an aircraft in flight outside New Zea
 (8) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (9) If the regulations authorise the Minister to fix fees and charges as set out in subsection (2),—
   (a) a notice given by the Minister is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
-  (b) the notice must contain a statement to that effect.
+  (b) the regulations must contain a statement to that effect.
 
 ### 416 Rebate of fees or charges
 (1) The person or authority to whom any fees or charges are payable under the regulations may grant a rebate of fees or charges to any person who is liable to pay the fees or charges.
@@ -5463,7 +5463,7 @@ An authorisation of a tariff given under section 90 of the former Act and in eff
 (1) This clause applies to an agreement that is—
   (a) a joint venture agreement made under section 94 of the former Act, or any other agreement of a similar nature, between the Crown and any 1 or more local authorities, bodies, or persons that are an airport authority within the meaning of the Airport Authorities Act 1966; and
   (b) in effect immediately before the commencement date.
-(2) If the 1 or more local authorities, bodies, or persons cease to be an airport authority under clause 37(2), any reference in the agreement to the 1 or more local authorities, bodies, or persons as an airport authority must be read as a reference to the 1 or more local authorities, bodies, or persons as an airport operator.
+(2) If the 1 or more local authorities, bodies, or persons cease to be an airport authority under clause 39(1), any reference in the agreement to the 1 or more local authorities, bodies, or persons as an airport authority must be read as a reference to the 1 or more local authorities, bodies, or persons as an airport operator.
 
 ### 41 Status of airport authority as administering body under Reserves Act 1977
 If an airport authority was appointed as an administering body under the Reserves Act 1977, it continues to be an administering body when it is registered as an airport operator.
