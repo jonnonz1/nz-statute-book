@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2024-07-31_
+_Consolidation as at 2025-01-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -216,6 +216,7 @@ Residential land purchase amount
 A person must pay the following types of income or ancillary tax under the relevant Part:
   (a) qualifying company election tax under Part H (Taxation of certain entities):
   (b) income tax on taxable distributions from non-complying trusts under Part H:
+  (bb) multinational top-up tax under Part H:
   (c) further income tax under Part O (Memorandum accounts):
   (d) RLWT under subpart RL (Residential land withholding tax), if the person is described in section RL 2 (Vendors: who must pay, and how?).
   (e)
@@ -253,10 +254,20 @@ Entry into force
 Secondary legislation
 (3B) An Order in Council under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Overriding effect
-(4) Despite anything in this Act, except subsection (5), or section RF 11C (Interest paid by non-resident companies to non-residents) or (5B) or section BG 1 or GB 54 (which relate to tax avoidance) or, or in any other Inland Revenue Act or the Official Information Act 1982 or the Privacy Act 2020, a double tax agreement has effect in relation to—
+(4) Despite anything in this Act, except the provisions listed in subsection (4B), or in any other Inland Revenue Act or the Official Information Act 1982 or the Privacy Act 2020, a double tax agreement has effect in relation to—
   (a) income tax:
   (b) any other tax imposed by this Act:
-  (c) the exchange of information that relates to a tax, as defined in paragraphs (a)﻿(i) to (v) of the definition of tax in section 3 of the Tax Administration Act 1994.
+  (c) the exchange of information that relates to a tax, as defined in paragraph (a)﻿(i) to (v) of the definition of tax in section 3(1) of the Tax Administration Act 1994.
+Provisions
+(4B) The provisions of this Act referred to in subsection (4) are—
+  (a) subsection (4C):
+  (b) subsection (5):
+  (c) subsection (5B):
+  (d) section BG 1 (Tax avoidance):
+  (e) section GB 54 (Arrangements involving establishments):
+  (f) section RF 11C (Interest paid by non-resident companies to non-residents).
+Exclusion: multinational top-up tax
+(4C) A double tax agreement does not have effect in relation to multinational top-up tax unless the double tax agreement expressly provides otherwise.
 Agreement for recovery of tax
 (5) An agreement that provides for the recovery of unpaid tax is subject to Part 10A of the Tax Administration Act 1994.
 Foreign account information-sharing agreements
@@ -4896,8 +4907,8 @@ Some definitions
 ### CW 57 Non-resident company involved in exploration and development activities
 Exempt income
 (1) An amount of income derived by a non-resident company from exploration and development activities in an offshore permit area is exempt income if it is derived in the period that—
-  (a) starts on 1 January 2020; and
-  (b) ends on 31 December 2024.
+  (a) starts on 1 January 2025; and
+  (b) ends on 31 December 2029.
 Some definitions
 (2) In this section,—
   - **exploration and development activities** —
@@ -31096,6 +31107,44 @@ Timing
 ### HM 76 Transition: FDPA companies
 [Repealed]
 
+### Subpart HP — Taxation of members of certain multinational groups
+
+### HP 1 Liability for multinational top-up tax
+Payment of tax
+(1) A constituent entity (entity A) that is required to pay an amount of tax for a fiscal year under the applied global anti-base erosion rules must pay the amount to the Commissioner.
+Joint and several liability
+(2) Each constituent entity that is located in New Zealand under the applied global anti-base erosion rules and that is a member of the same MNE group as entity A is jointly and severally liable with entity A for the amount of tax for the fiscal year payable by entity A under the applied global anti-base erosion rules.
+Member leaving MNE group
+(3) If a constituent entity (entity B) that is a member of the same MNE group as entity A leaves the MNE group, entity B is relieved from liability under subsection (2) for a fiscal year if—
+  (a) the assessment of entity A’s multinational top-up tax liability for the fiscal year is made after entity B leaves the MNE group; and
+  (b) the amount assessed is more than an earlier assessment of entity A’s multinational top-up tax liability for the fiscal year; and
+  (c) the Commissioner considers that the removal of the liability will not significantly prejudice the recovery, or likely recovery, of the amount of multinational top-up tax assessed for the fiscal year; and
+  (d) the Commissioner notifies entity A and entity B that the requirements of paragraph (c) are met.
+
+### HP 2 Payment date for multinational top-up tax
+A constituent entity must pay its multinational top-up tax for a fiscal year to the Commissioner by,—
+  (a) for the first fiscal year for which the constituent entity is required to provide a return under section 78J of the Tax Administration Act 1994, the date that is 20 months after the end of the fiscal year:
+  (b) otherwise, the date that is 16 months after the end of the fiscal year.
+
+### HP 3 Application of global anti-base erosion model rules
+What this section does
+(1) This section provides for the application of the global anti-base erosion model rules in determining the obligations of a person under the Inland Revenue Acts.
+Modifications to global anti-base erosion model rules
+(2) For the purposes of determining the obligations of a person under the Inland Revenue Acts, the global anti-base erosion model rules are modified in the ways specified in schedule 25B (Items modifying global anti-base erosion model rules).
+Application of global anti-base erosion model rules
+(3) Subject to any regulations made under section 226G of the Tax Administration Act 1994, the global anti-base erosion model rules apply for a fiscal year—
+  (a) as modified by subsection (2); and
+  (b) subject to the modifications made by subsection (2), in accordance with—
+    (i) the most recent commentary to the global anti-base erosion model rules developed by the OECD/G20 Inclusive Framework on Base Erosion and Profit Shifting (the Inclusive Framework) and published by the OECD before the start of the fiscal year; and
+    (ii) the most recent guidance on the interpretation or administration of the global anti-base erosion model rules issued by the Inclusive Framework and published by the OECD before the start of the fiscal year.
+Commentary or guidance prevails
+(4) For the purposes of subsection (3)﻿(b), if there is a conflict between the global anti-base erosion model rules and commentary or guidance described in that paragraph, the commentary or guidance prevails.
+Relationship between provisions
+(5) Subsection (4) does not limit or affect any of the modifications to the global anti-base erosion model rules made by subsection (2).
+
+### HP 4 Meaning of terms defined in global anti-base erosion model rules
+In the application of this subpart, sections 78H to 78J and 92BA of the Tax Administration Act 1994, and the global anti-base erosion model rules for a fiscal year, a term defined in the global anti-base erosion model rules and used in the Inland Revenue Acts has the meaning that it has at the start of the fiscal year under the global anti-base erosion model rules as modified by section HP 3(2).
+
 ### Subpart HR — Other entities
 
 ### HR 1 Partnerships and joint ventures
@@ -43752,6 +43801,7 @@ In this Act, unless the context requires otherwise,—
     (f)
     (g)
     (h) qualifying company election tax:
+    (hb) multinational top-up tax:
     (i) PAYE:
     (j) FBT:
     (k) ESCT:
@@ -43770,6 +43820,7 @@ In this Act, unless the context requires otherwise,—
   - **annual rates** means the rates of income tax fixed for a tax year by the annual taxing Act for that year
   - **annual taxing Act** means the provisions of any Act by which the rates of income tax are fixed for a tax year
   - **annual total deduction** is defined in section BC 3 (Annual total deduction)
+  - **applied global anti-base erosion rules** means the global anti-base erosion model rules as applied by section HP 3 (Application of global anti-base erosion model rules)
   - **apply** , for a mode of communication, has the meaning set out in section 14C of the Tax Administration Act 1994
   - **approved AIM provider** means a person that the Commissioner has approved as an approved AIM provider under section 15U of the Tax Administration Act 1994, if the approval has not been revoked under section 15V of that Act
   - **approved issuer** means a person for whom an approval under section 32M of the Tax Administration Act 1994 is in force
@@ -45832,6 +45883,7 @@ In this Act, unless the context requires otherwise,—
     (b) in the FBT rules, and in the definition of car,—
       (i) is defined in section 2(1) of the Land Transport Act 1998; and
       (ii) does not include a vehicle the gross laden weight of which is more than 3500 kilograms
+  - **multinational top-up tax** means tax payable under subpart HP (Taxation of members of certain multinational groups)
   - **multi-rate PIE** means a company, superannuation fund, or group investment fund that—
     (a) meets the requirements of section HM 7 (Requirements); and
     (b) chooses to become a PIE under section HM 71 (Choosing to become PIE); and
@@ -49482,6 +49534,8 @@ expenditure related to the acquisition of land
 ## Schedule 24 — International tax rules: grey list countries
 
 ## Schedule 25 — Foreign investment funds
+
+## Schedule 25B — Items modifying global anti-base erosion model rules
 
 ## Schedule 26 — Low tax jurisdictions or territories
 
