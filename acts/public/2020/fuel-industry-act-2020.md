@@ -1,5 +1,5 @@
 # Fuel Industry Act 2020
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2025-01-01_
 
 ### 1 Title
 This Act is the Fuel Industry Act 2020.
@@ -107,7 +107,7 @@ This Act binds the Crown.
     (i) to meet its obligations under its contracts with end users or its fixed wholesale contracts; or
     (ii) to meet forecast demand, over the period prescribed by regulations made under this subpart, for specified engine fuel sold by the wholesale supplier at retail fuel sites to end users; or
   (f) any other grounds prescribed by regulations made under this subpart apply.
-(2) A wholesale supplier is not entitled to rely on subsection (1)﻿(e) in respect of supply of specified engine fuel to an independent reseller during a prescribed time period except to the extent that supply of the specified engine fuel would require the wholesale supplier to supply more than the prescribed minimum supply amount to independent resellers during that period.ExampleThe prescribed time period is a month. The prescribed minimum supply amount is 30,000 litres.A wholesale supplier has, to date during the month, supplied 20,000 litres of the specified engine fuel to independent resellers.An independent reseller requests the wholesale supplier to supply 15,000 litres of the specified engine fuel to the independent reseller during the month.The wholesale supplier— is not entitled to rely on subsection (1)﻿(e) in respect of 10,000 litres (when it will have supplied the prescribed minimum supply amount of 30,000 litres to independent resellers in the month):is entitled to rely on subsection (1)﻿(e) in respect of 5,000 litres (being the amount exceeding the prescribed minimum supply amount).
+(2) A wholesale supplier is not entitled to rely on subsection (1)﻿(e) in respect of supply of specified engine fuel to an independent reseller during a prescribed time period except to the extent that supply of the specified engine fuel would require the wholesale supplier to supply more than the prescribed minimum supply amount to independent resellers during that period.ExampleThe prescribed time period is a month. The prescribed minimum supply amount is 30,000 litres.A wholesale supplier has, to date during the month, supplied 20,000 litres of the specified engine fuel to independent resellers.An independent reseller requests the wholesale supplier to supply 15,000 litres of the specified engine fuel to the independent reseller during the month.The wholesale supplier—is not entitled to rely on subsection (1)﻿(e) in respect of 10,000 litres (when it will have supplied the prescribed minimum supply amount of 30,000 litres to independent resellers in the month):is entitled to rely on subsection (1)﻿(e) in respect of 5,000 litres (being the amount exceeding the prescribed minimum supply amount).
 (3) A wholesale supplier to which subsection (1)﻿(e)﻿(i) and (ii) applies (that is, the wholesale supplier requires the specified engine fuel that it has available to supply to meet obligations under its contracts with end users or its fixed wholesale contracts or to meet forecast demand) must provide or publish a notice in accordance with any regulations made under this subpart.
 (4) A wholesale supplier that has supplied the prescribed minimum supply amount to an independent reseller (or to independent resellers) during a prescribed time period must provide or publish a notice in accordance with any regulations made under this subpart.
 (5) For the purposes of this section, independent reseller means a reseller that is not—
@@ -332,7 +332,7 @@ The Commission may make a recommendation that price regulation should be imposed
 (1) Having considered the Commission’s recommendation in accordance with section 29H, the Minister must—
   (a) decide whether, in the opinion of the Minister, price regulation should be imposed on all or any of the terminal gate prices recommended by the Commission; and
   (b) make a recommendation to that effect, if so.
-(2) The Minister's decision may be— ExampleAfter an inquiry, the Commission recommends that all diesel terminal gate prices that are posted by suppliers A and B should be regulated. The Minister may recommend the same or the Minister may recommend that regulation should apply only to all or some of supplier A’s diesel terminal gate prices and not supplier B’s (or vice versa). The Minister cannot recommend that regulation should apply to supplier C unless the Commission makes a separate recommendation to that effect.
+(2) The Minister's decision may be—ExampleAfter an inquiry, the Commission recommends that all diesel terminal gate prices that are posted by suppliers A and B should be regulated. The Minister may recommend the same or the Minister may recommend that regulation should apply only to all or some of supplier A’s diesel terminal gate prices and not supplier B’s (or vice versa). The Minister cannot recommend that regulation should apply to supplier C unless the Commission makes a separate recommendation to that effect.
   (a) the same as the Commission’s recommendation under section 29G; or
   (b) different from the Commission’s recommendation under section 29G only to the extent that all or any of the terminal gate prices recommended by the Commission should be not regulated.
 (3) If the Minister's decision is different from the Commission's recommendation, the Minister must set out the reasons for the decision and make the decision, with the reasons, publicly available.
@@ -625,6 +625,118 @@ In this Part, unless the context otherwise requires,—
   - **obliged person** has the meaning given in section 53
   - **regulations** means regulations made under subpart 6
   - **stockholding obligation** or means the obligation imposed by subpart 2 and any regulations made for the purpose of that obligation.
+
+### Subpart 2 — Stockholding obligation
+
+**Application**
+
+### 52 Purpose of this subpart
+The purpose of this subpart is to promote the resilience of engine fuel supplies by requiring certain fuel industry participants to hold a certain level of engine fuel stocks in New Zealand to mitigate the risk of fuel supply disruptions.
+
+### 53 Persons to which obligation applies
+(1) During the initial period, this subpart applies to every fuel industry participant (an obliged person) that, during a compliance period,—
+  (a) is a fuel importer of a type of obligation fuel; and
+  (b) owns or operates a bulk storage facility for that type of obligation fuel or has the right to draw that type of obligation fuel at a bulk storage facility.
+(2) After the initial period, this subpart applies to every fuel industry participant (an obliged person)—
+  (a) that is of a type described in subsection (1); or
+  (b) that is of an additional type or types specified in the regulations.
+(3) The Minister may recommend regulations for the purpose of subsection (2)﻿(b) only if the Minister is satisfied that—
+  (a) fuel industry participants of that type or those types supply (in the form of production or import) a significant volume of fuels to the New Zealand fuel market (that is, their market share must be significant); and
+  (b) the fuel supplied by fuel industry participants of that type constitute a significant proportion of the energy used by the transport sector in New Zealand.
+
+### 54 Fuel on which obligation is based
+This subpart applies to the following types of engine fuel (obligation fuel):
+  (a) during the initial period, the types referred to in section 57(2); and
+  (b) after the initial period, any type or types that are specified by the regulations to be obligation fuels.
+
+### 55 Disregarded fuels
+The following are disregarded for the purpose of this Part and the regulations:
+  (a) fuel held under an agreement with the Crown for the purpose of compliance by the Crown with New Zealand’s obligation, under Article 2 of the International Energy Agreement (within the meaning given in section 2 of the International Energy Agreement Act 1976), to maintain the emergency reserve commitment set out in that Article:
+  (b) fuel imported for consumption by the Crown (for example, by the New Zealand Defence Force).
+
+**Imposition of stockholding obligation**
+
+### 56 Imposition of obligation
+Each obliged person must hold minimum stock, of each type of obligation fuel in respect of which it is an obliged person, at a level that is sufficient to sustain the minimum level of cover required by this Part and the regulations.
+
+### 57 Initial obligation
+(1) This section sets the stockholding obligation for the initial period.
+(2) The types of obligation fuel to which the initial stockholding obligation applies are—
+  (a) diesel (within the meaning of regulation 5(1) of the Engine Fuel Specifications Regulations 2011):
+  (b) petrol (within the meaning of regulation 5(1) of the Engine Fuel Specifications Regulations 2011):
+  (c) aviation kerosene (being kerosene-type fuel that is used in aviation turbine engines).
+(3) The required number of days of demand or consumption, for the purpose of the minimum level of cover, is—
+  (a) 21 for diesel:
+  (b) 28 for petrol:
+  (c) 24 for aviation kerosene.
+(4) The formula for translating minimum level of cover to the required minimum stockholding volume for each obliged person and each fuel type is—a = b × cwhere—ais the obliged person’s stockholding obligation (that is, the minimum stock of the fuel type (measured in thousands of litres) that the person must hold, on an average basis, during the compliance period to sustain the minimum level of cover required by this Part and the regulations), where average means an average of daily stock level (measured or estimated) over the compliance periodbis the required number of days that is referred to in subsection (3) for the fuel type and for the purpose of the minimum level of cover cis the obliged person’s average daily demand or consumption (that is, the obliged person’s average daily drawings from bulk storage facilities in New Zealand at which the obliged person has the right to draw fuel, during the 12-month period that ends 4 months before the compliance period begins, of the fuel type (measured in thousands of litres per day)).
+(5) Engine fuel counts as minimum stock if—
+  (a) the stock is—
+    (i) in a bulk storage facility in New Zealand; or
+    (ii) fuel cargo in a vessel within New Zealand’s exclusive economic zone that is scheduled for delivery to a New Zealand port; and
+  (b) the fuel complies with any requirements of the regulations for counting fuel as minimum stock.
+
+### 58 Regulations relating to stockholding obligation
+(1) The regulations may provide for matters relating to the stockholding obligation, including all or any of the following matters:
+  (a) for any period and any fuel,—
+    (i) how each obliged person’s stockholding obligation must be calculated for each compliance period:
+    (ii) requirements relating to circumstances, characteristics, location, and ownership or drawing rights for counting fuel as minimum stock:
+    (iii) when the initial period ends:
+  (b) for each period after the initial period,—
+    (i) the type or types of engine fuel that are obligation fuels (which may be prescribed by reference to either or all of the circumstances or characteristics of the fuel or other matters):
+    (ii) the type or types of fuel industry participant that are obliged persons in respect of obligation fuel (in which case, section 53(3) applies):
+    (iii) matters relating to the minimum level of cover required.
+(2) The regulations may provide—
+  (a) different obligations for different types of things (for example, different stockholding levels for different fuels at different locations or for different periods); and
+  (b) for recalculation of obligations (for example, if a person ceases to be an obliged person, for the recalculation of other persons’ obligations).
+(3) The Minister may recommend regulations for matters referred to in this section only if—
+  (a) the Minister has had regard to the resilience of supplies of each type of obligation fuel; and
+  (b) the Minister has had regard to the current or recent commercial stockholding levels for that type of fuel; and
+  (c) the Minister considers that the stockholding obligation balances the following objectives:
+    (i) that there are sufficient engine fuel stocks available in New Zealand to meet demand and to adequately manage the impacts of plausible fuel supply disruption scenarios; and
+    (ii) that the economic costs associated with complying with the stockholding obligation are not disproportionate.
+
+### 59 Exemptions from stockholding obligation
+(1) The Minister may exempt by notice an obliged person, or a class of obliged persons, from all or any of their stockholding obligation.
+(2) The Minister may grant the exemption only if—
+  (a) the Minister is satisfied that exceptional circumstances beyond the reasonable control of the obliged person have prevented, or are likely to prevent, the obliged person from complying with the obligation, for example,—
+    (i) a natural disaster that has affected fuel storage facilities, or a crisis that has affected international shipping routes; or
+    (ii) other exceptional circumstances prescribed in the regulations; and
+  (b) the Minister has taken into account—
+    (i) the impact of the circumstances on fuel imports and fuel storage capacity; and
+    (ii) the duration of the circumstances; and
+    (iii) the level of control of the fuel importer over the circumstances; and
+    (iv) the time required to achieve compliance with the obligation; and
+    (v) the impact on fuel resilience in regions; and
+  (c) the Minister is satisfied that—
+    (i) there is good reason for granting the exemption that outweighs the interests of the public in having the obligation met; and
+    (ii) the extent of the exemption is not broader than is reasonably necessary to address the matters that gave rise to the exemption.
+(3) The regulations may prescribe—
+  (a) circumstances in which exemptions may be granted:
+  (b) matters related to the process for exemptions:
+  (c) the maximum period during which an exemption may continue in force:
+  (d) when and how other obliged persons’ stockholding obligations may be recalculated as a result of an exemption.
+(4) The Minister may grant the exemption unconditionally or subject to any conditions that the Minister may prescribe in the notice.
+(5) The Minister’s reasons for granting the exemption (including why the exemption is appropriate) must be published together with the exemption.
+(6) An exemption granted under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Entitlement agreements**
+
+### 60 Entitlement agreements as mechanism for meeting obligations
+(1) This section applies if an obliged person enters into an agreement with another person that records a transfer of the right to count an amount of fuel stocks for the purpose of complying with a stockholding obligation.
+(2) Only the transferee of the right is treated as the holder of the stock (for the purpose of counting the amount towards compliance with the stockholding obligation after the transfer).Example 1A and B are both obliged persons and an agreement records a transfer from A to B of the right to count an amount of fuel stocks for the purpose of complying with a stockholding obligation. Only B holds the amount for the purpose of compliance with the stockholding obligation after the transfer.Example 2A fuel importer sells an amount of imported stock to a consignor who will maintain ownership of the stock in a bulk supply facility until it is drawn down by the fuel importer. The agreement records a transfer from the consignor to the fuel importer of the right to be considered the holder of the amount for the purpose of complying with a stockholding obligation. Only the fuel importer is treated as the holder of that amount for that purpose (despite the consignor being the owner of the stock).
+(3) The regulations may set requirements related to entitlement agreements and their use.
+
+**Review**
+
+### 61 Review
+(1) The Minister must review the stockholding obligation within 5 years after the commencement of this subpart.
+(2) The review of the stockholding obligation must take into account the following considerations:
+  (a) the Government's emissions budget and emissions reduction plan:
+  (b) fuel demand in New Zealand:
+  (c) the fuel mix for the transport fleet:
+  (d) any relevant data and findings on the resilience of supply chains, such as national and regional fuel stocks data and reports on resilience of international and domestic fuel supply chains:
+  (e) domestic fuel production capacity.
 
 ### Subpart 3 — Information disclosure requirements for purpose of this Part
 
