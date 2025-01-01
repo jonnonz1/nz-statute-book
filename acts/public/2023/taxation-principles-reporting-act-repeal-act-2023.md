@@ -1,5 +1,5 @@
 # Taxation Principles Reporting Act Repeal Act 2023
-_Consolidation as at 2023-12-22_
+_Consolidation as at 2025-01-01_
 
 ### 1 Title
 This Act is the Taxation Principles Reporting Act Repeal Act 2023.
