@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2024-07-31_
+_Consolidation as at 2025-01-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -89,7 +89,7 @@ _Consolidation as at 2024-07-31_
     (b) a late payment penalty; or
     (c) a shortfall penalty; or
     (cb) a promoter penalty; or
-    (cbb) a penalty under section 139AAB, 139AB, or 139AC; or
+    (cbb) a penalty under section 139AAB, 139AB, 139ABB, or 139AC; or
     (cc) a penalty under section 142H, 142I, 142J, or 142K; or
     (cd) a penalty under section 141EE; or
     (d) a non-electronic filing penalty; or
@@ -303,6 +303,7 @@ _Consolidation as at 2024-07-31_
   - **model reporting standard for digital platforms** means the Model Rules for Reporting by Platform Operators with respect to Sellers in the Sharing and Gig Economy that is a standard—
     (a) developed by the Organisation for Economic Co-operation and Development and the Group of Twenty countries; and
     (b) agreed by the Council for the Organisation for Economic Co-operation and Development
+  - **multinational top-up tax return** means a return required under section 78J
   - **natural person** —
     (a) does not include a natural person who is acting in the capacity of trustee:
     (b) for the purposes of sections 177 and 177A, includes a natural person who is acting in the capacity of trustee
@@ -4144,13 +4145,66 @@ A taxpayer who has not provided their investment income payer with their tax fil
 (1) A large multinational group with an ultimate owner that is a New Zealand resident must provide to the Commissioner a report, for each period set by the Commissioner, that includes—
   (a) the information described in the OECD transfer pricing guidelines, Chapter V, Annex III; and
   (b) other information that is required by the Commissioner.
-(2) The report for a period must be provided to the Commissioner by the date that is 12 months after the end of the period.
+(2) The report for a period must be provided to the Commissioner—
+  (a) in the prescribed electronic format; and
+  (b) by the date that is 12 months after the end of the period.
+
+### 78H Registration for purposes of applied global anti-base erosion rules
+(1) The Commissioner may register an MNE group if it includes an entity—
+  (a) to which the global anti-base erosion model rules apply; and
+  (b) located in New Zealand under the applied global anti-base erosion rules.
+(2) The Commissioner must deregister an MNE group that has been registered under subsection (1) if the Commissioner is satisfied that the group no longer includes an entity that meets the requirements set out in paragraphs (a) and (b) of that subsection.
+(3) A constituent entity of an MNE group that is not registered under this section must apply to the Commissioner for registration of the MNE group by the date that is 6 months after the end of any fiscal year ending on or after 1 January 2025 in which the constituent entity meets the requirements set out in subsection (1)﻿(a) and (b).
+(4) An application for registration of an MNE group under this section must be in the form prescribed by the Commissioner and contain—
+  (a) the name of the ultimate parent entity of the MNE group; and
+  (b) the ultimate parent entity’s tax file number, if any; and
+  (c) any taxpayer identification numbers of the ultimate parent entity; and
+  (d) any other information required by the Commissioner.
+(5) If an MNE group ceases to include an entity that meets the requirements set out in subsection (1)﻿(a) and (b), a constituent entity of the group must notify the Commissioner of that fact by the date that is 6 months after the end of the fiscal year in which the group ceased to include an entity that meets those requirements.
+(6) An obligation of a constituent entity of an MNE group under this section may be met by another constituent entity of the MNE group that meets the requirements set out in subsection (1)﻿(a) and (b).
+
+### 78I Pre-assessment annual information reporting requirements for purposes of applied global anti-base erosion rules
+(1) A constituent entity of an MNE group must provide to the Commissioner, in the prescribed electronic format, the information set out in Article 8.1.4(a) to (e) of the global anti-base erosion model rules for the MNE group for each fiscal year in which the constituent entity is—
+  (a) an entity to which the global anti-base erosion model rules apply; and
+  (b) located in New Zealand under the applied global anti-base erosion rules.
+(2) The information required to be provided under subsection (1) for a fiscal year must be provided to the Commissioner by,—
+  (a) for the first fiscal year for which a member of the MNE group is required to provide a multinational top-up tax return, the date that is 18 months after the end of the fiscal year:
+  (b) otherwise, the date that is 15 months after the end of the fiscal year.
+(3) Subsection (1) does not apply to a constituent entity of an MNE group for a fiscal year for which the information set out in Article 8.1.4(a) to (e) of the global anti-base erosion model rules for the MNE group has been provided by the relevant date set out in subsection (4)—
+  (a) to a foreign competent authority that is obliged to exchange that information with the Commissioner; and
+  (b) by—
+    (i) the ultimate parent entity of the MNE group; or
+    (ii) another constituent entity of the MNE group that has been appointed by the MNE group to provide that information on behalf of the MNE group.
+(4) The relevant date referred to in subsection (3) is,—
+  (a) for the first fiscal year for which a member of the MNE group is required to provide a multinational top-up tax return, the date that is 18 months after the end of the fiscal year:
+  (b) otherwise, the date that is 15 months after the end of the fiscal year.
+(5) The exclusion in subsection (3) does not apply to a constituent entity of an MNE group for a fiscal year in which the ultimate parent entity of the MNE group is located in New Zealand under the applied global anti-base erosion rules.
+(6) A constituent entity to which the exclusion in subsection (3) applies must notify the Commissioner of—
+  (a) the identity of the entity that is providing the relevant information for the fiscal year; and
+  (b) the jurisdiction in which that entity is located under the global anti-base erosion model rules.
+(7) A notification under subsection (6) for a fiscal year must be given by,—
+  (a) for the first fiscal year for which a member of the MNE group is required to provide a multinational top-up tax return, the date that is 18 months after the end of the fiscal year:
+  (b) otherwise, the date that is 15 months after the end of the fiscal year.
+(8) An obligation of a constituent entity of an MNE group under this section may be met by another constituent entity of the MNE group that—
+  (a) is located in New Zealand under the applied global anti-base erosion rules; and
+  (b) has been appointed for that purpose by the members of the MNE group located in New Zealand under the applied global anti-base erosion rules.
+
+### 78J Annual multinational top-up tax return
+(1) This section applies to a constituent entity located in New Zealand under the applied global anti-base erosion rules for a fiscal year in which the constituent entity is an entity to which the global anti-base erosion model rules apply.
+(2) The constituent entity must provide to the Commissioner a return for the fiscal year, in the form prescribed by the Commissioner, that shows—
+  (a) whether or not the constituent entity has a multinational top-up tax liability for the fiscal year; and
+  (b) the amount of multinational top-up tax payable by the constituent entity for the fiscal year, if any; and
+  (c) any other information required by the Commissioner.
+(3) The return for a fiscal year must be provided to the Commissioner by,—
+  (a) for the first fiscal year for which the constituent entity is required to provide a return under this section, the date that is 20 months after the end of the fiscal year:
+  (b) otherwise, the date that is 16 months after the end of the fiscal year.
+(4) A return must contain a notice of the assessment required to be made under section 92BA.
 
 ### 79 Other annual returns
-In addition to the returns required by sections 33, 41 to 44, and 59BA, every person, whether a taxpayer or not, shall make to the Commissioner such annual returns as may be prescribed for the purposes of this Act or the Income Tax Act 2007.
+In addition to the returns required by sections 33, 41 to 44, 59BA, and 78J, every person, whether a taxpayer or not, shall make to the Commissioner such annual returns as may be prescribed for the purposes of this Act or the Income Tax Act 2007.
 
 ### 80 Commissioner may require other returns to be made
-In addition to the returns mentioned in sections 33, 41 to 44, 59BA, 63, and 79, every person, whether a taxpayer or not, shall, as and when required by the Commissioner, make such further or other returns as the Commissioner requires for the purposes of this Act or the Income Tax Act 2007.
+In addition to the returns mentioned in sections 33, 41 to 44, 59BA, 63, 78J, and 79, every person, whether a taxpayer or not, shall, as and when required by the Commissioner, make such further or other returns as the Commissioner requires for the purposes of this Act or the Income Tax Act 2007.
 
 ## Part 3A — Income statements
 
@@ -4584,7 +4638,7 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
   (ka) the assessment corrects a tax position taken by the taxpayer in relation to a tax position taken by a look-through company in a return of income under section 42B, and the Commissioner and the company have completed the disputes process for that return of income and that tax position; or
   (l) the assessment results from an amendment made under section 22G(6); or
   (lbaa) the Commissioner is making an amendment before finalising the account of a qualifying individual under section 22H; or
-  (lba) the assessment is of a penalty under section 139AAB, 139AB, 139AC, 142H, 142I, 142J, or 142K; or
+  (lba) the assessment is of a penalty under section 139AAB, 139AB, 139ABB, 139AC, 142H, 142I, 142J, or 142K; or
   (lbab)
   (lb) the assessment extinguishes all or part of a taxpayer's tax loss in accordance with section 177C(5); or
   (lbb) the assessment extinguishes all or part of a taxpayer’s excess amount under section EL 4 of the Income Tax Act 2007 in accordance with section 177C(5BA); or
@@ -5389,6 +5443,7 @@ In this Part—
     (iv) section 91AAD or 91AAE in relation to livestock; or
     (v) any of sections 91AAF to 91AAM in relation to depreciation; or
     (vi) section EA 3(8) of the Income Tax Act 2007 in relation to accrual expenditure; or
+  (ed) the applied global anti-base erosion rules, including commentary and guidance described in section HP 3(3)﻿(b) of the Income Tax Act 2007; or
   (f) any Order in Council or regulation made under section 225 of this Act or under any of the Acts listed in paragraphs (a) to (ec) of this subsection, except—
     (i) any provision to the extent that it is or could be the subject of a determination referred to in paragraph (e), (eb), or (ec); or
     (ii) section RD 24 of the Income Tax Act 2007.
@@ -5942,6 +5997,11 @@ The fact that there has been an application for a private ruling or a product ru
 (1) The Commissioner may for a tax year (whether before or after the passing of the annual taxing Act for that year) assess the income tax of any taxpayer at the basic rates. No such assessment shall be deemed to be invalid on the ground that it is made before the passing of the annual taxing Act.
 (2) If the annual rates for any tax year are higher or lower than the basic rates, the amount of every assessment of income tax made under this section in respect of that year shall be deemed to be increased or reduced accordingly, and every such assessment shall have the same effect as if the amount as so increased or reduced had been specified in the assessment.
 
+### 92BA Taxpayer assessment of multinational top-up tax
+(1) A taxpayer who is required to provide a multinational top-up tax return for a fiscal year must make an assessment of the amount of multinational top-up tax payable by the taxpayer for the fiscal year.
+(2) An assessment under this section is made on the date on which the taxpayer’s multinational top-up tax return is received at an office of the department.
+(3) This section does not apply to a taxpayer for a fiscal year if the Commissioner has made an assessment of the multinational top-up tax payable by the taxpayer for the fiscal year.
+
 ### 92B Taxpayer assessment of GST
 (1) A taxpayer who is required under the Goods and Services Tax Act 1985 to provide a GST tax return for a GST return period must make an assessment of the amount of GST payable by the taxpayer for the return period.
 (2) An assessment under this section is made on the date on which the taxpayer's GST tax return is received at an office of the department.
@@ -5976,7 +6036,7 @@ The fact that there has been an application for a private ruling or a product ru
 (3) An assessment made under subsection (1) is subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act applies accordingly.
 
 ### 94A Assessment of shortfall penalties
-(1) The Commissioner may make or amend an assessment of a civil penalty other than under section 139AAB, 139AB, 139AC, 142H, 142I, 142J, or 142K in the same way as the Commissioner may make or amend an assessment of the tax in respect of which the penalty is imposed.
+(1) The Commissioner may make or amend an assessment of a civil penalty other than under section 139AAB, 139AB, 139ABB, 139AC, 142H, 142I, 142J, or 142K in the same way as the Commissioner may make or amend an assessment of the tax in respect of which the penalty is imposed.
 (2) The Commissioner must assess a shortfall penalty in the same way as the tax to which it relates, but separately from the tax. However, this subsection does not apply to a penalty under section 141ED.
 (3) The Commissioner may assess a shortfall penalty before or after unpaid tax has been assessed, or has become assessable or payable, or has been paid.
 (4) If the Commissioner assesses a shortfall penalty in respect of unpaid income tax before the passing of the annual taxing Act, the unpaid income tax shall be calculated by reference to the rates determined by the last preceding annual taxing Act.
@@ -6000,6 +6060,10 @@ The fact that there has been an application for a private ruling or a product ru
 ### 94BC Assessment of penalty for member of large multinational group failing to provide information
 (1) The Commissioner may make an assessment for a member of a large multinational group of the amount of a penalty under section 139AB that, in the Commissioner’s opinion, ought to be imposed, and the member is liable to pay the penalty assessed.
 (2) Despite subsection (1), this section does not apply in so far as the member establishes in proceedings challenging the assessment that the assessment is excessive or that the member is not chargeable with the penalty.
+
+### 94BCB Assessment of penalty for failing to register or provide information for purposes of applied global anti-base erosion rules
+(1) The Commissioner may make an assessment for a taxpayer of the amount of a penalty under section 139ABB that, in the Commissioner’s opinion, ought to be imposed, and the taxpayer is liable to pay the penalty assessed.
+(2) Despite subsection (1), this section does not apply in so far as the taxpayer establishes in proceedings challenging the assessment that the assessment is excessive or that the taxpayer is not chargeable with the penalty.
 
 ### 94BD Assessment of penalty for trustee failing to register, or provide information for, foreign exemption trust
 (1) The Commissioner may make an assessment for a trustee of a foreign exemption trust of the amount of a penalty payable under section 139AC that, in the Commissioner’s opinion, ought to be imposed, and the trustee is liable to pay the penalty assessed.
@@ -7440,10 +7504,11 @@ The purposes of this Part are—
 **Civil penalties**
 
 ### 139A Late filing penalty for certain returns
-(1) This section applies to tax returns required to be furnished under sections 33, 41 to 44, and 79 (in this Part, annual tax returns), the annual ICA return required to be furnished under section 69(1) and (2)﻿(a) by an Australian ICA company that is not required to furnish a return of income for a tax year, the statement required to be provided under section 54B of this Act, and the employment income information required to be provided under sections 23E to 23J.
+(1) This section applies to tax returns required to be furnished under sections 33, 41 to 44, and 79 (in this Part, annual tax returns), the return required to be provided under section 78J, the annual ICA return required to be furnished under section 69(1) and (2)﻿(a) by an Australian ICA company that is not required to furnish a return of income for a tax year, the statement required to be provided under section 54B, and the employment income information required to be provided under sections 23E to 23J.
 (2) A taxpayer is liable to pay a late filing penalty if—
   (a) the taxpayer does not complete and provide on time—
     (i) an annual tax return:
+    (ib) a multinational top-up tax return:
     (ii) an annual ICA return required to be furnished under section 69(1) and (2)﻿(a):
     (iii)
     (iiib) a return required to be furnished under section 57B:
@@ -7454,8 +7519,9 @@ The purposes of this Part are—
   (a) below $100,000, is $50;
   (b) between $100,000 and $1,000,000 (both figures inclusive), is $250;
   (c) above $1,000,000, is $500.
+(3B) The late filing penalty for a multinational top-up tax return is $500.
 (4) The late filing penalty for an annual ICA return or reconciliation statement or employment income information or statement for RLWT is $250.
-(5) Except in the case of a late filing penalty resulting from employment income information or from a tax return required under sections 16 to 18 of the Goods and Services Tax Act 1985, the Commissioner must, not less than 30 days before imposing a late filing penalty,—
+(5) Except in the case of a late filing penalty resulting from employment income information, or from a multinational top-up tax return, or from a tax return required under sections 16 to 18 of the Goods and Services Tax Act 1985, the Commissioner must, not less than 30 days before imposing a late filing penalty,—
   (a) send notice to a taxpayer that a late filing penalty may be imposed if a return specified in the notice is not filed; or
   (b) publicly notify that a late filing penalty may be imposed on taxpayers who omit to file the required return.
 (6) Subsections (7) and (8) apply in relation to a late filing penalty when a taxpayer fails to provide employment income information to the Commissioner by a due date when, for the 12-month period before the due date, the taxpayer has delivered on time all the required income information.
@@ -7511,6 +7577,15 @@ The purposes of this Part are—
   (a) the Commissioner requires the member under section 17 to provide information or a document that is treated under section 17E(2) as being in the knowledge, possession, or control of the company; and
   (b) the member fails to provide the information or document within the time allowed by the Commissioner.
 (2) The penalty under this section is the amount specified by the Commissioner, which must not exceed $100,000.
+
+### 139ABB Penalty for failing to register or provide information for purposes of applied global anti-base erosion rules
+(1) A taxpayer is liable to pay a penalty under this section if—
+  (a) the taxpayer does not apply for registration as required under section 78H; or
+  (b) the taxpayer does not comply with the requirements of section 78I.
+(2) The penalty under this section is the amount specified by the Commissioner, which must not exceed $100,000.
+(3) The due date for payment of a penalty imposed under this section is the later of—
+  (a) 30 days after the date on which the Commissioner issues the notice of assessment for the penalty:
+  (b) the date specified by the Commissioner in the notice of assessment as being the due date for payment of the penalty.
 
 ### 139AC Penalty for trustee’s failure to register, provide information for, foreign exemption trust
 (1) A trustee of a foreign exemption trust is liable to pay a penalty under this section if the trustee fails to comply with the requirements of section 22, 59B, 59C, or 59D.
@@ -8048,13 +8123,14 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
 (2) The Minister shall, as soon as practicable, lay a copy of that report before the House of Representatives.
 
 ### 142 Due date for payment of late filing penalty
-(1) Except in the case of employment income information or a return required by sections 16 to 18 of the Goods and Services Tax Act 1985, the due date for payment of a late filing penalty is the later of a date specified by the Commissioner (being a date not less than 30 days after the day on which the Commissioner notifies the taxpayer that the penalty is payable), and—
+(1) Except in the case of employment income information, or a multinational top-up tax return, or a return required by sections 16 to 18 of the Goods and Services Tax Act 1985, the due date for payment of a late filing penalty is the later of a date specified by the Commissioner (being a date not less than 30 days after the day on which the Commissioner notifies the taxpayer that the penalty is payable), and—
   (a) the terminal tax date for the tax year to which the annual tax return relates; or
   (b)
   (c) for the reconciliation statement that is required by regulation 3 of the Accident Rehabilitation and Compensation Corporation Insurance (Earnings Definitions) Regulations 1992 or regulation 15 of the Accident Insurance (Premium Payment Procedures) Regulations 1999 or any successor to that regulation made under the Accident Compensation Act 2001, the date by which the employer is required to furnish the reconciliation statement; or
   (d) for an annual ICA return required to be furnished under section 69(1) and (2)﻿(a) by an Australian ICA company that is not required to furnish a return of income for a tax year, the date by which the company is required to furnish the annual ICA return.
   (e)
 (1A) The due date for the payment of a late filing penalty for failing to provide employment income information is 30 days after the end of the month in which the employer is required to deliver their employment income information to the Commissioner.
+(1AB) The due date for the payment of a late filing penalty for a multinational top-up tax return is the date specified by the Commissioner, which must not be less than 30 days after the day on which the Commissioner notifies the taxpayer that the penalty is payable.
 (1B) The due date for the payment of a late filing penalty for a return required by sections 16 to 18 of the Goods and Services Tax Act 1985 for a taxable period is—
   (a) the 28th day of the second month following the end of the taxable period, if paragraphs (b) and (c) do not apply; or
   (b) the 15th day of February, if the month following the end of the taxable period is December; or
@@ -9914,6 +9990,15 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
 (3) When a change is made by regulations under this section and is expressed to apply for a reportable period in which the regulation is made as set out in subsection (2), the change applies from the date on which the regulation comes into force. Nothing in this section or in the regulation requires a reporting platform operator to give effect to the change from an earlier date.
 (4) A regulation may provide for the change, extension, limitation, suspension, or cancellation of an earlier regulation.
 (5) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 226G Application of changes to commentary or guidance relating to global anti-base erosion model rules
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue, make regulations providing for—
+  (a) the non-application of a change to—
+    (i) the commentary to the global anti-base erosion model rules developed by the OECD/G20 Inclusive Framework on Base Erosion and Profit Shifting (the Inclusive Framework) and published by the OECD; or
+    (ii) guidance on the interpretation or administration of the global anti-base erosion model rules issued by the Inclusive Framework and published by the OECD:
+  (b) a period for which a change referred to in paragraph (a) does not apply.
+(2) A regulation may provide for the change, extension, limitation, suspension, or cancellation of an earlier regulation.
+(3) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 14 — Transitional provisions and savings
 
