@@ -1,5 +1,5 @@
 # Therapeutic Products Act Repeal Act 2024
-_Consolidation as at 2024-12-17_
+_Consolidation as at 2025-01-15_
 
 ### 1 Title
 This Act is the Therapeutic Products Act Repeal Act 2024.
