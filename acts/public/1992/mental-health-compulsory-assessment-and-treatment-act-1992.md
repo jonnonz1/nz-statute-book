@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2023-10-29_
+_Consolidation as at 2025-01-26_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -1770,7 +1770,8 @@ Sections 32(1), 38(4)﻿(d), 40(2), 41(4), 41(5), 41(6), 50(4), 51(3), 53, 109(1
   (e) a district inspector or an official visitor:
   (f) the person in charge of the hospital:
   (g) a barrister or solicitor:
-  (h) any psychiatrist from whom the patient has sought a second opinion about the patient's condition.
+  (h) any psychiatrist from whom the patient has sought a second opinion about the patient's condition:
+  (i) the Inspector-General of Defence.
 
 ### 124 Vetting of outgoing mail
 (1) The responsible clinician may direct that any letter or other postal article put out by a patient for posting be opened and checked if there are reasonable grounds for believing that the dispatch of the letter or other postal article could be detrimental to the interests of the patient and to his or her treatment.
