@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2024-12-24_
+_Consolidation as at 2025-01-26_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -65,7 +65,8 @@ _Consolidation as at 2024-12-24_
     (l) does not include any evidence, submissions, or other information given or made to—
       (i) the Judicial Conduct Commissioner, the Deputy Judicial Conduct Commissioner, or a Judicial Conduct Panel, in relation to any matter under the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004; or
       (ii) the Judicial Complaints Lay Observer; and
-    (m) does not include information provided to the Government Statistician solely for research by or on behalf of an individual or an organisation (as defined in section 6 of the Data and Statistics Act 2022).
+    (m) does not include information provided to the Government Statistician solely for research by or on behalf of an individual or an organisation (as defined in section 6 of the Data and Statistics Act 2022); and
+    (n) does not include any working document or internal record, or any other information, document, or other thing, that is created by a person specified in section 37(1)﻿(a) to (f) of the Inspector-General of Defence Act 2023 in the course of an investigation or assessment under that Act.
   - **Ombudsmen** means the Ombudsmen holding office under the Ombudsmen Act 1975
   - **Oranga Tamariki system** has the meaning given in section 9 of the Oversight of Oranga Tamariki System Act 2022
   - **organisation** means—
