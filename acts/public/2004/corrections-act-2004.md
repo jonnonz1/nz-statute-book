@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2024-10-01_
+_Consolidation as at 2025-01-26_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -149,7 +149,8 @@ This Act is the Corrections Act 2004.
     (h) the Human Rights Commission; or
     (i) the Independent Police Conduct Authority; or
     (j) the Privacy Commissioner; or
-    (k) a national preventive mechanism (as defined in section 16 of the Crimes of Torture Act 1989)
+    (k) a national preventive mechanism (as defined in section 16 of the Crimes of Torture Act 1989); or
+    (l) the Inspector-General of Defence
   - **Ombudsman** includes any employee of the Office of the Ombudsmen
   - **person under control or supervision** means—
     (a) a prisoner:
