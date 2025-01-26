@@ -1,5 +1,5 @@
 # Protected Disclosures (Protection of Whistleblowers) Act 2022
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2025-01-26_
 
 ### 1 Title
 This Act is the Protected Disclosures (Protection of Whistleblowers) Act 2022.
@@ -18,6 +18,7 @@ The purpose of this Act is to promote the public interest—
 In this Act, unless the context otherwise requires,—
   - **appropriate authority** has the meaning given in section 25
   - **classified information** has the meaning given in section 78AA of the Crimes Act 1961
+  - **defence information** means information that relates to the activities of the New Zealand Defence Force other than activities of Veterans’ Affairs New Zealand
   - **discloser** has the meaning given in section 8
   - **environment** has the meaning given in section 2 of the Environment Act 1986
   - **intelligence and security agency** has the meaning given in section 4 of the Intelligence and Security Act 2017
@@ -28,8 +29,8 @@ In this Act, unless the context otherwise requires,—
   - **international relations agency** means—
     (a) the Department of the Prime Minister and Cabinet:
     (b) the Ministry of Foreign Affairs and Trade:
-    (c) the Ministry of Defence:
-    (d) the New Zealand Defence Force
+    (c) the Ministry of Defence
+    (d)
   - **international relations information** means information that—
     (a) is about the international relations of the Government of New Zealand; and
     (b) is held by an international relations agency; and
@@ -128,7 +129,7 @@ In this Act, serious wrongdoing includes any act, omission, or course of conduct
   (d) they also make the disclosure to another person, as long as they do so—
     (i) on a confidential basis; and
     (ii) for the purposes of seeking advice about whether or how to make a protected disclosure in accordance with this Act.
-(5) If the disclosure is or includes intelligence and security information or international relations information, this section is subject to sections 25(2), 27, and 28.
+(5) If the disclosure is or includes intelligence and security information, defence information, or international relations information, this section is subject to sections 25(2), 27, 27A, and 28.
 
 ### 12 Supporting information
 (1) Another discloser who discloses information in support of, or relating to, a protected disclosure is also entitled to protection under this Act if the discloser—
@@ -166,7 +167,7 @@ In this Act, serious wrongdoing includes any act, omission, or course of conduct
 (4) This section does not limit—
   (a) section 11(3), which provides a discloser may disclose to an appropriate authority (including an Ombudsman) at any time; and
   (b) section 32, which enables an Ombudsman to refer or investigate certain protected disclosures.
-(5) However, if the disclosure is or includes intelligence and security information or international relations information, this section is subject to sections 27 and 28.
+(5) However, if the disclosure is or includes intelligence and security information, defence information, or international relations information, this section is subject to sections 27, 27A, and 28.
 
 ### 15 Receiver may decide no action is required
 (1) A receiver of a protected disclosure may decide that no action is required and, if so, must inform the discloser (with reasons).
@@ -185,6 +186,7 @@ In this Act, serious wrongdoing includes any act, omission, or course of conduct
 (5) If an appropriate authority refers a disclosure to the organisation concerned, the organisation must inform the authority about what the organisation has done or is doing to deal with the matter (at the same time as the organisation informs the discloser of that (see section 13(1)﻿(e) or (2)﻿(d))).
 (6) A disclosure may be referred on more than 1 occasion.
 (7) The Inspector-General of Intelligence and Security may refer a disclosure under this section in a way that is consistent with section 27(1).
+(8) The Inspector-General of Defence may refer a disclosure under this section in a way that is consistent with section 27A(1).
 
 ## Part 3 — Protections
 
@@ -205,14 +207,14 @@ In this Act, serious wrongdoing includes any act, omission, or course of conduct
 (4) After releasing identifying information for a reason described in subsection (2)﻿(b), the receiver must inform the discloser.
 (5) Anyone may seek information and guidance from an Ombudsman about the duty of confidentiality in this section.
 (6) In this section, law enforcement or regulatory agency includes bodies within the meaning of law enforcement agency given in section 3(1) of the Search and Surveillance Act 2012.
-(7) See section 27 for special rules relating to intelligence and security information.
+(7) See section 27 for special rules relating to intelligence and security information and section 27A for special rules relating to defence information.
 
 ### 18 Protecting confidentiality under Privacy Act 2020
 (1) The release of information that might identify the discloser is an interference with the privacy of an individual for the purposes of Part 5 of the Privacy Act 2020 if the release breaches section 17 of this Act.
 (2) Part 5 of the Privacy Act 2020 applies (with all necessary modifications) to a release described in subsection (1) as follows:
   (a) a discloser may complain under section 70 of that Act, and Part 5 of that Act applies to their complaint (and the duties and powers of the Commissioner, Director, and Tribunal under that Act apply accordingly):
   (b) the receiver has the onus of proving that section 17(2) of this Act authorises the release (and section 101 of that Act does not apply):
-  (c) Part 5 of that Act applies subject to section 27 of this Act.
+  (c) Part 5 of that Act applies subject to sections 27 and 27A of this Act.
 
 ### 19 Protecting confidentiality by withholding official information
 A receiver must refuse a request for information under the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987 as contrary to this Act if the information might identify the discloser of a protected disclosure.
@@ -281,9 +283,13 @@ A receiver must refuse a request for information under the Official Information 
 (2) However,—
   (a) the appropriate authority for a protected disclosure that is or includes international relations information is an Ombudsman only:
   (b) the appropriate authority for a protected disclosure that is or includes intelligence and security information is the Inspector-General of Intelligence and Security only. See—
-    (i) section 27(3) for a disclosure relating to serious wrongdoing in or by the office of the Inspector-General:
-    (ii) section 16(7) for the Inspector-General’s ability to refer:
+    (i) section 27(3) for a disclosure relating to serious wrongdoing in or by the office of the Inspector-General of Intelligence and Security:
+    (ii) section 16(7) for the ability of the Inspector-General of Intelligence and Security to refer:
     (iii) sections 14 and 27 for the discloser’s entitlement to disclose further.
+  (c) the appropriate authority for a protected disclosure that is or includes defence information is the Inspector-General of Defence only. See—
+    (i) section 27A(3) for a disclosure relating to serious wrongdoing in or by the office of the Inspector-General of Defence:
+    (ii) section 16(8) for the ability of the Inspector-General of Defence to refer:
+    (iii) sections 14 and 27A for the discloser’s entitlement to disclose further.
 
 ### 26 Schedule 2 may be amended by Order in Council
 (1) The Governor-General, by Order in Council made on the recommendation of the Minister responsible for the administration of this Act, may amend Schedule 2 by doing either or both of the following:
@@ -306,6 +312,19 @@ A receiver must refuse a request for information under the Official Information 
 (5) The Inspector-General of Intelligence and Security may disclose intelligence and security information disclosed or referred under this Act only in accordance with subpart 1 of Part 6 of the Intelligence and Security Act 2017.
 (6) This section overrides section 17(5).
 (7) For the purposes of section 14(2), the only Minister a discloser may disclose intelligence and security information to is the Prime Minister or the Minister responsible for an intelligence and security agency.
+
+### 27A Special rules for defence information
+(1) A person may only disclose defence information to someone who holds an appropriate security clearance and is authorised to have access to the information.
+(2) A discloser who has made, or is considering making, a protected disclosure that is or includes defence information may seek information and guidance from the Inspector-General of Defence only (and not from an Ombudsman).
+(3) A discloser is entitled to protection under this Act for a protected disclosure made to the Minister responsible for defence if the disclosure—and sections 11(4) and 12 apply accordingly.
+  (a) is or includes defence information; and
+  (b) relates to serious wrongdoing in or by the office of the Inspector-General of Defence—
+(4) The New Zealand Defence Force, and any other public sector organisation that holds or has access to defence information, must—
+  (a) have internal procedures that reflect subsections (1) to (3); and
+  (b) apply sections 13, 17, and 29 in a way that is consistent with this section (in relation to defence information).
+(5) The Inspector-General of Defence may disclose defence information disclosed or referred under this Act only in accordance with the Inspector-General of Defence Act 2023.
+(6) This section overrides section 17(5).
+(7) For the purposes of section 14(2), the only Minister a discloser may disclose defence information to is the Prime Minister or the Minister responsible for defence.
 
 ### 28 Special rules for international relations information
 (1) An international relations agency must—
@@ -347,13 +366,16 @@ A receiver must refuse a request for information under the Official Information 
   (a) provide information and guidance to organisations and disclosers about the circumstances in which anonymous protected disclosures may be made; and
   (b) otherwise provide advice and assistance to organisations and other persons about the duty of confidentiality in section 17.
 (4) This section does not apply to a disclosure that is or includes intelligence and security information (and section 27 applies instead).
+(5) This section does not apply to a disclosure that is or includes defence information (and section 27A applies instead).
 
 ### 31 Information about internal procedures
 (1) For the purpose of this Act, an Ombudsman may request 1 or more of the following from an organisation:
   (a) information about whether the organisation has established and published internal procedures; and
   (b) a copy of those procedures; and
   (c) information about how those procedures operate.
-(2) However, the Inspector-General of Intelligence and Security, and not an Ombudsman, has the power described in subsection (1) in relation to an intelligence and security agency.
+(2) However,—
+  (a) the Inspector-General of Intelligence and Security, and not an Ombudsman, has the power described in subsection (1) in relation to an intelligence and security agency; and
+  (b) the Inspector-General of Defence, and not an Ombudsman, has the power described in subsection (1) in relation to the New Zealand Defence Force.
 (3) An organisation is not required to comply with a request made under subsection (1) if it is not a public sector organisation.
 
 ### 32 Ombudsmen may escalate protected disclosure to Minister or investigate disclosure
@@ -370,6 +392,7 @@ A receiver must refuse a request for information under the Official Information 
 (3) The Ombudsman must promptly notify a referral or an investigation under subsection (1) to any person that the Ombudsman understands may be investigating the disclosure.
 (4) A disclosure may be referred on more than 1 occasion.
 (5) This section does not apply if a disclosure is or includes intelligence and security information (and section 27 applies instead).
+(5A) This section does not apply if a disclosure is or includes defence information (and section 27A applies instead).
 (6) In relation to a disclosure that is or includes international relations information, an Ombudsman must comply with this section in a way that is consistent with section 28.
 
 ### 33 Ombudsmen may take over some investigations or investigate together with public sector organisation
@@ -380,11 +403,15 @@ A receiver must refuse a request for information under the Official Information 
     (ii) has not dealt with the matter so as to address the serious wrongdoing; and
   (b) the discloser who made the disclosure consents; and
   (c) in the case of an investigation together with a public sector organisation, the public sector organisation consents to the Ombudsman acting under this section.
-(3) However, this section does not apply to a disclosure that is or includes intelligence and security information (and section 27 applies instead).
+(3) However,—
+  (a) this section does not apply to a disclosure that is or includes intelligence and security information (and section 27 applies instead); and
+  (b) this section does not apply to a disclosure that is or includes defence information (and section 27A applies instead).
 
 ### 34 Ombudsmen may review and guide investigations by public sector organisations
 (1) An Ombudsman may review and guide an investigation of a protected disclosure by a public sector organisation (either at the organisation’s request or at the Ombudsman’s discretion).
-(2) However, subsection (1) does not apply to a disclosure that is or includes intelligence and security information (and section 27 applies instead).
+(2) However,—
+  (a) subsection (1) does not apply to a disclosure that is or includes intelligence and security information (and section 27 applies instead); and
+  (b) subsection (1) does not apply to a disclosure that is or includes defence information (and section 27A applies instead).
 (3) Subsection (1) does not authorise an Ombudsman to issue a direction to a public sector organisation requiring it to act in a particular manner in relation to an investigation.
 
 ### 35 Ombudsmen may receive reports on investigations and include information in annual report
@@ -436,6 +463,14 @@ The Protected Disclosures Act 2000 (2000 No 7) is repealed.
 ### 2 Disclosure made before commencement of this Act
 The Protected Disclosures Act 2000 continues to apply to a protected disclosure made under that Act before the commencement of this Act.
 
+### Part 2 — Provision relating to Inspector-General of Defence Act 2023
+
+### 3 Disclosures made before appointment of Inspector-General of Defence
+(1) This clause applies to any protected disclosure made to the Inspector-General of Intelligence and Security before the amendments made to this Act by the Inspector-General of Defence Act 2023 (the relevant amendments) come into force.
+(2) The Inspector-General of Intelligence and Security may refer the disclosure to the Inspector-General of Defence in accordance with section 16, in which case this Act as amended by the relevant amendments applies to the disclosure from the time of the referral.
+(3) If no referral is made as described in subclause (2), this Act continues to apply to the disclosure as if the relevant amendments had not been made.
+(4) The Inspector-General of Intelligence and Security may consult the Inspector-General of Defence before deciding whether or not to refer the disclosure to the Inspector-General of Defence.
+
 ## Schedule 2 — Examples of concerns and examples of appropriate authorities
 
 | Nature of concerns | Appropriate authority |
@@ -447,6 +482,7 @@ The Protected Disclosures Act 2000 continues to apply to a protected disclosure 
 | Child welfare and child protection | Oranga Tamariki—Ministry for ChildrenOmbudsman |
 | Consumer protection | Commerce Commission |
 | Crime | Commissioner of PoliceDirector of the Serious Fraud Office |
+| Defence information | Inspector-General of Defence only (see section 27A) |
 | Discrimination | Human Rights Commission |
 | Education service | Ministry of EducationEducation Review Office |
 | Energy safety | WorkSafe New Zealand (where work-related) |
