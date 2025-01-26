@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2023-06-24_
+_Consolidation as at 2025-01-26_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -1713,8 +1713,9 @@ This subpart does not prevent or limit the disclosure of business records to an 
   (c) the Privacy Commissioner:
   (d) a Human Rights Commissioner:
   (e) the Independent Police Conduct Authority:
-  (f) the Public Service Commissioner.
-(4) Nothing in this section limits the functions, duties, or powers of the Auditor-General, an Ombudsman, the Privacy Commissioner, a Human Rights Commissioner, the Independent Police Conduct Authority, or the Public Service Commissioner under any enactment.
+  (f) the Public Service Commissioner:
+  (g) the Inspector-General of Defence.
+(4) Nothing in this section limits the functions, duties, or powers of the Auditor-General, an Ombudsman, the Privacy Commissioner, a Human Rights Commissioner, the Independent Police Conduct Authority, the Public Service Commissioner, or the Inspector-General of Defence under any enactment.
 
 ### 162 Jurisdiction of courts and other agencies not affected
 (1) To avoid doubt, the carrying out of the Inspector-General’s functions does not limit the jurisdiction of any court.
