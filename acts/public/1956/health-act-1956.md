@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2024-10-01_
+_Consolidation as at 2025-01-26_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -270,7 +270,8 @@ In this section and sections 22C to 22H, unless the context otherwise requires,�
   (i) any employee of the New Zealand Transport Agency, for statistical or research purposes in relation to road safety or the environment:
   (j) an employee of Health New Zealand, for the purposes of exercising or performing any of that entity’s powers, duties, or functions under the Pae Ora (Healthy Futures) Act 2022:
   (k)
-  (l) an employee of the New Zealand Blood and Organ Service, for the purposes of exercising or performing any of that entity’s powers, duties, or functions under the Pae Ora (Healthy Futures) Act 2022.
+  (l) an employee of the New Zealand Blood and Organ Service, for the purposes of exercising or performing any of that entity’s powers, duties, or functions under the Pae Ora (Healthy Futures) Act 2022:
+  (m) the Inspector-General of Defence, for the purposes of exercising or performing any of that person’s powers, duties, or functions under the Inspector-General of Defence Act 2023.
 (3) For the purposes of information privacy principle 11(1)﻿(c) set out in section 22 of the Privacy Act 2020, the disclosure of health information about an individual may be authorised—
   (a) by that individual personally, if he or she has attained the age of 16 years; or
   (b) by a representative of that individual.
