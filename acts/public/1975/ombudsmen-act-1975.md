@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2024-12-01_
+_Consolidation as at 2025-01-26_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -220,6 +220,11 @@ Notwithstanding anything in section 21, an Ombudsman may from time to time under
   (a) for the purposes of making a determination under section 17C:
   (b) in relation to any matter arising out of or in the course of an investigation under this Act or any other enactment:
   (c) in relation to any matter that is within the jurisdiction of the Inspector-General of Intelligence and Security, whether or not the matter arises out of a particular complaint made under this Act,—
+
+### 21D Consultation with Inspector-General of Defence
+Notwithstanding anything in section 21, an Ombudsman may from time to time undertake consultation with the Inspector-General of Defence holding office under section 7 of the Inspector-General of Defence Act 2023 in relation to any matter, including (without limitation) consultation—and for the purposes of any such consultation, an Ombudsman may disclose to the Inspector-General of Defence such information as the Ombudsman considers necessary for that purpose.
+  (a) in relation to any matter arising out of or in the course of an investigation under this Act or any other enactment:
+  (b) in relation to any matter that is within the jurisdiction of the Inspector-General of Defence, whether or not the matter arises out of a particular complaint made under this Act,—
 
 ### 22 Procedure after investigation
 (1) The provisions of this section shall apply in every case where, after making any investigation under this Act, an Ombudsman is of opinion that the decision, recommendation, act, or omission which was the subject matter of the investigation—
