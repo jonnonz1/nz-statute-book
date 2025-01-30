@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2024-12-18_
+_Consolidation as at 2025-01-30_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -54,7 +54,7 @@ _Consolidation as at 2024-12-18_
     (h) communication facilities:
     (i) recreational areas:
     (j) lawns, gardens, and outhouses
-  - **fixed-term tenancy** means a tenancy for a fixed term; but, except as provided in section 58(1) or 58A, does not include such a tenancy that is terminable by notice
+  - **fixed-term tenancy** means a tenancy for a fixed term; but, except as provided in section 50(1)﻿(a) to (ac), does not include such a tenancy that is terminable by notice
   - **the Fund** means the Residential Tenancies Fund established by section 127
   - **goods** means goods, baggage, and chattels of any description; and includes animals and plants; and also includes money, documents, and all other things of value
   - **guarantor** , in relation to a tenancy, means a person who guarantees the performance of the tenant’s obligations, or who indemnifies the landlord against loss that he or she may incur in respect of the tenancy, or who assumes liability for the performance of the obligations of the tenant, and has a corresponding meaning
@@ -103,6 +103,7 @@ _Consolidation as at 2024-12-18_
   - **Registrar** , in relation to the Tribunal, means a person who holds that position under section 72(1) or who is designated under section 72(2)
   - **rent** means any money, goods, services, or other valuable consideration in the nature of rent to be paid or supplied under a tenancy agreement by the tenant; but does not include any sum of money payable or paid by way of bond
   - **residential premises** means any premises used or intended for occupation by any person as a place of residence, whether or not the occupation or intended occupation for residential purposes is or would be unlawful
+  - **school board** means a board of trustees (within the meaning of section 10(1) of the Education and Training Act 2020)
   - **section 78A work order** means a work order made against the landlord in relation to a matter in which section 78A applies
   - **service tenancy** means a tenancy granted under a term of, or otherwise as an incident of, a contract of service or a contract for services between the landlord as employer and the tenant as employee or contractor, whether or not a separate tenancy agreement is concluded in writing between the parties, and whether or not any rent is payable for the tenancy; and includes—
     (a) any tenancy of that kind granted under or in accordance with any enactment; and
@@ -573,10 +574,12 @@ The chief executive must make any payments of a bond under section 22, 22A, or 2
 (1) A landlord must not advertise or otherwise offer a tenancy of residential premises unless the amount of rent is stated in the advertisement or offer.
 (2) Subsection (1) does not apply in relation to—
   (a) a service tenancy; or
-  (b) a tenancy described in section 53B(1)﻿(a) (which relates to social housing tenancies).
+  (b) a tenancy that was granted before 14 April 2014 and is a tenancy of Kāinga Ora housing; or
+  (c) a tenancy that was granted as a tenancy of social housing to a tenant assessed under the Public and Community Housing Management Act 1992 as eligible to be allocated social housing.
 (3) A landlord who contravenes subsection (1)—
   (a) commits an unlawful act; and
   (b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
+(4) In this section, Kāinga Ora housing and social housing have the meanings given to them by section 2(1) of the Public and Community Housing Management Act 1992.
 
 ### 22G Landlord must not invite or encourage bids for rent
 (1) A landlord must not invite or encourage a prospective tenant or any other person to offer to pay an amount of rent for residential premises that exceeds the amount of rent stated as part of the advertisement or offer of the premises in accordance with section 22F(1).
@@ -843,7 +846,7 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
 
 ### 43A Effect of provision prohibiting assignment by tenant
 (1) A provision in a tenancy agreement that prohibits the tenant from assigning the tenancy is of no effect.
-(2) However, if the tenancy agreement relates to a tenancy described in section 53B(1)﻿(a) (which relates to social housing tenancies) and contains a provision that expressly and unconditionally prohibits the tenant from assigning the tenancy, the provision has effect.
+(2) However, if the tenancy agreement relates to a tenancy described in section 22F(2)﻿(b) or (c) (which relates to social housing tenancies) and contains a provision that expressly and unconditionally prohibits the tenant from assigning the tenancy, the provision has effect.
 
 ### 43B Assignment of tenancy by tenant
 (1) A tenant may, at any time during the tenancy, assign the tenancy—
@@ -852,7 +855,7 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
 (2) Subsection (1) does not apply in the circumstances described in section 43A(2).
 (3) A tenant commits an unlawful act if the tenant assigns the tenancy—
   (a) without the prior written consent of the landlord; or
-  (b) if the tenancy is a tenancy described in section 53B(1)﻿(a), in contravention of a provision described in section 43A(2).
+  (b) if the tenancy is a tenancy described in section 22F(2)﻿(b) or (c), in contravention of a provision described in section 43A(2).
 (4) If a tenant makes a written request for the landlord’s consent to an assignment and the request identifies, and includes contact details for, the proposed assignee, the landlord must respond in writing to the request within a reasonable period of time.
 (5) A landlord who, without reasonable excuse, fails to comply with subsection (4) commits an unlawful act.
 (6) The landlord must not—
@@ -1072,7 +1075,7 @@ In sections 49A to 49D, unless the context otherwise requires, premises includes
   (a) in the case of a fixed-term tenancy, on the expiry of the term of the tenancy or, if any of sections 55AA, 56A(1), 58(1)﻿(d), (da), 58A, 59, 59A, or 59B apply, by giving notice in accordance with the applicable section:
   (ab) on the death of a sole tenant under a tenancy agreement or a sole tenant under a boarding house tenancy agreement, in accordance with section 50A or 66W, as the case requires:
   (ac) by the sole tenant under a fixed-term tenancy or periodic tenancy giving notice of withdrawal under section 56B:
-  (b) in the case of a periodic tenancy to which a right of termination under any of sections 51 to 53B, 55AA, 56A(1), 58(1)﻿(c), and 59 to 59B applies, by giving notice in accordance with the applicable section:
+  (b) in the case of a periodic tenancy to which a right of termination under any of sections 51 to 53A, 55AA, 56A(1), 58(1)﻿(c), and 59 to 59B applies, by giving notice in accordance with the applicable section:
   (ba) in the case of a boarding house tenancy to which a right of termination under any of sections 52 to 53A, 58(1)﻿(c), 59 to 59B, 66U, 66V, and 66X applies, by giving notice in accordance with the applicable section:
   (c) where the tenant acquires the landlord's interest in the premises:
   (d) where the tenant surrenders the tenancy, or delivers up vacant possession of the premises, to the landlord with the landlord's written consent:
@@ -1089,41 +1092,31 @@ In sections 49A to 49D, unless the context otherwise requires, premises includes
 (2) If a landlord is unable to give notice to vacate under subsection (1)﻿(b), the landlord may apply, without notice, to the Tribunal for an order to terminate the tenancy.
 
 ### 51 Termination by notice
-(1) A landlord may terminate a periodic tenancy by giving at least 63 days’ notice if—
+(1) A landlord may terminate a periodic tenancy in any case by giving at least 90 days’ notice.
+(2) A landlord may terminate a periodic tenancy by giving at least 42 days’ notice if—
   (a) the owner of the premises requires the premises, within 90 days after the termination date, as the principal place of residence for at least 90 days for the owner or a member of the owner’s family; or
-  (b) the landlord customarily uses the premises, or has acquired the premises, for occupation by employees of the landlord or by contractors under contracts for services with the landlord, and—
+  (b) the owner is required, under an unconditional agreement for the sale of the premises, to give the purchaser vacant possession; or
+  (c) the landlord customarily uses the premises, or has acquired the premises, for occupation by employees of the landlord or by contractors under contracts for services with the landlord, and—
     (i) that fact is clearly stated in the tenancy agreement; and
     (ii) the premises are required for that use; or
-  (c) the landlord customarily uses the premises, or has acquired the premises, for occupation by employees of a school board of trustees or by contractors under contracts for services with a school board of trustees, and—
+  (d) the landlord customarily uses the premises, or has acquired the premises, for occupation by employees of a school board or by contractors under contracts for services with a school board, and—
     (i) that fact is clearly stated in the tenancy agreement; and
     (ii) the premises are required for that use; and
-    (iii) the landlord is the Ministry of Education.
-(2) A landlord may terminate a periodic tenancy by giving at least 90 days’ notice if—
-  (a) the premises are to be put on the market by the owner within 90 days after the termination date for the purposes of sale or other disposition; or
-  (b) the owner is required, under an unconditional agreement for the sale of the premises, to give the purchaser vacant possession; or
-  (c) the landlord is not the owner of the premises and the landlord’s interest in the premises is due to end; or
-  (d) the landlord or owner has acquired the premises to facilitate the use of nearby land for a business activity and—
-    (i) that fact is clearly stated in the tenancy agreement; and
-    (ii) the premises are required to be vacant of residential tenants to facilitate that use; or
-  (e) the premises are to be converted into commercial premises for at least 90 days by the landlord or owner; or
-  (f) extensive alterations, refurbishment, repairs, or redevelopment of the premises are to be carried out by the landlord or owner, and—
-    (i) it would not be reasonably practicable for the tenant to remain in occupation while the work is undertaken; and
-    (ii) the work is to begin, or material steps towards it are to be taken, within 90 days after the termination date; or
-  (g) the premises are to be demolished and the demolition is to begin, or material steps towards it are to be taken, within 90 days after the termination date.
-(2A) In subsection (2)﻿(f) and (g), taking a material step means applying for regulatory consent, seeking engineering or other professional advice, or taking any other significant step.
-(2B) A tenant may terminate a periodic tenancy in any case by giving at least 28 days’ notice.
+    (iii) the landlord is the Crown.
+(2A) A tenant may terminate a periodic tenancy in any case by giving at least 21 days’ notice.
+(2B)
 (3) Every notice to terminate a tenancy shall—
   (a) be in writing; and
   (b) identify the premises to which it relates; and
   (c) specify the date by which the tenant is to vacate the premises; and
-  (ca) if the notice is given by the landlord, set out the reasons for the termination; and
+  (ca) if the landlord gives less than 90 days’ notice, set out the reasons for the termination; and
   (d) be signed by the party giving the notice, or by that party's agent.
 (4) In a notice to terminate a tenancy, no special form of words shall be required; and no such notice shall be held invalid for any failure to comply strictly with the requirements of subsection (3) so long as the notice is in writing, the intention to terminate the tenancy on a particular date or on the expiry of a particular period is stated clearly in the notice, and that any non-compliance is not such as to mislead or affect unjustly the interests of the recipient.
 (5) A notice to terminate a tenancy may be given on any day, and the period of notice may be expressed to expire on any day, regardless of the date on which the tenancy commenced or of any date on which any rent is to be paid.
 (6) A party who has given an effective notice to terminate a tenancy—
   (a) may, at any time before the expiry of the period of notice, revoke the notice with the consent of the other party; but
   (b) may give a further notice to terminate the tenancy only if the prior notice is revoked.
-(7) Where a party has given a notice to terminate the tenancy and subsequently realises that, because of—the period of notice given is less than the minimum prescribed by subsection (1) or (as the case may require) subsection (2) or (2B), that party may, with the agreement of the other party or (failing such agreement) with the consent of the Tribunal, give to the other party a further notice varying the first notice so as to bring the period of notice given up to or above that minimum so required.
+(7) Where a party has given a notice to terminate the tenancy and subsequently realises that, because of—the period of notice given is less than the minimum prescribed by subsection (1) or (as the case may require) subsection (2) or (2A), that party may, with the agreement of the other party or (failing such agreement) with the consent of the Tribunal, give to the other party a further notice varying the first notice so as to bring the period of notice given up to or above that minimum so required.
   (a) some error in the way in which the period of the notice or the date of the expiry of that period is expressed in the notice; or
   (b) some delay in serving the notice,—
 (8) Every notice given under subsection (7) shall comply with the requirements of subsection (3).
@@ -1131,7 +1124,7 @@ In sections 49A to 49D, unless the context otherwise requires, premises includes
   (a) that the error in the notice or the delay in serving the notice was inadvertent; and
   (b) that the party who gave the notice has sought to correct the matter as soon as practicable after realising that the period of notice given is inadequate; and
   (c) that it would not be unfair to the other party to allow the original notice to be varied in the manner proposed.
-(10) In subsections (1) and (2), termination date means the date of termination provided for by the notice of termination given by the landlord (regardless of when termination in fact occurs).
+(10) In subsection (2), termination date means the date of termination provided for by the notice of termination given by the landlord (regardless of when termination in fact occurs).
 
 ### 52 Provision for shorter notice may be made with consent of Tribunal
 With the consent of the Tribunal, the parties to a tenancy agreement may provide for the termination of the tenancy by the giving of notice of a specified period (being less than that required by section 51), or on the happening of any event to be specified in the agreement, or where the landlord requires possession of the premises for any purpose to be specified in the agreement.
@@ -1159,34 +1152,24 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 (3) In any proceedings before the Tribunal in which the validity of a notice under subsection (2) is in issue, the question of when the tenant ceased to be eligible to be a tenant under the tenancy is a question of fact to be determined by the Tribunal.
 
 ### 53B Special provisions for notice terminating social housing tenancies
-(1) The landlord under a periodic tenancy may terminate the tenancy by giving at least 90 days’ notice if—
-  (a) the tenancy—
-    (i) was granted before 14 April 2014 and is a tenancy of Kāinga Ora housing; or
-    (ii) was granted as a tenancy of social housing to a tenant assessed under the Public and Community Housing Management Act 1992 as eligible to be allocated social housing; but
-  (b) following the grant of the tenancy,—
-    (i) the social housing provider is notified under section 103 of that Act that the tenant is no longer eligible for social housing; or
-    (ii) in the case of community housing, the community housing provider ceases to be a registered community housing provider; or
-    (iii) the social housing provider requires the tenant to transfer to different social housing provided by that provider, and the provider considers that—
-      (A) the transfer is necessary or desirable for any reason; and
-      (B) the other housing is appropriate for the tenant’s housing needs as most recently assessed (regardless of when that assessment took place).
-(2) In this section,—
-  - **agency** , , , , , , and have the meanings given to them by section 2(1) of the Public and Community Housing Management Act 1992
-  - **as most recently assessed** means—
-    (a) as most recently assessed by the agency and notified to the provider under section 103 of the Public and Community Housing Management Act 1992; or
-    (b) if there has been no such assessment and notification under that section in relation to the tenant, as most recently assessed by HNZ
-  - **HNZ** has the meaning that it had under section 2(1) of the Public and Community Housing Management Act 1992 as in force on 13 April 2014.
+[Repealed]
 
-### 54 Tribunal may declare retaliatory notice of no effect
-(1) Within 28 working days after receipt of a notice terminating the tenancy, being a notice that complies with the requirements of section 51 (or, in the case of a boarding house tenancy, section 66U), the tenant may apply to the Tribunal for an order declaring that the notice is of no effect on the ground that, in giving the notice, the landlord was motivated wholly or partly by the exercise or proposed exercise by the tenant of any right, power, authority, or remedy conferred on the tenant by the tenancy agreement or by this or any other Act or any complaint by the tenant against the landlord relating to the tenancy.
-(2) If, on any such application, the Tribunal is satisfied that the landlord was so motivated in giving the notice, it shall declare the notice to be of no effect unless the Tribunal is satisfied that the purported exercise by the tenant of any such right, power, authority, or remedy, or the making by the tenant of any such complaint, was or would be vexatious or frivolous to such an extent that the landlord was justified in giving the notice.
-(3) The giving of a notice terminating a tenancy is an unlawful act if the notice is declared under subsection (2) to be of no effect.
+### 54 Tribunal may declare notice retaliatory
+(1) This section applies in relation to a notice given by a landlord terminating the tenancy, being a notice that complies with the requirements of section 51 (or, in the case of a boarding house tenancy, section 66U).
+(2) The tenant may apply to the Tribunal for an order declaring that the notice was retaliatory on either or both of the following grounds:
+  (a) that, in giving the notice, the landlord was motivated wholly or partly by the exercise or proposed exercise by the tenant of any right, power, authority, or remedy conferred on the tenant by the tenancy agreement or by this or any other Act or any complaint by the tenant against the landlord relating to the tenancy:
+  (b) that, in giving the notice, the landlord was motivated wholly or partly by the exercise or performance, or proposed exercise or performance, by the chief executive or any other person of any power or function conferred on the person under this or any other Act in respect of the tenancy or premises.
+(3) If the tenant makes the application within 28 working days after receiving the termination notice, the tenant may at the same time apply for an order declaring the notice to be of no effect.
+(4) If the Tribunal is satisfied that either or both of the grounds in subsection (2) apply, the Tribunal must declare the notice to be retaliatory and, if an order is applied for under subsection (3), of no effect.
+(5) However, the Tribunal need not declare the notice to be retaliatory and of no effect if the Tribunal is satisfied that, in the case of subsection (2)﻿(a), the purported exercise by the tenant of any such right, power, authority, or remedy, or the making by the tenant of any such complaint, was or would be vexatious or frivolous to such an extent that the landlord was justified in giving the notice.
+(6) The giving of a notice terminating a tenancy is an unlawful act if the notice is declared under subsection (4) to be retaliatory.
 
 ### 55 Termination on non-payment of rent, damage, or assault
 (1) Subject to subsection (2), on any application made to it under this section by the landlord, the Tribunal shall make an order terminating the tenancy if the Tribunal is satisfied that—
   (a) the rent was, at the date on which the application was filed under section 86, at least 21 days in arrear; or
   (aa) the tenancy is a periodic tenancy and—
-    (i) on 3 separate occasions within a 90-day period the rent has been at least 5 working days in arrear; and
-    (ii) on each occasion the landlord gave the tenant written notice advising the tenant of the arrear, the dates for which rent was overdue, the amount or amounts of overdue rent, and the tenant’s right to make an application to the Tribunal challenging the notice (see sections 77(1) and 78(1)﻿(a) regarding the Tribunal); and
+    (i) on 3 separate occasions within a 90-day period an amount of rent has been owing for at least 5 working days after the date on which it was due under the tenancy agreement; and
+    (ii) on each occasion the landlord gave the tenant written notice advising the tenant of the overdue rent, the dates for which rent was overdue, the amount of overdue rent, and the tenant’s right to make an application to the Tribunal challenging the notice (see sections 77(1) and 78(1)﻿(a) regarding the Tribunal); and
     (iii) each notice stated how many other notices (if any) the landlord had given the tenant under this paragraph in relation to the same tenancy and 90-day period; and
     (iv) the landlord’s application to the Tribunal was made within 28 days after the landlord gave the third notice; or
   (b) the tenant has caused, or has permitted any other person to cause, or has threatened to cause, substantial damage to the premises; or
@@ -1404,18 +1387,17 @@ A landlord commits an unlawful act if they give or purport to give a notice to t
 (2) However, the tenancy does not continue as a periodic tenancy if,—
   (a) before the expiry, the parties renew or extend the existing tenancy agreement; or
   (b) before the expiry, the parties agree not to continue with the tenancy; or
-  (c) at least 28 days before the expiry, the tenant gives the landlord written notice of the tenant’s intention not to continue with the tenancy; or
-  (d) before the expiry, a party gives notice as mentioned in any of section 50(1)﻿(a) to (b) that terminates the tenancy on or before the expiry or that would do if the tenancy were already periodic.
-(3) Subsection (4) applies if—
-  (a) a tenancy continues as a periodic tenancy under subsection (1); but
-  (b) before the continuation, a party gave notice as mentioned in any of section 50(1)﻿(a) to (b) that would, if the tenancy had been fixed-term throughout or periodic throughout, terminate the tenancy from a time after the continuation.
-(4) The tenancy is terminated with effect from that time (and the termination is to be treated as falling within the relevant paragraph of section 50(1)).
+  (c) within the effective period, either party gives to the other party written notice of their intention not to continue with the tenancy; or
+  (d) before the expiry, a party gives notice as specified in any of section 50(1)﻿(a) to (ac) that terminates the tenancy on or before the expiry.
+(2A) The effective period is the period that starts on the 90th day before the date on which the tenancy expires and ends on the 21st day before that date.
+(3)
+(4)
 (5)
 (6)
 
-### 60B Tenant must exercise right to renew or extend tenancy not later than 28 days before expiry
+### 60B Tenant must exercise right to renew or extend tenancy not later than 21 days before expiry
 (1) A tenant who wishes to exercise a right under the tenancy agreement to require the landlord to grant the tenant a renewal or an extension of the tenancy must exercise that right by giving the landlord written notice, in accordance with this section, of the tenant’s intention to exercise the right.
-(2) The tenant must give notice of the tenant’s intention not later than the 28th day before the date on which the tenancy would otherwise expire.
+(2) The tenant must give notice of the tenant’s intention not later than the 21st day before the date on which the tenancy would otherwise expire.
 (3) On an application, made before or after the expiry of the tenancy, by a tenant who has failed to comply with subsection (1) or (2) but who wishes to renew or extend the tenancy, the Tribunal may order the renewal or extension of the tenancy.
 (4) The Tribunal may make an order under subsection (3) only if satisfied that, without the order, the tenant would suffer greater hardship than the landlord.
 (5) If the Tribunal makes an order under subsection (3), the Tribunal may order that the tenant pay the landlord an amount determined by the Tribunal by way of reasonable compensation for any loss or damage to the landlord that has resulted from the tenant’s failure to comply with subsection (1) or (2).
@@ -1432,7 +1414,7 @@ A landlord commits an unlawful act if they give or purport to give a notice to t
 (2) Where the Tribunal makes an order under subsection (1) in respect of a periodic tenancy, it shall determine, as best it can on the evidence before it, the date on which the landlord first became aware, or ought reasonably to have become aware, that the tenant had abandoned the premises, and shall specify that date in the order.
 (3) A tenant who abandons the premises shall, notwithstanding any rule of law to the contrary, be liable to pay the rent for any period up to and including, but not after, the following date:
   (a) in the case of a periodic tenancy,—whichever is the earlier:
-    (i) the date of the expiry of the period of 28 days after the date specified by the Tribunal under subsection (2); or
+    (i) the date of the expiry of the period of 21 days after the date specified by the Tribunal under subsection (2); or
     (ii) the date of commencement of a new tenancy of the premises,—
   (b) in the case of a fixed-term tenancy,—whichever is the earlier.
     (i) the date of the expiry of the term; or
@@ -2484,7 +2466,7 @@ The Tribunal may state a case for the opinion of the High Court on any question 
   (b) the effect of the unlawful act; and
   (c) the interests of the landlord or the tenant against whom the unlawful act was committed; and
   (d) the public interest,—
-(3A) In the case of an application in respect of an unlawful act under section 54(3), the Tribunal may order the landlord to pay a sum in the nature of exemplary damages if the Tribunal is satisfied that it is just to do so having regard to the matters referred to in subsection (3)﻿(b) to (d).
+(3A) In the case of an application in respect of an unlawful act under section 54(6), the Tribunal may order the landlord to pay a sum in the nature of exemplary damages if the Tribunal is satisfied that it is just to do so having regard to the matters referred to in subsection (3)﻿(b) to (d).
 (4) The maximum amount that a person may be ordered to pay under this section for any unlawful act referred to in any section shown in column 1 of Schedule 1A is the amount shown opposite that section in column 3 of that schedule.
 (4A) The Tribunal may make an order against a person on the ground that the person committed an unlawful act even though the conduct that formed part of that act also formed part of an offence or an alleged offence against section 109A(4) in respect of which the person has been charged, convicted, or acquitted.
 (5) Any amount ordered by the Tribunal to be paid under this section on the application of a landlord or a tenant, or on the application of the chief executive acting in place of a landlord or a tenant, shall be paid to that landlord or that tenant, and shall be in addition to any sum payable to that landlord or that tenant by way of compensation in respect of the unlawful act.
@@ -2506,7 +2488,7 @@ The Tribunal may state a case for the opinion of the High Court on any question 
   (b) the landlord intentionally committed an unlawful act under any of the following provisions:
     (i) section 45(1A) or 66I(4) (landlord’s responsibilities: cleanliness, maintenance, smoke alarms, healthy homes standards, and buildings, health, and safety requirements):
     (ii) section 45(1AB) or 66I(5) (landlord’s responsibilities: contaminated premises):
-    (iii) section 54(3) (retaliatory notice of termination):
+    (iii) section 54(6) (retaliatory notice of termination):
     (iv) section 60AA (acting to terminate without grounds):
     (v) section 137(2) (contracting to contravene or evade the provisions of this Act).
 (2) The chief executive may not make an application under subsection (1) later than 12 months from the date on which the chief executive first became aware of the unlawful act.
@@ -3590,7 +3572,7 @@ The amendment made by section 39 of the 2024 Act applies to an application wheth
 | 48(4)﻿(b) | Tenant failing to allow landlord to enter upon premises in circumstances where landlord entitled to enter | 1,500 |
 | 48(4)﻿(c) | Landlord failing to notify tenant of results of contamination test | 1,000 |
 | 49D | Unlawful acts of landlord related to tenant’s liability under section 49B | 1,800 |
-| 54(3) | Landlord giving retaliatory notice of termination | 6,500 |
+| 54(6) | Landlord giving retaliatory notice of termination | 6,500 |
 | 56E(3) | Disclosing notice of withdrawal or accompanying qualifying evidence of family violence | 3,000 |
 | 60AA | Landlord acting to terminate tenancy without grounds | 6,500 |
 | 61(5) | Tenant abandoning premises without reasonable excuse | 1,500 |
