@@ -8,7 +8,7 @@ _Consolidation as at 2025-02-01_
   (b) the Taranaki Maunga Collective Redress Act 2025.
 
 ### 2 Commencement
-(1) This Act, except section 126, comes into force on the day after the date on which it receives the Royal assent.
+(1) This Act, except section 126, comes into force on 2 February 2025.
 (2) Section 126 comes into force on the day after the date on which the Taranaki Māori Trust Board is dissolved in accordance with section 121(1).
 
 ## Part 1 — He kupu wāwahi—Historical matters and preliminary provisions
@@ -134,7 +134,7 @@ In this Act, unless the context otherwise requires,—
     (a) has the meaning given in section 2(1) of the Crown Minerals Act 1991; and
     (b) includes the Minerals Programme for Minerals (Excluding Petroleum) 2013 and the Minerals Programme for Petroleum 2013
   - **Minister of Conservation** —
-    (a) has the meaning given to Minister in section 2(1) of the Conservation Act 1997; and
+    (a) has the meaning given to Minister in section 2(1) of the Conservation Act 1987; and
     (b) includes, if relevant, a delegate appointed by the Minister, including on the terms provided by section 57 of the Conservation Act 1987
   - **national park** has the meaning given in section 2 of the National Parks Act 1980
   - **national park management plan** means a management plan within the meaning of section 45 of the National Parks Act 1980
