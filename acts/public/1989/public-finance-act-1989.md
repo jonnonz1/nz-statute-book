@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2024-10-24_
+_Consolidation as at 2025-02-02_
 
 > Title
 
@@ -2456,8 +2456,9 @@ Definitions
 
 ## Schedule 6 — Legal entities created by Treaty of Waitangi settlement Acts
 
-| Te Urewera | Te Urewera Act 2014 |
+| Te Kāhui Tupua | Te Ture Whakatupua mō Te Kāhui Tupua 2025/Taranaki Maunga Collective Redress Act 2025 |
 | --- | --- |
+| Te Urewera | Te Urewera Act 2014 |
 
 ## Schedule 7 — Crown entities subject to section 16
 
