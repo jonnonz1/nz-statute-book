@@ -1,5 +1,5 @@
 # Mount Egmont Vesting Act 1978
-_Consolidation as at 1987-04-01_
+_Consolidation as at 2025-02-02_
 
 > An Act to provide for the symbolic return of Mount Egmont to the Taranaki Maori Trust Board on behalf of the Maori tribes concerned, and the gift of the Mountain back to the Crown by the Board for the purposes of a national park for the use and enjoyment of all the people of New Zealand
 
