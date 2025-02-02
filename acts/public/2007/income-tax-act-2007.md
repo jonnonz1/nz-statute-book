@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2025-01-01_
+_Consolidation as at 2025-02-02_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2946,6 +2946,18 @@ When this section applies
 Income: amount of expenditure
 (2) Te Pou Tupua is treated as deriving income for the income year of an amount equal to the amount of the expenditure.
 
+### CH 11B Te Kāhui Tupua and Te Tōpuni Kōkōrangi
+When this section applies
+(1) This section applies when Te Tōpuni Kōkōrangi (as defined in Te Ture Whakatupua mō Te Kāhui Tupua 2025/Taranaki Maunga Collective Redress Act 2025) incurs an amount of expenditure in an income year for a purpose outside the scope and effect of Part 3 of that Act.
+Income: amount of expenditure
+(2) Te Tōpuni Kōkōrangi is treated as deriving income for the income year of an amount equal to the amount of the expenditure.
+
+### CH 11C Te Ture Whakatupua mō Te Kāhui Tupua 2025/Taranaki Maunga Collective Redress Act 2025 asset management company
+When this section applies
+(1) This section applies when the asset management company (as defined in Te Ture Whakatupua mō Te Kāhui Tupua 2025/Taranaki Maunga Collective Redress Act 2025) incurs an amount of expenditure in an income year for a purpose outside the purpose of the company set out in Part 4 of that Act.
+Income: amount of expenditure
+(2) The asset management company is treated as deriving income for the income year of an amount equal to the amount of the expenditure.
+
 ### CH 12 Income from hybrid mismatch arrangement
 An amount is assessable income if it is treated as assessable income under subpart FH (Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements).
 
@@ -4627,6 +4639,18 @@ Exempt income
 (1) An amount of income derived by Te Pou Tupua (as defined in the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017) is exempt income.
 Exclusion
 (2) However, subsection (1) does not apply for an amount of income under section CH 11 (Te Awa Tupua and Te Pou Tupua).
+
+### CW 40D Te Tōpuni Kōkōrangi
+Exempt income
+(1) An amount of income derived by Te Tōpuni Kōkōrangi (as defined in Te Ture Whakatupua mō Te Kāhui Tupua 2025/Taranaki Maunga Collective Redress Act 2025) is exempt income.
+Exclusion
+(2) However, subsection (1) does not apply for an amount of income under section CH 11B (Te Kāhui Tupua and Te Tōpuni Kōkōrangi).
+
+### CW 40E Te Ture Whakatupua mō Te Kāhui Tupua 2025/Taranaki Maunga Collective Redress Act 2025 asset management company
+Exempt income
+(1) An amount of income derived by the asset management company (as defined in Te Ture Whakatupua mō Te Kāhui Tupua 2025/Taranaki Maunga Collective Redress Act 2025) is exempt income.
+Exclusion
+(2) However, subsection (1) does not apply for an amount of income under section CH 11C (Te Ture Whakatupua mō Te Kāhui Tupua 2025/Taranaki Maunga Collective Redress Act 2025 asset management company).
 
 ### CW 41 Charities: non-business income
 Exempt income
