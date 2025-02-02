@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-02-02_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -146,6 +146,7 @@ This Act shall bind the Crown.
   (j) the Mount Aspiring National Park.
 (2) The Arthur's Pass National Park named in subsection (1)﻿(c) is the same national park as the Arthur Pass National Park existing immediately before the commencement of this Act.
 (3) By virtue of section 162 of the Ngāi Tahu Claims Settlement Act 1998, the Mount Cook National Park is now called the Aoraki/Mount Cook National Park.
+(4) By virtue of section 23(1) and (3) of Te Ture Whakatupua mō Te Kāhui Tupua 2025/the Taranaki Maunga Collective Redress Act 2025, the Egmont National Park is now named Te Papa-Kura-o-Taranaki.
 (4)
 
 ### 7 Constitution of other national parks and addition of land to national parks
@@ -186,6 +187,7 @@ This Act shall bind the Crown.
 (4) The Minister shall consult with the Minister of Tourism before—
   (a) making any decision or taking any action under this Act that affects the administration of the Tourist and Health Resorts Control Act 1908; or
   (b) making any bylaw under section 56 that affects the administration of the Tourist and Health Resorts Control Act 1908.
+(5) Nothing in subsection (2) applies to Te Papa-Kura-o-Taranaki.
 
 ### 11 Exclusion of land from national park
 (1) No area of land or foreshore included in any park shall be excluded from that park, except by Act of Parliament.
@@ -252,7 +254,7 @@ An Order in Council made under any of sections 7, 10, and 12 must be published i
 [Repealed]
 
 ### 18 Functions of Authority
-In addition to the functions specified elsewhere in this Act or in any other Act, the functions of the Authority shall be—
+(1) In addition to the functions specified elsewhere in this Act or in any other Act, the functions of the Authority shall be—
   (a) to prepare and approve statements of general policy for national parks in accordance with section 44:
   (b) to approve management plans and amendments to and reviews of management plans for national parks in accordance with section 48:
   (c) to advise the Minister or the Director-General on the priorities for the expenditure of any money appropriated by Parliament for the purposes of this Act:
@@ -260,6 +262,7 @@ In addition to the functions specified elsewhere in this Act or in any other Act
   (e) to consider and make proposals for the addition of lands to national parks and the establishment of new national parks:
   (f)
   (g) to give advice to the Minister or the Director-General on any other matter relating to any national park.
+(2) Subsection (1)﻿(b) does not apply to Te Papa-Kura-o-Taranaki.
 
 ### 18A Minister to consult Authority in respect of access notice under Crown Minerals Act 1991
 The Minister shall consult the Authority in respect of any notice requesting an access arrangement in respect of a national park served on the Minister pursuant to section 59 of the Crown Minerals Act 1991, as soon as practicable after receiving the notice.
@@ -310,6 +313,7 @@ The Minister shall consult the Authority in respect of any notice requesting an 
     (i) on the interpretation of any management plan for a park; and
     (ii) on any proposal for the addition of land to any national park or the establishment of a new national park; and
     (iii) on any other matter relating to any national park,—
+(1A) Nothing in subsection (1) applies to Te Papa-Kura-o-Taranaki.
 (2) The Board having jurisdiction in respect of the Whanganui National Park shall, in carrying out its functions,—
   (a) have regard to the spiritual, historical, and cultural significance of the Wanganui River to the Whanganui iwi; and
   (b) seek and have regard to the advice of the trustees of Ngā Tāngata Tiaki o Whanganui (as defined by section 7 of the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017) on any matter that involves the spiritual, historical, and cultural significance of the park to the Whanganui iwi.
@@ -379,10 +383,11 @@ The Minister shall consult the Authority in respect of any notice requesting an 
 **Administration of parks**
 
 ### 43 Parks to be administered by Department
-The Department shall, subject to this Act, and in accordance with—administer and manage all national parks in such a manner as to secure to the public the fullest proper use and enjoyment of the parks consistent with the preservation of their natural and historic features and the protection and well-being of their native plants and animals.
+(1) The Department shall, subject to this Act, and in accordance with—administer and manage all national parks in such a manner as to secure to the public the fullest proper use and enjoyment of the parks consistent with the preservation of their natural and historic features and the protection and well-being of their native plants and animals.
   (a) any statements of general policy adopted under section 44; and
   (aa) any conservation management strategy for the time being in force in respect of a park; and
   (b) any management plan for the time being in force in respect of a park—
+(2) Nothing in this section applies to Te Papa-Kura-o-Taranaki (see section 81 of Te Ture Whakatupua mō Te Kāhui Tupua 2025/the Taranaki Maunga Collective Redress Act 2025).
 
 **General policy statements**
 
@@ -973,7 +978,7 @@ Nothing in any authorisation by the Minister to do any act that would otherwise 
 [Repealed]
 
 ### 79 Certain other Acts unaffected
-Nothing in this Act shall affect the Manapouri - Te Anau Development Act 1963 or the Mount Egmont Vesting Act 1978.
+Nothing in this Act shall affect the Manapouri - Te Anau Development Act 1963.
 
 ### 80 Amendments, repeals, and revocations
 (1) The enactments specified in Schedule 1 are hereby amended in the manner indicated in that schedule.
