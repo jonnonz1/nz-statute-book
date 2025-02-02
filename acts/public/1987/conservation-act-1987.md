@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-02-02_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -369,9 +369,9 @@ As soon as practicable after 30 June in every year, every Board shall furnish th
   (b) the paramount chief for the time being of the Ngati Tuwharetoa Tribe of the Maori race, if that chief is a lineal descendant of Te Heuheu Tukino, the donor on behalf of his associated Chiefs of the Tribe of certain Maori land included in the area of the park, or, if the paramount chief for the time being of that tribe is not a lineal descendant of Te Heuheu Tukino, a lineal descendant of Te Heuheu Tukino appointed by the Minister; and
   (c) 1 person nominated by the trustees of Te Kotahitanga o Ngāti Tūwharetoa.
 (5A) The Minister must, before making an appointment under subsection (2) to the Board whose area of jurisdiction includes Tongariro National Park, also have regard to any endorsement by the trustees of Te Kotahitanga o Ngāti Tūwharetoa of a person to be a member of the Board.
-(6) The Board whose area of jurisdiction includes the Egmont National Park shall consist of—
+(6) The Board whose area of jurisdiction includes Te Papa-Kura-o-Taranaki shall consist of—
   (a) not more than 11 persons appointed under subsection (2); and
-  (b) 1 person to be appointed by the Minister on the recommendation of the Taranaki Maori Trust Board.
+  (b) 1 person to be appointed by the Minister on the recommendation of Te Tōpuni Ngārahu.
 (7) The Board whose area of jurisdiction includes the Whanganui National Park shall consist of—
   (a) not more than 11 persons appointed under subsection (2); and
   (b) 1 person appointed by the Minister on the recommendation of the trustees of Ngā Tāngata Tiaki o Whanganui (as defined by section 7 of the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017).
