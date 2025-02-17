@@ -1,5 +1,5 @@
 # Water Services Acts Repeal Act 2024
-_Consolidation as at 2024-02-16_
+_Consolidation as at 2025-02-17_
 
 ### 1 Title
 This Act is the Water Services Acts Repeal Act 2024.
