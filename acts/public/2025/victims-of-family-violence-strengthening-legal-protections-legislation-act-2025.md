@@ -6,7 +6,7 @@ This Act is the Victims of Family Violence (Strengthening Legal Protections) Leg
 
 ### 2 Commencement
 (1) This Act comes into force on a date set by Order in Council.
-(2) Any part of the Act that has not come into force 1 year after Royal assent comes into force then.
+(2) Any part of the Act that has not come into force before 17 February 2026 comes into force then.
 (3) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Substantive amendments
