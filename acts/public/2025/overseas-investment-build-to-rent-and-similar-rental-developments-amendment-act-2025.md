@@ -5,7 +5,7 @@ _Consolidation as at 2025-02-24_
 This Act is the Overseas Investment (Build-to-rent and Similar Rental Developments) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 25 February 2025.
 
 ### 3 Principal Act
 This Act amends the Overseas Investment Act 2005.
