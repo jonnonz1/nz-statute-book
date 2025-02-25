@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2024-05-01_
+_Consolidation as at 2025-02-25_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -126,6 +126,7 @@ This Act is the Overseas Investment Act 2005.
   - **kaitiakitanga** has the meaning set out in section 2(1) of the Resource Management Act 1991
   - **lake** means a lake (as defined in section 2(1) of the Resource Management Act 1991) that has a bed that exceeds 8 hectares in area
   - **land decision** means a decision under this Act on whether or not to consent to an overseas investment in sensitive land
+  - **large rental development test** means the test set out in clause 11A of Schedule 2
   - **LINZ** means Land Information New Zealand
   - **listed issuer** —where terms used in this definition have the same meanings as in the Financial Markets Conduct Act 2013
     (a) means a person that is a party to a listing agreement with a licensed market operator in relation to a licensed market (and includes a licensed market operator that has financial products quoted on its own licensed market); but
@@ -486,6 +487,7 @@ This Act binds the Crown.
     (i) 1 or more of the following tests in Schedule 2 are met:
       (A) the commitment to reside in New Zealand test:
       (B) the increased housing test:
+      (BA) the large rental development test:
       (C) the non-residential use test:
       (D) the incidental residential use test; or
     (ii) the benefit to New Zealand test is met:
@@ -2557,7 +2559,7 @@ In this Part, unless the context otherwise requires,—
 ### 1 Outline of this schedule
 (1) In this schedule,—
   (a) Part 2 sets out the commitment to reside in New Zealand test, which is a test that is only available for residential land:
-  (b) Part 3 sets out the increased housing test, the non-residential use test, and the incidental residential use test, which are tests that are only available for overseas investments in sensitive land where the relevant land is residential (but not otherwise sensitive) land:
+  (b) Part 3 sets out the increased housing test, the large rental development test, the non-residential use test, and the incidental residential use test, which are tests that are only available for overseas investments in sensitive land where the relevant land is residential (but not otherwise sensitive) land:
   (c) Part 4 explains how more than 1 test can be met for the purpose of section 16(1)﻿(b)﻿(i):
   (d) Parts 2 and 5 set out conditions that this Act requires be imposed on consents that are granted for certain overseas investments in sensitive land where the relevant land is or includes residential land.
 (2) This clause is only a guide to the general scheme and effect of this schedule.
@@ -2667,12 +2669,12 @@ If, for an overseas investment in sensitive land being considered under the comm
     (i) that the individual will not have any beneficial interest in, or beneficial entitlement to, the relevant interest in the residential land; and
     (ii) if the relevant overseas person is a trust, that the individual is not a person who may (directly or indirectly) benefit under the trust at the discretion of the trustees and is not likely to become such a person.
 
-### Part 3 — Increased housing, non-residential use, and incidental residential use tests
+### Part 3 — Increased housing, large rental development, non-residential use, and incidental residential use tests
 
 **Availability of tests**
 
 ### 10 For what land are tests in this Part available
-The 3 tests in this Part are only available if the relevant land is residential (but not otherwise sensitive) land.
+The 4 tests in this Part are only available if the relevant land is residential (but not otherwise sensitive) land.
 
 **Increased housing test**
 
@@ -2694,6 +2696,15 @@ The 3 tests in this Part are only available if the relevant land is residential 
   (b) includes siteworks (including earthworks) that are preparatory to, or associated with, the matters set out in paragraph (a); but
   (c) does not include subdivision of land without other development works.
 (5) See also clause 18 (which sets out certain conditions to be imposed on consents that rely on meeting this test).
+
+**Large rental development test**
+
+### 11A How large rental development test is met
+(1) The large rental development test is met if the relevant Ministers are satisfied that—
+  (a) the residential land is a single site, or adjacent sites separated by infrastructure (such as roads), with 1 or more buildings that, taken together, consist of 20 or more dwellings suitable for use as, or conversion to, residential dwellings; and
+  (b) at least 20 of the residential dwellings will be, or are likely to be, available for use, within a time frame that is satisfactory to the relevant Ministers, as a residential dwelling occupied under a residential tenancy to which the Residential Tenancies Act 1986 applies or would apply (the large rental development outcome); and
+  (c) the non-occupation outcome (as defined in clause 17) will, or is likely to, occur.
+(2) See also clause 18 (which sets out certain conditions to be imposed on consents that rely on meeting this test).
 
 **Non-residential use test and incidental residential use test**
 
@@ -2767,19 +2778,23 @@ ExampleA is an overseas person who wishes to buy a company. The company owns lan
 
 ### 18 Conditions for consent if 1 or more tests in Part 3 are met
 (1) This clause applies if consent is to be granted for an overseas investment on the basis that 1 or more of the tests in Part 3 are met.
-(2) For each test (as set out in the first column of the following table) that is met,—The following table is small in size and has 3 columns. Column 1 is headed If consent is granted on the basis of the following test Column 2 is headed ... conditions that require the following must be imposed on the consent in relation to the residential land Column 3 is headed ... except in the following circumstancesIf consent is granted on the basis of the following test... conditions that require the following must be imposed on the consent in relation to the residential land... except in the following circumstances1Increased housing test1 or more increased housing outcomes (as defined in clause 11)The on-sale outcome (as defined in clause 17)Clause 11(2)﻿(a) applies (which relates to the operation of a long-term accommodation facility) to the extent that that clause appliesOr an exemption under clause 20 applies (which relates to large developments with shared equity, rent-to-buy, and rental arrangements) (but see clause 20(3))The non-occupation outcome (as defined in clause 17)2Non-residential use testThe non-residential use outcome (as defined in clause 13)If clause 13(2) applies, the non-occupation outcome (as defined in clause 17)The incidental residential use test is applied for and metIf clause 13(4) applies, the on-sale outcome (as defined in clause 17) (but only in relation to the remaining part of the residential land)3Incidental residential use testThe incidental residential use outcome (as defined in clause 14)If clause 14(4) applies, the on-sale outcome (as defined in clause 17) (but only in relation to the remaining part of the residential land)
+(2) For each test (as set out in the first column of the following table) that is met,—The following table is small in size and has 3 columns. Column 1 is headed If consent is granted on the basis of the following test Column 2 is headed ... conditions that require the following must be imposed on the consent in relation to the residential land Column 3 is headed ... except in the following circumstancesIf consent is granted on the basis of the following test... conditions that require the following must be imposed on the consent in relation to the residential land... except in the following circumstances1Increased housing test1 or more increased housing outcomes (as defined in clause 11)The on-sale outcome (as defined in clause 17)Clause 11(2)﻿(a) applies (which relates to the operation of a long-term accommodation facility) to the extent that that clause appliesOr an exemption under clause 20 applies (which relates to large developments with shared equity, rent-to-buy, and rental arrangements) (but see clause 20(3))The non-occupation outcome (as defined in clause 17)1ALarge rental development testThe large rental development outcome (as defined in clause 11A(1)﻿(b))The on-sale outcome (as defined in clause 17), if clause 11A(1)﻿(b) ceases to be metThe non-occupation outcome (as defined in clause 17)2Non-residential use testThe non-residential use outcome (as defined in clause 13)If clause 13(2) applies, the non-occupation outcome (as defined in clause 17)The incidental residential use test is applied for and metIf clause 13(4) applies, the on-sale outcome (as defined in clause 17) (but only in relation to the remaining part of the residential land)3Incidental residential use testThe incidental residential use outcome (as defined in clause 14)If clause 14(4) applies, the on-sale outcome (as defined in clause 17) (but only in relation to the remaining part of the residential land)
   (a) the second column sets out the conditions that must be imposed on the consent in relation to the residential land in respect of which the test is met; but
   (b) if any circumstances set out in the third column relating to a condition apply, the condition need not be imposed.
 
 ### 19 Conditions for consent if benefit to New Zealand test is met and residential land is involved
-(1) This clause applies for the purposes of sections 16A(1)﻿(c) and 16B and the grant of a consent for an overseas investment on the basis that the benefit to New Zealand test is met and the relevant land is or includes residential land.
-(2) In the following table,—The following table is small in size and 4 columns. Column 1 has no heading. Column 2 is headed If residential land outcome is Column 3 is headed ... conditions that require the following must be imposed on the consent in relation to the residential land Column 4 is headed ... except in the following circumstancesIf residential land outcome is... conditions that require the following must be imposed on the consent in relation to the residential land... except in the following circumstances1On-saleThe on-sale outcome (as defined in clause 17)2 Use for non-residential purposesThe residential land is not used, nor held for future use, for residential dwellings or long-term accommodation facilities3Operation of a long-term accommodation facility on the residential land (whether the facility is existing or is being or proposed to be constructed)Operation of the long-term accommodation facility The non-occupation outcome (as defined in clause 17)4Increased residential dwellingsEither or both of the following:The on-sale outcome (as defined in clause 17)An exemption under clause 20 (which relates to large developments with shared equity, rent-to-buy, and rental arrangements) applies (but see clause 20(3))Or an exemption under clause 21 (which relates to indirect and minority interests) applies (but see clause 21(3))The non-occupation outcome (as defined in clause 17)5Residential purposes incidental to a relevant businessThe incidental residential use outcome (as defined in clause 14)6Occupation as main home or residence (but this outcome is only available to the extent that the commitment to reside in New Zealand test is met)The occupation requirement (as defined in clause 6)No key individuals are overseas personsThe disposal requirement (as defined in clause 6)No key individuals are overseas persons7Operation of existing shared equity, rent-to-buy, or rental arrangements (as defined in subclause (3)) in a development of 20 or more residential dwellings (but this outcome is only available if the consent holder (OP) is in the business of providing residential dwellings by 1 or more of those arrangements)All of the residential dwellings in the development are dealt with by OP under 1 or more of the arrangements referred to in clause 20(2)﻿(a)The non-occupation outcome (as defined in clause 17)8Any other caseThe non-occupation outcome (as defined in clause 17)
+(1) This clause applies for the purposes of section 16B and the grant of a consent for an overseas investment on the basis that the benefit to New Zealand test is met and the relevant land is or includes residential land.
+(2) In the following table,—The following table is small in size and 4 columns. Column 1 has no heading. Column 2 is headed If residential land outcome is Column 3 is headed ... conditions that require the following must be imposed on the consent in relation to the residential land Column 4 is headed ... except in the following circumstancesIf residential land outcome is... conditions that require the following must be imposed on the consent in relation to the residential land... except in the following circumstances1On-saleThe on-sale outcome (as defined in clause 17)2 Use for non-residential purposesThe residential land is not used, nor held for future use, for residential dwellings or long-term accommodation facilities3Operation of a long-term accommodation facility on the residential land (whether the facility is existing or is being or proposed to be constructed)Operation of the long-term accommodation facility The non-occupation outcome (as defined in clause 17)4Increased residential dwellingsEither or both of the following:The on-sale outcome (as defined in clause 17)An exemption under clause 20 (which relates to large developments with shared equity, rent-to-buy, and rental arrangements) applies (but see clause 20(3))Or an exemption under clause 21 (which relates to indirect and minority interests) applies (but see clause 21(3))The non-occupation outcome (as defined in clause 17)5Residential purposes incidental to a relevant businessThe incidental residential use outcome (as defined in clause 14)6Occupation as main home or residence (but this outcome is only available to the extent that the commitment to reside in New Zealand test is met)The occupation requirement (as defined in clause 6)No key individuals are overseas personsThe disposal requirement (as defined in clause 6)No key individuals are overseas persons7Operation of existing shared equity, rent-to-buy, or rental arrangements (as referred to in the next column) in a development of 20 or more residential dwellingsAll of the residential dwellings in the development are dealt with under 1 or more of the following arrangements that are satisfactory to the relevant Ministers:The non-occupation outcome (as defined in clause 17)8Any other caseThe non-occupation outcome (as defined in clause 17)
   (a) the first column lists a residential land outcome; and
   (b) the second column describes the set of conditions for the residential land outcome; and
   (c) the third column describes the circumstances (if any) when an exemption may apply.
   (a) an increase in the number of residential dwellings constructed on the residential land (including an increase from 0):
   (b) development works on the land to support the doing of things described in paragraph (a)
-(3) In item 7 of the table in subclause (2), shared equity, rent-to-buy, or rental arrangements, in relation to an existing development, means arrangements corresponding to those referred to in clause 20(2)﻿(a).
+  (a) joint ownership of the residential dwelling with an occupier (for example, an arrangement commonly referred to as a shared equity arrangement):
+  (b) divestment of ownership of the residential dwelling to the occupier over a period of time (for example, an arrangement commonly referred to as a rent-to-buy arrangement):
+  (c) lease of the residential dwelling to an occupier:
+  (d) divestment of ownership of the residential dwelling
+(3)
 
 **Exemptions from on-sale outcome and condition**
 
@@ -2793,10 +2808,10 @@ ExampleA is an overseas person who wishes to buy a company. The company owns lan
   (a) all of the new residential dwellings in the large development will be dealt with under 1 or more of the following arrangements that are satisfactory to the relevant Ministers:
     (i) OP will jointly own the new residential dwelling with an occupier (for example, an arrangement commonly referred to as a shared equity arrangement):
     (ii) OP will divest ownership of the new residential dwelling to the occupier over a period of time (for example, an arrangement commonly referred to as a rent-to-buy arrangement):
-    (iii) OP will lease the new residential dwelling to an occupier:
+    (iii) lease of the new residential dwelling to an occupier:
     (iv) OP will divest ownership of the new residential dwelling; and
-  (b) there is no reason to believe that the large development will not be dealt with according to those arrangements; and
-  (c) OP is in the business of providing new residential dwellings by 1 or more of those arrangements.
+  (b) there is no reason to believe that the large development will not be dealt with according to those arrangements.
+  (c)
 (3) The exemption is subject to the following conditions:
   (a) all of the new residential dwellings in the large development are dealt with under 1 or more of the arrangements referred to in subclause (2)﻿(a); and
   (b) OP meets the non-occupation outcome.
@@ -2993,6 +3008,7 @@ Use-by date
 Application
 (1) A person may apply for a standing consent in respect of residential (but not otherwise sensitive) land if the person applies under the following tests:
   (a) the increased housing test; or
+  (aa) the large rental development test; or
   (b) the non-residential use test; or
   (c) the incidental residential use test.
 Criteria for grant of standing consent
