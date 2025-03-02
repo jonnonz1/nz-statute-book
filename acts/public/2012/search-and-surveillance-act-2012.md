@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2024-11-21_
+_Consolidation as at 2025-03-02_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -232,7 +232,7 @@ A constable may search a person without a warrant in a public place if the const
 ### 17 Warrantless entry and search of vehicle for evidential material relating to certain offences
 A constable may, without a warrant, enter and search a vehicle that is in a public place if he or she has reasonable grounds to believe that evidential material relating to an offence punishable by imprisonment for a term of 14 years or more or an offence against section 6B(1) (terrorist act: planning or other preparations to carry out) of the Terrorism Suppression Act 2002 is in or on the vehicle.
 
-### Subpart 6 — Warrantless powers in relation to arms offences
+### Subpart 6 — Warrantless powers in relation to arms
 
 ### 18 Warrantless searches associated with arms
 (1) A constable who has reasonable grounds to suspect that any 1 or more of the circumstances in subsection (2) exist in relation to a person may, without a warrant, do any or all of the following:
@@ -252,6 +252,19 @@ A constable may, without a warrant, enter and search a vehicle that is in a publ
 (3) A constable may, without a warrant, enter a place or vehicle, search it, seize any arms or any licence under the Arms Act 1983 found there, and detain the arms or licence if he or she has reasonable grounds to suspect that there are arms in the place or vehicle—
   (a) in respect of which a category 3 offence, a category 4 offence, or an offence against the Arms Act 1983 has been committed, or is being committed, or is about to be committed; or
   (b) that may be evidential material in relation to a category 3 offence, a category 4 offence, or an offence against the Arms Act 1983.
+
+### 18AA Warrantless searches associated with FPOs
+(1) A constable, who has reasonable grounds to believe that a person is subject to an FPO made before, on, or after the commencement of this section, may, without a warrant, do any or all of the following for the purpose of checking whether the person is complying with the conditions of the FPO:
+  (a) search the person:
+  (b) search any thing in the person’s possession or under the person’s control (including a vehicle):
+  (c) search any premises—
+    (i) in which the person is present; or
+    (ii) that the person occupies or controls:
+  (d) search any vehicle in which the person is present and any other persons present in the vehicle who the constable has reasonable grounds to believe are in possession of arms:
+  (e) enter a place or vehicle to carry out any activity under paragraphs (a) to (d):
+  (f) seize and detain any arms found.
+(2) A constable may exercise the power in subsection (1) without having reasonable grounds to suspect that any offence has been, is being, or will be committed by the person.
+(3) In this section, FPO means a firearms prohibition order made, varied, or modified under Part 7A of the Arms Act 1983.
 
 ### Subpart 6A — Warrants to search and seize weapons when there is gang conflict
 
