@@ -1,5 +1,5 @@
 # Courts (Remote Participation) Act 2010
-_Consolidation as at 2024-09-03_
+_Consolidation as at 2025-03-02_
 
 ### 1 Title
 This Act is the Courts (Remote Participation) Act 2010.
@@ -130,6 +130,16 @@ A judicial officer or Registrar must also consider, when they are required to de
   (a) in accordance with the criteria in sections 5 and 6; and
   (b) taking into account whether the parties to the proceeding consent to the use.
 (2) Despite subsection (1), AVL must not be used for the appearance of the defendant in a trial that determines the defendant’s guilt or innocence unless the defendant consents to that use.
+
+### 9A Use of audio-visual links and audio links by victims and support persons to observe trial and sentencing
+(1) Despite section 9, a victim of an offence and any support person of the victim are entitled to observe all or part of the trial and sentencing for the offence by the use of AVL or AL (the relevant technology) if—
+  (a) the relevant technology is available; and
+  (b) the victim gives the court notice that they wish to use the relevant technology; and
+  (c) there is reasonable time, after the victim gives notice, for the court to make the necessary arrangements for the use of the relevant technology; and
+  (d) the trial or sentencing that is to be observed is open to the public; and
+  (e) the victim and any support person are otherwise entitled to be physically present.
+(2) However, subsection (1) does not apply if a judicial officer or a Registrar determines that the use of the relevant technology is contrary to the interests of justice.
+(3) Before making a determination under subsection (2), the judicial officer or Registrar (as the case may be) must take into account the criteria specified in sections 5 and 6.
 
 ### 10 Judicial officer or Registrar may vary or revoke determination
 (1) A judicial officer may at any time vary or revoke a determination to allow the use of AVL or AL for the appearance of a participant, or a determination in relation to the use of AVL or AL for observation by a victim or support person, if the judicial officer considers that any reason for the determination, with respect to the criteria in section 5, or sections 5 and 6 (as the case may be), no longer applies.
