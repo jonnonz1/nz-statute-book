@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2024-11-21_
+_Consolidation as at 2025-03-02_
 
 > Title
 
@@ -73,6 +73,7 @@ _Consolidation as at 2024-11-21_
       (iv) any specially dangerous airgun
   - **firearms licence** means a firearms licence issued under section 24
   - **firearms prohibition order** or means an order made against a person by a court under section 39A
+  - **gang** has the meaning given to it by section 4 of the Gangs Act 2024
   - **health practitioner** means a health practitioner registered with the Medical Council of New Zealand, a nurse practitioner registered with the Nursing Council of New Zealand, a psychologist registered with the New Zealand Psychologists Board, or a duly authorised officer under the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **imitation firearm** means anything that has the appearance of being a firearm capable of discharging any shot, bullet, missile, or other projectile, whether or not it is capable of discharging any shot, bullet, missile, or other projectile
   - **improvement notice** means a notice issued under section 60
@@ -87,6 +88,7 @@ _Consolidation as at 2024-11-21_
     (c) a restricted weapon
   - **non-prohibited magazine** means a magazine that is not a prohibited magazine
   - **non-prohibited part** means a part that is not a prohibited part
+  - **organised criminal group** has the meaning given to it by section 98A of the Crimes Act 1961
   - **part** , in relation to any firearm or restricted weapon,—
     (a) means—
       (i) any component that, of itself, is essential to the discharge of any shot, bullet, missile, or other projectile from the firearm or restricted weapon; and
@@ -864,9 +866,7 @@ A person is disqualified from holding a firearms licence if—
     (i) the government of any other country; or
     (ii) any international organisation.
 (6) In this section,—
-  - **family violence** has the meaning given in section 9 of the Family Violence Act 2018
-  - **gang** has the meaning given in section 4 of the Gangs Act 2024
-  - **organised criminal group** has the meaning given in section 98A of the Crimes Act 1961.
+  - **family violence** has the meaning given in section 9 of the Family Violence Act 2018.
 
 ### 24B General conditions of firearms licence
 (1) Every firearms licence is subject to the conditions that the holder of a firearms licence must,—
@@ -1443,7 +1443,18 @@ Sections 38ZD and 38ZE apply with any necessary modifications in respect of a pr
 ## Part 7A — Firearms prohibition orders
 
 ### 39 Interpretation
-For the purposes of this Part, firearm or related item means any firearm, pistol, pistol carbine conversion kit, restricted weapon, airgun, imitation firearm, magazine, part of a firearm or restricted weapon, prohibited item, or ammunition.
+In this Part,—
+  - **associate of a gang or an organised criminal group** means an individual who associates with a gang or an organised criminal group
+  - **criminal activity** means an activity that constitutes the commission of an offence
+  - **firearm or related item** means any firearm, pistol, pistol carbine conversion kit, restricted weapon, airgun, imitation firearm, magazine, part of a firearm or restricted weapon, prohibited item, or ammunition
+  - **insignia** , in relation to a gang or an organised criminal group,—
+    (a) means a sign, symbol, or representation commonly displayed to denote membership of, or an affiliation with, a gang or an organised criminal group, not being a tattoo; and
+    (b) includes any item or thing to which a sign, symbol, or representation referred to in paragraph (a) is attached or affixed (for example, clothing or a vehicle)
+  - **member of a gang or an organised criminal group** includes the following:
+    (a) an individual who is a prospective member or nominee:
+    (b) an individual who demonstrates affiliation to a gang or an organised criminal group by displaying the gang’s or group’s insignia:
+    (c) an individual who is involved in the affairs of a gang or an organised criminal group for the likely purpose of participating in a criminal activity
+  - **prospective member or nominee** , in relation to a gang or an organised criminal group, means a person who is a member of the gang or the organised criminal group but who does not have full membership status.
 
 ### 39A When FPO may be made
 (1) This section applies when a court is sentencing an offender who—
@@ -1454,7 +1465,23 @@ For the purposes of this Part, firearm or related item means any firearm, pistol
     (iv) an offence under any of sections 6A to 10 or sections 12 to 13E of the Terrorism Suppression Act 2002; and
   (b) committed the offence—
     (i) when aged 18 years or over; and
-    (ii) after the commencement of this section.
+    (ii) after 15 November 2022.
+(1A) This section also applies when a court is sentencing an offender who—
+  (a) has been convicted of—
+    (i) an offence under any of the following Acts that is punishable by a term of imprisonment of 1 year or more:
+      (A) this Act:
+      (B) the Misuse of Drugs Act 1975:
+      (C) the Psychoactive Substances Act 2013; or
+    (ii) an offence against any of the following provisions of the Crimes Act 1961:
+      (A) the provisions of Part 8 (crimes against the person):
+      (B) the provisions of Part 10 (crimes against rights of property):
+      (C) the provisions of Part 11 (threatening, conspiring, and attempting to commit offences); and
+  (b) committed the offence—
+    (i) when aged 18 years or over; and
+    (ii) after the commencement of this subsection; and
+  (c) at the time of committing the offence was—
+    (i) a member of a gang or an organised criminal group; or
+    (ii) an associate of a gang or an organised criminal group.
 (2) The court may make an FPO against the offender if the court is satisfied, on the balance of probabilities, that the imposition of an FPO is necessary, reasonable, and appropriate to assist in managing the risk that the offender poses to public safety.
 
 ### 39B Effect of FPO
@@ -1491,8 +1518,19 @@ When making an FPO against an offender, the court may impose any 1 or more condi
 (2) If a court makes an FPO when imposing a custodial sentence on the offender, the FPO commences when the offender is released from custody (not being a temporary release under section 62 of the Corrections Act 2004).
 (3) An FPO continues in force for a period of 10 years unless sooner revoked by a court.
 
-### 39G Modifying or replacing FPO on subsequent conviction
-If a person who is subject to an FPO is subsequently convicted of an offence of the kind specified in section 39A(1)﻿(a), the court may, when sentencing the person in respect of that offence,—
+### 39FA Varying, modifying, or revoking FPOs
+(1) A person who is subject to an FPO may, at any time after the FPO has been in force for 5 years, apply to the court that made the FPO for an order—
+  (a) varying or modifying any of the conditions of the FPO; or
+  (b) revoking the FPO.
+(2) An application under subsection (1)﻿(a) or (b) may not be made in respect of an FPO if an application has previously been made under subsection (1)﻿(a) or (b) in respect of the FPO within the previous 2 years.
+(3) On an application made under subsection (1)﻿(a), the court may vary or modify any standard or special condition of the FPO if it is satisfied, on the balance of probabilities, that the condition is no longer reasonably necessary to prevent the applicant from accessing, possessing, or using any firearms or related items.
+(4) On an application made under subsection (1)﻿(b), the court may revoke the FPO if it is satisfied, on the balance of probabilities, that the FPO is no longer necessary, reasonable, and appropriate to assist in managing the risk that the applicant poses to public safety.
+
+### 39G Varying, modifying, or replacing FPO on subsequent conviction
+(1) This section applies if—
+  (a) a court is sentencing an offender in the circumstances described in section 39A(1) or (1A); and
+  (b) the offender is already subject to an FPO in respect of previous offending.
+(2) The court may—
   (a) vary or modify any of the existing conditions of the FPO; or
   (b) impose any special conditions, or additional special conditions; or
   (c) revoke the FPO and make a new FPO.
