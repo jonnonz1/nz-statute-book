@@ -5,7 +5,7 @@ _Consolidation as at 2025-03-12_
 This Act is the District Court (District Court Judges) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 13 March 2025.
 
 ### 3 Principal Act
 This Act amends the District Court Act 2016.
