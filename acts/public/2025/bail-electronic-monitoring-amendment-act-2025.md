@@ -5,7 +5,7 @@ _Consolidation as at 2025-03-12_
 This Act is the Bail (Electronic Monitoring) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 13 March 2025.
 
 ### 3 Principal Act
 This Act amends the Bail Act 2000.
