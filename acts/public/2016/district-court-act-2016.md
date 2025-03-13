@@ -1,5 +1,5 @@
 # District Court Act 2016
-_Consolidation as at 2022-12-01_
+_Consolidation as at 2025-03-13_
 
 ### 1 Title
 This Act is the District Court Act 2016.
@@ -143,11 +143,11 @@ The court has the following divisions:
   (b) nominating persons for appointment as a Judge.
 
 ### 12 Maximum number of Judges
-(1) The maximum number of Judges is 182.
+(1) The maximum number of Judges is 183.
 (2) For the purposes of subsection (1),—
   (a) a Judge who is acting on a full-time basis counts as 1:
   (b) a Judge who is acting on a part-time basis counts as an appropriate fraction of 1:
-  (c) the aggregate number (for example, 181.5) must not exceed the maximum number of Judges that is for the time being permitted.
+  (c) the aggregate number (for example, 182.5) must not exceed the maximum number of Judges that is for the time being permitted.
 
 ### 13 Appointment of Judge to sit in other jurisdiction or division of court
 (1) A Judge may be appointed to sit in another jurisdiction or division of the court by—
