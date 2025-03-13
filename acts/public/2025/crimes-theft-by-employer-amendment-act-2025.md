@@ -5,7 +5,7 @@ _Consolidation as at 2025-03-13_
 This Act is the Crimes (Theft by Employer) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
+This Act comes into force on 14 March 2025.
 
 ### 3 Principal Act
 This Act amends the Crimes Act 1961.
