@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-03-14_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -3320,6 +3320,8 @@ The enactments specified in Schedule 4 are hereby amended in the manner indicate
 | Use | None |  |
 | Decabromodiphenyl ether (BDE-209) present in commercial decabromodiphenyl ether CAS No: 1163-19-5 | Production | As allowed for the Parties listed in the Register |
 | Use | In accordance with Part IX of this Annex:Parts for use in vehicles specified in paragraph 2 of Part IX of this AnnexAircraft for which type approval has been applied for before December 2018 and has been received before December 2022 and spare parts for those aircraft Textile products that require anti-flammable characteristics, excluding clothing and toysAdditives in plastic housings and parts used for heating home appliances, irons, fans, immersion heaters that contain or are in direct contact with electrical parts or are required to comply with fire retardancy standards, at concentrations lower than 10 per cent by weight of the part Polyurethane foam for building insulation |  |
+| Dechlorane PlusCAS No: 13560-89-9“Dechlorane Plus” includes its syn-isomer (CAS No: 135821-03-3) and its anti-isomer (CAS No: 135821-74-8) | Production | None |
+| Use | In accordance with part XI of this Annex:AerospaceSpace and defence applicationsMedical imaging and radiotherapy devices and installationsReplacement parts for, and repair of, articles in applications in accordance with the provisions of paragraphs 2 and 3 of part XI of this Annex |  |
 | Dicofol CAS No. 115-32-2 CAS No. 10606-46-9 | Production | None |
 | Use | None |  |
 | Dieldrin*CAS No: 60-57-1 | Production | None |
@@ -3340,6 +3342,8 @@ The enactments specified in Schedule 4 are hereby amended in the manner indicate
 | Use | None |  |
 | Lindane*CAS No: 58-89-9 | Production | None |
 | Use | Human health pharmaceutical for control of head lice and scabies as second line treatment |  |
+| Methoxychlor*“Methoxychlor” refers to any possible isomer of dimethoxydiphenyltrichloroethane or any combination thereof.For example:CAS No: 72-43-5;CAS No: 30667-99-3;CAS No: 76733-77-2;CAS No: 255065-25-9;CAS No: 255065-26-0;CAS No: 59424-81-6;CAS No: 1348358-72-4. | Production | None |
+| Use | None |  |
 | Mirex*CAS No: 2385-85-5 | Production | As allowed for the Parties listed in the Register |
 | Use | Termiticide |  |
 | Pentachlorobenzene*CAS No: 608-93-5 | Production | None |
@@ -3362,6 +3366,8 @@ The enactments specified in Schedule 4 are hereby amended in the manner indicate
 | Use | Articles in accordance with the provisions of Part IV of this Annex |  |
 | Toxaphene*CAS No: 8001-35-2 | Production | None |
 | Use | None |  |
+| UV-328CAS No: 25973-55-1 | Production | As allowed for the Parties listed in the Register in accordance with the provisions of part XII of this Annex |
+| Use | In accordance with part XII of this Annex:Parts of motor vehicles (covering all land-based vehicles, such as cars, motorcycles, agricultural and construction vehicles and industrial trucks), such as bumper systems, radiator grills, spoilers, car garnish, roof modules, soft/hard tops, trunk lids and rear window wipersIndustrial coating applications for motor vehicles, engineering machines, rail transportation vehicles, and heavy-duty coatings for large steel structuresMechanical separators in blood collection tubesTriacetyl cellulose (TAC) film in polarizersPhotographic paperReplacement parts for articles in applications in accordance with the provisions of paragraphs 2 and 3 of part XII of this Annex |  |
 
 ### 1.
 A Party may allow recycling of articles that contain or may contain hexabromodiphenyl ether and heptabromodiphenyl ether, and the use and final disposal of articles manufactured from recycled materials that contain or may contain hexabromodiphenyl ether and heptabromodiphenyl ether, provided that:
@@ -3521,6 +3527,7 @@ Each Party that has registered for an exemption pursuant to Article 4 for the us
 | ChlordeconeCAS No: 143-50-0 |  |  |  |
 | DDT (1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane)CAS No: 50-29-3 |  |  |  |
 | Decabromodiphenyl ether (BDE-209) present in commercial decabromodiphenyl ether CAS No: 1163-19-5 | aparts for use in vehicles, including vehicles containing those parts:baircraft for which type approval has been applied for before December 2018 and has been received before December 2022 and spare parts for those aircraft:carticles where DecaBDE has been used as an additive in plastics (such as in electrical and electronic equipment, wires, cables, and pipes), in textiles (such as in carpets, upholstery, window blinds and curtains, and mattresses), and in adhesives, sealants, and coatings—present in New Zealand before 18 December 2018 |  | aend of the service life of vehicles or in 2036, whichever comes earlier:bend of the service life of those aircraft:c(no expiry date) |
+| Dechlorane Plus CAS No: 13560-89-9“Dechlorane Plus” includes its syn-isomer (CAS No: 135821-03-3) and its anti-isomer (CAS No: 135821-74-8) | aaerospace applications:bspace applications:cdefence applications:dmedical imaging and radiotherapy devices and installations:ereplacement parts for, and repair of, articles where Dechlorane Plus was used in the manufacture of those articles in the following applications:iaerospace:iispace:iiidefence:ivland-based motor vehicles:vstationary industrial machines for use in agriculture, forestry, and construction:vimarine, garden, forestry, and outdoor power equipment:viiinstruments for analysis, measurements, control, monitoring, testing, production, and inspection (other than for medical devices or in-vitro diagnostic devices):freplacement parts for, and repair of, articles where Dechlorane Plus was used in the manufacture of those articles in the following applications:imedical devices:iiin-vitro diagnostic devices:garticles where Dechlorane Plus has been used as an additive in adhesives, sealants, polymers, cables and wires, wire harnesses, and connectors (in applications such as land-based motor vehicles, power equipment, industrial machinery, marine machinery, garden machinery, forestry machinery, medical equipment, aerospace, defence, electrical equipment, electronic equipment, air conditioning, and heat pumps) present in New Zealand on or before 26 February 2025 |  | a25 February 2030:b25 February 2030:c25 February 2030:d25 February 2030:eend of the service life of the articles or 31 December 2043, whichever comes earlier:fend of the service life of the articles:g(no expiry date) |
 | Dicofol CAS No. 115-32-2 CAS No. 10606-46-9 |  |  |  |
 | DieldrinCAS No: 60-57-1 |  |  |  |
 | EndrinCAS No: 72-20-8 |  |  |  |
@@ -3531,6 +3538,7 @@ Each Party that has registered for an exemption pursuant to Article 4 for the us
 | HexachlorobenzeneCAS No: 118-74-1 |  |  |  |
 | Hexachlorobutadiene CAS No: 87-68-3 |  |  |  |
 | LindaneCAS No: 58-89-9 | In accordance with an exemption registered under article 4 of the Stockholm Convention:Human health pharmaceutical for control of head lice and scabies as second line treatment |  | 25 August 2015 |
+| Methoxychlor“Methoxychlor” refers to any isomer of dimethoxydiphenyltri-chloroethane or any combination of isomersFor example:CAS No: 72-43-5;CAS No: 30667-99-3;CAS No: 76733-77-2;CAS No: 255065-25-9;CAS No: 255065-26-0;CAS No: 59424-81-6;CAS No: 1348358-72-4 |  |  |  |
 | MirexCAS No: 2385-85-5 |  |  |  |
 | PentachlorobenzeneCAS No: 608-93-5 |  |  |  |
 | Pentachlorophenol and its salts and esters |  |  |  |
@@ -3545,6 +3553,7 @@ Each Party that has registered for an exemption pursuant to Article 4 for the us
 | Technical endosulfan (CAS No: 115-29-7) and its related isomers (CAS No: 959-98-8 and CAS No: 33213-65-9) |  |  |  |
 | Tetrabromodiphenyl ether and pentabromodiphenyl ether |  |  |  |
 | ToxapheneCAS No: 8001-35-2 |  |  |  |
+| UV-328CAS No: 25973-55-1Phenol, 2-(2H-benzotriazol-2-yl)-4,6-bis(1,1-dimethylpropyl)- | aparts of land-based motor vehicles:bindustrial coating applications for land-based motor vehicles, engineering machines, and rail transportation vehicles, and heavy-duty coatings for large steel structures:cmechanical separators in blood collection tubes:dtriacetyl cellulose (TAC) film in polarizers:ephotographic paper:freplacement parts for articles where UV-328 was used in the manufacture of those articles in the following applications:iland-based motor vehicles:iistationary industrial machines for use in agriculture, forestry, and construction:iiiliquid crystal displays in instruments for analysis, measurements, control, monitoring, testing, production, and inspection (other than for medical applications):greplacement parts for articles where UV-328 was used in the manufacture of those articles in the following applications for medical purposes:iliquid crystal displays in medical devices and in-vitro diagnostic devices:iiliquid crystal displays in instruments for analysis, measurements, control, monitoring, testing, production, and inspection:harticles where UV-328 has been used as an additive in paints, coatings, sealants, adhesives, plastics and rubbers, printing inks, cooling and hydraulic liquids, lubricants, and construction materials (in applications such as land-based motor vehicles, industrial machinery, electrical equipment, electronic equipment, medical and analytical equipment, air conditioning, and heat pumps) present in New Zealand on or before 26 February 2025 |  | a25 February 2030:b25 February 2030:c25 February 2030:d25 February 2030:e25 February 2030:fend of the service life of the articles or 31 December 2043, whichever comes earlier:gend of the service life of the articles:h(no expiry date) |
 
 ## Schedule 3
 
