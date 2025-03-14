@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2024-10-01_
+_Consolidation as at 2025-03-14_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -19,7 +19,7 @@ _Consolidation as at 2024-10-01_
   - **constable** has the meaning given in section 4 of the Policing Act 2008
   - **crime involving dishonesty** means any of the crimes or offences described in—
     (a) sections 100 to 105F:
-    (b) Part 10, except sections 267 to 272, 298A, and 298B:
+    (b) Part 10, except sections 220AA, 267 to 272, 298A, and 298B:
     (c) the Secret Commissions Act 1910
   - **criminally responsible** means liable to punishment for an offence
   - **day** , or , means the interval between 6 o'clock in the morning of any day and 9 o'clock at night of the same day
@@ -2168,6 +2168,18 @@ In this Part, unless the context otherwise requires,—
 (2) Every one to whom subsection (1) applies commits theft who intentionally fails to account to the other person as so required or intentionally deals with the property, or any proceeds of the property, otherwise than in accordance with those requirements.
 (3) This section applies whether or not the person was required to deliver over the identical property received or in the person's possession or control.
 (4) For the purposes of subsection (1), it is a question of law whether the circumstances required any person to account or to act in accordance with any requirements.
+
+### 220AA Theft by employer
+(1) This section applies to a person (A) who—
+  (a) employs another person (B); and
+  (b) is required to pay any money owed to B in relation to the employment under—
+    (i) an employment agreement (whether or not the agreement is in writing); or
+    (ii) an Act (for example, the Holidays Act 2003, the Minimum Wage Act 1983, or the Wages Protection Act 1983).
+(2) A commits theft if A intentionally fails, without reasonable excuse, to pay the money to B.
+(3) In this section,—
+  - **employ** , in relation to a homeworker, includes engage, and has a corresponding meaning
+  - **employment agreement** has the same meaning as in section 5 of the Employment Relations Act 2000
+  - **homeworker** has the same meaning as in section 5 of the Employment Relations Act 2000.
 
 ### 220A Theft of livestock and other animals
 A person commits theft and is liable to imprisonment for a term not exceeding 7 years if they steal any livestock or any other animal that is the property of any other person.
