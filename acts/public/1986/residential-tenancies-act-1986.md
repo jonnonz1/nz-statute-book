@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2025-01-30_
+_Consolidation as at 2025-03-20_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -108,7 +108,8 @@ _Consolidation as at 2025-01-30_
   - **service tenancy** means a tenancy granted under a term of, or otherwise as an incident of, a contract of service or a contract for services between the landlord as employer and the tenant as employee or contractor, whether or not a separate tenancy agreement is concluded in writing between the parties, and whether or not any rent is payable for the tenancy; and includes—
     (a) any tenancy of that kind granted under or in accordance with any enactment; and
     (b) any tenancy of that kind granted by a company to an employee or contractor of an associated company (within the meaning of subsection (2)); and
-    (c) any tenancy granted by the Armed Forces to any person subject to the Armed Forces Discipline Act 1971
+    (c) any tenancy granted by the Armed Forces to any person subject to the Armed Forces Discipline Act 1971; and
+    (d) any tenancy granted by the Crown as an incident of a contract of service or a contract for services between a school board and an employee or contractor of the school board (in which case, a reference to landlord in relation to a service tenancy includes the school board where the context requires)
   - **tenancy** , in relation to any residential premises, means the right to occupy the premises (whether exclusively or otherwise) in consideration for rent; and includes any tenancy of residential premises implied or created by any enactment; and, where appropriate, also includes a former tenancy
   - **tenancy agreement** , in relation to any residential premises, means any express or implied agreement under which any person, for rent, grants or agrees to grant to any other person a tenancy of the premises; and, where appropriate, includes a former tenancy agreement and any variation of a tenancy agreement
   - **Tenancy Mediator** means a Tenancy Mediator appointed under section 76
@@ -206,7 +207,7 @@ This Act applies to every tenancy for residential purposes except as specificall
   (x) if the lease is of land on which a dwellinghouse is erected and the lessee is entitled (whether beneficially or as trustee), on or before the termination of the tenancy, to remove the dwellinghouse or to receive compensation in respect of it:
   (y) if the premises are used to provide emergency or transitional accommodation and—
     (i) the provision of the accommodation is funded wholly or partly by—
-      (A) emergency housing assistance paid to or for the credit of a person under the Special Needs Grants Programme; or
+      (A) emergency housing assistance paid to or for the credit of a person under a welfare programme approved and established under section 101 of the Social Security Act 2018; or
       (B) any other payment made by a government department for the provision of emergency or transitional accommodation to people in need of housing; or
     (ii) the provider of the accommodation is a person, or class of person, prescribed by regulations for the purposes of this paragraph.
 (2)
@@ -214,7 +215,7 @@ This Act applies to every tenancy for residential purposes except as specificall
   (a) is located in a camping-ground subject to regulations under the Health Act 1956; and
   (b) is designed to be relocatable; and
   (c) comprises a group of rooms occupied or intended to be occupied either permanently or temporarily as the living quarters of a single housekeeping unit (whether consisting of 1 or more persons), which is completely self-contained in respect of domestic equipment and facilities.
-(4) In subsection (1)﻿(y), Special Needs Grants Programme means the Special Needs Grants Programme approved and established under section 124(1)﻿(d) of the Social Security Act 1964 (and continued under clause 21 of Schedule 1 of the Social Security Act 2018).
+(4)
 
 ### 5A Certain excluded long fixed-term tenancies remain subject to repealed sections of Property Law Act 1952
 (1) This section applies to a fixed-term tenancy of at least 5 years, and to which this Act does not apply because the tenancy—
@@ -371,7 +372,8 @@ Where, in any proceedings before the Tribunal, any party contends that this Act 
 (1) For the purposes of this Act, an address for service means an address given by the landlord or tenant under this Act as an address at which notices and other documents relating to the tenancy will be accepted by or on behalf of the landlord or tenant, as the case may be.
 (2) Whenever a party is required to give an address for service, the party—
   (a) must give an address of a physical place in New Zealand; and
-  (b) may, in addition, specify a Post Office box number, email address, or facsimile number as one of the party’s addresses for service.
+  (b) may, in addition, specify a Post Office box number or electronic address as one of the party’s addresses for service.
+(3) In this section, electronic address means an email address, facsimile number, mobile telephone number, or instant messaging account through which information transmitted is readily accessible for subsequent reference.
 
 ### 13B Variations and renewals of tenancy agreements
 (1) Every variation of a tenancy agreement, and every renewal of a tenancy agreement, shall be in writing and signed by both the landlord and the tenant.
@@ -482,7 +484,7 @@ Sections 13 to 13B (and, in the case of a boarding house tenancy, section 66C) d
 
 ### 19 Duties of landlord on receipt of bond
 (1) Where any person pays to the landlord, or to any other person on behalf of the landlord, any amount by way of bond (whether the amount is for the whole or part of the bond), the following provisions shall apply:
-  (a) the person who receives the payment shall forthwith give to the payer a written receipt, signed by that person, showing—
+  (a) as soon as practicable after receiving the payment, the person who receives it must give to the payer a written receipt, signed by that person, showing—
     (i) the address of the premises to which the payment relates; and
     (ii) the amount and nature of the payment; and
     (iii) the date of the payment; and
@@ -640,7 +642,7 @@ If the parties to a tenancy agree that, during a specified period or until the o
 
 ### 26 Duration of order determining market rent
 (1) Subject to the succeeding provisions of this section, every order made by the Tribunal under section 25 shall continue in force—
-  (a) in the case of a periodic tenancy, for a period of 6 months or such shorter period as the Tribunal may specify in the order; or
+  (a) in the case of a periodic tenancy, for a period of 1 year or such shorter period as the Tribunal may specify in the order; or
   (b) in the case of a fixed-term tenancy, for such period as the Tribunal may specify in the order.
 (2) The Tribunal may at any time, on the application of the landlord or the tenant, rehear any application made under section 25 if, in respect of any order made on that application, the Tribunal is satisfied that—
   (a) the order was procured by fraud or other dishonest conduct; or
@@ -843,6 +845,14 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
   (a) the purchaser’s contact mobile telephone number (if any):
   (b) the purchaser’s contact email address (if any).
 (2) Nothing in subsection (1)﻿(a) or (1A) shall absolve the purchaser from the obligation imposed on the purchaser by section 15.
+
+### 43AA Tenancy agreement may prohibit smoking
+(1) A tenancy agreement may prohibit a tenant from smoking a smoked tobacco product in any part of the premises that is indoors.
+(2) A tenancy agreement may prohibit a tenant from smoking a smoked tobacco product in any other part of the premises only if the prohibition is consistent with the parties’ rights and obligations under this Act.
+(3) In this section,—
+  - **indoors** does not include outbuildings
+  - **premises** includes facilities
+  - **smoked tobacco product** has the meaning given in section 2(1) of the Smokefree Environments and Regulated Products Act 1990.
 
 ### 43A Effect of provision prohibiting assignment by tenant
 (1) A provision in a tenancy agreement that prohibits the tenant from assigning the tenancy is of no effect.
@@ -1253,7 +1263,9 @@ With the consent of the Tribunal, the parties to a tenancy agreement may provide
 
 ### 56B Withdrawal from tenancy following family violence
 (1) A tenant under a fixed-term or periodic tenancy may withdraw from the tenancy by giving at least 2 days’ notice to the landlord if—
-  (a) the notice is accompanied by qualifying evidence that the tenant has been a victim of family violence while a tenant of the premises; and
+  (a) the notice is accompanied by qualifying evidence that either or both of the following apply:
+    (i) the tenant has been a victim of family violence while a tenant of the premises:
+    (ii) the tenant’s dependant has been a victim of family violence while residing at the premises with the tenant; and
   (b) the notice is in the approved form and includes the prescribed information.
 (2) If there are no other tenants under the tenancy at the time of the withdrawal, the tenancy terminates.
 (3) If there are other tenants (remaining tenants) under the tenancy at the time of the withdrawal,—
@@ -2008,8 +2020,11 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
 (5) Despite subsection (1), the Tribunal does not have jurisdiction to require any party to pay any sum, or to do any work to a value, or otherwise to incur any expenditure, in excess of $100,000.
 (6) Subsection (5) shall not prevent a party from abandoning so much of a claim as exceeds $100,000 in order to bring the claim within the jurisdiction of the Tribunal; and, in any such case, an order of the Tribunal under this Act in relation to the claim shall operate to discharge from liability in respect of the amount so abandoned any person against whom the claim and the subsequent order is made.
 (7) Subsection (5) does not affect a claim relating to a tenancy that is for a balance of not more than $100,000 that results from a set-off or any counterclaim in respect of the same tenancy, if the set-off or counterclaim is admitted by the claimant in the notice of claim.
+(7AA) If the chief executive files an application under section 86(1A) that relates to 2 or more tenancies or proceedings are consolidated under section 124B(4), subsection (5) does not prevent the Tribunal from requiring a party to pay any sum, or to do any work to a value, or otherwise to incur any expenditure, in excess of $100,000 so long as the amount required in respect of each tenancy does not exceed $100,000.
 (7A) The Tribunal does not have jurisdiction to consent to a person charging a tenant a letting fee.
-(7B) The Tribunal does not have jurisdiction to determine a dispute so far as it raises a question as to whether a tenant of premises who gave notice accompanied by qualifying evidence under section 56B was in fact a victim of family violence while a tenant of the premises.
+(7B) The Tribunal does not have jurisdiction to determine a dispute so far as it raises a question as to whether, in respect of a tenant who gives notice accompanied by qualifying evidence under section 56B,—
+  (a) the tenant has been a victim of family violence while a tenant of the premises; or
+  (b) the tenant’s dependant has been a victim of family violence while residing at the premises with the tenant.
 (8) A cause of action shall not be divided into 2 or more claims for the purpose of bringing it within the jurisdiction of the Tribunal.
 
 ### 78 Orders of Tribunal
@@ -2210,7 +2225,7 @@ If a dispute or part of a dispute raises a question as to the landlord’s condu
   (b) a reference to the relevant provision of the Act or regulations under the authority of which the hearing will be held:
   (c) a statement of where information on the procedure of the Tribunal may be obtained:
   (d) a statement warning each party to whom the notice is given that if that party does not attend the hearing, the Tribunal may proceed to determine, dismiss, or adjourn the matter in that party's absence.
-(3) This section is subject to section 91AA.
+(3) This section is subject to section 91AA and 91AB.
 
 ### 91AA Process for determining abandonment applications within 10 working days without hearing
 (1) This section applies if a landlord who files an application under section 61(1) (the abandonment application) in accordance with section 86 states in the abandonment application that the landlord wants the abandonment application to be dealt with under this section.
@@ -2229,6 +2244,14 @@ Stage 2
 (6) For the purposes of subsection (5)﻿(a), the Tribunal may treat the tenant as not wanting to contest the abandonment application if the tenant does not, within a period determined by the Tribunal, respond to the steps taken by the Tribunal under subsection (3) or respond to those steps in a way required by the Tribunal.
 (7) If the Tribunal decides that it is not satisfied of both of the matters in subsection (5), the Tribunal must proceed with the abandonment application in accordance with section 91.
 
+### 91AB Decision on papers
+(1) Despite anything to the contrary elsewhere in this Act, the Tribunal may decide a proceeding on the papers if the Tribunal considers it appropriate, except in the circumstances set out in subsection (2).
+(2) The Tribunal must not decide a proceeding on the papers if the proceeding involves—
+  (a) the termination of a tenancy; or
+  (b) a landlord’s entry to the premises under section 48 or entry to a boarding room under section 66R.
+(3) Before deciding a proceeding on the papers, the Tribunal must have regard to any views that may be provided by the parties on whether the proceeding should be dealt with on the papers.
+(4) This section does not apply if section 91AA applies.
+
 ### 91A Service on tenants following application
 (1) If a landlord files an application within 2 months after the termination of the tenancy to which it relates, any notice or other document required to be served on the tenant in connection with the application is deemed to have been properly served on the tenant if—
   (a) it is sent by post addressed to the tenant at the address or the Post Office box given by the tenant as an address for service in accordance with this Act or to a contact address that the tenant has supplied to the landlord in writing within the 2 months before the application; or
@@ -2240,7 +2263,9 @@ Stage 2
   (a) personally; or
   (b) by posting it to a contact address that the tenant has supplied to the landlord in writing within the 2 months before the application; or
   (c) by delivering it to the place where the tenant now lives and giving it to any person appearing to be aged 16 years or older who appears to be residing at that place and who confirms that the tenant resides there; or
-  (d) by giving it to any solicitor or other agent of the tenant duly authorised by the tenant to receive service on his or her behalf.
+  (d) by giving it to any solicitor or other agent of the tenant duly authorised by the tenant to receive service on his or her behalf; or
+  (e) if the landlord files the application no later than 2 years after the termination of the tenancy to which it relates, by transmission to an email address given by the tenant as an address for service; or
+  (f) if the landlord files the application more than 2 years after the termination of the tenancy to which it relates, by transmission to an email address that the tenant has used to communicate with the landlord, or otherwise supplied to the landlord in writing, within the 2 years before the application.
 (3) This section overrides section 136(1) and (2).
 
 ### 91B Substituted service, etc
@@ -3040,7 +3065,7 @@ Any amount that is, by virtue of any provision of this Act or of any order of th
   (ba) if the landlord is a company, it may be sent by post addressed to the landlord at the address of the landlord’s registered office:
   (c) it may be delivered to the premises to which any address for service relates, and either placed in the mailbox or attached to the door in a prominent position:
   (ca) if the landlord is a company, it may be delivered to the landlord’s registered office, and either placed in the mailbox or attached to the door in a prominent position:
-  (d) it may be transmitted to the email address or facsimile number given by the landlord or the tenant as an address for service.
+  (d) it may be transmitted to the electronic address given by the landlord or the tenant as an address for service.
 (2) Without limiting the provisions of subsection (1), any notice or other document required or authorised by this Act to be given to or served upon any tenant may be served on a tenant:
   (a) at the premises to which the tenancy agreement relates, if the tenant resides at those premises, as follows:
     (i) by posting it addressed to the tenant at those premises; or
@@ -3062,11 +3087,9 @@ Any amount that is, by virtue of any provision of this Act or of any order of th
 (6) Where any document is sent by post in accordance with any of the foregoing provisions of this section, it shall be deemed, in the absence of evidence to the contrary, to have been given or served on the fourth working day after the date on which it was posted; and, in proving service, it shall be sufficient to prove that the letter was properly addressed and posted.
 (7) Where any document is delivered to any address in accordance with any of the foregoing provisions of this section, it shall be deemed, in the absence of evidence to the contrary, to have been given or served on the second working day after the date on which it was delivered; and, in proving service, it shall be sufficient to prove that the letter was properly addressed and delivered.
 (7A) Section 56C overrides subsections (6) and (7) in relation to the giving of a notice of withdrawal under section 56B(1) and (3)﻿(c) and accompanying qualifying evidence under section 56B(1)﻿(a).
-(8) Where any document is transmitted by facsimile in accordance with this section after 5 pm on any day, it shall be deemed, in the absence of evidence to the contrary, to have been given or served on the next working day after the date on which it was transmitted; and, in proving service, it shall be sufficient to prove that the document was properly transmitted by facsimile machine to the person concerned.
-(9) Where any document is transmitted by email in accordance with this section after 5 pm on any day, it is to be treated, in the absence of evidence to the contrary, to have been given or served on the next working day after the date on which it was transmitted.
-(10) In proving service of a document transmitted by email, it is sufficient to prove that the email was—
-  (a) properly addressed to the email address in question; and
-  (b) properly transmitted with the document to that email address.
+(8) If any document is transmitted to an electronic address in accordance with this section after 5 pm on any day, it is to be treated, in the absence of evidence to the contrary, as having been given or served on the next working day after the date on which it was transmitted.
+(9)
+(10) In proving service of a document transmitted to an electronic address, it is sufficient to prove that the document was properly transmitted to that address.
 (11) Nothing in this section applies to the service of infringement notices (see section 126F).
 
 ### 136A Calculation of periods
@@ -3128,7 +3151,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (b) include exceptions to standards.
 (5) The Governor-General may, by Order in Council, make regulations—
   (a) prescribing information relating to the healthy homes standards that must be included in a landlord’s statement for the purposes of section 13A(1CA)﻿(b) or (1CB)﻿(b):
-  (b) prescribing the records or other documents that must be retained by a landlord for the purposes of section 123A(1)﻿(ca) (which may include records or other documents relating to work or other things done before the commencement of the tenancy).
+  (b) prescribing the records or other documents that must be retained by a landlord for the purposes of section 123A(1)﻿(e) (which may include records or other documents relating to work or other things done before the commencement of the tenancy).
 (6) Regulations under this section may—
   (a) make different provisions for different descriptions of landlords, premises, areas in New Zealand, or other circumstances:
   (b) make provisions applying to all landlords or provisions that apply only to particular descriptions of landlords, premises, areas in New Zealand, or other circumstances.
