@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2025-03-29_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -280,7 +280,7 @@ Acute treatment, in relation to a claimant, means—
   (ab) any payment paid under the Compensation for Live Organ Donors Act 2016; or
   (b) any student allowance established in accordance with regulations made under section 645 of the Education and Training Act 2020; or
   (c) any amount allocated to a person or persons, other than the person who is the employee in question, under sections CD 11, CW 63, DB 58, GB 23, and GB 24 of the Income Tax Act 2007; or
-  (cb) any benefit arising from a employee share scheme under section CE 2 of the Income Tax Act 2007 when the employer makes an election under section RD 7B of that Act to withhold and pay tax in relation to the benefit; or
+  (cb) any benefit arising from a employee share scheme under section CE 2 of the Income Tax Act 2007; or
   (d) any amount deemed to be a dividend paid by any person, to the person who is the employee in question, under section GB 25 of the Income Tax Act 2007; or
   (e) any redundancy payment; or
   (f) any retiring allowance; or
@@ -325,7 +325,7 @@ The Corporation must treat the earnings of a private domestic worker as earnings
 (6) The dividend of the person as a shareholder of the company is determined by the Corporation in the following way:
   (a) first, determine the total amount the company pays or provides to the person in any capacity in the tax year; and
   (b) second, deduct the subsection (3) amount from that total amount, and the result is the dividend of the person as a shareholder of the company and is not earnings of the person.
-(7) For the purposes of this section, earnings as a shareholder-employee do not include a benefit arising under section CE 2(2) or (4) of the Income Tax Act 2007 in relation to which an employer has made an election under section RD 7B to withhold an amount of tax.
+(7) For the purposes of this section, earnings as a shareholder-employee do not include a benefit arising from an employee share scheme under section CE 2 of the Income Tax Act 2007.
 
 ### 16 New Zealand
 (1) New Zealand means—
