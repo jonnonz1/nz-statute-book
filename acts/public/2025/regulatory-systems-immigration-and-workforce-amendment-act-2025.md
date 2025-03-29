@@ -5,8 +5,8 @@ _Consolidation as at 2025-03-29_
 This Act is the Regulatory Systems (Immigration and Workforce) Amendment Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after Royal assent, with some exceptions.
-(2) Sections 19 and 64 come into force on 1 April 2025.
+(1) This Act comes into force on 30 March 2025, with some exceptions.
+(2) Sections 19, 64, and 65 come into force on 1 April 2025.
 (3) Sections 47 to 53 come into force on 1 July 2025.
 
 ## Part 1 — Amendments to Electricity Act 1992
