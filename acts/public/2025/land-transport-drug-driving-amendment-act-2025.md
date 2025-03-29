@@ -5,7 +5,7 @@ _Consolidation as at 2025-03-29_
 This Act is the Land Transport (Drug Driving) Amendment Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on a single date set by Order in Council.
+(1) This Act comes into force on a single date set by Order in Council.The following table is small in size and has 3 columns that are grouped under the heading Provisions commenced by Order in Council.Provisions commenced by Order in CouncilProvisionsCommencement dateOrder in CouncilThis Act15 December 2025Clause 2 of the Land Transport (Drug Driving) Amendment Act 2025 Commencement Order 2025This note is not part of the Act.
 (2) If this Act has not come into force by 1 April 2026, it comes into force then.
 (3) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
