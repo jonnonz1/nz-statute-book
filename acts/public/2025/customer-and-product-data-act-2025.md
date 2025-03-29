@@ -5,7 +5,7 @@ _Consolidation as at 2025-03-29_
 This Act is the Customer and Product Data Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 30 March 2025.
 
 ## Part 1 — Preliminary provisions
 
