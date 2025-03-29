@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2024-03-28_
+_Consolidation as at 2025-03-29_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -6504,7 +6504,7 @@ Deduction
   (b) interest on money borrowed for the purposes of the business and employed as capital in the business:
   (c) planting or maintaining trees on the land:
   (d) applying fertiliser after the planting of the trees:
-  (e) disease control, pest control, or weed control (excluding releasing):
+  (e) disease control, pest control, or weed control:
   (f) repair or maintenance of plant, machinery, or equipment used by the person mainly in—
     (i) planting or maintaining trees on the land; or
     (ii) preparing or otherwise developing the land for the person's forestry operations:
@@ -27620,7 +27620,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
   - **business premises** is defined in section DD 11 (Some definitions) for the purposes of subpart DD (Entertainment expenditure)
   - **business purposes** has the same meaning as business use
   - **business tool** means an item that is used by an employee in the performance of their work duties and in the absence of section CX 18B (Business tools) would give rise to an unclassified benefit
-  - **business use** , for a motor vehicle and for a person, means travel undertaken by the vehicle wholly in deriving the person's income
+  - **business use** , for a motor vehicle and for a person, means travel undertaken by the vehicle wholly and exclusively in deriving the person's income
   - **calculation method** , for the calculation of FIF income or FIF loss, means any of the accounting profits method, the branch equivalent method, the comparative value method, the deemed rate of return method, the fair dividend rate method, and the cost method
   - **cancellation** , for a company and for a share, means the acquisition, redemption, or other cancellation of the whole share by the company, including on the liquidation of a company, and when a stapled debt security ceases to be a share
   - **capital limitation** is defined in section DA 2(1) (General limitations)
