@@ -5,18 +5,18 @@ _Consolidation as at 2025-03-29_
 This Act is the Regulatory Systems (Economic Development) Amendment Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after Royal assent.
-(2) However,—
+(1) This Act comes into force on 30 March 2025.
+(2) However,—The following table is small in size and has 3 columns that are grouped under the heading Provisions commenced by Order in Council.Provisions commenced by Order in CouncilProvisionsCommencement dateOrder in CouncilPart 1522 October 2025Clause 2 of the Regulatory Systems (Economic Development) Amendment Act 2025 (Amendments to Motor Vehicle Sales Act 2003) Commencement Order 2025This note is not part of the Act.
   (a) the following come into force on 1 or more dates set by Order in Council:
     (i) sections 85 and 86:
     (ii) sections 89 to 94:
     (iii) section 103(5):
     (iv) sections 104 and 105:
     (v) Part 15; and
-  (b) Part 10 comes into force 6 months after Royal assent; and
-  (c) section 132 comes into force 3 months after Royal assent; and
-  (d) Part 19 comes into force 4 months after Royal assent.
-(3) Any part of this Act that has not come into force on the third anniversary of Royal assent comes into force then.
+  (b) Part 10 comes into force on 29 September 2025; and
+  (c) section 132 comes into force on 29 June 2025; and
+  (d) Part 19 comes into force on 29 July 2025.
+(3) Any part of this Act that has not come into force on 29 March 2028 comes into force then.
 (4) Orders made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Amendments to Auctioneers Act 2013
@@ -562,7 +562,7 @@ In section 461D, replace qualified auditor with qualified FMC auditor.
 (4) In Schedule 4,—
   (a) insert the Part set out in Schedule 4 of this Act as the last Part; and
   (b) make all necessary consequential amendments.
-(5) In Schedule 4, after clause 100 (as inserted by subsection (4)), insert:Unfair contract terms in existing standard form contracts
+(5) In Schedule 4, after clause 102 (as inserted by subsection (4)), insert:Unfair contract terms in existing standard form contracts
   (1) The prohibitions in section 32A do not apply to the following contracts:
     (a) a contract entered into before the commencement date and not varied or renewed on or after that date:
     (b) a relevant insurance agreement.
