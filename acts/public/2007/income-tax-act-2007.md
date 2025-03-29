@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2025-02-02_
+_Consolidation as at 2025-03-29_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -335,7 +335,7 @@ An amount that a person derives from disposing of personal property is income of
 Income if land disposed of within 2 years
 (1) An amount that a person derives from disposing of residential land is income of the person if the person’s bright-line end date is within 2 years of their bright-line start date.
 Meaning of bright-line start date
-(2) A person’s bright-line start date for their disposal of residential land is given in column 3 of the following table if the condition in column 2 of the relevant row is met for the person and the disposal:The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Condition to be satisfied. Column 3 is headed Bright-line start date for person’s disposal of residential land.RowCondition to be satisfiedBright-line start date for person’s disposal of residential land1If none of the other rows applyThe date on which the instrument to transfer the land to the person was registered under the Land Transfer Act 20172Land outside New ZealandThe date on which the instrument to transfer the land to the person was registered under foreign laws of a similar nature to the Land Transfer Act 20173An instrument to transfer the land to the person was not registered before the person’s bright-line end dateThe date the person acquired an estate or interest in the land under section CB 15B4The land was acquired from another person on completion of a land development or subdivisionThe date the sale and purchase agreement for the developed or subdivided land was entered into5The land results from the person subdividing their land (the undivided land)The person’s bright-line start date for the undivided land6The land is a freehold estate converted from a lease with perpetual right of renewalThe date of the grant of the leasehold estate7A joint tenancy is converted to a tenancy in common or a tenancy in common is converted to a joint tenancyTo the extent the person’s share or notional share in the land is unchanged, the person’s bright-line start date for the land before the conversion8A change of trusteesWhere land is transferred from a trustee of a trust (trustee A) to another trustee of the trust (trustee B) as a result of a change in trustees, trustee B’s bright-line start date is the bright-line start date trustee A had for the landHow to use this table: Read column 2 from top to bottom to find the condition that applies. For the condition in column 2 that is met, the person’s bright-line start date is the date in column 3 of that same row.
+(2) A person’s bright-line start date for their disposal of residential land is given in column 3 of the following table if the condition in column 2 of the relevant row is met for the person and the disposal:The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Condition to be satisfied. Column 3 is headed Bright-line start date for person’s disposal of residential land.RowCondition to be satisfiedBright-line start date for person’s disposal of residential land1If none of the other rows applyThe date on which the instrument to transfer the land to the person was registered under the Land Transfer Act 20172Land outside New ZealandThe date on which the instrument to transfer the land to the person was registered under foreign laws of a similar nature to the Land Transfer Act 20173An instrument to transfer the land to the person was not registered before the person’s bright-line end dateThe date the person acquired an estate or interest in the land under section CB 15B4The land was acquired from another person on completion of a land development or subdivisionThe date the sale and purchase agreement for the developed or subdivided land was entered into5The land results from the person subdividing their land (the undivided land)The person’s bright-line start date for the undivided land5BThe land results from the person subdividing land they co-ownThe date given by section CW 3C (Certain partitions or subdivisions of land)6The land is a freehold estate converted from a lease with perpetual right of renewalThe date of the grant of the leasehold estate7A joint tenancy is converted to a tenancy in common or a tenancy in common is converted to a joint tenancyTo the extent the person’s share or notional share in the land is unchanged, the person’s bright-line start date for the land before the conversion8A change of trusteesWhere land is transferred from a trustee of a trust (trustee A) to another trustee of the trust (trustee B) as a result of a change in trustees, trustee B’s bright-line start date is the bright-line start date trustee A had for the landHow to use this table: Read column 2 from top to bottom to find the condition that applies. For the condition in column 2 that is met, the person’s bright-line start date is the date in column 3 of that same row.
 Transfers of land to and from existing landowners
 (3) For the purposes of subsection (2), when a person who owns land (pre-existing land) has more land transferred to them (the transferred land) or transfers part of their pre-existing land (also the transferred land) to another person, the instrument of transfer for the transferred land is treated as being for the transferred land only and not being for the pre-existing land.
 Meaning of bright-line end date
@@ -347,10 +347,14 @@ Meaning of bright-line end date
     (iv) if there is a mortgage secured on the land, the date on which the land is disposed of by or for the mortgagee because the mortgagor defaulted; or
   (b) if none of paragraph (a)﻿(i) to (iv) apply, the date on which the estate or interest in the land is disposed of.
 When this section does not apply
-(5) This section does not apply to a person’s disposal of residential land if—
-  (a) any of sections CB 6 to CB 12 apply:
-  (b) section CB 16A applies:
-  (c) section FC 9 (Residential land transferred to executor, administrator, or beneficiary on death of person) applies.
+(5) This section does not apply—
+  (a) to a disposal of land by—
+    (i) an executor or administrator who acquired the land in the circumstances described in section FC 1(1)﻿(a) (Disposals to which this subpart applies):
+    (ii) a beneficiary who acquired the land in the circumstances described in section FC 1(1)﻿(b):
+  (b) if—
+    (i) any of sections CB 6 to CB 12 apply:
+    (ii) section CB 16A applies:
+    (iii) section FC 9 (Residential land transferred to executor, administrator, or beneficiary on death of person) applies.
 Relationship with subject matter
 (6) This section is modified by sections FB 3A, FO 10, and FO 17 (which provide rollover relief for land transferred on settlement of relationship property or company amalgamation) and subpart FD (Rollover relief from the bright-line test).
 
@@ -538,12 +542,12 @@ Exclusion for group members and members of consolidated group
 ### CB 15E Disposals of land subject to section CW 3C
 When this section applies
 (1) This section applies to a person for a disposal of land acquired from a co-owner on a partition or subdivision if—
-  (a) the person derives income from the disposal under section CB 10(2) or CB 15(1); and
-  (b) at the time the person originally acquired their interest in the land that was partitioned or subdivided, the person was not associated with a person that carried on a business of developing land or dividing land into lots.
-Exclusion from some land provisions where no or minor acquisition of land while associated
-(2) The amount of income the person derives under section CB 10(2) or CB 15(1) from disposing of the land is exempt income if the person’s end value proportion under section CW 3C (Certain partitions or subdivisions of land) is no more than 105% of their acquisition proportion under section CW 3C.
-Partial exclusion from some land provisions where more than minor acquisition of land while associated
-(3) If subsection (2) does not apply, the amount of income the person derives under section CB 10(2) or CB 15(1) from disposing of the land is reduced by the amount calculated by the formula—amount derived x (acquisition proportion ÷ end value proportion).
+  (a) the person derives income from the disposal under section CB 15(1); and
+  (b) had the person disposed of their interest in the land that was partitioned or subdivided immediately before the partition or subdivision, section CB 15(1) would not have applied to the disposal.
+Exempt income when no or minor acquisition of land on partition or subdivision
+(2) The amount of income the person derives under section CB 15(1) from disposing of the land is exempt income if the person’s end value proportion under section CW 3C (Certain partitions or subdivisions of land) is no more than 105% of their acquisition proportion under section CW 3C.
+Partially exempt income when more than minor acquisition of land on partition or subdivision
+(3) If subsection (2) does not apply, the amount of income the person derives under section CB 15(1) from disposing of the land is exempt income to the extent given by the formula—amount derived x (acquisition proportion ÷ end value proportion).
 Definition of items in formula
 (4) The items in the formula are defined in subsections (5) to (7).
 Amount derived
@@ -891,7 +895,7 @@ Surrender of unit: deemed sale at given value
   (e) the unit's market value, if subsection (6) applies; or
   (f) the unit's market value, if subsection (7) applies.
 Surrender of unit: emissions relating to post-1989 forest land
-(4) The person is treated as selling the unit for an amount of zero if the person surrenders the emissions unit in relation to post-1989 forest land.
+(4) The person is treated as selling the unit for an amount of zero if the person surrenders the emissions unit in relation to post-1989 forest land, including for ceasing an activity in relation to post-1989 forest land.
 Surrender of unit: under forest sink covenant
 (4B) The person is treated as selling the unit for an amount of zero if the person transfers the emissions unit to the Crown under a forest sink covenant under section 67Y of the Forests Act 1949.
 Surrender of unit: deforestation of some pre-1990 forest land
@@ -901,7 +905,8 @@ Surrender of unit: deforestation of some pre-1990 forest land
 Surrender of post-1989 forest land emissions unit or forest sink emissions unit: for other purposes
 (6) The person is treated as selling a post-1989 forest land emissions unit or forest sink emissions unit for an amount equal to the unit's market value if the person surrenders the emissions unit other than—
   (a) for emissions in relation to post-1989 forest land:
-  (b) by a transfer to the Crown required by a permanent forestry scheme.
+  (b) by a transfer to the Crown required by a permanent forestry scheme:
+  (c) for ceasing an activity in relation to post-1989 forest land.
 Surrender of unit: free unit other than forest land unit
 (7) The person is treated as selling a unit that is not a forest land emissions unit for an amount equal to the unit's market value if—
   (a) the person surrenders the unit when it has a value of zero; and
@@ -1084,6 +1089,20 @@ Relevance of description of payment
   (b) whether the payment is periodical or otherwise:
   (c) whether the payment is an instalment of the purchase price of real property:
   (d) whether the payment is an instalment of the purchase price of personal property.
+
+### CC 9B Resale royalties
+When this section applies
+(1) This section applies when—
+  (a) a person receives a resale royalty in respect of the resale of an original visual artwork under section 18 of the Resale Right for Visual Artists Act 2023; and
+  (b) the resale royalty is income of the person under section CB 1 (Amounts derived from business).
+Income
+(2) The amount of the resale royalty retained by the collection agency under section 20 of the Resale Right for Visual Artists Act 2023 is treated as income of the person.
+
+### CC 9C Amount of resale royalty retained by collection agency
+When this section applies
+(1) This section applies when the collection agency receives an amount of a resale royalty under section 17 of the Resale Right for Visual Artists Act 2023.
+Income
+(2) The amount is not income of the collection agency except to the extent of the amount that the collection agency is entitled to retain under section 20 of that Act.
 
 ### CC 10 Films
 When this section applies
@@ -1799,7 +1818,7 @@ Definition of items in formula
     (i) if the company existed before 1 July 1994, the amount calculated under subsection (3); and
     (ii) in any other case, zero:
   (b) subscriptions, subject to subsections (6) to (21), is the total amount of consideration that the company received, after 30 June 1994 and before the calculation time, for the issue of shares of the same class (the class) as the share, ignoring section HB 1 (Look-through companies are transparent), and including consideration for the issue of shares by the company as a result of the application of section CE 6 (Trusts are nominees):
-  (c) returns, subject to subsections (22) and (23), is the total amount of consideration that the company paid, after 30 June 1994 and before the calculation time, on the cancellation of shares in the relevant class and that was not a dividend because of section CD 22, CD 23B, or CD 24 or a corresponding provision of an earlier Act:
+  (c) returns, subject to subsections (22) to (25), is the total amount of consideration that the company paid, after 30 June 1994 and before the calculation time, on the cancellation of shares in the relevant class and that was not a dividend because of section CD 22, CD 23B, or CD 24 or a corresponding provision of an earlier Act:
   (d) look-through company returns is the total amount of consideration that the company paid, before the calculation time, on the cancellation or buyback of shares in the relevant class while the company was a look-through company, ignoring section HB 1.
 1 July 1994 balance
 (3) The 1 July 1994 balance is calculated using the formula—((paid-up capital + premiums) ÷ all shares issued) × 30 June 1994 shares.
@@ -1980,7 +1999,7 @@ Capital gain amount: when capital gain amounts arise
   (c) an amount is derived by the company from another company on liquidation of the other company that is excluded from being a dividend as a result of section CD 26(2)﻿(b) and this section; or
   (d) an amount is derived by the company that is attributable to a revaluation of livestock in the 1992–93 tax year or a later tax year under section 86D of the Income Tax Act 1976 or section EC 16 (Valuation under herd scheme) or EC 20 (Herd livestock disposed of before values determined); or
   (db) an amount is derived by the company that is attributable to the difference between the consideration for disposal or acquisition of livestock and the value of that livestock under section EC 4C (Value and timing of transfers); or
-  (dc) an amount is derived by the company that is subject to section HC 38(3) (Beneficiary income of certain close companies); or
+  (dc) an amount is derived by the company that is subject to section HC 38(3) (Beneficiary income of certain close companies), in which case the capital gain amount is this amount less the tax paid by the trustee in respect of the amount under section HC 24 (Trustees’ obligations); or
   (e) the amount is described in section CZ 9(1) (Available capital distribution amount: 1965 and 1985–1992).
 Disposal of shares received in a share-for-share exchange
 (7B) A company that sells or transfers to a person that is not associated, for consideration, shares that are capital property, and the shares were received by the company in a share-for-share exchange to which section CD 43(9) and (10) (Available subscribed capital (ASC) amount) apply, has a capital gain amount, in addition to any other capital gain amount, equal to the subscriptions amount not included, because of the application of section CD 43(10), for the relevant issue of the company’s shares in the share-for-share exchange.
@@ -2896,6 +2915,14 @@ Exclusion
 Timing of income
 (3) The income is allocated to the income year in which the amount is calculated.
 
+### CH 5B Adjustments for certain flat-rate credits under platform economy rules
+Who this section applies to
+(1) This section applies to a person who, under the Goods and Services Tax Act 1985,—
+  (a) is an underlying supplier of goods and services; and
+  (b) has an amount of a flat-rate credit, as defined in section 2(1) of that Act, that they include in their assessable income for an income year.
+Income
+(2) The amount of the credit received by the person is income of the person for the income year.
+
 ### CH 6 Adjustments for certain finance and operating leases
 When this section applies
 (1) This section applies when an adjustment is made under section FA 11 or FA 11B (which relate to adjustments for leases that become finance leases and certain operating leases).
@@ -3042,12 +3069,14 @@ General rule
     (v) the exemption in section EX 35 (Exemption for interest in FIF resident in Australia):
     (vi) the 10-year exemption for a venture capital company emigrating to a grey list country in section EX 36 (Venture capital company emigrating to grey list country: 10-year exemption):
     (vii) the 10-year exemption for a grey list company owning a New Zealand venture capital company in section EX 37 (Grey list company owning New Zealand venture capital company: 10-year exemption):
+    (viib) the exemption for shares in a grey list company acquired under a venture investment agreement in section EX 37B (Share in grey list company acquired under venture investment agreement):
     (viii) the exemption for an employee share scheme of a grey list company in section EX 38 (Exemptions for employee share schemes):
     (ix) the terminating exemption for a grey list company with numerous New Zealand shareholders in section EX 39 (Terminating exemption for grey list company with numerous New Zealand shareholders):
     (x) the terminating exemption for a grey list company investing in Australasian equities in section EZ 32 (Terminating exemption for grey list FIF investing in Australasian listed equities):
     (xi) the foreign exchange control exemption in section EX 40 (Foreign exchange control exemption):
     (xii) the exemption for a non-resident or transitional resident in section EX 41 (Income interest of non-resident or transitional resident):
     (xiii)
+    (xiva) the exemption for an interest in a foreign superannuation scheme that is not a FIF superannuation interest in section EX 42B (Interests in foreign superannuation scheme other than FIF superannuation interests):
     (xiv) the annuity or pension exemption in section EX 43 (Non-resident’s pension or annuity exception):
     (xv) an exemption for a non-attributing active FIF given by sections EX 50, EX 18A(2)﻿(b)﻿(i), and EX 21B (which relate to the attributable FIF income method and FIFs corresponding to non-attributing active CFCs); and
   (d) if the person is a natural person,—
@@ -3507,16 +3536,16 @@ Income
 (1) An amount that a company derives in an income year and that would not otherwise be income of the company is treated as its income if—
   (a) the company is for that income year part of a wholly-owned group of companies; and
   (b) had the group of companies been a single company, the amount would have been income of that single company.
-Relationship with section CB 15D
-(2) Subsection (1) is overridden by section CB 15D (Kāinga Ora–Homes and Communities and wholly-owned group).
+Relationship with sections CB 15D and CB 15E
+(2) Subsection (1) is overridden by sections CB 15D (Kāinga Ora–Homes and Communities and wholly-owned group) and CB 15E (Disposals of land subject to section CW 3C).
 
 ### CV 2 Consolidated groups: income of company in group
 When this section applies
 (1) This section applies for the purposes of section FM 9 (Amounts that are company's income) to an amount derived by a company that is part of a consolidated group, when the amount would be income of the group if the group were 1 company.
 Income
 (2) The amount is treated as income of the company.
-Relationship with sections CB 15C and CB 15D
-(3) Subsection (2) is overridden by sections CB 15C and CB 15D (which apply to bodies linked or associated with a local authority or companies in the same wholly-owned group as Kāinga Ora–Homes and Communities).
+Relationship with sections CB 15C to CB 15E
+(3) Subsection (2) is overridden by sections CB 15C and CB 15D (which apply to bodies linked or associated with a local authority or companies in the same wholly-owned group as Kāinga Ora–Homes and Communities), and CB 15E (Disposals of land subject to section CW 3C).
 
 ### CV 3 Consolidated groups: arrangement for disposal of shares
 When this section applies
@@ -3673,22 +3702,37 @@ Exempt income
 [Repealed]
 
 ### CW 3C Certain partitions or subdivisions of land
-Exempt income where no more than minor economic disposal of land
-(1) An amount that a person who is a co-owner of land derives from disposing of land to another co-owner on a partition or subdivision is exempt income if the person’s proportion of the value of the land they receive on the partition or subdivision out of the total value of the land still held by persons who were co-owners, whether alone or jointly or in common with another person, is no less than 95% of their contribution to the cost of the land, including costs to subdivide, develop, and build on the land, as a proportion of the total cost.
-Partially exempt income where more than minor economic disposal of land
-(2) If subsection (1) does not apply, an amount that a person who is a co-owner of land derives from disposing of land to another co-owner on a partition or subdivision is exempt income to the extent given by the following formula:amount derived – (total land value x (acquisition proportion – end value proportion)).
-Definition of items in formula
-(3) The items in the formula are defined in subsections (4) to (7).
-Amount derived
-(4) Amount derived is the amount a co-owner receives from the disposal of their interest in the land to another co-owner on a partition or subdivision.
-Total land value
-(5) Total land value is the total value of the land held by all persons who were co-owners, whether alone or jointly or in common with another person, at the end of the partition or subdivision.
-Acquisition proportion
-(6) Acquisition proportion is the person’s contribution to the cost of the land, including costs to subdivide, develop, and build on the land, as a proportion of the total cost.
-End value proportion
+Exempt income when no more than minor economic disposal of land
+(1) An amount that a person who is a co-owner of land derives from disposing of land to another co-owner on a partition or subdivision is exempt income if the person’s end value proportion is no less than 95% of their acquisition proportion.
+Partially exempt income when more than minor economic disposal of land
+(2) If subsection (1) does not apply, an amount that a person who is a co-owner of land derives from disposing of land to another co-owner on a partition or subdivision is exempt income to the extent given by the following formula:amount derived − (total land value × (acquisition proportion − end value proportion)).
+Acquisition date for land provisions when no more than minor acquisition of land
+(3) For the purposes of the land provisions and sections CB 12 to CB 14 (which relate to income from disposals of land), if the person’s end value proportion is no more than 105% of their acquisition proportion, they are treated as acquiring the land they receive on the partition or subdivision on the date they acquired their interest in the undivided land or the date they are treated by section CB 15(2) (Transactions between associated persons) as acquiring their interest in the undivided land, whichever is earlier.
+Acquisition date for land provisions when more than minor acquisition of land
+(4) For the purposes of the land provisions and sections CB 12 to CB 14, if the person’s end value proportion is more than 105% of their acquisition proportion, they are treated as acquiring the land they receive on the partition or subdivision as follows:
+  (a) for the original land, being the proportion of land remaining after the calculation in paragraph (b), on the date they acquired their interest in the undivided land or the date they are treated by section CB 15(2) as acquiring their interest in the undivided land, whichever is earlier:
+  (b) for the additional land, being the proportion of the land calculated using the following formula, on the date the person became entitled to the additional land or, to the extent the additional land is acquired from an associated person, the date they are treated by section CB 15(2) as acquiring the additional land:(end value proportion − acquisition proportion) ÷ end value proportion.
+Bright-line start date when no more than minor acquisition of land
+(5) If the person’s end value proportion is no more than 105% of their acquisition proportion, their bright-line start date for the land they receive on the partition or subdivision is their bright-line start date for the undivided land.
+Bright-line start date when more than minor acquisition of land
+(6) If the person’s end value proportion is more than 105% of their acquisition proportion, their bright-line start date for the land they receive on the partition or subdivision is as follows:
+  (a) for the original land, being the amount of land remaining after the calculation in paragraph (b), their bright-line start date for the undivided land:
+  (b) for the additional land, being the proportion of the land calculated using the following formula, the date the person became entitled to the additional land:(end value proportion − acquisition proportion) ÷ end value proportion.
+Transitional rule for change in terminology
+(6B) For the purposes of subsections (5) and (6), if the undivided land was acquired before 1 July 2024, the bright-line acquisition date for the land is treated as the bright-line start date.
+Meaning of end value proportion
 (7) End value proportion is the person’s proportion of the value of the land they receive, whether alone or jointly or in common with another person, on the partition or subdivision out of the total value of the land still held by persons who were co-owners.
+Meaning of acquisition proportion
+(8) Acquisition proportion is the person’s contribution to the cost of the land, including costs to subdivide, develop, and build on the land, as a proportion of total cost.
 Meaning of co-owner
-(8) Co-owner, in relation to land, includes a company in which the person is a shareholder, a person acting in their personal capacity, or their capacity as a trustee of a trust, partner in a partnership, or owner of a look-through company, even if they became a co-owner of the land in a different one of those capacities.
+(9) Co-owner, in relation to land, includes a company in which the person is a shareholder, a person acting in their personal capacity, or a person acting in their capacity as a trustee of a trust, a partner in a partnership, or an owner of a look-through company, even if they became a co-owner of the land in a different one of those capacities.
+Definition of items in formulas
+(10) In the formulas in subsections (2), (4), and (6),—
+  (a) amount derived is the amount a co-owner receives from the disposal of their interest in the land to another co-owner on a partition or subdivision:
+  (b) total land value is the total value of the land held by all persons who were co-owners, whether alone or jointly or in common with another person, at the end of the partition or subdivision:
+  (c) acquisition proportion has the same meaning as in subsection (8):
+  (d) end value proportion has the same meaning as in subsection (7).
+ExampleEverly acquires land on 1 October 2024. Her friend Daniel comes on as a co-owner (50:50 shares) of the land on 5 February 2025. Everly and Daniel subdivide the land and construct a house each. The subdivision is complete and new titles are issued on 15 June 2026. Daniel’s title ends up being 60% of the value of both titles. As Everly and Daniel go from owning a half share in the undivided land to being the sole owner of their parcel of land, they are disposing of their share in the parcel of land they did not keep to the other. Everly has disposed of some of her share in the land by more than a minor amount (more than the 5% safe-harbour) so only some of her income will be exempt, and she must calculate this under section CW 3C(2). All of Daniel’s income will be exempt. However, because he has made a more than minor acquisition of land (more than the 5% safe-harbour), his acquisition date for the land will be as follows – 5/6ths of Daniel’s property will be treated as being acquired on 5 February 2025 under section CW 3C(4)﻿(a) (as it relates to what he held originally), and the remaining 1/6th will be treated as being acquired on 15 June 2026 under section CW 3C(4)﻿(b).
 
 ### CW 4 Annuities under life insurance policies
 When this section applies
@@ -4614,6 +4658,26 @@ Exclusion: certain amounts from commercial undertakings
 Exclusion: local authority as port operator
 (5) Subsection (2) does not apply to an amount of income derived by a local authority in its capacity as a port operator from a port-related commercial undertaking. Port operator and port-related commercial undertaking are defined in section 38(4) of the Port Companies Act 1988.
 
+### CW 39B Auckland Future Fund
+Exempt income
+(1) An amount of income derived by a trustee of the Auckland Future Fund is exempt income.
+Exclusion: certain amounts from commercial undertakings
+(2) Subsection (1) does not apply to an amount of income that—
+  (a) is derived by a trustee of the Auckland Future Fund from—
+    (i) a council-controlled organisation of Auckland Council; or
+    (ii) an organisation linked by ownership or control to Auckland Council that is a port company, a subsidiary of a port company, or an energy company, and that would be a council-controlled organisation of Auckland Council in the absence of section 6(4) of the Local Government Act 2002; and
+  (b) is not—
+    (i) rates; or
+    (ii) a dividend.
+Meaning of Auckland Future Fund
+(3) In this section, Auckland Future Fund—
+  (a) means the fund established by Auckland Council as part of its Long-term plan 2024–2034; and
+  (b) includes—
+    (i) any funds, assets, or both that the Council adds to the fund; and
+    (ii) capital and income retained in the fund.
+Meaning of Auckland Council
+(4) In this section, Auckland Council means the territorial authority established by section 6(1) of the Local Government (Auckland Council) Act 2009 as the Auckland Council.
+
 ### CW 40 Local and regional promotion bodies
 Exempt income: beautification societies
 (1) An amount of income derived by an association or society is exempt income if—
@@ -4850,7 +4914,7 @@ An amount of income derived by the trustee of a community trust is exempt income
 
 ### CW 52B Disability support services
 Exempt income
-(1) An amount of income derived by or on behalf of a person or their carer is exempt income of the relevant person if the amount is paid by Health New Zealand, the Ministry for Disabled People, or the Ministry of Health for the purpose of the purchase of disability support services in relation to the person.
+(1) An amount of income derived by or on behalf of a person or their carer is exempt income of the relevant person if the amount is paid by Health New Zealand, the Ministry of Disabled People, or the Ministry of Health for the purpose of the purchase of disability support services in relation to the person.
 Meaning
 (2) In this section, disability support services has the meaning given in section 4 of the Pae Ora (Healthy Futures) Act 2022.
 
@@ -5065,7 +5129,13 @@ The following are excluded income of a registered person:
   (b) goods and services tax (GST) payable to them by the Commissioner.
 
 ### CX 1B Treatment of flat-rate credits under platform economy rules
-For the purposes of the flat-rate credit, as defined in section 2(1) of the Goods and Services Tax Act 1985, the amount of the credit is excluded income of the person receiving the credit, whether or not the person is a registered person.
+Excluded income
+(1) For the purposes of the flat-rate credit, as defined in section 2(1) of the Goods and Services Tax Act 1985, the amount of the credit is excluded income of the person receiving the credit, whether or not the person is a registered person.
+When credits not excluded income
+(2) Subsection (1) does not apply to a person who, for an income year,—
+  (a) is an underlying supplier; and
+  (b) receives a flat-rate credit for which they are not required to make an adjustment under section 20(4E) of the Goods and Services Tax Act 1985; and
+  (c) includes the amount of the credit in their income as described in section CH 5B (Adjustments for certain flat-rate credits under platform economy rules) for the income year.
 
 **Introductory provisions**
 
@@ -5759,8 +5829,14 @@ Exit dividends
 Dividends after look-through
 (5) Dividends after look-through is the total dividends paid by the company after it ceases to be a look-through company and before it pays the dividend described in subsection (1) to the person.
 
+### CX 63B Amounts of excluded income for owners
+A person who has an effective look-through interest for a look-through company has an amount of excluded income to the extent to which an amount of excluded income results from the application of subpart HB (Look-through companies).
+
 ### CX 64 Income from financial instrument
 An amount is excluded income if it is treated as excluded income under subpart FH (Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements).
+
+### CX 65 Tax credits paid in cash
+An amount paid as a tax credit under Part M (Tax credits paid in cash) is excluded income of the person deriving the amount.
 
 ### Subpart CZ — Terminating provisions
 
@@ -6207,7 +6283,7 @@ When this section applies
   (c) has claimed deductions for the affected property under 1 or more of section DO 4, DO 5, or DO 11 (which relate to improvements to land); and
   (d) plans, in the current year, to acquire property (the replacement property)—
     (i) replacing the affected property; and
-    (ii) meeting the requirements of subsection (4); and
+    (ii) meeting the requirements of subsection (5); and
   (e) notifies the Commissioner under subsection (7) in relation to the affected property.
 Insurance or compensation not income
 (2) The amount of the insurance or compensation is not income unless subsection (3) or (6) applies.
@@ -6322,6 +6398,8 @@ Definitions for this section
   (b) recovery includes restoration and enhancement.
 Relationship with section CZ 30
 (6) Section CZ 30 does not apply to modify the application of this section.
+Secondary legislation
+(7) An Order in Council under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### CZ 30 Transitional provision: application of certain accommodation provisions
 When this section applies
@@ -6542,13 +6620,14 @@ Link with subpart DA
 No deduction
 (1) A registered person is denied a deduction for the following:
   (a) input tax on a supply of goods or services to them:
+  (ab) a flat-rate credit, as defined in section 2(1) of the Goods and Services Tax Act 1985:
   (b) goods and services tax (GST) payable by them to the Commissioner.
 Deduction
 (2) A registered person is allowed a deduction for deductible output tax but only to the extent to which—
   (a) they are allowed a deduction for expenditure that they incur in acquiring or producing the goods or services; or
   (b) they are allowed a deduction for an amount of depreciation loss for the goods or services.
 Treatment of flat-rate credit
-(2B) For the purposes of subsections (1) and (2), an underlying supplier referred to in section 8C of the Goods and Services Tax Act 1985 who is not a registered person is treated as if they were a registered person for the purposes of this section in relation to a deduction for expenditure to the extent to which the expenditure is attributable to a supply of listed services.
+(2B) For the purposes of subsections (1) and (2), an underlying supplier referred to in section 8C of the Goods and Services Tax Act 1985 who is not a registered person is treated as if they were a registered person for the purposes of this section in relation to a deduction for expenditure to the extent to which the expenditure is attributable to a supply of listed services. However, this subsection does not apply if the underlying supplier has received a flat-rate credit, as defined in section 2(1) of that Act, in an income year and has chosen as described in section CH 5B (Adjustments for certain flat-rate credits under platform economy rules) to include the amount of the credit in their income for the income year.
 Exclusion
 (3) Subsection (2) does not apply to an adjustment made in relation to a capital asset.
 Depreciable property
@@ -7716,6 +7795,16 @@ When this section applies
 Determining whether expenditure of capital nature
 (2) For the purpose of determining whether the expenditure is capital in nature, the expenditure is treated as relating to a utilities distribution asset and is treated as not being incurred in relation to a utilities distribution network.
 
+### DB 69 Amount of resale royalty retained by collection agency
+When this section applies
+(1) This section applies to a person—
+  (a) who receives a resale royalty under section 18 of the Resale Right for Visual Artists Act 2023; and
+  (b) to whom section CC 9B (Resale royalties) applies.
+Deduction
+(2) The person is allowed a deduction for the amount of the resale royalty retained by the collection agency under section 20 of the Resale Right for Visual Artists Act 2023.
+Link with subpart DA
+(3) This section supplements the general permission.
+
 ### Subpart DC — Employee or contractor expenditure
 
 ### DC 1 Lump sum payments on retirement
@@ -7773,6 +7862,8 @@ Deduction
   (b) the former partner retired from the old partnership or their employment ended through retirement; and
   (c) the former partner or their spouse, civil union partner, or de facto partner has a right to receive the pension under a deed for a fixed period or for life or, in the case of the spouse, civil union partner, or de facto partner, until the spouse, civil union partner, or de facto partner enters a new marriage, civil union, or de facto relationship; and
   (d) the pension is paid for the former partner’s services in the old partnership.
+Relationship with section HG 2
+(3B) Section HG 2 (Partnerships are transparent) does not apply for the purposes of this section.
 Link with subpart DA
 (4) This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
@@ -7800,6 +7891,8 @@ Amount of deduction
 (3) The amount of the deduction is limited to the amount of the payment authorised by the contract of service and any bonus, whether or not the payment of a bonus is authorised by the contract.
 Relationship with section GB 23
 (4) This section is overridden by section GB 23 (Excessive remuneration to relatives).
+Relationship with section HG 2
+(4B) Section HG 2 (Partnerships are transparent) does not apply for the purposes of this section.
 Meaning of contract of service
 (5) In this section, contract of service, for a partner and a partnership, means an agreement that—
   (a) specifies the terms and conditions of the services to be performed by the partner; and
@@ -9086,12 +9179,14 @@ General rule
     (v) the exemption in section EX 35 (Exemption for interest in FIF resident in Australia):
     (vi) the 10-year exemption for a venture capital company emigrating to a grey list country in section EX 36 (Venture capital company emigrating to grey list country: 10-year exemption):
     (vii) the 10-year exemption for a grey list company owning a New Zealand venture capital company in section EX 37 (Grey list company owning New Zealand venture capital company: 10-year exemption):
+    (viib) the exemption for shares in a grey list company acquired under a venture investment agreement in section EX 37B (Share in grey list company acquired under venture investment agreement):
     (viii) the exemption for an employee share scheme of a grey list company in section EX 38 (Exemptions for employee share schemes):
     (ix) the terminating exemption for a grey list company with numerous New Zealand shareholders in section EX 39 (Terminating exemption for grey list company with numerous New Zealand shareholders):
     (x) the terminating exemption for a grey list company investing in Australasian equities in section EZ 32 (Terminating exemption for grey list FIF investing in Australasian listed equities):
     (xi) the foreign exchange control exemption in section EX 40 (Foreign exchange control exemption):
     (xii) the exemption for a non-resident or transitional resident, in section EX 41 (Income interest of non-resident or transitional resident):
     (xiii)
+    (xiva) the exemption for an interest in a foreign superannuation scheme that is not a FIF superannuation interest in section EX 42B (Interests in foreign superannuation scheme other than FIF superannuation interests):
     (xiv) the annuity or pension exemption in section EX 43 (Non-resident’s pension or annuity exception):
     (xv) an exemption given by sections EX 50, EX 18A(2)﻿(b)﻿(i), and EX 21B (which relate to the attributable FIF income method and FIFs corresponding to non-attributing active CFCs); and
   (d) if the person is a natural person,—
@@ -9431,7 +9526,7 @@ Deduction
   (b) interest on money borrowed for the purposes of the business and employed as capital in the business:
   (c) planting or maintaining trees on the land:
   (d) applying fertiliser after the planting of the trees:
-  (e) disease control, pest control, or weed control (excluding releasing):
+  (e) disease control, pest control, or weed control:
   (f) repair or maintenance of plant, machinery, or equipment used by the person mainly in—
     (i) planting or maintaining trees on the land; or
     (ii) preparing or otherwise developing the land for the person’s forestry operations:
@@ -11568,7 +11663,9 @@ Closing value
 
 ### EC 1 Application of this subpart
 When this subpart applies
-(1) This subpart applies to the valuation of property when a person who owns or carries on a business, other than of selling livestock, holds livestock for the purposes of sale or exchange in the ordinary course of carrying on the business.
+(1) This subpart applies to the valuation of livestock when—
+  (a) a person who owns or carries on a farming business, other than a livestock dealing business, holds livestock for the purposes of farming that livestock in the ordinary course of carrying on the farming business:
+  (b) a person who owns livestock bails that livestock to another person under a bailment, lease, or other agreement.
 Groups of livestock
 (2) For the purposes of this subpart, livestock is divided into—
   (a) specified livestock:
@@ -12313,6 +12410,7 @@ Other persons
 Valuation of emissions units issued for zero price
 (7B) Despite subsection (1),—
   (a) an emissions unit transferred under Part 4, subpart 2, of the Climate Change Response Act 2002 in an income year for no payment of a price, and to which section ED 1B does not apply, has a value of zero for the period beginning with the transfer and ending before the end of the income year:
+  (ab) a forest land emissions unit transferred under section 64 of the Climate Change Response Act 2002 in an income year for no payment of a price, and to which section ED 1B does not apply, has a value of zero for the period beginning with the transfer and ending before the end of the income year:
   (b) a forest land emissions unit has a value of zero at the end of each income year:
   (c) a replacement forest land emissions unit has a value of zero at the end of each income year:
   (cb) a fishing quota emissions unit has a value at the end of each income year of—
@@ -14678,29 +14776,7 @@ Transitional provision: 2015–16 and later income years
   (b) if the period of 5 income years after the income year of derivation has not expired before the start of the 2015–16 income year, divide the remaining amount into equal portions based on the number of income years left in the period, and allocate a portion to each of those income years falling after the end of the 2014–15 income year.
 
 ### EI 8 Disposal of land to the Crown
-When this section applies
-(1) This section applies when a person derives income from disposing of any of their land to the Crown.
-Timing of income
-(2) The person may choose to—
-  (a) divide the income into 4 equal portions; and
-  (b) allocate a portion to the income year in which they derive the amount; and
-  (c) similarly allocate a portion to each of the next 3 income years.
-Timing of deduction
-(3) If the person allocates income to 2 or more income years, they must allocate part of any deduction allowed for the cost of the land to the same income years. The part must bear the same proportion to the total deduction as the allocated income bears to the total amount of income.
-Application
-(4) The following provisions apply to an allocation for the purposes of subsection (2):
-  (a) the person, or another person for them, must apply to the Commissioner:
-  (b) the application must be made within 1 year after the end of the tax year in which the person derives the income or within a longer time if the Commissioner agrees:
-  (c) the person must arrange to meet all income tax liabilities relating to the income:
-  (d) the Commissioner may cancel the allocation at any time.
-Cancellation of allocation
-(5) If the Commissioner cancels the allocation,—
-  (a) the whole of the income or deduction, as applicable, is allocated to the income year before the income year in which the cancellation occurs:
-  (b) the cancellation does not affect income or a deduction that has been allocated to an earlier income year.
-Transitional provision: 2015–16 and later income years
-(6) Despite subsection (2), when a person has derived an amount of income to which this section applies before the 2015–16 income year, and all or part of that amount remains unallocated at the start of that income year, the person must—
-  (a) if the period of 3 income years after the income year of derivation has expired before the start of the 2015–16 income year, allocate the remaining amount to the 2015–16 income year; or
-  (b) if the period of 3 income years after the income year of derivation has not expired before the start of the 2015–16 income year, divide the remaining amount into equal portions based on the number of income years left in the period, and allocate a portion to each of those income years falling after the end of the 2014–15 income year.
+[Repealed]
 
 ### EI 9 Matching rule for employment income of shareholder-employee
 Matching if company allowed deduction
@@ -18126,7 +18202,7 @@ Benefits from money advanced
 No tainting by association
 (19) Sections CB 9 to CB 13 (which relate to the disposal of land) and CV 1 (Group companies) do not apply to treat an amount derived by the CFC as income merely because of the activities of a person associated with the CFC if the associate is a non-resident.
 Crown acquisition of land
-(20) The reference in section EI 8(1) (Disposal of land to the Crown) to the Crown includes any relevant government outside New Zealand.
+(20)
 Amount of depreciation loss recovered
 (21) When sections EE 48 to EE 52 (which relate to disposals and similar events) are applied, the CFC is treated as having had a deduction for an amount of depreciation loss, and to have an adjusted tax value accordingly, if an amount of depreciation loss has been deducted when calculating the CFC’s branch equivalent income or loss for any period and the attributed CFC income or loss of any person.
 GST and value-added taxes
@@ -18864,9 +18940,9 @@ Fair dividend rate method: exemption for shares in foreign companies
   (a) the share is a non-ordinary share described in subsection (10):
   (b) the person chooses to use the comparative value method for another attributing interest that is a share in a foreign company and for which the person would be allowed, in the absence of this paragraph, to use the fair dividend rate method.
 Cost method for shares in foreign companies
-(9) A person may use the cost method to calculate FIF income or loss from an attributing interest in a FIF that is a share in a foreign company only if—
-  (a)
-  (b) use of the fair dividend rate method is allowed but is not practical because the person cannot determine the market value of the attributing interest at the start of the income year except by an independent valuation.
+(9) A person may use the cost method to calculate FIF income or loss from an attributing interest in a FIF if—
+  (a) the attributing interest is a share in a foreign company for which the fair dividend rate method is allowed; and
+  (b) the market value of the attributing interest at the start of the income year is not readily available.
 Certain non-ordinary shares
 (10) For the purposes of subsections (6)﻿(d) and (8)﻿(a), a non-ordinary share in a foreign company is—
   (a) a fixed-rate share that meets the requirements of the definition of fixed-rate share, paragraph (f)﻿(i) or (f)﻿(iii), or both:
@@ -18911,7 +18987,7 @@ A person must use the comparative value method to calculate FIF income or FIF lo
 When this section applies
 (1) This section applies when—
   (a) a person does not choose a calculation method to calculate FIF income or loss from an attributing interest for a period; and
-  (b) sections EX 46, EX 47, and EX 62 do not have the effect of requiring a particular calculation method to be used.
+  (b) sections EX 46, EX 47, EX 47B, and EX 62 do not have the effect of requiring a particular calculation method to be used.
 Default choice
 (2) The person is treated as having chosen to use, for the period,—
   (a) the fair dividend rate method if it is practical to use it; and
@@ -19769,7 +19845,7 @@ Section GC 4 (Disposals and acquisitions of FIF attributing interests) applies t
 When this section applies
 (1) This section applies when—
   (a) a person has failed to disclose their control interest or income interest in a CFC or attributing interest in a FIF, under section 61 of the Tax Administration Act 1994:
-  (b) a person has failed to disclose information regarding their control interest or income interest in a CFC or attributing interest in a FIF, requested under section 17 of that Act:
+  (b) a person has failed to disclose information regarding their control interest or income interest in a CFC or attributing interest in a FIF, requested under section 17B of that Act:
   (c) a person cannot obtain enough information to calculate their attributed CFC income or loss or FIF income or loss for a period.
 Commissioner’s power
 (2) The Commissioner may make an assessment of the amount of attributed CFC income or loss or FIF income or loss for the relevant period.
@@ -20810,6 +20886,11 @@ Timing of deduction
 (4) The deduction is allocated evenly to the income years in relation to which the term of the lease applies.
 Meaning of term of the lease
 (5) In this section, term of the lease, for a lease of indefinite duration, means the minimum period it has to run.
+
+### EZ 8B Disposal of land to the Crown
+Despite the repeal of section EI 8 (Disposal of land to the Crown) by the Taxation (Annual Rates for 2024–25, Emergency Response, and Remedial Measures) Act 2025, section EI 8 continues to have effect on or after 26 August 2024 for a person who derives income from disposing of any of their land to the Crown if—
+  (a) the disposal occurs before 26 August 2024:
+  (b) the person has relied on a binding ruling made by the Commissioner before 26 August 2024 involving allocation of income under section EI 8 as it was before its repeal by section 49 of that Act.
 
 ### EZ 9 Pool method for items accounted for by globo method for 1992–93 income year
 If a person chooses the pool method for an item of property of a kind described in section EE 66(3)﻿(c) (Meaning of poolable property), they must also choose to treat as a single pool all such items of property they still own that they accounted for at the end of their 1992–93 income year within the same globo account.
@@ -23298,7 +23379,7 @@ Financial arrangements: cash basis person
 What this section applies to
 (1) This section applies in the circumstances described in section FC 1(1)﻿(a) or (b) when residential land is transferred on a person’s death and section FC 5 does not apply.
 Residential land
-(2) Section CB 6A (Disposal within 2 years: bright-line test for residential land) does not apply to the transfer of residential land, including any intervening transfer to an executor or administrator (see also: section CB 6A(5)﻿(b)).
+(2) Section CB 6A (Disposal within 2 years: bright-line test for residential land) does not apply to the transfer of residential land (see also: section CB 6A(5)﻿(c)).
 Cost of residential land
 (3) If the residential land is transferred to a person who disposes of it, and the person derives income, the cost of the land to the person is—
   (a) the cost of the land incurred by the deceased person; and
@@ -23343,49 +23424,59 @@ Official Assignee and unallocated deductions
 
 ### FD 1 Relief from bright-line test for transfers between associated persons
 When this section applies
-(1) This section applies for the purposes of sections CB 6A and CB 16A (which relate to the bright-line test for residential land) and Part D (Deductions) when residential land is transferred within the bright-line period—
-  (a) between persons associated under any of sections YB 2 to YB 13 at the date of transfer and for at least 2 years before that date; or
-  (b) to a trustee of a trust in which all beneficiaries, other than the transferor in their capacity as a beneficiary, are—
-    (i) associated with the transferor at the date of transfer and for at least 2 years before that date, except for beneficiaries aged less than 2 years and persons who have become associated due to marriage or adoption who must be associated with the transferor since birth, marriage, or adoption, as applicable; or
+(1) This section applies for the purposes of sections CB 6A and CB 16A (which relate to the bright-line test for residential land) and Part D (Deductions) when residential land is disposed of by a person (person A) to another person (person B) who is—
+  (a) a person associated with person A under any of sections YB 2 to YB 13 (which relate to associated persons) at the date of the disposal and for at least 2 years before that date; or
+  (b) a trustee of a trust in which all beneficiaries, other than person A in their capacity as a beneficiary, are—
+    (i) associated with person A at the date of disposal and for at least 2 years before that date, except for beneficiaries aged less than 2 years and persons who have become associated with person A due to adoption, marriage, civil union, or de facto relationship who must be associated with person A since birth, adoption, marriage, civil union, or the start of the de facto relationship, as applicable; or
     (ii) an association, club, institution, society, organisation, or trust not carried on for the private profit of any person whose funds are applied wholly or principally to any civic, community, charitable, philanthropic, religious, benevolent, or cultural purpose, whether in New Zealand or elsewhere.
-Transfer at cost
-(2) The transfer is treated as a disposal and acquisition, at the date of transfer, for an amount that equals the cost of the residential land to the transferor.
+Disposal at cost
+(2) The disposal is treated as a disposal and acquisition, at the date of disposal, for an amount that equals the cost of the residential land to person A.
 Bright-line start date
-(3) The transferee’s bright-line start date for the land is the transferor’s bright-line start date.
+(3) Person B’s bright-line start date for the land is person A’s bright-line start date.
+Transitional rule for change in terminology
+(4) For the purposes of subsection (3), person B’s bright-line start date is—
+  (a) the date of person A’s bright-line acquisition date, if person A acquired the land before 1 July 2024 and on or after 27 March 2021:
+  (b) 27 March 2021, if person A acquired the land before 27 March 2021.
 Use of property
-(4) For the purposes of determining whether section CB 16A (Main home exclusion for disposal within 2 years) applies, the transferor’s use of the property is attributed to the transferee (for example, if the transferor used the property as a main home for 1 year, this is attributed to the transferee).
+(5) For the purposes of determining whether section CB 16A (Main home exclusion for disposal within 2 years) applies, person A’s use of the property is attributed to person B (for example, if person A used the property as a main home for 1 year, this is attributed to person B).
+Relationship with sections HB 1 and HG 2
+(6) For the purposes of determining association under subsection (1)﻿(a) and a disposal between a person who has an effective look-through interest for a look-through company and the look-through company or a person and a partnership, sections HB 1 (Look-through companies are transparent) and HG 2 (Partnerships are transparent) are ignored and association is determined under section YB 12 or YB 13.
 When this section does not apply
-(5) This section does not apply to a transfer of residential land if the section has already been applied to a transfer (the first transfer) of the residential land and 2 years have not passed from the date of the first transfer.
+(7) This section does not apply to a disposal of residential land if the section has already been applied to a disposal (the first disposal) of the residential land and 2 years have not passed from the date of the first disposal.
 
 ### FD 2 Relief from bright-line test for Māori rollover trusts
 When this section applies
-(1) This section applies for the purposes of sections CB 6A and CB 16A (which relate to the bright-line test for residential land) and Part D (Deductions) when residential land is transferred within the bright-line period as described in the following table:The following table is small in size and contains 3 columns. The first column is headed Row. The second column is headed Transfer. The third column is headed Conditions to be satisfied.RowTransferConditions to be satisfied1Transfers into a Māori rollover trustThe transferor is a settlor and beneficiary of a Māori rollover trust; andThe transferee is a trustee of the Māori rollover trust.2Transfers between Māori rollover trustsThe transferor is a trustee of a Māori rollover trust; andThe transferee is a trustee of another Māori rollover trust; andThe beneficiaries for both trusts are the same.3Transfers out of a Māori rollover trustThe transferor is the trustee of a Māori rollover trust; andThe transferee is a settlor of the Māori rollover trust; andThe settlors—a) originally transferred the land to the trustee; andb) acquired proportionally the same amount of land back from the trustee as they had originally transferred or, where one of the settlors has died, the settlors receive at least the same proportion of the land back from the trustee as they had originally transferred; andc) are beneficiaries of the trust.How to use this table: Read the columns from left to right according to the row that fits the situation. If the parties to the transfer meet the relevant conditions, then this section applies to them.
+(1) This section applies for the purposes of sections CB 6A and CB 16A (which relate to the bright-line test for residential land) and Part D (Deductions) when residential land is disposed of as described in the following table:The following table is small in size and has 3 columns. Column is headed Row. Column 2 is headed Disposal. Column 3 is headed Conditions to be satisfied.RowDisposalConditions to be satisfied1Disposal to a Māori rollover trustThe transferor is a settlor and beneficiary of a Māori rollover trust; andthe transferee is a trustee of the Māori rollover trust.2Disposal from one Māori rollover trust to anotherThe transferor is a trustee of a Māori rollover trust; andthe transferee is a trustee of another Māori rollover trust; andthe beneficiaries for both trusts are the same.3Disposal by a Māori rollover trustThe transferor is the trustee of a Māori rollover trust; andthe transferee is a settlor of the Māori rollover trust; andthe settlors—a) originally transferred the land to the trustee; andb) acquired proportionally the same amount of land back from the trustee as they had originally transferred or, when one of the settlors has died, the settlors receive at least the same proportion of the land back from the trustee as they had originally transferred; andc) are beneficiaries of the trust.How to use this table: Read the columns from left to right according to the row that fits the situation. If the parties to the disposal meet the relevant conditions, then this section applies to them.
 Other capacities
 (2) For the purposes of subsection (1), the transferors and transferees may have different capacities in relation to the different conditions in that subsection (for example, a transferee may be a settlor in their personal capacity and a beneficiary as an owner of a look-through company).
 Transfer at greater of cost or consideration derived
-(3) The transfer is treated as a disposal and acquisition, at the date of transfer, for an amount that equals the greater of the cost of the residential land to the transferor or the consideration paid by the transferee.
+(3) The disposal is treated as a disposal and acquisition, at the date of disposal, for an amount that equals the greater of the cost of the residential land to the transferor or the consideration paid by the transferee.
 Bright-line start date
 (4) The transferee’s bright-line start date for the land is the transferor’s bright-line start date.
+Transitional rule for change in terminology
+(5) For the purposes of subsection (4), if the transferor acquired the land before 1 July 2024, the transferor’s bright-line acquisition date is treated as a bright-line start date.
 Meaning of Māori rollover trust
-(5) Māori rollover trust means, at the time of a relevant transfer to or from a relevant trust, a trust in which—
+(6) Māori rollover trust means, at the time of a relevant transfer to or from a relevant trust, a trust in which—
   (a) a trustee of the trust is a Maori authority or eligible to elect to be a Maori authority; and
   (b) all beneficiaries are—
-    (i) members of the same iwi or hapu:
+    (i) members of the same iwi or hapū:
     (ii) descendants of the same tipuna; and
   (c) the land is subject to Te Ture Whenua Maori Act 1993.
 
 ### FD 3 Certain transfers of residential land included in settlement of claim under Treaty of Waitangi
 When this section applies
-(1) This section applies for the purposes of sections CB 6A and CB 16A (which relate to the bright-line test for residential land) and Part D (Deductions) to a transfer of residential land within the bright-line period that is—
+(1) This section applies for the purposes of sections CB 6A and CB 16A (which relate to the bright-line test for residential land) and Part D (Deductions) to a disposal of residential land that is—
   (a) subject to Te Ture Whenua Maori Act 1993; and
   (b) made as part of the settlement of a claim under the Treaty of Waitangi; and
-  (c) transferred to a trustee of a trust that is a Maori authority or is eligible to be a Maori authority under section HF 2(3)﻿(e)﻿(i) (Who is eligible to be a Maori authority?).
+  (c) disposed of to a trustee of a trust that is a Maori authority or is eligible to be a Maori authority under section HF 2(3)﻿(e)﻿(i) (Who is eligible to be a Maori authority?).
 Transfer by transferor
 (2) The transferor is treated as transferring the land at the greater of the cost of the land to them or the consideration they derive from the disposal.
 Transfer to transferee
 (3) The transferee is treated as acquiring the land at its market value at the time the land was transferred from the Crown.
 Bright-line start date
 (4) The transferee’s bright-line start date for the land is the transferor’s bright-line start date.
+Transitional rule for change in terminology
+(5) For the purposes of subsection (4), if the transferor acquired the land before 1 July 2024, the transferor’s bright-line acquisition date is treated as a bright-line start date.
 
 ### Subpart FE — Interest apportionment on thin capitalisation
 
@@ -23600,7 +23691,7 @@ Group acting in concert
 
 ### FE 6 Apportionment of interest by excess debt entity
 Who this section applies to
-(1) This section applies to an excess debt entity or a natural person if section FE 5 requires the entity or person to apportion their interest expenditure for an income year under this section. A natural person is treated as an excess debt entity for the purposes of this section other than in the item threshold amount.
+(1) This section applies to an excess debt entity or a natural person if section FE 5 requires the entity or person to apportion their interest expenditure for an income year under this section or the entity or person has a debt percentage equal to zero under section FE 12(3) because the relevant New Zealand group’s non-debt liabilities equal or exceed its assets. A natural person is treated as an excess debt entity for the purposes of this section other than in the item threshold amount.
 General formula
 (2) An excess debt entity having a worldwide group that is not given by section FE 31D is treated under section CH 9 (Interest apportionment: excess debt entity) as deriving in the income year an amount of income calculated for the income year using the formula—(total deduction − mismatch + FRD − adjust) × (total debt − concession) ÷ total debt× group debt factor.
 Items in formula
@@ -24935,7 +25026,7 @@ Definitions
     (a) the members are—
       (i) consolidated, or required to be consolidated, for accounting purposes:
       (ii) members of a group of companies for which an applicable financial reporting standard requires the preparation of group financial statements for an accounting period:
-    (b) the members are companies that are associated under section YB 2 (Two companies):
+    (b) the members are companies, or limited partnerships that are treated as companies under section YB 16B (Limited partnerships treated as companies), or a combination of them that are associated under section YB 2 (Two companies):
     (c) 1 of the members is a company and the other person has, or is a member of a group of persons acting together that has,—
       (i) a voting interest in the company of 50% or more, applying the general aggregation rule in section YB 3(3):
       (ii) if a market value circumstance exists for the company, a market value interest in the company of 50% or more, applying the general aggregation rule in section YB 3(3):
@@ -24966,7 +25057,7 @@ Definitions
   - **mismatch amount** means an amount, arising from a mismatch situation under a provision of this subpart, for which a deduction is denied or assessable income is increased under section FH 5, FH 6, FH 8, FH 9, or FH 10
   - **mismatch situation** means a situation in which differences between the taxation law of New Zealand and the taxation law of another country or territory in the tax treatment of entities or deducting branches may give rise to adjustments to deductions or income under sections FH 5, FH 6, FH 8, FH 9, or FH 10
   - **related** , for 2 persons, means a relationship under which—
-    (a) the 2 persons are companies—
+    (a) the 2 persons are companies, or limited partnerships that are treated as companies under section YB 16B, or a combination of them—
       (i) that are associated under section YB 2 (Two companies):
       (ii) for which a group of persons exists whose total voting interests in each company, determined under section YB 2, are 25% or more:
       (iii) if a market value circumstance exists for either company, for which a group of persons exists whose total market value interests in each company, determined under section YB 2, are 25% or more:
@@ -27185,7 +27276,7 @@ Types of leases
   (a) a lease by a company:
   (b) a lease by a person to a relative or a related company:
   (c) a lease by 2 or more persons to a relative or a related company of any of those persons:
-  (d) a lease by a partnership to a relative of a partner or a related company of the partnership.
+  (d) a lease by a partnership, ignoring section HG 2 (Partnerships are transparent), to a relative of a partner or a related company of the partnership.
 Lease treated as having adequate rent
 (3) The lessee is treated as paying, and the lessor is treated as deriving as income, an adequate rent determined by the Commissioner.
 Timing
@@ -28436,11 +28527,11 @@ Reportable income received within 28 days after person’s death
 Income
 (2) An amount not treated as being derived by the person under subsection (1B) is treated under section CV 12 (Trustees: amounts received after person’s death) as income derived by the trustee in the income year.
 
-### HC 8B Trustee income in income year of person’s death and following 3 income years
+### HC 8B Income in income year of person’s death and following 3 income years
 When this section applies
 (1) This section applies to a trustee of an estate of a deceased person for the income year in which the person died and the subsequent 3 income years.
 Basic rate of tax for trustee
-(2) For an income year in which the trustee derives trustee income, the basic rate of income tax for the trustee on each dollar of the trustee’s taxable income is set out in schedule 1, part A, clause 6B (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
+(2) For an income year in which the trustee derives income, the basic rate of income tax for the trustee on each dollar of the trustee’s taxable income is set out in schedule 1, part A, clause 6B (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 
 ### HC 9 Classifying trusts
 A trust is classified at the time it makes a distribution as—
@@ -28896,7 +28987,7 @@ Trustee treated as making election
   (b) the trust ceases to meet the requirement in section HC 10(1)﻿(a)﻿(i) in an income year (the non-complying year); and
   (c) the trustee meets the tax obligations relating to the income tax liability referred to in subsection (2), for the non-complying year and notifies the Commissioner that the trust is a complying trust for the non-complying year,—
     (i) for a trustee that is required to file a return of income for the non-complying year, in the return of income and by the due date for the return of income:
-    (ii) for a trustee that is not required to file a return of income for the non-complying year, by the due date for a return, by a resident foreign trustee, required by section 59D of the Tax Administration Act 1994 for the non-complying year.
+    (ii) for a trustee that is not required to file a return of income for the non-complying year, by the due date for a return, by a trustee of a foreign exemption trust, required by section 59D of the Tax Administration Act 1994 for the non-complying year.
 Status of person making election and settlor
 (1C) From when an election by a person under subsection (1) applies under subsection (3), the tax obligations of the trustee of the trust arising from the trust are determined on the basis that—
   (a) the trustee is a New Zealand resident; and
@@ -28948,18 +29039,21 @@ Treatment of amount derived
 (2) The amount is—
   (a) excluded income of the minor under section CX 58 (Amounts derived by minors from trusts); and
   (b) treated as trustee income for the purposes of who pays the relevant tax and who provides the return of income; and
-  (c) subject to the basic rate of income tax set out in schedule 1, part A, clause 3.
+  (c) subject to the basic rate of income tax set out in schedule 1, part A, clause 15.
 Meaning of minor
 (3) For the purposes of this section, and sections HC 36, HC 37, LE 4, and LF 2 (which relate to the treatment of tax credits of beneficiary minors), a minor is a natural person resident in New Zealand who is under 16 years of age on the trust’s balance date for the income year.
 Exclusions
-(4) This section does not apply—
-  (a) if the total amount of beneficiary income that the minor derives from the trust in the income year is $1,000 or less; or
-  (b) to beneficiary income derived—
-    (i) from a trust settled in the way described in section HC 36:
-    (ii) from a testamentary trust described in section HC 37:
-    (iii) from a Maori authority:
-    (iv) directly from a group investment fund:
-    (v) by a person for whom a child disability allowance is paid under the Social Security Act 2018.
+(4) This section does not apply to—
+  (a) a minor who, for the income year, derives 1 or more of the following:
+    (i) beneficiary income from the trust of $1,000 or less:
+    (ii) a child disability allowance paid under the Social Security Act 2018:
+    (iii) a disability allowance paid under the Social Security Act 2018:
+  (b) beneficiary income derived from the trust if the trust is—
+    (i) settled in a way described in section HC 36:
+    (ii) a testamentary trust described in section HC 37:
+    (iii) a disabled beneficiary trust described in section HC 39:
+    (iv) a Maori authority:
+    (v) a group investment fund.
 Relationship with other provisions
 (5) This section overrides sections HC 5, HC 18 to HC 20, HC 22, HC 23, and HC 32.
 
@@ -29005,15 +29099,17 @@ When this section applies
   (c) a person for whom a settlor of trust A has natural love and affection:
   (d) the trustees of a trust (trust B), if a settlor of trust A has natural love and affection for a settlor or beneficiary of trust B.
 When this section does not apply
-(2) This section does not apply to a close company that is a—
-  (a) Maori authority:
-  (b) tax charity:
-  (c) securitisation trust beneficiary.
+(2) This section does not apply to—
+  (a) a close company that is a—
+    (i) Maori authority:
+    (ii) tax charity:
+    (iii) securitisation trust beneficiary:
+  (b) non-residents’ foreign-sourced income derived by a close company of which all shareholders are non-resident.
 Treatment of amount derived
 (3) The amount is—
   (a) excluded income of the close company under section CX 58B (Amounts derived by certain close companies from trusts); and
   (b) treated as trustee income for the purposes of who pays the relevant tax and who provides the return of income; and
-  (c) subject to the basic rate of income tax set out in schedule 1, part A, clause 3.
+  (c) subject to the basic rate of income tax set out in schedule 1, part A, clause 16.
 Relationship with other provisions
 (4) This section—
   (a) overrides sections HC 5, HC 22, HC 23, and HC 32; and
@@ -29550,8 +29646,8 @@ Excluded amounts
   (e)
 
 ### HG 3 General provisions relating to disposals
-Relationship between disposal upon dissolution and disposal safe harbours
-(1) Section HG 4 overrides sections HG 5 to HG 10.
+No disposal safe harbours when disposal upon dissolution
+(1) Sections HG 5 to HG 10 do not apply for the partners of a partnership when the partnership is finally dissolved by agreement of the partners, court order, or otherwise and the partnership’s business, ignoring section HG 2, will not continue to be carried on in partnership.
 Election out of disposal safe harbours for small partnerships
 (2) Sections HG 5 to HG 9 do not apply for the partners of a small partnership if the entering partner, the exiting partner, and the partnership, furnish returns of income that ignore the sections.
 Election in for specified livestock disposed of to entering partner
@@ -29573,7 +29669,7 @@ Exclusion: partnerships of persons in marriage, civil union, or de facto relatio
   (c) on dissolution, all partner's interests of 1 person are transferred, ignoring any intervening transfer to an executor or administrator, to the other person; and
   (d) the transfers of those partner's interests are subject to provisions in subpart FB or FC (which relate to transfers of relationship property and gifts), and those provisions treat the transfers as disposals for amounts that are not the interests' market values.
 Relationship with subject matter
-(6) This section overrides sections HG 5 to HG 10.
+(6)
 Market value of debt owed
 (7) In this section, in relation to a limited partnership, the market value of a partner’s interest in a financial arrangement as debtor must take into account the amount of any adjustment for credit impairment.
 
@@ -29598,8 +29694,8 @@ Entering partner: stepping in
 (6) For the purposes of calculating the income and deductions of an entering partner for the part of the income year after the disposal of the interests occurs and later income years (the post-disposal periods), the entering partner is treated for the post-disposal periods as if they had originally acquired and held the current interests, not the exiting partner. However, this subsection does not apply to a deduction carried forward under section HG 12.
 Exclusion by election
 (7) This section does not apply for the partners of a small partnership if section HG 3(2) applies.
-Relationship with section HG 4
-(8) Section HG 4 overrides this section.
+Exclusion: final dissolution
+(8) This section does not apply for the partners of a partnership if section HG 3(1) applies.
 
 ### HG 6 Disposal of trading stock
 When this section applies
@@ -29614,8 +29710,8 @@ Entering partner: stepping in
 (5) For the purposes of calculating the income tax liability of an entering partner, the entering partner is treated as if they had acquired and held the trading stock, not the exiting partner.
 Exclusion by election
 (6) This section does not apply for the partners of a small partnership if section HG 3(2) applies.
-Relationship with section HG 4
-(7) Section HG 4 overrides this section.
+Exclusion: final dissolution
+(7) This section does not apply for the partners of a partnership if section HG 3(1) applies.
 
 ### HG 7 Disposal of depreciable property
 When this section applies
@@ -29630,8 +29726,8 @@ Entering partner: stepping in
 (5) For the purposes of calculating the income tax liability of an entering partner for the part of the income year after the disposal of the depreciable property occurs and later income years (the post-disposal periods), the entering partner is treated for the post-disposal periods as if they had originally acquired and held the depreciable property, not the exiting partner.
 Exclusion by election
 (6) This section does not apply for the partners of a small partnership if section HG 3(2) applies.
-Relationship with section HG 4
-(7) Section HG 4 overrides this section.
+Exclusion: final dissolution
+(7) This section does not apply for the partners of a partnership if section HG 3(1) applies.
 
 ### HG 8 Disposal of financial arrangements and certain excepted financial arrangements
 When this section applies
@@ -29648,8 +29744,8 @@ Entering partner: stepping in
 (5) For the purposes of calculating the income tax liability of an entering partner for the part of the income year after the disposal of the relevant financial arrangement or excepted financial arrangement occurs and later income years (the post-disposal periods), the entering partner is treated for the post-disposal periods as if they had acquired and held the financial arrangement or excepted financial arrangement, not the exiting partner.
 Exclusion by election
 (6) This section does not apply for the partners of a small partnership if section HG 3(2) applies.
-Relationship with section HG 4
-(7) Section HG 4 overrides this section.
+Exclusion: final dissolution
+(7) This section does not apply for the partners of a partnership if section HG 3(1) applies.
 
 ### HG 9 Disposal of short-term agreements for sale and purchase
 When this section applies
@@ -29664,8 +29760,8 @@ Entering partner: stepping in
 (5) For the purposes of calculating the income tax liability of an entering partner for the part of the income year after the disposal of the short-term agreement for sale and purchase occurs and later income years (the post-disposal periods), the entering partner is treated for the post-disposal periods as if they had originally acquired and held the short-term agreement for sale and purchase, not the exiting partner.
 Exclusion by election
 (6) This section does not apply for the partners of a small partnership if section HG 3(2) applies.
-Relationship with section HG 4
-(7) Section HG 4 overrides this section.
+Exclusion: final dissolution
+(7) This section does not apply for the partners of a partnership if section HG 3(1) applies.
 
 ### HG 10 Disposal of livestock
 When this section applies
@@ -29674,6 +29770,8 @@ When this section applies
   (b) the cost price method for specified livestock, described in section EC 25 (Cost price, replacement price, or market value).
 Entering partner's cost base
 (2) Section EC 26B (Entering partners' cost base) may apply to the entering partner for the purposes of determining the value of the specified livestock at the end of an income year for the purposes of section EC 2 (Valuation of livestock).
+Exclusion: final dissolution
+(3) This section does not apply for the partners of a partnership if section HG 3(1) applies.
 
 ### HG 11 Limitation on deductions by partners in limited partnerships
 When this section applies
@@ -31135,9 +31233,9 @@ Timing
 
 ### HP 1 Liability for multinational top-up tax
 Payment of tax
-(1) A constituent entity (entity A) that is required to pay an amount of tax for a fiscal year under the applied global anti-base erosion rules must pay the amount to the Commissioner.
+(1) A constituent entity, other than a securitisation entity, (entity A) that is required to pay an amount of tax for a fiscal year under the applied global anti-base erosion rules must pay the amount to the Commissioner.
 Joint and several liability
-(2) Each constituent entity that is located in New Zealand under the applied global anti-base erosion rules and that is a member of the same MNE group as entity A is jointly and severally liable with entity A for the amount of tax for the fiscal year payable by entity A under the applied global anti-base erosion rules.
+(2) Each constituent entity, other than a securitisation entity, that is located in New Zealand under the applied global anti-base erosion rules and that is a member of the same MNE group as entity A is jointly and severally liable with entity A for the amount of tax for the fiscal year payable by entity A under the applied global anti-base erosion rules.
 Member leaving MNE group
 (3) If a constituent entity (entity B) that is a member of the same MNE group as entity A leaves the MNE group, entity B is relieved from liability under subsection (2) for a fiscal year if—
   (a) the assessment of entity A’s multinational top-up tax liability for the fiscal year is made after entity B leaves the MNE group; and
@@ -31444,7 +31542,7 @@ Treatment of income
 (3) The person has an amount of income derived on the day that is 1 year after the end date that is equal to the current market value, on the end date, of assets that the person has on the end date less the current market value, on the end date, of liabilities that the person has on the end date, but ignoring:
   (a) assets that are disposed of or transferred for charitable purposes within 1 year of the end date, together with any rights and obligations, to—
     (i) a tax charity, other than a tax charity as defined in paragraph (c) of the definition of tax charity:
-    (ii) a New Zealand resident person, other than a natural person, that derives exempt income under any of sections CW 38 to CW 52, CW 55BA, or CW 64 (which relate to exempt income of certain entities):
+    (ii) a New Zealand resident person, other than a natural person, that derives exempt income under any of sections CW 38 to CW 52, CW 55BA, and CW 64 (which relate to exempt income of certain entities):
   (b) assets received from the Crown—
     (i) to settle a Treaty of Waitangi claim:
     (ii) in accordance with the Maori Fisheries Act 2004:
@@ -34369,7 +34467,7 @@ Credits for year of breach
 Purpose
 (1) The purpose of subsection (2) is to provide a power to maintain the intent of the research and development tax credit regime in accordance with its stated purpose in section LY 1(1).
 Order in Council
-(2) The Governor-General may, by Order in Council made on the joint recommendation of the Minister of Revenue and the Minister of Research, Science, and Innovation,—
+(2) The Governor-General may, by Order in Council made on the joint recommendation of the Minister of Revenue and the Minister of Science, Innovation, and Technology,—
   (a) add the description of an activity or of an expenditure or loss, as applicable, to—
     (i) schedule 21:
     (ii) schedule 21B:
@@ -34391,13 +34489,13 @@ Sunset
 (5) An Order in Council under this section expires on the date that is 3 years after the last day of the tax year that the Order first applies for.
 
 ### LY 10 Evaluation
-The Minister of Research, Science and Innovation will lay a report before the House of Representatives as soon as practicable after the end of the 2023–24 tax year, and every 5 years subsequent, objectively and independently evaluating the research and development tax credit regime in terms of all of the following:
+The Minister of Science, Innovation, and Technology will lay a report before the House of Representatives as soon as practicable after the end of the 2023–24 tax year, and every 5 years subsequent, objectively and independently evaluating the research and development tax credit regime in terms of all of the following:
   (a) the delivery of the policy intent of the regime:
   (b) the stimulation of spending on research and development activities:
   (c) the compliance costs of the regime:
   (d) the administration of the regime:
   (e) the compliance with the legal requirements of the regime by taxpayers:
-  (f) any other criteria specified by the Minister of Research, Science and Innovation.
+  (f) any other criteria specified by the Minister of Science, Innovation, and Technology.
 
 ### Subpart LZ — Terminating provisions
 
@@ -35598,56 +35696,68 @@ In this subpart,—
   - **FamilyBoost tax credit** means a tax credit under section MH 3
   - **licensed early childhood service** has the meaning set out in section 10 of the Education and Training Act 2020
   - **licensed early childhood service fees** includes optional charges but excludes any portion that is a donation
-  - **tax credit income** means the amount determined under section MH 4.
+  - **other income** means a person’s income that is not reportable income but also includes a PAYE income payment that is a schedular payment under section RD 8 (Schedular payments)
+  - **reportable income** has the meaning set out in section 22D(3) of the Tax Administration Act 1994, but does not include a PAYE income payment that is a schedular payment under section RD 8
+  - **tax credit income** means the amount determined under section MH 4
+  - **tax credit quarter** means the quarter for which a person is entitled to a FamilyBoost tax credit under section MH 4.
 
 ### MH 3 FamilyBoost tax credit
 Entitlement to FamilyBoost tax credit
-(1) A natural person is entitled to a tax credit, the FamilyBoost tax credit, for a quarter for the amount calculated under subsections (2) and (3) if, during that quarter, the person—
-  (a) is a caregiver of one or more children enrolled with a licensed early childhood service; and
+(1) A natural person is entitled to a FamilyBoost tax credit for a tax credit quarter for the amount calculated under subsections (2) and (3) if, during that quarter, the person—
+  (a) is a caregiver of 1 or more children enrolled with a licensed early childhood service; and
   (b) incurs licensed early childhood service fees for that child or children; and
   (c) is resident in New Zealand.
 Amount of credit
-(2) Subject to subsection (3), the FamilyBoost tax credit for the quarter is equal to 25% of the licensed early childhood service fees payable by the person for the quarter up to a maximum credit amount of $975.
+(2) Subject to subsection (3), the FamilyBoost tax credit for a tax credit quarter is equal to 25% of the licensed early childhood service fees payable by the person for that quarter up to a maximum credit amount of $975.
 Abatement of credit
-(3) If the person’s tax credit income for the quarter is greater than $35,000, the FamilyBoost tax credit for the quarter is the lesser of—
+(3) If the person’s tax credit income calculated under section MH 4 is greater than $35,000 for the tax credit quarter, the FamilyBoost tax credit for the tax credit quarter is the lesser of—
   (a) the amount of the FamilyBoost tax credit determined under subsection (2); and
   (b) $975 less the abatement amount.
 Person may apply for refund
-(4) A person entitled to a FamilyBoost tax credit for a quarter may apply for a refund of that credit under section 41C of the Tax Administration Act 1994 if—
-  (a) the person has met their obligation to file a return of income by the dates set out in section 37 of the Tax Administration Act 1994; and
-  (b) the person’s spouse, civil union partner, or de facto partner (partner), if applicable, has also met their obligation to file a return of income by the dates set out in section 37 of the Tax Administration Act 1994.
+(4) A person entitled to a FamilyBoost tax credit for a tax credit quarter may apply for a refund of that credit under section 41C of the Tax Administration Act 1994 if, subject to subsection (5),—
+  (a) the person has met their obligation to file a return of income by the due dates set out in section 37 of that Act; and
+  (b) the person’s spouse, civil union partner, or de facto partner (relationship partner), if applicable, has also met their obligation to file a return of income by the due dates set out in section 37 of that Act.
+Late filing of income tax return
+(5) If a person or their relationship partner has failed to meet their obligation to file a return of income by the due dates set out in section 37 of the Tax Administration Act 1994, the person may be treated as complying with that section for the purposes of subsection (4) once they have filed the outstanding return or returns that would enable the Commissioner to assess their tax credit income under section MH 4.
 One tax credit per couple
-(5) If a person entitled to a FamilyBoost tax credit under subsection (1) has a partner, that partner is not also entitled to a FamilyBoost tax credit for the quarter, regardless of whether the licensed early childhood service fees are incurred by both the person and their partner.
-Deceased estate
-(6) Despite subsection (4), where a person entitled to a FamilyBoost tax credit dies before applying for a refund of that credit, the trustee of that person’s estate may apply for a refund of the FamilyBoost tax credit to which the deceased person was entitled under subsection (1) as if they were that person.
+(6) If a person entitled to a FamilyBoost tax credit under subsection (1) has a relationship partner, the relationship partner is not also entitled to a FamilyBoost tax credit for the tax credit quarter, regardless of whether the licensed early childhood service fees are incurred by both the person and their relationship partner.
 Separated persons
-(7) Subsection (5) does not apply for a quarter if the person is separated from their partner and does not have a new partner at the end of the quarter.
+(7) Subsection (6) does not apply for a tax credit quarter if the person is separated from their relationship partner and does not have a relationship partner at the end of that quarter.
+Deceased estate
+(8) Despite subsection (4), when a person entitled to a FamilyBoost tax credit dies before applying for a refund of that credit, the trustee of that person’s estate may apply for a refund of the FamilyBoost tax credit to which the deceased person was entitled under subsection (1) as if they were that person.
 
 ### MH 4 Meaning of tax credit income
 Meaning of tax credit income
-(1) The tax credit income of a person entitled to a FamilyBoost tax credit for a quarter under section MH 3 is the amount determined under subsections (2) to (6).
-Reportable income
-(2) Subject to subsection (4), if the person derives reportable income in the quarter, the person’s tax credit income for the quarter is the amount of that reportable income.
-Other income
-(3) Subject to subsection (4), if the person derives taxable income other than reportable income in the quarter, the amount treated as the person’s tax credit income for the quarter is,—
-  (a) if a return of income has been filed by the person for the income year that includes the quarter, 25% of the amount of the person’s taxable income for that income year; or
-  (b) in any other case, 25% of the amount of the person’s taxable income for the income year for which the most recent return of income has been filed by the person before the commencement of the quarter.
-Reportable and other income
-(4) If the person derives both reportable income and taxable income other than reportable income in the quarter, the person’s tax credit income for the quarter is the greater of—
-  (a) the person’s reportable income in the quarter; and
-  (b) the amount treated as the person’s tax credit income for the quarter under subsection (3).
+(1) The tax credit income of a person entitled to a FamilyBoost tax credit under section MH 3 is the amount determined under subsections (2) to (8).
+Person has only reportable income
+(2) When the person has only reportable income in a tax credit quarter, the person’s tax credit income for the tax credit quarter is the same amount as their reportable income for that quarter.
+Person has only other income for income year including tax credit quarter
+(3) Subject to subsection (5), the person’s tax credit income for a tax credit quarter is 25% of the person’s taxable income for an income year when—
+  (a) the person has filed a return of income for that income year; and
+  (b) that income year includes the tax credit quarter; and
+  (c) the person has only other income for that income year.
+Person has only other income for income year not including tax credit quarter
+(4) If the person has not yet filed a return of income for an income year that includes a tax credit quarter, the Commissioner may determine the person’s tax credit income based on the person’s most recent return. Subject to subsection (5), the person’s tax credit income for that quarter is 25% of the person’s taxable income for an income year when—
+  (a) the most recent return has been filed in either of the 2 income years preceding the tax credit quarter; and
+  (b) the person has complied with the due dates for filing under section 37 of the Tax Administration Act 1994 or is treated as doing so under section MH 3(5).
+Person has both reportable income and other income
+(5) If the person has both reportable income and other income during an income year, the Commissioner may determine the person’s tax credit income based on the person’s most recent return of income. The person’s tax credit income for the tax credit quarter is the greater of—
+  (a) the amount under subsection (2), calculated as if the person has only reportable income for that income year; and
+  (b) the amount under subsection (3) or (4), calculated as if the person has only other income for that income year.
+Neither reportable nor other income
+(6) Despite subsections (2), (3), (4), and (5), a person’s tax credit income is zero if, throughout the 2-year period preceding the income year that includes the person’s tax credit quarter, the person has not had an obligation to file a return of income by the dates required under section 37 of the Tax Administration Act 1994 and has not derived reportable income for the tax credit quarter.
 Combined tax credit incomes
-(5) If the person has a spouse, civil union partner, or de facto partner (partner) for the quarter, the person’s tax credit income for the quarter is the combined total of the person’s tax credit income and the tax credit income of their partner for the quarter. For these purposes, their partner’s tax credit income is determined under subsections (2) to (4) as if their partner were the person referred to in those subsections.
+(7) If the person has a spouse, civil union partner, or de facto partner (relationship partner) for the tax credit quarter, the person’s tax credit income for the tax credit quarter is the combined total of the person’s tax credit income and the tax credit income of their relationship partner for that quarter. For these purposes, their relationship partner’s tax credit income is determined under subsections (2) to (6) as if their relationship partner were the person referred to in those subsections.
 Separated persons
-(6) Subsection (5) does not apply for a quarter if the person is separated from their partner and does not have a new partner at the end of that quarter.
+(8) Subsection (7) does not apply for a tax credit quarter if the person is separated from their relationship partner and does not have a relationship partner at the end of that quarter.
 
 ### MH 5 FamilyBoost tax credit abatement
 What this section does
-(1) When a person is entitled to a FamilyBoost tax credit for a quarter under section MH 3 and the person’s tax credit income for the quarter is greater than $35,000, this section calculates the abatement amount for the purposes of section MH 3(3)﻿(b).
+(1) When a person is entitled to a FamilyBoost tax credit for a tax credit quarter under section MH 3 and the person’s tax credit income for that quarter is greater than $35,000, this section calculates the abatement amount for the purposes of section MH 3(3)﻿(b).
 Rate of abatement
-(2) Subject to subsection (3), the abatement amount is calculated at the rate of 9.75 cents for each complete dollar of the person’s tax credit income for the quarter that is greater than $35,000.
+(2) Subject to subsection (3), the abatement amount is calculated at the rate of 9.75 cents for each complete dollar of the person’s tax credit income for the tax credit quarter that is greater than $35,000.
 Zero credit
-(3) If the person’s tax credit income for the quarter is $45,000 or more, the abatement amount is $975 and the FamilyBoost tax credit amount under section MH 3(2) and (3) is zero.
+(3) If the person’s tax credit income for the tax credit quarter is $45,000 or more, the abatement amount is $975 and the FamilyBoost tax credit amount under section MH 3(2) and (3) is zero.
 
 ### Subpart MK — Tax credits for KiwiSaver schemes and complying superannuation funds
 
@@ -36667,9 +36777,9 @@ Debit
 Exclusion: FDPA companies
 (1B)
 Exclusion: refund after debit under section OB 41
-(1C) Despite subsection (1), an ICA company has an imputation debit for a refundable tax credit arising in a tax year after a debit arises under section OB 41, reduced by the lesser of—
+(1C) Despite subsection (1), an ICA company has an imputation debit for a refundable tax credit or a research and development tax credit arising in a tax year after a debit arises under section OB 41, reduced by the lesser of—
   (a) the debit under section OB 41:
-  (b) the amount by which the refundable tax credit exceeds the total credits to the company’s imputation credit account, for amounts satisfying the company’s income tax liability, during the period from the date of the debit to the date on which the credit balance is to be determined under sections RM 13 and RM 14 (which relate to limits on refunds for ICA companies).
+  (b) the amount by which the tax credit exceeds the total credits to the company’s imputation credit account, for amounts satisfying the company’s income tax liability, during the period from the date of the debit to the date on which the credit balance is to be determined under sections RM 13 and RM 14 (which relate to limits on refunds for ICA companies).
 Table reference
 (2) The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 9 (refund of tax credit).
 Debit date
@@ -39557,7 +39667,7 @@ Relevant end dates
   (a) for PAYE and ESCT payable for 2 payment periods in a month under section RD 4(1)﻿(b) or RD 65(3) (which set out the basis for payment of PAYE and ESCT),—
     (i) for the first payment period, the 15th day of the month; and
     (ii) for the second payment period, the last day of the month:
-  (b) for PAYE, RWT, NRWT, RSCT, and RLWT payable monthly under section RD 4(1)﻿(a), RE 21(2) and (7), RF 3, RF 13(3), RH 2(2), or RL 5 (which set out the basis for payment of PAYE, RWT, NRWT, RSCT, and RLWT), as applicable, the last day of a month:
+  (b) for PAYE, RWT, NRWT, RSCT, and RLWT payable monthly under section RD 4(1)﻿(a), RE 21(2) and (7), RF 3, RF 13(3), RH 2(4), or RL 5 (which set out the basis for payment of PAYE, RWT, NRWT, RSCT, and RLWT), as applicable, the last day of a month:
   (c) for FBT payable quarterly under sections RD 58, RD 59, and RD 62 (which set out the basis for payment of FBT), the last day of a quarter:
   (d) for RWT and NRWT payable by instalment under section RE 21(3) or RF 13(2) (which set out the basis for payment of RWT and NRWT)—
     (i) for the first instalment, the last day of September; and
@@ -40899,26 +41009,29 @@ When this section applies
 Obligation to retain amount
 (2) The PAYE rules apply to the contractor in relation to a payment made to the subcontractor in relation to the work carried out under the contract.
 
-### RD 20B Payments of accident compensation for period of more than 1 year
+### RD 20B Treatment of certain support payments made for period of more than 1 year
 What this section applies to
-(1) This section applies to a person for a payment (the multi-year compensation payment) that is made in a lump sum and relates to a period of more than 1 income year for the person and is—
+(1) This section applies to a person for a payment (the multi-year support payment) that is made in a lump sum and relates to a period of more than 1 income year for the person and is—
   (a) an accident compensation earnings-related payment, except to the extent to which the payment is the conversion of weekly compensation to an aggregated payment under schedule 1, part 4, clause 67 of the Accident Compensation Act 2001; or
-  (b) a personal service rehabilitation payment, except to the extent to which the payment is a reimbursement payment to which section CW 35 (Personal service rehabilitation payments) applies.
+  (b) a personal service rehabilitation payment, except to the extent to which the payment is a reimbursement payment to which section CW 35 (Personal service rehabilitation payments) applies; or
+  (c) a lump sum support payment made under the Veterans’ Support Act 2014, except to the extent to which the payment is—
+    (i) a pension referred to in section CW 28 (Pensions):
+    (ii) an impairment payment relating to incapacity to work referred to in section CW 34 (Compensation payments).
 Tax rate for payment and income year
-(2) The tax rate given by subsection (3) applies to the multi-year compensation payment for the income year in which the person derives the payment.
+(2) The tax rate given by subsection (3) applies to the multi-year support payment for the income year in which the person derives the payment.
 Tax rate
 (3) The tax rate referred to in subsection (2) is—
   (a) 10.5%, if the rate given by the formula in subsection (4) (the average basic tax rate) is less than 10.5% and paragraph (c) does not apply; or
   (b) the person’s average basic tax rate, if neither of paragraphs (a) and (c) apply; or
-  (c) the person’s basic tax rate for the income year in which the person derives the multi-year compensation payment, if that basic tax rate is less than the average basic tax rate.
+  (c) the person’s basic tax rate for the income year in which the person derives the multi-year support payment, if that basic tax rate is less than the average basic tax rate.
 Formula for average basic tax rate
-(4) The person’s average basic tax rate for this section is calculated over the period of the 4 income years (the rate averaging period) ending before the income year in which the person derives the multi-year compensation payment using the formula—total basic rates ÷ number of income years.
+(4) The person’s average basic tax rate for this section is calculated over the period of the 4 income years (the rate averaging period) ending before the income year in which the person derives the multi-year support payment using the formula—total basic rates ÷ number of income years.
 Definition of items in formula
 (5) In the formula in subsection (4),—
   (a) total basic rates is the sum of the person’s basic tax rate calculated under schedule 1, part A, clause 1 for each of the income years in the rate averaging period for which that rate is known by the Commissioner:
   (b) number of income years is the number of income years within the rate averaging period for which the person’s basic tax rate is known by the Commissioner and included in the total basic rates.
 Withholding from payment
-(6) For the purposes of section RA 5 (Tax obligations for employment-related taxes), if the multi-year compensation payment is an accident compensation earnings-related payment, the person making the payment must withhold an amount of tax from the payment at the rate given by subsection (7).
+(6) For the purposes of section RA 5 (Tax obligations for employment-related taxes), if the multi-year support payment is an accident compensation earnings-related payment, the person making the payment must withhold an amount of tax from the payment at the rate given by subsection (7).
 Rate of withholding
 (7) The rate referred to in subsection (6) is,—
   (a) if the person’s average basic tax rate is less than 10.5%, 10.5%; or
@@ -42193,6 +42306,8 @@ When this section applies
 (1) This section applies when—
   (a) an unincorporated body that is carrying on a taxable activity has RWT-exempt status; and
   (b) the exemption relates to the carrying on of the taxable activity.
+When this section does not apply
+(1B) This section does not apply to a limited partnership.
 Treatment of payments made by unincorporated bodies
 (2) For the purposes of the RWT rules, a payment that the body makes in the course of carrying on the taxable activity is treated as a payment made by the body and not by a member of the body. This subsection overrides subsection (7).
 Treatment of payments to members of unincorporated bodies
@@ -42214,6 +42329,18 @@ Changes in membership
 Some definitions
 (10) In this section,—
   - **member** means a partner, joint venturer, a trustee, or a member of a body.
+
+### RE 31 When limited partnerships have RWT-exempt status
+When this section applies
+(1) This section applies when a limited partnership has RWT-exempt status.
+Treatment of payments made by limited partnerships
+(2) For the purposes of the RWT rules, a payment that the limited partnership makes is treated as a payment made by the partnership and not by a limited partner of the partnership.
+Treatment of payments to partners of limited partnerships
+(3) For the purposes of the RWT rules, a payment made to a limited partner of the limited partnership in their capacity as a partner is treated as a payment made to the partnership and not to the partner.
+Joint and several liability for amounts of tax
+(4) A general partner is jointly and severally liable for the RWT that the limited partnership is required to pay if the general partner was a partner in the partnership when the partnership incurred the RWT liability.
+General partner
+(5) For the purposes of subsection (4), a general partner continues as a partner until the date the Commissioner is notified that they are no longer a partner.
 
 ### Subpart RF — Withholding tax on non-resident passive income (NRWT)
 
@@ -42359,6 +42486,14 @@ ExampleThree years ago, NZ Sub A Ltd (A) borrowed NZ$1m from a non-resident asso
 ### RF 3 Obligation to withhold amounts of tax for non-resident passive income
 Withholding amount of tax
 (1) A person who makes a payment of non-resident passive income must withhold the amount of tax for the payment and pay it to the Commissioner. The obligation to withhold arises under section RA 6(2) (Withholding and payment obligations for passive income) at the time of payment.
+Payments derived by non-resident partners
+(1B) For the purposes of subsection (1), when a payment of non-resident passive income, being interest that has a New Zealand source, is derived by a non-resident as a limited partner in a limited partnership, the limited partnership may choose to be treated as the person who makes the payment of that non-resident passive income to the extent of that payment.
+Payments made by limited partners
+(1C) For the purposes of subsection (1), when a person makes a payment of non-resident passive income that consists of interest as a limited partner in a limited partnership, the limited partnership may choose to be treated as the person who makes the payment of that non-resident passive income to the extent of that payment.
+Election by limited partnerships
+(1D) A limited partnership is treated as having made an election under subsection (1B) or (1C) if the limited partnership withholds and pays the tax to the Commissioner under subsection (1) in relation to that payment.
+Election before payment made
+(1E) Despite subsection (1D), a limited partnership is also treated as having made an election under subsection (1B) if the limited partnership notifies the Commissioner before a payment of non-resident passive income referred to in that subsection is made that the limited partnership chooses to be treated as the person who makes that payment.
 Exclusion
 (2) Despite subsection (1), no obligation to withhold NRWT arises in relation to an amount treated as a dividend under section GB 1(3) (Arrangements involving dividend stripping).
 
@@ -42381,15 +42516,17 @@ A person is not required to withhold NRWT when some or all of the payment consis
 
 ### RF 6 When amounts of tax not withheld or partly withheld
 Person as filing taxpayer
-(1) When a person is required under section RA 6(2) (Withholding and payment obligations for passive income) to withhold NRWT and does not withhold the full amount required under this Part, the person deriving the non-resident passive income is treated for this purpose as a filing taxpayer.
+(1) When a person (person A) is required under section RA 6(2) (Withholding and payment obligations for passive income) to withhold NRWT and does not withhold the full amount required under this Part, the person (person B) deriving the non-resident passive income is treated for this purpose as a filing taxpayer.
 When amount treated as dividend
 (1B) A person who derives non-resident passive income that is a dividend under section GB 1(3) (Arrangements involving dividend stripping) is treated as a filing taxpayer.
 Debt payable
-(2) The amount of tax referred to in subsection (1) as not withheld is a debt payable by the person to the Commissioner, and is treated as having become due under section RA 10 (When obligations not met).
+(2) The amount of tax referred to in subsection (1) as not withheld is a debt payable by person A to the Commissioner, and is treated as having become due under section RA 10 (When obligations not met).
 Non-cash dividends
 (3) Subsection (2) applies in relation to a non-cash dividend described in section RF 10 as if the amount equal to the amount of tax for the dividend were the amount payable.
 Commissioner’s powers to recover
-(4) In recovering the amount, the Commissioner may take the steps the Commissioner thinks fit in relation to the person in default or liable to pay, whether or not they are the same person.
+(4) In recovering the amount, the Commissioner may take the steps the Commissioner thinks fit in relation to person A or person B, whether or not they are the same person.
+Recovery of NRWT payable by person but paid by another person
+(5) Section 165 of the Tax Administration Act 1994 applies if NRWT payable by person B is, in fact, paid by another person.
 
 ### RF 7 General rate for NRWT
 When this section applies
@@ -42499,9 +42636,11 @@ When this section applies
 (1) This section applies in relation to an amount of non-resident passive income that consists of—
   (a) interest that—
     (i) is paid by an approved issuer under a registered security; and
-    (ii) unless the approved issuer is a member of a New Zealand banking group as described in section FE 33 (New Zealand banking group), is derived by a person not associated with the approved issuer except by being a beneficiary of a trust (a security trust) established for the main purpose of protecting and enforcing beneficiaries’ rights under the registered security; and
+    (ii) unless the approved issuer is a member of a New Zealand banking group as described in section FE 33 (New Zealand banking group) or a limited partnership, is derived by a person not associated with the approved issuer except by being a beneficiary of a trust (a security trust) established for the main purpose of protecting and enforcing beneficiaries’ rights under the registered security; and
+    (iib) if the approved issuer is a limited partnership that has chosen to be treated as the person making the payment under section RF 3(1B), is derived by a non-resident as a limited partner in the limited partnership and the limited partner is not associated with the borrower other than as a beneficiary of a security trust; and
+    (iic) if the approved issuer is a limited partnership that has chosen to be treated as the person making the payment under section RF 3(1C), is derived by a person not associated with the limited partner referred to in that section other than as a beneficiary of a security trust; and
     (iii) is not a payment to which section RF 12B applies; and
-    (iv) if the interest relates to related-party debt, is derived at a time when the person is not associated with the approved issuer other than as a beneficiary of a security trust, and the funding provided by the lender under the related-party debt does not meet the requirements in section RF 12H(1)﻿(a)﻿(ii), and the lender does not meet the requirements in section RF 12H(1)﻿(a)﻿(iii):
+    (iv) if the interest relates to related-party debt, is derived at a time when the person is not associated with the approved issuer other than as a beneficiary of a security trust or as a partner of a partnership that is a beneficiary of a security trust, and the funding provided by the lender under the related-party debt does not meet the requirements in section RF 12H(1)﻿(a)﻿(ii), and the lender does not meet the requirements in section RF 12H(1)﻿(a)﻿(iii):
   (b) interest that—
     (i) is paid by a transitional resident in relation to money borrowed by them while non-resident; and
     (ii) is not paid in relation to a business carried on through a fixed establishment in New Zealand; and
@@ -42522,6 +42661,10 @@ Definition of items in formula
   (c) foreign withholding tax is the amount of foreign withholding tax paid or payable on the amount of interest paid.
 Treatment as filing taxpayer
 (3) For the purposes of this section, the New Zealand resident referred to in subsection (1) is treated as a filing taxpayer.
+Interest derived by partners of partnerships
+(4) Interest derived by 2 or more persons jointly includes interest derived by partners in a partnership.
+Exclusion
+(5) Despite subsection (1), this section does not apply to a payment of non-resident passive income that consists of interest derived by a non-resident as a limited partner in a limited partnership when 1 or more of the partners in that partnership is a New Zealand resident.
 
 ### RF 12C Amount derived from non-resident life insurer becoming resident
 When this section applies
@@ -42650,7 +42793,7 @@ Special circumstances
   (a) relieve a person from an obligation to withhold NRWT under section RA 6(2) (Withholding and payment obligations for passive income), RF 3, RF 4, or RF 10; or
   (b) vary the amount of tax that a person must withhold under section RA 6(2).
 Exclusion for certain payments of interest
-(2) This section does not apply to an amount of tax for a payment of interest derived jointly with a person resident in New Zealand as described in section RF 12(1).
+(2) This section does not apply to an amount of tax for a payment of interest derived jointly with a person resident in New Zealand as described in section RF 12B(1).
 NRWT rules apply as if amended
 (3) On the exercise of a power under subsection (1), the NRWT rules apply in the particular case as if they were amended in the way in which the power is exercised.
 
@@ -43820,7 +43963,7 @@ In this Act, unless the context requires otherwise,—
     (a) provisional tax:
     (b) further income tax:
     (c) imputation penalty tax:
-    (d) penalty tax for a Maori authority payable under section 140DB of the Tax Administration Act 1994:
+    (d) distribution penalty tax for a Maori authority payable under section 140CB of the Tax Administration Act 1994:
     (e)
     (f)
     (g)
@@ -43890,6 +44033,8 @@ In this Act, unless the context requires otherwise,—
   - **attributed repatriation**
   - **attributing interest** means an attributing interest in a foreign investment fund as defined in sections EX 29 to EX 43 (which relate to attributing interests in FIFs)
   - **attribution period** , for a multi-rate PIE, means a period described in section HM 34 (Attribution periods)
+  - **Auckland Council** is defined in section CW 39B(4) (Auckland Future Fund) for the purposes of that section
+  - **Auckland Future Fund** is defined in section CW 39B(3) (Auckland Future Fund) for the purposes of that section
   - **Australian approved deposit fund** means an approved deposit fund as defined in section 10 of the Superannuation Industry (Supervision) Act 1993 (Aust)
   - **Australian complying superannuation scheme** means—
     (a) an entity that is a complying superannuation fund for the purposes of Part 5, Division 2 of the Superannuation Industry (Supervision) Act 1993 (Aust) and that is regulated by the Australian Prudential Regulation Authority:
@@ -44003,7 +44148,7 @@ In this Act, unless the context requires otherwise,—
     (a) means the normal business premises or a temporary workplace of the person (or an associate):
     (b) does not include premises or a workplace established mainly for the purpose of enjoying entertainment
   - **business tool** means an item that is used by an employee in the performance of their work duties and in the absence of section CX 21 (Business tools) would give rise to an unclassified benefit
-  - **business use** , for a motor vehicle and for a person, means travel undertaken by the vehicle wholly in deriving the person’s income
+  - **business use** , for a motor vehicle and for a person, means travel undertaken by the vehicle wholly and exclusively in deriving the person’s income
   - **calculation method** , for the calculation of FIF income or FIF loss, means any of the attributable FIF income method, the comparative value method, the deemed rate of return method, the fair dividend rate method, and the cost method
   - **calculation period** , for a multi-rate PIE, means a period in which the entity calculates an amount under section HM 47 (Calculation of tax liability or tax credit of multi-rate PIEs) that—
     (a) consists of 1 or more attribution periods:
@@ -44105,6 +44250,7 @@ In this Act, unless the context requires otherwise,—
       (ii) there are 5 or fewer persons the total of whose direct market value interests in the company is more than 50%, treating all persons associated at the time as 1 person
   - **closing stock** , for a person and for an income year, means trading stock of the person at the end of the income year
   - **code compliance certificate** is defined in section DH 5 (Key terms)
+  - **collection agency** has the same meaning as in section 4 of the Resale Right for Visual Artists Act 2023
   - **combined imputation and CTR ratio**
   - **combined imputation and FDP ratio**
   - **combined tax and earner-related payment** means, for a PAYE income payment, the total of—
@@ -44151,7 +44297,9 @@ In this Act, unless the context requires otherwise,—
   - **community trust** is defined in section 4 of the Community Trusts Act 1999
   - **company** —
     (a) means a body corporate or other entity that has a legal existence separate from that of its members, whether it is incorporated or created in New Zealand or elsewhere:
-    (ab) does not include a limited partnership, other than a listed limited partnership or foreign corporate limited partnership:
+    (ab) does not include a limited partnership, other than—
+      (i) a listed limited partnership or foreign corporate limited partnership:
+      (ii) a limited partnership treated as a company under section YB 14(4) (Tripartite relationship) for the purposes of section YB 14 or under section YB 16B (Limited partnerships treated as companies) for the purposes of sections YB 2, YB 3, YB 12(2), (3), and (4) (which relate to associated persons), and YC 4 (Look-through rule for corporate shareholders):
     (abb) does not include a look-through company, except in the PAYE rules, the FBT rules, the NRWT rules, the RWT rules, the ESCT rules, the RSCT rules, and for the purposes of subpart FO (Amalgamation of companies):
     (abc) does not include a company that is acting in the capacity of trustee:
     (ac)
@@ -44512,7 +44660,7 @@ In this Act, unless the context requires otherwise,—
     (g) in subpart FC (Distribution, transmission, and gifts of property) means a disposal of property in the manner provided for in that subpart:
     (h) for a partner,—
       (i) includes surrendering or extinguishing some or all of their partner’s interests:
-      (ii) does not include when their partner’s interests may be treated as disposed of by operation of law because another partner disposes of that partner’s interests, unless section HG 4 (Disposal upon final dissolution) applies
+      (ii) does not include when their partner’s interests may be treated as disposed of by operation of law because another partner disposes of that partner’s interests, unless the partnership is finally dissolved by agreement of the partners, court order, or otherwise, and the partnership’s business, ignoring section HG 2 (Partnerships are transparent), will not continue to be carried on in partnership:
     (i) in sections GC 20 and GC 21 (which relate to purchase price allocation) includes all events in paragraphs (a) to (h) of this definition and the grant, amendment, or transfer of a property right or interest
   - **disposition of property** in the trust rules, and in the definition of , but not for a unit trust,—
     (a) means an assignment, conveyance, delivery, payment, settlement, transfer, or other alienation of property, whether at law or in equity; and
@@ -44625,7 +44773,8 @@ In this Act, unless the context requires otherwise,—
       (i) a payment referred to in section RD 5(1)﻿(b)﻿(iii), (3), (3B), (6)﻿(b), (bb), (bc), and (c), and (7) (Salary or wages):
       (ii) a schedular payment referred to in schedule 4, parts A, I, and W (Standard rates of tax for schedular payments):
     (d)
-    (db) is defined in section CE 1(3)﻿(a) (Amounts derived in connection with employment) for the purposes of that section and sections CE 1B, and CW 16B to CW 16F (which relate to accommodation provided in connection with employment):
+    (db) is defined in section CE 1(3)﻿(a) (Amounts derived in connection with employment) for the purposes of that section and sections CE 1B, CW 16B to CW 16F, and CZ 29 to CZ 30 (which relate to accommodation provided in connection with employment):
+    (dc) is defined in section CE 1(3)﻿(b) for the purposes of sections CW 16B to CW 16F, and CZ 29 to CZ 30:
     (e) for an employee, means the employer of the employee
   - **employer contribution** has the same meaning as in the KiwiSaver Act 2006
   - **employer monthly schedule**
@@ -45604,7 +45753,7 @@ In this Act, unless the context requires otherwise,—
     (i) an energy company as defined in section 2(1) of the Energy Companies Act 1992 under an approved establishment plan under that Act:
     (ii) a company under section 76 of the Energy Companies Act 1992:
     (iii) a company to which have been transferred assets and liabilities of the Crown under section 16 of the Southland Electricity Act 1993; and
-  (b) continues to hold shares described in paragraph (a)
+  (b) continues to hold shares described in paragraph (a) or continues to have the same class of beneficiaries for which the trust was established
   - **liquidation** , for a company,—
     (a) includes—
       (i) removal of the company from the register of companies under the Companies Act 1993; and
@@ -45792,6 +45941,7 @@ In this Act, unless the context requires otherwise,—
       (iii) under section YC 4 (Look-through rule for corporate shareholders), any fraction of any market value interest held, or treated under section YC 4 as held, by the shareholder company in the company is treated as held by any other person
   - **market value interest** —
     (a) means, for a person and a company and a time, the percentage market value interest that the person is treated as holding in the company at the time under sections YC 2 to YC 20 (which relate to the measurement of company ownership):
+    (ab) means, for a person and a limited partnership that is treated as a company under section YB 14(4) (Tripartite relationship) or YB 16B (Limited partnerships treated as companies) and a time, and for the purposes of determining whether the limited partnership is associated under section YB 2(2) (Two companies) with a company for which a market value circumstance exists, the partnership share the person has in a right, obligation, or other property, status, or thing of the limited partnership:
     (b) is further defined in section HA 44 (Measuring effective interests) for the purposes of subpart HA (Qualifying companies (QC)) and the definition of effective interest
   - **master fund** means—
     (a) a group investment fund that derives category A income; or
@@ -46026,7 +46176,7 @@ In this Act, unless the context requires otherwise,—
     (c) entered into by the person for the sole purpose of hedging the foreign exchange risk of a foreign ASAP for which section EW 32(2C), (2D), or (2E) (Consideration for agreement for sale and purchase (ASAP) of property or services, hire purchase agreement, specified option, or finance lease) applies, and the person enters into the foreign ASAP after the start of the first income year for which an election described in section EW 33B(2)﻿(b) applies
   - **non-integral fee** means a fee or transaction cost that, for the purposes of financial reporting under IFRSs, is not an integral part of the effective interest rate of a financial arrangement
   - **non-Kyoto greenhouse gas unit**
-  - **non-listed horticultural plant** , in section DO 4 (Improvements to farm land) and schedule 20, part A, item 8 (Expenditure on farming, horticultural, aquacultural, and forestry improvements)—
+  - **non-listed horticultural plant** , in section DO 4 (Improvements to farm land) and schedule 20, part A, item 9 (Expenditure on farming, horticultural, aquacultural, and forestry improvements)—
     (a) means—
       (i) a horticultural plant, tree, vine, bush, cane, or similar plant that is cultivated on land, that is not a listed horticultural plant:
       (ii) a tree or other similar plant planted mainly for the purposes of ornamentation:
@@ -46186,6 +46336,7 @@ In this Act, unless the context requires otherwise,—
     (b) orphan’s benefit equivalent assistance
   - **orphan’s benefit equivalent assistance** means special assistance granted under clause 9 or 12 of the COVID-19 New Zealanders Stranded Overseas Support Programme that corresponds to an orphan’s benefit payable under section 43 of the Social Security Act 2018
   - **other amortisation provision** means a provision of this Act that has similar intent and application to sections EE 1 (What this subpart does), EZ 7 (Acquiring patent rights before 1 April 1993), and EZ 8 (Premium paid on land leased before 1 April 1993)
+  - **other income** is defined in section MH 2 (Some definitions) for the purposes of subpart MH (FamilyBoost tax credits)
   - **out-of-town secondment** is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects)
   - **output tax** is defined in section 2 of the Goods and Services Tax Act 1985
   - **outstanding balance** ,—
@@ -46230,7 +46381,7 @@ In this Act, unless the context requires otherwise,—
     (b) a joint venture, if the joint venturers all choose to be treated as a partnership for the purposes of this Act and the Tax Administration Act 1994:
     (c) co-owners of property, other than persons who are co-owners only because they are shareholders of the same company, or settlors, trustees, or beneficiaries of the same trust, if the co-owners all choose to be treated as a partnership for the purposes of this Act and the Tax Administration Act 1994:
     (d) a limited partnership
-  - **partnership share** means, for a particular right, obligation, or other property, status, or thing, the share that a partner has in the partnership
+  - **partnership share** means, for a particular right, obligation, or other property, status, or thing, the share that a person has in the partnership
   - **patent right** means the right to do or authorise anything that would, but for the right, be an infringement of a patent
   - **pay** ,—
     (a) for an amount and a person, includes—
@@ -46727,12 +46878,13 @@ In this Act, unless the context requires otherwise,—
     (a) means a petroleum permit obtained in whole or part exchange for another petroleum permit over the same or part of the same area; and
     (b) includes a sequential series of replacement permits to the extent to which each permit in the series replaces the previous permit in the series
   - **replacement plant** , in sections DO 6, DO 7, and DO 9 (which relate to horticultural plants) means a listed horticultural plant that replaces a listed horticultural plant, whether or not it is of the same type of listed horticultural plant
-  - **reportable income** is defined in section 22D(3) of the Tax Administration Act 1994
+  - **reportable income** is defined in section 22D(3) of the Tax Administration Act 1994, except as provided for in section MH 2 (Some definitions) for the purposes of subpart MH (FamilyBoost tax credits)
   - **reporting bank** is defined in section FE 4 (Some definitions) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **reporting standard**
   - **representative** means a person approved by the Commissioner under section 124D of the Tax Administration Act 1994 as a person who acts on behalf of another person in relation to their tax affairs or social policy entitlements and obligations
   - **request** , for a mode of communication, has the meaning set out in section 14B of the Tax Administration Act 1994
   - **required interest**
+  - **resale royalty** has the same meaning as in section 4 of the Resale Right for Visual Artists Act 2023
   - **research** is defined in section DB 35 (Some definitions) for the purposes of that section, section DB 34, and subpart MX (which relate to research and development)
   - **research and development activities**
   - **research and development activity** is defined in section LY 2 (Key terms)
@@ -46875,8 +47027,10 @@ In this Act, unless the context requires otherwise,—
     (i) income to which section YD 8 (Apportionment of premiums derived by non-resident general insurers) applies:
     (j) income under section CR 3B (Lloyd’s of London: income from life insurance premiums):
     (k) income to which section GB 3BAB (Arrangements to inject income into companies carrying forward loss balances) applies:
-    (l) income to which section RD 20B (Payments of accident compensation for period of more than 1 year) applies:
-    (m) income to which section RD 20C (Payments of recalculated main benefit) applies
+    (l) income to which section RD 20B (Treatment of certain support payments made for period of more than 1 year) applies:
+    (m) income to which section RD 20C (Payments of recalculated main benefit) applies:
+    (n) income to which section HC 35 (Beneficiary income of minors) applies:
+    (o) income to which section HC 38 (Beneficiary income of certain close companies) applies
   - **schedular income tax liability** means the amount determined under section BC 7 (Income tax liability of person with schedular income)
   - **scheduled overhaul period** , for an aircraft engine and an aircraft and an operator of the aircraft, means the maximum permitted interval between successive aircraft engine overhauls of the aircraft engine that the operator is required to perform
   - **schedular payment** is defined in section RD 8 (Schedular payments)
@@ -46892,6 +47046,10 @@ In this Act, unless the context requires otherwise,—
   - **secured arrangement** ,—
     (a) in the financial arrangements rules, and in the definitions of security arrangement and security payment, means an arrangement whose non-performance is secured against by a financial arrangement:
     (b) is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
+  - **securitisation entity** means—
+    (a) a securitisation entity as defined for or in the OECD’s publication Tax Challenges Arising from the Digitalisation of the Economy – Consolidated Commentary to the Global Anti-Base Erosion Model Rules or any replacement:
+    (b) a securitisation trust:
+    (c) a debt funding special purpose vehicle
   - **securitisation trust** , for an income year, means a trust that, from the establishment of the trust to the end of the relevant income year, only has one beneficiary and that beneficiary is a company, and at all times during the income year—
     (a) operates to do 1 or more of the following:
       (i) guarantee liabilities of a financial institution (person A), who transferred some or all of their assets to the trust:
@@ -47219,6 +47377,7 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section GB 36(5) (Reconstruction of imputation arrangements to obtain tax advantage) for the purposes of that section:
     (b) is defined in section GB 43(5) (Reconstruction of Maori authority credit arrangements to obtain tax advantage) for the purposes of that section
   - **tax credit income** is defined in section MH 2 (Some definitions) for the purposes of subpart MH (FamilyBoost tax credits)
+  - **tax credit quarter** is defined in section MH 2 (Some definitions) for the purposes of subpart MH (FamilyBoost tax credits)
   - **tax file number** means an identification number that the Commissioner has allocated to a person—
     (a) generally for the purposes of this Act; or
     (b) specifically for the purposes of RWT-exempt status under section RE 27 (RWT-exempt status)
@@ -47484,6 +47643,8 @@ In this Act, unless the context requires otherwise,—
   - **voting interest** —
     (a) means, for a person and a company and a time, the percentage voting interest that the person is treated as holding in the company at the time under sections YC 2 to YC 20 (which relate to the measurement of company ownership):
     (b) in subpart HA (Qualifying companies (QC)), and in the definition of effective interest, is described in section HA 44 (Measuring effective interests):
+    (bb) means, for a person and a limited partnership that is treated as a company under section YB 14(4) (Tripartite relationship) and a time, and for the purposes of section YB 14, the partnership share the person has in a right, obligation, or other property, status, or thing of that limited partnership:
+    (bc) means, for a person and a limited partnership that is treated as a company under section YB 16B (Limited partnerships treated as companies) and a time, and for the purposes of sections YB 2 and YB 3 (which relate to associated persons) and YC 4 (Look-through rule for corporate shareholders), the partnership share the person has in a right, obligation, or other property, status, or thing of that limited partnership:
     (c) in section YC 13(4) and (5) (Corporate spin-outs), means, for a person and a company and a time, the percentage voting interest that the person is treated as holding in the company under section YC 2 (Voting interests), as modified by section YC 13(7)
   - **WFF tax credit** means Working for Families tax credit and is defined in section MA 8 (Some definitions for family scheme)
   - **wholly-owned group** has the same meaning as
@@ -47613,6 +47774,7 @@ Tests
   (h) a settlor and a beneficiary, see section YB 9:
   (i) a trustee and a person with a power of appointment or removal, see section YB 11:
   (j) a partnership and a partner, see section YB 12:
+  (jb) a look-through company and a holder of an interest, see section YB 13:
   (k) two persons who are each associated with the same third person, see section YB 14.
 Application
 (4) The sections in this subpart relating to associated persons apply for the purposes of the whole Act unless a section expressly states otherwise.
@@ -47723,23 +47885,25 @@ Exclusion
   (d) is not eligible to benefit from the trust.
 
 ### YB 12 Partnership and partner
-Association
-(1) A partnership and a partner in the partnership are associated persons.
-Limited partnerships
-(2) Subsection (1) does not apply if the partner is a limited partner. Instead a limited partnership and a limited partner are associated persons if the limited partner has a partnership share of 25% or more in a right, obligation, or other property, status, or thing of the limited partnership.
-Limited partnerships: general aggregation rule
+Partnerships other than limited partnerships
+(1) For a partnership other than a limited partnership, the partnership and a partner in the partnership are associated persons.
+Limited partnerships and general partners
+(1B) A limited partnership and a general partner in the limited partnership are associated persons.
+Limited partnerships and holders of 25% partnership shares
+(2) If section YB 16B does not apply, a limited partnership and a person, other than a general partner in the limited partnership, are associated persons if the person has a partnership share of 25% or more in a right, obligation, or other property, status, or thing of the limited partnership.
+Holders of 25% partnership shares: general aggregation rule
 (3) For the purposes of subsection (2), if a person (person A) and another person (person B) are associated under any of sections YB 2 to YB 11 and YB 14, person A is treated as holding anything held by person B.
-Limited partnerships: aggregation rule for land provisions
+Holders of 25% partnership shares: aggregation rule for land provisions
 (4) For the purposes of subsection (2), if a person (person A) and another person (person B) are associated under any of sections YB 2, YB 3, YB 4(1)﻿(b) and (2) to (4), YB 7, YB 8, YB 10, YB 11, and YB 14, person A is treated as holding anything held by person B.
 
-### YB 13 Look-through companies and owners of interests
-Association
-(1) A look-through company and a person who has a look-through interest for the look-through company (an owner) and who is a director or employee for the look-through company are associated persons.
-Some owners
-(2) If subsection (1) does not apply to a look-through company and an owner, then they are associated persons if the owner has effective look-through interests of 25% or more in a right, obligation, or other property status, or thing of the look-through company.
-Some owners: general aggregation rule
+### YB 13 Look-through companies and holders of interests
+Look-through companies and directors or employees holding interests
+(1) A look-through company and a person who has a look-through interest for the look-through company and is a director or employee of that company are associated persons.
+Look-through companies and holders of 25% interests
+(2) A look-through company and a person who has an effective look-through interest of 25% or more in a right, obligation, or other property, status, or thing of the look-through company are associated persons.
+Holders of 25% interests: general aggregation rule
 (3) For the purposes of subsection (2), if a person (person A) and another person (person B) are associated under any of sections YB 2 to YB 11 and YB 14, person A is treated as holding anything held by person B.
-Some owners: aggregation rule for land provisions
+Holders of 25% interests: aggregation rule for land provisions
 (4) For the purposes of subsection (2), if a person (person A) and another person (person B) are associated under any of sections YB 2, YB 3, YB 4(1)﻿(b) and (2) to (4), YB 7, YB 8, YB 10, YB 11, and YB 14, person A is treated as holding anything held by person B.
 
 ### YB 14 Tripartite relationship
@@ -47754,7 +47918,7 @@ Exception: companies tests
 Association for purposes of research and development tax credits
 (3)
 Applying test to limited partnership
-(4) For the purpose of applying subsection (1), a limited partnership is treated as being a company.
+(4) For the purpose of applying subsections (1) and (2), a limited partnership is treated as being a company.
 
 ### YB 15 Exceptions for employee trusts
 Beneficiaries
@@ -47787,6 +47951,13 @@ Trustee and beneficiary and trustee for relative tests: certain trusts
   (b) an approved unit trust referred to in clause 2 of the Income Tax Act (Exempt Unit Trusts) Order 1990.
 Trustee and beneficiary and settlor and beneficiary tests: charitable organisation
 (2) Sections YB 6(1) and YB 9(1) do not apply to a trustee and a beneficiary or a settlor and a beneficiary if the beneficiary is a charitable organisation.
+
+### YB 16B Limited partnerships treated as companies
+Notwithstanding anything else in this subpart, a limited partnership is treated as a company for the purposes of the tests of association in sections YB 2, YB 3, and YB 12(2), (3), and (4) and for section YC 4 (Look-through rule for corporate shareholders) if—
+  (a) a company is a limited partner of the limited partnership:
+  (b) the limited partnership is a limited partner of another limited partnership:
+  (c) another limited partnership is a limited partner of the limited partnership:
+  (d) the limited partnership has a voting interest in a company or, if a market value circumstance exists for the company, a market value interest in the company.
 
 ### YB 17 Partnerships: partnership and associate of partner
 [Repealed]
@@ -47833,7 +48004,7 @@ Voting interest attributed to shareholders
 Calculation of shareholder’s portion
 (3) The shareholder’s portion of the voting interest is calculated by multiplying the shareholder company’s voting interest in the issuing company by the shareholder’s voting interest in the shareholder company.
 When subsection (5) applies
-(4) Subsection (5) applies if a company (the shareholder company) is or is treated as having, whether under subsection (5) or otherwise, a market value interest in another company (the issuing company).
+(4) Subsection (5) applies if a company (the shareholder company) has or is treated as having, whether under subsection (5) or otherwise, a market value interest in another company (the issuing company).
 Attributing market value interest to shareholders
 (5) Each person (the shareholder) who has a market value interest in the shareholder company is treated as having their portion of the shareholder company’s market value interest in the issuing company and the shareholder company is treated as not having that portion. The shareholder’s portion is added to any other percentage market value interest in the issuing company which the shareholder has at that time.
 Calculation of shareholder’s portion
@@ -48348,7 +48519,9 @@ Income through permanent establishment
 Income taxable under double tax agreement
 (17D) Income of a non-resident that may be taxed in New Zealand under a double tax agreement and does not have a source under subsections (15) to (17) has a source in New Zealand unless the income is—
   (a) a dividend from a share in a foreign company that is not revenue account property:
-  (b) fees for technical, management, or similar services that are treated as royalties under a double tax agreement:
+  (b) fees for technical, management, or similar services that are—
+    (i) treated as royalties under a double tax agreement:
+    (ii) subject to article 12 of the double tax agreement between New Zealand and the Republic of India:
   (c) a royalty or interest payment attributable, under a double tax agreement, to a permanent establishment outside New Zealand.
 Any other source in New Zealand
 (18) Income derived directly or indirectly from any other source in New Zealand has a source in New Zealand.
@@ -48691,7 +48864,7 @@ To the extent to which a trustee does not have a basic rate under clause 4 or 5,
 ### 6B Taxable income: trustees of certain trusts and estates
 To the extent to which a trustee does not have a basic rate under clause 4, the basic rate of income tax on each dollar of the trustee’s taxable income is 0.33 if the trustee is a trustee of—
   (a) a disabled beneficiary trust:
-  (b) an estate referred to in section HC 8B (Trustee income in income year of person’s death and following 3 income years):
+  (b) an estate referred to in section HC 8B (Income in income year of person’s death and following 3 income years):
   (c) a lines trust:
   (d) a de minimis trust.
 
@@ -48714,10 +48887,16 @@ The basic rate of income tax for a person on each dollar of the person’s sched
 The basic rate of income tax on each dollar of taxable income derived by the Crown through the VCF is the rate applying to companies set out in clause 2.
 
 ### 13 Schedular taxable income: accident compensation payments for period of more than 1 year
-The basic rate of income tax for a person on each dollar of the person’s schedular taxable income that is income from a payment to which section RD 20B (Payments of accident compensation for periods of more than 1 year) applies is the tax rate given by section RD 20B(3) for the payment and the tax year in which the person derives the payment.
+The basic rate of income tax for a person on each dollar of the person’s schedular taxable income that is income from a payment to which section RD 20B (Treatment of certain support payments made for period of more than 1 year) applies is the tax rate given by section RD 20B(3) for the payment and the tax year in which the person derives the payment.
 
 ### 14 Schedular taxable income: recalculated main benefit payments
 The basic rate of income tax for a person on each dollar of the person’s schedular taxable income that is income from a payment to which section RD 20C (Payments of recalculated main benefit) applies is the rate of income tax given by section RD 20C(3) for the payment and the tax year in which the person derives the payment.
+
+### 15 Schedular taxable income: beneficiary income of minors
+The basic rate of income tax for a person on each dollar of the person’s schedular taxable income that is income from a trust to which section HC 35 (Beneficiary income of minors) applies is 0.39.
+
+### 16 Schedular taxable income: beneficiary income of certain close companies
+The basic rate of income tax for a person on each dollar of the person’s schedular taxable income that is income from a trust to which section HC 38 (Beneficiary income of certain close companies) applies is 0.39.
 
 | Row | Range of dollar in pay | Tax rate |
 | --- | --- | --- |
