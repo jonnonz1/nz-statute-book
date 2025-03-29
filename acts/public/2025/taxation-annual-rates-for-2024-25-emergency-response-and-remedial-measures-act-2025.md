@@ -5,7 +5,7 @@ _Consolidation as at 2025-03-29_
 This Act is the Taxation (Annual Rates for 2024–25, Emergency Response, and Remedial Measures) Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after the date on which it receives the Royal assent, except as provided in this section.
+(1) This Act comes into force on 30 March 2025, except as provided in this section.
 (2) Section 250(2) comes into force on 20 December 1991.
 (3) Sections 255 and 256 come into force on 1 April 2005.
 (4) Sections 11, 18(1) and (4), 34, 41, 42, 43(1) and (4), 44, 47, 66, 76, 77(1), 78(3), 79(2), 80(2), 81(2), 82(2), 83(2), 121(2), 124(1) and (3), 125, 126, 127, 128, 129, 130, 134(11), (17), (27), and (41), 143, 161, 162, 163, 164(1) and (2), 169, and 252 come into force on 1 April 2008.
