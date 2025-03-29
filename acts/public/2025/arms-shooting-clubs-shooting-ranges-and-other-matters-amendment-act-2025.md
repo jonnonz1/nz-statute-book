@@ -5,7 +5,7 @@ _Consolidation as at 2025-03-29_
 This Act is the Arms (Shooting Clubs, Shooting Ranges, and Other Matters) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force 3 months after Royal assent.
+This Act comes into force on 29 June 2025.
 
 ### 3 Principal Act
 This Act amends the Arms Act 1983.
