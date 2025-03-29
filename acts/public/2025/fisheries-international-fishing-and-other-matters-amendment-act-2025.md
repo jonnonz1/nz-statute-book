@@ -5,7 +5,7 @@ _Consolidation as at 2025-03-29_
 This Act is the Fisheries (International Fishing and Other Matters) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force 6 months after Royal assent.
+This Act comes into force on 29 September 2025.
 
 ## Part 1 — Amendments to Fisheries Act 1996
 
