@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2022-03-30_
+_Consolidation as at 2025-03-29_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -51,6 +51,7 @@ The purposes of this Act are to—
   - **entity** means the trustees of a trust, a society, or an institution
   - **excess repayment** has the meaning given to it in section 119
   - **extra pay** has the same meaning as in section RD 7 of the Income Tax Act 2007
+  - **final-year fees-free scheme** has the same meaning as in section 3(1) of the Tax Administration Act 1994
   - **formally notify** has the meaning given to it in section 213
   - **income tax** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **inform** has the meaning given to it in section 210
@@ -1288,7 +1289,8 @@ A borrower may be liable to pay late payment interest if the borrower does not m
   (a) disregard any standard deduction (other than a significant over-deduction) or Commissioner deductions for the purposes set out in section 49(1)﻿(a); and
   (b) disregard a salary or wage deduction or a payment made to the Commissioner that is subsequently refunded; and
   (c) treat a borrower's repayment obligation as if any relief granted under section 147 had not been granted; and
-  (d) disregard any fee refunded by an education provider to the loan manager or the Commissioner.
+  (d) disregard any fee refunded by an education provider to the loan manager or the Commissioner; and
+  (e) disregard an entitlement under the final-year fees-free scheme.
 
 ### 120 Commissioner must notify borrower of excess repayment
 (1) Subsection (2) applies if subpart 2 of Part 2 applies to a borrower and—
@@ -1890,7 +1892,8 @@ If this Act does not specify a date by which an amount payable under this Act is
   (b) within each of those things, first, against any interest charged and secondly, any remainder must be offset against any principal outstanding.
 (2) The following must not be used to satisfy other repayment obligations, unpaid amounts, or penalties (unless the borrower’s consolidated loan balance consists only of 1 or more of those things):
   (a) a standard deduction that is not a significant over-deduction:
-  (b) a Commissioner deduction for the purposes of section 49(1)﻿(a) that does not exceed the total amount specified under section 49(2)﻿(b).
+  (b) a Commissioner deduction for the purposes of section 49(1)﻿(a) that does not exceed the total amount specified under section 49(2)﻿(b):
+  (c) an entitlement under the final-year fees-free scheme.
 
 ### 195 Date on which salary or wage deductions and payments treated as being made and credited
 (1) A salary or wage deduction is made on the date the deduction is made.
@@ -1903,6 +1906,9 @@ If this Act does not specify a date by which an amount payable under this Act is
   (a) a salary or wage deduction is credited on the last day of the month in which the deduction is made; and
   (b) a payment made by a New Zealand-based borrower (excluding a salary or wage deduction) for a tax year is credited at the time when the Commissioner assesses the borrower's end-of-year repayment obligation for that tax year; and
   (c) a payment made by an overseas-based borrower (excluding a salary or wage deduction) is credited on the date it is received by the Commissioner.
+
+### 195B Date on which final-year fees-free entitlement treated as being credited
+An entitlement under the final-year fees-free scheme is treated as being credited against a borrower’s consolidated loan balance on the date the borrower is awarded their qualification.
 
 ### 196 Cancellation of interest if consolidated loan balance repaid early
 (1) Subsection (2) applies if—
