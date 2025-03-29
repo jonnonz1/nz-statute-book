@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2025-03-29_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023.
@@ -1328,7 +1328,7 @@ In section 21D(3), delete and section 20G,.
   (4) For the purposes of subsection (2),—
     (a) if the amount is positive, the person is entitled to an additional input tax deduction under section 20(3)﻿(e); or
     (b) if the amount is negative, the person must treat the amount as a positive amount of output tax and attribute it to a taxable period under section 20(4).
-(3) Subsection (2) applies from a registered person’s adjustment period starting on or after 1 April 2023.
+(3) Subsection (2) applies to a registered person’s adjustments made in returns for taxable periods starting on or after 1 April 2023.
 
 ### 144 Section 21G amended (Definitions and requirements for apportioned supplies and adjustment periods)
 (1) In section 21G(1), words before paragraph (a), delete 20G,.
