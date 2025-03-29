@@ -1,5 +1,5 @@
 # Gaming Duties Act 1971
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2025-03-29_
 
 > An Act to consolidate and amend the law relating to totalisator duty and lottery duty
 
@@ -208,6 +208,7 @@ Every casino operator shall, not later than the last day allowed under section 1
 Sections 12G, 12H, 12HA, 12K, and 12L (except section 12K(2)), as far as they are applicable and with any necessary modifications, shall apply for the purposes of this Part, as if—
   (a) every reference in those provisions to gaming machine duty were a reference to casino duty; and
   (b) every reference in those provisions to a gaming machine operator were a reference to a casino operator; and
+  (bb) every reference in those provisions to gaming machine profits were a reference to casino wins; and
   (c) every reference in those provisions to section 12D were a reference to section 12O; and
   (d) every reference in those provisions to section 12E were a reference to section 12P; and
   (e) every reference in those provisions to section 12F were a reference to section 12Q.
