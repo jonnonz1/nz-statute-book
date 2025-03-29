@@ -6,7 +6,7 @@ This Act is the Social Workers Registration Amendment Act 2025.
 
 ### 2 Commencement
 (1) Sections 18 and 19 come into force on 1 July 2025.
-(2) The rest of this Act comes into force on the day after Royal assent.
+(2) The rest of this Act comes into force on 30 March 2025.
 
 ### 3 Principal Act
 This Act amends the Social Workers Registration Act 2003.
