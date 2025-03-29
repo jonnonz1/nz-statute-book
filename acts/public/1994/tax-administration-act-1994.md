@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2025-01-01_
+_Consolidation as at 2025-03-29_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -170,6 +170,7 @@ _Consolidation as at 2025-01-01_
       (iii) that cannot be challenged under Part 8A; or
       (iv) to issue a Commissioner's notice of proposed adjustment under section 89B, a Commissioner's disclosure notice or statement of position under section 89M, or a challenge notice; or
       (v) to issue, or to decline to issue, a Commissioner’s COVID-19 response variation under section 6I; or
+      (vba) to make, or to decline to make, an entitlement under the final-year fees-free scheme under section 7AAAA; or
       (vb) to make, or to decline to make, a grant under the cost of living payments scheme under section 7AAA; or
       (vi) to grant, or to decline to grant, a loan under the small business cashflow scheme under section 7AA; or
       (vii) to make, or to decline to make, a grant under the COVID-19 resurgence support payments scheme, or another COVID-19 support payments scheme, under section 7AAB
@@ -219,8 +220,10 @@ _Consolidation as at 2025-01-01_
   - **family notice of entitlement** , in relation to any person, means a notice issued by the Commissioner under section 80KD for the estimated entitlement of the person to a tax credit under the family scheme
   - **family scheme** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **family trust** is defined in section 173M(5) for the purpose of that section
+  - **FamilyBoost tax credit** has the same meaning as in section MH 2 of the Income Tax Act 2007
   - **FATCA agreement** means the Agreement between the Government of New Zealand and the Government of the United States of America to Improve International Tax Compliance and to Implement FATCA, commonly known as the intergovernmental agreement, which was brought into force for New Zealand by the Double Tax Agreements (United States of America—FATCA) Order 2014 (LI 2014/209), as amended from time to time
   - **final account** , for an individual and a tax year, is defined in section 22D(6) for the purposes of Part 3, subpart 3B, sections 4A, 33, 37, 38, 42C, 89D, 106, 110, and 143, and the definitions of tax return and taxpayer’s tax position
+  - **final-year fees-free scheme** means the scheme established and administered by the Crown to provide financial support to persons who have completed their first qualification or programme
   - **fines defaulter** is defined in schedule 7, part C, subpart 2, clause 43(8) for the purposes of that clause
   - **fines defaulter information** is defined in schedule 7, part C, subpart 2, clause 43(8) for the purposes of that clause
   - **first payment period** , in section 47 and 173, has the same meaning as in section YA 1 of the Income Tax Act 2007
@@ -291,6 +294,7 @@ _Consolidation as at 2025-01-01_
       (viii) interest on unpaid casino duty under section 12Q of the Gaming Duties Act 1971 for casino wins
   - **legal personal representative** is defined in schedule 7, part B, clause 15(2) for the purposes of that clause
   - **legal practitioner** is defined in section 20 for the purposes of that section
+  - **licensed early childhood service** has the same meaning as in section MH 2 of the Income Tax Act 2007
   - **life insurer** , in section 112, has the same meaning as in paragraph (a) of the definition of that term in section YA 1 of the Income Tax Act 2007
   - **maintain** , for a financial institution to which the CRS applied standard or the FATCA agreement applies in relation to a financial account, includes,—
     (a) if the financial account is a custodial account, holding custody over the assets in the financial account, including by holding assets in street name for an account holder in the financial institution:
@@ -309,12 +313,16 @@ _Consolidation as at 2025-01-01_
     (b) for the purposes of sections 177 and 177A, includes a natural person who is acting in the capacity of trustee
   - **new provisional taxpayer** means a person who has an initial provisional tax liability as described in section YA 1 of the Income Tax Act 2007
   - **New Zealand superannuation qualification age** means the age at which a person becomes entitled to receive New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001
+  - **nil value distribution** is defined in section 59BA(7) for the purposes of that section
+  - **nil value settlement** is defined in section 59BA(7) for the purposes of that section
   - **nominated person** means a person who—
     (a) is nominated under section 124F by another person to act on their behalf in relation to—
       (i) their tax affairs:
       (ii) their social policy entitlements and obligations; and
     (b) is treated by the Commissioner as a nominated person; and
     (c) does not later have their status as a nominated person disallowed by the Commissioner
+  - **non-cash distribution** is defined in section 59BA(7) for the purposes of that section
+  - **non-cash settlement** is defined in section 59BA(7) for the purposes of that section
   - **non-filing taxpayer** , for a person and a tax year, means—
     (a) a person whose only income having a source in New Zealand for the tax year is a schedular payment derived in their capacity as a non-resident entertainer and who chooses not to file a return of income for the tax year; or
     (b) a person who for the tax year, derives only non-resident passive income referred to in section RF 2(3) of the Income Tax Act 2007; or
@@ -501,6 +509,7 @@ _Consolidation as at 2025-01-01_
     (cc) for the purposes of Part 10B, and sections 6, 6A, 6B, 156 to 165, 174AA, 176, 177, and 177A to 177CA, includes an amount payable in relation to a loan made under the small business cashflow scheme:
     (cd) for the purposes of sections 6 to 6B, 156 to 165, 173L, 173M, 173S, 173T, 174AA, and 176 to 177CA, includes an amount payable in relation to a grant made under the COVID-19 resurgence support payments scheme or another COVID-19 support payments scheme:
     (ce) for the purposes of sections 6 to 6B, 156 to 165, 174AA, and 176 to 177CA, includes an amount payable in relation to a grant made under the cost of living payments scheme:
+    (cf) for the purposes of sections 6 to 6B, 120C, 156 to 165, 174AA, 177B, 177CA, and 183C, includes an amount payable in relation to an entitlement under the final-year fees-free scheme:
     (d) for the purpose of sections 176, 177, and 177A to 177D, means—but does not include—
       (i) a tax, levy or duty of any type imposed by a tax law, regardless of how the tax, levy or duty is described:
       (ii) an amount deemed by a tax law to be a tax, levy or duty:
@@ -526,6 +535,7 @@ _Consolidation as at 2025-01-01_
     (c) is not later removed by the Commissioner from the list of tax agents
   - **tax code** is defined in section 24B(1)
   - **tax contextual information** is defined in section 20F(3)
+  - **tax credit quarter** has the same meaning as in section MH 2 of the Income Tax Act 2007
   - **tax file number** means an identification number that the Commissioner allocates to a person
   - **tax form** means a form or document a taxpayer is required by a tax law—
     (a) to complete; and
@@ -872,6 +882,11 @@ Secondary legislation
   (c) the Commissioner’s functions or powers in relation to deducting amounts from payments due (section 157 of this Act, section 193 of the Student Loan Scheme Act 2011 but in respect only of the powers in section 157 of this Act, and section 154 of the Child Support Act 1991); and
   (d) the Commissioner’s functions or powers in relation to tax recovery agreements negotiated between the government of a territory outside New Zealand and the Government of New Zealand (Part 10A of this Act).
 (3) Clauses 2 to 4 of Schedule 6 of the Public Service Act 2020 apply to delegations under this section as if those delegations were made under clause 2 of that schedule.
+
+### 7AAAA Administration of final-year fees-free scheme
+(1) It is a function of the Commissioner to administer the final-year fees-free scheme (the scheme) on behalf of the Crown.
+(2) If a person who receives an entitlement under the scheme from the Commissioner does not qualify for the entitlement under the eligibility requirements of the scheme, the person must immediately repay to the Commissioner the total amount of the entitlement.
+(3) The Commissioner must publish, on an internet site administered by the Commissioner, the eligibility requirements referred to in subsection (2).
 
 ### 7AAA Administration of cost of living payments scheme
 (1) It is a function of the Commissioner to administer the cost of living payments scheme (the scheme) on behalf of the Crown.
@@ -2951,9 +2966,10 @@ A life insurer (the transferor) that transfers a life insurance policy to anothe
 (4) The person must provide further information in relation to the application as the Commissioner requires.
 
 ### 32F Calculation of annual gross income when threshold met
-For the purposes of section 32E(2)﻿(i), when the person is part of a group of companies, the person’s annual gross income is determined by—
+(1) For the purposes of section 32E(2)﻿(i), when the person is part of a group of companies, the person’s annual gross income is determined by—
   (a) including the total annual gross income in the tax year of other group companies; and
   (b) excluding an amount of assessable income derived by the company or another company in the same group from a transaction or series of related or connected transactions with another company in the group.
+(2) For the purposes of this section, a group of companies includes a limited partnership that would be a member of the group of companies if the partnership were treated as being a company and each partner were treated as holding a proportion of the total shares in the company equal to the proportion of the partnership share the partner has in a right, obligation, or other property, status, or thing of the partnership.
 
 ### 32G Evidence of annual gross income and consequences of failure to meet threshold
 (1) This section applies when a person’s application for RWT-exempt status is based on their meeting the requirements in section 32E(2)﻿(j).
@@ -2989,11 +3005,26 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
 (4)
 (5)
 
+### 32IB Calculation of amounts for partnerships
+For the purposes of sections 32E(2)﻿(f), (i), and (j) and 32I, when the person is a partnership, the following amounts are determined ignoring section HG 2 of the Income Tax Act 2007:
+  (a) the person’s annual gross income:
+  (b) the person’s—
+    (i) total amount of assessable income:
+    (ii) total deductions:
+    (iii) tax credits for resident passive income:
+    (iv) income tax liability.
+
 ### 32J RWT-exempt status for unincorporated bodies
 (1) When the Commissioner provides RWT-exempt status to an unincorporated body described in section RE 30 of the Income Tax Act 2007,—
   (a) the named body has the RWT-exempt status; and
   (b) no member of the body may have RWT-exempt status in relation to a taxable activity carried on by the body.
 (2) For the purposes of the RWT rules and RWT-exempt status, a notice to the body is treated as served on the body and on each member of the body.
+
+### 32JB RWT-exempt status for limited partnerships
+(1) When the Commissioner provides RWT-exempt status to a limited partnership described in section RE 31 of the Income Tax Act 2007,—
+  (a) the limited partnership has the RWT-exempt status; and
+  (b) no limited partner of the limited partnership may have RWT-exempt status in their capacity as a limited partner of the limited partnership.
+(2) For the purposes of the RWT rules and RWT-exempt status, a notice to the limited partnership is treated as served on the limited partnership and on each of its partners.
 
 ### 32K Failing to meet basis of exemption
 (1) This section applies when a person who has RWT-exempt status no longer meets the requirements on which their exemption is based.
@@ -3019,6 +3050,9 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
 
 ### 32M Persons with approved issuer status
 (1) A person who borrows, has borrowed, or will borrow money is eligible to elect to pay approved issuer levy in relation to a security for the purposes of—
+  (a) the NRWT rules:
+  (b) an exemption under a double tax agreement.
+(1B) A limited partnership that borrows or lends money, ignoring section HG 2 of the Income Tax Act 2007, is also a person who is eligible to elect to pay approved issuer levy in relation to a security for the purposes of—
   (a) the NRWT rules:
   (b) an exemption under a double tax agreement.
 (2) For the purposes of subsection (1), the person elects to pay approved issuer levy in relation to a security by—
@@ -3079,10 +3113,13 @@ A person who is entitled to a research and development tax credit must file a re
 The time for a person to file a supplementary return under section 33E for the 2019–20 income year is extended to 31 August 2021, or such later date otherwise allowed by that section.
 
 ### 33G Research and development tax credits: extension of time if approval corrected
-(1) An extension of time is available for a person to file a supplementary return under section 33E if the person—
-  (a) applies to the Commissioner under section 68CB(3C) or 68CC(4C); and
+(1) An extension of time is available for a person to file a supplementary return under section 33E if—
+  (a) the person applies to the Commissioner under section 68CB(3C) or 68CC(4C); and
   (b) the Commissioner approves the person’s application.
 (2) The time for a person to file a supplementary return under subsection (1) is extended to the day that is 30 days after the Commissioner amends the approval.
+
+### 33G Research and development tax credits: extension of time if approval corrected
+[Repealed]
 
 ### 34 Presumption as to authority of person making return
 A return purporting to be made by or on behalf of any person shall for all purposes be deemed to have been made by that person or by that person's authority, as the case may be, unless the contrary is proved.
@@ -3312,8 +3349,8 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
 (8) Part 9 applies to applications made under this section.
 
 ### 41C Application for refund of FamilyBoost tax credit
-(1) This section applies to a person who is entitled to apply for a refund of a FamilyBoost tax credit for a quarter under subpart MH of the Income Tax Act 2007.
-(2) The person may apply for a refund of the amount of the FamilyBoost tax credit for the quarter calculated under subpart MH.
+(1) This section applies to a person who is entitled to apply for a refund of a FamilyBoost tax credit for a tax credit quarter under subpart MH of the Income Tax Act 2007.
+(2) The person may apply for a refund of the amount of the FamilyBoost tax credit for the tax credit quarter calculated under subpart MH.
 (3) A person applying for a refund must complete an application—
   (a) in the manner specified by the Commissioner; and
   (b) accompanied by the information required by the Commissioner.
@@ -3323,13 +3360,11 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
   (b) the refund has been paid as a result of the person knowingly providing altered, false, incomplete, or misleading information.
 (6) For the purposes of subsection (5),—
   (a) the Commissioner may determine the thresholds for what is a significant overpayment or a significant underpayment of an amount of a refund; and
-  (b) any exercise of the Commissioner’s discretion under paragraph (a) must be—
-    (i) carried out having regard to the resources available to the Commissioner; and
-    (ii) published by the Commissioner on an internet site administered by the Commissioner.
-(7) If the Commissioner considers the amount of a FamilyBoost tax credit refunded to a person is a significant overpayment, the Commissioner may recover the overpayment as if it were income tax payable by the person.
+  (b) any exercise of the Commissioner’s discretion under paragraph (a) must be carried out having regard to the resources available to the Commissioner.
+(7) If the Commissioner considers the amount of a FamilyBoost tax credit refunded to a person is a significant overpayment, the Commissioner may recover the overpayment, to the extent to which it is more than the correct amount of refund, as an excess tax credit under section 142D.
 (8) If a person notifies the Commissioner of a change in their circumstances, the Commissioner may reconsider their refund if the Commissioner considers the person’s change in circumstances has resulted in an unduly harsh outcome with regard to the person’s refund.
-(9) A person who is entitled to a refund of a FamilyBoost tax credit must apply for the refund within the 4-year period that begins on the day immediately following the end of the quarter for which the person was entitled to the tax credit under subpart MH.
-(10) The Commissioner must not issue a refund if more than 4 years have passed since the end of the quarter for which a person was entitled to the FamilyBoost tax credit under subpart MH.
+(9) A person who is entitled to a refund of a FamilyBoost tax credit must apply for the refund within the 4-year period that begins on the day immediately following the end of the tax credit quarter for which the person was entitled to the tax credit under subpart MH.
+(10) The Commissioner must not issue a refund if more than 4 years have passed since the end of the tax credit quarter for which a person was entitled to the FamilyBoost tax credit under subpart MH.
 
 ### 42 Returns by joint venturers, partners, and partnerships
 (1) This section applies when 2 or more people derive income jointly or have deductions jointly.
@@ -3339,7 +3374,12 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
     (i) the total amount of income derived by the partners as members of the partnership; and
     (ii) the partners’ partnership shares in the income; and
     (iii) a summary of the deductions of each partner:
-  (b) there is no joint assessment, but each partner must make a separate return of income under section 33, including the income derived by the partner as a member of the partnership, and the partner’s deductions. Each partner is separately assessed.
+  (b) there is no joint assessment, but each partner must make a separate return of income under section 33, including the income derived by the partner as a member of the partnership, and the partner’s deductions. Each partner is separately assessed:
+  (c) for the purposes of paragraph (b), if the partnership has a non-standard balance date, each partner may choose to make a return of, or include in a return, the income derived by the partner as a member of the partnership and the partner’s deductions as if they also had that non-standard balance date and any such election is irrevocable while the partner remains a member of the partnership unless the partnership changes its balance date:
+  (d) despite paragraph (b), a non-resident partner in a partnership does not have to make a separate return of income under section 33 when the partner—
+    (i) does not derive income from any source in New Zealand; or
+    (ii) derives only non-resident passive income to which section RF 2(3) and (4) of the Income Tax Act 2007 applies; or
+    (iii) derives only income from a source in New Zealand that is fully relieved from tax under a double tax agreement.
 (4) In any other case, each person shall make a separate return taking into account that person’s share of the joint income and deductions. Each person is separately assessed.
 
 ### 42B Returns by look-through companies and owners of interests
@@ -3698,16 +3738,14 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
 (1) A trustee of a trust who derives assessable income for a tax year must file a return for the tax year of all income derived in the corresponding income year by the trustee as trustee of the trust.
 (2) A trustee who is required to file a return for a tax year under subsection (1) and does not meet the requirements of subsection (3) must make the return in the form prescribed by the Commissioner and include, unless otherwise required by the Commissioner,—
   (a) a statement of profit or loss and a statement of financial position:
-  (b) the amount, and nature, of each settlement that—
-    (i) is not the provision to the trustee, at less than market value, of minor services incidental to the activities of the trust; and
-    (ii) is made on the trust in the income year:
+  (b) the amount, and nature, of each settlement, other than a nil value settlement, that is made on the trust in the income year:
   (c) the name, date of birth, jurisdiction of tax residence, and tax file number and taxpayer identification number, of each settlor who makes a settlement on the trust in the income year or whose details have not previously been supplied to the Commissioner:
-  (d) the amount, and nature, of each distribution that—
-    (i) is not a distribution, other than of money, that is minor and incidental to the activities of the trust; and
-    (ii) is made by the trustee in the income year:
+  (d) the amount, and nature, of each distribution, other than a nil value distribution, that is made by the trustee in the income year:
   (db) the name, date of birth, jurisdiction of tax residence, and tax file number or taxpayer identification number, of the beneficiary who receives a distribution referred to in paragraph (d):
   (e) the name, date of birth, jurisdiction of tax residence, and tax file number and taxpayer identification number, of each person having a power under the trust to appoint or dismiss a trustee, to add or remove a beneficiary, or to amend the trust deed:
   (f) the other information required by the Commissioner.
+(2B) Subsection (2)﻿(b) does not apply to a non-cash settlement made by a settlor on the trust in the income year if the total market value of all non-cash settlements made by that settlor on the trust in that year is less than $100,000.
+(2C) Subsection (2)﻿(d) does not apply to a non-cash distribution made to a beneficiary by the trustee in the income year if the total market value of all non-cash distributions made to that beneficiary by the trustee in that year is less than $100,000.
 (3) A trustee of a trust who is required to file a return for a tax year under subsection (1) is not required to file a return in the form required by subsection (2) if—
   (a) the trustee is excluded from the requirement to make a return by section 43B:
   (b) the trust is a foreign trust:
@@ -3722,6 +3760,13 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
 (4) If the trustee of a trust is a non-resident, a settlor of the trust who is a New Zealand resident is responsible for ensuring the performance of the obligations imposed on the trustee by this section.
 (5) The Commissioner may vary the requirements set out in subsection (2) for a trustee or class of trustees.
 (6) A variation under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) In this section,—
+  - **nil value distribution** is a non-cash distribution that is—
+    (a) the provision of minor services to the beneficiary that are incidental to the activities of the trust:
+    (b) the making available of trust property for a beneficiary if the trust incurs no costs in making that property available to the beneficiary
+  - **nil value settlement** is a non-cash settlement made on a trust by a settlor that is incapable of being distributed by the trustee as a distribution to a beneficiary (for example, a person may provide services to a trust that are consumed by the trust and cannot be distributed to a beneficiary, or a person may choose not to charge interest on a loan to the trust, which is a transfer of value to the trust but is incapable of being distributed by the trustee)
+  - **non-cash distribution** is a distribution to the extent to which it is not a distribution of money
+  - **non-cash settlement** is a settlement to the extent to which it is not a settlement of money.
 
 ### 59BAB Commissioner may require trust information for period after 2013–14 income year
 (1) The Commissioner may require a trustee of a trust to provide, in the prescribed form and by the specified date, information that—
@@ -3947,6 +3992,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
 (3C) Upon application, the Commissioner may amend an approval if—
   (a) the amendment is only to correct the name of the person named in the approval; and
   (b) both the person named in the original approval and the person applying for the amendment are members of the same wholly-owned group.
+(3C)
 (4) The Commissioner may only approve a person’s activities to the extent to which, in the opinion of the Commissioner, the relevant activity is a core research and development activity or a supporting research and development activity.
 (5) If the Commissioner approves a person’s activities for an income year, the Commissioner must notify the person what activities of the person the Commissioner approves of as core research and development activities or supporting research and development activities, for which income years, and any conditions upon which the approval is made.
 (6) The Commissioner must notify the person of the intention to decline the application before the application is declined.
@@ -3975,6 +4021,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
 (4C) Upon application, the Commissioner may amend an approval if—
   (a) the amendment is only to correct the name of the person named in the approval; and
   (b) both the person named in the original approval and the person applying for the amendment are members of the same wholly-owned group.
+(4C)
 (5) The Commissioner may approve—
   (a) appropriate criteria and methodologies for determining whether an activity is a core research and development activity, a supporting research and development activity, or not a research and development activity at all:
   (b) appropriate criteria and methodologies for determining whether an amount of expenditure or loss is or is not an amount of eligible research and development expenditure.
@@ -4191,6 +4238,9 @@ A taxpayer who has not provided their investment income payer with their tax fil
 
 ### 78J Annual multinational top-up tax return
 (1) This section applies to a constituent entity located in New Zealand under the applied global anti-base erosion rules for a fiscal year in which the constituent entity is an entity to which the global anti-base erosion model rules apply.
+(1B) This section does not apply to a constituent entity that is a securitisation entity if—
+  (a) another constituent entity is located in New Zealand in the fiscal year; and
+  (b) that other constituent entity is not a securitisation entity.
 (2) The constituent entity must provide to the Commissioner a return for the fiscal year, in the form prescribed by the Commissioner, that shows—
   (a) whether or not the constituent entity has a multinational top-up tax liability for the fiscal year; and
   (b) the amount of multinational top-up tax payable by the constituent entity for the fiscal year, if any; and
@@ -6217,6 +6267,7 @@ Where, whether before or after the commencement of this Act,—the validity of t
   (b) 4 years have passed from the end of the period in which the taxpayer provided the return or statement, or made the application, as applicable.
 (1D) For the purposes of the time bar in subsection (1C)﻿(b), a taxpayer who furnishes a statement referred to in subsection (1C)﻿(a)﻿(ii) is treated as having met the requirements for furnishing a tax return for non-resident withholding tax.
 (1E) Despite subsection (1), the Commissioner may not amend an assessment so as to increase an amount of research and development tax credit if 1 year has passed from the latest date to provide a return of income for the relevant tax year, except if the increase is to take into account—
+  (aa) a supplementary return filed using an extension of time under section 33G:
   (a) a notice of proposed adjustment initiated by a taxpayer in accordance with section 113E:
   (b) a request under section 113 initiated by a taxpayer in accordance with section 113E.
 (2) If the Commissioner is of the opinion that a tax return provided by a taxpayer—the Commissioner may amend the assessment at any time so as to increase its amount.
@@ -6449,6 +6500,7 @@ Nothing in this Part applies to—
       (ii) if the Commissioner refunds or applies tax that should be kept and taken into account in satisfying a taxpayer’s tax liability at a due date, the day after the day on which the Commissioner refunds or applies the tax, unless subparagraph (iib) applies to the taxpayer; and
       (iib) for a qualifying individual or an individual who is treated as a qualifying individual, if the Commissioner refunds, amends the amount of a refund, or applies tax that should be kept and taken into account in satisfying the individual’s tax liability at a due date, the day after the due date for payment of the tax; and
       (iii) for a provisional taxpayer to whom section 120KE(7) applies, the day after whichever dates of instalments B, D, and F for their corresponding income year occur 30 days after their last ratio instalment date; and
+      (iv) for a person who receives an entitlement under the final-year fees-free scheme that exceeds the amount the person is entitled to, the day after the date on which the entitlement was paid to the person; and
     (b) for overpaid tax, other than a GST refund provided by section 19C(8) or 20(5) of the Goods and Services Tax Act 1985, or FBT for the final quarter of a tax year, means the later of the following days—
       (i) if a taxpayer pays too much tax by or after a due date and subparagraph (iv) does not apply—
         (A) the day after the later of the due date for payment of the tax and the date the payment is made; or
@@ -6486,9 +6538,10 @@ Nothing in this Part applies to—
     (c) an amount credited or transferred by the time to a taxpayer's account with the Commissioner from a tax pooling account under sections RP 17 to RP 21 of that Act
   - **tax payable** , at any time, means the amount of tax payable in respect of a tax liability by that time, determined in accordance with the tax laws; and includes an amount of tax that must be withheld or deducted under a tax law and paid to the Commissioner
   - **taxpayer's paying rate** means the rate of interest established and notified as the taxpayer's paying rate by an Order in Council made under section 120H.
-(2) For the purposes of this Part, where, at any time,—
+(2) For the purposes of this Part, when, at any time,—
   (a) the tax paid by a taxpayer exceeds the tax payable, the excess is overpaid tax; and
-  (b) the tax payable by a taxpayer exceeds the tax paid, the excess is unpaid tax.
+  (b) the tax payable by a taxpayer exceeds the tax paid, the excess is unpaid tax; and
+  (c) an entitlement paid to a person under the final-year fees-free scheme exceeds the amount the person is entitled to, the excess is unpaid tax.
 (3) In the definition of tax paid, paragraph (a)﻿(i) includes tax paid in excess that is applied under either section MZ 5 or section MZ 6 of the Income Tax Act 2004.
 
 ### 120D Liability to pay interest
@@ -6771,6 +6824,9 @@ No interest shall be payable by the Commissioner under section 120D(3) on an amo
 
 ### 120VD Interest on tax credits for charitable or other public benefit gifts
 No interest shall be payable by the Commissioner under section 120D(3) on an amount of tax credit calculated under section LD 1 of the Income Tax Act 2007.
+
+### 120VE Interest on FamilyBoost tax credits
+No interest shall be payable by the Commissioner under section 120D(3) on an amount of FamilyBoost tax credit calculated under subpart MH of the Income Tax Act 2007.
 
 ### 120W Commissioner's official opinions
 (1) A taxpayer that, but for this section, is liable to pay interest on unpaid tax to the Commissioner, is not liable to pay that interest to the extent to which it arises because they relied on a Commissioner's official opinion.
@@ -7574,7 +7630,7 @@ The purposes of this Part are—
 
 ### 139AB Penalty for member of large multinational group failing to provide information
 (1) A member of a large multinational group is liable to pay a penalty under this section if—
-  (a) the Commissioner requires the member under section 17 to provide information or a document that is treated under section 17E(2) as being in the knowledge, possession, or control of the company; and
+  (a) the Commissioner requires the member under section 17B to provide information or a document that is treated under section 17E(2) as being in the knowledge, possession, or control of the company; and
   (b) the member fails to provide the information or document within the time allowed by the Commissioner.
 (2) The penalty under this section is the amount specified by the Commissioner, which must not exceed $100,000.
 
@@ -7622,6 +7678,7 @@ The purposes of this Part are—
   (d) described in section MF 5 or MF 6 of the Income Tax Act 2007, or is otherwise the overpayment or over-crediting of WFF tax credits, and relates to the 2017–18 or later income years:
   (e) civil penalties for tax and periods described in paragraphs (a) to (d):
   (f) an electronic sales suppression penalty under section 141EE.
+(2C) Despite subsection (2), a taxpayer is not liable to pay a late payment penalty or an incremental late payment penalty to the extent to which the relevant tax to pay is the repayment of an overpaid FamilyBoost tax credit calculated under subpart MH of the Income Tax Act 2007.
 (3) An initial late payment penalty is added to the unpaid tax to which it relates—
   (a) on the day after the default date for the unpaid tax, if it is imposed under subsection (2)﻿(a)﻿(i):
   (b) at the end of the sixth day after the day referred to in paragraph (a), if it is imposed under subsection (2)﻿(a)﻿(ii).
@@ -9687,7 +9744,7 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
 ### 185S Requirements for reporting platform operators and sellers: model reporting standard
 (1) This section applies when a person who is resident in New Zealand carries on a business by way of a digital platform through which a seller of goods or services may operate in New Zealand.
 (2) The person who is the platform operator must comply with all the requirements for reporting platform operators set out in the model reporting standard for digital platforms.
-(3) The seller operating on the digital platform must comply with all the requirements to provide information under the model reporting standard for digital platforms to the platform operator.
+(3) The seller operating on the digital platform must comply with all the requirements to provide information to the platform operator to enable the platform operator to comply with its requirements under the model reporting standard for digital platforms.
 (4) For the purposes of Part 11B, in the application of the model reporting standard for digital platforms,—
   (a) a term defined in the reporting standard and used in this Act has the meaning that it has at the time in the reporting standard:
   (b) unless the context requires otherwise, a reference to a jurisdiction in the reporting standard is taken as a reference to New Zealand:
@@ -10638,6 +10695,9 @@ Section 18 does not prevent the Commissioner communicating to a person’s fund 
 ### 39C Chief executive responsible for administration of the Residential Tenancies Act 1986
 (1) Section 18 does not prevent the Commissioner from disclosing sensitive revenue information to the chief executive (CE) responsible for the administration of the Residential Tenancies Act 1986 and to the CE’s delegatees responsible for the administration of the Residential Tenancies Act 1986, if the disclosure is necessary for the purpose of the CE forming or changing an opinion that land meets or does not meet the definition of build-to-rent land in the Income Tax Act 2007.
 (2) No information will be disclosed unless the Commissioner is satisfied that the information is readily available and that it is reasonable and practicable to communicate the information.
+
+### 39D Tertiary Education Commission for final-year fees-free scheme
+Section 18 does not prevent the Commissioner communicating to an officer, employee, or agent of the Tertiary Education Commission any information necessary for the purpose of administering the final-year fees-free scheme.
 
 #### Subpart 2 — Disclosures in provisions related to exchanges of information
 
