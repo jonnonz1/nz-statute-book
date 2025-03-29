@@ -1,5 +1,5 @@
 # Stamp and Cheque Duties Act 1971
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2025-03-29_
 
 > An Act to consolidate and amend the law relating to stamp duties
 
@@ -341,9 +341,10 @@ In this Part, unless the context otherwise requires,—
       (ii) an amount of the interest was apportioned to a New Zealand source under section YD 5(4) of the Income Tax Act 2007, and NRWT was not withheld from the amount under section RF 3 of that Act.
 
 ### 86G Application to register securities
-Any approved issuer may apply to the Commissioner, in writing and in such form as the Commissioner may approve, for registration of—as a registered security or registered securities for the purposes of this Part.
+(1) Any approved issuer may apply to the Commissioner, in writing and in such form as the Commissioner may approve, for registration of—as a registered security or registered securities for the purposes of this Part.
   (a) any transaction involving money lent to that approved issuer; or
   (b) any class of transactions involving money lent to that approved issuer—
+(2) For the purposes of subsection (1), an approved issuer that is a limited partnership eligible to elect to pay approved issuer levy in relation to a security under section 32M(1B) of the Tax Administration Act 1994 may also apply for registration of any transaction or class of transactions involving money lent by that approved issuer.
 
 ### 86GB Treatment of approved issuer levy when prepayments or transfer pricing adjustment made
 (1) A person may apply to the Commissioner for a refund of an amount of approved issuer levy if and to the extent to which—
