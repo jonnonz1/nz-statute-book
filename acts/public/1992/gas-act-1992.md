@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-03-30_
 
 > Title
 
@@ -153,6 +153,7 @@ This Act binds the Crown.
 (1) The functions of WorkSafe under this Act are—
   (a) to carry out such inquiries, tests, audits, or investigations as may be necessary to determine whether a person is complying with this Act:
   (b) to take all such lawful steps as may be necessary to ensure the safe supply and use of gas:
+  (ba) to develop gas safety instruments:
   (c) to perform such other functions as are provided for under this Act.
 (2) This section is subject to section 6A.
 
@@ -1374,13 +1375,40 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 (1) Any person who is required by regulations made under section 55 to provide copies of statements and information, on request, to the public, may charge for providing those copies.
 (2) Any charge imposed under subsection (1) for copies of statements and information may be no more than is reasonably required to recover the costs of providing those copies.
 
-**Safe work instruments—Legal effect**
+**Gas safety instruments**
 
-### 56AB Legal effect of safe work instruments
-(1) For the purposes of this Act, a safe work instrument made under section 227 of the Health and Safety at Work Act 2015 has legal effect only to the extent that any regulations made under this Act refer to it.
+### 56AB Minister may approve gas safety instruments
+(1) The Minister may—
+  (a) approve a gas safety instrument developed by WorkSafe for the purposes referred to in subsection (2); and
+  (b) amend or revoke an approved gas safety instrument.
+(2) The purposes of gas safety instruments are to define terms, prescribe matters, or make other provision in relation to any activity or thing, including (without limitation) listing standards, control of substances, competency requirements, and certification requirements.
+(3) The Minister must not approve a gas safety instrument unless the Minister is satisfied that all persons and organisations that the Minister thinks appropriate have been consulted, having regard to the subject matter of the proposed gas safety instrument.
+(4) The Minister may approve an amendment to a gas safety instrument (including approving incorporation of amendments to, or updates of, documents incorporated by reference) without complying with subsection (3) if the Minister is satisfied that the amendment is minor or technical.
+(5) To the extent that a gas safety instrument is given effect to in accordance with section 56AC, it is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) To the extent that a gas safety instrument is not secondary legislation, subsection (7) applies.
+(7) The Minister must, as soon as practicable after a gas safety instrument is made,—
+  (a) notify the gas safety instrument in the Gazette; and
+  (b) ensure that a copy of the gas safety instrument is published on an internet site—
+    (i) that is maintained by or on behalf of WorkSafe; and
+    (ii) from which members of the public can access and download it free of charge at all times (as far as practicable).
+(8) A failure to comply with subsection (3) does not affect the validity of a gas safety instrument.
+
+### 56AC Legal effect of gas safety instruments
+(1) A gas safety instrument has legal effect only to the extent that any regulations made under this Act refer to it.
 (2) For the purposes of subsection (1), regulations may refer to—
-  (a) a particular safe work instrument as amended or replaced from time to time; or
-  (b) any safe work instrument that may be made for the purposes of regulations (even if the instrument is not or has not been made at the time the regulations are made).
+  (a) a particular gas safety instrument as amended or replaced from time to time; or
+  (b) any gas safety instrument that may be made for the purposes of regulations (even if the instrument is not or has not been made at the time the regulations are made).
+
+### 56AD Minister may delegate approval of gas safety instruments to WorkSafe
+(1) The Minister may, either generally or specifically, delegate to WorkSafe the Minister’s power to approve, amend, or revoke a gas safety instrument.
+(2) A delegation under this section must be in writing.
+(3) WorkSafe must not delegate the power to approve, amend, or revoke a gas safety instrument delegated to it under subsection (1) except in accordance with the terms of the delegation.
+(4) The power of the Minister to delegate under this section—
+  (a) is subject to any prohibitions, restrictions, or conditions contained in any other Act in relation to the delegation of the Minister’s functions or powers; but
+  (b) does not limit any power of delegation conferred on the Minister by any other Act.
+(5) WorkSafe may, unless the delegation provides otherwise, exercise the power delegated to it under this section in the same manner, subject to the same restrictions, and with the same effect as if it had been conferred on WorkSafe directly.
+(6) If WorkSafe purports to act under a delegation under this section, WorkSafe is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
+(7) No delegation under this section affects or prevents the performance or exercise of any function or power by the Minister or affects the responsibility of the Minister for the actions of a person acting under the delegation.
 
 **Miscellaneous provisions**
 
