@@ -1,5 +1,5 @@
 # Privacy Act 2020
-_Consolidation as at 2025-01-26_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Privacy Act 2020.
@@ -374,7 +374,7 @@ IPPs 2, 3, and 4(b) do not apply to personal information collected by an intelli
     (i) a government inquiry, until the final report of that inquiry is presented to the appointing Minister:
     (ii) a public inquiry (including a Royal commission), until the final report of that inquiry is presented to the House of Representatives:
     (iii) a person or body appointed under any Act to inquire into a specified matter; or
-  (e) personal information contained in a video record made under the Evidence Regulations 2007 or any copy or transcript of the video record; or
+  (e) personal information contained in a video record made under the Evidence (Video Records and Very Young Children’s Evidence) Regulations 2023 or any copy or transcript of the video record; or
   (f) personal information held by the Inspector-General of Defence, the Deputy Inspector-General of Defence, or any employee of the Inspector-General of Defence in connection with the performance or exercise of the Inspector-General of Defence’s functions, duties, or powers that is not personal information about any employee or former employee of the Inspector-General of Defence in their capacity as an employee.
 (2) IPP 7 does not apply to personal information collected by the Government Statistician under the Data and Statistics Act 2022.
 
@@ -866,7 +866,8 @@ In this Part, unless the context otherwise requires,—
   (a) an Ombudsman:
   (b) the Health and Disability Commissioner:
   (c) the Inspector-General of Intelligence and Security:
-  (d) the Independent Police Conduct Authority.
+  (d) the Independent Police Conduct Authority:
+  (e) the chief executive within the meaning of section 5 of the Customer and Product Data Act 2025.
 (2) The Commissioner must—
   (a) consult the person specified in subsection (1) who the Commissioner considers has jurisdiction to deal with the complaint; and
   (b) decide the appropriate means of dealing with the complaint.
@@ -2246,7 +2247,8 @@ Sections 86 to 90 apply in relation to an inquiry conducted by the Commissioner 
   (b) the Health and Disability Commissioner:
   (c) the Inspector-General of Intelligence and Security:
   (d) the Independent Police Conduct Authority:
-  (e) the Inspector-General of Defence.
+  (e) the Inspector-General of Defence:
+  (f) the chief executive within the meaning of section 5 of the Customer and Product Data Act 2025.
 (2) For the purpose of consulting a person specified in subsection (1), the Commissioner may disclose to that person any information that the Commissioner considers necessary.
 (3) This section overrides section 206(1).
 
