@@ -1,5 +1,5 @@
 # Charitable Trusts Act 1957
-_Consolidation as at 2023-10-05_
+_Consolidation as at 2025-03-30_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to charitable trusts
 
@@ -15,6 +15,9 @@ In this Act, unless the context otherwise requires,—
 
 ### 2A Principal Act to bind the Crown
 This Act shall bind the Crown.
+
+### 2B Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ## Part 1 — Vesting of property
 
@@ -64,7 +67,8 @@ For the purposes of section 7, an application shall be deemed to be authorised b
   (b) a statutory declaration made by one of the subscribers to the application setting forth any trusts on which the applicant or applicants hold any property, being trusts not set out in any document or copy of a document accompanying the application:
   (c) in any case where the application for incorporation is made by the trustees of a society—
     (i) a copy of the rules and other documents (if any) providing for the constitution of the society, certified by one of the subscribers to the application as a correct copy of the then current rules and documents, or (where there are neither any such rules nor any such documents) a statutory declaration made by one of the subscribers to the application setting forth the purposes of the society, the manner in which persons become members or cease to be members thereof, and the manner in which the society operates:
-    (ii) a statutory declaration made by one of the subscribers to the application to the effect that the application is authorised by the society, and specifying the mode in which it is so authorised.
+    (ii) a statutory declaration made by one of the subscribers to the application to the effect that the application is authorised by the society, and specifying the mode in which it is so authorised:
+  (d) an electronic address for the purposes of any communication with the board.
 (3) If the Registrar considers that any documents accompanying an application do not disclose sufficient information regarding the trusts on which any property is held by the applicant or applicants, the Registrar may refuse to register the trustees as provided in this Part until the further information that the Registrar requires is supplied to the Registrar.
 (4) Original documents may in any case accompany any such application instead of copies, and the provisions of subsection (5) of section 29 shall thereupon apply in respect of the documents.
 
@@ -87,16 +91,31 @@ Every board shall have perpetual succession and a common seal, and (subject to t
 (2) Where any estate or interest in, or any mortgage or charge on, any land under the Land Transfer Act 2017 is vested in a board by virtue of this section, the Registrar-General of Land shall, on receiving a written application under the common seal of the board, register the board as proprietor of that estate, interest, mortgage, or charge.
 
 ### 15 Name of board
-(1) No trustees or society shall be incorporated under a name which is identical with that of any other board, or of any company carrying on business in New Zealand (whether registered in New Zealand or not) or of any other body corporate established or registered in New Zealand under any Act, or which so nearly resembles that name as to be calculated to deceive, except where the other board, company, or body corporate, as the case may be, signifies its consent in such manner as the Registrar requires, and the Registrar is satisfied that registration of the board by that name will not be contrary to the public interest.
-(2) The name of a board need not include—
-  (a) the words Trust Board:
-  (b) any of the following words, namely, Trust, Board, Society, and Incorporated.
+(1) The Registrar must refuse to incorporate a board under a name if, in the Registrar’s opinion,—
+  (a) the use of the name would contravene any legislation; or
+  (b) the name is identical or almost identical to the name of any other board or company carrying on business in New Zealand (whether incorporated in New Zealand or not) or other body corporate established or registered in New Zealand; or
+  (c) the name is identical or almost identical to a name that has already been reserved under the Companies Act 1993 and that is still available for registration under that Act; or
+  (d) the name is likely to mislead the board’s members or the public about the board’s nature or identity; or
+  (e) the name is offensive.
+(2) If the Registrar refuses to incorporate the board under subsection (1), the board may be incorporated under a name that has been amended to address (to the Registrar’s satisfaction) the matter referred to in that subsection.
+(3) Subsection (1)﻿(b) does not apply if—
+  (a) the other board, company, or body corporate gives its consent in any manner that the Registrar requires; and
+  (b) the Registrar is satisfied that board’s use of the name will not be contrary to the public interest.
 
-### 16 Change of name
+### 15A Registrar may change name
+(1) If the Registrar is satisfied that the name under which a board is registered is not permitted under section 15, the Registrar may enter a new name on the register for the board that would be permitted under section 15 in place of the former name.
+(2) The name entered on the register under subsection (1) may be a name selected by the board after being given a reasonable opportunity to do so (pursuant to a resolution passed at a meeting of the board), or if the board does not select a name, a name selected by the Registrar.
+(3) If the Registrar registers a new name, the Registrar must issue a certificate of incorporation recording the change of name.
+
+### 16 Change of name at application of board
 (1) In any case where a society is incorporated as a board, or where the trustees of a society are incorporated as a board, the board may, pursuant to a resolution of the society passed at a general meeting, apply to the Registrar to change the name under which the board is registered.
 (2) In any other case where trustees are incorporated as a board, the board may, pursuant to a resolution passed at a meeting of the board, apply to the Registrar to change the name under which it is registered.
-(3) Where a board applies to the Registrar under this section to change the name under which it is registered and the Registrar approves of the change, the Registrar shall enter the new name in the register in place of the former name, and shall alter the certificate of incorporation to meet the circumstances of the case.
-(4) A change of name by a board under this section shall not affect any rights or obligations of the board, or render defective any legal proceedings by or against the board, and any legal proceedings that may have been continued or commenced by or against it in its former name may be continued or commenced by or against it in its new name.
+(3) Where a board applies to the Registrar under this section to change the name under which it is registered and the Registrar approves of the change, the Registrar shall enter the new name in the register in place of the former name.
+(3A) If the Registrar registers a new name under subsection (3), the Registrar must issue a certificate of incorporation recording the change of name.
+(4)
+
+### 16A Effect of change of name
+A change of name under section 15A or 16 does not affect any rights or obligations of the board, or render defective any legal proceedings by or against the board, and any legal proceedings that may have been continued or commenced by or against it in its former name may be continued or commenced by or against it in its new name.
 
 ### 17 Right to appeal to court
 (1) Any person dissatisfied with any decision of the Registrar that trustees are not to be registered under this Act or that a name or change in the name of any board is not to be approved or registered, may appeal to the court against that decision.
@@ -125,6 +144,12 @@ All acts or deeds done or made by any person acting in good faith as one of the 
 
 ### 22 Power to incorporate for charitable purposes under other Acts
 Nothing in this Act shall prevent any company, society, or corporation from being incorporated under any other Act or otherwise for any religious, educational, or other charitable purpose, or from including any such purpose among its objects:provided that no board incorporated under this Part shall be incorporated under any other Act.
+
+### 22A Acknowledgement of registration
+(1) Every board must, on request from the Registrar, complete an acknowledgement of registration.
+(2) The Registrar may request an acknowledgement of registration at any time they think fit, but no more than once per year.
+(3) The acknowledgement of registration must contain the information prescribed by the regulations made under this Act or required by the Registrar.
+(4) This section does not apply to a charitable entity within the meaning of section 4(1) of the Charities Act 2005.
 
 ### 23 New trusts, and alterations of rules, trusts, or registered office
 (1) If any variation is made in the trusts on which any board holds any property, or if any additional property becomes vested in any board on trusts not completely shown in the declarations and the copies of the relevant parts of wills and declarations of trust and other documents already lodged with the Registrar, then, within 1 month from the date of the variation or vesting, there shall be lodged with the Registrar—
@@ -155,23 +180,25 @@ Nothing in this Act shall prevent any company, society, or corporation from bein
 ### 25A COVID-19 business debt hibernation may apply
 [Repealed]
 
-### 26 Dissolution by Registrar
-(1) The Registrar may make a declaration (a declaration of dissolution) that a board is dissolved, if the Registrar is satisfied that the board—
+### 26 Removal by Registrar
+(1) The Registrar may remove a board from the register if the Registrar is satisfied that the board—
   (a) is no longer carrying on its operations; or
   (b) has been registered because of a mistake of fact or law.
-(2) The Registrar must ensure that, as soon as practicable after it is made, the declaration of dissolution is—
-  (a) recorded in the register; and
-  (b) published—
+(2) The Registrar must—
+  (a) record the removal in the register; and
+  (b) publish notice of the removal—
     (i) in the Gazette; and
-    (ii) on an Internet site maintained by, or on behalf of, the Registrar, at all reasonable times, for a period of not less than 20 working days.
-(3) A society is dissolved at the time the declaration of dissolution is recorded in the register, with effect from the date of the declaration.
-(4) If the Registrar is satisfied that a declaration of dissolution was made in error and should be revoked, the Registrar may make a declaration (a declaration of revocation) that the declaration of dissolution is revoked.
-(5) The Registrar must ensure that, as soon as practicable after it is made, the declaration of revocation is—
-  (a) recorded in the register; and
-  (b) published—
+    (ii) on an internet site maintained by, or on behalf of, the Registrar, at all reasonable times, for a period of not less than 20 working days.
+(3) The board is removed at the time the removal is recorded in the register.
+
+### 26AA Restoration to register
+(1) The Registrar may restore a board to the register if the Registrar is satisfied that a removal under section 26 was made in error.
+(2) The Registrar must—
+  (a) record the restoration in the register; and
+  (b) publish notice of the restoration—
     (i) in the Gazette; and
-    (ii) on an Internet site maintained by, or on behalf of, the Registrar, at all reasonable times, for a period of not less than 20 working days.
-(6) At the time the declaration of revocation is recorded in the register the society is revived, as if no dissolution had taken place, with effect from the time that the society was dissolved.
+    (ii) on an internet site maintained by, or on behalf of, the Registrar, at all reasonable times, for a period of not less than 20 working days.
+(3) The board is restored at the time the restoration is recorded in the register, as if no removal had taken place, with effect from the time that the board was removed.
 
 ### 26A Registrar may inquire whether board still carrying on operations
 (1) It is sufficient to satisfy the Registrar, for the purposes of section 26(1), that a board is no longer carrying on its operations if—
@@ -190,6 +217,15 @@ On the liquidation of a board or on its dissolution by the Registrar, all surplu
   (a) that records or stores information electronically or by other means; and
   (b) that permits the information so recorded or stored to be readily inspected or reproduced in usable form.
 (2) The seal of the Registrar may be used for the authentication of any documents required for the purposes of this Part.
+
+### 28A Amendments to register
+The Registrar may make any amendments to the register that are necessary or desirable—
+  (a) to reflect any changes in the information that relates to a board; or
+  (b) to correct the register if the Registrar is satisfied that any information—
+    (i) has been wrongly entered in, or omitted from, the register; or
+    (ii) has been incorrectly entered in the register; or
+    (iii) contains a typographical error or a mistake; or
+  (c) to comply with any court order.
 
 ### 29 Inspection, production, and evidence of documents kept by Registrar
 (1) Any person may inspect the documents kept by the Registrar on payment of such fees as may be prescribed.
@@ -433,6 +469,14 @@ In any case where any company or society or corporation incorporated under this 
 (3) Without limiting the provisions of the Acts Interpretation Act 1924, it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
 (4) Where any board has been duly incorporated under any provision repealed by this Act or under any corresponding former enactment, and the board is in existence at the commencement of this Act, it shall be deemed to have been duly incorporated under this Act.
 (5) Every certificate in respect of a scheme given by the Attorney-General under Part 4 of the Religious, Charitable, and Educational Trusts Act 1908 shall be deemed to be an approval of the scheme by the Attorney-General under Part 4 of this Act.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Regulatory Systems (Economic Development) Amendment Act 2025
+
+### 1 Application of sections 15 and 15A
+(1) Sections 15 and 15A apply regardless of whether a board was incorporated before or after the commencement date.
+(2) In this clause, commencement date means the date on which Part 4 of the Regulatory Systems (Economic Development) Amendment Act 2025 comes into force.
 
 ## Schedule 1 — Memorandum of appointment of new trustees
 
