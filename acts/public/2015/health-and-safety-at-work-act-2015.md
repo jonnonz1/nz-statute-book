@@ -1,5 +1,5 @@
 # Health and Safety at Work Act 2015
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Health and Safety at Work Act 2015.
@@ -428,9 +428,12 @@ In this Act, unless the context otherwise requires, reasonably practicable, in r
   (i) the collapse or failure of an excavation or any shoring supporting an excavation; or
   (j) the inrush of water, mud, or gas in workings in an underground excavation or tunnel; or
   (k) the interruption of the main system of ventilation in an underground excavation or tunnel; or
-  (l) a collision between 2 vessels, a vessel capsize, or the inrush of water into a vessel; or
-  (m) any other incident declared by regulations to be a notifiable incident for the purposes of this section.
+  (l) a collision between 2 vessels, a vessel capsize, or the inrush of water into a vessel.
+  (m)
 (2) Despite subsection (1), notifiable incident does not include an incident declared by regulations not be a notifiable incident for the purposes of this Act.
+(3) In this Act, unless the context otherwise requires, a notifiable incident also means any unplanned or uncontrolled incident in relation to a workplace that—
+  (a) could expose a worker or any other person to serious risk to their health or safety; and
+  (b) is declared by regulations to be a notifiable incident for the purposes of this Act.
 
 ### 25 Meaning of notifiable event
 In this Act, unless the context otherwise requires, a notifiable event means any of the following events that arise from work:
@@ -1372,6 +1375,11 @@ The regulator may recover as a debt due to the regulator the reasonable costs of
 
 ### 123 Regulator may accept enforceable undertakings
 (1) The regulator may accept an enforceable undertaking given by a person in writing in connection with a matter relating to a contravention or an alleged contravention by the person of this Act or regulations.
+(1A) However, the regulator may refuse to accept an enforceable undertaking if it does not provide for the reimbursement of any reasonable costs and expenses of the regulator incurred in relation to—
+  (a) the undertaking; and
+  (b) the contravention or alleged contravention.
+(1B) To avoid doubt, the costs and expenses of the regulator include any costs or expenses incurred in relation to an employee, agent, or contractor of the regulator.
+(1C) Subsection (1A) does not limit the discretion of the regulator to refuse to accept an enforceable undertaking.
 (2) The regulator must not accept an enforceable undertaking under subsection (1) if the regulator believes that the contravention or alleged contravention would amount to an offence against section 47.
 (3) The giving of an enforceable undertaking does not constitute an admission of guilt by the person giving it in relation to the contravention or alleged contravention to which the undertaking relates.
 
@@ -1528,10 +1536,24 @@ In this subpart, unless the context otherwise requires, enforcement action means
 ### 142 Person may notify regulator of interest in knowing of enforcement action taken by regulator
 (1) A person may notify the regulator in the manner determined by the regulator that the person has an interest in knowing whether a particular incident, situation, or set of circumstances has been, is, or is to be subject to the taking of enforcement action by the regulator.
 (2) If the regulator receives a notification under subsection (1), the regulator must—
-  (a) establish whether—
+  (a) make reasonable efforts to establish whether—
     (i) it or any other regulator has made a decision to take any enforcement action in respect of the incident, situation, or set of circumstances; or
-    (ii) any regulatory agency has made a decision to take prosecution action in respect of the same incident, situation, or set of circumstances; and
+    (ii) any relevant regulatory agency has made a decision to take prosecution action in respect of the same incident, situation, or set of circumstances; and
   (b) notify the person in writing of that decision, but not the reasons for the decision.
+(3) In subsection (2), relevant regulatory agency means—
+  (a) a regulator under this Act:
+  (b) the CAA:
+  (c) the New Zealand Police:
+  (d) the New Zealand Transport Agency:
+  (e) Maritime New Zealand:
+  (f) the EPA:
+  (g) Fire and Emergency New Zealand:
+  (h) the Ministry of Health:
+  (i) ACC:
+  (j) the Ministry of Business, Innovation, and Employment, including any statutory officer who carries out work for that agency:
+  (k) a local authority of the region or district in which the particular incident, situation, or set of circumstances occurred or arose:
+  (l) a medical officer of health for the health district in which the particular incident, situation, or set of circumstances occurred or arose:
+  (m) an agency prescribed as a relevant regulatory agency for the incident, situation, or set of circumstances that has occurred or arisen.
 
 ### 143 Prosecutions by regulator
 Subject to section 144, a prosecution for an offence under this Act may be brought only by the regulator.
@@ -2378,7 +2400,9 @@ In this subpart, authorised means authorised by a licence, permit, registration,
   (c) replace an exemption either before or when it expires.
 (4) An exemption granted under subsection (1)—
   (a) takes effect from the date specified in the notice published in accordance with section 221 (which may not be earlier than the date of the notice); and
-  (b) expires on the close of the day that is 5 years after the date on which it took effect, unless it is sooner replaced or revoked.
+  (b) expires on the earlier of the following to occur unless it is sooner replaced or revoked:
+    (i) an expiry date specified in the notice:
+    (ii) the close of the day that is 5 years after the date on which it took effect.
 (5) The breach of a term or condition of an exemption granted under subsection (1) is a breach of the provision to which the exemption relates (unless the terms of the exemption provide otherwise).
 
 ### 221 Status and publication of exemptions granted by regulator
@@ -2457,7 +2481,7 @@ The publication by the regulator of a notice under section 223(1) is conclusive 
 (7) A failure to comply with subsection (3) does not affect the validity of a safe work instrument.
 
 ### 228 Legal effect of safe work instruments
-(1) A safe work instrument made under section 227 has legal effect only to the extent that any regulations made under the relevant health and safety legislation refer to it.
+(1) A safe work instrument made under section 227 has legal effect only to the extent that any regulations made under this Act refer to it.
 (2) For the purposes of subsection (1), regulations may refer to—
   (a) a particular safe work instrument as amended or replaced from time to time; or
   (b) any safe work instrument that may be made for the purposes of regulations (even if the instrument has not been made at the time the regulations are made).
@@ -2502,8 +2526,10 @@ Amend the enactments specified in Schedule 5 as set out in that schedule.
 
 ## Schedule 1 — Transitional and savings provisions
 
+### Part 1 — Provisions relating to this Act as enacted
+
 ### 1 Interpretation
-In this schedule, former Acts means—
+In this Part, former Acts means—
   (a) the Health and Safety in Employment Act 1992; and
   (b) the Machinery Act 1950.
 
@@ -2696,6 +2722,16 @@ If, before the commencement of this clause, a mine operator is liable to pay a l
   (a) investigating an offence or a contravention to which this clause applies:
   (b) commencing or completing proceedings for an offence or a contravention to which this clause applies:
   (c) imposing a penalty or other remedy, or making an order, in relation to an offence or a contravention to which this clause applies.
+
+### Part 2 — Provision relating to Regulatory Systems (Immigration and Workforce) Amendment Act 2025
+
+### 27 Transitional provision relating to definition of notifiable incident
+Despite the repeal of section 24(1)﻿(m) by section 16(1) of the Regulatory Systems (Immigration and Workforce) Amendment Act 2025, the following regulations continue in force (and may be amended and revoked) as if they had been made for the purposes of section 24(3) of this Act:
+  (a) Health and Safety at Work (Adventure Activities) Regulations 2016:
+  (b) Health and Safety at Work (Asbestos) Regulations 2016:
+  (c) Health and Safety at Work (Major Hazard Facilities) Regulations 2016:
+  (d) Health and Safety at Work (Mining Operations and Quarrying Operations) Regulations 2016:
+  (e) Health and Safety at Work (Petroleum Exploration and Extraction) Regulations 2016.
 
 ## Schedule 2 — Health and safety representatives and health and safety committees
 
@@ -2950,10 +2986,13 @@ In this schedule,—
   - **permit operator** has the same meaning as in section 2(1) of the Crown Minerals Act 1991
   - **quarrying operation** has the meaning given to it in clause 3
   - **site senior executive** means a worker appointed as the site senior executive by the mine operator
-  - **tourist mining operation** means an operation that has the purpose of—
-    (a) mine education; or
-    (b) mine research; or
-    (c) mine tourism
+  - **tourist mining operation** means an operation—
+    (a) that is at a place where the extraction of coal or minerals has been carried out but is not currently being carried out and is not likely or intended to be carried out in the future; and
+    (b) where there are 1 or more principal hazards in relation to a mining operation, within the meaning prescribed by regulations; and
+    (c) that has 1 or more of the following purposes:
+      (i) mine education:
+      (ii) mine research:
+      (iii) mine tourism
   - **tunnelling operation** has the meaning given to it in clause 4.
 
 ### 2 Meaning of mining operation
@@ -2962,7 +3001,7 @@ In this schedule, mining operation—
   (b) includes any of the following activities and the place at which they are carried out:
     (i) exploring for coal:
     (ii) mining for coal or minerals:
-    (iii) processing coal or minerals associated with a mine:
+    (iii) processing coal or minerals where the processing occurs at a place adjacent to, or in the vicinity of, the site at which the coal or minerals are extracted:
     (iv) producing or maintaining tailings, spoil heaps, and waste dumps:
     (v) the excavation, removal, handling, transport, and storage of coal, minerals, substances, contaminants, and wastes at the place where the activities described in subparagraphs (i) to (iv) are carried out:
     (vi) the construction, operation, maintenance, and removal of plant and buildings at the place where the activities described in subparagraphs (i) to (iv) are carried out:
@@ -2980,14 +3019,16 @@ In this schedule, mining operation—
 (1) In this schedule, quarrying operation—
   (a) means an activity carried out above ground for the purpose of—
     (i) extracting any material, other than coal or any mineral, from the earth; or
-    (ii) processing any material, other than coal or any mineral, at the place where the material is extracted; and
-  (b) includes the place where an activity described in paragraph (a) is carried out; and
-  (c) includes any place in which any material extracted or processed in a quarry is crushed or screened.
-(2) Subclause (1) applies whether or not the material is to be extracted or processed for commercial gain and whether or not the material is extracted or processed by the use of explosives.
+    (ii) processing any material, other than coal or any mineral, at the place where the material is extracted or at a place adjacent to, or in the vicinity of, that place; and
+  (b) includes the place where an activity described in paragraph (a) is carried out; but
+  (c) does not include either of the following, or the place where they are carried out:
+    (i) an activity carried out above ground on a farm for the purpose of extracting or processing any material, other than coal or any mineral, from the earth for the use of that farm; or
+    (ii) an activity carried out above ground for the purpose of extracting, processing, or moving any material, other than coal or any mineral, from the earth for use on a roading or other civil, commercial, or residential construction project that is at the place of the extraction.
+(2) To avoid doubt in relation to an activity described in subclause (1)﻿(a) and (b), subclause (1) applies whether or not the material is to be extracted or processed for commercial gain and whether or not the material is extracted or processed by the use of explosives.
 
 ### 4 Meaning of tunnelling operation
 In this schedule, tunnelling operation—
-  (a) means an operation involving extraction of fill with the purpose of creating a tunnel or shaft or enlarging or extending any tunnel or shaft; and
+  (a) means an operation involving extraction of material with the purpose of creating a tunnel or shaft or enlarging or extending any tunnel or shaft; and
   (b) includes the place where an operation described in paragraph (a) is carried out; but
   (c) excludes any tunnelling operation of a kind declared under clause 5 not to be a tunnelling operation.
 
@@ -3144,7 +3185,7 @@ WorkSafe must establish a board to be known as the New Zealand Mining Board of E
 
 ### 28 Functions of Board
 The functions of the Board are—
-  (a) to advise WorkSafe on competency requirements for mine workers:
+  (a) to advise WorkSafe on competency requirements for mine workers, quarry workers, and alluvial mine workers:
   (b) to examine applicants, or have applicants examined, for certificates of competence:
   (c) to issue, renew, cancel, and suspend certificates of competence:
   (d) any other function relating to training and competency requirements for participants in the extractives industry conferred on the Board by regulations made under this Act.
@@ -3154,10 +3195,10 @@ The functions of the Board are—
 (2) The appointment of a member of the Board must be for a specified period.
 (3) WorkSafe must appoint one of the members of the Board as the chairperson of the Board.
 (4) When appointing a member of the Board, WorkSafe must have regard to the need to ensure that the Board has among its members knowledge and experience of—
-  (a) mining operations:
-  (b) health and safety inspection in the mining industry:
-  (c) mining education:
-  (d) mining industry training.
+  (a) mining operations, quarrying operations, and alluvial mining operations:
+  (b) health and safety inspection in the mining industry, quarrying industry, and alluvial mining industry:
+  (c) mining education, quarrying education, and alluvial mining education:
+  (d) mining industry training, quarrying industry training, and alluvial mining industry training.
 (5) Without limiting subclause (4), the Board may include 1 or more employees of WorkSafe.
 (6) A member of the Board may resign by notice in writing to WorkSafe.
 (7) Clause 15 of Schedule 5 of the Crown Entities Act 2004 (Schedule 5) applies to the members of the Board as if they were members of a committee appointed under clause 14 of Schedule 5 by the board of a Crown entity.
@@ -3166,11 +3207,15 @@ The functions of the Board are—
 The Board may determine its own procedure.
 
 ### 31 Board levy
-(1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, make regulations imposing a levy on mine operators to fund the direct and indirect costs incurred by the Board in performing the Board's functions to the extent that they relate to mining operations.
+(1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, make regulations imposing a levy on mine operators, quarry operators, and alluvial mine operators to fund the direct and indirect costs incurred by the Board in performing the Board’s functions to the extent that they relate to mining operations, quarrying operations, and alluvial mining operations.
 (2) The regulations must—
   (a) specify how the levy rate or rates are calculated:
-  (b) specify the mine operators or classes of mine operators responsible for paying the levy:
-  (c) specify, if the levy is to be paid at different rates, the mine operators, mining operations, thing being extracted, or other things or the classes of mine operators, mining operations, thing being extracted, or other things to which the different rates apply:
+  (b) specify the mine operators, quarry operators, alluvial mine operators, or classes of mine operators, quarry operators, or alluvial mine operators, responsible for paying the levy:
+  (c) specify, if the levy is to be paid at different rates, what the different rates apply to, which may include—
+    (i) mine operators, quarry operators, alluvial mine operators, or classes of those operators:
+    (ii) mining operations, quarrying operations, alluvial mining operations, or classes of those operations:
+    (iii) the thing being extracted:
+    (iv) other things.
   (d) specify when and how the levy is to be paid:
   (e) specify the persons or classes of persons (if any) exempt from paying the levy.
 (3) Without limiting subclauses (1) and (2), regulations may—
