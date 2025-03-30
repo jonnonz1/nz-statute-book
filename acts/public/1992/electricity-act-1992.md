@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-03-30_
 
 > Title
 
@@ -196,6 +196,7 @@ This Act binds the Crown.
 (1) The functions of WorkSafe under this Act are—
   (a) to carry out such inquiries, tests, audits, or investigations as may be necessary to determine whether a person is complying with this Act:
   (b) to take all such lawful steps as may be necessary to ensure the safe supply and use of electricity:
+  (ba) to develop electricity safety instruments:
   (c) to perform such other functions as are provided for under this Act.
 (2) This section is subject to section 5A.
 
@@ -1849,14 +1850,26 @@ The functions of the Board are—
 (1) There shall be a Registrar of the Board, who shall be appointed under the Public Service Act 2020 by the Secretary.
 (2) The office of Registrar may be held concurrently with any other office.
 
-### 152 Delegation of functions and powers
+### 152 Power of Board to delegate to Registrar
 (1) Except as otherwise provided in this Act, the Board may from time to time delegate any of its functions and powers to the Registrar.
 (2) No delegation under this section shall include—
-  (a) the power to delegate under this section:
+  (a)
   (b) any function or power conferred or imposed on the Board by or under Part 11.
 (3) Subject to any general or special directions given or conditions imposed by the Board, the Registrar may, without confirmation by the Board, exercise or perform the delegated powers or functions in the same manner and with the same effect as the Board could itself have exercised or performed them.
 (4) Where the Registrar purports to act pursuant to any such delegation, he or she shall be presumed to be acting in accordance with the terms of the delegation in the absence of proof to the contrary.
 (5) Every such delegation shall be revocable at will, and no such delegation shall prevent the exercise or performance of any power or function by the Board.
+
+### 152A Power of Registrar to delegate
+(1) The Registrar may delegate to any employee of the State services (within the meaning of the Public Service Act 2020), either generally or specifically, any of the Registrar’s functions, duties, and powers.
+(2) The Registrar must not delegate the power of delegation.
+(3) A delegation—
+  (a) must be in writing; and
+  (b) may be made subject to any restrictions and conditions that the Registrar thinks fit; and
+  (c) may be revoked in writing at any time; and
+  (d) does not affect or prevent the performance or exercise of a function, duty, or power by the Registrar; and
+  (e) does not affect the responsibility of the Registrar for the actions of a person acting under the delegation.
+(4) A person to whom any functions, duties, or powers are delegated may, unless the delegation provides otherwise, perform and exercise them in the same manner, subject to the same restrictions, and with the same effect as if they had been conferred directly by this Act and not by delegation.
+(5) A person who purports to act under a delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
 
 ### 153 Meetings to be held in public
 (1) Except as provided in this section, every meeting of the Board shall be in public.
@@ -2239,13 +2252,40 @@ WorkSafe and the Registrar must pay all infringement fees received into a Crown 
 (1) To avoid doubt, a person required by a safety management system to eliminate, isolate, or minimise hazards so far as is reasonably practicable is required to take action only in respect of circumstances that the person knows, or ought reasonably to know, about.
 (2) Different requirements may be prescribed under section 169(1)﻿(3A) in respect of different classes of electricity generators or electricity distributors.
 
-**Safe work instruments—Legal effect**
+**Electricity safety instruments**
 
-### 169C Legal effect of safe work instruments
-(1) For the purposes of this Act, a safe work instrument made under section 227 of the Health and Safety at Work Act 2015 has legal effect only to the extent that any regulations made under this Act refer to it.
+### 169C Minister may approve electricity safety instruments
+(1) The Minister may—
+  (a) approve an electricity safety instrument developed by WorkSafe for the purposes referred to in subsection (2); and
+  (b) amend or revoke an approved electricity safety instrument.
+(2) The purposes of electricity safety instruments are to define terms, prescribe matters, or make other provision in relation to any activity or thing, including (without limitation) listing standards, control of substances, competency requirements, and certification requirements.
+(3) The Minister must not approve an electricity safety instrument unless the Minister is satisfied that all persons and organisations that the Minister thinks appropriate have been consulted, having regard to the subject matter of the proposed electricity safety instrument.
+(4) The Minister may approve an amendment to an electricity safety instrument (including approving incorporation of amendments to, or updates of, documents incorporated by reference) without complying with subsection (3) if the Minister is satisfied that the amendment is minor or technical.
+(5) To the extent that an electricity safety instrument is given effect to in accordance with section 169D, it is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) To the extent that an electricity safety instrument is not secondary legislation, subsection (7) applies.
+(7) The Minister must, as soon as practicable after an electricity safety instrument is made,—
+  (a) notify the electricity safety instrument in the Gazette; and
+  (b) ensure that a copy of the electricity safety instrument is published on an internet site—
+    (i) that is maintained by or on behalf of WorkSafe; and
+    (ii) from which members of the public can access and download it free of charge at all times (as far as practicable).
+(8) A failure to comply with subsection (3) does not affect the validity of an electricity safety instrument.
+
+### 169D Legal effect of electricity safety instruments
+(1) An electricity safety instrument has legal effect only to the extent that any regulations made under this Act refer to it.
 (2) For the purposes of subsection (1), regulations may refer to—
-  (a) a particular safe work instrument as amended or replaced from time to time; or
-  (b) any safe work instrument that may be made for the purposes of regulations (even if the instrument is not or has not been made at the time the regulations are made).
+  (a) a particular electricity safety instrument as amended or replaced from time to time; or
+  (b) any electricity safety instrument that may be made for the purposes of regulations (even if the instrument is not or has not been made at the time the regulations are made).
+
+### 169E Minister may delegate approval of electricity safety instruments to WorkSafe
+(1) The Minister may, either generally or specifically, delegate to WorkSafe the Minister’s power to approve, amend, or revoke an electricity safety instrument.
+(2) A delegation under this section must be in writing.
+(3) WorkSafe must not delegate the power to approve, amend, or revoke an electricity safety instrument delegated to it under subsection (1) except in accordance with the terms of the delegation.
+(4) The power of the Minister to delegate under this section—
+  (a) is subject to any prohibitions, restrictions, or conditions contained in any other Act in relation to the delegation of the Minister’s functions or powers; but
+  (b) does not limit any power of delegation conferred on the Minister by any other Act.
+(5) WorkSafe may, unless the delegation provides otherwise, exercise the power delegated to it under this section in the same manner, subject to the same restrictions, and with the same effect as if it had been conferred on WorkSafe directly.
+(6) If WorkSafe purports to act under a delegation under this section, WorkSafe is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
+(7) No delegation under this section affects or prevents the performance or exercise of any function or power by the Minister or affects the responsibility of the Minister for the actions of a person acting under the delegation.
 
 **Regulations—Information disclosure**
 
