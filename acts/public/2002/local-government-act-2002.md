@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2024-10-01_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -7575,8 +7575,8 @@ A transfer of liabilities in relation to an undertaking from a local authority t
   (c) does not release any surety or guarantor from any obligation with respect to the undertaking.
 
 ### 6 Application of Income Tax Act 2007 and Goods and Services Tax Act 1985
-(1) Nothing in sections CB 6 to CB 23 of the Income Tax Act 2007 applies to any land or asset disposed of by the local authority to a council-controlled organisation under this Act.
-(2) For the purposes of sections CB 6 to CB 23 of the Income Tax Act 2007, if any land or asset is acquired by a council-controlled organisation from a local authority, that land or asset is deemed to have been acquired by the council-controlled organisation on the date on which it was acquired by that local authority.
+(1) Nothing in sections CB 6A to CB 23B of the Income Tax Act 2007 applies to any land or asset disposed of by the local authority to a council-controlled organisation under this Act.
+(2) For the purposes of sections CB 6A to CB 23B of the Income Tax Act 2007, if any land or asset is acquired by a council-controlled organisation from a local authority, that land or asset is deemed to have been acquired by the council-controlled organisation on the date on which it was acquired by that local authority.
 (3) Nothing in sections EE 40(1) to (3) and EZ 12 of the Income Tax Act 2007 applies to any property acquired by a council-controlled organisation from a local authority under this schedule.
 (4) For the purposes of the Goods and Services Tax Act 1985, a transfer of an undertaking from a local authority to a council-controlled organisation under this schedule is deemed to be a transfer of a part of a taxable activity as a going concern that is capable of separate operation.
 
