@@ -1,5 +1,5 @@
 # Crown Research Institutes Act 1992
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-03-30_
 
 > An Act to provide for the formation of Crown-owned companies to undertake scientific research and other related activities, and to provide for matters incidental thereto
 
@@ -144,7 +144,7 @@ In relation to the transfer, pursuant to this Act, of any land, or any interest 
   (d) the accounting policies:
   (e) the performance targets and other measures by which the performance of the group may be judged in relation to its objectives:
   (f) a statement of the principles adopted in determining the annual dividend (if any) together with an estimate of the amount or proportion of annual tax paid earnings (from both capital and revenue sources) that is intended to be distributed to the Crown:
-  (g) the kind of information to be provided to the shareholding Ministers by the Crown Research Institute during the course of those financial years, including the information to be included in each half-yearly report:
+  (g) the kind of information to be provided to the shareholding Ministers by the Crown Research Institute during the course of those financial years:
   (h) the procedures to be followed before any member of the group subscribes for, purchases, or otherwise acquires shares in any company or other organisation:
   (i) any activities for which the board seeks compensation from the Crown (whether or not the Crown has agreed to provide such compensation):
   (j) such other matters as are agreed by the shareholding Ministers and the board.
@@ -177,8 +177,7 @@ In relation to the transfer, pursuant to this Act, of any land, or any interest 
 [Repealed]
 
 ### 18 Half-yearly reports
-(1) Within 2 months after the end of the first half of each financial year of a Crown Research Institute, the board of the Crown Research Institute shall deliver to the shareholding Ministers a report of its operations during that half-year.
-(2) Each report required by this section shall include the information required by the statement of corporate intent to be included in the report.
+[Repealed]
 
 ### 19 Information to be laid before House of Representatives
 (1)
@@ -187,7 +186,7 @@ In relation to the transfer, pursuant to this Act, of any land, or any interest 
   (b) the annual report, audited financial statements, and the statement of responsibility for the financial statements of the Crown Research Institute for the preceding financial year; and
   (c) the auditor's report on those financial statements.
 (3) Where a statement of corporate intent for a Crown Research Institute has been modified pursuant to section 16(5), the responsible Minister shall lay before the House of Representatives a copy of the notice making the modification within 5 working days after the date on which the Minister receives the notice.
-(4) Within 5 working days after a half-yearly report is given to the responsible Minister pursuant to section 18, the responsible Minister shall lay a copy of the report before the House of Representatives.
+(4)
 
 ### 20 Other information
 (1) Subject to subsection (3), the board of a Crown Research Institute shall supply to the shareholding Ministers or to such other person or class or classes of persons as either of those Ministers specifies such information relating to the affairs of the Crown Research Institute, or any of its Crown entity subsidiaries, as either of those Ministers requests after consultation with the board (whether or not the information is of a kind referred to in the statement of corporate intent).
@@ -203,7 +202,7 @@ In relation to the transfer, pursuant to this Act, of any land, or any interest 
 (2) Without limiting subsection (1), the board of a Crown Research Institute may, after consultation with the Auditor-General and with the approval of the Minister, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of the Crown Research Institute or any Crown entity subsidiary of the Crown Research Institute.
 
 ### 22 Protection from disclosure of sensitive information
-Nothing in this Act shall be construed as requiring the inclusion in any statement of corporate intent, annual report, financial statements, or half-yearly report referred to in sections 16 to 18 of any information that could be properly withheld if a request for that information were made under the Official Information Act 1982.
+Nothing in this Act shall be construed as requiring the inclusion in any statement of corporate intent, annual report, or financial statements (as referred to in section 16 or 17) of any information that could be properly withheld if a request for that information were made under the Official Information Act 1982.
 
 ## Part 4 — Transfer of assets to Crown Research Institutes
 
