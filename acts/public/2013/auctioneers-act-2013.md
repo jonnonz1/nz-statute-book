@@ -1,5 +1,5 @@
 # Auctioneers Act 2013
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Auctioneers Act 2013.
@@ -41,7 +41,7 @@ This Act provides for the registration of auctioneers and for related matters, a
   (b) an undischarged bankrupt; or
   (c) a person whose registration under this Act has been cancelled within the preceding 5 years; or
   (d) prohibited from being a director of, or being concerned or taking part in the management of, an incorporated or unincorporated body under any enactment or order made under any enactment; or
-  (e) a person who has been convicted of a crime involving dishonesty within the preceding 5 years; or
+  (e) a person who has been convicted of a crime involving dishonesty (as defined in section 2(1) of the Crimes Act 1961) within the preceding 5 years; or
   (f) a person who has been convicted, within the preceding 5 years, of—
     (i) an offence against section 40 of the Fair Trading Act 1986 for contravention of any provision of Part 1 or subpart 4 of Part 4A of that Act; or
     (ii) an offence against section 24 of this Act; or
@@ -50,6 +50,7 @@ This Act provides for the registration of auctioneers and for related matters, a
   (i) subject to a property order made under section 30 or 31 of the Protection of Personal and Property Rights Act 1988.
 (2) A company is disqualified from registration if—
   (a) a person concerned in the management of the company is disqualified from registration under subsection (1); or
+  (aa) the company is not registered under the Companies Act 1993; or
   (b) the company's registration under this Act has been cancelled within the preceding 5 years; or
   (c) the company has been convicted, within the preceding 5 years, of—
     (i) an offence against section 40 of the Fair Trading Act 1986 for a contravention of any provision of Part 1 or subpart 4 of Part 4A of that Act; or
@@ -92,7 +93,7 @@ A registered auctioneer must not engage an auctioneer to conduct a sale on the r
 (3) The address for service of an applicant must—
   (a) identify the place by reference to its street address; and
   (b) include, if available, the applicant's fax number and email address; and
-  (c) not be that of a PO Box number, a document exchange, or a rural delivery.
+  (c) not be that of a PO Box number or a document exchange.
 
 ### 10 Acceptance of application
 (1) The Registrar must accept an application for registration as an auctioneer if he or she is satisfied that the application is properly completed and,—
@@ -175,7 +176,8 @@ A registered auctioneer ceases to be registered on the date, determined by the R
 (2) The registered auctioneer must make the auctioneer record available for inspection, on request at any reasonable time, by any of the following:
   (a) a constable:
   (b) an employee of the Commerce Commission authorised, in writing, to inspect auctioneer records:
-  (c) a vendor who has sold property through the auctioneer, but only in respect of the parts of the record that relate to the vendor and that property.
+  (c) a vendor who has sold property through the auctioneer, but only in respect of the parts of the record that relate to the vendor and that property:
+  (d) the Registrar.
 (3) A registered auctioneer must, on request, give any person who has a right to inspect an auctioneer record a copy of any part of the record that he or she is entitled to inspect.
 
 **Registrar and register**
