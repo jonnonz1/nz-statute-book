@@ -1,5 +1,5 @@
 # Heavy Engineering Research Levy Act 1978
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-03-30_
 
 > An Act to authorise the levying of persons engaged in heavy engineering manufacture and related industries to provide funds for research into heavy engineering
 
@@ -11,7 +11,7 @@ _Consolidation as at 2021-10-28_
 In this Act, unless the context otherwise requires,—
   - **Association** means the New Zealand Heavy Engineering Research Association (Incorporated)
   - **chief executive** means the chief executive of the Ministry (within the meaning of the Research, Science, and Technology Act 2010)
-  - **Customs** or has the meaning given to Customs by section 5(1) of the Customs and Excise Act 2018
+  - **Customs** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **fabricate** means to use any levied item to make machines, equipment, or structures in which the original form of the levied item is substantially modified; and has a corresponding meaning
   - **financial year** means the period of 12 months ending with 31 March in any year
   - **heavy engineering** means that branch of engineering—and which typically produces items of the kind described in Schedule 1
@@ -52,7 +52,7 @@ This Act shall bind the Crown.
 ### 6 Recovery and collection
 (1) All research levies imposed under this Act shall be recoverable in any court of competent jurisdiction as a debt due to the Association.
 (2) Research levies imposed on levied items produced within New Zealand shall be payable by the producer directly to the Association within such period after the items were produced as may be specified by the Association.
-(3) Research levies imposed on any levied item imported into New Zealand shall be payable on demand by the Customs in addition to duties (if any) payable to the Customs under any other enactment, and shall be payable as if the levies were duty under the Customs and Excise Act 2018.
+(3) Research levies imposed on any levied item imported into New Zealand shall be payable on demand by Customs in addition to duties (if any) payable to Customs under any other enactment, and shall be payable as if the levies were duty under the Customs and Excise Act 2018.
 
 ### 7 Association may require information and returns
 (1) The Association may require any person who produces within New Zealand any levied item to provide the Association with such information in writing or make such return relating to that person's manufacturing operations as may be necessary to enable the Association to assess the amount of levy due; and all such information or every such return may be verified by statutory declaration or by such other means as the Association thinks fit.
@@ -63,19 +63,19 @@ This Act shall bind the Crown.
 (4) The provision of any information or the making of any return under this section shall not constitute a condition precedent to the right of the Association to assess, sue for, and recover any research levy payable under this Act.
 
 ### 8 Powers of Customs
-(1) The powers and authorities of the Customs under the Customs and Excise Act 2018 shall, with all necessary modifications, apply in the same manner to the collection of a research levy under this Act as they apply to the collection of duty under that Act.
-(2) Without limiting subsection (1) of this section and notwithstanding section 6(1) of this Act, sections 74, 100, 122, 123, 129 to 131, 133, and 134 of the Customs and Excise Act 2018 shall apply in respect of any research levy required to be collected by the Customs as if it were duty to be collected under that Act.
+(1) The powers and authorities of Customs under the Customs and Excise Act 2018 shall, with all necessary modifications, apply in the same manner to the collection of a research levy under this Act as they apply to the collection of duty under that Act.
+(2) Without limiting subsection (1) of this section and notwithstanding section 6(1) of this Act, sections 74, 100, 122, 123, 129 to 131, 133, and 134 of the Customs and Excise Act 2018 shall apply in respect of any research levy required to be collected by Customs as if it were duty to be collected under that Act.
 
 ### 9 All research levies collected to be paid to Association
-Subject to section 10, all research levies received under this Act by the Customs shall be paid to the Association by the Customs.
+Subject to section 10, all research levies received under this Act by Customs shall be paid to the Association by Customs.
 
 ### 10 Crown may be reimbursed for collection of research levies
-For the purpose of reimbursing the Crown for any expenses incurred by the Customs in collecting any research levy under this Act, the Customs may retain such percentage of every levy collected by him as may be determined by the Minister of Finance after consultation with the Association.
+For the purpose of reimbursing the Crown for any expenses incurred by Customs in collecting any research levy under this Act, Customs may retain such percentage of every levy collected as may be determined by the Minister of Finance after consultation with the Association.
 
 ### 11 Refunds
-(1) Notwithstanding section 9, in any case where a research levy has been paid to or collected by the Customs in error or in excess of the amount properly payable, the Customs may refund the amount of such levy paid or collected in error or, as the case may be, the amount of the excess, to the person by whom the levy was paid from money in the Customs' hands which would otherwise be payable to the Association.
+(1) Notwithstanding section 9, in any case where a research levy has been paid to or collected by Customs in error or in excess of the amount properly payable, Customs may refund the amount of such levy paid or collected in error or, as the case may be, the amount of the excess, to the person by whom the levy was paid from money in Customs' hands which would otherwise be payable to the Association.
 (2) In any case where the Association is satisfied that any person who has paid a research levy is not engaged in heavy engineering or has paid a research levy in error or in excess of the amount properly payable, it may refund to that person the amount of research levy which has been so paid.
-(3) In any case where the Minister is satisfied that, having regard to the purposes of this Act, it would be inequitable for a research levy to be paid by any particular person or in respect of any particular levied items, he may authorise the Association to remit or refund any research levy payable by that person or in respect of those levied items.
+(3) In any case where the Minister is satisfied that, having regard to the purposes of this Act, it would be inequitable for a research levy to be paid by any particular person or in respect of any particular levied items, the Minister may authorise the Association to remit or refund any research levy payable by that person or in respect of those levied items.
 
 ### 12 Expenditure of research levy
 (1) The money received by the Association from any research levy shall be used by the Association for the purposes of promoting and conducting research and other scientific work into or relating to the heavy engineering industry.
@@ -101,8 +101,8 @@ For the purpose of reimbursing the Crown for any expenses incurred by the Custom
 **Membership of Association**
 
 ### 13 Membership of Association
-(1) Notwithstanding anything to the contrary in the rules of the Association, but subject to subsection (3), every person engaged in heavy engineering and using goods subject to a levy under this Act shall be entitled, by virtue of that fact and without payment of any membership or other fee, to become an associate member of the Association on his making written application to the Association for the purpose.
-(2) Every person who is an associate member of the Association shall, subject to his fulfilling his obligations as an associate member, be entitled to all the benefits of the Association conferred on associate members by its rules, but shall not have any right to exercise a vote at any general meeting of the association.
+(1) Notwithstanding anything to the contrary in the rules of the Association, but subject to subsection (3), every person engaged in heavy engineering and using goods subject to a levy under this Act shall be entitled, by virtue of that fact and without payment of any membership or other fee, to become an associate member of the Association on making a written application to the Association for the purpose.
+(2) Every person who is an associate member of the Association shall, subject to fulfilling their obligations as an associate member, be entitled to all the benefits of the Association conferred on associate members by its rules, but shall not have any right to exercise a vote at any general meeting of the association.
 (3) Every person who is entitled pursuant to subsection (1) to become an associate member of the Association, and who agrees to pay an annual subscription as determined by the executive of the Association, shall be entitled to become, or to continue to be, an ordinary member of the Association having the right to vote at any general meeting of the Association.
 (4) Nothing in this section shall preclude the Association from admitting to membership in accordance with its rules any person other than one who is entitled to be an associate member of the Association by virtue of subsection (1) or an ordinary member of the Association by virtue of subsection (3).
 
@@ -116,12 +116,12 @@ For the purpose of reimbursing the Crown for any expenses incurred by the Custom
 
 ### 15 Copy of accounts to be sent to Minister and members
 (1) The Association shall, within 3 months after the expiration of each financial year or within such extended period as the Minister may allow, provide the Minister and the chief executive with a report on its proceedings and activities during that financial year. There shall be annexed to the report copies of the income and expenditure account and statement of financial position of the Association together with a copy of the report of the auditor or auditors on them.
-(2) The Minister shall, as soon as practicable after its receipt by him, lay before Parliament a copy of the report sent to him under subsection (1) (together with a copy of the Association's income and expenditure account and statement of financial position for the year to which the report relates).
+(2) The Minister shall, as soon as practicable after receiving the report, present a copy of it to the House of Representatives (together with a copy of the Association's income and expenditure account and statement of financial position for the year to which the report relates).
 (3) Within 3 months after the expiration of its financial year, the Association shall send to each of its members a copy of the report sent to the Minister under subsection (1), together with a copy of its income and expenditure account and statement of financial position for that year and a copy of the report of the auditor or auditors on them.
 (4) Nothing in this section shall limit the application of the Incorporated Societies Act 1908 to the Association.
 
 ### 16 Copy of rules to be sent to Minister
-If so required by the Minister, the Association shall, within such reasonable time as the Minister may specify, send him a copy of its rules, together with any amendments to them. Any such copy shall be duly certified by the Registrar of Incorporated Societies as being the registered rules of the Association.
+If so required by the Minister, the Association shall, within such reasonable time as the Minister may specify, send the Minister a copy of its rules, together with any amendments to them. Any such copy shall be duly certified by the Registrar of Incorporated Societies as being the registered rules of the Association.
 
 ### 17 Financial provisions to apply notwithstanding anything to the contrary in Association's rules
 The provisions of sections 14 to 16 shall apply to the Association notwithstanding anything to the contrary in its rules.
@@ -131,10 +131,10 @@ The provisions of sections 14 to 16 shall apply to the Association notwithstandi
 ### 18 Offences and penalties
 (1) Every person commits an offence, and is liable on conviction to a fine not exceeding $250 or, in the case of a second or subsequent conviction for a similar offence, $500, who without reasonable excuse fails to provide any information or deliver any return as and when required by the Association pursuant to any provision of this Act.
 (2) Every person commits an offence, and is liable on conviction to a fine not exceeding $500, who—
-  (a) provides any information or makes any return pursuant to this Act which to his knowledge is false in any material particular:
-  (b) fraudulently avoids or attempts to avoid paying any research levy payable by him pursuant to this Act:
+  (a) provides any information or makes any return pursuant to this Act which to their knowledge is false in any material particular:
+  (b) fraudulently avoids or attempts to avoid paying any research levy payable by them pursuant to this Act:
   (c) wilfully or recklessly discloses any information in contravention of section 7.
-(3) Where an offence under this section committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary, or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be liable to be proceeded against for the offence and punished accordingly.
+(3) Where an offence under this section committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary, or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, that person, as well as the body corporate, shall be liable to be proceeded against for the offence and punished accordingly.
 
 ### 19 Offences by officers of Association
 (1) Every officer of the Association commits an offence, and is liable on conviction to a fine not exceeding $500, who—
