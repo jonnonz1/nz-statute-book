@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -97,6 +97,7 @@ In this Act, unless the context otherwise requires,—
   - **small business consumer** means a consumer that is not a domestic consumer and—
     (a) that is in a class specified in regulations made under section 113A; or
     (b) if no such regulations have been made, that consumes less than 40 MWh of electricity per year
+  - **specified person** means a person (other than an industry participant) who is involved in both classes of industry participants that are the subject of any provisions made in accordance with section 32(3)
   - **system operator** means the person who ensures the real-time co-ordination of the electricity system, and is the person referred to in section 8
   - **trader in electricity** means a person who trades in electricity or electricity derivatives, and includes—
     (a) a person who buys or sells contracts under which the payment obligations may change according to the changes in the price at which electricity is bought or sold in any market in New Zealand; and
@@ -142,7 +143,7 @@ In this Act, unless the context otherwise requires,—
 
 ### Subpart 1 — Who does what
 
-**Industry participants**
+**Industry participants and specified persons**
 
 ### 7 Industry participants
 (1) The following are industry participants for the purposes of this Act:
@@ -178,13 +179,15 @@ In this Act, unless the context otherwise requires,—
   (c) set requirements relating to transparency and performance.
 (4) A failure to comply with subsection (2) is to be treated, for the purposes of enforcement under this Part, as a breach of the Code.
 
-### 9 Industry participants to register and comply with Code
+### 9 Obligation to register and comply with Code
 (1) Every industry participant must—
   (a) register as an industry participant by supplying the Authority with the information specified in section 27(2); and
   (b) comply with the Code.
 (2) A failure to comply with subsection (1) may result in an industry participant being—
   (a) liable to conviction for an offence under section 31, in the case of failure to register; and
   (b) subject to the enforcement measures set out in this Part, in the case of failure to comply with the Code.
+(3) Every specified person must comply with any obligations imposed on them by the Code in accordance with section 32(3).
+(4) A failure to comply with subsection (3) may result in a specified person being subject to the enforcement measures set out in this Part.
 
 ### 10 Exemption from obligation to register
 (1) Despite section 9(1)﻿(a), an industry participant need not register if—
@@ -209,15 +212,18 @@ In this Act, unless the context otherwise requires,—
   (b) the Authority exempts the participant by issuing an individual exemption notice that—
     (i) identifies the industry participant that is exempt from the obligation to comply with the Code or specific provisions of the Code; and
     (ii) gives reasons for the exemption.
-(2) The Authority may grant an individual exemption to an industry participant only if the Authority is satisfied that—
-  (a) it is not necessary, for the purpose of achieving the Authority’s objectives under section 15, for the participant to comply with the Code or the specific provisions of the Code; or
-  (b) exempting the participant from the requirement to comply with the Code or the specific provisions of the Code would better achieve the Authority’s objectives than requiring compliance.
+(1A) Despite section 9(3), a specified person need not comply with the Code, or specific provisions of the Code, if the Authority exempts the specified person by issuing an individual exemption notice that—
+  (a) identifies the specified person that is exempt from the obligation to comply with the Code or specific provisions of the Code; and
+  (b) gives reasons for the exemption.
+(2) The Authority may grant an individual exemption to an industry participant or a specified person (as the case may be) only if the Authority is satisfied that—
+  (a) it is not necessary, for the purpose of achieving the Authority’s objectives under section 15, for the participant or specified person to comply with the Code or the specific provisions of the Code; or
+  (b) exempting the participant or specified person from the requirement to comply with the Code or the specific provisions of the Code would better achieve the Authority’s objectives than requiring compliance.
 (3) The Authority may grant an individual exemption on any terms or conditions that it reasonably considers are necessary.
-(4) The Authority may amend or revoke an individual exemption, by issuing a notice that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Authority—
-  (a) has given notice of the proposed amendment or revocation to the exempt participant and given the participant a reasonable opportunity to comment; and
+(4) The Authority may amend or revoke an individual exemption, by issuing a notice that identifies the exempt participant or specified person (as the case may be) and gives reasons for the amendment or revocation, but only if the Authority—
+  (a) has given notice of the proposed amendment or revocation to the exempt participant or specified person and given the participant or specified person a reasonable opportunity to comment; and
   (b) in relation to an amendment, is satisfied that the amendment is necessary or desirable for the purpose of achieving the Authority’s objectives in section 15; and
   (c) in relation to a revocation, is no longer satisfied of the matters in subsection (2).
-(5) A notice issued under subsection (1)﻿(b) or (4) must be published in the Gazette.
+(5) A notice issued under subsection (1)﻿(b), (1A), or (4) must be published in the Gazette.
 (6) The Authority must publicise a list of all current class and individual exemptions.
 
 **Electricity Authority**
@@ -248,7 +254,7 @@ In this Act, unless the context otherwise requires,—
 (1) The Authority's functions are as follows:
   (a) to maintain a register of industry participants in accordance with subpart 2, and to exempt individual industry participants from the obligation to be registered:
   (b) to make and administer the Electricity Industry Participation Code in accordance with subpart 3:
-  (c) to monitor compliance with the Act, the regulations, and the Code, and to exempt individual industry participants from the obligation to comply with the Code or specific provisions of the Code:
+  (c) to monitor compliance with the Act, the regulations, and the Code, and to exempt individual industry participants and specified persons from the obligation to comply with the Code or specific provisions of the Code:
   (d) to investigate and enforce compliance with this Part, Part 4, the regulations, and the Code (see subpart 4 of this Part):
   (e) to investigate and enforce compliance with Part 3 (see subpart 2 of Part 3):
   (f) to undertake market-facilitation measures (for example, providing education, guidelines, information, and model arrangements), and to monitor the operation and effectiveness of market facilitation measures:
@@ -422,9 +428,7 @@ The name, contact details, and business details of every person that, immediatel
   (a) set quality or information requirements for Transpower or 1 or more distributors, in relation to access to transmission or distribution networks:
   (b) set pricing methodologies for Transpower or 1 or more distributors.
 (5) Subsections (3) and (4) do not limit subsection (1).
-(6) In this section,—
-  - **pricing methodologies** has the meaning given in section 52C of the Commerce Act 1986
-  - **specified person** means a person (other than an industry participant) who is involved in both classes of industry participant that are the subject of any provisions made in accordance with subsection (3).
+(6) In this section, pricing methodologies has the meaning given in section 52C of the Commerce Act 1986.
 
 ### 33 Status of Code
 (1) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
@@ -563,17 +567,20 @@ The purposes for which the powers in section 46 may be exercised are as follows:
   (c) carrying out a review and producing a report in response to a request by the Minister under section 18.
 
 ### 46 Authority's monitoring, investigation, enforcement, and review powers
-(1) The Authority may exercise the powers in this section only for a purpose described in section 45.
-(2) The Authority may require an industry participant to do any of the following:
-  (a) provide, within any reasonable time specified by the Authority, any information, papers, recordings, and documents that are in the possession, or under the control, of the participant and that are requested for the purpose:
+(1) The Authority may exercise the powers in this section,—
+  (a) in relation to an industry participant, only for a purpose described in section 45; and
+  (b) in relation to a specified person, only for a purpose described in section 45(a)﻿(i) or (b).
+(2) The Authority may require an industry participant or a specified person to do any of the following:
+  (a) provide, within any reasonable time specified by the Authority, any information, papers, recordings, and documents that are in the possession, or under the control, of the participant or specified person and that are requested for the purpose:
   (b) permit its officers or employees to be interviewed (which interview may be recorded) and ensure as far as possible that they are made available for interview and answer truthfully and fully any questions put to them:
+  (ba) if a specified person is a natural person, make themselves available for interview (which may be recorded) and to answer truthfully and fully any questions put to them:
   (c) give all other assistance that may be reasonable and necessary to enable the Authority to carry out its functions and exercise its powers.
 (3) Nothing in this section requires a person to give the Authority access to any premises, except for a purpose described in section 45(b) and under a warrant issued under section 47.
-(4) If an industry participant, whether directly or through an officer or employee, fails to comply with a requirement of the Authority under this section, the failure is treated as if it were a breach of the Code and the Authority may apply to the Rulings Panel for any order under section 54.
+(4) If an industry participant or a specified person, whether directly or through an officer or employee, fails to comply with a requirement of the Authority under this section, the failure is treated as if it were a breach of the Code and the Authority may apply to the Rulings Panel for any order under section 54.
 
 ### 47 Power to search
-(1) The Authority may, for a purpose specified in section 45(b), authorise an employee of the Authority (an authorised person) to search, under a warrant issued under subsection (2), any place named in the warrant for the purpose of ascertaining whether an industry participant has breached, or may breach, this Part, Part 4, the regulations, or the Code.
-(2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), on an application made in the manner provided in subpart 3 of Part 4 of that Act, who is satisfied that there are reasonable grounds to believe that it is necessary, for the purpose of ascertaining whether an industry participant has breached, or may breach, this Part, Part 4, the regulations, or the Code, for an authorised person to search any place may, by warrant, authorise that person to search a place specified in the warrant.
+(1) The Authority may, for a purpose specified in section 45(b), authorise an employee of the Authority (an authorised person) to search, under a warrant issued under subsection (2), any place named in the warrant for the purpose of ascertaining whether an industry participant or a specified person has breached, or may breach, this Part, Part 4, the regulations, or the Code.
+(2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), on an application made in the manner provided in subpart 3 of Part 4 of that Act, who is satisfied that there are reasonable grounds to believe that it is necessary, for the purpose of ascertaining whether an industry participant or a specified person has breached, or may breach, this Part, Part 4, the regulations, or the Code, for an authorised person to search any place may, by warrant, authorise that person to search a place specified in the warrant.
 (3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for sections 118 and 119) apply, with any necessary modifications.
 
 ### 47A Sharing of information and documents with public service agencies, statutory entities, gas industry body, and overseas regulators
@@ -609,8 +616,8 @@ The purposes for which the powers in section 46 may be exercised are as follows:
 
 ### 48 Privileges protected
 (1) Nothing in section 46 limits any claim for legal professional privilege.
-(2) If the Authority requires an industry participant to do anything referred to in section 46, neither the industry participant nor any officer or employee of the industry participant is excused from answering a question or giving any information or document on the ground that to do so may incriminate or tend to incriminate the industry participant or the officer or employee.
-(3) However, any self-incriminating statement or document made or given by an officer or employee, or an industry participant that is an individual, is not admissible as evidence in any criminal or civil proceedings against that person.
+(2) If the Authority requires an industry participant or a specified person to do anything referred to in section 46, the participant or specified person (as the case may be), and any officer or employee of the participant or specified person, is not excused from answering a question or giving any information or document on the ground that to do so may incriminate or tend to incriminate the participant or the specified person, or the officer or employee.
+(3) However, any self-incriminating statement or document made or given by an officer or employee, or an industry participant or a specified person that is an individual, is not admissible as evidence in any criminal or civil proceedings against that person.
 
 ### 49 Authority may suspend trading in case of insolvency
 (1) This section applies to a generator or purchaser that—
@@ -640,13 +647,13 @@ The purposes for which the powers in section 46 may be exercised are as follows:
 
 ### 51 Interim injunctions
 (1) The Authority may at any time apply to the High Court for the grant of an interim injunction—
-  (a) restraining an industry participant from doing anything that is in breach of the Code; or
-  (b) requiring an industry participant to do something in accordance with the Code.
+  (a) restraining an industry participant or a specified person from doing anything that is in breach of the Code; or
+  (b) requiring an industry participant or a specified person to do something in accordance with the Code.
 (2) The court may grant the injunction if, in the opinion of the court, it is desirable to do so.
 (3) Subsection (2) applies, in the case of an injunction under subsection (1)﻿(a),—
-  (a) whether or not the participant has done, or omitted to do, that thing; and
-  (b) whether or not there is an imminent danger of substantial damage to any person if the participant does, or omits to do, that thing.
-(4) The court may rescind or vary the injunction on application by the Authority or any participant affected by the injunction.
+  (a) whether or not the participant or specified person has done, or omitted to do, that thing; and
+  (b) whether or not there is an imminent danger of substantial damage to any person if the participant or specified person does, or omits to do, that thing.
+(4) The court may rescind or vary the injunction on application by the Authority, any participant, or any specified person affected by the injunction.
 (5) The court must not require the Authority, as a condition of granting an interim injunction, to give an undertaking as to damages, and must not, when determining the application, take into account the fact that the Authority is not required to give such an undertaking.
 (6) Nothing in this Act or the regulations prevents the Authority from seeking an interim injunction under this section at any time.
 
@@ -662,19 +669,19 @@ The purposes for which the powers in section 46 may be exercised are as follows:
 (3) The Rulings Panel has all the powers necessary to perform its functions in accordance with this Act, the regulations, and the Code.
 
 ### 54 Remedial orders for breach of Code
-(1) On determining a complaint that an industry participant has breached the Code, the Rulings Panel may decide that no action should be taken, or do any 1 or more of the following:
-  (a) issue a private warning or reprimand to an industry participant:
-  (b) make an order that a public warning or reprimand be issued to an industry participant:
+(1) On determining a complaint that an industry participant or a specified person has breached the Code, the Rulings Panel may decide that no action should be taken, or do any 1 or more of the following:
+  (a) issue a private warning or reprimand to an industry participant or a specified person:
+  (b) make an order that a public warning or reprimand be issued to an industry participant or a specified person:
   (c) impose additional or more stringent record-keeping or reporting requirements under or in connection with the Code:
-  (d) make a pecuniary penalty order requiring an industry participant to pay a pecuniary penalty to the Crown of an amount not exceeding $2 million and a further amount not exceeding $10,000 for every day or part of a day during which the breach continues (see section 56):
-  (e) make a compensation order requiring an industry participant to pay a sum by way of compensation to any other person:
-  (f) make a compliance order requiring an industry participant that is found not to be complying with the Code to take any action that is necessary to restore it to a position of compliance (see section 57):
+  (d) make a pecuniary penalty order requiring an industry participant or a specified person to pay a pecuniary penalty to the Crown of an amount not exceeding $2 million and a further amount not exceeding $10,000 for every day or part of a day during which the breach continues (see section 56):
+  (e) make a compensation order requiring an industry participant or a specified person to pay a sum by way of compensation to any other person:
+  (f) make a compliance order requiring an industry participant or a specified person that is found not to be complying with the Code to take any action that is necessary to restore it to a position of compliance (see section 57):
   (g) make orders regarding the reasonable costs of any investigations or proceedings:
   (h) recommend to the Authority that a change should be made to the Code or the regulations:
   (i) recommend to the Minister that a change should be made to the regulations or the Act.
 (2) The Rulings Panel must take into account its own previous decisions in respect of any similar situations previously dealt with by the Authority or any predecessor of the Authority.
 (3) Two or more breaches relating to one event or series of closely related events arising from the same cause or circumstance must be treated as a single breach.
-(4) The Rulings Panel may also decide to make orders regarding the reasonable costs of any investigations or proceedings on determining that an industry participant has not breached the Code.
+(4) The Rulings Panel may also decide to make orders regarding the reasonable costs of any investigations or proceedings on determining that an industry participant or a specified person has not breached the Code.
 
 ### 55 Restrictions on remedies
 (1) The remedies that the Rulings Panel may impose under section 54 are the only remedies in respect of a breach of the Code.
@@ -692,16 +699,16 @@ The purposes for which the powers in section 46 may be exercised are as follows:
   (b) the impact of the breach on other industry participants:
   (c) the extent to which the breach was inadvertent, negligent, deliberate, or otherwise:
   (d) the circumstances in which the breach occurred:
-  (e) any previous breach of the Code by the industry participant:
-  (f) whether the industry participant disclosed the matter to the Authority:
+  (e) any previous breach of the Code by the industry participant or specified person:
+  (f) whether the industry participant or specified person disclosed the matter to the Authority:
   (g) the length of time the breach remained unresolved:
-  (h) the participant’s actions on learning of the breach:
-  (i) any benefit that the participant obtained, or expected to obtain, as a result of the breach:
-  (ia) the impact of the penalty on the participant and on the electricity industry:
+  (h) the participant’s or specified person’s actions on learning of the breach:
+  (i) any benefit that the participant or specified person obtained, or expected to obtain, as a result of the breach:
+  (ia) the impact of the penalty on the participant or specified person and on the electricity industry:
   (j) any other matters that the Rulings Panel thinks fit.
 
 ### 57 Offence to breach certain orders of Rulings Panel
-An industry participant that breaches a compliance order made under section 54(1)﻿(f), or an order made under section 54(1)﻿(c), commits an offence and is liable on conviction to a fine not exceeding $20,000.
+An industry participant or specified person that breaches a compliance order made under section 54(1)﻿(f), or an order made under section 54(1)﻿(c), commits an offence and is liable on conviction to a fine not exceeding $20,000.
 
 ### 58 Suspension and termination for breach of certain Rulings Panel orders
 The Rulings Panel may make a suspension order or a termination order against an industry participant if—
@@ -732,13 +739,13 @@ Every order of the Rulings Panel under section 54 or 58—
 **Appeals**
 
 ### 63 Appeal on ground of lack of jurisdiction
-An industry participant that is affected by a decision of the Rulings Panel may appeal that decision to the High Court on the ground of lack of jurisdiction.
+An industry participant or a specified person that is affected by a decision of the Rulings Panel may appeal that decision to the High Court on the ground of lack of jurisdiction.
 
 ### 64 Appeal on question of law
 There is a right of appeal to the High Court, on a question of law only, against any decision of the Authority or the Rulings Panel.
 
 ### 65 Appeal against certain orders of Rulings Panel
-(1) The Authority or an industry participant may appeal to the High Court against the following orders made by the Rulings Panel:
+(1) The Authority, an industry participant, or a specified person may appeal to the High Court against the following orders made by the Rulings Panel:
   (a) an order requiring a public warning or reprimand to be issued (section 54(1)﻿(b)):
   (b) a pecuniary penalty order, or the amount payable under a pecuniary penalty order (section 54(1)﻿(d)):
   (c) a compensation order, or the amount payable under a compensation order (section 54(1)﻿(e)):
@@ -746,9 +753,9 @@ There is a right of appeal to the High Court, on a question of law only, against
   (e) a costs order (section 54(1)﻿(g) or (4)):
   (f) an order by the Rulings Panel, in relation to a particular kind of appeal or dispute, that is identified in the regulations or the Code as an order that may be appealed to the High Court under this section.
 (2) An industry participant may appeal to the High Court against a suspension order or termination order made by the Rulings Panel.
-(3) An industry participant may exercise a right of appeal under this section only if the participant is—
-  (a) an industry participant in whose favour or against whom the order of the Rulings Panel is made; or
-  (b) an industry participant who joined or was joined as a party to the proceeding that is the subject of the appeal.
+(3) An industry participant or a specified person may exercise a right of appeal under this section only if the participant or specified person is—
+  (a) an industry participant or a specified person in whose favour or against whom the order of the Rulings Panel is made; or
+  (b) an industry participant or a specified person who joined or was joined as a party to the proceeding that is the subject of the appeal.
 
 ### 66 How and when appeals made
 An appeal under this Part must be made by giving notice of appeal within 20 working days after the date of the decision or order appealed against or within any further time that the High Court allows.
@@ -1087,15 +1094,17 @@ The trustees of a customer trust and the trustees of a community trust must, wit
 
 ### 112 Regulations relating to monitoring, investigating, and enforcing Code
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister responsible for Part 2, given after consulting the Authority, make regulations for all or any of the following purposes:
-  (a) requiring industry participants to report breaches or possible breaches of the Code, and prescribing procedures relating to such reporting:
+  (a) requiring industry participants or specified persons to report breaches or possible breaches of the Code, and prescribing procedures relating to such reporting:
   (b) prescribing the practices and procedures of the Authority in relation to monitoring compliance with the Code:
   (c) prescribing the practices and procedures of the Authority and the Rulings Panel in relation to the investigation of breaches and possible breaches of the Code (including the appointment and powers of investigators) and other enforcement measures:
   (d) prescribing the information that the Authority must or may require from industry participants generally, or classes of industry participants, and regulating what it must or may do with such information:
+  (da) prescribing the information that the Authority must or may require from specified persons, and regulating what it must or may do with such information:
   (e) regulating the membership and operation of the Rulings Panel:
   (f) identifying the kinds of appeals and disputes that may be determined by the Rulings Panel:
   (g) prescribing, both generally and in relation to specific kinds of appeal or dispute, practices and procedures of the Rulings Panel for dealing with appeals and disputes, whether those appeals and disputes are identified in the regulations or the Code:
   (h) prescribing determinations, orders, or directions, or imposing limits on any determinations, orders, or directions, that the Rulings Panel may make in relation to specific kinds of appeals and disputes (whether those appeals and disputes are identified in the regulations or the Code), and providing for any associated rights of appeal:
   (i) restricting or limiting the amount of liability of, or the amount of any penalty that may be imposed upon, an industry participant or class of industry participant:
+  (ia) restricting or limiting the amount of liability of, or the amount of any penalty that may be imposed upon, a specified person:
   (j) identifying regulations the breach of which are to be treated as a breach of the Code:
   (k) providing for offences, punishable on conviction by a fine not exceeding $20,000, for breaching any regulation made under this section or breaching any order made by the Rulings Panel under the regulations.
 (2) The requirement in subsection (1) to consult with the Authority does not apply to the first regulations made under this section if—
