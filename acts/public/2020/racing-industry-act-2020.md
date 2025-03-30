@@ -1,5 +1,5 @@
 # Racing Industry Act 2020
-_Consolidation as at 2024-12-11_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Racing Industry Act 2020.
@@ -489,8 +489,8 @@ General
 
 ### 36 Racing club no longer racing may be dissolved
 (1) This section applies if a racing code makes a final determination under section 34(3) that a racing club is no longer racing.
-(2) The racing code may notify the Registrar that the club is no longer carrying out its operations and request that the Registrar exercise the Registrar’s powers to dissolve the racing club under section 28(1)﻿(a) of the Incorporated Societies Act 1908 or section 26(1)﻿(a) of the Charitable Trusts Act 1957 (as the case may be).
-(3) If the Registrar receives a notification under subsection (2), the Registrar must make a declaration of dissolution in respect of the club.
+(2) The racing code may notify the Registrar that the club is no longer carrying out its operations and request that the Registrar exercise the Registrar’s powers to dissolve the racing club under section 28(1)﻿(a) of the Incorporated Societies Act 1908 or to remove the club from the register under section 26(1)﻿(a) of the Charitable Trusts Act 1957 (as the case may be).
+(3) If the Registrar receives a notification under subsection (2), the Registrar must make a declaration of dissolution or record the removal of the club from the register of charitable trust boards (as the case may be).
 
 ### Subpart 4 — Racing integrity system
 
