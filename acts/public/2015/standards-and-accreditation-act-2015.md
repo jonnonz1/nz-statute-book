@@ -1,5 +1,5 @@
 # Standards and Accreditation Act 2015
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Standards and Accreditation Act 2015.
@@ -95,7 +95,7 @@ The chief executive must appoint a suitable employee of the Ministry to be the N
     (iii) the review and revision of existing standards:
   (h) to enter into arrangements to develop New Zealand Standards:
   (i) to refer the following to the Board:
-    (i) proposals for membership of standards development committees:
+    (i) proposals for persons to be appointed or removed as members of standards development committees or other development committees:
     (ii) draft standards:
     (iii) proposals to amend, withdraw, or archive standards:
     (iv) proposals to adopt standards developed by other standards organisations:
@@ -143,9 +143,9 @@ The chief executive must appoint a suitable employee of the Ministry to be the N
 
 ### 12 Functions of Board
 (1) The functions of the Board are to—
-  (a) approve or decline proposals for persons to be members of standards development committees:
-  (b) approve or decline proposals for persons to be chairpersons of standards development committees:
-  (c) approve or decline proposals for persons to be members of development committees of other standards organisations:
+  (a) approve or decline proposals for persons to be appointed or removed as members of standards development committees:
+  (b) approve or decline proposals for persons to be appointed or removed as chairpersons of standards development committees:
+  (c) approve or decline proposals for persons to be appointed or removed as members of development committees of other standards organisations:
   (d) approve or decline proposed new New Zealand Standards:
   (e) adopt or decline to adopt other standards organisations' standards as New Zealand Standards:
   (f) approve or decline modifications to New Zealand Standards:
@@ -155,7 +155,7 @@ The chief executive must appoint a suitable employee of the Ministry to be the N
   (j) advise the Minister on the currency of New Zealand Standards, and on priority areas for the development and review of New Zealand Standards:
   (k) advise the Minister on any other matter that the Board considers necessary or advisable.
 (2) The Board must act independently in undertaking its functions under subsection (1).
-(3) If the Board declines to approve members, standards, or modification of standards under subsection (1)﻿(a) to (f), it must provide the NZ Standards Executive with reasons in writing for its decision.
+(3) If the Board declines to approve the appointment or removal of members or chairpersons or declines to approve standards or modification of standards under subsection (1)﻿(a) to (f), it must provide the NZ Standards Executive with reasons in writing for its decision.
 
 ### 13 Considerations for Board
 (1) In undertaking its functions under section 12(1)﻿(a), the Board must—
@@ -214,10 +214,13 @@ The provisions of Schedule 1 apply to the Board.
 (3) If the NZ Standards Executive refers a proposal for a person to be a member, or a chairperson, of a standards development committee to the Board, the Board must—
   (a) approve the proposal; or
   (b) decline the proposal with reasons.
-(4) The NZ Standards Executive may—
+(4) The NZ Standards Executive may, by written notice to the relevant member,—
   (a) appoint any person to be a member of a standards development committee whose membership has been approved by the Board:
   (b) appoint any member to be the chairperson of a standards development committee whose appointment as chairperson has been approved by the Board.
 (5) The NZ Standards Executive must not appoint any person to be chairperson of a standards development committee who is personally interested in the work of that committee.
+(6) The NZ Standards Executive must give a copy of a notice—
+  (a) appointing a person as a member of a standards development committee to the chairperson as soon as practicable after giving the notice to the relevant member; and
+  (b) appointing a member of a standards development committee as the chairperson to the other members of the committee as soon as practicable after giving the notice to the relevant member.
 
 ### 17 Requirements for proposing person to be member
 (1) Before a person is proposed as a member of a standards development committee under section 16, the person must—
@@ -273,6 +276,40 @@ A member of a standards development committee must, at the direction of the NZ S
   (b) not in the performance or intended performance of the committee’s functions.
 (2) In this section, to effect insurance includes to pay, whether directly or indirectly, the costs of the insurance.
 
+### 24A Removal of members of standards development committees
+(1) The NZ Standards Executive may, at any time for just cause, with the approval of the Board, remove a person from membership of a standards development committee by giving written notice to the member.
+(2) The notice must—
+  (a) state the date on which the removal takes effect, which must not be earlier than the date on which the notice is received; and
+  (b) state the reasons for the removal.
+(3) The NZ Standards Executive must give a copy of the notice—
+  (a) to the chairperson of the committee as soon as practicable after giving the notice to the relevant member; or
+  (b) if the relevant member is the chairperson, to the other members of the committee as soon as practicable after giving the notice to the relevant member.
+
+### 24B Just cause for removal of members
+(1) In section 24A, just cause includes—
+  (a) misconduct, inability to perform the functions of the committee, neglect of duty, and breach of any of the duties of members; and
+  (b) obstructing, hindering, or preventing the committee from performing its functions under this Act.
+(2) Subsection (1)﻿(b) does not limit subsection (1)﻿(a).
+
+### 24C Process for removal of members
+The NZ Standards Executive may remove a member with as little formality and technicality, and as much expedition, as is permitted by—
+  (a) the principles of natural justice; and
+  (b) a proper consideration of the matter.
+
+### 24D No compensation for member’s loss of office
+A member of a standards development committee is not entitled to any compensation or other payment or benefit relating to their ceasing, for any reason, to hold office as a member.
+
+### 24E Resignation of members
+(1) A member of a standards development committee may resign from the committee by written notice to the chairperson, or, if the member is the chairperson, to the NZ Standards Executive.
+(2) The resignation is effective when the notice is received by the chairperson or the NZ Standards Executive (as the case may be) or at any later time specified in the notice.
+
+### 24F Members ceasing to hold office
+A member of a standards development committee ceases to hold office if the member—
+  (a) dies; or
+  (b) resigns in accordance with section 24E; or
+  (c) is removed from office in accordance with section 24A; or
+  (d) otherwise ceases to hold office in accordance with any legislation.
+
 **Membership of other development committees**
 
 ### 25 Membership of other development committees
@@ -282,7 +319,22 @@ A member of a standards development committee must, at the direction of the NZ S
 (2) If the NZ Standards Executive refers a proposal to the Board under subsection (1), the Board must—
   (a) approve the proposal; or
   (b) decline the proposal with reasons.
-(3) The NZ Standards Executive may recommend any person to be a member of a development committee of a standards organisation other than the NZ Standards Organisation whose membership has been approved by the Board.
+(3) The NZ Standards Executive may, by written notice, appoint any person to be a member of a development committee of a standards organisation other than the NZ Standards Organisation whose membership has been approved by the Board.
+(4) The NZ Standards Executive must give a copy of a notice appointing a person as a member of a development committee of a standards organisation other than the NZ Standards Organisation to the chairperson (or equivalent) as soon as practicable after giving the notice to the relevant member.
+
+### 25A Removal of members of other development committees
+(1) The NZ Standards Executive may, at any time for just cause, with the approval of the Board, remove a person who was appointed to a development committee of a standards organisation under section 25 by giving written notice to the member.
+(2) The notice must—
+  (a) state the date on which the removal takes effect, which must not be earlier than the date on which the notice was received; and
+  (b) state the reasons for the removal.
+(3) The NZ Standards Executive must give a copy of the notice—
+  (a) to the chairperson (or equivalent) as soon as practicable after giving the notice to the relevant member; or
+  (b) if the relevant member is the chairperson (or equivalent), to a representative of the standards organisation with which the relevant committee is associated as soon as practicable after giving the notice to the relevant member.
+
+### 25B Application of sections 24B to 24F
+Sections 24B to 24F apply in relation to a person’s membership of a development committee of a standards organisation (other than the NZ Standards Organisation) with all necessary modifications, including as if references to—
+  (a) a standards development committee, or a committee, were references to a development committee of a standards organisation (other than the NZ Standards Organisation); and
+  (b) the chairperson were references to the chairperson (or equivalent) of a development committee of a standards organisation (other than the NZ Standards Organisation).
 
 **Fees for New Zealand Standards and cost recovery**
 
