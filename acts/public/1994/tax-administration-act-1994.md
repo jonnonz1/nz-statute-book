@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2025-03-29_
+_Consolidation as at 2025-03-30_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -24,6 +24,10 @@ _Consolidation as at 2025-03-29_
   - **accident compensation legislation** is defined in section 143E(5) for the purposes of that section
   - **accounting period** , in section 107, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **activities undertaken as an airport operator** , in section 42, has the meaning given to airport operator activities in section HR 7 of the Income Tax Act 2007
+  - **affected property** means—
+    (a) affected depreciable property:
+    (b) affected improvements to land:
+    (c) affected revenue property
   - **agency** is defined in section 18E(6) for the purposes of that section and section 18F
   - **amount payable** is defined in section 157(10) for the purposes of that section
   - **applicant** is defined in schedule 7, part C, subpart 2, clause 46(2) for the purposes of that clause
@@ -109,6 +113,9 @@ _Consolidation as at 2025-03-29_
     (b) does not include a private binding ruling
   - **Commissioner's statement of position** means the statement of position that the Commissioner issues pursuant to a disclosure notice; and includes any additional information the Commissioner provides in respect of the statement under section 89M(8) or section 89M(11)
   - **company** is defined in schedule 7, part C, subpart 1, clause 35(4) for the purposes of that clause
+  - **compensation** means—
+    (a) insurance or another amount in recognition of loss:
+    (b) for affected revenue property, an amount that a person derives from insurance, a government or local authority buy-out, or other amount in recognition of loss, or a combination of these, that would be income of the person under section CB 6, CB 7, CB 12, CB 13, or CG 6 of the Income Tax Act 2007 in the absence of subpart FP of that Act
   - **competent authority** —
     (a) has the meaning provided in a double tax agreement or in a tax recovery agreement; and
     (b) includes the Commissioner
@@ -1989,7 +1996,7 @@ Relationship with other provisions
   (a) returns of income, see sections 33 and 37:
   (b) returns related to family assistance credits, see section 41:
   (c) donations tax credits, see section 41A:
-  (d) disputes, see sections 89C(l) and 89D:
+  (d) disputes, see Part 4A:
   (e) assessments, see sections 92, 106, and 113:
   (f) late filing penalties, see section 139A.
 Flowchart 1: Scheme of subpart 3B
@@ -2909,8 +2916,9 @@ A life insurer (the transferor) that transfers a life insurance policy to anothe
   (b) a person authorised to act on behalf of the investor, if the person and the investor agree to have the notice given in that way.
 
 ### 32 Records of specified charitable, benevolent, philanthropic, or cultural bodies
-(1) All gift-exempt bodies must keep in New Zealand sufficient records in the English language to enable the Commissioner to determine both the sources of donations made to them and the application, within New Zealand or within a country or territory outside New Zealand, of their funds.
-(2) Despite subsection (1), on application by a gift-exempt body, the Commissioner may notify the body that they are authorised to keep the records in a language other than English.
+(1) All gift-exempt bodies must keep in New Zealand sufficient records in English or te reo Māori to enable the Commissioner to determine both the sources of donations made to them and the application, within New Zealand or within a country or territory outside New Zealand, of their funds.
+(1B) For the purposes of subsection (1), a gift-exempt body must take reasonable steps to ensure the safe-keeping of their records relating to donations received or applied by them for a period of not less than 7 years after receiving a donation or applying an amount from their funds, except to the extent to which the Commissioner has notified them that retention of the records is not required or they have delivered the records to the Commissioner.
+(2) Despite subsection (1), on application by a gift-exempt body, the Commissioner may notify the body that they are authorised to keep the records in a language other than English or te reo Māori.
 
 ### 32A Records to be provided by employer who contributes to superannuation fund
 (1) On application of a member or a trustee of a superannuation fund acting on a member's behalf, a member's employer, or a member's past employer, must provide the member or trustee with a record of all employer's superannuation cash contributions made by the employer on the member's behalf in each of the 4 tax years before the tax year in which a withdrawal, being one to which section CS 1 of the Income Tax Act 2007 applies, is made.
@@ -3290,7 +3298,7 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
   (b) the information relevant to the calculation of the person's family scheme income for the tax year; and
   (c) other information required by the Commissioner.
 (5)
-(6) A person who is eligible for a tax credit under the family scheme in an income year, or would be eligible if their spouse, civil union partner, or de facto partner were not a transitional resident, and who would otherwise be a transitional resident in an income year may apply not to be a transitional resident under section HR 8(4) of that Act.
+(6) A person who is eligible for a tax credit under the family scheme in an income year, or would be eligible if their spouse, civil union partner, or de facto partner were not a transitional resident, and who would otherwise be a transitional resident in an income year may apply not to be a transitional resident under section HR 8(4) of the Income Tax Act 2007.
 (7) A notice of election under section HR 8(4) must be—
   (a) in a form acceptable to the Commissioner; and
   (b) be received by the Commissioner on or before the latest of the following:
@@ -3544,9 +3552,7 @@ A person that uses the AIM method as described in section RC 5(5B) of the Income
   (a) sets out the details of the fringe benefits received by each of their employees in the tax year or income year, as applicable; and
   (b) includes a calculation of the amount of FBT payable on the taxable value of the fringe benefits in the tax year or income year, as applicable.
 (3) For an employer who chooses to pay under the close company option, the return must be provided no later than the employer’s terminal tax date for the relevant income year. The employer is liable to pay the amount calculated by the terminal tax date.
-(3B) Subsection (3C) applies to an employer who—
-  (a) chooses to pay under the close company option; and
-  (b) is linked to a tax agent to whom section 37(4) and section RA 13(2)﻿(a)﻿(i) and (4) of the Income Tax Act 2007 apply.
+(3B)
 (3C)
 (4) For an employer who chooses to pay under the small business option, the return must be provided no later than 31 May after the end of the relevant tax year. The employer is liable to pay the amount calculated by 31 May.
 
@@ -4686,6 +4692,7 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
   (j) the taxpayer is entitled to issue a notice of proposed adjustment in respect of a tax return provided by the taxpayer, and has done so; or
   (k) the assessment corrects a tax position taken by the taxpayer or an associated person as a consequence or result of an incorrect tax position taken by another taxpayer, and, at the time the Commissioner makes the assessment, the Commissioner has made, or is able to make, an assessment for that other taxpayer for the correct amount of tax payable by that other taxpayer; or
   (ka) the assessment corrects a tax position taken by the taxpayer in relation to a tax position taken by a look-through company in a return of income under section 42B, and the Commissioner and the company have completed the disputes process for that return of income and that tax position; or
+  (kb) the taxpayer, who is a qualifying individual, has provided information to the Commissioner under section 22F or 22G and the assessment is made following the subsequent failure by the taxpayer to respond within 2 months to a request by the Commissioner for additional information; or
   (l) the assessment results from an amendment made under section 22G(6); or
   (lbaa) the Commissioner is making an amendment before finalising the account of a qualifying individual under section 22H; or
   (lba) the assessment is of a penalty under section 139AAB, 139AB, 139ABB, 139AC, 142H, 142I, 142J, or 142K; or
@@ -4852,6 +4859,7 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
   (b) on or before the date on which the Commissioner is required to issue the statement of position—
     (i) section 89N(1)﻿(c)﻿(viii) applies:
     (ii) any of section 89N(1)﻿(c)﻿(i) to (vi) and (ix) apply.
+(6BAB) If the Commissioner does not respond to the disputant’s statement of position as required by subsection (6BA) within the response period, the Commissioner is treated as having accepted the disputant’s statement of position.
 (6B) In subsections (4)﻿(b) and (6)﻿(b), evidence refers to the available documentary evidence on which the person intends to rely, but does not include a list of potential witnesses, whether or not identified by name.
 (7) A disputant who does not issue a statement of position in the prescribed form within the response period for the statement of position, is treated as follows:
   (a) if the Commissioner has proposed the adjustment to the assessment, the disputant is treated as having accepted the Commissioner's notice of proposed adjustment or statement of position:
@@ -7481,15 +7489,18 @@ The determination of a challenge by a hearing authority under this Part—
   (b) does not affect the right of the Commissioner to make a disputable decision relating to a different matter and to amend the disputable decision being challenged in any way rendered necessary by the later disputable decision.
 
 ### 138L Challenging civil penalties
-(1) A taxpayer assessed by the Commissioner for a civil penalty—
-  (a) may challenge the penalty in the same way as a taxpayer may challenge the assessment of tax to which the penalty relates; and
+(1) A person assessed by the Commissioner for a civil penalty—
+  (a) may challenge the penalty in the same way as a person may challenge the assessment of tax to which the penalty relates; and
   (b) has the same rights and obligations, in relation to proceedings concerning the penalty, as a person has in relation to proceedings concerning the tax.
-(2) Notwithstanding subsection (1), a taxpayer has no right to challenge—
-  (a) a civil penalty imposed for—
-    (i) the late provision of a tax return; or
-    (ii) the late payment of tax; or
-  (ab) a civil penalty imposed under section 215 of the KiwiSaver Act 2006; or
-  (b) the percentage applicable to the civil penalty.
+(1B) A person assessed by the Commissioner for a civil penalty that is unrelated to an assessment of tax may challenge the assessment by commencing proceedings in a hearing authority if—
+  (a) the assessment was the subject of an adjustment proposed by the person which the Commissioner rejected by notice within the applicable response period; and
+  (b) the Commissioner has issued a challenge notice to the person; and
+  (c) the person files the proceedings in accordance with the Taxation Review Authorities Regulations 1998 or the High Court Rules 2016 within 2 months.
+(2) Despite subsections (1) and (1B), a person has no right to challenge—
+  (a) a civil penalty that is a late filing penalty; or
+  (b) a civil penalty for the late payment of tax; or
+  (c) a civil penalty imposed under section 215 of the KiwiSaver Act 2006; or
+  (d) the percentage applicable to the civil penalty.
 
 ### 138M Wrong PAYE withholding determination a ground for challenge
 A disputant may—that is issued by the Commissioner in relation to an amount of tax withheld on the basis of a determination under section RD 3(5) of the Income Tax Act 2007, on the ground that the determination is wrong, whether in fact or in law.
@@ -8772,14 +8783,14 @@ In any proceedings against a person for refusing or failing to provide a tax ret
     (i) in relation to the sum first required to be deducted or extracted in compliance with the notice, the period that commences on the day on which the notice to the person is given and expires with the day on which the deduction or extraction is so required to be made:
     (ii) in relation to each succeeding sum required to be deducted or extracted in compliance with the notice, the period that commences on the day immediately following the day on which the previous deduction or extraction (being the deduction or extraction that, in relation to that succeeding sum, was the deduction or extraction last required to be made) was required to be made in compliance with the notice and expires with the day on which that succeeding sum is so required to be deducted or extracted,—
 (10) In this section—
-  - **amount payable** , in relation to a person and to any taxpayer, means—and includes—but does not include money deposited in any account that is—
+  - **amount payable** , in relation to a person and to any taxpayer, means—and includes—
     (a) any amount that, on the day on which a notice to the person is given under subsection (1) in relation to the taxpayer, is payable by the person (whether on the person's own account, or as an agent, or as a trustee, or otherwise however) to the taxpayer:
     (b) any amount that, on any day following the day referred to in paragraph (a), is, or becomes, before any revocation (under subsection (4)) of the notice so given, payable by the person (whether on the person's own account, or as an agent, or as a trustee, or otherwise), to the taxpayer;—
     (c) where the person is a bank, money (including any interest on that money) that—whether the deposit or the depositing is on current account, or so as to bear interest for a fixed term or without limitation of time, and whether or not the taxpayer has made any application to withdraw or uplift the money:
       (i) on the day on which a notice to the person is given under subsection (1) in relation to the taxpayer, is on deposit or is deposited with the person to the credit of the taxpayer; or
       (ii) on any day following the day referred to in subparagraph (i) is on deposit or is deposited, before any revocation (under subsection (4)) of the notice so given, with the person to the credit of the taxpayer,—
-    (cb) where the person is a tax pooling intermediary, money that is paid to the Commissioner, on the date the Commissioner receives the payment;—
-    (d) a Home Lay-by Account within the meaning of the Post Office Act 1959
+    (cb) where the person is a tax pooling intermediary, money that is paid to the Commissioner, on the date the Commissioner receives the payment
+    (d)
     (e)
     (f)
     (g)
@@ -9976,8 +9987,8 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
   (b) commence in accordance with subsection (3), even if they are not yet published.
 
 ### 226 Power to extend time for doing anything under Act
-(1) If anything required by or under this Act or the Income Tax Act 2007 or the Goods and Services Tax Act 1985 to be done at or within a fixed time cannot be or is not so done, the Governor-General, by Order in Council, may from time to time appoint a further or other time for doing that thing, whether the time at or within which that thing ought to have been done has or has not expired.
-(2) Anything done at or, as the case may be, within the time prescribed by any such Order in Council shall be as valid as if it had been done at or within the time fixed by or under this Act or the Income Tax Act 2007 or the Goods and Services Tax Act 1985.
+(1) If anything is required by or under this Act, the Income Tax Act 2007, or the Goods and Services Tax Act 1985 to be done by a taxpayer by a specified date or at or within a fixed time, the Governor-General, by Order in Council, may appoint a later date or further time for doing that thing, regardless of whether the specified date or fixed time has elapsed.
+(2) Anything done at or within the time or by the date prescribed by an Order in Council under subsection (1) shall be as valid as if it had been done at or within the time fixed under this Act, the Income Tax Act 2007, or the Goods and Services Tax Act 1985.
 (3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 226B Business group amnesties
@@ -10545,9 +10556,10 @@ Section 18 does not prevent the Commissioner disclosing to the chief executive o
 ### 25 Business, Innovation, and Employment: New Zealand business number
 (1) Section 18 does not prevent the Commissioner communicating to a person who is an authorised officer of the department for the time being responsible for the New Zealand Business Number Act 2016 any information that—
   (a) is primary business data (as defined in section 20(2) of that Act) for inclusion in the New Zealand Business Number Register; or
-  (b) is communicated for the purposes of subclauses (2) and (3).
+  (b) is information communicated for a purpose set out in subclauses (2) to (3B).
 (2) This clause authorises the exchange of information between the Inland Revenue Department and the department for the time being responsible for the administration of the New Zealand Business Number Act 2016 to ensure that the correct primary business data (as defined in section 20(2) of that Act) for businesses and New Zealand Business Numbers is provided for inclusion in the New Zealand Business Number Register.
 (3) For the purposes of subclause (2), the Commissioner may supply an authorised officer of the department for the time being responsible for the administration of the New Zealand Business Number Act 2016 information concerning primary business data to verify the correctness of the information to be included in the New Zealand Business Number Register.
+(3B) For the purposes of subclause (2), the Commissioner may disclose to an authorised officer of the department for the time being responsible for the administration of the New Zealand Business Number Act 2016, by way of a single transfer of data, information held by the Commissioner related to the contact address or tax file number of an unincorporated body for the purpose of enabling the department to carry out the duties or functions of the department under that Act.
 (4) In this clause, authorised officer, in relation to the responsible department, means any officer, employee, or agent of that department who is authorised by the chief executive of that department to receive information supplied by the Commissioner under this clause.
 
 ### 25B Business, Innovation, and Employment: Registrar of Business Payment Practices
@@ -10881,7 +10893,7 @@ Section 18 does not prevent the Commissioner from disclosing sensitive revenue i
 
 ### 46B Department of Education: FamilyBoost tax credit
 (1) Section 18 does not prevent the Commissioner communicating information to a person who is an officer or employee of the department for the time being responsible for the administration of the Education and Training Act 2020 (the Ministry of Education), being information reasonably necessary for the Commissioner’s administration of the FamilyBoost tax credit, including—
-  (a) identification of a child enrolled in an early childhood education and care service, including their national student number:
+  (a) identification of a child enrolled in an licensed early childhood service, including their national student number:
   (b) a child’s address:
   (c) a child’s enrolment status:
   (d) a child’s date of birth:
