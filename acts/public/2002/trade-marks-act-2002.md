@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2024-05-01_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -2058,7 +2058,7 @@ Section 197 does not apply to—
 **Regulation-making powers**
 
 ### 199 Regulations
-(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:Classification of goods or servicesRegistration of trade marksLicenseesAgentsImportation of infringing goodsProceedingsRegisterFeesExtensions of timeFormsNoticesIntellectual Property Office of New ZealandGeneral
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:Classification of goods or servicesRegistration of trade marksLicenseesAgentsImportation or exportation of infringing goodsProceedingsRegisterFeesExtensions of timeFormsNoticesIntellectual Property Office of New ZealandGeneral
   (a) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the amended or substituted classification of goods or services for the purposes of the registration of trade marks under this Act:
   (b) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the registration, or renewal or alteration or cancellation, of trade marks under this Act, including—
     (i) providing for the division of an application for the registration of a trade mark into several applications:
@@ -2067,7 +2067,7 @@ Section 197 does not apply to—
     (iii) providing for the registration of a series of trade marks:
   (c)
   (d) prescribing classes of persons whom the Commissioner may refuse to recognise as agents in respect of proceedings:
-  (e) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the importation of infringing goods under this Act, including—
+  (e) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the importation or exportation of infringing goods under this Act, including—
     (i) requiring a person to give security or an indemnity or both, subject to any conditions determined by the chief executive of the New Zealand Customs Service, for any costs incurred by the New Zealand Customs Service in relation to any 1 or more of the detention of goods, the disposal of goods, or the recovery of sums owed:
     (ii) providing for exceptions to any requirement to give security or an indemnity imposed by any regulations made under subparagraph (i):
     (iii) providing for the disposition of any security given under any regulations made under subparagraph (i):
