@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2024-03-01_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
@@ -33,7 +33,7 @@ The purpose of this Act is to—
     (b) includes any of the following:
       (i) a person who participates in a regulated offer as an issuer or offeror:
       (ii) a person who participates in an offer of financial products as an issuer or offeror and who is required to give a disclosure document under clause 26 of Schedule 1 of the Financial Markets Conduct Act 2013:
-      (iii) a person who acts, in respect of regulated products, as a supervisor, a manager, an investment manager, an administration manager, a custodian, or a qualified auditor (within the meaning of those terms in section 6(1) of the Financial Markets Conduct Act 2013):
+      (iii) a person who acts, in respect of regulated products, as a supervisor, a manager, an investment manager, an administration manager, a custodian, or a qualified FMC auditor (within the meaning of those terms in section 6(1) of the Financial Markets Conduct Act 2013):
       (iiia) a listed issuer (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013):
       (iiib) an operator of an FMI within the meaning of section 5 of the Financial Market Infrastructures Act 2021 (other than a pure payment system within the meaning of section 10(2) of that Act):
       (iv) an FMC reporting entity (within the meaning of section 451 of the Financial Markets Conduct Act 2013); and
