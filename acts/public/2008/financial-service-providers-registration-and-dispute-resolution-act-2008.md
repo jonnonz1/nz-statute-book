@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -557,6 +557,7 @@ The Registrar must amend the register if—
   (b) a financial service provider informs the Registrar of information that is different from the information entered on the register (where the Registrar is satisfied that the situations described in section 18(1) do not apply); or
   (c) a licensing authority informs the Registrar that a registered financial service provider has become a licensed provider in relation to a particular licensed service; or
   (ca) a financial advice provider notifies the Registrar of a change under section 17(1)﻿(d) or (e); or
+  (cb) the Registrar is satisfied at any time that the amendment is necessary or desirable for the purpose of ensuring that the register is consistent with the information on the New Zealand Business Number Register established under the New Zealand Business Number Act 2016; or
   (d) the Registrar is satisfied at any time that the register contains a typographical error or a mistake, or omits information supplied to the Registrar; or
   (e) regulations made under this Act require the Registrar to do so in circumstances specified by the regulations.
 
@@ -595,6 +596,7 @@ A person who searches a public register for personal information for a purpose t
   (c) the person responsible for an approved dispute resolution scheme:
   (d) the Commerce Commission:
   (da) the disciplinary committee:
+  (db) the Registrar of New Zealand Business Numbers appointed under the New Zealand Business Number Act 2016:
   (e) a prescribed agency that carries out supervisory or enforcement functions relating to money laundering or terrorist financing:
   (f) a prescribed overseas agency that is the equivalent of the Registrar or of a body referred to in paragraphs (a) to (c), but only where there is a written agreement between the overseas agency and the Minister about sharing the information.
 
