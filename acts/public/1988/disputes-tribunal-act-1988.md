@@ -1,5 +1,5 @@
 # Disputes Tribunal Act 1988
-_Consolidation as at 2023-01-24_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title and commencement
 (1) This Act is the Disputes Tribunal Act 1988.
