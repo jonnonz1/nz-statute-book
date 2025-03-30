@@ -1,5 +1,5 @@
 # Mines Rescue Act 2013
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Mines Rescue Act 2013.
@@ -13,7 +13,6 @@ This Act comes into force on 16 December 2013.
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **authorised person** means a person who is authorised by the chief executive to exercise the powers conferred by section 13
   - **board** means the board recognised under section 7
   - **chief executive** means the chief executive of the department
   - **coal** has the same meaning as in clause 1 of Schedule 3 of the Health and Safety at Work Act 2015
@@ -155,6 +154,7 @@ The Minister must be satisfied that the board comprises—
 (3) An authorised person exercising powers under this section in respect of a place must identify himself or herself as an authorised person—
   (a) before or on entry to the place; and
   (b) whenever reasonably required to do so by the apparent occupier after entry.
+(4) In this section, authorised person means a person who is authorised by the chief executive of WorkSafe to exercise the powers conferred by this section.
 
 ### 14 Offences
 (1) Subsection (2) applies to—
