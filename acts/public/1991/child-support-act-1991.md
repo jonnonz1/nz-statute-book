@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2024-03-29_
+_Consolidation as at 2025-03-30_
 
 > Title
 
@@ -3797,7 +3797,7 @@ Where a provision of this Act (a relevant provision)—the repealed provision sh
 
 ### 276 Application, transitional, and savings provisions relating to amendments to Act
 (1) The application, transitional, and savings provisions set out in Schedule 1, which relate to amendments to this Act that come into force on and after 1 April 2015, have effect for the purposes of this Act.
-(2) The application, transitional, and savings provisions are set out in the following Parts of Schedule 1:The following table is small in size and has 2 columns. Column 1 is headed Part heading. Column 2 is headed Part of Schedule 1.Part headingPart of Schedule 1Child Support Amendment Act 2013, etc: provisions relating to amendments effective on 1 April 20151Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Act 20161AChild Support Amendment Act 2013: Provisions relating to amendments effective on 1 April 20162
+(2) The application, transitional, and savings provisions are set out in the following Parts of Schedule 1:The following table is small in size and has 2 columns. Column 1 is headed Part heading. Column 2 is headed Part of Schedule 1.Part headingPart of Schedule 1Child Support Amendment Act 2013, etc: provisions relating to amendments effective on 1 April 20151Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Act 20161AChild Support Amendment Act 2013: Provisions relating to amendments effective on 1 April 20162Taxation (Annual Rates for 2019–20, GST Offshore Supplier Registration, and Remedial Matters) Act 20193Provisions relating to Child Support Amendment Act 20214Provisions relating to Taxation (Budget 2021 and Remedial Measures) Act 20215Provisions relating to Taxation (Annual Rates for 2021–22, GST, and Remedial Matters) Act 20226Provisions relating to Child Support (Pass On) Acts Amendment Act 20237Provisions relating to Taxation (Annual Rates for 2023–24, Multinational Tax, and Remedial Matters) Act 20248
 
 ## Schedule 1 — Application, transitional, and savings provisions relating to amendments to Act made on or after 1 April 2015
 
