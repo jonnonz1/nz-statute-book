@@ -1,5 +1,5 @@
 # New Zealand Institute of Chartered Accountants Act 1996
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-03-30_
 
 > An Act to—acontinue the New Zealand Society of Accountants under the name New Zealand Institute of Chartered Accountants; andbrequire the Institute to have rules governing membership, discipline, and other matters and a code of ethics governing the professional conduct of its members; andcprohibit the use of terms implying membership of the Institute by persons who are not members; anddprovide for related matters; anderepeal the New Zealand Society of Accountants Act 1958
 
@@ -23,7 +23,7 @@ In this Act, unless the context otherwise requires,—
   - **Institute** means the New Zealand Institute of Chartered Accountants constituted under this Act
   - **member** means a person who, under the rules of the Institute, is a full member or provisional member of the Institute
   - **Professional Conduct Committee** means the Professional Conduct Committee referred to in section 6(1)﻿(f)
-  - **Registrar** means the Registrar of Companies at Wellington
+  - **Registrar** has the same meaning as in section 2(1) of the Companies Act 1993
   - **registration** means registration by the Registrar on a public file
   - **rules** means the rules of the Institute delivered to the Registrar under section 6
   - **Society** means the New Zealand Society of Accountants constituted under the New Zealand Society of Accountants Act 1958
