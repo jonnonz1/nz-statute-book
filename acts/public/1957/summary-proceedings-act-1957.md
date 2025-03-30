@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2024-05-01_
+_Consolidation as at 2025-03-30_
 
 > Title
 
@@ -43,6 +43,7 @@ _Consolidation as at 2024-05-01_
     (b) section 14 of the Litter Act 1979; or
     (baa) section 514 of the Financial Markets Conduct Act 2013; or
     (ba) section 207Z of the Companies Act 1993; or
+    (bb) section 63 of the Customer and Product Data Act 2025; or
     (c) section 32A of the Weights and Measures Act 1987; or
     (ca) section 57C of the Gas Act 1992; or
     (d) section 58 of the Civil Aviation Act 1990; or
