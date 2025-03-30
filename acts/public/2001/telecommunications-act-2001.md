@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -1020,7 +1020,7 @@ For a determination made under this Part, the Commission—
 ### 62 Expiry of determinations
 Every determination expires on the earlier of—
   (a) the expiry date stated in the determination (if any); or
-  (b) the date on which the designated service or specified service to which the determination applies ceases to have that status because it has been omitted from Schedule 1 under section 66(b).
+  (b) the date on which the designated service or specified service to which the determination applies ceases to have that status because it has been omitted from Schedule 1 under section 66(1)﻿(b).
 
 ### 63 Application of Commerce Act 1986
 Part 2 of the Commerce Act 1986 does not apply in respect of a determination made under this Part or any matter necessary for giving effect to a determination made under this Part.
@@ -1441,7 +1441,6 @@ In this subpart, unless the context otherwise requires,—
     (b) Chorus's local telephone exchange, as defined in clause 1 of Part 1 of Schedule 1, and Chorus's distribution cabinet (or equivalent facility); and
     (c) Chorus's backhaul network (whether copper, fibre, or anything else) between the local loop network handover point in Chorus's distribution cabinet (or equivalent facility) or Chorus's local telephone exchange and the first data switch (including the first data switch); and
     (d) Chorus's digital subscriber line access multiplexer (or equivalent facility)
-  - **local access and calling service** means the designated access service described in subpart 1 of Part 2 of Schedule 1 as local access and calling service offered by means of a fixed telecommunications network
   - **non-discrimination** , in relation to the supply of a relevant service, means that Chorus must not treat access seekers differently or, where Chorus supplies itself with a relevant service, must not treat itself differently from other access seekers, except to the extent that a particular difference in treatment is objectively justifiable and does not harm, and is unlikely to harm, competition in any telecommunications market
   - **relevant regulated services** means the following designated access services except if those services are services in relation to which the end-user’s building (or, where relevant, the building’s distribution frame) is located in a specified fibre area:
     (a) Chorus's unbundled copper local loop network service:
@@ -1473,7 +1472,7 @@ Chorus must give undertakings that—
   (h) require Chorus to—
     (i) implement a policy of control of commercial information provided by access seekers for relevant services and relevant regulated services, in consultation with the Commission; and
     (ii) internally audit the effectiveness of that policy, at the end of each of the first two 6-month periods following separation day and then annually after that; and
-  (i) require Chorus to supply the UBA service in a bundle with the local access and calling service; and
+  (i)
   (j) require the directors of Chorus to certify that Chorus has complied with the undertakings; and
   (k) provide for disclosure of relevant information to the Commission, to support the Commission's assessment of compliance with the undertakings; and
   (l) require Chorus to commit to a reasonable plan containing time frames for a transition to the end of the sharing arrangements referred to in subpart 2.
@@ -2661,7 +2660,9 @@ A notice required to be given to a person under this subpart must, unless otherw
 
 ### 155H How long statutory rights of access apply for
 The statutory rights of access given by this subpart apply,—
-  (a) in relation to FTTP service providers and network operators installing fibre optic media, for the period starting on the date that this subpart comes into force and ending on 1 January 2025; and
+  (a) in relation to FTTP service providers and network operators installing fibre optic media, for the period that—
+    (i) starts on the day after Royal assent of the Regulatory Systems (Economic Development) Amendment Act 2025; and
+    (ii) ends on the day that is the third anniversary of Royal assent of that Act; and
   (b) in relation to FTTP service providers and network operators exercising certain ongoing rights of access to installed fibre optic media, for the periods specified in section 155ZD; and
   (c) in relation to network operators and installations of prescribed other technology, for the prescribed period.
 
@@ -2829,10 +2830,13 @@ If an FTTP service provider or a network operator wants to enter property and ca
 
 ### 155ZD Ongoing rights of access
 (1) The rights of access given by this section are for an FTTP service provider or a network operator to,—
-  (a) at any time before or after 1 January 2025, for an indefinite period, re-enter property to perform any act or operation necessary for the purpose of inspecting, maintaining, repairing, or upgrading all or any part of a fibre-to-the-premises access network that the service provider or network operator owns and that was installed (whether by the service provider or network operator who owns the fibre-to-the-premises network at the time of the re-entry or a previous owner) at any time after 1 July 2012; and
-  (b) at any time before 1 January 2025, re-enter property to—
+  (a) for an indefinite period, re-enter property to perform any act or operation necessary for the purpose of inspecting, maintaining, repairing, or upgrading all or any part of a fibre-to-the-premises access network that the service provider or network operator owns and that was installed (whether by the service provider or network operator who owns the fibre-to-the-premises network at the time of the re-entry or a previous owner) at any time after 1 July 2012; and
+  (b) for the period described in subsection (1A), re-enter property to—
     (i) extend an installation that forms part of a fibre-to-the-premises access network described in paragraph (a) if the extension does not involve a change to the design plan originally provided under this subpart to affected persons and the person who placed the order for the FTTP service to be installed; or
     (ii) permanently reinstate an area where, at the time of installing, maintaining, repairing, or upgrading part of the fibre-to-the-premises access network, the service provider or network operator reinstated the property on an interim basis only, until a permanent reinstatement could be undertaken.
+(1A) For the purposes of subsection (1)﻿(b), the period—
+  (a) starts on the day after Royal assent of the Regulatory Systems (Economic Development) Amendment Act 2025; and
+  (b) ends on the day that is the third anniversary of Royal assent of that Act.
 (2) The rights of access apply if—
   (a) the FTTP service provider or network operator who entered the property and carried out the original installation did so after obtaining the consent of more than 1 person, or entered the property under this subpart; and
   (b) the FTTP service provider or network operator complies with the conditions in section 155ZE; and
@@ -2882,7 +2886,7 @@ If an FTTP service provider or a network operator wants to enter property and ca
 
 ### 155ZH FTTP service providers and network operators exercising statutory access rights must be members of dispute resolution scheme
 (1) Every FTTP service provider and network operator that relies on a statutory right of access under this subpart (other than an FTTP service provider or network operator and that is referred to in subsection (2)),—
-  (a) in order to install fibre optic media, must be a member of the dispute resolution scheme and must remain a member of the scheme until 1 January 2026:
+  (a) in order to install fibre optic media, must be a member of the dispute resolution scheme and must remain a member of the scheme until the day that is the fourth anniversary of Royal assent of the Regulatory Systems (Economic Development) Amendment Act 2025:
   (b) in order to install a prescribed other technology, must be a member of the dispute resolution scheme for the period that—
     (i) starts on the day after the date on which the order prescribing that technology as other technology for the purposes of this subpart comes into force; and
     (ii) ends on the date that is 10 years later.
@@ -4828,6 +4832,23 @@ Section 226(4) and (6) does not apply in relation to any regulations made under 
 ### 16 Procedural requirements for initial regulations made under section 229 (unbundled fibre services)
 Section 229(4) does not apply in relation to the first regulations made under section 229.
 
+### Part 3 — Provisions relating to Regulatory Systems (Economic Development) Amendment Act 2025
+
+### 17 Interpretation
+In this Part,—
+  - **commencement date** means the day after Royal assent of the Regulatory Systems (Economic Development) Amendment Act 2025
+  - **consent process** has the same meaning as in clause 1
+  - **FTTP service** means a telecommunications service delivered over fibre optic media to an end-user’s premises
+  - **FTTP service provider** means the owner or operator of a fibre-to-the-premises access network.
+
+**Orders for FTTP services placed before commencement date**
+
+### 18 Subpart 3 of Part 4 applies if consent process not begun before commencement date
+(1) This clause applies to an FTTP service provider or a network operator and an installation of an FTTP service if—
+  (a) an order for the installation was placed with a retail provider before the commencement date; and
+  (b) the installation is prescribed as a category 1 or category 2 installation for the purposes of subpart 3 of Part 4.
+(2) If the consent process has not begun before the commencement date, then subpart 3 of Part 4 applies as if the order had been placed after the commencement date.
+
 ## Schedule 1 — Designated services and specified services
 
 ### Part 1 — Preliminary
@@ -4839,13 +4860,6 @@ In this schedule, unless the context otherwise requires,—
   - **actual costs saved** means the net costs saved by supplying the service on a wholesale rather than a retail basis to the access seeker
   - **avoided costs saved** means the difference in the access provider's costs between supplying the service on a wholesale basis only and supplying the service on both a wholesale and retail basis, including a share of retail-specific fixed costs
   - **Chorus's local telephone exchange** means a local telephone exchange (or equivalent facility) where Chorus's local loop network terminates, whether that local telephone exchange is owned and operated by Chorus or by any other person
-  - **fixed telecommunications network** means—
-    (a) any lines between a user's premises and the local telephone exchange or equivalent facility:
-    (b) any fixed PSTN:
-    (c) any telecommunications links between fixed PSTNs:
-    (d) any fixed PDN:
-    (e) any telecommunications links between fixed PDNs:
-    (f) any value-added telecommunications services associated with telecommunications services provided by those assets
   - **forward-looking common costs** —
     (a) means those costs efficiently incurred by the service provider in providing the service that are not directly attributable to providing an additional unit to that service; but
     (b) does not include any costs incurred by the service provider in relation to a TSO instrument
@@ -5236,9 +5250,9 @@ The Commission may approve a draft code if the Commission is satisfied that the 
 ### 1 Commission's investigation
 (1) The Commission may, on its own initiative or if requested to do so in writing by the Minister, commence an investigation into whether or not Schedule 1 should be altered in any of the ways set out in section 66 or 67 (the proposed alteration) if the Commission is satisfied that there are reasonable grounds for an investigation into the matter.
 (2) If an investigation has been requested by the Minister and the requirements set out in subclause (1) have been met, the Commission must commence the investigation not later than 10 working days after receiving the Minister's written request.
-(3) Despite subclause (1), the Commission must consider, at intervals of not more than 5 years after the date on which a designated service or specified service came into force, whether there are reasonable grounds for commencing an investigation into whether the service should be omitted from Schedule 1 under section 66(b).
+(3) Despite subclause (1), the Commission must consider, at intervals of not more than 5 years after the date on which a designated service or specified service came into force, whether there are reasonable grounds for commencing an investigation into whether the service should be omitted from Schedule 1 under section 66(1)﻿(b).
 (4)
-(5) If the Commission decides that there are reasonable grounds for commencing an investigation into whether a designated service or specified service should be omitted from Schedule 1 under section 66(b), the Commission must commence the investigation not later than 15 working days after making that decision.
+(5) If the Commission decides that there are reasonable grounds for commencing an investigation into whether a designated service or specified service should be omitted from Schedule 1 under section 66(1)﻿(b), the Commission must commence the investigation not later than 15 working days after making that decision.
 (6) The Commission must give public notice of the commencement of an investigation under this clause.
 (7) This clause is subject to sections 69AH, 156AP, and 211.
 (8) Subclause (3) does not apply in relation to the following:
