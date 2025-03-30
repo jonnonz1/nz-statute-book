@@ -1,5 +1,5 @@
 # Partnership Law Act 2019
-_Consolidation as at 2022-06-01_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Partnership Law Act 2019.
@@ -312,7 +312,8 @@ The firm must indemnify a partner for payments made, and personal liabilities in
   (b) in or relating to doing any thing that is necessary to preserve the business or property of the firm.
 
 ### 47 Entitlement to interest
-(1) If a partner makes, for the purpose of the partnership, an actual payment or an advance that is more than the capital that the partner has agreed to provide, the partner is entitled to interest at the rate of 5% per year from the date of the payment or advance.
+(1) If a partner makes, for the purpose of the partnership, an actual payment or an advance that is more than the capital that the partner has agreed to provide, the partner is entitled to interest from the date of the payment or advance.
+(1A) The interest must be calculated in accordance with Schedule 2 of the Interest on Money Claims Act 2016.
 (2) A partner is not entitled, before the profits are ascertained, to interest on the capital provided by the partner.
 
 ### 48 Partner may manage business
@@ -532,7 +533,10 @@ When a partnership is dissolved or when a partner leaves the firm, any partner m
   (b) the surviving or continuing partners carry on the business of the firm with its capital or assets without any final settlement of accounts as between the firm and A or A’s estate.
 (2) A or A’s estate is entitled, at the option of A or A’s personal representative, to—
   (a) a share of the profits that are made after the dissolution of the partnership and that the court finds to be attributable to the use of A’s share of the partnership assets; or
-  (b) interest at the rate of 5% per year on the amount of A’s share of the partnership assets.
+  (b) interest on the amount of A’s share of the partnership assets.
+(2A) The interest—
+  (a) is payable from the date of dissolution of the partnership; and
+  (b) must be calculated in accordance with Schedule 2 of the Interest on Money Claims Act 2016.
 (3) Subsection (2) does not apply if there is an agreement to the contrary.
 
 ### 80 Option to purchase share of outgoing or deceased partner
@@ -588,6 +592,22 @@ The rules of equity and of common law that apply to a partnership continue to ap
 
 ### 4 Effect of repeal of Partnership Act 1908
 Nothing in this schedule limits sections 17 to 22 of the Interpretation Act 1999 (for example, the repeal of the Partnership Act 1908 by this Act does not affect the validity, invalidity, effect, or consequences of anything done or suffered, the previous operation of the Partnership Act 1908, or the bringing or completion of proceedings that relate to an existing right, interest, title, immunity, or duty).
+
+### Part 2 — Provisions relating to Regulatory Systems (Economic Development) Amendment Act 2025
+
+### 5 Interpretation
+In this Part,—
+  - **commencement date** means the day on which Part 17 of the Regulatory Systems (Economic Development) Amendment Act 2025 comes into force
+  - **former section 47** means section 47 as in force immediately before the commencement date
+  - **former section 79** means section 79 as in force immediately before the commencement date.
+
+### 6 When interest payable on extra payment or advance is calculated under former law
+(1) This clause applies to the calculation of interest for the purposes of section 47.
+(2) Former section 47 continues to apply to the calculation of interest for those purposes if the payment or advance referred to in that section is made before the commencement date.
+
+### 7 When interest payable to outgoing partner or partner’s estate is calculated under former law
+(1) This clause applies to the calculation of interest for the purposes of section 79.
+(2) Former section 79 continues to apply to the calculation of interest for those purposes if the dissolution of the partnership referred to in that section occurs before the commencement date.
 
 ## Schedule 2 — Minor amendments to clarify Parliament’s intent or reconcile inconsistencies
 
