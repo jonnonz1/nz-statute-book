@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2024-11-26_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -1099,22 +1099,25 @@ The object of this Part is—
 (2) If an employer has provided an employee with an intended agreement under section 63A(2)﻿(a), the employer must retain a copy of that intended agreement even if the employee has not—
   (a) signed the intended agreement; or
   (b) agreed to any of the terms and conditions specified in the intended agreement.
+(2A) The employer’s obligation to retain an individual employment agreement or individual terms and conditions of employment under subsection (1), or an intended agreement under subsection (2), includes obligations to ensure that—
+  (a) the employee does not hold the only copy of the agreement, individual terms and conditions of employment, or intended agreement; and
+  (b) the employer’s copy of the agreement, individual terms and conditions of employment, or intended agreement is readily accessible.
 (3) If requested by the employee, the employer must, as soon as is reasonably practicable, provide the employee with a copy of the employee's—
   (a) individual employment agreement or current terms and conditions of employment retained under subsection (1); or
   (b) intended agreement retained under subsection (2).
 (4) An employer who fails to comply with subsection (1), (2), or (3) is liable, in an action brought by a Labour Inspector or the employee concerned, to a penalty imposed by the Authority.
 (5) Before bringing an action under subsection (4), the Labour Inspector must—
   (a) give the employer written notice of the breach of this section; and
-  (b) give the employer 7 working days to remedy the breach.
+  (b) give the employer 7 working days to remedy the breach by producing a copy of the agreement that was retained in accordance with subsection (1) or (2), or providing a copy of the agreement to the employee in accordance with a request under subsection (3) (as applicable).
 (6) To avoid doubt, an intended agreement must not be treated as the employee's employment agreement if the employee has not—
   (a) signed the intended agreement; or
   (b) agreed to any of the terms and conditions specified in the intended agreement.
 
 ### 65 Form and content of individual employment agreement
-(1) The individual employment agreement of an employee—
-  (a) must be in writing; and
-  (b) may contain such terms and conditions as the employee and employer think fit.
-(2) However, the individual employment agreement—
+(1) The individual employment agreement of an employee may contain such terms and conditions as the employee and employer think fit, but the employer must ensure that the agreement—
+  (a) is in writing; and
+  (b) complies with the requirements in subsection (2).
+(2) The individual employment agreement—
   (a) must include—
     (i) the names of the employee and employer concerned; and
     (ii) a description of the work to be performed by the employee; and
@@ -4739,7 +4742,7 @@ A Judge who, on application made on oath, is satisfied that there is reasonable 
 In sections 235B to 235F,—
   - **infringement fee** in relation to an infringement offence, means the infringement fee for the offence specified in section 235E
   - **infringement offence** means—
-  (a) a failure by an employer to comply with the requirements of section 64(1) or (2) or 130(1) of this Act or section 81(2) of the Holidays Act 2003:
+  (a) a failure by an employer to comply with the requirements of section 64(1) or (2), 65(1)﻿(a), or 130(1) of this Act or section 81(2) of the Holidays Act 2003:
   (b) breaches of this Act that are prescribed by regulations as infringement offences:
   (c) a failure by an employer to comply with a requirement made under section 229(1)﻿(d) within the time period required by section 229(2A).
 
