@@ -1,5 +1,5 @@
 # Gaming Duties Act 1971
-_Consolidation as at 2025-03-29_
+_Consolidation as at 2025-03-30_
 
 > An Act to consolidate and amend the law relating to totalisator duty and lottery duty
 
@@ -71,7 +71,7 @@ In this Part, unless the context otherwise requires,—
     (a) means gambling by means of a gaming machine under the Gambling Act 2003; but
     (b) does not include casino gambling as defined in section 34 of that Act
   - **gaming machine** has the same meaning as in section 4(1) of the Gambling Act 2003
-  - **gaming machine operator** means—and, in relation to any return period and to the obligations and liabilities under sections 12D to 12F and section 12K of any person who was at any time during that period a gaming machine operator, includes any such person notwithstanding that the person may have ceased during or after that return period to be a gaming machine operator within the meaning of paragraph (a) or paragraph (b)
+  - **gaming machine operator** means—and, in relation to any return period and to the obligations and liabilities under sections 12D, 12E, and 12K of any person who was at any time during that period a gaming machine operator, includes any such person notwithstanding that the person may have ceased during or after that return period to be a gaming machine operator within the meaning of paragraph (a) or paragraph (b)
     (a) a corporate society licensed under the Gambling Act 2003 to conduct a dutiable game; and
     (b) any person who conducts, otherwise than pursuant to a licence issued under that Act, any dutiable game;—
   - **gaming machine profits** , in relation to any gaming machine operator and any return period, means an amount (not being less than zero) calculated in accordance with the following formula:a − bwhere—ais the total amount of all machine income of the gaming machine operator in respect of all dutiable games conducted by the gaming machine operator that are played during the return period; andbis the total amount of all prizes paid during the return period in respect of those dutiable games
@@ -102,11 +102,11 @@ Every gaming machine operator shall, not later than the last day allowed under s
 
 ### 12FA Power of Commissioner in respect of small amounts
 Where, in relation to any gaming machine duty payable by a gaming machine operator in respect of any return period, the amount of any such duty that remains unpaid at its due date for payment does not exceed $5,—
-  (a) the Commissioner may refrain from collecting that unpaid duty; and
-  (b) no interest shall be payable under section 12F on that unpaid duty.
+  (a) the Commissioner may refrain from collecting that unpaid duty.
+  (b)
 
 ### 12G Assessment of duty
-(1) Subject to subsection (4), where—the Commissioner may make an assessment of the amount of gaming machine profits on which, in the Commissioner's judgment, gaming machine duty ought to be paid or to have been paid by the person, and of the amount of gaming machine duty payable and, if appropriate, the amount of any interest payable under section 12F.
+(1) Subject to subsection (4), where—the Commissioner may make an assessment of the amount of gaming machine profits on which, in the Commissioner's judgment, gaming machine duty ought to be paid or to have been paid by the person, and of the amount of gaming machine duty payable.
   (a) any person makes default in delivering any statement required to be delivered by that person pursuant to section 12D; or
   (b) the Commissioner is not satisfied with any such statement delivered; or
   (c) the Commissioner is not satisfied that the amount of any gaming machine duty paid by any person is the correct amount; or
@@ -204,14 +204,14 @@ Every casino operator shall, not later than the last day allowed under section 1
 ### 12Q Interest on unpaid casino duty
 [Repealed]
 
-### 12R Assessments, objections, and recovery of duty
+### 12R Assessments, challenges, and recovery of duty
 Sections 12G, 12H, 12HA, 12K, and 12L (except section 12K(2)), as far as they are applicable and with any necessary modifications, shall apply for the purposes of this Part, as if—
   (a) every reference in those provisions to gaming machine duty were a reference to casino duty; and
   (b) every reference in those provisions to a gaming machine operator were a reference to a casino operator; and
   (bb) every reference in those provisions to gaming machine profits were a reference to casino wins; and
   (c) every reference in those provisions to section 12D were a reference to section 12O; and
-  (d) every reference in those provisions to section 12E were a reference to section 12P; and
-  (e) every reference in those provisions to section 12F were a reference to section 12Q.
+  (d) every reference in those provisions to section 12E were a reference to section 12P.
+  (e)
 
 ## Part 2C — Offshore gambling duty
 
