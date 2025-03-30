@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2025-03-29_
+_Consolidation as at 2025-03-30_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -693,6 +693,8 @@ Purposes of acquisition for purposes of subsection (1)﻿(b)
 Sections CB 12 and CB 13 do not apply if—
   (a) the work involved in the undertaking or scheme is to create or effect a development, division, or improvement; and
   (b) the development, division, or improvement is for use in, and for the purposes of, the person’s deriving from the land income of the kind described in section CC 1 (Land).
+
+**Partial or multiple disposals of land**
 
 ### CB 23B Land partially disposed of or disposed of with other land
 Sections CB 6A to CB 23 apply to an amount derived from the disposal of land if the land is—
@@ -2413,7 +2415,7 @@ Exclusion
   (d) person A does not provide services to person B after the sale of the business, other than temporarily providing services incidental to the sale.
 Sale of all shares in company
 (4) For the purposes of subsection (3),—
-  (a) the sale of a business includes the sale of shares in a company, but only if the sale is of all the shares in the company and the company—
+  (a) the sale of a business includes the sale of shares in a company, but only if the sale is of all the shares in the company held by person A or an associated person and the company—
     (i) carries on a business; or
     (ii) directly or indirectly wholly owns another company that carries on a business; and
   (b) in that case, the words person B in subsection (3)﻿(c) and (d) mean the company that carries on the business, whether the company referred to in paragraph (a)﻿(i) or the company referred to in paragraph (a)﻿(ii).
@@ -3071,8 +3073,8 @@ General rule
     (vii) the 10-year exemption for a grey list company owning a New Zealand venture capital company in section EX 37 (Grey list company owning New Zealand venture capital company: 10-year exemption):
     (viib) the exemption for shares in a grey list company acquired under a venture investment agreement in section EX 37B (Share in grey list company acquired under venture investment agreement):
     (viii) the exemption for an employee share scheme of a grey list company in section EX 38 (Exemptions for employee share schemes):
-    (ix) the terminating exemption for a grey list company with numerous New Zealand shareholders in section EX 39 (Terminating exemption for grey list company with numerous New Zealand shareholders):
-    (x) the terminating exemption for a grey list company investing in Australasian equities in section EZ 32 (Terminating exemption for grey list FIF investing in Australasian listed equities):
+    (ix)
+    (x)
     (xi) the foreign exchange control exemption in section EX 40 (Foreign exchange control exemption):
     (xii) the exemption for a non-resident or transitional resident in section EX 41 (Income interest of non-resident or transitional resident):
     (xiii)
@@ -4950,6 +4952,7 @@ When this section applies
   (b) the person derives, from the other person, a rebate of the fees; and
   (c) the person is not allowed a deduction for the fees; and
   (d) the person's FIF income or loss from the interest is not calculated using the comparative value method.
+Exempt income
 (2) The amount of the rebate is exempt income.
 
 ### CW 55BB Minors' income, to limited extent
@@ -9181,8 +9184,8 @@ General rule
     (vii) the 10-year exemption for a grey list company owning a New Zealand venture capital company in section EX 37 (Grey list company owning New Zealand venture capital company: 10-year exemption):
     (viib) the exemption for shares in a grey list company acquired under a venture investment agreement in section EX 37B (Share in grey list company acquired under venture investment agreement):
     (viii) the exemption for an employee share scheme of a grey list company in section EX 38 (Exemptions for employee share schemes):
-    (ix) the terminating exemption for a grey list company with numerous New Zealand shareholders in section EX 39 (Terminating exemption for grey list company with numerous New Zealand shareholders):
-    (x) the terminating exemption for a grey list company investing in Australasian equities in section EZ 32 (Terminating exemption for grey list FIF investing in Australasian listed equities):
+    (ix)
+    (x)
     (xi) the foreign exchange control exemption in section EX 40 (Foreign exchange control exemption):
     (xii) the exemption for a non-resident or transitional resident, in section EX 41 (Income interest of non-resident or transitional resident):
     (xiii)
@@ -11369,6 +11372,15 @@ Accounting treatment of transferred obligations
 (7) For the purposes of this section, the buyer of a business, or a part of a business, who assumes at the time of the disposal an obligation to pay an amount of employment income—
   (a) may account for the amount in a way that treats the relevant employee individually or treats the buyer’s employees as a group; and
   (b) must account for the amount in the same way in each relevant income year.
+
+### EA 5 Income from disposal of original shares under share-lending arrangements
+When this section applies
+(1) This section applies when a person—
+  (a) is a share user under a share-lending arrangement; and
+  (b) derives an amount of income in an income year from the disposal of an original share under the share-lending arrangement to a person other than the share supplier or a person associated with the share supplier; and
+  (c) has a deduction in the following income year (the later income year) for expenditure incurred on acquiring an identical share.
+Allocation of income
+(2) The amount of income derived by the person may be allocated to the later income year.
 
 ### Subpart EB — Valuation of trading stock (including dealer’s livestock)
 
@@ -17826,7 +17838,7 @@ Gross
     (iii) section EX 36:
     (iv) section EX 37:
     (v) section EX 37B:
-    (vi) section EX 39:
+    (vi)
   (b) a dividend that is paid by a company resident in New Zealand to the extent to which the dividend is not fully imputed:
   (c) an amount that is not a distribution from an associated non-attributing active CFC and is—
     (i) a deductible foreign equity distribution (the distribution), to the extent to which the distribution is not from, or funded directly or indirectly from, an attributing interest that is an income interest in a FIF meeting the requirements of section EX 59(1):
@@ -19578,10 +19590,10 @@ Change to fair dividend rate method for first income year beginning on or after 
 (10) A person may change to the fair dividend rate method from the accounting profits method, the branch equivalent method, or the deemed rate of return method in the person's return of income for the first income year beginning on or after 1 July 2011.
 
 ### EX 63 Consequences of changes in method
-Changes between cost-based methods and look-through methods
+Changes between cost-based methods and attributable FIF income method
 (1) Subsection (2) applies if a person holding an attributing interest in a FIF changes the calculation method for calculating FIF income or loss from the interest—
   (a) from 1 of the 4 cost-based calculation methods (the comparative value method, the deemed rate of return method, the fair dividend rate method, or the cost method) to the attributable FIF income method; or
-  (b) from a look-through calculation method (the attributable FIF income method or the accounting profits method) to 1 of the 4 cost-based calculation methods.
+  (b) from the attributable FIF income method to 1 of the 4 cost-based calculation methods.
 Treatment as disposal for market value
 (2) The person is treated as having—
   (a) disposed of the interest to an unrelated person immediately before the start of the first accounting period to which the new method applies; and
@@ -23084,8 +23096,8 @@ When this section applies
 (1) This section applies for the purposes of sections CB 6A and CB 16A (which relate to the bright-line test for residential land), and Part D (Deductions) when residential land is transferred on a settlement of relationship property.
 Transfer at cost
 (2) The transfer is treated as a disposal and acquisition for an amount that equals the total cost of the residential land to the transferor at the date of transfer.
-Date of acquisition
-(3) The transferee is treated as having acquired property in the residential land on the relevant date, for the transferor’s acquisition, in section CB 6A.
+Bright-line start date
+(3) The transferee’s bright-line start date for the land is the transferor’s bright-line start date.
 
 ### FB 3 Land acquired for certain purposes or under certain conditions
 When this section applies
@@ -27395,15 +27407,16 @@ When this section applies
 (1) This section applies when—
   (a) an arm’s length amount of consideration is substituted under section GC 7 or GC 8 in relation to a transfer pricing arrangement entered into by a person (the taxpayer); and
   (b) the other party to the arrangement or, if the other party is a controlled foreign company (CFC), a person with an income interest in the CFC, applies to the Commissioner within 6 months after an assessment is made for the taxpayer which reflects the substitution; and
+  (bb) the difference between the arm’s length amount and either the consideration payable in the absence of section GC 7 or the consideration receivable in the absence of section GC 8, as the case may be, is not a dividend; and
   (c) the Commissioner considers it is fair and reasonable to apply subsection (2), having regard to an adjustment made under a double tax agreement or any other matter; and
   (d) the Commissioner has notified the other party.
 Substitution applying for other party
 (2) The substitution applies for the purposes of the application of this Act to the other party—
-  (a) excluding the determination of the extent to which the other party has derived or been paid a dividend; and
+  (a)
   (b) including, when the other party is a CFC, the calculation of net attributable CFC income or net attributable CFC loss in relation to the other party, and the resultant calculation of the attributed CFC income or an attributed CFC loss or attributed CFC net loss of a person.
 
 ### GC 12 Effect on person's withholding obligations
-An adjustment under any of sections GC 7 to GC 10 has no effect on an obligation of the taxpayer to withhold under Part R (General collection rules) in relation to the amount other than to the extent to which section GC 11(2) applies.
+An adjustment under any of sections GC 7 to GC 10 has no effect on an obligation of the taxpayer to withhold under Part R (General collection rules) in relation to the amount.
 
 ### GC 13 Calculation of arm’s length amounts
 Determining arm’s length amounts
@@ -28579,7 +28592,7 @@ Transfers to other trusts included
 (2) Despite subsection (1), a settlement for the benefit of a beneficiary is treated as a transfer of value only—
   (a) if the amount or the property being settled would have been beneficiary income of, or a taxable distribution to, a beneficiary, had it been distributed at the time to a beneficiary resident in New Zealand; or
   (b) when sections EW 50 or EZ 39 (which relate to forgiveness of debt) applies, if the property being settled is an amount forgiven and treated as paid as described in section EW 44(1) or (2) (Consideration when debt forgiven for natural love and affection) or EZ 39(1).
-Payment of interest at rate above market rate not distribution
+Payment of interest
 (2B) If a trustee pays to a beneficiary interest on an amount owed to the beneficiary, the payment is not a distribution by the trustee except to the extent to which the interest exceeds the amount given by the rate that is the greater of the market rate and the prescribed rate of interest.
 When distribution made
 (3) A distribution is made when what is transferred—
@@ -29675,14 +29688,14 @@ Market value of debt owed
 
 ### HG 5 Disposal of partner’s interests
 When this section applies
-(1) This section applies when a person disposes of some or all of their partner’s interests (the current interests) in a partnership, if the amount calculated using the following formula is less than zero:disposal payment + previous payments− (gross tax value − liabilities) − $50,000.
+(1) This section applies when an exiting partner disposes of some or all of their partner’s interests (the current interests) in a partnership to an entering partner, if the amount calculated using the following formula is less than zero:disposal payment + previous payments− (gross tax value − liabilities) − $50,000.
 Definition of items in formula
 (2) In the formula,—
   (a) disposal payment is the total amount of consideration paid or payable to the exiting partner for the current interests:
   (b) previous payments is the total amount of consideration paid or payable to the exiting partner for other disposals of some or all of their partner’s interests (the other interests) that have occurred in the year before the disposal of the current interests:
   (c) gross tax value is the total of—
-    (i) the value under this Act of the current interests and other interests at the time the relevant interest is disposed of, to the extent to which the interests are revenue account property or depreciable property, or financial arrangments:
-    (ii) the market value of the current interests and other interests at the time the relevant interest is disposed of, to the extent to which the interests are not revenue account property or depreciable property or financial arrangements:
+    (i) the value under this Act of the current interests and other interests at the time the relevant interest is disposed of, to the extent to which the interests are revenue account property or depreciable property:
+    (ii) the market value of the current interests and other interests at the time the relevant interest is disposed of, to the extent to which the interests are not revenue account property or depreciable property:
   (d) liabilities is the amount of liabilities under generally accepted accounting practice at the time the relevant interest is disposed of, calculated by reference to the exiting partner’s partnership share for the relevant interest.
 Exiting partner: excluded payment
 (3) The disposal payment described in subsection (2)﻿(a) is excluded income of the exiting partner.
@@ -29699,7 +29712,7 @@ Exclusion: final dissolution
 
 ### HG 6 Disposal of trading stock
 When this section applies
-(1) This section applies when a person disposes of some or all of their partner’s interests in a partnership, to the extent to which those interests include trading stock that is not livestock, and, for the income year of disposal, the total turnover of the partnership, ignoring section HG 2, is $3,000,000 or less.
+(1) This section applies when an exiting partner disposes of some or all of their partner’s interests in a partnership to an entering partner, to the extent to which those interests include trading stock that is not livestock, and, for the income year of disposal, the total turnover of the partnership, ignoring section HG 2, is $3,000,000 or less.
 Exiting partner: excluded payment
 (2) The amount of consideration paid or payable to the exiting partner for the trading stock is excluded income of the exiting partner.
 Exiting partner: no deduction
@@ -29715,7 +29728,7 @@ Exclusion: final dissolution
 
 ### HG 7 Disposal of depreciable property
 When this section applies
-(1) This section applies when a person disposes of some or all of their partner’s interests in a partnership, to the extent to which those interests include an item of depreciable property that is not depreciable intangible property, and the total cost of the item when it was first acquired by the partners of the partnership is $200,000 or less.
+(1) This section applies when an exiting partner disposes of some or all of their partner’s interests in a partnership to an entering partner, to the extent to which those interests include an item of depreciable property that is not depreciable intangible property, and the total cost of the item when it was first acquired by the partners of the partnership is $200,000 or less.
 Exiting partner: excluded payment
 (2) The amount of consideration paid or payable to the exiting partner for the depreciable property is excluded income of the exiting partner.
 Exiting partner: no deduction
@@ -29731,7 +29744,7 @@ Exclusion: final dissolution
 
 ### HG 8 Disposal of financial arrangements and certain excepted financial arrangements
 When this section applies
-(1) This section applies when a person disposes of some or all of their partner’s interests in a partnership, to the extent to which those interests include a financial arrangement or an excepted financial arrangement described in section EW 5(10) (What is an excepted financial arrangement?) and, ignoring section HG 2—
+(1) This section applies when an exiting partner disposes of some or all of their partner’s interests in a partnership to an entering partner, to the extent to which those interests include a financial arrangement or an excepted financial arrangement described in section EW 5(10) (What is an excepted financial arrangement?) and, ignoring section HG 2—
   (a) the purpose for which the financial arrangement or excepted financial arrangement was entered into was necessary and incidental to the business of the partnership; and
   (b) the partnership does not derive income from a business of holding financial arrangements.
 Exiting partner: excluded payment
@@ -29749,7 +29762,7 @@ Exclusion: final dissolution
 
 ### HG 9 Disposal of short-term agreements for sale and purchase
 When this section applies
-(1) This section applies when a person disposes of some or all of their partner’s interests in a partnership, to the extent to which those interests include a short-term agreement for sale and purchase.
+(1) This section applies when an exiting partner disposes of some or all of their partner’s interests in a partnership to an entering partner, to the extent to which those interests include a short-term agreement for sale and purchase.
 Exiting partner: excluded payment
 (2) The amount of consideration paid or payable to the exiting partner for the short-term agreement for sale and purchase is excluded income of the exiting partner.
 Exiting partner: no deduction
@@ -29765,7 +29778,7 @@ Exclusion: final dissolution
 
 ### HG 10 Disposal of livestock
 When this section applies
-(1) This section applies when a person (the exiting partner) disposes of some or all of their partner's interests to an entering partner and section HG 3(3) applies, to the extent to which those interests include specified livestock and that specified livestock includes female breeding livestock and, for the income year, the partners use—
+(1) This section applies when an exiting partner disposes of some or all of their partner's interests to an entering partner and section HG 3(3) applies, to the extent to which those interests include specified livestock and that specified livestock includes female breeding livestock and, for the income year, the partners use—
   (a) the national standard cost scheme for specified livestock, described in section EC 22 (National standard cost scheme); or
   (b) the cost price method for specified livestock, described in section EC 25 (Cost price, replacement price, or market value).
 Entering partner's cost base
@@ -29791,35 +29804,36 @@ Definition of items in formula
 Investments
 (5) Investments is the total of—
   (a) the market value of capital contributions made by the partner to the limited partnership at the time the relevant contribution is contributed or agreed to be contributed by them:
-  (b) the amount paid by the partner for the assignment of capital contributions to them:
-  (c) the secured amounts.
+  (b) the amount paid by the partner as an entering partner for the assignment of an interest in partnership property to them:
+  (c) the secured amounts to the extent to which they are not already included in paragraph (a) as a loan made to the partnership by another partner.
 Distributions
 (6) Distributions is the total of—
   (a) the market value of distributions to the partner from the limited partnership:
-  (b) the amount paid to the partner for the assignment of capital contributions by them.
+  (b) the amount paid to the partner as an exiting partner for the assignment of an interest in partnership property by them:
+  (c) amounts included in paragraph (a) of subsection (5) to the extent to which they are capital contributions under paragraph (b) of the definition of capital contribution in subsection (12) for which the limited partnership is no longer debtor in relation to the partner.
 Income
 (7) Income is the total of—
   (a) income that the partner has by virtue of section HG 2 in the income year and previous income years:
-  (ab) if the partner has FIF income or a FIF loss, an amount under subsection (7B):
-  (b) capital gain amounts under section CD 44(7)﻿(a) (Available capital distribution amount) that the partner would have by virtue of section HG 2 in the income year and previous income years, if the partner were treated as a company for the purposes of section CD 44(7)﻿(a), unless the gain is accounted for under paragraph (a):
-  (c) assessable income that the partner has in previous income years from goods and services they contributed to the limited partnership, if the income is not accounted for under subsection (5) or paragraph (a) or (b) of this subsection.
+  (ab) if the partner has FIF income or a FIF loss in the income year and previous income years, amounts under subsection (7B) for those years:
+  (b) capital gain amounts under section CD 44(7)﻿(a) (Available capital distribution amount) that the partner would have by virtue of section HG 2 in the income year and previous income years, if the partner were treated as a company for the purposes of section CD 44(7)﻿(a), unless the gain is accounted for under paragraph (a).
+  (c)
 Formula
-(7B) The amount described in subsection (7)﻿(ab) is given by the following formula, but if the calculation returns a negative number, the amount is zero:dividend − FIF amount.
+(7B) An amount described in subsection (7)﻿(ab) is given by the following formula, but if the calculation returns a negative number, the amount is zero:dividends − FIF amount.
 Definition of items in formula
 (7C) In the formula,—
-  (a) dividend is the amount that would be the partner's share of the dividend paid by a FIF to the limited partnership, if section CD 36(1) (Foreign investment fund income) were ignored:
+  (a) dividends is the amount that would be the partner's share of the dividends paid by a FIF to the limited partnership, if sections CD 36 (Foreign investment fund income) and HG 2(2) were ignored:
   (b) FIF amount is—
     (i) zero, if subparagraph (ii) does not apply:
     (ii) the amount that is the person's FIF income, for the relevant income year and FIF, if the person has such an amount.
 Deductions
 (8) Deductions is the total of—
   (a) expenditure or loss in previous income years, to the extent to which the expenditure or loss is incurred by virtue of section HG 2 in the partner deriving income by virtue of section HG 2, excluding any deductions denied in those previous years under this section:
-  (b) capital loss amounts under section CD 44(9) that the partner would have by virtue of section HG 2 in the income year and previous income years, if the partner is treated as a company for the purposes of section CD 44(9), unless the loss is accounted for under paragraph (a):
-  (c) deductions that the partner is allowed in previous income year in relation to assessable income described in subsection (7)﻿(c), if the deduction is not accounted for under paragraph (a) or (b) or subsection (6).
+  (b) capital loss amounts under section CD 44(9) that the partner would have by virtue of section HG 2 in the income year and previous income years, if the partner is treated as a company for the purposes of section CD 44(9), unless the loss is accounted for under paragraph (a).
+  (c)
 Disallowed amounts
 (9) Disallowed amount is the amount of investments, as defined in subsection (5), made by the partner within 60 days of the last day of the income year, if those investments are or will be distributed or reduced within 60 days after the last day of the income year.
 Exclusion
-(10) This section does not deny a partner a deduction that is equal to or less than the amount of net income that the exiting partner has for the amount paid or payable to the exiting partner for the disposal of their partner’s interests, ignoring other transactions.
+(10)
 Relationship with subject matter
 (11) This section is modified by sections HZ 3, HZ 4, and HZ 4B (which relate to transitions to limited partnerships).
 Some definitions
@@ -29837,8 +29851,8 @@ Some definitions
     (a) a relative of the partner, but excluding a person under section YA 1 (Definitions), definition of relative, paragraph (v):
     (b) a company in the same wholly-owned group as the partner
   - **recourse property** means property to which a creditor has recourse, to enforce a guarantee or indemnity for the relevant debt, if the guarantee or indemnity expressly provides recourse to only that property
-  - **secured amounts** means, for the partner, the lesser of the following applicable amounts—
-    (a) the amount of the limited partnership's debt ignoring section HG 2 (the secured debt) for which the partner is a guarantor, divided by the total number of guarantors for the secured debt:
+  - **secured amounts** means, for the partner, the total of, for each amount of the limited partnership’s debt ignoring section HG 2 (the secured debt) for which the partner is a guarantor, the lesser of the following applicable amounts—
+    (a) the amount of the secured debt divided by the total number of guarantors for that debt:
     (b) the market value of the recourse property for the secured debt to the extent of the interest that the partner and the partner's associates have in it, net of higher-ranking calls whether actual, future, or contingent, divided by the total number of guarantors described in the definition of guarantor, paragraph (a), who have an interest in the recourse property or have a partner's associate with an interest in the recourse property.
 
 ### HG 12 Limitation on deductions by partners in limited partnerships: carry-forward
@@ -31456,24 +31470,58 @@ Notice of election
   (b) if the person, their tax agent, or their representative applies for it, a further time allowed by the Commissioner.
 
 ### HR 9 Debt funding special purpose vehicles are transparent if election made by originator
-For the purposes of the liabilities and obligations under an Inland Revenue Act, other than under sections EW 24 to EW 25B (which relate to consistency of use of spreading methods for financial arrangements), of an originator and the relevant debt funding special purpose vehicle, if an election has been made by any of the debt funding special purpose vehicle’s originators under section HR 9BA or HZ 9 (Elections to treat existing debt funding special purpose vehicles as transparent),—
-  (a) the originator is treated as carrying on an activity carried on by the debt funding special purpose vehicle, and having a status, intention, and purpose of the debt funding special purpose vehicle to the extent to which that activity, status, intention, or purpose relates to assets the originator transferred to the debt funding special purpose vehicle, and the debt funding special purpose vehicle is treated as not carrying on that activity or having that status, intention, or purpose:
-  (b) the originator is treated as holding property that the debt funding special purpose vehicle holds if the originator transferred that property to the debt funding special purpose vehicle, and the debt funding special purpose vehicle is treated as not holding that property:
-  (c) the originator is treated as being a party to any arrangement to which the debt funding special purpose vehicle is a party if the originator transferred that arrangement to the debt funding special purpose vehicle, or if that arrangement relates to assets the originator transferred to the debt funding special purpose vehicle, and the debt funding special purpose vehicle is treated as not being a party to that arrangement:
-  (d) the originator is treated as doing a thing and being entitled to a thing that the debt funding special purpose vehicle does or is entitled to if that thing relates to assets the originator transferred to the debt funding special purpose vehicle, and the debt funding special purpose vehicle is treated as not doing that thing or being entitled to that thing.
+What this section applies to
+(1) This section applies for the purposes of establishing the liabilities and obligations under an Inland Revenue Act when an originator of a debt funding special purpose vehicle has made an election under section HR 9BA or HZ 9 (Elections to treat existing debt funding special purpose vehicles as transparent) in relation to—
+  (a) an asset transferred to the special purpose vehicle by the originator (the transferred asset); or
+  (b) an asset held by the special purpose vehicle that is attributed to the originator as described in section HR 9BAA(3) (the attributed asset).
+What this section does not apply to
+(2) Despite subsection (1), this section does not apply to liabilities and obligations arising under sections EW 24 to EW 25B (which relate to the consistency of use of spreading methods for financial arrangements).
+Treatment of originators
+(3) For the purposes of this section, the originator is treated as—
+  (a) carrying on an activity carried on by the special purpose vehicle to the extent to which the activity relates to a transferred asset or an attributed asset, as applicable; and
+  (b) having a status, intention, and purpose of the special purpose vehicle to the extent to which the status, intention, or purpose relates to a transferred asset or an attributed asset, as applicable; and
+  (c) holding property that the special purpose vehicle holds if the property is a transferred asset or an attributed asset, as applicable; and
+  (d) being a party to an arrangement to which the special purpose vehicle is party if—
+    (i) the arrangement is a transferred asset or an attributed asset, as applicable; or
+    (ii) the arrangement relates to a transferred asset or an attributed asset, as applicable; and
+  (e) doing a thing and being entitled to a thing that the special purpose vehicle does or is entitled to if the thing relates to a transferred asset or an attributed asset, as applicable.
+Treatment of special purpose vehicles
+(4) For the purposes of this section, the special purpose vehicle is treated as not carrying on the activity, not having the status, intention, or purpose, not holding the property, not being party to the arrangement, and not doing the thing or being entitled to the thing.
+
+### HR 9BAA Meaning of originator
+Meaning
+(1) In relation to a debt funding special purpose vehicle, originator means a person who is a New Zealand resident who—
+  (a) has transferred an asset to the special purpose vehicle and the person otherwise meets the requirements set out in subsection (2); or
+  (b) is a beneficiary or shareholder of the special purpose vehicle and the person otherwise meets the requirements of subsection (3).
+When assets transferred by companies
+(2) For the purposes of subsection (1)﻿(a), the person must be a company that has transferred assets to the special purpose vehicle and all the transferred assets are—
+  (a) treated for financial reporting purposes as the person’s assets; or
+  (b) are included in consolidated financial statements prepared by the person or by a member of a wholly-owned group of companies that includes the person.
+Other assets
+(3) For the purposes of subsection (1)﻿(b), the person must be a beneficiary or shareholder of the special purpose vehicle and a person who—
+  (a) is treated for financial reporting purposes as holding assets of the debt funding special purpose vehicle to which subsection (1)﻿(a) does not apply; or
+  (b) is a member of the same wholly-owned group of companies as another person who prepares consolidated financial statements that include the assets referred to in paragraph (a).
+Group members
+(4) For the purposes of this section, a beneficiary or shareholder includes a member of the same wholly-owned group of companies as a beneficiary or shareholder.
 
 ### HR 9BA Elections to treat debt funding special purpose vehicles as transparent
 How elections made
 (1) An originator makes an election referred to in section HR 9 by—
-  (a) after the formation of the debt funding special purpose vehicle and before the return of income referred to in paragraph (b), notifying the Commissioner that the originator chooses to have the liabilities and obligations referred to in section HR 9 that the debt funding special purpose vehicle would have in the absence of the election; or
+  (a) after the formation of the debt funding special purpose vehicle and before the return of income referred to in paragraph (b), notifying the Commissioner that the originator chooses to have the liabilities and obligations referred to in section HR 9 that the special purpose vehicle would have in the absence of the election; or
   (b) in the originator’s first return of income filed after the first transfer of assets by the originator to the debt funding special purpose vehicle, returning income derived and expenditure incurred by the debt funding special purpose vehicle.
 Effect of election
 (2) An election under this section—
   (a) cannot be revoked; and
-  (b) has effect from the date on which the originator first transferred any of their assets to the debt funding special purpose vehicle; and
-  (c) remains in effect until the relevant company or trustee of a trust stops being a debt funding special purpose vehicle.
+  (b) has effect from the date on which—
+    (i) the originator first transferred an asset to the special purpose vehicle; or
+    (ii) an asset first becomes an attributed asset for the originator as described in section HR 9BAA(3); and
+  (c) remains in effect until the relevant company or trustee of a trust stops being a special purpose vehicle.
+Sole originators for attributed assets
+(2B) When an originator makes an election under subsection (1) or section HZ 9 (Elections to treat existing debt funding special purpose vehicles as transparent) in relation to an attributed asset referred to in section HR 9(1)﻿(b), no other originator may make an election in relation to that asset.
+Relationship with section HR 10B
+(2C) Section HR 10B overrides subsection (2B).
 Relationship with section HZ 9
-(3) This section is overridden by section HZ 9 (Elections to treat existing debt funding special purpose vehicles as transparent).
+(3) This section is overridden by section HZ 9.
 
 ### HR 9B Bankruptcy-remote property during application of section HR 9
 Despite section HR 9, property that an originator holds because of the application of section HR 9 cannot be attached, charged, disposed of, or otherwise used in the payment of the originator’s tax debt, except to the extent to which—
@@ -31484,11 +31532,11 @@ Despite section HR 9, property that an originator holds because of the applicati
 
 ### HR 10 What happens when vehicle stops being transparent debt funding special purpose vehicle?
 Property transferred and parties reconstituted
-(1) When a company or a trustee of a trust (the vehicle) stops being a debt funding special purpose vehicle for any reason, other than on unwind, and an election has been made under section HR 9BA or HZ 9 (Elections to treat existing debt funding special purpose vehicles as transparent) that relates to the debt funding special purpose vehicle, the following apply:
-  (a) the relevant originator is treated as disposing of its property (the property) that has been subject to section HR 9(b) in relation to the vehicle immediately before the vehicle stops being a debt funding special purpose vehicle:
-  (b) the vehicle is treated as acquiring the property immediately after the vehicle stops being a debt funding special purpose vehicle:
-  (c) the relevant originator is treated as not being a party to an arrangement (the arrangement) that the originator was treated as being a party to under section HR 9(c) in relation to the vehicle immediately before the vehicle stops being a debt funding special purpose vehicle:
-  (d) the vehicle is treated as being a party to the arrangement immediately after the vehicle stops being a debt funding special purpose vehicle.
+(1) When a company or a trustee of a trust (the vehicle) stops being a debt funding special purpose vehicle for any reason, other than on unwind, and an election has been made under section HR 9BA or HZ 9 (Elections to treat existing debt funding special purpose vehicles as transparent) that relates to the special purpose vehicle, the following apply:
+  (a) the relevant originator is treated as disposing of its property (the property) that has been subject to section HR 9(b) in relation to the vehicle immediately before the vehicle stops being a special purpose vehicle:
+  (b) the vehicle is treated as acquiring the property immediately after the vehicle stops being a special purpose vehicle:
+  (c) the relevant originator is treated as not being a party to an arrangement (the arrangement) that the originator was treated as being a party to under section HR 9(c) in relation to the vehicle immediately before the vehicle stops being a special purpose vehicle:
+  (d) the vehicle is treated as being a party to the arrangement immediately after the vehicle stops being a special purpose vehicle.
 Property transferred: market value
 (2) The disposition of property in subsection (1)﻿(a) and the acquisition of property in subsection (1)﻿(b) are treated as occurring with a single third party for payments equal to the property’s market value.
 Arrangements assumed: market value
@@ -31506,6 +31554,33 @@ Definition
   (c) the vehicle is terminated, by liquidation or otherwise.
 Relationship with section HZ 10
 (5) This section overrides section HZ 10 (What happens when election is made under section HZ 9?).
+Relationship with subject matter
+(6) This section does not give rise to a supply of goods or services under the Goods and Services Tax Act 1985.
+
+### HR 10B What happens when persons stop being originators?
+When subsections (2), (3), and (4) apply
+(1) Subsections (2), (3), and (4) apply for an income year when, in relation to a debt funding special purpose vehicle and an asset referred to in section HR 9(1),—
+  (a) an originator (the first originator) stops being an originator at a particular date in the income year (the breach date); and
+  (b) another person (the second originator)—
+    (i) is or becomes a beneficiary or shareholder of the special purpose vehicle; and
+    (ii) immediately before the breach date, is a member of the wholly-owned group of companies of which the first originator is part; and
+    (iii) immediately after the breach date, holds the assets of the first originator as attributed assets described in section HR 9BAA(3).
+Treatment of second originators
+(2) For the purposes of section HR 9, and for the special purpose vehicle and an originator for the income year and later income years, the second originator is treated as if—
+  (a) they acquired and held the assets of the first originator on the same basis as the first originator:
+  (b) they paid or received the amounts of consideration originally paid or received by the first originator for or under an asset of the first originator that is a financial arrangement or excepted financial arrangement.
+Treatment of first originators for section HR 9
+(3) For the purposes of section HR 9, and for the special purpose vehicle and an originator for the income year and later income years, the first originator is treated as if they were not an originator for the assets and arrangements referred to in subsection (2).
+Treatment of first originators
+(4) For the purposes of subsection (2)﻿(a), the first originator is treated as not having acquired or held the assets.
+Base price adjustments
+(5) In relation to a special purpose vehicle and an asset referred to in section HR 9(1), for the income year that includes the breach date, the first originator is treated as a party that is not required to calculate a base price adjustment, despite section EW 29 (When calculation of base price adjustment required).
+Relationship with section HR 10
+(6) Section HR 10 overrides this section.
+Group members
+(7) For the purposes of this section, a beneficiary or shareholder includes a member of the same wholly-owned group of companies as a beneficiary or shareholder.
+Relationship with subject matter
+(8) Subsections (2), (3), and (4) do not give rise to a supply of goods or services under the Goods and Services Tax Act 1985.
 
 ### HR 11 Non-exempt charities: initial tax base
 When this section applies
@@ -31757,14 +31832,14 @@ Definition of items in formula
 
 ### HZ 9 Elections to treat existing debt funding special purpose vehicles as transparent
 When this section applies
-(1) This section applies when an originator transferred any of their assets to a debt funding special purpose vehicle before the date on which the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters) Act 2019 receives the Royal assent.
+(1) This section applies when an originator transferred any of their assets to a debt funding special purpose vehicle or an originator has attributed assets as described in section HR 9BAA(3) before the day after the date on which the Taxation (Annual Rates for 2024–25, Emergency Response, and Remedial Measures) Act 2025 receives the Royal assent.
 How elections made
-(2) An originator makes an election referred to in section HR 9 (Debt funding special purpose vehicles are transparent if election made by originator) by returning income derived and expenditure incurred by the debt funding special purpose vehicle in their return of income for an income year starting on or after the date on which the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters) Act 2019 receives the Royal assent.
+(2) An originator makes an election referred to in section HR 9 (Debt funding special purpose vehicles are transparent if election made by originator) by returning income derived and expenditure incurred by the special purpose vehicle in their return of income for an income year starting on or after the date on which the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters) Act 2019 receives the Royal assent.
 Effect of election
 (3) An election under this section—
   (a) cannot be revoked; and
   (b) has effect from the start of the income year for which the election is made; and
-  (c) remains in effect until the relevant company or trustee of a trust stops being a debt funding special purpose vehicle.
+  (c) remains in effect until the relevant company or trustee of a trust stops being a special purpose vehicle.
 Relationship with section HR 9BA
 (4) This section overrides section HR 9BA (Elections to treat debt funding special purpose vehicles as transparent).
 
@@ -31772,15 +31847,17 @@ Relationship with section HR 9BA
 When this section applies
 (1) This section applies when—
   (a) an originator makes an election under section HZ 9 that relates to a debt funding special purpose vehicle; and
-  (b) immediately before the election is made, the debt funding special purpose vehicle holds a financial arrangement or an excepted financial arrangement that was transferred to the debt funding special purpose vehicle by 1 of its originators.
+  (b) immediately before the election is made, the special purpose vehicle holds a financial arrangement or an excepted financial arrangement that was transferred to the special purpose vehicle by 1 of its originators.
 Originator: stepping in
-(2) For the purposes of calculating the income tax liability of the debt funding special purpose vehicle and its originators for the income year in which the election is made and later income years (the post-disposal periods),—
-  (a) the relevant originator is treated for the post-disposal periods as if they had acquired and held the financial arrangement or excepted financial arrangement, not the debt funding special purpose vehicle:
-  (b) the relevant originator is treated for the post-disposal periods as if they had paid any consideration originally paid by the debt funding special purpose vehicle for or under the financial arrangement or excepted financial arrangement, and the debt funding special purpose vehicle is treated as not having paid that consideration:
-  (c) the relevant originator is treated for the post-disposal periods as if they had received any consideration originally received by the debt funding special purpose vehicle for or under the financial arrangement or excepted financial arrangement, and the debt funding special purpose vehicle is treated as not having received that consideration:
-  (d) the debt funding special purpose vehicle is, for the financial arrangement, a party that is not required to calculate a base price adjustment, despite section EW 29 (When calculation of base price adjustment required).
+(2) For the purposes of calculating the income tax liability of the special purpose vehicle and its originators for the income year in which the election is made and later income years (the post-disposal periods),—
+  (a) the relevant originator is treated for the post-disposal periods as if they had acquired and held the financial arrangement or excepted financial arrangement, not the special purpose vehicle:
+  (b) the relevant originator is treated for the post-disposal periods as if they had paid any consideration originally paid by the special purpose vehicle for or under the financial arrangement or excepted financial arrangement, and the special purpose vehicle is treated as not having paid that consideration:
+  (c) the relevant originator is treated for the post-disposal periods as if they had received any consideration originally received by the special purpose vehicle for or under the financial arrangement or excepted financial arrangement, and the special purpose vehicle is treated as not having received that consideration:
+  (d) the special purpose vehicle is, for the financial arrangement, a party that is not required to calculate a base price adjustment, despite section EW 29 (When calculation of base price adjustment required).
 Relationship with section HR 10
 (3) Section HR 10 (What happens when vehicle stops being transparent debt funding special purpose vehicle?) overrides this section.
+Relationship with subject matter
+(4) Subsection (2) does not give rise to a supply of goods or services under the Goods and Services Tax Act 1985.
 
 ### HZ 11 Protection from non-compliance: Taxation (KiwiSaver, Student Loans, and Remedial Matters) Act 2020
 Non-compliance with an enactment related to securities is ignored if the non-compliance—
@@ -31906,7 +31983,7 @@ Investment funds’ excess expenditure
 Attributed CFC net losses
 (5) The general rules do not apply to an attributed CFC net loss except a surplus under section IQ 2(3) (Ring-fencing cap on attributed CFC net losses). The provisions that deal with this net loss, other than the surplus amount, are sections IQ 2, IQ 4, and IQ 6 to IQ 9 (which relate to foreign losses).
 FIF net losses
-(6) The general rules do not apply to a FIF net loss except a surplus amount under section IQ 3(3) (Ring-fencing cap on FIF net losses). The provisions that deal with this net loss are sections IQ 3, IQ 5, and IQ 6 to IQ 9.
+(6) The general rules do not apply to a FIF net loss except a surplus amount under section IQ 3(3) (Ring-fencing cap on FIF net losses). The provisions that deal with this net loss are sections IQ 3 and IQ 6 to IQ 9.
 Mining net losses
 (7) The general rules do not apply to a net loss of a mineral miner to the extent to which the net loss relates to a permit area. The provisions that deal with these net losses are sections IS 1 to IS 4 and IS 6 (which relate to mineral miner's tax losses).
 Petroleum net losses
@@ -32324,15 +32401,15 @@ When this section applies
 (1) This section applies on an amalgamation if a company that is part of a group of companies—
   (a) meets the requirements of section IA 5(2) and (3) or IB 3(2) (which relate to the carrying forward of tax losses for companies); and
   (b) has a tax loss for part of a tax year before the date of amalgamation; and
-  (c) may use the tax loss under section IC 5, IQ 4, or IQ 5 (which relate to a company’s use of another company’s loss, including foreign losses).
+  (c) may use the tax loss under section IC 5 or IQ 4 (which relate to a company’s use of another company’s loss, including foreign losses).
 Use by amalgamated company
 (2) The amount of the tax loss may be subtracted from the net income of the amalgamated company for the tax year only if both the company and the amalgamated company, and each company that before or during the amalgamation amalgamated with the amalgamated company, meet the requirements of subparts IA, IC, and IQ (which relate to the general loss rules and certain foreign losses) that allow companies to group tax losses.
 
 ### IE 5 Applying the continuity provisions when companies amalgamate
 The provisions of this Act apply as if the amalgamated company did not exist separately before amalgamation, and was instead the amalgamating companies with the same holders of shares and options over shares, each with the same number and class of shares and options over shares, as they held in the amalgamating company, to determine whether a tax loss or loss balance,—
   (a) may be used or is carried forward under sections IA 3 and IA 4 (which relate to the general use of tax losses):
-  (b) may be subtracted from the net income of another company under section IC 5, IQ 4, or IQ 5 (which relate to a company’s use of another company’s loss, including foreign losses):
-  (c) in the case of a group company, may be subtracted from the net income of the amalgamated company under section IC 5, IQ 4, or IQ 5.
+  (b) may be subtracted from the net income of another company under section IC 5 or IQ 4 (which relate to a company’s use of another company’s loss, including foreign losses):
+  (c) in the case of a group company, may be subtracted from the net income of the amalgamated company under section IC 5 or IQ 4.
 
 ### Subpart IP — Meeting requirements for part-years
 
@@ -32643,7 +32720,7 @@ FIF net losses
 Second use
 (5) If, after applying subsection (2), some of the amount remains, the company may—
   (a) subtract the remaining amount from its net income for the tax year; or
-  (b) make the remaining amount available to another consolidated group to subtract from its net income for the tax year under section IQ 4 or IQ 5; or
+  (b) make the remaining amount available to another consolidated group to subtract from its net income for the tax year under section IQ 4; or
   (c) make the remaining amount available under section IC 5 (Company B using company A’s tax loss).
 
 ### IQ 7 When group membership lacking in loss period
@@ -32655,7 +32732,7 @@ When this section applies
 Limit on amount
 (2) The amount that may be subtracted from the net income of the consolidated group in the tax year under section ID 2(2) must be no more than the total of—
   (a) the amount of ring-fenced tax loss referred to in subsection (1) that the company could use to reduce its net income in the tax year under section IQ 2 or IQ 3 as applicable, if it were not in the tax year part of a consolidated group; and
-  (b) the amount of ring-fenced tax loss referred to in subsection (1) that the company could group with other companies in the group under section IQ 4 or IQ 5, as applicable, determining—
+  (b) the amount of ring-fenced tax loss referred to in subsection (1) that the company could group with other companies in the group under section IQ 4, determining—
     (i) the net income for each of the companies using the group’s calculation of each company’s net income; and
     (ii) the maximum amount of tax loss to be made available, ignoring the consolidation of the companies and presuming all steps required under those sections were taken in order for them to apply.
 Relationship with section FM 3
@@ -33184,8 +33261,8 @@ When this section applies
   (a) is not receiving a main benefit; and
   (b) is not receiving a veteran's pension; and
   (c) is not receiving New Zealand superannuation; and
-  (d) is not entitled to a WFF tax credit; and
-  (e) is not the spouse, civil union partner, or de facto partner of a person who is entitled to a WFF tax credit; and
+  (d) is not entitled to or is not receiving a WFF tax credit; and
+  (e) is not the spouse, civil union partner, or de facto partner of a person who is entitled to and is receiving a WFF tax credit; and
   (f) is not receiving an amount that is—
     (i) granted outside New Zealand; and
     (ii) in the nature of, and paid for similar purposes as, a benefit, pension, superannuation payment, or tax credit described in paragraphs (a) to (d); and
@@ -33411,7 +33488,7 @@ Trustee treated as beneficiary
 
 ### LE 4B Trustees for certain close companies
 When this section applies
-(1) This section applies when a person who has a tax credit under section LE 1 (the tax credit) is the trustee of a trust and a close company derives beneficiary income from the trust.
+(1) This section applies when a person who has a tax credit under section LE 1 is the trustee of a trust and a close company derives beneficiary income from the trust.
 Trustee treated as beneficiary
 (2) To the extent to which section HC 38 (Beneficiary income of certain close companies) applies, the person is treated as deriving the company’s beneficiary income as a beneficiary.
 
@@ -42313,7 +42390,7 @@ Treatment of payments made by unincorporated bodies
 Treatment of payments to members of unincorporated bodies
 (3) For the purposes of the RWT rules, a payment made to a member of the body in their capacity as a member and in the course of carrying on the taxable activity of the body is treated as a payment made to the body and not to the member.
 Joint and several liability for amounts of tax
-(4) Each member of the body is jointly and severally liable for the RWT that the body is required to pay for as long as the member remains part of the body.
+(4) A person is jointly and severally liable for the RWT that the body is required to pay if the person was a member of the body when the body incurred the RWT liability.
 Natural persons, partnerships, joint ventures, trustees
 (5) For the purposes of subsection (4),—
   (a) if the member is a natural person, their estate is liable after their death for an amount payable that remains unpaid:
@@ -43864,6 +43941,7 @@ In this Act, unless the context requires otherwise,—
     (c) lodge, for a patent application, design registration application, or a plant variety rights application
   - **acquisition** is defined in section GC 14 (Definitions for sections GC 6 to GC 13) for the purposes of sections GC 6 to GC 13 (which relate to transfer pricing arrangements)
   - **acquisition price** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
+  - **acquisition proportion** is defined in section CW 3C (Certain partitions or subdivisions of land)
   - **active service area** is defined in section CW 24(2) (Deferred military pay for active service) for the purposes of that section
   - **act together** is defined in section FH 15(1) (Definitions)
   - **actuarial reserves** is defined in section EZ 59 (Meaning of actuarial reserves)
@@ -44131,7 +44209,7 @@ In this Act, unless the context requires otherwise,—
       (iii) the tenancy agreement expressly refers to the ability of the tenant to personalise the dwelling with the consent of the landlord in accordance with sections 42, 42A, and 42B of the Residential Tenancies Act 1986, and includes examples of possible personalisations and the landlord’s position on the keeping of pets; and
       (iv) the tenancy agreement provides that a tenant may terminate the tenancy with 56 days’ notice, as provided by section 58A of the Residential Tenancies Act 1986:
     (b) does not include land that at any time after it first meets the requirements of paragraph (a) fails to meet those requirements
-  - **building** , in subpart EE, includes part of a building, to the extent to which it is a unit in a unit title development under the Unit Titles Act 2010, but, in subparts EE and EZ, does not include—
+  - **building** , in subpart EE (Depreciation), includes part of a building, to the extent to which it is a unit in a unit title development under the Unit Titles Act 2010, but, in subparts EE and EZ (Terminating provisions), does not include—
     (a) a grandparented structure:
     (b) commercial fit-out, except for commercial fit-out acquired as part of a building in the 2010–11 or an earlier income year for which the person has never had any deductions under any provisions other than sections DB 65, as in force before its repeal by section 4 of the COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020, and DB 65B (Allowance for embedded fit-out of certain commercial buildings)
   - **building**
@@ -44144,7 +44222,7 @@ In this Act, unless the context requires otherwise,—
       (ii) an airport operator:
     (c) is further defined in section DD 11 (Some definitions) for the purposes of subpart DD (Entertainment expenditure)
   - **business contacts** is defined in section DD 11 (Some definitions) for the purposes of subpart DD (Entertainment expenditure)
-  - **business premises** , for subparts DD and DH and sections CB 6 to CB 13 (which relate to disposals of land),—
+  - **business premises** , for subparts DD (Entertainment expenditure) and DH and sections CB 6 to CB 13 (which relate to disposals of land),—
     (a) means the normal business premises or a temporary workplace of the person (or an associate):
     (b) does not include premises or a workplace established mainly for the purpose of enjoying entertainment
   - **business tool** means an item that is used by an employee in the performance of their work duties and in the absence of section CX 21 (Business tools) would give rise to an unclassified benefit
@@ -44804,6 +44882,7 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section HR 12(7) (Non-exempt charities: treatment of tax-exempt accumulations) for the purposes of that section:
     (b) is defined in section RA 15(3) (Payment dates for interim and other tax payments) for the purposes of that section
   - **end investor** is defined in section RE 10C(7) (Obligations of custodial institutions in relation to certain payments of investment income) for the purposes of that section and sections RE 4 and RF 4
+  - **end value proportion** is defined in section CW 3C (Certain partitions or subdivisions of land)
   - **engaged in full-time work**
   - **entering owner** —
     (a) means a person who acquires an owner's interests for a look-through company:
@@ -45762,7 +45841,7 @@ In this Act, unless the context requires otherwise,—
       (i) during the period that starts with a step that is legally necessary to achieve liquidation, including the appointment of a liquidator or a request of the kind referred to in section 318(1)﻿(d) of the Companies Act 1993; and
       (ii) for the purpose of enabling liquidation
   - **listed company** means, at any time, a company any shares in which are at that time quoted on an official list of a recognised exchange
-  - **listed horticultural plant** , in sections DO 5 to DO 9 (which relate to deductions relating to horticultural plants),—
+  - **listed horticultural plant** , in sections DO 5 to DO 9 (which relate to deductions relating to horticultural plants) and sections FP 1 and FP 12 (which relate to tax relief for emergencies),—
     (a) means a horticultural plant, tree, vine, bush, cane, or similar plant that is cultivated on land, that is of a type that is listed in a determination made by the Commissioner under section 91AAB of the Tax Administration Act 1994:
     (b) does not include—
       (i) a tree planted mainly for the purposes of timber production:
@@ -46030,6 +46109,7 @@ In this Act, unless the context requires otherwise,—
   - **minor** is defined in section HC 35(3) (Beneficiary income of minors) for the purposes of that section and sections HC 36, HC 37, LE 4, and LF 2 (which relate to beneficiary minors)
   - **mismatch amount** is defined in section FH 15(1) (Definitions)
   - **mismatch situation** is defined in section FH 15(1) (Definitions)
+  - **mixed-age female breeding animals** is defined in section FP 23(8) (Livestock destroyed because of emergency events) for the purposes of that section
   - **mixed-ownership enterprise** means an entity specified in schedule 36, part B (Government enterprises)
   - **money** ,—
     (a) in section GB 48 (Defined terms for sections GB 45 and GB 46), in the financial arrangements rules, and in the definition of security payment, includes—
@@ -46324,13 +46404,7 @@ In this Act, unless the context requires otherwise,—
   - **option** , in sections FB 10 (Continuity provisions: shares and options), GB 5 (Arrangements involving trust beneficiaries), and YC 2, YC 3, YC 5, YC 8, and YC 9 (which relate to the measurement of company ownership), and in the definitions of (paragraphs (a) and (b)), (paragraphs (c) to (f)), , and , includes an agreement for sale at a time when beneficial ownership of the property sold has not completely passed to the purchaser
   - **ordering rule** means the rule set out in section CD 23(1) (Ordering rule and slice rule) for calculating the amount of available subscribed capital per share
   - **original share** means a share in a company that is described as the original share in the definition of
-  - **originator** , for a debt funding special purpose vehicle, means a person who—
-    (a) transferred some or all of their assets to the debt funding special purpose vehicle; and
-    (b) either—
-      (i) has all of the assets they transferred to the debt funding special purpose vehicle treated as their assets for financial reporting purposes; or
-      (ii) has all of the assets they transferred to the debt funding special purpose vehicle included in consolidated financial statements prepared for financial reporting purposes by the person or a member of a wholly-owned group of companies that includes the person; and
-    (c) is a member of the same wholly-owned group of companies as all other persons who have transferred some or all of their assets to the debt funding special purpose vehicle, if more than 1 person has transferred some or all of their assets to the debt funding special purpose vehicle; and
-    (d) is a New Zealand resident
+  - **originator** is defined in section HR 9BAA (Meaning of originator) for the purposes of sections HR 9, HR 9BA, HR 9B, HR 10, HR 10B, HZ 9, and HZ 10 (which relate to debt funding special purpose vehicles), and the definition of debt funding special purpose vehicle
   - **orphan’s benefit** means any of the following:
     (a) an orphan’s benefit payable under section 43 of the Social Security Act 2018:
     (b) orphan’s benefit equivalent assistance
@@ -46765,7 +46839,7 @@ In this Act, unless the context requires otherwise,—
   - **qualifying foreign equity investor** is defined in section CW 12(4) (Proceeds of share disposal by qualifying foreign equity investor) for the purposes of that section
   - **qualifying improvement** is defined in section EZ 27 (Meaning of qualifying improvement)
   - **qualifying non-transaction shares** is defined in section CZ 41(4) (Distributions to supplying shareholders of Fonterra: 2022–23 to 2024–25 income years) for the purposes of that section
-  - **qualifying resident foreign trustee** is defined in section 3(1) of the Tax Administration Act 1994
+  - **qualifying resident foreign trustee**
   - **qualifying share premium** is defined in section CD 43(28) (Available subscribed capital (ASC) amount) for the purposes of that section
   - **quarantined amount** means the amount described in section LK 1(3) (Tax credits relating to attributed CFC income) for the purposes of Part L (Tax credits and other credits)
   - **quarter** means a period of 3 consecutive calendar months that ends with the last day of March, June, September, or December
@@ -47797,9 +47871,9 @@ Common market value interests
 Common control by other means
 (3) Two companies are associated persons if a group of persons exists who control both companies by any other means.
 General aggregation rule
-(4) For the purposes of subsections (1) to (3), if a person (person A) and another person (person B) are associated under any of sections YB 4 to YB 14, person A is treated as holding anything held by person B.
+(4) For the purposes of subsections (1) to (3), and if subsection (5) does not apply, if a person (person A) and another person (person B) are associated under any of sections YB 4 to YB 14, person A is treated as holding anything held by person B.
 Aggregation rule for land provisions
-(5) For the purposes of subsections (1) to (3), if a person (person A) and another person (person B) are associated under any of sections YB 4(1)﻿(b) and (2) to (4), YB 7, YB 8, and YB 10 to YB 14, person A is treated as holding anything held by person B.
+(5) For the purposes of subsections (1) to (3) and the land provisions, if a person (person A) and another person (person B) are associated under any of sections YB 4(1)﻿(b) and (2) to (4), YB 7, YB 8, and YB 10 to YB 14, person A is treated as holding anything held by person B.
 Exception for certain government entities
 (6) Subsection (3) does not apply to 2 companies if either or both are—
   (a) a state enterprise:
@@ -47810,7 +47884,10 @@ Exception for certain government entities
 Exception for international tax rules
 (7) In the international tax rules, 2 companies are not associated persons if 1, but not both, is a non-resident.
 Exception for managed funds
-(8) For the purposes of the land provisions, 2 companies are not associated persons if 1 is a portfolio investment entity or an entity that qualifies for PIE status.
+(8) For the purposes of the land provisions, 2 companies are not associated persons if either or both are—
+  (a) a portfolio investment entity:
+  (b) an entity that qualifies for PIE status:
+  (c) a foreign PIE equivalent.
 
 ### YB 3 Company and person other than company
 Company and 25% voting interest holder
@@ -47820,9 +47897,9 @@ Company and 25% market value interest holder
   (a) a market value circumstance exists for the company; and
   (b) the person has a market value interest in the company of 25% or more.
 General aggregation rule
-(3) For the purposes of subsections (1) and (2), if a person (person A) and another person (person B) are associated under any of sections YB 4 to YB 14, person A is treated as holding anything held by person B.
+(3) For the purposes of subsections (1) and (2), and if subsection (4) does not apply, if a person (person A) and another person (person B) are associated under any of sections YB 4 to YB 14, person A is treated as holding anything held by person B.
 Aggregation rule for land provisions
-(4) For the purposes of subsections (1) and (2), if a person (person A) and another person (person B) are associated under any of sections YB 4(1)﻿(b) and (2) to (4), YB 7, YB 8, and YB 10 to YB 14, person A is treated as holding anything held by person B.
+(4) For the purposes of subsections (1) and (2) and the land provisions, if a person (person A) and another person (person B) are associated under any of sections YB 4(1)﻿(b) and (2) to (4), YB 7, YB 8, and YB 10 to YB 14, person A is treated as holding anything held by person B.
 Person other than company
 (5)
 
@@ -47892,9 +47969,9 @@ Limited partnerships and general partners
 Limited partnerships and holders of 25% partnership shares
 (2) If section YB 16B does not apply, a limited partnership and a person, other than a general partner in the limited partnership, are associated persons if the person has a partnership share of 25% or more in a right, obligation, or other property, status, or thing of the limited partnership.
 Holders of 25% partnership shares: general aggregation rule
-(3) For the purposes of subsection (2), if a person (person A) and another person (person B) are associated under any of sections YB 2 to YB 11 and YB 14, person A is treated as holding anything held by person B.
+(3) For the purposes of subsection (2), and if subsection (4) does not apply, if a person (person A) and another person (person B) are associated under any of sections YB 2 to YB 11 and YB 14, person A is treated as holding anything held by person B.
 Holders of 25% partnership shares: aggregation rule for land provisions
-(4) For the purposes of subsection (2), if a person (person A) and another person (person B) are associated under any of sections YB 2, YB 3, YB 4(1)﻿(b) and (2) to (4), YB 7, YB 8, YB 10, YB 11, and YB 14, person A is treated as holding anything held by person B.
+(4) For the purposes of subsection (2) and the land provisions, if a person (person A) and another person (person B) are associated under any of sections YB 2, YB 3, YB 4(1)﻿(b) and (2) to (4), YB 7, YB 8, YB 10, YB 11, and YB 14, person A is treated as holding anything held by person B.
 
 ### YB 13 Look-through companies and holders of interests
 Look-through companies and directors or employees holding interests
@@ -47902,9 +47979,9 @@ Look-through companies and directors or employees holding interests
 Look-through companies and holders of 25% interests
 (2) A look-through company and a person who has an effective look-through interest of 25% or more in a right, obligation, or other property, status, or thing of the look-through company are associated persons.
 Holders of 25% interests: general aggregation rule
-(3) For the purposes of subsection (2), if a person (person A) and another person (person B) are associated under any of sections YB 2 to YB 11 and YB 14, person A is treated as holding anything held by person B.
+(3) For the purposes of subsection (2), and if subsection (4) does not apply, if a person (person A) and another person (person B) are associated under any of sections YB 2 to YB 11 and YB 14, person A is treated as holding anything held by person B.
 Holders of 25% interests: aggregation rule for land provisions
-(4) For the purposes of subsection (2), if a person (person A) and another person (person B) are associated under any of sections YB 2, YB 3, YB 4(1)﻿(b) and (2) to (4), YB 7, YB 8, YB 10, YB 11, and YB 14, person A is treated as holding anything held by person B.
+(4) For the purposes of subsection (2) and the land provisions, if a person (person A) and another person (person B) are associated under any of sections YB 2, YB 3, YB 4(1)﻿(b) and (2) to (4), YB 7, YB 8, YB 10, YB 11, and YB 14, person A is treated as holding anything held by person B.
 
 ### YB 14 Tripartite relationship
 Test
@@ -47951,6 +48028,10 @@ Trustee and beneficiary and trustee for relative tests: certain trusts
   (b) an approved unit trust referred to in clause 2 of the Income Tax Act (Exempt Unit Trusts) Order 1990.
 Trustee and beneficiary and settlor and beneficiary tests: charitable organisation
 (2) Sections YB 6(1) and YB 9(1) do not apply to a trustee and a beneficiary or a settlor and a beneficiary if the beneficiary is a charitable organisation.
+Securitisation trusts
+(3) A person that is a party to a financial arrangement with a securitisation trust and is also a beneficiary of a trust (the security trust) established for the main purpose of securing to the security trust’s beneficiaries rights and obligations in relation to the securitisation trust is not associated with the securitisation trust if, but for this subsection, the person and the securitisation trust are associated due to 1 or more of the following reasons:
+  (a) the person is a settlor of the securitisation trust or of the security trust, because the person is a party to the financial arrangement:
+  (b) the person has the power of appointment or removal for trustees of the securitisation trust or for trustees of the security trust, because the person is a party to the financial arrangement.
 
 ### YB 16B Limited partnerships treated as companies
 Notwithstanding anything else in this subpart, a limited partnership is treated as a company for the purposes of the tests of association in sections YB 2, YB 3, and YB 12(2), (3), and (4) and for section YC 4 (Look-through rule for corporate shareholders) if—
