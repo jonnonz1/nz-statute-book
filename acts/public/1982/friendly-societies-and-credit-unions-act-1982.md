@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2025-03-30_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -137,6 +137,9 @@ The Registrar may from time to time prepare, cause to be circulated, or publish,
 (2) No society or branch shall first be registered under this Part unless it consists of at least 7 adults.
 (3) No society or branch shall be registered under this Act which contracts with any person for the assurance of a gross sum or of an annuity in excess of the limits specified in section 42.
 (3A) Subsection (3) does not apply to a licensed insurer.
+(3B) No society or branch may be registered under this Part unless it has at least 1 officer who lives in—
+  (a) New Zealand; or
+  (b) an enforcement country (within the meaning of section 2(1) of the Companies Act 1993) and is a director or an officer of a body corporate that is incorporated in an enforcement country.
 (4) In the case of specially authorised societies and their registered branches (if any) established pursuant to subsection (1)﻿(d)—
   (a) the rules shall bind the society or registered branch and its members, and all persons claiming through them respectively, to the same extent as if each member had subscribed his name and (where appropriate) affixed his seal, and there were in such rules a covenant on the part of himself, his executors and administrators, to conform to such rules subject to the provisions of this Act:
   (b) all money payable by a member to the society or to a registered branch shall be deemed to be a debt due from such member to the society or registered branch, and shall be recoverable as such.
@@ -609,7 +612,7 @@ An auditor must, in carrying out an audit of the financial statements of a regis
 **Annual returns and valuations**
 
 ### 70 Annual return
-(1) Every registered society and branch shall once in every year, within 3 months after the close of the financial year of the society or branch or such extended period as the Registrar may in any particular case allow, send to the Registrar an annual return.
+(1) Every registered society and branch shall once in every year, within 4 months after the balance date of the society or branch or such extended period as the Registrar may in any particular case allow, send to the Registrar an annual return.
 (2) Every annual return shall relate to the affairs of the society or branch for the financial year preceding that in which the return is required to be sent, and, subject to subsection (3), shall be made in such form and contain such particulars as the Registrar may from time to time require.
 (3) Every annual return—
   (a) shall be made up for the financial year to which the return relates; and
@@ -936,7 +939,10 @@ Where a registered society or branch amalgamates or transfers its engagements pu
   (c) that the only objects of the credit union will be those of a credit union specified in section 101; and
   (d) that the credit union will have a common bond as defined in section 102; and
   (e) that the credit union’s name will comply with section 103; and
-  (f) that there is no reason to expect that the credit union will not be operated in accordance with its rules and this Part.
+  (f) that there is no reason to expect that the credit union will not be operated in accordance with its rules and this Part; and
+  (g) that the credit union has at least 1 officer who lives in—
+    (i) New Zealand; or
+    (ii) an enforcement country (within the meaning of section 2(1) of the Companies Act 1993) and is a director or an officer of a body corporate that is incorporated in an enforcement country.
 (2) The Registrar must—
   (a) register the credit union’s name; and
   (b) issue a certificate of incorporation; and
@@ -1498,9 +1504,7 @@ Section 89 (which relates to the appointment of inspectors or the calling of spe
   (c) if the credit union has been put into liquidation, and—
     (i) no liquidator is acting; or
     (ii) the documents referred to in section 257(1)﻿(a) of the Companies Act 1993 (as applied by section 137A or 138 of this Act) have not been sent or delivered to the Registrar within 6 months after the liquidation is completed; or
-  (d) if a liquidator sends or delivers to the Registrar—
-    (i) the documents referred to in section 257(1)﻿(a) of the Companies Act 1993 (as applied by section 137A or 138 of this Act); and
-    (ii) a copy of the notice referred to in section 140A(1)﻿(a).
+  (d) if a liquidator sends or delivers to the Registrar the documents referred to in section 257(1)﻿(a) of the Companies Act 1993 (as applied by section 137A or 138 of this Act).
 (3) A request may be made on the grounds—
   (a) that the credit union has ceased to operate, has discharged in full its liabilities to all its known creditors, and has distributed its remaining assets to those persons entitled to them or otherwise in accordance with its rules; or
   (b) that the credit union has no assets remaining after paying its debts in full or in part, and no creditor has applied to the High Court under section 138 for an order putting the credit union into liquidation.
@@ -1508,7 +1512,7 @@ Section 89 (which relates to the appointment of inspectors or the calling of spe
 
 ### 140A Notice of intention to remove from register
 (1) The Registrar may remove a credit union from the register under section 140(2)﻿(b) to (d) only if—
-  (a) the Registrar is satisfied that notice of the intention to remove the credit union from the register has been given in the prescribed manner to the public and all other prescribed persons (if any); and
+  (a) the Registrar has given notice to the public and all other prescribed persons (if any) of the Registrar’s intention to remove the credit union from the register in the prescribed manner and containing the prescribed information; and
   (b) the Registrar—
     (i) is satisfied that no person has objected to the removal under section 140B; or
     (ii) if an objection to the removal has been received, has complied with sections 140C and 140D.
