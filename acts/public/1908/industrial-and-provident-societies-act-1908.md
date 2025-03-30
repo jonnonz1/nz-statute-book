@@ -1,5 +1,5 @@
 # Industrial and Provident Societies Act 1908
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2025-03-30_
 
 > An Act to consolidate certain enactments of the General Assembly relating to industrial and provident societies
 
@@ -37,9 +37,11 @@ For the purposes of this Act there shall from time to time be appointed under th
 (1) There shall from time to time be appointed under the Public Service Act 2020 as many District Registrars of Industrial and Provident Societies and Assistant Registrars of Industrial and Provident Societies as may be found necessary for the purposes of this Act.
 (2) Subject to the control of the Registrar, every District Registrar shall have and may exercise all the duties and powers of the Registrar. Subject to the control of the Registrar and of the District Registrar, every Assistant Registrar shall have and may exercise all the duties and powers of the Registrar. The fact that a District Registrar or an Assistant Registrar exercises any powers or functions conferred by this Act on the Registrar shall be conclusive evidence of his authority to do so.
 
-### 3D Registers to be kept
-(1) The Registrar shall cause to be kept in the office of each District Registrar such registers as he considers necessary, in which shall be recorded all matters required by this Act or by regulations made under this Act to be recorded by the Registrar.
-(2) Whenever any act is by this Act or by any regulations under this Act directed to be done to or by the Registrar in respect of any society, it shall, unless the context otherwise requires, be done to or by the District Registrar in whose office the records relating to the society are kept, or to or by an Assistant Registrar in that office.
+### 3D Register to be kept
+(1) The Registrar must keep a register of all matters required by this Act to be recorded by the Registrar.
+(2) The register may be kept in any manner that the Registrar considers appropriate, including wholly or partly by means of a device or facility—
+  (a) that records or stores information electronically or by other means; and
+  (b) that permits the information so recorded or stored to be readily inspected or reproduced in usable form.
 
 ### 4 Societies which may be registered
 (1) A society which may be registered under this Act (in this Act called an industrial and provident society) is a society for carrying on any industry, business, or trade, whether wholesale or retail, specified in or authorised by its rules, including dealings of any description with land, but excepting the business of banking.
@@ -71,22 +73,38 @@ With respect to the registry of societies the following provisions shall have ef
 With respect to the cancelling or suspension of registry the following provisions shall have effect:
   (a) the Registrar may cancel the registry of a society by writing under his hand—
     (i) if he thinks fit, at the request of a society, to be evidenced in such manner as he from time to time directs:
-    (ii) with the approval of the Governor-General, on proof to his satisfaction that an acknowledgment of registry has been obtained by fraud or mistake, or that a society exists for an illegal purpose, or has wilfully, and after notice from the Registrar, violated any of the provisions of this Act:
+    (ii) on proof to his satisfaction that an acknowledgment of registry has been obtained by fraud or mistake, or that a society exists for an illegal purpose or has, after notice from the Registrar, violated any of the provisions of this Act:
     (iii) if he has reasonable cause to believe that the society has ceased to exist:
-  (b) the Registrar in any case in which he might, with the approval of the Governor-General, cancel the registry of a society may suspend the same by writing under his hand for any term not exceeding 3 months, and may, with the approval of the Governor-General, renew such suspension from time to time for the like period:
-  (c) not less than 2 months' previous notice in writing, specifying briefly the ground of any proposed cancelling or suspension of registry, shall be given by the Registrar to a society before the registry of the same can be cancelled (except at its request) or suspended; and notice of every cancelling or suspension shall be published in the Gazette and in some newspaper circulating in the city, town, or place in which the registered office of the society is situated, as soon as practicable after the same takes place:
+  (b) the Registrar in any case in which he might cancel the registry of a society may suspend the same by writing under his hand for any term not exceeding 3 months, and may renew such suspension from time to time for the like period:
+  (c) not less than 2 months' previous notice in writing, specifying briefly the ground of any proposed cancelling or suspension of registry, shall be given by the Registrar to a society before the registry of the same can be cancelled (except at its request) or suspended; and notice of every cancelling or suspension shall be published in the Gazette and on an internet site maintained by or on behalf of the Registrar, as soon as practicable after the same takes place:
   (d) a society may appeal from the cancelling of its registry, or (when the same has been suspended for 2 consecutive periods not exceeding 6 months in the whole) against any renewal of suspension, in manner herein provided for appeals from the Registrar's refusal to register:
   (e) a society whose registry has been suspended or cancelled shall, from the time of such suspension or cancelling (but, if suspended, only while such suspension lasts, and subject also to the right of appeal hereby given), absolutely cease to enjoy as such the privileges of a registered society, but without prejudice to any liability actually incurred by such society, which may be enforced against the society as if such suspension or cancelling had not taken place.
 
 ### 7 Rules and amendments
 (1) With respect to the rules of societies the following provisions shall have effect:
   (a) the rules of every society sent for registry shall contain provisions in respect of the several matters mentioned in Schedule 2:
-  (b) no amendment of a rule made by a registered society shall be valid until the same has been registered under this Act, for which purpose a copy of the same, signed by 3 members and the secretary, shall be sent to the Registrar:
+  (b) no amendment of a rule made by a registered society shall be valid until the same has been registered under this Act, for which purpose a copy of the rules (as amended), signed by 3 members and the secretary, shall be sent to the Registrar:
+  (ba) if the Registrar is satisfied that amendment of the rule does not contravene this Act, the Registrar must register the amendment:
   (c) the provisions herein contained as to appeals from a refusal of registry shall apply to amendments of rules:
-  (d) the Registrar shall, on being satisfied that any amendment of a rule is not contrary to the provisions of this Act, issue to the society an acknowledgment of registry of the same in the form numbered (2) in Schedule 4, which shall be conclusive evidence that the same is duly registered:
-  (e) a copy of the rules of a registered society shall be delivered by the society to every person, on demand, on payment of a sum not exceeding 10c:
+  (d)
+  (e)
   (f) if any person, with intent to mislead or defraud, gives to any other person a copy of any rules, or other documents, other than rules for the time being registered under this Act, on the pretence that the same are existing rules of a registered society, or that there are no other rules of such society, or gives to any person a copy of any rules on the pretence that such rules are the rules of a registered society when the society is not registered, the person so offending commits an offence, and is liable on conviction to a fine not exceeding $100, or to imprisonment for any term not exceeding 2 years.
 (2) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, a charging document may be filed at any time in respect of an offence under this section.
+
+### 7A Amendments to register
+The Registrar may make any amendments to the register that are necessary—
+  (a) to reflect any changes in the information that relates to a society; or
+  (b) to change or correct the register if the Registrar is satisfied that any information—
+    (i) has been wrongly entered in, or omitted from, the register; or
+    (ii) has been incorrectly entered in the register; or
+    (iii) contains a typographical error or a mistake; or
+  (c) to comply with any court order.
+
+### 7B Alteration of entries on register without application
+(1) This section applies if—
+  (a) a society has provided information about the society to the Registrar in addition to the information the society is required to provide under this Act or regulations made under it (regardless of whether the information was provided before or after the commencement of this section or is accessible by the public on the register); and
+  (b) that information is updated in the New Zealand Business Number Register.
+(2) The Registrar may update the information provided and, if applicable, the register, so that the information is consistent with the information in the New Zealand Business Number Register.
 
 ### 8 Duties and obligations of societies
 (1) With respect to the duties and obligations of registered societies the following provisions shall have effect:
