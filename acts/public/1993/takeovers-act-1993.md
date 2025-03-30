@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2022-05-05_
+_Consolidation as at 2025-03-30_
 
 > Title
 
@@ -66,8 +66,9 @@ _Consolidation as at 2022-05-05_
   (a) that is a listed issuer that has financial products that confer voting rights quoted on a licensed market; or
   (b) that was within paragraph (a) at any time during a period specified in the takeovers code (being a period not exceeding 12 months before any date or the occurrence of any event referred to in the code); or
   (c) that—
-    (i) has 50 or more shareholders and 50 or more share parcels; and
+    (i) has 50 or more shareholders; and
     (ii) is at least medium-sized.
+(2) If a financial product that confers a voting right is held jointly by 2 or more persons, those persons must be treated as a single shareholder for the purposes of counting the number of shareholders under subsection (1)﻿(c)﻿(i).
 (2)
 (3) In this section, shareholder means a shareholder holding a financial product that confers a voting right.
 (4) In this section, a company is at least medium-sized if—
@@ -1045,6 +1046,14 @@ If the amount to be reimbursed is agreed, the amount is recoverable as a debt du
 (5) In this clause,—
   - **commencement** means commencement of Part 12 of the Regulatory Systems (Economic Development) Amendment Act 2019
   - **dominant owner** , in relation to a company, means a person who becomes the holder or controller, or 2 or more persons acting jointly or in concert who become the holders or controllers, of 90% or more of the voting rights in the company (whether by reason of acceptances of an offer or otherwise); and words or expressions used in the definition of dominant owner have the same meanings as they have in the takeovers code.
+
+### Part 3 — Provisions relating to Regulatory Systems (Economic Development) Amendment Act 2025
+
+### 3 Interpretation
+In this Part, commencement means the commencement of Part 21 of the Regulatory Systems (Economic Development) Amendment Act 2025.
+
+### 4 Existing transactions unaffected
+This Act, the takeovers code, and any relevant exemptions from the takeovers code, as in force immediately before commencement, continue to apply to every transaction and event regulated under the code (or that would be regulated under the code but for an exemption) that has started but is not completed before commencement (an existing transaction), until the existing transaction is complete and all requirements of the code and any exemptions (as relevant) have been complied with.
 
 ## Schedule 1 — Provisions applying to Takeovers Panel
 
