@@ -1,5 +1,5 @@
 # Weights and Measures Act 1987
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-03-30_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Weights and Measures Act 1987.
@@ -189,7 +189,8 @@ Nothing in section 10 applies to the use by any person of any unit of a weight o
 (3) If the goods are prepackaged and weighed or measured at the premises or place where they are offered or exposed for sale before they are offered or exposed for sale, the person must, at the request of the purchaser, weigh or measure the goods in the presence of the purchaser in accordance with subsection (4).
 (4) For the purposes of subsections (2) and (3), the goods must be weighed or measured—
   (a) before or at the time of sale; and
-  (b) using a weighing or measuring instrument that is situated where the purchaser can easily see that instrument, any necessary weights or measures, and the recorded or indicated weight or measurement of the goods.
+  (b) using a weighing or measuring instrument that is situated where the purchaser can easily see that instrument, any necessary weights or measures, and the recorded or indicated weight or measurement of the goods; and
+  (c) if the goods are being weighed or measured by the seller, using a weighing or measuring instrument that is situated where the seller can easily see that instrument, any necessary weights or measures, and the recorded or indicated weight or measurement of the goods.
 (5) A person who contravenes this section commits an offence.
 
 ### 16 Offence to supply short weight, measure, or number
@@ -363,7 +364,10 @@ Notwithstanding anything in section 28, no person shall be required, pursuant to
   (a) receives an application for the renewal of that letter of accreditation under subsection (3); and
   (b) receives payment of the prescribed fee (if any); and
   (c) is satisfied that the applicant continues to meet the requirements for accreditation prescribed by regulations made under this Act.
-(5) Where an application for the renewal of a letter of accreditation has been made but not dealt with before the letter of accreditation expires, the letter of accreditation shall continue in force until the application is dealt with by the Secretary.
+(5) Subsection (6) applies if—
+  (a) an application for the renewal of a letter of accreditation is made no later than 3 months before the letter of accreditation expires; and
+  (b) the application is not dealt with before the letter of accreditation expires.
+(6) The letter of accreditation continues in force until the application is dealt with by the Secretary.
 
 ### 30D Revocation of accreditation
 (1) Subject to subsection (3), the Secretary may at any time revoke the accreditation of any person as an accredited person if the Secretary is satisfied that the person—
