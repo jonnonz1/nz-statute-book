@@ -1,5 +1,5 @@
 # Contract and Commercial Law Act 2017
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Contract and Commercial Law Act 2017.
@@ -1535,6 +1535,9 @@ In this Part, unless the context otherwise requires,—
   - **information** includes information (whether in its original form or otherwise) that is in the form of a document, a signature, a seal, data, text, images, sound, or speech
   - **information system** has the meaning set out in section 213(2)
   - **legal requirement** has the meaning set out in section 219(2)
+  - **security interest** means an interest in property created or provided for by a transaction that, in substance, secures payment or performance of an obligation, without regard to—
+    (a) the form of the transaction; and
+    (b) the identity of the person who has title to the property that is subject to the security interest
   - **transaction** includes—
     (a) a transaction of a non-commercial nature:
     (b) a single communication:
@@ -1607,6 +1610,7 @@ An electronic communication is taken to be received at—
   (c) the provisions of enactments specified in Part 2 of Schedule 5:
   (d) the provisions of enactments that are described in Part 3 of Schedule 5:
   (e) the provisions of enactments that are described in Part 4 of Schedule 5 except to the extent that rules of a court, or guidelines issued with the authority of a court, tribunal, or any other body, specified in that Part of Schedule 5 provide for the use of electronic technology in accordance with this subpart.
+(3) Despite subsection (2)﻿(d), this subpart applies to a deed that creates a power of attorney in connection with a security interest.
 
 ### 218A Temporary modification relating to powers of attorney and outbreak of COVID-19
 [Repealed]
