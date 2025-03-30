@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2024-10-27_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -370,7 +370,7 @@ This Act has the following additional purposes:
     (e) for any other financial advice product, the person specified in the regulations
   - **protected disclosure** has the meaning set out in section 214(4)
   - **provider of a discretionary investment management service** has the meaning set out in section 432A(3)
-  - **qualified auditor** has the meaning set out in section 461E
+  - **qualified FMC auditor** has the meaning set out in section 461E
   - **qualified statutory accountant** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
   - **quoted** , in relation to—
     (a) financial products of a listed issuer, means financial products of the issuer that are approved for trading on a licensed market (and, to avoid doubt, financial products do not cease to be quoted merely because trading in those products is suspended):
@@ -1090,7 +1090,7 @@ If section 65 applies to a PDS that relates to a particular offer of financial p
 (2) The issuer must ensure that, at the beginning of a replacement PDS, there is—
   (a) a statement that it is a replacement PDS; and
   (b) an identification of the PDS that it replaces.
-(3) The replacement PDS must be dated with the date on which it is lodged with the Registrar.
+(3) The replacement PDS must be dated not later than the date on which it is lodged with the Registrar.
 
 ### 74 Registrar must notify FMA of lodgement of supplementary document or replacement PDS
 (1) The Registrar must, immediately after a supplementary document or replacement PDS is lodged, notify the FMA of the lodgement for the purpose of allowing the FMA an opportunity to consider the supplementary document or replacement PDS.
@@ -1753,6 +1753,8 @@ The manager of a registered scheme must ensure that, until all of the managed in
     (i) that the FMA may direct removal; and
     (ii) the reasons why it may exercise that power; and
   (b) the FMA gives the manager or the manager's representative an opportunity to make written submissions on the matter within that notice period.
+(2A) In addition, the FMA must not direct removal under subsection (1) in the prescribed circumstances.
+(2B) Before making a recommendation for regulations for the purposes of subsection (2A), the Minister must be satisfied that the regulations are necessary or desirable for the purpose of enabling a recognition regime or an application regime (or both) to be implemented under subpart 6 of Part 9.
 (3) The FMA may direct that a registered scheme be registered as a particular type of scheme on the written request of the manager of the scheme if the FMA is satisfied that the scheme meets the registration requirements for that type of scheme that apply to it under sections 128 to 132.
 (4) A direction under subsection (1)﻿(a) in relation to the removal of a registration as a restricted scheme must not take effect before the expiry of 6 months after the direction is made (unless the manager consents to an earlier date).
 (5) If the FMA makes a direction under this section,—
@@ -2375,6 +2377,8 @@ Sections 185 to 192 apply to—
     (i) that the FMA may direct cancellation; and
     (ii) the reasons why it may exercise that power; and
   (b) the FMA gives the manager or the manager's representative an opportunity to make written submissions on the matter within that notice period.
+(2A) In addition, the FMA must not direct cancellation under subsection (1) in the prescribed circumstances.
+(2B) Before making a recommendation for regulations for the purposes of subsection (2A), the Minister must be satisfied that the regulations are necessary or desirable for the purpose of enabling a recognition regime or an application regime (or both) to be implemented under subpart 6 of Part 9.
 (3) If the FMA makes a direction under this section,—
   (a) the FMA must notify the manager and the supervisor of the registered scheme of the direction; and
   (b) as soon as practicable after being notified of the direction, the manager must notify the scheme participants of the direction.
@@ -2618,7 +2622,7 @@ This subpart applies in relation to debt securities offered under a regulated of
 (5) The offence in this section is an infringement offence (see subpart 5 of Part 8).
 
 ### 218 Audit or review of registers
-(1) Every issuer of regulated products must ensure that registers kept by, or on behalf of, the issuer under this subpart are audited or reviewed in accordance with the prescribed requirements by a qualified auditor.
+(1) Every issuer of regulated products must ensure that registers kept by, or on behalf of, the issuer under this subpart are audited or reviewed in accordance with the prescribed requirements by a qualified FMC auditor.
 (2) An issuer that contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
 (3) The offence in this section is an infringement offence (see subpart 5 of Part 8).
 
@@ -5206,6 +5210,10 @@ Accounting records kept under this subpart, or copies of them, must be retained 
 (4) If the manager is an FMC reporting entity by reason only of being a manager of a restricted scheme, the manager—
   (a) is required to comply with this section; but
   (b) is not required to comply with sections 460 and 461.
+(5) This section does not apply in relation to a registered scheme and an accounting period if—
+  (a) the scheme was established during the accounting period; and
+  (b) no interests in the scheme were issued during the accounting period; and
+  (c) as at the balance date of the scheme, there are no liabilities in respect of the scheme.
 
 ### 461B Financial statements for overseas FMC reporting entity to include financial statements for New Zealand business
 (1) If an FMC reporting entity that is an overseas company is required to prepare financial statements under section 460, the financial statements that are prepared must include, in addition to the financial statements of the entity, financial statements for its New Zealand business prepared as if that business were conducted by a company formed and registered in New Zealand.
@@ -5220,20 +5228,20 @@ Accounting records kept under this subpart, or copies of them, must be retained 
 **Audit of financial statements**
 
 ### 461D Financial statements must be audited
-Every FMC reporting entity must ensure that the financial statements or group financial statements that are required to be prepared under this subpart are audited by a qualified auditor.
+Every FMC reporting entity must ensure that the financial statements or group financial statements that are required to be prepared under this subpart are audited by a qualified FMC auditor.
 
-### 461E Meaning of qualified auditor
-(1) For the purposes of this Act, qualified auditor means—
+### 461E Meaning of qualified FMC auditor
+(1) For the purposes of this Act, qualified FMC auditor means—
   (a) a licensed auditor; or
   (b) a registered audit firm; or
   (c) in the case of an FMC reporting entity that is a public entity under the Public Audit Act 2001, the Auditor-General or any other person who may act as the auditor under that Act.
 (2) In this section, licensed auditor and registered audit firm have the same meanings as in section 6(1) of the Auditor Regulation Act 2011.
-(3) The appointment of a registered audit firm that is a partnership by the firm name to be the qualified auditor for the purposes of this Act is deemed to be the appointment of all the partners in the firm, from time to time, who are licensed auditors.
-(4) None of the following persons is qualified for appointment as the qualified auditor of an FMC reporting entity:
+(3) The appointment of a registered audit firm that is a partnership by the firm name to be the qualified FMC auditor for the purposes of this Act is deemed to be the appointment of all the partners in the firm, from time to time, who are licensed auditors.
+(4) None of the following persons is qualified for appointment as the qualified FMC auditor of an FMC reporting entity:
   (a) the FMC reporting entity, or a director, an officer, or an employee of the FMC reporting entity:
   (b) a person who is a partner, or in the employment, of a person specified in paragraph (a):
   (c) a body corporate that is not a registered audit firm.
-(5) A person is not qualified for appointment as the qualified auditor of an FMC reporting entity if the person is, by virtue of subsection (4), disqualified for appointment as auditor of a related body corporate.
+(5) A person is not qualified for appointment as the qualified FMC auditor of an FMC reporting entity if the person is, by virtue of subsection (4), disqualified for appointment as auditor of a related body corporate.
 
 ### 461F Audit must be carried out in accordance with auditing and assurance standards
 An auditor must, in carrying out an audit for the purposes of section 461D, comply with all applicable auditing and assurance standards.
@@ -5636,10 +5644,12 @@ An assurance practitioner must, in carrying out an assurance engagement under th
     (ii) contains any material misdescription or material error or any material matter that is not clearly legible; or
     (iii) does not comply with this Act or the regulations; or
   (ga) an issuer of financial products, or a person that provides a licensed market service, has contravened any provision of Part 7 or 7A; or
-  (h) any provision of section 388, 391, 423, 431G, 431O, or 431X has been, or is likely to be, contravened in respect of the supply of market services.
+  (h) any provision of section 388, 391, 423, 431G, 431O, or 431X has been, or is likely to be, contravened in respect of the supply of market services; or
+  (i) 1 or more of the prescribed grounds apply.
 (2) If the FMA is satisfied that a provision referred to in subsection (1)﻿(b) to (d) or (h) is likely to be contravened by a person (A) in the future, the FMA may make a stop order—
   (a) whether or not A has previously contravened the provision; and
   (b) whether or not there is an imminent danger of substantial damage to any person if the provision is contravened.
+(3) Before making a recommendation for regulations for the purposes of subsection (1)﻿(i), the Minister must be satisfied that the regulations are necessary or desirable for the purpose of enabling a recognition regime or an application regime (or both) to be implemented under subpart 6 of Part 9.
 
 ### 463 Terms of stop order
 A stop order may, in relation to the offer, financial products, registered scheme, or market or other financial services referred to in section 462(1), do 1 or more of the following:
@@ -7903,7 +7913,8 @@ Section 14 of the Trusts Act 2019 (sole trustee cannot be sole beneficiary) does
   (f) Part 6 provides for transitional provisions relating to the Financial Services Legislation Amendment Act 2019:
   (g) Part 7 provides for transitional provisions relating to Part 1 of the Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021:
   (h) Part 8 provides for transitional provisions relating to the Financial Markets (Conduct of Institutions) Amendment Act 2022:
-  (i) Part 9 provides for transitional provisions relating to Part 2 of the Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021.
+  (i) Part 9 provides for transitional provisions relating to Part 2 of the Financial Sector (Climate-related Disclosures and Other Matters) Amendment Act 2021:
+  (j) Part 10 provides for transitional provisions relating to the Regulatory Systems (Economic Development) Amendment Act 2025.
 (2) Subclause (1) is only a guide to the general scheme and effect of this schedule.
 
 ### 2 Transitional provisions subject to transitional regulations and exemptions
@@ -8656,6 +8667,21 @@ The FMA must, after receiving an application for a transitional licence, issue t
 (1) All investigations and disciplinary proceedings under subpart 2 of Part 4 of the Financial Advisers Act 2008 that have been commenced before the commencement of this clause and that have not been completed before that commencement are to be continued and completed as if the Financial Services Legislation Amendment Act 2019 had not been enacted (with the disciplinary committee established under clause 49 of Schedule 5 acting as the disciplinary committee).
 (2) However, the disciplinary committee may exercise a power under clause 46 of Schedule 5 in relation to any of those proceedings if the committee is satisfied that the person who is the subject of the complaint to which the proceedings relate has breached the code of conduct under the Financial Advisers Act 2008.
 
+### 89A Complaints about financial adviser conduct under former code of conduct
+(1) This clause applies to a complaint that is made on or after the commencement of this clause if—
+  (a) the complaint is about—
+    (i) the conduct of a person (A) in that person’s capacity as a financial adviser under the Financial Advisers Act 2008, where that conduct occurred before 15 March 2021; or
+    (ii) a breach of code standard 13 of the former code (to the extent continued by clause 41 of Schedule 1 of the FMC Regulations (as in force immediately before its revocation)) by a person to whom that clause applied (A); and
+  (b) the conduct or the breach is not the subject of a proceeding to which clause 89 applies; and
+  (c) the complaint is initiated by the FMA or is made by any other person.
+(2) The FMA and the disciplinary committee established under clause 49 of Schedule 5 may deal with the complaint under Part 5 of Schedule 5.
+(3) However, the disciplinary committee—
+  (a) may only do any 1 or more of the actions referred to in section 101(3)﻿(d) and (f) to (h) of the Financial Advisers Act 2008 (as in force immediately before its repeal); and
+  (b) may only do 1 or more of those actions if it is satisfied that A breached the code of professional conduct in force under section 94 of the Financial Advisers Act 2008 (or as continued in effect under clause 41 of Schedule 1 of the FMC Regulations (as in force immediately before its revocation)).
+(4) In this clause,—
+  - **FMC Regulations** means the Financial Markets Conduct Regulations 2014
+  - **former code** means the code of professional conduct in force under section 94 of the Financial Advisers Act 2008.
+
 #### Subpart 5 — Transitional and savings regulations
 
 ### 90 Transitional and savings regulations
@@ -8750,6 +8776,29 @@ In this Part,—
 (2) The Part 7A assurance engagement obligations apply to a manager of a registered scheme that is a climate reporting entity in respect of the scheme in relation to the following accounting periods of the scheme:
   (a) an accounting period that commenced before, but ends on or after, the commencement date:
   (b) accounting periods that commence on or after the commencement date.
+
+### Part 10 — Provisions relating to Regulatory Systems (Economic Development) Amendment Act 2025
+
+### 101 Exemptions relating to transition from Securities Act 1978 may continue in force indefinitely
+(1) Section 558 (exemption in force for not more than 5 years) does not apply to the following:
+  (a) the Financial Markets Conduct (Communal Facilities in Real Property Developments) Exemption Notice 2021:
+  (b) the Financial Markets Conduct (Employee Share Purchase Scheme Shares Offered under Securities Act 1978) Exemption Notice 2021:
+  (c) the Financial Markets Conduct (Equine Bloodstock) Exemption Notice 2021 (subject to subclause (2)):
+  (d) the Financial Markets Conduct (Irrigation Companies) Exemption Notice 2022 (subject to subclause (2)):
+  (e) the Financial Markets Conduct (Multiple-participant Schemes—Participation Agreements) Exemption Notice 2022 (subject to subclause (2)):
+  (f) the Financial Markets Conduct (Securities Offered under Securities Act 1978 Exemptions Recognising Overseas Regimes) Exemption Notice 2021:
+  (g) the Financial Markets Conduct (Small Co-operatives) Exemption Notice 2022 (subject to subclause (2)).
+(2) However, section 558 continues to apply to the following:
+  (a) clauses 6 to 8 of the Financial Markets Conduct (Equine Bloodstock) Exemption Notice 2021:
+  (b) clauses 4, 8 to 18, and 20 to 24 and Schedules 1 to 3 of the Financial Markets Conduct (Irrigation Companies) Exemption Notice 2022 and the cross-heading above clause 8:
+  (c) clauses 5 to 8 of the Financial Markets Conduct (Multiple-participant Schemes—Participation Agreements) Exemption Notice 2022:
+  (d) clauses 4, 7 to 9, and 11 to 15 and Schedules 1 and 2 of the Financial Markets Conduct (Small Co-operatives) Exemption Notice 2022.
+(3) This clause does not prevent the FMA from exercising a power to amend or revoke a notice to which this clause applies.
+
+### 102 References to qualified auditor treated as references to qualified FMC auditor
+(1) This clause applies to a reference to a qualified auditor in an existing exemption if, immediately before the commencement of this clause, the reference has the same meaning as in this Act.
+(2) The reference must be treated as being a reference to a qualified FMC auditor.
+(3) In this clause, existing exemption means an exemption under subpart 2 of Part 9 as in force immediately before the commencement of this clause.
 
 ## Schedule 5 — Other provisions relating to financial advice services and client money or property services
 
