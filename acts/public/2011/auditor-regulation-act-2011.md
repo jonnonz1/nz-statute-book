@@ -1,5 +1,5 @@
 # Auditor Regulation Act 2011
-_Consolidation as at 2022-05-25_
+_Consolidation as at 2025-03-30_
 
 ### 1 Title
 This Act is the Auditor Regulation Act 2011.
@@ -41,6 +41,7 @@ The FMA's functions under this Act are as follows:
   (c) to grant accreditation to persons under subpart 5 of Part 2:
   (d) to monitor the audit regulatory systems of accredited bodies, report on the adequacy and effectiveness of those systems, and take action in respect of those systems that are inadequate or ineffective:
   (e) to conduct quality reviews and investigations under subparts 6 and 7 of Part 2:
+  (ea) to issue directions under subpart 6A of Part 2:
   (f) to take over and perform regulatory functions under subpart 8 of Part 2:
   (g) to perform or exercise any other functions, powers, and duties conferred or imposed on it by or under this Act.
 
@@ -66,7 +67,7 @@ The FMA's functions under this Act are as follows:
       (i) the financial statements or group financial statements of an FMC reporting entity that are prepared under the Financial Markets Conduct Act 2013; or
       (ii) the financial statements of a scheme or a fund prepared under section 461A of the Financial Markets Conduct Act 2013; or
       (iii) the financial statements referred to in section 461B of the Financial Markets Conduct Act 2013; and
-    (b) includes any audit or review required to be carried out under the regulations made, or exemptions granted, under the Financial Markets Conduct Act 2013 or the Securities Act 1978 by a qualified auditor (within the meaning of either of those Acts); and
+    (b) includes any audit or review required to be carried out under the regulations made, or exemptions granted, under the Financial Markets Conduct Act 2013 by a qualified FMC auditor (within the meaning of that Act); and
     (c) includes any audit of the financial statements or group financial statements prepared under the Financial Reporting Act 1993 in accordance with section 55 of the Financial Reporting Act 2013; and
     (d) includes any issuer audit (as defined in this Act before the commencement of this paragraph); but
     (e) does not include any audit carried out under the Public Audit Act 2001 (whether the Auditor-General or any other person is acting as the auditor)
@@ -115,6 +116,9 @@ The FMA's functions under this Act are as follows:
 ### 7 Act binds the Crown
 This Act binds the Crown.
 
+### 7A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+
 **Key provisions**
 
 ### 8 Auditors in respect of FMC audits must be licensed
@@ -147,7 +151,7 @@ This Act binds the Crown.
 ### 10A Licence and registration requirements do not apply if FMA exemption applies
 Sections 8 and 9 do not apply to an FMC audit if—
   (a) the FMA has granted an exemption under the Financial Markets Conduct Act 2013 that applies in relation to the FMC audit; and
-  (b) the effect of the exemption is that, for the purposes of that Act, the FMC audit is not required to be carried out by a qualified auditor (within the meaning of that Act); and
+  (b) the effect of the exemption is that, for the purposes of that Act, the FMC audit is not required to be carried out by a qualified FMC auditor (within the meaning of that Act); and
   (c) the terms and conditions of the exemption are complied with.
 
 ## Part 2 — Licences, registration, accreditation, and role of FMA
@@ -274,7 +278,7 @@ The FMA must, in considering what conditions to impose under section 15(1)﻿(c)
 (3) The rules of an accredited body may authorise a disciplinary body to act under this section or section 21 and provide for any other reasonable matters, not inconsistent with this Act, in respect of the exercise of that power to act.
 (4) A licence may also be—
   (a) treated as cancelled under section 61:
-  (b) cancelled by the FMA under subpart 6 or 7.
+  (b) cancelled by the FMA under subpart 6A or 7.
 
 ### 21 Suspension of licences
 (1) A relevant authority may suspend a licence issued to a person if the relevant authority is satisfied on reasonable grounds—
@@ -291,7 +295,7 @@ The FMA must, in considering what conditions to impose under section 15(1)﻿(c)
 (4) At the end of the period of suspension, the person's licence is immediately revived (unless there is some other ground to suspend or cancel the licence).
 (5) A licence may also be—
   (a) treated as suspended under section 61:
-  (b) suspended by the FMA under subpart 6 or 7.
+  (b) suspended by the FMA under subpart 6A or 7.
 
 ### 22 Procedure relating to exercise of cancellation or suspension powers
 (1) A relevant authority must not cancel a licence under section 20(1)﻿(b)﻿(ii) to (vi) or (c) or suspend a licence under section 21(1) unless—
@@ -329,8 +333,8 @@ The FMA must, in considering what conditions to impose under section 15(1)﻿(c)
   (b) include conditions under section 15(1)﻿(b) or (c) on the person's licence or proposed licence (or to act under section 15(3)); or
   (c) suspend or cancel his or her licence; or
   (d) decline to act on an application made by the person under section 23 (or to include terms and conditions on an authorisation following such an application); or
-  (e) issue a direction to the person under subpart 6; or
-  (f) make any other order under subpart 6 or 7 in respect of the person.
+  (e) issue a direction to the person under subpart 6A; or
+  (f) make any other order under subpart 6A or 7 in respect of the person.
 (2) A person may appeal to the District Court against any decision of a disciplinary body to cancel or suspend his or her licence unless the rules of the accredited body provide for an appeal against the decision to a body established to hear appeals against the decision (for example, the Appeals Council referred to in section 6(1)﻿(h) of the New Zealand Institute of Chartered Accountants Act 1996).
 (3) An appeal to the District Court under this section must be brought—
   (a) in accordance with the rules of court; and
@@ -387,7 +391,7 @@ The FMA must, in considering what conditions to impose under section 15(1)﻿(c)
   (ca) no longer satisfies the requirements prescribed for the purposes of section 25(1)﻿(b)﻿(iii) or 26(1)﻿(ab)﻿(iv); or
   (cb) no longer satisfies the requirements of section 26(1)﻿(ab)﻿(ii) or (iii) (in the case of an overseas company); or
   (d) has failed to comply with a condition of its registration; or
-  (e) has failed to comply with a direction issued under subpart 6; or
+  (e) has failed to comply with a direction issued under subpart 6A; or
   (f) has failed to comply with section 87(6).
 (2) A suspension under subsection (1) is for the period that the relevant body thinks fit or until the audit firm satisfies any requirements specified by the relevant body (and that period or those requirements must be specified in the notice given under subsection (1)).
 (3) After receiving a notification under subsection (1), the Registrar must—
@@ -611,13 +615,13 @@ The Registrar may refuse to accept a document received by the Registrar under th
 (4) An accredited body that fails to supply an annual report in accordance with this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
 
 ### 52 FMA must publish plan relating to auditor regulation and oversight
-(1) The FMA must, before the start of each financial year, publish on an Internet site maintained by or on behalf of the FMA a plan relating to its intentions in relation to auditor regulation and oversight under this Act.
-(2) The plan must relate to the forthcoming financial year and 2 or more further financial years.
+(1) The FMA must, at least once every 4 years, publish on an Internet site maintained by or on behalf of the FMA a plan relating to its intentions in relation to auditor regulation and oversight under this Act.
+(2) The plan must relate to the forthcoming financial year and 3 or more further financial years.
 (3) The plan must describe, in relation to auditor regulation and oversight,—
   (a) the specific impacts, outcomes, or objectives that the FMA seeks to achieve or contribute to; and
   (b) the ways in which the FMA expects accredited bodies to contribute to those impacts, outcomes, or objectives; and
   (c) how the FMA proposes to monitor accredited bodies under section 54.
-(4) In this section and section 55, financial year means a financial year of the FMA.
+(4) In this section, financial year means a financial year of the FMA.
 
 ### 53 Publication of policies
 The FMA must publish on an Internet site maintained by or on behalf of the FMA its policies in relation to how it acts, or proposes to act,—
@@ -633,12 +637,12 @@ The FMA must publish on an Internet site maintained by or on behalf of the FMA i
 (4) An accredited body that commits an offence under subsection (3) is liable on conviction to a fine not exceeding $100,000.
 
 ### 55 FMA must report on audit regulatory systems of each accredited body
-(1) The FMA must, no later than 6 months after the start of each financial year, prepare a report on the extent to which the audit regulatory systems of each accredited body are adequate and effective.
-(2) Subsection (1) does not apply in respect of an accredited body if the FMA has, in the preceding financial year, been monitoring the accredited body under section 54 for less than 6 months.
+(1) The FMA must, at least once every 4 years, prepare a report on the extent to which the audit regulatory systems of each accredited body are adequate and effective.
+(2)
 (3) The FMA must, no later than 1 month after preparing a report under subsection (1), publish a notice in the Gazette that—
   (a) states that it has published a report on the adequacy and effectiveness of the audit regulatory systems of 1 or more accredited bodies; and
   (b) names the accredited bodies covered by the report; and
-  (c) summarises any directions given under section 56 in the preceding financial year (but not the reasons); and
+  (c) summarises any directions given under section 56 in the period covered by the report (but not the reasons); and
   (d) specifies where a copy of the report may be inspected or obtained.
 (4) The FMA must, after publishing a notice in the Gazette under subsection (3), publish a copy of the report on an Internet site maintained by or on behalf of the FMA.
 (5) This section does not prevent the FMA from preparing and publishing at any time any other reports about the extent to which the audit regulatory systems of an accredited body are adequate and effective.
@@ -754,15 +758,17 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
 (3) Subsection (2) does not limit subsection (1).
 (4) This section does not limit section 15A of the Public Audit Act 2001.
 
-### 68 Quality review must include certain matters
+### 68 Miscellaneous matters relating to quality review
 (1) A quality review must include—
   (a) an assessment of the design of the internal quality control system of the audit firm or licensed auditor in connection with the provision of audit services; and
   (b) reasonable compliance testing of procedures, and a review of audit files in respect of a reasonable number of FMC audits, in order to verify the effectiveness of the internal quality control system; and
-  (c) a review of the systems, policies, and procedures of the audit firm or licensed auditor in respect of—
-    (i) compliance with this Act and other enactments that relate to the conduct of FMC audits:
-    (ii) compliance with auditing and assurance standards:
-    (iii) the quantity and quality of resources used:
-    (iv) compliance with competence programmes.
+  (c)
+(1A) A quality review may include a review of the systems, policies, and procedures of the audit firm or licensed auditor in respect of any 1 or more of the following:
+  (a) compliance with this Act and other enactments that relate to the conduct of FMC audits:
+  (b) compliance with auditing and assurance standards:
+  (c) the quantity and quality of resources used:
+  (d) compliance with competence programmes:
+  (e) any other matter that is consistent with the purpose of a quality review (see section 65(2)).
 (2) A quality review must otherwise be carried out in the prescribed manner.
 (3) If an audit file has been reviewed under subsection (1)﻿(b), the quality review may include any further inquiries in respect of the FMC audit for the purpose of determining whether the FMC audit has been carried out—
   (a) in accordance with—
@@ -784,8 +790,21 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
   (a) in the case of an individual, to a fine not exceeding $40,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 
+### 69A FMA must prepare report on quality reviews
+(1) The FMA must, at least once every 4 years, prepare a report on the quality reviews that have been carried out under this subpart since the last report on quality reviews.
+(2) The FMA must, no later than 1 month after preparing the report, publish a notice in the Gazette that—
+  (a) states that it has prepared a report; and
+  (b) specifies where a copy of the report may be inspected or obtained.
+(3) The FMA must, after publishing the notice in the Gazette, publish a copy of the report on an internet site maintained by or on behalf of the FMA.
+
+### 69B FMA may prepare reports about particular quality reviews
+(1) The FMA may prepare a report on a quality review of the systems, policies, and procedures of a particular licensed auditor or audit firm.
+(2) The FMA may publish a copy of the report on an internet site maintained by or on behalf of the FMA.
+
+### Subpart 6A — Directions and orders
+
 ### 70 FMA may issue directions
-(1) Subsection (2) applies if, after a quality review is completed, the FMA is satisfied on reasonable grounds that the systems, policies, and procedures of the audit firm or the licensed auditor are not sufficient in terms of—
+(1) Subsection (2) applies if the FMA is satisfied on reasonable grounds that the systems, policies, and procedures of the audit firm or the licensed auditor are not sufficient in terms of—
   (a) promoting compliance with—
     (i) the requirements imposed by or under this Act and other enactments that relate to the conduct of FMC audits; or
     (ii) auditing and assurance standards; or
@@ -837,15 +856,10 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
 (5) The FMA may order that an order under section 71 is to take effect immediately or at some later time.
 
 ### 73 FMA must prepare annual report
-(1) The FMA must, no later than 6 months after the start of each financial year of the FMA, prepare a report on the quality reviews that have been carried out under this subpart in the previous financial year.
-(2) The FMA must, no later than 1 month after preparing a report under subsection (1), publish a notice in the Gazette that—
-  (a) states that it has prepared a report under subsection (1); and
-  (b) specifies where a copy of the report may be inspected or obtained.
-(3) The FMA must, after publishing a notice in the Gazette under subsection (2), publish a copy of the report on an Internet site maintained by or on behalf of the FMA.
+[Repealed]
 
 ### 74 FMA may prepare reports about particular quality reviews
-(1) The FMA may prepare a report on a quality review of the systems, policies, and procedures of a particular licensed auditor or audit firm.
-(2) The FMA may publish a copy of the report on an Internet site maintained by or on behalf of the FMA.
+[Repealed]
 
 ### Subpart 7 — Investigations by FMA
 
@@ -931,7 +945,7 @@ The FMA may take over and perform a regulatory function of an accredited body (i
 ### Subpart 1 — Amendments to other enactments
 
 ### 82 Amendments to other Acts
-The enactments specified in the Schedule are amended in the manner indicated in that schedule.
+[Repealed]
 
 ### 83 Amendment to Securities Regulations 2009
 (1) This section amends the Securities Regulations 2009.
@@ -1121,6 +1135,7 @@ Nothing in section 8 or 9 applies to the Auditor-General (and, accordingly, the 
 ### 93 Protection from liability for accredited bodies and others
 (1) An accredited body is not liable for anything it may do or fail to do in the course of the performance or exercise or intended performance or exercise of its functions, powers, or duties under this Act, unless it is shown that it acted in bad faith or without reasonable care.
 (2) An officer, an employee, or a person acting on behalf of an accredited body is not liable for anything he or she may do or say or fail to do or say in the course of the performance or exercise or intended performance or exercise of the accredited body's functions, powers, or duties under this Act, unless it is shown that he or she acted in bad faith.
+(3) Despite subsections (1) and (2), this section does not affect or limit any person’s liability for an offence under this Act or any other enactment.
 
 ### 94 Sharing of information and documents with FMA
 (1) An accredited body may provide to the FMA any information, or a copy of any document, that the accredited body—
@@ -1154,28 +1169,22 @@ Nothing in section 8 or 9 applies to the Auditor-General (and, accordingly, the 
 (2) In subsection (1), specified body means an accredited body, the Registrar, or the FMA.
 (3) A person who is convicted of an offence under subsection (1) is liable on conviction to a fine not exceeding $50,000.
 
-## Schedule  — Amendments to other Acts relating to auditor regulation
+## Schedule 1 — Transitional, savings, and related provisions
 
-### 198 Appointment of partnership
-(1) A partnership may be appointed by the firm name to be the auditor of a company if,—
-  (a) in the case of a company that is an issuer, the partnership is a registered audit firm:
-  (b) in any other case, all or some of the partners are persons who are qualified to be appointed as auditors of the company.
-(2) The appointment of a partnership by the firm name to be the auditor of a company is deemed, despite section 199, to be the appointment of,—
-  (a) in the case of a company that is an issuer, all the partners in the firm, from time to time, who are licensed auditors:
-  (b) in any other case, all the partners in the firm from time to time.
-(3) If a partnership that includes persons who are not qualified to be appointed as auditors of a company is appointed as auditor of a company, the persons who are not qualified to be appointed as auditors must not act as auditors of the company.
-(4) In this section and section 199, issuer, registered audit firm, and licensed auditor have the same meanings as in section 6 of the Auditor Regulation Act 2011.
+### Part 1 — Provisions relating to Regulatory Systems (Economic Development) Amendment Act 2025
 
-| Auditor Regulation Act 2011 | section 38 |
-| --- | --- |
+### 1 Interpretation
+In this Part,—
+  - **amended** means amended by Part 2 of the Regulatory Systems (Economic Development) Amendment Act 2025
+  - **commencement date** means the date on which Part 2 of the Regulatory Systems (Economic Development) Amendment Act 2025 comes into force.
 
-### 15A Auditor-General may ask for quality review in respect of audits of issuers
-(1) The Auditor-General may ask the Financial Markets Authority to arrange for a quality review to be carried out of the systems, policies, and procedures applying to the employees of the Auditor-General who assist in the carrying out of audits of issuers under this Act.
-(2) The purpose of a quality review under this section is to provide the Auditor-General with advice on whether those systems, policies, and procedures are satisfactory in terms of—
-  (a) promoting, in relation to audits of issuers under this Act, compliance with the auditing and assurance standards that apply to those audits; and
-  (b) otherwise promoting reasonable care, diligence, and skill in the carrying out of those audits.
-(3) The Auditor-General must take reasonable steps to ensure that the period between quality reviews carried out under this section does not exceed 4 years.
-(4) The Financial Markets Authority may—
-  (a) prepare a report on a quality review carried out under this section; and
-  (b) include recommendations in the report.
-(5) The Auditor-General must have regard to a report prepared under subsection (4) (but is not required to comply with any recommendations).
+### 2 First plan published under amended section 52
+Despite amended section 52(1), the FMA must publish its first plan under amended section 52 within 3 years of publishing its last plan under section 52 (as in force immediately before the commencement date).
+
+### 3 First report on each accredited body published under amended section 55
+The first 4-year period under amended section 55, in relation to an accredited body, is calculated—
+  (a) from the date of the last report prepared by the FMA under section 55 (as in force immediately before the commencement date) that relates to the accredited body; or
+  (b) if there is no previous report on the accredited body, from the date on which the body was accredited (whether before or after the commencement date).
+
+### 4 First report on quality reviews prepared under section 69A
+The first 4-year period under section 69A is calculated from the date of the last report prepared by the FMA under section 73 (as in force immediately before the commencement date).
