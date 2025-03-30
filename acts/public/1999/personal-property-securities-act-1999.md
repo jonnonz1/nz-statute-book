@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2024-03-01_
+_Consolidation as at 2025-03-30_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -1393,7 +1393,8 @@ A secured party may not charge any fees for compliance with a demand given under
 (1) Data in a registration may be removed from the register—
   (a) when the registration is no longer effective; or
   (b) on the registration of a financing change statement discharging or partially discharging the registration; or
-  (c) if the Registrar is satisfied that the data is frivolous or vexatious.
+  (c) if the Registrar is satisfied that the data is frivolous or vexatious; or
+  (d) in accordance with section 170B.
 (2) The Registrar must, before he or she makes a decision under subsection (1)﻿(c), give the secured party notice to show cause, within 10 working days of the date on which the notice is given, why the data is not frivolous or vexatious.
 (3) If the secured party fails within 10 working days of the date on which the notice is given to show cause to the Registrar's satisfaction why the data is not frivolous or vexatious, the Registrar may, in the Registrar's discretion, remove the data from the register.
 (4) If data is removed from the register under subsection (1)﻿(c), the court may, on the application of the secured party, make an order directing that the data be restored to the register if it is satisfied that the data is neither frivolous nor vexatious.
@@ -1402,6 +1403,16 @@ A secured party may not charge any fees for compliance with a demand given under
 
 ### 170A Correction of errors or omissions
 The Registrar may, with the consent of the secured party, correct any clerical error or omission made by the Registrar in a registration.
+
+### 170B Registrar must remove registration for failure to pay prescribed fee
+(1) This section applies if—
+  (a) a person has registered a financing statement or financing change statement but has failed to pay a prescribed fee in relation to the registration in accordance with the regulations; and
+  (b) the Registrar has given the person a notice requiring them to pay the prescribed fee within 10 working days of the date on which the notice is given; and
+  (c) the person has failed to pay the prescribed fee within that 10-working-day period.
+(2) The Registrar must remove data from the register in respect of the registration.
+(3) If the Registrar acts under subsection (2),—
+  (a) the financing statement or financing change statement must be treated as if it had not been registered; and
+  (b) the registration must be treated as having not come into force.
 
 **Searches of register**
 
