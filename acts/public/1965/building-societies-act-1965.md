@@ -1,5 +1,5 @@
 # Building Societies Act 1965
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2025-03-30_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to building societies
 
@@ -183,14 +183,43 @@ Section 9E applies notwithstanding the fact that a person referred to in any of 
 **Establishment and incorporation of societies**
 
 ### 13 Mode of establishing society
-Any 20 or more persons may establish a society under this Act by—
+(1) Any 20 or more persons may establish a society under this Act by—
   (a) agreeing upon rules for the government of the society, being rules that conform to the requirements of this Act relating to rules of building societies; and
   (b) sending to the Registrar for registration a copy of those rules, signed by not less than 20 of those persons and by the intended secretary or other officer.
+(2) Subject to subsection (4) and section 13A, the Registrar must not register a copy of the rules or send the building society a certificate of incorporation unless—
+  (a) the society has a director who lives in—
+    (i) New Zealand; or
+    (ii) an enforcement country (within the meaning of section 2(1) of the Companies Act 1993) and is a director or officer of a body corporate that is incorporated in an enforcement country; and
+  (b) the first 20 individuals who became members of the society are ordinarily resident in New Zealand; and
+  (c) the society's principal place of business is in New Zealand; and
+  (d) if the society is not also a registered bank, the society—
+    (i) has an open NBDT regulated offer of debt securities; and
+    (ii) carries on the business of borrowing and lending at all times after its rules are registered under this Act.
+(3) Subject to section 13A, the building society must ensure that at all times it meets the requirements of subsection (2)﻿(a) and (c).
+(4) Despite subsection (2)﻿(d), a society may be registered under subsection (2) even if it does not comply with paragraph (d).
+(5) However, the society must, within 12 months of its registration, comply with subsection (2)﻿(d) and continue to comply with it thereafter.
+(6) If the society fails to comply with subsection (5) within the 12-month period, the Registrar must—
+  (a) deregister the rules of the society; and
+  (b) cancel the registration of the society under section 124.
+(7) In this section,—
+  - **debt security** has the same meaning as in section 4(1) of the Non-bank Deposit Takers Act 2013
+  - **NBDT** has the same meaning as in section 4(1) of the Non-bank Deposit Takers Act 2013
+  - **NBDT regulated offer** has the same meaning as in section 4(1) of the Non-bank Deposit Takers Act 2013
+  - **ordinarily resident in New Zealand** , in relation to an individual, means—
+    (a) the individual has their home in New Zealand; or
+    (b) New Zealand is their place of permanent abode even though they are temporarily absent from New Zealand.
+
+### 13A Transitional arrangements
+(1) Subsections (2) and (3) apply to a society whose rules were registered immediately before the commencement of section 13(2).
+(2) The society continues to be registered on and after commencement and the society may continue in operation, but the society must, within 12 months of the date on which section 13(2) commences, comply with section 13(2)﻿(a), (c), and (d) and continue to comply with those provisions thereafter.
+(3) If the society fails to comply with subsection (2) within the 12-month period, the Registrar must—
+  (a) deregister the rules of the society, and amend the registers accordingly; and
+  (b) cancel the registration of the society under section 124.
 
 ### 14 Registration of rules of society
 (1) The Registrar may refer the rules sent to the Registrar under section 13 to the Solicitor-General to ensure they comply with the requirements of this Act relating to rules of building societies.
 (2) If the Solicitor-General considers that the rules do not comply with those requirements, he or she may notify the society of the ways in which they do not comply.
-(3) If the Registrar is satisfied that the rules comply with those requirements, the Registrar must—
+(3) If the Registrar is satisfied that the rules comply with those requirements and that the requirements of section 13(2)﻿(a) to (d) are satisfied, the Registrar must—
   (a) register the rules; and
   (b) send a certificate of incorporation to the building society.
 
@@ -813,7 +842,7 @@ Every society must comply with subpart 2 of Part 7 of the Financial Markets Cond
 **Annual return**
 
 ### 103 Duty to make annual return
-(1) Every society shall, in the first 3 months of each financial year, send to the Registrar for registration a return relating to its affairs for the previous financial year:
+(1) Every society must, within 4 months of its balance date (within the meaning of section 41 of the Financial Reporting Act 2013), send to the Registrar for registration a return relating to its affairs for the previous financial year:
   provided that a society need not make a return under this subsection in the financial year in which it is incorporated.
 (2) The annual return shall contain such information and be in such form as may be prescribed.
 (2A) The annual return must be signed by—
