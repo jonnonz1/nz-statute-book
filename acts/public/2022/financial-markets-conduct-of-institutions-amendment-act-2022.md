@@ -1,5 +1,5 @@
 # Financial Markets (Conduct of Institutions) Amendment Act 2022
-_Consolidation as at 2023-07-25_
+_Consolidation as at 2025-03-31_
 
 ### 1 Title
 This Act is the Financial Markets (Conduct of Institutions) Amendment Act 2022.
