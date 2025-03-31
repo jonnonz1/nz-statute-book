@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 2021
-_Consolidation as at 2023-12-20_
+_Consolidation as at 2025-03-31_
 
 ### 1 Title
 This Act is the Reserve Bank of New Zealand Act 2021.
@@ -1621,6 +1621,9 @@ The board of the Bank must supply to the Minister of Finance any information req
 ### 202 Policy advice
 (1) On request by the Minister, the Bank must provide advice to the Minister on any matter that is connected with the functions of the Bank.
 (2) The Bank may also provide advice to the Minister, at any time, on any matters or subjects within the responsibility of the Bank.
+
+### 202A Consent to licence under Financial Markets Conduct Act 2013
+If the Financial Markets Authority has asked for the Bank’s consent under section 409A or clause 91 of Schedule 4 of the Financial Markets Conduct Act 2013, the Bank must consider that request in accordance with that provision.
 
 ## Part 5 — Financial and accountability matters
 
