@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2021–22, GST, and Remedial Matters) Act 2022
-_Consolidation as at 2024-03-28_
+_Consolidation as at 2025-03-31_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2021–22, GST, and Remedial Matters) Act 2022.
@@ -2437,7 +2437,7 @@ Repeal section 225AA.
     (c) it is not undesirable to disclose the information; and
     (d) the information is reasonably necessary for the purpose referred to in subclause (1).
 (2) Repeal schedule 7, part C, subpart 1, clause 36.
-(3) Subsection (2) is repealed on 1 April 2025.
+(3) Subsection (2) is repealed on 1 April 2027.
 
 ### 232 Schedule 8 amended (Reporting of income information by individuals and treatment of certain amounts)
 (1) In schedule 8, part B, clause 2(2)﻿(a), replace section 25A with section 26B.
