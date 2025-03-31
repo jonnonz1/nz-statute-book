@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2025-03-31_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -58,6 +58,7 @@ This Act has the following additional purposes:
     (iia) imposing other obligations on providers of financial advice services and persons who give financial advice:
     (iib) providing for disclosure and conduct obligations for providers of client money or property services:
     (iii) imposing other conduct obligations on providers of discretionary investment management services and on their custodians:
+    (iiia) providing for financial institutions to treat consumers fairly, including by requiring those institutions to establish, implement, maintain, and comply with effective fair conduct programmes:
     (iv) providing for the making of regulations regulating the holding and application of investor funds and property by issuers of derivatives:
   (g) Part 7 provides for financial reporting obligations:
   (ga) Part 7A provides for climate-related disclosure obligations:
@@ -196,6 +197,8 @@ This Act has the following additional purposes:
     (d) an unincorporated body (including a partnership)
   - **equity security** has the meaning set out in section 8(2)
   - **exhibiting films to the public** means to exhibit to the public films within the meaning of section 2 of the Films, Videos, and Publications Classification Act 1993
+  - **fair conduct principle** has the meaning set out in section 446C
+  - **fair conduct programme** means a fair conduct programme under subpart 6A of Part 6
   - **financial advice** has the meaning set out in section 431C(1)
   - **financial advice product** means—
     (a) a financial product (as defined in section 7); or
@@ -210,6 +213,7 @@ This Act has the following additional purposes:
     (a) means an individual who is registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 in relation to a financial advice service; but
     (b) does not include a financial advice provider
   - **financial benchmark** has the meaning set out subsections (6) and (7)
+  - **financial institution** has the meaning set out in section 446E
   - **financial markets** —
     (a) means the financial markets in New Zealand; and
     (b) includes—
@@ -261,6 +265,7 @@ This Act has the following additional purposes:
       (ii) the value of the assets in the scheme is less than the value of the liabilities in respect of the scheme, including contingent liabilities (and for this purpose section 4(4) of the Companies Act 1993 applies in respect of the scheme as if it were a company)
   - **inspection period** means the period commencing on the third working day after the day on which notice of intention to inspect is served on the issuer by the person concerned and ending with the eighth working day after the day of service
   - **interim stop order** has the meaning set out in section 465
+  - **intermediary** , in subpart 6A of Part 6, has the meaning set out in section 446Q
   - **investment authority** has the meaning set out in section 432A(3)
   - **investment manager** means, in relation to a managed investment scheme, a person to whom a manager of the scheme has contracted the investment of some or all of the scheme property
   - **investor** includes—
@@ -290,11 +295,15 @@ This Act has the following additional purposes:
   - **licensed market services** means those market services—
     (a) that are required to be licensed under Part 6; or
     (b) for which a person holds a licence under Part 6 (whether or not required to do so)
+  - **licensed NBDT** has the same meaning as in section 4(1) of the Non-bank Deposit Takers Act 2013
   - **limited disclosure document** or , in relation to an offer referred to in clause 26(1) of Schedule 1, means a limited disclosure document for the offer required by regulations made for the purposes of that clause
   - **listed issuer** means—
     (a) a person that is a party to a listing agreement with a licensed market operator in relation to a licensed market (and includes a licensed market operator that has financial products quoted on its own licensed market):
     (b) a person to which paragraph (a) previously applied, in respect of any action or event or circumstance to which this Act applied at that time
   - **listing rules** means the rules for a financial product market that deal with the matters set out in section 328(3)﻿(a) to (e)
+  - **Lloyd’s** means the society of that name incorporated by the Imperial Act known as the Lloyd’s Act 1871
+  - **Lloyd’s managing agent** means a person who has the permission of Lloyd’s to manage 1 or more syndicates and carry on underwriting and other functions on behalf of 1 or more Lloyd’s underwriters
+  - **Lloyd’s underwriter** means an underwriting member of Lloyd’s that is treated as being a licensed insurer under section 204 of the Insurance (Prudential Supervision) Act 2010
   - **local authority** has the meaning set out in section 5(1) of the Local Government Act 2002 (and see also section 8 of the Local Government Borrowing Act 2011)
   - **managed investment product** has the meaning set out in section 8(3)
   - **managed investment scheme** has the meaning set out in section 9
@@ -314,6 +323,7 @@ This Act has the following additional purposes:
     (a) acting as a manager of a registered scheme:
     (b) acting as an independent trustee of a restricted scheme:
     (c) acting as a provider of a discretionary investment management service:
+    (ca) acting as a financial institution:
     (d) acting as a derivatives issuer:
     (e) acting as a custodian in respect of a registered scheme or a discretionary investment management service:
     (ea) acting as a provider of a financial advice service:
@@ -407,7 +417,9 @@ This Act has the following additional purposes:
   - **Reserve Bank** means the Reserve Bank of New Zealand
   - **restricted communication** has the meaning set out in section 464
   - **restricted scheme** means a scheme that is registered on the register of managed investment schemes as a KiwiSaver scheme, a superannuation scheme, or a workplace savings scheme and that is identified as a restricted scheme on that register
-  - **retail client** , in relation to a financial advice service or a client money or property service, has the meaning set out in clause 3 of Schedule 5
+  - **retail client** ,—
+    (a) in relation to a financial advice service or a client money or property service, has the meaning set out in clause 3 of Schedule 5:
+    (b) in subpart 6A of Part 6, has the meaning set out in section 446P
   - **retail investor** has the meaning set out in clause 35 of Schedule 1
   - **retail service** has the meaning set out in clause 35 of Schedule 1
   - **retirement scheme** means any of the following schemes for the purposes of any enactment:
@@ -4033,6 +4045,7 @@ The regulations made under section 382 may, without limiting that section,—
   (ea) subpart 5A regulates the giving of financial advice and the provision of financial advice services:
   (eb) subpart 5B provides disclosure and conduct obligations for providers of client money or property services:
   (f) subpart 6 regulates the provision of retail discretionary investment management services under a licence and the provision of related custodial services by a custodian:
+  (fa) subpart 6A regulates the conduct of financial institutions:
   (g) subpart 7 provides for the making of regulations on the holding and application of investors' funds and property by derivatives issuers (whether or not they are licensed or are making regulated offers of derivatives):
   (ga) subpart 7A provides for additional purposes relating to licences to act as an administrator of a financial benchmark, and additional powers in respect of licensees, authorised bodies, or contributors to financial benchmarks:
   (h) subpart 8 identifies the civil liability provisions under this Part.
@@ -4044,6 +4057,9 @@ The regulations made under section 382 may, without limiting that section,—
   (b) a discretionary investment management service:
   (c) a prescribed intermediary service:
   (d) a client money or property service.
+(1A) For the service of acting as a financial institution, see—
+  (a) section 446B (which provides for subpart 6A to apply to certain financial services and associated products that are provided to consumers in New Zealand); and
+  (b) section 446E (which provides for registered banks, licensed insurers, and licensed NBDTs to be financial institutions).
 (2) For other licensed market services that relate to regulated offers, see section 47 as to the territorial scope of Part 3.
 
 ### 387A Other provisions relating to financial advice services and client money or property services
@@ -4057,6 +4073,7 @@ A person must not provide any of the following market services without holding, 
   (b) acting as an independent trustee of a restricted scheme:
   (ba) acting as a provider of a financial advice service (see section 431D):
   (c) acting as a provider of a discretionary investment management service (see subparts 4 to 6):
+  (ca) acting as a financial institution (see subpart 6A):
   (d) acting as a derivatives issuer in respect of a regulated offer of derivatives that is made by the derivatives issuer (see subpart 5).
 
 ### 389 Exemptions from need for market services licence
@@ -4074,6 +4091,13 @@ Exemptions for DIMS
 (3) A person is exempt from the licensing requirement under section 388(c) in respect of a service (unless a declaration applies under subpart 3 of Part 9) to the extent that—
   (a) the service is not a retail service (see clause 35 of Schedule 1); orExampleA service provider may provide a discretionary investment management service to a number of investors using a model portfolio. As long as no retail investor is within the relevant class of investors, the provider need not be a DIMS licensee.
   (b) the service is a prescribed exempt service.
+Exemptions for service of acting as financial institution
+(4) A person is exempt from the licensing requirement under section 388(ca) in respect of a service to the extent that—
+  (a) the person acts as a Lloyd’s underwriter; or
+  (b) the service is a prescribed exempt service.
+Regulations may prescribe terms and conditions of exemption
+(5) The exemptions in subsections (2)﻿(b), (3)﻿(b), and (4)﻿(a) and (b) are subject to the prescribed terms and conditions (if any).
+(6) See section 449A, which relates to prescribed terms and conditions in connection with the exemption for Lloyd’s underwriters under subsection (4)﻿(a).
 
 ### 390 When providers of other market services may be licensed
 (1) In addition, a person may hold a market services licence—
@@ -4207,7 +4231,8 @@ The FMA must, after receiving an application under section 395, issue a licence 
     (i) engage an entity to give regulated financial advice to P’s retail clients on P’s behalf:
     (ii) engage an individual through 1 or more interposed persons (as described in section 431E(b)) to give advice to P’s retail clients on P’s behalf:
   (c) if the licence includes an authorisation under paragraph (b), impose limits or restrictions on that authorisation (including, for example, by requiring the entity or an interposed person to be authorised by a licence (whether as licensee or an authorised body) to provide a financial advice service, or to be registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008, or both):
-  (d) prohibit (whether absolutely, in specified circumstances, or unless specified requirements are met) P from engaging a financial adviser to give regulated financial advice on P’s behalf if P knows or ought to know that the financial adviser is also engaged by another financial advice provider to give regulated financial advice on that other provider’s behalf.
+  (d) prohibit (whether absolutely, in specified circumstances, or unless specified requirements are met) P from engaging a financial adviser to give regulated financial advice on P’s behalf if P knows or ought to know that the financial adviser is also engaged by another financial advice provider to give regulated financial advice on that other provider’s behalf:
+  (e) if P may be an intermediary in relation to the provision of any relevant service or associated product to consumers (as those terms are defined in subpart 6A), impose requirements to ensure that those consumers are treated fairly (and those requirements may relate to any aspect of P’s involvement in the provision of those services or products regardless of whether it involves P giving financial advice).
 (5) In the case of a licence to act as an administrator of a financial benchmark, a condition referred to in subsection (1) may also impose conditions to achieve the purposes set out in section 448B (for example, to ensure that the benchmark complies with applicable international requirements).
 
 ### 404 Licensee may apply for variation of conditions
@@ -4256,6 +4281,13 @@ The FMA may suspend (for a specified period or until a specified requirement is 
 ### 409 Effect of expiry, suspension, or cancellation of licence on appointments
 (1) The expiry or cancellation of a licence does not, of itself, terminate an appointment held by the licensee or any authorised body (but, if the person continues to hold the appointment and does not obtain a licence, or authorisation under a licence, that covers the appointment, the person may contravene section 388).
 (2) If a licence is suspended, the person or persons to whom the suspension relates are taken not to hold, or be authorised by, that licence while the suspension is in effect.
+
+### 409A Restriction on suspending or cancelling licence to act as financial institution
+(1) The FMA must not suspend or cancel a licence that covers the service of acting as a financial institution unless the Reserve Bank has given its consent.
+(2) The Reserve Bank may withhold its consent only if the Reserve Bank is satisfied,—
+  (a) in a case where the licensee is a registered bank or a licensed NBDT, that withholding the consent is necessary for maintaining a sound and efficient financial system:
+  (b) in a case where the licensee is a licensed insurer, that withholding the consent is necessary for maintaining a sound and efficient insurance sector.
+(3) This section does not prevent the FMA from exercising a power under section 403 or 414(2).
 
 ### Subpart 3 — Monitoring and enforcement of licences
 
@@ -4949,6 +4981,292 @@ In this Act,—
 (2) Those sections apply as if every reference to a client were to the investor and every reference to client money or client property were to investor money or investor property.
 (3) This section does not limit the application of those sections to a DIMS licensee or a custodian as a provider of a client money or property service.
 
+### Subpart 6A — Regulating conduct of financial institutions
+
+### 446A Overview
+(1) This subpart provides for financial institutions to treat consumers fairly by—
+  (a) requiring financial institutions to establish, implement, and maintain an effective fair conduct programme; and
+  (b) requiring financial institutions to comply with the programme; and
+  (c) requiring financial institutions and intermediaries to comply with regulations that regulate incentives.
+(2) Subsection (1) is only a guide to the general scheme and effect of this subpart.
+
+### 446B Territorial scope of subpart
+(1) This subpart applies to the provision of a financial institution’s relevant services or associated products to consumers in New Zealand.
+(2) For the purposes of subsection (1), a relevant service or an associated product is provided to consumers in New Zealand if a consumer in New Zealand receives the service or product, unless the financial institution demonstrates that it has taken all reasonable steps to ensure that consumers in New Zealand may not receive the service or product.
+
+**Fair conduct principle**
+
+### 446C What is the fair conduct principle
+(1) The fair conduct principle is that a financial institution must treat consumers fairly.
+(2) The requirement to treat consumers fairly includes—
+  (a) paying due regard to consumers’ interests; and
+  (b) acting ethically, transparently, and in good faith; and
+  (c) assisting consumers to make informed decisions; and
+  (d) ensuring that the relevant services and associated products that the financial institution provides are likely to meet the requirements and objectives of likely consumers (when viewed as a group); and
+  (e) not subjecting consumers to unfair pressure or tactics or undue influence.
+(3) Subsection (2) does not limit subsection (1).
+
+### 446D When fair conduct principle applies
+(1) The fair conduct principle applies when a financial institution—
+  (a) is designing any relevant service or any associated product; or
+  (b) offers to provide any relevant service or any associated product to a consumer; or
+  (c) provides any relevant service or any associated product to a consumer; or
+  (d) has any dealings or interactions with a consumer in connection with any relevant service or any associated product (for example, responding to a complaint or handling a claim under an insurance contract).
+(2) The fair conduct principle also applies to a financial institution when an intermediary is involved in the provision of any of the financial institution’s relevant services or associated products to a consumer.
+(3) Subsection (1)﻿(a) applies only to the extent that the relevant service or associated product will be provided to consumers.
+
+**Key definitions**
+
+### 446E Meaning of financial institution
+In this Act, a person is a financial institution if it—
+  (a) is a registered bank, a licensed insurer, or a licensed NBDT; and
+  (b) is in the business of providing 1 or more relevant services.
+
+### 446F Meaning of relevant service and associated product
+(1) In this subpart, relevant service—
+  (a) means any of the following:
+    (i) acting as an insurer:
+    (ii) being a creditor under a consumer credit contract:
+    (iii) any financial service referred to in section 5(1)﻿(a), (ab), (d), (f) to (ia), (ib)﻿(i) to (v), or (ic) to (l) of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 where that service is a retail service (as defined in subsection (3)):
+    (iv) acting as an intermediary for any services referred to in subparagraphs (i) to (iii); but
+  (b) does not include a service of a class excluded by the regulations (but those regulations may not exclude the services referred to in paragraph (a)﻿(i) and (ii)).
+(2) A product is an associated product in relation to a relevant service if it is a financial advice product that a consumer acquires under the service.ExampleA company (A) provides the financial service of acting as an insurer. A contract of insurance entered into by A under the service is an associated product.
+(3) In this section, a service is a retail service if that service is or will be received by—
+  (a) a retail client; or
+  (b) a class of persons where there is at least 1 retail client in that class.
+
+**Fundamental duties to meet fair conduct principle**
+
+### 446G Duty to establish, implement, and maintain effective fair conduct programme
+(1) Every financial institution must establish, implement, and maintain an effective fair conduct programme.
+(2) The financial institution must—
+  (a) ensure that the programme complies with section 446J; and
+  (b) otherwise comply with the duty in subsection (1) in the prescribed manner.
+(3) A fair conduct programme means policies, processes, systems, and controls that are designed to ensure the financial institution’s compliance with the fair conduct principle.
+
+### 446H Duty to make information about fair conduct programme publicly available
+(1) Every financial institution must ensure that the information about its fair conduct programme that is set out in subsection (2) is—
+  (a) published on an Internet site maintained by, or on behalf of, the financial institution at all reasonable times; and
+  (b) provided to any person who requests the information.
+(2) The information is—
+  (a) a summary of key matters about the fair conduct programme that is in sufficient detail to assist consumers to—
+    (i) be reasonably aware of how the financial institution will comply with the fair conduct principle; and
+    (ii) make informed decisions about dealings and interactions with the financial institution in relation to the relevant services and associated products that the financial institution provides; and
+    (iii) understand how to make a complaint about those relevant services and associated products; and
+  (b) all other prescribed information about the fair conduct programme.
+(3) The information must be provided under subsection (1)﻿(b)—
+  (a) as soon as practicable but, in any event, within 5 working days after the financial institution receives the request; and
+  (b) free of charge.
+(4) The financial institution must otherwise comply with this section in the prescribed manner.
+
+### 446I Duty to comply with fair conduct programme
+(1) Every financial institution must take all reasonable steps to comply with its fair conduct programme.
+(2) The financial institution must comply with that duty in the prescribed manner (if any).
+
+### 446J Minimum requirements for fair conduct programme
+(1) The fair conduct programme must be in writing and include effective policies, processes, systems, and controls for—
+  (a) enabling the financial institution to meet all of its legal obligations to consumers, including under this Act, the Fair Trading Act 1986, the Credit Contracts and Consumer Finance Act 2003, the Consumer Guarantees Act 1993, and the Financial Service Providers (Registration and Dispute Resolution) Act 2008; and
+  (b) designing, and managing the provision of, the financial institution’s relevant services and associated products to consumers, including by—
+    (i) providing for the methods by which the relevant services and associated products are provided to consumers (distribution methods) to operate in a manner that is consistent with the fair conduct principle; andExampleA life insurer provides a life insurance product directly through its Internet site (method 1). It also provides the product indirectly through insurance brokers (method 2). The life insurer’s fair conduct programme needs to provide for both method 1 and method 2 to operate consistently with the fair conduct principle.
+    (ii) regularly reviewing whether the distribution methods are operating in a manner that is consistent with the fair conduct principle; and
+    (iii) ensuring that any deficiencies identified under subparagraph (ii) are remedied within a reasonable time; and
+    (iv) regularly reviewing the relevant services or associated products that are provided to consumers on an ongoing basis to determine whether they are likely to continue to meet the requirements and objectives of those consumers (when viewed as a group); and
+    (v) regularly reviewing whether enhancements or improvements in the financial institution’s relevant services or associated products should be made available to those consumers (when viewed as a group); and
+    (vi) ensuring that any enhancements or improvements identified under subparagraph (v) are made available within a reasonable time; and
+  (c) identifying, monitoring, and managing risks associated with conduct that fails to comply with the fair conduct principle, including—
+    (i) having clearly defined roles, responsibilities, and accountability arrangements in relation to identifying, monitoring, and managing those risks; and
+    (ii) requiring records to be maintained that are sufficient to allow an assessment to be made of the financial institution’s performance in complying with the fair conduct principle; and
+    (iii) requiring regular and comprehensive reporting about those risks, and about failures to comply with the fair conduct principle, to the board or other governing body of the financial institution; and
+  (d) identifying conduct that fails to comply with the fair conduct principle and taking reasonable steps to mitigate any actual or potential adverse effects of the failure; and
+  (e) requiring the financial institution’s employees and agents to follow the procedures or processes that are necessary or desirable to support the financial institution’s compliance with the fair conduct principle; and
+  (f) requiring initial and regular ongoing training for each of those employees on the following matters to the extent that the training is relevant to their work in providing the financial institution’s relevant services or associated products to consumers:
+    (i) the relevant services or associated products in respect of which the employee carries out work; and
+    (ii) the fair conduct programme and the procedures or processes referred to in paragraph (e) that the employee must follow; and
+  (g) checking that each of those employees has completed that training and has a reasonable understanding of the matters that have been covered by that training; and
+  (h) managing or supervising each of those employees to ensure that they are supporting the financial institution’s compliance with the fair conduct principle, and monitoring whether those persons are giving that support, including by—
+    (i) obtaining reasonable assurance that each employee is competent to carry out the range of work for which they will be, or are, employed (in relation to the financial institution’s relevant services or associated products); and
+    (ii) setting conduct expectations for those persons; and
+    (iii) establishing robust and transparent procedures or processes for dealing with misconduct by those persons; and
+    (iv) monitoring whether consumers have been treated by those persons in a manner that is consistent with the fair conduct principle; and
+  (i) designing and managing incentives to mitigate or avoid the actual or potential adverse effects of incentives on the interests of consumers, so far as is reasonably practicable; and
+  (j) communicating with consumers about the financial institution’s relevant services or associated products in a timely, clear, concise, and effective manner; and
+  (k) ensuring that there are in place methods for regularly reviewing, and systematically identifying deficiencies in, the effectiveness of the programme; and
+  (l) ensuring that any deficiencies identified are promptly remedied; and
+  (m) complying with all requirements prescribed for the purposes of this section.
+(2) In considering what policies, processes, systems, and controls are effective for the purposes of subsection (1), the financial institution must have regard to the following:
+  (a) the nature, size, and complexity of its business; and
+  (b) the relevant services and associated products it offers; and
+  (c) the methods by which it provides relevant services and associated products to consumers; and
+  (d) the types of consumers it deals with, including consumers in vulnerable circumstances; and
+  (e) the types of intermediaries that are involved in the provision of its relevant services and associated products, including the nature and extent of the following:
+    (i) their involvement; and
+    (ii) their legal obligations in connection with that involvement (for example, under subpart 5A in the case of financial advice providers); and
+  (f) the types of agents that are engaged to carry out work in relation to the financial institution’s relevant services or associated products, including the nature and extent of that work and of the authority of those agents; and
+  (g) any other factors that may be provided for in regulations.
+(3) Subsection (1)﻿(a) to (l) does not limit what may be prescribed by regulations under section 546(1)﻿(oa) (in particular, those regulations may prescribe additional, or more detailed, requirements relating to the matters set out in subsection (1)﻿(a) to (l)).
+(4) Despite subsection (1), a fair conduct programme—
+  (a) must not impose in relation to an intermediary or agent a requirement of a kind prescribed for the purposes of this paragraph:
+  (b) is not required to impose in relation to an intermediary or agent a requirement of a kind prescribed for the purposes of this paragraph.
+(5) Section 546(1)﻿(oa) (which allows regulations to prescribe requirements for the programme) is subject to subsection (4).
+
+**Duties relating to incentives regulations**
+
+### 446K Financial institution must comply with incentives regulations
+Every financial institution must comply with the regulations made under section 546(1)﻿(og) (which relate to incentives).
+ExampleA company (A) acts as an insurer. A offers motor vehicle insurance to consumers.A car dealer (B) offers A’s insurance to its customers when they buy cars. A gives B a commission when A’s insurance products are sold.A must comply with the regulations relating to incentives.
+
+### 446L Intermediary must comply with incentives regulations
+Every intermediary that offers or gives an incentive to any of its employees or agents or to another intermediary in connection with the provision of a financial institution’s relevant services or associated products must also comply with the regulations made under section 546(1)﻿(og) (which relate to incentives).
+ExampleFrom the example in section 446K, the car dealer (B), in turn, offers incentives to its sales staff to encourage them to sell more of A’s insurance.B must comply with the regulations relating to incentives.
+
+### 446M Meaning of incentive
+(1) In this subpart and section 546, incentive, in relation to a relevant service or any associated product, means a commission, benefit, or other incentive (whether monetary or non-monetary and whether direct or indirect) that is offered or given to a person (A) if—ExamplesExample 1A person (A) is given a bonus based on A’s individual performance in selling life policies. A’s performance is measured by reference to the value of the premiums payable. The bonus is an incentive.Example 2A person (A) is a manager of a team of people who sell life policies. A will be entitled to a paid holiday if the team sells a certain number of life policies. The paid holiday is an incentive.
+  (a) the commission, benefit, or other incentive is offered or given to A in connection with A (directly or indirectly) being involved in the provision of the service or the products; and
+  (b) A’s entitlement to the commission, benefit, or other incentive, or the nature or value of the commission, benefit, or other incentive, is determined or calculated in any way by reference (directly or indirectly) to the volume or value of the services or products.
+(2) Subsection (1) applies—
+  (a) regardless of whether A’s entitlement, or the nature or value, is also determined or calculated by reference to 1 or more matters unrelated to the volume or value of the services or products involved:ExampleIn example 1 in subsection (1), A is only entitled to the bonus if a performance indicator relating to customer satisfaction is also satisfied. This factor does not prevent the bonus from being an incentive.
+  (b) regardless of whether A’s entitlement, or the nature or value, is determined or calculated by reference to a target or other threshold:ExampleA financial adviser is paid a commission based on a fixed percentage of premiums paid under insurance contracts arranged by the adviser. The commission is an incentive regardless of the fact that no target is involved.
+  (c) whether A is an intermediary or is an employee or agent of a financial institution or an intermediary.
+(3) Determining or calculating a matter by reference to the volume or value of the services or products involved includes (without limitation) determining or calculating the matter—
+  (a) by reference to the number of consumers to whom the services or products are provided or the number of contracts entered into (for example, the number of bank accounts opened, the number of credit cards issued, or the number of policies underwritten); or
+  (b) by reference to any amount paid or payable in connection with the services or products (for example, fees, charges, commissions, interest, or premiums); or
+  (c) by reference to any amount related to the services or products (for example, the amount of credit advanced under a consumer credit contract); or
+  (d) by reference to a person’s performance compared to others in relation to the volume or value of the services or products involved; orExampleIn example 1 in subsection (1), A’s bonus is $5,000 if A is in the top 20% of sellers (based on the value of the premiums payable).
+  (e) by reference to a person’s performance in a period in relation to the volume or value of the services or products involved compared with their own performance in another period; or
+  (f) by reference to avoiding or preventing something in connection with the volume or value of the services or products involved; orExampleA deals with requests from consumers to cancel insurance contracts. A is paid a bonus for every consumer they convince to not cancel a contract.
+  (g) on a linear basis (that is, on a per service or per product basis).ExampleA is paid a 5% commission for each life policy that A arranges.
+
+**Miscellaneous provisions**
+
+### 446N FMA must obtain consent of Commerce Commission before commencing certain proceedings
+(1) The FMA must, before commencing a proceeding under subpart 3 of Part 8 for a contravention of this subpart, obtain the consent of the Commerce Commission if the FMA considers that the conduct in question is likely to contravene any provision of—
+  (a) the Credit Contracts and Consumer Finance Act 2003; or
+  (b) the Fair Trading Act 1986.
+(2) However, a failure to obtain consent does not affect any proceedings commenced by the FMA.
+
+### 446O Pecuniary penalty order may not be made if failure relates only to certain legal obligations
+A pecuniary penalty order may not be made for a contravention, or involvement in a contravention, of section 446I if the contravention arises only in relation to a failure to meet a legal obligation referred to in section 446J(1)﻿(a).
+
+### 446P Other definitions used in subpart
+(1) In this subpart and section 546,—
+  - **arrange** , in relation to a contract for a service or for the acquisition of a product, includes to negotiate, solicit, or procure the contract
+  - **associated product** has the meaning set out in section 446F(2)
+  - **consumer** , in relation to—
+    (a) the relevant service of acting as an insurer or an associated product, means any of the following:
+      (i) a policyholder under a consumer insurance contract or a contract of insurance that provides for life insurance or health insurance (or both):
+      (ii) any other person who is specified or referred to in a contract of a kind referred to in subparagraph (i), whether by name or otherwise, as a person to whom the benefit of the insurance cover provided by the contract extends:
+      (iii) a person who is offered insurance under a contract of a kind referred to in subparagraph (i):
+    (b) the relevant service of acting as a creditor under a consumer credit contract or an associated product, means either of the following:
+      (i) a debtor under a consumer credit contract:
+      (ii) a person who is offered credit under a consumer credit contract:
+    (c) a relevant service referred to in section 446F(1)﻿(a)﻿(iii) or an associated product, means either of the following:
+      (i) a person who receives the service as a retail client:
+      (ii) a person who is offered the service and who would be a retail client if they received the service:
+    (d) a relevant service of acting as an intermediary for a service referred to in paragraph (a), (b), or (c), means a person who is a consumer under that paragraph
+  - **consumer credit contract** —
+    (a) has the same meaning as in section 11 of the Credit Contracts and Consumer Finance Act 2003 (and for that purpose sections 12 to 14 and 15(1)﻿(a), (c), and (ca) of that Act apply and section 15(1)﻿(b) of that Act must be disregarded); but
+    (b) does not include—
+      (i) a contract referred to in section 15(1)﻿(d) of that Act unless the contract is of a class prescribed by regulations made under this Act to be a class of consumer credit contract for the purposes of this definition; or
+      (ii) a lease referred to in section 16 of that Act
+  - **consumer insurance contract** —
+    (a) means a contract of insurance entered into by a New Zealand policyholder wholly or predominantly for personal, domestic, or household purposes (see section 446S); and
+    (b) also includes a contract referred to in subsection (2); but
+    (c) does not include—
+      (i) a contract to the extent that it provides for life insurance or health insurance; or
+      (ii) a contract that is subject to a certificate under section 446T(1)
+  - **contract of insurance** has the same meaning as in section 7 of the Insurance (Prudential Supervision) Act 2010 (but does not include a contract of reinsurance within the meaning of that Act)
+  - **creditor** has the same meaning as in section 5 of the Credit Contracts and Consumer Finance Act 2003
+  - **health insurance** means insurance against a liability to pay fees or charges relating to the provision of a health service (within the meaning of section 5(1) of the Health Practitioners Competence Assurance Act 2003)
+  - **incentive** has the meaning set out in section 446M
+  - **insurer** means a person who—
+    (a) carries on insurance business in New Zealand (within the meaning of section 8 of the Insurance (Prudential Supervision) Act 2010); and
+    (b) enters into any 1 or more of the following with 1 or more New Zealand policyholders:
+      (i) a consumer insurance contract:
+      (ii) a contract of insurance that provides for life insurance or health insurance (or both)
+  - **involved** has the meaning set out in section 446Q(3) and (4)
+  - **life insurance** means insurance of the kind described in section 84(1)﻿(a) to (f) of the Insurance (Prudential Supervision) Act 2010
+  - **New Zealand policyholder** has the same meaning as in section 6 of the Insurance (Prudential Supervision) Act 2010
+  - **relevant service** has the meaning set out in section 446F
+  - **retail client** —
+    (a) has the same meaning as in section 49 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008; but
+    (b) does not include a person who has given a certificate for the service under section 446T(3).
+(2) For the purposes of paragraph (b) of the definition of consumer insurance contract in subsection (1), a contract of the kind referred to in this subsection is a contract of insurance to the extent that—ExampleA bank enters into a contract of insurance with an insurer.The bank then offers credit cards to its customers that provide them the benefit of travel insurance cover under that contract.The bank enters into the contract of insurance for commercial purposes. However, the contract is a consumer insurance contract to the extent that its customers have the benefit of the travel insurance cover for their personal purposes.
+  (a) it is entered into by the policyholder in order to provide insurance cover for 1 or more other persons, or it is varied or extended in order to provide cover for 1 or more other persons; and
+  (b) those other persons are not parties to the contract; and
+  (c) those other persons have the benefit of that insurance cover wholly or predominantly for personal, domestic, or household purposes.
+
+### 446Q Meaning of intermediary
+(1) In this Act, a person is an intermediary if—ExamplesExample 1A bank enters into a master agreement with a company (A). The agreement provides for A to arrange home loans for the bank. It provides for a commission to be paid to A for arranging the home loans and for the processes to be followed by A. A is an intermediary.Independently of the bank, A arranges with mortgage brokers, including a person (B), for home loans to be arranged through A’s master agreement. The mortgage brokers and A agree on the commission, and the support services, that A will give to the mortgage brokers for arranging the loans.B arranges a loan for a consumer and submits the application through A’s processes and the master agreement. The bank pays A a commission for the loan. A deducts a portion of the commission for A’s involvement in arranging the loan and pays the balance of the commission to B.B is also an intermediary.Example 2A broker arranges contracts of insurance for policyholders. The broker is paid only by the policyholders (and has no arrangement with insurers that directly or indirectly provides for the payments). The broker is not an intermediary.
+  (a) the person is involved in the provision of a relevant service or an associated product to a consumer (see subsections (3) and (4)); and
+  (b) the person is paid or provided with a commission or other consideration in connection with that involvement; and
+  (c) the commission or consideration is paid or provided, directly or indirectly, by or on behalf of any of the following:
+    (i) the financial institution that provides the service or product:
+    (ii) if the person referred to in paragraphs (a) and (b) is itself a financial institution, any other financial institution or person that provides the service or product:ExampleA bank (A) is involved in the provision of interests in a KiwiSaver scheme issued by an entity. The entity pays A a commission for that involvement. A is acting as an intermediary in relation to the KiwiSaver scheme.
+    (iii) another person who is an intermediary in relation to the service or products.
+(2) However, a person is not an intermediary if the person is involved only as—
+  (a) an employee of a financial institution; or
+  (b) an employee of an intermediary.
+(3) In this subpart, a person is involved in the provision of a relevant service or an associated product to a consumer if the person does either or both of the following:ExampleA person (W) maintains an Internet site that gives consumers information about 1 or more insurance contracts. Consumers are able to take steps towards entering into those contracts using the Internet site. W receives a fee from the insurer when a consumer enters into a contract using the Internet site. W is involved because W procured the contract. W is an intermediary.
+  (a) arranges a contract for the service or for the acquisition of the product:
+  (b) gives regulated financial advice in relation to the product.
+(4) However, a person is not involved in the provision of a relevant service or an associated product to a consumer merely because the person carries out 1 or more of the following activities:
+  (a) distributing an advertisement or other promotional material:
+  (b) carrying on a prescribed occupation and acting in relation to the service or product in the ordinary course of carrying on that occupation:
+  (c) carrying out a prescribed activity.
+
+### 446R Protection of person who reports contravention or failure to comply
+(1) This section applies if an employee or an agent (A) of a financial institution or of an intermediary—
+  (a) reasonably believes that a person has, in relation to a relevant service or an associated product,—
+    (i) contravened a provision of this Act; or
+    (ii) otherwise failed to comply with the fair conduct principle; and
+  (b) reports that belief to the FMA.
+(2) If A makes the report in good faith,—
+  (a) no civil, criminal, or disciplinary proceedings may be brought against A as a result of A having made the report; and
+  (b) no person may terminate A’s employment or appointment as a result of A having made the report; and
+  (c) no tribunal, body, or authority that has jurisdiction in respect of A’s professional conduct may make an order against, or do any act in relation to, A as a result of A having made the report.
+
+### 446S Presumption relating to consumer insurance contract
+In any proceedings under this Act in which a party claims that an insurance contract is a consumer insurance contract, it is presumed that the contract is a consumer insurance contract unless the contrary is established.
+
+### 446T Effect of certificate from policyholder or client
+(1) An insurance contract is not a consumer insurance contract if the policyholder (P) certifies in writing before entering into the contract that P is entering into it wholly or predominantly for business purposes.
+(2) Subsection (1) does not apply to a contract referred to in section 446P(2).
+(3) A person (P) is not a retail client in relation to a relevant service referred to in section 446F(1)﻿(a)﻿(iii) if P certifies in writing before receiving the service that P is receiving the service as a wholesale client (within the meaning of section 49(2) of the Financial Service Providers (Registration and Dispute Resolution) Act 2008).
+(4) Subsection (1) or (3) does not apply if the financial institution, or the person who obtains the certificate, knew, or had reason to believe, at the time the certificate was given, that the certificate was false or misleading in a material particular.
+(5) A certificate is effective only if—
+  (a) the certificate is in a written document that is separate from the insurance contract or the contract for the relevant service; and
+  (b) P confirms that P has read and understood the consequences of giving the certificate (including that P will have fewer protections from unfair conduct).
+
+### 446U Revocation of certification
+(1) A person may revoke a certificate given under section 446T(3) in relation to a relevant service by giving to the financial institution that provides the service a signed notification to that effect.
+(2) A revocation is effective only in relation to a service provided after it is given.
+
+### 446V Application of subpart to Lloyd's underwriters
+(1) Sections 446G, 446H, 446I, 446J, and 446K do not apply to a Lloyd’s underwriter.
+(2) However, sections 446G(1), (2)﻿(b), and (3), 446I, and 446K apply to a Lloyd’s managing agent to the extent that they act as a managing agent in connection with any 1 or more of the following that are entered into with 1 or more New Zealand policyholders:
+  (a) consumer insurance contracts:
+  (b) contracts of insurance that provide for life insurance or health insurance (or both).
+(3) The following apply for the purposes of subsection (2):
+  (a) the provisions referred to in that subsection (and sections 446C, 446D, and 449(3)﻿(h), (i), and (k)) apply to the Lloyd’s managing agent with all necessary modifications as if it were the financial institution that is acting as the insurer:
+  (b) the Lloyd’s managing agent must ensure that—
+    (i) its fair conduct programme is in writing and complies with all requirements prescribed for the purposes of this subparagraph; and
+    (ii) information about its fair conduct programme is made publicly available in the prescribed manner:
+  (c) if the Lloyd’s managing agent contravenes any of sections 446G(1), (2)﻿(b), or (3), 446I, or 446K or paragraph (b), the managing agent has civil liability under subpart 3 of Part 8 for the contravention:Guidance noteSee section 449, which specifies the provisions referred to in paragraph (c) as Part 6 services provisions and, accordingly, civil liability provisions under section 485.
+  (d) if the Lloyd’s managing agent contravenes or is likely to contravene any of sections 446G(1), (2)﻿(b), or (3), 446I, or 446K or paragraph (b), the FMA may exercise any 1 or more of its enforcement powers in respect of the matter (see, for example, the FMA’s powers to make direction orders under section 468).
+(4) Subsections (2) and (3) apply regardless of where the Lloyd’s managing agent is resident, is incorporated, or carries on business.
+
+### 446W Review of subpart and licensing requirement for financial institutions
+(1) The Minister must—
+  (a) commence a review of the operation and effectiveness of—
+    (i) the licensing requirement under section 388 for the service of acting as a financial institution; and
+    (ii) this subpart; and
+  (b) prepare a report on that review.
+(2) The review must be commenced before the fifth anniversary of the day on which this subpart comes into force.
+(3) The Minister must, in carrying out the review,—
+  (a) consider how effectively the licensing requirement and this subpart operate with other legislation and regulatory requirements that apply to financial institutions; and
+  (b) ensure that the people and organisations that the Minister thinks appropriate are consulted.
+(4) The Minister must present a copy of the report to the House of Representatives as soon as practicable after the report has been completed (but, in any event, before the seventh anniversary of the day on which this subpart comes into force).
+
 ### Subpart 7 — Holding and application of investor funds and property by derivatives issuers
 
 ### 447 Application of regulations made under this subpart
@@ -5066,7 +5384,11 @@ No civil or criminal proceedings may be brought against a person by reason of th
   (ea) section 431P, to the extent that a person may be civilly liable for a contravention of the provision under section 431H (false or misleading statements and omissions):
   (eb) section 431Y (false or misleading statements and omissions):
   (f) section 445 (requirements for custodian):
-  (g) section 446 (certain client money or property service obligations under subpart 5B apply to DIMS licensees and custodians).
+  (g) section 446 (certain client money or property service obligations under subpart 5B apply to DIMS licensees and custodians):
+  (h) sections 446G, 446H, and 446I (duties to have effective fair conduct programme, to make information about it publicly available, and to comply with it):
+  (i) section 446K (financial institution’s duty to comply with incentives regulations):
+  (j) section 446L (intermediary’s duty to comply with incentives regulations):
+  (k) section 446V(3)﻿(b) (Lloyd’s managing agent’s duties relating to its fair conduct programme).
 (4) A contravention of any of the following may give rise to civil liability (see subpart 3 of Part 8), including a pecuniary penalty not exceeding $200,000 in the case of an individual or $600,000 in any other case:
   (a) section 411 (licensee must deliver reports to FMA):
   (b) section 412 (licensee must report certain matters):
@@ -5088,8 +5410,14 @@ No civil or criminal proceedings may be brought against a person by reason of th
   (j) section 438 (action that must be taken on limit breaks):
   (k) section 440 (general prohibition on transactions giving related party benefits):
   (ka) section 448C, 448D, or 448G (directions to a contributor or an administrator of a financial benchmark):
+  (kb) section 449A (requirements relating to exemption for Lloyd’s underwriters):
   (l) those conditions imposed on a market services licence by the regulations that are stated by those regulations to be Part 6 services provisions:
   (m) those provisions of the regulations made under subpart 7 that are stated by those regulations to be Part 6 services provisions.
+
+**Requirements relating to exemption for Lloyd’s underwriters**
+
+### 449A Lloyd’s, Lloyd’s underwriter, or Lloyd’s managing agent must comply with term or condition of licensing exemption for Lloyd’s underwriters
+If a term or condition prescribed under section 546(1)﻿(cb) imposes a requirement on Lloyd’s, a Lloyd’s underwriter, or a Lloyd’s managing agent, Lloyd’s, the Lloyd’s underwriter, or the Lloyd’s managing agent (as the case may be) must comply with the requirement.
 
 ## Part 7 — Financial reporting
 
@@ -5714,7 +6042,7 @@ A stop order may, in relation to the offer, financial products, registered schem
   (g) an infringement offence provision:
   (h) an obligation under Schedule 3 or under a trust deed for a Schedule 3 scheme:
   (i) clause 21, 22(1)﻿(b) or (c), 25, or 39 of Schedule 4 (transitional requirements):
-  (j) a term or condition of an exemption granted under subpart 2 of Part 9.
+  (j) a term or condition of an exemption granted under subpart 2 of Part 9 or an exemption from a licensing requirement under section 546(1)﻿(c) to (cc).
 (2) If the FMA is satisfied that, by engaging in any conduct, the relevant person is likely to contravene a provision referred to in subsection (1) in the future, the FMA may make a direction order—
   (a) whether or not the relevant person has previously contravened the provision; and
   (b) whether or not there is an imminent danger of substantial damage to any person if the provision is contravened.
@@ -5735,6 +6063,15 @@ A stop order may, in relation to the offer, financial products, registered schem
     (i) deregister A under the FSP Act; and
     (ii) prevent A for a specified period from being reregistered for a financial advice service under the FSP Act:
   (c) direct the Registrar to suspend A's registration under the FSP Act for a period of no more than 12 months or until A meets specified conditions relating to the registration (but, in any case, not for a period of more than 12 months).
+(3) Subsection (4) applies if the FMA is satisfied that—
+  (a) the relevant person is Lloyd’s or a Lloyd’s underwriter, and that, by engaging in any conduct, the relevant person has contravened, or is likely to contravene, section 449A; or
+  (b) the relevant person is a Lloyd’s managing agent who, by engaging in any conduct, has contravened, or is likely to contravene,—
+    (i) section 449A; or
+    (ii) any provision of subpart 6A of Part 6 (as applied under section 446V).
+(4) A direction order may do any of the following (whether or not in addition to an order under subsection (1)):
+  (a) in the case of a contravention, or likely contravention, by Lloyd’s, prohibit all or any Lloyd’s underwriters from relying on the exemption in section 389(4)﻿(a):
+  (b) in the case of a contravention, or likely contravention, by a Lloyd’s underwriter, prohibit the Lloyd’s underwriter from relying on the exemption in section 389(4)﻿(a):
+  (c) in the case of a contravention, or likely contravention, by a Lloyd’s managing agent who acts for 1 or more Lloyd’s underwriters, prohibit all or any of those Lloyd’s underwriters from relying on the exemption in section 389(4)﻿(a).
 
 **Order to prohibit use of simplified disclosure PDS**
 
@@ -5902,6 +6239,7 @@ A declaration of contravention must state the following:
   (c) may order the person to pay to the Crown a pecuniary penalty that the court considers appropriate if it is satisfied that the person has contravened, or been involved in a contravention of, a civil liability provision.
 (3) However, a pecuniary penalty order may not be made—
   (a) for a contravention, or involvement in a contravention, of section 19:
+  (ab) in the circumstances referred to in section 446O:
   (b) in the circumstances referred to in section 431U, 461C, or 461ZF.
 (4) The court may make a pecuniary penalty order against a director who is treated as contravening a civil liability provision under section 534 (but only if the FMA has applied for the order against the director).
 
@@ -5993,9 +6331,9 @@ A civil liability order under section 497 may—
     (i) vary the agreement or any collateral arrangement as specified in the order and, if the court thinks fit, declare the agreement or arrangement to have had effect as so varied on and after a date before the order was made, as specified in the order:
     (ii) cancel the agreement and, if the court thinks fit, declare the cancellation to have had effect on and after a date before the order was made, as specified in the order:
     (iii) require A to take any action the court thinks fit to reinstate the parties as near as may be possible to their former positions:
-  (c) restrain the exercise of rights attaching to financial products, or the exercise of relevant interests, or declare an exercise of those rights or relevant interests to be void and of no effect:
+  (c) restrain the exercise of rights attaching to financial advice products, or the exercise of relevant interests, or declare an exercise of those rights or relevant interests to be void and of no effect:
   (d) restrain the issue or transfer of financial products or restrain any distribution due in relation to financial products:
-  (e) restrain the acquisition or disposal of financial products or of relevant interests, or restrain the registration of any transfer of that kind:
+  (e) restrain the acquisition or disposal of financial advice products or of relevant interests, or restrain the registration of any transfer of that kind:
   (f) direct the disposal of financial products or of relevant interests (including the person or class of persons to which the products or interests must, or must not, be disposed of) and direct the payment of the proceeds of any disposal:
   (g) require financial products to be forfeited and require the issuer to cancel the forfeited financial products:
   (h) cancel an agreement for the acquisition or disposal of financial products or relevant interests.
@@ -6059,11 +6397,16 @@ A person (A) is not, without the leave of the court, entitled to rely on the def
 ### 505 More than 1 civil liability order may be made for same conduct
 The court may make a civil liability order of one kind against a person even though the court has made another civil liability order of a different kind against the person for the same conduct.ExamplesThe court may make a compensatory order and a pecuniary penalty order for the same conduct.The court may make a civil liability order requiring forfeiture of financial products and declaring a previous exercise of voting rights attaching to those products to be void.
 
-### 506 Only 1 pecuniary penalty order may be made for same conduct
-If conduct by a person constitutes a contravention, or the involvement in the contravention, of 2 or more civil liability provisions, proceedings may be brought against that person for the contravention, or involvement in the contravention, of any 1 or more of the provisions, but no person is liable to more than 1 pecuniary penalty order for the same conduct.
+### 506 Only 1 pecuniary penalty may be imposed for same conduct
+(1) This section applies if conduct by a person constitutes a contravention, or the involvement in the contravention, of—
+  (a) 2 or more civil liability provisions; or
+  (b) 1 or more civil liability provisions and 1 or more other pecuniary penalty provisions.
+(2) Proceedings may be brought against that person for the contravention, or involvement in the contravention, of any 1 or more of the provisions, but no person is liable to more than 1 pecuniary penalty for the same conduct.
+(3) In this section, a pecuniary penalty provision is a provision of another Act the contravention of which may give rise to civil liability to a pecuniary penalty.
+(4) Subsection (2) is subject to section 446N.
 
 ### 507 No pecuniary penalty and fine for same conduct
-A person cannot be ordered to pay a pecuniary penalty and be liable for a fine under this Act, the Fair Trading Act 1986, or the Financial Service Providers (Registration and Dispute Resolution) Act 2008 for the same conduct.
+A person cannot be ordered to pay a pecuniary penalty and be liable for a fine under this Act, the Fair Trading Act 1986, the Credit Contracts and Consumer Finance Act 2003, or the Financial Service Providers (Registration and Dispute Resolution) Act 2008 for the same conduct.
 
 **Limitation defences**
 
