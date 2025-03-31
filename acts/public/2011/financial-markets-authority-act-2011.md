@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2025-03-31_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
@@ -36,6 +36,7 @@ The purpose of this Act is to—
       (iii) a person who acts, in respect of regulated products, as a supervisor, a manager, an investment manager, an administration manager, a custodian, or a qualified FMC auditor (within the meaning of those terms in section 6(1) of the Financial Markets Conduct Act 2013):
       (iiia) a listed issuer (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013):
       (iiib) an operator of an FMI within the meaning of section 5 of the Financial Market Infrastructures Act 2021 (other than a pure payment system within the meaning of section 10(2) of that Act):
+      (iiic) a Lloyd’s managing agent (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013):
       (iv) an FMC reporting entity (within the meaning of section 451 of the Financial Markets Conduct Act 2013); and
       (v) a climate reporting entity (within the meaning of section 461O of the Financial Markets Conduct Act 2013); and
     (c) also includes any of the following:
