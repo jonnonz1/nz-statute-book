@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2025-03-31_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -128,6 +128,7 @@ In this Act, unless the context otherwise requires,—
     (iv) acting as a derivatives issuer:
     (v) acting as a provider of prescribed intermediary services:
     (vi) acting as an administrator of a financial benchmark:
+    (vii) acting as a financial institution:
   (ic) acting as a custodian in respect of a registered scheme or a discretionary investment management service provided by a DIMS licensee:
   (id) operating a financial product market:
   (j) changing foreign currency:
