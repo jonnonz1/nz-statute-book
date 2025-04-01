@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2025-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -81,6 +81,7 @@ This Act is the KiwiSaver Act 2006.
     (c) includes any other fee or charge prescribed to be a fee for the purposes of this Act; but
     (d) does not include a fee referred to in section 67 of the Financial Markets Authority Act 2011 or charged under regulations made under section 228(1)﻿(a) except in the context of those provisions
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
+  - **foreign superannuation withdrawal** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **gross salary or wages** means salary or wages before the deduction of tax (as tax is defined in section 3(1) of the Tax Administration Act 1994)
   - **guardian** has the same meaning as in the Care of Children Act 2004, but excludes a Oranga Tamariki guardian
   - **holding account** means the Inland Revenue KiwiSaver Holding Account established by the Commissioner under section 72
@@ -114,7 +115,7 @@ This Act is the KiwiSaver Act 2006.
     (b) includes, for the purposes of subpart 2 of Part 4 (and any regulations made under section 228 or 230 for the purposes of a matter dealt with in that subpart), any Ministers of the Crown who are jointly responsible for making an appointment under section 132 (if more than 1 Minister is authorised to act jointly)
   - **net value** means,—
     (a) in relation to contributions, the values of the contributions once appropriate debits and credits have been made for positive and negative returns; and
-    (b) in relation to a member’s accumulation, or a member’s interest, means the value of the member’s accumulation or member’s interest (as applicable) once any other appropriate debits and credits have been made to account for things like fees, permitted withdrawals, and positive and negative returns
+    (b) in relation to a member’s accumulation, a member’s QROPS accumulation, or a member’s interest, means the value of the member’s accumulation, the member’s QROPS accumulation, or member’s interest (as applicable) once any other appropriate debits and credits have been made to account for things like fees, permitted withdrawals, and positive and negative returns
   - **new employment** has the meaning given to it by sections 11 to 14
   - **New Zealand resident** means a person resident in New Zealand under section YD 1 or YD 2 (excluding section YD 2(2)) of the Income Tax Act 2007
   - **New Zealand superannuation qualification age** means the age specified in section 7(1) of the New Zealand Superannuation and Retirement Income Act 2001, irrespective of whether or not the particular person qualifies for New Zealand superannuation at that or any other age
@@ -138,6 +139,11 @@ This Act is the KiwiSaver Act 2006.
   - **product disclosure statement** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **provider** has the meaning given by section 5
   - **provisionally allocated** means provisionally allocated to a KiwiSaver scheme under section 50
+  - **QROPS** has the same meaning as in section YA 1 of the Income Tax Act 2007
+  - **QROPS accumulation** , in relation to a member of a KiwiSaver scheme, means the net value of the amount of the foreign superannuation withdrawal derived by the member from an interest in a superannuation scheme constituted in the United Kingdom and reinvested in the KiwiSaver scheme in accordance with section CF 3(2)﻿(b) of the Income Tax Act 2007 before 17 June 2015, whether directly or through 1 or more of the following:
+    (a) a KiwiSaver scheme:
+    (b) a QROPS:
+    (c) a superannuation scheme constituted outside New Zealand that is a qualifying recognised overseas pension scheme for the purposes of the Finance Act 2004 (UK)
   - **register of managed investment schemes** means the register of managed investment schemes kept under Schedule 2 of the Financial Markets Conduct Act 2013
   - **restricted scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **retirement scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
@@ -2158,6 +2164,20 @@ Sections 217 to 219 apply to the giving or supplying of a product disclosure sta
   (d) information relating to the administration of the estate of a person who is a deceased member of a scheme.
 (2) Nothing in subsection (1) removes an obligation imposed on a provider under this Act to communicate information.
 
+**Transfers of QROPS accumulation**
+
+### 220C Members may transfer QROPS accumulations to QROPS
+(1) A member may, at any time during that person’s membership of a KiwiSaver scheme, give notice to the provider of the scheme to transfer the member’s QROPS accumulation to a QROPS.
+(2) On notification by a member, the provider must, if the member has obtained the written consent of the QROPS to accept that transfer,—
+  (a) transfer the member’s QROPS accumulation to the QROPS; and
+  (b) give notice to the member of the amount so transferred.
+
+### 220D Providers may transfer QROPS accumulations to QROPS
+(1) A provider of a KiwiSaver scheme may, at any time during a person’s membership of that scheme, transfer the member’s QROPS accumulation to a QROPS in accordance with this section.
+(2) The provider must obtain the written consent of—
+  (a) the member to the transfer of the member’s QROPS accumulation to the QROPS; and
+  (b) the QROPS to receive the transfer of the member’s QROPS accumulation.
+
 **Miscellaneous provisions**
 
 ### 221 Refunds made by direct credit to bank account
@@ -2638,6 +2658,11 @@ An employee member may, at any time, take a savings suspension in accordance wit
 (1) A member may, at any time during that person’s membership of a KiwiSaver scheme, on application to the manager, apply to have the manager transfer the member’s accumulation to another KiwiSaver scheme.
 (2) On application by a member, the manager must, if the other KiwiSaver scheme indicates it will accept that person as a member, transfer the member’s accumulation to the other KiwiSaver scheme in accordance with subpart 3 of Part 2.
 (3) A member may, at any time during that person’s membership of a KiwiSaver scheme, be transferred to another KiwiSaver scheme in the circumstances provided for in, and in accordance with, this Act.
+
+### 16B Transfer of QROPS accumulation
+(1) A member may, at any time during that person’s membership of a KiwiSaver scheme, give notice to the provider of the scheme to transfer the member’s QROPS accumulation to a QROPS.
+(2) On notification by a member, the provider must, if the member has obtained the written consent of the QROPS to accept that transfer, transfer the member’s QROPS accumulation to the QROPS in accordance with section 220C.
+(3) A member’s QROPS accumulation may, at any time during that person’s membership of a KiwiSaver scheme, be transferred to a QROPS by the provider in the circumstances provided for in section 220D.
 
 ### 17 Crown contributions: tax credits
 Despite rules 4 to 14C, the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) may not be withdrawn—
