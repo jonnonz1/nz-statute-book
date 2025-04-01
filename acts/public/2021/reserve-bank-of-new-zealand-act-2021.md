@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 2021
-_Consolidation as at 2025-03-31_
+_Consolidation as at 2025-04-01_
 
 ### 1 Title
 This Act is the Reserve Bank of New Zealand Act 2021.
@@ -165,6 +165,7 @@ This Act binds the Crown.
     (ii) imposing prudential standards or other requirements; and
     (iii) monitoring compliance with, investigating conduct that constitutes or may constitute a contravention of, and enforcing that legislation; and
     (iv) taking appropriate action in respect of persons that have contravened, are contravening, or are likely to contravene that legislation or are otherwise in financial or other difficulties:
+  (ba) to manage and administer the depositor compensation scheme under the Deposit Takers Act 2023, including doing the things set out in section 195 of that Act:
   (c) to monitor the financial system, including by collecting and analysing information and publishing statistics and other information in connection with the financial system (for example, publishing a financial stability report under section 170); and
   (d) to monitor the needs of the public for bank notes and coins; and
   (e) to co-operate with—
@@ -463,7 +464,8 @@ The board must ensure that the Bank complies with subpart 8.
   - **standards** means any of the following:
     (a) fit and proper standards issued under section 36 of the Insurance (Prudential Supervision) Act 2010:
     (b) solvency standards issued under section 55 of the Insurance (Prudential Supervision) Act 2010:
-    (c) standards issued under section 31 of the Financial Market Infrastructures Act 2021.
+    (c) standards issued under section 31 of the Financial Market Infrastructures Act 2021:
+    (d) standards issued under subpart 2 of Part 3 of the Deposit Takers Act 2023.
 
 **Individual duties of members**
 
