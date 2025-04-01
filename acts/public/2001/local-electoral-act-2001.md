@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2024-07-31_
+_Consolidation as at 2025-04-01_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -111,7 +111,7 @@ The purpose of this Act is to modernise the law governing the conduct of local e
   - **member of a local authority** , in relation to a local authority, includes the mayor
   - **Minister** means the Minister of Local Government
   - **New Zealand method of counting single transferable votes** means the method of counting votes described in Schedule 1A of the Local Electoral Regulations 2001
-  - **nomination day** means the 57th day before polling day
+  - **nomination day** means the 71st day before polling day
   - **official document** includes any facsimile, electronic document, or electronic message created or transmitted by or to an electoral officer or other electoral official under this Act or regulations made under this Act
   - **official place** means any place at which there are provided, for the time being, opportunities or facilities for members of the public to—
     (a) vote; or
@@ -141,7 +141,7 @@ The purpose of this Act is to modernise the law governing the conduct of local e
     (e) any other method of voting (however described)
   - **voting period** , in relation to an election or poll, means—
     (a) if booth voting is the method of voting used at the election or poll, the period between 9 am and 7 pm on polling day and any earlier prescribed period:
-    (b) if postal voting is the method of voting used at the election or poll, the period of 22 and a half days ending with 12 noon on polling day:
+    (b) if postal voting is the method of voting used at the election or poll, the period of 32 and a half days ending with 12 noon on polling day:
     (c) if any other method of voting is used at the election or poll, the prescribed period during which an elector may cast a vote at the election or poll
   - **ward** means a ward established under this Act and resulting from the division, for electoral purposes, of the district of a territorial authority.
 (2) In this Act, every reference to the electoral officer is, unless the context otherwise requires, a reference to the electoral officer responsible for the conduct or undertaking of the election or poll or other thing to which the reference relates.
@@ -847,7 +847,7 @@ Two or more electors of a local government area or, in the case of an election i
 (2) If the local authority has passed a resolution under section 27 that takes effect at the next triennial election, every notice under subsection (1) must include—
   (a) notice of that resolution; and
   (b) a statement that a poll is required to countermand that resolution.
-(2A) Despite subsections (1) and (2), if, on or before the date referred to in subsection (1), the local authority has passed a resolution under section 31 and has specified a date for the holding of the poll that is on or before 14 March in the year before the next triennial general election, subsection (1) does not apply.
+(2A) Despite subsections (1) and (2), if, on or before the date referred to in subsection (1), the local authority has passed a resolution under section 31 and has specified a date for the holding of the poll that is on or before 28 March in the year before the next triennial general election, subsection (1) does not apply.
 (3) This section is subject to section 32.
 
 ### 29 Electors may demand poll
@@ -876,7 +876,7 @@ Two or more electors of a local government area or, in the case of an election i
   (a) the elector's name; and
   (b) the address for which the person is qualified as an elector of the local authority.
 (3A) If a valid demand is received after 11 December in the year that is 2 years before the next triennial general election, the poll required by the demand—
-  (a) must be held after 14 March in the year before that election; and
+  (a) must be held after 28 March in the year before that election; and
   (b) has effect in accordance with section 34(2) (which provides that the poll has effect for the purposes of the next but one triennial general election of the local authority and the subsequent triennial general election).
 (4) The chief executive of the local authority must, within 2 working days after receiving it, give notice to the electoral officer of every valid demand for a poll made in accordance with section 29 and this section.
 (5) This section is subject to section 32.
@@ -898,12 +898,12 @@ Sections 27 to 31 do not apply if—
 ### 33 Poll of electors
 (1) If the electoral officer for a local authority receives notice under section 30(4) or section 31(3), the electoral officer must, as soon as is practicable after receiving that notice, give public notice of the poll under section 52.
 (2) Despite subsection (1), if an electoral officer for a local authority receives 1 or more notices under both sections 30(4) and 31(3), or more than 1 notice under either section, in any period between 2 triennial general elections, the polls required to be taken under each notice may, to the extent that the result of those polls would take effect at the same election, and if it is practicable to combine those polls, be combined.
-(3) A poll held under this section must be held not later than 89 days after the date on which—
+(3) A poll held under this section must be held not later than 103 days after the date on which—
   (a) the notice referred to in subsection (1) is received; or
   (b) the last notice referred to in subsection (2) is received.
 (3A) Subsection (3) is subject to subsection (2), section 30(3A) and section 138A.
 (3B) Voters at a poll held under this section decide the proposal or proposals that are the subject of the poll by voting for one of the electoral systems named in the voting document or, as the case may require, expressing a preference in respect of each of the electoral systems named in the voting document.
-(4) Every poll under this section that is held in conjunction with a triennial general election or held after that election but not later than 14 March in the year immediately before the year in which the next triennial general election is to be held determines whether the electoral system to be used for the next 2 triennial general elections of the local authority and its local boards or community boards (if any) and any associated election is to be—
+(4) Every poll under this section that is held in conjunction with a triennial general election or held after that election but not later than 28 March in the year immediately before the year in which the next triennial general election is to be held determines whether the electoral system to be used for the next 2 triennial general elections of the local authority and its local boards or community boards (if any) and any associated election is to be—
   (a) the electoral system used at the previous general election of the local authority; or
   (b) the electoral system specified in any resolution under section 27; or
   (c) the electoral system specified in any demand submitted within the appropriate period of which the electoral officer has received notice under section 30(4) and, if notice of more than 1 such demand is received, one of the systems specified in those demands and, if so, which one; or
@@ -915,7 +915,7 @@ Sections 27 to 31 do not apply if—
   (d) the electoral system specified in any resolution of which the electoral officer has received notice under section 31(3).
 
 ### 34 Effect of poll
-(1) If a poll is held under section 33 in conjunction with a triennial general election or held after that election but not later than 14 March in the year immediately before the year in which the next triennial general election is to be held, the electoral system adopted or confirmed must be used—
+(1) If a poll is held under section 33 in conjunction with a triennial general election or held after that election but not later than 28 March in the year immediately before the year in which the next triennial general election is to be held, the electoral system adopted or confirmed must be used—
   (a) for the next 2 triennial general elections:
   (b) for any associated election:
   (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 258I or 258M of the Local Government Act 2002, until a further resolution under section 27 takes effect or a further poll held under section 33 takes effect, whichever occurs first.
@@ -1067,7 +1067,7 @@ The electoral officer must, as soon as practicable after the closing of the elec
     (iii) when and how persons may enrol or amend enrolment details; and
   (g)
   (h) containing any other information that is required or allowed to be included in the notice by regulations made under this Act.
-(2) Notice under subsection (1) must be given not later than 28 days before the earlier of—
+(2) Notice under subsection (1) must be given not later than 25 days before the earlier of—
   (a) the closing of the electoral roll; or
   (b) the day and time by which nominations must be received.
 (3) If an electoral officer is required to give public notice of more than 1 election or more than 1 poll, or both, the notices required to be given under this section may be combined.
@@ -1678,8 +1678,8 @@ The District Court Judge must determine whether,—
 ### 102 New election or poll if election or poll declared void
 (1) If an election or poll is declared void, a new election or poll must be held or taken under the same provisions, as far as practicable, as those applicable to the void election or poll.
 (2) The new election or poll must be held or taken,—
-  (a) in a case where the election or poll is declared void in the period beginning on 25 December in any year and ending on 8 November in the following year, as soon as is practicable, but not later than 89 days after the date on which the electoral officer is notified of the declaration:
-  (b) in a case where the election or poll is declared void in the period after 8 November and before 25 December in any year, on a day not more than 89 days after 27 December.
+  (a) in a case where the election or poll is declared void in the period beginning on 25 December in any year and ending on 25 October in the following year, as soon as is practicable, but not later than 103 days after the date on which the electoral officer is notified of the declaration:
+  (b) in a case where the election or poll is declared void in the period after 25 October and before 25 December in any year, on a day not more than 103 days after 27 December.
 (3) The only persons eligible to vote at the new election or poll are the persons who were eligible to vote at the void election or poll.
 (4) The electoral roll to be used for the new election or poll is the electoral roll used at the void election or poll, without any amendments or additions.
 (5) Despite subsections (3) and (4), if an election or poll is declared void as a result of an irregularity in the electoral roll, the District Court Judge may order that, for the purposes of the new election or poll,—
@@ -2055,7 +2055,7 @@ If, under section 117(3)﻿(b), a local authority or local board or community bo
 ### 120 Election to fill extraordinary vacancy
 (1) If an extraordinary vacancy is to be filled by an election,—
   (a) the chief executive of the local authority concerned must give notice of the vacancy to the electoral officer; and
-  (b) the election must be held not later than 89 days after the date on which the electoral officer receives notice of the vacancy, and the provisions of this Act and any regulations made under this Act apply accordingly and with any necessary modifications.
+  (b) the election must be held not later than 103 days after the date on which the electoral officer receives notice of the vacancy, and the provisions of this Act and any regulations made under this Act apply accordingly and with any necessary modifications.
 (2) If an election is to be held under subsection (1), an election must be held at the same time to fill every extraordinary vacancy on the local authority or local board or community board—
   (a) that is unfilled at the time the extraordinary vacancy occurred; or
   (b) that is created after the extraordinary vacancy occurred and before the election commences.
@@ -2231,9 +2231,9 @@ In any proceedings for an offence in relation to any voting documents or other o
 
 ### 138A Special provision in relation to certain elections to fill extraordinary vacancies and certain polls
 (1) Despite section 33(3) and section 120(1),—
-  (a) if an electoral officer receives a notice under section 30(4), section 31(3), or section 120(1)﻿(a) in the period that begins on 28 September in any year and ends with the close of 20 November in that year, the polling day for the poll under section 33, or for the election under section 120(1), must be a day not earlier than 17 February in the following year; and
-  (b) if an electoral officer receives a notice under section 30(4), section 31(3), or section 120(1)﻿(a) in the period that begins on 21 November in any year and ends with the close of 15 December in that year, the polling day for the poll under section 33, or for the election under section 120(1), must be a day not earlier than 14 March in the following year; and
-  (c) if an electoral officer receives a notice under section 30(4), section 31(3), or section 120(1)﻿(a) in the period that begins on 16 December in any year and ends with the close of 12 January in the following year, the polling day for the poll under section 33, or for the election under section 120(1), must be a day not earlier than 11 April in that following year.
+  (a) if an electoral officer receives a notice under section 30(4), section 31(3), or section 120(1)﻿(a) in the period that begins on 14 September in any year and ends with the close of 20 November in that year, the polling day for the poll under section 33, or for the election under section 120(1), must be a day not earlier than 3 March in the following year; and
+  (b) if an electoral officer receives a notice under section 30(4), section 31(3), or section 120(1)﻿(a) in the period that begins on 21 November in any year and ends with the close of 15 December in that year, the polling day for the poll under section 33, or for the election under section 120(1), must be a day not earlier than 28 March in the following year; and
+  (c) if an electoral officer receives a notice under section 30(4), section 31(3), or section 120(1)﻿(a) in the period that begins on 16 December in any year and ends with the close of 12 January in the following year, the polling day for the poll under section 33, or for the election under section 120(1), must be a day not earlier than 24 April in that following year.
 (2) In any case to which paragraph (a) or paragraph (b) or paragraph (c) of subsection (1) applies, the requirements of this Act apply as if the notice referred to in the paragraph had been received by the electoral officer on the last day of the period specified in that paragraph.
 
 ### 139 Regulations
