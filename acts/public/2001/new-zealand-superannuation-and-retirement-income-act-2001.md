@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2024-06-05_
+_Consolidation as at 2025-04-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -82,7 +82,7 @@ The Social Security Act 2018 contains provisions relating to the administration,
 
 ### 5A Interpretation of Part 4 and Schedule 6
 In Part 4 and in Schedule 6, unless the context otherwise requires,—
-  - **Commissioner** means the office of the Retirement Commissioner continued by this Part
+  - **Commissioner** means the office of the Retirement Commissioner continued by Part 4
   - **Government** means the Executive Government of New Zealand
   - **Minister** means the Minister of the Crown who is, with the authority of the Prime Minister, responsible for the administration of Part 4.
 
@@ -216,8 +216,8 @@ The rate of New Zealand superannuation payable to a person is the appropriate ra
 ### 16 Annual adjustment of New Zealand superannuation: relationship to net average wage
 (1) The annual adjustment of New Zealand superannuation under section 15 must ensure that—
   (a) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union or in a de facto relationship, both of whom are qualified to receive New Zealand superannuation, is not less than 66% or more than 72.5% of the average ordinary time weekly earnings (males and females combined) as determined by the last QES before 1 March in each year (after the deduction of standard tax and the earner levies payable on those earnings):
-  (b) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a single person who is living alone is 65% of the weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union, both of whom are qualified to receive New Zealand superannuation:
-  (c) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a single person who is not living alone is 60% of the weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union, both of whom are qualified to receive New Zealand superannuation.
+  (b) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a single person who is living alone is 65% of the weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union or in a de facto relationship, both of whom are qualified to receive New Zealand superannuation:
+  (c) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a single person who is not living alone is 60% of the weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union or in a de facto relationship, both of whom are qualified to receive New Zealand superannuation.
 (2) In this section,—
   - **earner levies** means the levies payable under section 219(1) of the Accident Compensation Act 2001
   - **QES** means the Quarterly Employment Survey of wages published by Statistics New Zealand or, if that survey ceases to be published, any measure certified by the Government Statistician as being equivalent to that survey.
@@ -954,16 +954,16 @@ In this Part,—old law relating to employment of a person’s spouse or partner
 
 |  |  | $ |
 | --- | --- | --- |
-| 1 | (a)to a single person who is living alone | $606.67 a week |
-|  | (b)to a single person who is not living alone | $558.31 a week |
-|  | (c)to a person who is married or in a civil union or in a de facto relationship | $461.41 a week |
+| 1 | (a)to a single person who is living alone | $627.14 a week |
+|  | (b)to a single person who is not living alone | $576.80 a week |
+|  | (c)to a person who is married or in a civil union or in a de facto relationship | $476.47 a week |
 | 2 | [Repealed] |  |
-| 3 | Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation | An amount that, after income tax is deducted under tax code M (as stated in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994) is equal to $55.35 a week |
+| 3 | Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation | An amount that, after income tax is deducted under tax code M (as stated in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994) is equal to $56.58 a week |
 
 | 1 | Rate payable under clause 7 of Schedule 1AA to a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is not entitled to receive New Zealand superannuation or a veteran’s pension— |  |
 | --- | --- | --- |
-|  | aif, before 1 October 1991, the person was receiving (or had applied for and was entitled to receive) New Zealand superannuation, or a veteran’s pension, at the alternative rate specified in clause 2 of Schedule 1 of the Social Welfare (Transitional Provisions) Act 1990 | $922.82 a week (subject to Income Test 3) or the rate specified in paragraph (b), whichever is the greater |
-|  | bin any other case | $874.88 a week (subject to Income Test 3) |
+|  | aif, before 1 October 1991, the person was receiving (or had applied for and was entitled to receive) New Zealand superannuation, or a veteran’s pension, at the alternative rate specified in clause 2 of Schedule 1 of the Social Welfare (Transitional Provisions) Act 1990 | $952.94 a week (subject to Income Test 3) or the rate specified in paragraph (b), whichever is the greater |
+|  | bin any other case | $903.42 a week (subject to Income Test 3) |
 
 ## Schedule 2 — Specified Pacific countries
 
