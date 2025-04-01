@@ -1,5 +1,5 @@
 # Income Insurance Scheme (Enabling Development) Act 2022
-_Consolidation as at 2022-05-24_
+_Consolidation as at 2025-04-01_
 
 ### 1 Title
 This Act is the Income Insurance Scheme (Enabling Development) Act 2022.
