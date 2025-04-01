@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2025-03-29_
+_Consolidation as at 2025-04-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -29,7 +29,7 @@ The purposes of this Act are to—
   - **annual repayment threshold** means—
     (a) $19,084 for the tax year commencing on 1 April 2012 and for each subsequent tax year to which regulations referred to in paragraph (b) do not apply; or
     (b) the amount prescribed by regulations for a tax year and subsequent tax years
-  - **base interest rate** means the interest rate that applies for a tax year, calculated in accordance with the formula—a% = b% + 0.74%where—a%rounded to the nearest 1 decimal place is the interest rate for the relevant tax yearb%is the average, rounded to the nearest 2 decimal places, of the monthly average 10-year government bond yield rates published by the Reserve Bank of New Zealand for the 5 years ending in December in the year that precedes the relevant tax year
+  - **base interest rate** means the interest rate that applies for a tax year, calculated in accordance with the formula—a% = b% + 1.74%where—a%rounded to the nearest 1 decimal place is the interest rate for the relevant tax yearb%is the average, rounded to the nearest 2 decimal places, of the monthly average 10-year government bond yield rates published by the Reserve Bank of New Zealand for the 5 years ending in December in the year that precedes the relevant tax year
   - **borrower** means a person who has received or been charged with a loan advance and who has not fully repaid his or her consolidated loan balance
   - **borrower deduction** means—
     (a) a deduction from a borrower's salary or wages in accordance with section 39:
