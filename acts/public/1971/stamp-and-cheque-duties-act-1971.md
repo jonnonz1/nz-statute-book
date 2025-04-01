@@ -1,5 +1,5 @@
 # Stamp and Cheque Duties Act 1971
-_Consolidation as at 2025-03-29_
+_Consolidation as at 2025-04-01_
 
 > An Act to consolidate and amend the law relating to stamp duties
 
@@ -359,6 +359,18 @@ In this Part, unless the context otherwise requires,—
   (c) register the relevant transaction or class of transactions for the purposes of this Part; and
   (d) notify the approved issuer of that registration.
 (2) Registration of any transaction or class of transactions under this section shall take effect from the date upon which the Commissioner received the duly completed application for registration made by the approved issuer in accordance with section 86G.
+(3) If a person has not duly completed an application for registration of a security in accordance with section 86G by the date (the first interest date) that the first interest payment is made for which an NRWT liability arises under a transaction or class of transactions, the Commissioner may backdate the date of registration if the Commissioner is satisfied that the delay in making the application—
+  (a) was caused by an oversight; or
+  (b) occurred despite reasonable efforts by the person to make the application by the first interest date.
+(4) Without limiting the Commissioner’s discretion under subsection (3), the Commissioner may consider any of the following factors when determining whether the delay was caused by an oversight or occurred despite the person’s reasonable efforts:
+  (a) the explanation and evidence that the person has provided as to the cause of the error:
+  (b) the person’s history of compliance with their tax obligations:
+  (c) whether the documentation recording the money lent includes a clause dealing with approved issuer levy:
+  (d) whether the person has already paid an amount that would have been approved issuer levy if the security or securities had been registered and the person had been an approved issuer:
+  (e) the tax residence of the person over the term of the security:
+  (f) the duration of the delay in applying for the registration:
+  (g) whether the person has made a voluntary disclosure of the error.
+(5) The backdated date of registration referred to in subsection (3) must not be earlier than 1 April 2025.
 
 ### 86I Application of approved issuer levy and zero-rating
 (1) For the purposes of the NRWT rules of the Income Tax Act 2007, an exemption under a double tax agreement, and section 86J of this Act, and notwithstanding any provision of the NRWT rules of the Income Tax Act 2007, a payment of interest shall be treated as being paid by an approved issuer in respect of a registered security only where,—
