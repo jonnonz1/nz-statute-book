@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2025-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -1008,6 +1008,12 @@ Timing of income
 (3) The income is allocated to the income year in which the lessor receives the amount.
 Relationship with sections EI 5 and EI 6
 (4) Subsection (3) is overridden by sections EI 5 (Amount paid to lessor for non-compliance with covenant for repair) and EI 6 (Amount paid for non-compliance: when lessor ceases to own land).
+
+### CC 2B Compensation for land or buildings affected by emergency events
+An amount derived by a person under section FP 5(2) (Replacement property for land or buildings affected by emergency events) is income of the person.
+
+### CC 2C Compensation for improvements to land affected by emergency events
+An amount derived by a person under section FP 12(2) or (4) (Replacement property for improvements to land affected by emergency events) is income of the person.
 
 ### CC 3 Financial arrangements
 Income: party to financial arrangement
@@ -2145,7 +2151,7 @@ Repaid overpayments
     (ii) that employer considers that the person will not comply with the agreement in the future:
   (c) the amount is recoverable under section 248 of the Accident Compensation Act 2001.
 Meaning of accommodation
-(2) For the purposes of this section, and sections CE 1B to CE 1E, CW 16B to CW 16F, CW 17CB, CZ 23, CZ 23B, and CZ 29 to CZ 30 (which relate to accommodation provided in connection with employment), accommodation—
+(2) For the purposes of this section, and sections CE 1B to CE 1E, CW 16B to CW 16F, CW 17CB, CW 19B, CZ 23, CZ 23B, CZ 29 to CZ 30, and FP 22 (which relate to accommodation provided in connection with employment), accommodation—
   (a) includes—
     (i) board or lodging:
     (ii) the use of a house or living premises, or the use of part of a house or living premises, whether permanent or temporary:
@@ -2156,10 +2162,10 @@ Meaning of accommodation
     (iv) the use of a room or other dwelling provided at a remote location outside New Zealand when a person's employment duties require them to work at the location for a period and also require them to be absent from the location for a period, for example, miners in Australia who regularly fly to and from a mining camp and other similar employees.
 Meaning of employer
 (3) Employer,—
-  (a) in this section, in sections CE 1B, CW 16B to CW 16F, CZ 23B, and CZ 29 to CZ 30 (which relate to accommodation provided in connection with employment), and in the definition of employee, paragraph (e), includes a person, whether resident or non-resident, who, in connection with the employment or service of an employee of the employer,—
+  (a) in this section, in sections CE 1B, CW 16B to CW 16F, CZ 23B, CZ 29 to CZ 30, and FP 22 (which relate to accommodation provided in connection with employment), and in the definition of employee, paragraph (e), includes a person, whether resident or non-resident, who, in connection with the employment or service of an employee of the employer,—
     (i) provides accommodation for the employee at a distant workplace; or
     (ii) pays an amount for the employee's accommodation at a distant workplace:
-  (b) in sections CW 16B to CW 16F, CZ 23B, and CZ 29 to CZ 30, includes a company that is part of the same group of companies as the employer.
+  (b) in sections CW 16B to CW 16F, CZ 23B, CZ 29 to CZ 30, and FP 22, includes a company that is part of the same group of companies as the employer.
 Persons on shadow payrolls
 (3B) For the treatment of PAYE income payments made to a cross-border employee who undertakes employment services in New Zealand, see section CE 1F.
 Amendment of exclusions by Order in Council
@@ -2333,6 +2339,7 @@ Exclusions
     (iii) section CW 17C (Payments for overtime meals and certain other allowances):
     (iv) section CW 17CB (Payments for certain work-related meals):
     (v) section CW 17CC (Payments for distinctive work clothing):
+    (vb) section CW 17D (Payments related to health or safety):
     (vi) section CW 18 (Allowance for additional transport costs):
   (bb)
   (c) expenditure, other than an amount to which paragraph (a) applies, that an employee pays in connection with their employment or service to the extent to which—
@@ -4028,7 +4035,7 @@ Estimated expenditure
   (a) an employer may make, for a relevant period, a reasonable estimate of the amount of expenditure likely to be incurred on an employee's accommodation; and
   (b) the amount estimated is treated as if it were the amount incurred during the period to which the estimate relates.
 Definitions for this section
-(5) In this section and sections CW 16C to CW 16F, CW 17CB, and CZ 29 to CZ 30 (which relate to accommodation expenditure), as applicable,—
+(5) In this section and sections CW 16C to CW 16F, CW 17CB, CZ 29 to CZ 30, and FP 22 (which relate to accommodation expenditure), as applicable,—
   - **distant workplace** , for an employee, means a workplace that—
     (a) is another workplace of the employee; and
     (b) is not within reasonable daily travelling distance of their residence
@@ -4073,7 +4080,7 @@ Period of exemption
 Time limits in exceptional circumstances
 (5) A time limit does not apply if exceptional circumstances arise beyond the control of the employer and employee that require the employee to remain at the distant workplace after the period expires. Examples are a natural disaster or medical emergency. However, an extension of time must be limited to the period for which the employee is unable, because of the exceptional circumstances, to leave the distant workplace.
 Avoidance provision
-(6) For the purposes of determining whether a time limit under this section applies, a break in a period of continuous work at a distant workplace is ignored if a reason, that is more than incidental, for the cessation of the employment or service is to allow a further period of exemption under section CW 16B, CZ 29 (Accommodation expenditure: Canterbury earthquake relief), or CZ 29B (Accommodation expenditure: North Island flooding events).
+(6) For the purposes of determining whether a time limit under this section applies, a break in a period of continuous work at a distant workplace is ignored if a reason, that is more than incidental, for the cessation of the employment or service is to allow a further period of exemption under section CW 16B, CZ 29, CZ 29B, or FP 22 (which relate to accommodation expenditure).
 
 ### CW 16D Accommodation expenditure: conferences and overnight stays
 When this section applies
@@ -4138,7 +4145,7 @@ Estimated expenditure of employees
 Depreciation loss included
 (4) In this section, expenditure includes an amount of depreciation loss.
 Relationship with certain employment expenses provisions
-(5) This section does not apply to an amount referred to in section CW 16B to CW 16F, CW 17B, CW 17C, CW 17CB, CW 17CC, or CW 18 (which relate to certain amounts of employment expenditure).
+(5) This section does not apply to an amount referred to in section CW 16B to CW 16F, CW 17B, CW 17C, CW 17CB, CW 17CC, CW 17D, or CW 18 (which relate to certain amounts of employment expenditure).
 
 ### CW 17B Relocation payments
 Exempt income
@@ -4234,6 +4241,12 @@ Certain plain clothes included
 Exempt amount
 (4) The amount that the employer pays to or on behalf of the employee as an allowance for the plain clothes is exempt income of the employee.
 
+### CW 17D Payments related to health or safety
+When this section applies
+(1) This section applies when an employer pays an amount to, or on behalf of, an employee that is related to the employee’s health or safety and is aimed at managing the risks to health and safety in the workplace as provided for under the Health and Safety at Work Act 2015.
+Exempt income
+(2) The amount paid by the employer is exempt income of the employee to the extent to which the payment is for a benefit that would be excluded by section CX 24 from being a fringe benefit if the benefit was a non-cash benefit provided to the employee.
+
 ### CW 18 Allowance for additional transport costs
 Exempt income
 (1) An allowance that an employee receives from an employer to reimburse the employee’s additional transport costs is exempt income to the extent to which the employee incurs the costs in connection with their employment and for the employer’s benefit or convenience.
@@ -4268,6 +4281,11 @@ Meaning of public entertainer
 (3) In this section, public entertainer includes—
   (a) circus performers, dancers, lecturers, motion picture artists, musicians, radio artists, singers, television artists, and theatre artists; and
   (b) athletes, boxers, wrestlers, and other professional sportspersons.
+
+### CW 19B Certain amounts derived by employees during emergency events: exempt income
+Income that satisfies section FP 20 (Certain amounts derived by employees during emergency events) is exempt income to the extent to which the income is—
+  (a) accommodation:
+  (b) less than or equal to $5,000 in total, if the income is in a form other than accommodation.
 
 ### CW 20 Amounts derived by visiting entertainers including sportspersons
 Exempt income: cultural activities
@@ -4389,8 +4407,8 @@ Exempt ESS
 Purchase of shares
 (2) The arrangement must provide that—
   (a) the shares are available for no more than their market value at the date of purchase or subscription; and
-  (b) the market value of the shares purchased or subscribed for by an employee, or a trustee for an employee, under the arrangement is less than or equal to $5,000 in a year; and
-  (c) the difference between the market value of the shares purchased or subscribed for by an employee or a trustee and the amount that an employee spends on buying shares under the arrangement is less than or equal to $2,000 in a year.
+  (b) the market value of the shares purchased or subscribed for by an employee, or a trustee for an employee, under the arrangement is less than or equal to $7,500 in a year; and
+  (c) the difference between the market value of the shares purchased or subscribed for by an employee or a trustee and the amount that an employee spends on buying shares under the arrangement is less than or equal to $3,000 in a year.
 Eligibility
 (3) The arrangement must provide that—
   (a) a full-time permanent employee to whom an offer under the arrangement is made is eligible to participate in the arrangement, on an equal basis with 90% or more of other full-time permanent employees to whom an offer under the arrangement is not subject to foreign security disclosure rules; and
@@ -5101,10 +5119,7 @@ Relationship with section RD 8(3)
 (7) A determination made by the Commissioner under section RD 8(3) (Schedular payments) may apply to modify an amount of expenditure under this section.
 
 ### CW 62C Income from foreign-currency loans used for disallowed residential property
-An amount of income of a person under section CC 3(1) (Financial arrangements) is exempt income if the person—
-  (a) derives the income from a financial arrangement that is a loan of foreign currency to the person; and
-  (b) uses the loan proceeds for disallowed residential property; and
-  (c) is denied by section DH 8(1) (Deduction not allowed) a deduction for interest incurred by the person under the financial arrangement.
+[Repealed]
 
 ### CW 63 Avoidance arrangements
 An amount is exempt income if it is treated as exempt income under—
@@ -5339,7 +5354,7 @@ When not fringe benefit
   (b) an allowance that reimburses the employee for transport costs that—
     (i) would have been incurred both in connection with their employment and for the benefit of the employer in travelling between home and work; and
     (ii) would have been attributable to any 1 or more of the factors set out in section CW 18(3) (Allowance for additional transport costs); or
-  (c) an amount that, if it had been paid, would have been exempt income under sections CW 16B to CW 16F, CW 17B, CW 17CB, and CW 17CC (which relate to certain expenditure of an employer on an employee's accommodation, work-related meals, relocation, and clothing).
+  (c) an amount that, if it had been paid, would have been exempt income under sections CW 16B to CW 16F, CW 17B, CW 17CB, CW 17CC, and CW 17D (which relate to certain expenditure of an employer on an employee’s accommodation, work-related meals, relocation, clothing, and health and safety).
 Temporary change in workplace
 (2) A benefit that an employer provides to an employee is not a fringe benefit if it—
   (a) is in substitution for an allowance described in subsection (1)﻿(b); and
@@ -6394,7 +6409,7 @@ Time limit extension
   (a) on the recommendation of the Minister of Revenue; and
   (b) before the expiry of the relevant time limit in subsection (3) that applies immediately before the Order in Council comes into force.
 Definitions for this section
-(5) In this section,—
+(5) In this section and section FP 22 (Accommodation expenditure incurred during emergency events),—
   (a) rebuilding includes—
     (i) extending, repairing, improving, subdividing, or converting any land, infrastructure, or other property; and
     (ii) rebuilding communities:
@@ -6493,7 +6508,7 @@ Treatment of payment
 
 ### CZ 37 Income equalisation schemes
 Income
-(1) A refund made to a person under section EZ 80 (Refund of excess deposit in main income equalisation account as consequence of election under section EZ 4B) or EZ 81 (Refund of excess deposit in adverse event income equalisation account as consequence of election under section EZ 4B) is, to the extent to which the refund is interest payable under section EH 6 (Interest on deposits in main income equalisation account) or EH 40 (Interest on deposits in adverse event income equalisation account), income of the person and is allocated to the income year in which the person receives the refund.
+(1) A refund made to a person under section EZ 80 (Refund of excess deposit in main income equalisation account as consequence of election under section EZ 4B or FP 23) or EZ 81 (Refund of excess deposit in adverse event income equalisation account as consequence of election under section EZ 4B or FP 23) is, to the extent to which the refund is interest payable under section EH 6 (Interest on deposits in main income equalisation account) or EH 40 (Interest on deposits in adverse event income equalisation account), income of the person and is allocated to the income year in which the person receives the refund.
 Excluded income
 (2) A refund under section EZ 80 or EZ 81 is, to the extent to which the refund is not interest payable under section EH 6 or EH 40, excluded income.
 
@@ -6730,7 +6745,7 @@ Relationship with subpart DE
 Relationship with subpart DG
 (6B) Subpart DG (Expenditure related to use of certain assets) overrides this section for expenditure to which that subpart relates.
 Relationship with subpart DH
-(6C) Subpart DH (Interest incurred in relation to certain land) overrides this section for interest to which that subpart relates.
+(6C)
 Conduit financing arrangements
 (7)
 Link with subpart DA
@@ -6754,7 +6769,7 @@ Relationship with subpart DE
 Relationship with subpart DG
 (6B) Subpart DG (Expenditure related to use of certain assets) overrides this section for expenditure to which that subpart relates.
 Relationship with subpart DH
-(6C) Subpart DH (Interest incurred in relation to certain land) overrides this section for interest to which that subpart relates.
+(6C)
 Conduit financing arrangements
 (7)
 Link with subpart DA
@@ -7808,6 +7823,12 @@ Deduction
 Link with subpart DA
 (3) This section supplements the general permission.
 
+### DB 70 Deduction for interruption expenditure due to emergency event
+Deduction
+(1) A person is allowed a deduction for expenditure incurred while their income-earning activity is interrupted by an emergency event if they meet the requirements of section FP 13 (Treatment of expenditure when income-earning activity interrupted).
+Link with subpart DA
+(2) This section supplements the general permission.
+
 ### Subpart DC — Employee or contractor expenditure
 
 ### DC 1 Lump sum payments on retirement
@@ -8384,7 +8405,7 @@ Relationship with sections DB 5, DB 7, and DB 8
 Relationship with subpart DD
 (3) Subpart DD (Entertainment expenditure) does not apply to expenditure incurred in relation to the private use of an asset to which this subpart applies.
 Relationship with subpart DH
-(3B) A person is allowed a deduction for interest incurred for disallowed residential property to the extent to which the deduction is allowed under this subpart, and the deduction is not denied under subpart DH (Interest incurred in relation to certain land).
+(3B)
 Relationship with FBT rules and dividend rules
 (4) No liability to pay fringe benefit tax arises from the private use of an asset to which this subpart applies. In circumstances where section CX 17 (Benefits provided to employees who are shareholders or investors) applies to a company to which this subpart also applies, the company must choose to treat a non-cash benefit referred to in that section as a dividend.
 Application to groups of and interests in companies
@@ -8480,10 +8501,8 @@ Apportionment
 (2) For the purposes of this subpart,—
   (a) if the person is not a company, an amount of interest expenditure incurred in relation to an asset is included in the item expenditure in section DG 9(3)﻿(a):
   (b) if the person is a company other than a qualifying company, an amount of interest expenditure incurred in relation to an asset is apportioned under section DG 11:
-  (c) if the person is a qualifying company, they are treated for the purposes of this subpart as a person that is not a company:
-  (d) despite paragraphs (a) and (b), a person must apportion an amount of interest expenditure for the income year using the formula in section DG 9(2) and treat the amount of the interest expenditure as the item expenditure in section DG 9(3)﻿(a) to the extent to which—
-    (i) the interest expenditure is for disallowed residential property that is an asset; or
-    (ii) the interest expenditure is for acquiring an ownership interest in, or to become a beneficiary of, an interposed residential property holder and the interposed residential property holder has an asset at any time during the income year.
+  (c) if the person is a qualifying company, they are treated for the purposes of this subpart as a person that is not a company.
+  (d)
 Exchange rate fluctuations
 (3) Interest expenditure does not include a deduction for an amount that arises only from movement in currency exchange rates.
 
@@ -8540,12 +8559,7 @@ ExampleJim rents out his aeroplane at market value for 100 hours in an income ye
 Groups of companies
 (1) Sections DG 11 to DG 14 provide for the apportionment of interest expenditure incurred by a company that has an asset to which this subpart applies, and by other companies that are in the same group of companies as the company, and by shareholders. Companies must provide information disclosure statements under section 30D of the Tax Administration Act 1994 to enable the calculations to be made.
 Relationship with subpart DH
-(1B) Despite this section and sections DG 11, DG 12, and DG 13, for the purposes of applying those sections,—
-  (a) interest incurred in relation to disallowed residential property or to acquire an ownership interest in, or become a beneficiary of, an interposed residential property holder is ignored; and
-  (b) the debt to which the interest described in paragraph (a) relates is ignored; and
-  (c) a close company must, for an asset that is disallowed residential property, exclude from the asset value determined for the asset the lesser of—
-    (i) the asset value that would be determined for the asset if this paragraph did not apply to the asset:
-    (ii) the amount of the company’s debt under which the company incurs interest in relation to the asset.
+(1B)
 Exclusions: group companies
 (2) A company (company A) that is treated as part of a wholly-owned group under this subpart, but is not part of a wholly-owned group for the other purposes of this Act, is excluded from the interest expenditure rules in sections DG 11 to DG 14 for an income year if—
   (a) no private use of an asset of a company in the group has been made in the income year by a shareholder of company A:
@@ -8736,9 +8750,7 @@ Amount to be apportioned
 Method of apportionment
 (3) The apportionment is made using the rules set out in section DG 13(2) to (10), treating the person as if they were the company.
 Relationship with subpart DH
-(4) Despite subsections (1) and (2), the following are ignored for the purposes of applying this section:
-  (a) interest, incurred by the person as shareholder in relation to shares of company A, for which a deduction is denied under section DH 8 (Deduction not allowed); and
-  (b) the debt to which that interest relates multiplied by the quarterly interposed residential property percentage described in section DH 8(4)﻿(b).
+(4)
 ExampleCompany Y has 2 shareholders: Thomas, who has borrowed $200,000 to acquire a 50% interest in the company, and Brent, who has borrowed $10,000 to buy his 50% interest. Each has a share of the remaining net asset balance of $22,500. The formula is ($65,000 − $20,000) × 50% = $22,500. Since Thomas's debt value is greater than his share of the net asset balance, Thomas must apportion 11.25% of his total interest expenditure (sections DG 14 and DG 13(7)–(9)). The formula is 22,500/200,000. Since Brent's debt value is less than his share of the net asset balance, all Brent's interest expenditure must be apportioned (sections DG 14 and DG 13(5)).
 
 ### DG 15 Quarantined expenditure rules
@@ -8898,213 +8910,40 @@ Definition of item in formulas
 ### Subpart DH — Interest incurred in relation to certain land
 
 ### DH 1 Interest related to certain land
-The purpose of this subpart is to deny a person a deduction for certain interest incurred in relation to certain land, despite any other provision in this Part. The provisions of this subpart override the general permission. In this subpart—
-  (a) sections DH 2, DH 3, and DH 4 provide rules for when this subpart does and does not apply:
-  (b) section DH 5 provides definitions of key terms. Section DH 6 provides a definition of interposed residential property percentage. Section DH 7 provides a definition of grandparented residential interest:
-  (c) section DH 8 denies deductions for certain interest incurred in relation to certain land:
-  (d) section DH 12 provides valuation rules.
+[Repealed]
 
 ### DH 2 When this subpart applies
-This subpart applies to interest incurred on or after 1 October 2021.
+[Repealed]
 
 ### DH 3 When this subpart applies: companies
-This subpart applies to a company, if—
-  (a) the company is a close company, and it is not an exempt Māori company:
-  (b) the company is not a close company, and—
-    (i) it is a residential land company; and
-    (ii) it is not a member of a wholly-owned group:
-  (c) the company is not a close company, and it is a residential land wholly-owned group member.
+[Repealed]
 
 ### DH 4 When this subpart does not apply: exemptions for new builds, development, social or emergency or transitional housing, and council housing
-Exemption: new builds
-(1) This subpart does not apply to interest incurred by a person to the extent to which it is—
-  (a) incurred in relation to new build land; and
-  (b) incurred before the date that is 20 years after the earliest of the following dates for the new build land:
-    (i) the date on which the code compliance certificate described in section DH 5(7) is issued:
-    (ii) the date that, in the records of a local authority or building consent authority, the relevant conversion or remediation is recorded as having been completed, in the cases provided in section DH 5(7)﻿(d) and (e):
-    (iii) the date that the relevant building work is entered into the records of a local authority or building consent authority as substantially completed, in the case of a code compliance certificate described in section DH 5(7) being issued subject to a building consent waiver or modification under clause B2.3.1 of the Building Code under the Building Act 2004.
-Exemption: business relating to land under section CB 7
-(2) This subpart does not apply to interest incurred by a person to the extent to which it is incurred in relation to a business described in section CB 7 (Disposal: land acquired for purposes of business relating to land).
-Exemption: development, division, or building
-(3) This subpart does not apply to interest incurred by a person (person A) to the extent to which it is incurred in relation to land (the land) that is or was subject to person A’s undertaking or scheme involving development, division, or building for the purpose of creating new build land. However, the exemption in this subsection ceases for person A to the extent to which the land is new build land owned by person A.
-Exemption: social, emergency, transitional, and support housing
-(4) This subpart does not apply to interest incurred by a person for land to the extent to which the land is used by an exempt housing provider solely for 1 or more of the following:
-  (a) social housing, as defined in section 2 of the Public and Community Housing Management Act 1992:
-  (b) temporary accommodation for people in need while they seek, or are assisted in finding, more permanent accommodation:
-  (c) accommodation for people in need:
-  (d) services connected with housing or accommodation described in paragraph (a), (b), or (c).
-Exemption: council housing
-(5) This subpart does not apply to interest incurred by a person for land, to the extent to which the land is used by a council-controlled organisation, as defined in section 6 of the Local Government Act 2002, or a local authority, solely for 1 or more of the following:
-  (a) housing for people assessed by a local authority as being eligible for accommodation at less than market rental:
-  (b) services connected with housing described in paragraph (a).
-Exemption: Kāinga Ora–Homes and Communities and wholly-owned subsidiaries
-(6) This subpart does not apply to Kāinga Ora–Homes and Communities and its wholly-owned subsidiaries.
+[Repealed]
 
 ### DH 5 Key terms
-Code compliance certificate
-(1) Code compliance certificate means a code compliance certificate issued under the Building Act 2004.
-Disallowed residential property
-(2) Disallowed residential property—
-  (a) means land in New Zealand to the extent to which—
-    (i) it has a place configured as a residence or abode, whether or not it is used as a place of residence or abode, including any appurtenances belonging to or enjoyed with the place:
-    (ii) the owner has an arrangement that relates to erecting a place there, configured as a residence or abode, whether or not that place is or is to be used as a place of residence or abode, including any appurtenances belonging to or enjoyed with the place:
-    (iii) it is bare land that, under rules in the relevant operative district plan, may be used for erecting a place there, configured as a residence or abode, whether or not that place is or is to be used as a place of residence or abode, including any appurtenances belonging to or enjoyed with the place:
-  (b) does not include land to the extent to which it is excepted residential land.
-Excepted residential land
-(3) Excepted residential land means land to the extent to which it is described in schedule 15.
-Exempt housing provider
-(3B) Exempt housing provider means—
-  (a) a registered community housing provider under the Public and Community Housing Management Act 1992:
-  (b) a department listed in schedule 2, part 1 of the Public Service Act 2020:
-  (c) Kāinga Ora–Homes and Communities and its wholly-owned subsidiaries:
-  (d) a person contracted, directly or indirectly, by a department listed in schedule 2, part 1 of the Public Service Act 2020to provide land for 1 or more of the uses listed in section DH 4(4).
-Exempt Māori company
-(4) Exempt Māori company means—
-  (a) a company that is a Maori authority or eligible to be a Maori authority, if,—
-    (i) in the case that the company is not a member of a wholly-owned group, it is not a residential land company:
-    (ii) in the case that the company is a member of a wholly-owned group, it is not a residential land wholly-owned group member:
-  (b) a company that is wholly-owned by a Maori authority or wholly-owned by a company or trust that is eligible to be a Maori authority, if—
-    (i) the wholly-owned company is not a residential land wholly-owned group member:
-    (ii) in the case that the company is wholly-owned by a trust, the wholly-owned company is not a residential land company.
-Grandparented transitional loans
-(5) Grandparented transitional loan means loan amounts denominated in New Zealand dollars, ignoring re-drawings or additional borrowings under the same loan facility on or after 27 March 2021, to the extent to which the loan amounts are—
-  (a) first drawn down upon before 27 March 2021 for disallowed residential property:
-  (b) first drawn down upon on or after 27 March 2021 for acquiring disallowed residential property, if the person acquired an estate or interest in the property before 27 March 2021:
-  (c) first drawn down upon on or after 27 March 2021 for acquiring disallowed residential property, if the acquisition of the property resulted from an offer that is—
-    (i) made on or before 23 March 2021; and
-    (ii) irrevocable before 27 March 2021:
-  (d) in relation to disallowed residential property for which a previous owner (the original owner) had loan amounts described in paragraphs (a) to (c), if—
-    (i) every transfer of the property since the original owner acquired it meets the requirements in section FB 3A, FC 9, or FO 17, or subpart FD (which relate to rollover relief from the bright-line test), treating the relevant requirements as applying to a transfer of the disallowed residential property on or after 27 March 2021 instead of a transfer of residential land on or after 1 April 2022; and
-    (ii) the loan amounts are equal to or less than the amount of the original owner’s loan at the time the original owner transferred the property:
-  (e) for re-financing, under a new loan facility,—
-    (i) loan amounts described in paragraphs (a) to (d):
-    (ii) loan amounts to which this paragraph, or paragraph (f), has previously applied:
-  (f) for re-financing, under a new loan facility,—
-    (i) loan amounts that would have been described in paragraphs (a) to (d) if it had been denominated in New Zealand dollars:
-    (ii) loan amounts to which this paragraph, or paragraph (e), has previously applied.
-Interposed residential property holder
-(6) Interposed residential property holder means—
-  (a) a close company for which the relevant person has voting interests or market value interests and the close company has, at the end of a quarter in the income year, an interposed residential property percentage of more than 10%:
-  (b) a company that is not a close company for which the relevant person has voting interests or market value interests, and the company has, at any time in the income year, an interposed residential property percentage of more than 50%:
-  (c) the trustees of a trust of which the relevant person is a direct or indirect beneficiary, if the relevant trust has, at any time in the income year, an interposed residential property percentage of more than 10%.
-New build land
-(7) New build land—
-  (a) means land to the extent to which it has a place that is configured as a self-contained residence or abode, if a code compliance certificate has been issued on or after 27 March 2020 evidencing that the place was added to the land or converted into a residence or abode; and
-  (b) includes, for land described in paragraph (a), land exclusively used by residents of the place and also a reasonable proportion of shared areas of land, appurtenant to the place; and
-  (c) includes land for which there is an agreement that a place that is configured as a self-contained residence or abode will be added to the land and a code compliance certificate will be issued on or after 27 March 2020 evidencing that the place was added to the land; and
-  (d) includes land that has a place that was a hotel or motel, to the extent to which, by a conversion, it becomes places that are configured as self-contained residences or abodes, and the conversion is recorded in the records of a local authority or building consent authority as having been “completed” on or after 27 March 2020; and
-  (e) includes land to the extent to which it has a place that is configured as a self-contained residence or abode, if the place was removed from the earthquake prone buildings register on or after 27 March 2020, and—
-    (i) a code compliance certificate has been issued on or after 27 March 2020 evidencing that building work to remediate the place is complete:
-    (ii) the completion of the building work to remediate the place is recorded in the records of a local authority or building consent authority as having been “completed” on or after 27 March 2020 and as having been verified by a suitably qualified engineer; and
-  (f) includes land to the extent to which it has a place that is configured as a self-contained residence or abode, if the place was not previously weather-tight and a code compliance certificate has been issued on or after 27 March 2020 evidencing that at least 75% of the place’s cladding has been replaced.
-Residential land company
-(8) Residential land company means a company for which the ratio calculated using the following formula and expressed as a percentage is equal to or greater than 50% at any time during the relevant income year:(disqualified property + indirect disqualified property) ÷ total assets.
-Definition of items in formula
-(9) In the formula in subsection (8),—
-  (a) disqualified property is the value of the company’s property that is disallowed residential property, but excluding property described in section DH 4(2) or (3):
-  (b) indirect disqualified property is the value of shares that the company holds in other companies that are residential land companies:
-  (c) total assets is the total value of the company’s assets.
-Residential land wholly-owned group member
-(10) Residential land wholly-owned group member means a company that is a member of a wholly-owned group of companies and the ratio for the group, calculated using the following formula, expressed as a percentage, is equal to or greater than 50% at any time during the relevant income year:(disqualified property + indirect disqualified property) ÷ total assets.
-Definition of items in formula
-(11) In the formula in subsection (10),—
-  (a) disqualified property is the value, on a consolidated basis, of the wholly-owned group’s property that is disallowed residential property, but excluding property described in section DH 4(2) or (3):
-  (b) indirect disqualified property is the value of shares that the wholly-owned group holds in non-group companies that are residential land companies:
-  (c) total assets is the total value, on a consolidated basis, of the wholly-owned group’s assets.
+[Repealed]
 
 ### DH 6 Interposed residential property percentage
-Interposed residential property percentage
-(1) Interposed residential property percentage is the amount, for an interposed residential property holder (the person), calculated using the following formula, expressed as a percentage:disqualified assets ÷ total assets.
-Definition of items in formula
-(2) In the formula in subsection (1)—
-  (a) disqualified assets is the value of the person’s property that is disallowed residential property, but excluding—
-    (i) property described in section DH 4; and
-    (ii)
-  (b) total assets is the value of the person’s assets.
-Special rule: interposed residential property holder
-(3) If the person is a company, the items disqualified assets and total assets in this section are calculated to also include assets held by lower tier companies to the company by applying section YC 4 (Look-through rule for corporate shareholders), treating the person as the ultimate shareholder, to attribute, in proportion to the relevant voting interests and market value interests under that section, those lower tier assets.
-Further special rule
-(4) For the purposes of this section, section DH 8, and the definition of interposed residential property holder, a loan entered into by a shareholder of a close company before it became an LTC is not affected by the company becoming an LTC.
+[Repealed]
 
 ### DH 7 Grandparented residential interest
-Grandparented residential interest
-(1) Grandparented residential interest means interest, for a person and a grandparented transitional loan, that is,—
-  (a) interest for the loan’s principal to the extent to which the interest is incurred for disallowed residential property:
-  (b) if the loan (the underlying loan) is for both disallowed residential property and property that is allowed property described in subsection (3)﻿(b), and the portion incurred for disallowed residential property cannot reasonably be determined, the portion of underlying interest calculated by reference to a notional loan principal (the notional loan principal) that the person is treated as having used to acquire, on 26 March 2021, the disallowed residential property to which the underlying loan relates. The initial notional loan principal is calculated using the formula in subsection (2) and the treatment of repayments is provided in subsection (4).
-Grandparented residential interest: loan portion when tracing cannot reasonably be determined: initial notional loan principal
-(2) For the purpose of subsection (1)﻿(b), the notional loan principal is calculated using the following formula, treating a negative amount as zero:outstanding borrowings − allowed property.
-Definition of items in formula
-(3) In the formula in subsection (2),—
-  (a) outstanding borrowings is the principal of the underlying loan, determined as at 26 March 2021, to the extent to which it is for both disallowed residential property and property that is allowed property described in paragraph (b):
-  (b) allowed property is the total of—
-    (i) the value of the person’s assets, determined as at 26 March 2021, that is not disallowed residential property, but ignoring assets that are not used in deriving assessable income; and
-    (ii) to the extent to which the person’s assets are disallowed residential property described in section DH 4, the value of those assets, determined as at 26 March 2021.
-Grandparented residential interest: repayments
-(4) A repayment of the underlying loan is applied against the notional loan principal to reduce it, to a minimum of zero, unless the source of the repayment is the disposal of allowed property described in subsection (3)﻿(b). If the source of the repayment is the disposal of allowed property, then only the amount of the repayment that is in excess of the 26 March 2021 value of the allowed property is applied against the notional loan principal to reduce it, to a minimum of zero.
+[Repealed]
 
 ### DH 8 Deduction not allowed
-Deduction denied
-(1) A person is denied a deduction for interest if and to the extent to which the interest is—
-  (a) incurred for disallowed residential property, but excluding interest for a grandparented transitional loan:
-  (b) grandparented residential interest:
-  (c) incurred to acquire an ownership interest in, or become a beneficiary of, an interposed residential property holder:
-  (d) incurred to refinance a loan, interest for which is described in paragraph (a) or (c).
-Denial limited
-(2) The amount of the deduction denied for interest described in subsection (1) is limited to the following percentage for the following period:The following table is small in size and contains 2 columns. Column 1 is headed Period that interest is incurred. Column 2 is headed Percentage denied.Period that interest is incurredPercentage denied1 April 2024 – 31 March 202520%
-Denial limited using quarterly calculation periods: owners of interposed residential property holders
-(3) The amount of the deduction denied for interest (the interest) incurred as the owner or to become an owner of an interposed residential property holder that is a close company is limited, for an income year, to the amount calculated quarterly using the following formula and summed for the entire income year:interposed interest × quarterly interposed residential property percentage × denial percentage.
-Definition of items in formula
-(4) In the formula in subsection (3)—
-  (a) interposed interest is the interest, to the extent to which it is incurred in the relevant quarterly calculation period:
-  (b) quarterly interposed residential property percentage is the interposed residential property percentage for the interposed residential property holder, calculated, as described in section DH 6, at the end of the relevant quarterly calculation period:
-  (c) denial percentage is the percentage denied in the table in subsection (2) for the period.
+[Repealed]
 
 ### DH 9 Exception to limited denial of deductions: loans denominated in foreign currencies
 [Repealed]
 
 ### DH 10 Limited denial of deductibility: simplified calculation of interest affected
-Application of section
-(1) This section applies to a person who chooses to rely on the method of calculation it contains for calculating interest incurred under some loans and subject to limited denial of deductibility under this subpart.
-Purpose of section
-(2) This section is intended to simplify the calculation, for a loan that may be drawn down in several tranches, of the amount of interest incurred in the period (the affected interest period) from 1 October 2021 to 31 March 2025 that is—
-  (a) described in section DH 8(1); and
-  (b) subject to limited denial of deductibility under section DH 8(2).
-Interest affected by limited denial of deductibility
-(3) For a period in the affected interest period, the amount of interest incurred under the loan that is affected by limited denial of deductibility under section DH 8(2) is the total amount of interest that can be attributed for instants in the period to the amount of the loan that is the lesser, for the instant in the period, of—
-  (a) the amount (the initial loan balance) given by subsection (4):
-  (b) the amount (the affected loan balance) given by subsection (5).
-Initial loan balance
-(4) The initial loan balance is the amount of the loan that is allocated to disallowed residential property for the date (the start date) that is—
-  (a) the end of 26 March 2021, if paragraphs (b) and (c) don’t apply; or
-  (b) the date on which the loan is drawn down, if the loan is a grandparented transitional loan under paragraph (b) or (c) of the definition of that term and is drawn down on or after 27 March 2021; or
-  (c) the date on which the loan is drawn down if the acquisition of the property is described in subpart FD.
-Affected loan balance
-(5) The affected loan balance is the amount of the loan that is a grandparented transitional loan at an instant (the balance time) in the affected interest period, calculated using the following formula:initial loan balance + (advances − repayments) − (unrelated advances − unrelated repayments).
-Definition of items in formula
-(6) In the formula in subsection (5)—
-  (a) initial loan balance is the amount given by subsection (4):
-  (b) advances is the total amount of the loan applied in transactions that occur in the period between the start date and the balance time:
-  (c) repayments is the total amount of the loan repaid in transactions that occur in the period between the start date and the balance time:
-  (d) unrelated advances is the total amount of the loan that is not a grandparented transitional loan in the period between the start date and the balance time:
-  (e) unrelated repayments is the total amount of the loan repayments applied under section DH 7(4), other than against the notional loan principal, in the period between the start date and the balance time.
+[Repealed]
 
 ### DH 11 Denied amounts: treatment upon disposal of disallowed residential property
-Disposal subject to section CB 6A: denied amount included as cost
-(1) An amount that relates to disallowed residential property and is denied under section DH 8 as a deduction that would have otherwise been allowed for a person is treated under section DB 23 (Cost of revenue account property) as a cost for the person of the disallowed residential property in the income year of the disposal of the disallowed residential property if the amount derived from the disposal is income under section CB 6A (Disposal within 2 years: bright-line test for residential land).
-Disposal not subject to section CB 6A: denied amount allocated under section EL 4 or EL 7
-(2) An amount that relates to disallowed residential property and is denied under section DH 8 as a deduction that would have otherwise been allowed for a person is allowed under this section as a deduction in the income year of the disposal of the disallowed residential property, and is subject to allocation under subpart EL (Allocation of deductions for excess residential land expenditure), if the disallowed residential property is or was residential rental property for purposes of subpart EL and the amount derived from the disposal of the disallowed residential property—
-  (a) is income under a section other than section CB 6A; and
-  (b) is not income under section CB 6A.
+[Repealed]
 
 ### DH 12 Valuation
-Land not used in undertaking creating new build land
-(1) For the purposes of this subpart, a person’s land, excluding land described in section DH 4(2) and (3), is—
-  (a) valued at its most recent capital value or annual value set by a local authority; or
-  (b) if the land was acquired after the most recent local authority valuation, it is valued at its acquisition cost or, in the case of an associated person acquisition, its market value.
-Other property
-(2) For the purposes of this subpart, to the extent to which subsection (1) does not apply for a person’s property, the property is—
-  (a) valued using its tax book value; or
-  (b) if the person prepares financial accounts according to relevant accounting standards or legislative standards, valued using the financial accounts’ valuation.
+[Repealed]
 
 ### Subpart DN — Attributed losses from foreign equity
 
@@ -11261,6 +11100,14 @@ Expenditure on aircraft engine overhauls
   (b) if the anticipated deduction exceeds the amount of the expenditure in the income year, the excess is carried forward as an anticipated deduction to the next income year in which the person incurs expenditure on an aircraft engine overhaul; and
   (c) paragraphs (a) and (b) apply as required to income years until the amount of the anticipated deduction at the beginning of the 2017–18 income year is offset completely.
 
+### DZ 24 Amounts denied before 1 April 2025: treatment upon disposal of certain residential property
+Disposal subject to section CB 6A: denied amount included as cost
+(1) An amount that has been denied as a deduction for property under section DH 8 (Deduction not allowed) before 1 April 2025 and that would have otherwise been allowed as a deduction is treated under section DB 23 (Cost of revenue account property) as a cost for the person of the relevant property in the income year of the disposal of the property if the amount derived from the disposal is income under section CB 6A (Disposal within 2 years: bright-line test for residential land).
+Disposal not subject to section CB 6A: denied amount allocated under subpart EL
+(2) An amount that has been denied as a deduction for property under section DH 8 before 1 April 2025 and that would have otherwise been allowed as a deduction is allowed as a deduction in the income year of the disposal of the relevant property, and is subject to allocation under subpart EL (Allocation of deductions for excess residential land expenditure), if the property is or was residential rental property for the purposes of subpart EL and the amount derived from the disposal of the property—
+  (a) is income under a section other than section CB 6A; and
+  (b) is not income under section CB 6A.
+
 ## Part E — Timing and quantifying rules
 
 ### Subpart EA — Matching rules: revenue account property, prepayments, and deferred payments
@@ -11332,7 +11179,7 @@ Unexpired portion: expenditure on services
 Unexpired portion: expenditure on choses in action
 (6) An amount of expenditure on a chose in action is unexpired at the end of an income year if the amount relates to a period of enforceability of the chose in action falling after the income year.
 Allowances reimbursing employees
-(7) In the case of expenditure subject to sections CW 16B to CW 16F, CW 17, CW 17B, CW 17C, CW 17CB, CW 17CC, and CW 18 (which relate to expenditure, reimbursement, and allowances of employees), this section applies on the basis that the relevant services were performed in the income year in which the employee’s expenditure is expected to occur.
+(7) In the case of expenditure subject to sections CW 16B to CW 16F, CW 17, CW 17B, CW 17C, CW 17CB, CW 17CC, CW 17D, and CW 18 (which relate to expenditure, reimbursement, and allowances of employees), this section applies on the basis that the relevant services were performed in the income year in which the employee’s expenditure is expected to occur.
 Commissioner’s discretionary relief
 (8) The Commissioner may excuse a person from complying with this section under section 91AAC of the Tax Administration Act 1994.
 
@@ -22574,10 +22421,10 @@ Limit on depreciation recovery income under section EE 52
 Relationship with section EE 52
 (3) This section overrides section EE 52.
 
-### EZ 80 Refund of excess deposit in main income equalisation account as consequence of election under section EZ 4B
+### EZ 80 Refund of excess deposit in main income equalisation account as consequence of election under section EZ 4B or FP 23
 When this section applies
 (1) This section applies when—
-  (a) a person makes an election under section EZ 4B(2) (Cattle destroyed because of Mycoplasma bovis: spreading); and
+  (a) a person makes an election under section EZ 4B(2) (Cattle destroyed because of Mycoplasma bovis: spreading) or FP 23(3) (Livestock destroyed because of emergency events); and
   (b) as a consequence of the election, the person’s deposits for an accounting year, less the amount of any refund made to the person for the accounting year under section EH 8 (Refund of excess deposit), are more than their main maximum deposit for the accounting year.
 Refund
 (2) The Commissioner must refund the excess to the person from deposits the person made for the accounting year—
@@ -22604,10 +22451,10 @@ Modified application of section EH 6
 Relationship with section EH 8
 (8) This section overrides section EH 8.
 
-### EZ 81 Refund of excess deposit in adverse event income equalisation account as consequence of election under section EZ 4B
+### EZ 81 Refund of excess deposit in adverse event income equalisation account as consequence of election under section EZ 4B or FP 23
 When this section applies
 (1) This section applies when—
-  (a) a person makes an election under section EZ 4B(2) (Cattle destroyed because of Mycoplasma bovis: spreading); and
+  (a) a person makes an election under section EZ 4B(2) (Cattle destroyed because of Mycoplasma bovis: spreading) or FP 23(3) (Livestock destroyed because of emergency events); and
   (b) as a consequence of the election, the person’s adverse event deposits for an accounting year ignoring section EH 60 (Transfer of deposit), less the amount of any refund made to the person for the accounting year under section EH 42 (Refund of excess deposit), are more than their adverse event maximum deposit for the accounting year.
 Refund
 (2) The Commissioner must refund the excess to the person from deposits the person made for the accounting year—
@@ -24019,9 +23866,12 @@ Generally accepted accounting practice
 Meaning for New Zealand group
 (1) In this subpart, for a New Zealand group, total group non-debt liabilities for an income year means the total of the outstanding balances of liabilities shown in the financial statements of a natural person, or an excess debt entity, or another member of the New Zealand group, reduced by the total of liabilities shown in the financial statements, each of which is—
   (a) included in the calculation of total group debt under section FE 15:
-  (b) under a financial arrangement, other than an agreement for the sale and purchase of property or services, entered into by a company that is a member of the group with a shareholder, if the financial arrangement provides funds to the company and—
+  (b) under a financial arrangement, other than an agreement for the sale and purchase of property or services, entered into by a company that is a member of the group with a shareholder of a company that is a member of the group, if the financial arrangement provides funds to the company and—
     (i) the funding is provided under an arrangement between shareholders and the amount of the funds provided by each shareholder is proportional to the voting interest of each shareholder at the time:
     (ii) the shareholder and associated persons hold 10% or more of the voting interests in the company:
+  (bb) under a financial arrangement, other than an agreement for the sale and purchase of property or services, entered into by a trustee of a trust that is a member of the group with a settlor of the trust, if—
+    (i) the financial arrangement provides funds to the trust; and
+    (ii) the settlor has made settlements on the trust totalling 10% or more of the value of total settlements on the trust:
   (c) a share in a company that is a member of the group held by a shareholder, if—
     (i) the share was issued as part of a share issue to shareholders and the number of shares issued to each shareholder was proportional to the voting interest of each shareholder at the time:
     (ii) the shareholder and associated persons hold 10% or more of the voting interests in the company:
@@ -24032,10 +23882,20 @@ Meaning for New Zealand group
     (iii) the value shown in the financial statements for the asset is calculated by reference to the amount that the person is allowed as a deduction or depreciation loss for the asset, or on the basis that the asset is non-depreciable or depreciable at a rate of zero.
 Meaning for worldwide group
 (2) In this subpart, for a worldwide group, total group non-debt liabilities for an income year means the total of the outstanding balances of liabilities shown in the financial statements of the worldwide group, reduced by the total of liabilities that are included in the total group debt and the total of liabilities under financial arrangements that are removed under section FE 18(3B) from the measurement of total group debt.
-Wholly-owned group treated as single shareholder and provider of funds
-(3) If a shareholder is a member of a wholly-owned group,—
-  (a) for the purposes of section FE 16B(1)﻿(b)﻿(i) and (c)﻿(i), the wholly-owned group is treated as the shareholder for all shares held by persons who are members of the wholly-owned group; and
-  (b) for the purposes of section FE 16B(1)﻿(b), the wholly-owned group is treated as the provider of all the funds that are provided by persons who are members of the wholly-owned group.
+Equity group treated as single shareholder and provider of funds
+(3) If a shareholder is a company,—
+  (a) for the purposes of subsection (1)﻿(b) and (c), the shareholder’s equity group is treated as the shareholder for all the shares held by members of the equity group; and
+  (b) for the purposes of subsection (1)﻿(b), the shareholder’s equity group is treated as the provider of all the funds that are provided by members of the equity group.
+Trustee treated as single shareholder and provider of funds
+(4) If a shareholder is a trustee of a trust,—
+  (a) for the purposes of subsection (1)﻿(b) and (c), the trustee is treated as the shareholder for all the shares held by a settlor of the trust and relatives of the settlor, if the settlor and relatives have made at least 90% of the settlements made on the trust; and
+  (b) for the purposes of subsection (1)﻿(b), the trustee is treated as the provider of all the funds that are provided by a settlor of the trust and relatives of the settlor, if the settlor and relatives have made at least 90% of the settlements made on the trust.
+Meaning of equity group
+(5) In this section, for a shareholder, equity group—
+  (a) means the members of the wholly-owned group if the shareholder is a member of the wholly-owned group, or the shareholder company itself:
+  (b) includes—
+    (i) the group of persons (the natural group) who are relatives and that holds 100% of the voting interests in a member of the wholly-owned group or in the shareholder company itself, as the case may be:
+    (ii) if a member of the natural group is a trustee of a trust, a settlor of the trust and relatives of the settlor if the settlor and relatives have made at least 90% of the settlements made on the trust.
 
 **Debt percentage of worldwide group**
 
@@ -25995,6 +25855,469 @@ Consideration: debtor
 Consideration: creditor
 (3) The creditor is treated as having been paid the amount of the financial arrangement on the date of the amalgamation.
 
+### Subpart FP — Tax relief for emergencies
+
+### FP 1 Outline of subpart
+General outline
+(1) This section outlines the provisions of this subpart that may be brought into effect to provide tax relief to a person in response to an emergency event.
+Specific provisions
+(2) The provisions in this subpart provide—
+  (a) rollover relief for certain affected property that is—
+    (i) land or buildings held on revenue account, see sections FP 5 to FP 7:
+    (ii) depreciable property, see sections FP 8 to FP 11:
+    (iii) improvements to land, see section FP 12:
+  (b) relief when—
+    (i) income-earning activities are interrupted, see section FP 13:
+    (ii) depreciable property is damaged, see sections FP 14 and FP 15:
+    (iii) access to depreciable property is restricted, see section FP 16:
+  (c) some optional timing rules for the treatment of—
+    (i) depreciable property, see sections FP 17 and FP 18:
+    (ii) group assets, see section FP 19:
+  (d) employment-related relief relating to exempt income, fringe benefits, and accommodation expenditure, see sections FP 20 to FP 22:
+  (e) spreading rules when livestock are destroyed because of an emergency event, see sections FP 23 to FP 26:
+  (f) some relief from land sales rules, see section FP 27.
+Definitions
+(3) Section FP 3 contains the definitions relevant for this subpart.
+
+### FP 2 Application to emergency events
+This subpart applies when there is an emergency event and the Governor-General has made regulations under section 6J of the Tax Administration Act 1994 declaring that 1 or more of the provisions in this subpart apply in relation to the emergency event.
+
+### FP 3 Definitions for the purposes of subpart FP
+In subpart FP, —
+  - **affected class** means 1 of the following classes of the person’s depreciable property that the affected depreciable property is included in:
+    (a) buildings:
+    (b) commercial fit-out not referred to in paragraph (c):
+    (c) commercial fit-out for which the person uses the pool method:
+    (d) depreciable property for which the person uses the pool method, other than commercial fit-out:
+    (e) depreciable property not referred to in paragraphs (a) to (d)
+  - **affected depreciable property** means depreciable property that—
+    (a) is not depreciable intangible property; and
+    (b) is included in an affected class; and
+    (c) as a result of an emergency event, is affected by—
+      (i) damage that meets the requirements of section EE 47(4) (Events for purposes of section EE 44); or
+      (ii) a disposal and reacquisition under section FP 14
+  - **affected depreciation loss** means, for an affected class,—
+    (a) the total amount of depreciation loss under section EE 48(2) (Effect of disposal or event), treated as a positive amount, that the person has for all items of affected depreciable property in the affected class for which the compensation received for the item is less than the adjusted tax value of that item; or
+    (b) in any other case, zero
+  - **affected depreciation recovery income** means, for an affected class, the total amount of depreciation recovery income the person would have, in the absence of this subpart, from the compensation received for each item of affected depreciable property in the affected class under section EE 48(1)
+  - **affected improvement to land** means an improvement to land subject to section DO 4 or DO 5 (which relate to improvements to farmland and expenditure on horticultural plants) that has been damaged or destroyed in an emergency event
+  - **affected property** means—
+    (a) affected depreciable property:
+    (b) affected improvements to land:
+    (c) affected revenue property
+  - **affected revenue property** means a person’s land or building that is—
+    (a) revenue account property under section CB 6, CB 7, CB 12, or CB 13 (which relate to income from certain disposals of land); and
+    (b) damaged by an emergency event; and
+    (c) useless for the purposes of deriving income as a result of that event; and
+    (d) if it is a building, required to be demolished or abandoned for later demolition due to the damage to the land, building, or the neighbourhood of the building
+  - **compensation** means—
+    (a) insurance or another amount in recognition of loss:
+    (b) for affected revenue property, an amount that a person derives from insurance, a government or local authority buy-out, or other amount in recognition of loss, or a combination of these, that would be income of the person under section CB 6, CB 7, CB 12, CB 13, or CG 6 (Receipts from insurance, indemnity, or compensation for trading stock) in the absence of this subpart
+  - **cost deductions** means, for affected revenue property, the total amount of a person’s deductions under section DB 23 (Cost of revenue account property) for that property
+  - **current year** means an income year that falls within the emergency event period in relation to which a person may apply a provision in this subpart
+  - **emergency event period** means the period—
+    (a) beginning with the start of the income year in which the emergency event first occurs; and
+    (b) ending with either—
+      (i) the last day of the income year that is 5 income years after the income year referred to in paragraph (a); or
+      (ii) a later date specified by the Governor-General by Order in Council made under section 6J of the Tax Administration Act 1994
+  - **replacement cost** means the amount of expenditure a person incurs to acquire replacement property
+  - **replacement property** means property that replaces affected property and is,—
+    (a) for affected revenue property, a building or land that is revenue account property located in New Zealand:
+    (b) for affected depreciable property, property—
+      (i) included in the same class, as described in the definition of affected class, as the affected depreciable property; and
+      (ii) located in New Zealand:
+    (c) for an affected improvement to land, an improvement to farmland as described in schedule 20, part A (Expenditure on farming, horticultural, aquacultural, and forestry improvements) or a listed horticultural plant located in New Zealand
+  - **suspended recovery income** —
+    (a) is defined in section FP 6 for the purposes of affected revenue property:
+    (b) is defined in section FP 9 for the purposes of an affected class of depreciable property:
+    (c) is defined in section FP 12(3) for the purposes of affected improvements to land.
+
+### FP 4 Summary of property rollover relief provisions
+Guidance
+(1) This section is intended to provide guidance on sections FP 5 to FP 12. If a conflict arises between this section and another provision of this subpart, that other provision prevails.
+Summary of provisions
+(2) Sections FP 5 to FP 12 are intended to defer any unanticipated tax liability arising from the receipt of compensation for certain assets destroyed by an emergency event. In general, the sections do this by suspending the recognition of the amount of that compensation as income that exceeds the cost of the assets and rolling it over to use it to reduce the acquisition cost of replacement property. Any amount unused at the end of the emergency event period will be income of the person at that time. The amount will also be income of the person if they decide not to acquire replacement property or they go into liquidation or become bankrupt before the end of the emergency event period.
+Suspended recovery income
+(3) The definition of suspended recovery income differs depending on the type of property. For land and buildings under section FP 5, suspended recovery income is the amount by which the compensation for the damaged property exceeds the cost of the property. For depreciable property under section FP 8, suspended recovery income is the total depreciation recovery income for the affected class of depreciable property. This is the extent to which the compensation exceeds the adjusted tax value for each item of affected depreciable property in the class, capped at the amount of depreciation deductions claimed for the relevant item. For items when the compensation received is less than the adjusted tax value, the difference is deducted from the class total. For improvements to land under section FP 12, suspended recovery income is the amount of compensation that would have been income under section CG 4 (Receipts for expenditure or loss from insurance, indemnity, or otherwise), absent this subpart. Section CG 4 limits the amount of income to the deduction for the land improvement.
+Reduction of suspended recovery income
+(4) Suspended recovery income is reduced when a person acquires replacement property. The reduction occurs each time an item is replaced. The amount that remains at the end of the income year that is 5 income years after the income year in which the emergency event first occurs, or at the point the person decides not to acquire any more replacement property, or goes into liquidation or becomes bankrupt, is income of the person.
+Impact on asset values
+(5) For land, buildings, and depreciable property, spent suspended recovery income reduces the cost of the replacement property for tax purposes (see sections FP 7 and FP 11). When the replacement property is subsequently disposed of, the extent to which the difference between the cost for tax purposes and the sale proceeds is taxable is determined by normal tax rules. For land improvements, the value attributed to the replacement is zero unless the replacement cost exceeds the amount of suspended recovery income, in which case the excess is attributed.
+
+**Replacements: revenue account property**
+
+### FP 5 Replacement property for land or buildings affected by emergency events
+When this section applies
+(1) This section applies for a person and a current year when the person—
+  (a) owns affected revenue property; and
+  (b) receives an amount of compensation in or before the current year for the affected revenue property that exceeds their cost deductions for that property; and
+  (c) plans in the current year to acquire replacement property, and the replacement cost exceeds their cost deductions for the affected revenue property; and
+  (d) notifies the Commissioner of their decision to suspend recognition of the amount of their suspended recovery income in accordance with section 226H of the Tax Administration Act 1994.
+Suspended recovery income
+(2) The person has an amount of income under section CC 2B (Compensation for land or buildings affected by emergency events) for the amount of the suspended recovery income for the affected revenue property for the current year when—
+  (a) the current year ends, if the current year is the final income year of the emergency event period; or
+  (b) in the current year, the person decides not to replace the affected revenue property; or
+  (c) in the current year, the person goes into liquidation or becomes bankrupt.
+Relationship to other sections
+(3) This section overrides sections CB 6, CB 7, CB 12, and CB 13 (which relate to income from certain disposals of land), and CG 6 (Receipts from insurance, indemnity, and compensation for trading stock).
+
+### FP 6 Meaning of suspended recovery income for affected revenue property
+Suspended recovery income
+(1) Subject to subsection (2), the amount of suspended recovery income a person has for their affected revenue property is the amount by which the compensation received by the person exceeds their cost deductions for that property.
+When property replaced
+(2) When a person replaces their affected revenue property, the amount of their suspended recovery income under subsection (1) is reduced by the amount of the replacement cost adjustment calculated under subsection (3) or (5), as applicable.
+Replacement cost adjustment: compensation exceeds replacement cost
+(3) If the compensation received by the person for the affected revenue property exceeds the replacement cost of the replacement property and is equal to or exceeds the amount calculated under this subsection, the replacement cost adjustment is the amount calculated under the following formula:(replacement cost ÷ cost deductions) × (compensation − replacement cost).
+Definition of items in formula
+(4) In the formula in subsection (3),—
+  (a) replacement cost is the replacement cost, as defined in section FP 3, of the replacement property:
+  (b) cost deductions is the cost deductions, as defined in section FP 3, of the affected revenue property:
+  (c) compensation is the compensation, as defined in section FP 3, received for the affected revenue property.
+Replacement cost adjustment: compensation less than replacement cost
+(5) If the compensation received by the person for the affected revenue property is less than or equal to the replacement cost or the compensation is less than the amount calculated under subsection (3), the replacement cost adjustment is the amount of the suspended recovery income under subsection (1).
+
+### FP 7 Cost of replacement property for section DB 23
+For the purposes of section DB 23 (Cost of revenue account property) and determining the amount of a person’s expenditure incurred as the cost of replacement property that a person acquires to replace affected revenue property, the person’s replacement cost is reduced by the amount of the replacement cost adjustment determined under section FP 6(3) or (5), as applicable.
+
+**Replacements: depreciable property**
+
+### FP 8 Replacement property for depreciable property affected by emergency events
+When this section applies
+(1) This section applies for a person and a current year when the person—
+  (a) owns 1 or more items of affected depreciable property that are in the same affected class; and
+  (b) in or before the current year receives compensation for the items of affected depreciable property; and
+  (c) has an amount of affected depreciation recovery income; and
+  (d) has an amount of affected depreciation loss that is less than the amount of affected depreciation recovery income; and
+  (e) plans in the current year to acquire replacement property; and
+  (f) notifies the Commissioner of their decision to suspend recognition of their suspended recovery income in accordance with section 226H of the Tax Administration Act 1994.
+Depreciation recovery income
+(2) The person has, in the current year, an amount of depreciation recovery income under section CG 1 (Amount of depreciation recovery income) for an affected class equal to the amount of suspended recovery income for the affected class—
+  (a) at the end of the current year, if the current year is the final income year of the emergency event period; or
+  (b) when, in the current year, the person decides not to acquire any more replacement property for the affected class; or
+  (c) when, in the current year, the person goes into liquidation or becomes bankrupt.
+Relationship to subpart EE
+(3) This section overrides subpart EE (Depreciation).
+
+### FP 9 Meaning of suspended recovery income for affected class
+Suspended recovery income
+(1) Subject to subsection (2), the amount of suspended recovery income a person has for an affected class is the amount by which the affected depreciation recovery income for that class exceeds the affected depreciation loss for that class.
+When property replaced
+(2) When the person replaces an item of their affected depreciable property, the amount of their suspended recovery income for the affected class under subsection (1) is reduced by the amount of the replacement reduction calculated under section FP 10.
+
+### FP 10 Replacement reduction for affected depreciable property
+When this section applies
+(1) This section applies for the purposes of sections FP 9 and FP 11 to determine the amount of the replacement reduction when affected depreciable property is replaced.
+Replacement property for which person does not use pool method
+(2) If the person acquires an item of replacement property and links it with an affected class of affected depreciable property for which the person does not use the pool method, the amount of the replacement reduction is—
+  (a) zero, if the cost of the affected class is equal to or less than the person’s total replacement costs in acquiring, before that item, other replacement property linked with the affected class; or
+  (b) in any other case, calculated using the formula—limited replacement cost × class excess recovery ÷ affected class cost.
+Definition of items in formula
+(3) In the formula in subsection (2),—
+  (a) limited replacement cost is the lesser of—
+    (i) the amount by which the cost of the affected class exceeds the total replacement costs in acquiring, before the item of replacement property, other replacement property linked with the affected class; and
+    (ii) the replacement cost of that item:
+  (b) class excess recovery is the amount by which the affected depreciation recovery income for an affected class exceeds the affected depreciation loss for that class:
+  (c) affected class cost is the total cost for the person of the affected class.
+Replacement property for which person uses pool method
+(4) If the person acquires an item of replacement property and links it with an affected class of affected depreciable property for which the person uses the pool method, the amount of the replacement reduction is the lesser of—
+  (a) the replacement cost of the item; and
+  (b) the amount of suspended recovery income that remains for the class of affected property after the acquisition of other replacement property but before the acquisition of the item of replacement property.
+Order of acquisition for items acquired at same time
+(5) If items of replacement property are acquired at the same time and the effect of this section depends on the order in which the items are acquired, the items are treated as being acquired in the order chosen by the person in their first return of income in which the acquisition is taken into account.
+
+### FP 11 Effect of replacing affected depreciable property on subpart EE
+When this section applies
+(1) This section applies for the purposes of subpart EE (Depreciation) when a person—
+  (a) acquires an item of replacement property (replacement item) to replace affected depreciable property:
+  (b) disposes of the replacement item.
+Replacement property linked to affected class for which person does not use pool method
+(2) If the person acquires the replacement item and links it with an affected class for which the person does not use the pool method, the amount of the replacement reduction in section FP 10(2) is treated as not being included in the replacement cost of the replacement item for the purposes of determining,—
+  (a) under section EE 16(4) (Amount resulting from standard calculation), the item value or cost for the replacement item, if the person uses the diminishing value method or straight-line method for that item; or
+  (b) under section EE 22 (Cases affecting pool), the cost of the replacement item, if the person uses the pool method for the replacement item.
+Replacement property linked to affected class for which person uses pool method
+(3) If the person acquires a replacement item and links the item with an affected class for which the person uses the pool method, the replacement cost of the replacement item is treated as being reduced by the replacement reduction in section FP 10(4) for the purposes of determining—
+  (a) the adjusted tax value of the replacement item, if paragraph (b) or (c) does not apply; or
+  (b) the cost of the replacement item for the straight-line method, if that method is used to determine depreciation loss for the replacement item; or
+  (c) the adjusted tax value of the pool of the replacement item, if the person uses the pool method for the replacement item.
+Disposal of replacement property: reduction in cost treated as depreciation loss
+(4) For the purposes of section EE 48 (Effect of disposal or event), when a person disposes of a replacement item, the amount by which the replacement cost on the replacement item is treated as being reduced under subsection (2) or (3) is an amount of depreciation loss for the replacement item for which the person has been allowed a deduction.
+
+**Replacements: improvements to land**
+
+### FP 12 Replacement property for improvements to land affected by emergency events
+When this section applies
+(1) This section applies for a person and a current year when the person—
+  (a) receives an amount of compensation in or before the current year for an affected improvement to land; and
+  (b) would have, in the absence of this section, in or before the current year, a total amount of income under section CG 4 (Receipts for expenditure or loss from insurance, indemnity, or otherwise) from the compensation for the affected improvement to land; and
+  (c) has had deductions for the affected improvement to land under 1 or more of section DO 4, DO 5, or DO 11 (which relate to improvements to land); and
+  (d) plans in the current year to acquire replacement property; and
+  (e) notifies the Commissioner of their decision to suspend recognition of their suspended recovery income for the affected improvement to land in accordance with section 226H of the Tax Administration Act 1994.
+Suspended recovery income
+(2) The person has an amount of income under section CC 2C (Compensation for improvements to land affected by emergency events) for the amount of the suspended recovery income for the affected improvement to land for the current year when—
+  (a) the current year ends, if the current year is the final income year of the emergency event period and the person has not acquired replacement property:
+  (b) in the current year, the person decides not to replace the affected improvement to land:
+  (c) in the current year, the person goes into liquidation or becomes bankrupt.
+Meaning of suspended recovery income
+(3) The amount of suspended recovery income a person has for their affected improvement to land is the amount of compensation received for that affected improvement to land that would have been income under section CG 4 in the absence of this section.
+When compensation more than replacement cost
+(4) If the person acquires replacement property in the current year and the compensation received for the affected improvement to land exceeds the replacement cost, the person has an amount of income under section CC 2C for the amount, if any, by which the original cost for the affected improvement to land exceeds the replacement cost.
+Value of replacement property
+(5) If the person acquires replacement property, the value attributed to the replacement cost of the affected improvement to land for the purposes of section DO 4, DO 5, or DO 11, as applicable, is,—
+  (a) if the suspended recovery income is equal to or greater than the replacement cost, zero:
+  (b) if the suspended recovery income is less than the replacement cost, the amount by which the replacement cost exceeds the suspended recovery income.
+Relationship to section CG 4
+(6) This section overrides section CG 4.
+
+**Interruption expenditure**
+
+### FP 13 Treatment of expenditure when income-earning activity interrupted
+When this section applies
+(1) This section applies for a person and the current year when—
+  (a) the person has an income-earning activity in New Zealand immediately before an emergency event; and
+  (b) the activity is interrupted for a period (the period of interruption) as a result of the emergency event; and
+  (c) in the current year, during the period of interruption, the person incurs expenditure or loss (the interruption expenditure) in meeting an obligation relating to the income-earning activity; and
+  (d) the interruption expenditure does not meet the requirements of the general permission for the person and the income-earning activity, but would do so but for the interruption; and
+  (e) the person resumes the income-earning activity in the emergency event period.
+Deduction for interruption expenditure
+(2) The person is allowed a deduction for the interruption expenditure under section DB 70 (Deduction for interruption expenditure due to emergency event).
+Timing of deduction
+(3) The deduction is allocated to the income year in which the person resumes the income-earning activity.
+
+**When certain items of depreciable property damaged**
+
+### FP 14 When property uneconomic to repair
+When this section applies
+(1) This section applies for a person and an item of depreciable property when—
+  (a) the item is damaged by an emergency event; and
+  (b) the person is entitled to an amount of compensation for the damage to the item; and
+  (c) the person reasonably assesses that the item is uneconomic to repair; and
+  (d) the damage does not meet the requirements of section EE 47(4) (Events for purposes of section EE 44).
+Treatment as disposal and reacquisition of items
+(2) The person is treated as, on the date of the emergency event,—
+  (a) disposing of the item for the amount of compensation; and
+  (b) reacquiring the item for zero consideration.
+Relationship with section EE 52
+(3) This section overrides section EE 52 (Amount of depreciation recovery income when compensation received).
+
+### FP 15 Insurance for damage of property caused by emergency event: limit on depreciation recovery income
+When this section applies
+(1) This section applies for a person and an item of depreciable property when—
+  (a) the item is damaged by an emergency event; and
+  (b) the person is entitled to an amount of compensation for the damage to the item; and
+  (c) the person would, in the absence of this section, derive depreciation recovery income under section EE 52 (Amount of depreciation recovery income when compensation received) in an income year for the item; and
+  (d) the damage does not meet the requirements of section EE 47(4) (Events for purposes of section EE 44); and
+  (e) section FP 14 does not apply in relation to the item.
+Limit on depreciation recovery income under section EE 52
+(2) The person derives an amount of depreciation recovery income in the income year that is equal to the lesser of—
+  (a) the amount of depreciation recovery income that the person would derive in the income year for the item under section EE 52 in the absence of this section; and
+  (b) the total amount of depreciation loss for which the person has a deduction for the item.
+Relationship with section EE 52
+(3) This section overrides section EE 52.
+
+### FP 16 Item treated as available for use if access restricted due to emergency event
+An item of depreciable property is treated as being available for use in a current year when access to the item is affected by a restriction imposed due to the effects of an emergency event if—
+  (a) the item was used or available for use immediately before the restriction was imposed; and
+  (b) the item would be used or available for use in the absence of the restriction.
+
+**Certain optional timing rules for depreciable property**
+
+### FP 17 Insurance for emergency event damage causing disposal: optional timing rule for income, deductions
+When this section applies
+(1) This section applies for a person and an item of depreciable property when—
+  (a) the item is damaged by an emergency event; and
+  (b) the damage—
+    (i) results in the item being affected by a disposal and reacquisition under section FP 14; or
+    (ii) meets the requirements of section EE 47(4) (Events for purposes of section EE 44); and
+  (c) the person is entitled to an amount of compensation for the damage to the item; and
+  (d) the person chooses to apply this section for all items of depreciable property to which paragraphs (a) to (c) apply.
+Timing of income from compensation and consideration from disposals
+(2) When the amount of compensation for the damage is derived or able to be reasonably estimated before the end of the emergency event period, the person’s income from the compensation and the consideration derived from the disposal of the item are attributed to the earlier of—
+  (a) the first income year in which—
+    (i) the amount of the cost of disposing of the item (the disposal cost) is, or has been, incurred or able to be reasonably estimated; and
+    (ii) the amount of compensation is, or has been, derived or able to be reasonably estimated; and
+    (iii) the consideration from the disposal of the item is, or has been, derived or able to be reasonably estimated; and
+  (b) the final income year in the emergency event period.
+Timing of deductions for disposal costs and depreciation loss
+(3) When the disposal cost is incurred or able to be reasonably estimated before the end of the emergency event period, the person’s deductions for the disposal cost and for depreciation loss under section EE 48 (Effect of disposal or event) are attributed to the earlier of—
+  (a) the first income year in which—
+    (i) the disposal cost is, or has been, incurred or able to be reasonably estimated; and
+    (ii) the amount of compensation is, or has been, derived or able to be reasonably estimated; and
+    (iii) the consideration from the disposal of the item is, or has been, derived or able to be reasonably estimated; and
+  (b) the final income year in the emergency event period.
+Relationship with other sections
+(4) This section overrides sections EE 1, EE 22, and EE 48 (which relate to the timing of depreciation loss and depreciation recovery income) in relation to the timing of the person’s—
+  (a) income from the compensation and consideration from the disposal of the item:
+  (b) deductions for the disposal cost and depreciation loss.
+
+### FP 18 Insurance for repairs of emergency event damage: optional timing rule for income, deductions
+When this section applies
+(1) This section applies for a person and an item of depreciable property when—
+  (a) the item is damaged by an emergency event; and
+  (b) the damage—
+    (i) does not result in the item being affected by a disposal and reacquisition under section FP 14; and
+    (ii) does not meet the requirements of section EE 47(4) (Events for purposes of section EE 44); and
+  (c) the person is entitled to an amount of compensation for the damage to the item; and
+  (d) the person chooses to apply this section for all items of depreciable property to which paragraphs (a) to (c) apply.
+Timing of income from compensation
+(2) When the amount of compensation for the damage is derived or able to be reasonably estimated before the end of the emergency event period, the person’s income from the compensation is attributed to the earlier of—
+  (a) the first income year in which—
+    (i) the amount of expenditure for total repair of the damage (the repair cost) is, or has been, incurred or able to be reasonably estimated; and
+    (ii) the amount of compensation is, or has been, derived or able to be reasonably estimated; and
+  (b) the final income year in the emergency event period.
+Timing of deductions for repair costs
+(3) If the repair cost is incurred or able to be reasonably estimated before the end of the emergency event period, the person’s deduction for that cost is attributed to the earlier of—
+  (a) the first income year in which—
+    (i) the cost is, or has been, incurred or able to be reasonably estimated; and
+    (ii) the amount of compensation is, or has been, derived or able to be reasonably estimated; and
+  (b) the final income year in the emergency event period.
+Relationship with other sections
+(4) This section overrides sections CG 4, EE 22, and EE 52 (which provide for receipts of insurance or indemnity payments) in relation to the timing of the person’s—
+  (a) income from the compensation:
+  (b) deduction for the repair cost.
+
+**Optional rule for valuation of group assets**
+
+### FP 19 Optional rules for valuation of group assets
+When this section applies
+(1) This section applies for the purposes of sections FE 16 (Total group assets) and FE 18 (Measurement of debts and assets of worldwide group) and a person when—
+  (a) an asset of the person’s New Zealand group is damaged as a result of an emergency event; and
+  (b) the asset is impaired or derecognised under generally accepted accounting practice as a result of the damage; and
+  (c) insurance for the damage is recognised at a later date under generally accepted accounting practice; and
+  (d) the person has notified the Commissioner in the manner provided by section 226I of the Tax Administration Act 1994 that they have chosen to apply this section.
+Optional treatment of insurance
+(2) The person may choose to include an amount of the insurance, corresponding to the amount of the impairment or the derecognised value of the asset, in the value of the total group assets of the person’s New Zealand group during the period—
+  (a) beginning with the impairment or derecognition of the asset; and
+  (b) ending before the earlier of—
+    (i) the recognition of the amount of compensation; and
+    (ii) the beginning of the final income year in the emergency event period.
+Corresponding treatment for worldwide group
+(3) If a person includes an amount under subsection (2) in the value of the total group assets of the person’s New Zealand group for a period, they must include the amount in the value of the total group assets of their worldwide group for the period.
+
+### FP 20 Certain amounts derived by employees during emergency events
+Income derived by an employee from an employer is exempt income to the extent given by section CW 19B (Certain amounts derived by employees during emergency events: exempt income) if the income—
+  (a) would be assessable income in the absence of this section; and
+  (b) is provided by the employer for the purpose of relief of employees from the adverse effects of an emergency event; and
+  (c) is derived in the period of 8 weeks starting on the date the emergency event begins, as specified by regulations made under section 6J of the Tax Administration Act 1994; and
+  (d) does not replace a PAYE income payment; and
+  (e) does not depend on the seniority of the employee; and
+  (f) if the employee is associated with the employer, is available to another employee who—
+    (i) is not associated with the employer; and
+    (ii) is, or was immediately before an emergency event, in full-time employment with the employer; and
+  (g) is treated by the employer as being exempt income for the employee.
+
+### FP 21 Employee benefits for emergency: not fringe benefit
+When this section applies
+(1) This section applies when an employee receives from an employer a benefit that—
+  (a) would be a fringe benefit in the absence of this section; and
+  (b) is for the purpose of the relief of employees from the adverse effects of an emergency event; and
+  (c) is derived in the period of 8 weeks starting on the date the emergency event begins, as specified by regulations made under section 6J of the Tax Administration Act 1994; and
+  (d) does not replace a PAYE income payment; and
+  (e) does not depend on the seniority of the employee; and
+  (f) if the employee is associated with the employer, is available to another employee who—
+    (i) is not associated with the employer; and
+    (ii) is, or was immediately before an emergency event, in full-time employment with the employer; and
+  (g) is treated by the employer as not being a fringe benefit.
+Benefits with known value for employee
+(2) Benefits satisfying subsection (1) that would, in the absence of this section, be fringe benefits having a value for the employee that the employer could estimate are not fringe benefits to the extent to which their total value as fringe benefits for the period would be less than or equal to the amount by which $5,000 exceeds the income that is—
+  (a) exempt income under section CW 19B(b) (Certain amounts derived by employees during emergency events: exempt income); and
+  (b) derived by the employee from the employer in the same period.
+Benefits without known value for employee
+(3) Benefits satisfying subsection (1) that would, in the absence of this section, be fringe benefits having a value for the employee that the employer could not estimate are not fringe benefits.
+
+### FP 22 Accommodation expenditure incurred during emergency events
+When this section applies
+(1) This section applies for the purposes of section CW 16B (Accommodation expenditure: out-of-town secondments and projects) when—
+  (a) the employment duties of an employee require them to work on a project of limited duration for rebuilding or recovery, including the repair and reconstruction of land, infrastructure, and other property in an area affected by an emergency event; and
+  (b) the distant workplace is a workplace in an area affected by the emergency event.
+Exempt income
+(2) The value provided or expenditure incurred by the employer of the employee for or in relation to the accommodation is exempt income of the employee under section CW 16B as modified by this section.
+Modified definition of project of limited duration
+(3) For the purposes of this section, paragraph (c)﻿(iii) of the definition of project of limited duration and section CW 16C(2) (Time periods for certain accommodation expenditure) are modified by replacing the words “3 years” with the words “5 years” wherever they appear if the employee starts work at the distant workplace in the emergency event period.
+
+### FP 23 Livestock destroyed because of emergency events
+When this section applies
+(1) This section applies to an income year (the cull year) that falls within an emergency event period when—
+  (a) a person who owns or carries on a business has livestock on hand at the start of the cull year that they—
+    (i) use for breeding in the ordinary course of carrying on the business; and
+    (ii) have valued under the national standard cost scheme or the cost price method in the previous income year; and
+  (b) in the cull year, some or all of the person’s livestock are destroyed, because of the relevant emergency event, pursuant to—
+    (i) a power exercised under section 121 of the Biosecurity Act 1993:
+    (ii) a direction given under section 122 of that Act; and
+  (c) the number of mixed-age female breeding animals that the person expects to have on hand at the end of the income year following the cull year, for the type of livestock listed in schedule 17 (Types and classes of livestock), some or all of which were destroyed because of the relevant emergency event, is at least 75% of the number of mixed-age female breeding animals of that type that the person had on hand at the start of the cull year.
+How this section applies
+(2) When regulations made under section FP 26 provide that this section applies to more than 1 type or class of livestock listed in schedule 17, a person choosing to apply this section must—
+  (a) apply the formulas in sections FP 24 and FP 25 separately to each type of livestock; and
+  (b) notify the Commissioner in their election made under subsection (3) as to the type of livestock to which the election applies.
+Timing of income
+(3) The person may choose to allocate the amount of income calculated using the formula in section FP 24 equally between the 6 income years following the cull year.
+Timing of deductions
+(4) When a person makes an election under subsection (3), the amount of the deduction they would have had under section DB 49(3) (Adjustment for opening values of trading stock, livestock, and excepted financial arrangements) at the beginning of the cull year for their livestock that was destroyed is allocated equally between the 6 income years following the cull year.
+When business ceases
+(5) If the person stops owning or carrying on the business in an income year (the cessation year), any income and deductions that have not yet been allocated to an income year under subsections (3) and (4) are allocated to the cessation year.
+Elections
+(6) A person makes an election under subsection (3) by notifying the Commissioner by the date of filing their return of income for the cull year. The election cannot be revoked.
+When election treated as never having been made
+(7) A person who makes an election under subsection (3) is treated as never having made the election if the number of mixed-age female breeding animals the person has on hand at the end of the income year following the cull year, for the type of livestock listed in schedule 17, some or all of which were destroyed because of the relevant emergency event, is less than 75% of the number of mixed-age female breeding animals that the person had on hand at the start of the cull year.
+Meaning of mixed-age female breeding animals
+(8) In this section, mixed-age female breeding animals means, as applicable,—
+  (a) mixed-age cows:
+  (b) mixed-age hinds:
+  (c) mixed-age ewes:
+  (d) mixed-age does:
+  (e) breeding sows.
+Relationship with sections CG 6 and DB 49
+(9) This section overrides sections CG 6 (Receipts from insurance, indemnity, or compensation for trading stock) and DB 49.
+
+### FP 24 Calculation of income for section FP 23
+What this section does
+(1) When a person chooses to allocate their income under section FP 23(3), this section provides the formula to calculate the amount of that income.
+Calculation of income
+(2) The amount of income is calculated under the following formula:Σ(number × (sale proceeds + livestock compensation) ÷ culled stock).
+Definition of items in formula
+(3) The items in the formula in subsection (2) are defined in subsections (4) to (8).
+Σ
+(4) Σ is the symbol for the summation of the amounts calculated using the formula in the brackets that follow that symbol for each of the classes of livestock.
+Number
+(5) Number, for a class of livestock, is the number that is the lesser of the following 2 numbers, or the first number if they are the same:
+  (a) the number that is the greater of zero and the number calculated using the formula in section FP 25(2); and
+  (b) the number of livestock of that class that—
+    (i) were breeding stock or stock that the person expected to be capable of, and intended to be used for, breeding upon reaching maturity; and
+    (ii) the person valued under the national standard cost scheme or the cost price method in the income year before the cull year.
+Sale proceeds
+(6) Sale proceeds, for a class of livestock, is the amount of income the person derives as consideration for the disposal of livestock of that class, including their carcasses, that are part of the destroyed livestock referred to in section FP 23(1)﻿(b) (the destroyed livestock).
+Compensation
+(7) Livestock compensation, for a class of livestock, is the amount of income the person derives as compensation to which they are entitled under section 162A of the Biosecurity Act 1993 and that they receive by the end of the income year following the cull year, but only to the extent to which the compensation relates to—
+  (a) an excess of the value of the destroyed livestock that belong to that class used in the calculation of that compensation over the amount of income described in subsection (6) for that class; and
+  (b) an excess of the cost of replacement livestock of the same class that the person acquires and intends to be used for breeding over the amount of income that would, in the absence of this paragraph, be described in this subsection.
+Culled stock
+(8) Culled stock, for a class of livestock, is the number of livestock of that class that are part of the destroyed livestock.
+
+### FP 25 Livestock number for section FP 24
+What this section does
+(1) When a person calculates an amount of income under the formula in section FP 24, this section provides the formula to calculate the number for a class of livestock that is referred to in subsection (5)﻿(a) of that section.
+Calculation of number
+(2) The number for a class of livestock is calculated under the following formula:valuation method breeding stock + culled stock – opening stock.
+Definition of items in formula
+(3) In the formula in subsection (2), for a class of livestock,—
+  (a) valuation method breeding stock is the number of livestock of that class that—
+    (i) were breeding stock or stock that the person expected to be capable of, and intended be used for, breeding upon reaching maturity; and
+    (ii) the person valued under the national standard cost scheme or the cost price method in the income year before the cull year:
+  (b) culled stock is the number of livestock of that class that are part of the destroyed livestock referred to in section FP 23(1)﻿(b):
+  (c) opening stock is the number of livestock of that class that the person had on hand at the start of the cull year.
+
+### FP 26 Livestock specified by regulations
+Types and classes of livestock
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue, make regulations specifying 1 or more types or classes of livestock set out in schedule 17 (Types and classes of livestock) to which sections FP 23 to FP 25 apply.
+Application
+(2) Regulations made under this section may be expressed to come into force on a day that is before, on, or after the date on which they are made, but not earlier than the date the emergency event begins, as specified by regulations made under section 6J of the Tax Administration Act 1994, and the regulations come into force or, as the case may be, are deemed to have come into force accordingly.
+Retrospective
+(3) Regulations made under this section may be retrospective only to the extent provided for in subsection (2).
+Secondary legislation
+(4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### FP 27 Certain land and buildings affected by emergency event
+Sections CB 6A and CB 9 to CB 11 (which relate to income from disposals of land) do not apply to a person and land or buildings, or both, purchased by the Crown or a local authority from the person if the land or buildings, or both, were damaged by an emergency event.
+
 ### Subpart FZ — Terminating provisions
 
 ### FZ 1 Treatment of interest payable under debentures issued before certain date
@@ -26689,7 +27012,7 @@ Threshold for application of attribution rule
 (2) The attribution occurs only if—
   (a) 80% or more of the associated entity’s total income from personal services during the income year is derived from the supply of services to the buyer, a person associated with the buyer, or a combination of them; and
   (b) 80% or more of the associated entity’s income from personal services during the income year is derived through services personally performed by the working person, a relative of the working person, or a combination of them; and
-  (c) the working person’s net income for the income year, assuming section GB 29 applies in relation to the associated entity and working person, is more than $70,000; and
+  (c) the working person’s net income for the income year, assuming section GB 29 applies in relation to the associated entity and working person, is more than $78,100; and
   (d) substantial business assets are not a necessary part of the business structure that is used to derive the total income referred to in paragraph (a).
 Exemptions
 (3) The attribution does not occur—
@@ -27147,20 +27470,10 @@ Market value disposal
 (2) The trustees are treated as disposing of the trust residential land affected by a change described in subsection (1)﻿(c) for an amount of consideration equal to the market value of the land at the time of the change.
 
 ### GB 53B Interposed residential property percentage: increases or decreases in value
-When this section applies
-(1) This section applies when there is an increase or decrease in value that affects, or would affect the result of a calculation of a person’s interposed residential property percentage, defined in section DH 6 (Interposed residential property percentage), and the increase or decrease is—
-  (a) caused by an action or omission that has, or would have the purpose or effect of defeating the intent and application of subpart DH (Interest incurred in relation to certain land):
-  (b) produced by an arrangement that has a purpose or effect of defeating the intent and application of subpart DH.
-Effect of increase or decrease
-(2) The effect of the increase or decrease in value on the calculation of a person’s interposed residential property percentage is ignored.
+[Repealed]
 
 ### GB 53C On-lending at lower rate
-When this section applies
-(1) This section applies when, under an arrangement, a person borrows money and on-lends it to an associated person at a lower rate than that at which the person borrowed it, if—
-  (a) the associated person, or a person associated with the associated person, owns disallowed residential property; and
-  (b) the arrangement has a purpose or effect, not being a merely incidental purpose or effect, of defeating the intent and application of subpart DH (Interest incurred in relation to certain land).
-Lower rate used
-(2) The amount of interest incurred by the person for the purposes of Part D is limited to and calculated using the lower rate. The higher rate is ignored.
+[Repealed]
 
 ### GB 54 Arrangements involving establishments
 When this section applies
@@ -27450,7 +27763,9 @@ Initial determination by the taxpayer
 Commissioner’s determination
 (5)
 Amendment of assessment
-(6) Despite the time bar, the Commissioner may amend an assessment for a tax year (the assessed year) in order to give effect to this section and to sections GC 6 to GC 12 and GC 14 to GC 19 at any time in the period of 7 tax years after the tax year (the return year) in which a return of income is made for the assessed year if, at any time in the period of 4 tax years after the return year, the Commissioner notifies the taxpayer that a tax audit or investigation has commenced and this subsection applies.
+(6) Despite the time bar, the Commissioner may amend a taxpayer’s assessment for a tax year (the assessed year) in order to give effect to this section and to sections GC 6 to GC 12 and GC 14 to GC 19 at any time in the period of 7 tax years after the tax year (the return year) in which a return of income is made for the assessed year if, at any time in the period of 4 tax years after the return year, the Commissioner notifies the taxpayer or another taxpayer that a relevant tax audit or investigation affecting them has commenced and this subsection applies.
+Further amendment of assessment
+(7) Despite the time bar, at any time in the period of 7 tax years after the return year for an amendment (a transfer pricing amendment) that was made under subsection (6), the Commissioner may amend an assessment if such amendment is related to the transfer pricing amendment.
 
 ### GC 14 Definitions for sections GC 6 to GC 13
 In sections GC 6 to GC 13,—
@@ -28802,7 +29117,8 @@ Exempt income
     (ii) the trust is registered at the beginning of the income year; and
     (iii) the trust is registered when the foreign-sourced amount is derived; and
     (iv) the trustee complies with the requirements under sections 22, 59B, 59C, and 59D of the Tax Administration Act 1994 that the trustee must meet during the income year; and
-  (e) the amount is not beneficiary income derived by a minor that is treated as if it were trustee income.
+  (e) the amount is not beneficiary income derived by a minor that is treated as if it were trustee income under section HC 35(2); and
+  (f) the amount is not beneficiary income derived by a close company that is treated as if it were trustee income under section HC 38(3).
 Time for compliance with requirements
 (1B) For a trustee to satisfy subsection (1)﻿(c)﻿(iii), (iv), or (v) or (d)﻿(ii), (iii), or (iv) for an income year, the trustee must—
   (a) comply in the income year with the requirements referred to in the subparagraph:
@@ -30138,7 +30454,7 @@ Foreign investment PIEs
 
 ### HM 7 Requirements
 For an entity to be a PIE, it must—
-  (a) meet the requirements of the entry rules in sections HM 8 to HM 10, HM 17, HM 18, and HM 20, as applicable; and
+  (a) meet the requirements of the entry rules in sections HM 8 to HM 10B, HM 17, HM 18, and HM 20, as applicable; and
   (b) be 1 of the types of entity referred to in section HM 2(2); and
   (c) choose under section HM 71 or HM 71B to become a PIE; and
   (d) maintain the requirements of the rules in sections HM 8 to HM 20, as applicable; and
@@ -30165,6 +30481,9 @@ The entity must be—
 ### HM 10 Exclusion: life insurance business
 The entity must not carry on a business of life insurance unless it is a life fund PIE.
 
+### HM 10B Exclusion: banks and licensed non-bank deposit takers
+The entity must not be a registered bank or a licensed non-bank deposit taker.
+
 ### HM 11 Investment types
 Types
 (1) The entity’s investments, to the extent of 90% or more by value of its assets, must be—
@@ -30184,7 +30503,7 @@ Nature of income
   (b) consist of the following:
     (i) a dividend:
     (ii) a replacement payment:
-    (iii) an amount of income treated under subpart EW (Financial arrangements rules) as derived by the entity:
+    (iii) an amount of income treated under subpart EW (Financial arrangements rules) as derived by the entity, other than an amount of excluded interest:
     (iv) an amount of income derived from a lease of land, but this subparagraph does not apply if the lessee under the lease is associated with the entity receiving the amount:
     (ivb) insurance, indemnity, or compensation amounts replacing income that would be described in subparagraph (iv):
     (v) an amount derived from the disposal of property referred to in section HM 11:
@@ -30193,6 +30512,16 @@ Nature of income
     (viii) a distribution from a superannuation fund:
     (ix) an amount of income under section CW 4 (Annuities under life insurance policies) or CX 40 (Superannuation fund deriving amount from life insurance policy):
     (x) a rebate on a management fee.
+Meaning of excluded interest
+(1B) For the purposes of subsection (1)﻿(b)﻿(iii), excluded interest means interest derived from a person associated with the entity other than under section YB 2(3) (Two companies), but does not include interest derived from the person if—
+  (a) the person is a registered bank or a licensed non-bank deposit taker:
+  (b) the person is—
+    (i) a PIE; or
+    (ii) a foreign PIE equivalent; or
+    (iii) an entity that qualifies for PIE status:
+  (c) the interest is on funds the entity loaned to the person that were loaned to the entity by a third party, and the interest rate is either—
+    (i) the same for both loans; or
+    (ii) the weighted average of interest rates incurred by the entity under all active loans from third parties.
 Foreign investment zero-rate PIEs
 (2) Section HM 19B(1) overrides this section.
 Foreign investment variable-rate PIEs
@@ -31159,7 +31488,7 @@ Definition of items in formula
 **Elections and consequences**
 
 ### HM 71 Choosing to become PIE
-An entity that, at the time of election, meets the requirements of the entry rules in sections HM 8 to HM 10, HM 17, HM 18, and HM 20, except to the extent to which the relevant requirement is said not to be applicable to the entity, may choose to become a PIE by notifying the Commissioner under section 31B of the Tax Administration Act 1994.
+An entity that, at the time of election, meets the requirements of the entry rules in sections HM 8 to HM 10B, HM 17, HM 18, and HM 20, except to the extent to which the relevant requirement is said not to be applicable to the entity, may choose to become a PIE by notifying the Commissioner under section 31B of the Tax Administration Act 1994.
 
 ### HM 71B Choosing to become foreign investment PIE
 What this section applies to
@@ -33741,6 +34070,8 @@ Definition of items in formula
     (i) is the amount of the loss balance carried forward to the tax year that the person must subtract from their net income under section IA 4(1)﻿(a) (Using loss balances carried forward to tax year):
     (ii) must be no more than the amount of the person's net income:
   (c) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
+Deductions for beneficiaries
+(7) If the person is a beneficiary of a trust and has a segment of foreign-sourced income (the foreign income) that was received by the trust and is beneficiary income of the person, the person is treated for the purposes of this section as having the amount of deductions relating to the foreign income that a trustee of the trust would have had if the trustee were calculating their New Zealand tax for the foreign income under this section.
 
 ### LJ 6 Taxable distributions and NRWT rules
 When this section applies
@@ -40911,8 +41242,8 @@ PAYE income payments other than schedular payments
 (1) The amount of tax for a PAYE income payment that a person must withhold and pay to the Commissioner under section RA 5 (Tax obligations for employment-related taxes) is the relevant amount under schedule 2 (Basic tax rates for PAYE income payments). Subsections (2), (2B), (2C), (2D), and (3) and sections RD 12 to RD 20C override this subsection.
 Choosing rate for extra pay
 (2) An employee who notifies their employer of their tax code may choose to have the amount of tax for an extra pay fixed as follows:
-  (a) for an employee whose taxable income for the income year is expected to be not more than $48,000, the rate set out in schedule 2, part B, table 1, row 3; or
-  (b) for an employee whose taxable income for the income year is expected to be not more than $70,000, the rate set out in schedule 2, part B, table 1, row 4; or
+  (a) for an employee whose taxable income for the income year is expected to be not more than $53,500, the rate set out in schedule 2, part B, table 1, row 3; or
+  (b) for an employee whose taxable income for the income year is expected to be not more than $78,100, the rate set out in schedule 2, part B, table 1, row 4; or
   (c) for an employee whose taxable income for the income year is expected to be not more than $180,000, the rate set out in schedule 2, part B, table 1, row 5; or
   (d) for other employees, the rate set out in schedule 2, part B, table 1, row 6.
 Relationship with section RD 17
@@ -41041,6 +41372,10 @@ When this section applies
 (1) This section applies when a person pays an amount of extra pay to an employee who also receives a PAYE income payment from the person, regardless of whether the extra pay is paid with or separately from a PAYE income payment. The amount of tax for the extra pay is based on the sum of—
   (a) the amount of the extra pay; and
   (b) the annualised value of all PAYE income payments made to the employee in the period that starts 4 weeks before the date of the payment of the extra pay and ends on the date of that payment.
+End of employment
+(1BA) Despite subsection (1), if the extra pay includes an amount that arises from the ending of the employee’s employment, the amount of tax for the extra pay is based on the sum of—
+  (a) the amount of the extra pay; and
+  (b) the annualised value of the PAYE income payments for the last 2 pay periods before the PAYE income payment for the extra pay.
 Calculating annualised value
 (1B) For the purposes of calculating the amount that is the annualised value referred to in subsection (1)﻿(b), the amount of the extra pay referred to in subsection (1)﻿(a) and of extra pays paid to the employee in the period referred to in subsection (1)﻿(b) is excluded.
 Exclusion: non-resident seasonal workers and non-notified tax codes
@@ -41051,10 +41386,10 @@ Exclusion: non-resident seasonal workers and non-notified tax codes
   (b) an employee who has a non-notified tax code referred to in schedule 2, part A, clause 3.
 Rates applying
 (2) For the sum of the amounts referred to in subsection (1) listed in the following paragraphs, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in the relevant row of schedule 2, part B, table 1 (Basic tax rates for PAYE income payments):
-  (a) if the sum of the amounts is $14,000 or less, the amount determined by applying row 2:
-  (b) if the sum of the amounts is more than $14,000 but not more than $48,000, the amount determined by applying row 3:
-  (c) if the sum of the amounts is more than $48,000 but not more than $70,000, the amount determined by applying row 4:
-  (d) if the sum of the amounts is more than $70,000 but not more than $180,000, the amount determined by applying row 5:
+  (a) if the sum of the amounts is $15,600 or less, the amount determined by applying row 2:
+  (b) if the sum of the amounts is more than $15,600 but not more than $53,500, the amount determined by applying row 3:
+  (c) if the sum of the amounts is more than $53,500 but not more than $78,100, the amount determined by applying row 4:
+  (d) if the sum of the amounts is more than $78,100 but not more than $180,000, the amount determined by applying row 5:
   (e) if the sum of the amounts is more than $180,000, the amount determined by applying row 6.
 When secondary tax codes apply
 (3) Despite subsection (2), if the person pays an amount of extra pay to an employee in relation to which the employee has notified the person that a secondary code under schedule 5, part A, clause 4, rows 3 to 6B of the Tax Administration Act 1994 applies, the rate under schedule 2, part B, table 1 applying to the extra pay is determined using the formula—extra pay + annualised amount + low threshold amount.
@@ -41064,9 +41399,9 @@ Definition of items in formula
   (b) annualised amount is the amount given by subsections (1)﻿(b) and (1B):
   (c) low threshold amount is, as applicable,—
     (i) for secondary code SB, $0:
-    (ii) for secondary code S, $14,001:
-    (iii) for secondary code SH, $48,001:
-    (iv) for secondary code ST, $70,001:
+    (ii) for secondary code S, $15,601:
+    (iii) for secondary code SH, $53,501:
+    (iv) for secondary code ST, $78,101:
     (v) for secondary code SA, $180,001.
 
 ### RD 18 Schedular payments without notification
@@ -43587,6 +43922,7 @@ Commissioner’s discretion to allow use of funds to meet new liability
 (13) On application by the person, the Commissioner may notify the person that the person may use funds in a tax pooling account to meet the new liability, if the Commissioner is satisfied that the new liability did not arise as a result of a choice by the person not to comply with the person’s obligations under the Inland Revenue Acts or as a result of a failure by the person to take reasonable care to comply with those obligations.
 Categories of tax that may be included in new liability
 (14) The categories of tax that may be included in a new liability for the purposes of subsection (12) are—
+  (aa) approved issuer levy:
   (a) ESCT:
   (b) FBT:
   (c) further income tax:
@@ -43918,7 +44254,7 @@ In this Act, unless the context requires otherwise,—
   - **accident insurance contract** is defined in section CW 34(2) (Compensation payments) for the purposes of that section
   - **accommodation** ,—
     (a) in section CX 28 (Accommodation), includes the use of a house or living premises, or the use of part of a house or living premises, whether permanent or temporary:
-    (b) is defined in section CE 1(2) for the purposes of sections CE 1B to CE 1E, CW 16B to CW 16F, CW 17CB, CZ 23, CZ 23B, and CZ 29 to CZ 30 (which relate to accommodation provided in connection with employment)
+    (b) is defined in section CE 1(2) for the purposes of sections CE 1B to CE 1E, CW 16B to CW 16F, CW 17CB, CW 19B, CZ 23, CZ 23B, CZ 29 to CZ 30, and FP 15 (which relate to accommodation provided in connection with employment)
   - **account advantage** —
     (a) is defined in section GB 36(5) (Reconstruction of imputation arrangements to obtain tax advantage) for the purposes of that section:
     (b) is defined in section GB 43(5) (Reconstruction of Maori authority credit arrangements to obtain tax advantage) for the purposes of that section
@@ -43965,6 +44301,13 @@ In this Act, unless the context requires otherwise,—
     (a) the regions of Northland, Auckland, Waikato, Bay of Plenty, Gisborne, and Hawke’s Bay:
     (b) the districts of Tararua, Masterton, Carterton, South Wairarapa, Manawatū, and Rangitikei
   - **affected associate** is defined in section GB 48(1) (Defined terms for sections GB 45 and GB 46) for the purposes of sections GB 45 and GB 46 (which relate to arrangements involving money not at risk)
+  - **affected class** is defined in section FP 3 (Definitions for the purposes of subpart FP) for the purposes of subpart FP (Tax relief for emergencies)
+  - **affected depreciable property** is defined in section FP 3 (Definitions for the purposes of subpart FP) for the purposes of subpart FP (Tax relief for emergencies)
+  - **affected depreciation loss** is defined in section FP 3 (Definitions for the purposes of subpart FP) for the purposes of subpart FP (Tax relief for emergencies)
+  - **affected depreciation recovery income** is defined in section FP 3 (Definitions for the purposes of subpart FP) for the purposes of subpart FP (Tax relief for emergencies)
+  - **affected improvement to land** is defined in section FP 3 (Definitions for the purposes of subpart FP) for the purposes of subpart FP (Tax relief for emergencies)
+  - **affected property** is defined in section FP 3 (Definitions for the purposes of subpart FP) for the purposes of subpart FP (Tax relief for emergencies)
+  - **affected revenue property** is defined in section FP 3 (Definitions for the purposes of subpart FP) for the purposes of subpart FP (Tax relief for emergencies)
   - **after-income tax earnings**
   - **after-income tax loss**
   - **agent** means a person declared by this Act to be an agent for the purposes of income tax
@@ -44299,7 +44642,7 @@ In this Act, unless the context requires otherwise,—
   - **claim of right** means a belief that an act is lawful, although the belief may be based on ignorance, or mistake, of—
     (a) fact; or
     (b) any matter of law other than the enactment against which the offence is alleged to have been committed
-  - **class** , in subpart EC (Valuation of livestock), and in sections EZ 4 and EZ 4B (which are terminating provisions relating to livestock), and in the definition of ,—
+  - **class** , in subpart EC (Valuation of livestock), and in sections EZ 4 and EZ 4B (which are terminating provisions relating to livestock), subpart FP (Tax relief for emergencies), and in the definition of ,—
     (a) means a category of livestock listed in schedule 17, column 2 (Types and classes of livestock); and
     (b) when used of a particular type of livestock, means any of the categories listed for that particular type
   - **class closing animal balance** is defined in section EC 8(4) (Restrictions arising from use of herd scheme) for the purposes of that section
@@ -44327,7 +44670,7 @@ In this Act, unless the context requires otherwise,—
       (i) a market value circumstance exists for the company; and
       (ii) there are 5 or fewer persons the total of whose direct market value interests in the company is more than 50%, treating all persons associated at the time as 1 person
   - **closing stock** , for a person and for an income year, means trading stock of the person at the end of the income year
-  - **code compliance certificate** is defined in section DH 5 (Key terms)
+  - **code compliance certificate**
   - **collection agency** has the same meaning as in section 4 of the Resale Right for Visual Artists Act 2023
   - **combined imputation and CTR ratio**
   - **combined imputation and FDP ratio**
@@ -44396,6 +44739,7 @@ In this Act, unless the context requires otherwise,—
     (k) is defined in section HD 15(9) (Asset stripping of companies) for the purposes of that section
   - **company dividend statement** means a statement required by section 25G of the Tax Administration Act 1994 to be completed and retained by a company for a dividend
   - **comparative value method** means the method of calculating FIF income or FIF loss in section EX 51 (Comparative value method)
+  - **compensation** is defined in section FP 3 (Definitions for the purposes of subpart FP) for the purposes of subpart FP (Tax relief for emergencies)
   - **compensation**
   - **competent authority** is defined in section 3(1) of the Tax Administration Act 1994
   - **completed** , for a film, means the completion of the film to—
@@ -44516,6 +44860,7 @@ In this Act, unless the context requires otherwise,—
     (a) in subpart EB (Valuation of trading stock (including dealer’s livestock)), for trading stock, means costs incurred in the ordinary course of business to bring trading stock to its present location and condition, including acquisition costs and costs of production, calculated under sections EB 6 to EB 8 (which relate to costs for standard valuations), EB 15 to EB 18 (which relate to costs for low-turnover traders), and EB 22 (Valuing closing stock consistently for low-turnover traders):
     (b) is defined in section RD 40(3) (Goods) for the purposes of that section:
     (c) in sections RD 42 and RD 43 (which relate to goods provided with staff discount), for a registered person who may claim input tax for the cost of the goods, means the GST-inclusive cost of the goods to the person
+  - **cost deductions** is defined in section FP 3 (Definitions for the purposes of subpart FP) for the purposes of subpart FP (Tax relief for emergencies)
   - **cost method** means a method of calculating FIF income or FIF loss under section EX 56 (Cost method)
   - **cost of timber** , in sections DP 11, EJ 1, EW 2, EZ 44, FB 6, and FB 7 (which relate to the disposal of timber),—
     (a) means the amount of expenditure incurred by a person in relation to timber—
@@ -44529,7 +44874,7 @@ In this Act, unless the context requires otherwise,—
       (ii) expenditure to which section DB 46 (Avoiding, remedying, or mitigating effects of discharge of contaminant or making of noise) applies:
       (iii) an amount allowed as a deduction under section DQ 4 (Environmental restoration accounts scheme)
   - **cost price** ,—
-    (a) in subpart EC (Valuation of livestock), and in sections EZ 4B, EZ 5, EZ 6, FB 17, HB 10, and HG 10 (which relate to livestock), does not include any amount of input tax in relation to the supply of livestock or trading stock to a person; and
+    (a) in subpart EC (Valuation of livestock), and in sections EZ 4B, EZ 5, EZ 6, FB 17, FP 23, HB 10, and HG 10 (which relate to livestock), does not include any amount of input tax in relation to the supply of livestock or trading stock to a person; and
     (b) in section FZ 2 (Effect of specified lease on lessor and lessee), and in the definition of specified lease, and for a personal property lease asset, means the amount of expenditure of a capital nature that is incurred, in acquiring and installing the asset,—
       (i) by the lessor; or
       (ii) if the lessor under a lease acquires the asset as lessee under any other lease, by the person who is the lessor in the other lease; and
@@ -44585,6 +44930,7 @@ In this Act, unless the context requires otherwise,—
   - **current accounting year**
   - **current market value** is defined in section HR 12 (Non-exempt charities: treatment of tax-exempt accumulations) for the purposes of that section
   - **current value** is defined in section HR 3(4) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
+  - **current year** is defined in section FP 3 (Definitions for the purposes of subpart FP) for the purposes of subpart FP (Tax relief for emergencies)
   - **custodial institution** is defined in section RE 10C(6) (Obligations of custodial institutions in relation to certain payments of investment income) for the purposes of that section and sections RE 4 and RF 4
   - **date of acquisition**
   - **date of transfer** , in subpart FB (Transfers of relationship property), and in the definitions of , for property transferred under a relationship agreement, means the date on which the property was transferred
@@ -44665,7 +45011,7 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section EH 36 (Other definitions) for the purposes of the main income equalisation scheme:
     (b)
     (c) is defined in section EH 79 (Other definitions) for the purposes of the thinning operations income equalisation scheme:
-    (d) is defined in section EZ 81 (Refund of excess deposit in adverse event income equalisation account as consequence of election under section EZ 4B) for the purposes of that section
+    (d) is defined in section EZ 81 (Refund of excess deposit in adverse event income equalisation account as consequence of election under section EZ 4B or FP 23) for the purposes of that section
   - **depreciable intangible property** is defined in section EE 62 (Meaning of depreciable intangible property)
   - **depreciable property** is defined in sections EE 6 (What is depreciable property?) and EE 7 (What is not depreciable property?)
   - **depreciation loss** —
@@ -44711,7 +45057,7 @@ In this Act, unless the context requires otherwise,—
   - **disabled beneficiary** is defined in section HC 39(3) (Trustee income: disabled beneficiary trusts)
   - **disabled beneficiary trust** is defined in section HC 39(2) (Trustee income: disabled beneficiary trusts)
   - **disabled workshop payment** is defined in section CW 33(2) (Allowances and benefits) for the purposes of that section
-  - **disallowed residential property** is defined in section DH 5 (Key terms)
+  - **disallowed residential property**
   - **discontinuance profit** means the amount calculated by a life insurer following the steps in section EY 36 (Discontinuance profit for income year)
   - **discontinuance profit formula** means the formula in section EY 37 (Discontinuance profit formula (existing policies)) or the formula in section EY 38 (Discontinuance profit formula (new policies))
   - **discount payment date** is defined in section EZ 30(3) (Base premium for 1998–99 premium year under Accident Insurance Act 1998) for the purposes of that section
@@ -44812,7 +45158,11 @@ In this Act, unless the context requires otherwise,—
   - **eligible hedge** is defined in section EM 8 (Some definitions) for the purposes of subpart EM (Hedging of currency movements in Australian non-attributing shares and attributing FDR method interests)
   - **eligible research and development expenditure** is defined in section LY 5 (Eligible research and development expenditure)
   - **emergency call** is defined in section CX 34 (Meaning of emergency call)
+  - **emergency event** —
+    (a) is defined in section 3(1) of the Tax Administration Act 1994 for the purposes of subpart FP (Tax relief for emergencies):
+    (b) for the purposes of section MB 13 (Family scheme income from other payments), means an event declared to be an emergency event by the Commissioner in a determination under section 91AAS of the Tax Administration Act 1994
   - **emergency event**
+  - **emergency event period** is defined in section FP 3 (Definitions for the purposes of subpart FP) for the purposes of subpart FP (Tax relief for emergencies)
   - **emigrating company** is defined in section FL 1(1) (What this subpart does)
   - **emissions unit** means a unit as defined in section 4(1) of the Climate Change Response Act 2002
   - **emissions unit shortfall year** , for a person means an income year that—
@@ -44822,7 +45172,7 @@ In this Act, unless the context requires otherwise,—
     (a) means a person who receives or is entitled to receive a PAYE income payment:
     (ab) for the purposes of the FBT rules, includes a shareholder-employee:
     (ac) despite paragraph (a), in sections CE 1, CE 1B, and CW 16B to CW 16F (which relate to accommodation provided in connection with employment), includes an employee provided with accommodation or an accommodation payment as described in section CE 1(3)﻿(a) (Amounts derived in connection with employment):
-    (b) in sections CW 17, CW 17B, CW 17C, CW 17CB, CW 17CC, and CW 18 (which relate to expenditure, reimbursement, and allowances of employees) includes a person to whom section RD 3B or RD 3C (which relate to income other than PAYE) applies:
+    (b) in sections CW 17, CW 17B, CW 17C, CW 17CB, CW 17CC, CW 17D, and CW 18 (which relate to expenditure, reimbursement, and allowances of employees) includes a person to whom section RD 3B or RD 3C (which relate to income other than PAYE) applies:
     (c) in the FBT rules, and in the definition of shareholder-employee (paragraph (b)), does not include a person if the only PAYE income payment received or receivable is—
       (i) a payment referred to in section RD 5(1)﻿(b)﻿(iii), (3), (3B), (6)﻿(b), (bb), (bc), and (c) and (7) (Salary or wages):
       (ii) a schedular payment referred to in schedule 4, parts A, I, and W (Standard rates of tax for schedular payments) for which the person is liable for income tax under section BB 1 (Imposition of income tax):
@@ -44851,8 +45201,8 @@ In this Act, unless the context requires otherwise,—
       (i) a payment referred to in section RD 5(1)﻿(b)﻿(iii), (3), (3B), (6)﻿(b), (bb), (bc), and (c), and (7) (Salary or wages):
       (ii) a schedular payment referred to in schedule 4, parts A, I, and W (Standard rates of tax for schedular payments):
     (d)
-    (db) is defined in section CE 1(3)﻿(a) (Amounts derived in connection with employment) for the purposes of that section and sections CE 1B, CW 16B to CW 16F, and CZ 29 to CZ 30 (which relate to accommodation provided in connection with employment):
-    (dc) is defined in section CE 1(3)﻿(b) for the purposes of sections CW 16B to CW 16F, and CZ 29 to CZ 30:
+    (db) is defined in section CE 1(3)﻿(a) (Amounts derived in connection with employment) for the purposes of that section and sections CE 1B, CW 16B to CW 16F, CZ 29 to CZ 30, and FP 22 (which relate to accommodation provided in connection with employment):
+    (dc) is defined in section CE 1(3)﻿(b) for the purposes of sections CW 16B to CW 16F, CZ 29 to CZ 30, and FP 22:
     (e) for an employee, means the employer of the employee
   - **employer contribution** has the same meaning as in the KiwiSaver Act 2006
   - **employer monthly schedule**
@@ -44893,6 +45243,7 @@ In this Act, unless the context requires otherwise,—
   - **entitlement period** is defined in section MC 11(1) (Relationship periods and entitlement periods) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **entity** is defined in section FH 15(1) (Definitions)
   - **environmental restoration account** is defined in section EK 23(3) (Other definitions) for the purposes of subpart EK (Environmental restoration accounts)
+  - **equity group** is defined in section FE 16B(5) (Total group non-debt liabilities) for the purposes of that section
   - **equity instrument** is defined in section EW 15I(3) (Mandatory use of yield to maturity method for some arrangements) for the purposes of that section
   - **ESCT** —
     (a) means employer's superannuation contribution tax; and
@@ -44929,7 +45280,7 @@ In this Act, unless the context requires otherwise,—
   - **excepted financial arrangement** —
     (a) is defined in section EW 5 (What is an excepted financial arrangement?) for the purposes of this Act except the old financial arrangements rules; and
     (b) is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
-  - **excepted residential land** is defined in section DH 5 (Key terms)
+  - **excepted residential land**
   - **excess credit amount**
   - **excess debt entity** is defined in section FE 4 (Some definitions) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **excess debt outbound company** is defined in section FE 4 (Some definitions) for the purposes of subpart FE (Interest apportionment)
@@ -44951,6 +45302,7 @@ In this Act, unless the context requires otherwise,—
     (b) is granted to the holder of the share or debenture for the purpose of assisting the holder to prevent the alteration; and
     (c) at the time of the issue of the share or debenture, is not expected to arise
   - **excluded income** is defined in section BD 1(3) (Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income)
+  - **excluded interest** is defined in section HM 12(1B) (Income types) for the purposes of that section
   - **excluded option** means, for a company, an option to acquire or dispose of a share in the company if—
     (a) the directors of the company did not know and could not reasonably be expected to know that the option had been granted; or
     (b) neither the grantor of the option nor any person associated with the grantor of the option at the time the option is granted holds a share in the company over which the option is granted at the time the option is granted, whether directly or indirectly, but this paragraph does not apply in a case in which the grantor of the option is the company; or
@@ -44984,7 +45336,7 @@ In this Act, unless the context requires otherwise,—
     (g) payable by the Commissioner under section 84 of the KiwiSaver Act 2006
   - **exempt main home**
   - **exempt main home period limit**
-  - **exempt Māori company** is defined in section DH 5 (Key terms)
+  - **exempt Māori company**
   - **exempted predominant main home day**
   - **exemption certificate**
   - **existing business** is defined in section EY 28 (Shareholder base other profit: profit participation policies that are existing business) for the purposes of that section and section EY 29 (Shareholder base other profit: profit participation policies that are new business)
@@ -45355,7 +45707,7 @@ In this Act, unless the context requires otherwise,—
     (a) is an owner of the entity:
     (b) has entered into an arrangement to become an owner of the entity:
     (c) is a beneficiary of a trust that is an owner of the entity
-  - **grandparented residential interest** is defined in section DH 7 (Grandparented residential interest)
+  - **grandparented residential interest**
   - **grandparented structure** means, for a person, any item on the following list if the person acquired the item, or entered into a binding contract for the purchase or construction of the item, on or before 30 July 2009:
     (a) barns, including barns (drying):
     (b) carparks (buildings):
@@ -45364,7 +45716,7 @@ In this Act, unless the context requires otherwise,—
     (e) powder drying buildings:
     (f) site huts
   - **grandparented structure**
-  - **grandparented transitional loan** is defined in section DH 5 (Key terms)
+  - **grandparented transitional loan**
   - **grandparenting income year** is defined in section HA 5(5) (Elections to become qualifying company)
   - **grandparenting start day** is defined in section EY 30 (Transitional adjustments: life risk)
   - **grant-related suspensory loan** means a loan—
@@ -45644,8 +45996,8 @@ In this Act, unless the context requires otherwise,—
       (xv)
       (xvi) section YD 3 (Country of residence of foreign companies); and
     (b) section 61 of the Tax Administration Act 1994
-  - **interposed residential property holder** is defined in section DH 5 (Key terms)
-  - **interposed residential property percentage** is defined in section DH 6 (Interposed residential property percentage)
+  - **interposed residential property holder**
+  - **interposed residential property percentage**
   - **investment activity** is defined in section MB 3 (When person carries on 1 or more businesses or investment activities) for the purpose of that section
   - **investment income** is defined in section RE 10C(8) (Obligations of custodial institutions in relation to certain payments of investment income) for the purposes of that section and sections RE 4 and RF 4
   - **investment society dividend** means—
@@ -46175,7 +46527,7 @@ In this Act, unless the context requires otherwise,—
   - **net loss** means a net loss for a tax year calculated under section BC 4 (Net income and net loss) and reduced by the amount extinguished by the Commissioner under section MX 5 (Cancellation of R&D tax losses) and section 177C(5) of the Tax Administration Act 1994
   - **net mining loss** is defined in section IS 1(3) (General treatment of mineral miners' net losses) for the purposes of subpart IS (Mineral miners' and petroleum miners' tax losses)
   - **new asset** is defined in section EZ 24 (Meaning of new asset)
-  - **new build land** is defined in section DH 5 (Key terms)
+  - **new build land**
   - **new business** is defined in section EY 29 (Shareholder base other profit: profit participation policies that are new business) for the purposes of that section
   - **new company tax rate person** ,—
     (a) means a person who uses a 28% basic tax rate for the 2011–12 income year or later income years:
@@ -46867,7 +47219,12 @@ In this Act, unless the context requires otherwise,—
   - **Railways vesting** is defined in section EZ 68 (Definitions) for the purposes of sections CW 65, EZ 64 to EZ 67, and YC 18C (which relate to New Zealand Railways Corporation restructure)
   - **ratio instalment date** means an instalment date of a person who uses a GST ratio for a tax year, and is an instalment date for a payment in relation to which no amount of use of money interest or penalties apply other than a late payment penalty or a shortfall penalty
   - **real property** includes a permit as defined in the Crown Minerals Act 1991
-  - **rebuilding** is defined in section CZ 29(5) (Accommodation expenditure: Canterbury earthquake relief) for the purposes of that section
+  - **rebuilding** —
+    (a) is defined in section CZ 29(5) (Accommodation expenditure: Canterbury earthquake relief) for the purposes of that section:
+    (b) is defined in section CZ 29B (Accommodation expenditure: North Island flooding events) for the purposes of that section:
+    (c) for the purposes of subpart FP (Tax relief for emergencies), includes—
+      (i) extending, repairing, improving, subdividing, or converting any land, infrastructure, or other property; and
+      (ii) rebuilding communities
   - **recognised exchange** , at any time,—
     (a) means a recognised exchange market in New Zealand or anywhere else in the world that at the time has the features described in paragraphs (c) to (e); and
     (b) includes a recognised exchange market that at the time is approved for the purposes of this definition by the Commissioner, having had regard to the features described in paragraphs (c) to (e); and
@@ -46885,7 +47242,10 @@ In this Act, unless the context requires otherwise,—
   - **recourse property** is defined in—
     (a) section HB 11(12) (Limitation on deductions by persons with interests in look-through companies) for the purposes of that section:
     (b) section HG 11(12) (Limitation on deductions by partners in limited partnerships) for the purposes of that section
-  - **recovery** is defined in section CZ 29(5) (Accommodation expenditure: Canterbury earthquake relief) for the purposes of that section
+  - **recovery** —
+    (a) is defined in section CZ 29(5) (Accommodation expenditure: Canterbury earthquake relief) for the purposes of that section:
+    (b) is defined in section CZ 29B (Accommodation expenditure: North Island flooding events) for the purposes of that section:
+    (c) for the purposes of subpart FP (Tax relief for emergencies), includes restoration and enhancement
   - **redemption payment** means the amount by which a payment made on the redemption of a commercial bill by the person who issued it is more than the money lent to the person, , in this definition, having the meaning given to it by section 2 of the Bills of Exchange Act 1908
   - **reduced deficit debit**
   - **redundancy payment**
@@ -46938,6 +47298,7 @@ In this Act, unless the context requires otherwise,—
   - **rent** is defined in section GC 5(5) (Leases for inadequate rent) for the purposes of that section
   - **repairs** , in sections CC 2 (Non-compliance with covenant for repair) and DB 21 (Amounts paid for non-compliance with covenant for repair), includes painting and general maintenance
   - **replaced area fraction** is defined in section DO 9 (Meaning of replaced area fraction and diminished value) for the purposes of sections DO 5 and DO 6 (which relate to horticultural plants)
+  - **replacement cost** is defined in section FP 3 (Definitions for the purposes of subpart FP) for the purposes of subpart FP (Tax relief for emergencies)
   - **replacement employee share scheme** is defined in section CE 7D (Meaning of replacement employee share scheme)
   - **replacement ETS unit**
   - **replacement forest land emissions unit** means an emissions unit acquired by a person if—
@@ -46952,6 +47313,7 @@ In this Act, unless the context requires otherwise,—
     (a) means a petroleum permit obtained in whole or part exchange for another petroleum permit over the same or part of the same area; and
     (b) includes a sequential series of replacement permits to the extent to which each permit in the series replaces the previous permit in the series
   - **replacement plant** , in sections DO 6, DO 7, and DO 9 (which relate to horticultural plants) means a listed horticultural plant that replaces a listed horticultural plant, whether or not it is of the same type of listed horticultural plant
+  - **replacement property** is defined in section FP 3 (Definitions for the purposes of subpart FP) for the purposes of subpart FP (Tax relief for emergencies)
   - **reportable income** is defined in section 22D(3) of the Tax Administration Act 1994, except as provided for in section MH 2 (Some definitions) for the purposes of subpart MH (FamilyBoost tax credits)
   - **reporting bank** is defined in section FE 4 (Some definitions) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **reporting standard**
@@ -46985,10 +47347,10 @@ In this Act, unless the context requires otherwise,—
       (ii) land for which the owner has an arrangement that relates to erecting a dwelling, unless the land is farmland or is used predominantly as business premises:
       (iii) bare land that may be used for erecting a dwelling under rules in the relevant operative district plan, unless the bare land is farmland or is used predominantly as business premises; and
     (b) includes land that has a dwelling on it, if it is used by a person predominantly as business premises for a business of supplying accommodation and the dwelling is not a main home for the person or 1 or more other persons referred to in section CB 16A(1) (Main home exclusion for disposal within 2 years)
-  - **residential land company** is defined in section DH 5 (Key terms)
+  - **residential land company**
   - **residential land purchase amount** means, in relation to residential land located in New Zealand, an amount paid or payable for the disposal of the land, but excludes a deposit or part payment (the ) if deposits and part payments, including the part-amount, total, in aggregate, less than 50% of the purchase price for the land
   - **residential land-rich entity** is defined in section EL 3 (Definitions for this subpart) for the purposes of sections EL 16 to EL 19 (which relate to the calculation of interests in interposed entities)
-  - **residential land wholly-owned group member** is defined in section DH 5 (Key terms)
+  - **residential land wholly-owned group member**
   - **residential mortgage backed security**
   - **residential portfolio** is defined in section EL 3 (Definitions for this subpart) for the purposes of subpart EL (Allocation of deductions for excess residential land expenditure)
   - **residential purposes** is defined in section CB 18(3) (Residential exclusion from section CB 14) for the purposes of that section
@@ -47422,6 +47784,7 @@ In this Act, unless the context requires otherwise,—
   - **surplus assessable income** is defined in section FH 15(1) (Definitions)
   - **surrender** , for an emissions unit, means surrender as defined in section 4(1) of the Climate Change Response Act 2002
   - **surrender value** means the amount paid (the surrender amount) when a life insurance policy is cancelled before it reaches the maturity or expiry date contracted for under the policy, excluding an amount that is the repayment of unexpired premiums. There is no netting off against the surrender amount of unpaid premiums, outstanding loans, or interest balances (the debt obligations) owed by an insured unless the policy is terminated by the insurer and the debt obligations are greater than the surrender amount
+  - **suspended recovery income** is defined in section FP 3 (Definitions for the purposes of subpart FP) for the purposes of subpart FP (Tax relief for emergencies)
   - **systematic, investigative, and experimental activities**
   - **tax** means income tax, but in the provisions in which the term income tax has an extended or limited meaning, tax has a corresponding meaning
   - **tax account with the Commissioner** , for a person, means an account dealing with the person’s transactions with the Commissioner in relation to income tax
@@ -47597,7 +47960,9 @@ In this Act, unless the context requires otherwise,—
   - **transaction shares** —
     (a) is defined in section CD 34B(5) (Distributions to members of co-operative companies) for the purposes of that section:
     (b) is defined in section CZ 41(4) (Distributions to supplying shareholders of Fonterra: 2022–23 to 2024–25 income years) for the purposes of that section
-  - **transfer** means, for the purposes of sections HZ 4B and HZ 4D (which relate to the transition of a qualifying company into a partnership or sole tradership), a sale, purchase, disposal, acquisition, cessation, assumption, discharge, assignment, vesting, divesting, gift, supply, or other transfer in relation to liabilities and assets, and associated legal rights and obligations
+  - **transfer** —
+    (a) for the purposes of sections HZ 4B and HZ 4D (which relate to the transition of a qualifying company into a partnership or sole tradership), means a sale, purchase, disposal, acquisition, cessation, assumption, discharge, assignment, vesting, divesting, gift, supply, or other transfer in relation to liabilities and assets, and associated legal rights and obligations:
+    (b) for the purposes of sections OB 6, OB 35, OP 9, and OP 33 (which relate to transfers from and within a tax pooling account), includes a transfer that occurs upon enforcement of a security interest but does not include a transfer by way of security
   - **transfer amount** is defined in section FB 19(3) (Leased assets) for the purposes of that section
   - **transfer of company value** is defined in section CD 5 (What is a transfer of company value?)
   - **transfer of value** —
@@ -47759,7 +48124,7 @@ In this Act, unless the context requires otherwise,—
     (b) personally and actively performs duties that—
       (i) are required to be performed in carrying on the business of the look-through company; and
       (ii) are performed by the person during the currency of, and as required by, a contract of employment
-  - **workplace** is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects) for the purposes of that section and sections CW 16C to CW 16F, CW 17CB, and CZ 29 (which relate to certain accommodation and employment expenditure)
+  - **workplace** is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects)
   - **workplace group policy** is defined in section EY 30 (Transitional adjustments: life risk)
   - **work-related relocation** is defined in section CW 17B(4) (Relocation payments)
   - **work-related vehicle** is defined in section CX 38 (Meaning of work-related vehicle)
@@ -48827,9 +49192,7 @@ Savings provision
 For the purposes of sections CZ 23 to CZ 25, CZ 29, DZ 20, EZ 23B, EZ 23BB, EZ 70 to EZ 74, FZ 7, and GZ 3 (which relate to the Canterbury earthquakes), the terms Canterbury earthquake, greater Christchurch, rebuilding, and recovery have the meanings set out in the Canterbury Earthquake Recovery Act 2011, which continues to apply for this purpose in the same manner as it applied immediately before the repeal of that Act by the Greater Christchurch Regeneration Act 2016.
 
 ### YZ 5 New Zealand Memorial Museum Trust — Le Quesnoy: sunset
-For the purposes of sections DB 41, DV 12, LD 3, and the definition of donee organisation (which relate to gifts of money), New Zealand Memorial Museum Trust — Le Quesnoy is treated as listed in schedule 32 for the period that—
-  (a) starts on 1 April 2018; and
-  (b) ends on 31 March 2025.
+[Repealed]
 
 ## Part Z — Repeals, amendments, and savings
 
@@ -48919,7 +49282,7 @@ Purpose of schedule
 ## Schedule 1 — Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits
 
 ### 1 Taxable income: general
-To the extent to which a person does not have a basic rate under clauses 2 to 14, the basic rate of income tax for the person on each dollar of the person's taxable income is calculated using the formula—tax under table 1 ÷ taxable income: Table 1The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Range of dollar in taxable income. Column 3 is headed Tax rate.RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.10502$14,001 – $15,6000.12823$15,601 – $48,0000.17504$48,001 – $53,5000.21645$53,501 – $70,0000.30006$70,001 – $78,1000.30997$78,101 – $180,0000.33008$180,001 upwards0.3900 How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
+To the extent to which a person does not have a basic rate under clauses 2 to 14, the basic rate of income tax for the person on each dollar of the person's taxable income is calculated using the formula—tax under table 1 ÷ taxable income: Table 1The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Range of dollar in taxable income. Column 3 is headed Tax rate.RowRange of dollar in taxable incomeTax rate1$0 – $15,6000.1052$15,601 – $53,5000.1753$53,501 – $78,1000.3004$78,101 – $180,0000.3305$180,001 upwards0.390 How to use this table:Find the range in the second column for each dollar in the person’s taxable income, and apply the relevant rate for the dollar in the third column.
   (a) tax under table 1 means the total tax, calculated for each dollar in the person’s taxable income, using table 1:
   (b) taxable income means the number of dollars in the person’s taxable income.
 
@@ -48981,17 +49344,17 @@ The basic rate of income tax for a person on each dollar of the person’s sched
 
 | Row | Range of dollar in pay | Tax rate |
 | --- | --- | --- |
-| 1 | $0 – $12,530 | 0.1173 |
-| 2 | $12,531 – $40,580 | 0.2121 |
-| 3 | $40,581 – $55,980 | 0.4286 |
-| 4 | $55,981 – $129,680 | 0.4925 |
-| 5 | $129,681 upwards | 0.6393 |
+| 1 | $0 – $13,962 | 0.1173 |
+| 2 | $13,963 – $45,230 | 0.2121 |
+| 3 | $45,231 – $62,450 | 0.4286 |
+| 4 | $62,451 – $130,723 | 0.4925 |
+| 5 | $130,724 upwards | 0.6393 |
 
-| How to use this table:Find the range in the second column for each dollar in the person's pay, and apply the relevant rate for the dollar in the third column. |
+| How to use this table:Find the range in the second column for each dollar in the person’s pay, and apply the relevant rate for the dollar in the third column. |
 | --- |
 
 ### 1 Amount of tax for section RD 67(a)
-For the purposes of section RD 67(a), the amount of tax is determined by applying the relevant rate given by table 1 to each dollar of an employer’s superannuation contribution. Table 1The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed ESCT rate threshold amount. Column 3 is headed Tax rate.RowESCT rate threshold amountTax rate1$0 – $16,8000.1052$16,801 – $57,6000.1753$57,601 – $84,0000.3004$84,001 – $216,0000.3305$216,001 upwards0.390 How to use this table:Find the range in the second column for the last dollar of the ESCT rate threshold amount, and apply the relevant rate in the third column.
+For the purposes of section RD 67(a), the amount of tax is determined by applying the relevant rate given by table 1 to each dollar of an employer’s superannuation contribution. Table 1The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed ESCT rate threshold amount. Column 3 is headed Tax rate.RowESCT rate threshold amountTax rate1$0 – $18,7200.1052$18,721 – $64,2000.1753$64,201 – $93,7200.3004$93,721 – $216,0000.3305$216,001 upwards0.390 How to use this table:Find the range in the second column for the last dollar of the amount of the ESCT rate threshold amount, and apply the relevant rate in the third column.
 
 ### 2 Amount of tax for section RD 67(b)
 [Repealed]
@@ -49062,7 +49425,7 @@ If an employee has notified their employer that the employee's tax code is SB un
 | Row | Condition | Tax rate |
 | --- | --- | --- |
 | 1 | Section RD 10(2C) applies. | 0.105 |
-| 2 | Section RD 17(2)﻿(a) applies and the sum is $14,000 or less. | 0.105 |
+| 2 | Section RD 17(2)﻿(a) applies and the sum is $15,600 or less. | 0.105 |
 | 3 | Section RD 10(2)﻿(a) or RD 17(2)﻿(b) applies. | 0.175 |
 | 4 | Section RD 10(2)﻿(b) or RD 17(2)﻿(c) applies. | 0.300 |
 | 5 | Section RD 10(2)﻿(c) or RD 17(2)﻿(d) applies. | 0.330 |
@@ -49422,12 +49785,12 @@ The minimum tax value of a motor vehicle to which this schedule applies is $8,33
 The prescribed investor rate for a person who is an investor in a multi-rate PIE is set out in table 1. Table 1This is a small table on 2 pages having 3 columns. The first row on each page is the headings for the columns. The entries in column 2 have more than 1 line of text and several have paragraphs. The entries in column 3 are on the same line as the last line of the entry in column 2, except for the row numbered 2.RowConditionsPrescribed rate1For a natural person who is resident in New Zealand, other than a person described in row 4 or 6.0.2802For a non-resident person other than a person described in row 7B or 9.0.2803For a person who—0.2804For a natural person who is resident in New Zealand and is not a person described in row 6 and who, in either of the 2 income years before the relevant tax year, derives—0.1755For a person who—0.1756For a natural person who is resident in New Zealand and who, in either of the 2 income years before the relevant tax year, derives—0.1057For a person who—0.1057BFor a non-resident person who is a notified foreign investor in a foreign investment variable-rate PIE, see table 1B for the applicable rate for the amount of income.variable8For a person who is a zero-rated investor or an investor treated under section HM 61 as zero-rated.0.0009For a non-resident person who is a notified foreign investor in a foreign investment zero-rate PIE.0.00010For a transitional resident who is an investor in a foreign investment zero-rate PIE.0.000 How to use this tableFind the applicable condition, in the second column, in order to find the relevant rate to apply, in the third column.
   (a) is resident in New Zealand and who derives income for the relevant tax year as a trustee of a trust other than a trust with income that is exempt income under section CW 41 or CW 42; and
   (b) notifies this rate for the relevant tax year.
-  (a) $48,000 or less in taxable income; and
-  (b) $70,000 or less in the sum of their taxable income and attributed PIE income after subtracting any attributable PIE loss
+  (a) $53,500 or less in taxable income; and
+  (b) $78,100 or less in the sum of their taxable income and attributed PIE income after subtracting any attributable PIE loss
   (a) is resident in New Zealand and derives income for the relevant tax year as a trustee of a trust other than a trust with income that is exempt income under section CW 41 or CW 42; and
   (b) notifies this rate for the relevant tax year.
-  (a) $14,000 or less in taxable income; and
-  (b) $48,000 or less in the sum of their taxable income and attributed PIE income after subtracting any attributable PIE loss.
+  (a) $15,600 or less in taxable income; and
+  (b) $53,500 or less in the sum of their taxable income and attributed PIE income after subtracting any attributable PIE loss.
   (a) is resident in New Zealand and derives income for the relevant tax year as a trustee of a testamentary trust to which section HC 37 applies other than a trust with income that is exempt income under section CW 41 or CW 42; and
   (b) notifies this rate for the relevant tax year.
 
@@ -49435,7 +49798,7 @@ The prescribed investor rate for a person who is an investor in a multi-rate PIE
 A foreign investment variable-rate PIE must apply the prescribed investor rates set out in table 1B in relation to income attributed to notified foreign investors in the PIE. Table 1BThis is a small table having 3 columns. The first row is the headings for the columns. Most of the entries in column 2 have more than 1 line of text. The entries in column 3 are on the same line as the last line of the entry in column 2.RowAmountsPrescribed rate1To the extent to which it is not fully imputed, a dividend derived from a company resident in New Zealand attributed to an investor who does not reside in a country with which New Zealand has a double tax agreement that provides a rate for withholding an amount of NRWT for dividends that is less than that provided by section RF 8(2).0.30002An amount other than an amount referred to in rows 1, 3 to 7, and 9 that has a source in New Zealand.0.28003To the extent to which it is not fully imputed, a dividend derived from a company resident in New Zealand attributed to an investor who resides in a country with which New Zealand has a double tax agreement that provides a rate for withholding an amount of NRWT for dividends that is less than that provided by section RF 8(2).0.15004A fully imputed dividend derived from a company resident in New Zealand in relation to which a supplementary dividend is paid.0.15005A supplementary dividend.0.15006Interest derived under a financial arrangement, being an amount referred to in the definition of interest, paragraph (a) or (b), that has a source in New Zealand and is of an amount calculated under subpart EW.0.01447A fully imputed dividend derived from a company resident in New Zealand, other than a dividend in relation to which a supplementary dividend is paid.0.00008A foreign-sourced amount.0.00009An amount derived under a financial arrangement that has a source in New Zealand other than an amount of interest referred to in row 6.0.0000
 
 ### 2 Retirement scheme contributions
-The retirement scheme prescribed rate for a person in relation to a retirement scheme contribution made for them is set out in table 2. Table 2The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Condition. Column 3 is headed Prescribed rate.RowConditionsPrescribed rate1For a person other than a person described in any of rows 2 to 8.0.3902For a person who, in either of the 2 income years before the income year in which the contribution is made, derives more than $70,000 but not more than $180,000 in taxable income.0.3303For a person who is not a person described in row 2 and who, in either of the 2 income years before the income year in which the contribution is made, derives more than $48,000 but not more than $70,000 in taxable income.0.3004For a person who is not a person described in row 2 or 3 and who, in either of the 2 income years before the income year in which the contribution is made, derives more than $14,000 but not more than $48,000 in taxable income.0.1755For a person who is not a person described in row 2, 3, or 4 and who, in either of the 2 income years before the income year in which the contribution is made, derives taxable income of $14,000 or less.0.1056For a non-resident person to whom a distribution of no more than $200 is made by a retirement scheme contributor that is a Maori authority.0.1057For a non-resident person who supplies a retirement scheme contributor that is a Maori authority with a notice under section 28C of the Tax Administration Act 1994.0.1058For a non-resident person in relation to a contribution that consists of non-resident passive income.0.000 How to use this tableFind the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
+The retirement scheme prescribed rate for a person in relation to a retirement scheme contribution made for them is set out in table 2. Table 2The following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Condition. Column 3 is headed Prescribed rate.RowConditionsPrescribed rate1For a person other than a person described in any of rows 2 to 8.0.3902For a person who, in either of the 2 income years before the income year in which the contribution is made, derives more than $78,100 but not more than $180,000 in taxable income.0.3303For a person who is not a person described in row 2 and who, in either of the 2 income years before the income year in which the contribution is made, derives more than $53,500 but not more than $78,100 in taxable income.0.3004For a person who is not a person described in row 2 or 3 and who, in either of the 2 income years before the income year in which the contribution is made, derives more than $15,600 but not more than $53,500 in taxable income.0.1755For a person who is not a person described in row 2, 3, or 4 and who, in either of the 2 income years before the income year in which the contribution is made, derives taxable income of $15,600 or less.0.1056For a non-resident person to whom a distribution of no more than $200 is made by a retirement scheme contributor that is a Maori authority.0.1057For a non-resident person who supplies a retirement scheme contributor that is a Maori authority with a notice under section 28C of the Tax Administration Act 1994.0.1058For a non-resident person in relation to a contribution that consists of non-resident passive income.0.000 How to use this tableFind the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
 
 ## Schedule 10 — Straight-line equivalents of diminishing value rates of depreciation
 
