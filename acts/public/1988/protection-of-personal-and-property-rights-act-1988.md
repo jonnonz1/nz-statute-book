@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2024-10-03_
+_Consolidation as at 2025-04-01_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -105,7 +105,7 @@ The primary objectives of a court on an application for the exercise of its juri
   (c) the court considers the making of an order under this section necessary in all the circumstances,—
 (2) No order may be made under this section in respect of either—
   (a) any item of property that exceeds $25,000 in value, or such other amount as is, from time to time, prescribed by Order in Council for the purposes of this paragraph; or
-  (b) any income or benefit in excess, in any one year, of $38,800 or such other amount as is, from time to time, prescribed by Order in Council for the purposes of this paragraph.
+  (b) any income or benefit in excess, in any one year, of $40,000 or such other amount as is, from time to time, prescribed by Order in Council for the purposes of this paragraph.
 (3) Every person who administers any property, income, or benefit pursuant to an order made under this section shall do so in such a way as to enable or encourage the person for whom he or she is acting to exercise and develop such capacity as that person has to the greatest extent possible.
 (4) In any order made under this section, the court shall specify a date, being not later than 3 years after the date of the order, by which the person appointed to administer the property is required to apply to the court for a review of the order.
 (5) The provisions of subsections (3) to (7) of section 31, sections 37, 43, 44, 49, and 50 (so far as it relates to expenses), and paragraphs (a), (b), and (e) of section 52, so far as they are applicable and with any necessary modifications, shall apply to every person appointed to administer any property under this Act.
