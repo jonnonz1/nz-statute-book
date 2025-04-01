@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2025-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -24,10 +24,28 @@ _Consolidation as at 2025-03-30_
   - **accident compensation legislation** is defined in section 143E(5) for the purposes of that section
   - **accounting period** , in section 107, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **activities undertaken as an airport operator** , in section 42, has the meaning given to airport operator activities in section HR 7 of the Income Tax Act 2007
+  - **affected class** means 1 of the following classes of the person’s depreciable property that the affected depreciable property is included in:
+    (a) buildings:
+    (b) commercial fit-out not referred to in paragraph (c):
+    (c) commercial fit-out for which the person uses the pool method:
+    (d) depreciable property for which the person uses the pool method, other than commercial fit-out:
+    (e) depreciable property not referred to in paragraphs (a) to (d)
+  - **affected depreciable property** means depreciable property that—
+    (a) is not depreciable intangible property; and
+    (b) is included in an affected class; and
+    (c) as a result of an emergency event, is affected by—
+      (i) damage that meets the requirements of section EE 47(4) of the Income Tax Act 2007; or
+      (ii) a disposal and reacquisition under section FP 14 of that Act
+  - **affected improvement to land** means an improvement to land subject to section DO 4 or DO 5 of the Income Tax Act 2007 that has been damaged or destroyed in an emergency event
   - **affected property** means—
     (a) affected depreciable property:
     (b) affected improvements to land:
     (c) affected revenue property
+  - **affected revenue property** means a person’s land or building that is—
+    (a) revenue account property under section CB 6, CB 7, CB 12, or CB 13 of the Income Tax Act 2007; and
+    (b) damaged by an emergency event; and
+    (c) useless for the purposes of deriving income as a result of that event; and
+    (d) if it is a building, required to be demolished or abandoned for later demolition due to the damage to the land, building, or the neighbourhood of the building
   - **agency** is defined in section 18E(6) for the purposes of that section and section 18F
   - **amount payable** is defined in section 157(10) for the purposes of that section
   - **applicant** is defined in schedule 7, part C, subpart 2, clause 46(2) for the purposes of that clause
@@ -139,7 +157,8 @@ _Consolidation as at 2025-03-30_
     (a) developed by the Organisation for Economic Co-operation and Development and the Group of Twenty countries; and
     (b) agreed by the Council for the Organisation for Economic Co-operation and Development on 15 July 2014; and
     (c) contained in Part IIB of the CRS publication
-    - **CSP terms** is defined in section 7AAB(9)
+  - **CSP terms** is defined in section 7AAB(9)
+  - **current year** means an income year that falls within the emergency event period
   - **date interest starts** is defined in section 120C for the purposes of Part 7
   - **day of determination of final liability** —
     (a) for the purposes of Part 8, means,—
@@ -206,6 +225,17 @@ _Consolidation as at 2025-03-30_
       (i) a person is required under a tax law to make or keep; and
       (ii) is, or would be, created by a system that is or includes an electronic point of sale system; and
     (b) the use of which would lead to a reasonable conclusion that 1 of its principal functions is to facilitate the concealment, modification, falsification, destruction, or prevention of the creation of a record
+  - **emergency event** —
+    (a) means an emergency as defined in section 4 of the Civil Defence Emergency Management Act 2002 that is—
+      (i) declared as a state of emergency under that Act:
+      (ii) subject to a power exercised under section 121 of the Biosecurity Act 1993:
+      (iii) subject to a direction given under section 122 of the Biosecurity Act 1993:
+    (b) for the purposes of section 91AAS, means an event declared to be an emergency event by the Commissioner in a determination under that section
+  - **emergency event period** means the period—
+    (a) beginning with the start of the income year in which the emergency event first occurs; and
+    (b) ending with either—
+      (i) the last day of the income year that is 5 income years after the income year referred to in paragraph (a); or
+      (ii) a later date specified by the Governor-General by Order in Council made under section 6J
   - **employee** —
     (a) is defined in section 23L(6) for the purposes of that section:
     (b) is defined in section 143E(5) for the purposes of that section
@@ -435,6 +465,13 @@ _Consolidation as at 2025-03-30_
     (b) the taxpayer and 1 other person jointly own 50% or more of the shares:
     (c) the taxpayer is a shareholder-employee, and the company satisfies paragraphs (a) and (c) of the definition of close company in section YA 1 of the Income Tax Act 2007
   - **relinquishment** , in section 91, has the same meaning as in section YA 1 of the Income Tax Act 2007
+  - **replacement cost** means the amount of expenditure a person incurs to acquire replacement property
+  - **replacement property** means property that replaces affected property and is,—
+    (a) for affected revenue property, a building or land that is revenue account property located in New Zealand:
+    (b) for affected depreciable property, property—
+      (i) included in the same class, as described in the definition of affected class, as the affected depreciable property; and
+      (ii) located in New Zealand:
+    (c) for an affected improvement to land, an improvement to farmland as described in schedule 20, part A of the Income Tax Act 2007 or a listed horticultural plant located in New Zealand
   - **reportable income** is defined in section 22D(3) for the purposes of this Act and the Income Tax Act 2007
   - **reportable unpaid tax** is defined in schedule 7, part C, subpart 1, clause 33(12) for the purposes of that clause
   - **reporting platform operator** , in sections 22(2)﻿(fe) and (lf), 94D, 142J, 143(2E), 185S, 185T, and 226F, has the meaning set out in the model reporting standard for digital platforms or the extended model reporting standard for digital platforms, as applicable
@@ -475,6 +512,10 @@ _Consolidation as at 2025-03-30_
   - **standard-cost household service** means a service that is a standard-cost household service under a determination that is made by the Commissioner under section 91AA
   - **status ruling** means a ruling made under section 91GA
   - **student allowance** means an allowance paid under regulations made under section 645 of the Education and Training Act 2020
+  - **suspended recovery income** —
+    (a) is defined in section FP 6 of the Income Tax Act 2007 for the purposes of affected revenue property:
+    (b) is defined in section FP 9 of that Act for the purposes of an affected class of depreciable property:
+    (c) is defined in section FP 12(3) of that Act for the purposes of affected improvements to land
   - **tax** —
     (a) means—but does not include—
       (i) a tax, levy, or duty of any type imposed by a tax law, regardless of how the tax, levy, or duty is described:
@@ -876,6 +917,21 @@ Optional application
 (4) Despite subsection (3), a person to whom a variation is available may choose whether or not to apply the variation by taking a tax position, for example, in a return of income, or by informing the Commissioner of their election. If the person chooses not to apply a variation, the law applies as if the variation did not apply in relation to the person.
 Secondary legislation
 (5) A variation under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 6J Tax relief for emergencies
+(1) If there is an emergency event, the Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue, make regulations specifying—
+  (a) that 1 or both of the following apply:
+    (i) any 1 or more of sections FP 5 to FP 27 of the Income Tax Act 2007:
+    (ii) schedule 7, part C, subpart 1, clause 23C, if the emergency event has been declared a state of national emergency under section 66 of the Civil Defence Emergency Management Act 2002:
+  (b) the period for which a section or clause referred to in paragraph (a) applies:
+  (c) the start date of the emergency event:
+  (d) the end date of the emergency event period.
+(2) Regulations made under this section may be expressed to come into force on a day that is before, on, or after the date on which they are made, but not earlier than the date specified as the beginning of the emergency event, and the regulations come into force or, as the case may be, are deemed to have come into force accordingly.
+(3) Regulations made under this section may be retrospective only to the extent provided for in subsection (2).
+(4) If regulations made under subsection (1) specify that section FP 22 applies, the time limit imposed by section FP 22(3) may be extended by Order in Council made—
+  (a) on the recommendation of the Minister of Revenue; and
+  (b) before the expiry of the relevant time limit in section FP 22(3) that applies immediately before the Order in Council comes into force.
+(5) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 2C — Functions and powers of Commissioner
 
@@ -3072,6 +3128,7 @@ For the purposes of sections 32E(2)﻿(f), (i), and (j) and 32I, when the person
   (b) being treated as an approved issuer by the Commissioner because the person has paid interest under a security, and—
     (i) the security is a notional loan under section FG 2 of the Income Tax Act 2007, and NRWT was not withheld from the interest under section RF 3 of that Act; or
     (ii) an amount of the interest was apportioned to a New Zealand source under section YD 5(4) of the Income Tax Act 2007, and NRWT was not withheld from the amount under section RF 3 of that Act.
+(2C) Despite subsection (2B), if the Commissioner backdates a person’s date of registration of a security under section 86H(3) of the Stamp and Cheque Duties Act 1971, the person is treated as being an approved issuer from that backdated date of registration.
 (3) The Commissioner may revoke a person’s approved issuer status at a particular time if—
   (a) the Commissioner considers that the person has been responsible for serious default or neglect in complying with their obligations under the Inland Revenue Acts in the 2-year period leading up to that time; or
   (b) subsection (2B)﻿(b) does not apply to the person, and the person asks for revocation of the status.
@@ -3089,7 +3146,7 @@ For the purposes of sections 32E(2)﻿(f), (i), and (j) and 32I, when the person
 **Returns, etc**
 
 ### 33 Returns of income
-(1) In each tax year, a person must file a return of income for a tax year in the form and with the particulars prescribed by the Commissioner.
+(1) In each tax year, a person, other than a person who derives only exempt income, must file a return of income for a tax year in the form and with the particulars prescribed by the Commissioner.
 (1B) In an income year, a trust, society or institution to which section CW 41 or CW 42 of the Income Tax Act 2007 applies, may furnish to the Commissioner a return of income in the prescribed form for the preceding tax year, together with such other particulars as may be prescribed if the trust, society or institution receives a taxable Maori authority distribution.
 (1C) A multi-rate PIE or a proxy for an investor in the entity that calculates income tax using the exit calculation or quarterly calculation options under sections HM 42 and HM 43 of that Act must provide returns for which the entity is responsible under section 57B.
 (1D) An individual must provide information to the Commissioner on their assessable income for a tax year under Part 3, subpart 3B. The individual is treated as having made a return of income in their final account for the tax year under section 22I(1).
@@ -3989,7 +4046,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
   (b) the person complies with any conditions in the Commissioner’s approval; and
   (c) there is no material change in the provisions in subpart LY of that Act and any associated provisions.
   (d)
-(2) The Commissioner may, in accordance with this section, approve a person’s research and development activities for an income year (the first income year), the income year immediately before (the prior year), and up to 2 income years immediately after, if the person makes an application in accordance with subsection (3) on or before the 7th day of the 2nd month after the end of the first income year. For a prior year, the Commissioner may only approve supporting research and development activities described in section LY 5(1)﻿(ab)﻿(i) of the Income Tax Act 2007.
+(2) The Commissioner may, in accordance with this section, approve a person’s research and development activities for an income year (the first income year), the income year immediately before (the prior year), and up to 2 income years immediately after, if the person makes an application in accordance with subsection (3) on or before the last day of the 3rd month after the end of the first income year. For a prior year, the Commissioner may only approve supporting research and development activities described in section LY 5(1)﻿(ab)﻿(i) of the Income Tax Act 2007.
 (3) A person must apply to the Commissioner for approval in the form prescribed by the Commissioner, including—
   (a) the activities the person wants the Commissioner to approve; and
   (b) the income years for which approval is sought; and
@@ -4002,8 +4059,8 @@ A company or person apportioning its interest expenditure under section FE 6B of
 (4) The Commissioner may only approve a person’s activities to the extent to which, in the opinion of the Commissioner, the relevant activity is a core research and development activity or a supporting research and development activity.
 (5) If the Commissioner approves a person’s activities for an income year, the Commissioner must notify the person what activities of the person the Commissioner approves of as core research and development activities or supporting research and development activities, for which income years, and any conditions upon which the approval is made.
 (6) The Commissioner must notify the person of the intention to decline the application before the application is declined.
-(7) The Commissioner may vary an approval, upon application, if the variation application meets the requirements in subsection (1)﻿(a), the variation applied for meets the requirements of subsection (4), and the application is made on or before the 7th day of the 2nd month after the end of the relevant income year. If the Commissioner accepts the variation, then the Commissioner must notify the person in accordance with subsection (5).
-(7B) The Commissioner may vary an approval, upon application, to the extent to which the variation application relates solely to a supporting research and development activity for the income year immediately after the relevant income year, as provided by section LY 5(1)﻿(ab)﻿(ii) of the Income Tax Act 2007, if the variation application meets the requirements of subsection (1)﻿(a) of this section, the variation applied for meets the requirements of subsection (4) of this section, and the application is made on or before the 7th day of the 14th month after the end of the relevant income year. If the Commissioner accepts the variation, then the Commissioner must notify the person in accordance with subsection (5) of this section.
+(7) The Commissioner may vary an approval, upon application, if the variation application meets the requirements in subsection (1)﻿(a), the variation applied for meets the requirements of subsection (4), and the application is made on or before the last day of the 3rd month after the end of the relevant income year. If the Commissioner accepts the variation, then the Commissioner must notify the person in accordance with subsection (5).
+(7B) The Commissioner may vary an approval, upon application, to the extent to which the variation application relates solely to a supporting research and development activity for the income year immediately after the relevant income year, as provided by section LY 5(1)﻿(ab)﻿(ii) of the Income Tax Act 2007, if the variation application meets the requirements of subsection (1)﻿(a) of this section, the variation applied for meets the requirements of subsection (4) of this section, and the application is made on or before the last day of the 15th month after the end of the relevant income year. If the Commissioner accepts the variation, then the Commissioner must notify the person in accordance with subsection (5) of this section.
 (7C) The Commissioner may vary an approval, upon application, to the extent to which the variation application relates solely to a supporting research and development activity for the 2019–20 income year, if the variation application meets the requirements of subsection (1)﻿(a) of this section, the variation applied for meets the requirements of subsection (4) of this section, and the application is made on or before 31 August 2022. If the Commissioner accepts the variation, then the Commissioner must notify the person in accordance with subsection (5) of this section.
 (8) The Commissioner’s approval under this section binds the Commissioner in accordance with the provisions of this section.
 
@@ -7438,6 +7495,7 @@ A disputant is entitled to challenge a disputable decision that is not an assess
   (e) a matter which by a provision in—is left to the discretion, judgment, opinion, approval, consent, or determination of the Commissioner; or
     (i) the PAYE rules; or
     (ii) the provisional tax rules; or
+    (iib) section 86H(3) of the Stamp and Cheque Duties Act 1971; or
     (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2 to RM 4, RM 8, and RM 10 of the Income Tax Act 2007 and sections 18K, 33, 92A, 139 (insofar as it applies to unpaid tax for periods before 1 April 1997) and 184 of the Tax Administration Act 1994; or
     (iv) any of sections 6E, 6F, 17F, 17G, 18I, 21B to 23, 36 to 46, 58, 62, 63, 68CB, 68CC, and 68CD, 78B, 78C, 80, 89C, 89K, 89L, 89M, 89N(1)﻿(c)﻿(viii) and (3), 92, 106, 107, 108B, 109, 110, 111, 113, 114, 120A to 120U, 124ZH, 124ZI, Part 7B, 138I(2B), 138N, 139B, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act; or
     (ivb) any of Parts 1 to 3 of the KiwiSaver Act 2006; or
@@ -9381,26 +9439,25 @@ An amount that is interest under section 120D, or a late payment penalty relatin
 ### 183ABA Remission in circumstances of emergency event
 (1) This section applies for a taxpayer if—
   (a) the taxpayer fails to make a payment required by a tax law (the required payment) on or before the due date for the required payment; and
-  (ab) the failure is a consequence of an emergency event, declared in an Order in Council under this section, that significantly adversely affects the ability of the taxpayer to do either or both of—
+  (b) the failure is a consequence of an emergency event that significantly adversely affects the ability of the taxpayer to do either or both of—
     (i) make a reasonably accurate forecast, on 1 or more provisional tax instalment dates for a tax year, of the taxpayer’s residual income tax for the tax year:
     (ii) make the required payment on or before the due date for the required payment; and
-  (b) the taxpayer is charged with interest under Part 7 for failing to make the payment by the due date; and
-  (c) the taxpayer is a member of a class of persons to whom a remission under this section is available, if such a class of persons is described in the Order in Council declaring the emergency event.
+  (c) the taxpayer is charged with interest under Part 7 for failing to make the payment by the due date.
 (2) The taxpayer may ask the Commissioner to remit the interest.
 (3) The Commissioner may remit the interest if the Commissioner is satisfied that—
   (a) it is equitable that the interest be remitted; and
   (b) the taxpayer asked for the relief as soon as practicable; and
-  (c) the taxpayer made the payment as soon as practicable.
-(4) The Governor-General may from time to time by Order in Council—
-  (a) declare an event that meets the requirements of paragraphs (a) and (b) of the definition of emergency in section 4 of the Civil Defence Emergency Management Act 2002, to be an emergency event:
-  (b) describe a class or classes of persons to whom a remission under this section is available in relation to the emergency event.
-(5) An Order in Council (the order) made under subsection (4) or this subsection—
-  (a) may relate to an event that occurred after the commencement of this Act and before the commencement of the order:
-  (b) expires, if not renewed under paragraph (c), after—
-    (i) the period given in the order, if such a period is given; or
-    (ii) if no such period is given, 6 months from the promulgation of the order:
-  (c) may be renewed or replaced from time to time by an Order in Council made before or after the date on which the order would otherwise expire.
-(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+  (c) the taxpayer made the required payment as soon as practicable.
+(4) Despite the definition of emergency event, the Governor-General may from time to time by Order in Council—
+  (a) declare an event that meets the requirements of paragraphs (a) and (b) of the definition of emergency in section 4 of the Civil Defence Emergency Management Act 2002 to be an emergency event:
+  (b) describe a class or classes of persons to whom a remission under this section is available in relation to the emergency event:
+  (c) declare a start date for the emergency event.
+(5) An Order in Council made under subsection (4)—
+  (a) may be expressed to come into force on a day that is before, on, or after the date on which it is made, but not earlier than the start date of the relevant emergency event referred to in subsection (4), and the Order in Council comes into force or, as the case may be, is deemed to have come into force accordingly:
+  (b) expires after—
+    (i) the period given in the Order in Council, if such a period is given; or
+    (ii) if no such period is given, 6 months from the promulgation of the Order in Council.
+(6) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 183ABAB Remission of interest for taxpayers affected by COVID-19: general rules
 (1) This section applies for a taxpayer if—
@@ -10068,6 +10125,49 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
 (2) A regulation may provide for the change, extension, limitation, suspension, or cancellation of an earlier regulation.
 (3) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
+### 226H Notification requirements relating to tax relief for emergencies: affected property
+Affected revenue property
+(1) A person who chooses to suspend the recognition of suspended recovery income for affected revenue property for a current year under section FP 5 of the Income Tax Act 2007 must notify the Commissioner. The notice must—
+  (a) describe the affected revenue property; and
+  (b) give details of replacement property acquired in the current year to replace, in full or in part, the affected revenue property; and
+  (c) provide the replacement cost of that replacement property and the amount of the replacement cost adjustment under section FP 7 of that Act for the purposes of section DB 23 of that Act; and
+  (d) provide the amount, for the affected revenue property, of the suspended recovery income at the end of the current year.
+Affected depreciable property
+(2) A person who chooses to suspend the recognition of suspended recovery income for affected depreciable property for a current year under section FP 8 of the Income Tax Act 2007 must notify the Commissioner. The notice must—
+  (a) describe the items of affected depreciable property; and
+  (b) indicate in which affected class each item of affected depreciable property is included; and
+  (c) give details of each item of replacement property acquired in the current year and the affected class to which the person is linking the item; and
+  (d) provide the amount of the replacement cost of each replacement item and the amount of the replacement reduction under section FP 11 of that Act from that replacement cost for the purposes of determining adjusted tax value or depreciation loss; and
+  (e) provide the amount, for each affected class, of the suspended recovery income at the end of the current year.
+Affected improvements to land
+(3) A person who chooses to suspend the recognition of suspended recovery income for affected improvements to land for a current year under section FP 12 of the Income Tax Act 2007 must notify the Commissioner. The notice must—
+  (a) describe the affected improvements to land; and
+  (b) give details of replacement property acquired in the current year to replace, in full or in part, the affected improvements to land; and
+  (c) give the replacement cost of the replacement property and the value attributed to that cost under section FP 12(5) for the purposes of section DO 4, DO 5, or DO 11 of that Act, as applicable; and
+  (d) give the amount, for the affected improvements to land, of the suspended recovery income at the end of the current year.
+Due dates for providing notice
+(4) A person providing notice under this section must notify the Commissioner—
+  (a) by the later of—
+    (i) 30 April in the year immediately after the income year in which the emergency event occurs; and
+    (ii) the date on which their return of income is filed for the earliest income year in which the amount of the compensation for the affected property can be reasonably estimated (the estimate year); and
+  (b) when the current year is after the estimate year,—
+    (i) for each income year between the estimate year and the current year, by the date on which the return of income is filed for that income year; and
+    (ii) for the current year, by the date on which the return of income is filed for the current year.
+Later deadlines in exceptional circumstances
+(5) The Commissioner may allow the person to file a notice under this section at a later time if the Commissioner considers there are exceptional circumstances.
+
+### 226I Notification requirements relating to tax relief for emergencies: group assets
+Group assets
+(1) A person who chooses to include an amount of the compensation in the value of the total group assets of the person’s New Zealand group for an income year under section FP 19 of the Income Tax Act 2007 must notify the Commissioner of the following:
+  (a) that the person has made the election for the income year; and
+  (b) a reasonable estimate of the amount of income that would arise under section CH 9 of that Act for the income year in the absence of section FP 19; and
+  (c) the amount of income that arises under section CH 9 for the income year after the application of section FP 19; and
+  (d) any further information required by the Commissioner.
+Form and timing of notice
+(2) The information required under subsection (1) must be given—
+  (a) in the form and by the means prescribed by the Commissioner; and
+  (b) no later than the day by which the person is required to make a return of income for the corresponding tax year, or at a later time if the Commissioner considers there are exceptional circumstances.
+
 ## Part 14 — Transitional provisions and savings
 
 ### 227 Transitional provisions and savings
@@ -10549,6 +10649,13 @@ Section 18 does not prevent the Commissioner disclosing to a government agency o
   (d) Kāinga Ora–Homes and Communities:
   (e) Callaghan Innovation:
   (f) Health New Zealand.
+
+### 23C Government agencies: emergency event response purposes
+(1) This clause applies when regulations made under section 6J declare that it applies in relation to an emergency event.
+(2) Section 18 does not prevent the Commissioner disclosing to a government agency information about a person or entity for the purpose of enabling the government agency to provide or fulfil any duty, obligation, or other thing in relation to any person or entity in connection with an emergency event if—
+  (a) the Commissioner is satisfied it is reasonable, practical, and not undesirable to do so; and
+  (b) the information is readily available; and
+  (c) the Commissioner and the government agency have entered into a written agreement that specifies the information that will be shared.
 
 ### 24 New Zealand Customs Service: value of imported goods
 Section 18 does not prevent the Commissioner disclosing to the chief executive of the New Zealand Customs Service information for the purpose of assessing the suitability of an arrangement relating to the use of provisional values under the Customs and Excise Act 2018, including the determination of an application to use provisional values.
