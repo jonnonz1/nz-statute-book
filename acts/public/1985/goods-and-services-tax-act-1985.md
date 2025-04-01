@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2025-04-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -1723,7 +1723,8 @@ Despite sections 19K to 19N, in relation to a supply of listed services made by 
 (1) In respect of each taxable period every registered person shall calculate the amount of tax payable by that registered person in accordance with the provisions of this section.
 (2) A registered person, when including an amount for a supply of goods or services as a deduction in a calculation of an amount of tax payable by the registered person, must,—
   (a) for a supply, meet the requirements of section 19F; and
-  (b) for a supply that a registered person intends to claim a deduction for under section 20(3) because of an adjustment made under section 25(2)﻿(b) to correct an inaccuracy, have provided supply correction information if required by section 19N; and; and
+  (b) for a supply that a registered person intends to claim a deduction for under section 20(3) because of an adjustment made under section 25(2)﻿(b) to correct an inaccuracy, have provided supply correction information if required by section 19N; and
+  (bb) for a supply in relation to which a registered person intends to claim a deduction under subsection (3)﻿(de), have obtained the information referred to in section 60H(1); and
   (c) for a supply, other than a taxable supply, of secondhand goods, meet the requirements of section 19H; and
   (d) for a supply that the registered person treats as being within section 5B, have a record of the supply showing that—
     (i) the supply meets the requirements for treatment under section 5B as being made by the registered person; and
@@ -1762,7 +1763,7 @@ Despite sections 19K to 19N, in relation to a supply of listed services made by 
     (i) physically performed in New Zealand; and
     (ii) supplied to a non-resident person in New Zealand who is not a registered person; and
   (dd) an amount of output tax charged on a supply of distantly taxable goods to the extent that the supplier has, in relation to the supply, incurred liability for, returned, and paid, a consumption tax in another country or territory when the goods are supplied to a person in New Zealand who is not a registered person; and
-  (de) for a supply of listed services referred to in section 8C when the underlying supplier has not notified the operator of the electronic marketplace that they are a registered person at the time of the supply, the amount of input tax that the operator of an electronic marketplace is required under section 8C(3)﻿(b)﻿(ii) to pass on to the underlying supplier as a flat-rate credit; and
+  (de) for a supply of listed services referred to in section 8C when the underlying supplier is not a registered person at the time of the supply, the amount of input tax that the operator of an electronic marketplace is required under section 8C(3)﻿(b)﻿(ii) to pass on to the underlying supplier as a flat-rate credit; and
   (df) in relation to a supply of distantly taxable goods to which section 8(1) applies, an amount included in the consideration for the supply that the supplier repays to a recipient under section 12B(2); and
   (e) any amount calculated under sections 21D(1) and (3)﻿(a), 21F, and 21FB(2); and
   (ea)
@@ -1774,6 +1775,7 @@ Despite sections 19K to 19N, in relation to a supply of listed services made by 
   (hd) the amount given by section 20H in relation to the supply during the taxable period of certain financial services:
   (i) any amount calculated in accordance with section 26; and
   (ib) in the case of a registered person who receives a resale royalty during the taxable period for the resale of an original visual artwork under section 18 of the Resale Right for Visual Artists Act 2023, the tax fraction of the amount of the resale royalty retained by the collection agency under section 20 of that Act; and
+  (j) the amount equal to the tax fraction of a payment by a unit title body corporate where the payment is a monetary distribution to its members to reimburse the members for a levy or other amount that is treated as consideration for a taxable supply under section 5(8A) or (8AB); and
   provided that a registered person who is entitled to deduct an amount from the output tax attributable to a taxable period may deduct that amount from the output tax attributable to a later taxable period if the amount has not previously been deducted from the output tax of the registered person and—
     (a) the later tax period begins on or before the date that is the second anniversary of the earlier of the following:
       (i) the date on which the registered person makes the payment for the taxable supply to which the deduction relates:
@@ -1922,13 +1924,7 @@ If a person makes a return that includes a figure for the value of supplies char
   (b) using a method that is approved by the Commissioner.
 
 ### 20F Election that sections 11A(1)﻿(q) and (r) and 20C apply
-(1) A person may give notice to the Commissioner of an election that the person be subject to sections 11A(1)﻿(q) and (r) and 20C.
-(2) An election under subsection (1)—
-  (a) applies for the taxable period in which the Commissioner receives the notice and for subsequent taxable periods until the election is cancelled:
-  (b) is cancelled from the end of the taxable period—
-    (i) in which the registered person ceases to have a taxable activity, if subparagraphs (ii) and (iii) do not require an earlier cancellation; or
-    (ii) that is nominated in a notice of cancellation that the Commissioner receives from the registered person, if the notice of cancellation nominates a taxable period after which the cancellation is to be effective; or
-    (iii) in which the Commissioner receives from the registered person a notice of cancellation, if the notice of cancellation does not nominate a taxable period after which the cancellation is to be effective.
+A person may choose to apply the rules in sections 11A(1)﻿(q) and (r) and 20C in relation to certain supplies of financial services. The person makes the election by taking a tax position in a return for the taxable period.
 
 ### 20G Treatment of supplies of certain assets
 [Repealed]
