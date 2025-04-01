@@ -1,5 +1,5 @@
 # Russia Sanctions Act 2022
-_Consolidation as at 2023-07-21_
+_Consolidation as at 2025-04-01_
 
 ### 1 Title
 This Act is the Russia Sanctions Act 2022.
@@ -379,6 +379,7 @@ All the provisions of the Customs and Excise Act 2018 that apply with respect to
   (c) the Companies Act 1993:
   (d) the Customs and Excise Act 2018:
   (e) the Customs and Excise Act 1996:
+  (ea) the Deposit Takers Act 2023:
   (f) the Financial Markets Authority Act 2011:
   (g) the Financial Markets Conduct Act 2013:
   (h) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
