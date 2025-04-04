@@ -1,5 +1,5 @@
 # Fast-track Approvals Act 2024
-_Consolidation as at 2024-12-23_
+_Consolidation as at 2025-04-04_
 
 ### 1 Title
 This Act is the Fast-track Approvals Act 2024.
@@ -647,7 +647,7 @@ Minister may decline to make determination for any reason
   (b) publish the notice on an internet site that is administered by or on behalf of the responsible agency and is publicly available as far as practicable and free of charge.
 (2) If the decisions are to accept the referral application and refer a project, the responsible agency must also give written notice to—
   (a) the panel convener; and
-  (b) any iwi authorities or Treaty settlement entities (other than those that must be notified under subsection (1)﻿(b)) that the Minister considers have an interest in the matter; and
+  (b) any iwi authorities or Treaty settlement entities (other than those that must be notified under subsection (1)﻿(a)﻿(ii)) that the Minister considers have an interest in the matter; and
   (c) the EPA; and
   (d) if a proposed approval would require an aquaculture decision under section 80, the relevant chief executive; and
   (e) the relevant administering agencies.
@@ -718,7 +718,7 @@ Minister may decline to make determination for any reason
 Sections 33 to 36 apply if a substantive application for a listed project or a referred project is to seek an approval described in section 42(4)﻿(f) (land exchange).
 
 ### 33 Land exchange application lodged with Director-General of Conservation
-(1) Before lodging the substantive application, the authorised person for the project must lodge with the Department of Conservation a land exchange application that consists of—
+(1) Before lodging the substantive application, the authorised person for the project must lodge with the Director-General of Conservation a land exchange application that consists of—
   (a) the information set out in clause 24 of Schedule 6; and
   (b) the information relevant to the land exchange that,—
     (i) in the case of a listed project, is required under section 43(2):
@@ -799,7 +799,7 @@ At any time before the Director-General of Conservation provides a report under 
 (3) The Minister may make the determination if the Minister is satisfied that—
   (a) the project needs to be progressed urgently; and
   (b) there is a risk that, if a substantive application for the project is lodged, a panel may not be set up within a period that reflects the urgency of the project; and
-  (c) there is no information before the Minister to indicate that the substantive application would be a competing application.
+  (c) there is no information before the Minister to indicate that the substantive application would have a competing application.
 (4) The Minister must give written notice of a decision under this section, and the reasons for it, to—
   (a) the authorised person; and
   (b) the EPA; and
@@ -917,7 +917,7 @@ Sections 53 to 55 do not apply in relation to the part of a substantive applicat
   (b) as if the reference in clause 2 of Schedule 11 to section 12(2) were a reference to section 29; and
   (c) with any other necessary modifications.
 (3) The requirements referred to in subsection (1)﻿(e)﻿(ii) are those set out in,—
-  (a) for an approval described in section 42(4)﻿(a) (resource consent), clauses 5 to 8 of Schedule 5:
+  (a) for an approval described in section 42(4)﻿(a) (resource consent), clauses 5 to 9 of Schedule 5:
   (b) for an approval described in section 42(4)﻿(b) (change or cancellation of resource consent condition), clause 10 of Schedule 5:
   (c) for an approval described in section 42(4)﻿(c) (certificate of compliance), clause 11 of Schedule 5:
   (d) for an approval described in section 42(4)﻿(d) (designation), clause 12 of Schedule 5:
@@ -1304,8 +1304,8 @@ Suspension of processing if advice commissioned
 
 **Role of appropriate Minister in relation to concessions, land exchanges, and access arrangements**
 
-### 73 Sections 74 and 78 apply to concession, land exchange, and access arrangement
-Sections 74 and 78 apply to an approval described in section 42(4)﻿(e), (f), (l), or (m) (concession, land exchange, or access arrangement).
+### 73 Sections 74 to 78 apply to concession, land exchange, and access arrangement
+Sections 74 to 78 apply to an approval described in section 42(4)﻿(e), (f), (l), or (m) (concession, land exchange, or access arrangement).
 
 ### 74 Appropriate Minister may call in decision
 (1) At any time before a panel makes a decision under section 81 on an approval referred to in section 73, the appropriate Minister for the land to which the approval relates may call in the decision.
@@ -1733,7 +1733,7 @@ In subpart 2 and sections 104 to 112, unless the context otherwise requires,—
   (c) authorise the EPA to grant an exemption, waiver, or refund in any particular case or class of case.
 (2) Regulations made for a purpose described in subsection (1) must—
   (a) specify the persons primarily responsible for paying the levy; and
-  (b) specify the amount of the levy or a method of calculating or ascertaining the amount of the levy:
+  (b) specify the amount of the levy or a method of calculating or ascertaining the amount of the levy; and
   (c) specify whether the levy is payable at the time of lodging a referral application, substantive application, both applications, or at some other time.
 (3) Regulations made for a purpose described in subsection (1) may,—
   (a) in setting the amount of the levy or the method of calculating or ascertaining the amount of the levy, provide for any shortfall in recovery, or over-recovery, of the costs specified in subsection (1)﻿(a) from the previous 5 financial years (including system set-up costs incurred before the commencement of this Act):
@@ -2003,7 +2003,7 @@ The following may not be lodged before 7 February 2025:
 | Tararua Wind Power Limited | Waikokowai Wind Farm | Construct and operate a wind farm comprising approximately 51 wind turbines, and connect and supply electricity to the national grid | Rotowaro Road, near Glen Afton and Pukemiro, 10 kilometres west of Huntly |
 | Tararua Wind Power Limited | Tararua Wind Farm Repowering | Disestablish and remove approximately 134 existing wind turbines, construct and operate approximately 43 new turbines, including works to connect and supply electricity to the national grid, and works to widen existing local roads approaching the site from the state highway | Foothills of the Tararua Range, south of the Manawatu Gorge and north of the Pahiatua Track, 5.5 kilometres west of Woodville |
 | Tauhara North No﻿.﻿2 Trust | Rotokawa Solar Farm | Construct and operate a solar farm across approximately 362 hectares, and connect and supply electricity to the national grid | 362 hectares at 162 Rapids Road, Rotokawa, Taupō |
-| Tauriko Property Group Limited Partnership | Mt Welcome, Pukerua Bay, Porirua | In stages, develop approximately 900 residential allotments, a commercial centre, and associated infrastructure, including a water reservoir, wastewater storage facilities, roading, and improved pedestrian and cycle trails to Pukerua Bay Village | 422A and 422B State Highway 59, Pukerua Bay, Porirua |
+| Pukerua Property Group Limited Partnership | Mt Welcome, Pukerua Bay, Porirua | In stages, develop approximately 900 residential allotments, a commercial centre, and associated infrastructure, including a water reservoir, wastewater storage facilities, roading, and improved pedestrian and cycle trails to Pukerua Bay Village | 422A and 422B State Highway 59, Pukerua Bay, Porirua |
 | Tauriko Property Group Limited Partnership | Tauriko West by Tauriko Property Group | Develop approximately 1,250 residential dwellings | 132 hectares at Redwood Lane and State Highway 29, east of the Wairoa River, Tauriko, Tauranga |
 | Te Ārai South Joint Venture (Ngāti Manuhiri Settlement Trust and Te Ārai South Holdings Limited) | Integrated Development Plan for Te Ārai South Precinct and Regional Park | In stages, develop Te Ārai South Precinct and Regional Park, comprising—expanding the existing land-based sand mining operations to enable the extraction of up to approximately 300,000 cubic metres of sand per annumdeveloping the Te Ārai Regional Park and establishing a Ngāti Manuhiri Te Ārai Regional Park “gateway village” visitor development, including approximately 180 accommodation unitsdeveloping approximately 420 residential, papakāinga, retirement, and worker accommodation units (in stages)land-based aquaculture development operations | Te Ārai South Precinct, Te Ārai, Auckland |
 | Te Aupouri Fisheries Management Limited | Muriwhenua Aquaculture | In stages, develop 9 shellfish farms for commercial and research purposes, including constructing and operating seabed, subsurface, and surface marine-farming infrastructure and associated marine safety and navigation infrastructure | 25,000 hectares (total) across 9 sites in the Northland coastal marine area: Cape Reinga / Te Rerenga Wairua, Motuopao, Murimoto, Ōtaipango / Henderson Bay, Te Kowhai Bay, Houhora Bay, Karikari Peninsula, Kaimaumau East Beach, and Te Oneroa-a-Tōhe / Ninety Mile Beach |
