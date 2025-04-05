@@ -1,5 +1,5 @@
 # Auckland Airport Act 1987
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 > An Act to provide for the incorporation of a company to own and operate Auckland International Airport, for the transfer of airport assets and liabilities of the Crown, the Auckland Regional Authority, and certain local authorities to that company, for the payment to the Crown and those local authorities of the existing reserves of the airport, and to amend the Civil Aviation Act 1964 and the Stamp and Cheque Duties Act 1971
 
@@ -27,7 +27,7 @@ In this Act, unless the context otherwise requires,—
     (c) any other agreement relating to the airport to which the Crown is a party together with any 1 or more of the Auckland Regional Authority or a constituent authority which is specified by the Governor-General by Order in Council to be a joint venture agreement for the purposes of this Act
   - **land** has the same meaning as in section 2 of the Land Transfer Act 1952
   - **liabilities** has the same meaning as in section 29(1) of the State-Owned Enterprises Act 1986
-  - **local authority** has the same meaning as in section 2 of the Airport Authorities Act 1966
+  - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **Ministers** means the Minister of Finance and the Minister for State-Owned Enterprises acting on behalf of the Crown
   - **shareholding percentage** in relation to a constituent authority, means the percentage specified in relation to that constituent authority in the first column of the Schedule
   - **vesting day** means the date specified in the first Order in Council made by the Governor-General under section 6.
@@ -45,7 +45,8 @@ This Act shall bind the Crown.
 (5) All money required to be paid by the Ministers on subscribing or applying for, or being allotted, equity securities or debt securities of the company shall be paid for out of the Consolidated Account or Loans Account out of money appropriated by Parliament for the purpose.
 (5A) The Ministers may from time to time exercise all or any of the Crown's rights and powers as the holder of any equity securities or any debt securities of the company.
 (6) On and after the vesting day the company shall be deemed to be an airport company within the meaning, and for the purposes, of the Airport Authorities Act 1966.
-(7) Nothing in section 134 of the Companies Act 1955 or section 3A of the Airport Authorities Act 1966 applies to the company.
+(6A) Subsection (6) is subject to clause 39 of Schedule 1 of the Civil Aviation Act 2023.
+(7) Nothing in section 134 of the Companies Act 1955, section 3A of the Airport Authorities Act 1966, or sections 228 to 230 of the Civil Aviation Act 2023 applies to the company.
 
 ### 4A Provisions relating to holding of securities by Minister
 (1) Equity securities and debt securities issued by the company and held in the name of a person described as one of the Ministers shall be held by the person from the time being holding the office of that Minister.
