@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2024-11-26_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -39,7 +39,7 @@ In this Act, unless the context otherwise requires,—
   - **absolute discretion** has the meaning given to it in section 11
   - **address for service** has the meaning given to it by section 387
   - **administrative error** , in relation to the granting of a visa or entry permission, has the meaning given to it in section 8
-  - **airport** has the meaning given to it in section 2 of the Airport Authorities Act 1966
+  - **airport** means an aerodrome as defined in section 5 of the Civil Aviation Act 2023
   - **appeal on humanitarian grounds** means an appeal to the Tribunal against liability for deportation on the grounds set out in section 207
   - **appeal on the facts** means an appeal against liability for deportation on a ground set out in section 202
   - **appeals body** means 1 or more of the following bodies established or continued under the former Act, as the case may be:
@@ -72,7 +72,7 @@ In this Act, unless the context otherwise requires,—
       (ii) any travel document issued by any international organisation for the time being specified by the Minister for the purpose of this definition
   - **chief executive** means—
     (a) the chief executive of the Department:
-    (b) when used in relation to a relevant agency, the chief executive of that agency (including, where appropriate, the Commissioner of Police, the Chief of Defence Force, and the General Manager of the Aviation Security Service)
+    (b) when used in relation to a relevant agency, the chief executive of that agency (including, where appropriate, the Commissioner of Police, the Chief of Defence Force, and the Director of Civil Aviation)
   - **claim** means a claim by a person in New Zealand for recognition, as the case may be, as—
     (a) a refugee in New Zealand under the Refugee Convention:
     (b) a protected person in New Zealand under the Convention Against Torture:
@@ -168,9 +168,9 @@ In this Act, unless the context otherwise requires,—
     (a) in relation to a port, means—
       (i) the owner of the port; or
       (ii) if the owner is not responsible for the operation or management of the port, the manager of the port or any other person who is, for the time being, responsible for the operation or management of the port:
-    (b) in relation to an airport,—
-      (i) means a local authority for the time being authorised under section 3 of the Airport Authorities Act 1966 to operate or manage the airport; and
-      (ii) includes any person or association of persons or airport company authorised under section 3(3) of the Airport Authorities Act 1966 to exercise the powers or functions of a local authority under that section
+    (b) in relation to an airport, means—
+      (i) an airport authority within the meaning of the Airport Authorities Act 1966 that operates or manages the airport; and
+      (ii) an airport operator registered under Part 7 of the Civil Aviation Act 2023 in relation to the airport
   - **passenger** , in relation to a craft,—
     (a) means a person, other than a member of the crew, who is carried in or on the craft with the consent of the carrier, or the person in charge, of the craft; but
     (b) for the purpose of any provision in this Act or secondary legislation made under this Act that deems certain passengers to hold a visa and to have been granted entry permission, does not include a person who is a member of a mass arrival group
@@ -4264,7 +4264,7 @@ An immigration officer who is provided with a document (or a copy of a document)
     (a) the New Zealand Police:
     (b) the department of State responsible for the administration of the Corrections Act 2004:
     (c) the department of State responsible for the administration of the Customs and Excise Act 1996:
-    (d) the Civil Aviation Authority of New Zealand established under section 72A(1) of the Civil Aviation Act 1990.
+    (d) the Civil Aviation Authority of New Zealand continued by section 20 of the Civil Aviation Act 2023.
 
 ### 303B Direct access to information for purposes of law enforcement, counter-terrorism, and security
 (1) For the purpose of section 303A, the chief executive of the Department may allow the chief executive of a specified agency to access the APP information database or databases to search for information relating to a person of interest.
@@ -5518,8 +5518,9 @@ Any decision made, or discretion exercised, under this Act by an immigration off
 
 ### 385 Certain operators of airports and ports to provide operating areas, accommodation, facilities, etc
 (1) The operator of an airport or a port that is subject to a designation under section 382 must provide and maintain the operating areas, accommodation, facilities, buildings, equipment, and storage in the airport or port as the chief executive determines is reasonably necessary and suitable for carrying out immigration functions in relation to people arriving in and departing from New Zealand.
+(1A) The chief executive must, when making a determination in relation to an airport under subsection (1), have regard to any regulatory airport spatial undertaking given by the airport operator under subpart 3 of Part 7 of the Civil Aviation Act 2023 that is in effect.
 (2) The operator of the airport or port may impose a reasonable charge or charges on the Department for providing the operating areas, accommodation, facilities, buildings, equipment, and storage required by the chief executive under subsection (1), but no charge may be imposed on the Department in respect of any operating area used for the processing of persons arriving in or departing from New Zealand (including any area used for the purposes of ensuring that a person is placed on the first available craft leaving New Zealand).
-(3) Subsection (2) applies despite anything to the contrary in the Airport Authorities Act 1966.
+(3) Subsection (2) applies despite anything to the contrary in the Airport Authorities Act 1966 or Part 7 of the Civil Aviation Act 2023.
 
 **Notice requirements and addresses for communications**
 
