@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -151,7 +151,7 @@ In this Act, unless the context otherwise requires,—
     (b) includes the Ross Dependency
   - **other investigating authority** , in relation to a death, means an authority (other than a coroner) permitted or required by law to investigate the death; and includes, without limitation, any of the following authorities:
     (a)
-    (b) the Civil Aviation Authority of New Zealand established by section 72A of the Civil Aviation Act 1990:
+    (b) the Civil Aviation Authority of New Zealand continued by section 20 of the Civil Aviation Act 2023:
     (c) the Corporation as defined in section 39 of the Accident Compensation Act 2001:
     (d) the Director or a Deputy Director or a district inspector as defined in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
     (e) a district inspector as defined in section 5(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
@@ -166,7 +166,7 @@ In this Act, unless the context otherwise requires,—
     (n) a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908, or a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, or by, any provision of an Act:
     (o) an inquiry to which section 6 of the Inquiries Act 2013 applies
   - **overseas death** means a death that occurs outside New Zealand other than a death on or from—
-    (a) a New Zealand registered aircraft (as defined in section 2(1) of the Civil Aviation Act 1990); or
+    (a) a New Zealand registered aircraft (as defined in section 5 of the Civil Aviation Act 2023; or
     (b) a New Zealand ship (as defined in section 2(1) of the Maritime Transport Act 1994); or
     (c) an aircraft or a ship of the Armed Forces (as defined in section 2(1) of the Defence Act 1990)
   - **pathologist** —
@@ -236,7 +236,7 @@ This Act binds the Crown.
 
 ### 14 Deaths that must be reported under section 13(2)
 (1) A death of a kind described in subsection (2) must be reported under section 13(2) if the death occurred in New Zealand or on or from—
-  (a) a New Zealand registered aircraft (as defined in section 2(1) of the Civil Aviation Act 1990); or
+  (a) a New Zealand registered aircraft (as defined in section 5 of the Civil Aviation Act 2023); or
   (b) a New Zealand ship (as defined in section 2(1) of the Maritime Transport Act 1994); or
   (c) an aircraft or a ship of the Armed Forces (as defined in section 2(1) of the Defence Act 1990).
 (2) The kinds of deaths referred to in subsection (1) are—
@@ -711,7 +711,7 @@ In ascertaining whether the family members or other people to whom the body is t
     (ii) the person was in New Zealand immediately before the person’s death; or
   (c) the body of the person concerned is not in New Zealand, or is destroyed, irrecoverable, or lost, and—
     (i) the death occurred on or from—
-      (A) a New Zealand registered aircraft (as defined in section 2(1) of the Civil Aviation Act 1990); or
+      (A) a New Zealand registered aircraft (as defined in section 5 of the Civil Aviation Act 2023); or
       (B) a New Zealand ship (as defined in section 2(1) of the Maritime Transport Act 1994); or
       (C) an aircraft or a ship of the Armed Forces (as defined in section 2(1) of the Defence Act 1990); or
     (ii) the death occurred outside New Zealand on or from an aircraft or a ship (other than an aircraft or ship referred to in subparagraph (i)) and the Solicitor-General has authorised the coroner to open an inquiry into the death.
@@ -1031,7 +1031,7 @@ A person who gives evidence at an inquest—
   (b) is destroyed, irrecoverable, or lost, and—
     (i) the person was in New Zealand immediately before the body was destroyed or became irrecoverable or lost; or
     (ii) the death occurred on or from—
-      (A) a New Zealand registered aircraft (as defined in section 2(1) of the Civil Aviation Act 1990); or
+      (A) a New Zealand registered aircraft (as defined in section 5 of the Civil Aviation Act 2023); or
       (B) a New Zealand ship (as defined in section 2(1) of the Maritime Transport Act 1994); or
       (C) an aircraft or a ship of the Armed Forces (as defined in section 2(1) of the Defence Act 1990).
 (2) Subsection (1) does not apply to an inquiry the opening of which was authorised by the Solicitor-General under section 59(1)﻿(c)﻿(ii).
