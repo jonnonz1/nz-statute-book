@@ -1,5 +1,5 @@
 # Litter Act 1979
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 > An Act to make better provision for the abatement and control of litter
 
@@ -18,7 +18,7 @@ This Act may be cited as the Litter Act 1979.
   - **occupier** , in relation to any land or premises, means any lessee, licensee, or other occupant of the land, and includes the owner or the agent of the owner where there is no apparent occupier
   - **private land** means every place other than a public place
   - **public authority** means—
-    (a) a territorial authority, the New Zealand Transport Agency, the Wellington Regional Water Board, the Auckland Harbour Bridge Authority, a harbour board, an airport authority within the meaning of section 2 of the Airport Authorities Act 1966, and an administering body within the meaning of section 2 of the Reserves Act 1977:
+    (a) a territorial authority, the New Zealand Transport Agency, the Wellington Regional Water Board, the Auckland Harbour Bridge Authority, a harbour board, an airport authority within the meaning of section 2 of the Airport Authorities Act 1966, an airport operator within the meaning of section 5 of the Civil Aviation Act 2023, and an administering body within the meaning of section 2 of the Reserves Act 1977:
     (b) in relation to any cemetery, any persons for the time being holding office as trustees of that cemetery under the Burial and Cremation Act 1964:
     (c) all other bodies or classes of bodies which by any Act, or by the Governor-General by Order in Council (see subsection (2)), are from time to time declared to be public authorities for the purposes of this Act
   - **public place** includes—but does not include any site for the disposal of litter, or any receptacle installed in any such public place pursuant to this Act or any other Act
@@ -29,7 +29,7 @@ This Act may be cited as the Litter Act 1979.
     (e) any waters to which the public traditionally has access, whether with or without payment of any fee, for bathing or other recreational purposes:
     (f) every wharf, pier, or jetty (whether under the control of a harbour board or not) to which the public has access:
     (g) any conservation area within the meaning of the Conservation Act 1987:
-    (h) any airport within the meaning of section 2 of the Airport Authorities Act 1966:
+    (h) any aerodrome within the meaning of section 5 of the Civil Aviation Act 2023:
     (i) any cemetery within the meaning of section 2 of the Burial and Cremation Act 1964:
     (j) any land vested in or controlled by any local authority (within the meaning of section 5(1) of the Local Government Act 2002) or the Crown, being land that is not occupied pursuant to any lease, licence, or other authority by any private person:
     (k) any national park constituted under the National Parks Act 1980:
