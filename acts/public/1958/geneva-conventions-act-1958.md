@@ -1,5 +1,5 @@
 # Geneva Conventions Act 1958
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 > An Act to enable effect to be given to certain International Conventions done at Geneva on 12 August 1949 and to certain Protocols additional to those Conventions and for purposes connected therewith
 
@@ -13,7 +13,7 @@ This Act may be cited as the Geneva Conventions Act 1958.
   - **the Second Convention** means the Geneva Convention for the Amelioration of the Condition of Wounded, Sick, and Shipwrecked Members of Armed Forces at Sea, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annex to that Convention) is set out in Schedule 2
   - **the Third Convention** means the Geneva Convention relative to the Treatment of Prisoners of War, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annexes to that Convention) is set out in Schedule 3
   - **the Fourth Convention** means the Geneva Convention relative to the Protection of Civilian Persons in Time of War, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annexes to that Convention) is set out in Schedule 4
-  - **New Zealand aircraft** means any aircraft that is registered or required to be registered in New Zealand under the Civil Aviation Act 1990; and includes any aircraft belonging to or in the service of the Sovereign in right of New Zealand, whether a civil or a military aircraft
+  - **New Zealand aircraft** means any aircraft that is registered or required to be registered in New Zealand under the Civil Aviation Act 2023; and includes any aircraft belonging to or in the service of the Sovereign in right of New Zealand, whether a civil or a military aircraft
   - **New Zealand ship** means a New Zealand ship or ship belonging to the Sovereign as those terms are defined in the Shipping and Seamen Act 1952; and includes an unregistered ship which is by Part 12 of that Act required to be registered in New Zealand or in some other Commonwealth country
   - **protected internee** means a person protected by the Fourth Convention and interned in New Zealand
   - **protected prisoner of war** means a person protected by the Third Convention
