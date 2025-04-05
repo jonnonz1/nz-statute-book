@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2025-04-05_
 
 > Title
 
@@ -1879,16 +1879,42 @@ Gas pipeline services are subject to default/customised price-quality regulation
 
 ### 56A Interpretation
 (1) In this subpart,—
+  - **aircraft and freight activities** means the activities undertaken (including the facilities and services provided) to enable, within a security area or areas of the relevant airport, the servicing and maintenance of aircraft and the handling of freight transported, or to be transported, by aircraft; and includes—
+    (a) the provision, within a security area or areas of the relevant airport, of any 1 or more of the following:
+      (i) hangars:
+      (ii) facilities and services for the refuelling of aircraft, flight catering, and waste disposal:
+      (iii) facilities and services for the storing of freight:
+      (iv) security, customs, and quarantine services for freight:
+    (b) the holding of any facilities and assets (including land) acquired or held to provide aircraft and freight activities in the future (whether or not used for any other purpose in the meantime)
+  - **airfield activities** means the activities undertaken (including the facilities and services provided) to enable the landing and take-off of aircraft; and includes—
+    (a) the provision of any 1 or more of the following:
+      (i) airfields, runways, taxiways, and parking aprons for aircraft:
+      (ii) facilities and services for air traffic and parking apron control:
+      (iii) airfield and associated lighting:
+      (iv) services to maintain and repair airfields, runways, taxiways, and parking aprons for aircraft:
+      (v) rescue, fire, safety, and environmental hazard control services:
+      (vi) airfield supervisory and security services:
+    (b) the holding of any facilities and assets (including land) acquired or held to provide airfield activities in the future (whether or not used for any other purpose in the meantime)
   - **specified airport company** means—
     (a) the company (as defined in section 2 of the Auckland Airport Act 1987) that operates Auckland International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport; and
     (b) the company (as defined in section 2 of the Wellington Airport Act 1990) that operates Wellington International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport; and
-    (c) the airport company (as defined in section 2 of the Airport Authorities Act 1966) that operates Christchurch International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport
+    (c) the company that operates Christchurch International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport
   - **specified airport services** means all of the services supplied by specified airport companies in markets directly related to the following activities (whether for international or domestic flights):
-  (a) aircraft and freight activities:
-  (b) airfield activities:
-  (c) specified passenger terminal activities:
-  (d) any other services declared to be specified airport services by Order in Council made under section 56M.
-(2) In subsection (1), aircraft and freight activities, airfield activities, and specified passenger terminal activities have the same meanings as in section 2 of the Airport Authorities Act 1966.
+    (a) aircraft and freight activities:
+    (b) airfield activities:
+    (c) specified passenger terminal activities:
+    (d) any other services declared to be specified airport services by Order in Council made under section 56M
+  - **specified passenger terminal activities** means the activities undertaken (including the facilities and services provided) in relation to aircraft passengers while those passengers are in a security area or areas of the relevant airport; and—
+    (a) includes the provision, within a security area or security areas of the relevant airport, of any 1 or more of the following:
+      (i) passenger seating areas, thoroughfares, and airbridges:
+      (ii) flight information and public address systems:
+      (iii) facilities and services for the operation of customs, immigration, and quarantine checks and control:
+      (iv) facilities for the collection of duty-free items:
+      (v) facilities and services for the operation of security and Police services:
+    (b) includes any activities undertaken (including the facilities and services provided) in a passenger terminal to enable the check-in of aircraft passengers, including services for baggage handling:
+    (c) includes the holding of any facilities and assets (including land) acquired or held to provide specified passenger terminal activities in the future (whether or not used for any other purpose in the meantime):
+    (d) does not include the provision of any space for retail activities.
+(2)
 
 **Specified airport services regulated under this Part**
 
@@ -1904,7 +1930,7 @@ In addition to information disclosure regulation, specified airport services are
 **Duty to supply information to Secretary**
 
 ### 56E Duty to supply information to Secretary
-A specified airport company must, as soon as practicable after disclosing information under this Part, supply a copy of the information to the Secretary (as defined in section 2(1) of the Civil Aviation Act 1990).
+A specified airport company must, as soon as practicable after disclosing information under this Part, supply a copy of the information to the Secretary (as defined in section 5 of the Civil Aviation Act 2023).
 
 **Commission inquiry into regulation of specified airport services**
 
@@ -3083,7 +3109,7 @@ The Commission may exercise any power under sections 98 and 98A notwithstanding 
 ### 99 Powers of Commission to take evidence
 (1) For the purposes of carrying out its functions and exercising its powers under this Act, the Commission may receive in evidence any statement, document, information, or matter that may in its opinion assist it to deal effectively with the matter before it, whether or not the same would be otherwise admissible in a court of law.
 (2) The Commission may take evidence on oath and for that purpose a member of the Commission or any employee of the Commission duly appointed for the purpose may administer an oath.
-(3) The Commission may require the evidence referred to in section 98(c) to be given on oath, and for that purpose a member of the Commission or any employee of the Commission duly appointed for the purpose may administer an oath.
+(3) The Commission may require the evidence referred to in section 98(1)﻿(c) to be given on oath, and for that purpose a member of the Commission or any employee of the Commission duly appointed for the purpose may administer an oath.
 (4) The Commission may permit a person appearing as a witness before the Commission to give evidence by tendering and, if the Commission thinks fit, verifying by oath, a written statement.
 (5) Where any person has appeared as a witness before the Commission pursuant to a notice in that behalf, or has given evidence before the Commission, whether pursuant to a notice or not, the Commission may, if it thinks fit, order any sum to be paid to that witness on account of his expenses, not exceeding the amount that would be payable to him if his attendance had been as a witness for the Crown in a criminal case in accordance with the regulations for the time being in force for the payment of witnesses for the Crown in criminal cases.
 
