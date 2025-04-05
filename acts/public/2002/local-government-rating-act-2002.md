@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2024-10-01_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -1936,7 +1936,7 @@ Land that is specifically exempt from rates under the provisions of any other en
 Land vested in the Crown or a local authority that is formed and used for a road, limited access road, access way, or service lane.
 
 ### 18
-Land vested in and occupied by the Crown, or by any airport authority, that is—
+Land vested in and occupied by the Crown, or by any airport authority or airport operator, that is—
 (a) within the operational area of an aerodrome; and
 (b) used solely or principally—
   (i) for the landing, departure, or movement of aircraft; or
