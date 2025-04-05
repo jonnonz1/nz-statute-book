@@ -1,5 +1,5 @@
 # Antarctic Marine Living Resources Act 1981
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 > An Act to give effect to the Convention on the Conservation of Antarctic Marine Living Resources
 
@@ -12,7 +12,7 @@ _Consolidation as at 2021-10-28_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **aircraft** has the same meaning as in section 2 of the Civil Aviation Act 1990
+  - **aircraft** has the same meaning as in section 5 of the Civil Aviation Act 2023
   - **another contracting party** means a contracting party to the Convention other than New Zealand
   - **Antarctic Convergence** has the meaning given to it by Article I of the Convention
   - **conservation measures** means measures for the conservation of Antarctic marine living resources that are adopted from time to time by the Commission for the Conservation of Antarctic Marine Living Resources under Article IX of the Convention
