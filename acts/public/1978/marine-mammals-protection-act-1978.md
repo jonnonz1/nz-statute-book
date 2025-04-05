@@ -1,5 +1,5 @@
 # Marine Mammals Protection Act 1978
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 > An Act to make provision for the protection, conservation, and management of marine mammals within New Zealand and within New Zealand fisheries waters
 
@@ -13,7 +13,7 @@ _Consolidation as at 2021-10-28_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **aircraft** has the same meaning as in section 2 of the Civil Aviation Act 1990
+  - **aircraft** has the same meaning as in section 5 of the Civil Aviation Act 2023
   - **approved** means approved by the Minister
   - **aquatic life** means any species of plant or animal life which, at any time in the life history of the species, must inhabit water; and includes seabirds (whether or not in an aquatic environment)
   - **Board** means a Conservation Board established under section 6L of the Conservation Act 1987
@@ -250,7 +250,7 @@ The Minister, in his discretion, may grant a permit under this Act or refuse to 
 No action or proceedings shall be brought against the Crown, or any officer, or any person acting under the instructions of an officer, in respect of any thing done or undertaken for the purpose of carrying out the provisions of this Act or any regulations made under it where the Crown or those persons have acted in good faith and with reasonable care.
 
 ### 16 Reporting of accidental death or injury
-(1) Where any person, in the course of fishing pursuant to any licence, permit, or permission granted or given under the Fisheries Act 1983, accidentally or incidentally kills or injures a marine mammal he shall—
+(1) Where any person, in the course of fishing pursuant to any licence, permit, or permission granted or given under the Fisheries Act 1996, accidentally or incidentally kills or injures a marine mammal he shall—
   (a) if fishing from a vessel, record the event in the vessel's log and report the event in writing to an officer or a fishery officer (as defined in section 2(1) of the Fisheries Act 1996) not later than 48 hours after the arrival of the vessel in port; and
   (b) in any other case, report the event in writing to an officer or a fishery officer (as defined in section 2(1) of the Fisheries Act 1996) as soon as practicable.
 (2) Any person (not being a person to whom subsection (1) applies) who, by any means whatsoever, accidentally or incidentally kills or injures any marine mammal shall report the event to an officer or a fishery officer (as defined in section 2(1) of the Fisheries Act 1996) as soon as practicable.
