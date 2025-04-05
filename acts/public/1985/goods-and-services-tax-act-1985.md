@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2025-04-01_
+_Consolidation as at 2025-04-05_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -1072,7 +1072,7 @@ This Act shall bind the Crown.
     (iii) the supplies of the interest in land under the lease agreements meet the requirements set out in subsection (1)﻿(mb):
   (d) a registered person who is a non-profit body that is resident in New Zealand and acquires goods is treated, to the extent to which the person acquires the goods with an intention of using them other than for making exempt supplies, as acquiring the goods with the intention of using them in the course or furtherance of the taxable activity of the registered person, except if the registered person uses the goods solely in the course or furtherance of an activity for which the registered person makes an election under section 20(3KB).
 (9) For the purpose of this section—
-  - **aircraft** has the meaning set out in section 2 of the Civil Aviation Act 1990
+  - **aircraft** has the meaning set out in section 5 of the Civil Aviation Act 2023
   - **consumable stores** means—
     (a) goods that passengers and crew on board an aircraft or a ship have available to consume; and
     (b) goods necessary to operate or maintain an aircraft or a ship, including fuel and lubricants but excluding spare parts and equipment
@@ -1093,7 +1093,7 @@ This Act shall bind the Crown.
     (i) from a place outside New Zealand to another place outside New Zealand; or
     (ii) from a place in New Zealand to a place outside New Zealand; or
     (iii) from a place outside New Zealand to a place in New Zealand; or
-  (b) the services are the transport of passengers from a place in New Zealand to another place in New Zealand to the extent that the transport is by aircraft, as defined in section 2 of the Civil Aviation Act 1990, and is international carriage for the purpose of that Act; or
+  (b) the services are the transport of passengers from a place in New Zealand to another place in New Zealand to the extent that the transport is by aircraft, as defined in section 5 of the Civil Aviation Act 2023, and is international carriage for the purpose of that Act; or
   (bb) the services are the transport of passengers from a place in New Zealand to another place in New Zealand by sea as part of an international cruise if either the first place of departure, or the final place of destination, of the cruise is outside New Zealand; or
   (c) the services, including ancillary transport activities such as loading, unloading and handling, are the transport of goods from a place in New Zealand to another place in New Zealand to the extent that the services are part of a supply of services, relating to the same goods, to which paragraph (a)﻿(ii) or (a)﻿(iii) applies; or
   (cb) the services, including ancillary activities such as loading, unloading, handling and storing, are the transport of household goods from a place in New Zealand to another place in New Zealand, if—
