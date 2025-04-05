@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2025-01-26_
+_Consolidation as at 2025-04-05_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -9,8 +9,8 @@ _Consolidation as at 2025-01-26_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **aerodrome** has the same meaning as in the Civil Aviation Act 1990
-  - **aircraft** has the same meaning as in the Civil Aviation Act 1990
+  - **aerodrome** has the same meaning as in the Civil Aviation Act 2023
+  - **aircraft** has the same meaning as in the Civil Aviation Act 2023
   - **animal** includes any bird, reptile, amphibian, or insect
   - **carrier** , in relation to any infectious disease, means any person having in his blood, or in his nose or throat, or in his excretions, or in his discharges, the specific infectious agent of that disease, though he may exhibit no other sign or symptom of that disease
   - **cleansing** , in relation to any building, includes lime-washing, papering, painting, and the destruction of vermin
