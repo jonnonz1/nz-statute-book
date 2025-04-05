@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-04-05_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -1159,6 +1159,7 @@ Any person who moves risk goods within a biosecurity control area shall comply w
   (a) the alternative arrangements, facilities, and systems that are or could be made available; and
   (b) the cost to the port operator of each alternative arrangement, facility, and system; and
   (c) the extent to which each alternative arrangement, facility, and system would assist the Director-General in managing the risks associated with the importation of risk goods.
+(3A) The Director-General must, when considering the arrangements, facilities, and systems available at an airport in accordance with subsection (1), have regard to any regulatory airport spatial undertaking given by the airport operator under subpart 3 of Part 7 of the Civil Aviation Act 2023 that is in effect.
 (4) All arrangements, facilities (other than office or parking facilities), and systems required in accordance with subsection (1) are available for use by the Crown at no expense to the Crown.
 (5) The Director-General must,—
   (a) within 28 days after approving a port in accordance with subsection (1), publish in the Gazette a notice specifying the name of the port, the day on which it was so approved, any limitation on the kind or description of craft for which the port was approved, any limitation on arrivals to specified purposes, and a place where the notice of approval may be inspected; and
@@ -3308,7 +3309,7 @@ An inspector who suspects on reasonable grounds that a person may be in possessi
     (i) is, under an enactment, liable to be detained because of an infectious disease; or
     (ii) is liable to be arrested under a warrant issued by a court or a registrar; or
     (iii) is liable to be prosecuted for an offence punishable by imprisonment; or
-    (iv) has contravened the Civil Aviation Act 1990; or
+    (iv) has contravened the Civil Aviation Act 2023; or
     (v) has contravened the Customs and Excise Act 2018; or
     (vi) has contravened the Human Assisted Reproductive Technology Act 2004; or
     (vii) has contravened the Immigration Act 2009; or
@@ -3426,7 +3427,7 @@ An inspector or authorised person who has lawfully entered a place under section
   (b) ascertaining the presence or absence of any pest or unwanted organism.
 (2) An approval given under subsection (1) may be given subject to any conditions that the chief technical officer or principal officer thinks fit.
 (3) Any person specified in an approval or person of the class specified in an approval given in accordance with subsection (1) may, after public notice has been given in accordance with this section, act in accordance with that approval.
-(4) Nothing in this section derogates from any provision of the Civil Aviation Act 1990 or any rule or regulation made under that Act.
+(4) Nothing in this section derogates from any provision of the Civil Aviation Act 2023 or any rule or regulation made under that Act.
 (5) Subject to subsection (6), public notice for the purposes of this section is given by publishing, at least 2 weeks before the intended date when the article or substance is to be applied, in a newspaper circulating in the area in which the place is situated, a notice specifying the following information:
   (a) the date on which, or as soon as practicable after which, it is intended to apply the article or substance:
   (b) the article or substance to be applied:
