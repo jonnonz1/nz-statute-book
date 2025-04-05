@@ -1,5 +1,5 @@
 # Aviation Crimes Act 1972
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 > An Act to give effect to the provisions of the Hague Convention for the Suppression of Unlawful Seizure of Aircraft, the Montreal Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, the Montreal Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, and the Tokyo Convention on Offences and Certain Other Acts Committed on Board Aircraft, and for matters incidental thereto
 
@@ -14,20 +14,21 @@ _Consolidation as at 2021-10-28_
   - **act of violence** means an act which, if committed in New Zealand, would constitute—
     (a) an assault as defined in any of sections 192, 193, 194, 194A, 196, or 202C of the Crimes Act 1961; or
     (b) any of the crimes specified in sections 188, 189, 189A, 190, 191, 197, 198, 198A, 198B, 199, 200, 202, 203, or 209 of the Crimes Act 1961
-  - **aircraft** has the same meaning as in the Civil Aviation Act 1990
-  - **aviation security officer** means an aviation security officer within the meaning of the Civil Aviation Act 1990
-  - **carrier and contract** in relation to any contract of carriage, have the same meanings as in section 91U of the Civil Aviation Act 1990, whether the contract of carriage is for international carriage or domestic carriage; and includes a person who has reported to a servant or agent of the carrier for the purpose of going on board an aircraft pursuant to a contract to carry him or her as a passenger
+  - **aircraft** has the same meaning as in the Civil Aviation Act 2023
+  - **aviation security officer** means an aviation security officer within the meaning of the Civil Aviation Act 2023
+  - **carrier and contract** in relation to any contract of carriage, have the same meanings as in section 269(1) of the Civil Aviation Act 2023, whether the contract of carriage is for international carriage or domestic carriage; and includes a person who has reported to a servant or agent of the carrier for the purpose of going on board an aircraft pursuant to a contract to carry him or her as a passenger
   - **commander** , in relation to an aircraft, means the pilot for the time being in lawful command of the aircraft
   - **international airport** means any airport designated as an airport of entry and departure for international air traffic where the formalities incident to customs, immigration, public health, animal and plant quarantine, and similar procedures are carried out
+  - **landside security area** has the same meaning as in section 5 of the Civil Aviation Act 2023
   - **military service** includes naval and air force service; and a certificate by the Minister of Foreign Affairs that any aircraft is or is not used in military service for the purposes of this Act shall be conclusive evidence of the fact certified
   - **New Zealand** includes all waters within the outer limits of the territorial sea of New Zealand as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
-  - **New Zealand aircraft** means an aircraft that is registered or required to be registered in New Zealand under the Civil Aviation Act 1990
+  - **New Zealand aircraft** means an aircraft that is registered or required to be registered in New Zealand under the Civil Aviation Act 2023
   - **ordinarily resident in New Zealand** has the same meaning as in section 4 of the Crimes Act 1961
   - **passenger** means a person carried under a contract for carriage other than a person—
     (a) assigned by the carrier for duty as a member of the crew of the aircraft; or
     (b) carried for the sole purpose of receiving or giving instruction in the control or navigation of aircraft in flight
-  - **security enhanced area** has the same meaning as in section 2 of the Civil Aviation Act 1990
-  - **sterile area** has the same meaning as in section 2 of the Civil Aviation Act 1990
+  - **security enhanced area** has the same meaning as in section 5 of the Civil Aviation Act 2023
+  - **sterile area** has the same meaning as in section 5 of the Civil Aviation Act 2023
   - **the Hague Convention** means the Convention for the Suppression of Unlawful Seizure of Aircraft, done at the Hague on 16 December 1970
   - **the Montreal Convention** means the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on 23 September 1971
   - **the Montreal Protocol** means the Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, done at Montreal on 24 February 1988
@@ -131,17 +132,17 @@ Nothing in section 8 of the Crimes Act 1961 (which relates to jurisdiction in re
 
 **Taking firearms, explosives, etc, on to aircraft**
 
-### 11 Taking firearms, explosives, etc, on to aircraft or into sterile area or security enhanced area
+### 11 Taking firearms, explosives, etc, on to aircraft or into landside security area, sterile area, or security enhanced area
 (1) Everyone commits a crime, and is liable on conviction to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, or without the permission of the owner or operator of the aircraft or of a person duly authorised by either of them to give such permission, takes or attempts to take on board any aircraft—
   (a) any firearm; or
   (b) any other dangerous or offensive weapon or instrument of any kind whatsoever; or
   (c) any ammunition; or
   (d) any explosive substance or device, or any other injurious substance or device of any kind whatsoever which could be used to endanger the safety of the aircraft or of persons on board the aircraft; or
   (e) an imitation of an item or substance specified in paragraphs (a) to (d).
-(1A) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, takes, or attempts to take, into a sterile area or a security enhanced area an item or substance specified in subsection (1).
+(1A) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, takes, or attempts to take, into a landside security area, a sterile area, or a security enhanced area an item or substance specified in subsection (1).
 (1B) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years, who—
   (a) has the intention of causing bodily injury or of doing any act that would constitute a crime under section 3, 4, 5, or 5A; and
-  (b) takes on board an aircraft or into a sterile area or a security enhanced area an item or substance that is capable of—
+  (b) takes on board an aircraft or into a landside security area, a sterile area, or a security enhanced area an item or substance that is capable of—
     (i) causing bodily injury or of endangering the safety of an aircraft or an airport when combined with another item or substance; or
     (ii) activating another item or substance that is capable of causing bodily injury or of endangering the safety of an aircraft or an airport.
 (2) For the purposes of this section, the term firearm means any gun, rifle, or pistol, whether acting by force of explosives or not; and includes any such gun, rifle, or pistol which for the time being is not capable of discharging any shot, bullet, or other missile, but which by its completion or the replacement of any component part or parts or the correction or repair of any defect or defects, would be so capable; and also includes any such gun, rifle, or pistol which is for the time being dismantled.
@@ -190,8 +191,8 @@ Nothing in section 8 of the Crimes Act 1961 (which relates to jurisdiction in re
 (4) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for subpart 3) apply.
 
 ### 14 Evidence of offences
-(1) Nothing found in the course of a search or examination made pursuant to section 12 or section 13 of this Act or sections 80, 80B, and 80C of the Civil Aviation Act 1990 shall be admissible as evidence in any criminal proceedings against the person who, or whose baggage, has been searched, or, as the case may be, the consignor of any cargo that has been examined, other than proceedings in respect of a crime against this Act or the crime of treason or any crime punishable by imprisonment for life or for a term of 3 years or more, or in respect of an offence against section 16 of the Arms Act 1958 (which relates to the unlawful carriage or possession of firearms, ammunition, or explosives), or in respect of an offence against the Misuse of Drugs Act 1975.
-(2) For the purposes of this section, if any dangerous goods (as defined in section 2 of the Civil Aviation Act 1990) are found in the course of a search or examination made under this Act, the dangerous goods must be regarded as having been detected in the exercise of the powers conferred by sections 80(a) and (ab) and 80A of the Civil Aviation Act 1990 and not found under this Act.
+(1) No item or substance specified in section 11(1) of the Aviation Crimes Act 1972 that is found in the course of a search or examination made under section 12 or 13 of this Act or the Civil Aviation Act 2023 is admissible as evidence in any criminal proceedings against the person who, or whose baggage, has been searched, or, as the case may be, the consignor of any cargo that has been examined, other than proceedings in respect of a crime against this Act or the crime of treason or any crime punishable by imprisonment for life or for a term of 3 years or more, or in respect of an offence against section 16 of the Arms Act 1958 (which relates to the unlawful carriage or possession of firearms, ammunition, or explosives), or in respect of an offence against the Misuse of Drugs Act 1975.
+(2) For the purposes of this section, if dangerous goods (as defined in section 5 of the Civil Aviation Act 2023) are found in the course of a search or examination made under this Act, the dangerous goods must be regarded as having been detected in the exercise of the powers conferred by Part 5 of the Civil Aviation Act 2023 and not found under this Act.
 
 **Powers of aircraft commander**
 
