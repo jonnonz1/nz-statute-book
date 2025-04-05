@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2025-04-05_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -8,7 +8,7 @@ This Act may be cited as the Forests Act 1949 and shall come into force on 1 Jan
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **aircraft** has the same meaning as in section 2 of the Civil Aviation Act 1990
+  - **aircraft** has the same meaning as in section 5 of the Civil Aviation Act 2023
   - **amenity values** means those natural or physical qualities and characteristics of an area that contribute to people's appreciation of its pleasantness, aesthetic coherence, and cultural and recreational attributes
   - **animal** means any living stage of any member of the animal kingdom except human beings; and includes the eggs and the whole or any part of the carcass of any such member
   - **approved** , in relation to a sustainable management plan, means approved by the Secretary under section 67F
