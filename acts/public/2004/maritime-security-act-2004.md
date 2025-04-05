@@ -1,5 +1,5 @@
 # Maritime Security Act 2004
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Maritime Security Act 2004.
@@ -547,7 +547,7 @@ The chief executive must approve a port facility security plan, or any amendment
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister,—
   (a) appoint a government department or Crown entity as a maritime security organisation:
   (b) assign particular port security functions to a government department or Crown entity appointed as a maritime security organisation.
-(2) For the purposes of this section, Crown entity includes the Aviation Security Service established under the Civil Aviation Act 1990.
+(2) For the purposes of this section, Crown entity includes the AvSec as defined in section 5 of the Civil Aviation Act 2023.
 (3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 45 Designation of port security areas
@@ -944,7 +944,7 @@ Every person who intentionally contravenes section 61 by entering or leaving an 
 (2) Regulations made under this section may prescribe offences and penalties for contravention of, or non-compliance with, their provisions, on the conviction of any offender, not exceeding,—
   (a) in the case of an individual, a fine of $10,000; and
   (b) in the case of a body corporate, a fine of $50,000.
-(3) For the purposes of this section, Crown entity includes the Aviation Security Service established under the Civil Aviation Act 1990.
+(3) For the purposes of this section, Crown entity includes the AvSec as defined in section 5 of the Civil Aviation Act 2023.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 77 Exemptions from regulations
