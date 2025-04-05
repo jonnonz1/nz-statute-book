@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2023-04-30_
+_Consolidation as at 2025-04-05_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -10,7 +10,7 @@ _Consolidation as at 2023-04-30_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **accredited reviewer** means a person accredited under section 109 to carry out independent reviews under section 105
-  - **aircraft** has the meaning given to it by section 2 of the Civil Aviation Act 1990
+  - **aircraft** has the meaning given to it by section 5 of the Civil Aviation Act 2023
   - **animal** —
     (a) means any live member of the animal kingdom that is—
       (i) a mammal; or
@@ -529,7 +529,7 @@ The Minister must, in deciding whether or not to recommend the making of an Orde
   (a) the nature and purpose of the trap or device; and
   (b) whether any pain or distress that the trap or device is likely to cause would be unreasonable; and
   (c) whether the use of other instruments under this Act, or instruments under other Acts, are adequate to manage the effects of the trap or device on animal welfare; and
-  (d) whether the trap or device conforms to any relevant New Zealand standard within the meaning of the Standards Act 1988; and
+  (d) whether the trap or device conforms to any relevant New Zealand standard within the meaning of the Standards and Accreditation Act 2015; and
   (e) the availability and cost-effectiveness of, and the feasibility of a transition to, other means of achieving the purpose of the trap or device (whether by means of another trap or device or by different means); and
   (f) whether the trap or device could be modified, or the method of use controlled, to avoid unacceptable effects on animal welfare; and
   (g) the consultation conducted under section 32(1) or section 32(6), as the case may be, and any consultation conducted under section 184(1); and
