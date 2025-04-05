@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2025-03-14_
+_Consolidation as at 2025-04-05_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -13,7 +13,7 @@ _Consolidation as at 2025-03-14_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **advertisement** means any publication to the community or to any section of the community of any words, whether written or printed, spoken, or in any electronic form, or of any pictorial representation or design or device, used to promote the sale of any hazardous substance; and has a corresponding meaning
-  - **aircraft** has the same meaning as in section 2 of the Civil Aviation Act 1990
+  - **aircraft** has the same meaning as in section 5 of the Civil Aviation Act 2023
   - **amenity values** means those natural or physical qualities and characteristics of an area that contribute to people's appreciation of its pleasantness, aesthetic coherence, and cultural and recreational attributes
   - **approved form** means a form approved by the Authority under section 11(1)﻿(fa)
   - **Authority** or means the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011
