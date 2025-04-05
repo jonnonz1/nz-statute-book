@@ -1,5 +1,5 @@
 # Legislation Act 2019
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Legislation Act 2019.
@@ -1037,7 +1037,7 @@ If secondary legislation to which this subpart applies is not confirmed on or be
   (c) the restoration or revival takes effect at the time the unconfirmed legislation is revoked; and
   (d) revocation of the unconfirmed legislation does not otherwise affect its previous operation or anything done or suffered under it.
 (2) Subsection (1)﻿(a) does not apply to any of the following:
-  (a) levies to which section 42C(3) or (4) of the Civil Aviation Act 1990 applies; or
+  (a)
   (b) orders made under section 5(1) of the Energy Resources Levy Act 1976; or
   (c) fees or charges to which section 270(4) to (6) of the Land Transport Act 1998 applies; or
   (d) levy rates set by regulations made under section 41(1)﻿(e) of the Waste Minimisation Act 2008.
@@ -1623,13 +1623,17 @@ A failure to comply with this schedule does not invalidate secondary legislation
 | Section 167(1) (for the purposes of section 38(2)﻿(b) or 60) |  |  | Exemption applies |
 | Child Poverty Reduction Act 2018 |  |  |  |
 | Section 6 (in combination with section 34) |  |  | Exemption applies |
-| Civil Aviation Act 1990 |  |  |  |
-| Section 28 | Exemption groundCompliance is inappropriate for reasons of security. | Exemption applies if exemption ground is met |  |
-| Section 31 | Exemption groundCompliance is inappropriate for reasons of security. | Exemption applies if exemption ground is met |  |
-| Section 34A | Exemption groundCompliance is inappropriate for reasons of security. | Exemption applies if exemption ground is met |  |
-| Section 77A | Exemption groundCompliance would prejudice the national security interests of New Zealand. | Exemption applies if exemption ground is met |  |
-| Section 77B | Exemption groundCompliance would prejudice the national security interests of New Zealand. | Exemption applies if exemption ground is met |  |
-| Section 107(1) |  |  | Exemption applies |
+| Civil Aviation Act 2023 |  |  |  |
+| Section 52 | Exemption groundCompliance is inappropriate for reasons of security. | Exemption applies if exemption ground is met |  |
+| Section 63 | Exemption groundCompliance is inappropriate for reasons of security. | Exemption applies if exemption ground is met |  |
+| Section 64 | Exemption groundCompliance is inappropriate for reasons of security. | Exemption applies if exemption ground is met |  |
+| Section 67 | Exemption groundCompliance is inappropriate for reasons of security. | Exemption applies if exemption ground is met |  |
+| Section 70 | Exemption groundCompliance is inappropriate for reasons of security. | Exemption applies if exemption ground is met |  |
+| Section 152 | Exemption groundCompliance would prejudice the national security interests of New Zealand. | Exemption applies if exemption ground is met |  |
+| Section 154 | Exemption groundCompliance would prejudice the national security interests of New Zealand. | Exemption applies if exemption ground is met |  |
+| Section 322(1)﻿(b) | Exemption groundCompliance would prejudice the national security interests of New Zealand. | Exemption applies if exemption ground is met |  |
+| Section 430 (where transport instrument provided for by rule made under s 52, 63, 67, or 70) | Exemption groundCompliance would prejudice the national security interests of New Zealand. | Exemption applies if exemption ground is met |  |
+| Section 436 |  |  | Exemption applies |
 | Civil Defence Emergency Management Act 2002 |  |  |  |
 | Section 39 |  |  | Exemption applies |
 | Commerce Act 1986 |  |  |  |
