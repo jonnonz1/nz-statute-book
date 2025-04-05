@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 2021
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Births, Deaths, Marriages, and Relationships Registration Act 2021.
@@ -181,7 +181,7 @@ In this Part,—
     (b) in relation to a civil union, a person who is a civil union celebrant under the Civil Union Act 2004 and who solemnised the civil union
   - **medical practitioner** has the same meaning as in section 5 of the Health Practitioners Competence Assurance Act 2003
   - **New Zealand aircraft** means—
-    (a) an aircraft registered in New Zealand under the Civil Aviation Act 1990; or
+    (a) an aircraft registered in New Zealand under the Civil Aviation Act 2023; or
     (b) an aircraft of the armed forces (within the meaning of the Armed Forces Discipline Act 1971)
   - **New Zealand ship** means—
     (a) a New Zealand ship (as defined in section 2(1) of the Maritime Transport Act 1994); or
