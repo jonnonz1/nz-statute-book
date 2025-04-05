@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2025-02-02_
+_Consolidation as at 2025-04-05_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -10,12 +10,12 @@ _Consolidation as at 2025-02-02_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **activity** includes a trade, business, or occupation
-  - **aircraft** has the same meaning as in the Civil Aviation Act 1990
+  - **aircraft** has the same meaning as in the Civil Aviation Act 2023
   - **animal** means any mammal, bird, reptile, amphibian, fish (including shellfish) or related organism, insect, crustacean, or organism of every kind; but does not include a human being
   - **Authority** means the New Zealand Conservation Authority established under section 6A of the Conservation Act 1987
   - **Board** means a Conservation Board established under section 6L of the Conservation Act 1987
   - **boat** means every description of vessel (including barges, rafts, lighters, and like vessels) however propelled; and includes a hovercraft
-  - **certified aerodrome** means an aerodrome licensed under the Civil Aviation Regulations 1953 or certificated under rules made under the Civil Aviation Act 1990
+  - **certified aerodrome** means an aerodrome certificated under rules made under the Civil Aviation Act 2023
   - **Chief Surveyor** means the Chief Surveyor for each land district in which the park or any part of the park is situated
   - **companion dog** means a dog certified by the Top Dog Companion Trust as being a companion dog or a dog under training as a companion dog
   - **concession** or —
