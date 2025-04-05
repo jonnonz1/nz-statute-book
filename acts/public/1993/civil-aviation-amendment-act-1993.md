@@ -1,5 +1,5 @@
 # Civil Aviation Amendment Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2025-04-05_
 
 > An Act to amend the Civil Aviation Act 1990
 
@@ -65,7 +65,7 @@ This Act may be cited as the Civil Aviation Amendment Act 1993, and shall be rea
 (2) For the purposes of every enactment, law, award, determination, contract, and agreement at any time relating to the employment of a person who, by virtue of subsection (1) of this section, becomes an employee of the Authority,—
   (a) The contract of employment that applied immediately before the commencement of this Act in respect of that person's employment in the Ministry shall be deemed not to have been broken by that person having so become a person employed by the Authority; and
   (b) Any period recognised by the Secretary as continuous service in the Ministry shall be deemed to have been a period of continuous service in the Authority.
-(3) No person who becomes, by virtue of subsection (1)(a) of this section, a person employed by the Authority shall be entitled to any payment, benefit, or compensation, whether for redundancy or otherwise, by reason only of that person having ceased to be a person employed in the Ministry.
+(3) No person who becomes, by virtue of subsection (1)﻿(a) of this section, a person employed by the Authority shall be entitled to any payment, benefit, or compensation, whether for redundancy or otherwise, by reason only of that person having ceased to be a person employed in the Ministry.
 
 ### 19 Contributors to Government Superannuation Fund
 (1) Any person who, immediately before the commencement of this Act, was an officer or employee appointed under the State Sector Act 1988 and was a contributor to the Government Superannuation Fund under the Government Superannuation Fund Act 1956 shall, if the person becomes an employee of the Authority, be deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues in the service of the Authority and the Government Superannuation Fund Act 1956 shall apply to that person in all respects as if the service with the Authority were Government service.
