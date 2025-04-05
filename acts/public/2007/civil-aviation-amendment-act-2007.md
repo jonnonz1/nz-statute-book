@@ -1,5 +1,5 @@
 # Civil Aviation Amendment Act 2007
-_Consolidation as at 2008-04-11_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Civil Aviation Amendment Act 2007.
@@ -12,14 +12,14 @@ This Act is the Civil Aviation Amendment Act 2007.
 Sections 4 to 17 amend the Civil Aviation Act 1990.
 
 ### 4 Interpretation
-(1) Section 2 is amended by inserting the following definitions in their appropriate alphabetical order:.
+(1) Section 2 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **foreign in-flight security officer** means an enforcement officer or authorised person from a country other than New Zealand who is—
     (a) authorised to act on an aircraft that is in flight by the State that has issued the air operating certificate (or its equivalent) under which the air operation is conducted; and
     (b) subject to an in-flight security officer arrangement or agreement between New Zealand and the State that has issued the air operating certificate (or its equivalent) under which the air operation is conducted
   - **in-flight security officer** means a member of the police authorised under section 15A of the Aviation Crimes Act 1972
-(2) Section 2 is amended by inserting the following definition in its appropriate alphabetical order:.
+(2) Section 2 is amended by inserting the following definition in its appropriate alphabetical order:
   - **security enhanced area** means an area that the Director has declared to be a security enhanced area under section 84(1A)
-(3) Section 2 is amended by inserting the following definition in its appropriate alphabetical order:.
+(3) Section 2 is amended by inserting the following definition in its appropriate alphabetical order:
   - **sterile area** means the area at an aerodrome, between the passenger inspection and screening station and the aircraft, into which access is strictly controlled
 (4) Section 2 is amended by adding the following subsection as subsection (2):
   (2) For the purposes of this Act, an aviation identity card issued or approved by the Director under any regulations or rules made under this Act is not an aviation document.
@@ -79,7 +79,7 @@ The following section is inserted after section 56:Security check offences
     (c) to seize any item or substance specified in the Gazette notice if the aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried on an aircraft.
   (1A) An aviation security service provider directed under subsection (1) must screen and search for any item or substance specified in the Gazette notice.
 (3) Section 77A(2) is amended by omitting , to determine whether or not the direction is necessary to improve or enhance aviation security to enable New Zealand to be part of a concerted international response to a threat to aviation security,.
-(4) Section 77A(2)(b) is amended by omitting appropriate, and substituting appropriate and practical, other ministers,.
+(4) Section 77A(2)﻿(b) is amended by omitting appropriate, and substituting appropriate and practical, other ministers,.
 
 ### 10 Powers and duties of Director to require screening
 (1) The heading to section 77B is amended by adding , searching, and seizing.
@@ -138,7 +138,7 @@ The following section is inserted after section 77B:Certain Gazette notices may 
   (2) If a person refuses consent to a security check under subsection (1), the person may not be granted any authorisation under the rules if the rules require a favourable security check determination.
   (3) The Director may grant a favourable security check determination if the Director decides that the person has undergone an alternative security check that is acceptable to the Director.
   (4) For the purpose of determining whether a person poses a threat to aviation security, the Director may—
-    (a) seek and receive any information that the Director considers relevant, including (but not limited to) a recommendation made by the New Zealand Security Intelligence Service under section 4(1)(bb) of the New Zealand Security Intelligence Service Act 1969; and
+    (a) seek and receive any information that the Director considers relevant, including (but not limited to) a recommendation made by the New Zealand Security Intelligence Service under section 4(1)﻿(bb) of the New Zealand Security Intelligence Service Act 1969; and
     (b) give weight to any component of the information as the Director considers appropriate in the circumstances.
   (5) If the Director determines that a person does not pose a threat to aviation security, the Director must advise the person of the favourable security check determination.
   (6) The Director may reconsider any previous security check determination that the Director has made if—
@@ -155,7 +155,7 @@ The following section is inserted after section 77B:Certain Gazette notices may 
       (i) the period of the reconsideration; and
       (ii) any subsequent review period under section 77G.
   (8) Nothing in this section limits the power of the Director to grant an exemption under section 37.
-  (1) If the Director makes an adverse security check determination with respect to a New Zealand person based on a recommendation made by the New Zealand Security Intelligence Service under section 4(1)(bb) of the New Zealand Security Intelligence Service Act 1969, the Director must advise the New Zealand person that the person may lodge a complaint regarding the recommendation with the Inspector-General of Intelligence and Security in accordance with sections 11 and 16 of the Inspector-General of Intelligence and Security Act 1996.
+  (1) If the Director makes an adverse security check determination with respect to a New Zealand person based on a recommendation made by the New Zealand Security Intelligence Service under section 4(1)﻿(bb) of the New Zealand Security Intelligence Service Act 1969, the Director must advise the New Zealand person that the person may lodge a complaint regarding the recommendation with the Inspector-General of Intelligence and Security in accordance with sections 11 and 16 of the Inspector-General of Intelligence and Security Act 1996.
   (2) If the Director proposes to make an adverse security check determination with respect to a person based on information other than a recommendation made by the New Zealand Security Intelligence Service, the Director must—
     (a) advise the person of the proposed determination and the reasons for the proposed determination; and
     (b) give the person written notice that, within 20 working days of the date of the notice, the person may—
@@ -181,18 +181,18 @@ The following section is inserted after section 77B:Certain Gazette notices may 
     - **Inspector-General of Intelligence and Security** means the person holding office under section 5 of the Inspector-General of Intelligence and Security Act 1996
     - **New Zealand person** has the same meaning as in section 2(1) of the Inspector-General of Intelligence and Security Act 1996.
   (1) Every person commits an offence who carries out an activity that requires an authorisation—
-    (a) during a period when that authorisation has been withdrawn under section 77F(7)(d) or (e); or
+    (a) during a period when that authorisation has been withdrawn under section 77F(7)﻿(d) or (e); or
     (b) if that authorisation has been revoked under section 77G(4).
   (2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $5,000.
   (1) Every person commits an offence who fails, without reasonable excuse, to comply with the Director's requirement to—
-    (a) withdraw an authorisation under section 77F(7)(e); or
-    (b) revoke an authorisation under section 77G(4)(b).
+    (a) withdraw an authorisation under section 77F(7)﻿(e); or
+    (b) revoke an authorisation under section 77G(4)﻿(b).
   (2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000.
 
 ### 13 Functions and duties of Aviation Security Service
 (1) The heading to section 80 is amended by omitting Functions and substituting Powers, functions,.
 (2) Section 80 is amended by omitting functions in the second place where it appears and substituting powers, functions,.
-(3) Section 80(a)(ii) is amended by inserting , reasonable searches, or seizures after screening.
+(3) Section 80(a)﻿(ii) is amended by inserting , reasonable searches, or seizures after screening.
 
 ### 14 New sections 80B to 80I inserted
 (1) The following section is inserted in its appropriate alphanumeric order:Power of aviation security officers to search for and seize certain items or substances to be carried on aircraft or into sterile areas
@@ -208,7 +208,7 @@ The following section is inserted after section 77B:Certain Gazette notices may 
     (a) detain the item or substance until it is dealt with in accordance with paragraph (b) or (c); or
     (b) dispose of or destroy the item or substance; or
     (c) deliver the item or substance to a member of the police.
-  (6) If an aviation security officer delivers an item or substance to a member of the police under subsection (5)(c), the aviation security officer must record the delivery and the relevant details of the seizure.
+  (6) If an aviation security officer delivers an item or substance to a member of the police under subsection (5)﻿(c), the aviation security officer must record the delivery and the relevant details of the seizure.
   (7) Despite anything in this section, if the aviation security officer has reasonable grounds to believe that an item or substance poses an imminent risk to safety, the aviation security officer may destroy or otherwise dispose of the item or substance.
 (2) The following sections are inserted in their appropriate alphanumeric order:Powers and duties of aviation security officers relating to security enhanced areasConsent to be screened or searchedPersons who refuse to consent to be screened or searched2004 No 16 s 54Searches of persons refusing consent to be searched2004 No 16 s 55Searches of personsPower to require drivers to stop vehicles in security enhanced areas for screening or searching1998 No 110 s 114Protection of aviation security officers1949 No 19 s 13
   (1) Without limiting section 80, an aviation security officer may, for the purpose of detecting any item or substance specified in section 11(1) of the Aviation Crimes Act 1972 or a direction given under section 77A(1) or 77B(1), screen or search any person, item, substance, or vehicle—
@@ -245,8 +245,8 @@ The following section is inserted after section 77B:Certain Gazette notices may 
       (ii) a search of the person refusing to consent is likely to disclose evidence that an offence against the Aviation Crimes Act 1972 has been, is being, or is likely to be, committed, whether by that person or any other person.
   (4) A person detained under subsection (3) must be delivered to a member of the police as soon as practicable.
   (5) An aviation security officer, or any person assisting an aviation security officer, may use reasonable force, or any assistance that is reasonably necessary in the circumstances, to—
-    (a) prevent a person from entering a security enhanced area under subsection (2)(a):
-    (b) remove a person from a security enhanced area under subsection (2)(b):
+    (a) prevent a person from entering a security enhanced area under subsection (2)﻿(a):
+    (b) remove a person from a security enhanced area under subsection (2)﻿(b):
     (c) detain a person under subsection (3).
   (1) If a person refuses to consent to the screening or searching under section 80C(1), a member of the police may, without a warrant, search the person and any item, substance, or vehicle in the person's possession, and may detain the person for the purposes of the search, and may take possession of any item or substance found in the course of the search that is specified in section 11(1) of the Aviation Crimes Act 1972, if the member of the police has reasonable grounds to suspect that—
     (a) an offence against the Aviation Crimes Act 1972 has been, is being, or is likely to be committed, whether by that person or by any other person; and
@@ -303,7 +303,7 @@ The following section is inserted after section 77B:Certain Gazette notices may 
 
 ### 16 Powers of arrest
 (1) The heading to section 85 is amended by adding and seizure of items or substances.
-(2) Section 85(1)(a) is amended by inserting 5A, after 5,.
+(2) Section 85(1)﻿(a) is amended by inserting 5A, after 5,.
 (3) Section 85 is amended by inserting the following subsections after subsection (1):
   (1A) An aviation security officer may—
     (a) search a person arrested under subsection (1):
@@ -316,17 +316,17 @@ The following section is inserted after section 77B:Certain Gazette notices may 
     (b) search a person under subsection (1A):
     (c) seize an item or substance under subsection (1A).
   (1C) To avoid doubt, an aviation security officer may search a person under this section whether or not an aviation security officer has previously searched the person under another section of this Act or under the Aviation Crimes Act 1972.
-  (1D) An aviation security officer who undertakes a search under this section must, within 3 working days of the search, give the Director a written report of the search, the circumstances in which it was conducted, and the matters that gave rise to the reasonable grounds to believe required by subsection (1A)(b).
+  (1D) An aviation security officer who undertakes a search under this section must, within 3 working days of the search, give the Director a written report of the search, the circumstances in which it was conducted, and the matters that gave rise to the reasonable grounds to believe required by subsection (1A)﻿(b).
 (4) Section 85(3) is amended by inserting , and any item or substance he or she seizes, after arrests.
 (5) Section 85 is amended by adding the following subsection:
   (4) An aviation security officer may seize an item or substance in the possession of a person that the aviation security officer arrests if the aviation security officer has reasonable grounds to believe that the item or substance is evidence of an offence against an enactment specified in subsection (1).
 
 ### 17 Regulations
-(1) Section 100(1) is amended by inserting the following paragraph after paragraph (b):.
+(1) Section 100(1) is amended by inserting the following paragraph after paragraph (b):
   (ba) prescribing those breaches of regulations made under paragraph (ee) that constitute offences under this Act:
-(2) Section 100(1) is amended by inserting the following paragraph after paragraph (c):.
+(2) Section 100(1) is amended by inserting the following paragraph after paragraph (c):
   (ca) prescribing those breaches of regulations made under paragraph (ee) that constitute infringement offences against this Act:
-(3) Section 100(1) is amended by inserting the following paragraph after paragraph (ed):.
+(3) Section 100(1) is amended by inserting the following paragraph after paragraph (ed):
   (ee) assisting aviation security, including (but not limited to)—
     (i) the specification and application of security controls for—
       (A) screening:
@@ -339,16 +339,16 @@ The following section is inserted after section 77B:Certain Gazette notices may 
       (A) rule made under section 28, 29, 29A, or 30; or
       (B) direction made under section 77A:
 (4) Section 100 is amended by adding the following subsections:
-  (3) To the extent that a rule made under section 28, 29, 29A, or 30 or a direction made under section 77A is inconsistent with a regulation made under subsection (1)(ee), the rule or direction is subject to the regulation.
-  (4) No regulation made under subsection (1)(ee) may be considered invalid because it confers any discretion upon or allows any matter to be determined or approved by the Authority or the Director or any other person, or allows the Authority or the Director or any other person to impose requirements as to the performance of any activities.
-  (5) So far as the bylaws of any local authority are inconsistent with or repugnant to any regulation made under subsection (1)(ee) in force in the same locality, the bylaws must be construed subject to the regulations made under subsection (1)(ee).
+  (3) To the extent that a rule made under section 28, 29, 29A, or 30 or a direction made under section 77A is inconsistent with a regulation made under subsection (1)﻿(ee), the rule or direction is subject to the regulation.
+  (4) No regulation made under subsection (1)﻿(ee) may be considered invalid because it confers any discretion upon or allows any matter to be determined or approved by the Authority or the Director or any other person, or allows the Authority or the Director or any other person to impose requirements as to the performance of any activities.
+  (5) So far as the bylaws of any local authority are inconsistent with or repugnant to any regulation made under subsection (1)﻿(ee) in force in the same locality, the bylaws must be construed subject to the regulations made under subsection (1)﻿(ee).
 
 ### 18 Consequential amendments to Arms Act 1983
 (1) This section consequentially amends the Arms Act 1983.
-(2) Section 2 is amended by inserting the following definitions in their appropriate alphabetical order:.
+(2) Section 2 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **foreign in-flight security officer** has the same meaning as in section 2 of the Civil Aviation Act 1990
   - **in-flight security officer** has the same meaning as in section 2 of the Civil Aviation Act 1990
-(3) Section 3(2)(a) is amended by adding ; or and the following subparagraph:.
+(3) Section 3(2)﻿(a) is amended by adding ; or and the following subparagraph:
   (viii) an in-flight security officer or a foreign in-flight security officer:
 
 ### 19 Consequential amendments to Civil Aviation Rules
@@ -359,7 +359,7 @@ The following section is inserted after section 77B:Certain Gazette notices may 
 
 ## Schedule Schedule — Consequential amendments to Civil Aviation Rules
 
-### A.25 Security enhanced areas
+### A﻿.﻿25 Security enhanced areas
 Security enhanced area screening point and equipment
 (a) The certificate holder must ensure—
   (1) that persons, items, substances, and vehicles entering, or within, a security enhanced area may be screened or searched according to the specific manner or methodology approved by the Director; and
@@ -389,9 +389,9 @@ Screening of persons, items, substances, and vehicles
   (3) ensure that its aviation security officers require a person to leave a security enhanced area if that person is found to be in possession of an unauthorised article; and
   (4) carry out tests or checks, and record the results of those tests or checks, to confirm—
     (i) the thoroughness of any screening, within each 28-day cycle; and
-    (ii) the proficiency of each aviation security officer carrying out the screenings, within each 150-day cycle, in accordance with the recurrent testing provisions under A.24.
+    (ii) the proficiency of each aviation security officer carrying out the screenings, within each 150-day cycle, in accordance with the recurrent testing provisions under A﻿.﻿24.
 Hand search of items or substances
-(d) The certificate holder must ensure that, if there is any cause to suspect any item or substance contains an explosive device or a suspected explosive device has been discovered, its aviation security officers comply with the procedure required by A.11(b)(5).
+(d) The certificate holder must ensure that, if there is any cause to suspect any item or substance contains an explosive device or a suspected explosive device has been discovered, its aviation security officers comply with the procedure required by A﻿.﻿11(b)﻿(5).
 (e) The certificate holder must carry out tests or checks, and record the results of those tests or checks, to confirm—
   (1) the thoroughness of any hand search, within each 28-day cycle; and
-  (2) the proficiency of each aviation security officer carrying out hand searches, within each 150-day cycle, in accordance with the recurrent testing provisions under A.24.
+  (2) the proficiency of each aviation security officer carrying out hand searches, within each 150-day cycle, in accordance with the recurrent testing provisions under A﻿.﻿24.
