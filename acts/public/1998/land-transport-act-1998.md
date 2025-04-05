@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2025-04-05_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -87,7 +87,7 @@ _Consolidation as at 2024-07-01_
   - **enforcement authority** , in relation to an infringement offence, means (except in relation to Part 17)—
     (a) the New Zealand Police, in any case:
     (b) the Agency or the Director, in the case of an infringement offence for which an infringement notice is issued by an employee of the Agency or the Director or on behalf of the Agency:
-    (ba) an airport authority:
+    (ba) an airport operator, in the case of an infringement offence for which an infringement notice is issued by an employee of the airport operator or on behalf of the airport operator:
     (c)
     (d) a local authority, in the case of an infringement offence for which an infringement notice is issued by an employee of the local authority or on behalf of the local authority:
     (e) a public road controlling authority that is an enforcement authority for the purposes of an Order in Council made under section 46 of the Land Transport Management Act 2003, in the case of an infringement offence that is a toll offence
@@ -775,7 +775,7 @@ If an enforcement officer, acting in the course of his or her official duties, b
 
 ### 22AD Consultation
 (1) Section 156 of the Local Government Act 2002 applies to a bylaw under section 22AB made by a road controlling authority that is a local authority as if that bylaw had been made under that Act.
-(1A) Section 9(4) and (5) of the Airport Authorities Act 1966 applies to any bylaw made under section 22AB by a local authority or an airport authority in respect of an airport operated by that local authority or airport authority.
+(1A)
 (2) A road controlling authority that is not a local authority may not make a bylaw under section 22AB unless it has consulted with—
   (a) the occupiers of any properties adjoining the road to which the proposed bylaw would apply; and
   (b) any affected road controlling authorities that are responsible for roads that join, or are located near, the road to which the proposed bylaw would apply; and
@@ -3964,6 +3964,9 @@ Any enforcement officer who is in uniform or who produces evidence of identity a
 (4) A local authority that appoints a person under subsection (1) is liable for the actions of that person as a parking warden in all respects as if—
   (a) that person were an officer or employee of the local authority (whether or not that is the case); and
   (b) any directions given or control exercised by any other person over the parking warden in that capacity were directions given or control exercised by the local authority.
+(5) An airport operator (as defined for the purpose of Part 7 of the Civil Aviation Act 2023) may appoint a person to hold the office of parking warden, and—
+  (a) subsection (3) applies as if the reference to the district or region of the local authority were a reference to the airport operated by the airport operator; and
+  (b) subsection (4) applies as if each reference to a local authority were a reference to the airport operator.
 
 ### 128E Powers of parking wardens
 (1) A parking warden in uniform or in possession of a warrant or other evidence of authority as a parking warden—
@@ -4165,7 +4168,7 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
   (b) the parking warden may issue an infringement notice in respect of the alleged offence.
 Service of reminder notice
 (6A) Despite section 24(1)﻿(e) of the Summary Proceedings Act 1957, a reminder notice may be served on a person for the purposes of section 21(2) of that Act by serving the notice in accordance with subsection (2)﻿(c)﻿(ii) or (d)﻿(ii) in addition to the other modes of service set out in section 24(1) of that Act and without otherwise limiting or affecting the operation of section 24 of that Act.
-(7) For the purposes of any proceedings in respect of an infringement offence that is an offence against a bylaw made under section 9(1)﻿(e) or (g) of the Airport Authorities Act 1966, enforcement officer includes officers appointed by an airport authority.
+(7)
 (8) In this section, unless the context otherwise requires, electronic address, in relation to a person, means—
   (a) an electronic address that the person has given to an enforcement authority; or
   (b) otherwise, the person’s last known electronic address.
@@ -4247,7 +4250,7 @@ The Agency must ensure that an automated infringement system undergoes annually 
   (c) the portion of all other infringement fees received by it that the Minister of Finance from time to time approves.
 (6) The Commissioner must from time to time, out of money appropriated by Parliament for the purpose, pay to a road controlling authority the portions of the infringement fees (other than towage fees) that the Minister of Finance from time to time approves and that the Commissioner receives in respect of other offences that involve breaches of the road controlling authority's bylaws (not being offences that are also offences against an Act or a regulation).
 (7) For the purposes of subsections (4) and (5), the Minister of Finance may approve the retention of different portions for road controlling authorities or enforcement authorities and different categories of infringement offences.
-(8) For the purposes of this section, road controlling authority includes an airport authority.
+(8)
 
 **Evidence**
 
@@ -4756,6 +4759,7 @@ Without limiting any other method of proof, the production in proceedings of a c
   (md) prescribing, for the purpose of section 98D(2)﻿(a), the maximum amount that may be charged by an operator:
   (me) prescribing criteria for the purpose of considering whether an operator has complied with section 98D(3):
   (mf) providing for any matter necessary to establish, maintain, and operate the register of land transport records established by section 200E:
+  (mg) specifying any stationary vehicle offence for which a parking warden appointed by an airport operator is not permitted to issue an infringement notice:
   (n) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) The maximum number of demerit points that may be set by regulations made under subsection (1) in respect of any offence—
   (aaa) is 75 demerit points in the case of an offence against section 57B(2) or (3) or 57C(2), (3), or (4):
