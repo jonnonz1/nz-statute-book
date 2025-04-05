@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2023-06-21_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -1003,7 +1003,7 @@ The chief executive may, at any time, require an applicant to provide any furthe
 ### 60 Fit and proper person test
 (1) In determining whether an applicant is a fit and proper person to be granted a licence for an area, the chief executive may consider any of the following:
   (a) any serious or repeated failure by the applicant to comply with this Act or the Biosecurity Act 1993:
-  (b) any conviction of the applicant for an offence under the Hazardous Substances and New Organisms Act 1996, the Immigration Act 2009, the Civil Aviation Act 1990, the Wine Act 2003, or the Maritime Transport Act 1994:
+  (b) any conviction of the applicant for an offence under the Hazardous Substances and New Organisms Act 1996, the Immigration Act 2009, the Civil Aviation Act 2023, the Wine Act 2003, or the Maritime Transport Act 1994:
   (c) any current or previous bankruptcy of the applicant under the Insolvency Act 1967 or the Insolvency Act 2006:
   (d) any conviction of the applicant, in New Zealand or in another country, for an offence involving dishonesty or drugs:
   (e) whether the applicant is or has been prohibited, under section 382, 383, 385, or 386A of the Companies Act 1993, from being a director or a promoter of, or from taking part in the management of, a company:
@@ -1109,10 +1109,11 @@ Duty is immediately due and payable on all goods within a Customs-controlled are
 (1) The chief executive may, by notice in writing, require the licensee of a Customs-controlled area to do any of the following:
   (a) provide and maintain any operating areas, accommodation, facilities, buildings, equipment, or storage that the chief executive considers reasonably necessary and suitable for Customs to carry out any of its functions under this Act:
   (b) store goods subject to the control of Customs in any manner and location that the chief executive considers appropriate.
+(1A) The chief executive must, when considering for the purpose of subsection (1) what is reasonably necessary and suitable at an airport, have regard to any regulatory airport spatial undertaking given by the airport operator under subpart 3 of Part 7 of the Civil Aviation Act 2023 that is in effect.
 (2) A licensee who is dissatisfied with a requirement imposed by the chief executive under subsection (1) may, within 20 working days after the date on which notice of the requirement is given, appeal to a Customs Appeal Authority against the requirement.
 (3) The licensee of a Customs-controlled area may, subject to subsection (4), levy Customs a reasonable charge for any operating areas, accommodation, facilities, buildings, equipment, or storage provided in accordance with subsection (1)﻿(a).
 (4) A licensee may not levy any charge on Customs for any operating area in a Customs-controlled area where that operating area is used for processing persons, craft, or postal articles arriving in, or departing from, New Zealand.
-(5) Subsection (4) applies despite anything to the contrary in the Airport Authorities Act 1966.
+(5) Subsection (4) applies despite anything to the contrary in the Airport Authorities Act 1966 or Part 7 of the Civil Aviation Act 2023.
 
 ### 71 Offence in relation to Customs facilities in Customs-controlled areas, etc
 (1) The licensee of a Customs-controlled area commits an offence if the licensee, without reasonable excuse, fails to comply with a requirement imposed on the licensee by the chief executive under section 70(1).
@@ -3405,13 +3406,14 @@ A Customs officer may require the licensee of a Customs-controlled area to produ
   (a) are dangerous civil aviation goods that may not be lawfully transported on an aircraft; and
   (b) are proposed to be transported on an aircraft.
 (2) If a Customs officer detains goods under this section, he or she must, as soon as practicable, deliver those goods into the custody of—
-  (a) the Aviation Security Service to be dealt with under section 80A of the Civil Aviation Act 1990; or
+  (a) the Aviation Security Service to be dealt with under section 149 of the Civil Aviation Act 2023 as if the goods are suspected by an aviation security officer under that section of being a relevant item or substance; or
   (b) the operator.
 (3) Once goods have been delivered under subsection (2), responsibility for them passes from Customs to the Aviation Security Service or the operator (as the case may be).
 (4) In this section,—
-  - **Aviation Security Service** has the meaning given to that term in section 2(1) of the Civil Aviation Act 1990
-  - **dangerous civil aviation goods** has the meaning given to dangerous goods in section 2(1) of the Civil Aviation Act 1990
-  - **operator** has the meaning given to that term in section 2(1) of the Civil Aviation Act 1990.
+  - **Aviation Security Service** has the meaning given to that term in section 5 of the Civil Aviation Act 2023
+  - **dangerous civil aviation goods** has the meaning given to dangerous goods in section 5 of the Civil Aviation Act 2023
+  - **operator** has the meaning given to that term in section 5 of the Civil Aviation Act 2023.
+  - **relevant item or substance** has the meaning given to that term in section 5 of the Civil Aviation Act 2023.
 
 **Powers in relation to documents**
 
