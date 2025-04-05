@@ -1,5 +1,5 @@
 # Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 > An Act to make provision with respect to the territorial sea and the contiguous zone of New Zealand; and to establish an exclusive economic zone of New Zealand adjacent to the territorial sea, and in the exercise of the sovereign rights of New Zealand to make provision for the exploration and exploitation, and conservation and management, of the resources of the zone; and for matters connected with those purposes
 
@@ -32,7 +32,7 @@ _Consolidation as at 2021-10-28_
   - **New Zealand fisheries waters** has the same meaning as it has in section 2(1) of the Fisheries Act 1983
   - **New Zealand fishing craft** means a fishing craft—
     (a) that is a New Zealand ship within the meaning of section 2(1) of the Maritime Transport Act 1994; or
-    (b) that is an aircraft registered in New Zealand under the Civil Aviation Act 1990; or
+    (b) that is an aircraft registered in New Zealand under the Civil Aviation Act 2023; or
     (c) in which no person who is not a New Zealand citizen has any legal or equitable interest (except by way of security only for any advance made by him or her to the owner)
   - **New Zealand Government ship** means a ship that belongs to the Sovereign or is held by any person on behalf of or for the benefit of the Sovereign; but does not include a ship that is set aside for or used by the New Zealand Defence Force
   - **prescribed** means prescribed by regulations made under this Act.
