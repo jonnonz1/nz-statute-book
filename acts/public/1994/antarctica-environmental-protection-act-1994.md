@@ -1,5 +1,5 @@
 # Antarctica (Environmental Protection) Act 1994
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 > An Act to provide for the comprehensive protection of the Antarctic environment and to recognise Antarctica as a natural reserve devoted to peace and science and to implement the Protocol on Environmental Protection to the Antarctic Treaty
 
@@ -65,7 +65,7 @@ Notwithstanding section 2, this Act shall not apply to any person who is a natio
   - **exchanged scientist** means any person who is exchanged pursuant to subparagraph (b) of paragraph 1 of Article III of the Antarctic Treaty (which relates to the exchange of scientific personnel between expeditions and stations in Antarctica)
   - **inspector** means a general inspector or a special inspector appointed under section 39
   - **Minister** means the Minister of Foreign Affairs and Trade
-  - **New Zealand aircraft** means any aircraft that is registered or required to be registered in New Zealand under the Civil Aviation Act 1990; and includes any aircraft for the time being used as an aircraft of the New Zealand Defence Force
+  - **New Zealand aircraft** means any aircraft that is registered or required to be registered in New Zealand under the Civil Aviation Act 2023; and includes any aircraft for the time being used as an aircraft of the New Zealand Defence Force
   - **New Zealand corporation** means a body corporate that is incorporated in New Zealand or whose activities are carried on principally in New Zealand
   - **New Zealand ship** means a ship registered in New Zealand, or recognised by the law of New Zealand as a ship belonging to New Zealand; and includes any ship for the time being used as a ship of the New Zealand Defence Force
   - **observer** means an observer designated as such under Article VII(1) of the Antarctic Treaty or under Article 14(2) of the Protocol
