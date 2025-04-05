@@ -1,5 +1,5 @@
 # Te Urewera Act 2014
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Te Urewera Act 2014.
@@ -2084,7 +2084,7 @@ A concessionaire may, to the extent that the concession document provides, impos
   (a) apply to any aircraft operated by the New Zealand Defence Force or the Civil Aviation Authority of New Zealand; or
   (b) imply any responsibility by the Board or liability for the safety of any aircraft or person aboard an aircraft while the aircraft is in the air or landing.
 (5) For the purposes of this section, landing includes the hovering of any aircraft and the setting down or taking on of goods or persons from an aircraft.
-(6) In this clause, certified aerodrome means an aerodrome licensed under the Civil Aviation Regulations 1953 or certificated under rules made under the Civil Aviation Act 1990.
+(6) In this clause, certified aerodrome means an aerodrome certificated under rules made under the Civil Aviation Act 2023.
 
 ### 30 Tendering and management
 The Board may—
