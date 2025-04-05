@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2025-03-14_
+_Consolidation as at 2025-04-05_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -10,8 +10,8 @@ _Consolidation as at 2025-03-14_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **aerodrome** has the same meaning as in the Civil Aviation Act 1990
-  - **aircraft** has the same meaning as in the Civil Aviation Act 1990; and includes any aircraft for the time being used as an aircraft of any of the armed forces of any country other than New Zealand
+  - **aerodrome** has the same meaning as in the Civil Aviation Act 2023
+  - **aircraft** has the same meaning as in the Civil Aviation Act 2023; and includes any aircraft for the time being used as an aircraft of any of the armed forces of any country other than New Zealand
   - **assault** means the act of intentionally applying or attempting to apply force to the person of another, directly or indirectly, or threatening by any act or gesture to apply such force to the person of another, if the person making the threat has, or causes the other to believe on reasonable grounds that he or she has, present ability to effect his or her purpose; and has a corresponding meaning
   - **claim of right** , in relation to any act, means a belief at the time of the act in a proprietary or possessory right in property in relation to which the offence is alleged to have been committed, although that belief may be based on ignorance or mistake of fact or of any matter of law other than the enactment against which the offence is alleged to have been committed
   - **Commonwealth country** means a country that is a member of the Commonwealth of Nations; and includes every territory for whose international relations the Government of any such country is responsible
@@ -35,7 +35,7 @@ _Consolidation as at 2025-03-14_
   - **is liable** means is liable on conviction
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **New Zealand** includes all waters within the outer limits of the territorial sea of New Zealand (as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
-  - **New Zealand aircraft** means any aircraft that is registered or required to be registered in New Zealand under the Civil Aviation Act 1990; and includes any aircraft for the time being used as an aircraft of the New Zealand forces
+  - **New Zealand aircraft** means any aircraft that is registered or required to be registered in New Zealand under the Civil Aviation Act 2023; and includes any aircraft for the time being used as an aircraft of the New Zealand forces
   - **New Zealand forces** means the New Zealand Naval Forces, the New Zealand Army, and the Royal New Zealand Air Force
   - **New Zealand ship** means a ship registered in New Zealand, or recognised by the law of New Zealand as a ship belonging to New Zealand; and includes any ship for the time being used as a ship of the New Zealand forces
   - **night** , or , means the interval between 9 o'clock at night and 6 o'clock in the following morning
@@ -159,7 +159,7 @@ For the purpose of jurisdiction, where any act or omission forming part of any o
 (4) The provisions of this section shall have the same operation in relation to the Republic of Ireland and to the citizens thereof, and to ships registered therein or belonging thereto, and to persons who belong or have belonged to those ships, and to all other persons on board those ships, as if the Republic of Ireland were a Commonwealth country and as if the citizens thereof were British subjects.
 (5) This section shall be read subject to the provisions of section 400.
 (6) In this section, the expression British subject includes a British protected person within the meaning of the British Nationality and Citizenship Act 1948.
-(7) Nothing in this section shall apply with respect to any offence against the Maritime Transport Act 1994 or Part 5A of the Civil Aviation Act 1990.
+(7) Nothing in this section shall apply with respect to any offence against the Maritime Transport Act 1994 or subpart 20 of Part 9 of the Civil Aviation Act 2023.
 
 ### 8A Jurisdiction in respect of certain persons with diplomatic or consular immunity
 (1) This section applies to every person who is—
@@ -3322,7 +3322,7 @@ Every one who is accessory after the fact to any imprisonable offence, being an 
 (1) No charging document shall, by virtue only of the provisions of this Act, be filed against any person who—except with the consent of the Attorney-General and on his or her certificate that it is expedient that the proceedings should be instituted; and where the proceedings would be instituted only by virtue of the jurisdiction conferred by paragraph (c) of subsection (1) of section 8 the Attorney-General shall not give his or her consent unless he or she is satisfied that the Government of the country to which the ship or aircraft belongs has consented to the institution of the proceedings:provided that a person alleged to have committed any such offence may be arrested, or a warrant for his or her arrest may be issued and executed, and he or she may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the filing of a charging document for the offence has not been obtained; but no further or other proceedings shall be taken until that consent has been obtained.
   (a) whether or not he or she is a New Zealand citizen or a person ordinarily resident in New Zealand, is alleged to have committed beyond New Zealand an offence on board or by means of any ship or aircraft which is not a New Zealand ship or a New Zealand aircraft, or an offence to which subsection (3) of section 8 applies; or
   (b) whether or not he or she is a New Zealand citizen or a person ordinarily resident in New Zealand, is alleged to have committed, anywhere within New Zealand or in the space above New Zealand, an offence on board or by means of any ship or aircraft which belongs to the Government of any country other than New Zealand or is held by any person on behalf or for the benefit of that government, whether or not the ship or aircraft is for the time being used as a ship or aircraft of any of the armed forces of that country—
-(2) Nothing in this section shall apply with respect to any offence against the Maritime Transport Act 1994 or Part 5A of the Civil Aviation Act 1990.
+(2) Nothing in this section shall apply with respect to any offence against the Maritime Transport Act 1994 or subpart 20 of Part 9 of the Civil Aviation Act 2023.
 
 ### 401 Contempt of court
 [Repealed]
