@@ -1,5 +1,5 @@
 # Transport Accident Investigation Commission Act 1990
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2025-04-05_
 
 > An Act—ato establish the Transport Accident Investigation Commission, and to define its functions, duties, and powers; andbto regulate the disclosure and admissibility of certain transport accident or incident investigation information
 
@@ -12,11 +12,11 @@ _Consolidation as at 2023-04-05_
 ### 2 Interpretation
 In this Part, unless the context otherwise requires,—
   - **accident** ,—
-    (a) in relation to aviation, has the same meaning as in section 2 of the Civil Aviation Act 1990; and
+    (a) in relation to aviation, has the same meaning as in section 6 of the Civil Aviation Act 2023; and
     (b) in relation to rail transport, has the same meaning as in section 4(1) of the Railways Act 2005; and
     (c) in relation to maritime transport, has the same meaning as in section 2(1) of the Maritime Transport Act 1994
-  - **aeronautical product** has the same meaning as in section 2 of the Civil Aviation Act 1990
-  - **Civil Aviation Authority** means the Civil Aviation Authority of New Zealand established by section 72A of the Civil Aviation Act 1990
+  - **aeronautical product** has the same meaning as in section 5 of the Civil Aviation Act 2023
+  - **Civil Aviation Authority** means the Civil Aviation Authority of New Zealand continued by section 20 of the Civil Aviation Act 2023
   - **Commission** means the Transport Accident Investigation Commission established under this Act
   - **Convention** —
     (a) means the Convention on International Civil Aviation signed on behalf of the Government of New Zealand in Chicago on 7 December 1944; and
@@ -25,7 +25,7 @@ In this Part, unless the context otherwise requires,—
       (ii) any Annex or amendment thereto accepted under Article 90 of the Convention; and
       (iii) the international standards and recommended practices from time to time accepted and amended by the International Civil Aviation Organisation pursuant to Article 37 of the Convention
   - **incident** ,—
-    (a) in relation to aviation, has the same meaning as in section 2 of the Civil Aviation Act 1990; and
+    (a) in relation to aviation, has the same meaning as in section 5 of the Civil Aviation Act 2023; and
     (b) in relation to rail transport, has the same meaning as in section 4(1) of the Railways Act 2005; and
     (c) in relation to maritime transport, has the same meaning as in section 2(1) of the Maritime Transport Act 1994
   - **Land Transport Authority** means the New Zealand Transport Agency established by section 93 of the Land Transport Management Act 2003
@@ -83,7 +83,7 @@ The provisions of the Schedule shall apply in relation to the Commission and its
   (d) if requested by the Minister, to deliver a written report on each investigation to the Minister, including any recommendations for changes and improvements that it considers will ensure the avoidance of accidents and incidents in the future:
   (e) to co-operate and co-ordinate with other accident investigation organisations overseas, including taking evidence on their behalf:
   (f) where—has not been received, to request from the Civil Aviation Authority, the New Zealand Transport Agency, or Maritime New Zealand, as the case may be, such further information as it considers appropriate regarding any accident that the Commission believes is required to be investigated under section 13(1) or section 13(2) of this Act:
-    (i) a notification under section 27 of the Civil Aviation Act 1990; or
+    (i) a notification under section 50 of the Civil Aviation Act 2023; or
     (ii) a notification under section 13(4) of the Railways Act 2005; or
     (iii) a notification under section 60 of the Maritime Transport Act 1994—
   (g) to perform any other function or duty conferred on it by this or any other Act.
@@ -135,7 +135,7 @@ The Commission shall notify the Civil Aviation Authority, the New Zealand Transp
 (4) A constable may arrest without warrant any person who the constable believes on reasonable grounds has committed, is committing, or is attempting to commit, or is otherwise concerned in the commission of, an offence against this section.
 
 ### 13 Accidents to be investigated
-(1) As soon as practicable after an accident or incident has been notified to the Commission under section 27 of the Civil Aviation Act 1990 or section 13(4) of the Railways Act 2005 or section 60 of the Maritime Transport Act 1994, the Commission shall investigate the accident or incident if,—
+(1) As soon as practicable after an accident or incident has been notified to the Commission under section 50 of the Civil Aviation Act 2023 or section 13(4) of the Railways Act 2005 or section 60 of the Maritime Transport Act 1994, the Commission shall investigate the accident or incident if,—
   (a)
   (b) the Commission believes that the circumstances of the accident or incident have, or are likely to have, significant implications for transport safety, or may allow the Commission to establish findings or make recommendations which may increase transport safety; or
   (c) in the case of an accident or incident that the Commission has decided not to investigate under paragraph (b), the Minister has directed the Commission to undertake an investigation in respect of that accident or incident.
@@ -144,9 +144,9 @@ The Commission shall notify the Civil Aviation Authority, the New Zealand Transp
   (b) load or unload a ship; or
   (c) both—
 (3) The duty to investigate an accident or incident referred to in subsection (1) shall include the power to investigate any aviation, maritime, or rail accident or incident that involves any combination of military and non-military persons, transport related things, or transport related services.
-(4) The Commission may investigate such additional accidents or incidents notified to it in accordance with section 27 of the Civil Aviation Act 1990 or section 13(4) of the Railways Act 2005 or section 60 of the Maritime Transport Act 1994 as it deems necessary.
-(5) If an accident or incident has not been notified to the Commission in accordance with section 27 of the Civil Aviation Act 1990 or section 13(4) of the Railways Act 2005 or section 60 of the Maritime Transport Act 1994, and the accident or incident is one that the Commission would investigate under paragraph (a) or paragraph (b) of subsection (1) if it were so notified, the Commission may commence an investigation of the accident or incident.
-(6) Where an accident or incident has not been notified to the Commission in accordance with section 27 of the Civil Aviation Act 1990 or section 13(4) of the Railways Act 2005 or section 60 of the Maritime Transport Act 1994, the Minister may,—direct the Commission to investigate the accident or incident, and in any such case, the Commission shall do so.
+(4) The Commission may investigate such additional accidents or incidents notified to it in accordance with section 50 of the Civil Aviation Act 2023 or section 13(4) of the Railways Act 2005 or section 60 of the Maritime Transport Act 1994 as it deems necessary.
+(5) If an accident or incident has not been notified to the Commission in accordance with section 50 of the Civil Aviation Act 2023 or section 13(4) of the Railways Act 2005 or section 60 of the Maritime Transport Act 1994, and the accident or incident is one that the Commission would investigate under paragraph (a) or paragraph (b) of subsection (1) if it were so notified, the Commission may commence an investigation of the accident or incident.
+(6) Where an accident or incident has not been notified to the Commission in accordance with section 50 of the Civil Aviation Act 2023 or section 13(4) of the Railways Act 2005 or section 60 of the Maritime Transport Act 1994, the Minister may,—direct the Commission to investigate the accident or incident, and in any such case, the Commission shall do so.
   (a) where the Commission has decided not to investigate the accident or incident under subsection (5); or
   (b) where the accident is one that the Minister would direct the Commission to investigate under subsection (2) if the accident had been notified to the Commission,—
 (7) Where the Commission intends to undertake an investigation under this section, the Commission shall notify the Civil Aviation Authority, the New Zealand Transport Agency, or Maritime New Zealand, as the case may require, of its intention as soon as practicable.
@@ -172,6 +172,14 @@ The Commission shall notify the Civil Aviation Authority, the New Zealand Transp
 
 ### 14A Interpretation
 For the purposes of this Part, unless the context otherwise requires,—
+  - **cockpit video recorder** , in relation to an aircraft, means—
+    (a) a cockpit video recorder that is required to be installed in any aircraft (whether or not it is required to be installed in that aircraft) for the purpose of complementing an accident or incident investigation; or
+    (b) any other video recording device approved for installation under rules made under the Civil Aviation Act 2023 and installed for the purpose of complementing an accident or incident investigation
+  - **cockpit video recording** means a video recording on or from a cockpit video recorder
+  - **cockpit voice recorder** , in relation to an aircraft, means—
+    (a) a cockpit voice recorder that is required to be installed in any aircraft (whether or not it is required to be installed in that aircraft) for the purpose of complementing an accident or incident investigation; or
+    (b) any other voice recording device approved for installation under rules made under the Civil Aviation Act 2023 and installed for the purpose of complementing an accident or incident investigation
+  - **cockpit voice recording** means a voice recording on or from a cockpit voice recorder
   - **disclose** , in relation to a record referred to in this Part, includes—and disclosed and disclosure have corresponding meanings
     (a) relating the whole or part of the contents of the record orally; and
     (b) producing the record, or a copy of the record, in whole or in part in any form;—
@@ -240,12 +248,12 @@ For the purposes of this Part, unless the context otherwise requires,—
   (c) the owner of the record.
 (3) A person who is served with a notice of an application, and any other person who satisfies the court that he or she has a legitimate interest in the application, may appear before the court and be heard in respect of the application.
 (4) Only the following persons are permitted to be present at the hearing of an application under this section:
-  (a) the Judge or Master and officers of the court:
+  (a) the Judge or Associate Judge of the High Court and officers of the court:
   (b) the applicant and the applicant's counsel:
   (c) other parties to the proceedings to which the application relates (or intended parties in the case of an application under section 14E) and their counsel:
   (d) witnesses:
   (e) any person referred to in subsection (3).
-(5) The Judge or Master may exclude any witness or person referred to in subsection (3) from any part of the hearing of the application.
+(5) The Judge or Associate Judge of the High Court may exclude any witness or person referred to in subsection (3) from any part of the hearing of the application.
 (6) The court may adjourn the hearing of an application under section 14E or section 14F at any time if it appears to the court, on the application of any person or on the court's own motion, that the making of a disclosure order will prejudice any investigation into an accident or incident that is being undertaken by the Commission.
 (7) Subsection (6) does not limit any other power of the court to adjourn proceedings.
 (8) For the purpose of subsection (2)﻿(b), a person's next of kin may include that person's civil union partner or de facto partner.
@@ -258,7 +266,7 @@ For the purposes of this Part, unless the context otherwise requires,—
 (1) No person may publish any report of an application under section 14E or section 14F without the leave of the court.
 (2) Despite subsection (1), a person may publish—
   (a) the names and addresses of the parties:
-  (b) the name of the presiding Judge or Master:
+  (b) the name of the presiding Judge or Associate Judge of the High Court:
   (c) the order made by the court.
 
 ### 14J Further provisions relating to disclosure of record
