@@ -1,5 +1,5 @@
 # Wild Animal Control Act 1977
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 > An Act to make better provision for the control of harmful species of introduced wild animals and the means of regulating the operations of recreational and commercial hunters, including wild animal recovery hunting using aircraft, so as to achieve concerted action and effective wild animal control, and to consolidate and amend the Noxious Animals Act 1956
 
@@ -9,8 +9,8 @@ This Act may be cited as the Wild Animal Control Act 1977.
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **activity** includes a business, trade, or occupation
-  - **aerodrome** has the meaning for the time being defined in section 2 of the Civil Aviation Act 1990; and includes any casual landing site or take-off site used by aircraft
-  - **aircraft** has the meaning for the time being defined in section 2 of the Civil Aviation Act 1990; and includes a helicopter
+  - **aerodrome** has the meaning for the time being defined in section 5 of the Civil Aviation Act 2023; and includes any casual landing site or take-off site used by aircraft
+  - **aircraft** has the meaning for the time being defined in section 5 of the Civil Aviation Act 2023; and includes a helicopter
   - **brand** has the meaning for the time being defined in Part 5 of the Animals Act 1967
   - **carcass** , in relation to any wild animal, means the dead body or any part of the dead body thereof
   - **commercial** , in relation to hunting or killing or capturing or holding any wild animal, means so doing for personal gain or pecuniary reward from the sale, barter, exchange, or giving of the animal or any part thereof, whether or not the commercial activity or transaction constitutes the sole or any lesser part of the means of livelihood of the commercial operator
@@ -184,7 +184,7 @@ The Minister shall administer and manage wild animals in accordance with—
 (3) The taking or killing of any wild animal shall be deemed to be unlawful where any person takes or kills the animal—
   (a) while he is on any land without the express authority of the owner or occupier or authority in control of the land, or in any case where, while recovering any animal or the carcass thereof, he lands on or enters upon any land without the express authority of the owner or occupier or authority in control of the land; or
   (b) by any unlawful means while he is lawfully on any land; or
-  (c) in the course of any hunting if, during that hunting, he commits or has committed any offence against this Act, or against the Trespass Act 1980, the Civil Aviation Act 1990, or any other enactment directly related to the purposes of this Act or to the protection or administration of the land or of the flora or fauna of the land whereon the offence took place; or
+  (c) in the course of any hunting if, during that hunting, he commits or has committed any offence against this Act, or against the Trespass Act 1980, the Civil Aviation Act 2023, or any other enactment directly related to the purposes of this Act or to the protection or administration of the land or of the flora or fauna of the land whereon the offence took place; or
   (d) by discharging a firearm into or over or across any land without the authority of the owner or occupier or authority in control of the land.
 (4) Where the carcass of any wild animal, including any specified wild animal, of a kind which may be farmed under any Act is to be sold or delivered to a game depot or game packing house by the person who killed the animal or by his agent or employer, it shall be an offence against this Act to so sell or deliver that carcass, or for the licensee of the game depot or game packing house to receive that carcass, without the ears attached to the hide.
 
@@ -624,7 +624,7 @@ No matter or thing done by any person in good faith in the exercise of his power
   (a) in the case of an individual, imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both:
   (b) in the case of a body corporate, a fine not exceeding $200,000:
   (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
-(4) Any wild animal taken or killed during the commission of any offence against this Act, the Trespass Act 1980, the Civil Aviation Act 1990, or any other Act or bylaw relating to the land or the natural waters of the land or the flora or fauna of the land whereon the offence was committed, and any part of the carcass of any wild animal so taken or killed during the commission of any offence against any of the said Acts, shall be deemed to be unlawfully taken or killed, and shall remain the property of the Crown, and any money paid in respect of the animal or its carcass shall be paid to the Department for credit to a Crown Bank Account, or shall be recoverable from the person who sold the animal or carcass as a debt due to the Crown, and every person who fails to comply with this subsection commits an offence against this Act.
+(4) Any wild animal taken or killed during the commission of any offence against this Act, the Trespass Act 1980, the Civil Aviation Act 2023, or any other Act or bylaw relating to the land or the natural waters of the land or the flora or fauna of the land whereon the offence was committed, and any part of the carcass of any wild animal so taken or killed during the commission of any offence against any of the said Acts, shall be deemed to be unlawfully taken or killed, and shall remain the property of the Crown, and any money paid in respect of the animal or its carcass shall be paid to the Department for credit to a Crown Bank Account, or shall be recoverable from the person who sold the animal or carcass as a debt due to the Crown, and every person who fails to comply with this subsection commits an offence against this Act.
 
 ### 39A Sentence of community work
 A court may sentence any individual who is convicted of an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
