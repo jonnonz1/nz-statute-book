@@ -1,5 +1,5 @@
 # Civil Aviation Amendment Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2025-04-05_
 
 > An Act to establish a stand alone Civil Aviation Authority, and to amend the Civil Aviation Act 1990 and certain other enactments
 
@@ -142,7 +142,7 @@ The enactments specified in Schedule 2 to this Act are hereby amended in the man
 (2) For the purposes of every enactment, law, award, determination, contract, and agreement at any time relating to the employment of a person who, by virtue of subsection (1) of this section, becomes an employee of the Authority,—
   (a) The contract of employment that applied immediately before the commencement of this Act in respect of that person's employment in the Ministry shall be deemed not to have been broken by that person having so become a person employed by the Authority; and
   (b) Any period recognised by the Secretary as continuous service in the Ministry shall be deemed to have been a period of continuous service in the Authority.
-(3) No person who becomes, by virtue of subsection (1)(a) of this section, a person employed by the Authority shall be entitled to any payment, benefit, or compensation by reason only of that person having ceased to be a person employed in the Ministry.
+(3) No person who becomes, by virtue of subsection (1)﻿(a) of this section, a person employed by the Authority shall be entitled to any payment, benefit, or compensation by reason only of that person having ceased to be a person employed in the Ministry.
 (4) No person employed in the Ministry before the commencement of this Act shall be entitled to be paid any compensation for redundancy if—
   (a) Before the commencement of this Act, he or she was engaged principally on duties relating to the examination, testing, or flight testing of applicants for the grant or renewal of aviation documents in respect of flight crew or aircraft maintenance personnel; and
   (b) Before the commencement of this Act, he or she was offered employment on or after the commencement of this Act by any person outside the Ministry who is to assume full or partial responsibility for those duties on or after the date of that commencement; and
