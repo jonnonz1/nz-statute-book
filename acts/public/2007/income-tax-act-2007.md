@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2025-04-01_
+_Consolidation as at 2025-04-05_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -15131,7 +15131,7 @@ Exception: allocation of deduction when lease ends
 ### EJ 25 Allocation of expenditure on aircraft engine overhauls: election by IFRS user
 Election
 (1) A person may elect to quantify and allocate under this section the amount of a deduction allowed by section DW 5 or DW 6 (which relate to the acquisition, overhaul, and leasing of aircraft engines) in relation to an aircraft or aircraft engine and an income year if—
-  (a) the person is a New Zealand resident or holds a valid certificate of registration for the aircraft from the Director of Civil Aviation under the Civil Aviation Act 1990; and
+  (a) the person is a New Zealand resident or holds a valid certificate of registration for the aircraft from the Director of Civil Aviation under the Civil Aviation Act 2023; and
   (b) the person uses IFRS rules to prepare financial statements; and
   (c) the aircraft is treated under the IFRS rules as being owned by the person or is leased by the person under a finance lease.
 Adjusted figures from financial statements
@@ -31756,7 +31756,7 @@ Meaning of airport operator’s activities
   (d) its operation:
   (e) its management.
 Meaning of airport
-(2) In this section, airport has the meaning given in section 2 of the Airport Authorities Act 1966.
+(2) In this section, airport means an aerodrome as defined in section 5 of the Civil Aviation Act 2023.
 
 ### HR 8 Transitional residents
 Provisions under which transitional resident treated as non-resident
@@ -44343,7 +44343,9 @@ In this Act, unless the context requires otherwise,—
       (vii) an assemblage consisting of 2 or more items referred to in subparagraphs (i) to (vi)
   - **airport** is defined in section HR 7(2) (Meaning of airport operator’s activities) for the purposes of that section
   - **airport asset** is defined in section HR 6(7) (Airport operator’s assets) for the purposes of that section
-  - **airport authority** is defined in section 2 of the Airport Authorities Act 1966
+  - **airport authority** means—
+    (a) an airport authority as defined in section 2 of the Airport Authorities Act 1966:
+    (b) an airport operator as defined in section 5 of the Civil Aviation Act 2023
   - **airport operator** means the Crown, acting by and through the Minister of Transport, and any local authority that is an airport authority, in their respective capacities as joint venturers under a joint venture agreement
   - **airport operator’s activities** is defined in section HR 7 (Meaning of airport operator’s activities) for the purposes of sections HR 5 and HR 6 (which relate to airport operators)
   - **amalgamated company** means—
@@ -46022,7 +46024,7 @@ In this Act, unless the context requires otherwise,—
   - **issuer** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
   - **joint venture agreement** , for an airport operator,—
     (a) means an agreement made between an airport authority and the Crown acting by and through the Minister of Transport under section 94 of the Civil Aviation Act 1990; and
-    (b) includes any other agreement of a similar nature made between the Crown and an airport authority, whether or not the airport authority was, at the time the agreement was made, an airport authority, and whether or not the agreement was made before the commencement of the Civil Aviation Act 1990
+    (b) includes any other agreement of a similar nature made between the Crown and an airport authority, whether or not the airport authority was, at the time the agreement was made, an airport authority, and whether or not the agreement was made before the commencement of the Civil Aviation Act 2023
   - **jurisdictional attributed income** is defined in section IQ 2B(9) (Effect of attributed CFC net loss and some FIF net loss from before first affected year) for the purposes of that section and section LK 5B (Credits from tax year before first affected year)
   - **jurisdictional BE income** is defined in section IQ 2B(9) (Effect of attributed CFC net loss and some FIF net loss from before first affected year) for the purposes of that section and section LK 5B (Credits from tax year before first affected year)
   - **jurisdictional income ratio** is defined in section IQ 2B(9) (Effect of attributed CFC net loss and some FIF net loss from before first affected year) for the purposes of that section and section LK 5B (Credits from tax year before first affected year)
