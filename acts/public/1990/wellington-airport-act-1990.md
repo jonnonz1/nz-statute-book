@@ -1,5 +1,5 @@
 # Wellington Airport Act 1990
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 > An Act to provide for the incorporation of a company to own and operate Wellington International Airport, for the transfer of airport assets and liabilities of the Crown and the Wellington City Council to that company, and for the payment to the Crown and the Wellington City Council of the existing reserves of the airport
 
@@ -25,7 +25,7 @@ In this Act, unless the context otherwise requires,—
   - **joint venture agreement** means the deed dated 15 February 1967 made between Her Majesty the Queen acting by and through the Minister of Civil Aviation and the Minister of Works of the one part and the body corporate called the Mayor, Councillors, and Citizens of the City of Wellington of the other part
   - **land** has the same meaning as in section 2 of the Land Transfer Act 1952
   - **liabilities** has the same meaning as in section 29(1) of the State-Owned Enterprises Act 1986
-  - **local authority** has the same meaning as in section 2 of the Airport Authorities Act 1966
+  - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **Ministers** means the Minister of Finance and the Minister for State-Owned Enterprises acting on behalf of the Crown
   - **vesting day** means the date specified in the first Order in Council made by the Governor-General under section 7.
 
@@ -42,7 +42,8 @@ This Act shall bind the Crown.
 (5) All money required to be paid by the Ministers on subscribing or applying for, or being allotted, equity securities or debt securities of the company shall be paid for out of a Crown Bank Account out of money appropriated by Parliament for that purpose.
 (6) The Ministers may from time to time exercise all or any of the Crown's rights and powers as the holder of any equity securities or any debt securities of the company.
 (7) On and after the vesting day the company shall be deemed to be an airport company within the meaning, and for the purposes, of the Airport Authorities Act 1966.
-(8) Nothing in section 134 of the Companies Act 1955 or section 3A of the Airport Authorities Act 1966 applies to the company.
+(7A) Subsection (7) is subject to clause 39 of Schedule 1 of the Civil Aviation Act 2023.
+(8) Nothing in section 134 of the Companies Act 1955, section 3A of the Airport Authorities Act 1966, or sections 228 to 230 of the Civil Aviation Act 2023 applies to the company.
 
 ### 4A Provisions relating to holding of securities by Minister
 (1) Equity securities and debt securities issued by the company and held in the name of a person described as one of the Ministers shall be held by the person for the time being holding the office of that Minister.
