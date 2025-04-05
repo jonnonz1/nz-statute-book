@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2025-03-02_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3868,7 +3868,13 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  |  | 207I |  | Chief executive may obtain and execute a warrant to enter a household unit and exercise powers of investigation when investigating a building failure |  | Subpart 3 |
 |  |  | 207J |  | Chief executive may take samples or other evidence from the investigation site when investigating a building failure |  | Sections 152, 154, 155, and 159 |
 | Chemical Weapons (Prohibition) Act 1996 |  | 23 |  | Constable or appointed person may apply for search warrant |  | Subparts 3 and 4 |
-| Civil Aviation Act 1990 |  | 24(4) |  | Authorised person may obtain and execute warrant to enter dwellinghouse or marae for purposes of exercising powers of inspection conferred on Director of Civil Aviation by Civil Aviation Act 1990 |  | Subparts 1, 3, 4, 5, 7, 9, and 10 (except that sections 118 and 119 apply to constables only) |
+| Civil Aviation Act 2023 |  | 285 |  | Inspector may obtain and execute search warrant to enter home or marae to exercise powers in section 284 |  | Subpart 3 |
+|  |  | 287 |  | Inspector who has entered aviation place or former aviation place under section 284 or 285 may take or remove sample of any material, substance, or thing for analysis, or seize and retain any material, substance, or thing for specified purposes |  | Sections 154, 155, and 159 |
+|  |  | 288 |  | Specified person may obtain and execute search warrant in relation to place, vehicle, or thing to search for evidence of contravention of civil aviation legislation |  | All (except that sections 118 and 119 apply to constables only) |
+|  |  | 313 |  | Director or specified person may obtain and execute search warrant in relation to place, vehicle, or thing if grounds to believe operation or use of aerodrome, aircraft, or aeronautical product or class of aircraft or aeronautical products may endanger people or property |  | Subpart 3 |
+|  |  | 315 |  | Obligations of Director if action taken under section 313 or 314 |  | All (except subparts 2 and 3) |
+|  |  | 317 |  | Constable or response officer may obtain and execute search warrant to enter home or marae to exercise powers in section 316 |  | Subpart 3 |
+|  |  | 320 |  | Provisions relating to seizure or detention of aircraft under section 316 |  | All (except subparts 2 and 3) |
 | Commerce Act 1986 |  | 98A(2) |  | Authorised employee of Commerce Commission may obtain and execute warrant to search for evidence of offence against most provisions of Commerce Act 1986 |  | All (except sections 118 and 119) |
 | Commodity Levies Act 1990 |  | 19(1) |  | Constable or designated person may obtain and execute warrant to enter and search for evidence of offence against Commodity Levies Act 1990 |  | All (except that sections 118 and 119 apply to constables only) |
 | Conservation Act 1987 |  | 40(1) and (5) |  | Warranted officer may seize various things held in contravention of Conservation Act 1987 and exercise other powers; constable or warranted officer may seize thing in respect of which it is believed offence is being committed under Conservation Act 1987 |  | All (except subpart 3) |
