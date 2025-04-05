@@ -1,5 +1,5 @@
 # Antarctica Act 1960
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 > An Act to confer jurisdiction on the courts of New Zealand to deal with offences committed in the Ross Dependency and certain other parts of Antarctica, and to restrict the jurisdiction of the courts in respect of acts or omissions in Antarctica of certain nationals of other countries
 
@@ -13,7 +13,7 @@ _Consolidation as at 2021-10-28_
 (1) In this Act, unless the context otherwise requires,—
   - **Antarctica** means the area south of 60° south latitude, including all ice shelves in that area
   - **exchanged scientist** means a person exchanged pursuant to subparagraph (b) of paragraph 1 of Article III of the Treaty (which relates to the exchange of scientific personnel between expeditions and stations in Antarctica)
-  - **New Zealand aircraft** means any aircraft that is registered or required to be registered in New Zealand under the Civil Aviation Act 1990; and includes any aircraft for the time being used as an aircraft of any of the armed forces of New Zealand
+  - **New Zealand aircraft** means any aircraft that is registered or required to be registered in New Zealand under the Civil Aviation Act 2023; and includes any aircraft for the time being used as an aircraft of any of the armed forces of New Zealand
   - **New Zealand ship** means a ship registered in New Zealand, or recognised by the law of New Zealand as a ship belonging to New Zealand; and includes any ship for the time being used as a ship of any of the armed forces of New Zealand
   - **observer** means an observer designated as such under Article VII(1) of the Treaty or under Article 14(2) of the Protocol on Environmental Protection to the Treaty, a copy of the English text of which is set out in Schedule 2 of the Antarctica (Environmental Protection) Act 1994
   - **Treaty** means the Antarctic Treaty, signed at Washington on 1 December 1959, of which a copy is set out in Schedule 1.
