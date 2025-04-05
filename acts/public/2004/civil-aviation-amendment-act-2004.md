@@ -1,5 +1,5 @@
 # Civil Aviation Amendment Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 (1) This Act is the Civil Aviation Amendment Act 2004.
@@ -23,9 +23,9 @@ The purpose of this Act is to—
 ## Part 2 — Amendments to principal Act and related provisions
 
 ### 4 Interpretation
-(1) Section 2 of the principal Act is amended by inserting, in their appropriate alphabetical order, the following definitions:.
+(1) Section 2 of the principal Act is amended by inserting, in their appropriate alphabetical order, the following definitions:
   - **ANZA** means Australia New Zealand Aviation
-  - **ANZA mutual recognition agreements** means the agreements or arrangements specified in regulations made under section 100(1)(ed)
+  - **ANZA mutual recognition agreements** means the agreements or arrangements specified in regulations made under section 100(1)﻿(ed)
   - **Australia** means the Commonwealth of Australia; and, when used in a geographical sense, includes any external territory of Australia
   - **Australian AOC with ANZA privileges** has the same meaning as in section 3(1) of the Civil Aviation Act 1988 (Aust)
   - **Australian temporary stop notice** has the same meaning as in section 3(1) of the Civil Aviation Act 1988 (Aust)
@@ -34,7 +34,7 @@ The purpose of this Act is to—
     (b) any successor of that Authority
   - **New Zealand AOC with ANZA privileges** has the meaning set out in section 11G
   - **New Zealand temporary stop notice** means a notice issued under section 11C(1)
-(2) Section 2 of the principal Act is amended by repealing the definition of dangerous goods, and substituting the following definition:.
+(2) Section 2 of the principal Act is amended by repealing the definition of dangerous goods, and substituting the following definition:
   - **dangerous goods** means articles or substances that are capable of posing risk to health, safety, property, or the environment and—
     (a) are listed in, or classified in accordance with, the ICAO's Technical Instructions for the Safe Transport of Dangerous Goods by Air ; or
     (b) have properties that would result in the articles or substances being classified as dangerous goods under the ICAO's Technical Instructions for the Safe Transport of Dangerous Goods by Air
@@ -55,12 +55,12 @@ Section 9(1) of the principal Act is amended by inserting, after paragraph (b), 
 ### 7 Criteria for fit and proper person test
 (1) Section 10(1) of the principal Act is amended by adding the following paragraph:
   (g) in the case where a New Zealand AOC with ANZA privileges applies, the person's compliance with the conditions specified in section 11G(4).
-(2) Section 10(4)(a) of the principal Act is amended by omitting the words and (f), and substituting the words (f), and (g).
+(2) Section 10(4)﻿(a) of the principal Act is amended by omitting the words and (f), and substituting the words (f), and (g).
 (3) Section 10 of the principal Act is amended by repealing subsection (7), and substituting the following subsection:
   (7) If the Director determines not to disclose any information in reliance on subsection (6), the Director must inform the person of the fact of non-disclosure and,—
     (a) in the case of non-disclosure to an individual of information about the individual,—
       (i) inform the individual that he or she may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-      (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)(d) of that Act; and
+      (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)﻿(d) of that Act; and
     (b) in any other case,—
       (i) inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
       (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 6(d) of that Act.
@@ -144,7 +144,7 @@ The principal Act is amended by inserting, after Part 1, the following Part:ANZA
   An employee of the Authority may, subject to any directions from the Director of CASA, perform any function or exercise any power delegated to that employee under the Civil Aviation Act 1988 (Aust) for the purpose of enabling that employee to perform the function or exercise the power in New Zealand in respect of Australian AOCs with ANZA privileges.
 
 ### 9 Director may require or carry out safety and security inspections and monitoring
-(1) Section 15(1)(a) of the principal Act is amended by inserting, after the words aviation document, the words or an Australian AOC with ANZA privileges.
+(1) Section 15(1)﻿(a) of the principal Act is amended by inserting, after the words aviation document, the words or an Australian AOC with ANZA privileges.
 (2) Section 15 of the principal Act is amended by inserting, after subsection (1), the following subsection:
   (1A) In the case of an Australian AOC with ANZA privileges, the Director may only carry out inspections and monitoring at the request of CASA.
 (3) Section 15 of the principal Act is amended by inserting, after subsection (2), the following subsection:
@@ -170,7 +170,7 @@ Section 19 of the principal Act is amended by repealing subsection (7), and subs
   (7) If the Director determines not to disclose any information in reliance on subsection (6), the Director must inform the person of the fact of non-disclosure and,—
     (a) in the case of non-disclosure to an individual of information about the individual,—
       (i) inform the individual that the individual may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-      (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)(d) of that Act; and
+      (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)﻿(d) of that Act; and
     (b) in any other case,—
       (i) inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
       (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 6(d) of that Act.
@@ -185,26 +185,26 @@ Section 23B of the principal Act is amended by inserting, after subsection (2), 
   (1A) In the case of an Australian AOC with ANZA privileges, the power conferred by subsection (1) may only be exercised at the request of CASA.
 (3) Section 24(2) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
   (ab) in the case of an Australian AOC with ANZA privileges, a breach of the Civil Aviation 1988 (Aust) or of regulations or orders made under that Act is being, or is about to be, committed; or
-(4) Section 24(2)(b) of the principal Act is amended by inserting, after the word document, the words or Australian AOC with ANZA privileges.
+(4) Section 24(2)﻿(b) of the principal Act is amended by inserting, after the word document, the words or Australian AOC with ANZA privileges.
 (5) Section 24(3) of the principal Act is amended by inserting, after the word authorised, the words to have access to or.
-(6) Section 24(3)(a) of the principal Act is amended by inserting, after the word Act, the words or, in the case of an Australian AOC with ANZA privileges, under Australian law.
+(6) Section 24(3)﻿(a) of the principal Act is amended by inserting, after the word Act, the words or, in the case of an Australian AOC with ANZA privileges, under Australian law.
 (7) Section 24(3) of the principal Act is amended by repealing paragraph (b), and substituting the following paragraph:
   (b) must, if a document is surrendered under paragraph (a), orally inform the relevant aviation document holders or, if applicable, the relevant Australian AOC with ANZA privileges holder, as soon as practicable, and in writing that the document has been surrendered.
 (8) Section 24(6) of the principal Act is amended by adding the word ; and and the following paragraph:
   (c) in the case of an Australian AOC with ANZA privileges, that the power is being exercised at the request of CASA.
 
 ### 15 Interpretation
-Section 27A(1) of the principal Act is amended by repealing the definition of medical certificate, and substituting the following definition:.
+Section 27A(1) of the principal Act is amended by repealing the definition of medical certificate, and substituting the following definition:
   - **medical certificate** means a medical certificate—
     (a) issued by the Director under this Part to an applicant or licence holder; or
     (b) recognised by the Director under the rules
 
 ### 16 Power of Minister to make ordinary rules
-Section 28(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:.
+Section 28(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
   (ab) to allow for the mutual recognition of safety certifications in accordance with the ANZA mutual recognition agreements:
 
 ### 17 Rules relating to general matters
-Section 30 of the principal Act is amended by inserting, after paragraph (c), the following paragraph:.
+Section 30 of the principal Act is amended by inserting, after paragraph (c), the following paragraph:
   (ca) to provide for the privileges of an air operator certificate to include conducting air operations in Australia:
 
 ### 18 Procedures relating to rules
@@ -214,7 +214,7 @@ Section 30 of the principal Act is amended by inserting, after paragraph (c), th
   (c) set out fully the requirements of the rule, except where certain information is, under section 36, incorporated in the rule by reference.
 
 ### 19 Matters to be taken into account in making rules
-Section 33(2) of the principal Act is amended by repealing paragraph (g), and substituting the following paragraph:.
+Section 33(2) of the principal Act is amended by repealing paragraph (g), and substituting the following paragraph:
   (g) the international circumstances in respect of—
     (i) aviation safety and security; and
     (ii) mutual recognition of safety certifications in accordance with the ANZA mutual recognition agreements:
@@ -284,14 +284,14 @@ The principal Act is amended by inserting, after Part 5, the following Part:Unru
       (ii) provides an undertaking in the prescribed form that he or she (or the operator of the aircraft) has not made or will not make a similar request to the authorities of any other state; and
     (b) in the case of proceedings, the Attorney-General consents.
   (2) To avoid doubt, a person may, in respect of an unruly passenger offence, be arrested, charged, remanded in custody, or released on bail before the Attorney-General decides whether or not to consent to proceedings.
-  (3) Despite subsection (1)(b), proceedings for an unruly passenger offence committed on a foreign aircraft outside of New Zealand may be commenced without the Attorney-General's consent if—
+  (3) Despite subsection (1)﻿(b), proceedings for an unruly passenger offence committed on a foreign aircraft outside of New Zealand may be commenced without the Attorney-General's consent if—
     (a) a copy of the infringement notice is filed under section 65S(1); or
     (b) the defendant requests a hearing in respect of the infringement offence to which the infringement notice relates.
   (4) In any proceedings for an offence under this Part, the pilot-in-command' s request and undertaking, if made in the prescribed form or forms, are—
     (a) admissible in evidence; and
     (b) in the absence of proof to the contrary, sufficient evidence of the matters stated in the form or forms.
-  (1) Subject to section 65Q(2), the offences specified in this Part (except sections 65F and 65G(1)(d)) are triable summarily.
-  (2) The offences specified in sections 65F and 65G(l)(d) are triable on indictment.
+  (1) Subject to section 65Q(2), the offences specified in this Part (except sections 65F and 65G(1)﻿(d)) are triable summarily.
+  (2) The offences specified in sections 65F and 65G(l)﻿(d) are triable on indictment.
   (3) Despite anything to the contrary in the Summary Proceedings Act 1957, any information for an offence referred to in subsection (1) may be laid at any time within 12 months after the date of the offence.
   (4) Subject to section 65C, nothing in this Part affects the liability of any person under any other enactment.
   (1) A person commits an offence who acts in a manner that endangers an aircraft or any person in an aircraft.
@@ -301,17 +301,17 @@ The principal Act is amended by inserting, after Part 5, the following Part:Unru
     (b) behaves in a threatening, offensive, insulting, or disorderly manner towards a crew member; or
     (c) behaves in a manner that interferes with the performance by a crew member of his or her duties; or
     (d) intentionally interferes with the performance by a crew member of his or her duties.
-  (2) Every person who commits an offence against subsection (1)(a) or (b) or (c) is liable to a fine not exceeding $5,000.
-  (3) Every person who commits an offence against subsection (1)(d) is liable to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000.
-  (4) It is a defence in a prosecution under subsection (1)(a) for using offensive or insulting words if the defendant proves that he or she had reasonable grounds to believe that his or her words would not be overheard by a crew member.
+  (2) Every person who commits an offence against subsection (1)﻿(a) or (b) or (c) is liable to a fine not exceeding $5,000.
+  (3) Every person who commits an offence against subsection (1)﻿(d) is liable to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000.
+  (4) It is a defence in a prosecution under subsection (1)﻿(a) for using offensive or insulting words if the defendant proves that he or she had reasonable grounds to believe that his or her words would not be overheard by a crew member.
   (1) Every person commits an offence who tampers or interferes with any aircraft, any component of an aircraft, or its equipment, including, but not limited to, smoke detectors.
   (2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding $10,000.
   (1) Every person (except a person under medical care) commits an offence who—
     (a) is intoxicated and boards an aircraft; or
     (b) becomes intoxicated on an aircraft.
   (2) Every person who commits an offence against—
-    (a) subsection (1)(a) is liable to a fine not exceeding $5,000:
-    (b) subsection (1)(b) is liable to a fine not exceeding $3,000.
+    (a) subsection (1)﻿(a) is liable to a fine not exceeding $5,000:
+    (b) subsection (1)﻿(b) is liable to a fine not exceeding $3,000.
   (3) For the purposes of this section, a person is intoxicated if the pilot-in-command (or senior flight attendant authorised by the pilot-in-command for this purpose) has reasonable grounds to believe that the person is under the influence of an intoxicating liquor, or substance to such an extent as to—
     (a) be incapable of properly looking after himself or herself; or
     (b) actively present a hazard to the aircraft or to persons on the aircraft; or
@@ -325,7 +325,7 @@ The principal Act is amended by inserting, after Part 5, the following Part:Unru
     (a) behaves in a threatening, offensive, insulting, or disorderly manner; or
     (b) uses threatening, offensive, or insulting words.
   (2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding $2,500.
-  (3) It is a defence in a prosecution under subsection (1)(b) for using offensive or insulting words if the defendant proves that he or she had reasonable grounds to believe that his or her words would not be overheard.
+  (3) It is a defence in a prosecution under subsection (1)﻿(b) for using offensive or insulting words if the defendant proves that he or she had reasonable grounds to believe that his or her words would not be overheard.
   (1) Every person commits an offence who operates a portable electronic device on board an aircraft in breach of the rules.
   (2) Despite section 28(6), every person who commits an offence against subsection (1) is liable to a fine not exceeding $2,500.
   (1) Every person commits an offence who fails to comply with an instruction given by a crew member, passenger information signs, or placards to—
@@ -346,7 +346,7 @@ The principal Act is amended by inserting, after Part 5, the following Part:Unru
   (2) If the Director or a person authorised by the Director has reason to believe that a defendant has committed any offence specified in section 65Q(2),—
     (a) the defendant may be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
     (b) the Director or the person authorised by the Director may issue an infringement notice in respect of the alleged offence.
-  (3) If the Director or a person authorised by the Director has reasonable cause to suspect that a person has committed any offence specified in section 65G(1)(a) to (c) or section 65H or section 65J or section 65K or section 65Q(2), he or she may require the person to give his or her full name, address, and date of birth.
+  (3) If the Director or a person authorised by the Director has reasonable cause to suspect that a person has committed any offence specified in section 65G(1)﻿(a) to (c) or section 65H or section 65J or section 65K or section 65Q(2), he or she may require the person to give his or her full name, address, and date of birth.
   (4) If the Director or the person authorised by the Director has reasonable grounds to suppose that any details provided under subsection (3) are false or misleading, he or she may require the person to give such verification of those details as it is reasonable in the circumstances to require that person to provide.
   (5) If the person, without reasonable excuse, refuses or fails to comply with a request under subsection (3) or subsection (4), and persists in that refusal or failure after being warned by the Director or a person authorised by the Director that he or she may be arrested for committing an offence by that refusal or failure, a member of the police may arrest that person without warrant.
   (6) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, without reasonable excuse,—
@@ -367,8 +367,8 @@ The principal Act is amended by inserting, after Part 5, the following Part:Unru
     (h) a statement of the consequences if the defendant neither pays the fee nor requests a hearing; and
     (i) any other particulars as are prescribed by regulations made under this Act.
   (2) The infringement fee is,—
-    (a) in the case of an offence against section 65I(1)(a), $1,000:
-    (b) in the case of an offence against section 65I(1)(b), $600:
+    (a) in the case of an offence against section 65I(1)﻿(a), $1,000:
+    (b) in the case of an offence against section 65I(1)﻿(b), $600:
     (c) in the case of an offence against section 65L, $500:
     (d) in the case of an offence against section 65M, $500:
     (e) in the case of an offence against section 65N, $500:
@@ -380,11 +380,11 @@ The principal Act is amended by inserting, after Part 5, the following Part:Unru
     (b) the Director has not by then received at the address specified in the notice a notice requesting a hearing in respect of that offence.
   (2) The copy of the infringement notice filed under subsection (1) must have recorded on it the date and method of service on the defendant.
   (3) If an infringement notice under section 65P has been issued and served, the Summary Proceedings Act 1957 applies as if that notice were a reminder notice served under section 21(2) of that Act, and the provisions of that Act apply, with all necessary modifications, to the alleged offence as if—
-    (a) the reference in section 21(1)(b) to filing a copy of a reminder notice under the section were a reference to filing a copy of the infringement notice under subsection (1) of this section; and
+    (a) the reference in section 21(1)﻿(b) to filing a copy of a reminder notice under the section were a reference to filing a copy of the infringement notice under subsection (1) of this section; and
     (b) subsection (1) of this section were in the place of section 21(3); and
     (c) the reference in section 21(3A) to a copy of a reminder notice not having been filed under section 21(3) were a reference to a copy of the infringement notice not having been filed under subsection (1) of this section; and
     (d) the reference in section 21(5) to a copy of a reminder notice filed under section 21(3) were a reference to a copy of the infringement notice filed under subsection (1) of this section; and
-    (e) the reference in section 21(6)(b) and (10)(a) to a period of 28 days after the service of a reminder notice were a reference to the period of 14 days after the service of the infringement notice; and
+    (e) the reference in section 21(6)﻿(b) and (10)﻿(a) to a period of 28 days after the service of a reminder notice were a reference to the period of 14 days after the service of the infringement notice; and
     (f) the references to reminder notices in the definition of defendant in sections 2 and 78B, and in any other relevant provisions of that Act, were references to the infringement notice.
   (4) Despite section 203(1) of the Summary Proceedings Act 1957, an infringement notice under section 65P may be issued and served on a Sunday.
   (5) For the purpose of subsection (1), an infringement notice sent by post is deemed to have been served on the defendant when it was posted.
@@ -396,10 +396,10 @@ The principal Act is amended by inserting, after Part 5, the following Part:Unru
 
 ### 29 Appeal to District Court
 (1) Section 66(5) of the principal Act is amended by adding the following paragraphs:
-  (e) concerning the issue of a medical certificate under section 27B (other than a decision under subsection (5)(b) of that section):
-  (f) to impose or amend conditions, restrictions, or endorsements on a medical certificate under section 27I(7)(a):
-  (g) to disqualify a licence holder under section 27I(7)(c):
-  (h) to revoke a medical certificate under section 27I(7)(d) and (11):
+  (e) concerning the issue of a medical certificate under section 27B (other than a decision under subsection (5)﻿(b) of that section):
+  (f) to impose or amend conditions, restrictions, or endorsements on a medical certificate under section 27I(7)﻿(a):
+  (g) to disqualify a licence holder under section 27I(7)﻿(c):
+  (h) to revoke a medical certificate under section 27I(7)﻿(d) and (11):
   (i) concerning the implementation of the results of a report by the convener under section 27L or section 27M.
 (2) Section 66(5) of the principal Act is amended by adding the following paragraph:
   (j) to amend an AOC with ANZA privileges or withdraw those privileges under section 11I(3).
@@ -416,7 +416,7 @@ Section 72I of the principal Act is amended by inserting, after subsection (3C),
   (3D) The Director may enter into arrangements with CASA for the purpose of giving effect to the ANZA mutual recognition agreements.
 
 ### 33 Civil Aviation Registry
-(1) Section 74(2) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:.
+(1) Section 74(2) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
   (ab) every Australian AOC with ANZA privileges:
 (2) Section 74 of the principal Act is amended by adding the following subsection:
   (4) Subsection (3) is subject to the Privacy Act 1993.
@@ -430,13 +430,13 @@ Section 77B of the principal Act is amended by inserting, after subsection (5), 
   (5A) A direction is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
 
 ### 36 Functions and duties of Aviation Security Service
-Section 80 of the principal Act is amended by inserting, after paragraph (e), the following paragraph:.
+Section 80 of the principal Act is amended by inserting, after paragraph (e), the following paragraph:
   (ea) to provide security support services to the police when requested by the Commissioner of Police, but only subject to the following conditions:
     (i) the Commissioner of Police is satisfied that the provision of those services to the New Zealand Police is necessary to enable the New Zealand Police to carry out its security duties; and
     (ii) the Aviation Security Service is satisfied that the provision of those services to the New Zealand Police will not compromise aviation security:
 
 ### 37 New Part 9B inserted
-The principal Act is amended by inserting, after Part 9A, the following Part:Domestic carriage by airInterpretation1967 No 151 s 18Application of this Part1967 No 151 s 19(1)Exclusions1967 No 151 s 19(3), (4)Provisions if carriage performed by actual carrier—1967 No 151 s 20Provisions if carriage performed by successive carriers1967 No 151 s 21Liability of carrier in respect of delay1967 No 151 s 25Avoidance of liability1967 No 151 s 26Contributory negligence1967 No 151 s 27Limitation of liability1967 No 151 s 28Contracting out1967 No 151 1967 No 151 s 30Wilful or reckless misconduct1967 No 151 1967 No 151 s 31Servants or agents of carrier1967 No 151 s 32Aggregation of damages1967 No 151 s 33Aggregate liability1967 No 151 s 34Just and equitable orders and awards1967 No 151 s 35Tortfeasors1967 No 151 s 36Relationship between carriers1967 No 151 s 37Limitation of actions1967 No 151 s 39Combined carriage1967 No 151 s 40.
+The principal Act is amended by inserting, after Part 9A, the following Part:Domestic carriage by airInterpretation1967 No 151 s 18Application of this Part1967 No 151 s 19(1)Exclusions1967 No 151 s 19(3), (4)Provisions if carriage performed by actual carrier—1967 No 151 s 20Provisions if carriage performed by successive carriers1967 No 151 s 21Liability of carrier in respect of delay1967 No 151 s 25Avoidance of liability1967 No 151 s 26Contributory negligence1967 No 151 s 27Limitation of liability1967 No 151 s 28Contracting out1967 No 151 1967 No 151 s 30Wilful or reckless misconduct1967 No 151 1967 No 151 s 31Servants or agents of carrier1967 No 151 s 32Aggregation of damages1967 No 151 s 33Aggregate liability1967 No 151 s 34Just and equitable orders and awards1967 No 151 s 35Tortfeasors1967 No 151 s 36Relationship between carriers1967 No 151 s 37Limitation of actions1967 No 151 s 39Combined carriage1967 No 151 s 40
   (1) In this Part, unless the context otherwise requires,—
     - **actual carrier** means a person, other than the contracting carrier, who—
       (a) performs the whole or part of the carriage contracted for by the contracting carrier with the authority of the contracting carrier; but
@@ -473,7 +473,7 @@ The principal Act is amended by inserting, after Part 9A, the following Part:Dom
     (b) the acts and omissions of the actual carrier, and of the actual carrier's servants and agents acting within the scope of their employment, must, in relation to the carriage performed by the actual carrier, be treated as also those of the contracting carrier:
     (c) the acts and omissions of the contracting carrier, and of the contracting carrier's servants and agents acting within the scope of their employment, must, in relation to the carriage performed by the actual carrier, be treated as also those of the actual carrier:
     (d) any special agreement under which the contracting carrier assumes obligations not imposed by this Part, or any waiver of rights conferred by this Part, does not affect the actual carrier unless agreed to by the actual carrier.
-  (2) An act or omission specified in subsection (1)(c) does not subject the actual carrier to liability exceeding the limits specified in section 91ZC.
+  (2) An act or omission specified in subsection (1)﻿(c) does not subject the actual carrier to liability exceeding the limits specified in section 91ZC.
   If carriage is performed or is to be performed by successive carriers, the contracting carrier who is liable is the successive carrier who performed or was to perform the carriage where the delay occurred.
   (1) A carrier is liable for damage caused by delay in the carriage of passengers.
   (2) Despite subsection (1), a carrier is not liable for damage caused by delay if the carrier proves that the delay—
@@ -541,10 +541,10 @@ The principal Act is amended by inserting, after Part 9A, the following Part:Dom
 Section 96A(1) of the principal Act is amended by omitting from the definition of to smoke the word tobacco.
 
 ### 39 Regulations
-(1) Section 100(1)(d) of the principal Act is amended—
+(1) Section 100(1)﻿(d) of the principal Act is amended—
   (a) by omitting from subparagraph (i) the expression $5,000, and substituting the expression $10,000:
   (b) by omitting from subparagraph (ii) the expression $30,000, and substituting the expression $50,000.
-(2) Section 100(1) of the principal Act is amended by inserting, after paragraph (ec), the following paragraph:.
+(2) Section 100(1) of the principal Act is amended by inserting, after paragraph (ec), the following paragraph:
   (ed) specifying, for the purposes of Part 1A, the agreements or arrangements between the Governments of Australia and New Zealand regarding mutual recognition of aviation-related certification:
 
 ### 40 Repeals
