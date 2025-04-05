@@ -1,5 +1,5 @@
 # Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010
-_Consolidation as at 2010-11-01_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010.
@@ -43,7 +43,7 @@ Section 33(2) is amended by omitting making any rule and substituting making, or
 The following section is inserted after section 34:Governor-General may make ordinary rules
   (1) Despite anything in this Part, the Governor-General may, by Order in Council, on the recommendation of the Minister, make, amend, or revoke an ordinary rule for any of the purposes for which the Minister may make, amend, or revoke an ordinary rule under this Part.
   (2) The Minister must have regard to the criteria specified in section 33(2) before making a recommendation under subsection (1).
-  (3) Sections 32(1)(a) and 34(1) do not apply to an ordinary rule made by Order in Council under subsection (1).
+  (3) Sections 32(1)﻿(a) and 34(1) do not apply to an ordinary rule made by Order in Council under subsection (1).
   (4) An ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) must be published as part of the rules as if the Minister had made the rule or the amendment to the rule.
   (5) The Minister may amend or revoke an ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) as if the Minister had made the ordinary rule or the amendment to the ordinary rule under this Part.
   (6) An Order in Council made under subsection (1)—
@@ -82,7 +82,7 @@ Section 36 is repealed and the following section substituted:Incorporation by re
 Section 37(1) is amended by omitting section 28 or section 29 or section 30 of this Act and substituting section 28, 29A, 29B, or 30.
 
 ### 11 Evidence and proof
-Section 71(1) is amended by inserting the following paragraph after paragraph (ca):.
+Section 71(1) is amended by inserting the following paragraph after paragraph (ca):
   (cb) the production of a certified copy of material incorporated by reference is, in the absence of evidence to the contrary, sufficient evidence that the material produced is the material incorporated by reference in a rule:
 
 ### 12 New Part 12 inserted
@@ -214,8 +214,8 @@ Any remedy set out in sub-paragraph (a), (b) or (c) of paragraph 1 or by Article
 
 ### 4.
 A chargee proposing to sell or grant a lease of an object under paragraph 1 shall give reasonable prior notice in writing of the proposed sale or lease to:
-(a) interested persons specified in Article 1(m)(i) and (ii); and
-(b) interested persons specified in Article 1(m)(iii) who have given notice of their rights to the chargee within a reasonable time prior to the sale or lease.
+(a) interested persons specified in Article 1(m)﻿(i) and (ii); and
+(b) interested persons specified in Article 1(m)﻿(iii) who have given notice of their rights to the chargee within a reasonable time prior to the sale or lease.
 
 ### 5.
 Any sum collected or received by the chargee as a result of exercise of any of the remedies set out in paragraph 1 or 2 shall be applied towards discharge of the amount of the secured obligations.
@@ -233,10 +233,10 @@ The court may on the application of the chargee order that ownership of (or any 
 The court shall grant an application under the preceding paragraph only if the amount of the secured obligations to be satisfied by such vesting is commensurate with the value of the object after taking account of any payment to be made by the chargee to any of the interested persons.
 
 ### 4.
-At any time after default as provided in Article 11 and before sale of the charged object or the making of an order under paragraph 2, the chargor or any interested person may discharge the security interest by paying in full the amount secured, subject to any lease granted by the chargee under Article 8(1)(b) or ordered under Article 8(2). Where, after such default, the payment of the amount secured is made in full by an interested person other than the debtor, that person is subrogated to the rights of the chargee.
+At any time after default as provided in Article 11 and before sale of the charged object or the making of an order under paragraph 2, the chargor or any interested person may discharge the security interest by paying in full the amount secured, subject to any lease granted by the chargee under Article 8(1)﻿(b) or ordered under Article 8(2). Where, after such default, the payment of the amount secured is made in full by an interested person other than the debtor, that person is subrogated to the rights of the chargee.
 
 ### 5.
-Ownership or any other interest of the chargor passing on a sale under Article 8(1)(b) or passing under paragraph 1 or 2 of this Article is free from any other interest over which the chargee’s security interest has priority under the provisions of Article 29.
+Ownership or any other interest of the chargor passing on a sale under Article 8(1)﻿(b) or passing under paragraph 1 or 2 of this Article is free from any other interest over which the chargee’s security interest has priority under the provisions of Article 29.
 
 ### 1.
 The debtor and the creditor may at any time agree in writing as to the events that constitute a default or otherwise give rise to the rights and remedies specified in Articles 8 to 10 and 13.
@@ -545,10 +545,10 @@ Subject to Articles 43 and 44, the courts of a Contracting State chosen by the p
 Any such agreement shall be in writing or otherwise concluded in accordance with the formal requirements of the law of the chosen forum.
 
 ### 1.
-The courts of a Contracting State chosen by the parties and the courts of the Contracting State on the territory of which the object is situated have jurisdiction to grant relief under Article 13(1)(a), (b), (c) and Article 13(4) in respect of that object.
+The courts of a Contracting State chosen by the parties and the courts of the Contracting State on the territory of which the object is situated have jurisdiction to grant relief under Article 13(1)﻿(a), (b), (c) and Article 13(4) in respect of that object.
 
 ### 2.
-Jurisdiction to grant relief under Article 13(1)(d) or other interim relief by virtue of Article 13(4) may be exercised either:
+Jurisdiction to grant relief under Article 13(1)﻿(d) or other interim relief by virtue of Article 13(4) may be exercised either:
 (a) by the courts chosen by the parties; or
 (b) by the courts of a Contracting State on the territory of which the debtor is situated, being relief which, by the terms of the order granting it, is enforceable only in the territory of that Contracting State.
 
@@ -813,8 +813,8 @@ The registry authority in a Contracting State shall, subject to any applicable s
 
 ### 6.
 A chargee proposing to procure the de-registration and export of an aircraft under paragraph 1 otherwise than pursuant to a court order shall give reasonable prior notice in writing of the proposed de-registration and export to:
-(a) interested persons specified in Article 1(m)(i) and (ii) of the Convention; and
-(b) interested persons specified in Article 1(m)(iii) of the Convention who have given notice of their rights to the chargee within a reasonable time prior to the de-registration and export.
+(a) interested persons specified in Article 1(m)﻿(i) and (ii) of the Convention; and
+(b) interested persons specified in Article 1(m)﻿(iii) of the Convention who have given notice of their rights to the chargee within a reasonable time prior to the de-registration and export.
 
 ### 1.
 This Article applies only where a Contracting State has made a declaration under Article XXX(2) and to the extent stated in such declaration.
@@ -823,7 +823,7 @@ This Article applies only where a Contracting State has made a declaration under
 For the purposes of Article 13(1) of the Convention, speedy in the context of obtaining relief means within such number of working days from the date of filing of the application for relief as is specified in a declaration made by the Contracting State in which the application is made.
 
 ### 3.
-Article 13(1) of the Convention applies with the following being added immediately after sub-paragraph (d):and Article 43(2) applies with the insertion after the words Article 13(1)(d) of the words and (e).
+Article 13(1) of the Convention applies with the following being added immediately after sub-paragraph (d):and Article 43(2) applies with the insertion after the words Article 13(1)﻿(d) of the words and (e).
 (“(e)) if at any time the debtor and the creditor specifically agree, sale and application of proceeds therefrom”,
 
 ### 4.
@@ -968,7 +968,7 @@ For the purposes of Article 19(6) of the Convention, the search criteria for an 
 For the purposes of Article 25(2) of the Convention and in the circumstances there described, the holder of a registered prospective international interest or a registered prospective assignment of an international interest or the person in whose favour a prospective sale has been registered shall take such steps as are within its power to procure the discharge of the registration no later than five working days after the receipt of the demand described in such paragraph.
 
 ### 3.
-The fees referred to in Article 17(2)(h) of the Convention shall be determined so as to recover the reasonable costs of establishing, operating and regulating the International Registry and the reasonable costs of the Supervisory Authority associated with the performance of the functions, exercise of the powers, and discharge of the duties contemplated by Article 17(2) of the Convention.
+The fees referred to in Article 17(2)﻿(h) of the Convention shall be determined so as to recover the reasonable costs of establishing, operating and regulating the International Registry and the reasonable costs of the Supervisory Authority associated with the performance of the functions, exercise of the powers, and discharge of the duties contemplated by Article 17(2) of the Convention.
 
 ### 4.
 The centralised functions of the International Registry shall be operated and administered by the Registrar on a twenty-four hour basis. The various entry points shall be operated at least during working hours in their respective territories.
