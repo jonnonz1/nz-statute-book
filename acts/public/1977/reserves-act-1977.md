@@ -1,5 +1,5 @@
 # Reserves Act 1977
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-04-05_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to public reserves, to make further provision for their acquisition, control, management, maintenance, preservation (including the protection of the natural environment), development, and use, and to make provision for public access to the coastline and the countryside
 
@@ -16,7 +16,6 @@ _Consolidation as at 2023-12-23_
   - **Authority** means the New Zealand Conservation Authority established under section 6A of the Conservation Act 1987
   - **board** means any reserves board, trust, trust board, or other special board appointed under this Act or any corresponding former Act
   - **boat** means every description of vessel (including barges, rafts, lighters, and like vessels) used in navigation, however propelled
-  - **certified aerodrome** means an aerodrome licensed under the Civil Aviation Regulations 1953 or certificated under rules made under the Civil Aviation Act 1990
   - **Commissioner** , in relation to any reserve, means an officer designated by the Director-General for the purposes of this Act
   - **concession** or —
     (a) means—granted under section 59A; and
@@ -929,7 +928,8 @@ Subject to sections 22 and 40, the administering body of a government purpose re
 (3) The powers of leasing conferred on an administering body by this section shall, with respect to any local purpose reserve which is not vested in an administering body, be exercised by the Commissioner.
 
 ### 61A Leases in respect of reserves for aerodrome purposes
-Nothing in this Act shall prevent any airport authority (as defined in the Airport Authorities Act 1966) from exercising the powers conferred by section 6 of that Act in respect of any reserve vested in that authority as a local purpose reserve for aerodrome purposes.
+(1) Nothing in this Act shall prevent any airport authority (as defined in the Airport Authorities Act 1966) from exercising the powers conferred by section 6 of that Act in respect of any reserve vested in that authority as a local purpose reserve for aerodrome purposes.
+(2) Nothing in this Act prevents an airport authority (as defined in the Airport Authorities Act 1966) or an airport operator (as defined in section 5 of the Civil Aviation Act 2023) from granting a lease of any land vested in that airport authority or airport operator as a local purpose reserve for aerodrome purposes or from exercising the powers conferred by section 6(3) of the Airport Authorities Act 1966 or section 233 of the Civil Aviation Act 2023, as the case may be, in respect of the reserve.
 
 ### 62 Powers of Commissioner
 (1) The powers, functions, and duties conferred and imposed on an administering body by this Act shall, with respect to any reserve which is not under the control and management of an administering body, be exercised and performed by the Commissioner, who shall have and may exercise over the reserve all the powers of an administering body.
