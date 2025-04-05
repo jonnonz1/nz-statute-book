@@ -1,5 +1,5 @@
 # Russia Sanctions Act 2022
-_Consolidation as at 2025-04-01_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Russia Sanctions Act 2022.
@@ -317,7 +317,7 @@ No person is entitled to compensation or any other remedy for good faith and rea
   (b) if any of the acts or omissions are alleged to have occurred on board—
     (i) a ship registered, or required to be registered, under the Ship Registration Act 1992; or
     (ii) a ship used as a ship of the New Zealand Defence Force; or
-    (iii) an aircraft registered, or required to be registered, in New Zealand under the Civil Aviation Act 1990; or
+    (iii) an aircraft registered, or required to be registered, in New Zealand under the Civil Aviation Act 2023; or
     (iv) an aircraft for the time being used as an aircraft of the New Zealand Defence Force; or
     (v) an aircraft that is leased to a lessee whose principal place of business is in New Zealand, or who is a New Zealand citizen or a person ordinarily resident in New Zealand.
 (2) The following sections of the Crimes Act 1961 do not apply in respect of an offence against section 24:
