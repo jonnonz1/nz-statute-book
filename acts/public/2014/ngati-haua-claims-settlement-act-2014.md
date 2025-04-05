@@ -1,5 +1,5 @@
 # Ngāti Hauā Claims Settlement Act 2014
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Ngāti Hauā Claims Settlement Act 2014.
@@ -992,10 +992,11 @@ A member of the committee is not precluded by the Local Authorities (Members' In
 ### 96 Matters relating to vesting under section 95
 (1) Except as provided in section 95, that section does not—
   (a) affect the functions and powers of the Minister under the Reserves Act 1977 in relation to the Waharoa Aerodrome land (or part of it); or
-  (b) affect the functions and powers of the local authority in which the land is vested as a reserve for aerodrome purposes under the Reserves Act 1977 and the Airport Authorities Act 1966 in relation to the Waharoa Aerodrome land (or part of it); or
+  (b) affect the functions and powers of the local authority in which the land is vested as a reserve for aerodrome purposes under the Reserves Act 1977, the Airport Authorities Act 1966, and the Civil Aviation Act 2023 in relation to the Waharoa Aerodrome land (or part of it); or
   (c) mean or imply that the Minister will revoke the reserve status of the Waharoa Aerodrome land (or part of it); or
   (d) give any member of Ngāti Hauā, the trustees, or any representative entity any further right of action in respect of the exercise of any functions or powers under the Reserves Act 1977 in relation to the Waharoa Aerodrome land (or part of it) than would otherwise have been available had section 95(3) not been enacted.
 (2) Despite section 3A(1), (7), and (7A) of the Airport Authorities Act 1966, neither the Crown nor a local authority may transfer the Waharoa Aerodrome land to an airport company.
+(3) Neither the Crown nor a local authority may transfer the Waharoa Aerodrome land to an airport operator as defined in section 5 of the Civil Aviation Act 2023.
 
 ### 97 Notice to interest holders
 (1) In determining under section 25(2) of the Reserves Act 1977 the restrictions, encumbrances, liens, or interests that should be specified in a Gazette notice that revokes the reservation of the Waharoa Aerodrome land (or part of it) as a reserve, the Minister must inquire into the validity of any existing restriction, encumbrance, lien, or interest.
