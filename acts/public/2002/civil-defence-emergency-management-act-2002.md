@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2024-11-26_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -1416,10 +1416,10 @@ The company (as defined in section 2 of the Auckland Airport Act 1987) that oper
 The company (as defined in section 2 of the Wellington Airport Act 1990) that operates Wellington international airport.
 
 ### 4
-The airport company (as defined in section 2 of the Airport Authorities Act 1966) that operates Christchurch international airport.
+The company that operates Christchurch International Airport.
 
 ### 5
-The entity (being an airport authority as defined in section 2 of the Airport Authorities Act 1966, whether or not it is also an airport company as defined in that section) that operates the primary airport at Bay of Islands, Blenheim, Dunedin, Gisborne, Hamilton, Hokitika, Invercargill, Napier, Nelson, New Plymouth, Palmerston North, Queenstown, Rotorua, Tauranga, Wanganui, Westport, Whakatane, or Whangarei.
+The entity (being an airport authority as defined in section 2 of the Airport Authorities Act 1966, whether or not it is also an airport company as defined in that section, or an airport operator as defined in section 5 of the Civil Aviation Act 2023) that operates the primary airport at Bay of Islands, Blenheim, Dunedin, Gisborne, Hamilton, Hokitika, Invercargill, Napier, Nelson, New Plymouth, Palmerston North, Queenstown, Rotorua, Tauranga, Wanganui, Westport, Whakatane, or Whangarei.
 
 ### 6
 The port company (as defined in section 2(1) of the Port Companies Act 1988) that carries out port-related commercial activities at Auckland, Bluff, Port Chalmers, Gisborne, Lyttelton, Napier, Nelson, Picton, Port Taranaki, Tauranga, Timaru, Wellington, Westport, or Whangarei.
