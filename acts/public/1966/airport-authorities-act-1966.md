@@ -1,5 +1,5 @@
 # Airport Authorities Act 1966
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-04-05_
 
 > An Act to consolidate and amend the Local Authorities Empowering (Aviation Encouragement) Act 1929 and its amendments and to confer powers on certain local authorities and other persons in respect of airports
 
@@ -37,7 +37,7 @@ This Act may be cited as the Airport Authorities Act 1966.
   - **lease** includes any form of tenancy and a licence to occupy or use any premises or appliance
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **Minister** means the Minister of Transport
-  - **security area** means an area of an airport that the Director has declared to be a security area under section 84 of the Civil Aviation Act 1990
+  - **security area** has the meaning given to that term in section 5 of the Civil Aviation Act 2023
   - **specified airport company** means an airport company that, in its last accounting period, received revenue that exceeded $10 million, or such other amount of revenue that the Governor-General may from time to time prescribe for the purposes of this definition by Order in Council (see subsection (2))
   - **specified passenger terminal activities** means the activities undertaken (including the facilities and services provided) in relation to aircraft passengers while those passengers are in a security area or areas of the relevant airport; and includes—but does not include the provision of any space for retail activities
     (a) the provision, within a security area or security areas of the relevant airport, of any 1 or more of the following:
@@ -59,11 +59,14 @@ This Act may be cited as the Airport Authorities Act 1966.
   (c) those authorisations have not been withdrawn.
 (3) A person who is deemed to be a substantial customer under subsection (2) may exercise all the powers of a substantial customer under this Act and any regulations made under this Act and must be treated in all respects as if that person were a substantial customer.
 
+### 2AB Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+
 ### 3 Airport authorities may establish and carry on airports
 (1) Any local authority, with the prior consent of, and in accordance with any conditions prescribed by, the Governor-General by Order in Council, may establish, improve, maintain, operate, or manage airports (including the approaches, buildings, and other accommodation, and equipment and appurtenances for any such airports) and may acquire land for any such purpose either within or without its district or region.
 (2) Any local authority empowered to carry out any undertaking under this section may carry on or cause to be carried on in connection therewith any subsidiary business or undertaking.
 (3) The powers conferred on local authorities by this section may, with the prior consent of, and in accordance with conditions prescribed by the Governor-General by Order in Council, be exercised by any person or association of persons referred to in the Order in Council.
-(4) Any Order in Council under this section may be at any time in like manner amended or revoked.
+(4) Despite subsections (1) and (3), no Order in Council may be made under this section on or after the date on which section 487 of the Civil Aviation Act 2023 comes into force.
 (5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5)
 
@@ -125,7 +128,7 @@ An airport operated or managed by an airport authority which is not a local auth
 (3) Every airport operated or managed by an airport authority must be operated or managed as a commercial undertaking.
 
 ### 4A Charges
-(1) Subject to section 4B, every airport company may, notwithstanding the provision of any regulations in force under section 38 or section 100 of the Civil Aviation Act 1990, set such charges as it from time to time thinks fit for the use of the airport operated or managed by it, or the services or facilities associated therewith.
+(1) Subject to section 4B, every airport company may, notwithstanding the provision of any regulations in force under section 407 or 415 of the Civil Aviation Act 2023, set such charges as it from time to time thinks fit for the use of the airport operated or managed by it, or the services or facilities associated therewith.
 (2) Any charges set under this section may be charged to persons or classes of persons owning or operating aircraft, or to persons or classes of persons using or otherwise enjoying the benefit of the airport, services, or facilities, or to any other persons.
 (3) Nothing in section 43 of the Commerce Act 1986 applies in relation to the setting and charging of charges by an airport company.
 (4) This section does not limit the application of regulation under Part 4 of the Commerce Act 1986.
@@ -192,14 +195,14 @@ Subject to the provisions of this section, any local authority may, for the purp
   (b) the more effectual carrying out of the functions and powers of the airport authority in respect of the airport:
   (c) protecting any property used in connection with the airport from damage or injury:
   (d) prescribing precautions to be taken for the protection of persons or property from accident or damage:
-  (e) regulating traffic, whether pedestrian or vehicular, and the provision and use of parking places for vehicles at the airport:
+  (e) regulating (other than on a road as defined in section 2(1) of the Land Transport Act 1998) traffic, whether pedestrian or vehicular, and the provision and use of parking places for vehicles at the airport:
   (f) prescribing the times, terms, and conditions upon which the public may enter or be in or upon the airport:
   (ff) providing for the establishing and maintaining of facilities at the airport for the reception and storage of lost property, and, after publicising the sale in what the authority considers to be a fair and reasonable manner, providing for the sale by way of auction of any such property that is unclaimed after being held by the authority for not less than 3 months:
     provided that in the case of lost property which is perishable or valueless the bylaws may provide for the disposal of the property in such manner as may be determined by the authority:
   (g) prescribing charges for the use of parking spaces for vehicles or for the admission of members of the public to the airport or to any land adjacent to the airport owned or controlled by the airport authority:
-  (h) prescribing charges for the use of the airport or any part thereof for air pageants, sports meetings, and such other matters in respect of which no charge is prescribed by regulations under the Civil Aviation Act 1990:
-  (i) prescribing charges in respect of the commercial use of any part of the airport, including the delivery of goods to or from the airport and the provision of services at the airport, in respect of which no charge is prescribed under the Civil Aviation Act 1990:
-  (ia) prescribing charges in respect of aviation security services provided at the airport, in respect of which no charge is prescribed under the Civil Aviation Act 1990:
+  (h) prescribing charges for the use of the airport or any part thereof for air pageants, sports meetings, and such other matters in respect of which no charge is prescribed by regulations under the Civil Aviation Act 2023:
+  (i) prescribing charges in respect of the commercial use of any part of the airport, including the delivery of goods to or from the airport and the provision of services at the airport, in respect of which no charge is prescribed under the Civil Aviation Act 2023:
+  (ia) prescribing charges in respect of aviation security services provided at the airport, in respect of which no charge is prescribed under the Civil Aviation Act 2023:
   (j) generally for the administration of the airport, or for the control of trading activities thereon or for the management of any business ancillary thereto that may be carried on pursuant to this Act:
   provided that an airport authority which is an airport company shall not have the power to make bylaws for the purposes set out in paragraphs (g) to (j).
 (1A) Subject to any direction given by the Auditor-General either in respect of airport authorities generally or in respect of any specific airport authority, the proceeds of every sale made pursuant to bylaws made under paragraph (ff) of subsection (1), after deducting the costs of the sale, and any lost money which is unclaimed, shall be paid into such bank account as may be kept by the authority and shall thereupon form part of its funds.
@@ -212,6 +215,7 @@ Subject to the provisions of this section, any local authority may, for the purp
   (a) must set out the approved bylaw in a schedule of the order; and
   (b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (7) For the purposes of the Land Transport Act 1998, any bylaw made under subsection (1)﻿(e) or (g) is to be treated as being made by the authority under section 22AB of the Land Transport Act 1998.
+(7A) For the purpose of a bylaw to which subsection (7) applies, the definition of enforcement authority in section 2(1) of the Land Transport Act 1998 and sections 22AD(1A), 139(7), and 141(8) of that Act (as they were immediately before the date on which section 487 of the Civil Aviation Act 2023 came into force) continue to have effect despite their repeal by section 486 of the Civil Aviation Act 2023.
 (8) Every person who commits a breach of any bylaw in force under this section is liable on conviction to a fine not exceeding $500 and, where the breach is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the breach has continued.
 (9) Where a person commits a continuing breach of any bylaw, then, notwithstanding anything in any other Act, the District Court may, on application by the airport authority, grant an injunction restraining the further continuance of the breach by that person.
 (10) An injunction may be granted under subsection (9),—
@@ -268,7 +272,18 @@ A failure by a specified airport company to comply with section 4C does not affe
 (4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000.
 
 ### 10 Repeals and savings
-(1) The enactments specified in the Schedule are hereby repealed.
+(1) The enactments specified in Schedule 2 are hereby repealed.
 (2) All references to an aviation authority or to a recognised aviation authority in any Act, regulation, rule, bylaw, order, other enactment, agreement, deed, instrument, application, notice, or other document whatsoever in force at the commencement of this Act shall, unless the context otherwise requires, be read as references to an airport authority.
 
-## Schedule Schedule — Enactments repealed
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to amendments made by Civil Aviation Act 2023
+
+### 1 Interpretation
+In this Part, commencement date means the date on which section 487 of the Civil Aviation Act 2023 comes into force.
+
+### 2 Airport bylaws: application to roads
+(1) This clause applies to a bylaw made under this Act by a local authority or an airport authority that is in force immediately before the commencement date.
+(2) The bylaw continues in force according to its tenor (and section 9(7) and (7A) of this Act applies to it) despite the amendment to section 9(1)﻿(e) of this Act by section 470 of the Civil Aviation Act 2023.
+
+## Schedule 2 — Enactments repealed
