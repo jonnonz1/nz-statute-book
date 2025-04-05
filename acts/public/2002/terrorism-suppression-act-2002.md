@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2023-11-28_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -519,7 +519,7 @@ Proceedings may be brought in a New Zealand court for any offence against this A
   (a) by a New Zealand citizen:
   (b) by a person who is ordinarily resident in New Zealand but is not a citizen of any State:
   (c) by any other person on board any aircraft—
-    (i) registered or required to be registered in New Zealand under the Civil Aviation Act 1990; or
+    (i) registered or required to be registered in New Zealand under the Civil Aviation Act 2023; or
     (ii) for the time being used as an aircraft of the New Zealand Defence Force:
   (d) by any other person on board any ship—
     (i) registered under the Ship Registration Act 1992; or
