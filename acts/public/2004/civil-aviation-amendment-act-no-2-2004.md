@@ -1,5 +1,5 @@
 # Civil Aviation Amendment Act (No 2) 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 (1) This Act is the Civil Aviation Amendment Act (No 2) 2004.
@@ -9,7 +9,7 @@ _Consolidation as at 2007-09-03_
 This Act comes into force on 1 December 2004.
 
 ### 3 Interpretation
-Section 2 of the principal Act is amended by repealing the definitions of Minister, Ministry, and Secretary, and substituting, in their appropriate alphabetical order, the following definitions:.
+Section 2 of the principal Act is amended by repealing the definitions of Minister, Ministry, and Secretary, and substituting, in their appropriate alphabetical order, the following definitions:
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or the relevant Part or provision of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Secretary** means the chief executive of the Ministry
@@ -34,16 +34,16 @@ The principal Act is amended by repealing section 14, and substituting the follo
       (ii) to implement any international convention or agreement relating to search and rescue to which New Zealand is a party; and
     (c) may appoint persons to, either generally or in any particular case, participate in or co-ordinate a search and rescue operation specified in paragraph (a).
   (2) The Minister may authorise the payment, out of money appropriated for the purpose by Parliament, of an amount that the Minister considers appropriate to—
-    (a) any person who assisted in a search and rescue operation specified in subsection (1)(a) at the request of a person appointed under subsection (1)(c); or
-    (b) the owner of any vehicle, ship, or aircraft used in a search and rescue operation specified in subsection (1)(a) in response to a request by a person appointed under subsection (1)(c).
+    (a) any person who assisted in a search and rescue operation specified in subsection (1)﻿(a) at the request of a person appointed under subsection (1)﻿(c); or
+    (b) the owner of any vehicle, ship, or aircraft used in a search and rescue operation specified in subsection (1)﻿(a) in response to a request by a person appointed under subsection (1)﻿(c).
   The Minister may direct the Civil Aviation Authority or the Maritime Safety Authority, or any other Crown entity or government agency for which the Minister is responsible and whose functions are consistent with search and rescue operations, to do any or all of the following:
-    (a) operate and maintain the search and rescue co-ordination centre established under section 14B(1)(a):
-    (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in section 14B(1)(a):
-    (c) perform, or participate in the performance of, any search and rescue operation specified in section 14B(1)(a):
-    (d) exercise any or all of the powers of the Minister under section 14B(1)(b) and (c) and section 14B(2).
+    (a) operate and maintain the search and rescue co-ordination centre established under section 14B(1)﻿(a):
+    (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in section 14B(1)﻿(a):
+    (c) perform, or participate in the performance of, any search and rescue operation specified in section 14B(1)﻿(a):
+    (d) exercise any or all of the powers of the Minister under section 14B(1)﻿(b) and (c) and section 14B(2).
 
 ### 5 Power of Minister to make ordinary rules
-Section 28(1) of the principal Act is amended by repealing paragraph (c), and substituting the following paragraphs:.
+Section 28(1) of the principal Act is amended by repealing paragraph (c), and substituting the following paragraphs:
   (c) assisting aviation safety and security, including (but not limited to) personal security:
   (ca) assisting economic development:
   (cb) improving access and mobility:
@@ -57,7 +57,7 @@ Section 28(1) of the principal Act is amended by repealing paragraph (c), and su
     (v) the Director's functions and powers under section 72I:
 
 ### 6 Matters to be taken into account in making rules
-Section 33(2) of the principal Act is amended by repealing paragraphs (e) and (f), and substituting the following paragraphs:.
+Section 33(2) of the principal Act is amended by repealing paragraphs (e) and (f), and substituting the following paragraphs:
   (e) the need to maintain and improve aviation safety and security, including (but not limited to) personal security:
   (f) whether the proposed rule—
     (i) assists economic development:
@@ -73,25 +73,25 @@ The principal Act is amended by inserting, after section 72A, the following sect
 ### 8 Functions of Authority
 (1) Section 72B of the principal Act is amended by repealing subsections (1) and (4).
 (2) Section 72B(2) of the principal Act is amended by omitting the words In furtherance of its principal function, the Authority shall also have the following functions:, and substituting the words The Authority has the following functions:.
-(3) Section 72B(2) of the principal Act is amended by repealing paragraphs (a) to (c), and substituting the following paragraphs:.
+(3) Section 72B(2) of the principal Act is amended by repealing paragraphs (a) to (c), and substituting the following paragraphs:
   (a) to promote civil aviation safety and security in New Zealand:
   (b) to promote civil aviation safety and security beyond New Zealand in accordance with New Zealand's international obligations:
-(4) Section 72B(2) of the principal Act is amended by repealing paragraph (i), and substituting the following paragraphs:.
+(4) Section 72B(2) of the principal Act is amended by repealing paragraph (i), and substituting the following paragraphs:
   (i) to co-operate with, or to provide advice and assistance to, any government agency or local government agency when requested to do so by the Minister, but only if the Minister and the Authority are satisfied that the performance of the functions and duties of the Authority will not be compromised:
   (ia) to provide information and advice with respect to civil aviation, and to foster appropriate information education programmes with respect to civil aviation, that promote its objective:
 (5) Section 72B of the principal Act is amended by repealing subsection (2A), and substituting the following subsection:
   (2A) The Authority must, if directed to do so by the Minister under section 14C, do any or all of the following:
-    (a) operate and maintain the search and rescue co-ordination centre established under section 14B(1)(a):
-    (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in section 14B(1)(a):
-    (c) perform, or participate in the performance of, any search and rescue operation specified in section 14B(1)(a):
-    (d) exercise any or all of the powers of the Minister under section 14B(1)(b) and (c) and section 14B(2).
+    (a) operate and maintain the search and rescue co-ordination centre established under section 14B(1)﻿(a):
+    (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in section 14B(1)﻿(a):
+    (c) perform, or participate in the performance of, any search and rescue operation specified in section 14B(1)﻿(a):
+    (d) exercise any or all of the powers of the Minister under section 14B(1)﻿(b) and (c) and section 14B(2).
 (6) Section 72B of the principal Act is amended by repealing subsection (3), and substituting the following subsection:
   (3) The Authority must carry out any other civil aviation functions and duties that—
     (a) are conferred on it by this Act or any other Act; and
     (b) the Minister may prescribe by notice in the Gazette.
 
 ### 9 Director of Civil Aviation
-Section 72I of the principal Act is amended by inserting, after subsection (3)(b), the word ; and and the following paragraphs:
+Section 72I of the principal Act is amended by inserting, after subsection (3)﻿(b), the word ; and and the following paragraphs:
   (c) monitor adherence, within the civil aviation system, to any regulatory requirements relating to—
     (i) safety and security, including (but not limited to) personal security:
     (ii) access and mobility:
@@ -101,7 +101,7 @@ Section 72I of the principal Act is amended by inserting, after subsection (3)(b
   (d) ensure regular reviews of the civil aviation system to promote the improvement and development of its safety and security.
 
 ### 10 Functions and duties of Aviation Security Service
-Section 80 of the principal Act is amended by inserting, after paragraph (ea), the following paragraph:.
+Section 80 of the principal Act is amended by inserting, after paragraph (ea), the following paragraph:
   (eb) to co-operate with, or to provide advice and assistance to, any government agency or local government agency when requested to do so by the Minister, but only if the Minister and the Aviation Security Service are satisfied that the performance of the functions and duties of the Aviation Security Service will not be compromised:
 
 ### 11 Limitation of liability
@@ -120,6 +120,6 @@ Section 80 of the principal Act is amended by inserting, after paragraph (ea), t
 (1) Nothing in this Act affects the validity of a rule that—
   (a) was in force immediately before the commencement of this Act; or
   (b) has been made but is to come into force after the commencement of this Act.
-(2) If a notice of intention to make a rule has been published under section 34(1)(a) of the principal Act as in force immediately before the commencement of this Act, but has not been made before that commencement,—
+(2) If a notice of intention to make a rule has been published under section 34(1)﻿(a) of the principal Act as in force immediately before the commencement of this Act, but has not been made before that commencement,—
   (a) the proposed rule may be made in accordance with the law in force immediately before that commencement; or
   (b) if the Minister so directs, a new rule may be prepared, notified, and made in accordance with the law in force on the commencement of this Act.
