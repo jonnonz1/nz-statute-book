@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-04-05_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -1587,7 +1587,7 @@ A recognition order must be sealed—
 (1) The Minister of Conservation may make bylaws for any specified part of the common marine and coastal area for all or any of the following purposes:
   (a) prohibiting or regulating the use or parking of vehicles in a specified part of the common marine and coastal area:
   (b) regulating the use or mooring of vessels in the specified part of a common marine and coastal area:
-  (c) prohibiting the hovering or landing of any aircraft, as defined in section 2 of the Civil Aviation Act 1990, over or in a specified part of the common marine and coastal area:
+  (c) prohibiting the hovering or landing of any aircraft, as defined in section 5 of the Civil Aviation Act 2023, over or in a specified part of the common marine and coastal area:
   (d) prescribing fines, not exceeding $500 in any one case, for the breach of any bylaws made under this section.
 (2) The Minister of Conservation must not make any bylaws under subsection (1) unless satisfied that—
   (a) the proposed bylaws are necessary for the proper management of the specified part of the common marine and coastal area to which the proposed bylaws relate; and
