@@ -1,5 +1,5 @@
 # Admiralty Act 1973
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 > An Act to make provision with respect to the jurisdiction in admiralty of the High Court of New Zealand and of the District Court, and the jurisdiction in prize of the High Court
 
@@ -10,7 +10,7 @@ _Consolidation as at 2021-10-28_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **aircraft** has the same meaning as in the Civil Aviation Act 1990
+  - **aircraft** has the same meaning as in the Civil Aviation Act 2023
   - **Collision Regulations** has the same meaning as in section 168 of the Maritime Transport Act 1994
   - **court** means any court upon which jurisdiction is conferred by this Act
   - **goods** includes baggage
