@@ -1,5 +1,5 @@
 # Civil Aviation (Medical Certification) Amendment Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 (1) This Act is the Civil Aviation (Medical Certification) Amendment Act 2001.
@@ -17,10 +17,10 @@ The purpose of this Act is to amend the principal Act by incorporating provision
 
 ### 4 Interpretation
 Section 2 of the principal Act is amended by inserting, in their appropriate alphabetical order, the following definitions:
-  - **aviation examiner** means a health professional; and includes any registered medical practitioner to whom the Director has issued an aviation document under section 27F(2) or section 27Q(2)(c) to conduct specified examinations under Part 2A
+  - **aviation examiner** means a health professional; and includes any registered medical practitioner to whom the Director has issued an aviation document under section 27F(2) or section 27Q(2)﻿(c) to conduct specified examinations under Part 2A
   - **convener** means a registered medical practitioner appointed as convener by the Minister under section 27J or the deputy convener acting as convener
   - **deputy convener** means a registered medical practitioner appointed as deputy convener by the Minister under section 27J
-  - **medical examiner** means a registered medical practitioner to whom the Director has issued an aviation document under section 27F(1) or section 27Q(2)(b) to conduct examinations under section 27D
+  - **medical examiner** means a registered medical practitioner to whom the Director has issued an aviation document under section 27F(1) or section 27Q(2)﻿(b) to conduct examinations under section 27D
   - **registered medical practitioner** means—
     (a) a person in New Zealand who is registered as a medical practitioner under the Medical Practitioners Act 1995; or
     (b) a person in a jurisdiction other than New Zealand who is entitled, licensed, or registered to practise medicine in that jurisdiction
@@ -56,12 +56,12 @@ The principal Act is amended by inserting, after Part 2, the following Part:Medi
     (b) may require the applicant, at the applicant's expense, to undertake any other tests, examinations, or re-examinations conducted by any suitably qualified and experienced person, or to provide any medical information, as the Director reasonably considers necessary to assess the applicant.
   (6) If the Director requires an applicant to undertake any other test, examination, or re-examination, or to provide any medical information, the period in which the Director must make a decision in relation to the medical certificate under this section does not include the number of days that are required to conduct and deliver the results of the test, examination, or re-examination, or to provide the medical information, to the Director.
   (7) The Director must maintain a register of current medical certificates issued under this section.
-  (8) Any decision made under this section by the Director in relation to a medical certificate other than a decision under subsection (5)(b) is subject to section 27L (review of decisions regarding medical certificates or applications).
-  (1) Subject to any directions that the Director may issue under section 27G(1)(b), if a licence holder is aware of, or has reasonable grounds to suspect, any change in his or her medical condition or the existence of any previously undetected medical condition that may interfere with the safe exercise of the privileges to which his or her medical certificate relates, the licence holder—
+  (8) Any decision made under this section by the Director in relation to a medical certificate other than a decision under subsection (5)﻿(b) is subject to section 27L (review of decisions regarding medical certificates or applications).
+  (1) Subject to any directions that the Director may issue under section 27G(1)﻿(b), if a licence holder is aware of, or has reasonable grounds to suspect, any change in his or her medical condition or the existence of any previously undetected medical condition that may interfere with the safe exercise of the privileges to which his or her medical certificate relates, the licence holder—
     (a) must advise the Director of the change as soon as practicable; and
     (b) may not exercise the privileges to which the licence holder's medical certificate relates.
-  (2) Subject to any directions that the Director may issue under section 27G(1)(b), if an aviation examiner or medical examiner or operator is aware of, or has reasonable grounds to suspect, any change in the medical condition of a licence holder or the existence of any previously undetected medical condition in the licence holder that may interfere with the safe exercise of the privileges to which the licence holder's medical certificate relates, the aviation examiner or medical examiner or operator must advise both the licence holder and the Director of the change as soon as practicable.
-  (3) Subject to any directions that the Director may issue under section 27G(1)(b), if a registered medical practitioner has reasonable grounds to believe that a person is a licence holder and is aware, or has reasonable grounds to suspect, that the licence holder has a medical condition that may interfere with the safe exercise of the privileges to which the licence holder's medical certificate relates, the registered medical practitioner must, as soon as practicable,—
+  (2) Subject to any directions that the Director may issue under section 27G(1)﻿(b), if an aviation examiner or medical examiner or operator is aware of, or has reasonable grounds to suspect, any change in the medical condition of a licence holder or the existence of any previously undetected medical condition in the licence holder that may interfere with the safe exercise of the privileges to which the licence holder's medical certificate relates, the aviation examiner or medical examiner or operator must advise both the licence holder and the Director of the change as soon as practicable.
+  (3) Subject to any directions that the Director may issue under section 27G(1)﻿(b), if a registered medical practitioner has reasonable grounds to believe that a person is a licence holder and is aware, or has reasonable grounds to suspect, that the licence holder has a medical condition that may interfere with the safe exercise of the privileges to which the licence holder's medical certificate relates, the registered medical practitioner must, as soon as practicable,—
     (a) inform the licence holder that the Director will be advised of the condition; and
     (b) advise the Director of the condition.
   (4) An aviation examiner or medical examiner or a registered medical practitioner is not subject to any civil or criminal liability for—
@@ -92,7 +92,7 @@ The principal Act is amended by inserting, after Part 2, the following Part:Medi
       (ii) the interpretation and analysis of results of examinations:
       (iii) the significance of results of examinations for the purpose of determining whether or not an applicant is eligible for a medical certificate under section 27B.
   (2) Before issuing general directions under subsection (1), the Director must consult with those persons, health professionals with aviation medical experience, representative groups within the aviation industry or elsewhere, government departments, and Crown agencies that he or she considers appropriate.
-  (3) General directions issued in relation to the matters specified in subsection (1)(a) or (c) must be—
+  (3) General directions issued in relation to the matters specified in subsection (1)﻿(a) or (c) must be—
     (a) notified in writing to aviation examiners or medical examiners; and
     (b) incorporated in a medical manual issued by the Director.
   (4) The Director may issue directives in emergency situations without consultation or prior notice in the Gazette, but those directives—
@@ -126,15 +126,15 @@ The principal Act is amended by inserting, after Part 2, the following Part:Medi
       (iii) impose or amend any conditions, restrictions, or endorsements on any medical certificate issued to the licence holder; and
     (b) may, by written notice to the person with delegated authority, revoke that person's delegated authority.
   (4) Any notice issued under this section must state the grounds for the Director's decision.
-  (5) A notice of suspension issued under subsection (1)(a) or subsection (2)(a) or subsection (3)(a)(i) remains in force until the Director determines what action, if any, referred to in subsection (7) is to be taken, but any such suspension expires 10 working days after the date that the suspension is imposed unless, before the expiry of that 10-working-day period, the Director extends the suspension for a further specified period not exceeding 10 working days (the aggregate suspension period may not exceed 20 working days after the date on which the suspension is imposed).
-  (6) Any conditions, restrictions, or endorsements that are imposed or made under subsection (1)(b) or subsection (2)(c) or subsection (3)(a)(iii) remain in force until the Director determines what action, if any, referred to in subsection (7) is to be taken, but any of those conditions, restrictions, or endorsements expire 10 working days after the date that they are imposed unless, before the expiry of that 10-working-day period, the Director extends the conditions, restrictions, or endorsements for a further specified period not exceeding 10 working days (the aggregate period may not exceed 20 working days after the date on which the conditions, restrictions, or endorsements are imposed).
+  (5) A notice of suspension issued under subsection (1)﻿(a) or subsection (2)﻿(a) or subsection (3)﻿(a)﻿(i) remains in force until the Director determines what action, if any, referred to in subsection (7) is to be taken, but any such suspension expires 10 working days after the date that the suspension is imposed unless, before the expiry of that 10-working-day period, the Director extends the suspension for a further specified period not exceeding 10 working days (the aggregate suspension period may not exceed 20 working days after the date on which the suspension is imposed).
+  (6) Any conditions, restrictions, or endorsements that are imposed or made under subsection (1)﻿(b) or subsection (2)﻿(c) or subsection (3)﻿(a)﻿(iii) remain in force until the Director determines what action, if any, referred to in subsection (7) is to be taken, but any of those conditions, restrictions, or endorsements expire 10 working days after the date that they are imposed unless, before the expiry of that 10-working-day period, the Director extends the conditions, restrictions, or endorsements for a further specified period not exceeding 10 working days (the aggregate period may not exceed 20 working days after the date on which the conditions, restrictions, or endorsements are imposed).
   (7) If a notice is issued under subsection (1) or subsection (2) or subsection (3), the Director may, by written notice, take 1 or more of the following actions:
     (a) impose or amend conditions, restrictions, or endorsements for a specified period:
     (b) withdraw any conditions, restrictions, or endorsements:
     (c) disqualify the licence holder from holding the medical certificate for a specified period:
     (d) revoke the medical certificate:
     (e) cancel the suspension.
-  (8) If the Director revokes a medical certificate under subsection (2)(b) or subsection (3)(a)(ii) or subsection (7)(d) or subsection (11) or imposes any conditions, restrictions, or endorsements on a medical certificate under subsection (7)(a) or disqualifies a licence holder under subsection (7)(c), the licence holder has 20 working days from the date of the decision to ask the convener to review the decision under section 27L, after which time the decision may not be referred to the convener.
+  (8) If the Director revokes a medical certificate under subsection (2)﻿(b) or subsection (3)﻿(a)﻿(ii) or subsection (7)﻿(d) or subsection (11) or imposes any conditions, restrictions, or endorsements on a medical certificate under subsection (7)﻿(a) or disqualifies a licence holder under subsection (7)﻿(c), the licence holder has 20 working days from the date of the decision to ask the convener to review the decision under section 27L, after which time the decision may not be referred to the convener.
   (9) A person who has had his or her medical certificate revoked, withdrawn, or suspended or who is disqualified from holding the medical certificate for a specified period must surrender the medical certificate to the Director, a person authorised by the Director, or a member of the police.
   (10) If the Director issues a notice under this section, the Director—
     (a) must also, if practicable, notify any aviation document holder affected by the notice, other than the licence holder, if the Director reasonably considers it necessary for reasons of aviation safety; and
@@ -165,13 +165,13 @@ The principal Act is amended by inserting, after Part 2, the following Part:Medi
     (c) take into account any representations made under paragraph (b).
   (3) If the Minister cancels an appointment, the Minister must give the person written notice of the cancellation that sets out the grounds for the cancellation.
   (1) A licence holder or an applicant may, within 20 working days of a decision being made, ask the convener in writing to review the following decisions made by the Director about that person's medical certificate or application:
-    (a) any decision made under section 27B, other than a decision made under section 27B(5)(b):
+    (a) any decision made under section 27B, other than a decision made under section 27B(5)﻿(b):
     (b) any decision made under section 27I, other than a decision made under—
       (i) section 27I(1); or
-      (ii) section 27I(2)(a); or
-      (iii) section 27I(2)(c); or
-      (iv) section 27I(3)(a)(i); or
-      (v) section 27I(3)(a)(iii).
+      (ii) section 27I(2)﻿(a); or
+      (iii) section 27I(2)﻿(c); or
+      (iv) section 27I(3)﻿(a)﻿(i); or
+      (v) section 27I(3)﻿(a)﻿(iii).
   (2) If such a request is made, the convener must, as soon as practicable, review the decision.
   (3) The convener—
     (a) must draw on the advice and expertise of at least 1 person who the convener is satisfied is suitably qualified and experienced to assist the convener in his or her assessment of the decision that is under review; and
@@ -225,7 +225,7 @@ The principal Act is amended by inserting, after Part 2, the following Part:Medi
   (8) Every delegation under this section continues in force until it is revoked or it expires, whether or not the person who made the delegation ceases to hold office.
   (9) Every person purporting to act under any delegation under this section may, when reasonably requested to do so, produce evidence of his or her authority to so act.
   (10) The Director may not delegate under this section any of his or her functions or powers under section 27L or section 27M.
-  Any person affected by a decision of the Director under section 27B (other than a decision made under section 27B(5)(b)), section 27I(7), section 27I(11), section 27L, or section 27M has a right of appeal to a District Court under section 66.
+  Any person affected by a decision of the Director under section 27B (other than a decision made under section 27B(5)﻿(b)), section 27I(7), section 27I(11), section 27L, or section 27M has a right of appeal to a District Court under section 66.
   (1) Part 67 of the rules (as it read immediately before the commencement of this Part) continues to apply to—
     (a) any application for a medical certificate lodged before the commencement of this Part:
     (b) any action begun with respect to a medical certificate before the commencement of this Part.
@@ -236,7 +236,7 @@ The principal Act is amended by inserting, after Part 2, the following Part:Medi
       (iii) relating to the classification of aviation examiners and medical examiners and any related standards and restrictions on the exercise of their functions and powers; and
     (b) the Director must designate, by issuing an aviation document under section 9, 1 or more medical examiners to conduct examinations under section 27D; and
     (c) the Director may designate, by issuing an aviation document under section 9, 1 or more aviation examiners to conduct specified examinations that the Director may require under this Part.
-  (3) In the absence of rules under section 30(b)(x) or section 30(b)(xi), the Minister must establish the criteria for the grant of delegations, including—
+  (3) In the absence of rules under section 30(b)﻿(x) or section 30(b)﻿(xi), the Minister must establish the criteria for the grant of delegations, including—
     (a) any requirements for the grant of delegations by the Director under section 27O(2); and
     (b) any requirements for the purposes of determining suitably qualified medical examiners and establishing the criteria for standard medical assessments under section 27O(2).
   Any medical certificate issued under the rules before the commencement of this Part is deemed to be a medical certificate issued under this Part.
@@ -246,16 +246,16 @@ Section 7(1) of the principal Act is amended by adding the following paragraph:
   (s) any person who is an aviation examiner or medical examiner.
 
 ### 7 Rules relating to general matters
-(1) Section 30(a) of the principal Act is amended by inserting, after subparagraph (vi), the following subparagraph:.
+(1) Section 30(a) of the principal Act is amended by inserting, after subparagraph (vi), the following subparagraph:
   (via) aviation examiners or medical examiners:
-(2) Section 30(b) of the principal Act is amended by adding the following subparagraphs:.
+(2) Section 30(b) of the principal Act is amended by adding the following subparagraphs:
   (ix) the requirements relating to the classification of aviation examiners and medical examiners and any related standards and restrictions on the exercise of their functions and powers:
   (x) the requirements for the grant of delegations by the Director under section 27O(2):
   (xi) the requirements for the purposes of determining suitably qualified medical examiners and establishing the criteria for standard medical assessments under section 27O(2):
   (xii) the requirements and criteria for determining medical experts acceptable to the Director for the purposes of reaching an accredited medical conclusion:
 
 ### 8 Fees and charges
-Section 38(1) of the principal Act is amended by inserting, after paragraph (b), the following paragraph:.
+Section 38(1) of the principal Act is amended by inserting, after paragraph (b), the following paragraph:
   (ba) to reimburse the Authority and the convener for costs directly associated with the Director's functions and the convener's functions under Part 2A:
 
 ### 9 Amendments to offence provisions
@@ -275,9 +275,9 @@ The principal Act is amended by inserting, after section 46, the following secti
   (2) Every person who commits an offence under subsection (1) is liable to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000.
 
 ### 10 Evidence and proof
-(1) Section 71(1) of the principal Act is amended by inserting, after paragraph (c), the following paragraph:.
+(1) Section 71(1) of the principal Act is amended by inserting, after paragraph (c), the following paragraph:
   (ca) the production of a written statement signed by the Director to the effect that on a specified date a person was or was not the holder of a medical certificate issued under Part 2A, or the rules before the commencement of the Civil Aviation (Medical Certification) Amendment Act 2001, is sufficient evidence of the matter stated, until the contrary is proved:
-(2) Section 72I(4) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:.
+(2) Section 72I(4) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
   (aa) the issue, suspension, or revocation of medical certificates; or
 
 ### 11 Consequential amendments to principal Act
@@ -303,7 +303,7 @@ The principal Act is consequentially amended in the manner indicated in the Sche
   - **valid** means,—
     (a) in respect of a licence or rating, the document has been issued in accordance with the Civil Aviation Rules, and is not expired, suspended, or revoked; and
     (b) in respect of a medical certificate, the medical certificate has been issued in accordance with the Act, and is not expired, suspended, or revoked.
-(4) Rule 61.35(a)(1) (medical requirements) is amended by omitting the words Part 67 of these rules, and substituting the words the Act.
+(4) Rule 61.35(a)﻿(1) (medical requirements) is amended by omitting the words Part 67 of these rules, and substituting the words the Act.
 (5) Rule 61.43(a) (examination for continued fitness or proficiency) is amended by—
   (a) omitting the words undergo a medical or other, and substituting the words take an; and
   (b) omitting the words continued fitness or.
@@ -322,8 +322,8 @@ The principal Act is consequentially amended in the manner indicated in the Sche
 (14) Rule 65.27(b) (examination for continued fitness or proficiency) is amended by omitting the words undergoes a medical or other, and substituting the words takes an.
 (15) The heading to rule 65.27 (examination for continued fitness or proficiency) is amended by omitting the words continued fitness or.
 (16) Rule 67.03(a) (application) is amended by omitting the words this Part, and substituting the words the Act.
-(17) Rule 67.03(a)(4) (application) is amended by omitting the words and the relevant Aviation Medical Assessor.
-(18) Rule 67.03(a)(5) (application) is amended by omitting the words Aviation Medical Assessor or Designated Medical Examiner, and substituting the words medical examiner.
-(19) Rules 61.105(2) (student pilots flying solo), 61.153(a)(2) (private pilots licences), 61.203(3) (commercial pilot licences), 63.23(a)(1) (flight engineers licences), 63.53(2) (eligibility requirements), 65.25(a)(1) (air traffic controller licences), 65.53(a)(2) (eligibility requirements), and 105.5(c)(3) are amended by omitting the expression Part 67, and substituting the words the Act.
+(17) Rule 67.03(a)﻿(4) (application) is amended by omitting the words and the relevant Aviation Medical Assessor.
+(18) Rule 67.03(a)﻿(5) (application) is amended by omitting the words Aviation Medical Assessor or Designated Medical Examiner, and substituting the words medical examiner.
+(19) Rules 61.105(2) (student pilots flying solo), 61.153(a)﻿(2) (private pilots licences), 61.203(3) (commercial pilot licences), 63.23(a)﻿(1) (flight engineers licences), 63.53(2) (eligibility requirements), 65.25(a)﻿(1) (air traffic controller licences), 65.53(a)﻿(2) (eligibility requirements), and 105.5(c)﻿(3) are amended by omitting the expression Part 67, and substituting the words the Act.
 
 ## Schedule Schedule — Consequential amendments to principal Act
