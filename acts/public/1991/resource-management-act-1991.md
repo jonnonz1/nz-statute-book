@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2025-03-13_
+_Consolidation as at 2025-04-05_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -190,8 +190,8 @@ _Consolidation as at 2025-03-13_
     (f) a drainage or sewerage system:
     (g) structures for transport on land by cycleways, rail, roads, walkways, or any other means:
     (h) facilities for the loading or unloading of cargo or passengers transported on land by any means:
-    (i) an airport as defined in section 2 of the Airport Authorities Act 1966:
-    (j) a navigation installation as defined in section 2 of the Civil Aviation Act 1990:
+    (i) an aerodrome as defined in section 5 of the Civil Aviation Act 2023:
+    (j) a navigation installation as defined in section 5 of the Civil Aviation Act 2023:
     (k) facilities for the loading or unloading of cargo or passengers carried by sea, including a port related commercial undertaking as defined in section 2(1) of the Port Companies Act 1988:
     (l) anything described as a network utility operation in regulations made for the purposes of the definition of network utility operator in section 166
   - **infringed boundary** , in relation to a boundary activity, has the meaning given in section 87AAB
@@ -7031,7 +7031,7 @@ The regional council must make and publicly notify its decision on the concurren
 **Designations**
 
 ### 166 Definitions
-In this Act—
+(1) In this Act—
   - **designation** means a provision made in a district plan to give effect to a requirement made by a requiring authority under section 168 or section 168A or clause 4 of Schedule 1
   - **eligible infrastructure** has the same meaning as in section 8 of the Infrastructure Funding and Financing Act 2020
   - **network utility operator** means a person who—and the words have a corresponding meaning
@@ -7043,8 +7043,10 @@ In this Act—
     (d) undertakes or proposes to undertake the distribution of water for supply (including irrigation); or
     (e) undertakes or proposes to undertake a drainage or sewerage system; or
     (f) constructs, operates, or proposes to construct or operate, a road or railway line; or
-    (g) is an airport authority as defined by the Airport Authorities Act 1966 for the purposes of operating an airport as defined by that Act; or
-    (h) is a provider of any approach control service within the meaning of the Civil Aviation Act 1990; or
+    (g) is—
+      (i) an airport authority as defined in the Airport Authorities Act 1966, for the purpose of operating an airport as defined in that Act; or
+      (ii) an airport operator as defined in section 5 of the Civil Aviation Act 2023, for the purpose of operating an aerodrome in relation to which the airport operator is registered under that Act; or
+    (h)
     (ha) is a responsible SPV that is constructing or proposing to construct eligible infrastructure; or
     (i) undertakes or proposes to undertake a project or work prescribed as a network utility operation for the purposes of this definition by regulations made under this Act,—
   - **public work** includes work that relates to the construction of eligible infrastructure
