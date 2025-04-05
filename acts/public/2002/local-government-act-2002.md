@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -138,7 +138,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
     (b) any land or building owned by the local authority and required to maintain the local authority's capacity to provide affordable housing as part of its social policy; and
     (c) any equity securities held by the local authority in—
       (i) a port company within the meaning of the Port Companies Act 1988:
-      (ii) an airport company within the meaning of the Airport Authorities Act 1966
+      (ii) an airport company within the meaning of the Airport Authorities Act 1966 or an airport operator within the meaning of section 5 of the Civil Aviation Act 2023
   - **unitary authority** means a territorial authority that has the responsibilities, duties, and powers of a regional council conferred on it under—
     (a) the provisions of any Act; or
     (b) an Order in Council giving effect to a reorganisation plan
