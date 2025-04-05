@@ -1,5 +1,5 @@
 # Civil Aviation Amendment Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2025-04-05_
 
 > An Act to—aAmend the Civil Aviation Act 1990 to enable the implementation of certain Protocols to the Warsaw Convention relating to International Carriage by Air; andbProvide for a system for controlling entry to airspace above the 1999-2000 America's Cup regatta
 
