@@ -1,5 +1,5 @@
 # Outer Space and High-altitude Activities Act 2017
-_Consolidation as at 2023-11-28_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Outer Space and High-altitude Activities Act 2017.
@@ -24,19 +24,19 @@ The purpose of this Act is to—
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **accident** includes a launch failure
-  - **aircraft** has the same meaning as in section 2 of the Civil Aviation Act 1990
+  - **aircraft** has the same meaning as in section 5 of the Civil Aviation Act 2023
   - **chief executive** means the chief executive of the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
-  - **Director of Civil Aviation** means the Director of Civil Aviation appointed under section 72I of the Civil Aviation Act 1990
+  - **Director of Civil Aviation** means the Director of Civil Aviation appointed under section 31 of the Civil Aviation Act 2023
   - **enforcement officer** means a person appointed under section 57
   - **facility licence** means a licence granted under subpart 5 of Part 2
-  - **flight level** , if defined in rules made under the Civil Aviation Act 1990, has the meaning given to it in those rules
+  - **flight level** , if defined in rules made under the Civil Aviation Act 2023, has the meaning given to it in those rules
   - **ground station** , subject to any regulations made under section 88(1)﻿(12), means a facility or place in New Zealand in which equipment is used to track or communicate with—
     (a) a launch vehicle or payload that is licensed under this Act; or
     (b) a high-altitude vehicle that is licensed under this Act; or
     (c) a high-altitude payload that is carried by a high-altitude vehicle that is licensed under this Act
   - **high altitude** means an altitude above the higher of—
   (a) flight level 600; and
-  (b) the highest upper limit of controlled airspace under the Civil Aviation Act 1990
+  (b) the highest upper limit of controlled airspace under the Civil Aviation Act 2023
   - **high-altitude licence** means a licence granted under subpart 6 of Part 2
   - **high-altitude payload** , subject to any regulations made under section 88(1)﻿(13),—
     (a) means an object that is carried or placed, or is intended to be carried or placed, at high altitude; and
@@ -160,7 +160,7 @@ A person must not launch a launch vehicle from a launch facility in New Zealand,
     (i) minimises the risk of contamination of outer space or adverse changes to the earth’s environment; and
     (ii) takes into account the activities of others in the use of outer space; and
     (iii) is consistent with New Zealand’s international obligations; and
-    (iv) complies with New Zealand law, including, without limitation, the Civil Aviation Act 1990, any regulations and rules made under that Act, and all health and safety and environmental legislation; and
+    (iv) complies with New Zealand law, including, without limitation, the Civil Aviation Act 2023, any regulations and rules made under that Act, and all health and safety and environmental legislation; and
   (h) comply with any conditions prescribed by regulations relating to the launch and operation of a launch vehicle; and
   (i) comply with any other conditions imposed by the Minister including, without limitation, any conditions that the Minister considers necessary or desirable in order to—
     (i) give effect to New Zealand’s international obligations; or
@@ -527,7 +527,7 @@ A person must not operate a launch facility in New Zealand unless the person has
     (iii) the proposed launch or launches under the licence are consistent with New Zealand’s international obligations; and
     (iv) the applicant and the proposed launch or launches meet any prescribed requirements; and
   (b) in relation to each high-altitude vehicle proposed to be launched under the licence that is an aircraft, the Minister—
-    (i) has received confirmation from the Director of Civil Aviation that the aircraft or (where relevant) the operator of the aircraft has the appropriate permits, certificates, or other documents under the Civil Aviation Act 1990 (if any) or, in the case of a foreign aircraft, that the aircraft is recognised under New Zealand law; and
+    (i) has received confirmation from the Director of Civil Aviation that the aircraft or (where relevant) the operator of the aircraft has the appropriate permits, certificates, or other documents under the Civil Aviation Act 2023 (if any) or, in the case of a foreign aircraft, that the aircraft is recognised under New Zealand law; and
     (ii) has taken into account any advice or information provided by the Director of Civil Aviation in relation to the safety of the operation of the aircraft at high altitude.
 (2) The Minister may, despite being satisfied of all the matters in subsection (1)﻿(a) and, if relevant, having received the advice in subsection (1)﻿(b), decline to grant a high-altitude licence if the Minister is not satisfied that—
   (a) the proposed launch of a high-altitude vehicle or high-altitude vehicles under the licence is in the national interest; or
@@ -550,7 +550,7 @@ A person must not operate a launch facility in New Zealand unless the person has
   (b) comply with any request by the Minister under section 50; and
   (c) notify the Minister, in accordance with any prescribed requirements, if the high-altitude vehicle deviates from operational parameters; and
   (d) obtain advance approval from the Minister for any intended deviation from operational parameters; and
-  (e) conduct the launch and operation in a manner that complies with the Civil Aviation Act 1990 and any regulations and rules made under that Act; and
+  (e) conduct the launch and operation in a manner that complies with the Civil Aviation Act 2023 and any regulations and rules made under that Act; and
   (f) comply with any other conditions prescribed by regulations relating to the launch and operation of a high-altitude vehicle; and
   (g) comply with any other conditions imposed by the Minister including, without limitation, any conditions that the Minister considers necessary or desirable in order to—
     (i) regulate any high-altitude payload carried by the high-altitude vehicle; or
