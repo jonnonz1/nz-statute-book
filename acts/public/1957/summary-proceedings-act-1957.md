@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2025-04-05_
 
 > Title
 
@@ -46,7 +46,7 @@ _Consolidation as at 2025-03-30_
     (bb) section 63 of the Customer and Product Data Act 2025; or
     (c) section 32A of the Weights and Measures Act 1987; or
     (ca) section 57C of the Gas Act 1992; or
-    (d) section 58 of the Civil Aviation Act 1990; or
+    (d) section 373 of the Civil Aviation Act 2023; or
     (da) section 129 of the Plumbers, Gasfitters, and Drainlayers Act 2006; or
     (e) section 159 or section 159A of the Biosecurity Act 1993; or
     (ea) section 112 of the Hazardous Substances and New Organisms Act 1996; or
