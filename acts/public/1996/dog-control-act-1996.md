@@ -1,5 +1,5 @@
 # Dog Control Act 1996
-_Consolidation as at 2024-12-20_
+_Consolidation as at 2025-04-05_
 
 > An Act—ato make better provision for the control of dogs; andbto make better provision in relation to damage caused by dogs; andcto repeal the Dog Control and Hydatids Act 1982 and its amendments
 
@@ -40,7 +40,7 @@ In this Act, unless the context otherwise requires,—
   - **registration year** has the same meaning as that given to the term financial year in section 5(1) of the Local Government Act 2002
   - **specified agency** —
     (a) means—
-      (i) the Aviation Security Service established under section 72B(2)﻿(ca) of the Civil Aviation Act 1990:
+      (i) AvSec as defined in section 5 of the Civil Aviation Act 2023:
       (ii) the Department of Conservation:
       (iii) the Department of Corrections:
       (iv) the Ministry of Agriculture and Forestry:
@@ -64,7 +64,7 @@ In this Act, unless the context otherwise requires,—
       (iii) kept by the Department of Conservation or any officer or employee of that department solely or principally for the purposes of carrying out the functions, duties, and powers of that department; or
       (iv) kept solely or principally for the purposes of destroying pests or pest agents under any pest management plan under the Biosecurity Act 1993; or
       (iva) kept by the Department of Corrections or any officer or employee of that department solely or principally for the purposes of carrying out the functions, duties, and powers of that department; or
-      (ivb) kept by the Aviation Security Service established under section 72B(2)﻿(ca) of the Civil Aviation Act 1990, or any officer or employee of that service solely or principally for the purposes of carrying out the functions, duties, and powers of that service; or
+      (ivb) kept by AvSec as defined in section 5 of the Civil Aviation Act 2023, or any officer or employee of that service solely or principally for the purposes of carrying out the functions, duties, and powers of that service; or
       (ivc) certified for use by the Director of Civil Defence Emergency Management for the purposes of carrying out the functions, duties, and powers conferred by the Civil Defence Emergency Management Act 2002; or
       (v) owned by a property guard as defined in section 9 of the Private Security Personnel and Private Investigators Act 2010 or a property guard employee as defined in section 17 of that Act, and kept solely or principally for the purpose of doing the things specified in section 9(1)﻿(a) to (c) of that Act; or
       (vi) declared by resolution of the territorial authority to be a working dog for the purposes of this Act, or any dog of a class so declared by the authority, being a dog owned by any class of persons specified in the resolution and kept solely or principally for the purposes specified in the resolution.
