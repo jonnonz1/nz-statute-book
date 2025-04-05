@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-04-05_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -32,7 +32,7 @@ _Consolidation as at 2023-12-23_
       (iii) may pose a risk, or has resulted in damage, to any property (whether or not on board the ship); or
     (g) a person is lost at sea (whether or not subsequently found) or is missing; or
     (h) the ship is foundering, capsizing, being abandoned, stranding, missing, or has foundered, capsized, been abandoned, stranded, been in a collision, or has had a major fire on board
-  - **aircraft** has the same meaning as in the Civil Aviation Act 1990
+  - **aircraft** has the same meaning as in the Civil Aviation Act 2023
   - **Articles of Agreement** means an agreement between an employer and 1 or more seafarers setting out the terms and conditions of the seafarers’ employment
   - **Authority** means the authority continued by section 429
   - **ballast water** has the meaning given to it in section 246A(1)
@@ -2497,6 +2497,27 @@ Every person who receives any maritime levy shall, on demand, issue to the perso
 ### 199 Search and rescue operations
 [Repealed]
 
+### 199 Search and rescue operations
+(1) The Minister—
+  (a) must establish, maintain, and operate a search and rescue co-ordination centre to co-ordinate and conduct—
+    (i) an aviation search and rescue operation; and
+    (ii) a maritime search and rescue operation; and
+    (iii) any other search and rescue operation that the Minister considers appropriate; and
+  (b) may exercise any powers that may be necessary or desirable—
+    (i) for the effective co-ordination and performance of a search and rescue operation specified in paragraph (a); and
+    (ii) to implement any international convention or agreement relating to search and rescue to which New Zealand is a party; and
+  (c) may appoint persons to, either generally or in any particular case, participate in or co-ordinate a search and rescue operation specified in paragraph (a).
+(2) The Minister may authorise the payment, out of money appropriated for the purpose by Parliament, of an amount that the Minister considers appropriate to—
+  (a) any person who assisted in a search and rescue operation specified in subsection (1)﻿(a) at the request of a person appointed under subsection (1)﻿(c); or
+  (b) the owner of any vehicle, ship, or aircraft used in a search and rescue operation specified in subsection (1)﻿(a) in response to a request by a person appointed under subsection (1)﻿(c).
+
+### 199A Minister may direct agencies with respect to search and rescue operations
+The Minister may direct the Civil Aviation Authority or Maritime New Zealand, or any other Crown entity or government agency for which the Minister is responsible and whose functions are consistent with search and rescue operations, to do any or all of the following:
+  (a) operate and maintain the search and rescue co-ordination centre established under section 199(1)﻿(a):
+  (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in section 199(1)﻿(a):
+  (c) perform, or participate in the performance of, any search and rescue operation specified in section 199(1)﻿(a):
+  (d) exercise any or all of the powers of the Minister under section 199(1)﻿(b) and (c) and (2).
+
 ### 200 Navigational aids
 (1) The Authority is responsible for the management of all navigational aids on or near the coasts of New Zealand and the adjacent seas and islands, except those to which subsection (2) applies.
 (2) A person (including a local authority) who operates a port, cargo terminal, marina, jetty, marine farm, or other maritime facility (an operator) must provide navigational aids for that facility and is responsible for them.
@@ -2759,7 +2780,7 @@ Any person who—shall take action to enforce that indemnity within 2 years of t
   - **mining activity** has the meaning given in section 225
   - **mining discharge** has the meaning given in section 225
   - **National On-Scene Commander** has the meaning given to it by section 281
-  - **New Zealand aircraft** has the same meaning as the term New Zealand registered aircraft is given by section 2 of the Civil Aviation Act 1990
+  - **New Zealand aircraft** has the same meaning as the term New Zealand registered aircraft is given by section 5 of the Civil Aviation Act 2023
   - **New Zealand continental waters** means—
     (a) New Zealand marine waters; and
     (b) the waters beyond the outer limits of the exclusive economic zone of New Zealand but over the continental shelf of New Zealand
@@ -4939,11 +4960,11 @@ The objective of the Authority is to undertake its safety, security, marine prot
   (m) to advise the Minister on technical maritime safety policy:
   (n) to perform such other functions as are conferred on it by this Act or any other Act.
 (2) The Authority shall carry out such other maritime functions, and such maritime duties, as the Minister may from time to time direct in accordance with section 112 of the Crown Entities Act 2004.
-(3) The Authority must, if directed by the Minister under section 14C of the Civil Aviation Act 1990, do any or all of the following:
-  (a) maintain and operate the search and rescue co-ordination centre established under section 14B(1)﻿(a) of the Civil Aviation Act 1990:
-  (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in section 14B(1)﻿(a) of the Civil Aviation Act 1990:
-  (c) perform, or participate in the performance of, any search and rescue operation specified in section 14B(1)﻿(a) of the Civil Aviation Act 1990:
-  (d) exercise any or all of the powers of the Minister under section 14B(1)﻿(b) and (c) and section 14B(2) of the Civil Aviation Act 1990.
+(3) The Authority must, if directed by the Minister under section 199A, do any or all of the following:
+  (a) maintain and operate the search and rescue co-ordination centre established under section 199(1)﻿(a):
+  (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in section 199(1)﻿(a):
+  (c) perform, or participate in the performance of, any search and rescue operation specified in section 199(1)﻿(a):
+  (d) exercise any or all of the powers of the Minister under section 199(1)﻿(b) and (c) and (2).
 
 ### 432 Authority to comply with policy directions
 [Repealed]
