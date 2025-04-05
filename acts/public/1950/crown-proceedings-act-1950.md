@@ -1,5 +1,5 @@
 # Crown Proceedings Act 1950
-_Consolidation as at 2023-11-28_
+_Consolidation as at 2025-04-05_
 
 > An Act to consolidate and amend the law relating to the civil liabilities and rights of the Crown and officers of the Crown, and to civil proceedings by and against the Crown
 
@@ -22,7 +22,6 @@ This Act may be cited as the Crown Proceedings Act 1950 and shall come into forc
   - **order** includes a judgment, decree, rule, award, or declaration
   - **proceedings against the Crown** includes a claim by way of set-off or counterclaim raised in proceedings by the Crown
   - **servant** , in relation to the Crown, means any servant of the Sovereign, and accordingly (but without prejudice to the generality of the foregoing provision) includes a Minister of the Crown, and a member of the New Zealand armed forces; but does not include the Governor-General, or any Judge, District Court Judge, Justice of the Peace, Community Magistrate, or other judicial officer
-  - **service aircraft** means any aircraft within the meaning of the Civil Aviation Act 1990 which is being used exclusively for the purposes of the Armed Forces of New Zealand
   - **ship** includes every description of vessel used in navigation not propelled by oars
   - **the Sovereign** or means the Sovereign in right of his or her Government in New Zealand
   - **visiting force** means any naval, military, or air force of any country other than New Zealand which has been granted a right of entry into or passage through or over New Zealand.
@@ -78,10 +77,7 @@ This Act is subject to the Limitation Act 2010, and to any other enactment thatâ
 (2) Without prejudice to the effect of the last preceding subsection, Part 5 of the Law Reform Act 1936 (which relates to proceedings against, and contribution between, joint and several tortfeasors) shall bind the Crown.
 
 ### 9 Crown not liable to pay compensation or damages for death or disablement of members of New Zealand armed forces where pension may be claimed
-(1)
-(2)
-(2A)
-(3) Where any claim is made against the Crown in respect of any damage, loss, or injury sustained or alleged to have been sustained by or through or in connection with the use of any service aircraft, the provisions of section 97 of the Civil Aviation Act 1990 shall, notwithstanding anything in section 3 of that Act, apply with respect to the aircraft as if the applicable provisions of that Act and of any rules made under that Act (if any) have been complied with.
+[Repealed]
 
 ### 10 Claims in respect of visiting forces
 [Repealed]
