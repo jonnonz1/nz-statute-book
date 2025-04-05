@@ -1,5 +1,5 @@
 # Smokefree Environments and Regulated Products Act 1990
-_Consolidation as at 2024-12-18_
+_Consolidation as at 2025-04-05_
 
 > Title
 
@@ -19,7 +19,7 @@ _Consolidation as at 2024-12-18_
       (i) a substance forming part of the product that has been derived or refined from vegetable matter; and
       (ii) any wrapping forming part of the product that is not itself dried, or dried and cured, vegetable matter; and
     (c) in relation to a vaping substance, means a substance that is not propylene glycol or vegetable glycerin
-  - **aircraft** has the same meaning as in section 2 of the Civil Aviation Act 1990
+  - **aircraft** has the same meaning as in section 5 of the Civil Aviation Act 2023
   - **approved evidence of age document** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
   - **approved Internet site** means an Internet site to which a person’s approval as a specialist vape retailer applies
   - **approved vaping premises** means premises to which a person’s approval as a specialist vape retailer applies
