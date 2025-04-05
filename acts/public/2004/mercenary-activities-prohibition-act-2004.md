@@ -1,5 +1,5 @@
 # Mercenary Activities (Prohibition) Act 2004
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Mercenary Activities (Prohibition) Act 2004.
@@ -121,7 +121,7 @@ Every person commits an offence, and is liable on conviction to imprisonment for
   (b) if any of the acts or omissions is alleged to have occurred on board—
     (i) a ship registered, or required to be registered, under the Ship Registration Act 1992; or
     (ii) a ship used as a ship of the New Zealand Defence Force; or
-    (iii) an aircraft registered, or required to be registered, in New Zealand under the Civil Aviation Act 1990; or
+    (iii) an aircraft registered, or required to be registered, in New Zealand under the Civil Aviation Act 2023; or
     (iv) an aircraft for the time being used as an aircraft of the New Zealand Defence Force; or
     (v) an aircraft that is leased to a lessee whose principal place of business is in New Zealand, or who is a New Zealand citizen or a person ordinarily resident in New Zealand; or
   (c) if a person in respect of whom the offence is alleged to have been committed—
