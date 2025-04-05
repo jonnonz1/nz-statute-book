@@ -1,5 +1,5 @@
 # Civil Aviation Amendment Act 1991
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2025-04-05_
 
 > An Act to amend the Civil Aviation Act 1990, and to make other provisions with respect to civil aviation
 
