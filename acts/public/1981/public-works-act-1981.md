@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-04-05_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -11,8 +11,6 @@ _Consolidation as at 2023-12-23_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **aerodrome** means any defined area of land or water intended or designed to be used either wholly or partly for the landing, departure, movement, and servicing of aircraft; and includes any buildings, installations, roads, and equipment on or adjacent to any such area used in connection with the aerodrome or its administration; and also includes any defined air space required for the safe operation of aircraft using the aerodrome; and also includes a military airfield
-  - **airport authority** has the same meaning as in the Airport Authorities Act 1966
   - **Chief Surveyor** means the Chief Surveyor appointed for the land district in which is situated any land to be dealt with under this Act; and includes his deputy
   - **common marine and coastal area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **construction** and , in relation to a work, include the establishment, constitution, operation, maintenance and undertaking of the work; and and have corresponding meanings
@@ -34,7 +32,7 @@ In this Act, unless the context otherwise requires,—
       (ii) the council of a university:
       (iii) a wānanga:
       (iv) Te Pūkenga—New Zealand Institute of Skills and Technology or any of its subsidiaries that provide education or training (or both):
-    (c) an airport authority:
+    (c)
     (d) any other person or body (however designated) having authority, under any Act, to undertake the construction or execution of any public work
   - **local SPV work** means eligible infrastructure—
     (a) that is constructed or intended to be constructed by or under the control of an SPV, or for the time being under the control of an SPV; and
