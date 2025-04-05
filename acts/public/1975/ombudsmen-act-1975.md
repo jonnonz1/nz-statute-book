@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2025-01-26_
+_Consolidation as at 2025-04-05_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
