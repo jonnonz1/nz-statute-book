@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2024-08-02_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -278,7 +278,7 @@ Nothing in this Act applies to the sale or supply of alcohol by a person, in the
   (d) for a canteen established with the authority of the board of Fire and Emergency New Zealand, means that board.
 
 ### 11 Authorised sales of alcohol at international airports exempted
-This Act is subject to section 96 of the Civil Aviation Act 1990.
+This Act is subject to sections 252 and 426 of the Civil Aviation Act 2023.
 
 ### 12 Homestays exempted
 (1) This subsection applies to an individual person who—
