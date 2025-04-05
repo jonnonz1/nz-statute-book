@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2025-02-02_
+_Consolidation as at 2025-04-05_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -12,7 +12,7 @@ _Consolidation as at 2025-02-02_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **activity** includes a trade, business, or occupation
-  - **aircraft** has the same meaning as in the Civil Aviation Act 1990
+  - **aircraft** has the same meaning as in the Civil Aviation Act 2023
   - **amend** , in relation to any conservation management strategy, conservation management plan, freshwater fisheries management plan, or sports fish and game management plan, means any change that does not affect the objectives of the strategy or plan
   - **Anglers Notice** means a notice made under section 26R
   - **animal** means any member of the animal kingdom other than a human being
@@ -21,7 +21,7 @@ _Consolidation as at 2025-02-02_
   - **bed** means—
     (a) in relation to any river, the space of land which the waters of the river cover at its fullest flow without overtopping the banks; and
     (b) in relation to a lake, the space of land which the waters of the lake cover at its highest level without exceeding its physical margin
-  - **certified aerodrome** means an aerodrome licensed under the Civil Aviation Regulations 1953 or certificated under rules made under the Civil Aviation Act 1990
+  - **certified aerodrome** means an aerodrome certificated under rules made under the Civil Aviation Act 2023
   - **common marine and coastal area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **companion dog** means a dog certified by the Top Dog Companion Trust as being a companion dog or a dog under training as a companion dog
   - **concession** or —
