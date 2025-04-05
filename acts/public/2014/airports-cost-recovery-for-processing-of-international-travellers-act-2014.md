@@ -1,5 +1,5 @@
 # Airports (Cost Recovery for Processing of International Travellers) Act 2014
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Airports (Cost Recovery for Processing of International Travellers) Act 2014.
@@ -20,12 +20,12 @@ In this Act, unless the context otherwise requires,—
   - **agency** means, in relation to the processing of travellers under—
   (a) the Biosecurity Act 1993, the Ministry for Primary Industries:
   (b) the Customs and Excise Act 2018, Customs:
-  (c) the Civil Aviation Act 1990, the Aviation Security Service
-  - **Aviation Security Service** means the Aviation Security Service established and continued by the Civil Aviation Authority under section 72B(2)﻿(ca) of the Civil Aviation Act 1990
+  (c) the Civil Aviation Act 2023, the Aviation Security Service
+  - **Aviation Security Service** means the Aviation Security Service established and continued by the Civil Aviation Authority under section 23(d) of the Civil Aviation Act 2023
   - **chief executive** means one of the following:
     (a) in relation to the Ministry for Primary Industries, the Director-General:
     (b) in relation to Customs, the Comptroller of Customs:
-    (c) in relation to the Aviation Security Service, the General Manager of the Aviation Security Service
+    (c) in relation to the Aviation Security Service, the Director of Civil Aviation
   - **cost recovery period** means—
     (a) a period prescribed as the cost recovery period under section 11 that begins as stated in section 6(2); or
     (b) if no period is prescribed, 3 years beginning as stated in section 6(2)
@@ -37,14 +37,14 @@ In this Act, unless the context otherwise requires,—
     (b) if no period is prescribed, 6 months beginning as stated in section 6(3)
   - **international airport** means an airport at which scheduled international flights arrive or depart
   - **Minister** means the Minister for Primary Industries
-  - **operator** , in relation to an international airport, means the holder of an aerodrome operating certificate issued in relation to the international airport in accordance with a rule made under section 30 or 34A of the Civil Aviation Act 1990
+  - **operator** , in relation to an international airport, means the holder of an aerodrome operating certificate issued in relation to the international airport in accordance with a rule made under section 52 or 63 of the Civil Aviation Act 2023
   - **prescribed charge** means a charge prescribed or provided for by regulations made under section 11
   - **processing** , in relation to a traveller, means—
     (a) the activities carried out at international airports by the Ministry for Primary Industries under the Biosecurity Act 1993 to—
       (i) determine what goods are in the possession or control of the traveller; and
       (ii) ascertain whether any or all of the goods may be cleared for entry into New Zealand under section 26 of that Act; or
-    (b) the activities carried out at international airports by the Aviation Security Service under the Civil Aviation Act 1990 to—
-      (i) screen the traveller and the traveller's baggage; and
+    (b) the activities carried out at international airports by the Aviation Security Service under the Civil Aviation Act 2023 to—
+      (i) search the traveller and the traveller's baggage; and
       (ii) ensure the safety and security of the civil aviation system; or
     (c) the activities carried out at international airports by Customs under the Customs and Excise Act 2018 to—
       (i) determine the traveller's eligibility to enter or leave New Zealand; and
@@ -102,8 +102,8 @@ Despite sections 8 and 9, a prescribed charge for the processing of travellers b
   (e) a person travelling on an aircraft that is being used specifically for the military, diplomatic, or ceremonial purposes of a government:
   (f) a person in transit through New Zealand who—
     (i) does not leave the transit, arrival, or departure area of the airport; or
-    (ii) leaves the transit, arrival, or departure area of the airport only because of an interruption to a flight caused by unserviceability of an aircraft or other essential facility or caused by any other delay beyond the control of the person or the airline concerned:
-  (g) any other person or class of persons that the Minister responsible for the administration of the Civil Aviation Act 1990 specifies by notice in the Gazette under regulation 20(2)﻿(g) of the Civil Aviation Charges Regulations (No 2) 1991.
+    (ii) leaves the transit, arrival, or departure area of the airport only because of an interruption to a flight caused by unserviceability of an aircraft or other essential facility or caused by any other delay beyond the control of the person or the airline concerned.
+  (g)
 
 **Cost recovery**
 
@@ -144,7 +144,7 @@ Despite sections 8 and 9, a prescribed charge for the processing of travellers b
   (b) advise the Minister of the results of the consultation.
 (3) The Director-General must carry out the consultation required by subsection (2) in conjunction with—
   (a) the Comptroller of Customs, if the regulations relate to the processing of travellers by Customs:
-  (b) the General Manager of the Aviation Security Service if the regulations relate to the processing of travellers by the Aviation Security Service.
+  (b) the Director of Civil Aviation if the regulations relate to the processing of travellers by the Aviation Security Service.
 (4) The process for consultation must, to the extent practicable in the circumstances, include—
   (a) giving adequate and appropriate notice of the intention to make the regulations; and
   (b) providing a reasonable opportunity for interested persons to make submissions.
