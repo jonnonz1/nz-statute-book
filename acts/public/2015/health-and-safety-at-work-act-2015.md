@@ -1,5 +1,5 @@
 # Health and Safety at Work Act 2015
-_Consolidation as at 2025-04-01_
+_Consolidation as at 2025-04-05_
 
 ### 1 Title
 This Act is the Health and Safety at Work Act 2015.
@@ -163,12 +163,12 @@ Nothing in Part 3 applies to a volunteer worker.
 In this Act, unless the context otherwise requires,—
   - **ACC** means the Accident Compensation Corporation continued by section 259 of the Accident Compensation Act 2001
   - **adverse conduct** has the meaning given in section 88
-  - **aircraft** has the same meaning as in section 2(1) of the Civil Aviation Act 1990
+  - **aircraft** has the same meaning as in section 5 of the Civil Aviation Act 2023
   - **approved code of practice** means a code of practice approved by the Minister under section 222
   - **Armed Forces** has the same meaning as in section 2(1) of the Defence Act 1990
   - **associate coroner** means a person who holds office as an associate coroner under the Coroners Act 2006
   - **authorised** has the meaning given in section 203
-  - **CAA** means the Civil Aviation Authority of New Zealand established by section 72A of the Civil Aviation Act 1990
+  - **CAA** means the Civil Aviation Authority of New Zealand continued by section 20 of the Civil Aviation Act 2023
   - **cease work** has the meaning given in section 82
   - **Chief of Defence Force** means the officer appointed under section 8 of the Defence Act 1990
   - **compliance power** means the functions and powers conferred on an inspector or a health and safety medical practitioner (as relevant) under this Act
