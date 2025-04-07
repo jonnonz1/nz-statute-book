@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2025-03-31_
+_Consolidation as at 2025-04-07_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -125,6 +125,7 @@ This Act has the following additional purposes:
     (a) in the case of a company within the meaning of section 2(1) of the Companies Act 1993, the constitution of the company; and
     (b) in the case of any other entity, the documents or instruments constituting or defining the constitution of the entity
   - **consumer credit contract** has the same meaning as in section 11 of the Credit Contracts and Consumer Finance Act 2003
+  - **consumer insurance contract** has the meaning set out in section 446P(1)
   - **continuous disclosure exemption** means an exemption or a waiver of a continuous disclosure provision or provisions of the listing rules of the licensed market
   - **continuous disclosure obligation** means an obligation under section 270 and any listing rules with which that section requires compliance
   - **continuous disclosure provisions** has the meaning set out in section 271
@@ -132,7 +133,9 @@ This Act has the following additional purposes:
     (a) relates to financial products that the issuer, in the ordinary course of its business, continuously offers; and
     (b) is not the first PDS to be lodged with the Registrar in respect of that class of financial products
   - **continuous issuer** means an issuer that in the ordinary course of its business continuously offers financial products
-  - **contract of insurance** has the same meaning as in section 7 of the Insurance (Prudential Supervision) Act 2010
+  - **contract of insurance** —
+    (a) has the same meaning as in section 7 of the Insurance (Prudential Supervision) Act 2010; but
+    (b) in subparts 6A and 6B of Part 6, does not include a contract of reinsurance within the meaning of that Act
   - **contributor** , in relation to a financial benchmark, has the meaning set out in section 448C(4)
   - **controlling owner** , in relation to any person, has the meaning set out in section 4 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 (applied to that person as if it were a financial service provider even if it is not)
   - **convertible note** has the same meaning as in section YA 1 of the Income Tax Act 2007
@@ -243,6 +246,7 @@ This Act has the following additional purposes:
     (b) in Part 7A (other than subpart 1), means a group comprising a climate reporting entity and its subsidiaries
   - **group climate statements** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
   - **group financial statements** has the same meaning as in section 7 of the Financial Reporting Act 2013
+  - **health insurance** means insurance against a liability to pay fees or charges relating to the provision of a health service (within the meaning of section 5(1) of the Health Practitioners Competence Assurance Act 2003)
   - **in the business of** , in relation to any service or other activity, means carrying on a business of that type (whether or not the business is the person's only business or the person's principal business)
   - **indemnify** includes relieve, exempt, or excuse from liability, whether before or after the liability arises
   - **independent trustee** , in relation to a restricted scheme, means the trustee, or director of a sole corporate trustee, who is the licensed independent trustee for the purposes of the restricted scheme
@@ -296,6 +300,9 @@ This Act has the following additional purposes:
     (a) that are required to be licensed under Part 6; or
     (b) for which a person holds a licence under Part 6 (whether or not required to do so)
   - **licensed NBDT** has the same meaning as in section 4(1) of the Non-bank Deposit Takers Act 2013
+  - **life insurance** —
+    (a) means insurance of the kind described in section 84(1)﻿(a) to (f) of the Insurance (Prudential Supervision) Act 2010; but
+    (b) does not include insurance under a contract referred to in section 84(3) or (4) of that Act
   - **limited disclosure document** or , in relation to an offer referred to in clause 26(1) of Schedule 1, means a limited disclosure document for the offer required by regulations made for the purposes of that clause
   - **listed issuer** means—
     (a) a person that is a party to a listing agreement with a licensed market operator in relation to a licensed market (and includes a licensed market operator that has financial products quoted on its own licensed market):
@@ -5169,14 +5176,12 @@ A pecuniary penalty order may not be made for a contravention, or involvement in
       (i) a contract referred to in section 15(1)﻿(d) of that Act unless the contract is of a class prescribed by regulations made under this Act to be a class of consumer credit contract for the purposes of this definition; or
       (ii) a lease referred to in section 16 of that Act
   - **consumer insurance contract** —
-    (a) means a contract of insurance entered into by a New Zealand policyholder wholly or predominantly for personal, domestic, or household purposes (see section 446S); and
+    (a) means a contract of insurance ordinarily entered into by a New Zealand policyholder wholly or predominantly for personal, domestic, or household purposes; and
     (b) also includes a contract referred to in subsection (2); but
     (c) does not include—
       (i) a contract to the extent that it provides for life insurance or health insurance; or
       (ii) a contract that is subject to a certificate under section 446T(1)
-  - **contract of insurance** has the same meaning as in section 7 of the Insurance (Prudential Supervision) Act 2010 (but does not include a contract of reinsurance within the meaning of that Act)
   - **creditor** has the same meaning as in section 5 of the Credit Contracts and Consumer Finance Act 2003
-  - **health insurance** means insurance against a liability to pay fees or charges relating to the provision of a health service (within the meaning of section 5(1) of the Health Practitioners Competence Assurance Act 2003)
   - **incentive** has the meaning set out in section 446M
   - **insurer** means a person who—
     (a) carries on insurance business in New Zealand (within the meaning of section 8 of the Insurance (Prudential Supervision) Act 2010); and
@@ -5184,7 +5189,6 @@ A pecuniary penalty order may not be made for a contravention, or involvement in
       (i) a consumer insurance contract:
       (ii) a contract of insurance that provides for life insurance or health insurance (or both)
   - **involved** has the meaning set out in section 446Q(3) and (4)
-  - **life insurance** means insurance of the kind described in section 84(1)﻿(a) to (f) of the Insurance (Prudential Supervision) Act 2010
   - **New Zealand policyholder** has the same meaning as in section 6 of the Insurance (Prudential Supervision) Act 2010
   - **relevant service** has the meaning set out in section 446F
   - **retail client** —
@@ -5193,7 +5197,8 @@ A pecuniary penalty order may not be made for a contravention, or involvement in
 (2) For the purposes of paragraph (b) of the definition of consumer insurance contract in subsection (1), a contract of the kind referred to in this subsection is a contract of insurance to the extent that—ExampleA bank enters into a contract of insurance with an insurer.The bank then offers credit cards to its customers that provide them the benefit of travel insurance cover under that contract.The bank enters into the contract of insurance for commercial purposes. However, the contract is a consumer insurance contract to the extent that its customers have the benefit of the travel insurance cover for their personal purposes.
   (a) it is entered into by the policyholder in order to provide insurance cover for 1 or more other persons, or it is varied or extended in order to provide cover for 1 or more other persons; and
   (b) those other persons are not parties to the contract; and
-  (c) those other persons have the benefit of that insurance cover wholly or predominantly for personal, domestic, or household purposes.
+  (c) those other persons would ordinarily have the benefit of that insurance cover wholly or predominantly for personal, domestic, or household purposes.
+(3) Subsection (2) does not apply to a contract if the insurance cover referred to in that subsection is only a minor or an incidental part of the insurance cover provided by the contract as a whole.
 
 ### 446Q Meaning of intermediary
 (1) In this Act, a person is an intermediary if—ExamplesExample 1A bank enters into a master agreement with a company (A). The agreement provides for A to arrange home loans for the bank. It provides for a commission to be paid to A for arranging the home loans and for the processes to be followed by A. A is an intermediary.Independently of the bank, A arranges with mortgage brokers, including a person (B), for home loans to be arranged through A’s master agreement. The mortgage brokers and A agree on the commission, and the support services, that A will give to the mortgage brokers for arranging the loans.B arranges a loan for a consumer and submits the application through A’s processes and the master agreement. The bank pays A a commission for the loan. A deducts a portion of the commission for A’s involvement in arranging the loan and pays the balance of the commission to B.B is also an intermediary.Example 2A broker arranges contracts of insurance for policyholders. The broker is paid only by the policyholders (and has no arrangement with insurers that directly or indirectly provides for the payments). The broker is not an intermediary.
@@ -5226,15 +5231,15 @@ A pecuniary penalty order may not be made for a contravention, or involvement in
   (c) no tribunal, body, or authority that has jurisdiction in respect of A’s professional conduct may make an order against, or do any act in relation to, A as a result of A having made the report.
 
 ### 446S Presumption relating to consumer insurance contract
-In any proceedings under this Act in which a party claims that an insurance contract is a consumer insurance contract, it is presumed that the contract is a consumer insurance contract unless the contrary is established.
+[Repealed]
 
 ### 446T Effect of certificate from policyholder or client
-(1) An insurance contract is not a consumer insurance contract if the policyholder (P) certifies in writing before entering into the contract that P is entering into it wholly or predominantly for business purposes.
+(1) A contract of insurance is not a consumer insurance contract if the policyholder (P) certifies in writing before entering into the contract that P is entering into it wholly or predominantly for business purposes.
 (2) Subsection (1) does not apply to a contract referred to in section 446P(2).
 (3) A person (P) is not a retail client in relation to a relevant service referred to in section 446F(1)﻿(a)﻿(iii) if P certifies in writing before receiving the service that P is receiving the service as a wholesale client (within the meaning of section 49(2) of the Financial Service Providers (Registration and Dispute Resolution) Act 2008).
 (4) Subsection (1) or (3) does not apply if the financial institution, or the person who obtains the certificate, knew, or had reason to believe, at the time the certificate was given, that the certificate was false or misleading in a material particular.
 (5) A certificate is effective only if—
-  (a) the certificate is in a written document that is separate from the insurance contract or the contract for the relevant service; and
+  (a) the certificate is in a written document that is separate from the contract of insurance or the contract for the relevant service; and
   (b) P confirms that P has read and understood the consequences of giving the certificate (including that P will have fewer protections from unfair conduct).
 
 ### 446U Revocation of certification
