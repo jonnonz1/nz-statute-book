@@ -5,7 +5,7 @@ _Consolidation as at 2025-04-07_
 This Act is the Oranga Tamariki (Repeal of Section 7AA) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 8 April 2025.
 
 ## Part 1 — Amendments to Oranga Tamariki Act 1989
 
