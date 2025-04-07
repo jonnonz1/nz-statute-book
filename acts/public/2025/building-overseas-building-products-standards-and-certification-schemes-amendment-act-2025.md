@@ -5,8 +5,8 @@ _Consolidation as at 2025-04-07_
 This Act is the Building (Overseas Building Products, Standards, and Certification Schemes) Amendment Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after Royal assent.
-(2) However, the following sections come into force on a date or dates set by Order in Council:
+(1) This Act comes into force on 8 April 2025.
+(2) However, the following sections come into force on a date or dates set by Order in Council:The following table is small in size and has 3 columns that are grouped under the heading Provisions commenced by Order in Council.Provisions commenced by Order in CouncilProvisionsCommencement dateOrder in CouncilSection 5(2); section 6; section 10(2); section 12; section 13; section 14 (to the extent that it inserts section 390(1)﻿(ce) and (cf) into the Building Act 2004); section 15(3) and (4)8 August 2025Clause 2(2) of the Building (Overseas Building Products, Standards, and Certification Schemes) Amendment Act 2025 Commencement Order 2025This note is not part of the Act.
   (a) section 5(2):
   (b) section 6:
   (c) section 10(2):
@@ -14,7 +14,7 @@ This Act is the Building (Overseas Building Products, Standards, and Certificati
   (e) section 13:
   (f) section 14 (to the extent that it inserts section 390(1)﻿(ce) and (cf) into the Building Act 2004):
   (g) section 15(3) and (4).
-(3) Any part of this Act that has not come into force 2 years after Royal assent comes into force then.
+(3) Any part of this Act that has not come into force before 7 April 2027 comes into force then.
 (4) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Principal Act
