@@ -1,5 +1,5 @@
 # Oversight of Oranga Tamariki System Act 2022
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2025-04-08_
 
 ### 1 Title
 This Act is the Oversight of Oranga Tamariki System Act 2022.
@@ -272,9 +272,7 @@ The Monitor must, at least once every 3 years, prepare a State of the Oranga Tam
 
 ### 24 Annual report on outcomes for Māori children and young people and their whānau
 (1) The Monitor must prepare an annual report on the performance of the Oranga Tamariki system in respect of outcomes being achieved for Māori children and young people and their whānau.
-(2) When preparing the report, the Monitor must consider and be informed by—
-  (a) reports published under section 7AA(5) of the Oranga Tamariki Act 1989; and
-  (b) any other information obtained in accordance with this Act.
+(2) When preparing the report, the Monitor must consider and be informed by any information obtained in accordance with this Act.
 
 ### 25 Requests for reviews
 (1) The Monitor must carry out a review on any topic within their monitoring function at the request of the Minister responsible for the Monitor.
@@ -606,7 +604,7 @@ The Monitor must notify the person (or persons) prescribed by regulations made u
   (c) prescribing, for the purposes of section 21(3)﻿(b), intervals at which the Monitor must review their code of ethics:
   (d) prescribing any 1 or more persons who must be consulted when the Monitor is developing their code of ethics or any amendments to the code of ethics:
   (e) prescribing the minimum matters to be contained in the 3-yearly State of the Oranga Tamariki system report to be prepared by the Monitor under section 22, as those matters pertain generally, and with a specific focus on,—
-    (i) the application of section 7AA of the Oranga Tamariki Act 1989; and
+    (i) the performance of the duties of the chief executive of Oranga Tamariki set out in section 7(2)﻿(h) and (i) of the Oranga Tamariki Act 1989; and
     (ii) Māori children and young people and their whānau; and
     (iii) disabled children and young people:
   (f) prescribing the minimum matters to be contained in a report prepared by the Monitor under section 23 (annual report on compliance with national care standards regulations) or section 24 (annual report on outcomes for Māori children and young people and their whānau):
