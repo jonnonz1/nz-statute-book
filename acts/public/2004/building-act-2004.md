@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2024-11-26_
+_Consolidation as at 2025-04-08_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -162,6 +162,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **building levy** means a levy payable under section 53
   - **building method** has the meaning given to it by section 9B
   - **building product** has the meaning given to it by section 9A
+  - **building product specifications** means building product specifications issued under section 25B
   - **building work** —
     (a) means work that is either of the following:
       (i) for, or in connection with, the construction, alteration, demolition, or removal of a building:
@@ -292,12 +293,14 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (e) undertakes or proposes to undertake a drainage or sewerage system
   - **notice to fix** has the meaning given to it by section 164(2)
   - **NUO system** means a system owned or controlled by a network utility operator
+  - **NZ Standards Organisation** has the same meaning as in section 4(1) of the Standards and Accreditation Act 2015
   - **other property** —
     (a) means any land or buildings, or part of any land or buildings, that are—
       (i) not held under the same allotment; or
       (ii) not held under the same ownership; and
     (b) includes a road
   - **outbuilding** has the same meaning as in the building code
+  - **overseas standards organisation** means an international, national, or regional organisation with functions similar to the NZ Standards Organisation
   - **owner** , in relation to land and any buildings on the land,—
     (a) means the person who—
       (i) is entitled to the rack rent from the land; or
@@ -397,6 +400,8 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **stand-alone building consent authority** means a building consent authority that is not—
     (a) a territorial authority; or
     (b) a regional authority
+  - **standards certification organisation** means an organisation that administers or operates under a standards certification scheme
+  - **standards certification scheme** means a scheme under which a building product is assessed against a standard
   - **statutory authority** means an authority or organisation that has the statutory power to classify or register land or buildings for any purpose
   - **supervise** , in relation to building work, means provide control or direction and oversight of the building work to an extent that is sufficient to ensure that the building work—
     (a) is performed competently; and
@@ -508,6 +513,7 @@ In this Act, building does not include—
 ### 11 Role of chief executive
 Under this Act, the chief executive—
   (a) issues acceptable solutions or verification methods and reviews those documents; and
+  (aa) issues building product specifications and ensures that the matters required to be published and kept available under section 25C are published and kept available; and
   (b) warns against, or bans the use of, particular building products or building methods; and
   (ba) determines applications for national multiple-use approvals; and
   (c) specifies the kinds of applications for a building consent that must be copied to Fire and Emergency New Zealand under section 46; and
@@ -736,7 +742,8 @@ A person may comply with an acceptable solution or a verification method in orde
   (a) relates to contractual or commercial requirements; or
   (b) relates to regulatory approvals, dispensations, or waivers; or
   (c) is inconsistent with this Act or the regulations.
-(3) Material may be incorporated by reference in an acceptable solution or a verification method in accordance with sections 405 to 413.
+(2A) An acceptable solution or a verification method may refer to building product specifications.
+(3) Other material may be incorporated by reference in an acceptable solution or a verification method in accordance with sections 405 to 413.
 
 ### 25A Acceptable solutions and verification methods to be available on Ministry's Internet site
 The chief executive must ensure that—
@@ -745,6 +752,37 @@ The chief executive must ensure that—
   (c) promptly after an acceptable solution or a verification method is amended, there are publicly available on the Ministry's Internet site—
     (i) a digital copy of the amendment; and
     (ii) a digital copy of the acceptable solution or verification method in its up-to-date form.
+
+### 25B Building product specifications for use in complying with acceptable solutions or verification methods
+(1) The chief executive may, by notice, issue building product specifications that may be referred to in an acceptable solution or a verification method.
+(2) Building product specifications may include specifications for building products in relation to any of the following:
+  (a) manufacture:
+  (b) fabrication:
+  (c) testing:
+  (d) quality control:
+  (e) physical properties:
+  (f) performance:
+  (g) installation:
+  (h) maintenance.
+(3) The chief executive may, by notice, amend or revoke building product specifications at any time.
+(4) Sections 29, 30, and 409 do not apply if any amendments need to be made to an acceptable solution or a verification method—
+  (a) to refer to building product specifications; or
+  (b) because of the amendment or revocation of building product specifications.
+
+### 25C Public notification and availability
+(1) The chief executive must ensure that, promptly after making a notice under section 25B(1) or (3), notice of its making is published in the Gazette.
+(2) The notice in the Gazette must include the following information:
+  (a) a statement that a notice was made under section 25B(1) or (3) (as applicable) by the chief executive:
+  (b) the title of the notice made under section 25B(1) or (3):
+  (c) the date on which the notice under section 25B(1) or (3) was made:
+  (d) the Ministry’s Internet site where the notice made under section 25B(1) or (3), and the related building product specifications, are published.
+(3) The chief executive must also ensure that—
+  (a) each notice made under section 25B(1) or (3) is publicly available on the Ministry’s Internet site; and
+  (b) promptly after the building product specifications are issued by notice under section 25B(1), those specifications are made publicly available on the Ministry’s Internet site; and
+  (c) even after the building product specifications have been amended or revoked by notice under section 25B(3), a digital copy of them in their original form continues to be publicly available on the Ministry’s Internet site; and
+  (d) promptly after the building product specifications are amended by notice under section 25B(3), each of the following is made publicly available on the Ministry’s Internet site:
+    (i) a digital copy of the amendment:
+    (ii) a digital copy of the building product specifications in their up-to-date form.
 
 **Warnings and bans**
 
@@ -3556,7 +3594,7 @@ The chief executive must—
 
 ### 169 Chief executive must monitor current and emerging trends in building design, etc, and must report annually to Minister
 (1) The chief executive must monitor current and emerging trends in building design, building technologies, and other factors that may affect—
-  (a) the building code and acceptable solutions and verification methods:
+  (a) the building code, acceptable solutions, verification methods, and building product specifications:
   (b) any warnings or bans under section 26(2) in force in relation to a building product or building method:
   (c) any guidance information published by the chief executive under section 175:
   (d) any other functions and duties of the chief executive under this Act.
@@ -3573,7 +3611,7 @@ The chief executive must, in performing his or her functions, consult with,—
 ### 171 Chief executive may seek advice from building advisory panel
 (1) The chief executive may, at any time, seek advice from a building advisory panel appointed under section 172 on—
   (a) current and emerging trends in building design, building technologies, and other factors that may affect—
-    (i) the building code and acceptable solutions and verification methods:
+    (i) the building code, acceptable solutions, verification methods, and building product specifications:
     (ii) any warnings or bans under section 26(2) in force in relation to a building product or building method:
     (iii) any guidance information published by the chief executive under section 175:
   (b) whether this Act or the regulations are achieving their purpose:
@@ -3615,6 +3653,9 @@ The chief executive must, in performing his or her functions, consult with,—
 
 ### 175 Chief executive may publish guidance information
 (1) The chief executive may publish information for the guidance of—
+  (aaa) each person living or incorporated in New Zealand who—
+    (i) is the manufacturer or importer of a building product; or
+    (ii) sells a building product by wholesale or otherwise distributes the building product by wholesale; and
   (a) any of the following persons to assist them in complying with this Act:
     (i) territorial authorities:
     (ii) disciplinable entities (as defined in section 200):
@@ -6938,6 +6979,7 @@ On an application under section 381(1), the District Court may direct the chief 
   (ca) any person engaged by the chief executive under section 207F to exercise a power of investigation to assist in the investigation of a building failure; and
   (cb) a responsible person under subpart 6B of Part 2 and any person engaged or authorised by a responsible person under that subpart to exercise a power under that subpart; and
   (cc) a constable who exercises a power under section 133BR; and
+  (cd) any person engaged by the chief executive to assist the chief executive in relation to decisions to be made under section 22(1) or 25B; and
   (d) any member, employee, or agent of a territorial authority or regional authority; and
   (e) any member of a committee appointed by the chief executive, a territorial authority, or a regional authority.
 (2) No civil proceedings may be brought against a person to whom this section applies for any act done or omitted to be done by that person in good faith under this Act.
@@ -6946,8 +6988,9 @@ On an application under section 381(1), the District Court may direct the chief 
 Any civil proceedings against a building consent authority in respect of the performance of its statutory function in issuing a building consent or a code compliance certificate must be brought in tort and not in contract.
 
 ### 392 Building consent authority not liable
-(1) No civil proceedings may be brought against a building consent authority for anything done or omitted to be done in good faith in reliance on any of the following documents:
+(1) No civil proceedings may be brought against a building consent authority for anything done or omitted to be done in good faith in reliance on any of the following documents or matters:
   (a) an acceptable solution or a verification method:
+  (aa) any building product specifications:
   (b) a determination made by the chief executive under subpart 1 of Part 3:
   (c) a current registered product certificate:
   (caa) a current manufacturer’s certificate for a modular component:
@@ -7132,6 +7175,9 @@ Part 10 of Te Ture Whenua Maori Act 1993 applies to the service of notices under
   (u) prescribing, in relation to product certification bodies,—
     (i) the criteria and standards for certification of a building product or building method for the purposes of section 269 (which must include, without limitation, criteria and standards about the effects on human health of the building product or building methods):
     (ii) in relation to reviews under section 270, matters that a registered PCB must take into account, and requirements that a registered PCB must comply with, in carrying out an audit:
+  (uaa) prescribing the criteria—
+    (i) to be applied by the chief executive under section 272HA(2); or
+    (ii) to be applied by the Minister under section 272HB(2) or (3):
   (ua) prescribing the kinds of building products that are modular components for the purposes of the definition of modular component in section 7:
   (ub) prescribing, in relation to modular component manufacturer certification bodies,—
     (i) for the purposes of section 272J(1),—
@@ -7219,6 +7265,7 @@ Any regulations made under section 402(1)﻿(n) must not come into force earlier
 (4) In this section and in sections 406 to 413, instrument means—
   (a) any regulations; and
   (b) any acceptable solution or verification method; and
+  (ba) any building product specifications; and
   (c) any Order in Council made under section 9A, 9B, 41, or 285; and
   (d) the EPB methodology set under section 133AV; and
   (e) product certification scheme rules made under section 272E; and
