@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2024-05-01_
+_Consolidation as at 2025-05-01_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -36,7 +36,6 @@ The purpose of this Act is to—
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **Access Panel** means the Access Panel established by regulations made under section 63
-  - **allocation period** means the quota year or years for which export licences are allocated in accordance with section 26
   - **amalgamation date** means the date on which the new co-op amalgamation becomes effective
   - **application period** means a period set by new co-op as an application period under section 75
   - **associated person** has the meaning given by subsection (2)
@@ -76,9 +75,14 @@ The purpose of this Act is to—
     (c) the published price on the date that an application is made or a notice of withdrawal is given less 7.5% if the June price referred to in paragraph (a) is less than the lowest price in the price range
   - **described as organic** has the meaning given in section 9 of the Organic Products and Production Act 2023
   - **designated market** means a market listed in Schedule 5A
-  - **eligible participant** means a person who—
+  - **eligible participant** , in relation to the allocation of export licences for a designated market, means a person who—
     (a) is eligible to hold an export licence; and
-    (b) collects at least 0.1% of total milk solids collected from farmers in New Zealand based on the most representative data of total milk solids collected in New Zealand in the latest year that data is available prior to an allocation period
+    (b) based on their export volume history, is entitled to receive a share of export licences (not including reserve export licences) that equates to a volume of 20 tonnes or more of the product for the quota year that the participant is applying for
+  - **eligible reserve participant** , in relation to the allocation of reserve export licences for a designated market, means a person who—
+    (a) is eligible to hold an export licence; and
+    (b) based on their export volume history, is one of the following:
+      (i) a person who does not fall within the definition of eligible participant because they do not meet the criteria set out in paragraph (b) of that definition:
+      (ii) an eligible participant who is only entitled to receive a share of export licences (not including reserve export licences) that equates to a volume of less than 200 tonnes of the product for the quota year that the participant is applying for
   - **entity** means any of the following:
     (a) a company or other body corporate:
     (b) a corporation sole:
@@ -88,7 +92,8 @@ The purpose of this Act is to—
     (d) an unincorporated body (including a partnership)
   - **EU FTA** means the Free Trade Agreement between New Zealand and the European Union, done at Brussels on 9 July 2023
   - **export** means any shipment in any craft for transportation to a point outside New Zealand
-  - **export licence** , in respect of a designated market, means a licence allocated under section 26
+  - **export licence** , in respect of a designated market, means a licence allocated under section 26 and includes a reserve export licence
+  - **export volume history** , in relation to a person eligible to hold an export licence, means the total volume of products exported under a Tariff heading to all export markets over the previous 3 consecutive seasons
   - **farm gate milk price** means the total cost of milk divided by kilograms of milk solids that new co-op pays out to shareholder farmers in a season
   - **general export licence** means an export licence allocated under section 26(5)
   - **herd testing** means the testing of milk cows for the purpose of recording the production of individual cows in respect of milk or components of milk
@@ -168,6 +173,8 @@ The purpose of this Act is to—
     (f) a grandparent of that person:
     (g) a parent, step-parent, brother, or sister, including a stepbrother or stepsister, of that person's spouse, civil union partner, or de facto partner
   - **relevant interest** has the same meaning as in sections 235 to 238 of the Financial Markets Conduct Act 2013
+  - **reserve export licence** means an export licence that has been reserved under section 26AA
+  - **reserve portion** means the portion of available export licences, per designated market, that have been reserved under section 26AA
   - **restricted by an organic standard** has the meaning given in section 10 of the Organic Products and Production Act 2023
   - **season** means a period of 12 months beginning on 1 June in a year and ending on 31 May in the following year
   - **shareholding farmer** means a dairy farmer who is registered as the holder of co-operative shares
@@ -175,6 +182,7 @@ The purpose of this Act is to—
   - **specified subpart 5 provisions** means the provisions specified in section 109A
   - **supply redemption rights** means the rights issued or to be issued by new co-op and defined as supply redemption rights in the constitution of new co-op
   - **surrender amount** means the amount payable to a shareholding farmer who reduces or ceases supply under section 97
+  - **Tariff heading** has the same meaning as in section 2(1) of the Tariff Act 1988
   - **tariff quota** includes trade restrictions with similar effect to a tariff quota
   - **total cost of milk** means the total calculated by—
     (a) getting a sum by adding together all payments to which all the following apply:
@@ -184,6 +192,7 @@ The purpose of this Act is to—
     (b) deducting from the sum—
       (i) the total organic milk premium for the season; and
       (ii) the total winter milk premium for the season
+  - **total export volume history** means the combined total volume of all products exported under a Tariff heading to all export markets over the previous 3 consecutive seasons by the eligible participants and eligible reserve participants who are seeking to be allocated export licences in the upcoming quota year
   - **total organic milk premium** means the total premium paid to shareholding farmers for the supply of organic milk to new co-op and any body that is an interconnected body corporate of new co-op in a season
   - **total winter milk premium** means the total premium paid to shareholding farmers for the supply of winter milk to new co-op and any body that is an interconnected body corporate of new co-op in a season
   - **trade** has the same meaning as in section 241(3) of the Financial Markets Conduct Act 2013, and for the avoidance of doubt includes exchange
@@ -266,6 +275,11 @@ This Act binds the Crown.
 
 ### Subpart 3 — International trade with designated markets
 
+### 20 Application of this subpart
+In this subpart, any reference to dairy products includes—
+  (a) dairy material extracted from any milking animal; and
+  (b) any dairy material derived or processed from milk extracted from any milking animal.
+
 **Access to designated markets**
 
 ### 21 Purpose
@@ -300,7 +314,7 @@ This Act binds the Crown.
 ### 25A Export licence conferred on Board by section 24 or 25 must be recorded in register of export licence holders
 [Repealed]
 
-### 26 Later allocation of export licences
+### 26 Allocation of export licences
 (1) The following are vested in or revert to the Crown:
   (a)
   (b)
@@ -308,7 +322,7 @@ This Act binds the Crown.
   (d) any rights in respect of designated markets listed in Schedule 5A that become available at the expiry of any other allocations:
   (e) any rights in respect of the United Kingdom listed in Schedule 5A that become available at the expiry of any other allocations.
 (2) Export licences for the designated markets listed in Schedule 5A must be allocated or reallocated by, or on behalf of, the Crown.
-(3) The Minister must, in accordance with the rules set out in Schedule 5B, allocate export licences to multiple participants for the designated markets listed in Schedule 5A unless subsection (4) applies.
+(3) The Minister must, in accordance with the rules set out in Schedule 5B, allocate export licences to multiple participants for the designated markets listed in Schedule 5A unless subsection (4) or section 27 applies.
 (4) If the Minister is satisfied that an allocation under subsection (3) is not appropriate, having regard to the purpose in section 21(1), the Minister may recommend to the Governor-General that an Order in Council is made to allocate or reallocate export licences under subsection (7).
 (5) The Minister may allocate a general export licence for trade at the normal tariff (outside the terms of the quota), in respect of a designated market listed in Schedule 5A, that may be used by any person eligible to hold an export licence for any quantity of the product for which the licence applies.
 (6) Subsection (5) applies subject to section 29A.
@@ -318,6 +332,20 @@ This Act binds the Crown.
   (b) have regard to the purpose in section 21(1).
 (9) Subsection (1) does not limit the Minister’s power under subsection (3) or (5), or the Governor-General’s power under subsection (7), to allocate new licences in respect of those rights or quantities to the Board or new co-op.
 (10) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 26AA Reserve export licences
+(1) In this section, the definition of export licence in section 5 does not include a reserve export licence.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that reserve 10% of export licences per quota year for any 1 or more designated markets listed in Schedule 5A if the available export licences equate to a volume of 10,000 tonnes or more of product in that designated market.
+(3) Before making a recommendation under subsection (2), the Minister must be satisfied that—
+  (a) there is demand for reserve export licences from eligible reserve participants; and
+  (b) there is evidence that those persons will be able to use the reserve export licences; and
+  (c) the proposal to reserve licences is consistent with any import licensing and other requirements in the designated market; and
+  (d) the proposal to reserve licences is consistent with the purpose in section 21(1); and
+  (e) consultation has been undertaken with current holders of export licences to—
+    (i) assess the historical utilisation of their export licences; and
+    (ii) ascertain the potential impact that reserving export licences will have on their business; and
+    (iii) ascertain their views on the creation of a reserve portion.
+(4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 26A Commencement and expiry of UK quotas
 (1) If the UK FTA first comes into force on a day other than 1 January in any year, a transitional tariff rate quota must be applied in that year on a pro rata basis.
@@ -332,15 +360,31 @@ This Act binds the Crown.
 (1) If the EU FTA first comes into force on a day other than 1 January in any year, an EU FTA tariff quota must be applied in that year on a pro rata basis.
 (2) In this section, EU FTA tariff quota means an EU FTA tariff quota listed in Schedule 5A.
 
+### 27 Quota compliance programmes
+(1) This section applies to eligible participants and eligible reserve participants who did not obtain an approved quota compliance programme under the Animal Products (Regulated Control Scheme—Dairy Export Quota Products) Regulations 2008, for any 1 or more of the 3 quota years immediately before the quota year that the participant is applying for and in which they were also allocated an export licence.
+(2) Before those participants can be allocated licences under section 26(3), they must submit a statutory declaration to the Minister or a person authorised by the Minister setting out—
+  (a) the reasons why the participant did not obtain a quota compliance programme for each of the quota years they did not obtain one; and
+  (b) the reasons why the participant considers they should still be allocated an export licence or licences for the upcoming quota year.
+(3) If the Minister receives a statutory declaration under subsection (2), then the Minister may decide to allocate export licences to the participant if—
+  (a) they have been allocated licences in at least 1 of the 3 previous quota years; and
+  (b) they have not obtained an approved quota compliance programme for the corresponding quota year or years that they were allocated a licence; and
+  (c) the Minister is satisfied that the failure to obtain a quota compliance programme was—
+    (i) out of the participant’s control, for example,—
+      (A) if the participant was not able to export their products for which they had been allocated licences due to severe weather events or natural disasters that impacted on domestic productions, or disruption in a destination market due to war; or
+      (B) there was or is a delay to the receipt of a quota compliance programme, for example due to a lack or shortage of auditors; or
+    (ii) for any other reason that the Minister is satisfied explains the participant's failure to obtain a quota compliance programme in the given quota year.
+(4) The Minister must provide written notice to the participant of their decision under subclause (3) within a reasonable time frame, and in any event before the notification of allocations is made in the Gazette under clause 6 of Schedule 5B.
+(5) However, in subsection (1), any 1 or more of the 3 quota years does not include any of the 2023, 2024, or 2025 quota years.
+
 ### 27 Increases in rights to export to designated markets during initial period
 [Repealed]
 
 ### 27A Increases or reductions in rights to export to designated markets
 (1) This section applies if there is an increase or reduction in rights to secure economic benefits from designated markets that are not allocated in an existing export licence.
-(2) An increase in a right to export to a designated market during the course of an allocation period accrues on a pro rata basis to the registered holders of export licences at the time the increase first becomes available for use.
-(3) A reduction in a right to export to a designated market during the course of an allocation period applies on a pro rata basis to the registered holders of export licences for that designated market at the time the volumes reduce.
+(2) An increase in a right to export to a designated market during the course of a quota year accrues on a pro rata basis to the registered holders of export licences at the time the increase first becomes available for use.
+(3) A reduction in a right to export to a designated market during the course of a quota year applies on a pro rata basis to the registered holders of export licences for that designated market at the time the volumes reduce.
 (4)
-(5) An accrual under subsection (2) and a reduction under subsection (3) applies only for the remainder of the allocation period.
+(5) An accrual under subsection (2) and a reduction under subsection (3) applies only for the remainder of the quota year.
 (6) An accrual or reduction referred to in subsection (5) must be recorded in the register of export licence holders that is kept in accordance with section 29B.
 
 ### 28 Restriction on transfer of initial licences
@@ -371,7 +415,7 @@ This Act binds the Crown.
 (4) The competent authority must publicly notify the industry when a quota is filled in accordance with subsection (3).
 (5) When a quota is filled, the competent authority must, as soon as is reasonably practicable,—
   (a) publish a notice in the Gazette; and
-  (b) notify the eligible participants in any manner that the competent authority considers effective and appropriate, including electronically.
+  (b) notify the eligible participants and eligible reserve participants in any manner that the competent authority considers effective and appropriate, including electronically.
 (6) An export licence holder may use the export licence for trade at the normal tariff only for the remainder of the quota year in which publication and notification are made in accordance with subsection (5).
 
 **Maintaining register of licence holders**
@@ -425,15 +469,15 @@ For the purpose of determining and monitoring compliance with the rules set out 
     (iv) take photographs of any container, package, equipment, or thing.
 
 ### 29G Power to require information
-(1) For the purpose of determining and monitoring compliance with the rules set out in Schedule 5B, the chief executive, or a person authorised by the chief executive, may require an eligible participant or an employee or agent of an eligible participant to provide any relevant information or documents or answer any relevant questions.
+(1) For the purpose of determining and monitoring compliance with the rules set out in Schedule 5B, the chief executive, or a person authorised by the chief executive, may require an eligible participant, eligible reserve participant, or an employee or agent of a participant to provide any relevant information or documents or answer any relevant questions.
 (2) Any information, documents, or answers required under subsection (1) must be provided within a reasonable time to a person or place as directed by the chief executive, or a person authorised by the chief executive.
-(3) An eligible participant or an employee or agent of an eligible participant may not refuse to answer a question under subsection (1) on the ground that the answer would be likely to incriminate the eligible participant.
+(3) An eligible participant, eligible reserve participant, or an employee or agent of a participant may not refuse to answer a question under subsection (1) on the ground that the answer would be likely to incriminate the eligible participant or eligible reserve participant.
 (4) An incriminating answer under this section—
-  (a) may be used in civil or criminal proceedings against the eligible participant if it is a body corporate; but
-  (b) may not be used in civil or criminal proceedings against the employee or agent of the eligible participant who gave the incriminating answer.
+  (a) may be used in civil or criminal proceedings against the eligible participant or eligible reserve participant if it is a body corporate; but
+  (b) may not be used in civil or criminal proceedings against the employee or agent of the eligible participant or eligible reserve participant who gave the incriminating answer.
 
-### 29H Power to audit milk solids collection data
-(1) For the purpose of determining and monitoring compliance with the rules set out in Schedule 5B, the chief executive, or a person authorised by the chief executive, may audit the milk solids collection data received from an eligible participant.
+### 29H Power to audit export volume history
+(1) For the purpose of determining and monitoring compliance with the rules set out in Schedule 5B, the chief executive, or a person authorised by the chief executive, may audit the export volume history received from an eligible participant or eligible reserve participant.
 (2) Participants must be notified of the possibility of an audit on a cost-recovery basis at the time of an application for an export licence.
 (3) Participants may be charged a fee for an audit carried out under subsection (1).
 
@@ -471,9 +515,9 @@ Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any prope
 (2) Every person commits an offence against this Act, and is liable on conviction to the following fines, who does not provide the information or document required under section 29G:
   (a) a fine not exceeding $200,000; and
   (b) a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
-(3) Every person commits an offence against this Act, and is liable for the following, who provides a false declaration in relation to milk solids collection data contrary to Schedule 5B:
+(3) Every person commits an offence against this Act, and is liable on conviction for the following, who provides a false declaration in relation to the information or documents required under Schedule 5B:
   (a) a declaration by a court of competent jurisdiction that the person is not eligible for further allocations of export licences for a period determined by the court; and
-  (b) a fine not exceeding $200,000 or a term of imprisonment not exceeding 3 months, or both.
+  (b) a fine not exceeding $200,000.
 
 ### 32 Strict liability
 (1) In any proceedings for an offence under section 31, it is not necessary for the prosecution to prove that the defendant intended to commit the offence.
@@ -549,11 +593,17 @@ The Crown is not liable to any person for—
 (3) Every person commits an offence who fails, without reasonable excuse, to comply with a request under subsection (1) and is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to further fines not exceeding $10,000 for every day or part of a day during which the offence is continued.
 
 ### 42 Disclosure of information
-(1) The chief executive (or any officer of his or her Ministry authorised in that behalf) and the Comptroller of Customs (or any officer of Customs authorised in that behalf) may, for the purpose of the administration of this Act or the Dairy Industry Act 1952 or the Customs and Excise Act 2018, disclose to each other, on request, information on exporters of dairy products and dairy products exported or proposed to be exported.
-(2) Information obtained under subsection (1) must not be disclosed except—
-  (a) to the persons authorised under that subsection; or
-  (b) for the purpose of any proceedings that have been commenced or that are reasonably in contemplation and that are connected with a matter in relation to which those persons perform their duties.
-(3) No obligation as to secrecy or other restriction on the disclosure of information imposed by any enactment or otherwise prevents a disclosure under this section.
+(1) Subject to subsection (3), for the purposes of administering this Act and the Customs and Excise Act 2018,—
+  (a) the Ministry may share any relevant information that it collects or holds under any legislation with the New Zealand Customs Service; and
+  (b) the New Zealand Customs Service may share any relevant information that it holds under any legislation with the Ministry; and
+  (c) the Minister may share any relevant information that they collect or hold under any legislation with the Minister of Customs; and
+  (d) the Minister of Customs may share any relevant information that they hold under any legislation with the Minister.
+(2) Without limiting subsection (1), information may be shared between the Ministry and the New Zealand Customs Service, or between the Minister and the Minister of Customs, for the following purposes:
+  (a) to allow the Ministry or Minister to assess and calculate export volume history and total export volume history in relation to the allocation of export licences:
+  (b) to allow the Ministry or Minister to verify that an eligible participant or eligible reserve participant is providing correct information:
+  (c) to allow the Minister to decide whether to recommend the making of secondary legislation under this subpart.
+(3) Information shared under subsection (1) must not include any personal information (see definition in section 5), unless the information relates to a sole trader applying for export licences under this Act.
+(4) The Ministry and the New Zealand Customs Service must ensure that appropriate protections are or will be in place to maintain the confidentiality of information shared under this section.
 
 ### Subpart 4 — Management of core database
 
@@ -2300,31 +2350,45 @@ In this Part, commencement date means the date on which section 28 of the Dairy 
 
 ## Schedule 5B — Rules for allocation of export licences to multiple participants for designated markets in Schedule 5A
 
-### 1
-Export licences are allocated to eligible participants on the basis of the percentage of total milk solids collected by eligible participants, or their employees, contractors, or agents, directly from dairy farmers in New Zealand in the most recent season for which data is available, or the average of the 2 or 3 most recent seasons.
+### 1 Notification of application dates
+(1) The Minister must provide notice in the Gazette of the dates that applications for export licences for a quota year will open and close.
+(2) The Gazette notice under subclause (1) must also specify the applicable Tariff headings that must be used for that quota year when submitting export volume history under clause 2.
 
-### 2
-To be eligible to receive a share of export licences, participants must collect (or a participant’s employees, contractors, or agents may collect) and acquire legal title in at least 0.1% of total milk solids collected from dairy farmers in New Zealand, based on—
-(a) the most representative data of total milk solids collected in New Zealand, in the latest year for which data is available prior to an allocation period; and
-(b) milk solids collection data submitted by each eligible participant by statutory declaration for—
-  (i) the most recent season; and
-  (ii) the previous season (if a participant wishes to use an average of the most recent 2 seasons for the purpose of assessing his or her eligibility to receive a share of export licences); and
-  (iii) the season immediately prior to the season referred to in subparagraph (ii) (if a participant wishes to use an average of the most recent 3 seasons for the purpose of assessing his or her eligibility to receive a share of export licences).
+### 2 Application requirements
+(1) Each eligible participant must submit their export volume history for each designated market for which they are seeking an export licence (including if they are also seeking any reserve export licences as an eligible reserve participant).
+(2) The data must be submitted to the chief executive (or a person authorised by the chief executive) by statutory declaration (as set out in Schedule 5C).
+(3) Each eligible reserve participant who does not have any export volume history (and therefore has not submitted any data under subclause (1)) must submit a statutory declaration in accordance with subclause (2), confirming that they do not have any export volume history for each designated market for which they are seeking a reserve export licence.
+(4) If an eligible participant or eligible reserve participant relies on an agent (for example a freight forwarder or consolidator) to export their products, the following statutory declarations must also be submitted in accordance with subclause (2):
+  (a) a statutory declaration by the eligible participant confirming their business relationship with the agent; and
+  (b) a statutory declaration by the agent, or by each agent if there is more than 1,—
+    (i) confirming their business relationship with the eligible participant; and
+    (ii) confirming that the data being submitted by the eligible participant under subclause (1) accurately records what the agent exported for the participant.
 
-### 3
-For the purposes of assessing the share of export licences, each participant must submit milk solids collection data to the chief executive or a person authorised by the chief executive by statutory declaration (as set out in Schedule 5C), including—
-(a) data from the most recent season; and
-(b) data from the previous season (if a participant wishes to use an average of the most recent 2 seasons for the purpose of assessing his or her share of export licences); and
-(c) data from the season immediately prior to the season referred to in paragraph (b) (if a participant wishes to use an average of the most recent 3 seasons for the purpose of assessing his or her share of export licences).
+### 3 Specific Tariff headings for certain designated markets
+(1) The following specific Tariff headings must be used for the purposes of calculating export volume history and total export volume history before allocating export licences to the following designated markets:
+  (a) for the Japan prepared edible fat market, the Minister must use Tariff heading 0405:
+  (b) for the European Union dairy processed agricultural products and high protein whey market, the Minister must use Tariff heading 0404.
+(2) Where a Tariff heading published under clause 1(2) conflicts with the Tariff headings listed in this clause, the Tariff headings in this clause prevail.
 
-### 4
-Each eligible participant receives an export licence in a market only if that participant’s share of export licences in that market equates to a volume of 20 tonnes or more of product. Any volume of export licences that is available as a result of this rule will be allocated pro rata to the remaining eligible participants.
+### 4 Allocations
+(1) Subject to this clause and clause 5, export licences for each designated market listed in Schedule 5A are allocated,—
+  (a) excluding any reserve export licences, proportionately to eligible participants based on their percentage of the total export volume history, as submitted under clause 2(1), up to the maximum number each participant has applied for or is eligible for; and
+  (b) where a portion of export licences have been reserved under section 26AA, to eligible reserve participants up to the maximum number each participant has applied for or is eligible for.
+(2) Except where section 27A applies, the maximum number of export licences that an eligible reserve participant can be allocated is the number that equates to a volume of 200 tonnes of the product in a designated market, whether that is—ExampleUnder subclause (2)﻿(a), if an eligible participant is eligible for export licences to export 30 tonnes of the relevant product based on their export volume history, then they may also be allocated (as an eligible reserve participant) further export licences from the reserve portion up to an additional 170 tonnes of the product so that their total export licences equate up to 200 tonnes of the relevant product.
+  (a) through a combination of allocations under subclause (1)﻿(a) and (b); or
+  (b) allocations made only under subclause (1)﻿(b).
+(3) Export licences allocated from the reserve portion under subclause (1)﻿(b) or clause 5(1) cannot be traded under section 28A.
+(4) Export licences may only be used for products for which the dairy components are derived only from New Zealand origin milk.
+(5) An export licence is to be allocated—
+  (a) before the commencement of a quota year; and
+  (b) for a period of 1 quota year.
 
-### 5
+### 5 Excess or shortfall in reserve export licences applications
+(1) If the applications for reserve export licences exceed the number of export licences available under the reserve portion, then the Minister must allocate the reserve export licences equally between the eligible reserve participants, up to the maximum number each participant applied for or is eligible for.ExampleThere are 100 reserve export licences available for allocation.Three people apply for 20 reserve export licences each and 7 people apply for 7 reserve export licences each. That is a total of 109 reserve export licences applied for, which exceeds the number available.An even split would give each participant 10 reserve export licences. However, because 7 people have applied for only 7 reserve export licences, that means they can only be allocated 7 licences each (using 49 of the 100 reserve export licences available).This leaves 51 reserve export licences, which are then split equally between the other 3 participants. These 3 participants would receive 17 reserve export licences each. Although they had applied for 20 reserve export licences each, there are not enough reserve export licences to meet the full number they applied for.
+(2) If there are excess reserve export licences after allocations have been made under clause 4(1)﻿(b), then the Minister must allocate the excess reserve export licences proportionately to eligible participants as though the excess was being allocated under clause 4(1)﻿(a).
+
+### 6 Notification of allocations
 The Minister must ensure all allocations of export licences are notified in the Gazette.
-
-### 6
-An export licence is to be allocated for a period of 1 quota year.
 
 ## Schedule 5C — Form of statutory declaration
 
