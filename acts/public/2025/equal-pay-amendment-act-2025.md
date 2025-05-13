@@ -5,7 +5,7 @@ _Consolidation as at 2025-05-13_
 This Act is the Equal Pay Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 14 May 2025.
 
 ### 3 Principal Act
 This Act amends the Equal Pay Act 1972.
