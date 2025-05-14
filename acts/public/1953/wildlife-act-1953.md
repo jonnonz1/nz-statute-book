@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2025-05-03_
+_Consolidation as at 2025-05-14_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -112,6 +112,9 @@ _Consolidation as at 2025-05-03_
   (a) he did not know and had no reasonable opportunity of knowing that the animal or thing was in or on the vessel, vehicle, container, package, or place; or
   (b) in the case of any animal or thing found in or on any vessel or vehicle or place, the animal or thing was in the possession or under the control of some other person in or on that vessel or vehicle or place; or
   (c) in the case of an offence relating to the possession of more than a specified number of animals, he did not know and had no reasonable opportunity of knowing that the number of those animals in or on any vehicle, vessel, container, package, or place exceeded that specified number.
+
+### 2AA Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 2B Application of certain provisions restricted
 Notwithstanding anything in section 3, sections 9 to 14, 14A, 14B, 14C, 14E, and 37 shall not apply in respect of any wildlife outside the outer limits of the territorial sea of New Zealand.
@@ -840,6 +843,33 @@ No member of the Board shall be personally liable for any default made by the Bo
 (6) Notwithstanding anything in any other provision of this Act, any authority issued under this section may contain conditions authorising the holder to use, for the purpose of catching alive or killing any wildlife or game, any live decoys or any net or noose or trap or any firearm or any other method the use of which is otherwise expressly prohibited by this Act or by any regulations made under this Act.
 (7) Every person to whom any authority is granted under or pursuant to this section or, where the authority is given to a Fish and Game Council, the Council and every officer or employee of the Council or other person exercising the powers of the Council pursuant to that authority who commits a breach of or fails to comply with any condition on which the authority was granted commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(5).
 
+### 53A Authority may be granted under section 53 to kill wildlife incidentally
+(1) Without limiting section 53, the Director-General may grant an authority under that section that authorises killing of wildlife that is incidental to carrying out an otherwise lawful activity.
+(2) Killing of wildlife is incidental if it is not directly intended but is unavoidable and foreseeable as a consequence of carrying out the lawful activity.
+(3) In this section, wildlife means wildlife or game referred to in section 53(1).
+
+### 53B Authority under section 53 to kill wildlife incidentally: consistency with protection of wildlife
+(1) To avoid doubt, the Director-General may grant an authority referred to in section 53A only if it is consistent with the protection of wildlife.
+(2) The authority is to be treated as consistent with the protection of wildlife if, in granting it, the Director-General is satisfied that its overall effect would be consistent with the protection of—
+  (a) populations of wildlife; and
+  (b) individual wildlife.
+(3) In determining whether the overall effect of the authority would be consistent with the protection of populations of wildlife, the Director-General must have regard to—
+  (a) any potential adverse effects of the lawful activity on—
+    (i) populations of wildlife that the Director-General is satisfied may be affected by the lawful activity; and
+    (ii) the viability of the species to which that wildlife belongs; and
+  (b) the extent to which the authority (including any conditions that the Director-General proposes to impose on the authority) addresses those potential adverse effects; and
+  (c) any other matter that the Director-General considers is relevant.
+(4) The Director-General may be satisfied that the overall effect of the authority would be consistent with the protection of individual wildlife only if satisfied that the holder of the authority will take reasonable steps (including by complying with any relevant conditions imposed on the authority) to avoid, minimise, and mitigate any adverse effects of the lawful activity on individual wildlife.
+(5) In granting the authority, the Director-General is not required to be satisfied—
+  (a) that the lawful activity is itself consistent with the protection of wildlife; or
+  (b) that each individual act of killing, viewed in isolation, would be consistent with the protection of wildlife.
+
+### 53C Conditions that may be imposed on authority under section 53 to kill wildlife incidentally
+(1) The Director-General may impose, on an authority referred to in section 53A, any conditions providing for measures that the Director-General is satisfied are needed—
+  (a) to address potential adverse effects of the lawful activity on populations of wildlife or the viability of the species to which that wildlife belongs (including, for example, measures to offset adverse effects caused by killing individual wildlife belonging to that species); or
+  (b) to avoid, minimise, or mitigate any adverse effects of the lawful activity on individual wildlife.
+(2) This section does not limit the application of section 53(5) to the authority.
+
 ### 54 Director-General may authorise hunting or killing of wildlife causing damage
 (1) The Director-General, on being satisfied that injury or damage to any person or to any land or to any stock or crops or to any chattel or to other wildlife has arisen or is likely to arise through the presence on any land of any animals (whether absolutely protected or not), and whether or not the land is a wildlife refuge or a closed game area, may authorise in writing the occupier of the land, or any officer or servant of the Department, or any other person, to hunt or kill, or cause to be hunted or killed, or to catch alive for any specified purpose any such animals, or to take or destroy the eggs of any such animals, subject to such conditions and during such period as may be specified in the authority.
 (1A) Where any authority is given under this section to the occupier of any land, that authority may be exercised on his behalf by any person in the employ of or acting with the written authority of the occupier.
@@ -1465,6 +1495,31 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
 (5)
 (6)
 
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Wildlife (Authorisations) Amendment Act 2025
+
+### 1 Validation of certain authorities
+(1) This clause applies to any authority to kill wildlife that was granted or purportedly granted under section 53 before the commencement of the Wildlife (Authorisations) Amendment Act 2025 (whether or not the authority is in force, or has already expired, immediately before that commencement).
+(2) An authority to which this clause applies is validated on and from when the authority was granted and to the extent that it would have been invalid for any reason.
+
+### 2 Lawfulness of certain section 53 authorities when section 71 applicable
+(1) This clause applies to an authority that was granted or purportedly granted under section 53 before 5 March 2025 (whether or not it is in force, or has already expired, immediately before the commencement of this clause).
+(2) An authority to which this clause applies is not unlawful merely because the person to whom the authority was granted, or purportedly granted, required consent under section 71 (rather than an authority under section 53) to carry out an activity authorised or purportedly authorised under section 53.
+(3) A person is not to be treated as having committed an offence against section 63, 63A, or 65(1)﻿(f) or (j) merely because the person has done anything without consent under section 71, so long as when the thing was done it was authorised or purportedly authorised by an authority to which this clause applies.
+(4) In this clause, doing anything includes causing anything to be done.
+
+### 3 Savings relating to commenced proceedings
+Clauses 1 and 2 do not affect any proceedings commenced or in progress before 28 March 2025, or any rights of appeal.
+
+### 4 Effect of clauses 1 and 2 relating to High Court judgment
+(1) Clauses 1 and 2 do not—
+  (a) apply to the authority—
+    (i) that the Director-General granted or purportedly granted to the New Zealand Transport Agency under section 53 on 22 December 2021; and
+    (ii) that was the subject of Environmental Law Initiative v The Director-General of the Department of Conservation and others [2025] NZHC 391; or
+  (b) affect any party’s rights of appeal in respect of that judgment.
+(2) However, clauses 1 and 2 are to be treated as applying to that authority for the purposes of any proceedings for an offence against section 53(7), 63, 63A, or 65(1)﻿(f) or (j) that are commenced on or after 28 March 2025.
+
 ## Schedule 1 — Wildlife declared to be game
 
 | Black swan (Cygnus atratus): except on Chatham Islands |  |
@@ -1781,6 +1836,7 @@ This Act is the Biosecurity Law Reform Act 2012.
 ### 2 Commencement
 (1) Section 19 and Part 2 come into force on the date appointed by the Governor-General by Order in Council.
 (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+(3) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 3 — Related amendments to other enactments
 
@@ -1791,9 +1847,7 @@ This Act is the Biosecurity Law Reform Act 2012.
 ### 92 Transitional provision on wallabies and possums
 (1) The organism wallaby (family Macropodidae) is deemed to be an unwanted organism within the meaning in the Biosecurity Act 1993 for 2 years from the day on which this section commences.
 (2) The Governor-General may, by Order in Council, extend the period referred to in subsection (1).
-(3) The order—
-  (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; and
-  (b) is a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(3) The order is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) Subsections (5) to (7) apply to a permit, licence, or other authority (permission) that—
   (a) was issued under the Wild Animal Control Act 1977; and
   (b) relates to a wallaby (family Macropodidae) or possum (family Phalangeridae); and
