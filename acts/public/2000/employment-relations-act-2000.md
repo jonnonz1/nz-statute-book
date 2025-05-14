@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2025-05-14_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -525,8 +525,8 @@ The object of this Part is—
     (i) bargaining for, or being a party to, a collective agreement; or
     (ii) including rates of wages or salary in a collective agreement; or
   (b) disagreement about including a bargaining fee clause under Part 6B in a collective agreement; or
-  (c) the existence of an unsettled pay equity claim between an employer and a claimant under the Equal Pay Act 1972; or
-  (d) the existence of a requirement to review a pay equity claim settlement under the Equal Pay Act 1972.
+  (c) the existence of an unsettled pay equity claim between an employer and a claimant under the Equal Pay Act 1972.
+  (d)
   (e)
 (3) For the purposes of subsection (1), opposition to concluding a multi-employer collective agreement is a genuine reason not to conclude a collective agreement if that opposition is based on reasonable grounds.
 (4) Clause 6 of Schedule 1B overrides subsection (3).
@@ -3816,13 +3816,17 @@ If a matter before the Authority relates principally to an alleged breach of emp
   (qc) determining whether an employer has complied with section 30D of the Parental Leave and Employment Protection Act 1987:
   (qd) all matters arising under the Equal Pay Act 1972 and, in particular,—
     (i) determining equal pay claims and unlawful discrimination claims:
-    (ii) determining disputes as to whether a pay equity claim is arguable:
-    (iii) determining disputes as to whether work is comparable work for the purpose of assessing a pay equity claim:
-    (iv) determining disputes as to whether work is in fact undervalued:
-    (v) fixing remuneration that is consistent with pay equity under that Act:
+    (ia) determining whether a pay equity claim meets all requirements set out in section 13E of that Act (see section 13ZY(1)﻿(a), (b), and (c)﻿(i) of that Act):
+    (ib) determining whether an employee’s work is the same as, or substantially similar to, work that is the subject of a pay equity claim raised by a union with the employee’s employer, for the purposes of determining whether or not the employee is, or is to be, covered by the claim (see section 13ZY(1)﻿(d) of that Act):
+    (ii) determining disputes as to whether a pay equity claim has merit (see section 13ZY(1)﻿(e) of that Act):
+    (iii) determining whether 1 or more comparators selected for use in assessing a pay equity claim are appropriate comparators or whether 1 or more appropriate comparators are available for selection (see section 13ZY(1)﻿(g) and (h) of that Act):
+    (iiia) determining, in relation to a decision by an employer under section 13ZEB of that Act, whether all employees covered by a pay equity claim raised by 1 or more unions perform work that is the same or substantially similar (see section 13ZY(1)﻿(c)﻿(ii) of that Act):
+    (iv) determining disputes as to whether work is in fact undervalued (see section 13ZY(1)﻿(f) of that Act):
+    (v) fixing remuneration that is consistent with pay equity under that Act and specifying 3 annual phases of equal amounts or proportions (starting at the date of the pay equity claim settlement) by which the remuneration will be increased (see section 13ZY(1)﻿(i) and (6) of that Act):
+    (va) determining whether remuneration agreed by the parties to a pay equity claim is to be increased to the agreed level in phases and, if so, the particulars of those phases (see section 13ZY(1)﻿(j) of that Act):
     (vi) determining whether the terms and conditions of employment in an employee’s employment agreement are more or less favourable than the terms and conditions of employment in a pay equity claim settlement for the purposes of section 13ZM of that Act:
-    (vii) determining whether to provide for recovery of an amount of remuneration for past work, and the amount to provide, under section 13ZZD of that Act:
-    (viii) determining the applicable start date for the purposes of section 13ZZE of that Act:
+    (vii)
+    (viii)
   (qe)
   (r) any other action (being an action that is not directly within the jurisdiction of the court) arising from or related to the employment relationship or related to the interpretation of this Act (other than an action founded on tort):
   (s) determinations under such other powers and functions as are conferred on it by this or any other Act.
