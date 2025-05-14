@@ -1,5 +1,5 @@
 # Equal Pay Act 1972
-_Consolidation as at 2023-12-20_
+_Consolidation as at 2025-05-14_
 
 > An Act to make provision for the removal and prevention of discrimination, based on the sex of the employees, in the rates of remuneration of males and females in paid employment, and for matters incidental thereto
 
@@ -28,8 +28,12 @@ This Act may be cited as the Equal Pay Act 1972.
   - **pay equity claim** means a claim that an employer has breached section 2AAC(b)
   - **pay equity claim settlement** means a settlement of a pay equity claim that is recorded—
     (a) in a written agreement between the parties as described in section 13ZH(3); or
-    (b) in a determination of the Authority or the Court as described in section 13ZH(1)﻿(b)﻿(ii)
-  - **predominantly performed by female employees** has the meaning set out in section 13F(2)
+    (b) in a determination of the Authority or the Court as described in section 13ZH(1)﻿(b)﻿(ii) or (iii)
+  - **predominantly performed by female employees** —
+    (a) in Part 2, in relation to work, means that the work is performed by a workforce that is at least 70% female; and
+    (b) in Part 4, in relation to work to which a pay equity claim relates, means that the work—
+      (i) is performed by a workforce that is at least 70% female; and
+      (ii) has been performed by a workforce described in subparagraph (i) for at least 10 consecutive years immediately before the date on which the claim was raised
   - **remuneration** , in relation to any employee, means the salary or wages actually and legally payable to that employee; and includes—
     (a) time and piece wages and overtime and bonus and other special payments:
     (b) allowances, fees, commission, and every other emolument, whether in 1 sum or several sums, and whether paid in money or not.
@@ -64,12 +68,12 @@ An employer must ensure that—
   (a) in the case of an unlawful discrimination claim, the employee makes a complaint under section 2A; and
   (b) in the case of an equal pay claim, the employee commences proceedings for recovery of remuneration under section 131 of the Employment Relations Act 2000 (as provided for in section 13(2)); and
   (c) in the case of a pay equity claim raised by an individual employee, the employee—
-    (i) files an application with the Authority under section 13ZY(1)﻿(d) for the Authority to fix remuneration; or
+    (i) files an application with the Authority under section 13ZY(1)﻿(i) for the Authority to fix remuneration; or
     (ii) settles the claim in accordance with section 13ZH(1)﻿(a); or
     (iii) accepts an offer of the benefit of the pay equity claim settlement made under section 13ZL(4); and
   (d) in the case of a pay equity claim raised by 1 or more unions, the employee—
     (i) is covered by the union-raised claim at the time when the claimant—
-      (A) files an application with the Authority under section 13ZY(1)﻿(d) for the Authority to fix remuneration; or
+      (A) files an application with the Authority under section 13ZY(1)﻿(i) for the Authority to fix remuneration; or
       (B) settles the claim in accordance with section 13ZH(1)﻿(a); or
     (ii) accepts an offer of the benefit of the pay equity claim settlement made under section 13ZL(2) or (5).
 (3) For the purposes of subsection (1)﻿(b), an employee makes a complaint when proceedings in relation to that complaint are commenced by the complainant or the Human Rights Commission.
@@ -145,13 +149,12 @@ Without limiting any other power of the Employment Relations Authority, whether 
 ## Part 4 — Pay equity claims
 
 ### 13A Purpose
-The purpose of this Part is to facilitate resolution of pay equity claims, by—
-  (a) setting a low threshold to raise a claim (while recognising that entry into the pay equity claim process does not predetermine an outcome); and
-  (b) providing a simple and accessible process to progress a pay equity claim.
+The purpose of this Part is to provide a process that facilitates the resolution of pay equity claims where there is evidence of systemic sex-based undervaluation of work that is predominantly performed by female employees.
 
 ### 13B Interpretation
 In this Part, unless the context otherwise requires,—
   - **affected employee** means an employee who performs work that is the same as, or substantially similar to, the work performed by another employee of the same employer, if a pay equity claim has been raised with the employer in respect of that work (whether by an employee or by 1 or more unions)
+  - **appropriate comparator** means a comparator selected by parties to a pay equity bargaining process in accordance with section 13ZE for use as a comparator in the assessment of a pay equity claim under section 13ZD
   - **claimant** means—
     (a) an individual employee who raises a pay equity claim:
     (b) a union that raises a pay equity claim on behalf of the members of that union:
@@ -187,16 +190,21 @@ In this Part, unless the context otherwise requires,—
 **Raising pay equity claims**
 
 ### 13D Union right to represent members
-A union is entitled to raise a pay equity claim in accordance with section 13E on behalf of its members and to represent them in that claim.
+A union is entitled to raise a pay equity claim in accordance with sections 13DA and 13E on behalf of its members and to represent them in that claim.
 
-### 13E Unions and employees may raise pay equity claims
-(1) The following may raise a pay equity claim with an employer if they consider that the claim is arguable:
+### 13DA Eligibility of pay equity claim to be raised
+A pay equity claim may be raised if—
+  (a) it meets all requirements set out in section 13E; and
+  (b) there is evidence that the claim has merit (see section 13F).
+
+### 13E Circumstances in which unions and employees may raise pay equity claims
+(1) The following may raise a pay equity claim with an employer:
   (a) a union, on behalf of 1 or more members of that union who perform the same or substantially similar work for the employer:
   (b) 2 or more unions, acting jointly on behalf of the members of each union who perform the same or substantially similar work for the employer:
   (c) an individual employee, other than an employee who—
     (i) is covered by a union-raised claim; or
-    (ii) is barred from pursuing a pay equity claim under section 2B; or
-    (iii) is referred to in subsection (6).
+    (ii) is barred from pursuing a pay equity claim under section 2B.
+    (iii)
 (2) A union may not raise a pay equity claim with an employer if no employee of the employer who performs the work to which the claim relates is a member of the union.
 (3) Subsection (2) does not limit a union’s right to jointly raise a multi-employer pay equity claim with another union, or to consolidate a claim raised with multiple employers in accordance with section 13N, provided each employer with whom the multi-employer claim is raised employs at least 1 employee who—
   (a) performs the work to which the claim relates; and
@@ -207,29 +215,42 @@ A union is entitled to raise a pay equity claim in accordance with section 13E o
 (5) A union that is prevented from raising a multi-employer pay equity claim by subsection (4) may raise 2 separate claims in respect of the work, as follows:
   (a) the union may raise a claim with the employer or employers who are already parties to a union-raised pay equity claim (in which case section 13M applies); and
   (b) the union may raise a separate claim with the employer or employers who are not already parties to a union-raised pay equity claim (in which case section 13N(3)﻿(b) applies).
-(6) An employee who is covered by a pay equity claim settlement may not raise a pay equity claim in respect of the work to which the settlement relates (unless the Authority or court determines otherwise in accordance with section 13ZY(5)).
+(6) Despite subsection (1), a pay equity claim may not be raised within 10 years after the date of a pay equity claim settlement if the claim would relate to any or all of the employees covered by the settlement and the work to which the settlement relates, unless the Authority or the court determines, under section 13ZY(1)﻿(b), that the claim may be raised.
 (7) Subsection (6)—
   (a) does not apply to a pay equity claim settlement that has been cancelled by the Authority under section 13ZJ(1)﻿(b):
   (b) overrides subsection (1).
 
-### 13F Meaning of arguable
-(1) A pay equity claim is arguable if—
-  (a) the claim relates to work that is or was predominantly performed by female employees; and
-  (b) it is arguable that the work is currently undervalued or has historically been undervalued.
-(2) For the purposes of this Act, work is or was predominantly performed by female employees if it is work that is currently, or that was historically, performed by a workforce of which approximately 60% or more members are female.
-(3) In deciding whether it is arguable that work is currently undervalued or has historically been undervalued, consideration may be given to any relevant factor, including the following:
+### 13F Meaning of has merit
+(1) A pay equity claim has merit if—
+  (a) the claim relates to work that is predominantly performed by female employees; and
+  (b) there are reasonable grounds to believe that the work—
+    (i) has been historically undervalued for 1 or more of the reasons set out in subsection (2); and
+    (ii) continues to be subject to systemic sex-based undervaluation, taking into account all relevant matters (including the reasons set out in subsection (3)).
+(2) The reasons for historical undervaluation of work referred to in subsection (1)﻿(b)﻿(i) are as follows:
   (a) the origins and history of the work, including the manner in which wages have been set:
   (b) any social, cultural, or historical factors:
   (c) characterisation of the work as women’s work:
-  (d) that the nature of the work requires an employee to use skills or qualities that have been—
+  (d) the nature of the work requires an employee to use skills or qualities that have been—
     (i) generally associated with women; and
-    (ii) regarded as not requiring monetary compensation:
-  (e) any sex-based systemic undervaluation of the work as a result of any of the following factors:
-    (i) a dominant source of funding across the relevant market, industry, sector, or occupation:
-    (ii) a lack of effective bargaining in the relevant market, industry, sector, or occupation:
-    (iii) occupational segregation or occupational segmentation in respect of the work:
-    (iv) the failure by the parties to properly assess or consider the remuneration that should have been paid to properly account for the nature of the work, the levels of responsibility associated with the work, the conditions under which the work is performed, and the degree of effort required to perform the work:
-    (v) any other feature of the relevant market, industry, sector, or occupation.
+    (ii) regarded as not requiring monetary compensation.
+(3) The reasons for continued systemic sex-based undervaluation of work referred to in subsection (1)﻿(b)﻿(ii) are—
+  (a) features of the relevant labour market, industry, sector, or occupation, including the following:
+    (i) a dominant source of funding across the relevant labour market, industry, sector, or occupation:
+    (ii) a lack of effective bargaining in the relevant labour market, industry, sector, or occupation:
+    (iii) the market share of the employer as an employer in the relevant labour market:
+    (iv) a lack of competition from other employers seeking to employ persons in the relevant labour market:
+    (v) a lack of power on the part of employees to influence the relevant labour market:
+    (vi) occupational segregation or segmentation in relation to the work:
+    (vii) any other features that are prescribed in regulations; and
+  (b) failure by the parties to a pay equity claim to properly assess or consider the remuneration that should be paid to properly account for—
+    (i) the nature of the work; and
+    (ii) the levels of responsibility associated with the work; and
+    (iii) the conditions under which the work is performed; and
+    (iv) the degree of effort required to perform the work.
+(4) In subsection (3)﻿(a), relevant labour market means that part of the whole labour market that comprises all workers who, as a matter of fact and commercial common sense, are substitutable because the work they perform involves—
+  (a) the same or substantially similar skills and responsibilities; and
+  (b) experience under the same or substantially similar conditions; and
+  (c) the same or substantially similar degrees of effort.
 
 ### 13G Requirements relating to all pay equity claims
 Every pay equity claim must—
@@ -237,21 +258,29 @@ Every pay equity claim must—
   (b) state that it is a pay equity claim made under this Act.
 
 ### 13H Requirements for claim raised by individual employee
-A pay equity claim raised by an individual employee must—
-  (a) state—
+A pay equity claim raised by an individual employee—
+  (a) must state—
     (i) the employee’s name and address for service; and
     (ii) the date on which the claim is made; and
-    (iii) the employee’s occupation, position, and a brief description of the work performed by the employee; and
+    (iii) the employee’s occupation and position; and
     (iv) if the employee has authorised a representative to act on the employee’s behalf in respect of the claim, the name and address for service of that representative (see sections 18(3) and 236(3) of the Employment Relations Act 2000); and
-  (b) briefly set out the information that the employee relies on in support of the elements required for an arguable pay equity claim under section 13F.
+  (aa) must contain a description of the work performed by the employee, which must include any information about the work prescribed by regulations; and
+  (b) must include—
+    (i) the elements required for a pay equity claim to have merit; and
+    (ii) the evidence that the employee relies on in support of those elements.
 
 ### 13I Requirements for claim raised by union or unions
 (1) A pay equity claim raised by a union or unions—
   (a) must—
     (i) state the name and address for service of the union, or for each of the unions if more than 1 are acting jointly; and
     (ii) state the date on which the claim is made; and
-    (iii) include a brief description of the work performed by the employees to be covered by the union-raised claim; and
-  (b) must briefly set out the information that the claimant relies on in support of the elements required for an arguable pay equity claim under section 13F; and
+    (iii) contain a description of the work performed by the employees to be covered by the union-raised claim; and
+  (b) must—
+    (i) explain how all of the employees to be covered by the claim perform work that is the same or substantially similar; and
+    (ii) include the evidence that the union or unions rely on in support of that explanation, including any evidence prescribed by regulations; and
+  (ba) must include—
+    (i) the elements required for a pay equity claim to have merit; and
+    (ii) the evidence that the union or unions rely on in support of those elements; and
   (c) in the case of a claim raised with multiple employers, must include a notice to each of the employers of their obligations under section 13K to enter a multi-employer pay equity process agreement with the other employers with whom the claim is raised.
 (2) A union that raises a pay equity claim with an employer is not required to name the employees who perform the work to which the claim relates.
 (3) A pay equity claim raised by 1 or more unions with multiple employers must also include—
@@ -273,7 +302,13 @@ A pay equity claim raised by an individual employee must—
 (1) This section applies if—
   (a) 1 union has raised a pay equity claim with 2 or more employers in respect of employees who are members of that union and who perform the same, or substantially similar, work; or
   (b) 2 or more unions have jointly raised a pay equity claim with 2 or more employers in respect of employees who are members of any of those unions and who perform the same, or substantially similar, work.
-(2) Each employer who receives a pay equity claim raised by a union or unions with multiple employers must enter into a single multi-employer pay equity process agreement for the purposes of deciding whether the claim is arguable and for the purposes of the pay equity bargaining process.
+(2) Subsection (2A) applies to each employer who—
+  (a) receives a pay equity claim referred to in subsection (1); and
+  (b) has not opted out of the multi-employer pay equity claim under section 13L.
+(2A) Each employer must enter into a single multi-employer pay equity process agreement—
+  (a) for the purpose of deciding whether all of the employees covered by the claim perform work that is the same or substantially similar; and
+  (b) for the purpose of deciding whether the claim has merit; and
+  (c) for the purpose of the pay equity bargaining process.
 (3) The multi-employer pay equity process agreement must set out—
   (a) whether there will be 1 or more representatives for the employers and who that representative or those representatives will be; and
   (b) how decisions relating to the claim will be made.
@@ -281,7 +316,7 @@ A pay equity claim raised by an individual employee must—
 
 ### 13L Opting out of multi-employer pay equity claim
 Employers may individually opt out
-(1) An employer may opt out of a multi-employer pay equity claim by giving notice to all other parties only if the employer has genuine reasons, based on reasonable grounds, to do so.
+(1) An employer may opt out of a multi-employer pay equity claim by giving notice to all other parties.
 (2) If an employer opts out of a multi-employer pay equity claim, the claim in respect of that employer must be progressed as a separate claim.
 Unions may jointly opt out of claim raised with individual employer
 (3) Subsection (4) applies if 2 or more unions have jointly raised a claim with an employer, or have consolidated their claims raised with an employer (as required by section 13M), and the claim raised with the employer is part of a multi-employer pay equity claim.
@@ -296,7 +331,11 @@ Single union may opt out of claim raised with individual employer
 (7) If a union opts out of a multi-employer pay equity claim in respect of an employer under subsection (6), the union’s claim in respect of that employer must be progressed as a separate claim.
 Notice of opting out
 (8) A notice opting out of a multi-employer pay equity claim may be given by an employer under subsection (1), by unions jointly under subsection (4), or by a single union under subsection (6), at any time before the claim is settled.
-(9) A notice opting out of a multi-employer pay equity claim must be given in writing and must state the party’s genuine reasons for opting out and the reasonable grounds on which those reasons are based.
+(9) A notice opting out of a multi-employer pay equity claim—
+  (a) must be given in writing; and
+  (b) in the case of a notice given by 1 or more unions under subsection (4) or (6), must state the genuine reasons of the union or unions for opting out and the reasonable grounds on which those reasons are based.
+Party may not apply for determination concerning employer opting out
+(10) A party may not apply to the Authority under section 13ZY for a determination concerning an employer’s decision under this section to opt out of a multi-employer claim.
 
 **Consolidation of claims**
 
@@ -307,11 +346,11 @@ Notice of opting out
 (4) If the unions cannot agree on how the consolidated claim will be progressed, any of them may apply to the Authority for a direction.
 
 ### 13N Consolidation of claim raised with additional or new employer with existing union-raised claim
-(1) This section applies if 1 or more unions have raised a pay equity claim with 1 or more employers who have decided that the claim is arguable (an existing claim).
-(2) If the union or unions that raised the existing claim subsequently raise a claim with another employer that relates to work that is the same as, or substantially similar to, the work covered by the existing claim and the other employer decides that the claim is arguable (an additional employer), the claim raised with the additional employer may be consolidated with the existing claim only if the additional employer and all of the parties to the existing claim consent.
+(1) This section applies if 1 or more unions have raised a pay equity claim with 1 or more employers who have decided that the claim has merit (an existing claim).
+(2) If the union or unions that raised the existing claim subsequently raise a claim with another employer that relates to work that is the same as, or substantially similar to, the work covered by the existing claim and the other employer decides that the claim has merit (an additional employer), the claim raised with the additional employer may be consolidated with the existing claim only if the additional employer and all of the parties to the existing claim consent.
 (3) If 1 or more other unions subsequently raise a pay equity claim with 1 or more employers that relates to work that is the same as, or substantially similar to, the work covered by the existing claim (a new claim), and—
   (a) if the new claim is raised with 1 or more employers who are already parties to the existing claim, section 13M applies and requires the unions to consolidate the existing claim and the new claim:
-  (b) if the new claim is raised with 1 or more employers who are not parties to the existing claim, and who decide that the claim is arguable (a new employer), the claim raised with the new employer may be consolidated with the existing claim only if the union that raised the new claim, the new employer, and all parties to the existing claim consent.
+  (b) if the new claim is raised with 1 or more employers who are not parties to the existing claim, and who decide that the claim has merit (a new employer), the claim raised with the new employer may be consolidated with the existing claim only if the union that raised the new claim, the new employer, and all parties to the existing claim consent.
 (4) If the consent of all parties is not obtained to consolidate a claim raised with an additional employer or a new employer with an existing claim as required by subsection (2) or (3)﻿(b), the union must progress the claim raised with the additional employer or the new employer separately.
 
 ### 13O Process to request consent to consolidate
@@ -321,92 +360,140 @@ Notice of opting out
   (b) an employer with whom either of the claims is raised.
 (3) A request to consolidate may be made at any time before the first of the claims is settled.
 (4) A request to consolidate must be made in writing and must include—
-  (a) a brief description of the work performed by the employees who are covered by each of the claims; and
-  (b) a brief explanation of how the work performed by the employees who are covered by each of the claims is considered to be the same or substantially similar.
+  (a) a description of the work performed by the employees who are covered by each of the claims; and
+  (b) an explanation of how the work performed by the employees who are covered by each of the claims is considered to be the same or substantially similar; and
+  (c) the evidence that the union or employer requesting the consolidation relies on in support of the explanation included under paragraph (b) (including any evidence required by regulations).
 
 ### 13P Effect of consolidation
 (1) This section applies if—
   (a) multiple union claims raised with a single employer are consolidated as required by section 13M; or
   (b) all parties consent to a request under section 13O for consolidation of an existing claim with a claim raised by a union with an additional employer or a new employer.
 (2) The parties to each of the claims that are to be consolidated must carry out the assessment required by section 13ZD.
-(3) The parties to each of the claims that are to be consolidated must identify appropriate comparators as required by section 13ZE.
+(3) The parties to each of the claims that are to be consolidated must select appropriate comparators as required by section 13ZE.
 
-**Employers’ obligations to give notice of arguable claims**
+**Employer decisions about claims**
 
-### 13Q Employer must form view as to whether pay equity claim is arguable
-(1) An employer who receives a pay equity claim must, as soon as is reasonably practicable and not later than 45 working days after receiving it, decide whether, in the employer’s view, the pay equity claim is arguable. (See section 13T for how this applies to multi-employer pay equity claims.)
-(2) An employer must act in a manner that is consistent with the purpose of this Part (to set a low threshold for raising a claim) by taking a light-touch approach when making the decision required under subsection (1).
-(3) An employer’s decision that a pay equity claim is arguable does not mean that—
+### 13PA Time limit for employer’s decisions about pay equity claim
+(1) An employer who receives a pay equity claim must, as soon as is reasonably practicable after receiving it,—
+  (a) make a decision under section 13PB; and
+  (b) decide under section 13Q whether, in the employer’s view, the pay equity claim has merit.
+(2) The employer must make, and give notice of, those decisions in accordance with sections 13PB, 13Q, and 13S not later than—
+  (a) 60 working days after the employer receives the pay equity claim; or
+  (b) any extended date specified in a notice by the employer under section 13R.
+(3) This section is subject to sections 13PB(6) and 13ZZAA in the circumstances to which those provisions apply.
+
+### 13PB Employer’s decision about whether claim meets requirements of section 13E
+(1) An employer who receives a pay equity claim must make a decision under this section before deciding, under section 13Q(1A), whether the claim has merit.
+(2) The employer must decide whether, in the employer’s view, the pay equity claim meets all requirements set out in section 13E.
+(3) Without limiting subsection (2), the employer must, in making the decision about a pay equity claim raised by 1 or more unions, consider and decide whether all of the employees covered by the claim perform work that is the same or substantially similar.
+(4) If an employer decides that, in the employer’s view, a pay equity claim does not meet all requirements set out in section 13E, the employer must, as soon as is reasonably practicable, give notice to the claimant that—
+  (a) sets out the reasons for the employer’s decision; and
+  (b) describes the effect of the decision as set out in subsection (5); and
+  (c) explains the steps that the claimant may take to challenge the employer’s decision, including advice that the claimant may—
+    (i) seek further details of the reasons for the employer’s decision; and
+    (ii) refer the decision to mediation under section 13ZO; and
+    (iii) refer the decision to the Authority for facilitation under sections 13ZP to 13ZX if 1 or both of the grounds in section 13ZR(2) exist; and
+    (iv) apply to the Authority under section 13ZY for a determination on the decision and that, if the claimant does so, the Authority will first consider whether an attempt has been made to resolve the question by facilitation or mediation.
+Effect of negative decision
+(5) A notice under subsection (4) has the effect of discontinuing the pay equity claim from the date on which the employer gives the notice, but the discontinuance of the claim does not prevent—
+  (a) the parties from agreeing to reverse the employer’s decision; or
+  (b) the claimant from applying to the Authority for a determination in relation to the employer’s decision; or
+  (c) a new claim that complies with section 13DA from being raised.
+Effect of reversal of negative decision
+(6) If the parties agree to reverse the employer’s decision,—
+  (a) the pay equity claim is no longer discontinued; and
+  (b) sections 13PA(2) and 13R(1) and (2)﻿(a) do not apply; and
+  (c) the employer must under sections 13Q and 13S make, and give notice of, the employer’s decision about whether the claim has merit not later than—
+    (i) 60 working days after the date on which the employer’s decision is reversed less the number of working days between the date on which the claim was received and the date on which the employer gave the notice under subsection (4); or
+    (ii) any extended date beyond the period described in subparagraph (i) that is specified in a notice by the employer under paragraph (d); and
+  (d) the employer may, by notice to the claimant, extend the time limit specified in paragraph (c)﻿(i) if the employer has reasonable grounds for requiring the extension; and
+  (e) a notice under paragraph (d) extending the time limit must be given as soon as is reasonably practicable and,—
+    (i) if it is the first notice extending the time limit since the claim was received, not later than 60 working days after the date on which the employer’s decision is reversed less the number of working days between the date on which the claim was received and the date on which the employer gave the notice under subsection (4):
+    (ii) if a previous extension of the time limit under section 13R had not expired on the date on which the employer gave notice under subsection (4), not later than 5 working days after the date of the reversal of the employer’s decision; and
+  (f) section 13R(2)﻿(b) and (c) and (3) applies to a notice under paragraph (d); and
+  (g) a notice to which paragraph (e)﻿(ii) applies may extend the time limit in paragraph (c)﻿(i) only by the period that was remaining of the existing extension.
+
+### 13Q Employer’s decision about whether claim has merit
+(1) This section applies to an employer who has—
+  (a) received a pay equity claim; and
+  (b) decided under section 13PB(2) that, in the employer’s view, the claim meets all requirements set out in section 13E.
+(1A) The employer must decide whether, in the employer’s view, the pay equity claim has merit. (See section 13T for how this requirement applies to multi-employer pay equity claims.)
+(2)
+(3) An employer’s decision that a pay equity claim has merit does not mean that—
   (a) the employer agrees that there is a pay equity issue; or
   (b) there will be a pay equity claim settlement as a result of following the pay equity claim process.
-(4) The employer must give notice of the employer’s decision to the claimant in accordance with section 13S—
-  (a) as soon as is reasonably practicable, and not later than 45 working days after receiving the claim; or
-  (b) by a later date specified in a notice under section 13R extending the time limit.
-(5) The employer is deemed to have accepted that a pay equity claim is arguable if the employer fails to give notice to the claimant under section 13S—
-  (a) within 45 working days of receiving the claim; or
-  (b) by the date specified in a notice under section 13R extending the time limit.
+(4) The employer is deemed to have accepted that a pay equity claim has merit if the employer fails to give notice in accordance with section 13S by the time limit set out in section 13PA(2) (or, if applicable, by the time limit set out in section 13PB(6) or 13ZZAA).
+(5)
 
-### 13R Notice extending time limit for employer’s decision as to whether claim arguable
-(1) Despite section 13Q, an employer may, by notice to the claimant, extend the time limit for making and notifying the employer’s decision as to whether a pay equity claim is arguable if the employer has reasonable grounds for requiring the extension.
-(2) A notice extending the time limit must—
-  (a) be given as soon as is reasonably practicable and not later than 45 working days after the employer receives the claim; and
+### 13R Notice extending time limit for employer’s decisions about pay equity claim
+(1) Despite section 13PA(2)﻿(a), an employer may, by notice to the claimant, extend the time limit for making and notifying the employer’s decisions under sections 13PB and 13Q if the employer has reasonable grounds for requiring the extension.
+(2) A notice extending the time limit may be given once only and must—
+  (a) be given as soon as is reasonably practicable and not later than 60 working days after the employer receives the claim; and
   (b) specify the extended date by which the employer will notify the claimant of the employer’s decision; and
   (c) set out the grounds for requiring the extension.
 (3) A notice extending the time limit must not extend the time limit by more than—
   (a) 20 working days in the case of a claim raised with a single employer; or
   (b) 80 working days in the case of a claim raised with multiple employers, unless all parties agree to a longer extension.
+(4) This section is subject to sections 13PB(6) and 13ZZAA in the circumstances to which those provisions apply.
 
-### 13S Employer’s obligations after deciding whether claim is arguable
-(1) This section applies to an employer who makes the decision required by section 13Q(1) or who is deemed by section 13Q(5) to have accepted that a pay equity claim is arguable.
-(2) An employer who decides that the claim is arguable must—
-  (a) give notice to the claimant advising that the employer has decided that the claim is arguable; and
-  (b) provide information to the claimant about the pay equity bargaining process under sections 13ZC to 13ZZE; and
+### 13S Employer’s obligations after deciding whether claim has merit
+(1) This section applies to an employer who makes the decision required by section 13Q(1A) or who is deemed by section 13Q(4) to have accepted that a pay equity claim has merit.
+(2) An employer who decides that the claim has merit must—
+  (a) give notice to the claimant advising that the employer has decided that the claim has merit; and
+  (b) provide information to the claimant about the pay equity bargaining process under sections 13ZC to 13ZZC; and
   (c) enter into the pay equity bargaining process with the claimant.
-(3) An employer who decides that the claim is not arguable must give notice to the claimant that—
+(3) An employer who decides that the claim does not have merit must give notice to the claimant that—
   (a) sets out the reasons for the employer’s decision; and
+  (aa) describes the effect of the decision as set out in subsection (3A); and
   (b) explains the steps that the claimant may take to challenge the employer’s decision, including advice that—
     (i) the claimant may seek further details of the reasons for the employer’s decision:
-    (ii) the claimant may refer the question of whether the claim is arguable to mediation under section 13ZO:
-    (iii) the parties may refer the question of whether the claim is arguable to the Authority for facilitation under sections 13ZP to 13ZX if all of the parties agree and if 1 or both of the grounds in section 13ZR(2) exist:
-    (iv) the claimant may apply to the Authority under section 13ZY for a determination as to whether the pay equity claim is arguable and that, if the claimant does so, the Authority will first consider whether an attempt has been made to resolve the question by facilitation or mediation.
-(4) An employer must, as soon as is practicable after becoming aware that they have been deemed to have accepted that a pay equity claim is arguable under section 13Q(5),—
-  (a) give notice to the claimant advising that the employer is deemed to have accepted that the pay equity claim is arguable under section 13Q(5); and
-  (b) provide information to the claimant about the pay equity bargaining process under sections 13ZC to 13ZZE; and
+    (ii) the claimant may refer the question of whether the claim has merit to mediation under section 13ZO:
+    (iii) the parties may refer the question of whether the claim has merit to the Authority for facilitation under sections 13ZP to 13ZX if all of the parties agree and if 1 or both of the grounds in section 13ZR(2) exist:
+    (iv) the claimant may apply to the Authority under section 13ZY for a determination as to whether the pay equity claim has merit and that, if the claimant does so, the Authority will first consider whether an attempt has been made to resolve the question by facilitation or mediation.
+(3A) A notice under subsection (3) has the effect of discontinuing the pay equity claim from the date on which the employer gives the notice, but the discontinuance of the claim does not prevent—
+  (a) the parties from agreeing to reverse the employer’s decision; or
+  (b) the claimant from applying to the Authority for a determination in relation to the employer’s decision; or
+  (c) a new claim that complies with section 13DA from being raised.
+(3B) If the parties agree to reverse the employer’s decision, the claim is no longer discontinued.
+(4) An employer must, as soon as is practicable after becoming aware that they have been deemed to have accepted that a pay equity claim has merit under section 13Q(4),—
+  (a) give notice to the claimant advising that the employer is deemed to have accepted that the pay equity claim has merit under section 13Q(4); and
+  (b) provide information to the claimant about the pay equity bargaining process under sections 13ZC to 13ZZC; and
   (c) enter into the pay equity bargaining process with the claimant.
 
-### 13T Deciding if multi-employer pay equity claim is arguable
-Sections 13Q to 13S and 13V apply to employers who have entered a multi-employer pay equity process agreement in accordance with section 13K as follows:
-  (a) the employers must make a joint decision under section 13Q(1) as to whether the claim is arguable and must give joint notice of that decision to the claimant under section 13S(2)﻿(a) or (3) (as applicable):
+### 13T Employer decisions about multi-employer pay equity claim
+Sections 13PA to 13S and 13V apply to employers who have entered a multi-employer pay equity process agreement in accordance with section 13K as follows:
+  (aaa) the employers must make a joint decision under section 13PB(2) as to whether, in their view, the claim meets all requirements set out in section 13E and, if they decide that it does not, must give joint notice of that decision to the claimant under section 13PB(4):
+  (a) the employers must make a joint decision under section 13Q(1A) as to whether the claim has merit and must give joint notice of that decision to the claimant under section 13S(2)﻿(a) or (3) (as applicable):
   (b) the employers may give joint notice to the claimant under section 13R extending the time limit:
-  (c) if the employers decide the claim is arguable, or are deemed to have decided the claim is arguable,—
+  (c) if the employers decide the claim has merit, or are deemed to have decided the claim has merit,—
     (i) each employer must individually give notice to affected employees as required by section 13V; and
     (ii) the employers must jointly enter into the pay equity bargaining process in accordance with the multi-employer pay equity process agreement.
 
-### 13U Employer must give notice of first arguable pay equity claim raised by individual employee
-(1) If an employer decides that a pay equity claim raised by an individual employee in respect of work performed by the employee is arguable, the employer must give notice of that claim to each affected employee.
+### 13U Employer must give notice of first pay equity claim that has merit raised by individual employee
+(1) If an employer decides that a pay equity claim raised by an individual employee in respect of work performed by the employee has merit, the employer must give notice of that claim to each affected employee.
 (2) Subsection (1) does not apply if a pay equity claim has already been raised with the employer in respect of work that is the same as, or substantially similar to, the work performed by the individual employee.
 (3) A notice to affected employees under subsection (1) must—
   (a) contain the information set out in Part 1 of Schedule 2; and
   (b) state the date on which it is given; and
   (c) be given in writing and expressed in plain language; and
-  (d) be given as soon as is reasonably practicable and not later than 20 working days after the date on which the employer decides that the claim is arguable.
+  (d) be given as soon as is reasonably practicable and not later than 20 working days after the date on which the employer decides that the claim has merit.
 (4) Despite subsection (3)﻿(d), the employer may, by notice to the claimant, extend the time limit for notifying affected employees if the employer has reasonable grounds for requiring the extension.
 (5) A notice extending the time limit must not extend the time limit by more than 25 working days, and must—
-  (a) be given as soon as is reasonably practicable and not later than 20 working days after the date on which the employer decides that the claim is arguable; and
+  (a) be given as soon as is reasonably practicable and not later than 20 working days after the date on which the employer decides that the claim has merit; and
   (b) specify the extended date by which the employer will notify affected employees of the claim; and
   (c) set out the grounds for requiring the extension.
 
-### 13V Employer must give notice of first arguable pay equity claim raised by union
-(1) If an employer decides that a pay equity claim raised by 1 or more unions in respect of work performed by 1 or more of the employer’s employees is arguable, the employer must give notice of that claim to each affected employee.
+### 13V Employer must give notice of first pay equity claim that has merit raised by union
+(1) If an employer decides that a pay equity claim raised by 1 or more unions in respect of work performed by 1 or more of the employer’s employees has merit, the employer must give notice of that claim to each affected employee.
 (2) Subsection (1) does not apply to a subsequent claim raised by another union to which section 13M applies.
 (3) A notice to affected employees under subsection (1) must—
   (a) contain the information set out in Part 2 of Schedule 2; and
   (b) state the date on which it is given; and
   (c) be given in writing and expressed in plain language; and
-  (d) be given as soon as is reasonably practicable and not later than 20 working days after the date on which the employer decides that the claim is arguable.
+  (d) be given as soon as is reasonably practicable and not later than 20 working days after the date on which the employer decides that the claim has merit.
 (4) Despite subsection (3)﻿(d), the employer may, by notice to the claimant, extend the time limit for notifying affected employees if the employer has reasonable grounds for requiring the extension.
 (5) A notice extending the time limit must not extend the time limit by more than 25 working days, and must—
-  (a) be given as soon as is reasonably practicable and not later than 20 working days after the date on which the employer decides that the claim is arguable; and
+  (a) be given as soon as is reasonably practicable and not later than 20 working days after the date on which the employer decides that the claim has merit; and
   (b) specify the extended date by which the employer will notify affected employees of the claim; and
   (c) set out the grounds for requiring the extension.
 
@@ -434,7 +521,7 @@ Sections 13Q to 13S and 13V apply to employers who have entered a multi-employer
   (b) to both the employee’s employer and the claimant after that time.
 (2) A notice opting out must be given before the earlier of—
   (a) the final date for voting on a proposed pay equity claim settlement (see section 13ZF(4)﻿(c)﻿(ii)); and
-  (b) the day before the date on which the claimant applies to the Authority for a determination under section 13ZY(1)﻿(d) that fixes remuneration.
+  (b) the day before the date on which the claimant applies to the Authority for a determination under section 13ZY(1)﻿(i) that fixes remuneration.
 (3) An employee who is a member of the union may not opt out of a claim raised by the union with the employee’s employer while remaining a member of the union (but may cancel membership of the union and then opt out).
 
 ### 13Z Employer must notify union of employees covered by union-raised claim
@@ -460,10 +547,10 @@ Sections 13Q to 13S and 13V apply to employers who have entered a multi-employer
 
 **Pay equity bargaining process**
 
-### 13ZB Process applies to arguable claims
-Sections 13ZC to 13ZZE apply to a pay equity claim if—
-  (a) the employer decides, or is deemed to have accepted, that the claim is arguable; or
-  (b) the Authority or the court determines that the claim is arguable.
+### 13ZB Process applies to claims that have merit
+Sections 13ZC to 13ZZC apply to a pay equity claim if—
+  (a) the employer decides, or is deemed to have accepted, that the claim has merit; or
+  (b) the Authority or the court determines that the claim has merit.
 
 ### 13ZC Duty to provide information
 (1) The parties to a pay equity claim must provide to each other, on request, information that is reasonably necessary to support or substantiate claims or responses to claims made for the purposes of the bargaining.
@@ -476,37 +563,99 @@ Sections 13ZC to 13ZZE apply to a pay equity claim if—
 (4) If information is provided to an independent reviewer, section 34(4) to (9) of the Employment Relations Act 2000 applies as if references in those provisions to the union and employer were references to the parties.
 
 ### 13ZD Matters to be assessed
-(1) The parties to a pay equity claim must determine whether the employee’s work is undervalued by assessing—
-  (a) the nature of the work to which the claim relates, and the nature of comparators, including, in each case, the following:
+(1) The parties to a pay equity claim must assess all matters set out in subsection (2)—
+  (a) to determine whether, and the extent to which, the work to which the claim relates has been subject to sex-based undervaluation when compared with the valuation of the work performed by appropriate comparators; and
+  (b) by reference to—
+    (i) the reasons for historical undervaluation set out in section 13F(2); and
+    (ii) in relation to continued systemic undervaluation, all relevant matters including the reasons set out in section 13F(3).
+(2) The matters to be assessed are as follows:
+  (a) the nature of the work to which the claim relates, and the nature of the work of appropriate comparators, including, in each case, the following:
     (i) the skills required:
     (ii) the responsibilities imposed:
-    (iii) the conditions of work:
-    (iv) the degree of effort required to perform the work:
-    (v) the level of experience required to perform the work:
-    (vi) any other relevant work features; and
-  (b) terms and conditions of employment (other than remuneration) of the persons who perform the work to which the claim relates; and
-  (c) terms and conditions of employment (other than remuneration) of persons who perform comparable work; and
-  (d) the remuneration that is paid to the persons who perform the work to which the claim relates; and
-  (e) the remuneration that is paid to persons who perform comparable work; and
-  (f) any other matters prescribed by regulations made under section 19 for the purpose of this section.
-(2) In making the assessments required by subsection (1), the parties—
-  (a) must consider matters objectively and without assumptions based on sex (and prevailing views as to the value of work must not be assumed to be free of assumptions based on sex); and
-  (b) must recognise the importance of skills, responsibilities, effort, and conditions that are or have been commonly overlooked or undervalued in female-dominated work (for example, social and communication skills, taking responsibility for the well-being of others, cultural knowledge, and sensitivity); and
-  (c) must consider the list of factors in section 13F(3).
+    (iii) the level of experience required to perform the work:
+    (iv) the conditions of work:
+    (v) the degree of effort required to perform the work:
+    (vi) any other relevant work features:
+  (b) the terms and conditions of employment (other than remuneration) of—
+    (i) the persons who perform the work to which the claim relates; and
+    (ii) appropriate comparators:
+  (c) the remuneration that is paid to—
+    (i) the persons who perform the work to which the claim relates; and
+    (ii) appropriate comparators:
+  (d) any other matters prescribed by regulations.
+(3) In making the assessments, the parties must—
+  (a) consider matters objectively and without assumptions based on sex, taking the following into account:
+    (i) prevailing views as to the value of work are not necessarily free of assumptions based on sex:
+    (ii) undervaluations or other differences in remuneration that are identified are not necessarily based on sex; and
+  (b) recognise the importance of skills, responsibilities, effort, and conditions that are or have been commonly overlooked or undervalued in work that is performed by a workforce that is at least 70% female (for example, social and communication skills, taking responsibility for the well-being of others, cultural knowledge, and sensitivity); and
+  (c) make the determination referred to in subsection (1)﻿(a) only by considering the work to which the claim relates since the time when that work came to be performed by a workforce that is at least 70% female.
 
-### 13ZE Identifying appropriate comparators
-(1) For the purpose of identifying 1 or more appropriate comparators against which to assess a pay equity claim as required by section 13ZD, comparable work may include any of the following:
-  (a) work performed by male comparators that is the same as, or substantially similar to, the work to which the claim relates:
-  (b) work performed by male comparators that is different to the work to which the claim relates, if the comparators’ work involves 1 or more of the following:
+### 13ZE Selecting appropriate comparators
+(1) This section sets out how parties select appropriate comparators against which to assess a pay equity claim under section 13ZD.
+Method of selection: hierarchy
+(2) The parties to a pay equity claim involving 1 employer must select comparators that are most closely related to the employer by approaching the task as follows:
+  (a) if the employer employs 1 or more comparators, the parties must select 1 or more of those comparators:
+  (b) if the employer does not employ any comparators, the parties must select 1 or more comparators from 1 or more similar employers:
+  (c) if neither paragraph (a) nor paragraph (b) applies, the parties must select 1 or more comparators from 1 or more other employers within the same industry or sector.
+(3) The parties to a multi-employer pay equity claim must select comparators that are most closely related to the employers by approaching the task as follows:
+  (a) if 1 or more of the employers employ 1 or more comparators, the parties must select 1 or more comparators from 1 or more of those employers:
+  (b) if none of the employers employ any comparators, the parties must select 1 or more comparators from 1 or more employers that are similar to the employers in the claim:
+  (c) if neither paragraph (a) nor paragraph (b) applies, the parties must select 1 or more comparators from 1 or more other employers within the same industry or sector.
+(4) In addition to acting in accordance with subsection (2) or (3) (as applicable), the parties may, by agreement, select as a comparator the employees covered by a pay equity claim that has previously (but not before the Equal Pay Amendment Act 2025 comes into force) been raised and been the subject of a pay equity claim settlement.
+Method of selection: comparators perform comparable work
+(5) A comparator selected under subsection (2) or (3) (as applicable) must be a male workforce that performs—
+  (a) work that is the same as, or substantially similar to, the work to which the claim relates; or
+  (b) work that is different to the work to which the claim relates, but that involves 1 or more of the following:
     (i) skills and experience that are the same as, or substantially similar to, those required to perform the work to which the claim relates:
     (ii) responsibilities that are the same as, or substantially similar to, those involved in the work to which the claim relates:
     (iii) working conditions that are the same as, or substantially similar to, those involved in the work to which the claim relates:
-    (iv) degrees of effort that are the same as, or substantially similar to, those involved in the work to which the claim relates:
-  (c) work performed by any other comparators that the parties or the Authority or court considers useful and relevant, including comparators who perform work that has previously been the subject of a pay equity claim settlement.
-(2) Despite subsection (1), work performed by a male comparator may not be selected for the purposes of assessing a pay equity claim under section 13ZD(1) if there are reasonable grounds to believe that the work performed by that male comparator—
-  (a) has been historically undervalued for 1 or more of the reasons set out in section 13F(3)﻿(a) to (d); and
-  (b) continues to be undervalued for the reasons set out in section 13F(3)﻿(e).
-(3) When identifying appropriate comparators against which to assess a pay equity claim, the parties must take into account any matters prescribed by regulations made under section 19 for the purpose of this section.
+    (iv) degrees of effort that are the same as, or substantially similar to, those involved in the work to which the claim relates.
+Exclusions
+(6) Despite subsections (2) and (3), the parties may not select a comparator if there are reasonable grounds to believe that the work performed by that comparator—
+  (a) has been historically undervalued in the way described in section 13F(1)﻿(b)﻿(i); and
+  (b) continues to be subject to systemic sex-based undervaluation in the way described in section 13F(1)﻿(b)﻿(ii).
+(7) Despite subsections (2) to (4), the parties may not select as a comparator a workforce that is too small to allow a meaningful comparison between its work and the work to which the claim relates.
+Other prescribed considerations
+(8) When selecting comparators, the parties must take into account any additional matters prescribed by regulations.
+
+### 13ZEA Employer decides no appropriate comparators available
+(1) If the employer decides that no appropriate comparators are available for selection, the employer must give notice to the claimant that—
+  (a) sets out the reasons for the employer’s decision; and
+  (b) describes the effect of the decision as set out in subsection (2); and
+  (c) explains the steps that the claimant may take to challenge the employer’s decision, including advice that the claimant may—
+    (i) seek further details of the reasons for the employer’s decision; and
+    (ii) refer the decision to mediation under section 13ZO; and
+    (iii) refer the decision to the Authority for facilitation under sections 13ZP to 13ZX if 1 or both of the grounds in section 13ZR(2) exist; and
+    (iv) apply to the Authority under section 13ZY for a determination on the decision and that, if the claimant does so, the Authority will first consider whether an attempt has been made to resolve the question by facilitation or mediation.
+(2) A notice under subsection (1) has the effect of discontinuing the pay equity claim from the date on which the employer gives the notice, but the discontinuance of the claim does not prevent—
+  (a) the parties from agreeing to reverse the employer’s decision; or
+  (b) the claimant from applying to the Authority for a determination in relation to the employer’s decision; or
+  (c) a new claim that complies with section 13DA from being raised.
+(3) If the parties agree to reverse the employer’s decision, the claim is no longer discontinued.
+
+**New employer decision about work covered by claim**
+
+### 13ZEB New decision about same or substantially similar work
+(1) An employer who is making an assessment under section 13ZD of a pay equity claim raised by 1 or more unions on behalf of 2 or more of the employer’s employees may decide that, in the employer’s view, the employees covered by the claim do not all perform work that is the same or substantially similar.
+(2) An employer—
+  (a) may make a decision under subsection (1) even if the employer decided under section 13PB that, in the employer’s view, all of the employees covered by the claim perform work that is the same or substantially similar; but
+  (b) may not make a decision under subsection (1) if the Authority has determined under section 13ZY that all of the employees covered by the claim perform work that is the same or substantially similar.
+(3) An employer who makes a decision under subsection (1) must give notice to the claimant that—
+  (a) sets out the reasons for the employer’s decision; and
+  (b) describes the effect of the decision as set out in subsection (5); and
+  (c) explains the steps that the claimant may take to challenge the employer’s decision, including advice that the claimant may—
+    (i) seek further details of the reasons for the employer’s decision; and
+    (ii) refer the decision to mediation under section 13ZO; and
+    (iii) refer the decision to the Authority for facilitation under sections 13ZP to 13ZX if 1 or both of the grounds in section 13ZR(2) exist; and
+    (iv) apply to the Authority under section 13ZY for a determination on the decision and that, if the claimant does so, the Authority will first consider whether an attempt has been made to resolve the question by facilitation or mediation.
+(4) The employer may give notice under this section—
+  (a) at any time before the assessment under section 13ZD is completed; but
+  (b) once only.
+(5) A notice under subsection (3) has the effect of discontinuing the pay equity claim from the date on which the employer gives the notice, but the discontinuance of the claim does not prevent—
+  (a) the parties from agreeing to reverse the employer’s decision; or
+  (b) the claimant from applying to the Authority for a determination in relation to the employer’s decision; or
+  (c) a new claim that complies with section 13DA from being raised.
+(6) If the parties agree to reverse the employer’s decision, the claim is no longer discontinued.
 
 **Settling pay equity claim**
 
@@ -542,15 +691,18 @@ Sections 13ZC to 13ZZE apply to a pay equity claim if—
 (1) A pay equity claim is settled—
   (a) when—
     (i) remuneration is determined that the parties agree does not differentiate between male and female employees in the manner set out in section 2AAC(b); and
-    (ii) a process is agreed to review the employee’s remuneration to ensure that pay equity is maintained, including the agreed frequency of reviews; and
+    (ii) the parties agree that remuneration is to be increased to that agreed level on the date of the pay equity claim settlement or in agreed phases over a maximum period of 3 years from that date; and
     (iii) those matters are recorded in writing in accordance with subsection (3); or
-  (b) when the Authority or the court—
+  (b) when the Authority or the court (subject to section 13ZZC)—
     (i) determines that an employee’s remuneration does not differentiate between male and female employees in the manner set out in section 2AAC(b); or
-    (ii) issues a determination that,—
-      (A) if the parties have agreed a review process but have not agreed remuneration, fixes remuneration that does not differentiate between male and female employees in the manner set out in section 2AAC(b); or
-      (B) if the parties have agreed remuneration but have not agreed a review process, specifies a process to review that remuneration to ensure that pay equity is maintained, including the frequency of reviews; or
-      (C) fixes remuneration that does not differentiate between male and female employees in the manner set out in section 2AAC(b) and specifies a process to review that remuneration to ensure that pay equity is maintained, including the frequency of reviews.
+    (ii) issues a determination that—
+      (A) fixes remuneration that does not differentiate between male and female employees in the manner set out in section 2AAC(b); and
+      (B) specifies that remuneration is to be increased in 3 annual phases of equal amounts or proportions starting at the date of the pay equity claim settlement; or
+    (iii) if the parties have agreed on remuneration that does not differentiate between male and female employees in the manner set out in section 2AAC(b), but have not agreed on whether the remuneration is to be increased in phases, issues a determination—
+      (A) that remuneration is to be increased to the agreed level on the date of the pay equity claim settlement; or
+      (B) that remuneration is to be increased to the agreed level in phases and that specifies the number of phased instalments, their amounts or proportions, and their timing (over a maximum period of 3 years from the date of the pay equity claim settlement).
 (2) A pay equity claim settlement may also include terms and conditions of employment other than remuneration, if the parties agree, but an employer may not reduce any terms and conditions of employment of an employee who has raised a pay equity claim or who is covered by a union-raised claim for the purpose of settling that claim.
+(2A) The parties may not agree to review, or agree on a process for the review of, a pay equity claim settlement.
 (3) A pay equity claim settlement agreed between the parties must—
   (a) be in writing; and
   (b) state—
@@ -560,11 +712,11 @@ Sections 13ZC to 13ZZE apply to a pay equity claim if—
     (iv) in the case of a settlement of a union-raised pay equity claim, a description of the work to which the settlement relates; and
     (v) in the case of a pay equity claim settlement with an individual employee, the employee’s occupation and position; and
     (vi) the remuneration that the parties agree does not differentiate between male and female employees in the manner set out in section 2AAC(b); and
+    (via) whether remuneration is to be increased on the date of the pay equity claim settlement or in phases; and
+    (vib) if remuneration is to be increased in phases, the number of phased instalments, their amounts or proportions, and their timing (over a maximum period of 3 years from the date of the pay equity claim settlement); and
     (vii) terms and conditions of employment other than remuneration that the parties have agreed to include (if any); and
-    (viii) the process for reviewing that remuneration (which may include requirements to reconsider the matters set out in sections 13F(3) (undervaluation factors), 13ZD (assessment of the work), and 13ZE (assessment of comparators) if the parties agree) to ensure that pay equity is maintained; and
-    (ix) the frequency of those reviews, which must be—
-      (A) aligned with any applicable collective bargaining rounds; or
-      (B) if no collective bargaining round applies, at least every 3 years; and
+    (viii)
+    (ix)
   (c) include a summary of the method used to assess the pay equity claim and a description of the comparators that were considered by the parties.
 (4) Settlement of a multi-employer pay equity claim must be recorded in a single multi-employer pay equity claim settlement that is signed by each union and each employer who is a party to the claim at the time of the settlement.
 (5) Settlement of a pay equity claim raised by multiple unions with a single employer must be recorded in a single pay equity claim settlement that is signed by the employer and by each union that is a party to the claim at the time of the settlement.
@@ -597,7 +749,7 @@ Sections 13ZC to 13ZZE apply to a pay equity claim if—
 (2) The Authority must not make an order under subsection (1)﻿(b) unless the requirements in section 164 of the Employment Relations Act 2000 have been met, and that section applies accordingly with all necessary modifications.
 
 ### 13ZK Copy of pay equity claim settlement to be delivered to chief executive
-(1) This section applies if a pay equity claim settlement is reached (whether that settlement is reached by the parties recording an agreement in writing as described in section 13ZH(3) or by the Authority or the court making a determination described in section 13ZH(1)﻿(b)﻿(ii)).
+(1) This section applies if a pay equity claim settlement is reached (whether that settlement is reached by the parties recording an agreement in writing as described in section 13ZH(3) or by the Authority or the court making a determination described in section 13ZH(1)﻿(b)﻿(ii) or (iii)).
 (2) Each employer who is a party to a pay equity claim settlement must ensure that, as soon as practicable after the settlement is reached, a copy of the settlement agreement or determination (as applicable) is delivered to the chief executive of the department of State that is responsible for the administration of this Act.
 (3) The copy of the settlement delivered to the chief executive must include any document referred to, or incorporated by reference, in the settlement, unless the document is publicly available.
 (4) The information contained in the copies of pay equity claim settlements delivered to the chief executive under subsection (2) may not be used by the chief executive for purposes other than statistical or analytical purposes.
@@ -605,7 +757,7 @@ Sections 13ZC to 13ZZE apply to a pay equity claim if—
 ### 13ZL Offers of benefit of pay equity claim settlement to other employees
 (1) In this section, offered the benefit of a settlement, in the case of an employee, means that the employee is—
   (a) offered the same remuneration (and other terms and conditions of employment included in the settlement, if any) as the other employee or employees who are covered by the pay equity claim settlement; and
-  (b) offered the same offer of remuneration for past work, if remuneration for past work is included in the settlement, and if the employee would qualify for that offer; and
+  (b) offered the same offer of remuneration for past work, if the parties agreed to include remuneration for past work in the pay equity claim settlement, and if the employee would qualify for that offer; and
   (c) advised that acceptance of the offer will have the effect that the employee is barred from raising a claim in relation to pay equity in accordance with sections 2B and 13E(6).
 Existing employees
 (2) An employer who is a party to a pay equity claim settlement with a union must offer the benefit of that settlement to each employee of the employer who, on the date of the settlement,—
@@ -644,7 +796,7 @@ General
 
 ### 13ZN Relationship between pay equity claims and collective bargaining
 (1) The entry into a collective agreement in accordance with the collective bargaining provisions of the Employment Relations Act 2000 by an employer and a union does not settle or extinguish an unsettled pay equity claim to which the employer is a party.
-(2) The existence of an unsettled pay equity claim between an employer and an employee, or of an uncompleted review of a pay equity claim settlement, is not a genuine reason for failing to conclude collective bargaining between that employer and a union representing the employer’s employees for the purposes of section 33 of the Employment Relations Act 2000.
+(2) The existence of an unsettled pay equity claim between an employer and an employee is not a genuine reason for failing to conclude collective bargaining between that employer and a union representing the employer’s employees for the purposes of section 33 of the Employment Relations Act 2000.
 
 ### 13ZNA Relationship between pay equity claims and fair pay agreements
 [Repealed]
@@ -654,11 +806,13 @@ General
 ### 13ZO Parties may refer issues to mediation
 (1) Any party to a pay equity claim may refer any 1 or more issues relating to that claim to mediation services provided under Part 10 of the Employment Relations Act 2000.
 (2) Issues that may be referred to mediation services include, but are not limited to, the following:
-  (a) a dispute as to whether the pay equity claim is arguable (see section 13F):
+  (aaa) a dispute as to whether a claim meets all requirements set out in section 13E:
+  (a) a dispute as to whether the pay equity claim has merit (see section 13F):
   (b) a dispute as to whether an employee’s work is the same as, or substantially similar to, work that is the subject of a pay equity claim raised by a union with the employee’s employer, for the purposes of determining whether or not the employee is, or is to be, covered by the union-raised claim:
-  (c) a dispute as to whether work performed by others is comparable work for the purposes of the assessment required by section 13ZD:
+  (c) a dispute relating to the selection of appropriate comparators for the purposes of the assessment required by section 13ZD:
   (d) a dispute as to whether proposed remuneration no longer differentiates between male and female employees in the manner set out in section 2AAC(b) for the purposes of settling a pay equity claim:
-  (e) a dispute as to whether exceptional circumstances exist for the purposes of section 13ZY(5)﻿(b) (which relates to an application for a determination that a pay equity claim may be raised that would otherwise be barred by section 13E(6)).
+  (da) a dispute as to whether remuneration agreed by the parties should be increased to the agreed level in phases and, if so, as to the number of phased instalments, their amounts or proportions, and their timing (over a maximum period of 3 years from the date of the pay equity claim settlement).
+  (e)
 (3) If an issue relating to a pay equity claim is referred to mediation services, sections 145 to 154 of the Employment Relations Act 2000 apply, with all necessary modifications.
 
 **Facilitation**
@@ -672,12 +826,13 @@ General
 ### 13ZQ Reference to Authority
 (1) Any party to a pay equity claim may refer any 1 or more issues relating to that claim to the Authority for facilitation to assist in resolving the claim.
 (2) Issues that may be referred to the Authority include, but are not limited to, the following:
+  (aaa) a dispute about whether a claim meets all requirements set out in section 13E:
   (a) a dispute as to whether an employee’s work is the same as, or substantially similar to, work that is the subject of a pay equity claim raised by a union with the employee’s employer, for the purposes of determining whether or not the employee is, or is to be, covered by the union-raised claim:
-  (b) a dispute as to whether work performed by others is comparable work for the purposes of the assessment required by section 13ZD:
-  (c) a dispute as to whether proposed remuneration no longer differentiates between male and female employees in the manner set out in section 2AAC(b) for the purposes of settling a pay equity claim.
-(3) Despite subsections (1) and (2), the following disputes may only be referred to the Authority for facilitation if all of the parties to the claim agree to do so:
-  (a) a dispute as to whether a pay equity claim is arguable:
-  (b) a dispute as to whether exceptional circumstances exist for the purposes of section 13ZY(5)﻿(b) (which relates to an application for a determination that a pay equity claim may be raised that would otherwise be barred by section 13E(6)).
+  (b) a dispute relating to the selection of appropriate comparators for the purposes of the assessment required by section 13ZD:
+  (c) a dispute as to whether proposed remuneration no longer differentiates between male and female employees in the manner set out in section 2AAC(b) for the purposes of settling a pay equity claim:
+  (d) a dispute about whether remuneration agreed by the parties should be increased to the agreed level in phases and, if so, as to the number of phased instalments, their amounts or proportions, and their timing (over a maximum period of 3 years from the date of the pay equity claim settlement).
+(2A) A referral of the issue described in subsection (2)﻿(c) includes the issue of the phases in which any recommended remuneration is to be increased (see section 13ZW(1A)).
+(3) Despite subsections (1) and (2), a dispute as to whether a pay equity claim has merit may only be referred to the Authority for facilitation if all of the parties to the claim agree to refer it.
 (4) A reference for facilitation must be made on 1 or both of the grounds specified in section 13ZR(2).
 
 ### 13ZR When Authority may accept reference
@@ -690,7 +845,9 @@ General
     (ii) has undermined the progress of the pay equity claim:
   (b) that sufficient efforts (including mediation) have failed to resolve an issue relating to the claim.
 (3) The Authority must not accept a reference for facilitation in relation to a pay equity claim for which the Authority has already acted as a facilitator unless—
-  (a) the earlier facilitation related only to the issue of whether the claim is arguable and the subsequent reference relates to the pay equity bargaining process; or
+  (a) the earlier facilitation related only to one of the following issues and the subsequent reference relates to the pay equity bargaining process:
+    (i) whether the claim meets all requirements set out in section 13E:
+    (ii) whether the claim has merit; or
   (b) the circumstances relating to the pay equity claim have changed; or
   (c) the bargaining since the previous facilitation has been protracted.
 
@@ -723,9 +880,13 @@ A member of the Authority who facilitates resolution of an issue relating to a p
 
 ### 13ZW Recommendation by Authority
 (1) While assisting parties to resolve an issue related to a pay equity claim, the Authority may make a recommendation about any matter that relates to the pay equity claim, including, but not limited to, recommendations as to the following:
-  (a) whether the pay equity claim is arguable:
+  (aaa) whether the claim meets all requirements set out in section 13E:
+  (a) whether the pay equity claim has merit:
   (b) the process the parties should follow to reach agreement:
-  (c) remuneration that would no longer differentiate between male and female employees in the manner set out in section 2AAC(b).
+  (c) remuneration that would no longer differentiate between male and female employees in the manner set out in section 2AAC(b):
+  (d) whether remuneration agreed by the parties should be increased to the agreed level in phases and, if so, the number of phased instalments, their amounts or proportions, and their timing (over a maximum period of 3 years from the date of the pay equity claim settlement).
+(1A) If the Authority makes a recommendation under subsection (1)﻿(c), it must also specify that remuneration is to be increased in 3 annual phases of equal amounts or proportions starting at the date of the pay equity claim settlement (see section 13ZQ(2A)).
+(1B) If the Authority is making a recommendation under subsection (1)﻿(d), it must take into account the matters set out in section 13ZY(7).
 (2) The Authority may give public notice of a recommendation in any manner that the Authority determines.
 (3) A recommendation made by the Authority is not binding on a party, but a party must consider a recommendation before deciding whether to accept it.
 
@@ -735,78 +896,128 @@ During facilitation, the parties must deal with the Authority in good faith.
 **Determination by Authority**
 
 ### 13ZY Parties may apply for determination by Authority
+Matters the Authority may determine
 (1) A party to a pay equity claim may apply to the Authority for determination of any matter that relates to the pay equity claim, including, but not limited to, the following:
-  (a) a determination as to whether the pay equity claim is arguable (see section 13F):
-  (b) a determination as to whether an employee’s work is the same as, or substantially similar to, work that is the subject of a pay equity claim raised by a union with the employee’s employer, for the purposes of determining whether or not the employee is, or is to be, covered by the union-raised claim:
-  (c) a determination as to whether the work to which the claim relates is undervalued:
-  (d) a determination that—
-    (i) fixes remuneration that does not differentiate between male and female employees in the manner set out in section 2AAC(b); and
-    (ii) specifies a process to review that remuneration to ensure that pay equity is maintained, including the frequency of reviews.
-(2) Where an application is made under subsection (1), the Authority—
+  (a) a determination as to whether the pay equity claim meets all requirements set out in section 13E other than the requirements to which paragraphs (b) and (c)﻿(i) apply:
+  (b) a determination, for the purposes of section 13E(6), as to whether a pay equity claim may be raised within 10 years after the date of a pay equity claim settlement if the claim would relate to any or all of the employees covered by the pay equity settlement and the work to which the settlement relates:
+  (c) a determination as to whether, for a claim raised by 1 or more unions on behalf of 2 or more of an employer’s employees, all of the employees covered by the claim perform work that is the same or substantially similar—
+    (i) for the purpose of a dispute concerning an employer’s decision under section 13PB; or
+    (ii) for the purpose of a dispute concerning an employer’s decision under section 13ZEB:
+  (d) a determination as to whether an employee’s work is the same as, or substantially similar to, work that is the subject of a pay equity claim raised by a union with the employee’s employer, for the purposes of determining whether or not the employee is, or is to be, covered by the claim:
+  (e) a determination as to whether the pay equity claim has merit (see section 13F):
+  (f) a determination as to whether the work to which the claim relates is undervalued:
+  (g) a determination as to whether 1 or more comparators selected under section 13ZE are appropriate comparators:
+  (h) a determination as to whether any appropriate comparators are available for selection for use in assessing a pay equity claim (see section 13ZEA):
+  (i) a determination that fixes remuneration that does not differentiate between male and female employees in the manner set out in section 2AAC(b):
+  (j) a determination as to whether remuneration agreed by the parties should be increased to the agreed level in phases and, if so, as to the number of phased instalments, their amounts or proportions, and their timing (over a maximum period of 3 years from the date of the pay equity claim settlement).
+Authority’s obligations in making determinations
+(2) On receiving an application under subsection (1), the Authority—
   (a) must first consider whether an attempt has been made to resolve the difficulties by the use of—
     (i) mediation or further mediation under section 13ZO; or
     (ii) facilitation under sections 13ZQ to 13ZX; and
   (b) may direct the parties to try to resolve the difficulties by mediation or further mediation; and
   (c) may, if 1 or both of the grounds in section 13ZR(2) exist, direct that facilitation be used before the Authority investigates the matter, unless the Authority considers that use of facilitation—
-    (i) will not contribute constructively to resolve the difficulties; or
+    (i) will not contribute constructively to resolving the difficulties; or
     (ii) will not, in all the circumstances, be in the public interest; or
     (iii) will undermine the urgent nature of the process; or
     (iv) will be otherwise impractical or inappropriate in the circumstances.
-(3) Subsection (2)﻿(c) does not apply to an application for a determination that relates to—
-  (a) whether a pay equity claim is arguable; or
-  (b) whether exceptional circumstances exist for the purposes of subsection (5)﻿(b).
-(4) If an application for a determination relates to whether the work to which the claim relates is undervalued, the Authority or the court may take into account the list of factors set out in sections 13F(3) and 13ZD.
-(5) If an application for a determination relates to whether a claim may be raised despite section 13E(6), the Authority or the court must make its determination—
-  (a) having regard to the existing pay equity claim settlement that covers the employee; and
-  (b) only if it is satisfied that there are exceptional circumstances.
+(3) Subsection (2)﻿(c) does not apply to an application for a determination under subsection (1)﻿(a), (b), (c)﻿(i), or (e).
+(4) If an application is made for a determination under subsection (1)﻿(b), the Authority or the court—
+  (a) must have regard to the existing pay equity claim settlement; and
+  (b) may determine that the claim may be raised only if satisfied that there are exceptional circumstances.
+(5) If an application is made for a determination under subsection (1)﻿(f), the Authority or the court may take the following into account:
+  (a) the reasons for historical undervaluation set out in section 13F(2):
+  (b) in relation to continued systemic undervaluation, all relevant matters including the reasons set out in section 13F(3):
+    (c) the requirements set out in section 13ZD for assessing a pay equity claim.
+(6) If an application is made for a determination under subsection (1)﻿(i), the Authority must also specify that remuneration is to be increased in 3 annual phases of equal amounts or proportions starting at the date of the pay equity claim settlement.
+(7) If an application is made for a determination under subsection (1)﻿(j), the Authority or the court must take into account—
+  (a) the conduct of the parties; and
+  (b) the ability of the employer to pay; and
+  (c) the size of the increase in remuneration; and
+  (d) any other matter the Authority or the court considers relevant.
+Matters the Authority may not determine
+(8) Despite subsection (1), the Authority may not make a determination—
+  (a) in relation to an employer’s decision under section 13L to opt out of a multi-employer pay equity claim (see section 13L(10)); or
+  (b) in relation to the failure of parties to agree whether to select a previously settled pay equity claim under section 13ZE(4) as an appropriate comparator for their assessments under section 13ZD; or
+  (c) that provides for—
+    (i) recovery of an amount of remuneration that relates to work performed before the date of the determination; or
+    (ii) the review, or a process for the review, of a pay equity claim settlement.
 
 ### 13ZZ Union must notify employees covered by union-raised claim before applying for determination by Authority
-(1) Before a union applies to the Authority for a determination under section 13ZY(1)﻿(d) that fixes remuneration, the union must notify each employee who is covered by the union-raised claim.
+(1) Before a union applies to the Authority for a determination under section 13ZY(1)﻿(i) that fixes remuneration, the union must notify each employee who is covered by the union-raised claim.
 (2) The notice must—
   (a) specify the date on which the union proposes to file the application for a determination; and
-  (b) advise the employee—
-    (i) of the consequences of the Authority making a determination fixing remuneration (including that the employee’s employment agreement will be varied and the employee will lose the right to bring their own claim relating to pay equity); and
-    (ii) that the day before the date on which the union proposes to file the application for a determination is the final date on which the employee may opt out under section 13Y.
+  (b) advise the employee of the consequences of the Authority making the determination, including that,—
+    (i) if remuneration is increased, it will be increased to the determined level in 3 annual phases of equal amounts or proportions starting at the date of the pay equity claim settlement (see section 13ZY(6)); and
+    (ii) the employee’s employment agreement will be varied and the employee will lose the right to bring their own claim relating to pay equity); and
+  (c) advise the employee that the day before the date on which the union proposes to file the application for a determination is the final date on which the employee may opt out under section 13Y.
 (3) The notice must be given a reasonable time before the date on which the union proposes to file the application.
 
-### 13ZZA If Authority or court determines pay equity claim is arguable
-If the Authority or the court determines that a pay equity claim is arguable, the parties must enter into the pay equity bargaining process in accordance with sections 13S to 13ZZE.
+### 13ZZA Effect of determinations on discontinued claims
+(1) This section and sections 13ZZAA to 13ZZAD—
+  (a) apply to a pay equity claim that is discontinued by the employer giving notice to the claimant of a decision listed in subsection (2); and
+  (b) set out the effect that determinations by the Authority or the court have on the discontinued claim.
+(2) The employer’s decisions are as follows:
+  (a) a decision under section 13PB that the pay equity claim does not meet all requirements set out in section 13E:
+  (b) a decision under section 13Q that the claim does not have merit:
+  (c) a decision under section 13ZEA that no appropriate comparators are available for selection for use in assessing the claim:
+  (d) a decision under section 13ZEB that the employees covered by the claim do not all perform work that is the same or substantially similar.
+
+### 13ZZAA Decision that claim does not meet section 13E requirements
+(1) This section applies if the Authority or the court makes a determination under section 13ZY(1)﻿(a), (b), or (c)﻿(i) in relation to a decision referred to in section 13ZZA(2)﻿(a).
+(2) If the effect of the determination is that the claim meets all requirements set out in section 13E,—
+  (a) the claim is no longer discontinued; and
+  (b) the employer must decide under section 13Q whether, in its view, the claim has merit and give notice of that decision to the claimant under section 13S; and
+  (c) for the purposes of those obligations, sections 13PA(2) and 13R(1) and (2)﻿(a) do not apply; and
+  (d) the employer must under sections 13Q and 13S make, and give notice of, the employer’s decision about whether the claim has merit not later than—
+    (i) 60 working days after the date on which the employer’s decision is reversed less the number of working days between the date on which the claim was received and the date on which the employer gave the notice under section 13PB(4); or
+    (ii) any extended date beyond the period described in subparagraph (i) that is specified in a notice by the employer under paragraph (e); and
+  (e) the employer may, by notice to the claimant, extend the time limit specified in paragraph (d)﻿(i) if the employer has reasonable grounds for requiring the extension; and
+  (f) a notice under paragraph (e) extending the time limit must be given as soon as is reasonably practicable and,—
+    (i) if it is the first notice extending the time limit since the claim was received, not later than 60 working days after the date on which the employer’s decision is reversed less the number of working days between the date on which the claim was received and the date on which the employer gave the notice under section 13PB(4):
+    (ii) if a previous extension of the time limit under section 13R had not expired on the date on which the employer gave notice under section 13PB(4), not later than 5 working days after the date of the reversal of the employer’s decision; and
+  (g) section 13R(2)﻿(b) and (c) and (3) applies to a notice under paragraph (e); and
+  (h) a notice to which paragraph (f)﻿(ii) applies may extend the time limit in paragraph (d)﻿(i) only by the period that was remaining of the existing extension.
+(3) If the effect of the determination is that the claim does not meet all requirements set out in section 13E, the claim remains discontinued from the date on which the employer gave notice of the decision to the claimant.
+
+### 13ZZAB Decision that claim does not have merit
+(1) This section applies if the Authority or the court makes a determination under section 13ZY(1)﻿(e) in relation to a decision referred to in section 13ZZA(2)﻿(b).
+(2) If the determination is that the claim has merit,—
+  (a) the claim is no longer discontinued; and
+  (b) section 13ZB applies and the parties must enter into the pay equity bargaining process.
+(3) If the determination is that the claim does not have merit, the claim remains discontinued from the date on which the employer gave notice of the decision to the claimant.
+
+### 13ZZAC Decision that no appropriate comparators are available
+(1) This section applies if the Authority or the court makes a determination under section 13ZY(1)﻿(h) in relation to a decision referred to in section 13ZZA(2)﻿(c).
+(2) If the determination is that 1 or more appropriate comparators are available for selection for use in assessing the claim,—
+  (a) the claim is no longer discontinued; and
+  (b) the parties must resume the process of selecting appropriate comparators under section 13ZE and assessing the pay equity claim under section 13ZD.
+(3) If the determination is that there are no appropriate comparators available for selection for use in assessing the claim, the claim remains discontinued from the date on which the employer gave notice of the decision to the claimant.
+
+### 13ZZAD Later decision on work performed by employees covered by claim
+(1) This section applies if the Authority or the court makes a determination under section 13ZY(1)﻿(c)﻿(ii) in relation to a decision referred to in section 13ZZA(2)﻿(d).
+(2) If the determination is that all of the employees covered by the claim perform work that is the same or substantially similar,—
+  (a) the claim is no longer discontinued; and
+  (b) the parties must resume the assessment of the pay equity claim under section 13ZD.
+(3) If the determination is that the employees covered by the claim do not all perform work that is the same or substantially similar, the claim remains discontinued from the date on which the employer gave notice of the decision to the claimant.
 
 ### 13ZZB Process on application to fix remuneration
-(1) If the Authority receives an application under section 13ZY(1)﻿(d) to fix remuneration and the parties have not previously tried to resolve the difficulties by mediation or further mediation, the Authority must—
+(1) If the Authority receives an application under section 13ZY(1)﻿(i) to fix remuneration and the parties have not previously tried to resolve the difficulties by mediation or further mediation, the Authority must—
   (a) direct the parties to try to resolve the difficulties by mediation or further mediation; or
   (b) recommend another process that the parties must follow to try to resolve the difficulties.
 (2) The Authority may accept an application for a determination that fixes remuneration only if—
   (a) the parties have first tried to resolve the difficulties by mediation, or by any other process recommended by the Authority; and
-  (b) the Authority is satisfied that—
-    (i) all other reasonable alternatives for settling the pay equity claim have been exhausted; or
-    (ii) a reasonable period has elapsed within which the parties have used their best endeavours to identify and use reasonable alternatives to settle the pay equity claim.
+  (b) the Authority is satisfied that all other reasonable alternatives for settling the pay equity claim have been exhausted.
 
 ### 13ZZC Limitation on challenge to determination of Authority fixing remuneration
-(1) This section applies to an application for a determination of the Authority that fixes remuneration under section 13ZY(1)﻿(d)﻿(i).
+(1) This section applies to an application for a determination of the Authority that fixes remuneration under section 13ZY(1)﻿(i).
 (2) A party may not elect, under section 179(1) of the Employment Relations Act 2000, to have the matter heard by the court, unless the matter is whether there are grounds under section 13ZZB(2) for the Authority to accept the application.
 
 ### 13ZZD Determination may provide for recovery of remuneration for past work
-(1) A determination by the Authority fixing remuneration may also provide for recovery of an amount of remuneration that relates to work performed before the date of the determination (past work).
-(2) When deciding whether to provide for recovery of an amount of remuneration for past work, and the amount to provide, the Authority or the court must take into account the following factors:
-  (a) the conduct of the parties; and
-  (b) the ability of the employer to pay; and
-  (c) the nature and extent of resources (for example, information and advice) available to the employer and the claimant in respect of the claim; and
-  (d) any other factors the Authority or the court considers appropriate.
-(3) See section 13ZZE for the periods for which remuneration for past work can be recovered.
+[Repealed]
 
 ### 13ZZE Limitation periods for recovery of remuneration for past work
-(1) A determination may provide for recovery of an amount of remuneration that relates to work performed in the period—
-  (a) beginning on the applicable start date for the claim to which the determination relates; and
-  (b) ending on the date of the determination.
-(2) However, no determination may provide for recovery of an amount of remuneration that relates to a period that is longer than 6 years.
-(3) The applicable start date for a claim is as follows:The following table is small in size and has 2 columns. Column 1 is headed When claim raised or notified. Column 2 is headed Applicable start date.When claim raised or notifiedApplicable start dateExisting pay equity claim as defined in Schedule 1, clause 1(1) (whether raised anew in accordance with clause 2(2)﻿(a) or progressed under clause 3 of that schedule)The earlier of—Claim raised on or after the date on which this section comes into force, but no more than 5 years after the date on which this section comes into forceThe date on which the claim is raisedClaim raised more than 5 years after the date on which this section comes into forceThe date that is 5 years after the date on which this section comes into force
-  (a) the date on which the existing pay equity claim was notified to the employer; and
-  (b) the date on which the proceedings discontinued under Schedule 1, clause 2(1) were commenced
-(4) In this section, a claim is notified on the date on which the employee gives the employer notice in writing that the employee is making a claim to the effect that the employer has failed to ensure that there is no differentiation between the rates of remuneration offered and afforded by the employer for work that is exclusively or predominantly performed by female employees and the rate of remuneration that would be paid to male employees who—Example 1Employee A notifies their employer of a pay equity claim as set out in subsection (4) on 28 October 2018 (before the commencement of this section). After the commencement of this section, Employee A raises a pay equity claim by following the processes set out in Part 4 (see Schedule 1, clause 2(2)﻿(a)). A determination of Employee A’s claim may provide for recovery of an amount of remuneration for the period that runs back from the date of determination to 28 October 2018 (but with a maximum of 6 years).Example 2Employee B formally files an application in respect of a pay equity claim with the Authority on 1 February 2019 (before the commencement of this section), without having first notified Employee B’s employer of the claim. That claim remains unresolved on the date of commencement of this section, and it is discontinued under Schedule 1, clause 2. Two weeks later, Employee B raises a new pay equity claim by following the processes set out in Part 4 (see Schedule 1, clause 2(2)﻿(a)). A determination of the new pay equity claim raised under Part 4 may provide for recovery of an amount of remuneration for the period that runs back from the date of the determination to 1 February 2019 (but with a maximum of 6 years).Example 3Union C raises a claim 2 months after the commencement of this section, and that claim is resolved by a determination made 2 years later. That determination may provide for recovery of an amount of remuneration that relates to the 2-year period that runs back from the date of determination to the date on which the claim was raised.Example 4Employee D raises a claim 4 years and 11 months after the commencement of this section, and that claim is resolved by a determination made 2 years later. That determination may provide for recovery of an amount of remuneration that relates to the 2-year period that runs back from the date of determination to the date on which the claim was raised.Example 5Employee E raises a claim 6 years after the commencement of this section, and that claim is resolved by a determination made 2 years later. That determination may provide for recovery of an amount of remuneration that relates to the 3-year period that runs back from the date of determination to the date that is 5 years after the date of commencement of this section.Example 6Union F raises a claim 11 years after the commencement of this section, and that claim is resolved by a determination made 1 year later. That determination may provide for recovery of an amount of remuneration that relates to the 6-year period that runs back from the date of determination (being the maximum period allowed under subsection (2)).
-  (a) have the same, or substantially similar, skills, responsibility, and experience; and
-  (b) work under the same, or substantially similar, conditions, and with the same, or substantially similar, degrees of effort.
-(5) The examples in subsection (4) are only illustrative and do not limit subsections (1) to (3).
+[Repealed]
 
 **Obligation on employers to keep pay equity records**
 
@@ -814,7 +1025,10 @@ If the Authority or the court determines that a pay equity claim is arguable, th
 Every employer who has received 1 or more pay equity claims must keep a record showing—
   (a) every pay equity claim lodged by a claimant; and
   (b) in relation to each pay equity claim,—
-    (i) the employer’s decision as to whether the claim is arguable and the consequent notice to the claimant; and
+    (i) if the employer decides under section 13PB that, in its view, the claim does not meet all requirements set out in section 13E, the notice of that decision given to the claimant under that section; and
+    (ia) the employer’s decision under section 13Q as to whether, in its view, the claim has merit and the notice of that decision given to the claimant under section 13S; and
+    (ib) if the employer decides under section 13ZEA that no appropriate comparators are available for selection for use in assessing the claim, the notice of that decision given to the claimant under that section; and
+    (ic) if the employer decides under section 13ZEB that, in its view, the employees covered by the claim do not all perform work that is the same or substantially similar, the notice of that decision given to the claimant under that section; and
     (ii) the outcomes of any pay equity bargaining; and
     (iii) all notifications to affected employees under section 13V; and
     (iv) any recommendation by the Authority during facilitation.
@@ -826,7 +1040,7 @@ Employees other than employees of tertiary education institutions
 (1) For the purposes of a pay equity claim by 1 or more employees in the education service (other than employees of a tertiary education institution), or by a union representing those employees, (an education service claimant), the Public Service Commissioner—
   (a) must be treated as the employer; and
   (b) has the same rights, duties, and obligations under this Act as the Commissioner would have if the Commissioner were the employer.
-(2) If the Commissioner decides that a pay equity claim by an education service claimant is arguable, or if the Authority or the court determines that such a claim is arguable, the Commissioner must enter into the pay equity bargaining process described in sections 13ZC to 13ZZE—
+(2) If the Commissioner decides that a pay equity claim by an education service claimant has merit, or if the Authority or the court determines that such a claim has merit, the Commissioner must enter into the pay equity bargaining process described in sections 13ZC to 13ZZC—
   (a) with the education service claimant; and
   (b) in consultation with—
     (i) the chief executive of the Ministry of Education; and
@@ -834,7 +1048,7 @@ Employees other than employees of tertiary education institutions
 (3) Every pay equity claim settlement agreement entered into between the Commissioner and an education service claimant is binding on the employer or employers of the persons whose work is covered by the agreement.
 (4) An employer who is bound by a pay equity claim settlement agreement under subsection (3) has the rights, obligations, and duties that the employer would have, in respect of that pay equity claim settlement agreement, if that employer were a party to that agreement.
 Employees of tertiary education institutions
-(5) For the purposes of a pay equity claim by 1 or more employees of a tertiary education institution or by a union representing those employees, the chief executive of the tertiary education institution is responsible (either individually or jointly through an organisation of employers of persons employed in tertiary education institutions) for determining whether the claim is arguable and, if so, entering into the pay equity bargaining process described in sections 13ZC to 13ZZE.
+(5) For the purposes of a pay equity claim by 1 or more employees of a tertiary education institution or by a union representing those employees, the chief executive of the tertiary education institution is responsible (either individually or jointly through an organisation of employers of persons employed in tertiary education institutions) for deciding whether the claim meets all requirements set out in section 13E and has merit and, if so, entering into the pay equity bargaining process described in sections 13ZC to 13ZZC.
 (6) Before entering into a pay equity claim settlement, the chief executive of a tertiary education institution, or an organisation of employers of persons employed in tertiary education institutions, must consult with the Public Service Commissioner.
 Interpretation
 (7) In this section,—
@@ -888,12 +1102,14 @@ Interpretation
 (2) The provisions are as follows:
   (a) section 2AAC(a) (which imposes a duty on employers to not differentiate on the basis of sex in the remuneration paid to employees who perform the same, or substantially similar, work):
   (b) section 2A (which relates to unlawful discrimination):
-  (c) section 13S(2)﻿(c) or 13ZZA (which impose a duty on an employer to enter into pay equity bargaining if the employer decides or the Authority or court determines that a pay equity claim is arguable):
+  (c) section 13S(2)﻿(c) or 13ZZAB(2)﻿(b) (which impose a duty on an employer to enter into the pay equity bargaining process if the employer decides or the Authority or court determines that a pay equity claim has merit):
+  (ca) section 13ZZAC(2)﻿(b) (which imposes a duty on an employer to resume the process of selecting appropriate comparators and assessing a pay equity claim if the Authority or the court determines that 1 or more appropriate comparators are available for selection for use in assessing the claim):
+  (cb) section 13ZZAD(2)﻿(b) (which imposes a duty on an employer to resume the assessment of a pay equity claim if the Authority or the court determines that all of the employees covered by the claim perform work that is the same or substantially similar):
   (d) section 13C (which imposes a duty on parties to deal with one another in good faith during the pay equity claim process):
   (e) section 13ZZF (which imposes a duty on employers to keep records relating to pay equity claims).
 (3) The penalties specified in subsection (1) also apply to—
   (a) an employer who, knowingly or recklessly,—
-    (i) fails to comply with the duty under section 13V to notify affected employees of a union-raised pay equity claim that the employer has decided is arguable; or
+    (i) fails to comply with the duty under section 13V to notify affected employees of a union-raised pay equity claim that the employer has decided has merit; or
     (ii) provides misleading information in a notice given under section 13V; and
   (b) a union that knowingly or recklessly fails to comply with the requirements of section 13ZF(3).
 (4) Any action for the recovery of a penalty may be brought,—
@@ -901,7 +1117,7 @@ Interpretation
     (i) by the employee in relation to whom the breach is alleged to have taken place; or
     (ii) by a Labour Inspector; or
   (b) in the case of a breach described in subsection (2)﻿(d), by any person in relation to whom the breach is alleged to have taken place; or
-  (c) in the case of a breach described in subsection (2)﻿(c) or (e) or (3), by an employee who is a claimant in, or who is covered by, the relevant pay equity claim.
+  (c) in the case of a breach described in subsection (2)﻿(c), (ca), (cb), or (e) or (3), by an employee who is a claimant in, or who is covered by, the relevant pay equity claim.
 (5) For the purposes of subsection (1), a person is involved in a failure to comply if the person would be treated as a person involved in a breach within the meaning of section 142W of the Employment Relations Act 2000.
 
 ### 18A Proceedings by Labour Inspector or employee concerned for penalty
@@ -933,10 +1149,10 @@ In performing its functions under this Act, or in respect of any breach of this 
 **Regulations**
 
 ### 19 Regulations
-(1) The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration, including regulations for the following purposes:
-  (a) prescribing matters that must be taken into account when assessing a pay equity claim; and
-  (b) prescribing matters that must be taken into account when identifying comparable work under section 13ZE.
-(1A) Regulations may not be made under this section that require the comparators against which a pay equity claim is to be assessed to be ranked or weighted.
+(1) The Governor-General may, by Order in Council, make regulations for either or both of the following purposes:
+  (a) providing for anything this Act says may or must be provided for by regulations:
+  (b) providing for anything incidental that is necessary for carrying out, or giving full effect to, this Act.
+(1A)
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 20 Act to be administered in Department of Labour
@@ -1003,5 +1219,48 @@ The following are to be treated as a pay equity claim settlement for the purpose
 
 ### 6 Effect of amendment Act on other existing claims
 An existing equal pay claim or existing unlawful discrimination claim must be determined in accordance with the provisions of this Act as if it had not been amended by the amendment Act.
+
+### Part 2 — Provisions relating to Equal Pay Amendment Act 2025
+
+### 7 Interpretation
+In this Part,—
+  - **2025 amendment Act** means the Equal Pay Amendment Act 2025
+  - **commencement date** means the date on which the 2025 amendment Act comes into force
+  - **covered by the specified pay equity claim settlement** has the same meaning as covered by a pay equity claim settlement in section 13B
+  - **existing pay equity claim** means a pay equity claim that, before the commencement date,—
+    (a) was raised; and
+    (b) did not have a pay equity claim settlement recorded
+  - **review clause** means a clause that—
+    (a) is part of a specified pay equity claim settlement; and
+    (b) sets out a process for the review of the employee’s remuneration to ensure that pay equity is maintained, including the frequency of reviews
+  - **specified pay equity claim settlement** —
+    (a) means a pay equity claim settlement recorded under the Act before the commencement date and in force immediately before the commencement date; and
+    (b) includes the matters that are to be treated as pay equity claim settlements under clause 5.
+
+### 8 Existing pay equity claims
+(1) An existing pay equity claim is discontinued on the commencement date.
+(2) Proceedings in relation to an existing pay equity claim—
+  (a) may not be commenced before the Authority or in the court on or after the commencement date; and
+  (b) if they were commenced before the Authority or in the court before the commencement date and have not been determined, are discontinued on the commencement date.
+(3) Despite subclause (2) and without limiting subclause (1), if proceedings before the Authority or in the court in relation to an existing pay equity claim were determined before the commencement date, an appeal against or challenge to the determination of the Authority or the court, whether commenced before, on, or after the commencement date, may be determined on or after the commencement date in accordance with this Act as if it had not been amended by the 2025 amendment Act.
+(4) This clause does not prevent a new claim that complies with section 13DA from being raised.
+
+### 9 Claims relating to employees and work covered by previous settlements
+(1) No pay equity claim may be raised within 10 years after the date of a specified pay equity claim settlement if the pay equity claim would relate to—
+  (a) any or all of the employees covered by the pay equity claim settlement; and
+  (b) the work to which the settlement relates.
+(2) However, a pay equity claim referred to in subclause (1) may be raised if, on or after the commencement date, the Authority or the court makes a determination under section 13ZY(1)﻿(b) that the claim may be raised.
+
+### 10 Review clauses
+(1) On and after the commencement date,—
+  (a) a review clause has no effect; and
+  (b) a term or condition of an employment agreement that is based on a review clause has no effect; and
+  (c) proceedings may not be commenced before the Authority or in the court to the extent that those proceedings concern—
+    (i) a review clause; or
+    (ii) a term or condition of an employment agreement that is based on a review clause; and
+  (d) any proceedings of a kind referred to in paragraph (c) that were commenced before the Authority or in the court before the commencement date and have not been determined are discontinued to the extent that those proceedings concern a review clause.
+(2) Clause 8(3) does not apply to an existing pay equity claim to the extent that the proceedings appealed against or challenged concern—
+  (a) a review clause; or
+  (b) a term or condition of an employment agreement that is based on a review clause.
 
 ## Schedule 2 — Content of notice to affected employees of pay equity claim
