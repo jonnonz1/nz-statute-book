@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2024-12-16_
+_Consolidation as at 2025-05-14_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -750,7 +750,7 @@ In sections 82 to 83B,—
 (1) The Commissioner is responsible for dealing with a pay equity claim as if the Commissioner were the employer.
 (2) When a pay equity claim is raised with the chief executive of a department or the board of an interdepartmental venture, the chief executive or board must, as soon as practicable, give notice in writing of the pay equity claim to the Commissioner.
 (3) The Commissioner’s responsibility under subsection (1)—
-  (a) includes, without limiting that subsection, responsibility for acknowledging receipt of and giving notice of the claim, forming a view on whether the claim is arguable, conducting the pay equity bargaining process, and settling a pay equity claim; but
+  (a) includes, without limiting that subsection, responsibility for acknowledging receipt of and giving notice of the claim, forming views on whether the claim meets all requirements set out in section 13E of the Equal Pay Act 1972 and on whether the claim has merit, conducting the pay equity bargaining process, and settling a pay equity claim; but
   (b) does not include responsibility for the following, unless the Commissioner thinks it appropriate to continue the Commissioner’s responsibility during that time:
     (i) attendance in mediation under the Employment Relations Act 2000 in relation to the claim or any aspect of the claim; or
     (ii) participation in any facilitation of bargaining or participation in relation to any application lodged in the Employment Relations Authority or filed in a tribunal or a court in relation to the claim or any aspect of the claim.
@@ -768,7 +768,7 @@ In sections 82 to 83B,—
   (b) the requirements in section 13K of the Equal Pay Act 1972 apply to the department or interdepartmental venture.
 
 ### 83A Commissioner to enter negotiations in consultation with affected department or interdepartmental venture
-When the Commissioner enters into the pay equity bargaining process under sections 13ZC to 13ZZE of the Equal Pay Act 1972, the Commissioner must do so in consultation with the chief executive or board of each affected department or interdepartmental venture.
+When the Commissioner enters into the pay equity bargaining process under sections 13ZC to 13ZZC of the Equal Pay Act 1972, the Commissioner must do so in consultation with the chief executive or board of each affected department or interdepartmental venture.
 
 ### 83B Pay equity settlement binding on chief executive or board affected
 (1) Every pay equity claim settlement agreement entered into between the Commissioner and 1 or more unions or between the Commissioner and 1 or more employees of the public service is binding on the chief executive of each department and the board of each interdepartmental venture in which any of the employees are employed.
