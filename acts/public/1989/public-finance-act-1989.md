@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2025-02-21_
+_Consolidation as at 2025-05-16_
 
 > Title
 
@@ -2441,6 +2441,7 @@ Definitions
 | Crown Infrastructure Delivery Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Crown Regional Holdings Limited |  | ✓ |  | ✓ |  |
 | Education Payroll Limited | ✓ | ✓ | ✓ | ✓ |  |
+| Ferry Holdings Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Health Benefits Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Kiwi Group Capital Limited |  |  |  |  |  |
 | National Infrastructure Funding and Financing Limited | ✓ | ✓ | ✓ | ✓ |  |
