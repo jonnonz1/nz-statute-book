@@ -384,7 +384,7 @@ After section 236D, insert:Sanction for first failure: report job search: genera
   (8) This section is subject to sections 243AAA, 243, 245 to 248, and 320 to 322.
   (1) This section applies if, at any time after report job search that is imposed on P has effect,—
     (a) P has not met the requirements that apply to P under section 236E(4) (see also section 236F(2) and (3)); and
-    (b) P has satisfied MSD within the reasonable period specified in section 236H(4) that a good and sufficient reason existed as to why P could not meet those requirements.
+    (b) P has satisfied MSD within the reasonable period specified in section 236F(4) that a good and sufficient reason existed as to why P could not meet those requirements.
   (2) MSD must impose on P, without giving a section 252 notice, a replacement sanction under section 236(2) that is to reduce the rate of P’s main benefit by half until P recomplies, and that starts to take effect at whichever occurs first of the following:
     (a) P satisfies MSD that the good and sufficient reason existed:
     (b) the date on which the rate of P’s main benefit is reduced to zero under section 236F(5)﻿(a) within the prescribed period for the purposes of section 236E(4) (see regulations made under section 418(1)﻿(ie)).
