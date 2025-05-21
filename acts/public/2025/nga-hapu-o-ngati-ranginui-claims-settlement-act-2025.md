@@ -5,7 +5,7 @@ _Consolidation as at 2025-05-21_
 This Act is the Ngā Hapū o Ngāti Ranginui Claims Settlement Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 22 May 2025.
 
 ## Part 1 — Preliminary matters and settlement of historical claims
 
