@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2025-04-01_
+_Consolidation as at 2025-05-26_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -82,7 +82,7 @@ Assistance
 Obligations
 (3) Part 3 contains provisions on obligations (for example, MSD’s obligations, and each beneficiary’s obligations—see the guide in section 104).
 Factors affecting benefits
-(4) Part 4 contains provisions on factors affecting benefits (for example, insurance, entitlement to overseas pensions, shared care of a dependent child, hospitalisation, being in custody in prison or on remand, and absence from New Zealand—see the guide in section 183).
+(4) Part 4 contains provisions on factors affecting benefits (for example, jobseeker profiles, insurance, entitlement to overseas pensions, shared care of a dependent child, hospitalisation, being in custody in prison or on remand, and absence from New Zealand—see the guide in section 183).
 Enforcement, sanctions, and offences
 (5) Part 5 contains provisions on enforcement, sanctions, and offences (for example, sanctions for failing to meet obligations—see the guide in section 231).
 Administration
@@ -1152,7 +1152,7 @@ MSD must not require a person who receives a supported living payment on the gro
 (3) A person who has been assessed under subsection (1) may be required by MSD to undergo a reassessment under that subsection as MSD thinks appropriate.
 
 ### 119 Person who fails to comply with requirement to undergo work ability assessment is subject to sanction
-A person (P) is subject to a sanction under section 236, 237, or 238 if MSD is satisfied that P has, without a good and sufficient reason, failed to comply with a requirement under section 118 to attend and participate in a work ability assessment or reassessment.
+A person (P) is subject to a sanction under section 236, 236A, 236B, 237, or 238 if MSD is satisfied that P has, without a good and sufficient reason, failed to comply with a requirement under section 118 to attend and participate in a work ability assessment or reassessment.
 
 **Specific obligations: work preparation**
 
@@ -1206,7 +1206,7 @@ A person to whom this section applies must, as required by MSD from time to time
     (vi) any other activity (including rehabilitation) other than medical treatment, recognised voluntary work, or activity in the community.
 
 ### 126 Person who fails to comply with work-preparation obligation subject to sanction
-A person (P) is subject to a sanction under section 236, 237, or 238 if MSD is satisfied that P has, without a good and sufficient reason, failed to comply with a work-preparation obligation.
+A person (P) is subject to a sanction under section 236, 236A, 237, or 238 if MSD is satisfied that P has, without a good and sufficient reason, failed to comply with a work-preparation obligation.
 
 **Specific obligations: social obligations in relation to dependent children**
 
@@ -1266,8 +1266,8 @@ A person to whom this section applies must, as required by MSD,—
   (b) report to MSD or a person on behalf of MSD on the person’s compliance with the obligations in relation to dependent children set out in sections 131 to 134, and must do so as often as, and in the manner that, MSD reasonably requires.
 
 ### 136 Person who fails to comply with obligations in relation to dependent children is subject to sanction
-(1) A person (P) is subject to a sanction under section 236, 237, or 238 if MSD is satisfied that P has, without a good and sufficient reason, failed to comply with an obligation in relation to dependent children under sections 131 to 135.
-(2) However, P is not subject to a sanction under section 233(c) if imposition of a sanction is precluded by section 243 or 255.
+(1) A person (P) is subject to a sanction under section 236, 236A, 236B, 237, or 238 if MSD is satisfied that P has, without a good and sufficient reason, failed to comply with an obligation in relation to dependent children under sections 131 to 135.
+(2) However, P is not subject to a sanction under section 233(c) if imposition of a sanction is precluded by section 243AAA, 243, or 255.
 
 ### 137 Definitions and attendance: regulations made under section 430
 (1) Regulations made under section 430 may prescribe, for the purposes of sections 131 to 134, the meaning of the following terms:
@@ -1466,7 +1466,7 @@ The procedure for the granting of an exemption under section 158, including the 
     (ii) how the young person has spent the young person’s youth support payments and, if applicable, young parent payments:
   (i) give to MSD or to a contracted service provider assigned to the young person (within 20 working days starting on the day after the date on which MSD informs the young person of the requirement) the following information:
     (i) details of the young person’s accommodation costs and service costs and other lawful debts and liabilities; and
-    (ii) any other information reasonably required by MSD to effect money management under section 341.
+    (ii) any other information reasonably required by MSD to effect youth money management under section 341.
 (2) In this section,—
   - **accommodation costs** , in relation to any young person, has the same meaning as in section 65 except that, in relation to a person who is a boarder or lodger in any premises, it means 100% of the amount paid for board or lodging
   - **service costs** has the same meaning as in section 65.
@@ -1522,7 +1522,7 @@ The procedure for the granting of an exemption under section 158, including the 
   (b) sections 55 and 289 as if the appropriate incentive payments were those set out in clauses 8 and 9 in subpart 3 of Part 6 of Schedule 4:
   (c) section 288:
   (d) sections 341 and 378:
-  (e) regulations 4 and 5 and Part 2 of the Social Security (Criteria for Incentive Payments and Money Management) Regulations 2012 (as saved by clauses 12 and 41(3) of Schedule 1), or regulations made under section 418(1)﻿(c), (d), (k), and (l).
+  (e) regulations made under section 418(1)﻿(c), (d), (k), and (l).
 (8) MSD may from time to time review a requirement placed on a young person under subsection (2) and may confirm or revoke it.
 (9) In this section, risk of long-term welfare dependency, in relation to a person, means the risk, determined using risk factors set by the Minister for the purposes of this section and section 168 by direction under section 7, that the person will, for an indefinite period, not be able to obtain full-time employment and will be likely to remain wholly or largely dependent for the person’s financial support on all or part of a main benefit under this Act.
 
@@ -1606,7 +1606,7 @@ The procedure for the granting of an exemption under section 158, including the 
   (b) sections 55 and 289 as if the appropriate incentive payments were those set out in clauses 8 and 9 in subpart 3 of Part 6 of Schedule 4:
   (c) section 288:
   (d) sections 339, 340, 341, and 378:
-  (e) regulations 4 and 5 and Part 2 of the Social Security (Criteria for Incentive Payments and Money Management) Regulations 2012 (as saved by clauses 12 and 41(3) of Schedule 1), or replacement regulations made under section 418(1)﻿(c), (d), (l), and (m).
+  (e) regulations made under section 418(1)﻿(c), (d), (l), and (m).
 (7) MSD may from time to time review a requirement placed on a young person under subsection (2) and may confirm or revoke it.
 (8) In this section, risk of long-term welfare dependency, in relation to a person, means the risk, determined using risk factors set by the Minister for the purposes of section 165 and this section by direction under section 7, that the person will, for an indefinite period, not be able to obtain full-time employment and will be likely to remain wholly or largely dependent for the person’s financial support on all or part of a main benefit under this Act.
 
@@ -1722,7 +1722,9 @@ In sections 177 to 179, rate, in relation to an overseas pension, means the rate
 ### 181 Application of health and safety legislation, etc
 (1) This section applies if a person (P)—
   (a) is doing work as part of a job search activity in accordance with P’s work-test obligations or under section 261 or 324; or
-  (b) is a beneficiary and is doing work as part of an employment-related activity or activity in the community arranged by MSD.
+  (b) is a beneficiary and is doing work as part of—
+    (i) an employment-related activity arranged by MSD; or
+    (ii) an activity in the community arranged by MSD.
 (2) The Health and Safety at Work Act 2015 and the Human Rights Act 1993 apply to P, and to the person (B) providing the work that person P is doing, as if P were—
   (a) a worker in B’s business or undertaking; or
   (b) B’s employee.
@@ -1739,6 +1741,7 @@ In sections 177 to 179, rate, in relation to an overseas pension, means the rate
 ### 183 What this Part does
 (1) This Part sets out the factors that may affect a benefit.
 (2) The factors affecting a benefit are:
+  (aaa) jobseeker profiles:
   (a) pre-benefit activities:
   (b) insurance recovery:
   (c) entitlement to an overseas pension:
@@ -1761,6 +1764,63 @@ In sections 177 to 179, rate, in relation to an overseas pension, means the rate
   (t) a non-entitlement period, stand down, or 100% suspension of benefit.
 
 ### Subpart 2 — Factors affecting benefits
+
+**Factors affecting benefits: jobseeker profiles**
+
+### 183A Requirement to have completed jobseeker profile
+When this section applies
+(1) This section applies if—
+  (a) MSD is contacted by a person (P) (or by some other person acting on P’s behalf) requesting financial assistance under this Act for P; and
+  (b) the request for financial assistance for P is not a request for the regrant under section 336 of a specified benefit (as defined in section 331) that is—
+    (i) jobseeker support; or
+    (ii) sole parent support; and
+  (c) MSD considers that—
+    (i) the appropriate financial assistance would be a benefit that is jobseeker support or sole parent support; or
+    (ii) the appropriate financial assistance would be a benefit that is an emergency benefit and, if that financial assistance were granted to P, P would, or would likely, be subject to conditions that are or include that P be available for, and take reasonable steps to obtain, suitable employment.
+Requirement for P
+(2) MSD must require P to have a jobseeker profile completed to MSD’s satisfaction.
+Requirement for specified spouse or partner of P
+(3) If P has a spouse or partner who is not, in the spouse’s or partner’s own right, receiving or applying for a main benefit under this Act, New Zealand superannuation, or a veteran’s pension, and who is not, or is not likely to be, subject to obligations under section 166 or 167, MSD must also require P’s spouse or partner to have a jobseeker profile completed to MSD’s satisfaction.
+Jobseeker profile
+(4) In this section and sections 183B to 183D, jobseeker profile means a form provided—
+  (a) by or on behalf of MSD to P or P’s spouse or partner; and
+  (b) to enable P or P’s spouse or partner, by completing the form, to record P’s or P’s spouse or partner’s work experience, qualifications, and work preferences.
+Form and revocation of requirement
+(5) A requirement under subsection (2) or (3)—
+  (a) may be oral or written; and
+  (b) may be revoked orally or in writing if, and only if, MSD considers the requirement is not reasonable in the circumstances of P, of P’s spouse or partner, or of both.
+
+### 183B If person does not have jobseeker profile completed
+(1) MSD is not required under section 298(1) to inquire into a claim for any benefit referred to in section 183A(1) made by or on behalf of a person (P) specified in section 183A(1) unless—
+  (a) P has the jobseeker profile completed to MSD’s satisfaction; or
+  (b) MSD has revoked the requirement under section 183A(2) for P to have the jobseeker profile completed to MSD’s satisfaction.
+(2) Subsection (1) applies whether or not an application for a benefit has been completed by or on behalf of P.
+(3) Any application for a benefit made by or on behalf of P lapses unless—
+  (a) P has the jobseeker profile completed to MSD’s satisfaction within the period allowed under section 183D(1); or
+  (b) MSD has revoked the requirement under section 183A(2) for P to have the jobseeker profile completed to MSD’s satisfaction.
+
+### 183C If person’s spouse or partner does not have jobseeker profile completed
+(1) This section applies if—
+  (a) a person specified in section 183A(1) (P) has a spouse or partner who is required to have a jobseeker profile completed to MSD’s satisfaction under section 183A(3); and
+  (b) P’s spouse or partner fails to have the jobseeker profile completed to MSD’s satisfaction within the period allowed under section 183D(1).
+(2) If this section applies under subsection (1), it applies until—
+  (a) P’s spouse or partner has the jobseeker profile completed to MSD’s satisfaction; or
+  (b) MSD revokes the requirement under section 183A(3) for P’s spouse or partner to have the jobseeker profile completed to MSD’s satisfaction.
+(3) P receives the following forms of assistance (if all or any of them is granted) at the following rate or rates only:
+  (a) any benefit referred to in section 183A(1) that P is granted, at half of the rate of that benefit payable to a beneficiary—
+    (i) who is in a relationship; and
+    (ii) whose spouse or partner is not granted a benefit in the spouse’s or partner’s own right; and
+  (b) the accommodation supplement, temporary additional support, or both (if any), to which P and P’s spouse or partner would apart from this subsection be entitled, at half of the otherwise applicable rate or rates.
+
+### 183D Period allowed for completion
+Default period allowed
+(1) The period allowed (see sections 183B(3)﻿(a) and 183C(1)﻿(b)) is—
+  (a) the period that—
+    (i) starts on the date of first contact by or on behalf of P; and
+    (ii) ends on the 20th working day after that date; or
+  (b) a longer period allowed by MSD under subsection (2).
+MSD may allow longer period
+(2) Before or after the end of the 20-working-day period referred to in subsection (1)﻿(a), MSD may allow P or P’s spouse or partner a longer period if MSD considers that good and sufficient reason exists for P or P’s spouse or partner not being able to have the jobseeker profile completed to MSD’s satisfaction within that 20-working-day period.
 
 **Factors affecting benefits: pre-benefit activities**
 
@@ -2169,6 +2229,7 @@ For the purposes of this section and sections 225 to 228,—
 (1) This section applies while a person is subject to—
   (a) a non-entitlement period; or
   (b) a stand down under section 316 (start and calculation of stand-down period); or
+  (ba) a reduction of the rate of a main benefit to zero under section 236, 236A, or 236C; or
   (c) a sanction of suspension of 100% of a benefit under section 237, 270, or 280.
 (2) The person is not entitled to receive—
   (a) an emergency benefit; or
@@ -2193,9 +2254,11 @@ This Part sets out—
 ### 232 Sanctions for failure to comply with certain obligations under this Act
 (1) MSD must under this section impose a sanction if MSD considers that a person has failed without good and sufficient reason to comply with 1 or more obligations under this Act that are specified in section 233.
 (2) The sanction is 1 of the following (in accordance with section 234):
-  (a) reduction in a main benefit:
+  (a) reduction of the rate of a main benefit or imposition of a non-financial sanction in accordance with sections 236, 236A, and 236B:
   (b) suspension of a main benefit:
   (c) cancellation of a main benefit.
+(3) MSD must not impose under this section a non-financial sanction on a young person to whom section 276(2)﻿(a) or (b) or 278(2)﻿(a) or (b) applies.
+(4) This section is subject to sections 243AAA, 243, and 245 to 248.
 
 ### 233 Obligations that carry sanction for failure to comply
 The obligations referred to in section 232(1) are the following:
@@ -2208,40 +2271,221 @@ The obligations referred to in section 232(1) are the following:
   (e) obligation to comply with a requirement under section 158(4) to attend an interview:
   (f) obligation to comply with a requirement under section 170(2) in relation to working with contracted service providers.
 
+### 233A Cancellation of main benefit for continuing failure to comply
+(1) MSD must cancel a person’s (P’s) main benefit if—
+  (a) MSD has, under section 232, imposed a sanction described in subsection (2)﻿(a) or (b) of that section on P; and
+  (b) P fails to recomply, within 13 weeks after the sanction takes effect, with each obligation—
+    (i) for which the sanction was imposed for a failure to comply with; and
+    (ii) that P has not ceased to have (including, without limitation, under section 321 or 322); and
+  (c) section 320 does not apply to P.
+(2) On cancellation under this section of P’s main benefit, to be again entitled to a main benefit under this Act, P must apply for the benefit and establish that P is eligible for it.
+(3) This section is subject to sections 236D(3)﻿(d) and 245 to 248.
+
 **Hierarchy of sanctions**
 
 ### 234 Hierarchy of sanctions
-The sanction that MSD must impose under section 232(1) is,—
-  (a) for a first failure, reduction in a main benefit:
+The sanction that MSD must impose under section 232(1) (subject to section 232(3) and (4)) is,—
+  (a) for a first failure, reduction of the rate of a main benefit or imposition of a non-financial sanction in accordance with sections 236, 236A, and 236B:
   (b) for a second failure, suspension of a main benefit:
   (c) for a third failure, cancellation of a main benefit.
 
 ### 235 Failure, and first, second, and third failure, defined for obligations other than young person or young parent obligations
 In this subpart,—
-  - **failure** means a failure to comply with an obligation for which MSD must impose a sanction
-  - **first failure** means the first failure to comply with an obligation for which MSD must impose a sanction
-  - **second failure** means a failure that occurs after a person has recomplied with the obligation to which a first failure related
-  - **third failure** means a failure that occurs after a person has recomplied with the obligation to which a second failure related.
+  - **failure** , in relation to a person, means a failure—
+    (a) by the person, or in relation to the person’s dependent children or the person’s spouse or partner’s dependent children, to comply with an obligation that is specified in section 233; and
+    (b) that occurred at any time (however, if it occurred more than 24 months or, if applicable, 12 months, before the failure for which the calculation is made, then see also section 242(1) and (3) and, if applicable, the express modifications made to section 242(1) and (3) by sections 287 and 287A); and
+    (c) that, for the purposes of section 242(1), is taken to have occurred on the date MSD decides that the person has, as a beneficiary, failed, without a good and sufficient reason, to comply with the appropriate obligation (see section 242(2))
+  - **first failure** , in relation to a person, means a failure (as defined in this section)—
+    (a) by the person, or in relation to the person’s dependent children or the person’s spouse or partner’s dependent children; and
+    (b) that is the first one by the person, or in relation to the person’s dependent children or the person’s spouse or partner’s dependent children
+  - **second failure** , in relation to a person, means a failure (as defined in this section)—
+    (a) by the person, or in relation to the person’s dependent children or the person’s spouse or partner’s dependent children; and
+    (b) that occurs after the person has recomplied with the obligation to which a first failure related
+  - **third failure** , in relation to a person, means a failure (as defined in this section)—
+    (a) by the person, or in relation to the person’s dependent children or the person’s spouse or partner’s dependent children; and
+    (b) that occurs after the person has recomplied with the obligation to which a second failure related.
 
-### 236 Sanction for first failure: reduction in main benefit
-(1) For a first failure by a person (P), MSD must—
-  (a) reduce P’s main benefit by half until P recomplies; and
-  (b) if P fails to recomply within 4 weeks after the initial reduction takes effect, reduce P’s main benefit to zero until P complies.
-(2) This section is subject to sections 245 to 248 and 320 to 324.
+### 236 Sanction for first failure: reduction of rate of main benefit
+Eligibility
+(1) This section applies to a person (P) if P has a first failure, and either—
+  (a) P does not meet the eligibility requirements in sections 236A(1)﻿(b) and 236B(1)﻿(b) because—
+    (i) P is not subject to active case management by MSD; and
+    (ii) P does not have 1 or more dependent children; or
+  (b) P does meet the eligibility requirements in sections 236A(1)﻿(b) and 236B(1)﻿(b), and MSD does not impose a non-financial sanction for P’s first failure.
+Imposition
+(2) If this section applies to P, MSD must, for the first failure of P, reduce the rate of P’s main benefit by half until P recomplies.
+Effect
+(3) If the rate of P’s main benefit is reduced by half under this section, MSD must not, for the first failure of P, do the following:
+  (a) impose money management; or
+  (b) impose community work experience.
+(4) If P fails to recomply within 4 weeks after the initial reduction under this section takes effect, MSD must reduce the rate of P’s main benefit to zero until the earlier of the following events:
+  (a) P recomplies:
+  (b) MSD cancels P’s main benefit under section 233A.
+Relationship with other sections
+(5) This section is subject to sections 243AAA, 243, 245 to 248, and 320 to 322.
+
+### 236A Sanction for first failure: money management
+Eligibility
+(1) This section applies to a person (P) if—
+  (a) P has a first failure; and
+  (b) either—
+    (i) P is subject to active case management by MSD; or
+    (ii) P has 1 or more dependent children; and
+  (c) MSD is satisfied—
+    (i) that it is appropriate in the circumstances to impose money management on P; and
+    (ii) that it is more appropriate to impose that sanction than any other sanction that can be imposed for P’s first failure.
+Imposition
+(2) If this section applies to P, MSD must, for the first failure of P, impose money management—
+  (a) under section 232(2)﻿(a) and this section; and
+  (b) only if, in the 5 working days from the giving of the section 252 notice, P discusses with MSD, in an appointment with MSD, P’s failure to comply.
+Effect: general
+(3) If money management is imposed on P, MSD must not, for the first failure of P,—
+  (a) reduce the rate of P’s main benefit by half under section 236(2); or
+  (b) impose a non-financial sanction other than money management.
+(4) While money management that is imposed on P has effect,—
+  (a) the prescribed proportion of an instalment of P’s main benefit that is an instalment payable to P (see regulations made under section 418(1)﻿(ia)) is paid by the required manner of payment for money management (see regulations made under section 418(1)﻿(jb)):
+  (b) the rest of the instalment is paid under section 339:
+  (c) specified arrears are credited or paid, and specified debt is recovered, under regulations made under section 418(1)﻿(jb).
+(5) If P fails to recomply (see section 261A) within the prescribed period starting when the sanction takes effect under subsection (6)﻿(a) (see regulations made under section 418(1)﻿(ib)), MSD must reduce the rate of P’s main benefit to zero until the earlier of the following events:
+  (a) P recomplies (see section 261A):
+  (b) MSD cancels P’s main benefit under section 233A.
+Duration
+(6) Money management that is imposed on P has effect for the following duration:
+  (a) from the date stated in the notice of non-financial sanction under section 252A(2)﻿(c); and
+  (b) until the end of the prescribed period from that date (see regulations made under section 418(1)﻿(ib)), even if P recomplies (that is, both of the things specified in section 261A(2)﻿(a) and (b) have occurred) within the prescribed period.
+(7) Subsection (6)﻿(b) applies even if P’s main benefit is suspended for reasons unrelated to a sanction for failure to comply with 1 or more obligations under this Act that are specified in section 233.
+Relationship with other sections
+(8) This section is subject to sections 243AAA, 243, 245 to 248, and 320 to 322.
+
+### 236B Sanction for first failure: community work experience: general
+Eligibility
+(1) This section applies to a person (P) if—
+  (a) P has a first failure; and
+  (b) either—
+    (i) P is subject to active case management by MSD; or
+    (ii) P has 1 or more dependent children; and
+  (c) P’s first failure is not a failure to comply with a drug-testing obligation; and
+  (d) P has—
+    (i) work-test obligations under either or both of sections 144 and 146; and
+    (ii) no currently-in-force deferrals of, or exemptions from, those work-test obligations; and
+  (e) P’s first failure does not involve either or both of the following:
+    (i) more than 1 failure of the same obligation:
+    (ii) a failure of more than 1 obligation; and
+  (f) MSD is satisfied—
+    (i) that it is appropriate in the circumstances to impose community work experience on P; and
+    (ii) that it is more appropriate to impose that sanction than any other sanction that can be imposed for P’s first failure.
+Imposition
+(2) If this section applies to P, MSD must, for the first failure of P, impose community work experience—
+  (a) under section 232(2)﻿(a) and this section; and
+  (b) only if, in the 5 working days from the giving of the section 252 notice, P discusses with MSD, in an appointment with MSD, P’s failure to comply.
+Effect: general
+(3) If community work experience is imposed on P, MSD must not, for the first failure of P, do the following (except under section 236D):
+  (a) reduce the rate of P’s main benefit by half under section 236(2); or
+  (b) impose a non-financial sanction other than community work experience.
+(4) While community work experience that is imposed on P has effect,—
+  (a) P must, within the prescribed search period starting when the sanction takes effect under subsection (5)﻿(a) (see regulations made under section 418(1)﻿(ic)), and with the support from MSD (if any) that MSD considers it appropriate to provide to P for the purpose, find 1 or more positions—
+    (i) each of which is a position—
+      (A) with a community or voluntary sector organisation that MSD is satisfied is reasonably suitable; and
+      (B) that MSD is satisfied is reasonably suitable; and
+    (ii) that alone is, or that together are, for at least the following (see regulations made under section 418(1)﻿(id)):
+      (A) the prescribed minimum number of hours per week; and
+      (B) the prescribed minimum number of weeks that start as specified in paragraph (b)﻿(ii); and
+    (iii) that may be or include 1 or more positions that start in the prescribed search period, in which case the prescribed minimum number of weeks start at the earliest start of those 1 or more positions (see paragraph (b)﻿(ii)); and
+  (b) P must perform the duties of the 1 or more positions that comply with paragraph (a) for at least the following:
+    (i) the prescribed minimum number of hours per week; and
+    (ii) the prescribed minimum number of weeks that start—
+      (A) immediately after the prescribed search period; or
+      (B) if paragraph (a)﻿(iii) applies, at the earliest start in the prescribed search period of those 1 or more positions.
+Duration
+(5) Community work experience that is imposed on P has effect—
+  (a) from the date stated in the notice of non-financial sanction under section 252A(2)﻿(c); and
+  (b) until whichever occurs first of the following:
+    (i) P recomplies after the community work experience is imposed on P (see section 261B):
+    (ii) the rate of P’s main benefit is reduced to zero under section 236C:
+    (iii) a replacement sanction imposed under section 236D takes effect.
+Relationship with other sections
+(6) This section is subject to sections 236C, 236D, 243AAA, 243, 245 to 248, and 320 to 322.
+
+### 236C Sanction for first failure: community work experience: failure without good and sufficient reason to meet requirements
+When this section applies
+(1) This section applies if, after community work experience that is imposed on P has effect,—
+  (a) P has not met the requirements that apply to P under section 236B(4) (see subsections (2) and (3)); and
+  (b) P has not satisfied MSD within the reasonable period specified in subsection (4) that a good and sufficient reason existed as to why P failed to meet those requirements.
+When P has not met requirements that apply to P
+(2) For the purposes of subsection (1)﻿(a) and of section 236D(1)﻿(a), P has not met the requirements that apply to P under section 236B(4) if—
+  (a) at the end of the prescribed search period (see regulations made under section 418(1)﻿(ic)), MSD has not been provided with supporting evidence of P’s compliance with requirements under section 236B(4)﻿(a); or
+  (b) at the end of the prescribed search period (see regulations made under section 418(1)﻿(ic)), MSD has been provided with supporting evidence of P’s compliance with requirements under section 236B(4)﻿(a), but at the end of 5 days after the prescribed search period that evidence has not satisfied MSD of P’s compliance with those requirements; or
+  (c) at the end of 5 days after the prescribed minimum number of weeks (see regulations made under section 418(1)﻿(id)), MSD has not been provided with supporting evidence that has satisfied MSD of P’s compliance with requirements under section 236B(4)﻿(b).
+(3) Subsection (2) does not limit the generality of subsection (1)﻿(a) or of section 236D(1)﻿(a).
+Reasonable period
+(4) The reasonable period mentioned in subsection (1)﻿(b) and in section 236D(1)﻿(b) must be one that—
+  (a) MSD considers reasonable in the circumstances of P; and
+  (b) ends no later than the end of the prescribed minimum number of weeks (see regulations made under section 418(1)﻿(id)).
+MSD must reduce rate of P’s main benefit to zero
+(5) MSD must reduce the rate of P’s main benefit to zero with effect—
+  (a) starting on the first day of the week of P’s non-compliance or, if MSD is unable to determine the date of P’s non-compliance,—
+    (i) starting on the first day after the prescribed search period or (if applicable) after the prescribed minimum number of weeks, if P has not in that period or (if applicable) in those weeks contacted MSD about P’s non-compliance; or
+    (ii) starting on the first day of the prescribed search period or (if applicable) of the prescribed minimum number of weeks if—
+      (A) P has in or after that period or (if applicable) in or after those weeks contacted MSD about P’s non-compliance; and
+      (B) MSD has not been provided with supporting evidence that satisfies MSD of the date of P’s non-compliance; and
+  (b) ending on whichever occurs first of the following events:
+    (i) P recomplies (see section 261B(3) and (4)):
+    (ii) MSD cancels P’s main benefit under section 233A.
+Exception to general rule about when reduction to zero takes effect
+(6) However, if P satisfies MSD within a period that complies with subsection (4)﻿(a), but that does not also comply with subsection (4)﻿(b), that a good and sufficient reason existed as to why P failed to meet the requirements that apply to P under section 236B(4), then MSD must reduce the rate of P’s main benefit to zero under subsection (5) with effect on and after the first day after the prescribed minimum number of weeks (see regulations made under section 418(1)﻿(id)).
+Consequences of rate of P’s main benefit being reduced to zero
+(7) If the rate of P’s main benefit is reduced to zero under subsection (5),—
+  (a) P is no longer required to meet the requirements that apply to P under section 236B(4); and
+  (b) P recomplies under section 261B(3) and (4); and
+  (c) the 13-week period in section 233A(1)﻿(b) starts when community work experience imposed on P takes effect.
+Relationship with other sections
+(8) This section is subject to sections 243AAA, 243, 245 to 248, and 320 to 322.
+
+### 236D Sanction for first failure: community work experience: replacement sanction if good and sufficient reason why cannot meet requirements
+When this section applies
+(1) This section applies if, at any time after community work experience that is imposed on P has effect,—
+  (a) P has not met the requirements that apply to P under section 236B(4) (see also section 236C(2) and (3)); and
+  (b) P has satisfied MSD within the reasonable period specified in section 236C(4) that a good and sufficient reason existed as to why P could not meet those requirements.
+MSD must impose replacement sanction
+(2) MSD must impose on P, without giving a section 252 notice, a replacement sanction under section 236(2) that is to reduce the rate of P’s main benefit by half until P recomplies, and that starts to take effect—
+  (a) at the time that P satisfied MSD that the good and sufficient reason existed, if the good and sufficient reason relates to requirements that apply to P under section 236B(4)﻿(a) and that time is before or at the end of the prescribed search period (see regulations made under section 418(1)﻿(ic)); and
+  (b) on the first day after the end of the prescribed search period (see regulations made under section 418(1)﻿(ic)), if the good and sufficient reason relates to requirements that apply to P under section 236B(4)﻿(a) and the time that P satisfied MSD that the good and sufficient reason existed is—
+    (i) after the end of the prescribed search period; and
+    (ii) before or at the end of the prescribed minimum number of weeks (see regulations made under section 418(1)﻿(id)); and
+  (c) at the time (within the reasonable period specified in section 236C(4)) that P satisfied MSD that the good and sufficient reason existed, if the good and sufficient reason relates to the requirements that apply to P under section 236B(4)﻿(b).
+Consequences of replacement sanction
+(3) If a replacement sanction under section 236(2) is imposed under subsection (2),—
+  (a) P is no longer required to meet the requirements that apply to P under section 236B(4); and
+  (b) the replacement sanction under section 236(2) operates in the same way as any other reduction of the rate of P’s main benefit by half under section 236(2); and
+  (c) P recomplies under section 261 (see section 261(3)﻿(b)); but
+  (d) for the purposes of the 13-week period in section 233A(1)﻿(b), the replacement sanction must be treated as if it takes effect when community work experience that it replaces takes effect.
+Relationship with other sections
+(4) This section is subject to sections 243AAA, 243, 245 to 248, and 320 to 322.
 
 ### 237 Sanction for second failure: suspension of main benefit
-(1) For a second failure by a person (P), MSD must suspend P’s main benefit until P recomplies.
-(2) This section is subject to sections 245 to 248 and 320 to 324.
+(1) For a second failure by a person (P), MSD must suspend P’s main benefit until the earlier of the following events:
+  (a) P recomplies:
+  (b) MSD cancels P’s main benefit under section 233A.
+(2) This section is subject to sections 243AAA, 243, 245 to 248, and 320 to 322.
 
 ### 238 Sanction for third failure: cancellation of main benefit
 (1) For a third failure by a person (P), MSD must cancel P’s main benefit.
 (2) On cancellation under this section of P’s main benefit,—
   (a) P is not entitled to receive any main benefit under this Act for 13 weeks from the date of cancellation; and
   (b) to be again entitled to a main benefit under this Act, P must apply for the benefit and establish that P is eligible for it.
-(3) This section is subject to sections 245 to 248 and 320 to 324.
+(3) This section is subject to sections 243, 245 to 248, and 320 to 324.
 
-### 239 Reduction or suspension of reduced benefit
-If a person’s specified benefit (as defined in section 331) is reduced under section 236 or suspended under section 237, and the person is regranted a specified benefit under section 336, the reduction or suspension continues to apply to the regranted specified benefit on and after its commencement until the person recomplies.
+### 239 Continuation of sanction following regrant of specified benefit
+(1) This section applies to a person’s (P’s) specified benefit (as defined in section 331) if,—
+  (a) when P’s specified benefit expires under section 332,—
+    (i) the rate of P’s specified benefit is reduced under section 236; or
+    (ii) money management imposed on P has effect (see section 236A); or
+    (iii) community work experience imposed on P has effect (see section 236B); or
+    (iv) P’s specified benefit is suspended under section 237; and
+  (b) P is regranted a specified benefit under section 336.
+(2) P’s regranted specified benefit under section 336 is subject to the relevant sanction specified in subsection (1)﻿(a)﻿(i), (ii), (iii), or (iv)—
+  (a) on and after the commencement of that specified benefit; but
+  (b) otherwise in the same way as that sanction would have continued to apply to P’s specified benefit had it not expired under section 332.
 
 **How number of failures is counted**
 
@@ -2265,11 +2509,17 @@ If a person’s specified benefit (as defined in section 331) is reduced under s
 (4) In subsection (3), working day means a day on which a person was required to work in the employment in question.
 
 ### 242 Failures that cannot be counted
-(1) A failure cannot be counted if it occurred more than 12 months before the failure for which the calculation is made.
+(1) A failure cannot be counted if it occurred more than 24 months before the failure for which the calculation is made.
 (2) For the purposes of subsection (1), a failure occurs on the date MSD decides that the beneficiary has failed, without a good and sufficient reason, to comply with the appropriate obligation.
-(3) This section does not affect the implementation, after the 12-month period, of a sanction based on any prior calculation of the number of failures by a person to comply with the appropriate work-test obligation or other obligation imposed by this Act.
+(3) This section does not affect the implementation, after the 24-month period, of a sanction based on any prior calculation of the number of failures by a person to comply with the appropriate work-test obligation or other obligation imposed by this Act.
 
 **Special cases: variations on ordinary sanctions rules**
+
+### 243AAA Exclusion of sanction for first or second failure, if not failure to accept offer of suitable employment, and timely recompliance occurs
+MSD must cancel the imposition of a sanction (for example, a non-financial sanction) for a first or second failure by a person (P) if—
+  (a) the failure is not a failure to comply with the work-test obligation to accept any offer of suitable employment (see section 144(b)); and
+  (b) P has been given a section 252 notice stating that, on the basis of P’s failure, MSD is reducing the rate of, or suspending, P’s benefit; and
+  (c) P recomplies under section 261(1) or (2) or 263 within 5 working days from the giving of the section 252 notice in relation to the failure.
 
 ### 243 Exclusion of sanction if failure is subject of prosecution under Education and Training Act 2020
 MSD must not impose a sanction for a person’s failure to comply with the obligation under section 133(1) (which relates to the attendance of a dependent child aged 6 to 15 years at a registered school) if—
@@ -2280,44 +2530,84 @@ MSD must not impose a sanction for a person’s failure to comply with the oblig
 (1) MSD must, under section 238, cancel a main benefit for any failure to comply with the work-test obligation to accept any offer of suitable employment (see section 144(b)).
 (2) This section overrides sections 234 to 238.
 
-### 245 Variation for breach of work-test obligation by 1 spouse or partner
-(1) This section applies when—
-  (a) a main benefit is payable at a work-test couple rate; and
-  (b) the benefit is reduced, suspended, or cancelled under section 227 or 232; and
-  (c) the reduction, suspension, or cancellation results from the failure of one spouse or partner to comply with a work-test obligation or results from the application of section 227.
-(2) In a case to which this section applies,—
-  (a) the reduction, suspension, or cancellation applies to only half the applicable rate of main benefit before any reduction on account of income; and
-  (b) the other spouse or partner is entitled to receive half that rate (and the appropriate income test applies to that rate, but at half the abatement rate in that test).
+### 244A Meaning of default amount of main benefit payable
+In sections 245 to 248, default amount of main benefit payable, for a spouse or partner or sole parent, means any amount of a main benefit payable to them in accordance with the following (applied before, and disregarding, all variations under sections 245 to 248):
+  (a) the applicable rate of the main benefit payable to them (before any reduction on account of income):
+  (b) the appropriate income test applying to that rate:
+  (c) regulations made under section 442(2)﻿(e) (regulations: payments: apportionment) for the purposes of section 337 (how benefits are paid):
+  (d) all other legislation that affects (for example, that requires deductions from) any amount of the main benefit payable to them.
 
-### 246 Variation for breach of work-test obligation by both partners or spouses
-(1) This section applies when—
+### 245 Variation for breach of specified obligation by one spouse or partner
+When this section applies
+(1) This section applies if—
   (a) a main benefit is payable at a work-test couple rate; and
-  (b) the benefit is reduced, suspended, or cancelled under section 227 or 232; and
-  (c) the reduction, suspension, or cancellation results from the failure of both partners or spouses to comply with a work-test obligation or results from the application of section 227; and
+  (b) the rate of the benefit is reduced (by half or to zero), or the benefit is money managed, suspended, or cancelled, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, and 236D; and
+  (c) the reduction of the rate of benefit (by half or to zero), or the money management, suspension, or cancellation of the benefit, results from—
+    (i) the failure of one spouse or partner (P) to comply with 1 or more specified obligations under this Act; or
+    (ii) the application to one spouse or partner (P) of section 227.
+Reduction (by half or to zero) of rate of benefit, or money management, suspension, or cancellation of benefit
+(2) For the period that the rate of benefit is reduced (by half or to zero), or the benefit is money managed, suspended, or cancelled, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, and 236D,—
+  (a) the reduction of the rate of benefit (by half or to zero), or the money management, suspension, or cancellation, applies only to any default amount of main benefit payable to P; and
+  (b) the other spouse or partner is entitled to receive any default amount of main benefit payable to them.
+(3) Any amount remaining after a reduction by half, or money management, is applied under subsection (2)﻿(a) is payable to P.
+
+### 246 Variation for breach of specified obligation by both spouses or partners
+When this section applies
+(1) This section applies if—
+  (a) a main benefit is payable at a work-test couple rate; and
+  (b) the benefit or the rate of the benefit is, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, and 236D, subject to a reduction (by half or to zero), money management, a suspension, or cancellation (sanction A) because of—
+    (i) the failure of one spouse or partner (P) to comply with 1 or more specified obligations under this Act; or
+    (ii) the application to one spouse or partner (P) of section 227; and
+  (c) the benefit or the rate of the benefit is, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, and 236D, subject to a reduction (by half or to zero), money management, a suspension, or cancellation (sanction B) because of—
+    (i) the failure of the other spouse or partner to comply with 1 or more specified obligations under this Act; or
+    (ii) the application to the other spouse or partner of section 227; and
   (d) the couple have no dependent children.
-(2) The reduction, suspension, or cancellation in respect of each spouse or partner applies to only half the applicable rate of main benefit before reduction on account of income that is payable in respect of that spouse or partner.
-(3) Any amount of the main benefit payable to the spouses or partners after the reduction, suspension, or cancellation is applied is subject to the appropriate income test but at half the abatement rate in that test.
+Reduction (by half or to zero) of rate of benefit, or money management, suspension, or cancellation of benefit
+(2) For the period that sanction A and sanction B both apply,—
+  (a) sanction A applies only to any default amount of main benefit payable to P; and
+  (b) sanction B applies only to any default amount of main benefit payable to the other spouse or partner.
+(3) Any amount remaining after a sanction is applied under subsection (2)﻿(a) or (b) is payable to the spouse or partner referred to in that paragraph.
 
-### 247 Variation for suspension or cancellation of benefit or non-entitlement period affecting couple with 1 or more dependent children
-(1) This section applies when—
+### 247 Variation for reduction of rate of benefit (by half or to zero), or money management, suspension, or cancellation of benefit, or non-entitlement period, affecting couple with 1 or more dependent children
+When this section applies
+(1) This section applies if—
   (a) a main benefit is payable at a work-test couple rate; and
-  (b) the benefit is reduced, suspended, or cancelled under section 227 or 232; and
-  (c) the reduction, suspension, or cancellation results from—
-    (i) the failure of both spouses or partners to comply with 1 or more specified obligations under this Act; or
-    (ii) the application of section 227 to both spouses or partners; and
+  (b) either—
+    (i) the benefit or the rate of the benefit is, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, and 236D, subject to a reduction (by half or to zero), money management, a suspension, or cancellation (sanction A) because of—
+      (A) the failure of one spouse or partner (P) to comply with 1 or more specified obligations under this Act; or
+      (B) the application to one spouse or partner (P) of section 227; or
+    (ii) under sections 225 and 227, one spouse or partner (P)—
+      (A) has not been granted a main benefit; and
+      (B) is not entitled for a period of 13 weeks (non-entitlement period A) to a work-tested benefit that would be payable at the work-test couple rate; and
+  (c) either—
+    (i) the benefit or the rate of the benefit is, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, and 236D, subject to a reduction (by half or to zero), money management, a suspension, or cancellation (sanction B) because of—
+      (A) the failure of the other spouse or partner to comply with 1 or more specified obligations under this Act; or
+      (B) the application to the other spouse or partner of section 227; or
+    (ii) under sections 225 and 227, the other spouse or partner—
+      (A) has not been granted a main benefit; and
+      (B) is not entitled for a period of 13 weeks (non-entitlement period B) to a work-tested benefit that would be payable at the work-test couple rate; and
   (d) the couple have 1 or more dependent children.
-(2) This section also applies when, under sections 225 and 227, a person with 1 or more dependent children who is in a relationship has not been granted a main benefit and is not entitled for a period of 13 weeks to a work-tested benefit that would be payable at the work-test couple rate.
-(3) In a case to which this section applies,—
-  (a) the reduction, suspension, cancellation, or non-entitlement period applies to only half the applicable rate of main benefit before any reduction on account of income; and
-  (b) the spouses or partners are entitled to receive half that rate (and the appropriate income test applies to that rate).
-(4) Subsection (3)﻿(b) is subject to regulations made under section 442(2)﻿(e) (regulations: payments: apportionment) for the purposes of section 337 (how benefits are paid).
+Reduction (by half or to zero) of rate of benefit, or benefit subject to money management, suspension, cancellation, or non-entitlement period
+(2) For the period that sanction A or non-entitlement period A, and sanction B or non-entitlement period B, applies,—
+  (a) sanction A or non-entitlement period A applies,—
+    (i) if it is a reduction by half or money management, only to any default amount of main benefit payable to P; or
+    (ii) if it is a reduction to zero, a suspension, or cancellation, or a non-entitlement period, only to half of any default amount of main benefit payable to P; and
+  (b) sanction B or non-entitlement period B applies,—
+    (i) if it is a reduction by half or money management, only to any default amount of main benefit payable to the other spouse or partner; or
+    (ii) if it is a reduction to zero, a suspension, or cancellation, or a non-entitlement period, only to half of any default amount of main benefit payable to the other spouse or partner.
+(3) Any amount remaining after a sanction or a non-entitlement period is applied under subsection (2)﻿(a) or (b) is payable to the spouse or partner referred to in that paragraph.
 
-### 248 Variation for suspension or cancellation of main benefit or non-entitlement period affecting sole parent
-(1) This section applies when the main benefit of a person (P) who is a sole parent is suspended or cancelled under section 227 or 232.
-(2) This section also applies when, under sections 225 and 227, a sole parent (P) has not been granted a main benefit and is not entitled for a period of 13 weeks to a work-tested benefit.
-(3) In a case to which this section applies,—
-  (a) the suspension or cancellation applies to only half the applicable rate of main benefit before any reduction on account of income; and
-  (b) P is entitled during the period of suspension, cancellation, or non-entitlement to receive only half of that rate, and the appropriate income test applies to that rate but at half the abatement rate in that income test.
+### 248 Variation for reduction to zero of rate of main benefit, or suspension or cancellation of main benefit, or non-entitlement period, affecting sole parent
+When this section applies
+(1) This section applies if,—
+  (a) under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, and 236D, for a main benefit of a person (P) who is a sole parent, the rate of the benefit is reduced to zero, or the benefit is suspended or cancelled; or
+  (b) under sections 225 and 227, a sole parent (P)—
+    (i) has not been granted a main benefit; and
+    (ii) is not entitled for a period of 13 weeks to a work-tested benefit.
+Reduction to zero of rate of benefit, or benefit subject to suspension, cancellation, or non-entitlement period
+(2) For the period of the reduction to zero, suspension, cancellation, or non-entitlement,—
+  (a) the reduction to zero, suspension, cancellation, or non-entitlement applies only to half of any default amount of main benefit payable to P; and
+  (b) P is entitled to receive half of any default amount of main benefit payable to P.
 
 **Good and sufficient reason for non-compliance**
 
@@ -2344,24 +2634,39 @@ A good and sufficient reason for failure to comply with an obligation under sect
 **Procedure for imposing sanction**
 
 ### 252 MSD must give notice of sanction
-(1) MSD must not under section 232 reduce, suspend, or cancel a benefit payable to a person (P) unless MSD has first given P a written notice for the purposes of this section (a section 252 notice) that complies with subsection (2).
+(1) MSD must not under section 232 reduce the rate of, suspend, or cancel a benefit payable to a person (P) unless MSD has first given P a written notice for the purposes of this section (a section 252 notice) that complies with subsection (2).
 (2) The notice must—
   (a) state that P has failed to comply with a specified obligation under this Act; and
   (b) specify the nature of P’s failure to comply; and
-  (c) state that, on the basis of P’s failure, MSD is reducing, suspending, or cancelling P’s benefit; and
+  (c) either,—
+    (i) if P’s failure is a first or second failure and the specified obligation is not the work-test obligation to accept any offer of suitable employment (see section 144(b)), state that, on the basis of P’s failure, MSD will reduce the rate of P’s benefit or suspend P’s benefit unless P recomplies within 5 working days from the giving of the notice; or
+    (ii) if P’s failure is a third failure or the specified obligation is the work-test obligation to accept any offer of suitable employment, state that, on the basis of P’s failure, MSD is cancelling P’s benefit; and
   (d) specify the date on which the reduction, suspension, or cancellation is to take effect; and
   (e) in the case of a reduction or suspension, state the nature and duration of the reduction or suspension; and
   (f) state that P has 5 working days from the giving of the notice to dispute the reduction, suspension, or cancellation; and
-  (g) advise P to contact MSD if P wants to dispute or discuss the decision to reduce, suspend, or cancel the benefit; and
+  (g) advise P to contact MSD if P wants to dispute or discuss the decision to reduce the rate of, suspend, or cancel the benefit; and
+  (ga) advise P that MSD may, instead of reducing the rate of the benefit, impose a non-financial sanction on P, but only if—
+    (i) P is eligible for a non-financial sanction (see sections 236A(1) and 236B(1)); and
+    (ii) in the 5 working days from the giving of the notice, P discusses with MSD, in an appointment with MSD, P’s failure to comply; and
   (h) contain a clear statement of P's right, under section 391, to apply for a review of the decision, and of the procedure for applying for a review.
+(3) No section 252 notice is required for a replacement sanction imposed under section 236D.
+
+### 252A MSD must give notice of non-financial sanction
+(1) Before, on, or as soon as is reasonably practicable after, imposing a non-financial sanction on a person (P), MSD must give P a written notice for the purposes of this section (a section 252A notice) that complies with subsection (2).
+(2) The notice must state—
+  (a) the non-financial sanction that is to be, or has been, imposed on P; and
+  (b) that sanction’s requirements (including, without limitation, what P must do while P is subject to that sanction); and
+  (c) the date (which must be after the 5 working days from the giving of the related section 252 notice) on which that sanction takes effect; and
+  (d) the duration of that sanction (see sections 236A(6) and 236B(5)); and
+  (e) how P recomplies with an obligation if the failure to comply with it resulted in that non-financial sanction being imposed and taking effect (see section 261, 261A, or 261B).
 
 ### 253 Notice relates to single failure
 (1) A notice of a sanction given to a person (P) may specify more than 1 instance of failure.
 (2) Each specified instance may relate to the same obligation, or to 2 or more different obligations.
 (3) However, for the purposes of imposing a sanction, the combined specified instances are (if at least 2 of them are not disputed by P) treated as a single failure.
 
-### 254 How notice of sanction may be given
-(1) MSD may give a person (P) a section 252 notice—
+### 254 How notice of sanction or of non-financial sanction may be given
+(1) MSD may give a person (P) a section 252 notice or a section 252A notice—
   (a) by delivering it to P personally; or
   (b) by delivering it to P by electronic means (with the individual’s express or inferred consent) in accordance with Part 4 (Electronic transactions) of the Contract and Commercial Law Act 2017; or
   (c) by leaving it—
@@ -2373,8 +2678,9 @@ A good and sufficient reason for failure to comply with an obligation under sect
 ### 255 Breach of obligation in relation to dependent children: additional steps before notice may be given
 MSD must not give a person (P) a section 252 notice in relation to a failure to comply with an obligation in relation to dependent children under sections 131 to 135 unless MSD is satisfied that, on at least 3 previous occasions, MSD has had communication (of any kind, and in any manner) with P in respect of P’s compliance with, or an actual or potential failure of P to comply with, any obligation P has under sections 131 to 135.
 
-### 256 When reduction, suspension, or cancellation of benefit takes effect
-The reduction, suspension, or cancellation of a benefit under section 232 must not take effect before the close of the 5 working days specified in the section 252 notice in accordance with section 252(2)﻿(f).
+### 256 When sanction takes effect
+(1) A sanction (including, without limitation, a non-financial sanction) under section 232 must not take effect before the close of the 5 working days specified in the section 252 notice in accordance with section 252(2)﻿(f).
+(2) However, a replacement sanction imposed under section 236D starts to take effect as specified in section 236D(2).
 
 **Evidential drug test**
 
@@ -2412,15 +2718,42 @@ Failure of an evidential drug test that is requested by a person under section 2
 ### 261 How person recomplies after failure to comply with obligation
 (1) A person (P) recomplies after a failure to comply with an obligation if P remedies the failure.
 (2) If a section 252 notice specifies more than 1 failure of the same obligation, or a failure of more than 1 obligation, P recomplies if P remedies all the failures.
-(3) This section does not apply to recompliance with a drug-testing obligation.
+(3) This section does not apply to recompliance with—
+  (a) an obligation, if a failure to comply with it resulted in money management being imposed and taking effect (see section 261A):
+  (b) an obligation, if a failure to comply with it resulted in community work experience being imposed and taking effect (see section 261B), unless a replacement sanction is imposed (see section 236D):
+  (c) a drug-testing obligation (see section 263).
 
-### 262 Impossibility of remedying failure of work-test obligation
-If it is impossible to remedy a failure to comply with a work-test obligation, a person (P) recomplies if P undertakes, to MSD’s satisfaction, an activity that is the same as, or substantially similar to, the activity that P failed to undertake under the work-test obligation in question.
+### 261A How person recomplies after failure that resulted in money management being imposed and taking effect
+(1) This section sets out how a person (P) recomplies after a failure—
+  (a) to comply with an obligation; and
+  (b) that resulted in money management being imposed on P and taking effect.
+(2) P recomplies when both of the following have occurred:
+  (a) P remedies the failure (if a section 252 notice does not specify more than 1 failure of the same obligation, or a failure of more than 1 obligation) or P remedies all the failures (if a section 252 notice specifies more than 1 failure of the same obligation, or a failure of more than 1 obligation):
+  (b) money management imposed on P ceases to have effect under section 236A(6).
+(3) However, if the obligation that P failed to comply with is a drug-testing obligation, subsection (2)﻿(a) requires P to recomply under section 263 (how person recomplies after failure to comply with drug-testing obligation).
+(4) However, subsection (5) applies instead of subsection (2) if MSD has—
+  (a) reduced the rate of P’s main benefit to zero under section 236A; but
+  (b) not yet cancelled P’s main benefit under section 233A.
+(5) P recomplies if P remedies P’s failure under section 261.
+(6) However, if the obligation that P failed to comply with is a drug-testing obligation, subsection (5) requires P to recomply under section 263 (how person recomplies after failure to comply with drug-testing obligation).
+
+### 261B How person recomplies after failure that resulted in community work experience being imposed and taking effect
+(1) This section sets out how a person (P) recomplies after a failure—
+  (a) to comply with an obligation; and
+  (b) that resulted in community work experience being imposed on P and taking effect.
+(2) P recomplies if P meets the requirements of community work experience that apply to P under section 236B(4).
+(3) However, subsection (4) applies instead of subsection (2) if MSD has—
+  (a) reduced the rate of P’s main benefit to zero under section 236C; but
+  (b) not yet cancelled P’s main benefit under section 233A.
+(4) P recomplies if P remedies P’s failure under section 261.
+
+### 262 Impossibility of remedying failure of work-preparation or work-test obligation
+If it is impossible to remedy a failure to comply with a work-preparation or work-test obligation, a person (P) recomplies if P undertakes, to MSD’s satisfaction, an activity that is the same as, or substantially similar to, the activity that P failed to undertake under the obligation in question.
 
 ### 263 How person recomplies after failure to comply with drug-testing obligation
 (1) In this section, drug test failure means a failure by a person (P) to comply with a drug-testing obligation.
-(2) In the case of a first drug test failure within a 12–month period, P recomplies if P undertakes, in a manner that is satisfactory to MSD, not to use any controlled drugs (except any particular controlled drugs that are lawfully prescribed, and only at the dosage that is lawfully prescribed, for P by a health practitioner).
-(3) In the case of a second drug test failure within a 12-month period of the first failure, P recomplies if P undertakes, in a manner satisfactory to MSD, to undergo drug testing in accordance with section 264.
+(2) In the case of a first drug test failure within a 24-month period, P recomplies if P undertakes, in a manner that is satisfactory to MSD, not to use any controlled drugs (except any particular controlled drugs that are lawfully prescribed, and only at the dosage that is lawfully prescribed, for P by a health practitioner).
+(3) In the case of a second drug test failure within a 24-month period of the first failure, P recomplies if P undertakes, in a manner satisfactory to MSD, to undergo drug testing in accordance with section 264.
 (4) MSD must take reasonable and appropriate steps to make a person who has given an undertaking under subsection (3) aware of the following matters:
   (a) the consequences of failing to comply with the undertaking; and
   (b) the location of an appropriate drug-testing provider; and
@@ -2436,7 +2769,7 @@ If it is impossible to remedy a failure to comply with a work-test obligation, a
 (5) A person who fails a screening drug test or an evidential drug test, or both, that is performed within the testing period may (in order to try to comply with the person’s undertaking despite that failure) undertake, at the person’s own expense, further drug testing within the testing period.
 
 ### 265 Failure of drug test for purposes of recompliance constitutes third failure
-A person who fails a drug test stated in section 264(2)﻿(a) or (b) must be treated, for purposes of the imposition of a sanction, as a person who has failed for a third time within a 12-month period to comply with a drug-testing obligation.
+A person who fails a drug test stated in section 264(2)﻿(a) or (b) must be treated, for purposes of the imposition of a sanction, as a person who has failed for a third time within a 24-month period to comply with a drug-testing obligation.
 
 ### 266 Costs of drug testing for purposes of recompliance
 (1) MSD must pay the actual and reasonable costs of a drug test undertaken on only 1 occasion in accordance with section 264(2).
@@ -2483,6 +2816,22 @@ The sanction for failure to comply with a young person obligation depends on whe
 (2) For P’s first or second failure, MSD must first suspend P’s in-hand allowance and any incentive payments until P satisfies the obligation (or all the relevant obligations, if P has failed to comply with more than 1).
 (3) If P has not satisfied the obligation or obligations within 4 weeks after the suspension takes effect, MSD must suspend the whole of P’s youth payment and any incentive payments until P satisfies the obligation or obligations.
 
+### 270A Cancellation of youth payment and incentive payments for continuing failure to comply
+(1) MSD must cancel a young person’s (P’s) youth payment and incentive payments if—
+  (a) MSD has, under section 270, imposed a sanction described in section 270(2) on P; and
+  (b) P fails to recomply, within 13 weeks after the sanction takes effect, with each obligation—
+    (i) for which the sanction was imposed for a failure to comply with; and
+    (ii) that P has not ceased to have; and
+  (c) section 320 does not apply to P.
+(2) On cancellation under this section of P’s youth payment,—
+  (a) MSD must also cancel the following benefits if P is receiving them:
+    (i) accommodation supplement:
+    (ii) temporary additional support:
+    (iii) disability allowance (but not child disability allowance); but
+  (b) that cancellation of those benefits does not, if P reapplies for all or any of them, affect or limit P’s entitlement to all or any of them.
+(3) On cancellation under this section of P’s youth payment, to be again entitled to youth payment under this Act, P must apply for youth payment and establish that P is eligible for youth payment.
+(4) If P is again entitled to youth payment under this Act, to be entitled again to incentive payments, P must satisfy the criteria for incentive payments (as those criteria are prescribed for the purposes of section 55 by regulations made under section 418(1)﻿(c)).
+
 ### 271 Sanction for third failure: cancellation of youth payment and incentive payments
 (1) This section applies if MSD is satisfied that a young person (P) who is receiving a youth payment has, without good and sufficient reason, failed to comply with a young person obligation for a third time.
 (2) For P’s third failure, MSD must cancel P’s youth payment and any incentive payments.
@@ -2500,8 +2849,8 @@ The sanction for failure to comply with a young person obligation depends on whe
 (1) The cancellation under section 271(2) of the youth payment payable to a young person (P) has the effect set out in subsections (2) to (4).
 (2) If P is single, P is not entitled to receive an accommodation supplement or temporary additional support.
 (3) If P is not single, and P’s spouse’s or partner’s youth payment is not also cancelled under section 271(2),—
-  (a) any accommodation supplement or temporary additional support otherwise payable to P must be reduced by half and be paid to P’s spouse or partner; and
-  (b) any accommodation supplement or temporary additional support otherwise payable to P’s spouse or partner must be reduced by half.
+  (a) the rate of any accommodation supplement or temporary additional support otherwise payable to P must be reduced by half and be paid to P’s spouse or partner; and
+  (b) the rate of any accommodation supplement or temporary additional support otherwise payable to P’s spouse or partner must be reduced by half.
 (4) If P is not single, and the youth payment of P’s spouse or partner is also cancelled under section 271(2),—
   (a) P is not entitled to receive an accommodation supplement or temporary additional support otherwise payable to P; and
   (b) P’s spouse or partner is not entitled to receive an accommodation supplement or temporary additional support payable to P’s spouse or partner.
@@ -2512,10 +2861,10 @@ A young person whose youth payment is cancelled under section 271(2) is not enti
 ### 274 Effect of cancellation of youth payment on disability allowance or child disability allowance
 Despite the cancellation under section 271(2) of the youth payment payable to a young person (P), P must be treated as continuing to receive a youth payment for the purposes of section 85(1)﻿(a) and (2)﻿(c)﻿(i) and the cancellation has no effect on P’s entitlement to receive a disability allowance or child disability allowance.
 
-### 275 Sanctions for failure by young person required to receive youth services to comply with obligations: money management
+### 275 Sanctions for failure by young person required to receive youth services to comply with obligations: youth money management
 (1) This section applies to a young person—
   (a) who has been required to receive youth services under section 165(2) or 168(2); and
-  (b) whose benefit is subject to money management under section 344; and
+  (b) whose benefit is subject to youth money management under section 344; and
   (c) who MSD is satisfied has, without good and sufficient reason, failed to comply with an obligation that applies to the young person under section 165(7)﻿(a) or 168(6)﻿(a), and that is—
     (i) an obligation in section 166(2)﻿(b) and (d) to (g); or
     (ii) the work test (in the case of a work-tested beneficiary); or
@@ -2525,7 +2874,7 @@ Despite the cancellation under section 271(2) of the youth payment payable to a 
 ### 276 Sanctions for failure by young person required to receive youth services to comply with obligations: other cases
 (1) This section applies to a young person—
   (a) who has been required to receive youth services under section 165(2) or 168(2); and
-  (b) whose benefit is not subject to money management under section 344; and
+  (b) whose benefit is not subject to youth money management under section 344; and
   (c) who MSD is satisfied has, without good and sufficient reason, failed to comply with an obligation that applies to the young person under section 165(7)﻿(a) or 168(6)﻿(a), and that is—
     (i) an obligation in section 166(2)﻿(b) and (d) to (g); or
     (ii) the work test (in the case of a work-tested beneficiary); or
@@ -2534,15 +2883,16 @@ Despite the cancellation under section 271(2) of the youth payment payable to a 
   (a) in the case of a young person who is subject to the work test, as a failure to comply with the work test for the purposes of sections 233 and 236 to 239; and
   (b) in the case of a young person who is required to comply with section 124, as a failure to comply with a work-preparation obligation under section 124 or 125 for the purposes of sections 233 and 236 to 239.
 (3) MSD must, in the case of a young person who is subject to a sanction under sections 233 and 236 to 239 for a failure that subsection (2)﻿(a) or (b) of this section requires to be treated as having occurred:
-  (a) suspend the young person’s incentive payments (if any) (if that sanction is a reduction or suspension of the young person’s benefit) until the young person recomplies; or
+  (a) suspend the young person’s incentive payments (if any) (if that sanction is a reduction in the rate of or suspension of the young person’s benefit) until the young person recomplies; or
   (b) cancel the young person’s incentive payments (if any) (if that sanction is the cancellation of the young person’s benefit).
+(4) Section 232(3) prevents MSD from imposing under section 232 a non-financial sanction on a young person to whom subsection (2)﻿(a) or (b) of this section applies.
 
-### 277 Sanctions for failure by young spouse or partner of specified beneficiary to comply with obligations: money management
+### 277 Sanctions for failure by young spouse or partner of specified beneficiary to comply with obligations: youth money management
 (1) This section applies to a young person—
   (a) who is—
     (i) aged 16 or 17 years, without dependent children, and is the spouse or partner of a specified beneficiary; or
     (ii) aged 16 to 19 years, with a dependent child or children, and is the spouse or partner of a specified beneficiary; and
-  (b) whose benefit is subject to money management; and
+  (b) whose benefit is subject to youth money management; and
   (c) who MSD is satisfied has, without good and sufficient reason, failed to comply with an obligation that applies to the young person under section 166(2) or 167(2) and (3).
 (2) The sanctions in sections 270 and 271 apply (and sections 272 to 274 and 283 to 288 apply) as if the young person’s benefit were a youth support payment.
 
@@ -2551,14 +2901,15 @@ Despite the cancellation under section 271(2) of the youth payment payable to a 
   (a) who is—
     (i) aged 16 or 17 years, without dependent children, and is the spouse or partner of a specified beneficiary; or
     (ii) aged 16 to 19 years, with a dependent child or children, and is the spouse or partner of a specified beneficiary; and
-  (b) whose benefit is not subject to money management; and
+  (b) whose benefit is not subject to youth money management; and
   (c) who MSD is satisfied has, without good and sufficient reason, failed to comply with an obligation that applies to the young person under section 166(2) or 167(2) and (3).
 (2) MSD must treat the young person’s failure referred to in subsection (1)﻿(c),—
   (a) in the case of a young person who would, but for section 166(4) or 167(5), be subject to the work test, as a failure to comply with the work test for the purposes of sections 233 and 236 to 239; and
   (b) in the case of a young person who would, but for section 166(4) or 167(5), be required to comply with section 124, as a failure to comply with a work-preparation obligation under section 124 or 125 for the purposes of sections 233 and 236 to 239.
 (3) MSD must, in the case of a young person who is subject to a sanction under sections 233 and 236 to 239 for a failure that subsection (2)﻿(a) or (b) of this section requires to be treated as having occurred,—
-  (a) suspend the young person’s incentive payments (if any) (if that sanction is a reduction or suspension of the young person’s benefit) until the young person recomplies; or
+  (a) suspend the young person’s incentive payments (if any) (if that sanction is a reduction in the rate of or suspension of the young person’s benefit) until the young person recomplies; or
   (b) cancel the young person’s incentive payments (if any) (if that sanction is the cancellation of the young person’s benefit).
+(4) Section 232(3) prevents MSD from imposing under section 232 a non-financial sanction on a young person to whom subsection (2)﻿(a) or (b) of this section applies.
 
 **Sanctions: young parent obligations**
 
@@ -2570,6 +2921,22 @@ The sanction for failure to comply with a young parent obligation depends on whe
 (2) For P’s first or second failure, MSD must first suspend P’s in-hand allowance and any incentive payments until P satisfies the obligation (or all the relevant obligations, if P has failed to comply with more than 1).
 (3) If P has not satisfied the obligation or obligations within 4 weeks after the suspension takes effect, MSD must suspend the whole of P’s young parent payment and any incentive payments until P satisfies the obligation or obligations.
 
+### 280A Cancellation of young parent payment and incentive payments for continuing failure to comply
+(1) MSD must cancel a young person’s (P’s) young parent payment and incentive payments if—
+  (a) MSD has, under section 280, imposed a sanction described in section 280(2) on P; and
+  (b) P fails to recomply, within 13 weeks after the sanction takes effect, with each obligation—
+    (i) for which the sanction was imposed for a failure to comply with; and
+    (ii) that P has not ceased to have; and
+  (c) section 320 does not apply to P.
+(2) On cancellation under this section of P’s young parent payment,—
+  (a) MSD must also cancel the following benefits if P is receiving them:
+    (i) accommodation supplement:
+    (ii) temporary additional support:
+    (iii) disability allowance (but not child disability allowance); but
+  (b) that cancellation of those benefits does not, if P reapplies for all or any of them, affect or limit P’s entitlement to all or any of them.
+(3) On cancellation under this section of P’s young parent payment, to be again entitled to young parent payment under this Act, P must apply for young parent payment and establish that P is eligible for young parent payment.
+(4) If P is again entitled to young parent payment under this Act, to be entitled again to incentive payments, P must satisfy the criteria for incentive payments (as those criteria are prescribed for the purposes of section 62 by regulations made under section 418(1)﻿(d)).
+
 ### 281 Sanction for third failure: cancellation of young parent payment and incentive payments
 (1) This section applies if MSD is satisfied that a young person (P) who is receiving a young parent payment has, without good and sufficient reason, failed to comply with a young parent obligation for a third time.
 (2) For P’s third failure, MSD must cancel P’s young parent payment and any incentive payments.
@@ -2579,7 +2946,7 @@ The sanction for failure to comply with a young parent obligation depends on whe
 (1) On cancellation of P’s young parent payment under section 281(2),—
   (a) P is not entitled to receive any main benefit under this Act for 13 weeks from the date of cancellation; and
   (b) to be again entitled to a main benefit under this Act, P must apply for the benefit and establish that P is eligible for it.
-(2) Subsection (1) is subject to subsection (3) and to sections 320 to 324 (restoration of entitlement after suspension, reduction, cancellation, or non-entitlement).
+(2) Subsection (1) is subject to subsection (3) and to sections 320 to 324 (restoration of entitlement after suspension, reduction, non-financial sanction, cancellation, or non-entitlement).
 (3) However, during the period of cancellation,—
   (a) P is entitled to receive half of the applicable rate of the young parent payment and only half the abatement rate in clause 11 or 12 of Part 6 of Schedule 4 (as the case requires) applies to that rate; but
   (b) no incentive payments are payable; and
@@ -2594,8 +2961,8 @@ The sanction for failure to comply with a young parent obligation depends on whe
 (1) The cancellation under section 281(2) of the young parent payment payable to a young person (P) affects an entitlement to an accommodation supplement or temporary additional support as provided in subsections (3) to (5).
 (2) If P is a sole parent, cancellation has no effect on P’s entitlement to receive any accommodation supplement or temporary additional support.
 (3) If P is not single, and P’s spouse’s or partner’s young parent payment is not also cancelled under section 281(2),—
-  (a) any accommodation supplement or temporary additional support otherwise payable to P must be reduced by half and be paid to P’s spouse or partner; and
-  (b) any accommodation supplement or temporary additional support otherwise payable to P’s spouse or partner must be reduced by half.
+  (a) the rate of any accommodation supplement or temporary additional support otherwise payable to P must be reduced by half and be paid to P’s spouse or partner; and
+  (b) the rate of any accommodation supplement or temporary additional support otherwise payable to P’s spouse or partner must be reduced by half.
 (4) If P is not single, and the young parent payment of P’s spouse or partner is also cancelled under section 281(2), P and P’s spouse or partner are each entitled to receive only half of any accommodation supplement or temporary additional support that would otherwise be payable to P or P’s spouse or partner.
 
 ### 284 Effect of cancellation of young parent payment on emergency benefit
@@ -2603,6 +2970,11 @@ A young person whose young parent payment is cancelled under section 281(2) is n
 
 ### 285 Effect of cancellation of young parent payment on disability allowance or child disability allowance
 Despite the cancellation under section 281(2) of the young parent payment payable to a young person (P), P must be treated as continuing to receive a young parent payment for the purposes of section 85(1)﻿(a) and (2)﻿(c)﻿(i) and the cancellation has no effect on P’s entitlement to receive any disability allowance or child disability allowance.
+
+**Special cases: variations on ordinary sanctions rules**
+
+### 285A Exclusion of sanction for first or second failure if timely recompliance occurs
+MSD must not impose a sanction under section 270 or 280 for a first or second failure by a young person if the young person recomplies within 5 working days of being given a section 252 notice in relation to the failure.
 
 **How obligation satisfied**
 
@@ -2614,7 +2986,23 @@ For the purposes of sections 270, 271, 280, and 281, a young person (P) satisfie
 **Procedure**
 
 ### 287 Procedure for imposing sanctions for failure to comply with young person or young parent obligation
-Sections 240 to 242 (how number of failures is counted) and sections 252 to 256 (procedure for imposing sanctions) apply with all necessary modifications to the imposition of sanctions under sections 270, 271, 280, and 281.
+(1) The following sections apply with all necessary modifications, and subject to the express modifications set out in subsection (2), to the imposition of sanctions under sections 270, 271, 280, and 281:
+  (a) sections 240 to 242 (how number of failures is counted):
+  (b) sections 252 to 256 (procedure for imposing sanctions).
+(2) The express modifications referred to in subsection (1) are as follows:
+  (a) the words “24 months” in section 242(1) must be read as “12 months”:
+  (b) the words “24-month period” in section 242(3) must be read as “12-month period”.
+
+### 287A Procedure for imposing sanctions under section 276(2) or 278(2)
+(1) This section applies to a young person who is subject to a sanction—
+  (a) under any of sections 233 and 236 to 239; and
+  (b) for a failure that section 276(2)﻿(a) or (b) or 278(2)﻿(a) or (b) requires to be treated as having occurred.
+(2) Section 242 applies to the young person—
+  (a) with any necessary modifications; and
+  (b) subject to the express modifications set out in subsection (3).
+(3) The express modifications referred to in subsection (2)﻿(b) are as follows:
+  (a) the words “24 months” in section 242(1) must be read as “12 months”:
+  (b) the words “24-month period” in section 242(3) must be read as “12-month period”.
 
 **Incentive payments**
 
@@ -2723,6 +3111,7 @@ This Part contains provisions on the following matters:
 ### 298 MSD must inquire into claim for benefit
 (1) MSD must inquire into every claim for a benefit made by or on behalf of an applicant for a benefit.
 (2) Subsection (1) is subject to—
+  (aaa) sections 183A to 183D (requirement to complete jobseeker profile):
   (a) section 299 (inquiry: exception during epidemic):
   (b) section 303 (grant: after death of applicant):
   (c) regulations made under section 432(1) and (3)﻿(e) (pre-benefit activities: consequences of non-compliance by applicant).
@@ -2928,28 +3317,29 @@ A benefit of a kind specified in regulations made under section 440—
 ### 319 Commencement of winter energy payment
 The winter energy payment commences in accordance with section 74.
 
-**Restoration of entitlement after suspension, reduction, cancellation, or non-entitlement**
+**Restoration of entitlement after suspension, reduction, non-financial sanction, cancellation, or non-entitlement**
 
 ### 320 Effect of no longer being subject to work-test or young person obligations
-(1) This section applies to a person whose benefit has been suspended or reduced, or who is subject to a 13-week period of non-entitlement to a main benefit, under section 225, 236, 237, 270, or 280, if the person—
-  (a) ceases to be a work-tested beneficiary (other than because of the imposition of that suspension, reduction, or 13-week period); or
-  (b) ceases to be a beneficiary who is required to comply with obligations under section 162, 164, 166, or 167 (other than because of the imposition of that suspension, reduction, or 13-week period); or
+(1) This section applies to a person whose benefit has been suspended, or whose rate of benefit has been reduced (by half or to zero), or who is subject to a non-financial sanction, or who is subject to a 13-week period of non-entitlement to a main benefit, under section 225, 236, 236A, 236B, 237, 270, or 280, if the person—
+  (a) ceases to be a work-tested beneficiary (other than because of the imposition of that suspension, reduction, non-financial sanction, or 13-week period); or
+  (b) ceases to be a beneficiary who is required to comply with obligations under section 162, 164, 166, or 167 (other than because of the imposition of that suspension, reduction, non-financial sanction, or 13-week period); or
   (c) obtains, under section 158, an exemption from the work test or from obligations under section 162, 164, 166, or 167.
 (2) From the date on which MSD decides it is satisfied that this section applies to a person,—
-  (a) the period of suspension or reduction of the benefit ends; or
+  (a) the period of suspension of the benefit or reduction (by half or to zero) of the rate of benefit ends; or
+  (aa) the non-financial sanction ceases to have effect in respect of the person; or
   (b) the person is no longer subject to the 13-week period and that period lapses.
 (3) If a person to whom subsection (2)﻿(b) applies wishes to again become entitled to a main benefit under this Act, the person must apply for the benefit and establish the person's eligibility to receive it.
 (4) In subsection (1), benefit includes part of a benefit.
 
 ### 321 Effect of no longer being subject to dependent children obligations
 (1) This section applies to a sanction imposed on a person—
-  (a) under section 236, 237, or 238 (as applied by section 136); and
+  (a) under section 236, 236A, 236B, 237, or 238 (as applied by section 136); and
   (b) in respect of an obligation that the person had under any of sections 131 to 135.
 (2) The sanction ceases to apply to the person on the person ceasing to have that obligation.
 
 ### 322 Effect of no longer being subject to work-preparation obligations
 (1) This section applies to a sanction imposed on a person—
-  (a) under section 236, 237, or 238 (as applied by section 126); and
+  (a) under section 236, 236A, 236B, 237, or 238 (as applied by section 126); and
   (b) in respect of—
     (i) a general obligation of the person under section 124; or
     (ii) an obligation of the person under section 123 or 125 to comply with a requirement under section 125.
@@ -3084,7 +3474,7 @@ How benefits are paid is, in general, provided for by regulations made under sec
 (3) The instalments are payable on 1 or more days or dates in the month.
 (4) The 1 or more days or dates in the month is or are as determined from time to time by MSD.
 (5) A main benefit under this Act and the winter energy payment are payable in respect of a 7-day week.
-(6) This section is subject to section 74 (winter energy payment: instalments, rates, and payment) and section 341 (required manner of payment: money management for certain payments to young people).
+(6) This section is subject to section 74 (winter energy payment: instalments, rates, and payment) and section 341 (required manner of payment: youth money management for certain payments to young people).
 
 ### 339 Payment generally to, or on account of, beneficiary personally
 (1) All or part of an instalment of a benefit is paid to, or on account of, the beneficiary personally, or, if MSD for good cause directs,—
@@ -3095,23 +3485,62 @@ How benefits are paid is, in general, provided for by regulations made under sec
     (ii) to, or for the benefit of, the spouse or partner of the beneficiary or a dependent child or children of the beneficiary.
 (2) Subsection (1) is subject to contrary provisions in, or in regulations made under, this Act (for example,—
   (a) exceptions provided for in regulations made under section 442; and
-  (b) sections 341 and 344, on when certain payments to a young person are or may be subject to money management; and
+  (aa) section 340A, on the manner of payment of certain payments to people subject to a sanction for a first failure; and
+  (b) sections 341 and 344, on when certain payments to a young person are or may be subject to youth money management; and
   (c) section 351, which requires an amount for tax paid under section 350(2) by MSD to the Commissioner of Inland Revenue to be considered to be a payment of a benefit made on account of, and received by, the beneficiary; and
   (d) sections 368 to 370, on when MSD must pay a disability allowance, special assistance granted under a programme approved under section 100 or 101, or an advance payment, to a preferred supplier of goods or services).
 
 ### 340 Required manner of payment: general
 (1) All or part of an instalment of a benefit must be paid in a manner from time to time determined by MSD.ExampleAn instalment of jobseeker support must be paid by electronic transfer of funds into the beneficiary’s bank account, if that is what MSD has determined.
 (2) Subsection (1) is subject to contrary provisions in, or in regulations made under, this Act (for example,—
+  (aaa) section 340A, on the manner of payment of certain payments to people subject to a sanction for a first failure; and
   (a) section 341, on the manner of payment of specified youth support payments; and
   (b) default determinations, and exceptions, provided for in regulations made under section 442).
 (3) A determination made by MSD under this section of a required manner of payment—
   (a) may be reviewed under subpart 3 of this Part; but
   (b) cannot be reviewed, or appealed against, under Part 7.
 
-### 341 Required manner of payment: money management for certain payments to young people
-(1) Regulations made under section 418(1)﻿(k) for the purposes of this section may prescribe a manner of payment designed to assist certain young people to manage their money effectively (a money management manner of payment).
-(2) A money management manner of payment may (but need not) include crediting an amount to a payment card, voucher, or device, that enables a young person to obtain goods or services from a particular supplier and enables the supplier to obtain payment from MSD for the goods or services.
-(3) The following must be paid in a money management manner of payment:
+### 340A Required manner of payment: money management for certain payments to people subject to sanction for first failure
+(1) Regulations made under section 418(1)﻿(jb) for the purposes of this section may prescribe the required manner of payment for money management for certain payments to a person (P)—
+  (a) who is subject to a sanction for a first failure; and
+  (b) to whom section 236A applies; and
+  (c) while money management imposed on P has effect.
+(2) Those regulations may, without limitation,—
+  (a) require, while money management imposed on P has effect, that the prescribed proportion of an instalment of P’s main benefit that is an instalment payable to P (see regulations made under section 418(1)﻿(ia)) must be paid to P by crediting an amount to a payment card for a prescribed period to enable P to obtain goods or services—
+    (i) that MSD considers are essential; and
+    (ii) from participating suppliers:
+  (b) define participating suppliers:
+  (c) provide for how specified arrears that MSD must pay, and that are arrears that relate to a period while money management imposed on P has effect, are credited or paid (for example, by providing that—
+    (i) the prescribed proportion of the specified arrears is credited to P’s payment card; and
+    (ii) the rest of the specified arrears is paid to P personally under section 339(1)):
+  (d) provide for how specified debt that MSD must recover, and that is debt that relates to a period while money management imposed on P has effect, is recovered (for example, by providing that the specified debt is recovered—
+    (i) from P personally; and
+    (ii) not from, or from amounts to be credited to, P’s payment card):
+  (e) require, if P dies while money management imposed on P has effect, that the prescribed proportion of an instalment of P’s main benefit that is an instalment payable to P, or specified arrears that MSD must pay, and that are arrears that relate to a period while money management imposed on P has effect, and that are arrears that relate to a suspension unrelated to a sanction for failure to comply with P’s obligations under section 233, must be paid under—
+    (i) section 346 (required manner of payment: payment on death of beneficiary); or
+    (ii) any applicable regulations made under section 442 for the purposes of section 337 (how benefits are paid).
+
+### 340B Credit on payment card at end of money management
+(1) This section applies to a person to whom section 236A applies (P) if—
+  (a) money management—
+    (i) is imposed on P, and has effect, when P dies; or
+    (ii) was, but is no longer, imposed on P (whether or not P has died); and
+  (b) under the prescribed required manner of payment for money management for certain payments to P (see section 340A and regulations made under section 418(1)﻿(jb)), P has a payment card to which 1 or more amounts payable to P have been credited for the purchase of goods or services; and
+  (c) the amounts on the card have not been fully spent.
+(2) An application to MSD to have MSD pay the amount standing to the credit of P on the card to, or on account of, P under section 339 may be made by,—
+  (a) if P is alive, P or a person acting on P’s behalf; or
+  (b) if P has died and has a surviving spouse or partner, P’s surviving spouse or partner; or
+  (c) if P has died and has no surviving spouse or partner but has a surviving dependent child, the person who has the care of the child; or
+  (d) if P has died and has no surviving spouse, partner, or dependent child, P’s personal representative.
+(3) An application made under this section may be made—
+  (a) orally or in writing; and
+  (b) in any form, and using any wording, that is reasonable for the purpose.
+(4) On an application made under this section, MSD may pay the amount standing to the credit of P on the card to, or on account of, P under section 339.
+
+### 341 Required manner of payment: youth money management for certain payments to young people
+(1) Regulations made under section 418(1)﻿(k) for the purposes of this section may prescribe a manner of payment designed to assist certain young people to manage their money effectively (a youth money management manner of payment).
+(2) A youth money management manner of payment may (but need not) include crediting an amount to a payment card, voucher, or device, that enables a young person to obtain goods or services from a particular supplier and enables the supplier to obtain payment from MSD for the goods or services.
+(3) The following must be paid in a youth money management manner of payment:
   (a) any youth support payment (including the in-hand allowance up to the maximum amount set out in clause 7 in Part 6 of Schedule 4):
   (b) any WFF tax credit payable to a young person by MSD:
   (c) the amount of any child disability allowance or disability allowance to which a young person is entitled:
@@ -3120,7 +3549,7 @@ How benefits are paid is, in general, provided for by regulations made under sec
   (a) is subject to the exception set out in section 342; and
   (b) overrides section 80KS of the Tax Administration Act 1994.
 
-### 342 Money management for certain payments to young people: exception if young person meets prescribed criteria for managing own payments
+### 342 Youth money management for certain payments to young people: exception if young person meets prescribed criteria for managing own payments
 (1) This section applies to a young person only if MSD considers the young person has met the criteria—
   (a) for managing the young person’s own payments; and
   (b) stated for the purposes of this section in regulations made under section 418(1)﻿(k).
@@ -3131,8 +3560,8 @@ A determination by MSD under regulations made under section 418(1)﻿(k) for the
   (a) may be reviewed under subpart 3 of this Part; but
   (b) cannot be reviewed, or appealed against, under Part 7.
 
-### 344 Young person beneficiaries may elect money management
-(1) A young person to whom section 166 or 167 applies may elect to have all or any amounts stated in subsection (3) payable to the young person paid in a money management manner of payment.
+### 344 Young person beneficiaries may elect youth money management
+(1) A young person to whom section 166 or 167 applies may elect to have all or any amounts stated in subsection (3) payable to the young person paid in a youth money management manner of payment.
 (2) However, the election may be made by the young person only—
   (a) to the extent that regulations made under section 418(1)﻿(l) for the purposes of this section allow; and
   (b) subject to any conditions prescribed by the regulations.
@@ -3144,9 +3573,9 @@ A determination by MSD under regulations made under section 418(1)﻿(k) for the
   (e) any other benefit or payment under this Act to which the young person is entitled.
 (4) The young person may revoke the election at any time.
 
-### 345 Credit on payment card, etc, at end of money management
+### 345 Credit on payment card, etc, at end of youth money management
 (1) This section applies to a young person if—
-  (a) the young person ceases to be subject to a money management manner of payment; and
+  (a) the young person ceases to be subject to a youth money management manner of payment; and
   (b) the young person has a payment card, voucher, or device to which an amount or amounts payable to the young person have been credited for the purchase of goods or services; and
   (c) the amount on the card, voucher, or device has not been fully spent.
 (2) MSD may, after receiving an oral or a written application to do so made (in any form, and using any wording, that is reasonable for the purpose) by or on behalf of a young person to whom this section applies,—
@@ -3154,10 +3583,13 @@ A determination by MSD under regulations made under section 418(1)﻿(k) for the
   (b) pay the amount standing to the credit of the young person on the payment card, voucher, or device (after the deduction of any debt recoverable from the young person) to the young person under section 339.
 
 ### 346 Required manner of payment: payment on death of beneficiary
-If an instalment of a benefit is payable after the beneficiary’s death, that instalment may be paid,—
+If an instalment of a benefit is payable after the beneficiary’s death, the instalment may be paid,—
   (a) on application by the surviving spouse or partner of the beneficiary, to that spouse or partner; or
   (b) if the beneficiary has no surviving spouse or partner but has a surviving dependent child, on application by the person who has the care of the child, to that person (or to another person appointed by MSD for the purpose) for the benefit of that child and any other surviving dependent children of the beneficiary; or
-  (c) in any other case, in the manner in which that instalment would have been paid if the beneficiary had not died.
+  (ba) if the instalment and the beneficiary were subject to money management, in the manner in which the instalment would have been paid if—
+    (i) the beneficiary had not died; and
+    (ii) the instalment and the beneficiary had not been subject to money management; or
+  (c) in any other case, in the manner in which the instalment would have been paid if the beneficiary had not died.
 
 ### 347 Advance payment of instalments of benefit
 (1) MSD may make an advance payment of all or part of 1 or more instalments of a benefit (and that are instalments that are not yet due) if, and only if,—
@@ -3317,7 +3749,7 @@ Recovery under section 362 of a debt is not prevented by the following:
   (a) section 74B of the Property Law Act 2007 (payments made under mistake of law or fact not always recoverable):
   (b) any other law relating to payment by or under mistake.
 
-### Subpart 5A — Use of automated electronic systems in respect of information share child support payments
+### Subpart 5A — Use of automated electronic systems
 
 ### 363A Use of automated electronic systems to make decisions, exercise powers, comply with obligations, and take related actions
 MSD may approve use
@@ -3328,10 +3760,13 @@ Meanings of specified person and specified provision
     (a) the chief executive of the responsible department:
     (b) a public service employee, or other person, acting under a delegation (direct or indirect) from that chief executive
   - **specified provision** has the same meaning as in clause 11 of Schedule 3.
-Specified provision must be about effect of child support income
-(3) The specified provision must be about how an information share child support payment is or affects any person’s assets, income, or other means of any kind (however described), for the purposes of, or for any purpose related to,—
-  (a) a benefit; or
-  (b) any other assistance under this Act.
+What specified provision must be about
+(3) The specified provision must be about—
+  (a) how an information share child support payment is or affects any person’s assets, income, or other means of any kind (however described), for the purposes of, or for any purpose related to,—
+    (i) a benefit; or
+    (ii) any other assistance under this Act; or
+  (b) sanctions for breach of obligations other than young person or young parent obligations; or
+  (c) sanctions for breach of young person or young parent obligations.
 Requirements for approval
 (4) MSD may approve the use of an automated electronic system only if—
   (a) the system is under the responsible department’s control; and
@@ -3962,10 +4397,15 @@ Regulations for purposes of specified provisions
   (g) section 152, definition of pass, paragraphs (a) and (b):
   (h) section 152, definition of screening drug test, paragraph (c)﻿(iii):
   (i)
+  (ia) section 236A(4)﻿(a) (money management: prescribed proportion of an instalment of P’s main benefit that is an instalment payable to P that is paid by the required manner of payment for money management (prescribed by regulations made under paragraph (jb) of this subsection)):
+  (ib) section 236A(5) and (6)﻿(b) (money management: prescribed period starting when the sanction takes effect under section 236A(6)﻿(a) within which P must recomply and until the end of which money management has effect):
+  (ic) sections 236B(4) and 236C (community work experience: prescribed search period starting when the sanction takes effect under section 236B(5)﻿(a) for finding 1 or more positions that comply with section 236B(4)﻿(a)):
+  (id) sections 236B(4) and 236C (community work experience: prescribed minimum number of hours per week for prescribed minimum number of weeks (that start as specified in section 236B(4)﻿(b)﻿(ii))):
   (j) section 250(1)﻿(e) (excuse of good and sufficient reason: failure to comply with drug-testing obligation):
   (ja) section 304A(1)﻿(g) (additional grounds for review of whether person’s information share child support payment is or was all or any of their weekly income):
+  (jb) section 340A (required manner of payment: money management for certain payments to people subject to sanction for first failure):
   (k) sections 341(1) and (3)﻿(d) and 342(1)﻿(b) (which relate to youth support payments):
-  (l) section 344(2) (young person beneficiaries may elect money management):
+  (l) section 344(2) (young person beneficiaries may elect youth money management):
   (m) section 373(1)﻿(a)﻿(ii) and (b) (administration service providers: contracts):
   (n) section 374(1)﻿(c) (administration service providers: contents and form of contracts):
   (na) paragraph (j) of the definition of general provisions child support payment in Schedule 2 (additional kinds of payments that are general provisions child support payments):
@@ -5269,6 +5709,82 @@ Secondary legislation
 (7) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Power ends at, and any regulations made are revoked at, start of 1 July 2026
 (8) Regulations made under this clause cannot be made after, and are revoked by this clause at, the start of 1 July 2026.
+
+### Part 10 — Provisions relating to Social Security Amendment Act 2025
+
+### 99 Definitions for this Part
+In this Part, unless the context otherwise requires,—
+  - **amendment Act** means the Social Security Amendment Act 2025
+  - **commencement** means—
+    (a) the start of 26 May 2025, for an amendment that commences under section 2(1) of the amendment Act; or
+    (b) the start of 20 October 2025, for an amendment that commences under section 2(4) of the amendment Act.
+
+### 100 Application of requirement to have completed jobseeker profile
+Sections 183A to 183D (as inserted by the amendment Act) apply to a person (P) specified in section 183A(1), and to P’s spouse or partner specified in section 183A(3) (if any), only if—
+  (a) MSD is contacted by P (or by some other person acting on P’s behalf) after commencement requesting financial assistance under this Act for P; and
+  (b) the request for financial assistance for P is not one—
+    (i) described in section 183A(1)﻿(b); and
+    (ii) for the regrant under section 336 of a specified benefit.
+
+### 101 Application of amendments relating to obligations failures
+Amendments relating to obligations failures that cannot be counted
+(1) The following sections of this Act as amended or inserted by the amendment Act apply only to an obligation failure that occurred, in whole, after commencement:
+  (a) section 235, definition of failure, paragraph (b), references to sections 242(1) and (3), 287, and 287A:
+  (b) section 242(1) and (3):
+  (c) section 287:
+  (d) section 287A.
+Other amendments relating to obligations failures
+(2) Any other amendments made to this Act by the amendment Act and relating to an obligation failure apply only to an obligation failure that is—
+  (a) an obligation failure that occurred, in whole, after commencement; or
+  (b) an obligation failure by a person (P) that—
+    (i) occurred, in whole or in part, before commencement; and
+    (ii) is active at commencement (see subclause (3)).
+(3) An obligation failure by P is active at commencement under subclause (2)﻿(b)﻿(ii) only if, at commencement, one or both of the following applied to it:
+  (a) a section 252 notice had been given to P:
+  (b) P had not yet recomplied.
+(4) Subclause (3) applies whether or not, at commencement, any of the following had effect:
+  (a) a reduction (by half or to zero) of the rate of P’s main benefit:
+  (b) a suspension or cancellation of P’s main benefit:
+  (c) a suspension of P’s in-hand allowance and any incentive payments (if P is receiving a youth payment or young parent payment):
+  (d) a suspension or cancellation of P’s youth payment and any incentive payments:
+  (e) a suspension or cancellation of P’s young parent payment and any incentive payments.
+
+### 102 Application of amendments about work gap eligibility for, and expiry and regrant of, jobseeker support or other specified benefits
+Amendments to which clause applies
+(1) The amendments made to this Act by the amendment Act on 1 July 2025 apply only to a benefit that commences or, as the case may be, last commences, on or after that date.
+(2) However, subclause (1) is subject to—
+  (a) Part 14 of Schedule 1 of the Social Security Regulations 2018 (as inserted by the amendment Act); and
+  (b) the savings in subclauses (3) and (4); and
+  (c) clause 103 (regulations for transitional and savings purposes).
+Saving of section 21(3)
+(3) Section 21(3) continues to apply, despite its repeal on 1 July 2025, to jobseeker support that, under clause 25 of Schedule 1 of the Social Security Regulations 2018, remains subject to Schedule 6 of those regulations as in force immediately before 1 July 2025.
+Saving of exemptions granted under section 334 and in force on 1 July 2025
+(4) An exemption granted under section 334 and regulation 189 (as that section and regulation were in force before their repeal and revocation on 1 July 2025), and that is in force on 1 July 2025, remains in force—
+  (a) according to the terms on which the exemption was granted; and
+  (b) as if that section and regulation were not so repealed and revoked.
+
+### 103 Regulations for transitional and savings purposes
+Power to make regulations on recommendation of Minister
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing transitional provisions, savings provisions, or both, related to amendments made by the Social Security Amendment Act 2025 to this Act.
+Regulations must be for specified transitional or savings purposes
+(2) The regulations must be for either or both of the following purposes:
+  (a) facilitating, or ensuring the orderliness of, the transition to those amendments being brought into operation:
+  (b) ensuring that existing rights or obligations continue as part of, or despite, that transition.
+Requirements for recommendation of Minister
+(3) The Minister must not recommend the making of regulations made under subclause (1) unless satisfied that those regulations—
+  (a) are reasonably necessary for either or both of the purposes in subclause (2)﻿(a) and (b); and
+  (b) are consistent with the purposes of the amendments made by the Social Security Amendment Act 2025 to this Act.
+Provisions prescribed may be in addition to or instead of specified clauses
+(4) The transitional provisions or savings provisions prescribed by regulations made under subclause (1) may be provisions in addition to or instead of all or any of clauses 99 to 102 of this Part as inserted by the Social Security Amendment Act 2025.
+What prescribed transitional provisions or savings provisions may do
+(5) The transitional provisions or savings provisions prescribed by regulations made under subclause (1) may do all or any of the following:
+  (a) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions (including definitions) of this Act do not apply, or apply with modifications or additions:
+  (b) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions repealed, amended, or revoked by those amendments are to continue to apply, or apply with modifications or additions, as if they had not been repealed, amended, or revoked:
+  (c) provide for any other matter necessary for either or both of the purposes in subclause (2)﻿(a) and (b).
+Secondary legislation
+(6) Regulations made under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+Power ends at, and any regulations made are revoked at, start of 1 July 2028
+(7) Regulations made under this clause cannot be made after, and are revoked by this clause at, the start of 1 July 2028.
 
 ## Schedule 2 — Dictionary
 
