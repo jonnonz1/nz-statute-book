@@ -5,7 +5,7 @@ _Consolidation as at 2025-05-29_
 This Act is the Taxation (Budget Measures) Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after the date on which it receives the Royal assent, except as provided in this section.
+(1) This Act comes into force on 30 May 2025, except as provided in this section.
 (2) Sections 4, 5, 6, 14(3) and (4), and 15 come into force on 22 May 2025.
 (3) Sections 9, 10, 11, 12, 13, 14(2) and (5), 25, and 28 come into force on 1 July 2025.
 (4) Sections 18, 19, 20(3), 23, and 26 come into force on 1 February 2026.
