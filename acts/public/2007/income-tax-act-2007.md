@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-05-29_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -1166,6 +1166,24 @@ When this section applies
 (1) This section applies when a person has, under section EJ 10B (IFRS leases), an amount of income for their IFRS lease.
 Amount, and timing, of income
 (2) The person has income quantified and allocated under section EJ 10B.
+
+### CC 15 New investment assets: change of use
+When this section applies
+(1) This section applies if a person that has deducted an amount for a new investment asset under section DI 5 (New investment asset deduction) subsequently changes the use of the asset such that the percentage of deductible use of the asset under subpart DA (General rules) would change, applying apportionment to the permissions and limitations applicable for section DI 5.
+When this section does not apply: less than 25% change in deductible use
+(2) This section does not apply if, for the asset, the amount given by the following formula, expressed as a percentage, is less than 25%:1 − (new use ÷ previous use).
+Income
+(3) The person has, for the asset, an amount of income equal to the amount calculated by the following formula:DI 5 deduction − (new use ÷ previous use × DI 5 deduction).
+Definition of items in formulas in subsections (2) and (3)
+(4) In the formulas in subsections (2) and (3),—
+  (a) new use is the new percentage of deductible use under subpart DA for the asset, applying apportionment to the permissions and limitations applicable for section DI 5, expressed as a decimal:
+  (b) previous use is the previous percentage of deductible use under subpart DA for the asset, applying apportionment to the permissions and limitations applicable for section DI 5, expressed as a decimal:
+  (c) DI 5 deduction is—
+    (i) the amount of the deduction under section DI 5 for the previous use, if subparagraph (ii) does not apply:
+    (ii) the amount given by the terms in the round brackets in the formula in subsection (3) the previous time this section applied to the asset, if this section previously applied to the asset.
+Relationship with subject matter
+(5) For an item that is depreciable property, the amount of income under subsection (3) increases the item’s adjusted tax value for the purposes of section EE 48(1)﻿(a) (Effect of disposal or event).
+ExampleThomas buys a new yacht for $100,000 that he begins using in the 2025–26 income year. He reduces the base used for determining depreciation by $20,000. He determines that 90% business use is a reasonable basis for apportionment. He claims $18,000 as a deduction, which is 90% of $20,000. In the 2026–27 income year, he only uses the yacht 40% of the time for business. This is a reduction in business use from 90% to 40%. Had Thomas taken the Investment Boost deduction using the apportionment in the 2026–27 income year, he would have been entitled to claim just $8,000. Thomas must return income of $10,000 ($18,000 − $8,000) in the 2026–27 income year. The asset’s adjusted tax value is increased by $10,000 accordingly.
 
 ### Subpart CD — Income from equity
 
@@ -8945,6 +8963,77 @@ Definition of item in formulas
 ### DH 12 Valuation
 [Repealed]
 
+### Subpart DI — New investment assets
+
+### DI 1 New investment assets
+Purpose
+(1) The main purpose of this subpart is to allow a person a deduction in relation to expenditure on a new investment asset, effectively accelerating depreciation or amortisation, as applicable, for that asset.
+Outline
+(2) In this subpart,—
+  (a) section DI 2 provides rules for when this subpart applies and does not apply:
+  (b) section DI 3 provides the meaning of new asset transferee:
+  (c) section DI 4 provides the meaning of new investment asset:
+  (d) section DI 5 allows deductions for expenditure on new investment assets:
+  (e) section DI 6 provides relationships between this subpart and other provisions of the Act for a person allowed a deduction for a new investment asset and also for certain other people, for example, new asset transferees. Section DI 6 removes, where appropriate, the amount of a deduction for a new investment asset from the calculation of other deductions, tax cost bases, and associated calculations for the asset under relevant depreciation and amortisation provisions, so as to ensure that those other deductions are calculated post-new investment asset deduction. Section DI 6 contains examples of its application.
+
+### DI 2 When this subpart applies and does not apply
+When this subpart applies
+(1) This subpart applies for a person,—
+  (a) for an asset acquired by them that is depreciable property, if—
+    (i) the asset first becomes available for use in New Zealand by the person on or after 22 May 2025, other than as trading stock; and
+    (ii) the asset has never previously been used or available for use in New Zealand for any purpose, other than as trading stock; and
+    (iii) the person has chosen to apply this subpart to the asset in a return of income for the income year:
+  (b) for an asset acquired by them that is not depreciable property, if—
+    (i) the person incurs the expenditure in relation to the asset on or after 22 May 2025; and
+    (ii) the person has chosen to apply this subpart to the asset in a return of income for the income year.
+When this subpart does not apply
+(2) This subpart does not apply to expenditure the person incurs before 22 May 2025 in relation to an asset that is not depreciable property.
+
+### DI 3 Meaning of new asset transferee
+New asset transferee means one of the following persons that acquires an asset to which another person (person A) previously chose to apply this subpart:
+  (a) an associate of person A:
+  (b) a company amalgamating with person A:
+  (c) a person who is a party to a relationship agreement with person A or who is associated with a person who is a party to a relationship agreement with person A:
+  (d) a person who is a transferee of person A’s estate in the circumstances described in section FC 1(1)﻿(a) or (b) (Disposals to which this subpart applies).
+
+### DI 4 Meaning of new investment asset
+New investment asset—
+  (a) means, for a person, an asset they acquire and own if the asset is—
+    (i) depreciable property for which the person has a depreciation loss, including a zero amount of depreciation loss (for example, some commercial buildings):
+    (ii) an improvement for which the person is allowed a deduction under section DO 4 (Improvements to farm land):
+    (iii) a planting for which the person is allowed a deduction under section DO 5 (Expenditure on land: planting of listed horticultural plants):
+    (iv) an improvement for which the person is allowed a deduction under section DO 12 (Improvements to aquacultural business):
+    (v) an improvement for which the person is allowed a deduction under section DP 3 (Improvements to forestry land):
+    (vi) an asset that is acquired with petroleum development expenditure:
+    (vii) an asset that is acquired with mining development expenditure:
+    (viii) an improvement to an asset of the type in subparagraph (i):
+  (b) does not include an asset if and to the extent to which it is—
+    (i) a dwelling:
+    (ii) fixed life intangible property:
+    (iii) a petroleum privilege or a petroleum permit:
+    (iv) a mining right or a mining permit.
+
+### DI 5 New investment asset deduction
+Deduction
+(1) For the income year in which an asset becomes a new investment asset, a person is allowed a deduction equal to the amount calculated by the following formula:0.2 × (expenditure − contribution).
+Definition of items in formula
+(2) In the formula,—
+  (a) expenditure is the amount of expenditure the person incurs in acquiring the asset, excluding expenditure to which this subpart does not apply (see section DI 2(2)):
+  (b) contribution is the total amount of the following:
+    (i) capital contributions for the asset if section DB 64 (Capital contributions) applies:
+    (ii) the payment amount that section DF 1(3) (Government grants to businesses) applies to, for the asset.
+Link with subject matter
+(3) The person is allowed the deduction under this section despite section DF 1(2).
+Link with subpart DA
+(4) Subsection (1) overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+
+### DI 6 Relationship to cost, calculations, etc, in other provisions
+For a person (person A) allowed a deduction under section DI 5 for a new investment asset, and for a person that is a new asset transferee in relation to person A and the asset,—
+  (a) the asset’s adjusted tax value, base value, cost, or value, as applicable, is reduced by the amount of person A’s deduction for the purposes of quantifying the amount of depreciation loss under subpart EE (Depreciation) for the asset:
+  (b) the relevant diminished value, expenditure, cost, value, or consideration, as applicable, is reduced by the amount of person A’s deduction for the purposes of quantifying the amount of a deduction under subparts DO (Farming and aquacultural business expenditure), DP (Forestry expenditure), DT (Petroleum mining expenditure), and DU (Mineral mining expenditure) for the asset.
+Example 1ABC company purchases a new investment asset for $10,000 on 1 October 2025 (Asset A). Asset A is depreciable property and has a DV rate of 10%. Asset A is used for 6 months in the income year ended 31 March 2026. The amount ABC company can deduct in the 2025–26 income year is the total of:20% × $10,000 expenditure (section DI 5) = $2,000 10% × 6/12 × ($10,000 − $2,000) (section DI 6(a)) = $400.The total deduction for Asset A in the 2025–26 income year is $2,400.
+Example 2ABC company transfers Asset A to an associate (associate B) at the end of the 2025–26 income year. Under a provision of this Act, associate B steps into the shoes of ABC company (for example, section FM 15(2)). The original acquisition cost of $10,000 is reduced for associate B, for depreciation purposes, to $9,600 by operation of section DI 6. Depreciation deductions of $400 are effectively transferred (see section FM 15(7)). Section DI 6(a) in effect also transfers the $2,000 new investment asset deduction claimed by ABC company to associate B for the purposes of the item new investment asset amount in section EE 48(1B) and (1C). When associate B disposes of Asset A for $9,600, associate B has clawback income of $2,000 under section EE 48.
+
 ### Subpart DN — Attributed losses from foreign equity
 
 ### DN 1 Attributed controlled foreign company loss
@@ -13313,14 +13402,15 @@ Amount of depreciation recovery income
   (a) the amount by which the consideration is more than the item’s adjusted tax value on the date on which the disposal or the event occurs; and
   (b) the amount given by subsections (1B) and (1C).
 Amount for subsection (1)﻿(b)
-(1B) The amount for the purposes of subsection (1)﻿(b) is given by the following formula:item depreciation loss + CZ 11 item amount + DB 64 item amount.
+(1B) The amount for the purposes of subsection (1)﻿(b) is given by the following formula:item depreciation loss + CZ 11 item amount + DB 64 item amount + new investment asset amount.
 Definition of items in formula
 (1C) In the formula in subsection (1B),—
   (a) item depreciation loss is the total of the amounts of—
     (i) depreciation loss for which the person has been allowed deductions for the item; and
     (ii) if the item is a building, the total amount of deductions allowed under sections DB 65, as in force before its repeal by section 4 of the COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020, and DB 65B (which deal with allowances for commercial buildings):
   (b) CZ 11 item amount is the amount of any deduction allowed for the acquisition of the item, for the person, if the item is one to which section CZ 11 (Recovery of deductions for software acquired before 1 April 1993) applies:
-  (c) DB 64 item amount is the amount of the capital contribution for the item, for the person, if the item is one to which section DB 64 (Capital contributions) applies.
+  (c) DB 64 item amount is the amount of the capital contribution for the item, for the person, if the item is one to which section DB 64 (Capital contributions) applies:
+  (d) new investment asset amount is the amount of the reduction for the item under section DI 6 (Relationship to cost, calculations, etc, in other provisions) for the person, if the item is a new investment asset.
 Amount of depreciation loss
 (2) For the purposes of section EE 44, if the consideration is less than the item’s adjusted tax value on the date on which the disposal or the event occurs, the person has an amount of depreciation loss that is the amount by which the consideration is less than the item’s adjusted tax value on that date.
 Income year of depreciation recovery income
@@ -46529,12 +46619,14 @@ In this Act, unless the context requires otherwise,—
   - **net loss** means a net loss for a tax year calculated under section BC 4 (Net income and net loss) and reduced by the amount extinguished by the Commissioner under section MX 5 (Cancellation of R&D tax losses) and section 177C(5) of the Tax Administration Act 1994
   - **net mining loss** is defined in section IS 1(3) (General treatment of mineral miners' net losses) for the purposes of subpart IS (Mineral miners' and petroleum miners' tax losses)
   - **new asset** is defined in section EZ 24 (Meaning of new asset)
+  - **new asset transferee** is defined in section DI 3 (Meaning of new asset transferee)
   - **new build land**
   - **new business** is defined in section EY 29 (Shareholder base other profit: profit participation policies that are new business) for the purposes of that section
   - **new company tax rate person** ,—
     (a) means a person who uses a 28% basic tax rate for the 2011–12 income year or later income years:
     (b) includes, for the purposes of subpart OZ (Terminating provisions), a multi-rate PIE:
     (c) does not include, for the purposes of subpart RZ (Terminating provisions), a multi-rate PIE
+  - **new investment asset** is defined in section DI 4 (Meaning of new investment asset)
   - **new personal tax rate person** means a person whose basic rate of income tax is calculated under schedule 1, part A, clause 1 for the 2010–11 income year or a later income year
   - **new reporting standard** is defined in section DB 35 (Some definitions) for the purposes of section DB 34 (Research or development)
   - **new start grant**
