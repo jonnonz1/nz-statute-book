@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2025-05-14_
+_Consolidation as at 2025-06-12_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -1193,7 +1193,7 @@ The amendments to the State Sector (Ministry for Primary Industries) Order 2012 
 | Charter School Agency | Ministry of Education |  | ✓ |
 | Ministry for Ethnic Communities | Department of Internal Affairs |  |  |
 | National Emergency Management Agency | Department of the Prime Minister and Cabinet |  |  |
-| Office for Māori Crown Relations—Te Arawhiti | Ministry of Justice |  |  |
+| Office of Treaty Settlements and Takutai Moana—Te Tari Whakatau | Ministry of Justice |  |  |
 
 | Interdepartmental executive board |  | Departments in board’s remit (see section 26(2)﻿(b)) | Servicing department |
 | --- | --- | --- | --- |
