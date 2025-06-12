@@ -1,5 +1,5 @@
 # New Zealand Business Number Act 2016
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-06-12_
 
 ### 1 Title
 This Act is the New Zealand Business Number Act 2016.
