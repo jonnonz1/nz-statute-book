@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-06-12_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -366,7 +366,7 @@ Despite the enactment of the Amendment Act, the entity known as Insurance & Fina
 | Charter School Agency | Ministry of Education |
 | Ministry for Ethnic Communities | Department of Internal Affairs |
 | National Emergency Management Agency | Department of the Prime Minister and Cabinet |
-| Office for Māori Crown Relations—Te Arawhiti | Ministry of Justice |
+| Office of Treaty Settlements and Takutai Moana—Te Tari Whakatau | Ministry of Justice |
 
 | Interdepartmental executive board | Servicing department |
 | --- | --- |
