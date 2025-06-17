@@ -1,5 +1,5 @@
 # Smokefree Environments and Regulated Products Act 1990
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-06-17_
 
 > Title
 
@@ -40,6 +40,10 @@ _Consolidation as at 2025-04-05_
     (a) enable patients or residents who smoke to smoke, or to socialise with each other in a place where smoking is permitted; or
     (b) enable patients or residents who vape to vape, or to socialise with each other in a place where vaping is permitted
   - **Director-General** means the Director-General of Health
+  - **disposable vaping device** means a vaping device that is not designed or intended to be reused, and includes a vaping device that—
+    (a) is not designed to be refilled by the user with a vaping substance or by using a pod, cartridge, or similar storage container; or
+    (b) is not designed to be recharged; or
+    (c) is described by both paragraphs (a) and (b)
   - **distributor** means a person engaged in the business of selling regulated products otherwise than at retail only
   - **early childhood education and care centre** has the meaning given to it by section 10(1) of the Education and Training Act 2020
   - **emissions** means the smoke, vapour, or aerosol produced by the use of a regulated product, whether inhaled, exhaled, or otherwise
@@ -263,6 +267,7 @@ The purposes of this Act are, in general, as follows:
 ### 3AA Guide to this Act
 (1) Part 1 prohibits smoking and vaping in workplaces, certain public enclosed areas, registered schools, and early childhood education and care centres.
 (2) Part 1A prohibits smoking and vaping in vehicles carrying children.
+(2A) Part 1AA prohibits the sale, manufacture, supply, and distribution of disposable vaping devices.
 (3) Part 1B regulates entry into the vaping products market.
 (4) Part 2 regulates and controls the advertising, promotion, sale, and distribution of regulated products.
 (5) Part 3 regulates the packaging and labelling of regulated products.
@@ -536,6 +541,14 @@ A person commits an offence, and is liable on conviction to a fine not exceeding
   (b) intentionally fails to comply with a requirement under section 20E; or
   (c) when required under section 20E(1)﻿(d) or (2)﻿(d) to give information, gives information the person knows to be false or misleading.
 
+## Part 1AA — Prohibition of disposable vaping devices
+
+### 20FA Prohibition of disposable vaping devices
+(1) A person must not sell, offer for sale, manufacture, supply, or distribute a disposable vaping device.
+(2) A person who without reasonable excuse contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding,—
+  (a) for a notifier or large retailer, $400,000; and
+  (b) for any other person, $50,000.
+
 ## Part 1B — Regulation of entry into vaping products market
 
 ### Subpart 1 — Approval as smoked tobacco retailer
@@ -660,7 +673,7 @@ Section 23 does not apply to—
     (ii) the regulated product advertisement included in that film, video recording, or sound recording is in the form of a reference to, or a depiction of, a tobacco product trade mark that is only an incidental part of that film, video recording, or sound recording:
   (f) a public health message issued by the Director-General for the purposes of this Act or any of its Parts that is published by a public service or an individual or organisation that is funded (whether wholly or partly and whether directly or indirectly) by a public service:
   (g) the following activities:
-    (i) the display, in accordance with any regulations, of vaping products that are available for sale within the retail premises or on the Internet site of the retailer; and
+    (i) the display, in accordance with any regulations, of vaping products that are available for sale within the retail premises of a specialist vape retailer; and
     (ii) if regulations made under section 81(1)﻿(5)﻿(ii) are in force and apply to the retailer, a retailer providing within their retail premises or on their Internet site information (in any medium) relating to vaping products in accordance with regulations; and
     (iii) until regulations made under section 81(1)﻿(5)﻿(ii) are in force, a retailer providing within their retail premises or on their Internet site information about vaping being a less harmful alternative to smoking:
   (h) any advice or message given by a suitably qualified health worker to an individual or to groups for the purpose of supporting them to switch from smoking to vaping:
@@ -670,8 +683,8 @@ Section 23 does not apply to—
   (j) the publication of media articles, commentary, and opinion that—
     (i) encourage people to switch to a regulated product that is significantly less harmful than smoking; and
     (ii) are not sponsored by the manufacturer, importer, retailer, or distributor of that product:
-  (k) information provided by manufacturers and importers, in accordance with any regulations, to retailers about the use of vaping products and smokeless tobacco products:
-  (l) communications about vaping products made, in accordance with any regulations, by specialist vape retailers to their existing customers.
+  (k) information provided by manufacturers and importers, in accordance with any regulations, to retailers about the use of vaping products and smokeless tobacco products.
+  (l)
 
 ### 25 Retailers, vending machines, and Internet sellers exempt from advertising prohibition in certain circumstances
 Retailer exemption
@@ -696,7 +709,8 @@ Internet-seller exemption
   (a) is in the form of printed or written words; and
   (b) does no more than identify the regulated product and indicate its price; and
   (c) complies with any requirements in regulations.
-(5) Subsections (1)﻿(a) and (b) and (4) do not limit the exemption in section 24(g) relating to the display of, and provision of information relating to, vaping products.
+(4A) To avoid doubt, subsection (4) does not permit publication on an Internet site of a link to a regulated product advertisement that does not comply with this Act or regulations.
+(5)
 (6) In this section, reserved name means,—
   (a) in respect of a name displayed on the outside of a specialist vape retailer’s approved vaping premises or on their approved Internet site, a name that includes—
     (i) any word or expression signifying that a regulated product other than a vaping product is available for purchase in that place; or
@@ -816,7 +830,7 @@ In this subpart, unless the context otherwise requires,—
 (3) For the purposes of this section, a regulated product is distributed or supplied at a reduced charge if—
   (a) the charge for the product itself is reduced; or
   (b) the charge for distribution or supply of the product is not reduced or purports not to be reduced, but some other item is supplied free of charge or at a reduced charge, together with the product.
-(4) Subsection (2) does not apply to the supply of vaping products by a specialist vape retailer from their approved vaping premises or approved Internet site.
+(4)
 (5) Subsections (1) and (2) do not apply in relation to vaping products that are distributed or supplied free of charge or at a reduced charge as part of a smoking cessation programme.
 (6) A person who, without reasonable excuse, distributes or supplies any regulated product in contravention of subsection (1) or (2) commits an offence and is liable,—
   (a) in the case of a manufacturer, an importer, or a distributor,—
@@ -867,15 +881,15 @@ In this subpart, unless the context otherwise requires,—
   (b) is authorised—
     (i) by the Director-General for that purpose; or
     (ii) by a person authorised by the Director-General for that purpose.
-(4) Subsection (1) does not apply to a specialist vape retailer who offers any gift or cash rebate, or the right to participate in any contest, lottery, or game in the manner described in subsection (1) with respect to vaping products.
+(4)
 (5) A person who, without reasonable excuse, contravenes subsection (1) or (2) commits an offence and is liable,—
   (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $10,000; or
   (b) in any other case, to a fine not exceeding $5,000.
 
 ### Subpart 5 — Visibility of regulated products
 
-### 37 Regulated product (other than vaping product) must not be visible from place of business
-(1) A person who offers a regulated product other than a vaping product for sale (whether by retail or wholesale) must not allow any part of the regulated product or its package—
+### 37 Regulated product must not be visible from place of business
+(1) A person who offers a regulated product for sale (whether by retail or wholesale) must not allow any part of the regulated product or its package—
   (a) to be visible from outside the person's place of business; or
   (b) to be visible from an area inside the person's place of business to which members of the public are allowed access.
 (2) Subsection (1) does not apply to a regulated product or package that is being delivered if—
@@ -884,7 +898,9 @@ In this subpart, unless the context otherwise requires,—
     (ii) to its purchaser at or from the place; and
   (b) the form of its delivery complies with any regulations made under section 81(1)﻿(13) that are in force.
 (3) Subsection (1) does not apply to a regulated product or package that is visible in a way that complies with any relevant temporary transitional exemption regulations in force under section 81(1)﻿(14).
-(4) A person who, without reasonable excuse, contravenes subsection (1) commits an offence and is liable to a fine not exceeding $10,000.
+(3A) Subsection (1) does not apply to a specialist vape retailer in relation to a vaping product.
+(3B) A specialist vape retailer must not display a vaping product or its packaging in a way that makes it visible from outside their place of business.
+(4) A person who, without reasonable excuse, contravenes subsection (1) or (3B) commits an offence and is liable to a fine not exceeding $50,000.
 
 ### Subpart 6 — Information and warnings at point of sale and on Internet
 
@@ -988,8 +1004,8 @@ In this subpart, unless the context otherwise requires,—
 
 ### Subpart 8 — Sale of regulated products by way of automatic vending machines
 
-### 46 Regulated product (other than vaping product) must not be visible from outside automatic vending machines
-(1) A person who offers a regulated product other than a vaping product for sale by way of an automatic vending machine must not allow any part of the regulated product or its package to be visible from outside the machine.
+### 46 Regulated product must not be visible from outside automatic vending machines
+(1) A person who offers a regulated product for sale by way of an automatic vending machine must not allow any part of the regulated product or its package to be visible from outside the machine.
 (2) However, subsection (1) does not apply to a regulated product or package that is being delivered if—
   (a) the product or package is visible only to the extent that is necessary for it to be delivered to or from the machine; and
   (b) the form of its delivery complies with regulations made under section 81(1)﻿(13) that are in force.
@@ -1822,14 +1838,15 @@ Information that must be contained in annual returns
 In this subpart,—
   - **infringement fee** ,—
     (a) in relation to an infringement offence against any of sections 38(3), 39(3), 42(2), 43(4), 44(4), 47(4), and 53(4) or section 41(2) (to the extent that it relates to regulated products other than tobacco products), means $200; and
-    (b) in relation to an infringement offence against any of sections 34(4), 36(5), 37(4), 46(3), and 54(4) or section 41(2) (to the extent that it relates to tobacco products), means—
+    (b) in relation to an infringement offence against any of sections 34(4), 36(5), 46(3), and 54(4) or section 41(2) (to the extent that it relates to tobacco products), means—
       (i) $1,000, in the case of a manufacturer, an importer, or a distributor; or
       (ii) $500; and
     (c) in relation to an infringement offence against section 20R(4) or 20S(4), means $500; and
+    (ca) in relation to an infringement offence against section 20FA, 23(5), or 37(4), means $2,000; and
     (d) in relation to an infringement offence against section 40(2), means—
       (i) $2,000 in the case of a manufacturer, an importer, a distributor, or a retailer; or
       (ii) $1,000 in any other case
-  - **infringement offence** means an offence against any of sections 20R(4), 20S(4), 34(4), 36(5), 37(4), 38(3), 39(3), 40(2), 41(2), 42(2), 43(3),, 44(4), 46(3), 47(4), 53(4), and 54(4).
+  - **infringement offence** means an offence against any of sections 20FA(2), 20R(4), 20S(4), 23(5), 34(4), 36(5), 37(4), 38(3), 39(3), 40(2), 41(2), 42(2), 43(3),, 44(4), 46(3), 47(4), 53(4), and 54(4).
 
 ### 88 Commission of infringement offences
 (1) A person who is alleged to have committed an infringement offence may—
@@ -1861,12 +1878,12 @@ All infringement fees paid in respect of infringement offences must be paid into
 **Other offence provisions**
 
 ### 90A Liability for action of employee
-(1) This section applies to an offence against section 40(2), 43(3), 44(4), 57F(2), 57H(6), or 69B(7).
+(1) This section applies to an offence against section 20FA, 40(2), 43(3), 44(4), 57F(2), 57H(6), or 69B(7).
 (2) Anything done by a person (A) as the employee of another person (B) is, for the purposes of an offence, to be treated as done by B as well as by A, whether or not it was done with B’s knowledge or approval.
 (3) Anything done by a person (A) as the agent of another person (B) is, for the purposes of an offence, to be treated as done by B as well as by A, unless it is done without B’s express or implied authority, given before or after the action.
 
 ### 90B Burden of proof of reasonable excuse
-In proceedings for an offence against any of sections 17(3) to (6) and (8C), 20P(5), 20R(4), 20S(4), 23(5), 27(2), 29(2), 30(5), 31(5), 33(6), 34(4), 36(5), 37(4), 38(3), 39(3), 43(3), 44(4), 46(3), 47(4), 48(2)﻿(b), 53(4), 54(4), 57G(4), 57H(6), 60(3), 63(2), 65(6), 66(2), 69B(7), 73(4), 75(5) and (6), and 101(6),—
+In proceedings for an offence against any of sections 17(3) to (6) and (8C), 20FA(2), 20P(5), 20R(4), 20S(4), 23(5), 27(2), 29(2), 30(5), 31(5), 33(6), 34(4), 36(5), 37(4), 38(3), 39(3), 43(3), 44(4), 46(3), 47(4), 48(2)﻿(b), 53(4), 54(4), 57G(4), 57H(6), 60(3), 63(2), 65(6), 66(2), 69B(7), 73(4), 75(5) and (6), and 101(6),—
   (a) the prosecutor need not assert absence of reasonable excuse in the charging document; and
   (b) the burden of proving that the defendant had a reasonable excuse lies on the defendant.
 
