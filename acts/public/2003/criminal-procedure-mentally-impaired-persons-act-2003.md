@@ -1,5 +1,5 @@
 # Criminal Procedure (Mentally Impaired Persons) Act 2003
-_Consolidation as at 2022-12-13_
+_Consolidation as at 2025-06-17_
 
 ### 1 Title
 This Act is the Criminal Procedure (Mentally Impaired Persons) Act 2003.
@@ -375,6 +375,8 @@ The Director of Mental Health may report to the Minister of Health about the con
   (b) has been assessed under Part 3 of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; and
   (c) is to receive care under a care programme completed under section 26 of that Act.
 (5) No order may be made under this section in respect of an offender who is, at the time of the conviction, subject to a sentence of imprisonment.
+(6) No order may be made under subsection (1)﻿(b) in respect of an offender who is convicted of a stage-2 offence, or a stage-3 offence, for which the court would, in the absence of that paragraph, have imposed a qualifying sentence.
+(7) In this section, qualifying sentence, stage-2 offence, and stage-3 offence have the same meanings as in section 86J of the Sentencing Act 2002.
 
 ### 35 Inquiries about persons for whom orders under section 34 proposed
 (1) When a court proposes to make an order under section 34 in respect of a person, the court must order that inquiries be made to determine the most suitable method of dealing with the person.
@@ -556,6 +558,14 @@ No proceeding under section 20 is invalid only because it was conducted under th
   (e) application made; and
   (f) agreement entered into; and
   (g) requirement imposed.
+
+### Part 3 — Provision relating to Sentencing (Reinstating Three Strikes) Amendment Act 2024
+
+### 6 Offences affected by amendment
+(1) The amendment made to section 34 of this Act by section 16 of the amendment Act does not apply to any offence committed, whether in whole or in part, before the commencement date.
+(2) In this clause,—
+  - **amendment Act** means the Sentencing (Reinstating Three Strikes) Amendment Act 2024
+  - **commencement date** means the date on which the amendment Act, other than sections 21(2), 23(2), and 24, comes into force.
 
 ## Schedule 1 — Consequential amendments to other enactments
 
