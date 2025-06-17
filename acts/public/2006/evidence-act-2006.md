@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2023-11-28_
+_Consolidation as at 2025-06-17_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -1839,6 +1839,7 @@ In a civil proceeding, wherever a party is permitted under rules of court to ins
   (a) the conviction or acquittal of a person charged with an offence and the particulars of the offence charged and of the person (including the name and date of birth of the person if the person is an individual, and the name and date and place of incorporation of the person if the person is a body corporate):
   (b) the sentencing by a court of a person to any penalty or other disposition of the case following a plea or finding of guilt, and the particulars of the offence for which that person was sentenced or otherwise dealt with and of the person (including the name and date of birth of the person if the person is an individual, and the name and date and place of incorporation of the person if the person is a body corporate):
   (ba)
+  (ba) a record of first warning or a record of subsequent warning (as those terms are defined in section 86J of the Sentencing Act 2002) made in respect of a person:
   (c) an order or judgment of a court and the nature, parties, and particulars of the proceeding to which the order or judgment relates:
   (d) the existence of a criminal or civil proceeding, whether or not the proceeding has been concluded, and the nature of the proceeding.
 (2) A certificate under this section is sufficient evidence of the facts stated in it without proof of the signature or office of the person appearing to have signed the certificate.
