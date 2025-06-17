@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2024-11-26_
+_Consolidation as at 2025-06-17_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -1977,9 +1977,9 @@ If a retrial or rehearing is ordered—
     (i) by the District Court Judge who imposed the sentence; or
     (ii) by any District Court Judge if the Judge who imposed the sentence is not available or the sentence was imposed by 1 or more Community Magistrates or Justices.
 (3) The court may, by order, remove the matter into the first appeal court described in section 297, and that court may deal with it as if it were an appeal on a question of law under section 296.
-(4) In this section, the term sentence includes—
+(4) In this section, sentence includes—
   (a) an order, and references to the imposition of a sentence include references to the making of an order:
-  (b)
+  (b) a record of first warning and a record of subsequent warning (as those terms are defined in section 86J of the Sentencing Act 2002), and references to the imposition of a sentence include references to the giving and recording of a warning of either kind.
 
 ### 181 Application of chief executive of Department of Corrections to correct erroneous sentence
 (1) The chief executive of the Department of Corrections may make an application under section 180(1) if the sentence that was imposed or that the chief executive alleges ought to have been imposed is—
