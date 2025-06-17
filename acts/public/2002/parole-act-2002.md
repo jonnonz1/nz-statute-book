@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2024-12-18_
+_Consolidation as at 2025-06-17_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -422,6 +422,10 @@ For the purposes of section 15, a programme means any of the following:
   (a) the offender's parole eligibility date as it would be under subsection (1) if he or she were subject only to the sentence or sentences imposed after the commencement date; and
   (b) the offender's parole eligibility date as it would be under subsection (2) if he or she were subject only to the pre-cd sentence or sentences.
 (4) Despite anything in this section, an offender who is subject only to 1 or more short-term sentences does not have a parole eligibility date (unless the short-term sentences are cumulative and form a long-term notional single sentence, in which case subsection (1) applies to the notional single sentence and the offender will have a parole eligibility date under that subsection).
+(4A) An offender (offender A) who is subject to a sentence (sentence A) that he or she is required, by an order made under section 86O(2) or 86R(3) of the Sentencing Act 2002, to serve without parole—
+  (a) does not have a parole eligibility date in respect of sentence A; and
+  (b) may not be released on parole in respect of sentence A.
+(4B) If offender A is also subject to 1 or more other sentences in respect of which no order under section 86O(2) or 86R(3) of the Sentencing Act 2002 has been made, the full term of sentence A must be treated as the non-parole period of sentence A for the purpose of determining the parole eligibility date (if any) of each of those other sentences.
 (5) If an offender is required, by an order made under section 103(2A) of the Sentencing Act 2002, to serve a sentence of imprisonment for life without parole, the offender may not be released on parole.
 (5)
 (6)
@@ -461,7 +465,7 @@ An offender who is unlawfully at large on the date on which he or she is due to 
 (4) The Board must, as soon as practicable, consider for parole any offender referred to it under subsection (1) and every offender belonging to a class designated under subsection (3).
 (5) Despite subsection (4), the Board may not consider under this section an offender who is subject to any of the following orders:
   (a) an order made under section 80 or section 105 of the Criminal Justice Act 1985:
-  (b) an order made under section 86, section 89, or section 103 of the Sentencing Act 2002:
+  (b) an order made under section 86, 86O(2), 86P(2), 86R(3), 86S(2), 89, or 103 of the Sentencing Act 2002:
   (c) an order made under section 107.
 (6) The Board may direct the release on parole of an offender considered under this section if—
   (a) the Board is satisfied on reasonable grounds that the offender, if released on parole, will not pose an undue risk to the safety of the community or any person or class of persons within the term of the sentence, having regard to the matters set out in section 28(2)﻿(a) and (b); and
@@ -1236,7 +1240,7 @@ The sentence expiry date of a pre-cd sentence is the date, determined under Part
 
 ### 84 Non-parole periods
 (1) The non-parole period of a long-term determinate sentence is one-third of the length of the sentence, unless the sentence is one to which subsection (2) or subsection (4) applies.
-(2) The non-parole period of a sentence in respect of which the court has imposed a minimum term of imprisonment (whether under section 86, 89, or 103 of the Sentencing Act 2002) is the minimum term imposed.
+(2) The non-parole period of a sentence in respect of which the court has imposed a minimum term of imprisonment (whether under section 86, 86P(2), 86S(2), 89, or 103 of the Sentencing Act 2002) is the minimum term imposed.
 (3) The non-parole period of a sentence of imprisonment for life is 10 years, unless the court—
   (a) has imposed a minimum term of imprisonment in respect of that sentence; or
   (b) has made an order under section 103(2A) of the Sentencing Act 2002 in respect of that sentence.
@@ -1249,6 +1253,7 @@ The sentence expiry date of a pre-cd sentence is the date, determined under Part
 (5) For the purpose only of calculating the non-parole period of a long-term notional single sentence,—
   (a) every short-term sentence (being a sentence imposed after the commencement date) within the notional single sentence must be treated as if it had a non-parole period of one-third of its length; and
   (ab)
+  (ab) every sentence in respect of which an order under section 86O(2) or 86R(3) of the Sentencing Act 2002 has been made must be treated as if it had a non-parole period equal to its full term; and
   (b) every long-term pre-cd sentence under which the offender is eligible for parole must be treated as if it had a non-parole period of the period represented by the time between the commencement of the sentence and the close of the date on which the offender is eligible to be released on parole from that sentence under section 89 of the Criminal Justice Act 1985; and
   (c) every pre-cd sentence under which the offender is not eligible for parole (including every short-term pre-cd sentence) must be treated as if it had a non-parole period of the period represented by the time between the commencement date of the sentence and the close of the date on which the offender must be released from that sentence (the sentence's final release date) under section 90 of the Criminal Justice Act 1985.
 
