@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2025-01-26_
+_Consolidation as at 2025-06-23_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -319,6 +319,7 @@ This Act binds the Crown.
   (h) inquiring into any complaint made to him or her by a person under control or supervision:
   (i) exercising all or any of the powers and functions of a prison manager:
   (j) issuing instructions or guidelines under section 196:
+  (ja) ensuring that processes are established and maintained to inform visitors of prisoners and recipients of prisoner communications of measures that they can take if they do not want to be contacted by a prisoner:
   (k) ensuring that processes are established and maintained to—
     (i) identify the communities significantly affected by policies and practices in the corrections system; and
     (ii) provide opportunities for those identified communities to give their views on those policies and practices; and
@@ -1258,6 +1259,7 @@ Any money paid to the chief executive under section 67 to the credit of a prison
   (b) the prisoner's legal adviser.
 (4A) The entitlement in subsection (3) is overridden by directions given under section 168A (no-contact conditions if family violence offence defendant remanded in custody) of the Criminal Procedure Act 2011.
 (5) The chief executive (in the case of a corrections prison) or the Commissioner of Police (in the case of a Police jail) may impose conditions on, and maintain records of, the use of telephone facilities by prisoners.
+(5A) In deciding what conditions (if any) to impose, the chief executive or the Commissioner of Police must take into account the interests of victims (including, in particular, being free from unwanted contact with prisoners).
 (6) Every prisoner who makes an outgoing telephone call may be required to—
   (a) meet the cost of the call; or
   (b) pay a fee set by the chief executive.
@@ -1725,7 +1727,7 @@ As far as practicable in the circumstances, staff members must take the followin
   (d) the need to prevent the commission of offences:
   (e) the need to ensure the safety of any person:
   (f) the need to prevent the entry of unauthorised items into the prison:
-  (g) the interests of victims:
+  (g) the interests of victims (including, in particular, being free from unwanted contact with prisoners):
   (h) the potential impacts of the written material on persons beyond the intended recipient, including the potential for the sharing and publication of the material:
   (i) the potential for messages to be disseminated through coded references.
 
@@ -2169,7 +2171,8 @@ Additional requirements for mail
   (o) tattoos another prisoner:
   (p) receives a tattoo with his or her consent:
   (q) tattoos himself or herself:
-  (r) contacts a person in breach of a court order or direction of any court.
+  (r) contacts a person in breach of a court order or direction of any court:
+  (s) contacts a person, or solicits anyone else to contact a person, who the prisoner knows or ought reasonably to know does not want to be so contacted.
 (2) If an allegation referred to in subsection (1)﻿(j) is against a staff member of a prison or a security officer,—
   (a) a charge alleging an offence under that provision may only be laid,—
     (i) in the case of a staff member, if the supervisor of that staff member or the prison manager gives his or her written approval to the laying of the charge:
