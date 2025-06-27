@@ -1,0 +1,163 @@
+# Invest New Zealand Act 2025
+_Consolidation as at 2025-06-27_
+
+### 1 Title
+This Act is the Invest New Zealand Act 2025.
+
+### 2 Commencement
+This Act comes into force on 1 July 2025.
+
+## Part 1 — Preliminary provisions
+
+### 3 Purpose
+The purpose of this Act is to establish Invest New Zealand to promote increased overseas investment into New Zealand and to provide for Invest New Zealand’s objective, functions, and operation.
+
+### 4 Interpretation
+In this Act, unless the context otherwise requires,—
+  - **Board** means the Board of Invest New Zealand
+  - **chief executive** means the chief executive of the department
+  - **Invest New Zealand** means the entity established by section 7
+  - **organisation** means an organisation named in Schedule 1 of the Ombudsmen Act 1975 (other than a mortality review committee or the Parliamentary Service)
+  - **public service agencies** has the meaning set out in section 2(1) of the Ombudsmen Act 1975.
+
+### 5 Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+
+### 6 Act binds the Crown
+This Act binds the Crown.
+
+## Part 2 — Invest New Zealand
+
+### Subpart 1 — Invest New Zealand
+
+**Establishment of Invest New Zealand**
+
+### 7 Invest New Zealand established
+Invest New Zealand is established.
+
+### 8 Invest New Zealand is Crown entity
+(1) Invest New Zealand is a Crown entity for the purposes of the Crown Entities Act 2004.
+(2) The Crown Entities Act 2004 applies to Invest New Zealand except to the extent that this Act expressly provides otherwise.
+
+### 9 Board of Invest New Zealand
+The Board of Invest New Zealand consists of not fewer than 3, and not more than 9, members.
+
+**Objective of Invest New Zealand**
+
+### 10 Objective of Invest New Zealand
+The objective of Invest New Zealand is to promote increased overseas investment into New Zealand.
+
+**Functions of Invest New Zealand**
+
+### 11 Functions of Invest New Zealand
+(1) The main function of Invest New Zealand is to facilitate and enable increased overseas investment in New Zealand.
+(2) In order to carry out the main function, Invest New Zealand has the following additional functions:
+  (a) facilitating connections and collaboration between overseas investors, New Zealand investors, research institutions, public service agencies, organisations, and providers of opportunities for overseas investment:
+  (b) building knowledge about—
+    (i) overseas investors; and
+    (ii) the investment environment in New Zealand; and
+    (iii) investment opportunities in New Zealand:
+  (c) sharing the knowledge described in paragraph (b) with overseas investors, New Zealand investors, research institutions, public service agencies, organisations, and providers of opportunities for overseas investment:
+  (d) providing advice and information to the department on any policies and legislation needed to attract overseas investment, including identifying and advising on options for reform that are likely to enable further overseas investment:
+  (e) carrying out any additional function in relation to investment that the Minister may direct in accordance with section 112 of the Crown Entities Act 2004.
+
+### 12 Invest New Zealand’s obligations in relation to ministerial directions
+Invest New Zealand must, in relation to a direction given by the Minister under section 104 of the Crown Entities Act 2004,—
+  (a) notify the Minister of how it proposes to have regard to the direction; and
+  (b) include in its annual report a statement of how it is having regard, or has had regard, to the direction during the relevant year.
+
+**Special adviser**
+
+### 13 Power of Minister to appoint special adviser to Board
+(1) The Minister may appoint the chief executive as a special adviser to the Board.
+(2) The purpose of the appointment is to facilitate the exchange of information between the Minister and the Board on matters of Government policy relevant to the Board in performing its functions and exercising its powers under this Act.
+(3) The special adviser must not give directions or seek to influence decisions of the Board.
+
+### 14 Status of special adviser
+(1) The special adviser appointed under section 13 is not a member of the Board, but may attend the meetings of the Board.
+(2) The special adviser may also attend meetings of any committees of the Board, but is not a member of a committee.
+(3) For the purposes of subsections (1) and (2), the special adviser must be given—
+  (a) reasonable notice of the time and place of every meeting of the Board and of its committees; and
+  (b) any written material or documents that relate to matters to be considered at a meeting.
+(4) The notices and material or documents required by subsection (3) must be provided to the special adviser,—
+  (a) in the case of meetings of the Board, by the chairperson or deputy chairperson (if there is one), or the member or members calling the meeting; and
+  (b) in the case of meetings of a committee, by the member or members calling the meeting.
+
+**Fees and cost recovery**
+
+### 15 Invest New Zealand may charge fees and recover costs
+Invest New Zealand may charge any fees and recover any costs in respect of the provision of services, information, or advice requested from Invest New Zealand in relation to its functions under this Act.
+
+### Subpart 2 — Other legislation
+
+**Amendments to New Zealand Trade and Enterprise Act 2003**
+
+### 16 Principal Act
+Section 17 amends the New Zealand Trade and Enterprise Act 2003.
+
+### 17 Section 9 amended (Functions)
+(1) In section 9(1)﻿(a)﻿(i) and (b), delete potential investors,.
+(2) Replace section 9(1)﻿(d) with:
+  (d) contribute to increased exports from New Zealand by—
+    (i) strengthening global linkages through trade promotion; and
+    (ii) providing appropriate business and market development assistance:
+
+**Amendments to other legislation**
+
+### 18 Amendments to other legislation
+Amend the legislation specified in Schedule 2 as set out in that schedule.
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to this Act as enacted
+
+### 1 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **commencement date** means 1 July 2025
+  - **New Zealand property** means property that is located in New Zealand at the commencement date
+  - **NZTE** means New Zealand Trade and Enterprise established under section 7 of the NZTE Act
+  - **NZTE Act** means the New Zealand Trade and Enterprise Act 2003
+  - **relevant function** means the following aspects of the functions of NZTE under section 9 of the NZTE Act (as they were immediately before the commencement date) that are removed from the functions of NZTE as a consequence of amendments made by this Act to the NZTE Act and that are included in the functions of Invest New Zealand under section 11:
+    (a) any aspect of a function that relates to potential investors:
+    (b) any aspect of a function that relates to investment in New Zealand:
+    (c) any aspect of a function that relates to investment promotion
+  - **transfer** , in relation to a relevant function, means removal from the functions of NZTE as a consequence of amendments made by this Act to the NZTE Act and inclusion in the functions of Invest New Zealand under section 11
+  - **transferred employee** means a person referred to in clause 3 who has been offered and has accepted employment in Invest New Zealand.
+
+### 2 Consequences of transfers of functions
+(1) On and after the commencement date,—
+  (a) all information that relates to a relevant function and that is transferred by NZTE to Invest New Zealand, including any information relating to a transferred employee, is held by Invest New Zealand; and
+  (b) all rights, liabilities, contracts, entitlements, and engagements of NZTE in relation to a relevant function become the rights, liabilities, contracts, entitlements, and engagements of Invest New Zealand; and
+  (c) all directions to NZTE that relate to a relevant function and that are in force immediately before the commencement date become directions to Invest New Zealand; and
+  (d) anything done, or omitted to be done, or that is to be done, in relation to a relevant function by, or in relation to, NZTE is to be treated as having been done, or having been omitted to be done, or to be done, by, or in relation to, Invest New Zealand; and
+  (e) a matter or thing relating to a relevant function that would, but for this clause, have been completed by NZTE may be completed by Invest New Zealand.
+(2) On and after the commencement date, New Zealand property identified by NZTE as being owned by NZTE solely or principally for the purposes of a relevant function and that is transferred by NZTE to Invest New Zealand is vested in Invest New Zealand.
+(3) The holding of information by Invest New Zealand under subclause (1)﻿(a) does not—
+  (a) constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020:
+  (b) prevent NZTE from continuing to hold and use any of the information for the purpose of performing its functions under the NZTE Act.
+(4) Subclause (1)﻿(b) does not apply to any contract of NZTE that is not governed by New Zealand law.
+(5) An employee of NZTE does not become an employee of Invest New Zealand under this clause (but see clauses 3 and 4, which relate to employees of NZTE who are offered employment in Invest New Zealand).
+
+### 3 Transfer of NZTE employees to Invest New Zealand
+(1) The chief executive of NZTE must identify the employees of NZTE—
+  (a) whose duties are, overall, more closely connected with the functions of Invest New Zealand; and
+  (b) whose positions will, as a result of a transfer of a relevant function from NZTE to Invest New Zealand, cease to exist within NZTE.
+(2) An employee who is identified under subclause (1) must be offered equivalent employment by Invest New Zealand.
+(3) The employee of NZTE is not entitled to receive any payment or other benefit on the ground that the position held by the employee in NZTE has ceased to exist if—
+  (a) the position ceases to exist as a result of a transfer of a relevant function from NZTE to Invest New Zealand; and
+  (b) in connection with that transfer of a relevant function,—
+    (i) the employee is offered equivalent employment in Invest New Zealand (whether or not the employee accepts the offer); or
+    (ii) the employee is offered, and accepts, other employment in Invest New Zealand.
+(4) In this clause, equivalent employment, in relation to the employee’s employment in NZTE, means employment in Invest New Zealand that is—
+  (a) in substantially the same position; and
+  (b) in the same general locality; and
+  (c) on terms and conditions of employment that are no less favourable than those that applied to the employee immediately before the transfer of the function (including any service-related, redundancy, and superannuation conditions).
+(5) This clause overrides Part 6A of the Employment Relations Act 2000.
+
+### 4 Employment of transferred employee to be treated as continuous employment
+The employment of a transferred employee by Invest New Zealand is to be treated as continuous employment for the purposes of any legislation.
+
+## Schedule 2 — Amendments to other legislation
+
+| Invest New Zealand |
+| --- |
