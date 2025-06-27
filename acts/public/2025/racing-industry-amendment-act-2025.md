@@ -7,8 +7,8 @@ This Act is the Racing Industry Amendment Act 2025.
 ### 2 Commencement
 (1) Sections 17, 19, and 23 come into force on the earlier of the following:
   (a) a date appointed by the Governor-General by Order in Council; and
-  (b) the date that is 2 years after the date on which this Act receives the Royal assent.
-(2) The rest of this Act comes into force on the day after Royal assent.
+  (b) 27 June 2027.
+(2) The rest of this Act comes into force on 28 June 2025.
 (3) An Order in Council made under subsection (1)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Principal Act
