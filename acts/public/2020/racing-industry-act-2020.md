@@ -1,5 +1,5 @@
 # Racing Industry Act 2020
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2025-06-28_
 
 ### 1 Title
 This Act is the Racing Industry Act 2020.
@@ -691,7 +691,8 @@ Schedule 2 contains further provisions relating to adjudicative committees and a
   (d) broadcasting:
   (e) technology related to betting or gambling:
   (f) preventing and minimising harm associated with gambling:
-  (g) business, marketing, or economics.
+  (g) business, marketing, or economics:
+  (h) monitoring of legal compliance, contractual obligations, and financial performance.
 (6) The Minister must notify an appointment in the Gazette as soon as practicable after making the appointment.
 (7) A member holds office for a term not exceeding 3 years as specified in their notice of appointment and may be reappointed.
 (8) A member continues in office despite the expiry of their term until—
@@ -734,6 +735,14 @@ The objectives of TAB NZ are—
 (2) In carrying out its functions, TAB NZ must—
   (a) comply with the principles of natural justice; and
   (b) exhibit a sense of social responsibility by having regard to the interests of the communities in which it operates.
+
+### 58A Minister and chief executive may require information from TAB NZ
+(1) For the purpose of overseeing the performance of TAB NZ’s functions, the Minister may, at any time, by written notice require TAB NZ to provide the Minister with any relevant information (or class of information) specified in the notice.
+(2) A notice under subsection (1) must specify—
+  (a) the nature of the information to be provided; and
+  (b) a reasonable time within which the information must be provided.
+(3) For the purposes of this section, the chief executive may, by written notice, require TAB NZ to provide the Department with any relevant information specified by the chief executive to enable the Department to advise the Minister about TAB NZ’s performance of its functions.
+(4) TAB NZ must comply with a requirement under this section.
 
 ### 59 Accounts and audit
 (1) TAB NZ must, as soon as practicable after the end of a racing year,—
@@ -870,7 +879,11 @@ TAB NZ must, during or as soon as practicable after the end of a racing year, pa
 
 ### Subpart 1 — Betting
 
-### 74 TAB NZ may conduct betting
+### 74AAA Prohibition on offering betting to persons in New Zealand
+(1) No person other than TAB NZ may offer racing betting, sports betting, or other racing or sports betting (or any combination of those forms of betting) to a person in New Zealand.
+(2) Subsection (1) applies to a person (other than TAB NZ) regardless of where the person is resident or incorporated.
+
+### 74 Conduct of betting by TAB NZ
 TAB NZ may conduct, either by itself or by means of racing clubs or other agents appointed by TAB NZ for the purpose,—
   (a) racing betting in accordance with rules made under section 76; and
   (b) sports betting in accordance with rules made under section 78; and
@@ -900,6 +913,7 @@ TAB NZ may conduct, either by itself or by means of racing clubs or other agents
 (3) Rules made by TAB NZ under this section may provide that, if there is racing betting on a race, bets may be placed up to 20 seconds after the race starts.
 (4) TAB NZ must consult each racing code and the Racing Integrity Board before making, amending, or revoking rules under this section.
 (5) However, subsection (4) does not apply if TAB NZ and a racing code or the Racing Integrity Board (as the case may be) agree otherwise in any particular case.
+(5A) Rules made under this section apply subject to any regulations made under section 98A.
 (6) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 77 Application of revenue from racing betting
@@ -924,6 +938,7 @@ TAB NZ may conduct, either by itself or by means of racing clubs or other agents
   (c) must state the amounts described in section 84(2).
 (3) TAB NZ must consult Sport and Recreation New Zealand before making, amending, or revoking any rules under subsection (1).
 (4) However, subsection (3) does not apply if TAB NZ and Sport and Recreation New Zealand agree otherwise in any particular case.
+(4A) Rules made under this section apply subject to any regulations made under section 98A.
 (5) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 79 Agreements with New Zealand national sporting organisations
@@ -956,7 +971,7 @@ TAB NZ may conduct, either by itself or by means of racing clubs or other agents
 **Other racing or sports betting**
 
 ### 83 Rules relating to other racing or sports betting conducted by TAB NZ
-(1) TAB NZ may make rules not inconsistent with this Act for, or with respect to, the conduct and operation of other racing or sports betting it conducts.
+(1) TAB NZ may make rules not inconsistent with this Act or regulations made under this Act for, or with respect to, the conduct and operation of other racing or sports betting it conducts.
 (2) The rules must be approved by the Gambling Commission.
 (3)
 (4) Before making any rules under this section, TAB NZ must consult—
@@ -1025,9 +1040,32 @@ TAB NZ is authorised to amalgamate the amount available for an event or events f
 Betting contracts authorised by or under this Act are enforceable at law.
 
 ### 92 Bets may be refused
-TAB NZ or any racing club may refuse to accept all or any part of a bet without giving any reason for doing so.
+(1) TAB NZ or any racing club may refuse to accept all or any part of a bet without giving any reason for doing so.
+(2) This section applies subject to any regulations made under section 98A.
 
-### Subpart 2 — TAB venues
+### 92A Department to monitor compliance
+(1) The Department must monitor—
+  (a) compliance with the prohibition set out in section 74AAA; and
+  (b) compliance by TAB NZ with a requirement to provide information to the Minister or the Department under section 58A.
+(2) TAB NZ must pay the reasonable costs that the Department incurs in carrying out the monitoring functions referred to in subsection (1).
+(3) The chief executive of the Department and TAB NZ must enter into an agreement relating to the recovery of the reasonable costs that the Department incurs in carrying out the monitoring functions.
+
+### 92B Delegation
+(1) The chief executive of the Department may, in writing, delegate the Department’s monitoring functions under section 92A to—
+  (a) another department; or
+  (b) a Crown entity (as defined in section 7 of the Crown Entities Act 2004).
+(2) In deciding whether to delegate the Department’s monitoring functions, the chief executive must take into account—
+  (a) whether the other department or Crown entity has the knowledge of, or existing relationships with, offshore betting operators that is necessary to perform the functions or exercise the powers that the Department proposes to delegate; and
+  (b) any conflict of interest or potential conflict of interest the proposed delegation would create.
+(3) A delegation must not include the power to delegate under this section.
+(4) A department or Crown entity to whom any functions or powers have been delegated may perform or exercise them in the same manner and with the same effect as if they had been conferred on the department or Crown entity directly by this Act and not by delegation.
+(5) A department or Crown entity purporting to act under a delegation is, in the absence of evidence to the contrary, presumed to be acting in accordance with the terms of the delegation.
+(6) A delegation under this section—
+  (a) may be subject to any conditions that the chief executive thinks fit:
+  (b) is revocable at any time, by notice in writing:
+  (c) does not prevent the Department from performing the function or exercising the power.
+
+### Subpart 2 — TAB venues and operations
 
 ### 93 When territorial authority consent is required
 A territorial authority consent is required if TAB NZ proposes to establish a TAB venue.
@@ -1065,13 +1103,40 @@ A territorial authority consent is required if TAB NZ proposes to establish a TA
 
 ### 98 Regulations relating to harm prevention and minimisation
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
-  (a) prescribing requirements for the design, layout, and furnishing of a TAB venue:
-  (b) prescribing the information or messages that TAB NZ must provide to persons about racing betting and sports betting at the venue:
-  (c) prescribing codes requiring the advertising of racing betting, sports betting, racecourses, and TAB venues to be responsible:
-  (d) requiring TAB NZ to provide problem gambling awareness training for employees involved in supervising racing betting and sports betting at TAB venues:
-  (e) prescribing systems or processes ancillary to racing betting and sports betting, including the availability of automatic teller machines at a TAB venue:
-  (f) prescribing any other requirements relating to harm prevention or minimisation.
+  (a) restricting or prohibiting inducements to engage in betting:
+  (b) regulating the intensity of betting using any online betting system provided by TAB NZ, including (without limitation)—
+    (i) regulating the frequency at which successive bets may be placed:
+    (ii) prescribing requirements for setting spending limits on bets made with TAB NZ:
+    (iii) prescribing time restrictions on the availability of betting products generally or in relation to any specified class of persons:
+    (iv) prescribing processes or procedures in relation to any person who has identified themselves to TAB NZ or a TAB operator as being a problem gambler:
+  (c) prescribing the information or messages that TAB NZ must provide to people about betting:
+  (d) prescribing the use of pre-commitment, player tracking, or other harm-minimisation devices, technology, or systems in or associated with betting:
+  (e) prescribing requirements relating to customer verification by TAB NZ, including the information that is to be provided to or obtained by TAB NZ for the purposes of identifying and verifying persons seeking to place bets with TAB NZ:
+  (f) requiring TAB NZ to provide problem gambling awareness training for employees involved in supervising betting, including (without limitation) at TAB venues:
+  (g) prescribing codes requiring the advertising of betting, racecourses, and TAB venues to be responsible:
+  (h) prescribing requirements for the design, layout, and furnishing of TAB venues:
+  (i) prescribing systems or processes ancillary to betting, including (without limitation) the availability of automatic teller machines at TAB venues:
+  (j) restricting any specified means of payment for a bet with TAB NZ (for example, payment by credit or debit card):
+  (k) prescribing any other requirements relating to harm prevention or minimisation in respect of betting.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 98A Regulations relating to consumer protection
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+  (a) prescribing processes or procedures to ensure that persons participating in betting receive adequate consumer protection:
+  (b) specifying the circumstances in which TAB NZ or a TAB operator may limit or exclude a person from participating in betting, including (without limitation) the circumstances in which TAB NZ or a TAB operator may refuse to accept all or any part of a bet, for example, if the individual seeking to make the bet—
+    (i) has been identified as a problem gambler:
+    (ii) has previously been convicted of a specified offence:
+    (iii) has engaged in, or is engaging in, any behaviour that poses a threat to the safety of TAB NZ staff or is harassing, intimidating, or causing serious emotional distress to TAB NZ staff:
+  (c) requiring TAB NZ or a TAB operator to provide specified information to an individual whose bet has been refused:
+  (d) prescribing matters relating to the conduct and operation of betting by TAB NZ, including (without limitation)—
+    (i) specifying minimum bet limits:
+    (ii) specifying the maximum hold that TAB NZ may take from bets:
+    (iii) prescribing requirements relating to the odds that may be offered by TAB NZ:
+    (iv) prescribing requirements relating to the range of betting products, or services relating to betting, that may be offered by TAB NZ:
+    (v) imposing duties on, or prescribing requirements relating to, TAB NZ honouring or cancelling bets:
+  (e) prescribing information that TAB NZ must make publicly available to consumers:
+  (f) providing for, or setting out, a complaints and disputes resolution process in relation to bets made with TAB NZ.
+(2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 99 Regulations relating to admission to and exclusion from TAB venues
 (1) The Governor-General may, by Order in Council, make regulations controlling or prohibiting admission to TAB venues.
@@ -1079,13 +1144,17 @@ A territorial authority consent is required if TAB NZ proposes to establish a TA
 (3) A person who enters, or remains in, a TAB venue in breach of a regulation made under this section must be treated as having committed an offence under section 4 of the Trespass Act 1980 and is liable accordingly.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 100 Regulations relating to exclusion of problem gamblers from TAB venues and racecourses
+### 100 Regulations relating to exclusion of problem gamblers from betting
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
-  (a) prescribing 1 or more procedures to enable a TAB operator or a racing club to identify problem gamblers:
-  (b) prescribing procedures for prohibiting identified problem gamblers from entering a TAB venue or a racecourse:
-  (c) prescribing procedures for removing a person who a TAB operator or a racing club has reasonable grounds to believe is a problem gambler:
+  (a) prescribing procedures to enable TAB NZ, TAB operators, and racing clubs to identify problem gamblers:
+  (b) prescribing procedures for prohibiting identified problem gamblers from—
+    (i) entering TAB venues or racecourses:
+    (ii) accessing any betting products or services provided by TAB NZ:
+  (c) prescribing procedures for removing a person who a TAB operator or a racing club has reasonable grounds to believe is a problem gambler from a TAB venue or a racecourse:
   (d) ensuring that access to TAB venues and racecourses by identified problem gamblers is restricted:
-  (e) prescribing 1 or more procedures that must be completed by a problem gambler as a condition of re-entry to a TAB venue or a racecourse.
+  (e) prescribing procedures that must be completed by an identified problem gambler as a condition of—
+    (i) re-entry to a TAB venue or a racecourse:
+    (ii) resuming access to any betting products or services provided by TAB NZ.
 (2) Regulations made under subsection (1) must—
   (a) specify the grounds on which a person may be identified as a problem gambler:
   (b) set out the steps to be taken to identify a person as a problem gambler:
@@ -1584,6 +1653,13 @@ TAB NZ must perform the duties of the Agency under sections 13 and 21 of the for
 
 ### 28 Application of revenue from sports betting
 Section 57(1)﻿(d) of the former Act, as it read immediately before commencement of this clause, continues to apply until the date on which regulations made under section 128(1)﻿(c) come into force.
+
+### Part 2 — Provision relating to Racing Industry Amendment Act 2025
+
+### 29 Chief executive may require offshore betting operator to provide relevant information for purpose of assessing financial viability of collecting consumption charges
+(1) This clause applies to an offshore betting operator who is liable to pay consumption charges to the designated authority under section 113 (as in force before the repeal of that section by the Racing Industry Amendment Act 2025).
+(2) On and after commencement of this clause, the chief executive may, by written notice, require the offshore betting operator to provide the Department with any relevant information the chief executive specifies for the purpose of assessing the financial viability of continuing to collect consumption charges from all offshore betting operators.
+(3) The offshore betting operator must comply with a requirement under subclause (2).
 
 ## Schedule 2 — Provisions relating to adjudicative committees and appeals tribunals
 
