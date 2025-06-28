@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2024-11-01_
+_Consolidation as at 2025-06-28_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -304,7 +304,7 @@ The purpose of this Act is to—
     (b) does not include—
       (i) gambling conducted by the Lotteries Commission; or
       (ii) gambling authorised under the Racing Industry Act 2020; or
-      (iii) gambling by a person in New Zealand conducted by a gambling operator located outside New Zealand; or
+      (iii) subject to section 74AAA of the Racing Industry Act 2020, gambling by a person in New Zealand conducted by a gambling operator located outside New Zealand; or
       (iv) a sales promotion scheme that is in the form of a lottery and is conducted in New Zealand; or
       (v) class 3 gambling in the form of a lottery conducted by any gambling operator that holds a class 3 operator’s licence that allows the gambling operator to conduct a lottery
   - **responsible gambling** means lawful participation in gambling—
@@ -495,6 +495,7 @@ A sales promotion scheme is authorised by this Act.
 (3) Every person who commits an offence against subsection (1)﻿(c) to (j) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 1 year or to a fine not exceeding $20,000:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
+(4) An individual may not be convicted of an offence under subsection (1)﻿(a) for placing a bet with an offshore betting operator (as defined in section 105 of the Racing Industry Act 2020) in contravention of section 74AAA of the Racing Industry Act 2020.
 
 ### Subpart 2 — Classes of gambling
 
