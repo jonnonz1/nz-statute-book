@@ -1,5 +1,5 @@
 # Heavy Engineering Research Levy Act 1978
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2025-06-29_
 
 > An Act to authorise the levying of persons engaged in heavy engineering manufacture and related industries to provide funds for research into heavy engineering
 
@@ -427,6 +427,13 @@ The provisions of sections 14 to 16 shall apply to the Association notwithstandi
 |  |  | 79J | . | . | . | . | . | . | Of wall thickness not exceeding 2.6 mm |  |  |
 |  |  | 80B | . | . | . | . | . | . | Other |  |  |
 |  |  | 81L | . | . | . | . | Other |  |  |  |  |
+| 73.08 |  |  | Structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridge-sections, lock-gates, towers, lattice masts, roofs, roofing frame-works, doors and windows and their frames and thresholds for doors, shutters, balustrades, pillars and columns), of iron or steel; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures, of iron or steel: |  |  |  |  |  |  |  |  |
+| 7308.10.00 |  | 00H | – | Bridges and bridge-sections |  |  |  |  |  |  |  |
+|  |  |  | – | Other |  |  |  |  |  |  |  |
+| 7308.90.90 |  |  | – | – | Other |  |  |  |  |  |  |
+|  |  | 10C | . | . | . | Channels, joists, girders, beams and columns |  |  |  |  |  |
+|  |  | 15D | . | . | . | Tubes and the like, prepared for use in structures |  |  |  |  |  |
+|  |  | 29D | . | . | . | Other |  |  |  |  |  |
 
 ## Schedule 3 — Levied items in respect of which rate of levy not to exceed 10 cents for each kilogram
 
