@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2025-06-17_
+_Consolidation as at 2025-06-29_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -25,6 +25,7 @@ The purposes of this Act are—
   - **bodily sample** , for a person, means—
     (a) a sample of the person’s blood, breath, hair, or urine; or
     (b) any other sample of a similar kind from the person
+  - **** and have the meanings given to them in section 6 of the Criminal Procedure Act 2011
   - **commencement date** means the date specified in section 2
   - **community-based sentence** has the meaning given to it in section 44
   - **community work centre** means a community work centre established under section 30 of the Corrections Act 2004
@@ -37,6 +38,7 @@ The purposes of this Act are—
   - **detention conditions** means the standard conditions of a sentence of home detention set out in section 80C and any special conditions imposed by the court on an offender under section 80D
   - **detention end date** means the date on which an offender who is subject to a sentence of home detention ceases to be subject to detention conditions
   - **determinate sentence of imprisonment** means a sentence of imprisonment for a fixed term
+  - **digital communication** has the meaning given in section 4 of the Harmful Digital Communications Act 2015
   - **District Court** includes the Youth Court
   - **drug or alcohol condition** means a condition of a sentence of supervision, intensive supervision, or home detention, or a post-detention or post-imprisonment condition,—
     (a) that is imposed under section 52(2)﻿(bb), 54I(3)﻿(ba), 80D(4)﻿(ca), 80N(1) and (2)﻿(b), or 93(1) or (2)﻿(b); and
@@ -50,6 +52,7 @@ The purposes of this Act are—
     (c) alcohol consumed by the person
   - **epidemic management notice** means a notice under section 8(1) of the Epidemic Preparedness Act 2006 stating that the application of this Act is modified in order to deal with the practical effects of the outbreak of the disease referred to in the notice
   - **forfeiture order** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
+  - **guilty plea mitigating factor** , in relation to an offender, means the mitigating factor in section 9(2)﻿(b)
   - **health assessor** means a health practitioner who—
     (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine, and who is a practising psychiatrist; or
     (b) is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)﻿(a) of the Health Practitioners Act 2003 as a practitioner of the profession of psychology
@@ -74,6 +77,7 @@ The purposes of this Act are—
     (a) means property used (wholly or in part) to commit, or to facilitate the commission of, a qualifying instrument forfeiture offence; and
     (b) in relation to a qualifying instrument forfeiture offence that is an offence against section 8(1), (1A), (2A), or (2B) of the Terrorism Suppression Act 2002, includes funds (as defined in section 4(1) of that Act) allocated for the purposes of committing that offence; and
     (c) in relation to any property referred to in paragraphs (a) and (b), the proceeds of any disposition of that property or any other property into which that property is converted, after the commission of the qualifying instrument forfeiture offence, except to the extent provided otherwise by any order of a court under this Act or the Criminal Proceeds (Recovery) Act 2009, excluding any severable interest or granting relief
+  - **livestream** has the meaning given in section 119A of the Films, Videos, and Publications Classification Act 1993
   - **medical laboratory technologist** means a health practitioner who is, or is deemed to be, registered with the Medical Sciences Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science
   - **medical officer** means—
     (a) a person acting in a hospital who, in the normal course of the person's duties, takes blood specimens; or
@@ -81,10 +85,23 @@ The purposes of this Act are—
     (c) a medical laboratory technologist
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **minimum period of imprisonment** means the period of imprisonment that the court has, under section 86, 86P(2), 86S(2), 89, or 103, ordered that an offender must serve before he or she can be released under subpart 2 of Part 1 of the Parole Act 2002
+  - **mitigating factor** means a mitigating factor in relation to the offence, a personal mitigating factor in relation to the offender, or any other mitigating factor,—
+    (a) in section 9(2); or
+    (b) under section 9(4)﻿(a)
   - **non-release day** means a Saturday, a Sunday, Christmas Day, Boxing Day, New Year's Day, the second day of January, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, Labour Day, and, in respect of a particular place where an offender is serving a sentence of community detention or home detention, the anniversary day of the region in which that place is situated
   - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **offender** includes a person who is dealt with or is liable to be dealt with for non-payment of a sum of money, disobedience of a court order, or contempt of court
   - **permanent court record** has the same meaning as in section 5 of the Criminal Procedure Act 2011
+  - **personal mitigating factor** , in relation to an offender, means—
+    (a) a mitigating factor in section 9(2) that is any of the following:
+      (i) the age of the offender (section 9(2)﻿(a)):
+      (ii) whether and when the offender pleaded guilty (section 9(2)﻿(b)):
+      (iii) that the offender has, or had at the time the offence was committed, diminished intellectual capacity or understanding (section 9(2)﻿(e)):
+      (iv) any remorse shown by the offender, except to the extent that it relates to anything described in section 10 (section 9(2)﻿(f)):
+      (v) that the offender has taken steps during the proceedings (other than steps to comply with procedural requirements) to shorten the proceedings or reduce their cost (section 9(2)﻿(fa)):
+      (vi) any evidence of the offender’s previous good character (section 9(2)﻿(g)); or
+    (b) a mitigating factor under section 9(4)﻿(a) that the court considers is personal to the offender
+  - **post** , in relation to a record of offending, means to upload, transfer, send, publish, share, or otherwise disseminate that record
   - **post-detention conditions** means any standard post-detention conditions and special post-detention conditions imposed under section 80N on an offender sentenced to home detention
   - **post-imprisonment condition** means a special condition that is imposed under section 93(1) or (2)﻿(b) on an offender sentenced to a short term of imprisonment
   - **prison** means a prison established or deemed to be established under the Corrections Act 2004
@@ -95,6 +112,9 @@ The purposes of this Act are—
   - **qualifying instrument forfeiture offence** —
     (a) means an offence punishable by a maximum term of imprisonment of 5 years or more; and
     (b) includes an attempt to commit, conspiring to commit, or being an accessory to an offence if the maximum term of imprisonment for that attempt, conspiracy, or activity is 5 years or more
+  - **remorse mitigating factor** , in relation to an offender,—
+    (a) means the mitigating factor in section 9(2)﻿(f); but
+    (b) excludes anything described in section 10
   - **sentence of imprisonment** —
     (a) includes a determinate sentence of imprisonment and an indeterminate sentence of imprisonment; but
     (b) does not include a term of imprisonment imposed, whether by committal, sentence, or order, for—
@@ -116,7 +136,8 @@ The purposes of this Act are—
       (iv) a member of the immediate family of a person who, as a result of an offence committed by another person, dies or is incapable, unless that member is charged with the commission of, or convicted or found guilty of, or pleads guilty to, the offence concerned; and
     (b) despite paragraph (a), if an offence is committed by a person, does not include another person charged (whether as a principal or party or accessory after the fact or otherwise) with the commission of, or convicted or found guilty of, or who pleads guilty to,—
       (i) that offence; or
-      (ii) an offence relating to the same incident or series of incidents as that offence.
+      (ii) an offence relating to the same incident or series of incidents as that offence
+  - **youth mitigating factor** , in relation to an offender, means the mitigating factor in section 9(2)﻿(a) to the extent that it relates to the offender’s youth.
 (2) For the purposes of this Act,—
   (a) an offender is subject to a sentence of imprisonment until the sentence expires (in accordance with sections 82 and 83 of the Parole Act 2002):
   (ab) an offender is subject to a sentence of home detention from the date the sentence commences in accordance with section 80W, 80X, or 80Y until the sentence ends in accordance with section 80Z, except when the sentence is suspended under section 80ZG(2):
@@ -162,7 +183,9 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   (c) must impose the maximum penalty prescribed for the offence if the offending is within the most serious of cases for which that penalty is prescribed, unless circumstances relating to the offender make that inappropriate; and
   (d) must impose a penalty near to the maximum prescribed for the offence if the offending is near to the most serious of cases for which that penalty is prescribed, unless circumstances relating to the offender make that inappropriate; and
   (e) must take into account the general desirability of consistency with appropriate sentencing levels and other means of dealing with offenders in respect of similar offenders committing similar offences in similar circumstances; and
-  (f) must take into account any information provided to the court concerning the effect of the offending on the victim; and
+  (f) must take into account any information provided to the court—ExampleInformation to which paragraph (f) appliesInformation in a victim impact statement (see sections 17AA, 17AB, and 21 of the Victims’ Rights Act 2002) whose purpose is to—enable the victim to provide information to the court about the effects of the offending on the victim; andassist the court in understanding the victim’s views about the offending; andinform the offender about the impact of the offending from the victim’s perspective.
+    (i) to help to recognise the victim’s needs in the court’s sentencing or otherwise dealing with the offender according to law; and
+    (ii) concerning the interests of the victim (for example, about the effects of the offending on the victim); and
   (g) must impose the least restrictive outcome that is appropriate in the circumstances, in accordance with the hierarchy of sentences and orders set out in section 10A; and
   (h) must take into account any particular circumstances of the offender that mean that a sentence or other means of dealing with the offender that would otherwise be appropriate would, in the particular instance, be disproportionately severe; and
   (i) must take into account the offender's personal, family, whanau, community, and cultural background in imposing a sentence or other means of dealing with the offender with a partly or wholly rehabilitative purpose; and
@@ -173,7 +196,26 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **stage-2 offence** has the same meaning as in section 86J
   - **stage-3 offence** has the same meaning as in section 86J.
 
+**Aggravating and mitigating factors: overview**
+
+### 8A Overview of aggravating and mitigating factors
+Aggravating and mitigating factors in cases of any kind
+(1) Section 9 is about aggravating and mitigating factors that the court must or may take into account in sentencing or otherwise dealing with an offender.
+Aggravating and mitigating factors in some cases involving violence or neglect
+(2) Section 9A is about aggravating and mitigating factors that the court must or may take into account in sentencing or otherwise dealing with an offender in a case involving violence against, or neglect of,—
+  (a) a child under the age of 14 years; or
+  (b) a young person of or over the age of 14 years but under 18 years.
+Sentence reductions under personal mitigating factors in cases of any kind
+(3) Sections 9B to 9T are about the following sentence reductions:
+  (a) sentence of any type reduced under youth mitigating factor (sections 9B to 9F):
+  (b) specified sentence reduced under guilty plea mitigating factor (sections 9G to 9K):
+  (c) sentence of any type reduced under remorse mitigating factor (sections 9L to 9P):
+  (d) sentence of imprisonment reduced under all applicable personal mitigating factors (sections 9Q to 9S).
+
+**Aggravating and mitigating factors in cases of any kind**
+
 ### 9 Aggravating and mitigating factors
+Aggravating factors
 (1) In sentencing or otherwise dealing with an offender the court must take into account the following aggravating factors to the extent that they are applicable in the case:
   (a) that the offence involved actual or threatened violence or the actual or threatened use of a weapon:
   (b) that the offence involved unlawful entry into, or unlawful presence in, a dwelling place:
@@ -181,12 +223,23 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   (ca) that the offence was a family violence offence (as defined in section 123A) committed—
     (i) while the offender was subject to a protection order (as defined in section 8 of the Family Violence Act 2018, or that was made under section 123B of this Act); and
     (ii) against a person who, in relation to the protection order, was a protected person (as so defined):
+  (cb) that the offender was aged 18 years or over when they actually committed, or were a party to (within the meaning of section 66(1)﻿(b), (c), or (d) or (2) of the Crimes Act 1961), the offence, and—
+    (i) 1 or more other people also actually committed, or also were a party to (within that meaning), the offence; and
+    (ii) they then were each, or included, a child or a young person (as both those terms are defined in section 2(1) of the Oranga Tamariki Act 1989):
+  (cc) that the offender did 1 or more of the following in relation to the offending for which they are being sentenced, with no justification in the public interest, and that glorified the offending:
+    (i) they livestreamed all or part of the offending on an internet site or an online application or similar:
+    (ii) they posted all or part of a record of the offending on an internet site or an online application or similar:
+    (iii) they distributed all or part of a record of the offending to others by means of a digital communication:
   (d) the extent of any loss, damage, or harm resulting from the offence:
   (e) particular cruelty in the commission of the offence:
   (f) that the offender was abusing a position of trust or authority in relation to the victim:
   (fa) that the victim was a constable, or a prison officer, acting in the course of his or her duty:
   (fb) that the victim was an emergency health or fire services provider acting in the course of his or her duty at the scene of an emergency:
-  (g) that the victim was particularly vulnerable because of his or her age or health or because of any other factor known to the offender:
+  (fc) that the victim was a public transport passenger service worker acting in the course of his or her duty:
+  (fd) that either or both of the following apply to the victim:
+    (i) the victim was working alone:
+    (ii) the victim was working in a business that was physically joined to, or that was located next to, the dwelling place of a victim:
+  (g) that the victim was particularly vulnerable because of his or her age or health or because of any other factor known to the offender:ExampleAny other factor known to offenderThat the victim was—in State care (as defined in clause 17.3 of the Schedule of the Royal Commission of Inquiry into Historical Abuse in State Care and in the Care of Faith-based Institutions Order 2018); orin the care of faith-based institutions (as defined in clause 17.4 of that schedule).
   (h) that the offender committed the offence partly or wholly because of hostility towards a group of persons who have an enduring common characteristic such as race, colour, nationality, religion, gender identity, sexual orientation, age, or disability; and
     (i) the hostility is because of the common characteristic; and
     (ii) the offender believed that the victim has that characteristic:
@@ -199,13 +252,14 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   (k) any failure by the offender personally (or failure by the offender's lawyer arising out of the offender's instructions to, or failure or refusal to co-operate with, his or her lawyer) to comply with a procedural requirement that, in the court's opinion, has done either or both of the following:
     (i) caused a delay in the disposition of the proceedings:
     (ii) had an adverse effect on a victim or witness.
+Mitigating factors
 (2) In sentencing or otherwise dealing with an offender the court must take into account the following mitigating factors to the extent that they are applicable in the case:
   (a) the age of the offender:
   (b) whether and when the offender pleaded guilty:
   (c) the conduct of the victim:
   (d) that there was a limited involvement in the offence on the offender's part:
   (e) that the offender has, or had at the time the offence was committed, diminished intellectual capacity or understanding:
-  (f) any remorse shown by the offender, or anything as described in section 10:
+  (f) any remorse shown by the offender, or anything described in section 10:
   (fa) that the offender has taken steps during the proceedings (other than steps to comply with procedural requirements) to shorten the proceedings or reduce their cost:
   (fb) any adverse effects on the offender of a delay in the disposition of the proceedings caused by a failure by the prosecutor to comply with a procedural requirement:
   (g) any evidence of the offender's previous good character:
@@ -216,21 +270,24 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   (b) the relative restrictiveness of the EM condition, particularly the frequency and duration of the offender's authorised absences from the electronic monitoring address; and
   (c) the offender's compliance with the bail conditions during the period of bail with an EM condition; and
   (d) any other relevant matter.
+Taking into account other aggravating or mitigating factor
 (4) Nothing in subsection (1) or subsection (2)—
   (a) prevents the court from taking into account any other aggravating or mitigating factor that the court thinks fit; or
   (b) implies that a factor referred to in those subsections must be given greater weight than any other factor that the court might take into account.
+Definitions of terms used in this section
 (4A) In subsection (1)﻿(fb), emergency health or fire services provider means a person who has a legal duty (under any enactment, employment contract, other binding agreement or arrangement, or other source) to, at the scene of an emergency, provide services that are either or both—
   (a) ambulance services, first aid, or medical or paramedical care:
   (b) services provided by or on behalf of Fire and Emergency New Zealand to save life, prevent serious injury, or avoid damage to property.
+(4B) In subsection (1)﻿(fc), public transport passenger service worker means a driver, pilot, or crew member in, or a worker who otherwise assists in any way, a service for the carriage of passengers for hire or reward by means of any mode of (air, land, sea or other water, or other) transport available to the public generally.
 (5) In this section, procedural requirement means a requirement imposed by or under—
   (a) the Criminal Procedure Act 2011; or
   (b) any rules of court or regulations made under that Act; or
   (c) the Criminal Disclosure Act 2008 or any regulations made under that Act.
 
-**Additional aggravating factors in cases involving violence against, or neglect of, child under 14 years**
+**Additional aggravating factors in cases involving violence against, or neglect of, child under 14 years, or young person of or over age of 14 years but under 18 years**
 
-### 9A Cases involving violence against, or neglect of, child under 14 years
-(1) This section applies if the court is sentencing or otherwise dealing with an offender in a case involving violence against, or neglect of, a child under the age of 14 years.
+### 9A Cases involving violence against, or neglect of, child under 14 years, or young person of or over age of 14 years but under 18 years
+(1) This section applies if the court is sentencing or otherwise dealing with an offender in a case involving violence against, or neglect of, a child under the age of 14 years, or a young person of or over the age of 14 years but under 18 years.
 (2) The court must take into account the following aggravating factors to the extent that they are applicable in the case:
   (a) the defencelessness of the victim:
   (b) in relation to any harm resulting from the offence, any serious or long-term physical or psychological effect on the victim:
@@ -239,6 +296,121 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   (e) deliberate concealment of the offending from authorities.
 (3) The factors in subsection (2) are in addition to any factors the court might take into account under section 9.
 (4) Nothing in this section implies that a factor referred to in subsection (2) must be given greater weight than any other factor that the court might take into account.
+
+**Sentence of any type reduced under youth mitigating factor**
+
+### 9B General rule: no reduction to sentence
+(1) This section applies if—
+  (a) offending of any kind is committed, in whole, after the commencement of this section, by an offender of or over the age of 18 years; and
+  (b) the court in a sentencing for the offending—
+    (i) imposed a sentence of any type on the offender; and
+    (ii) reduced that sentence under the youth mitigating factor; and
+  (c) further offending of any kind (whether of a kind that is the same as, or different from, the offending) is committed, in whole, after the sentencing for the offending, by the offender.
+(2) In imposing a sentence of any type on the offender for the further offending, the court must not reduce that sentence under the youth mitigating factor.
+(3) This section is subject to sections 9C and 9T.
+
+### 9C Exception: duty to avoid sentence being manifestly unjust
+If the application of the general rule in section 9B would result in a sentence that is manifestly unjust, the court must reduce the sentence under the youth mitigating factor to the extent needed to avoid the sentence being manifestly unjust.
+
+### 9D Duty to record sentence reduction
+If a sentence of any type for offending of any kind is reduced under the youth mitigating factor, the court must make an entry in the permanent court record, in relation to the offending, to the effect that the offender has had a sentence reduction under the youth mitigating factor.
+
+### 9E Duty to inform offender of effect of general rule
+If a sentence of any type for offending of any kind is reduced under the youth mitigating factor, the court must inform the offender of the effect of the general rule in section 9B.
+
+### 9F Effect of failure to record or inform
+(1) A failure by the court to perform either or both of the duties in sections 9D and 9E does not affect the validity of, and is not in itself grounds for an appeal against,—
+  (a) the sentence for the offending; or
+  (b) a sentence imposed on the offender later for any other offending.
+(2) A failure by the court to perform either or both of the duties in sections 9D and 9E does not limit the court’s duty to comply with section 9B.
+
+**Specified sentence reduced under guilty plea mitigating factor**
+
+### 9G Specified sentence
+Sections 9H to 9K apply only to a sentence (in those sections called the sentence) that is—
+  (a) a sentence of imprisonment for offending of any kind; or
+  (b) a sentence of any other type for offending of any kind, and to which the court considers it appropriate to apply those sections.
+
+### 9H General rule: sliding scale of maximum reductions
+(1) A reduction to the sentence under the guilty plea mitigating factor must not exceed the applicable maximum percentage set out in the following table:The following table is small in size and has 3 columns. Column 1 is headed Item. Column 2 is headed When defendant enters plea of guilty or communicates willingness to plead guilty. Column 3 is headed Maximum reduction.ItemWhen defendant enters plea of guilty or communicates willingness to plead guiltyMaximum reduction1At the first reasonable opportunity 25%2At the case review hearing (see sections 54 to 59 of the Criminal Procedure Act 2011)20%3At or before the first trial callover (if proceedings have been adjourned for a trial callover under that Act)15%420 or more working days (as defined in section 5 of that Act) before the scheduled start date for the trial10%5Less than 20 working days (as so defined) before the scheduled start date for the trial, or during the trial5%
+(2) This section is subject to sections 9I and 9T.
+
+### 9I Exception: departing from scale up to 25% of sentence
+The court may, if it considers it appropriate, make a reduction to the sentence under the guilty plea mitigating factor that—
+  (a) exceeds the applicable maximum percentage in item 2, 3, 4, or 5 of the table in section 9H; but
+  (b) does not exceed 25%.
+
+### 9J Duty to state certain matters
+If the court makes a reduction to the sentence under the guilty plea mitigating factor, the court must state (using any words that it thinks fit)—
+  (a) how it has applied the sliding scale in section 9H; and
+  (b) reasons for, and the extent of, a departure under section 9I.
+
+### 9K Matters that court may consider if applicable
+In making a reduction to the sentence under the guilty plea mitigating factor, the court may consider the following matters to the extent that they are applicable in the case:
+  (a) whether and when the defendant received information—
+    (i) as part of criminal disclosure; and
+    (ii) that helped enable the defendant to plead fully and fairly:
+  (b) how much the plea prevented, for victims and witnesses, any further trauma, further stress, and further inconvenience:
+  (c) how much the plea saved public resources (for example, of the court, legal aid, and the prosecution):
+  (d) any matter outside the defendant’s control that prevented the defendant from earlier entering a guilty plea or communicating a willingness to plead guilty:
+  (e) whether and when the defendant received independent legal advice:
+  (f) whether and when the defendant pleaded guilty to materially amended charges:
+  (g) whether the defendant disputed the facts of the case, and the outcome of that dispute:
+  (h) any other matter that the court thinks fit to consider in making a sentence reduction under the guilty plea mitigating factor.
+
+**Sentence of any type reduced under remorse mitigating factor**
+
+### 9L General rule: no reduction to sentence
+(1) This section applies if—
+  (a) offending of any kind is committed, in whole, after the commencement of this section, by an offender; and
+  (b) the court in a sentencing for the offending—
+    (i) imposed a sentence of any type on the offender; and
+    (ii) reduced that sentence under the remorse mitigating factor; and
+  (c) further offending of any kind (whether of a kind that is the same as, or different from, the offending) is committed, in whole, after the sentencing for the offending, by the offender.
+(2) In imposing a sentence of any type on the offender for the further offending, the court must not reduce that sentence under the remorse mitigating factor.
+(3) This section is subject to sections 9M and 9T.
+
+### 9M Exception: duty to avoid sentence being manifestly unjust
+If the application of the general rule in section 9L would result in a sentence that is manifestly unjust, the court must reduce the sentence under the remorse mitigating factor to the extent needed to avoid the sentence being manifestly unjust.
+
+### 9N Duty to record sentence reduction
+If a sentence of any type for offending of any kind is reduced under the remorse mitigating factor, the court must make an entry in the permanent court record, in relation to the offending, to the effect that the offender has had a sentence reduction under the remorse mitigating factor.
+
+### 9O Duty to inform offender of effect of general rule
+If a sentence of any type for offending of any kind is reduced under the remorse mitigating factor, the court must inform the offender of the effect of the general rule in section 9L.
+
+### 9P Effect of failure to record or inform
+(1) A failure by the court to perform either or both of the duties in sections 9N and 9O does not affect the validity of, and is not in itself grounds for an appeal against,—
+  (a) the sentence for the offending; or
+  (b) a sentence imposed on the offender later for any other offending.
+(2) A failure by the court to perform either or both of the duties in sections 9N and 9O does not limit the court’s duty to comply with section 9L.
+
+**Sentence of imprisonment reduced under all applicable personal mitigating factors: 40% cap**
+
+### 9Q General rule: total reductions must not exceed 40% of sentence
+(1) If a sentence of imprisonment for offending of any kind is reduced under 1 or more personal mitigating factors, total reductions under all those personal mitigating factors must not exceed 40% of the sentence.
+(2) This section is subject to sections 9R and 9T.
+(3) This section does not apply to the mitigating factor that the offender assisted the authorities to maintain the law in respect of an offence.ExampleAssisting authorities to maintain law in respect of offenceThe offender assisted the authorities in relation to the prevention, detection, investigation, prosecution, or punishment of an offence.
+(4) However, for the purposes of the 40% cap in this section, total reductions to the sentence under 1 or more personal mitigating factors—
+  (a) include a youth mitigating factor reduction to it only if one is available under sections 9B to 9F:
+  (b) include a guilty plea mitigating factor reduction to it only to the extent that one is available under sections 9G to 9K:
+  (c) include a remorse mitigating factor reduction to it only if one is available under sections 9L to 9P.
+
+### 9R Exception: duty to avoid sentence being manifestly unjust
+If the application of the general rule in section 9Q would result in a sentence that is manifestly unjust, the court must make total reductions to the sentence under all personal mitigating factors that exceed 40% of the sentence to the extent needed to avoid the sentence being manifestly unjust.
+
+### 9S Duty to state, with reasons, total reductions court would have made
+If, but for the application of the general rule in section 9Q, the court would have made total reductions under all personal mitigating factors that exceed 40% of the sentence, the court must state, with reasons, the reductions that it would have made.
+
+**Sentence reductions: general exceptions**
+
+### 9T Discharge, etc, or minimum, or mandatory, sentence or order
+Section 9B, 9H, 9L, or 9Q does not apply—
+  (a) if the court considers that the offending would be more appropriately dealt with by—
+    (i) discharging the offender without conviction under section 106; or
+    (ii) convicting and discharging the offender under section 108; or
+    (iii) convicting the offender and ordering the offender, under section 110, to come up for sentence if called on; or
+  (b) to the extent that applying that section would be inconsistent with legislation that requires any minimum, or mandatory, sentence to be imposed, or order to be made, for the offending.
 
 **Taking into account offer or agreement to make amends**
 
@@ -353,14 +525,29 @@ If a court is lawfully entitled under this or any other enactment to impose a fi
 ### 17 Imprisonment may be imposed if offender unlikely to comply with other sentences
 Nothing in this Part limits the discretion of a court to impose a sentence of imprisonment on an offender if the court is satisfied on reasonable grounds that the offender is unlikely to comply with any other sentence that it could lawfully impose and that would otherwise be appropriate.
 
-### 18 Limitation on imprisonment of person under 18 years
-(1) No court may impose a sentence of imprisonment on an offender in respect of a particular offence, other than a category 4 offence, or a category 3 offence for which the maximum penalty available is or includes imprisonment for life or for at least 14 years, if, at the time of the commission of the offence, the offender was under the age of 18 years.
-(2)
+### 18 Limit on imprisonment of person under 18 years
+Offender under age of 18 years when they committed particular offence
+(1) The general rule in subsection (2) applies to an offender who, at the time of the commission of an offence, was under the age of 18 years.
+General rule: no sentence of imprisonment in respect of offence
+(2) No court may impose a sentence of imprisonment on the offender in respect of the offence.
+Exception: particular offence is specified serious offence
+(3) However, that general rule does not apply if the offence is—
+  (a) a category 3 offence for which the maximum penalty available is or includes imprisonment for life or for at least 14 years; or
+  (b) a category 4 offence.
+Exception: offender is already serving sentence of imprisonment
+(4) However, that general rule does not apply if the offender is already serving a sentence of imprisonment for any other offence that they committed, in whole or in part, before, with, or after the offence mentioned in subsection (1).
 
 **Permitted combinations of sentences**
 
 ### 19 Permitted combinations of sentences
-(1) No court may impose a combination of sentences of different types on an offender in respect of 1 or more offences except as provided in this section.
+Application
+(1) This section applies only if the court is considering imposing a combination of sentences of different types, and imposing the combination—
+  (a) for 1 or more offences; and
+  (b) on an offender who is not serving a sentence of imprisonment; and
+  (c) on a single occasion.
+Combination may be imposed only if permitted by this section
+(1A) The combination may be imposed only if it is permitted by this section.
+Permitted combinations of sentences
 (2) A sentence of reparation may be imposed with any sentence.
 (3) A sentence of a fine may be imposed with any sentence, but may only be imposed with a sentence of imprisonment in respect of a particular offence if authorised by the enactment specifying the offence.
 (4) A sentence of supervision may be combined with any sentence except intensive supervision, home detention, or imprisonment.
@@ -552,7 +739,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
   (b) for the making of an order under Part 2.
 (2) The reasons may be given under this section with whatever level of particularity is appropriate to the particular case.
 (3) Nothing in this section limits any other provision of this or any other enactment that requires a court to give reasons.
-(4) The fact that a court, in giving reasons in a particular case, does not mention a particular principle in section 8 or a particular factor in section 9 or a consideration under section 10 or section 11 is not in itself grounds for an appeal against a sentence imposed or an order made in that case.
+(4) The fact that a court, in giving reasons in a particular case, does not mention a particular principle in section 8 or a particular factor in section 9 or 9A or a consideration under section 10 or section 11 is not in itself grounds for an appeal against a sentence imposed or an order made in that case.
 
 ## Part 2 — Sentences, orders, and related matters
 
@@ -1609,6 +1796,40 @@ When an offender performs any service or does any work or attends any course or 
 (4) If the court cancels the sentence, the sentence expires on the date that the order is made or on any other date that the court may specify.
 (5) If an application is made under section 80F for the remission, suspension, or variation of any special condition of a sentence of home detention, a probation officer may suspend the condition until the application has been heard and disposed of.
 
+### 80GA Arrest without warrant if home detention residence no longer available or suitable
+Power to arrest without warrant
+(1) Any constable or probation officer may arrest, without warrant, an offender if the constable or officer believes on reasonable grounds that—
+  (a) the offender’s home detention residence is no longer available or suitable because of a change in circumstances; and
+  (b) a suitable alternative residence has not been decided under section 80FA(1); and
+  (c) a suitable provisional home detention residence has not been approved under section 80FA(2) or (3)﻿(a); and
+  (d) subsection (2), (3), or (4) applies to the offender.
+Offenders to whom section applies
+(2) This subsection applies to the offender if—
+  (a) an application for an order under section 80F(4) has been made in respect of the offender; and
+  (b) it is not practicable to obtain promptly a warrant to arrest the offender under section 72(2B) (see section 80F(6)) or 80F(4A); and
+  (c) a risk to any person’s safety exists because of the offender remaining at, leaving, or returning to the offender’s home detention residence that is no longer available or suitable because of a change in circumstances.
+(3) This subsection applies to the offender if—
+  (a) an application for an order under section 80F(4) has not been made in respect of the offender; and
+  (b) it is not practicable for a probation officer to make promptly an application of that kind; and
+  (c) a risk to any person’s safety exists because of the offender remaining at, leaving, or returning to the offender’s home detention residence that is no longer available or suitable because of a change in circumstances.
+(4) This subsection applies to the offender if—
+  (a) neither subsection (2) nor subsection (3) applies to the offender; and
+  (b) a risk to any person’s safety exists because of the offender remaining at, leaving, or returning to the offender’s home detention residence that is no longer available or suitable because of a change in circumstances.
+Offender to be brought before court, which may bail or remand in custody
+(5) An offender arrested under this section must be brought as soon as possible before the court, which may under section 80F(4A)﻿(b) (if it applies) or this subsection (if section 80F(4A)﻿(b) does not apply) bail the offender, or remand them in custody, until whichever of the following occurs first:
+  (a) an application for an order under section 80F(4) in respect of the offender has been made and determined:
+  (b) a suitable alternative residence is decided under section 80FA(1):
+  (c) a suitable provisional home detention residence is approved under section 80FA(2) or (3)﻿(a).
+Offender may be released as soon as possible if suitable residence available
+(6) Despite subsection (5), an offender arrested under this section need not be detained in order to be brought as soon as possible before the court, and may instead be released as soon as possible, if—
+  (a) a suitable residence is decided under section 80FA(1); or
+  (b) a suitable provisional home detention residence is approved under section 80FA(2) or (3)﻿(a).
+Meaning of application for order under section 80F(4)
+(7) In this section, an application for an order under section 80F(4) means an application—
+  (a) made under section 80F(1) by the offender or a probation officer; and
+  (b) based on grounds that are, or include, the grounds stated in section 80F(1)﻿(c) (namely, that the home detention residence is no longer available or suitable because of a change in circumstances); and
+  (c) on which the court may, if satisfied that the grounds on which it is based have been established, make an order under section 80F(4).
+
 ### 80H Alternative residence pending determination of application under section 80F
 [Repealed]
 
@@ -1944,6 +2165,13 @@ After considering a progress report, the Judge may order that the offender atten
 (1) A copy of an order under section 80ZK must be given to the offender and the probation officer who filed the progress report.
 (2) The order must be accompanied by a notice setting out the time and place of the attendance.
 
+### 80ZLA Arrest of offender failing to attend judicial monitoring hearing
+The Judge may issue a warrant to arrest an offender and bring them before the Judge if the Judge is satisfied that—
+  (a) the Judge made an order under section 80ZK that the offender attend before the Judge; and
+  (b) the order has been given to the offender, as required by section 80ZL(1); and
+  (c) the order given to the offender was accompanied by a notice setting out the time and place of the attendance, as required by section 80ZL(2); and
+  (d) the offender has failed to attend at that time and place.
+
 ### 80ZM Procedure if possible grounds for variation or cancellation of sentence exist
 (1) If, after hearing from the offender and the probation officer, the Judge considers that there may be grounds for variation or cancellation of the sentence of intensive supervision or home detention, he or she may request submissions on whether the sentence should be varied or cancelled.
 (2) If the Judge requests further submissions under subsection (1), he or she must set the matter down for a hearing.
@@ -2097,9 +2325,21 @@ In determining the length of any sentence of imprisonment to be imposed, the cou
 (6) For the purpose of this section, a term of imprisonment imposed on an offender (whether by committal, sentence, or order) in respect of the non-payment of a sum of money, contempt of court, or disobedience of a court order is deemed to be a determinate sentence of imprisonment.
 
 ### 84 Guidance on use of cumulative and concurrent sentences of imprisonment
+Sentencing for all offences for which offender is being sentenced
 (1) Cumulative sentences of imprisonment are generally appropriate if the offences for which an offender is being sentenced are different in kind, whether or not they are a connected series of offences.
 (2) Concurrent sentences of imprisonment are generally appropriate if the offences for which an offender is being sentenced are of a similar kind and are a connected series of offences.
-(3) In determining for the purpose of this section whether 2 or more offences committed by 1 offender are a connected series of offences, the court may consider—
+Definition of further offence for purposes of this section
+(3) In this section, a further offence, for an offender, means an offence committed while the offender was—
+  (a) on bail; or
+  (b) in custody under a court direction, a court order, or a sentence; or
+  (c) released on parole.
+Sentencing for offences that are, or include, further offences
+(4) If the offences for which an offender is being sentenced are, or include, further offences, then—
+  (a) subsections (1) and (2) apply to all the offences for which the offender is being sentenced; and
+  (b) subsection (5) applies to the further offences for which an offender is being sentenced.
+(5) It is generally appropriate for the further offences for which an offender is being sentenced to be cumulative on the sentences for the offences for which the offender is being, or has been, sentenced that are not further offences.
+Considerations in determining if offences are connected series of offences
+(6) In determining for the purpose of this section whether 2 or more offences (whether further offences, or offences that are not further offences) committed by 1 offender are a connected series of offences, the court may consider—
   (a) the time at which they occurred; or
   (b) the overall nature of the offending; or
   (c) any other relationship between the offences that the court considers relevant.
@@ -2631,6 +2871,7 @@ The Secretary must ensure that money is paid out of the account, and that the ac
 ### 106 Discharge without conviction
 (1) If a person who is charged with an offence is found guilty or pleads guilty, the court may discharge the offender without conviction, unless by any enactment applicable to the offence the court is required to impose a minimum sentence.
 (2) A discharge under this section is deemed to be an acquittal.
+(2A) A court discharging an offender under this section may make a protection order under section 123B.
 (3) A court discharging an offender under this section may—
   (a) make an order for payment of costs or the restitution of any property; or
   (b) make any order for the payment of any sum that the court thinks fair and reasonable to compensate any person who, through, or by means of, the offence, has suffered—
@@ -2804,7 +3045,7 @@ In this section and sections 123B to 123H, unless the context otherwise requires
 
 ### 123B Protection order
 (1) This section applies if—
-  (a) an offender is convicted of a family violence offence; and
+  (a) an offender is convicted of, or is under section 106 discharged without conviction for, a family violence offence; andExamplesConvicted of family violence offenceThe offender is convicted of a family violence offence and is discharged, under section 108.The offender is convicted of a family violence offence and is ordered to appear for sentence if called on, under section 110.
   (b) there is not currently in force a protection order against the offender made under the Family Violence Act 2018 for the protection of the victim of the offence.
 (2) The court may make a protection order against the offender if—
   (a) it is satisfied that the making of the order is necessary for the protection of the victim of the offence; and
@@ -3493,6 +3734,15 @@ In determining whether or not to make an instrument forfeiture order under secti
 ### 142Q Relationship with other provisions in Act
 Nothing in sections 142A to 142P affects sections 127 to 142.
 
+**Forfeiture of weapons**
+
+### 142R Forfeiture of weapons
+(1) This section applies to a weapon that the court is satisfied that an offender used in committing, or in facilitating the commission of, an offence.
+(2) The court may order that a weapon to which this section applies—
+  (a) is forfeited to the Crown; or
+  (b) must be destroyed, or otherwise disposed of, as the court directs.
+(3) This section does not affect duties or powers of the court, or any person, under any other law, about the forfeiture, destruction, or other disposal of any weapon, or any other thing of any kind, used in committing, or in facilitating the commission of, an offence.
+
 ### Subpart 6 — Miscellaneous, transitional, and savings provisions
 
 **Miscellaneous provisions**
@@ -3938,6 +4188,34 @@ Exception: for stage-2 offence with qualifying sentence for stage-1 offence
 Clauses 21 to 23 apply regardless of any difference—
   (a) between the old regime and the new regime; and
   (b) related to the giving or recording of warnings.
+
+### Part 7 — Provisions relating to Sentencing (Reform) Amendment Act 2025
+
+### 25 Definitions for this Part
+In this Part, unless the context otherwise requires,—
+  - **amendment Act** means the Sentencing (Reform) Amendment Act 2025
+  - **commencement** means the amendment Act’s commencement.
+
+### 26 Application of amendments
+Amendments apply only to offences committed, in whole, after commencement
+(1) An amendment made to this Act by the amendment Act applies only to an offence committed, in whole, on or after commencement.
+Other offences remain subject to Act as in force pre-commencement
+(2) An offence committed, in whole or in part, before commencement remains subject to this Act as in force before commencement.
+Exception (application of new section 18)
+(3) However, this clause is subject to clause 27.
+
+### 27 Application of new section 18
+(1) Section 18 (as inserted by the amendment Act) applies only in sentencing an offender for an offence committed, in whole, on or after commencement.
+(2) However, in applying subclause (1),—
+  (a) the other offence mentioned in section 18(4) (as so inserted) may be one committed, in whole or in part, before, on, or after commencement; and
+  (b) the sentence of imprisonment mentioned in section 18(4) (as so inserted) imposed for that other offence may be one imposed before, on, or after commencement.
+
+### 28 Validity of sentence imposed after commencement not affected, and grounds for appeal against it do not exist, just because it is subject to new law but wrongly imposed under old law
+(1) This clause applies to a sentence that is—
+  (a) imposed after commencement; and
+  (b) subject under this Part (see clauses 26 and 27) to an amendment made to this Act by the amendment Act; and
+  (c) wrongly imposed under this Act as in force before commencement, rather than under that amendment.
+(2) The validity of the sentence is not affected, and grounds for an appeal against it do not exist, just because it was wrongly imposed under this Act as in force before commencement.
 
 ## Schedule 1AB — Qualifying offences
 
