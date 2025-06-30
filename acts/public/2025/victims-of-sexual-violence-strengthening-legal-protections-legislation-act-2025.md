@@ -5,7 +5,7 @@ _Consolidation as at 2025-06-30_
 This Act is the Victims of Sexual Violence (Strengthening Legal Protections) Legislation Act 2025.
 
 ### 2 Commencement
-This Act comes into force 4 months after Royal assent.
+This Act comes into force on 30 October 2025.
 
 ## Part 1 — Amendments to Crimes Act 1961
 
