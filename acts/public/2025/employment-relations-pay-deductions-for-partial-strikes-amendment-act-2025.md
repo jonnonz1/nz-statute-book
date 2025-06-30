@@ -5,7 +5,7 @@ _Consolidation as at 2025-06-30_
 This Act is the Employment Relations (Pay Deductions for Partial Strikes) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 1 July 2025.
 
 ### 3 Principal Act
 This Act amends the Employment Relations Act 2000.
