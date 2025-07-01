@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2025-05-26_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -239,10 +239,7 @@ A person is entitled to jobseeker support if the person—
   (a) P is not in full-time employment; or
   (b) P is in employment but is losing earnings through a health condition or injury (for example, is not working at all or is working reduced hours).
 (2) For the purposes of subsection (1)﻿(b), P may treat as a loss of P’s earnings a payment made to any other person who acts as P’s substitute during the period of P’s health condition or injury.
-(3) Despite subsection (1)﻿(a), P still has a work gap if—
-  (a) P is receiving jobseeker support at the rate in clause 1(c), (e), or (f) of Part 1 of Schedule 4; and
-  (b) during a temporary period, P engages in full-time employment; and
-  (c) the income from that employment and P’s other income (if any) when calculated over a 52-week period is less than the amount that would, under the appropriate income test, reduce the applicable rate of jobseeker support to zero.
+(3)
 
 ### 22 When person is available for work
 A person (P) is available for work if P—
@@ -3376,7 +3373,11 @@ The winter energy payment commences in accordance with section 74.
 (1) If a person’s entitlement to a benefit ceases, the benefit ends on a date that is set by MSD and is—
   (a) not earlier than the pay day before the date on which the person’s entitlement ceases; and
   (b) not later than the pay day after the date on which the person’s entitlement ceases.
-(2) This section is subject to sections 326 to 330.
+(2) This section is subject to sections 326 to 330, and to regulations made under section 441(1), (2)﻿(d), and (4A), which require conditional payments of—
+  (a) the specified benefit; and
+  (b) all other assistance under this Act—
+    (i) that is payable to the person immediately before the expiry date for the specified benefit; and
+    (ii) that would have continued to be payable to the person had their specified benefit not expired.
 
 ### 326 After death of beneficiary receiving specified benefit
 (1) This section applies to a person who, when the person died, was receiving one of the following benefits:
@@ -3427,21 +3428,30 @@ If a child’s entitlement to an orphan’s benefit or an unsupported child’s 
 
 ### 332 General rule
 (1) A beneficiary’s entitlement to a specified benefit ceases not later than, and the specified benefit expires on, the expiry date for that specified benefit.
-(2) This section is subject to sections 334 and 336.
+(2) This section is subject to sections 334 and 336, and to regulations made under section 441(1), (2)﻿(d), and (4A), which require conditional payments of—
+  (a) the specified benefit; and
+  (b) all other assistance under this Act—
+    (i) that is payable to the person immediately before the expiry date for the specified benefit; and
+    (ii) that would have continued to be payable to the person had their specified benefit not expired.
 
 ### 333 Exception for specified benefit expiring in week of or before 26 December
 (1) This section applies to a specified benefit that expires under section 332 in the week that is, or is the week immediately before, the week that includes 26 December in a year.
 (2) The benefit must continue to be paid until the first Monday after 2 January in the immediately following year.
 (3) This section overrides sections 325 and 332.
 
-### 334 Exemptions
-(1) MSD may in any prescribed circumstances exempt from expiry under section 332 all or any specified benefits of—
-  (a) an identified beneficiary; or
-  (b) all beneficiaries who fall within an identified class or description.
-(2) The exemption must be until an identified event or situation or time, and may be on any identified conditions.
-(3) MSD’s exemption power is exercisable only by notice in writing copied as soon as practicable to every beneficiary concerned.
-(4) In subsection (1), prescribed circumstances means any circumstances that are—
-  (a) circumstances in which an exemption from expiry may be considered; and
+### 334 Exceptions for specified benefit based on prescribed circumstances
+(1) This section applies to a specified benefit if 1 or more of the prescribed circumstances apply to the beneficiary at any time or times, or at all times, on or after the date on which—
+  (a) MSD gives the beneficiary a notice stating the matters set out in section 335(1)﻿(a) to (c), as required by section 335(1); or
+  (b) MSD takes reasonable steps to advise the beneficiary of those matters, as required by section 335(2) and (3).
+(2) In particular, this section applies (without limiting the generality of subsection (1)) to a specified benefit if 1 or more of the prescribed circumstances apply to the beneficiary at any time or times, or at all times,—
+  (a) on or after the expiry date for that benefit; and
+  (b) within any period regulations made under section 441 provide for completing requirements for regrant of that benefit.
+(3) The specified benefit—
+  (a) does not expire under section 332; and
+  (b) must continue to be paid until the date that would be the expiry date for it if it had expired and were reapplied for and was regranted.
+(4) This section overrides sections 325 and 332, but does not limit any review under section 304.
+(5) In this section, prescribed circumstances means any circumstances that are—
+  (a) circumstances in which under this section a specified benefit does not expire under section 332; and
   (b) prescribed for the purposes of this section by regulations made under section 441(1).
 
 ### 335 MSD must notify or advise beneficiary
@@ -3766,7 +3776,8 @@ What specified provision must be about
     (i) a benefit; or
     (ii) any other assistance under this Act; or
   (b) sanctions for breach of obligations other than young person or young parent obligations; or
-  (c) sanctions for breach of young person or young parent obligations.
+  (c) sanctions for breach of young person or young parent obligations; or
+  (d) expiry and regrant of specified benefits.
 Requirements for approval
 (4) MSD may approve the use of an automated electronic system only if—
   (a) the system is under the responsible department’s control; and
@@ -4751,8 +4762,11 @@ A power in this Part to make any Orders in Council is not limited by any power o
 (2) Regulations made under subsection (1) may (without limitation) do all or any of the following:
   (a) prescribe the expiry date or expiry dates for every benefit that is a specified benefit for the purposes of sections 331 to 336:
   (b) declare a benefit that is sole parent support, supported living payment, or emergency benefit, not to be a specified benefit for the purposes of sections 331 to 336:
-  (c) specify circumstances in which MSD may consider an exemption under section 334(1) from expiry under section 332:
-  (d) specify, for section 336(2), requirements (not inconsistent with this Act) for the regrant of a specified benefit.
+  (c) specify circumstances for the exception under section 334(1) from expiry under section 332:
+  (d) specify, for section 336(2), requirements—
+    (i) for the regrant of a specified benefit; and
+    (ii) that may override sections 325 to 332 in the way specified in subsection (4A); but
+    (iii) that must otherwise be not inconsistent with this Act.
 (3) Subsection (2)﻿(a) authorises (without limitation) the regulations to prescribe the same expiry date, or 2 or more different expiry dates, for all or any combination of the following:
   (a) each specified benefit for the purposes of sections 331 to 336:
   (b) each specified benefit for the purposes of sections 331 to 336 insofar as that benefit is granted on each of 2 or more different specified eligibility grounds:
@@ -4760,6 +4774,14 @@ A power in this Part to make any Orders in Council is not limited by any power o
 (4) Subsection (2)﻿(b) authorises (without limitation) the regulations to make a declaration in respect of sole parent support, supported living payment, or emergency benefit, as that benefit is granted in either or both of the followings ways (specified in section 331(2)﻿(a) and (b)):
   (a) that benefit as granted on only 1 or more specified available eligibility grounds:
   (b) that benefit as granted to only 1 or more specified categories, classes, or kinds of beneficiaries.
+(4A) Subsection (2)﻿(d) authorises (without limitation) the regulations to require granting and payment to a person of conditional payments of—
+  (a) the specified benefit; and
+  (b) all other assistance under this Act—
+    (i) that is payable to the person immediately before the expiry date for the specified benefit; and
+    (ii) that would have continued to be payable to the person had their specified benefit not expired.
+(4B) Conditional payments mentioned in subsection (4A) are—
+  (a) for the relevant period, on and after that expiry date, in which the requirements for regrant of the specified benefit must be completed; and
+  (b) subject to the condition that the person is liable to repay the whole of any amount paid for that relevant period if the person’s specified benefit is not regranted.
 (5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 442 Regulations: payments
