@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-07-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -157,8 +157,6 @@ _Consolidation as at 2025-04-05_
     (c) an infringement offence specified in regulations made under this Act:
     (ca) a toll offence:
     (d) any other offence against this Act or any other enactment that is specified as an infringement offence against this Act (other than an offence that carries a penalty of imprisonment or mandatory disqualification from holding or obtaining a driver licence)
-  - **large passenger service** means a passenger service provided in a large passenger service vehicle
-  - **large passenger service licence** means a licence granted or deemed to be granted under subpart 3 of Part 4A that authorises its holder to carry on a large passenger service
   - **land transport** means transport on land by any means and the infrastructure facilitating such transport; and includes rail, surface-effect vehicles, and harbour ferries
   - **land transport Act** means—
     (a) the Government Roading Powers Act 1989; and
@@ -173,6 +171,8 @@ _Consolidation as at 2025-04-05_
   - **land transport register** includes—
     (a) registers kept under this Act, the Railways Act 2005, or the Road User Charges Act 2012; and
     (b) other information and records relating to vehicle and operator licensing kept by the Agency
+  - **large passenger service** means a passenger service provided in a large passenger service vehicle
+  - **large passenger service licence** means a licence granted or deemed to be granted under subpart 3 of Part 4A that authorises its holder to carry on a large passenger service
   - **large passenger service vehicle** means any passenger service vehicle that is designed or adapted to carry more than 12 persons (including the driver)
   - **licensed** means,—
     (a) in relation to a driver,—
@@ -4832,6 +4832,27 @@ Without limiting any other method of proof, the production in proceedings of a c
   (a) that the fees and charges are appropriate to increase the supply and availability of vehicles with zero carbon dioxide emissions; and
   (b) that the imposition and level of charges and fees are appropriate after considering international and domestic climate change ambitions and commitments.
 
+### 167BA Regulations relating to cost recovery for administering Part 13 (clean vehicle standard)
+(1) Regulations may be made under section 167(1)﻿(j) for the purpose of prescribing, or providing for the fixing of, fees and charges payable by a person specified in subsection (2) to meet, or assist in meeting, the costs and expenses incurred by the Agency in exercising functions or powers, performing duties, or providing services under—
+  (a) Part 13; or
+  (b) regulations relating to Part 13 made under section 167 or 167C.
+(2) The persons are—
+  (a) a vehicle importer; and
+  (b) an applicant for registration of a Type A vehicle or a Type B vehicle under Part 17 if the vehicle has not previously been registered.
+(3) Different rates of fees or charges, or both, may be prescribed or fixed in respect of different classes of vehicles or on any other differential basis.
+(4) Regulations made under section 167(1)﻿(j) for the purpose specified in subsection (1) may—
+  (a) do any of the things specified in section 168(4)﻿(aa), (ab), (d), (e), and (f):
+  (b) specify the persons to whom any fees or charges, or both, are payable:
+  (c) provide for unpaid fees or charges to be recoverable as a debt due to the Crown.
+(5) The Director may, at any time, reduce or waive a penalty for late payment if the Director considers that it is just to do so.
+(6) This section does not limit the generality of section 167(1)﻿(j).
+(7) In this section and section 167BB, Type A vehicle, Type B vehicle, and vehicle importer have the meanings given in section 172(1).
+
+### 167BB Regulations relating to power of Registrar and Director if fee or charge unpaid
+(1) The Governor-General may, by Order in Council, make regulations authorising the Registrar or the Director to decline to process a person’s registration application until the person has paid a specified fee or charge for which they are liable under regulations made in accordance with section 167BA (regulations relating to cost recovery for administering Part 13 (clean vehicle standard)).
+(2) In this section,—Registrar has the meaning given in section 233(1)registration application means an application for registration under Part 17 of a Type A vehicle or a Type B vehicle that has not previously been registered.
+(3) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
 ### 167C Regulations for purposes of Part 13 (clean vehicle standard)
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) declaring, for the purposes of the definition of excluded vehicle in section 172, excluded vehicles for the purposes of Part 13:
@@ -5645,7 +5666,7 @@ Once a land transport record is created, the Registrar must notify the person th
 (3) The Agency may, by warrant, appoint an employee of the Agency to be—
   (a) an enforcement officer for the purposes of—
     (i) any of Parts 4A, 4B, 6A, 6B, and 13, including any rules or regulations made in relation to transport services, or sections 22B, 22C, 36B, 113(2)﻿(f), 113A, 115, 118(6), 124, 128A, 128B, 135(1A), 138, and 139:
-    (ia) subpart 3 of Part 2 of the Land Transport Management Act 2003:
+    (ia)
     (ii) Part 5 of the Land Transport Management Act 2003:
     (iii) any provision in the Land Transport Management Act 2003 relating to tolls; or
   (b) a dangerous goods enforcement officer.
