@@ -1,5 +1,5 @@
 # New Zealand Trade and Enterprise Act 2003
-_Consolidation as at 2005-04-21_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the New Zealand Trade and Enterprise Act 2003.
@@ -59,15 +59,15 @@ This section establishes New Zealand Trade and Enterprise.
 ### 9 Functions
 (1) The functions of NZTE are to—
   (a) contribute to a supportive environment for sustainable economic development by—
-    (i) fostering collaborative networks and partnerships between central government, local government, industry, trade unions, regions, education and research organisations, potential investors, and individual enterprises; and
+    (i) fostering collaborative networks and partnerships between central government, local government, industry, trade unions, regions, education and research organisations, and individual enterprises; and
     (ii) encouraging the development and delivery of economic development services by the private and non-government sector; and
     (iii) co-ordinating the delivery of government economic development assistance to industry, regions, and individual businesses:
-  (b) provide a conduit for input and advice from industry, trade unions, local government, regions, education and research organisations, potential investors, and individual enterprises on programmes to implement the Government's policies for economic, industry, and regional development:
+  (b) provide a conduit for input and advice from industry, trade unions, local government, regions, education and research organisations, and individual enterprises on programmes to implement the Government's policies for economic, industry, and regional development:
   (c) enhance industry and regional enterprise and entrepreneurial capabilities by—
     (i) providing information; and
     (ii) facilitating access to skills, expertise, and resources:
-  (d) contribute to increased exports from, and investment in, New Zealand by—
-    (i) strengthening global linkages through trade and investment promotion; and
+  (d) contribute to increased exports from New Zealand by—
+    (i) strengthening global linkages through trade promotion; and
     (ii) providing appropriate business and market development assistance:
   (e) carry out any additional function in relation to trade, industry, and regional development that is added by the Minister in accordance with section 112 of the Crown Entities Act 2004.
   (f)
