@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2025-04-07_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -722,7 +722,7 @@ A person must not, in trade, in connection with any dealing in financial product
   (e) that a person has any sponsorship, approval, endorsement, or affiliation; or
   (f) with respect to the price of the products or services; or
   (g) concerning the need for the products or services; or
-  (h) concerning the existence, exclusion, or effect of any condition, warranty, guarantee, right, or remedy, including (to avoid doubt) in relation to any guarantee, right, or remedy available under the Consumer Guarantees Act 1993; or
+  (h) concerning the existence, exclusion, or effect of any condition, warranty, guarantee, right, or remedy, including (to avoid doubt) in relation to any guarantee, right, or remedy available under the Consumer Guarantees Act 1993 or Part 6 of the Deposit Takers Act 2023; or
   (i) concerning the place of origin of the products or services.
 
 ### 23 Unsubstantiated representations
