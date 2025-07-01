@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -2178,13 +2178,15 @@ Nothing in sections 117 to 119 affects the ability of any person to obtain any r
 **Miscellaneous provisions**
 
 ### 121 The Crown not liable for debts
-(1) The Crown is not liable to contribute to the payment of any debts or liabilities of any local authority.
+(1) The Crown is not liable to contribute to the payment of any debts or liabilities of—
+  (a) any local authority; or
+  (b) Watercare Services Limited.
 (2) Subsection (1) does not apply in relation to liability for any sum of a kind described in section 49 of the Public Finance Act 1989.
 
 ### 122 Disclosure document and loan documents to contain statement that the Crown does not guarantee financial products or loan
-(1) If a local authority is named as the issuer, or is otherwise named with its consent, in a disclosure document, that disclosure document must, unless the financial products being offered under the disclosure document are expressly guaranteed by the Crown under the Public Finance Act 1989, contain a statement that the financial products being offered under the disclosure document are not guaranteed by the Crown.
+(1) If a local authority or Watercare Services Limited is named as the issuer, or is otherwise named with its consent, in a disclosure document, that disclosure document must, unless the financial products being offered under the disclosure document are expressly guaranteed by the Crown under the Public Finance Act 1989, contain a statement that the financial products being offered under the disclosure document are not guaranteed by the Crown.
 (2) In subsection (1), disclosure document means a product disclosure statement (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) or a disclosure document under clause 26 of Schedule 1 of that Act.
-(3) If a local authority enters into any loan agreement or incidental arrangement, that agreement or arrangement must include a statement that the loan or other liability under the incidental arrangement is not guaranteed by the Crown.
+(3) If a local authority or Watercare Services Limited enters into any loan agreement or incidental arrangement, that agreement or arrangement must include a statement that the loan or other liability under the incidental arrangement is not guaranteed by the Crown.
 (4) Subsection (3) does not apply in relation to liability for any sum of a kind described in section 49 of the Public Finance Act 1989.
 
 ## Part 7 — Specific obligations and restrictions on local authorities and other persons
@@ -2207,6 +2209,7 @@ In this Part,—
     (b) in relation to wastewater and other sanitary services,—
       (i) means an assessment of wastewater services and other sanitary services available to communities in the district of the territorial authority; but
       (ii) does not include assessments in relation to individual properties
+  - **Auckland** has the meaning set out in section 4(1) of the Local Government (Auckland Council) Act 2009
   - **domestic self-supplier** has the meaning given in section 10 of the Water Services Act 2021
   - **drinking water** has the meaning given in section 6 of the Water Services Act 2021
   - **drinking water services** means the supply of drinking water to communities to the point of supply of each dwelling house and commercial premise to which drinking water is supplied
@@ -2215,7 +2218,8 @@ In this Part,—
   - **sanitary services** has the same meaning as sanitary works in section 25(1)﻿(a), (b), (d), (h), and (i) of the Health Act 1956
   - **sufficient quantity** , in relation to the drinking water supplied to a point of supply, has the meaning given in section 25 of the Water Services Act 2021
   - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established under section 8 of the Taumata Arowai–the Water Services Regulator Act 2020
-  - **wastewater services** means sewerage, treatment and disposal of sewage, and stormwater drainage.
+  - **wastewater services** means sewerage, treatment and disposal of sewage, and stormwater drainage
+  - **Watercare** means Watercare Services Limited, and includes any subsidiary of Watercare Services Limited.
 
 ### 125 Requirement to assess drinking water services
 (1) A territorial authority must inform itself about the access that each community in its district has to drinking water services by undertaking an assessment of drinking water services in accordance with this section.
@@ -2279,6 +2283,7 @@ In this Part,—
     (i) a drinking water supplier has persistently failed to comply with legislative requirements; or
     (ii) there is a serious risk to public health relating to the drinking water services provided by a drinking water supplier; or
     (iii) a drinking water supplier has ceased to operate a drinking water service, or is, in Taumata Arowai’s opinion, at significant risk of ceasing to operate a service:
+  (aa) a territorial authority (despite the definition of that term in section 5(1)) includes Watercare:
   (b) if a territorial authority is obliged to ensure access to drinking water, the territorial authority may consider a range of options to fulfil its obligation, including—
     (i) taking over the management and operations of the drinking water service, on a temporary or permanent basis:
     (ii) ensuring drinking water continues to be provided through alternative supply arrangements:
@@ -2315,7 +2320,7 @@ In this Part,—
 
 ### Subpart 2 — Obligations and restrictions relating to provision of water services
 
-### 130 Obligation to maintain water services
+### 130 Obligation to maintain water services: general
 (1) This subpart applies to a local government organisation that provides water services to communities within its district or region—
   (a) at the commencement of this section:
   (b) at any time after the commencement of this section.
@@ -2330,6 +2335,22 @@ In this Part,—
 (4) This section—
   (a) does not prevent a local government organisation from transferring a water service to another local government organisation; and
   (b) does not override sections 131 to 137.
+(5) In this section, local government organisation has the meaning given in section 124, except it—
+  (a) includes Auckland Council only in relation to its provision of water services in Auckland that are not water supply and wastewater services; and
+  (b) excludes Watercare.
+(6) For the purpose of subsection (5)﻿(a), water supply and wastewater services has the same meaning as in section 4(1) of the Local Government (Auckland Council) Act 2009.
+
+### 130A Obligation to maintain water services: Watercare
+(1) Watercare must continue to provide water services in Auckland and maintain its capacity to meet its obligations under this subpart.
+(2) In order to fulfil the obligations under this subpart, Watercare must—
+  (a) not use assets of its water services as security for any purpose:
+  (b) not divest its ownership or other interest in a water service:
+  (c) not lose control of, sell, or otherwise dispose of the significant infrastructure necessary for providing water services in Auckland, unless, in doing so, it retains its capacity to meet its obligations:
+  (d) not, in relation to a property to which it supplies water,—
+    (i) restrict the water supply unless section 193 applies; or
+    (ii) stop the water supply unless section 25 of the Water Services Act 2021 applies.
+(3) This section does not override sections 131 to 137.
+(4) In this section, water services has the meaning given to water supply and wastewater services in section 4(1) of the Local Government (Auckland Council) Act 2009.
 
 **Closure or transfer of small water services**
 
@@ -4031,21 +4052,22 @@ Money payable by a person to the local authority for works, material, or things 
 
 ### 253 Outline of Part
 This Part confers powers on the Minister to—
-  (a) assist local authorities in certain situations; and
-  (b) intervene in the affairs of local authorities in certain situations.
+  (a) assist local authorities or Watercare in certain situations; and
+  (b) intervene in the affairs of local authorities or Watercare in certain situations.
 
 ### 254 How this Part works
 (1) This section is a guide to the overall scheme and effect of this Part. It does not affect the interpretation or application of the other provisions of this Part.
-(2) Subpart 1 of this Part provides the Minister with a range of options in relation to a local authority that has a problem. The options are available only in relation to the local authority itself, and not to any entity that the local authority may control or have an interest in.
+(2) Subpart 1 provides the Minister with a range of options in relation to a local authority or Watercare if they have a problem. The options are available only in relation to the local authority or Watercare itself, and not to any entity that the local authority or Watercare may control or have an interest in.
 (3) The options vary according to the nature and scale of assistance or intervention required to address the problem.
-(4) The options are not a hierarchy of actions that the Minister must employ sequentially in relation to a local authority.
-(5) Accordingly, the Minister may exercise an option in relation to a local authority without having previously exercised 1 or more of the other options.
+(4) The options are not a hierarchy of actions that the Minister must employ sequentially in relation to a local authority or Watercare.
+(5) Accordingly, the Minister may exercise an option in relation to a local authority or Watercare without having previously exercised 1 or more of the other options.
 (6) Subpart 2 of this Part sets out general provisions applying to all the options the Minister may exercise under subpart 1.
 (7) The provisions in subpart 2 of this Part are largely procedural in nature and cover matters including notification of the assistance or intervention, reporting requirements, and payment and protection for the individuals carrying out the assistance or intervention.
 
 ### 255 Application of this Part
 (1) The Minister may appoint a Ministerial body under subpart 1 of this Part only to a local authority and not to any entity that the local authority may control or have an interest in, for example, a council-controlled organisation, council-controlled trading organisation, council organisation, or other subsidiary of the local authority.
 (2) However, the Minister may exercise the powers in this Part in relation to a local board and, for that purpose, this Part applies, with any necessary modifications, as if a local board were a local authority.
+(3) Despite subsection (1), the Minister may exercise the powers in section 257 to 258E in relation to Watercare and, for that purpose, sections 256 to 258E, 258N to 258Q, and 258S to 258ZA apply as if Watercare were a local authority.
 
 ### 256 Interpretation
 In this Part,—
