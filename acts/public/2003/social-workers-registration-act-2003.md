@@ -1,5 +1,5 @@
 # Social Workers Registration Act 2003
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Social Workers Registration Act 2003.
@@ -1686,22 +1686,20 @@ Section 121(2) of the Crown Entities Act 2004 applies, with any necessary modifi
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 147A Power to obtain information
-(1) The chief executive may, if the chief executive has reasonable cause to believe that an offence against section 148(2) to (5) has been committed, by written notice require a person—
-  (a) to give the department the information specified in the notice; or
-  (b) to give the department a document in or under that person’s custody or control and to allow the department to make copies of or take extracts from that document; or
-  (c) to give the department copies of or extracts from a document in or under that person’s custody or control.
+(1) The Board may, if it has reasonable cause to believe that an offence against section 148(2) to (5) has been committed, by written notice require a person—
+  (a) to give the Board the information specified in the notice; or
+  (b) to give the Board a document in or under that person’s custody or control and to allow the Board to make copies of or take extracts from that document; or
+  (c) to give the Board copies of or extracts from a document in or under that person’s custody or control.
 (2) A person who receives a notice under this section must comply with it within the period and in the manner stated in the notice and must do so without charge.
-(3) Before issuing a notice, the chief executive must first ask the person in writing to provide the information unless doing so would prejudice the maintenance of the law.
+(3) Before issuing a notice, the Board must first make a written request to the person to whom the information relates to provide the information unless doing so would prejudice the maintenance of the law.
 (4) This section is subject to section 147B (relating to privilege).
-(5) In this section and section 147B,—
-  - **chief executive** means the chief executive of the department responsible for administering this Act
-  - **department** means the department responsible for administering this Act, and includes an employee who is named in a notice given under this section.
+(5)
 
 ### 147B Privilege
-(1) Section 147A does not require a person to give the department information or a document that—
+(1) Section 147A does not require a person to give the Board information or a document that—
   (a) would be privileged in a court of law:
   (b) is subject to legal professional privilege.
-(2) If a person refuses to give the department information or a document on the ground that it is privileged, the department or that person or another person to whom the information or document relates may apply to a District Court Judge for an order determining whether the claim of privilege is valid.
+(2) If a person refuses to give the Board information or a document on the ground that it is privileged, the Board or that person or another person to whom the information or document relates may apply to a District Court Judge for an order determining whether the claim of privilege is valid.
 (3) The Judge may, for the purposes of determining the application, require the information or document to be produced to the court.
 
 ### 148 Offences
