@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2025-05-29_
+_Consolidation as at 2025-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -36261,36 +36261,51 @@ Zero credit
 
 ### MK 1 Tax credits for superannuation contributions
 Tax credits for members paid to fund providers
-(1) A fund provider of a person's KiwiSaver scheme or a complying superannuation fund has a tax credit equal to an amount calculated under section MK 4 for a member credit contribution to the scheme or fund. Section MK 2 imposes some eligibility requirements for the year described in subsection (3) in relation to the person.
+(1) A fund provider of a person's KiwiSaver scheme or a complying superannuation fund has a tax credit for a tax credit year equal to an amount calculated under section MK 4 for a member credit contribution to the scheme or fund. Section MK 2 imposes some eligibility requirements for the tax credit year in relation to the person.
 Tax credits for employers
 (2)
 Calculations: fund providers
-(3) A tax credit referred to in subsection (1) is calculated for a year that begins on 1 July and ends on 30 June.
+(3)
 Calculations: employers
 (4)
+Meaning of tax credit year
+(5) In this subpart, tax credit year is a year that begins on 1 July and ends on 30 June for which a tax credit referred to in subsection (1) is calculated.
 
 ### MK 2 Eligibility requirements
 Requirements for person
-(1) For the purposes of section MK 1(1), the requirements for the person for the year described in section MK 1(3) are the following:
-  (a) they must be 18 years or older; and
+(1) For the purposes of section MK 1(1), the requirements for the person for the tax credit year are the following:
+  (a) they must be 16 years or older; and
   (b) they must have a creditable membership of a complying superannuation fund or a KiwiSaver scheme; and
   (c) they must not be entitled under schedule 1, clause 4 of the KiwiSaver Act 2006 or an equivalent provision to withdraw an amount from the scheme or fund; and
   (cb) they must not have made a withdrawal under clause 12B of the KiwiSaver scheme rules (which relates to life-shortening congenital condition withdrawals); and
+  (cc) their taxable income, as determined under section MK 2B, must be $180,000 or less; and
   (d) they must reside mainly in New Zealand, or otherwise they must—
     (i) be an employee of the State services under the Public Service Act 2020 serving outside New Zealand; or
     (ii) work overseas as a volunteer or for token payment for a charity (within the meaning of section 4(1) of the Student Loan Scheme Act 2011) and the work meets 1 or more of the requirements in schedule 1, clause 2(1) of that Act.
 Evidence
 (2) For the purposes of subsection (1)﻿(d)﻿(i) and (ii), the person must give the fund provider written evidence that they meet the requirements, and of the period in which they meet the requirements.
 
+### MK 2B Taxable income
+Taxable income
+(1) For the purposes of section MK 2(1)﻿(cc), a person’s taxable income for the tax credit year is their taxable income for the corresponding tax year.
+Meaning of corresponding tax year
+(2) In this section, corresponding tax year means—
+  (a) the tax year (the current year) that ends during the tax credit year if the person—
+    (i) has filed their return of income for that tax year on or before the end of the tax credit year; or
+    (ii) is not required to file a return of income for that tax year under section 33 of the Tax Administration Act 1994; or
+  (b) in any other case, the tax year preceding the current year.
+
 ### MK 3 Payment of tax credits
 When this section applies
-(1) This section applies when a member credit contribution is made to a KiwiSaver scheme or a complying superannuation fund.
+(1) This section applies—
+  (a) when a member credit contribution is made to a KiwiSaver scheme or a complying superannuation fund by a person; and
+  (b) the fund provider of the scheme or fund files a claim form under section 68C(3) or (4) of the Tax Administration Act 1994 for the person.
 Payment
-(2) The Commissioner must pay a tax credit to the trustees of the scheme or fund (the fund provider) to which the person has contributed. The amount of the tax credit is calculated under section MK 4. Subsection (5) overrides this subsection.
+(2) Within 30 working days of the Commissioner being satisfied that the person meets the requirement in section MK 2(1)﻿(cc), the Commissioner must pay a tax credit to the fund provider of the scheme or fund to which the person has contributed. The amount of the tax credit is calculated under section MK 4. Subsection (5) overrides this subsection.
 Full amount paid
 (3) The Commissioner must pay the full amount of the tax credit by direct credit to the fund provider without subtracting any amount that the person or fund provider may be obliged to pay to the Commissioner. Subsection (5) overrides this subsection.
 Payment
-(4) The Commissioner must pay the amount of the tax credit to the fund provider within 30 working days of the provider filing a claim form under section 68C(3) or (4) of the Tax Administration Act 1994.
+(4)
 Exception: payment to person or another provider
 (5) Despite subsections (2) and (3), the Commissioner may pay the amount of the tax credit as follows:
   (a) to the person, if it would be impossible or impractical to pay it to the person's fund provider because either the person has no fund provider, or because the person has died or has suffered a serious illness as defined in schedule 1, clause 12(3) of the KiwiSaver Act 2006; or
@@ -36298,19 +36313,19 @@ Exception: payment to person or another provider
 
 ### MK 4 Amount of tax credit
 What this section does
-(1) This section sets out how to calculate the amount of a tax credit paid to a fund provider under section MK 3(2) for a year described in section MK 1(3).
+(1) This section sets out how to calculate the amount of a tax credit paid to a fund provider under section MK 3(2) for a tax credit year.
 Amount of credit for year
-(2) The amount of the tax credit is an amount equal to half of a person's total member credit contributions for the year for all of their complying superannuation funds and KiwiSaver schemes up to a maximum amount of $521.43.
+(2) The amount of the tax credit is an amount equal to quarter of a person's total member credit contributions for the tax credit year for all of their complying superannuation funds and KiwiSaver schemes up to a maximum amount of $260.72.
 Part-year equivalents: amount of tax credit
-(3) Despite subsection (2), if the person meets the requirements of section MK 2 for only part of the year, the amount of the tax credit is,—
-  (a) equal to half of their total member credit contributions for the year, if that amount is equal to or less than the part-year maximum amount calculated under subsection (4); or
-  (b) equal to the part-year maximum amount calculated under subsection (4), if half of their total member credit contributions for the year is greater than the part-year maximum amount calculated under subsection (4).
+(3) Despite subsection (2), if the person meets the requirements of section MK 2 for only part of the tax credit year, the amount of the tax credit is,—
+  (a) equal to quarter of their total member credit contributions for the tax credit year, if that amount is equal to or less than the part-year maximum amount calculated under subsection (4); or
+  (b) equal to the part-year maximum amount calculated under subsection (4), if quarter of their total member credit contributions for the tax credit year is greater than the part-year maximum amount calculated under subsection (4).
 Part-year equivalents: maximum amount
-(4) The part-year maximum amount referred to in subsection (3) is calculated using the formula—$521.43 × days ÷ 365.
+(4) The part-year maximum amount referred to in subsection (3) is calculated using the formula—$260.72 × days ÷ 365.
 Definition of item in formula
-(5) In the formula, days is the number of days in the year in which the person meets the requirements of section MK 2.
+(5) In the formula, days is the number of days in the tax credit year in which the person meets the requirements of section MK 2.
 Parts of years
-(6) In subsection (3), a part of the year may include 1 or more periods of the year in which the person meets the relevant requirements and, if there are several periods, for the purposes of the item days in the formula, the days in those periods are added together.
+(6) In subsection (3), a part of the tax credit year may include 1 or more periods of the tax credit year in which the person meets the relevant requirements and, if there are several periods, for the purposes of the item days in the formula, the days in those periods are added together.
 
 ### MK 5 Crown contributions for members
 A tax credit paid to a person’s fund provider under section MK 3 is treated as a Crown contribution for the person, and the KiwiSaver scheme rules and complying fund rules, as applicable, apply to the amount.
@@ -44948,6 +44963,7 @@ In this Act, unless the context requires otherwise,—
   - **core technology** means technology which is used as a basis for research or development
   - **corpus** is defined in section HC 4 (Corpus of trust)
   - **corresponding income year** , for a tax year, means an income year that ends in the period starting on 1 October in the tax year and ending on 30 September immediately after the tax year
+  - **corresponding tax year** is defined in section MK 2B(2) (Taxable income) for the purposes of that section
   - **cost** ,—
     (a) in subpart EB (Valuation of trading stock (including dealer’s livestock)), for trading stock, means costs incurred in the ordinary course of business to bring trading stock to its present location and condition, including acquisition costs and costs of production, calculated under sections EB 6 to EB 8 (which relate to costs for standard valuations), EB 15 to EB 18 (which relate to costs for low-turnover traders), and EB 22 (Valuing closing stock consistently for low-turnover traders):
     (b) is defined in section RD 40(3) (Goods) for the purposes of that section:
@@ -47909,6 +47925,7 @@ In this Act, unless the context requires otherwise,—
     (b) is defined in section GB 43(5) (Reconstruction of Maori authority credit arrangements to obtain tax advantage) for the purposes of that section
   - **tax credit income** is defined in section MH 2 (Some definitions) for the purposes of subpart MH (FamilyBoost tax credits)
   - **tax credit quarter** is defined in section MH 2 (Some definitions) for the purposes of subpart MH (FamilyBoost tax credits)
+  - **tax credit year** is defined in section MK 1(5) (Tax credits for superannuation contributions) for the purposes of subpart MK (Tax credits for KiwiSaver schemes and complying superannuation funds)
   - **tax file number** means an identification number that the Commissioner has allocated to a person—
     (a) generally for the purposes of this Act; or
     (b) specifically for the purposes of RWT-exempt status under section RE 27 (RWT-exempt status)
