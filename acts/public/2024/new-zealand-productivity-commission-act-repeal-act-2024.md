@@ -1,5 +1,5 @@
 # New Zealand Productivity Commission Act Repeal Act 2024
-_Consolidation as at 2024-02-05_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the New Zealand Productivity Commission Act Repeal Act 2024.
