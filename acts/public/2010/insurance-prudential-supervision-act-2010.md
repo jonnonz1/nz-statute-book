@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -237,7 +237,8 @@ In achieving the purposes of this Act, the Bank must take into account the follo
   (c) is liable as an insurer under a contract of insurance to a New Zealand policyholder.
 (2) A person does not carry on insurance business in New Zealand for the purposes of this Act if the person is—
   (a) a Crown entity within the meaning of section 7(1) of the Crown Entities Act 2004 (for example, the Accident Compensation Corporation or Toka Tū Ake – Natural Hazards Commission); or
-  (b) an entity named in Part 1 of Schedule 1 of the Ombudsmen Act 1975; or
+  (aa) the Bank or a subsidiary of the Bank; or
+  (b) the Crown, or an entity named in Part 1 of Schedule 1 of the Ombudsmen Act 1975; or
   (c) the National Provident Fund Board (as continued in existence under section 12 of the National Provident Fund Restructuring Act 1990) or a subsidiary of the Board; or
   (d) a public entity (within the meaning of section 5(1) of the Public Audit Act 2001) that is declared by regulations to be an entity to which this paragraph applies; or
   (e) an incorporated society or other association of persons that satisfies the criteria specified in subsection (3); or
