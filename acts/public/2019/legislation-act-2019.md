@@ -1,5 +1,5 @@
 # Legislation Act 2019
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Legislation Act 2019.
@@ -1655,6 +1655,9 @@ A failure to comply with this schedule does not invalidate secondary legislation
 | Health and Safety at Work Act 2015 |  |  |  |
 | Section 7(5) |  |  | Exemption applies |
 | Section 8(2) |  |  | Exemption applies |
+| Local Government (Water Services Preliminary Arrangements) Act 2024 |  |  |  |
+| Section 42 |  | Exemption applies | Exemption applies |
+| Section 46 |  | Exemption applies | Exemption applies |
 | Members of Parliament (Remuneration and Services) Act 2013 |  |  |  |
 | Section 8(1) |  | Exemption applies | Exemption applies |
 | Section 17(1) |  | Exemption applies | Exemption applies |
