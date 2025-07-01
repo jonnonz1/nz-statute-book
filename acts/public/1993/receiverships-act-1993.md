@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-07-01_
 
 > An Act to reform the law relating to receivers
 
@@ -557,21 +557,34 @@ The court may, on making an order that removes, or has the effect of removing, a
   (b) make it a condition of the further supply of the service to a receiver or to the owner of property in receivership that payment be made of outstanding charges due for the service in relation to a period before the date of the appointment of the receiver; or
   (c)
 
-**Local authorities**
+**Local authorities and Watercare**
+
+### 40AAA Meaning of Watercare
+In sections 40A to 40E, Watercare means Watercare Services Limited.
 
 ### 40A Instrument may provide for appointment of receiver
-Subject to the Personal Property Securities Act 1999, and without limiting any other rights or remedies of the holder of a charge over any asset of a local authority, an instrument creating or evidencing the terms and conditions of the charge may provide for the appointment of a receiver of such assets in such terms as the parties may agree and the holder of that charge may exercise any such other rights or use any such other remedies.
+Subject to the Personal Property Securities Act 1999, and without limiting any other rights or remedies of the holder of a charge over any asset of a local authority or Watercare, an instrument creating or evidencing the terms and conditions of the charge may provide for the appointment of a receiver of such assets in such terms as the parties may agree and the holder of that charge may exercise any such other rights or use any such other remedies.
 
 ### 40B Power of court to appoint receiver
-(1) Subject to sections 40D and 40E and to subsections (2) and (3), the High Court may, on the application of any creditor of the local authority, appoint a receiver of any asset of a local authority or appoint a receiver for the purposes of section 115 of the Local Government Act 2002.
-(2) An appointment under subsection (1) must be for such period, with such rights, powers, and duties, and on such terms and conditions, including as to security and remuneration, as the court considers appropriate in all the circumstances.
-(3) When considering, in accordance with subsection (2), the terms and conditions upon which a receiver can be appointed by a court pursuant to subsection (1), the court must—
+(1) Subject to sections 40D and 40E and this section, the High Court may,—
+  (a) on the application of any creditor of a local authority, appoint a receiver of any asset of the local authority or appoint a receiver for the purposes of section 115 of the Local Government Act 2002:
+  (b) on the application of any creditor of Watercare, appoint a receiver of any asset of Watercare or appoint a receiver for the purposes of section 60A of the Local Government (Auckland Council) Act 2009.
+(2) An appointment under subsection (1) must be for the period, and with the rights, powers, and duties, and on any terms and conditions, including as to security and remuneration, that the court considers appropriate in all the circumstances.
+(3) When considering, in accordance with subsection (2), the terms and conditions upon which a receiver can be appointed by a court in relation to a local authority, the court must—
   (a) take account of the interests of both the secured and non-secured creditors of the local authority, as against—
     (i) the interests of the local authority itself; and
     (ii) the requirement of the local authority to provide those services that are essential for the maintenance of public health and safety; and
     (iii) the interests of the ratepayers with property within the area of the local authority; and
     (iv) the interests of the general public living within the area of the local authority; and
   (b) take account of the interests of secured creditors as against the interests of non-secured creditors of the local authority.
+(4) When considering, in accordance with subsection (2), the terms and conditions upon which a receiver can be appointed by a court in relation to Watercare, the court must—
+  (a) take account of the interests of both the secured and non-secured creditors of Watercare, as against—
+    (i) the interests of Watercare itself; and
+    (ii) the requirement of Watercare to provide those services that are essential for the maintenance of public health and safety; and
+    (iii) the interests of consumers with property in Auckland; and
+    (iv) the interests of the general public living in Auckland; and
+  (b) take account of the interests of secured creditors as against the interests of non-secured creditors of Watercare.
+(5) In this section, Auckland has the same meaning as in section 4(1) of the Local Government (Auckland Council) Act 2009.
 
 ### 40C Powers and duties of receivers
 (1) A receiver of any asset of a local authority is, as the circumstances and the context permit, affected by the restrictions and responsibilities which by law affect a receiver of a company or of an asset or property or rights of a company as if the local authority were a company.
@@ -581,32 +594,33 @@ Subject to the Personal Property Securities Act 1999, and without limiting any o
   (b) all powers necessary for the recovery of rates levied under section 115 of the Local Government Act 2002 or other revenues are conferred on, and may be exercised by, the receiver.
 
 ### 40D Constraints on receiver
-(1) Despite anything in this Act or in any instrument providing for or governing the appointment of a receiver, a receiver of any asset of a local authority must ensure that no action of the receiver prevents the provision of those services of the local authority that are essential for the maintenance of public health and safety requirements.
+(1) Despite anything in this Act or in any instrument providing for or governing the appointment of a receiver, a receiver of any asset of a local authority or Watercare must ensure that no action of the receiver prevents the provision of those services of the local authority or Watercare that are essential for the maintenance of public health and safety requirements.
 (2) For the purposes of this section,—
   (a) an action of a receiver is deemed not to prevent provision of the services specified in subsection (1) unless—
     (i) that action necessarily results in that outcome; and
     (ii) the outcome is not more fairly attributable to the act, or omission to act, of persons outside the control of the receiver; and
   (b) receiver includes both a receiver and a manager and includes, if persons are appointed jointly or severally as receivers and managers or both jointly and severally as receivers or managers, each of those persons.
-(3) A receiver must distribute the proceeds of collection of the money and assets the receiver is entitled to collect in the following order of priority:and any residue must be paid to, or applied for the benefit of, the local authority, as it may direct.
+(3) A receiver must distribute the proceeds of collection of the money and assets the receiver is entitled to collect in the following order of priority:and any residue must be paid to, or applied for the benefit of, the local authority or Watercare, as it may direct.
   (a) first, the receiver's remuneration, and costs incurred by the receiver and reimbursement of the costs of obtaining appointment of the receiver to any person who has incurred them:
   (b) second, any amounts payable in respect of claims by law to be preferred to claims under any charge over those assets:
   (c) third, any amounts required to be paid out of the proceeds of collection of the money and assets to enable the receiver to provide the services specified in subsection (1):
   (d) fourth, the amounts secured by any charges over those assets in the order of priority accorded those charges, so as to preserve the respective entitlements of the holders of those charges:
   (e) fifth, if the receiver was appointed on the application of an unsecured creditor or unsecured creditors, to those creditors or, as the court may direct, any amounts payable to them,—
-(4) A receiver appointed under section 40A or section 40B(1), in exercising any powers (including those of a manager), is not entitled to control, dispose of, or otherwise interfere with the local authority's ability to exercise or perform its rights, powers, and duties in relation to assets not charged in favour of the appointor of a receiver.
-(5) Subject to subsection (6), if any land vested in a local authority is—the power of disposition that a receiver of that local authority has in respect of that land is limited to a power of disposition by way of lease or licence for a term or terms not exceeding in the aggregate 9 years.
+(4) A receiver appointed under section 40A or section 40B(1), in exercising any powers (including those of a manager), is not entitled to control, dispose of, or otherwise interfere with the local authority's or Watercare’s ability to exercise or perform its rights, powers, and duties in relation to assets not charged in favour of the appointor of a receiver.
+(5) Subject to subsection (6), subsection (5A) applies to any land that is vested in a local authority or Watercare and is—
   (a) a reserve under the Reserves Act 1977; or
-  (b) land over which the local authority has no power of disposition; or
-  (c) land in respect of which the local authority's power of disposition is conditional,—
-(6) The powers of disposition that a receiver has in respect of any land of the kind described in subsection (5)﻿(c) comprise, in addition to the power specified in subsection (5), the same conditional power of disposition as the local authority.
+  (b) land over which the local authority or Watercare has no power of disposition; or
+  (c) land in respect of which the local authority’s or Watercare’s power of disposition is conditional.
+(5A) The power of disposition that a receiver of that local authority or Watercare has in respect of the land is limited to a power of disposition by way of lease or licence for a term or terms not exceeding in the aggregate 9 years.
+(6) The powers of disposition that a receiver has in respect of any land of the kind described in subsection (5)﻿(c) comprise, in addition to the power specified in subsection (5), the same conditional power of disposition as the local authority or Watercare.
 
 ### 40E Protection for receiver
-(1) Subject to subsection (4), no proceedings lie against any receiver of a local authority for breach of section 40D(1)—
+(1) Subject to subsection (4), no proceedings lie against any receiver of a local authority or Watercare for breach of section 40D(1)—
   (a) by the receiver; or
   (b) by any adviser or delegate of the receiver (being an adviser or delegate who has been reasonably selected and reasonably supervised).
-(2) Subject to subsection (4), no proceedings lie against any adviser or delegate of any receiver of a local authority for a breach of section 40D other than at the instance of the receiver.
+(2) Subject to subsection (4), no proceedings lie against any adviser or delegate of any receiver of a local authority or Watercare for a breach of section 40D other than at the instance of the receiver.
 (3) Subject to subsection (4), a receiver (and any adviser or delegate who has been reasonably selected and reasonably supervised, as the case requires), must, in respect of any liability relating to the exercise or purported exercise or omission to exercise any right or power of the receiver by the receiver or the adviser of the receiver or the delegate of the receiver, be indemnified—
-  (a) by the local authority, in the case of a receiver appointed by the High Court under section 40B(1):
+  (a) by the local authority or Watercare, in the case of a receiver appointed by the High Court under section 40B(1):
   (b) out of the assets subject to receivership, in the case of any other receiver but subject to any contrary terms of appointment.
 (4) No person is exempted from liability under subsection (1) or is entitled to be indemnified under subsection (3) for any act or omission to act which constitutes bad faith or gross negligence on the part of that person.
 (5) Nothing in this section limits or affects the provisions of sections 19 and 20.
