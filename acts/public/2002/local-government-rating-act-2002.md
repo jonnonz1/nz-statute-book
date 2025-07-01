@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -232,6 +232,8 @@ For the purposes of section 16(3)﻿(b) and (4)﻿(b), categories of rateable la
 (2) A targeted rate under subsection (1) may be calculated—
   (a) as a fixed charge per unit of water consumed or supplied; or
   (b) according to a scale of charges.
+(3) Subsection (1) does not apply to Auckland Council.
+(4) In subsection (3), Auckland Council means the local authority established by section 6(1) of the Local Government (Auckland Council) Act 2009.
 
 ### 19A Rates not to overlap with targeted rates under Urban Development Act 2020
 (1) This section applies if an Order in Council under section 186 of the Urban Development Act 2020 authorises Kāinga Ora–Homes and Communities (Kāinga Ora) to set targeted rates under that Act for a project area within a local authority’s district.
