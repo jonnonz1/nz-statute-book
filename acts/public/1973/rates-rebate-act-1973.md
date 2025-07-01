@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2025-07-01_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -9,6 +9,7 @@ _Consolidation as at 2024-07-01_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **cardholder** has the meaning given in regulation 282 of the Social Security Regulations 2018
   - **child** means a person under the age of 18 years who is not married or in a civil union or a de facto relationship
   - **dependant** , in relation to any ratepayer, means—
     (a) a child who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, is a child who ordinarily resides on the property in respect of which the rates are payable and is a child—
@@ -58,20 +59,27 @@ _Consolidation as at 2024-07-01_
   - **residential unit** has the same meaning as in section 5 of the Retirement Villages Act 2003
   - **retirement village** has the meaning specified in section 6 of the Retirement Villages Act 2003
   - **spouse** , in relation to any ratepayer, means the wife or husband of the ratepayer, being a wife or husband who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable
+  - **SuperGold Card** has the meaning given in regulation 282 of the Social Security Regulations 2018
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002.
 (2) For the purposes of paragraph (c) of the definition of the term income in subsection (1), any income of any person allowed by any provision of the Income Tax Act 2007 to be spread back or forward or allowed to be apportioned to a financial year earlier or later than that in which it was derived shall be included in the income of that person for the financial year in which it was derived.
 (3) For the purposes of the rating year commencing on 1 July 1990, the expression immediately preceding rating year shall refer,—
   (a) in sections 3(1)﻿(a)﻿(ii) and 4, to the period of 12 months ending on 30 June 1990:
   (b) in section 8(1)﻿(a)﻿(i) and (ii), to the period of 12 months ending on 31 March 1990.
 
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+
 ### 3 Rates rebate
 (1) A ratepayer who, at the commencement of a rating year, was the ratepayer of a residential property is entitled, on application in that year, to a rebate of—whichever amount is smaller.
   (a) so much of the rates payable for that rating year in respect of the property as represents—
     (i) two-thirds of the amount by which those rates exceed $160, reduced by—
-    (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $31,510, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
-  (b) $790,—
+    (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded the ratepayer’s income abatement threshold, the amount of that threshold being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
+  (b) $805,—
+(1AA) For the purposes of subsection (1)﻿(a)﻿(ii), a ratepayer’s income abatement threshold is—
+  (a) $45,000 for a ratepayer who, at the time the ratepayer applies for the rebate, is a SuperGold Card cardholder; or
+  (b) $32,210 for any other ratepayer.
 (1A) A ratepayer who, at the commencement of a rating year, was the ratepayer of a residential property, and later during that year becomes the ratepayer of another residential property, is entitled to a rates rebate under subsection (1). The amount of the rebate must be apportioned according to the amount of time the ratepayer was the ratepayer of each residential property during the rating year.
-(2) The Governor-General may from time to time, by Order in Council, amend the provisions of subsection (1) by substituting any amount for any amount specified in that subsection.
+(2) The Governor-General may from time to time, by Order in Council, amend the provisions of subsection (1) or (1AA) by substituting any amount for any amount specified in that subsection.
 (3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 4 Assessment of income if more than 1 ratepayer
@@ -88,7 +96,11 @@ _Consolidation as at 2024-07-01_
   (b) the amount of that rebate shall be deducted from the total amount of the rates due and payable to that territorial authority in respect of the property for the rating year in which the application is made; and
   (c) the amount then remaining shall be deemed to be the amount of the rates payable in respect of the property to the territorial authority for that rating year:
   provided that the amount of a penalty added under section 57 of the Local Government (Rating) Act 2002 must be calculated as if the rebate had not been granted.
-(6) The chief executive of the territorial authority or other authorised officer shall not be under any obligation to verify the accuracy of any statement as to his income or the income of any other person or as to the occupancy of the property made by any ratepayer in his application for a rebate.
+(6) The chief executive of the territorial authority or other authorised officer is not required to verify a statement about any of the following matters made by a ratepayer in their application for a rebate:
+  (a) the ratepayer’s income:
+  (b) the income of any other person:
+  (c) the occupancy of the property:
+  (d) the ratepayer’s status as a SuperGold Card cardholder.
 
 ### 6 Applications for refunds of rates paid
 (1) Notwithstanding anything in section 5, a ratepayer in respect of any residential property may, instead of claiming from the territorial authority a rates rebate for any year under the said section 5, pay the rates in full and apply under subsection (2) for a refund of the amount that he would have been entitled to receive by way of rebate for that year in respect of those rates in accordance with section 3 if application for a rebate had been made under section 5.
@@ -186,3 +198,10 @@ An application that is required to be verified in writing for the purposes of th
   (b) refuses or fails to comply with any requirement under section 11, or refuses or fails to answer any question put to him pursuant to that section, or knowingly gives any false or misleading answer to any such question.
 (2) Every person who commits an offence against this Act is liable on conviction before a District Court Judge to imprisonment for a term not exceeding 12 months or to a fine not exceeding $500, or to both.
 (3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the facts alleged in the charging document are brought to the knowledge of any officer of the Department of Internal Affairs concerned in the administration of this Act.
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Rates Rebate Amendment Act 2025
+
+### 1 Saving
+A ratepayer’s entitlement to a rebate for a rating year ending before 1 July 2025, and the amount (if any) of that rebate, must be determined as if the Rates Rebate Amendment Act 2025 had not been enacted.
