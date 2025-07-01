@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1970,6 +1970,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Government Superannuation Fund Authority | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Guardians of New Zealand Superannuation |  |  |  |  |  |
 | Heritage New Zealand Pouhere Taonga |  |  |  |  | ✓ |
+| Invest New Zealand |  |  |  |  |  |
 | Museum of New Zealand Te Papa Tongarewa Board |  |  |  |  |  |
 | New Zealand Artificial Limb Service |  |  |  |  |  |
 | New Zealand Film Commission |  |  |  |  | ✓ |
