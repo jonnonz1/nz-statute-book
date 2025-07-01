@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-07-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -5014,7 +5014,8 @@ The acts of a person as a liquidator are valid even though that person does not 
   (f) if the liquidator is a qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013), a member of the governing body of the association of accountants of which the qualified statutory accountant is a member:
   (g) if the liquidator is a barrister and solicitor or a solicitor, the President of the New Zealand Law Society:
   (h) an Official Assignee:
-  (i) the Registrar.
+  (i) the Registrar:
+  (j) the Reserve Bank of New Zealand if the failure to comply concerns section 257 of the Deposit Takers Act 2023.
 (2) No application may be made to a court by a person other than a liquidator in relation to a failure to comply unless notice of the failure to comply has been served on the liquidator not less than 5 working days before the date of the application and, as at the date of the application, there is a continuing failure to comply.
 (3) If the court is satisfied that there is, or has been, a failure to comply, the court may—
   (a) relieve the liquidator of the duty to comply wholly or in part; or
