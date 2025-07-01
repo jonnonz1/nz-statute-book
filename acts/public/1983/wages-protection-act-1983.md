@@ -1,5 +1,5 @@
 # Wages Protection Act 1983
-_Consolidation as at 2022-07-01_
+_Consolidation as at 2025-07-01_
 
 > An Act to consolidate and amend the law relating to the payment of wages and salaries
 
@@ -43,15 +43,19 @@ An employer must not make a deduction under section 5 from wages payable to a wo
 (1) In this section,—
   - **next pay day** , in relation to any overpayment, means the day next following the day on which that overpayment was made upon which the worker to whom it was made would, in the normal course of events, be paid
   - **overpayment** means any wages paid to a worker in respect of a recoverable period
-  - **recoverable period** , in respect of any employer and any worker, means a period in respect of which that employer is not required by law to pay any wages to that worker, by virtue of that worker's having—
+  - **recoverable period** , in respect of any employer and any worker, means a period in respect of which that employer is not required by law to pay any wages or, if the employer is entitled to make a specified pay deduction, any part of any wages to that worker, by virtue of that worker's having—
     (a) been absent from work without that employer's authority; or
     (b) been on strike (within the meaning of section 81 of the Employment Relations Act 2000); or
     (c) been locked out (within the meaning of that subsection); or
-    (d) been suspended.
+    (d) been suspended
+  - **specified pay deduction** has the same meaning as in section 82AA of the Employment Relations Act 2000.
 (2) Notwithstanding anything to the contrary in any collective agreement within the meaning of the Employment Relations Act 2000 but subject to subsection (3), an employer who has made an overpayment to any worker may recover the amount of that overpayment from any wages to the payment of which by that employer that worker subsequently becomes entitled.
 (3) No employer shall recover an overpayment under subsection (2) unless—
   (a) by virtue of the methods or equipment normally used by that employer in arranging the payment of, or paying, wages to the worker concerned, it was not reasonably practicable for that employer to avoid making that overpayment; and
   (b) before recovering that overpayment, that employer gives that worker notice of that employer's intention to recover it; and
+  (ba) in the case of an overpayment that relates to a specified pay deduction, that notice—
+    (i) is given no later than 10 working days after the pay day on which the overpayment was made; and
+    (ii) specifies the method that the employer used to calculate the deduction (being either the method specified in section 95C(1) and (2) of the Employment Relations Act 2000 or the method specified in section 95C(3) of that Act); and
   (ba)
   (c) in the case of any other overpayment, that notice is given—
     (i) not later than 10 days after the next pay day, in the case of a worker who has no fixed workplace:
