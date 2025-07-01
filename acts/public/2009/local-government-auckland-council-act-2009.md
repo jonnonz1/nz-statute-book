@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -26,11 +26,7 @@ The purpose of this Act is—
   - **Auckland** means the area within the boundaries determined by the Local Government Commission under section 33(1) (as that determination is given effect to by Order in Council under section 35(1))
   - **Auckland Council** or means the unitary authority established under section 6
   - **Auckland Transport** means the entity established by section 38
-  - **Auckland water organisation** ,—
-    (a) until 1 July 2015, means Watercare Services Limited; and
-    (b) on and after 1 July 2015, means—
-      (i) the Auckland Council (except in section 61); and
-      (ii) a council-controlled organisation of the Auckland Council that provides water supply or wastewater services, or both, in Auckland
+  - **Auckland water organisation** means Watercare Services Limited, and includes any subsidiary of Watercare Services Limited
   - **governing body** means the entity comprising the members of the Auckland Council (being the persons referred to in section 8(1))
   - **local activities** means the non-regulatory activities of the Auckland Council in respect of which a local board is allocated decision-making responsibility under section 17, including—
     (a) providing services; and
@@ -597,6 +593,57 @@ Auckland Transport must not borrow any funds without the written agreement of th
 
 ## Part 5 — Water supply and wastewater services for Auckland
 
+**Auckland Council**
+
+### 56A Limits on Auckland Council
+(1) The Auckland Council—
+  (a) has no right, title, or interest (legal or equitable) in the assets, security, debts, or liabilities of an Auckland water organisation; and
+  (b) must not receive any equity return, directly or indirectly, from an Auckland water organisation; and
+  (c) must not give an Auckland water organisation any financial support or capital; and
+  (d) must not lend money or provide credit to an Auckland water organisation; and
+  (e) must not give any person any guarantee, indemnity, or security in relation to the performance of any obligation by an Auckland water organisation; and
+  (f) must not direct an Auckland water organisation in relation to any borrowing of any sort by that organisation.
+(2) To avoid doubt, nothing in this section precludes the Auckland Council and an Auckland water organisation entering into a contract for shared services.
+(3) In this section,—
+  - **borrowing** —
+    (a) means the incurring by any means of debt to raise money; and
+    (b) includes the incurring of debt—
+      (i) under any contract or arrangement for hire purchase, deferred payment, instalment payment, sale and lease-back or buy-back, financial lease, loan, overdraft, or other arrangement for obtaining debt finance; or
+      (ii) by the drawing, acceptance, making, endorsement, issue, or sale of bills of exchange, promissory notes, and other negotiable instruments and debt securities; or
+      (iii) by the use, for any purpose, of funds received or invested by the Auckland water organisation for any other purpose if the Auckland water organisation has resolved to repay, with or without interest, the funds used; or
+      (iv) under any contract for services; but
+    (c) does not include debt incurred in connection with the hire purchase of goods, the deferred purchase of goods or services, or the giving of credit for the purchase of goods or services if—
+      (i) the period for which the indebtedness is outstanding is less than 91 days and the indebtedness is not incurred again promptly after payment; or
+      (ii) the goods or services are obtained in the ordinary course of the Auckland water organisation’s performance of its lawful responsibilities, on terms and conditions available generally to parties of equivalent creditworthiness, for amounts not exceeding in aggregate an amount—
+        (A) determined by resolution of the Auckland water organisation as not being so significant as to require specific authorisation; or
+        (B) recorded for the purposes of this subsubparagraph in the then current borrowing management policy of the Auckland water organisation; and
+    (d) does not include a contract for services that is entered into (or that was entered into before this section came into force)—
+      (i) in the ordinary course of the Auckland Council’s or an Auckland water organisation’s performance of its lawful responsibilities; and
+      (ii) on terms and conditions generally available to other parties of equivalent creditworthiness
+  - **capital** includes uncalled capital
+  - **equity return** means—
+    (a) profits of an Auckland water organisation; or
+    (b) distributions from an Auckland water organisation; or
+    (c) any benefit derived, directly or indirectly, from an Auckland water organisation that represents, is calculated by reference to, or is determined by—
+      (i) a share in or proportion of an Auckland water organisation’s capital; or
+      (ii) an Auckland water organisation’s surplus or residual economic value (after satisfying prior contractual claims); or
+      (iii) an Auckland water organisation’s profitability or any other indicator of its success
+  - **give financial support or capital** does not include to enter into any contract for services to sell or supply goods or services on credit—
+    (a) in the ordinary course of the Auckland Council’s, or an Auckland water organisation’s, performance of its lawful responsibilities; and
+    (b) on terms and conditions generally available to other parties of equivalent creditworthiness
+  - **lend money or provide credit** —
+    (a) includes, without limiting the generality of that expression,—
+      (i) to defer payment for any goods or services supplied or works constructed for any person, organisation, or government; and
+      (ii) to enter into hire purchase agreements or agreements that are of the same or a substantially similar nature; and
+      (iii) to enter into finance lease arrangements or arrangements that are of the same or a substantially similar nature; and
+      (iv) to subscribe for any debt securities or uncalled capital; but
+    (b) does not include to enter into any contract for services to sell or supply goods or services on credit—
+      (i) in the ordinary course of the Auckland Council’s, or an Auckland water organisation’s, performance of its lawful responsibilities; and
+      (ii) on terms and conditions generally available to other parties of equivalent creditworthiness
+  - **security** has the meaning set out in section 6(1) of the Financial Markets Conduct Act 2013.
+
+**Auckland water organisations**
+
 ### 57 Obligations of Auckland water organisation
 (1) An Auckland water organisation—
   (a) must manage its operations efficiently with a view to keeping the overall costs of water supply and waste-water services to its customers (collectively) at the minimum levels consistent with the effective conduct of its undertakings and the maintenance of the long-term integrity of its assets; and
@@ -609,10 +656,23 @@ Auckland Transport must not borrow any funds without the written agreement of th
   (b) accepting a transfer of eligible infrastructure under section 90 of that Act; or
   (c) contributing funding to the construction of eligible infrastructure that has been, or is intended to be, transferred to that organisation under that section.
 
+### 57A Auckland water organisation must repay debt to Auckland Council
+(1) If, on the date on which this section comes into force, an Auckland water organisation owes a debt to the Auckland Council in respect of water services infrastructure, the Auckland water organisation must repay that debt, including any interest payable.
+(2) An Auckland water organisation must repay a debt under subsection (1) despite anything in section 56A.
+(3) The repayment—
+  (a) may be made by instalments; but
+  (b) must be paid in full no later than the close of the day that is 5 years after this section comes into force.
+
+### 57B Repeal of section 57A
+This section and section 57A are repealed on the date that is 5 years after this section comes into force.
+
 ### 58 Auckland water organisation must give effect to LTP and act consistently with other specified plans and strategies of Council
 (1) An Auckland water organisation must give effect to the relevant aspects of the LTP.
 (2) An Auckland water organisation must act consistently with the relevant aspects of any other plan (including a local board plan) or strategy of the Council to the extent specified in writing by the governing body of the Council.
 (3) However, nothing in this section or section 92 authorises non-compliance with section 57 by an Auckland water organisation.
+(4) This section is subject to—
+  (a) section 84(2) (effect of charter) of the Local Government (Water Services Preliminary Arrangements) Act 2024; and
+  (b) section 56A (limits on Auckland Council) of this Act.
 
 ### 59 Auckland water organisation may occupy certain Crown land without charge
 (1) An Auckland water organisation is not required to pay rent to the Crown in relation to any land in an Auckland harbour on, over, or under which an existing wastewater asset is constructed or laid.
@@ -623,6 +683,21 @@ Auckland Transport must not borrow any funds without the written agreement of th
 For the purposes of the Public Works Act 1981,—
   (a) an Auckland water organisation that is not a local authority is to be treated as if it were a local authority; and
   (b) a work authorised under this Part and undertaken by an Auckland water organisation that is not a local authority is to be treated as if it were a local work.
+
+### 60A Charges as security
+(1) This section applies if—
+  (a) an Auckland water organisation has granted a security interest over a charge or charging regime revenue as security for a loan or the performance of any obligations under an incidental arrangement; and
+  (b) a receiver has been appointed under section 40A or 40B of the Receiverships Act 1993 in respect of that loan or arrangement; and
+  (c) the Crown monitor has been informed of the appointment.
+(2) The receiver may, without further authority than this section, assess and collect in each financial year a charge under this section to recover sufficient funds to meet—
+  (a) the payment of the Auckland water organisation’s commitments in respect of the loan or incidental arrangement during that year; and
+  (b) the reasonable costs of administering, assessing, and collecting the charge.
+(3) However, a receiver may not create, or receive, any interest or security in water services infrastructure.
+(4) A charge under this section must be assessed as a uniform charge in the dollar on the water services charges of a property—
+  (a) in Auckland; or
+  (b) if the Auckland water organisation resolved that, at the time when the loan was being raised or the incidental arrangement was being entered into, it was for the benefit of only a specified area, that area.
+(5) A charge under this section over any 1 or more of the assets of an Auckland water organisation is subject to section 40D(5) and (6) of the Receiverships Act 1993.
+(6) In this section, Crown monitor means a Crown monitor appointed under section 72 of the Local Government (Water Services Preliminary Arrangements) Act 2024.
 
 **Auckland water organisation may propose bylaws**
 
@@ -911,6 +986,9 @@ Schedule 2 applies to the board.
 ### 92 Substantive council-controlled organisations must give effect to LTP and act consistently with other specified plans and strategies of Council
 (1) Each substantive council-controlled organisation must give effect to the relevant aspects of the LTP.
 (2) Each substantive council-controlled organisation must act consistently with the relevant aspects of any other plan (including a local board plan) or strategy of the Council to the extent specified in writing by the governing body of the Council.
+(3) This section is subject to—
+  (a) section 84(2) (effect of charter) of the Local Government (Water Services Preliminary Arrangements) Act 2024; and
+  (b) section 56A (limits on Auckland Council) of this Act.
 
 ### 93 Councillors and local board members prohibited from appointment as directors of substantive council-controlled organisations
 (1) The Council must not appoint a person to be a director of a substantive council-controlled organisation if the person is, at the time of the appointment,—
