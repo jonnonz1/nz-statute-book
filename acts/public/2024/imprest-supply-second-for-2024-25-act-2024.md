@@ -1,5 +1,5 @@
 # Imprest Supply (Second for 2024/25) Act 2024
-_Consolidation as at 2024-09-30_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Imprest Supply (Second for 2024/25) Act 2024.
