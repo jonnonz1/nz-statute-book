@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2025-02-25_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -2105,6 +2105,7 @@ The Minister may only make a disposal order or a recommendation that a person be
   (b) the Department of Internal Affairs:
   (c) the Department of the Prime Minister and Cabinet:
   (d) the Inland Revenue Department:
+  (da) Invest New Zealand:
   (e) Land Information New Zealand:
   (f) the Ministry of Business, Innovation, and Employment:
   (g) the Ministry of Defence:
