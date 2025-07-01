@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2025-01-20_
+_Consolidation as at 2025-07-01_
 
 > Title
 
@@ -161,6 +161,8 @@ Parental leave payment threshold test
   (b) a self-employed person meets the parental leave payment threshold test if he or she will have been self-employed for at least an average of 10 hours a week for any 26 of the 52 weeks immediately preceding—
     (i) the expected date of delivery of the child (in the case of a child to be born to the self-employed person or his or her spouse or partner); or
     (ii) the first date on which the self-employed person, or his or her spouse or partner becomes the primary carer in respect of the child (in any other case).
+(5) Section 72A applies to the parental leave payment threshold test if it is necessary to ascertain whether the employee meets the requirements of the duration of employment specified in subsection (4)﻿(a).
+(6) Section 71CB applies to the parental leave payment threshold test if it is necessary to ascertain whether the self-employed person meets the requirements of the duration of self-employment specified in subsection (4)﻿(b).
 
 **Application of Act**
 
@@ -235,6 +237,7 @@ An employee shall not be entitled to parental leave in respect of a child by vir
   (a) on a date specified, pursuant to section 13(1), in a certificate; or
   (b) on a date appointed, pursuant to section 14, by her employer,—
 (3) A period of primary carer leave in excess of 26 weeks taken by a female employee under subsection (2) is to be treated as primary carer leave for the purposes of this Act, but must not be taken into account in assessing under section 26 any period of extended leave to which the female employee or her spouse or partner may be entitled under this Act.
+(4) Any week in relation to which a preterm baby payment is made to a person is in addition to, and must not be counted when determining, the duration of primary carer leave under this section.
 
 ### 10 Date of commencement of primary carer leave
 Primary carer leave begins,—
@@ -352,6 +355,7 @@ Partner’s leave may, by agreement between the employee and his or her employer
 (3) If an employee takes primary carer leave in respect of a child, the period of extended leave to which the employee and his or her spouse or partner are entitled in respect of the child is the relevant period specified in subsection (1) or (2) reduced by the total period of primary carer leave taken, excluding any period of primary carer leave in excess of 26 weeks taken under section 9(2).
 (4) If a female employee takes special leave under section 15, the period of extended leave to which that female employee or her spouse or partner is entitled in accordance with this Act is not reduced.
 (5) If an employee takes a period of partner’s leave, the period of extended leave to which the employee and his or her spouse or partner are entitled in accordance with this Act is not reduced.
+(5A) Any week in relation to which a preterm baby payment is made to a person is in addition to, and must not be counted when determining, the duration of extended leave under this section.
 (6) The period of extended leave to which an employee and his or her spouse or partner are entitled is not increased by the number of hours worked by the employee or his or her spouse or partner on a keeping-in-touch day in accordance with section 71CE(2) or 71DB(2).
 (7) This section is subject to the other provisions of this Act.
 
@@ -1030,6 +1034,7 @@ In this Part, a self-employed person is not to be treated as having returned to 
   (a) the person has previously received parental leave payments in respect of that child; or
   (b) the person’s spouse or partner has previously received parental leave payments in respect of that child (unless the person’s entitlement arises from a transfer under section 71E or by succession under section 72B).
 (2A) Subsection (2) does not apply to a person who is a primary carer under section 7(1)﻿(b)﻿(iii).
+(2B) Despite subsection (1), a person who is the primary carer under section 7(1)﻿(c) is entitled to a parental leave payment under this Part if the person stops working as an eligible employee or an eligible self-employed person within a reasonable period after becoming the primary carer.
 (3) This section is subject to sections 71F to 71IA (restrictions on parental leave payments and making an application for payment).
 
 **Entitlement to preterm baby payments**
@@ -1140,6 +1145,7 @@ A person is not entitled to a parental leave payment in respect of a child if—
   (a) for 1 continuous period not exceeding 26 weeks; or
   (b) if part of the entitlement is transferred under section 71E, for 1 continuous period per person, so long as the 2 continuous periods do not together exceed 26 weeks.
 (2) This section is subject to section 71DA(5)﻿(b) (which applies to a person who becomes entitled to a preterm baby payment while receiving a parental leave payment).
+(3) Any week in relation to which a preterm baby payment is made to a person is in addition to, and must not be counted when determining, the duration of parental leave payment under this section.
 
 ### 71K Start of parental leave payment
 (1) A parental leave payment in respect of a child is payable for a period that begins—
@@ -1147,15 +1153,14 @@ A person is not entitled to a parental leave payment in respect of a child if—
     (i) the date the person commences parental leave; and
     (ii) the date of confinement; and
   (b) in any other case, on the date on which the person becomes the primary carer in respect of the child.
-(2) Despite subsection (1),—
-  (a) an employee who takes a period of paid leave at the start of his or her parental leave period may elect to start his or her parental leave payment period on the day after the date on which that period of paid leave ends:
-  (b) if a person becomes entitled to a preterm baby payment under section 71DA(1) and that person’s parental leave payment period has not begun, subsection (3) applies instead of subsection (1).
-(3) If this subsection applies, the period in relation to which a parental leave payment is payable to the person in respect of the child does not begin until the earlier of—
-  (a) the date the person commences parental leave; and
-  (b) the original expected date of delivery, had the child not been born prematurely.
-(4) Despite subsections (1) to (3), in the case of a person who is a primary carer under section 7(1)﻿(b)﻿(iii), the parental leave payment period begins,—
-  (a) if the person is an employee who takes a period of paid leave at the start of his or her parental leave period, on the day after the date on which that period of paid leave ends, if the person so elects; and
-  (b) otherwise, on the date that the person designates, which must be on, or within a reasonable period after, the date on which the person becomes the primary carer in respect of the child.
+(2) However,—
+  (a) if a person becomes entitled to a preterm baby payment under section 71DA(1) before their parental leave payment period has begun, the period in relation to which the parental leave payment is payable to the person in respect of the child begins on the earlier of—
+    (i) the date on which the person commences parental leave:
+    (ii) the original expected date of delivery had the child not been born prematurely:
+  (b) if a person is a primary carer under section 7(1)﻿(b)﻿(iii), the parental leave payment period begins on the date that the person designates, which must be, or be within a reasonable period after, the date on which the person becomes the primary carer in respect of the child:
+  (c) if a person is the primary carer under section 7(1)﻿(c), the parental leave payment period begins on the day after the date on which the person stops working as an eligible employee or an eligible self-employed person, which must be, or be within a reasonable period after, the date on which the person becomes the primary carer in respect of the child.
+(3) Despite subsections (1) and (2), an employee who takes a period of paid leave at the start of his or her parental leave period may elect to start his or her parental leave payment period on the day after the date on which that period of paid leave ends.
+(4)
 
 ### 71L End of parental leave payment
 (1) A parental leave payment is payable to a person in respect of a child for a period that ends on the earlier of—
@@ -1174,16 +1179,16 @@ A person is not entitled to a parental leave payment in respect of a child if—
 
 ### 71M Amount of parental leave payment
 (1) The rate of parental leave payment payable to any eligible employee is the lesser of—
-  (a) $754.87 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
+  (a) $788.66 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
   (b) the greater of—
     (i) 100% of the employee's ordinary weekly pay before the commencement of the parental leave payments; and
     (ii) 100% of the employee's average weekly income from work.
 (1A) The rate of parental leave payment payable to any eligible self-employed person is the lesser of—
-  (a) $754.87 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
+  (a) $788.66 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
   (b) the greater of—
     (i) 100% of the self-employed person's average weekly income from work; and
     (ii) the minimum amount of parental leave payment for a self-employed person set under section 71N(4).
-(1B) The rate of parental leave payment payable to a person who is eligible for a parental leave payment as an employee and also as a self-employed person may not exceed $754.87 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O), despite subsections (1) and (1A).
+(1B) The rate of parental leave payment payable to a person who is eligible for a parental leave payment as an employee and also as a self-employed person may not exceed $788.66 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O), despite subsections (1) and (1A).
 (2)
 
 ### 71N Annual adjustment of parental leave payment rates
