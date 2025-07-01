@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2025-04-01_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -409,7 +409,7 @@ A person may opt in at any time provided—
 
 ### 35 Opting in by persons under 18
 (1) A person who is less than 18 years may only opt in in accordance with this section.
-(2) A person who is less than 16 years may opt in if all their guardians contract directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as—
+(2) A person who is less than 16 years may opt in if a guardian contracts directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as—
   (a) contracting directly with the provider; and
   (b) 18 years for the purposes of subpart 6 of Part 2 of the Contract and Commercial Law Act 2017; and
   (c) opting in under section 34(1)﻿(a).
@@ -2379,6 +2379,11 @@ Non-compliance with an enactment related to securities is ignored if the non-com
   (a) results from the enactment of sections 39, 48, 50, 83, 103(1) and (3), 148, 167, and 188 of the Taxation (KiwiSaver, Student Loans, and Remedial Matters) Act 2020; and
   (b) relates to a product disclosure statement, or to information lodged on the relevant disclosure register, under the Financial Markets Conduct Act 2013; and
   (c) comes to an end before 31 January 2021.
+
+### 244 Protection for non-compliance: Taxation (Budget Measures) Act 2025
+Non-compliance with financial markets legislation, as defined in section 6(1) of the Financial Markets Conduct Act 2013, or the Fair Trading Act 1986 is ignored if the non-compliance results from the enactment of sections 9 to 13, 14(2) and (5), 18 to 24, 26, and 28 of the Taxation (Budget Measures) Act 2025 and—
+  (a) the non-compliance does not continue on or after 1 November 2025; or
+  (b) the non-compliance relates to a product disclosure statement or other disclosure document, as defined in section 6(1) of the Financial Markets Conduct Act 2013, and does not continue on or after 1 January 2026.
 
 ## Schedule 1AA — Transitional, savings, and related provisions
 
