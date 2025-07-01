@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2025-04-01_
+_Consolidation as at 2025-07-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -4032,7 +4032,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
     (i) 30 June of the member credit year; or
     (ii) the day in the member credit year that is before the person ceases to be a member of the fund provider's fund or scheme due to permitted withdrawals other than transfers; and
   (b) is reasonably satisfied of the number of days in the member credit year on which the person resides mainly in New Zealand; and
-  (c) has no knowledge that the person does not meet the requirements of section MK 2(1)﻿(a) to (c), and (d)﻿(i) and (ii) of that Act for any part of the member credit year.
+  (c) has no knowledge that the person does not meet the requirements of section MK 2(1)﻿(a) to (c), (cc), and (d)﻿(i) and (ii) of that Act for any part of the member credit year.
 (3) The fund provider must claim a tax credit for the person for the member credit year by furnishing to the Commissioner a member credit claim in relation to the person, in the form prescribed by the Commissioner. The member credit claim must—
   (a) contain the person's name, address, and (if known) tax file number, the amount of the person's member credit contributions for the member credit year, and any other information that the Commissioner may require.
   (b)
