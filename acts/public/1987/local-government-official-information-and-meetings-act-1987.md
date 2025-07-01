@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-07-01_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -9,6 +9,7 @@ _Consolidation as at 2025-04-05_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **climate change** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **department** means a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975 (other than the Parliamentary Counsel Office)
   - **document** means a document in any form, and includes—
     (a) any writing on any material:
@@ -28,6 +29,7 @@ _Consolidation as at 2025-04-05_
     (c) any committee or subcommittee or standing committee or special committee or joint standing committee or joint special committee which the local authority is empowered to appoint under its standing orders or rules of procedure or under any enactment or Order in Council constituting the local authority or regulating its proceedings; and
     (d) a committee of the whole local authority
   - **member** , in relation to a local authority, means any person elected or appointed to that local authority or to any committee or subcommittee of that local authority, and includes the presiding member of that local authority or of any committee or subcommittee of that local authority
+  - **natural hazard** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **official information** —
     (a) means any information held by a local authority; but
     (b) does not include—
@@ -48,9 +50,12 @@ _Consolidation as at 2025-04-05_
     (b) is published in at least—
       (i) 1 daily newspaper circulating in the region or district of the local authority; or
       (ii) 1 or more other newspapers that have a combined circulation in that region or district at least equivalent to that of a daily newspaper circulating in that region or district
+  - **regional council** has the meaning given in section 5(1) of the Local Government Act 2002
+  - **regulations** means regulations made under section 55
   - **statutory officer** means a person—
     (a) holding or performing the duties of an office established by an enactment; or
     (b) performing duties expressly conferred on that person by virtue of that person's office by an enactment
+  - **territorial authority** has the meaning given in section 5(1) of the Local Government Act 2002
   - **working day** means any day of the week other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
@@ -74,7 +79,8 @@ The purposes of this Act are—
     (i) to enable more effective participation by the public in the actions and decisions of local authorities; and
     (ii) to promote the accountability of local authority members and officials,—
   (b) to provide for proper access by each person to official information relating to that person:
-  (c) to protect official information and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy.
+  (c) to protect official information and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy:
+  (d) to provide for the issue of land information memoranda.
 
 ## Part 1 — Access to local authority information
 
@@ -475,14 +481,17 @@ Except as expressly provided in this Act, nothing in this Act shall derogate fro
     (i) imposes a prohibition or restriction in relation to the availability of official information; or
     (ii) regulates the manner in which official information may be obtained or made available.
 
+## Part 6A — Land information memoranda
+
 **Land information memoranda**
 
 ### 44A Land information memorandum
 (1) A person may apply to a territorial authority for the issue, within 10 working days, of a land information memorandum in relation to matters affecting any land in the district of the authority.
 (2) The matters which shall be included in that memorandum are—
-  (a) information identifying each (if any) special feature or characteristic of the land concerned, including but not limited to potential erosion, avulsion, falling debris, subsidence, slippage, alluvion, or inundation, or likely presence of hazardous contaminants, being a feature or characteristic that—
+  (a) the information about natural hazards that is required by section 44B:
+  (aa) information about other special features or characteristics of the land concerned, including information about the likely presence of hazardous contaminants, that—
     (i) is known to the territorial authority; but
-    (ii) is not apparent from the district scheme under the Town and Country Planning Act 1977 or a district plan under the Resource Management Act 1991:
+    (ii) is not apparent from a district plan under the Resource Management Act 1991:
   (b) information on private and public stormwater and sewerage drains as shown in the territorial authority's records:
   (ba)
   (bb) information on—
@@ -510,6 +519,32 @@ Except as expressly provided in this Act, nothing in this Act shall derogate fro
 (4) An application for a land information memorandum shall be in writing and shall be accompanied by any charge fixed by the territorial authority in relation thereto.
 (5) In the absence of proof to the contrary, a land information memorandum shall be sufficient evidence of the correctness, as at the date of its issue, of any information included in it pursuant to subsection (2).
 (6) Notwithstanding anything to the contrary in this Act, there shall be no grounds for the territorial authority to withhold information specified in terms of subsection (2) or to refuse to provide a land information memorandum where this has been requested.
+
+### 44B Natural hazard information to be included in land information memoranda
+(1) The purpose of this section is to ensure that land information memoranda contain understandable information about the following in relation to land:
+  (a) natural hazards:
+  (b) impacts of climate change that exacerbate natural hazards.
+(2) A land information memorandum must include—
+  (a) information that identifies the following, to the extent that the information is known to the territorial authority:
+    (i) each natural hazard, and each impact of climate change that exacerbates natural hazards, that affects the land concerned:
+    (ii) each potential natural hazard, and each potential impact of climate change that exacerbates natural hazards, to the extent that the territorial authority is satisfied that there is a reasonable possibility that the hazard or impact may affect the land concerned (whether now or in the future):
+    (iii) the cumulative or combined effects of the hazards and impacts referred to in subparagraphs (i) and (ii) on the land concerned; and
+  (b) any further information required by the regulations to make the information provided under paragraph (a) more understandable.
+(3) The information must be summarised and presented in the land information memorandum in the form required by the regulations (if any).
+
+### 44C Regional council must provide territorial authority with natural hazard information
+(1) A regional council must, as soon as is reasonably practicable in the circumstances, provide to a territorial authority within or partly within its region—
+  (a) information that identifies the following, to the extent that the information is known to the regional council:
+    (i) each natural hazard, and each impact of climate change that exacerbates natural hazards, that affects land in the territorial authority’s district:
+    (ii) each potential natural hazard, and each potential impact of climate change that exacerbates natural hazards, to the extent that the regional council is satisfied that there is a reasonable possibility that the hazard or impact may affect land in the territorial authority’s district (whether now or in the future):
+    (iii) the cumulative or combined effects of the hazards and impacts referred to in subparagraphs (i) and (ii) on land in the territorial authority’s district; and
+  (b) any further information required by the regulations to make the information provided under paragraph (a) more understandable.
+(2) The information must be summarised and presented in the form required by the regulations (if any).
+
+### 44D Territorial authority and regional council protected against certain actions when providing information in good faith
+A territorial authority or regional council is not liable in civil or criminal proceedings for making available in good faith,—
+  (a) in the case of a territorial authority, information in a land information memorandum under section 44A(2)﻿(a); or
+  (b) in the case of a regional council, information to a territorial authority under section 44C.
 
 ## Part 7 — Local authority meetings
 
@@ -662,6 +697,10 @@ Any provisions in any enactment in relation to attendance by the public at any m
   (a) prescribing forms of applications and other documents required for the purposes of this Act, or authorising any person to prescribe or approve such forms:
   (b) prescribing reasonable charges or scales of reasonable charges for the purposes of this Act:
   (c) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(1A) The Minister must not recommend that regulations be made for the purposes of Part 6A unless they have consulted—
+  (a) each regional council and territorial authority that the Minister considers may be affected by the proposed regulations; and
+  (b) the persons and organisations that the Minister considers appropriate to consult.
+(1B) However, the Minister is not required to consult the entities set out in subsection (1A)﻿(a) if satisfied that a proposed amendment to regulations has no more than a minor effect, corrects errors, or makes similar technical alterations.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 56 Power to amend Schedules 1 and 2 by Order in Council
