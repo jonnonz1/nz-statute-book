@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -1331,7 +1331,7 @@ Subject to any agreement entered into between them, if a Civil Defence Emergency
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 115A Permanent legislative authority for payment of certain expenses
-The Crown may, without further appropriation than this section, incur expenses to reimburse a local authority for, or to pay public money for the purpose of meeting, expenses incurred by a local authority in connection with an emergency if the expenses—
+The Crown may, without further appropriation than this section, incur expenses to reimburse a local authority or Watercare Services Limited for, or to pay public money for the purpose of meeting, expenses incurred by a local authority or Watercare Services Limited in connection with an emergency if the expenses—
   (a) are incurred in respect of civil defence emergency management activities; and
   (b) meet the criteria for being reimbursed or paid in a Government policy that was in force before the emergency occurred.
 
