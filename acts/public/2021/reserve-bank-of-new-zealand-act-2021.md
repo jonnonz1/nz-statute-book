@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 2021
-_Consolidation as at 2025-04-01_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Reserve Bank of New Zealand Act 2021.
@@ -1988,6 +1988,7 @@ Before the start of each financial year, the Bank must prepare a statement of pe
   (l) information about how the board has complied with section 49 (which requires the board to have regard to the financial policy remit when acting in relation to the Bank’s prudential strategic intentions and prudential standards); and
   (m) a statement as to whether, in the board’s opinion, the MPC and the members of the MPC have adequately discharged their respective responsibilities during the financial year (see section 99); and
   (n) a description of how the board has assessed the matter under paragraph (m); and
+  (na) the financial statements of the depositor compensation fund, and the statement of responsibility and audit report for those statements, required under subpart 9 of Part 6 of the Deposit Takers Act 2023; and
   (o) any matters that relate to or affect the Bank’s operations that the Bank is otherwise required, or has undertaken, or wishes to report on in its annual report.
 (2) The annual report must provide the information that is necessary to enable an informed assessment to be made of the Bank’s operations and performance for that financial year, including an assessment of the Bank’s progress in relation to its strategic intentions as set out in the most recent statement of intent.
 (3) An annual report must be in writing, be dated, and be signed on behalf of the board by 2 members.
@@ -2057,6 +2058,7 @@ The statement of responsibility must—
 (2) This subpart—
   (a) must be read as if it required a statement or report to include consolidated information in respect of the Bank group, rather than information in respect of the Bank only; and
   (b) otherwise applies with any necessary modifications.
+(2A) This section is subject to section 256 of the Deposit Takers Act 2023, which provides for consolidation of financial information about the Depositor Compensation Fund only if consolidation is required by applicable financial reporting standards.
 (3) In this section,—
   - **relevant time** , in relation to a statement or report, means—
     (a) the end of the period to which the statement or report relates; or
