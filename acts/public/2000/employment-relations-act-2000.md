@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2025-05-14_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -2289,6 +2289,7 @@ The object of this Part is—
   (a) to recognise that the requirement that a union and an employer must deal with each other in good faith does not preclude certain strikes and lockouts being lawful (as defined in this Part); and
   (b) to define lawful and unlawful strikes and lockouts; and
   (ba) to provide notice requirements for all strikes and lockouts; and
+  (bb) to provide for specified pay deductions, including how the amount of such deductions must be calculated; and
   (bb)
   (c) to ensure that where a strike or lockout is threatened in an essential service, there is an opportunity for a mediated solution to the problem.
 
@@ -2320,6 +2321,19 @@ The object of this Part is—
     (i) accept terms of employment; or
     (ii) comply with demands made by the employer.
 (2) In this Act, to lock out means to become a party to a lockout.
+
+### 82AA Meaning of partial strike and specified pay deduction
+In this Act,—
+  - **partial strike** means a strike in which the employees who are party to the strike do one or both of the following:
+    (a) continue to perform some work for their employer or employers during the strike instead of wholly discontinuing their employment during the strike, and includes, without limitation,—
+      (i) a partial discontinuance of work through a refusal or failure to accept engagement for work that forms part of the employees’ normal duties:
+      (ii) a reduction in the employees’ normal performance of work, normal output, or normal rate of work:
+    (b) break their employment agreement, whether or not the act involves any reduction in the employees’ normal duties, normal performance of work, normal output, or normal rate of work
+  - **specified pay deduction** means a deduction—
+    (a) made, or to be made, from an employee’s salary or wages in accordance with section 95A; and
+    (b) calculated—
+      (i) in accordance with section 95C(1) and (2); or
+      (ii) by imposing a flat rate of 10% under section 95C(3).
 
 **Lawfulness of strikes and lockouts**
 
@@ -2397,7 +2411,9 @@ Participation in a strike or lockout is lawful if the employees who strike have,
   (a) be in writing; and
   (b) specify the following information:
     (i) the period of notice given; and
-    (ii) the nature of the proposed strike, including whether or not it will be continuous; and
+    (ii) the nature of the proposed strike, including—
+      (A) whether or not the proposed action will be continuous; and
+      (B) whether or not the employees will continue to perform some work for their employer while undertaking the proposed action; and
     (iii) the place or places where the proposed strike will occur; and
     (iv) the date and time on which the strike will begin; and
     (v) the date and time on which, or an event on the occurrence of which, the strike will end.
@@ -2468,7 +2484,9 @@ Where an employer suspends an employee under section 87 or section 88, the emplo
   (a) the period of notice, being a period that is—
     (i) no less than 14 days in the case of an essential service described in Part A of Schedule 1; and
     (ii) no less than 3 days in the case of an essential service described in Part B of Schedule 1; and
-  (b) the nature of the proposed strike, including whether or not the proposed action will be continuous; and
+  (b) the nature of the proposed strike, including—
+    (i) whether or not the proposed action will be continuous; and
+    (ii) whether or not the employees will continue to perform some work for their employer while undertaking the proposed action; and
   (c) the place or places where the proposed strike will occur; and
   (d) the date and time on which the strike will begin; and
   (e) the date and time on which, or an event on the occurrence of which, the strike will end.
@@ -2510,7 +2528,9 @@ Where the chief executive receives a notice of intention to strike or lock out u
   (b) without the employee's union giving his or her employer notice in writing of the employee's intention to strike.
 (2) The notice required by subsection (1) must specify—
   (a) the period of notice, being a period of not less than 24 hours; and
-  (b) the nature of the proposed strike, including whether or not the proposed action will be continuous; and
+  (b) the nature of the proposed strike, including—
+    (i) whether or not the proposed action will be continuous; and
+    (ii) whether or not the employees will continue to perform some work for their employer while undertaking the proposed action; and
   (c) the particular passenger road service or passenger rail service that will be affected by the strike; and
   (d) the date and time on which the strike will begin; and
   (e) the date and time on which, or an event on the occurrence of which, the strike will end.
@@ -2550,6 +2570,95 @@ Where the chief executive receives a notice of intention to strike or lock out u
 (2) A lockout notice given under section 86B, 91, or 94 may be withdrawn at any time by the employer or a representative of the employer giving written notice of the withdrawal to—
   (a) the employees' union or unions; and
   (b) the chief executive.
+
+**Specified pay deductions in relation to partial strike**
+
+### 95A Employer may make specified pay deductions in relation to partial strike
+(1) If there is a partial strike, the employer may make a specified pay deduction from the salary or wages of an employee who is a party to the strike.
+(2) However, the employer must not make a specified pay deduction—
+  (a) if the partial strike is lawful on the grounds referred to in section 84 (which relates to lawful strikes on the grounds of safety or health); or
+  (b) if—
+    (i) the employee is paid by piece work; and
+    (ii) the partial strike results in the employee reducing their normal output; or
+  (c) in respect of any period of the partial strike that involves—
+    (i) a refusal to work overtime; or
+    (ii) a refusal to perform call-out work if the employee would otherwise receive a special payment for performing that work.
+(3) Before making any deduction, the employer must comply with the notice requirements in section 95B.
+(4) The amount of the deduction must be calculated in accordance with section 95C.
+(5) To avoid doubt, a deduction under this section—
+  (a) may relate only to the employee’s salary or wages that are payable for the day of the partial strike or the period of the partial strike (whichever applies under section 95C):
+  (b) does not require an employer to have suspended or locked out the employee.
+
+### 95B Notice of specified pay deduction
+(1) If an employer intends to make specified pay deductions in relation to a partial strike, the employer must give notice to each employee who is, or will be, party to the strike that the employer will make those deductions.
+(2) A notice under subsection (1) may be given only if the employer has received notice of the partial strike in accordance with this Part or section 589 of the Education and Training Act 2020 (whichever applies).
+(3) A notice under subsection (1) must—
+  (a) be in writing; and
+  (b) specify the relevant pay period or relevant pay periods in respect of which the employer will make a deduction; and
+  (c) be given—
+    (i) as soon as is reasonably practicable; and
+    (ii) before the first deduction is made or the end of the first relevant pay period specified under paragraph (b) (whichever comes first).
+(4) If 2 or more of the employer’s employees are parties to a partial strike, the employer may, instead of giving notice to each of those employees, give notice under this section by—
+  (a) providing a single notice to all those employees or their union; or
+  (b) providing a notice to each of those employees, with the same wording in each notice.
+(5) To avoid doubt,—
+  (a) an employer may choose the method of giving notice under this section:
+  (b) the validity of a notice is not affected merely because it is also given to employees who are not subject to the specified pay deduction (for example, non-striking employees):
+  (c) if the partial strike continues over more than 1 pay period, the employer is not required to give notice more than once:
+  (d) a notice under this section is not required to specify the amount or proportion of a specified pay deduction:
+  (e) the validity of a notice is not affected if the employer recovers a specified pay deduction as an overpayment under section 6 of the Wages Protection Act 1983.
+(6) In this section, relevant pay period means a pay period within which an employee will, in the normal course of events, be paid for a period within which a partial strike, or part of a partial strike, occurred.
+
+### 95C Calculation of specified pay deduction
+(1) An employer must calculate the amount of a specified pay deduction by—
+  (a) ascertaining, for the employee or group of employees, the usual hours of work for the day of the partial strike (which may be by reference to information contained in the wages and time record, the employment agreement, or a roster or any other document or record used in the normal course of the employee’s employment); and
+  (b) identifying the work that the employee or employees will not be performing because of that strike (which must be by reference to the information contained in the relevant strike notice); and
+  (c) estimating how much time the employee or employees would, but for the strike, have spent performing the work referred to in paragraph (b) on the day of the strike; and
+  (d) calculating the time referred to in paragraph (c) as a percentage of the employee’s or employees’ usual hours of work (as ascertained for the purposes of paragraph (a)).
+(2) The percentage referred to in subsection (1)﻿(d) is the percentage of the employee’s or employees’ salary or wages that may be deducted.
+(3) However, despite subsections (1) and (2), an employer may, instead of calculating and applying a deduction in accordance with those provisions, impose a 10% deduction on the salary or wages that are payable to the employee or employees for the period of the partial strike (which must be ascertained by reference to the information contained in the relevant strike notice), regardless of whether the amount of deduction calculated in accordance with subsection (1) would have been more or less than 10%.
+(4) An employer may calculate and apply a specified pay deduction in respect of a group of employees only if each member of the group performs work of the same, or a similar, nature.
+
+### 95D Relationship between specified pay deduction and minimum wage
+(1) Section 6 of the Minimum Wage Act 1983 does not apply to an employee who receives payment at less than the applicable minimum rate of wages prescribed under section 4, 4A, or 4B of that Act if the payment—
+  (a) is the result of a specified pay deduction; or
+  (b) is, in the case of an employee who is paid by piece work, the result of—
+    (i) the employee being party to a partial strike; and
+    (ii) the employee’s normal output being reduced because of the employee being party to that partial strike.
+(2) Subsection (1)﻿(a) applies only in relation to a period during which deductions may be made under sections 95A to 95C.
+
+**Rights of union in relation to specified pay deductions**
+
+### 95E Union may request information about application or calculation of specified pay deduction
+(1) This section applies if an employee or a group of employees considers that the employer has incorrectly applied or calculated a specified pay deduction in relation to that employee or those employees.
+(2) The union representing that employee or those employees may request that the employer provide the union with the information relied on to apply or calculate the specified pay deduction under section 95A.
+(3) A request under subsection (2) must—
+  (a) be in writing; and
+  (b) be made as soon as is reasonably practicable after the pay day on which the deduction was first made.
+(4) To avoid doubt, this section does not permit an employee, or a group of employees, to request the information from the employee’s, or employees’, employer.
+
+### 95F Employer must respond to request for information about application or calculation of specified pay deduction
+(1) If an employer has received a request under section 95E, the employer must provide the union with—
+  (a) all information relied on by the employer to apply or calculate the specified pay deduction under section 95A; and
+  (b) an explanation of how the calculation under section 95C(1) and (2), or the 10% deduction under section 95C(3), was applied to make the deduction from the employee’s or employees’ salary or wages under section 95A.
+(2) The employer must provide the information and explanation—
+  (a) in writing; and
+  (b) as soon as is reasonably practicable after the employer receives the request.
+
+### 95G Resolution of problem relating to specified pay deduction
+(1) This section applies if an employee or group of employees considers that the employer has—
+  (a) incorrectly applied, notified, calculated, or recovered a specified pay deduction in relation to that employee or those employees (including incorrectly notified recovery of an overpayment):
+  (b) failed to comply with section 95F.
+(2) The union, on behalf of that employee or those employees, must give the employer notice of that fact, and the matter must be dealt with as an employment relationship problem.
+(3) However, if the notice concerns the application or calculation of the specified pay deduction, the notice may be given only if—
+  (a) the union has complied with section 95E; and
+  (b) either—
+    (i) the employer has failed to comply with section 95F; or
+    (ii) the employer has complied with section 95F and the employee or group of employees has considered the information and explanation provided.
+(4) The union must provide the notice—
+  (a) in writing; and
+  (b) as soon as is reasonably practicable after the union becomes aware that the employee or group of employees considers that the employer has incorrectly applied, notified, calculated, or recovered a specified pay deduction or failed to comply with section 95F.
+(5) If the employer and the union are unable to resolve the problem (including by way of mediation), the union may lodge an application with the Authority in accordance with section 158.
 
 **Interpretation**
 
@@ -2626,14 +2735,23 @@ If a strike or lockout occurs, the employer of the employees participating in th
 (1) The court has full and exclusive jurisdiction to hear and determine any proceedings issued for the grant of an injunction—
   (a) to stop a strike or lockout that is occurring or to prevent a threatened strike or lockout; or
   (b) to stop any picketing related to a strike or lockout or to prevent any threatened picketing related to a strike or lockout; or
+  (c) to stop a specified pay deduction that is being, or is to be, made.
   (c)
 (2) No other court has jurisdiction to hear and determine any action or proceedings seeking the grant of an injunction—
   (a) to stop a strike or lockout that is occurring or to prevent a threatened strike or lockout; or
   (b) to stop any picketing related to a strike or lockout or to prevent any threatened picketing related to a strike or lockout; or
+  (c) to stop a specified pay deduction that is being, or is to be, made.
   (c)
 (3) Where any action or proceedings seeking the grant of an injunction to stop a strike or lockout or to prevent a threatened strike or lockout are commenced in the court, and the court is satisfied that participation in the strike or lockout is lawful under section 83 or section 84,—
   (a) the court must dismiss that action or those proceedings; and
   (b) no proceedings seeking the grant of an injunction to stop that strike or lockout or to prevent that threatened strike or lockout may be commenced in the District Court or the High Court.
+(4) Subsection (5) applies if any action or proceedings seeking the grant of an injunction to stop a specified pay deduction that is being, or is to be, made are commenced in the court, and the court is satisfied that—
+  (a) the employer is entitled to make a deduction under section 95A; and
+  (b) notice has been given in accordance with section 95B; and
+  (c) the deduction has been correctly calculated in accordance with section 95C.
+(5) If the court is satisfied of the matters specified in subsection (4)﻿(a) to (c),—
+  (a) the court must dismiss that action or those proceedings; and
+  (b) no proceedings seeking the grant of an injunction to stop that specified pay deduction may be commenced in the District Court or the High Court.
 (4)
 (5)
 
@@ -3796,6 +3914,7 @@ If a matter before the Authority relates principally to an alleged breach of emp
   (j) matters about whether a person is entitled to be a member of a union:
   (k) matters related to a failure by a union to comply with its rules:
   (l) any proceedings related to a strike or lockout (other than those founded on tort or seeking an injunction):
+  (la) any proceedings related to a partial strike (other than those founded on tort or seeking an injunction):
   (la)
   (m) actions for the recovery of penalties—
     (i) under this Act for a breach of an employment agreement:
@@ -4728,7 +4847,7 @@ A Judge who, on application made on oath, is satisfied that there is reasonable 
   (d) the Ministry for Primary Industries:
   (e) the New Zealand Police:
   (f) the Registrar of Companies:
-  (g) WorkSafe New Zealand and any agency designated under section 28B of the Health and Safety in Employment Act 1992:
+  (g) WorkSafe New Zealand and any agency designated under section 191 of the Health and Safety at Work Act 2015:
   (h) any other department of State, person, or organisation defined in regulations as a regulatory agency for the purposes of this section.
 
 ### 234 Circumstances in which officers, directors, or agents of company liable for minimum wages and holiday pay
@@ -5186,6 +5305,14 @@ Individual employment agreements
 
 ### 22 Transitional provision relating to section 229 of this Act
 Section 229 (as amended by the Worker Protection (Migrant and Other Employees) Act 2023) applies to documents and employment information created before or after that amendment.
+
+### Part 7 — Provisions relating to Employment Relations (Pay Deductions for Partial Strikes) Amendment Act 2025
+
+### 23 Employer may not make specified pay deductions for partial strikes that occurred before commencement
+(1) In this Part, 2025 amendment Act means the Employment Relations (Pay Deductions for Partial Strikes) Amendment Act 2025.
+(2) Section 95A of this Act (as inserted by the 2025 amendment Act) does not apply in relation to—
+  (a) a partial strike that ended before the commencement of the 2025 amendment Act; or
+  (b) any period of a partial strike that occurred before the commencement of the 2025 amendment Act.
 
 ## Schedule 1 — Essential services
 
