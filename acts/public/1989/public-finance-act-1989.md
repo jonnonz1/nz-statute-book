@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2025-05-16_
+_Consolidation as at 2025-07-01_
 
 > Title
 
@@ -343,7 +343,7 @@ A multi-category appropriation described in section 7A(1)﻿(g)—
 ### 8 Appropriation limited by amount
 The authority to incur expenses or capital expenditure provided by an appropriation under an Appropriation Act—
   (a) is limited to the amount specified for the appropriation by or under that Act; and
-  (b) may not be exceeded (except as provided for in section 25 or section 26A or section 26B).
+  (b) may not be exceeded (except as provided for in section 25 or section 25C or section 26A or section 26B).
 
 ### 9 Appropriation limited by scope
 (1) The authority to incur expenses or capital expenditure provided by an appropriation—
@@ -645,6 +645,25 @@ The Minister may, in addition to the information referred to in sections 15 to 1
   (a) the annual financial statements of the Government; and
   (b) an Appropriation Bill for confirmation by Parliament.
 (4) Subsection (3) does not limit the validity of any capital injection made under this section.
+
+### 25B When Minister may exercise certain powers in connection with financial institution in serious financial difficulties
+(1) The Minister may exercise a power under section 25C only if—
+  (a) the Reserve Bank of New Zealand has advised the Minister that 1 or more regulated entities are, or are likely to be, insolvent or otherwise in serious financial difficulties (the situation); and
+  (b) the Minister is satisfied of the matters set out in subsection (2) on reasonable grounds.
+(2) The matters that the Minister must be satisfied of are as follows:
+  (a) that incurring expenses or capital expenditure under section 25C in relation to the situation is necessary or desirable to do either or both of the following:
+    (i) maintain the stability of the financial system:
+    (ii) maintain the continuity of systemically important activities undertaken by 1 or more regulated entities; and
+  (b) that there is no reasonable prospect of the situation being adequately dealt with to the Minister’s satisfaction in a timely and orderly way other than through exercising the power under section 25C.
+(3) In this section, regulated entity has the same meaning as in section 5(1) of the Reserve Bank of New Zealand Act 2021.
+
+### 25C Expenses or capital expenditure in connection with financial institution in serious financial difficulties
+(1) The Minister may approve the incurring of expenses or capital expenditure in relation to the situation referred to in section 25B(1)﻿(a) and, whether or not there is an appropriation by Parliament available for the purpose and despite sections 4, 8, and 9, the expenses or capital expenditure may be incurred accordingly.
+(2) Public money may be spent, without further authority than this section, for the purpose of meeting expenses or capital expenditure incurred in accordance with subsection (1) that have not been appropriated.
+(3) A statement about any expenses and capital expenditure incurred under this section in any financial year that have not been appropriated must be included in—
+  (a) the annual financial statements of the Government; and
+  (b) an Appropriation Bill for confirmation by Parliament.
+(4) Subsection (3) does not limit the validity of any expenses or capital expenditure incurred under this section.
 
 ### 26 Minister may determine terms and conditions of capital injections
 (1) The Minister, after consultation with the Minister responsible for an entity, may—
@@ -1029,6 +1048,7 @@ The Minister may arrange for the following to be published in advance of their b
     (i) a statement of borrowings that reflects the borrowing activities for that year, including budgeted figures for that year and comparative actual figures for the previous financial year:
     (ii) a statement of unappropriated expenses and capital expenditure and unauthorised capital injections (excluding any capital injection to an intelligence and security department):
     (iii) a statement of emergency expenses and capital expenditure incurred under section 25 and emergency capital injections (excluding any capital injection to an intelligence and security department) made under section 25A:
+    (iiia) a statement of expenses and capital expenditure incurred under section 25C:
     (iv) a statement of trust money administered by departments and Offices of Parliament:
     (v) any additional information and explanations needed to fairly reflect the consolidated financial operations of the Government reporting entity for the financial year and its consolidated financial position at the end of that year.
 (3) The annual financial statements of the Government must include the Government reporting entity's interests in—
