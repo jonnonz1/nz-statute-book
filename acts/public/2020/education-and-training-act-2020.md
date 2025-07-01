@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2024-10-01_
+_Consolidation as at 2025-07-01_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -7584,7 +7584,7 @@ Except as otherwise provided in this subpart, the Employment Relations Act 2000 
 (2) Without limiting subsection (1), for the purposes of initiating bargaining for a collective agreement, good-faith bargaining for a collective agreement, and entering into collective agreements,—
   (a) the Public Service Commissioner has the same rights, duties, and obligations under the Employment Relations Act 2000 as the Commissioner would have if the Commissioner were the employer; and
   (b) employees in the education service are to be treated as if they were all employees of the Commissioner.
-(3) Unless otherwise directed in writing by the Public Service Commissioner, an employer in the education service may not lock out employees or suspend striking employees in relation to negotiations by the Commissioner for a collective agreement applicable to those employees.
+(3) Unless otherwise directed in writing by the Public Service Commissioner, an employer in the education service may not lock out employees or suspend, or make specified pay deductions in respect of, striking employees in relation to negotiations by the Commissioner for a collective agreement applicable to those employees.
 (4) The Public Service Commissioner must conduct the negotiations—
   (a) with a union of which the employees are members; and
   (b) in consultation with—
@@ -7600,17 +7600,21 @@ Except as otherwise provided in this subpart, the Employment Relations Act 2000 
 
 ### 587 Public Service Commissioner's powers when collective agreements are negotiated
 (1) During the negotiations for a collective agreement that is to bind any employees of a board, the Public Service Commissioner has, for the purpose of those negotiations, all the rights, duties, and powers of an employer under the Employment Relations Act 2000 in respect of those employees.
-(2) To avoid doubt and without limiting subsection (1), the powers referred to in that subsection include the power to lock out or suspend employees.
+(2) To avoid doubt and without limiting subsection (1), the powers referred to in that subsection include the power to—
+  (a) lock out employees:
+  (b) suspend employees:
+  (c) make specified pay deductions.
 (3) Despite subsection (1), in the case of employees who are members of a union, the Public Service Commissioner may, where there is a strike, exercise the power of suspension by advising the union of the class or classes of employees who are, or are to be, suspended, and, if the union is so advised, the suspension takes effect on the date specified for the purpose in the advice, and the Commissioner need not—
   (a) separately advise any employee who is included in a class; or
   (b) comply with section 89 of the Employment Relations Act 2000.
 (4) In any case where the Public Service Commissioner has suspended or locked out an employee under this section, the Commissioner may, at the Commissioner’s discretion, give either or both of the following directions:
   (a) that the employee is not to be remunerated in respect of the period of the suspension or lockout:
   (b) that any amount paid to the employee in respect of that period be deducted from any remuneration otherwise payable to the employee.
-(5) Any direction under subsection (4)—
+(4A) In any case where the Public Service Commissioner intends to make a specified pay deduction, the Commissioner may give a direction that a specified pay deduction is to be made.
+(5) Any direction under subsection (4) or (4A)—
   (a) may be given to any person responsible for effecting payments or transfers of sums of money required for the remuneration of the employee; and
   (b) must be followed by the person.
-(6) The Public Service Commissioner may give any notice that, as a result of a direction under subsection (4)﻿(b), is required to be given to an employee under section 6(3)﻿(b) of the Wages Protection Act 1983.
+(6) The Public Service Commissioner may give any notice that, as a result of a direction under subsection (4)﻿(b) or (4A), is required to be given to an employee under section 6(3)﻿(b) of the Wages Protection Act 1983.
 (7) Subsection (1)—
   (a) overrides section 601(2); and
   (b) is subject to sections 589 and 590.
@@ -7624,7 +7628,9 @@ Except as otherwise provided in this subpart, the Employment Relations Act 2000 
 ### 589 Strikes in schools to be notified
 (1) A strike by employees of any board is not lawful for the purposes of the Employment Relations Act 2000 unless the Public Service Commissioner and each board are given notice in written or electronic form of the proposed strike 3 days before the commencement of the proposed strike.
 (2) The notice required by subsection (1) must state—
-  (a) the nature of the proposed strike, including whether or not the proposed action is to be continuous; and
+  (a) the nature of the proposed strike, including—
+    (i) whether or not the proposed action will be continuous; and
+    (ii) whether or not the employees will continue to perform some work for their employer while undertaking the proposed action; and
   (b) the school or schools that are to be affected by the proposed strike; and
   (c) the period of the proposed strike, which is to be specified by giving—
     (i) the date on and time at which the proposed strike is to commence; and
