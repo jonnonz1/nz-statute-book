@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-07-25_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -44672,7 +44672,7 @@ In this Act, unless the context requires otherwise,—
       (ii) an airport operator:
     (c) is further defined in section DD 11 (Some definitions) for the purposes of subpart DD (Entertainment expenditure)
   - **business contacts** is defined in section DD 11 (Some definitions) for the purposes of subpart DD (Entertainment expenditure)
-  - **business premises** , for subparts DD (Entertainment expenditure) and DH and sections CB 6 to CB 13 (which relate to disposals of land),—
+  - **business premises** , for subpart DD (Entertainment expenditure) and sections CB 6 to CB 13 (which relate to disposals of land),—
     (a) means the normal business premises or a temporary workplace of the person (or an associate):
     (b) does not include premises or a workplace established mainly for the purpose of enjoying entertainment
   - **business tool** means an item that is used by an employee in the performance of their work duties and in the absence of section CX 21 (Business tools) would give rise to an unclassified benefit
