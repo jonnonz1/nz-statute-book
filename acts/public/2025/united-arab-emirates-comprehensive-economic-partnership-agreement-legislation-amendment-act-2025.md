@@ -5,7 +5,7 @@ _Consolidation as at 2025-07-25_
 This Act is the United Arab Emirates Comprehensive Economic Partnership Agreement Legislation Amendment Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on a single date set by Order in Council.
+(1) This Act comes into force on a single date set by Order in Council.The following table is small in size and has 3 columns that are grouped under the heading Provisions commenced by Order in Council.Provisions commenced by Order in CouncilProvisionsCommencement dateOrder in CouncilThis Act28 August 2025Clause 2 of the United Arab Emirates Comprehensive Economic Partnership Agreement Legislation Amendment Act Commencement Order 2025This note is not part of the Act.
 (2) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Amendments to Overseas Investment Act 2005 and Overseas Investment Regulations 2005
