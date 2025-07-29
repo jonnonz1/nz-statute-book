@@ -1,5 +1,5 @@
 # Plant Variety Rights Act 2022
-_Consolidation as at 2023-01-24_
+_Consolidation as at 2025-07-29_
 
 ### 1 Title
 This Act is the Plant Variety Rights Act 2022.
@@ -1510,6 +1510,8 @@ Amend the enactments specified in Schedule 4 as set out in that schedule.
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
+### Part 1 — Provisions relating to this Act as enacted
+
 ### 1 Grants applied for or made before commencement of this clause
 (1) This clause is for the purpose of determining the rights, interests, entitlements, immunities, powers, functions, or duties of any person in relation to a plant variety to which this clause applies.
 (2) This clause applies to a plant variety if—
@@ -1520,7 +1522,7 @@ Amend the enactments specified in Schedule 4 as set out in that schedule.
   (b) without limiting paragraph (a), the applicable definition of owner is the definition that was in force under the old law.
 (4) In this clause and in clauses 2 and 3, old law means the law as in force immediately before the commencement of Part 4 of this Act.ExamplePerson A obtained a grant before the commencement of this clause. Person B obtained a grant after the commencement of this clause but applied for that grant before the commencement of this clause. Person A and person B have both obtained grants in respect of wheat varieties (which are not vegetatively propagated). Their rights are determined under the old law. Their rights include the exclusive right to sell reproductive material of the protected variety.Person A’s rights and person B’s rights are not infringed if another person propagates the relevant protected variety for non-commercial use, or uses it to breed a new variety (as long as this does not involve repeated use of the protected variety). This is because under the old law exceptions apply that allow this to happen.Person A and person B do not have rights in respect of varieties that are essentially derived from the protected variety for which they hold a grant, and they do not have any of the other rights set out in this Act other than those that existed under the old law.
 (5) This clause is subject to clause 7 and does not prevent any applications made under that clause.
-(6) This clause is also subject to clause 8.
+(6) This clause is also subject to clauses 8 and 10.
 
 ### 2 Continuation of applications, proceedings, actions, and matters made or commenced before commencement of this clause
 (1) This clause applies to an application, proceeding, action, or other matter that—
@@ -1567,6 +1569,15 @@ For a plant variety right referred to in clause 1(2)﻿(a), the next annual gran
 Subpart 3 of Part 5 of this Act (which among other matters allows the Māori Plant Varieties Committee to consider and determine applications for cancellation or nullification of PVRs) does not apply in respect of—
   (a) a plant variety right granted under the Plant Variety Rights Act 1987; or
   (b) a PVR application made under Part 4 before subpart 3 of Part 5 comes into force.
+
+### Part 2 — Provisions relating to Regulatory Systems (Economic Development) Amendment Act 2025
+
+### 10 Renewal fees for certain rights granted after commencement
+(1) This clause applies to a plant variety if—
+  (a) an application for the grant of a plant variety right for that variety was made before the commencement of Part 4 of this Act; and
+  (b) the application was granted after the commencement of Part 4 of this Act.
+(2) For a plant variety to which this clause applies, any renewal fee payable after this clause comes into force in respect of a plant variety right for that variety must be paid in accordance with this Act.
+(3) However, subclause (2) does not apply in respect of a renewal fee payable in the calendar year in which this clause comes into force, unless the anniversary of the date on which the plant variety right was granted for that year is after the date on which this clause comes into force.
 
 ## Schedule 2 — Part 5 appeals
 
