@@ -1,5 +1,5 @@
 # Outer Space and High-altitude Activities Act 2017
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-07-29_
 
 ### 1 Title
 This Act is the Outer Space and High-altitude Activities Act 2017.
@@ -18,18 +18,29 @@ The purpose of this Act is to—
     (ii) establish military bases, installations, or fortifications on celestial bodies:
     (iii) test any type of weapons or conduct manoeuvres on celestial bodies:
   (d) manage any potential or actual liability that may arise from the space industry:
-  (e) establish a system for the regulation of space activities and certain high-altitude activities:
+  (e) establish a system for the regulation of space activities and certain high-altitude activities and ground-based space infrastructure activities:
   (f) preserve New Zealand’s national security and national interests.
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **accident** includes a launch failure
   - **aircraft** has the same meaning as in section 5 of the Civil Aviation Act 2023
+  - **authorisation holder** means the person who is the sole holder of a GBSI activity authorisation or all of the holders of a GBSI activity authorisation, as the case may be
   - **chief executive** means the chief executive of the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
+  - **communicate with** means send information to, receive information from, or both
   - **Director of Civil Aviation** means the Director of Civil Aviation appointed under section 31 of the Civil Aviation Act 2023
   - **enforcement officer** means a person appointed under section 57
   - **facility licence** means a licence granted under subpart 5 of Part 2
   - **flight level** , if defined in rules made under the Civil Aviation Act 2023, has the meaning given to it in those rules
+  - **GBSI** means ground-based space infrastructure
+  - **GBSI activity authorisation** means an authorisation granted under subpart 6A of Part 2
+  - **ground-based space infrastructure** , subject to any regulations made under section 88(1)﻿(13A),—
+    (a) means infrastructure or other equipment in New Zealand (whether fixed or mobile) that—
+      (i) is capable of being operated to carry out a regulated activity; and
+      (ii) is not at high altitude or in outer space; but
+    (b) does not include either of the following:
+      (i) any infrastructure or other equipment (including television satellite dishes, satellite phones, other mobile phones, and internet access terminals) of a type that is made or supplied primarily for personal, domestic, or household use:
+      (ii) emergency locator beacons
   - **ground station** , subject to any regulations made under section 88(1)﻿(12), means a facility or place in New Zealand in which equipment is used to track or communicate with—
     (a) a launch vehicle or payload that is licensed under this Act; or
     (b) a high-altitude vehicle that is licensed under this Act; or
@@ -70,9 +81,17 @@ In this Act, unless the context otherwise requires,—
   - **New Zealand national** means—
     (a) a New Zealand citizen or permanent resident of New Zealand:
     (b) a body corporate established by or under the law of New Zealand
+  - **operate** , subject to any regulations made under section 88(1)﻿(13B), means either of the following in relation to ground-based space infrastructure:ExampleThe usual operator of a ground station antenna () holds a GBSI activity authorisation to operate the antenna to monitor space objects. Person A temporarily hands over direct control of the antenna to the owner of a satellite that is being launched () so that person B can monitor the satellite for a period following the launch. Person A oversees person B’s use of the antenna. For the purposes of this Act, person A, not person B, operates the antenna.
+    (a) directly communicate with the GBSI, or otherwise exercise direct control over the GBSI, unless the communication or control—
+      (i) is carried out or exercised by a person on a temporary or intermittent basis; and
+      (ii) is for the purpose of identifying, tracking, controlling, or otherwise communicating with a space object owned or operated by that person, or by a person on whose behalf, or for whose benefit, that person is acting; and
+      (iii) is overseen by someone who ordinarily operates the GBSI and who holds a GBSI activity authorisation to operate the GBSI for that activity:
+    (b) oversee another person’s temporary or intermittent direct communication with, or control over, the GBSI as described in paragraph (a)﻿(i) to (iii)
   - **Outer Space Treaty** means the Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, Including the Moon and Other Celestial Bodies done at London, Moscow, and Washington on 27 January 1967
   - **overseas launch licence** means a licence granted under subpart 3 of Part 2
   - **overseas payload permit** means a permit granted under subpart 4 of Part 2
+  - **partner** has the meaning given to it in section 49B(4)
+  - **partner due diligence arrangements** has the meaning given to it in section 49B(4)
   - **payload** , subject to any regulations made under section 88(1)﻿(11),—
     (a) means an object that is carried or placed, or is intended to be carried or placed, in outer space; and
     (b) includes components of a launch vehicle that are specifically designed or adapted for the object (but does not otherwise include a launch vehicle or any of its component parts); and
@@ -81,8 +100,13 @@ In this Act, unless the context otherwise requires,—
   - **permit holder** means—
     (a) in relation to a payload permit, the person who is the sole holder of the payload permit or all of the holders of the payload permit, as the case may be:
     (b) in relation to an overseas payload permit, the person who is the sole holder of the overseas payload permit or all of the holders of the overseas payload permit, as the case may be
+  - **protective security arrangements** means arrangements to counter security threats in relation to activities under a licence, permit, or authorisation, including—
+    (a) personnel security arrangements (for example, security clearance assessments); and
+    (b) information security arrangements (for example, information assurance, cybersecurity activities, and protecting classified information); and
+    (c) physical security arrangements (for example, making premises secure)
   - **Registration Convention** means the Convention on Registration of Objects Launched into Outer Space done at New York on 14 January 1975
-  - **related equipment** , in relation to a launch vehicle, payload, high-altitude vehicle, or high-altitude payload means support equipment, ancillary items, components, and spare parts required to carry out the launch or other activities
+  - **regulated activity** has the meaning given to it in section 49A(2)
+  - **related equipment** , in relation to any launch vehicle, payload, high-altitude vehicle, high-altitude payload, or ground-based space infrastructure, means support equipment, ancillary items, components, and spare parts required to carry out the launch or other activities
   - **security Ministers** means—
     (a) the Minister responsible for the New Zealand Security Intelligence Service; and
     (b) the Minister responsible for the Government Communications Security Bureau
@@ -96,7 +120,7 @@ In this Act, unless the context otherwise requires,—
   - **technical data** —
     (a) means information—
       (i) in any form, including oral information, blueprints, drawings, photographs, video materials, plans, instructions, computer software, and documents; and
-      (ii) that is required for the design, engineering, development, production, processing, manufacture, use, operation, overhaul, repair, maintenance, modification, enhancement, or modernisation of launch vehicles, payloads, high-altitude vehicles, high-altitude payloads, or related equipment; but
+      (ii) that is required for the design, engineering, development, production, processing, manufacture, use, operation, overhaul, repair, maintenance, modification, enhancement, or modernisation of launch vehicles, payloads, high-altitude vehicles, high-altitude payloads, ground-based space infrastructure, or related equipment; but
     (b) does not include publicly available information.
 
 ### 5 Transitional, savings, and related provisions
@@ -104,7 +128,14 @@ The transitional, savings, and related provisions (if any) set out in Schedule 1
 
 ### 6 Act binds the Crown
 (1) Subject to subsection (2), this Act binds the Crown.
-(2) Except as otherwise expressly provided in this Act or any other Act, or in regulations made under this Act, nothing in this Act or in regulations made under this Act applies to the New Zealand Defence Force.
+(2) Except as otherwise expressly provided in this Act or any other Act, or in regulations made under this Act,—
+  (a) nothing in this Act or in regulations made under this Act applies to the New Zealand Defence Force; and
+  (b) nothing in subpart 6A of Part 2, subpart 3A of Part 3, or Part 2 of Schedule 1 of this Act (the GBSI provisions), or in regulations made under this Act to the extent that they relate to the GBSI provisions, applies to—
+    (i) a person assisting or providing services to, or working jointly with, the New Zealand Defence Force; or
+    (ii) a person operating ground-based space infrastructure in a defence area (as defined in section 2(1) of the Defence Act 1990) with the consent of the New Zealand Defence Force; or
+    (iii) an intelligence and security agency; or
+    (iv) the New Zealand Police, or any other organisation or other person, assisting an intelligence and security agency under section 51 of the Intelligence and Security Act 2017; or
+    (v) a person operating ground-based space infrastructure in premises or a place owned, leased, or otherwise occupied by an intelligence and security agency.
 
 ## Part 2 — Licences and permits
 
@@ -570,11 +601,96 @@ A person must not operate a launch facility in New Zealand unless the person has
   (a) suspend or revoke the licence:
   (b) vary the licence to prohibit the launch from New Zealand of the relevant high-altitude vehicle.
 
-### Subpart 7 — General provisions relating to licences and permits under this Part
+### Subpart 6A — Ground-based space infrastructure
+
+### 49A Requirement for authorisation to operate GBSI
+(1) A person must not operate ground-based space infrastructure to carry out a regulated activity unless the person has a GBSI activity authorisation for the operation of the GBSI for the activity.
+(2) In this Act, regulated activity, subject to any regulations made under section 88(1)﻿(13C),—
+  (a) means either of the following:
+    (i) communicating with a space object including, without limitation, for the purpose of—
+      (A) tracking the space object; or
+      (B) telemetry; or
+      (C) controlling the space object:
+    (ii) identifying or surveilling a space object; but
+  (b) does not include an activity consisting entirely of 1 or more of the following:
+    (i) an activity of a personal, domestic, or household nature:
+    (ii) an activity carried out as a recreational pursuit or hobby:
+    (iii) an activity incidental to an undertaking if the undertaking does not otherwise relate to GBSI or a regulated activity (for example, use by a farm, school, or hotel of a satellite dish or satellite internet terminal):
+    (iv) an activity carried out for the purpose of astronomy:
+    (v) an activity carried out by or on behalf of an emergency service (including the New Zealand Police, Fire and Emergency New Zealand, and hospital and health services):
+    (vi) using a publicly available system to calibrate a measuring instrument, or to access a safety, positioning, navigation, or timing service (for example, by means of a positioning device in a car or boat), unless the use of that system is for the purpose of, or for purposes that include,—
+      (A) controlling a space object; or
+      (B) supporting or enhancing the operation of a space object.
+
+### 49B Application for GBSI activity authorisation
+(1) A person or persons may apply to the Minister for a GBSI activity authorisation for the operation of ground-based space infrastructure of a particular type for 1 or more regulated activities.
+(2) The application must be made in accordance with prescribed requirements.
+(3) The application must include a declaration by the applicant stating—
+  (a) that the applicant has in place protective security arrangements that—
+    (i) identify the security risks associated with the activities that they propose to carry out under the authorisation; and
+    (ii) establish reasonable measures to manage those risks; and
+    (iii) comply with any prescribed requirements; and
+  (b) either—
+    (i) that the applicant has in place partner due diligence arrangements that—
+      (A) identify the steps (which must be reasonable in the circumstances) that they will take to verify the identity of their partners and understand the nature of their partners’ activities; and
+      (B) comply with any prescribed requirements; or
+    (ii) that the applicant does not, and does not propose to, operate the GBSI to carry out regulated activities on behalf, or for the benefit, of another person; and
+  (c) that the applicant meets any other prescribed requirements for the grant of the authorisation.
+(4) In this Act,—
+  - **partner** means anyone on whose behalf, or for whose benefit, a person operates, or proposes to operate, GBSI to carry out regulated activities (for example, a customer or research collaborator)
+  - **partner due diligence arrangements** means arrangements for verifying the identity of partners or understanding the nature of partners’ activities.
+
+### 49C When GBSI activity authorisation may be granted
+(1) The Minister may grant a GBSI activity authorisation only if the Minister is satisfied that the application—
+  (a) is made in accordance with prescribed requirements; and
+  (b) includes a declaration under section 49B(3).
+(2) The Minister may, despite being satisfied of the matters in subsection (1), decline to grant a GBSI activity authorisation if the Minister is not satisfied that the grant of the authorisation is in the national interest.
+(3) The Minister—
+  (a) must consider under subsection (2) whether the grant of a GBSI activity authorisation is in the national interest if the content of the application causes the Minister to suspect that it is not; and
+  (b) may do so in any other case.
+(4) In considering the national interest for the purposes of subsection (2), the Minister may have regard to—
+  (a) economic or other benefits to New Zealand of the proposed activity:
+  (b) any risks to national security, public safety, international relations, or other national interests:
+  (c) the extent to which the risks can be mitigated by authorisation conditions:
+  (d) any other matters that the Minister considers relevant.
+(5) Before granting a GBSI activity authorisation, the Minister may consult the intelligence and security agencies about—
+  (a) any risks to national security of a proposed activity under the authorisation; and
+  (b) the extent to which the risks can be mitigated by authorisation conditions.
+(6) The fact that the Minister did not consider whether the grant of an authorisation was in the national interest before granting the application for it does not limit the Minister’s powers under section 49E to vary, revoke, or suspend the authorisation.
+
+### 49D Conditions and obligations relating to GBSI activity authorisation
+(1) An authorisation holder must—
+  (a) comply with any conditions prescribed by regulations relating to the operation of ground-based space infrastructure; and
+  (b) comply with any other conditions imposed by the Minister, which may include, without limitation, a condition prohibiting the authorisation holder from carrying out activities on behalf, or for the benefit, of a specified person or class of persons; and
+  (c) comply with any request by the Minister under section 50; and
+  (d) ensure that the authorisation holder’s protective security arrangements continue to meet the requirements in section 49B(3)﻿(a)﻿(i) to (iii); and
+  (e) if the authorisation holder operates, or proposes to operate, GBSI to carry out regulated activities on behalf, or for the benefit, of another person, ensure that the authorisation holder has in place partner due diligence arrangements that meet the requirements in section 49B(3)﻿(b)﻿(i)﻿(A) and (B); and
+  (f) notify the Minister, in accordance with any prescribed requirements, if the authorisation holder no longer intends to carry out activities under the authorisation; and
+  (g) provide the Minister with a report as soon as practicable after each 12-month anniversary of the grant of the authorisation (or, in the case of an authorisation for which approval of a transfer or change of control has been given under section 53, as soon as practicable after each 12-month anniversary of the approval)—
+    (i) confirming that the authorisation holder’s protective security arrangements continue to meet the requirements in section 49B(3)﻿(a)﻿(i) to (iii); and
+    (ii) confirming either—
+      (A) that the authorisation holder has in place partner due diligence arrangements that meet the requirements in section 49B(3)﻿(b)﻿(i)﻿(A) and (B); or
+      (B) that the authorisation holder does not, and does not propose to, operate GBSI to carry out regulated activities on behalf, or for the benefit, of another person; and
+    (iii) confirming that the information provided in the application for the authorisation (or the most recent update of that information provided under this section) is up to date or, to the extent that it is not, providing an update of that information; and
+  (h) comply with any other reporting obligations prescribed by regulations.
+(2) The Minister must not impose a condition under subsection (1)﻿(b) unless the Minister considers the condition necessary or desirable in order to give effect to New Zealand’s international obligations or protect national security or other national interests.
+
+### 49E Minister may vary, revoke, or suspend GBSI activity authorisation
+(1) The Minister may, at any time, vary a GBSI activity authorisation on any conditions that the Minister thinks fit, or suspend or revoke a GBSI activity authorisation,—
+  (a) with the prior written consent of the authorisation holder; or
+  (b) on the written application of the authorisation holder; or
+  (c) if the Minister believes on reasonable grounds that—
+    (i) the authorisation holder has breached this Act, regulations made under this Act, or a condition of the authorisation; or
+    (ii) the authorisation holder no longer intends to carry out activities under the authorisation; or
+    (iii) the revocation, variation, or suspension is necessary in the interests of national security, compliance with any of New Zealand’s international obligations, or other national interests; or
+  (d) for any other reason specified in the authorisation.
+(2) When varying a GBSI activity authorisation under this section, the Minister must not impose a condition relating to the operation of GBSI unless the Minister considers the condition necessary or desirable in order to give effect to New Zealand’s international obligations or protect national security or other national interests.
+
+### Subpart 7 — General provisions relating to licences, permits, and authorisations under this Part
 
 ### 50 Request for information
-(1) The Minister may, by written notice, ask an applicant for, or the holder of, any licence or permit to give the Minister, within the period, and in the manner, specified in the notice, any information that the Minister requires for the purposes of performing functions or exercising powers under this Act in relation to the licence or permit.
-(2) Where the request for information relates to the consideration by the Minister of an application for a licence or permit, the Minister may refuse to grant the licence or permit if—
+(1) The Minister may, by written notice, ask an applicant for, or the holder of, any licence, permit, or authorisation to give the Minister, within the period, and in the manner, specified in the notice, any information that the Minister requires for the purposes of performing functions or exercising powers under this Act in relation to the licence, permit, or authorisation.
+(2) Where the request for information relates to the consideration by the Minister of an application for a licence, permit, or authorisation, the Minister may refuse to grant the licence, permit, or authorisation if—
   (a) the applicant does not provide the information requested within a reasonable time after the requirement; or
   (b) the Minister is unable to verify any information provided.
 
@@ -599,14 +715,19 @@ A person must not operate a launch facility in New Zealand unless the person has
   (a) subsection (1)﻿(a), (b), (c), (e), and (f) must be read as if it refers to the body corporate and its officers:
   (b) subsection (1)﻿(d) must be read as if it refers only to the officers of the body corporate.
 
-### 53 Change of licensee or permit holder requires approval of Minister
-(1) A licensee or permit holder must not, without the prior approval of the Minister,—
-  (a) transfer an interest in a licence or permit; or
-  (b) if the licensee or permit holder is a body corporate, undergo a change of control.
-(2) A licensee or permit holder may apply to the Minister for approval of a transfer or change of control.
-(3) The application must be made in accordance with prescribed requirements.
-(4) When considering an application of a licensee or permit holder to undergo a change of control or to transfer an interest in a licence or permit, the Minister—
-  (a) must consult the security Ministers in accordance with section 55; and
+### 53 Change of licensee, permit holder, or authorisation holder requires approval of Minister
+(1) A licensee, permit holder, or authorisation holder must not, without the prior approval of the Minister,—
+  (a) transfer an interest in a licence, permit, or authorisation; or
+  (b) if the licensee, permit holder, or authorisation holder is a body corporate, undergo a change of control.
+(2) A licensee, permit holder, or authorisation holder may apply to the Minister for approval of a transfer or change of control.
+(3) The application—
+  (a) must be made in accordance with prescribed requirements; and
+  (b) in the case of a GBSI activity authorisation, must include a declaration under section 49B(3) by the applicant or, in the case of a transfer, by the person who will be the authorisation holder following the transfer, as if the application were an application for a new GBSI activity authorisation.
+(4) When considering an application of a licensee, permit holder, or authorisation holder to undergo a change of control or to transfer an interest in a licence, permit, or authorisation, the Minister—
+  (a) in the case of a launch licence, payload permit, overseas launch licence, overseas payload permit, facility licence, or high-altitude licence, must consult the security Ministers in accordance with section 55; and
+  (aa) in the case of a GBSI activity authorisation, may consult the intelligence and security agencies about—
+    (i) any risks to national security of the proposed transfer or change of control; and
+    (ii) the extent to which the risks can be mitigated by authorisation conditions; and
   (b) must take into account,—
     (i) in the case of a launch licence, all the matters in section 9 as if the application were an application for a new launch licence; and
     (ii) in the case of a payload permit, all the matters in section 17 as if the application were an application for a new payload permit; and
@@ -614,22 +735,23 @@ A person must not operate a launch facility in New Zealand unless the person has
     (iv) in the case of an overseas payload permit, all the matters in section 33 as if the application were an application for a new overseas payload permit; and
     (v) in the case of a facility licence, all the matters in section 40 as if the application were an application for a new facility licence; and
     (vi) in the case of a high-altitude licence, all the matters in section 47 as if the application were an application for a new high-altitude licence; and
-  (c) must be satisfied that the licensee or permit holder following the transfer or change of control is likely to be able to comply with the conditions of, and give proper effect to, the licence or permit; and
+    (vii) in the case of a GBSI activity authorisation, all the matters in section 49C as if the application were an application for a new GBSI activity authorisation (and for that purpose the reference in section 49C(1)﻿(a) to prescribed requirements must be treated as a reference to the prescribed requirements referred to in subsection (3)﻿(a) of this section); and
+  (c) must be satisfied that the licensee, permit holder, or authorisation holder following the transfer or change of control is likely to be able to comply with the conditions of, and give proper effect to, the licence, permit, or authorisation; and
   (d) may ask an applicant to supply any further information or documentation in support of the application.
-(5) The Minister must not consent to a transfer or change of control if a certificate is issued under section 55 in relation to the proposed transfer or change of control.
+(5) In the case of a launch licence, payload permit, overseas launch licence, overseas payload permit, facility licence, or high-altitude licence, the Minister must not consent to a transfer or change of control if a certificate is issued under section 55 in relation to the proposed transfer or change of control.
 (6) For the purposes of this section, a body corporate undergoes a change of control if—
   (a) a person obtains the power (whether directly or indirectly) to exercise, or control the exercise of, 50% or more of the voting rights in the corporate body; or
   (b) a person (person A) obtains, together with 1 or more specified persons, the power (whether directly or indirectly) to exercise, or control the exercise of, 50% or more of the voting rights in the corporate body.
 (7) In subsection (6)﻿(b), a specified person, in relation to person A, means—
-  (a) a person who is acting, or will act, jointly or in concert with person A in respect of exercising, or controlling the exercise of, the voting rights of the licensee or permit holder; or
+  (a) a person who is acting, or will act, jointly or in concert with person A in respect of exercising, or controlling the exercise of, the voting rights of the licensee, permit holder, or authorisation holder; or
   (b) a person who acts, or is accustomed to acting, in accordance with the wishes of person A.
 
 ### 54 Minister may impose further conditions on transfer or change of control
-(1) The Minister may grant consent to a transfer or change of control under section 53 subject to any further conditions of a kind described in section 10, 18, 26, 34, 41, or 48 as the Minister thinks fit.
-(2) All conditions of the Minister’s consent are, for the purposes of this Act, to be treated as conditions of the relevant licence or permit.
-(3) If, as a result of the transfer of an interest in a licence or permit in accordance with section 53, a person ceases to have an interest in the licence or the permit, that person ceases to have any rights or obligations under the licence or permit except in respect of any contravention of the conditions of the licence or permit that occurred before the date of the transfer of the interest.
+(1) The Minister may grant consent to a transfer or change of control under section 53 subject to any further conditions of a kind described in section 10, 18, 26, 34, 41, 48, or 49D as the Minister thinks fit.
+(2) All conditions of the Minister’s consent are, for the purposes of this Act, to be treated as conditions of the relevant licence, permit, or authorisation.
+(3) If, as a result of the transfer of an interest in a licence, permit, or authorisation in accordance with section 53, a person ceases to have an interest in the licence, the permit, or the authorisation, that person ceases to have any rights or obligations under the licence, permit, or authorisation except in respect of any contravention of the conditions of the licence, permit, or authorisation that occurred before the date of the transfer of the interest.
 (4) Subsection (3) is subject to—
-  (a) the conditions of the licence or permit; and
+  (a) the conditions of licence, permit, or authorisation; and
   (b) the conditions of the Minister’s consent to the transfer of the interest.
 
 ### 55 Minister must consult security Ministers about national security
@@ -665,10 +787,12 @@ A person must not operate a launch facility in New Zealand unless the person has
 ### 57 Appointment of enforcement officers
 (1) The chief executive may appoint such suitably qualified and trained enforcement officers as the chief executive thinks necessary for the purposes of this Act.
 (2) An enforcement officer—
+  (aaa) may be appointed to perform or exercise all the functions, duties, and powers of enforcement officers conferred by this Act, or particular functions, duties, and powers only:
   (a) is appointed for a term not exceeding 3 years, but may be reappointed:
   (b) may be removed from office by the chief executive, by written notice, for inability to perform the functions of the office, legal incapacity, neglect of duty, or misconduct, proved to the satisfaction of the chief executive:
   (c) may at any time resign office by written notice to the chief executive.
 (3) The chief executive must issue a written warrant to an enforcement officer appointed under this section.
+(3A) The warrant must specify the functions, duties, and powers of the holder.
 (4) An enforcement officer must, on the termination of the enforcement officer’s appointment, surrender his or her warrant to the chief executive.
 (5) An enforcement officer appointed under subsection (1) is not to be regarded as employed in the service of the Crown for the purposes of the Government Superannuation Fund Act 1956 or the Public Service Act 2020 just because the person is an enforcement officer.
 
@@ -677,20 +801,22 @@ An enforcement officer appointed under section 57 must produce his or her warran
 
 ### 59 Functions of enforcement officers
 The functions of an enforcement officer are to—
-  (a) investigate compliance with this Act, regulations made under this Act, and the conditions of licences and permits issued under this Act; and
-  (b) take all reasonable steps to ensure that this Act, regulations made under this Act, and the conditions of licences and permits issued under this Act are complied with; and
-  (c) promote compliance with the requirements of this Act, regulations made under this Act, and the conditions of licences and permits issued under this Act by providing information, education, and advice about those requirements.
+  (a) investigate compliance with this Act, regulations made under this Act, and the conditions of licences, permits, and authorisations issued under this Act; and
+  (b) take all reasonable steps to ensure that this Act, regulations made under this Act, and the conditions of licences, permits, and authorisations issued under this Act are complied with; and
+  (c) promote compliance with the requirements of this Act, regulations made under this Act, and the conditions of licences, permits, and authorisations issued under this Act by providing information, education, and advice about those requirements.
 
 **Powers of enforcement officers**
 
 ### 60 Powers of enforcement officers
 (1) For the purpose of exercising any of his or her functions under section 59(a) and (b), an enforcement officer may—
-  (a) enter a launch facility or any other premises or place where any launch vehicle, payload, high-altitude vehicle, high-altitude payload, related equipment, or technical data is held and inspect the site or other premises or any other place and any launch vehicle, payload, high-altitude vehicle, high-altitude payload, related equipment, or technical data:
-  (b) seize and detain any launch vehicle, payload, high-altitude vehicle, high-altitude payload, related equipment, or technical data:
-  (c) require any licensee or permit holder, employee of a licensee or permit holder, or other person to produce any document within that person’s possession or control relating to a launch, payload, or high-altitude payload and make copies of that document:
-  (d) question any licensee or permit holder, employee of a licensee or permit holder, or other person about a launch or the operation of any launch vehicle, payload, high-altitude vehicle, or high-altitude payload:
-  (e) question any licensee or permit holder, or employee of a licensee or permit holder, about compliance with this Act, regulations made under this Act, or the conditions of any licence or permit issued under this Act:
-  (f) test, or require testing of, at the expense of a licensee or permit holder, any launch vehicle, payload, high-altitude vehicle, high-altitude payload, or related equipment.
+  (a) enter a launch facility or any other premises or place where any launch vehicle, payload, high-altitude vehicle, high-altitude payload, ground-based space infrastructure, related equipment, or technical data is held and inspect the site or other premises or any other place and any launch vehicle, payload, high-altitude vehicle, high-altitude payload, ground-based space infrastructure, related equipment, or technical data:
+  (b) seize and detain any launch vehicle, payload, high-altitude vehicle, high-altitude payload, ground-based space infrastructure, related equipment, or technical data:
+  (c) require any licensee, permit holder, or authorisation holder, employee of a licensee, permit holder, or authorisation holder, or other person to produce any information or document within that person’s possession or control relating to any launch, payload, high-altitude payload, or ground-based space infrastructure and make copies of that information or document:
+  (d) question any licensee, permit holder, or authorisation holder, employee of a licensee, permit holder, or authorisation holder, or other person about a launch or the operation of any launch vehicle, payload, high-altitude vehicle, high-altitude payload, or ground-based space infrastructure:
+  (e) question any licensee, permit holder, or authorisation holder, or employee of a licensee, permit holder, or authorisation holder, about compliance with this Act, regulations made under this Act, or the conditions of any licence, permit, or authorisation issued under this Act:
+  (f) test, or require testing of, at the expense of a licensee, permit holder, or authorisation holder, any launch vehicle, payload, high-altitude vehicle, high-altitude payload, ground-based space infrastructure, or related equipment:
+  (g) assess, or require the assessment of, at the expense of an authorisation holder, the authorisation holder’s protective security arrangements or partner due diligence arrangements:
+  (h) enter any premises or place where GBSI or related equipment is held and take all reasonable steps to disable it.
 (2) The provisions of subparts 1, 4, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
 
 ### 61 Provisions relating to entry to dwellinghouse or marae
@@ -699,7 +825,7 @@ The functions of an enforcement officer are to—
 (3) Sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
 
 ### 62 Constable may exercise enforcement powers
-For the purpose of investigating compliance with this Act, regulations made under this Act, or the conditions of licences and permits issued under this Act, a constable may exercise any of the powers of an enforcement officer under section 60(1)﻿(a) to (f), and sections 60(2) and 61 apply.
+For the purpose of investigating compliance with this Act, regulations made under this Act, or the conditions of licences, permits, and authorisations issued under this Act, a constable may exercise any of the powers of an enforcement officer under section 60(1)﻿(a) to (h), and sections 60(2) and 61 apply.
 
 ### Subpart 2 — Protection of sensitive space technology
 
@@ -743,7 +869,7 @@ For the purpose of investigating compliance with this Act, regulations made unde
 
 ### Subpart 3 — Offences
 
-**Offences relating to licences and permits**
+**Offences relating to licences, permits, and authorisations**
 
 ### 65 Launching without launch licence or overseas launch licence
 (1) A person commits an offence if the person—
@@ -783,18 +909,28 @@ For the purpose of investigating compliance with this Act, regulations made unde
   (a) in the case of an individual, to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, or both; or
   (b) in the case of a body corporate, to a fine not exceeding $250,000.
 
-### 69 False or misleading information in application for grant or renewal of licence or permit
-(1) A person commits an offence if the person, for the purposes of any application for a licence or permit, or the renewal of a licence or permit, under this Act, supplies any information that the person knows or ought to know is materially false or misleading.
+### 68A Operating ground-based space infrastructure without GBSI activity authorisation
+(1) A person commits an offence if the person—
+  (a) operates ground-based space infrastructure to carry out a regulated activity without a GBSI activity authorisation contrary to section 49A; and
+  (b) knows or ought to know that a GBSI activity authorisation is required.
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
+  (a) in the case of an individual, to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, or both; or
+  (b) in the case of a body corporate, to a fine not exceeding $250,000.
+
+### 69 Providing false or misleading information to Minister
+(1) A person commits an offence if the person—
+  (a) holds, or is an applicant for, a licence, permit, or authorisation under this Act; and
+  (b) for any purpose under this Act provides to the Minister information that the person knows or ought to know is false or misleading in any material respect.
 (2) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
-### 70 Offence to fail to comply with condition of licence or permit
+### 70 Offence to fail to comply with condition of licence, permit, or authorisation
 (1) A person commits an offence if the person, being the holder of one of the following licences or permits, knowingly or without reasonable excuse fails to comply with any condition of that licence or permit:
   (a) a launch licence or overseas launch licence:
   (b) a payload permit or overseas payload permit:
   (c) a facility licence.
-(2) A person commits an offence who, being the holder of a high-altitude licence, knowingly or without reasonable excuse fails to comply with any condition of that licence.
+(2) A person commits an offence who, being the holder of a high-altitude licence or GBSI activity authorisation, knowingly or without reasonable excuse fails to comply with any condition of that licence or authorisation.
 (3) A person who commits an offence against subsection (1) or (2) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 1 year or a fine not exceeding $50,000, or both; or
   (b) in the case of a body corporate, to a fine not exceeding $250,000.
@@ -846,6 +982,12 @@ For the purpose of investigating compliance with this Act, regulations made unde
 (1) A person commits an offence if the person contravenes section 64(3).
 (2) A person commits an offence if the person, being in a debris protection area, fails or refuses to leave the area immediately after having been ordered to do so under section 64(5).
 (3) A person who commits an offence against subsection (1) or (2) is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000, or both.
+
+### 75A Failing to comply with direction to stop providing electricity or internet services to GBSI
+(1) A person commits an offence if the person, without reasonable excuse, fails to comply with a direction under section 83B.
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $5,000; or
+  (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
 **Additional penalty for certain offences**
 
@@ -907,6 +1049,45 @@ In this Act,—
 ### 83 Payment of infringement fees
 All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
 
+### Subpart 3A — Disposal orders, directions, and forfeiture orders for ground-based space infrastructure
+
+### 83A Disposal order
+(1) The Minister may give a disposal order to a person who has an interest in, or a right to operate, ground-based space infrastructure.
+(2) A disposal order may—
+  (a) require disposal of all or part of the interest or right:
+  (b) specify the time within which, or the manner in which, the disposal must be made:
+  (c) specify any reasonable steps that must be taken in order to comply with the disposal order:
+  (d) require the person to report to the Minister within the time specified in the order stating how and when the order has been or will be implemented.
+(3) The Minister may give a disposal order to a person only if the Minister is satisfied on reasonable grounds that—
+  (a) the person’s operation of the GBSI to carry out a regulated activity gives rise, is likely to give rise, or has given rise to a risk to national security or another national interest; and
+  (b) the risk cannot be adequately managed by imposing conditions on an authorisation, suspending or revoking an authorisation, or taking enforcement or other action under subpart 1 or 3 of this Part.
+(4) The Minister must have regard to New Zealand’s international obligations when acting under this section.
+(5) A person who is given a disposal order must comply with it within the time, and in the manner, specified in the order.
+
+### 83B Direction to stop providing electricity or internet services to GBSI
+(1) This section applies if the Minister gives a disposal order under section 83A.
+(2) The Minister may direct an electricity retailer or internet service provider to stop providing electricity or internet services to either or both of the following, until the GBSI subject to the disposal order is disposed of:
+  (a) the person given the disposal order:
+  (b) the place or premises where the GBSI is located.
+(3) The Minister may give a direction under subsection (2) only if the Minister is satisfied on reasonable grounds that—
+  (a) the direction is necessary to mitigate a risk to national security or another national interest; and
+  (b) the risk cannot be adequately managed by other enforcement action under this Act.
+(4) A person who is given a direction under subsection (2) must comply with it within the time, and in the manner, specified in the direction.
+
+### 83C Forfeiture order
+(1) This section applies if the District Court is satisfied that a person given a disposal order under section 83A (a disposal order recipient) has refused or failed to comply with it within the time, or in the manner, specified in the order.
+(2) The District Court may, on the application of an enforcement officer or a constable,—
+  (a) make a forfeiture order in relation to the interest or right that is the subject of the disposal order; and
+  (b) give any direction that is necessary to give effect to the disposal order.
+(3) The application must be made in accordance with the rules of the District Court for originating applications.
+(4) A forfeiture order granted under this section may—
+  (a) vest the interest or right that is the subject of the disposal order in the Crown:
+  (b) require the enforcement officer or constable to dispose of all or part of the forfeited interest or right:
+  (c) specify the time within which, or the manner in which, that disposal must be made:
+  (d) specify any reasonable steps that must be taken in order to comply with the forfeiture order.
+(5) If a forfeiture order requires the enforcement officer or constable to dispose of all or part of the forfeited interest or right, the enforcement officer or constable must pay any proceeds of the disposal (less any amount required by the order to be paid to a security holder or another person) to the disposal order recipient.
+(6) A disposal order recipient who is given a direction under subsection (2)﻿(b) must comply with it within the time, and in the manner, specified in the direction.
+
 ### Subpart 4 — General provisions
 
 **Requirement to notify Minister of intention to develop or acquire missile technology**
@@ -949,26 +1130,28 @@ All infringement fees paid in respect of infringement offences must be paid into
   (b) prepare a report on that review.
 (2) The Minister must present the report to the House of Representatives as soon as practicable after it has been completed.
 
-**Notices**
+**Notices, disposal orders, and directions**
 
-### 87 Giving of notices
-(1) A notice required or permitted by this Act to be given by any person (the sender) to another person (the recipient) may be given by—
+### 87 Giving of notices, disposal orders, and directions
+(1) A notice, disposal order, or direction under section 83B required or permitted by this Act to be given by any person (the sender) to another person (the recipient) may be given by—
   (a) delivering it to the recipient; or
   (b) delivering it to the recipient’s usual home or business address; or
   (c) posting it to the recipient’s usual home or business address; or
   (d) if the recipient has given the sender an email address for the purpose of receiving notices by email, emailing it to that address; or
   (e) any other prescribed method.
-(2) In relation to a notice that is required or permitted by this Act to be given to a company, section 388 of the Companies Act 1993 applies.
+(2) In relation to a notice, disposal order, or direction under section 83B that is required or permitted by this Act to be given to a company, section 388 of the Companies Act 1993 applies.
 
 **Regulations**
 
 ### 88 Regulations
-(1) The Governor-General may, from time to time, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:Licences and permitsMeaning of launch vehicle, payload, space object, high-altitude vehicle, and high-altitude payloadRegistration of space objectsLevy, fees, and chargesGeneral
+(1) The Governor-General may, from time to time, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:Licences, permits, and authorisationsMeaning of launch vehicle, payload, space object, high-altitude vehicle, high-altitude payload, ground-based space infrastructure, operate, and regulated activityRegistration of space objectsLevy, fees, and chargesGeneral
   (1) prescribing the information to be given in, or in connection with, applications for licences and permits, which may include, without limitation, requirements for a safety case, an environmental impact assessment, and requirements for an orbital debris mitigation plan:
-  (2) prescribing the form or manner of making applications, including, without limitation, permitting a person to make applications together for more than 1 type of licence or permit:
+  (1A) prescribing the information to be given in, or in connection with, applications for authorisations, which may include, without limitation, information about the ground-based space infrastructure proposed to be operated, who owns it, the regulated activities to be carried out, and any partners of the applicant:
+  (1B) prescribing requirements for protective security arrangements and partner due diligence arrangements, and any other requirements for the grant of an authorisation:
+  (2) prescribing the form or manner of making applications, including, without limitation, permitting a person to make applications together for more than 1 type of licence, permit, or authorisation:
   (3) providing for the procedure to be followed in relation to any application, including prescribing the time within which any thing must be done, or providing for the granting of extensions of time for any thing to be done:
-  (4) providing for the procedure to be followed if a person makes applications together for more than 1 type of licence or permit, including permitting the Minister to grant the applications, or grant 1 or some only of the applications, or decline to grant any of the applications:
-  (5) prescribing conditions for licences and permits, which may, without limitation, include providing, or providing for the imposition of, requirements for—
+  (4) providing for the procedure to be followed if a person makes applications together for more than 1 type of licence, permit, or authorisation, including permitting the Minister to grant the applications, or grant 1 or some only of the applications, or decline to grant any of the applications:
+  (5) prescribing conditions for licences, permits, and authorisations, which may, without limitation, include providing, or providing for the imposition of, requirements for—
     (a) safety systems or practices:
     (b) security, including physical and information security:
     (c) the reporting of accidents and incidents:
@@ -978,8 +1161,13 @@ All infringement fees paid in respect of infringement offences must be paid into
   (6) prescribing a method or methods by which the requirements as to the type and amount of insurance to be held by a licensee or permit holder may be calculated:
   (7) specifying, for the purposes of section 19(1)﻿(b)﻿(ii) and 35(1)﻿(b)﻿(ii), how to determine when events of a particular kind occur:
   (8) prescribing information that a licensee or permit holder must give to the Minister, at any time during the period that the licence or permit is in force, including the intervals at which the information must be given, the manner in which it may, or must, be provided, and when information given must be updated or corrected:
-  (9) prescribing technical requirements relating to the manner in which a licensee or permit holder must give information to the Minister under this Act:
-  (10) prescribing the form of licences and permits, or the information that licences and permits must contain:
+  (8A) prescribing information that an authorisation holder must give to the Minister, at any time during the period that the authorisation is in force, including,—
+    (a) without limitation, information relating to—
+      (i) the authorisation holder’s partners, including decisions not to accept a person seeking to be a partner or to end a relationship with a partner:
+      (ii) the authorisation holder’s protective security arrangements, due diligence arrangements, and security breaches; and
+    (b) the intervals at which the information must be given (which may be at intervals determined by the Minister), the manner in which it may, or must, be provided, and when information given must be updated or corrected:
+  (9) prescribing technical requirements relating to the manner in which a licensee, permit holder, or authorisation holder must give information to the Minister under this Act:
+  (10) prescribing the form of licences, permits, and authorisations, or the information that licences, permits, and authorisations must contain:
   (11) prescribing that any thing, or class of thing, is, or is not, a launch vehicle, payload, or space object—
     (a) for all purposes of this Act or for the purpose of any specified provisions of this Act; or
     (b) in specified circumstances:
@@ -989,30 +1177,42 @@ All infringement fees paid in respect of infringement offences must be paid into
   (13) prescribing that any thing, or class of thing, is, or is not, a high-altitude vehicle or high-altitude payload—
     (a) for all purposes of this Act or for the purpose of any specified provisions of this Act; or
     (b) in specified circumstances:
+  (13A) prescribing that any thing, or class of thing, is, or is not, ground-based space infrastructure—
+    (a) for all purposes of this Act or for the purpose of any specified provisions of this Act; or
+    (b) in specified circumstances:
+  (13B) prescribing, in relation to GBSI, that any act, or class of act, is, or is not, an operation of GBSI—
+    (a) for all purposes of this Act or for the purpose of any specified provisions of this Act; or
+    (b) in specified circumstances:
+  (13C) prescribing that any activity, or class of activity, is, or is not, a regulated activity—
+    (a) for all purposes of this Act or for the purpose of any specified provisions of this Act; or
+    (b) in specified circumstances:
   (14) prescribing the space objects that must be registered, who must register those objects, and the manner of registration:
   (15) providing for the keeping of the register, including processes for amending the register:
   (16) providing who may access the register and the fees for accessing the register:
-  (17) imposing a levy on holders of licences and permits under this Act for the purpose of recovering all or part of the reasonable direct and indirect costs of administering this Act:
-  (18) specifying the licensees and permit holders, or classes of licensees or permit holders, who are liable to pay the levy:
-  (19) providing for the exemption from fees, in whole or in part (including, without limitation, if a person makes applications together for more than 1 type of licence or permit):
+  (17) imposing a levy on holders of licences, permits, and authorisations under this Act for the purpose of recovering all or part of the reasonable direct and indirect costs of administering this Act:
+  (18) specifying the licensees, permit holders, and authorisation holders, or classes of licensees, permit holders, or authorisation holders, who are liable to pay the levy:
+  (19) providing for the exemption from fees, in whole or in part (including, without limitation, if a person makes applications together for more than 1 type of licence, permit, or authorisation):
   (20) specifying the levy, or how the levy or rates of levy are calculated:
   (21) specifying when and how the levy is to be paid:
   (22) prescribing fees and charges payable in respect of any matter under this Act or the manner in which fees and charges may be calculated:
   (23) consistent with the purposes of this Act, providing for exemptions from, or waivers or refunds of, any fee, levy, or charge payable under the regulations, in whole or in part, in any class of case:
-  (24) prescribing any measure consistent with the purpose of this Act that, in relation to activities or proposed activities of licensees and permit holders under this Act, is necessary or desirable to—
+  (24) prescribing any measure consistent with the purpose of this Act that, in relation to activities or proposed activities of licensees, permit holders, and authorisation holders under this Act, is necessary or desirable to—
     (a) protect public safety, protect the environment, preserve national security, avoid interference with space or terrestrial telecommunications; or
     (b) comply with New Zealand’s international obligations:
-  (25) prescribing technical requirements for launch facilities, launch vehicles, high-altitude vehicles, and payloads:
+  (25) prescribing technical requirements for launch facilities, launch vehicles, high-altitude vehicles, payloads, and ground-based space infrastructure:
   (26) prescribing the form of infringement notices and infringement offence reminder notices:
   (27) prescribing the requirements for giving notices under this Act or the regulations:
   (28) prescribing the manner in which any thing must be done for the purposes of this Act:
   (29) providing transitional and savings provisions concerning the coming into force of this Act that may be in addition to, or in place of, the transitional and savings provisions in Schedule 1:
   (30) providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) Regulations made under this section may provide differently for different types of licence, permit, launch vehicle, payload, launch facility, high-altitude vehicle, or high-altitude payload, or on any other differential basis.
-(3) Before making a recommendation relating to regulations to be made under subsection (1)﻿(5), (11), (12), (13), or (24), the Minister must—
+(2) Regulations made under this section may provide differently for different types of licence, permit, authorisation, launch vehicle, payload, launch facility, high-altitude vehicle, high-altitude payload, ground-based space infrastructure, or regulated activity, or on any other differential basis.
+(3) Before making a recommendation relating to regulations to be made under subsection (1)﻿(5), (11), (12), (13), (13A), (13B), (13C), or (24), the Minister must—
   (a) consult any persons (or representatives of those persons) that appear to the Minister likely to be substantially affected by any regulations made in accordance with the recommendation; and
   (b) have regard to the purposes of this Act.
-(4) If the Minister makes a recommendation relating to regulations to be made under subsection (1)﻿(11), (12), (13), or (23), the Minister’s reasons for making the recommendation (including why the regulations are appropriate) must be published together with the regulations.
+(3A) The Minister must not make a recommendation regarding regulations to be made under subsection (1)﻿(5) prescribing conditions relating to the operation of ground-based space infrastructure unless the Minister considers that—
+  (a) the conditions are necessary or desirable in order to give effect to New Zealand’s international obligations; or
+  (b) they are necessary or desirable in order to protect national security or other national interests.
+(4) If the Minister makes a recommendation relating to regulations to be made under subsection (1)﻿(11), (12), (13), (13A), (13B), (13C), or (23), the Minister’s reasons for making the recommendation (including why the regulations are appropriate) must be published together with the regulations.
 (5) No regulations made under subsection (1)﻿(29) may be made, or continue in force, later than 3 years after the commencement of this section.
 (6) Regulations made under this Act are not invalid merely because they confer any discretion on, or allow any matter to be determined or approved by, any person.
 (7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -1075,7 +1275,7 @@ All infringement fees paid in respect of infringement offences must be paid into
 ### Part 1 — Provisions relating to Act as enacted
 
 ### 1 Interpretation
-In this schedule, unless the context otherwise requires,—
+In this Part, unless the context otherwise requires,—
   - **6-month transition period** means the period beginning on the commencement date and ending on the date that is 6 months after the commencement date
   - **commencement date** means the date on which this Act comes into force
   - **Rocket Lab agreement** means the agreement dated 16 September 2016 between Her Majesty the Queen in right of New Zealand acting by and through the Minister for Economic Development and Rocket Lab NZ and Rocket Lab USA
@@ -1108,6 +1308,27 @@ Any action or process undertaken before the commencement date by the Minister or
 
 ### 7 Pre-commencement consultation relating to regulations
 Section 88(3)﻿(a) is satisfied in relation to any regulations if action of the kind described in that provision was taken before the commencement of section 88 for the purpose of facilitating the making of the regulations.
+
+### Part 2 — Provisions relating to Outer Space and High-altitude Activities Amendment Act 2025
+
+### 8 Interpretation
+In this Part,—
+  - **amendment Act** means the Outer Space and High-altitude Activities Amendment Act 2025
+  - **transition period** means the period beginning on 29 July 2025 and ending immediately before the earlier of—
+    (a) the commencement date of the first regulations made under section 88 for the purposes of subpart 6A of Part 2 of this Act (which relates to ground-based space infrastructure); and
+    (b) 29 July 2026.
+
+### 9 Transitional authorisation for GBSI activities
+(1) During the transition period, a person who operates ground-based space infrastructure to carry out a regulated activity must be treated as having been granted a GBSI activity authorisation for the operation of the GBSI for the activity.
+(2) However, the following do not apply to an authorisation under subclause (1):
+  (a) section 49D(1)﻿(d) to (f):
+  (b) section 49E (except for section 49E(1)﻿(c)﻿(iii) if the revocation, variation, or suspension is on national security grounds).
+(3) An authorisation under subclause (1) ends at the close of the transition period, unless—
+  (a) it is revoked earlier under section 49E(1)﻿(c)﻿(iii) on national security grounds; or
+  (b) before the close of the transition period, the person ceases to operate GBSI to carry out a regulated activity.
+
+### 10 Pre-commencement consultation relating to regulations
+Paragraph (a) of section 88(3) is satisfied in relation to any regulations made under section 88(1)﻿(5), (13A), (13B), (13C), or (24) as inserted or amended by the amendment Act if action of the kind described in that paragraph was taken before 29 July 2025 for the purpose of facilitating the making of the regulations.
 
 ## Schedule 2 — Amendment to Search and Surveillance Act 2012
 
