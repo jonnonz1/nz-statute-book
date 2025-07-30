@@ -7,7 +7,7 @@ This Act is the Budapest Convention and Related Matters Legislation Amendment Ac
 ### 2 Commencement
 (1) This Act comes into force on a date or dates set by Order in Council.
 (2) Any part of this Act that has not come into force by 1 October 2025 comes into force then.
-(3) However, the following provisions come into force on the day after Royal assent:
+(3) However, the following provisions come into force on 31 July 2025:
   (a) section 5:
   (b) sections 10 and 21:
   (c) section 24:
