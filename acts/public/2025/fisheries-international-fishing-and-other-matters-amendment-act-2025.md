@@ -1,5 +1,5 @@
 # Fisheries (International Fishing and Other Matters) Amendment Act 2025
-_Consolidation as at 2025-03-29_
+_Consolidation as at 2025-07-31_
 
 ### 1 Title
 This Act is the Fisheries (International Fishing and Other Matters) Amendment Act 2025.
@@ -621,8 +621,8 @@ In Schedule 10, repeal Part D.
 ### 62 Principal Act
 Section 63 amends the Search and Surveillance Act 2012.
 
-### 63 Schedule amended
-In the Schedule, before the item relating to section 199(1) of the Fisheries Act 1996, insert:The following table is small in size and has 3 columns. This table amends the Schedule in the Search and Surveillance Act 2012 and should be read with that table to provide understanding of the context.113UBHigh seas fishery inspector may inspect vessel that is detained at a port under section 113UA(2) of Fisheries Act 1996All (except subparts 2 and 3 and sections 118 to 120, 173, and 174)113UCHigh seas fishery inspector may enter living quarters or conduct remote access search under power conferred by section 113UB of Fisheries Act 1996 if authorised to do so by issuing officerSubparts 1, 3, 7, 9, and 10113UDHigh seas fishery inspector may question and require documents from master and crew members of vessel detained at a port under section 113UA(2) of Fisheries Act 1996Subpart 5
+### 63 Schedule 2 amended
+In Schedule 2, before the item relating to section 199(1) of the Fisheries Act 1996, insert:The following table is small in size and has 3 columns. This table amends the Schedule in the Search and Surveillance Act 2012 and should be read with that table to provide understanding of the context.113UBHigh seas fishery inspector may inspect vessel that is detained at a port under section 113UA(2) of Fisheries Act 1996All (except subparts 2 and 3 and sections 118 to 120, 173, and 174)113UCHigh seas fishery inspector may enter living quarters or conduct remote access search under power conferred by section 113UB of Fisheries Act 1996 if authorised to do so by issuing officerSubparts 1, 3, 7, 9, and 10113UDHigh seas fishery inspector may question and require documents from master and crew members of vessel detained at a port under section 113UA(2) of Fisheries Act 1996Subpart 5
 
 ### Subpart 2 — Amendments to instruments made under Fisheries Act 1996
 
