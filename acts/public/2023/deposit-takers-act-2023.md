@@ -1,5 +1,5 @@
 # Deposit Takers Act 2023
-_Consolidation as at 2024-02-17_
+_Consolidation as at 2025-07-31_
 
 ### 1 Title
 This Act is the Deposit Takers Act 2023.
