@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-07-31_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -1989,9 +1989,7 @@ A person who claims in good faith a right to the possession of a young person un
   (c) the interception is necessary for the purpose of maintaining the Internet or other communication service; and
   (d) the interception is only used for the purpose of maintaining the Internet or other communication service.
 (6) Information obtained under subsection (5) must be destroyed immediately if it is no longer needed for the purpose of maintaining the Internet or other communication service.
-(7) Any information held by any person that was obtained while assisting with the execution of a surveillance device warrant issued under the Search and Surveillance Act 2012 must, upon expiry of the warrant, be—
-  (a) destroyed immediately; or
-  (b) given to the agency executing the warrant.
+(7)
 
 ### 216C Prohibition on disclosure of private communications unlawfully intercepted
 (1) Subject to subsection (2), where a private communication has been intercepted in contravention of section 216B, every one is liable to imprisonment for a term not exceeding 2 years who intentionally—if he or she knows that it has come to his or her knowledge as a direct or indirect result of a contravention of section 216B.
@@ -2221,15 +2219,6 @@ Every one is liable to imprisonment for a term not exceeding 1 year who, without
   (a) the document was, dishonestly and without claim of right, taken, obtained, or used; and
   (b) the document was dealt with in the manner specified in paragraph (a) with intent to obtain any property, service, pecuniary advantage, or valuable consideration.
 
-### 228A Designing, manufacturing, or adapting goods with intent to facilitate commission of crimes involving dishonesty
-Every person is liable to imprisonment for a term not exceeding 3 years who designs, manufactures, or adapts goods with intent to facilitate the commission of a crime involving dishonesty.
-
-### 228B Possessing, selling, or disposing of goods designed, manufactured, or adapted with intent to facilitate commission of crimes involving dishonesty
-Every person is liable to imprisonment for a term not exceeding 3 years who, without lawful authority or excuse, possesses, sells, or disposes of any goods designed, manufactured, or adapted to facilitate the commission of a crime involving dishonesty, with intent to use, or to enable another person to use, the goods to facilitate the commission of a crime involving dishonesty.
-
-### 228C Possessing goods capable of being used to facilitate crimes involving dishonesty with intent to facilitate commission of those offences
-Every person is liable to imprisonment for a term not exceeding 3 years who, without lawful authority or excuse, possesses any goods capable of being used to facilitate the commission of a crime involving dishonesty (other than those specified in sections 227, 233, and 264) with intent to use the goods to facilitate the commission of that offence.
-
 ### 229 Criminal breach of trust
 (1) Every one is guilty of a criminal breach of trust who, as a trustee of any trust, dishonestly and contrary to the terms of that trust, converts anything to any use not authorised by the trust.
 (2) Every trustee who commits a criminal breach of trust is liable to imprisonment for a term not exceeding 7 years.
@@ -2309,6 +2298,17 @@ Every one who commits blackmail is liable to imprisonment for a term not exceedi
 ### 239 Demanding with intent to steal, etc
 (1) Every one is liable to imprisonment for a term not exceeding 14 years who, without claim of right, by force or with any threat, compels any person to execute, make, accept, endorse, alter, or destroy any document capable of conferring a pecuniary advantage with intent to obtain any benefit.
 (2) Every one is liable to imprisonment for a term not exceeding 7 years who, with menaces or by any threat, demands any property from any persons with intent to steal it.
+
+**Goods that facilitate commission of crimes involving dishonesty**
+
+### 239A Designing, manufacturing, or adapting goods with intent to facilitate commission of crimes involving dishonesty
+Every person is liable to imprisonment for a term not exceeding 3 years who designs, manufactures, or adapts goods with intent to facilitate the commission of a crime involving dishonesty.
+
+### 239B Possessing, selling, disposing of, or procuring goods designed, manufactured, or adapted with intent to facilitate commission of crimes involving dishonesty
+Every person is liable to imprisonment for a term not exceeding 3 years who, without lawful authority or excuse, possesses, sells, disposes of, or procures any goods designed, manufactured, or adapted to facilitate the commission of a crime involving dishonesty, with intent to use, or to enable another person to use, the goods to facilitate the commission of a crime involving dishonesty.
+
+### 239C Possessing goods capable of being used to facilitate crimes involving dishonesty with intent to facilitate commission of those offences
+Every person is liable to imprisonment for a term not exceeding 3 years who, without lawful authority or excuse, possesses any goods capable of being used to facilitate the commission of a crime involving dishonesty (other than those specified in sections 227, 233, and 264) with intent to use the goods to facilitate the commission of that offence.
 
 **Crimes involving deceit**
 
@@ -2424,7 +2424,7 @@ Every person who is guilty of receiving is liable as follows:
 **Crimes involving computers**
 
 ### 248 Interpretation
-For the purposes of this section and sections 249 to 252,—
+For the purposes of this section and sections 249 to 254,—
   - **access** , in relation to any computer system, means instruct, communicate with, store data in, receive data from, or otherwise make use of any of the resources of the computer system
   - **authorisation** includes an authorisation conferred on a person by or under an enactment or a rule of law, or by an order of a court or judicial process
   - **computer system** —
@@ -2454,17 +2454,40 @@ For the purposes of this section and sections 249 to 252,—
     (ii) deny service to any authorised users.
 
 ### 251 Making, selling, or distributing or possessing software for committing crime
-(1) Every one is liable to imprisonment for a term not exceeding 2 years who invites any other person to acquire from him or her, or offers or exposes for sale or supply to any other person, or agrees to sell or supply or sells or supplies to any other person, or has in his or her possession for the purpose of sale or supply to any other person, any software or other information that would enable another person to access a computer system without authorisation—
-  (a) the sole or principal use of which he or she knows to be the commission of an offence; or
-  (b) that he or she promotes as being useful for the commission of an offence (whether or not he or she also promotes it as being useful for any other purpose), knowing or being reckless as to whether it will be used for the commission of an offence.
-(2) Every one is liable to imprisonment for a term not exceeding 2 years who—
-  (a) has in his or her possession any software or other information that would enable him or her to access a computer system without authorisation; and
-  (b) intends to use that software or other information to commit an offence.
+[Repealed]
 
 ### 252 Accessing computer system without authorisation
 (1) Every one is liable to imprisonment for a term not exceeding 2 years who intentionally accesses, directly or indirectly, any computer system without authorisation, knowing that he or she is not authorised to access that computer system, or being reckless as to whether or not he or she is authorised to access that computer system.
 (2) To avoid doubt, subsection (1) does not apply if a person who is authorised to access a computer system accesses that computer system for a purpose other than the one for which that person was given access.
 (3)
+
+### 253 Designing, writing, or adapting software for committing certain crimes
+(1) A person who designs, writes, or adapts software commits an offence if—
+  (a) the resulting software would enable a person to commit an offence against section 249, 250, or 252; and
+  (b) the person intends to use the resulting software (or intends any other person to use it) to commit an offence against section 249, 250, or 252.
+(2) A person who commits an offence against this section is liable to imprisonment for a term not exceeding 2 years.
+
+### 254 Dealing in or possessing software or other information for committing crime
+Offence: dealing in software or other information
+(1) A person who deals in software or other information commits an offence if the software or other information would enable another person to access a computer system without authorisation and at least 1 of the following applies:
+  (a) the person—
+    (i) promotes the software or other information as being useful for committing an offence (whether or not they also promote it as being useful for any other purpose); and
+    (ii) knows or is reckless as to whether it will be used to commit an offence:
+  (b) the person intends the software or other information to be used by any other person to commit an offence:
+  (c) the person knows that the sole or main use of the software or other information is to commit an offence.
+(2) A person deals in software or other information if the person—
+  (a) invites any other person to acquire it from the person; or
+  (b) offers or exposes it for sale or supply to any other person; or
+  (c) agrees to sell or supply it to any other person; or
+  (d) sells or supplies it to any other person; or
+  (e) possesses it for the purpose of sale or supply to any other person; or
+  (f) procures it for use by any other person.
+Offence: possessing software or other information
+(3) A person commits an offence if the person—
+  (a) possesses any software or other information that would enable the person to access a computer system without authorisation; and
+  (b) intends to use that software or other information to commit an offence.
+Penalty
+(4) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 2 years.
 
 ### 253 Qualified exemption to access without authorisation offence for New Zealand Security Intelligence Service
 [Repealed]
