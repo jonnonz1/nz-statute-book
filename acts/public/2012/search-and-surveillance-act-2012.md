@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-07-31_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -41,7 +41,7 @@ This Act is the Search and Surveillance Act 2012.
   - **District Court Judge** means a Judge appointed under the District Court Act 2016
   - **enforcement officer** means—
     (a) a constable; or
-    (b) any person authorised by an enactment specified in column 2 of the Schedule, or by any other enactment that expressly applies any provision in Part 4, to exercise a power of entry, search, inspection, examination, or seizure
+    (b) any person authorised by an enactment specified in column 2 of Schedule 2, or by any other enactment that expressly applies any provision in Part 4, to exercise a power of entry, search, inspection, examination, or seizure
   - **equipment** includes fingerprint powder and any chemical or other substance used for law enforcement purposes
   - **evidential material** , in relation to an offence or a suspected offence, means evidence of the offence, or any other item, tangible or intangible, of relevance to the investigation of the offence
   - **examination order** means an examination order made under section 38
@@ -80,8 +80,8 @@ This Act is the Search and Surveillance Act 2012.
   - **road block** means any form of barrier or obstruction preventing or limiting the passage of vehicles
   - **rub-down search** means a search described in sections 85(2), 86, and 87
   - **search power** , in relation to any provision in this Act, means—
-    (a) every search warrant issued under this Act or an enactment set out in column 2 of the Schedule to which that provision is applied; and
-    (b) every power, conferred under this Act or an enactment set out in column 2 of the Schedule to which that provision is applied, to enter and search, or enter and inspect or examine (without warrant) any place, vehicle, or other thing, or to search a person
+    (a) every search warrant issued under this Act or an enactment set out in column 2 of Schedule 2 to which that provision is applied; and
+    (b) every power, conferred under this Act or an enactment set out in column 2 of Schedule 2 to which that provision is applied, to enter and search, or enter and inspect or examine (without warrant) any place, vehicle, or other thing, or to search a person
   - **strip search** means a search where the person conducting the search may require the person being searched to undress, or to remove, raise, lower, or open any item or items of clothing so that the genitals, buttocks, or (in the case of a female) breasts are—
     (a) uncovered; or
     (b) covered only by underclothing
@@ -116,6 +116,10 @@ This Act is the Search and Surveillance Act 2012.
   (a) with or without access information; and
   (b) whether or not either or both computers are currently turned on; and
   (c) whether or not access is currently occurring.
+
+### 3A Transitional, savings, and related provisions
+(1) The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+(2) See sections 343 to 356 for transitional provisions relating to this Act as enacted.
 
 ### 4 Act binds the Crown
 This Act binds the Crown.
@@ -724,7 +728,7 @@ Nothing in this Part affects the common law defence of necessity as it applies t
 ### 51 Conditions for issuing surveillance device warrant
 The conditions for issuing a surveillance device warrant are that—
   (a) there are reasonable grounds—
-    (i) to suspect that an offence has been committed, or is being committed, or will be committed in respect of which this Act or any enactment specified in column 2 of the Schedule authorises the enforcement officer to apply for a warrant to enter premises for the purpose of obtaining evidence about the suspected offence; and
+    (i) to suspect that an offence has been committed, or is being committed, or will be committed in respect of which this Act or any enactment specified in column 2 of Schedule 2 authorises the enforcement officer to apply for a warrant to enter premises for the purpose of obtaining evidence about the suspected offence; and
     (ii) to believe that the proposed use of the surveillance device will obtain information that is evidential material in respect of the offence; and
   (b) the restrictions in section 45 do not prevent the issuing of a surveillance device warrant in the circumstances.
 
@@ -873,6 +877,13 @@ Section 105 (relating to the transmission of search warrants) and section 107 (r
 ### 64 Disposal of raw surveillance data, excerpts, and information obtained
 A law enforcement agency must ensure that any raw surveillance data, excerpts from raw surveillance data, and information obtained from it that is not itself raw surveillance data, and that is not retained in accordance with section 63 or as part of a court record, is deleted or erased.
 
+### 64A Record of information obtained, made, or generated by assistant
+(1) This section applies if, as a consequence of assisting an enforcement officer to whom a surveillance device warrant is directed, a person obtains, makes, or generates any record of information.
+(2) The person must ensure that, as soon as is reasonably practicable after the warrant expires, that record—
+  (a) is destroyed; or
+  (b) is given to the law enforcement agency that employed or engaged the enforcement officer (if the record has not been given to that agency already).
+Guidance noteSee also section 179, which makes it an offence for a person who acquires information as a consequence of the exercise of a search or surveillance power to knowingly disclose that information, except in the performance of the person’s duties, functions, or powers.
+
 **Declaratory orders**
 
 ### 65 What is a declaratory order
@@ -931,7 +942,7 @@ In this subpart,—
 
 ### 72 Conditions for making production order
 The conditions for making a production order are that there are reasonable grounds—
-  (a) to suspect that an offence has been committed, or is being committed, or will be committed (being an offence in respect of which this Act or any enactment specified in column 2 of the Schedule authorises an enforcement officer to apply for a search warrant); and
+  (a) to suspect that an offence has been committed, or is being committed, or will be committed (being an offence in respect of which this Act or any enactment specified in column 2 of Schedule 2 authorises an enforcement officer to apply for a search warrant); and
   (b) to believe that the documents sought by the proposed order—
     (i) constitute evidential material in respect of the offence; and
     (ii) are in the possession or under the control of the person against whom the order is sought, or will come into his or her possession or under his or her control while the order is in force.
@@ -1054,10 +1065,10 @@ A rub-down search may include a visual examination (whether or not facilitated b
   (d) surveillance device warrants, declaratory orders, and production orders applied for, issued, or made under Part 3:
   (e) any other matter provided for in Part 2 or 3.
 (2) This Part also applies in respect of powers conferred by—
-  (a) the enactments listed in column 2 of the Schedule, to the extent identified in column 4 of the Schedule:
+  (a) the enactments listed in column 2 of Schedule 2, to the extent identified in column 4 of Schedule 2:
   (b) any other enactment, to the extent that the other enactment expressly applies any provisions in this Part.
-(3) To the extent of any inconsistency between the Schedule and any other enactment, the other enactment prevails.
-(4) Column 3 of the Schedule does not limit, or affect the interpretation of, any enactment described in that column.
+(3) To the extent of any inconsistency between Schedule 2 and any other enactment, the other enactment prevails.
+(4) Column 3 of Schedule 2 does not limit, or affect the interpretation of, any enactment described in that column.
 (5) If any provision in this Part applies (because of subsection (2)) in respect of any warrant or any power that authorises entry and inspection, or entry and examination, every reference in that provision to a search must, in relation to that warrant and its execution, or in relation to that power and its exercise, be read instead, as the case requires, as a reference to an inspection, or a power of inspection, or an examination, or a power of examination.
 (6) If any provision in this Part applies (because of subsection (2)) in respect of any warrant that may be issued, or any power of entry, search, inspection, or examination that may be exercised, by reason of a contravention other than an offence, every reference in that provision to an offence must, in relation to the warrant and its execution, or to the power and its exercise, be read instead as a reference to such a contravention.
 
@@ -1107,7 +1118,7 @@ Sections 92 to 95 do not—
 In this subpart, unless the context otherwise requires,—
   - **applicant** , in relation to any provision in this subpart, means any of the following persons:
   (a) a constable:
-  (b) any other person authorised to apply for a search warrant by this Act or any enactment specified in column 2 of the Schedule to which that provision applies
+  (b) any other person authorised to apply for a search warrant by this Act or any enactment specified in column 2 of Schedule 2 to which that provision applies
   - **thing** includes an intangible thing (for example, an email address or access information to an Internet data storage facility).
 
 **Application for search warrant**
@@ -1194,7 +1205,7 @@ An issuing officer must not issue a warrant to seize any thing held by a lawyer 
   (l) an explanation of the availability of relevant privileges and an outline of how any of those privileges may be claimed (where applicable):
   (m) a statement that,—
     (i) in the case of a search under a search warrant issued in relation to offences under the Misuse of Drugs Act 1975, any person found in the place or vehicle to be searched may also be searched; or
-    (ii) in the case of any other search authorised by this Act or any enactment specified in column 2 of the Schedule to which section 119 applies, any person found in the place or vehicle to be searched may be searched if there are reasonable grounds to believe that an item being searched for is on that person.
+    (ii) in the case of any other search authorised by this Act or any enactment specified in column 2 of Schedule 2 to which section 119 applies, any person found in the place or vehicle to be searched may be searched if there are reasonable grounds to believe that an item being searched for is on that person.
 (5) A search warrant may authorise the search of more than 1 place, vehicle, or thing.
 (6) An issuing officer may not issue a search warrant authorising the remote access search of a thing unless he or she is satisfied that the thing is not located at a physical address that a person can enter and search.
 (7) A person is not required, as a consequence of a condition imposed under subsection (3)﻿(b)﻿(ii), to give any information tending to incriminate the person.
@@ -1222,7 +1233,7 @@ A search warrant is executed when the person executing the warrant and any perso
 
 ### 107 When search warrant invalid
 (1) A search warrant is invalid—
-  (a) if, having regard to the information contained in the application, the grounds or conditions for lawful issue of a warrant set out in section 6 or, if applicable, the relevant enactment specified in column 2 of the Schedule to which this section applies were not satisfied at the time the search warrant was issued:
+  (a) if, having regard to the information contained in the application, the grounds or conditions for lawful issue of a warrant set out in section 6 or, if applicable, the relevant enactment specified in column 2 of Schedule 2 to which this section applies were not satisfied at the time the search warrant was issued:
   (b) if the warrant contains a defect, irregularity, omission, or want of form that is likely to mislead anyone executing or affected by the warrant as to its purpose or scope.
 (2) If a warrant is invalid under this section, neither section 204 of the Summary Proceedings Act 1957 nor section 379 of the Criminal Procedure Act 2011 applies to that warrant.
 
@@ -1354,8 +1365,8 @@ Every person called on to assist a person executing a search warrant authorising
 **Stopping vehicles with or without warrant for purposes of search**
 
 ### 121 Stopping vehicles with or without warrant for purposes of search
-(1) An enforcement officer may stop a vehicle to conduct a search under a power to search without a warrant conferred on that officer by this Act or any enactment specified in column 2 of the Schedule to which this section applies if he or she is satisfied that he or she has grounds to search the vehicle.
-(2) An enforcement officer may stop a vehicle to conduct a search under a power to search with a warrant issued under this Act or any enactment specified in column 2 of the Schedule to which this section applies if he or she is satisfied that the warrant has been issued and is in force.
+(1) An enforcement officer may stop a vehicle to conduct a search under a power to search without a warrant conferred on that officer by this Act or any enactment specified in column 2 of Schedule 2 to which this section applies if he or she is satisfied that he or she has grounds to search the vehicle.
+(2) An enforcement officer may stop a vehicle to conduct a search under a power to search with a warrant issued under this Act or any enactment specified in column 2 of Schedule 2 to which this section applies if he or she is satisfied that the warrant has been issued and is in force.
 (3) A person who exercises a power under this section must, on the request of any person affected by the exercise of the power,—
   (a) identify himself or herself either by name or by unique identifier; and
   (b) state the name of the enactment under which the search is taking place and the reason for the search under that enactment unless it is impracticable to do so in the circumstances; and
@@ -1769,7 +1780,7 @@ Any person who wishes to claim privilege in respect of any thing seized or sough
 ### Subpart 6 — Procedures applying to seized or produced materials
 
 ### 149 Disposal of things seized or produced
-(1) If any thing is produced under a production order or is seized under a search warrant or under a search power conferred by this Act or an enactment specified in column 2 of the Schedule to which this section applies, it must be dealt with in accordance with this subpart.
+(1) If any thing is produced under a production order or is seized under a search warrant or under a search power conferred by this Act or an enactment specified in column 2 of Schedule 2 to which this section applies, it must be dealt with in accordance with this subpart.
 (2) However, this subpart is subject to—
   (a) section 13 (which deals with property taken from people locked up in Police custody); and
   (b) subpart 5 of this Part (which relates to privilege and confidentiality); and
@@ -1913,7 +1924,7 @@ If a photograph or a copy of a seized or produced thing will be adequate for inv
 
 ### 162 Other copies and generated material may be retained
 (1) Any thing made or generated by a person exercising a search or surveillance power (for example, photographs or audio or video recordings or copies of things) may be retained as part of the permanent records of the employer of the person who exercises the search or surveillance power.
-(2) Subsection (1) is subject to sections 63 and 136, and any other enactment or rule of law.
+(2) Subsection (1) is subject to sections 63, 64A, and 136, and any other enactment or rule of law.
 
 ### 163 Application to District Court to dispose of seized property
 (1) Any person who seizes any thing, or to whom any thing is produced, or any other enforcement officer to whom the thing is transferred, may apply to the District Court for an order that the thing be disposed of (by sale or otherwise) in the manner, and at a time, that the court may direct if,—
@@ -1957,7 +1968,7 @@ If there is any inconsistency between any of sections 164 to 167 and the provisi
 
 ### 169 Reporting of exercise of powers within law enforcement agency
 (1) Any constable who exercises a warrantless entry power, search power, or surveillance power conferred by Part 2 or 3 of this Act must provide a written report on the exercise of that power to the Commissioner or a Police employee designated to receive reports of that kind by the Commissioner as soon as practicable after the exercise of the power.
-(2) Any person (other than a constable) who exercises a warrantless entry power, search power, or surveillance power conferred by this Act or by an enactment specified in column 2 of the Schedule must provide a written report on the exercise of that power to an employee designated to receive reports of that kind by the chief executive of the law enforcement agency concerned as soon as is practicable after the exercise of the power.
+(2) Any person (other than a constable) who exercises a warrantless entry power, search power, or surveillance power conferred by this Act or by an enactment specified in column 2 of Schedule 2 must provide a written report on the exercise of that power to an employee designated to receive reports of that kind by the chief executive of the law enforcement agency concerned as soon as is practicable after the exercise of the power.
 (3) A report referred to in subsection (1) or (2) must—
   (a) contain a short summary of the circumstances surrounding the exercise of the power, and the reason or reasons why the power needed to be exercised:
   (b) state whether any evidential material was seized or obtained as a result of the exercise of the power:
@@ -1991,7 +2002,7 @@ If there is any inconsistency between any of sections 164 to 167 and the provisi
   (c) a tracking device.
 
 ### 171 Annual reporting of search and surveillance powers by agencies other than Police
-(1) The chief executive of a law enforcement agency (other than the Police) that employs or engages persons who may exercise an entry power, a search power, or a surveillance power conferred by this Act or by an enactment specified in column 2 of the Schedule must include in every annual report prepared by the chief executive for the purposes of section 43 of the Public Finance Act 1989, or any other applicable enactment requiring an annual report to Parliament,—
+(1) The chief executive of a law enforcement agency (other than the Police) that employs or engages persons who may exercise an entry power, a search power, or a surveillance power conferred by this Act or by an enactment specified in column 2 of Schedule 2 must include in every annual report prepared by the chief executive for the purposes of section 43 of the Public Finance Act 1989, or any other applicable enactment requiring an annual report to Parliament,—
   (a) the number of occasions on which entry or search powers were exercised without a warrant in the period covered by the report:
   (b) the number of occasions on which warrantless surveillance powers were exercised in the period covered by the report that involved the use of a surveillance device:
   (c) in respect of each kind of surveillance device used without a warrant in the period covered by the report, the numbers of that kind of device used—
@@ -2087,9 +2098,9 @@ Every person commits an offence and is liable on conviction to imprisonment for 
 
 ### 180 Effect of proceedings
 (1) This section applies when any proceeding has been commenced in any court in respect of—
-  (a) the exercise of any power conferred by this Act or any enactment specified in column 2 of the Schedule; or
-  (b) the discharge of any duty imposed by this Act or any enactment specified in column 2 of the Schedule; or
-  (c) the use for investigative purposes of any evidential material obtained from the execution of a power or discharge of a duty imposed by this Act or any enactment specified in column 2 of the Schedule.
+  (a) the exercise of any power conferred by this Act or any enactment specified in column 2 of Schedule 2; or
+  (b) the discharge of any duty imposed by this Act or any enactment specified in column 2 of Schedule 2; or
+  (c) the use for investigative purposes of any evidential material obtained from the execution of a power or discharge of a duty imposed by this Act or any enactment specified in column 2 of Schedule 2.
 (2) Until a final decision in relation to the proceeding is given, unless an interim order made under subsection (3) is in force,—
   (a) the power or duty to which the proceeding relates may be, or may continue to be, exercised or discharged as if the proceeding had not been commenced, and no person is excused from fulfilling any obligation under this Act or any other enactment by reason of that proceeding; and
   (b) any evidential material obtained from the execution of the power or discharge of the duty to which the proceeding relates may be, or may continue to be, used for investigative purposes.
@@ -3723,7 +3734,7 @@ The Telecommunications (Residual Provisions) Act 1987 (1987 No 116) is repealed.
 (2A) The Governor-General may, by Order in Council, make regulations prescribing, for the purposes of the definition of cash seizure threshold amount in section 123A(1), an amount of New Zealand dollars that is more or less than $10,000.
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-**Transitional provisions**
+**Transitional provisions relating to this Act as enacted**
 
 ### 343 Transitional provision in relation to reporting requirements
 (1) For the purposes of section 170, the period to be reported on in the first annual report published after the commencement of that section begins with the commencement of that section and ends with the end of the financial year or other period ordinarily the subject of the report.
@@ -3836,7 +3847,19 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 (2) The Law Commission and the Ministry must report jointly on those matters to the Minister of Justice within 1 year of the date on which the reference occurs.
 (3) The Minister of Justice must present a copy of the report provided under this section to the House of Representatives as soon as practicable after receiving it.
 
-## Schedule  — Powers in other enactments to which all or part of Part 4 of Search and Surveillance Act 2012 applies
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Budapest Convention and Related Matters Legislation Amendment Act 2025
+
+### 1 Interpretation
+(1) In this Part, amendment Act means the Budapest Convention and Related Matters Legislation Amendment Act 2025.
+(2) In this Part, a reference to a new provision is a reference to the provision as inserted or replaced by the amendment Act.
+
+### 3 Record of information obtained, made, or generated by person when assisting in executing surveillance device warrant
+(1) New section 64A extends to a person who, before that section commences, obtains, makes, or generates any record of information as a consequence of assisting an enforcement officer to whom a surveillance device warrant is directed.
+(2) However, that section extends to the person only if the warrant expires on or after the date on which that section commences.
+
+## Schedule 2 — Powers in other enactments to which all or part of Part 4 of Search and Surveillance Act 2012 applies
 
 | Act |  | Section |  | Brief description of power |  | Which provisions in Part 4 apply |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3885,7 +3908,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  |  | 71 |  | Court may declare nature, extent, and value of person's interest in property specified in instrument forfeiture order, and give directions |  | All (except subpart 6) |
 |  |  | 101(1) |  | Member of Police may obtain and execute warrant to search any place or thing for instrument of crime or evidence of nature of person's interest in or control over instrument of crime |  | Subpart 3 |
 |  |  | 102(1) |  | Commissioner of Police may obtain and execute warrant to search any place or thing for tainted property or evidence of person's interest in tainted property or property that is subject of restraining order |  | Subpart 3 |
-|  |  | 104(1) |  | The Commissioner of Police may apply to a Judge for a production order if the Commissioner has reason to believe that a person has possession or control of documents that are relevant to an investigation by the Commissioner under this Act or to any proceedings under this Act. |  | Sections 99 and 100 |
+|  |  | 104(1) |  | The Commissioner of Police may apply to a Judge for a production order if the Commissioner has reason to believe that a person has possession or control of documents that are relevant to an investigation by the Commissioner under the Criminal Proceeds (Recovery) Act 2009 or to any proceedings under that Act. |  | Sections 99 and 100 |
 |  |  | 106(1) |  | The Commissioner of Police may apply to a Judge for an examination order. |  | Sections 99 and 100 |
 |  |  | 108(1) |  | Commissioner of Police may obtain and execute warrant to search any thing or place for documents or information required to be produced or supplied under Act |  | Subpart 3 |
 |  |  | 110(1) |  | Official Assignee may obtain and execute warrant to search any place or thing for property that is or is likely to be subject of restraining order or that is subject of forfeiture order |  | Subpart 3 |
