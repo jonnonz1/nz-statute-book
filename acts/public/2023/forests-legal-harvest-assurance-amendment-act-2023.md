@@ -1,5 +1,5 @@
 # Forests (Legal Harvest Assurance) Amendment Act 2023
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2025-07-31_
 
 ### 1 Title
 This Act is the Forests (Legal Harvest Assurance) Amendment Act 2023.
