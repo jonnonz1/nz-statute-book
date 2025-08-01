@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2025-06-23_
+_Consolidation as at 2025-08-01_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -143,7 +143,7 @@ This Act is the Corrections Act 2004.
     (d) a Visiting Justice; or
     (da) the Inspector-General of Intelligence and Security; or
     (e) an Ombudsman; or
-    (f) the Commissioner for Children; or
+    (f) the Children’s Commissioner; or
     (g) the Health and Disability Commissioner; or
     (ga) an advocate within the meaning of section 2(1) of the Health and Disability Commissioner Act 1994; or
     (h) the Human Rights Commission; or
