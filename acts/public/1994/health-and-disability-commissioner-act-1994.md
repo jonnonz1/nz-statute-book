@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2025-08-01_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’ Rights; andeto provide for matters incidental thereto
 
@@ -182,7 +182,7 @@ In exercising or performing any power or function under this Act, every person m
   (a) establish and maintain effective links with—
     (i) representatives of health consumers, disability services consumers, health care providers, and disability services providers:
     (ii) other bodies and organisations (including community groups) concerned with health matters or matters relating to disabilities:
-  (b) consult and co-operate with other agencies concerned with personal rights, including the Ombudsmen, the Human Rights Commission, the Children and Young People’s Commission, the Privacy Commissioner, and the Director of Mental Health.
+  (b) consult and co-operate with other agencies concerned with personal rights, including the Ombudsmen, the Human Rights Commission, the Children’s Commissioner, the Privacy Commissioner, and the Director of Mental Health.
 (2A) Except as expressly provided otherwise in this or another Act, the Commissioner must act independently in performing his or her statutory functions and duties, and exercising his or her statutory powers, under—
   (a) this Act; and
   (b) any other Act that expressly provides for the functions, powers, or duties of the Commissioner (other than the Crown Entities Act 2004).
@@ -252,7 +252,7 @@ The provisions of Schedule 2 shall have effect in relation to the Commissioner a
 ### 23 Consultation on preparation and review of Code
 Without limiting section 14(2), the Commissioner shall, in carrying out the requirements of sections 19 and 21, consult with, and invite submissions from, such persons, bodies, organisations, and agencies, including—as the Commissioner considers necessary to ensure that a wide range of views is available to the Commissioner to assist in the preparation and review of the Code of Health and Disability Services Consumers’ Rights.
   (a) representatives of health consumers, disability services consumers, health care providers, and disability services providers; and
-  (b) the Ombudsmen, the Human Rights Commission, the Privacy Commissioner, the Children and Young People’s Commission, the Mental Health and Wellbeing Commission, and the Director of Mental Health,—
+  (b) the Ombudsmen, the Human Rights Commission, the Privacy Commissioner, the Children’s Commissioner, the Mental Health and Wellbeing Commission, and the Director of Mental Health,—
 
 ## Part 3 — Health and Disability Services Consumer Advocacy Service
 
