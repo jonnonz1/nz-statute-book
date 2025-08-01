@@ -1,5 +1,5 @@
 # Public Safety (Public Protection Orders) Act 2014
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-08-01_
 
 ### 1 Title
 This Act is the Public Safety (Public Protection Orders) Act 2014.
@@ -517,7 +517,7 @@ In this section and in sections 51 to 61, unless the context otherwise requires,
     (iv) the Privacy Commissioner; or
     (v) a member of the Human Rights Commission continued by section 4 of the Human Rights Act 1993, or an employee of the Commission; or
     (vi) a member of the Independent Police Conduct Authority; or
-    (vii) a board member of the Children and Young People’s Commission; or
+    (vii) the Children’s Commissioner; or
     (viii) a Justice of the Peace; or
   (d) a call between a resident and a person acting, in his or her official capacity, on behalf of the International Criminal Court; or
   (e) a call between a resident and a person (other than a resident) who—
