@@ -1,5 +1,5 @@
 # Children’s Act 2014
-_Consolidation as at 2024-10-01_
+_Consolidation as at 2025-08-01_
 
 ### 1 Title
 This Act is the Children’s Act 2014.
@@ -33,7 +33,6 @@ The duties of the responsible Minister set out in sections 6D(1)﻿(d) and 7C(2)
     (a) a person who is under the age of 18 years:
     (b) a person who is under the age of 21 years and has been in care (as defined in this subsection):
     (c) a person who is under the age of 25 years and is receiving transition support from the department under Part 7 of the Oranga Tamariki Act 1989
-  - **Children and Young People’s Commission** means the Children and Young People’s Commission established by section 11 of the Children and Young People’s Commission Act 2022
   - **children’s agencies** means those departments of State or instruments of the Crown that are, with the authority of the Prime Minister, for the time being responsible (alone, or with 1 or more other departments or instruments) for the administration of all or any provisions of 1 or more of the following Acts:
     (a) Domestic Violence Act 1995:
     (b) Education and Training Act 2020:
@@ -42,6 +41,7 @@ The duties of the responsible Minister set out in sections 6D(1)﻿(d) and 7C(2)
     (e) Policing Act 2008:
     (f) Social Security Act 2018:
     (g) any other Act or Acts for the time being prescribed under subsection (2)
+  - **Children’s Commissioner** means the Commissioner holding that office under section 11 of the Children’s Commissioner Act 2022
   - **children’s Ministers** means the Ministers of the Crown who for the time being—
     (a) have relevant portfolio responsibilities for 1 or more of the children’s agencies (but excluding all related Associate Ministers of the Crown, if any); or
     (b) are designated by the Prime Minister as children’s Ministers for the purpose of this Part
@@ -64,7 +64,7 @@ The duties of the responsible Minister set out in sections 6D(1)﻿(d) and 7C(2)
   - **plan Minister** means the Minister of the Crown for the time being designated by the Prime Minister as the responsible Minister for all purposes related to the oranga tamariki action plan (for example, approving it, or approving any amendment to it or replacement of it, or receiving any report in respect of it)
   - **responsible Minister** means the Minister of the Crown for the time being designated by the Prime Minister as the responsible Minister for the purposes of this Part (except all purposes related to the oranga tamariki action plan)
   - **strategy** means the strategy adopted, and from time to time changed, under this Part
-  - **UNCROC** means the United Nations Convention on the Rights of the Child (a copy of the English text of which is set out in Schedule 2 of the Children and Young People’s Commission Act 2022)
+  - **UNCROC** means the United Nations Convention on the Rights of the Child (a copy of the English text of which is set out in Schedule 2 of the Children’s Commissioner Act 2022)
   - **UNCRPD** means the United Nations Convention on the Rights of Persons with Disabilities.
 (2) The Governor-General may, by Order in Council, prescribe any other Act or Acts for the purposes of paragraph (g) of the definition of children’s agencies in subsection (1).
 (3) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -101,7 +101,7 @@ Before adopting a strategy, or changing a strategy adopted, under section 6, the
 ### 6D Other consultation before strategy adopted or changed
 (1) Before adopting a strategy, or changing a strategy adopted, under section 6, the responsible Minister must consult, on the proposed strategy or change to the strategy,—
   (a) any children, or representatives of children, that the responsible Minister considers appropriate (in order to ensure that children’s views on the proposed strategy or change are taken into account); and
-  (b) the Children and Young People’s Commission; and
+  (b) the Children’s Commissioner; and
   (c) the Minister of the Crown who is responsible for the Ministry of Māori Development; and
   (d) any representatives of Māori (for example, of iwi, and of Māori organisations) that the responsible Minister considers appropriate.
 (2) Subsection (1) does not limit or affect consultation with any other organisations, or any other individuals, that the responsible Minister considers it appropriate to consult on the strategy.
