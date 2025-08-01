@@ -1,5 +1,5 @@
 # Social Workers Registration Act 2003
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-08-01_
 
 ### 1 Title
 This Act is the Social Workers Registration Act 2003.
@@ -801,7 +801,7 @@ When the Registrar receives a report under section 51,—
 (2) The complaint may be oral or written.
 (3) A complaint may be made by—
   (a) the Minister; or
-  (b) the Commissioner for Children; or
+  (b) the Children’s Commissioner; or
   (c) any other person in the service of the Crown acting in an official capacity; or
   (d) any member of the Board or the Tribunal.
 (4) Subsection (3) does not limit the generality of subsection (1).
@@ -939,7 +939,7 @@ As soon as is practicable after a complaint about, or a notice of conviction of,
 (2) In making a determination, the committee—
   (a) may undertake or arrange for any investigations it thinks necessary; and
   (b) in the case of a complaint, may have regard to—
-    (i) any investigations or considerations of the subject matter of the complaint already carried out (whether by the Commissioner for Children, an employer or former employer of the social worker, or any other person, body, court, or tribunal); and
+    (i) any investigations or considerations of the subject matter of the complaint already carried out (whether by the Children’s Commissioner, an employer or former employer of the social worker, or any other person, body, court, or tribunal); and
     (ii) the consequences (if any) of any investigation or consideration carried out.
 (3) Before making a determination,—
   (a) the committee—
