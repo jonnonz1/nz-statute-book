@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-08-01_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -361,7 +361,6 @@ Despite the enactment of the Amendment Act, the entity known as Insurance & Fina
 
 | Departmental agency | Host department |
 | --- | --- |
-| Aroturuki Tamariki—Independent Children’s Monitor | Education Review Office |
 | Cancer Control Agency | Ministry of Health |
 | Charter School Agency | Ministry of Education |
 | Ministry for Ethnic Communities | Department of Internal Affairs |
