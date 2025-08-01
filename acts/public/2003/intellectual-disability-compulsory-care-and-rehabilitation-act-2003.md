@@ -1,5 +1,5 @@
 # Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
-_Consolidation as at 2022-12-13_
+_Consolidation as at 2025-08-01_
 
 ### 1 Title
 This Act is the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
@@ -535,7 +535,7 @@ Every care recipient is entitled to medical treatment and other health care appr
   (d) the Privacy Commissioner:
   (e) the Health and Disability Commissioner:
   (f) a Human Rights Commissioner:
-  (g) in the case of a care recipient who is a child or young person, the Commissioner for Children:
+  (g) in the case of a care recipient who is a child or young person, the Children’s Commissioner:
   (h) the Director-General of Health:
   (i) a district inspector:
   (j) the care manager:
