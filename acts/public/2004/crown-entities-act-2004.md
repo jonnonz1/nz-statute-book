@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-08-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1986,7 +1986,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
 | Broadcasting Standards Authority |  |  |  |  |  |
-| Children and Young People’s Commission |  |  |  |  |  |
+| Children’s Commissioner |  |  |  |  |  |
 | Climate Change Commission |  |  |  |  |  |
 | Commerce Commission |  |  |  |  |  |
 | Criminal Cases Review Commission |  |  |  |  |  |
@@ -1996,6 +1996,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Financial Markets Authority |  |  |  |  |  |
 | Health and Disability Commissioner |  |  |  |  |  |
 | Human Rights Commission |  |  |  |  |  |
+| Independent Monitor of the Oranga Tamariki System |  |  |  |  |  |
 | Independent Police Conduct Authority |  |  |  |  |  |
 | Integrity Sport and Recreation Commission |  |  |  |  |  |
 | Law Commission |  |  |  |  |  |
