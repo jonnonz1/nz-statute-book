@@ -1,5 +1,5 @@
 # Oranga Tamariki Act 1989
-_Consolidation as at 2025-04-08_
+_Consolidation as at 2025-08-01_
 
 > Title
 
@@ -47,7 +47,7 @@ _Consolidation as at 2025-04-08_
     (m) any person, body, or organisation that provides regulated services (as specified in Schedule 1 of the Children’s Act 2014):
     (n) any organisation or class of organisation designated as a child welfare and protection agency by regulations made under section 447(1)﻿(ga)﻿(i)
     (o)
-  - **Children and Young People’s Commission** means the Children and Young People’s Commission established by section 11 of the Children and Young People’s Commission Act 2022
+  - **Children’s Commissioner** means the Commissioner holding that office under section 11 of the Children’s Commissioner Act 2022
   - **community service** means any service approved by the chief executive as a community service pursuant to section 403
   - **convene** , in relation to a family group conference, means to take the appropriate steps under sections 20 and 25 (in the case of a family group conference authorised or required under Part 2) or under sections 247 and 253 (in the case of a conference authorised or required under Part 4) in order to cause the conference to meet; and has a corresponding meaning
   - **court** , in relation to Parts 2, 3, and 3A, means the Family Court, and in relation to Parts 4 and 5, means the Youth Court
@@ -1107,7 +1107,7 @@ If a child welfare and protection agency or an independent person proposes to di
 ### 66M Consultation on draft Code by Minister
 (1) As soon as practicable after the commencement of this section but before the Minister issues a draft Code, the Minister must consult the following persons about the content and form of the Code:
   (a) the Privacy Commissioner:
-  (b) the Children and Young People’s Commission:
+  (b) the Children’s Commissioner:
   (c) any organisations or individuals who the Minister is satisfied represent the interests of—
     (i) child welfare and protection agencies; and
     (ii) independent persons; and
@@ -5669,7 +5669,7 @@ Sections 101 and 105 of the Search and Surveillance Act 2012 apply, with any nec
       (G) how the costs of undertaking the review are to be apportioned:
       (H) any other matters that are necessary or desirable to establish or operate the review process.
   (g) conferring rights of review of any decision or determination made or any requirements or conditions imposed under regulations made pursuant to this section:
-  (ga) designating, after consultation with the Privacy Commissioner, the Children and Young People’s Commission, and persons representing the affected organisations,—
+  (ga) designating, after consultation with the Privacy Commissioner, the Children’s Commissioner, and persons representing the affected organisations,—
     (i) organisations or classes of organisations as child welfare and protection agencies:
     (ii) persons or classes of persons as independent persons:
   (gb) prescribing transitional arrangements in relation to standards of care for children and young persons and any other matters provided for in regulations:
