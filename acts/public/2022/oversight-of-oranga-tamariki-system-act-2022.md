@@ -1,5 +1,5 @@
 # Oversight of Oranga Tamariki System Act 2022
-_Consolidation as at 2025-04-08_
+_Consolidation as at 2025-08-01_
 
 ### 1 Title
 This Act is the Oversight of Oranga Tamariki System Act 2022.
@@ -36,8 +36,8 @@ This Act is the Oversight of Oranga Tamariki System Act 2022.
     (ii) providing that the Monitor may not review any decision or recommendation, or any act or omission, of a court or tribunal when performing their monitoring function:
     (iii) requiring the Monitor to refer certain matters to prescribed persons:
     (iv) allowing the Monitor to refer matters to specified persons:
-    (v) providing for the making of regulations under the Act:
-    (vi) providing for a review of this Act no later than 3 years after its commencement.
+    (v) providing for the making of regulations under the Act.
+    (vi)
 (4) Part 4 makes related amendments to other legislation.
 (5) This section is only a guide to the general scheme and effect of this Act.
 
@@ -71,13 +71,13 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (ii) ensure that their complaints and investigations processes are visible and accessible to children and young people and their whānau, hapū, or iwi, or an individual or organisation supporting them, and to incorporate a tikanga Māori approach:
   (i) section 43 provides that the Chief Ombudsman must make reasonable efforts to develop arrangements with hapū, iwi, and Māori organisations for the purposes of supporting Ombudsmen in carrying out their duties and providing for the sharing of information under this Act:
   (j) section 49(4)﻿(b)﻿(i) requires the Monitor to consult hapū, iwi, and Māori organisations with whom the Monitor has entered into arrangements under section 19 when making information rules relating to the collection, use, and disclosure of information by the Monitor:
-  (k) section 58(2)﻿(b)﻿(i) requires an independent review of the operation of the Monitor under this Act to consider whether they are working effectively with hapū, iwi, and Māori organisations.
+  (k) clause 12(2)﻿(b)﻿(i) of Schedule 1 requires an independent review of this Act to consider whether the Monitor is working effectively with hapū, iwi, and Māori organisations.
 
 ### 7 Common duties
-(1) This section applies to the Monitor, an Ombudsman, and the Children and Young People’s Commission when they are carrying out work relating to children or young people who are receiving, or have previously received, services or support through the Oranga Tamariki system.
-(2) The common duties of the Monitor, the Ombudsman, and the Children and Young People’s Commission include—
+(1) This section applies to the Monitor, an Ombudsman, and the Children’s Commissioner when they are carrying out work relating to children or young people who are receiving, or have previously received, services or support through the Oranga Tamariki system.
+(2) The common duties of the Monitor, the Ombudsman, and the Children’s Commissioner include—
   (a) to work together in a comprehensive, cohesive, and efficient way with each other, including by consulting and co-ordinating with each other and sharing information, as appropriate:
-  (b) to minimise the burden and potential risk of harm to individuals when the Monitor, the Ombudsman, or the Children and Young People’s Commission is performing or exercising a function, duty, or power:
+  (b) to minimise the burden and potential risk of harm to individuals when the Monitor, the Ombudsman, or the Children’s Commissioner is performing or exercising a function, duty, or power:
   (c) to minimise the burden on agencies when they are gathering information under this Act and carrying out preliminary inquiries, investigations, or reviews:
   (d) to co-ordinate communications to individuals, agencies, Ministers of the Crown, and the public, as appropriate.
 
@@ -104,6 +104,8 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **approved provider** means—
     (a) a care or custody provider:
     (b) an organisation or a body approved under section 403 of the Oranga Tamariki Act 1989
+  - **board** means the board of the Monitor
+  - **board member** means a member of the board
   - **care or custody provider** means any of the following, in their role as such an organisation or body under the Oranga Tamariki Act 1989:
     (a) an organisation into whose care any child or young person is placed under section 362 of that Act:
     (b) an organisation that operates a residence established under section 364 of that Act:
@@ -114,14 +116,13 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (c) does not include a parent or guardian of a child or young person
   - **chief executive of Oranga Tamariki** means the chief executive of Oranga Tamariki—Ministry for Children
   - **child** has the same meaning as in section 2(1) of the Oranga Tamariki Act 1989
-  - **Children and Young People’s Commission** means the Children and Young People’s Commission established by section 11 of the Children and Young People’s Commission Act 2022
+  - **Children’s Commissioner** means the Commissioner holding that office under section 11 of the Children’s Commissioner Act 2022
   - **code of ethics** means the code of ethics required by section 21
   - **coercive powers** means powers under the Oranga Tamariki Act 1989 that can be exercised without the consent of the individual concerned
   - **department** means a department within the meaning of section 5 of the Public Service Act 2020
   - **harm** includes physical, psychological, emotional, or sexual harm
   - **in care or custody** , in relation to a child or young person, means being subject to an order for custody or sole guardianship or to a care agreement, in favour of (or naming as the carer) the chief executive of Oranga Tamariki, an iwi social service, a cultural social service, or the director of a child and family support service
-  - **Independent Monitor of the Oranga Tamariki System** or means the person referred to in section 12(2)
-  - **Independent Monitoring Agency of the Oranga Tamariki System** or means the public service agency named in Schedule 2 of the Public Service Act 2020 that supports the Monitor in the performance or exercise of their functions, duties, and powers under this Act
+  - **Independent Monitor of the Oranga Tamariki System** or means the Independent Monitor of the Oranga Tamariki System established under section 12
   - **individual** means a natural person
   - **information rules** means rules made by the Monitor under section 49
   - **Māori Advisory Group** means the Māori Advisory Group appointed under section 17
@@ -168,8 +169,23 @@ This Act binds the Crown.
 
 ### 12 Independent Monitor of Oranga Tamariki System established
 (1) This section establishes the Independent Monitor of the Oranga Tamariki System (the Monitor).
-(2) The Monitor is the person appointed under the Public Service Act 2020 as the chief executive of the Independent Monitoring Agency of the Oranga Tamariki System.
-(3) The Monitor must be independent of Oranga Tamariki—Ministry for Children.
+(2) The Monitor is a Crown entity for the purposes of the Crown Entities Act 2004.
+(3) The Crown Entities Act 2004 applies to the Monitor except to the extent that this Act expressly provides otherwise.
+
+### 12A Monitor’s board
+(1) The board consists of 3 members.
+(2) Board members are the board for the purposes of the Crown Entities Act 2004.
+
+### 12B Experience and knowledge of board members
+(1) When recommending a person for membership of the board, the Minister must have regard to the need for board members to collectively have knowledge of, and experience in relation to,—
+  (a) the Oranga Tamariki system; and
+  (b) quality assurance; and
+  (c) data governance.
+(2) This section does not limit sections 29 and 30 of the Crown Entities Act 2004.
+
+### 12C Appointment of Judge as board member
+(1) The appointment of a Judge as a board member does not affect the tenure of their judicial office or the Judge’s rank, title, status, precedence, salary, annual or other allowances, or other rights or privileges as a Judge (including those in relation to superannuation).
+(2) For all purposes, the Judge’s service as a board member is taken to be service as a Judge.
 
 **Monitor’s objectives, monitoring function, duties, and powers**
 
@@ -208,11 +224,13 @@ This Act binds the Crown.
   (b) the chief executive of services approved under section 396 of the Oranga Tamariki Act 1989, who has custody of children or young people:
   (c) the Commissioner of Police.
 
-### 16 Duty to act independently
-(1) The Monitor must act independently when—
-  (a) carrying out their monitoring function under section 14; and
-  (b) developing tools and monitoring approaches under section 15.
-(2) A Minister of the Crown must not direct the Monitor to stop carrying out an activity, or prevent the Monitor from carrying out an activity, that the Monitor considers is necessary to enable them to perform or exercise their functions, duties, or powers under this Act.
+### 16 Independence of Monitor
+Except as expressly provided otherwise in this or another Act, the Monitor must act independently when performing its functions and duties or exercising powers under—
+  (a) this Act; and
+  (b) any other legislation that provides for the functions of the Monitor (other than the Crown Entities Act 2004).
+
+### 16A Exemption from income tax
+The income of the Monitor is exempt from income tax.
 
 **Māori Advisory Group**
 
@@ -296,13 +314,13 @@ The Monitor must provide a copy of a final report prepared under section 22, 23,
   (b) the Minister responsible for the administration of the Oranga Tamariki Act 1989; and
   (c) the chief executive of an agency that is the subject of the report; and
   (d) Ombudsmen; and
-  (e) the Children and Young People’s Commission.
+  (e) the Children’s Commissioner.
 
 ### 29 Final reports to be presented to House of Representatives
 The Minister responsible for the administration of the Oranga Tamariki Act 1989 must present a copy of a final report prepared under section 22, 23, 24, 25, or 26 to the House of Representatives as soon as practicable after receiving the report.
 
 ### 30 Responses to final reports
-(1) The chief executive of an agency that is the subject of any final report of the Monitor must prepare a response in writing to that report.
+(1) The chief executive of an agency that is the subject of a final report of the Monitor must prepare a response in writing to that report.
 (2) In the response, the chief executive must—
   (a) state what the agency intends to do in response to the Monitor’s findings; and
   (b) specify the time frame in which the agency intends to make any necessary changes; and
@@ -314,11 +332,18 @@ The Minister responsible for the administration of the Oranga Tamariki Act 1989 
   (a) a final report of the Monitor makes findings relevant to multiple agencies; and
   (b) the Minister responsible for the Monitor considers that a multi-agency response is desirable.
 
-### 31 Publication of final reports and responses
-(1) The Monitor must publish a copy of a final report prepared under section 22, 23, 24, 25, or 26 and any response to a final report prepared under section 30—
+### 30A Progress reports on compliance with national care standards regulations
+(1) This section applies to a chief executive who has prepared a response under section 30 to a final report of the Monitor under section 23 (which relates to the Monitor’s annual report on compliance with national care standards regulations).
+(2) The chief executive must prepare a progress report that provides—
+  (a) an update on the matters specified in section 30(2); and
+  (b) an explanation of any changes to the chief executive’s response to those matters.
+(3) The chief executive must provide the progress report to the Monitor, the Minister responsible for the Monitor, and the Minister responsible for the administration of the Oranga Tamariki Act 1989 within 4 months after the date on which the chief executive provides their response to the Monitor’s final report under section 23.
+
+### 31 Publication of final reports, responses, and progress reports
+(1) The Monitor must publish a copy of a final report prepared under section 22, 23, 24, 25, or 26 , the response to that final report prepared under section 30, and a progress report prepared under section 30A—
   (a) on an Internet site maintained by or on behalf of the Monitor; and
   (b) within the time frame specified in regulations made under section 57.
-(2) If a final report or response contains information that may identify an individual, the information must be redacted or withheld from publication, unless—
+(2) If a final report, response, or progress report contains information that may identify an individual, the information must be redacted or withheld from publication, unless—
   (a) the information is of a kind referred to in section 32(4)﻿(a) or (b); and
   (b) section 32(5) applies.
 (3) However, the exception in subsection (2) may not be relied on if release of the information may identify any child or young person who has received services or support through the Oranga Tamariki system from an individual referred to in section 32(4)﻿(a) or (b).
@@ -326,13 +351,13 @@ The Minister responsible for the administration of the Oranga Tamariki Act 1989 
 ### 32 Duty to protect individuals’ privacy in relation to reports
 (1) This section applies to a report prepared by the Monitor under section 22, 23, 24, 25(4), 26(2), or 28.
 (2) The report must not contain any personal information about a child or young person or any member of their family or whānau unless the Monitor has obtained informed consent (in accordance with its code of ethics) from the relevant individual (or individuals) to include their personal information in the report with full knowledge of who will receive the report.
-(3) The chief executive of an agency that prepares a response to a report referred to in subsection (1) must not include any personal information that relates to an individual referred to in subsection (2).
-(4) Unless either or both of the circumstances in subsection (5) apply, a report listed in subsection (1) and a response referred to in subsection (3) may not include any personal information about—
+(3) The chief executive of an agency that prepares a response to a report referred to in subsection (1) or a progress report under section 30A must not include any personal information that relates to an individual referred to in subsection (2).
+(4) Unless either or both of the circumstances in subsection (5) apply, a report listed in subsection (1) and a response or a progress report referred to in subsection (3) may not include any personal information about—
   (a) an individual caregiver:
   (b) any other individual delivering services or support to children and young people through the Oranga Tamariki system.
 (5) The circumstances are—
   (a) the individual concerned consents to their personal information being in the report or response:
-  (b) the Monitor or the chief executive of the agency (as applicable) considers that the public interest in including the personal information in the report or response outweighs the individual’s privacy interests.
+  (b) the Monitor or the chief executive of the agency (as applicable) considers that the public interest in including the personal information in the report, response, or progress report outweighs the individual’s privacy interests.
 
 **Power of entry for monitoring purposes**
 
@@ -479,7 +504,7 @@ The Monitor may only collect, use, or disclose information under this Act—
   (h) the disclosure of the information—
     (i) is made under this Act or regulations made under section 57; or
     (ii) is otherwise required by or under law:
-  (i) the disclosure is permitted by section 33 of the Children and Young People’s Commission Act 2022:
+  (i) the disclosure is permitted by section 33 of the Children’s Commissioner Act 2022:
   (j) the disclosure of the information is with the consent of the person—
     (i) to whom the information relates; or
     (ii) to whom the information is confidential:
@@ -580,7 +605,7 @@ The Monitor must notify the person (or persons) prescribed by regulations made u
   (b) give written notice of the referral to the individual who initiated the inquiry, review, investigation, or complaint.
 (5) The persons and bodies are—
   (a) the chief executive of Oranga Tamariki:
-  (b) the Children and Young People’s Commission:
+  (b) the Children’s Commissioner:
   (c) the Monitor:
   (d) an Ombudsman exercising jurisdiction under the Ombudsmen Act 1975 or this Act:
   (e) the Chief Commissioner under the Human Rights Act 1993:
@@ -614,22 +639,7 @@ The Monitor must notify the person (or persons) prescribed by regulations made u
 (2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 58 Review of Act
-(1) The Minister must arrange for an independent review of the operation and effectiveness of this Act and the operation of the Monitor under this Act.
-(2) The review must consider—
-  (a) whether the functions, duties, and powers set out in this Act give effect to the purpose of this Act; and
-  (b) whether the Monitor is—
-    (i) working effectively with Ombudsmen and hapū, iwi, and Māori organisations; and
-    (ii) being effectively supported by agencies and their contracted partners in the Oranga Tamariki system, and whether there is any evidence that the Monitor is being obstructed in performing their functions, duties, or powers under this Act; and
-    (iii) appropriately resourced to efficiently and effectively discharge their functions, duties, or powers under this Act and to support the resilience of the Oranga Tamariki system; and
-  (c) whether any amendments to this Act are necessary or desirable; and
-  (d) any other matters that the Minister considers appropriate, after consulting the Monitor, the Chief Ombudsman, and other Ministers of the Crown with relevant portfolios, as necessary.
-(3) The review must commence no later than 3 years after the commencement of this Act.
-(4) The findings of the review must be reported to—
-  (a) the Minister; and
-  (b) the Minister responsible for the Monitor; and
-  (c) the Minister responsible for administration of the Oranga Tamariki Act 1989; and
-  (d) as far as they relate to Ombudsmen, the House of Representatives.
-(5) The Minister must present a copy of the report on the review to the House of Representatives as soon as practicable after receiving the report.
+[Repealed]
 
 ## Part 4 — Amendments to other legislation
 
@@ -772,3 +782,107 @@ In this Part, unless the context otherwise requires,—
 ### 3 Transfer of information to Monitoring Agency
 (1) Despite anything in any other Act, MSD may transfer to the Monitoring Agency any information held by MSD that is necessary to enable the Monitor to perform their functions or duties or exercise powers under this Act that correspond to functions, duties, or powers that were formerly performed or exercised by MSD.
 (2) Information privacy principle 11 set out in section 22 of the Privacy Act 2020 does not apply to the transfer of information from MSD to the Monitoring Agency under subclause (1).
+
+### Part 2 — Provisions relating to Oversight of Oranga Tamariki System Legislation Amendment Act 2025
+
+### 4 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **amendment Act** means Part 1 of the Oversight of Oranga Tamariki System Legislation Amendment Act 2025
+  - **Aroturuki Tamariki—Independent Children’s Monitor** or means the Independent Monitoring Agency of the Oranga Tamariki System established under section 23 of the Public Service Act 2020
+  - **commencement date** means the date on which the amendment Act comes into force
+  - **former Monitor** means the person holding office as the chief executive of Aroturuki Tamariki immediately before the commencement date
+  - **Monitor** means the Independent Monitor of the Oranga Tamariki System established by section 12 (as replaced by section 5 of the amendment Act)
+  - **relevant legislation** means—
+    (a) this Act:
+    (b) any other legislation under which the Independent Monitor of the Oranga Tamariki System has functions, duties, or powers.
+
+### 5 Disestablishment of Aroturuki Tamariki
+Aroturuki Tamariki is disestablished on the commencement date.
+
+### 6 Consequences of disestablishment
+(1) On the commencement date,—
+  (a) all assets belonging to Aroturuki Tamariki vest in the Monitor; and
+  (b) all information and documents held by Aroturuki Tamariki are held by the Monitor; and
+  (c) all money payable to or by Aroturuki Tamariki becomes payable to or by the Monitor; and
+  (d) all rights, liabilities, contracts, entitlements, and engagements of Aroturuki Tamariki become the rights, liabilities, contracts, entitlements, and engagements of the Monitor; and
+  (e) subject to clause 7, every employee of Aroturuki Tamariki becomes an employee of the Monitor on the same terms and conditions that applied to the employee immediately before they became an employee of the Monitor; and
+  (f) anything done, or omitted to be done, or that is to be done, by or in relation to the former Monitor or Aroturuki Tamariki is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to the Monitor; and
+  (g) proceedings that may be commenced, continued, or enforced by or against the former Monitor or Aroturuki Tamariki may instead be commenced, continued, or enforced by or against the Monitor without amendment to the proceedings; and
+  (h) a matter or thing that could, but for this clause, have been completed by Aroturuki Tamariki may be completed by the Monitor.
+(2) The transfer of information from Aroturuki Tamariki to the Monitor under subclause (1) does not constitute an action that is a breach of information privacy principle 8 or 11 (as set out in section 22 of the Privacy Act 2020).
+(3) For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), Aroturuki Tamariki and the Monitor are treated as the same person.
+(4) The disestablishment of Aroturuki Tamariki does not, by itself, affect any of the following matters:
+  (a) any decision made, or anything done or omitted to be done, by the former Monitor in relation to the performance or exercise of the former Monitor’s functions, powers, or duties under the relevant legislation:
+  (b) any proceedings commenced by or against the former Monitor or Aroturuki Tamariki:
+  (c) any other matter or thing arising out of the former Monitor’s performance or exercise, or purported performance or exercise, of their functions, powers, or duties under the relevant legislation.
+(5) Nothing in subclause (1)﻿(e) applies to the former Monitor (for which clause 9 provides).
+
+### 7 Transfer of employees from Aroturuki Tamariki to Monitor
+(1) This clause applies to a person who becomes an employee of the Monitor under clause 6(1)﻿(e) (a transferred employee).
+(2) The terms and conditions of employment of a transferred employee immediately before the commencement date continue to apply in relation to that employee until—
+  (a) those terms and conditions are varied by agreement between the transferred employee and the Monitor; or
+  (b) the transferred employee accepts a subsequent appointment with the Monitor.
+(3) For the purposes of all legislation and every law, determination, contract, and agreement relating to the employment of a transferred employee,—
+  (a) the employment agreement of that employee is to be treated as unbroken; and
+  (b) the employee’s period of service with Aroturuki Tamariki, and every other period of service of that employee that is recognised by Aroturuki Tamariki as continuous service, is to be treated as a period of service with the Monitor.
+(4) To avoid doubt, the employment of a transferred employee by the Monitor does not—
+  (a) constitute new employment for the purposes of the Holidays Act 2003 or the KiwiSaver Act 2006 or any service-related benefits (whether legislative or otherwise):
+  (b) treat the transferred employee as a new employee for the purposes of the Employment Relations Act 2000.
+(5) A transferred employee is not entitled to receive any payment or benefit from Aroturuki Tamariki or the Monitor on the grounds that the person’s position in Aroturuki Tamariki has ceased to exist or the person has ceased to be an employee of Aroturuki Tamariki as a result of their transfer to the Monitor.
+(6) This clause overrides—
+  (a) Part 6A of the Employment Relations Act 2000; and
+  (b) any employment protection provision in any relevant employment agreement.
+
+### 8 Government Superannuation Fund
+(1) This clause applies to a person who, immediately before becoming an employee of the Monitor, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
+(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of the Monitor.
+(3) The Government Superannuation Fund Act 1956 applies in all respects as if the person’s service as an employee of the Monitor were Government service.
+(4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the Monitor is the controlling authority.
+
+**Chief executive of Monitor**
+
+### 9 First chief executive of Monitor
+(1) On the commencement date, the person who held office as the chief executive of Aroturuki Tamariki immediately before that date is taken to have been appointed as the first chief executive of the Monitor—
+  (a) for a term starting on 1 August 2025 and ending with the close of 31 July 2026; and
+  (b) on the same terms and conditions of employment that applied to the person immediately before the commencement date.
+(2) For the purposes of all legislation and every law, determination, contract, and agreement relating to the person’s employment with the Monitor,—
+  (a) the employment agreement of that person is to be treated as unbroken; and
+  (b) the person’s period of service with the Public Service Commissioner, and every other period of service of that person that is recognised by the Public Service Commissioner as continuous service, is to be treated as a period of service with the Monitor.
+(3) To avoid doubt, the appointment of the person as the first chief executive of the Monitor does not—
+  (a) constitute new employment for the purposes of the Holidays Act 2003 or the KiwiSaver Act 2006 or any service-related benefits (whether legislative or otherwise):
+  (b) treat the person as a new employee for the purposes of the Employment Relations Act 2000.
+(4) The person is not entitled to receive any payment or benefit from the Public Service Commissioner or the Monitor on the grounds that the person’s position in Aroturuki Tamariki has ceased to exist or the person has ceased to be an employee of the Public Service Commissioner as a result of their transfer to the Monitor.
+(5) This clause overrides—
+  (a) section 117 of the Crown Entities Act 2004; and
+  (b) Part 6A of the Employment Relations Act 2000; and
+  (c) any employment protection provision in any relevant employment agreement.
+
+**References to former Monitor and Aroturuki Tamariki**
+
+### 10 References to former Monitor and Aroturuki Tamariki
+(1) On and after the commencement date, a reference to the former Monitor or Aroturuki Tamariki in any legislation, notice, instrument, contract, or other document must be read as a reference to the Monitor.
+(2) This clause applies unless the context otherwise requires.
+
+**Reviews and reports of former Monitor**
+
+### 11 Continuation or completion of reviews and reports by former Monitor
+(1) This clause applies to any review or report started by the former Monitor under this Act before the commencement date but not completed by the close of the day before the commencement date.
+(2) On and after the commencement date, the review or report may be continued or completed by the Monitor.
+(3) Nothing in this clause limits clause 6(1)﻿(h).
+
+**Review of amendments to Act**
+
+### 12 Review of amendments made by amendment Act
+(1) The Minister must arrange for an independent review of the operation and effectiveness of this Act as amended by the amendment Act, including the operation and effectiveness of the Monitor established by section 12 (as replaced by the amendment Act).
+(2) The review must consider—
+  (a) whether the functions, duties, and powers set out in this Act are supporting the Monitor to give effect to the purpose of this Act; and
+  (b) whether the Monitor is—
+    (i) working effectively with Ombudsmen and hapū, iwi, and Māori organisations; and
+    (ii) being effectively supported by agencies and its contracted partners in the Oranga Tamariki system, and whether there is any evidence that the Monitor is being obstructed in performing their functions, duties, or powers under this Act; and
+    (iii) appropriately resourced to efficiently and effectively discharge its functions, duties, or powers under this Act and to support the resilience of the Oranga Tamariki system; and
+  (c) whether any amendments to this Act are necessary or desirable; and
+  (d) any other matters that the Minister considers appropriate, after consulting the Monitor, the Chief Ombudsman, and other Ministers of the Crown with relevant portfolios, as necessary.
+(3) The review must begin no later than 5 years after the commencement date.
+(4) The findings of the review must be reported to the Minister.
+(5) The Minister must present a copy of the report on the review to the House of Representatives as soon as practicable after receiving the report.
