@@ -1,5 +1,5 @@
 # Crimes of Torture Act 1989
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2025-08-01_
 
 > Title
 
@@ -103,7 +103,7 @@ In this Part, unless the context otherwise requires,—
   - **National Preventive Mechanism** means 1 or more of the following that may, for the time being, be designated under section 26 as a National Preventive Mechanism:
     (a) an Ombudsman holding office under the Ombudsmen Act 1975:
     (b) the Independent Police Conduct Authority:
-    (c) the Children and Young People’s Commission:
+    (c) the Children’s Commissioner:
     (d) the Registrar of the Court Martial of New Zealand appointed under section 79 of the Court Martial Act 2007:
     (e) any other person, body or agency that is designated a National Preventive Mechanism
   - **Optional Protocol** means the Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, adopted by the General Assembly of the United Nations on 18 December 2002, a copy of the English text of which is set out in Schedule 2
