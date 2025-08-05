@@ -5,8 +5,8 @@ _Consolidation as at 2025-08-05_
 This Act is the Crown Minerals Amendment Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after Royal assent.
-(2) However, the following sections come into force on a single date set by Order in Council:
+(1) This Act comes into force on 6 August 2025.
+(2) However, the following sections come into force on a single date set by Order in Council:The following table is small in size and has 3 columns that are grouped under the heading Provisions commenced by Order in Council.Provisions commenced by Order in CouncilProvisionsCommencement dateOrder in CouncilSection 5(1) (so far as it relates to the definition of Tier 3 permit); sections 6 to 9, 11, 16(2), 18, 19, 21, 23(1) to (4), 25, 37, and 65(1); clauses 44 and 45 of Part 6 of Schedule 1 of the Crown Minerals Act 1991 (as inserted by the Schedule)25 September 2025Clause 2 of the Crown Minerals Amendment Act 2025 (Tier 3 Permits) Commencement Order 2025This note is not part of the Act.
   (a) section 5(1) (so far as it relates to the definition of Tier 3 permit):
   (b) sections 6 to 9, 11, 16(2), 18, 19, 21, 23(1) to (4), 25, 37, and 65(1):
   (c) clauses 44 and 45 of Part 6 of Schedule 1 of the principal Act (as inserted by the Schedule of this Act).
