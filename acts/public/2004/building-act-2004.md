@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2025-04-08_
+_Consolidation as at 2025-08-08_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -534,6 +534,9 @@ Under this Act, the chief executive—
   (k) appoints a product certification accreditation body under section 261; and
   (ka) registers persons as product certification bodies under section 267A and registers product certificates under section 272A; and
   (kb) makes product certification scheme rules under section 272E; and
+  (kba) issues notices under section 272HA; and
+  (kbb) provides advice to the Minister on decisions to be made under section 272HB; and
+  (kbc) ensures that the matters required to be published and kept available under section 272HC are published and kept available; and
   (kc) appoints a person as the modular component manufacturer certification accreditation body under section 272I; and
   (kd) registers persons as modular component manufacturer certification bodies under section 272N and modular component manufacturers under section 272Y; and
   (ke) makes MCM scheme rules under section 272ZG; and
@@ -702,10 +705,14 @@ All building work must comply with the building code to the extent required by t
   (ca) a current national multiple-use approval issued under section 30F, if every relevant condition in that national multiple-use approval is met:
   (d) a current registered product certificate, if every relevant condition in that product certificate is met:
   (da) in relation to the design and manufacture of a modular component that is designed and manufactured by a registered MCM, a current manufacturer’s certificate issued by that registered MCM:
+  (db) any recognition by the chief executive under section 272HA of any building products or building methods, or group of building products or building methods, that are certified under an overseas product certification scheme (if every relevant limitation and condition of the recognition is complied with):
   (e) to the extent that compliance with a requirement imposed by regulations made under the Electricity Act 1992 or the Gas Act 1992 is compliance with any particular provisions of the building code, a certificate issued under any of those regulations to the effect that any energy work complies with those requirements.
 (2) In considering whether something complies with the building code, a building consent authority or, as the case may be, a regional authority—
   (a) must have regard to any relevant warning or ban in force under section 26(2); and
-  (b) may have regard to any guidance information published by the chief executive under section 175.
+  (b) may have regard to any guidance information published by the chief executive under section 175; and
+  (c) may have regard to any recognition by the Minister under section 272HB of any—
+    (i) groups of standards issued by an overseas standards organisation; or
+    (ii) standards certification schemes that a standards certification organisation that is based in New Zealand or overseas administers or operates under.
 
 **Regulations may specify only 1 means of complying with building code**
 
@@ -3614,6 +3621,8 @@ The chief executive must, in performing his or her functions, consult with,—
     (i) the building code, acceptable solutions, verification methods, and building product specifications:
     (ii) any warnings or bans under section 26(2) in force in relation to a building product or building method:
     (iii) any guidance information published by the chief executive under section 175:
+  (aa) decisions to be made under section 272HA or 272HB:
+  (ab) recognitions under section 272HA or 272HB:
   (b) whether this Act or the regulations are achieving their purpose:
   (c) building issues that are not covered by this Act, but which the panel considers should be dealt with by legislation:
   (d) any other matter that the chief executive considers appropriate for the panel to advise on.
@@ -4833,8 +4842,8 @@ A dam owner accreditation body may charge an accredited dam owner the prescribed
 (1) The chief executive must, by notice, specify—
   (a) the minimum frequency of audits that the product certification accreditation body must conduct on accredited product certification bodies; and
   (b) any other matters that the chief executive considers necessary or appropriate.
-(2) The chief executive may, by notice, specify certifications of building products or building methods provided by persons outside New Zealand that are to be treated as product certifications for the purposes of this subpart.
-(3) Subsection (2) applies only if the chief executive is satisfied that the building products or building methods concerned meet the prescribed criteria and standards for certification.
+(2)
+(3)
 (4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Audit fees**
@@ -5139,6 +5148,45 @@ Suspension by chief executive
   (b) is liable on conviction,—
     (i) in the case of an individual, to a fine not exceeding $300,000:
     (ii) in the case of a body corporate, to a fine not exceeding $1,500,000.
+
+**Recognition of building products or building methods certified under overseas product certification scheme**
+
+### 272HA Recognition of building products or building methods certified under overseas product certification scheme
+(1) The chief executive may, by notice, recognise 1 or more, or 1 or more groups of, building products or building methods that are certified under an overseas product certification scheme.
+(2) Subsection (1) applies only if the chief executive is satisfied that—
+  (a) the building products or building methods meet any criteria prescribed for the purposes of this paragraph; and
+  (b) the overseas product certification scheme meets any criteria prescribed for the purposes of this paragraph.
+(3) A person who uses building products or building methods that are (or are in a group that is) recognised under subsection (1) must, for the purposes of this Act, be treated as having complied with all provisions of the building code that are relevant to the intended use.
+(4) Subsection (3) applies only to the extent that the person complies with any limitations or conditions of the recognition that are set out in the notice.
+(5) A notice under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Recognition of standards issued by overseas standards organisations, and standards certification schemes**
+
+### 272HB Recognition of overseas standards and of standards certification schemes
+(1) The Minister may, by notice, recognise, in whole or in part, any—
+  (a) groups of standards issued by an overseas standards organisation; or
+  (b) standards certification schemes that a standards certification organisation that is based in New Zealand or overseas administers or operates under.
+(2) Subsection (1)﻿(a) applies only if the Minister is satisfied that—
+  (a) the groups of standards or the part concerned meet any criteria prescribed for the purposes of this paragraph; and
+  (b) the overseas standards organisation meets any criteria prescribed for the purposes of this paragraph.
+(3) Subsection (1)﻿(b) applies only if the Minister is satisfied that—
+  (a) the standards certification schemes or the part concerned meet any criteria prescribed for the purposes of this paragraph; and
+  (b) the standards certification organisation meets any criteria prescribed for the purposes of this paragraph.
+(4) The Minister may at any time, by notice, amend or revoke a notice of recognition made under subsection (1).
+
+### 272HC Public notification and availability
+(1) The chief executive must ensure that, promptly after a notice is made under section 272HB(1) or (4), notice of its making is published in the Gazette.
+(2) The notice must include the following information:
+  (a) a statement that a notice was made under section 272HB(1) or (4) (as applicable) by the Minister:
+  (b) the title of the notice made under section 272HB(1) or (4):
+  (c) the date on which the notice under section 272HB(1) or (4) was made:
+  (d) the Ministry’s Internet site where the notice made under section 272HB(1) or (4), and the related notice of recognition, are published.
+(3) The chief executive must also ensure that,—
+  (a) promptly after a notice of recognition is made under section 272HB(1), that notice is made publicly available on the Ministry’s Internet site; and
+  (b) even after a notice of recognition is amended or revoked, a digital copy of it in its original form continues to be publicly available on the Ministry’s Internet site; and
+  (c) promptly after a notice of recognition is amended, each of the following is publicly available on the Ministry’s Internet site:
+    (i) a digital copy of the amendment:
+    (ii) a digital copy of the notice of recognition in its up-to-date form.
 
 ### Subpart 7A — Responsibilities relating to modular component manufacturers
 
@@ -6980,6 +7028,8 @@ On an application under section 381(1), the District Court may direct the chief 
   (cb) a responsible person under subpart 6B of Part 2 and any person engaged or authorised by a responsible person under that subpart to exercise a power under that subpart; and
   (cc) a constable who exercises a power under section 133BR; and
   (cd) any person engaged by the chief executive to assist the chief executive in relation to decisions to be made under section 22(1) or 25B; and
+  (ce) any person engaged by the chief executive to assist the chief executive in relation to decisions to be made under section 272HA; and
+  (cf) any person engaged to assist the chief executive to provide advice to the Minister in relation to decisions to be made under section 272HB; and
   (d) any member, employee, or agent of a territorial authority or regional authority; and
   (e) any member of a committee appointed by the chief executive, a territorial authority, or a regional authority.
 (2) No civil proceedings may be brought against a person to whom this section applies for any act done or omitted to be done by that person in good faith under this Act.
@@ -6996,6 +7046,7 @@ Any civil proceedings against a building consent authority in respect of the per
   (caa) a current manufacturer’s certificate for a modular component:
   (ca) a current national multiple-use approval issued under section 30F (including, in any particular case, any minor customisations permitted by regulations made under section 402(1)﻿(kc)):
   (d) a code compliance certificate issued under section 95:
+  (da) a recognition by the chief executive under section 272HA:
   (e) a certificate issued under any regulations made under the Electricity Act 1992 or the Gas Act 1992.
 (2) Subsection (3) applies if—
   (a) a building consent has been issued under section 72; and
@@ -7006,6 +7057,9 @@ Any civil proceedings against a building consent authority in respect of the per
 (4) The persons are—
   (a) the building consent authority concerned; and
   (b) every member, employee, or agent of that building consent authority.
+(5) No civil proceedings may be brought against a building consent authority for anything done or omitted to be done in good faith in reliance on a claim made by a manufacturer, importer, retailer, or wholesaler given under Part 4B that the relevant building product has been—
+  (a) manufactured in accordance with a standard, or performs or will perform in accordance with a standard, that the Minister has recognised under section 272HB; and
+  (b) certified as meeting the standard referred to in paragraph (a) under a standards certification scheme that the Minister has recognised under section 272HB.
 
 ### 393 Limitation defences
 (1) The Limitation Act 2010 applies to civil proceedings against any person if those proceedings arise from—
