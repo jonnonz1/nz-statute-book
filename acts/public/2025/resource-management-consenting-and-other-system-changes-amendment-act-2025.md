@@ -5,9 +5,9 @@ _Consolidation as at 2025-08-20_
 This Act is the Resource Management (Consenting and Other System Changes) Amendment Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after Royal assent, except as provided in this section.
-(2) Sections 11, 32 to 36, 41, and 89 come into force 2 months after Royal assent.
-(3) Section 342A(4), as inserted by section 82, comes into force 2 years after Royal assent.
+(1) This Act comes into force on 21 August 2025, except as provided in this section.
+(2) Sections 11, 32 to 36, 41, and 89 come into force on 20 October 2025.
+(3) Section 342A(4), as inserted by section 82, comes into force on 20 August 2027.
 
 ### 3 Principal Act
 This Act amends the Resource Management Act 1991.
