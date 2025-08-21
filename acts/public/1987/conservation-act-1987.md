@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-08-21_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -2287,8 +2287,13 @@ A local authority may make contributions out of its general fund or account for 
 (3) Every person commits an offence against this Act who, knowingly and without reasonable excuse, disposes of any contaminant into or onto any conservation area or in a position where it is likely to spill, drift, or blow onto or percolate or wash onto or into any conservation area.
 (4) Every person commits an offence who disturbs, injures, poisons, kills, or detrimentally affects any freshwater fishery, fish spawning ground, or food of freshwater fish in any river, stream, lake, or any other water, by allowing any contaminant to enter into any such water or refuses to remove as much as may be practicable of the contaminant in respect of which the breach arose immediately upon having been ordered to do so by a warranted officer.
 (5) For the purposes of this section, a person shall be deemed to allow a contaminant or water containing a contaminant to enter into water if that person places or discharges or causes or permits to be placed or discharged any contaminant or water containing any contaminant, in a position where that contaminant or any other contaminant emanating as a result of a natural process from that contaminant is liable to flow, fall, or descend into, or to be washed or percolate into, or to be carried by wind, tide, or current into, any water.
-(6) Where any person is convicted of an offence under subsection (4) that person shall be liable to imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both, and to a further fine of $10,000 per day if the offence is a continuing one; but it is a defence to the charge if the defendant can show that the contaminant was discharged in terms of the conditions of a current discharge permit granted under the Resource Management Act 1991 or was a permitted activity in the relevant regional plan under that Act, and for this purpose it is a sufficient defence to produce a certificate to that effect from the regional council in the area for which the permit was purported to be granted or activity otherwise permitted.
-(6A)
+(6) A person who is convicted of an offence under subsection (4) is liable to imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both, and to a further fine of $10,000 per day if the offence is a continuing one, unless a defence listed in subsection (6A) applies.
+(6A) It is a defence to a charge under subsection (4) if the defendant can show that the discharge of the contaminant was—
+  (a) done in accordance with the conditions of a current discharge permit granted under the Resource Management Act 1991; or
+  (b) allowed by a national environmental standard as defined in section 2(1) of the Resource Management Act 1991; or
+  (c) authorised by any secondary legislation (including by way of an exemption) made under the Resource Management Act 1991; or
+  (d) a permitted activity in the relevant regional plan and any proposed regional plan, if there is one, under the Resource Management Act 1991.
+(6B) For the purpose of a defence under subsection (6A), it is sufficient for the defendant to produce a certificate from the regional council in the area for which the permit was purported to be granted or the activity was otherwise permitted to the effect that a defence listed in subsection (6A) applies.
 (7) Subsection (4) shall apply in respect of any marine and coastal area administered or managed by the Department, and all freshwater in New Zealand.
 
 ### 40 Powers of warranted officers
