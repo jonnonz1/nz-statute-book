@@ -5,7 +5,7 @@ _Consolidation as at 2025-08-26_
 This Act is the Employment Relations (Employee Remuneration Disclosure) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 27 August 2025.
 
 ## Part 1 — Amendments relating to employee remuneration disclosure
 
