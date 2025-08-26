@@ -5,7 +5,7 @@ _Consolidation as at 2025-08-26_
 This Act is the Local Government (Water Services) (Repeals and Amendments) Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after Royal assent.
+(1) This Act comes into force on 27 August 2025.
 (2) However, section 172, to the extent that it repeals subpart 3 of Part 2 of the Local Government (Water Services Preliminary Arrangements) Act 2024, comes into force on 1 July 2026.
 
 ## Part 1 — Amendments to civil defence legislation
@@ -548,7 +548,7 @@ In this Part, income year has the meaning set out in section YA 1 of the Income 
     (c) the water organisation is not a company incorporated under the Companies Act 1993, and any distribution it makes is to a person who derives only exempt income.
   (2) In this section and section CW 39, water organisation has the same meaning as in section 4 of the Local Government (Water Services) Act 2025.
   (3) In this section, water services has the same meaning as in section 4 of the Local Government (Water Services) Act 2025.
-  (4) In this section, territorial authority has the same meaning as in section 2 of the Local Government Act 2002.
+  (4) In this section, territorial authority has the same meaning as in section 5(1) of the Local Government Act 2002.
   (5) In this section, consumer trust has the same meaning as in section 4 of the Local Government (Water Services) Act 2025.
 (2) Subsection (1) applies for the 2025–26 and later income years.
 
@@ -847,8 +847,8 @@ In Schedule 1,—
 ### 60 Principal Act
 This Part amends the Receiverships Act 1993.
 
-### 61 Cross-heading above section 40A replaced
-Replace the cross-heading above section 40A with Local authorities and water organisations.
+### 61 Cross-heading above section 40AAA replaced
+Replace the cross-heading above section 40AAA with Local authorities and water organisations.
 
 ### 62 Section 40AAA replaced (Meaning of Watercare)
 Replace section 40AAA with:Meaning of water organisation and Watercare
@@ -963,8 +963,8 @@ After section 44A, insert:Designations Relationship between environmental perfor
     (c) the designation is applied to the work.
   (7) In this section, conditions includes a condition about the physical boundaries of a designation.
 
-### 76 New sections 58JA to 58JE and cross-headings inserted
-After section 58J, insert:Wastewater and stormwater environmental performance standardsRelationship between wastewater and stormwater environmental performance standards and other instrumentsPlan may permit effects that wastewater or stormwater environmental performance standard does not deal withInfrastructure design solutionsRelationship between infrastructure design solutions and other instrumentsPlan may permit effects that infrastructure design solution does not deal withReferences to infrastructure design solutions
+### 76 New sections 58JB to 58JF and cross-headings inserted
+After section 58JA, insert:Wastewater and stormwater environmental performance standardsRelationship between wastewater and stormwater environmental performance standards and other instrumentsPlan may permit effects that wastewater or stormwater environmental performance standard does not deal withInfrastructure design solutionsRelationship between infrastructure design solutions and other instrumentsPlan may permit effects that infrastructure design solution does not deal withReferences to infrastructure design solutions
   (1) A wastewater environmental performance standard or a stormwater environmental performance standard prevails over a rule.
   (2) Subsection (1) applies whether the rule is more or less stringent than the wastewater environmental performance standard or the stormwater environmental performance standard.
   (3) If there is any conflict or duplication between a wastewater environmental performance standard or a stormwater environmental performance standard and a document listed in subsection (4), the environmental performance standard prevails.
@@ -1820,7 +1820,7 @@ After section 139A, insert:Stormwater environmental performance standards: appli
     (d) section 20A(2).
 
 ### 161 New subpart 7B of Part 3 inserted
-After section 139A, insert:Infrastructure design solutionsInfrastructure design solutionsInfrastructure design solutions: application of certain provisions of Resource Management Act 1991
+After Subpart 7A, insert:Infrastructure design solutionsInfrastructure design solutionsInfrastructure design solutions: application of certain provisions of Resource Management Act 1991
   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister and following consultation undertaken by the Water Services Authority with stormwater network operators, wastewater network operators, regional councils, and any other person it considers appropriate, make regulations to set infrastructure design solutions that set the following matters for wastewater and stormwater infrastructure:
     (a) technical performance standards:
     (b) treatment processes:
