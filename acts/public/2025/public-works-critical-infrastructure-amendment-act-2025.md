@@ -5,7 +5,7 @@ _Consolidation as at 2025-08-26_
 This Act is the Public Works (Critical Infrastructure) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 27 August 2025.
 
 ### 3 Principal Act
 This Act amends the Public Works Act 1981.
