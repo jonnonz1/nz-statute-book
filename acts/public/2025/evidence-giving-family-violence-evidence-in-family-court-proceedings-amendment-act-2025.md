@@ -5,7 +5,7 @@ _Consolidation as at 2025-08-26_
 This Act is the Evidence (Giving Family Violence Evidence in Family Court Proceedings) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force 6 months after Royal assent.
+This Act comes into force on 26 February 2026.
 
 ## Part 1 — Amendments to Evidence Act 2006
 
