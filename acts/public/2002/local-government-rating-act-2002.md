@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-08-27_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -207,6 +207,7 @@ For the purposes of section 13(2)﻿(b), categories of rateable land are categor
 
 ### 16 Targeted rate
 (1) A local authority may set a targeted rate for 1 or more activities or groups of activities if those activities or groups of activities are identified in its funding impact statement as the activities or groups of activities for which the targeted rate is to be set.
+(1A) For the purposes of subsection (1), a group of activities may include a group of water services activities under the Local Government (Water Services) Act 2025.
 (2)
 (3) A targeted rate may be set in relation to—
   (a) all rateable land within the local authority’s district; or
@@ -234,6 +235,11 @@ For the purposes of section 16(3)﻿(b) and (4)﻿(b), categories of rateable la
   (b) according to a scale of charges.
 (3) Subsection (1) does not apply to Auckland Council.
 (4) In subsection (3), Auckland Council means the local authority established by section 6(1) of the Local Government (Auckland Council) Act 2009.
+
+### 19AA Targeted rate for wastewater
+(1) A local authority may set a targeted rate in accordance with its funding impact statement for the wastewater services provided by the local authority.
+(2) A targeted rate under subsection (1) may be calculated as a fixed charge per unit of wastewater.
+(3) In this section, wastewater services has the meaning given in section 4 of the Local Government (Water Services) Act 2025.
 
 ### 19A Rates not to overlap with targeted rates under Urban Development Act 2020
 (1) This section applies if an Order in Council under section 186 of the Urban Development Act 2020 authorises Kāinga Ora–Homes and Communities (Kāinga Ora) to set targeted rates under that Act for a project area within a local authority’s district.
