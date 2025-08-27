@@ -1,5 +1,5 @@
 # Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010
-_Consolidation as at 2024-12-24_
+_Consolidation as at 2025-08-27_
 
 ### 1 Title
 This Act is the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010.
@@ -167,16 +167,24 @@ The matters provided for in sections 10 to 35 are also provided for in sections 
 (3) On and from the commencement date, the Council must ensure that the policy statement does not remain inconsistent with the vision and strategy for any longer than is necessary to amend the policy statement to make it consistent with the vision and strategy.
 (4) The vision and strategy prevails over the policy statement during any period of inconsistency described in subsection (3).
 
-### 13 Effect of vision and strategy on Resource Management Act 1991 planning documents
+### 13 Effect of vision and strategy on planning documents, environmental performance standards, and infrastructure design solutions
 (1) The vision and strategy prevails over any inconsistent provision in—
   (a) a national policy statement issued under section 52 of the Resource Management Act 1991; and
   (b) a New Zealand coastal policy statement issued under section 57 of the Resource Management Act 1991; and
-  (c) a national planning standard published under section 58F of the Resource Management Act 1991, to the extent that it contains provisions referred to in section 58C(1)﻿(b) of that Act (which refers to matters that may be included in a national policy statement):
+  (c) a national planning standard published under section 58F of the Resource Management Act 1991, to the extent that it contains provisions referred to in section 58C(1)﻿(b) of that Act (which refers to matters that may be included in a national policy statement); and
+  (d) a wastewater environmental performance standard made under section 138 of the Water Services Act 2021; and
+  (e) a stormwater environmental performance standard made under section 139A of the Water Services Act 2021; and
+  (f) an infrastructure design solution made under section 139C of the Water Services Act 2021.
 (2) The Council must not review or amend under section 79 of the Resource Management Act 1991 the vision and strategy inserted in the Waikato Regional Policy Statement.
 (3) A local authority must not amend under section 55 of the Resource Management Act 1991 a document defined in section 55(1) of the Act if the amendment would make the document inconsistent with the vision and strategy.
 (3A) A local authority must not amend under section 58I of the Resource Management Act 1991 a document defined in that section, to the extent that the document contains provisions referred to in section 58C(1)﻿(b) of that Act, if the amendment would make the document inconsistent with the vision and strategy.
-(4) A rule included in a regional or district plan for the purpose of giving effect to the vision and strategy prevails over a national environmental standard made under section 43 of the Resource Management Act 1991, if it is more stringent than the standard.
-(5) A rule included in a regional or district plan for the purpose of giving effect to the vision and strategy prevails over a water conservation order made under section 214 of the Resource Management Act 1991, if it is more stringent than the order.
+(4) If a rule included in a regional or district plan for the purpose of giving effect to the vision and strategy is more stringent than a document listed in subsection (5), the rule prevails over that document.
+(5) The documents are—
+  (a) a national environmental standard made under section 43 of the Resource Management Act 1991:
+  (b) a water conservation order made under section 214 of the Resource Management Act 1991:
+  (c) a wastewater environmental performance standard made under section 138 of the Water Services Act 2021:
+  (d) a stormwater environmental performance standard made under section 139A of the Water Services Act 2021:
+  (e) an infrastructure design solution made under section 139C of the Water Services Act 2021.
 
 ### 14 Updating Resource Management Act 1991 planning documents to conform with reviewed vision and strategy
 (1) The Council must follow the process in subsection (3), and every local authority must follow the process in subsection (4), after every vision and strategy review.
@@ -277,7 +285,8 @@ The matters provided for in sections 10 to 35 are also provided for in sections 
   (b) activities in the catchment that affect the Waikato River.
 (9) Except as otherwise expressly provided in this Act, the person must have particular regard to the vision and strategy in addition to any requirement specified in the enactment for carrying out the functions or exercising the powers.
 (10) The enactments are—
-  (a) the Taumata Arowai–the Water Services Regulator Act 2020; and
+  (aaa) the Local Government (Water Services) Act 2025; and
+  (a) the Water Services Authority—Taumata Arowai Act 2020; and
   (b) the Water Services Act 2021.
 
 **Reviews**
