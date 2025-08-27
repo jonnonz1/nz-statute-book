@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-08-27_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -266,6 +266,8 @@ _Consolidation as at 2025-07-01_
   - **unincorporated body** means an unincorporated body of persons, including a partnership, a joint venture, and the trustees of a trust
   - **unit title body corporate** means a body corporate under the Unit Titles Act 2010, other than a body corporate of a retirement village registered under the Retirement Villages Act 2003
   - **warranty** , in respect of goods supplied, means an undertaking given under the supply agreement to remedy any defect in the goods that appears during a certain period of time after the goods are supplied or before a certain level of usage is reached
+  - **water organisation** has the meaning set out in section 4 of the Local Government (Water Services) Act 2025
+  - **water services** has the meaning set out in section 4 of the Local Government (Water Services) Act 2025
   - **working day** means any day of the week other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
@@ -503,12 +505,14 @@ _Consolidation as at 2025-07-01_
 (7) For the purposes of this Act—
   (a) every local authority is deemed to supply goods and services to any person where any amount of rates is payable by that person to that local authority:
   (b) the Chatham Islands Council is treated as supplying goods and services to a person if an amount of council dues, as defined in section 2 of the Chatham Islands Council Act 1995, is payable by the person to the Chatham Islands Council.
-(7B) For the purposes of this Act, a local authority is treated as supplying goods and services to a person if the local authority requires a contribution from the person as—
+(7B) For the purposes of this Act, a local authority or a water organisation is treated as supplying goods and services to a person if the local authority or the water organisation requires a contribution from the person as—
   (a) a financial contribution that is a condition of a resource consent under the Resource Management Act 1991:
-  (b) a development contribution under the Local Government Act 2002.
-(7C) For the purposes of this Act, a person who makes a contribution to a local authority is treated as supplying goods and services to the local authority to the extent that the contribution consists of land and is—
+  (b) a development contribution under the Local Government Act 2002:
+  (c) a development contribution under the Local Government (Water Services) Act 2025.
+(7C) For the purposes of this Act, a person who makes a contribution to a local authority or a water organisation is treated as supplying goods and services to the local authority or the water organisation to the extent that the contribution consists of land and is—
   (a) a financial contribution that is a condition of a resource consent under the Resource Management Act 1991:
-  (b) a development contribution under the Local Government Act 2002.
+  (b) a development contribution under the Local Government Act 2002:
+  (c) a development contribution under the Local Government (Water Services) Act 2025.
 (7D)
 (7E)
 (7F) For the purposes of this Act, when a person is liable to pay a levy set under section 40 of the Infrastructure Funding and Financing Act 2020 by a responsible SPV, as defined in section 7 of that Act, the levy is treated as being consideration for a supply of goods and services to the person by the responsible SPV.
@@ -635,7 +639,11 @@ For the purpose of the definition of output tax and sections 8(1), 15A to 15E, 1
 ### 6 Meaning of term taxable activity
 (1) For the purposes of this Act, the term taxable activity means—
   (a) any activity which is carried on continuously or regularly by any person, whether or not for a pecuniary profit, and involves or is intended to involve, in whole or in part, the supply of goods and services to any other person for a consideration; and includes any such activity carried on in the form of a business, trade, manufacture, profession, vocation, association, or club:
-  (b) without limiting the generality of paragraph (a), the activities of any public authority or any local authority or public purpose Crown-controlled company.
+  (b) without limiting the generality of paragraph (a), the activities of any—
+    (i) local authority; or
+    (ii) public authority; or
+    (iii) public purpose Crown-controlled company; or
+    (iv) water organisation under the Local Government (Water Services) Act 2025.
 (2) Anything done in connection with the beginning or ending, including a premature ending, of a taxable activity is treated as being carried out in the course or furtherance of the taxable activity.
 (3) Notwithstanding anything in subsections (1) and (2), for the purposes of this Act the term taxable activity shall not include, in relation to any person,—
   (a) being a natural person, any activity carried on essentially as a private recreational pursuit or hobby; or
@@ -828,7 +836,7 @@ This Act shall bind the Crown.
   (a) a payment of the part of the price becomes due or is received:
   (b) the supplier or recipient issues an invoice for the part of the price.
 (7) Notwithstanding anything in this section, where any public authority is deemed to have supplied goods and services pursuant to section 5(6), the supply shall, to the extent that the supply is brought to charge as revenue from the Crown, be deemed to take place in the taxable period in which the bringing to charge applies.
-(8) Despite subsection (1), if a local authority makes a supply to which section 5(7)﻿(a) applies, the supply is treated as taking place on the earlier of the following dates:
+(8) Despite subsection (1), if a local authority makes a supply to which section 5(7)﻿(a) applies, or if a water organisation supplies water services, the supply is treated as taking place on the earlier of the following dates:
   (a) the date on which an instalment notice is issued if the instalment notice requires payment of an instalment by a particular date:
   (b) the date on which payment is required by the instalment notice:
   (c) the date on which payment is received.
@@ -1182,10 +1190,10 @@ This Act shall bind the Crown.
   (c) the services are inbound mobile roaming services supplied to a non-resident.
 (2) Subsection (1)﻿(b) does not apply to outbound mobile roaming services.
 
-### 11B Zero-rating of some supplies by territorial authorities, some supplies involving contributions to local authorities
+### 11B Zero-rating of some supplies by territorial authorities or water organisations, some supplies involving contributions to local authorities or water organisations
 (1) A supply of services that is chargeable with tax under section 8 must be charged at the rate of 0% if the supplier is a territorial authority and the consideration for the supply is proceeds from the local authorities petroleum tax paid to the supplier under section 198 of the Local Government Act 1974.
-(1B) If a supply under section 5(7B) of goods and services by a local authority to a registered person is chargeable with tax under section 8, the supply must be charged at the rate of 0% to the extent that the contribution made by the registered person to the local authority consists of land.
-(1C) If a supply under section 5(7C) of goods and services by a person to a local authority is chargeable with tax under section 8, the supply must be charged at the rate of 0% if the local authority is a registered person.
+(1B) If a supply under section 5(7B) of goods and services by a local authority or a water organisation to a registered person is chargeable with tax under section 8, the supply must be charged at the rate of 0% to the extent that the contribution made by the registered person to the local authority or the water organisation consists of land.
+(1C) If a supply under section 5(7C) of goods and services by a person to a local authority or a water organisation is chargeable with tax under section 8, the supply must be charged at the rate of 0% if the local authority or the water organisation is a registered person.
 (1D)
 (1E)
 (2) For the purpose of subsection (1)—
