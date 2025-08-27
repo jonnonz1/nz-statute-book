@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-08-27_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3019,7 +3019,7 @@ A life insurer (the transferor) that transfers a life insurance policy to anothe
     (i) who has met their obligation to file a return of income under the Inland Revenue Acts within the time allowed; and
     (ii) whose annual gross income for the tax year for which they last filed a return of income is more than $2,000,000:
   (j) a person in an accounting year who reasonably believes their annual gross income for the tax year that corresponds to the next accounting year will be more than $2,000,000:
-  (k) a person who derives in a tax year an amount that is exempt income under sections CW 38(2), CW 38B(2), CW 39(2), CW 40 to CW 52, and CW 64 of the Income Tax Act 2007 in relation to their activities in the capacity in which they derive the exempt income:
+  (k) a person who derives in a tax year an amount that is exempt income under sections CW 38(2), CW 38B(2), CW 39(2), CW 40 to CW 52, CW 55BC, and CW 64 of the Income Tax Act 2007 in relation to their activities in the capacity in which they derive the exempt income:
   (kb) a board that is constituted under subpart 5 of Part 3 of the Education and Training Act 2020 and is not carried on for the private pecuniary profit of any individual:
   (kc) a tertiary education institution that is established under subpart 3 of Part 4 or Part 4A of the Education and Training Act 2020 and is not carried on for the private pecuniary profit of any individual:
   (kd) a tertiary education subsidiary that derives exempt income under section CW 55BA of the Income Tax Act 2007:
