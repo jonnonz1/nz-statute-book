@@ -1,5 +1,5 @@
 # Local Government (Water Services Preliminary Arrangements) Act 2024
-_Consolidation as at 2024-09-02_
+_Consolidation as at 2025-08-27_
 
 ### 1 Title
 This Act is the Local Government (Water Services Preliminary Arrangements) Act 2024.
@@ -34,7 +34,7 @@ This Act is the Local Government (Water Services Preliminary Arrangements) Act 2
   (b) may use in relation to other parts of a water services delivery plan; or
   (c) may use when establishing, joining, or amending council-controlled organisations or joint local government arrangements that will deliver water services.
 (4) Part 4 sets out specific requirements for Watercare to be financially separate from Auckland Council, including the requirement for the Minister to appoint a Crown monitor and the requirement to have a Watercare charter.
-(5) Part 5 amends section 138 of the Water Services Act 2021 by removing the requirement for Taumata Arowai to have regard to the hierarchy of obligations contained in the National Policy Statement for Freshwater Management when making wastewater environmental performance standards. It also authorises, in certain circumstances, the amendment to be reversed by the Governor-General making an Order in Council.
+(5) Part 5 amends section 138 of the Water Services Act 2021 by removing the requirement for the Water Services Authority to have regard to the hierarchy of obligations contained in the National Policy Statement for Freshwater Management when making wastewater environmental performance standards. It also authorises, in certain circumstances, the amendment to be reversed by the Governor-General making an Order in Council.
 
 ### 5 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -87,7 +87,6 @@ In this Act, unless the context otherwise requires,—
       (i) an overland flow path:
       (ii) green water services infrastructure that delivers stormwater services:
       (iii) watercourses that are part of, or related to, the infrastructure described in paragraph (a)
-  - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established by section 8 of the Taumata Arowai–the Water Services Regulator Act 2020
   - **territorial authority** has the meaning set out in section 5(1) of the LGA2002
   - **urban area** —
     (a) means an area identified in a district plan or proposed district plan as being primarily zoned for residential, industrial, or commercial activities, together with adjoining special-purpose and open-space zones, however described; but
@@ -100,6 +99,7 @@ In this Act, unless the context otherwise requires,—
     (a) water supply network:
     (b) stormwater network:
     (c) wastewater network
+  - **Water Services Authority** means the Water Services Authority—Taumata Arowai established by section 8 of the Water Services Authority—Taumata Arowai Act 2020
   - **water services council-controlled organisation** or —
     (a) means a council-controlled organisation that—
       (i) delivers water services; or
@@ -209,7 +209,7 @@ A joint arrangement must relate to the delivery of—ExampleTerritorial authorit
   (c) all of the information listed in section 13:
   (d) information on the likely form of the joint arrangement, including whether it is anticipated it will involve water services being delivered by—
     (i) a joint WSCCO; or
-    (ii) an arrangement described in section 137 of the LGA2002; or
+    (ii) a joint water service provider arrangement under section 26 of the Local Government (Water Services) Act 2025; or
     (iii) another organisation or arrangement that the territorial authorities are considering.
 (2) To the extent that further information about the joint arrangement is available when the plan is submitted to the Secretary under section 18, a joint water services delivery plan may also contain that information, including—
   (a) the ownership structure; and
@@ -309,8 +309,8 @@ A joint arrangement must relate to the delivery of—ExampleTerritorial authorit
 (2) In deciding whether to accept a water services delivery plan, the Secretary may consult 1 or more of the following:
   (a) a government department:
   (b) the Commission:
-  (c) Taumata Arowai:
-  (d) Crown Infrastructure Partners Limited:
+  (c) the Water Services Authority:
+  (d) National Infrastructure Funding and Financing Limited:
   (e) any other person the Secretary considers relevant.
 (3) If the Secretary is not satisfied that a plan complies with the requirements in this Act, the Secretary must, as soon as reasonably practicable,—
   (a) advise the territorial authority or group of 2 or more territorial authorities why the Secretary is not satisfied with the plan and require the territorial authority or group to amend the plan (which may be by including additional information) and resubmit it to the Secretary by a specified date; or
@@ -327,7 +327,7 @@ If the Secretary notifies a territorial authority or group of 2 or more territor
     (ii) in the case of a joint plan, on the internet site of each territorial authority to which the plan relates; and
   (b) the Secretary must, at the same time as the Secretary notifies having accepted the plan, provide a copy of the plan to—
     (i) the Commission; and
-    (ii) Taumata Arowai.
+    (ii) the Water Services Authority.
 
 **Implementation, amendment, and monitoring of water services delivery plans**
 
@@ -765,7 +765,7 @@ The purposes of this Part are—
   (a) to set out consultation and decision-making requirements, in place of certain consultation and decision-making requirements set out in the LGA2002 (the alternative requirements), that territorial authorities—
     (i) may use when establishing, joining, or amending—
       (A) a water services council-controlled organisation (or are deciding whether or not to do so); or
-      (B) a joint local government arrangement under section 137 of the LGA2002 (or are deciding whether or not to do so); and
+      (B) a joint water service provider arrangement under section 26 of the Local Government (Water Services) Act 2025 (or are deciding whether or not to do so); and
     (ii) must use when consulting or making decisions in relation to an anticipated or proposed model or arrangement for delivering water services; and
     (iii) must use if they decide to consult on a part of a water services delivery plan other than a model or arrangement described in subparagraph (ii); and
   (b) to give territorial authorities greater flexibility in relation to WSCCOs, water services delivery plans, and joint local government arrangements by setting out additional powers to, or exemptions from, specific provisions in the LGA2002 (see sections 65 to 68).
@@ -788,7 +788,7 @@ In this Part and, to the extent they are used in this Part, in the definitions i
 (1) This section applies if a territorial authority—
   (a) is deciding whether or not to establish, join, or amend—
     (i) a water services council-controlled organisation; or
-    (ii) a joint local government arrangement under section 137 of the LGA2002; or
+    (ii) a joint water service provider arrangement under section 26 of the Local Government (Water Services) Act 2025; or
   (b) before adopting its water services delivery plan, is making decisions in relation to an anticipated or proposed model or arrangement for delivering water services in its water services delivery plan (see section 13(1)﻿(k)).
 (2) In the course of that decision-making process, the territorial authority—
   (a) must identify both of the following 2 options for delivering water services:
@@ -802,7 +802,7 @@ In this Part and, to the extent they are used in this Part, in the definitions i
 (1) This section applies if a territorial authority—
   (a) is deciding whether or not to establish, join, or amend—
     (i) a water services council-controlled organisation; or
-    (ii) a joint local government arrangement under section 137 of the LGA2002; or
+    (ii) a joint water service provider arrangement under section 26 of the Local Government (Water Services) Act 2025; or
   (b) when adopting its water services delivery plan, is making decisions in relation to an anticipated or proposed model or arrangement for delivering water services in its water services delivery plan (see section 13(1)﻿(k)); or
   (c) decides to consult on a part of its water services delivery plan, other than a model or arrangement described in paragraph (b).
 (2) Before a territorial authority makes a decision described in subsection (1), it is required to undertake consultation only once.
@@ -821,7 +821,7 @@ In this Part and, to the extent they are used in this Part, in the definitions i
 ### 63 Alternative requirement: consultation on amendment to long-term plan
 (1) This section applies if a territorial authority is required to amend its long-term plan for the purpose of—
   (a) a proposal to give effect to an anticipated or proposed model for delivering water services under a water services delivery plan (see section 13(1)﻿(k)); or
-  (b) a proposal to establish, join, or amend a WSCCO or a joint local government arrangement under section 137 of the LGA2002.
+  (b) a proposal to establish, join, or amend a WSCCO or a joint water service provider arrangement under section 26 of the Local Government (Water Services) Act 2025.
 (2) The territorial authority is not required to consult on the proposal if the authority—
   (a) has already consulted its community in relation to the proposal; and
   (b) is satisfied that its community has a good understanding of the implications of the proposal; and
@@ -833,7 +833,7 @@ In this Part and, to the extent they are used in this Part, in the definitions i
 (1) This section applies when a territorial authority consults—
   (a) in relation to whether or not to establish, join, or amend—
     (i) a water services council-controlled organisation; or
-    (ii) a joint local government arrangement under section 137 of the LGA2002; or
+    (ii) a joint water service provider arrangement under section 26 of the Local Government (Water Services) Act 2025; or
   (b) before adopting its water services delivery plan, in relation to an anticipated or proposed model or arrangement for delivering water services in its water services delivery plan (see section 13(1)﻿(k)); or
   (c) on a part of its water services delivery plan, other than a model or arrangement described in paragraph (b).
 (2) When a territorial authority consults in the circumstances described in subsection (1), the authority must make the following information publicly available:
@@ -860,7 +860,7 @@ In this Part and, to the extent they are used in this Part, in the definitions i
 **Additional powers and exemption**
 
 ### 65 Ability to consider joint service area
-When deciding whether or not to establish, join, or amend a joint WSCCO, a joint arrangement, or a joint local government arrangement under section 137 of the LGA2002, a territorial authority may, despite sections 12(4) and 14(1)﻿(g) of the LGA2002, also consider—
+When deciding whether or not to establish, join, or amend a joint WSCCO, a joint arrangement, or a joint water service provider arrangement under section 26 of the Local Government (Water Services) Act 2025, a territorial authority may, despite sections 12(4) and 14(1)﻿(g) of the LGA2002, also consider—
   (a) the impact of the joint WSCCO, the joint arrangement, or the joint local government arrangement on the communities in the joint service area (as well as the impact on the authority’s district); and
   (b) the views of people in communities in the joint service area (as well as the views of people in the authority’s communities); and
   (c) the views of the other territorial authorities who are—
@@ -868,7 +868,7 @@ When deciding whether or not to establish, join, or amend a joint WSCCO, a joint
     (ii) considering whether to become parties to the joint WSCCO, the joint arrangement, or the joint local government arrangement.
 
 ### 66 Joint committees
-(1) 2 or more territorial authorities that are considering whether or not to establish or amend a joint WSCCO, a joint arrangement, or a joint local government arrangement under section 137 of the LGA2002 may use a joint committee appointed under clause 30(1)﻿(b) of Schedule 7 of the LGA2002 to perform 1 or more of the following tasks:
+(1) 2 or more territorial authorities that are considering whether or not to establish or amend a joint WSCCO, a joint arrangement, or a joint water service provider arrangement under section 26 of the Local Government (Water Services) Act 2025 may use a joint committee appointed under clause 30(1)﻿(b) of Schedule 7 of the LGA2002 to perform 1 or more of the following tasks:
   (a) identify and assess the options under section 61(2) of this Act or section 77(1) of the LGA2002:
   (b) recommend a proposal to the territorial authorities for the purposes of consultation:
   (c) if the territorial authorities have authorised the joint committee to do so, undertake consultation on behalf of the territorial authorities:
@@ -878,7 +878,7 @@ When deciding whether or not to establish, join, or amend a joint WSCCO, a joint
 (4) If 3 or more territorial authorities are considering whether or not to establish or amend a joint WSCCO, a joint arrangement, or a joint local government arrangement, some (but not all) of the territorial authorities may use a joint committee to perform the tasks listed in subsection (1).
 
 ### 67 Ability to conditionally approve amending long-term plan
-(1) This section applies if, for the purpose of establishing, joining, or amending a joint WSCCO, a joint arrangement, or a joint local government arrangement under section 137 of the LGA2002, a territorial authority is required to—
+(1) This section applies if, for the purpose of establishing, joining, or amending a joint WSCCO, a joint arrangement, or a joint water service provider arrangement under section 26 of the Local Government (Water Services) Act 2025, a territorial authority is required to—
   (a) amend its long-term plan; or
   (b) provide for the joint WSCCO, the joint arrangement, or the joint local government arrangement when adopting its long-term plan.
 (2) The authority may approve the amendment or the adoption conditional on the other territorial authorities that are to be parties to the joint WSCCO, the joint arrangement, or the joint local government arrangement—
@@ -888,7 +888,7 @@ When deciding whether or not to establish, join, or amend a joint WSCCO, a joint
 ### 68 Exemption from cost-effectiveness review
 (1) This section applies if a territorial authority—
   (a) is deciding whether or not to establish, join, or amend a WSCCO; or
-  (b) is deciding whether or not to establish, join, or amend a joint local government arrangement under section 137 of the LGA2002; or
+  (b) is deciding whether or not to establish, join, or amend a joint water service provider arrangement under section 26 of the Local Government (Water Services) Act 2025; or
   (c) is deciding whether or not to change its water services delivery arrangements as part of an anticipated or proposed model or arrangement for delivering water services in its water services delivery plan (see section 13(1)﻿(k)); or
   (d) has established, joined, or amended a WSCCO; or
   (e) has established, joined, or amended a joint local government arrangement; or
@@ -1129,7 +1129,7 @@ Customer compensation scheme
 
 ### 89 Crown monitor’s and Secretary’s expenses recoverable from Watercare
 (1) This section applies to the following (the expenses):
-  (a) expenses incurred by the Crown monitor in relation to monitoring Watercare; and
+  (a) expenses incurred by the Crown monitor in relation to performing or exercising its functions, duties, or powers under this Act; and
   (b) the remuneration of the Crown monitor; and
   (c) expenses incurred by the Secretary in relation to preparing or amending the Watercare charter.
 (2) The Crown may recover the expenses from Watercare on any terms and conditions set by the Minister.
@@ -1152,7 +1152,7 @@ Customer compensation scheme
   (b) the application of the charter to Watercare; and
   (c) decisions made by the Secretary in relation to the charter.
 (3) As part of its functions, duties, and powers under this Act, the Commission may—
-  (a) engage with any party it considers practicable (for example, Taumata Arowai); and
+  (a) engage with any party it considers practicable (for example, the Water Services Authority); and
   (b) unless it is appointed to be the Crown monitor, provide services to the Crown monitor or the Secretary (for example, under a service-level agreement).
 (4) If the Minister appoints the Commission to be the Crown monitor,—
   (a) the Commission has the functions, duties, and powers required to perform that role; but
@@ -1391,6 +1391,11 @@ Amend the legislation specified in Schedule 2 as set out in that schedule.
 ## Schedule 1 — Transitional, savings, and related provisions
 
 ### Part 1 — Provisions relating to this Act as enacted
+
+### Part 2 — Provision relating to Local Government (Water Services) (Repeals and Amendments) Act 2025
+
+### 1 Transitional provision relating to expenses of Crown monitor
+The amendment made to section 89(1)﻿(a) by section 58 of the Local Government (Water Services) (Repeals and Amendments) Act 2025 applies to all expenses described in that section that the Crown monitor incurs from 3 September 2024.
 
 ## Schedule 2 — Consequential amendments
 
