@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-08-27_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -686,41 +686,43 @@ For the purposes of the Public Works Act 1981,—
 
 ### 60A Charges as security
 (1) This section applies if—
-  (a) an Auckland water organisation has granted a security interest over a charge or charging regime revenue as security for a loan or the performance of any obligations under an incidental arrangement; and
+  (a) an Auckland water organisation has granted a security interest over a water services charge or the revenue from water services charges revenue as security for a loan or the performance of any obligations under an incidental arrangement; and
   (b) a receiver has been appointed under section 40A or 40B of the Receiverships Act 1993 in respect of that loan or arrangement; and
   (c) the Crown monitor has been informed of the appointment.
 (2) The receiver may, without further authority than this section, assess and collect in each financial year a charge under this section to recover sufficient funds to meet—
   (a) the payment of the Auckland water organisation’s commitments in respect of the loan or incidental arrangement during that year; and
   (b) the reasonable costs of administering, assessing, and collecting the charge.
 (3) However, a receiver may not create, or receive, any interest or security in water services infrastructure.
-(4) A charge under this section must be assessed as a uniform charge in the dollar on the water services charges of a property—
-  (a) in Auckland; or
-  (b) if the Auckland water organisation resolved that, at the time when the loan was being raised or the incidental arrangement was being entered into, it was for the benefit of only a specified area, that area.
-(5) A charge under this section over any 1 or more of the assets of an Auckland water organisation is subject to section 40D(5) and (6) of the Receiverships Act 1993.
-(6) In this section, Crown monitor means a Crown monitor appointed under section 72 of the Local Government (Water Services Preliminary Arrangements) Act 2024.
+(4) A charge under this section must be assessed as an amount that is a uniform percentage (which percentage may exceed 100%) of the total water services charge payable in relation to a property during the 12-month period ending on the last day of the calendar month immediately before the month in which the charge is assessed under this section.
+(5) A charge under this section over any 1 or more of the assets of an Auckland water organisation is subject to the Receiverships Act 1993.
+(5A) A charge under this section must not be limited by a Watercare charter made under section 77 of the Local Government (Water Services Preliminary Arrangements) Act 2024.
+(5B) A charge imposed under this section is—
+  (a) a debt due to the Auckland water organisation; and
+  (b) recoverable as a debt by the Auckland water organisation in any court of competent jurisdiction.
+(5B) A charge imposed under this section is—
+  (a) a debt due to the Auckland water organisation; and
+  (b) recoverable as a debt by the Auckland water organisation in any court of competent jurisdiction.
+(6) In this section,—
+  - **Crown monitor** means a Crown monitor appointed under section 72 of the Local Government (Water Services Preliminary Arrangements) Act 2024
+  - **incidental arrangement** has the same meaning as in section 112 of the Local Government Act 2002
+  - **loan** has the same meaning as in section 112 of the Local Government Act 2002
+  - **property** means a street address that, at any point in a 12-month period ending on the last day of the calendar month immediately before the month during which a charge is assessed under this section, is (or has been) connected to 1 or more of an Auckland water organisation’s—
+    (a) water supply services:
+    (b) wastewater services:
+    (c) stormwater services (if responsibility for stormwater services has been transferred to an Auckland water organisation under a transfer agreement under section 12 of the Local Government (Water Services) Act 2025)
+  - **stormwater services** has the same meaning as in section 4 of the Local Government (Water Services) Act 2025
+  - **water services charges** means any charges set by an Auckland water organisation (including charges under section 86 of the Local Government (Water Services) Act 2025) for providing—
+    (a) water supply services:
+    (b) wastewater services:
+    (c) stormwater services (if responsibility for stormwater services has been transferred to an Auckland water organisation under a transfer agreement under section 12 of the Local Government (Water Services) Act 2025).
 
 **Auckland water organisation may propose bylaws**
 
 ### 61 Auckland water organisation may propose bylaw
-(1) An Auckland water organisation may propose to the governing body of the Auckland Council, in writing, that a bylaw relating to the management or supply of water supply or wastewater services be made by the Council under a specified enactment.
-(2) As soon as practicable after receiving a proposal under subsection (1), the governing body of the Auckland Council must decide whether the proposed bylaw meets the following requirements:
-  (a) the proposed bylaw is a bylaw relating to the management or supply of water supply or wastewater services; and
-  (b) the specified enactment under which the proposed bylaw is to be made authorises the making of the bylaw; and
-  (c) the proposed bylaw complies with the applicable statutory requirements of that enactment and any other relevant enactment; and
-  (d) the proposed bylaw is not inconsistent with any strategy, policy, plan, or bylaw of the Council; and
-  (e) the proposed bylaw can be implemented and enforced in a cost-effective manner.
-(3) If the governing body of the Auckland Council decides that a proposed bylaw—
-  (a) meets the requirements of subsection (2), it must give written notice of its decision to the organisation:
-  (b) does not meet the requirements of subsection (2), it must give written notice of its decision (with reasons) to the organisation.
+[Repealed]
 
 ### 62 Auckland water organisation must consult on proposed bylaw
-(1) This section applies if an Auckland water organisation has received notice under section 61(3)﻿(a) from the governing body of the Auckland Council in respect of a bylaw that the organisation has proposed.
-(2) The organisation must confirm the proposed bylaw using the special consultative procedure and, for that purpose, section 156(1) of the Local Government Act 2002 applies, with any necessary modifications, as if the organisation were a local authority and the bylaw were a bylaw being made under that Act.
-(3) If, after acting under subsection (2), the organisation confirms the proposed bylaw, it must give written notice of its decision to the governing body of the Auckland Council and the governing body must adopt the bylaw by resolution.
-(4) If, after acting under subsection (2), the organisation modifies the proposed bylaw, it must give written notice of its decision to the governing body of the Auckland Council and the governing body must,—
-  (a) if satisfied that the proposed bylaw meets the requirements of section 61(2), adopt the bylaw by resolution; or
-  (b) if not satisfied that the proposed bylaw meets the requirements of section 61(2), give notice to the organisation under section 61(3)﻿(b).
-(5) Where the Auckland Council adopts under subsection (3) or (4)﻿(a) a bylaw that is made under the Local Government Act 2002, the requirements of sections 86, 155, and 156 of that Act are deemed to be satisfied in respect of that bylaw.
+[Repealed]
 
 **Powers of Auckland water organisation**
 
@@ -735,45 +737,28 @@ An Auckland water organisation that is not a local authority has the powers of a
   (g) section 468 (tree roots obstructing public drains).
 
 ### 64 Powers of Auckland water organisation under Local Government Act 2002
-An Auckland water organisation that is not a local authority has the powers of a local authority under the following sections of the Local Government Act 2002 in relation to its water supply and wastewater services (and those sections apply accordingly, with any necessary modifications):
-  (a) section 171 (general power of entry):
-  (b) section 172 (power of entry for enforcement purposes):
-  (c) section 173 (power of entry in cases of emergency):
-  (d) section 181 (construction of works on private land):
-  (e) section 182 (power of entry to check utility services):
-  (f) section 186 (local authority may execute works if owner or occupier defaults).
+[Repealed]
 
 ### 65 Construction of works on roads and public land by Auckland water organisation
-(1) For the purposes of providing water supply or wastewater services in Auckland, an Auckland water organisation may—
-  (a) construct, place, and maintain water supply and wastewater infrastructure in, on, along, over, across, or under any road or public land; and
-  (b) for the purposes of any work carried out under paragraph (a), open or break up any road or public land; and
-  (c) alter, repair, or remove that infrastructure or any part of that infrastructure.
-(2) However, an Auckland water organisation must exercise the powers under subsection (1) in accordance with any reasonable conditions that the person who has jurisdiction over the road or land imposes.
+[Repealed]
 
 ### 66 Notice requirement
-(1) Except as provided in section 69, before an Auckland water organisation proceeds to open or break up any road or public land, the organisation must give to the person who has jurisdiction over the road or land written notice of the intention to carry out the work.
-(2) Every notice must specify the location of the proposed work, the nature of the work to be carried out, and the reasons for it.
+[Repealed]
 
 ### 67 Auckland water organisation to be notified of conditions
-Not later than 20 working days after receiving written notice of the intention to carry out work, the person who has jurisdiction over the road or land must notify the Auckland water organisation in writing of any conditions imposed under section 65(2).
+[Repealed]
 
 ### 68 Failure to notify conditions
-If the person who has jurisdiction over the road or land fails to notify the Auckland water organisation of any conditions imposed under section 65(2) within the 20-working day period referred to in section 67, those conditions may not be imposed, and the organisation may commence work.
+[Repealed]
 
 ### 69 Urgency
-If work is urgent and necessary because of any defective equipment or other emergency, an Auckland water organisation—
-  (a) is excused from giving notice under section 66(1) before commencing the work; but
-  (b) must give the information required by section 66(2) to the person who has jurisdiction over the road or land as soon as practicable after commencing the work.
+[Repealed]
 
 ### 70 Appeals by Auckland water organisation to District Court
-(1) An Auckland water organisation may appeal to the District Court against all or any of the conditions imposed under section 65(2) by the person who has jurisdiction over the road or land.
-(2) An appeal must be made not later than 45 working days after the date of notification of the conditions imposed or within any further time that the District Court may allow.
-(3) In its determination of any appeal, the District Court may confirm, modify, or cancel any or all of the conditions imposed.
-(4) The decision of the District Court in the determination of an appeal under this section is final.
+[Repealed]
 
 ### 71 Council to appoint enforcement officers
-(1) The Council must appoint persons to be enforcement officers under section 177 of the Local Government Act 2002 for the purposes of ensuring compliance by any person with any exercise of a power conferred on an Auckland water organisation by this Part.
-(2) Before determining the number of persons to appoint as enforcement officers under that section, the Council must consult each Auckland water organisation that is not a local authority to ensure that sufficient officers are appointed to enable those organisations to perform their functions under this Act.
+[Repealed]
 
 **Nuisances created by Auckland water organisation**
 
@@ -796,45 +781,24 @@ If work is urgent and necessary because of any defective equipment or other emer
 **Offences and liability for damage**
 
 ### 74 Offence not to comply with any of sections 65, 66, and 69
-(1) An Auckland water organisation that fails to comply with any of sections 65, 66, and 69 commits an offence.
-(2) An Auckland water organisation that commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
-(3) In addition to any penalty imposed under subsection (2), a court may make any order relating to compensation that it thinks fit.
+[Repealed]
 
 ### 75 Offences relating to carrying out work on water supply or wastewater assets of Auckland water organisation without notice
-(1) Every person commits an offence and is liable on conviction to a fine not exceeding $20,000 who wilfully or negligently carries out work on, or in relation to, a water supply or wastewater asset of an Auckland water organisation that is not a local authority without first—
-  (a) notifying the organisation of the intention to carry out the work; and
-  (b) obtaining written authorisation from the organisation (which may include terms or conditions that the organisation thinks fit).
-(2) It is not an offence under subsection (1) if the work concerned—
-  (a) is authorised by a valid consent granted by or under—
-    (i) the Building Act 2004 (including the building code); or
-    (ii) the Resource Management Act 1991; or
-  (b) is carried out in accordance with a valid building, plumbing, or drainage consent.
-(3) It is a defence to an offence under subsection (1) if the work concerned—
-  (a) was necessary to avoid an emergency, or to mitigate or remedy the effects of an emergency; and
-  (b) was carried out by a person appropriately registered to undertake the work.
-(4) A person who commits an offence under this section may, in addition to or instead of the penalty for the offence, be ordered to pay the cost incurred by the Auckland water organisation in repairing the damage done to the water supply or wastewater asset by the offence.
+[Repealed]
 
 ### 76 Offences relating to damage to water supply or wastewater assets of Auckland water organisation
-(1) This section applies in relation to the following works or property that are vested in, or under the control of, an Auckland water organisation that is not a local authority:
-  (a) a protective work; or
-  (b) a water supply or wastewater work; or
-  (c) a water race; or
-  (d) a drainage work; or
-  (e) anything forming part of, or connected with, any water supply or wastewater work or property not referred to in paragraphs (a) to (d).
-(2) Every person commits an offence who wilfully destroys, damages, stops, obstructs, or interferes with a work or property and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $20,000, or to both.
-(3) Every person commits an offence who negligently destroys, damages, stops, obstructs, or interferes with a work or property and is liable on conviction to a fine not exceeding $20,000.
+[Repealed]
 
 ### 77 Liability for damage by wilful or negligent behaviour towards water supply or wastewater work
-A person who wilfully or negligently destroys, damages, stops, obstructs, or otherwise interferes with any water supply or wastewater works or property owned, constructed, acquired, or used by an Auckland water organisation that is not a local authority is liable for, as the case may be,—
-  (a) the amount of the destruction or damage; or
-  (b) the cost incurred by the organisation in removing the stoppage or obstruction; or
-  (c) any loss or expenses incurred by the organisation because of the stoppage, obstruction, or interference.
+[Repealed]
 
 **Council must consult other Auckland water organisations when assessing water and other sanitary services**
 
-### 78 Council must consult other Auckland water organisations when assessing water and other sanitary services
-(1) Subsection (2) applies to the Council when carrying out its duty under section 125 of the Local Government Act 2002 to assess the provision within Auckland of water and other sanitary services.
-(2) The Council must consult each Auckland water organisation that is not a local authority in making its assessment.
+### 78 Council must consult Auckland water organisations when assessing water services
+(1) Subsection (2) applies to the Council when carrying out its duty under sections 69 to 71 of the Local Government (Water Services) Act 2025 to assess the following within Auckland:
+  (a) access to drinking water:
+  (b) the provision of wastewater services and stormwater services.
+(2) The Council must consult each Auckland water organisation in making its assessment.
 
 ## Part 6 — Spatial planning for Auckland
 
@@ -962,8 +926,14 @@ Schedule 2 applies to the board.
 (2) The policy must—
   (a) include a statement of the Council's expectations in respect of each substantive council-controlled organisation's contributions to, and alignment with, the Council's objectives and priorities:
   (b) include a statement of the Council's expectations in respect of each substantive council-controlled organisation's contributions to, and alignment with, any relevant objectives and priorities of central government:
-  (c) specify any reporting requirements that each substantive council-controlled organisation must undertake in addition to those required under Part 5 of the Local Government Act 2002 or this Act:
-  (d) specify any planning requirements that each substantive council-controlled organisation must undertake in addition to those required under Part 5 of the Local Government Act 2002 or this Act:
+  (c) specify any reporting requirements that each substantive council-controlled organisation must undertake in addition to those required under the following:
+    (i) Part 5 of the Local Government Act 2002:
+    (ii) in the case of Watercare Services Limited, Part 4 of the Local Government (Water Services) Act 2025:
+    (iii) this Act:
+  (d) specify any planning requirements that each substantive council-controlled organisation must undertake in addition to those required under the following:
+    (i) Part 5 of the Local Government Act 2002:
+    (ii) in the case of Watercare Services Limited, Part 4 of the Local Government (Water Services) Act 2025:
+    (iii) this Act:
   (e) identify or define any strategic assets in relation to each substantive council-controlled organisation and set out any requirements in relation to the organisation's management of those assets, including the process by which the organisation may approve major transactions in relation to them.
 (3) A policy under this section—
   (a) may be adopted by the Council as part of its LTP:
@@ -971,7 +941,7 @@ Schedule 2 applies to the board.
   (c) may be amended only as an amendment to the LTP.
 
 ### 91 Council may impose additional accountability requirements on substantive council-controlled organisations
-(1) The Council may require a substantive council-controlled organisation to—
+(1) The Council may require a substantive council-controlled organisation (except Watercare Services Limited) to—
   (a) include in its statement of intent a narrative on how the organisation will contribute to the Council's and, where appropriate, the Government's objectives and priorities for Auckland:
   (b) deliver, no later than 1 month after the end of the first and third quarter of each financial year, a report on the organisation's operations during each quarter that includes the information required to be included by its statement of intent:
   (c) prepare and adopt a plan covering a period of at least 10 years that describes how the organisation intends to—
@@ -1007,7 +977,7 @@ A director of a substantive council-controlled organisation who is elected to be
 **Council-controlled organisations must hold specified meetings in public**
 
 ### 96 Council-controlled organisations must hold specified meetings in public
-(1) The board of each council-controlled organisation of the Auckland Council must nominate, in its statement of intent for each financial year, 2 of its meetings during that year to be open to members of the public.
+(1) The board of each council-controlled organisation of the Auckland Council (except Watercare Services Limited) must nominate, in its statement of intent for each financial year, 2 of its meetings during that year to be open to members of the public.
 (2) For the purpose of subsection (1),—
   (a) 1 meeting must be held before 30 June each year for the purpose of considering comments from shareholders on the organisation's draft statement of intent for the following financial year; and
   (b) the other meeting must be held after 1 July each year for the purpose of considering the organisation's performance under its statement of intent in the previous financial year.
