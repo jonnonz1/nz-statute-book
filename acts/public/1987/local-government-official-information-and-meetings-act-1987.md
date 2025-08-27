@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-08-27_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -498,7 +498,7 @@ Except as expressly provided in this Act, nothing in this Act shall derogate fro
     (i) whether the land is supplied with drinking water and if so, whether the supplier is the owner of the land or a drinking water supplier:
     (ii) if the land is supplied with drinking water by a drinking water supplier, any conditions that are applicable to that supply:
     (iii) if the land is supplied with water by the owner of the land, any information the territorial authority has about the supply:
-    (iv) any exemption that has been notified by Taumata Arowai to the territorial authority under section 57 of the Water Services Act 2021:
+    (iv) any exemption that has been notified by the Water Services Authority to the territorial authority under section 57 of the Water Services Act 2021:
   (c) information relating to any rates owing in relation to the land:
   (ca) if the land concerned is located in a levy area that is subject to a levy order under the Infrastructure Funding and Financing Act 2020, information about—
     (i) the levy period:
@@ -541,10 +541,12 @@ Except as expressly provided in this Act, nothing in this Act shall derogate fro
   (b) any further information required by the regulations to make the information provided under paragraph (a) more understandable.
 (2) The information must be summarised and presented in the form required by the regulations (if any).
 
-### 44D Territorial authority and regional council protected against certain actions when providing information in good faith
-A territorial authority or regional council is not liable in civil or criminal proceedings for making available in good faith,—
+### 44D Territorial authority, regional council, and water organisation protected against certain actions when providing information in good faith
+(1) A territorial authority, regional council, or water organisation is not liable in civil or criminal proceedings for making available in good faith,—
   (a) in the case of a territorial authority, information in a land information memorandum under section 44A(2)﻿(a); or
-  (b) in the case of a regional council, information to a territorial authority under section 44C.
+  (b) in the case of a regional council, information to a territorial authority under section 44C; or
+  (c) in the case of a water organisation, information provided to a territorial authority under section 108 of the Local Government (Water Services) Act 2025.
+(2) In this section, water organisation has the meaning given in section 4 of the Local Government (Water Services) Act 2025.
 
 ## Part 7 — Local authority meetings
 
@@ -561,6 +563,7 @@ A territorial authority or regional council is not liable in civil or criminal p
 (1A) Despite subsection (1), meeting, in relation to a local authority that is a board of inquiry, special tribunal, or freshwater hearings panel given authority to conduct hearings under section 149J or 202 or clause 58 of Schedule 1 of the Resource Management Act 1991, is limited to any hearing that—
   (a) the board or tribunal holds under section 149L or 206 of the Resource Management Act 1991; and
   (b) the freshwater hearings panel holds under clause 39 of Schedule 1 of that Act.
+(1B) Despite paragraph (b) of the definition of meeting in subsection (1), meeting, in relation to a water organisation within the meaning of the Local Government (Water Services) Act 2025, means a meeting of the board of the organisation and does not include a meeting of a committee or subcommittee of the board.
 (2) For the avoidance of doubt, it is hereby declared that any meeting of a local authority or of any committee or subcommittee of a local authority, at which no resolutions or decisions are made is not a meeting for the purposes of this Part.
 
 ### 45A Application of this Part to certain local authorities
