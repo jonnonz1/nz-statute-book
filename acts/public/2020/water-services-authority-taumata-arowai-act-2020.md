@@ -1,8 +1,8 @@
-# Taumata Arowai–the Water Services Regulator Act 2020
-_Consolidation as at 2024-02-17_
+# Water Services Authority—Taumata Arowai Act 2020
+_Consolidation as at 2025-08-27_
 
 ### 1 Title
-This Act is the Taumata Arowai–the Water Services Regulator Act 2020.
+This Act is the Water Services Authority—Taumata Arowai Act 2020.
 
 ### 2 Commencement
 (1) This Act comes into force on the earlier of—
@@ -14,13 +14,12 @@ This Act is the Taumata Arowai–the Water Services Regulator Act 2020.
 ## Part 1 — Preliminary provisions
 
 ### 3 Purpose
-The purpose of this Act is to establish Taumata Arowai–the Water Services Regulator and provide for its objectives, functions, and governance arrangements.
+The purpose of this Act is to establish the Water Services Authority—Taumata Arowai and provide for its objectives, functions, and governance arrangements.
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **board** means the board of Taumata Arowai–the Water Services Regulator
+  - **board** means the board of the Water Services Authority—Taumata Arowai
   - **council-controlled organisation** has the meaning given to it by section 6 of the Local Government Act 2002
-  - **domestic dwelling** has the meaning given by section 10 of the Water Services Act 2021
   - **domestic self-supplier** has the meaning given by section 10 of the Water Services Act 2021
   - **drinking water** has the meaning given by section 6 of the Water Services Act 2021
   - **drinking water network** has the meaning given to by section 9 of the Water Services Act 2021
@@ -29,15 +28,19 @@ In this Act, unless the context otherwise requires,—
     (a) means a natural or semi-natural area, feature, or process that mimics natural areas, features, or processes that are planned or managed to provide water services; and
     (b) includes an engineered system that is an area, feature, or process that complies with paragraph (a)
   - **Māori Advisory Group** means the Māori Advisory Group established by section 14
+  - **National Engineering Design Standards** means the NEDS under subpart 1AA of Part 3 of the Water Services Act 2021
+  - **National Policy Statement for Freshwater Management** means the National Policy Statement for Freshwater Management issued in 2020 under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2020 statement
+  - **network infrastructure** means any infrastructure and process that is a part of a drinking water network, a stormwater network, or a wastewater network
   - **overland flow path** means any flow path taken by stormwater on the surface of land
   - **premises** and have the meanings given in section 2 of the Residential Tenancies Act 1986
   - ****
   - **responsible Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
+  - **shared domestic supplier** has the meaning given by section 10(1) of the Water Services Act 2021
   - **stormwater network** —
     (a) means the infrastructure and processes that—
       (i) are used to collect, treat, drain, store, reuse, or discharge stormwater in an urban area; and
       (ii) are operated by, for, or on behalf of one of the following:
-        (A) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+        (A) a local authority, water organisation, or subsidiary of a water organisation:
         (B) a department:
         (C) the New Zealand Defence Force; and
     (b) includes—
@@ -46,26 +49,22 @@ In this Act, unless the context otherwise requires,—
       (iii) watercourses that are part of, or related to, the infrastructure described in paragraph (a)﻿(i)
   - **stormwater network operator** means—
     (a) each of the following entities (to the extent that a stormwater network is operated, or its operation or aspects of its operation are supervised, by, for, or on behalf of the entity):
-      (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+      (i) a local authority, water organisation, or subsidiary of a water organisation:
       (ii) a department listed in Part 1 of Schedule 2 of the Public Service Act 2020:
       (iii) the New Zealand Defence Force; and
     (b) any person who operates a stormwater network, or any aspect of a stormwater network, for, or on behalf of, an organisation specified in paragraph (a)
-  - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established by section 8
-  - **Te Mana o te Wai** —
-    (a) has the meaning set out in the National Policy Statement for Freshwater Management issued in 2020 under section 52 of the Resource Management Act 1991 and any statement issued under that section that amends or replaces the 2020 statement (and see also sections 5, 10, 17, and 18 of this Act); and
-    (b) applies, for the purposes of this Act, to water (as that term is defined in this section)
   - **urban area** —
     (a) means an area identified in a district plan or proposed district plan as being primarily zoned for residential, industrial, or commercial activities, together with adjoining special-purpose and open-space zones, however described; but
     (b) does not include an area zoned primarily for rural or rural-residential activities, however described
   - **wastewater network** means the infrastructure and processes that—
     (a) are used to collect, store, transmit through reticulation, treat, or discharge wastewater; and
     (b) are operated by, for, or on behalf of one of the following:
-      (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+      (i) a local authority, water organisation, or subsidiary of a water organisation:
       (ii) a department:
       (iii) the New Zealand Defence Force
   - **wastewater network operator** means—
     (a) each of the following entities (to the extent that a wastewater network is operated, or its operation or aspects of its operation are supervised, by, for, or on behalf of the entity):
-      (i) a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation:
+      (i) a local authority, water organisation, or subsidiary of a water organisation:
       (ii) a department listed in Part 1 of Schedule 2 of the Public Service Act 2020:
       (iii) the New Zealand Defence Force; and
     (b) any person who operates a wastewater network, or any aspect of a wastewater network, for, or on behalf of, an organisation specified in paragraph (a); and
@@ -73,28 +72,25 @@ In this Act, unless the context otherwise requires,—
   - **water** —
     (a) has the same meaning as in section 2(1) of the Resource Management Act 1991; but
     (b) includes water in any form while in any pipe, tank, or cistern
+  - **water organisation** has the meaning given by section 4 of the Local Government (Water Services) Act 2025
+  - **water service provider** has the meaning given by section 4 of the Local Government (Water Services) Act 2025
   - **water services** means services relating to water supply, wastewater, and stormwater
+  - **Water Services Authority** means the Water Services Authority—Taumata Arowai established by section 8
   - **watercourse** means a watercourse that is part of, or related to, the drainage or discharge of stormwater in an urban area.
 
 ### 5 Māori interests
 In order to recognise and respect the Crown’s responsibility to consider and provide for Māori interests,—
-  (a) section 10 provides that it is an objective of Taumata Arowai to give effect to Te Mana o te Wai, to the extent that Te Mana o te Wai applies to the functions and duties of Taumata Arowai:
-  (b) section 12 provides that the board must include members who, collectively, have knowledge and experience of, and capability in,—
-    (i) the Treaty of Waitangi (Te Tiriti o Waitangi) and its principles; and
-    (ii) perspectives of Māori and tikanga Māori:
+  (a)
+  (b)
   (c) section 14 establishes the Māori Advisory Group:
-  (d) section 17(1) and (2) provides that the role of the Māori Advisory Group is to advise on Māori interests and knowledge, which includes—
-    (i) developing and maintaining a framework on how to interpret and give effect to Te Mana o te Wai; and
-    (ii) providing advice on how to enable mātauranga Māori, tikanga Māori, and kaitiakitanga to be exercised:
-  (e) section 17(3) requires the board to—
-    (i) have regard to the advice of the Māori Advisory Group; and
-    (ii) demonstrate in its annual report how it has had regard to this advice:
-  (f) section 18 provides that the operating principles of Taumata Arowai include—
-    (i) building and maintaining credibility and integrity, so that Taumata Arowai is trusted by Māori (among others); and
-    (ii) partnering and engaging early and meaningfully with Māori, including to inform how Taumata Arowai can—
-      (A) give effect to Te Mana o te Wai; and
-      (B) understand, support, and enable the exercise of mātauranga Māori and tikanga Māori and kaitiakitanga:
-  (g) section 19 requires the board to maintain systems and processes to ensure that, for the purposes of carrying out its functions under this Act, Taumata Arowai has the capability and capacity—
+  (d) section 17(1) and (2) provides that the role of the Māori Advisory Group is to advise the board and the Water Services Authority on Māori interests and knowledge, from a Māori perspective and in accordance with the group’s terms of reference:
+  (e) section 17(3) requires the board to take the advice of the Māori Advisory Group into account:
+  (f) section 18 provides that the operating principles of the Water Services Authority include—
+    (i) building and maintaining credibility and integrity, so that the Water Services Authority is trusted by Māori (among others); and
+    (ii) partnering and engaging early and meaningfully with Māori, including to inform how the Water Services Authority can—
+      (A) take into account any relevant national direction issued under Part 5 of the Resource Management Act 1991 and any regional plans (as defined in section 43AA of that Act) that relate to freshwater; and
+      (B) understand, support, and enable the exercise of mātauranga Māori, tikanga Māori, and kaitiakitanga:
+  (g) section 19 requires the board to maintain systems and processes to ensure that, for the purposes of carrying out its functions under this Act, the Water Services Authority has the capability and capacity—
     (i) to uphold the Treaty of Waitangi (Te Tiriti o Waitangi) and its principles; and
     (ii) to engage with Māori and to understand perspectives of Māori.
 
@@ -104,28 +100,29 @@ The transitional, savings, and related provisions set out in Schedule 1 have eff
 ### 7 Act binds the Crown
 This Act binds the Crown.
 
-## Part 2 — Establishment of Taumata Arowai–the Water Services Regulator, board, and Māori Advisory Group
+## Part 2 — Establishment of the Water Services Authority—Taumata Arowai, board, and Māori Advisory Group
 
-### Subpart 1 — Establishment, objectives, and functions of Taumata Arowai
+### Subpart 1 — Establishment, objectives, and functions of Water Services Authority
 
-### 8 Taumata Arowai–the Water Services Regulator established
-This section establishes Taumata Arowai–the Water Services Regulator.
+### 8 Water Services Authority—Taumata Arowai established
+This section establishes the Water Services Authority—Taumata Arowai.
 
-### 9 Taumata Arowai is Crown entity
-(1) Taumata Arowai is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(2) The Crown Entities Act 2004 applies to Taumata Arowai except to the extent that this Act expressly provides otherwise.
+### 9 Water Services Authority is Crown entity
+(1) The Water Services Authority is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+(2) The Crown Entities Act 2004 applies to the Water Services Authority except to the extent that this Act expressly provides otherwise.
 
-### 10 Objectives of Taumata Arowai
-Taumata Arowai’s objectives are to—
+### 10 Objectives of Water Services Authority
+The Water Services Authority’s objectives are to—
   (a) protect and promote drinking water safety and related public health outcomes; and
   (b) effectively administer the drinking water regulatory system; and
   (c) build and maintain capability among drinking water suppliers and across the wider industry; and
-  (d) give effect to Te Mana o te Wai, to the extent that Te Mana o te Wai applies to the functions and duties of Taumata Arowai; and
+  (d)
   (e) provide oversight of, and advice on, the regulation, management, and environmental performance of drinking water, wastewater, and stormwater networks; and
-  (f) promote public understanding of the environmental performance of drinking water, wastewater, and stormwater networks.
+  (f) promote public understanding of the environmental performance of drinking water, wastewater, and stormwater networks; and
+  (g) effectively develop and administer National Engineering Design Standards for the design, construction, and operational performance of network infrastructure used in land development.
 
-### 11 Functions of Taumata Arowai
-(1) Taumata Arowai’s general functions are to—
+### 11 Functions of Water Services Authority
+(1) The Water Services Authority’s general functions are to—
   (a) provide national-level oversight, leadership, communication, and co-ordination in relation to—
     (i) drinking water safety and regulation, including the management of risks to sources of drinking water; and
     (ii) the environmental performance, management, and regulation of drinking water, wastewater, and stormwater networks; and
@@ -134,33 +131,29 @@ Taumata Arowai’s objectives are to—
   (d) provide oversight of, and information to central and local government in relation to,—
     (i) the development, operation, and effectiveness of standards, regulations, and other statutory requirements for wastewater and stormwater; and
     (ii) compliance with, monitoring of, and enforcement of standards, regulations, and other statutory requirements affecting wastewater networks, stormwater networks, wastewater network operators, and stormwater network operators; and
-  (e)
+  (e) develop and review the National Engineering Design Standards; and
   (f) facilitate, promote, or support research, education, and training, to support drinking water safety and regulation, the management of risks to sources of drinking water, and the environmental performance, management, and regulation of drinking water, wastewater, and stormwater networks; and
+  (fa) facilitate, promote, provide, or support education and training for domestic self-suppliers and shared domestic suppliers; and
   (g) build and maintain the capability of drinking water suppliers to fulfil their regulatory responsibilities; and
   (h) provide guidance, advice, or information on matters that relate to drinking water safety and regulation, the management of risks to sources of drinking water, and the environmental performance, management, and regulation of drinking water, wastewater, and stormwater networks; and
   (i) identify, prepare, or promote national guidelines and best practices that relate to—
     (i) drinking water; and
     (ii) wastewater networks, stormwater networks, wastewater network operators, and stormwater network operators; and
   (j) perform or exercise the functions, duties, and powers conferred or imposed on it by this Act or any other enactment; and
-  (k) perform any other functions or activities that are consistent with its objectives and that Taumata Arowai considers are necessary or desirable to enable the achievement of those objectives, except functions or activities performed by any central government agency or another regulator; and
+  (k) perform any other functions or activities that are consistent with its objectives and that the Water Services Authority considers are necessary or desirable to enable the achievement of those objectives, except functions or activities performed by any central government agency or another regulator; and
   (l) perform any other functions relevant to its objectives that the responsible Minister directs in accordance with section 112 of the Crown Entities Act 2004.
 (2) The chief executive’s statutorily independent functions are to—
-  (a) monitor and enforce compliance with relevant drinking water legislation and standards, and other regulatory requirements for which Taumata Arowai has responsibility; and
+  (a) monitor and enforce compliance with relevant drinking water legislation and standards, and other regulatory requirements for which the Water Services Authority has responsibility; and
   (b) grant exemptions under the Water Services Act 2021; and
   (c) if a drinking water supplier is not properly performing the supplier’s functions or duties under an enactment that relates to drinking water, appoint, or require the drinking water supplier to appoint, an alternative operator of the supplier’s drinking water supply.
 
-### Subpart 2 — Board of Taumata Arowai, and Māori Advisory Group
+### Subpart 2 — Board of Water Services Authority, and Māori Advisory Group
 
 **Board**
 
 ### 12 Board
 (1) The board consists of not fewer than 5, and not more than 7, members.
-(2) The responsible Minister must appoint members to the board who, collectively, have knowledge and experience of, and capability in,—
-  (a) the compliance, monitoring, and enforcement activities of regulatory agencies; and
-  (b) public health, particularly in relation to the objectives and functions of Taumata Arowai; and
-  (c) the Treaty of Waitangi (Te Tiriti o Waitangi) and its principles; and
-  (d) perspectives of Māori and tikanga Māori; and
-  (e) performance monitoring and governance.
+(2) The responsible Minister must appoint only people who, in the Minister’s opinion, have the appropriate knowledge, skills, and experience to assist the board to perform its role.
 
 ### 13 Board’s power to delegate
 The board may delegate any of its functions or powers in accordance with section 73 of the Crown Entities Act 2004, except the power to appoint or remove the chief executive.
@@ -169,7 +162,7 @@ The board may delegate any of its functions or powers in accordance with section
 
 ### 14 Māori Advisory Group established
 (1) This section establishes the Māori Advisory Group.
-(2) The Māori Advisory Group consists of not fewer than 5, and not more than 7, members.
+(2) The Māori Advisory Group consists of not fewer than 3, and not more than 5, members.
 
 ### 15 Appointment of members of Māori Advisory Group
 (1) The responsible Minister must appoint members to the Māori Advisory Group.
@@ -194,54 +187,59 @@ The board may delegate any of its functions or powers in accordance with section
   (b) be reimbursed for actual and reasonable travelling expenses incurred in carrying out their roles as members.
 
 ### 17 Role of Māori Advisory Group
-(1) The role of the Māori Advisory Group is to advise the board and Taumata Arowai on Māori interests and knowledge, as they relate to the objectives, functions, and operating principles of Taumata Arowai and the collective duties of the board.
-(2) That role includes—
-  (a) developing and maintaining a framework that provides advice and guidance for Taumata Arowai on how to interpret and give effect to Te Mana o te Wai; and
-  (b) providing advice on how to enable mātauranga Māori, tikanga Māori, and kaitiakitanga to be exercised; and
-  (c) any other matters requested by the board.
+(1) The role of the Māori Advisory Group is to advise the board and the Water Services Authority on Māori interests and knowledge, as they relate to the objectives, functions, and operating principles of the Water Services Authority and the collective duties of the board.
+(2) The Māori Advisory Group must provide advice under subsection (1)—
+  (a) from a Māori perspective; and
+  (b) within the terms of reference prepared and agreed under subsection (4)﻿(b).
 (3) The board must—
-  (a) have regard to the advice of the Māori Advisory Group; and
-  (b) demonstrate how it has had regard to that advice in Taumata Arowai’s annual report (prepared under section 150 of the Crown Entities Act 2004), which must include—
-    (i) information on the situations in which it did not act on the advice; and
-    (ii) the reasons for that; and
-    (iii) the alternative actions that were taken, if any; and
-  (c) provide the Māori Advisory Group with an opportunity to include commentary in Taumata Arowai’s annual report on the Māori Advisory Group’s role and the advice it provided to Taumata Arowai over the period covered by the annual report.
+  (a) take into account the advice of the Māori Advisory Group; and
+  (b)
+  (c) provide the Māori Advisory Group with an opportunity to include commentary in the Water Services Authority’s annual report on the Māori Advisory Group’s role and the advice it provided to the Water Services Authority over the period covered by the annual report.
 (4) The board and the Māori Advisory Group, acting jointly, must—
   (a) prepare a memorandum of understanding, setting out how they will work together; and
   (b) prepare and agree the terms of reference for the Māori Advisory Group.
-(5) Taumata Arowai must publish the memorandum of understanding and the terms of reference on Taumata Arowai’s website.
+(5) The Water Services Authority must publish the memorandum of understanding and the terms of reference on its internet site.
 (6) The board and the Māori Advisory Group, acting jointly, must review both the memorandum of understanding and the terms of reference at intervals of not more than 3 years.
 
-### Subpart 3 — Operations of Taumata Arowai
+### Subpart 3 — Operations of Water Services Authority
 
 ### 18 Operating principles
-(1) Taumata Arowai must ensure that its performance and delivery of its objectives, functions, and duties are guided and informed by the operating principles set out in subsection (2).
+(1) The Water Services Authority must ensure that its performance and delivery of its objectives, functions, and duties are guided and informed by the operating principles set out in subsection (2).
 (2) The operating principles are—
-  (a) building and maintaining credibility and integrity, so that Taumata Arowai is trusted by consumers, drinking water suppliers, wastewater network operators, stormwater network operators, Māori, and government:
-  (b) ensuring that Taumata Arowai has suitable expertise to build and maintain confidence in its capability as a regulator:
-  (c) developing sector capability, by promoting collaboration, education, and training:
-  (d) partnering and engaging meaningfully with other people and organisations:
-  (e) partnering and engaging early and meaningfully with Māori, including to inform how Taumata Arowai can—
-    (i) give effect to Te Mana o te Wai; and
-    (ii) understand, support, and enable the exercise of mātauranga Māori and tikanga Māori and kaitiakitanga.
+  (a) building and maintaining credibility and integrity, so that the Water Services Authority is trusted by consumers, drinking water suppliers, wastewater network operators, stormwater network operators, water service providers, Māori, and government:
+  (b) ensuring that the Water Services Authority has suitable expertise to build and maintain confidence in its capability as a regulator:
+  (c) developing sector capability by promoting collaboration, education, and training:
+  (d) partnering and engaging meaningfully with other people and organisations, including working proactively with drinking water suppliers, stormwater network operators, and wastewater network operators to ensure that regulatory compliance requirements—
+    (i) take into account the risk profiles of the suppliers or operators; and
+    (ii) are proportionate to the abilities and capacities of the suppliers or operators:
+  (e) partnering and engaging early and meaningfully with Māori, including to inform how the Water Services Authority can—
+    (i) take into account—
+      (A) any relevant national directions made under Part 5 of the Resource Management Act 1991; and
+      (B) any regional plans prepared under the Resource Management Act 1991 that relate to freshwater:
+    (ii) understand, support, and enable the exercise of mātauranga Māori, tikanga Māori, and kaitiakitanga:
+  (f) ensuring that the Water Services Authority takes costs into account, including by—
+    (i) taking suppliers’ compliance costs into account while protecting and promoting public health outcomes relating to drinking water safety; and
+    (ii) maintaining a regulatory framework that is proportionate to the scale, complexity, and risk profile of the relevant water services and that takes into account the costs to consumers; and
+    (iii) considering compliance costs for mixed-use rural water schemes in the context of their circumstances, including their scale, complexity, and risk profile.
+(3) In this section, mixed-use rural water scheme has the meaning given by section 13A of the Water Services Act 2021.
 
 ### 19 Additional collective duties of board
-(1) The board must ensure that Taumata Arowai—
+(1) The board must ensure that the Water Services Authority—
   (a) acts in a manner consistent with the operating principles in section 18; and
-  (b) maintains systems and processes to ensure that, for the purposes of carrying out its functions under this Act, Taumata Arowai has the capability and capacity—
+  (b) maintains systems and processes to ensure that, for the purposes of carrying out its functions under this Act, the Water Services Authority has the capability and capacity—
     (i) to uphold the Treaty of Waitangi (Te Tiriti o Waitangi) and its principles; and
     (ii) to engage with Māori and to understand perspectives of Māori.
 (2) The duties in subsection (1)—
   (a) apply in addition to the duties of the board in sections 49 to 52 of the Crown Entities Act 2004; and
   (b) are collective duties owed to the responsible Minister for the purposes of section 58 of the Crown Entities Act 2004.
 
-### 20 Taumata Arowai may establish technical advisory group
-(1) Taumata Arowai may establish 1 or more technical advisory groups to provide independent advice to Taumata Arowai on any matters relating to its objectives or the performance or exercise of its functions, duties, and powers.
-(2) The members of a technical advisory group must be appointed by Taumata Arowai, on terms and conditions that Taumata Arowai determines, by written notice to each member.
-(3) A person must not be appointed as a member of a technical advisory group unless, before appointment, the person discloses to Taumata Arowai the nature and extent (including monetary value, if quantifiable) of all interests that the person has at that time, or is likely to have, in matters relating to the group.
-(4) A technical advisory group must comply with any terms of reference given by Taumata Arowai.
+### 20 Water Services Authority may establish technical advisory group
+(1) The Water Services Authority may establish 1 or more technical advisory groups to provide independent advice to the Water Services Authority on any matters relating to its objectives or the performance or exercise of its functions, duties, and powers.
+(2) The members of a technical advisory group must be appointed by the Water Services Authority, on terms and conditions that the Water Services Authority determines, by written notice to each member.
+(3) A person must not be appointed as a member of a technical advisory group unless, before appointment, the person discloses to the Water Services Authority the nature and extent (including monetary value, if quantifiable) of all interests that the person has at that time, or is likely to have, in matters relating to the group.
+(4) A technical advisory group must comply with any terms of reference given by the Water Services Authority.
 (5) A technical advisory group may determine its own procedures.
-(6) Taumata Arowai must have regard to the advice it receives from a technical advisory group.
+(6) The Water Services Authority must have regard to the advice it receives from a technical advisory group.
 (7) In this section, interests has the meaning given to it by section 62(2) and (3) of the Crown Entities Act 2004.
 
 ## Part 3 — Miscellaneous provisions
