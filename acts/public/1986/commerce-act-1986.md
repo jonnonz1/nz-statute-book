@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-08-27_
 
 > Title
 
@@ -59,7 +59,7 @@ The purpose of this Act is to promote competition in markets for the long-term b
       (i) operates at regular intervals on a fixed route or fixed routes in accordance with an advertised schedule; and
       (ii) is supplied, as its capacity allows, to any paying customer; but
     (b) excludes a service for the carriage of goods to or from a ship or the loading or unloading of a ship
-  - **local authority** includes every local authority and every public body or other authority created by or pursuant to any public Act or local Act
+  - **local authority** includes (except for the purpose of subpart 12 of Part 4 and Schedule 7) every local authority and every public body or other authority created by or pursuant to any public Act or local Act
   - **market allocating** has the meaning given in section 30A(4)
   - **member of the Commission** —
     (a) means a member appointed under section 9(2); and
@@ -883,26 +883,33 @@ This Part provides for the regulation of the price and quality of goods or servi
 
 ### 52B Outline of Part
 (1) This Part provides—
-  (a) generic provisions for imposing any 1 or more of 3 types of regulation on goods or services (see subpart 2); and
+  (a) generic provisions for imposing any 1 or more types of regulation on goods or services (see subpart 2); and
   (b) for the Commission to determine input methodologies applying to the supply of goods or services regulated under this Part (see subpart 3).
-(2) The different types of regulation under this Part are as follows:
+(2) The different types of regulation under this Part (except for water services) are as follows:
   (a) information disclosure regulation, under which regulated suppliers are required to disclose information in accordance with requirements determined by the Commission (see subpart 4):
   (b) negotiate/arbitrate regulation, under which regulated suppliers are required to negotiate with other parties on prices and quality, and, if negotiation is unsuccessful, to enter into binding arbitration (see subpart 5):
   (c) price-quality regulation, of which there are 2 types:
     (i) default/customised price-quality regulation, under which default price-quality paths are set for regulated suppliers, but individual suppliers may seek a customised price-quality path instead (see subpart 6); and
     (ii) individual price-quality regulation, under which the Commission sets a price-quality path for an individual regulated supplier (see subpart 7).
-(3) Regulation of the following services is dealt with by subparts 9 to 11:
+(2A) The different types of regulation under this Part for water services are as follows:
+  (a) information disclosure regulation (as referred to in subsection (2)﻿(a)):
+  (b) revenue threshold regulation, under which the Commission sets minimum or maximum revenue thresholds (or both) for 1 or more regulated suppliers (see Part 3 of Schedule 7):
+  (c) quality regulation, under which the Commission sets a quality path for 1 or more regulated suppliers (see Part 4 of Schedule 7):
+  (d) performance requirement regulation, under which the Commission sets performance requirements for 1 or more regulated suppliers (see Part 5 of Schedule 7):
+  (e) price-quality regulation, under which the Commission sets a price-quality path for 1 or more regulated suppliers (see Part 6 of Schedule 7).
+(3) Regulation of the following services is dealt with by subparts 9 to 12:
   (a) electricity lines services (subpart 9):
   (b) gas pipeline services (subpart 10):
-  (c) services at certain airports (subpart 11).
+  (c) services at certain airports (subpart 11):
+  (d) water services (subpart 12 and Schedule 7).
 (4) This section is only a guide.
 
 ### 52C Interpretation
 In this Part, unless the context otherwise requires,—
   - **claw-back** has the meaning given to it by section 52D
-  - **consumer** (other than in sections 54C, 54D, and 55A) means a person that consumes or acquires regulated goods or services
+  - **consumer** (other than in sections 54C, 54D, and 55A, subpart 12, and Schedule 7) means a person that consumes or acquires regulated goods or services
   - **information disclosure requirement** means a requirement that applies to a supplier of goods or services that are subject to information disclosure regulation, and is specified in a section 52P determination
-  - **input methodology** means a description of any methodology, process, rule, or matter that includes any of the matters listed in section 52T and that is published as referred to in section 52W; and, in relation to particular goods or services, means any input methodology, or all input methodologies, that relate to the supply, or to suppliers, of those goods or services
+  - **input methodology** means a description of any methodology, process, rule, or matter that includes any of the matters listed in section 52T (or clause 31 of Schedule 7) and that is published as referred to in section 52W; and, in relation to particular goods or services, means any input methodology, or all input methodologies, that relate to the supply, or to suppliers, of those goods or services
   - **inquiry** means,—
     (a) for the purposes of subpart 11, an inquiry by the Commission into the regulation of specified airport services that is carried out in accordance with sections 56F to 56H; and
     (b) for all other purposes, an inquiry by the Commission that is carried out in accordance with sections 52H to 52J
@@ -913,10 +920,16 @@ In this Part, unless the context otherwise requires,—
   - **publicly disclose** , in relation to information required to be disclosed under information disclosure regulation, means to disclose information to the public in the manner required by a section 52P determination
   - **regulated** means regulated under this Part
   - **regulated goods or services** means goods or services that are declared to be regulated—
-    (a) by Order in Council made under section 52N; or
-    (b) by any of subparts 9 to 11
-  - **regulated supplier** means a person to whom a section 52P determination applies in relation to particular goods or services
-  - **section 52P determination** means a determination by the Commission under section 52P that sets out how each type of regulation that applies to particular regulated goods or services applies to a supplier of those goods or services; and, in relation to particular goods or services, means every section 52P determination relevant to the regulation of those goods or services.
+    (a) by Order in Council made under section 52N or 57L; or
+    (b) by any of subparts 9 to 12
+  - **regulated supplier** —
+    (a) means a person to whom a section 52P determination applies in relation to particular goods or services; or
+    (b) in relation to water services, has the meaning set out in clause 2(1) of Schedule 7
+  - **section 52P determination** means a determination by the Commission under section 52P that sets out how each type of regulation that applies to particular regulated goods or services applies to a supplier of those goods or services; and, in relation to particular goods or services, means every section 52P determination relevant to the regulation of those goods or services
+  - **water services** means any of the following (as defined in section 57A(1)):
+    (a) water supply services:
+    (b) wastewater services:
+    (c) stormwater services.
 
 ### 52D Meaning and application of claw-back
 (1) A reference to the Commission applying claw-back is a reference to the Commission doing either of the following:
@@ -938,7 +951,8 @@ In this Part, unless the context otherwise requires,—
 ### 52F Effect of goods or services being subject to regulation
 (1) If goods or services are subject to regulation of a particular type, every regulated supplier of those goods or services must comply with—
   (a) the requirements of this Part relating to that type of regulation; and
-  (b) every section 52P determination applying to the supplier.
+  (b) every section 52P determination applying to the supplier; and
+  (c) every input methodology relating to the supply of water services that is not specified in a section 52P determination (see clause 30(1)﻿(b) of Schedule 7) and that applies to the regulated supplier.
 (2) Sections 86 to 87C (which relate to offences and civil proceedings relating to contraventions of this Part) apply to a regulated supplier on and from the date on which the supplier is obliged to comply with a relevant section 52P determination.
 (3) The Commission is entitled to exercise any of its powers under this Act for the purpose of monitoring compliance by regulated suppliers with regulation under this Part.
 
@@ -1057,7 +1071,8 @@ In this Part, unless the context otherwise requires,—
 (2) Determinations must be made,—
   (a) in the case of goods or services declared to be regulated by an Order in Council under section 52N, as soon as practicable after the Order in Council is made; and
   (b) in the case of goods or services declared to be regulated under subparts 9 and 10, in accordance with sections 54I, 54J, 54K, and 55E; and
-  (c) in the case of regulation being imposed on specified airport services under section 56K, in accordance with section 56L.
+  (c) in the case of regulation being imposed on specified airport services under section 56K, in accordance with section 56L; and
+  (d) in the case of regulation being imposed on water services under subpart 12, in accordance with section 57N.
 (3) Determinations must—
   (a) set out, for each type of regulation to which the goods or services are subject, the requirements that apply to each regulated supplier; and
   (b) set out any time frames (including the regulatory periods) that must be met or that apply; and
@@ -1068,6 +1083,7 @@ In this Part, unless the context otherwise requires,—
 (6) A determination under this section may require a supplier to comply with the requirements set out in any other determination that has been made under this section in respect of regulated goods or services of the same type.
 (7) The Commission must, as soon as practicable after making a determination under this section, give to each supplier to whom the determination relates notice of the determination and where it is available.
 (8) Each supplier to whom the determination relates must comply with the requirements imposed by the determination.
+(8A) See sections 57N to 57Q and Schedule 7, which provide for additional matters relating to determinations under this section that specify how regulation applies to suppliers of water services.
 (9) A determination under this section and an amendment to a determination are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 52Q Amendment of section 52P determination
@@ -1499,7 +1515,7 @@ Schedule 5 applies if the Commission wishes to incorporate material by reference
   (b) an input methodology.
 
 ### 53ZG Power to exempt disclosure of commercially sensitive information
-(1) The Commission may, on application, exempt any person or class of persons, in respect of any information or class of information that the Commission considers to be commercially sensitive, from any obligation to make that information publicly available as part of the requirements of information disclosure regulation, negotiate/arbitrate regulation, or customised price-quality regulation.
+(1) The Commission may, on application, exempt any person or class of persons, in respect of any information or class of information that the Commission considers to be commercially sensitive, from any obligation to make that information publicly available as part of the requirements of information disclosure regulation, negotiate/arbitrate regulation, or customised price-quality regulation, or revenue threshold regulation, quality regulation, performance requirement regulation, or price-quality regulation under subpart 12.
 (2) The Commission may grant the exemption on any terms and conditions that it thinks fit.
 (3)
 (4) The Commission may, in like manner, vary or revoke any exemption.
@@ -2023,20 +2039,480 @@ A specified airport company must, as soon as practicable after disclosing inform
 ### 56N Subpart 2 not limited
 This subpart does not limit subpart 2, which allows for regulation to be imposed on particular goods or services.
 
+### Subpart 12 — Water services
+
+### 57 Overview of subpart
+(1) This subpart provides that—
+  (a) the following types of regulation apply to certain local government suppliers of water supply services and wastewater services:
+    (i) information disclosure regulation:
+    (ii) revenue threshold regulation:
+  (b) those types of regulation may also be imposed on the following in accordance with the process set out in subsection (2):
+    (i) 1 or more other suppliers of water supply services or wastewater services:
+    (ii) 1 or more suppliers of stormwater services:
+  (c) the following types of regulation may be imposed on 1 or more suppliers of 1 or more water services in accordance with the process set out in subsection (2):
+    (i) quality regulation:
+    (ii) performance requirement regulation:
+    (iii) price-quality regulation.
+(2) The process for imposing regulation on 1 or more suppliers in respect of 1 or more water services involves the following steps:Order in Council imposing regulationDetermination
+  (a) the Commission may make a recommendation to the Minister under section 57G (but is not required to hold an inquiry under sections 52H to 52K):
+  (b) the Minister considers the Commission’s recommendation under section 57J:
+  (c) if the Minister decides to recommend regulation, an Order in Council may be made under section 57L that makes those suppliers subject to regulation and identifies the type or types of regulation that apply:
+  (d) the Commission makes a section 52P determination specifying how the applicable type or types of regulation apply to a supplier.
+(3) This section is intended only as a guide to the general scheme and effect of this subpart.
+
 ### 57 Commission process
 [Repealed]
+
+### 57A Interpretation for this subpart
+(1) In this subpart and in Schedule 7, unless the context otherwise requires,—
+  - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
+  - **stormwater service** —
+    (a) means the collection, treatment, drainage, or discharge of stormwater in an urban area; and
+    (b) includes a service declared to be a stormwater service by an Order in Council made under section 57B; but
+    (c) does not include—
+      (i) a service declared not to be a stormwater service by an Order in Council made under section 57B:
+      (ii) a service relating to a transport corridor
+  - **Treaty settlement obligations** has the meaning given in section 4 of the Local Government (Water Services) Act 2025
+  - **wastewater service** —
+    (a) means the collection, treatment, storage, transmission, metering, or discharge of wastewater from consumers; and
+    (b) includes a service declared to be a wastewater service by an Order in Council made under section 57B; but
+    (c) does not include a service declared not to be a wastewater service by an Order in Council made under section 57B
+  - **water supply service** —
+    (a) means the abstraction, storage, treatment, transmission, or metering of water for supply to consumers if any of the water supplied is intended to be used as drinking water; and
+    (b) includes a service declared to be a water supply service by an Order in Council made under section 57B; but
+    (c) does not include a service declared not to be a water supply service by an Order in Council made under section 57B.
+(2) In subsection (1), drinking water and urban area have the meanings given in section 4 of the Local Government (Water Services) Act 2025.
+(3) In this subpart and Schedule 7, serviceability charges under section 88 of the Local Government (Water Services) Act 2025 must be treated as prices for supplying water supply services or wastewater services, as the case may be.
 
 ### 57A Technical provisions relating to declaration of control
 [Repealed]
 
+### 57B Order in Council declaring water services
+(1) The Governor-General may, on the recommendation of the Minister, make an Order in Council declaring—
+  (a) 1 or more services that involve water to be a stormwater service, a wastewater service, or a water supply service; or
+  (b) 1 or more services not to be a stormwater service, a wastewater service, or a water supply service.
+(2) Before recommending that an Order in Council be made, the Minister must be satisfied that—
+  (a) the Commission has made a recommendation to the same effect; and
+  (b) the Commission has consulted with interested parties.
+(3) Before making a recommendation under subsection (2)﻿(a), the Commission must assess the benefits, in meeting the purpose of this Part, of the proposed declaration against the costs of the proposed declaration.
+(4) An order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
 ### 57B Records to be kept for control purposes
 [Repealed]
+
+**Water services regulated under this Part**
+
+### 57C Water services declared to be regulated
+The following are regulated under this Part:
+  (a) water supply services:
+  (b) wastewater services:
+  (c) stormwater services declared to be regulated by Order in Council made under section 57L.
 
 ### 57C Other Acts relating to price control not affected
 [Repealed]
 
 ### 57CA Impact of certain decisions made under Gas Act 1992
 [Repealed]
+
+### 57D Water supply and wastewater services
+(1) Water supply services and wastewater services are subject to both of the following types of regulation under this Part if the services are supplied by a person that is, in respect of that service, a decision-making local government water service supplier:
+  (a) information disclosure regulation (see subpart 4 and Part 2 of Schedule 7):
+  (b) revenue threshold regulation (see Part 3 of Schedule 7).
+(2) A decision-making local government water service supplier, in respect of a service, is a local government water service supplier that makes decisions about either or both of the following:
+  (a) capital and operating expenditure on the service:
+  (b) the level of charges or revenue recovery for the service.
+(3) In addition, water supply services and wastewater services are subject to any or all of the following types of regulation under this Part if that regulation is imposed by an Order in Council made under section 57L:
+  (a) information disclosure regulation (see subpart 4 and Part 2 of Schedule 7) if subsection (1)﻿(a) does not already apply to the service:
+  (b) revenue threshold regulation (see Part 3 of Schedule 7) if subsection (1)﻿(b) does not already apply to the service:
+  (c) quality regulation (see Part 4 of Schedule 7):
+  (d) performance requirement regulation (see Part 5 of Schedule 7):
+  (e) price-quality regulation (see Part 6 of Schedule 7).
+
+### 57E Stormwater services
+Stormwater services are subject to 1 or more of the following types of regulation under this Part if that regulation is imposed by an Order in Council made under section 57L:
+  (a) information disclosure regulation (see subpart 4 and Part 2 of Schedule 7):
+  (b) revenue threshold regulation (see Part 3 of Schedule 7):
+  (c) quality regulation (see Part 4 of Schedule 7):
+  (d) performance requirement regulation (see Part 5 of Schedule 7):
+  (e) price-quality regulation (see Part 6 of Schedule 7).
+
+### 57F Watercare Services Limited, and any subsidiary of Watercare Services Limited, subject to price-quality regulation
+Price-quality regulation applies to Watercare Services Limited, and any subsidiary of Watercare Services Limited, in respect of water supply services and wastewater services.
+
+**Commission may recommend further regulation or deregulation**
+
+### 57G Commission may recommend further regulation or deregulation
+(1) The Commission may recommend to the Minister that regulation should be imposed (or removed) as follows in respect of 1 or more suppliers:
+  (a) water supply services, wastewater services, or both, should (or should no longer) be subject to 1 or more of the following types of regulation:
+    (i) information disclosure regulation (but see subsection (2)):
+    (ii) revenue threshold regulation (but see subsection (2)):
+    (iii) quality regulation:
+    (iv) performance requirement regulation:
+    (v) price-quality regulation:
+  (b) stormwater services should (or should no longer) be subject to 1 or more of the following types of regulation:
+    (i) information disclosure regulation:
+    (ii) revenue threshold regulation:
+    (iii) quality regulation:
+    (iv) performance requirement regulation:
+    (v) price-quality regulation.
+(2) A recommendation for the purposes of subsection (1)﻿(a)﻿(i) or (ii) in respect of a water service must not apply to a person that is, in respect of that service, a regulated supplier to which section 57D(1) applies.
+(3) The Minister must publish the Commission’s recommendation, and may do so in whatever way the Minister considers appropriate.
+(4) A recommendation by the Commission is not a determination of the Commission.
+
+### 57H Process for Commission’s recommendation
+(1) Before making a recommendation under section 57G, the Commission must—
+  (a) consider the following matters:
+    (i) whether imposing (or removing suppliers from) the regulation would better promote the purpose of this Part:
+    (ii) the nature of the water services delivery structure (to the extent that the Commission considers relevant):
+    (iii) whether revenue threshold regulation applies to the relevant water services and, if so, the extent of regulated suppliers’ performance against each revenue threshold that applies:
+    (iv) any other matters the Commission considers relevant; and
+  (b) consult interested parties (but see section 57M).
+(2) For the purposes of subsection (1)﻿(a)﻿(ii), the nature of the water services delivery structure may include any of the following (to the extent that the Commission considers those matters are relevant):
+  (a) the types of water services being supplied:
+  (b) the location of the suppliers:
+  (c) the size of the suppliers:
+  (d) the governance arrangements of the suppliers:
+  (e) the type of delivery model adopted under subpart 1 of Part 2 of the Local Government (Water Services) Act 2025.
+(3) If the Commission recommends to the Minister that 1 or more suppliers be subject to 1 or more types of regulation, the recommendation must—
+  (a) describe each supplier that is the subject of the recommendation; and
+  (b) describe the water services provided by the supplier that the Commission considers should be regulated; and
+  (c) specify the 1 or more types of regulation that the Commission considers the supplier should be subject to and when the relevant section 52P determinations should apply.
+(4) Subsection (3) applies with all necessary modifications to a recommendation that 1 or more suppliers should no longer be subject to 1 or more types of regulation.
+
+### 57I Inquiry not required
+For the purposes of this subpart, the Commission may act without holding an inquiry under sections 52H to 52K.
+
+**Order in Council**
+
+### 57J Minister's consideration
+(1) The Minister must consider any recommendation of the Commission made under section 57G.
+(2) As part of that consideration, the Minister—
+  (a) must consult the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Local Government Act 2002; and
+  (b) may request further information or advice from the Commission.
+
+### 57K Minister's decision and recommendation
+(1) After considering the Commission’s recommendation in accordance with section 57J, the Minister must—
+  (a) decide whether, in addition to the regulation referred to in sections 57D(1) and 57F, further regulation should be imposed (or removed from suppliers) under this subpart; and
+  (b) if so,—
+    (i) decide which type or types of regulation are to apply in relation to particular water services; and
+    (ii) decide which suppliers should (or should no longer) be subject to the regulation; and
+    (iii) make a recommendation to that effect.
+(2) The Minister may not decide that regulation should be imposed (or removed) under this subpart unless the Commission has considered and recommended that, but the Minister’s decision may otherwise be the same as, or different from, the Commission’s recommendation under section 57G.
+(3) If the Minister’s decision is different from the Commission's recommendation, the Minister must set out the reasons for the decision and make the decision, with the reasons, publicly available.
+
+### 57L Order in Council imposing regulation
+(1) The Governor-General may, on the recommendation of the Minister made under section 57K, make an Order in Council imposing (or removing) regulation on 1 or more suppliers in respect of 1 or more water services.
+(2) The order must—
+  (a) declare that 1 or more suppliers are regulated (or no longer regulated) in respect of 1 or more water services; and
+  (b) state which type or types of regulation the suppliers are (or are no longer) subject to in respect of those services.
+(3) The order may identify the water services it relates to by reference to services—
+  (a) supplied in specified regions, areas, or localities in New Zealand; or
+  (b) supplied in different quantities, qualities, grades, or classes; or
+  (c) supplied to or for the use of different persons or classes of persons; or
+  (d) described in any or all of paragraphs (a) to (c).
+(4) Subsection (3) applies so that any part or element of services can be dealt with separately.
+(5) An order made under this section that imposes regulation must include an expiry date, which must be a date not later than 20 years after the date of its commencement.
+(6) An order made under this section may remove regulation only if the regulation has been imposed by an order made under this section.
+(7) An order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 57M Commission not required to consult on non-material amendment
+An Order in Council made under section 57L may be amended in a non-material way without prior consultation under section 57H(1)﻿(b).
+
+**Determinations**
+
+### 57N Commission determination about how regulation applies
+(1) The Commission must make a section 52P determination specifying how a type of regulation imposed by this subpart will apply,—
+  (a) in the case of section 57D(1)﻿(a) (information disclosure),—
+    (i) within 6 months after this section comes into force; or
+    (ii) before a date specified in a notice issued under subsection (3):
+  (b) in the case of sections 57D(3) and 57E, as soon as practicable after an Order in Council is made under section 57L:
+  (c) in the case of section 57F, see the transitional provisions in Part 6 of Schedule 1AA relating to the Watercare charter.
+(2) Despite section 52P, the Commission has a discretion to decide whether and, if so, when to make a section 52P determination specifying how revenue threshold regulation will apply.
+(3) The following applies for the purposes of subsection (1)﻿(a)﻿(ii):
+  (a) the Minister may, by notice in the Gazette, specify a date earlier or later than 6 months after this section comes into force if the Minister considers it to be in the public interest to do so:
+  (b) a copy of the notice must be made publicly available:
+  (c) before issuing the notice, the Minister must consult the Commission on a draft of the notice.
+
+### 57O Section 52P determinations apply to each type of regulation imposed
+(1) Section 52P applies under this subpart with necessary modifications with the effect that, for each type or types of regulation imposed under this subpart, the Commission must make a section 52P determination specifying how the relevant type of regulation applies to a supplier of the regulated service.
+(2) This section is subject to section 57N.
+
+### 57P Section 52P determinations without input methodologies
+(1) The Commission may make a section 52P determination relating to information disclosure regulation or price-quality regulation without determining an input methodology.
+(2) However, subsection (1) applies only to the extent that the section 52P determination applies to a period before the relevant date (as defined in clause 32 of Schedule 7).Guidance noteClause 32 of Schedule 7 provides for when the Commission must determine an input methodology.
+
+### 57Q Additional matters relating to section 52P determinations
+(1) In addition to the matters in section 52P(3), a section 52P determination made for the purposes of this subpart must—
+  (a) specify the regulated suppliers to which it applies; and
+  (b) specify the water services in respect of which it applies.
+(2) For the purposes of subsection (1)﻿(a), the determination may relate to all regulated suppliers or to 1 or more regulated suppliers (for example, a determination relating to price-quality regulation may apply to a particular regulated supplier and set price-quality paths that are specific to that supplier).
+(3) For the purposes of subsection (1)﻿(b), the determination may relate to all water services or to 1 or more types or parts of a water service (for example, a determination relating to price-quality regulation may apply to a particular part of a service and set price-quality paths that are specific to that service).
+(4) A section 52P determination relating only to price-quality regulation may last for more than 1 regulatory period and remains in force until it is revoked.
+
+**Other functions of Commission in relation to water services**
+
+### 57R Water efficiency
+In performing or exercising its functions and powers under this subpart, the Commission may take into account the efficient use of water resources in relation to water services, including reuse, conservation, and demand management.
+
+### 57S Commission must take into account duties owed by suppliers of water services
+The Commission must take into account the duties owed by suppliers of water services under other legislation or instruments or under Treaty settlement obligations (for example, under water quality standards and requirements to support and enable planning processes, growth, and housing and urban development) when applying this subpart in relation to water services.
+
+### 57T Commission’s functions do not extend to regulating safety of drinking water
+The Commission’s functions under this subpart do not extend to regulating the safety of drinking water (see section 11 of the Water Services Authority—Taumata Arowai Act 2020, which describes the role of the Water Services Authority—Taumata Arowai in that regard).
+
+**Additional matters**
+
+### 57U Commission may grant exemption to local authority
+(1) The Commission may make a determination that exempts a local authority from compliance with any provision or provisions of this subpart in respect of 1 or more water services if the Commission is satisfied that—
+  (a) the costs of complying with the provision or provisions outweigh the benefits; and
+  (b) the extent of the exemption is not broader than is reasonably necessary to address the matters that gave rise to the exemption.
+(2) The Commission may make the determination after receiving an application from a local authority or on its own initiative.
+(3) The Commission may grant the exemption on the terms and conditions (if any) that it thinks fit.
+(4) The Commission’s reasons for making the determination (including why the exemption is appropriate) must be published together with the determination.
+(5) A determination made under this section may continue in force for not more than 20 years (and at the close of the date that is 20 years after the determination first comes into force, the determination must be treated as having been revoked unless it is sooner revoked).
+(6) A determination made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 57V Additional matters relating to regulation of water services
+The provisions set out in Schedule 7 have effect according to their terms.
+
+## Part 4A — Consumer protection in relation to water services
+
+### Subpart 1 — Overview, purpose, interpretation, and application of this Part
+
+### 57W Overview of this Part
+(1) In this Part,—
+  (a) this subpart contains preliminary provisions in relation to water services and water services suppliers:
+  (b) subpart 2 enables the Commission, in relation to water services, to include requirements relating to consumer protection in any information disclosure requirements that apply under Part 4:
+  (c) subpart 3 makes provision for other consumer protection measures in relation to water services, including—
+    (i) regulations relating to consumer protection (including regulations about consumer complaints and dispute resolution); and
+    (ii) service quality codes.
+(2) This section is intended only as a guide to the general scheme and effect of this Part.
+
+### 57X Purpose of this Part
+The purpose of this Part is to provide for—
+  (a) consumer protection by water services suppliers to which this Part applies; and
+  (b) improvements in the quality of service provided to consumers by those suppliers, to reflect consumer demands.
+
+### 57Y Interpretation of this Part
+(1) In this Part, unless the context otherwise requires,—
+  - **Commission service quality code** means a code made by the Commission under section 57ZF
+  - **complaint** means an expression of dissatisfaction
+  - **service** or means any of the water services to which this Part applies
+  - **supplier** or means a supplier that is a regulated supplier in relation to water services to which this Part applies
+  - **Water Services Authority—Taumata Arowai** means the Water Services Authority—Taumata Arowai established by section 8 of the Water Services Authority—Taumata Arowai Act 2020.
+(2) Any term or expression that is defined in Part 4 and used, but not defined, in this Part has the same meaning as in Part 4.
+
+### 57Z Application of this Part
+This Part applies to—
+  (a) water services to which information disclosure regulation applies; and
+  (b) regulated suppliers of those services.
+
+### Subpart 2 — Information disclosure requirements relating to protecting consumers of water services
+
+### 57ZA Information disclosure requirements relating to consumer protection
+(1) The Commission may include requirements relating to protecting consumers of water services in any information disclosure regulation that applies under subpart 12 of Part 4 (see sections 57D and 57E).
+(2) Those requirements may require the disclosure of information about consumers’ experience of the services provided by their supplier, including—
+  (a) the number of complaints received by the supplier:
+  (b) the nature of those complaints:
+  (c) when each complaint was received and how long it took to resolve it:
+  (d) how the complaint was resolved.
+(3) This section does not limit the other powers of the Commission under this or any other Act.
+
+### Subpart 3 — Other measures relating to protecting consumers of water services
+
+**Regulations**
+
+### 57ZB Regulations relating to protecting consumers of water services
+(1) The Governor-General may, on the recommendation of the Minister, make regulations relating to protecting consumers of water services, including regulations for all or any of the following:
+  (a) prescribing the information that water services suppliers must provide to consumers, including how a consumer may make a complaint to a supplier:
+  (b) prescribing requirements relating to consumer complaints that water services suppliers must meet, including—
+    (i) requirements for investigating consumer complaints:
+    (ii) the time frame for investigating consumer complaints:
+    (iii) notifying decisions on consumer complaints (including any action that was taken to resolve the matters that gave rise to the complaint):
+    (iv) records that suppliers must keep about consumer complaints:
+  (c) prescribing requirements for annual reporting about consumer complaints to the Commission by water services suppliers, including the number of complaints that have been received and the outcome of complaints, including any action taken:
+  (d) prescribing requirements relating to how, and in what manner, water services suppliers must provide access to an external consumer dispute resolution process, for example, by setting up a regulated scheme, or requiring suppliers to appoint their own scheme subject to any criteria set in the regulations:
+  (e) prescribing offences for the breach of the regulations:
+  (f) prescribing the maximum fine for each offence prescribed under paragraph (e), which must not,—
+    (i) in the case of an individual, exceed $10,000; and
+    (ii) in any other case, exceed $200,000:
+  (g) providing for any other matters relating to consumer protection in respect of water services that the Minister thinks necessary for the purpose of this Part.
+(2) The Minister may make a recommendation on the Minister’s own initiative or following a recommendation from the Commission.
+(3) The Commission may make a recommendation to the Minister only after—
+  (a) considering—
+    (i) whether consumer interests are adequately protected, and the purpose of this Part is adequately promoted, or would be better protected or promoted by the proposed regulations; and
+    (ii) whether the proposed regulations would unduly duplicate other requirements that apply to water services and water services suppliers; and
+    (iii) any other matters that the Commission considers relevant; and
+  (b) consulting the Water Services Authority—Taumata Arowai and other interested persons.
+(4) The Minister may make a recommendation only—
+  (a) if the Minister is satisfied that the proposed regulations would better achieve the purpose of this Part; and
+  (b) if the Minister is satisfied that the proposed regulations would not unduly duplicate other requirements that apply to water services and suppliers; and
+  (c) after consulting the Minister responsible for the Water Services Authority—Taumata Arowai, the Minister responsible for the administration of the Water Services Act 2021, and the Commission; and
+  (d) in the case of regulations relating to external dispute resolution, if the Minister is satisfied that consumers of water services do not have, and are unlikely to have, adequate dispute resolution procedures unless the proposed regulations are made.
+(5) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Service quality codes**
+
+### 57ZC Purpose of service quality code
+The purpose of a service quality code is to improve service quality to reflect the demands of consumers of water services.
+
+### 57ZD Commission may issue guidelines to industry about service quality codes
+The Commission may issue guidelines to the water services industry on any matters relating to service quality codes, including advice on what matters are appropriately dealt with by service quality codes.
+
+### 57ZE Commission review of industry service quality codes
+(1) The Commission may, at any time, review an industry service quality code.
+(2) The Commission may require the following persons to provide the Commission with any information relevant to the industry service quality code under review:
+  (a) the Water Services Authority—Taumata Arowai:
+  (b) suppliers to whom the code applies.
+(3) After each review, the Commission must—
+  (a) advise the Water Services Authority—Taumata Arowai, the dispute resolution provider for the code (if any), and the Minister of any recommendations for improving the code and of any recommendations for creating a new code; and
+  (b) advise the Minister of whether any previous recommendations have been implemented; and
+  (c) advise the Minister of whether, in the Commission’s opinion,—
+    (i) the code fails to achieve the purpose of this Part; or
+    (ii) a Commission service quality code would better achieve the purpose of this Part.
+
+### 57ZF Commission may make Commission service quality code
+(1) The Commission may make a Commission service quality code in relation to the provision of 1 or more types of service to which this Part applies.
+(2) The Commission may make that code on the Commission’s own initiative or following a recommendation from the Minister.
+(3) The Commission may make a code, and the Minister may recommend a code, under this section only if—
+  (a) no industry service quality code has been made in relation to the service; or
+  (b) an industry service quality code has been made in relation to the service, but in the Commission’s or the Minister’s opinion—
+    (i) the code fails to achieve the purpose of this Part; or
+    (ii) a Commission service quality code would better achieve the purpose of this Part.
+(4) If the Commission intends to make a Commission service quality code, the Commission must, before making the code, provide a report to the Minister containing the reasons for making the code and specifying the provision of this section that applies.
+(5) A Commission service quality code is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 57ZG Contents of Commission service quality code
+(1) A Commission service quality code must—
+  (a) specify which services it applies to; and
+  (b) specify which suppliers it applies to; and
+  (c) promote the purpose of this Part.
+(2) The code may (without limitation) do 1 or more of the following:
+  (a) specify a consumer’s rights when they make a complaint to a supplier:
+  (b) specify the type and frequency of communications that a supplier must have with consumers about—
+    (i) restrictions or interruptions of water services; and
+    (ii) the time taken to respond to water services restrictions or interruptions and faults:
+  (c) contain rules about the transparency of billing practices, and the way in which suppliers must respond to account queries:
+  (d) set out the types of redress available to consumers when the quality of service does not meet appropriate standards (for example, in relation to pressure flow rates):
+  (e) specify conditions for providing services to consumers who are experiencing hardship or who have other vulnerabilities (for example, the obligations of suppliers when responding to non-payment by consumers):
+  (f) specify requirements for consulting consumers:
+  (g) provide for any other matter that the Commission considers appropriate.
+
+### 57ZH Suppliers must comply with Commission service quality code
+Suppliers to which a Commission service quality code applies must comply with the code.
+
+### 57ZI Process for making or amending Commission service quality code
+(1) To make a Commission service quality code, the Commission must—
+  (a) give public notice of the process that it will follow to make the code; and
+  (b) consult the Water Services Authority—Taumata Arowai and other interested persons; and
+  (c) give public notice of a draft code.
+(2) A person is entitled to make a submission to the Commission not later than 30 working days after the date on which the Commission gives public notice of the draft code.
+(3) The Commission must—
+  (a) take reasonable steps to identify classes of vulnerable consumers; and
+  (b) consider the impact of the provision of services on vulnerable consumers and take the interests of those persons into account when making the code.
+(4) The Commission may make the code only if satisfied that the draft code meets all the requirements set out in this subpart.
+(5) The Commission may amend or revoke and replace the code if the Commission considers that the code should be changed to better promote the purpose of this Part.
+(6) The same procedure that applies to making a code in subsections (1) to (4) must be followed to make an amendment or a revocation and replacement, with any necessary modifications, except that subsections (1) to (4) do not apply if the Commission is satisfied that an amendment is non-material.
+
+**Compliance**
+
+### 57ZJ Commission must monitor compliance
+(1) The Commission—
+  (a) must monitor compliance by suppliers with any requirements set out in regulations under this Part or in a Commission service quality code; and
+  (b) in doing so, may have regard to the scale, complexity, and risk profile of a supplier or the type of water services being provided by the supplier.
+(2) For the purpose of monitoring compliance with any of those requirements, the Commission may, in addition to exercising its powers under section 98, issue a written notice to a supplier requiring it to provide any or all of the following:
+  (a) a written statement of whether the supplier has complied with the requirement:
+  (b) a report on the written statement that is signed by an auditor in accordance with any form specified by the Commission:
+  (c) sufficient information to enable the Commission to properly determine whether the requirement has been complied with:
+  (d) a certificate in the form specified by the Commission, and signed by at least 1 board member of the supplier or, if there is no board, the person who operates the supplier, confirming the truth and accuracy of any information provided under this section.
+
+### 57ZK When court may make pecuniary penalty order
+(1) The court may, on the application of the Commission, order a person to pay to the Crown a pecuniary penalty if the court is satisfied that the person has—
+  (a) contravened a Commission service quality code; or
+  (b) attempted to contravene, or been involved in a contravention of, a Commission service quality code.
+(2) A supplier may not be liable to both a pecuniary penalty under this section and a fine under section 57ZP in respect of the same conduct.
+
+### 57ZL Maximum amount of pecuniary penalty
+The maximum amount of a pecuniary penalty under section 57ZK is $300,000 for—
+  (a) a contravention of the service quality code under section 57ZK(1)﻿(a):
+  (b) an attempted contravention of the service quality code under section 57ZK(1)﻿(b):
+  (c) involvement in the contravention of the service quality code under section 57ZK(1)﻿(b).
+
+### 57ZM Court may make compensatory orders for contravention of Commission service quality code
+(1) If the court orders a person to pay a pecuniary penalty order under section 57ZK in respect of a contravention of a Commission service quality code, the court may, in addition, order the person to pay compensation to any person who has suffered, or is likely to suffer, loss or damage as a result of the contravention (an aggrieved person).
+(2) An application for an order under this section may be made by the Commission or any aggrieved person.
+(3) The court may make a compensatory order whether or not the aggrieved person is a party to the proceeding.
+
+### 57ZN Court may grant injunctions for contravention of Commission service quality code
+The court may, on application by the Commission or any other person, grant an injunction—
+  (a) restraining a person from engaging in conduct that constitutes or would constitute a contravention, an attempted contravention, or involvement in a contravention of a Commission service quality code; or
+  (b) requiring a person to do a thing if—
+    (i) that person has refused or failed, is refusing or failing, or is proposing to refuse or fail, to do that thing; and
+    (ii) the refusal or failure was, is, or would be a contravention of an information disclosure requirement or a Commission service quality code.
+
+### 57ZO Order requiring regulations to be complied with
+(1) The court may, on application by the Commission, order a supplier to comply with any regulations made under this subpart that apply to the supplier.
+(2) An order under this section must specify the date by which, or period within which, the supplier must comply with the requirement.
+
+### 57ZP Offence relating to Commission service quality codes
+(1) A person commits an offence if—
+  (a) the person, knowing that particular services are subject to a Commission service quality code, intentionally contravenes a code requirement in respect of the services; or
+  (b) the person is subject to an order under section 57ZO and fails to comply with the order.
+(2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $200,000, in the case of an individual, or $1 million, in any other case.
+
+**Additional remedies in relation to failure to comply with Commission service quality code**
+
+### 57ZQ Overview of sections 57ZR to 57ZT
+Sections 57ZR to 57ZT set out orders that the court may make for breaches of a Commission service quality code.
+
+### 57ZR Order to disclose information
+(1) The court may make either or both of the following orders if the court is satisfied, on the application of the Commission, that a person has failed without reasonable excuse to comply with a Commission service quality code:
+  (a) an order requiring that person, or any other person involved in the failure to comply, to disclose to the public, or to a particular person or class of persons, the information or class of information that is specified in the order, being information that is in the possession of the person to whom the order is directed or to which that person has access:
+  (b) an order requiring that person, or any other person involved in the failure to comply, to publish corrective statements the terms of which are specified in, or are to be determined in accordance with, the order.
+(2) The information must be disclosed or published—
+  (a) in the manner and at the times that are specified in the order; and
+  (b) at the person’s own expense.
+(3) The court may hear and determine an application under subsection (1) in conjunction with any other proceedings under this Part.
+
+### 57ZS General order for failure to comply with Commission service quality code
+(1) The court may make 1 or more of the following orders if the court is satisfied, on the application of the Commission, that a person (person X) has failed without reasonable excuse to comply with a Commission service quality code:
+  (a) an order directing person X to refund money or return property to any other person:
+  (b) an order directing person X to pay to any other person the amount of any loss or damage caused to that other person by the conduct of person X:
+  (c) an order directing person X, at person X’s own expense, to supply a service to any other person:
+  (d) an order declaring all or part of a contract made between person X and any other person, or a collateral arrangement relating to such a contract,—
+    (i) to be void; and
+    (ii) if the court thinks fit, to have been void at all times on and after a date specified in the order, which may be before the date on which the order is made:
+  (e) an order in respect of a contract made between person X and any other person, or a collateral arrangement relating to such a contract,—
+    (i) varying the contract or the arrangement in the manner specified in the order; and
+    (ii) if the court thinks fit, declaring the varied contract or arrangement to have had effect on and after a date specified in the order, which may be before the date on which the order is made.
+(2) The court may hear and determine an application under subsection (1) in conjunction with any other proceedings under this Part.
+
+### 57ZT Other order for failure to comply with Commission service quality code
+(1) The court may, if the court is satisfied, on the application of the Commission or a consumer, that a person has failed without reasonable excuse to comply with a Commission service quality code, make an order directing the person, at the person’s own expense, to supply a service to a consumer.
+(2) The court may hear and determine an application under subsection (1) in conjunction with any other proceedings under this Part.
+
+### 57ZU Remedies
+(1) Sections 79A, 87(5) and (6), and 87A(3) apply in respect of proceedings under this subpart.
+(2) For the purposes of this Act, the remedies set out in sections 57ZR to 57ZT are civil liability remedies.
+
+### 57ZV Application of Part 6 undertakings and injunction provisions
+The following provisions of this Act apply with any necessary modifications in respect of a contravention of any regulations made under this Part or a Commission service quality code:
+  (a) section 74A (Commission may accept undertakings):
+  (b) section 74B (matters included in undertakings):
+  (c) section 74C (enforcement of undertakings):
+  (d) sections 88 to 90 (injunctions generally).
+
+**Other provisions**
+
+### 57ZW Commission must take into account duties owed by suppliers of water services
+The Commission must take into account the duties owed by suppliers of water services under other legislation or instruments or under Treaty settlement obligations (for example, under water quality standards and requirements to support and enable planning processes, growth, and housing and urban development) when applying this Part in relation to water services.
+
+### 57ZX Commission’s functions do not extend to regulating safety of drinking water
+The Commission’s functions under this Part do not extend to regulating the safety of drinking water (see section 11 of the Water Services Authority—Taumata Arowai Act 2020, which describes the role of the Water Services Authority—Taumata Arowai in that regard).
+
+### 57ZY Levies
+(1) Regulations made under section 53ZE may provide for levies to recover the costs of performing the Commission’s functions, powers, and duties under this Part, and of collecting the levy money.
+(2) In that case, section 53ZE applies in full as if those costs related to Part 4.
 
 ## Part 4A — Provisions applicable to electricity industry
 
@@ -2570,6 +3046,7 @@ Nothing in section 27, 36, 36A, 47, or 47A applies to the acquisition of assets 
     (i) proceedings for the recovery of pecuniary penalties under section 86 or 87:
     (ii) applications for orders under section 86A, 86C, or 87A:
     (iii) applications for injunctions under section 87C:
+  (ca) in the case of contraventions relating to Part 4A, proceedings under sections 57ZK, 57ZM, 57ZN, 57ZR, 57ZS, and 57ZT:
   (d) applications for orders under section 89:
   (e) appeals against determinations of the Commission:
   (f) applications for orders under section 80B or section 80C:
@@ -2579,7 +3056,7 @@ Nothing in section 27, 36, 36A, 47, or 47A applies to the acquisition of assets 
 (2)
 
 ### 76 Jurisdiction of District Court
-In accordance with this Part, the District Court must hear and determine proceedings for offences against sections 86B, 87B, 100, and 103.
+In accordance with this Part, the District Court must hear and determine proceedings for offences against sections 57ZB(1)﻿(e), 57ZP, 86B, 87B, 100, and 103.
 
 ### 77 Additional lay members of High Court for purposes of appellate jurisdiction in respect of Commission determinations
 (1) This section applies for the purposes of the exercise by the court of its jurisdiction and powers under sections 91 to 97.
@@ -2912,19 +3389,26 @@ For the purposes of sections 85A and 85B, the court must not take into account a
   (b) the extent to which the failure was the result of factors outside the control of party B; and
   (c) whether party B has previously been ordered to pay compensation for a similar failure in proceedings under this section.
 
-### 87 Pecuniary penalty for contravening price-quality requirements
+### 87 Pecuniary penalty for contravening price-quality, quality, or performance requirements
 (1) The court may, on application by the Commission, order a person to pay a pecuniary penalty to the Crown if the court is satisfied that the person—
-  (a) has contravened any price-quality requirement applying to the regulated goods or services; or
+  (a) has contravened any price-quality or quality or performance requirement applying to the regulated goods or services; or
   (b) has attempted to contravene any such requirement; or
   (c) has aided, abetted, counselled, or procured any other person to contravene any such requirement; or
   (d) has induced, or attempted to induce, any other person, whether by threats or promises or otherwise, to contravene any such requirement; or
   (e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by any other person of any such requirement; or
   (f) has conspired with any other person to contravene any such requirement.
-(2) In subsection (1) and sections 87A to 87C, a reference to contravening a price-quality requirement—
-  (a) refers to a requirement imposed by a determination made under section 52P in relation to goods or services that are subject to default/customised price-quality regulation or to individual price-quality regulation imposed under Part 4; and
-  (b) means either or both of the following:
-    (i) failing to comply with the requirements for prices, whether by charging a price for the goods or services that is higher than the maximum price permitted, or by receiving more revenue than is permitted, or in any other way:
-    (ii) refusing or failing to comply with any quality standards required under the price-quality regulation.
+(2) In subsection (1) and sections 87A to 87C, a reference to contravening a price-quality, quality, or performance requirement—
+  (a) refers to a requirement imposed by a determination made under section 52P in relation to goods or services that are subject to any of the following:
+    (i) default/customised price-quality regulation imposed under Part 4:
+    (ii) individual price-quality regulation imposed under Part 4:
+    (iii) quality regulation imposed under subpart 12 of Part 4:
+    (iv) performance requirement regulation imposed under subpart 12 of Part 4:
+    (v) price-quality regulation imposed under subpart 12 of Part 4; and
+  (b) means 1 or more of the following:
+    (i) failing to comply with the requirements for prices, whether by charging a price for the goods or services that is higher than the maximum price permitted or is lower than the minimum price required, or by receiving more or less revenue than is permitted or required, or in any other way:
+    (ii) refusing or failing to comply with any quality standards, or any incentives to maintain or improve quality of supply under Schedule 7 (which relates to regulation of water services), required under the price-quality or quality regulation:
+    (iii) refusing or failing to comply with any performance requirements set out in a section 52P determination relating to price-quality, quality, or performance requirement regulation.
+(2A) In this section and sections 87A to 87C, a reference to price-quality, quality, or performance requirement regulation means any type of regulation referred to in subsection (2)﻿(a).
 (3) The amount of pecuniary penalty must not, in respect of each act or omission, exceed $500,000 in the case of an individual, or $5,000,000 in any other case.
 (4) In setting the amount of pecuniary penalty, the court must take into account all of the following matters:
   (a) the nature and extent of the contravention:
@@ -2934,24 +3418,24 @@ For the purposes of sections 85A and 85B, the court must not take into account a
 (5) A supplier may not be liable to more than 1 pecuniary penalty in respect of the same conduct.
 (6) Proceedings under this section may be commenced at any time within 3 years after the contravention occurred.
 
-### 87A Compensation for contravention of price-quality requirement
-(1) If the court orders a person to pay a pecuniary penalty under section 87 in respect of the contravention of a price-quality requirement, the court may, in addition, order the person to pay compensation to any person who has suffered, or is likely to suffer, loss or damage as a result of the contravention (an aggrieved person).
+### 87A Compensation for contravention of price-quality, quality, or performance requirement
+(1) If the court orders a person to pay a pecuniary penalty under section 87 in respect of the contravention of a price-quality, quality, or performance requirement, the court may, in addition, order the person to pay compensation to any person who has suffered, or is likely to suffer, loss or damage as a result of the contravention (an aggrieved person).
 (2) An application for orders under this section may be made by the Commission or any aggrieved person.
 (3) The application must be made within 1 year of the date of the pecuniary penalty order.
 (4) The court may make an order under this section whether or not any aggrieved person is party to the proceedings.
 (5) In proceedings under this section, the court may make such orders as to cost as it thinks fit.
 
-### 87B Offence relating to price-quality regulation
+### 87B Offence relating to price-quality, quality, or performance requirement regulation
 (1) A person commits an offence if—
-  (a) the person, knowing that particular goods or services are subject to price-quality regulation, intentionally contravenes a price-quality requirement in respect of the goods or services; or
+  (a) the person, knowing that particular goods or services are subject to price-quality, quality, or performance requirement regulation, intentionally contravenes a price-quality, quality, or performance requirement in respect of the goods or services; or
   (b) the person is subject to an order under section 87C(1)﻿(b) and fails to comply with the order.
 (2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in any other case.
 (3)
 
-### 87C Injunction and other orders relating to price-quality regulation
-(1) If the court is satisfied that goods or services that are subject to price-quality regulation are being supplied, or are likely to be supplied, in contravention of any price-quality requirement applying with respect to those goods or services, the court may do either or both of the following:
-  (a) grant an injunction restraining any supplier of those goods or services from supplying them in contravention of the price-quality requirement:
-  (b) make an order requiring the supplier to supply the goods or services in accordance with the price-quality requirement applying to them.
+### 87C Injunction and other orders relating to price-quality, quality, or performance requirement regulation
+(1) If the court is satisfied that goods or services that are subject to price-quality, quality, or performance requirement regulation are being supplied, or are likely to be supplied, in contravention of any price-quality, quality, or performance requirement applying with respect to those goods or services, the court may do either or both of the following:
+  (a) grant an injunction restraining any supplier of those goods or services from supplying them in contravention of the price-quality, quality, or performance requirement:
+  (b) make an order requiring the supplier to supply the goods or services in accordance with the price-quality, quality, or performance requirement applying to them.
 (2) An application for an injunction or an order under this section may be made by any person.
 
 **Injunctions generally**
@@ -3005,7 +3489,10 @@ For the purposes of sections 85A and 85B, the court must not take into account a
 (1) There is a right of appeal to the High Court under this subsection against any determination of the Commission under this Act, other than the following:
   (a) a determination, or any part of a determination, made under section 52P (a section 52P determination) that sets out—
     (i) how information disclosure regulation or negotiate/arbitrate regulation applies to regulated suppliers; or
-    (ii) the default price-quality path that applies to regulated suppliers:
+    (ii) the default price-quality path that applies to regulated suppliers; or
+    (iii) how revenue threshold regulation applies to regulated suppliers under Part 3 of Schedule 7; or
+    (iv) the quality path that applies to regulated suppliers under Part 4 of Schedule 7; or
+    (v) a performance requirement that applies to regulated suppliers under Part 5 of Schedule 7:
   (b) an input methodology determination (as defined in section 52Z, and for which a separate appeal right is given under that section).
 (1A) An appeal against a section 52P determination may not include an appeal against all or part of an input methodology, whether on a point of law or any other ground.
 (1B) There is a right of appeal to the High Court on a question of law against any determination of the Commission under this Act (including a determination referred to in subsection (1)).
@@ -3299,7 +3786,7 @@ The Commission must not provide information to an overseas regulator that the Co
 
 ### 103 Offences
 (1) No person shall—
-  (a) without reasonable excuse, refuse or fail to comply with a notice under sections 53B(1)﻿(c), 53N, 53ZD, and 98; or
+  (a) without reasonable excuse, refuse or fail to comply with a notice under section 53B(1)﻿(c), 53N, 53ZD, 57ZJ(2), or 98 or clause 36(2) or (4) of Schedule 7; or
   (b) in purported compliance with such a notice, furnish information, or produce a document, or give evidence, knowing it to be false or misleading; or
   (c) resist, obstruct, or delay an employee of the Commission acting pursuant to a warrant issued under section 98A.
 (2) No person shall attempt to deceive or knowingly mislead the Commission in relation to any matter before it.
@@ -3589,6 +4076,48 @@ Section 80C applies to a covenant only if the covenant is given, or required to 
 ### 27 Offence under section 82B(1)﻿(b) does not apply in relation to covenants given before commencement date
 Section 82B(1)﻿(b) does not apply to a person who gives effect to a cartel provision in a covenant given, or required to be given, before the commencement date.
 
+### Part 6 — Provisions relating to Local Government (Water Services) Act 2025
+
+### 28 Interpretation in this Part
+In this Part, unless the context otherwise requires,—
+  - **Preliminary Arrangements Act 2024** means the Local Government (Water Services Preliminary Arrangements) Act 2024
+  - **section 52P determination** has the same meaning as in section 52C.
+
+### 29 Transition in respect of information disclosure requirements for purpose of economic regulation
+(1) The Commission must, before 1 July 2026, make 1 or more section 52P determinations specifying how information disclosure regulation imposed under subpart 12 of Part 4 of this Act will apply to any entities that are specified under section 39 of the Preliminary Arrangements Act 2024 as being subject to foundational information disclosure.
+(2) On and after 1 July 2026,—
+  (a) that or those section 52P determinations apply to those entities; but
+  (b) any foundational information disclosure requirements imposed under the Preliminary Arrangements Act 2024 continue to apply in relation to the financial year ending on 30 June 2026 if the disclosure date under section 44(1)﻿(g) of that Act is on or before 31 December 2026 (and those requirements may be enforced under that Act, despite the commencement of the provisions in the Local Government (Water Services) (Repeals and Amendments) Act 2025 that amend this Act); and
+  (c) no foundational information disclosure requirements under the Preliminary Arrangements Act 2024 apply in relation to the financial year ending on 30 June 2027 or any later years.
+(3) An entity may not be declared to be a specified entity under section 39 of the Preliminary Arrangements Act 2024 after the commencement of the Local Government (Water Services) Act 2025.
+(4) Any consultation undertaken under section 40 of the Preliminary Arrangements Act 2024 is treated as also having been undertaken for the purposes of clause 35 of Schedule 7 of this Act.
+
+### 30 Transition in respect of economic regulation of Watercare Services Limited
+(1) In this clause, unless the context otherwise requires,—
+  - **end-date of the first regulatory period** means the end-date of the first time period in respect of economic regulation of Watercare Services Limited under the Watercare charter made under Part 4 of the Preliminary Arrangements Act 2024, being—
+    (a) the date specified under section 78(b)﻿(ii) of that Act; or
+    (b) any earlier or later date determined by the Minister under clause 31.
+(2) The Commission must, before the end-date of the first regulatory period, make a section 52P determination specifying how price-quality regulation imposed under subpart 12 of Part 4 of this Act will apply to Watercare Services Limited and any subsidiary of Watercare Services Limited under section 57F of this Act.
+(3) On and after that end-date,—
+  (a) that section 52P determination applies to those entities; and
+  (b) any price-quality path set under the Watercare charter under the Preliminary Arrangements Act 2024 no longer applies to those entities.
+(4) Subject to this clause, Part 4 of the Preliminary Arrangements Act 2024 continues in force, and may be enforced under that Act, despite the commencement of the provisions in the Local Government (Water Services) (Repeals and Amendments) Act 2025 that amend this Act.
+
+### 31 Commission may recommend alteration of first regulatory period that applies under Preliminary Arrangements Act 2024
+(1) The Commission may recommend to the Minister responsible for the Preliminary Arrangements Act 2024 and the Minister responsible for this Act that the end-date of the first regulatory period that applies under the Preliminary Arrangements Act 2024 be—
+  (a) extended; or
+  (b) brought forward to an earlier date.
+(2) The Commission may make that recommendation only if it considers that the recommendation would better promote the purpose of Part 4 of this Act.
+(3) The Minister responsible for the Preliminary Arrangements Act 2024 may take that recommendation into account if acting under section 77 of that Act and may recommend to the Governor-General that the time period during which the charter applies for the purpose of section 78(b)﻿(ii) of that Act be amended.
+
+### 32 Transition for recovery of costs of Commission
+(1) Levy regulations made under section 53ZE may provide for the recovery of the costs of the Commission in respect of the Commission's functions, powers, and duties under the Preliminary Arrangements Act 2024.
+(2) However, subclause (1) does not apply to expenses incurred by the Crown monitor in relation to monitoring Watercare that are referred to in section 89(1)﻿(a) of the Preliminary Arrangements Act 2024 (which costs continue to be recoverable from Watercare under that section 89).
+(3) Any consultation referred to in subclause (4) must be treated as having been undertaken for the purposes of section 53ZE(4).
+(4) The consultation is any consultation undertaken by the Minister with suppliers of water services, or representatives of those suppliers, that—
+  (a) occurred at any time between 1 November 2024 and 28 February 2025; and
+  (b) related to levies to meet the costs of performing the Commission’s functions, powers, and duties in connection with subpart 12 of Part 4 and Schedule 7 of this Act (and the costs of collecting the levy money).
+
 ## Schedule 1 — Classes of merger or takeover proposals requiring prior clearance or authorisation by the Commission
 
 ## Schedule 2 — Enactments amended
@@ -3681,3 +4210,348 @@ Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to 
 | TAG Oil (NZ) Limited | Sidewinder Production Station—Vector 300 Line at Durham Road Upper |
 | Cheal Petroleum Limited | Cheal Gas Export Pipeline |
 | Contact Energy Limited | Ahuroa Gas Storage Facility—Taranaki Combined Cycle and Stratford Peaker power stations gas pipeline |
+
+## Schedule 7 — Additional matters relating to regulation of water services
+
+### 1 Overview
+(1) This schedule sets out additional matters for the purposes of subpart 12 of Part 4 of this Act (which relates to the regulation of water services).
+(2) This schedule also contains provisions about ring-fencing water services revenue.
+
+### 2 Interpretation in subpart 12 of Part 4 of this Act and this schedule
+(1) In subpart 12 of Part 4 of this Act and this schedule, unless the context otherwise requires,—
+  - **consumer** —
+    (a) means a person who consumes, uses, is provided with, or benefits from the provision of, a water service; and
+    (b) includes a person who is liable to pay a serviceability charge under section 88 of the Local Government (Water Services) Act 2025
+  - **local government water service supplier** —
+    (a) means either of the following:
+      (i) a local authority (within the meaning of section 5 of the Local Government Act 2002):
+      (ii) a water organisation:
+    (b) does not include the Chatham Islands Council (but that council may be declared to be regulated by an Order in Council under section 57L)
+  - **regulated supplier** , in relation to a water service, means—
+    (a) a local government water service supplier to which section 57D(1) applies; or
+    (b) a supplier of the water service that is declared to be regulated by an Order in Council under section 57L
+  - **split decision-making model** means an arrangement for providing water services where a local government water service supplier makes 1 or more, but not all, decisions about capital and operating expenditure on a regulated water service or the level of charges or revenue recovery for a regulated water service
+  - **water organisation** has the meaning given in section 4 of the Local Government (Water Services) Act 2025.
+(2) Any term or expression that is defined in the Water Services Act 2021 and used, but not defined, in this clause has the same meaning as in that Act.
+
+### Part 1 — Ring-fencing of revenue
+
+### 3 Application of this Part
+This Part applies to every person that is a regulated supplier in relation to 1 or more regulated water services.
+
+### 4 Purpose of this Part
+The purpose of this Part is to ensure that regulated suppliers act in accordance with the following as applied to regulated water services:
+  (a) the financial principle in section 18(1)﻿(a) of the Local Government (Water Services) Act 2025:
+  (b) section 18(3) of that Act.
+
+### 5 Section 52P determinations may relate to requirement to ring-fence revenue
+(1) If the Commission considers it necessary or desirable, the Commission may make 1 or more section 52P determinations relating to 1 or more regulated suppliers with requirements that give effect to the purpose of this Part, including requirements—
+  (a) that may require the supplier to ensure that a portion of the revenue it receives from providing 1 or more regulated water services is invested in that or those regulated water services, including in a particular asset, expense category, project, programme, or type of regulated water service, or held in reserve for any of those matters:
+  (b) that may set limits on any dividends paid by a water organisation, to the extent necessary or desirable to ensure the organisation acts in accordance with section 18(3)﻿(b) of the Local Government (Water Services) Act 2025.
+(2) Every regulated supplier of services must comply with every section 52P determination applying to the supplier under this clause (as if the determination were made, and related to a type of regulation, under Part 4 of this Act).
+(3) Section 87 (which relates to pecuniary penalties) and sections 87A, 87B, and 87C (which relate to compensation, an offence, and injunctions) apply to a regulated supplier on and from 1 July 2027 in respect of a contravention of subclause (2) (as if it were a contravention of a type of regulation under Part 4 of this Act that is referred to in those sections).
+(4) The Commission is entitled to exercise any of its powers under this Act for the purpose of monitoring compliance by regulated suppliers with a section 52P determination made under this clause.
+
+### Part 2 — Additional matters for information disclosure regulation
+
+### 6 Additional matters relating to information disclosure regulation under subpart 12 of Part 4
+(1) This Part applies to a section 52P determination relating to information disclosure regulation imposed under subpart 12 of Part 4 of this Act.
+(2) The Commission may have regard to the scale, complexity, and risk profile of each supplier (or a class of suppliers), or the type of water services being provided by each supplier (or class of supplier), to which the determination will apply (for example, by requiring more or less information to be disclosed).
+(3) In addition to the information referred to in section 53C(2), the determination may require 1 or more of the following to be disclosed:
+  (a) consolidated information that includes information about goods or services that are not subject to regulation under Part 4 of this Act, in which case clause 7 applies (and this paragraph applies instead of section 53C(2)﻿(k)):
+  (b) information about the financing of regulated suppliers that includes information about goods or services that are not subject to regulation under Part 4 of this Act, in which case clause 7 applies:
+  (c) in relation to a local government water service supplier’s provision of water services, information about how the supplier is supporting and enabling planning processes, growth, and housing and urban development and, in particular, the supplier’s level of responsiveness in relation to those issues.
+(4) In addition to what it may do under section 53C(3), the section 52P determination may require independent audits, assurance, or other verification of disclosed information, and may impose requirements in connection with who may carry out the audit, assurance, or verification.
+(5) The Auditor-General is the auditor in respect of any public entity for which a section 52P determination requires independent audits, assurance, or other verification of disclosed information.
+(6) The Commission may gather information about regulated activities from any party holding that information (for example, a previously regulated supplier or a contracted party) for the relevant disclosure year or part of a disclosure year.
+(7) However, the Commission may not require the Auditor-General to give information under subclause (6).
+
+### 7 Section 52P determination may require supplier to provide additional information
+(1) The purpose of this clause is to enable the Commission to monitor—
+  (a) compliance with requirements to disclose information under Part 4 of this Act in relation to supplying water services; and
+  (b) compliance with Part 1 of this schedule (which relates to ring-fencing of revenue); and
+  (c) the ongoing capability of a supplier to raise finance with respect to its supply of water services by assessing the supplier’s overall financial position.
+(2) A section 52P determination may require a supplier to disclose information referred to in subclause (3) only to the extent required to enable the Commission to monitor 1 or more of the matters referred to in subclause (1).
+(3) If a supplier supplies goods or services that are not incidental to or related to supplying water services (other goods or services), a section 52P determination may require the supplier to disclose—
+  (a) consolidated financial statements, and any other information referred to in section 53C or clause 6, for all activities (including those related to the supply of other goods or services) undertaken by that supplier; and
+  (b) consolidated financial statements, and any other information referred to in section 53C or clause 6, for supplying all other goods or services in aggregate; and
+  (c) reconciliation of information provided under paragraphs (a) and (b) with information disclosed in accordance with information disclosure requirements applying to supplying water services; and
+  (d) information about financing all activities (including those related to supplying other goods or services) undertaken by that supplier.
+(4) If a local government water service supplier operates a split decision-making model, a section 52P determination may require the supplier to disclose consolidated information that includes—
+  (a) information about any other regulated supplier that makes 1 or more of the other of those decisions in that split decision-making model; and
+  (b) information about other goods or services supplied by that other regulated supplier.
+
+### Part 3 — Revenue threshold regulation
+
+### 8 Purpose of revenue threshold regulation
+The purpose of revenue threshold regulation is to promote the ongoing recovery of revenue at a level that covers efficient costs, so that regulated suppliers invest in water services infrastructure to meet consumer demands.
+
+### 9 Section 52P determination to set out revenue thresholds
+(1) A section 52P determination relating to water services that are subject to revenue threshold regulation must—
+  (a) specify the services to which it applies; and
+  (b) specify the suppliers to which it applies; and
+  (c) specify either or both of the following (a revenue threshold):
+    (i) the maximum revenues that should be recovered by a regulated supplier; and
+    (ii) the minimum revenues that should be recovered by a regulated supplier.
+(2) In specifying matters under subclause (1), the Commission may consider either or both of the following:
+  (a) any information provided under information disclosure regulation:
+  (b) any other information it thinks fit.
+
+### 10 Effect of being subject to revenue threshold regulation
+If a section 52P determination relating to revenue threshold regulation applies to a regulated supplier,—
+  (a) the supplier is not required to comply with the revenue threshold (and section 52F does not apply); but
+  (b) the Commission may exercise any of its powers under this Act for the purpose of monitoring the supplier’s performance against the revenue threshold; and
+  (c) the Commission must consider the supplier’s performance against the revenue threshold before recommending further regulation under section 57G (see section 57H(1)﻿(a)﻿(iii)).
+
+### Part 4 — Quality regulation
+
+### 11 Purpose of quality regulation
+The purpose of quality regulation is to regulate the quality of water services supplied by regulated suppliers.
+
+### 12 Effect of being subject to quality regulation
+A regulated supplier to which a section 52P determination relating to quality regulation applies must apply the quality paths set by the Commission in the determination in respect of all water services that are—
+  (a) supplied by the supplier; and
+  (b) specified in the determination.
+
+### 13 Section 52P determination to set out quality path requirements
+(1) A section 52P determination relating to quality regulation must specify the quality paths that apply to each regulated supplier to which the determination applies.
+(2) A quality path must specify the following:
+  (a) the quality standards that a regulated supplier must meet:
+  (b) the date or dates on which the quality path (or any part of it) takes effect:
+  (c) the date or dates by which compliance must be demonstrated.
+(3) In specifying a quality path, the Commission may have regard to the scale, complexity, and risk profile of each regulated supplier (or a class of regulated suppliers), or the type of water services being provided by each supplier (or class of supplier), in respect of which it will apply, for example, by doing either or both of the following:
+  (a) undertaking a greater or lesser degree of scrutiny of a supplier (or class of suppliers) with respect to historical and forecast quality of supply:
+  (b) setting quality standards at a more or less onerous level.
+(4) A quality path may include incentives for a regulated supplier to maintain or improve its quality of supply, and those incentives may include (without limitation) either or both of the following:
+  (a) compensation schemes that set minimum standards of performance and require the supplier to pay prescribed amounts of compensation to consumers if it fails to meet those standards:
+  (b) the use of schemes that rate or rank various aspects of the supplier’s performance in meeting the required quality standards or any performance requirements.
+
+### 14 Other matters relating to quality path requirements
+(1) A quality path does not apply to a regulated supplier until the date specified in the relevant section 52P determination.
+(2) Quality standards may be prescribed in any way the Commission considers appropriate (such as targets, bands, formulas, or timetables for responsiveness to consumers).
+
+### 15 Reopening quality path if input methodology changes as result of appeal
+The Commission must reopen a quality path, and make a new quality path by amending the relevant section 52P determination in accordance with section 52Q, if—
+  (a) an input methodology changes as a result of an appeal under section 52Z; and
+  (b) had the changed input methodology applied at the time the quality path was set, it would have resulted in a materially different path being set.
+
+### 16 No other reopening of quality path
+Except as provided in clause 15, the Commission must not reopen a quality path within a regulatory period on the grounds that an input methodology is made or changes.
+
+### Part 5 — Performance requirement regulation
+
+### 17 Purpose of performance requirement regulation
+The purpose of performance requirement regulation is to regulate the performance (other than in relation to prices) of water services supplied by regulated suppliers.
+
+### 18 Effect of being subject to performance requirement regulation
+A regulated supplier to which a section 52P determination relating to performance requirement regulation applies must comply with the performance requirements set by the Commission in the determination in respect of all water services that are—
+  (a) supplied by the supplier; and
+  (b) specified in the determination.
+
+### 19 Section 52P determination to set out performance requirements
+(1) A section 52P determination relating to performance requirement regulation must specify the performance requirements that apply to each regulated supplier to which the determination applies.
+(2) A performance requirement must specify the following:
+  (a) the performance requirement that a regulated supplier must meet:
+  (b) the date or dates on which the requirement (or any part of it) takes effect:
+  (c) the date or dates by which compliance must be demonstrated.
+(3) In specifying a performance requirement, the Commission may have regard to the scale, complexity, and risk profile of each regulated supplier (or a class of regulated suppliers), or the type of water services being provided by each supplier (or class of supplier), in respect of which it will apply, for example, by doing either or both of the following:
+  (a) undertaking a greater or lesser degree of scrutiny of a supplier (or class of suppliers) with respect to historical and forecast performance of supply:
+  (b) setting performance requirements at a more or less onerous level.
+(4) A performance requirement may include—
+  (a) incentives for a regulated supplier to maintain or improve its performance, and those incentives may include (without limitation) either of the following:
+    (i) compensation schemes that set minimum standards of performance and require the supplier to pay prescribed amounts of compensation to consumers if it fails to meet those standards:
+    (ii) the use of schemes that rate or rank various aspects of the supplier’s performance in meeting the performance requirement; and
+  (b) any of the following requirements:
+    (i) requirements to adopt a particular approach to risk management:
+    (ii) requirements in relation to the condition of assets and remaining asset life:
+    (iii) requirements to make particular types of investment:
+    (iv) requirements to provide information about any investments planned for a particular period:
+    (v) requirements to deliver particular outputs:
+    (vi) requirements to consult the Commission about certain kinds of investments and investment decisions:
+    (vii) requirements to adopt asset management policies and practices:
+    (viii) reporting requirements, including—
+      (A) to whom reports must be made; and
+      (B) the timing of reports; and
+      (C) special reporting requirements in asset management plans, if the regulated supplier fails to meet the quality standards or other performance requirements; and
+      (D) any other matters relating to reporting, including requirements for additional information:
+    (ix) requirements that any disclosed information, or any information from which disclosed information is derived, be verified by statutory declaration or certified (in the form specified by the Commission) as true and accurate:
+    (x) requirements to undertake cost-benefit analysis before specified projects are begun:
+    (xi) requirements relating to consultation and engagement with consumers:
+    (xii) requirements based on comparative benchmarking of efficiency.
+
+### 20 Other matters relating to performance requirements
+(1) A performance requirement does not apply to a regulated supplier until the date specified in the relevant section 52P determination.
+(2) Performance requirements may be prescribed in any way the Commission considers appropriate (such as targets, bands, formulas, or timetables for responsiveness to consumers).
+
+### Part 6 — Price-quality regulation
+
+### 21 Purpose of price-quality regulation
+The purpose of price-quality regulation is to regulate the price, quality, and performance of water services supplied by regulated suppliers.
+
+### 22 Effect of being subject to price-quality regulation
+A regulated supplier to which a section 52P determination relating to price-quality regulation applies must apply the price-quality paths set by the Commission in the determination in respect of all water services that are—
+  (a) supplied by the supplier; and
+  (b) specified in the determination.
+
+### 23 Section 52P determination to set out price-quality path requirements
+(1) A section 52P determination relating to price-quality regulation must specify the price-quality paths that apply to each regulated supplier to which the determination applies.
+(2) A price-quality path must specify the following:
+  (a) the regulatory period to which it applies (including specifying whether the period is common to all regulated suppliers or specific to 1 or more suppliers):
+  (b) in relation to prices, 1 or more of the following:
+    (i) the maximum price or prices that a regulated supplier may charge:
+    (ii) the minimum price or prices that a regulated supplier may charge:
+    (iii) the maximum revenues that a regulated supplier may recover:
+    (iv) the minimum revenues that a regulated supplier may recover:
+  (c) the quality standards that a regulated supplier must meet:
+  (d) the date or dates on which the price-quality path (or any part of it) takes effect:
+  (e) the date or dates by which compliance must be demonstrated.
+(3) A price-quality path may include circumstances in which the path may be reconsidered during a regulatory period.
+(4) In specifying a price-quality path, the Commission may have regard to the scale, complexity, and risk profile of each regulated supplier (or a class of regulated suppliers), or the type of water services being provided by each supplier (or class of supplier), in respect of which it will apply, for example, by doing any 1 or more of the following:
+  (a) undertaking a greater or lesser degree of scrutiny of a supplier (or class of suppliers) with respect to historical and forecast prices, expenditure, performance, and quality of supply:
+  (b) setting higher or lower maximum prices or revenues:
+  (c) setting higher or lower minimum prices or revenues:
+  (d) setting quality standards or performance requirements at a more or less onerous level.
+(5) A price-quality path may include—
+  (a) incentives for a regulated supplier to maintain or improve its quality of supply, and those incentives may include (without limitation) any of the following:
+    (i) penalties by way of a reduction in the supplier’s maximum prices or revenues based on whether, or by what amount, the supplier fails to meet the required quality standards or any performance requirements:
+    (ii) rewards by way of an increase in the supplier’s maximum prices or revenues based on whether, or by what amount, the supplier meets or exceeds the required quality standards or any performance requirements:
+    (iii) compensation schemes that set minimum standards of performance and require the supplier to pay prescribed amounts of compensation to consumers if it fails to meet those standards:
+    (iv) the use of schemes that rate or rank various aspects of the supplier’s performance in meeting the required quality standards or any performance requirements; and
+  (b) performance requirements, including any of the following:
+    (i) requirements to adopt a particular approach to risk management:
+    (ii) requirements in relation to the condition of assets and remaining asset life:
+    (iii) requirements to make particular types of investment:
+    (iv) requirements to provide information about any investments planned for a particular period:
+    (v) requirements to deliver particular outputs:
+    (vi) requirements to consult the Commission about certain kinds of investments and investment decisions:
+    (vii) requirements to adopt asset management policies and practices:
+    (viii) reporting requirements, including—
+      (A) to whom reports must be made; and
+      (B) the timing of reports; and
+      (C) special reporting requirements in asset management plans, if the regulated supplier fails to meet the quality standards or other performance requirements; and
+      (D) any other matters relating to reporting, including requirements for additional information:
+    (ix) requirements that any disclosed information, or any information from which disclosed information is derived, be verified by statutory declaration or certified (in the form specified by the Commission) as true and accurate:
+    (x) requirements to undertake cost-benefit analysis before specified projects are begun:
+    (xi) requirements relating to consultation and engagement with consumers:
+    (xii) requirements based on comparative benchmarking of efficiency.
+(6) A regulatory period must be at least 3 years but not more than 6 years.
+
+### 24 Other matters relating to price-quality paths
+(1) Quality standards and performance requirements may be prescribed in any way the Commission considers appropriate (such as targets, bands, formulas, or timetables for responsiveness to consumers).
+(2) A price-quality path does not apply to a regulated supplier until the date specified in the relevant section 52P determination.
+
+### 25 Wash-up mechanism for revenues specified in price-quality paths
+(1) This clause applies when the Commission specifies, in the price-quality paths for a regulatory period, the maximum or minimum revenues that a regulated supplier may recover.
+(2) The Commission may, in calculating the maximum or minimum revenues, apply a wash-up mechanism that provides for any over-recovery or under-recovery of revenue by the regulated supplier during the previous regulatory period (if applicable) to be applied in a manner that is equivalent in present-value terms (as calculated in the manner that the Commission thinks fit) over 1 or more future regulatory periods.
+(3) The reference to previous regulatory period in subclause (2) includes any period that applied under the Watercare charter made under Part 4 of the Local Government (Water Services Preliminary Arrangements) Act 2024.
+
+### 26 Smoothing revenues and prices
+(1) This clause applies when the Commission specifies maximum or minimum prices or maximum or minimum revenues for the purposes of clause 23(2)﻿(b).
+(2) The Commission may calculate the maximum or minimum price or revenue in a manner that is equivalent in present-value terms (as calculated in the manner that the Commission thinks fit) over 2 or more regulatory periods (for example, by altering depreciation) if, in the Commission’s opinion, it is necessary or desirable to do so for either or both of the following reasons:
+  (a) to provide for the ability of a regulated supplier to obtain finance:
+  (b) to minimise price shocks to consumers.
+
+### 27 Reopening price-quality path if input methodology changes as result of appeal
+(1) The Commission must reopen a price-quality path, and make a new price-quality path by amending the relevant section 52P determination in accordance with section 52Q, if—
+  (a) an input methodology changes as a result of an appeal under section 52Z; and
+  (b) had the changed input methodology applied at the time the price-quality path was set, it would have resulted in a materially different path being set.
+(2) When making a new price-quality path under subclause (1), the Commission must apply claw-back.
+
+### 28 No other reopening of price-quality path
+Except as provided in clause 27, the Commission must not reopen a price-quality path within a regulatory period on the grounds that an input methodology is made or changes.
+
+### Part 7 — Additional matters for input methodologies
+
+### 29 When Commission must or may determine input methodologies
+(1) The Commission—
+  (a) must determine input methodologies in respect of information disclosure regulation and price-quality regulation (in accordance with clause 32 in the case of initial input methodologies); and
+  (b) may determine input methodologies in respect of quality regulation.
+(2) Subclause (1)﻿(a) does not limit section 57P (which provides an exception for periods before the relevant date).
+
+### 30 How input methodologies apply
+(1) An input methodology relating to the supply of water services must be applied—
+  (a) by each relevant regulated supplier in accordance with the relevant section 52P determination; and
+  (b) in relation to an input methodology that is not specified in a section 52P determination (see clause 31(5)), by each supplier to which the relevant input methodology applies; and
+  (c) by the Commission in recommending, deciding, or determining—
+    (i) how regulation under Part 4 of this Act should apply to water services; or
+    (ii) the prices or quality standards applying to water services.
+(2) However, subclause (1)﻿(c) does not apply to a section 52P determination for information disclosure regulation or price-quality regulation if the determination is made before the initial input methodology has been determined for that regulation in accordance with clause 32.
+(3) This clause applies instead of section 52S in relation to supplying water services.
+
+### 31 Additional matters covered by input methodologies
+(1) In addition to the matters set out in section 52T(1), the input methodologies relating to water services must include, to the extent applicable to the type of regulation under consideration, methodologies for capital expenditure proposals, including the following:
+  (a) requirements that the regulated suppliers must meet, including the scope and specificity of information required, the extent of independent verification, assurance, and audit, and the extent of consultation and agreement with other parties; and
+  (b) the criteria the Commission will use to evaluate capital expenditure proposals; and
+  (c) time frames and processes for evaluating capital expenditure proposals, including what happens if the Commission does not comply with those time frames.
+(2) Section 52T(2)﻿(a) applies to the additional matters in subclause (1).
+(3) In determining an input methodology, the Commission may have regard to the scale, complexity, and risk profile of each regulated supplier (or a class of regulated supplier), or the type of water services being provided by each supplier (or class of supplier), in respect of which the methodology will apply (for example, by specifying the matters referred to in section 52T(1) and subclause (1) in a greater or lesser level of detail).
+(4) An input methodology may relate to all regulated suppliers or to a class of regulated suppliers or to 1 or more regulated suppliers.
+(5) If the Commission determines an input methodology that is not specified in a section 52P determination, the Commission must ensure that the input methodology—
+  (a) states clearly that it is an input methodology of the sort referred to in clause 30(1)﻿(b); and
+  (b) specifies the suppliers to which it applies; and
+  (c) specifies the water services in respect of which it applies; and
+  (d) sets out any time frames that must be complied with or that apply; and
+  (e) is consistent with Part 4 of this Act.
+(6) Section 52T(3) does not apply to water services.
+
+### 32 Timing of initial input methodologies for information disclosure and price-quality regulation
+(1) The Commission must determine initial input methodologies relating to information disclosure regulation under subpart 12 of Part 4 of this Act before the relevant date.
+(2) If 1 or more suppliers become subject to price-quality regulation under subpart 12 of Part 4 of this Act before the tenth anniversary of the commencement of this clause, the Commission must determine initial input methodologies relating to that regulation before the relevant date.
+(3) In this clause, relevant date means—
+  (a) the tenth anniversary of the commencement of this clause:
+  (b) an earlier or a later date specified in the Gazette under subclause (4).
+(4) The following apply for the purposes of subclause (3)﻿(b):
+  (a) the Minister may specify a date by notice in the Gazette if the Commission agrees to the date:
+  (b) the Minister and the Commission may agree to different dates for different types of regulation and for different regulated suppliers or groups of regulated suppliers.
+(5) Clause 29(1)﻿(a) is subject to this clause.
+
+### 33 Commission may determine initial input methodologies relating to quality regulation after other methodologies
+The Commission may, in respect of a regulated supplier (or a class of regulated suppliers), determine initial input methodologies relating to quality regulation of water services, at any time after the initial input methodologies relating to information disclosure regulation or price-quality regulation of that supplier (or those suppliers) are determined under clause 32.
+
+### 34 Commission may seek court order for contravention of input methodology set outside of determination
+Sections 87 to 87C apply to a regulated supplier in respect of a contravention of an input methodology of the sort referred to in clause 30(1)﻿(b) as if it were a contravention of a type of regulation under Part 4 of this Act that is referred to in those sections.
+
+### Part 8 — Miscellaneous
+
+### 35 Consultation on section 52P determination
+(1) The Commission must consult interested parties before making a section 52P determination relating to water services.
+(2) However, section 52Q applies to an amendment of a section 52P determination relating to water services (in particular, the determination may be amended in a non-material way without prior consultation).
+
+### 36 Monitoring compliance with certain requirements
+(1) Subclause (2) applies for the purpose of monitoring compliance with any requirement imposed by this schedule or by a section 52P determination made for the purposes of subpart 12 of Part 4 of this Act.
+(2) The Commission may, in addition to exercising its powers under section 98, issue a written notice to a regulated supplier requiring it to provide any or all of the following:
+  (a) a written statement as to whether the supplier has complied with the requirement:
+  (b) a report on the written statement that is signed by a person that the Commission considers to be a suitably qualified and experienced independent expert in accordance with any form specified by the Commission:
+  (c) sufficient information to enable the Commission to properly determine whether all applicable requirements have been complied with:
+  (d) a certificate, in the form specified by the Commission and signed by at least 1 board member of the supplier, or, if there is no board, the person who operates the supplier, confirming the truth and accuracy of any information provided under this clause.
+(3) Subclause (4) applies for the purpose of monitoring a regulated supplier’s performance against a revenue threshold.
+(4) The Commission may, in addition to exercising its powers under section 98, issue a written notice to a regulated supplier requiring it to provide a written statement as to whether the supplier has recovered revenues in accordance with a revenue threshold (and, if not, a statement of reasons why it has not recovered revenues within the threshold).
+(5) The supplier must comply with a notice issued under subclause (2) or (4) within the time frame, and in the manner, specified in the notice.
+
+### 37 Information sharing with regulatory agencies in relation to water services
+(1) The Commission may provide a regulatory agency with any information, or a copy of any document, that it—
+  (a) holds in relation to performing or exercising its functions, duties, or powers under this Act; and
+  (b) considers may assist the regulatory agency in performing or exercising the regulatory agency’s functions, duties, or powers in relation to water services.
+(2) A regulatory agency may provide the Commission with any information, or a copy of any document, that it—
+  (a) holds in relation to performing or exercising its functions, duties, or powers under or in relation to any legislation; and
+  (b) considers may assist the Commission in performing or exercising its functions, duties, or powers under this Act in relation to water services.
+(3) If subclause (1) or (2) applies, the Commission or the regulatory agency (as the case may be) may impose conditions that it thinks fit relating to providing the information or document, including conditions relating to—
+  (a) the storage and use of, or access to, anything provided:
+  (b) the copying, returning, or disposing of copies of any documents provided.
+(4) This clause applies—
+  (a) despite anything to the contrary in any contract, deed, or document; but
+  (b) subject to any legislation.
+(5) In this clause, regulatory agency means any of the following:
+  (a) the Water Services Authority—Taumata Arowai:
+  (b) the Department of Internal Affairs, including any statutory officer who carries out work for that Department:
+  (c) the Ministry for the Environment, including any statutory officer who carries out work for that Ministry:
+  (d) the Ministry of Business, Innovation, and Employment, including any statutory officer who carries out work for that Ministry:
+  (e) the Auditor-General:
+  (f) a regional council or a unitary authority (within the meaning of section 5 of the Local Government Act 2002).
+
+### 38 Commission may use or respond to information
+(1) In performing its functions under this Act in relation to water services, the Commission may do any of the following:
+  (a) consider, summarise, analyse, or use any information that it considers relevant:
+  (b) provide information to the public about any of its activities under paragraph (a):
+  (c) make comments on any information provided publicly by regulated suppliers or the Water Services Authority—Taumata Arowai under any legislation dealing with water services.
+(2) This clause does not limit other powers in this or any other Act.
