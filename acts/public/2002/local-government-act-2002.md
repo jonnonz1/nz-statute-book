@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-08-27_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -49,6 +49,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **community board** means a community board established under section 49
   - **community facilities** has the meaning set out in section 197(2)
   - **community outcomes** means the outcomes that a local authority aims to achieve in order to promote the social, economic, environmental, and cultural well-being of its district or region in the present and for the future
+  - **consumer trust** has the meaning set out in section 4 of the Local Government (Water Services) Act 2025
   - **council-controlled organisation** has the meaning set out in section 6
   - **council-controlled trading organisation** has the meaning set out in section 6
   - **council organisation** has the meaning set out in section 6
@@ -143,6 +144,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
     (a) the provisions of any Act; or
     (b) an Order in Council giving effect to a reorganisation plan
   - **wastewater** has the meaning given to wastewater services in section 124
+  - **water organisation** has the meaning set out in section 4 of the Local Government (Water Services) Act 2025
   - **water race** means the land occupied by a water channel (other than a main river)—
     (a) constructed—
       (i) by or under the authority of a local authority:
@@ -155,6 +157,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
       (ii) an alteration, extension, or widening of a water race or branch water race, whether done by the local authority or by any person with the approval of the local authority; and
       (iii) a flood or other bank, or a dam, sluice, flume, bridge, gauge, meter, reservoir, or other waterworks relating to, or forming part of, a water race; and
       (iv) buildings and machinery, pipes, and other materials on the land and within the limits of a water race or relating to, or used in connection with, a water race
+  - **water service provider** has the same meaning as in section 4 of the Local Government (Water Services) Act 2025
   - **waterworks** , in relation to the provision of water supply, includes—
     (a) rivers, streams, lakes, waters, and underground waters, and rights relating to these; and
     (b) land, watershed, catchment, and water collection areas; and
@@ -180,17 +183,22 @@ In order to recognise and respect the Crown's responsibility to take appropriate
 [Repealed]
 
 ### 6 Meaning of council-controlled organisation and council organisation
+(1AAA) In this Act, unless the context otherwise requires, council-controlled organisation means a council organisation that is—
+  (a) a company—
+    (i) in which equity securities carrying 50% or more of the voting rights at a meeting of the shareholders of the company are—
+      (A) held by 1 or more local authorities; or
+      (B) controlled, directly or indirectly, by 1 or more local authorities; or
+    (ii) in which 1 or more local authorities have the right, directly or indirectly, to appoint 50% or more of the directors of the company; or
+  (b) an entity in respect of which 1 or more local authorities have, whether or not jointly with other local authorities or persons,—
+    (i) control, directly or indirectly, of 50% or more of the votes at any meeting of the members or controlling body of the entity; or
+    (ii) the right, directly or indirectly, to appoint 50% or more of the trustees, directors, or managers (however described) of the entity.
+(1AAB) In addition, council-controlled organisation includes a water organisation within the meaning of section 4 of the Local Government (Water Services) Act 2025 if—
+  (a) the organisation is owned by 1 or more local authorities; or
+  (b) the organisation is owned by 1 or more local authorities (and those local authorities hold 50% or more of the shares and voting rights in the organisation) and the trustees of 1 or more consumer trusts.
 (1) In this Act, unless the context otherwise requires,—
-  - **council-controlled organisation** means a council organisation that is—
-    (a) a company—
-      (i) in which equity securities carrying 50% or more of the voting rights at a meeting of the shareholders of the company are—
-        (A) held by 1 or more local authorities; or
-        (B) controlled, directly or indirectly, by 1 or more local authorities; or
-      (ii) in which 1 or more local authorities have the right, directly or indirectly, to appoint 50% or more of the directors of the company; or
-    (b) an entity in respect of which 1 or more local authorities have, whether or not jointly with other local authorities or persons,—
-      (i) control, directly or indirectly, of 50% or more of the votes at any meeting of the members or controlling body of the entity; or
-      (ii) the right, directly or indirectly, to appoint 50% or more of the trustees, directors, or managers (however described) of the entity
-  - **council-controlled trading organisation** means a council-controlled organisation that operates a trading undertaking for the purpose of making a profit
+  - **council-controlled trading organisation** —
+    (a) means a council-controlled organisation that operates a trading undertaking for the purpose of making a profit; but
+    (b) excludes a water organisation within the meaning of section 4 of the Local Government (Water Services) Act 2025
   - **council organisation** means—
     (a) a company—
       (i) in which equity securities carrying voting rights at a meeting of the shareholders of the company are—
@@ -747,12 +755,13 @@ This Part—
 **Governance and management**
 
 ### 39 Governance principles
-A local authority must act in accordance with the following principles in relation to its governance:
+(1) A local authority must act in accordance with the following principles in relation to its governance:
   (a) a local authority should ensure that the role of democratic governance of the community, and the expected conduct of elected members, is clear and understood by elected members and the community; and
   (b) a local authority should ensure that the governance structures and processes are effective, open, and transparent; and
   (c) a local authority should ensure that, so far as is practicable, responsibility and processes for decision-making in relation to regulatory responsibilities is separated from responsibility and processes for decision-making for non-regulatory responsibilities; and
   (d) a local authority should be a good employer; and
   (e) a local authority should ensure that the relationship between elected members and management of the local authority is effective and understood.
+(2) In subsection (1)﻿(d), good employer has the same meaning as in clause 36 of Schedule 7.
 
 ### 40 Local governance statements
 (1) A local authority must prepare and make publicly available, following the triennial general election of members, a local governance statement that includes information on—
@@ -1428,6 +1437,12 @@ Nothing in this Act requires the inclusion in any statement of intent, annual re
   - **controlling companies** means 2 or more companies whose degree of control over a council-controlled organisation, if exercisable by one notional company, would make the notional company a holding company of the council-controlled organisation
   - **holding company** has the same meaning as in section 5 of the Companies Act 1993.
 
+### 71B Application of Part to water organisations
+(1) This section applies to a council-controlled organisation that is a water organisation (see section 6(1AAB)) and to its shareholders.
+(2) The board and shareholders of the water organisation—
+  (a) must comply with Part 4 of the Local Government (Water Services) Act 2025; but
+  (b) must not comply with sections 64 to 69 and Schedule 8 of this Act.
+
 ### 72 Application of Act to related companies
 Sections 57 to 71 apply to a company as if it were a council-controlled organisation if the company is a related company (within the meaning of section 2(3) and (4) of the Companies Act 1993) of a council-controlled organisation.
 
@@ -1476,6 +1491,11 @@ This Part—
 (5) When adopting or amending a policy under this section, the local authority must consult in accordance with section 82 unless it considers on reasonable grounds that it has sufficient information about community interests and preferences to enable the purpose of the policy to be achieved.
 (5A)
 (6) To avoid doubt, section 80 applies when a local authority deviates from this policy.
+Water services
+(7) Consultation under subsection (5) is not required to amend a policy to the extent that the amendment is made when a territorial authority—
+  (a) has established a water organisation under the Local Government (Water Services) Act 2025; and
+  (b) is working with that organisation in relation to the organisation’s significance and engagement policy under section 37(4) of that Act.
+(8) This section applies subject to sections 34 and 37(4) of that Act.
 
 **Decision-making**
 
@@ -1516,6 +1536,8 @@ This Part—
   (c) the extent to which the nature of a decision, or the circumstances in which a decision is taken, allow the local authority scope and opportunity to consider a range of options or the views and preferences of other persons.
 (3) The nature and circumstances of a decision referred to in subsection (2)﻿(c) include the extent to which the requirements for such decision-making are prescribed in or under any other enactment (for example, the Resource Management Act 1991).
 (4) Subsection (3) is for the avoidance of doubt.
+Water services
+(5) In subsection (1)﻿(a), the reference to section 77 must be read as a reference to section 30 of the Local Government (Water Services) Act 2025 if the identification and assessment of options relates to a change proposal under section 27 of that Act.
 
 ### 80 Identification of inconsistent decisions
 (1) If a decision of a local authority is significantly inconsistent with, or is anticipated to have consequences that will be significantly inconsistent with, any policy adopted by the local authority or any plan required by this Act or any other enactment, the local authority must, when making the decision, clearly identify—
@@ -1677,6 +1699,12 @@ A summary of the information contained in a statement of proposal must—
   (b) the significance of any matter; and
   (c) the extent of the local authority's resources.
 (10) A local authority must, within 1 month after the adoption of its long-term plan, make the plan publicly available.
+(11) However, this section—
+  (a) does not apply to information relating to water services if the information is included in a water services strategy adopted under section 230 of the Local Government (Water Services) Act 2025; but
+  (b) despite paragraph (a), applies to information described in paragraph (a) that relates to—
+    (i) an infrastructure strategy (see section 101B(5A)); or
+    (ii) a revenue and financing policy (see section 103); or
+    (iii) a funding impact statement (see clause 15 of Schedule 10).
 
 ### 93A Use of special consultative procedure in relation to long-term plan
 (1) Where the special consultative procedure is used in relation to the adoption or amendment of a long-term plan under section 93—
@@ -1794,6 +1822,9 @@ Before adopting a consultation document under section 93A, the local authority m
   (c) include the information required by Part 2 of Schedule 10.
 (6A) Except where subsection (5) requires otherwise, the local authority must comply with subsection (6)﻿(b) and (c) by means of reference to, rather than duplication of, the long-term plan.
 (7) A local authority must, within 1 month after the adoption of its annual plan, make the plan publicly available.
+(8) However, this section—
+  (a) does not apply to information relating to water services if the information is included in a water services annual budget adopted under section 240 of the Local Government (Water Services) Act 2025; but
+  (b) despite paragraph (a), applies to information described in paragraph (a) that relates to a funding impact statement (see clause 20 of Schedule 10).
 
 ### 95AAA 2023/2024 annual plan due date
 [Repealed]
@@ -1844,7 +1875,9 @@ If a local authority carries out consultation in relation to an amendment to a l
 (3) Nothing in this section applies to a decision of a local authority—
   (a) to adopt a local authority-led reorganisation plan under clause 22A of Schedule 3 or clause 15 of Schedule 3A; or
   (b) that is required in order to implement a reorganisation in accordance with an Order in Council under section 25 or 25A; or
-  (c) to fund a capital project by lump sum contributions, if the local authority has complied with section 117B(3)﻿(c)﻿(i) of the Local Government (Rating) Act 2002.
+  (c) to fund a capital project by lump sum contributions, if the local authority has complied with section 117B(3)﻿(c)﻿(i) of the Local Government (Rating) Act 2002; or
+  (d) relating to a strategic water services asset or level of service for a water service under the Local Government (Water Services) Act 2025; or
+  (e) relating to a water services delivery plan under the Local Government (Water Services Preliminary Arrangements) Act 2024.
 
 ### Subpart 2 — Reporting
 
@@ -1859,6 +1892,7 @@ If a local authority carries out consultation in relation to an amendment to a l
   (b) a summary of the information contained in its annual report.
 (5) The summary must represent, fairly and consistently, the information regarding the major matters dealt with in the annual report.
 (6) A local authority must, within 1 month after the adoption of its annual report, make the report and the summary prepared under subsection (4)﻿(b) publicly available.
+(7) However, if a local authority is a water service provider under the Local Government (Water Services) Act 2025, this section is subject to section 245 of that Act.
 (7)
 (8)
 
@@ -1948,14 +1982,18 @@ If a local authority carries out consultation in relation to an amendment to a l
     (ii) include an outline of the potential effects of that uncertainty.
 (4A)
 (5) A local authority may meet the requirements of section 101A and this section by adopting a single financial and infrastructure strategy document as part of its long-term plan.
+(5A) Despite subsection (6)﻿(b), an infrastructure strategy—
+  (a) may include information on water services infrastructure under the Local Government (Water Services) Act 2025 if that information is part of, or desirable to support, an integrated approach to infrastructure planning in the local authority’s district; but
+  (b) must not include the detailed information on water services infrastructure that is required to be included in a water services strategy adopted by a water service provider under section 230 of the Local Government (Water Services) Act 2025.
+(5B) In subsections (5A) and (6), water service provider and water services infrastructure have the same meanings as in section 4 of the Local Government (Water Services) Act 2025.
 (6) In this section, infrastructure assets includes—
   (a) existing or proposed assets to be used to provide services by or on behalf of the local authority in relation to the following groups of activities:
-    (i) water supply:
-    (ii) sewerage and the treatment and disposal of sewage:
-    (iii) stormwater drainage:
+    (i)
+    (ii)
+    (iii)
     (iv) flood protection and control works:
     (v) the provision of roads and footpaths; and
-  (b) any other assets that the local authority, in its discretion, wishes to include in the strategy.
+  (b) any other assets that the local authority, in its discretion, wishes to include in the strategy, other than water services infrastructure that relates to providing water services under the Local Government (Water Services) Act 2025.
 
 ### 102 Funding and financial policies
 (1) A local authority must, in order to provide predictability and certainty about sources and levels of funding, adopt the funding and financial policies listed in subsection (2).
@@ -2048,6 +2086,7 @@ A policy adopted under section 102(1) must state the local authority's policies 
   (a) the principal public office of the local authority; and
   (b) such other places within its district or region as the local authority considers necessary in order to provide members of the public with reasonable access to the methodology, provisions, or plan.
 (6) A policy adopted under section 102(1) must be reviewed at least once every 3 years using a consultation process that gives effect to the requirements of section 82.
+(6A) A territorial authority may extend its policy adopted under section 102(1) to a water organisation under section 128 of the Local Government (Water Services) Act 2025.
 (7) In this section,—
   - **capital expenditure** includes any funding provided by a responsible levy authority to contribute to the construction costs of eligible infrastructure that has been, or is intended to be, transferred to the authority under section 90 of the Infrastructure Funding and Financing Act 2020
   - **PPI** means the Producers Price Index Outputs for Construction provided by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
@@ -2193,124 +2232,39 @@ Nothing in sections 117 to 119 affects the ability of any person to obtain any r
 
 ### 123 Outline of Part
 This Part contains provisions that set out specific obligations and restrictions on local authorities and other persons as follows:
-  (a) the obligation to assess water and sanitary services and the purpose of those assessments:
-  (b) the obligations and restrictions on local authorities and other persons in relation to the delivery of water services:
+  (a) the obligation to assess certain sanitary services and the purpose of that assessment:
+  (b)
   (c) specific restrictions on disposal of parks, reserves, and endowment properties, including provision for the protection of parks and reserves from disposal:
   (d) a requirement that, if a public library is provided, the residents of the district must be entitled to free membership.
 
-### Subpart 1 — Specific obligations to make assessments of drinking water, wastewater, and sanitary services and to ensure communities have access to safe drinking water
+### Subpart 1 — Specific obligation to assess certain sanitary services
 
 ### 124 Interpretation
-In this Part,—
-  - **assessment** ,—
-    (a) in relation to drinking water,—
-      (i) means an assessment of drinking water services available to communities in the district of the territorial authority, including private and community-owned or community-operated drinking water supplies; but
-      (ii) does not include assessments in relation to domestic self-suppliers; and
-    (b) in relation to wastewater and other sanitary services,—
-      (i) means an assessment of wastewater services and other sanitary services available to communities in the district of the territorial authority; but
-      (ii) does not include assessments in relation to individual properties
-  - **Auckland** has the meaning set out in section 4(1) of the Local Government (Auckland Council) Act 2009
-  - **domestic self-supplier** has the meaning given in section 10 of the Water Services Act 2021
-  - **drinking water** has the meaning given in section 6 of the Water Services Act 2021
-  - **drinking water services** means the supply of drinking water to communities to the point of supply of each dwelling house and commercial premise to which drinking water is supplied
-  - **local government organisation** means a local authority, council-controlled organisation, or subsidiary of a council-controlled organisation, that provides water services
-  - **point of supply** has the meaning given in section 13 of the Water Services Act 2021
-  - **sanitary services** has the same meaning as sanitary works in section 25(1)﻿(a), (b), (d), (h), and (i) of the Health Act 1956
-  - **sufficient quantity** , in relation to the drinking water supplied to a point of supply, has the meaning given in section 25 of the Water Services Act 2021
-  - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established under section 8 of the Taumata Arowai–the Water Services Regulator Act 2020
-  - **wastewater services** means sewerage, treatment and disposal of sewage, and stormwater drainage
-  - **Watercare** means Watercare Services Limited, and includes any subsidiary of Watercare Services Limited.
+[Repealed]
 
 ### 125 Requirement to assess drinking water services
-(1) A territorial authority must inform itself about the access that each community in its district has to drinking water services by undertaking an assessment of drinking water services in accordance with this section.
-(2) An assessment of drinking water services must—
-  (a) identify each community that receives a drinking water service; and
-  (b) describe the nature of existing drinking water services to the community; and
-  (c) describe the characteristics of the community; and
-  (d) assess the extent to which the community is currently receiving, and will continue to receive, a sufficient quantity of drinking water, including a consideration of—
-    (i) the community’s existing access to drinking water services; and
-    (ii) any reasonably foreseeable risks to the community’s access to drinking water services in the future; and
-    (iii) the current and estimated future demands for drinking water services within the community; and
-  (e) describe the safety and quality of drinking water currently being supplied to the community, using information collected and made available by Taumata Arowai and any other organisations that the territorial authority considers relevant; and
-  (f) identify and assess any other public health risks relating to the drinking water services supplied to the community; and
-  (g) include an assessment of wastewater and sanitary services in accordance with section 128; and
-  (h) based on the assessment under paragraphs (b) to (g),—
-    (i) assess the consequences if the community loses access to drinking water services in the future, or is provided with drinking water services that are deficient in any way, including the implications for that community’s public health; and
-    (ii) outline a plan to provide for the community’s ongoing access to drinking water services.
-(3) A territorial authority must conduct an assessment of drinking water services under subsection (2)—
-  (a) at least once every 3 years, which may be carried out when other assessments are carried out or at different times; or
-  (b) at an earlier date than required by paragraph (a), if the territorial authority is made aware of concerns about the access that a community has to drinking water services.
-(4) A territorial authority must provide opportunities for any person to alert the territorial authority at any time to concerns about a community’s access to drinking water services.
-(5) For the purposes of this section,—
-  (a) references to assessments include—
-    (i) assessing a service for the first time; and
-    (ii) reviewing and updating an existing assessment:
-  (b) the scope of each assessment must include—
-    (i) communities that receive drinking water services from the territorial authority or other local government organisation; and
-    (ii) communities that do not receive drinking water services from the territorial authority or other local government organisation; and
-    (iii) all types of water supply arrangements, including communities (and households within those communities) that do not receive drinking water services supplied by network reticulation:
-  (c) territorial authorities need not consider within an assessment drinking water services that are owned or operated by the Crown:
-  (d) an assessment may be carried out by the territorial authority, or undertaken on its behalf (whether in whole or in part) by another appropriate organisation, including an iwi or Māori organisation.
+[Repealed]
 
 ### 126 Requirements following assessment of community drinking water service
-(1) On completion of an assessment of a community drinking water service, a territorial authority must—
-  (a) make the assessment available to the public on an Internet site maintained by or on behalf of the territorial authority; and
-  (b) provide Taumata Arowai with a copy of the assessment in electronic form.
-(2) A territorial authority must also notify Taumata Arowai about—
-  (a) any suppliers of drinking water services that are, or appear to be, failing to meet the supplier’s statutory obligations or are at risk of doing so; and
-  (b) any other matters of concern arising from the assessment, including potential risks to communities affected by the assessment that relate to—
-    (i) any absence of, or deficiency in, a drinking water service; or
-    (ii) a drinking water supplier that is at risk of ceasing to provide a service.
-(3) A territorial authority must also consider the findings and implications of the assessment in relation to—
-  (a) the territorial authority’s current and future infrastructure strategy and long-term plan; and
-  (b) the territorial authority’s district plan prepared under the Resource Management Act 1991; and
-  (c) the territorial authority’s broader duty to improve, promote, and protect public health within its district in accordance with section 23 of the Health Act 1956.
+[Repealed]
 
 ### 127 Duty to ensure communities have access to drinking water if existing suppliers facing significant problems
-(1) Subsection (2) applies if—
-  (a) a territorial authority’s or Taumata Arowai’s assessment of a drinking water supply is that the supplier (not being the territorial authority) is facing a significant problem or potential problem with any of its drinking water services, and the territorial authority has notified Taumata Arowai of those concerns and discussed them with Taumata Arowai; or
-  (b) Taumata Arowai requires the territorial authority to take action under subsection (2).
-(2) If this subsection applies, a territorial authority must—
-  (a) work collaboratively with the supplier, the consumers of the supply, and Taumata Arowai to identify, as the circumstances allow and within a time frame determined by Taumata Arowai, 1 or more of the following:
-    (i) an immediate solution to the problem:
-    (ii) a temporary solution to the problem:
-    (iii) a long-term, permanent solution to the problem; and
-  (b) ensure that drinking water is provided to the affected consumers, on a temporary or permanent basis, if—
-    (i) the supplier is unable to continue to provide a service that meets the statutory requirements; and
-    (ii) an alternative solution is not readily available, or cannot be agreed by the parties involved within the time frame determined by Taumata Arowai.
-(3) For the purposes of this section,—
-  (a) a significant problem or potential problem includes where—
-    (i) a drinking water supplier has persistently failed to comply with legislative requirements; or
-    (ii) there is a serious risk to public health relating to the drinking water services provided by a drinking water supplier; or
-    (iii) a drinking water supplier has ceased to operate a drinking water service, or is, in Taumata Arowai’s opinion, at significant risk of ceasing to operate a service:
-  (aa) a territorial authority (despite the definition of that term in section 5(1)) includes Watercare:
-  (b) if a territorial authority is obliged to ensure access to drinking water, the territorial authority may consider a range of options to fulfil its obligation, including—
-    (i) taking over the management and operations of the drinking water service, on a temporary or permanent basis:
-    (ii) ensuring drinking water continues to be provided through alternative supply arrangements:
-  (c) nothing in paragraph (b) obliges a territorial authority to provide the supply via a reticulated network:
-  (d) if a territorial authority takes over the management and operations of a drinking water service on a permanent basis, the territorial authority, Taumata Arowai, the former supplier, and (if relevant) the affected consumers must work together to determine how to deal with—
-    (i) any assets and liabilities that may relate to the service; and
-    (ii) any legal or other issues that may affect the territorial authority’s ability to manage and operate the service, such as access to the land on, or beneath which, assets are situated; and
-    (iii) how the territorial authority might be compensated for the costs incurred in taking over responsibility for the service:
-  (e) a territorial authority may charge for any drinking water services that are provided to affected consumers, and may recover its costs from the previous supplier, but, when making decisions about future charges and funding arrangements, the territorial authority must—
-    (i) take reasonable steps to ascertain and consider the financial circumstances facing the affected consumers; and
-    (ii) consider the range of funding sources provided for in its revenue and financing policy, including the potential use of general rates; and
-    (iii) on request, demonstrate that it has considered those factors.
-(4) See also subpart 12 of Part 2 of the Water Services Act 2021 (statutory management and transfer of operations).
+[Repealed]
 
 ### 127 Information required in assessment of sanitary services
 [Repealed]
 
-### 128 Requirement to assess wastewater and other sanitary services
-(1) A territorial authority must assess the provision within its district of—
-  (a) wastewater services; and
-  (b) other sanitary services.
-(2) The purpose of an assessment under subsection (1) is to assess, from a public health perspective, the adequacy of wastewater services and other sanitary services available to communities within a territorial authority’s district, in light of—
+### 128 Requirement to assess certain sanitary services
+(1) A territorial authority must assess the provision of the following services within its district:
+  (a) public toilets:
+  (b) crematoria:
+  (c) cemeteries.
+(2) The purpose of an assessment is to assess, from a public health perspective, the adequacy of the services referred to in subsection (1) available to communities throughout the territorial authority’s district, taking into consideration—
   (a) the health risks to communities arising from any absence of, or deficiency in, the services; and
   (b) the quality of the services currently available to communities within the district; and
-  (c) the current and estimated future demands for any of those services; and
-  (d) the actual or potential consequences of stormwater and sewage discharges within the district.
-(3) One type of service may be assessed in conjunction with another type of service.
+  (c) the current and estimated future demands for any of those services.
+(3) One type of service may be assessed in conjunction with another.
+(4) An assessment may be undertaken on behalf of the territorial authority (whether in whole or in part) by another appropriate organisation.
 
 ### 128 Process for making assessments
 [Repealed]
@@ -2321,126 +2275,37 @@ In this Part,—
 ### Subpart 2 — Obligations and restrictions relating to provision of water services
 
 ### 130 Obligation to maintain water services: general
-(1) This subpart applies to a local government organisation that provides water services to communities within its district or region—
-  (a) at the commencement of this section:
-  (b) at any time after the commencement of this section.
-(2) A local government organisation to which this section applies must continue to provide water services and maintain its capacity to meet its obligations under this subpart.
-(3) In order to fulfil the obligations under this subpart, a local government organisation must—
-  (a) not use assets of its water services as security for any purpose:
-  (b) not divest its ownership or other interest in a water service except to another local government organisation:
-  (c) not lose control of, sell, or otherwise dispose of, the significant infrastructure necessary for providing water services in its region or district, unless, in doing so, it retains its capacity to meet its obligations:
-  (d) not, in relation to a property to which it supplies water,—
-    (i) restrict the water supply unless section 193 applies; or
-    (ii) stop the water supply unless section 25 of the Water Services Act 2021 applies.
-(4) This section—
-  (a) does not prevent a local government organisation from transferring a water service to another local government organisation; and
-  (b) does not override sections 131 to 137.
-(5) In this section, local government organisation has the meaning given in section 124, except it—
-  (a) includes Auckland Council only in relation to its provision of water services in Auckland that are not water supply and wastewater services; and
-  (b) excludes Watercare.
-(6) For the purpose of subsection (5)﻿(a), water supply and wastewater services has the same meaning as in section 4(1) of the Local Government (Auckland Council) Act 2009.
+[Repealed]
 
 ### 130A Obligation to maintain water services: Watercare
-(1) Watercare must continue to provide water services in Auckland and maintain its capacity to meet its obligations under this subpart.
-(2) In order to fulfil the obligations under this subpart, Watercare must—
-  (a) not use assets of its water services as security for any purpose:
-  (b) not divest its ownership or other interest in a water service:
-  (c) not lose control of, sell, or otherwise dispose of the significant infrastructure necessary for providing water services in Auckland, unless, in doing so, it retains its capacity to meet its obligations:
-  (d) not, in relation to a property to which it supplies water,—
-    (i) restrict the water supply unless section 193 applies; or
-    (ii) stop the water supply unless section 25 of the Water Services Act 2021 applies.
-(3) This section does not override sections 131 to 137.
-(4) In this section, water services has the meaning given to water supply and wastewater services in section 4(1) of the Local Government (Auckland Council) Act 2009.
+[Repealed]
 
 **Closure or transfer of small water services**
 
 ### 131 Power to close down or transfer small water services
-(1) Despite section 130(2), a local government organisation may, in relation to a water service that it is no longer appropriate to maintain,—
-  (a) close down the water service; or
-  (b) transfer the water service to an entity representative of the community for which the service is operated.
-(2) A local government organisation must not close down or transfer a water service unless—
-  (a) there are 200 or fewer persons to whom the water service is delivered and who are ordinarily resident in the district, region, or other subdivision; and
-  (b) it has consulted on the proposal with the Medical Officer of Health for the district or Taumata Arowai; and
-  (c) it has made publicly available in a balanced and timely manner—
-    (i) the views of the Medical Officer of Health or Taumata Arowai; and
-    (ii) the information it has received in the course of—
-      (A) undertaking a review, assessment, and comparison under section 134(a) and (b); or
-      (B) preparing a management plan and making assessments under section 135(a), (b), and (c); and
-  (d) the proposal is supported, in a binding referendum conducted under section 9 of the Local Electoral Act 2001 using the First Past the Post electoral system,—
-    (i) in the case of a proposal to close down a water service, by 75% or more of the votes cast in accordance with subsection (3); and
-    (ii) in the case of a proposal to transfer a water service, by more than 50% of the votes cast in accordance with section 132.
-(3) For the purpose of subsection (2)﻿(a), a certificate signed by the chief executive of the local government organisation as to the number of persons to whom the water service is delivered in the district, region, or other subdivision at any date is conclusive evidence of that number.
+[Repealed]
 
 ### 132 Eligibility to vote in referendum
-A person is eligible to vote in a referendum conducted under section 131(2)﻿(d) if the person is qualified as either—
-  (a) a residential elector under section 23 of the Local Electoral Act 2001 and the address in respect of which the person is registered as a parliamentary elector is a property serviced by the water service that is the subject of the referendum; or
-  (b) a ratepayer elector under section 24 of the Local Electoral Act 2001 and the property, for the purposes of section 24(1)﻿(a) or (b) of that Act, is a property serviced by the water service that is the subject of the referendum.
+[Repealed]
 
 ### 133 Responsibility for conduct of referendum
-(1) The territorial authority that is responsible for conducting a referendum under section 131(2)﻿(d) is the territorial authority in whose district the majority of persons eligible to vote in that referendum is on the roll of electors of that territorial authority.
-(2) The electoral officer of a territorial authority responsible for conducting a referendum under subsection (1) must prepare a special roll of the persons eligible to vote under section 132.
-(3) The provisions of the Local Electoral Act 2001 apply, with any necessary modifications, to the conduct of a referendum under section 131(2)﻿(d).
+[Repealed]
 
 ### 134 Criteria for closure of water service
-A local government organisation may only close down a water service under section 131(1)﻿(a) if it has first—
-  (a) reviewed the likely effect of the closure on—
-    (i) the public health of the community that would be affected by the closure; and
-    (ii) the environment in the district of that community; and
-  (b) assessed, in relation to each property that receives the water service, the likely capital cost and annual operating costs of providing an appropriate alternative service if the water service is closed down; and
-  (c) compared the quality and adequacy of the existing water service with the likely quality and adequacy of the alternative service referred to in paragraph (b).
+[Repealed]
 
 ### 135 Criteria for transfer of water service
-A local government organisation may only transfer a water service under section 131(1)﻿(b) if it has first—
-  (a) developed a draft management plan under which the entity representative of the community would maintain and operate the water service; and
-  (b) assessed the likely future capital and operating costs of the entity representative of the community to maintain and operate the water service; and
-  (c) assessed the ability of the entity representative of the community to maintain and operate the water service satisfactorily.
+[Repealed]
 
 **Contracting out of water services**
 
 ### 136 Contracts relating to provision of water services
-(1) Despite section 130(2), a local government organisation may enter into contracts for any aspect of the operation of all or part of a water service for a term not longer than 35 years.
-(2) If a local government organisation enters into a contract under subsection (1), it must—
-  (a) continue to be legally responsible for providing the water services; and
-  (b) retain control over the following matters:
-    (i) the pricing of water services; and
-    (ii) the development of policy related to the delivery of water services.
-(3) This section does not limit contracts in relation to water services that are entered into solely between local government organisations.
-(4) A contract entered into by a local government organisation is not a contract to which subsection (1) applies merely because the local government organisation agrees to any 1 or more of the following:
-  (a) to propose the use of a levy under the Infrastructure Funding and Financing Act 2020 to support the construction of eligible infrastructure:
-  (b) to carry out any aspect of the administration of a levy under that Act:
-  (c) the vesting of eligible infrastructure under that Act:
-  (d) to contribute to the construction costs of the eligible infrastructure.
+[Repealed]
 
 **Joint local government arrangements and joint arrangements with other entities**
 
 ### 137 Joint local government arrangements and joint arrangements with other entities
-(1) In this section,—
-  - **joint arrangement** means an arrangement entered into by 1 or more local government organisations with 1 or more bodies that are not local government organisations for the purpose of providing water services or any aspect of a water service
-  - **joint local government arrangement** means an arrangement entered into by 2 or more local government organisations for the purpose of providing water services or any aspect of a water service.
-(2) Section 130(2) does not prevent a local government organisation from entering into, for the purpose of providing water services,—
-  (a) a joint arrangement for a term not longer than 35 years (except a concession or other franchise agreement relating to the provision of the water services or any aspect of the water services):
-  (b) a joint local government arrangement for any term.
-(3) However, before a local government organisation enters into a joint arrangement or joint local government arrangement, it must,—
-  (a) in the case of a local government organisation that is a local authority, have undertaken consultation in accordance with the procedures set out in Part 6; and
-  (b) in the case of a local government organisation that is not a local authority, have undertaken consultation in accordance with the procedures set out in Part 6 as if it were a local authority.
-  (c)
-(4) If a local government organisation enters into a joint arrangement under subsection (2)﻿(a), it must—
-  (a) continue to be legally responsible for providing the water services; and
-  (b) retain control over the following matters:
-    (i) the pricing of water services; and
-    (ii) the development of policy related to water services; and
-  (c) after the end of the joint arrangement, retain ownership of all the infrastructure associated with the water service, whether or not the infrastructure was—
-    (i) provided by the local government organisation at the beginning of the joint arrangement; or
-    (ii) developed or purchased during the joint arrangement; and
-  (d) not sell or transfer ownership of any existing infrastructure associated with the water service, unless the local government organisation reasonably believes that the sale is—
-    (i) incidental to the joint arrangement; and
-    (ii) desirable for the success of the joint arrangement.
-(4A) An arrangement entered into by a local government organisation is not a joint arrangement or a joint local government arrangement to which this section applies merely because the arrangement includes doing any 1 or more of the following:
-  (a) proposing the use of a levy under the Infrastructure Funding and Financing Act 2020 to support the construction of eligible infrastructure:
-  (b) carrying out any aspect of the administration of a levy under that Act:
-  (c) the vesting of eligible infrastructure under that Act:
-  (d) contributing to the costs of the construction of the eligible infrastructure.
-(5) In this section, concession or other franchise agreement means an agreement under which a person other than the local government organisation is entitled to receive a payment from any person other than the local government organisation for the supply of the water service.
+[Repealed]
 
 ### Subpart 3 — Restrictions on disposal of parks, reserves, and endowment properties
 
@@ -2518,15 +2383,16 @@ If a local authority or a council-controlled organisation provides a library for
 ### Subpart 1 — Powers of local authorities to make bylaws
 
 ### 143 Outline of Part
-This Part provides the powers necessary for local authorities—
+(1) This Part provides the powers necessary for local authorities—
   (a) to make bylaws:
   (b) in relation to enforcement,—
     (i) to enforce all regulatory measures made under this Act, including bylaws and infringement offences; and
     (ii) to undertake, or contract out the administration of, those enforcement powers:
   (c) to undertake certain activities on, or in relation to, private land, including powers in relation to owners and occupiers, and powers to recover for damage to certain local authority property caused wilfully or negligently:
-  (d) to undertake activities in relation to water services, including discharge of sewage and trade wastes:
+  (d)
   (e) to require development contributions:
   (f) to apply for and enforce removal orders.
+(2) However, if a territorial authority is authorised to make a bylaw under the Local Government (Water Services) Act 2025, it must make the bylaw under that Act, and not under this Act.
 
 ### 144 Bylaws Act 1910
 The Bylaws Act 1910 prevails over this Part and Part 9.
@@ -2542,23 +2408,23 @@ A territorial authority may make bylaws for its district for 1 or more of the fo
 ### 146 Specific bylaw-making powers of territorial authorities
 (1) Without limiting section 145, a territorial authority may make bylaws for its district for the purposes—
   (a) of regulating 1 or more of the following:
-    (i) on-site wastewater disposal systems:
+    (i)
     (ii) waste management:
-    (iii) trade wastes:
+    (iii)
     (iv) solid wastes:
     (v) keeping of animals, bees, and poultry:
     (vi) trading in public places:
   (b) of managing, regulating against, or protecting from, damage, misuse, or loss, or for preventing the use of, the land, structures, or infrastructure associated with 1 or more of the following:
     (i) water races:
-    (ii) water supply:
-    (iii) wastewater, drainage, and sanitation:
+    (ii)
+    (iii)
     (iv) land drainage:
     (v) cemeteries:
     (vi) reserves, recreation grounds, or other land under the control of the territorial authority:
   (c)
-(2) If a territorial authority makes bylaws under section 145 or subsection (1) regulating a wastewater network, as defined in section 5 of the Water Services Act 2021, the bylaws must give effect to any wastewater environmental performance standards made under section 138 of that Act.
-(3) Subsection (2) applies to bylaws made on and after the commencement of section 211 of the Water Services Act 2021.
-(4) If a territorial authority makes bylaws under this Act or the Reserves Act 1977 relating to a stormwater network, the bylaws must give effect to any stormwater environmental performance standards made under section 139A of the Water Services Act 2021.
+(2)
+(3)
+(4)
 
 ### 147 Power to make bylaws for alcohol control purposes
 (1) In this section,—
@@ -2610,21 +2476,7 @@ Regulations under section 259 may do any or all of the following:
   (c) prescribe particular forms for particular kinds of sign required to be erected and maintained (including, without limitation, content, size, lettering, symbols, and colouring).
 
 ### 148 Special requirements for bylaws relating to trade wastes
-(1) Before making bylaws under section 146(a)﻿(iii), a territorial authority must send a copy of the proposed bylaws to the Minister of Health for his or her comments.
-(2) Before sending proposed bylaws to the Minister of Health under subsection (1), the territorial authority must, at least 2 months before the making of the bylaws, give public notice of its intention to make the bylaws, stating—
-  (a) the trade wastes to which the bylaws will relate; and
-  (b) that copies of the draft bylaws may be inspected free of charge at the place specified in the notice and may be obtained on payment of the charge specified in the notice; and
-  (c) that the territorial authority is prepared to receive and consider any representation about the bylaws made to it in writing by, or on behalf of, owners or occupiers of trade premises within its district at the time specified in the notice, being not less than 2 months after publication of the notice.
-(3) Before making the bylaws, the territorial authority must consider any representation received in accordance with the notice given under subsection (2).
-(4) The territorial authority must, before making the bylaws, consult any body of persons the Minister of Health specifies to the territorial authority as being representative of—
-  (a) the interests of the owners or occupiers of trade premises in the district of the territorial authority; or
-  (b) any class of those owners or occupiers.
-(5) A territorial authority—
-  (a) must enter on a register the name and postal address of an owner or occupier of trade premises who serves on the territorial authority a written request for registration; and
-  (b) must ensure that a copy of a notice required under subsection (2) is sent to the persons registered under paragraph (a); and
-  (c) may remove from the register the name of a person who has ceased to be the owner or occupier of trade premises within its district, or who has requested the local authority in writing to remove his or her name from the register.
-(6) Nothing in this section limits the provisions of the Health Act 1956 or the Resource Management Act 1991.
-(7) The requirements in this section are in addition to the requirements in section 156, but a territorial authority may comply with both sections by using a single process.
+[Repealed]
 
 **Power of regional councils to make bylaws**
 
@@ -2758,10 +2610,10 @@ Regulations under section 259 may do any or all of the following:
 
 ### 153 The Crown bound by certain bylaws
 (1) The Crown is bound by bylaws made by a local authority under any of the following provisions:
-  (a) section 146(a)﻿(iii), in relation to trade wastes:
+  (a)
   (b) section 146(a)﻿(iv), in relation to solid wastes:
-  (c) section 146(b)﻿(ii), in relation to water supply:
-  (d) section 146(b)﻿(iii), in relation to stormwater from any building and drainage from any infrastructure.
+  (c)
+  (d)
   (e)
 (2) The Crown is not bound by bylaws made by a local authority under any other provision of this Part.
 (3) However, the Crown is bound by any bylaw if non-compliance with that bylaw by the Crown would be likely to have an adverse effect on public health or safety.
@@ -3013,6 +2865,7 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
   (a) not less than 24 hours in advance of the intended entry if it is reasonably practicable to do so; or
   (b) as early as reasonably practicable, whether before or after entry has been made.
 (5) This section does not limit section 172 or section 173.
+(6) However, this section and sections 172 and 173 do not apply to a local authority that is a water service provider exercising powers under subpart 4 of Part 3 of the Local Government (Water Services) Act 2025.
 
 ### 172 Power of entry for enforcement purposes
 (1) A warranted enforcement officer may enter land for the purpose of detecting a breach of a bylaw or the commission of an offence against this Act if the officer has reasonable grounds for suspecting that a breach of the bylaw or the commission of the offence has occurred or is occurring on the land.
@@ -3097,9 +2950,9 @@ If an enforcement officer believes on reasonable grounds that a person is commit
 
 ### 181 Construction of works on private land
 (1) A local authority may construct works on or under private land or under a building on private land that it considers necessary for—
-  (a) the supply by territorial authorities of water by means of reticulated systems:
+  (a)
   (b) the supply of water through water races:
-  (c) trade wastes disposal:
+  (c)
   (d) land drainage and rivers clearance.
 (2) A territorial authority may construct works on or under private land or under a building on private land that it considers necessary for sewage and stormwater drainage.
 (3) A local authority or a territorial authority, as the case may be, must not exercise the power in subsection (1) or subsection (2) unless it has—
@@ -3108,12 +2961,13 @@ If an enforcement officer believes on reasonable grounds that a person is commit
 (4) A local authority may enter the land to inspect, alter, renew, repair, or clean any work constructed under this section or under the corresponding provision of a former Act.
 (5) The power in subsection (4) must not be exercised without first giving reasonable notice of the intention to enter the land to the owner and occupier (if any).
 (6) This section applies subject to the Public Works Act 1981 as to compensation for injurious affection to land.
+(7) This section does not apply to a local authority that is a water service provider exercising powers under subpart 4 of Part 3 of the Local Government (Water Services) Act 2025.
 
 **Powers of entry**
 
 ### 182 Power of entry to check utility services
 (1) An enforcement officer of a local authority may enter any land or building (but not a dwellinghouse) for the purpose of ascertaining whether—
-  (a) water supplied from any waterworks or water race to any land or building is being wasted or misused; or
+  (a) water supplied from any water race to any land or building is being wasted or misused; or
   (b) any drainage works on any land are being misused; or
   (c) any appliance or equipment associated with a local authority utility service on the land is in a condition that makes it dangerous to life or property.
 (2) The power under subsection (1) may only be exercised if the enforcement officer—
@@ -3189,19 +3043,10 @@ This subpart does not entitle a local authority—
 **Water supply**
 
 ### 192 Wastage of water
-A person who is supplied with reticulated water by, or on behalf of, a local authority must not waste the water or allow it to be wasted.
+[Repealed]
 
 ### 193 Power to restrict water supply
-(1) The water supply to a person's land or building may be restricted by a local government organisation in any manner it thinks fit if the person—
-  (a) commits an offence against this subpart; or
-  (b) fails or refuses to do anything required by this Part in respect of water, water pipes, waterworks, or water races; or
-  (ba) fails to comply with any bylaw of a local authority that relates—
-    (i) to water, water pipes, waterworks, water races, or water supply; and
-    (ii) to the person's land or building; or
-  (c) fails or refuses to do anything that he or she has undertaken or agreed to do in respect of the water supply to his or her land or building; or
-  (d) refuses entry to, or obstructs, an enforcement officer under section 182.
-(2) Restriction of the water supply under subsection (1) must not create unsanitary conditions in, or associated with, the land or building.
-(3) Restriction of the water supply under subsection (1) is subject to section 69S of the Health Act 1956.
+[Repealed]
 
 ### 194 Power to stop water services
 [Repealed]
@@ -3209,18 +3054,10 @@ A person who is supplied with reticulated water by, or on behalf of, a local aut
 **Discharge of sewage and trade wastes**
 
 ### 195 Discharge of sewage
-(1) The discharge of domestic sewage into a sewerage drain under the control of a local authority in accordance with the bylaws of the local authority, and the discharge of trade wastes into a sewerage drain in accordance with trade wastes bylaws, is not a breach of—
-  (a) this Act; or
-  (b) the Resource Management Act 1991 or regulations made under that Act; or
-  (c) the Building Act 2004 or regulations made under that Act.
-(2) However, this section does not absolve a local authority from liability for the discharge, in contravention of this Part or of the Resource Management Act 1991, of a contaminant from a sewerage drain under the control of the local authority.
-(3) The Minister of Health may, by notice in the Gazette, declare that a bylaw made by a local authority and specified in the notice is a trade wastes bylaw for the purposes of this section.
+[Repealed]
 
 ### 196 Discharge of trade wastes
-(1) The occupier of trade premises within the district of a territorial authority may discharge into the sewerage drains under the control of the territorial authority trade wastes proceeding from those premises either—
-  (a) with the consent of the territorial authority; or
-  (b) without consent if, and to the extent that, the discharge is permitted by trade wastes bylaws.
-(2) This section does not override any trade wastes bylaws, or the Resource Management Act 1991.
+[Repealed]
 
 ### Subpart 5 — Development contributions
 
@@ -3770,37 +3607,18 @@ Except as otherwise provided in this subpart or in Schedule 14, sections 215 to 
 **Offences relating to water**
 
 ### 224 Offence relating to water wastage
-Every person who contravenes section 192 and continues to waste water or allow it to be wasted after receiving a written warning from the local authority commits an offence and is liable on conviction to the penalty set out in section 242(2).
+[Repealed]
 
 ### 225 Offences relating to waterworks
-(1) Every person commits an offence and is liable on conviction to the penalty set out in section 242(1) who, wilfully or negligently,—
-  (a) takes water from the supply provided to another person without having entered into an agreement to be supplied with water from a waterworks; or
-  (b) having been supplied with water from a waterworks,—
-    (i) supplies that water to another person who has not entered into an agreement to be supplied; or
-    (ii) permits that other person to take water supplied from a waterworks; or
-  (c) bathes or washes clothing or other things in, or throws an animal, refuse, litter, or debris into, the water of a waterworks; or
-  (d) carries out work on, or in relation to, a waterworks without first—
-    (i) notifying the local authority of the intention to carry out the work; and
-    (ii) obtaining written authorisation from the local authority, with terms or conditions the local authority thinks fit.
-  (e)
-(2) It is not an offence under subsection (1) if the work referred to in subsection (1)﻿(d)—
-  (a) is authorised by a valid consent granted under—
-    (i) the Building Act 2004, regulations made under that Act, or the Building Code; or
-    (ii) the Resource Management Act 1991 or regulations made under that Act; or
-  (b) was carried out in accordance with a valid building, plumbing, or drainage consent.
-(3) It is a defence to an offence under subsection (1)﻿(d) if the work—
-  (a) was necessary to avoid an emergency, or to mitigate or remedy the effects of an emergency; and
-  (b) was carried out by a person appropriately registered to undertake the work.
+[Repealed]
 
 ### 226 Liability for cost of damage
-A person who commits an offence under section 225 may, in addition to, or instead of, the penalty for the offence, be ordered to pay the cost incurred by the council in repairing the damage done to the waterworks by the offence.
+[Repealed]
 
 **Offences relating to water meters**
 
 ### 227 Offences relating to water meters
-Every person commits an offence and is liable on conviction to the penalty set out in section 242(1) who, without the prior written authorisation of the local authority,—
-  (a) alters the index of, or in any other manner tampers with, a water meter being used in association with the water services of a local government organisation; or
-  (b) alters the position of such a water meter.
+[Repealed]
 
 **Offences relating to water races and private drains**
 
@@ -4052,43 +3870,76 @@ Money payable by a person to the local authority for works, material, or things 
 
 ### 253 Outline of Part
 This Part confers powers on the Minister to—
-  (a) assist local authorities or Watercare in certain situations; and
-  (b) intervene in the affairs of local authorities or Watercare in certain situations.
+  (a) assist local authorities, water organisations, or the trustees of consumer trusts in certain situations; and
+  (b) intervene in the affairs of local authorities, water organisations, or the trustees of consumer trusts in certain situations.
 
 ### 254 How this Part works
 (1) This section is a guide to the overall scheme and effect of this Part. It does not affect the interpretation or application of the other provisions of this Part.
-(2) Subpart 1 provides the Minister with a range of options in relation to a local authority or Watercare if they have a problem. The options are available only in relation to the local authority or Watercare itself, and not to any entity that the local authority or Watercare may control or have an interest in.
+(2) Subparts 1 and 1A provide the Minister with a range of options in relation to the following parties if they have a problem:
+  (a) a local authority:
+  (b) a water organisation:
+  (c) the trustees of a consumer trust.
 (3) The options vary according to the nature and scale of assistance or intervention required to address the problem.
-(4) The options are not a hierarchy of actions that the Minister must employ sequentially in relation to a local authority or Watercare.
-(5) Accordingly, the Minister may exercise an option in relation to a local authority or Watercare without having previously exercised 1 or more of the other options.
-(6) Subpart 2 of this Part sets out general provisions applying to all the options the Minister may exercise under subpart 1.
+(4) The options are not a hierarchy of actions that the Minister must employ sequentially in relation to a local authority, a water organisation, or the trustees of a consumer trust.
+(5) Accordingly, the Minister may exercise an option in relation to a local authority, a water organisation, or the trustees of a consumer trust without having previously exercised 1 or more of the other options.
+(6) Subpart 2 of this Part sets out general provisions applying to all the options the Minister may exercise under subparts 1 and 1A.
 (7) The provisions in subpart 2 of this Part are largely procedural in nature and cover matters including notification of the assistance or intervention, reporting requirements, and payment and protection for the individuals carrying out the assistance or intervention.
 
 ### 255 Application of this Part
-(1) The Minister may appoint a Ministerial body under subpart 1 of this Part only to a local authority and not to any entity that the local authority may control or have an interest in, for example, a council-controlled organisation, council-controlled trading organisation, council organisation, or other subsidiary of the local authority.
-(2) However, the Minister may exercise the powers in this Part in relation to a local board and, for that purpose, this Part applies, with any necessary modifications, as if a local board were a local authority.
-(3) Despite subsection (1), the Minister may exercise the powers in section 257 to 258E in relation to Watercare and, for that purpose, sections 256 to 258E, 258N to 258Q, and 258S to 258ZA apply as if Watercare were a local authority.
+(1) The Minister may appoint a Ministerial body—
+  (a) under subpart 1 of this Part only to a local authority and not to any entity that the local authority may control or have an interest in, including, for example, a council-controlled organisation, council-controlled trading organisation, council organisation, or other subsidiary of the local authority; and
+  (b) under subpart 1A of this Part only to—
+    (i) a local authority in relation to providing water services; or
+    (ii) a group of 2 or more local authorities in relation to providing water services; or
+    (iii) a water organisation; or
+    (iv) a shareholder in a water organisation.
+(2) However, the Minister may exercise the powers in this Part in relation to a local board and, for that purpose, this Part applies, with any necessary modifications, as if the local board were a local authority.
+(3) Despite subsection (1)﻿(a), the Minister may exercise the powers in sections 257 to 258E in relation to a water organisation or consumer trust and, for that purpose, sections 256 to 258E, 258N to 258Q, and 258S to 258ZA apply as if the water organisation or consumer trust were a local authority.
 
 ### 256 Interpretation
 In this Part,—
   - **Commission** means a commission appointed under section 258F
-  - **Ministerial appointee** means a person appointed under subpart 1 of this Part as a Crown Manager or a Crown Observer, or as a member of a Crown Review Team or of a Commission
-  - **Ministerial body** means a Crown Review Team, a Crown Observer, a Crown Manager, or a Commission appointed under subpart 1 of this Part
-  - **problem** , in relation to a local authority,—
+  - **consumer trust** has the meaning set out in section 4 of the Local Government (Water Services) Act 2025
+  - **Ministerial appointee** means a person appointed—
+    (a) under subpart 1 of this Part as a Crown Observer or a Crown Manager, or as a member of a Crown Review Team or of a Commission; or
+    (b) under subpart 1A of this Part as a Crown facilitator—water services or a Crown commissioner—water services
+  - **Ministerial body** means—
+    (a) a Crown Review Team, a Crown Observer, a Crown Manager, or a Commission appointed under subpart 1 of this Part; or
+    (b) a Crown facilitator—water services or a Crown commissioner—water services appointed under subpart 1A of this Part
+  - **problem** , in relation to a local authority or a water organisation,—
     (a) means—
       (i) a matter or circumstance relating to the management or governance of the local authority that detracts from, or is likely to detract from, its ability to give effect to the purpose of local government within its district or region; or
-      (ii) a significant or persistent failure by the local authority to perform 1 or more of its functions or duties under any enactment; or
-      (iii) the consequences of a state of emergency (within the meaning of section 4 of the Civil Defence Emergency Management Act 2002) affecting, or recently affecting, the local authority's district or region; and
+      (ii) a significant or persistent failure by the local authority or the water organisation to perform 1 or more of its functions or duties under any enactment; or
+      (iii) the consequences of a state of emergency (within the meaning of section 4 of the Civil Defence Emergency Management Act 2002) affecting, or recently affecting, the local authority's district or region or (as applicable) the water organisation’s service area; and
     (b) includes—
-      (i) a failure by the local authority to demonstrate prudent management of its revenues, expenses, assets, liabilities, investments, or general financial dealings; and
+      (i) a failure by the local authority or the water organisation to demonstrate prudent management of its revenues, expenses, assets, liabilities, investments, or general financial dealings; and
       (ii) a potential problem within the meaning of paragraph (a)﻿(i) or (ii); and
-      (iii) to avoid doubt, 2 or more problems within the meaning of paragraph (a) or subparagraph (i) or (ii) of this paragraph
+      (iii) to avoid doubt, 2 or more problems within the meaning of paragraph (a) or subparagraph (i) or (ii) of this paragraph; and
+    (c) includes, in relation to a water organisation, a local authority that provides water services, or a shareholder in a water organisation,—
+      (i) a failure to give effect to proposals or undertakings specified in a water services delivery plan that has been accepted under section 20 of the Local Government (Water Services Preliminary Arrangements) Act 2024; and
+      (ii) a matter or circumstance relating to the establishment of the water organisation or a consumer trust, or the management, governance, or operations of the water organisation, local authority, or consumer trust, that prevents, or is likely to prevent, the water organisation or local authority from providing water services—
+        (A) that are financially sustainable; and
+        (B) that comply with all regulatory requirements; and
+        (C) that meet the objectives for water service providers set out in section 17 of the Local Government (Water Services) Act 2025; and
+        (D) that are consistent with the intended approach to funding, revenue, and pricing set out in a water services strategy (see section 230 of the Local Government (Water Services) Act 2025); and
+        (E) in accordance with the financial principles set out in section 18 of the Local Government (Water Services) Act 2025; and
+      (iii) a matter or circumstance relating to the relationship between a shareholder of a water organisation and the board of the water organisation, or between 2 or more shareholders of a water organisation, and that prevents, or is likely to prevent, the water organisation from providing water services—
+        (A) that are financially sustainable; and
+        (B) that comply with all regulatory requirements; and
+        (C) that meet the objectives for water service providers set out in section 17 of the Local Government (Water Services) Act 2025; and
+        (D) that are consistent with prices, revenues, and service levels proposed in a water services strategy (see section 230 of the Local Government (Water Services) Act 2025); and
+        (E) in accordance with the financial principles set out in section 18 of the Local Government (Water Services) Act 2025; and
+      (iv) a significant or persistent failure to comply with Part 4 of the Commerce Act 1986 in relation to providing water services; and
+      (v) the consequences of an event that causes, or is likely to cause, a significant disruption to water services or a risk to public health in the service area of the water organisation or in the district of the local authority; and
+    (d) includes, in relation to the trustees of a consumer trust, a failure to act in accordance with the trust’s trust deed.
   - **public notice** , in relation to notice given by the Minister,—
     (a) means a notice published—
       (i) in a newspaper circulating in the district or region of the local authority; and
       (ii) on the Internet site of the department responsible for the administration of this Act; and
     (b) includes any other notice that the Minister thinks desirable in the circumstances
-  - **significant** , in relation to a problem of a local authority, means that the problem will have actual or probable adverse consequences for residents and ratepayers within the district or region of the local authority.
+  - **significant** , in relation to a problem of a local authority, means that the problem will have actual or probable adverse consequences for residents and ratepayers within the district or region of the local authority
+  - **water organisation** has the meaning set out in section 4 of the Local Government (Water Services) Act 2025
+  - **water service provider** has the meaning set out in section 4 of the Local Government (Water Services) Act 2025.
 
 ### Subpart 1 — Ministerial powers of assistance and intervention
 
@@ -4333,19 +4184,142 @@ The Minister must appoint a Crown Manager by notice in writing. The notice must 
 (4) The Local Electoral Act 2001 applies, with any necessary modifications, to the conduct of an election called by the Minister under this section, as if the election were a triennial general election.
 (5) Despite subsection (4), the electoral officer responsible for the election must give notice of the election under section 52 of the Local Electoral Act 2001 no later than 7 days after the Minister gives notice of the election under subsection (1).
 
-### Subpart 2 — General provisions applying to Ministerial powers conferred under subpart 1
+### Subpart 1A — Additional ministerial powers of assistance and intervention: water services
+
+**Minister may appoint Crown facilitator—water services**
+
+### 258MA Minister may appoint Crown facilitator—water services
+(1) The Minister may, in the circumstances set out in subsection (2), appoint a Crown facilitator—water services to—
+  (a) a local authority; or
+  (b) a group of 2 or more local authorities; or
+  (c) a water organisation; or
+  (d) a consumer trust.
+(2) The Minister may appoint a Crown facilitator—water services if—
+  (a) the local authority, group of local authorities, water organisation, or the trustees of the consumer trust requests, in writing to the Minister, that the Minister do so and the Minister decides to grant that request; or
+  (b) the Minister believes, on reasonable grounds, that a problem exists and—
+    (i) the nature or extent of the problem is such that the local authority, group of local authorities, water organisation, or trustees of the consumer trust are unlikely to effectively address the problem without the appointment of a Crown facilitator; or
+    (ii) in the case of a water organisation, the shareholders of the organisation are unable or unwilling to address the problem effectively; or
+    (iii) for no good reason, the local authority, group of local authorities, water organisation, or trustees of the consumer trust have not adequately implemented a recommendation of any other Ministerial body in relation to the problem; or
+    (iv) a Ministerial body currently or previously appointed to the local authority, group of local authorities, water organisation, or consumer trust has recommended the appointment; or
+  (c) the Minister believes, on reasonable grounds, that it would be beneficial to appoint a Crown facilitator—water services to provide assistance, advice, or direction to the local authority, group of local authorities, water organisation, or trustees to improve the arrangements for providing water services in the relevant region, district, or service area.
+(3) Before the appointment period begins, the Minister must give notice of the appointment—
+  (a) in writing to the local authority, group of 2 or more local authorities, water organisation, or trustees; and
+  (b) by notice in the Gazette; and
+  (c) by public notice.
+(4) Each notice must comply with section 258S.
+(5) A Crown facilitator—water services must, to the extent authorised by their terms of reference,—
+  (a) assist and advise the local authority, group of local authorities, water organisation, or trustees for the purposes of—
+    (i) addressing a matter specified in a request made under subsection (2)﻿(a) or specified in the terms of reference:
+    (ii) addressing a problem:
+    (iii) identifying improvements for providing water services:
+    (iv) implementing improvements for providing water services; and
+  (b) monitor the local authority’s, group of local authorities’, water organisation’s, or trustees’ progress in addressing a problem or improving its provision of water services; and
+  (c) direct the local authority, group of local authorities, water organisation, or trustees to act to address a problem; and
+  (d) make recommendations to the Minister on whether the Minister should take further action in relation to the local authority, group of local authorities, water organisation, or consumer trust, including whether the Minister should—
+    (i) consider amending the Crown facilitator’s terms of reference, including the duration of the Crown facilitator’s appointment or the scope of the Crown facilitator’s role, to enable the Crown facilitator to continue their work; or
+    (ii) appoint any other Ministerial body to the local authority, group of local authorities, water organisation, or consumer trust; and
+  (e) ensure, as far as practicable, that the existing capability of the local authority, the group of local authorities, the water organisation, or the trustees is not diminished.
+(6) If applicable, and to the extent authorised by their terms of reference, a Crown facilitator—water services must also assist, advise, monitor, or direct the local authority, group of local authorities, water organisation, or trustees on any related matter as recommended by a Ministerial body currently or previously appointed to the local authority, group of local authorities, water organisation, or consumer trust.
+(7) The local authority, group of local authorities, water organisation, and the trustees of the consumer trust to which a Crown facilitator—water services has been appointed must—
+  (a) co-operate with the Crown facilitator so that the Crown facilitator may fulfil their terms of reference; and
+  (b) comply with the directions of the Crown facilitator; and
+  (c) comply with any reasonable request of the Crown facilitator to provide any relevant information that the local authority, group of local authorities, water organisation, or consumer trust holds.
+
+### 258MB How Crown facilitator—water services is appointed
+(1) The Minister may appoint 1 person or a panel of 2 or more people to be a Crown facilitator—water services.
+(2) If the Minister appoints a panel to be a Crown facilitator—water services, the Minister must appoint 1 member as the chairperson.
+(3) The Minister appoints a Crown facilitator—water services by providing notice in writing to the person appointed or, if the Minister appoints a panel, to each member of the panel.
+(4) The notice must include the following information:
+  (a) the terms of reference of the Crown facilitator—water services, including—
+    (i) an outline of the reasons for making the appointment; and
+    (ii) the problem or opportunity that the appointment is intended to address; and
+    (iii) the role of the Crown facilitator; and
+    (iv) the extent of the Crown facilitator’s authority:
+  (b) the start and end dates of the appointment:
+  (c) the local authority, the group of local authorities, the water organisation, or the consumer trust to which the Crown facilitator is appointed.
+
+**Minister may appoint Crown commissioners—water services**
+
+### 258MC Minister may appoint Crown commissioners—water services
+(1) The Minister may, in the circumstances set out in subsection (2), appoint 2 or more Crown commissioners—water services to—
+  (a) a local authority; or
+  (b) a group of 2 or more local authorities; or
+  (c) a water organisation; or
+  (d) a consumer trust.
+(2) The Minister may appoint Crown commissioners—water services if—
+  (a) the local authority, group of local authorities, water organisation, or trustees of the consumer trust request, in writing to the Minister, that the Minister do so and the Minister decides to grant that request; or
+  (b) the Minister believes, on reasonable grounds, that a significant problem exists and—
+    (i) the nature or extent of the problem is such that the local authority, group of local authorities, water organisation, or trustees of the consumer trust are unlikely to effectively address the problem without the appointment of Crown commissioners—water services; or
+    (ii) in the case of a water organisation, the shareholders of the organisation have failed to effectively address the problem; or
+    (iii) for no good reason, the local authority, group of local authorities, water organisation, or trustees of the consumer trust have not adequately implemented a recommendation of any other Ministerial body in relation to the problem; or
+    (iv) a Ministerial body currently or previously appointed to the local authority, group of local authorities, water organisation, or consumer trust has recommended the appointment; or
+  (c) the Minister believes, on reasonable grounds, that it is necessary to appoint Crown commissioners—water services to—
+    (i) identify or implement a solution to a problem, and the solution will require actions or decisions from 2 or more local authorities or 2 or more water organisations; or
+    (ii) replace the board of a water organisation; or
+    (iii) replace the joint committee or body that represents the shareholders of a water organisation (which may include, for example, replacing a local authority representative or trustee).
+(3) Before the appointment period begins, the Minister must give notice of the appointment—
+  (a) in writing to the local authority, group of 2 or more local authorities, water organisation, or trustees; and
+  (b) by notice in the Gazette; and
+  (c) by public notice.
+(4) Each notice must comply with section 258S.
+(5) Crown commissioners—water services must, to the extent authorised by their terms of reference,—
+  (a) work with the local authority, group of local authorities, water organisation, or trustees to—
+    (i) address a problem:
+    (ii) implement a solution to a problem or to address any other matter specified in a request made under subsection (2)﻿(a) or specified in the terms of reference; and
+  (b) direct the local authority, group of local authorities, water organisation, or trustees to act to—
+    (i) address a problem:
+    (ii) implement a solution to a problem or to address any other matter specified in a request made under subsection (2)﻿(a) or specified in the terms of reference:
+    (iii) make decisions that are necessary to address the problem or to implement the solution; and
+  (c) oversee the local authority, group of local authorities, water organisation, or trustees implementing a solution to a problem; and
+  (d) make recommendations to the Minister on whether the Minister should take further action in relation to the local authority, group of local authorities, water organisation, or consumer trust, including whether the Minister should—
+    (i) consider amending the Crown commissioners’ terms of reference, including the duration of the Crown commissioners’ appointment or the scope of the Crown commissioners’ role, to enable the Crown commissioners to continue their work; or
+    (ii) appoint any other Ministerial body to the local authority, group of local authorities, water organisation, or consumer trust; and
+  (e) ensure, to the extent practicable, that the ability of the local authority, group of local authorities, water organisation, or trustees to perform their obligations in relation to the provision of water services is not diminished.
+(6) Crown commissioners—water services may, to the extent authorised by their terms of reference, do any of the following:
+  (a) if appointed to a water organisation, perform any functions or duties, or exercise any powers, of the board of the water organisation:
+  (b) if appointed to a consumer trust, perform any functions or duties, or exercise any powers, of the trustees:
+  (c) if appointed to a water organisation that is owned by 1 or more local authorities, perform any functions or duties that the committee or body that represents the shareholders of the water organisation would otherwise undertake in relation to the water organisation.
+(7) If applicable, and to the extent authorised by their terms of reference, Crown commissioners—water services must also direct the local authority, group of local authorities, water organisation, or trustees on any related matter as recommended by a Ministerial body currently or previously appointed to the local authority, group of local authorities, water organisation, or consumer trust.
+(8) The local authority, group of local authorities, water organisation, or trustees of the consumer trust to which Crown commissioners—water services have been appointed must—
+  (a) co-operate with the Crown commissioners—water services so that the Crown commissioners—water services may fulfil their terms of reference; and
+  (b) comply with the directions of the Crown commissioners—water services; and
+  (c) comply with any reasonable request of the Crown commissioners—water services to provide any relevant information that the local authority, group of local authorities, water organisation, or trustees hold.
+
+### 258MD How Crown commissioners—water services are appointed
+(1) The Minister may appoint a panel of 2 or more people to be Crown commissioners—water services.
+(2) The Minister must appoint 1 Crown commissioner—water services to be the chairperson.
+(3) The Minister appoints Crown commissioners—water services by providing notice in writing to each person appointed.
+(4) The notice must include the following information:
+  (a) the terms of reference of the panel, including—
+    (i) an outline of the reasons for making the appointment; and
+    (ii) the problem or opportunity that the appointment is intended to address; and
+    (iii) the role of the panel; and
+    (iv) the extent of the panel’s authority:
+  (b) the start and end dates of the appointment:
+  (c) the local authority, group of local authorities, water organisation, or consumer trust to which the panel is appointed.
+
+**Obligation to consult**
+
+### 258ME Minister must consult
+(1) The Minister must consult the Minister of Commerce and Consumer Affairs when determining what action, if any, to take under subpart 1 or 1A, including when—
+  (a) appointing a Ministerial appointee; or
+  (b) formulating the terms of reference for a Ministerial appointee.
+(2) However, the obligation to consult only applies in relation to a significant or persistent failure (or possible failure) to comply with the regulation of water services set out in subpart 12 of Part 4 of the Commerce Act 1986.
+(3) When determining what action to take, if any, under this subpart, the Minister may consider any information they receive, including any information provided by the Commerce Commission.
+
+### Subpart 2 — General provisions applying to Ministerial powers conferred under subparts 1 and 1A
 
 ### 258N Minister may consult any person
 (1) The Minister may, but is not obliged to, consult any person, organisation, or group—
-  (a) when determining what action, if any, to take under subpart 1 of this Part:
-  (b) when appointing a Ministerial body under subpart 1 of this Part:
+  (a) when determining what action, if any, to take under subpart 1 or 1A of this Part:
+  (b) when appointing a Ministerial body under subpart 1 or 1A of this Part:
   (c) when formulating the terms of reference for a Ministerial body.
 (2) The Minister may, but is not obliged to, consult any person, organisation, or group—
   (a) when postponing a general election under section 258I; or
   (b) when calling a general election under section 258M.
 
 ### 258O Minister must publish list in Gazette
-(1) The Minister must publish in the Gazette, and on the Internet site of the department responsible for the administration of this Act, a list of matters relevant to determining what action, if any, to take under subpart 1 of this Part.
+(1) The Minister must publish in the Gazette, and on the Internet site of the department responsible for the administration of this Act, a list of matters relevant to determining what action, if any, to take under subpart 1 or 1A of this Part.
 (2) Without limiting subsection (1), the list must include the following matters:
   (a) guiding principles that the Minister is likely to adopt when making decisions under this Part:
   (b) matters or circumstances relating to the management or governance of local authorities that the Minister considers are likely to detract from the ability of local authorities to give effect to the purpose of local government within their districts and regions:
@@ -4356,24 +4330,24 @@ The Minister must appoint a Crown Manager by notice in writing. The notice must 
 (6) The first list must be published no later than 31 March 2013.
 
 ### 258P Minister must have regard to published list
-(1) The Minister, when determining what action, if any, to take under subpart 1 of this Part, must have regard to the list published under section 258O.
-(2) To avoid doubt, the Minister may act under subpart 1 of this Part and appoint a Ministerial body to a local authority even if the problem in relation to the local authority does not relate to a matter featured in the list.
+(1) The Minister, when determining what action, if any, to take under subpart 1 or 1A of this Part, must have regard to the list published under section 258O.
+(2) To avoid doubt, the Minister may act under this Part and appoint a Ministerial body even if the relevant problem does not relate to a matter featured in the list.
 
-### 258Q Notice to local authority of proposed appointment of Ministerial body
+### 258Q Notice of proposed appointment of Ministerial body
 (1) Before appointing a Ministerial body, the Minister must—
-  (a) give the local authority concerned written notice that he or she intends to make the appointment; and
+  (a) give the local authority, group of local authorities, water organisation, or trustees of a consumer trust concerned written notice that he or she intends to make the appointment; and
   (b) state in the notice the reasons for the proposed appointment and the proposed terms of reference; and
-  (c) give the local authority an opportunity to satisfy the Minister of the following matters, as applicable, by a date specified in the notice, being no earlier than 10 working days after the date on which notice is given to the local authority:
+  (c) give the local authority, group of local authorities, water organisation, or trustees an opportunity to satisfy the Minister of the following matters, as applicable, by a date specified in the notice, being no earlier than 10 working days after the date on which notice is given to the local authority:
     (i) the reasons for making the appointment do not exist:
     (ii) the local authority is acting effectively to address the problem:
     (iii) for any other reason, the appointment should not be made:
     (iv) a different Ministerial body should be appointed.
 (2) The Minister must—
-  (a) notify the local authority, in writing, if he or she decides not to appoint a Ministerial body; or
-  (b) act under section 258(2), 258B(2), 258D(2), or 258F(2) in any other case.
+  (a) notify the local authority, group of local authorities, water organisation, or trustees, in writing, if he or she decides not to appoint a Ministerial body; or
+  (b) act under section 258(2), 258B(2), 258D(2), or 258F(2), 258MA(3), or 258MC(3) in any other case.
 (3) This section does not apply if—
-  (a) the local authority has requested the Minister to make the appointment; or
-  (b) the problem in relation to which the Minister intends to make the appointment relates to the consequences of a state of emergency and the Minister believes, on reasonable grounds, that the public health or safety of the people within the local authority's district or region is, or is likely to be, endangered.
+  (a) the local authority, group of local authorities, water organisation, or trustees has requested the Minister to make the appointment; or
+  (b) the problem in relation to which the Minister intends to make the appointment relates to the consequences of a state of emergency and the Minister believes, on reasonable grounds, that the public health or safety of the people within the district, region, or service area of the local authority, group of local authorities, water organisation, or consumer trust is, or is likely to be, endangered.
 
 ### 258R Notice to local authority of proposed general election
 (1) Before calling a general election under section 258M, the Minister must—
@@ -4388,7 +4362,7 @@ The Minister must appoint a Crown Manager by notice in writing. The notice must 
   (b) act under section 258M(3).
 
 ### 258S Notification of appointment of Ministerial body
-(1) A notice of appointment of a Ministerial body under section 258(1), 258B(1), 258D(1), or 258F(1) must state the following:
+(1) A notice of appointment of a Ministerial body under section 258(1), 258B(1), 258D(1), 258F(1), 258MA(1), or 258MC(1) must state the following:
   (a) that the Minister has appointed a Ministerial body; and
   (b) the terms of reference of the Ministerial body; and
   (c) the start and end dates of the Ministerial body's appointment; and
@@ -4419,12 +4393,14 @@ The Minister must notify any change in the membership of a Ministerial body by n
   (b) to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member in accordance with the fees framework.
 (2) In this section, fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
 
-### 258W Recovery of expenses from local authority
-(1) A local authority owes as a debt to the Crown any expenses that the Crown incurs for the appointment of a Crown Manager or a Commission to the local authority, including the payment of remuneration and expenses to the Crown Manager or a member of the Commission.
-(2) Any expenses that the Crown incurs for the appointment of a Crown Observer or a Crown Review Team to a local authority, including the payment of remuneration and expenses to the Crown Observer or a member of the Crown Review Team, may be recovered by the Crown from the local authority if—
+### 258W Recovery of expenses
+(1) A local authority, group of local authorities, water organisation, or trustees of a consumer trust owe as a debt to the Crown any expenses that the Crown incurs for the appointment of a Crown Manager, Crown Commission, Crown facilitator—water services, or Crown commissioner—water services to the local authority, group of local authorities, water organisation, or consumer trust, including the payment of remuneration and expenses to the Crown Manager, a member of the Commission, the Crown facilitator—water services, or the Crown commissioner—water services.
+(1A) A water organisation or the trustees of a consumer trust owe as a debt to the Crown any expenses that the Crown incurs for the appointment of a Crown Observer or a Crown Review Team to the water organisation or consumer trust, including the payment of remuneration and expenses to the Crown Observer or a member of the Crown Review Team.
+(2) Any expenses that the Crown incurs for the appointment of a Crown Observer or a Crown Review Team to a local authority or group of local authorities, including the payment of remuneration and expenses to the Crown Observer or a member of the Crown Review Team, may be recovered by the Crown from the local authority or group of local authorities if—
   (a) the Minister decides that to do so is reasonable in the circumstances; and
   (b) the terms of reference authorise the recovery.
 (3) The Crown may recover expenses under subsection (2) as a debt to the Crown.
+(4) If the Minister appoints a Ministerial appointee to a group of local authorities, each local authority owes an equal share of the expenses incurred as a debt to the Crown.
 
 ### 258X Minister may terminate Ministerial body or Ministerial appointee
 (1) The Minister may terminate the appointment of a Ministerial body at any time by notice in writing.
@@ -4445,12 +4421,27 @@ The Minister must notify any change in the membership of a Ministerial body by n
 (2) However, the Minister, the Ministerial body, or a Ministerial appointee must not publish or disclose that information to any other person except in accordance with those Acts.
 (3) In this section, Minister includes the Minister's officials and Cabinet.
 
-### 258ZA Decisions and directions of Crown Manager or Commission remain in force until local authority decides otherwise
-(1) Subsections (2) and (3) apply to a local authority on and from the expiry of the term of a Crown Manager appointed to the local authority.
-(2) A direction given to the local authority by the Crown Manager ceases to have effect.
-(3) Despite subsection (2), any decision made by the local authority giving effect to the direction continues in force unless and until the local authority revokes or amends the decision.
+### 258ZA Decisions and directions remain in force
+(1) Subsections (2) and (3) apply to a local authority, group of local authorities, water organisation, or trustees of a consumer trust on and from the expiry of the term of 1 of the following Ministerial appointees appointed to the local authority, group of local authorities, water organisation, or consumer trust:
+  (a) Crown Manager:
+  (b) Crown facilitator—water services:
+  (c) Crown commissioner—water services.
+(2) A direction given to the local authority, group of local authorities, water organisation, or trustees of the consumer trust by the Ministerial appointee ceases to have effect.
+(3) Despite subsection (2), any decision made by the local authority, group of local authorities, water organisation, or trustees giving effect to the direction continues in force unless and until the local authority, group of local authorities, water organisation, or trustees revoke or amend the decision.
 (4) Subsection (5) applies to a local authority on and from the expiry of the term of a Commission appointed to the local authority.
 (5) A decision of the Commission continues in force as if it were a decision made by the local authority unless and until the local authority revokes or amends the decision.
+(6) Subsection (7) applies to a local authority, group of local authorities, water organisation, or trustees on and from the expiry of the term of a Crown commissioner—water services appointed to the local authority, group of local authorities, water organisation, or consumer trust.
+(7) A decision of the Crown commissioner—water services continues in force as if it were a decision made by the local authority, group of local authorities, water organisation, or trustees unless and until the local authority, group of local authorities, water organisation, or trustees revoke or amend the decision.
+
+**Information required for purpose of advising Minister**
+
+### 258ZB Secretary may require water services information
+(1) For the purpose set out in subsection (2), the Secretary may require the following parties to provide the Secretary with information that relates to providing water services under this Act:
+  (a) a local authority:
+  (b) a water service provider:
+  (c) a shareholder in a water organisation.
+(2) The purpose is to enable the Secretary to advise the Minister in relation to exercising the Minister’s powers under this Part.
+(3) A party that is required to provide the Secretary with information under subsection (1) must provide the information in accordance with the terms of the request.
 
 ## Part 11 — Regulations, other Orders in Council, and rules
 
@@ -4477,7 +4468,7 @@ The Minister must notify any change in the membership of a Ministerial body by n
 (3) Regulations made under subsection (1)﻿(dc) may—
   (a) prescribe parameters or benchmarks in any manner, including by—
     (i) reference to fixed terms (for example, the debt of a local authority in a financial year, generally, should not exceed a fixed sum per resident):
-    (ii) the use of ratios, factors, or other relative terms (for example, the expenditure of a local authority in a financial year, generally, should not increase by more than the ratio of population growth multiplied by the rate of increase of the Consumers Price Index (all groups) or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index) :
+    (ii) the use of ratios, factors, or other relative terms (for example, the expenditure of a local authority in a financial year, generally, should not increase by more than the ratio of population growth multiplied by the rate of increase of the Consumers Price Index (all groups) or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index):
     (iii) reference to circumstances, statistics, or other publicly available information, whether only concerning local authorities and their districts and regions or otherwise; and
   (b) prescribe parameters or benchmarks in a way that differentiates between different types or classes of local authority (for example, regional councils, territorial authorities, and local authorities with a population, assets, or an average income of its population over or under a specified figure); and
   (c) prescribe parameters or benchmarks in a way that includes or excludes subsidiaries, including council-controlled organisations, council-controlled trading organisations, and council organisations, of a local authority.
@@ -5101,7 +5092,7 @@ The relevant amendments do not apply to a local government reorganisation for wh
 ### Part 5 — Provisions relating to Water Services Act 2021
 
 ### 23 Requirements in subpart 1 of Part 7
-Despite section 125(3), every territorial authority must complete an assessment of drinking water services in accordance with section 125 by 1 July 2026.
+[Repealed]
 
 ### Part 6 — Provisions relating to Water Services Entities Act 2022
 
@@ -5320,6 +5311,46 @@ Section 200(3)﻿(a)﻿(vi) continues to apply, as if it had not been repealed b
 
 ### 58 Transitional provision relating to information to be included in annual reports
 In Schedule 10, clause 34B continues to apply, as if it had not been repealed by the amendment Act, in relation to the annual report of the Auckland Council for any year in which the Auckland RFT reserve fund still contained revenue from the Auckland RFT scheme.
+
+### Part 10 — Provisions relating to Local Government (Water Services) Act 2025
+
+### 59 Interpretation
+In this Part,—
+  (a) 2025 Act means the Local Government (Water Services) Act 2025; and
+  (b) the following terms have the same meanings as in section 4 of the 2025 Act:
+    (i) group of water services activities:
+    (ii) water organisation:
+    (iii) water service provider:
+    (iv) water services:
+    (v) water services annual report:
+    (vi) water services strategy.
+
+### 60 Transitional provision relating to financial statements
+(1) This clause applies to a territorial authority’s annual report adopted under section 98 for the financial year ending on 30 June 2027.
+(2) In addition to the information required by Part 3 of Schedule 10, the annual report must include—
+  (a) a statement of comprehensive revenue and expense; and
+  (b) a statement of cash flows; and
+  (c) a statement of financial position.
+(3) The statements required under subclause (2) must be included—
+  (a) separately for each group of water services activities provided by the territorial authority; and
+  (b) aggregated for all water services provided by the territorial authority.
+(4) However, this clause does not apply if a territorial authority prepares a water services annual report for the period ending on 30 June 2027 under clause 6(2) of Schedule 1 of the 2025 Act.
+
+### 61 Information to be included in planning documents
+(1) The amendments made by the Local Government (Water Services) (Repeals and Amendments) Act 2025 to sections 93 and 101B and clause 2 of Schedule 10 of this Act do not apply to a territorial authority that is a water service provider until the territorial authority is preparing its first water services strategy under the 2025 Act.
+(2) The amendments made by the Local Government (Water Services) (Repeals and Amendments) Act 2025 to section 95 of this Act do not apply to a territorial authority that is a water service provider until the territorial authority adopts its first water services strategy under the 2025 Act.
+
+### 62 Planning and reporting documents of council-controlled organisations
+(1) This clause applies to a council-controlled organisation (CCO) that—
+  (a) is—
+    (i) a CCO to which clause 8 of Schedule 1 of the 2025 Act applies; or
+    (ii) an Auckland water organisation under the Local Government (Auckland Council) Act 2009; and
+  (b) becomes a water organisation under the 2025 Act when that Act comes into force.
+(2) Despite section 71B(2),—
+  (a) the most recent statement of intent prepared under section 64 of this Act in relation to the CCO continues in force until the first water services strategy adopted by the water organisation comes into force under section 230 of the 2025 Act:
+  (b) a statement of expectations prepared under section 64B of this Act in relation to the CCO continues in force until the first statement of expectations is provided to the water organisation under section 224 of the 2025 Act:
+  (c) the requirements for a half-yearly report under section 66 of this Act continue to apply until the water organisation adopts its first half-yearly report under section 248 of the 2025 Act:
+  (d) the requirements for an annual report under section 67 of this Act continue to apply until the water organisation adopts its first water services annual report under section 243 of the 2025 Act.
 
 ## Schedule 1 — Acts under which responsibilities, powers, and duties are conferred or imposed on Minister of Local Government and Secretary for Local Government
 
@@ -7621,12 +7652,15 @@ A long-term plan must, to the extent determined appropriate by the local authori
     (i) in detail in relation to each of the first 3 financial years covered by the plan; and
     (ii) in outline in relation to each of the subsequent financial years covered by the plan.
 (2) In this schedule, each of the following activities is a group of activities:
-  (a) water supply:
-  (b) sewerage and the treatment and disposal of sewage:
-  (c) stormwater drainage:
+  (a)
+  (b)
+  (c)
   (d) flood protection and control works:
   (e) the provision of roads and footpaths.
-(3) Despite subclause (2), a local authority may treat any other activities as a group of activities.
+(3) Despite subclause (2), a local authority may treat any other activities as a group of activities, other than activities related to providing water services under the Local Government (Water Services) Act 2025.
+(4) To avoid doubt, a territorial authority may include information about targeted rates for activities, or a group of activities, relating to water services in a funding impact statement that is included in—
+  (a) a long-term plan under clause 15; or
+  (b) an annual plan under clause 20.
 
 ### 3 Capital expenditure for groups of activities
 (1) A long-term plan must, in relation to each group of activities of the local authority and for each financial year covered by the plan, include a statement of the amount of capital expenditure that the authority has budgeted to—
@@ -7652,7 +7686,7 @@ A long-term plan must, in relation to each group of activities of the local auth
 
 ### 6 Variation between territorial authority's long-term plan and assessment of water and sanitary services and waste management plans
 A long-term plan for a territorial authority must identify and explain any significant variation between the proposals outlined in the long-term plan and the territorial authority's—
-  (a) assessment of drinking water, wastewater, and other sanitary services under sections 125 and 128:
+  (a) assessment of certain sanitary services under section 128:
   (b) waste management and minimisation plans adopted under section 43 of the Waste Minimisation Act 2008.
 
 ### 7 Council-controlled organisations
@@ -7711,11 +7745,15 @@ If the local authority has resolved, under section 100(2), not to balance its op
     (i) how liability for the targeted rate is to be calculated; and
     (ii) the local authority's definition of a separately used or inhabited part of a rating unit, if the rate is to be calculated on that basis; and
   (d) if the targeted rate is set differentially, state the total revenue sought from each category of rateable land or the relationship between the rates set on rateable land in each category; and
+  (da) specify whether the targeted rate is set to collect revenue that—
+    (i) relates to 1 or more groups of water services activities; and
+    (ii) is being collected as an agent of a water organisation, as provided in a transfer agreement under clause 6 of Schedule 2 of the Local Government (Water Services) Act 2025; and
   (e) state whether lump sum contributions will be invited in respect of the targeted rate.
 (5) If the sources of funding include a general rate or a targeted rate, the funding impact statement must, for the first year covered by the long-term plan, include examples of the impact of the rating proposals in subclauses (3) and (4) on the rates assessed on different categories of rateable land with a range of property values.
 (6) If the same source of funding is to be used in more than 1 of the years covered by the long-term plan, in order to comply with subclauses (2)﻿(a), (3), and (4) with respect to that source, it is sufficient—
   (a) to comply with those subclauses in relation to 1 of those years; and
   (b) for the funding impact statement to specify the other years in respect of which that source is to be used.
+(7) In subclause (4)﻿(da), group of water services activities and transfer agreement have the meanings given in section 4 of the Local Government (Water Services) Act 2025.
 
 ### 15A Rating base information
 A long-term plan must state, for each year covered by the plan, the projected number of rating units within the district or region of the local authority at the end of the preceding financial year.
@@ -7778,8 +7816,12 @@ In the case of a unitary authority for a district that includes 1 or more local 
     (i) how liability for the targeted rate is to be calculated; and
     (ii) the local authority's definition of a separately used or inhabited part of a rating unit, if the rate is to be calculated on that basis; and
   (d) if the targeted rate is set differentially, state the total revenue sought from each category of rateable land or the relationship between the rates set on rateable land in each category; and
+  (da) specify whether the targeted rate is set to collect revenue that—
+    (i) relates to 1 or more groups of water services activities; and
+    (ii) is being collected as an agent of a water organisation, as provided in a transfer agreement under clause 6 of Schedule 2 of the Local Government (Water Services) Act 2025; and
   (e) state whether lump sum contributions will be invited in respect of the targeted rate.
 (5) If the sources of funding include a general rate or a targeted rate, the funding impact statement must include examples of the impact of the rating proposals in subclauses (3) and (4) on the rates assessed on different categories of rateable land with a range of property values.
+(6) In subclause (4)﻿(da), group of water services activities, water organisation, and transfer agreement have the meanings given in section 4 of the Local Government (Water Services) Act 2025.
 
 ### 20A Rating base information
 An annual plan must state—
@@ -8033,6 +8075,13 @@ On the hearing of the appeal, the court, whose decision is final, may confirm or
 
 ### 2 Attribution of units of demand to developments
 For the purpose of determining in accordance with section 203(2) the maximum development contribution that may be required for a particular development or type of development, a territorial authority must demonstrate in its methodology that it has attributed units of demand to particular developments or types of development on a consistent and equitable basis.
+
+### 3 Calculations when water organisation being established
+(1) This clause applies in the period when—
+  (a) a territorial authority is establishing a water organisation under the Local Government (Water Services) Act 2025; but
+  (b) before the territorial authority amends its policy on development contributions or financial contributions under section 117(2) of that Act.
+(2) When calculating development contributions under this Act, the territorial authority may base its calculation on the capital expenditure that the authority expects the water organisation to incur after the transfer agreement takes effect.
+(3) In this clause, transfer agreement has the meaning set out in section 4 of the Local Government (Water Services) Act 2025.
 
 ## Schedule 13A — Procedure relating to development contribution objections
 
