@@ -1,5 +1,5 @@
 # Utilities Access Act 2010
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-08-27_
 
 ### 1 Title
 This Act is the Utilities Access Act 2010.
@@ -35,6 +35,7 @@ In this Act, unless the context otherwise requires,—
     (d) in relation to water and wastewater infrastructure,—
       (i) a local authority as defined in section 5 of the Local Government Act 2002; or
       (ii) a person acting on behalf of a local authority in relation to that infrastructure; or
+      (iia) a water service provider as defined in section 4 of the Local Government (Water Services) Act 2025; or
       (iii) a responsible SPV that is responsible for the construction of eligible infrastructure under the Infrastructure Funding and Financing Act 2020:
     (e) in relation to public letterboxes, a postal operator as defined in section 2(1) of the Postal Services Act 1998.
 
