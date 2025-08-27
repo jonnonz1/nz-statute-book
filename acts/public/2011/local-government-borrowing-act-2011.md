@@ -1,5 +1,5 @@
 # Local Government Borrowing Act 2011
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2025-08-27_
 
 ### 1 Title
 This Act is the Local Government Borrowing Act 2011.
@@ -75,7 +75,7 @@ Section 14 amends the Income Tax Act 2007.
 
 ### 14 Definitions
 (1) Paragraph (b) of the definition of council-controlled organisation in section YA 1 is amended by adding or the New Zealand Local Government Funding Agency Limited.
-(2) The definition of local authority in section YA 1 is amended by adding the following subparagraph:.
+(2) The definition of local authority in section YA 1 is amended by adding the following subparagraph:
   (ix) the New Zealand Local Government Funding Agency Limited while it is a council-controlled organisation within the meaning of section 6(1) of the Local Government Act 2002
 
 **Crown relationship with Funding Agency**
@@ -86,7 +86,7 @@ Section 14 amends the Income Tax Act 2007.
     (i) it is necessary or expedient in the public interest to do so; and
     (ii) it is necessary to meet an exceptional and temporary liquidity shortfall affecting the Funding Agency; and
   (b) the money is lent on commercial terms.
-(2) The Minister may lend money under subsection (1) without further appropriation than this section as long as the lending occurs not later than 10 years after the commencement of this Act.
+(2) The Minister may lend money under subsection (1) without further appropriation than this section.
 
 ### 16 No Crown guarantee for debts of Funding Agency
 (1) No debt of the Funding Agency is guaranteed by the Crown.
