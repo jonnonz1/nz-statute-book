@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2025-08-01_
+_Consolidation as at 2025-08-27_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1956,9 +1956,9 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Real Estate Agents Authority |  |  |  |  |  |
 | Social Workers Registration Board |  |  |  |  |  |
 | Sport and Recreation New Zealand |  |  |  |  | ✓ |
-| Taumata Arowai–the Water Services Regulator |  |  |  |  |  |
 | Tertiary Education Commission |  |  |  |  |  |
 | Toka Tū Ake – Natural Hazards Commission | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Water Services Authority—Taumata Arowai |  |  |  |  |  |
 | WorkSafe New Zealand |  |  |  |  | ✓ |
 
 | Name | Exemption from acquisition of financial products, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
