@@ -1,5 +1,5 @@
 # Ngāti Rangi Claims Settlement Act 2019
-_Consolidation as at 2024-12-24_
+_Consolidation as at 2025-08-27_
 
 ### 1 Title
 This Act is the Ngāti Rangi Claims Settlement Act 2019.
@@ -2261,13 +2261,16 @@ Section 109(2) applies to the following Acts:
   (ba) Fast-track Approvals Act 2024:
   (c) Local Government Act 1974:
   (d) Local Government Act 2002:
+  (da) Local Government (Water Services) Act 2025:
   (e) Marine Mammals Protection Act 1978 (in relation to the declaration of a marine mammal sanctuary, and in relation to the approval of a population management plan):
   (f) Marine Reserves Act 1971 (in relation to decisions establishing a marine reserve):
   (g) National Parks Act 1980:
   (h) New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008:
   (i) Reserves Act 1977:
   (j) Resource Management Act 1991 (in relation to preparing, varying, changing, or approving a regional policy statement, regional plan, or district plan):
-  (k) Walking Access Act 2008 (in relation to functions performed by the New Zealand Walking Access Commission).
+  (k) Walking Access Act 2008 (in relation to functions performed by the New Zealand Walking Access Commission):
+  (l) Water Services Act 2021:
+  (m) Water Services Authority—Taumata Arowai Act 2020.
 
 ### 2 Acts to which section 109(3) refers
 Section 109(3) applies to the following Acts:
