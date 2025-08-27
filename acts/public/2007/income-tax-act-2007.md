@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2025-07-25_
+_Consolidation as at 2025-08-27_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4690,7 +4690,7 @@ Exclusion: amounts received in trust
 Exclusion: certain amounts from commercial undertakings
 (4) Subsection (2) does not apply to an amount of income that—
   (a) is derived by a local authority from—
-    (i) a council-controlled organisation linked by ownership or control to the local authority, other than a council-controlled organisation operating a hospital as a charitable activity on behalf of the local authority; or
+    (i) a council-controlled organisation linked by ownership or control to the local authority, other than a council-controlled organisation operating a hospital as a charitable activity on behalf of the local authority or a water organisation whose income is exempt under section CW 55BC; or
     (ii) an organisation linked by ownership or control to the local authority that is a port company, a subsidiary of a port company, or an energy company and that would be a council-controlled organisation in the absence of section 6(4) of the Local Government Act 2002; and
   (b) is neither rates nor a dividend.
 Exclusion: local authority as port operator
@@ -5010,6 +5010,24 @@ Exempt income—if less than limit
     (iv) excluded income:
     (v) exempt income under another provision; and
   (b) the person derives in the tax year a total amount of income meeting the requirements of paragraph (a) that is less than $2,340.
+
+### CW 55BC Water organisations
+(1) An amount of income derived by a water organisation is exempt income if—
+  (a) the water organisation provides services that are only 1 or more of the following:
+    (i) water services:
+    (ii) services that are related to, or necessary for, providing water services (for example, services relating to the management or maintenance of water services networks):
+  (b) the water organisation is a company incorporated under the Companies Act 1993, and the only shareholders of the company are 1 or more of the following:
+    (i) a territorial authority:
+    (ii) a consumer trust that derives only exempt income under 1 or both of sections CW 41 and CW 42:
+  (c) the water organisation is not a company incorporated under the Companies Act 1993, and any distribution it makes is to a person who derives only exempt income.
+Meaning of water organisation
+(2) In this section and section CW 39, water organisation has the same meaning as in section 4 of the Local Government (Water Services) Act 2025.
+Meaning of water services
+(3) In this section, water services has the same meaning as in section 4 of the Local Government (Water Services) Act 2025.
+Meaning of territorial authority
+(4) In this section, territorial authority has the same meaning as in section 5(1) of the Local Government Act 2002.
+Meaning of consumer trust
+(5) In this section, consumer trust has the same meaning as in section 4 of the Local Government (Water Services) Act 2025.
 
 ### CW 55B Amounts of exempt income for partners
 A person who is a partner has an amount of exempt income to the extent to which an amount of exempt income results from the application of subpart HG (Joint venturers, partners, and partnerships) to them and their partnership.
@@ -10572,21 +10590,6 @@ Link with subpart DA
 ### DV 20 Partners
 A person who is a partner is allowed a deduction for expenditure or loss to the extent to which the deduction results from the application of subpart HG (Joint venturers, partners, and partnerships) to them and their partnership.
 
-### DZ 20B Expenditure incurred while income-earning activity interrupted by North Island flooding event
-When this section applies
-(1) This section applies for a person and an income year (the current year) before the 2028–29 income year when—
-  (a) the person has an income-earning activity in New Zealand immediately before a North Island flooding event; and
-  (b) the activity is interrupted for a period (the period of interruption) as a result of the North Island flooding event; and
-  (c) in the current year, during the period of interruption, the person incurs expenditure or loss (the interruption expenditure) in meeting an obligation relating to the income-earning activity; and
-  (d) the interruption expenditure does not meet the requirements of the general permission for the person and the income-earning activity but would do so but for the interruption; and
-  (e) the person resumes the income-earning activity in an income year (the resumption year) before the 2028–29 income year.
-Deduction for interruption expenditure
-(2) The person is allowed a deduction for the interruption expenditure.
-Timing of deduction
-(3) The deduction is allocated to the resumption year.
-Link with subpart DA
-(4) This section supplements the general permission. The general limitations still apply.
-
 ### DV 21 Losses for QCs entering partnership regime
 When this section applies
 (1) This section applies to a person when,—
@@ -11141,6 +11144,21 @@ Timing of deduction
 (3) The deduction is allocated to the resumption year.
 Link with subpart DA
 (4) This section supplements the general permission; the general limitations still apply.
+
+### DZ 20B Expenditure incurred while income-earning activity interrupted by North Island flooding event
+When this section applies
+(1) This section applies for a person and an income year (the current year) before the 2028–29 income year when—
+  (a) the person has an income-earning activity in New Zealand immediately before a North Island flooding event; and
+  (b) the activity is interrupted for a period (the period of interruption) as a result of the North Island flooding event; and
+  (c) in the current year, during the period of interruption, the person incurs expenditure or loss (the interruption expenditure) in meeting an obligation relating to the income-earning activity; and
+  (d) the interruption expenditure does not meet the requirements of the general permission for the person and the income-earning activity but would do so but for the interruption; and
+  (e) the person resumes the income-earning activity in an income year (the resumption year) before the 2028–29 income year.
+Deduction for interruption expenditure
+(2) The person is allowed a deduction for the interruption expenditure.
+Timing of deduction
+(3) The deduction is allocated to the resumption year.
+Link with subpart DA
+(4) This section supplements the general permission. The general limitations still apply.
 
 ### DZ 21 Transfer in 2013–14 income year of assets to which subpart DG applies
 When this section applies
@@ -44878,6 +44896,7 @@ In this Act, unless the context requires otherwise,—
     (b) a resident imputation subgroup:
     (c) a consolidated group, no member of which is a member of an imputation group
   - **consolidation rules** means the provisions listed in section FM 2(2) (Consolidation rules)
+  - **consumer trust** is defined in section CW 55BC (Water organisations) for the purposes of that section
   - **contaminant** means a contaminant as defined in section 2(1) of the Resource Management Act 1991
   - **continental shelf** is defined in the Continental Shelf Act 1964
   - **continuity period** —
@@ -48013,6 +48032,7 @@ In this Act, unless the context requires otherwise,—
   - **terminating share** means a share in a building society that is included in a group of shares, if the group is to terminate—
     (a) at the end of a period specified on the issue of the shares; or
     (b) on the attainment of a result specified on the issue of the shares
+  - **territorial authority** is defined in section CW 55BC (Water organisations) for the purposes of that section
   - **tertiary education institution** means an institution that is—
     (a) established or continued under subpart 3 or 4 of Part 4 or Part 4A of the Education and Training Act 2020 and has not been disestablished under that Act; and
     (b) not carried on for the private pecuniary profit of any individual
@@ -48196,6 +48216,8 @@ In this Act, unless the context requires otherwise,—
     (bb) means, for a person and a limited partnership that is treated as a company under section YB 14(4) (Tripartite relationship) and a time, and for the purposes of section YB 14, the partnership share the person has in a right, obligation, or other property, status, or thing of that limited partnership:
     (bc) means, for a person and a limited partnership that is treated as a company under section YB 16B (Limited partnerships treated as companies) and a time, and for the purposes of sections YB 2 and YB 3 (which relate to associated persons) and YC 4 (Look-through rule for corporate shareholders), the partnership share the person has in a right, obligation, or other property, status, or thing of that limited partnership:
     (c) in section YC 13(4) and (5) (Corporate spin-outs), means, for a person and a company and a time, the percentage voting interest that the person is treated as holding in the company under section YC 2 (Voting interests), as modified by section YC 13(7)
+  - **water organisation** is defined in section CW 55BC (Water organisations) for the purposes of that section and section CW 39 (Local authorities)
+  - **water services** is defined in section CW 55BC (Water organisations) for the purposes of that section
   - **WFF tax credit** means Working for Families tax credit and is defined in section MA 8 (Some definitions for family scheme)
   - **wholly-owned group** has the same meaning as
   - **wholly-owned group of companies** is defined in section IC 4(1) (Common ownership: wholly-owned groups of companies)
