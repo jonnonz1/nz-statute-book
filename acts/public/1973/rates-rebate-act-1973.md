@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-08-27_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -45,11 +45,13 @@ _Consolidation as at 2025-07-01_
     (a) a rating unit within the meaning of sections 5B and 5C of the Rating Valuations Act 1998; or
     (b) a separate rating area within the meaning of section 5 of the Local Government (Rating) Act 2002
   - **ratepayer** has the meaning given to that term in section 10 of the Local Government (Rating) Act 2002
-  - **rates** , in relation to a residential property, means a general rate or targeted rate or uniform annual general charge that is assessed on the property, but does not include—
-    (a)
-    (b) the amount of a discount that is allowed under section 55(3) or section 56(4) of the Local Government (Rating) Act 2002, whether or not the discount has been allowed to the ratepayer in question; or
-    (c) the amount of a penalty added under section 57 of the Local Government (Rating) Act 2002; or
-    (d) rates for which judgment has been entered in a court
+  - **rates** , in relation to a residential property, means—
+    (a) a general rate or targeted rate or uniform annual general charge that is assessed on the property, but does not include—
+      (i) the amount of a discount that is allowed under section 55(3) or 56(4) of the Local Government (Rating) Act 2002, whether or not the discount has been allowed to the ratepayer in question; or
+      (ii) the amount of a penalty added under section 57 of the Local Government (Rating) Act 2002; or
+      (iii) rates for which judgment has been entered in a court; and
+    (b) charges set and collected under section 86, 87, or 88 of the Local Government (Water Services) Act 2025; and
+    (c) charges set and collected by Watercare Services Limited for providing water supply services and wastewater services under the Local Government (Water Services) Act 2025
   - **rates rebate** or includes a refund of rates under section 6
   - **rating year** means a period of 12 months beginning on 1 July
   - **resident** has the same meaning as in section 5 of the Retirement Villages Act 2003
