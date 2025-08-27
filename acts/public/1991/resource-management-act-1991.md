@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2025-08-21_
+_Consolidation as at 2025-08-27_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -201,6 +201,7 @@ _Consolidation as at 2025-08-21_
     (j) a navigation installation as defined in section 5 of the Civil Aviation Act 2023:
     (k) facilities for the loading or unloading of cargo or passengers carried by sea, including a port related commercial undertaking as defined in section 2(1) of the Port Companies Act 1988:
     (l) anything described as a network utility operation in regulations made for the purposes of the definition of network utility operator in section 166
+  - **infrastructure design solution** means an infrastructure design solution made under section 139C of the Water Services Act 2021
   - **infringed boundary** , in relation to a boundary activity, has the meaning given in section 87AAB
   - **intensification planning instrument** or has the meaning set out in section 80E(1)
   - **intensification streamlined planning process** or means the planning process set out in subpart 5A of Part 5 and Part 6 of Schedule 1
@@ -379,6 +380,7 @@ _Consolidation as at 2025-08-21_
     (b) a tier 2 territorial authority that is required by regulations made under section 80I(1) to prepare and notify an IPI:
     (c) a tier 3 territorial authority that is required by regulations made under section 80K(1) to prepare and notify an IPI
   - **State highway** has the same meaning as in section 2(1) of the Government Roading Powers Act 1989
+  - **stormwater environmental performance standard** means a stormwater environmental performance standard made under section 139A of the Water Services Act 2021
   - **structure** means any building, equipment, device, or other facility made by people and which is fixed to land; and includes any raft
   - **subdivision consent** has the meaning set out in section 87(b)
   - **subdivision of land** and have the meanings set out in section 218
@@ -429,15 +431,16 @@ _Consolidation as at 2025-08-21_
   - **unit plan** has the same meaning as in section 5(1) of the Unit Titles Act 2010
   - **unitary authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **use** ,—
-    (a) in sections 9, 10, 10A, 10B, 81(2), 176(1)﻿(b)﻿(i), and 193(a), means—
+    (a) in sections 9, 10, 10A, 10B, 44B, 81(2), 176(1)﻿(b)﻿(i), and 193(a), means—
       (i) alter, demolish, erect, extend, place, reconstruct, remove, or use a structure or part of a structure in, on, under, or over land:
       (ii) drill, excavate, or tunnel land or disturb land in a similar way:
       (iii) damage, destroy, or disturb the habitats of plants or animals in, on, or under land:
       (iv) deposit a substance in, on, or under land:
       (v) any other use of land; and
-    (b) in sections 9, 10A, 81(2), 176(1)﻿(b)﻿(i), and 193(a), also means to enter onto or pass across the surface of water in a lake or river
+    (b) in sections 9, 10A, 44B, 81(2), 176(1)﻿(b)﻿(i), and 193(a), also means to enter onto or pass across the surface of water in a lake or river
   - **variation** has the meaning given in section 43AA
   - **waste or other matter** means materials and substances of any kind, form, or description
+  - **wastewater environmental performance standard** means a wastewater environmental performance standard made under section 138 of the Water Services Act 2021
   - **water** —
     (a) means water in all its physical forms whether flowing or not and whether over or under the ground:
     (b) includes fresh water, coastal water, and geothermal water:
@@ -641,14 +644,17 @@ In achieving the purpose of this Act, all persons exercising functions and power
   (a) is expressly allowed by a resource consent; or
   (b) is allowed by section 10; or
   (c) is an activity allowed by section 10A; or
-  (d) is an activity allowed by section 20A.
+  (d) is an activity allowed by section 20A; or
+  (e) is an activity expressly allowed by a wastewater environmental performance standard, a stormwater environmental performance standard, or an infrastructure design solution.
 (2) No person may use land in a manner that contravenes a regional rule unless the use—
   (a) is expressly allowed by a resource consent; or
-  (b) is an activity allowed by section 20A.
+  (b) is an activity allowed by section 20A; or
+  (c) is an activity expressly allowed by a wastewater environmental performance standard, a stormwater environmental performance standard, or an infrastructure design solution.
 (3) No person may use land in a manner that contravenes a district rule unless the use—
   (a) is expressly allowed by a resource consent; or
   (b) is allowed by section 10; or
-  (c) is an activity allowed by section 10A.
+  (c) is an activity allowed by section 10A; or
+  (d) is an activity expressly allowed by a wastewater environmental performance standard, a stormwater environmental performance standard, or an infrastructure design solution.
 (4) No person may contravene section 176, 178, 193, or 194 unless the person obtains the prior written consent of the requiring authority or the heritage protection authority.
 (5) This section applies to overflying by aircraft only to the extent to which noise emission controls for airports have been prescribed by a national environmental standard or set by a territorial authority.
 (6) This section does not apply to use of the coastal marine area.
@@ -710,7 +716,7 @@ In achieving the purpose of this Act, all persons exercising functions and power
 **Coastal marine area**
 
 ### 12 Restrictions on use of coastal marine area
-(1) No person may, in the coastal marine area,—unless expressly allowed by a national environmental standard, a rule in a regional coastal plan as well as a rule in a proposed regional coastal plan for the same region (if there is one), or a resource consent.
+(1) No person may, in the coastal marine area,—unless expressly allowed by a national environmental standard, a wastewater environmental performance standard, a stormwater environmental performance standard, an infrastructure design solution, a rule in a regional coastal plan as well as a rule in a proposed regional coastal plan for the same region (if there is one), or a resource consent.
   (a) reclaim or drain any foreshore or seabed; or
   (b) erect, reconstruct, place, alter, extend, remove, or demolish any structure or any part of a structure that is fixed in, on, under, or over any foreshore or seabed; or
   (c) disturb any foreshore or seabed (including by excavating, drilling, or tunnelling) in a manner that has or is likely to have an adverse effect on the foreshore or seabed (other than for the purpose of lawfully harvesting any plant or animal); or
@@ -718,15 +724,15 @@ In achieving the purpose of this Act, all persons exercising functions and power
   (e) destroy, damage, or disturb any foreshore or seabed (other than for the purpose of lawfully harvesting any plant or animal) in a manner that has or is likely to have an adverse effect on plants or animals or their habitat; or
   (f) introduce or plant any exotic or introduced plant in, on, or under the foreshore or seabed; or
   (g) destroy, damage, or disturb any foreshore or seabed (other than for the purpose of lawfully harvesting any plant or animal) in a manner that has or is likely to have an adverse effect on historic heritage—
-(2) No person may, unless expressly allowed by a national environmental standard, a rule in a regional coastal plan or in any proposed regional coastal plan for the same region, or a resource consent,—
+(2) No person may, unless expressly allowed by a national environmental standard, a wastewater environmental performance standard, a stormwater environmental performance standard, an infrastructure design solution, a rule in a regional coastal plan or in any proposed regional coastal plan for the same region, or a resource consent,—
   (a) occupy any part of the common marine and coastal area; or
   (b) remove any sand, shingle, shell, or other natural material from that area.
-(3) Without limiting subsection (1), no person may carry out any activity—in a manner that contravenes a national environmental standard, a rule in a regional coastal plan, or a rule in a proposed regional coastal plan for the same region (if there is one) unless the activity is expressly allowed by a resource consent or allowed by section 20A (certain existing lawful activities allowed).
+(3) Without limiting subsection (1), no person may carry out any activity—in a manner that contravenes a national environmental standard, a wastewater environmental performance standard, a stormwater environmental performance standard, an infrastructure design solution, a rule in a regional coastal plan, or a rule in a proposed regional coastal plan for the same region (if there is one) unless the activity is expressly allowed by a resource consent or allowed by section 20A (certain existing lawful activities allowed).
   (a) in, on, under, or over any coastal marine area; or
   (b) in relation to any natural and physical resources contained within any coastal marine area,—
 (4) In this Act,—
   (a)
-  (b) remove any sand, shingle, shell, or other natural material means to take any of that material in such quantities or in such circumstances that, but for the national environmental standard or the rule in the regional coastal plan or the holding of a resource consent, a licence or profit à prendre to do so would be necessary.
+  (b) remove any sand, shingle, shell, or other natural material means to take any of that material in such quantities or in such circumstances that, but for the national environmental standard, the wastewater environmental performance standard, the stormwater environmental performance standard, the infrastructure design solution, or the rule in the regional coastal plan or the holding of a resource consent, a licence or profit à prendre to do so would be necessary.
 (5) This section applies to overflying by aircraft only to the extent to which noise emission controls for airports within the coastal marine area have been prescribed by a national environmental standard or set by a regional council.
 (6) This section shall not apply to anything to which section 15A or 15B applies.
 (7) This section does not prohibit a regional council from removing structures from the common marine and coastal area, in accordance with the requirements of section 19(3) to (3C) of the Marine and Coastal Area (Takutai Moana) Act 2011, unless those structures are permitted by a coastal permit.
@@ -740,13 +746,13 @@ In achieving the purpose of this Act, all persons exercising functions and power
 **River and lake beds**
 
 ### 13 Restriction on certain uses of beds of lakes and rivers
-(1) No person may, in relation to the bed of any lake or river,—unless expressly allowed by a national environmental standard, a rule in a regional plan as well as a rule in a proposed regional plan for the same region (if there is one), or a resource consent.
+(1) No person may, in relation to the bed of any lake or river,—unless expressly allowed by a national environmental standard, a wastewater environmental performance standard, a stormwater environmental performance standard, an infrastructure design solution, a rule in a regional plan as well as a rule in a proposed regional plan for the same region (if there is one), or a resource consent.
   (a) use, erect, reconstruct, place, alter, extend, remove, or demolish any structure or part of any structure in, on, under, or over the bed; or
   (b) excavate, drill, tunnel, or otherwise disturb the bed; or
   (c) introduce or plant any plant or any part of any plant (whether exotic or indigenous) in, on, or under the bed; or
   (d) deposit any substance in, on, or under the bed; or
   (e) reclaim or drain the bed—
-(2) No person may do an activity described in subsection (2A) in a manner that contravenes a national environmental standard or a regional rule unless the activity—
+(2) No person may do an activity described in subsection (2A) in a manner that contravenes a national environmental standard, a wastewater environmental performance standard, a stormwater environmental performance standard, an infrastructure design solution, or a regional rule unless the activity—
   (a) is expressly allowed by a resource consent; or
   (b) is an activity allowed by section 20A.
 (2A) The activities are—
@@ -760,7 +766,7 @@ In achieving the purpose of this Act, all persons exercising functions and power
 **Water**
 
 ### 14 Restrictions relating to water
-(1) No person may take, use, dam, or divert any open coastal water, or take or use any heat or energy from any open coastal water, in a manner that contravenes a national environmental standard or a regional rule unless the activity—
+(1) No person may take, use, dam, or divert any open coastal water, or take or use any heat or energy from any open coastal water, in a manner that contravenes a national environmental standard, a wastewater environmental performance standard, a stormwater environmental performance standard, an infrastructure design solution, or a regional rule unless the activity—
   (a) is expressly allowed by a resource consent; or
   (b) is an activity allowed by section 20A.
 (2) No person may take, use, dam, or divert any of the following, unless the taking, using, damming, or diverting is allowed by subsection (3):
@@ -768,7 +774,7 @@ In achieving the purpose of this Act, all persons exercising functions and power
   (b) heat or energy from water other than open coastal water; or
   (c) heat or energy from the material surrounding geothermal water.
 (3) A person is not prohibited by subsection (2) from taking, using, damming, or diverting any water, heat, or energy if—
-  (a) the taking, using, damming, or diverting is expressly allowed by a national environmental standard, a rule in a regional plan as well as a rule in a proposed regional plan for the same region (if there is one), or a resource consent; or
+  (a) the taking, using, damming, or diverting is expressly allowed by a national environmental standard, a wastewater environmental performance standard, a stormwater environmental performance standard, an infrastructure design solution, a rule in a regional plan as well as a rule in a proposed regional plan for the same region (if there is one), or a resource consent; or
   (b) in the case of fresh water, the water, heat, or energy is required to be taken or used for—and the taking or use does not, or is not likely to, have an adverse effect on the environment; or
     (i) an individual's reasonable domestic needs; or
     (ii) the reasonable needs of a person’s animals for drinking water,—
@@ -784,13 +790,14 @@ In achieving the purpose of this Act, all persons exercising functions and power
   (b) contaminant onto or into land in circumstances which may result in that contaminant (or any other contaminant emanating as a result of natural processes from that contaminant) entering water; or
   (c) contaminant from any industrial or trade premises into air; or
   (d) contaminant from any industrial or trade premises onto or into land—
-unless the discharge is expressly allowed by a national environmental standard or other regulations, a rule in a regional plan as well as a rule in a proposed regional plan for the same region (if there is one), or a resource consent.
-(2) No person may discharge a contaminant into the air, or into or onto land, from a place or any other source, whether moveable or not, in a manner that contravenes a national environmental standard unless the discharge—
+unless the discharge is expressly allowed by a national environmental standard or other regulations, a wastewater environmental performance standard, a stormwater environmental performance standard, an infrastructure design solution, a rule in a regional plan as well as a rule in a proposed regional plan for the same region (if there is one), or a resource consent.
+(2) No person may discharge a contaminant into the air, or into or onto land, from a place or any other source, whether moveable or not, in a manner that contravenes a national environmental standard, a wastewater environmental performance standard, a stormwater environmental performance standard, or an infrastructure design solution unless the discharge—
   (a) is expressly allowed by other regulations; or
   (b) is expressly allowed by a resource consent; or
   (c) is an activity allowed by section 20A.
 (2A) No person may discharge a contaminant into the air, or into or onto land, from a place or any other source, whether moveable or not, in a manner that contravenes a regional rule unless the discharge—
   (a) is expressly allowed by a national environmental standard or other regulations; or
+  (aa) is expressly allowed by a wastewater environmental performance standard, a stormwater environmental performance standard, or an infrastructure design solution; or
   (b) is expressly allowed by a resource consent; or
   (c) is an activity allowed by section 20A.
 (3) This section shall not apply to anything to which section 15A or section 15B applies.
@@ -2028,6 +2035,31 @@ A national environmental standard for an activity that is a discharge may descri
 (7) Every local authority and consent authority must observe national environmental standards.
 (8) Every local authority and consent authority must enforce the observance of national environmental standards to the extent to which their powers enable them to do so.
 
+**Designations**
+
+### 44B Relationship between environmental performance standards, infrastructure design solutions, and designations
+(1) A designation that exists when a stormwater environmental performance standard, a wastewater environmental performance standard, or an infrastructure design solution is made prevails over the environmental performance standard or the infrastructure design solution until the earlier of the following:
+  (a) the designation lapses:
+  (b) the designation is altered under section 181 by the alteration of conditions in it to which the environmental performance standard or infrastructure design solution is relevant.
+(2) If the conditions of a designation are altered as described in subsection (1)﻿(b), the environmental performance standard or infrastructure design solution—
+  (a) applies to the altered conditions; and
+  (b) does not apply to the unaltered conditions.
+(3) Despite subsection (1), a stormwater environmental performance standard, a wastewater environmental performance standard, or an infrastructure design solution prevails over a designation that requires an outline plan if, when the environmental performance standard or infrastructure design solution is made,—
+  (a) the designation exists; and
+  (b) no outline plan for the designation has completed the process described in section 176A.
+(4) A stormwater environmental performance standard, a wastewater environmental performance standard, or an infrastructure design solution that exists when a designation is made prevails over the designation.
+(5) A use is not required to comply with a stormwater environmental performance standard, a wastewater environmental performance standard, or an infrastructure design solution if—
+  (a) the use was lawfully established by way of a designation that has been removed; and
+  (b) the effects of the use, in character, intensity, and scale, are the same as or similar to those that existed before the designation was removed; and
+  (c) the environmental performance standard or infrastructure design solution is made—
+    (i) after the designation was made; and
+    (ii) before or after the designation is removed.
+(6) Work under a designation is not required to comply with a stormwater environmental performance standard, a wastewater environmental performance standard, or an infrastructure design solution if the work has come under the designation through the following sequence of events:
+  (a) the work is made; and
+  (b) the environmental performance standard or infrastructure design solution is made; and
+  (c) the designation is applied to the work.
+(7) In this section, conditions includes a condition about the physical boundaries of a designation.
+
 **National policy statements**
 
 ### 45 Purpose of national policy statements (other than New Zealand coastal policy statements)
@@ -2334,6 +2366,77 @@ Other changes that may be directed
 On and after the commencement of this section and until 31 December 2027, the following cease to apply:
   (a) the obligations described in section 58I(2), (4), (7), and (8); and
   (b) the time frames applying under section 58J.
+
+**Wastewater and stormwater environmental performance standards**
+
+### 58JB Relationship between wastewater and stormwater environmental performance standards and other instruments
+(1) A wastewater environmental performance standard or a stormwater environmental performance standard prevails over a rule.
+(2) Subsection (1) applies whether the rule is more or less stringent than the wastewater environmental performance standard or the stormwater environmental performance standard.
+(3) If there is any conflict or duplication between a wastewater environmental performance standard or a stormwater environmental performance standard and a document listed in subsection (4), the environmental performance standard prevails.
+(4) The documents are—
+  (a) a national policy statement:
+  (b) a New Zealand coastal policy statement:
+  (c) a national environmental standard:
+  (d) a regional policy statement:
+  (e) a regional plan:
+  (f) a district plan.
+(5) However, if anything in a document listed in subsection (4)﻿(d), (e), or (f) (the relevant document) conflicts with or duplicates anything in a wastewater environmental performance standard or a stormwater environmental performance standard, then, to the extent that the conflict or duplication results from the relevant document giving effect to Te Ture Whaimana o Te Awa o Waikato—the Vision and Strategy for the Waikato River,—
+  (a) subsection (3) does not apply; and
+  (b) the relevant document prevails.
+(6) If a local authority’s plan or proposed plan contains a rule that conflicts with or duplicates a provision in a wastewater environmental performance standard or a stormwater environmental performance standard, the local authority must amend the plan or proposed plan to remove the conflict or duplication—
+  (a) without using the process in Schedule 1; and
+  (b) as soon as practicable after the date on which the standard comes into force.
+(7) Every local authority and consent authority must—
+  (a) enforce the observance of stormwater environmental performance standards and wastewater environmental performance standards—
+    (i) within the limits specified in subsections (5) and (8); and
+    (ii) to the extent to which their powers enable them to do so; and
+  (b) observe stormwater environmental performance standards and wastewater environmental performance standards.
+(8) However, subsections (1), (2), and (6) do not apply if—
+  (a) the rule gives effect to Te Ture Whaimana o Te Awa o Waikato—the Vision and Strategy for the Waikato River; and
+  (b) the rule is more stringent than the wastewater environmental performance standard or the stormwater environmental performance standard.
+
+### 58JC Plan may permit effects that wastewater or stormwater environmental performance standard does not deal with
+(1) Subsection (2) applies if a wastewater environmental performance standard or a stormwater environmental performance standard provides that—
+  (a) an activity is permitted; or
+  (b) an activity does not require a resource consent.
+(2) A plan may permit, and impose conditions that deal with, any effects of the activity that differ from those regulated or managed in the environmental performance standard.
+(3) However, subsection (2) does not apply if the environmental performance standard provides otherwise.
+
+**Infrastructure design solutions**
+
+### 58JD Relationship between infrastructure design solutions and other instruments
+(1) An infrastructure design solution prevails over a rule.
+(2) Subsection (1) applies whether the rule is more or less stringent than the infrastructure design solution.
+(3) However, a rule prevails over the infrastructure design solution, and subsections (1) and (2) do not apply, if—
+  (a) the rule is included in a district plan or regional plan to give effect to Te Ture Whaimana o Te Awa o Waikato—the Vision and Strategy for the Waikato River; and
+  (b) the rule is more stringent than the infrastructure design solution.
+(4) If there is any conflict or duplication between an infrastructure design solution and a document listed in subsection (5), the infrastructure design solution prevails.
+(5) The documents are—
+  (a) a national policy statement:
+  (b) a New Zealand coastal policy statement:
+  (c) a national environmental standard:
+  (d) a regional policy statement:
+  (e) a regional plan:
+  (f) a district plan.
+(6) However, if anything in a document listed in subsection (5)﻿(d), (e), or (f) (the relevant document) conflicts with or duplicates anything in an infrastructure design solution, then, to the extent that the conflict or duplication results from the relevant document giving effect to Te Ture Whaimana o Te Awa o Waikato—the Vision and Strategy for the Waikato River,—
+  (a) subsection (4) does not apply; and
+  (b) the relevant document prevails.
+(7) If a local authority’s plan or proposed plan contains a rule that conflicts with or duplicates a provision in an infrastructure design solution, the local authority must amend the plan or proposed plan to remove the inconsistency or duplication—
+  (a) without using the process in Schedule 1; and
+  (b) as soon as practicable after the date on which the standard comes into force.
+(8) However, subsection (7) does not apply if—
+  (a) the rule gives effect to Te Ture Whaimana o Te Awa o Waikato—the Vision and Strategy for the Waikato River; and
+  (b) the rule is more stringent than the infrastructure design solution.
+
+### 58JE Plan may permit effects that infrastructure design solution does not deal with
+(1) Subsection (2) applies if an infrastructure design solution provides that—
+  (a) an activity is permitted; or
+  (b) an activity does not require a resource consent.
+(2) A plan may permit, and impose conditions that deal with, any effects of the activity that differ from those regulated or managed in the infrastructure design solution.
+(3) However, subsection (2) does not apply if the infrastructure design solution provides otherwise.
+
+### 58JF References to infrastructure design solutions
+In this Act, each reference to an infrastructure design solution must be read, unless the context otherwise requires, as referring only to an infrastructure design solution that the relevant person has decided to rely on.
 
 **Publication of documents**
 
@@ -3822,17 +3925,17 @@ In this Act, the term resource consent means any of the following:
   (e) a consent to do something (other than in a coastal marine area) that otherwise would contravene section 15 (in this Act called a discharge permit).
 
 ### 87A Classes of activities
-(1) If an activity is described in this Act, regulations (including any national environmental standard), a plan, or a proposed plan as a permitted activity, a resource consent is not required for the activity if it complies with the requirements, conditions, and permissions, if any, specified in the Act, regulations, plan, or proposed plan.
-(2) If an activity is described in this Act, regulations (including any national environmental standard), a plan, or a proposed plan as a controlled activity, a resource consent is required for the activity and—
+(1) If an activity is described in this Act, regulations, a plan, or a proposed plan as a permitted activity, a resource consent is not required for the activity if it complies with the requirements, conditions, and permissions, if any, specified in the Act, regulations, plan, or proposed plan.
+(2) If an activity is described in this Act, regulations, a plan, or a proposed plan as a controlled activity, a resource consent is required for the activity and—
   (a) the consent authority must grant a resource consent except if—
     (i) section 106 or 106A applies; or
     (ii) section 55(2) of the Marine and Coastal Area (Takutai Moana) Act 2011 applies; and
   (b) the consent authority's power to impose conditions on the resource consent is restricted to the matters over which control is reserved (whether in its plan or proposed plan, a national environmental standard, or otherwise); and
   (c) the activity must comply with the requirements, conditions, and permissions, if any, specified in the Act, regulations, plan, or proposed plan.
-(3) If an activity is described in this Act, regulations (including any national environmental standard), a plan, or a proposed plan as a restricted discretionary activity, a resource consent is required for the activity and—
+(3) If an activity is described in this Act, regulations, a plan, or a proposed plan as a restricted discretionary activity, a resource consent is required for the activity and—
   (a) the consent authority's power to decline a consent, or to grant a consent and to impose conditions on the consent, is restricted to the matters over which discretion is restricted (whether in its plan or proposed plan, a national environmental standard, or otherwise); and
   (b) if granted, the activity must comply with the requirements, conditions, and permissions, if any, specified in the Act, regulations, plan, or proposed plan.
-(4) If an activity is described in this Act, regulations (including any national environmental standard), a plan, or a proposed plan as a discretionary activity, a resource consent is required for the activity and—
+(4) If an activity is described in this Act, regulations, a plan, or a proposed plan as a discretionary activity, a resource consent is required for the activity and—
   (a) the consent authority may decline the consent or grant the consent with or without conditions; and
   (b) if granted, the activity must comply with the requirements, conditions, and permissions, if any, specified in the Act, regulations, plan, or proposed plan.
 (5) If an activity is described in this Act, regulations (including a national environmental standard), a plan, or a proposed plan as a non-complying activity, a resource consent is required for the activity and the consent authority may—
@@ -3842,6 +3945,11 @@ In this Act, the term resource consent means any of the following:
   (a) no application for a resource consent may be made for the activity; and
   (b) the consent authority must not grant a consent for it.
 (7) However, subsection (6) does not apply to a concurrent application lodged under subpart 4 of Part 7A.
+(8) In this section, regulations includes—
+  (a) any national environmental standard; and
+  (b) any stormwater environmental performance standard; and
+  (c) any wastewater environmental performance standard; and
+  (d) any infrastructure design solution.
 
 ### 87B Certain activities to be treated as discretionary activities or prohibited activities
 (1) An application for a resource consent for an activity must, with the necessary modifications, be treated as an application for a resource consent for a discretionary activity if—
@@ -4324,7 +4432,12 @@ Step 2: if not required by step 1, public notification precluded in certain circ
   (a) if the answer is yes, go to step 4 (step 3 does not apply); and
   (b) if the answer is no, go to step 3.
 (5) The criteria for step 2 are as follows:
-  (a) the application is for a resource consent for 1 or more activities, and each activity is subject to a rule or national environmental standard that precludes public notification:
+  (a) the application is for a resource consent for 1 or more activities and public notification is precluded for each activity by 1 or more of the following:
+    (i) a rule:
+    (ii) a national environmental standard:
+    (iii) an infrastructure design solution:
+    (iv) a stormwater environmental performance standard:
+    (v) a wastewater environmental performance standard:
   (b) the application is for a resource consent for 1 or more of the following, but no other, activities:
     (i) a controlled activity:
     (ii)
@@ -4358,7 +4471,12 @@ Step 2: if not required by step 1, limited notification precluded in certain cir
   (a) if the answer is yes, go to step 4 (step 3 does not apply); and
   (b) if the answer is no, go to step 3.
 (6) The criteria for step 2 are as follows:
-  (a) the application is for a resource consent for 1 or more activities, and each activity is subject to a rule or national environmental standard that precludes limited notification:
+  (a) the application is for a resource consent for 1 or more activities and public notification is precluded for each activity by 1 or more of the following:
+    (i) a rule:
+    (ii) a national environmental standard:
+    (iii) an infrastructure design solution:
+    (iv) a stormwater environmental performance standard:
+    (v) a wastewater environmental performance standard:
   (b) the application is for a controlled activity (but no other activities) that requires a resource consent under a district plan (other than a subdivision of land).
 Step 3: if not precluded by step 2, certain other affected persons must be notified
 (7) In the case of a boundary activity, determine in accordance with section 95E whether an owner of an allotment with an infringed boundary is an affected person.
@@ -4566,6 +4684,9 @@ A hearing need not be held in accordance with this Act in respect of an applicat
   (ab) any measure proposed or agreed to by the applicant for the purpose of ensuring positive effects on the environment to offset or compensate for any adverse effects on the environment that will or may result from allowing the activity; and
   (b) any relevant provisions of—
     (i) a national environmental standard:
+    (ia) a wastewater environmental performance standard:
+    (ib) a stormwater environmental performance standard:
+    (ic) an infrastructure design solution:
     (ii) other regulations:
     (iii) a national policy statement:
     (iv) a New Zealand coastal policy statement:
@@ -4576,12 +4697,26 @@ A hearing need not be held in accordance with this Act in respect of an applicat
 (2A) When considering an application affected by section 124 or 165ZH(1)﻿(c), the consent authority must have regard to the value of the investment of the existing consent holder.
 (2B) When considering a resource consent application for an activity in an area within the scope of a planning document prepared by a customary marine title group under section 85 of the Marine and Coastal Area (Takutai Moana) Act 2011, a consent authority must have regard to any resource management matters set out in that planning document.
 (2C) Subsection (2B) applies until such time as the regional council, in the case of a consent authority that is a regional council, has completed its obligations in relation to its regional planning documents under section 93 of the Marine and Coastal Area (Takutai Moana) Act 2011.
-(2D) When considering a resource consent application that relates to a wastewater network, as defined in section 5 of the Water Services Act 2021, a consent authority—
-  (a) must not grant the consent contrary to a wastewater environmental performance standard made under section 138 of that Act; and
-  (b) must include, as a condition of granting the consent, requirements that are no less restrictive than is necessary to give effect to the wastewater environmental performance standard.
+(2D) When considering a resource consent application that relates to a wastewater network, as defined in section 5 of the Water Services Act 2021,—
+  (a) a consent authority must not grant the consent contrary to—
+    (i) a wastewater environmental performance standard made under section 138 of that Act; or
+    (ii) an infrastructure design solution; and
+  (b) a consent authority must include, as a condition of granting the consent, requirements that are no more or less restrictive than is necessary to give effect to—
+    (i) the wastewater environmental performance standard; or
+    (ii) the infrastructure design solution.
+(2DA) However, subsection (2D)—
+  (a) does not apply if an exception under a wastewater environmental performance standard or an infrastructure design solution applies; and
+  (b) except as expressly otherwise provided in this Act, does not prevent a consent authority from including, as a condition of granting a resource consent, a requirement that relates to any activity, effect, or other matter that a wastewater environmental standard or an infrastructure design solution does not regulate or manage.
 (2E) When considering a resource consent application that relates to a stormwater network, as defined in section 5 of the Water Services Act 2021, a consent authority—
-  (a) must not grant the consent contrary to a stormwater environmental performance standard made under section 139A of that Act; and
-  (b) must include, as a condition of granting the consent, requirements that are no less restrictive than is necessary to give effect to the stormwater environmental performance standard.
+  (a) must not grant the consent contrary to—
+    (i) a stormwater environmental performance standard made under section 139A of that Act; or
+    (ii) an infrastructure design solution; and
+  (b) must include, as a condition of granting the consent, requirements that are no more or less restrictive than is necessary to give effect to—
+    (i) the stormwater environmental performance standard; or
+    (ii) the infrastructure design solution.
+(2EAAA) However, subsection (2E)—
+  (a) does not apply if an exception under a stormwater environmental performance standard or an infrastructure design solution applies; and
+  (b) except as expressly otherwise provided in this Act, does not prevent a consent authority from including, as a condition of granting a resource consent, a requirement that relates to any activity, effect, or other matter that a stormwater environmental standard or an infrastructure design solution does not regulate or manage.
 (2EA) When considering a resource consent application, a consent authority may have regard to any previous or current abatement notices, enforcement orders, infringement notices, or convictions under this Act received by the applicant, if the applicant is not a natural person or, if the applicant is a natural person, received by the applicant within the previous 7 years.
 (2F) When considering an application and any submissions received, a consent authority must not have regard to clause 1.3(5) or 2.1 of the NPSFM 2020 (which relates to the hierarchy of obligations in the NPSFM 2020).
 (2G) Subsection (2F) applies despite subsection (1)﻿(b)﻿(iii) and any other provision of this Act.
@@ -4610,7 +4745,7 @@ A hearing need not be held in accordance with this Act in respect of an applicat
 After considering an application for a resource consent for a controlled activity, a consent authority—
   (a) must grant the resource consent, unless it has insufficient information to determine whether or not the activity is a controlled activity; and
   (b) may impose conditions on the consent under section 108 only for those matters—
-    (i) over which control is reserved in national environmental standards or other regulations; or
+    (i) over which control is reserved in national environmental standards, wastewater environmental performance standards, stormwater environmental performance standards, infrastructure design solutions, or other regulations; or
     (ii) over which it has reserved its control in its plan or proposed plan.
 
 ### 104B Determination of applications for discretionary or non-complying activities
@@ -4620,11 +4755,11 @@ After considering an application for a resource consent for a discretionary acti
 
 ### 104C Determination of applications for restricted discretionary activities
 (1) When considering an application for a resource consent for a restricted discretionary activity, a consent authority must consider only those matters over which—
-  (a) a discretion is restricted in national environmental standards or other regulations:
+  (a) a discretion is restricted in national environmental standards, wastewater environmental performance standards, stormwater environmental performance standards, infrastructure design solutions, or other regulations:
   (b) it has restricted the exercise of its discretion in its plan or proposed plan.
 (2) The consent authority may grant or refuse the application.
 (3) However, if it grants the application, the consent authority may impose conditions under section 108 only for those matters over which—
-  (a) a discretion is restricted in national environmental standards or other regulations:
+  (a) a discretion is restricted in national environmental standards, wastewater environmental performance standards, stormwater environmental performance standards, infrastructure design solutions, or other regulations:
   (b) it has restricted the exercise of its discretion in its plan or proposed plan.
 
 ### 104D Particular restrictions for non-complying activities
@@ -4635,6 +4770,21 @@ After considering an application for a resource consent for a discretionary acti
     (ii) the relevant proposed plan, if there is a proposed plan but no relevant plan in respect of the activity; or
     (iii) both the relevant plan and the relevant proposed plan, if there is both a plan and a proposed plan in respect of the activity.
 (2) To avoid doubt, section 104(2) applies to the determination of an application for a non-complying activity.
+
+### 104DA Circumstances in which consent authority may grant resource consent contrary to standards and solutions
+(1) Despite the provisions listed in subsection (2), a consent authority may grant a resource consent contrary to a stormwater environmental performance standard, a wastewater environmental performance standard, or an infrastructure design solution for the purpose of giving effect to—
+  (a) Te Ture Whaimana o Te Awa o Waikato—the Vision and Strategy for the Waikato River; or
+  (b) a provision that is included in a regional policy statement or a proposed regional policy statement to give effect to Te Ture Whaimana o Te Awa o Waikato—the Vision and Strategy for the Waikato River; or
+  (c) a provision that—
+    (i) is included in a plan or proposed plan to give effect to Te Ture Whaimana o Te Awa o Waikato—the Vision and Strategy for the Waikato River; and
+    (ii) is more stringent than the environmental performance standard or infrastructure design solution.
+(2) The provisions are—
+  (a) section 87A:
+  (b) section 104(2D) and (2E):
+  (c) section 105(3):
+  (d) section 107(4):
+  (e) section 123(aa) and (ab):
+  (f) section 128.
 
 **Decisions on applications relating to discharge of greenhouse gases**
 
@@ -4655,6 +4805,9 @@ When considering an application for a resource consent, the consent authority mu
   (b) the applicant's reasons for the proposed choice; and
   (c) any possible alternative methods of discharge, including discharge into any other receiving environment.
 (2) If an application is for a resource consent for a reclamation, the consent authority must, in addition to the matters in section 104(1), consider whether an esplanade reserve or esplanade strip is appropriate and, if so, impose a condition under section 108(2)﻿(g) on the resource consent.
+(3) However, subsections (1) and (2) do not apply if an application is for an activity—
+  (a) that is regulated by a wastewater environmental performance standard or a stormwater environmental performance standard and the application complies with the relevant environmental performance standard; or
+  (b) that is regulated by an infrastructure design solution and the application complies with the infrastructure design solution.
 
 ### 106 Consent authority may refuse subdivision consent in certain circumstances
 (1) A consent authority may refuse to grant a subdivision consent, or may grant a subdivision consent subject to conditions, if it considers that—
@@ -4702,6 +4855,9 @@ When considering an application for a resource consent, the consent authority mu
   (b) imposes conditions on the permit; and
   (c) is satisfied that those conditions will contribute to a reduction of the effects described in subsection (1)﻿(g) over the duration of the permit.
 (3) In addition to any other conditions imposed under this Act, a discharge permit or coastal permit may include conditions requiring the holder of the permit to undertake such works in such stages throughout the term of the permit as will ensure that upon the expiry of the permit the holder can meet the requirements of subsection (1) and of any relevant regional rules.
+(4) However, this section does not apply if an application is for an activity—
+  (a) that is regulated by a wastewater environmental performance standard or a stormwater environmental performance standard and the application complies with the relevant environmental performance standard; or
+  (b) that is regulated by an infrastructure design solution and the application complies with the design solution.
 
 ### 107A Restrictions on grant of resource consents
 [Repealed]
@@ -4735,7 +4891,7 @@ When considering an application for a resource consent, the consent authority mu
 (4) For the purposes of subsection (3)﻿(c), in the case of a concurrent application made under subpart 4 of Part 7A that is lodged with the EPA, the copy of submissions required to be sent by the EPA to the chief executive is a copy of only those submissions that relate to the concurrent application and not those that relate to its plan change request.
 
 ### 108 Conditions of resource consents
-(1) Except as expressly provided in this section and subject to section 108AA and any regulations, a resource consent may be granted on any condition that the consent authority considers appropriate, including any condition of a kind referred to in subsection (2).
+(1) Except as expressly provided in this section and subject to section 108AA and any wastewater environmental performance standards, any stormwater environmental performance standards, any infrastructure design solutions, and any regulations, a resource consent may be granted on any condition that the consent authority considers appropriate, including any condition of a kind referred to in subsection (2).
 (2) A resource consent may include any 1 or more of the following conditions:
   (a) subject to subsection (10), a condition requiring that a financial contribution be made:
   (b) a condition requiring provision of a bond (and describing the terms of that bond) in accordance with section 108A:
@@ -4778,7 +4934,8 @@ When considering an application for a resource consent, the consent authority mu
     (i) an adverse effect of the activity on the environment:
     (ii) an applicable district or regional rule, or a national environmental standard:
     (iii) a wastewater environmental performance standard made under section 138 of the Water Services Act 2021:
-    (iv) a stormwater environmental performance standard made under section 139A of the Water Services Act 2021; or
+    (iv) a stormwater environmental performance standard made under section 139A of the Water Services Act 2021:
+    (v) an infrastructure design solution; or
   (c) the condition relates to administrative matters that are essential for the efficient implementation of the relevant resource consent.
 (2) Subsection (1) does not limit this Act or regulations made under it.
 (3) This section does not limit section 77A (power to make rules to apply to classes of activities and specify conditions), 106 (consent authority may refuse subdivision consent in certain circumstances), 106A (consent authority may refuse land use consent in certain circumstances), or 220 (condition of subdivision consents).
@@ -5014,14 +5171,25 @@ If a resource consent is subject to the grant of an application to exchange recr
   (a) that the consent expressly provides otherwise; and
   (b) that is reasonably necessary to achieve the purpose of the consent,—
 
+### 122A Resource consent prevails over specified instruments
+(1) A resource consent that is granted before one of the following instruments is made prevails over that instrument:
+  (a) a stormwater environmental performance standard under section 139A of the Water Services Act 2021:
+  (b) a wastewater environmental performance standard made under section 138 of the Water Services Act 2021.
+(2) However, subsection (1) ceases to apply when—
+  (a) the consent authority reviews the conditions of the resource consent under section 128(1)﻿(bc); and
+  (b) the review results in either or both of the instruments listed in subsection (1) prevailing over the resource consent.
+
 **Duration of consent**
 
 ### 123 Duration of consent
-Except as provided in section 123A, 123B, 125, or 127B,—
+(1) Except as provided in section 123A, 123B, 125, or 127B,—
   (a) the period for which a coastal permit for a reclamation, or a land use consent in respect of a reclamation that would otherwise contravene section 13, is granted is unlimited, unless otherwise specified in the consent:
+  (aa) the period for which a resource consent for an activity that meets the requirements of a wastewater environmental performance standard or a stormwater environmental performance standard is granted is 35 years:
+  (ab) the period for which a resource consent for a wastewater treatment plant that meets the requirements of an infrastructure design solution is granted is 35 years:
   (b) subject to paragraph (c), the period for which any other land use consent, or a subdivision consent, is granted is unlimited, unless otherwise specified in the consent:
   (c) the period for which any other coastal permit, or any other land use consent to do something that would otherwise contravene section 13, is granted is such period, not exceeding 35 years, as is specified in the consent and if no such period is specified, is 5 years from the date of commencement of the consent under section 116:
   (d) the period for which any other resource consent is granted is the period (not exceeding 35 years from the date of granting) specified in the consent and, if no such period is specified, is 5 years from the date of commencement of the consent under section 116.
+(2) Despite anything in subsection (1), the period of an extant wastewater consent (as defined in section 139B), may be extended as specified in section 139C.
 
 ### 123A Duration of consent for aquaculture activities
 (1) A coastal permit authorising aquaculture activities to be undertaken in the coastal marine area must specify the period for which it is granted.
@@ -5060,6 +5228,9 @@ Except as provided in section 123A, 123B, 125, or 127B,—
     (i) begins 6 months before the expiry of the existing consent; and
     (ii) ends 3 months before the expiry of the existing consent; and
   (e) the authority, in its discretion, allows the holder to continue to operate.
+(2A) The holder of a resource consent for an activity that is regulated by a wastewater environmental performance standard or a stormwater environmental performance standard may, if they make an application under subsection (1) or (2), continue to operate under an expired consent—
+  (a) for the duration specified in the environmental performance standard; or
+  (b) if the environmental performance standard does not specify a duration, until the date determined under subsection (3).
 (3) The holder may continue to operate under the existing consent until—
   (a) a new consent is granted and all appeals are determined; or
   (b) a new consent is declined and all appeals are determined.
@@ -5195,6 +5366,7 @@ In sections 127B and 127C,—
     (iii) the regional council considers that it is appropriate to review the conditions of the permit or consent in order to enable the levels, flows, rates, or standards set by the rule to be met; or
   (ba) in the case of a coastal, water, or discharge permit, or a land use consent granted by a regional council, when relevant national environmental standards or national planning standards have been made; or
   (bb) in the case of a land use consent, in relation to a relevant regional rule; or
+  (bc) in the case of a resource consent for an activity that is regulated by a wastewater environmental performance standard or a stormwater environmental performance standard, when the environmental performance standard has been made or amended; or
   (c) if the information made available to the consent authority by the applicant for the consent for the purposes of the application contained inaccuracies which materially influenced the decision made on the application and the effects of the exercise of the consent are such that it is necessary to apply more appropriate conditions; or
   (d) if the review is part of a review carried out under subsection (2A).
 (2) A consent authority must, in accordance with section 129, serve notice on a consent holder of its intention to review the conditions of a resource consent if required by an order made under section 339(5)﻿(b).
@@ -5411,6 +5583,43 @@ A consent authority that grants a resource consent may, within 20 working days o
 (8) The authority must revoke the certificate, if it is satisfied that the inaccuracies were material in satisfying the authority that it must issue the certificate.
 (9) An existing use certificate is treated as an appropriate resource consent. The provisions of this Act apply to the certificate, except for sections 87AA to 119, 120(1A) and (1B), and 123 to 150.
 (10) Sections 357A, 357AB, and 357C to 358 apply in relation to the issue or revocation of an existing use certificate.
+
+**Extant wastewater consents**
+
+### 139B Definitions for purposes of extant wastewater consents
+In sections 139C and 139F, unless the context otherwise requires,—
+  - **commencement date** means the date on which this section comes into force
+  - **extant wastewater consent** means a resource consent that—
+    (a) is for an activity associated with constructing or operating a wastewater network, as defined in section 5 of the Water Services Act 2021; and
+    (b) is current on the commencement date; and
+    (c) is due to expire on a date that is before the date that is 3 years after the commencement date
+  - **extended expiry date** means—
+    (a) the date that is 3 years after the commencement date; or
+    (b) if the Minister extends the period of an extant wastewater consent under section 139D, the date on which the extended period ends.
+
+### 139C Extension of extant wastewater consents
+(1) The expiry date of an extant wastewater consent is extended to the extended expiry date.
+(2) An extant wastewater consent is not able to be extended, except as specified in subsection (1) and section 139D.
+(3) Any conditions applying to an extant wastewater consent continue to apply unless a change to a condition is required as a consequence of extending the duration of the extant wastewater consent under subsection (1) or section 139D.
+(4) However, the extension of an extant wastewater consent under this section or section 139D does not affect the application of sections 127 to 129.
+
+### 139D Minister may extend extant wastewater consent in exceptional circumstances
+(1) The Minister may extend the expiry date of an extant wastewater consent to a date that is more than 3 years after the commencement date.
+(2) The Minister may extend the expiry date of an extant wastewater consent—
+  (a) only if the Minister is satisfied that exceptional circumstances exist that justify such an extension; and
+  (b) for a maximum period of 2 years.
+(3) The Minister may extend the expiry date of an extant wastewater consent—
+  (a) on receipt of an application under section 139E; or
+  (b) on the Minister’s own volition.
+
+### 139E Application to extend extant wastewater consent
+(1) The holder of an extant wastewater consent may apply to the Minister for an extension of the expiry date of the extant wastewater consent.
+(2) An application must be made no later than 30 months after the commencement date.
+(3) For the purposes of deciding whether to grant an application, the Minister may require the applicant to provide such further information as the Minister considers necessary to enable the Minister to make the decision.
+(4) If the Minister receives an application and any further information required under subsection (3), the Minister must decide whether to extend the expiry date of the extant wastewater consent to no later than 35 months after the commencement date.
+
+### 139F Consent authority must update extant wastewater consent
+The consent authority for an extant wastewater consent must, no later than 6 months after the commencement date, update the extant wastewater consent to record the extended expiry date under section 139C and any extended expiry date under section 139D.
 
 **Decisions on proposals of national significance**
 
@@ -7514,6 +7723,7 @@ A consent authority’s decisions on its review of a section 384A coastal permit
   - **requiring authority** means—
     (a) a Minister of the Crown; or
     (b) a local authority; or
+    (ba) a water service provider as defined in section 4 of the Local Government (Water Services) Act 2025; or
     (c) a network utility operator approved as a requiring authority under section 167
   - **responsible infrastructure authority** has the same meaning as in section 7 of the Infrastructure Funding and Financing Act 2020
   - **responsible SPV** has the same meaning as in section 7 of the Infrastructure Funding and Financing Act 2020
@@ -7587,6 +7797,9 @@ A consent authority’s decisions on its review of a section 384A coastal permit
       (A) does not respond before the deadline concerned; or
       (B) refuses to agree to the commissioning of the report.
 (1AB) Subsection (1AA) applies despite any rule or national environmental standard that precludes public or limited notification of the notice of requirement.
+(1AC) However, a territorial authority must not publicly notify a notice of requirement under this section if—
+  (a) the requirement is for 1 or more activities; and
+  (b) each activity is the subject of an infrastructure design solution that precludes public notification.
 (1B) Section 168 applies to the notice of requirement with all necessary modifications.
 (2) Sections 96, 97, and 99 to 103 apply to the notice of requirement with all necessary modifications and as if—
   (a) a reference to a resource consent were a reference to the requirement; and
@@ -7603,6 +7816,7 @@ A consent authority’s decisions on its review of a section 384A coastal permit
     (i) a national policy statement:
     (ii) a New Zealand coastal policy statement:
     (iii) a regional policy statement or proposed regional policy statement:
+    (iiia) an infrastructure design solution:
     (iv) a plan or proposed plan; and
   (b) if the requiring authority does not have an interest in the land sufficient for undertaking the work,—
     (i) whether adequate consideration has been given to any alternative sites, routes, or methods of undertaking the work; and
@@ -7635,6 +7849,9 @@ A consent authority’s decisions on its review of a section 384A coastal permit
       (A) does not respond before the deadline concerned; or
       (B) refuses to agree to the commissioning of the report.
 (1B) Subsection (1A) applies despite any rule or national environmental standard that precludes public or limited notification of the notice of requirement.
+(1C) However, a territorial authority must not publicly notify a notice of requirement under this section if—
+  (a) the requirement is for 1 or more activities; and
+  (b) each activity is the subject of an infrastructure design solution that precludes public notification.
 (2) Unless the territorial authority applies section 170, sections 92 to 92B and 96 to 103 apply to the notice of requirement with all necessary modifications and as if—
   (a) a reference to a resource consent were a reference to the requirement; and
   (b) a reference to an applicant were a reference to the requiring authority; and
@@ -7671,6 +7888,7 @@ Where proposal is to use streamlined planning process
     (i) a national policy statement:
     (ii) a New Zealand coastal policy statement:
     (iii) a regional policy statement or proposed regional policy statement:
+    (iiia) an infrastructure design solution:
     (iv) a plan or proposed plan; and
   (b) if the requiring authority does not have an interest in the land sufficient for undertaking the work,—
     (i) whether adequate consideration has been given to any alternative sites, routes, or methods of undertaking the work; and
@@ -7683,6 +7901,9 @@ Where proposal is to use streamlined planning process
   (b) modify the requirement:
   (c) impose conditions:
   (d) withdraw the requirement.
+(2AAA) Despite subsection (2), if a notice of requirement relates to a wastewater network or a stormwater network (as those terms are defined in section 5 of the Water Services Act 2021), and an infrastructure design solution applies and is being relied upon, the territorial authority—
+  (a) must not recommend any conditions that are contrary to the requirements of the relevant infrastructure design solution; and
+  (b) must recommend that conditions are imposed on the designation that are no more or less restrictive than is necessary to comply with the infrastructure design solution.
 (2A) However, if the requiring authority is the Minister of Education or the Minister of Defence, the territorial authority may not recommend imposing a condition requiring a financial contribution (as defined in section 108(9)).
 (3) The territorial authority must give reasons for its recommendation under subsection (2).
 
@@ -7709,7 +7930,7 @@ Where proposal is to use streamlined planning process
   (b) state any matters required to be stated by regulations; and
   (c) be lodged with the Environment Court and be served on the requiring authority whose decision is appealed against, within 15 working days of the date on which notice of the decision is given in accordance with section 173.
 (3) The appellant shall ensure that a copy of the notice of appeal is served on every person referred to in subsection (1) (other than the appellant), within 5 working days after the notice is lodged with the court.
-(4) In determining an appeal, the Environment Court must have regard to the matters set out in section 171(1) and comply with section 171(1A) as if it were a territorial authority, and may—
+(4) In determining an appeal, the Environment Court must have regard to the matters set out in section 171(1) and comply with section 171(1A) and (2AAA) as if it were a territorial authority, and may—
   (a) cancel a requirement; or
   (b) confirm a requirement; or
   (c) confirm a requirement, but modify it or impose conditions on it as the court thinks fit.
@@ -7750,9 +7971,13 @@ Where proposal is to use streamlined planning process
   (d) the vehicular access, circulation, and the provision for parking; and
   (e) the landscaping proposed; and
   (f) any other matters to avoid, remedy, or mitigate any adverse effects on the environment.
-(4) Within 20 working days after receiving the outline plan, the territorial authority may request the requiring authority to make changes to the outline plan.
+(4) Within 20 working days after receiving the outline plan, the territorial authority—
+  (a) may request the requiring authority to make changes to the outline plan; but
+  (b) must not request a change that is inconsistent with an infrastructure design solution that the public work, project, or work relies on.
 (5) If the requiring authority decides not to make the changes requested under subsection (4), the territorial authority may, within 15 working days after being notified of the requiring authority's decision, appeal against the decision to the Environment Court.
-(6) In determining any such appeal, the Environment Court must consider whether the changes requested by the territorial authority will give effect to the purpose of this Act.
+(6) In determining any such appeal, the Environment Court must consider whether the changes requested by the territorial authority—
+  (a) will give effect to the purpose of this Act; and
+  (b) will give effect to any infrastructure design solution that the public work, project, or work relies on.
 (7) This section applies, with all necessary modifications, to public works, projects, or works to be constructed on designated land by a territorial authority.
 
 ### 177 Land subject to existing designation or heritage order
@@ -7870,14 +8095,20 @@ Where proposal is to use streamlined planning process
   (a) any agreement shall be deemed to have been entered into with the Minister of Lands on behalf of the network utility operator as if the land were required for a government work; and
   (b) all costs and expenses incurred by the Minister of Lands in respect of the acquisition of the land shall be recoverable from the network utility operator as a debt due to the Crown.
 (7) The amount of compensation payable for an estate or interest in land ordered to be taken under this section shall be assessed as if the designation or requirement had not been created.
+(8) Subsection (9) applies if the designation or requirement to which the order relates is for a critical infrastructure project—
+  (a) within the meaning of section 2 of the Public Works Act 1981; and
+  (b) in relation to which the requiring authority may use Part 2A of that Act to acquire the owner’s land.
+(9) The owner must be paid compensation in recognition of the land being acquired for a critical infrastructure project and, for that purpose, must be treated as if they were an owner of land entitled to the compensation specified in section 39AAK(2)﻿(b) of that Act unless the exclusion in section 39AAL(1) applies.
 
 ### 186 Compulsory acquisition powers
-(1) A network utility operator that is a requiring authority may apply to the Minister of Lands to have land required for a project or work acquired or taken under Part 2 of the Public Works Act 1981 as if the project or work were a government work within the meaning of that Act and, if the Minister of Lands agrees, that land may be taken or acquired.
+(1) A network utility operator that is a requiring authority may apply to the Minister for Land Information to have land required—
+  (a) for a project or work that is a critical infrastructure project within the meaning of section 39AAB of the Public Works Act 1981 acquired or taken under Part 2A of that Act, and, if the Minister for Land Information agrees, that land may be taken or acquired:
+  (b) for any other project or work acquired or taken under Part 2 of the Public Works Act 1981 as if the project or work were a Government work within the meaning of section 2 of that Act, and, if the Minister for Land Information agrees, that land may be taken or acquired.
 (2) The effect of any Proclamation taking land for the purposes of subsection (1) shall be to vest the land in the network utility operator instead of the Crown.
 (3) Land which is subject to a heritage order shall not be taken without the consent of the heritage protection authority.
 (4) Any land held under any enactment or in any other manner by the Crown or a local authority may, with the consent of the Crown or that authority and on such terms and conditions (including price) as may be agreed, be set apart for a project or work of a network utility operator in the manner provided in sections 50 and 52 of the Public Works Act 1981 (with the necessary modifications), but the setting apart shall not be subject to sections 40 and 41 of that Act. Any land so set apart shall vest in the network utility operator.
-(5) Any claim for compensation under the Public Works Act 1981 in respect of land acquired or taken in accordance with this section shall be made against the Minister of Lands.
-(6) All costs and expenses incurred by the Minister of Lands in respect of the acquisition or taking of land in accordance with this section (including any compensation payable by the Minister) shall be recoverable from the network utility operator as a debt due to the Crown.
+(5) Any claim for compensation under the Public Works Act 1981 in respect of land acquired or taken in accordance with this section shall be made against the Minister for Land Information.
+(6) All costs and expenses incurred by the Minister for Land Information in respect of the acquisition or taking of land in accordance with this section (including any compensation payable by the Minister) shall be recoverable from the network utility operator as a debt due to the Crown.
 (7) Sections 40 and 41 of the Public Works Act 1981 shall apply to land acquired or taken in accordance with this section as if the network utility operator concerned were the Crown.
 (7A) This section does not apply if—
   (a) the network utility operator is a responsible SPV; and
@@ -8305,7 +8536,7 @@ Referral to mediation
 (4) Section 274 applies to the notice of motion, and any person who has made a submission to the territorial authority on the requirement and wishes to be heard on the matter by the Environment Court must give notice to the court in accordance with that section.
 (5) Parts 11 and 11A apply to proceedings under this section.
 (6) If considering a matter that is a notice of requirement for a designation or to alter a designation, the court—
-  (a) must have regard to the matters set out in section 171(1) and comply with section 171(1A) as if it were a territorial authority; and
+  (a) must have regard to the matters set out in section 171(1) and comply with section 171(1A) and (2AAA) as if it were a territorial authority; and
   (b) may—
     (i) cancel the requirement; or
     (ii) confirm the requirement; or
@@ -8377,7 +8608,7 @@ The territorial authority that would have dealt with the requirement had the Env
 (3) Section 274 applies to the notice of motion, and any person who has made a submission to the territorial authority on the requirement and wishes to be heard on the matter by the Environment Court must give notice to the court in accordance with that section.
 (4) Parts 11 and 11A apply to proceedings under this section.
 (5) If considering a matter that is a notice of requirement for a designation or to alter a designation, the court—
-  (a) must have regard to the matters set out in section 171(1) and comply with section 171(1A) as if it were a territorial authority; and
+  (a) must have regard to the matters set out in section 171(1) and comply with section 171(1A) and (2AAA) as if it were a territorial authority; and
   (b) may—
     (i) cancel the requirement; or
     (ii) confirm the requirement; or
@@ -12169,13 +12400,14 @@ Nothing in this schedule limits any relevant iwi participation legislation or ag
   (a) the Minister for the Environment; and
   (b) those other Ministers of the Crown who may be affected by the policy statement or plan; and
   (c) local authorities who may be so affected; and
+  (ca) water organisations under the Local Government (Water Services) Act 2025 who may be so affected; and
   (d) the tangata whenua of the area who may be so affected, through iwi authorities; and
   (e) any customary marine title group in the area.
 (2) A local authority may consult anyone else during the preparation of a proposed policy statement or plan.
 (3) Without limiting subclauses (1) and (2), a regional council which is preparing a regional coastal plan shall consult—
   (a) the Minister of Conservation generally as to the content of the plan, and with particular respect to those activities to be described as restricted coastal activities in the proposed plan; and
   (b) the Minister of Transport in relation to matters to do with navigation and the Minister's functions under Parts 18 to 27 of the Maritime Transport Act 1994; and
-  (c) the Minister of Fisheries in relation to fisheries management, and the management of aquaculture activities.
+  (c) the Minister of Fisheries in relation to fisheries management, and the management of aquaculture activities; and
 (4) In consulting persons for the purposes of subclause (2), a local authority must undertake the consultation in accordance with section 82 of the Local Government Act 2002.
 
 ### 3A Consultation in relation to policy statements
@@ -14655,6 +14887,24 @@ The amendments made by sections 28(1), 29, and 50 of the amendment Act apply to 
 
 ### 59 Application of certain provisions relating to rules that control fishing
 Sections 2B, 32(2A), 71, and 86B(4A) apply to any rules in a plan that is notified after commencement.
+
+### Part 9 — Provisions relating to Local Government (Water Services) Act 2025
+
+### 60 Applicant may operate under section 124
+(1) A holder of a consent that is operating under section 124 may—
+  (a) withdraw their application for a new consent; and
+  (b) prepare a new application that complies with—
+    (i) a wastewater environmental performance standard; or
+    (ii) a stormwater environmental performance standard; or
+    (iii) an infrastructure design solution.
+(2) Despite the holder of the consent withdrawing their application under subclause (1)﻿(a),—
+  (a) they may continue to operate under section 124; but
+  (b) they must submit the new application within 6 months after the date of the withdrawal.
+
+### 61 Wastewater or stormwater environmental performance standard does not apply if applicant proceeds with unamended application
+A wastewater or stormwater environmental performance standard does not apply to an application for a resource consent for an activity associated with constructing or operating all or any part of a wastewater network or stormwater network if,—
+  (a) before the date on which the wastewater or stormwater environmental performance standard comes into force, the consent authority has decided under section 95 whether to give public or limited notification of the application; and
+  (b) the applicant has determined to proceed with the application without amending it to comply with the wastewater or stormwater environmental performance standard.
 
 ### 1 Title
 (1) This Act is the Resource Management Amendment Act 2003.
