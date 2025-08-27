@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-08-27_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -55,7 +55,7 @@ In this Act, unless the context otherwise requires,—
     (a) is the result of any happening, whether natural or otherwise, including, without limitation, any explosion, earthquake, eruption, tsunami, land movement, flood, storm, tornado, cyclone, serious fire, leakage or spillage of any dangerous gas or substance, technological failure, infestation, plague, epidemic, failure of or disruption to an emergency service or a lifeline utility, or actual or imminent attack or warlike act; and
     (b) causes or may cause loss of life or injury or illness or distress or in any way endangers the safety of the public or property in New Zealand or any part of New Zealand; and
     (c) cannot be dealt with by emergency services, or otherwise requires a significant and co-ordinated response under this Act
-  - **emergency services** means the New Zealand Police, Fire and Emergency New Zealand, Taumata Arowai, and providers of health and disability services
+  - **emergency services** means the New Zealand Police, Fire and Emergency New Zealand, and providers of health and disability services
   - **Group Controller** means a person appointed as a Group Controller under section 26
   - **Group Recovery Manager** means a person appointed as a Group Recovery Manager under section 29
   - **hazard** means something that may cause, or contribute substantially to the cause of, an emergency
@@ -106,7 +106,6 @@ In this Act, unless the context otherwise requires,—
   - **state of local emergency** means a state of local emergency declared under section 68 or section 69
   - **state of national emergency** means a state of national emergency declared under section 66
   - **State services** has the same meaning as in section 5 of the Public Service Act 2020
-  - **Taumata Arowai** means Taumata Arowai established under section 8 of the Taumata Arowai–the Water Services Regulator Act 2020
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **transition period** means a national transition period or a local transition period
   - **unitary authority** means a unitary authority within the meaning of the Local Government Act 2002
@@ -1331,9 +1330,10 @@ Subject to any agreement entered into between them, if a Civil Defence Emergency
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 115A Permanent legislative authority for payment of certain expenses
-The Crown may, without further appropriation than this section, incur expenses to reimburse a local authority or Watercare Services Limited for, or to pay public money for the purpose of meeting, expenses incurred by a local authority or Watercare Services Limited in connection with an emergency if the expenses—
+(1) The Crown may, without further appropriation than this section, incur expenses to reimburse a local authority or a water organisation for, or to pay public money for the purpose of meeting, expenses incurred by a local authority or a water organisation in connection with an emergency if the expenses—
   (a) are incurred in respect of civil defence emergency management activities; and
   (b) meet the criteria for being reimbursed or paid in a Government policy that was in force before the emergency occurred.
+(2) In this section, water organisation has the same meaning as in section 4 of the Local Government (Water Services) Act 2025.
 
 ### 116 Repeal of Civil Defence Act 1983
 The Civil Defence Act 1983 (1983 No 46) is repealed.
