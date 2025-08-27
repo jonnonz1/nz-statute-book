@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-08-27_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -64,7 +64,7 @@ _Consolidation as at 2025-04-05_
   - **quarantinable disease** means a disease stated in Part 3 of Schedule 1
   - **ship** includes every description of vessel used in navigation
   - **smoke** includes any fumes, gases, dust, soot, grit, or other matters produced in the process of combustion
-  - **Taumata Arowai** means Taumata Arowai–the Water Services Regulator established by section 8 of the Taumata Arowai–the Water Services Regulator Act 2020.
+  - **Water Services Authority** means the Water Services Authority—Taumata Arowai established by section 8 of the Water Services Authority—Taumata Arowai Act 2020.
 (2) If, in any proceedings for an offence against this Act or against any regulations thereunder, a question arises as to whether or not any person is a contact, as defined in subsection (1), the question shall be determined in accordance with the opinion of the medical officer of health.
 (3) The Governor-General may, by Order in Council, amend Part 3 of Schedule 1 by adding or omitting the name of a disease, or substituting a new name for a disease (see subsection (5)).
 (4) In this Act, a reference to an individual who has an infectious disease includes an individual who is infected or colonised by, or is a carrier of, an organism capable of causing the disease, even if the individual does not exhibit any of the symptoms of the disease.
@@ -372,7 +372,7 @@ Subject to the provisions of this Act, it shall be the duty of every local autho
     (a) a requisition shall not, without the consent of the local authority to which it was issued, be modified or withdrawn after the Director-General has approved the proposals of that local authority:
     (b) the modification of a requisition shall not prejudice the local authority's right to raise a loan under section 27(2).
 (6) Any local authority to which a requisition is issued shall within the time specified in the requisition submit to the Director-General proposals for the provision, alteration, or extension of sanitary works in accordance with the requisition. The proposals shall include plans and specifications of the works and all other particulars of the work to be carried out, and an estimate of its cost.
-(6A) Before approving a proposal under subsection (6), the Director-General must consult Taumata Arowai.
+(6A) Before approving a proposal under subsection (6), the Director-General must consult the Water Services Authority.
 (7) The Director-General may approve the proposals with or without modifications, which may include conditions subject to which the work is to be carried out, and the local authority shall carry out the work in accordance with the proposals as approved.
 (8) If the local authority fails to submit proposals within the time specified in the requisition, or if the Director-General does not approve the proposals, the Director-General may himself or herself make proposals, and any proposals so made by the Director-General shall have effect as if made and submitted by the local authority.
 (9) Before making or modifying any proposals the Director-General shall send a draft of the proposals or modifications to the local authority and shall give the local authority an opportunity of making representations in relation to the draft. Notice of the Director-General's final determination on the proposals shall be served on the local authority.
