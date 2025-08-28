@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-08-28_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -1513,7 +1513,8 @@ The court must not refuse to make an order under sections 47 to 51 on the ground
   (ga) the Pacific Agreement on Closer Economic Relations Plus, done at Nuku’alofa on 14 June 2017:
   (h) the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, done at Santiago on 8 March 2018:
   (i) the Free Trade Agreement between New Zealand and the United Kingdom of Great Britain and Northern Ireland, done at London on 28 February 2022:
-  (j) the Free Trade Agreement between New Zealand and the European Union, done at Brussels on 9 July 2023.
+  (j) the Free Trade Agreement between New Zealand and the European Union, done at Brussels on 9 July 2023:
+  (k) the New Zealand–United Arab Emirates Comprehensive Economic Partnership Agreement, done at Abu Dhabi on 14 January 2025.
 (2) Regulations made under subsection (1) may provide for alternative monetary thresholds under section 13 that apply, on terms and conditions (if any), to 1 or more classes of transactions, persons, interests, rights, and assets.
 (3) The Minister must be satisfied, before making a recommendation under this section, that the regulations do not provide for an alternative monetary threshold that is higher than the amount provided for in the relevant international agreement referred to in subsection (1), but the text of the regulations may otherwise differ from the text of an agreement.
 (4) Regulations made under subsection (1) may incorporate by reference any provisions of an international agreement referred to in that subsection.
