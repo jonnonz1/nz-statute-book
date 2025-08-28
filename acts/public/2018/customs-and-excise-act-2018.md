@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-08-28_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -5758,11 +5758,13 @@ Subject to any limitation imposed by regulations, the chief executive may, witho
 (6) In this section, free trade agreement means—
   (a) the Free Trade Agreement between the Government of New Zealand and the Government of the People’s Republic of China done at Beijing on 7 April 2008 (the China FTA); or
   (b) the Agreement Establishing the ASEAN–Australia–New Zealand Free Trade Area done at Cha-am, Phetchaburi, Thailand on 27 February 2009 (AANZFTA); or
-  (c) the Regional Comprehensive Economic Partnership done at Hanoi, Vietnam, on 15 November 2020 (the RCEP).
+  (c) the Regional Comprehensive Economic Partnership done at Hanoi, Vietnam, on 15 November 2020 (the RCEP); or
+  (d) the New Zealand–United Arab Emirates Comprehensive Economic Partnership Agreement done at Abu Dhabi on 14 January 2025 (the UAE CEPA).
 (7) In this section, party to a free trade agreement means—
   (a) in relation to the China FTA, the People’s Republic of China:
   (b) in relation to AANZFTA, a specified AANZFTA party (see subsection (8)):
-  (c) in relation to the RCEP, a specified RCEP party (see subsection (8)).
+  (c) in relation to the RCEP, a specified RCEP party (see subsection (8)):
+  (d) in relation to the UAE CEPA, the United Arab Emirates.
 (8) For the purposes of this section, the Governor-General may, by Order in Council, declare—
   (a) a country that is a party to AANZFTA to be a specified AANZFTA party:
   (b) a country that is a party to the RCEP to be a specified RCEP party.
