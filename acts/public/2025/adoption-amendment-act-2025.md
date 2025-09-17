@@ -5,7 +5,7 @@ _Consolidation as at 2025-09-17_
 This Act is the Adoption Amendment Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after Royal assent.
+(1) This Act comes into force on 18 September 2025
 (2) However, subpart 2 of Part 1 and subpart 2 of Part 2 come into force on the earlier of the following:
   (a) a date appointed by the Governor-General by Order in Council:
   (b) 1 July 2027.
@@ -171,7 +171,7 @@ In Schedule 2, form A 3, after paragraph 2, insert:oror
 Sections 22 and 23 amend the Adoption Regulations 1959.
 
 ### 22 Regulation 8 amended (Affidavit by applicants)
-Before regulation 8(a), insert:
+Before regulation 8(1)﻿(a), insert:
   (aaa) providing evidence of their ordinary place of residence:
   (aab) providing evidence of the child’s ordinary place of residence:
   (aac) providing evidence of the circumstances in which the application is made if their ordinary place of residence or the child’s ordinary place of residence is outside New Zealand:
@@ -214,7 +214,7 @@ In Schedule 2, form A 3, revoke all paragraphs numbered 2A.
 Sections 31 and 32 amend the Adoption Regulations 1959.
 
 ### 31 Regulation 8 amended (Affidavit by applicants)
-Revoke regulation 8(aaa), (aab), and (aac).
+Revoke regulation 8(1)﻿(aaa), (aab), and (aac).
 
 ### 32 Schedule amended
 In the Schedule, form 1, revoke all paragraphs numbered 2A.
