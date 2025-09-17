@@ -5,7 +5,7 @@ _Consolidation as at 2025-09-17_
 This Act is the Imprest Supply (Second for 2025/26) Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 18 September 2025.
 
 ### 3 Repeal of this Act
 This Act is repealed on the close of 30 June 2026.
