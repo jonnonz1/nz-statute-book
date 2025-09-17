@@ -5,7 +5,7 @@ _Consolidation as at 2025-09-17_
 This Act is the Appropriation (2025/26 Estimates) Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 18 September 2025.
 
 ### 3 Application
 (1) Section 7 and Schedule 2 apply to the periods set out in Schedule 2.
