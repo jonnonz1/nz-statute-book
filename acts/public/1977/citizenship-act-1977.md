@@ -1,5 +1,5 @@
 # Citizenship Act 1977
-_Consolidation as at 2024-11-26_
+_Consolidation as at 2025-09-18_
 
 > An Act to make better provision with respect to the status of New Zealand citizenship, and to consolidate and amend the British Nationality and New Zealand Citizenship Act 1948
 
@@ -114,6 +114,9 @@ This Act binds the Crown.
     (i) descent; or
     (ii) grant under section 7A of the Citizenship (Western Samoa) Act 1982; or
   (b) his or her mother or father was a New Zealand citizen by descent, and the person would otherwise be stateless.
+(1A) However, subsection (1) does not apply to a person who—
+  (a) is an adopted child pursuant to an overseas adoption (as that term is defined in section 2 of the Adoption Act 1955); and
+  (b) by virtue of section 17(3) of the Adoption Act 1955 cannot acquire the status of a New Zealand citizen by descent under subsection (1).
 (2) A person who is a New Zealand citizen by virtue of subsection (1) may apply for his or her citizenship status to be registered in accordance with regulations made under this Act.
 (3) For the purposes of this section, the Secretary may issue a certificate stating a person's status under this section and, in the absence of evidence to the contrary, a certificate to such effect shall be sufficient evidence of the matters stated in the certificate.
 (4) The citizenship of any New Zealand citizen by descent that has lapsed before the commencement of the Citizenship Amendment Act 2000 is reinstated with effect from the time it lapsed.
@@ -230,7 +233,7 @@ If a person has, before the commencement of this Act,—in accordance with the p
 (3) The Minister may decline to register a declaration of renunciation if—
   (a) the declarant is resident in New Zealand; or
   (b) a state of war exists between New Zealand and any other country.
-(4) A person who has ceased to be a New Zealand citizen under this section may regain New Zealand citizenship only by way of a grant of citizenship under section 8 or section 8A or section 9.
+(4) A person who has ceased to be a New Zealand citizen under this section may regain New Zealand citizenship only by way of a grant of citizenship under section 8 or section 9.
 
 ### 16 Deprivation of New Zealand citizenship in special cases
 Subject to section 19, the Minister may, by order, deprive a person of his New Zealand citizenship if he is satisfied that the person has, while a New Zealand citizen and while of or over the age of 18 years and of full capacity,—
@@ -409,6 +412,23 @@ In this Part,—
 
 ### 2 Consents given under section 3(5A)﻿(b) before commencement date
 Consents given under section 3(5A)﻿(b)﻿(i) or (ii) before the commencement date continue to have effect as if the 2018 Act had not been enacted.
+
+### Part 2 — Provisions relating to Adoption Amendment Act 2025
+
+### 3 Interpretation
+In this Part,—
+  - **amendment Act** means the Adoption Amendment Act 2025
+  - **commencement date** means the day after the amendment Act receives Royal assent
+  - **overseas adoption** has the same meaning as in section 2 of the Adoption Act 1955.
+
+### 4 Citizenship by descent continues for persons whose adoptions outside New Zealand were recognised before commencement date
+(1) This clause applies if, before the commencement date, a person—
+  (a) was adopted pursuant to an overseas adoption that was recognised under section 17 of the Adoption Act 1955 (as then in force); and
+  (b) was deemed to be a child of a New Zealand citizen under section 3(2)﻿(b); and
+  (c) had the status of a New Zealand citizen by descent by virtue of section 7(1).
+(2) On and after the commencement date, the person continues to be a New Zealand citizen by descent.
+(3) Subclause (2) applies whether or not before the commencement date an application was made under section 7(2) to register the person’s citizenship status.
+(4) This clause applies despite section 7 of the amendment Act.
 
 ## Schedule 1 — Oath of allegiance
 
