@@ -1,5 +1,5 @@
 # Imprest Supply (First for 2025/26) Act 2025
-_Consolidation as at 2025-06-27_
+_Consolidation as at 2025-09-18_
 
 ### 1 Title
 This Act is the Imprest Supply (First for 2025/26) Act 2025.
