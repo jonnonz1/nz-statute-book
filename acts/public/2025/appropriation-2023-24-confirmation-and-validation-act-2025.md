@@ -1,5 +1,5 @@
 # Appropriation (2023/24 Confirmation and Validation) Act 2025
-_Consolidation as at 2025-05-21_
+_Consolidation as at 2025-09-18_
 
 ### 1 Title
 This Act is the Appropriation (2023/24 Confirmation and Validation) Act 2025.
