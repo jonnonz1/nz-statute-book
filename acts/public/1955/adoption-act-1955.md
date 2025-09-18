@@ -1,5 +1,5 @@
 # Adoption Act 1955
-_Consolidation as at 2023-10-06_
+_Consolidation as at 2025-09-18_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the adoption of children
 
@@ -7,7 +7,7 @@ _Consolidation as at 2023-10-06_
 This Act may be cited as the Adoption Act 1955.
 
 ### 2 Interpretation
-In this Act, unless the context otherwise requires,—
+(1) In this Act, unless the context otherwise requires,—
   - **adopted child** means any person concerning whom an adoption order is in force
   - **adoption order** means an adoption order made under this Act; and does not include an interim order
   - **adoptive parent** means any person who adopts a child in accordance with an adoption order; and, in the case of an order made in favour of a married couple on their joint application, means both the spouses; but does not include a spouse who merely consents to an adoption
@@ -15,10 +15,35 @@ In this Act, unless the context otherwise requires,—
   - **child** means a person who is under the age of 20 years; and includes any person in respect of whom an interim order is in force, notwithstanding that the person has attained that age
   - **Commonwealth country** means a country that is a member of the British Commonwealth of Nations; and includes every territory for whose international relations the Government of that country is responsible; and also includes the Republic of Ireland as if that country were a member of the British Commonwealth of Nations
   - **Commonwealth representative** means an Ambassador, High Commissioner, Minister, Chargé d'Affaires, Consular Officer, Trade Commissioner, or Tourist Commissioner of a Commonwealth country (including New Zealand); and includes any person lawfully acting for any such officer; and also includes any diplomatic secretary on the staff of any such Ambassador, High Commissioner, Minister, or Chargé d'Affaires
+  - **Contracting State** has the same meaning as in section 2 of the Adoption (Intercountry) Act 1997
   - **court** means the Family Court or the District Court in its civil jurisdiction; and includes the High Court acting in its jurisdiction on appeal under this Act
   - **department** means the department for the time being responsible for the administration of the Oranga Tamariki Act 1989
+  - **exempt country** means a country specified in Schedule 1AAB
+  - **Hague Convention** has the same meaning as Convention in section 2 of the Adoption (Intercountry) Act 1997
+  - **Hague Convention adoption** means an adoption to which the Hague Convention applies (whether or not the adoption was made in accordance with that Convention)—
+    (a) that took place in a Contracting State on or after the date on which the Hague Convention entered into force in both New Zealand and the Contracting State; and
+    (b) in respect of which the adopted child was habitually resident overseas; and
+    (c) in respect of which the adoptive parent is, or both the adoptive parents are, habitually resident in New Zealand
   - **interim order** means an interim order made under this Act
   - **Maori** means a person who is a Maori within the meaning of Te Ture Whenua Maori Act 1993
+  - **overseas adoption** means an adoption, in any place outside New Zealand, that—
+    (a) was in accordance with the law of that place and is legally valid; and
+    (b) affords to the adoptive parent an immediate legal right that is greater than the right of any natural parent of the adopted person in relation to the day-to-day care of the person, or would have afforded such a right if the adopted person were a young child; and
+    (c) either—
+      (i) was by order of any court, judicial authority, or public authority of—
+        (A) a Commonwealth country; or
+        (B) Austria; or
+        (C) Denmark; or
+        (D) Finland; or
+        (E) Norway; or
+        (F) Sweden; or
+        (G) the Kingdom of the Netherlands; or
+        (H) the United States of America, or of any State or territory of the United States of America; or
+        (I) a prescribed overseas country; or
+      (ii) affords to the adoptive parent an immediate legal right over the adopted person’s property equal to or greater than the right to the property of any natural parent of the person, if the person—
+        (A) dies intestate with no other next of kin; and
+        (B) at the time of death was domiciled in the place outside New Zealand and was a national of the country having jurisdiction over that place
+  - **prescribed overseas country** means a country specified in regulations made under section 28
   - **publish** , in relation to any advertisement, means—
     (a) insert in any newspaper or other periodical publication printed and published in New Zealand; or
     (b) bring to the notice of members of the public in New Zealand in any other manner whatsoever
@@ -30,14 +55,28 @@ In this Act, unless the context otherwise requires,—
       (ii) any member of the Maori community nominated, after consultation with the Maori community, by the chief executive to carry out the duties of a social worker under this Act in respect of the adoption:
     (b) in relation to any other application or proposed application for an adoption order, means—
       (i) any person employed as a social worker in the department; or
-      (ii) if the court so directs, any member of the Maori community nominated, after consultation with the Maori community, by the chief executive to carry out the duties of a social worker under this Act in respect of the adoption.
+      (ii) if the court so directs, any member of the Maori community nominated, after consultation with the Maori community, by the chief executive to carry out the duties of a social worker under this Act in respect of the adoption
+  - **surrogacy arrangement** has the same meaning as in section 5 of the Human Assisted Reproductive Technology Act 2004.
+(2) For the purposes of the definition of overseas adoption in subsection (1), the production of a document purporting to be the original or a certified copy of an order or a record of an adoption made by a court, judicial authority, or public authority in any place outside New Zealand is, in the absence of proof to the contrary, sufficient evidence that the adoption was made and that it is legally valid according to the law of that place.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 **Making of adoption orders**
 
 ### 3 Power to make adoption orders
-(1) Subject to the provisions of this Act, a court may, upon an application made by any person whether domiciled in New Zealand or not, make an adoption order in respect of any child, whether domiciled in New Zealand or not.
+(1) Subject to the provisions of this Act, a court may, on an application for the purpose, make an adoption order in respect of a child.
+(1A) However, an application for an adoption order in respect of a child may be made only if—
+  (a) a Judge is satisfied that the need for the adoption arises because of an international surrogacy arrangement; or
+  (b) a Family Court Associate or Judge is satisfied that—
+    (i) the applicant or applicants are ordinarily resident in New Zealand and the child is ordinarily resident in New Zealand; or
+    (ii) there are exceptional circumstances that justify the making of the application.Examples of exceptional circumstances for the purposes of subsection (1A)﻿(b)﻿(ii)Example 1A child aged 3 years lives in an overseas country. Both of the child’s parents have died. The child’s grandmother, who lives in Auckland, is the only family member who is able to take over the child’s care and has applied to the Family Court to adopt the child. Those circumstances meet the threshold of exceptional circumstances.Example 2A child aged 5 years lives in an overseas country. The child’s father has died and the child’s mother is terminally ill and unable to care for the child. The child’s aunt, who lives in Dunedin, is the only family member who is able to take over the child’s care and has applied to the Family Court to adopt the child. Those circumstances meet the threshold of exceptional circumstances.
 (2) An adoption order may be made on the application of 2 spouses jointly in respect of a child.
 (3) An adoption order may be made in respect of the adoption of a child by the mother or father of the child, either alone or jointly with his or her spouse.
+(4) For the purposes of this section, a person is to be treated as ordinarily resident in New Zealand if—
+  (a) the person’s home is in New Zealand; or
+  (b) the person is residing in New Zealand with the intention of residing in New Zealand indefinitely; or
+  (c) having resided in New Zealand with the intention of establishing their home in New Zealand, or with the intention of residing in New Zealand indefinitely, the person is outside New Zealand but intends to return to establish their home in New Zealand or to reside in New Zealand indefinitely.
 
 ### 4 Restrictions on making adoption orders
 (1) Except in special circumstances, an adoption order shall not be made in respect of a child unless the applicant or, in the case of a joint application, one of the applicants—
@@ -205,23 +244,20 @@ In any case where the District Court has refused to make an interim order or an 
 (5) The first proviso to subsection (2)﻿(a) applies subject to section 6(2) of the Child Support Act 1991.
 (6) The first proviso to subsection (2)﻿(i) applies subject to section 25(2)﻿(b) of the Child Support Act 1991.
 
-### 17 Effect of overseas adoption
-(1) Where a person has been adopted (whether before or after the commencement of this section) in any place outside New Zealand according to the law of that place, and the adoption is one to which this section applies, then, for the purposes of this Act and all other New Zealand enactments and laws, the adoption shall have the same effect as an adoption order validly made under this Act, and shall have no other effect.
-(2) Subsection (1) shall apply to an adoption in any place outside New Zealand, if,—but not otherwise.
-  (a) the adoption is legally valid according to the law of that place; and
-  (b) in consequence of the adoption, the adoptive parents or any adoptive parent had, or would (if the adopted person had been a young child) have had, immediately following the adoption, according to the law of that place, a right superior to that of any natural parent of the adopted person in respect of the role of providing day-to-day care for the person; and
-  (c) either—
-    (i) the adoption order was made by any court or judicial or public authority whatsoever of a Commonwealth country, or of the United States of America, or of any State or territory of the United States of America, or of any other country which the Governor-General, by an Order in Council that is for the time being in force, has directed to be deemed to be referred to in this subparagraph; or
-    (ii) in consequence of the adoption, the adoptive parents or any adoptive parent had, immediately following the adoption, according to the law of that place, a right superior to or equal with that of any natural parent in respect of any property of the adopted person which was capable of passing to the parents or any parent of the person in the event of the person dying intestate without other next of kin and domiciled in the place where the adoption was made and a national of the State which had jurisdiction in respect of that place—
-(2A) The production of a document purporting to be the original or a certified copy of an order or record of adoption made by a court or a judicial or public authority in any place outside New Zealand shall, in the absence of proof to the contrary, be sufficient evidence that the adoption was made and that it is legally valid according to the law of that place.
-(3) Nothing in this section shall restrict or alter the effect of any other adoption made in any place outside New Zealand.
-(4) In this section the term New Zealand does not include any territory in which this Act is not in force.
-(5) This section does not apply to any adoption in another Contracting State that is an adoption—
-  (a) by a person habitually resident in New Zealand; and
-  (b) to which the Convention applies; and
-  (c) which takes place in that Contracting State on or after the date on which the Convention has entered into force as between New Zealand and that Contracting State.
-(6) In subsection (5), Contracting State and Convention have the same meaning as in the Adoption (Intercountry) Act 1997.
-(7) An Order in Council under subsection (2)﻿(c)﻿(i) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+### 17 Effect of overseas adoptions
+(1) This section applies to an overseas adoption that is not a Hague Convention adoption.
+(2) For the purposes of this Act and all other New Zealand enactments, the adoption has the same effect as an adoption order made under this Act and no other effect.
+(3) However, if subsection (4) applies, the effect of the adoption has the following limitations:
+  (a) despite section 7(1) of the Citizenship Act 1977, the adopted person is not a New Zealand citizen by descent as a result of the adoption (notwithstanding that under section 3(2)﻿(b) of the Citizenship Act 1977 the adopted person may be deemed the child of a New Zealand citizen); and
+  (b) the adopted person cannot, as a result of the adoption, be granted—
+    (i) a visa under the Immigration Act 2009; or
+    (ii) entry permission under the Immigration Act 2009.
+(4) This subsection applies if the adoption occurred in a country that is not an exempt country and the adoptive parent, or either of the adoptive parents,—
+  (a) is a New Zealand citizen; or
+  (b) holds a residence class visa under the Immigration Act 2009.
+(5) Nothing in subsection (3) affects—
+  (a) the discretion of the Minister of Internal Affairs under the Citizenship Act 1977; or
+  (b) the absolute discretion of the Minister of Immigration under the Immigration Act 2009.
 
 **Maori adoptions**
 
@@ -372,6 +408,24 @@ Sections 11B to 11D of the Family Court Act 1980 apply to the publication of a r
 (1) No proceedings for an offence against section 27A may be brought in a New Zealand court in respect of any person without the consent of the Attorney-General if jurisdiction over the person is claimed by virtue of section 27C.
 (2) However, a person alleged to have committed an offence against section 27A may be arrested, or a warrant for the person's arrest may be issued and executed, and the person may be remanded in custody or on bail, even though the Attorney-General's consent under subsection (1) has not been obtained.
 
+### 27E Power to amend Schedule 1AAB by Order in Council
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Justice, amend Schedule 1AAB by—
+  (a) inserting, repealing, amending, or replacing any item in Schedule 1AAB; or
+  (b) repealing Schedule 1AAB and substituting a new schedule.
+(2) An item in Schedule 1AAB may be inserted or amended subject to any specified limitation or qualification.
+(3) Before making a recommendation under subsection (1), the Minister of Justice must—
+  (a) consult—
+    (i) the Minister of Foreign Affairs; and
+    (ii) the Minister for Children; and
+    (iii) the Minister of Internal Affairs; and
+    (iv) the Minister of Immigration; and
+  (b) be satisfied that, having regard to the following matters, a country’s regulatory regime has sufficient safeguards to prevent harm to adopted persons:
+    (i) the country’s adoption laws and practices; and
+    (ii) whether the country is a signatory to any international adoption agreements, and the country’s record of compliance with those agreements; and
+    (iii) the country’s relations with New Zealand; and
+    (iv) any other matter the Minister considers relevant.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
 ### 28 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as may in his opinion be necessary or expedient for giving effect to the provisions of this Act and for the due administration thereof.
 (2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -401,6 +455,41 @@ The enactments specified in Schedule 1 are hereby amended in the manner indicate
 (3) This section does not affect the operation of section 23(4)﻿(a) of the Department of Social Welfare Act 1971 (which required references to the Superintendent of Child Welfare to be read as references to the Director-General of Social Welfare under that Act) at any time or times—
   (a) on or after 1 April 1972; and
   (b) before its repeal, on 1 April 1990, by section 36(6) of the Social Welfare (Transitional Provisions) Act 1990.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions related to Adoption Amendment Act 2025
+
+### 1 Interpretation
+In this Part,—
+  - **amendment Act** means the Adoption Amendment Act 2025
+  - **first commencement date** means the date on which subpart 1 of Part 1 of the amendment Act comes into force
+  - **second commencement date** means the date on which subpart 2 of Part 1 of the amendment Act comes into force.
+
+### 2 Adoption application made before first commencement date
+(1) This clause applies if an application for an adoption order is made to the court, but not determined, before the first commencement date.
+(2) Section 3 as in force immediately before the first commencement date continues to apply in respect of the application as if subpart 1 of Part 1 of the amendment Act had not been enacted.
+
+### 3 Adoption application made between first commencement date and second commencement date
+(1) This clause applies if an application for an adoption order is—
+  (a) made to the court on or after the first commencement date; but
+  (b) not determined before the second commencement date.
+(2) Section 3 as in force immediately before the second commencement date continues to apply in respect of the application as if subpart 2 of Part 1 of the amendment Act had not been enacted.
+
+### 4 Effect of overseas adoption occurring before first commencement date
+(1) This clause applies if a person is adopted pursuant to an overseas adoption before the first commencement date.
+(2) On and after the first commencement date, the limitation on the effect of the adoption set out in section 17(3)﻿(a) (relating to citizenship of the adopted person) does not apply (even if section 17(4) applies).
+(3) On and after the first commencement date, the limitation on the effect of the adoption set out in section 17(3)﻿(b)﻿(i) (relating to visas) does not apply (even if section 17(4) applies) where an application for a visa has been made before the first commencement date.
+(4) On and after the first commencement date, the limitation on the effect of the adoption set out in section 17(3)﻿(b)﻿(i) (relating to visas) does apply (if section 17(4) applies) where an application for a visa has been made after the first commencement date and before the second commencement date.
+
+### 5 Effect of overseas adoption occurring between first commencement date and second commencement date
+(1) This clause applies if a person is adopted pursuant to an overseas adoption—
+  (a) on or after the first commencement date; but
+  (b) before the second commencement date.
+(2) On and after the second commencement date, the limitation on the effect of the adoption set out in section 17(3)﻿(a) (relating to citizenship of the adopted person), as in force immediately before the second commencement date, no longer applies (if it applied before the second commencement date).
+(3) On and after the second commencement date, the limitation on the effect of the adoption set out in section 17(3)﻿(b)﻿(i) (relating to visas), as in force immediately before the second commencement date, continues to apply (if it applied before the second commencement date) where an application for a visa has been made but not determined before the second commencement date.
+
+## Schedule 1AAB — Exempt countries
 
 ## Schedule 1 — Consequential amendments
 
