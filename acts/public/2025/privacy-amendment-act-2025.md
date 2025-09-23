@@ -6,7 +6,7 @@ This Act is the Privacy Amendment Act 2025.
 
 ### 2 Commencement
 (1) Part 1 comes into force on 1 May 2026.
-(2) Part 2 comes into force on the day after Royal assent.
+(2) Part 2 comes into force on 24 September 2025.
 
 ### 3 Principal Act
 This Act amends the Privacy Act 2020.
