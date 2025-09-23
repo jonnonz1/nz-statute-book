@@ -6,7 +6,7 @@ This Act is the Climate Change Response (Emissions Trading Scheme—Forestry Con
 
 ### 2 Commencement
 (1) This Act comes into force on 31 October 2025, except as provided in subsections (2) and (3).
-(2) Sections 6, 7, 10, 11, and 13 come into force on the day after Royal assent.
+(2) Sections 6, 7, 10, 11, and 13 come into force on 24 September 2025.
 (3) Subpart 4B of Part 5, as inserted by section 17, and all other provisions that relate to LUC class 6 land permits, to the extent that they do so, that have not come into force under subsection (2) come into force on 1 January 2026.
 
 ### 3 Principal Act
