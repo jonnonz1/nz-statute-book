@@ -5,7 +5,7 @@ _Consolidation as at 2025-09-23_
 This Act is the Customs (Levies and Other Matters) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 24 September 2025.
 
 ## Part 1 — Customs and Excise Act 2018
 
