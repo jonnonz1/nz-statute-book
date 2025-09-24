@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2025-08-27_
+_Consolidation as at 2025-09-24_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -1222,6 +1222,10 @@ This Act shall bind the Crown.
 (1A) Goods and services tax is not payable under subsection (1) for any goods if the chief executive of the New Zealand Customs Service is satisfied that, at the time of importation or entry for home consumption under the Customs and Excise Act 2018,—
   (a) the goods are intended solely for the use of an organisation, visiting force, expedition, or other body approved by the chief executive of the New Zealand Customs Service that may be established or temporarily based in New Zealand under an agreement or arrangement entered into by or on behalf of the Government of New Zealand with the Government of another State, the United Nations, or any other international organisation; or
   (b) the goods are intended solely for the use of a person temporarily resident in New Zealand for the purpose of serving as a member of any approved organisation, visiting force, expedition, or other body.
+(1AB) Goods and services tax is not payable under subsection (1) for any goods if the chief executive of the New Zealand Customs Service is satisfied that, at the time of importation or entry for home consumption under the Customs and Excise Act 2018 (the current importation),—
+  (a) goods and services tax has been paid on the importation or entry for home consumption of the goods or substantially the same goods on another occasion (the original importation) before the current importation; and
+  (b) the goods and services tax paid on the original importation goods has not been refunded, drawnback, or otherwise remitted; and
+  (c) the goods of the current importation are goods that are the replacement, repair, or refurbishment of the original importation goods under a written warranty or a written returns policy.
 (1B) For the purposes of subsection (1), the value of distantly taxable goods does not include the amounts referred to in subsection (2)﻿(a) and (c) if a registered person before the importation includes tax under section 8 at a rate of more than zero in the price of a supply of the goods.
 (1C) For the purposes of determining whether an item of goods in a consignment is goods to which subsection (1B) applies, the price, before the importation, of the supply of the item is treated as not including tax under section 8 at a rate of more than zero unless the information available to the New Zealand Customs Service at the time of the importation of the item—
   (a) sufficiently identifies the item and the registered person who includes the tax in the price of the supply of the item:
@@ -1242,12 +1246,9 @@ This Act shall bind the Crown.
       (ii) a supply of goods, made before 1 October 1986, that would have been charged with tax at the rate of 0% pursuant to section 11 if the supply of those goods had taken place on 1 October 1986; and
   (c) sections 142 to 145, 149, 150, and 406 of the Customs and Excise Act 2018:
     provided that this paragraph shall not apply to any registered person in respect of goods imported for the purpose of carrying on that person's taxable activity if the person is entitled to make an input tax deduction under section 20(3) in respect of the goods; and
-  (d) section 147 of the Customs and Excise Act 2018, where—
-    (i) the specifications of the imported goods are not in accordance with the specifications of the goods ordered, or the imported goods are faulty; and
-    (ii) the recipient is either not a registered person, or is a registered person but is not entitled to make an input tax deduction under section 20(3) in respect of the imported goods; and
-    (iii) the person who imported the goods exports the goods—
-      (A) in the case of goods with the wrong specifications, within 2 months after their importation, or such longer period not exceeding 12 months after their importation as may be approved by the Customs; or
-      (B) in the case of faulty goods, within 12 months after their importation; and
+  (d) section 147 of the Customs and Excise Act 2018, where a person imports goods and the person is either not a registered person or the person is a registered person but not entitled to make an input tax deduction under section 20(3) in respect of the imported goods, if—
+    (i) the imported goods or substantially the same goods are exported by the person within 12 months of the goods’ importation:
+    (ii) the imported goods or substantially the same goods are exported by the person as a return under a written warranty or a written returns policy in effect at the time of the export; and
   (e) reference numbers 40, 45, 70, 75, 80, 81, and 82 of Part 2 of the Tariff (as defined in section 2(1) of the Tariff Act 1988) if—
     (i) the goods are entitled to be entered under any of these reference numbers; or
     (ii) the goods are entitled to be entered duty free under Part 1 of the Tariff (as so defined), but would have been entitled to be entered under any of these reference numbers if the goods had been dutiable under Part 1 of the Tariff (as so defined).
