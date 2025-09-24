@@ -1,5 +1,5 @@
 # Waste Minimisation Act 2008
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2025-09-24_
 
 ### 1 Title
 This Act is the Waste Minimisation Act 2008.
@@ -50,7 +50,6 @@ This Act binds the Crown.
   - **hazardous substance** includes, but is not limited to, any substance defined in section 2 of the Hazardous Substances and New Organisms Act 1996 as a hazardous substance
   - **infringement fee** means the amount prescribed as the infringement fee for the infringement offence concerned
   - **infringement offence** means an offence prescribed as an infringement offence under section 59(a)
-  - **judicial officer** means a District Court Judge, a Justice of the Peace, a Community Magistrate, or a Registrar (not being a constable)
   - **levy** means the levy imposed by section 26
   - **levy collector** , in relation to a disposal facility, means—
     (a) the Secretary, if there is no appointed levy collector for the facility; or
@@ -292,7 +291,8 @@ Any charge payable to the Secretary under section 20 is recoverable as a debt by
   (d) setting fees payable for the management of a product and specifying—
     (i) the class or classes of person who must pay the fee; and
     (ii) the stages in the life of the product where the fee must be paid; and
-    (iii) the purposes to which the fee must be applied:
+    (iii) the purposes to which the fee must be applied; and
+    (iv) the persons responsible for collecting the fees:
   (e) requiring specified classes of person to charge a deposit on the sale of a product, requiring the deposits to be refunded in specified circumstances, and prescribing requirements for the application of any deposits not refunded:
   (f) prescribing requirements for the labelling of a product:
   (g) for any product or material that has become waste, prescribing standards to be met when reusing, recycling, or recovering the product or material:
@@ -310,12 +310,16 @@ Any charge payable to the Secretary under section 20 is recoverable as a debt by
     (iii) the regulations are consistent with New Zealand’s international obligations.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-**New Zealand Customs Service to provide information about priority products**
+**Role of New Zealand Customs Service**
 
 ### 24 New Zealand Customs Service to provide information about priority products
 (1) The Secretary may request, in writing, the New Zealand Customs Service to provide to the Secretary any information that the New Zealand Customs Service holds about the importers and importation of priority products.
 (2) The New Zealand Customs Service must comply with a request as soon as practicable.
 (3) Information provided to the Secretary under this section may be used by the Secretary only for the purpose of administering and enforcing regulations made under this Part.
+
+### 24A Application of provisions of Customs and Excise Act 2018
+(1) This section applies if the chief executive of the New Zealand Customs Service is specified as a person responsible for collecting fees payable for the management of a product pursuant to regulations made under section 23(1)﻿(d)﻿(iv).
+(2) The provisions of the Customs and Excise Act 2018 that apply to the collection of duties (including, without limitation, subpart 8 of Part 3 of that Act) apply, with all necessary modifications, to the collection of fees under this Act as if the fees were duties to which that Act applies.
 
 ## Part 3 — Waste disposal levy
 
