@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2025-08-28_
+_Consolidation as at 2025-09-24_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -338,7 +338,7 @@ Part 6
     (b) an air courier company
   - **prescribed** means prescribed by regulations, except—
     (a) where it is stated that a matter is to be prescribed by the chief executive’s rules; and
-    (b) in sections 413, 414, and 421
+    (b) in sections 413, 414, 414A, 414B, and 421
   - **prohibited exports** means goods whose exportation is prohibited under section 95, 96, or 97 (whether conditionally or unconditionally)
   - **prohibited goods** means prohibited exports or prohibited imports
   - **prohibited imports** —
@@ -5457,7 +5457,7 @@ Regulations may prescribe the way in which the chief executive may sell goods un
   (b) with modifications, additions, or variations specified in the regulations.
 (3) Section 64(3) and Schedule 2 of the Legislation Act 2019 apply in relation to the incorporation in regulations of provisions under this section.
 
-**Border processing levy orders**
+**Levy orders**
 
 ### 413 Levies for recovering border processing costs
 (1) In this section, traveller means any person who arrives in New Zealand from, or departs from New Zealand for, any place outside New Zealand.
@@ -5493,6 +5493,47 @@ Regulations may prescribe the way in which the chief executive may sell goods un
   (b) provide for those statements, accounts, or records to be retained for a specified period; and
   (c) provide for the remuneration of auditors under section 418(2).
 
+### 414A Levies for recovering costs relating to goods management
+(1) In this section, specified person means any person or class of person specified in a levy order made under subsection (3) as primarily responsible for paying a levy.
+(2) Every specified person is liable, while there is a levy order in force under subsection (3), to pay a levy to the chief executive in relation to the costs incurred by Customs in, or for the purpose of, performing a function under this Act, or any other legislation, relating to goods management, including (without limitation) costs incurred relating to—
+  (a) any of the following activities:
+    (i) the importation or exportation of goods:
+    (ii) the shipment, transhipment, or transport of goods:
+  (b) any of the following goods:
+    (i) prohibited goods:
+    (ii) craft:
+    (iii) other prescribed goods.
+(3) The Governor-General may, by Order in Council, made on the recommendation of the Minister, make a levy order prescribing—
+  (a) the rate of levy or the basis on which the rate is to be calculated or ascertained; and
+  (b) to the extent that the order does not set an actual rate, how the actual rate of the levy is to be set; and
+  (c) when and how the levy is to be paid; and
+  (d) how the rate of levy, and any variation of the rate, is to be notified.
+(4) The Minister must, before recommending that a levy order be made under this section, consult the persons, representative groups, government departments, and Crown agencies that the Minister considers reasonable and appropriate to consult in the circumstances.
+(5) A levy order must not be made in respect of costs that are otherwise recovered, or otherwise to be recovered, under this Act.
+(6) A levy order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 414B Contents of goods management levy order
+(1) A levy order under section 414A—
+  (a) must specify the persons or classes of persons primarily responsible for paying the levy; and
+  (b) may—
+    (i) prescribe different rates of levy for different persons or different classes of persons, different goods or classes of goods, or on any other differential basis:
+    (ii) prescribe a maximum rate or maximum rates of levy:
+    (iii) prescribe persons responsible for collecting the levy from those primarily responsible for paying it:
+    (iv) exempt certain persons or classes of persons from the requirement to pay the levy:
+    (v) allow persons collecting the levy to recover the costs of collecting the levy and, if so, prescribe the basis on which those costs are to be calculated or ascertained:
+    (vi) require that returns be made to the chief executive or some other person or body to enable the amounts of levy payable to be calculated, determined, or verified:
+    (vii) provide, subject to any conditions that may be prescribed, for extensions of time for the payment of the levy:
+    (viii) provide for the payment of additional or increased levy in the event of late payment or non-payment:
+    (ix) provide for circumstances in which levy paid may be refunded:
+    (x) require that levy funds payable be held on trust in separate accounts.
+(2) Every order must,—
+  (a) for the purpose of determining whether the order is being complied with, require any of the following persons to keep statements, accounts, or records of specified classes or descriptions:
+    (i) the chief executive:
+    (ii) persons responsible for paying the levy:
+    (iii) persons responsible for collecting the levy; and
+  (b) provide for those statements, accounts, or records to be retained for a specified period; and
+  (c) provide for the remuneration of auditors under section 418(2).
+
 ### 415 Trust accounts for levy money payable to chief executive
 (1) If a levy order provides that the levy funds payable are to be held on trust in separate accounts, each person responsible for collecting the levy must—
   (a) keep a bank account at a registered bank; and
@@ -5508,17 +5549,17 @@ Regulations may prescribe the way in which the chief executive may sell goods un
 (5) A person who ceases to be a person responsible for collecting a levy must continue to maintain the trust account until all the levy money payable to the chief executive, in respect of the period during which that person was responsible for collecting the levy, has been paid.
 (6) Nothing in subsection (5) limits or affects any obligation or liability under this Act of any person who has become responsible for collecting the levy.
 (7) In this section,—
-  - **levy order** means an order under section 413
+  - **levy order** means an order under section 413 or 414A
   - **registered bank** has the meaning given to that term in section 2(1) of the Banking (Prudential Supervision) Act 1989
   - **trust account** means the account referred to in subsection (1).
 
 ### 416 Effect of levy order
-If an order is made under section 413,—
+If an order is made under section 413 or 414A,—
   (a) every person responsible for paying or collecting the levy must do so; and
   (b) the chief executive may recover the levy in any court of competent jurisdiction as a debt due from any person responsible for paying or collecting it.
 
 ### 417 Compliance audits
-(1) While an order under section 413 is in force, the Minister may, at the request of the chief executive, appoint 1 or more auditors to conduct an audit of the affairs of any person responsible for collecting the levy.
+(1) While an order under section 413 or 414A is in force, the Minister may, at the request of the chief executive, appoint 1 or more auditors to conduct an audit of the affairs of any person responsible for collecting the levy.
 (2) The purpose of an audit under this section is to ascertain—
   (a) the extent to which persons responsible for paying or collecting the levy concerned are doing or have done so:
   (b) the extent to which appropriate amounts of the levy concerned are being or have been paid over to the chief executive:
@@ -5534,7 +5575,7 @@ If an order is made under section 413,—
 (2) Every person appointed as an auditor is entitled to remuneration paid by the chief executive as provided for in the relevant levy order.
 (3) For the purposes of conducting an audit, an auditor may—
   (a) require any specified person to produce, and the person must produce, for inspection within a reasonable period specified by the auditor any statements, accounts, or records—
-    (i) that are required to be kept under section 414(2); and
+    (i) that are required to be kept under section 414(2) or 414B(2); and
     (ii) that are in that person’s possession or under that person’s control:
   (b) take copies of, or extracts from, those statements, accounts, or records.
 (4) The persons referred to in subsection (3)﻿(a) are—
@@ -5551,9 +5592,9 @@ If an order is made under section 413,—
 (7) To avoid doubt, the Official Information Act 1982 applies in respect of any information held by a Minister that was obtained under subsection (6).
 
 ### 419 Offences in relation to levy orders
-(1) A person commits an offence if the person fails to keep or maintain statements, accounts, or records that are required by an order made under section 413 to be kept or maintained.
-(2) A person commits an offence if the person fails to make a return that the person is required to make by an order made under section 413.
-(3) A person commits an offence if the person makes a return that the person is required to make by an order made under section 413 knowing that the return is false or misleading in a material particular.
+(1) A person commits an offence if the person fails to keep or maintain statements, accounts, or records that are required by an order made under section 413 or 414A to be kept or maintained.
+(2) A person commits an offence if the person fails to make a return that the person is required to make by an order made under section 413 or 414A.
+(3) A person commits an offence if the person makes a return that the person is required to make by an order made under section 413 or 414A knowing that the return is false or misleading in a material particular.
 (4) A person commits an offence if the person fails to comply with a requirement imposed under section 418(3)﻿(a).
 (5) A person who commits an offence under subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
