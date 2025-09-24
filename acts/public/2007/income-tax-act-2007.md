@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2025-08-27_
+_Consolidation as at 2025-09-24_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -36224,11 +36224,11 @@ Entitlement to FamilyBoost tax credit
   (b) incurs licensed early childhood service fees for that child or children; and
   (c) is resident in New Zealand.
 Amount of credit
-(2) Subject to subsection (3), the FamilyBoost tax credit for a tax credit quarter is equal to 25% of the licensed early childhood service fees payable by the person for that quarter up to a maximum credit amount of $975.
+(2) Subject to subsection (3), the FamilyBoost tax credit for a tax credit quarter is equal to 40% of the licensed early childhood service fees payable by the person for that quarter up to a maximum credit amount of $1,560.
 Abatement of credit
 (3) If the person’s tax credit income calculated under section MH 4 is greater than $35,000 for the tax credit quarter, the FamilyBoost tax credit for the tax credit quarter is the lesser of—
   (a) the amount of the FamilyBoost tax credit determined under subsection (2); and
-  (b) $975 less the abatement amount.
+  (b) $1,560 less the abatement amount.
 Person may apply for refund
 (4) A person entitled to a FamilyBoost tax credit for a tax credit quarter may apply for a refund of that credit under section 41C of the Tax Administration Act 1994 if, subject to subsection (5),—
   (a) the person has met their obligation to file a return of income by the due dates set out in section 37 of that Act; and
@@ -36271,9 +36271,9 @@ Separated persons
 What this section does
 (1) When a person is entitled to a FamilyBoost tax credit for a tax credit quarter under section MH 3 and the person’s tax credit income for that quarter is greater than $35,000, this section calculates the abatement amount for the purposes of section MH 3(3)﻿(b).
 Rate of abatement
-(2) Subject to subsection (3), the abatement amount is calculated at the rate of 9.75 cents for each complete dollar of the person’s tax credit income for the tax credit quarter that is greater than $35,000.
+(2) Subject to subsection (3), the abatement amount is calculated at the rate of 7 cents for each complete dollar of the person’s tax credit income for the tax credit quarter that is greater than $35,000.
 Zero credit
-(3) If the person’s tax credit income for the tax credit quarter is $45,000 or more, the abatement amount is $975 and the FamilyBoost tax credit amount under section MH 3(2) and (3) is zero.
+(3) If the person’s tax credit income for the tax credit quarter is $57,286 or more, the abatement amount is $1,560 and the FamilyBoost tax credit amount under section MH 3(2) and (3) is zero.
 
 ### Subpart MK — Tax credits for KiwiSaver schemes and complying superannuation funds
 
