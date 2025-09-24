@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2024-11-26_
+_Consolidation as at 2025-09-24_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -164,7 +164,10 @@ In order to recognise and respect the Crown’s responsibility to give effect to
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **2050 target** means the emissions reduction target set in section 5Q
+  - **25% allowance** , in relation to an individual farm, means an area or areas of restricted forest land that are in total up to 25% of all areas of LUC class 1–6 land within the farm boundary
   - **account number** means a unique account number assigned to a holding account by the Registrar under section 15(1)
+  - **actively farmed** , in relation to a record of title, means that all or part of the land described in a record of title is in use for farming purposes
+  - **adjacent** , in relation to land to which 2 or more records of title relate, means land that shares a boundary even if separated by roads, paper roads, streams with esplanade reserves, or other narrow zones of separation, provided that those features do not separate the land into land owned by different persons or entities
   - **agency** means,—
     (a) in relation to the motor vehicle levy, the Registrar of Motor Vehicles; and
     (b) in relation to the goods levy, the chief executive of the New Zealand Customs Service
@@ -172,11 +175,19 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (a) means the allocation or provisional allocation of New Zealand units; but
     (b) does not include the transfer of New Zealand units
   - **annual financial statements of the Government** has the meaning given in section 2(1) of the Public Finance Act 1989
+  - **annual hectare limit** , in relation to a calendar year, means the hectare limit for that year as determined under section 190KH
   - **approved overseas unit** means a unit, other than a New Zealand unit, that is—
     (a) issued (as defined by this section); and
     (b) prescribed as a unit that may be transferred to accounts in the Registry
+  - **arable land use** means the use of land to grow any of the following crops for harvest:
+    (a) grain cereal, legumes, or pulse grain:
+    (b) herbage seed:
+    (c) oilseed:
+    (d) maize grain, maize silage, cereal silage, or mangels:
+    (e) crops grown for seed multiplication
   - **associated person** has the meaning given to it by subsection (3)
   - **auction** means an auction to sell New Zealand units under section 6A
+  - **ballot** means a first ballot or a second ballot conducted by the EPA in accordance with subpart 4B of Part 5
   - **biogenic methane** means all methane greenhouse gases produced from the agriculture and waste sectors (as reported in the New Zealand Greenhouse Gas Inventory)
   - **cancel** , in relation to a unit, means the transfer of the unit to a cancellation account in the Registry with the effect specified in section 18CA(1)
   - **carbon accounting area** means an area of post-1989 forest land—
@@ -209,6 +220,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **Convention** —
     (a) means the United Nations Framework Convention on Climate Change done at New York on 9 May 1992, a copy of the English text of which is set out in Schedule 1; and
     (b) includes any amendments made to the Convention that are, or will become, binding on New Zealand from time to time
+  - **Crown afforestation land** means Crown-owned land that is made available for afforestation, other than land that is used by Landcorp Farming Limited for farming purposes or land administered under the Crown Pastoral Land Act 1998
   - **Crown conservation contract** means a written agreement with the Crown (including a concession granted in accordance with Part 3B of the Conservation Act 1987) for the removal and storage of greenhouse gases on post-1989 forest land that is Crown land managed or administered under the Conservation Act 1987 or any of the Acts listed in Schedule 1 of that Act
   - **Crown holding account** —
     (a) means a holding account that is established and held by the Crown in accordance with a direction of the Minister of Finance under section 6; and
@@ -227,6 +239,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
       (i) the final or more than short-term deposit of waste into or onto land set apart for that purpose; or
       (ii) the incineration of waste by deliberately burning the waste to destroy it; but
     (b) does not include any deposit of biosolids for rehabilitation or other beneficial purposes
+  - **district plan** has the meaning given in section 43AA of the Resource Management Act 1991
   - **document** means a document in any form whether or not signed or initialled or otherwise authenticated by its maker; and includes—
     (a) any writing on any material:
     (b) any information recorded or stored by means of any tape recorder, computer, or any other device; and any material subsequently derived from information so recorded or stored:
@@ -264,15 +277,44 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (a) a reporting entity within the meaning of paragraph (a) of the definition of that term in section 5 of the Financial Reporting Act 2013; or
     (b) a subsidiary (within the meaning of section 5 of the Financial Reporting Act 2013) of a reporting entity referred to in paragraph (a)
   - **Environmental Protection Authority** or means the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011
+  - **erosion-prone land** means land that is spatially identified as a high or severe erosion risk layer in a regional plan or district plan
+  - **ETS application** means an application—
+    (a) under section 57 to be registered as a participant in respect of an activity of standard forestry or permanent forestry; or
+    (b) under section 182C(3) to add any carbon accounting area or areas to the post-1989 forest land in respect of which the applicant is recorded as a participant
   - **ETS participant provisions** means Parts 4 to 5D of this Act
   - **exempt land** —
     (a) means pre-1990 forest land that has been declared to be exempt land—
       (i) under section 180B or 180D; or
       (ii) under section 180E, as long as the EPA has not declared otherwise (because a requirement or condition has been breached); but
     (b) does not include any forest land that met the definition in paragraph (a), but has been deforested, and in respect of which the number of units that would have been required to be surrendered in relation to an activity listed in Part 1 of Schedule 3, had the land not been exempt land, have been surrendered under section 182A(2)
+  - **exempt Māori land** means any of the following:
+    (a) Māori customary land:
+    (b) Māori freehold land:
+    (c) General land owned by Māori that—
+      (i) was previously Māori freehold land, but ceased to have that status under an order of the Māori Land Court made on or after 1 July 1993 or Part 1 of the Maori Affairs Amendment Act 1967; and
+      (ii) is beneficially owned by the persons, or by the successors who are members of the preferred classes of alienees, who beneficially owned the land immediately before the land ceased to be Māori land:
+    (d) land held by a post-settlement governance entity, if the land was acquired—
+      (i) as redress for the settlement of Treaty of Waitangi claims; or
+      (ii) by the exercise of rights under a Treaty settlement:
+    (e) land vested in the Māori Trustee that—
+      (i) is constituted as a Māori reserve by or under the Maori Reserved Land Act 1955; and
+      (ii) remains subject to that Act:
+    (f) land set apart as a Māori reservation under Part 17 of Te Ture Whenua Maori Act 1993:
+    (g) a reserve under the Reserves Act 1977 that, under a Treaty settlement, is managed wholly or jointly by a Treaty settlement entity:
+    (h) land that forms part of a natural feature that has been declared under an Act to be a legal entity or person (including Te Urewera land within the meaning of section 7 of the Te Urewera Act 2014):
+    (i) the maunga listed in section 10 of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014
   - **exotic forest species** means a forest species that is not an indigenous forest species
   - **export** has a corresponding meaning to exportation in section 5(1) of the Customs and Excise Act 2018
+  - **farm boundary** , in relation to an individual farm, means—
+    (a) the boundary of the land described in the record of title; or
+    (b) if the farm consists of land described in more than 1 record of title, the outer boundary encompassing all of the adjacent land described in the records of title
+  - **farming purposes** means land that is in—
+    (a) arable land use; or
+    (b) horticultural land use; or
+    (c) pastoral land use; or
+    (d) any combination of the above
   - **financial year** has the same meaning as in section 2(1) of the Public Finance Act 1989
+  - **first ballot** means the first ballot conducted in a calendar year
   - **first rotation forest** has the meaning given in section 191C(3) and (4)
   - **Food Standards Code** has the same meaning as in section 4(1) of the Animal Products Act 1999
   - **forest land** —
@@ -289,6 +331,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **forestry classification** has the meaning given in section 196
   - **fugitive coal seam gas** means gas released by the activity of mining coal as calculated in accordance with any regulations made under this Act
   - **general cancellation account** means an account in the Registry for the purpose of holding units on behalf of the Crown that are cancelled for any reason
+  - **General land owned by Māori** has the meaning given in section 4 of Te Ture Whenua Maori Act 1993
   - **goods** means all kinds of movable property, including motor vehicles
   - **goods levy** means the synthetic greenhouse gas levy imposed by section 227(1)﻿(b)
   - **greenhouse gas** means—
@@ -301,6 +344,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **gross emissions** means New Zealand’s total emissions from the agriculture, energy, industrial processes and product use, and waste sectors (as reported in the New Zealand Greenhouse Gas Inventory)
   - **group** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **holding account** means an account in the Registry for the purpose of holding units
+  - **horticultural land use** means the use of land to grow food or beverage crops for human consumption (other than arable crops) or flowers for commercial supply
   - **import** has a corresponding meaning to importation in section 5(1) of the Customs and Excise Act 2018
   - **importer** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **indigenous forest species** means a forest species that occurs naturally in New Zealand or has arrived in New Zealand without human assistance
@@ -309,13 +353,21 @@ In order to recognise and respect the Crown’s responsibility to give effect to
       (i) reacts with other gases to form a greenhouse gas; or
       (ii) changes the chemistry of the atmosphere in a way that increases the lifetime of other greenhouse gases; and
     (b) includes, but is not limited to, carbon monoxide, nitrogen oxides, non-methane volatile organic compounds, and sulphur dioxide
+  - **individual farm** means land that—
+    (a) includes LUC class 1–6 land; and
+    (b) is actively farmed; and
+    (c) is described in a record of title or in more than 1 record of title for adjacent land; and
+    (d) is owned by the same person
   - **industrial or trade premises** means any premises used for any industrial or trade purposes, or any premises used for the storage, transfer, treatment, or disposal of waste materials or for other waste-management purposes; but does not include any production land
   - **international climate change obligations** means New Zealand’s international obligations under the Convention, the Protocol, or the Paris Agreement
   - **international transaction body** means a prescribed body that confirms the validity of transactions relating to accounting of greenhouse gas emissions
+  - **inventory agency** means the chief executive
   - **issued** , in relation to an approved overseas unit, means—
     (a) issued by an overseas registry; or
     (b) issued in another way and approved by an international transaction body
-  - **inventory agency** means the chief executive
+  - **land use capability classification** means the classification of land using the land use capability class system—
+    (a) that is published on an Internet site maintained by or on behalf of the New Zealand Institute for Bioeconomy Science Limited; and
+    (b) as amended and published on that Internet site from time to time
   - **landowner** ,—
     (a) in relation to Crown land, means the appropriate Minister (as that term is defined in section 2A of the Crown Minerals Act 1991); and
     (b) in relation to land other than Crown land, means—
@@ -326,6 +378,13 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **leviable motor vehicle** means a motor vehicle that includes, as part of the motor vehicle, an air-conditioning system containing a specified synthetic greenhouse gas
   - **levy year** means the period of 12 months starting on 1 January and ending with the close of 31 December
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
+  - **LUC class 1–6 land** means land identified as land use capability class 1, 2, 3, 4, 5, or 6—
+    (a) on the NZLRI map; or
+    (b) by a property-scale assessment undertaken in accordance with any methodology specified in regulations
+  - **LUC class 6 land** means land identified as land use capability class 6—
+    (a) on the NZLRI map; or
+    (b) by a property-scale assessment undertaken in accordance with any methodology specified in regulations
+  - **LUC class 6 land permit** means a permit issued by the EPA under subpart 4B of Part 5
   - **mandatory emissions return period** means any of the following periods:
     (a) the first commitment period starting on 1 January 2008 and ending on 31 December 2012:
     (b) the 5-year period starting on 1 January 2013 and ending on 31 December 2017:
@@ -333,7 +392,10 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (d) the 3-year period starting on 1 January 2023 and ending on 31 December 2025:
     (e) the 5-year period starting on 1 January 2026 and ending on 31 December 2030:
     (f) each consecutive 5-year period after that
+  - **Māori customary land** has the meaning given in section 4 of Te Ture Whenua Maori Act 1993
+  - **Māori freehold land** has the meaning given in section 4 of Te Ture Whenua Maori Act 1993
   - **Maori land** has the same meaning as in section 4 of Te Ture Whenua Maori Act 1993
+  - **mapped land** means land that is included on the NZLRI map
   - **member** , in relation to an unincorporated body, means a partner, joint venturer, trustee, joint owner of land, or other member of the body
   - **merchantable timber** means timber from the stem of a tree more than 10 years old, other than—
     (a) the stump; and
@@ -353,6 +415,9 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **New Zealand Greenhouse Gas Inventory** means the reports that are required under Articles 4 and 12 of the Convention, Article 7.1 of the Protocol, and Article 13.7 of the Paris Agreement and that are prepared in accordance with section 32(1)
   - **New Zealand unit** means a unit issued by the Registrar and designated as a New Zealand unit
   - **nominated entity** , in relation to a consolidated group, means an entity appointed under section 150(4)﻿(b) or 152(3)﻿(b) as the nominated entity of a consolidated group
+  - **NZLRI map** means the map or maps provided in the New Zealand Land Resource Inventory—
+    (a) that are published on an Internet site maintained by or on behalf of the New Zealand Institute for Bioeconomy Science Limited; and
+    (b) as amended and published on that Internet site from time to time
   - **obligation fuel** means any fuel specified as obligation fuel in regulations made under this Act
   - **obligation jet fuel** means any jet fuel specified as obligation jet fuel in regulations made under this Act
   - **offshore mitigation** means emissions reductions and removals, or allowances from emissions trading schemes,—
@@ -369,8 +434,9 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (a) means the Paris Agreement done at Paris on 12 December 2015, a copy of the English text of which is set out in Schedule 2A; and
     (b) includes any amendments made to the Paris Agreement that are, or will become, binding on New Zealand from time to time
   - **participant** means a person who is a participant under section 54
+  - **pastoral land use** means the use of land for the grazing of livestock
   - **performance** , in relation to ruminants and other farmed livestock, means the production statistics with respect to those animals, including, but not limited to, weight, milk production, lambing and calving percentage, and wool weight
-  - **permanent forestry** has the meaning given in section 182
+  - **permanent forestry** means an activity listed in Part 1A of Schedule 4
   - **post-1989 forest land** means forest land that—
     (a) is one of the following:
       (i) land that was not forest land on 31 December 1989:
@@ -388,6 +454,14 @@ In order to recognise and respect the Crown’s responsibility to give effect to
         (B) in respect of which the number of units that would have been required to be surrendered in relation to an activity listed in Part 1 of Schedule 3, had the land not been exempt land, have been surrendered under section 182A(2):
       (vii) land that was exempt land that has been deforested more than 8 years ago; and
     (b) is not area 1 (approved) land (as defined in section 181) or P90 offsetting land
+  - **post-settlement governance entity** —
+    (a) means a body corporate or the trustees of a trust established, for the purpose of receiving redress in the Treaty settlement of a claimant group,—
+      (i) by that group; or
+      (ii) by or under an enactment or order of a court; and
+    (b) includes—
+      (i) an entity established to represent a collective or combination of claimant groups; and
+      (ii) an entity controlled by an entity referred to in paragraph (a); and
+      (iii) an entity controlled by a hapū to which redress has been transferred by an entity referred to in paragraph (a)
   - **pre-1990 forest land** means forest land that—
     (a) is either of the following:
       (i) land—
@@ -407,10 +481,12 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **provisional allocation** means a provisional allocation made under section 81
   - **public notice** means a notice published in a daily newspaper in each of the cities of Auckland, Wellington, Christchurch, and Dunedin, and made accessible via the Internet
   - **publicly available** , in relation to a document or information, means that the document or information is available at all reasonable times, free of charge, on an Internet site
+  - **record of title** has the meaning given in section 5(1) of the Land Transfer Act 2017
   - **recover** , in relation to dispose,—
     (a) means the extraction of materials or energy from waste for further use or processing; and
     (b) includes making waste into compost
   - **recycle** , in relation to dispose, means the reprocessing of waste to produce new materials
+  - **regional plan** has the meaning given in section 43AA of the Resource Management Act 1991
   - **registered** ,—
     (a) in relation to a motor vehicle, has the same meaning as in section 2(1) of the Land Transport Act 1998; but
     (b) otherwise means registered in accordance with this Act
@@ -419,6 +495,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (a) in relation to a lease in respect of land registered under the Land Transfer Act 2017, means a lease registered under that Act:
     (b) in relation to a lease in respect of land that is not registered under the Land Transfer Act 2017, means a lease registered under the Deeds Registration Act 1908
   - **Registrar** means the person appointed under section 11
+  - **Registrar-General** has the meaning given to Registrar in section 5(1) of the Land Transfer Act 2017
   - **Registrar of Motor Vehicles** has the same meaning as Registrar in section 233(1) of the Land Transport Act 1998
   - **Registry** means the Registry established in New Zealand for the purpose set out in section 10
   - **removal activity** means—
@@ -432,14 +509,27 @@ In order to recognise and respect the Crown’s responsibility to give effect to
         (A) New Zealand’s annual inventory report under section 32 as required under the Convention or Protocol for any year; or
         (B) any emissions report from New Zealand under a successor international agreement; and
     (b) in Part 1B and the definitions of net accounting emissions and offshore mitigation, means greenhouse gases that are removed from the atmosphere
+  - **restricted forest land** means post-1989 forest land that is LUC class 1–6 land and meets the following:
+    (a) the land was not forest land on 31 October 2025:
+    (b) the forest species on the land are predominantly exotic forest species:
+    (c) the land is not—
+      (i) exempt Māori land; or
+      (ii) erosion-prone land; or
+      (iii) unmapped land; or
+      (iv) unfarmed land; or
+      (v) Crown afforestation land
   - **reuse** , in relation to dispose, means the further use of waste in its existing form for the original purpose of the materials or products that constitute the waste or for a similar purpose
+  - **roll-over limit** means the prescribed proportion of the annual hectare limit for a calendar year that is the maximum that can be reallocated from the second ballot of that year to the next calendar year
+  - **second ballot** means the second ballot conducted in a calendar year
   - **Secretariat** means the Secretariat of the Convention
   - **sink activity** , in relation to greenhouse gas removals, means—
     (a) an activity under Article 3.3 of the Protocol; or
     (b) an elected activity under Article 3.4 of the Protocol
+  - **small application** , in relation to a LUC class 6 land permit, means an application for a permit relating to no more than the number of hectares of LUC class 6 land prescribed as the maximum for a small application
   - **solid biofuel** means wood, wood waste, sulphate lyes, or charcoal
   - **specified synthetic greenhouse gas** means a hydrofluorocarbon or perfluorocarbon specified in regulations made under section 246(1)﻿(a)
-  - **standard forestry** has the meaning given in section 182
+  - **standard duration of a LUC class 6 land permit** means the duration set out in section 190KY(1)
+  - **standard forestry** means an activity listed in Part 1 of Schedule 4
   - **subsequent rotation forest** has the meaning given in section 191C(6)
   - **surrender** means the transfer of a unit to a surrender account in the Registry with the effect specified in section 18CA(2)
   - **surrender account** means an account in the Registry for the purpose of holding units that account holders have surrendered
@@ -449,10 +539,38 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **synthetic greenhouse gas levy** or means the levy imposed by section 227
   - **temporary adverse event land** has the meaning given in section 193(1)
   - **the Customs** has the same meaning as Customs in section 5(1) of the Customs and Excise Act 2018
+  - **Treaty settlement** means—
+    (a) a Treaty settlement Act; or
+    (b) a Treaty settlement deed
+  - **Treaty settlement Act** means—
+    (a) an Act listed in Schedule 3 of the Treaty of Waitangi Act 1975; or
+    (b) any other Act that provides redress for Treaty of Waitangi claims, including Acts that provide collective redress or participation arrangements for claimant groups whose claims are, or are to be, settled by another Act, including—
+      (i) the Maori Commercial Aquaculture Claims Settlement Act 2004:
+      (ii) the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014:
+      (iii) the Nga Wai o Maniapoto (Waipa River) Act 2012:
+      (iv) the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010:
+      (v) the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992 and secondary legislation that gives effect to section 10 of that Act and is made under Part 9 of the Fisheries Act 1996
+  - **Treaty settlement deed** —
+    (a) means a deed or other agreement that—
+      (i) has been signed by or on behalf of a Minister of the Crown and representatives of a group of Māori; and
+      (ii) is in settlement of the claims of that group or in express anticipation, or on account, of that settlement; and
+    (b) to avoid doubt, includes a deed or other agreement of the kind described in paragraph (a) that relates to the claims of a collective or combination of Māori groups; but
+    (c) does not include an agreement in principle or any document that is preliminary to a signed and ratified deed
+  - **Treaty settlement entity** means any of the following:
+    (a) a post-settlement governance entity:
+    (b) a board, trust, committee, authority, or other body, incorporated or unincorporated, that is recognised in or established under any Treaty settlement Act:
+    (c) an entity or a person that is authorised by a Treaty settlement Act to act for a natural feature with legal personhood:
+    (d) Te Ohu Kai Moana or a mandated iwi organisation (as those terms are defined in section 5(1) of the Maori Fisheries Act 2004):
+    (e) an iwi aquaculture organisation (as defined in section 4 of the Maori Commercial Aquaculture Claims Settlement Act 2004)
   - **tree weed** means a forest species that is defined or designated as—
     (a) a pest in a pest management strategy under the Biosecurity Act 1993; or
     (b) a tree weed in regulations made under this Act
   - **tree weed spread** means the spread of a tree weed by natural regeneration
+  - **unfarmed land** , in relation to a record of title that is the subject of an ETS application, means that no land described in the record of title—
+    (a) has been used for farming purposes in the 5-year period before the ETS application; and
+    (b) is LUC class 1–6 land that—
+      (i) is forest land; and
+      (ii) contains predominantly exotic forest species planted in the 5-year period after use of the land for farming purposes ceased
   - **unincorporated body** —
     (a) means an unincorporated body of persons; and
     (b) includes (but is not limited to)—
@@ -468,6 +586,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
       (iii) holders of a registered forestry right; or
       (iv) parties to a Crown conservation contract
   - **unit** means a New Zealand unit or an approved overseas unit
+  - **unmapped land** means any land that is not included on the NZLRI map
   - **waste** means any thing that has been disposed of or discarded—
     (a) including (but not limited to) any disposed of or discarded thing that is defined by its composition or source (for example, organic waste, electronic waste, or construction and demolition waste); but
     (b) excluding any solid biofuel combusted for the purposes of generating electricity or industrial heat
@@ -494,6 +613,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   (a) land A and land B are held under different trusts; and
   (b) each trust has the same trustee or trustees; and
   (c) the trustees hold land A and land B in their capacity as professional trustees (as defined in section 180B(7)).
+(8) To avoid doubt, unmapped land ceases to be excluded from the definition of restricted forest land at the time that the land is included on the NZLRI map.
 
 ### 4AA Greenhouse gas definition may be amended to add gases
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
@@ -1722,7 +1842,7 @@ In this subpart,—
 ### 30M Regulations about infringement offences
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for any or all of the following purposes:
   (a) prescribing infringement offences by—
-    (i) prescribing a duty, restriction, or prohibition for conduct that is similar to conduct, or similar to an element of conduct, for which there is a duty, restriction, or prohibition under any of sections 30J, 30K(1), 46, 47, 48, 129, 131, 132(1)﻿(a), (b), and (f) to (i), 259, 260, 261(1)﻿(a), (b), (d), and (e), and 264; and
+    (i) prescribing a duty, restriction, or prohibition for conduct that is similar to conduct, or similar to an element of conduct, for which there is a duty, restriction, or prohibition under any of sections 30J, 30K(1), 46, 47, 48, 129, 131, 132(1)﻿(a), (b), (ea), and (f) to (i), 133(1)﻿(ca), 259, 260, 261(1)﻿(a), (b), (d), and (e), and 264; and
     (ii) providing that a contravention of the duty, restriction, or prohibition is an infringement offence:
   (b) prescribing for the infringement offences—
     (i) maximum fines not exceeding—
@@ -4253,6 +4373,7 @@ If an entity ceases to be a member of a consolidated group, the entity—
     (ii) administering the operation of the ETS participant provisions:
     (iii) enforcing and monitoring compliance with the ETS participant provisions:
     (iv) doing anything else authorised or required under the ETS participant provisions; or
+  (ba) who enters an application into a ballot for a LUC class 6 land permit; or
   (c) who submits an input return under section 194, to enable the recovery of all or part of the direct and indirect costs of the EPA in doing calculations and giving notice under section 194A.
 (3) Examples of the costs that may be recovered under subsection (2) include (but are not limited to)—
   (a) the cost of processing applications and returns:
@@ -4277,6 +4398,40 @@ If an entity ceases to be a member of a consolidated group, the entity—
 (7) If regulations authorise the EPA to grant exemptions, waivers, or refunds referred to in subsection (4)﻿(j),—
   (a) an instrument granting an exemption or a waiver or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
   (b) the regulations must contain a statement to that effect.
+
+### 167A Regulations relating to methodologies and mapping standards
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:
+  (a) prescribing a methodology or methodologies for making a property-scale assessment of the land use capability classification of land described in a record of title:
+  (b) authorising the EPA to issue mapping standards specifying—
+    (i) how land that is to be assessed through property-scale assessment must be mapped; and
+    (ii) how land must be mapped for any other purpose in relation to section 182AB, 182C(5)﻿(a)﻿(ii), 182C(5A), or 182CA to 182CD, or to subpart 4A or 4B of Part 5.
+(2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(3) If regulations authorise the EPA to issue mapping standards under subsection (1)﻿(b),—
+  (a) those standards are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) the regulations must contain a statement to that effect.
+
+### 167B Regulations relating to LUC class 6 land permits
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or more of the following purposes:Ballot requirementsRequirements after ballot conductedOther matters
+  (a) specifying the time frames within which the first and second ballots for each year are to be conducted:
+  (b) specifying the time frames within which applications to enter the first ballot or the second ballot may be made each year:
+  (c) specifying how the total number of hectares in the annual hectare limit must be apportioned between the first and second ballots:
+  (d) prescribing how much of the annual hectare limit must be reserved for small applications in each of the first and second ballots:
+  (e) specifying the proportion of the annual hectare limit that comprises the roll-over limit:
+  (f) prescribing the number of hectares of LUC class 6 land in respect of which an application is made that determines whether an application is to be treated as a small application:
+  (g) requiring an application for a LUC class 6 land permit to include a map of the applicant’s LUC class 6 land prepared in accordance with any mapping standard issued by the EPA:
+  (h) requiring a permit application to identify the applicant's LUC class 6 land in respect of which the application is made by reference to—
+    (i) the NZLRI map; or
+    (ii) a property-scale assessment undertaken in accordance with any mapping standard issued by the EPA:
+  (i) requiring a person who undertook a property-scale assessment for inclusion in an application for a LUC class 6 land permit to provide information to the EPA about the assessment when requested to do so, for example, a statement that the person undertook the assessment in accordance with any methodology specified in regulations:
+  (j) prescribing the process the EPA must follow after a ballot is conducted, including—
+    (i) determining whether an application meets the conditions of eligibility; and
+    (ii) notifying applicants whose applications are successful:
+  (k) specifying the circumstances in which part of the annual hectare limit of LUC class 6 land in a ballot or the unused hectares of an expired or a cancelled permit may be transferred to or added to a later year’s ballot:
+  (l) prescribing whether, how, and how many hectares that are not included in the LUC class 6 permits that are issued as the result of a ballot may be reallocated (except as provided in section 190KK(2)﻿(a) or (b) or section 190KL), including in either or both of the following ways:
+    (i) to another ballot:
+    (ii) to the allocation of hectares that are reserved or not reserved for small applications:
+  (m) prescribing any other matters that are necessary to ensure the proper functioning of a ballot.
+(2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 168 Other regulations
 (1) The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
@@ -5055,9 +5210,7 @@ If an activity listed in Part 1A of Schedule 3 is carried out on P90 offsetting 
 ### 182 Standard and permanent forestry on post-1989 forest land
 (1) In this subpart,—
   - **final forestry emissions return** means an emissions return that is prepared under section 183B and is not a provisional forestry emissions return
-  - **permanent forestry** means an activity listed in Part 1A of Schedule 4
-  - **provisional forestry emissions return** means an emissions return submitted under section 183
-  - **standard forestry** means an activity listed in Part 1 of Schedule 4.
+  - **provisional forestry emissions return** means an emissions return submitted under section 183.
 (2) To avoid doubt, standard forestry and permanent forestry comprise the same list of activities carried out in respect of post-1989 forest land, but the difference is that the person carrying out the activity has chosen the relevant Part of Schedule 4 to apply to the land.
 
 ### 182A Conditions on registration as participant in certain activities of standard or permanent forestry in respect of post-1989 forest land
@@ -5928,7 +6081,7 @@ In this subpart,—
 (3) The nominal average carbon stock (NACS) for land is the average carbon stock of the land if the length of each forest rotation is assumed to be equal to,—determined in accordance with the prescribed methodology.
   (a) if the land has a first rotation forest, the current age of the forest species on the land:
   (b) if the land has a subsequent rotation forest, the prior clearing age,
-(4) The typical average carbon stock (TACS) for land is the average carbon stock of the land if the average length of each forest rotation is assumed to be equal to,— determined in accordance with the prescribed methodology.
+(4) The typical average carbon stock (TACS) for land is the average carbon stock of the land if the average length of each forest rotation is assumed to be equal to,—determined in accordance with the prescribed methodology.
   (a) if the land has a first rotation forest, the average expected rotation length for land of that kind:
   (b) if the land has a subsequent rotation forest, the prior clearing age,
 (5) In this section,—
