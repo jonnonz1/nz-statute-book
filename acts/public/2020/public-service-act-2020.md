@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2025-08-01_
+_Consolidation as at 2025-09-25_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -1191,7 +1191,7 @@ The amendments to the State Sector (Ministry for Primary Industries) Order 2012 
 | Cancer Control Agency | Ministry of Health |  |  |
 | Charter School Agency | Ministry of Education |  | ✓ |
 | Ministry for Ethnic Communities | Department of Internal Affairs |  |  |
-| National Emergency Management Agency | Department of the Prime Minister and Cabinet |  |  |
+| National Emergency Management Agency | Department of Internal Affairs |  |  |
 | Office of Treaty Settlements and Takutai Moana—Te Tari Whakatau | Ministry of Justice |  |  |
 
 | Interdepartmental executive board |  | Departments in board’s remit (see section 26(2)﻿(b)) | Servicing department |
