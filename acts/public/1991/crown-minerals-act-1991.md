@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2025-08-06_
+_Consolidation as at 2025-09-25_
 
 > Title
 
@@ -200,6 +200,7 @@ Schedule 1 contains savings and transitional provisions that affect other provis
   - **territorial sea** means the territorial sea of New Zealand as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **Tier 1 permit** has the meaning given by section 2B(1)
   - **Tier 2 permit** has the meaning given by section 2B(2)
+  - **Tier 3 permit** has the meaning given by section 2B(2A)
   - **Treaty of Waitangi (Te Tiriti o Waitangi)** has the same meaning as the word Treaty as defined in section 2 of the Treaty of Waitangi Act 1975
   - **underground gas storage facility** means a natural reservoir into which petroleum is injected in a gaseous state for subsequent extraction
   - **uranium** includes thorium and all natural substances, chemical compounds, and physical combinations of uranium or thorium
@@ -224,7 +225,7 @@ Schedule 1 contains savings and transitional provisions that affect other provis
   (c) if neither of paragraphs (a) and (b) applies, the Minister of Lands.
 (2) However, if after subsection (1) is applied there is uncertainty as to who is the appropriate Minister, the appropriate Minister is the Minister designated by the Governor-General by Order in Council.
 
-### 2B Meaning of Tier 1 permit and Tier 2 permit
+### 2B Meaning of Tier 1 permit, Tier 2 permit, and Tier 3 permit
 (1) In this Act, Tier 1 permit means the following permits:
   (a) a prospecting, exploration, or mining permit that relates to petroleum:
   (b)
@@ -233,21 +234,41 @@ Schedule 1 contains savings and transitional provisions that affect other provis
   (e) an exploration or mining permit that (irrespective of the type of mineral to which the permit relates, the year of the permit's life, or any threshold amounts specified for the mineral to which the permit relates in Schedule 5)—
     (i) relates to an underground operation or an operation that is (whether wholly or partially) 50 metres or more beyond the seaward side of the mean high-water mark; and
     (ii) is not for a special purpose mining activity.
-(2) In this Act, Tier 2 permit means a permit that is not a Tier 1 permit.
+(2) In this Act, Tier 2 permit means a permit that is not a Tier 1 permit or a Tier 3 permit.
+(2A) In this Act, Tier 3 permit means a permit that—
+  (a) authorises mining for gold in the bed of a river, on a beach, or both; and
+  (b) does not authorise mining for any other mineral; and
+  (c) applies to an area not exceeding 50 continuous hectares; and
+  (d) authorises work in accordance with the work programme set out in section 2BA; and
+  (e) is not a Tier 1 permit.
 (3) For the purposes of the Minister making an estimate for the purposes of subsection (1)﻿(c) or (d), the life of a permit includes any extensions of duration to the permit granted under this Act.
+(4) In this section and sections 2BA and 29AB, river includes a stream or creek.
+
+### 2BA Work programme for Tier 3 permits
+(1) The work programme for a Tier 3 permit is—
+  (a) the permit holder will mine for gold:
+  (b) the permit holder may only use the following equipment:
+    (i) unpowered hand tools:
+    (ii) riffle boxes and associated equipment:
+    (iii) powered equipment not exceeding a combined total of 10 horsepower (or the equivalent of 10 horsepower) at any one time:
+    (iv) other similar equipment that is consistent with small-scale non-commercial gold mining:
+    (v) equipment permitted by regulations:
+  (c) a work programme that is otherwise in accordance with requirements specified in regulations.
+(2) For the purposes of subsection (1)﻿(b), the permit holder may not use any equipment prohibited by regulations.
 
 ### 2C Determination of permit tier status
-(1) This section applies to each exploration permit and mining permit whose Tier 1 (or, by default, Tier 2) status must be determined in accordance with section 2B(1)﻿(c) or (d).
-(2) The Minister must determine the tier status of a permit—
-  (a) on first granting the permit, and at any time that the permit is changed under section 36(1); or
-  (b) if the permit exists on the commencement of this section, as soon as practicable after the commencement of this section, and at any time that the permit is changed under section 36(1).
-(3) The Minister may determine the tier status of a permit at any other time as he or she thinks fit.
-(4)
+(1) The Minister must determine the tier status of a permit—
+  (a) on first granting the permit; and
+  (b) at any time that the permit is changed under section 36(1).
+(2) The Minister may determine the tier status of a permit at any other time the Minister thinks fit.
+(3) Despite subsections (1) and (2), the Minister may not make a determination that would result in a Tier 3 permit becoming a Tier 2 permit.
 
 ### 2D Consequences of change in status of permit
-(1) This section applies if, as a result of a determination made by the Minister under section 2C, a Tier 1 permit becomes a Tier 2 permit or a Tier 2 permit becomes a Tier 1 permit.
+(1) This section applies if, as a result of a determination made by the Minister under section 2C, the tier status of a permit changes.
 (2) The chief executive must notify the permit holder of the change in tier.
-(3) The change in tier takes effect for the purposes of this Act on and from the start of the permit year following the date of the notification under subsection (2).
+(3) The change in tier takes effect,—
+  (a) if a Tier 2 permit is being changed to a Tier 3 permit, on the date of the notification under subsection (2); or
+  (b) in any other case, at the start of the permit year following the date of the notification under subsection (2).
 
 ### 3 Act to bind Crown
 This Act shall bind the Crown.
@@ -301,7 +322,7 @@ The chief executive has the following functions under this Act:
 (2A) Subsection (1) does not apply to the taking by any person of any Crown owned mineral in a legal road, whether formed, unformed, or stopped, if—
   (a) the mineral is—
     (i) coal; or
-    (ii) a mineral (other than coal) for which a Tier 2 permit would, but for this provision, be required; and
+    (ii) a mineral (other than coal) for which a Tier 2 permit or a Tier 3 permit would, but for this provision, be required; and
   (b) the road is within an area of land that otherwise contains privately owned minerals.
 (3) Subsection (1) does not prohibit prospecting or exploring for, or mining, gold in a gold fossicking area by means of hand held non-motorised machinery in accordance with section 98 or 98A.
 (4) This section applies subject to section 86 of the Ngāti Awa Claims Settlement Act 2005.
@@ -479,7 +500,7 @@ The Minister must notify every person who made a submission on the draft program
   (b) the conditions on which the permit is granted; and
   (c) the names of the permit participants; and
   (d) the name of the permit operator; and
-  (e) if any of the minerals to which the permit applies are minerals listed in the first column of Schedule 5, whether the permit in respect of those minerals is a Tier 1 or a Tier 2 permit.
+  (e) if any of the minerals to which the permit applies are minerals listed in the first column of Schedule 5, whether the permit in respect of those minerals is a Tier 1, a Tier 2, or a Tier 3 permit.
 (4) A permit may also specify the date on which the permit expires if the permit is to expire on a date earlier than the default expiry date set out in section 35.
 (5) A permit must not be granted under this Part if a monetary deposit or bond that is required by the Minister as security for compliance with the conditions of the permit has not been deposited with the chief executive.
 (6) The Minister must not grant an exploration permit or a mining permit in respect of privately owned minerals, except as provided for by section 84 of the Marine and Coastal Area (Takutai Moana) Act 2011.
@@ -538,13 +559,13 @@ Where the Minister considers it appropriate to do so, the Minister may require t
 
 **Process for dealing with applications for permits**
 
-### 29A Process for considering application
-(1) An applicant for a permit must provide to the Minister—
+### 29A Process for considering application for Tier 1 or Tier 2 permit
+(1) An applicant for a Tier 1 permit or a Tier 2 permit must provide to the Minister—
   (a) the name and contact details of the proposed permit participants and the proposed permit operator; and
   (b) a proposed work programme for the proposed permit, which may comprise committed work, or committed and contingent work; and
   (c) in the case of an exploration permit for minerals other than petroleum, an estimate of the expected total work programme expenditure in relation to the permit; and
   (d) any other information prescribed in the regulations.
-(2) Before granting a permit, the Minister must be satisfied—
+(2) Before granting a Tier 1 permit or a Tier 2 permit, the Minister must be satisfied—
   (a) that the proposed work programme provided by the applicant is consistent with—
     (i) the purpose of this Act; and
     (ii) the purpose of the proposed permit; and
@@ -565,6 +586,18 @@ Where the Minister considers it appropriate to do so, the Minister may require t
   (a) whether the permit holder or permit operator is required to obtain any permit, consent, or other permission under any health and safety or environmental legislation:
   (b) the granting to the permit holder or permit operator of any permit, consent, or other permission necessary under any health and safety or environmental legislation by any government agency, consent authority, or Minister responsible for the administration of that legislation.
 (5) This section is subject to sections 29B and 29C.
+
+### 29AB Process for considering application for Tier 3 permit
+(1) An applicant for a Tier 3 permit must provide to the Minister—
+  (a) the name and contact details of the proposed permit participants and the proposed permit operator; and
+  (b) whether the activity will be carried out in the bed of a river, on a beach, or both; and
+  (c) any other information prescribed in the regulations.
+(2) Before granting a Tier 3 permit, the Minister must be satisfied—
+  (a) that the applicant is highly likely to comply with, and give proper effect to, the work programme, taking into account—
+    (i) the applicant’s technical capability; and
+    (ii) the applicant’s financial capability; and
+    (iii) any relevant information on the applicant’s failure to comply with permits or rights, or conditions in respect of those permits or rights, to prospect, explore, or mine in New Zealand or internationally; and
+  (b) that the applicant is highly likely to comply with the relevant obligations under this Act or the regulations in respect of reporting and the payment of fees and, if applicable, royalties.
 
 ### 29B Process for considering application under public tender for conditional exploration permit
 (1) This section applies if—
@@ -601,7 +634,7 @@ Where the Minister considers it appropriate to do so, the Minister may require t
   (b) within the period notified to the permit holder under subsection (6).
 (6) On receiving a notice from a permit holder under subsection (5), the Minister shall notify the permit holder in writing of the period which in the Minister's opinion is reasonable to allow for—
   (a) the carrying out of the necessary appraisal work in respect of the discovery; and
-  (b) the preparation of a work programme for the mining of the discovery; and
+  (b) the preparation of a work programme for the mining of the discovery (unless the permit is a Tier 3 permit); and
   (c) the consideration and granting of an application for a permit to mine the discovery.
 (7) Subject to subsection (8) and unless the permit expressly provides otherwise, the rights referred to in subsections (1) to (3) are exclusive to the permit holder.
 (8) A permit conferring all or any of the same rights as a current permit in respect of all or part of the same land and the same mineral may only be granted to a person other than the holder of the current permit with the prior written consent of the current permit holder.
@@ -716,11 +749,15 @@ The Minister may—
   (a) 10 years after the commencement date specified in the permit; or
   (b) if an earlier expiry date is specified in the permit, on that date.
 (6) An exploration permit for minerals other than petroleum may not be extended beyond 10 years after the commencement date specified in the permit, unless extended further under section 35A.
-(7) A mining permit expires—
+(7) A mining permit (except a Tier 3 permit) expires—
   (a) 40 years after the commencement date specified in the permit; or
   (b) if an earlier expiry date is specified in the permit, on that date.
-(8) A mining permit may be extended only in accordance with section 36(1), (2), and (5).
-(9) The Minister may, on the application of a permit holder, amend the commencement date of a permit, and subsection (1), (3), (5), or (7) applies accordingly, if the Minister is satisfied that—
+(8) A mining permit (except a Tier 3 permit) may be extended only in accordance with section 36(1), (2), and (5).
+(8A) A Tier 3 permit expires—
+  (a) 10 years after the commencement date specified in the permit; or
+  (b) if an earlier expiry date is specified in the permit, on that date.
+(8B) A Tier 3 permit may be extended only in accordance with section 36(1) and (2) and section 36A.
+(9) The Minister may, on the application of the holder of a Tier 1 permit or a Tier 2 permit, amend the commencement date of the permit, and subsection (1), (3), (5), or (7) applies accordingly, if the Minister is satisfied that—
   (a) the permit holder has been prevented from commencing activities under the permit by—
     (i) delays in obtaining consents under any Act; or
     (ii) delays in obtaining access to land under this Act; and
@@ -792,6 +829,14 @@ The Minister may—
 (5C) If the certificate of change is for an extension of land to which a permit relates and that extension of land was granted in respect of Māori land, the chief executive must also forward 1 copy of the certificate to the Registrar of the Māori Land Court.
 (5D) On receiving a copy of a certificate of change under subsection (5C), the Registrar of the Māori Land Court must enter in his or her records the particulars of that certificate.
 (6) Every application under this section shall be in the form and contain the information required by the Minister in that case.
+
+### 36A Limits on change to Tier 3 permit
+(1) The holder of a Tier 3 permit may make a written application under section 36(1)﻿(b) only to—
+  (a) extend the land to which the permit relates; or
+  (b) extend the duration of the permit.
+(2) The duration of a Tier 3 permit may only be extended if the permit holder satisfies the Minister that the discovery to which the permit relates cannot be economically depleted before the expiry date of the permit (and, in that respect, the Minister may consider the extent to which the inability to deplete the discovery during the term of the permit is due to causes or reasons beyond the permit holder’s control).
+(3) A permit holder may not make a written application under section 36(1)﻿(b) that, if granted, would result in the permit not satisfying the requirements of a Tier 3 permit as set out in section 2B(2A).
+(4) Section 36(3), (5), and (5AA) does not apply to a Tier 3 permit.
 
 ### 37 Process for Minister's proposal to change work programme for petroleum mining permit
 (1) The work programme for a petroleum mining permit granted on or after the commencement of this section may be changed in accordance with this section if the change is necessary to maximise the economic recovery of the petroleum in accordance with good industry practice.
@@ -1370,8 +1415,8 @@ For the purposes of sections 53 to 54A, prospecting, exploration, or mining carr
 
 ### 61 Access arrangements in respect of Crown land and land in common marine and coastal area
 (1) The appropriate Minister may, by agreement with the permit holder concerned, enter into the following arrangements in respect of Crown land or, subject to section 54A, the common marine and coastal area:
-  (a) an initial access arrangement in relation to a Tier 2 permit:
-  (b) a variation to an existing access arrangement in relation to a Tier 2 permit:
+  (a) an initial access arrangement in relation to a Tier 2 permit or a Tier 3 permit:
+  (b) a variation to an existing access arrangement in relation to a Tier 2 permit or a Tier 3 permit:
   (c) a variation to an existing access arrangement in relation to a Tier 1 permit, except if the variation is to allow access for the purpose of significant exploration or mining activities.
 (1AA) The Minister and the appropriate Minister may, by agreement with the permit holder concerned, enter into the following arrangements in respect of Crown land or, subject to section 54A, the common marine and coastal area:
   (a) an initial access arrangement in relation to a Tier 1 permit:
@@ -2988,6 +3033,7 @@ A person may be prosecuted or convicted of any offence referred to in the Act (r
     (iii) reports must be provided to the chief executive.
   (d) prescribing the manner in which permits may be surrendered:
   (e) prescribing the manner in which persons wishing to apply for permits in respect of any land are to mark out or identify the land and prescribing a graticular system for the purpose of defining areas or parts of areas comprised in permits, applications for permits, or extensions of permits:
+  (ea) specifying requirements for the work programme for Tier 3 permits under section 2BA, including permitting or prohibiting the use of specific equipment by permit holders:
   (f) prescribing registers to be kept under this Act, the form of such registers, the matters to be entered therein, and the means by which entries shall be verified:
   (g) providing for the keeping and provision of records, reports, information, and returns by permit holders for any purpose under this Act, and prescribing the nature of the records, reports, information, and returns, and the form, manner, and times in or at which they shall be kept or provided:
   (gaa) prescribing the records, statements, or any other documentation or information required under other legislation that must be retained for the purposes of this Act:
@@ -3539,6 +3585,39 @@ For the purposes of applying clauses 11 to 20 (subpart 2) of Part 1 of this sche
 
 ### 43 Information provided to chief executive by certain speculative prospectors
 For the purposes of section 90(8), the reference in that subsection to 15 years must be read as 21 years in any case where the non-exclusive petroleum prospecting permit commenced during the period starting on 19 December 2012 and ending on 29 November 2017.
+
+**Tier 3 permits**
+
+### 44 Pre-existing applications
+(1) Subclause (2) applies if—
+  (a) a person applies for a permit before the Tier 3 commencement date; and
+  (b) if granted before the Tier 3 commencement date, the permit would be a Tier 2 permit; and
+  (c) the permit is granted on or after the Tier 3 commencement date; and
+  (d) the permit satisfies the requirements of a Tier 3 permit as set out in section 2B(2A); and
+  (e) the Minister determines that the permit area is an appropriate area.
+(2) If this subclause applies, and—
+  (a) if, before the permit is granted, the applicant requests the Minister to determine the application as if Tier 3 permits had not been introduced, the permit (if granted) is a Tier 2 permit:
+  (b) if paragraph (a) does not apply, the permit is a Tier 3 permit.
+(3) Subclause (4) applies if—
+  (a) a person applies for a change to a Tier 2 permit under section 36(1)﻿(b) before the Tier 3 commencement date; and
+  (b) were the certificate of change for the permit to be granted before the Tier 3 commencement date, the permit would remain a Tier 2 permit; and
+  (c) the certificate of change for the permit is granted in response to the application on or after the Tier 3 commencement date; and
+  (d) the permit satisfies the requirements of a Tier 3 permit as set out in section 2B(2A).
+(4) If this subclause applies, and—
+  (a) if, before the application is determined, the applicant requests the Minister to determine the application as if Tier 3 permits had not been introduced, the permit (if granted) is a Tier 2 permit:
+  (b) if paragraph (a) does not apply, the permit is a Tier 3 permit.
+(5) In this clause and clause 45, Tier 3 commencement date means the date on which the provisions referred to in section 2(2) of the Crown Minerals Amendment Act 2025 come into force.
+
+### 45 Existing Tier 2 permits may become Tier 3 permits
+(1) This clause applies to a permit that is a Tier 2 permit immediately before the Tier 3 commencement date.
+(2) The permit holder may, by the close of 11 December 2026, make a proposal to the Minister that the permit be changed to a Tier 3 permit, including making any proposed changes to the permit necessary to meet the requirements of a Tier 3 permit.
+(3) The Minister must—
+  (a) consider whether the permit satisfies the requirements of a Tier 3 permit as set out in section 2B(2A); and
+  (b) determine whether the permit area is an appropriate area.
+(4) The Minister may accept or decline the proposal (or any later amended proposal) and, if the Minister accepts the proposal or amended proposal,—
+  (a) the changes proposed by the permit holder (if any) are made to the permit; and
+  (b) the permit becomes a Tier 3 permit.
+(5) Those changes to the permit (if any) and tier status occur, if the Minister accepts the proposal or amended proposal on or after the Tier 3 commencement date, on the date of the notification of the Minister’s decision to the permit holder.
 
 **Financial securities**
 
