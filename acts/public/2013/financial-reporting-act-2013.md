@@ -1,5 +1,5 @@
 # Financial Reporting Act 2013
-_Consolidation as at 2022-10-27_
+_Consolidation as at 2025-09-29_
 
 ### 1 Title
 This Act is the Financial Reporting Act 2013.
@@ -700,13 +700,16 @@ The purpose of this subpart is to—
   (b)
 
 ### 45 Meaning of large
-(1) For the purposes of an enactment that refers to this section, an entity (other than an overseas company or a subsidiary of an overseas company) is large in respect of an accounting period if at least 1 of the following paragraphs applies:ExampleABC Limited has an accounting period of 1 April 2014 to 31 March 2015.The balance dates of the 2 preceding periods are 31 March 2013 and 31 March 2014. As at 31 March 2013, ABC Limited and its subsidiaries had total assets of $50 million. As at 31 March 2014, those total assets were $55 million.During the period 1 April 2012 to 31 March 2013, ABC Limited and its subsidiaries had total revenue of $25 million. During the period 1 April 2013 to 31 March 2014, that total revenue was $35 million. Given that the $33 million threshold in paragraph (b) is crossed in only 1 of those preceding periods, paragraph (b) is not satisfied. ABC Limited is not a large company in relation to the accounting period of 1 April 2014 to 31 March 2015.
+(1) For the purposes of an enactment that refers to this section, an entity (other than an overseas company or a subsidiary of an overseas company) is large in respect of an accounting period if at least 1 of the following paragraphs applies:ExampleABC Limited has an accounting period of 1 April 2014 to 31 March 2015.The balance dates of the 2 preceding periods are 31 March 2013 and 31 March 2014. As at 31 March 2013, ABC Limited and its subsidiaries had total assets of $50 million. As at 31 March 2014, those total assets were $55 million.During the period 1 April 2012 to 31 March 2013, ABC Limited and its subsidiaries had total revenue of $25 million. During the period 1 April 2013 to 31 March 2014, that total revenue was $35 million. Given that the $33 million threshold in paragraph (b) is crossed in only 1 of those preceding periods, paragraph (b) is not satisfied.ABC Limited is not a large company in relation to the accounting period of 1 April 2014 to 31 March 2015.
   (a) as at the balance date of each of the 2 preceding accounting periods, the total assets of the entity and its subsidiaries (if any) exceed $66 million:
   (b) in each of the 2 preceding accounting periods, the total revenue of the entity and its subsidiaries (if any) exceeds $33 million.
 (2) For the purposes of an enactment that refers to this section, an overseas company or a subsidiary of an overseas company is large in respect of an accounting period if at least 1 of the following paragraphs applies:
   (a) as at the balance date of each of the 2 preceding accounting periods, the total assets of the entity and its subsidiaries (if any) exceed $22 million:
   (b) in each of the 2 preceding accounting periods, the total revenue of the entity and its subsidiaries (if any) exceeds $11 million.
-(3) Despite subsections (1) and (2), an entity is not large in respect of an accounting period (period A) if—
+(2A) In addition,—
+  (a) an entity (other than an overseas company or a subsidiary of an overseas company) is large in respect of an accounting period if the entity has, on the balance date of the period, 1 or more subsidiaries that are large in respect of that accounting period under subsection (1):
+  (b) an overseas company or a subsidiary of an overseas company is large in respect of an accounting period if the entity has, on the balance date of the period, 1 or more subsidiaries that are large in respect of that accounting period under subsection (2).
+(3) Despite subsections (1) to (2A), an entity is not large in respect of an accounting period (period A) if—
   (a) the entity was an inactive entity in respect of period A; and
   (b) the entity, within 5 months after the end of period A, delivers to the Registrar a declaration, in the prescribed form, stating that it was an inactive entity in respect of period A.
 (4) In subsection (3), an entity is an inactive entity in respect of an accounting period if,—
@@ -721,10 +724,10 @@ The purpose of this subpart is to—
   (c) interest earned on any bank account during the accounting period, to the extent that the total interest does not exceed the total of any charges or costs incurred by the entity to which paragraph (b) applies.
 
 ### 46 Meaning of specified not-for-profit entity
-For the purposes of an enactment that refers to this section, an entity is a specified not-for-profit entity in respect of an accounting period if, in each of the 2 preceding accounting periods of the entity, the total operating payments of the entity are $140,000 or more.
+For the purposes of an enactment that refers to this section, an entity is a specified not-for-profit entity in respect of an accounting period if, in each of the 2 preceding accounting periods of the entity, the total operating payments of the entity and all entities it controls (if any) are $140,000 or more.
 
 ### 47 Financial reporting standards must be complied with
-A financial reporting standard (or a part of a standard) that is expressed as applying for the purposes of section 45(1)﻿(a) or (b) or (2)﻿(a) or (b) or 46 must be applied in determining whether that provision applies (for example, the standard may define operating payments for the purposes of section 46).
+A financial reporting standard (or a part of a standard) that is expressed as applying for the purposes of section 45(1)﻿(a) or (b) or (2)﻿(a) or (b) or 46 must be applied in determining whether that provision applies (for example, the standard may define operating payments or control for the purposes of section 46).
 
 ### Subpart 6 — Monetary amounts adjusted for inflation
 
@@ -955,3 +958,10 @@ Guidance issued by the Board in accordance with section 19A (as inserted by sect
   (a) if the monetary amounts in sections 461Q and 461S of the Financial Markets Conduct Act 2013 do not form part of the first review under section 48(2) of this Act:
   (b) despite the date on which section 45 of the 2021 Amendment Act (which amends section 49 of this Act) comes into force.
 (4) The Minister’s recommendation (if any) under section 48(1)﻿(b), after conducting the first review, must not include a recommendation for the purposes of section 49(i) or (j).
+
+### Part 3 — Provision relating to Regulatory Systems (Economic Development) Amendment Act 2025
+
+### 8 Application of change to definitions of large and specified not-for-profit entity
+(1) Sections 45 and 46 (as in force on and after the commencement date) apply to accounting periods that commence on or after the commencement date.
+(2) Sections 45 and 46 (as in force before the commencement date) continue to apply to accounting periods that commence before the commencement date.
+(3) In this clause, commencement date means the date on which Part 10 of the Regulatory Systems (Economic Development) Amendment Act 2025 comes into force.
