@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-09-29_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -33,6 +33,7 @@ _Consolidation as at 2023-12-23_
   - **asset-holding company** has the meaning given to it in section 5 of the Maori Fisheries Act 2004
   - **associated or dependent species** means any non-harvested species taken or otherwise affected by the taking of any harvested species
   - **beach cast seaweed** means seaweed of any species that is unattached and cast ashore
+  - **beneficial owner** has the meaning set out in section 113BA
   - **best available information** means the best information that, in the particular circumstances, is available without unreasonable cost, effort, or time
   - **biological diversity** means the variability among living organisms, including diversity within species, between species, and of ecosystems
   - **Catch History Review Committee** means the committee established under section 283
@@ -42,8 +43,10 @@ _Consolidation as at 2023-12-23_
   - **commercial fisher** —
     (a) means a person who holds a fishing permit issued under section 91; and
     (b) for the purposes of sections 72 and 75, includes—
-      (i) a person who holds a high seas fishing permit; and
-      (ii) a person using a New Zealand ship who, in the judgment of the chief executive, holds a valid authority from a foreign country to take highly migratory species in the national fisheries jurisdiction of that foreign country
+      (i) a person who holds an international fishing permit for the high seas; and
+      (ii) a person using a New Zealand ship who—
+        (A) holds an international fishing permit for taking a highly migratory species in the national fisheries jurisdiction of a foreign country; and
+        (B) in the judgement of the chief executive, holds a valid authority from the foreign country to take the highly migratory species in that national fisheries jurisdiction
   - **commercial fishing** means taking fish, aquatic life, or seaweed in circumstances where a fishing permit is required by section 89
   - **Commission** means the Treaty of Waitangi Fisheries Commission established under section 4 of the Maori Fisheries Act 1989
   - **conservation** means the maintenance or restoration of fisheries resources for their future use; and has a corresponding meaning
@@ -82,6 +85,7 @@ _Consolidation as at 2023-12-23_
   - **farmed fish** , in relation to a fish farmer, means fish, aquatic life, or seaweed—
     (a) of a species specified in the fish farmer's registration or licence under the Freshwater Fish Farming Regulations 1983 for the site concerned; and
     (b) that was not acquired in breach of section 192A
+  - **final IUU vessel list** has the meaning set out in section 113B
   - **financial year** means a period of 12 months commencing on 1 July and ending with 30 June
   - **finfish** includes all species of finfish of the classes Agnatha, Chondrichthyes, and Osteichthyes, at any stage of their life history, whether living or dead
   - **fish** includes all species of finfish and shellfish, at any stage of their life history, whether living or dead
@@ -147,8 +151,6 @@ _Consolidation as at 2023-12-23_
   - **hazardous substance** has the same meaning as it has in section 2(1) of the Hazardous Substances and New Organisms Act 1996
   - **high seas** means the waters outside the national fisheries jurisdiction of any country
   - **high seas fishery inspector** means a person who is a high seas fishery inspector under section 113Q
-  - **high seas fishing permit** means a permit issued under section 113H
-  - **High Seas Permit Register** means the High Seas Permit Register kept under section 98(1)﻿(c)
   - **highly migratory species** means a species or stock listed in Schedule 4B
   - **holder** , in relation to any permit, authority, approval, permission, licence, or certificate, means the person to whom the permit, authority, approval, permission, licence, or certificate has been issued, granted, or given; and and have corresponding meanings
   - **honorary fishery officer** means a person appointed under section 197 to be an honorary fishery officer and holding a warrant under section 198
@@ -167,6 +169,8 @@ _Consolidation as at 2023-12-23_
   - **internal waters of New Zealand** means all internal waters of New Zealand as defined by section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **international fisheries organisation** means an organisation or arrangement that is defined as a global, regional, or sub-regional fisheries organisation or arrangement under section 113B
   - **international fisheries organisation management measure** means a measure that is within the definition of international conservation and management measures in section 113B
+  - **international fishing permit** means a permit issued under section 113H
+  - **International Fishing Permit Register** means the International Fishing Permit Register kept under section 98(1)﻿(c)
   - **kaitiakitanga** means the exercise of guardianship; and, in relation to any fisheries resources, includes the ethic of stewardship based on the nature of the resources, as exercised by the appropriate tangata whenua in accordance with tikanga Maori
   - **licensed fish receiver** means a person licensed as a fish receiver under regulations made under section 297
   - **long-term viability** , in relation to a biomass level of a stock or species, means there is a low risk of collapse of the stock or species, and the stock or species has the potential to recover to a higher biomass level
@@ -431,7 +435,7 @@ All persons exercising or performing functions, duties, or powers under this Act
 (4) Nothing in this section prevents the Minister from considering a proposal under Part 9.
 
 ### 12 Consultation
-(1) Before doing anything under any of sections 11(1), 11(4), 11A(1), 13(1), 13(4), 13(7) , 14(1), 14(3), 14(6), 14B(1), 15(1), and 15(2) or recommending the making of an Order in Council under section 13(9) or section 14(8) or section 14A(1), the Minister shall—
+(1) Before doing anything under any of sections 11(1), 11(4), 11A(1), 13(1), 13(4), 13(7), 14(1), 14(3), 14(6), 14B(1), 15(1), and 15(2) or recommending the making of an Order in Council under section 13(9) or section 14(8) or section 14A(1), the Minister shall—
   (a) consult with such persons or organisations as the Minister considers are representative of those classes of persons having an interest in the stock or the effects of fishing on the aquatic environment in the area concerned, including Maori, environmental, commercial, and recreational interests; and
   (b) provide for the input and participation of tangata whenua having—and have particular regard to kaitiakitanga.
     (i) a non-commercial interest in the stock concerned; or
@@ -805,11 +809,19 @@ The Minister may recommend the alteration of any quota management area under sec
   (a) either,—
     (i)
     (ii) was issued a fishing permit under section 2(2) of the Fisheries Amendment Act 1994; or
-    (iii) in the case of any highly migratory species outside New Zealand fisheries waters or tuna inside New Zealand fisheries waters, at any time during any applicable qualifying year,—
-      (A) held a fishing permit or high seas fishing permit issued under section 63 of the Fisheries Act 1983 or under section 91 or section 113H that authorised the holder to take the stock; or
-      (B) in the judgment of the chief executive, held a valid authority to take the stock using a New Zealand ship in the national fisheries jurisdiction of a foreign country; or
+    (iii) in the case of any highly migratory species outside New Zealand fisheries waters or tuna inside New Zealand fisheries waters, at any time during any applicable qualifying year, held the relevant authority to take the stock; or
     (iv) in any other case, held, at any time during any applicable qualifying year, a fishing permit issued under section 63 of the Fisheries Act 1983 for any species of fish, aquatic life, or seaweed; and
   (b) in any case, is not an overseas person or, if an overseas person, either has obtained consent under the overseas investment fishing provisions to acquire provisional catch history or quota or is exempt from the requirement for that consent,—
+(1A) For the purposes of subsection (1)﻿(a)﻿(iii), relevant authority means any of the following:
+  (a) a fishing permit issued under section 63 of the Fisheries Act 1983 or under section 91 that authorised the holder to take the stock:
+  (b) in relation to any time before section 5 of the Fisheries (International Fishing and Other Matters) Amendment Act 2025 came into force,—
+    (i) a high seas fishing permit under section 113H that authorised the holder to take the stock; or
+    (ii) what in the judgement of the chief executive was a valid authority to take the stock using a New Zealand ship in the national fisheries jurisdiction of a foreign country:
+  (c) in relation to any later time,—
+    (i) an international fishing permit for the high seas that authorised the holder to take the stock; or
+    (ii) both—
+      (A) an international fishing permit for the national fisheries jurisdiction of a foreign country that authorised the holder to take the stock; and
+      (B) what in the judgement of the chief executive was a valid authority under the law of that country to take the stock using a New Zealand ship in that national fisheries jurisdiction.
 (2) For the purposes of this Part, an eligible return—
   (a) means a lawfully completed catch landing return or a catch, effort, and landing return as referred to in the Fisheries (Reporting) Regulations 2001 or the Fisheries (Reporting) Regulations 1990 that—
     (i) in the case of any stock referred to in subparagraph (ii) or subparagraph (iii) of subsection (1)﻿(a), was given to the chief executive on or before the 15th day after the close of each applicable qualifying year; or
@@ -821,8 +833,8 @@ The Minister may recommend the alteration of any quota management area under sec
 ### 32A Application of Part 4 to estate of deceased fishing permit holder
 (1) Subsections (2) and (3) apply for the purposes of this Part, in relation to any fishing permit other than a fishing permit to which section 63A of the Fisheries Act 1983 or section 93A of this Act relates, where the holder of the fishing permit has died.
 (2) The deceased's estate must be treated as the holder of the fishing permit for the purposes of this Part.
-(3) Where this Part requires that a person, at the date of publication of a notice under section 18, hold either a fishing permit that is current or (in the case of a controlled fishery) a controlled fishery licence, before eligibility for provisional catch history or quota can be determined or provisional catch history or quota allocated, it is sufficient if the deceased held a current fishing permit or licence (as the case may be) at the date of his or her death.
-(4) In this section, fishing permit includes a high seas fishing permit issued under section 113H.
+(3) Where this Part requires that a person, at the date of publication of a notice under section 18, hold a fishing permit that is current before eligibility for provisional catch history or quota can be determined or provisional catch history or quota allocated, it is sufficient if the deceased held a current fishing permit at the date of the deceased’s death.
+(4) In this section, fishing permit includes an international fishing permit issued under section 113H.
 
 ### 32B Expiry of section 32A
 [Repealed]
@@ -856,11 +868,9 @@ The Minister may recommend the alteration of any quota management area under sec
 ### 35 Notification of eligibility to receive provisional catch history
 (1) The chief executive shall, as soon as practicable after the publication of a notice under section 18 declaring any stock to be subject to the quota management system,—
   (a) decide whether, in the chief executive's opinion, a person is eligible to be allocated provisional catch history in accordance with this Act; and
-  (b) if the person is eligible to be allocated provisional catch history, determine whether, in the chief executive's opinion, the person is eligible to be allocated quota under section 47 because,—
-    (i) in the case of a stock that was a controlled fishery as at the date of the publication of the notice declaring the stock to be subject to the quota management system, the person was a holder of both a controlled fishery licence for that stock and a current fishing permit; or
-    (ii) in any other case,—
-      (A) the person was a holder of a fishing permit as at the date of the publication of the notice declaring the stock to be subject to the quota management system; and
-      (B) the person is not an overseas person or, if an overseas person, either has obtained consent under the overseas investment fishing provisions to acquire provisional catch history or quota or is exempt from the requirement for that consent; and
+  (b) if the person is eligible to be allocated provisional catch history, determine whether, in the chief executive’s opinion, the person is eligible to be allocated quota under section 47 because—
+    (i) the person was a holder of a fishing permit as at the date of the publication of the notice declaring the stock to be subject to the quota management system; and
+    (ii) the person is not an overseas person or, if an overseas person, either has obtained consent under the overseas investment fishing provisions to acquire provisional catch history or quota or is exempt from the requirement for that consent; and
   (c) if section 33(a)﻿(i) applies, determine both the relevant period of 12 consecutive months that is to be the person's qualifying year and the quantum of the person's eligible catch during that period; and
   (d) if paragraph (a)﻿(ii) or paragraph (b) or paragraph (c) of section 33 applies, decide the period of 12 consecutive months within the qualifying years which the chief executive will nominate for the purpose of calculating the person's provisional catch history (which period is to maximise the person's eligible catch) and the quantum of the person's eligible catch during that period.
 (2) The chief executive shall, as soon as practicable after deciding or determining the matters referred to in subsection (1), notify in writing every person whom the chief executive considers to be eligible for provisional catch history of the following matters:
@@ -975,16 +985,22 @@ If the chief executive allocates a number of quota shares to any person or incre
 (3)
 
 ### 45 Criteria of eligibility to receive quota
-A person is eligible to receive quota for any stock declared by notice in the Gazette under section 18 to be subject to the quota management system if the person—
+(1) A person is eligible to receive quota for any stock declared by notice in the Gazette under section 18 to be subject to the quota management system if the person—
   (a) at the date of the publication of the notice is—
-    (i) a holder of a fishing permit or a high seas fishing permit (or, in the judgment of the chief executive, a person holding a valid authority to fish in the national fisheries jurisdiction of a foreign country; or
-    (ii) in the case of a stock that was a controlled fishery on the date of the publication of the notice, a holder of both a controlled fishery licence for the stock and a fishing permit; or
+    (i) a holder of a relevant authority; or
+    (ii)
     (iii) the estate of a fishing permit holder to which section 32A applies; and
   (b) is not an overseas person or, if an overseas person, either has obtained consent under the overseas investment fishing provisions to acquire provisional catch history or quota or is exempt from the requirement for that consent; and
   (c) has obtained for the stock, whether by an allocation or a transfer in accordance with this Act, provisional catch history that is recorded in that person's name in the Quota Register.
+(2) In this section, relevant authority means any of the following:
+  (a) a fishing permit:
+  (b) an international fishing permit for the high seas:
+  (c) both—
+    (i) an international fishing permit for the national fisheries jurisdiction of a foreign country; and
+    (ii) what in the judgement of the chief executive is a valid authority under the law of that country to fish using a New Zealand ship in that national fisheries jurisdiction.
 
 ### 46 Withholding of quota for non-payment of cost recovery levies or deemed values
-If a fishing permit or high seas fishing permit has been suspended under this Act for non-payment of levies payable under Part 14 or deemed value amounts payable under this Part, the chief executive may, until the levies or deemed value amounts are paid in full, withhold any quota that would, but for this section, have been allocated in respect of any provisional catch history held by the permit holder.
+If a fishing permit or an international fishing permit has been suspended under this Act for non-payment of levies payable under Part 14 or deemed value amounts payable under this Part, the chief executive may, until the levies or deemed value amounts are paid in full, withhold any quota that would, but for this section, have been allocated in respect of any provisional catch history held by the permit holder.
 
 ### 47 Allocation of quota on basis of provisional catch history
 (1) As soon as practicable after the relevant date referred to in section 36(3), or at any time after the relevant date referred to in section 41(2), as the case may be, the chief executive shall allocate to every person who is eligible to receive quota an amount of provisional individual transferable quota or individual transferable quota, as the case may be, for the stock concerned, which amount shall be expressed as shares and, subject to section 43 and to subsection (1A), be the lesser of—
@@ -1016,7 +1032,7 @@ If a fishing permit or high seas fishing permit has been suspended under this Ac
 (4) When any quota for a Chatham Islands quota management area, created in accordance with section 19, is allocated to the Crown under subsection (1) and becomes individual transferable quota, the Crown shall transfer that quota to the Chatham Islands Enterprise Trust.
 
 ### 49A Surrender of quota to Crown
-Any owner of quota who does not also hold any fishing permit, high seas fishing permit, licence, vessel registration, or approval under this Act may, if the quota is not subject to any caveat, mortgage, or other interest registered on the quota register (other than a settlement quota interest), surrender that quota to the Crown.
+Any owner of quota who does not also hold any fishing permit, international fishing permit, licence, vessel registration, or approval under this Act may, if the quota is not subject to any caveat, mortgage, or other interest registered on the quota register (other than a settlement quota interest), surrender that quota to the Crown.
 
 ### 50 Rights of Crown in relation to quota
 (1) Without limiting any other provision of this Act, the chief executive may, on behalf of the Crown,—
@@ -1058,12 +1074,12 @@ Any owner of quota who does not also hold any fishing permit, high seas fishing 
 (1) Any person, including the chief executive, may, subject to subsection (3) and on or before the date specified for the purpose in the relevant notice under section 36, appeal to the Catch History Review Committee against,—
   (a)
   (b) in any case,—
-    (i) a decision of the chief executive to the effect that the person is or is not eligible to receive provisional catch history under section 32(1)﻿(a) either because that person held or did not hold a fishing permit or high seas fishing permit (or authorisation referred to in section 45(a)﻿(i)) or controlled fishery licence at any time during the applicable qualifying year or years; or
+    (i) a decision of the chief executive to the effect that the person is or is not eligible to receive provisional catch history under section 32(1)﻿(a) either because that person held or did not hold a relevant authority (as defined in section 32(1A)) at any time during the applicable qualifying year or years; or
     (ii) a decision of the chief executive to the effect that the person has, or does not have, eligible catch in the qualifying year or years entitling the person to be allocated provisional catch history; or
     (iii) a decision of the chief executive as to the quantum of eligible catch reported in any eligible returns made by any person eligible to receive provisional catch history, on the ground that—
       (A) the information on the relevant returns held by the chief executive has been incorrectly recorded by the chief executive; or
       (B) the chief executive has excluded fish, aquatic life, or seaweed that was lawfully taken and lawfully reported in eligible returns from the person's eligible catch; or
-    (iv) a decision of the chief executive to the effect that the person is or is not eligible to be allocated quota under paragraph (b)﻿(i) or paragraph (b)﻿(ii)﻿(A) of section 35(1) either because that person held or did not hold a fishing permit or high seas fishing permit (or authorisation referred to in section 45(a)﻿(i)) or controlled fishery licence as at the date of the publication of the notice under section 18 declaring the stock to be a quota management stock; or
+    (iv) a decision of the chief executive to the effect that the person is or is not eligible to be allocated quota under section 35(1)﻿(b)﻿(ii)﻿(A) either because that person held or did not hold a fishing permit as at the date of the publication of the notice under section 18 declaring the stock to be a quota management stock; or
     (v) an allocation of provisional catch history that is different from the amount to which the person is entitled under section 34.
 (2) Any person notified by the chief executive under section 36(1)﻿(c)﻿(ii) that he or she is not eligible to receive provisional catch history because of the operation of section 32(1)﻿(b) may, on or before the date specified in the notification to that person,—
   (a) apply to the High Court for a declaration as to whether that person is, or is not, an overseas person; and
@@ -1574,8 +1590,10 @@ Before setting any interim deemed value rate or annual deemed value rate under s
 
 ### 76 Catch to be counted against annual catch entitlement
 (1) In this section and sections 76A, 78, 79, and 80, unless the context otherwise requires, commercial fisher means any person who, at any time during the relevant fishing year,—
-  (a) held a fishing permit or a high seas fishing permit; or
-  (b) was a person using a New Zealand ship who, in the judgment of the chief executive, held a valid authority to fish against New Zealand's national allocation of highly migratory species in the national fisheries jurisdiction of a foreign country.
+  (a) held a fishing permit or an international fishing permit for the high seas; or
+  (b) was a person using a New Zealand ship who—
+    (i) held an international fishing permit for taking highly migratory species in the national fisheries jurisdiction of a foreign country; and
+    (ii) in the judgement of the chief executive, held a valid authority from the foreign country to fish against New Zealand’s national allocation of highly migratory species in that national fisheries jurisdiction.
 (1A) As soon as practicable after the 15th day of each month (other than the first month) of every fishing year, the chief executive must, in accordance with regulations made for that purpose under section 297, in respect of every commercial fisher,—
   (a) compare—
     (i) the annual catch entitlement for each stock (if any) for the fishing year owned by that commercial fisher as at the close of the 15th day of that month; and
@@ -2056,7 +2074,19 @@ Section 89(1) does not apply to the taking of fish, aquatic life, or seaweed if�
 Section 93A expires with the close of 30 September 2007 and, on its expiration, the chief executive must revoke all current fishing permits issued before the close of that date in accordance with that section.
 
 ### 94 Right of review against decisions made under delegated authority
-If any decision in respect of a fishing permit or high seas fishing permit is made under this Part or Part 6A by any person acting under the delegated authority of the chief executive or by any person or organisation acting pursuant to an arrangement or contract with the chief executive, the applicant for the fishing permit or high seas fishing permit or the holder of the permit, as the case may be, is entitled to have the decision reviewed by the chief executive or by a person designated by the chief executive who was not involved in the making of the original decision.
+(1) If any decision in respect of a fishing permit or an international fishing permit is made under this Part or Part 6A by any person acting under the delegated authority of the chief executive or by any person or organisation acting pursuant to an arrangement or contract with the chief executive, the applicant for the fishing permit or international fishing permit or the holder of the permit, as the case may be, is entitled to have the decision reviewed by the chief executive or by a person designated by the chief executive (the reviewer) who was not involved in the making of the original decision.
+(2) A reviewer must make a decision on a review that relates to an international fishing permit by the end of the 40th working day after the chief executive receives the application for review.
+(3) If the review also relates to the application of section 113HA(6) (relevant vessels and persons must not be on final IUU vessel list), the reviewer must consult in accordance with section 113HA(7)﻿(c) before making the decision.
+(4) The time limit under subsection (2) does not include the following periods (if any):
+  (a) the period that—
+    (i) starts when the reviewer requests further information from the applicant; and
+    (ii) ends when the reviewer receives the information:
+  (b) the period that—
+    (i) starts when the reviewer starts to consult in accordance with section 113HA(7)﻿(c); and
+    (ii) ends when the consultation is complete:
+  (c) the period that—
+    (i) starts when the reviewer provides the applicant with an opportunity to comment on a draft decision; and
+    (ii) ends when the reviewer receives the applicant’s comments on the draft decision.
 
 ### 95 Obligations of fishing permit holder
 [Repealed]
@@ -2098,10 +2128,10 @@ If any decision in respect of a fishing permit or high seas fishing permit is ma
 (1) The chief executive shall keep the following registers:
   (a) a register to be called the Fishing Vessel Register:
   (b) a register to be called the Permit Register:
-  (c) a register to be called the High Seas Permit Register.
+  (c) a register to be called the International Fishing Permit Register.
 (2) The registers may be kept in the form of information stored by means of a computer.
 (3) The registers may be kept in conjunction with any other register required to be kept under this Act.
-(4) The Crown owns all information contained in the Fishing Vessel Register or the Permit Register or the High Seas Permit Register that is required by this Act to be contained in that register.
+(4) The Crown owns all information contained in the Fishing Vessel Register or the Permit Register or the International Fishing Permit Register that is required by this Act to be contained in that register.
 (5) The chief executive shall, by notice in the Gazette, appoint the places at which the registers are to be located and state the hours when they are to be open for inspection by the public.
 (6) Without limiting anything in section 297, regulations under that section may provide for the operation of registers under this section, including the electronic transmission of information for the purposes of this Part.
 
@@ -2114,11 +2144,11 @@ The Permit Register and the Fishing Vessel Register must each contain all the pa
 ### 101 Matters to be shown in Fishing Vessel Register
 [Repealed]
 
-### 101A Matters to be shown in High Seas Permit Register
-The High Seas Permit Register must contain all the particulars required by regulations made under section 297.
+### 101A Matters to be shown in International Fishing Permit Register
+The International Fishing Permit Register must contain all the particulars required by regulations made under section 297.
 
 ### 102 Access to registers
-(1) The Permit Register, the Fishing Vessel Register, and the High Seas Permit Register are open for inspection by members of the public on payment of the prescribed fee (if any) during the hours stated by notice in the Gazette under section 98(5).
+(1) The Permit Register, the Fishing Vessel Register, and the International Fishing Permit Register are open for inspection by members of the public on payment of the prescribed fee (if any) during the hours stated by notice in the Gazette under section 98(5).
 (2) Subject to subsection (3), the chief executive shall, upon request and payment of a reasonable charge fixed by the chief executive, supply to any person copies of all or any part of a register.
 (3) If the chief executive is satisfied, on the application of any person, that the disclosure of that person's address (as entered in the register) would be prejudicial to the personal safety of that person or his or her family, the chief executive may direct that such information shall not be available for inspection or otherwise disclosed.
 
@@ -2313,6 +2343,7 @@ The High Seas Permit Register must contain all the particulars required by regul
   (a) in the case of fish, aquatic life, or seaweed taken outside New Zealand fisheries waters,—
     (i) the fish, aquatic life, or seaweed was landed in any country other than New Zealand before being brought into New Zealand fisheries waters; or
     (ii) the person has, before the entry into New Zealand fisheries waters, obtained the approval of the chief executive to possess that fish, aquatic life or seaweed, and acted in accordance with such conditions as the chief executive may think fit to impose; or
+    (iii) the vessel entered New Zealand fisheries waters to comply with a direction under section 113U(3) to bring the vessel to a port; or
   (b) the fish, aquatic life, or seaweed were lawfully taken by that vessel within New Zealand fisheries waters; or
   (c) the fish, aquatic life, or seaweed were lawfully received by that vessel within New Zealand or New Zealand fisheries waters.
 (2) The chief executive may impose any conditions on an approval granted under subsection (1), including conditions relating to the taking, storage, transportation, recording, reporting, landing, and disposal of the fish, aquatic life, or seaweed.
@@ -2323,32 +2354,127 @@ The High Seas Permit Register must contain all the particulars required by regul
   (b) the burden of proving that any of the exceptions set out in paragraphs (a) to (c) applies lies on the defendant.
 
 ### 113A All fishing within foreign fishing jurisdiction to be authorised
-(1) No New Zealand national, and no person using a ship that is registered under the Ship Registration Act 1992 or that flies the New Zealand flag, may take or transport fish, aquatic life, or seaweed in the national fisheries jurisdiction of a foreign country unless the fish, aquatic life, or seaweed is taken or transported under, and in accordance with, the laws of that jurisdiction.
-(2) Every person who contravenes subsection (1) commits an offence and is liable to the penalty set out in section 252(3).
+[Repealed]
 
-## Part 6A — High seas fishing
+## Part 6A — International fishing
 
 ### 113B Interpretation
 In this Part, unless the context otherwise requires,—
+  - **beneficial owner** has the meaning set out in section 113BA
   - **FAO Compliance Agreement** means the Agreement to Promote Compliance with International Conservation and Management Measures by Fishing Vessels on the High Seas, done at Rome on 24 November 1993
+  - **final IUU vessel list** means a list that—
+    (a) identifies vessels that a global, regional, or subregional fisheries organisation or arrangement determines have been used to carry out or assist IUU fishing; and
+    (b) has been adopted by the global, regional, or subregional fisheries organisation or arrangement as the final version of the list; and
+    (c) is published on, or available via a link that is published on, an Internet site maintained by or on behalf of the Ministry
   - **flag State** , in relation to a vessel that is not a New Zealand ship, means—
     (a) the State in which the vessel is registered; or
     (b) if the vessel is unregistered, the State whose flag the vessel flies
-  - **foreign high seas inspector** means a person who is duly authorised, by a State that is a member of or is a participant in a global, regional, or subregional fisheries organisation or arrangement, to exercise the enforcement powers of an inspector in relation to the area covered by the organisation or arrangement under—
+  - **foreign high seas inspector** means a person who is duly authorised, by a State that is a member of or is a participant in a notified global, regional, or subregional fisheries organisation or arrangement, to exercise the enforcement powers of an inspector in relation to the area covered by the organisation or arrangement under—
     (a) the Fish Stocks Agreement; or
     (b) the boarding and inspection procedures of the organisation or arrangement
-  - **global, regional, or subregional fisheries organisation or arrangement** means an agreement or arrangement notified in the Gazette in accordance with section 113C
-  - **international conservation and management measures** means measures to conserve or manage 1 or more species of living marine resources, which measures are—
-    (a) adopted by a global, regional, or subregional fisheries organisation or arrangement; and
-    (b) notified in the Gazette in accordance with section 113C
+  - **global, regional, or subregional fisheries organisation or arrangement** means an agreement or arrangement established to conserve and manage the fish stocks of an area, region, or subregion
+  - **international conservation and management measures** means measures adopted by a global, regional, or subregional fisheries organisation or arrangement to conserve or manage 1 or more species of living marine resources
+  - **IUU fishing** has the meaning set out in section 113BB
+  - **notified global, regional, or subregional fisheries organisation or arrangement** means a global, regional, or subregional fisheries organisation or arrangement that is notified in accordance with section 113C
   - **participating State** means a foreign State or an organisation of foreign States that is certified by the Secretary of Foreign Affairs and Trade under section 113C as being a party to the Fish Stocks Agreement
-  - **serious violation** has the meaning given to it by Article 21.11 of the Fish Stocks Agreement.
+  - **serious violation** has the meaning given to it by Article 21.11 of the Fish Stocks Agreement
+  - **ship without nationality** means a vessel that—
+    (a) is not registered in, or otherwise entitled to fly the flag or display the marks of registry of, any State; or
+    (b) sails under the flags of 2 or more States, or under the flags of a State, using them according to convenience
+  - **undermine the effectiveness of international conservation and management measures** has the meaning set out in section 113BC.
+
+### 113BA Meaning of beneficial owner
+(1) In this Part, beneficial owner, in relation to a vessel, means any of the following persons:
+  (a) if the vessel is owned by an unlisted company, a person who directly or indirectly owns or controls—
+    (i) at least 25% of the ordinary shares in the company; or
+    (ii) shares that in aggregate carry the right to exercise or control the exercise of at least 25% of the voting power at a meeting of the company:
+  (b) if the vessel is owned by a body corporate other than a company, a person who directly or indirectly has the right to exercise or control the exercise of at least 25% of the voting power at a meeting of the body corporate:
+  (c) if the vessel is partnership property, a person who directly or indirectly—
+    (i) has a beneficial interest in or entitlement to at least 25% of the partnership’s income or assets; or
+    (ii) has the right to exercise or control the exercise of at least 25% of the voting power at a meeting of the partnership:
+  (d) if the vessel is trust property, a person who directly or indirectly—
+    (i) has a beneficial interest in or entitlement to at least 25% of the trust property of the trust; or
+    (ii) controls the trust:
+  (e) in any other case, a person who has effective ownership or control of the vessel (other than by being the vessel’s owner, operator, or master).
+Meaning of unlisted company
+(2) For the purposes of subsection (1)﻿(a), an unlisted company is a company that is not a party to a listing agreement with a stock exchange (as defined in section 2(1) of the Companies Act 1993).
+Meaning of control of trust
+(3) For the purposes of subsection (1)﻿(d)﻿(ii), a person controls a trust if the person has a power (whether exercisable alone, jointly with another person, or with the consent of another person) under the instrument creating the trust or by law to do 1 or more of the following:
+  (a) dispose of, advance, lend, invest, pay, or apply trust property:
+  (b) vary or terminate the trust:
+  (c) add or remove a person as a beneficiary or to or from a class of beneficiaries:
+  (d) appoint or remove trustees or give another person control over the trust:
+  (e) direct, withhold consent to, or veto the exercise of, a power referred to in paragraphs (a) to (d).
+Exceptions
+(4) Neither a court of law nor the Crown is considered to—
+  (a) control a trust as the result of having a power referred to in subsection (3); or
+  (b) have effective control of a vessel as described in subsection (1)﻿(e) as the result of having any power in relation to the vessel.
+(5) A person under the age of 18 years is not considered to be a beneficial owner of a vessel in any circumstances.
+
+### 113BB Meaning of IUU fishing
+(1) In this Part, IUU fishing means fishing that—
+  (a) is illegal, unreported, or unregulated, as those terms are defined in subsections (2) to (4); or
+  (b) otherwise comes within the definition of IUU fishing (or an equivalent term or terms) as defined by either or both of the following:
+    (i) a relevant global, regional, or subregional fisheries organisation or arrangement:
+    (ii) the law of the national fisheries jurisdiction in which the fishing is carried out.
+(2) Fishing is illegal if 1 or more of the following apply:
+  (a) the fishing is carried out by a vessel—
+    (i) whose flag State is party to a relevant global, regional, or subregional fisheries organisation or arrangement; and
+    (ii) in contravention of an international conservation and management measure of the organisation or arrangement that is binding on the flag State:
+  (b) the fishing is carried out in the national fisheries jurisdiction of a country without the permission of that country or in contravention of its law:
+  (c) the fishing otherwise contravenes either or both of the following:
+    (i) international obligations that apply to the fishing, including obligations undertaken by co-operating non-members of a relevant global, regional, or subregional fisheries organisation or arrangement:
+    (ii) domestic laws that apply to the fishing.
+(3) Fishing is unreported if it is not reported, or is misreported, in contravention of either or both of the following:
+  (a) reporting procedures of a relevant global, regional, or subregional fisheries organisation or arrangement that apply to the fishing:
+  (b) domestic laws that apply to the fishing.
+(4) Fishing is unregulated if—
+  (a) there is a relevant global, regional, or subregional fisheries organisation or arrangement, and—
+    (i) the fishing is carried out by a ship without nationality; or
+    (ii) the fishing—
+      (A) is carried out by a vessel whose flag State is not bound by the international conservation and management measures of the organisation or arrangement; and
+      (B) is inconsistent with 1 or more of those measures; or
+  (b) there is no relevant global, regional, or subregional fisheries organisation or arrangement, and the fishing is inconsistent with State responsibilities for the conservation of living marine resources under international law.
+(5) In this section,—
+  - **co-operating non-member** , in relation to a relevant global, regional, or subregional fisheries organisation or arrangement, means a State that—
+    (a) is not a party to the organisation or arrangement; but
+    (b) has undertaken to comply with international conservation and management measures of the organisation or arrangement
+  - **relevant global, regional, or subregional fisheries organisation or arrangement** , in relation to fishing, means a global, regional, or subregional fisheries organisation or arrangement that—
+    (a) is responsible for a fish stock that is affected by the fishing; and
+    (b) covers the area, region, or subregion of the high seas in which the fishing is carried out.
+
+### 113BC Meaning of undermine effectiveness of international conservation and management measures
+(1) In this Part, undermine the effectiveness of international conservation and management measures means to carry out a relevant activity that the chief executive considers undermines the effectiveness of international conservation and management measures.
+(2) A relevant activity is an activity that constitutes 1 or more of the following:
+  (a) IUU fishing:
+  (b) transhipping or participating in fishing operations with a vessel that is on a final IUU vessel list:
+  (c) fishing using a ship without nationality:
+  (d) fishing without a licence, permit, or other authorisation required under the law of the country in whose national fisheries jurisdiction the fishing is carried out:
+  (e) taking a stock in contravention of a prohibition imposed by or under this Act:
+  (f) the contravention of a condition of an international fishing permit:
+  (g) the contravention of any other requirement imposed by or under this Act or other legislation on—
+    (i) the size of fish, aquatic life, or seaweed that may be transhipped or landed; or
+    (ii) records and reports required in relation to the taking of fish, aquatic life, or seaweed:
+  (h) falsifying a document, or using a false or invalid document, that is required by or under this Act or other legislation that relates to the management of fisheries:
+  (i) falsifying or concealing the identity or registration of, or markings on, a vessel in contravention of requirements imposed by or under this Act:
+  (j) concealing, tampering with, or disposing of evidence that is relevant to an investigation under—
+    (i) this Act; or
+    (ii) the law of another country (in relation to fishing in the national fisheries jurisdiction of that country):
+  (k) obstructing a fisheries officer, a high seas fishery inspector, or an observer in the performance or exercise of their functions, duties, or powers under this Act:
+  (l) any other fishing-related activity that contravenes or is inconsistent with either or both of the following:
+    (i) the law of the country in whose national fisheries jurisdiction the activity is carried out; or
+    (ii) an international conservation and management measure of a relevant global, regional, or subregional fisheries organisation or arrangement (as defined in section 113BB(5)).
+(3) In determining whether a relevant activity undermines the effectiveness of international conservation and management measures, the chief executive must have regard to—
+  (a) the degree of culpability of the owner, operator, notified user, or master of the vessel on or from which the activity was carried out; and
+  (b) the harm that was or may be done to the environment as a result of the activity; and
+  (c) the value of the fish, aquatic life, or seaweed taken in connection with the activity; and
+  (d) the extent to which the activity contravened or was inconsistent with the measures; and
+  (e) the extent to which the activity was repeated; and
+  (f) any other matter the chief executive considers relevant.
 
 ### 113C Notification and certification by Secretary of Foreign Affairs and Trade
-(1) The Secretary of Foreign Affairs and Trade may from time to time, by notice in the Gazette, give notice of—
-  (a) a global, regional, or subregional fisheries organisation or arrangement; or
-  (b) international conservation and management measures.
-(2) A notice given under subsection (1) must specify where a copy of the constitution of the organisation or a copy of the arrangement or international conservation and management measures, as the case may be, may be obtained.
+(1) The Secretary of Foreign Affairs and Trade may from time to time, by notice in the Gazette, give notice of a global, regional, or subregional fisheries organisation or arrangement.
+(2) A notice given under subsection (1) must specify where a copy of the constitution of the organisation or a copy of the arrangement, as the case may be, may be obtained.
 (3) The Secretary of Foreign Affairs and Trade may sign a certificate stating that a specified State is or is not—
   (a) a State that is a party to the Fish Stocks Agreement; or
   (b) a State that is a party to the FAO Compliance Agreement; or
@@ -2356,20 +2482,25 @@ In this Part, unless the context otherwise requires,—
   (d) a State that is a signatory to the Fish Stocks Agreement, and has legislative and administrative mechanisms to control its vessels on the high seas in accordance with that agreement.
 (4) A certificate referred to in subsection (3) is, for all purposes, conclusive evidence of its contents unless the contrary is proved by the production of a more recent certificate issued under that subsection.
 
-**Requirements as to taking of fish on high seas**
+**Requirements relating to international fishing**
 
-### 113D Taking and transportation of fish, etc, on high seas using New Zealand ships
-(1) No person may use a New Zealand ship, or a tender of that ship, to take (by any method) on the high seas any fish, aquatic life, or seaweed for sale, unless—
-  (a) that person does so under the authority of, and in accordance with, a current high seas fishing permit issued in respect of that ship; and
+### 113DAAA All fishing within foreign jurisdiction to be in accordance with local law
+(1) No New Zealand national, and no person using a ship that is registered under the Ship Registration Act 1992 or that flies the New Zealand flag, may take or transport fish, aquatic life, or seaweed in the national fisheries jurisdiction of a foreign country unless the fish, aquatic life, or seaweed is taken or transported under, and in accordance with, the laws of that jurisdiction.
+(2) Every person who contravenes subsection (1) commits an offence and is liable to the penalty set out in section 252(3).
+(3) See also section 113D (which relates to permitting and other requirements on the use of a New Zealand ship to take (for sale) or transport fish, etc, in the national fisheries jurisdiction of a foreign country).
+
+### 113D Taking and transportation of fish, etc, outside New Zealand fisheries waters using New Zealand ships
+(1) No person may use a New Zealand ship, or a tender of that ship, to take (by any method) on the high seas or in the national fisheries jurisdiction of a foreign country any fish, aquatic life, or seaweed for sale, unless—
+  (a) that person does so under the authority of, and in accordance with, a current international fishing permit issued in respect of that ship; and
   (b) the ship is registered—
     (i) under the Ship Registration Act 1992; and
     (ii) in the Fishing Vessel Register as a fishing vessel; and
   (c) the holder of the permit is named in the Fishing Vessel Register as an operator of that vessel.
-(2) No person may use a New Zealand ship, or a tender of that ship, to transport any fish, aquatic life, or seaweed on the high seas, unless—
-  (a) that person does so under the authority of, and in accordance with, a current high seas fishing permit issued in respect of that ship; and
+(2) No person may use a New Zealand ship, or a tender of that ship, to transport any fish, aquatic life, or seaweed on the high seas or in the national fisheries jurisdiction of a foreign country, unless—
+  (a) that person does so under the authority of, and in accordance with, a current international fishing permit issued in respect of that ship; and
   (b) the fish, aquatic life, or seaweed was taken—
-    (i) on the high seas under the authority of, and in accordance with, a high seas fishing permit or an authorisation issued by a State to which section 113E(2) applies; or
-    (ii) in the national fisheries jurisdiction of a foreign State under, and in accordance with, the laws of that State; and
+    (i) on the high seas under the authority of, and in accordance with, an international fishing permit or an authorisation issued by a State to which section 113E(2) applies; or
+    (ii) in the national fisheries jurisdiction of a foreign State under, and in accordance with, the laws of that State and the international fishing permit; and
   (c) the ship is registered—
     (i) under the Ship Registration Act 1992; and
     (ii) in the Fishing Vessel Register as either a fish carrier or a fishing vessel; and
@@ -2379,7 +2510,7 @@ In this Part, unless the context otherwise requires,—
   (b) has not previously been landed in New Zealand or in any other country but was taken in New Zealand fisheries waters and—
     (i) approval under section 110(1) is obtained before transportation on the high seas commences; and
     (ii) the transportation is in accordance with any conditions of that approval.
-(4) No person may take or transport any fish, aquatic life, or seaweed under the authority of a high seas fishing permit unless that person is—
+(4) No person may take or transport any fish, aquatic life, or seaweed under the authority of an international fishing permit unless that person is—
   (a) the holder of that permit; or
   (b) an employee or agent of the holder of the permit; or
   (c) the master, or a member of the crew, of the ship in respect of which the permit is in force.
@@ -2402,12 +2533,15 @@ In this Part, unless the context otherwise requires,—
 (1) The Minister may, on receipt of an application in the approved form accompanied by the prescribed fee (if any), exempt a New Zealand national from section 113E if the Minister is satisfied that—
   (a) the applicant is a citizen of another country and that country has jurisdiction over the applicant's proposed fishing activities on the high seas; and
   (b) New Zealand is not a participant in, or a member of, or has not accepted the obligations of, a global, regional, or subregional fisheries organisation or arrangement that covers the area of the high seas in which the applicant proposes to take or transport fish, aquatic life, or seaweed; and
-  (c) the applicant has not engaged in fishing or transportation—
-    (i) in a manner that undermined the effectiveness of international conservation and management measures; and
-    (ii) that has resulted in a high seas fishing permit, or an equivalent authorisation granted by a participating State or a party to the FAO Compliance Agreement, being suspended or revoked during the 3 years immediately preceding the application (the 3-year period); and
-  (d) the applicant has not engaged in fishing or transportation on the high seas during the 3-year period—
-    (i) without a high seas fishing permit (or equivalent authorisation granted by a participating State), if a high seas fishing permit was required for that fishing or transportation; and
-    (ii) in a manner that undermined the effectiveness of international conservation and management measures.
+  (c) the vessel to which the application relates has not been used to engage in—
+    (i) a relevant activity at any time within the 3 years immediately before the application was made; or
+    (ii) a relevant activity that occurred at any earlier time and is the subject of—
+      (A) an ongoing prosecution for an offence against this Part; or
+      (B) a sentence that has not been served or a fine that has not been paid for an offence against this Part.
+  (d)
+(1A) For the purposes of subsection (1)﻿(c),—
+  (a) a vessel is used to engage in a relevant activity if it is used for fishing or transportation in a manner that undermines the effectiveness of international conservation and management measures:
+  (b) a prosecution is ongoing until any rights of appeal against conviction or sentence are exhausted or have expired.
 (2) An exemption granted by the Minister must be limited to 1 or more of the following, as specified in the exemption:
   (a) an area or areas of the high seas:
   (b) a species of fish, aquatic life, or seaweed:
@@ -2415,35 +2549,79 @@ In this Part, unless the context otherwise requires,—
 (3) The Minister may, by notice in writing to the holder of an exemption granted under subsection (1), amend or revoke the exemption.
 (4) Section 113E does not apply to a New Zealand national taking or transporting fish, aquatic life, or seaweed in accordance with an exemption granted under subsection (1).
 
-**Issue of high seas fishing permits**
+**Issue of international fishing permits**
 
-### 113G Application for high seas fishing permit
-An application for a high seas fishing permit—
+### 113G Application for international fishing permit
+An application for an international fishing permit—
   (a) may be made only by the operator of a vessel that is registered in the Fishing Vessel Register as either a fish carrier or a fishing vessel; and
   (b) must be made to the chief executive in the approved form.
 
-### 113H Issue of high seas fishing permit
-(1) The chief executive may issue a high seas fishing permit only if the chief executive is satisfied that—
-  (a) the vessel to which the permit relates is registered—
-    (i) under the Ship Registration Act 1992; and
-    (ii) in the Fishing Vessel Register as either a fish carrier or a fishing vessel; and
-  (b) the applicant has not engaged in fishing or transportation—
-    (i) in a manner that undermined the effectiveness of international conservation and management measures; and
-    (ii) that has resulted in a high seas fishing permit, or an equivalent authorisation granted by a participating State or a party to the FAO Compliance Agreement, being suspended or revoked during the 3 years immediately preceding the application (the 3-year period); and
-  (c) the applicant has not engaged in fishing or transportation on the high seas during the 3-year period—
-    (i) without a high seas fishing permit (or equivalent authorisation granted by a participating State), if a high seas fishing permit was required for that fishing or transportation; and
-    (ii) in a manner that undermined the effectiveness of international conservation and management measures.
-(2) Before issuing a high seas fishing permit, the chief executive may have regard to—
-  (a) the previous offending history (if any), in relation to fishing or transportation (whether within the national fisheries jurisdiction of New Zealand or another country, or on the high seas), of the vessel's owner, operator, foreign charterparty, notified user, master, or crew; and
-  (b) such other matters as the chief executive considers relevant.
-(3) The chief executive may, but is not required to, issue a high seas fishing permit to a person even though that person may—
-  (a) owe the Crown a levy payable under Part 14; or
-  (b) have unpaid and overdue deemed value amounts of more than $1,000; or
-  (c) hold a fishing permit that is subject to conditions by virtue of or under section 78(1) or (2).
+### 113H Chief executive may issue international fishing permit for high seas or national fisheries jurisdiction
+The chief executive may issue an international fishing permit for either or both of the following:
+  (a) the high seas:
+  (b) the national fisheries jurisdiction of a foreign country.
 
-### 113I Term and content of high seas fishing permit
-(1) A high seas fishing permit may be issued for a period not exceeding 5 years.
-(2) A high seas fishing permit must specify—
+### 113HA Criteria that must be met before international fishing permit is issued
+(1) Before issuing an international fishing permit, the chief executive must be satisfied that the criteria set out in this section are met.
+Applicant vessel must be registered
+(2) The applicant vessel must be registered—
+  (a) under the Ship Registration Act 1992; and
+  (b) in the Fishing Vessel Register as either a fish carrier or a fishing vessel.
+Applicant vessel must be authorised by relevant foreign country (section 113H(b) permits)
+(3) For an international fishing permit under section 113H(b), the applicant vessel must be authorised by the relevant foreign country to fish within that country’s national fisheries jurisdiction.
+Applicant vessel must not have undermined effectiveness of international conservation and management measures
+(4) The applicant vessel must not have been used to engage in—
+  (a) a relevant activity at any time within the 3 years immediately before the application was made; or
+  (b) a relevant activity that occurred at any earlier time and is the subject of—
+    (i) an ongoing prosecution for an offence against this Part; or
+    (ii) a sentence that has not been served or a fine that has not been paid for an offence against this Part.
+(5) For the purposes of subsection (4),—
+  (a) a vessel is used to engage in a relevant activity if it is used for fishing or transportation in a manner that undermines the effectiveness of international conservation and management measures:
+  (b) a prosecution is ongoing until any rights of appeal against conviction or sentence are exhausted or have expired.
+Relevant vessels and persons must not be on final IUU vessel list
+(6) None of the following may be listed on a final IUU vessel list:
+  (a) the applicant vessel:
+  (b) a relevant person:
+  (c) a vessel linked to a relevant person.
+(7) However, subsection (6) does not apply to a listing on a final IUU vessel list if—
+  (a) New Zealand is not a party to the global, regional, or subregional fisheries organisation or arrangement that adopted the final IUU vessel list; and
+  (b) the chief executive is satisfied that the applicant vessel, relevant person, or vessel linked to a relevant person was listed on the final IUU vessel list as the result of an unfair process (for example, because an adversely affected party was not given a reasonable opportunity to comment on the proposal to list the vessel or person); and
+  (c) before being satisfied of that matter, the chief executive consults—
+    (i) the global, regional, or subregional fisheries organisation or arrangement that adopted the final IUU vessel list; and
+    (ii) if the listing relates to a vessel that is not a New Zealand ship, the flag State of that other vessel.
+(8) In this section and section 113HB,—
+  - **applicant vessel** means the vessel to which the application for the international fishing permit relates
+  - **relevant person** means a person who is 1 or more of the following in relation to the applicant vessel:
+    (a) owner:
+    (b) beneficial owner:
+    (c) operator:
+    (d) foreign charterparty:
+    (e) notified user:
+    (f) master
+  - **vessel linked to a relevant person** means a vessel (other than the applicant vessel) in relation to which a relevant person is 1 or more of the following:
+    (a) owner:
+    (b) beneficial owner:
+    (c) operator:
+    (d) foreign charterparty:
+    (e) notified user:
+    (f) master.
+
+### 113HB Other considerations before international fishing permit is issued
+(1) The chief executive may, but is not required to, issue an international fishing permit, taking into account—
+  (a) previous non-compliance (if any) by a relevant person or a crew member of the applicant vessel with requirements that—
+    (i) are imposed by or under this Act or other legislation; and
+    (ii) relate to fishing or transportation; and
+  (b) that an operator may—
+    (i) owe the Crown a levy payable under Part 14; or
+    (ii) have unpaid and overdue deemed value amounts of more than $1,000; or
+    (iii) hold a fishing permit that is subject to conditions by virtue of or under section 78(1) or (2); and
+  (c) any other matters that the chief executive considers relevant.
+(2) The chief executive may take into account the non-compliance whether it occurred within the national fisheries jurisdiction of New Zealand or another country or on the high seas.
+(3) Subsections (1) and (2) do not apply to non-compliance that must be considered under section 113HA(4).
+
+### 113I Term and content of international fishing permit
+(1) An international fishing permit may be issued for a period not exceeding 5 years.
+(2) An international fishing permit must specify—
   (a) the name of the permit holder; and
   (b) the fishing vessel or fish carrier to which the permit relates; and
   (c) any conditions to which the permit is subject under section 113K.
@@ -2451,13 +2629,19 @@ An application for a high seas fishing permit—
 **Compliance with conditions and regulations**
 
 ### 113J Compliance with conditions and regulations
-(1) A person taking fish, aquatic life, or seaweed under the authority of a high seas fishing permit must comply with—
+(1) A person taking fish, aquatic life, or seaweed under the authority of an international fishing permit must comply with—
   (a) any conditions to which the permit is subject under section 113K; and
   (b) any regulations made under section 297.
-(2) Every person who contravenes a condition to which a high seas fishing permit is subject under section 113K commits an offence and is liable to the penalty set out in section 252(5).
+(2) Every person who contravenes a condition to which an international fishing permit is subject under section 113K commits an offence and is liable to the penalty set out in section 252(5).
+(3) Without limiting the application of section 241, it is a defence to any offence under subsection (2) if the defendant proves that—
+  (a) the defendant was in the national fisheries jurisdiction of a foreign country when the contravention occurred; and
+  (b) the contravention was necessary to comply with the law of the foreign country.
+(4) A defendant is not, without leave of the court, entitled to rely on the defence unless the defendant has, within 20 working days after pleading not guilty to the offence, served on the prosecutor a notice in writing that specifies—
+  (a) the relevant law of the foreign country; and
+  (b) the reasons why the contravention was necessary to comply with the law.
 
-### 113K Conditions of high seas fishing permit
-(1) A high seas fishing permit may be subject to such conditions as the chief executive considers appropriate, including conditions relating to the following matters:
+### 113K Conditions of international fishing permit
+(1) An international fishing permit may be subject to such conditions as the chief executive considers appropriate, including conditions relating to the following matters:
   (a) the areas in which fishing or transportation is authorised:
   (b) the seasons, times, and particular voyages during which fishing or transportation is authorised:
   (c) the species, size, age, and quantities of fish, aquatic life, or seaweed that may be taken or transported:
@@ -2475,39 +2659,44 @@ An application for a high seas fishing permit—
   (o) the installation on the vessel and the maintenance of any automatic location communicator or other equipment for the identification and location of the vessel, and of adequate navigational equipment to enable the vessel to fix its position, and the payment of any associated prescribed fees and charges by the permit holder:
   (p) the carriage on board the vessel of specified charts, publications, and instruments:
   (q) the disposal of fish, aquatic life, and seaweed:
-  (r) measures to give effect to international conservation and management measures.
-(2) The chief executive may from time to time, by written notice to the holder of a high seas fishing permit, amend, add to, or revoke any conditions of the permit with effect from the date specified in the notice.
+  (r) measures to give effect to international conservation and management measures that have been adopted by a notified global, regional, or subregional fisheries organisation or arrangement.
+(2) The chief executive may from time to time, by written notice to the holder of an international fishing permit, amend, add to, or revoke any conditions of the permit with effect from the date specified in the notice.
 (3) If the chief executive considers it expedient to do so, the chief executive may—
-  (a) require the high seas fishing permit holder to surrender the permit; and
+  (a) require the international fishing permit holder to surrender the permit; and
   (b) replace that permit with a new permit containing new conditions.
-(4) A condition imposed on a high seas fishing permit under this section is not invalid merely because the condition is more restrictive or more onerous than any conditions that are or may be imposed on fishing by any regulations made under this Act.
+(4) A condition imposed on an international fishing permit under this section is not invalid merely because the condition is more restrictive or more onerous than any conditions that are or may be imposed on fishing by any regulations made under this Act.
 
-### 113L High seas fishing permit to be carried on vessel
-(1) A person taking or transporting fish, aquatic life, or seaweed under the authority of a high seas fishing permit must—
+### 113L International fishing permit to be carried on vessel
+(1) A person taking or transporting fish, aquatic life, or seaweed under the authority of an international fishing permit must—
   (a) carry the permit (or a copy of the permit) on board the vessel to which the permit relates at all times; and
   (b) show the permit to a fishery officer or high seas fishery inspector or foreign high seas inspector on demand.
 (2) Every person who contravenes subsection (1) commits an offence and is liable to the penalty set out in section 252(5).
 
 ### 113M Notification of change of ownership of vessel
-(1) The holder of a high seas fishing permit must notify the chief executive within 5 working days of any change of ownership or operator of the vessel to which the permit relates.
+(1) The holder of an international fishing permit must notify the chief executive within 5 working days of any change of ownership or operator of the vessel to which the permit relates.
 (2) Every person who contravenes subsection (1) commits an offence and is liable to the penalty set out in section 252(6).
 
-**Suspension and revocation of high seas fishing permits**
+**Suspension and revocation of international fishing permits**
 
-### 113N Chief executive may suspend or revoke high seas fishing permit
-(1) The chief executive may revoke a high seas fishing permit if the chief executive is satisfied that any information or evidence supplied with the application for the permit was false or misleading in any material particular.
-(2) The chief executive may suspend or revoke a high seas fishing permit if the chief executive is satisfied that—
+### 113N Chief executive may suspend or revoke international fishing permit
+(1) The chief executive may revoke an international fishing permit if the chief executive is satisfied that any information or evidence supplied with the application for the permit was false or misleading in any material particular.
+(2) The chief executive may suspend or revoke an international fishing permit if the chief executive is satisfied that—
   (a) the vessel to which the permit relates is no longer—
     (i) registered under the Ship Registration Act 1992; or
     (ii) registered in the Fishing Vessel Register as either a fish carrier or a fishing vessel; or
   (b) the permit holder, or any person authorised to fish under the authority of the permit, has been convicted of an offence against this Part; or
-  (c) the permit holder has been convicted of a fishing-related offence under the laws of a country other than New Zealand; or
+  (c) the permit holder, or any person authorised to fish under the authority of the permit, has been convicted of a fishing-related offence under the laws of a country other than New Zealand; or
+  (ca) there is evidence that the permit holder, or any person authorised to fish under the authority of the permit, has undermined the effectiveness of international conservation and management measures; or
   (d) the permit holder is no longer the owner or operator of the vessel.
-(3) A person may, in writing, request that the chief executive revoke a high seas fishing permit issued to that person.
-(4) A request made under subsection (3) must be accompanied by the high seas fishing permit and any copies of the permit.
+(2A) The chief executive may also suspend or revoke an international fishing permit—
+  (a) at the request of a foreign country whose authorisation to fish in its national fisheries jurisdiction was relied on to issue the permit; or
+  (b) if the chief executive believes on reasonable grounds that an offence has been committed in relation to the vessel to which the permit relates by the permit holder, or any person authorised to fish under the authority of the permit.
+(3) A person may, in writing, request that the chief executive revoke an international fishing permit issued to that person.
+(4) A request made under subsection (3) must be accompanied by the international fishing permit and any copies of the permit.
+(5) In subsection (2A)﻿(b), offence means an offence committed within the national fisheries jurisdiction of New Zealand for which a penalty under section 252(1)﻿(a) to (c) would apply on conviction.
 
 ### 113O Procedure to be followed before suspending or revoking permit
-Before suspending or revoking a high seas fishing permit under section 113N(1) or (2), the chief executive must—
+Before suspending or revoking an international fishing permit under section 113N(1) or (2), the chief executive must—
   (a) give the permit holder not less than 7 days' notice in writing of the chief executive's intention to suspend or revoke the permit; and
   (b) include in or with the notice a statement—
     (i) of the chief executive's reasons; and
@@ -2517,10 +2706,10 @@ Before suspending or revoking a high seas fishing permit under section 113N(1) o
   (d) consider any submissions made to the chief executive by the permit holder.
 
 ### 113P Effect of suspension or revocation of permit
-(1) Where the chief executive revokes a high seas fishing permit under section 113N,—
-  (a) the high seas fishing permit is cancelled immediately and ceases to have any effect for the purposes of this Act; and
+(1) Where the chief executive revokes an international fishing permit under section 113N,—
+  (a) the international fishing permit is cancelled immediately and ceases to have any effect for the purposes of this Act; and
   (b) the permit holder must ensure that the permit and any copies of the permit are surrendered immediately to the chief executive.
-(2) Where the chief executive suspends a high seas fishing permit under section 113N,—
+(2) Where the chief executive suspends an international fishing permit under section 113N,—
   (a) the suspension is for the period specified by the chief executive under section 113O(b); and
   (b) the permit does not authorise fishing or transportation; but
   (c) the obligations and conditions to which the permit is subject, or that are imposed by or under this Act in relation to the permit, continue to have effect.
@@ -2539,7 +2728,7 @@ For the purposes of the administration and enforcement of this Part, a high seas
   (b) flies the New Zealand flag.
 
 ### 113S Powers of high seas fishery inspectors in relation to foreign vessels
-(1) A high seas fishery inspector may, for the purpose of ensuring compliance with international conservation and management measures adopted by a global, regional, or subregional fisheries organisation or arrangement of which New Zealand is a member or in which New Zealand is a participant, board and inspect a vessel in an area of the high seas that is covered by that organisation or arrangement, or in New Zealand fisheries waters, if—
+(1) A high seas fishery inspector may, for the purpose of ensuring compliance with international conservation and management measures adopted by a notified global, regional, or subregional fisheries organisation or arrangement of which New Zealand is a member or in which New Zealand is a participant, board and inspect a vessel in an area of the high seas that is covered by that organisation or arrangement, or in New Zealand fisheries waters, if—
   (a) the vessel is not registered under the Ship Registration Act 1992; and
   (b) the flag State of the vessel is—
     (i) a party to the Fish Stocks Agreement, whether or not the flag State is a member of, or a participant in, that organisation or arrangement; or
@@ -2547,6 +2736,18 @@ For the purposes of the administration and enforcement of this Part, a high seas
 (2) If the flag State in relation to a vessel to which subsection (1) applies authorises the chief executive (in accordance with Article 21.6(b) of the Fish Stocks Agreement) to investigate whether the vessel has engaged in an activity contrary to those international conservation and management measures, a high seas fishery inspector has, in relation to the vessel,—
   (a) all of the powers of a fishery officer; or
   (b) if the flag State specifies the powers of a fishery officer that the high seas fishery inspector may exercise, those powers.
+
+### 113SA Powers of high seas fishery inspectors to verify nationality of vessels
+(1) This section applies if a high seas fishery inspector—
+  (a) intends to board and inspect a vessel for the purposes of section 113S; but
+  (b) suspects on reasonable grounds that section 113S(1)﻿(b) may not apply to the vessel because it is a ship without nationality.
+(2) The high seas fishery inspector may board and inspect the vessel for any evidence relevant to whether it has nationality and, if so, what the nationality is.
+(3) In exercising those powers, the high seas fishery inspector must—
+  (a) give the master of the vessel evidence of the inspector’s identity and of the fact that the inspector is a high seas fishery inspector; and
+  (b) provide to the master of the vessel a copy of a report on the boarding and inspection, including any objection or statement that the master has advised the high seas fishery inspector that the master wishes to have included in the report.
+(4) If, after exercising those powers, the high seas fishery inspector is satisfied that the vessel is—
+  (a) a ship without nationality, section 113R applies as if the vessel were registered under the Ship Registration Act 1992 or flying the New Zealand flag:
+  (b) a ship with nationality, sections 113S and 113T to 113V apply according to their terms (except that section 113T(1)﻿(a) does not require the high seas fisheries inspector to again give evidence of their identity and position as a high seas fishery inspector to the master of the vessel).
 
 ### 113T Boarding and inspection procedures relating to foreign vessels
 (1) A high seas fishery inspector who boards a vessel under section 113S(1) must—
@@ -2564,7 +2765,7 @@ For the purposes of the administration and enforcement of this Part, a high seas
   (e) fish and fish products; and
   (f) records and other relevant documents.
 
-### 113U Investigation of serious violations
+### 113U Investigation of serious violations: powers to remain on and direct vessel to port
 (1) If, as a result of a boarding and inspection under section 113S(1), a high seas fishery inspector believes that the vessel has been used to commit a serious violation,—
   (a) the high seas fishery inspector must notify the chief executive as soon as practicable; and
   (b) the chief executive must advise the authorities of the flag State of the vessel as soon as practicable.
@@ -2578,20 +2779,85 @@ For the purposes of the administration and enforcement of this Part, a high seas
   (a) Saturday or Sunday; or
   (b) a public holiday in that State.
 
-### 113V Boarding and inspection procedures modified by global, regional, or subregional fisheries organisation or arrangement
+### 113UA Investigation of serious violations: power to detain vessel at port
+(1) This section applies to a vessel that is directed to a port under section 113U(3).
+(2) A high seas fishery inspector may detain the vessel at the port for as long as is reasonably necessary to enable the inspector to investigate the serious violation (but see subsection (5)).
+(3) The high seas fishery inspector must notify the chief executive of the detention as soon as practicable after the detention starts.
+(4) The chief executive must, as soon as practicable after receiving the notice, advise the authorities of the vessel’s flag State of—
+  (a) the name and location of the port at which the vessel is detained; and
+  (b) the results of the investigation carried out in relation to the vessel.
+(5) The chief executive must direct the release of the vessel,—
+  (a) if they believe on reasonable grounds that the serious violation took place on the high seas, on request of the vessel’s flag State; or
+  (b) if they believe on reasonable grounds that the serious violation took place in New Zealand fisheries waters, on payment of a bond that they consider is reasonable, having regard to—
+    (i) the gravity of the serious violation under investigation; and
+    (ii) if the serious violation constitutes an offence under this Act, the applicable penalty; and
+    (iii) the value of the vessel and its cargo.
+
+### 113UB Investigation of serious violations: search powers while vessel at port
+(1) This section applies to a vessel that is detained at a port under section 113UA(2).
+(2) A high seas fishery inspector may, for the purpose of investigating the serious violation and at any reasonable time, inspect 1 or more of the following:
+  (a) the vessel:
+  (b) the vessel’s authorisation to fish, or transport fish, aquatic life, or seaweed, in the relevant area of the high seas:
+  (c) the vessel’s fishing gear and equipment:
+  (d) the vessel’s facilities:
+  (e) fish and fish products on the vessel:
+  (f) the vessel’s records and other relevant documents.
+(3) A high seas fishery inspector may, for the purposes of inspecting any of those things, do 1 or more of the following:
+  (a) open, or direct any person to open, a thing that may be inspected:
+  (b) take any sample of a thing that may be inspected, for forensic or other scientific testing:
+  (c) conduct a remote access search (as defined in section 3(1) of the Search and Surveillance Act 2012):
+  (d) take or make, in accordance with section 206, a copy of a record or document that may be inspected.
+(4) Part 4 of the Search and Surveillance Act 2012 (other than subparts 2 and 3 and sections 118 to 120, 173, and 174) applies in respect of the powers conferred by this section.
+(5) This section is subject to section 113UC (search warrant required to enter living quarters or conduct remote access search).
+
+### 113UC Investigation of serious violations: search warrant required to enter living quarters or conduct remote access search
+(1) A high seas fishery inspector must not exercise a power under section 113UB to do either or both of the following without a search warrant:
+  (a) enter any living quarters on a vessel:
+  (b) conduct a remote access search.
+(2) A high seas fishery inspector must apply for a search warrant in accordance with subpart 3 of Part 4 of the Search and Surveillance Act 2012.
+(3) An issuing officer (as defined in section 3(1) of the Search and Surveillance Act 2012) must not issue a search warrant unless the officer is satisfied that the high seas fishery inspector has reasonable grounds for requiring, as the case may be,—
+  (a) entry into the living quarters:
+  (b) the conduct of a remote access search.
+(4) Subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
+(5) In this section, living quarters—
+  (a) means an area of a vessel in which people live; but
+  (b) does not include—
+    (i) a communal area (for example, a mess deck or canteen); or
+    (ii) a work area (for example, the bridge or the master’s office).
+
+### 113UD Investigation of serious violations: powers to detain, question, etc, master and crew
+(1) This section applies if—
+  (a) a vessel is detained at a port under section 113UA(2); and
+  (b) the authorities of the vessel’s flag State request or consent to the exercise of 1 or more specified powers.
+(2) The high seas fishery inspector may, for the purpose of investigating the serious violation and at any reasonable time, exercise any specified power in relation to which the authorities have made a request or given their consent.
+(3) The specified powers are the powers to do 1 or more of the following in relation to the vessel’s master or a member of its crew (a person):
+  (a) detain the person on board the vessel:
+  (b) direct the person to any other place for questioning and detain the person at that location:
+  (c) question the person:
+  (d) require the person to provide an answer, including any explanation or information concerning any vessel, or any place or thing, or any fish, aquatic life, or seaweed, or fishing method, gear, apparatus, record, document, article, device, or thing relating to the taking or possession of any fish, aquatic life, or seaweed:
+  (e) require the person to produce any records or documents that are in their possession or control and may be relevant to the investigation:
+  (f) take or make a copy of the record or document in accordance with section 206.
+(4) The power to detain a person under subsection (3)﻿(a) or (b) ceases to apply when the earliest of the following occurs:
+  (a) if the person is on the vessel, the vessel ceases to be detained:
+  (b) if the person is not, or is no longer, on the vessel, a high seas fishery inspector is satisfied that continued detention of the person is no longer reasonably necessary to investigate the serious violation:
+  (c) in any case, the flag State of the vessel requests that the person’s detention end.
+(5) Subpart 5 of Part 4 of the Search and Surveillance Act 2012 applies in respect of the powers conferred by this section.
+(6) Nothing in this section affects section 60 of the Evidence Act 2006.
+
+### 113V Boarding and inspection procedures modified by notified global, regional, or subregional fisheries organisation or arrangement
 (1) This section applies where—
-  (a) a global, regional, or subregional fisheries organisation or arrangement of which New Zealand is a member, or in which New Zealand is a participant, establishes procedures for boarding and inspection of vessels as provided in Article 21.2 of the Fish Stocks Agreement; and
+  (a) a notified global, regional, or subregional fisheries organisation or arrangement of which New Zealand is a member, or in which New Zealand is a participant, establishes procedures for boarding and inspection of vessels as provided in Article 21.2 of the Fish Stocks Agreement; and
   (b) a high seas fishery inspector boards and inspects a foreign vessel under section 113S(1) for the purpose of ensuring compliance with international conservation and management measures established by that organisation or arrangement.
 (2) To the extent that the procedures established by the organisation or arrangement are different from the requirements of section 113T or section 113U, the high seas fishery inspector and the chief executive must comply with the procedures established by the organisation or arrangement.
 
 ### 113W Persons on New Zealand ships to co-operate with foreign high seas inspectors
-(1) The master of a ship must co-operate with a foreign high seas inspector appointed by a participating State that is a member of or participant in a global, regional, or subregional fisheries organisation or arrangement where—
+(1) The master of a ship must co-operate with a foreign high seas inspector appointed by a participating State that is a member of or participant in a notified global, regional, or subregional fisheries organisation or arrangement where—
   (a) the ship—
     (i) is registered under the Ship Registration Act 1992; or
     (ii) flies the New Zealand flag; and
   (b) the ship is on the high seas in an area covered by that organisation or arrangement.
   (c)
-(2) The master of a ship must co-operate with a foreign high seas inspector appointed in relation to an area covered by a global, regional, or subregional fisheries organisation or arrangement where—
+(2) The master of a ship must co-operate with a foreign high seas inspector appointed in relation to an area covered by a notified global, regional, or subregional fisheries organisation or arrangement where—
   (a) the ship—
     (i) is registered under the Ship Registration Act 1992; or
     (ii) flies the New Zealand flag; and
@@ -2612,30 +2878,39 @@ For the purposes of the administration and enforcement of this Part, a high seas
   (a) the inspector has boarded the ship under—
     (i) the Agreement; or
     (ii) boarding and inspection procedures established as provided in Article 21.2 of the Agreement; and
-  (b) the chief executive receives a report from the inspector stating that there is evidence that the ship has taken or transported fish, aquatic life, or seaweed in contravention of international conservation and management measures.
+  (b) the chief executive receives a report from the inspector stating that there is evidence that the ship has taken or transported fish, aquatic life, or seaweed in contravention of international conservation and management measures that have been adopted by a notified global, regional, or subregional fisheries organisation or arrangement.
 (2) If the chief executive authorises the foreign high seas inspector to investigate under Article 21.6(b) of the Fish Stocks Agreement,—
   (a) the foreign high seas inspector has the powers of a fishery officer in relation to the ship; and
   (b) the chief executive must advise the master of the ship as soon as practicable.
 (3) For the purposes of any proceedings for an offence under this Part, evidence obtained by a foreign high seas inspector in the exercise of powers under this section is admissible as if the evidence were obtained by a fishery officer.
 
-### 113Y Chief executive may withdraw authorisation to fish under high seas fishing permit
+### 113Y Chief executive may withdraw authorisation to fish under international fishing permit
 (1) This section applies where the chief executive receives a report from a foreign high seas inspector that a person on a ship is—
   (a) failing to comply with section 113W; or
   (b) failing to co-operate with or obstructing the foreign high seas inspector in the exercise of his or her powers under—
     (i) the Fish Stocks Agreement; or
     (ii) boarding and inspection procedures established as provided in Article 21.2 of the Agreement.
-(2) The chief executive may, by notice to the master of the ship (which notice may be given orally or by any form of electronic communication), suspend the high seas fishing permit under which the ship is taking or transporting fish.
+(2) The chief executive may, by notice to the master of the ship (which notice may be given orally or by any form of electronic communication), suspend the international fishing permit under which the ship is taking or transporting fish.
 
 **Administrative penalties**
 
-### 113Z Administrative penalties for high seas fisheries offences
+### 113Z Administrative penalties for offences outside New Zealand fisheries waters
 (1) This section—
   (a) applies in respect of an offence against this Part that carries a penalty of a fine not exceeding $250,000; but
   (b) does not apply in respect of an alleged offence if a charging document has been filed in respect of the alleged offence.
 (2) The chief executive may cause notice in writing, in the approved form, to be served on a person if the chief executive has reasonable cause to believe that—
   (a) an offence to which this section applies may have been committed by that person; and
-  (b) having regard to all the circumstances relating to the alleged offence, it is minor; and
+  (b) either of the following applies:
+    (i) if the alleged offence is an offence against section 113J(2) (contravening a condition of an international fishing permit), it is not a serious offence:
+    (ii) in any other case, the alleged offence is minor; and
   (c) having regard to the previous conduct of the vessel and of that person, it would be appropriate to impose a penalty under this section.
+(2A) In considering whether there is reasonable cause to believe that an alleged offence against section 113J(2) is not a serious offence, the chief executive must have regard to—
+  (a) the degree of culpability of the person; and
+  (b) the harm that was or may be done to the environment as a result of the alleged offence; and
+  (c) the value of the fish, aquatic life, or seaweed taken in connection with the alleged offence; and
+  (d) the extent to which the alleged offence contravened the condition; and
+  (e) the extent to which the alleged offence was repeated; and
+  (f) any other matter the chief executive considers relevant.
 (3) A notice given under subsection (2) must—
   (a) contain—
     (i) the date and nature of the alleged offence; and
@@ -2659,17 +2934,30 @@ A person on whom a notice under section 113Z is served who does not require that
   (b) make submissions to the chief executive as to the matters the person wishes the chief executive to take into account in imposing a penalty under section 113ZC.
 
 ### 113ZC Amount of administrative penalty
-(1) If the person admits an offence under section 113ZB, the chief executive may, after taking into account any submissions made by the person under that section, impose on that person a monetary penalty not exceeding one-third of the maximum monetary penalty to which the person would be liable if the person were convicted of the offence by a court.
+(1) If a person admits an offence under section 113ZB, the chief executive may impose on the person a monetary penalty not exceeding—
+  (a) one-half of the maximum monetary penalty, if the offence is against section 113J(2) (contravening a condition of an international fishing permit):
+  (b) one-third of the maximum monetary penalty, in any other case.
+(1A) Before imposing the penalty, the chief executive must take into account any submissions made by the person under section 113ZB.
 (2) If the chief executive imposes a penalty on a person under this section in respect of an offence, the chief executive must cause a notice in writing, in the approved form, of the particulars of the penalty to be served on the person.
 (3) A person on whom a penalty is imposed under this section must pay the amount of the penalty to the Crown within 28 days after the notice of the penalty is served on the person in accordance with subsection (2).
 (4) Despite subsection (3), a penalty that has been imposed under this section is recoverable by the Crown, from the person on whom it has been imposed, in the same manner as a fine is recoverable on conviction for an offence.
 (5) Despite the provisions of this Act, or any other enactment, where a person admits an offence under section 113ZB, no charging document may be filed against that person in respect of the offence.
+(6) In this section, maximum monetary penalty means the maximum monetary penalty to which the person would be liable if they were convicted of the offence by a court.
+
+### 113ZCA Publication of decisions on administrative penalties
+The chief executive must, for each penalty imposed under section 113ZC, publish the following on an Internet site maintained by or on behalf of the Ministry:
+  (a) the date and location of the offence; and
+  (b) the nature of the offence; and
+  (c) the name of each person on whom the penalty was imposed; and
+  (d) the name of the vessel involved in the offence; and
+  (e) the matters considered by the chief executive under section 113Z(2A) when considering whether the alleged offence was not a serious offence or was minor; and
+  (f) the amount of the penalty imposed.
 
 **Other matters**
 
 ### 113ZD Visits by foreign ships
 (1) The master of a fishing vessel or fish carrier that is not a New Zealand ship, a New Zealand fishing vessel, or a registered fish carrier, who intends to bring the vessel into the internal waters or a port of New Zealand, must give the chief executive at least 72 hours' notice, in the approved manner, of his or her intention to do so.
-(2) If the chief executive is satisfied that a vessel has undermined international conservation and management measures, the chief executive may, by notice to the master of a vessel to which subsection (1) applies, direct the vessel—
+(2) If the chief executive is satisfied that a vessel has undermined the effectiveness of international conservation and management measures, the chief executive may, by notice to the master of a vessel to which subsection (1) applies, direct the vessel—
   (a) not to enter the internal waters or a port of New Zealand; or
   (b) if it has entered the internal waters or a port of New Zealand, to leave those waters or that port.
 (3) If the Minister is satisfied on reasonable grounds that it is necessary for the purpose of the conservation and management of fish, aquatic life, or seaweed, the Minister may, by notice, direct any class or classes of fishing vessel or fish carrier not to enter the internal waters or a port of New Zealand.
@@ -2679,12 +2967,12 @@ A person on whom a notice under section 113Z is served who does not require that
 
 ### 113ZE Consent of Attorney-General required for certain proceedings
 (1) This section applies to proceedings for offences under the following sections:
-  (a) section 113A (illegal fishing or transportation in the fisheries jurisdiction of a foreign country):
+  (a) section 113DAAA (illegal fishing or transportation in the fisheries jurisdiction of a foreign country):
   (b) section 113E (unlawful use of foreign vessel on high seas by New Zealand national).
 (2) Despite anything in any other enactment, those proceedings may not be instituted in any court except with the consent of the Attorney-General and on the Attorney-General's certificate that it is expedient that the proceedings should be instituted.
 
 ### 113ZF Authorised agent
-A document required to be served on the holder of a high seas fishing permit is deemed to have been duly served if it is—
+A document required to be served on the holder of an international fishing permit is deemed to have been duly served if it is—
   (a) delivered to a representative person for the time being specified under section 103(2)﻿(c) or section 105(2)﻿(c) in relation to the vessel; or
   (b) sent to that person by post at the address notified or last notified to the chief executive; or
   (c) left for that person at that address.
@@ -3923,7 +4211,7 @@ The following persons shall keep such accounts and records, and provide to the c
   (f) fish farmers and holders of spat catching permits:
   (g) persons who provide vessels for hire for the purpose of enabling persons to take fish, aquatic life, or seaweed:
   (h) persons who take fish, aquatic life, or seaweed otherwise than for the purpose of sale.
-  (i) holders of high seas fishing permits issued under section 113H:
+  (i) holders of international fishing permits issued under section 113H:
   (j) holders of exemptions granted under section 113F.
 
 ### 190 Accounts, records, returns, and other information
@@ -3935,7 +4223,7 @@ The following persons shall keep such accounts and records, and provide to the c
 **Disposal of fish**
 
 ### 191 Disposal of fish by commercial fishers
-(1A) In this section and section 192, commercial fisher includes a person who holds a high seas fishing permit issued under section 113H.
+(1A) In this section and section 192, commercial fisher includes a person who holds an international fishing permit issued under section 113H.
 (1) No commercial fisher may sell or otherwise dispose of fish, aquatic life, or seaweed, taken by the commercial fisher in that capacity, except—
   (a) to a licensed fish receiver; or
   (b) as provided in subsection (2) or (5); or
@@ -3953,7 +4241,7 @@ The following persons shall keep such accounts and records, and provide to the c
   (b) lawfully abandoned or returned, in accordance with section 72, to the sea or waters from which the fish, aquatic life, or seaweed was taken; or
   (c) lawfully used by the commercial fisher who took the fish, aquatic life, or seaweed as bait, or consumed on board the vessel from which the fish, aquatic life, or seaweed was taken; or
   (d) lawfully taken on the high seas and landed in any country other than New Zealand; or
-  (e) lawfully taken on the high seas and transhipped in accordance with a high seas fishing permit issued under section 113H.
+  (e) lawfully taken on the high seas and transhipped in accordance with an international fishing permit issued under section 113H.
 (6) Every commercial fisher commits an offence and is liable to the penalty set out in section 252(3) who contravenes any provision of this section.
 (7) In proceedings for an offence relating to a contravention of subsection (1),—
   (a) the prosecutor need not assert in the charging document that any exception or excuse in subsection (2) or (5) does not apply; and
@@ -4339,20 +4627,29 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
   (b) any condition or requirement imposed by the chief executive in respect of any consent, approval, authority, permission, or certificate issued or granted under this Act (other than a requirement to pay a sum of money).
 (2) Every person who commits an offence against subsection (1) is liable to the penalty set out in section 252(5).
 
-### 229 Obstructing fishery officers
+### 229 Obstructing fishery officers or high seas fishery inspectors
 (1) Every person commits an offence who—
   (a) resists or obstructs, or aids, abets, incites, or encourages any other person to resist or obstruct,—
-    (i) any fishery officer executing his or her powers or duties; or
-    (ii) any person assisting a fishery officer in accordance with section 219; or
-    (iii) any person acting under the directions of a fishery officer in accordance with section 196(3); or
+    (i) any fishery officer or high seas fishery inspector executing his or her powers or duties; or
+    (ii) any person assisting a fishery officer or high seas fishery inspector in accordance with section 219; or
+    (iii) any person acting under the directions of—
+      (A) a fishery officer in accordance with section 196(3); or
+      (B) a high seas fishery inspector in accordance with section 113Q(2) and (3); or
   (b) uses threatening language or behaves in a threatening manner towards—
-    (i) any fishery officer executing his or her powers or duties; or
-    (ii) any person assisting a fishery officer in accordance with section 219; or
-    (iii) any person acting under the directions of a fishery officer in accordance with section 196(3); or
-  (c) fails to comply with any lawful requirement of any fishery officer; or
-  (d) provides to any fishery officer any particulars that are false or misleading in any material respect; or
-  (e) personates or falsely claims to be a fishery officer or a person lawfully assisting a fishery officer.
-(2) Every person who refuses to allow any fishery officer, any person assisting a fishery officer in accordance with section 219, or any person acting under the directions of a fishery officer in accordance with section 196(3), to exercise any of the powers conferred on that fishery officer or person by this Act shall be deemed to be obstructing that fishery officer or person.
+    (i) any fishery officer or high seas fishery inspector executing his or her powers or duties; or
+    (ii) any person assisting a fishery officer or high seas fishery inspector in accordance with section 219; or
+    (iii) any person acting under the directions of—
+      (A) a fishery officer in accordance with section 196(3); or
+      (B) a high seas fishery inspector in accordance with section 113Q(2) and (3); or
+  (c) fails to comply with any lawful requirement of any fishery officer or high seas fishery inspector; or
+  (d) provides to any fishery officer or high seas fishery inspector any particulars that are false or misleading in any material respect; or
+  (e) personates or falsely claims to be a fishery officer or high seas fishery inspector or a person lawfully assisting a fishery officer or high seas fishery inspector.
+(2) Every person who refuses to allow—to exercise any of the powers conferred on that fishery officer, high seas fishery inspector, or person by this Act is deemed to be obstructing that fishery officer, high seas fishery inspector, or person.
+  (a) any fishery officer or high seas fishery inspector; or
+  (b) any person assisting a fishery officer or high seas fishery inspector in accordance with section 219; or
+  (c) any person acting under the directions of—
+    (i) a fishery officer in accordance with section 196(3); or
+    (ii) a high seas fishery inspector in accordance with section 113Q(2) and (3)—
 (3) For the avoidance of doubt, this section applies whenever a fishery officer exercises powers under section 215, even if such powers are exercised extra-territorially.
 (4) Every person who commits an offence against subsection (1) is liable to the penalty set out in section 252(3).
 
@@ -4392,6 +4689,45 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 ### 235 Knowingly permitting premises to be used for offence against Act
 (1) Every person commits an offence who knowingly permits any premises to be used for the commission of an offence against this Act.
 (2) Every person convicted of an offence against subsection (1) is liable to the same penalty as that set out in section 252 for the offence for which the premises were used.
+
+### 235A Assisting, etc, IUU-listed vessel
+(1) This section applies to conduct carried out in New Zealand, in New Zealand fisheries waters, on the high seas, or in the national fisheries jurisdiction of a foreign country.
+(2) The owner, beneficial owner, operator, notified user, and master of a New Zealand fishing vessel each commit an offence if the vessel is used to—
+  (a) assist an IUU-listed vessel with fishing for fish or with processing fish; or
+  (b) tranship fish to or from an IUU-listed vessel.
+(3) A New Zealand national commits an offence who—
+  (a) assists an IUU-listed vessel with fishing for fish or with processing fish; or
+  (b) tranships fish to or from an IUU-listed vessel; or
+  (c) is engaged or employed as, or otherwise is, a master or crew member of an IUU-listed vessel; or
+  (d) provides, or enters into an agreement to provide, a master or crew for an IUU-listed vessel; or
+  (e) is, or enters into an agreement to be, the operator or owner of an IUU-listed vessel; or
+  (f) is, or enters into an agreement that would have the effect of making the New Zealand national, the beneficial owner of an IUU-listed vessel.
+Defence
+(4) Without limiting the application of section 241, it is a defence to any offence under subsection (2) or (3)﻿(a) to (d) if the defendant proves that the contravention—
+  (a) was necessary—
+    (i) to save or prevent danger to human life; or
+    (ii) to avert a serious threat to the vessel; or
+    (iii) in the case of force majeure caused by stress of weather, to secure the safety of the vessel; and
+  (b) was a reasonable step to take in all the circumstances; and
+  (c) was likely to result in less harm to the human life or vessel referred to in paragraph (a) than would otherwise have occurred; and
+  (d) was done in a way that minimised the likelihood of harm to other human life, other vessels, and to fish and aquatic life.
+(5) A defendant is not, without leave of the court, entitled to rely on the defence unless the defendant has, within 30 days after the service of the summons, served on the prosecutor a notice in writing that specifies—
+  (a) the reasons why the contravention was necessary and was a reasonable step to take in the circumstances; and
+  (b) the harm that was likely to occur but for the contravention; and
+  (c) how the contravention was done in a way that minimised the likelihood of harm to other human life, other vessels, and to fish, aquatic life, and seaweed.
+Consent of Attorney-General required for certain proceedings
+(6) Subsection (7) applies to proceedings for an offence under this section that is carried out on the high seas or in the national fisheries jurisdiction of a foreign country.
+(7) Despite anything in any other enactment, proceedings for the offence may not be instituted in any court except with the consent of the Attorney-General and on the Attorney-General’s certificate that it is expedient that the proceedings should be instituted.
+Definitions
+(8) In this section,—
+  - **assist** means to carry out any action with or in support of an IUU-listed vessel in relation to fishing, for example,—
+    (a) sharing catch or fishing gear with an IUU-listed vessel:
+    (b) net-sharing with an IUU-listed vessel (where net-sharing is the use by one vessel of a purse seine to catch fish that is then collected from the sea and stored in the hold of another vessel):
+    (c) sharing the co-ordinates of a fish aggregating device with an IUU-listed vessel (where a fish aggregating device is a floating device that attracts fish):
+    (d) providing fuel to an IUU-listed vessel, including providing assistance with the logistics of loading and distributing the fuel among tanks on the vessel:
+    (e) providing fishing-related personnel, fishing gear, and other fishing-related supplies at sea to an IUU-listed vessel:
+    (f) transporting fish that have been caught by an IUU-listed vessel and have not previously been landed
+  - **IUU-listed vessel** means a vessel that is on a final IUU vessel list.
 
 **Proceedings, defences, etc**
 
@@ -4543,8 +4879,8 @@ If it is provided in this Act that any presumption is to apply in respect of any
   (f) section 110(6) (landing fish outside New Zealand):
   (g) section 112(4) (fishing unlawfully in the territorial sea):
   (h) section 113(4) (possession of fish by vessels other than New Zealand ships):
-  (ha) section 113A(2) (unlawfully taking fish in foreign fishing jurisdiction):
-  (hb) section 113D(5) (unlawfully taking fish on high seas):
+  (ha) section 113DAAA(2) (unlawfully taking fish in foreign fishing jurisdiction):
+  (hb) section 113D(5) (unlawfully taking fish outside New Zealand fisheries waters):
   (hc) section 113E(3) (unlawful use of foreign vessel on high seas by New Zealand national):
   (hd) section 113W(4) (failing to co-operate with foreign high seas inspector):
   (he) section 190(2) (failure to comply with specification of chief executive in relation to records, returns, etc):
@@ -4555,6 +4891,8 @@ If it is provided in this Act that any presumption is to apply in respect of any
   (l) section 229(1) (obstructing fishery officers):
   (m) section 230(1) (neglecting or refusing to supply particulars or improperly disclosing information):
   (n) section 232(1) and (2) (buying, selling, or possessing fish contrary to this Act):
+  (na) section 235A(2) (New Zealand fishing vessel assisting or transhipping with IUU-listed vessel):
+  (nb) section 235A(3) (New Zealand national assisting, transhipping with, being crew of, etc, IUU-listed vessel):
   (o) section 271(2) (failure to keep or provide records or returns):
   (p) section 296ZC(3)﻿(a) (failure by an approved service delivery organisation to supply information to the Minister):
   (q) section 296ZD(2) (failure by an approved service delivery organisation to have information audited).
@@ -4572,8 +4910,8 @@ If it is provided in this Act that any presumption is to apply in respect of any
   (ga) section 106A(10) (using vessel while consent to registration suspended):
   (h) section 107(9) (failure to notify chief executive):
   (ha) section 186A(8) or section 186B(7) (contravention, other than by individual for purposes other than sale, of notice closing area or prohibiting or restricting fishing methods):
-  (hb) section 113J(2) (breach of condition on high seas fishing permit):
-  (hc) section 113L(2) (failing to carry high seas fishing permit on vessel):
+  (hb) section 113J(2) (breach of condition on international fishing permit):
+  (hc) section 113L(2) (failing to carry international fishing permit on vessel):
   (hd) section 113ZD(4) (bringing a foreign ship into internal waters of New Zealand when prohibited):
   (he) section 186P(2) (fish farming other than in accordance with registration or exemption):
   (i) section 226(2) (provisions relating to food and accommodation for observers):
@@ -4585,7 +4923,7 @@ If it is provided in this Act that any presumption is to apply in respect of any
   (o) section 369 (taking Northland scallops outside fishery season).
 (5A) Every person convicted of an offence against section 72(4)﻿(a)﻿(i), (b)﻿(i), (c)﻿(i), or (d)﻿(i) (unlawfully returning, abandoning, or retaining 50 or fewer fish or other animals that are aquatic life in any 24-hour period) is liable to a fine not exceeding $10,000.
 (6) Every person convicted of an offence against any of the following provisions is liable to a fine not exceeding $5,000:
-  (a) section 113M(2) (failure by holder of high seas fishing permit to notify chief executive of change of vessel's ownership or operator):
+  (a) section 113M(2) (failure by holder of international fishing permit to notify chief executive of change of vessel's ownership or operator):
   (b) section 121(3) (unlawfully releasing sensitive information):
   (c) section 186A(8) or section 186B(7) (contravention by individual, for purposes other than sale, of notice closing area, or prohibiting or restricting fishing methods):
   (ca) section 186N(3) (failing to notify change of information in Fish Farmer Register):
@@ -4927,18 +5265,18 @@ Without limiting anything in section 264, but subject to section 265A, the Minis
   (b) may direct that a caveat entered in a register under this section be withdrawn if the chief executive and the person liable to pay the outstanding amount enter into an arrangement for repayment of the amount.
 
 ### 269 Suspension of permit, licence, or registration where levies unpaid
-(1) The chief executive may, by notice in writing, after giving a person notice in writing of the chief executive's intention to do so, suspend a fishing permit or special permit or licensed fish receiver's licence or controlled fishery licence or fish farmer's registration held by the person if—
+(1) The chief executive may, by notice in writing, after giving a person notice in writing of the chief executive's intention to do so, suspend a fishing permit or special permit or licensed fish receiver's licence or fish farmer's registration held by the person if—
   (a) the person is liable to pay a levy imposed under section 264; and
   (b) the person does not pay the levy in full within 2 months after the date on which payment of the levy is due, or within the time allowed under an arrangement with the chief executive, as the case may be; and
   (c) payment of the outstanding levy has not been waived under section 267(2).
 (2) The chief executive may suspend a permit, licence, or registration under subsection (1) regardless of whether or not the levy has been imposed on the person as a holder of a permit, licence, or registration.
-(3) If the person holds 2 or more fishing permits or special permits or licensed fish receiver's licences or controlled fishery licences, or holds any combination of 2 or more of them, the chief executive may suspend such of the permits or licences, as he or she considers appropriate.
-(4) A fishing permit or special permit or licensed fish receiver's licence or controlled fishery licence suspended under this section has no effect during the period of the suspension.
+(3) If the person holds 2 or more fishing permits or special permits or licensed fish receiver's licences, or holds any combination of 2 or more of them, the chief executive may suspend such of the permits or licences, as he or she considers appropriate.
+(4) A fishing permit or special permit or licensed fish receiver's licence suspended under this section has no effect during the period of the suspension.
 (5) While a fish farmer registration is suspended under this section, no fish, aquatic life, or seaweed is to be transferred onto or off the fish farm specified in the registration.
 (6) The chief executive—
   (a) must lift a suspension under this section if the outstanding levy is paid to the chief executive:
   (b) may, conditionally or unconditionally, lift a suspension under this section if the chief executive and the person liable to pay the outstanding amount of the levy enter into an arrangement for repayment of that amount.
-(7) A court may at any time, on application by the holder of a fishing permit, special permit, licensed fish receiver's licence, controlled fishery licence, or fish farmer registration that has been suspended under this section, make an order lifting the suspension subject to any sureties and conditions specified by the court.
+(7) A court may at any time, on application by the holder of a fishing permit, special permit, licensed fish receiver's licence, or fish farmer registration that has been suspended under this section, make an order lifting the suspension subject to any sureties and conditions specified by the court.
 
 ### 270 Priority of debts
 [Repealed]
@@ -5550,7 +5888,7 @@ An auditor must, before disclosing information to the Minister under section 296
   (q) providing for the operation of registers under sections 98, 124, 186K, and 186ZE, including the electronic transmission of information:
   (qa) prescribing, for the purposes of section 158(1), when an instrument (including an application) is to be treated as having been received for registration, and different rules may be prescribed for different types of instruments and for instruments presented by different means:
   (r)
-  (s) prescribing such particulars and matters as are required to be shown in the Permit Register, the High Seas Permit Register, the Fishing Vessel Register, a Quota Register, and an Annual Catch Entitlement Register:
+  (s) prescribing such particulars and matters as are required to be shown in the Permit Register, the International Fishing Permit Register, the Fishing Vessel Register, a Quota Register, and an Annual Catch Entitlement Register:
   (sa) specifying the order in which the chief executive is to action transactions specified in the regulations for the purposes of section 63:
   (t) specifying reasons on the basis of which applications to correct a register may be made under section 164, and on the basis of which the chief executive may correct a register under section 165:
   (u) setting out conditions and other provisions that apply to approvals given under section 296 for the electronic transmission of accounts, records, returns, transactions, information, notices, objections, requests, applications, or other documents:
@@ -6416,6 +6754,23 @@ Despite the definition of fishing year in section 2(1), and section 369S(2), the
 
 ### 8 References to Fisheries Act 1983
 The repeal of the Fisheries Act 1983 does not affect the operation of provisions in this Act that refer to any provision of the Fisheries Act 1983.
+
+### 9 Meaning of commencement
+In this Part, commencement means the date on which this Part comes into force.
+
+### 10 Existing high seas fishing permits continue as international fishing permits
+(1) An existing high seas fishing permit continues as an international fishing permit for the high seas.
+(2) The permit is subject to the same terms and conditions, and the same expiry date, as applied immediately before commencement.
+(3) In this clause, existing high seas fishing permit means a high seas fishing permit that was in effect immediately before commencement.
+
+### 11 Review against decisions made under delegated authority
+Section 94(2) to (4) does not apply to a review that is started before commencement in relation to a high seas fishing permit.
+
+### 12 Applications for high seas fishing permits
+This Act as in force immediately before commencement continues to apply to an application for a high seas fishing permit that is made before commencement.
+
+### 13 High Seas Permit Register continues as International Fishing Permit Register
+The High Seas Permit Register, as it is immediately before commencement, continues as the International Fishing Permit Register.
 
 ## Schedule 1A — Agreement for the implementation of the provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the conservation and management of straddling fish stocks and highly migratory fish stocks
 
@@ -7673,12 +8028,6 @@ All positions and directions described in this schedule are based on a geographi
 | --- | --- |
 | SBW | 2.33 |
 | Coromandel scallops | 80.13 |
-
-| Fishery | Levy ($ per boat authority) |
-| --- | --- |
-| Foveaux Strait dredge oyster | 485.70 |
-| Lake Ellesmere eels | 31.38 |
-| Coromandel scallops | 31.38 |
 
 | Permit/Activity | Levy ($ per annum) |
 | --- | --- |
