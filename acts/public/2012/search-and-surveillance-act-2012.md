@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2025-07-31_
+_Consolidation as at 2025-09-29_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3955,7 +3955,10 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  |  | 172(2) |  | FENZ inspector who has entered land or a building may seize, destroy, suppress, or take a sample of a material, substance, structure, or thing that the inspector reasonably believes is likely to imminently cause an emergency |  | All (except subpart 3 and sections 118 and 119) |
 |  |  | 173(1) |  | FENZ inspector who has entered land or a building may, if the inspector believes on reasonable grounds that it is necessary, take or remove a sample of any material, substance, or thing for analysis, or seize and retain any material, substance, or thing for the purpose of assessing compliance with the requirements under fire safety legislation |  | All (except subpart 3 and sections 118 and 119) |
 |  |  | 174(1) |  | FENZ may authorise a specified person to enter and search any land, building, vehicle, or other thing, with consent or pursuant to a warrant, if FENZ is satisfied that there are reasonable grounds to believe an offence has been committed under fire safety legislation and that the search will find evidential material |  | All (except sections 118 and 119) |
-| Fisheries Act 1996 |  | 199(1) |  | Fishery officer may examine any vessel, vehicle, premises, or other place in the course of enforcement and administration of Fisheries Act 1996 |  | All (except subparts 2, 3, and 8 and section 119) |
+| Fisheries Act 1996 |  | 113UB |  | High seas fishery inspector may inspect vessel that is detained at a port under section 113UA(2) of Fisheries Act 1996 |  | All (except subparts 2 and 3 and sections 118 to 120, 173, and 174) |
+|  |  | 113UC |  | High seas fishery inspector may enter living quarters or conduct remote access search under power conferred by section 113UB of Fisheries Act 1996 if authorised to do so by issuing officer |  | Subparts 1, 3, 7, 9, and 10 |
+|  |  | 113UD |  | High seas fishery inspector may question and require documents from master and crew members of vessel detained at a port under section 113UA(2) of Fisheries Act 1996 |  | Subpart 5 |
+|  |  | 199(1) |  | Fishery officer may examine any vessel, vehicle, premises, or other place in the course of enforcement and administration of Fisheries Act 1996 |  | All (except subparts 2, 3, and 8 and section 119) |
 |  |  | 199A |  | Fishery officer may enter, examine, and search any thing that relates to suspected offence against Fisheries Act 1996 |  | All (except subparts 3 and 8) |
 |  |  | 200(1) |  | Fishery officer may enter dwellinghouse or surrounds or Māori reservation (under power conferred elsewhere in Fisheries Act 1996) if authorised to do so by issuing officer |  | Subparts 1, 3, 7, 9, and 10 |
 |  |  | 207(1) |  | Property seized by fishery officer in relation to suspected offence against Fisheries Act 1996 may be held |  | Subparts 1, 5, 6, 7, 9, and 10 |
