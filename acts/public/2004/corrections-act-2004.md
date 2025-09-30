@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2025-08-01_
+_Consolidation as at 2025-09-30_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -835,20 +835,12 @@ A prisoner must promptly obey every lawful order given to him or her by—
 ### 50 Prisoners' use of time
 The chief executive must ensure that, as far as is practicable, every prisoner is provided with an opportunity to make constructive use of his or her time in prison.
 
-### 51 Management plans
-(1) This section applies to every prisoner who is—
-  (a) sentenced to imprisonment for a term of more than 2 months; or
-  (b) in custody for a continuous period of more than 2 months on remand.
-(2) The chief executive must ensure that an individual management plan is devised for every prisoner to whom this section applies.
-(3) Each plan must be prepared, and revised at regular intervals, in accordance with any prescribed requirements and any relevant instructions issued under section 196.
+### 51 Case management plans
+(1) This section applies to 1 or more classes of prisoners prescribed by regulations made under this Act.
+(2) The chief executive must ensure that an individual case management plan is devised for every prisoner to whom this section applies.
+(3) Each plan must be prepared, and revised at regular intervals, in accordance with any requirements prescribed by regulations made under this Act and any relevant instructions issued under section 196.
 (3A) A plan may comprise more than 1 document, and those documents may be kept in different physical or electronic locations.
-(4) Each plan must—
-  (a) be based on an assessment of the needs, capacities, and disposition of the prisoner; and
-  (b) make provision for the safe, secure, and humane containment of the prisoner; and
-  (c) outline how the prisoner can make constructive use of his or her time in the prison (including, in the case of a person sentenced to imprisonment, ways of addressing offending behaviour and preventing reoffending); and
-  (d) outline how the prisoner may be prepared for eventual release from the prison and successful reintegration into the community; and
-  (e) include any prescribed matter or other matter required to be included in the plan by instructions issued under section 196; and
-  (f) be consistent with the resources available to the chief executive to manage the prisoner.
+(4) Each case management plan must be consistent with the resources available to the chief executive to manage the prisoner.
 
 ### 52 Rehabilitative programmes
 ((1)) The chief executive must ensure that, to the extent consistent with the resources available and any prescribed requirements or instructions issued under section 196, rehabilitative programmes are provided to those prisoners sentenced to imprisonment who, in the opinion of the chief executive, will benefit from those programmes.
@@ -869,7 +861,7 @@ The chief executive must ensure that, as far as is practicable, every prisoner i
     (i) rehabilitation of the prisoner; or
     (ii) reintegration of the prisoner into the community on his or her release:
   (c) to place that prisoner in a prison closer to his or her family:
-  (d) to respond to the needs of that prisoner, as identified in the management plan:
+  (d) to respond to the needs of that prisoner, as identified in the case management plan:
   (e) to ensure the safety of that prisoner or any other person:
   (f) to implement a change in the security classification of that prisoner:
   (g) to provide medical or psychiatric care for that prisoner:
@@ -1347,7 +1339,7 @@ A parenting agreement to which section 81A(2)﻿(c) relates must include, withou
     (i) attend any parenting education programmes specified; and
     (ii) facilitate arrangements for the child to receive any necessary health and well-being checks and any treatment required as a result of those checks; and
     (iii) participate in any treatment or counselling required to address any mental health or substance abuse issues identified; and
-    (iv) attend any programmes identified in her management plan; and
+    (iv) attend any programmes identified in her case management plan; and
     (v) co-operate in a planned separation from the child when the placement ends.
 
 ### 81C Accommodation and feeding of children placed with their mothers
