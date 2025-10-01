@@ -1,5 +1,5 @@
 # Mutual Assistance in Criminal Matters Act 1992
-_Consolidation as at 2023-07-27_
+_Consolidation as at 2025-10-01_
 
 > An Act to facilitate the provision and obtaining of international assistance in criminal matters
 
@@ -14,6 +14,7 @@ _Consolidation as at 2023-07-27_
   - **assets forfeiture order** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
   - **Central Authority** , in relation to any foreign country, means the person or authority for the time being designated by that country for the purposes of transmitting or receiving requests made under or pursuant to this Act
   - **Commissioner** means the Commissioner of Police
+  - **constable** has the same meaning as in section 4 of the Policing Act 2008
   - **convention country** means any foreign country that is a party to a convention referred to in column 1 of the table in the Schedule
   - **criminal investigation** means,—
     (a) in Part 2, an investigation certified by the Attorney-General to have commenced in New Zealand in respect of an offence committed, or suspected on reasonable grounds to have been committed or to be likely to be committed, against the law of New Zealand:
@@ -23,7 +24,7 @@ _Consolidation as at 2023-07-27_
     (a) in Part 2, proceedings certified by the Attorney-General to have been instituted in respect of an offence committed, or suspected on reasonable grounds to have been committed, against the law of New Zealand; and includes the trial of a person for the offence and any proceedings to determine whether or not a person should be tried for the offence:
     (b) in Part 3, proceedings certified by the Central Authority of the requesting country to have been instituted in respect of an offence committed, or suspected on reasonable grounds to have been committed, against the law of the country; and includes the trial of a person for the offence and any proceedings to determine whether or not a person should be tried for the offence
   - **document** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
-  - **examination order** means an order issued under section 107 of the Criminal Proceeds (Recovery) Act 2009
+  - **evidential material** has the same meaning as in section 3(1) of the Search and Surveillance Act 2012
   - **financial institution** has the same meaning as in section 3 of the Financial Transactions Reporting Act 1996
   - **foreign country** means any country other than New Zealand
   - **foreign forfeiture order** means—
@@ -53,10 +54,14 @@ _Consolidation as at 2023-07-27_
       (iii) an instrument of crime (as defined in relation to Part 3); or
       (iv) property that will satisfy some or all of a foreign pecuniary penalty order
   - **forfeiture order** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
+  - **highly restricted surveillance** means—
+    (a) surveillance by means of an interception device; or
+    (b) trespass surveillance other than by means of a tracking device
   - **instrument forfeiture order** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
   - **instrument of crime** ,—
     (a) in relation to Part 2, has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009; and
     (b) in relation to Part 3, means any property used, wholly or in part, to commit or facilitate the commission of a foreign qualifying forfeiture offence
+  - **interception device** has the same meaning as in section 3(1) of the Search and Surveillance Act 2012
   - **Judge** means a Judge of the High Court
   - **judicial records** means judgments, orders, and decisions of courts, and other records held by judicial authorities
   - **Minister** means the Minister of Justice
@@ -65,7 +70,6 @@ _Consolidation as at 2023-07-27_
   - **prison** has the same meaning as in section 3(1) of the Corrections Act 2004
   - **prisoner** means a person who is for the time being in the legal custody of any person under the Corrections Act 2004
   - **process** means any summons, warrant, order, or other document issued out of any court, or by any Judge, Master, District Court Judge, Justice, Community Magistrate, or Registrar
-  - **production order** means an order made under section 105 of the Criminal Proceeds (Recovery) Act 2009
   - **profit forfeiture order** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
   - **property** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
   - **qualifying instrument forfeiture offence** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
@@ -84,6 +88,7 @@ _Consolidation as at 2023-07-27_
     (b) includes an offence under the law of a foreign country that is a party to the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000, if—
       (i) it is punishable by imprisonment for a term of 4 years or more; and
       (ii) there are reasonable grounds to suspect that it is transnational in nature (as defined in articles 3(2) and 18(1) of that convention) and involves an organised criminal group (as defined in article 2(a) of that convention)
+  - **surveillance device** has the same meaning as in section 3(1) of the Search and Surveillance Act 2012
   - **tainted property** ,—
     (a) in relation to Part 2, has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009; and
     (b) in relation to Part 3,—
@@ -93,7 +98,10 @@ _Consolidation as at 2023-07-27_
       (ii) includes any property that has been—
         (A) acquired as a result of more than 1 activity if at least 1 of those activities is a significant foreign criminal activity; or
         (B) directly or indirectly derived from more than 1 activity if at least 1 of those activities is a significant foreign criminal activity
-  - **unlawfully benefited from significant foreign criminal activity** means a person has knowingly, directly or indirectly, derived a benefit from significant foreign criminal activity (whether or not the person deriving the benefit undertook or was involved in the significant foreign criminal activity).
+  - **tracking device** has the same meaning as in section 3(1) of the Search and Surveillance Act 2012
+  - **trespass surveillance** has the same meaning as in section 3(1) of the Search and Surveillance Act 2012
+  - **unlawfully benefited from significant foreign criminal activity** means a person has knowingly, directly or indirectly, derived a benefit from significant foreign criminal activity (whether or not the person deriving the benefit undertook or was involved in the significant foreign criminal activity)
+  - **visual surveillance device** has the same meaning as in section 3(1) of the Search and Surveillance Act 2012.
 (2) A reference in this Act to criminal proceedings or a criminal investigation includes proceedings or investigations into the following matters:
   (a) revenue (including taxation and customs and excise duties):
   (b) foreign exchange control:
@@ -147,6 +155,9 @@ _Consolidation as at 2023-07-27_
   (c) an instrument of crime (as defined in relation to Part 3); or
   (d) property that will satisfy all or part of a foreign pecuniary penalty order.
 (5) Proceedings treated as criminal proceedings under this section are criminal matters for the purposes of Parts 2 and 3.
+
+### 2C Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
@@ -268,11 +279,30 @@ Where—that evidence shall not be admitted or otherwise used in any prosecution
 ### 19 Assistance in serving documents
 The Attorney-General may request a foreign country to assist in effecting service of any process where the Attorney-General is satisfied that, for the purposes of, or in connection with, any criminal matter, it is necessary or desirable to serve that process on a person or an authority in the foreign country.
 
-**Assistance in obtaining articles or things**
+**Assistance in obtaining things**
 
-### 20 Assistance in obtaining article or thing
-(1) Subject to subsection (2), where the Attorney-General is satisfied that there are reasonable grounds for believing that an article or thing is in a foreign country and would, if produced, be relevant to any criminal matter in New Zealand, the Attorney-General may request the foreign country to assist in obtaining, by search and seizure if necessary, the article or thing.
-(2) No request may be made under this section for assistance in obtaining an article or thing by search and seizure unless the Attorney-General is satisfied that there are reasonable grounds for believing that the article or thing would, if produced, be relevant to any criminal matter in respect of an offence against the law of New Zealand punishable by imprisonment for a term of 2 years or more.
+### 20 Assistance in obtaining thing
+(1) The Attorney-General may request a foreign country to assist in obtaining or accessing a thing, by search and seizure if necessary, if satisfied that there are reasonable grounds to believe that the thing—
+  (a) is in the foreign country or, if it is an intangible thing (for example, computer data or a computer program), is under the control of a person who is present in the foreign country; and
+  (b) is relevant to a criminal matter in respect of an offence against the law of New Zealand.
+(2) The Attorney-General may request assistance in obtaining the thing by search and seizure only if the offence is punishable by imprisonment for a term of 2 years or more.
+
+**Assistance relating to surveillance devices**
+
+### 20A Assistance in obtaining information by means of surveillance device
+(1) The Attorney-General may request a foreign country to assist in obtaining information by means of a surveillance device if satisfied that there are reasonable grounds to believe that—
+  (a) at least 1 of the following applies:
+    (i) a place, vehicle, or other thing that would be the object of the surveillance is or will be in the foreign country:
+    (ii) a person who would be the object of the surveillance is or will be present in the foreign country; and
+  (b) the information is or will be relevant to a criminal matter in respect of an offence against the law of New Zealand that is punishable by imprisonment for a term of 2 years or more.
+(2) If satisfied that there are reasonable grounds to believe that the foreign country would be likely to collect any of the information by means of highly restricted surveillance (if it were to grant the request), the Attorney-General may make the request only if the offence is an eligible offence for that surveillance.
+(3) In this section, eligible offence, for highly restricted surveillance, means—
+  (a) an offence that is punishable by imprisonment for a term of 7 years or more; or
+  (b) an offence against any of the following provisions of the Arms Act 1983:
+    (i) for trespass surveillance other than by means of a tracking device, section 16(4), 16A, 42A, 42B, 43, 43AA, 44, 44AA, 44A, 45, 50, 50AA, 50A, 50B, 50C, 50CA, 50D, 51, 53A(2), 54, 55, or 55A:
+    (ii) for surveillance by means of an interception device, section 16(4), 16A, 42A, 42B, 44, 44A, 45, 50, 50A, 50B, 50C, 50D, 51, 53A(2), 54, 55, or 55A; or
+  (c) an offence against section 25, 26, or 70 of the Psychoactive Substances Act 2013; or
+  (d) an offence against section 308A of the Crimes Act 1961.
 
 **Request to enforce orders under Criminal Proceeds (Recovery) Act 2009**
 
@@ -284,7 +314,7 @@ The Attorney-General may request a foreign country to assist in effecting servic
   (d) a restraining order.
 (2) The circumstances are that the Attorney-General has reasonable grounds to believe that some or all of the property to which the order relates is located in the foreign country.
 
-**Request to issue warrant or order in foreign country**
+**Requests to issue warrants and orders similar to those under Criminal Proceeds (Recovery) Act 2009**
 
 ### 22 Request to issue warrant or order in foreign country
 (1) The Attorney-General may, if a criminal matter has arisen in New Zealand in respect of any of the things referred to in subsection (2), request a foreign country to issue a warrant or order similar to the following warrants or orders made under the Criminal Proceeds (Recovery) Act 2009 in that country:
@@ -305,6 +335,8 @@ Any evidence, information, document, or article that is obtained, provided, or p
   (b) in the case of any evidence, information, document, or article obtained from, or provided or produced by, a person while he or she is in New Zealand pursuant to a request made under section 12, that person—
 
 ## Part 3 — Requests to New Zealand
+
+### Subpart 1 — Preliminary provisions
 
 **Preliminary provisions**
 
@@ -419,6 +451,8 @@ If a request by a foreign country for assistance under this Part is refused in w
 ### 29 Assistance may be provided subject to conditions
 Assistance under this Part may be provided to a requesting country subject to such conditions as the Attorney-General determines in any particular case or class of cases.
 
+### Subpart 2 — Assistance in locating or identifying persons
+
 **Assistance in locating or identifying persons**
 
 ### 30 Assistance in locating or identifying persons
@@ -430,6 +464,8 @@ Assistance under this Part may be provided to a requesting country subject to su
     (ii) is in New Zealand,—
 (3) Where, in relation to a request made under subsection (1), the Attorney-General authorises assistance in accordance with this section, the Attorney-General shall forward the request to the appropriate agency in New Zealand, and that agency shall use its best endeavours to locate or, as the case may be, identify and locate the person to whom the request relates, and shall advise the Attorney-General of the outcome of those endeavours.
 (4) On receipt of such advice, the Attorney-General shall inform the requesting country of the result of the inquiries made pursuant to the request.
+
+### Subpart 3 — Assistance in obtaining evidence in New Zealand
 
 **Assistance in obtaining evidence in New Zealand**
 
@@ -476,6 +512,8 @@ Assistance under this Part may be provided to a requesting country subject to su
 
 ### 36 Evidence Act 2006 not affected
 Nothing in this Act limits or affects the Evidence Act 2006.
+
+### Subpart 4 — Assistance in arranging attendance of person in foreign country
 
 **Assistance in obtaining attendance of persons in foreign country**
 
@@ -555,24 +593,79 @@ Where a prisoner who is serving a term of imprisonment for an offence against th
 (5) For the purposes of enabling the grant of a temporary visa under the Immigration Act 2009 to any person whom it is proposed to transport through New Zealand pursuant to this section, the Attorney-General may issue a certificate, in writing, that the person is to be transported through New Zealand pursuant to this section.
 (6) The Attorney-General may, at any time, by notice in writing, cancel any certificate issued under subsection (5) in respect of any person who is in New Zealand for the purposes of being transported through New Zealand pursuant to this section if the Attorney-General is satisfied that that person’s presence in New Zealand is no longer necessary for that purpose.
 
+### Subpart 5 — Requests for search warrants and production orders
+
+**Interpretation**
+
+### 42A Interpretation
+(1) In this subpart,—
+  - **document** has the same meaning as in section 70 of the Search and Surveillance Act 2012
+  - **notifiable person** has the same meaning as in section 49A.
+(2) In this subpart, a reference to a thing that is produced under a production order is a reference to a document that is produced under a production order.
+
+**Requests**
+
+### 43 Assistance in obtaining thing
+(1) A foreign country may request the Attorney-General to assist in obtaining—
+  (a) a thing under a search warrant; or
+  (b) a document under a production order.
+(2) The Attorney-General may authorise the New Zealand Police to apply to a Judge for a search warrant or a production order under this subpart if the Attorney-General is satisfied—
+  (a) that the request relates to a criminal matter in respect of an offence against the law of that foreign country that is punishable by imprisonment for a term of 2 years or more; and
+  (b) that there are reasonable grounds to believe that the thing or document is relevant to the criminal matter; and
+  (c) that there are reasonable grounds to believe that,—
+    (i) for a request for assistance in obtaining a thing under a search warrant, the thing is in New Zealand; or
+    (ii) for a request for assistance in obtaining a document under a production order, the document is in the possession or under the control of a person who could be served and comply with the order in New Zealand if it were made (for example, because they are an individual living in New Zealand or a company that is registered in New Zealand).
+
 **Search warrants**
 
-### 43 Assistance in obtaining article or thing by search and seizure
-(1) A foreign country may request the Attorney-General to assist in obtaining an article or thing by search and seizure.
-(2) Where, on receipt of a request made under subsection (1) by a foreign country, the Attorney-General is satisfied—the Attorney-General may authorise a constable, to apply to an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) for a search warrant in accordance with section 44 of this Act.
-  (a) that the request relates to a criminal matter in that foreign country in respect of an offence punishable by imprisonment for a term of 2 years or more; and
-  (b) that there are reasonable grounds for believing that an article or thing relevant to the proceedings is located in New Zealand,—
+### 44 Applications, issue, etc
+(1) If the Attorney-General authorises the New Zealand Police to apply for a search warrant, a constable may apply for a search warrant in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012.
+(2) On an application by a constable to a Judge, the Judge may issue a search warrant in relation to a place, vehicle, or other thing if satisfied that there are reasonable grounds—
+  (a) to suspect that an offence against the law of a foreign country punishable by imprisonment for a term of 2 years or more has been or will be committed; and
+  (b) to believe that the search will find evidential material in respect of the offence in or on the place, vehicle, or other thing.
+(3) Part 4 of the Search and Surveillance Act 2012, except for subpart 6 of that Part, applies in relation to an application made, and a search warrant issued, under this section.
+(4) For that purpose, a reference in section 101 of that Act (retention of documents) to the District Court is to be read as if it were a reference to the High Court.
 
-### 44 Search warrants
-(1) An issuing officer who, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, is satisfied that there are reasonable grounds for believing that there is in or on any place or thing—may issue a search warrant in respect of that thing.
-  (a) any thing upon or in respect of which any offence under the law of a foreign country punishable by imprisonment for a term of 2 years or more has been, or is suspected of having been, committed; or
-  (b) any thing which there are reasonable grounds for believing will be evidence as to the commission of any such offence; or
-  (c) any thing which there are reasonable grounds for believing is intended to be used for the purpose of committing any such offence—
-(2) An application for a warrant under subsection (1) may be made only by a constable authorised under section 43(2).
-(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 6) apply.
+**Production orders**
+
+### 45 General provisions: applications and making
+(1) If the Attorney-General authorises the New Zealand Police to apply for a production order, a constable may apply to a Judge for a production order.
+(2) On an application by a constable, a Judge may make a production order against a person if satisfied that there are reasonable grounds—
+  (a) to suspect that an offence against the law of a foreign country punishable by imprisonment for a term of 2 years or more has been or will be committed; and
+  (b) to believe that the document sought by the proposed order—
+    (i) is evidential material in respect of the offence; and
+    (ii) is in the possession or under the control of the person, or will come into the possession or under the control of the person while the order is in force.
 
 ### 45 Form and content of search warrant
 [Repealed]
+
+### 46 Applicable provisions of Search and Surveillance Act 2012
+Provisions about applications for production orders
+(1) Section 71(2) of the Search and Surveillance Act 2012 applies to an application made under section 45.
+(2) The following provisions of the Search and Surveillance Act 2012 apply in relation to an application made under section 45:
+  (a) section 98(2) (requirements for further information):
+  (b) section 99 (verification of an application):
+  (c) section 100 (mode of an application):
+  (d) section 101 (retention of documents about applications).
+(3) Those provisions apply as if—
+  (a) a reference in those provisions to an application for a search warrant, or to a search warrant, included (respectively) a reference to an application, or to a production order, made under section 45; and
+  (b) a reference in those provisions to the District Court were a reference to the High Court.
+Provisions about production orders
+(4) The following provisions of the Search and Surveillance Act 2012 apply in relation to a production order made under section 45:
+  (a) section 75 (form and content of a production order):
+  (b) section 76 (duration of a production order):
+(5) The following provisions of the Search and Surveillance Act 2012 apply in relation to a production order made under section 45 as if a reference in those provisions to an investigation were a reference to the criminal matter concerned:
+  (a) section 78 (documents produced under a production order):
+  (b) section 79 (requiring a copy of a retained document to be given).
+(6) Section 105 of the Search and Surveillance Act 2012 (transmission of a search warrant) applies in relation to a production order made under section 45 as if a reference in section 105 of that Act to a search warrant included a reference to that production order.
+(7) Section 107 of the Search and Surveillance Act 2012 (when a search warrant is invalid) applies to a production order made under section 45—
+  (a) as if a reference in section 107 of that Act to a search warrant were a reference to that production order; and
+  (b) as if a reference in section 107 of that Act to the grounds or conditions for lawful issue of a warrant were a reference to the matters that the Judge must be satisfied of under section 45(2).
+(8) The following provisions of Part 4 of the Search and Surveillance Act 2012 apply in relation to a production order made under section 45:
+  (a) subpart 5 (privilege and confidentiality):
+  (b) subpart 7 (immunities):
+  (c) subpart 9 (offences):
+  (d) subpart 10 (miscellaneous provisions dealing with the effect of court proceedings and with service of orders and notices).
 
 ### 46 Powers conferred by warrant
 [Repealed]
@@ -586,14 +679,283 @@ Where a prisoner who is serving a term of imprisonment for an offence against th
 ### 48 Notice of execution of warrant
 [Repealed]
 
-### 49 Custody and disposal of things seized
-(1) Where any constable seizes any thing pursuant to a warrant issued under section 44, that constable shall deliver the thing into the custody of the Commissioner of Police.
-(2) Where a thing is delivered into the custody of the Commissioner of Police under subsection (1), the Commissioner of Police shall arrange for the thing to be kept for a period not exceeding 1 month from the day on which the thing was seized pending a direction in writing from the Attorney-General as to the manner in which the thing is to be dealt with (which may include a direction that the thing be sent to an appropriate authority of a foreign country).
-(3) Where, before the expiry of the period referred to in subsection (2), the Attorney-General gives a direction in respect of the thing, the thing shall be dealt with in accordance with the direction.
-(4) If no direction is given by the Attorney-General before the expiry of the period referred to in subsection (2), the Commissioner of Police shall arrange for the thing to be returned to the person from whose possession it was seized as soon as practicable after that period has expired.
+**Custody and disposal of things seized or produced**
 
-### 50 Attorney-General to provide certificate as to search and seizure
-Where, pursuant to a request made under section 43 by a foreign country, a search warrant is issued under section 44, the Attorney-General shall, at the request of the Central Authority of that foreign country, provide such certification as that Central Authority may require concerning the result of any search conducted pursuant to the warrant, the place and circumstances of the seizure of any thing pursuant to the warrant, and the custody of any thing so seized.
+### 49 General provisions
+(1) Any thing seized or produced under a search warrant issued or a production order made under this subpart must—
+  (a) be delivered into the custody of the Commissioner; and
+  (b) be kept in the custody of the Commissioner until otherwise dealt with in accordance with this section.
+(2) The thing must be dealt with in accordance with any written direction that the Attorney-General gives to the Commissioner (subject to section 49A).
+(3) The Commissioner must arrange for the thing to be returned to the appropriate person, as soon as practicable after the prescribed period for the thing ends, if the Attorney-General has not given a direction under this section, or a copy of a section 49A notice, relating to the thing to the Commissioner before the end of that prescribed period.
+(4) In this section,—
+  - **appropriate person** , for the return of a thing, means the person who—
+    (a) possessed the thing immediately before it was seized under the search warrant; or
+    (b) produced it under the production order
+  - **prescribed period** , in relation to a thing, means the period of 1 month starting on the day on which the thing is seized or produced
+  - **section 49A notice** means a written notice given by the Attorney-General under section 49A.
+
+### 49A Sending thing out of New Zealand
+(1) The Attorney-General may direct the Commissioner under section 49 to arrange for the thing—
+  (a) to be transferred to the custody of the Attorney-General, or of any other person specified in the direction, for sending to an appropriate authority of a foreign country; or
+  (b) to be sent to an appropriate authority of a foreign country.
+(2) However, the thing may be sent out of New Zealand only if—
+  (a) one of the following applies:
+    (i) the Attorney-General has given written notice to each notifiable person of the Attorney-General’s intention to give a direction that would result in the thing being sent out of New Zealand and has provided a copy of that notice to the Commissioner:
+    (ii) the Attorney-General is satisfied that the notifiable person is deceased, or that all reasonable steps have been taken to identify or contact the person but the person cannot be identified or contacted:
+    (iii) a Judge has dispensed with the obligation to give written notice to the notifiable person under section 49B; and
+  (b) any proceeding in New Zealand that is commenced by a notifiable person and relates to the search warrant, production order, or the proposed direction has been finally disposed of; and
+  (c) the foreign country has given undertakings about any matter that the Attorney-General considers appropriate.
+(3) Subsection (2)﻿(b) does not prevent the thing from being sent out of New Zealand with the agreement of the notifiable person referred to in that provision.
+(4) A notice that is required to be given under this section to a notifiable person must be given at least 10 working days before a direction of a kind referred to in subsection (1) is given.
+(5) The notice must inform the notifiable person of each of the following:
+  (a) the terms of the proposed direction (but only to the extent that it relates to the thing):
+  (b) the date on which the Attorney-General proposes to give the direction:
+  (c) that the notice is given for the purposes of subsection (2)﻿(a):
+  (d) the effect of subsections (2) and (3):
+  (e) any specific or general arrangements that may apply to the return, disposal, destruction, or forfeiture of the thing:
+  (f) a physical or an electronic address that the notifiable person may use for inquiries or other communications about the notice and proposed direction.
+(6) Section 181 of the Search and Surveillance Act 2012 applies to the giving of a notice for the purposes of this section in the same way as it applies to the giving of a notice for the purposes of that Act.
+(7) In this section, notifiable person, in relation to a thing, means—
+  (a) any person who has been identified in connection with the request under section 43 as someone who it is suspected has committed or will commit the offence concerned; or
+  (b) in the case of a thing that was seized under a search warrant,—
+    (i) the person who appears to the Attorney-General to be the owner of the thing; or
+    (ii) the person who possessed the thing immediately before it was seized under a search warrant; or
+    (iii) the occupier of the place, or the person in charge of the vehicle or other thing, from which the seizure took place; or
+  (c) in the case of a thing that was produced under a production order and contains information about an identifiable individual, that individual (but only if the central purpose of the production order was to obtain information about that individual); or
+  (d) any other person who the Attorney-General is satisfied there are reasonable grounds to suspect has committed or will commit the offence concerned.
+
+### 49B Dispensing with obligation to give notice
+Application
+(1) The Attorney-General may authorise the New Zealand Police to apply for a dispensation from the Attorney-General’s obligation to give notice under section 49A of the Attorney-General’s intention to direct that a thing seized under a search warrant or produced under a production order be sent out of New Zealand.
+(2) If the Attorney-General authorises the New Zealand Police to apply for a dispensation from the Attorney-General’s obligation to give notice under that section relating to a thing, a constable may apply to a Judge for a dispensation from that obligation to give notice relating to the thing.
+(3) A constable may make the application after the application for the search warrant or production order is made but before the Attorney-General makes a direction of a kind referred to in section 49A(1).
+(4) A constable may also make the application at the same time as applying for—
+  (a) a search warrant that would authorise the seizure of the thing; or
+  (b) a production order that would require a person to produce the thing.
+Test for dispensation
+(5) The Judge may dispense with the Attorney-General’s obligation to give any notice under section 49A relating to the thing if the Judge is satisfied—
+  (a) that compliance with that obligation would endanger the safety of any person; or
+  (b) that—
+    (i) compliance with that obligation would prejudice ongoing investigations (whether relating to an offence against the law of a foreign country or New Zealand) or proceedings for an offence against the law of a foreign country; and
+    (ii) the public interest in avoiding that prejudice outweighs the public interest in the Attorney-General giving the notice.
+(6) The public interest in avoiding prejudice to ongoing investigations or proceedings includes the public interest in avoiding that prejudice so as to maintain co-operation between New Zealand and the foreign country concerned in respect of criminal investigations or criminal proceedings.
+(7) The public interest in avoiding prejudice to ongoing proceedings includes the public interest in avoiding undue delay of those proceedings.
+(8) The public interest in the Attorney-General giving the notice includes the public interest in ensuring that the seized or produced thing is not sent out of New Zealand before—
+  (a) the notifiable person concerned has an opportunity—
+    (i) to commence proceedings in New Zealand challenging the legality of the proposed direction or the issue, making, or execution of the search warrant or production order; and
+    (ii) to obtain an order that the thing not be sent out of New Zealand; and
+  (b) if the notifiable person commences proceedings of that kind, those proceedings are finally disposed of or the notifiable person agrees to the thing being sent out of New Zealand.
+Conditions on dispensation
+(9) The Judge may impose any conditions on a dispensation under this section that relate to sending the thing out of New Zealand.
+(10) Those conditions may include a condition requiring steps to be taken to avoid the risk of things seized or produced under the warrant or production order being sent out of New Zealand that are not evidential material in respect of the offence concerned.
+(11) If a constable applies for the dispensation at the same time as applying for a search warrant, the conditions of the dispensation may be included as conditions of the warrant.
+
+**Certificate**
+
+### 50 Attorney-General to provide certificate as to search and seizure, or production
+(1) If a search warrant or a production order is issued or made under this subpart, the Attorney-General must, at the request of the Central Authority of the foreign country concerned, provide a certificate to the Central Authority about the relevant matters.
+(2) The relevant matters, for a search warrant, are—
+  (a) the result of any search conducted under the warrant; and
+  (b) if any thing was seized under the warrant,—
+    (i) the place at which the thing was seized; and
+    (ii) the circumstances in which the thing was seized; and
+    (iii) the custody of the thing.
+(3) The relevant matters, for a production order, are—
+  (a) the result of the production order; and
+  (b) the custody of documents produced under the order.
+
+### Subpart 6 — Requests for surveillance device warrants
+
+**Interpretation**
+
+### 50A Interpretation
+In this subpart,—
+  - **District Court Judge** means a Judge appointed under the District Court Act 2016
+  - **eligible offence** , for highly restricted surveillance, means—
+    (a) an offence that would be punishable by imprisonment for a term of 7 years or more if the offence were committed in New Zealand; or
+    (b) an offence that relates to the same or substantially similar conduct as an offence against any of the following provisions of the Arms Act 1983:
+      (i) for trespass surveillance other than by means of a tracking device, section 16(4), 16A, 42A, 42B, 43, 43AA, 44, 44AA, 44A, 45, 50, 50AA, 50A, 50B, 50C, 50CA, 50D, 51, 53A(2), 54, 55, or 55A:
+      (ii) for surveillance by means of an interception device, section 16(4), 16A, 42A, 42B, 44, 44A, 45, 50, 50A, 50B, 50C, 50D, 51, 53A(2), 54, 55, or 55A; or
+    (c) an offence that relates to the same or substantially similar conduct as an offence against section 25, 26, or 70 of the Psychoactive Substances Act 2013; or
+    (d) an offence against section 308A of the Crimes Act 1961
+  - **material** includes intangible material (for example, computer data or a computer program)
+  - **raw surveillance data** —
+    (a) means actual video recordings or actual audio recordings; and
+    (b) includes full transcripts, or substantial parts of transcripts, of audio recordings.
+
+**Requests**
+
+### 50B Assistance in obtaining evidential material under surveillance device warrant
+(1) A foreign country may request the Attorney-General to assist in obtaining information under a surveillance device warrant.
+(2) The Attorney-General may authorise the New Zealand Police to apply to a Judge for a surveillance device warrant under this subpart if satisfied that—
+  (a) the request relates to a criminal matter in respect of an offence against the law of the foreign country that would be punishable by imprisonment for a term of 2 years or more if the offence were committed in New Zealand; and
+  (b) there are reasonable grounds to believe that the information that would be obtained under the proposed surveillance device warrant if it were issued is relevant to the criminal matter; and
+  (c) there are reasonable grounds to believe that—
+    (i) a place, vehicle, or other thing that would be the object of the surveillance device warrant if that warrant were issued is or will be in New Zealand; or
+    (ii) a person who would be the object of the surveillance device warrant if that warrant were issued is or will be present in New Zealand; and
+  (d) the foreign country has given appropriate undertakings about—
+    (i) retaining or destroying raw surveillance data, excerpts from raw surveillance data, and any information obtained from raw surveillance data; and
+    (ii) any other matter that the Attorney-General considers appropriate.
+
+**General provisions: applications, issue, and authorised activities**
+
+### 50C Applications, issue, and authorised activities
+(1) If the Attorney-General authorises the New Zealand Police to apply for a surveillance device warrant, a constable may apply to a Judge for a surveillance device warrant.
+(2) On an application by a constable to a Judge, the Judge may issue a surveillance device warrant if satisfied that there are reasonable grounds—
+  (a) to suspect that an offence against the law of a foreign country has been or will be committed that would be punishable by imprisonment for a term of 2 years or more if the offence were committed in New Zealand; and
+  (b) to believe that the proposed use of the surveillance warrant will obtain information that is evidential material in respect of the offence.
+(3) The surveillance device warrant may authorise 1 or more of the activities specified in section 46(1) of the Search and Surveillance Act 2012.
+(4) However, the Judge may issue a surveillance device warrant that allows highly restricted surveillance only if also satisfied that there are reasonable grounds to suspect that the offence is an eligible offence.
+
+**Other applicable provisions of Search and Surveillance Act 2012**
+
+### 50D Applications and retention of documents
+(1) Section 49 of the Search and Surveillance Act 2012 applies in relation to an application made under this subpart.
+(2) The following provisions of the Search and Surveillance Act 2012 apply in relation to an application made under this subpart:
+  (a) section 98(2) (requirements for further information):
+  (b) section 99 (verification of an application):
+  (c) section 100 (mode of an application):
+  (d) section 101 (retention of documents).
+(3) Those provisions apply as if—
+  (a) a reference in those provisions to an application for a search warrant or to a search warrant included (respectively) a reference to an application made or a surveillance device warrant issued under this subpart; and
+  (b) a reference in those provisions to the District Court were a reference to the High Court.
+
+### 50E Restriction on issue of warrant facilitating surveillance of communications between lawyer and client
+Section 54 of the Search and Surveillance Act 2012 applies in relation to the issue of a surveillance device warrant under this subpart.
+
+### 50F Form and content of warrant
+(1) Section 55 of the Search and Surveillance Act 2012 applies in relation to a surveillance device warrant issued under this subpart.
+(2) For that purpose, a reference in that section to a provision of the Search and Surveillance Act 2012 that is applied by this subpart is to be read as a reference to that provision as so applied.
+(3) Section 55(3)﻿(h) of that Act, as applied by this section, does not authorise highly restricted surveillance.
+
+### 50G Persons authorised by warrant
+Section 56 of the Search and Surveillance Act 2012 applies to a surveillance device warrant issued under this subpart.
+
+### 50H Surveillance device warrant reports
+Timing and content of report
+(1) Section 59 of the Search and Surveillance Act 2012 applies in relation to a surveillance device warrant issued under this subpart, with the following modifications:
+  (a) a reference in that section to a provision of the Search and Surveillance Act 2012 that is applied by this subpart is to be read as a reference to that provision as so applied:
+  (b) a reference in that section to criminal proceedings is a reference only to criminal proceedings brought in New Zealand.
+Judge’s actions on receipt of report
+(2) Section 61(1) of the Search and Surveillance Act 2012 applies in relation to a surveillance device warrant issued under this subpart, as modified by this section.
+(3) A reference in section 61(1) of that Act to a surveillance device warrant report received under section 59 of that Act is to be read as a reference to a report received under subsection (1).
+(4) A Judge may make an order under subsection (2) that a person who is the subject of surveillance be notified only if the Judge is satisfied—
+  (a) that the public interest in notifying the person outweighs potential prejudice to any 1 or more of the following:
+    (i) any investigation of the New Zealand Police:
+    (ii) the safety of informants or undercover officers:
+    (iii) the supply of information to the New Zealand Police:
+    (iv) any international relationships of New Zealand, including of the New Zealand Police:
+    (v) New Zealand’s interest in maintaining co-operation with the foreign country concerned in respect of criminal investigations; and
+  (b) that one or both of the following apply:
+    (i) the warrant should not have been issued:
+    (ii) there has been a serious breach of any of the conditions of the warrant or of any applicable legislation.
+
+### 50I Raw surveillance data and other information acquired by assistant
+Section 64A of the Search and Surveillance Act 2012 applies in relation to a surveillance device warrant issued under this subpart.
+
+### 50J Transmission of warrant
+Section 105 of the Search and Surveillance Act 2012 applies in relation to a surveillance device warrant issued under this subpart as if a reference in that section to a search warrant were a reference to that surveillance device warrant.
+
+### 50K When warrant is invalid
+Section 107 of the Search and Surveillance Act 2012 applies to a surveillance device warrant issued under this subpart—
+  (a) as if a reference in that section to a search warrant were a reference to that surveillance device warrant; and
+  (b) as if a reference in that section to the grounds or conditions for lawful issue of a search warrant were a reference to the matters that the Judge must be satisfied of under section 50C(2) and (if applicable) section 50C(4).
+
+### 50L Privilege and confidentiality
+Subpart 5 of Part 4 of the Search and Surveillance Act 2012 applies in relation to a surveillance device warrant issued under this subpart.
+
+### 50M Immunities and offences
+Subparts 7 and 9 of Part 4 of the Search and Surveillance Act 2012 apply in relation to a surveillance device warrant issued under this subpart.
+
+### 50N Effect of court proceedings
+Section 180 of the Search and Surveillance Act 2012 applies in relation to a surveillance device warrant issued under this subpart.
+
+**Dealing with material collected under warrant**
+
+### 50O Collected material to be delivered into custody of Commissioner
+Any material collected under a surveillance device warrant must—
+  (a) be delivered into the custody of the Commissioner; and
+  (b) be kept in the custody of the Commissioner until otherwise dealt with in accordance with—
+    (i) an order of a District Court Judge under section 140 of the Search and Surveillance Act 2012, as applied by section 50L; or
+    (ii) a direction that a Judge gives under section 61(1)﻿(a) of that Act, as applied by section 50H, after receiving a surveillance device warrant report relating to the warrant; or
+    (iii) any of sections 50P to 50T; or
+    (iv) the Public Records Act 2005 or any other legislation or rule of law.
+
+### 50P Sections 50Q to 50T subject to Judge’s order or direction about destruction or retention of material
+Sections 50Q to 50T are subject to—
+  (a) any order that a District Court Judge gives under section 140 of the Search and Surveillance Act 2012, as applied by section 50L, requiring a record of a communication or information made in consequence of surveillance to be destroyed; and
+  (b) any direction that a Judge gives under section 61(1)﻿(a) of the Search and Surveillance Act 2012, as applied by section 50H, after receiving a surveillance device warrant report relating to a warrant.
+
+### 50Q Attorney-General’s direction relating to collected material generally
+The material must be dealt with in accordance with any written direction that the Attorney-General gives to the Commissioner.
+
+### 50R Direction relating to sending material to foreign country
+(1) Without limiting section 50Q, the Attorney-General may direct the Commissioner to arrange for the material (or any part of that material)—
+  (a) to be transferred to the custody of the Attorney-General, or of any other person specified in the direction, for sending to an appropriate authority of a foreign country; or
+  (b) to be sent to an appropriate authority of a foreign country.
+(2) However, the material (or any part of that material) may be sent out of New Zealand only if the Attorney-General is satisfied that—
+  (a) a Judge has been provided with a surveillance device warrant report, as required by section 50H(1), relating to the warrant; and
+  (b) the Judge has completed the Judge’s review of the report; and
+  (c) the foreign country has given the appropriate undertakings about retaining or destroying raw surveillance data, excerpts from raw surveillance data, and any information obtained from raw surveillance data; and
+  (d) the foreign country has given any other undertakings that the Attorney-General considers appropriate.
+(3) For the purposes of subsection (2)﻿(c), the appropriate undertakings are undertakings to the effect of the following:
+  (a) except as provided by paragraph (b), the foreign country will retain material collected under the surveillance device warrant that is raw surveillance data and sent to it under this section for no longer than—
+    (i) is required for the purposes of criminal proceedings for the offence in relation to which the data was collected under the warrant; or
+    (ii) 5 years if criminal proceedings for that offence have not commenced (but only for as long as the data is required for an ongoing investigation by an appropriate authority of the foreign country):
+  (b) the foreign country will retain any excerpts from the raw surveillance data longer than is provided for in paragraph (a)﻿(i) or (ii) only if the appropriate authority of the foreign country is satisfied on reasonable grounds that the excerpts may be required for a future investigation by that authority:
+  (c) the foreign country will retain information that is obtained from the raw surveillance data but that is not itself raw surveillance data only if the appropriate authority of the foreign country suspects on reasonable grounds that the information may be relevant to an ongoing or a future investigation by that authority:
+  (d) the foreign country will ensure that the raw surveillance data, excerpts, and information are destroyed as soon as practicable after they cease to be retained in accordance with paragraphs (a), (b), and (c) (subject to any law of the foreign country requiring the record to be retained as part of a court record).
+
+### 50S Retention and destruction of raw surveillance data, etc, that is specified evidential material relating to New Zealand offence
+(1) Sections 63 and 64 of the Search and Surveillance Act 2012 apply to—
+  (a) specified evidential material relating to a New Zealand offence to the extent that the material—
+    (i) is raw surveillance data; and
+    (ii) is not the subject of a direction referred to in section 50R(1) (relating to sending material to a foreign country); and
+  (b) excerpts from that data; and
+  (c) information obtained from that data that is not itself raw surveillance data.
+(2) For that purpose, section 63 of that Act is to be applied as if a reference in that section to a direction given under section 61(1)﻿(a) of that Act were a reference to that provision as applied by section 50H.
+(3) In this section, specified evidential material, in relation to a New Zealand offence, means evidential material that a person obtains in relation to an offence against the law of New Zealand in the course of carrying out activities authorised by a surveillance device warrant issued under this subpart.
+
+### 50T Destruction or retention of other raw surveillance data, etc, that remains in New Zealand
+(1) This section applies to the extent that any of the material collected under the surveillance device warrant is raw surveillance data that—
+  (a) is not specified evidential material relating to a New Zealand offence; and
+  (b) is not the subject of a direction referred to in section 50R(1) (relating to sending material to a foreign country).
+(2) The Commissioner must ensure that the raw surveillance data, excerpts from that data, and information obtained from that data are deleted or erased as soon as practicable after the prescribed period for the data ends.
+(3) Subsection (2) does not apply to the data, excerpts, or information to the extent that a direction given by the Attorney-General under section 50Q before the prescribed period ends requires the Commissioner—
+  (a) to delete or erase the data, excerpts, or information before the prescribed period ends; or
+  (b) to keep the data, excerpts, or information after the prescribed period ends.
+(4) In this section,—
+  - **prescribed period** , in relation to raw surveillance data that is collected under a surveillance device warrant, means the period of 5 years that starts on the day on which the raw surveillance data is collected under the warrant
+  - **specified evidential material** , in relation to a New Zealand offence, has the meaning given to it in section 50S.
+
+**Other**
+
+### 50U Admissibility of evidential material relating to New Zealand offence
+(1) This section applies to evidential material obtained in relation to an offence against the law of New Zealand in the course of carrying out activities authorised by a surveillance device warrant issued under this subpart if a surveillance device warrant could have been issued under the Search and Surveillance Act 2012 in relation to that offence.
+(2) The evidential material is not inadmissible in criminal proceedings in New Zealand merely because the surveillance device warrant was issued in relation to an offence against the law of a foreign country.
+
+### 50V Annual reporting by Commissioner of Police
+(1) The Commissioner must include the following information in every annual report that the Commissioner prepares for the purposes of section 43 of the Public Finance Act 1989:
+  (a) the number of applications under this subpart that were granted or refused in the period covered by the report:
+  (b) the number of surveillance device warrants issued under this subpart in the period covered by the report that authorised the use of a surveillance device, and the number in respect of each kind of surveillance device:
+  (c) the number of surveillance device warrants issued under this subpart during the period covered by the report that authorised entry into private premises:
+  (d) for each kind of surveillance device authorised by a surveillance device warrant issued under this subpart during the period covered by the report, the numbers of that kind of device used—
+    (i) for a period of no more than 24 hours:
+    (ii) for a period of more than 24 hours but no more than 3 days:
+    (iii) for a period of more than 3 days but no more than 7 days:
+    (iv) for a period of more than 7 days but no more than 21 days:
+    (v) for a period of more than 21 days but no more than 60 days:
+  (e) the number of persons charged in criminal proceedings instituted in a foreign country where the collection of evidential material relevant to those proceedings was, so far as the Commissioner is aware, significantly assisted by carrying out activities under the authority of a surveillance device warrant issued under this subpart in the period covered by the report:
+  (f) if a Judge has reported to the Commissioner under section 61(1) of the Search and Surveillance Act 2012 (as applied by section 50H) about a breach of any of the conditions of a surveillance device warrant issued under this subpart,—
+    (i) the number of those reports; and
+    (ii) details of the breaches reported.
+(2) This section does not require the Commissioner to include in any annual report information about any prescribed surveillance, or surveillance of a prescribed kind, in any prescribed area or an area of a prescribed kind.
+(3) In this section, kind of surveillance device means any of the following:
+  (a) an interception device:
+  (b) a visual surveillance device:
+  (c) a tracking device.
+
+### Subpart 7 — Assistance in arranging service of process
 
 **Assistance in arranging service of process**
 
@@ -616,6 +978,8 @@ Where, pursuant to section 51, a foreign country requests the assistance of the 
 
 ### 53 Penalty not to be imposed for failure to comply with summons
 Where, pursuant to section 51, a foreign country requests the assistance of the Attorney-General in effecting the service, on any person, of a summons to appear as a witness in that foreign country, the person to whom the request relates shall not be subject to any penalty or liability or otherwise prejudiced in law by reason only of that person’s refusal or failure to comply with the summons, notwithstanding any contrary statement in the summons.
+
+### Subpart 8 — Requests to enforce foreign restraining orders and foreign forfeiture orders
 
 **Requests to enforce foreign restraining orders and foreign forfeiture orders**
 
@@ -674,6 +1038,8 @@ Where, pursuant to section 51, a foreign country requests the assistance of the 
   (f) that the foreign order has been discharged, wholly or in part.
 (3) The High Court must cancel the registration of a foreign order in New Zealand if the Commissioner applies, under a direction under subsection (1), to the High Court to cancel the registration.
 
+### Subpart 9 — Requests for warrants and orders under Criminal Proceeds (Recovery) Act 2009
+
 **Requests by foreign countries for orders or warrants in New Zealand**
 
 ### 59 Request for search warrant in New Zealand
@@ -706,7 +1072,7 @@ Where, pursuant to section 51, a foreign country requests the assistance of the 
 
 ### 61 Request for production order in New Zealand
 (1) A foreign country may request the Attorney-General to make an application for a production order in New Zealand.
-(2) After a request is made, the Attorney-General may authorise the Commissioner to make an application to a Judge under section 104 of the Criminal Proceeds (Recovery) Act 2009 if the Attorney-General is satisfied that—
+(2) After a request is made, the Attorney-General may authorise the Commissioner to make an application to a Judge under section 104 of the Criminal Proceeds (Recovery) Act 2009 for a production order under section 105 of that Act if the Attorney-General is satisfied that—
   (a) the request relates to a criminal investigation that relates to—
     (i) tainted property (as defined in relation to Part 3); or
     (ii) property that belongs to a person who has unlawfully benefited from significant foreign criminal activity; or
@@ -716,7 +1082,7 @@ Where, pursuant to section 51, a foreign country requests the assistance of the 
 
 ### 62 Request for examination order in New Zealand
 (1) A foreign country may request the Attorney-General to make an application for the issue of an examination order in New Zealand.
-(2) After a request is made, the Attorney-General may authorise the Commissioner to make an application under section 106 of the Criminal Proceeds (Recovery) Act 2009 if the Attorney-General is satisfied—
+(2) After a request is made, the Attorney-General may authorise the Commissioner to make an application under section 106 of the Criminal Proceeds (Recovery) Act 2009 for an examination order under section 107 of that Act if the Attorney-General is satisfied—
   (a) that the request relates to a criminal investigation that relates to—
     (i) tainted property (as defined in relation to Part 3); or
     (ii) property that belongs to a person who has unlawfully benefited from significant foreign criminal activity; or
@@ -762,6 +1128,53 @@ Where, pursuant to section 51, a foreign country requests the assistance of the 
   (a) be subject to such conditions, exceptions, or qualifications as are specified in the regulations:
   (b) be subject to such limitations, conditions, exceptions, or qualifications as are necessary to give effect to a treaty between New Zealand and that country and relating (in whole or in part) to the provision of assistance in criminal matters, being a treaty a copy of which is set out in the regulations.
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Budapest Convention and Related Matters Legislation Amendment Act 2025
+
+**Interpretation**
+
+### 1 Interpretation
+(1) In this Part, amendment Act means the Budapest Convention and Related Matters Legislation Amendment Act 2025.
+(2) In this Part,—
+  (a) a reference to a new provision is a reference to the provision as inserted or replaced by the amendment Act; and
+  (b) a reference to an old provision is a reference to the provision as in force immediately before it is replaced by the amendment Act.
+
+**Requests by New Zealand for assistance**
+
+### 2 Request by New Zealand for assistance in obtaining thing
+A reference in new section 20 to an offence includes a reference to an offence committed or suspected to have been committed before that section commences.
+
+### 3 Request by New Zealand for assistance in obtaining information by means of surveillance device
+References in new section 20A to an offence include references to an offence committed or suspected to have been committed before that section commences.
+
+**Requests to New Zealand for search warrants and production orders**
+
+### 4 Requests relating to suspected offences committed before commencement of new provisions
+References in new sections 43(2), 44(2), and 45(2) to an offence against the law of a foreign country include references to an offence against the law of the foreign country committed or suspected to have been committed before those provisions commence.
+
+### 5 Search warrants: existing requests, authorisations, and applications
+(1) New section 43(2) applies in relation to a request that a foreign country has made under old section 43 but only if, immediately before new section 43(2) commences, the Attorney-General has not decided whether to authorise a constable to apply for a search warrant.
+(2) Old section 44 continues to apply in relation to an application for a search warrant that a constable makes after new section 44 commences if, before that commencement, the constable was authorised under old section 43(2) to make the application.
+(3) Old section 44 continues to apply in relation to an application for a search warrant—
+  (a) that a constable makes before new section 44 commences; but
+  (b) that is not finally determined before that commencement.
+
+### 6 Search warrants: custody and disposal of things seized
+Old section 49 continues to apply in relation to anything seized pursuant to a search warrant that is issued—
+  (a) under old section 44 before new sections 44 and 49 commence; or
+  (b) under old section 44, as applied by clause 5(2) or (3).
+
+### 7 Search warrants: Attorney-General to provide certificate as to search and seizure
+Old section 50 continues to apply in relation to a request by the Central Authority of a foreign country for a certificate concerning a search conducted, and any seizure of any thing and the custody of any thing seized, pursuant to a search warrant that is issued—
+  (a) under old section 44 before new sections 44 and 50 commence; or
+  (b) under old section 44, as applied by clause 5(2) or (3).
+
+**Requests to New Zealand for surveillance device warrants**
+
+### 8 Requests relating to suspected offences committed before commencement of new provisions
+References in new sections 50B(2) and 50C(2) and (4) to an offence against the law of a foreign country include references to an offence against the law of the foreign country that is committed or suspected to have been committed before those provisions commence.
 
 ## Schedule 1 — Limitations on requests by convention countries
 
