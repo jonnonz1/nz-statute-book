@@ -1,5 +1,5 @@
 # Telecommunications (Interception Capability and Security) Act 2013
-_Consolidation as at 2023-11-28_
+_Consolidation as at 2025-10-01_
 
 ### 1 Title
 This Act is the Telecommunications (Interception Capability and Security) Act 2013.
@@ -17,18 +17,6 @@ This Act is the Telecommunications (Interception Capability and Security) Act 20
   - **annual update** means an update under section 69
   - **applicant** means a person that applies for registration under section 61
   - **authorised person** means any person authorised to execute or assist in the execution of an interception warrant or other lawful interception authority
-  - **call associated data** , in relation to a telecommunication,—
-    (a) means information—
-      (i) that is generated as a result of the making of the telecommunication (whether or not the telecommunication is sent or received successfully); and
-      (ii) that identifies the origin, direction, destination, or termination of the telecommunication; and
-    (b) includes, without limitation, any of the following information:
-      (i) the number from which the telecommunication originates:
-      (ii) the number to which the telecommunication is sent:
-      (iii) if the telecommunication is diverted from one number to another number, those numbers:
-      (iv) the time at which the telecommunication is sent:
-      (v) the duration of the telecommunication:
-      (vi) if the telecommunication is generated from a mobile telephone, the point at which the telecommunication first enters a network; but
-    (c) does not include the content of the telecommunication
   - **chief executive** means a person occupying the position of chief executive, by whatever name called, or the person who performs substantially the same function
   - **classified security information** has the meaning given by section 3A
   - **compliance order** means an order made by the High Court under section 92
@@ -50,7 +38,7 @@ This Act is the Telecommunications (Interception Capability and Security) Act 20
   - **intercept accessible** , in relation to a network or service, means the capability described in section 12
   - **intercept ready** , in relation to a network or service, means the capability described in section 11
   - **interception warrant** means—
-    (a) a warrant issued under section 53 of the Search and Surveillance Act 2012:
+    (a) a surveillance device warrant issued under section 53 of the Search and Surveillance Act 2012 or subpart 6 of Part 3 of the Mutual Assistance in Criminal Matters Act 1992; or
     (b) an intelligence warrant issued under Part 4 of the Intelligence and Security Act 2017
   - **law enforcement agency** means—
     (a) the New Zealand Police; or
@@ -68,17 +56,6 @@ This Act is the Telecommunications (Interception Capability and Security) Act 20
   - **network security risk** means any actual or potential security risk arising from—
     (a) the design, build, or operation of a public telecommunications network; or
     (b) any interconnection to or between public telecommunications networks in New Zealand or with telecommunications networks overseas
-  - **number** —
-    (a) means the address used by a network operator or a telecommunications service for the purposes of—
-      (i) directing a telecommunication to its intended destination; and
-      (ii) identifying the origin of a telecommunication; and
-    (b) includes, without limitation, any of the following:
-      (i) a telephone number:
-      (ii) a mobile telephone number:
-      (iii) a unique identifier for a telecommunication device (for example, an electronic serial number or a Media Access Control address):
-      (iv) a user account identifier:
-      (v) an Internet Protocol address:
-      (vi) an email address
   - **other lawful interception authority** —
     (a) means an authorisation issued under Part 4 of the Intelligence and Security Act 2017 (within the meaning of section 47 of that Act); and
     (b) includes an authority to intercept a private communication (whether in an urgent or emergency situation or otherwise) that is granted or issued to any member of a surveillance agency under any other enactment
@@ -118,6 +95,7 @@ This Act is the Telecommunications (Interception Capability and Security) Act 20
   - **telecommunication link** means any line, radio frequency, or other medium used for telecommunication
   - **telecommunications service** means any goods, services, equipment, and facilities that enable or facilitate telecommunication
   - **telephone device** means any terminal device capable of being used for transmitting or receiving any communications over a network designed for the transmission of voice frequency communication
+  - **traffic data** has the meaning given in section 3AB
   - **wholesale network service** means a service, other than an infrastructure-level service or a purely resold telecommunications service, that—
     (a) is provided by a network operator (network operator A) only to 1 or more other network operators; and
     (b) is provided exclusively over 1 or more networks that are owned, controlled, or operated by network operator A.
@@ -141,6 +119,25 @@ This Act is the Telecommunications (Interception Capability and Security) Act 20
   (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the Government of another country or any agency of such a Government, or by any international organisation; or
   (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences and the right to a fair trial; or
   (d) to endanger the safety of any person.
+
+### 3AB Meaning of traffic data
+(1) In this Act, traffic data, in relation to a telecommunication,—
+  (a) means information that is generated as a result of the making of the telecommunication (whether or not the telecommunication is sent or received successfully) and that identifies all or any of the following, as applicable to the telecommunication:
+    (i) the nature of the telecommunication (including, for example, email and instant messaging):
+    (ii) the path of the telecommunication, including (for example) the origin, direction, and destination of the telecommunication and, if the telecommunication is diverted from one number to another number, those numbers:
+    (iii) the time at which, and date on which, the telecommunication is sent:
+    (iv) the duration of the telecommunication:
+    (v) the termination of the telecommunication:
+    (vi) the size of any data or files transmitted by way of the telecommunication; but
+  (b) excludes the content of the telecommunication.
+(2) In subsection (1),—
+  (a) a reference to information identifying the origin of a telecommunication is a reference to information identifying—
+    (i) the number from which the telecommunication originates; and
+    (ii) if the telecommunication is generated from a mobile telephone, the point at which the telecommunication first enters a network; and
+  (b) a reference to information identifying the destination of a telecommunication is a reference to information identifying the number to which the telecommunication is sent.
+(3) In subsection (2), number, in relation to a telecommunication, means the number, identifier, or address used by a network operator or a service provider for the purposes of—ExamplesExamples of a number, as defined, include the following:a telephone number:a mobile telephone number:a unique identifier for a telecommunication device (for example, an electronic serial number or a Media Access Control address):a user account identifier:an Internet Protocol address:an email address.
+  (a) identifying the origin of the telecommunication; and
+  (b) directing the telecommunication to its intended destination.
 
 ### 3B Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
@@ -189,13 +186,16 @@ The purpose of this Act in relation to network security is to prevent, sufficien
 ### 10 When duty to have full interception capability is complied with
 (1) A public telecommunications network or a telecommunications service has full interception capability if every surveillance agency that is authorised under an interception warrant or any other lawful interception authority to intercept telecommunications or services on that network, or the network operator concerned, is able to—
   (a) identify and intercept telecommunications without intercepting telecommunications that are not authorised to be intercepted under the warrant or lawful authority; and
-  (b) obtain call associated data relating to telecommunications (other than telecommunications that are not authorised to be intercepted under the warrant or lawful authority); and
-  (c) obtain call associated data and the content of telecommunications (other than telecommunications that are not authorised to be intercepted under the warrant or lawful authority) in a useable format; and
+  (b) obtain traffic data relating to telecommunications (other than telecommunications that are not authorised to be intercepted under the warrant or lawful authority); and
+  (c) obtain traffic data and the content of telecommunications (other than telecommunications that are not authorised to be intercepted under the warrant or lawful authority) in a useable format; and
   (d) carry out the interception of telecommunications unobtrusively, without unduly interfering with any telecommunications, and in a manner that protects the privacy of telecommunications that are not authorised to be intercepted under the warrant or lawful authority; and
   (e) undertake the actions referred to in paragraphs (a) to (d) efficiently and effectively and,—
     (i) if it is reasonably achievable, at the time of transmission of the telecommunication; or
     (ii) if it is not reasonably achievable, as close as practicable to that time.
-(2) If a network operator, or an employee or agent of a network operator, undertakes the interception of a telecommunication on behalf of a surveillance agency under subsection (1), the interception must be taken to be complete when the network operator provides the call associated data or the content of the telecommunication, or both, to the surveillance agency.
+(2) If a network operator, or an employee or agent of a network operator, undertakes the interception of a telecommunication on behalf of a surveillance agency under subsection (1), the interception must be taken to be complete when the network operator provides the traffic data or the content of the telecommunication, or both, to the surveillance agency.
+(2A) Nothing in subsection (1)﻿(b) or (c) requires a network operator to be able to obtain specified traffic data relating to a telecommunication carried over a public data network that they own, control, or operate to the extent that the telecommunication is transmitted using a service that—Guidance noteThis subsection relates to telecommunications that pass “over the top” of a public data network using Internet-dependent services provided by a person other than the network operator that owns, controls, or operates the public data network.For example, an effect of this subsection is that the network operator is not required to be able to obtain information that identifies the nature of a telecommunication as an email or instant message if the network operator does not provide a related email or instant messaging service.
+  (a) is dependent on Internet access; and
+  (b) is provided by someone other than the network operator.
 (3) A network operator must, in order to comply with subsection (1)﻿(c), decrypt a telecommunication on that operator's public telecommunications network or telecommunications service if—
   (a) the content of that telecommunication has been encrypted; and
   (b) the network operator intercepting the telecommunication has provided that encryption.
@@ -204,9 +204,11 @@ The purpose of this Act in relation to network security is to prevent, sufficien
     (i) supplied by a person other than the operator and is available to the public; or
     (ii) supplied by the operator as an agent for that product; and
   (b) ensure that a surveillance agency has the ability to decrypt any telecommunication.
-(5) In subsection (1)﻿(c), useable format means—
-  (a) a format that is determined by a notice issued under section 42; or
-  (b) a format that is acceptable to the network operator and the surveillance agency executing the interception warrant or other lawful interception authority.
+(5) In this section,—
+  - **specified traffic data** , in relation to a telecommunication, means traffic data that identifies the nature of the telecommunication (see section 3AB(1)﻿(a)﻿(i))
+  - **useable format** means—
+    (a) a format that is determined by a notice issued under section 42; or
+    (b) a format that is acceptable to the network operator and the surveillance agency executing the interception warrant or other lawful interception authority.
 
 ### Subpart 2 — Reduced duties
 
@@ -216,7 +218,7 @@ The purpose of this Act in relation to network security is to prevent, sufficien
 (1) A network operator that is required by or under this subpart to ensure that a network or service is intercept ready—
   (a) must pre-deploy access points at suitable and sufficient concentration points on the network or service to allow an interception warrant or any other lawful interception authority relating to any of its customers to be given effect:
   (b) must reserve 1 or more network interfaces (that is, delivery ports) to which interception equipment can connect in order to deliver intercepted telecommunications to the surveillance agency; and
-  (c) must reserve, for each reserved interface referred to in paragraph (b), sufficient bandwidth to deliver intercepted telecommunications content and call associated data to the relevant surveillance agency; and
+  (c) must reserve, for each reserved interface referred to in paragraph (b), sufficient bandwidth to deliver intercepted telecommunications content and traffic data to the relevant surveillance agency; and
   (d) when presented with an interception warrant or any other lawful interception authority must, free of charge,—
     (i) provide a suitable access point in its public telecommunications network or service for interception equipment:
     (ii) co-operate with authorised persons and allow them access to its premises:
@@ -355,8 +357,8 @@ A network operator that provides an infrastructure-level service must, despite a
   (a) making available any of the person's officers, employees, or agents who are able to provide any reasonable technical assistance that may be necessary for the agency to intercept a telecommunication or otherwise give effect to the warrant or lawful authority; and
   (b) taking all other reasonable steps that are necessary for the purpose of giving effect to the warrant or lawful authority, which may include, but are not limited to, assistance to—
     (i) identify and intercept telecommunications without intercepting telecommunications that are not authorised to be intercepted under the warrant or lawful authority; and
-    (ii) obtain call associated data relating to telecommunications (other than telecommunications that are not authorised to be intercepted under the warrant or lawful authority); and
-    (iii) obtain call associated data and the content of telecommunications (other than telecommunications that are not authorised to be intercepted under the warrant or lawful authority) in a useable format; and
+    (ii) obtain traffic data relating to telecommunications (other than telecommunications that are not authorised to be intercepted under the warrant or lawful authority); and
+    (iii) obtain traffic data and the content of telecommunications (other than telecommunications that are not authorised to be intercepted under the warrant or lawful authority) in a useable format; and
     (iv) carry out the interception of telecommunications unobtrusively, without unduly interfering with any telecommunications, and in a manner that protects the privacy of telecommunications that are not authorised to be intercepted under the warrant or lawful authority; and
     (v) undertake the actions referred to in subparagraphs (i) to (iv) efficiently and effectively and,—
       (A) if it is reasonably achievable, at the time of transmission of the telecommunication; or
@@ -581,7 +583,7 @@ Every person who, under an interception warrant or any other lawful interception
 ### Subpart 6 — Formatting
 
 ### 42 Notice relating to formatting
-(1) The Minister may determine the format in which call associated data and the content of a telecommunication must be able to be obtained under an interception warrant or any other lawful interception authority.
+(1) The Minister may determine the format in which traffic data and the content of a telecommunication must be able to be obtained under an interception warrant or any other lawful interception authority.
 (2) Before making a determination under subsection (1), the Minister must consult the telecommunications industry by—
   (a) publishing, on an Internet site operated by the Ministry, a notice that—
     (i) sets out the effect of the proposed notice (proposal); and
@@ -598,9 +600,10 @@ Every person who, under an interception warrant or any other lawful interception
 (2) If this section applies, the network operator is not under any duty to ensure the interception capability conforms to any changes to, or replacement of, the standard, specification, or requirement so long as the network operator ensures that the interception capability continues to conform to the earlier standard, specification, or requirement.
 
 ### 44 Formatting before commencement of this Act
-A public telecommunications network or a telecommunications service that immediately before the commencement of this Act complied with section 8(1)﻿(c) of the Telecommunications (Interception Capability) Act 2004 by obtaining the call associated data and the content of telecommunications in a format that was able to be used by a surveillance agency—
+(1) A public telecommunications network or a telecommunications service that immediately before the commencement of this Act complied with section 8(1)﻿(c) of the Telecommunications (Interception Capability) Act 2004 by obtaining the call associated data and the content of telecommunications in a format that was able to be used by a surveillance agency—
   (a) is not subject to section 10(5)﻿(a) or 24(7)﻿(a) of this Act; and
   (b) may continue to use the format that it used immediately before the commencement of this Act for the purpose of section 10(1)﻿(c) or 24(3)﻿(b)﻿(iii) of this Act.
+(2) In this section, call associated data has the meaning given in section 3(1), as in force immediately before the commencement of section 49(1) of the Budapest Convention and Related Matters Legislation Amendment Act 2025.
 
 ### Subpart 7 — Provisions that apply when classified security information used in decisions
 
@@ -1295,5 +1298,11 @@ The amendments made to this Act by the 2022 Act apply only in relation to any re
 (1) The amendments made to this Act by the 2022 Act (except for this clause) apply only to section 101 proceedings commenced on or after the commencement date.
 (2) To avoid doubt, subclause (1) applies to section 101 proceedings that commence on or after the commencement date, but that relate to a relevant decision that was made before, on, or after the commencement date.
 (3) Section 101 proceedings commenced before the commencement date, and not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if the amendments made to this Act by the 2022 Act had not been enacted.
+
+### Part 2 — Provision relating to Budapest Convention and Related Matters Legislation Amendment Act 2025
+
+### 4 Duty to assist
+(1) Section 24, as amended by the amendment Act, applies in relation to the execution of a surveillance device warrant issued under the Search and Surveillance Act 2012 only if the warrant is issued after section 55(3)﻿(g) of that Act (as inserted by the amendment Act) commences.
+(2) In this clause, amendment Act means the Budapest Convention and Related Matters Legislation Amendment Act 2025.
 
 ## Schedule 1 — Consequential amendments
