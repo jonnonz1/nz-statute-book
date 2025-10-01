@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2025-01-26_
+_Consolidation as at 2025-10-01_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -1497,7 +1497,7 @@ In this subpart, unless the context otherwise requires,—
         (D) credit card number details:
         (E) IP addresses:
         (F) billing information and records:
-        (G) call associated data (within the meaning of section 3 of the Telecommunications (Interception Capability and Security) Act 2013):
+        (G) traffic data (within the meaning of section 3AB of the Telecommunications (Interception Capability and Security) Act 2013):
         (H) device-related information:
         (I) details of mobile data usage:
         (J) information on linked accounts:
