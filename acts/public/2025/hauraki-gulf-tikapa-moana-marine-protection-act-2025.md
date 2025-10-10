@@ -5,7 +5,7 @@ _Consolidation as at 2025-10-10_
 This Act is the Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the 15th day after Royal assent.
+This Act comes into force on 25 October 2025.
 
 ## Part 1 — Preliminary provisions
 
