@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2025-04-01_
+_Consolidation as at 2025-10-12_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -219,9 +219,7 @@ This Act applies to—
 (4) A referendum may be conducted as a consequence of a direction under this section in conjunction with any other election or poll, or separately.
 (5) A referendum conducted as a consequence of a direction under this section is a poll to which this Act applies.
 (6) This section does not prevent a local authority from directing the conduct of a referendum otherwise than under this section on a matter or proposal referred to in subsection (1), if that referendum is conducted separately from any election or poll.
-(7) The result of a referendum conducted as a consequence of a direction under this section is not binding on a local authority—
-  (a) in the case of any matter or proposal relating to the division of any district or region into 1 or more Māori wards or Māori constituencies; or
-  (b) in any other case, unless the local authority resolves otherwise or an enactment provides otherwise.
+(7) The result of any referendum conducted as a consequence of a direction under this section is not binding on the local authority unless it resolves otherwise or any enactment provides otherwise.
 
 ### 10 Triennial general election
 (1) The next triennial general election of members of every local authority and community board is on 13 October 2001.
@@ -669,16 +667,16 @@ In determining the matters specified in paragraphs (a) to (i) of section 19J(2),
 ### 19Z Territorial authority or regional council may resolve to establish Māori wards or Māori constituencies
 (1) Any territorial authority may resolve that the district be divided into 1 or more Māori wards for electoral purposes.
 (2) Any regional council may resolve that the region be divided into 1 or more Māori constituencies for electoral purposes.
+(2A) The powers in subsections (1) and (2) to resolve to establish Māori wards and Māori constituencies for electoral purposes include the powers to disestablish them.
+(2B) The requirements that apply in relation to establishing Māori wards and Māori constituencies for electoral purposes also apply, with all necessary modifications, to their disestablishment.
 (3) A resolution under this section,—
-  (a) if made after a triennial general election but no later than 23 November of the year that is 2 years before the next triennial general election, takes effect, subject to paragraph (c), for the purposes of the next triennial general election of the territorial authority or regional council; and
+  (a) if made after a triennial general election but no later than 12 September of the year that is 2 years before the next triennial general election, takes effect, subject to paragraph (c), for the purposes of the next triennial general election of the territorial authority or regional council; and
   (b) in any other case, takes effect, subject to paragraph (c), for the purposes of the next but one triennial general election; and
-  (c) in either case, takes effect for 2 triennial general elections of the territorial authority or regional council, and for any associated election, and continues in effect after that until a further resolution under this section takes effect.
-(4) This section—
-  (a) is subject to clauses 2(5) and 4(4) of Schedule 1A; and
-  (b) does not apply in relation to a territorial authority or regional council if another enactment requires,—
-    (i) in the case of a territorial authority, that the district be divided into 1 or more Māori wards; or
-    (ii) in the case of a regional council, that the region be divided into 1 or more Māori constituencies.
-(5) In this section, associated election, in relation to any 2 successive triennial general elections of a territorial authority or regional council, means—
+  (c) in either case, takes effect for 2 triennial general elections of the territorial authority or regional council, and for any associated election, and continues in effect after that until—
+    (i) a further resolution under this section takes effect; or
+    (ii) a poll of electors of the territorial authority or regional council held under section 19ZF takes effect.
+(4) This section is subject to section 19ZE and to clauses 2(5) and 4(4) of Schedule 1A.
+(5) In this section and in sections 19ZB to 19ZG, associated election, in relation to any 2 successive triennial general elections of a territorial authority or regional council, means—
   (a) any election to fill an extraordinary vacancy in the membership of the body concerned that is held—
     (i) between those elections; or
     (ii) after the second of those elections but before the subsequent triennial general election:
@@ -687,22 +685,110 @@ In determining the matters specified in paragraphs (a) to (i) of section 19J(2),
     (ii) after the second of those elections but before the subsequent triennial general election.
 
 ### 19ZA Public notice of right to demand poll
+(1) A territorial authority or regional council that passes a resolution under section 19Z must give public notice, not later than the required date, of the right to demand, under section 19ZB, a poll on the question whether,—
+  (a) in the case of a territorial authority, the district should be divided into 1 or more Māori wards; or
+  (b) in the case of a regional council, the region should be divided into 1 or more Māori constituencies.
+(2) The public notice under subsection (1) must include—
+  (a) notice of the resolution under section 19Z; and
+  (b) a statement that a poll is required to countermand that resolution.
+(3) In subsection (1), required date means,—
+  (a) in the case of a resolution under section 19Z that is made after a triennial general election but not later than 12 September of the year that is 2 years before the next triennial general election, 19 September in that year:
+  (b) in the case of a resolution under section 19Z that is made at some other time, the date that is 7 days after the date of the resolution.
+(4) This section is subject to section 19ZE.
+
+### 19ZA Public notice of right to demand poll
 [Repealed]
+
+### 19ZB Electors may demand poll
+(1) A specified number of electors of a territorial authority or regional council may, at any time, demand that a poll be held on the question whether,—
+  (a) in the case of a territorial authority, the district should be divided into 1 or more Māori wards; or
+  (b) in the case of a regional council, the region should be divided into 1 or more Māori constituencies.
+(2) This section is subject to section 19ZE.
+(3) In this section and section 19ZC,—
+  - **demand** means a demand referred to in subsection (1)
+  - **specified number of electors** , in relation to a territorial authority or regional council, means a number of electors equal to or greater than 5% of the number of electors enrolled as eligible to vote at the previous triennial general election of the territorial authority or regional council.
 
 ### 19ZB Electors may demand poll
 [Repealed]
 
 ### 19ZC Requirements for valid demand
+(1) A demand must be made by notice in writing—
+  (a) signed by a specified number of electors; and
+  (b) delivered to the principal office of the territorial authority or regional council.
+(2) An elector may sign a demand and be treated as one of the specified number of electors only if,—
+  (a) in the case of a territorial authority, the name of the elector appears on the electoral roll of the territorial authority; or
+  (b) in the case of a regional council, the name of the elector appears on the electoral roll of a territorial authority and the elector’s address as shown on that roll is within the region; or
+  (c) in a case where the name of an elector does not appear on a roll in accordance with paragraph (a) or (b),—
+    (i) the name of the elector is included on the most recently published electoral roll for any electoral district under the Electoral Act 1993 or is currently the subject of a direction by the Electoral Commission under section 115 of that Act (which relates to unpublished names); and
+    (ii) the address for which the elector is registered as a parliamentary elector is within the local government area of the territorial authority or regional council; or
+  (d) the address given by the elector who signed the demand is confirmed by the Electoral Commission as the address at which the elector is registered as a parliamentary elector and the address—
+    (i) is, if the demand was given to a territorial authority, within the district of the territorial authority; or
+    (ii) is, if the demand was delivered to a regional council, within the region of the regional council; or
+  (e) the elector has enrolled, or has been nominated, as a ratepayer elector and is qualified to vote as a ratepayer elector in elections of the territorial authority or, as the case may require, the regional council.
+(3) Every elector who signs a demand must state, against the elector’s signature,—
+  (a) the elector’s name; and
+  (b) the address for which the person is qualified as an elector of the territorial authority or regional council.
+(4) If a valid demand is received after 11 December in the year that is 2 years before the next triennial general election, the poll required by the demand—
+  (a) must be held after 28 March in the year before the triennial general election; and
+  (b) has effect in accordance with section 19ZG(4) (which provides that the poll has effect for the purposes of the next but one triennial general election and the subsequent triennial general election).
+(5) The chief executive of the territorial authority or regional council must, as soon as practicable, give notice to the electoral officer of every valid demand for a poll made in accordance with section 19ZB and this section.
+(6) This section is subject to section 19ZE.
+
+### 19ZC Requirements for valid demand
 [Repealed]
+
+### 19ZD Territorial authority or regional council may resolve to hold poll
+(1) A territorial authority or regional council may, at any time, resolve that a poll be held on the question whether,—
+  (a) in the case of a territorial authority, the district should be divided into 1 or more Māori wards; or
+  (b) in the case of a regional council, the region should be divided into 1 or more Māori constituencies.
+(2) A resolution under subsection (1) may, but need not, specify the date on which the poll is to be held.
+(3) The date specified for the holding of a poll must not be a date that would require deferral of the poll under section 138A.
+(4) The chief executive of the territorial authority or regional council must give notice to the electoral officer of a resolution under subsection (1),—
+  (a) if no date for the holding of the poll is specified in the resolution, as soon as is practicable:
+  (b) if a date for the holding of the poll is specified in the resolution, at an appropriate time that will enable the poll to be conducted in accordance with section 19ZF(3).
+(5) This section is subject to section 19ZE.
 
 ### 19ZD Territorial authority or regional council may resolve to hold poll
 [Repealed]
 
 ### 19ZE Limitation on division into Māori wards or Māori constituencies
+Sections 19Z to 19ZD do not apply, in relation to a territorial authority or regional council, if—
+  (a) a poll on the question described in section 19ZB or section 19ZD held under section 19ZF took effect at the previous triennial general election of the territorial authority or regional council or takes effect at the next triennial general election of the territorial authority or regional council; or
+  (b) another enactment requires that the district be divided into 1 or more Māori wards or the region be divided into 1 or more Māori constituencies.
+
+### 19ZE Limitation on division into Māori wards or Māori constituencies
 [Repealed]
 
 ### 19ZF Poll of electors
+(1) If the electoral officer for a territorial authority or regional council receives notice under section 19ZC(5) or section 19ZD(4), the electoral officer must, as soon as practicable after receiving that notice, give public notice of the poll under section 52.
+(2) Despite subsection (1), if an electoral officer for a territorial authority or regional council receives 1 or more notices under both section 19ZC(5) and section 19ZD(4), or more than 1 notice under either section, in any period between 2 triennial general elections, the polls required to be taken under each notice may, to the extent that those polls would, if combined, take effect at the same general election, and if it is practicable to combine those polls, be combined.
+(3) A poll held under this section must be held not later than 103 days after the date on which—
+  (a) the notice referred to in subsection (1) is received; or
+  (b) the last notice referred to in subsection (2) is received.
+(4) Subsection (3) is subject to subsection (2), section 19ZC(4), and section 138A.
+(5) Every poll under this section that is held in conjunction with a triennial general election, or held after that date but not later than 28 March in the year immediately before the year in which the next triennial general election is to be held, determines whether, for the next 2 triennial general elections for the territorial authority or regional council and any associated election,—
+  (a) the district of the territorial authority is to be divided into 1 or more Māori wards; or
+  (b) the region of the regional council is to be divided into 1 or more Māori constituencies.
+(6) Every poll under this section that is held at some other time determines whether, for the next but one triennial general election and the following triennial general election for the territorial authority or regional council and any associated election,—
+  (a) the district of the territorial authority is to be divided into 1 or more Māori wards; or
+  (b) the region of the regional council is to be divided into 1 or more Māori constituencies.
+(7) Subsections (5) and (6) are subject to clauses 2(5) and 4(4) of Schedule 1A.
+
+### 19ZF Poll of electors
 [Repealed]
+
+### 19ZG Effect of poll
+(1) Subsection (2) applies to a poll held in conjunction with a triennial general election or held after that election but not later than 28 March in the year immediately before the year in which the next triennial general election is to be held.
+(2) If the result of a poll to which this subsection applies requires the division of the district of a territorial authority into 1 or more Māori wards, or the division of the region of a regional council into 1 or more Māori constituencies, that district or region must be divided into those wards or constituencies, as the case requires,—
+  (a) in the case of a territorial authority, for the next 2 triennial general elections of the territorial authority, and any associated election; and
+  (b) in the case of a regional council, for the next 2 triennial general elections of the regional council, and any associated election; and
+  (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 258I or 258M of the Local Government Act 2002, until a further resolution under section 19Z takes effect or a further poll held under section 19ZF takes effect, whichever occurs first.
+(3) Subsection (4) applies to a poll held at some other time.
+(4) If the result of a poll to which this subsection applies requires the division of the district of a territorial authority into 1 or more Māori wards, or the division of the region of a regional council into 1 or more Māori constituencies, that district or region must be divided into those wards or constituencies, as the case requires,—
+  (a) in the case of a territorial authority, for the next but one triennial general election and the following triennial general election of the territorial authority, and any associated election; and
+  (b) in the case of a regional council, for the next but one triennial general election and the following triennial general election of the regional council, and any associated election; and
+  (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 258I or 258M of the Local Government Act 2002, until a further resolution under section 19Z takes effect or a further poll held under section 19ZF takes effect, whichever occurs first.
+(5) This section is subject to clauses 2(5) and 4(4) of Schedule 1A.
 
 ### 19ZG Effect of poll
 [Repealed]
@@ -2230,10 +2316,10 @@ In any proceedings for an offence in relation to any voting documents or other o
 ## Part 8 — Miscellaneous provisions
 
 ### 138A Special provision in relation to certain elections to fill extraordinary vacancies and certain polls
-(1) Despite section 33(3) and section 120(1),—
-  (a) if an electoral officer receives a notice under section 30(4), section 31(3), or section 120(1)﻿(a) in the period that begins on 14 September in any year and ends with the close of 20 November in that year, the polling day for the poll under section 33, or for the election under section 120(1), must be a day not earlier than 3 March in the following year; and
-  (b) if an electoral officer receives a notice under section 30(4), section 31(3), or section 120(1)﻿(a) in the period that begins on 21 November in any year and ends with the close of 15 December in that year, the polling day for the poll under section 33, or for the election under section 120(1), must be a day not earlier than 28 March in the following year; and
-  (c) if an electoral officer receives a notice under section 30(4), section 31(3), or section 120(1)﻿(a) in the period that begins on 16 December in any year and ends with the close of 12 January in the following year, the polling day for the poll under section 33, or for the election under section 120(1), must be a day not earlier than 24 April in that following year.
+(1) Despite section 19ZF(3), section 33(3), and section 120(1),—
+  (a) if an electoral officer receives a notice under section 19ZC(5), section 19ZD(4), section 30(4), section 31(3), or section 120(1)﻿(a) in the period that begins on 14 September in any year and ends with the close of 20 November in that year, the polling day for the poll under section 19ZF or section 33, or for the election under section 120(1), must be a day not earlier than 3 March in the following year; and
+  (b) if an electoral officer receives a notice under section 19ZC(5), section 19ZD(4), section 30(4), section 31(3), or section 120(1)﻿(a) in the period that begins on 21 November in any year and ends with the close of 15 December in that year, the polling day for the poll under section 19ZF or section 33, or for the election under section 120(1), must be a day not earlier than 28 March in the following year; and
+  (c) if an electoral officer receives a notice under section 19ZC(5), section 19ZD(4), section 30(4), section 31(3), or section 120(1)﻿(a) in the period that begins on 16 December in any year and ends with the close of 12 January in the following year, the polling day for the poll under section 19ZF or section 33, or for the election under section 120(1), must be a day not earlier than 24 April in that following year.
 (2) In any case to which paragraph (a) or paragraph (b) or paragraph (c) of subsection (1) applies, the requirements of this Act apply as if the notice referred to in the paragraph had been received by the electoral officer on the last day of the period specified in that paragraph.
 
 ### 139 Regulations
