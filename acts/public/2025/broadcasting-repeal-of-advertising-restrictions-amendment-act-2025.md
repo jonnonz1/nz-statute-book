@@ -5,7 +5,7 @@ _Consolidation as at 2025-10-16_
 This Act is the Broadcasting (Repeal of Advertising Restrictions) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 17 October 2025.
 
 ### 3 Principal Act
 This Act amends the Broadcasting Act 1989.
