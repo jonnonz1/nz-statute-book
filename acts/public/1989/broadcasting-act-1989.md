@@ -1,5 +1,5 @@
 # Broadcasting Act 1989
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2025-10-17_
 
 > An Act—ato provide for the maintenance of programme standards in broadcasting in New Zealand; andbto establish the Broadcasting Standards Authority and to define its functions and powers; andcto establish the Broadcasting Commission and to define its functions and powers; anddto enable political parties to broadcast election programmes for Parliamentary elections free of charge; andefto repeal the Broadcasting Act 1976; andgto provide for matters incidental thereto
 
@@ -949,25 +949,7 @@ If the Electoral Commission believes that any person has committed an offence ag
 ## Part 7 — Miscellaneous provisions
 
 ### 81 Advertising hours
-(1) Subject to subsection (4), no broadcaster shall broadcast advertising programmes on television—
-  (a) during the hours between 6 am and noon on—
-    (i) Sunday; or
-    (ii) Anzac Day; or
-  (b) on—
-    (i) Christmas Day; or
-    (ii) Good Friday; or
-    (iii) Easter Sunday.
-(2) Subject to subsection (4), no broadcaster shall broadcast advertising programmes on sound radio on—
-  (a) Christmas Day; or
-  (b) Good Friday; or
-  (c) Easter Sunday.
-(3) Every person commits an offence and is liable on conviction to a fine not exceeding $100,000 who contravenes subsection (1) or subsection (2).
-(4) Nothing in this section prevents the inclusion in any programme broadcast on television or sound radio of a credit in respect of a sponsorship or underwriting arrangement entered into in relation to that programme.
-(5) Nothing in this section applies to any programme broadcast on television, where the signal for that programme—
-  (a) originates outside New Zealand; and
-  (b) is produced and transmitted simultaneously to both New Zealand audiences and audiences outside New Zealand; and
-  (c) is targeted primarily at audiences outside New Zealand.
-(6) Nothing in this section prevents the broadcasting of advertising programmes on any broadcasting service that is primarily directed at persons temporarily resident in holiday accommodation.
+[Repealed]
 
 ### 82 Regulations
 [Repealed]
