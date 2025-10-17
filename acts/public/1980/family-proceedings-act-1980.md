@@ -1,5 +1,5 @@
 # Family Proceedings Act 1980
-_Consolidation as at 2023-10-06_
+_Consolidation as at 2025-10-17_
 
 > An Act to revise the law relating to matrimonial and domestic proceedings
 
@@ -81,6 +81,9 @@ In this Act, unless the context otherwise requires,—
     (a) a social worker employed as such in the department for the time being responsible for the administration of the Oranga Tamariki Act 1989; or
     (b) a community officer appointed under section 4 of the Maori Community Development Act 1962; or
     (c) an honorary community officer appointed under section 5 of the Maori Community Development Act 1962.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 3 Act to bind the Crown
 Subject to sections 117 and 120, this Act shall bind the Crown.
@@ -245,16 +248,16 @@ The rules of law relating to an application for an order dissolving a marriage o
 
 **Dissolution of marriage or civil union**
 
-### 37 Application for dissolution of marriage or civil union
-(1) An application for an order dissolving a marriage or civil union may be made—
+### 37 Application for dissolution of marriage or civil union: irreconcilable breakdown
+(1) An application for an order dissolving a marriage or civil union may be made on the ground set out in section 39(1)—
   (a) by either party to the marriage or civil union; or
   (b) jointly by both parties to the marriage or civil union.
 (2) An application under subsection (1) may be made only where, at the time of the filing of the application, at least one party to the marriage or civil union is domiciled in New Zealand.
 (3) For the purposes of sections 38(2), 42, and 174(3), proceedings for an order dissolving a marriage or civil union that are commenced by a joint application shall be treated as undefended proceedings.
 
-### 38 Power to make order for dissolution
-(1) Subject to subsection (2), every application for an order dissolving a marriage or civil union shall be heard and determined by the Family Court.
-(2) A Registrar may make an order dissolving a marriage or civil union where—
+### 38 Power to make order for dissolution: irreconcilable breakdown
+(1) Subject to subsection (2), every application for an order dissolving a marriage or civil union made on the ground set out in section 39(1) must be heard and determined by the Family Court.
+(2) A Registrar may make an order dissolving a marriage or civil union on the ground set out in section 39(1) if—
   (a) the proceedings are undefended; and
   (b) in the case of a joint application, both applicants consent to the order being made in their absence; and
   (c) in the case of an application other than a joint application, the applicant consents to the order being made in his or her absence and the respondent has not requested an appearance; and
@@ -263,11 +266,43 @@ The rules of law relating to an application for an order dissolving a marriage o
     (ii) that the provisions of section 45(1A) have been complied with.
 (3) If there is a change of circumstances between the time of the filing of the application for the order and the date on which an order made under subsection (2) takes effect as a final order, either party may seek a hearing at any time before the order takes effect as a final order notwithstanding that the person consented to the order being made in his or her absence or did not request an appearance.
 
-### 39 Grounds for dissolution
-(1) An application for an order dissolving a marriage or civil union may be made only on the ground that the marriage or civil union has broken down irreconcilably.
+### 39 Ground for dissolution: irreconcilable breakdown
+(1) An application for an order dissolving a marriage or civil union may be made on the ground that the marriage or civil union has broken down irreconcilably.
 (2) The ground for the order is established in law if, and only if, the court is satisfied that the parties to the marriage or civil union are living apart, and have been living apart for the period of 2 years immediately preceding the filing of the application for an order dissolving the marriage or civil union; and no proof of any other matter shall be required to establish the ground.
 (3) A separation order or a separation agreement (whether made by deed or other writing or orally) in full force for the period of 2 years immediately preceding the filing of an application for an order dissolving a marriage or civil union may be adduced as evidence of living apart for the required period.
 (4) Where the ground for the making of the order is established under subsection (2), the court shall, subject to section 45, make an order dissolving the marriage or civil union.
+
+### 39A Additional ground for dissolution: protected person under protection order
+Application for dissolution
+(1) A party to a marriage or civil union (the applicant) may apply for an order dissolving the marriage or civil union on the ground that the applicant is a protected person under a protection order made against the applicant’s spouse or civil union partner.
+(2) The parties to a marriage or civil union may apply jointly for an order dissolving the marriage or civil union on the ground in subsection (1) if each party is a protected person under a protection order that is made against the other party.
+(3) An application under subsection (1) or (2) may be made only if, at the time of the filing of the application, at least 1 party to the marriage or civil union is domiciled in New Zealand.
+(4) The parties to the marriage or civil union need not—
+  (a) be living apart at the time an application is made under subsection (1) or (2) (the application); or
+  (b) have been living apart for the period of 2 years immediately before the filing of the application.
+Evidence
+(5) The following is sufficient evidence that the applicant is a protected person:
+  (a) a copy of the protection order; and
+  (b) if the protection order is a registered foreign protection order, evidence of its registration under section 219 of the Family Violence Act 2018.
+Order for dissolution
+(6) A Registrar, or the Family Court, must make an order dissolving the marriage or civil union if satisfied that—
+  (a) the ground in subsection (1) is established; and
+  (b) any appeal rights in respect of the protection order have been exhausted or have expired; and
+  (c) the matters in section 45 have been addressed.
+(7) A Registrar may only make an order under subsection (6) if the proceedings are undefended.
+(8) An order made under subsection (6) continues in force even if the protection order relied upon to establish the ground in subsection (1)—
+  (a) is discharged under section 109 of the Family Violence Act 2018:
+  (b) is a registered foreign protection order that—
+    (i) has its registration cancelled under section 223 of the Family Violence Act 2018:
+    (ii) ceases to be enforceable in the country in which it was made.
+(9) In this section,—
+  - **protection order** means—
+  (a) a final protection order made under the Family Violence Act 2018; or
+  (b) a protection order—
+    (i) made under section 123B of the Sentencing Act 2002; and
+    (ii) that becomes a final order under section 123G of the Sentencing Act 2002; or
+  (c) a registered foreign protection order
+  - **protected person** and have the meanings given in section 8 of the Family Violence Act 2018.
 
 ### 40 Effect of resumption of cohabitation
 For the purposes of sections 24 and 39, the parties to a marriage or civil union shall not be held to have ceased to live apart or to have resumed cohabitation by reason of having resumed cohabitation on 1 or more occasions for a period or periods not exceeding in the aggregate 3 months (whether or not there have been acts of sexual connection between the parties) where the court is satisfied that reconciliation was the sole or principal motive for the resumption of cohabitation.
@@ -1411,11 +1446,11 @@ Neither the dismissal of an application under this Act by the District Court or 
 (6) On an appeal to the Court of Appeal under this section, the Court of Appeal shall have the same power to adjudicate on the proceedings as the High Court had.
 (7)
 (8)
-(9) Except in the case of an order made under section 34 or section 39(4) or where the court making the order appealed from otherwise directs, the operation of an order made under this Act shall not be suspended by an appeal under this section, and every order made under this Act may be enforced in the same manner in all respects as if no appeal under this section were pending.
+(9) Except in the case of an order made under section 34, 39(4), or 39A(6) or where the court making the order appealed from otherwise directs, the operation of an order made under this Act shall not be suspended by an appeal under this section, and every order made under this Act may be enforced in the same manner in all respects as if no appeal under this section were pending.
 
 ### 175 Appeals from decisions of High Court
 (1) Subject to subsections (2) to (5), a party to any proceedings under this Act before the High Court (other than proceedings on an appeal under section 174) may appeal to the Court of Appeal, against any order or decision of the court or of a Judge of the court, within 28 days after the making of the order or decision.
-(2) Where an order dissolving a marriage or civil union is made in the High Court under section 34 or section 39(4) in any proceedings that have been transferred to that court under section 14 of the Family Court Act 1980, section 42 of this Act shall apply in respect of that order and shall have effect as if, for the words “High Court”, there were substituted the words “Court of Appeal”.
+(2) Where an order dissolving a marriage or civil union is made in the High Court under section 34, 39(4), or 39A(6) in any proceedings that have been transferred to that court under section 14 of the Family Court Act 1980, section 42 of this Act shall apply in respect of that order and shall have effect as if, for the words “High Court”, there were substituted the words “Court of Appeal”.
 (3) Notwithstanding subsection (1), where an order dissolving a marriage or civil union is made by the High Court in undefended proceedings, no appeal shall lie to the Court of Appeal against the order.
 (4) The Court of Appeal shall not extend the time for appeal against an order dissolving a marriage or civil union.
 (5) Subject to subsection (4), the Court of Appeal may extend the time for appeal on such terms and subject to such conditions as it thinks fit.
@@ -1572,6 +1607,18 @@ If any counselling or mediation has been arranged under Part 2 before the date o
   (c) section 162C:
   (d) section 162D.
 (3) Section 162, as in force immediately before the date of commencement of the Family Proceedings Amendment Act (No 2) 2013, continues to apply to a pending proceeding with any necessary modifications as if the Family Proceedings Amendment Act (No 2) 2013 had not come into force.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Family Proceedings (Dissolution of Marriage or Civil Union for Family Violence) Amendment Act 2024
+
+### 1 Interpretation
+In this Part,—
+  - **amendment Act** means the Family Proceedings (Dissolution of Marriage or Civil Union for Family Violence) Amendment Act 2024
+  - **commencement** means the date on which the amendment Act comes into force.
+
+### 2 Persons with protection orders before commencement
+A person who is a protected person under a protection order that is in force immediately before commencement is a protected person for the purposes of section 39A(1).
 
 ## Schedule 1 — Enactments amended
 
