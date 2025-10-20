@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2025-08-27_
+_Consolidation as at 2025-10-20_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -1498,6 +1498,7 @@ Any party to a joint management agreement may terminate that agreement by giving
   (a) extend a time period specified in this Act or in regulations, whether or not the time period has expired; or
   (b) waive a failure to comply with a requirement under this Act, regulations, or a plan for the time or method of service of documents.
 (1A) However, a consent authority must not, under subsection (1), waive or extend a time period for the purpose of providing more time for a pre-request aquaculture agreement to be negotiated under section 186ZM of the Fisheries Act 1996.
+(1B) A consent authority must not extend, under subsection (1)﻿(a), the time period for processing and deciding an application for a resource consent for a wood processing activity or specified energy activity (see section 88BA).
 (2) If a person is required to provide information under this Act, regulations, or a plan and the information is inaccurate or omitted, or a procedural requirement is omitted, the consent authority or local authority may—
   (a) waive compliance with the requirement; or
   (b) direct that the omission or inaccuracy be rectified on such terms as the consent authority or local authority thinks fit.
@@ -4092,6 +4093,8 @@ The consent authority that would have determined the application had the Environ
   (a) be made in the prescribed form and manner; and
   (b) include the information relating to the activity, including an assessment of the activity’s effects on the environment, that is required by Schedule 4.
   (c)
+(2AA) An applicant must ensure that information required by subsection (2)﻿(b) is provided at a level of detail that is proportionate to the scale and significance of the effects that the activity may have on the environment.
+(2AB) A consent authority may accept an application that does not fully comply with subsection (2)﻿(b) if the authority is satisfied that the information provided by the applicant is proportionate to the scale and significance of the effects that the activity may have on the environment.
 (2A) An application for a coastal permit to undertake an aquaculture activity must include a copy for the Ministry of Fisheries.
 (3) A consent authority may, within 10 working days after an application was first lodged, determine that the application is incomplete if the application does not—
   (a) include the information prescribed by regulations; or
@@ -4123,6 +4126,30 @@ The consent authority that would have determined the application had the Environ
 (2) The first column of the table lists the provisions specifying time limits from which certain time periods must be excluded.
 (3) The second column lists the provisions describing time periods that must be excluded from the corresponding time limits.The following table is small in size and has 2 columns. Column 1 is headed Provisions specifying time limits. Column 2 is headed Provisions describing time periods to be excluded.Provisions specifying time limitsProvisions describing time periods to be excludedSection 95 (which relates to the time limit for notification)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 88GSection 88HSection 87F(3) (which relates to the time limit for a consent authority report on an application to be directly referred to the Environment Court)Section 88C(4) or (6)Section 88E(2), (6), or (8)Section 88F(2)Section 101(2) (which relates to the time limit for commencement of a hearing of a non-notified application)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 88GSection 103A (which relates to the time limit for completion of a hearing of a notified application)Section 88C(4) or (6)Section 88D(2), (4), or (6)Section 88E(2), (6), or (8)Section 88F(2)Section 115(3) (which relates to the time limit for notification of the decision on a non-notified application for which no hearing is held)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 88GSection 115(4) (which relates to the time limit for notification of the decision on a notified application for which no hearing is held)Section 88C(4) or (6)Section 88D(2), (4), or (6)Section 88E(2), (6), or (8)Section 88F(2)
 (4) See also section 103(4) and (5) of the Urban Development Act 2020.
+
+### 88BA Certain consents must be processed and decided no later than 1 year after lodgement
+(1) The time period within which a consent authority must process and decide an application for a resource consent for a specified energy activity or wood processing activity (the time period) is 1 year after the date the application is lodged.
+(2) An extension of the time period for a further period not exceeding 1 year—
+  (a) must be granted by the consent authority if—
+    (i) the extension is requested by the applicant; or
+    (ii) the application is for the establishment of a hydro-electricity activity or geothermal activity and the extension is requested under subsection (4); and
+  (b) may be granted by the consent authority no more than once in relation to any other activity if the extension is requested under subsection (4).
+(3) When deciding a request for an extension to which subsection (2)﻿(b) applies, the consent authority must—
+  (a) consider all requests of that kind received before the expiry of the time period; and
+  (b) if the time period has been extended under subsection (2)﻿(a), consider all requests for extension from the applicant received before the expiry of the extended time period.
+(4) The following groups may request an extension of the time period for the purpose of recognising or providing for a Treaty settlement or other arrangement:
+  (a) iwi authorities:
+  (b) post-settlement governance entities:
+  (c) ngā hapū o Ngāti Porou as defined in section 10 of the Ngā Rohe Moana o Ngā Hāpu o Ngāti Porou Act 2019:
+  (d) iwi or hapū who are party to a Mana Whakahono a Rohe or joint management agreement that applies in the region:
+  (e) customary marine title groups (within the meaning of the Marine and Coastal Area (Takutai Moana) Act 2011):
+  (f) protected customary rights groups (within the meaning of the Marine and Coastal Area (Takutai Moana) Act 2011):
+  (g) applicant groups (within the meaning of the Marine and Coastal Area (Takutai Moana) Act 2011).
+(5) A request for extension must be made to the consent authority before the expiry of the time period or extended time period and may be made more than once.
+(6) If the time period is extended, the total time within which a consenting authority must process and decide an application under this section must not exceed 2 years after the date the application is lodged.
+(7) The processing and deciding of an application must be paused by the consent authority at the applicant’s request.
+(8) The time during which processing and deciding of an application is paused under subsection (7) does not count towards the time period or extended time period.
+(9) This section applies despite sections 88B, 88C, and 88E to 88I.
 
 ### 88C Excluded time periods relating to provision of further information
 Request for further information
@@ -4352,6 +4379,9 @@ The period described in section 103(4) of the Urban Development Act 2020 is excl
   (b) the applicant is notified before the authority commissions the report; and
   (c) the applicant does not refuse, under section 92B(1), to agree to the commissioning of the report.
 (2A) However, a consent authority must not request further information nor commission a report on clause 1.3(5) or 2.1 of the NPSFM 2020 (which relates to the hierarchy of obligations in the NPSFM 2020).
+(2B) Before requesting further information, a consent authority must consider whether—
+  (a) it needs the information for the purpose of section 104; and
+  (b) any information that it seeks is proportionate to the scale and significance of the effects that the activity may have on the environment.
 (3) The consent authority must notify the applicant, in writing, of its reasons for—
   (a) requesting further information under subsection (1); or
   (b) wanting to commission a report under subsection (2).
@@ -4370,13 +4400,28 @@ The period described in section 103(4) of the Urban Development Act 2020 is excl
 (2) A consent authority that receives a written notice under subsection (1)﻿(b) must—
   (a) set a reasonable time within which the applicant must provide the information; and
   (b) tell the applicant in a written notice the date by which the applicant must provide the information.
-(3) The consent authority must consider the application under section 104 even if the applicant—
+(3) The consent authority may consider the application under section 104 even if the applicant—
   (a) does not respond to the request; or
   (b) agrees to provide the information under subsection (1)﻿(b) but does not do so; or
   (c) refuses to provide the information under subsection (1)﻿(c).
 (4)
 (5)
 (6)
+
+### 92AA Consequences of applicant’s failure to respond to requests, etc
+(1) A consent authority may determine an application for a resource consent is incomplete if—
+  (a) the applicant was required to provide one of the following responses:
+    (i) to provide further information in response to a request under section 92(1)—
+      (A) within 15 working days under section 92A(1)﻿(a); or
+      (B) within the time set by the consent authority under section 92A(2); or
+    (ii) to tell the consent authority in a written notice whether the applicant agrees to the commissioning of a report within 15 working days under section 92B(1) (after receiving notification under section 92(2)﻿(b)); or
+    (iii) to pay an additional charge to the consent authority required under section 36(5) and specified in a written notice by an agreed date; or
+    (iv) to give the consent authority written approval for a proposed activity under section 95E(3)﻿(a) by an agreed date; and
+  (b) 3 months after the expiry of the applicable time frame specified in paragraph (a), the applicant has not provided the required response; and
+  (c) the consent authority has notified the applicant, by a method specified in section 352(1), of its intention to return the application.
+(2) After determining an application as incomplete under this section, the consent authority may return the application to the applicant with written reasons for the determination.
+(3) If, after an application has been returned as incomplete under this section, that application is lodged again with the consent authority, that application is to be treated as a new application.
+(4) In this section, agreed date means a date agreed between the applicant and the consent authority.
 
 ### 92B Responses to notification
 (1) An applicant who receives a notification under section 92(2)﻿(b) must, within 15 working days of the date of the notification, tell the consent authority in a written notice whether the applicant agrees to the commissioning of the report.
@@ -4889,6 +4934,26 @@ When considering an application for a resource consent, the consent authority mu
   (b) if information or a report is obtained in relation to the application under section 41C, 42A, 92, or 149, forward that information or report as soon as is reasonably practicable to the chief executive:
   (c) if the application is notified, as soon as is reasonably practicable after the closing date for submissions, send to the chief executive a copy of the submissions received.
 (4) For the purposes of subsection (3)﻿(c), in the case of a concurrent application made under subpart 4 of Part 7A that is lodged with the EPA, the copy of submissions required to be sent by the EPA to the chief executive is a copy of only those submissions that relate to the concurrent application and not those that relate to its plan change request.
+
+### 107G Review of draft conditions of consent
+(1) An applicant for a resource consent—
+  (a) may request the consent authority to provide them with any draft conditions of the resource consent; and
+  (b) must make the request before whichever of the following the consent authority does first:
+    (i) the authority issues its decision on the application; or
+    (ii) the authority provides a report under section 42A in accordance with section 42A(3); but
+  (c) may make the request only once.
+(2) If a request is made, a consent authority—
+  (a) must provide the draft conditions to the applicant and, if the application was notified, to submitters; and
+  (b) may suspend the time frame that applies to the processing of the application to allow the applicant and any submitters to consider the draft conditions.
+(3) Subsection (2)﻿(b)—
+  (a) does not prevent a consent authority from continuing to process the application while the time frame is suspended; and
+  (b) may be applied only once during an application process.
+(4) An applicant and any submitters must provide their comments on the draft conditions to the consent authority within a reasonable time specified by the consent authority.
+(5) A consent authority may take those comments into account only to the extent they cover technical or minor matters.
+(6) A consent authority may provide draft conditions to the persons specified in subsection (2)﻿(a)—
+  (a) more than once; and
+  (b) whether or not the applicant requests the draft conditions under subsection (1); and
+  (c) whether or not the time frame that applies to the processing of the application is suspended under subsection (2)﻿(b).
 
 ### 108 Conditions of resource consents
 (1) Except as expressly provided in this section and subject to section 108AA and any wastewater environmental performance standards, any stormwater environmental performance standards, any infrastructure design solutions, and any regulations, a resource consent may be granted on any condition that the consent authority considers appropriate, including any condition of a kind referred to in subsection (2).
@@ -12167,7 +12232,7 @@ Parts 20 and 21 of the Local Government Act 1974 shall continue to apply to any 
 (6) Notwithstanding section 12 where, immediately before the date of commencement of this Act,—such activity may be continued or commenced at any time after the date of commencement of this Act and continued until—whichever occurs last.
   (a) there is in force—
     (i) any licence, permit, Order in Council, or approval which is deemed by section 384(1) to be a coastal permit; or
-    (ii) any lease described in section 425(1) ; and
+    (ii) any lease described in section 425(1); and
   (b) any activity was or was proposed to be carried out by or on behalf of the holder of that coastal permit, lease, or licence and such activity could have been lawfully commenced and continued in the coastal marine area under section 90 or section 102A(1) or section 108 of the Town and Country Planning Act 1977—
   (c) the expiry of the coastal permit, lease, or licence; or
   (d) where section 124 applies, the determination of any application made for a new coastal permit to replace any such coastal permit, lease, or licence and the determination of any appeals in respect of that application; or
@@ -14310,7 +14375,8 @@ If Auckland Council withdraws all or part of Plan Change 78 in accordance with c
 ## Schedule 4 — Information required in application for resource consent
 
 ### 1 Information must be specified in sufficient detail
-Any information required by this schedule, including an assessment under clause 2(1)﻿(f) or (g), must be specified in sufficient detail to satisfy the purpose for which it is required.
+(1) Any information required by this schedule, including an assessment under clause 2(1)﻿(f) or (g), must be specified in sufficient detail to satisfy the purpose for which it is required.
+(2) However, the requirements in this schedule are subject to section 88(2), (2AA), and (2AB).
 
 ### 1AA
 [Repealed]
