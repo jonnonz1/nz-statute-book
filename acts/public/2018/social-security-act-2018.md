@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-10-20_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -1149,7 +1149,7 @@ MSD must not require a person who receives a supported living payment on the gro
 (3) A person who has been assessed under subsection (1) may be required by MSD to undergo a reassessment under that subsection as MSD thinks appropriate.
 
 ### 119 Person who fails to comply with requirement to undergo work ability assessment is subject to sanction
-A person (P) is subject to a sanction under section 236, 236A, 236B, 237, or 238 if MSD is satisfied that P has, without a good and sufficient reason, failed to comply with a requirement under section 118 to attend and participate in a work ability assessment or reassessment.
+A person (P) is subject to a sanction under section 236, 236A, 236B, 236E, 236H, 237, or 238 if MSD is satisfied that P has, without a good and sufficient reason, failed to comply with a requirement under section 118 to attend and participate in a work ability assessment or reassessment.
 
 **Specific obligations: work preparation**
 
@@ -1203,7 +1203,7 @@ A person to whom this section applies must, as required by MSD from time to time
     (vi) any other activity (including rehabilitation) other than medical treatment, recognised voluntary work, or activity in the community.
 
 ### 126 Person who fails to comply with work-preparation obligation subject to sanction
-A person (P) is subject to a sanction under section 236, 236A, 237, or 238 if MSD is satisfied that P has, without a good and sufficient reason, failed to comply with a work-preparation obligation.
+A person (P) is subject to a sanction under section 236, 236A, 236H, 237, or 238 if MSD is satisfied that P has, without a good and sufficient reason, failed to comply with a work-preparation obligation.
 
 **Specific obligations: social obligations in relation to dependent children**
 
@@ -1263,7 +1263,7 @@ A person to whom this section applies must, as required by MSD,—
   (b) report to MSD or a person on behalf of MSD on the person’s compliance with the obligations in relation to dependent children set out in sections 131 to 134, and must do so as often as, and in the manner that, MSD reasonably requires.
 
 ### 136 Person who fails to comply with obligations in relation to dependent children is subject to sanction
-(1) A person (P) is subject to a sanction under section 236, 236A, 236B, 237, or 238 if MSD is satisfied that P has, without a good and sufficient reason, failed to comply with an obligation in relation to dependent children under sections 131 to 135.
+(1) A person (P) is subject to a sanction under section 236, 236A, 236B, 236E, 236H, 237, or 238 if MSD is satisfied that P has, without a good and sufficient reason, failed to comply with an obligation in relation to dependent children under sections 131 to 135.
 (2) However, P is not subject to a sanction under section 233(c) if imposition of a sanction is precluded by section 243AAA, 243, or 255.
 
 ### 137 Definitions and attendance: regulations made under section 430
@@ -1718,7 +1718,12 @@ In sections 177 to 179, rate, in relation to an overseas pension, means the rate
 
 ### 181 Application of health and safety legislation, etc
 (1) This section applies if a person (P)—
-  (a) is doing work as part of a job search activity in accordance with P’s work-test obligations or under section 261 or 324; or
+  (a) is doing work as part of a job-search activity—
+    (i) in accordance with P’s work-test obligations; or
+    (ii) under section 236E (sanction for first failure: report job search: general); or
+    (iii) under section 261 (how person recomplies after failure to comply with obligation); or
+    (iv) under section 261C (how person recomplies after failure that resulted in imposition of report job search); or
+    (v) under section 324 (effect of participation in certain activities on non-entitlement period); or
   (b) is a beneficiary and is doing work as part of—
     (i) an employment-related activity arranged by MSD; or
     (ii) an activity in the community arranged by MSD.
@@ -2226,7 +2231,7 @@ For the purposes of this section and sections 225 to 228,—
 (1) This section applies while a person is subject to—
   (a) a non-entitlement period; or
   (b) a stand down under section 316 (start and calculation of stand-down period); or
-  (ba) a reduction of the rate of a main benefit to zero under section 236, 236A, or 236C; or
+  (ba) a reduction of the rate of a main benefit to zero under section 236, 236A, 236C, 236F, or 236I; or
   (c) a sanction of suspension of 100% of a benefit under section 237, 270, or 280.
 (2) The person is not entitled to receive—
   (a) an emergency benefit; or
@@ -2251,7 +2256,7 @@ This Part sets out—
 ### 232 Sanctions for failure to comply with certain obligations under this Act
 (1) MSD must under this section impose a sanction if MSD considers that a person has failed without good and sufficient reason to comply with 1 or more obligations under this Act that are specified in section 233.
 (2) The sanction is 1 of the following (in accordance with section 234):
-  (a) reduction of the rate of a main benefit or imposition of a non-financial sanction in accordance with sections 236, 236A, and 236B:
+  (a) reduction of the rate of a main benefit or imposition of a non-financial sanction in accordance with sections 236, 236A, 236B, 236E, and 236H:
   (b) suspension of a main benefit:
   (c) cancellation of a main benefit.
 (3) MSD must not impose under this section a non-financial sanction on a young person to whom section 276(2)﻿(a) or (b) or 278(2)﻿(a) or (b) applies.
@@ -2276,13 +2281,13 @@ The obligations referred to in section 232(1) are the following:
     (ii) that P has not ceased to have (including, without limitation, under section 321 or 322); and
   (c) section 320 does not apply to P.
 (2) On cancellation under this section of P’s main benefit, to be again entitled to a main benefit under this Act, P must apply for the benefit and establish that P is eligible for it.
-(3) This section is subject to sections 236D(3)﻿(d) and 245 to 248.
+(3) This section is subject to sections 236D(3)﻿(d), 236G(3)﻿(d), 236J(3)﻿(d), and 245 to 248.
 
 **Hierarchy of sanctions**
 
 ### 234 Hierarchy of sanctions
 The sanction that MSD must impose under section 232(1) (subject to section 232(3) and (4)) is,—
-  (a) for a first failure, reduction of the rate of a main benefit or imposition of a non-financial sanction in accordance with sections 236, 236A, and 236B:
+  (a) for a first failure, reduction of the rate of a main benefit or imposition of a non-financial sanction in accordance with sections 236, 236A, 236B, 236E, and 236H:
   (b) for a second failure, suspension of a main benefit:
   (c) for a third failure, cancellation of a main benefit.
 
@@ -2305,16 +2310,16 @@ In this subpart,—
 ### 236 Sanction for first failure: reduction of rate of main benefit
 Eligibility
 (1) This section applies to a person (P) if P has a first failure, and either—
-  (a) P does not meet the eligibility requirements in sections 236A(1)﻿(b) and 236B(1)﻿(b) because—
-    (i) P is not subject to active case management by MSD; and
-    (ii) P does not have 1 or more dependent children; or
-  (b) P does meet the eligibility requirements in sections 236A(1)﻿(b) and 236B(1)﻿(b), and MSD does not impose a non-financial sanction for P’s first failure.
+  (a) P is ineligible for a non-financial sanction because P does not meet the eligibility requirements in any of the following provisions:
+    (i) section 236A(1)﻿(b):
+    (ii) section 236B(1)﻿(b) to (e):
+    (iii) section 236E(1)﻿(b) to (e):
+    (iv) section 236H(1)﻿(b) to (d); or
+  (b) P is eligible for a non-financial sanction because P meets the eligibility requirements in all or any of the provisions specified in paragraph (a)﻿(i) to (iv), and MSD does not impose a non-financial sanction for P’s first failure.
 Imposition
 (2) If this section applies to P, MSD must, for the first failure of P, reduce the rate of P’s main benefit by half until P recomplies.
 Effect
-(3) If the rate of P’s main benefit is reduced by half under this section, MSD must not, for the first failure of P, do the following:
-  (a) impose money management; or
-  (b) impose community work experience.
+(3) If the rate of P’s main benefit is reduced by half under this section, MSD must not, for the first failure of P, impose a non-financial sanction.
 (4) If P fails to recomply within 4 weeks after the initial reduction under this section takes effect, MSD must reduce the rate of P’s main benefit to zero until the earlier of the following events:
   (a) P recomplies:
   (b) MSD cancels P’s main benefit under section 233A.
@@ -2459,6 +2464,188 @@ Consequences of replacement sanction
 Relationship with other sections
 (4) This section is subject to sections 243AAA, 243, 245 to 248, and 320 to 322.
 
+### 236E Sanction for first failure: report job search: general
+Eligibility
+(1) This section applies to a person (P) if—
+  (a) P has a first failure; and
+  (b) either—
+    (i) P is subject to active case management by MSD; or
+    (ii) P has 1 or more dependent children; and
+  (c) P’s first failure is not a failure to comply with a drug-testing obligation; and
+  (d) P has—
+    (i) work-test obligations under either or both of sections 144 and 146; and
+    (ii) no currently-in-force deferrals of, or exemptions from, those work-test obligations; and
+  (e) P’s first failure does not involve either or both of the following:
+    (i) more than 1 failure of the same obligation:
+    (ii) a failure of more than 1 obligation; and
+  (f) MSD is satisfied—
+    (i) that it is appropriate in the circumstances to impose report job search on P; and
+    (ii) that it is more appropriate to impose that sanction than any other sanction that can be imposed for P’s first failure.
+Imposition
+(2) If this section applies to P, MSD must, for the first failure of P, impose report job search—
+  (a) under section 232(2)﻿(a) and this section; and
+  (b) only if, in the 5 working days from the giving of the section 252 notice, P discusses with MSD, in an appointment with MSD, P’s failure to comply.
+Effect: general
+(3) If report job search is imposed on P, MSD must not, for the first failure of P, do the following (except under section 236G):
+  (a) reduce the rate of P’s main benefit by half under section 236(2); or
+  (b) impose a non-financial sanction other than report job search.
+(4) If report job search is imposed on P,—
+  (a) P must within the prescribed period (starting when the sanction takes effect under subsection (5)﻿(a)) undertake at least the prescribed minimum number of job-search activities per week (see regulations made under section 418(1)﻿(ie)); and
+  (b) P must, by the end of each week of that period, report to MSD, to MSD’s satisfaction, about the job-search activities that P has in that week undertaken to satisfy the requirements of paragraph (a), and about the nature of those activities; and
+  (c) P must provide MSD with supporting evidence of all of the job-search activities that P has reported under this section,—
+    (i) only to the extent that the evidence is of a kind that it is reasonable in the circumstances for P to provide; and
+    (ii) in a way that MSD decides, and advises P when MSD requires the evidence, is appropriate in the circumstances; and
+    (iii) promptly after MSD requires the evidence, and in any case within 5 days after the prescribed period.
+Duration
+(5) Report job search that is imposed on P has effect—
+  (a) from the date stated in the notice of non-financial sanction under section 252A(2)﻿(c); and
+  (b) until whichever occurs first of the following:
+    (i) P recomplies after report job search is imposed on P (see section 261C):
+    (ii) the rate of P’s main benefit is reduced to zero under section 236F:
+    (iii) a replacement sanction imposed under section 236G takes effect.
+Relationship with other legislation
+(6) This section is subject to sections 236F, 236G, 243AAA, 243, 245 to 248, and 320 to 322.
+(7) This section does not limit any regulations made under section 432(1) that require a person to undertake 1 or more stated pre-benefit activities that are or include reporting on the progress of job-search activities.
+
+### 236F Sanction for first failure: report job search: failure without good and sufficient reason to meet requirements
+When this section applies
+(1) This section applies if, after report job search that is imposed on P has effect,—
+  (a) P has not met the requirements that apply to P under section 236E(4) (see subsections (2) and (3)); and
+  (b) P has not satisfied MSD within the reasonable period specified in subsection (4) that a good and sufficient reason existed as to why P failed to meet those requirements.
+When P has not met requirements that apply to P
+(2) For the purposes of subsection (1)﻿(a) and of section 236G(1)﻿(a), P has not met the requirements that apply to P under section 236E(4) if MSD has not been provided with supporting evidence that has satisfied MSD of P’s compliance with those requirements by the end of 5 days after the prescribed period for the purposes of section 236E(4) (see regulations made under section 418(1)﻿(ie)).
+(3) Subsection (2) does not limit the generality of subsection (1)﻿(a) or of section 236G(1)﻿(a).
+Reasonable period
+(4) The reasonable period mentioned in subsection (1)﻿(b) and in section 236G(1)﻿(b) must be one that—
+  (a) MSD considers reasonable in the circumstances of P; and
+  (b) ends no later than the end of the prescribed period for the purposes of section 236E(4) (see regulations made under section 418(1)﻿(ie)).
+MSD must reduce rate of P’s main benefit to zero
+(5) MSD must reduce the rate of P’s main benefit to zero with effect—
+  (a) starting on the first day of the week of P’s non-compliance or, if MSD is unable to determine the date of P’s non-compliance,—
+    (i) starting on the first day after the prescribed period for the purposes of section 236E(4) (see regulations made under section 418(1)﻿(ie)), if P has not in that period contacted MSD about P’s non-compliance; or
+    (ii) starting on the first day of the prescribed period for the purposes of section 236E(4) (see regulations made under section 418(1)﻿(ie)), if—
+      (A) P has in or after that period contacted MSD about P’s non-compliance; and
+      (B) MSD has not been provided with supporting evidence that satisfies MSD of the date of P’s non-compliance; and
+  (b) ending on whichever occurs first of the following events:
+    (i) P recomplies under section 261C(3) and (4):
+    (ii) MSD cancels P’s main benefit under section 233A.
+Exception to general rule about when reduction to zero takes effect
+(6) However, if P satisfies MSD within a period that complies with subsection (4)﻿(a), but that does not also comply with subsection (4)﻿(b), that a good and sufficient reason existed as to why P failed to meet the requirements that apply to P under section 236E(4), then MSD must reduce the rate of P’s main benefit to zero under subsection (5) with effect on and after the first day after the prescribed period for the purposes of section 236E(4) (see regulations made under section 418(1)﻿(ie)).
+Consequences of rate of P’s main benefit being reduced to zero
+(7) If the rate of P’s main benefit is reduced to zero under subsection (5),—
+  (a) P is no longer required to meet the requirements that apply to P under section 236E(4); and
+  (b) P recomplies under section 261C(3) and (4); and
+  (c) the 13-week period in section 233A(1)﻿(b) starts when the report job search imposed on P takes effect.
+Relationship with other sections
+(8) This section is subject to sections 243AAA, 243, 245 to 248, and 320 to 322.
+
+### 236G Sanction for first failure: report job search: replacement sanction if good and sufficient reason why cannot meet requirements
+When this section applies
+(1) This section applies if, at any time after report job search that is imposed on P has effect,—
+  (a) P has not met the requirements that apply to P under section 236E(4) (see also section 236F(2) and (3)); and
+  (b) P has satisfied MSD within the reasonable period specified in section 236F(4) that a good and sufficient reason existed as to why P could not meet those requirements.
+MSD must impose replacement sanction
+(2) MSD must impose on P, without giving a section 252 notice, a replacement sanction under section 236(2) that is to reduce the rate of P’s main benefit by half until P recomplies, and that starts to take effect at whichever occurs first of the following:
+  (a) P satisfies MSD that the good and sufficient reason existed:
+  (b) the date on which the rate of P’s main benefit is reduced to zero under section 236F(5)﻿(a) within the prescribed period for the purposes of section 236E(4) (see regulations made under section 418(1)﻿(ie)).
+Consequences of replacement sanction
+(3) If a replacement sanction under section 236(2) is imposed under subsection (2),—
+  (a) P is no longer required to meet the requirements that apply to P under section 236E(4); and
+  (b) the replacement sanction under section 236(2) operates in the same way as any other reduction of the rate of P’s main benefit by half under section 236(2); and
+  (c) P recomplies under section 261 (see section 261(3)﻿(ba)); but
+  (d) for the purposes of the 13-week period in section 233A(1)﻿(b), the replacement sanction must be treated as if it takes effect when report job search that it replaces takes effect.
+Relationship with other sections
+(4) This section is subject to sections 243AAA, 243, 245 to 248, and 320 to 322.
+
+### 236H Sanction for first failure: upskilling: general
+Eligibility
+(1) This section applies to a person (P) if—
+  (a) P has a first failure; and
+  (b) either—
+    (i) P is subject to active case management by MSD; or
+    (ii) P has 1 or more dependent children; and
+  (c) P’s first failure is not a failure to comply with a drug-testing obligation; and
+  (d) P’s first failure does not involve either or both of the following:
+    (i) more than 1 failure of the same obligation:
+    (ii) a failure of more than 1 obligation; and
+  (e) MSD is satisfied—
+    (i) that it is appropriate in the circumstances to impose upskilling on P; and
+    (ii) that it is more appropriate to impose that sanction than any other sanction that can be imposed for P’s first failure.
+Imposition
+(2) If this section applies to P, MSD must, for the first failure of P, impose upskilling—
+  (a) under section 232(2)﻿(a) and this section; and
+  (b) only if, in the 5 working days from the giving of the section 252 notice, P discusses with MSD, in an appointment with MSD, P’s failure to comply.
+Effect: general
+(3) If upskilling is imposed on P, MSD must not, for the first failure of P, do the following (except under section 236J):
+  (a) reduce the rate of P’s main benefit by half under section 236(2); or
+  (b) impose a non-financial sanction other than upskilling.
+(4) If upskilling is imposed on P,—
+  (a) P must within the prescribed period (starting when the sanction takes effect under subsection (5)﻿(a)) attend and participate in for at least the prescribed minimum number of hours per week (see regulations made under section 418(1)﻿(if)) 1 or more employment-related training programmes or courses that MSD considers are suitable; and
+  (b) P must, by the end of each week of that period, report to MSD, to MSD’s satisfaction, about the programmes or courses of that kind that P has in that week attended and participated in to satisfy the requirements of paragraph (a), and about the nature of those programmes or courses; and
+  (c) P must provide MSD with supporting evidence of all of the programmes or courses that P has reported under this section,—
+    (i) only to the extent that the evidence is of a kind that it is reasonable in the circumstances for P to provide; and
+    (ii) in a way that MSD decides, and advises P when MSD requires the evidence, is appropriate in the circumstances; and
+    (iii) promptly after MSD requires the evidence, and in any case within 5 days after the prescribed period.
+Duration
+(5) Upskilling that is imposed on P has effect—
+  (a) from the date stated in the notice of non-financial sanction under section 252A(2)﻿(c); and
+  (b) until whichever occurs first of the following:
+    (i) P recomplies after upskilling is imposed on P (see section 261D):
+    (ii) the rate of P’s main benefit is reduced to zero under section 236I:
+    (iii) a replacement sanction imposed under section 236J takes effect.
+Relationship with other legislation
+(6) This section is subject to sections 236I, 236J, 243AAA, 243, 245 to 248, and 320 to 322.
+
+### 236I Sanction for first failure: upskilling: failure without good and sufficient reason to meet requirements
+When this section applies
+(1) This section applies if, after upskilling that is imposed on P has effect,—
+  (a) P has not met the requirements that apply to P under section 236H(4) (see subsections (2) and (3)); and
+  (b) P has not satisfied MSD in the reasonable period specified in subsection (4) that a good and sufficient reason existed as to why P failed to meet those requirements.
+When P has not met requirements that apply to P
+(2) For the purposes of subsection (1)﻿(a) and of section 236J(1)﻿(a), P has not met the requirements that apply to P under section 236H(4) if MSD has not been provided with supporting evidence that has satisfied MSD of P’s compliance by the end of 5 days after the prescribed period for the purposes of section 236H(4) (see regulations made under section 418(1)﻿(if)).
+(3) Subsection (2) does not limit the generality of subsection (1)﻿(a) or of section 236J(1)﻿(a).
+Reasonable period
+(4) The reasonable period mentioned in subsection (1)﻿(b) and in section 236J(1)﻿(b) must be one that—
+  (a) MSD considers reasonable in the circumstances of P; and
+  (b) ends no later than the end of the prescribed period for the purposes of section 236H(4) (see regulations made under section 418(1)﻿(if)).
+MSD must reduce rate of P’s main benefit to zero
+(5) MSD must reduce the rate of P’s main benefit to zero with effect—
+  (a) starting on the first day of the week of P’s non-compliance or, if MSD is unable to determine the date of P’s non-compliance,—
+    (i) starting on the first day after the prescribed period for the purposes of section 236H(4) (see regulations made under section 418(1)﻿(if)), if P has not in that period contacted MSD about P’s non-compliance; or
+    (ii) starting on the first day of the prescribed period for the purposes of section 236H(4) (see regulations made under section 418(1)﻿(if)), if—
+      (A) P has in or after that period contacted MSD about P’s non-compliance; and
+      (B) MSD has not been provided with supporting evidence that satisfies MSD of the date of P’s non-compliance; and
+  (b) ending on whichever occurs first of the following events:
+    (i) P recomplies (see section 261D(3) and (4)):
+    (ii) MSD cancels P’s main benefit under section 233A.
+Exception to general rule about when reduction to zero takes effect
+(6) However, if P satisfies MSD within a period that complies with subsection (4)﻿(a), but that does not also comply with subsection (4)﻿(b), that a good and sufficient reason existed as to why P failed to meet the requirements that apply to P under section 236H(4), then MSD must reduce the rate of P’s main benefit to zero under subsection (5) with effect on and after the first day after the prescribed period for the purposes of section 236H(4) (see regulations made under section 418(1)﻿(if)).
+Consequences of rate of P’s main benefit being reduced to zero
+(7) If the rate of P’s main benefit is reduced to zero under subsection (5),—
+  (a) P is no longer required to meet the requirements that apply to P under section 236H(4); and
+  (b) P recomplies under section 261D(3) and (4); and
+  (c) the 13-week period in section 233A(1)﻿(b) starts when upskilling imposed on P takes effect.
+Relationship with other sections
+(8) This section is subject to sections 243AAA, 243, 245 to 248, and 320 to 322.
+
+### 236J Sanction for first failure: upskilling: replacement sanction if good and sufficient reason why cannot meet requirements
+When this section applies
+(1) This section applies if, at any time after upskilling that is imposed on P has effect,—
+  (a) P has not met the requirements that apply to P under section 236H(4) (see also section 236I(2) and (3)); and
+  (b) P has satisfied MSD in the reasonable period specified in section 236I(4) that a good and sufficient reason existed as to why P could not meet those requirements.
+MSD must impose replacement sanction
+(2) MSD must impose on P, without giving a section 252 notice, a replacement sanction under section 236(2) that is to reduce the rate of P’s main benefit by half until P recomplies, and that starts to take effect at whichever occurs first of the following:
+  (a) P satisfies MSD that the good and sufficient reason existed:
+  (b) the date on which the rate of P’s main benefit is reduced to zero under section 236I(5)﻿(a) within the prescribed period for the purposes of section 236H(4) (see regulations made under section 418(1)﻿(if)).
+Consequences of replacement sanction
+(3) If a replacement sanction under section 236(2) is imposed under subsection (2),—
+  (a) P is no longer required to meet the requirements that apply to P under section 236E(4); and
+  (b) the replacement sanction under section 236(2) operates in the same way as any other reduction of the rate of P’s main benefit by half under section 236(2); and
+  (c) P recomplies under section 261 (see section 261(3)﻿(bb)); but
+  (d) for the purposes of the 13-week period in section 233A(1)﻿(b), the replacement sanction must be treated as if it takes effect when upskilling that it replaces takes effect.
+Relationship with other sections
+(4) This section is subject to sections 243AAA, 243, 245 to 248, and 320 to 322.
+
 ### 237 Sanction for second failure: suspension of main benefit
 (1) For a second failure by a person (P), MSD must suspend P’s main benefit until the earlier of the following events:
   (a) P recomplies:
@@ -2478,6 +2665,8 @@ Relationship with other sections
     (i) the rate of P’s specified benefit is reduced under section 236; or
     (ii) money management imposed on P has effect (see section 236A); or
     (iii) community work experience imposed on P has effect (see section 236B); or
+    (iiia) report job search imposed on P has effect (see section 236E); or
+    (iiib) upskilling imposed on P has effect (see section 236H); or
     (iv) P’s specified benefit is suspended under section 237; and
   (b) P is regranted a specified benefit under section 336.
 (2) P’s regranted specified benefit under section 336 is subject to the relevant sanction specified in subsection (1)﻿(a)﻿(i), (ii), (iii), or (iv)—
@@ -2538,12 +2727,12 @@ In sections 245 to 248, default amount of main benefit payable, for a spouse or 
 When this section applies
 (1) This section applies if—
   (a) a main benefit is payable at a work-test couple rate; and
-  (b) the rate of the benefit is reduced (by half or to zero), or the benefit is money managed, suspended, or cancelled, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, and 236D; and
+  (b) the rate of the benefit is reduced (by half or to zero), or the benefit is money managed, suspended, or cancelled, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, 236D, 236F, 236G, 236I, and 236J; and
   (c) the reduction of the rate of benefit (by half or to zero), or the money management, suspension, or cancellation of the benefit, results from—
     (i) the failure of one spouse or partner (P) to comply with 1 or more specified obligations under this Act; or
     (ii) the application to one spouse or partner (P) of section 227.
 Reduction (by half or to zero) of rate of benefit, or money management, suspension, or cancellation of benefit
-(2) For the period that the rate of benefit is reduced (by half or to zero), or the benefit is money managed, suspended, or cancelled, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, and 236D,—
+(2) For the period that the rate of benefit is reduced (by half or to zero), or the benefit is money managed, suspended, or cancelled, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, 236D, 236F, 236G, 236I, and 236J,—
   (a) the reduction of the rate of benefit (by half or to zero), or the money management, suspension, or cancellation, applies only to any default amount of main benefit payable to P; and
   (b) the other spouse or partner is entitled to receive any default amount of main benefit payable to them.
 (3) Any amount remaining after a reduction by half, or money management, is applied under subsection (2)﻿(a) is payable to P.
@@ -2552,10 +2741,10 @@ Reduction (by half or to zero) of rate of benefit, or money management, suspensi
 When this section applies
 (1) This section applies if—
   (a) a main benefit is payable at a work-test couple rate; and
-  (b) the benefit or the rate of the benefit is, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, and 236D, subject to a reduction (by half or to zero), money management, a suspension, or cancellation (sanction A) because of—
+  (b) the benefit or the rate of the benefit is, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, 236D, 236F, 236G, 236I, and 236J, subject to a reduction (by half or to zero), money management, a suspension, or cancellation (sanction A) because of—
     (i) the failure of one spouse or partner (P) to comply with 1 or more specified obligations under this Act; or
     (ii) the application to one spouse or partner (P) of section 227; and
-  (c) the benefit or the rate of the benefit is, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, and 236D, subject to a reduction (by half or to zero), money management, a suspension, or cancellation (sanction B) because of—
+  (c) the benefit or the rate of the benefit is, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, 236D, 236F, 236G, 236I, and 236J, subject to a reduction (by half or to zero), money management, a suspension, or cancellation (sanction B) because of—
     (i) the failure of the other spouse or partner to comply with 1 or more specified obligations under this Act; or
     (ii) the application to the other spouse or partner of section 227; and
   (d) the couple have no dependent children.
@@ -2570,14 +2759,14 @@ When this section applies
 (1) This section applies if—
   (a) a main benefit is payable at a work-test couple rate; and
   (b) either—
-    (i) the benefit or the rate of the benefit is, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, and 236D, subject to a reduction (by half or to zero), money management, a suspension, or cancellation (sanction A) because of—
+    (i) the benefit or the rate of the benefit is, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, 236D, 236F, 236G, 236I, and 236J, subject to a reduction (by half or to zero), money management, a suspension, or cancellation (sanction A) because of—
       (A) the failure of one spouse or partner (P) to comply with 1 or more specified obligations under this Act; or
       (B) the application to one spouse or partner (P) of section 227; or
     (ii) under sections 225 and 227, one spouse or partner (P)—
       (A) has not been granted a main benefit; and
       (B) is not entitled for a period of 13 weeks (non-entitlement period A) to a work-tested benefit that would be payable at the work-test couple rate; and
   (c) either—
-    (i) the benefit or the rate of the benefit is, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, and 236D, subject to a reduction (by half or to zero), money management, a suspension, or cancellation (sanction B) because of—
+    (i) the benefit or the rate of the benefit is, under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, 236D, 236F, 236G, 236I, and 236J, subject to a reduction (by half or to zero), money management, a suspension, or cancellation (sanction B) because of—
       (A) the failure of the other spouse or partner to comply with 1 or more specified obligations under this Act; or
       (B) the application to the other spouse or partner of section 227; or
     (ii) under sections 225 and 227, the other spouse or partner—
@@ -2597,7 +2786,7 @@ Reduction (by half or to zero) of rate of benefit, or benefit subject to money m
 ### 248 Variation for reduction to zero of rate of main benefit, or suspension or cancellation of main benefit, or non-entitlement period, affecting sole parent
 When this section applies
 (1) This section applies if,—
-  (a) under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, and 236D, for a main benefit of a person (P) who is a sole parent, the rate of the benefit is reduced to zero, or the benefit is suspended or cancelled; or
+  (a) under any 1 or more of sections 227, 232, 233A, 236, 236A, 236C, 236D, 236F, 236G, 236I, and 236J, for a main benefit of a person (P) who is a sole parent, the rate of the benefit is reduced to zero, or the benefit is suspended or cancelled; or
   (b) under sections 225 and 227, a sole parent (P)—
     (i) has not been granted a main benefit; and
     (ii) is not entitled for a period of 13 weeks to a work-tested benefit.
@@ -2643,10 +2832,10 @@ A good and sufficient reason for failure to comply with an obligation under sect
   (f) state that P has 5 working days from the giving of the notice to dispute the reduction, suspension, or cancellation; and
   (g) advise P to contact MSD if P wants to dispute or discuss the decision to reduce the rate of, suspend, or cancel the benefit; and
   (ga) advise P that MSD may, instead of reducing the rate of the benefit, impose a non-financial sanction on P, but only if—
-    (i) P is eligible for a non-financial sanction (see sections 236A(1) and 236B(1)); and
+    (i) P is eligible for a non-financial sanction (see sections 236A(1), 236B(1), 236E(1), and 236H(1)); and
     (ii) in the 5 working days from the giving of the notice, P discusses with MSD, in an appointment with MSD, P’s failure to comply; and
   (h) contain a clear statement of P's right, under section 391, to apply for a review of the decision, and of the procedure for applying for a review.
-(3) No section 252 notice is required for a replacement sanction imposed under section 236D.
+(3) No section 252 notice is required for a replacement sanction imposed under section 236D, 236G, or 236J.
 
 ### 252A MSD must give notice of non-financial sanction
 (1) Before, on, or as soon as is reasonably practicable after, imposing a non-financial sanction on a person (P), MSD must give P a written notice for the purposes of this section (a section 252A notice) that complies with subsection (2).
@@ -2654,8 +2843,8 @@ A good and sufficient reason for failure to comply with an obligation under sect
   (a) the non-financial sanction that is to be, or has been, imposed on P; and
   (b) that sanction’s requirements (including, without limitation, what P must do while P is subject to that sanction); and
   (c) the date (which must be after the 5 working days from the giving of the related section 252 notice) on which that sanction takes effect; and
-  (d) the duration of that sanction (see sections 236A(6) and 236B(5)); and
-  (e) how P recomplies with an obligation if the failure to comply with it resulted in that non-financial sanction being imposed and taking effect (see section 261, 261A, or 261B).
+  (d) the duration of that sanction (see sections 236A(6), 236B(5), 236E(5), and 236H(5)); and
+  (e) how P recomplies with an obligation if the failure to comply with it resulted in that non-financial sanction being imposed and taking effect (see section 261, 261A, 261B, 261C, or 261D).
 
 ### 253 Notice relates to single failure
 (1) A notice of a sanction given to a person (P) may specify more than 1 instance of failure.
@@ -2677,7 +2866,10 @@ MSD must not give a person (P) a section 252 notice in relation to a failure to 
 
 ### 256 When sanction takes effect
 (1) A sanction (including, without limitation, a non-financial sanction) under section 232 must not take effect before the close of the 5 working days specified in the section 252 notice in accordance with section 252(2)﻿(f).
-(2) However, a replacement sanction imposed under section 236D starts to take effect as specified in section 236D(2).
+(2) However,—
+  (a) a replacement sanction imposed under section 236D starts to take effect as specified in section 236D(2); and
+  (b) a replacement sanction imposed under section 236G starts to take effect as specified in section 236G(2); and
+  (c) a replacement sanction imposed under section 236J starts to take effect as specified in section 236J(2).
 
 **Evidential drug test**
 
@@ -2718,6 +2910,8 @@ Failure of an evidential drug test that is requested by a person under section 2
 (3) This section does not apply to recompliance with—
   (a) an obligation, if a failure to comply with it resulted in money management being imposed and taking effect (see section 261A):
   (b) an obligation, if a failure to comply with it resulted in community work experience being imposed and taking effect (see section 261B), unless a replacement sanction is imposed (see section 236D):
+  (ba) an obligation, if a failure to comply with it resulted in report job search being imposed and taking effect (see section 261C), unless a replacement sanction is imposed (see section 236G):
+  (bb) an obligation, if a failure to comply with it resulted in upskilling being imposed and taking effect (see section 261D), unless a replacement sanction is imposed (see section 236J):
   (c) a drug-testing obligation (see section 263).
 
 ### 261A How person recomplies after failure that resulted in money management being imposed and taking effect
@@ -2741,6 +2935,26 @@ Failure of an evidential drug test that is requested by a person under section 2
 (2) P recomplies if P meets the requirements of community work experience that apply to P under section 236B(4).
 (3) However, subsection (4) applies instead of subsection (2) if MSD has—
   (a) reduced the rate of P’s main benefit to zero under section 236C; but
+  (b) not yet cancelled P’s main benefit under section 233A.
+(4) P recomplies if P remedies P’s failure under section 261.
+
+### 261C How person recomplies after failure that resulted in report job search being imposed and taking effect
+(1) This section sets out how a person (P) recomplies after a failure—
+  (a) to comply with an obligation; and
+  (b) that resulted in report job search being imposed on P and taking effect.
+(2) P recomplies if P meets the requirements of report job search that apply to P under section 236E(4).
+(3) However, subsection (4) applies instead of subsection (2) if MSD has—
+  (a) reduced the rate of P’s main benefit to zero under section 236F; but
+  (b) not yet cancelled P’s main benefit under section 233A.
+(4) P recomplies if P remedies P’s failure under section 261.
+
+### 261D How person recomplies after failure that resulted in upskilling being imposed and taking effect
+(1) This section sets out how a person (P) recomplies after a failure—
+  (a) to comply with an obligation; and
+  (b) that resulted in upskilling being imposed on P and taking effect.
+(2) P recomplies if P meets the requirements of upskilling that apply to P under section 236H(4).
+(3) However, subsection (4) applies instead of subsection (2) if MSD has—
+  (a) reduced the rate of P’s main benefit to zero under section 236I; but
   (b) not yet cancelled P’s main benefit under section 233A.
 (4) P recomplies if P remedies P’s failure under section 261.
 
@@ -3317,7 +3531,7 @@ The winter energy payment commences in accordance with section 74.
 **Restoration of entitlement after suspension, reduction, non-financial sanction, cancellation, or non-entitlement**
 
 ### 320 Effect of no longer being subject to work-test or young person obligations
-(1) This section applies to a person whose benefit has been suspended, or whose rate of benefit has been reduced (by half or to zero), or who is subject to a non-financial sanction, or who is subject to a 13-week period of non-entitlement to a main benefit, under section 225, 236, 236A, 236B, 237, 270, or 280, if the person—
+(1) This section applies to a person whose benefit has been suspended, or whose rate of benefit has been reduced (by half or to zero), or who is subject to a non-financial sanction, or who is subject to a 13-week period of non-entitlement to a main benefit, under section 225, 236, 236A, 236B, 236E, 236H, 237, 270, or 280, if the person—
   (a) ceases to be a work-tested beneficiary (other than because of the imposition of that suspension, reduction, non-financial sanction, or 13-week period); or
   (b) ceases to be a beneficiary who is required to comply with obligations under section 162, 164, 166, or 167 (other than because of the imposition of that suspension, reduction, non-financial sanction, or 13-week period); or
   (c) obtains, under section 158, an exemption from the work test or from obligations under section 162, 164, 166, or 167.
@@ -3330,13 +3544,13 @@ The winter energy payment commences in accordance with section 74.
 
 ### 321 Effect of no longer being subject to dependent children obligations
 (1) This section applies to a sanction imposed on a person—
-  (a) under section 236, 236A, 236B, 237, or 238 (as applied by section 136); and
+  (a) under section 236, 236A, 236B, 236E, 236H, 237, or 238 (as applied by section 136); and
   (b) in respect of an obligation that the person had under any of sections 131 to 135.
 (2) The sanction ceases to apply to the person on the person ceasing to have that obligation.
 
 ### 322 Effect of no longer being subject to work-preparation obligations
 (1) This section applies to a sanction imposed on a person—
-  (a) under section 236, 236A, 236B, 237, or 238 (as applied by section 126); and
+  (a) under section 236, 236A, 236B, 236E, 236H, 237, or 238 (as applied by section 126); and
   (b) in respect of—
     (i) a general obligation of the person under section 124; or
     (ii) an obligation of the person under section 123 or 125 to comply with a requirement under section 125.
@@ -4412,6 +4626,8 @@ Regulations for purposes of specified provisions
   (ib) section 236A(5) and (6)﻿(b) (money management: prescribed period starting when the sanction takes effect under section 236A(6)﻿(a) within which P must recomply and until the end of which money management has effect):
   (ic) sections 236B(4) and 236C (community work experience: prescribed search period starting when the sanction takes effect under section 236B(5)﻿(a) for finding 1 or more positions that comply with section 236B(4)﻿(a)):
   (id) sections 236B(4) and 236C (community work experience: prescribed minimum number of hours per week for prescribed minimum number of weeks (that start as specified in section 236B(4)﻿(b)﻿(ii))):
+  (ie) sections 236E(4) and 236F(2) and (4) (report job search: prescribed period starting when the sanction takes effect under section 236E(5)﻿(a) and prescribed minimum number of job-search activities per week):
+  (if) sections 236H(4) and 236I(2) and (4) (upskilling: prescribed period starting when the sanction takes effect under section 236H(5)﻿(a) and prescribed minimum number of hours per week of attendance at and participation in 1 or more employment-related training programmes or courses):
   (j) section 250(1)﻿(e) (excuse of good and sufficient reason: failure to comply with drug-testing obligation):
   (ja) section 304A(1)﻿(g) (additional grounds for review of whether person’s information share child support payment is or was all or any of their weekly income):
   (jb) section 340A (required manner of payment: money management for certain payments to people subject to sanction for first failure):
