@@ -5,8 +5,8 @@ _Consolidation as at 2025-10-21_
 This Act is the Education and Training (Vocational Education and Training System) Amendment Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after Royal assent.
-(2) However, Parts 3 to 6 of Schedule 6 come into force on a date or dates set by Order in Council.
+(1) This Act comes into force on 22 October 2025.
+(2) However, Parts 3 to 6 of Schedule 6 come into force on a date or dates set by Order in Council.The following table is small in size and has 3 columns that are grouped under the heading Provisions commenced by Order in Council.Provisions commenced by Order in CouncilProvisionsCommencement dateOrder in CouncilParts 5 and 6 of Schedule 61 January 2026Clause 2 of the Education and Training (Vocational Education and Training System) Amendment Act 2025 Commencement Order 2025This note is not part of the Act.
 (3) Any part of Part 3 or 4 of Schedule 6 that has not come into force by 1 April 2027 comes into force then.
 (4) Any part of Part 5 or 6 of Schedule 6 that has not come into force by 1 January 2027 comes into force then.
 (5) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
