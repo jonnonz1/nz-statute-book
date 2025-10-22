@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2025-09-24_
+_Consolidation as at 2025-10-22_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4980,6 +4980,10 @@ No control over company
 (4) For the purposes of subsection (2)﻿(b), a person described in section CW 42(7)﻿(a) and (b) is not treated as having some control over the company merely because of the factors in section CW 42(7)﻿(a) and (b).
 Benefit or advantage
 (5) For the purposes of subsection (2)﻿(b), a benefit or advantage is one that would be a benefit or advantage under section CW 42(1)﻿(c) and (8).
+
+### CW 55BAA Federation of Polytechnics Committee and industry skills boards
+(1) An amount of income derived by the Federation of Polytechnics Committee established under section 325 of the Education and Training Act 2020 is exempt income if the Committee is not carried on for the private pecuniary profit of any individual.
+(2) An amount of income derived by an industry skills board established under section 362 of the Education and Training Act 2020 is exempt income if the board is not carried on for the private pecuniary profit of any individual.
 
 ### CW 55BAB Rebate of fees paid by FIF
 When this section applies
