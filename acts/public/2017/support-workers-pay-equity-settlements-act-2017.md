@@ -1,5 +1,5 @@
 # Support Workers (Pay Equity) Settlements Act 2017
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2025-10-22_
 
 ### 1 Title
 This Act is the Support Workers (Pay Equity) Settlements Act 2017.
@@ -76,13 +76,13 @@ In this Act, unless the context otherwise requires,—
   - **health practitioner** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
   - **level 2 qualification** means—
     (a) a level 2 New Zealand Certificate in Health and Wellbeing issued by NZQA; or
-    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant workforce development council (as defined in section 10(1) of the Education and Training Act 2020) as being equivalent to the qualification described in paragraph (a)
+    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant industry skills board or workforce development council (as established or continued for the time being under the Education and Training Act 2020) as being equivalent to the qualification described in paragraph (a)
   - **level 3 qualification** means—
     (a) a level 3 New Zealand Certificate in Health and Wellbeing issued by NZQA; or
-    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant workforce development council (as defined in section 10(1) of the Education and Training Act 2020) as being equivalent to the qualification described in paragraph (a)
+    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant industry skills board or workforce development council (as established or continued for the time being under the Education and Training Act 2020) as being equivalent to the qualification described in paragraph (a)
   - **level 4 qualification** means—
     (a) a level 4 New Zealand Certificate in Health and Wellbeing issued by NZQA; or
-    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant workforce development council (as defined in section 10(1) of the Education and Training Act 2020) as being equivalent to the qualification described in paragraph (a)
+    (b) a qualification (whether from New Zealand or overseas) that is recognised by the relevant industry skills board or workforce development council (as established or continued for the time being under the Education and Training Act 2020) as being equivalent to the qualification described in paragraph (a)
   - **mental health and addiction support services** —
     (a) means services that are funded under a funding agreement and that are provided to—
       (i) a person who has a mental health need or an addiction need for the purpose of assisting them to—
