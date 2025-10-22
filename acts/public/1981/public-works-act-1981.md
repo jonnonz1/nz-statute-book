@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2025-08-27_
+_Consolidation as at 2025-10-22_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -31,6 +31,7 @@ In this Act, unless the context otherwise requires,—
     (b) any of the following as constituted, established, or continued by the Education and Training Act 2020:
       (i) a board:
       (ii) the council of a university:
+      (iia) a polytechnic:
       (iii) a wānanga:
       (iv) Te Pūkenga—New Zealand Institute of Skills and Technology or any of its subsidiaries that provide education or training (or both):
     (c)
@@ -50,7 +51,7 @@ In this Act, unless the context otherwise requires,—
     (a) every Government work or local work that the Crown or any local authority is authorised to construct, undertake, establish, manage, operate, or maintain, and every use of land for any Government work or local work which the Crown or any local authority is authorised to construct, undertake, establish, manage, operate, or maintain by or under this or any other Act; and include anything required directly or indirectly for any such Government work or local work or use:
     (b) every Government work or local work constructed, undertaken, established, managed, operated, or maintained by any board (as defined in section 10(1) of the Education and Training Act 2020) and every use of land for any Government work or local work that the board constructs, undertakes, establishes, manages, operates, or maintains, and includes anything required (whether directly or indirectly) for any such Government work or local work or use:
     (c) any Government work or local work that is, or is required, for—
-      (i) a university or wānanga as defined in section 10(1) of the Education and Training Act 2020; or
+      (i) a university, polytechnic, or wānanga as defined in section 10(1) of the Education and Training Act 2020; or
       (ii) the New Zealand Institute of Skills and Technology (as continued by that Act) or any of its subsidiaries that provide education or training (or both)
   - **railway** includes—
     (a) the land upon which any railway is made or authorised to be made under this Act, and all buildings and erections of every kind thereon, and all land held for railway purposes; and
