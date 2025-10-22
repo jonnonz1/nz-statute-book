@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2025-10-22_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -33,6 +33,9 @@ In this Act,—
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
+
+### 5A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### Subpart 2 — Interpretation
 
@@ -394,9 +397,9 @@ In determining whether or not to recommend the making of an order under section 
 **Application**
 
 ### 31 Application: general
-(1) An application for registration must be made to the Registrar in the prescribed form and must be signed,—
-  (a) if the application is made by an individual, by that person; or
-  (b) if the application is made by a company, by any person concerned in the management of the company.
+(1) An application for registration must be made to the Registrar in the prescribed form.
+  (a)
+  (b)
 (2) An application must be accompanied by—
   (a) a statutory declaration made by,—
     (i) in the case of an application made by an individual, that person; or
@@ -409,19 +412,22 @@ In determining whether or not to recommend the making of an order under section 
 (1) An application must include the following information:
   (a) if the application is made by an individual,—
     (i) the full name, residential address, date of birth, and occupation of that person; and
+    (ia) evidence that satisfies the Registrar of the identity of that person (for example, a certified copy of that person’s driver licence or passport); and
     (ii) the proposed trading name of the applicant's motor vehicle trading business; and
     (iii) any further information and other material that may be prescribed:
   (b) if the application is made by a company,—
     (i) the name of the company, the date of its incorporation, the address of its registered office, and its principal type of business; and
     (ii) the unique number assigned to the company on its incorporation; and
     (iii) the full name, residential address, date of birth, and occupation of each person concerned in the management of the company; and
+    (iiia) evidence that satisfies the Registrar of the identity of each person concerned in the management of the company (for example, a certified copy of each person’s driver licence or passport); and
     (iv) the proposed trading name of the applicant's motor vehicle trading business; and
     (v) any further information and other material that may be prescribed.
+(1A) For the purposes of subsection (1), full name has the meaning given in section 6(1), but the application must include the person’s full name as stated on their driver licence or passport.
 (2) The application must also—
   (a) state the address for service of the applicant, which address—
     (i) must identify the place by reference to its location in a street or road; and
-    (ii) must include, if available, the applicant's fax number and email address; and
-    (iii) must not be that of a Post Office box, a document exchange, or a rural delivery; and
+    (ii) must include the applicant’s email address; and
+    (iii) must not be that of a Post Office box or a document exchange; and
   (b) contain a statutory declaration that verifies the matters referred to in this section and is made by,—
     (i) if the application is made by an individual, that person; or
     (ii) if the application is made by a company, any person concerned in the management of that company.
@@ -472,6 +478,7 @@ The registration of a motor vehicle trader—
   (a) set out (with any necessary modifications) all the information specified in section 32(1) and (2)﻿(a); and
   (b) be accompanied by the prescribed fee (which is the same as the fee for registration under section 31(2)﻿(b), unless a separate fee is prescribed); and
   (c) be accompanied by the levy imposed under section 143 (if any); and
+  (ca) include the applicant’s New Zealand Transport Agency customer number; and
   (d) include a certificate that confirms the matters identified in subsection (1B) and is signed by,—
     (i) if the application is made by an individual, that person; or
     (ii) if the application is made by a company, any person concerned in the management of the company.
@@ -483,6 +490,7 @@ The registration of a motor vehicle trader—
   (a) an application for renewal is properly completed if it complies with subsections (1A) and (1B) of this section rather than with section 34(2); and
   (b) if the Registrar accepts the application, he or she must provide the applicant with written notice of the date on which the renewal of registration takes effect, instead of providing the things listed in section 36(b).
 (3) If an application for renewal of registration has been made but not determined before the date on which the registration would otherwise expire, the registration continues in force until the application is determined.
+(4) In this section, New Zealand Transport Agency customer number means the number assigned to an individual or a company making an application for registration by the New Zealand Transport Agency established by section 93 of the Land Transport Management Act 2003.
 
 **Obligation to notify Registrar of changes**
 
@@ -501,11 +509,13 @@ The registration of a motor vehicle trader—
 (1) This section applies if—
   (a) a person becomes concerned in the management of a company that is registered under this Act as a motor vehicle trader; and
   (b) the person was not concerned in the management of the company at the time the company last applied for registration or renewal of registration under this Act.
-(2) Within 30 working days of the person becoming concerned in the management of the company, the motor vehicle trader must notify the Registrar that a new person has become concerned in the management of the company.
+(2) Within 20 working days of the person becoming concerned in the management of the company, the motor vehicle trader must notify the Registrar that a new person has become concerned in the management of the company.
 (3) The notification must be in writing and must—
-  (a) set out the full name, residential address, date of birth, and occupation of the new person; and
+  (a) set out the full name, residential address, email address, date of birth, and occupation of the new person; and
+  (aa) include evidence that satisfies the Registrar of the identity of the new person (for example, a certified copy of that person’s driver licence or passport); and
   (b) include a statutory declaration by the new person that states that he or she is not disqualified from registration as a motor vehicle trader in his or her own right; and
   (c) include the prescribed fee (if any) for notification under this section.
+(3A) For the purposes of subsection (3), full name has the meaning given in section 6(1), but the notification must include the person’s full name as stated on their driver licence or passport.
 (4) If the new person ordinarily spends fewer than 300 days each calendar year in New Zealand, the notification need not include the statutory declaration required by subsection (3)﻿(b), but must instead include a certificate signed by the new person stating that he or she is not disqualified from registration as a motor vehicle trader in his or her own right.
 (5) The option referred to in subsection (4) is not available if there are already 3 people concerned in the management of the company who have taken advantage of that option and have not since supplied a statutory declaration of the kind referred to in subsection (3)﻿(b).
 
@@ -604,12 +614,12 @@ The purpose of the register is—
 
 ### 54 Contents of register
 The register must contain all of the following information:
-  (a) in the case of a motor vehicle trader who applied for registration as an individual, the full name, residential address, date of birth, and occupation of that person:
+  (a) in the case of a motor vehicle trader who applied for registration as an individual, the full name, residential address, and occupation of that person:
   (b) in the case of a motor vehicle trader who applied for registration as a company,—
     (i) the name of the company; and
     (ii) the address of the company's registered office; and
     (iii) the unique number assigned to the company on its incorporation; and
-    (iv) the full name, residential address, date of birth, and occupation of each person concerned in the management of the company:
+    (iv) the full name, residential address, and occupation of each person concerned in the management of the company:
   (c) the registration number or other unique identifier provided to the motor vehicle trader on registration under section 36:
   (d) the address for service of the motor vehicle trader:
   (e) the name stated in the motor vehicle trader's application for registration as the trading name of that motor vehicle trader's business or any other name subsequently notified to the Registrar as the trading name that the motor vehicle trader wishes to use for that business (including, in the case of a motor vehicle trader who has several trading names for that motor vehicle trader's business, those names):
@@ -633,6 +643,7 @@ The register may be searched only by reference to the following criteria:
     (i) the name of the motor vehicle trader:
     (ii) the residential address of the motor vehicle trader:
     (iii) the name and residential address of the motor vehicle trader:
+    (iv) the email address of the motor vehicle trader:
   (b) in the case of a motor vehicle trader who applied for registration as a company,—
     (i) the name of the company:
     (ii) the address of the company's registered office:
@@ -641,6 +652,7 @@ The register may be searched only by reference to the following criteria:
     (v) the name of a person concerned in the management of the company:
     (vi) the residential address of a person concerned in the management of the company:
     (vii) the name and residential address of a person concerned in the management of the company:
+    (viii) the email address of a person concerned in the management of the company:
   (c) the registration number or other unique identifier provided to the motor vehicle trader on registration under section 36:
   (d) the trading name of the motor vehicle trader's business:
   (e) any prescribed criteria.
@@ -813,12 +825,12 @@ The purpose of the list is—
 
 ### 75 Contents of list
 The list must contain all of the following information about every banned person:
-  (a) in the case of an individual, the full name, last known residential address, and date of birth of that person:
+  (a) in the case of an individual, the full name, last known residential address, last known email address, and date of birth of that person:
   (b) in the case of a company,—
     (i) the name of the company; and
     (ii) the address of the company's registered office; and
     (iii) the unique number assigned to the company on its incorporation; and
-    (iv) the full name, residential address, and date of birth of each person concerned in the management of the company:
+    (iv) the full name, last known residential address, last known email address, and date of birth of each person concerned in the management of the company:
   (c) if applicable, the registration number or other unique identifier provided to the person on registration under section 36:
   (d) if applicable, the trading name of the person's motor vehicle trading business:
   (e) the period of the ban:
@@ -853,15 +865,17 @@ The list may be searched only by reference to the following criteria:
     (ii) the last known residential address of the person:
     (iii) the name and last known residential address of the person:
     (iv) the name and date of birth of the person:
+    (v) the last known email address of the person:
   (b) in the case of a banned person that is a company,—
     (i) the name of the company:
     (ii) the address of the company's registered office:
     (iii) the name of the company and the address of its registered office:
     (iv) the unique number assigned to the company on its incorporation:
     (v) the name of a person concerned in the management of the company:
-    (vi) the residential address of a person concerned in the management of the company:
-    (vii) the name and residential address of a person concerned in the management of the company:
+    (vi) the last known residential address of a person concerned in the management of the company:
+    (vii) the name and last known residential address of a person concerned in the management of the company:
     (viii) the name and date of birth of a person concerned in the management of the company:
+    (ix) the last known email address of a person concerned in the management of the company:
   (c) if applicable, the registration number or other unique identifier provided to the banned person on registration under section 36:
   (d) if applicable, the trading name of the banned person's motor vehicle trading business:
   (e) any prescribed criteria.
@@ -1324,16 +1338,19 @@ A person must not communicate to any person any information acquired in the cour
 (1) Any notice or any other document required to be served on, or given to, any person under this Act, or any regulation made under this Act, is sufficiently served if,—
   (a) in the case of an applicant for registration or a motor vehicle trader registered under this Act, the notice or document is—
     (i) delivered to the person at the person's address for service stated in accordance with section 32(2); or
-    (ii) sent by fax or email to the person's fax number or email address, as the case may be, stated in accordance with section 32(2); or
+    (ii) sent by email to the person’s email address, stated in accordance with section 32(2); or
     (iii) posted in a letter addressed to the person at the person's address for service stated in accordance with section 32(2); or
   (b) in any other case, the notice or document is—
     (i) delivered to the person; or
     (ii) left at the person's usual or last known place of residence or business in New Zealand; or
+    (iia) sent by email to the person’s email address; or
     (iii) posted in a letter addressed to the person at the person's place of residence or business in New Zealand.
-(2) A notice or document that is sent to a person at a fax number or an email address must be treated as received by that person not later than 2 days after the date on which it is sent.
+(2) A notice or document that is sent to a person at an email address must be treated as received by that person not later than 2 days after the date on which it is sent.
 (3) A notice or document that is posted to a person must be treated as received by that person not later than 7 days after the date on which it is posted.
 (4) However, a notice or document must not be treated as received if the person to whom it is posted or sent proves that it was not received, otherwise than through fault on the person's part.
 (5) An infringement notice sent to a person by post under subsection (1) must be treated as having been served on the person on the date that it was posted.
+(6) Subsection (1)﻿(b)﻿(iia) does not apply to an infringement notice issued under section 113.
+(7) This section does not apply to a witness summons issued under clause 9D of Schedule 1.
 
 **Levy regulations**
 
@@ -1444,6 +1461,14 @@ The Crown is not liable to make a payment to, or otherwise compensate, any perso
 
 ### 163 Review of operation of Act
 [Repealed]
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Regulatory Systems (Economic Development) Amendment Act 2025
+
+### 1 Transitional provision relating to time frame for notification that new person has become concerned in management of motor vehicle trader under section 40A
+(1) This clause applies if section 40A applies to a motor vehicle trader.
+(2) If, before the commencement of this clause, a person becomes concerned in the management of a company that is registered under the Act as a motor vehicle trader, section 40A(2) applies to the motor vehicle trader as if it had not been amended by section 143 of the Regulatory Systems (Economic Development) Amendment Act 2025.
 
 ## Schedule 1 — Procedure of Disputes Tribunals
 
