@@ -1,5 +1,5 @@
 # Public Records Act 2005
-_Consolidation as at 2024-10-01_
+_Consolidation as at 2025-10-22_
 
 ### 1 Title
 This Act is the Public Records Act 2005.
@@ -103,6 +103,8 @@ In this Act, unless the context otherwise requires,—
       (x)
       (xa) the Approved Agency under the Harmful Digital Communications Act 2015, in its role under that Act; and
       (xb) the Charter Schools Authorisation Board established under section 212A of the Education and Training Act 2020; and
+      (xc) the Federation of Polytechnics Committee established under section 325 of the Education and Training Act 2020; and
+      (xd) an industry skills board established under section 362 of the Education and Training Act 2020; and
       (xi) any person or class of persons declared by an Order in Council made under section 5(1)﻿(a)﻿(i) to be a public office for the purposes of this Act
   - **public record** —
     (a) means a record or a class of records, in any form, in whole or in part, created or received (whether before or after the commencement of this Act) by a public office in the conduct of its affairs; and
