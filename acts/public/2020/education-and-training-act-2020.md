@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-10-22_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -122,13 +122,13 @@ The purpose of this Act is to establish and regulate an education system that—
     (iii) achieving equitable outcomes for Māori students; and
   (e) subpart 6 of Part 3, which provides for the establishment and operation of Kura Kaupapa Māori, Te Aho Matua, and te kaitiaki o Te Aho Matua; and
   (f) subpart 3 of Part 4 and Part 4A, which provide for the establishment and operation of wānanga; and
-  (g) clause 4(b) and (d) of Schedule 13, which provides that Te Pūkenga—New Zealand Institute of Skills and Technology must operate in a way that allows it to develop meaningful partnerships with Māori employers and communities and to reflect Māori-Crown partnerships to ensure that its governance, management, and operations give effect to Te Tiriti o Waitangi and to respond to the needs of, and improve outcomes for, Māori learners, whānau, hapū, and iwi.
+  (g) section 321(c), which provides that the council of a polytechnic must ensure that the polytechnic operates in a way that allows the polytechnic to develop meaningful relationships and engage with communities at a local level, including with Māori employers and hapū and iwi.
 (2) Other provisions related to Te Tiriti o Waitangi in the context of the regulation of the education system include—
   (a) the definition of school community in section 10(1), which includes a Māori community associated with a school; and
   (b) section 17(2)﻿(a), which provides that before the Minister may grant approval to apply for an early childhood service, the Minister must take into account the availability of services in the area with different offerings, for example, the provision of te reo Māori; and
-  (c) sections 278(2)﻿(a), 320(1)﻿(c), 325(1) and (3), 326(2), and 363(3)﻿(b), which provide for Māori contribution to decision making in tertiary education and vocational education and training; and
+  (c) section 278(2)﻿(a), which provides for Māori contribution to decision making in tertiary education and vocational education and training; and
   (d) section 281(1)﻿(b), which provides that councils of institutions have a duty, in the performance of their functions and the exercise of their powers, to acknowledge the principles of Te Tiriti o Waitangi; and
-  (e) section 315(f), which provides that one of the functions of Te Pūkenga—New Zealand Institute of Skills and Technology is to improve outcomes for Māori learners and Māori communities in collaboration with Māori and iwi partners and interested persons or bodies; and
+  (e) section 314(d), which provides that one of the characteristics of polytechnics is that they improve outcomes for Māori students and trainees and Māori communities in collaboration with Māori and iwi and interested persons or bodies; and
   (f) section 402, which provides that TEC comprises members appointed in accordance with section 28(1)﻿(a) of the Crown Entities Act 2004 after consultation with the Minister for Māori Development; and
   (g) section 476(4)﻿(b)﻿(v), which provides that when considering whether to appoint a person as a member of the Teaching Council, the Minister must have regard to the collective skills, experience, and knowledge making up the overall composition of the Teaching Council, including understanding of the partnership principles of Te Tiriti o Waitangi; and
   (ga) section 535B, which provides for how a code administrator must exercise and perform its functions, powers, and duties in relation to Te Tiriti o Waitangi; and
@@ -144,6 +144,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **adult student** means a student who is aged 20 years or over
   - **affected student** means a student who is required to attend school in accordance with a multiple timetable arrangement
   - **allowance** includes a bursary, a grant, and a scholarship
+  - **anchor polytechnic** means a polytechnic that is specified to be an anchor polytechnic by an Order in Council made under section 315
   - **applicable organisation** means an organisation that provides an applicable service
   - **applicable person** , in relation to an applicable organisation, means any body or person who administers, controls, governs, manages, operates, or owns the organisation
   - **applicable service** means an education service to which any of sections 462(1), 463, 464, 465, 622, and 624 apply
@@ -204,9 +205,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **contract of enrolment** , in relation to an international student, means a written contract entered into between the student (or a parent of the student if the student is under the age of 18 years) and the board of a State school or a sponsor that entitles the student to receive tuition at the school
   - **contributing school** means a school that offers education to students in years 1 to 6
   - **converting school** means a State school that proposes to convert to a charter school
-  - **council** ,—
-    (a) in relation to an institution other than Te Pūkenga—New Zealand Institute of Skills and Technology, means the body that governs the institution in accordance with section 271:
-    (b) in relation to Te Pūkenga—New Zealand Institute of Skills and Technology, means Te Pūkenga—New Zealand Institute of Skills and Technology’s council members appointed under section 320
+  - **council** , in relation to an institution, means the body that governs the institution in accordance with section 271
   - **Crown agent** has the same meaning as in section 10(1) of the Crown Entities Act 2004
   - **Crown entity group** has the meaning given by section 136(1) of the Crown Entities Act 2004
   - **deputy chief referee** means a person appointed as a deputy chief referee under section 219(3)
@@ -272,6 +271,8 @@ The purpose of this Act is to establish and regulate an education system that—
   - **enrol** includes admit, and and have corresponding meanings
   - **enrolment scheme** means a scheme developed and implemented (and not since abandoned) under this Act or regulations made under this Act
   - **equal employment opportunities programme** means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality with respect to the employment of any persons or group of persons
+  - **Federation of Polytechnics Committee** or means the board established under section 325
+  - **federation polytechnic** means a polytechnic that is a member of the federation of polytechnics that is not an anchor polytechnic
   - **financial product** has the meaning given by section 7 of the Financial Markets Conduct Act 2013
   - **financial year** ,—
     (a) in relation to a school, means a year ending with 31 December:
@@ -314,9 +315,10 @@ The purpose of this Act is to establish and regulate an education system that—
   - **industry** means 2 or more enterprises that use—
     (a) the same or similar inputs and methods of production to produce the same or similar products; or
     (b) the same or similar methods to provide the same or similar services
+  - **industry skills board** means an industry skills board established under section 362
   - **initial teacher education programme** means a training programme recognised by the Teaching Council as suitable for people who want to teach
   - **institution** means—
-    (a) Te Pūkenga—New Zealand Institute of Skills and Technology (including, as the case requires, its subsidiaries that provide education or training, or both):
+    (a) a polytechnic:
     (b) a university:
     (c) a wānanga
   - **integration** means the conditions and procedures on and by which a private school may become established as part of the State system of education, and may remain part of that system, on a basis that preserves and safeguards the special character of the education that the school provides, and has a corresponding meaning
@@ -375,6 +377,7 @@ The purpose of this Act is to establish and regulate an education system that—
     (a) no child attends for more than 4 hours on any day; and
     (b) more than half of the children attending on any occasion have a parent or caregiver present in the same play area at the same time; and
     (c) the total number of children attending on any occasion is not greater than 4 times the number of parents and caregivers present in the same play area at the same time
+  - **polytechnic** means an institution established under section 315
   - **practising certificate** means a certificate issued under clause 10(2) or (6) of Schedule 3
   - **prescribed** means prescribed by this Act or by regulations made under this Act
   - **prescribed quality assurance requirements** means the quality assurance requirements prescribed by NZQA under section 452(1)﻿(i)
@@ -388,7 +391,7 @@ The purpose of this Act is to establish and regulate an education system that—
     (a) the principal:
     (b) in the case of an early childhood service, the professional leader of the service:
     (c) in the case of any other educational institution, the chief executive or person occupying an equivalent position
-  - **programme** , in relation to an institution within the meaning of section 10(5)﻿(a), means a programme of study or training that leads to a qualification listed on the Qualifications and Credentials Framework
+  - **programme** , in relation to an institution within the meaning of section 10(5), means a programme of study or training that leads to a qualification listed on the Qualifications and Credentials Framework
   - **property** means real and personal property of every description
   - **proprietor** means the body corporate that—
     (a) has the primary responsibility for determining the special character of a private school or State integrated school and for supervising the maintenance of that special character; and
@@ -435,6 +438,10 @@ The purpose of this Act is to establish and regulate an education system that—
     (c) a private school, except a school registered as a primary school only; or
     (d) a specialist school; or
     (e) a charter school
+  - **relevant services** includes—
+    (a) the design, development, or delivery of micro-credentials and programmes of study or training, including teaching and study materials, and the assessment against skill standards; and
+    (b) the development and ongoing operation of a quality management system, including monitoring programme delivery and moderating assessments; and
+    (c) the provision of shared administration services and information systems for 2 or more federation polytechnics (including, without limitation, student management and learning management systems, contract procurement, human resources, finance, and accounting systems)
   - **relieving teacher** means a teacher employed by a board to undertake some or all of the duties of a regular teacher who, at that time, is absent from work but remains employed (on salary) by the board
   - **review officer** means a person designated under section 465, and includes the Chief Review Officer
   - **school community** , in relation to a school, means—
@@ -489,7 +496,7 @@ The purpose of this Act is to establish and regulate an education system that—
       (iii) to which entry is determined by an organisation or process that is independent of the school
   - **special service** means a service established under section 197 as a special service
   - **specialist school** means a school that offers special education to students in any of years 1 to 13
-  - **specified industries** , in relation to a workforce development council, means the 1 or more specified industries covered by the workforce development council
+  - **specified industries** , in relation to an industry skills board, means the 1 or more specified industries covered by the industry skills board
   - **specified user** means—
     (a) an education provider (as defined in clause 1 of Schedule 24); and
     (b) the Ministry; and
@@ -508,8 +515,6 @@ The purpose of this Act is to establish and regulate an education system that—
     (c) intends to be, or is in the process of being, enrolled by the provider or signatory provider as a domestic tertiary student or an international student
   - **Te Aho Matua** means a statement that sets out an approach to teaching and learning that applies to schools designated under section 201
   - **te kaitiaki o Te Aho Matua** means the body commonly known as Te Rūnanga Nui o Nga Kura Kaupapa Māori o Aotearoa, being the most suitable to be responsible for determining the content of Te Aho Matua and for ensuring that it is not changed to the detriment of Māori
-  - **Te Pūkenga—New Zealand Institute of Skills and Technology** means the institute continued by section 314
-  - **Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary** means a Crown entity subsidiary of Te Pūkenga—New Zealand Institute of Skills and Technology
   - **Te Tauihu o Ngā Wānanga** means the body incorporated as Te Tauihu o Ngā Wānanga Incorporated, or its successor, to represent the collective interests of wānanga established under this Act
   - **teacher** includes—
     (a) a registered teacher; and
@@ -533,7 +538,7 @@ The purpose of this Act is to establish and regulate an education system that—
     (b) may include work experience (other than work experience obtained by a student under section 53) as part of the programme that is approved by the provider of the secondary or tertiary component of the programme
   - **tertiary education organisation** means—
     (a) a tertiary education provider:
-    (b) a workforce development council:
+    (b) an industry skills board:
     (c) an individual or body that—
       (i) provides tertiary education-related services; and
       (ii) is identified as a tertiary education organisation by the Minister by notice (see subsections (11) and (12))
@@ -545,7 +550,9 @@ The purpose of this Act is to establish and regulate an education system that—
   - **trainee** —
     (a) means an employee who has a training agreement; and
     (b) includes an apprentice
-  - **training agreement** means an agreement between an employer and an employee that relates to the employee’s receipt of, or provides for the employee to receive, vocational education and training (whether provided by the employer or some other person)
+  - **training agreement** means an agreement between an employer and an employee that relates to the employee’s receipt of, or provides for the employee to receive, vocational education and training (whether provided by the employer or some other person), and that sets out—
+    (a) the responsibilities of the employer and employee under the training agreement; and
+    (b) the responsibilities and activities of a provider and an industry skills board (if applicable) in relation to the training specified in the training agreement
   - **university** means an institution established as a university under section 268(1)
   - **unsupervised access** , in relation to children at a licensed early childhood service or students at a school, means access to any child that is not access by, or supervised by, or otherwise observed by, or able to be directed (if necessary) by, any 1 or more of the following:
     (a) a registered teacher or holder of a limited authority to teach:
@@ -567,8 +574,7 @@ The purpose of this Act is to establish and regulate an education system that—
     (b) after the commencement of Part 4A, under that Part
   - **work-based training** means systematic training and assessment (including apprenticeship training) in the skills characteristic of, or likely to be valuable to, persons engaged in an industry (or 2 or more industries) that is provided to persons engaged in that industry (or those industries)—
     (a) by or on behalf of employers in that industry (or those industries); or
-    (b) for the benefit of employers and employees in that industry (or those industries)
-  - **workforce development council** means a workforce development council established under section 363.
+    (b) for the benefit of employers and employees in that industry (or those industries).
 (2) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence class visa granted under the Immigration Act 2009 must satisfy in order to fulfil the requirements of paragraph (b) of the definition of domestic student or paragraph (a)﻿(ii) of the definition of domestic tertiary student in subsection (1).
 (3) Regulations under subsection (2) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 (3A)
@@ -577,8 +583,8 @@ The purpose of this Act is to establish and regulate an education system that—
   (b) usually spends approximately equal time in 2 or more households; or
   (c) does not usually live in a household.
 (4A) For the purposes of Part 4A and Part 5 of Schedule 1, iwi or Māori includes an organisation, an entity, or a body authorised to act on behalf of the iwi or Māori constituency concerned.
-(5) For the purposes of subpart 2 of Part 5 (apart from section 456), the definition of institution in subsection (1) includes any government training establishment, registered establishment, relevant school, workforce development council, or other body, except that—
-  (a) a workforce development council is not an institution for the purposes of the following sections:
+(5) For the purposes of subpart 2 of Part 5 (apart from section 456), the definition of institution in subsection (1) includes any government training establishment, registered establishment, relevant school, industry skills board, or other body, except that—
+  (a) an industry skills board is not an institution for the purposes of the following sections:
     (i) sections 439 to 444:
     (ii) sections 446A and 446B:
     (iii) sections 449 to 451:
@@ -3291,7 +3297,7 @@ A fine recovered under section 243 or 244 must be paid to the board or sponsor o
 (2) Subpart 1 deals with various preliminary matters.
 (3) Subpart 2 concerns teaching, learning, and well-being.
 (4) Subpart 3 concerns the administration of tertiary institutions.
-(5) Subpart 4 concerns the Te Pūkenga—New Zealand Institute of Skills and Technology.
+(5) Subpart 4 concerns polytechnics.
 (6) Subpart 5 concerns private training establishments.
 (7) Subpart 6 concerns work-based training.
 (8) Subpart 7 sets out several offence provisions.
@@ -3405,7 +3411,7 @@ An institution must ensure that prospective students receive, before enrolment i
   (a) must be in writing and set out the reasons for giving the direction:
   (b) may be exercised only in relation to a programme of study or training as a whole and may not be exercised in relation to any particular subjects or other constituent elements of a programme of study or training.
 (4) An institution's council must comply with a direction given to it.
-(5) This section applies to Te Pūkenga—New Zealand Institute of Skills and Technology’s council subject to section 318(6).
+(5)
 
 **Students association**
 
@@ -3457,8 +3463,8 @@ Sections 261 to 264 apply to private training establishments as if—
 ### 266 Object
 The object of the provisions of this Act relating to institutions, including those established under Part 4A, is to give them as much independence and freedom to make academic, operational, and management decisions as is consistent with the nature of the services they provide, the efficient use of national resources, the national interest, and the demands of accountability.
 
-### 267 Academic freedom and institutional autonomy of institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology)
-(1) It is the intention of Parliament in enacting the provisions of this Act relating to universities and wānanga that academic freedom and the autonomy of those institutions are preserved and enhanced.
+### 267 Academic freedom and institutional autonomy of institutions
+(1) It is the intention of Parliament in enacting the provisions of this Act relating to universities, polytechnics, and wānanga that academic freedom and the autonomy of those institutions are preserved and enhanced.
 (2) In exercising their academic freedom and autonomy, institutions must act in a manner that is consistent with—
   (a) the need for institutions to maintain the highest ethical standards and the need to permit public scrutiny to ensure the maintenance of those standards; and
   (b) the need for institutions to be accountable and make proper use of resources allocated to them.
@@ -3469,7 +3475,9 @@ The object of the provisions of this Act relating to institutions, including tho
   (c) the freedom of the institution and its staff to regulate the subject matter of courses taught at the institution:
   (d) the freedom of the institution and its staff to teach and assess students in the manner that they consider best promotes learning:
   (e) the freedom of the institution through its chief executive to appoint its own staff.
-(5) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology (for which section 318 provides).
+(5) To avoid doubt,—
+  (a) nothing in subsection (4) limits or affects an industry skills board performing its functions of developing and maintaining standards, qualifications, micro-credentials, and capstone assessments for vocational education and training; and
+  (b) the performance of those functions by the industry skills board does not limit or affect the academic freedom of an institution as set out in subsection (4)﻿(a), (b), or (e).
 
 ### 268 Establishment of institutions
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, establish an institution.
@@ -3493,9 +3501,11 @@ The object of the provisions of this Act relating to institutions, including tho
 (5) The university must give written notice to the Minister of the proposed name change.
 (6) If notice is given, the Minister must present the proposal to the House of Representatives.
 (7) If the House of Representatives, by resolution, accepts the proposed name change, the Minister must change the name of the university by notice published in the Gazette.
+(8) This section does not apply to a polytechnic (for which section 315 provides).
 
 ### 269 Constitution of institutions
-An Order in Council establishing an institution must make provision for determining the people who are to constitute the institution.
+(1) An Order in Council establishing an institution must make provision for determining the people who are to constitute the institution.
+(2) This section does not apply to a polytechnic.
 
 ### 270 Disestablishment of institutions
 (1) The Governor-General may, by Order in Council made on recommendation of the Minister, disestablish an institution.
@@ -3515,13 +3525,12 @@ An Order in Council establishing an institution must make provision for determin
   (c) consider any submissions made within a reasonable period in response to the notices.
 (6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (6A) When the order is presented to the House of Representatives (as required by the Legislation Act 2019) it must be accompanied by a statement of the reasons for the making of the order.
-(7) To avoid doubt, nothing in this section applies to Te Pūkenga—New Zealand Institute of Skills and Technology.
+(7)
 
 **Councils**
 
 ### 271 Institutions to be governed by councils
-Te Pūkenga—New Zealand Institute of Skills and Technology
-(1) The governing body of Te Pūkenga—New Zealand Institute of Skills and Technology is its council, the members of which are appointed under section 320.
+(1)
 Wānanga
 (2) The governing body of a wānanga that is a Crown entity is its council constituted in accordance with—
   (a) this Part; or
@@ -3537,10 +3546,10 @@ References to, and actions of, councils
 (6) Subject to section 283(2), all acts or things done in the name of, or on behalf of, an institution with the authority of, or of a delegate of, the council or the chief executive are to be treated as being done by the institution.
 Further provisions relating to councils
 (7) Part 4A provides for the constitution, appointment, and operation of councils of certain wānanga, and for related matters.
-(8) Schedule 11 provides for the constitution, appointment, and operation of councils of Te Pūkenga—New Zealand Institute of Skills and Technology and other institutions, and for related matters.
+(8) Schedule 11 provides for the constitution, appointment, and operation of councils of institutions and related matters.
 
 ### 272 Incorporation
-(1) Each university or wānanga established under section 268, Te Pūkenga—New Zealand Institute of Skills and Technology as continued by section 314, and each wānanga established under Part 4A, is a body corporate with perpetual succession and is capable of—
+(1) Each university or wānanga established under section 268, each polytechnic established under section 315, and each wānanga established under Part 4A is a body corporate with perpetual succession and is capable of—
   (a) holding real and personal property; and
   (b) suing and being sued; and
   (c) otherwise doing and suffering all that bodies corporate may do and suffer.
@@ -3553,7 +3562,7 @@ Further provisions relating to councils
   (b) specify the type or class of documents that may be executed only by affixing the common seal to them; and
   (c) specify any member or members of the council, and any member or members of the staff of the institution, who may countersign documents (or a specified type or class of documents) to which the common seal is affixed.
 (3) All courts and persons acting judicially must take judicial notice of an institution’s common seal.
-(4) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology or its subsidiaries.
+(4)
 
 ### 274 Method of contracting
 (1) An institution may enter into a contract or other enforceable obligation as provided in this section.
@@ -3563,11 +3572,11 @@ Further provisions relating to councils
 (5) This section applies to a contract or other enforceable obligation,—
   (a) whether or not that obligation was entered into in New Zealand; and
   (b) whether or not the law governing that obligation is the law of New Zealand.
-(6) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology or its subsidiaries.
+(6)
 
 ### 275 Constitution to provide for membership of council
 (1) The constitution of a council must provide that it has 8, 9, 10, 11, or 12 members.
-(2) Subsection (1) does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 320 provides).
+(2) This section does not apply to a polytechnic (for which section 316 provides).
 
 ### 276 Membership of council
 (1) An institution’s council must have a total of 8, 9, 10, 11, or 12 council members, as provided in its constitution, comprising—
@@ -3575,7 +3584,7 @@ Further provisions relating to councils
     (i) 4 members (for a council comprising 10, 11, or 12 members):
     (ii) 3 members (for a council comprising 8 or 9 members); and
   (b) enough members appointed by the council by resolution, in accordance with its statutes, to bring the membership up to that total number.
-(2) Subsection (1) does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 320 provides).
+(2) This section does not apply to a polytechnic (for which section 317 provides).
 
 ### 277 Certain people disqualified from appointment
 (1) A person may not be appointed as a council member if the person—
@@ -3587,7 +3596,7 @@ Further provisions relating to councils
   (d) is a bankrupt—
     (i) who has not obtained an order of discharge; or
     (ii) whose order of discharge has been suspended for a term not yet expired or is subject to conditions not yet fulfilled.
-(2) Subsection (1) does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 320(2) provides).
+(2)
 
 ### 278 Matters to be considered when appointing council members
 (1) An institution’s council should, as far as is reasonably practicable, reflect—
@@ -3614,7 +3623,7 @@ Further provisions relating to councils
   (a) the permanent members of the teaching or general staff of the institution; or
   (b) the students of the institution.
 (7) Before making an appointment under this section, the Minister must seek, and consider, nominations from the relevant council.
-(8) This section does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 321 provides).
+(8) This section does not apply to a polytechnic (for which section 318 provides).
 
 ### 279 Statutes relating to appointment of members by councils of institutions
 (1) An institution’s council may make statutes relating to the appointment of members under section 276(1)﻿(b).
@@ -3635,7 +3644,7 @@ Further provisions relating to councils
     (ii) is likely to be able to fulfil the person’s individual duties to the council; and
     (iii) together with the other members of the council, is capable of undertaking its responsibilities, functions, and duties.
 (5) Subsections (2) to (4) do not limit section 284.
-(6) This section does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(6) This section does not apply to a polytechnic (for which section 320 provides).
 
 **Functions and duties of councils**
 
@@ -3657,7 +3666,7 @@ The functions of an institution’s council are—
   (d) to ensure that the institution does not discriminate unfairly against any person:
   (e) to ensure that the institution operates in a financially responsible manner that ensures the efficient use of resources and maintains the institution’s long-term viability:
   (f) to ensure that proper standards of integrity, conduct, and concern for the public interest and the well-being of students attending the institution are maintained.
-(2) In addition, Te Pūkenga—New Zealand Institute of Skills and Technology’s council must comply with section 97 of the Crown Entities Act 2004 in respect of its subsidiaries.
+(2) In addition, a polytechnic’s council must comply with the additional duties set out in section 321.
 
 **Powers of institutions and councils**
 
@@ -3708,12 +3717,12 @@ The functions of an institution’s council are—
   (i) to prescribe fees payable by students of the institution or any of them:
   (j) to establish bodies within the institution to give advice to the council:
   (k) to do anything incidental to the exercise of any of the preceding powers.
-(3) Subsection (2)﻿(e) and (f) does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(3)
 (4) An institution’s council has the power to appoint committees consisting of the persons, whether or not members of the council, that the council determines to exercise the powers that are delegated to them under section 285 and the powers that are conferred on them by statutes made by the council, and to alter, discharge, and reconstitute committees so appointed.
 
 ### 284 Statutes
 (1) An institution’s council may make statutes, not inconsistent with this Act or the Public Service Act 2020, in relation to any of the following matters:
-  (a) the good government and discipline of the institution and the board of an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
+  (a) the good government and discipline of the institution:
   (b) the imposition, by or on behalf of the council, of penalties upon staff or students of the institution for a contravention of or a failure to comply with a statute with respect to a matter referred to in paragraph (a):
   (c) subject to sections 255, 256, 258, 260, 309, 310, 386, 525, and 526, and clause 8 of Schedule 9, the enrolment of persons in courses of study or training of the institution or the admission of persons to examinations of the institution:
   (d) subject to sections 255, 256, 258, 260, 309, 310, 386, 525, and 526, and clause 8 of Schedule 9, the courses of study and training of the institution:
@@ -3722,7 +3731,7 @@ The functions of an institution’s council are—
   (g) the provision of superannuation or retirement benefits for, or in respect of, the chief executive or members of the staff of the institution:
   (h) any of the matters stated in section 279:
   (i) any other matter required or permitted by this Act to be provided for by statutes.
-(2) Subsection (1)﻿(h) does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council or the board of an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(2) This section does not apply to a polytechnic (for which section 320 provides).
 (3) If an institution’s council makes a statute under subsection (1)﻿(b) providing for the imposition of penalties upon staff or students of the institution, the statute must provide for the council, if so requested by a member of the staff or a student upon whom a penalty is imposed, to review, or arrange for the review of, the amount of the penalty, the imposition of the penalty, or both.
 
 ### 285 Delegation of council’s functions and powers
@@ -3737,7 +3746,7 @@ The functions of an institution’s council are—
 (5) This section applies to the academic committee of an institution (established under clause 18(2) of Schedule 11) as if—
   (a) it were a committee of the institution's council; and
   (b) all its powers were powers of the council, conferred on the committee by the council by delegation.
-(6) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(6)
 
 ### 286 Further provisions relating to delegation
 (1) A delegation under section 285—
@@ -3757,11 +3766,11 @@ Subdelegation
 
 **Institutions at risk**
 
-### 287 Criteria for risk assessment of institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology)
+### 287 Criteria for risk assessment of institutions
 (1) The Secretary must, after consulting institution councils, determine criteria for assessing the level of risk to the operation and long-term viability of institutions.
 (2) The Secretary must publish criteria determined under subsection (1) in the Gazette.
 (3) Criteria determined under this section must be reviewed at least once in every 2 years following the date of their publication.
-(4) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 329 provides).
+(4) This section does not apply to a polytechnic (for which section 341H provides).
 
 ### 288 Institutions to provide information to TEC if required
 (1) The chief executive of TEC may, if the chief executive has reasonable grounds to believe that an institution may be at risk, by written notice to the institution’s council, require the council to provide either or both of the following:
@@ -3770,7 +3779,7 @@ Subdelegation
 (2) If the chief executive of TEC requires information under subsection (1), the information required must relate to the risks to the institution that the chief executive is concerned about.
 (3) A council that receives a notice under subsection (1) must provide the chief executive of TEC with the required information within or at the time or times specified in the notice.
 (4) The chief executive of TEC may revoke or amend any notice given under subsection (1).
-(5) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 330 provides).
+(5) This section does not apply to a polytechnic (for which section 341I provides).
 
 **Interventions**
 
@@ -3789,7 +3798,7 @@ Subdelegation
 (6) A Crown observer is not a member of the council or any council committee and may not—
   (a) vote on any matter; or
   (b) exercise any of the powers, or perform any of the functions or duties, of a council member.
-(7) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology or its subsidiaries (for which section 331 provides).
+(7) This section does not apply to a polytechnic (for which section 341J provides).
 
 ### 290 Minister may dissolve council and appoint commissioner
 (1) The Minister may, by notice in the Gazette, dissolve an institution’s council and appoint a commissioner to act in place of the council if the Minister believes on reasonable grounds that—
@@ -3810,7 +3819,7 @@ Subdelegation
 (6) When a commissioner is appointed under this section, the Minister must review the appointment at least once in every 12 months following the appointment.
 (7) As soon as the Minister is satisfied (following an annual review or at any other time) that the risk that gave rise to the appointment of the commissioner has reduced enough so that it is appropriate that the institution be administered by a council, a new council must be appointed in accordance with the constitution of the council most recently notified in the Gazette.
 (8) A commissioner's appointment ends on the close of the day before a new council takes office.
-(9) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology or its subsidiaries (for which section 337 provides).
+(9) This section does not apply to a polytechnic (for which section 341P provides).
 
 ### 291 Personal liability of commissioners
 A commissioner appointed under section 290 is not personally liable for an act the commissioner has done or omitted to do, or for any loss arising from that act or omission, if the commissioner was acting—
@@ -3870,7 +3879,7 @@ Subdelegation
 (1) An institution’s council may establish, maintain, and operate bank accounts in the name of the institution at any registered bank or any registered building society with which a Crown entity may establish, maintain, or operate a bank account under section 158 of the Crown Entities Act 2004.
 (2) As soon as practicable after receiving any money, the council must pay it into one of the institution’s bank accounts.
 (3) The council must properly authorise every withdrawal and payment of money from any of the institution's bank accounts.
-(4) This section does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(4)
 
 ### 298 Proper accounts to be kept
 Section 168(1) and (2) of the Crown Entities Act 2004 applies to an institution’s council.
@@ -4023,305 +4032,452 @@ The Vice-Chancellors Committee has—
   (a) the powers given to it under this Act or any other enactment; and
   (b) all other powers reasonably necessary to enable it to perform its functions efficiently and effectively.
 
-### Subpart 4 — Te Pūkenga—New Zealand Institute of Skills and Technology
+### Subpart 4 — Polytechnics
 
-### 314 Te Pūkenga—New Zealand Institute of Skills and Technology continued
-(1) This section continues the Te Pūkenga—New Zealand Institute of Skills and Technology as an institution.
-(2) The Governor-General may, by Order in Council made on the recommendation of the Minister given after receiving a recommendation from Te Pūkenga—New Zealand Institute of Skills and Technology’s council, do either or both of the following:
-  (a) change the name of Te Pūkenga—New Zealand Institute of Skills and Technology:
-  (b) amend this Act or any other enactment by omitting from it the name of Te Pūkenga—New Zealand Institute of Skills and Technology and substituting some other name.
-(3) To avoid doubt, Te Pūkenga—New Zealand Institute of Skills and Technology does not cease to be an institution merely because its name is changed under subsection (2).
-(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+**Establishment and administration of polytechnics**
 
-### 315 Functions of Te Pūkenga—New Zealand Institute of Skills and Technology
-Te Pūkenga—New Zealand Institute of Skills and Technology has the following functions:
-  (a) to provide or arrange, and support, a variety of education and training, including vocational, foundation, and degree-level or higher education and training:
-  (b) to conduct research, with a focus on applied and technological research:
-  (c) to be responsive to and to meet the needs of the regions of New Zealand and their learners, industries, employers, and communities by utilising Te Pūkenga—New Zealand Institute of Skills and Technology’s national network of tertiary education programmes and activities:
-  (d) to improve the consistency of vocational education and training by using skill standards and working in collaboration with workforce development councils:
-  (e) to improve outcomes in the tertiary education system as a whole, including (without limitation) by making connections with schools and other organisations involved in tertiary education and by promoting and supporting life-long learning:
-  (f) to improve outcomes for Māori learners and Māori communities in collaboration with Māori and iwi partners, hapū, and interested persons or bodies:
-  (g) to carry out any other functions consistent with its role as a tertiary education institution.
+### 314 Characteristics of polytechnics
+Polytechnics are institutions that have the following characteristics:
+  (a) they offer a wide diversity of continuing education that contributes to the maintenance, advancement, and dissemination of knowledge and expertise and promotes community learning; and
+  (b) they are predominantly involved in providing continuing education that responds to the education and training needs of local communities and industries in their regions; and
+  (c) they undertake research, particularly applied and technological research; and
+  (d) they improve outcomes for Māori students and trainees and Māori communities in collaboration with Māori and iwi and other interested persons or bodies.
 
-### 316 Te Pūkenga—New Zealand Institute of Skills and Technology’s charter
-(1) Te Pūkenga—New Zealand Institute of Skills and Technology must give effect to its charter as set out in Schedule 13.
-(2) Te Pūkenga—New Zealand Institute of Skills and Technology must report in its annual report on how it has given effect to the charter.
-(3) The duty in subsection (1) is owed to the Minister.
+### 315 Establishment of polytechnics
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, establish a polytechnic.
+(2) Before making a recommendation, the Minister must—
+  (a) seek advice from NZQA on quality assurance matters and consider any advice given; and
+  (b) consult other persons or bodies that the Minister thinks fit; and
+  (c) take into account the characteristics of a polytechnic; and
+  (d) be satisfied that the establishment of the polytechnic is in the interests of the tertiary education system and the nation as a whole.
+(3) An order may specify whether the polytechnic is an anchor polytechnic.
+(4) Before recommending that a polytechnic be specified as an anchor polytechnic, the Minister must be satisfied that the polytechnic is able to perform the role of an anchor polytechnic specified in section 337.
+(5) A polytechnic established under this section must comply with the provisions of the order that establishes it.
+(6) An order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 317 Minister may specify administrative regions for Te Pūkenga—New Zealand Institute of Skills and Technology
-The Minister may, by notice in the Gazette, specify administrative regions of government with which Te Pūkenga—New Zealand Institute of Skills and Technology must make arrangements to operate effectively.
+### 316 Constitutions of councils of polytechnics must specify number of council members
+The constitution of the council of a polytechnic must specify that it has a council with 6, 7, or 8 members.
 
-### 318 Academic freedom of Te Pūkenga—New Zealand Institute of Skills and Technology
-(1) It is the intention of Parliament in enacting the provisions of this Act relating to Te Pūkenga—New Zealand Institute of Skills and Technology that Te Pūkenga—New Zealand Institute of Skills and Technology’s academic freedom is preserved and enhanced.
-(2) Te Pūkenga—New Zealand Institute of Skills and Technology’s academic freedom also applies in relation to every Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary that provides education or training, or both.
-(3) In this section, academic freedom, in relation to Te Pūkenga—New Zealand Institute of Skills and Technology, means—
-  (a) the freedom of academic staff and students, within the law, to question and test received wisdom, to put forward new ideas, and to state controversial or unpopular opinions:
-  (b) the freedom of academic staff and students to engage in research:
-  (c) the freedom of Te Pūkenga—New Zealand Institute of Skills and Technology and its staff to regulate the subject matter of its courses:
-  (d) the freedom of Te Pūkenga—New Zealand Institute of Skills and Technology and its staff to teach and assess students in the manner that they consider best promotes learning:
-  (e) the freedom of Te Pūkenga—New Zealand Institute of Skills and Technology through its chief executive to appoint its own staff.
-(4) In exercising academic freedom, Te Pūkenga—New Zealand Institute of Skills and Technology must act in a manner that is consistent with—
-  (a) the need for institutions to maintain the highest ethical standards and the need to permit public scrutiny to ensure the maintenance of those standards; and
-  (b) the need for institutions to be accountable and to properly use resources allocated to them.
-(5) In performing their functions, Te Pūkenga—New Zealand Institute of Skills and Technology’s council and its chief executive, Ministers, departments of State, authorities, and agencies of the Crown must act in all respects to give effect to the intention of Parliament as expressed in this section.
-(6) To avoid doubt,—
-  (a) nothing in subsection (3) limits or affects a workforce development council performing its functions under section 366(1)﻿(b) to (f); and
-  (b) the performance of those functions by the workforce development council does not limit or affect the academic freedom of Te Pūkenga—New Zealand Institute of Skills and Technology as set out in subsection (3)﻿(a), (b), or (e).
+### 317 Membership of polytechnic’s council
+The membership of a polytechnic’s council must have—
+  (a) the following number of members appointed by the Minister by written notice to the council:
+    (i) 4 members in the case of a council comprising 7 or 8 members:
+    (ii) 3 members in the case of a council comprising 6 members; and
+  (b) enough members appointed directly by the council by resolution to bring the membership up to the total number specified in its constitution.
 
-### 319 Te Pūkenga—New Zealand Institute of Skills and Technology must establish regional divisions
-(1) Te Pūkenga—New Zealand Institute of Skills and Technology must establish regional divisions for the purposes of—
-  (a) appointing members to a staff committee or a students’ committee established under section 325:
-  (b) appointing directors to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
-(2) Te Pūkenga—New Zealand Institute of Skills and Technology may make statutes for the purposes of subsection (1).
+### 318 Matters to be considered when appointing members of polytechnic’s council
+(1) The council of a polytechnic should, as far as is reasonably practicable, reflect the communities in the region that the polytechnic serves.
+(2) When appointing council members, the Minister or council must—
+  (a) have regard to subsection (1); and
+  (b) appoint people who (in the Minister’s or council’s opinion)—
+    (i) have relevant knowledge, skills, and experience in relation to governance; and
+    (ii) are likely to be able to fulfil their individual duties to the council; and
+    (iii) are, together with the other members of the council, capable of undertaking the council’s responsibilities, duties, and functions.
+
+### 319 Chairperson and deputy chairperson
+(1) The Minister may appoint a chairperson and deputy chairperson of the council of a polytechnic from among its members by giving written notice to the member concerned stating the term for which the member is appointed as chairperson or deputy chairperson.
+(2) The Minister may, by written notice to the member concerned, dismiss the chairperson or deputy chairperson from office as chairperson or deputy chairperson.
+(3) However, the Minister may not dismiss the chairperson or deputy chairperson without first consulting them about the proposed dismissal.
+(4) The chairperson or deputy chairperson—
+  (a) may resign as chairperson or deputy chairperson by giving written notice to the Minister; and
+  (b) ceases to hold office if they—
+    (i) cease to be a member of the council; or
+    (ii) become the chief executive of the polytechnic or a member of the staff of the polytechnic or a subsidiary of the polytechnic; or
+    (iii) become a student enrolled at the polytechnic.
+(5) A chairperson or deputy chairperson who resigns must give a copy of the notice of resignation to the council.
+(6) The chairperson or deputy chairperson of the council holds office as chairperson or deputy chairperson for the term for which they were appointed (but may be reappointed), unless the person earlier dies, is dismissed, resigns, or ceases to hold office under subsection (4)﻿(b).
+(7) If the term of office of the chairperson or deputy chairperson expires before a successor is appointed, the chairperson or deputy chairperson continues in office until their successor is appointed.
 
 **Te Pūkenga—New Zealand Institute of Skills and Technology’s council**
 
-### 320 Membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council
-(1) Te Pūkenga—New Zealand Institute of Skills and Technology’s council must have at least 8, but not more than 12, members, as follows:
-  (a) 1 member who is a member of, and elected by, its staff committee; and
-  (b) 1 member who is a member of, and elected by, its students’ committee; and
-  (c) 1 member who is a member of, and elected by, its Māori advisory committee; and
-  (d) the rest of the members must be appointed by the Minister.
-(2) A person is not eligible for appointment under subsection (1) if—
-  (a) the person is subject to a property order under the Protection of Personal and Property Rights Act 1988; or
-  (b) a personal order has been made under that Act in respect of the person that reflects adversely on their—
-    (i) competence to manage their own affairs in relation to their property; or
-    (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of their personal care and welfare; or
-  (c) the person has been adjudicated bankrupt and has not obtained an order of discharge, or whose order of discharge has been suspended for a term that has not yet expired or is subject to any conditions that have not yet been fulfilled; or
-  (d) the person has been removed from office as a member of the council.
-(3) An act or a proceeding of Te Pūkenga—New Zealand Institute of Skills and Technology’s council, or of any member or any committee of Te Pūkenga—New Zealand Institute of Skills and Technology’s council, is not invalid because of—
-  (a) a defect in the appointment or election of a member of the council or committee; or
-  (b) a disqualification of a member of the council or committee; or
-  (c) a defect in the convening of a meeting; or
-  (d) a vacancy in the membership of the council or committee.
-(4) For the purposes of this section,—
-  (a) a person referred to in subsection (1)﻿(a) is a member of the council only while the person is a permanent member of the staff of Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
-  (b) a person referred to in subsection (1)﻿(b) is a member of the council only if the person is a student enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, but may continue to be a member of the council for a period of up to 12 months after the date on which their enrolment ends.
-(5) To avoid doubt,—
-  (a) all permanent members of Te Pūkenga—New Zealand Institute of Skills and Technology’s or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary’s staff are eligible for appointment under subsection (1)﻿(a):
-  (b) all students enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary are eligible for appointment under subsection (1)﻿(b), regardless of the delivery mode by which the student receives education or training (for example, on-campus learning, distance learning, or work-based training).
+### 320 Council statutes for appointing members of polytechnic’s council
+(1) The council of a polytechnic may make statutes relating to the appointment of members under section 317(b).
+(2) The statutes may only provide for how the council appoints members directly.
 
-### 321 Matters to be considered when Minister appoints members to Te Pūkenga—New Zealand Institute of Skills and Technology’s council
-(1) The Minister must, as far as possible, ensure that Te Pūkenga—New Zealand Institute of Skills and Technology’s council reflects—
-  (a) the ethnic, gender, and socio-economic diversity, and the diversity of abilities, of New Zealand’s population; and
-  (b) the fact that New Zealand is made up of a number of regions.
-(2) When appointing members of Te Pūkenga—New Zealand Institute of Skills and Technology’s council, the Minister must have regard to subsection (1) and must appoint people who (in the Minister’s opinion)—
-  (a) have relevant knowledge, skills, and experience in relation to governance, cultural competency, and the importance of diversity; and
-  (b) are likely to be able to fulfil their individual duties to the council; and
-  (c) together with the other members of the council, are capable of undertaking its responsibilities, duties, and functions.
-(3) A person specified in section 320(1)﻿(a) and (b) is appointed by the council in accordance with the council’s statute unless the person is ineligible for appointment under section 320(2).
+### 321 Additional duties of council of polytechnic
+When performing its functions or exercising its powers, the council of a polytechnic must—
+  (a) consider the need to collaborate with other polytechnics to use resources effectively, to avoid duplicating effort, and to identify opportunities for sharing services; and
+  (b) be responsive to industry and community needs, including skills shortages; and
+  (c) ensure that the polytechnic operates in a way that allows the polytechnic to develop meaningful relationships and to engage with communities at a local level, including industries, Māori employers, hapū and iwi, and Pacific communities.
 
-### 322 Chairperson and deputy chairperson
-(1) The Minister may appoint a chairperson and deputy chairperson of Te Pūkenga—New Zealand Institute of Skills and Technology’s council from among its members by giving written notice to the member concerned stating the term for which the member is appointed as chairperson or deputy chairperson.
-(2) The Minister may, by written notice to the member concerned, dismiss the chairperson or deputy chairperson of Te Pūkenga—New Zealand Institute of Skills and Technology’s council from office as chairperson or deputy chairperson.
-(3) However, the Minister may not dismiss the chairperson or deputy chairperson without first consulting them about the proposed dismissal.
-(4) The chairperson or deputy chairperson of Te Pūkenga—New Zealand Institute of Skills and Technology’s council—
-  (a) may resign as chairperson or deputy chairperson by giving written notice to the Minister; and
-  (b) ceases to hold office if they—
-    (i) cease to be a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council; or
-    (ii) become the chief executive of Te Pūkenga—New Zealand Institute of Skills and Technology or a member of the staff of Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; or
-    (iii) become a student enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
-(5) A chairperson or deputy chairperson who resigns must give a copy of the notice of resignation to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
-(6) The chairperson or deputy chairperson of Te Pūkenga—New Zealand Institute of Skills and Technology’s council holds office as chairperson or deputy chairperson for the term for which they were appointed (but may be reappointed), unless the person earlier dies, is dismissed, resigns, or ceases to hold office under subsection (4)﻿(b).
-(7) If the term of office of the chairperson or deputy chairperson expires before a successor is appointed, the chairperson or deputy chairperson continues in office until their successor is appointed.
+### 322 Additional requirement for councils of polytechnics to provide information
+(1) The chief executive of TEC may, by written notice to a council of a polytechnic, require the council to provide any information that the chief executive considers is reasonably required in relation to the operation of the polytechnic or any related entity of the polytechnic for the purpose of determining whether there is a risk to, or arising from,—
+  (a) the governance, management, or financial position of the polytechnic or any related entity of the polytechnic; or
+  (b) the education and training performance of students enrolled at the polytechnic or any related entity of the polytechnic.
+(2) If the council of a polytechnic receives a notice under subsection (1), it must provide the chief executive of TEC with the required information within the period specified in the notice.
+(3) The chief executive of TEC may revoke or amend a notice given under subsection (1).
 
-### 323 Term of office
-(1) A member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council is appointed for a period not exceeding 4 years.
-(2) When appointing members of Te Pūkenga—New Zealand Institute of Skills and Technology’s council under section 320(1)﻿(d), the Minister must state in the notice appointing the member—
-  (a) the day on which the member’s appointment takes effect; and
-  (b) the term for which the member is appointed.
-(3) If a member’s term of office expires before their successor is appointed, the member continues in office until their successor’s appointment takes effect.
+**Federation of polytechnics**
+
+### 323 Requirement to work in federation
+(1) This section applies to—
+  (a) each polytechnic specified under section 315(3) as an anchor polytechnic; and
+  (b) each polytechnic designated under section 339 as a federation polytechnic.
+(2) Each polytechnic to which this section applies must work together in a federation with the Federation Committee for the purposes set out in section 324.
 
 **Additional provisions applying to Te Pūkenga—New Zealand Institute of Skills and Technology’s council and subsidiaries**
 
-### 324 Determination of policy
-(1) In determining the policy of Te Pūkenga—New Zealand Institute of Skills and Technology with respect to any matter, Te Pūkenga—New Zealand Institute of Skills and Technology’s council must consult any board, committee, or other body established within Te Pūkenga—New Zealand Institute of Skills and Technology that has responsibility for giving advice in relation to, or for giving effect to, the policy of Te Pūkenga—New Zealand Institute of Skills and Technology with respect to the matter.
-(2) For the purposes of subsection (1), Te Pūkenga—New Zealand Institute of Skills and Technology’s council must establish an academic board consisting of its chief executive and members of the staff and students of Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary to—
-  (a) advise it on matters relating to work-based learning, courses of study or training, awards, and other academic matters; and
-  (b) exercise powers delegated to it by the council.
-(3) Without limiting subsection (1), Te Pūkenga—New Zealand Institute of Skills and Technology’s council may not make any decision or statute in respect of any academic matter referred to in subsection (2) unless it has requested the advice of the academic board and considered any advice given by the academic board.
-(4) However, a decision or statute made by Te Pūkenga—New Zealand Institute of Skills and Technology’s council is not invalid merely because of a failure of the council to comply with either of subsection (1) or (3).
+### 324 Purposes of federation
+The purposes of the federation of polytechnics are to—
+  (a) support and contribute to the long-term viability of the polytechnics in the federation:
+  (b) enable federated polytechnics to—
+    (i) develop, design, and deliver cost-effective education and training programmes that are consistent with the polytechnics’ characteristics:
+    (ii) access relevant services and other shared services that may be required for their effective and efficient operation or management.
 
-### 325 Te Pūkenga—New Zealand Institute of Skills and Technology’s council must establish advisory committees
-(1) Te Pūkenga—New Zealand Institute of Skills and Technology’s council must establish a staff committee, a students’ committee, and a Māori advisory committee.
-(2) Each committee established under subsection (1) must be treated as a board established by the council under section 283(2)﻿(j).
-(3) Without limiting section 324(1), Te Pūkenga—New Zealand Institute of Skills and Technology’s council must—
-  (a) consult each committee established under subsection (1) about significant matters relating to the council’s strategic direction that are relevant to the class of people represented by that committee; and
-  (b) consider any advice given on those matters or any other matters by the committee.
-(4) However, a decision or statute made by Te Pūkenga—New Zealand Institute of Skills and Technology’s council is not invalid merely because of a failure of the council to comply with subsection (3).
+### 325 Federation of Polytechnics Committee established
+(1) This section establishes the Federation of Polytechnics Committee as the administrative body of federated polytechnics.
+(2) The Federation Committee is a body corporate with perpetual succession and is capable of—
+  (a) holding real and personal property; and
+  (b) suing and being sued; and
+  (c) otherwise doing and suffering all that bodies corporate may do and suffer.
+(3) Despite subsection (2)﻿(c), the Federation Committee may not establish subsidiaries.
 
-### 326 Membership of advisory committees
-(1) When appointing members of its staff committee or its students’ committee, Te Pūkenga—New Zealand Institute of Skills and Technology’s council must ensure that—
-  (a) each committee consists of persons representing a minimum of each regional division of Te Pūkenga—New Zealand Institute of Skills and Technology established under section 319; and
-  (b) each member of the staff committee is a permanent member of the teaching or general staff of Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary whom the permanent members of the teaching and general staff of Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary have elected to represent them; and
-  (c) each member of the students’ committee is a student enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary whom the students have elected to represent them.
-(2) When appointing members of its Māori advisory committee, Te Pūkenga—New Zealand Institute of Skills and Technology’s council must determine, in consultation with its Māori and iwi partners and interested persons or bodies, the size and composition of the committee, but must ensure that the composition includes—
-  (a) representation from Te Pūkenga—New Zealand Institute of Skills and Technology or any of its subsidiaries; and
-  (b) external people.
+### 326 Membership of Federation Committee
+(1) The Federation Committee consists of—
+  (a) the chief executive of each federation polytechnic and each anchor polytechnic (or a staff member of the polytechnic that the chief executive has nominated); and
+  (b) the chairperson of the council of each federation polytechnic and each anchor polytechnic (or a member of the council that the chairperson has nominated); and
+  (c) 1 person whom the Minister has appointed to be the independent chairperson of the Federation Committee on terms the Minister has specified.
+(2) If the office of chief executive or chairperson of a federation polytechnic or an anchor polytechnic is vacant, the person acting in that office must be treated as the chief executive or chairperson of the polytechnic for the purposes of any meetings of the Federation Committee.
+(3) The Minister may—
+  (a) appoint the chairperson for a term not exceeding 4 years:
+  (b) reappoint the chairperson for 1 or more terms.
 
-### 327 Te Pūkenga—New Zealand Institute of Skills and Technology must obtain consent for certain capital projects of Te Pūkenga—New Zealand Institute of Skills and Technology or Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
-(1) A capital project may be undertaken by Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary only if—
-  (a) the cost of, or level of risk of, the project to Te Pūkenga—New Zealand Institute of Skills and Technology is below thresholds set by the Secretary under subsection (2); or
-  (b) the project is within a capital plan of Te Pūkenga—New Zealand Institute of Skills and Technology approved in writing by the Secretary; or
-  (c) Te Pūkenga—New Zealand Institute of Skills and Technology has obtained the written consent of the Secretary for the project.
-(2) The Secretary must, after consulting Te Pūkenga—New Zealand Institute of Skills and Technology, set thresholds for the purposes of subsection (1)﻿(a) and publish those thresholds on an Internet site maintained by or on behalf of the Ministry.
-(3) This section applies despite section 299 (which relates to how institutions may use income and capital).
+### 327 Functions of Federation Committee
+The functions of the Federation Committee are to—
+  (a) give effect to the purposes of the federation:
+  (b) identify, in consultation with federation polytechnics, the services, programmes, and courses that provide practical, affordable, and sustainable ways for those polytechnics to meet the education and training needs of the industries and communities that they serve:
+  (c) procure from an anchor polytechnic or another provider the relevant services and other shared services that the council of a federation polytechnic may require for the efficient administration and prudent financial management of its polytechnic:
+  (d) commission an anchor polytechnic or another provider to develop or deliver programmes of education or training that are cost-effective, sustainable, and relevant to the educational and training needs of the communities in the regions that federation polytechnics serve:
+  (e) engage with councils of polytechnics outside the federation to identify strategies, policies, and practices that would be likely to promote the success and long-term viability of federation polytechnics:
+  (f) encourage and lead collaboration between polytechnics in the federation to identify matters of common interest or concern and develop solutions for advancing those interests or addressing those concerns.
 
-### 328 Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary must obtain consent before exercising certain powers
-Unless section 282(5) applies, an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary may not exercise any of the powers in section 282(4) unless—
-  (a) it has notified Te Pūkenga—New Zealand Institute of Skills and Technology in writing of the proposed exercise of the power; and
-  (b) Te Pūkenga—New Zealand Institute of Skills and Technology has obtained the consent of the Secretary to the proposed exercise of the power by the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+### 328 Duties of Federation Committee
+(1) The Federation Committee must—
+  (a) perform its functions and exercise its powers in a manner consistent with the purposes of the federation; and
+  (b) act in the interests of federation polytechnics provided that action is not detrimental to the interests of an anchor polytechnic; and
+  (c) ensure, as far as reasonably practicable, that each federation polytechnic has access to the relevant services and other shared services that it may require.
+(2) In performing its functions and exercising its powers, the Federation Committee—
+  (a) may provide different levels of support to federation polytechnics, based on the needs of each polytechnic in the federation; and
+  (b) may treat the interests of a federation polytechnic differently from the interests of another federation polytechnic if reasonable to do so; and
+  (c) may not do anything that—
+    (i) limits the academic freedom of a federation polytechnic, including the subject matter or method of delivery of a programme of study or training; or
+    (ii) unduly restricts the range of programmes or micro-credentials available at a federation polytechnic.
+(3) The duties specified in this section are owed to the federation polytechnics.
 
 **Interventions relating to Te Pūkenga—New Zealand Institute of Skills and Technology**
 
-### 329 Criteria for risk assessment of Te Pūkenga—New Zealand Institute of Skills and Technology and related entities
-(1) For the purpose of exercising a power under any of sections 331 to 337, the Secretary must, after consulting Te Pūkenga—New Zealand Institute of Skills and Technology’s council, determine criteria for assessing the levels of risks to—
-  (a) Te Pūkenga—New Zealand Institute of Skills and Technology and any related entity of Te Pūkenga—New Zealand Institute of Skills and Technology; or
-  (b) the education and training performance of students enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology and any related entity of Te Pūkenga—New Zealand Institute of Skills and Technology.
+### 329 Federation Committee may charge certain fees
+(1) The Federation Committee may charge a federation polytechnic fees for the relevant services or other shared services that the Federation Committee procures or commissions.
+(2) Fees payable to the Federation Committee—
+  (a) are recoverable as a debt due to the Federation Committee; and
+  (b) may not exceed the actual and reasonable costs that the Federation Committee has incurred; and
+  (c) must be paid in the manner that the Federation Committee specifies; and
+  (d) may be refunded or waived by the Federation Committee.
+
+### 330 Dispute resolution
+(1) The Federation Committee must implement a procedure for resolving disputes between the Federation Committee and a federation polytechnic arising from—
+  (a) decisions about the availability or access to relevant services or other shared services; or
+  (b) fees that the Federation Committee or an anchor polytechnic charge; or
+  (c) the type or suitability of a relevant service or other shared service that an anchor polytechnic provides; or
+  (d) any other matters relating to the manner in which the Federation Committee or a federation polytechnic is performing its duties and functions under this subpart.
+(2) The disputes procedure must be based on the principle that disputes are to be resolved by agreement in an impartial, cost-effective, flexible, and timely manner.
+(3) A federation polytechnic must comply with the disputes procedure.
+
+### 331 Federation Committee to be good employer
+Section 597 applies to the Federation Committee as if it were an employer in the education service (as defined in section 10(7)).
+
+### 332 Application of Public Audit Act 2001 to Federation Committee
+(1) The Federation Committee is a public entity as defined in section 5 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+(2) The Federation Committee must forward to the Auditor-General,—
+  (a) within 3 months after the end of each academic year,—
+    (i) the annual financial statements of the Federation Committee; and
+    (ii) any other information that the Auditor-General has agreed, or is required, to audit; and
+  (b) the annual report of the Federation Committee in a timely manner to enable the Auditor-General to review that report before providing the audit report required under subsection (3)﻿(b).
+(3) The Auditor-General must—
+  (a) audit the statements and information referred to in subsection (2)﻿(a); and
+  (b) provide an audit report to the Federation Committee within 4 months after the end of each academic year.
+
+### 333 Certain acts of Federation Committee invalid
+(1) An act of the Federation Committee is invalid, unless section 334 applies, if—
+  (a) the act is contrary to, or outside the authority of, an Act; or
+  (b) the act is not done for the purpose of performing the Federation Committee’s functions.
+(2) Subsection (1) does not limit any discretion of a court to grant relief in respect of a minor or technical breach.
+
+### 334 Some natural person acts protected
+(1) Section 333, or any rule of law to similar effect, does not prevent a person dealing with the Federation Committee from enforcing a transaction that is a natural person act unless the person dealing with the Committee knew, or ought reasonably to have known, that—
+  (a) an express restriction in an Act makes the act contrary to, or outside the authority of, the Act; or
+  (b) the act was done otherwise than for the purpose of performing the Federation Committee’s functions.
+(2) A person who relies on subsection (1) has the onus of proving that the person did not have, and could not reasonably be expected to have had, the knowledge referred to in that subsection.
+(3) The Federation Committee must report, in its financial report required by clause 13 of Schedule 18, each transaction that the Federation Committee has performed in the year to which the report relates that was invalid under section 333 but enforced in reliance on subsection (1).
+(4) To avoid doubt, this section does not affect any person’s other remedies under the general law (for example, remedies in contract).
+(5) In this section, natural person act has the same meaning as in section 148(5).
+
+### 335 Office holders and employees are officials
+(1) This section applies to—
+  (a) office holders and employees of the Federation Committee:
+  (b) persons who were formerly office holders or employees in respect of any acts or omissions or decisions made while they were office holders or employees of the Federation Committee:
+  (c) individuals carrying out work for the Federation Committee as contractors or on secondment and who are performing or exercising a function, duty, or power of the Federation Committee.
+(2) A person to whom this section applies is an official for the purposes of sections 105 and 105A of the Crimes Act 1961.
+(3) This section does not limit the meaning of official in section 99 of the Crimes Act 1961.
+
+### 336 No compensation for loss of office
+A member of the Federation Committee is not entitled to any compensation or other payment or benefit relating to their ceasing, for any reason, to hold office as a member.
+
+### 337 Role of anchor polytechnic
+(1) An anchor polytechnic must provide the relevant services that the Federation Committee considers necessary to give effect to the purposes of the federation.
+(2) However, an anchor polytechnic may decline to provide (or cease to provide) relevant services if—
+  (a) the anchor polytechnic ceases to be an anchor polytechnic; or
+  (b) the council of the anchor polytechnic considers that providing the relevant services would—
+    (i) unduly limit the capacity of the anchor polytechnic to meet the needs of the communities that it serves; or
+    (ii) put at risk its performance, operation, or viability; or
+  (c) the anchor polytechnic would have to provide the relevant services at a loss.
+
+### 338 Anchor polytechnics may charge certain fees
+(1) An anchor polytechnic may charge fees to the Federation Committee or a polytechnic for the relevant services or other shared services that the Federation Committee or a polytechnic procures or commissions from the anchor polytechnic.
+(2) Before doing so, the council of the anchor polytechnic must consult, and consider the views of, the Federation Committee on the method or methods to be used to determine fees.
+(3) Fees payable to the anchor polytechnic—
+  (a) are recoverable as a debt due to the anchor polytechnic; and
+  (b) may not exceed the actual and reasonable costs that the polytechnic has incurred; and
+  (c) must be paid in the manner that the anchor polytechnic specifies; and
+  (d) may be refunded or waived by the anchor polytechnic.
+
+**Application of Crown Entities Act 2004 to Te Pūkenga—New Zealand Institute of Skills and Technology’s council**
+
+### 339 Minister may designate or remove designation of federation polytechnics
+(1) The Minister may, by notice in the Gazette, designate a polytechnic as a federation polytechnic.
+(2) Before designating a polytechnic as a federation polytechnic, the Minister must—
+  (a) seek and consider advice from—
+    (i) TEC on the viability of the polytechnic over the long term; and
+    (ii) NZQA on quality assurance matters; and
+  (b) consult the polytechnic being considered for designation as a federation polytechnic; and
+  (c) consult the Federation Committee; and
+  (d) consult other persons or bodies that the Minister thinks fit; and
+  (e) be satisfied that the designation is in the interests of the education and training system as a whole.
+(3) Before designating a polytechnic as a federation polytechnic, the Minister must be satisfied that the designation—
+  (a) is necessary or expedient—
+    (i) for the polytechnic to deliver the programmes and carry out the activities consistent with the characteristics of the polytechnic; and
+    (ii) to support the educational performance, operation, and viability of the polytechnic; and
+  (b) meets any additional criteria that the Minister has specified under section 340.
+(4) A notice given under this section may specify the conditions that a polytechnic must satisfy before the designation takes effect.
+(5) The Minister may, by notice in the Gazette, remove the designation of a polytechnic as a federation polytechnic.
+(6) However, before removing a polytechnic’s designation as a federation polytechnic, the Minister must—
+  (a) consult the polytechnic whose designation is being considered for removal; and
+  (b) consult the Federation Committee; and
+  (c) be satisfied that remaining in the federation as a federation polytechnic is no longer necessary or expedient—
+    (i) for the polytechnic to deliver the programmes and carry out the activities consistent with the characteristics of the polytechnic; and
+    (ii) to support the educational performance, operation, and viability of the polytechnic.
+(7) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Further provisions relating to Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries**
+
+### 340 Additional criteria for designating federation polytechnics
+(1) The Minister may specify additional criteria for designating a polytechnic as a federation polytechnic.
+(2) Before specifying the criteria, the Minister must consult the Federation Committee on the proposed criteria.
+(3) The Minister must—
+  (a) publish the criteria in the Gazette; and
+  (b) review the criteria at least once every 2 years following the date of their publication in the Gazette.
+
+### 341 Effect of federation membership
+Except as otherwise provided in this Act, a federation polytechnic has the same autonomy and academic freedom as a polytechnic that is not a member of the federation.
+
+### 341A Duties of council of federation polytechnic
+The council of a federation polytechnic must use the services that the Federation Committee procures or commissions for federation polytechnics to the extent that the council of the federation polytechnic considers necessary to—
+  (a) achieve efficiency gains or economies of scale in the operation or management of the polytechnic; or
+  (b) improve academic quality and provide a range of education and training options that respond to the needs of the industries and communities that the polytechnic serves, including (without limitation) needs relating to skills shortages; or
+  (c) help the polytechnic remain viable.
+
+### 341B Polytechnics may seek to join federation
+(1) The council of a polytechnic may apply to the Minister for the polytechnic to be designated as a federation polytechnic.
+(2) The application must specify—
+  (a) how the polytechnic meets the criteria specified under section 339(3) and any additional criteria specified under section 340 for designation; and
+  (b) the consultation that the council undertook and the feedback it received; and
+  (c) the reasons why being a member of the federation—
+    (i) would assist in the operation or management of the polytechnic; and
+    (ii) would be in the interests of the polytechnic’s students, and the industries and communities in the region that the polytechnic serves.
+(3) On receiving an application, the Minister must—
+  (a) consider whether to designate the polytechnic as a federation polytechnic under section 339; and
+  (b) grant the application if satisfied that the criteria in sections 339(3) and 340 are met.
+(4) Before determining an application, the Minister may require the council to provide any additional information the Minister considers appropriate.
+
+### 341C Chief executive of TEC may direct federation polytechnic to use relevant services
+(1) The chief executive of TEC may direct the council of a federation polytechnic to use 1 or more relevant services if the chief executive considers that it is reasonably necessary to limit or manage a risk, or a potential risk, to the educational performance, operation, or long-term viability of the federation polytechnic.
+(2) The relevant services specified in the direction must be procured or commissioned or made available by the Federation Committee to enable the council of the federation polytechnic to comply with the direction.
+(3) Before giving the direction, the chief executive—
+  (a) must consult the Federation Committee and the council of the federation polytechnic; and
+  (b) may consult any other persons that the chief executive thinks fit.
+(4) A direction must be in writing and set out the reasons for the direction.
+(5) The council of the federation polytechnic must comply with the direction.
+(6) A direction may be given despite anything in—
+  (a) section 267 in relation to the autonomy of institutions; or
+  (b) section 260(1) in relation to the power of an institution’s council to determine the programmes of study and training provided by the institution.
+
+### 341D Councils of polytechnics not members of federation may request access to relevant services
+(1) The council of a polytechnic that is not a member of the federation may ask the Federation Committee to grant its polytechnic access to 1 or more of the relevant services that are available to federation polytechnics.
+(2) If the Federation Committee agrees to the council’s request, then the council must, if required by the Federation Committee, pay the fees that—
+  (a) the Federation Committee charges for those relevant services under section 329(1); or
+  (b) an anchor polytechnic charges for those relevant services under section 338(1).
+(3) To avoid doubt, a polytechnic that is not a member of the federation of polytechnics that uses 1 or more relevant services is not a federation polytechnic.
+
+### 341E Councils of federation polytechnics and anchor polytechnics may establish or disestablish combined academic committees
+(1) The councils of 2 or more federation polytechnics, or of an anchor polytechnic and 1 or more federation polytechnics, may, by written agreement, establish or disestablish a combined academic committee.
+(2) A combined academic committee—
+  (a) consists of the chief executive (or the chief executive’s delegate) of each polytechnic whose council established the committee; and
+  (b) may establish subcommittees, consisting of 1 or more of the staff or students of each polytechnic whose council established the committee, to assist the committee in providing advice on academic matters to the councils that established it, including advice on the programmes that are important to the industries and communities in the regions that the polytechnics of those councils serve; and
+  (c) takes the place of the academic committee of each of the councils that established the combined academic committee; and
+  (d) must, when determining its policies, comply with the requirements of clause 18(1) of Schedule 11.
+(3) The council of a polytechnic that established a combined academic committee may, by written notice to the councils of the other polytechnics that established the committee, withdraw from the committee.
+(4) If the council of a polytechnic withdraws from a combined academic committee, it must establish its own academic committee as soon as practicable.
+(5) If the combined academic committee is disestablished, each of the councils that it served must establish its own academic committees as soon as practicable.
+(6) A reference in this Act to the academic committee of an institution must, in relation to the councils of polytechnics that have a combined academic committee, be read as a reference to the combined academic committee of those councils.
+
+### 341F Minister may direct councils of federation polytechnics and anchor polytechnics to establish or withdraw from combined academic committee
+(1) The Minister may direct—
+  (a) 2 or more councils of federation polytechnics to establish a combined academic committee; or
+  (b) the council of an anchor polytechnic and 1 or more councils of federation polytechnics to establish a combined academic committee.
+(2) Before giving a direction, the Minister must—
+  (a) consult the councils of the polytechnics proposed to be directed and the Federation Committee; and
+  (b) be satisfied that a combined academic committee is likely to produce decisions (regarding the range and type of programmes that those polytechnics offer) that better—
+    (i) reflect the needs of the industries and communities in the regions that the polytechnics serve; or
+    (ii) enable those polytechnics to avoid duplication of programmes in the regions the polytechnics serve.
+(3) If a council is directed to establish a combined academic committee, then section 341E(2) applies with any necessary modifications to the committee.
+(4) The Minister may direct the council of a federation polytechnic or an anchor polytechnic to withdraw from a combined academic committee established under this section.
+(5) If a council is directed to withdraw from a combined academic committee, then section 341E(4) to (6) applies with any necessary modifications.
+(6) A council must comply with the direction given under this section.
+
+### 341G Administration of Federation Committee
+Schedule 11A sets out administrative provisions that apply to the Federation Committee.
+
+**Interventions for polytechnics**
+
+### 341H Criteria for assessing risks to polytechnics and related entities
+(1) For the purpose of exercising a power under any of sections 341J to 341P, the Secretary must, after consulting all polytechnics, determine the criteria for assessing the risks to—
+  (a) the operation and viability of a polytechnic and any related entity of a polytechnic; and
+  (b) the education and training performance of students enrolled at a polytechnic.
 (2) The Secretary must publish the criteria in the Gazette.
 (3) The criteria must be reviewed at least once in every 2 years following the date of their publication in the Gazette.
 
-### 330 Te Pūkenga—New Zealand Institute of Skills and Technology or related entity must provide information if required
-(1) If the chief executive of TEC has reasonable grounds to believe that Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology may be at risk, the chief executive may, by written notice to Te Pūkenga—New Zealand Institute of Skills and Technology’s council, require the council to provide either or both of the following:
-  (a) specified information about the operation, management, or financial position of Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology at a given time:
-  (b) reports at specified intervals on specific aspects of the operation, management, or financial position of Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology.
-(2) If the chief executive of TEC requires information under subsection (1), the information required must relate to the risks to Te Pūkenga—New Zealand Institute of Skills and Technology or the related entity that the chief executive is concerned about.
-(3) If Te Pūkenga—New Zealand Institute of Skills and Technology’s council receives a notice under subsection (1) it must provide the chief executive of TEC with the required information within the period specified in the notice.
+### 341I Polytechnics or related entities must provide information if required
+(1) If the chief executive of TEC has reasonable grounds to believe that a polytechnic or a related entity of a polytechnic may be at risk, the chief executive may, by written notice to the council of the polytechnic, require the council to provide either or both of the following:
+  (a) specified information about the operation, management, or financial position of the polytechnic or a related entity of the polytechnic at a given time:
+  (b) reports at specified intervals on specific aspects of the operation, management, or financial position of the polytechnic or a related entity of the polytechnic.
+(2) If the chief executive of TEC requires information under subsection (1), the information required must relate to the risks to the polytechnic or the related entity of the polytechnic that the chief executive is concerned about.
+(3) If the council of a polytechnic receives a notice under subsection (1), the council must provide the chief executive of TEC with the required information within the period specified in the notice.
 (4) The chief executive of TEC may revoke or amend a notice given under subsection (1).
 
-### 331 Minister may appoint Crown observer for Te Pūkenga—New Zealand Institute of Skills and Technology
+### 341J Minister may appoint Crown observer for polytechnic
 (1) This section applies if the Minister believes on reasonable grounds that—
-  (a) Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology may be at risk; or
-  (b) the education and training performance of the students enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology may be at risk.
-(2) The Minister may appoint a Crown observer to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+  (a) a polytechnic or a related entity of a polytechnic may be at risk; or
+  (b) the educational and training performance of the students enrolled at a polytechnic or a related entity of a polytechnic may be at risk.
+(2) The Minister may appoint a Crown observer to the council of the polytechnic.
 (3) However, a Crown observer may not be appointed unless the Minister has first—
-  (a) consulted Te Pūkenga—New Zealand Institute of Skills and Technology’s council; and
-  (b) advised Te Pūkenga—New Zealand Institute of Skills and Technology’s council that the Minister is considering appointing a Crown observer; and
-  (c) given Te Pūkenga—New Zealand Institute of Skills and Technology’s council an opportunity to comment on the proposal.
+  (a) consulted the council of the polytechnic; and
+  (b) advised the council that the Minister is considering appointing a Crown observer; and
+  (c) given the council an opportunity to comment on the proposal.
 (4) An appointment under this section must be in writing and must state the date on which it takes effect.
 (5) A Crown observer may—
-  (a) attend any meeting of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (or a committee or board of Te Pūkenga—New Zealand Institute of Skills and Technology’s council) to which the Crown observer is appointed; and
-  (b) offer advice to Te Pūkenga—New Zealand Institute of Skills and Technology’s council (or a committee or board of Te Pūkenga—New Zealand Institute of Skills and Technology’s council); and
+  (a) attend any meeting of the council of the polytechnic (or a committee or board of the council) to which the Crown observer is appointed; and
+  (b) offer advice to the council (or a committee or board of the council); and
   (c) report to the Minister on any matter raised or discussed at any meeting that the person attends as a Crown observer.
-(6) Except as authorised by subsection (5)﻿(c), a Crown observer must, at all times, maintain confidentiality with respect to the affairs of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
-(7) A Crown observer is not a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (or a committee or board of Te Pūkenga—New Zealand Institute of Skills and Technology’s council), and may not—
+(6) Except as authorised by subsection (5)﻿(c), a Crown observer must, at all times, maintain confidentiality with respect to the affairs of the council of the polytechnic.
+(7) A Crown observer is not a member of the council of the polytechnic (or a committee or board of the council), and may not—
   (a) vote on any matter; or
-  (b) exercise any of the powers, or perform any of the functions or duties, of a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+  (b) exercise any of the powers, or perform any of the functions or duties, of a member of the council.
 
-### 332 Specialist help
+### 341K Specialist help
 (1) This section applies if the chief executive of TEC believes on reasonable grounds that—
-  (a) Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology may be at risk; or
-  (b) the education and training performance of the students enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology may be at risk.
-(2) The chief executive may, by written notice to Te Pūkenga—New Zealand Institute of Skills and Technology’s council, require it—
-  (a) to obtain specialist help; or
-  (b) to obtain specialist help for a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology.
+  (a) a polytechnic or a related entity of a polytechnic may be at risk; or
+  (b) the educational and training performance of the students enrolled at a polytechnic or a related entity of a polytechnic may be at risk.
+(2) The chief executive of TEC may, by written notice to the council of the polytechnic, require the council to obtain specialist help for the polytechnic or a related entity of the polytechnic.
 (3) The notice must state—
   (a) the help or kind of help to be obtained; and
   (b) the person or organisation, or kind of person or organisation, from whom or from which it is to be obtained.
-(4) As soon as practicable after receiving the notice, Te Pūkenga—New Zealand Institute of Skills and Technology’s council must comply with it.
-(5) Te Pūkenga—New Zealand Institute of Skills and Technology’s council must—
+(4) As soon as practicable after receiving the notice, the council of the polytechnic must comply with it.
+(5) The council of the polytechnic must—
   (a) provide the information and access, and do all other things, reasonably necessary to enable the person or organisation engaged to provide the help; and
   (b) to the extent that the help provided is advice, take the advice into account in performing its functions and duties; and
   (c) pay the person’s or organisation’s reasonable fees and expenses.
 
-### 333 Performance improvement plan
+### 341L Performance improvement plan
 (1) This section applies if the chief executive of TEC believes on reasonable grounds that—
-  (a) Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology may be at risk; or
-  (b) the education and training performance of the students enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology may be at risk.
-(2) The chief executive may, by written notice to Te Pūkenga—New Zealand Institute of Skills and Technology’s council, require it to prepare and give to the chief executive a draft performance improvement plan for Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology.
+  (a) a polytechnic or a related entity of a polytechnic may be at risk; or
+  (b) the educational and training performance of the students enrolled at a polytechnic or a related entity of a polytechnic may be at risk.
+(2) The chief executive of TEC may, by written notice to the council of the polytechnic, require the council to prepare and give to the chief executive a draft performance improvement plan for the polytechnic or a related entity of the polytechnic.
 (3) The notice must state—
   (a) the matters to be addressed by the draft plan; and
   (b) the outcomes that implementation of the draft plan is intended to achieve; and
   (c) the times by which those outcomes should be achieved; and
   (d) the performance measures that are to be used to determine whether those outcomes have been achieved; and
-  (e) the date by which the draft plan must be given to the chief executive.
-(4) Te Pūkenga—New Zealand Institute of Skills and Technology’s council must prepare, and give to the chief executive by the stated date, a draft plan that complies with subsection (3).
-(5) The chief executive may—
+  (e) the date by which the draft plan must be given to the chief executive of TEC.
+(4) The council of the polytechnic must prepare, and give to the chief executive of TEC by the stated date, a draft plan that complies with subsection (3).
+(5) The chief executive of TEC may—
   (a) approve the draft plan; or
-  (b) after considering the draft plan, approve for Te Pūkenga—New Zealand Institute of Skills and Technology or the related entity some other plan that complies with subsection (3) (whether a modified version of the draft plan or a different plan).
-(6) If the council does not comply with subsection (4), the chief executive may approve for Te Pūkenga—New Zealand Institute of Skills and Technology or the related entity any plan that complies with subsection (3) that the chief executive thinks fit.
-(7) The chief executive may not approve any plan other than a draft plan given to the chief executive before discussing it with Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
-(8) Te Pūkenga—New Zealand Institute of Skills and Technology’s council must take all reasonably practicable steps to implement a plan approved under this section.
+  (b) after considering the draft plan, approve for the polytechnic or the related entity of the polytechnic some other plan that complies with subsection (3) (whether a modified version of the draft plan or a different plan).
+(6) If the council of the polytechnic does not comply with subsection (4), the chief executive of TEC may approve for the polytechnic or the related entity of the polytechnic any plan that complies with subsection (3) that the chief executive thinks fit.
+(7) The chief executive of TEC may not approve any plan, other than a draft plan given to the chief executive, before discussing it with the council of the polytechnic.
+(8) The council of the polytechnic must take all reasonably practicable steps to implement a plan approved under this section.
 
-### 334 Minister may appoint Crown manager for Te Pūkenga—New Zealand Institute of Skills and Technology
+### 341M Minister may appoint Crown manager for polytechnic
 (1) This section applies if the Minister believes on reasonable grounds—
-  (a) that there is a risk to the operation or long-term viability of Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology; or
-  (b) that the education and training performance of the students enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology is at risk.
-(2) The Minister may, by written notice to Te Pūkenga—New Zealand Institute of Skills and Technology’s council, appoint a Crown manager for Te Pūkenga—New Zealand Institute of Skills and Technology.
-(3) The Minister may not appoint a Crown manager under subsection (2) without—
-  (a) giving Te Pūkenga—New Zealand Institute of Skills and Technology’s council written notice of the Minister’s intention to do so and the Minister’s reasons for intending to do so; and
-  (b) allowing Te Pūkenga—New Zealand Institute of Skills and Technology’s council reasonable time (as specified in the notice) to respond to the notice; and
-  (c) considering any written submissions received from Te Pūkenga—New Zealand Institute of Skills and Technology’s council within that time.
-(4) Whether a time is reasonable in any particular case may depend (among other things) on the urgency of the matters the Crown manager must deal with.
+  (a) that there is a risk to the operation or long-term viability of a polytechnic or a related entity of a polytechnic; or
+  (b) that the educational and training performance of the students enrolled at a polytechnic or a related entity of a polytechnic is at risk.
+(2) The Minister may, by written notice to the council of the polytechnic, appoint a Crown manager for the polytechnic.
+(3) However, the Minister must first—
+  (a) give the council of the polytechnic written notice of the Minister’s intention to do so and the Minister’s reasons for intending to do so; and
+  (b) allow the council reasonable time (as specified in the notice) to respond to the notice; and
+  (c) consider any written submissions received from the council within that time.
+(4) Whether the time specified is reasonable in any particular case may depend (among other things) on the urgency of the matters the Crown manager must deal with.
 (5) The notice must state—
   (a) the name of the Crown manager and the day on which their appointment takes effect; and
-  (b) the functions of Te Pūkenga—New Zealand Institute of Skills and Technology’s council to be performed by the Crown manager; and
+  (b) the functions of the council of the polytechnic to be performed by the Crown manager; and
   (c) any conditions subject to which the Crown manager may perform those functions; and
-  (d) any matters about which the Crown manager may advise Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+  (d) any matters about which the Crown manager may advise the council.
 (6) As soon as practicable after appointing a Crown manager, the Minister must notify the appointment in the Gazette.
-(7) While there is a Crown manager appointed for Te Pūkenga—New Zealand Institute of Skills and Technology,—
+(7) While a Crown manager is appointed for the polytechnic,—
   (a) the Crown manager may perform any of the functions stated in the notice appointing them, and,—
-    (i) for that purpose, the Crown manager has all the powers of Te Pūkenga—New Zealand Institute of Skills and Technology’s council; but
-    (ii) in performing any of those functions (and exercising any of those powers in order to do so) the Crown manager must comply with all relevant duties of Te Pūkenga—New Zealand Institute of Skills and Technology’s council; and
-  (b) Te Pūkenga—New Zealand Institute of Skills and Technology’s council—
+    (i) for that purpose, the Crown manager has all the powers of the council of the polytechnic; but
+    (ii) in performing any of those functions (and exercising any of those powers in order to do so), the Crown manager must comply with all relevant duties of the council; and
+  (b) the council of the polytechnic—
     (i) may not perform any of those functions; but
     (ii) must provide the information and access, and do all other things, reasonably necessary to enable the Crown manager to perform those functions and exercise those powers.
-(8) The Crown manager must perform any function under subsection (7)﻿(a) (and exercise any power in order to do so) in accordance with this Act and, in particular, must have regard to section 318.
-(9) Te Pūkenga—New Zealand Institute of Skills and Technology’s council must pay the Crown manager’s reasonable fees and expenses.
+(8) The Crown manager must perform any function under subsection (7)﻿(a) (and exercise any power in order to do so) in accordance with this Act and, in particular, must have regard to section 267.
+(9) The council of a polytechnic must pay the Crown manager’s reasonable fees and expenses.
 (10) If the Crown manager’s appointment has not been revoked earlier, the Minister must consider whether the reasons for the appointment still apply—
   (a) no later than 12 months after it was made; and
-  (b) no later than 12 months after the Minister last considered whether they still apply.
+  (b) no later than 12 months after the Minister last considered whether they still applied.
 
-### 335 Personal liability of Crown manager
-A Crown manager appointed under section 334 is not personally liable for any act done or omitted to be done by the Crown manager, or for any loss arising from that act or omission, if the Crown manager was acting—
+### 341N Personal liability of Crown manager
+A Crown manager appointed under section 341M is not personally liable for any act done or omitted to be done by the Crown manager, or for any loss arising from that act or omission, if the Crown manager was acting—
   (a) in good faith; and
   (b) in the course of performing their functions.
 
-### 336 Powers may be used concurrently
-To the extent that it is possible in practice, the powers specified in sections 330 to 334 may be exercised concurrently.
+### 341O Powers may be used concurrently
+To the extent that it is possible in practice, the powers specified in sections 341J to 341P may be exercised concurrently.
 
-### 337 Minister may dissolve Te Pūkenga—New Zealand Institute of Skills and Technology’s council and appoint commissioner
-(1) The Minister may, by written notice, dissolve Te Pūkenga—New Zealand Institute of Skills and Technology’s council and appoint a commissioner to act in place of the council if the Minister believes on reasonable grounds that—
-  (a) there is a serious risk to the operation or long-term viability of Te Pūkenga—New Zealand Institute of Skills and Technology; and
+### 341P Minister may dissolve council of polytechnic and appoint commissioner
+(1) The Minister may, by written notice, dissolve the council of a polytechnic and appoint a commissioner to act in place of the council if the Minister believes on reasonable grounds that—
+  (a) there is a serious risk to the operation or long-term viability of the polytechnic; and
   (b) other methods of reducing the risk have failed or appear likely to fail.
 (2) A notice under subsection (1) must specify—
   (a) the date on which the dissolution and appointment take effect; and
   (b) the name of the person appointed as commissioner.
 (3) The Minister may not exercise the power under subsection (1) unless the Minister has first—
-  (a) consulted Te Pūkenga—New Zealand Institute of Skills and Technology’s council and any other interested parties about the possible need to dissolve the council and appoint a commissioner; and
-  (b) following that consultation, given the council written notice of the Minister’s preliminary decision that Te Pūkenga—New Zealand Institute of Skills and Technology’s council should be dissolved and a commissioner appointed in its place; and
-  (c) allowed Te Pūkenga—New Zealand Institute of Skills and Technology’s council at least 21 days in which to respond to the preliminary decision; and
-  (d) considered any submissions made by Te Pūkenga—New Zealand Institute of Skills and Technology’s council about why the preliminary decision should not be confirmed.
+  (a) consulted the council and any other interested parties about the possible need to dissolve the council and appoint a commissioner; and
+  (b) following that consultation, given the council written notice of the Minister’s preliminary decision that the council should be dissolved and a commissioner appointed in its place; and
+  (c) allowed the council at least 21 days in which to respond to the preliminary decision; and
+  (d) considered any submissions made by the council about why the preliminary decision should not be confirmed.
 (4) As soon as practicable after giving a notice under subsection (1), the Minister must—
   (a) publish a copy of it in the Gazette; and
   (b) present a copy of it to the House of Representatives.
 (5) When a commissioner is appointed under this section, the Minister must review the appointment at least once in every 12 months following the appointment.
-(6) As soon as the Minister is satisfied (following an annual review or at any other time) that the risk that gave rise to the appointment of the commissioner has been reduced enough so that it is appropriate that Te Pūkenga—New Zealand Institute of Skills and Technology be administered by a council, a new council must be appointed in accordance with sections 320 to 323.
+(6) As soon as the Minister is satisfied (following an annual review or at any other time) that the risk that gave rise to the appointment of the commissioner has been reduced enough so that it is appropriate that the polytechnic be administered by a council, a new council must be appointed in accordance with sections 316 to 319 and clause 6 of Schedule 11.
 (7) A commissioner’s appointment ends on the close of the day before a new council takes office.
 (8) Sections 291, 292, and 293 apply, with any necessary modifications, as if a commissioner appointed under subsection (1) were appointed under section 290.
 
-### 338 Te Pūkenga—New Zealand Institute of Skills and Technology’s council may request intervention
-If Te Pūkenga—New Zealand Institute of Skills and Technology’s council requests the Minister or the chief executive of TEC to act under any of sections 331 to 337, the Minister or the chief executive—
-  (a) must consider any submission or evidence supplied by Te Pūkenga—New Zealand Institute of Skills and Technology’s council; and
+### 341Q Council of polytechnic may request intervention
+If the council of a polytechnic requests the Minister or the chief executive of TEC to act under any of sections 341J to 341P, the Minister or the chief executive of TEC—
+  (a) must consider any submission or evidence supplied by the council; and
   (b) must consider whether to act under that section; but
-  (c) may then (if any necessary conditions are satisfied) act under another of those sections giving them power to act.
-
-**Application of Crown Entities Act 2004 to Te Pūkenga—New Zealand Institute of Skills and Technology’s council**
-
-### 339 Additional provisions of Crown Entities Act 2004 that apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council
-(1) The provisions set out in Part 2 of Schedule 4 of the Crown Entities Act 2004 apply to Te Pūkenga—New Zealand Institute of Skills and Technology and Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
-(2) Te Pūkenga—New Zealand Institute of Skills and Technology must be treated as a statutory entity for the purpose of applying those provisions.
-
-**Further provisions relating to Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries**
-
-### 340 Formation of Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries and provisions that apply
-(1) Te Pūkenga—New Zealand Institute of Skills and Technology may form 1 or more Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries.
-(2) Schedule 15 specifies other provisions of this Act that apply and do not apply to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary formed under subsection (1) that provides education or training, or both.
-(3) The Governor-General may, by Order in Council made on the recommendation of the Minister, specify provisions of this Act that do not apply to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary formed under subsection (1) that does not provide education or training, or both.
-(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
-
-### 341 Application of Schedule 14
-Schedule 14 applies to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary on its dissolution date (as defined in clause 1 of that schedule).
+  (c) may then (if any necessary conditions are satisfied) act under another of those sections that gives them power to act.
 
 ### Subpart 5 — Private training establishments
 
@@ -4554,146 +4710,213 @@ The requirement that funds paid by or on behalf of a student be deposited with a
 
 ### Subpart 6 — Vocational education and training
 
-### 362 Training agreements and apprenticeship training agreements part of employment agreement
-Training agreements and apprenticeship training agreements are part of the employment agreement between the employee and employer concerned.
+**Industry skills boards**
+
+### 362 Establishment of industry skills boards
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, establish an industry skills board for 1 or more specified industries.
+(2) An order made under subsection (1)—
+  (a) must—
+    (i) state the name of the industry skills board; and
+    (ii) state the 1 or more specified industries that the industry skills board covers; and
+    (iii) state the additional functions (if any) conferred on the industry skills board by the Minister in accordance with section 367(1)﻿(j); and
+  (b) may—
+    (i) outline the means by which the 1 or more specified industries covered by the industry skills board may engage with the industry skills board in relation to the performance or exercise of its functions, duties, or powers; and
+    (ii) prescribe matters relating to the industry skills board’s use of its assets, including assets allocated to the industry skills board from the New Zealand Institute of Skills and Technology or a workforce development council under clause 131(1)﻿(b) or 172(1)﻿(b) of Schedule 1; and
+    (iii) impose conditions on the performance or exercise of the industry skills board’s functions, duties, or powers; and
+    (iv) subject to sections 363 to 366, provide for any other matters that are necessary or desirable to clarify the governance arrangements of the industry skills board.
+(3) The Minister must not recommend the making of an order under this section or a significant amendment to an order made under this section unless the Minister has—
+  (a) consulted the representatives of the 1 or more specified industries covered or proposed to be covered by the industry skills board; and
+  (b) taken into account any views expressed by those representatives regarding—
+    (i) the proposed name and governance arrangements of the industry skills board; and
+    (ii) the desirability of avoiding duplication of resources in the coverage of industry skills boards in relation to the specified industries; and
+    (iii) the capability the proposed industry skills board requires to perform and exercise its functions, duties, and powers efficiently and effectively.
+(4) An industry skills board established under this section must comply with the provisions of the order that establishes it.
+(5) Schedule 13 sets out further provisions that apply to an industry skills board and its members.
+(6) An order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Workforce development councils**
 
-### 363 Establishment of workforce development councils
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, establish a workforce development council for 1 or more specified industries.
-(2) An order made under subsection (1)—
-  (a) must—
-    (i) state the name of the workforce development council; and
-    (ii) state the 1 or more specified industries that the workforce development council covers; and
-    (iii) set out the governance arrangements for the workforce development council, including arrangements relating to the appointment, composition, suspension, or removal of members of the council; and
-    (iv) state the additional functions (if any) conferred on the workforce development council by the Minister in accordance with section 366(1)﻿(l); and
-  (b) may—
-    (i) outline the means by which the 1 or more specified industries covered by the workforce development council may engage with the council in relation to the performance or exercise of its functions, duties, or powers; and
-    (ii) prescribe matters relating to the workforce development council’s use of its assets, including any assets allocated to the council from a transitional ITO under clause 57 of Schedule 1 or to any other industry body; and
-    (iii) impose conditions on the performance or exercise of the workforce development council’s functions, duties, or powers; and
-    (iv) provide for any other matters that are necessary or desirable to clarify the governance arrangements of the workforce development council.
-(3) In making a recommendation relating to the governance arrangements for a workforce development council, the Minister must, as far as is reasonably practicable, ensure that those arrangements provide for—
-  (a) the collective representation of employers and employees in the 1 or more specified industries covered by the workforce development council in the governance of the council; and
-  (b) the representation on the council of Māori employers from any or all of the 1 or more specified industries.
-(4) The Minister must not recommend the making of an order under subsection (1) or a significant amendment to an order made under that subsection unless the Minister has—
-  (a) consulted the representatives of the 1 or more specified industries covered or proposed to be covered by the workforce development council; and
-  (b) taken into account any views expressed by those representatives regarding—
-    (i) the proposed name and governance arrangements of the workforce development council; and
-    (ii) the desirability of avoiding duplication of resources in the coverage of workforce development councils in relation to the specified industries; and
-    (iii) the capability required by the proposed workforce development council to perform and exercise its functions, duties, and powers efficiently and effectively.
-(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+### 363 Membership of industry skills board
+An industry skills board must have 8 members, comprising—
+  (a) 2 members appointed by the Minister by written notice to the industry skills board; and
+  (b) 6 members appointed by the industry skills board.
 
-### 364 Disestablishment of workforce development councils
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, disestablish a workforce development council and provide for the distribution of its assets and liabilities.
-(2) The Minister may not recommend the disestablishment of a workforce development council under subsection (1) unless—
-  (a) the Minister has received a request from the workforce development council or 1 or more of the specified industries covered by the workforce development council for it to be disestablished and is satisfied on reasonable grounds that there are good reasons to do so; or
-  (b) the Minister is satisfied that it is necessary to do so because—
-    (i) the workforce development council has persistently engaged in unlawful activity; or
-    (ii) the workforce development council has persistently failed to perform its functions or duties; or
-    (iii) there has been a persistent pattern of complaints to the Commission or the Minister from the 1 or more specified industries covered by the workforce development council regarding the council’s performance or exercise of its functions, duties, or powers.
-(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+### 364 Appointment process
+The members of an industry skills board are appointed as follows:
+  (a) for members appointed by the Minister under section 363(a),—
+    (i) the chief executive of TEC must—
+      (A) invite nominations and expressions of interest for appointment to the board (including, where appropriate, from industry bodies, employers, and employees the industry skills board covers); and
+      (B) recommend to the Minister from the list of nominations or expressions of interest received those persons that the chief executive considers suitable for appointment, having regard to the matters set out in section 365; and
+    (ii) the Minister must consider the recommendations made by the chief executive and appoint those persons that the Minister considers are best suited for appointment, having regard to the matters set out in section 365:
+  (b) for members appointed by the industry skills board under section 363(b), the industry skills board must—
+    (i) invite nominations and expressions of interest for appointment to the board (including, where appropriate, from industry bodies, employers, and employees the industry skills board covers); and
+    (ii) appoint 6 members to the board from the list of nominations or expressions of interest received by the board, being those persons who are best suited for appointment, having regard to the matters set out in section 365.
 
-### 365 Incorporation
-Each workforce development council established under section 363 is a body corporate with perpetual succession and a common seal, and is capable of—
+### 365 Matters to be considered when appointing members
+When appointing members, the Minister and the industry skills board must ensure that the board as a whole, as far as is reasonably practicable,—
+  (a) reflects the makeup of the current and anticipated workforce of the specified industries; and
+  (b) provides for the collective representation of employers and employees in the 1 or more specified industries covered by the industry skills board; and
+  (c) has sufficient—
+    (i) skills and abilities to perform the functions of the industry skills board, having regard to the matters set out in section 370; and
+    (ii) experience in the specified industries covered by the board; and
+    (iii) experience as employers in the specified industries covered by the board; and
+    (iv) experience in governance, public administration, and financial analysis and management; and
+    (v) knowledge of the vocational education and training system.
+
+### 366 Disqualification from office
+The following persons are disqualified from being members of an industry skills board:
+  (a) a person who occupies a governance role in relation to, or who has an ownership interest in, a provider that offers programmes that must be endorsed by the industry skills board under section 367(1)﻿(f):
+  (b) a person who is an undischarged bankrupt:
+  (c) a person who is prohibited from being a director or promoter of, or being concerned with or taking part in the management of, an incorporated or unincorporated body under any legislation:
+  (d) a person who is subject to a property order under the Protection of Personal and Property Rights Act 1988:
+  (e) a person in respect of whom a personal order has been made under that Act that reflects adversely on the person’s—
+    (i) competence to manage their own affairs in relation to their property; or
+    (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of their personal care and welfare:
+  (f) a person who has been convicted of an offence punishable by imprisonment for a term of 2 years or more, or who has been sentenced to imprisonment for any other offence, unless the person has obtained a pardon, served the sentence, or otherwise suffered the penalty imposed on the person:
+  (g) a member of Parliament:
+  (h) a person who is disqualified from holding an office under an Act.
+
+### 367 Functions of industry skills boards
+(1) The functions of an industry skills board, in relation to the specified industries it covers, are—Workforce analysis and planningDeveloping, setting, and maintaining standards, qualifications, micro-credentials, and capstone assessmentsEndorsing programmes and moderating assessmentsAdvisory and representative roleOther functions
+  (a) to undertake strategic workforce analysis and planning for the specified industries:
+  (b) to develop, set, and maintain skill standards:
+  (c) to develop and maintain industry qualifications and micro-credentials for listing on the Qualifications and Credentials Framework and to maintain qualifications and micro-credentials for which it has become the developer:
+  (d) to develop and maintain national curricula for qualifications for which it is responsible as a standard-setting body under section 438:
+  (e) to develop, set, and maintain capstone assessments based on the needs of the specified industries:
+  (f) to decide whether to endorse programmes developed by providers:
+  (g) to carry out moderation activities in relation to any standards and capstone assessments it sets:
+  (h) to advise TEC, as provided for in section 411, about the mix of vocational education and training needed for the 1 or more specified industries the industry skills board covers in the manner required by TEC:
+  (i) to represent the interests of the specified industries:
+  (j) to perform any other functions that the Minister confers on the industry skills board in relation to the specified industries.
+(2) For the purposes of subsection (1)﻿(f), the Minister may, by notice in the Gazette, specify criteria relating to when an industry skills board must endorse a programme before it may be approved by NZQA under section 439.
+(3) The Minister must not confer any additional function on an industry skills board under subsection (1)﻿(j) without first consulting the industry skills board.
+
+### 368 Industry skills board’s functions in relation to wānanga
+(1) Subject to subsection (2),—
+  (a) an industry skills board may endorse a programme developed by a wānanga only if requested by the wānanga:
+  (b) a capstone assessment developed by an industry skills board applies to a wānanga only if requested by the wānanga.
+(2) If a programme includes a component of work-based training, an industry skills board may perform its functions under section 367 in relation to the programme.
+
+### 369 Duties of industry skills boards
+(1) An industry skills board must comply with any prescribed quality assurance requirements set by NZQA relating to the performance of its functions.
+(2) In performing its functions, an industry skills board—
+  (a) must treat all providers and types of providers in a fair, equitable, and consistent manner:
+  (b) must take into account the needs of employers and employees in the 1 or more specified industries the industry skills board covers but, in doing so, must also consider national and regional interests:
+  (c) must, to the extent that is necessary or desirable in the circumstances, work collaboratively with—
+    (i) providers in relation to the functions set out in section 367(1)﻿(b) to (d) and, in the case of wānanga, while respecting their special character under section 398D(c):
+    (ii) other industry skills boards, particularly on setting of standards, quality assurance of institutions, setting fees for institutions, and other matters of common interest:
+    (iii) NZQA, in relation to moderation, qualifications and micro-credentials development, programme endorsement, and developing, setting, or maintaining skill standards or national curricula:
+    (iv) any relevant regulatory body that performs or exercises any functions, duties, or powers under an enactment in relation to entry to an occupation in any of the specified industries the industry skills board covers:
+  (d) must, when performing its functions under section 367, take all reasonable steps to avoid any adverse impact on its relationship with a provider or providers.
+
+### 370 Performance of industry skills board’s functions and duties
+When performing its functions and duties under sections 367 to 369, the industry skills board must act in a manner that—
+  (a) contributes towards the creation of a workforce that meets industry needs and is fit for work in a sustainable, globally engaged, and adaptive New Zealand; and
+  (b) seeks to contribute to an education system that helps to ensure fair and equitable outcomes for all, including people who have been under-served by the education system; and
+  (c) contributes to a well-functioning labour market system in which the specified industries can access the skills required to meet their current and future needs; and
+  (d) aims to support and respond to New Zealand’s current and future workforce needs, taking into account the skills, knowledge, and qualifications that learners will need in future to achieve success for themselves and their communities; and
+  (e) has regard to the needs of Māori and other population groups as identified in the tertiary education strategy issued under section 7.
+
+### 371 Incorporation
+(1) Each industry skills board established under section 362 is a body corporate with perpetual succession and a common seal, and is capable of—
   (a) holding real and personal property; and
   (b) suing and being sued; and
   (c) otherwise doing and suffering all that bodies corporate may do and suffer.
+(2) Despite subsection (1)﻿(c), an industry skills board may only establish subsidiaries with the written approval of TEC.
 
-### 366 Functions of workforce development councils
-(1) The functions of a workforce development council, in relation to the specified industries covered by it, are—LeadershipDeveloping and setting standards, capstone assessments, and qualificationsEndorsing programmes and moderating assessmentsAdvisory and representative roleOther functions
-  (a) to provide skills and workforce leadership for the specified industries, including by identifying their current and future needs and advocating for those needs to be met through its work with the industries and with schools, providers, regional bodies, and the Government:
-  (b) to develop, set, and maintain skill standards:
-  (c) to develop and maintain industry qualifications for listing on the Qualifications and Credentials Framework and to maintain qualifications for which it has become the qualifications developer:
-  (d) to develop and maintain micro-credentials:
-  (e) to develop and maintain national curricula for qualifications for which it is responsible as a standard-setting body under section 438:
-  (f) to develop, set, and maintain capstone assessments based on the needs of the specified industries:
-  (g) to decide whether to endorse programmes developed by providers:
-  (h) to carry out moderation activities in relation to any standards and capstone assessments it sets:
-  (i) to provide employers with brokerage and advisory services approved by TEC:
-  (j) to advise TEC, as provided for in section 411,—
-    (i) about its overall investment in vocational education and training:
-    (ii) about the mix of vocational education and training needed for the 1 or more specified industries covered by the workforce development council in the manner required by TEC:
-  (k) to represent the interests of the specified industries:
-  (l) to perform any other functions conferred on it by the Minister in relation to the specified industries.
-(2) For the purposes of subsection (1)﻿(g), the Minister may, by notice in the Gazette, specify criteria relating to when a workforce development council must endorse a programme before it may be approved by NZQA under section 439.
-(3) The Minister must not confer any additional function on a workforce development council under subsection (1)﻿(l) without first consulting the workforce development council.
-
-### 367 Workforce development council’s functions in relation to wānanga
-(1) Subject to subsection (2),—
-  (a) a workforce development council may endorse a programme developed by a wānanga only if requested by the wānanga:
-  (b) a capstone assessment developed by a workforce development council applies to a wānanga only if requested by the wānanga.
-(2) If a programme includes a component of work-based training, a workforce development council may perform its functions under section 366 in relation to the programme.
-
-### 368 Workforce development council may not operate registered establishment
-(1) A workforce development council may not operate or hold any interest (whether financial or otherwise) in a registered establishment.
-(2) A workforce development council must not, whether directly or through an agent,—
+### 372 Industry skills board may not operate private training establishment or registered establishment
+(1) An industry skills board may not operate or hold any interest (whether financial or otherwise) in a private training establishment or a registered establishment.
+(2) An industry skills board must not, whether directly or through an agent,—
   (a) provide any education and training approved by NZQA; or
   (b) operate, or hold an interest in, an organisation that provides education and training approved by NZQA.
 
-### 369 Duties of workforce development councils
-(1) A workforce development council must comply with any prescribed quality assurance requirements set by NZQA relating to the performance of its functions.
-(2) In performing its functions, a workforce development council—
-  (a) must take into account the needs of employers and employees in the 1 or more specified industries covered by the workforce development council but, in doing so, must also consider national and regional interests:
-  (b) must have regard to the needs of Māori and other population groups identified in the tertiary education strategy issued under section 7:
-  (c) must, to the extent that is necessary or desirable in the circumstances, work collaboratively with—
-    (i) providers in relation to the functions set out in section 366(1)﻿(b), (c), and (e) and, in the case of wānanga, while respecting their special character under section 268(2)﻿(d)﻿(ii)﻿(B):
-    (ii) other workforce development councils, particularly on matters of common interest:
-    (iii) NZQA, in relation to qualifications development, programme endorsement, or developing, setting, or maintaining skill standards or national curricula:
-    (iv) any relevant regulatory body that performs or exercises any functions, duties, or powers under an enactment in relation to entry to an occupation in any of the specified industries covered by the workforce development council:
-  (d) must, when performing its functions under section 366(1)﻿(i) to (k), take all reasonable steps to avoid any adverse impact on its relationship with a provider or providers.
+**Audit**
 
-### 370 Annual fee payable by workforce development council
-(1) A workforce development council must pay to NZQA an annual fee prescribed by or determined under rules made under section 452(1)﻿(h).
+### 373 Industry skills board may charge fees for quality assurance functions
+(1) An industry skills board may, by notice, fix fees payable by providers in relation to the board’s activities in performing its quality assurance functions.
+(2) A notice under subsection (1) may fix different fees payable by providers, or a group or category of providers, in relation to training programmes based on the standards set by the industry skills board for qualifications that relate to a specified industry.
+(3) An industry skills board may not issue a notice under subsection (1) unless the chief executive of NZQA is satisfied that the proposed fee is reasonable, having regard to—
+  (a) the costs incurred by the industry skills board in performing the activities for which the proposed fee is payable; and
+  (b) the fees (if any) fixed by other industry skills boards in respect of the same activities.
+(4) Fees fixed under subsection (1) are payable in the manner prescribed in the notice and are recoverable as a debt due to the industry skills board.
+(5) Before issuing a notice under subsection (1), the industry skills board must—
+  (a) consult the providers concerned on any proposed fees; and
+  (b) give their views due consideration when deciding on the proposed fees.
+(6) Fees fixed under this section must be limited to recovering the actual and reasonable costs incurred by an industry skills board in performing its functions.
+(7) A fee payable by a provider may be refunded or waived in accordance with any criteria set out in the notice.
+(8) In this section, quality assurance functions, in relation to an industry skills board, means the activities of the industry skills board in relation to—
+  (a) administering capstone assessments under section 367(1)﻿(e); and
+  (b) endorsing programmes and moderating assessments under section 367(1)﻿(f) and (g).
+(9) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Validity of acts**
+
+### 374 Annual fee payable by industry skills board to NZQA
+(1) An industry skills board must pay to NZQA an annual fee prescribed by or determined under rules made under section 452(1)﻿(h).
 (2) The annual fee may recover no more than the reasonable costs, excluding those costs that are recoverable through fees charged under section 457, incurred by NZQA for—
   (a) prescribing quality assurance requirements under section 452(1)﻿(i); and
   (b) monitoring compliance, and addressing non-compliance, with those requirements in accordance with its functions under section 433(1)﻿(e); and
-  (c) issuing quality assurance improvement notices under section 371.
+  (c) issuing quality assurance improvement notices under section 375.
 (3) The fee is—
   (a) payable by the due date prescribed in the rules; and
   (b) recoverable as a debt due to NZQA.
 
-### 371 NZQA may issue quality assurance improvement notice
-(1) NZQA may, if satisfied that action is reasonably necessary to maintain the quality and effectiveness of a workforce development council’s performance of its functions, issue a quality assurance improvement notice to a workforce development council.
+### 375 NZQA may issue quality assurance improvement notice
+(1) NZQA may, if satisfied that action is reasonably necessary to maintain the quality and effectiveness of an industry skills board’s performance of its functions, issue a quality assurance improvement notice to the industry skills board.
 (2) A quality assurance improvement notice must—
-  (a) set out any concerns NZQA has about the workforce development council’s systems, practices, or procedures; and
-  (b) specify the time within which the workforce development council is expected to address NZQA’s concerns (which must be a reasonable time, having regard to the nature and complexity of the action required); and
-  (c) state that, if NZQA’s concerns are not addressed within the specified time, NZQA may issue a compliance notice under section 372; and
-  (d) state the consequence of a failure to comply with a compliance notice.
-
-### 372 NZQA may issue compliance notice
-(1) NZQA may issue a compliance notice to a workforce development council requiring it to do either or both of the following:
-  (a) do, or refrain from doing, a particular thing in relation to a prescribed quality assurance requirement:
-  (b) address any concerns set out in a quality assurance improvement notice issued under section 371 that were not addressed within the time specified in that notice.
-(2) Section 459(2) to (5) applies to a compliance notice issued under this section.
-(3) If a workforce development council fails to comply with a compliance notice issued under this section, NZQA may notify the Minister in writing.
-(4) A compliance notice may be issued to a workforce development council whether or not a quality assurance improvement notice has been issued under section 371.
-(5) Nothing in this section limits the power of NZQA to issue a compliance notice to a workforce development council in accordance with section 459.
-
-**Audit**
-
-### 373 Application of Public Audit Act 2001
-Each workforce development council established under section 363 is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-**Validity of acts**
-
-### 374 Acts in breach of statute invalid
-(1) An act of a workforce development council is invalid (unless section 375 applies) if—
-  (a) the act is contrary to, or outside the authority of, an Act; or
-  (b) the act is done otherwise than for the purpose of performing its functions.
-(2) Subsection (1) does not limit any discretion of a court to grant relief in respect of a minor or technical breach.
-
-### 375 Some natural person acts protected
-(1) Section 374, or any rule of law to similar effect, does not prevent a person dealing with a workforce development council from enforcing a transaction that is a natural person act unless the person dealing with the entity knew, or ought reasonably to have known, that—
-  (a) an express restriction in an Act makes the act contrary to, or outside the authority of, the Act; or
-  (b) the act was done otherwise than for the purpose of performing the workforce development council’s functions.
-(2) A person who relies on subsection (1) has the onus of proving that the person did not have, and could not reasonably be expected to have had, the knowledge referred to in that subsection.
-(3) A workforce development council must report, in its financial report required by clause 13 of Schedule 18, each transaction that the council has performed in the year to which the report relates that was invalid under section 374 but enforced in reliance on subsection (1).
-(4) To avoid doubt, this section does not affect any person’s other remedies under the general law (for example, remedies in contract).
-(5) In this section, natural person act has the same meaning as in section 148(5).
+  (a) set out any concerns NZQA has about the industry skills board’s systems, practices, or procedures; and
+  (b) specify the time within which the industry skills board is expected to address NZQA’s concerns (which must be a reasonable time, having regard to the nature and complexity of the action required); and
+  (c) state that, if NZQA’s concerns are not addressed within the specified time, NZQA may issue a compliance notice under section 376; and
+  (d) state the possible consequences of a failure to comply with a compliance notice.
 
 **Apprenticeships**
 
-### 376 Apprenticeship training activities must be included in proposed plan
+### 376 NZQA may issue compliance notice
+(1) NZQA may issue a compliance notice to an industry skills board requiring it to do either or both of the following:
+  (a) do, or refrain from doing, a particular thing in relation to a prescribed quality assurance requirement:
+  (b) address any concerns set out in a quality assurance improvement notice issued under section 375 that were not addressed within the time specified in that notice.
+(2) Section 459(2) to (5) applies to a compliance notice issued under this section.
+(3) If an industry skills board fails to comply with a compliance notice issued under this section, NZQA may notify the Minister in writing.
+(4) A compliance notice may be issued to an industry skills board whether or not a quality assurance improvement notice has been issued under section 375.
+(5) Nothing in this section limits the power of NZQA to issue a compliance notice to an industry skills board in accordance with section 459.
+
+### 377 Application of Public Audit Act 2001 to industry skills board
+Each industry skills board established under section 362 is a public entity as defined in section 5 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+
+### 378 Acts in breach of statute invalid
+(1) An act of an industry skills board is invalid (unless section 379 applies) if—
+  (a) the act is contrary to, or outside the authority of, an Act; or
+  (b) the act is not done for the purpose of performing the industry skills board’s functions.
+(2) Subsection (1) does not limit any discretion of a court to grant relief in respect of a minor or technical breach.
+
+### 379 Some natural person acts protected
+(1) Section 378, or any rule of law to similar effect, does not prevent a person dealing with an industry skills board from enforcing a transaction that is a natural person act unless the person dealing with the entity knew, or ought reasonably to have known, that—
+  (a) an express restriction in an Act makes the act contrary to, or outside the authority of, the Act; or
+  (b) the act was done otherwise than for the purpose of performing the industry skills board’s functions.
+(2) A person who relies on subsection (1) has the onus of proving that the person did not have, and could not reasonably be expected to have had, the knowledge referred to in that subsection.
+(3) An industry skills board must report, in its financial report required by clause 13 of Schedule 18, each transaction that the board has performed in the year to which the report relates that was invalid under section 377 but enforced in reliance on subsection (1).
+(4) To avoid doubt, this section does not affect any person’s other remedies under the general law (for example, remedies in contract).
+(5) In this section, natural person act has the same meaning as in section 148(5).
+
+### 379 Availability of apprenticeship training code
+[Repealed]
+
+### 380 Disestablishment of industry skills boards
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, disestablish an industry skills board and provide for the distribution of its assets and liabilities.
+(2) The Minister may not recommend the disestablishment of an industry skills board under subsection (1) unless—
+  (a) the Minister has received a request from the industry skills board or 1 or more of the specified industries covered by the industry skills board for it to be disestablished and is satisfied on reasonable grounds that there are good reasons to do so; or
+  (b) the Minister is satisfied that it is necessary to do so because—
+    (i) the industry skills board has persistently engaged in unlawful activity; or
+    (ii) the industry skills board has persistently failed to perform its functions or duties; or
+    (iii) there have been 1 or more serious complaints, or there has been a persistent pattern of complaints, to TEC, NZQA, or the Minister from the 1 or more specified industries that the industry skills board covers regarding the board’s performance or exercise of its functions, duties, or powers.
+(3) An order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Apprenticeship training activities**
+
+### 381 Training agreements and apprenticeship training agreements part of employment agreement
+Training agreements and apprenticeship training agreements are part of the employment agreement between the employee and employer concerned.
+
+### 382 Apprenticeship training activities must be included in proposed plan
 (1) A provider that seeks funding for an apprenticeship training activity (as described in subsection (2)) via a plan must specify in its proposed plan how it intends to carry out that activity.
 (2) The apprenticeship training activities are—
   (a) to promote apprenticeship training generally through providing information, guidance, and advice to employers and prospective apprentices about the benefits of an apprenticeship:
@@ -4703,75 +4926,66 @@ Each workforce development council established under section 363 is a public ent
   (c) to provide or arrange training or employment that may lead to apprenticeship training for prospective apprentices:
   (d) to help prospective apprentices enter into apprenticeship training agreements:
   (e) to produce, and facilitate (in consultation with the apprentice and the apprentice’s employer) the implementation of, individual training plans consistent with an apprentice’s apprenticeship training agreement:
-  (f) to monitor individual apprentices to ensure that their apprenticeship training leads them to attain, within a reasonable time, the level of skills necessary to complete a qualification in the skills of the specified industry:
-  (g) to ensure, as far as is reasonably practicable, that apprenticeship training, and every apprenticeship training agreement, within the specified industry is consistent with any apprenticeship training code:
+  (f) to monitor individual apprentices to ensure that their apprenticeship training enables them to attain, within a reasonable time, the level of skills necessary to complete a qualification in the skills of the specified industry:
+  (g) to ensure, as far as is reasonably practicable, that apprenticeship training, and every apprenticeship training agreement, within a specified industry is consistent with any apprenticeship training code:
   (h) to provide or procure appropriate pastoral care and support for apprentices, having regard to the age and experience of the apprentice and the contents of any apprenticeship training code.
 
-### 377 Duties of persons carrying out apprenticeship training activities
+### 383 Duties of persons carrying out apprenticeship training activities
 (1) Persons carrying out apprenticeship training activities (whether or not via a plan) must,—
-  (a) in performing any apprenticeship training activity described in section 376(2), comply with every part of the apprenticeship training code that affects that activity:
+  (a) in performing any apprenticeship training activity described in section 382(2), comply with every part of the apprenticeship training code that affects that activity:
   (b) before helping a person to enter into an apprenticeship training agreement, advise that person to seek advice about the agreement from an independent person.
 (2) A provider must give written notice to an apprentice under the provider’s care if the provider becomes aware that it is impracticable for the apprentice to continue their apprenticeship training with their current employer.
-(3) A notice under subsection (2) must advise the apprentice—
-  (a) that the provider is able to assist the apprentice with finding a new employer with whom the apprentice can complete their apprenticeship training; and
+(3) A notice under subsection (2) must advise the apprentice that—
+  (a) the provider is able to assist the apprentice with finding a new employer with whom the apprentice can complete their apprenticeship training; and
   (b) if the apprentice so requests, the provider will make reasonable endeavours to find a new employer with whom the apprentice can complete their training.
 
-### 378 Minister may issue apprenticeship training code
+### 384 Minister may issue apprenticeship training code
 (1) The Minister may issue an apprenticeship training code that—
   (a) is consistent with this subpart; and
   (b) sets out the responsibilities of apprentices, their employers, and persons carrying out apprenticeship training activities under this subpart.
 (2) The apprenticeship training code may, but need not, be a code recommended by TEC.
 (3) Before issuing an apprenticeship training code, the Minister may consult any persons or organisations that the Minister thinks fit.
-(4)
-(5) Before issuing an apprenticeship training code under subsection (1), the Minister must consult relevant workforce development councils that cover the 1 or more specified industries to which the code relates.
-(6) An apprenticeship training code—
+(4) Before issuing an apprenticeship training code under subsection (1), the Minister must consult relevant industry skills boards that cover the 1 or more specified industries to which the code relates.
+(5) An apprenticeship training code issued under this section—
   (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
   (b) comes into force on a date specified in it, being not less than 28 days after it is published under that Act.
 
-### 379 Availability of apprenticeship training code
-[Repealed]
-
-### 380 Apprenticeship training code to be taken into account by mediator, Employment Relations Authority, and Employment Court
+### 385 Apprenticeship training code to be taken into account by mediator, Employment Relations Authority, and Employment Court
 In exercising or performing, in relation to a matter concerning an apprentice, any power or function under the Employment Relations Act 2000, the following must take into account every applicable element of any apprenticeship training code:
   (a) a person providing mediation services under that Act:
   (b) the Employment Relations Authority:
   (c) the Employment Court.
 
-**Training levy**
+**Industry skills board levy**
 
-### 381 Purpose of levy
-The purpose of sections 382 to 385 and Schedules 16 and 17 is to enable the imposition of a training levy on the members of an industry, payable to a workforce development council, if a ballot of those members shows sufficient support for the imposition of the levy.
-
-### 382 Levy may be imposed by Order in Council
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, impose a levy on qualifying members of a levy group that is payable to a workforce development council.
-(2) The Minister may not recommend the making of an Order in Council unless the Minister is satisfied on reasonable grounds of the matters in section 384.
+### 385A Industry skills board levy may be imposed by Order in Council
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, impose a levy on qualifying members of a levy group that is payable to an industry skills board.
+(2) The Minister may not recommend the making of an Order in Council under this section unless the Minister is satisfied that—
+  (a) the industry skills board has undertaken adequate consultation on the proposals relating to the levy order with the levy group concerned; and
+  (b) the feedback from consultation with the levy group supports the view that imposing the levy is in the interests of all members of the levy group.
 (3) A levy may be payable to—
-  (a) 1 workforce development council by all qualifying members of the industry that is covered by that council; or
-  (b) 1 workforce development council by all qualifying members of a specific industry that is within the range of industries covered by that council; or
-  (c) more than 1 workforce development council, jointly, by all qualifying members of an industry that is covered by those councils.
-(4) A levy order under this section—
+  (a) 1 industry skills board by all qualifying members of the industry that is covered by that board; or
+  (b) 1 industry skills board by all qualifying members of a specific industry that is within the range of industries covered by that board; or
+  (c) more than 1 industry skills board, jointly, by all qualifying members of an industry that is covered by those boards.
+(4) A levy order made under this section—
   (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
   (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
 
-### 383 Minister must indicate whether orders to continue in force
+### 385B Matters to be specified in levy orders
+Schedule 16 sets out provisions relating to the matters that must be specified in a levy order made under section 385A.
+
+### 385C Administration of levy orders
+Schedule 17 sets out provisions relating to the administration of an industry skills board levy.
+
+### 385D Minister must indicate whether levy order to continue in force
 (1) The Minister on whose recommendation a levy order is made must indicate the Minister’s intentions with regard to the levy order continuing in force by publishing a notice in the Gazette at least 6 months before the deadline that applies under subpart 3 of Part 5 of the Legislation Act 2019 (the 6-month date).
 (2) However, this section does not apply if the levy order has already been revoked, disallowed under subpart 2 of Part 5 of the Legislation Act 2019, or confirmed by an Act before the 6-month date.
 
-### 384 Restrictions on making of levy orders
-(1) The Minister may not recommend the making of a levy order under section 382 unless satisfied on reasonable grounds that—
-  (a) the workforce development council to which the levy is payable has, within the previous 12 months, balloted all known members of the levy group, in accordance with clauses 5 to 12 of Schedule 16, in relation to a proposal that the levy should be imposed on those members; and
-  (b) at least 60% of the ballot papers distributed were validly completed and returned before the closing date to the independent returning officer conducting the ballot; and
-  (c) of the ballot papers validly completed and returned,—
-    (i) more than 60% of the total supported the imposition of the levy; and
-    (ii) more than 60%, weighted according to the size of the industry member that returned the ballot paper (calculated at the date on which the ballot closed and on the same basis as the levy is proposed to be charged, as set out in the ballot paper), supported the imposition of the levy; and
-  (d) the details specified in the order do not differ in any material way from those specified in the ballot paper; and
-  (e) the details specified in the order are acceptable to the Minister; and
-  (f) the workforce development council has or is to have in place adequate systems for accounting to qualifying members of the levy group for the expenditure of levy funds; and
-  (g) all other relevant matters known to the Minister have been properly considered.
-(2) When considering the matters in subsection (1), the Minister must consult TEC and may consult any other persons that the Minister thinks fit.
-
-### 385 Further provisions relating to training levy
-Schedules 16 and 17 contain further provisions relating to the imposition of a training levy and the matters that must be specified in a levy order.
+### 385E Expiry and revocation of levy order
+(1) A levy order expires 5 years after the day on which it was made unless it is sooner—
+  (a) revoked; or
+  (b) disallowed under subpart 2 of Part 5 of the Legislation Act 2019.
+(2) A levy order is revoked if the industry skills board responsible for administering the levy is disestablished under section 380.
 
 ### Subpart 7 — Offences
 
@@ -4807,8 +5021,8 @@ A private training establishment that fails, without reasonable excuse, to compl
     (i) is a university; or
     (ii) is a registered establishment or wānanga that has the Minister's consent under section 456 to use the term; or
     (iii) was a university but, despite being incorporated under section 270(4) into another institution, retains the characteristics of a university as set out in section 268(2)﻿(d)﻿(i) and (ii)﻿(A):
-  (b) uses the term polytechnic to describe an educational establishment or facility unless the educational establishment or facility is Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
-  (c) uses the term institute of technology to describe an educational establishment or facility unless the educational establishment or facility is Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+  (b) uses the term polytechnic to describe an educational establishment or facility unless the educational establishment or facility is a polytechnic:
+  (c) uses the term institute of technology to describe an educational establishment or facility unless the educational establishment or facility is a polytechnic.
 (2) A person, other than a university, commits an offence if the person grants or purports to grant an award that is described as a degree, or the description of which includes the word bachelor, master, doctor, or postgraduate, unless the person has the consent of NZQA.
 (3) A person commits an offence if the person, without the consent of NZQA, grants or purports to grant an award that (or the name or description of which) includes the word national or the words New Zealand.
 (4) A person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
@@ -4863,7 +5077,7 @@ A private training establishment that contravenes section 343 commits an offence
 
 ### 395 Offences relating to enrolment of international students at private training establishments or institutions
 (1) A private training establishment that contravenes section 527(1) or (2) commits an offence and is liable on conviction to a fine not exceeding $10,000.
-(2) The council of an institution (including an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary) that contravenes section 525 commits an offence and is liable on conviction to a fine not exceeding $10,000.
+(2) The council of an institution that contravenes section 525 commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 396 Offences relating to allowances and student loans
 (1) A person commits an offence, and is liable on conviction to a fine not exceeding $2,000, if the person, in response to a requirement under clause 3(1) of Schedule 9 or a question asked under clause 3(3) of Schedule 9, knowingly—
@@ -4951,7 +5165,7 @@ Provisions that do not apply to category A wānanga and category B wānanga
     (iii) section 280 (functions of councils):
     (iv) section 281 (duties of councils):
     (v) section 282(4) to (7) (powers of institutions):
-    (vi) section 287 (criteria for risk assessment of institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology)):
+    (vi) section 287 (criteria for risk assessment of institutions):
     (vii) section 288 (institutions to provide information to TEC if required):
     (viii) section 289 (ministerial appointment of Crown observers for institutions):
     (ix) sections 290 to 293 (ministerial dissolution of councils and appointments and processes to appoint commissioners):
@@ -5170,7 +5384,7 @@ The council of a category B wānanga is not a local authority for the purposes o
 An institution that is a category B wānanga is a public office for the purposes of the Public Records Act 2005.
 
 ### 398R Application of Public Audit Act 2001
-(1) An institution that is a category B wānanga is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+(1) An institution that is a category B wānanga is a public entity as defined in section 5 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 (2) The wānanga must forward to the Auditor-General,—
   (a) within 3 months after the end of each financial year,—
     (i) the annual financial statements of the wānanga; and
@@ -5366,11 +5580,7 @@ The chief executive of TEC must—
 (3) Nothing in subsection (2) limits or affects the duty of the chief executive to monitor institutions at risk under this section.
 
 ### 406 Additional requirement of Te Pūkenga—New Zealand Institute of Skills and Technology’s council to provide information
-(1) The chief executive of TEC may, by written notice to Te Pūkenga—New Zealand Institute of Skills and Technology’s council, require it to provide any information that the chief executive considers is reasonably required in relation to the operation of Te Pūkenga—New Zealand Institute of Skills and Technology or any related entity of Te Pūkenga—New Zealand Institute of Skills and Technology for the purpose of determining whether there is a risk to, or arising from,—
-  (a) the governance, management, or financial position of Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology; or
-  (b) the education and training performance of students enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology or a related entity of Te Pūkenga—New Zealand Institute of Skills and Technology.
-(2) If Te Pūkenga—New Zealand Institute of Skills and Technology’s council receives a notice under subsection (1), it must provide the chief executive of TEC with the required information within the period specified in the notice.
-(3) The chief executive of TEC may revoke or amend a notice given under subsection (1).
+[Repealed]
 
 ### 407 Declaration of interests
 (1) A person who is proposed to be appointed as chief executive of TEC must declare any interests (within the meaning of that term in section 10 of the Crown Entities Act 2004) to TEC before accepting appointment to the position of chief executive.
@@ -5379,7 +5589,7 @@ The chief executive of TEC must—
 ### 408 Principles guiding how TEC operates
 (1) In performing its functions, TEC must—
   (a) comply with any direction of the Minister given under section 103 of the Crown Entities Act 2004; and
-  (b) work closely with tertiary education providers and workforce development councils and their stakeholders.
+  (b) work closely with tertiary education providers and industry skills boards and their stakeholders.
 (2) TEC must have regard to the tertiary education strategy when performing its functions under this Act or any other enactment.
 
 ### 409 Functions of TEC
@@ -5407,7 +5617,7 @@ The chief executive of TEC must—
   (m) to develop and recommend to the Minister an apprenticeship training code for the purposes of section 378; and
   (n)
   (o) to monitor the performance of persons carrying out apprenticeship training activities (whether or not under a plan) to ensure that they comply with the apprenticeship training code; and
-  (p) to exercise the powers and perform the functions of TEC under sections 381 to 385 (which relate to work-based training levies); and
+  (p) to exercise the powers and perform the functions of TEC under sections 382 to 385E (which relate to work-based training levies); and
   (q) to undertake any other function conferred on it by this Act or any other enactment.
 (2) In addition, TEC may provide information and other tertiary-related services to the Crown, provided that those functions are consistent with TEC’s statement of intent and are consistent with, and do not displace, any of its functions under subsection (1).
 
@@ -5417,27 +5627,19 @@ The chief executive of TEC must—
   (b) any other power that the Minister specifies by notice in writing to TEC.
 (2) This clause applies despite section 73 of the Crown Entities Act 2004.
 
-### 411 Duties of TEC in relation to workforce development councils
-(1) TEC must—
-  (a) have regard to advice from a workforce development council in relation to its 1 or more specified industries when assessing any proposed plan under section 425 or when considering funding an organisation other than via a plan under section 428 in relation to vocational education and training; and
-  (b) give effect to advice from a workforce development council about the mix of vocational education and training needed for the 1 or more industries covered by the workforce development council when deciding to give funding approval to organisations under section 425(5).
-(2) The duty in subsection (1)﻿(b) is subject to—
-  (a) any funding limits set by the Minister under section 419 and TEC under section 422; and
-  (b) any constraints on the capacity or ability of organisations to provide, arrange, and support the mix of vocational education and training.
-(3) TEC must advise a workforce development council, in writing, if it is unable to give effect to the workforce development council’s advice about the mix of vocational education and training needed for the council’s specified industries due to any limits or constraints referred to in subsection (2) and advise the workforce development council about—
-  (a) what specific actions TEC intends to take to address those limits or constraints within the next 3 years; and
-  (b) its right to object to the Minister if the workforce development council reasonably believes that TEC has not adequately responded to its advice about the mix of vocational education and training required to meet the needs of its specified industries.
+### 411 Duties of TEC in relation to industry skills boards
+TEC must have regard to advice from an industry skills board in relation to its 1 or more specified industries when assessing any proposed plan under section 425 or when considering funding an organisation other than via a plan under section 428 in relation to vocational education and training.
 
-### 412 Power of TEC to require information from workforce development council
-(1) The chief executive of TEC may, by written notice to a workforce development council, require it to provide the chief executive with any information about the financial position or operations (or both) of the workforce development council (whether or not funded under a plan under section 425).
-(2) A workforce development council that receives a notice under subsection (1) must provide the chief executive of TEC with the required information within the period specified in the notice.
+### 412 Power of TEC to require information from industry skills board
+(1) The chief executive of TEC may, by written notice to an industry skills board, require it to provide the chief executive of TEC with any information about the financial position or operations (or both) of the industry skills board (whether or not funded under a plan under section 425).
+(2) An industry skills board that receives a notice under subsection (1) must provide the chief executive of TEC with the required information within the period specified in the notice.
 (3) The chief executive of TEC may revoke or amend a notice given under subsection (1).
 
-### 413 Power of TEC to audit workforce development councils
-(1) For the purpose of ascertaining whether a workforce development council is complying, or has complied, with this Act, the chief executive of TEC may commission an independent audit of the workforce development council.
+### 413 Power of TEC to audit industry skills board
+(1) For the purpose of ascertaining whether an industry skills board is complying, or has complied, with this Act, the chief executive of TEC may commission an independent audit of the industry skills board.
 (2) The audit may (without limitation) include an assessment of—
-  (a) the performance of the workforce development council’s functions:
-  (b) the application of funding provided to the workforce development council by TEC.
+  (a) the performance of the industry skills board’s functions:
+  (b) the application of funding that TEC provides to the industry skills board.
 
 ### 414 Secretary may delegate certain functions and powers to TEC
 (1) The Secretary may delegate to TEC any functions or powers of the Secretary under regulations made under section 645 or 646 or clause 3 of Schedule 9 (which relate to student allowances).
@@ -5507,7 +5709,7 @@ Despite section 6 of the Commerce Act 1986, nothing in that Act applies to TEC e
       (C) invites submissions on the proposed conditions; and
       (D) specifies the date by which submissions must be received, which must be a date no later than 21 days after the date of the Gazette notice; and
     (ii) the date by which submissions must be received has passed.
-(2) However, the Minister may direct that funding be provided to Te Pūkenga—New Zealand Institute of Skills and Technology via a funding mechanism if the Minister reasonably considers that it is consistent with the efficient use of national resources and in the national interest to do so.
+(2)
 
 ### 421 Funding mechanisms consistent with quality assurance principle
 Every funding mechanism must be consistent with the principle that receiving public funds is dependent on an organisation meeting the quality assurance requirements in this Act.
@@ -5621,8 +5823,8 @@ TEC must—
   (b) to monitor and regularly review, and advise the Minister on, the standards for qualifications in relevant schools and in tertiary education, either generally or in relation to a particular organisation or a particular programme or micro-credential:
   (c) to maintain mechanisms for the recognition of learning (for example, the recognition of learning through qualifications gained and standards met):
   (d) to maintain the Qualifications and Credentials Framework and Directory of Assessment and Skill Standards:
-  (e) to monitor, through the exercise of its powers under this Act, compliance by workforce development councils with the prescribed quality assurance requirements, and to address non-compliance:
-  (f) to monitor the quality and results of a workforce development council’s systems and procedures for its moderation activities:
+  (e) to monitor, through the exercise of its powers under this Act, compliance by industry skills boards with the prescribed quality assurance requirements, and to address non-compliance:
+  (f) to monitor the quality and results of an industry skills board’s systems and procedures for its moderation activities:
   (g) to make rules, not inconsistent with this Act, under any provision of this subpart that empowers NZQA to make rules:
   (h) to ensure there are mechanisms in place to guarantee that relevant schools and tertiary education providers that provide programmes or micro-credentials that, in the view of NZQA, require national consistency have assessment and moderation procedures that are fair, equitable, and consistent, and comply with the appropriate standards:
   (i) to assist overseas governments, and agencies of those governments, by—
@@ -5677,7 +5879,7 @@ NZQA has the power to carry out any research activities that it considers releva
 
 ### 438 Standard-setting bodies
 (1) An approved standard-setting body includes—
-  (a) a workforce development council established in accordance with section 363; and
+  (a) an industry skills board established under section 362; and
   (b) the Ministry; and
   (c) NZQA; and
   (d) any other body approved by NZQA under subsection (3).
@@ -5888,8 +6090,8 @@ NZQA has the power to carry out any research activities that it considers releva
   (e) prescribing the requirements for the protection of student fees that must be met by a private training establishment, any person to whom section 355 applies, any agent or person purporting to act as an agent for a student or private training establishment, and any independent trustee:
   (f) prescribing matters relating to the general operation of the Qualifications and Credentials Framework and the Directory of Assessment and Skill Standards:
   (g) prescribing the quality assurance requirements that must be met by providers of adult and community education:
-  (h) prescribing the amount of, or the method of determining, the annual fee payable by a workforce development council and when and how that fee is payable:
-  (i) prescribing quality assurance requirements for workforce development councils, including (without limitation) requirements relating to the performance of the relevant functions of workforce development councils:
+  (h) prescribing the amount of, or the method of determining, the annual fee payable by an industry skills board and when and how that fee is payable:
+  (i) prescribing quality assurance requirements for industry skills boards, including (without limitation) requirements relating to the performance of the relevant functions of industry skills boards:
   (j)
   (k) providing for the review, amendment, removal, or alteration of the status of qualifications, micro-credentials, and standards, including their components (including where amendments to titles occur, consequential amendments to approved programmes of study or training titles, micro-credential approval titles, accreditations to provide approved programmes or approved micro-credentials, and consents to assess against standards):
   (l) providing any special requirements for NCEA and other secondary school qualifications or awards for the purposes of the Qualifications and Credentials Framework:
@@ -5901,8 +6103,8 @@ NZQA has the power to carry out any research activities that it considers releva
     (i) the kinds of enrolment and academic records that must be kept:
     (ii) the manner in which the records must be kept:
     (iii) how long the records must be kept:
-  (r) prescribing reporting requirements that institutions or workforce development councils must comply with in relation to the student’s record of achievement that is maintained by NZQA:
-  (s) for the purposes of rules made under paragraph (r), specifying the qualifications or standards for which institutions or workforce development councils are required to report the credits gained by students undertaking or who have undertaken study or training towards those qualifications or standards:
+  (r) prescribing reporting requirements that institutions or industry skills boards must comply with in relation to a student’s record of achievement that is maintained by NZQA:
+  (s) for the purposes of rules made under paragraph (r), specifying the qualifications and standards for which institutions or industry skills boards are required to report the credits gained by students who are undertaking or who have undertaken study or training towards those qualifications or standards:
   (t) prescribing the quality assurance requirements for tertiary education bodies in respect of which NZQA grants approvals or consents under this subpart:
   (u) prescribing the types of programmes and micro-credentials that are exempt from the requirements specified in section 356(1):
   (ua) prescribing the process that an institution must follow in order to make any 1 of the following types of transitions:
@@ -6006,7 +6208,7 @@ NZQA has the power to carry out any research activities that it considers releva
 ### 458 Power to obtain information
 (1) The chief executive or a person authorised by the chief executive may, subject to subsection (2),—
   (a) by written notice to the Secretary, require the Secretary, within a reasonable period that is specified in the notice, to supply to NZQA the information or documents relating to institutions that are specified in the notice; and
-  (b) by written notice to the chief executive of an institution or a workforce development council, require the chief executive, within a reasonable period that is specified in the notice, to supply to NZQA the information or documents relating to the institution or workforce development council that are specified in the notice.
+  (b) by written notice to the chief executive of an institution or an industry skills board, require the chief executive, within a reasonable period that is specified in the notice, to supply to NZQA the information or documents relating to the institution or industry skills board that are specified in the notice.
 (2) The powers conferred by subsection (1) may be exercised only where the obtaining of the information or documents is necessary for the purposes of the performance of the functions of NZQA.
 
 ### 459 Compliance notices
@@ -6813,7 +7015,7 @@ The purpose of this subpart is to ensure that international students trust New Z
     (i) the micro-credential is an approved micro-credential and the establishment is accredited to provide the micro-credential; or
     (ii) the micro-credential is of less than 3 months' duration and is exempted under section 528; and
   (c) if standards from the Directory of Assessment and Skill Standards are included in the approved micro-credential, the establishment has a consent to assess against those standards.
-(3) For the purposes of this section and section 528, a programme or micro-credential is of less than 3 months’ duration if the period starting on the day on which the programme or scheme starts and ending on the day on which it ends (or is likely to end) is less than 3 calendar months, irrespective of the number of days on which the programme or micro-credential is, or is proposed to be, provided during that period.
+(3) For the purposes of this section and section 528, a programme or micro-credential is of less than 3 months’ duration if the period starting on the day on which the programme or micro-credential starts and ending on the day on which it ends (or is likely to end) is less than 3 calendar months, irrespective of the number of days on which the programme or micro-credential is, or is proposed to be, provided during that period.
 
 ### 528 Exemptions
 (1) NZQA may—
@@ -7278,7 +7480,7 @@ Despite section 550,—
 
 ### 556 Grants to educational bodies
 (1) An educational body may, on conditions that the Minister thinks fit, be paid grants out of money appropriated by Parliament for the purpose.
-(2) However, a grant may not be paid to a tertiary education provider or a workforce development council unless the Minister is satisfied that the payment is in the national interest.
+(2) However, a grant may not be paid to a tertiary education provider or an industry skills board unless the Minister is satisfied that the payment is in the national interest.
 (3) The Minister may determine the amount of, and the conditions that apply to, each grant.
 (4) Before a grant is paid, the Minister may give the educational body written notice that the grant, or a part or parts of the grant (specified as a particular sum or as a proportion of the total grant), is not to be used except for purposes specified in the notice.
 (5) If notice is given, the educational body must ensure that no part of the grant to which the notice relates is used for purposes other than those specified for it in the notice.
@@ -8431,9 +8633,7 @@ A direction expires on the earlier of—
   (b) the date on which the relevant state of emergency, transitional period, or epidemic notice ends.
 
 ### 658 Academic freedom unaffected
-Nothing in sections 653 to 657 limits the academic freedom of—
-  (a) an institution other than Te Pūkenga—New Zealand Institute of Skills and Technology as set out in section 267:
-  (b) Te Pūkenga—New Zealand Institute of Skills and Technology as set out in section 318.
+Nothing in sections 653 to 657 limits the academic freedom of an institution as set out in section 267.
 
 ### 659 Power of boards and sponsors to close schools
 (1) Despite anything in regulations made under section 638(2)﻿(e), a board or a sponsor may close a school it administers because of an epidemic, a flood, a fire, or any other emergency.
@@ -8684,8 +8884,8 @@ An enrolment scheme that complies with section 71 (regardless of whether that se
 
 **Institutions**
 
-### 14 Institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology or Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary)
-(1) This clause applies to an institution (other than Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary) in existence immediately before the commencement of this clause.
+### 14 Institutions
+(1) This clause applies to an institution in existence immediately before the commencement of this clause.
 (2) The institution must be treated as having been established under section 268.
 (3) A reference in any other Act to an institution established under this Act must be read as including a reference to a body specified in the definition of institution in section 10(1).
 
@@ -9632,6 +9832,590 @@ In this subpart,—
 (2) On and after the conversion date,—
   (a) the sponsor is to be treated as if it were a party to the arrangement; and
   (b) all references in the arrangement to the board of the converted school must be treated as if they were references to the sponsor.
+
+### Part 7 — Provisions relating to Education and Training (Vocational Education and Training System) Amendment Act 2025
+
+### 126 Interpretation
+(1) In this Part, unless the context otherwise requires,—
+  - **amendment Act** means the Education and Training (Vocational Education and Training System) Amendment Act 2025
+  - **commencement** means the date on which the amendment Act (except Parts 3 to 6 of Schedule 6) comes into force
+  - **NZIST** means New Zealand Institute of Skills and Technology continued as an institution under clause 128
+  - **Te Pūkenga—New Zealand Institute of Skills and Technology** or means the institution continued under section 314 (as in force immediately before commencement) and in existence immediately before commencement
+  - **training activity** means a programme, micro-credential, assessment against standards, or other activity provided or carried out by Te Pūkenga before commencement relating to the provision of any work-based training (as defined in section 10(1)).
+(2) A term used in this Part that is defined in section 10(1) or (6), but not in this Part, has the meaning given in section 10(1) or (6).
+
+#### Subpart 1 — Transitional provisions relating to Te Pūkenga
+
+### 127 Definitions for this subpart
+(1) In this subpart, unless the context otherwise requires,—
+  - **disestablishment date** , in relation to NZIST, means the date specified in clause 147(1)﻿(b) or specified by an order made under clause 147(2)
+  - **successor organisation** ,—
+    (a) in relation to a programme, micro-credential, assessment against standards, or other activity provided by NZIST on or before the transfer date, means a tertiary education provider that on and after the transfer date is responsible for continuing the programme, micro-credential, assessment against standards, or other activity (or any part of the programme, micro-credential, assessment against standards, or other activity):
+    (b) in relation to a training activity provided by NZIST on or before the transfer date, means an industry skills board that on and after the transfer date is responsible for continuing the training activity or any part of the training activity
+  - **transfer date** ,—
+    (a) in relation to a programme, micro-credential, or other activity provided by NZIST, means the date (or dates) specified in the transition plan approved under clause 130 on which the programme or micro-credential transfers to the relevant successor organisation:
+    (b) in relation to a training activity provided by NZIST, means the date (or dates) specified in the transition plan approved under clause 131 on which the training activity transfers to the relevant successor organisation
+  - **transition period** , for NZIST, means the period starting on commencement and ending on the close of the day before the disestablishment date
+  - **transition plan** , for NZIST, means a plan developed and approved under clause 130 or 131.
+(2) The modification of this Act by clause 129 does not affect the text of this Act, but requires it to be read as if amended in the manner indicated by that clause.
+
+**Continuation, and renaming, of Te Pūkenga**
+
+### 128 Continuation, and renaming, of Te Pūkenga during transition period
+(1) Despite the amendments made by the amendment Act, Te Pūkenga continues in existence during the transition period and is renamed the New Zealand Institute of Skills and Technology (NZIST).
+(2) During the transition period,—
+  (a) Te Pūkenga’s council continues in existence as the council of NZIST; and
+  (b) NZIST’s council may continue to operate even if the membership of the council no longer meets any 1 or more of the membership requirements specified in section 320(1)﻿(a) to (d) (as in force before commencement); and
+  (c) an elected member of NZIST’s council may continue to serve on the council even if the advisory committee that elected the member ceases to operate.
+
+### 129 Application of this Act to NZIST during transition period
+(1) This Act (as in force immediately before commencement) continues to apply to NZIST during the transition period—
+  (a) as modified by this clause; and
+  (b) with any other necessary modifications.
+Functions of NZIST
+(2) Section 315 (as in force immediately before commencement) does not apply to NZIST.
+(3) Instead, NZIST’s functions during the transition period are as follows:
+  (a) to maintain the delivery of programmes, micro-credentials, training activities, and other activities pending the transfer of those programmes, micro-credentials, training activities, or other activities to successor organisations:
+  (b) to do all things necessary to transfer the programmes, micro-credentials, training activities, and other activities that have been allocated to successor organisations under a transition plan:
+  (c) to do all other things that are necessary to prepare for NZIST’s disestablishment, including (without limitation)—
+    (i) disposing of surplus assets and discharging the liabilities of NZIST:
+    (ii) cancelling or closing down any programmes, micro-credentials, training activities, or other activities provided by NZIST that have not been allocated to a successor organisation under a transition plan or for which there is no successor organisation:
+  (d) to carry out any other functions that are conferred by the Minister for the purpose of giving effect to this Part.
+Duties of NZIST’s council
+(4) NZIST’s council has—
+  (a) all the duties of a polytechnic’s council under section 281 (as amended by the amendment Act); and
+  (b) the additional duties of a polytechnic set out in section 321 (as replaced by the amendment Act).
+Duty to give effect to charter
+(5) Section 316 and Schedule 13 (as in force immediately before commencement) do not apply to NZIST.
+Schedules
+(6) Schedules 14 and 15 (as in force immediately before commencement) do not apply to NZIST.
+
+**Transfer of NZIST’s operations**
+
+### 130 Requirement to develop transition plan for programmes and micro-credentials
+(1) As soon as practicable after commencement, NZIST’s council must, in consultation with NZQA, develop a transition plan for approval by TEC that provides for the transfer of NZIST’s operations, including (without limitation)—
+  (a) programmes, micro-credentials, or other activities provided by NZIST to 1 or more tertiary education providers; and
+  (b) any specified rights, assets, liabilities, or agreements of NZIST relating to those programmes, micro-credentials, or other activities to 1 or more tertiary education providers.
+(2) The chief executive of TEC—
+  (a) may issue guidance to NZIST on what must be contained in the transition plan; and
+  (b) must consult NZIST when developing the guidance.
+(3) When approving a transition plan under this clause, TEC may, by giving written notice to NZIST, make any amendments to the plan that TEC considers reasonably necessary.
+(4) As soon as practicable after TEC has approved a transition plan, NZIST’s council must do all things necessary to give effect to the plan.
+(5) If NZIST fails or refuses to develop a transition plan, TEC may develop the transition plan and NZIST must give effect to that plan.
+
+### 131 Requirement to develop transition plan for training activities
+(1) As soon as practicable after commencement, NZIST’s council must, in consultation with NZQA, develop a transition plan for approval by TEC that provides for the transfer of NZIST’s operations, including (without limitation)—
+  (a) training activities provided by NZIST to 1 or more industry skills boards; and
+  (b) any specified rights, assets, liabilities, or agreements of NZIST relating to those training activities to 1 or more industry skills boards.
+(2) A transition plan developed under subclause (1) may specify that the assets of NZIST to be transferred to an industry skills board for the purposes of providing training activities under clause 153—
+  (a) may only be used by the industry skills board for those training activities; and
+  (b) must be managed by the industry skills board in a way that ensures the assets are available for transfer to a tertiary education provider under clause 160.
+(3) The chief executive of TEC—
+  (a) may issue guidance to NZIST on what must be contained in the transition plan; and
+  (b) must consult NZIST when developing the guidance.
+(4) When approving a transition plan under this clause, TEC may, by giving written notice to NZIST, make any amendments to the plan that TEC considers reasonably necessary.
+(5) As soon as practicable after TEC has approved a transition plan, NZIST’s council must do all things necessary to give effect to the plan.
+(6) If NZIST fails or refuses to develop a transition plan, TEC may develop the transition plan and NZIST’s council must give effect to that plan.
+
+### 132 Minister may exercise temporary power of direction in relation to NZIST
+(1) During the transition period, the Minister may, by written notice to NZIST’s council, give any directions that the Minister thinks are reasonably necessary to ensure that NZIST can deal effectively with matters relating to the allocation and transfer of programmes, micro-credentials, training activities, or other activities to a successor organisation as provided for in a transition plan.
+(2) The Minister must consult TEC, NZQA, and NZIST before giving a direction.
+(3) NZIST must comply with the direction.
+(4) A direction expires on the earlier of—
+  (a) the expiry date specified in the direction; and
+  (b) the end of the transition period.
+
+### 133 Transfer of programmes, micro-credentials, and training activities provided by NZIST
+(1) This clause applies to—
+  (a) a programme, micro-credential, training activity, or other activity provided by NZIST that is allocated to a successor organisation in accordance with a transition plan approved under clause 130 or 131; and
+  (b) any specified rights, assets, liabilities, or agreements of NZIST relating to those programmes, micro-credentials, training activities, and other activities of NZIST that are allocated to the successor organisation under the transition plan.
+(2) On and after the transfer date,—
+  (a) the matters specified in subclause (1) vest in the successor organisation concerned; and
+  (b) any reference to NZIST in any legislation (other than this Act), instrument, agreement, deed, lease, application, notice, or other document relating to the matters specified in subclause (1) must be read as a reference to the successor organisation concerned; and
+  (c) any information or document held by NZIST relating to the matters specified in subclause (1) is held by the successor organisation concerned; and
+  (d) all money payable to, or by, NZIST (including funding payable under this Act) in relation to the matters specified in subclause (1) becomes payable to, or by, the successor organisation concerned.
+(3) The transfer of information from NZIST to a successor organisation under this clause does not constitute an action that is a breach of information privacy principle 8 or 11 within the meaning of the Privacy Act 2020.
+
+### 134 Existing approvals, accreditations, and consents
+(1) This clause applies to the following matters granted to, or treated as having been granted to, NZIST under subpart 2 of Part 5 before the transfer date of a programme, micro-credential, or training activity and in effect immediately before that date:
+  (a) an approval of a programme under section 439:
+  (b) an accreditation to provide all or part of a programme under section 441:
+  (c) an approval of the content of a micro-credential under section 445:
+  (d) an accreditation to provide a micro-credential under section 446A:
+  (e) a consent to assess against the standards listed in the Directory of Assessment and Skill Standards under section 449:
+  (f) a consent to award a degree or a postgraduate qualification under section 454.
+(2) On and after the transfer date,—
+  (a) the approval, accreditation, or consent (including any conditions imposed on an approval, accreditation, or consent) continues to apply and must be treated as if it were granted to the successor organisation to which the relevant programme or micro-credential or consent is transferred; and
+  (b) unless the context otherwise requires, every reference in the approval, accreditation, or consent must be read as a reference to the successor organisation concerned.
+
+### 135 Existing funding paid by TEC under funding mechanism
+(1) This clause applies to funding (including any conditions imposed on the funding) payable by TEC to NZIST in respect of a programme, micro-credential, training activity, other activity, or group of students or trainees—
+  (a) in accordance with an approval granted under section 425(2); or
+  (b) other than via a plan under section 428.
+(2) On and after the transfer date,—
+  (a) TEC must treat the funding, unless it is earlier suspended, revoked, or withdrawn under clause 16 or 26 of Schedule 18, as if it were payable to the successor organisation to which the programme, micro-credential, training activity, or other activity, or group of students or trainees is transferred; and
+  (b) for the purposes of paragraph (a), every reference to NZIST in an approval granted under section 425(2) must, unless the context otherwise requires, be read as a reference to the successor organisation concerned.
+
+### 136 Transfers do not give rise to claims
+Nothing effected or authorised by this subpart—
+  (a) places NZIST, a successor organisation, or any other person in breach of contract or confidence, or makes any of them liable for a civil wrong; or
+  (b) places NZIST, a successor organisation, or any other person in breach of any legislation, rule of law, or contractual provision that prohibits, restricts, or regulates the assignment or transfer of property or the disclosure of information; or
+  (c) entitles a person to terminate or cancel a contract or an arrangement, or to accelerate the performance of an obligation, or to impose a penalty or an increased charge; or
+  (d) releases a surety from an obligation; or
+  (e) invalidates or discharges a contract or surety.
+
+### 137 Existing proceedings and other matters
+(1) This clause applies in relation to a programme, micro-credential, training activity, or other activity provided by NZIST or an approval, accreditation, or consent held by NZIST that is transferred to a successor organisation.
+(2) On and after the transfer date,—
+  (a) proceedings continued or enforced by or against NZIST in relation to a matter referred to in subclause (1) may instead be continued or enforced by or against the successor organisation without amendment to the proceedings; and
+  (b) a matter or thing that would, but for this clause, have been completed by NZIST may instead be completed by the successor organisation concerned; and
+  (c) anything done, or omitted to be done, or that is to be done, by or in relation to NZIST is to be treated as having been done, or having been omitted to be done, or having to be done, by or in relation to the successor organisation concerned.
+(3) In subclause (2)﻿(a), proceedings—
+  (a) means civil and criminal proceedings; and
+  (b) includes any enforcement or compliance activities by TEC or NZQA.
+
+**Transfer of NZIST employees to successor organisation**
+
+### 138 Duties to identify employees and provide employee information
+(1) NZIST's council must—
+  (a) identify the employees of NZIST whose positions may be required by a successor organisation to carry out the functions of the successor organisation; and
+  (b) provide to the successor organisation the employee information about those employees that is reasonably necessary for the purpose of making offers of employment under clause 139(3).
+(2) In this clause, employee information, in relation to an employee of NZIST, includes (without limitation) information about—
+  (a) the employee’s employment agreement, remuneration, accrued leave entitlements, superannuation scheme benefits, and any service-related benefits and entitlements:
+  (b) any employment policies that are part of the employee’s conditions of employment.
+
+### 139 Employment of NZIST employees by successor organisation
+(1) This clause applies if any programmes, micro-credentials, training activities, or other activities provided by NZIST are transferred to a successor organisation in accordance with a transition plan approved under clause 130 or 131.
+(2) The successor organisation concerned must identify the employees of NZIST—
+  (a) whose duties overall are required by the successor organisation to carry out the organisation’s functions; and
+  (b) whose positions will cease to exist as a result of the transfer of the programmes, micro-credentials, training activities, or other activities to the successor organisation.
+(3) An employee who is identified under subclause (2) may be offered equivalent employment by the successor organisation, being employment that is—
+  (a) in substantially the same position; and
+  (b) in the same general locality; and
+  (c) on terms and conditions (including, without limitation, in relation to the employee’s overall remuneration and any service-related, redundancy, or superannuation conditions) that are no less favourable than those applying to the employee immediately before the date on which the offer of employment is made to the employee; and
+  (d) on terms that treat the period of service with NZIST (and every other period of service recognised by NZIST as continuous service) as if it were continuous service with the successor organisation.
+(4) If the employee accepts an offer of employment under subclause (3), the employee’s employment by the successor organisation concerned is to be treated as continuous employment, including for the purposes of service-related entitlements, whether legislative or otherwise.
+(5) An employee of NZIST who is offered employment under subclause (3) by a successor organisation is not entitled to receive any contractual notice or any payment, benefit, or compensation from NZIST or the successor organisation on the grounds that—
+  (a) the employee’s position in NZIST has ceased to exist, whether or not the employee accepts the offer; or
+  (b) the person has ceased to be an employee of NZIST as a result of the person’s employment by the successor organisation.
+(6) To avoid doubt, the employment of an employee by the successor organisation concerned does not—
+  (a) constitute new employment, including for the purposes of the Holidays Act 2003 or the KiwiSaver Act 2006 or any service-related entitlements or benefits (whether legislative or otherwise); or
+  (b) treat that employee as a new employee for the purposes of the Employment Relations Act 2000.
+(7) This clause overrides—
+  (a) Part 6A of the Employment Relations Act 2000; and
+  (b) any employee protection provision in any relevant employment agreement.
+
+### 140 Transfer of other employment rights, duties, liabilities, or obligations of NZIST on change of employer
+(1) This clause applies to any other rights, duties, liabilities, or obligations of NZIST (including in relation to any holiday and leave entitlements under the Holidays Act 2003)—
+  (a) relating to an employee who has become an employee of a successor organisation under clause 139; and
+  (b) that were in existence immediately before the date on which the employee became an employee of the successor organisation.
+(2) The rights, duties, liabilities, and obligations referred to in subclause (1) vest in the successor organisation on the date on which the employee becomes an employee of the successor organisation.
+
+### 141 Government Superannuation Fund
+(1) This clause applies to a person who, immediately before becoming an employee of a successor organisation, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
+(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of the successor organisation.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person’s service as an employee of the successor organisation were Government service.
+(4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the successor organisation is the controlling authority.
+
+**Students and trainees of NZIST**
+
+### 142 Students and trainees of NZIST
+(1) This clause applies to every student or trainee enrolled at NZIST in a programme, micro-credential, or training activity immediately before the transfer date of the programme, micro-credential, or training activity to a successor organisation.
+(2) The student or trainee must be treated as having been enrolled at the successor organisation that is responsible for continuing the programme, micro-credential, or training activity on and after the transfer date.
+(3) A student or trainee who would, but for the transfer of a programme, micro-credential, or training activity to a successor organisation, have been entitled to be granted an award by NZIST is entitled to be granted the same or equivalent award of the successor organisation.
+
+### 143 Existing training agreements
+(1) This clause applies to a training agreement and an apprenticeship training agreement that was in force immediately before the date on which responsibility for delivery or co-ordination of training activities under the agreement is transferred to a successor organisation.
+(2) On and after the transfer date,—
+  (a) the training agreement and apprenticeship training agreement continues in force; and
+  (b) unless the context otherwise requires, every reference to NZIST in the training agreement and apprenticeship training agreement must be read as a reference to the successor organisation where the trainee is enrolled on and after that date.
+(3) Subclause (4) applies if the activities and responsibilities of the successor organisation in respect of the delivery or co-ordination of the training under the training agreement are to be changed.
+(4) As soon as is reasonably practicable after the transfer date, the successor organisation must—
+  (a) consult the parties to the training agreement before amending the training agreement; and
+  (b) if the parties agree, amend the training agreement and apprenticeship training agreement.
+
+**Other matters relating to transfers**
+
+### 144 Visas granted under Immigration Act 2009
+(1) This clause applies to a visa granted under the Immigration Act 2009 in respect of—
+  (a) a student or trainee for the purposes of enrolment at NZIST; or
+  (b) an employee of NZIST for the purposes of being employed by NZIST.
+(2) On and after the transfer date, any reference to NZIST in a condition imposed on the visa must be read as a reference to the successor organisation where the student or trainee is taken to be enrolled or where the employee’s employment is continued (as applicable).
+
+### 145 Consequences of transfers for purposes of Inland Revenue Acts
+(1) This clause applies in relation to a matter that is transferred to a successor organisation in accordance with a transition plan approved under clause 130 or 131.
+(2) For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), NZIST and the successor organisation are treated as the same person to the extent to which the matter is transferred to the successor organisation.
+
+### 146 Transfer of contract for services to more than 1 successor organisation
+(1) This clause applies if a contract for services entered into by Te Pūkenga before commencement or by NZIST during the transition period is transferred to more than 1 successor organisation.
+(2) On and after the transfer date, the contract of service must be treated as if it had been entered into by each relevant successor organisation on terms that reflect that successor organisation’s use of the services.
+
+**Disestablishment of NZIST**
+
+### 147 Disestablishment of NZIST
+(1) NZIST is disestablished on the earlier of the following dates:
+  (a) the date specified by Order in Council made under subclause (2); and
+  (b) the close of 31 March 2027.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
+  (a) specify the date on which NZIST is disestablished; and
+  (b) provide for the distribution of residual assets and liabilities (including any liabilities for tax or redundancy payments) of NZIST.
+(3) An order made under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Consequences of disestablishment**
+
+### 148 Section 573 applies to NZIST
+Section 573 (which sets out the effects of disestablishment of an institution) applies, with any necessary modifications, in relation to NZIST on its disestablishment date.
+
+### 149 Council members cease to hold office
+(1) Every member of NZIST’s council holding office immediately before the disestablishment date ceases to hold office on the close of the day before that date.
+(2) Neither the Crown nor NZIST is liable to make a payment to, or otherwise compensate, a person referred to in subclause (1) in respect of the loss of office.
+
+### 150 Taxes and duties of NZIST
+Section 575 (which provides for the taxes and duties of a disestablished institution) applies, with any necessary modifications, in relation to any outstanding taxes or duties of NZIST on the disestablishment date.
+
+### 151 Previous actions or decisions of NZIST not affected
+The disestablishment of NZIST does not, by itself, affect any of the following matters:
+  (a) any decision made, or anything done or omitted to be done, by NZIST in relation to the performance or exercise of its functions, powers, or duties under any legislation:
+  (b) any proceedings commenced by or against NZIST:
+  (c) any other matter or thing arising out of NZIST’s performance or exercise, or purported performance or exercise, of its functions, powers, or duties under any legislation.
+
+#### Subpart 2 — Provision of work-based training by industry skills boards for temporary period
+
+### 152 Application of clauses 153 to 162
+(1) Clauses 153 to 162 apply during the period beginning on commencement and ending on the close of 31 December 2027.
+(2) The modification of this Act by clause 153 does not affect the text of this Act, but requires it to be read as if amended in the manner indicated by that clause.
+
+### 153 Provision of training activities by industry skills boards
+(1) Section 367 (as replaced by the amendment Act) applies to an industry skills board as if the following paragraph and heading were inserted before the heading above paragraph (a):Providing training activities
+  (aaa) to provide the training activities allocated to the industry skills board in accordance with a transition plan approved under clause 131 of Schedule 1 pending the transfer of those activities to a tertiary education provider:
+(2) Subclause (1) applies despite section 372 (as replaced by the amendment Act).
+
+### 154 Application of well-being and safety code of practice to industry skills board that provides training activities
+A code of well-being and safety issued under section 534(1) applies to an industry skills board that provides training activities in accordance with clause 153 as if—
+  (a) the industry skills board were a signatory provider to which the code applies; and
+  (b) the students or trainees enrolled in the training activity were domestic tertiary students or international students in respect of whom the code applies.
+
+### 155 Industry skills board to be treated as institution for purposes of certain provisions
+Despite section 10(5)﻿(a), an industry skills board that provides training activities is to be treated as an institution for the purposes of the sections specified in section 10(5)﻿(a)﻿(i) to (iii) during the period referred to in clause 152(1).
+
+### 156 Industry skills board may charge fees for providing training activities
+(1) An industry skills board may, by notice, fix fees payable by trainees for training activities provided by the industry skills board.
+(2) A notice under subclause (1) may fix different fees payable by trainees, or a group or category of trainees, in relation to the training activities provided by the industry skills board.
+(3) However, a fee fixed under subclause (1) must not exceed the corresponding amount that was being charged by Te Pūkenga as at 31 December 2025 for providing the relevant training activity.
+(4) Fees fixed under this clause are payable in the manner prescribed in the notice and are recoverable as a debt due to the industry skills board.
+(5) A fee payable by a trainee may be refunded or waived in accordance with any criteria set out in the notice.
+(6) A notice made under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 157 Industry skills board’s use of fee income for training activities
+(1) Before the transfer of training activities under clause 160, any income from fees paid by trainees to an industry skills board in accordance with a fee notice issued under clause 156 may only be used to provide the training activities to those trainees.
+(2) To avoid doubt, the income from fees paid to the industry skills board may be used for payment of actual and reasonable costs incurred—
+  (a) for the governance and management of the training activities; or
+  (b) as a direct result of compliance obligations, reporting requirements, or other legal obligations relating to the provision of the training activities.
+
+### 158 Enrolment of new trainees in training activities
+(1) An industry skills board may enrol new trainees in a training activity unless TEC determines by notice in writing to the industry skills board that new trainees may not be enrolled in the training activity.
+(2) A determination under subclause (1) may relate to any 1 or more trainees or class of trainees specified in the notice.
+(3) In making a determination, TEC must take into account the availability of the training activity to the trainee or trainees to whom the proposed determination relates.
+
+### 159 Requirement to develop transition plan for transfer of training activities to tertiary education providers
+(1) An industry skills board must, in consultation with NZQA, develop a transition plan for approval by TEC that provides for the transfer of—
+  (a) training activities provided by the industry skills board and trainees enrolled in those training activities to 1 or more tertiary education providers; and
+  (b) any specified rights, assets, liabilities, or agreements of the industry skills board relating to those training activities to 1 or more tertiary education providers.
+(2) The chief executive of TEC—
+  (a) may issue guidance to an industry skills board on what must be contained in a transition plan; and
+  (b) must consult the industry skills board when developing the guidance.
+(3) When approving a transition plan, TEC may, by giving written notice to the industry skills board, make any amendments to the plan that TEC considers reasonably necessary.
+(4) As soon as practicable after TEC has approved a transition plan, the industry skills board must do all things necessary to give effect to the plan.
+(5) If the industry skills board fails or refuses to develop a transition plan, TEC may develop the transition plan and the industry skills board must give effect to that plan.
+
+### 160 Transfer of training activities
+(1) During the period beginning on 1 July 2027 and ending with the close of 31 December 2027, an industry skills board must give effect to a transition plan approved under clause 159 for the transfer of training activities to a tertiary education provider.
+(2) However, an industry skills board may develop and give effect to a transition plan approved under clause 159 before 1 July 2027 with the written approval of TEC.
+(3) On and after the date of transfer specified in the transition plan approved under clause 159,—
+  (a) the training activities, rights, assets, liabilities, and agreements specified in the transition plan vest in the tertiary education provider concerned; and
+  (b) any reference to the industry skills board in any legislation (other than this Act), instrument, agreement, deed, lease, application, notice, or other document relating to the training activities, rights, assets, liabilities, and agreements must be read as a reference to the tertiary education provider concerned; and
+  (c) any information or document held by the industry skills board relating to the training activities, rights, assets, liabilities, and agreements is held by the tertiary education provider concerned; and
+  (d) all money payable to, or by, the industry skills board (including funding payable under this Act) in relation to the training activities, rights, assets, liabilities, and agreements becomes payable to, or by, the tertiary education provider concerned.
+(4) To the extent that any training activity provided by an industry skills board has not been transferred in accordance with a transition plan approved under clause 159 by the close of 31 December 2027, the industry skills board must cease to provide the training activity.
+
+### 161 Trainees of industry skills board
+(1) This clause applies to every trainee enrolled at an industry skills board in a training activity immediately before the date on which that training activity is transferred to a tertiary education provider.
+(2) The trainee must be treated as being enrolled at the tertiary education provider that is responsible for continuing the training activity on and after the transfer date.
+(3) A trainee who would, but for the transfer of the training activity to a tertiary education provider, have been entitled to be granted an award by the industry skills board is entitled to be granted the same or equivalent award of the tertiary education provider.
+
+### 162 Transfer of training agreements
+(1) This clause applies to a training agreement and an apprenticeship training agreement that were in force immediately before the date on which responsibility for delivery or co-ordination of training activities under the agreements is transferred to a tertiary education provider.
+(2) On and after the transfer date,—
+  (a) the training agreement and apprenticeship training agreement continue in force; and
+  (b) unless the context otherwise requires, every reference to the industry skills board in the training agreement and apprenticeship training agreement must be read as a reference to the tertiary education provider where the trainee is enrolled on and after that date.
+(3) As soon as is reasonably practicable after the transfer date, the tertiary education provider must—
+  (a) consult the parties to the training agreement before amending the training agreement; and
+  (b) if the parties agree, amend the training agreement and apprenticeship training agreement.
+
+### 163 Transfers do not give rise to claims
+Nothing effected or authorised by this subpart—
+  (a) places an industry skills board, tertiary education provider, or any other person in breach of contract or confidence, or makes any of them liable for a civil wrong; or
+  (b) places an industry skills board, tertiary education provider, or any other person in breach of any legislation, rule of law, or contractual provision that prohibits, restricts, or regulates the assignment or transfer of property or the disclosure of information; or
+  (c) entitles a person to terminate or cancel a contract or an arrangement, or to accelerate the performance of an obligation, or to impose a penalty or an increased charge; or
+  (d) releases a surety from an obligation; or
+  (e) invalidates or discharges a contract or surety.
+
+### 164 Consequences of transfers for purposes of Inland Revenue Acts
+(1) This clause applies in relation to a matter that is transferred to a tertiary education provider in accordance with a transition plan approved under clause 159.
+(2) For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), the relevant industry skills board and the tertiary education provider are treated as the same person to the extent to which the matter is transferred to that tertiary education provider.
+
+**Transfer of industry skills board’s employees to tertiary education providers**
+
+### 165 Duties to identify employees and provide employee information
+(1) An industry skills board must—
+  (a) identify the employees of the industry skills board whose positions may be required by a tertiary education provider to carry out its function in providing training activities; and
+  (b) provide to the tertiary education provider the employee information about those employees that is reasonably necessary for the purpose of making offers of employment under clause 166(3).
+(2) In this clause, employee information, in relation to an employee of an industry skills board, includes (without limitation) information about—
+  (a) the employee’s employment agreement, remuneration, accrued leave entitlements, superannuation scheme benefits, and any service-related benefits and entitlements:
+  (b) any employment policies that are part of the employee’s conditions of employment.
+
+### 166 Employment of industry skills board employees by tertiary education provider
+(1) This clause applies if training activities provided by an industry skills board are transferred to a tertiary education provider.
+(2) The tertiary education provider concerned must identify the employees of the industry skills board—
+  (a) whose duties overall are required by the provider to carry out its function in providing the training activities; and
+  (b) whose positions will cease to exist as a result of the transfer of the training activities to the tertiary education provider.
+(3) An employee who is identified under subclause (2) may be offered equivalent employment by the tertiary education provider, being employment that is—
+  (a) in substantially the same position; and
+  (b) in the same general locality; and
+  (c) on terms and conditions (including, without limitation, in relation to the employee’s overall remuneration and any service-related, redundancy, or superannuation conditions) that are no less favourable than those applying to the employee immediately before the date on which the offer of employment is made to the employee; and
+  (d) on terms that treat the period of service with the industry skills board (and every other period of service recognised by the industry skills board as continuous service) as if it were continuous service with the tertiary education provider.
+(4) If the employee accepts an offer of employment under subclause (3), the employee’s employment by the provider concerned is to be treated as continuous employment, including for the purposes of service-related entitlements, whether legislative or otherwise.
+(5) An employee of an industry skills board who is offered employment under subclause (3) by a tertiary education provider is not entitled to receive any contractual notice or any payment, benefit, or compensation from the industry skills board or the tertiary education provider on the grounds that—
+  (a) the employee’s position in the industry skills board has ceased to exist, whether or not the employee accepts the offer; or
+  (b) the person has ceased to be an employee of the industry skills board as a result of the person’s employment by the tertiary education provider.
+(6) To avoid doubt, the employment of an employee by the tertiary education provider concerned does not—
+  (a) constitute new employment, including for the purposes of the Holidays Act 2003 or the KiwiSaver Act 2006 or any service-related entitlements or benefits (whether legislative or otherwise); or
+  (b) treat that employee as a new employee for the purposes of the Employment Relations Act 2000.
+(7) This clause overrides—
+  (a) Part 6A of the Employment Relations Act 2000; and
+  (b) any employee protection provision in any relevant employment agreement.
+
+### 167 Transfer of other employment rights, duties, liabilities, or obligations of industry skills board on change of employer
+(1) This clause applies to any other rights, duties, liabilities, or obligations of an industry skills board (including in relation to any holiday and leave entitlements under the Holidays Act 2003)—
+  (a) relating to an employee who has become an employee of a tertiary education provider under clause 166; and
+  (b) that were in existence immediately before the date on which the employee became an employee of the tertiary education provider.
+(2) The rights, duties, liabilities, and obligations referred to in subclause (1) vest in the provider on the date on which the employee becomes an employee of the tertiary education provider.
+
+### 168 Government Superannuation Fund
+(1) This clause applies to a person who, immediately before becoming an employee of a tertiary education provider, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
+(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of the tertiary education provider.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person’s service as an employee of the tertiary education provider were Government service.
+(4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the tertiary education provider is the controlling authority.
+
+#### Subpart 3 — Transitional provisions relating to WDCs
+
+### 169 Interpretation
+In this subpart,—
+  - **disestablishment date** , in relation to a WDC, means the date specified in clause 183(1)﻿(b) or specified for the WDC by an order made under clause 183(2)
+  - **transfer date** , in relation to a function of a WDC, means the date (or dates) specified in the WDC’s transition plan on which its functions in relation to the specified industries covered by the WDC are transferred to 1 or more industry skills boards
+  - **transition period** , in relation to a WDC, means the period starting on commencement and ending on the close of the day before the WDC’s disestablishment date
+  - **transition plan** , for a WDC, means a plan developed and approved under clause 172
+  - **workforce development council** or means a workforce development council established under section 363 (as in force immediately before commencement) and in existence immediately before commencement.
+
+**Continuation of WDCs**
+
+### 170 Continuation of WDCs
+Despite the amendments made by the amendment Act, a WDC continues in existence during the relevant transition period for the WDC.
+
+### 171 Application of legislation to WDC during transition period
+(1) During the transition period, subpart 6 of Part 4, Schedules 16 and 17, and any other provision of this Act or secondary legislation made under this Act or any other legislation relating to WDCs (as in force immediately before commencement) continue to apply to or in respect of a WDC as if the amendment Act had not been enacted.
+(2) Without limiting subclause (1), the following secondary legislation continues in force in respect of the relevant WDC until the WDC’s disestablishment date and is then revoked:
+  (a) Education (Community, Health, Education, and Social Services Workforce Development Council) Order 2021:
+  (b) Education (Hanga-Aro-Rau Manufacturing, Engineering, and Logistics Workforce Development Council) Order 2021:
+  (c) Education (Muka Tangata—People, Food, and Fibre Workforce Development Council) Order 2021:
+  (d) Education (Services Workforce Development Council) Order 2021:
+  (e) Education (Toi Mai Workforce Development Council) Order 2021:
+  (f) Education (Waihanga Ara Rau Construction and Infrastructure Workforce Development Council) Order 2021.
+
+**Transfer of functions**
+
+### 172 Requirement to develop transition plan relating to WDC’s functions
+(1) As soon as practicable after commencement, a WDC must, in consultation with NZQA, develop a transition plan for approval by TEC that provides for the allocation and transfer of the WDC’s functions in relation to—
+  (a) any of the specified industries covered by the WDC to an industry skills board or NZQA that, on and after the transfer date, is to be responsible for carrying out those functions; and
+  (b) any specified rights, assets, liabilities, and agreements of the WDC.
+(2) For the purposes of this clause, the functions that may be transferred to an industry skills board are—
+  (a) skills and workforce leadership for the specified industries:
+  (b) developing, setting, and maintaining skill standards:
+  (c) developing, setting, and maintaining capstone assessments for specified industries:
+  (d) developing and maintaining industry qualifications:
+  (e) developing and maintaining micro-credentials:
+  (f) developing and maintaining national curricula for national qualifications for which it is the standard-setting body:
+  (g) endorsing programmes and moderating standards and capstone assessments offered by providers for which it is the standard-setting body.
+(3) The chief executive of TEC—
+  (a) may issue guidance to a WDC on what must be contained in the transition plan; and
+  (b) must consult WDCs when developing the guidance.
+(4) When approving a transition plan, TEC may, by giving written notice to the WDC, make any amendments to the plan that it considers reasonably necessary.
+(5) As soon as practicable after TEC has approved a transition plan, the WDC must do all things necessary to give effect to the plan.
+(6) If a WDC fails or refuses to develop a transition plan, TEC may, after consulting NZQA, develop the transition plan for the WDC and the WDC must implement and maintain that plan.
+
+### 173 Minister may exercise temporary power of direction in relation to WDC
+(1) During the transition period, the Minister may, by written notice to a WDC, give any directions the Minister thinks reasonably necessary to ensure that the WDC can deal effectively with matters relating to the allocation and transfer of functions to an industry skills board or NZQA.
+(2) The Minister must consult TEC, NZQA, and the WDC concerned before giving a direction.
+(3) The WDC must comply with the direction.
+(4) A direction expires on the earlier of—
+  (a) the expiry date specified in the direction; and
+  (b) the end of the transition period relating to the WDC.
+
+### 174 Transfer of rights, assets, and liabilities of WDC
+(1) This clause applies to all rights, assets, and liabilities of a WDC that are allocated to an industry skills board or NZQA in accordance with the WDC’s transition plan.
+(2) On and after the transfer date,—
+  (a) the rights, assets, and liabilities vest (as the case requires) in the industry skills board concerned or NZQA; and
+  (b) any information or document held by a WDC that relates to the functions or activities allocated in the WDC’s transition plan to an industry skills board or NZQA is held by the industry skills board or NZQA (as the case may be); and
+  (c) all money payable to, or by, a WDC (including funding payable under this Act) in relation to the functions or activities allocated in the WDC’s transition plan to an industry skills board or NZQA becomes payable to, or by, the industry skills board or NZQA (as the case may be); and
+  (d) unless the context otherwise requires, every reference to the WDC in any legislation (other than this Act), instrument, agreement, deed, lease, application, notice, or other document before that date must be read as a reference to that industry skills board or NZQA.
+
+### 175 Consequences of transfer for purposes of Inland Revenue Acts
+(1) This clause applies in relation to a function of a WDC that is transferred to an industry skills board in accordance with the WDC’s transition plan.
+(2) For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), a WDC and the industry skills board must be treated as the same person to the extent that the function is transferred to the industry skills board.
+
+### 176 Transfers do not give rise to claims
+Nothing effected by this Part or any other provision of this Act—
+  (a) places the Crown, a WDC, an industry skills board, NZQA, or any other person in breach of contract or confidence, or makes any of them liable for a civil wrong; or
+  (b) places any of those persons or any other person in breach of any legislation, rule of law, or contractual provision prohibiting, restricting, or regulating the assignment or transfer of property or the disclosure of information; or
+  (c) entitles a person to terminate or cancel a contract or an arrangement, or to accelerate the performance of an obligation, or to impose a penalty or an increased charge; or
+  (d) releases a surety from an obligation; or
+  (e) invalidates or discharges a contract or surety.
+
+### 177 Existing proceedings and other matters
+(1) This clause applies in respect of any functions or activities allocated to an industry skills board or NZQA in accordance with a WDC’s transition plan.
+(2) On and after the transfer date,—
+  (a) proceedings continued or enforced by or against the WDC may instead be continued or enforced by or against the industry skills board concerned or NZQA without amendment to the proceedings; and
+  (b) a matter or thing that would, but for this clause, have been completed by the WDC may instead be completed by that industry skills board or NZQA; and
+  (c) anything done, or omitted to be done, or that is to be done, by or in relation to the WDC is to be treated as having been done, or having been omitted to be done, or having to be done, by or in relation to that industry skills board or NZQA.
+(3) In subclause (2)﻿(a), proceedings—
+  (a) means civil and criminal proceedings; and
+  (b) includes any enforcement or compliance activities by TEC or NZQA.
+
+**Transfer of WDC employees**
+
+### 178 Duties to identify employees and provide employee information
+(1) A WDC must—
+  (a) identify the employees of the WDC whose positions may be required by an industry skills board or NZQA to carry out its functions; and
+  (b) provide to the industry skills board and NZQA the employee information about those employees that is reasonably necessary for the purpose of making offers of employment under clause 179(3).
+(2) In this clause, employee information, in relation to an employee of a WDC, includes (without limitation) information about—
+  (a) the employee’s employment agreement, remuneration, accrued leave entitlements, superannuation scheme benefits, and any service-related benefits and entitlements:
+  (b) any employment policies that are part of the employee’s conditions of employment.
+
+### 179 Employment of WDC employees by industry skills board or NZQA
+(1) This clause applies if the functions or activities of a WDC are transferred, in accordance with the WDC’s transition plan, to—
+  (a) an industry skills board that is to be responsible for carrying out those functions or providing the activities on and after the transfer date; or
+  (b) NZQA, in the case of any standards-setting function for a specified industry that is currently performed by the WDC and that will, on and after the transfer date, be performed by NZQA.
+(2) The industry skills board concerned or the chief executive of NZQA (as the case may be) must identify the employees of the WDC—
+  (a) whose duties overall are required by the industry skills board or NZQA to carry out those functions or provide those activities; and
+  (b) whose positions will cease to exist as a result of the transfer of the WDC’s functions and activities to the industry skills board or NZQA.
+(3) An employee who is identified under subclause (2) may be offered equivalent employment by the corresponding industry skills board or NZQA, being employment that is—
+  (a) in substantially the same position; and
+  (b) in the same general locality; and
+  (c) on terms and conditions (including, without limitation, in relation to the employee’s overall remuneration and any service-related, redundancy, or superannuation conditions) that are no less favourable than those applying to the employee immediately before the date on which the offer of employment is made to the employee; and
+  (d) on terms that treat the period of service with the WDC (and every other period of service recognised by the WDC as continuous service) as if it were continuous service with the industry skills board or NZQA.
+(4) If the employee accepts an offer of employment under subclause (3), the employee’s employment by the industry skills board or NZQA is to be treated as continuous employment, including for the purposes of service-related entitlements, whether legislative or otherwise.
+(5) An employee of a WDC who is offered employment by an industry skills board or NZQA is not entitled to receive any payment or other benefit on the grounds that—
+  (a) the employee’s position in the WDC has ceased to exist, whether or not the employee accepts the offer; or
+  (b) the person has ceased to be an employee of the WDC as a result of the person’s employment by the industry skills board or NZQA.
+(6) The employment of an employee by the industry skills board or NZQA does not—
+  (a) constitute new employment, including for the purposes of the Holidays Act 2003 or the KiwiSaver Act 2006 or any service-related entitlements or benefits (whether legislative or otherwise); or
+  (b) treat that employee as a new employee for the purposes of the Employment Relations Act 2000.
+(7) This clause overrides—
+  (a) Part 6A of the Employment Relations Act 2000; and
+  (b) any employee protection provision in any relevant employment agreement.
+
+### 180 Transfer of employment rights, duties, liabilities, or obligations of WDC on change of employer
+(1) This clause applies in relation to any rights, duties, liabilities, or obligations of a WDC (including in relation to any holiday and leave entitlements under the Holidays Act 2003)—
+  (a) relating to an employee who has become an employee of an industry skills board or NZQA under clause 179; and
+  (b) that were in existence immediately before the date on which the employee became an employee of the industry skills board or NZQA.
+(2) The rights, duties, liabilities, and obligations referred to in subclause (1) vest in the industry skills board or NZQA (as the case may be) on the date on which the employee becomes an employee of the industry skills board or NZQA.
+
+### 181 Government Superannuation Fund
+(1) This clause applies to a person who, immediately before becoming an employee of an industry skills board or NZQA (as the case may be) was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
+(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of the industry skills board or NZQA.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person’s service as an employee of the industry skills board or NZQA were Government service.
+(4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the industry skills board or NZQA (as the case may be) is the controlling authority.
+
+### 182 Visas granted under Immigration Act 2009
+(1) This clause applies to a visa granted under the Immigration Act 2009 in respect of a person who—
+  (a) was an employee of a WDC; and
+  (b) has accepted an offer of employment from the chief executive of an industry skills board or NZQA under clause 179(3).
+(2) Any reference to the WDC in a condition imposed on the visa must be read as a reference to the industry skills board or NZQA (as the case may be) on and after the date on which the person becomes an employee of the industry skills board or NZQA.
+
+**Disestablishment of WDCs**
+
+### 183 Disestablishment of WDCs
+(1) A WDC is disestablished on the earlier of the following dates:
+  (a) the date specified by Order in Council made under subclause (2); and
+  (b) the close of 31 December 2026.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
+  (a) specify the date on which a WDC is disestablished; and
+  (b) provide for the distribution of residual assets and liabilities (including any liabilities for tax or redundancy payments) of the WDC.
+(3) An order made under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Consequences of disestablishment**
+
+### 184 Council members cease to hold office
+(1) Every member of a WDC’s council holding office immediately before the disestablishment date ceases to hold office on the close of the day before that date.
+(2) Neither the Crown nor the WDC is liable to make a payment to, or otherwise compensate, a person referred to in subclause (1) in respect of the loss of office.
+
+### 185 Previous actions or decisions of WDC not affected
+The disestablishment of a WDC does not, by itself, affect any of the following matters:
+  (a) any decision made, or anything done or omitted to be done, by the WDC in relation to the performance or exercise of its functions, powers, or duties under any legislation:
+  (b) any proceedings commenced by or against the WDC:
+  (c) any other matter or thing arising out of the WDC’s performance or exercise, or purported performance or exercise, of its functions, powers, or duties under any legislation.
+
+### 186 Final report of WDC
+(1) A WDC must provide the Minister with a final report in respect of its operations for the period—
+  (a) commencing at the start of the financial year in which the WDC is disestablished; and
+  (b) ending on the WDC’s disestablishment date.
+(2) The final report must—
+  (a) be prepared in accordance with the annual reporting requirements set out in the Order in Council that established the WDC; and
+  (b) be provided not later than 3 months after the disestablishment date.
+(3) The Minister may transfer some or all of the responsibility for providing the final report to another party if satisfied that it is necessary or expedient to do so.
+
+#### Subpart 4 — Transitional provisions relating to establishment of council of polytechnic
+
+### 187 Validation of pre-commencement actions and processes
+(1) This clause applies to any action or process undertaken by the Minister before commencement when appointing members to the first council of a polytechnic.
+(2) An appointment is valid if the action or process substantially complies with this Act.
+
+### 188 Membership of first council of polytechnic reduced
+(1) The number of first council members of a polytechnic is proportionately reduced until the date on which each member referred to in section 317 (as replaced by the amendment Act) is appointed to the council.
+(2) No action of a polytechnic’s council is invalid merely because any member referred to in subclause (1) has not been appointed to the polytechnic’s council on its establishment date.
+
+#### Subpart 5 — Transitional provisions relating to establishment of industry skills boards
+
+### 189 Members of first industry skills board
+(1) The members of a first industry skills board are as follows:
+  (a) 2 members appointed by the Minister; and
+  (b) 6 members subsequently appointed by the members referred to in paragraph (a).
+(2) For the purpose of appointing members under subclause (1)﻿(b), the chief executive of TEC must—
+  (a) invite nominations and expressions of interest for appointment to the board (including, where appropriate, from industry bodies, employers, employees, and iwi partners from the specified industries covered by the board); and
+  (b) recommend to the members appointed by the Minister under subclause (1)﻿(a) from the list of nominations and expressions of interest received by the chief executive those persons that the chief executive considers are suitable for appointment, having regard to the matters set out in section 365 (as replaced by the amendment Act).
+(3) The members appointed under subclause (1)﻿(a) must consider the recommendations received from the chief executive of TEC and appoint as members of the board those persons who are best suited for appointment as a member, having regard to the matters set out in section 365 (as replaced by the amendment Act).
+(4) Members appointed under subclause (1)﻿(b) must be appointed as soon as practicable, but no later than 31 March 2026.
+
+### 190 Validation of pre-commencement actions and processes regarding appointments to industry skills board
+An appointment of a member to an industry skills board by the Minister is valid if the action or process for appointment undertaken before the commencement date substantially complies with the membership requirements of this Act.
+
+### 191 Membership of industry skills board reduced until all appointments made
+(1) The number of members and the quorum required for a meeting under clause 13(3) of Schedule 13 are proportionately reduced until the date on which each member referred to in section 363 (as replaced by the amendment Act) is appointed to the industry skills board.
+(2) No action of an industry skills board is invalid merely because a member has not been appointed to the board on its establishment date.
+
+### 192 First annual report for industry skills board
+(1) The Minister may exempt an industry skills board that is established during the last 4 months of a financial year from the obligation to provide an annual report for that financial year.
+(2) An industry skills board that is exempted under subclause (1) must, after the end of the industry skills board’s first full financial year, provide an annual report that covers the period from the date on which it is established until the end of its first full financial year.
+(3) To avoid doubt, the annual report referred to in subclause (2) must contain the information that is required to be included in the industry skills board’s annual report, except that the information must be in respect of the period referred to in that subclause.
+
+#### Subpart 6 — Miscellaneous
+
+### 193 Apprenticeship training code
+(1) This clause applies to an apprenticeship training code issued under section 378 (as it read immediately before commencement) and in force immediately before commencement.
+(2) The apprenticeship training code continues in force on and after commencement and must be treated as if it were issued under section 384 (as replaced by the amendment Act).
 
 ## Schedule 2 — Special institutions
 
@@ -11004,14 +11788,14 @@ The following information must be published on an Internet site maintained by or
 ## Schedule 11 — Councils
 
 ### 1 Constitutions of councils of new institutions
-(1) The Minister must appoint a committee consisting of 3 persons (an establishment committee) for the purpose of advising the Minister regarding the constitution for the council of a body that is, or is to be, established under section 268(1) or under section 398E.
-(2) The establishment committee must recommend to the Minister a constitution for the council that is, in the committee’s opinion, appropriate for the institution and complies with the requirements of section 276 or under section 398E.
+(1) The Minister must appoint a committee consisting of 3 persons (an establishment committee) for the purpose of advising the Minister regarding the constitution for the council of a body that is, or is to be, established under section 268(1), 315, or 398E.
+(2) The establishment committee must recommend to the Minister a constitution for the council that is, in the committee’s opinion, appropriate for the institution and complies with the requirements of section 276, 317, or 398E.
 (3) When the establishment committee has recommended a constitution for the council in accordance with subclause (2), the Minister must, by notice published in the Gazette, determine the constitution of the council in accordance with the recommendation.
-(4) This section does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(4)
 
 ### 2 Amendment of constitution
 (1) If, after the constitution of a council has been determined, the council recommends to the Minister that the constitution be amended in a manner that complies with the requirements of section 276 or the requirements of an Order in Council made under section 398E in relation to the constitution of the council of a wānanga, the Minister must, by notice published in the Gazette, amend the constitution in accordance with the recommendation.
-(2) Subclause (1) does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 320 provides).
+(2)
 
 ### 3 Limit on number of occasions on which people may be appointed as council members
 (1) A council’s constitution must contain a provision limiting the number of occasions on which a person may be appointed as a council member.
@@ -11020,7 +11804,7 @@ The following information must be published on an Internet site maintained by or
 (4) For the purposes of subclause (2), appointed means—
   (a) appointed, elected, or co-opted before 13 February 2015 (otherwise than to fill a casual vacancy); or
   (b) appointed on or after that commencement.
-(5) This clause does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(5)
 
 ### 4 Membership of more than 1 council
 A person who is a council member of an institution may be appointed as a council member of another institution (whether or not they are institutions of the same kind).
@@ -11033,7 +11817,7 @@ A person who is a council member of an institution may be appointed as a council
   (d) a disqualification of a council member or committee; or
   (e) a vacancy in the membership of the council or committee; or
   (f) a defect in the convening of any meeting.
-(2) This clause does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 320(3) provides).
+(2)
 
 ### 6 Term of office
 (1) When appointing a council member, the Minister or council—
@@ -11042,7 +11826,7 @@ A person who is a council member of an institution may be appointed as a council
     (i) the day on which the member’s appointment takes effect; and
     (ii) the term for which the member is appointed.
 (2) If a council member’s term of office expires before their successor is appointed, the member continues in office until their successor’s appointment takes effect.
-(3) This clause does not apply to appointments to Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 323 provides).
+(3)
 
 ### 7 Vacation of office
 (1) A council member may resign by giving written notice signed by the member to the chief executive.
@@ -11062,7 +11846,7 @@ A person who is a council member of an institution may be appointed as a council
   (b) the member is not capable of acting as a member during the period of suspension; and
   (c) the suspension continues until the property order made under section 30 of the Protection of Personal and Property Rights Act 1988 ceases to be in force (but this does not affect any powers of the council under subclause (3) in respect of the member).
 (6) The chief executive must send the council member a letter setting out the terms of the resolution dismissing or suspending the member.
-(7) This clause does not apply to a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(7)
 
 ### 8 Disclosure of interest
 (1) A council member or a council committee member who has an interest in a matter being considered or about to be considered by the council or the committee must, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of the interest at a meeting of the council or the committee.
@@ -11078,7 +11862,7 @@ A person who is a council member of an institution may be appointed as a council
   (b) appoint another person using it.
 (3) If the office becomes vacant within 6 months before the end of the member's term of office, the Minister or council may decide that the vacancy does not need to be filled under this clause.
 (4) Clauses 6 and 7 apply to an appointment under this clause.
-(5) This clause does not apply to appointments to Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(5)
 
 ### 10 Individual duties of council members
 (1) A council member, when acting as a council member in any circumstances,—
@@ -11101,7 +11885,7 @@ A person who is a council member of an institution may be appointed as a council
 (3) This subclause applies to information that—
   (a) a council member has in their capacity as a council member; and
   (b) would not otherwise be available to the member.
-(4) This clause does not apply to a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(4)
 
 ### 11 Accountability for individual duties
 (1) The individual duties of a council member under clause 10 are owed to the Minister and the council.
@@ -11113,7 +11897,7 @@ A person who is a council member of an institution may be appointed as a council
   (a) anything for which a council member may be liable under any other Act or rule of law arising from the act or omission that constitutes the breach concerned; or
   (b) anything for which a council member who is the chief executive of the institution concerned may, as chief executive, be liable under this Act or any other Act or rule of law, arising from the act or omission that constitutes the breach concerned.
 (6) This clause does not affect any other ground for removing a council member from office.
-(7) This clause does not apply to a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(7)
 
 ### 12 Removal of members
 (1) If an institution’s council believes that the actions of a council member may justify the member’s removal from office, it must give the Minister a written report stating—
@@ -11128,7 +11912,7 @@ A person who is a council member of an institution may be appointed as a council
 (5) The Minister must notify the removal in the Gazette as soon as practicable after giving the notice.
 (6) This clause does not limit or affect clause 7.
 (7) In this clause, just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of the council or the individual duties of members (depending on the seriousness of the breach).
-(8) This clause does not apply to the removal from office of a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(8)
 
 ### 13 Process for removal
 The Minister may remove a council member under clause 12 with as little formality and technicality, and as much expedition, as is permitted by—
@@ -11158,7 +11942,7 @@ To avoid doubt, an institution’s council is not a local authority for the purp
 (9) Subclause (8) overrides subclauses (5) and (6).
 (10) The chairperson of the council of a university may be referred to as the Chancellor or by any other title that the council determines, and the chairperson of the institution’s council other than a university may be referred to by any title (other than Chancellor or another title that includes the word Chancellor) that the council determines.
 (11) The deputy chairperson of the council of a university may be referred to as the Pro-Chancellor or by any other title that the council determines, and the deputy chairperson of a council other than a university may be referred to by any title (other than Pro-Chancellor or another title that includes the word Chancellor) that the council determines.
-(12) This clause does not apply to the chairperson or deputy chairperson of Te Pūkenga—New Zealand Institute of Skills and Technology’s council (for which section 322 provides).
+(12) This clause does not apply to the chairperson or deputy chairperson of a polytechnic (for which section 319 provides).
 
 ### 16 Meetings of councils
 (1) The chairperson of a council may convene meetings to be held at the places and times that the chairperson determines.
@@ -11181,7 +11965,7 @@ To avoid doubt, an institution’s council is not a local authority for the purp
 (1) A council member (other than the chief executive) may be paid fees at the rates, not exceeding maximum rates fixed by the Minister in accordance with the fees framework, that the council determines.
 (2) A council member is entitled, in accordance with the fees framework, to be reimbursed, out of the funds of the entity, for actual and reasonable travelling and other expenses incurred in carrying out the member’s office as a member.
 (3) In this clause, fees framework means the framework determined by the Government for the classification and remuneration of statutory and other bodies in which the Crown has an interest, including statutory entities and their subsidiaries and institutions.
-(4) This clause does not apply to a member of Te Pūkenga—New Zealand Institute of Skills and Technology’s council.
+(4)
 
 ### 18 Determination of policy
 (1) In determining the policy of an institution with respect to any matter relating to the institution, the institution’s council must consult any board, committee, or other body established within the institution that has responsibility for giving advice in relation to, or for giving effect to, the policy of the institution with respect to that matter.
@@ -11191,7 +11975,7 @@ To avoid doubt, an institution’s council is not a local authority for the purp
 (3) The academic committee is, for the purposes of section 285, to be treated as a committee appointed by the council under section 283(2)﻿(j).
 (4) Without limiting subclause (1), the institution’s council may not make any decision or statute in respect of any academic matter referred to in subclause (2) unless it has requested the advice of the academic committee and considered any advice given by the academic committee.
 (5) However, a decision or statute made by the institution’s council is not invalid merely because of a failure of the council to comply with subclause (1) or (4).
-(6) This clause does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology (for which section 324 provides).
+(6)
 
 ### 19 Personal liability of council members
 A council member is not personally liable for any act done or omitted by the council member or by the council—
@@ -11199,7 +11983,132 @@ A council member is not personally liable for any act done or omitted by the cou
   (b) in performance or intended performance of the functions of the institution or of the council.
 
 ### 20 Trust property
-Despite anything to the contrary in this Act or any other enactment relating to the institution (including Te Pūkenga—New Zealand Institute of Skills and Technology and its subsidiaries), any real or personal property held by the institution upon trust must be dealt with in accordance with the powers and duties of the institution as trustee.
+Despite anything to the contrary in this Act or any other enactment relating to the institution, any real or personal property held by the institution upon trust must be dealt with in accordance with the powers and duties of the institution as trustee.
+
+## Schedule 11A — Administrative provisions of Federation Committee
+
+### 1 Chairperson
+(1) The Minister may appoint a chairperson of the Federation Committee from among its members by giving written notice to the member concerned stating the term for which the member is appointed as chairperson.
+(2) The Minister may, by written notice to the member concerned, dismiss the member from office as chairperson.
+(3) However, the Minister may not dismiss the chairperson without first consulting the chairperson about the proposed dismissal.
+(4) A person holds office as chairperson for the term for which the person was appointed (but may be reappointed), unless the person earlier dies, is dismissed, or ceases to hold office.
+(5) A person ceases to hold office as chairperson if—
+  (a) the person gives written notice of resignation to the Minister; or
+  (b) ceases to be a member of the Federation Committee.
+(6) A person who resigns as chairperson must give a copy of the notice of resignation to the Federation Committee.
+(7) If the term of office of the chairperson expires before a successor is appointed, the chairperson continues in office until a successor is appointed.
+
+### 2 Chairperson to preside when present
+(1) The chairperson of the Federation Committee must preside at all meetings of the Committee at which the chairperson is present.
+(2) If the chairperson is not present, the members present must appoint one of their number to preside at that meeting.
+
+### 3 Federation Committee meetings
+(1) The chairperson may convene meetings to be held at the time and place that the chairperson of the Federation Committee determines and must give at least 7 days’ notice in writing of those meetings to members.
+(2) If a member is unable to attend a meeting, a person nominated by the member may attend in place of the member and, when so attending, is to be treated as the member of the Federation Committee for the purposes of the meeting.
+(3) A meeting may be held by means of electronic communication.
+(4) The quorum for a meeting is a majority of the members then holding office.
+(5) The Federation Committee should strive to achieve consensus in its decision making.
+(6) However, if at any meeting of the Federation Committee consensus on any matter cannot be achieved, the matter must be decided by a majority of those members present, with the chairperson for the meeting having a casting vote.
+(7) A resolution in writing signed by a majority of members is as valid as if it had been passed at a meeting of those members.
+(8) An irregularity in a notice of a meeting is waived if all members entitled to receive the notice—
+  (a) attend the meeting without objection to the irregularity; or
+  (b) do not attend the meeting but agree before the meeting is held to waive the irregularity.
+(9) Subject to this clause, the Federation Committee may determine its own procedures for regulating meetings and conducting its affairs.
+
+### 4 Collective duties
+(1) The Federation Committee must act in a manner consistent with its functions, duties, and powers.
+(2) The Federation Committee must perform or exercise its functions, duties, and powers efficiently and effectively.
+(3) The Federation Committee must operate in a financially responsible manner and, for that purpose, ensure that it prudently manages its assets and liabilities.
+
+### 5 Individual duties
+(1) A member of the Federation Committee may not contravene, or cause the contravention of, or agree to the Federation Committee contravening, the Act.
+(2) A member of the Federation Committee must, when acting as a member,—
+  (a) act with honesty and integrity; and
+  (b) act in good faith and not pursue the member’s own interests at the expense of the Committee’s interests; and
+  (c) exercise the care, diligence, and skill that a reasonable person would exercise in the same circumstances, taking into account (without limitation)—
+    (i) the nature of the Committee; and
+    (ii) the nature of the action; and
+    (iii) the position of the member and the nature of the responsibilities undertaken by the member.
+(3) A member of the Federation Committee must—
+  (a) act in the interests of the Committee as a whole; and
+  (b) act in a manner that promotes the performance of the functions and the duties of the Committee.
+(4) A member of the Federation Committee who has information in their capacity as a member that would not otherwise be available to them may not disclose the information to any person, or make use of, or act on, the information, except—
+  (a) in the performance of the Federation Committee’s functions; or
+  (b) as required or permitted by law; or
+  (c) if the member is first authorised to do so by the Committee and the disclosure, use, or act in question does not, or is unlikely to, prejudice the Committee.
+
+### 6 Conflicts of interest
+(1) A person is interested in a matter if the person—
+  (a) may derive a financial benefit from the matter; or
+  (b) is the spouse, civil union partner, de facto partner, child, or parent of a person who may derive a financial benefit from the matter; or
+  (c) may have a financial interest in a person to whom the matter relates; or
+  (d) is a partner, director, officer, board or council or committee member of a person who may have a financial interest in a person to whom the matter relates; or
+  (e) is otherwise directly or indirectly interested in the matter.
+(2) A member who is interested in a matter relating to the Federation Committee must disclose to the Federation Committee details of the interest as soon as practicable after the member becomes aware that the member is interested.
+(3) The details that must be disclosed are—
+  (a) the nature of the interest and the monetary value of the interest (if the monetary value can be quantified); or
+  (b) the nature and extent of the interest (if the monetary value cannot be quantified).
+(4) A member who is interested in a matter—
+  (a) may not vote or take part in any discussion or decision of the Federation Committee or any of its committees relating to the matter, or otherwise participate in any activity of the Federation Committee that relates to the matter; and
+  (b) may not sign any document relating to the entry into a transaction or the initiation of the matter.
+(5) To avoid doubt, a member must not be treated as interested in a matter merely because the member is an officer or an employee of a federation polytechnic to which the matter relates.
+(6) In this clause, matter means—
+  (a) the Federation Committee’s performance of its functions or exercise of its powers; or
+  (b) an arrangement, agreement, or contract made or entered into, or proposed to be made or entered into, by the Federation Committee.
+
+### 7 Staff and expenses
+The federation polytechnics and anchor polytechnics are responsible for—
+  (a) providing the Federation Committee with a secretariat and other staff to assist the Committee in the performance of its functions and for paying the remuneration and allowances of those staff; and
+  (b) meeting the office overheads and other costs and expenses reasonably incurred by the Committee in performing its functions.
+
+### 8 Personal liability of members or staff
+A member of the Federation Committee or staff member of the Federation Committee is not personally liable for any act done or omitted by the person—
+  (a) in good faith; and
+  (b) in the performance or intended performance of the Committee’s functions.
+
+### 9 Method of contracting
+(1) A contract or other enforceable obligation may be entered into by the Federation Committee according to this clause.
+(2) An obligation that, if entered into by an individual, is required to be by deed may be entered into on behalf of the Federation Committee in writing, signed under the name of the Committee,—
+  (a) by 2 or more of its members; or
+  (b) by 1 or more attorneys appointed by the Committee.
+(3) An obligation that is required to be in writing may be entered into on behalf of the Federation Committee in writing by a person acting under the Committee’s express or implied authority.
+(4) An obligation that is not required to be in writing may be entered into on behalf of the Federation Committee in writing or orally by a person acting under the Committee’s express or implied authority.
+(5) This clause applies to a contract or other obligation—
+  (a) whether or not that obligation was entered into in New Zealand; and
+  (b) whether or not the law governing that obligation is the law of New Zealand.
+
+### 10 Federation Committee may establish committees
+(1) The Federation Committee may establish committees to advise the Committee on decisions relating to exercising its powers or performing its functions.
+(2) A committee of the Federation Committee may include people who are members of the Federation Committee, people who are not members of the Federation Committee, or both.
+(3) A committee of the Federation Committee must appoint a person to preside at its meetings (a presiding officer).
+(4) If the presiding officer is not present at a meeting of the committee of the Federation Committee, the members of the committee present must appoint one of their number to preside at that meeting.
+(5) Subject to this clause, a committee of the Federation Committee may determine its own procedures.
+
+### 11 Delegations
+(1) The Federation Committee may, either generally or specifically, delegate any of its powers under this Act or any other enactment to—
+  (a) any of its committees; or
+  (b) any member of the Committee, its committees, or its staff (including contractors and secondees).
+(2) A delegation—
+  (a) must be in writing; and
+  (b) is revocable at will in writing; and
+  (c) may be made subject to instructions or conditions.
+(3) A committee or person purporting to act under a delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of that delegation.
+(4) A delegation does not affect or prevent the Federation Committee from exercising any power or affect the Committee’s responsibility for the actions of any committee or person acting under it.
+(5) A delegation continues in force until revoked.
+
+### 12 Bank accounts
+(1) The Federation Committee may establish, maintain, and operate bank accounts at a registered bank.
+(2) As soon as practicable after receiving any money, the Federation Committee must pay it into one of its bank accounts.
+(3) The Federation Committee must properly authorise every withdrawal and payment of money from any of its bank accounts.
+
+### 13 Investment
+Subject to any other enactment, the Federation Committee may invest any of its money in any manner in which the Treasury may invest public money under section 65I(1) and (2) of the Public Finance Act 1989.
+
+### 14 Annual report
+(1) As soon as practicable after the end of an academic year, the Federation Committee must give to the federation polytechnics, the anchor polytechnics, and the TEC a report on its operations and activities for that academic year.
+(2) The annual report must include (without limitation)—
+  (a) the audited financial statements of the Federation Committee; and
+  (b) an outline of the progress the Federation Committee has made towards achieving the goals and objectives set out in its statement of strategic direction.
 
 ## Schedule 12 — Administrative provisions applying to Vice-Chancellors Committee
 
@@ -11267,268 +12176,395 @@ Subject to any other enactment, the Vice-Chancellors Committee may invest any of
 (2) The Vice-Chancellors Committee must include in every annual report of the Committee the financial statements and statement of service performance prepared by the Vice-Chancellors Committee, in accordance with sections 153 to 156 of the Crown Entities Act 2004, in respect of the financial year to which the report relates, together with the audit report and the statement of responsibility under section 155 of that Act relating to those financial statements.
 (3) The Minister must present a copy of the report to the House of Representatives in accordance with section 150 of the Crown Entities Act 2004.
 
-## Schedule 13 — Te Pūkenga—New Zealand Institute of Skills and Technology’s charter
+## Schedule 13 — Further provisions applying to industry skills boards
 
-###
-[Repealed]
+### 1 Interpretation
+In this schedule, unless the context otherwise requires,—
+  - **Board** means an industry skills board established under section 362
+  - **member** means a member of the Board.
+
+### 2 Term of office
+(1) When making appointments, the Minister or the Board—
+  (a) may appoint a member for a period not exceeding 4 years; and
+  (b) must state in the notice or resolution appointing the member—
+    (i) the day on which the member's appointment takes effect; and
+    (ii) the term for which the member is appointed.
+(2) A member may be reappointed if the total of any consecutive or non-consecutive terms does not exceed 8 years.
+(3) If a member's term of office expires before their successor is appointed, the member continues in office until their successor's appointment takes effect.
+
+### 3 Chairperson and deputy chairperson
+Appointment
+(1) The Board may appoint one of the members as chairperson and one of the members as deputy chairperson by notice in writing stating the date on which the appointment takes effect.
+Term of office
+(2) The chairperson or deputy chairperson holds that office until—
+  (a) they resign from that office; or
+  (b) they are removed from it by the Board; or
+  (c) they cease to hold office as a member; or
+  (d) the term of office specified on appointment expires.
+(3) A person may be reappointed as chairperson or deputy chairperson for a further term.
+Resignation
+(4) The chairperson or deputy chairperson may, without resigning as a member, resign from that office by giving written notice to the Board.
+(5) The notice of resignation must state the date on which the resignation takes effect.
+Removal
+(6) The Board may, after consulting the person concerned, remove the chairperson or deputy chairperson from office by written notice to the person (with a copy to the Board).
+(7) The notice of removal must state the date on which the removal takes effect.
+
+### 4 Removal from office
+(1) The Minister may revoke the appointment of a member that the Minister has appointed.
+(2) The Minister must provide the Board with the Minister’s reason or reasons for the revocation in writing.
+(3) The Board may revoke the appointment of a member for just cause.
+(4) The revocation of the appointment must be made by written notice to the member, stating—
+  (a) the date on which the revocation takes effect, which must be no earlier than the date on which the notice is received; and
+  (b) the reasons for the revocation.
+(5) The Board may revoke the appointment of a member with as little formality and technicality, and as much expedition, as is permitted by—
+  (a) the principles of natural justice; and
+  (b) a proper consideration of the matter; and
+  (c) the Board's policy (if any) on the revocation of the appointment of members.
+(6) A member is not entitled to any compensation or other payment or benefit relating to the member ceasing, for any reason, to hold office as a member.
+(7) In subclause (3), just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of the Board or the individual duties of members (depending on the seriousness of the breach).
+
+### 5 Continuation in office
+(1) Each member continues in office (unless the member ceases to hold office) until a successor is appointed.
+(2) A member may resign from office by written notice to the Board signed by the member.
+(3) The resignation takes effect when the Board receives the notice or at any later time specified in the notice.
+(4) A member of the Board ceases to hold office if the member—
+  (a) resigns; or
+  (b) has had their appointment as a member revoked under clause 4; or
+  (c) becomes disqualified from being a member; or
+  (d) ceases to hold office in accordance with any legislation.
+
+### 6 Vacancies
+Ordinary vacancies
+(1) The Board must fill an ordinary vacancy as soon as practicable using the process by which the departing member was appointed, unless that process is no longer available or applicable to the position.
+Extraordinary vacancies
+(2) An extraordinary vacancy occurs when a member dies or ceases to hold office under clause 5(4).
+(3) If an extraordinary vacancy occurs within 6 months of the expiry of the vacating member’s term, the Board may—
+  (a) appoint a replacement; or
+  (b) leave the vacancy open.
+(4) If an extraordinary vacancy occurs more than 6 months before the expiry of the vacating member’s term, the Board must appoint a replacement member using the process by which the departing member was appointed, unless that process is no longer available or applicable to the position.
+(5) A person appointed or elected to fill an extraordinary vacancy holds office only for the remainder of the vacating member’s term.
+General
+(6) The powers of the Board are not affected by any vacancy in its membership.
+
+### 7 Collective duties
+(1) The Board must act in a manner consistent with its functions, duties, and powers.
+(2) The Board must perform or exercise its functions, duties, and powers efficiently and effectively.
+(3) The Board must operate in a financially responsible manner and, for that purpose, ensure that it prudently manages its assets and liabilities.
+
+### 8 Individual duties
+(1) A member may not contravene, or cause the contravention of, or agree to the Board contravening, this Act.
+(2) A member must, when acting as a member, act with honesty and integrity.
+(3) A member must, when acting as a member, act in good faith and not pursue the member’s own interests at the expense of the Board’s interests.
+(4) A member must, when acting as a member, exercise the care, diligence, and skill that a reasonable person would exercise in the same circumstances, taking into account (without limitation)—
+  (a) the nature of the Board; and
+  (b) the nature of the action; and
+  (c) the position of the member and the nature of the responsibilities undertaken by the member.
+(5) A member must—
+  (a) act in the interests of the Board as a whole; and
+  (b) act in a manner that promotes the performance of the functions and the duties of the Board.
+(6) A member must comply with a code of conduct for members issued by the Board.
+(7) A member who has information in the member’s capacity as a member that would not otherwise be available to the member may not disclose the information to any person, or make use of, or act on, the information, except—
+  (a) in the performance of the Board’s functions; or
+  (b) as required or permitted by law; or
+  (c) when the member is first authorised to do so by the Board and the disclosure, use, or act in question does not, or is unlikely to, prejudice the Board.
+
+### 9 Accountability
+(1) A member’s duties are owed to the Board.
+(2) If a member does not comply with their individual duties, the member’s appointment may be revoked.
+(3) The Board may bring an action against a member for breach of any individual duty.
+(4) A member is not liable for a breach of an individual duty, except as provided in subclauses (2) and (3).
+(5) Nothing in this clause limits or affects the member’s accountability for any thing else for which the member may be liable under any Act or rule of law arising from the act or omission that constitutes the breach.
+
+### 10 Personal liability of members
+A member is not personally liable for any act done or omitted to be done by the Board or any loss to the Board arising out of any act or omission of the member if the act or omission was (as far as the member’s involvement is concerned)—
+  (a) in good faith; and
+  (b) in performance or intended performance of the functions of the Board.
+
+### 11 Conflicts of interest
+(1) A person is interested in a matter if the person—
+  (a) may derive a financial benefit from the matter; or
+  (b) is the spouse, civil union partner, de facto partner, child, or parent of a person who may derive a financial benefit from the matter; or
+  (c) may have a financial interest in a person to whom the matter relates; or
+  (d) is a partner, director, or officer, or a member of a board or a committee, of a person who may have a financial interest in a person to whom the matter relates; or
+  (e) otherwise directly or indirectly has an interest in the matter.
+(2) A member who is interested in a matter relating to the Board must disclose to the Board details of the interest as soon as practicable after the member becomes aware that they are interested.
+(3) The details that must be disclosed are—
+  (a) the nature of the interest and the monetary value of the interest (if the monetary value can be quantified); or
+  (b) the nature and extent of the interest (if the monetary value cannot be quantified).
+(4) A member who has an interest in a matter—
+  (a) may not vote or take part in any discussion or decision of the Board or any of its committees relating to the matter, or otherwise participate in any activity of the Board that relates to the matter; and
+  (b) may not sign any document relating to the entry into a transaction or the initiation of the matter.
+(5) In this clause, matter means the Board’s performance of its functions or exercise of its powers, or an arrangement, agreement, or a contract made or entered into, or proposed to be made or entered into, by the Board.
+
+### 12 Delegation
+(1) The Board may, by resolution in writing, delegate any of its functions or powers (except the power to appoint a general manager) to—
+  (a) a member or members of the Board:
+  (b) the general manager:
+  (c) a committee appointed by the Board:
+  (d) a subsidiary of the Board:
+  (e) any other person approved by the Board.
+(2) The power to delegate may not be further delegated.
+(3) The person to whom any functions or powers are delegated may perform those functions or exercise those powers in the same manner and with the same effect as if the delegate were the Board.
+(4) A person who purports to act under a delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of delegation.
+(5) A delegation under this clause—
+  (a) may be subject to any conditions that the Board thinks fit:
+  (b) is revocable at any time, by notice in writing or by any other method specified in the delegation:
+  (c) does not prevent the Board from performing the functions or exercising the powers:
+  (d) does not affect the Board’s responsibility for the actions of the person acting under delegation.
+
+### 13 Meetings
+(1) The chairperson may convene meetings to be held at the time and place that the chairperson determines, and must give at least 7 days’ notice in writing of those meetings to members.
+(2) A meeting may be held by means of electronic communication.
+(3) The quorum for a meeting is 4 of the members then holding office.
+(4) The Board should strive to achieve consensus in its decision making; however, any matter arising at a meeting may be decided by a majority vote of those members present with the chairperson having a casting vote or, if the chairperson is absent, with the deputy chairperson having a casting vote.
+(5) A resolution in writing signed by a majority of members is as valid as if it had been passed at a meeting of those members.
+(6) An irregularity in a notice of a meeting is waived if all members entitled to receive the notice—
+  (a) attend the meeting without objection to the irregularity; or
+  (b) do not attend the meeting, but agree before the meeting is held to waive the irregularity.
+(7) Subject to this clause, the Board may determine its own procedures for regulating meetings and conducting its affairs.
 
 ## Schedule 14 — Provisions applying on dissolution of Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
 
 ### 1 Interpretation
-In this schedule, unless the context otherwise requires,—
-  - **dissolution date** means,—
-    (a) in relation to a corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary established under clause 20(1) of Schedule 1,—
-      (i) the date specified in clause 21(1) of that schedule:
-      (ii) the date specified by Order in Council under clause 21(2) of that schedule:
-      (iii) the date on which the subsidiary is dissolved in accordance with a resolution of Te Pūkenga—New Zealand Institute of Skills and Technology’s council under clause 22 of that schedule:
-    (b) in relation to a subsidiary formed by Te Pūkenga—New Zealand Institute of Skills and Technology under section 340, the date on which the subsidiary is dissolved in accordance with a resolution of Te Pūkenga—New Zealand Institute of Skills and Technology’s council
-  - **Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary** means—
-    (a) a Crown entity subsidiary listed in the second column of the table in clause 20(3) of Schedule 1:
-    (b) a subsidiary formed by Te Pūkenga—New Zealand Institute of Skills and Technology under section 340(1).
+[Repealed]
 
 **Dissolution**
 
 ### 2 Dissolution of Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
-(1) An Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is dissolved on the dissolution date.
-(2) As soon as practicable after the dissolution date, the Registrar of Companies must remove the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary from the New Zealand register of companies kept under the Companies Act 1993.
+[Repealed]
 
 **Consequences of dissolution**
 
 ### 3 Members of Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary board cease to hold office
-(1) Every member of an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary’s board who holds office immediately before the dissolution date ceases to hold office on the close of the day before that date.
-(2) Neither the Crown, Te Pūkenga—New Zealand Institute of Skills and Technology, nor the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is liable to make a payment to, or otherwise compensate, a person referred to in subclause (1) for the loss of office.
+[Repealed]
 
 ### 4 Transfer of rights, assets, and liabilities to Te Pūkenga—New Zealand Institute of Skills and Technology
-(1) This clause applies to all rights, assets, and liabilities that an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary had immediately before the dissolution date.
-(2) On and after the dissolution date,—
-  (a) all rights, assets, and liabilities of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary vest in Te Pūkenga—New Zealand Institute of Skills and Technology; and
-  (b) unless the context otherwise requires, every reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary in any enactment or any instrument, register, agreement, deed, lease, application, notice, or other document before the dissolution date must be read as a reference to Te Pūkenga—New Zealand Institute of Skills and Technology.
+[Repealed]
 
 ### 5 Employment of Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary employees by Te Pūkenga—New Zealand Institute of Skills and Technology
-(1) The chief executive of Te Pūkenga—New Zealand Institute of Skills and Technology must identify the employees of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary—
-  (a) whose duties overall are required by Te Pūkenga—New Zealand Institute of Skills and Technology to carry out its functions; and
-  (b) whose positions are to cease to exist as a result of the dissolution of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
-(2) An employee who is identified under subclause (1) must be offered equivalent employment by Te Pūkenga—New Zealand Institute of Skills and Technology, being employment that is—
-  (a) in substantially the same position; and
-  (b) in the same general locality; and
-  (c) on terms and conditions (including any terms and conditions relating to redundancy and superannuation) that are no less favourable than those applying to the employee immediately before the date on which the offer of employment is made to the employee; and
-  (d) on terms that treat the period of service with the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary (and every other period of service recognised by the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary as continuous service) as if it were continuous service with Te Pūkenga—New Zealand Institute of Skills and Technology.
-(3) If the employee of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary accepts an offer of employment under subclause (2), the employee’s employment by Te Pūkenga—New Zealand Institute of Skills and Technology is to be treated as continuous employment, including for the purpose of service-related entitlements, whether legislative or otherwise.
-(4) An employee of an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary who is offered employment under subclause (2) is not entitled to receive any payment or other benefit on the ground that the employee’s position in the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary has ceased to exist whether or not the employee accepts the offer.
-(5) This clause overrides—
-  (a) Part 6A of the Employment Relations Act 2000; and
-  (b) any employee protection provision in any relevant employment agreement.
+[Repealed]
 
 ### 6 Government Superannuation Fund
-(1) This clause applies to a person who, immediately before becoming an employee of Te Pūkenga—New Zealand Institute of Skills and Technology, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
-(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of Te Pūkenga—New Zealand Institute of Skills and Technology.
-(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person’s service as an employee of Te Pūkenga—New Zealand Institute of Skills and Technology were Government service.
-(4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
-(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of Te Pūkenga—New Zealand Institute of Skills and Technology is the controlling authority.
+[Repealed]
 
 ### 7 Students of Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
-(1) This clause applies to every student enrolled at an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary immediately before the dissolution date.
-(2) On and after the dissolution date, the student must be treated as having been enrolled at Te Pūkenga—New Zealand Institute of Skills and Technology.
-(3) A student who would, but for the dissolution of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, have been entitled to be granted an award of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is entitled to be granted a like award of Te Pūkenga—New Zealand Institute of Skills and Technology.
+[Repealed]
 
 ### 8 Visas granted under Immigration Act 2009
-(1) This clause applies to a visa granted under the Immigration Act 2009 in respect of—
-  (a) a student, for the purposes of enrolment at an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; or
-  (b) a staff member of an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
-(2) On and after the dissolution date, any reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary in a condition imposed on the visa must be read as a reference to Te Pūkenga—New Zealand Institute of Skills and Technology.
+[Repealed]
 
 ### 9 Existing approvals, accreditations, and consents
-(1) This clause applies to the following matters granted to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary or treated as having been granted to the subsidiary by NZQA under subpart 2 of Part 5 before the dissolution date and in effect immediately before that date:
-  (a) an approval of a programme under section 439:
-  (b) an accreditation to provide all or part of a programme under section 441:
-  (c) an approval of the content of a micro-credential under section 445:
-  (ca) an accreditation to provide a micro-credential under section 446A:
-  (d) a consent to assess against the standards listed on the Directory of Assessment and Skill Standards under section 449:
-  (e) a consent to award a degree or a postgraduate qualification under section 454.
-(2) On and after the dissolution date,—
-  (a) the approval, accreditation, or consent (including any conditions imposed on an approval or accreditation) continues to apply and must be treated as if it were granted to Te Pūkenga—New Zealand Institute of Skills and Technology; and
-  (b) unless the context otherwise requires, every reference in the approval, accreditation, or consent must be read as a reference to Te Pūkenga—New Zealand Institute of Skills and Technology.
+[Repealed]
 
 ### 10 Existing funding paid by TEC under funding mechanism
-(1) This clause applies to funding (including any conditions imposed on the funding) payable by TEC to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary or that is treated as being payable to the subsidiary under clause 65 of Schedule 1—
-  (a) in accordance with an approval granted under section 425(2); or
-  (b) other than via a plan under section 428.
-(2) On and after the dissolution date,—
-  (a) TEC must treat the funding, unless it is earlier suspended, revoked, or withdrawn under clause 16 or 26 of Schedule 18, as if it were payable to Te Pūkenga—New Zealand Institute of Skills and Technology; and
-  (b) for the purposes of paragraph (a), every reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary in an approval granted under section 425(2) must, unless the context otherwise requires, be read as a reference to Te Pūkenga—New Zealand Institute of Skills and Technology.
+[Repealed]
 
 ### 11 Existing proceedings and other matters
-(1) On and after the dissolution date,—
-  (a) proceedings continued or enforced by or against an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary may instead be continued or enforced by or against Te Pūkenga—New Zealand Institute of Skills and Technology without amendment to the proceedings; and
-  (b) a matter or thing that would, but for this clause, have been completed by the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary may instead be completed by Te Pūkenga—New Zealand Institute of Skills and Technology; and
-  (c) anything done, or omitted to be done, or that is to be done, by or in relation to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to Te Pūkenga—New Zealand Institute of Skills and Technology.
-(2) In subclause (1)﻿(a), proceedings—
-  (a) means civil and criminal proceedings; and
-  (b) includes any enforcement or compliance activities by TEC or NZQA.
+[Repealed]
 
 ### 12 Final report of dissolved Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
-(1) As soon as practicable after the dissolution date, Te Pūkenga—New Zealand Institute of Skills and Technology must prepare and forward to the Minister a final report on the dissolved Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary’s operations.
-(2) The final report must be for the period (the report period)—
-  (a) commencing at the start of the financial year in which the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary was dissolved; and
-  (b) ending with the close of the day immediately before the date on which the subsidiary was dissolved.
-(3) The final report must include audited financial statements for the report period.
-(4) The Minister must present a copy of the final report to the House of Representatives as soon as practicable after receiving it.
+[Repealed]
 
 ### 13 Transfer of contracts does not give rise to claims
-No person may claim against Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary for breach of contract on the ground that the contract, or any benefit of the contract, is vested in Te Pūkenga—New Zealand Institute of Skills and Technology, whether or not the vesting involves Te Pūkenga—New Zealand Institute of Skills and Technology and its employees gaining access to any information, data, programme, intellectual property right, knowledge, chattel, equipment, transmission device, or facility of the claimant or any other person.
+[Repealed]
 
 ### 14 Provisions that apply if corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary dissolved and assets, etc, transferred to another Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
-(1) This clause applies if Te Pūkenga—New Zealand Institute of Skills and Technology’s council dissolves a corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary under clause 22 of Schedule 1 and transfers some or all of the rights, assets, and liabilities of that subsidiary to another Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary under that clause.
-(2) Clauses 4 to 11 and 13 of this schedule apply, with any necessary modifications, as if a reference in those provisions to Te Pūkenga—New Zealand Institute of Skills and Technology were a reference to the other Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary to which those rights, assets, and liabilities are transferred.
+[Repealed]
 
 ## Schedule 15 — Further provisions of Act that apply and do not apply to Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
 
-###
-[Repealed]
+## Schedule 16 — Matters to be specified in industry skills board levy orders
 
-## Schedule 16 — Provisions relating to training levy
-
-### 1 Matters to be specified in levy orders
-A levy order must specify the matters set out in Schedule 17.
-
-### 2 Purposes for which levy may be required
+### 1 Purposes for which levy may be used
 (1) A levy order must specify the purposes for which levy funds are to be used.
-(2) A levy order may also specify any purpose or purposes for which no amount of levy may be used.
-(3) In specifying how levy funds are to be used, a levy order may specify 1 or more purposes that benefit the levy group as a whole and that are related to meeting the costs of the relevant workforce development council performing its functions under section 366.
+(2) A levy order may specify any purpose or purposes for which no amount of levy may be used.
+(3) In specifying how levy funds are to be used, a levy order may specify 1 or more purposes that benefit the levy group as a whole and that are related to meeting the costs of the relevant industry skills board performing its functions under section 367.
 (4) No levy order may specify a purpose for which levy funds may be used that is related to—
   (a) meeting the costs of arranging delivery of work-based training; or
   (b) undertaking any commercial or trading activity; or
   (c) any matter that directly benefits 1 or more individual members of the levy group, as opposed to generally benefiting the relevant industry as a whole.
-(5) Subclause (4)﻿(b) does not prevent a workforce development council from—
-  (a) using any part of a levy to publish or sell any educational, informative, or promotional material (whether or not at a profit); or
+(5) Subclause (4)﻿(b) does not prevent an industry skills board from—
+  (a) using any part of a levy to publish or sell any educational, informative, or promotional material (whether or not for profit); or
   (b) investing any part of a levy pending its expenditure.
 
-### 3 Levy order may require provision of information
-A levy order may require qualifying members of the levy group to provide information to the workforce development council, or some other person or body, for the purpose of enabling or assisting the determination of the amount of levy payable.
+### 2 Who pays and receives levy
+A levy order must specify—
+  (a) the industry whose members are to be primarily liable to pay the levy; and
+  (b) the name of the industry skills board that is to receive the levy.
 
-### 4 Expiry of levy orders
-(1) A levy order expires 5 years after the day on which it was made unless it is sooner—
-  (a) revoked; or
-  (b) disallowed under subpart 2 of Part 5 of the Legislation Act 2019.
-(2) A levy order is revoked if the workforce development council responsible for administering the levy is disestablished under section 364.
+### 3 Amount of levy
+A levy order must specify—
+  (a) the basis on which the amount of the levy is to be calculated or ascertained; and
+  (b) how the size of a qualifying member of the levy group is to be calculated for the purposes of calculating the levy payable by that member, for example,—
+    (i) based on the number of employees of the member who work in the relevant industry; or
+    (ii) based on the level of production of the member; and
+  (c) whether the levy is to be payable at a single rate or 2 or more different rates and the basis on which any different rates apply; and
+  (d) how the amount of the levy payable is to be calculated when a person becomes a qualifying member of the levy group part way through a levy period; and
+  (e) how the rates of the levy are to be notified; and
+  (f) maximum and minimum amounts of levy payable (if any); and
+  (g) the amount of any additional charges, or the percentage increase in the levy payable, for late payment of levies and unpaid levies.
 
-### 5 Independent returning officer must conduct ballot
-A ballot must be conducted by an independent returning officer appointed by the workforce development council and approved by the Minister.
+### 4 Levy order may require provision of information
+A levy order may require qualifying members of the levy group to provide information to the industry skills board, or some other person or body, for the purpose of enabling or assisting with the determination of the amount of levy payable.
 
-### 6 Workforce development council must identify potential members of levy group
-(1) A workforce development council that proposes to impose a levy must take reasonable steps to ensure that it identifies all potential members of the levy group, including—
-  (a) obtaining from that council’s records, and from records that may be available from other workforce development councils, information that can be used to identify potential members; and
-  (b) giving notice of the ballot in public newspapers and industry-specific publications or on an Internet site maintained by or on behalf of the council and inviting members of the relevant industry to register to receive information about the ballot and ballot papers.
-(2) After satisfying the requirements of subclause (1), the workforce development council must provide to the independent returning officer who is administering the ballot a list of all potential members of the levy group of whom it is aware.
+### 5 Application of levy by industry skills board
+(1) A levy order must specify—
+  (a) how the industry skills board is to spend the levy; or
+  (b) the means by which the industry skills board is to consult qualifying members of the levy group as to how the industry skills board is to spend the levy.
+(2) A levy order may specify whether the levy must be spent by the industry skills board or may be paid to, and spent by, branches or subsidiaries of the industry skills board.
 
-### 7 Returning officer must notify potential members of levy group
-(1) The returning officer must give notice of the ballot to—
-  (a) every person named on the list of potential members of the levy group provided by the workforce development council under clause 6(2); and
-  (b) any other person who the independent returning officer considers may be a member of the levy group.
-(2) The notice under subclause (1) must advise the person about the ballot and must—
-  (a) describe the industry that is intended to be covered by the proposed levy order; and
-  (b) state that the returning officer considers that the person is or may be a member of that industry; and
-  (c) state that membership of the industry means that the person—
-    (i) is entitled to participate in the ballot; and
-    (ii) is required to pay the levy if there is sufficient support for it in the ballot and the levy order is made; and
-  (d) state that the person must notify the returning officer if the person disputes that the person is a member of the industry intended to be covered by the proposed levy order (a coverage dispute); and
-  (e) state the date by which that notification of a coverage dispute must be received.
+### 6 Payment of levy
+A levy order must specify when and how the levy is to be payable, including—
+  (a) the period to which the levy applies (the levy period); and
+  (b) how often levy payments are required to be made; and
+  (c) the methods of payment of the levy that are to be available to qualifying members of the levy group; and
+  (d) how refunds of the levy are to be calculated, and when they are to be paid, if a qualifying member ceases to be a qualifying member of the levy group part way through a levy period; and
+  (e) what exemptions from payment of the levy are available; and
+  (f) the circumstances (if any) in which, and the conditions on which, qualifying members of the levy group may be allowed extensions of time for the payment of any amount of levy; and
+  (g) the enforcement mechanisms that the industry skills board receiving the levy may use to collect the levy.
 
-### 8 TEC must resolve coverage disputes
-If the returning officer receives a notice under clause 7(2)﻿(d) that a person wishes to raise a coverage dispute, the returning officer must refer that issue to TEC for determination in accordance with clause 22.
-
-### 9 Population to be balloted
-As soon as practicable after all coverage disputes have been finally determined (including any appeals under clause 23(2)), the returning officer must send a ballot paper to each person in the levy group.
-
-### 10 Requirements of ballot papers
-A ballot paper must state—
-  (a) the address to which ballot papers must be returned; and
-  (b) the date by which ballot papers must be returned; and
-  (c) full information on the nature of the levy power being sought, including all the matters listed in Schedule 17.
-
-### 11 Returning officer must count votes
-The returning officer must collect all validly completed ballot papers received by the returning officer at the closing date and calculate—
-  (a) the proportion of the total number of ballot papers sent by the returning officer under clause 9 that have been validly completed and received by them at the closing date; and
-  (b) the proportion of the validly completed ballot papers received by the returning officer at the closing date that are in favour of the proposal to impose the levy; and
-  (c) the proportion of the validly completed ballot papers received by the returning officer at the closing date that are in favour of the proposal to impose the levy if the votes are weighted according to the size of the member of the industry that returned the ballot paper (calculated at the date on which the ballot closed and on the same basis as the levy is proposed to be charged as set out in the ballot paper).
-
-### 12 Returning officer must keep ballot papers, etc
-The returning officer must take all reasonable steps to ensure that all ballot papers, envelopes, lists, and other documents used in connection with a ballot conducted under this schedule are preserved and kept for a period of 1 year after the completion of the ballot.
-
-### 13 Levy is payable by qualifying members to workforce development council
-If a levy order is made, the levy specified in the order is payable by every qualifying member of the levy group to the workforce development council named in the levy order.
-
-### 14 Certificate of exemption
-(1) The chief executive of TEC may issue a certificate of exemption from payment of a levy to a member of the relevant industry who—
-  (a) was a member of the industry at the time the ballot was held in relation to that levy; and
-  (b) was, through no fault or neglect on that person’s part, not included in the ballot.
-(2) The chief executive may revoke a certificate of exemption if—
-  (a) the person to whom it has been issued agrees; or
-  (b) it was issued in error.
-
-### 15 Method of collecting levy
-(1) A workforce development council may collect levies directly from qualifying members of the levy group or by using a collection agent specified in the levy order in accordance with clause 16.
-(2) A workforce development council may recover levies due from any qualifying member of the levy group—
-  (a) by deducting the amount due from any amount the workforce development council owes that qualifying member; or
-  (b) as a debt due to the workforce development council in any court of competent jurisdiction.
-
-### 16 Levy order may provide for collection by agent
-(1) A levy order may specify persons, other than the persons who are primarily responsible for paying the levy, who must collect levy money due from qualifying members and pay it to the workforce development council.
+### 7 Levy order may provide for collection by agent
+(1) A levy order may specify persons, other than the persons who are primarily responsible for paying the levy, who must collect levy money due from qualifying members and pay it to the industry skills board.
 (2) If a levy order specifies a person who must act as a collection agent under subclause (1), the levy order must also specify an amount from, or a percentage of, the levy money collected that the person may retain as a fee for providing the collection service.
 
+### 8 Record-keeping
+A levy order must provide for records to be kept by—
+  (a) the industry skills board receiving the levy; and
+  (b) persons collecting the levy; and
+  (c) persons who are, or may be, liable to pay the levy.
+
+### 9 Dispute resolution
+A levy order must provide details of the arbitration or mediation method to apply in the case of disputes, as required by clause 13(2) of Schedule 17.
+
+### 10 Requirements of ballot papers
+[Repealed]
+
+### 11 Returning officer must count votes
+[Repealed]
+
+### 12 Returning officer must keep ballot papers, etc
+[Repealed]
+
+### 13 Levy is payable by qualifying members to workforce development council
+[Repealed]
+
+### 14 Certificate of exemption
+[Repealed]
+
+### 15 Method of collecting levy
+[Repealed]
+
+### 16 Levy order may provide for collection by agent
+[Repealed]
+
 ### 17 Levy funds must be kept in separate bank accounts and used only for authorised purposes
-(1) A workforce development council that receives a levy under a levy order must open 1 or more bank accounts for the purpose of the levy and must use the account or those accounts for only the following purposes:
-  (a) depositing amounts of levy paid or recovered; and
-  (b) making payments out of levy funds.
-(2) Only people expressly authorised by the workforce development council may operate the account or those accounts.
-(3) No money may be paid out of the account or those accounts except for a purpose authorised in the levy order.
+[Repealed]
 
 ### 18 Duty to keep records
-A workforce development council that receives a levy must ensure that accurate and up-to-date records are kept of—
+[Repealed]
+
+### 19 Duty to provide annual report
+[Repealed]
+
+### 20 Duty to protect commercially sensitive information
+[Repealed]
+
+### 21 Arbitration or mediation system must be established
+[Repealed]
+
+### 22 Disputes about coverage
+[Repealed]
+
+### 23 Appeal to District Court
+[Repealed]
+
+## Schedule 17 — Provisions relating to administration of industry skills board levy
+
+### 1 Industry skills board must identify potential members of levy group
+(1) An industry skills board must take reasonable steps to identify all potential members of the levy group, including obtaining from the industry skills board’s records, and from records that may be available from other industry skills boards, information that can be used to identify potential members.
+(2) After satisfying the requirements of subclause (1), the industry skills board must provide TEC with a list of all potential members of the levy group it has identified.
+
+### 2 TEC must notify potential members of levy group
+(1) TEC must notify—
+  (a) every person named on the list of potential members of the levy group provided by the industry skills board under clause 1(2); and
+  (b) any other person who TEC considers may be a member of the levy group.
+(2) The notice under subclause (1) must—
+  (a) describe the industry that is intended to be covered by the proposed levy order; and
+  (b) state that TEC considers that the person is or may be a member of that industry; and
+  (c) state that membership of the industry means that the person is required to pay the levy if the levy order is made; and
+  (d) state that the person must notify TEC if the person disputes that the person is a member of the industry intended to be covered by the proposed levy order (a coverage dispute); and
+  (e) state the date by which that notification of a coverage dispute must be received.
+
+### 3 TEC must resolve coverage disputes
+(1) If TEC receives a notice under clause 2(2)﻿(d) that a person wishes to raise a coverage dispute, TEC must determine the matter.
+(2) The industry skills board that is proposing a levy be imposed or, if a levy order has been made, that is responsible for administering the levy must pay the reasonable costs of TEC for determining the dispute.
+
+### 4 Industry skills board must consult qualifying members relating to payment of levy
+An industry skills board must—
+  (a) provide the qualifying members of the levy group with information on the purposes of the proposed levy; and
+  (b) seek feedback from the qualifying members of the levy group on the proposals relating to the levy order and whether the proposed levy is in the interests of all members of the levy group.
+
+### 5 Levy is payable by qualifying members to industry skills board
+If a levy order is made, the levy specified in the order is payable by every qualifying member of the levy group to the industry skills board named in the levy order.
+
+### 6 Exemption from payment of levy
+The chief executive of an industry skills board may exempt a member of the relevant industry from payment of a levy if satisfied on reasonable grounds that 1 or more of the reasons for exemption, specified in the levy order in accordance with clause 6(e) of Schedule 16, applies to that member.
+
+### 7 Method of collecting levy
+(1) An industry skills board may collect levies directly from qualifying members of the levy group or by using a collection agent specified in the levy order in accordance with clause 7 of Schedule 16.
+(2) An industry skills board may recover levies due from any qualifying member of the levy group—
+  (a) by deducting the amount due from any amount the industry skills board owes that qualifying member; or
+  (b) as a debt due to the industry skills board.
+
+### 8 Accounting systems
+An industry skills board must have in place adequate systems for accounting to qualifying members of the levy group for the expenditure of levy funds.
+
+### 9 Levy funds must be kept in separate bank accounts and used only for authorised purposes
+(1) An industry skills board that receives a levy under a levy order must open 1 or more bank accounts for the purposes of the levy and must use the account or those accounts for only the following purposes:
+  (a) depositing amounts of levy paid or recovered; and
+  (b) making payments out of levy funds.
+(2) Only people expressly authorised by the industry skills board may operate the account or those accounts.
+(3) No money may be paid out of the account or those accounts except for a purpose authorised in the levy order.
+
+### 10 Duty to keep records
+An industry skills board that receives a levy must keep an accurate and up-to-date record of—
   (a) the names of all members of the levy group from whom the levy has been collected or recovered; and
   (b) the amount of the levy collected or recovered from those members; and
   (c) the names of all members of the levy group who are or may be liable to pay the levy but have not done so; and
   (d) the use to which the levy funds have been put.
 
-### 19 Duty to provide annual report
-(1) As soon as practicable after the end of a financial year during which a levy has been paid to a workforce development council under a levy order, the workforce development council—
+### 11 Duty to provide annual report
+(1) As soon as practicable after the end of a financial year during which a levy has been paid to an industry skills board under a levy order, the industry skills board—
   (a) must prepare, in respect of that year, financial statements in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013); and
   (b) must include in the financial statements required by paragraph (a) all the necessary information to explain—
     (i) the balance of the levy fund; and
     (ii) the movements in the levy fund over the course of the year, including receipts of money collected and payments of money made under the levy order; and
     (iii) the use of assets acquired or built up with or out of money received under the levy order.
-(2) The workforce development council must ensure that the financial statements prepared under subclause (1) are audited within 90 days of the end of that financial year.
-(3) Financial statements prepared under subclause (1) must be included in the workforce development council’s annual report for that year.
-(4) A workforce development council that is required by subclause (3) to include financial statements in its annual report must, as soon as that report has been completed, give a copy to the Minister, and the Minister must present a copy to the House of Representatives not later than 6 sitting days after receiving it.
-(5) Despite subclause (4), if an enactment other than this Act requires a workforce development council to give a Minister a copy of its annual report and requires the Minister to present a copy to the House of Representatives, that organisation must, to the extent that the enactment and subclause (4) impose different requirements, comply with the enactment instead of subclause (4).
-(6) A workforce development council that is required by subclause (3) to include financial statements in its annual report must take all reasonable steps to ensure that every person primarily liable for paying the levy that is reflected in those financial statements receives a copy of the annual report as soon as practicable after the report has been completed.
+(2) The industry skills board must ensure that the financial statements prepared under subclause (1) are audited within 3 months after the end of that financial year.
+(3) Financial statements prepared under subclause (1) must be included in the industry skills board’s annual report for that year.
+(4) An industry skills board that is required by subclause (3) to include financial statements in its annual report must, as soon as that report has been completed, give a copy to the Minister, and the Minister must present a copy to the House of Representatives not later than 6 sitting days after receiving it.
+(5) Despite subclause (4), if an enactment other than this Act requires an industry skills board to give a Minister a copy of its annual report and requires the Minister to present a copy to the House of Representatives, the board must, to the extent that the enactment and subclause (4) impose different requirements, comply with the enactment instead of subclause (4).
+(6) An industry skills board must ensure that a copy of the annual report is made available to the members of the levy group liable for paying the levy as soon as practicable after the report has been completed.
 
-### 20 Duty to protect commercially sensitive information
+### 12 Duty to protect commercially sensitive information
 A person who receives commercially sensitive information for the purposes of carrying out a function or an activity under this schedule, or under a levy order, must take reasonable steps to protect that information.
 
-### 21 Arbitration or mediation system must be established
-(1) A workforce development council that receives a levy under a levy order must establish a method of arbitration or mediation in the case of disputes regarding—
-  (a) whether a person was included in the ballot relating to that levy; and
-  (b) whether a person has paid the levy; and
-  (c) the amount of levy payable; and
-  (d) any other matter relating to the levy, except disputes about whether a person is within the levy group.
-(2) Details of the arbitration or mediation system must be specified in the levy order, including—
+### 13 Arbitration or mediation system must be established
+(1) An industry skills board that receives a levy under a levy order must establish a method of arbitration or mediation for resolving disputes regarding—
+  (a) whether a person has paid the levy; and
+  (b) the amount of levy payable; and
+  (c) any other matter relating to the levy, except disputes about whether a person is within the levy group.
+(2) Details of the arbitration or mediation method must be specified in the levy order, including—
   (a) the method of appointment of arbitrators or mediators; and
   (b) the procedures to be followed by arbitrators or mediators; and
   (c) the remuneration of arbitrators or mediators; and
   (d) the payment of costs in relation to arbitration or mediation; and
   (e) any other matters relating to the resolution of disputes.
 
-### 22 Disputes about coverage
-(1) If a returning officer refers a dispute to TEC under clause 8, TEC must determine the matter.
-(2) The workforce development council that is proposing to impose a levy or, if a levy order has been made, that is responsible for administering the levy must pay the reasonable costs of TEC for determining the dispute.
-
-### 23 Appeal to District Court
+### 14 Appeal to District Court
 (1) If a dispute is unresolved after arbitration or mediation in accordance with the method specified in the levy order, or if a party wishes to appeal against a decision of an arbitrator or mediator, the dispute may be referred, or the decision may be appealed, to the District Court.
-(2) A determination by TEC under clause 22 may be appealed against on grounds of procedural error only.
-(3) An appeal under subclause (2) may be made to the District Court by the person disputing membership of the levy group or by the workforce development council that is proposing to impose, or is responsible for administering, the levy.
-
-## Schedule 17 — Matters to be specified in levy orders
+(2) A determination by TEC under clause 3 may be appealed against on grounds of procedural error only.
+(3) An appeal under subclause (2) may be made to the District Court by the person disputing membership of the levy group or by the industry skills board that is proposing a levy or is responsible for administering the levy.
 
 ## Schedule 18 — TEC
 
