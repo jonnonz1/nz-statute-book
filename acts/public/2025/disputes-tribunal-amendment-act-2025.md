@@ -5,7 +5,7 @@ _Consolidation as at 2025-10-24_
 This Act is the Disputes Tribunal Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force 3 months after Royal assent.
+This Act comes into force on 24 January 2026.
 
 ## Part 1 — Amendments to Disputes Tribunal Act 1988
 
