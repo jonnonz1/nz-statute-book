@@ -20,7 +20,7 @@ _Consolidation as at 2025-10-24_
 This Act is the Marine and Coastal Area (Takutai Moana) (Customary Marine Title) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 25 October 2025.
 
 ## Part 1 — Amendments to Marine and Coastal Area (Takutai Moana) Act 2011: general
 
