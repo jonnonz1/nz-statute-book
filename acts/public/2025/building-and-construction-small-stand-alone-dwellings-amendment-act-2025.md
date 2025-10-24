@@ -5,9 +5,9 @@ _Consolidation as at 2025-10-24_
 This Act is the Building and Construction (Small Stand-alone Dwellings) Amendment Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on a date set by Order in Council.
-(2) However, sections 4, 14(2), 25, 40, 43, 44, and 45 come into force on the day after Royal assent.
-(3) Any part of the Act that has not come into force 2 years after Royal assent comes into force then.
+(1) This Act comes into force on a date set by Order in Council.The following table is small in size and has 3 columns that are grouped under the heading Provisions commenced by Order in Council.Provisions commenced by Order in CouncilProvisionsCommencement dateOrder in CouncilSections 5 to 13; section 14(1) and (3); sections 15 to 24; sections 26 to 38; section 41; section 42; and sections 47 to 6215 January 2026Clause 2 of the Building and Construction (Small Stand-alone Dwellings) Amendment Act 2025 Commencement Order 2025This note is not part of the Act.
+(2) However, sections 4, 14(2), 25, 40, 43, 44, and 45 come into force on 25 October 2025.
+(3) Any part of the Act that has not come into force before 24 October 2027 comes into force then.
 (4) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Amendments to Building Act 2004
@@ -147,7 +147,7 @@ In section 177(3), before paragraph (a), insert:
   (aaa) an extension under section 34A(b) of the period during which building work must be completed before the project information memorandum lapses:
 
 ### 20 Section 216 amended (Territorial authority must keep information about buildings)
-(1) In section 216(2)﻿(b)﻿(iva), replace section 88(1)﻿(a) with section 88.
+(1) In section 216(2)﻿(b)﻿(iva), replace 88(1)﻿(a) with 88.
 (2) After section 216(2)﻿(b), insert:
   (ba) all information it has issued or received in relation to a non-consented small stand-alone dwelling, including—
     (i) the additional information it provides under section 35A; and
