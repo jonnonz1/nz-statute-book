@@ -6,8 +6,8 @@ This Act is the Responding to Abuse in Care Legislation Amendment Act 2025.
 
 ### 2 Commencement
 (1) Part 1 and Part 3 (except sections 16, 21, and 31) come into force on a date or dates set by Order in Council.
-(2) Any part of Part 1 or Part 3 (except sections 16, 21, and 31) that has not come into force 12 months after Royal assent comes into force then.
-(3) The rest of this Act comes into force on the day after Royal assent.
+(2) Any part of Part 1 or Part 3 (except sections 16, 21, and 31) that has not come into force on 24 October 2026 comes into force then.
+(3) The rest of this Act comes into force on 25 October 2025.
 (4) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 1 — Amendments to Children’s Act 2014
