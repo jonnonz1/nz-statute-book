@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2025-09-25_
+_Consolidation as at 2025-10-25_
 
 > Title
 
@@ -3734,6 +3734,12 @@ The internal waters of the Coromandel Peninsula.
 The following scenic reserves:
 (a) Kaikoura Island Scenic Reserve in Auckland City (Gazette 2004, p 3688):
 (b) Rakitu Island Scenic Reserve (Gazette 1995, p 4265).
+
+### 15
+All high protection areas declared by section 20 of the Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025.
+
+### 16
+All seafloor protection areas declared by section 16 of the Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025.
 
 ## Schedule 5 — Thresholds for Tier 1 and Tier 2 activities
 
