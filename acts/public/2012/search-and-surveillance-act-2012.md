@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2025-10-01_
+_Consolidation as at 2025-10-25_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -4790,6 +4790,9 @@ A reference in new section 79E to an offence that it is suspected has been commi
 |  |  | 93 |  | Carrying out search powers |  | Sections 106, 111 to 114, 115(1)﻿(b) and (3), 116 to 117, 120 to 130, 131(1) to (6), and 132 to 135 |
 |  |  | 94 |  | Disposal of property seized under search warrant |  | Subparts 1, 5, 6, 7, 9, and 10 |
 |  |  | 95 |  | Retention of documents |  | Section 101 |
+| Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025 |  | 46(2) |  | Ranger may, for the purposes of monitoring compliance with the Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025 and any requirements imposed by that Act, require a person to stop, or to stop any vehicle, vessel, or conveyance in that person’s control, to answer any questions reasonably necessary to establish whether the person is complying with that Act, and to produce certain documents |  | All (except subpart 3) |
+|  |  | 47(2) and (3) |  | Ranger may stop, enter, and search any vehicle, vessel, aircraft, or structure, or open and search any parcel, package, container, or luggage, in the control of a person, and may exercise certain powers of seizure, if the ranger reasonably believes that the person has committed an offence against the Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025 |  | All (except subpart 3) |
+|  |  | 48(2) and (4) |  | Ranger may exercise certain seizure powers in relation to fish, aquatic life, seaweed, or natural material if the ranger sights or finds any fish, aquatic life, seaweed, or natural material that the ranger believes on reasonable grounds was removed from a protected area in contravention of the Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025 |  | All (except subpart 3) |
 | Hazardous Substances and New Organisms Act 1996 |  | 119(1) |  | Enforcement officer may obtain and execute search warrant to search for evidence of any substance or organism or related thing involved in offence against Hazardous Substances and New Organisms Act 1996 |  | All (except that sections 118 and 119 apply to constables only) |
 | Health and Safety at Work Act 2015 |  | 169(2) |  | Inspector may obtain and execute search warrant to enter a home (or part of a home) and exercise section 168 powers if satisfied that there are reasonable grounds for believing that the home is a workplace or has a workplace within it, or that the home is the only practicable means through which the inspector may enter the workplace |  | Subpart 3 |
 |  |  | 172(1) |  | Inspector who has entered a workplace or a former workplace under section 168 or 169 may take or remove sample of any material, substance, or thing for analysis, or seize and retain any material, substance, or thing for specified purposes |  | Sections 154, 155, and 159 |
