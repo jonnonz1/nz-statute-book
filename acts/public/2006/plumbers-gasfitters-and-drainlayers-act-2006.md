@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2025-10-22_
+_Consolidation as at 2025-10-25_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -72,9 +72,11 @@ In this Act, unless the context otherwise requires,—
     (b) a unit used for camping that is not itself a vehicle but is capable of being—
       (i) transported by means of being loaded onto a vehicle; and
       (ii) used for camping whether or not it is loaded onto a vehicle
+  - **non-consented small stand-alone dwelling** has the same meaning as in section 7(1) of the Building Act 2004
   - **owner** , in relation to a motor vehicle, has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **pipe** includes tubes, hoses, and associated fittings
   - **practising licence** means a practising licence issued under subpart 1 of Part 2
+  - **prescribed sanitary plumbing or drainlaying** means sanitary plumbing or drainlaying for which a registered person or a provisional licence holder must provide a record of work under section 27A
   - **provisional licence** means a provisional licence issued under section 38
   - **register** means the register kept under subpart 3 of Part 2 or, as the context requires, the register kept under subpart 3 of Part 2A
   - **registered person** means a person who, for the time being,—
@@ -328,6 +330,15 @@ A person may do, or assist in doing, any drainlaying if—
 ### 27 Work done under exemptions must be done in accordance with regulations
 (1) Work done under sections 13 to 25 must be done within the limits prescribed by regulations (if any).
 (2) An exemption under sections 13 to 25 does not apply if subsection (1) is not complied with.
+
+**Each registered person and provisional licence holder to provide record of work in respect of prescribed sanitary plumbing or drainlaying**
+
+### 27A Each registered person and provisional licence holder to provide record of work in respect of prescribed sanitary plumbing or drainlaying
+(1) This section applies to each registered person and provisional licence holder who carries out or supervises prescribed sanitary plumbing or drainlaying.
+(2) The person must, on completion of the prescribed sanitary plumbing or drainlaying, provide the owner of the dwelling with a record of work, in the prescribed form (if any), stating what sanitary plumbing or drainlaying work the registered person or provisional licence holder carried out or supervised.
+(3) A record of work given under subsection (2) does not, of itself,—
+  (a) create any liability in relation to any matter to which the record of work relates; or
+  (b) give rise to any civil liability to the owner that would not otherwise exist if the registered person or provisional licence holder were not required to provide the record of work.
 
 ## Part 2 — Registration and licensing of plumbers, gasfitters, and drainlayers
 
@@ -1329,6 +1340,7 @@ For the purposes of this subpart, a person to whom this subpart applies is guilt
     (i) purposely concealing inferior work or inferior appliances, pipes, drains, sanitary fixtures, or fittings used; or
     (ii) making any false or misleading statement (whether in writing or not) to that person; or
   (f) to have failed to provide any return required under any enactment relating to sanitary plumbing, gasfitting, or drainlaying work or to have provided a false or misleading return; or
+  (fa) to have failed to provide, without good reason, in respect of the prescribed sanitary plumbing or drainlaying that they have carried out or supervised, a record of work in the prescribed form (if any) on the completion of that work to the owner of the dwelling, in accordance with section 27A; or
   (g) to have employed, directed, or permitted any unauthorised person to do any sanitary plumbing, gasfitting, or drainlaying work; or
   (h) to have been convicted of an offence relating to sanitary plumbing, gasfitting, or drainlaying against this Act or the former Act or the Health Act 1956, or against any regulations made under this Act or either of those Acts or under the Gas Act 1992; or
   (i) to be guilty of improper or incompetent conduct in performing that person’s work, or in charging for it, that renders that person unfit to be registered or licensed under Part 2.
@@ -2065,6 +2077,8 @@ Subject to any order of the court, every decision, direction, or order of the Bo
   (e) prescribing the limits or scope of work which any registered persons or any person to whom any of the provisions of sections 12 to 25 applies may do or assist in doing:
   (f) restricting and regulating the performance of particular kinds of sanitary plumbing, gasfitting, or drainlaying, whether by reference to the nature of the work or by reference to the kind of premises, operations, equipment, materials, or substances involved, or otherwise:
   (g) prohibiting or restricting persons (whether or not they are registered persons), or any specified class of persons, or persons not possessing specified qualifications or not belonging to a specified class, from performing any specified kinds of sanitary plumbing, gasfitting, or drainlaying work:
+  (ga) prescribing sanitary plumbing and drainlaying for which a registered person or provisional licence holder must provide a record of work under section 27A:
+  (gb) prescribing 1 or more forms for a record of work under section 27A:
   (h) regulating the procedure of the Board:
   (i) prescribing infringement offences:
   (j) setting the infringement fee for each infringement offence, which,—
