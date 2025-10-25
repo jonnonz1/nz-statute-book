@@ -1,5 +1,5 @@
 # Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019
-_Consolidation as at 2024-10-25_
+_Consolidation as at 2025-10-25_
 
 ### 1 Title
 This Act is the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019.
@@ -1189,6 +1189,15 @@ Court order for recognition
 (3) See section 115(3) for how a court order (including an order that sets out wāhi tapu conditions) is registered under the Marine and Coastal Area (Takutai Moana) Act 2011.
 
 ### Subpart 3 — Recognition of customary marine title
+
+### 110A Subpart unaffected by CMT amendments and later amendments to 2011 Act
+(1) For the purposes of this subpart, the 2011 Act (as referred to in, and applied by, this subpart) continues to apply—
+  (a) as it was in force immediately before the commencement of the CMT Amendment Act; and therefore
+  (b) as if the CMT amendments, and any amendments made to it after that commencement, were not made.
+(2) A reference in any other section of this subpart to a provision of the 2011 Act is therefore a reference to that provision as in force immediately before the commencement of the CMT Amendment Act.
+(3) In this section,—
+  - **2011 Act** means the Marine and Coastal Area (Takutai Moana) Act 2011
+  - **CMT Amendment Act** and have the meanings given in section 9(1) of the 2011 Act (as amended by that Amendment Act).
 
 ### 111 Recognition of customary marine title by the Crown
 (1) The responsible Minister may, on application, determine whether 1 or more hapū of ngā hapū o Ngāti Porou have customary marine title in an area of ngā rohe moana o ngā hapū o Ngāti Porou.
