@@ -1,5 +1,5 @@
 # Oranga Tamariki Act 1989
-_Consolidation as at 2025-08-01_
+_Consolidation as at 2025-10-25_
 
 > Title
 
@@ -4689,7 +4689,7 @@ Subject to sections 368 and 370 and to any regulations made under section 447, t
 (4) Any notice required by this section to be given to any person by letter shall be deemed to have been received by that person when the letter would have been delivered in the ordinary course of post, and in proving that the notice was given it shall be sufficient to prove that the letter was properly addressed and posted.
 
 ### 370 Time limits on detention in secure care
-(1) Subject to subsection (2), no child or young person shall be kept in secure care for a continuous period of more than 72 hours, or on more than 3 consecutive days (whether continuously or not), unless an approval has been granted under section 376.
+(1) Subject to subsection (2), no child or young person shall be kept in secure care on more than 3 consecutive days (whether continuously or not) commencing on the day on which the child or young person is first placed in secure care, unless an approval has been granted under section 376.
 (2) Notwithstanding anything in subsection (1), no child or young person (being a child or young person who is placed in the custody of the chief executive pursuant to section 42 or section 235) shall be kept in secure care for a continuous period of more than 24 hours unless an approval has been granted under section 376.
 (3) In calculating, for the purposes of subsection (2), the period for which a child or young person has been kept in secure care, any period spent in secure care on any of the following days shall not be included:
   (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, Waitangi Day, Christmas Day, Boxing Day, New Year's Day, or the second day of January:
@@ -4853,9 +4853,6 @@ For the purposes of sections 384B to 384K,—
   - **regulations** means regulations made under section 447 relating to search and seizure
   - **residence** means a residence established under section 364
   - **scanner search** means a search of a child or young person by means of an electronic device passed over the clothed body of the person being searched and that does not include any touching (except any accidental touching) of the person being searched
-  - **strip search** means a search where the person conducting the search may require the child or young person being searched—
-    (a) to undress, or to remove any specified items of clothing and underclothing, and be visually examined; and
-    (b) to have the child’s or young person’s clothing searched
   - **unauthorised item** means any article, drug, or substance—
     (a) that is a harmful item; or
     (b) that may not be lawfully possessed by any child or young person in the residence.
@@ -4886,51 +4883,48 @@ The manager may cause to be inspected, in accordance with the regulations, any m
   (b) prevents the dog coming into physical contact with the child or young person during the search.
 
 ### 384E Child or young person may be strip searched
-(1) A member of staff may, if that member of staff believes on reasonable grounds that a child or young person has in their possession a harmful item, conduct a strip search of that child or young person for the purposes of detecting the harmful item—
-  (a) if that member believes on reasonable grounds that a strip search is necessary in order to detect the item; and
-  (b) if a scanner search or a pat down search of the child or young person has already been carried out for that purpose.
-(2) A child or young person required to undress or remove any clothing and underclothing under subsection (1) may be required to remain undressed or partly undressed only as long as is reasonably necessary for the purposes of the search.
+[Repealed]
 
 ### 384F Explanation of purpose and consequences of inspections and searches
-(1) Before any mail is inspected under section 384B or a search is carried out under section 384C or section 384E, the member of staff who is to conduct the inspection or search must explain to the child or young person—
+(1) Before any mail is inspected under section 384B or a search is carried out under section 384C, the member of staff who is to conduct the inspection or search must explain to the child or young person—
   (a) that the purpose of the inspection or search is,—
     (i) in the case of an inspection, to detect any item of the kinds referred to in section 384B; or
-    (ii) in the case of a search carried out under section 384C, to ensure the safety of the child or young person by detecting any harmful item, or to detect any article, drug, or substance that may not be lawfully possessed by the child or young person in the residence; or
-    (iii) in the case of a search carried out under section 384E, to ensure the safety of the child or young person and the safety of others by detecting any harmful item; and
+    (ii) in the case of a search carried out under section 384C, to ensure the safety of the child or young person by detecting any harmful item, or to detect any article, drug, or substance that may not be lawfully possessed by the child or young person in the residence; and
+    (iii)
   (b) that any item seized during the inspection or search will, after consultation with the child or young person, be dealt with in the ways provided for by the regulations; and
   (c) that any item seized during the inspection or search and subsequently handed to a constable in accordance with the regulations may be used as evidence in criminal proceedings against the child or young person.
 (2) The explanation required by subsection (1) need not be given if the member of staff has reasonable grounds for believing that the situation involves a serious and immediate risk to the safety of the child or young person or of any other person.
 
 ### 384G Restrictions on searches
-(1) A member of staff must consult with the manager or a senior member of staff before carrying out a search under section 384C or section 384E unless consultation would, in the circumstances, be impracticable.
-(2) A pat down search or a strip search of a child or young person must be carried out by a member of staff who is of the same sex as the child or young person being searched.
-(3) A pat down search or a strip search must not be carried out in view of—
+(1) A member of staff must consult with the manager or a senior member of staff before carrying out a search under section 384C unless consultation would, in the circumstances, be impracticable.
+(2) A pat down search of a child or young person must be carried out by a member of staff who is of the same sex as the child or young person being searched.
+(3) A pat down search must not be carried out in view of—
   (a) a person who is not of the same sex as the child or young person, unless the person is a parent or guardian (other than the chief executive) of the child or young person or a person who would otherwise have the care of the child or young person:
   (b) another child or young person in the residence.
-(4) A pat down search or a strip search must not be conducted unless one of the following persons is also present:
+(4) A pat down search must not be conducted unless one of the following persons is also present:
   (a) another member of staff:
   (b) a constable:
   (c) a parent or guardian (other than the chief executive) of the child or young person or a person who would otherwise have the care of the child or young person.
-(5) A person who conducts a pat down search or a strip search must conduct the search with decency and sensitivity and in a manner that affords the child or young person being searched the greatest degree of privacy and dignity consistent with the purpose of the search.
+(5) A person who conducts a pat down search must conduct the search with decency and sensitivity and in a manner that affords the child or young person being searched the greatest degree of privacy and dignity consistent with the purpose of the search.
 
 ### 384H Use of force in carrying out search
-(1) A member of staff may not use physical force in carrying out a search authorised by section 384C or section 384E unless that member of staff has reasonable grounds for believing that the use of force is reasonably necessary to avoid or mitigate a serious and immediate risk to the safety of the child or young person or of any other person.
+(1) A member of staff may not use physical force in carrying out a search authorised by section 384C unless that member of staff has reasonable grounds for believing that the use of force is reasonably necessary to avoid or mitigate a serious and immediate risk to the safety of the child or young person or of any other person.
 (2) A member of staff who uses force for the purpose referred to in subsection (1) must use no more than the minimum amount of force that is reasonably necessary in the circumstances.
 
 ### 384I Recording of inspections and searches
 The manager must ensure that a record is made in the daily log kept in accordance with the regulations of—
-  (a) the details of any inspection or search carried out under any of sections 384B, 384C, and 384E, including the grounds on which the inspection or search was carried out; and
-  (b) in the case of a search carried out under section 384C or section 384E, the details of any physical force used for the purpose of carrying out the search, and of the circumstances giving rise to the use of force.
+  (a) the details of any inspection or search carried out under sections 384B and 384C,including the grounds on which the inspection or search was carried out; and
+  (b) in the case of a search carried out under section 384C, the details of any physical force used for the purpose of carrying out the search, and of the circumstances giving rise to the use of force.
 
 ### 384J Child or young person may make complaint
-A child or young person who has had their mail inspected under section 384B or has been searched under section 384C or section 384E may make a complaint about that inspection or search in accordance with the regulations.
+A child or young person who has had their mail inspected under section 384B or has been searched under section 384C may make a complaint about that inspection or search in accordance with the regulations.
 
 ### 384K Power to seize articles, etc, found on inspection or search
 (1) Any unauthorised item found during any inspection or search may be seized in accordance with the regulations by the member of staff referred to in subsection (2).
 (2) The member of staff of the residence referred to in subsection (1) is,—
   (a) in the case of an inspection carried out under section 384B, the member of staff conducting the inspection; or
-  (b) in the case of a search carried out under section 384C, the member of staff who is conducting the search; or
-  (c) in the case of a search carried out under section 384E, the member of staff who is conducting the search.
+  (b) in the case of a search carried out under section 384C, the member of staff who is conducting the search.
+  (c)
 (3) Any unauthorised item seized must be dealt with in accordance with the regulations.
 (4) The manager must ensure that a record is made in the daily log kept in accordance with the regulations of the details of the seizure of any unauthorised item and of the action taken in respect of it.
 
@@ -5621,7 +5615,7 @@ Sections 101 and 105 of the Search and Surveillance Act 2012 apply, with any nec
   (a) providing for the management and inspection of residences established pursuant to section 364:
   (b) defining the rights of children and young persons placed in any residence established pursuant to section 364:
   (c) limiting the powers of the staff of any residence established pursuant to section 364 to punish or discipline the children or young persons placed in the residence:
-  (ca) regulating searches conducted under sections 384C and 384E and the inspection of incoming and outgoing mail under section 384B including, without limitation,—
+  (ca) regulating searches conducted under sections 384C and the inspection of incoming and outgoing mail under section 384B including, without limitation,—
     (i) prescribing the manner in which the searches and inspections may be carried out:
     (ii) prescribing the powers that may be exercised when conducting a search or inspection:
     (iii) providing for the seizure, disposal, safe keeping, or return of any article, drug, or substance found during a search or inspection:
