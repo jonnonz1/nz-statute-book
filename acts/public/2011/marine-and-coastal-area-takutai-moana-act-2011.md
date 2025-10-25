@@ -1,11 +1,26 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-10-25_
 
 ## Preamble
+Background to Act as enacted
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
 (2) In its Report on the Crown’s Foreshore and Seabed Policy (Wai 1071), the Waitangi Tribunal found the policy underpinning the 2004 Act in breach of the Treaty of Waitangi. The Tribunal raised questions as to whether the policy complied with the rule of law and the principles of fairness and non-discrimination against a particular group of people. Criticism was voiced against the discriminatory effect of the 2004 Act on whānau, hapū, and iwi by the United Nations Committee on the Elimination of Racial Discrimination and the United Nations Special Rapporteur:
 (3) In 2009, a Ministerial Review Panel was set up to provide independent advice on the 2004 Act. It, too, viewed the Act as severely discriminatory against whānau, hapū, and iwi. The Panel proposed the repeal of the 2004 Act and engagement with Māori and the public about their interests in the foreshore and seabed, recommending that new legislation be enacted to reflect the Treaty of Waitangi and to recognise and provide for the interests of whānau, hapū, and iwi and for public interests in the foreshore and seabed:
 (4) This Act takes account of the intrinsic, inherited rights of iwi, hapū, and whānau, derived in accordance with tikanga and based on their connection with the foreshore and seabed and on the principle of manaakitanga. It translates those inherited rights into legal rights and interests that are inalienable, enduring, and able to be exercised so as to sustain all the people of New Zealand and the coastal marine environment for future generations:
+Background to amendments made by CMT Amendment Act
+(5) In 2023, in Whakatōhea Kotahitanga Waka (Edwards) v Te Kāhui and Whakatōhea Māori Trust Board [2023] NZCA 504, [2023] 3 NZLR 252, the Court of Appeal interpreted provisions of this Act about the requirements for recognition of customary marine title:
+(6) The Court of Appeal’s interpretation of those provisions changed the effect that Parliament intends them to have, and materially reduced those requirements (for example, that an applicant group must prove exclusive use and occupation of a specified area from the start to the end of the applicable period without substantial interruption):
+(7) In 2024, in Whakatōhea Kotahitanga Waka (Edwards) v Te Kāhui Takutai Moana o Ngā Whānau Me Ngā Hapū o Te Whakatōhea [2024] NZSC 164, [2024] 1 NZLR 857, the Supreme Court allowed an appeal by the Attorney-General against the Court of Appeal’s decision:
+(8) The Supreme Court stated its interpretation of those provisions, and held that the Court of Appeal was incorrect in its interpretation of them:
+(9) In 2025, in Whakatōhea Kotahitanga Waka (Edwards) v Ngāti Ira o Waioweka, Ngāti Patumoana, Ngāti Ruatākenga and Ngāi Tamahaua (Te Kāhui Takutai Moana o Ngā Whānau Me Ngā Hapū o Te Whakatōhea) [2025] NZSC 104, the Supreme Court decided the remaining issues under the appeals before it, and applied its interpretation of those provisions:
+(10) Amendments to those provisions are still needed, however, to ensure that they have the effect, and maintain the balance, that Parliament intends:
+(11) In particular, amendments to those provisions are still needed to—
+  (a) define more strictly the requirements for exclusive use and occupation:
+  (b) require inferences by a decision maker (including the Court) to be based on evidence of physical use and occupation:
+  (c) clarify that, in the case of an application for, or to vary or cancel, a recognition order, the applicant group must prove that the group both—
+    (i) holds the specified area in accordance with tikanga; and
+    (ii) had exclusive use and occupation of the specified area from the start to the end of the applicable period without substantial interruption:
+(12) The enactment of the Marine and Coastal Area (Takutai Moana) (Customary Marine Title) Amendment Act 2025 makes those amendments:
 
 ### 1 Title
 This Act is the Marine and Coastal Area (Takutai Moana) Act 2011 and may also be cited as—
@@ -99,6 +114,10 @@ To avoid doubt, this Act does not affect—
       (i) protected customary rights; or
       (ii) customary marine title; and
     (b) brought into effect under section 96
+  - **applicable period** , for a determination of whether customary marine title exists in a specified area of the common marine and coastal area (see sections 57A, 57B, 58, 59, 95, 98, and 106), means the period specified (as applicable)—
+    (a) in section 58(1)﻿(b)﻿(i) (from 1840 to the present day); or
+    (b) in section 58(3)﻿(c)﻿(ii) and for the purposes of section 58(1)﻿(b)﻿(ii) (from 1840 to the time of a customary transfer); or
+    (c) in section 58(3)﻿(d)﻿(ii) and for the purposes of section 58(1)﻿(b)﻿(ii) (from the time of a customary transfer to the present day)
   - **applicant group** —
     (a) means 1 or more iwi, hapū, or whānau groups that seek recognition under Part 4 of their protected customary rights or customary marine title by—
       (i) a recognition order; or
@@ -106,6 +125,8 @@ To avoid doubt, this Act does not affect—
     (b) includes a legal entity (whether corporate or unincorporate) or natural person appointed by 1 or more iwi, hapū, or whānau groups to be the representative of that applicant group and to apply for, and hold, an order or enter into an agreement on behalf of the applicant group
   - **aquaculture activities** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **chief executive** means the chief executive of Land Information New Zealand
+  - **CMT Amendment Act** means the Marine and Coastal Area (Takutai Moana) (Customary Marine Title) Amendment Act 2025
+  - **CMT amendments** means this Act’s provisions as amended, inserted, or replaced by the CMT Amendment Act
   - **coastal permit** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **common marine and coastal area** means the marine and coastal area other than—
     (a) specified freehold land located in that area; and
@@ -152,6 +173,7 @@ To avoid doubt, this Act does not affect—
     (a) in the case of a recognition order made under section 98, the date on which the order is sealed under section 113; and
     (b) in the case of an agreement entered into under section 95, the date on which the agreement is brought into effect under section 96(1)
   - **environment** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **exclusive use and occupation** has the meaning given in section 57A
   - **infrastructure** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **kaitiakitanga** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
@@ -206,6 +228,7 @@ To avoid doubt, this Act does not affect—
   - **structure** —
     (a) has the meaning given in section 2(1) of the Resource Management Act 1991; and
     (b) includes any breakwater, groyne, mole, or other such structure that is made by people and fixed to land
+  - **substantial interruption** has the meaning given in section 57B
   - **taonga tūturu** has the meaning given in section 2(1) of the Protected Objects Act 1975
   - **territorial authority** has the meaning given in section 5(1) of the Local Government Act 2002
   - **territorial sea** means the territorial sea of New Zealand as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
@@ -216,6 +239,34 @@ To avoid doubt, this Act does not affect—
 
 ### 9A Transitional, savings, and related provisions
 [Repealed]
+
+### 9A Customary marine title amendments: purposes and application
+Purposes
+(1) The purposes of the CMT amendments (for example, sections 57A, 57B, 58, 59, and 106) are—
+  (a) to define the applicable requirements for recognising customary marine title (namely, requirements for, and for proof of, exclusive use and occupation of a specified area from the start to the end of the applicable period without substantial interruption); and
+  (b) in particular, consistent with recitals (5) to (12) of the Preamble of this Act, to alter aspects of the law that are—
+    (i) specified in section 59A; and
+    (ii) in reasoning and conclusions expressed in judgments given under this Act that include, for example, the judgments specified in section 59B.
+Application
+(2) The customary marine title decisions, agreements, and orders to which the CMT amendments apply are specified in Part 1 of Schedule 1AA.
+
+### 9B Customary marine title amendments: interpretation and overriding effect
+Provisions to which duty applies
+(1) This section applies to—
+  (a) the CMT amendments; and
+  (b) in particular, sections 57A, 57B, 58, 59, and 106 of this Act.
+Duty to interpret provisions to promote their purposes and application
+(2) A decision maker (including the Court) must interpret the CMT amendments in a way that promotes their purposes and application (as stated in section 9A).
+Overriding effect
+(3) This section prevails over—
+  (a) section 4 (purpose) (including, without limitation, that purpose as given effect to through sections 4(2)﻿(a) and (c) and 6(1)):
+  (b) section 7 (Treaty of Waitangi (te Tiriti o Waitangi)):
+  (c) the reasoning and conclusions (about the requirements for recognition of customary marine title, and aspects of the law specified in section 59A) that are expressed in the judgments given under this Act that are specified in section 59B, and any reasoning and conclusions that are—
+    (i) to the same effect, or to materially similar effect, in substance; and
+    (ii) expressed in any other judgment given under this Act.
+
+### 9C Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 10 Act binds the Crown
 This Act binds the Crown.
@@ -675,7 +726,7 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
 (1) A protected customary right is a right that—
   (a) has been exercised since 1840; and
   (b) continues to be exercised in a particular part of the common marine and coastal area in accordance with tikanga by the applicant group, whether it continues to be exercised in exactly the same or a similar way, or evolves over time; and
-  (c) is not extinguished as a matter of law.
+  (c) has not been extinguished as a matter of law.
 (2) A protected customary right does not include an activity—
   (a) that is regulated under the Fisheries Act 1996; or
   (b) that is a commercial aquaculture activity (within the meaning of section 4 of the Maori Commercial Aquaculture Claims Settlement Act 2004); or
@@ -770,6 +821,35 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
 
 ### Subpart 3 — Customary marine title
 
+**Interpretation matters**
+
+### 57A Meaning of exclusive use and occupation
+(1) This section applies to a group or its members that is or are—
+  (a) an applicant group; or
+  (b) making a customary transfer; or
+  (c) a group or members of a group to whom a customary transfer was made.
+(2) This section defines whether, for the purposes of this Act, the group or its members has, had, or have exclusive use and occupation of a specified area of the common marine and coastal area from the start to the end of the applicable period without substantial interruption.
+(3) The group or its members has, had, or have exclusive use and occupation of the area from the start to the end of the applicable period without substantial interruption only if the group or its members had both the intention and the ability to control the area, to the exclusion of others, from the start to the end of the applicable period without substantial interruption.
+
+### 57B Meaning of substantial interruption
+In this Act, substantial interruption, to a group’s exclusive use and occupation of a specified area of the common marine and coastal area,—
+  (a) means any 1 or more substantial interruptions to one or both of the following:
+    (i) the group’s use and occupation of that area:
+    (ii) the exclusivity of the group’s use and occupation of that area:
+  (b) requires a decision maker (including the Court) to consider the nature, extent, duration, and cause of any interruption to the group’s exclusive use and occupation of the specified area:
+  (c) can be caused (without limiting paragraph (a)) by use and occupation carried out, or an activity (including, without limitation, an activity that is or includes fishing or navigation) carried out,—
+    (i) wholly or partly in that area; and
+    (ii) by a person, or persons, who did not belong to the group; and
+    (iii) with authorisation by or under legislation or otherwise lawfully:
+  (d) can be caused (without limiting paragraph (a)) by changes to the use and occupation carried out, or to an activity carried out,—
+    (i) wholly or partly in that area; and
+    (ii) by a person, or persons, who did belong to the group; and
+    (iii) with authorisation by or under legislation or otherwise lawfully:
+  (e) can be caused (without limiting paragraphs (a) to (d)) by the combined or cumulative effects of, or of changes to, 2 or more activities of the kind described in paragraph (c) or (d):
+  (f) has not occurred (despite paragraphs (a) to (e)) only because, in relation to that area, an activity is carried out wholly or partly in that area under a resource consent granted at any time between—
+    (i) the commencement of this Act; and
+    (ii) the effective date.
+
 **Determination of whether customary marine title exists**
 
 ### 58 Customary marine title
@@ -778,9 +858,10 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
   (b) has, in relation to the specified area,—
     (i) exclusively used and occupied it from 1840 to the present day without substantial interruption; or
     (ii) received it, at any time after 1840, through a customary transfer in accordance with subsection (3).
-(2) For the purpose of subsection (1)﻿(b), there is no substantial interruption to the exclusive use and occupation of a specified area of the common marine and coastal area if, in relation to that area, a resource consent for an activity to be carried out wholly or partly in that area is granted at any time between—
-  (a) the commencement of this Act; and
-  (b) the effective date.
+(1A) In considering whether the requirements of subsection (1)﻿(b)﻿(i), (3)﻿(c)﻿(ii), or (3)﻿(d)﻿(ii) are met, no inference may be drawn about all or any of the geographic scope, continuity, or exclusivity of a group’s use and occupation of a specified area in a period unless that inference—
+  (a) is based on evidence of a physical activity, or of a use, related to natural and physical resources (within the meaning of section 2(1) of the Resource Management Act 1991) in all or part of the area, by the group in that period; and
+  (b) is not based on a spiritual or cultural association with all or part of the area unless that association is manifested in a physical activity, or in a use, related to natural and physical resources (within the meaning stated in paragraph (a)) in all or part of the area, by the group in that period.
+(2)
 (3) For the purposes of subsection (1)﻿(b)﻿(ii), a transfer is a customary transfer if—
   (a) a customary interest in a specified area of the common marine and coastal area was transferred—
     (i) between or among members of the applicant group; or
@@ -792,17 +873,31 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
   (d) the group or some members of the group to whom the transfer was made have—
     (i) held the specified area in accordance with tikanga; and
     (ii) exclusively used and occupied the specified area from the time of the transfer to the present day without substantial interruption.
-(4) Without limiting subsection (2), customary marine title does not exist if that title is extinguished as a matter of law.
+(4) Customary marine title does not exist if the applicant group’s customary interest proposed to be recognised in that title has been extinguished as a matter of law.
+(5) For the purposes of subsection (4), the applicant group’s customary interest proposed to be recognised in customary marine title has been extinguished as a matter of law if, in relation to a specified area of the common marine and coastal area,—
+  (a) legal title was vested, before 17 January 2005, in a legal person or a group, other than the applicant group, by any means, including—
+    (i) Crown grants made by or under any lawful authority, including ordinances, statutes, or the prerogative; or
+    (ii) the common law; or
+    (iii) a statutory vesting; or
+    (iv) administrative action; or
+  (b) an interest has been established before, on, or after 17 January 2005 that is legally inconsistent with exclusive use and occupation of the area by the applicant group.
+(6) Subsection (5)﻿(a) or (b) applies even if the person is the Crown or a local authority and is, under section 11(3), divested of that title as owner, because—
+  (a) section 11(3) does not revive customary interests in any part of the common marine and coastal area that existed before any vesting of title, or establishment of an interest, divested under section 11(3); and
+  (b) section 6 only restores and gives legal expression in accordance with this Act to customary interests in the common marine and coastal area that were extinguished by the Foreshore and Seabed Act 2004.
+(7) Subsection (4)—
+  (a) does not limit section 57B (which sets out the requirements for determining whether substantial interruption has occurred to an applicant group’s exclusive use and occupation); and
+  (b) is not limited by subsections (5) and (6) (which state some ways, but not the only ways, that the applicant group’s customary interest proposed to be recognised in customary marine title has been extinguished as a matter of law for the purposes of subsection (4)).
 
 ### 59 Matters relevant to whether customary marine title exists
-(1) Matters that may be taken into account in determining whether customary marine title exists in a specified area of the common marine and coastal area include—
-  (a) whether the applicant group or any of its members—
-    (i) own land abutting all or part of the specified area and have done so, without substantial interruption, from 1840 to the present day:
-    (ii) exercise non-commercial customary fishing rights in the specified area, and have done so from 1840 to the present day; and
-  (b) if paragraph (a) applies, the extent to which there has been such ownership or exercise of fishing rights in the specified area.
-(2) To avoid doubt, section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992 does not limit subsection (1)﻿(a)﻿(ii).
-(3) The use at any time, by persons who are not members of an applicant group, of a specified area of the common marine and coastal area for fishing or navigation does not, of itself, preclude the applicant group from establishing the existence of customary marine title.
-(4) For the purpose of subsection (1)﻿(a)﻿(i), land abutting all or part of the specified area means—
+(1) Matters to which a decision maker (including the Court) must have particular regard in determining whether customary marine title exists in a specified area of the common marine and coastal area include whether the applicant group or any of its members—
+  (a) own land abutting all or part of the specified area and have done so, without substantial interruption, for all of the applicable period:
+  (b) exercise non-commercial customary fishing rights in all or part of the specified area, and have done so for all of the applicable period:
+  (c) exercise non-commercial customary fishing rights in named fishing grounds in all or part of the specified area, and have done so for all of the applicable period:
+  (d) have marae near all or part of the specified area.
+(2) To avoid doubt, section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992 does not limit subsection (1)﻿(b).
+(2A) In complying with subsection (1)﻿(a), (b), or (c), the decision maker must also have particular regard to the extent to which there has been such ownership, or such exercise of fishing rights in the specified area, for all of the applicable period.
+(3) The use at any time, by persons who are not members of an applicant group, of a specified area of the common marine and coastal area for fishing or navigation does not, of itself, preclude the applicant group from establishing the existence of customary marine title, unless that use causes or contributes to substantial interruption under section 57B.
+(4) For the purpose of subsection (1)﻿(a), land abutting all or part of the specified area means—
   (a) land that directly abuts the specified area; or
   (b) land that does not directly abut the specified area, but does directly abut any of the following:
     (i) a marginal strip (as defined in section 2(1) of the Conservation Act 1987) that directly abuts the specified area:
@@ -811,6 +906,38 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
     (iv) a Māori reservation (as defined in section 2(1) of the Reserves Act 1977) that directly abuts the specified area:
     (v) a road that directly abuts the specified area:
     (vi) a railway line that directly abuts the specified area.
+
+### 59A Outline of aspects of law altered by CMT Amendment Act
+The altered aspects of the law referred to in section 9A(1)﻿(b) include alterations made by provisions that—
+  (a) define a group’s exclusive use and occupation of a specified area of the common marine and coastal area from the start to the end of the applicable period:
+  (b) require the group’s use and occupation of the area to be exclusive in that the group has had both the intention and the ability to control that area, to the exclusion of others, from the start to the end of the applicable period:
+  (c) require that no substantial interruption has occurred to the group’s exclusive use and occupation of that area from the start to the end of the applicable period:
+  (d) define substantial interruption to the group’s exclusive use and occupation of that area as meaning any 1 or more substantial interruptions to one or both of the following:
+    (i) the group’s use and occupation of that area:
+    (ii) the exclusivity of the group’s use and occupation of that area:
+  (e) clarify how substantial interruption to the group’s exclusive use and occupation of that area can be caused, and when it has not occurred:
+  (f) clarify what inferences are permitted, and require particular regard to be had to specified matters, in determining whether the group has had exclusive use and occupation of that area from the start to the end of the applicable period without substantial interruption:
+  (g) clarify when the applicant group’s customary interest proposed to be recognised in customary marine title has been extinguished as a matter of law by a vesting of a title as owner to any part of the common marine and coastal area:
+  (h) clarify what the group must prove in an application for the recognition of customary marine title in that area.
+
+### 59B Judgments given under this Act referred to in sections 9A and 9B
+Examples of judgments altered and overridden
+(1) The judgments referred to in sections 9A(1)﻿(b) and 9B(3)﻿(c) as being altered and overridden include, for example, the following judgments (to the extent that they express reasoning and conclusions about the requirements for recognition of customary marine title, and aspects of the law specified in section 59A):
+  (a) Colin Francis Reeder and Ngā Pōtiki ā Tamapāhore Trust on behalf of Ngā Pōtiki [2021] NZHC 2726, [2022] 3 NZLR 304 (12 October 2021):
+  (b) Ngāti Pāhauwera and others [2021] NZHC 3599 (22 December 2021):
+  (c) Whakatōhea Kotahitanga Waka (Edwards) v Te Kāhui and Whakatōhea Māori Trust Board [2023] NZCA 504, [2023] 3 NZLR 252 (18 October 2023):
+  (d) Ngāi Tūmapūhia-ā-Rangi Hapū Inc on behalf of Ngā Uri o Ngāi Tūmapūhia ā Rangi Hapū and others [2024] NZHC 309 (26 February 2024):
+  (e) Ngā Hapū o Tokomaru Ākau and others [2024] NZHC 682 (25 March 2024; reissued redacted version 1 May 2024):
+  (f) Muriwai Maggie Jones on behalf of Ngāi Tai Iwi and the Uri of Ngāi Tai Iwi [2024] NZHC 1373 (28 May 2024; reissued 29 May 2024):
+  (g) Re Papa [2024] NZHC 3610 (29 November 2024):
+  (h) Whakatōhea Kotahitanga Waka (Edwards) v Te Kāhui Takutai Moana o Ngā Whānau Me Ngā Hapū o Te Whakatōhea [2024] NZSC 164, [2024] 1 NZLR 857 (2 December 2024):
+  (i) Re Te Hika o Pāpāuma Mandated Iwi Authority [2024] NZHC 3745 (10 December 2024) and Re application for orders recognising Customary Marine Title and Protected Customary Rights [2025] NZHC 1523 (11 June 2025):
+  (j) Re Taueki (Ngāti Tamarangi) [2025] NZHC 1488 (9 June 2025):
+  (k) Whakatōhea Kotahitanga Waka (Edwards) v Ngāti Ira o Waioweka, Ngāti Patumoana, Ngāti Ruatākenga and Ngāi Tamahaua (Te Kāhui Takutai Moana o Ngā Whānau Me Ngā Hapū o Te Whakatōhea) [2025] NZSC 104 (15 August 2025):
+  (l) Re Application by Hutchinson (on behalf of Landowners of Ruapuke Island Group) [2025] NZHC 2400 (22 August 2025).
+Examples of judgments containing decision, order, or both, that must be taken to have no legal effect, and never to have had legal effect
+(2) The judgments specified in subsection (1)﻿(g), (i), (j), and (l) are examples of judgments that contain a CMT decision, a customary marine title order, or both, that must under clause 4(1) and (3) of Schedule 1AA be taken to have no legal effect, and never to have had legal effect.
+(3) Subsection (2) does not limit clause 4 of Schedule 1AA.
 
 **Rights under customary marine title**
 
@@ -1413,11 +1540,9 @@ In hearing an application for a recognition order, the Court may receive as evid
 (1) In the case of an application for recognition of protected customary rights in a specified area of the common marine and coastal area, the applicant group must prove that the protected customary right—
   (a) has been exercised in the specified area; and
   (b) continues to be exercised by that group in the same area in accordance with tikanga.
-(2) In the case of an application for the recognition of customary marine title in a specified area of the common marine and coastal area, the applicant group must prove that the specified area—
-  (a) is held in accordance with tikanga; and
-  (b) has been used and occupied by the applicant group, either—
-    (i) from 1840 to the present day; or
-    (ii) from the time of a customary transfer to the present day.
+(2) In the case of an application for the recognition of customary marine title in a specified area of the common marine and coastal area, the applicant group must prove that the group—
+  (a) holds the specified area in accordance with tikanga, as required by section 58(1)﻿(a); and
+  (b) had exclusive use and occupation of the specified area from the start to the end of the applicable period without substantial interruption, as required by section 58(1)﻿(b)﻿(i) or (ii).
 (3) In the case of every application for a recognition order, it is presumed, in the absence of proof to the contrary, that a customary interest has not been extinguished.
 
 ### 107 Court's flexibility in dealing with application
@@ -1663,6 +1788,94 @@ The enactments specified in Schedule 3 are amended in the manner specified in th
 
 ### 2 Lodgement and consideration of planning documents during applicable interim period
 [Repealed]
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to CMT Amendment Act
+
+### 1 Definitions
+In this Part, unless the context otherwise requires,—
+  - **announcement time** means midnight on 25 July 2024
+  - **commencement** means the commencement of the CMT Amendment Act
+  - **CMT Amendment Act** has the meaning given in section 9(1)
+  - **CMT amendments** has the meaning given in section 9(1)
+  - **CMT decision** means a decision relating to whether customary marine title exists in a specified area of the common marine and coastal area and that is—
+    (a) a decision made by the responsible Minister on behalf of the Crown relating to a notice of intention (see section 95)—
+      (i) to seek an agreement recognising customary marine title; and
+      (ii) given by an applicant group; or
+    (b) a decision made by the Court (as defined in this clause) relating to an application (see sections 98 and 100)—
+      (i) for a recognition order recognising customary marine title; and
+      (ii) made by an applicant group
+  - **decision made by the Court** , for the purposes of paragraph (b) of the definition of CMT decision, includes, but is not limited to, each of the following done, made, or issued by or on behalf of the Court:
+    (a) an interlocutory decision (for example, a direction, minute, or order) of any kind:
+    (b) any consideration or any hearing, of any kind, in part or in full, of one or both of—
+      (i) an interlocutory matter:
+      (ii) a substantive matter:
+    (c) a substantive decision (for example, a direction, minute, or order) of any kind
+  - **interim period** means the period that—
+    (a) starts at the announcement time; and
+    (b) ends on the commencement
+  - **old law** means the following provisions (as in force before the announcement time, and as interpreted by courts before, at, or after that time):
+    (a) subpart 3 (customary marine title) of Part 3 (customary interests):
+    (b) provisions of this Act that relate to that subpart (for example, related definitions in section 9 and related provisions in section 106 (burden of proof)).
+
+### 2 CMT amendments do not apply to CMT decision made at announcement time
+Main rule
+(1) The CMT amendments do not apply to or affect a CMT decision made—
+  (a) before or at the announcement time; and
+  (b) under the old law.
+(2) The CMT amendments also do not apply to or affect the following, made before the announcement time, that give effect to a CMT decision of a kind specified in subclause (1):
+  (a) an agreement made and entered into under section 95 that recognises and provides for customary marine title:
+  (b) a customary marine title order made under section 98(1) that recognises customary marine title.
+Related interlocutory applications, appeals, or rehearings
+(3) The old law continues to apply to any interlocutory application, appeal, or rehearing related to a CMT decision of a kind specified in subclause (1).
+If CMT decision not given effect to in agreement or order
+(4) This clause applies even if, at the announcement time, a CMT decision of a kind specified in subclause (1) is not given effect to in—
+  (a) an agreement made and entered into under section 95 that recognises and provides for customary marine title; or
+  (b) a customary marine title order made under section 98(1) that recognises customary marine title.
+(5) A CMT decision to which subclause (4) applies may, after the announcement time, be given effect to in an agreement or an order specified in subclause (4)﻿(a) or (b).
+
+### 3 CMT amendments apply to CMT decision made after announcement time
+Main rule
+(1) The CMT amendments apply to a CMT decision made after the announcement time.
+Related interlocutory applications, appeals, or rehearings
+(2) The CMT amendments apply to any interlocutory application, appeal, or rehearing related to a CMT decision of a kind specified in subclause (1).
+Effect of consideration, without decision, at announcement time
+(3) This clause applies even if, at the announcement time,—
+  (a) the Crown has considered, but has not decided, whether the applicant group has satisfied the Crown that the group has satisfied the requirements of the old law; or
+  (b) the Court has considered, but has not decided, whether the applicant group has satisfied the Court that the group meets the requirements of the old law.
+
+### 4 Certain CMT decisions made in interim period, and related agreements and orders made, have no legal effect and never have had legal effect
+CMT decisions based on old law (as in force in interim period)
+(1) A CMT decision must be taken to have no legal effect, and never to have had legal effect, if it was made—
+  (a) in the interim period; and
+  (b) in accordance with the old law (as in force in the interim period).
+Related agreements
+(2) An agreement must be taken to have no legal effect, and never to have had legal effect,—
+  (a) if it was made and entered into—
+    (i) in the interim period; and
+    (ii) under section 95; and
+  (b) to the extent that it gives effect to a CMT decision to which subclause (1) applies.
+Related customary marine title orders
+(3) A customary marine title order (whether or not sealed under section 113) must be taken to have no legal effect, and never to have had legal effect, if it—
+  (a) was made—
+    (i) in the interim period; and
+    (ii) under section 98(1); and
+  (b) gives effect to a CMT decision to which subclause (1) applies.
+
+### 5 Court may continue to hear, or rehear, affected applications
+Application to which clause applies
+(1) This clause applies to an applicant group’s application for a recognition order for customary marine title if, at the announcement time, the Court has considered, but has not decided, whether the group has satisfied the Court that the group meets the requirements of the old law.
+(2) Subclause (1) applies whether or not the Court in the interim period makes in respect of the application one or both of the following:
+  (a) a CMT decision to which clause 4(1) applies:
+  (b) a customary marine title order to which clause 4(3) applies.
+Court may continue to hear, or rehear, all, or any part of, application
+(3) The Court may, after the commencement, and in a way that complies with clause 3,—
+  (a) continue to hear or rehear, all, or any part of, the application; and
+  (b) invite and consider related further submissions from all or any parties to, or other participants in, the application.
+
+### 6 No entitlement to compensation
+A person is not entitled to compensation of any kind on account of the operation of the CMT amendments.
 
 ## Schedule 1 — Resource consents and controls in protected customary rights area
 
