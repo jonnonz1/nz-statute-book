@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2025-08-27_
+_Consolidation as at 2025-10-25_
 
 > Title
 
@@ -68,6 +68,7 @@ _Consolidation as at 2025-08-27_
     (if) section 50E of the Trade in Endangered Species Act 1989; or
     (ig) section 31I of the Wild Animal Control Act 1977; or
     (ih) section 70W of the Wildlife Act 1953; or
+    (ii) section 58 of the Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025; or
     (j) section 357 of the Gambling Act 2003; or
     (jaa) section 235A of the Employment Relations Act 2000; or
     (ja) section 74 of the Psychoactive Substances Act 2013; or
@@ -666,7 +667,7 @@ Where a document is served on any person who is a Maori within the meaning of Te
   - **security interest** includes—
     (a) a security agreement (within the meaning of section 16(1) of the Personal Property Securities Act 1999) other than a lease; and
     (b) a mortgage (within the meaning of section 4 of the Property Law Act 2007)
-  - **substituted sentence** means a warrant of commitment issued under section 83(2)﻿(a) or 88AE(1)﻿(b) or any sentence imposed under section 88AE(1)﻿(c) to (e)
+  - **substituted sentence** means a warrant of commitment issued under section 83(2)﻿(b) or 88AE(1)﻿(b) or any sentence imposed under section 88AE(1)﻿(c) to (e)
   - **traffic fine** means a fine payable in respect of a traffic offence
   - **traffic offence** means—
     (a) any offence against the Transport Act 1962, the Road User Charges Act 1977, the Road User Charges Act 2012, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Land Transport Act 1998, or the Land Transport Management Act 2003 or against any secondary legislation made under any of those Acts:
