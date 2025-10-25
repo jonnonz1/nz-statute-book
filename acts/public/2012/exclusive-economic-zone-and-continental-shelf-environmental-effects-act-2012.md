@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-10-25_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -240,6 +240,7 @@ Part 5
   (e) Fiordland (Te Moana o Atawhenua) Marine Management Act 2005:
   (f) Fisheries Act 1996:
   (g) Hauraki Gulf Marine Park Act 2000:
+  (gaaa) Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025:
   (ga) Kaikōura (Te Tai o Marokura) Marine Management Act 2014:
   (h) Marine and Coastal Area (Takutai Moana) Act 2011:
   (i) Marine Mammals Protection Act 1978:
