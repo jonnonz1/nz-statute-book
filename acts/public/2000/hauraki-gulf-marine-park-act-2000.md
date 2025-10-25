@@ -1,5 +1,5 @@
 # Hauraki Gulf Marine Park Act 2000
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-10-25_
 
 ## Preamble
 (1) The Hauraki Gulf has a quality and diversity of biology and landscape that makes it outstanding within New Zealand. The islands of the Gulf are valued as the habitats of plants and animals, once common, now rare, and are often the only places in the world where these species exist naturally:
@@ -292,7 +292,9 @@ The purposes of the Hauraki Gulf Marine Park are—
   (g) all mataitai reserves and taiapure-local fisheries included in the Park in accordance with section 36:
   (h) all land—
     (i) included in the Park to give effect to legislation settling historical claims of iwi and hapū under the Treaty of Waitangi (being claims relating to acts or omissions of the Crown before 21 September 1992); and
-    (ii) described in Schedule 5.
+    (ii) described in Schedule 5:
+  (i) all high protection areas declared by section 20 of the Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025:
+  (j) all seafloor protection areas declared by section 16 of the Hauraki Gulf / Tīkapa Moana Marine Protection Act 2025.
 (3) The inclusion of seawater in the Hauraki Gulf Marine Park is to give effect to the purposes of the Park and does not—
   (a) give the Crown or any other person ownership of seawater; or
   (b) affect the responsibilities of a regional council in the coastal marine area.
@@ -328,7 +330,7 @@ The purposes of the Hauraki Gulf Marine Park are—
 If, in the opinion of the Minister, the inclusion of a taiapure-local fishery or mataitai reserve in the Hauraki Gulf Marine Park is in accordance with the purpose of the Park, that taiapure-local fishery or mataitai reserve may, with the consent of the Minister of Fisheries and the committee of management or the tangata whenua, as the case may be, be included in the Park.
 
 ### 37 Effect of Park
-(1) Any person holding, controlling, or administering land, foreshore, seabed, marine reserve, a taiapure-local fishery, or a mataitai reserve in the Hauraki Gulf Marine Park must recognise and give effect to the purpose of the Park.
+(1) Any person holding, controlling, or administering land, foreshore, seabed, a marine reserve, a high protection area, a seafloor protection area, a taiapure-local fishery, or a mataitai reserve in the Hauraki Gulf Marine Park must recognise and give effect to the purpose of the Park.
 (2) Nothing in this Part—
   (a) affects any land in the Hauraki Gulf, its islands, or coastal area, that is not expressly included in the Park in accordance with this Part:
   (b) limits the ability of the Minister or an administering body to acquire conservation areas, reserves, wildlife refuges, wildlife sanctuaries, or marine reserves within the Gulf or the Park:
@@ -362,6 +364,7 @@ If, in the opinion of the Minister, the inclusion of a taiapure-local fishery or
 ### 40 Removal of other areas from Park
 The Minister may, by notice in the Gazette, and after considering the purpose of the Park,—
   (a) remove any foreshore or seabed or reclamation from the Park; or
+  (aa) remove any seafloor protection area or high protection area from the Park; or
   (b) remove any land of the Crown within a wetland from the Park; or
   (c) with the consent of the local authority, remove any open space or building owned by a local authority and managed to protect its natural or historic values from the Park.
 
