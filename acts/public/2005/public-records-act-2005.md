@@ -1,5 +1,5 @@
 # Public Records Act 2005
-_Consolidation as at 2025-10-22_
+_Consolidation as at 2025-10-25_
 
 ### 1 Title
 This Act is the Public Records Act 2005.
@@ -435,7 +435,9 @@ Standards issued by the Chief Archivist may include (without limitation) all or 
 ### 29 Inspection powers
 (1) The Chief Archivist may, after giving reasonable notice to a public office or local authority, inspect the public records or local authority records and local authority archives, as the case may be, that are in the possession or under the control of that public office or local authority.
 (2) Subsection (1)—
-  (a) permits the Chief Archivist to view the system of a public office or local authority for maintaining its public records or local authority records and local authority archives, as the case may be, and the conditions for their storage; but
+  (a) permits the Chief Archivist to view the systems and processes of a public office or a local authority for maintaining its public records or local authority records and local authority archives (as the case may be), including its systems, processes, and conditions for—
+    (i) creating and maintaining the records or archives; and
+    (ii) storing the records or archives; but
   (b) does not permit the Chief Archivist to inspect public records or local authority records and local authority archives that carry security classifications or are restricted by other legislation without the consent of the administrative head of the controlling public office or controlling local authority, as the case may be.
 (3) In this section, security classifications means the classifications assigned in accordance with the Security in Government Sector manual issued from time to time by the Government.
 
@@ -449,7 +451,9 @@ The Chief Archivist may give notice in writing directing the administrative head
   (b) the public records that it controls or (in the case of an approved repository) has possession of.
 
 ### 32 Annual report on recordkeeping
-(1) The Chief Archivist must make an annual report to the Minister on the state of recordkeeping within public offices.
+(1) The Chief Archivist must make an annual report to the Minister on the state of recordkeeping within public offices, including (without limitation) a report on—
+  (a) any action plan required to be prepared by a public office under section 35A; and
+  (b) any performance notice issued to a public office under section 35B.
 (2)
 (3) The Minister must present the report of the Chief Archivist to the House of Representatives.
 
@@ -458,7 +462,8 @@ The Chief Archivist may give notice in writing directing the administrative head
 (2) The Chief Archivist must commission and meet the costs of each audit, which must—
   (a) cover the aspects of recordkeeping practices specified for the purpose of the audit by the Chief Archivist; and
   (b) be based on criteria developed by the Chief Archivist.
-(3) Further audits must be conducted at intervals of not less than 5 years and not more than 10 years after the date of the previous audit (but it is not necessary to conduct an audit of all public offices in the same year).
+(3) Further audits must be conducted at intervals as directed by the Chief Archivist and not more than 10 years after the date of the previous audit (but it is not necessary to conduct an audit of all public offices in the same year).
+(4) An audit under this section may be carried out by an employee of the department or another person engaged by the Chief Archivist.
 
 ### 34 Audit of recordkeeping practices of Chief Archivist
 (1) The Minister must commission an independent audit of the recordkeeping practices of the Chief Archivist—
@@ -473,6 +478,27 @@ As soon as is reasonably practicable after the end of the financial year in whic
   (a) the Chief Archivist must prepare a report to the Minister on the audits conducted under section 33; and
   (b) the Minister must prepare a report on the audit conducted under section 34; and
   (c) in each case, the Minister must present the report to the House of Representatives.
+
+### 35A Action plans
+(1) The Chief Archivist may, by written notice to a public office, require the public office to prepare and carry out an action plan relating to any of its recordkeeping practices.
+(2) A notice given under subsection (1) must specify—
+  (a) the recordkeeping practice (or practices) that the action plan must address; and
+  (b) the outcomes sought; and
+  (c) the time within which a draft action plan must be prepared.
+(3) A public office that receives a notice under subsection (1) must comply with it by preparing a draft action plan within the time specified in the notice and submitting it to the Chief Archivist for approval.
+(4) When the Chief Archivist has approved an action plan, the public office must—
+  (a) implement it in accordance with its terms, unless or until the Chief Archivist directs otherwise; and
+  (b) make the plan available on an internet site maintained by or on behalf of the public office.
+
+### 35B Performance notice
+(1) The Chief Archivist may, by written notice to a public office, issue a performance notice requiring the public office to carry out a specified action relating to its recordkeeping practices by a specified date.
+(2) The Chief Archivist may also require, in the notice, that the public office provide the Chief Archivist with a report or reports (for example, a progress report and a final report) on the action taken—
+  (a) at a specified time (or times); or
+  (b) at specified intervals; or
+  (c) both.
+(3) A public office that receives a notice under subsection (1) must—
+  (a) take the action by the date specified in the notice; and
+  (b) provide a report (or reports) to the Chief Archivist at the time, or intervals, specified in the notice.
 
 ### Subpart 4 — Estray records, prescribed records, protected records, Ministers’ papers, and private records
 
