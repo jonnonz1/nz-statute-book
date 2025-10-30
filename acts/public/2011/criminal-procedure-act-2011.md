@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2025-06-17_
+_Consolidation as at 2025-10-30_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -2253,17 +2253,31 @@ For the purposes of this subpart, publication means publication in the context o
 (4) Despite subsection (2), when a person who is charged with an offence first appears before the court the court may make an interim order under subsection (1) if that person advances an arguable case that one of the grounds in subsection (2) applies.
 (5) An interim order made in accordance with subsection (4) expires at the person's next court appearance, and may only be renewed if the court is satisfied that one of the grounds in subsection (2) applies.
 (6) When determining whether to make an order or further order under subsection (1) that is to have effect permanently, a court must take into account any views of a victim of the offence conveyed in accordance with section 16B of the Victims' Rights Act 2002.
+(7) Subsections (8) and (9) apply—
+  (a) in the case of an adult who is convicted of an offence against any of sections 128 to 142A or section 144A of the Crimes Act 1961 or any other offence against a person that the court determines is of a sexual nature; and
+  (b) to any order made under subsection (1) other than an interim order.
+(8) The court may make an order under subsection (1) without the agreement of the complainant only if the court is satisfied that the complainant—
+  (a) is unable or unwilling to engage with the matter; or
+  (b) despite all reasonable efforts, cannot be contacted.
+(9) If the case specified in subsection (7)﻿(a) involves more than 1 complainant,—
+  (a) the court may make an order under subsection (1) only in respect of the complainants who—
+    (i) have agreed to the making of the order; or
+    (ii) are described in subsection (8)﻿(a) or (b); and
+  (b) the order—
+    (i) must provide that nothing may be published that could identify the complainants who agreed to the making of the order or who are described in subsection (8)﻿(a) or (b), including (without limitation) the charges involved in the case; and
+    (ii) must not prevent the identification of the person convicted or the offence for which the person was convicted in relation to any complainant who disagreed with the making of the order.
 
 ### 201 Automatic suppression of identity of defendant in specified sexual cases
 (1) This section applies if a person is accused or convicted of an offence against section 130 or 131 of the Crimes Act 1961.
-(2) The purpose of this section is to protect the complainant.
+(2) The purpose of this section is to protect the complainant’s privacy and support the complainant’s autonomy in connection with the publication of the details of a person accused or convicted of an offence referred to in subsection (1).
 (3) No person may publish the name, address, or occupation of a person accused or convicted of an offence mentioned in subsection (1) unless the court, by order, permits that publication.
 (4) The court must make an order referred to in subsection (3) if—
   (a) the complainant (or, if there were 2 or more complainants, each complainant)—
     (i) is aged 18 years or older (whether or not he or she was aged 18 years or older when the offence was, or is alleged to have been, committed); and
-    (ii) applies to the court for such an order; and
+    (ii) applies to the court for such an order in accordance with the Criminal Procedure Rules 2012; and
   (b) the court is satisfied that the complainant (or, as the case requires, each complainant) understands the nature and effect of his or her decision to apply to the court for the order; and
   (c) no order or further order has been made under section 200 prohibiting publication of the identity of the person convicted of the offence.
+(4A) The court, when determining whether to make an order under subsection (3), must take into account any views of the complainant (or, if there were 2 or more complainants, each complainant) in respect of the publication of the details of the person accused or convicted of an offence referred to in subsection (1).
 (5) An order made under subsection (4) ceases to have effect if—
   (a) the person convicted of the offence applies to a court for an order or further order under section 200 prohibiting publication of his or her identity; and
   (b) the court makes the order or further order under section 200.
@@ -2283,18 +2297,19 @@ For the purposes of this subpart, publication means publication in the context o
 (3) Subsection (1) applies whether or not the court has made an order under section 200 suppressing the identity of the defendant.
 (4) An order under subsection (1) suppressing the identity of a witness, victim, or connected person may not prevent publication of the name of the defendant (which may be prohibited only by an order made under section 200) or the nature of the charge.
 
-### 203 Automatic suppression of identity of complainant in specified sexual cases
-(1) This section applies if a person is accused or convicted of an offence against any of sections 128 to 142A or 144A of the Crimes Act 1961.
-(2) The purpose of this section is to protect the complainant.
+### 203 Automatic suppression of identity of complainant in sexual cases
+(1) This section applies if a person is accused or convicted of an offence against any of sections 128 to 142A or 144A of the Crimes Act 1961 or any other offence against a person that the court determines is of a sexual nature.
+(2) The purpose of this section is to protect the complainant’s privacy and support the complainant’s autonomy in connection with the publication of their details.
 (3) No person may publish the name, address, or occupation of the complainant, unless—
   (a) the complainant is aged 18 years or older; and
   (b) the court, by order, permits such publication.
 (4) The court must make an order referred to in subsection (3)﻿(b) if—
   (a) the complainant—
     (i) is aged 18 years or older (whether or not he or she was aged 18 years or older when the offence was, or is alleged to have been, committed); and
-    (ii) applies to the court for such an order; and
+    (ii) applies to the court for such an order in accordance with the Criminal Procedure Rules 2012; and
   (b) the court is satisfied that the complainant understands the nature and effect of his or her decision to apply to the court for the order; and
   (c) in any case where publication of the identity of the complainant may lead to the identification of the person who is charged with or convicted of the offence, no order or further order has been made under section 200 prohibiting publication of the identity of that person.
+(4A) The court, when determining whether to make an order under subsection (3), must take into account any views of the complainant in respect of the publication of their details.
 (5) An order made under subsection (3)﻿(b) ceases to have effect if—
   (a) publication of the identity of the complainant may lead to the identification of the person who is charged with or convicted of the offence; and
   (b) that person applies to a court for an order or further order under section 200 prohibiting publication of his or her identity; and
