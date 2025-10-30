@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2025-10-25_
+_Consolidation as at 2025-10-30_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -1225,6 +1225,9 @@ There is no presumption of law that a person is incapable of sexual connection b
 (3) The matters are—
   (a) the particular circumstances of the person convicted; and
   (b) the particular circumstances of the offence, including the nature of the conduct constituting it.
+(4) This section does not apply if—
+  (a) person B (as described in section 128) is under the age of 12 years; or
+  (b) it cannot be established whether person B was under or over the age of 12 years.
 
 ### 129 Attempted sexual violation and assault with intent to commit sexual violation
 (1) Every one who attempts to commit sexual violation is liable to imprisonment for a term not exceeding 10 years.
@@ -1308,13 +1311,15 @@ There is no presumption of law that a person is incapable of sexual connection b
   (b) at the time he or she took the action concerned, he or she believed on reasonable grounds that the young person was of or over the age of 16 years.
 
 ### 132 Sexual conduct with child under 12
-(1) Every one who has sexual connection with a child is liable to imprisonment for a term not exceeding 14 years.
+(1) Every one who has sexual connection with a child is liable to imprisonment for a term not exceeding 20 years.
 (2) Every one who attempts to have sexual connection with a child is liable to imprisonment for a term not exceeding 10 years.
 (3) Every one who does an indecent act on a child is liable to imprisonment for a term not exceeding 10 years.
 (4) It is not a defence to a charge under this section that the person charged believed that the child was of or over the age of 12 years.
 (5) It is not a defence to a charge under this section that the child consented.
 (6) In this section,—
-  (a) child means a person under the age of 12 years; and
+  (a) child—
+    (i) means a person under the age of 12 years; and
+    (ii) for the purposes of subsection (1), includes person B (as described in section 128) if it cannot be established whether person B was under or over the age of 12 years; and
   (b) doing an indecent act on a child includes indecently assaulting the child.
 
 ### 133 Indecency with girl under 12
