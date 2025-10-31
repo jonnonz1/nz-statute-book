@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2025-09-24_
+_Consolidation as at 2025-10-31_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -3416,6 +3416,7 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
     (i) under section 67 or 86D; or
     (ii)
     (iii) by the pre-1990 forest land allocation plan; or
+  (ea) knowingly fails to keep records as required by section 182CD or 190KP; or
   (f) knowingly provides altered, false, incomplete, or misleading information (including emissions returns) to the Minister or the EPA or any other person in respect of any matter in the ETS participant provisions; or
   (g) wilfully obstructs, hinders, resists, or deceives a person exercising a power conferred on that person under the ETS participant provisions; or
   (h) wilfully interferes with any survey, investigation, test, or measurement carried out by an enforcement officer or a person assisting an enforcement officer under section 100; or
@@ -3433,6 +3434,7 @@ Every person to whom section 99(1) applies who knowingly acts in contravention o
     (i) under section 67 or 86D; or
     (ii)
     (iii) by the pre-1990 forest land allocation plan; or
+  (ca) fails to keep records as required by section 182CD or 190KP; or
   (d) fails to provide information to the EPA or any other person when required to do so under the ETS participant provisions; or
   (e) provides altered, false, incomplete, or misleading information (including emissions returns) to the Minister or the EPA or any other person in respect of a matter in the ETS participant provisions.
 (2) Every person who commits an offence against subsection (1) is liable on conviction to—
@@ -4873,7 +4875,7 @@ In this subpart,—
     (ii) is part of area 2; and
   (d) the total area (whether contiguous or not) of area 2 is equal to or greater than the total area (whether contiguous or not) of area 1; and
   (e) each individual parcel that makes up area 2 has an area of at least 1 hectare with an average width of at least 30 metres; and
-  (f) each person who will be a participant in respect of land in area 2 would be eligible to be a participant under section 57 if the person were carrying out an activity listed in Part 1 of Schedule 4 on that land; and
+  (f) each person who will be a participant in respect of land in area 2 would be eligible to be a participant under section 57 (but need not comply with the restriction under section 182AB) if the person were carrying out an activity listed in Part 1 of Schedule 4 on that land; and
   (g) the EPA is satisfied that, if all of the land in area 1 becomes area 1 (offset) land, on the P90 offset date the P90 offset release criteria are likely to be met; and
   (h) any other criteria prescribed in regulations made under section 181W are met.
 
@@ -5240,6 +5242,9 @@ If an activity listed in Part 1A of Schedule 3 is carried out on P90 offsetting 
 (5) A person may not be registered as a participant under section 57 in respect of an activity of standard forestry or permanent forestry in relation to post-1989 forest land where the forest species on the land is predominantly naturally regenerated tree weeds unless the EPA is satisfied that the risk of tree weed spread from the land that is the subject of the application for registration is low.
 (6) Subsection (5) does not apply to any person who has registered as a participant before 1 January 2013.
 
+### 182AB Restriction on registration as participant in relation to restricted forest land
+A person may not be registered as a participant under section 57 in respect of an activity of standard forestry or permanent forestry in relation to restricted forest land, except in accordance with subpart 4A or 4B.
+
 ### 182B EPA to give public notice of criteria for assessing risk of tree weed spread
 The EPA must give public notice of the criteria for assessing the risk of tree weed spread from land that is the subject of an application for registration under section 57.
 
@@ -5262,8 +5267,16 @@ The EPA must give public notice of the criteria for assessing the risk of tree w
   (a) in the prescribed form; and
   (b) accompanied by any prescribed fee and any prescribed information.
 (5) The EPA may (under this section) add a carbon accounting area to the post-1989 forest land in respect of which a person is recorded as a participant only if—
-  (a) the EPA is satisfied that the person would (if appropriate) qualify to be registered as a participant in respect of that land under section 182A; and
+  (a) the EPA is satisfied that—
+    (i) the person would (if appropriate) qualify to be registered as a participant in respect of the carbon accounting area under section 182A; and
+    (ii) the carbon accounting area—
+      (A) is not restricted forest land; or
+      (B) for restricted forest land, is permitted to be registered in accordance with subpart 4A or 4B; or
+      (C) meets subsubparagraphs (A) and (B); and
   (b) where the forest species on that land is predominantly naturally regenerated tree weeds, the EPA is satisfied that the risk of tree weed spread from the land is low.
+(5A) If an applicant identifies land in an application with reference to the land use capability class, the applicant must do so using only 1 of the following for the entire application:
+  (a) the NZLRI map; or
+  (b) a property-scale assessment undertaken in accordance with any methodology specified in regulations.
 (6) If the EPA—
   (a) registers a person as a participant under section 57 in relation to an activity of standard forestry or permanent forestry, the EPA must notify the person under section 57(6):
   (b) receives an application to add a carbon accounting area and subsection (5) is satisfied, the EPA must—
@@ -5271,6 +5284,25 @@ The EPA must give public notice of the criteria for assessing the risk of tree w
     (ii) notify the participant accordingly.
 (7) The addition of a carbon accounting area under subsection (6)﻿(b)﻿(i) has effect on and after the date of the notice given under subsection (6)﻿(b)﻿(ii).
 (8) See also sections 182D and 182E (which require notice to the participant and notice to interested parties, if any).
+
+### 182CA Further requirements for ETS application in respect of LUC class 1–6 unfarmed land
+(1) This section applies to an ETS application in respect of LUC class 1–6 land that is unfarmed land.
+(2) The application must, in addition to any other requirements, be accompanied by a statutory declaration in the prescribed form that, to the best of the applicant’s knowledge, the land is unfarmed land.
+
+### 182CB Further requirements for ETS application in respect of mapped land other than LUC class 1–6 land
+(1) This section applies to an ETS application in respect of mapped land other than LUC class 1–6 land.
+(2) The application must, in addition to any other requirements, identify the land to which the application applies by reference to the applicable land use capability classification shown—
+  (a) on the NZLRI map; or
+  (b) in a property-scale assessment undertaken in accordance with any methodology specified in regulations.
+
+### 182CC Further requirements for ETS application if property-scale assessment of land used
+(1) This section applies to an ETS application if—
+  (a) this Act requires the applicant to identify the land use capability classification of the land to which the application applies; and
+  (b) the applicant relies on a property-scale assessment of the land to identify the land use capability classification.
+(2) The application must, in addition to any other requirements, be accompanied by a statement by the person who undertook the property-scale assessment of the land that the assessment has been carried out in accordance with any methodology specified in regulations.
+
+### 182CD Retention of property-scale assessment records
+An applicant must keep records of property-scale assessment of the land use capability classification of land described in a record of title for 20 years if the applicant has used them in an ETS application.
 
 ### 182D Notice to forestry participant if their registration added or removed
 The EPA must give written or electronic notice to a participant, or former participant, of the following matters as soon as practicable after the EPA carries them out under any of Parts 5 to 5D:
@@ -6025,6 +6057,50 @@ Two final activities or 2 CAA2s
   (b) the participant is liable to surrender the number of units equal to the unit balance of the CAA1 (calculated under the last emissions return submitted for the CAA1).
 (3) The EPA must amend the register kept under section 57, and the records of carbon accounting areas kept under section 182C(2), to record the effects of this section.
 
+### Subpart 4A — The 25% allowance for restricted forest land
+
+### 190KA Further requirements for registration as participant in relation to restricted forest land
+(1) A person may apply to be registered under section 57 as a participant in respect of an activity of standard forestry or permanent forestry in relation to restricted forest land relying on the 25% allowance.
+(2) A person who is a participant in standard forestry or permanent forestry may apply to the EPA to add any carbon accounting area or areas that include restricted forest land relying on the 25% allowance.
+(3) An application under subsection (1) or (2) must, in addition to any other requirements,—
+  (a) identify the record or records of title that comprise the individual farm to which the application applies; and
+  (b) identify the restricted forest land for each individual farm to which the application applies by reference to the applicable land use capability class shown—
+    (i) on the NZLRI map; or
+    (ii) in a property-scale assessment undertaken in accordance with any methodology specified in regulations; and
+  (c) be accompanied by a statutory declaration made by the applicant, in the prescribed form, that the restricted forest land identified has not knowingly been submitted relying on the 25% allowance before, unless—
+    (i) the application is submitted in accordance with section 190KB; or
+    (ii) any earlier application that relied on the 25% allowance was not accepted.
+(4) If an application under subsection (1) or (2) is made in respect of an activity of standard forestry or permanent forestry that relates to holding a registered forestry right or being the leaseholder under a registered lease, the application must also include the written consent of the landowner, which must state—
+  (a) the record or records of title for the individual farm to which the landowner’s consent relates; and
+  (b) that the landowner consents to the inclusion of that land in the 25% allowance for that individual farm.
+(5) The EPA may register a person as a participant under section 57 in relation to an activity of standard forestry or permanent forestry relying on the 25% allowance only if the EPA is satisfied that the registration would not exceed the 25% allowance for the individual farm.
+(6) The EPA may update a participant’s record to reflect the addition of a carbon accounting area relying on the 25% allowance only if the EPA is satisfied that updating the record would not exceed the 25% allowance for the individual farm.
+(7) If the EPA has accepted an application under subsection (1) or (2), the records of title that make up the individual farm that was the subject of that application may not be varied, or included in an application under this section in relation to any other individual farm.
+
+### 190KB More than one 25% allowance application permitted
+A person may make more than 1 application under section 190KA unless—
+  (a) the combined area of restricted forest land identified in all the applications for registration would exceed the 25% allowance; or
+  (b) since the first application in respect of an individual farm,—
+    (i) the ownership of the record or records of title has changed; or
+    (ii) the farm boundary has changed.
+
+### 190KC Notification of 25% allowance to be recorded against record of title
+(1) If the EPA registers a person as a participant under section 57 in relation to an activity of standard forestry or permanent forestry relying on the 25% allowance, the EPA must—
+  (a) notify the Registrar-General that the registration relying on the 25% allowance has occurred in respect of the individual farm; and
+  (b) include in the notification the details of each record of title comprising the individual farm.
+(2) If the EPA updates a participant’s record to include a carbon accounting area relying on the 25% allowance, the EPA must—
+  (a) notify the Registrar-General that the update relying on the 25% allowance has occurred in respect of the individual farm; and
+  (b) include in the notification the details of each record of title comprising the individual farm.
+(3) The Registrar-General must record a notice under subsection (1) or (2) against the record or records of title of the individual farm.
+(4) If land described in a record of title is subdivided and the record of title has a notice under this section recorded against it, the notice must be recorded against all records of title resulting from the subdivision.
+(5) If land described in a record of title is merged with another record of title and either record of title has a notice under this section recorded against it, the notice or notices must be recorded against the merged record of title.
+
+### 190KD The 25% allowance is in addition to LUC class 6 land permit
+The 25% allowance is in addition to any LUC class 6 land that may be registered using a LUC class 6 land permit issued in respect of the same individual farm.
+
+### 190KE The 25% allowance is not increased if LUC class 1–6 land area increases
+If the landowner of an individual farm becomes the landowner of LUC class 1–6 land adjacent to the individual farm, the 25% allowance for the individual farm does not increase.
+
 ### Subpart 5 — Averaging accounting methodology
 
 ### 191 Interpretation
@@ -6218,7 +6294,7 @@ In this subpart,—
   (e) each individual parcel that makes up the CAA2 has an area of at least 1 hectare and has an average width of at least 30 metres; and
   (f) the participant in respect of each CAA2 would, if the land in the CAA2 were forest land,—
     (i) if they are not already registered as a participant in the activity, qualify to be registered under section 57; and
-    (ii) qualify under section 182A to be registered as a participant in respect of the CAA2; and
+    (ii) qualify under sections 182A and 182AB to be registered as a participant in respect of the CAA2; and
   (g) the EPA is satisfied that, on the P89 offset date, the P89 offset release criteria are likely to be met in respect of each CAA1 and the CAA2s proposed in respect of it; and
   (h) any other criteria prescribed in regulations made under section 192U are met.
 
@@ -8016,6 +8092,54 @@ In this Part,—
   (a) the names of participants on the register for activities other than agriculture listed in Schedule 3 or 4; or
   (b) the option to request the closure of a holding account under section 18B.
 (8) This clause overrides sections 59 and 118.
+
+### Part 5 — Provisions relating to Climate Change Response (Emissions Trading Scheme—Forestry Conversion) Amendment Act 2025
+
+### 46 Interpretation
+In this Part,—
+  - **amendment Act** means the Climate Change Response (Emissions Trading Scheme—Forestry Conversion) Amendment Act 2025
+  - **clear interest** , in relation to land, means—
+    (a) ownership of the land; or
+    (b) a registered lease or a registered forestry right, or an agreement to obtain a lease or a forestry right; or
+    (c) a conditional or unconditional sale and purchase agreement for the purchase of the land; or
+    (d) a written offer to purchase the land and—
+      (i) a written indication of the seller’s intention to negotiate further; or
+      (ii) a written acceptance of the offer
+  - **commencement date** means 31 October 2025
+  - **ETS applicant** means a person who has made an application (and has a corresponding meaning)—
+    (a) under section 57 to be registered as a participant in respect of an activity of standard forestry or permanent forestry; or
+    (b) under section 182C(3) to add any carbon accounting area or areas to the post-1989 forest land in respect of which the person is recorded as a participant
+  - **qualifying forestry investment** means any of the following:
+    (a) an emissions ruling under section 107 that land is eligible to be post-1989 forest land has been applied for or has been made by the EPA:
+    (b) in relation to the establishment of a forest,—
+      (i) a resource consent has been applied for or has been granted under the Resource Management Act 1991:
+      (ii) a notice has been given under the Resource Management (National Environmental Standards for Commercial Forestry) Regulations 2017 to a local authority in relation to a permitted activity:
+      (iii) a notice has been given under section 87BB(1)﻿(d) of the Resource Management Act 1991:
+    (c) investment in preparation for afforestation has been made, for example, ordering seedlings or undertaking land preparation for forestry:
+    (d) a recognised local or central government grant to afforest land has been received:
+    (e) a third party has been contracted to undertake due diligence for the purpose of afforesting land.
+
+### 47 Amendment Act does not apply to ETS applications received before commencement date
+(1) The EPA must apply this Act to an ETS application received before the commencement date as if the amendment Act had not been enacted.
+(2) If an ETS application received by the EPA before the commencement date is the subject of any of the following (commenced either before or after the commencement date), they must be undertaken as if the amendment Act had not been enacted:
+  (a) a review under section 144:
+  (b) an appeal under section 145:
+  (c) an appeal under section 146.
+
+### 48 Transitional exemptions for LUC class 1–6 land
+(1) The EPA must determine that LUC class 1–6 land is not restricted forest land if it is satisfied that an ETS applicant has submitted a complete ETS application by 31 December 2027 that includes evidence that the applicant—
+  (a) had a clear interest in the LUC class 1–6 land before 4 December 2024; and
+  (b) has made or obtained 1 or more qualifying forestry investments in relation to the LUC class 1–6 land in the period from 1 January 2021 to 4 December 2024.
+(2) The EPA may determine that LUC class 1–6 land is not restricted forest land if it is satisfied that—
+  (a) an ETS applicant has submitted a complete ETS application by 31 December 2027 that includes evidence that the applicant—
+    (i) had a clear interest in the LUC class 1–6 land before 4 December 2024; and
+    (ii) has made or obtained 1 or more qualifying forestry investments in relation to the LUC class 1–6 land before 1 January 2021; and
+  (b) the ETS applicant was not able to make an ETS application at an earlier date due to circumstances beyond their control.
+(3) The EPA may determine that LUC class 1–6 land is not restricted forest land if it is satisfied that—
+  (a) an ETS applicant has submitted a complete ETS application by 31 December 2030 that includes evidence that the applicant—
+    (i) had a clear interest in the LUC class 1–6 land before 4 December 2024; and
+    (ii) has made or obtained 1 or more qualifying forestry investments in relation to the LUC class 1–6 land in the period from 1 January 2021 to 4 December 2024; and
+  (b) the ETS applicant was not able to make an ETS application at an earlier date due to circumstances beyond their control.
 
 ## Schedule 1 — United Nations Framework Convention on Climate Change
 
