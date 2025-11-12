@@ -5,8 +5,8 @@ _Consolidation as at 2025-11-12_
 This Act is the Parliament Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after Royal assent.
-(2) However, the following sections come into force 6 months after Royal assent:
+(1) This Act comes into force on 13 November 2025.
+(2) However, the following sections come into force on 12 May 2026:
   (a) sections 135 to 138 and 140:
   (b) Part 7.
 
@@ -331,14 +331,14 @@ This Part does not limit or affect any laws relating to absolute privilege or qu
 (5) This section does not limit or affect the House of Representatives’ powers to penalise a person for a contempt by imposing a penalty other than a fine on the person (whether the other penalty is instead of or as well as a fine).
 
 ### 30 House of Representatives cannot imprison for contempt
-(1) The House of Representatives has no power to order that any person be imprisoned for a contempt of the House determined by the House to have been committed by that person.
+(1) The House of Representatives has no power to order that any person be imprisoned for a contempt of the House of Representatives determined by the House of Representatives to have been committed by that person.
 (2) This section—
   (a) does not limit or affect Part 7:
   (b) applies despite any other legislation or rule of law.
 
 **House of Representatives cannot expel member**
 
-### 31 House cannot expel member
+### 31 House of Representatives cannot expel member
 (1) The House of Representatives has no power to make a member’s seat become vacant by expelling them from membership of the House of Representatives (whether to discipline or punish them, to protect the House of Representatives by removing an unfit member, or for any other purpose or reason).
 (2) This section applies despite any other legislation or rule of law to the contrary.
 
@@ -1833,7 +1833,7 @@ Requirements for treatment of seized item
 Parliamentary security officer may detain person
 (2) The parliamentary security officer may exercise the powers in sections 180(1)﻿(b) (which relates to the officer’s power to detain a person) and 181 (which relates to the officer’s power to use handcuffs).
 Instead of detaining person, parliamentary security officer may refer person to Police
-(3) However, if the parliamentary security officer considers that the person’s conduct would more appropriately be referred to a Police officer, the officer may—
+(3) However, if the parliamentary security officer considers that the person’s conduct would more appropriately be referred to a Police officer, the parliamentary security officer may—
   (a) ask the person to give the parliamentary security officer the person’s full name, address, and date of birth (the requested information); and
   (b) contact the Police to report the person’s conduct.
 (4) If the person does not give the parliamentary security officer the requested information, the officer may—
