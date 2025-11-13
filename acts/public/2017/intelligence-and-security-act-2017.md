@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2025-10-01_
+_Consolidation as at 2025-11-13_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -1964,8 +1964,8 @@ No proceeding, report, or finding of the Inspector-General may be challenged, re
   (a) the communication of proceedings in Parliament; or
   (b) the reporting of proceedings in Parliament.
 (6) In this section,—
-  - **communication** has the meaning given to it by section 5(1) of the Parliamentary Privilege Act 2014
-  - **proceedings in Parliament** has the meaning given to it by section 10 of the Parliamentary Privilege Act 2014
+  - **communication** has the meaning given to it by section 12 of the Parliament Act 2025
+  - **proceedings in Parliament** has the meaning given to it by section 13 of the Parliament Act 2025
   - **relevant Minister** means the Minister responsible for the intelligence and security agency to which the complaint or inquiry relates.
 
 ### Subpart 2 — Intelligence and Security Committee
@@ -2036,8 +2036,11 @@ The Committee must not transact any business until the required number of nomina
   (b) the Attorney-General.
 
 ### 199 Privilege
-(1) The proceedings of the Committee are proceedings in Parliament for the purposes of Article 9 of the Bill of Rights 1688 and the Parliamentary Privilege Act 2014.
-(2) Anything said, any information supplied, or any document, paper, or thing produced by any person in the course of any inquiry or proceedings of the Committee under this Act is privileged as proceedings in Parliament (as defined in section 10 of the Parliamentary Privilege Act 2014).
+(1) The proceedings of the Committee are proceedings in Parliament for the purposes of Article 9 of the Bill of Rights 1688 and Part 2 of the Parliament Act 2025.
+(2) Anything said, any information supplied, or any document, paper, or thing produced by any person in the course of any inquiry or proceedings of the Committee under this Act is privileged as proceedings in Parliament.
+(3) In this section,—
+  - **Article 9 of the Bill of Rights 1688** has the meaning given to it by section 12 of the Parliament Act 2025
+  - **proceedings in Parliament** has the meaning given to it by section 13 of the Parliament Act 2025.
 
 ### 200 Administrative provisions relating to Committee
 Part 4 of Schedule 3 applies in relation to the Committee.
@@ -2362,8 +2365,8 @@ A ministerial policy statement—
 (3) The written consent of the Minister in relation to any proceedings in any court may be filed in the court, and when so filed is sufficient authority to all persons to act in accordance with that consent.
 (4) In this section,—
   - **broadcast** includes cause or allow to be broadcast
-  - **communication** has the meaning given to it by section 5(1) of the Parliamentary Privilege Act 2014
-  - **proceedings in Parliament** has the meaning given to it by section 10 of the Parliamentary Privilege Act 2014
+  - **communication** has the meaning given to it by section 12 of the Parliament Act 2025
+  - **proceedings in Parliament** has the meaning given to it by section 13 of the Parliament Act 2025
   - **publish** includes cause or allow to be published
   - **relevant Minister** means the Minister responsible for the intelligence and security agency referred to in subsection (1).
 (5) A person who commits an offence against this section is liable on conviction,—
