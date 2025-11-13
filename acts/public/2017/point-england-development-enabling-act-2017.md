@@ -1,5 +1,5 @@
 # Point England Development Enabling Act 2017
-_Consolidation as at 2017-06-28_
+_Consolidation as at 2025-11-13_
 
 ### 1 Title
 This Act is the Point England Development Enabling Act 2017.
