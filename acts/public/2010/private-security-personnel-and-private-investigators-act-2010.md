@@ -1,5 +1,5 @@
 # Private Security Personnel and Private Investigators Act 2010
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-11-13_
 
 ### 1 Title
 This Act is the Private Security Personnel and Private Investigators Act 2010.
@@ -206,13 +206,17 @@ In this Act, personal guard employee means an individual who in the course of hi
 Except as provided in section 22, this Act binds the Crown.
 
 ### 22 Application of Act in certain cases
-Nothing in this Act—
+(1) Nothing in this Act—
   (a) requires any Police employee to hold a licence or certificate of approval in respect of any act performed in the course of his or her employment by the Commissioner of Police; or
   (b) requires the Commissioner of Police to hold a licence or certificate of approval; or
   (c) requires any employee of the Crown to hold a licence or certificate of approval in respect of—
     (i) any act performed in the course of his or her employment by the Crown; or
     (ii) any act performed by any other employee of the Crown in the course of his or her employment by the Crown; or
+  (ca) requires any employee of a parliamentary agency to hold a licence or certificate of approval in respect of—
+    (i) any act performed in the course of their employment by the parliamentary agency; or
+    (ii) any act performed by any other employee of the parliamentary agency in the course of their employment by the parliamentary agency; or
   (d) requires any person to hold a licence or certificate of approval in respect of the carrying on by that person of an occupation or business in accordance with a practising certificate, licence, permit, or other authority, granted or issued to him or her under any other enactment.
+(2) In this section, parliamentary agency has the meaning given to it in section 5 of the Parliament Act 2025.
 
 ## Part 2 — Licences and certificates
 
