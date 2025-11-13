@@ -1,5 +1,5 @@
 # Legislative Council Abolition Act 1950
-_Consolidation as at 1950-08-19_
+_Consolidation as at 2025-11-13_
 
 > An Act to abolish the Legislative Council
 
