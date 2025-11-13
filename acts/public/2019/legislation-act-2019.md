@@ -1,5 +1,5 @@
 # Legislation Act 2019
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-11-13_
 
 ### 1 Title
 This Act is the Legislation Act 2019.
@@ -54,7 +54,6 @@ This Act is the Legislation Act 2019.
 (1) In this Act, unless the context otherwise requires,—
   - **administering agency** means, in relation to legislation, the department, Office of Parliament, or other organisation that is, or will be, responsible for administering the legislation
   - **applicable publication requirements** has the meaning set out in section 74
-  - **central government entity** , in Part 4, has the meaning set out in section 102
   - **chief executive** , in relation to an administering agency, means the chief executive of the administering agency
   - **Chief Parliamentary Counsel** means the person who holds that office under section 135
   - **consolidation** means a version of legislation published under section 70
@@ -848,14 +847,14 @@ The purpose of this Part is to—
 
 ### 102 Interpretation in this Part
 In this Part, unless the context otherwise requires,—
-  - **central government entity** means—
-    (a) a department (within the meaning of section 2(1) of the Public Finance Act 1989):
-    (b) the Reserve Bank of New Zealand:
-    (c) a Crown entity that is a statutory entity (as those terms are defined in section 7(1) of the Crown Entities Act 2004)
   - **legislative guidelines or standards** means guidelines or standards relating to the process or content of legislation that are identified in a notice under section 107(2)﻿(a)﻿(ii)
   - **legislative quality procedures** means processes, practices, or procedures that have the purpose or effect of promoting, or facilitating the preparation of, quality legislation
   - **relevant policy agency** means,—
-    (a) in relation to any Government Bill, Government amendment, or secondary legislation made by the Governor-General or a Minister, the central government entity that is primarily involved in developing the legislation (excluding the PCO, unless the PCO is also the administering agency); and
+    (a) in relation to any Government Bill, Government amendment, or secondary legislation made by the Governor-General or a Minister, whichever of the following that is primarily involved in developing the legislation (excluding the PCO, unless the PCO is also the administering agency):
+      (i) a department (within the meaning of section 2(1) of the Public Finance Act 1989):
+      (ii) a parliamentary agency (within the meaning of section 5 of the Parliament Act 2025):
+      (iii) the Reserve Bank of New Zealand:
+      (iv) a Crown entity that is a statutory entity (as those terms are defined in section 7(1) of the Crown Entities Act 2004); and
     (b) in relation to any other secondary legislation, the maker
   - **responsible Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Part.
 
@@ -1658,22 +1657,22 @@ A failure to comply with this schedule does not invalidate secondary legislation
 | Local Government (Water Services Preliminary Arrangements) Act 2024 |  |  |  |
 | Section 42 |  | Exemption applies | Exemption applies |
 | Section 46 |  | Exemption applies | Exemption applies |
-| Members of Parliament (Remuneration and Services) Act 2013 |  |  |  |
-| Section 8(1) |  | Exemption applies | Exemption applies |
-| Section 17(1) |  | Exemption applies | Exemption applies |
-| Section 23 |  |  | Exemption applies |
-| Section 27 |  |  | Exemption applies |
-| Section 32(4), (6) |  | Exemption applies | Exemption applies |
-| Section 43 |  | Exemption applies | Exemption applies |
-| Section 44 |  | Exemption applies | Exemption applies |
 | Misuse of Drugs Act 1975 |  |  |  |
 | Section 4(1), (1B) |  |  | Exemption applies |
 | Ombudsmen Act 1975 |  |  |  |
 | Section 15 |  | Exemption applies | See s 115(a) |
 | Organic Products and Production Act 2023 |  |  |  |
 | Section 143 (for the purpose of section 63) | The relevant chief executive considers that compliance would result in 1 or more of the following: adisclosure of commercially sensitive information:bdisclosure of a trade secret:cprejudice to New Zealand’s position in current or future negotiations for overseas market access:dprejudice to the international relations of New Zealand. | Exemption applies if exemption ground is met | Exemption applies |
-| Parliamentary Service Act 2000 |  |  |  |
-| Section 25 |  | Exemption applies | See s 115(a) |
+| Parliament Act 2025 |  |  |  |
+| Section 53 |  | Exemption applies | See s 115(a) |
+| Section 71 |  | Exemption applies | Exemption applies |
+| Section 72 |  | Exemption applies | Exemption applies |
+| Section 73 |  | Exemption applies | Exemption applies |
+| Section 74 |  | Exemption applies | Exemption applies |
+| Section 85 |  |  | Exemption applies |
+| Section 86 |  |  | Exemption applies |
+| Section 87 |  |  | Exemption applies |
+| Section 94 |  |  | Exemption applies |
 | Remuneration Authority Act 1977 |  |  |  |
 | Section 12B(1), (2) |  | Exemption applies | Exemption applies |
 | Takeovers Act 1993 |  |  |  |
