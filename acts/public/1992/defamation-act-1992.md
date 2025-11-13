@@ -1,5 +1,5 @@
 # Defamation Act 1992
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2025-11-13_
 
 > An Act to amend the law relating to defamation and other malicious falsehoods
 
@@ -94,7 +94,7 @@ In any proceedings for defamation in which the defendant relies on a defence of 
   (b) the publication, to the House of Representatives, of any document, either by presenting the document to, or laying the document before, the House of Representatives:
   (c) the publication, by or under the authority of the House of Representatives, or under the authority of any enactment, of an official or authorised report of proceedings in Parliament:
   (d) the publication of a correct copy of any document or record to which paragraph (a) or paragraph (c) applies.
-(4) Proceedings in Parliament, in this section, has the same meaning as in section 10 of the Parliamentary Privilege Act 2014.
+(4) Proceedings in Parliament, in this section, has the same meaning as in section 13 of the Parliament Act 2025.
 
 ### 14 Absolute privilege in relation to judicial proceedings and other legal matters
 (1) Subject to any provision to the contrary in any other enactment, in any proceedings before—anything said, written, or done in those proceedings by a member of the tribunal or authority, or by a party, representative, or witness, is protected by absolute privilege.
