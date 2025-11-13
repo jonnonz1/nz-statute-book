@@ -1,5 +1,5 @@
 # Clerk of the House of Representatives Act 1988
-_Consolidation as at 2020-08-07_
+_Consolidation as at 2025-11-13_
 
 > An Act to provide for the appointment of the Clerk of the House of Representatives and of other officers of the House of Representatives, and to establish, by Act of Parliament, the Office of the Clerk of the House of Representatives
 
