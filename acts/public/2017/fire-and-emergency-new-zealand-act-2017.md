@@ -1,5 +1,5 @@
 # Fire and Emergency New Zealand Act 2017
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2025-11-13_
 
 ### 1 Title
 This Act is the Fire and Emergency New Zealand Act 2017.
@@ -73,6 +73,7 @@ In this Act, unless the context otherwise requires,—
     (b) includes all Ministers of the Crown and all departments; but
     (c) does not include—
       (i) an Office of Parliament; or
+      (ia) a parliamentary agency within the meaning of section 5 of the Parliament Act 2025; or
       (ii) a Crown entity; or
       (iii) a State enterprise named in Schedule 1 of the State-Owned Enterprises Act 1986; or
       (iv) an organisation named in Schedule 4 of the Public Finance Act 1989; or
