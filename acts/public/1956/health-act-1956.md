@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2025-08-27_
+_Consolidation as at 2025-11-13_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -988,7 +988,7 @@ The local authority shall cause printed copies of all its bylaws under this Act 
   (o)
 (1A) A notice under paragraph (la), (m), (n), (o), or (p) of subsection (1) does not apply to—
   (a) any premises that are, or any part of any premises that is, used solely as a private dwellinghouse; or
-  (b) any premises within the parliamentary precincts (within the meaning of section 3 of the Parliamentary Service Act 2000); or
+  (b) any premises within the parliamentary precincts (within the meaning of section 5 of the Parliament Act 2025); or
   (c) any premises whose principal or only use is as a courtroom or judge's chambers, or a court registry; or
   (d) any premises that are, or are part of, a prison (within the meaning of section 3(1) of the Corrections Act 2004).
 (1B) A notice under paragraph (la), (m), (n), (o), or (p) of subsection (1) may exempt people engaged in necessary work in the premises to which it relates.
