@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2025-10-22_
+_Consolidation as at 2025-11-13_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -26,6 +26,7 @@ In this Act, unless the context otherwise requires,—
     (b) includes all Ministers of the Crown and all departments; but
     (c) does not include—
       (i) an Office of Parliament; or
+      (ia) a parliamentary agency; or
       (ii) a Crown entity; or
       (iii) a State enterprise named in Schedule 1 of the State-Owned Enterprises Act 1986
   - **Crown entity** has the same meaning as in section 2(1) of the Public Finance Act 1989
@@ -41,6 +42,7 @@ In this Act, unless the context otherwise requires,—
   - **FMC reporting entity** has the same meaning as in section 451 of the Financial Markets Conduct Act 2013
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **office of Parliament** has the same meaning as in section 2(1) of the Public Finance Act 1989
+  - **parliamentary agency** has the meaning given to it by section 5 of the Parliament Act 2025
   - **public entity** has the meaning set out in section 5
   - **State enterprise** means an entity that is a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986
   - **subsidiary** —
@@ -51,6 +53,7 @@ In this Act, unless the context otherwise requires,—
 (1) In this Act, public entity means each of the following entities:
   (a) the Crown:
   (b) each office of Parliament, except where another auditor has been appointed for that office under section 45F(1)﻿(b) of the Public Finance Act 1989:
+  (ba) each parliamentary agency:
   (c) an entity of a class described in Schedule 1:
   (d) an entity listed in Schedule 2:
   (e) an entity in respect of which the Auditor-General is the auditor under any other enactment (other than section 19):
@@ -113,7 +116,7 @@ The provisions set out in Schedule 3 apply to the Auditor-General, Deputy Audito
 
 ### 15 Financial report audit
 (1) The Auditor-General must from time to time audit the financial statements, accounts, and other information that a public entity is required to have audited.
-(2) In the case of an audit of a department (within the meaning of section 2(1) of the Public Finance Act 1989) or an Office of Parliament, the Auditor-General must also audit the appropriations administered by the department or Office.
+(2) In the case of an audit of a department, an Office of Parliament, or a parliamentary agency, the Auditor-General must also audit the appropriations administered by the department, Office, or agency.
 (3) In the case of an audit of an FMC reporting entity carried out under this Act, the Auditor-General must (at a minimum) comply with the auditing and assurance standards that apply to the audit.
 (4) If another enactment that would otherwise apply to a public entity (other than an FMC reporting entity) requires an audit of the public entity or the audit report (or both) to comply with auditing and assurance standards, that requirement does not apply in relation to the public entity.
 
