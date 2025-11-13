@@ -1,5 +1,5 @@
 # Gangs Act 2024
-_Consolidation as at 2025-02-03_
+_Consolidation as at 2025-11-13_
 
 ### 1 Title
 This Act is the Gangs Act 2024.
@@ -55,7 +55,7 @@ In this Act, unless the context otherwise requires,—
   - **prospective member or nominee** , of a gang, means a person who is a gang member but who does not have full membership status
   - **public place** has the meaning given by section 2(1) and (2) of the Summary Offences Act 1981, but does not include—
     (a) any publicly accessible online place (for example, an internet site or an online application or similar):
-    (b) for the purposes of Part 2 or subpart 1 of Part 3, the parliamentary precincts (within the meaning of section 3 of the Parliamentary Service Act 2000)
+    (b) for the purposes of Part 2 or subpart 1 of Part 3, the parliamentary precincts (within the meaning of section 5 of the Parliament Act 2025)
   - **qualified constable** means a constable who is of or above the level of position of sergeant
   - **serious offence** means—
     (a) an offence that is punishable by a term of imprisonment of 7 years or more; or
