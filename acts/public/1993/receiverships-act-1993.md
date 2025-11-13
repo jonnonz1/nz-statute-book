@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2025-08-27_
+_Consolidation as at 2025-11-13_
 
 > An Act to reform the law relating to receivers
 
@@ -713,7 +713,7 @@ The general duties imposed on receivers by section 18 are subject to the constra
 ### 11 Modifications in relation to reports by receiver
 (1) Nothing in sections 23 and 24 requires a receiver to include in any report any information that could be properly withheld if the Local Government Official Information and Meetings Act 1987 applied to that report.
 (2) If the receiver prepares a report under section 23 or section 24, the receiver must make that report available for public inspection at the offices and libraries of the relevant local authority and must make copies of any such report available to the public free of charge or at a reasonable charge.
-(3) Section 26(1) applies as if it required the receiver to send a copy of every report prepared under section 23 or section 24 to the Secretary for Local Government, the Controller and Auditor-General, and the Parliamentary Library.
+(3) Section 26(1) applies as if it required the receiver to send a copy of every report prepared under section 23 or section 24 to the Secretary for Local Government and the Controller and Auditor-General.
 
 ### 12 Reporting of offences
 The obligation imposed on a receiver by section 28 to report any offence that the receiver considers has been committed against any of the Acts specified in that section includes, in addition, an obligation to report any offence that the receiver considers has been committed against the Local Government Act 2002 or the Local Authorities (Members' Interests) Act 1968.
