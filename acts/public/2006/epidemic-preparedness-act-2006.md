@@ -1,5 +1,5 @@
 # Epidemic Preparedness Act 2006
-_Consolidation as at 2021-11-03_
+_Consolidation as at 2025-11-13_
 
 ### 1 Title
 This Act is the Epidemic Preparedness Act 2006.
@@ -139,7 +139,7 @@ The transitional, savings, and related provisions set out in Schedule 1 have eff
     (i) to release a person from custody or detention; or
     (ii) to have any person’s detention reviewed by a court, Judge, or Registrar; or
   (b) a modification of a restriction on keeping a person in custody or detention; or
-  (c) a modification of a requirement or restriction imposed by the Bill of Rights 1688, the Constitution Act 1986, the Electoral Act 1993, the Judicial Review Procedure Act 2016, the New Zealand Bill of Rights Act 1990, or the Parliamentary Privilege Act 2014, or by this Act.
+  (c) a modification of a requirement or restriction imposed by the Bill of Rights 1688, the Constitution Act 1986, the Electoral Act 1993, the Judicial Review Procedure Act 2016, the New Zealand Bill of Rights Act 1990, or Part 2 of the Parliament Act 2025, or by this Act.
 (4) Subsection (3) does not prevent the modification of a procedural requirement or restriction relating to a person in custody or detention, even if the effect (direct or indirect) of the modification is that the person stays in custody or detention longer than he or she otherwise would have stayed.
 (5) A modification of a requirement or restriction—
   (a) may be absolute or subject to conditions; and
@@ -187,7 +187,7 @@ A modification made by a prospective modification order—
     (i) to release a person from custody or detention; or
     (ii) to have any person’s detention reviewed by a court, Judge, or Registrar; or
   (b) a modification of a restriction on keeping a person in custody or detention; or
-  (c) a modification of a requirement or restriction imposed by the Bill of Rights 1688, the Constitution Act 1986, the Electoral Act 1993, the Judicial Review Procedure Act 2016, the New Zealand Bill of Rights Act 1990, or the Parliamentary Privilege Act 2014, or by this Act.
+  (c) a modification of a requirement or restriction imposed by the Bill of Rights 1688, the Constitution Act 1986, the Electoral Act 1993, the Judicial Review Procedure Act 2016, the New Zealand Bill of Rights Act 1990, or Part 2 of the Parliament Act 2025, or by this Act.
 (4) Subsection (3) does not prevent the modification of a procedural requirement or restriction relating to a person in custody or detention, even if the effect (direct or indirect) of the modification is that the person stays in custody or detention longer than he or she otherwise would have.
 (5) A modification of a requirement or restriction—
   (a) may be absolute or subject to conditions; and
