@@ -1,5 +1,5 @@
 # Crown Organisations (Criminal Liability) Act 2002
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2025-11-13_
 
 ### 1 Title
 This Act is the Crown Organisations (Criminal Liability) Act 2002.
@@ -90,7 +90,7 @@ A Crown organisation that is not a body corporate has a separate legal personali
 No person is immune from prosecution for an offence referred to in section 6 by reason that the person is an employee or agent of the Crown, or a contractor engaged to provide services to the Crown, or is acting in any other capacity for, or on behalf of, the Crown.
 
 ### 12 Appropriation
-(1) Any reparation, compensation, fine, or costs imposed by a court on a department or Office of Parliament as a consequence of the prosecution of that organisation for an offence referred to in section 6 may be paid by that organisation out of its funds without further appropriation than this section.
+(1) Any reparation, compensation, fine, or costs imposed by a court on a department, an Office of Parliament, the Office of the Clerk of the House of Representatives, or the Parliamentary Service as a consequence of the prosecution of that organisation for an offence referred to in section 6 may be paid by that organisation out of its funds without further appropriation than this section.
 (2) In subsection (1), department has the same meaning as in section 2(1) of the Public Finance Act 1989.
 
 ## Part 2 — Amendments to other Acts
