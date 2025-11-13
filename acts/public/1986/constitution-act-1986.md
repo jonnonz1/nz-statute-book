@@ -1,5 +1,5 @@
 # Constitution Act 1986
-_Consolidation as at 2005-05-17_
+_Consolidation as at 2025-11-13_
 
 > An Act to reform the constitutional law of New Zealand, to bring together into one enactment certain provisions of constitutional significance, and to provide that the New Zealand Constitution Act 1852 of the Parliament of the United Kingdom shall cease to have effect as part of the law of New Zealand
 
@@ -149,9 +149,7 @@ The salary of a Judge of the High Court shall not be reduced during the continua
 ## Part 5 — Miscellaneous provisions
 
 ### 25 General Assembly Library to be known as the Parliamentary Library
-(1) The library heretofore known as the General Assembly Library shall, as from the commencement of this Act, be known as the Parliamentary Library.
-(2) The officer heretofore known as the Chief Librarian of the General Assembly Library shall be known, as from the commencement of this Act, as the Parliamentary Librarian.
-(3) Subject to section 27, all references to the General Assembly Library or to the Chief Librarian of the General Assembly Library in any other enactment or in any document whatsoever shall hereafter, unless the context otherwise requires, be read as references to the Parliamentary Library and to the Parliamentary Librarian respectively.
+[Repealed]
 
 ### 26 United Kingdom enactments ceasing to have effect as part of the law of New Zealand
 (1) As from the commencement of this Act the following enactments of the Parliament of the United Kingdom, namely,—shall cease to have effect as part of the law of New Zealand.
