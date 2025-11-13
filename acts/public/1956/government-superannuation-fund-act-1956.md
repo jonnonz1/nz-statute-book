@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2025-11-13_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -2044,9 +2044,9 @@ For the purposes of applying this Act to a person who holds office as an Associa
 
 ### 82 Interpretation
 (1) In this Part, unless the context otherwise requires,—
-  - **member** means a member of the House of Representatives; and includes any person who is for the time being receiving a salary fixed by a determination made under section 8 of the Members of Parliament (Remuneration and Services) Act 2013
-  - **ordinary member** means a member of the House of Representatives who holds no other office in respect of which a salary is payable under the Members of Parliament (Remuneration and Services) Act 2013
-  - **salary** , in relation to a member, means the salary payable to that member under the Members of Parliament (Remuneration and Services) Act 2013
+  - **member** means a member of the House of Representatives; and includes any person who is for the time being receiving a salary fixed by a determination made under section 71 of the Parliament Act 2025
+  - **ordinary member** means a member of the House of Representatives who holds no other office in respect of which a salary is payable under Part 4 of the Parliament Act 2025
+  - **salary** , in relation to a member, means the salary payable to that member under Part 4 of the Parliament Act 2025
   - **year** means a period of 12 months ending with 31 December.
 (2) For the purpose of computing the length of any period of service of any person as a member for the purposes of this Part,—
   (a) where any period of such service has commenced or ended before 1 July in any year, it shall be deemed to have commenced or ended, as the case may be, at the beginning of that year:
@@ -2813,7 +2813,7 @@ Notwithstanding anything to the contrary in Part 2 or Part 3 of this Act or in s
 
 ### 95 Annual subsidies from Government and from funds or accounts out of which contributors' salaries are paid
 (1) During each financial year the Minister of Finance shall pay into the Fund out of public money, without further appropriation than this Act, the amount by which the amounts of the benefits estimated to be payable out of the Fund during that year in respect of contributors who are—exceeds the sum of the proportion of those benefits certified by the Authority, after receiving advice from an actuary, as having been provided by the contributions paid in respect of those benefits and the amounts estimated to be paid into the Fund during that year under subsection (2).
-  (a) employees or former employees of departments, Crown entities, or Offices of Parliament (as those terms are defined in the Public Finance Act 1989); or
+  (a) employees or former employees of departments, Crown entities, Offices of Parliament, or parliamentary agencies (as those terms are defined in the Public Finance Act 1989); or
   (b) employees or former employees of such other entities as the Minister may direct—
 (2) Where—there shall be paid out of the money from which the salaries of those contributors are paid and into the Government Superannuation Fund in each financial year, at such time or times during the year as may be reasonably specified by the Authority, the amount by which the contributions estimated to be paid during that year by those contributors is less than the amount certified by the Authority, after receiving advice from an actuary, as the total amount of contributions that would require to be so paid if the contributions of contributors provided the total cost of the benefits to which the contributors may become entitled under this Act:
   (a) subsection (1) does not apply in respect of any contributor; or
