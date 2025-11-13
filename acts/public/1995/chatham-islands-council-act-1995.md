@@ -1,5 +1,5 @@
 # Chatham Islands Council Act 1995
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-11-13_
 
 > An Act—ato reform the local government of the Chatham Islands by establishing a Chatham Islands Council with appropriate functions, duties, and powers:bto dissolve the Chatham Islands County Council:cto make provision incidental to the establishment of the Chatham Islands Council and the dissolution of the Chatham Islands County Council
 
@@ -93,8 +93,8 @@ Where the Chatham Islands Council adopts a report under section 10 or section 11
     (ii) at a reasonable charge; and
   (c) shall, within 20 working days after its adoption, send copies of that plan and report to—
     (i) the Secretary for Local Government; and
-    (ii) the Controller and Auditor-General; and
-    (iii) the Parliamentary Library.
+    (ii) the Controller and Auditor-General.
+    (iii)
 
 **Financial systems**
 
