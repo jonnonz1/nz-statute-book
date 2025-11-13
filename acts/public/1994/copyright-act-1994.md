@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2023-05-31_
+_Consolidation as at 2025-11-13_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -725,7 +725,7 @@ Copyright is not infringed by anything done for the purposes of an examination, 
     (b) includes, in relation only to its holding of public archives (within the meaning of section 4 of the Public Records Act 2005), an approved repository within the meaning of that section of that Act
   - **prescribed library** means—
     (a) the National Library; or
-    (b) the Parliamentary Library; or
+    (b) the Parliamentary Service, to the extent that it provides library, information, research, and reference services under section 123(1)﻿(e) of the Parliament Act 2025; or
     (c) every law library provided and maintained under section 375(1) of the Lawyers and Conveyancers Act 2006 or provided and maintained by the New Zealand Law Society; or
     (d) a library maintained by an educational establishment, government department, or local authority; or
     (e) a library of any other class of library prescribed by regulations made under this Act, not being a library conducted for profit.
@@ -833,10 +833,11 @@ A copy of a work to which section 53 or 54 applies must not be supplied in a dig
 
 **Public administration**
 
-### 58 Copying by Parliamentary Library for members of Parliament
-(1) An officer of the Parliamentary Library may, if the conditions contained in subsection (3) are complied with, supply to any member of Parliament a copy of a literary or dramatic work, and any artistic work included in that work, without infringing copyright in that literary, dramatic, or artistic work or the typographical arrangement of a published edition.
-(2) An officer of the Parliamentary Library may, if the conditions contained in subsection (3) are complied with, supply to any member of Parliament a recording of a communication work or a transcript of a recording of the communication work, without infringing copyright in the communication work or any work included in that communication work.
+### 58 Copying by Parliamentary Service for members of Parliament
+(1) An employee of the Parliamentary Service may, if the conditions contained in subsection (3) are complied with, supply to any member of Parliament a copy of a literary or dramatic work, and any artistic work included in that work, without infringing copyright in that literary, dramatic, or artistic work or the typographical arrangement of a published edition.
+(2) An employee of the Parliamentary Service may, if the conditions contained in subsection (3) are complied with, supply to any member of Parliament a recording of a communication work or a transcript of a recording of the communication work, without infringing copyright in the communication work or any work included in that communication work.
 (3) The conditions referred to in subsections (1) and (2) are—
+  (aaa) that the employee of the Parliamentary Service is engaged in supplying the library, information, research, and reference services provided by the Parliamentary Service under section 123(1)﻿(e) of the Parliament Act 2025; and
   (a) that no member of Parliament is supplied on the same occasion with more than 1 copy or recording or transcript, as the case may be, of the same material; and
   (b) that the copy or recording or transcript is required by that member of Parliament for the purposes of performing his or her duties as such a member.
 
@@ -1318,7 +1319,7 @@ A notice referred to in section 92C(3) must—
   (j) section 55 (which relates to copying by librarians or archivists to replace copies of works):
   (k) section 56 (which relates to copying by librarians or archivists of certain unpublished works):
   (l) sections 56A to 56C (which relate to access to and copying of works in digital format):
-  (m) section 58 (which relates to copying by the Parliamentary Library for members of Parliament):
+  (m) section 58 (which relates to copying by the Parliamentary Service for members of Parliament):
   (n) sections 69A and 69B (which relate to accessible format copies):
   (o) section 80A (which relates to the decompilation of computer programs):
   (p) section 80B (which relates to copying or adapting computer programs if necessary for lawful use):
