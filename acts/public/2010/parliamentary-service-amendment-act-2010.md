@@ -1,5 +1,5 @@
 # Parliamentary Service Amendment Act 2010
-_Consolidation as at 2010-12-20_
+_Consolidation as at 2025-11-13_
 
 ### 1 Title
 This Act is the Parliamentary Service Amendment Act 2010.
@@ -11,15 +11,15 @@ This Act comes into force on 1 January 2011.
 This Act amends the Parliamentary Service Act 2000.
 
 ### 4 New heading inserted
-The following heading is inserted above section 3:Interpretation.
+The following heading is inserted above section 3:Interpretation
 
 ### 5 Interpretation
-Section 3 is amended by inserting the following definitions in their appropriate alphabetical order:.
+Section 3 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **election advertisement** has the meaning given to it by section 3A of the Electoral Act 1993 (as inserted by section 5 of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010)
   - **electioneering** means—
-    (a) a communication of the kind described in section 3B(2)(a); and
-    (b) an advertisement of the kind described in section 3B(2)(b); and
-    (c) an advertisement of the kind described in section 3B(2)(c)
+    (a) a communication of the kind described in section 3B(2)﻿(a); and
+    (b) an advertisement of the kind described in section 3B(2)﻿(b); and
+    (c) an advertisement of the kind described in section 3B(2)﻿(c)
   - **funding entitlements for parliamentary purposes** has the meaning given to it by section 3B
   - **government initiated referendum** means a binding or indicative referendum initiated by the Government
   - **referendum advertisement** means an advertisement in any medium that may reasonably be regarded as encouraging or persuading voters to vote, or not to vote, in a particular way in a government initiated referendum
@@ -60,7 +60,7 @@ The following sections are inserted after section 3:Meaning of publish in sectio
     (b) an election advertisement published during the regulated period in relation to a general election, regardless of whether all or any part of an expense in relation to the advertisement is incurred or paid before, during, or after that regulated period; or
     (c) a referendum advertisement published during the regulated period in relation to a government initiated referendum, regardless of whether all or any part of an expense in relation to the advertisement is incurred or paid before, during, or after that regulated period; or
     (d) the provision of travel, accommodation, and communications services in accordance with any determination made by the Speaker of the House of Representatives under section 20A of the Civil List Act 1979 in respect of members of Parliament participating in the official inter-parliamentary travel programme.
-  (3) Subsection (2)(b) and (c) are subject to section 3C.
+  (3) Subsection (2)﻿(b) and (c) are subject to section 3C.
   (1) This section applies if—
     (a) an election advertisement is published—
       (i) before the regulated period in relation to a general election and continues to be published during the regulated period; or
@@ -70,13 +70,13 @@ The following sections are inserted after section 3:Meaning of publish in sectio
       (ii) both before and during the regulated period in relation to a government initiated referendum.
   (2) If this section applies,—
     (a) the expenses for the publication of the advertisement must be apportioned so that only a fair proportion of the expenses is attributed to the publication of the advertisement during the regulated period; and
-    (b) only expenses attributed to the publication of the advertisement during the regulated period in accordance with paragraph (a) are excluded from funding entitlements for parliamentary purposes under section 3B(2)(b) and (c); and
+    (b) only expenses attributed to the publication of the advertisement during the regulated period in accordance with paragraph (a) are excluded from funding entitlements for parliamentary purposes under section 3B(2)﻿(b) and (c); and
     (c) expenditure under Vote Parliamentary Service in respect of the publication of the advertisement is invalid only to the extent, and from the date, that expenses are attributed to the publication of the advertisement during the regulated period in accordance with paragraph (a).
-  An opinion given to any person by the Electoral Commission under section 204I(3) of the Electoral Act 1993 (as inserted by section 7 of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010) may be taken into account in determining whether an advertisement is an election advertisement for the purposes of section 3B(2)(b) of this Act.
+  An opinion given to any person by the Electoral Commission under section 204I(3) of the Electoral Act 1993 (as inserted by section 7 of the Electoral (Finance Reform and Advance Voting) Amendment Act 2010) may be taken into account in determining whether an advertisement is an election advertisement for the purposes of section 3B(2)﻿(b) of this Act.
   All determinations made by the Speaker under section 20A of the Civil List Act 1979 must be interpreted consistently with sections 3B and 3C.
 
 ### 7 New heading inserted
-The following heading is inserted above section 4:Purposes.
+The following heading is inserted above section 4:Purposes
 
 ### 8 New heading and section 35A inserted
 The following heading and section are inserted after section 35:Recovery of amounts paid made outside entitlementsRecovery of amounts paid outside entitlements to funding for parliamentary purposes
