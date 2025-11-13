@@ -1,5 +1,5 @@
 # Parliamentary Privilege Act 2014
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-11-13_
 
 ### 1 Title
 This Act is the Parliamentary Privilege Act 2014.
