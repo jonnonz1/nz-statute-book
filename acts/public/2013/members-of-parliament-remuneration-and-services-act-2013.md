@@ -1,5 +1,5 @@
 # Members of Parliament (Remuneration and Services) Act 2013
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-11-13_
 
 ### 1 Title
 This Act is the Members of Parliament (Remuneration and Services) Act 2013.
