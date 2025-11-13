@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2025-10-22_
+_Consolidation as at 2025-11-13_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4564,10 +4564,12 @@ An annuity is exempt income if—
 ### CW 31 Services for members and former members of Parliament
 An amount is exempt income of a person to the extent that it is income of the person and is not exempt income of the person under another provision of subpart CW, if the amount is—
   (a) travel, accommodation, or communication services, and is—
-    (i) paid under section 17, 23, 27, 31, 34, or 35 of the Members of Parliament (Remuneration and Services) Act 2013; and
-    (ii) provided to a member of Parliament (including in his or her capacity as a member of the Executive), a qualifying electoral candidate, or a family member of one of those persons:
-  (b) the travel entitlements of a former member of Parliament (including the travel entitlements that apply in respect of a former member's spouse or partner) and is paid under section 39 of the Members of Parliament (Remuneration and Services) Act 2013 after 30 June 2014:
-  (c) the travel entitlements of a former Prime Minister (including the travel entitlements that apply in respect of a former Prime Minister's spouse or partner) and is paid under section 44 of the Members of Parliament (Remuneration and Services) Act 2013:
+    (i) paid under section 72, 85, 87, or 94 or clauses 15 and 16 of Schedule 3 of the Parliament Act 2025; and
+    (ii) provided to a member of Parliament (including in his or her capacity as a member of the Executive), an eligible candidate, or a family member of one of those persons:
+  (b) the travel rebates of a former member of Parliament (including the travel rebates that apply in respect of a former member’s spouse or partner) and is paid—
+    (i) under section 39 of the Members of Parliament (Remuneration and Services) Act 2013 after 30 June 2014 but before the day specified in section 2(1) of the Parliament Act 2025:
+    (ii) under clause 23 or 24 of Schedule 3 of the Parliament Act 2025 on and after the date on which that schedule came into force:
+  (c) the travel expenses of a former Prime Minister (including the travel expenses that apply in respect of a former Prime Minister’s spouse or partner) and is paid in accordance with a determination made under section 74 of the Parliament Act 2025:
   (d) international travel, international accommodation, or communications services provided to a member of the Executive.
 
 ### CW 32 Maintenance payments
@@ -5564,7 +5566,7 @@ When not fringe benefit
   (b) the discount offered to the group of employees is the same or less than the discount offered to the group described in paragraph (a).
 
 ### CX 33B Benefits for members of Parliament
-Reasonable estimates may be used to determine, for the purposes of the FBT rules, what benefit provided under the Members of Parliament (Remuneration and Services) Act 2013 to a member of Parliament is a fringe benefit, or excluded from being a fringe benefit, or valued at zero.
+Reasonable estimates may be used to determine, for the purposes of the FBT rules, what benefit provided under the Parliament Act 2025 to a member of Parliament is a fringe benefit, or excluded from being a fringe benefit, or valued at zero.
 
 **Definitions**
 
@@ -45286,6 +45288,7 @@ In this Act, unless the context requires otherwise,—
   - **elective attributing CFC** , for an interest holder and an accounting period, means a CFC for which the interest holder has made an election under section EX 73 (Election that CFC not non-attributing active CFC or FIF not non-attributing active FIF) that is effective for the accounting period
   - **elective attributing FIF** for an interest holder and an accounting period, means a FIF for which the interest holder uses the attributable FIF income method and has made an election under section EX 73 (Election that CFC not non-attributing active CFC or FIF not non-attributing active FIF) that is effective for the accounting period
   - **electronic format** means the format and the electronic means by which a return or particulars that are filed electronically are provided
+  - **eligible candidate** means an eligible candidate as defined in section 67 of the Parliament Act 2025
   - **eligible hedge** is defined in section EM 8 (Some definitions) for the purposes of subpart EM (Hedging of currency movements in Australian non-attributing shares and attributing FDR method interests)
   - **eligible research and development expenditure** is defined in section LY 5 (Eligible research and development expenditure)
   - **emergency call** is defined in section CX 34 (Meaning of emergency call)
@@ -45504,7 +45507,7 @@ In this Act, unless the context requires otherwise,—
   - **family assistance credit**
   - **FamilyBoost tax credit** is defined in section MH 2 (Some definitions) for the purposes of subpart MH (FamilyBoost tax credits)
   - **family credit abatement** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
-  - **family member** means a family member as defined in section 5 of the Members of Parliament (Remuneration and Services) Act 2013
+  - **family member** means a family member as defined in section 68 of the Parliament Act 2025
   - **family plus**
   - **family scheme** means all the entitlements and tax credits for families arising under subparts MA to MG and MZ
   - **family scheme income** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
@@ -47319,7 +47322,7 @@ In this Act, unless the context requires otherwise,—
     (d) a debenture issued by a forestry company for capitalised interest derived from a debenture described in paragraph (c); or
     (e) a debenture issued by a forestry company for capitalised interest derived from a debenture described in paragraph (b) or (d); or
     (f) a debenture issued by a Maori investment company to a shareholder of the company or a trustee for a shareholder
-  - **qualifying electoral candidate** means a qualifying electoral candidate as defined in section 5 of the Members of Parliament (Remuneration and Services) Act 2013
+  - **qualifying electoral candidate**
   - **qualifying event**
   - **qualifying foreign equity investor** is defined in section CW 12(4) (Proceeds of share disposal by qualifying foreign equity investor) for the purposes of that section
   - **qualifying improvement** is defined in section EZ 27 (Meaning of qualifying improvement)
