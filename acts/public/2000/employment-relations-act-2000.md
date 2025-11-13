@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2025-08-27_
+_Consolidation as at 2025-11-13_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
