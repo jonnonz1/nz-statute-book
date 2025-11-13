@@ -1,5 +1,5 @@
 # Christ Church Cathedral Reinstatement Act 2017
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-11-13_
 
 ### 1 Title
 This Act is the Christ Church Cathedral Reinstatement Act 2017.
@@ -116,7 +116,7 @@ If the Minister makes a recommendation under section 8, the Minister’s reasons
     (i) release a person from custody or detention; or
     (ii) have any person’s detention reviewed by a court, Judge, or Registrar; or
   (b) grant an exemption from or modify a restriction on keeping a person in custody or detention; or
-  (c) grant an exemption from or modify a requirement or restriction imposed by the Bill of Rights 1688, the Constitution Act 1986, the Electoral Act 1993, the Judicial Review Procedure Act 2016, the New Zealand Bill of Rights Act 1990, or the Parliamentary Privilege Act 2014; or
+  (c) grant an exemption from or modify a requirement or restriction imposed by the Bill of Rights 1688, the Constitution Act 1986, the Electoral Act 1993, the Judicial Review Procedure Act 2016, the New Zealand Bill of Rights Act 1990, or Part 2 of the Parliament Act 2025; or
   (d) contain any provision that has the effect of amending a provision of this Act.
 (2) Subsection (1)﻿(d) does not limit section 19.
 
