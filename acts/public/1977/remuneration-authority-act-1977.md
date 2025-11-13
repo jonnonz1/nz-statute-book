@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2025-08-01_
+_Consolidation as at 2025-11-13_
 
 > Title
 
@@ -76,7 +76,7 @@ There shall from time to time be appointed by the chief executive of the Departm
 ### 12 Functions of Authority
 (1) The functions of the Authority shall be—
   (a) to consider and determine the following matters:
-    (i) the salaries and allowances of members of the House of Representatives, being the salaries and allowances required to be fixed by the Authority pursuant to the Members of Parliament (Remuneration and Services) Act 2013:
+    (i) the salaries and allowances of members of the House of Representatives, being the salaries and allowances required to be fixed by the Authority pursuant to Part 4 of the Parliament Act 2025:
     (ii)
     (iii)
     (iv)
@@ -179,7 +179,7 @@ There shall from time to time be appointed by the chief executive of the Departm
     (iii) the leader of the official Opposition:
     (iv) the Chief Executive of the Parliamentary Service; and
   (b) by publishing it in the Gazette not later than 14 days after the date on which a copy of it is given to the Prime Minister.
-(2) See section 8(6) of the Members of Parliament (Remuneration and Services) Act 2013 (which provides that a determination under section 8 of that Act is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements)).
+(2) See section 71(5) of the Parliament Act 2025 (which provides that a determination under section 71 of that Act is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements)).
 
 ### 17 Provisions relating to Parliamentary and judicial superannuation
 (1) Any determination under section 12(1)﻿(b) or section 12B(2)﻿(a) may contain provisions which modify, or are to apply instead of, provisions of the Government Superannuation Fund Act 1956.
@@ -193,12 +193,12 @@ There shall from time to time be appointed by the chief executive of the Departm
 
 ### 17A Obligation to consult before making determinations about Parliamentary salaries and allowances
 Before making a determination under section 12(1)﻿(a)﻿(i), the Authority must—
-  (a) consult the Speaker of the House of Representatives and the Minister who is, with the authority of the Prime Minister, for the time being responsible for Ministerial Services about the services for which they have jurisdiction, including, for the purposes of section 16(2) of the Members of Parliament (Remuneration and Services) Act 2013, about—
+  (a) consult the Speaker of the House of Representatives and the Minister who is, with the authority of the Prime Minister, for the time being responsible for Ministerial Services about the services for which they have jurisdiction, including, for the purposes of sections 92 and 98 of the Parliament Act 2025, about—
     (i) whether any element of personal benefit or potential personal benefit for members of Parliament, Ministers, or their family members arises under an entitlement to a service; and
-    (ii) in the case of any such benefit arising under directions issued by the Speaker under section 23 or 34 of that Act or a determination made by the Minister Responsible for Ministerial Services under section 27 of that Act, the value of any such benefit assessed by the Speaker or the Minister; and
+    (ii) in the case of any such benefit arising under determinations made by the Speaker under section 85(1) or 87(1) of that Act or a determination made by the Minister Responsible for Ministerial Services under section 94 of that Act, the value of any such benefit assessed by the Speaker or the Minister; and
   (b) consult the Commissioner of Inland Revenue—
     (i) about the taxation consequences of the Authority's proposed determination; and
-    (ii) as required under section 16(2)﻿(a) of the Members of Parliament (Remuneration and Services Act 2013).
+    (ii) as required under section 80(2) of the Parliament Act 2025.
 
 ### 18 Criteria of Authority
 (1) In determining any remuneration under section 12(1)﻿(a) or section 12B(1), or under any other enactment, the Authority shall have regard in particular to the following criteria:
@@ -270,7 +270,7 @@ Before making a determination under section 12(1)﻿(a)﻿(i), the Authority mus
 
 ### 24 Remuneration of existing holder not to be reduced
 (1) Where any position is subject to the determination of the Authority under section 12(1)﻿(a) or section 12B and the remuneration for that position is determined by the Authority at a rate that is lower than that being lawfully received by the holder of that position, his remuneration shall not be reduced as a result of that determination.
-(2) This principle does not apply to any change in remuneration arising from the Remuneration Authority (Members of Parliament) Amendment Act 2002 or section 16 or 17 of the Members of Parliament (Remuneration and Services) Act 2013.
+(2) This principle does not apply to any change in remuneration arising from the Remuneration Authority (Members of Parliament) Amendment Act 2002 or section 69 or 72 of the Parliament Act 2025.
 
 ### 25 Powers of Authority
 (1) For the purpose of carrying out its functions under this Act, the Authority shall be deemed to be a commission of inquiry under the Commissions of Inquiry Act 1908, and the provisions of that Act, except sections 2, 4A, 11, and 12, shall apply accordingly.
