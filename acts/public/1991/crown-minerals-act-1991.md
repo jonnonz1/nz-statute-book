@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2025-10-25_
+_Consolidation as at 2025-11-13_
 
 > Title
 
@@ -503,7 +503,9 @@ The Minister must notify every person who made a submission on the draft program
   (e) if any of the minerals to which the permit applies are minerals listed in the first column of Schedule 5, whether the permit in respect of those minerals is a Tier 1, a Tier 2, or a Tier 3 permit.
 (4) A permit may also specify the date on which the permit expires if the permit is to expire on a date earlier than the default expiry date set out in section 35.
 (5) A permit must not be granted under this Part if a monetary deposit or bond that is required by the Minister as security for compliance with the conditions of the permit has not been deposited with the chief executive.
-(6) The Minister must not grant an exploration permit or a mining permit in respect of privately owned minerals, except as provided for by section 84 of the Marine and Coastal Area (Takutai Moana) Act 2011.
+(6) The Minister must not grant an exploration permit or a mining permit in respect of privately owned minerals, except as provided for by—
+  (a) section 84 of the Marine and Coastal Area (Takutai Moana) Act 2011:
+  (b) section 130 of the Ngāti Pāoa Claims Settlement Act 2025.
 (7) If an existing privilege exists, the Minister must not grant a permit in respect of all or part of the land and the mineral to which the privilege relates without the consent of the current holder of the privilege.
 (8) Subsection (1) is subject to section 5A(3) of the Continental Shelf Act 1964.
 
@@ -652,7 +654,10 @@ Every permit holder shall be the owner of all minerals lawfully obtained by or o
 (6) For the purposes of this section—
   (a) an exploration permit shall be deemed to be an exploration permit and a prospecting permit; and
   (b) a mining permit shall be deemed to be a mining permit and an exploration permit and a prospecting permit.
-(7) The Minister may not grant an exploration permit or a mining permit under this section in respect of minerals that are privately owned except in the case of minerals owned by customary marine title groups, as provided for in section 83(2) of the Marine and Coastal Area (Takutai Moana) Act 2011 and subject to section 84 of that Act.
+(7) The Minister may not grant an exploration permit or a mining permit under this section in respect of minerals that are privately owned except in the case of minerals owned by—
+  (a) customary marine title groups, as provided for in section 83(2) of the Marine and Coastal Area (Takutai Moana) Act 2011 and subject to section 84 of that Act:
+  (b) the persons or body referred to in section 129(1)﻿(a) to (d) of the Ngāti Pāoa Claims Settlement Act 2025, subject to section 130 of that Act:
+  (c) in relation to Ruamāhua, the registered owners, subject to section 130 of the Ngāti Pāoa Claims Settlement Act 2025, if section 136 of that Act applies.
 (8) A permit that is the subject of an application for a subsequent permit under this section continues in force until the Minister determines the application.
 (9) In this section, deposit means a concentration or an accumulation that is capable of being mined effectively and economically.
 
@@ -1291,14 +1296,21 @@ No right reserved to the Crown, by virtue of any enactment, to enter any land fo
 **Access to land for minimum impact activity**
 
 ### 49 Entry on land for minimum impact activity
-(1) Notwithstanding section 8, but subject to sections 50, 51, and 62, any person employed by the Crown and authorised either specially or generally for that purpose, and any person authorised specifically in writing by the Minister for that purpose, may during the daytime enter on any land, with such assistance as he or she thinks fit, and carry out minimum impact activity.
-(2) Subject to sections 8, 50, 51, and 62, a permit holder (and employees, agents, and contractors of a permit holder authorised for that purpose) may enter land to which the permit relates and carry out minimum impact activity.
+(1) Notwithstanding section 8, but subject to sections 49A, 50, 51, and 62, any person employed by the Crown and authorised either specially or generally for that purpose, and any person authorised specifically in writing by the Minister for that purpose, may during the daytime enter on any land, with such assistance as he or she thinks fit, and carry out minimum impact activity.
+(2) Subject to sections 8, 49A, 50, 51, and 62, a permit holder (and employees, agents, and contractors of a permit holder authorised for that purpose) may enter land to which the permit relates and carry out minimum impact activity.
 (3) Notwithstanding subsections (1) and (2), no person may enter on land under either of those subsections without the written consent of each owner and occupier, and any customary marine title group unless at least 10 working days' notice has been given to each person or group whose consent is required of—
   (a) the date of intended entry; and
   (b) the type and duration of work to be carried out; and
   (c) a telephone number in New Zealand of the person who intends to enter the land.
 (4) Every person who enters land under this section shall, if required by any owner or occupier or customary marine title group to do so, produce a copy of the authorisation or permit which gives the right of entry under this section.
 (5) A person who enters land under this section shall not carry out any activity other than a minimum impact activity.
+
+### 49A Entry on to Schedule 6 land for minimum impact activity
+(1) This section applies to the land described in Schedule 6 (Schedule 6 land).
+(2) If a permit holder or any person authorised under section 49 seeks to enter any Schedule 6 land for the purpose of carrying out a minimum impact activity, before entry is made the permit holder or person must—
+  (a) comply with section 49; and
+  (b) ensure that reasonable efforts have been made to consult the person or body in whom, or to which, the minerals are vested or transferred by or under an Act referred to in subsection (3), as long as the Schedule 6 land concerned continues to be owned by the person or body.
+(3) The Act is the Ngāti Pāoa Claims Settlement Act 2025.
 
 ### 50 Entry on special classes of land for minimum impact activity
 (1) No person may, without the consent of the owner or occupier of the land, enter land of a class to which any of paragraphs (a) to (g) of section 55(2) relate for the purpose of carrying out a minimum impact activity.
@@ -3752,3 +3764,5 @@ All seafloor protection areas declared by section 16 of the Hauraki Gulf / Tīka
 | Ironsand | $1,250,000 | – | 500 000 tonnes |
 | Metallic mineral | $1,250,000 | – | 500 000 tonnes of ore |
 | Platinum group metals | $1,250,000 | $50,000 | – |
+
+## Schedule 6 — Schedule 6 land
