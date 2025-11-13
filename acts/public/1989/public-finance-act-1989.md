@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-11-13_
 
 > Title
 
@@ -19,7 +19,7 @@ _Consolidation as at 2025-07-01_
     (ii) the Government's management of its assets and liabilities; and
   (b) establishes lines of responsibility for effective and efficient management of public financial resources; and
   (c) specifies the principles for responsible fiscal management in the conduct of fiscal policy and requires regular reporting on the extent to which the Government's fiscal policy is consistent with those principles; and
-  (d) specifies the minimum financial and non-financial reporting obligations of Ministers, departments (including departmental agencies, interdepartmental executive boards, and interdepartmental ventures), Offices of Parliament, Schedule 4 organisations, and Schedule 4A companies; and
+  (d) specifies the minimum financial and non-financial reporting obligations of Ministers, departments (including departmental agencies, interdepartmental executive boards, and interdepartmental ventures), Offices of Parliament, parliamentary agencies, Schedule 4 organisations, and Schedule 4A companies; and
   (e) provides for the application of financial management incentives and for the accountability of Schedule 4 organisations and Schedule 4A companies; and
   (ea) places limits on the ownership of the companies named in Schedule 5; and
   (f) safeguards public assets by providing statutory authority and control for the—
@@ -35,10 +35,11 @@ _Consolidation as at 2025-07-01_
   - **annual financial statements of the Government** means the annual consolidated financial statements for the Government reporting entity prepared under section 27
   - **appropriation administrator** ,—
     (a) in relation to an appropriation made to the Crown, means the department that administers the appropriation on behalf of the appropriation Minister; and
-    (b) in relation to an appropriation made to an Office of Parliament, means that Office of Parliament
+    (b) in relation to an appropriation made to an Office of Parliament, means that Office of Parliament; and
+    (c) in relation to an appropriation made to a parliamentary agency, means that parliamentary agency
   - **appropriation Minister** ,—
     (a) in relation to an appropriation made to an Office of Parliament, means the Speaker; and
-    (b) in relation to an appropriation administered by the Office of the Clerk of the House of Representatives or the Parliamentary Service, means the Speaker; and
+    (b) in relation to an appropriation administered by a parliamentary agency, means the Speaker; and
     (c) in relation to any other appropriation, means the Minister responsible for that appropriation
   - **asset** means an asset that is defined, recognised, and measured in accordance with generally accepted accounting practice
   - **Auditor-General** has the meaning given to it by section 4 of the Public Audit Act 2001
@@ -63,7 +64,8 @@ _Consolidation as at 2025-07-01_
     (ab) in the case of an interdepartmental executive board, the board selected under the Public Service Act 2020:
     (ac) in the case of an interdepartmental venture, the board constituted in accordance with the Public Service Act 2020:
     (b) in the case of a Crown entity, the chief executive officer of the Crown entity:
-    (c) in the case of an Office of Parliament, the head of the Office concerned
+    (c) in the case of an Office of Parliament, the head of the Office concerned:
+    (d) in the case of a parliamentary agency, the head (as defined in section 5 of the Parliament Act 2025) of the agency
   - **class of outputs** or means a grouping of similar outputs
   - **commitment** means future expenses and liabilities to be incurred on contracts that have been entered into at balance date
   - **company** means a company within the meaning of the Companies Act 1993
@@ -72,6 +74,7 @@ _Consolidation as at 2025-07-01_
     (b) includes all Ministers of the Crown and all departments; but
     (c) does not include—
       (i) an Office of Parliament; or
+      (ia) a parliamentary agency; or
       (ii) a Crown entity; or
       (iii) a State enterprise named in Schedule 1 of the State-Owned Enterprises Act 1986; or
       (iv) a Schedule 4 organisation; or
@@ -89,18 +92,19 @@ _Consolidation as at 2025-07-01_
       (ii) the New Zealand Defence Force; or
       (iii) the New Zealand Police; or
       (iv)
-      (v) the Parliamentary Counsel Office; or
-      (vi) the Office of the Clerk of the House of Representatives; or
-      (vii) the Parliamentary Service; but
+      (v) the Parliamentary Counsel Office; but
+      (vi)
+      (vii)
     (b) does not include—
       (i) a body corporate or other legal entity that has the power to contract; or
-      (ii) an Office of Parliament
+      (ii) an Office of Parliament; or
+      (iii) a parliamentary agency
   - **departmental** ,—
-    (a) in relation to expenses, means expenses incurred by a department or an Office of Parliament; and
-    (b) in relation to capital expenditure, means capital expenditure incurred by a department or an Office of Parliament
+    (a) in relation to expenses, means expenses incurred by a department, an Office of Parliament, or a parliamentary agency; and
+    (b) in relation to capital expenditure, means capital expenditure incurred by a department, an Office of Parliament, or a parliamentary agency
   - **departmental agency** has the meaning given in section 5 of the Public Service Act 2020
   - **Departmental Bank Account** means any of the bank accounts opened, maintained, and operated under section 65S
-  - **departmental revenue** means revenue generated by a department or an Office of Parliament resulting from the supply by the department or Office of goods, services, rights, or money to other parties, including the Crown
+  - **departmental revenue** means revenue generated by a department, an Office of Parliament, or a parliamentary agency resulting from the supply by the department, Office of Parliament, or parliamentary agency of goods, services, rights, or money to other parties, including the Crown
   - **derivative** —
     (a) has the same meaning as in section 8 of the Financial Markets Conduct Act 2013; and
     (b) includes a foreign exchange transaction
@@ -140,11 +144,11 @@ _Consolidation as at 2025-07-01_
   - **mixed ownership model company** has the meaning set out in section 45P
   - **multi-category appropriation** means an appropriation described in section 7A(1)﻿(g)
   - **non-departmental** ,—
-    (a) in relation to expenses, means expenses incurred on behalf of the Crown, other than by a department or an Office of Parliament; and
-    (b) in relation to capital expenditure, means capital expenditure incurred on behalf of the Crown, other than by a department or an Office of Parliament
+    (a) in relation to expenses, means expenses incurred on behalf of the Crown, other than by a department, an Office of Parliament, or a parliamentary agency; and
+    (b) in relation to capital expenditure, means capital expenditure incurred on behalf of the Crown, other than by a department, an Office of Parliament, or a parliamentary agency
   - **Office of Parliament** means the Parliamentary Commissioner for the Environment (and that Commissioner's office), the Office of Ombudsmen, and the Auditor-General
   - **operating surplus** means the amount by which departmental revenue exceeds the expenses of a department
-  - **other expenses** means any expenses incurred by the Crown, a department, or an Office of Parliament that are other than—
+  - **other expenses** means any expenses incurred by the Crown, a department, an Office of Parliament, or a parliamentary agency that are other than—
     (a) output expenses; or
     (b) benefits or related expenses; or
     (c) borrowing expenses
@@ -152,13 +156,14 @@ _Consolidation as at 2025-07-01_
     (a) includes the full cost of producing and supplying outputs measured in accrual accounting terms; and
     (b) includes the full allocation of overhead costs
   - **outputs** —
-    (a) means goods or services that are supplied by a department, Crown entity, Office of Parliament, or other person or body; and
-    (b) includes goods or services that a department, Crown entity, Office of Parliament, or other person or body has agreed or contracted to supply on a contingent basis, but that have not been supplied
+    (a) means goods or services that are supplied by a department, Crown entity, Office of Parliament, parliamentary agency, or other person or body; and
+    (b) includes goods or services that a department, Crown entity, Office of Parliament, parliamentary agency, or other person or body has agreed or contracted to supply on a contingent basis, but that have not been supplied
+  - **parliamentary agency** has the meaning given to it by section 5 of the Parliament Act 2025
   - **permanent legislative authority** ,—
     (a) in relation to incurring expenses or capital expenditure, means an express authority given by or under an Act other than an Appropriation Act to incur expenses or capital expenditure without further appropriation (see, for example, section 65ZH, which relates to certain finance expenses, and section 9 of the Ombudsmen Act 1975, which relates to salaries and allowances of Ombudsmen); and
     (b) in relation to spending public money, means an express authority given by or under an Act to spend public money without further authority (see, for example, section 6)
   - **principles of responsible fiscal management** has the meaning given to it by section 26G(1)
-  - **public money** means all money received by or on behalf of the Crown, including the proceeds of all loans raised on behalf of the Crown, and any other money that the Minister or the Secretary directs to be paid into a Crown Bank Account or Departmental Bank Account and any money held by an Office of Parliament; but does not include money held in trust as trust money
+  - **public money** means all money received by or on behalf of the Crown, including the proceeds of all loans raised on behalf of the Crown, and any other money that the Minister or the Secretary directs to be paid into a Crown Bank Account or Departmental Bank Account and any money held by an Office of Parliament or a parliamentary agency; but does not include money held in trust as trust money
   - **public security** means any security issued under section 63 or any provision of any other Act; and includes any loan or credit agreement, guarantee, indemnity, bond, note, debenture, bill of exchange, Treasury bill, Government stock, and any other security representing part of the public debt of New Zealand
   - **relevant department** means,—
     (a) in relation to an interdepartmental venture, a relevant department specified for the venture in Part 4 of Schedule 2 of the Public Service Act 2020:
@@ -171,8 +176,8 @@ _Consolidation as at 2025-07-01_
       (iii) expenses that arise from the consumption of assets during the reporting period; or
       (iv) interest income or interest expenses
   - **responsible Minister** means,—
-    (a) in relation to an Office of Parliament, to the Office of the Clerk of the House of Representatives, or to the Parliamentary Service, the Speaker:
-    (b) in relation to any other department, the Minister for the time being responsible for the financial performance of the department:
+    (a) in relation to an Office of Parliament or to a parliamentary agency, the Speaker:
+    (b) in relation to a department, the Minister for the time being responsible for the financial performance of the department:
     (c) in relation to a Schedule 4 organisation, the Minister for the time being responsible for the financial performance of the organisation:
     (d) in relation to a Schedule 4A company, the Minister and the other shareholding Minister or Ministers
   - **Schedule 4 organisation** means an organisation named or described in Schedule 4
@@ -199,8 +204,8 @@ _Consolidation as at 2025-07-01_
     (a) the responsibility of a designated Minister or Ministers and administered by 1 department (but see subsection (2)); or
     (b) the responsibility of the Speaker and administered by—
       (i) an Office of Parliament; or
-      (ii) the Office of the Clerk of the House of Representatives; or
-      (iii) the Parliamentary Service
+      (ii) a parliamentary agency
+      (iii)
   - **working day** means any day except—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
@@ -225,7 +230,7 @@ This Act shall bind the Crown.
 ### 3A Power to amend Schedule 4
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 4—
   (a) to add the name or description of—
-    (i) any body, office (except an Office of Parliament), or officer established by or under an Act; or
+    (i) any body, office (except an Office of Parliament or a parliamentary agency), or officer established by or under an Act; or
     (ii) any trust that is created by the Crown by deed of trust or in respect of which the Crown has appointed, or has the power to appoint, a majority of the trustees:
   (b) to apply to an organisation any provision of the Crown Entities Act 2004 that appears in Schedule 4 (other than section 165 of that Act):
   (c) to disapply to an organisation any provision of the Crown Entities Act 2004 that appears in Schedule 4:
@@ -275,7 +280,7 @@ This Act shall bind the Crown.
 **Requirement for appropriations**
 
 ### 4 Expenses or capital expenditure must not be incurred unless in accordance with appropriation or statutory authority
-(1) The Crown or an Office of Parliament must not incur expenses or capital expenditure, except as expressly authorised by an appropriation, or other authority, by or under an Act.
+(1) The Crown, an Office of Parliament, or a parliamentary agency must not incur expenses or capital expenditure, except as expressly authorised by an appropriation, or other authority, by or under an Act.
 (2) In this section, expense does not include an expense that results from—
   (a) a remeasurement of an asset or a liability; or
   (b) an operating loss incurred by—
@@ -292,14 +297,14 @@ This Act shall bind the Crown.
 (2) However, subsection (1) does not apply unless an appropriation for the expenses or capital expenditure is made before the end of the financial year.
 
 ### 5 Public money must not be spent unless in accordance with statutory authority
-The Crown or an Office of Parliament must not spend public money, except as expressly authorised by or under an Act (including this Act).
+The Crown, an Office of Parliament, or a parliamentary agency must not spend public money, except as expressly authorised by or under an Act (including this Act).
 
 ### 6 Authority to spend public money
 Public money may be spent, without further authority than this section, for the purpose of—
   (a) meeting expenses or capital expenditure incurred in accordance with an appropriation or other authority by or under an Act; and
   (b) the payment of goods and services tax in relation to those expenses or capital expenditure; and
-  (c) the repayment of debt of the Crown or an Office of Parliament; and
-  (d) the settlement of liabilities of the Crown or an Office of Parliament.
+  (c) the repayment of debt of the Crown, an Office of Parliament, or a parliamentary agency; and
+  (d) the settlement of liabilities of the Crown, an Office of Parliament, or a parliamentary agency.
 
 ### 7 Expenses and capital expenditure must be allocated to appropriation type
 All expenses and capital expenditure to be incurred in any financial year must be allocated to one of the appropriation types set out in section 7A(1) within a Vote specified in an Appropriation Act.
@@ -327,17 +332,17 @@ A multi-category appropriation described in section 7A(1)﻿(g)—
   (b) must include only categories of expenses or non-departmental capital expenditure that contribute to a single overarching purpose.
 
 ### 7C Responsibility for, and administration and use of, appropriations
-(1) An appropriation is made to the Crown or an Office of Parliament.
+(1) An appropriation is made to the Crown, an Office of Parliament, or a parliamentary agency.
 (2) In the case of an appropriation made to the Crown,—
   (a) a Minister (the appropriation Minister) is responsible for the appropriation; and
   (b) the appropriation must be administered by 1 department (the appropriation administrator) on behalf of the appropriation Minister; and
   (c) if the appropriation is an appropriation for departmental expenses or a multi-category appropriation, any other department may incur expenses against the appropriation—
     (i) at the direction of the appropriation Minister; or
     (ii) with the agreement of the appropriation administrator.
-(3) Despite subsection (2)﻿(a), the Speaker is responsible for any appropriation administered by the Office of the Clerk of the House of Representatives or the Parliamentary Service.
-(4) In the case of an appropriation made to an Office of Parliament,—
+(3)
+(4) In the case of an appropriation made to an Office of Parliament or a parliamentary agency,—
   (a) the Speaker is responsible for the appropriation; and
-  (b) the appropriation must be administered by that Office of Parliament.
+  (b) the appropriation must be administered by that Office of Parliament or parliamentary agency.
 (5) The reference to department in subsection (2)﻿(b) does not include a departmental agency that, under Part 2 of Schedule 2 of the Public Service Act 2020, is not empowered to manage assets or liabilities.
 
 ### 8 Appropriation limited by amount
@@ -376,7 +381,7 @@ Except as otherwise provided by a resolution of the House of Representatives, th
 **Requirements for capital injections**
 
 ### 12A Capital injections must be authorised
-(1) The Crown must not make a capital injection to a department (other than an intelligence and security department) or an Office of Parliament unless the capital injection is authorised under an Appropriation Act.
+(1) The Crown must not make a capital injection to a department (other than an intelligence and security department), an Office of Parliament, or a parliamentary agency unless the capital injection is authorised under an Appropriation Act.
 (2) The authority to make the capital injection—
   (a) is limited by the amount specified for the capital injection by that Appropriation Act; and
   (b) must not be exceeded, except as provided for in section 25A.
@@ -464,13 +469,13 @@ Except as otherwise provided by a resolution of the House of Representatives, th
     (ii) by a department if, in accordance with a direction under section 7C(2)﻿(c)﻿(i), the resources from that appropriation are used by that department only; or
     (iii) by the appropriation administrator, in any other case; and
   (b) for an appropriation described in subsection (3), by the appropriation Minister; and
-  (c) for any other appropriation, by a department, a functional chief executive, an Office of Parliament, a Crown entity, a Schedule 4 organisation (but not including a Reserves Board (as described in Schedule 4)), or a Schedule 4A company.
-(3) Subsection (2)﻿(b) applies in respect of an appropriation for non-departmental expenses, or non-departmental capital expenditure, from which resources will be provided to a person or an entity other than a department, a functional chief executive, an Office of Parliament, a Crown entity, a Schedule 4 organisation (but not including a Reserves Board (as described in Schedule 4)), or a Schedule 4A company.
+  (c) for any other appropriation, by a department, a functional chief executive, an Office of Parliament, a parliamentary agency, a Crown entity, a Schedule 4 organisation (but not including a Reserves Board (as described in Schedule 4)), or a Schedule 4A company.
+(3) Subsection (2)﻿(b) applies in respect of an appropriation for non-departmental expenses, or non-departmental capital expenditure, from which resources will be provided to a person or an entity other than a department, a functional chief executive, an Office of Parliament, a parliamentary agency, a Crown entity, a Schedule 4 organisation (but not including a Reserves Board (as described in Schedule 4)), or a Schedule 4A company.
 
 ### 15D Exemptions from end-of-year performance information requirements for certain categories of expenses and capital expenditure
 (1) The Minister may grant an exemption from the end-of-year performance information requirements in respect of an appropriation for departmental output expenses, or a category of departmental output expenses within a multi-category appropriation, if the Minister is satisfied that the appropriation or category relates exclusively to outputs supplied by a department to 1 or more other departments.
 (2) The Minister may grant an exemption from the end-of-year performance information requirements in respect of an appropriation for non-departmental expenses or non-departmental capital expenditure, or a category of non-departmental expenses or non-departmental capital expenditure within a multi-category appropriation, if the Minister is satisfied that—
-  (a) the appropriation or category is one from which resources will be provided to a person or an entity other than a department, a functional chief executive, an Office of Parliament, or a Crown entity; and
+  (a) the appropriation or category is one from which resources will be provided to a person or an entity other than a department, a functional chief executive, an Office of Parliament, a parliamentary agency, or a Crown entity; and
   (b) 1 of the following applies:
     (i) key performance information relevant to the appropriation or category will be otherwise readily available to the House of Representatives:
     (ii) end-of-year performance information for the appropriation or category is not likely to be informative in the light of the nature of the transaction or causal event giving rise to the expenses or capital expenditure:
@@ -571,7 +576,7 @@ The Minister may, in addition to the information referred to in sections 15 to 1
 **Reporting on appropriations: end-of-year performance information**
 
 ### 19A Provision of end-of-year performance information other than by Ministers
-(1) This section applies to the department, functional chief executive, Office of Parliament, Crown entity, Schedule 4 organisation, or Schedule 4A company (performance reporter) most recently identified in the supporting information for an Appropriation Act as providing end-of-year performance information on an appropriation for a financial year.
+(1) This section applies to the department, functional chief executive, Office of Parliament, parliamentary agency, Crown entity, Schedule 4 organisation, or Schedule 4A company (performance reporter) most recently identified in the supporting information for an Appropriation Act as providing end-of-year performance information on an appropriation for a financial year.
 (2) As soon as practicable after the end of each financial year, the performance reporter must prepare the information that is required by section 19C.
 (3) Not later than 15 working days after the performance reporter receives an audit report on the information under section 45D of this Act or section 156 of the Crown Entities Act 2004 (as applicable),—
   (a) the performance reporter must, unless the performance reporter is the appropriation administrator, provide the information and the audit report to the appropriation administrator; and
@@ -734,6 +739,36 @@ The Minister may, in addition to the information referred to in sections 15 to 1
 (4) The House of Representatives may, in that address, request that the estimates be included as a Vote, and the capital injection be authorised, in an Appropriation Bill for that year.
 (5) If the Vote or authorisation is included in an Appropriation Bill for that year, this Part applies, with all necessary modifications, as if references to a department were references to an Office of Parliament.
 (6) An alteration to the Vote or authorisation during that year is subject to the provisions of this section.
+
+**Application of this Part to parliamentary agencies**
+
+### 26EA How this Part applies to appropriations administered by parliamentary agencies
+(1) Subsection (2) applies to an appropriation made to the Crown that—
+  (a) is in a Vote administered by the Parliamentary Service; and
+  (b) provides authority to incur one or both of the following:
+    (i) non-departmental capital expenditure in respect of Crown assets managed or controlled by the Parliamentary Service:
+    (ii) non-departmental other expenses for the depreciation or write-off of those Crown assets.
+(2) This Part (apart from section 26EB) applies to the appropriation—
+  (a) as if the Parliamentary Service were a department rather than a parliamentary agency; and
+  (b) with any other necessary modifications.
+(3) Section 26EB applies to every other appropriation in a Vote administered by a parliamentary agency.
+
+### 26EB House of Representatives may commend estimates or capital injection in relation to parliamentary agencies
+(1) Before an appropriation in a Vote administered by a parliamentary agency may be included in an Appropriation Bill for a financial year, the chief executive of the parliamentary agency must prepare and submit to the House of Representatives the following information:
+  (a) an estimate of expenses and capital expenditure to be incurred for—
+    (i) each proposed appropriation; and
+    (ii) each proposed category of expenses or non-departmental capital expenditure within a multi-category appropriation; and
+  (b) the revenue of the parliamentary agency (including the revenue associated with each proposed expenses appropriation and each proposed category of expenses within a multi-category appropriation).
+(2) Before an authorisation for a capital injection to be made to a parliamentary agency may be included in an Appropriation Bill for a financial year, the chief executive of the parliamentary agency must submit to the House of Representatives the amount of the proposed capital injection.
+(3) The chief executive of the parliamentary agency must consult the Secretary before submitting information under subsection (1) or (2).
+(4) The House of Representatives, after considering the information provided under subsections (1) and (2), may for each parliamentary agency commend to the Governor-General, by way of an address,—
+  (a) the estimates referred to in subsection (1)﻿(a); and
+  (b) the capital injection referred to in subsection (2).
+(5) The House of Representatives may, in that address, request that the estimates be included in a Vote, and the capital injection be authorised, in an Appropriation Bill for that year.
+(6) If the Vote or authorisation is included in an Appropriation Bill for that year, this Part applies to the Vote or authorisation—
+  (a) as if a reference to a department were a reference to a parliamentary agency; and
+  (b) with any other necessary modifications.
+(7) An alteration to the Vote or authorisation during that year is subject to this section.
 
 ## Part 2 — Fiscal responsibility and wellbeing
 
@@ -1049,7 +1084,7 @@ The Minister may arrange for the following to be published in advance of their b
     (ii) a statement of unappropriated expenses and capital expenditure and unauthorised capital injections (excluding any capital injection to an intelligence and security department):
     (iii) a statement of emergency expenses and capital expenditure incurred under section 25 and emergency capital injections (excluding any capital injection to an intelligence and security department) made under section 25A:
     (iiia) a statement of expenses and capital expenditure incurred under section 25C:
-    (iv) a statement of trust money administered by departments and Offices of Parliament:
+    (iv) a statement of trust money administered by departments, Offices of Parliament, and parliamentary agencies:
     (v) any additional information and explanations needed to fairly reflect the consolidated financial operations of the Government reporting entity for the financial year and its consolidated financial position at the end of that year.
 (3) The annual financial statements of the Government must include the Government reporting entity's interests in—
   (a) all Crown entities named or described in the Crown Entities Act 2004:
@@ -1059,6 +1094,7 @@ The Minister may arrange for the following to be published in advance of their b
   (bb) all legal entities named or described in Schedule 6:
   (c) all State enterprises named in Schedule 1 of the State-Owned Enterprises Act 1986:
   (d) all Offices of Parliament:
+  (da) all parliamentary agencies:
   (e) the Reserve Bank of New Zealand:
   (f) any other entity whose financial statements must be consolidated into the financial statements of the Government reporting entity to comply with generally accepted accounting practice.
 
@@ -1210,9 +1246,7 @@ The chief executive of a department is responsible for—
 (6) A Minister other than the responsible Minister may present the information to the House of Representatives if—
   (a) the information is presented in a document that includes other information; and
   (b) that other Minister is responsible for presenting that other information.
-(7) Information presented to the House of Representatives under subsection (4) must be accompanied by a statement signed by the responsible Minister stating,—
-  (a) in the case of the Office of the Clerk of the House of Representatives or the Parliamentary Service, that the information is consistent with the policies and performance expectations of the responsible Minister; or
-  (b) in the case of any other department, that the information is consistent with the policies and performance expectations of the Government.
+(7) Information presented to the House of Representatives under subsection (4) must be accompanied by a statement, signed by the responsible Minister, that the information is consistent with the policies and performance expectations of the Government.
 
 ### 40 Requirements for information on strategic intentions
 (1) The information required under section 38 must, for the period to which it relates, set out the strategic objectives that the department intends to achieve or contribute to (strategic intentions).
@@ -1442,7 +1476,14 @@ A department's annual report must include—
   (b) references to the Auditor-General must be read as references to an auditor appointed by the House of Representatives to audit the financial statements, statements of expenses and capital expenditure, and end-of-year performance information of Offices of Parliament; and
   (c) section 40(2)﻿(d) must be read as if an Office of Parliament were not required to comply with the requirement for the information on strategic intentions to set out and explain any other matters that may be specified by the Minister or responsible Minister, but were instead required to have regard to those matters in the preparation of that information; and
   (d) section 41 must be read as if the references in that section to the Minister were references to the Speaker.
-(2) Section 39(7)﻿(b) (which requires the information on strategic intentions to be accompanied by a statement that the information is consistent with the policy and performance expectations of the Government) does not apply to an Office of Parliament.
+(2) Section 39(7) (which requires the information on strategic intentions to be accompanied by a statement that the information is consistent with the policy and performance expectations of the Government) does not apply to an Office of Parliament.
+
+### 45FA Application of this Part to parliamentary agencies
+(1) This Part applies to a parliamentary agency, subject to subsection (2) and with the following (and any other necessary) modifications:
+  (a) references to a department must be read as references to a parliamentary agency; and
+  (b) section 40(2)﻿(d) must be read as if a parliamentary agency were not required to comply with the requirement for the information on strategic intentions to set out and explain any other matters that may be specified by the Minister or responsible Minister, but were instead required to have regard to those matters in preparing that information; and
+  (c) section 41 must be read as if the references in that section to the Minister were references to the Speaker.
+(2) Section 39(7)﻿ (which requires the information on strategic intentions to be accompanied by a statement that the information is consistent with the policies and performance expectations of the Government) does not apply to a parliamentary agency.
 
 ### 45G This Part modified for purpose of applying Part to Offices of Parliament
 [Repealed]
@@ -2027,14 +2068,14 @@ A bank at which public money is kept must send to the Treasury or the Auditor-Ge
   (b) is, for any other reason, unlawful.
 (2) If this section applies, the Auditor-General may direct the Minister, the Treasury or, as the case may be, the department concerned to stop payments out of that Crown Bank Account or Departmental Bank Account.
 
-### 65ZB Application of this subpart to Offices of Parliament
-(1) Despite section 65S, an Office of Parliament may open, maintain, and operate a Departmental Bank Account at a bank or banks that may be agreed between the Office and the Treasury.
-(2) Despite section 65U, an Office of Parliament may pay receipts from borrowings into a Departmental Bank Account that it operates.
+### 65ZB Application of this subpart to Offices of Parliament and parliamentary agencies
+(1) Despite section 65S, an Office of Parliament or a parliamentary agency may open, maintain, and operate a Departmental Bank Account at a bank or banks that may be agreed between the Office of Parliament or parliamentary agency and the Treasury.
+(2) Despite section 65U, an Office of Parliament or a parliamentary agency may pay receipts from borrowings into a Departmental Bank Account that it operates.
 (3) This subpart, if the context requires, applies to that Departmental Bank Account as if—
-  (a) references to a department were references to an Office of Parliament; and
-  (b) the money disbursed by the Treasury under section 65U(2)﻿(a) were disbursed on a basis agreed between the chief executive of the Office concerned and the Secretary; and
+  (a) references to a department were references to an Office of Parliament or a parliamentary agency; and
+  (b) the money disbursed by the Treasury under section 65U(2)﻿(a) were disbursed on a basis agreed between the chief executive of the Office of Parliament or the parliamentary agency concerned and the Secretary; and
   (c) the powers of the Minister or the Treasury under section 65W in respect of a Departmental Bank Account were to be exercised on a basis agreed between the Minister and the Speaker; and
-  (d) the investment of money held in a Departmental Bank Account operated by an Office of Parliament, in accordance with section 65I, were on a basis agreed between the Treasury and the Office concerned.
+  (d) the investment of money held in a Departmental Bank Account operated by an Office of Parliament or a parliamentary agency, in accordance with section 65I, were on a basis agreed between the Treasury and the Office of Parliament or the parliamentary agency concerned.
 
 ### Subpart 6 — Guarantees and indemnities
 
@@ -2192,14 +2233,14 @@ Any money paid by the Crown under a guarantee or indemnity given under section 6
 (3) Notwithstanding subsection (2), any expense incurred or sum of money paid by the Crown on behalf of, or at the request of, a local authority, and any money owing to the Crown by a local authority, may be deducted by the Crown from any subsidies or other money accruing or payable by the Crown to the local authority.
 
 ### 73 Payment of fines to local authorities and other organisations that conduct prosecutions
-(1) Subject to subsection (2) and any other provision of any Act, where a local authority, or other organisation (other than a department, an Office of Parliament, a Crown entity, a Schedule 4 organisation, or a Schedule 4A company) that is specifically empowered to do so by any Act, or any person on behalf thereof, prosecutes a person in a court of law in respect of an offence and the prosecution results in the imposition of a fine, the amount of the fine recovered shall be paid to the local authority or other organisation.
+(1) Subject to subsection (2) and any other provision of any Act, where a local authority, or other organisation (other than a department, an Office of Parliament, a parliamentary agency, a Crown entity, a Schedule 4 organisation, or a Schedule 4A company) that is specifically empowered to do so by any Act, or any person on behalf thereof, prosecutes a person in a court of law in respect of an offence and the prosecution results in the imposition of a fine, the amount of the fine recovered shall be paid to the local authority or other organisation.
 (2) There shall be deducted from every amount payable to a local authority or other organisation under subsection (1) a sum equal to 14% thereof, and this sum shall be credited to the Crown Bank Account or a Departmental Bank Account:
   provided that, where any money awarded by a court in respect of any loss or damage is recovered as a fine, no deduction under this subsection shall be made in respect of that money.
 
 ### 74 Unclaimed money
-(1) Unless otherwise provided in any Act, at the end of each financial year any money in any bank account of a department, Office of Parliament, Crown entity, Schedule 4 organisation, or Schedule 4A company that has remained unclaimed for a period of 6 years from the date it was payable to the person entitled thereto, shall be deposited with the Treasury.
+(1) Unless otherwise provided in any Act, at the end of each financial year any money in any bank account of a department, Office of Parliament, parliamentary agency, Crown entity, Schedule 4 organisation, or Schedule 4A company that has remained unclaimed for a period of 6 years from the date it was payable to the person entitled thereto, shall be deposited with the Treasury.
 (2) Notwithstanding section 66, all money deposited with the Treasury under subsection (1) shall be public money and be paid into the Crown Bank Account.
-(3) When money is deposited with the Treasury under subsection (1), the department, Office of Parliament, Crown entity, organisation, or company concerned shall supply the Treasury with such particulars concerning the money as the Treasury requires.
+(3) When money is deposited with the Treasury under subsection (1), the department, Office of Parliament, parliamentary agency, Crown entity, organisation, or company concerned shall supply the Treasury with such particulars concerning the money as the Treasury requires.
 (4) No person shall have any right of action against the Treasury or the Crown in respect of any investment or non-investment of any money to which this section relates.
 (5) If any person claims any money deposited with the Treasury under subsection (1) and establishes a claim to the satisfaction of the Treasury, the money shall be paid to the person out of the Crown Bank Account without further appropriation than this section.
 (6) Where any money paid to any claimant under this section, is afterwards claimed by any other person, neither the Treasury nor the Crown shall be under any liability to such other person by reason of having paid money to the first claimant.
@@ -2243,13 +2284,17 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (b) if there is no agreement under paragraph (a), only if the Minister and the responsible Minister jointly decide that the Treasury may make the request.
 
 ### 80 Treasury instructions
-(1) The Treasury may issue instructions to departments for all or any of the purposes specified in section 81(1)﻿(a), (ab), (b), (bc), (bd), and (c) to (e).
-(1A) Subsection (1) is subject to the provisions of this Act and of any regulations made under this Act.
-(2) A chief executive of a department must comply with any instructions issued under this section to the extent that the instructions apply to that department.
-(3) Despite subsections (1) and (2), the Treasury may issue instructions under this section to an intelligence and security department—
-  (a) only if the Secretary and the chief executive of that department agree and only to the extent of that agreement; or
+(1) The Treasury may issue instructions for all or any of the purposes specified in section 81(1)﻿(a), (ab), (b), (bc), (bd), and (c) to (e) to—
+  (a) departments; and
+  (b) the Parliamentary Service, but only in respect of any appropriation it administers to which section 26EA applies.
+(2) Subsection (1) is subject to the provisions of this Act and of any regulations made under this Act.
+(3) The following persons must comply with instructions issued under this section:
+  (a) the chief executive of a department, to the extent that the instructions apply to that department:
+  (b) the chief executive of the Parliamentary Service, to the extent that the instructions apply to the Parliamentary Service.
+(4) Despite subsections (1) and (3), the Treasury may issue instructions under this section to an intelligence and security department or to the Parliamentary Service—
+  (a) only if the Secretary and the chief executive of the department or the Parliamentary Service, as applicable, agree and only to the extent of that agreement; or
   (b) if there is no agreement under paragraph (a), only if the Minister and the responsible Minister jointly decide that the Treasury may issue the instructions.
-(4) The Treasury must publish the instructions on the Internet as soon as practicable after issuing them.
+(5) The Treasury must publish the instructions on an Internet site maintained by or on behalf of the Treasury as soon as practicable after issuing them.
 
 ### 80A Minister of Finance instructions
 (1) Subject to the provisions of this Act and of any regulations made under this Act, the Minister may issue instructions under subsection (3) for all or any of the purposes referred to in that subsection, rather than recommend the making of regulations under section 81.
@@ -2262,10 +2307,11 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
     (i) a department; or
     (ia)
     (ii) an Office of Parliament; or
+    (iia) a parliamentary agency; or
     (iii) a Schedule 4 organisation; or
     (iv) a Schedule 4A company; and
   (b) for all or any of the purposes specified in section 81(1)﻿(a), (b), or (c), to an entity referred to in section 27(3)﻿(a) to (f).
-(4) A chief executive of a department, an Office of Parliament, a Schedule 4 organisation, a Schedule 4A company, or any other entity referred to in section 27(3) must comply with any instructions issued under this section to the extent that the instructions apply to that department, Office, organisation, company, or entity.
+(4) A chief executive of a department, an Office of Parliament, a parliamentary agency, a Schedule 4 organisation, a Schedule 4A company, or any other entity referred to in section 27(3) must comply with any instructions issued under this section to the extent that the instructions apply to that department, Office, agency, organisation, company, or entity.
 (5) Any instructions issued under this section for the purposes of section 81(1)﻿(ba) must be consistent, in the opinion of the Minister, with generally accepted accounting practice and any reporting standard imposed by or under any other Act, to the extent that those matters are relevant to those instructions.
 (6) Instructions under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (7)
@@ -2274,9 +2320,9 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) requiring information to be supplied to the Treasury by departments and any entities referred to in section 27(3)﻿(a) to (f) to enable the Treasury to properly fulfil the functions imposed on it by the Government or any Act:
   (ab) prescribing the processes and data standards to be used when supplying the information required under paragraph (a):
-  (ac) prescribing minimum requirements concerning the publication of information that departments, Offices of Parliament, Schedule 4 organisations, and Schedule 4A companies must publish under this Act:
-  (b) prescribing particular accounting policies and financial statement representations that Ministers, departments, Offices of Parliament, Crown entities, Schedule 4 organisations, or Schedule 4A companies must apply in their financial reporting:
-  (ba) prescribing the non-financial reporting standards that Ministers, departments, Offices of Parliament, Schedule 4 organisations, or Schedule 4A companies must apply and the form in which they must provide the information they are required to present to the House of Representatives under this Act:
+  (ac) prescribing minimum requirements concerning the publication of information that departments, Offices of Parliament, parliamentary agencies, Schedule 4 organisations, and Schedule 4A companies must publish under this Act:
+  (b) prescribing particular accounting policies and financial statement representations that Ministers, departments, Offices of Parliament, parliamentary agencies, Crown entities, Schedule 4 organisations, or Schedule 4A companies must apply in their financial reporting:
+  (ba) prescribing the non-financial reporting standards that Ministers, departments, Offices of Parliament, parliamentary agencies, Schedule 4 organisations, or Schedule 4A companies must apply and the form in which they must provide the information they are required to present to the House of Representatives under this Act:
   (bb) specifying the types of guarantees or indemnities that may be given by departments on behalf of or in the name of the Crown under section 65ZE:
   (bc) prescribing the terms and conditions that must apply to those guarantees or indemnities referred to in paragraph (bb):
   (bd) prescribing any other matters relating to those guarantees or indemnities referred to in paragraph (bb):
@@ -2296,7 +2342,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 ### 82 Consultation and approval requirements for regulations or instructions relating to reporting standards
 (1) This section applies to—
   (a) any regulations that are proposed to be made under section 81(1)﻿(ba) or any instructions that are proposed to be issued by the Minister to departments, Schedule 4 organisations, or Schedule 4A companies, under section 80A, for the purposes of section 81(1)﻿(ba); and
-  (b) any regulations that are proposed to be made under section 81(1)﻿(ac) or (ba) in relation to Offices of Parliament or any instructions that are proposed to be issued by the Minister to Offices of Parliament, under section 80A, for the purposes of section 81(1)﻿(ac) or (ba).
+  (b) any regulations that are proposed to be made under section 81(1)﻿(ac) or (ba) in relation to Offices of Parliament or parliamentary agencies or any instructions that are proposed to be issued by the Minister to Offices of Parliament or parliamentary agencies, under section 80A, for the purposes of section 81(1)﻿(ac) or (ba).
 (2) The Minister must prepare and submit to the Speaker a draft of any regulations or instructions to which this section applies.
 (3) The Speaker must present the draft regulations or instructions to the House of Representatives as soon as is reasonably practicable.
 (4) In the case of regulations or instructions to which subsection (1)﻿(a) applies, the Minister, after considering any comments of the Speaker or any committee of the House of Representatives that considered the draft regulations or instructions, may amend them as the Minister thinks fit.
@@ -2429,6 +2475,47 @@ Definitions
     (a) of the fine; and
     (b) paid under a court order, or an arrangement, allowing payment to be made by instalments
   - **old section** means section 73(2) as in force immediately before the amendment was made on 1 July 2024 by the amendment Act.
+
+### Part 5 — Provisions relating to Parliament (Repeals and Amendments) Act 2025
+
+### 12 Interpretation
+In this Part,—
+  - **2025/26 financial year** means the financial year commencing on 1 July 2025 and ending with 30 June 2026
+  - **2026/27 financial year** means the financial year commencing on 1 July 2026 and ending with 30 June 2027
+  - **amendment Act** means the Parliament (Repeals and Amendments) Act 2025
+  - **multi-year appropriation** has the meaning given to it by section 15D(5)
+  - **specified person** means—
+    (a) the House of Representatives:
+    (b) the Speaker:
+    (c) the Minister:
+    (d) the chief executive of a parliamentary agency:
+    (e) the Secretary.
+
+### 13 Application of amendment Act until end of 2025/26 financial year
+(1) This clause applies until the end of the 2025/26 financial year.
+(2) The amendments made to this Act by the amendment Act apply only to the extent that is necessary or desirable to enable a specified person to perform a function or duty or exercise a power for the purpose of ensuring that, in the 2026/27 financial year, the following comply with the requirements of this Act as amended by the amendment Act:
+  (a) an appropriation in a Vote administered by a parliamentary agency:
+  (b) a capital injection to a parliamentary agency:
+  (c) a supplementary Appropriation Bill for the 2025/26 financial year, to the extent that it relates to a multi-year appropriation that lapses after 30 June 2026:
+  (d) an Imprest Supply Bill for the 2026/27 financial year:
+  (e) the main Appropriation Bill for the 2026/27 financial year:
+  (f) the Estimates and supporting information that the Minister, in accordance with section 13, presents to the House of Representatives in connection with that main Appropriation Bill:
+  (g) the Supplementary Estimates and supporting information that the Minister, in accordance with section 16, presents to the House of Representatives in connection with a supplementary Appropriation Bill.
+(3) Except to the extent provided in subclause (2), this Act continues to apply as if it had not been amended by the amendment Act.
+
+### 14 Transitional arrangements for multi-year appropriations administered by Parliamentary Service
+How to treat multi-year appropriation to which section 26EA would apply
+(1) Subclause (2) applies to a multi-year appropriation—
+  (a) that is made to the Crown and included in Vote Parliamentary Service in an Appropriation Act that comes into force before 1 July 2026; and
+  (b) that lapses on or after 1 July 2026; and
+  (c) to which section 26EA would apply if the multi-year appropriation were made after 1 July 2026.
+(2) On and after 1 July 2026, the Parliamentary Service must, in relation to that multi-year appropriation, be treated as if it were part of the Crown.
+How to treat multi-year appropriation to which section 26EB would apply
+(3) Subclause (4) applies to a multi-year appropriation—
+  (a) that is made to the Crown and included in Vote Parliamentary Service in an Appropriation Act that comes into force before 1 July 2026; and
+  (b) that lapses on or after 1 July 2026; and
+  (c) to which section 26EB would apply if the multi-year appropriation were made after 1 July 2026.
+(4) On and after 1 July 2026, the multi-year appropriation must be treated as if it were made to the Parliamentary Service.
 
 ## Schedule 2 — Enactments repealed
 
