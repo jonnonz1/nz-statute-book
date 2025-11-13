@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2025-09-24_
+_Consolidation as at 2025-11-13_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -650,7 +650,7 @@ For the purpose of the definition of output tax and sections 8(1), 15A to 15E, 1
   (aa) not being a natural person, any activity which, if it were carried on by a natural person, would be carried on essentially as a private recreational pursuit or hobby; or
   (b) any engagement, occupation, or employment under any contract of service or as a director of a company, subject to subsection (4); or:
   (c) any engagement, occupation, or employment—
-    (i) pursuant to the Members of Parliament (Remuneration and Services) Act 2013 or the Governor-General Act 2010:
+    (i) pursuant to Part 4 of the Parliament Act 2025 or the Governor-General Act 2010:
     (ii) as a Judge, Solicitor-General, Controller and Auditor-General, or Ombudsman:
     (iia) pursuant to an appointment made by the Governor-General or the Governor-General in Council and evidenced by a warrant or by an Order in Council or by a notice published in the Gazette in accordance with section 2(2) of the Official Appointments and Documents Act 1919, subject to subsection (4):
     (iii) as a Chairman or member of any local authority or any board, council, committee, or other body, subject to subsection (4); or
