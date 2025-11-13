@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2025-11-13_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -1589,7 +1589,7 @@ Nothing in section 123 or section 124 applies to the exhibition or display, to a
   (h) any constable:
   (i) any officer of the Customs:
   (j) any Judge of the High Court, or District Court Judge, Coroner, associate coroner, Justice, or Community Magistrate:
-  (k) in relation to any publication delivered to the National Librarian pursuant to Part 4 of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003, the National Librarian, any other employee in the department responsible for the administration of that Act, or any person employed in the Parliamentary Library:
+  (k) in relation to any publication delivered to the National Librarian pursuant to Part 4 of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003, the National Librarian or any other employee in the department responsible for the administration of that Act:
   (l) any other person in the service of the Crown.
 (5) It is a defence to a charge under subsection (1) if the defendant proves that the defendant had possession of the publication to which the charge relates, in good faith,—
   (a) for the purpose or with the intention of delivering it into the possession of a person lawfully entitled to have possession of it; or
