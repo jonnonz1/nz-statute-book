@@ -6,7 +6,7 @@ This Act is the Companies (Address Information) Amendment Act 2025.
 
 ### 2 Commencement
 (1) This Act comes into force on a single date set by Order in Council.
-(2) If the Act has not come into force by the first anniversary of Royal assent, it comes into force then.
+(2) If the Act has not come into force by 18 November 2026, it comes into force then.
 (3) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Principal Act
