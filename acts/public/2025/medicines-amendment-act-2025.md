@@ -5,7 +5,7 @@ _Consolidation as at 2025-11-18_
 This Act is the Medicines Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 19 November 2025.
 
 ### 3 Principal Act
 This Act amends the Medicines Act 1981.
