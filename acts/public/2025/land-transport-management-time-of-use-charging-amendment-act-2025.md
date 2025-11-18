@@ -5,7 +5,7 @@ _Consolidation as at 2025-11-18_
 This Act is the Land Transport Management (Time of Use Charging) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the first anniversary of Royal assent.
+This Act comes into force on 18 November 2026.
 
 ## Part 1 — Amendments to Land Transport Management Act 2003
 
