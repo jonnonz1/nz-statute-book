@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2025-09-29_
+_Consolidation as at 2025-11-19_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -46,6 +46,7 @@ _Consolidation as at 2025-09-29_
     (a) a professional practice; and
     (b) any activity carried on for reward by any person
   - **carrier** includes every person engaged in carrying goods for hire or reward by any mode of transport, whether by land, water, or air
+  - **consent by verification** means consent granted under section 22D allowing the sale, distribution, and advertising of a new medicine
   - **container** , in relation to a medicine or medical device, means the bottle, jar, box, packet, or other receptacle that contains or is to contain it, not being a capsule, cachet, or other article in which the medicine or device is or is to be administered; and where any such receptacle is or is to be contained in another such receptacle, includes the former but does not include the latter receptacle
   - **controlled drug** has the same meaning as in section 2(1) of the Misuse of Drugs Act 1975
   - **Coroner** includes an associate coroner to the extent that they have the jurisdiction of a coroner under the Coroners Act 2006
@@ -270,18 +271,14 @@ This Act shall bind the Crown.
 ### 9 Medicines Classification Committee
 (1) The Minister shall appoint under section 8 an advisory committee to be called the Medicines Classification Committee, whose duty it shall be to make recommendations to the Minister in respect of the classification of any medicines as prescription medicines or restricted medicines or pharmacy-only medicines under this Act.
 (2) The Committee shall also consider and report to the Minister on such other matters in relation to any of the purposes of this Act as may from time to time be referred to it by the Minister.
-(3) The Committee shall consist of—
-  (a) 2 persons, to be nominated by the New Zealand Medical Association:
-  (b) 2 persons, to be nominated by the Pharmaceutical Society of New Zealand:
-  (c) 2 persons, being officers of the Ministry of Health, one of whom shall be appointed as chairman.
-(4) The members of the Committee shall hold office—
-  (a) in the case of any member appointed under subsection (3)﻿(c), during the pleasure of the Minister:
-  (b) in the case of any other member, for a term of 3 years, subject to subsection (5), but any such member may be reappointed for 1 further term.
+(3) The Minister must appoint at least 7 members to the Committee.
+(3A) The Minister must not appoint a person to the Committee unless they are satisfied that the person is suitably qualified to be a member.
+(4) The members of the Committee hold office for a term of 3 years, subject to subsection (5), but any member may be reappointed for 1 further term.
 (5) Any member of the Committee may at any time be removed from office by the Minister for disability, neglect of duty, or misconduct proved to the satisfaction of the Minister, or may at any time resign his office by writing addressed to the Minister.
-(6) If any member of the Committee dies, resigns, or is removed from office, the vacancy so created shall be filled in the manner in which the appointment to the vacant office was originally made, and in the case of a vacancy in the office of a nominated member, every person so appointed shall be appointed for the residue of the term for which his predecessor was appointed.
-(7) Unless he sooner vacates his office under subsection (6), every nominated member of the Committee shall continue in office until his successor comes into office, notwithstanding that the term for which he was appointed may have expired.
-(8) The powers of the Committee shall not be affected by any vacancy in its membership.
-(9) At any meeting of the Committee, 4 members shall form a quorum.
+(6) The quorum for a meeting of the Committee is half of the membership of the Committee plus 1, rounded down to the nearest whole number.
+(7)
+(8)
+(9)
 
 ### 10 Medicines Review Committee established
 (1) Without limiting section 8, for the purposes of this Act there shall be a committee, to be called the Medicines Review Committee.
@@ -375,7 +372,7 @@ The Minister shall provide every committee appointed under section 8, and the Me
 
 ### 20 Restrictions on sale or supply of new medicines
 (1) Except as provided in sections 25, 26(4), 28, 30, 31, and 32, this section applies to new medicines.
-(2) No person shall—any medicine to which this section applies before the consent or provisional consent of the Minister to the distribution of the medicine has been given by notice, or otherwise than in accordance with such conditions as may be imposed by the Minister on giving his or her consent or provisional consent and set out in the notice.
+(2) No person shall—any medicine to which this section applies before the consent, consent by verification, or provisional consent of the Minister to the distribution of the medicine has been given by notice, or otherwise than in accordance with such conditions as may be imposed by the Minister on giving his or her consent, consent by verification, or provisional consent and set out in the notice.
   (a) sell; or
   (b) distribute by way of gift or loan or sample or in any other way; or
   (c) advertise the availability of—
@@ -385,7 +382,7 @@ The Minister shall provide every committee appointed under section 8, and the Me
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 (5) In any proceedings for an offence against subsection (4) in which it is alleged that this section applies to a medicine by reason of subsection (1), it shall be presumed that the medicine is a medicine to which this section applies until the contrary is proved.
 (6) The provisions of this section are in addition to, and not in substitution for, the provisions of any other enactment prohibiting, regulating, or restricting the sale or distribution of medicines, and nothing in any such other enactment shall authorise any person to act in contravention of the provisions of this section; but in the event of any conflict, the provisions of this section shall prevail.
-(6A) The Minister, after having given consent or provisional consent to the distribution of any medicine in accordance with this Act, shall give written notification to the EPA of the consent or provisional consent and any condition attached to that consent.
+(6A) The Minister, after having given consent, consent by verification, or provisional consent to the distribution of any medicine in accordance with this Act, shall give written notification to the EPA of the consent, consent by verification, or provisional consent and any condition attached to that consent.
 (7) Any consent that was given in respect of any medicine by the Minister under section 12(2) of the Food and Drug Act 1969 and in force immediately before the commencement of this Act shall be deemed for the purposes of this section and section 35 to have been given under this section.
 (8) A notice under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
@@ -396,23 +393,20 @@ The Minister shall provide every committee appointed under section 8, and the Me
   (c) be addressed to the Director-General:
   (ca) be accompanied by the prescribed fee:
   (d) state, or be accompanied by a statement of, the particulars specified in subsection (2).
-(2) The particulars required by subsection (1)﻿(d) are the following:
-  (a) the business address of the person in whose name the application is made, and, where that person is not the manufacturer of the medicine and of each of the principal ingredients of the medicine, the true name and business address of each such manufacturer:
+(2) The following particulars are required:
+  (a) the business address of the person in whose name the application is made:
   (b) the name under which the medicine will be distributed:
   (c) details of the method of manufacture of the medicine:
-  (d) a full statement of the ingredients named by the descriptive or non-proprietary names of the medicine, including details of the quantities in which they are present:
+  (d) qualitative and quantitative particulars of all ingredients of the medicine named by the descriptive or non-proprietary names of the ingredients:
   (e) a description of the quality of the raw materials used in the manufacture of the medicine:
-  (f) a description of the form or forms of the medicine:
-  (g) the proposed or recommended dosage and frequency of dose, and the manner in which the medicine will be recommended to be administered, applied, or otherwise used:
-  (h) the purposes for which the medicine will be recommended to be used, and the claims or representations to be made in respect of its usefulness:
-  (i) reports of any tests made to establish the safety of the medicine for the purposes for which and in the manner in which it is intended to be used:
-  (j) reports of any tests made to control the strength, quality, purity, or safety of the medicine and of the method of testing:
-  (k) any reports relating to the efficacy of the medicine:
-  (l) a translation into English, authenticated in such manner as the Director-General may require, of any report referred to in paragraph (i) or paragraph (j) or paragraph (k) that is not in English:
-  (m) any evidence to show that the distribution in any country other than New Zealand of the medicine in the form and for the purposes that it is proposed to be distributed in New Zealand has been approved or consented to by the appropriate authorities in that country:
-  (n) the intended method of distribution of the medicine in New Zealand:
-  (o) a coloured specimen of every label and other descriptive matter proposed to be used on or included in, or to accompany, packages or containers containing the medicine:
-  (p) the name and address of the place or places where the manufacture, preparation, or packing is intended to be carried out.
+  (f) a description of the form or forms of the medicine, the dosage, and the method and route of administration:
+  (g) the indications for which the medicine may be administered:
+  (h) reports of toxicological, pharmacological, and clinical studies that support the application:
+  (i) reports of any tests made to control or monitor the quality of the medicine, including any tests that relate to its stability:
+  (j) a translation into English, authenticated in a manner required in writing by the Director-General, of any report referred to in paragraph (h) or (i) that is not in English:
+  (k) any evidence to show that the distribution in any country other than New Zealand of the medicine in the form and for the purposes that it is proposed to be distributed in New Zealand has been approved or consented to by the appropriate authorities in that country:
+  (l) an accurate copy of every label and other descriptive matter proposed to be used on or included in, or to accompany, packages or containers containing the medicine:
+  (m) the name and address of the place or places where the manufacture, preparation, or packing is intended to be carried out.
 (3) Notwithstanding anything in subsection (1), in the case of a medicine to which section 20 applies by virtue of subsection (1) of that section, the notice deposited with the Director-General under section 24 shall, subject to subsections (4) and (5), be a sufficient application for the consent of the Minister under the said section 20.
 (4) At any time before the publication of a notice signifying the consent of the Minister to the distribution of a medicine in respect of which an application under section 20 has been made, the Director-General may, by notice in writing given to the person in whose name the application was made, require that person to supply—as the Director-General may specify in his notice.
   (a) such samples of the medicine; and
@@ -425,15 +419,84 @@ The Minister shall provide every committee appointed under section 8, and the Me
   (b) as far as practicable, weigh the likely therapeutic value of the medicine against the risk (if any) of the use of the medicine injuriously affecting the health of any person.
 (2) If, after complying with subsection (1), the Minister is not satisfied that he should give his consent to the distribution of the medicine, he shall refer the matter to the appropriate committee, which shall consider the matter, and shall report on it to the Minister with a recommendation as to the decision that the Minister should make.
 (3) On receipt of the recommendation of the appropriate committee under subsection (2), the Minister shall, before making his decision, if the recommendation is to refuse consent to the distribution of the medicine, notify the applicant for consent of the terms of the recommendation, and of the reasons for it.
-(4) The applicant for consent may, within 28 days after being notified under subsection (3) of the recommendation of the appropriate committee, object to the recommendation in writing to the Minister.
+(4) The applicant for consent may, within 20 working days after being notified under subsection (3) of the recommendation of the appropriate committee, object to the recommendation in writing to the Minister.
 (5) On receipt of an objection under subsection (4), the Minister shall, before making his decision, refer the matter to the Medicines Review Committee, which shall convene such meeting or meetings as may be necessary for it to consider the matter, and shall report on it to the Minister with a recommendation as to the decision that the Minister should make.
+
+### 22A Interpretation
+In this section and in sections 22C to 22F, unless the context otherwise requires,—
+  - **full evaluation** does not include an evaluation that is abbreviated, abridged, made in reliance on another evaluation, or simplified in any way
+  - **full marketing authorisation** —
+    (a) means an authorisation that permits the sale, distribution, and advertising of a medicine that is based on a full evaluation of the medicine by a recognised regulatory authority; but
+    (b) does not include a provisional, conditional marketing, emergency, or export-only authorisation
+  - **recognised regulatory authority** means a person or body declared to be a recognised regulatory authority by notice given in accordance with section 22B
+  - **rules** means rules made by the Minister under section 22E.
+
+### 22B Recognised regulatory authorities
+(1) The Minister may, by notice in the Gazette, declare a person or body (whether in New Zealand or overseas) to be a recognised regulatory authority if the Minister is satisfied that the person or body—
+  (a) is a regulator of medicines; and
+  (b) operates in a regulatory framework similar to that provided under this Act and other legislation relevant to—
+    (i) the matters that they must take into account in making decisions as a regulator; and
+    (ii) the decision-making process; and
+  (c) has a formal framework for co-operation with the Director-General; and
+  (d) uses international guidelines and standards in relation to medicines consistent with those used under this Act; and
+  (e) conducts their business and releases reports in English.
+(2) The Minister may revoke a declaration under subsection (1) if the Minister is satisfied that the recognised regulatory authority no longer meets 1 or more of the criteria in subsection (1).
+
+### 22C Application for Minister’s consent by verification
+(1) A person may apply for consent by verification by lodging the application with the Director-General.
+(2) Before the Minister considers an application under section 22D, the Director-General must decide within the period specified in the rules whether an application for consent by verification complies with subsection (3).
+(3) An application must contain all the particulars and be in the form required by—
+  (a) section 21(2); and
+  (b) the rules.
+(4) The Director-General may issue the applicant with 1 or more invoices for any fee payable under regulations in respect of the application.
+
+### 22D Minister’s consent by verification
+(1) Despite section 22, the Minister may, by notice, consent to the sale, distribution, and advertising of a new medicine if the Minister is satisfied that—
+  (a) any fee payable under regulations in respect of the application has been paid; and
+  (b) the new medicine—
+    (i) has a full marketing authorisation granted by 2 or more recognised regulatory authorities; and
+    (ii) is identical in all material respects to the medicine that has full marketing authorisation granted by 2 or more recognised regulatory authorities; and
+    (iii) meets the requirements for consent by verification set out in the rules; and
+    (iv) meets the relevant requirements of the Medicines Regulations 1984; and
+    (v) does not require independent assessment by the Director-General to contextualise the benefit-risk profile of the medicine due to local disease epidemiology, public health considerations, or New Zealand specific health risks; and
+    (vi) is not pending deferral of full marketing authorisation, or has not had full marketing authorisation rejected or withdrawn, by a recognised regulatory authority for quality, safety, or efficacy reasons; and
+    (vii) has not been subject to any regulatory action that may result or has resulted in a suspension or revocation of the market authorisation by a recognised regulatory authority.
+(2) A decision under subsection (1) may grant consent, refuse consent, or withdraw the application for resubmission as an assessment under section 22 or 23.
+(3) A decision under subsection (1) may be made subject to any conditions that the Minister considers appropriate in the circumstances.
+(4) The Minister must make a decision under subsection (1) within the time period specified in the rules, which begins on the date the fee payable under regulations in respect of the application is paid.
+(5) The Minister may request an applicant to provide further information or to amend an application (or both) if the Minister considers that—
+  (a) further information is required to assess the new medicine under subsection (1); or
+  (b) the information provided indicates that the medicine may not be suitable for use in New Zealand.
+(6) If the Minister makes a request under subsection (5), the time period specified for decision making in the rules ceases to run from the date the request is made until the date on which the applicant complies with the request.
+(7) A consent given under this section does not warrant the safety or efficacy of the medicine to which the consent relates.
+(8) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 22E Rules for Minister’s consent by verification
+(1) The Minister may make rules setting out requirements—
+  (a) relating to applications for consent by verification; and
+  (b) relating to medicines for which consent by verification is sought; and
+  (c) for lodging an application for consent by verification; and
+  (d) for processing an application for consent by verification.
+(2) Before making rules under this section, the Minister must consult the organisations or bodies that the Minister considers to be representative of persons likely to be substantially affected by the rules during a period of at least 8 weeks.
+(3) Subsection (2) does not apply if the Minister is satisfied that the rules make an amendment that is minor in effect or corrects a minor or technical error.
+(4) Rules made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 22F Powers of Minister after grant of consent
+(1) The Minister may request the holder of a consent by verification to provide further information in relation to that consent within a time frame specified in the request if the Minister has reason to believe that the medicine did not or may no longer meet the requirements in section 22D(1).
+(2) If the Minister has requested further information in relation to a consent, the Minister may suspend that consent for the period—
+  (a) starting on the date of the request; and
+  (b) ending no later than the close of the day on which the Minister decides whether to act under subsection (3).
+(3) The Minister may revoke the consent or impose conditions on the consent if,—
+  (a) having considered the further information provided by the holder of the consent, the Minister considers that there is reasonable doubt as to whether the medicine meets the requirements in section 22D(1); or
+  (b) the holder of the consent has not provided the information requested within the specified time frame.
+(4) The Minister may impose conditions on a consent by verification that the Minister considers appropriate in the circumstances at any time.
 
 ### 23 Minister may give provisional consent
 (1) Notwithstanding sections 20 to 22, the Minister may, by notice, in accordance with this section, give provisional consent to the sale or supply or use of a new medicine if the Minister is of the opinion that it is desirable that the medicine be sold, supplied, or used.
 (2) An application for the Minister's provisional consent under this section shall—
   (a) be made in accordance with paragraphs (b) and (ca) of section 21(1):
   (b) be addressed to the Director-General:
-  (c) state, or be accompanied by a statement of, the particulars specified in paragraphs (a) to (h) of section 21(2):
+  (c) state, or be accompanied by a statement of, the particulars specified in paragraphs (a) to (g) and (i) of section 21(2):
   (d) be determined by the Minister in accordance with section 22.
 (3) On giving his provisional consent under this section, the Minister may impose—as he thinks fit.
   (a) such conditions relating to the persons to whom the medicine may be sold or supplied; or
@@ -451,13 +514,14 @@ In this section, and in sections 23B and 23C, unless the context otherwise requi
     (a) a person who makes or has made, as the case may be, an application; and
     (b) a person on whose behalf an application is, or has been, made, as the case may be
   - **application** means an application for the consent of the Minister under section 20, or for the provisional consent of the Minister under section 23, in relation to a medicine
+  - **application for consent by verification** means an application for consent to be granted under section 22D allowing the sale, distribution, and advertising of a new medicine
   - **commencement date** means the date this section and sections 23B and 23C come into force
   - **confidential information** includes—
     (a) trade secrets; and
     (b) information with a commercial value that would, or would be likely to, be diminished by disclosure of the information
   - **confidential supporting information** means confidential information given—
     (a) in, or in relation to, an innovative medicine application; and
-    (b) about the medicine that is or was, as the case may be, the subject of that application
+    (b) about the medicine that is or was, as the case may be, the subject of that application or an application for consent by verification
   - **ingredient** includes a chemical or biological entity
   - **innovative medicine application** means,—
     (a) in relation to an application made after the commencement date, an application that refers to an active ingredient—
@@ -477,6 +541,11 @@ In this section, and in sections 23B and 23C, unless the context otherwise requi
         (A) the Minister has given or gives notice of consent, not being provisional consent, under section 20, or refused or refuses to give consent, in relation to the medicine that was the subject of the innovative medicine application; and
         (B) the date of publication of the notice of consent or the date of the refusal is or was, as the case may be, not more than 5 years after the Minister received an application in relation to that medicine,—
       (ii) in any other case, on the date 5 years after the innovative medicine application to which that information related was received by the Minister
+  - **verification protected period** means, in relation to confidential supporting information relating to an application for consent by verification, a period—
+    (a) commencing on the date that information was received by the Minister; and
+    (b) ending on the date 5 years after the date of—
+      (i) notification of consent; or
+      (ii) refusal of consent
   - **WTO country** means a country that is a party to the Agreement establishing the World Trade Organization adopted at Marrakesh on 15 April 1994.
 
 ### 23B Protection of confidential supporting information about innovative medicines
@@ -484,8 +553,13 @@ Where the Minister receives, or received not more than 5 years before the commen
   (a) shall take reasonable steps to ensure that that confidential supporting information is kept confidential to the Minister; and
   (b) shall not use that confidential supporting information for the purposes of determining whether to grant any other application.
 
-### 23C Circumstances where protection under section 23B does not apply
-(1) Notwithstanding section 23B, the Minister may, during the protected period in relation to confidential supporting information,—
+### 23BA Protection of confidential supporting information supplied in application for consent by verification
+If the Minister receives an application for consent by verification and confidential supporting information, the Minister must, during the verification protected period in relation to that confidential supporting information,—
+  (a) take reasonable steps to ensure that that confidential supporting information is kept confidential to the Minister; and
+  (b) not use that confidential supporting information for the purposes of determining whether to grant any other application.
+
+### 23C Circumstances where protection under section 23B or 23BA does not apply
+(1) Despite sections 23B and 23BA, the Minister may, during the protected period or verification protected period in relation to confidential supporting information,—
   (a) disclose that confidential supporting information, or use that confidential supporting information for the purposes of determining whether to grant any application other than the application to which it relates or related, as the case may be,—
     (i) with the consent of the applicant who made the application to which the confidential supporting information relates or related; or
     (ii) if that disclosure or use is, in the opinion of the Minister, necessary to protect the health or safety of members of the public; or
@@ -515,10 +589,10 @@ Where the Minister receives, or received not more than 5 years before the commen
   (c) the strength, quality, or purity of the medicine:
   (d) the methods of manufacture of the medicine, or the facilities for testing its strength, quality, purity, or safety:
   (e) the location of the premises in which the medicine is manufactured.
-(3) Except as provided in sections 25, 27, 28, 29, and 30, or with the prior written consent of the Director-General, no person shall—until after the expiry of at least 90 days after the date on which such notice is deposited with the Director-General.
+(3) Except as provided in sections 25, 27, 28, 29, and 30, or with the prior written consent of the Director-General, no person shall—until after the expiry of at least 64 working days after the date on which such notice is deposited with the Director-General.
   (a) sell any medicine in respect of which there has been made a material change of which notice is required to be deposited with the Director-General under subsection (1); or
   (b) supply any such medicine by way of gift or loan or sample, or in any other way—
-(4) Within 45 days after the receipt of any notice in accordance with subsection (1), the Director-General may, by written notice to the importer or manufacturer, require the importer or manufacturer to supply such further information or particulars, or such samples, as the Director-General may require with respect to any matter set out in the importer's or manufacturer's notice.
+(4) Within 32 working days after the receipt of any notice in accordance with subsection (1), the Director-General may, by written notice to the importer or manufacturer, require the importer or manufacturer to supply such further information or particulars, or such samples, as the Director-General may require with respect to any matter set out in the importer's or manufacturer's notice.
 (5) If the Director-General, after considering the particulars, information, or samples required by or under subsection (1) or subsection (4), is of the opinion, at any time within the period specified in subsection (3),—he shall refer the medicine to the Minister, and forthwith inform the importer or manufacturer by notice in writing that he has done so.
   (a) that the change is of such a character or degree that the medicine ought not, without the consent of the Minister,—
     (i) to be distributed in New Zealand; or
@@ -622,12 +696,43 @@ Notwithstanding anything in section 17 or section 18, but subject to the other p
   (a) under a designation that specifies only the plant from which it is made and the process to which the plant has been subjected during the production of the remedy, and does not apply any other name to the remedy; and
   (b) without any written recommendation (whether by means of a labelled container or package or a leaflet or in any other way) as to the use of the remedy.
 
-### 29 Exemption for medicine required by medical practitioner
-(1) Neither section 20 nor section 24 shall prevent—
-  (a) the supply by any person to any medical practitioner, on the medical practitioner's request, of any medicine required by that medical practitioner for the treatment of a particular patient currently under that medical practitioner's care; or
-  (b) the administration by any medical practitioner of any such medicine to any such patient.
-(2) Every person who, for the purposes of subsection (1), sells or supplies to any practitioner any medicine that is a new medicine by virtue of paragraph (a) of the definition of the term new medicine in section 3(3) before the consent of the Minister to the distribution of that medicine has been published under the Legislation Act 2019 shall, as soon as practicable after the end of every month in which he has so sold or supplied any such medicine, report that sale or supply to the Director-General in writing, naming the practitioner and patient, describing the medicine, and identifying the occasion when and the place where the medicine was so sold or supplied.
-(3) Without limiting section 48, if any person fails to comply with subsection (2), the Minister may, in the manner prescribed in that section but without complying with subsection (2) of that section, prohibit that person from selling and supplying any new medicine to which subsection (2) applies before the consent of the Minister to the distribution of that medicine has been published under the Legislation Act 2019.
+### 29 Exemption for medicine required by specified practitioners
+(1) Sections 20 and 24 do not prevent—
+  (a) a person supplying to a specified practitioner, on the request of the specified practitioner, any medicine that the specified practitioner requires for the treatment of a patient currently under their care; or
+  (b) a person supplying to a pharmacy practice a medicine described in paragraph (a) for dispensing by the pharmacy practice to the patient; or
+  (c) a specified practitioner administering a medicine described in paragraph (a) to the patient.
+(2) In this section,—
+  - **pharmacist prescriber** means a pharmacist who is a designated prescriber under the Medicines (Designated Pharmacist Prescribers) Regulations 2013
+  - **specified practitioner** means—
+    (a) a medical practitioner; or
+    (b) a nurse practitioner; or
+    (c) a pharmacist prescriber.
+(3)
+
+### 29A Exemption for funded alternative medicine
+(1) Sections 20 and 24 do not prevent—
+  (a) a person supplying to an authorised prescriber, on the authorised prescriber’s request, a funded alternative medicine required by that authorised prescriber for the treatment of a particular patient currently under that authorised prescriber’s care; or
+  (b) a person supplying to a pharmacy practice a medicine described in paragraph (a) for dispensing to the patient; or
+  (c) an authorised prescriber administering the funded alternative medicine to the patient.
+(2) In this section,—
+  - **funded alternative medicine** means a new medicine—
+    (a) that has not been granted consent by the Minister under section 20, 22D, or 23 of this Act; and
+    (b) that is listed in the pharmaceutical schedule by Pharmac as an alternative to a medicine that has been granted consent by the Minister under those provisions, because the consented medicine is in short supply
+  - **Pharmac** has the meaning given in section 4 of the Pae Ora (Healthy Futures) Act 2022
+  - **pharmaceutical schedule** has the meaning given in section 4 of the Pae Ora (Healthy Futures) Act 2022.
+
+### 29B Reporting sale or supply of new medicine exempted under section 29 or 29A
+(1) Subsections (2) and (3) apply to an importer or manufacturer who, for the purposes of section 29(1) or 29A(1), sells or supplies any medicine that is a new medicine by virtue of paragraph (a) of the definition of new medicine in section 3(3) before the notice of consent of the Minister to the distribution of that medicine has been published under the Legislation Act 2019.
+(2) The importer or manufacturer must, as soon as practicable after the end of every month in which they have sold or supplied the medicine, provide the following details to the Director-General in writing:
+  (a) the trade name and generic name of the medicine:
+  (b) the dose form:
+  (c) the strength:
+  (d) the pack size:
+  (e) the month and year of supply:
+  (f) the quantity sold or supplied.
+(3) The importer or manufacturer must—
+  (a) keep a record of the name of the authorised prescriber who requested the medicine, the name of the patient, and the place of supply; and
+  (b) provide the names and the place of supply to the Director-General on request.
 
 ### 30 Exemption for clinical trial
 (1) Notwithstanding section 20 or section 24, but subject to the succeeding provisions of this section, the importer or manufacturer in New Zealand of any medicine may distribute it for the sole purpose of obtaining clinical and scientific information with respect to its safety and efficacy, if the clinical trial, and the persons (in this section called the investigators) who will conduct the trial, have been approved by the Director-General on the recommendation of the Health Research Council of New Zealand.
@@ -649,7 +754,7 @@ Notwithstanding anything in section 17 or section 18, but subject to the other p
     (iii) the persons or classes of persons (if any) who are to be specially excluded from the trial; and
     (iv) any special measures proposed to be taken to ensure the safety of the patients:
   (g) the names and addresses of the institutions or laboratories where the medicines will be used by approved persons, and a description of the facilities that will be available to those persons.
-(4) The Director-General shall determine every application for his approval under this section within 45 days after the receipt of the application, and shall notify the applicant of his decision and (where he declines the application) the reasons for his decision.
+(4) The Director-General shall determine every application for his approval under this section within 32 working days after the receipt of the application, and shall notify the applicant of his decision and (where he declines the application) the reasons for his decision.
 (5) At any time after a clinical trial has been approved by the Director-General, the applicant may apply to the Director-General for the approval of an investigator, notwithstanding that the name of that person did not appear in the application for approval of the clinical trial; and paragraphs (a) to (c) of subsection (2), and paragraphs (c), (d), and (g) of subsection (3), shall apply in respect of every such application.
 (6) The Director-General may at any time, by notice in writing given to an applicant, require the applicant to supply such further information and particulars as he thinks fit relating to a clinical trial or to the identity and qualifications of an investigator.
 (7) The distribution of any medicine under this section shall be subject to the following conditions:
@@ -704,6 +809,16 @@ Notwithstanding sections 17 to 24 or anything in any licence, but subject to the
 ### 34 Exemption for sale by wholesale of medicines that are not prescription, restricted, or pharmacy-only medicines
 Section 17 does not apply in respect of the sale by wholesale of a medicine that is not a prescription medicine or a restricted medicine or a pharmacy-only medicine.
 
+### 34AA Exemption for advertising medicines at medical conferences
+(1) This section applies if the organiser of a medical conference notifies the Director-General at least 30 working days before the opening of the conference of the following:
+  (a) that 1 or more medicines that are not approved under section 20, 22D, or 23 will be advertised at the medical conference:
+  (b) the dates on which the medical conference will open and close:
+  (c) the location of the medical conference:
+  (d) whether the medicines have been approved by a recognised regulatory authority:
+  (e) whether applications for approval of the medicines under section 20, 22D, or 23 have been submitted to the Director-General.
+(2) Section 20(2)﻿(c) does not apply to a person who advertises at the medical conference the availability of the medicines.
+(3) In this section, medical conference means any conference, including an associated trade show, where the intended audience are health practitioners regulated under the Health Practitioners Competence Assurance Act 2003.
+
 **COVID-19 vaccines**
 
 ### 34A Director-General may authorise off-label administration of COVID-19 vaccines
@@ -732,7 +847,7 @@ Status of notice
 **Quality and standards**
 
 ### 35 Revocation and suspension of consents
-(1) The Minister may at any time, by notice, revoke, or suspend for such period as he may determine, any consent given under section 20 or section 23, if he is of the opinion that—
+(1) The Minister may at any time, by notice, revoke, or suspend for such period as they may determine, any consent given under section 20, 22D, or 23, if they are of the opinion that—
   (a) the medicine can no longer be regarded as a medicine that can be administered or used safely for the purposes indicated in the application for consent, or in a notice deposited under section 24; or
   (b) the specifications and standards with respect to the manufacture of the medicine that were included in the terms of a consent can no longer be regarded as satisfactory; or
   (c) the efficacy of the medicine can no longer be regarded as satisfactory.
@@ -812,9 +927,7 @@ No person may operate any pharmacy that is not for the time being under the imme
 (4) The requirements imposed by subsections (1) and (2) are in addition to the requirements imposed by section 47 or any regulations made under this Act.
 
 ### 42C Restriction on authorised prescribers and delegated prescribers holding interest in pharmacies
-(1) No authorised prescriber or delegated prescriber may hold an interest in a pharmacy other than a pharmacy for which the person holds a licence to operate, except with the consent of the licensing authority and in accordance with any conditions or restrictions imposed by that authority.
-(2) No person who has an interest in a pharmacy may permit or enable any authorised prescriber or delegated prescriber to hold or acquire that or any other interest in the pharmacy contrary to subsection (1).
-(3) The licensing authority may not give its consent under subsection (1) unless it is satisfied that there are sufficient safeguards to prevent the issue of prescriptions, the manner in which prescriptions are issued, or the other provision of health care by the authorised prescriber or delegated prescriber from being influenced by the commercial or financial interests of the authorised prescriber, or delegated prescriber, or any other person holding an interest in the pharmacy.
+[Repealed]
 
 **Miscellaneous provisions**
 
@@ -1389,7 +1502,7 @@ If a person who is a veterinarian, practitioner, pharmacist, nurse, optometrist,
 
 ### 89 Right of appeal to High Court
 (1) Subject to subsections (2) and (3), any person who is aggrieved by—may appeal to the High Court.
-  (a) a decision of the Minister refusing, revoking, or suspending any consent or approval, or imposing, varying, or adding to any conditions, under any of sections 20, 23, 24, and 35; or
+  (a) a decision of the Minister refusing, revoking, or suspending any consent or approval, or imposing, varying, or adding to any conditions, under any of sections 20, 22D, 23, 24, and 35; or
   (b) a decision to issue a notice under section 36(3) or section 37(1), or the imposition, variation, or addition of conditions under that section; or
   (c) a decision of the Medicines Review Committee made under section 88,—
 (2) The grounds on which an appeal may be brought under subsection (1) are—
