@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2025-10-22_
+_Consolidation as at 2025-11-19_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -17,7 +17,7 @@ This Act is the Education and Training Act 2020.
 (1) This Act, which sets out New Zealand’s education and training system (the system), is divided into 6 Parts.
 (2) This Part (Part 1) covers the following preliminary matters:
   (a) the purposes of this Act:
-  (b) the statement of national education and learning priorities:
+  (b)
   (c) the statement of expectations for agencies serving the system:
   (d) the strategies for tertiary education and international education:
   (e) Te Tiriti o Waitangi:
@@ -38,45 +38,7 @@ The purpose of this Act is to establish and regulate an education system that—
   (d) honours Te Tiriti o Waitangi and supports Māori-Crown relationships.
 
 ### 5 Minister may issue statement of national education and learning priorities
-(1) The Minister may, by notice in the Gazette, issue a statement of national education and learning priorities for early childhood education, primary education, and secondary education.
-(2) The notice may contain the statement in full or describe the statement in general terms and indicate where the full text can be obtained.
-(3) A statement issued under subsection (1)—
-  (a) must be consistent with the objectives set out in subsection (4); and
-  (b) must specify the date on which it takes effect; and
-  (c) remains in effect for a period of 5 years unless earlier withdrawn or replaced by notice in the Gazette; and
-  (d) must be published on an Internet site maintained by or on behalf of the Ministry.
-(4) The education and learning objectives for early childhood education, primary education, and secondary education are—
-  (a) to help each child and young person attain their educational potential; and
-  (b) to promote the development, in each child and young person, of the following abilities and attributes:
-    (i) resilience, determination, confidence, and creative and critical thinking:
-    (ii) good social skills and the ability to form good relationships:
-    (iii) participation in community life and fulfilment of civic and social responsibilities:
-    (iv) preparedness for work; and
-  (c) to instil, in each child and young person, an appreciation of the importance of—
-    (i) the inclusion of different groups and persons with different personal characteristics:
-    (ii) diversity, cultural knowledge, identity, and the different official languages:
-    (iii) Te Tiriti o Waitangi and te reo Māori.
-(5) Before issuing a statement, the Minister must comply with subsection (6) and consult those involved in early childhood education, primary education, and secondary education that the Minister thinks fit to consult.
-(6) The Minister must make reasonable efforts to consult—
-  (a) children and young people; and
-  (b) national bodies representing the interests of—
-    (i) teachers:
-    (ii) principals:
-    (iii) governing bodies of schools:
-    (iv) early childhood services:
-    (v) parents:
-    (vi) the disability community:
-    (vii) support staff in schools and early childhood services:
-    (viii) Māori education organisations:
-    (ix) Pacific education organisations:
-    (x) proprietors of State integrated schools; and
-  (c) national bodies that have a particular role in respect of the character of designated character schools and Kura Kaupapa Māori.
-(7) Minor changes to a statement issued under this section—
-  (a) may be made without undertaking the consultation required by subsections (5) and (6); and
-  (b) do not, for the purposes of subsection (3)﻿(c), constitute a withdrawal or replacement of the statement being changed.
-(8) A minor change under subsection (7) is limited to a technical, short, or uncontroversial amendment that does not change or extend the policy of the statement.
-(9)
-(10) Except as provided in subsection (3)﻿(a), the objectives set out in subsection (4) do not limit or affect the way in which any person is required to exercise a power or perform a function under Part 2 or 3.
+[Repealed]
 
 ### 6 Statement of expectations
 (1) The Minister and the Minister for Māori Crown Relations: Te Arawhiti may, for the purposes of providing equitable outcomes for all students, jointly issue a statement that sets out expectations for the following agencies:
@@ -114,18 +76,19 @@ The purpose of this Act is to establish and regulate an education system that—
 ### 9 Te Tiriti o Waitangi
 (1) The main provisions of this Act that recognise and respect the Crown’s responsibility to give effect to Te Tiriti o Waitangi are—
   (a) section 4, which states that the purpose of this Act includes establishing and regulating an education system that honours Te Tiriti o Waitangi and supports Māori-Crown relationships; and
-  (b) section 5(4)﻿(c)﻿(iii), which provides that any statement of national education and learning priorities issued by the Minister must be consistent with objectives for early childhood, primary, and secondary education and learning that include instilling in each child and young person an appreciation of the importance of Te Tiriti o Waitangi and te reo Māori; and
+  (b)
   (c) section 6, which provides that the Minister and the Minister for Māori Crown Relations: Te Arawhiti may, for the purpose of providing equitable outcomes for all students, and after consulting with Māori, jointly issue and publish a statement that specifies what the Ministry, TEC, NZQA, the Education Review Office, and Education New Zealand must do to give effect to public service objectives (set out in any enactment) that relate to Te Tiriti o Waitangi; and
-  (d) section 127(1)﻿(d), which provides that one of a board’s primary objectives in governing a school is to ensure that the school gives effect to Te Tiriti o Waitangi, including by—
-    (i) working to ensure that its plans, policies, and local curriculum reflect local tikanga Māori, mātauranga Māori, and te ao Māori; and
-    (ii) taking all reasonable steps to make instruction available in tikanga Māori and te reo Māori; and
-    (iii) achieving equitable outcomes for Māori students; and
+  (d)
   (e) subpart 6 of Part 3, which provides for the establishment and operation of Kura Kaupapa Māori, Te Aho Matua, and te kaitiaki o Te Aho Matua; and
   (f) subpart 3 of Part 4 and Part 4A, which provide for the establishment and operation of wānanga; and
   (g) section 321(c), which provides that the council of a polytechnic must ensure that the polytechnic operates in a way that allows the polytechnic to develop meaningful relationships and engage with communities at a local level, including with Māori employers and hapū and iwi.
 (2) Other provisions related to Te Tiriti o Waitangi in the context of the regulation of the education system include—
   (a) the definition of school community in section 10(1), which includes a Māori community associated with a school; and
   (b) section 17(2)﻿(a), which provides that before the Minister may grant approval to apply for an early childhood service, the Minister must take into account the availability of services in the area with different offerings, for example, the provision of te reo Māori; and
+  (ba) section 127(2)﻿(e), which provides that, when meeting its paramount objective in governing a school, the board must ensure that it—
+    (i) seeks to achieve equitable outcomes for Māori students; and
+    (ii) takes all reasonable steps to provide for students to be taught, and to learn, in te reo Māori on request of their parents or immediate caregivers; and
+    (iii) takes reasonable steps to ensure that the policies and practices for the school reflect New Zealand’s cultural diversity; and
   (c) section 278(2)﻿(a), which provides for Māori contribution to decision making in tertiary education and vocational education and training; and
   (d) section 281(1)﻿(b), which provides that councils of institutions have a duty, in the performance of their functions and the exercise of their powers, to acknowledge the principles of Te Tiriti o Waitangi; and
   (e) section 314(d), which provides that one of the characteristics of polytechnics is that they improve outcomes for Māori students and trainees and Māori communities in collaboration with Māori and iwi and interested persons or bodies; and
@@ -137,6 +100,7 @@ The purpose of this Act is to establish and regulate an education system that—
 
 ### 10 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **academic freedom** has the meaning given in section 267(4)
   - **academic year** means a period of 12 months commencing on 1 January
   - **accreditation** means the following:
     (a) an accreditation to provide an approved programme or part of a programme under section 441:
@@ -1798,27 +1762,30 @@ Other provisions relating to boards are set out in the following schedules:
 (1) A board may make bylaws that the board thinks necessary or desirable for the control and management of the school.
 (2) Before making a bylaw, the board must consult its staff, its students (to the extent that the board considers appropriate), and the school community regarding the proposed bylaw.
 
-### 127 Objectives of boards in governing schools
-(1) A board’s primary objectives in governing a school are to ensure that—
-  (a) every student at the school is able to attain their highest possible standard in educational achievement; and
-  (b) the school—
+### 127 Paramount objective of boards in governing schools
+(1) A board’s paramount objective in governing a school is to ensure that every student at the school is able to attain their highest possible standard in educational achievement.
+(2) To meet the paramount objective, the board must meet the following supporting objectives:
+  (a) to give effect to its obligation to take all reasonable steps to ensure that the school’s students attend the school when it is open:
+  (b) to ensure that the school uses good quality assessment and aromatawai information to monitor and evaluate students’ progress and achievement, including any assessment or aromatawai specified in a foundation curriculum policy statement:
+  (c) to ensure that the school—
     (i) is a physically and emotionally safe place for all students and staff; and
     (ii) gives effect to relevant student rights set out in this Act, the New Zealand Bill of Rights Act 1990, and the Human Rights Act 1993; and
-    (iii) takes all reasonable steps to eliminate racism, stigma, bullying, and any other forms of discrimination within the school; and
-  (c) the school is inclusive of, and caters for, students with differing needs; and
-  (d) the school gives effect to Te Tiriti o Waitangi, including by—
-    (i) working to ensure that its plans, policies, and local curriculum reflect local tikanga Māori, mātauranga Māori, and te ao Māori; and
-    (ii) taking all reasonable steps to make instruction available in tikanga Māori and te reo Māori; and
-    (iii) achieving equitable outcomes for Māori students.
-(2) To meet the primary objectives, the board must—
-  (a) have particular regard to the statement of national education and learning priorities issued under section 5; and
-  (b) give effect to its obligations in relation to—
+    (iii) takes all reasonable steps to eliminate racism, stigma, bullying, and any other forms of discrimination within the school:
+  (d) to ensure that the school is inclusive of, and caters for, students with differing needs:
+  (e) to ensure that it—
+    (i) seeks to achieve equitable outcomes for Māori students; and
+    (ii) takes all reasonable steps to provide for students to be taught, and to learn, in te reo Māori on request of their parents or immediate caregivers; and
+    (iii) takes reasonable steps to ensure that the policies and practices for the school reflect New Zealand’s cultural diversity:
+  (f) to give effect to its obligations in relation to—
     (i) any foundation curriculum statements, national curriculum statements, and national performance measures; and
     (ii) teaching and learning programmes; and
-    (iii) monitoring and reporting students’ progress; and
-  (c) perform its functions and exercise its powers in a way that is financially responsible; and
-  (d) if the school is a member of a community of learning that has a community of learning agreement under clause 2 of Schedule 5, comply with its obligations under the agreement; and
-  (e) comply with all of its other obligations under this or any other Act.
+    (iii) monitoring and reporting students’ progress:
+  (g) to perform its functions and exercise its powers in a way that is financially responsible:
+  (h) if the school is a member of a community of learning that has a community of learning agreement under clause 2 of Schedule 5, to comply with its obligations under the agreement:
+  (i) to comply with all of its other obligations under this or any other legislation.
+(3) In this section,—
+  - **paramount objective** means the highest-priority objective
+  - **supporting objective** means an objective that is essential and supports the paramount objective.
 
 ### 128 Staff
 A board may, in accordance with this Act, appoint, suspend, and dismiss school staff.
@@ -1845,7 +1812,7 @@ A board may, in accordance with this Act, appoint, suspend, and dismiss school s
 (4) A board may do an act under this section only for the purpose of performing its functions.
 
 ### 133 Board’s policies and practices must reflect cultural diversity
-A board must take all reasonable steps to ensure that the policies and practices for its school reflect New Zealand’s cultural diversity.
+[Repealed]
 
 ### 134 Statements of variance and annual reports
 (1) A board must give the Secretary—
@@ -1885,6 +1852,26 @@ A board must ensure that its annual report is available to the public on an Inte
 (1) A board must provide its audited annual financial statements to the Secretary no later than 31 May in the year after the previous financial year.
 (2) The Minister must make available (including, without limitation, by electronic means) to a member of Parliament on request from that member of Parliament any statement provided to the Secretary under subsection (1).
 (3) The statement must be made available not later than 1 month after the request was received by the Minister.
+
+**Attendance management**
+
+### 137A Attendance management plan
+(1) A board must have an attendance management plan for its school.
+(2) The attendance management plan must—
+  (a) set out a strategy and a process for the school to identify and respond to student absences, for the purpose of returning students to attendance (as required under section 36); and
+  (b) comply with any regulations made under section 638 relating to the content of attendance management plans.
+
+### 137B Preparing attendance management plan
+In preparing an attendance management plan, a board must have regard to any guidelines on the management of school attendance issued by the Secretary.
+
+### 137C Review of attendance management plan
+(1) A board must review its attendance management plan in accordance with regulations made under section 638.
+(2) Following the review, the board must—
+  (a) readopt the plan; or
+  (b) adopt a new or amended plan.
+
+### 137D Attendance management plan to be on Internet site
+A board must ensure that its attendance management plan is available to the public on an Internet site maintained by or on behalf of the board.
 
 **Strategic planning and reporting**
 
@@ -2820,10 +2807,8 @@ A sponsor must—
     (i) a chief executive to be responsible for the day-to-day management of the school:
     (ii) a person to be the person responsible overall for teaching and learning at the school who is appropriately qualified and holds a current practising certificate; and
   (e) ensure that teachers employed in the school have the necessary qualifications and skills to teach; and
-  (f) ensure that the school’s chief executive and staff develop and deliver a curriculum for teaching, learning, and assessment—
-    (i) having regard to any statement of national education and learning priorities; and
-    (ii) that meets tuition standards at least equivalent to those at State schools of the same year levels; and
-  (g) in operating the school, have regard to any statement of national education and learning priorities; and
+  (f) ensure that the school’s chief executive and staff develop and deliver a curriculum for teaching, learning, and assessment that meets tuition standards at least equivalent to those at State schools of the same year levels; and
+  (g)
   (h) ensure that students have access to a nationally and internationally recognised qualification system; and
   (i) inform parents of the progress of their children at school, and any barriers to progress, at intervals specified in the charter school contract; and
   (j) make details of the curriculum and its mode of delivery available to parents; and
@@ -3665,8 +3650,26 @@ The functions of an institution’s council are—
   (c) to encourage the greatest possible participation by the communities served by the institution so as to maximise the educational potential of all members of those communities, with particular emphasis on groups in those communities that are under-represented among the students of the institution:
   (d) to ensure that the institution does not discriminate unfairly against any person:
   (e) to ensure that the institution operates in a financially responsible manner that ensures the efficient use of resources and maintains the institution’s long-term viability:
-  (f) to ensure that proper standards of integrity, conduct, and concern for the public interest and the well-being of students attending the institution are maintained.
+  (f) to ensure that proper standards of integrity, conduct, and concern for the public interest and the well-being of students attending the institution are maintained:
+  (g) if the institution is a university, to protect and promote—
+    (i) academic freedom, in accordance with section 267; and
+    (ii) freedom of expression, in accordance with the university’s statement adopted under section 281A.
 (2) In addition, a polytechnic’s council must comply with the additional duties set out in section 321.
+
+### 281A Requirement for university council to adopt statement on freedom of expression
+(1) The council of a university must develop and adopt a statement that sets out the university’s approach to freedom of expression.
+(2) The statement must be consistent with the following:
+  (a) universities should recognise that freedom of expression is critical to maintaining academic freedom:
+  (b) universities should actively foster an environment where ideas can be challenged, controversial issues can be discussed, and diverse opinions can be expressed:
+  (c) universities’ policies and procedures relating to freedom of expression should be clear, consistently applied, and focused on fostering genuine debate rather than restricting it:
+  (d) universities, as institutions, should not take public positions on matters that do not directly concern their role or functions:
+  (e) universities should not limit the freedom of expression of staff or students, except where the exercise of free expression is likely to be unlawful or to disrupt the ordinary activities of the university:
+  (f) universities should provide a platform for invited speakers of diverse viewpoints, and should not deny the use of university premises by an invited speaker because of that speaker’s ideas or opinions.
+(3) In subsection (2)﻿(f), invited speaker means a speaker invited by staff or any student association or student club of the university.
+
+### 281B Requirement for university council to establish complaints procedure relating to academic freedom and freedom of expression
+(1) The council of a university must establish and maintain a complaints procedure relating to academic freedom and freedom of expression.
+(2) See also section 306(4)﻿(h), which requires the nature and number of complaints relating to academic freedom and freedom of expression to be included in the council’s annual report.
 
 **Powers of institutions and councils**
 
@@ -3967,7 +3970,11 @@ The money of an institution may be applied only—
     (i) under-represented in the institution’s student body; or
     (ii) disadvantaged in terms of their ability to attend the institution; and
   (f) in the case of an institution that has a plan, a statement of service performance for that financial year reporting on the performance of the institution as compared with the proposed outcomes described in that plan; and
-  (g) in the case of an institution that is a university or a wānanga, a statement of the number of employees or former employees of the university or wānanga who, in their capacity as employees, received remuneration of $100,000 or more (including compensation or other benefits) in the year to which the report relates and the number of those employees or former employees in each bracket of remuneration in $10,000 increments.
+  (g) in the case of an institution that is a university or a wānanga, a statement of the number of employees or former employees of the university or wānanga who, in their capacity as employees, received remuneration of $100,000 or more (including compensation or other benefits) in the year to which the report relates and the number of those employees or former employees in each bracket of remuneration in $10,000 increments; and
+  (h) in the case of an institution that is a university,—
+    (i) a report on how the council of the university has complied with its duties to protect and promote academic freedom and freedom of expression set out in section 281(1)﻿(g); and
+    (ii) a report on the number and nature of complaints made under the complaints procedure established under section 281B for the year to which the annual report relates; and
+    (iii) a report on any other matters prescribed by regulations made under section 651B.
 (5) Section 156 of the Crown Entities Act 2004 applies to institutions and, for that purpose, is to be read as referring to a statement of service performance under subsection (4)﻿(f).
 (6) A statement of service performance under subsection (4)﻿(f) must be prepared in accordance with generally accepted accounting practice, within the meaning of section 8 of the Financial Reporting Act 2013.
 (7) The Minister must present the report to the House of Representatives within 5 working days after receiving the report or, if Parliament is not in session, as soon as practicable after the commencement of the next session of Parliament.
@@ -5115,10 +5122,11 @@ A private training establishment that contravenes section 343 commits an offence
 ## Part 4A — Wānanga
 
 ### 398A Outline of Part 4A
-(1) This Part, which concerns wānanga, is divided into 4 subparts.
+(1) This Part, which concerns wānanga, is divided into 5 subparts.
 (2) Subpart 1 deals with various preliminary matters.
 (3) Subpart 2 concerns the administration of category A wānanga.
 (4) Subpart 3 concerns the administration of category B wānanga.
+(4A) Subpart 4 concerns the conversion of category A wānanga or category C wānanga to category B wānanga.
 (5) Subpart 5 concerns the disestablishment of wānanga.
 
 ### 398B Purpose of Part 4A
@@ -6374,19 +6382,16 @@ A review officer who exercises any power under section 472 must, before exercisi
 
 ### 475 Composition of Teaching Council
 (1) The Teaching Council comprises 13 members as follows:
-  (a) 6 members appointed by the Minister in accordance with section 476:
-  (b) 7 elected members, being—
+  (a) 7 members appointed by the Minister in accordance with section 476:
+  (b) 6 elected members, being—
     (i) 1 teacher representing the early childhood education sector, elected by teachers from that sector; and
     (ii) 1 teacher representing the primary education sector, elected by teachers from that sector; and
     (iii) 1 teacher representing the secondary education sector, elected by teachers from that sector; and
-    (iv) 1 teacher educator, elected by registered teachers working in the fields of initial and ongoing teacher education; and
+    (iv)
     (v) 1 principal representing the primary education sector, elected by principals from that sector; and
     (vi) 1 principal representing the secondary education sector, elected by principals from that sector; and
     (vii) 1 early childhood education service leader, representing leadership in the early childhood education sector, elected by leaders from that sector.
-(2) Each of the elected members must be a registered teacher holding a current practising certificate, except the teacher educator, who need not hold a current practising certificate but must—
-  (a) be a registered teacher; and
-  (b) have 5 or more years of experience in the field of initial teacher education or ongoing teacher education, or both; and
-  (c) be currently working in one of those fields.
+(2) Each of the elected members must be a registered teacher holding a current practising certificate.
 (3) The Minister—
   (a) must appoint one of the members appointed or elected under this section as chairperson; and
   (b) may appoint one of the members appointed or elected under this section as a deputy chairperson.
@@ -6427,7 +6432,7 @@ A review officer who exercises any power under section 472 must, before exercisi
     (ii) who ceases to hold a current practising certificate; or
     (iii) whose registration as a teacher is suspended; or
     (iv) whose practising certificate is suspended.
-(2) Subsection (1)﻿(g)﻿(ii) and (iv) does not apply to teacher educators.
+(2)
 
 ### 478 Purpose of Teaching Council
 The purpose of the Teaching Council is to ensure safe and high-quality leadership, teaching, and learning for children and young people in early childhood, primary, and secondary schooling in English-medium and Māori-medium settings, and settings of other languages, through raising the status of the profession.
@@ -6452,13 +6457,17 @@ The purpose of the Teaching Council is to ensure safe and high-quality leadershi
   (j) to establish and maintain—
     (i) standards for ongoing practice; and
     (ii) criteria for the issue of practising certificates of different kinds:
+  (ja) to review, at any time, the standards for ongoing practice or criteria for the issue of practising certificates established under paragraph (j), and, after consulting the Minister,—
+    (i) vary, delete, or replace 1 or more of the standards or criteria; or
+    (ii) add 1 or more standards or criteria; or
+    (iii) delete all the standards or criteria and substitute new standards or criteria:
   (k) to establish and maintain a code of conduct for teachers under section 485:
   (l) to monitor and enforce the requirements relating to mandatory reporting in this subpart and Schedule 3:
   (m) to perform the disciplinary functions in this subpart relating to teacher misconduct and reports of teacher convictions:
   (n) to set the criteria for reporting serious misconduct and for reporting on competence issues:
   (o) to perform the functions in this subpart relating to teacher competence:
   (p) to co-ordinate a system providing for the vetting by the Police of all teachers:
-  (pa) to prosecute, as the Teaching Council considers appropriate, breaches of the requirements of this Act relating to teacher registration, practising certificates, and limited authorities to teach:
+  (pa) to prosecute, as the Teaching Council considers appropriate, breaches of the requirements of this Act relating to mandatory reports to the Teaching Council, teacher registration, practising certificates, and limited authorities to teach:
   (q) to perform any other functions conferred on it by this Act or any other enactment.
 (2) The functions that the Teaching Council may perform, with the written approval of the Minister, are as follows:
   (a) to provide leadership to the education profession:
@@ -6468,6 +6477,9 @@ The purpose of the Teaching Council is to ensure safe and high-quality leadershi
 (4) The Teaching Council has and may exercise all other powers conferred by this Act or reasonably necessary for the purpose of performing its functions.
 (5) For the purposes of subsection (3), governing body means the board of a State school or a service provider that operates any licensed early childhood service or any certified playgroup, or the managers of a private school.
 (6) When performing its functions and exercising its powers, the Teaching Council must act in accordance with the rules of natural justice.
+(7) When performing its functions under subsection (1)﻿(g), (h), or (i), the Teaching Council must—
+  (a) consult the Secretary; and
+  (b) have regard to any advice given by the Secretary.
 
 ### 480 Teaching Council fees, levies, and costs
 (1) The Teaching Council may, by notice,—
@@ -6509,7 +6521,10 @@ The purpose of the Teaching Council is to ensure safe and high-quality leadershi
 
 ### 483 Reports
 (1) At least every 3 years, following consultation with teachers, the Government, and the public, the Teaching Council must publish on an Internet site maintained by or on behalf of the Teaching Council a report setting out its strategic direction for the next 5 years.
-(2) The Teaching Council must present to the House of Representatives an annual report on its operations, including (without limitation) the audited financial statements of the Teaching Council.
+(2) The Teaching Council must present to the House of Representatives an annual report on its operations.
+(3) The annual report must include (without limitation)—
+  (a) the audited financial statements of the Teaching Council; and
+  (b) a report on how the Teaching Council has complied with the requirement under section 482(5) to have regard to any relevant statement of Government policy.
 
 ### 484 Advisory committees
 The Teaching Council may establish advisory committees for specific aspects of its operation or for particular issues as it sees fit.
@@ -6634,14 +6649,15 @@ The Teaching Council may establish advisory committees for specific aspects of i
   (b) refer the teacher concerned to a competency review:
   (c) refer the teacher concerned to an impairment process, which may involve either or both of the following:
     (i) assessment of an impairment:
-    (ii) assistance with an impairment.
+    (ii) assistance with an impairment:
+  (d) refer the matter back to the Teaching Council.
 (2A) Subsection (2)﻿(b) does not apply to an employee in a charter school who holds a limited authority to teach.
 (3) If the Complaints Assessment Committee makes a finding of misconduct or serious misconduct, with the agreement of the teacher concerned, it may do 1 or more of the following:
   (a) censure the teacher:
-  (b) impose conditions on the teacher’s practising certificate or authority, including (without limitation) requiring the teacher to undergo supervision or professional development:
+  (b) impose conditions on the teacher’s practising certificate or authority for a specified period, including (without limitation) requiring the teacher to undergo supervision or professional development:
   (c)
   (d) annotate the register or the list of authorised persons in a specified manner:
-  (e) direct the Teaching Council to impose conditions on any subsequent practising certificate issued to the teacher.
+  (e) direct the Teaching Council to impose conditions on any subsequent practising certificate or authority issued to the teacher.
 (4) The Complaints Assessment Committee may, at any time, refer a matter to the Disciplinary Tribunal for a hearing.
 (5) The Complaints Assessment Committee must refer to the Disciplinary Tribunal any matter if the Committee considers that either of the following powers is likely to be considered in order to address the matter:
   (a) the power to suspend a teacher’s practising certificate or authority under section 500(1)﻿(d):
@@ -6695,7 +6711,7 @@ The Teaching Council may establish advisory committees for specific aspects of i
   (g) order that the teacher’s registration or authority or practising certificate be cancelled:
   (h) require any party to the hearing to pay costs to any other party:
   (i) require any party to pay a sum to the Teaching Council in respect of the costs of conducting the hearing:
-  (j) direct the Teaching Council to impose conditions on any subsequent practising certificate issued to the teacher.
+  (j) direct the Teaching Council to impose conditions on any subsequent practising certificate or authority issued to the teacher.
 (1A) Despite subsection (1)﻿(a), the Disciplinary Tribunal may not refer an employee in a charter school who holds a limited authority to teach to a competency review.
 (2) Despite subsection (1), following a hearing that arises out of a report under section 493 of the conviction of a teacher, the Disciplinary Tribunal may not do anything specified in subsection (1)﻿(f), (h), or (i).
 (3) A fine imposed on a teacher under subsection (1)﻿(f), and a sum ordered to be paid to the Teaching Council under subsection (1)﻿(i), are recoverable as debts due to the Teaching Council.
@@ -6779,13 +6795,13 @@ Sections 506 to 509 do not apply to an employee in a charter school who holds a 
 ### 508 Powers of Competence Authority after finding required level of competence not attained
 Following any investigation by the Teaching Council under section 506, or of a report received by the Teaching Council under section 507 and referred to the Competence Authority, the Competence Authority may, if satisfied that a teacher has not attained the required level of competence,—
   (a) do any 1 or more of the following:
-    (i) impose conditions on the teacher’s practising certificate or authority:
+    (i) impose conditions on the teacher’s practising certificate or authority for a specified period:
     (ii) refer the teacher to an impairment process, which may involve either or both of the following:
       (A) assessment of an impairment:
       (B) assistance with an impairment:
     (iii) annotate the register or the list of authorised persons in a specified manner, in relation to any action taken under subparagraph (i):
     (iv) direct the Teaching Council to impose conditions on any subsequent practising certificate or authority issued to the teacher; or
-  (b) order the Teaching Council to cancel the teacher’s registration, practising certificate, or authority.
+  (b) order that the teacher’s registration, practising certificate, or authority be cancelled.
 
 ### 509 Appeals against decisions of Competence Authority
 (1) A teacher who is the subject of a decision by the Competence Authority made under section 508 may appeal against that decision to the District Court.
@@ -6924,7 +6940,7 @@ The purpose of this subpart is to ensure that international students trust New Z
 (2) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 523 Board or sponsor must reimburse the Crown for expenditure relating to international students
-(1) The Minister must, by notice, set fees to be paid by the following:
+(1) The Minister may, by notice, set fees to be paid by the following:
   (a) boards in respect of international students enrolled at State schools:
   (b) sponsors in respect of international students enrolled at charter schools.
 (2) Fees may be set for 1 or more of the following:
@@ -7828,7 +7844,7 @@ Except as otherwise provided in this subpart, the Employment Relations Act 2000 
   (b) is engaged in without reasonable care.
 
 ### 589 Strikes in schools to be notified
-(1) A strike by employees of any board is not lawful for the purposes of the Employment Relations Act 2000 unless the Public Service Commissioner and each board are given notice in written or electronic form of the proposed strike 3 days before the commencement of the proposed strike.
+(1) A strike by employees of any board is not lawful for the purposes of the Employment Relations Act 2000 unless the Public Service Commissioner and each board are given notice in written or electronic form of the proposed strike not less than 7 days before the commencement of the proposed strike.
 (2) The notice required by subsection (1) must state—
   (a) the nature of the proposed strike, including—
     (i) whether or not the proposed action will be continuous; and
@@ -8046,8 +8062,8 @@ The council, for just cause or excuse, may remove the chief executive from offic
   (b) an undertaking by the person that, if the person defaults on the condition, the person must repay the amount paid under the agreement (in full or as specified in the agreement).
 (3) The Minister may require the agreement with the person to be signed by a guarantor, in which case the person and the guarantor are jointly and severally liable.
 
-### 617 Minister must issue eligibility criteria relating to appointment of principals
-(1) The Minister must issue eligibility criteria that must be met by applicants for appointment to the position of principal for the purposes of—
+### 617 Minister may issue eligibility criteria relating to appointment of principals
+(1) The Minister may issue eligibility criteria that must be met by applicants for appointment to the position of principal for the purposes of—
   (a) ensuring consistency in the skills, competencies, knowledge, and expertise that applicants for appointment to the position must demonstrate; and
   (b) supporting better understanding of the background and experience needed for school leadership among persons aspiring to the role of a principal as part of their future career; and
   (c) providing confidence to boards in making appointments; and
@@ -8397,7 +8413,14 @@ The right of parents who have children in early childhood centres to enter the p
     (ii) allowing boards to vary the time at which any 1 or more half-days take place subject to any specified preconditions or requirements:
     (iii) allowing boards to run multiple timetable arrangements unconditionally or subject to any specified preconditions or requirements:
     (iv) authorising the Minister, by notice, to determine the matters set out in subparagraphs (i) to (iii), and authorising the Minister to delegate the power to determine those matters to the Secretary in relation to any individual school:
-  (f) provide for the circumstances in which the Secretary may direct that a student be enrolled at a school.
+  (f) provide for the circumstances in which the Secretary may direct that a student be enrolled at a school:
+  (g) provide for matters relating to attendance management plans under sections 137A to 137D, including (without limitation)—
+    (i) specifying thresholds (applying to schools other than distance schools), based on the number of days a student is absent within a school term, to trigger a school’s actions and responses to a student’s absence:
+    (ii) specifying thresholds applying to distance schools to trigger a distance school’s actions and responses to a student’s absence:
+    (iii) prescribing required content of attendance management plans, including (without limitation) requiring information about how the school intends to—
+      (A) identify issues that make attendance challenging for a student:
+      (B) respond to student absences at the specified thresholds and to underlying causes of student absence:
+    (iv) specifying the period in which a board must review its attendance management plan and readopt the plan or adopt a new or amended plan.
 (3) Regulations made under this section prescribing a course of study may not restrict the method by or manner in which any subject forming part of the course is to be taught, except to the extent necessary to ensure that the teaching of the subject is consistent with the general aims of the course.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) If the regulations authorise the Minister to determine matters referred to in subsection (2)﻿(e)—
@@ -8589,6 +8612,10 @@ The right of parents who have children in early childhood centres to enter the p
 
 ### 651A Regulations relating to applications to operate charter schools
 (1) The Governor-General may, by Order in Council, make regulations prescribing, or providing for the fixing of, the fee payable for an application made under section 212F to operate a charter school.
+(2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 651B Regulations relating to annual reporting requirements for university council
+(1) The Governor-General may, by Order in Council, make regulations prescribing information relating to academic freedom and freedom of expression that must be included in the annual report of the council of a university, for the purpose of measuring performance and establishing benchmarks.
 (2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 652 General regulations
@@ -10417,6 +10444,41 @@ An appointment of a member to an industry skills board by the Minister is valid 
 (1) This clause applies to an apprenticeship training code issued under section 378 (as it read immediately before commencement) and in force immediately before commencement.
 (2) The apprenticeship training code continues in force on and after commencement and must be treated as if it were issued under section 384 (as replaced by the amendment Act).
 
+### Part 8 — Provisions relating to Education and Training Amendment Act 2025
+
+### 194 Interpretation
+In this Part,—
+  - **amendment Act** means the Education and Training Amendment Act 2025
+  - **commencement date** means the date on which the amendment Act comes into force.
+
+**Attendance management plans**
+
+### 195 Requirement to have attendance management plan
+(1) A board (other than the board of a distance school) is not required to have an attendance management plan under section 137A for its school until the first day after 25 January 2026 on which the school is open for instruction.
+(2) The board of a distance school is not required to have an attendance management plan until 20 July 2026.
+
+**Statement on freedom of expression**
+
+### 196 Requirement to adopt statement on freedom of expression
+The council of a university is not required to adopt a statement on freedom of expression under section 281A for the university until 6 months after the commencement date.
+
+**National student numbers**
+
+### 197 Validation of national student numbers assigned to or used in relation to researchers
+(1) This clause applies to a national student number assigned to, or used in relation to, a researcher before the commencement date.
+(2) The assignment or use of the national student number is valid and declared to be, and to always have been, lawful.
+(3) In this clause, researcher means an individual who is, or was, employed or engaged by a tertiary education organisation and carries out, or carried out, research or research-led teaching.
+
+**Teaching Council membership**
+
+### 198 End of teacher educator’s term of office
+(1) This clause applies to the member of the Teaching Council holding office under section 475(1)﻿(b)﻿(iv) immediately before the commencement date.
+(2) The member’s term of office ends on the commencement date.
+
+### 199 Initial appointment of additional member under section 475(1)﻿(a)
+(1) This clause applies to the first appointment by the Minister of the additional member of the Teaching Council under section 475(1)﻿(a) (as amended by the amendment Act).
+(2) The Minister need not comply with section 476(3) when appointing the member.
+
 ## Schedule 2 — Special institutions
 
 ## Schedule 2A — Free kindergarten associations
@@ -10470,7 +10532,11 @@ The Teaching Council must register an applicant under clause 1 if satisfied that
 ### 7 Voluntary deregistration
 The Teaching Council must deregister a person if—
   (a) the Teaching Council receives a written request from the person seeking deregistration; and
-  (b) the Teaching Council is satisfied that the person is not the subject of an investigation under subpart 4 of Part 5.
+  (b) the Teaching Council is satisfied that the person is not the subject of any of the following:
+    (i) a mandatory report under any of sections 489 to 493:
+    (ii) a complaint made under section 495(2) or section 506(2):
+    (iii) a matter referred to the Complaints Assessment Committee under section 496(2):
+    (iv) a matter referred to the Disciplinary Tribunal under section 497(5).
 
 ### 8 Teaching Council to keep register of people registered as teachers
 (1) The Teaching Council must keep a register of people who are registered as teachers.
@@ -10478,8 +10544,15 @@ The Teaching Council must deregister a person if—
 (3) The Teaching Council may annotate the register following—
   (a) an interim suspension under section 498; or
   (b) an action by a disciplinary body under section 497 or 500; or
-  (c) an action by the Competence Authority under section 508.
-(4) In the case where the register is annotated following an interim suspension, the annotation must be removed or corrected as soon as practicable after the matter is concluded (as specified in section 499(6)).
+  (c) an action by the Competence Authority under section 508; or
+  (d) a cancellation of a person’s registration under clause 6(1)﻿(a) or (b); or
+  (e) a voluntary deregistration under clause 7; or
+  (f) a conviction of a teacher in the circumstances described in subclause (5); or
+  (g) an agreement between a teacher and the Teaching Council (due to a report or complaint that is about or involves the teacher’s possible serious misconduct) that the teacher will not teach until the agreement is ended.
+(4) If the register is annotated following an agreement not to teach in accordance with subclause (3)﻿(g) or an interim suspension, the annotation must be removed or corrected as soon as practicable after the agreement is ended or the matter is concluded (as specified in section 499(6)).
+(5) For the purposes of subclause (3)﻿(f), the circumstances are that the teacher—
+  (a) has been convicted of a specified offence as defined in section 23(1) of the Children’s Act 2014; and
+  (b) has not been granted an exemption under section 35 of that Act in respect of that conviction.
 
 ### 9 Matching of register information and information about payment of teacher salaries at payrolled schools
 (1) The purpose of this clause is to facilitate the exchange of information between the Ministry and the Teaching Council for the purposes of enabling—
@@ -10637,8 +10710,14 @@ Any person may apply to the Teaching Council for a limited authority to teach.
 (3) The Teaching Council may annotate the list following—
   (a) an interim suspension under section 498(2); or
   (b) an action by a disciplinary body under section 497 or 500; or
-  (c) an action by the Competence Authority under section 508.
-(4) In the case where the list is annotated following an interim suspension, the annotation must be removed or corrected as soon as practicable after the matter is concluded (as specified in section 499(6)).
+  (c) an action by the Competence Authority under section 508; or
+  (d) a cancellation of a person’s limited authority to teach under clause 17(1)﻿(a) or (b); or
+  (e) a conviction of a holder of a limited authority to teach in the circumstances described in subclause (5); or
+  (f) an agreement between a holder of a limited authority to teach and the Teaching Council (due to a report or complaint that is about or involves the person’s possible serious misconduct) that the person will not teach until the agreement is ended.
+(4) If the list is annotated following an agreement not to teach in accordance with subclause (3)﻿(f) or an interim suspension, the annotation must be removed or corrected as soon as practicable after the agreement is ended or the matter is concluded (as specified in section 499(6)).
+(5) For the purposes of subclause (3)﻿(e), the circumstances are that the person—
+  (a) has been convicted of a specified offence as defined in section 23(1) of the Children’s Act 2014; and
+  (b) has not been granted an exemption under section 35 of that Act in respect of that conviction.
 
 ### 22 Fees and costs for granting limited authority to teach
 [Repealed]
@@ -10790,7 +10869,7 @@ The board of a State school, the sponsor, or the managers of a private school th
 (1) A community of learning that has a community of learning agreement with the Secretary must—
   (a) prepare and maintain a plan to cover a period agreed to by the Secretary; and
   (b) provide the Secretary with a copy of the plan.
-(2) The plan must have particular regard to any statement of national education and learning priorities issued under section 5.
+(2)
 (3) A community of learning that changes a plan provided to the Secretary must provide the Secretary with a copy of the changed plan as soon as practicable.
 
 ### 4 Report to Secretary by community of learning
@@ -11308,9 +11387,7 @@ The criteria for registration as a private school are that the school—
 (3) If the management of a private school changes in its entirety or is transferred to a new entity, the new managers must give notice to the Secretary and an assessment under subclause (1) must be made of the new managers of the school.
 
 ### 7 Manager must have regard to statement of national education and learning priorities
-The manager of a private school must,—
-  (a) in operating the school, have regard to any statement of national education and learning priorities; and
-  (b) ensure that, in developing and delivering the curriculum, the school’s principal and staff have regard to any statement of national education and learning priorities.
+[Repealed]
 
 **Managers to advise Secretary of private school ceasing operation**
 
@@ -13593,14 +13670,18 @@ Before a person is elected, co-opted, or appointed as a board member, the person
 ## Schedule 24 — National student numbers
 
 ### 1 Interpretation
-In this schedule, unless the context otherwise requires, education provider means—
-  (a) an early childhood service; and
-  (b) a registered school; and
-  (c) a tertiary education organisation; and
-  (d) an education provider that is in a jurisdiction described in section 455(2)﻿(b) and that provides teaching and assessment of NCEA standards in that jurisdiction.
+In this schedule, unless the context otherwise requires,
+  - **education provider** means—
+    (a) an early childhood service; and
+    (b) a registered school; and
+    (c) a tertiary education organisation; and
+    (d) an education provider that is in a jurisdiction described in section 455(2)﻿(b) and that provides teaching and assessment of NCEA standards in that jurisdiction
+  - **researcher** means any individual employed or engaged by a tertiary education organisation who carries out research or research-led teaching.
 
 ### 2 Purpose
-The purpose of this schedule is to authorise the use by specified users of national student numbers for specific purposes, in order to facilitate the accurate use and transfer, by specified users, of information relating to individual students.
+The purpose of this schedule is to authorise the use of national student numbers by specified users for specific purposes in order to facilitate the accurate use and transfer, by specified users, of information relating to—
+  (a) individual students:
+  (b) the research performance of researchers and the associated funding of tertiary education organisations.
 
 ### 3 Assigning national student numbers
 (1) The Secretary may cause to be assigned a national student number to—
@@ -13609,7 +13690,8 @@ The purpose of this schedule is to authorise the use by specified users of natio
     (ii) has been granted an exemption under section 38 or 39:
   (b) any child aged under 6 years if the Secretary has reasonable grounds to believe that the child—
     (i) is unlikely to attend an early childhood service; and
-    (ii) is likely to benefit from attending the early childhood service.
+    (ii) is likely to benefit from attending the early childhood service:
+  (c) a researcher.
 (2) For the purposes of this clause, student includes a student who is studying in a jurisdiction described in section 455(2)﻿(b) and who is receiving teaching and assessment of NCEA standards in that jurisdiction.
 
 ### 4 Use of national student numbers
@@ -13619,7 +13701,7 @@ The purpose of this schedule is to authorise the use by specified users of natio
   (c) must restrict the use of national student numbers to 1 or more of the following purposes:
     (i) monitoring and ensuring student enrolment and attendance:
     (ii) encouraging attendance at early childhood services:
-    (iii) ensuring education providers and students receive appropriate resourcing:
+    (iii) ensuring education providers, researchers, and students receive appropriate resourcing:
     (iiia) ensuring that employers and students receive appropriate resourcing and support for work-based training:
     (iv) statistical purposes:
     (v) research purposes:
