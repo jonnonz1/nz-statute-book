@@ -1,5 +1,5 @@
 # Fast-track Approvals Act 2024
-_Consolidation as at 2025-05-30_
+_Consolidation as at 2025-11-21_
 
 ### 1 Title
 This Act is the Fast-track Approvals Act 2024.
@@ -1988,7 +1988,7 @@ The following may not be lodged before 7 February 2025:
 | Sanford Limited | Project East | Establish and operate 2 open-ocean salmon farms, comprising up to approximately 20 circular floating pen structures and a centralised barge for every 10 pens | 40 hectares (in total) across 2 sites in the coastal marine area approximately 15 kilometres north of Otago Harbour |
 | Sanford Limited | Sanford Second Greenshell Mussel Spat Hatchery | Construct and operate a land-based Greenshell mussel spat hatchery, comprising—primary buildings and plant, including structures on land and in the coastal marine areaa water intake structure within the coastal marine area | Near Waipapa Bay, State Highway 1, Clarence, Kaikoura District, Canterbury Region |
 | Silver Creek Limited | Silver Creek | Develop approximately 1,050 residential dwellings | 32 hectares at 4 Tree Tops Rise, Queenstown |
-| SolarGen Joint Venture (Genesis Energy Limited and FRV Australia) | Foxton Solar Farm | Construct and operate a solar farm across approximately 400 hectares, and connect and supply electricity to the national grid | 400 hectares at 304, 352, 364, and 508 Walls Road, Foxton and 191, 229, 231, and 447 Motuiti Road, Foxton |
+| Genesis Energy Limited | Foxton Solar Farm | Construct and operate a solar farm across approximately 400 hectares, and connect and supply electricity to the national grid | 400 hectares at 304, 352, 364, and 508 Walls Road, Foxton and 191, 229, 231, and 447 Motuiti Road, Foxton |
 | South Island Resource Recovery Limited | Project Kea | Develop and operate a waste incineration plant | 14.85 hectares on Moven-Glenavy Road, Waimate |
 | Southern Screenworks Limited | Southern Screenworks Quarry Extension and Managed Fill | Expand the extraction of aggregate from the existing quarry, and establish and operate a managed fill facility | 50 Bealey Road, Aylesbury, Christchurch |
 | Stevenson Aggregates Limited | Drury Quarry Expansion—Sutton Block | In stages, develop a quarry with a maximum pit depth of 60 metres over a 50-year period, to be serviced using existing infrastructure and facilities | 100 hectares adjacent to the existing Drury Quarry (southeast of Drury) at 121 MacWhinney Drive, Drury, 1189 Ponga Road, Drury, and Ponga Road, Papakura |
