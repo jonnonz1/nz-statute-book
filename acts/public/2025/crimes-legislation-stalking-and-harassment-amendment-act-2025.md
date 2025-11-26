@@ -5,7 +5,7 @@ _Consolidation as at 2025-11-26_
 This Act is the Crimes Legislation (Stalking and Harassment) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force 6 months after Royal assent.
+This Act comes into force on 26 May 2026.
 
 ## Part 1 — Amendments to Crimes Act 1961
 
