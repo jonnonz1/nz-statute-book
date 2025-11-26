@@ -5,7 +5,7 @@ _Consolidation as at 2025-11-26_
 This Act is the Statutes Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 27 November 2025.
 
 ## Part 1 — Amendments to Accident Compensation Act 2001
 
