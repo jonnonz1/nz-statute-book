@@ -1,5 +1,5 @@
 # Housing Act 1955
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-11-27_
 
 ### 1 Short title
 This Act may be cited as the Housing Act 1955.
@@ -217,7 +217,7 @@ Subject to the provisions of this Part, Kāinga Ora–Homes and Communities may 
   (b) by consent of the owners for the time being of all the land against the title to which the certificate is for the time being registered:
   (c) by order of the High Court made, subject to section 30, on application to the High Court in that behalf.
 (4) Any certificate, consent, or order to which subsection (3) relates shall, upon presentation for registration, be registered by the Registrar-General of Land as if it were an easement certificate.
-(5) A registration fee of 1 pound shall be payable on any certificate, consent, or order which may be registered under this section.
+(5) A registration fee prescribed under the Land Transfer Act 2017 is payable on any certificate, consent, or order which may be registered under this section.
 (6) Notwithstanding any rule of law or enactment to the contrary, any easement certificate registered under this section shall be deemed to be binding on any prior or subsequent mortgagee of any of the land or of any interest in any of the land affected by the certificate, and no consent under the Local Government Act 2002 or otherwise shall be necessary to the issue or registration thereof.
 (7)
 (8) The Registrar-General of Land shall not be concerned to inquire as to the truth of any statement contained in any certificate presented for registration under this section, and no action shall lie against the Crown or the Registrar-General of Land or any other person (other than Kāinga Ora–Homes and Communities) on behalf of the Crown in respect of any such registration.
