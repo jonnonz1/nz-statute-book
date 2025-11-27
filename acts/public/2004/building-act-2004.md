@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2025-10-25_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -1384,7 +1384,7 @@ As soon as practicable after the expiry of 3 years beginning on the commencement
 (2) In deciding whether to grant a waiver or modification under subsection (1), the territorial authority must have regard to all of the relevant circumstances (including the particular characteristics of the pool and the land on which it is situated).
 
 ### 68 Territorial authority must notify chief executive if waiver or modification granted
-If a territorial authority grants a building consent subject to a waiver or modification of the building code, the territorial authority must notify the chief executive of the waiver or modification.
+If a territorial authority grants a waiver or modification under section 67 or 67A, the territorial authority must notify the chief executive of the waiver or modification.
 
 ### 69 Waiver or modification may only be granted by chief executive in certain cases
 (1) This section applies to a waiver or modification of the building code that relates to—
@@ -3717,7 +3717,7 @@ In sections 177 to 190, party, in relation to a determination, means any or all 
   (e) a compliance schedule:
   (f) a notice to fix.
 (3) Subsection (1)﻿(b) applies to any power of decision of a territorial authority in respect of, or under, all or any of the following:
-  (a) any waiver or modification of the building code under section 67:
+  (a) any waiver or modification under section 67 or 67A:
   (b) a certificate of acceptance under section 96:
   (c) an exemption from building consent requirements under clause 2 of Schedule 1:
   (d) an amendment to a compliance schedule under section 106, 107, or 109:
