@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -256,7 +256,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
     (a) means a cash transaction that occurs outside of a business relationship and is equal to or above the applicable threshold value (whether the transaction is carried out in a single operation or several operations that appear to be linked); and
     (b) includes a transaction or class of transactions declared by regulations to be an occasional transaction for the purposes of this Act; but
     (c) excludes—
-      (i) cheque deposits; and
+      (i) cheque deposits made at a registered bank or non-bank deposit taker; and
       (ii) a transaction or class of transactions declared by regulations not to be an occasional transaction for the purposes of this Act
   - **occasional transaction or activity** means—
     (a) an occasional transaction:
@@ -463,7 +463,7 @@ A reporting entity must obtain the following identity information in relation to
 
 ### 16 Standard customer due diligence: verification of identity requirements
 (1) A reporting entity must—
-  (a) take reasonable steps to satisfy itself that the information obtained under section 15 is correct; and
+  (a) take reasonable steps to satisfy itself that the information obtained under section 15 (other than the information obtained under section 15(d)) is correct; and
   (b) according to the level of risk involved, take reasonable steps to verify any beneficial owner's identity so that the reporting entity is satisfied that it knows who the beneficial owner is; and
   (c) if a person is acting on behalf of the customer, according to the level of risk involved, take reasonable steps to verify the person's identity and authority to act on behalf of the customer so that the reporting entity is satisfied it knows who the person is and that the person has authority to act on behalf of the customer; and
   (d) verify any other information prescribed by regulations.
@@ -577,7 +577,9 @@ In the circumstances described in section 18(1)﻿(a), a reporting entity must a
 ### 24 Enhanced customer due diligence: verification of identity requirements
 (1) A reporting entity must—
   (a) conduct the verification of identity requirements for standard customer due diligence set out in section 16; and
-  (b) according to the level of risk involved, take reasonable steps to verify the information obtained under section 23(1)﻿(a); and
+  (b) according to the level of risk involved, take reasonable steps to verify the information obtained under—
+    (i) section 15(d); and
+    (ii) section 23(1)﻿(a); and
   (c) verify any other information prescribed by regulations.
 (2) Except as provided in subsection (3), a reporting entity must carry out verification of identity before establishing a business relationship or conducting an occasional transaction or activity.
 (3) Verification of identity may be completed after the business relationship has been established if—
@@ -774,11 +776,10 @@ For the purposes of this subpart,—
       (v) the investigation or prosecution of an offence (within the meaning of section 243(1) of the Crimes Act 1961).
 
 ### 40 Reporting entities to report suspicious activities
-(1) Subsections (3) and (4) apply to reporting entities other than high-value dealers.
-(2) Subsection (5) applies to high-value dealers.
-(3) If this subsection applies, the reporting entity must, as soon as practicable but no later than 3 working days after forming its suspicion, report the activity, or suspicious activity, to the Commissioner in accordance with section 41.
-(4) Nothing in subsection (3) requires any person to disclose any information that the person believes on reasonable grounds is a privileged communication.
-(5) A high-value dealer may report a suspicious activity to the Commissioner.
+(1) A reporting entity other than a high-value dealer or law firm must, as soon as practicable but no later than 3 working days after forming its suspicion, report the activity, or suspicious activity, to the Commissioner in accordance with section 41.
+(2) A law firm must, as soon as practicable, but no later than 5 working days after forming its suspicion, report the activity or suspicious activity to the Commissioner in accordance with section 41.
+(3) Despite subsection (2), a law firm is not required to disclose any information that the law firm believes on reasonable grounds is a privileged communication.
+(4) A high-value dealer may report a suspicious activity to the Commissioner.
 
 ### 41 Nature of suspicious activity report
 (1) Except as provided in subsection (2), a report under section 40 must—
@@ -887,7 +888,7 @@ An AML/CFT supervisor that has, in the performance and exercise of its functions
 ### Subpart 2A — Prescribed transaction reports
 
 ### 48A Reporting entities to report certain prescribed transactions
-(1) Despite any other enactment or rule of law, but subject to any regulations made under section 154, if a person conducts a prescribed transaction through a reporting entity, the reporting entity must (as soon as practicable, but not later than 10 working days after the transaction) report the transaction to the Commissioner in accordance with section 48B.
+(1) Despite any other enactment or rule of law, but subject to any regulations made under section 154, if a person conducts a prescribed transaction through a reporting entity, the reporting entity must (as soon as practicable, but not later than 20 working days after the transaction) report the transaction to the Commissioner in accordance with section 48B.
 (2) Nothing in subsection (1) requires any lawyer to disclose any privileged communication (as defined in section 42).
 
 ### 48B Prescribed transaction reports
