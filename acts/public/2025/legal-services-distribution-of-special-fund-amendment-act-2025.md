@@ -5,7 +5,7 @@ _Consolidation as at 2025-11-27_
 This Act is the Legal Services (Distribution of Special Fund) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 28 November 2025.
 
 ### 3 Principal Act
 This Act amends the Legal Services Act 2011.
