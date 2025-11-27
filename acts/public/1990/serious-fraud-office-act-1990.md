@@ -1,5 +1,5 @@
 # Serious Fraud Office Act 1990
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2025-11-27_
 
 > An Act—ato facilitate the detection and investigation by the Serious Fraud Office of cases of serious or complex fraud; andbto enable proceedings relating to such fraud to be taken expeditiously; andcto provide for matters incidental upon the establishment of the Serious Fraud Office
 
@@ -261,10 +261,10 @@ No person shall be excused from answering any question, supplying any informatio
 **Provisions relating to Public Service Act 2020 and other matters**
 
 ### 29 Responsible Minister
-For the purposes of the Public Service Act 2020, the Attorney-General shall be responsible for the Serious Fraud Office.
+[Repealed]
 
 ### 30 Independence in matters relating to investigations
-(1) Notwithstanding section 29, in any matter relating to any decision to investigate any suspected case of serious or complex fraud, or to take proceedings relating to any such case or any offence against this Act, the Director shall not be responsible to the Attorney-General, but shall act independently.
+(1) In any matter relating to any decision to investigate any suspected case of serious or complex fraud, or to take proceedings relating to any such case or any offence against this Act, the Director shall not be responsible to any Minister of the Crown, but shall act independently.
 (2) Nothing in this section shall limit or affect any power exercisable by the Attorney-General in relation to any proceedings.
 
 ### 31 Chief executive of Serious Fraud Office
