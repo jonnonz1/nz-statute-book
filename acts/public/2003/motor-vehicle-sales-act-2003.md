@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2025-10-22_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -964,7 +964,22 @@ A search of the list for personal information that has not been carried out in a
   (b) the Minister directs that the name of the person be removed from the panel for inability to perform the duties of an assessor; or
   (c) the period during which the person's name may be included on the panel has expired; or
   (d) the person requests by writing addressed to the Minister that the person's name be removed.
-(5) If subsection (4)﻿(c) or (d) applies, the person may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
+(5)
+
+### 88A Continuation of approval of assessors
+(1) If a person’s name is removed from the panel of assessors under section 88(4)﻿(c), the person still continues as a member of the panel until—
+  (a) the person is reappointed; or
+  (b) a successor is appointed; or
+  (c) the person is informed in writing by the Minister that the person is not to be reappointed.
+(2) A person who continues as a member of the panel of assessors for any period under subsection (1) may act as an assessor during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Disputes Tribunal on which the person sat before the expiry of the person’s period of approval as a member of the panel:
+  (b) hearing any other proceedings.
+(3) If a person’s name is removed from the panel of assessors under section 88(4)﻿(d), the person still continues as a member of the panel until—
+  (a) a successor is appointed; or
+  (b) the person is informed in writing by the Minister that the person is not to be replaced.
+(4) A person who continues as a member of the panel of assessors for any period under subsection (3) may act as an assessor during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Disputes Tribunal on which the person sat before their resignation:
+  (b) hearing any other proceedings.
 
 **Jurisdiction**
 
@@ -1586,7 +1601,7 @@ Proceedings before the Disputes Tribunal must be commenced by the filing of an a
 
 ### 9E Service of summons
 (1) Every summons issued under clause 9D must be served on the person to whom it is directed, either by personally delivering it to that person or, if that person refuses to accept it, by bringing it to that person’s attention, within a reasonable time before the time specified in the summons for that person’s attendance.
-(2) There must be paid or tendered to the witness at the time of service of the summons, or at any other reasonable time before the time at which the witness’s attendance is required, the sum that the Registrar estimates to be payable to the witness under clause 9G for allowances and travelling expenses (but not for fees).
+(2) There must be paid or tendered to the witness at the time of service of the summons, or at any other reasonable time before the time at which the witness’s attendance is required, the sum that an officer of a Disputes Tribunal estimates to be payable to the witness under clause 9G for allowances and travelling expenses (but not for fees).
 (3) A witness is not obliged to comply with a summons issued under clause 9D unless the sum specified in subclause (2) is paid or tendered to the witness in accordance with that subclause.
 
 ### 9F Obligation on witness to attend extends to adjourned proceedings
@@ -1665,7 +1680,7 @@ The Ministry of Justice must pay assessors the remuneration and allowances deter
 **Appeals**
 
 ### 16 Appeals from decision of Disputes Tribunal
-(1) Any party who is dissatisfied with a decision given by a Disputes Tribunal may, within 10 working days after notice of the decision is given to that party, appeal to a District Court Judge.
+(1) Any party who is dissatisfied with a decision given by a Disputes Tribunal may, within 10 working days after notice of the decision is given to that party, appeal to a District Court Judge in accordance with the District Court Act 2016 and the District Court Rules 2014.
 (2) If the amount of the claim exceeds $12,500, the appeal may be brought on either of the following grounds:
   (a) that the Disputes Tribunal's decision was wrong in fact or law, or in both fact and law; or
   (b) that the proceedings were conducted by the Disputes Tribunal in a manner that was unfair to the appellant and prejudicially affected the result of the proceedings.
