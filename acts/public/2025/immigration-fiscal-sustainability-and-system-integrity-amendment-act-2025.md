@@ -5,10 +5,10 @@ _Consolidation as at 2025-11-27_
 This Act is the Immigration (Fiscal Sustainability and System Integrity) Amendment Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after Royal assent, with some exceptions.
-(2) Sections 4(2) and (3), 16, 17, 34(2), 37, 38(1) to (3), 39, 43(3), 45(4), 46(2), 50, 52, and 54(1) (which make amendments in relation to decisions about applications for a warrant of commitment) come into force 3 months after Royal assent.
-(3) Sections 18, 19, 20(1) to (3), 21 to 25, and 67 (which make amendments in relation to deportation) come into force 6 months after Royal assent.
-(4) Sections 43(4), 48, 49, 51, 53, and 62 to 64 (which make amendments to introduce electronic monitoring as a condition of release of a person liable to arrest and detention) come into force on the first anniversary of Royal assent.
+(1) This Act comes into force on 28 November 2025, with some exceptions.
+(2) Sections 4(2) and (3), 16, 17, 34(2), 37, 38(1) to (3), 39, 43(3), 45(4), 46(2), 50, 52, and 54(1) (which make amendments in relation to decisions about applications for a warrant of commitment) come into force on 27 February 2026.
+(3) Sections 18, 19, 20(1) to (3), 21 to 25, and 67 (which make amendments in relation to deportation) come into force on 27 May 2026.
+(4) Sections 43(4), 48, 49, 51, 53, and 62 to 64 (which make amendments to introduce electronic monitoring as a condition of release of a person liable to arrest and detention) come into force on 27 November 2026.
 
 ### 3 Principal Act
 This Act amends the Immigration Act 2009.
@@ -737,7 +737,7 @@ In section 372(2), replace and 351 with 351, and 351A.
 ### Subpart 10 — Amendments relating to miscellaneous provisions
 
 ### 60 Section 378 amended (Special directions)
-(1) Before 378(2)﻿(a), insert:
+(1) Before section 378(2)﻿(a), insert:
   (aaa) varying or cancelling conditions of resident visas in relation to any class of persons, in accordance with section 50(4A):
   (aab) imposing, varying, or cancelling conditions of temporary entry class visas in relation to any class of persons, in accordance with section 52(4A) or 53(4A):
   (aac) waiving 1 or more prescribed requirements for applying for a visa in relation to any class of persons, in accordance with section 57(3):
