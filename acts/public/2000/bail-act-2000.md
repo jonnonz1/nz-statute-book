@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2025-03-13_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -112,8 +112,8 @@ Unless expressly stated otherwise in this or in any other enactment, any decisio
 (4B) However, despite subsection (4A), the court may take into account the cooperation by the defendant with authorities in the investigation or prosecution of any offence if that cooperation is relevant to the court's assessment of the risk that the defendant will fail to appear in court, interfere with witnesses or evidence, or offend while on bail.
 (5)
 
-### 9 Restriction on bail if defendant charged with treason or espionage
-No defendant who is charged with a crime against section 73 or section 76 of the Crimes Act 1961 (which relate to treason) or against section 78 of the Crimes Act 1961 (which relates to espionage) may be granted bail except by order of the Governor-General or a High Court Judge.
+### 9 Restriction on bail if defendant charged with certain offences
+No defendant who is charged with a crime against section 73 or section 76 of the Crimes Act 1961 (which relate to treason) or against section 78 of the Crimes Act 1961 (which relates to espionage) or against section 78AAA of the Crimes Act 1961 (which relates to improper conduct for or on behalf of a foreign power to compromise a protected New Zealand interest) or against section 78AAB of the Crimes Act 1961 (which relates to the commission of an imprisonable offence for or on behalf of a foreign power to provide a relevant benefit) may be granted bail except by order of the Governor-General or a High Court Judge.
 
 ### 9A Restriction on bail if defendant charged with murder
 (1) This section applies to a defendant who is charged with murder under section 167 or 168 of the Crimes Act 1961 and who is—
