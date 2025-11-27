@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2023-04-05_
+_Consolidation as at 2025-11-27_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -1819,7 +1819,7 @@ For the purpose of this clause, a related offence in section 61 includes a relat
 | Sexual intercourse with girl between 12 and 16 | section 134(1) |
 | Indecency with girl between 12 and 16 | section 134(2) |
 | Indecent assault on woman or girl | section 135 |
-| Sexual intercourse with severely subnormal woman or girl | section 138 |
+| Sexual intercourse with certain persons | section 138 |
 | Abduction of woman or girl | section 208 |
 | Abduction of child under 16 | section 210 |
 
