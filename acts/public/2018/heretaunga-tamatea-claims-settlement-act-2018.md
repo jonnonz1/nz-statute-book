@@ -1,5 +1,5 @@
 # Heretaunga Tamatea Claims Settlement Act 2018
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Heretaunga Tamatea Claims Settlement Act 2018.
@@ -1090,6 +1090,16 @@ In subparts 1 to 3,—
 (5) Section 11 and Part 10 of the Resource Management Act 1991 do not apply to the transfer or to any matter incidental to, or required for the purpose of, the transfer.
 (6) In exercising the powers conferred by section 81, the Crown is not required to comply with any other enactment that would otherwise regulate or apply to the transfer.
 (7) Subsection (6) is subject to subsections (2) and (3).
+
+### Subpart 1A — Subdivision of transferred deferred selection property
+
+### 86A 14 Mangarau Crescent marginal strip ceases if subdivision proceeds
+(1) This section applies if the requirements are met for the Registrar-General to deposit Land Transfer Plan 601308 for the purpose of section 11(1)﻿(a)﻿(i) of the Resource Management Act 1991.
+(2) The 14 Mangarau Crescent marginal strip ceases to be a marginal strip under Part 4A of the Conservation Act 1987.
+(3) The Registrar-General must, before creating new records of title for the subdivision authorised by that Land Transfer Plan, amend the notation on record of title HBW2/148 to record that the land is subject to Part 4A of the Conservation Act 1987, but that section 24 of that Act does not apply.
+(4) In this section,—
+  - **14 Mangarau Crescent** means the land comprising 0.8081 hectares, more or less, being Lot 1 DP 26535 and Lot 12 Deeds Plan 82, all record of title HBW2/148
+  - **14 Mangarau Crescent marginal strip** means the marginal strip reserved from the transfer of 14 Mangarau Crescent from the Crown to the trustees under section 81.
 
 ### Subpart 2 — Licensed land
 
