@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-11-27_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -4209,7 +4209,7 @@ No action under section 345 or section 346 or section 350 in respect of the disc
 [Repealed]
 
 ### 365 Production of certificate of insurance
-The master of a ship must produce any certificate of insurance required by section 363 or section 364 on demand if requested by a harbourmaster, any officer of Customs, or the Director.
+The master of a ship must produce any certificate of insurance required by section 363 on demand if requested by a harbourmaster, any officer of Customs, or the Director.
 
 ### 366 Rights of third parties against insurers of regulated oil tankers and regulated ships
 (1) If the owner of any ship is alleged to have incurred liability under any or all of sections 344, 345, and 346, proceedings to enforce a claim in respect of that liability may be brought against the insurer.
