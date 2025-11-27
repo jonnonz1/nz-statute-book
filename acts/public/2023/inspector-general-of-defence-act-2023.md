@@ -1,5 +1,5 @@
 # Inspector-General of Defence Act 2023
-_Consolidation as at 2023-07-26_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Inspector-General of Defence Act 2023.
@@ -369,7 +369,7 @@ Before disclosing information, a document, or another thing under section 10, 15
   (b) working for, or providing a service to, the Inspector-General.
 (3) Subsections (1) and (2) do not apply to proceedings for—
   (a) an offence against section 46:
-  (b) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961:
+  (b) an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961:
   (c) an offence of conspiring to commit an offence against any of those sections of the Crimes Act 1961:
   (d) an offence of attempting to commit an offence against any of those sections of the Crimes Act 1961.
 
@@ -553,7 +553,7 @@ The Inspector-General must not, in a report of an investigation, make a comment,
   (f) an advisor appointed under section 49.
 (2) Subsection (1) does not apply to proceedings for—
   (a) an offence against section 46:
-  (b) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961:
+  (b) an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961:
   (c) an offence of conspiring to commit an offence against any of those sections of the Crimes Act 1961:
   (d) an offence of attempting to commit an offence against any of those sections of the Crimes Act 1961.
 
