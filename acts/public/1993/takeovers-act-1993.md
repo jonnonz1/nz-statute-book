@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2025-11-27_
 
 > Title
 
@@ -173,9 +173,9 @@ The object of this Act is to—
 (1) No proceedings, civil or criminal, shall lie against the Panel for anything it may do or fail to do in the course of the exercise or intended exercise of its functions, unless it is shown that the Panel acted without reasonable care or in bad faith.
 (2) No proceedings, civil or criminal, lie against any member of the Panel, or any officer or employee of the Panel, or any member of a committee of the Panel, for anything that person may do or say or fail to do or say in the course of the operations of the Panel, unless it is shown by the Panel that the person acted in bad faith.
 (3) Nothing in subsections (1) and (2) applies in respect of proceedings for—
-  (a) an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961; or
-  (b) the offence of conspiring to commit an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961; or
-  (c) the offence of attempting to commit an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961.
+  (a) an offence against section 78 or section 78AAA or section 78AAB or section 78AA or section 78A or section 105 or section 105A of the Crimes Act 1961; or
+  (b) the offence of conspiring to commit an offence against section 78 or section 78AAA or section 78AAB or section 78AA or section 78A or section 105 or section 105A of the Crimes Act 1961; or
+  (c) the offence of attempting to commit an offence against section 78 or section 78AAA or section 78AAB or section 78AA or section 78A or section 105 or section 105A of the Crimes Act 1961.
 (3A) Section 59(3) of the Crown Entities Act 2004 (which provides that a statutory entity may bring an action against a member for breach of an individual duty) does not apply, unless it is shown that the person acted in bad faith.
 (3B) Sections 122 to 126 of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
 (3C) This section contains an exception to section 121 of the Crown Entities Act 2004.
@@ -583,9 +583,9 @@ No person is excused from answering any question or providing any information or
   (a) proceedings in respect of the falsity of any testimony; or
   (b) proceedings to which the Panel is a party; or
   (c) proceedings in respect of—
-    (i) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
-    (ii) the offence of conspiring to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
-    (iii) the offence of attempting to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961.
+    (i) an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+    (ii) the offence of conspiring to commit an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+    (iii) the offence of attempting to commit an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961.
 (3) This section does not limit the application of the Official Information Act 1982.
 
 ### Subpart 2 — Enforcement by court
