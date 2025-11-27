@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2025-09-25_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -326,7 +326,7 @@ The purposes of interdepartmental executive boards are—
   (e) clauses 5 and 6 of Schedule 6 (relating to delegation of functions and powers of appropriate Minister):
   (f) clause 7 of Schedule 6 (relating to functions, responsibilities, duties, and powers under other Acts):
   (g) other provisions in this Act that expressly apply.
-(2) A board may delegate administrative tasks to its servicing department, and clauses 2 to 4 of Schedule 6 apply to a delegation.
+(2) A board may delegate administrative tasks to its servicing department.
 (3) See section 52(4) and (5), which relates to the responsibilities of the chief executive of the servicing department of an interdepartmental executive board for the performance of functions and duties, and the exercise of powers, of the board.
 
 ### 28 Members of board responsible to appropriate Minister
@@ -1283,7 +1283,7 @@ The Commissioner has all the powers that are reasonably necessary or desirable t
   (b) if requested by the head of an agency, may, and, if requested by the Minister responsible for an agency, must, perform functions or exercise powers under section 44 and clauses 1 to 4 and 8 to 11 in relation to an agency:
   (c) if requested by the head of an agency, or of any organisation listed in Schedule 1 of the State-Owned Enterprises Act 1986, may provide assistance for the setting or application of conditions of employment of its employees.
 (3) A direction by the Prime Minister must be in writing and must specify which functions or powers are to be performed or exercised by the Commissioner.
-(4) When performing a function or exercising a power in relation to an agency under section 44(b) (relating to promoting integrity, accountability, and transparency), or section 17 or 18 (relating to integrity and conduct), the Commissioner may also perform functions or exercise powers under clauses 1 to 4 and 8 to 11.
+(4) When performing a function or exercising a power in relation to an agency under section 44(b) (relating to promoting integrity, accountability, and transparency), or section 17, 18, or 19 (relating to integrity and conduct), the Commissioner may also perform functions or exercise powers under clauses 1 to 4 and 8 to 11.
 (5) In this clause, section 44 and clauses 1 to 4 and 8 to 11 apply as if the relevant agency were a department, with any necessary modifications.
 (6) This clause does not—
   (a) limit or affect any provision of this Act or another Act; or
@@ -1379,7 +1379,7 @@ The Commissioner has all the powers that are reasonably necessary or desirable t
 The Commissioner may incorporate the report required under clause 14 with the report required by section 43 of the Public Finance Act 1989 on the operations of the Commission for the relevant financial year.
 
 ### 16 Three-yearly briefings on state of public service
-(1) The Commissioner must give a briefing to the Minister on the state of the public service at least once every 3 years.
+(1) The Commissioner must give a briefing to the Minister on the state of the public service at least once in every 3-year period after 7 August 2020.
 (2) The purpose of a briefing is to promote stewardship of the public service.
 (3) The subject matter must be selected by the Commissioner and take into account the issues that the Commissioner considers are of significant public interest.
 (4) The briefing may include an assessment of—
@@ -1563,7 +1563,7 @@ The functions, responsibilities, duties, and powers imposed on or given to a chi
 **Long-term insights briefings**
 
 ### 8 Long-term insights briefings
-(1) A chief executive of a department must give a long-term insights briefing to the appropriate Minister at least once every 3 years and must do so independently of Ministers.
+(1) A chief executive of a department must give a long-term insights briefing to the appropriate Minister at least once in every 3-year period after 7 August 2020 and must do so independently of Ministers.
 (2) The purpose of a briefing is to make available into the public domain—
   (a) information about medium- and long-term trends, risks, and opportunities that affect or may affect New Zealand and New Zealand society:
   (b) information and impartial analysis, including policy options for responding to matters in the categories referred to in paragraph (a).
@@ -1573,7 +1573,7 @@ The functions, responsibilities, duties, and powers imposed on or given to a chi
   (b) the matters in the categories in subclause (2)﻿(a) that the chief executive considers are particularly relevant to the functions of their department.
 (5) Two or more chief executives may give a joint briefing that meets the requirements of this clause for each of the departments covered by the briefing.
 (6) Any agency in the State services may contribute to a briefing by a department or departments on subject matter relevant to the operation of their agency.
-(7) The Minister must present a copy of a briefing to the House of Representatives as soon as is reasonably practicable after receiving it.
+(7) The appropriate Minister must present a copy of a briefing to the House of Representatives as soon as is reasonably practicable after receiving it.
 
 ### 9 Public consultation
 (1) A chief executive must undertake public consultation on—
@@ -1701,7 +1701,7 @@ The Commissioner has all the rights, powers, and duties of an employer in relati
   (b) the employee acting under the direction was not appointed to the relevant position.
 
 ### 3 Evidence of appointments
-(1) An appointment to an office or a position in a department or an interdepartmental venture must be made, confirmed, or approved by the chief executive or board that made the appointment.
+(1) An appointment to an office or a position in a department or an interdepartmental venture must be made, confirmed, or approved by the chief executive of that department or the board of that interdepartmental venture.
 (2) Despite anything to the contrary in any Act, it is not necessary for the chief executive or board to execute a formal warrant or other instrument in special form.
 (3) An instrument issued by a chief executive or board stating that a person named in the instrument was appointed to an office or a position in a department or an interdepartmental venture from and including a particular date is sufficient evidence of the appointment unless the contrary is proved.
 
