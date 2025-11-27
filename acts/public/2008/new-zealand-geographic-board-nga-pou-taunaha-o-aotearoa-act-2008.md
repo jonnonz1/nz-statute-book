@@ -1,5 +1,5 @@
 # New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, and may also be cited as—
@@ -21,7 +21,7 @@ The purposes of this Act are to—
     (ii) the membership of the Board, so as to ensure adequate representation on the Board of community and government interests; and
     (iii) the administration of the Board; and
   (b) establish the jurisdiction of the Board; and
-  (c) set out the Board’s powers, functions, and duties, in particular providing for the Board to assign, approve, alter, or discontinue the use of official geographic names for geographic features within its jurisdiction, so as to achieve a co-ordinated and standardised approach to official geographic names; and
+  (c) set out the Board’s powers, functions, and duties, in particular providing for the Board to assign, approve, alter, adopt, validate, or discontinue the use of official geographic names for geographic features within its jurisdiction, so as to achieve a co-ordinated and standardised approach to official geographic names; and
   (d) provide effective notification, consultation, and decision-making procedures for naming geographic features; and
   (e) provide the means for appropriate recognition to be accorded to cultural and heritage values associated with geographic features; and
   (f) enable certain administrative needs of government (including local government) to be met; and
@@ -108,7 +108,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
 (1) The Board has jurisdiction to exercise its powers and to carry out its functions and duties under this Act or any other enactment in relation to geographic features and Crown protected areas within—
   (a) the territorial limits of New Zealand; and
   (b) the continental shelf, as defined in section 2(1) of the Continental Shelf Act 1964; and
-  (c) the Ross Dependency, as defined in section 7(1) of the Antarctica (Environmental Protection) Act 1994.
+  (c) the Ross Dependency, as defined in the Ross Dependency Boundaries and Government Order in Council 1923 and section 7(1) of the Antarctica (Environmental Protection) Act 1994.
 (2) In addition, the Board may exercise its powers and carry out its functions and duties under this Act, as far as they are relevant, in relation to those parts of Antarctica outside the Ross Dependency.
 (3) However, the Board does not have jurisdiction to assign a name to, or alter the name of, New Zealand.
 
@@ -124,15 +124,16 @@ In order to recognise and respect the Crown’s responsibility to take appropria
 (1) The principal functions of the Board, in relation to any geographic feature within its jurisdiction, are to—
   (a) assign an official geographic name:
   (b) approve a recorded name as an official geographic name:
-  (c) alter an official geographic name or recorded name by—
+  (c) alter an official geographic name or recorded name, or the description of the position or spatial extent of the geographic feature to which the name applies, by—
     (i) substituting another name; or
-    (ii) correcting the spelling of the name:
+    (ii) correcting the spelling of the name; or
+    (iii) correcting the description of the position or spatial extent of the geographic feature to which the name applies:
   (d) discontinue the use of an official geographic name or recorded name:
   (e) investigate and determine the position or extent of the geographic feature in respect of which the Board—
     (i) assigns an official geographic name:
     (ii) approves a recorded name:
-    (iii) alters the official geographic name.
-(2) Any proposal to assign a name to, or alter the name of, a Crown protected area must be reviewed by the Board in accordance with sections 27 to 30.
+    (iii) alters the official geographic name or recorded name.
+(2) Any proposal to assign an official geographic name to, or alter the official geographic name of, a Crown protected area must be reviewed by the Board in accordance with sections 27 to 30.
 (3) This section and section 11 apply despite any other enactment, but do not limit the other provisions of this Act.
 
 ### 11 Other functions of Board
@@ -143,7 +144,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   (d) collect original Māori names for recording on official charts and official maps:
   (e) encourage the use of original Māori names on official charts and official maps:
   (f) seek advice from Te Taura Whiri i te Reo Māori (the Māori Language Commission) on the correct orthography of any Māori name:
-  (g) undertake research into any proposal to name or alter the name of a geographic feature:
+  (g) undertake research into any proposal to assign, alter, or approve the official geographic name or recorded name of a geographic feature:
   (h) undertake other functions necessary to enable it to act effectively under this Act or any other enactment.
 (2) Without limiting section 260 of the Local Government Act 2002, the Board may alter the name of a district or region if, by resolution, a meeting of the relevant local authority—
   (a) consents to the alteration; or
@@ -188,10 +189,11 @@ The Board must—
 ### 15 Proposals may be submitted to Board
 (1) Any person may submit a proposal to the Board, in relation to a geographic feature within the Board’s jurisdiction, to—
   (a) assign an official geographic name to the feature; or
-  (b) alter the existing name of the feature, for example, by—
+  (b) alter the existing official geographic name or recorded name of the feature, for example, by—
     (i) substituting another name; or
     (ii) correcting the spelling of the name; or
-  (c) discontinue the use of the name of the feature.
+  (c) discontinue the use of the official geographic name or recorded name of the feature; or
+  (d) approve a recorded name as an official geographic name.
 (2) A proposal must—
   (a) be in the form provided for the purpose by the Board; and
   (b) meet the requirements specified by the Board; and
@@ -204,7 +206,7 @@ The Board must—
 (1) This section and sections 17 to 21 apply, in relation to a geographic feature within the territorial limits of New Zealand, to a proposal for an official geographic name—
   (a) submitted to the Board under section 15; or
   (b) made by the Board under section 10(1)﻿(a) to (d) (unless the exceptions provided for under subpart 2 apply).
-(2) Before the Board assigns, approves, or alters an official geographic name or recorded name, or discontinues the use of an official geographic name or recorded name, the Board must give public notice of the proposal—
+(2) Subject to section 24, before the Board assigns, approves, or alters an official geographic name or recorded name, or discontinues the use of an official geographic name or recorded name, the Board must give public notice of the proposal—
   (a) in the Gazette; and
   (b) as soon as practicable after it has been gazetted, at least once—
     (i) in a newspaper, periodical publication, or other news publication that circulates nationally, or by any other practicable means (including electronic media); and
@@ -272,7 +274,7 @@ A person making a submission on a proposal—
 (1) This section applies if the Board, in carrying out its functions under section 10(1)﻿(b) or (d), is of the opinion that there is not likely to be public objection.
 (2) Without giving public notice under section 16, the Board may—
   (a) approve a recorded name as the official geographic name for a geographic feature, if there are no known alternative recorded names for that geographic feature:
-  (b) discontinue the use of an official geographic name for a geographic feature.
+  (b) discontinue the use of an official geographic name or recorded name for a geographic feature.
 (3) The Board must, as soon as is reasonably practicable, give public notice in accordance with section 21(2) of a decision made under subsection (2).
 
 **Features outside territorial limits of New Zealand**
@@ -280,10 +282,11 @@ A person making a submission on a proposal—
 ### 25 Geographic features outside territorial limits
 (1) The provisions of sections 16 to 20 do not apply if, in relation to a geographic feature that is outside the territorial limits of New Zealand, the Board carries out the function of—
   (a) assigning an official geographic name; or
-  (b) altering an official geographic name.
+  (b) altering an official geographic name; or
+  (c) discontinuing an official geographic name or names to which section 26 applies.
 (2) However, the Board must—
   (a) consult with any relevant national and international naming authorities that it considers appropriate; and
-  (b) as soon as is reasonably practicable, give public notice of the official geographic name in accordance with section 21(2).
+  (b) as soon as is reasonably practicable, give public notice of the official geographic name or discontinued official geographic name in accordance with section 21(2).
 
 ### 26 Adoption of existing names for undersea features
 (1) The Board may review, and, if appropriate, adopt as official geographic names the existing names of undersea features that are within the Board’s jurisdiction, for example, names published in the GEBCO Gazetteer or on official charts or official maps.
@@ -344,7 +347,9 @@ A name assigned to, or altered for, a Crown protected area in accordance with th
     (i) has ceased to be a Crown protected area; or
     (ii) has been included in another Crown protected area; or
   (b) for any other reason.
-(2) On receipt of notification under subsection (1), the Board must remove the name of the Crown protected area from the list of official geographic names in the Gazetteer.
+(2) On receiving notification under subsection (1), the Board must—
+  (a) remove the name of the Crown protected area from the list of official geographic names in the Gazetteer; and
+  (b) give public notice of that discontinuation in accordance with section 21(2).
 
 ## Part 3 — Miscellaneous provisions
 
