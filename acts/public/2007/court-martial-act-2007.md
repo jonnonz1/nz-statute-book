@@ -1,5 +1,5 @@
 # Court Martial Act 2007
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Court Martial Act 2007.
@@ -173,7 +173,7 @@ A person is disqualified to sit as a military member if he or she—
 (1) In any proceedings in the Court Martial where the accused is an officer, the Registrar must assign—
   (a) 5 officers to be military members if the proceedings relate to a serious offence; or
   (b) 3 officers to be military members in any other case.
-(2) In any proceedings in the Court Martial where the accused is a rating, soldier, or airman, the Registrar may assign—
+(2) In any proceedings in the Court Martial where the accused is a rating, soldier, or aviator, the Registrar may assign—
   (a) any of the following to be military members if the proceedings relate to a serious offence:
     (i) 5 officers; or
     (ii) 4 officers and 1 warrant officer; or
@@ -709,7 +709,7 @@ No proceedings before the Court Martial may—
 
 ### 72 Limits on application of section 71: evidence of general matters
 (1) Despite section 71, subsections (2) to (12) apply with respect to evidence in all proceedings under this Act or the 1971 Act.
-(2) The attestation paper purporting to be signed by a person on his or her being attested as a rating, soldier, or airman in the Armed Forces of New Zealand or in any Commonwealth force, and the declaration purporting to be made by any person upon his or her re-engagement in any of the Armed Forces of New Zealand or in any Commonwealth force, is evidence of that person having given the answers to questions that he or she is represented as having given in the paper or declaration.
+(2) The attestation paper purporting to be signed by a person on his or her being attested as a rating, soldier, or aviator in the Armed Forces of New Zealand or in any Commonwealth force, and the declaration purporting to be made by any person upon his or her re-engagement in any of the Armed Forces of New Zealand or in any Commonwealth force, is evidence of that person having given the answers to questions that he or she is represented as having given in the paper or declaration.
 (3) The enlistment of a person in any of the Armed Forces of New Zealand or in a Commonwealth force may be proved by the production of a copy of his or her attestation paper purporting to be certified to be a true copy by the officer or record officer having the custody of the attestation paper without proof of the handwriting of that officer, or of his or her having the custody of the paper.
 (4) A letter, return, or other document with respect to a person, if purporting to be issued by or on behalf of the Chief of Defence Force, or by a person authorised by the Chief of Defence Force, or by the commanding officer or the officer or record officer having the custody of the records of any portion of a Commonwealth force, or of any ship of a Commonwealth naval force to which that person appears to have belonged, or alleges that he or she belongs or had belonged, is evidence of the facts stated in that letter, return, or other document of the person—
   (a) having or not having at any time or times served in, or been discharged from, any Commonwealth force; or
