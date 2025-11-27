@@ -1,5 +1,5 @@
 # Summary Offences Act 1981
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-11-27_
 
 > An Act to reform and restate the law relating to summary offences, and to replace the Police Offences Act 1927 and its amendments
 
@@ -261,10 +261,10 @@ Every person is liable to imprisonment for a term not exceeding 3 months or a fi
 (3) It is no defence in a prosecution under this section that the words, initials, or abbreviation so used by the defendant do not refer or profess to refer, or were not understood by any person to refer, to any particular or actual university, institution, society, or association.
 (4) For the purposes of this section, the use of the word doctor by a medical practitioner shall not in itself be deemed to indicate or to be likely to cause other persons to believe that the medical practitioner holds the degree of doctor in any university.
 
-**Official information**
+**Relevant information**
 
-### 20A Unauthorised disclosure of certain official information
-(1) Every person commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000 who knowingly communicates to any other person any official information as defined in section 78A(2) of the Crimes Act 1961 (not being official information that is publicly available) or delivers to any other person any object as defined in section 78A(2) of the Crimes Act 1961 knowing that he does not have proper authority to effect the communication or delivery and that the communication of that information or the delivery of that object is likely—
+### 20A Unauthorised disclosure of certain relevant information
+(1) Every person commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000 who knowingly communicates to any other person any relevant information as defined in section 78A(2) of the Crimes Act 1961 (not being relevant information that is publicly available) or delivers to any other person any object as defined in section 78A(2) of the Crimes Act 1961 knowing that he does not have proper authority to effect the communication or delivery and that the communication of that information or the delivery of that object is likely—
   (a) to endanger the safety of any person:
   (b) to prejudice the maintenance of confidential sources of information in relation to the prevention, investigation, or detection of offences; or
   (c) to prejudice the effectiveness of operational plans for the prevention, investigation, or detection of offences or the maintenance of public order, either generally or in a particular case; or
