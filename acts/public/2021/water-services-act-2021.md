@@ -1,5 +1,5 @@
 # Water Services Act 2021
-_Consolidation as at 2025-08-27_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Water Services Act 2021.
@@ -377,8 +377,8 @@ A drinking water supplier must take all reasonably practicable steps to supply d
 (2) In this Act, sufficient quantity, in relation to the drinking water supplied to a point of supply, means—
   (a) the quantity of drinking water that is sufficient to support the ordinary drinking water and sanitary needs of consumers at the point of supply; or
   (b) if compliance rules have been made prescribing the quantity of drinking water or a formula for determining the quantity of drinking water that is sufficient to support the ordinary drinking water needs of consumers at a point of supply, the amount specified in, or calculated according to the formula set out in, those rules.
-(3) Subsection (1) does not prevent a drinking water supplier restricting or interrupting the provision of drinking water to a point of supply if, in the opinion of the supplier, the action is necessary because of—ExamplesA drinking water supplier may need to restrict or interrupt the supply of drinking water where infrastructure such as a pipeline or treatment plant is damaged.A drinking water supplier may need to restrict or interrupt supply of drinking water where contamination of the supply occurs and public health is at risk.A drinking water supplier may need to restrict or interrupt supply of drinking water where a drought occurs and the source of the drinking water supply can no longer support continuous supply to consumers.A drinking water supplier may need to restrict or interrupt supply of drinking water in case of a fire emergency.A drinking water supplier may need to restrict or interrupt supply of drinking water where a person has drowned and a rāhui is placed over the source of a drinking water supply.
-  (a) maintenance, improvement, or repairs to the drinking water supply or related infrastructure; or
+(3) Subsection (1) does not prevent a drinking water supplier restricting or interrupting the provision of drinking water to a point of supply if, in the opinion of the supplier, the action is necessary because of—ExamplesA drinking water supplier may need to restrict or interrupt supply of drinking water where infrastructure such as a pipeline or treatment plant is damaged.A drinking water supplier may need to restrict or interrupt supply of drinking water where contamination of the supply occurs and public health is at risk.A drinking water supplier may need to restrict or interrupt supply of drinking water where a drought occurs and the source of the drinking water supply can no longer support continuous supply to consumers.A drinking water supplier may need to restrict or interrupt supply of drinking water in case of a fire emergency.A drinking water supplier may need to restrict or interrupt supply of drinking water where a person has drowned and a rāhui is placed over the source of a drinking water supply.
+  (a) maintenance, improvement, or repairs to a drinking water supply or related infrastructure; or
   (b) risks to public health; or
   (c) environmental factors affecting a source of a drinking water supply; or
   (d) an emergency; or
@@ -1361,8 +1361,8 @@ In taking an action or making a decision to which any of sections 97K to 97N app
 ### 98 Appointment of compliance officers
 (1) The Water Services Authority may, by notice in writing, appoint any of the following as a compliance officer:
   (a) an employee of the Water Services Authority:
-  (b) an employee of a department (within the meaning of the State Sector Act 1988):
-  (c) an employee of the State services (within the meaning of the State Sector Act 1988):
+  (b) an employee of a department (within the meaning of the Public Service Act 2020):
+  (c) an employee of the State services (within the meaning of the Public Service Act 2020):
   (d) any other person who the Water Services Authority is satisfied—
     (i) is suitably qualified and trained:
     (ii) belongs to a class of persons who are suitably qualified and trained to exercise any or all of the powers of, and carry out any or all of the duties of, a compliance officer.
@@ -1580,7 +1580,7 @@ A compliance officer who, in the course of exercising a power under section 112,
 
 ### Subpart 3 — Compliance orders
 
-### 120 Power to issue compliance order
+### 120 Power to serve compliance order
 (1) The chief executive may serve a compliance order on any person—
   (a) requiring that person to stop, or prohibiting that person from starting, anything done or to be done by, or on behalf of, that person that the chief executive believes, on reasonable grounds,—
     (i) contravenes, or is likely to contravene, any legislative requirement or drinking water safety plan (including any undertakings given by third parties to the plan); or
@@ -2139,9 +2139,9 @@ Despite anything in section 162 or 163, the proceedings for an offence against s
 ### 170 Liability of elected officials
 (1) The following office holders, acting in that capacity, may not be charged with an offence against any section of this Act:
   (a) a member of a local authority, local board, or community board elected or appointed under the Local Electoral Act 2001:
-  (b) a trustee of a board of a school appointed or elected under the Education Act 1989.
+  (b) a board member of a board of a school appointed or elected under the Education and Training Act 2020.
 (2) In this section,—
-  - **board** and , in relation to a school, have the same meanings as in section 92(1) of the Education Act 1989
+  - **board** and , in relation to a school, have the same meanings as in section 10(1) of the Education and Training Act 2020
   - **community board** means a board established under section 49(1) of the Local Government Act 2002
   - **local authority** and have the same meanings as in section 5(1) of the Local Government Act 2002.
 
@@ -2453,7 +2453,7 @@ If a court finds a person guilty of an offence against this Act, the court may i
 (2) Regulations made under subsection (1)﻿(f) may—
   (a) specify the amount of the fees or charges, or a method of calculating or ascertaining the amount of the fees or charges; and
   (b) prescribe different fees and charges for different classes of person; and
-  (c) prescribe the manner in which fees or changes must be calculated; and
+  (c) prescribe the manner in which fees or charges must be calculated; and
   (d) prescribe the circumstances and way in which fees or charges can be refunded, waived, or reduced.
 (3) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
