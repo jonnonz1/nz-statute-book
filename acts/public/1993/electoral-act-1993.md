@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2025-11-27_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -24,8 +24,8 @@ This Act may be cited as the Electoral Act 1993.
   - **by-election** means any election other than a general election
   - **candidate** ,—
     (a) means a constituency candidate; and
-    (b) includes a list candidate (other than in Parts 6AA and 6A); and
-    (c) in the definition of candidate advertisement and in section 3A and Parts 6AA, 6A, 7, and 8 includes a person who has declared his or her intention of becoming a constituency candidate; and
+    (b) includes a list candidate (other than in Parts 6AA, 6A, and 6B); and
+    (c) in the definition of candidate advertisement and in section 3A and Parts 6AA, 6A, 6B, 7, and 8 includes a person who has declared his or her intention of becoming a constituency candidate; and
     (d) in Parts 7 and 8 includes a person who has declared his or her intention of becoming a list candidate
   - **candidate advertisement** means an advertisement in any medium that may reasonably be regarded as encouraging or persuading voters to do either or both of the following:
     (a) to vote for a constituency candidate (whether or not the name of the candidate is stated):
