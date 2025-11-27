@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2025-08-27_
+_Consolidation as at 2025-11-27_
 
 > Title
 
@@ -631,7 +631,7 @@ For the purposes of section 37(3)﻿(b), a supplier of any goods is not to be ta
   (b) the supplier has given notification in writing to the other person (not being a notification in the form of a statement applied to the goods or to any covering, label, reel, or thing as mentioned in paragraph (a)) of the price that the supplier recommends as appropriate for the sale of those goods, if the notification, and each writing that refers, whether expressly or by implication, to the notification, includes a statement to the effect that the price is a recommended price only and there is no obligation to comply with the recommendation.
 
 ### 40 Withholding the supply of goods
-For the purposes of section 37(3)﻿(d) and (e) , the supplier shall be deemed to withhold the supply of goods to another person if—
+For the purposes of section 37(3)﻿(d) and (e), the supplier shall be deemed to withhold the supply of goods to another person if—
   (a) the supplier refuses or fails to supply those goods to, or as requested by, the other person; or
   (b) the supplier refuses to supply those goods except on terms that are disadvantageous to the other person; or
   (c) in supplying those goods to the other person, the supplier treats that person less favourably, whether in respect of time, method, or place of delivery, or otherwise, than the supplier treats other persons to whom the supplier supplies the same or similar goods; or
@@ -2878,7 +2878,7 @@ Nothing in section 59 or section 59A prevents conduct that occurred before an au
 
 ### 65B Effect of clearance under section 65A
 The effect of a clearance given under section 65A is that—
-  (a) a party to the contract, arrangement, understanding, or covenant to which the clearance relates does not contravene section 27, 28, 30, 36, or 36A by entering into the contract or arrangement, or arriving at the understanding , or giving, or requiring the giving of, the covenant; and
+  (a) a party to the contract, arrangement, understanding, or covenant to which the clearance relates does not contravene section 27, 28, 30, 36, or 36A by entering into the contract or arrangement, or arriving at the understanding, or giving, or requiring the giving of, the covenant; and
   (b) a person does not contravene section 27, 28, 30, 36, or 36A by giving effect to any cartel provision in the contract, arrangement, understanding, or covenant to which the clearance relates; and
   (c) section 30C(1) does not apply to any cartel provision in the contract, arrangement, understanding, or covenant.
 
@@ -3528,7 +3528,7 @@ In determining an appeal under section 91(1), the court may do any of the follow
 
 ### 95 Provisions pending determination of appeal
 (1) Where an appeal is brought under any provision of this Part against any determination of the Commission, the determination to which the appeal relates shall remain in full force pending the determination of the appeal, unless the court orders to the contrary.
-(2) However, the court may not stay the application of a determination made under section 52P in respect of which an appeal is brought under section 91(1) or (1B) .
+(2) However, the court may not stay the application of a determination made under section 52P in respect of which an appeal is brought under section 91(1) or (1B).
 
 ### 96 Court may order proceedings to be heard in private
 (1) The court may, in its discretion, order that the hearing or any part of the hearing of any proceedings under this Act shall be held in private.
@@ -3814,9 +3814,9 @@ The Commission must not provide information to an overseas regulator that the Co
 (1) No proceedings, civil or criminal, shall lie against the Commission for anything it may do or fail to do in the course of the exercise or intended exercise of its functions, unless it is shown that the Commission acted without reasonable care or in bad faith.
 (2) No proceedings, civil or criminal, lie against any member of the Commission, or any officer or employee of the Commission, or any member of a committee of the Commission, for anything that person may do or say or fail to do or say in the course of the operations of the Commission, unless it is shown that the person acted in bad faith.
 (3) Nothing in subsections (1) and (2) applies in respect of proceedings for—
-  (a) an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961; or
-  (b) the offence of conspiring to commit an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961; or
-  (c) the offence of attempting to commit an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961.
+  (a) an offence against section 78 or section 78AAA or section 78AAB or section 78AA or section 78A or section 105 or section 105A of the Crimes Act 1961; or
+  (b) the offence of conspiring to commit an offence against section 78 or section 78AAA or section 78AAB or section 78AA or section 78A or section 105 or section 105A of the Crimes Act 1961; or
+  (c) the offence of attempting to commit an offence against section 78 or section 78AAA or section 78AAB or section 78AA or section 78A or section 105 or section 105A of the Crimes Act 1961.
 (3A) Section 59(3) of the Crown Entities Act 2004 (which provides that a statutory entity may bring an action against a member for breach of an individual duty) does not apply, unless it is shown by the Commission that the person acted in bad faith.
 (3B) Sections 122 to 126 of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
 (3C) This section contains an exception to section 121 of the Crown Entities Act 2004.
