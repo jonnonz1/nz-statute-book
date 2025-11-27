@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 2021
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Births, Deaths, Marriages, and Relationships Registration Act 2021.
@@ -974,11 +974,12 @@ In this subpart,—
 
 ### 88 Person must confirm identity to access information under this subpart
 (1) Only a person who confirms the person’s identity in accordance with subsection (2) may—
-  (a) search information made available by the Registrar-General under section 89 or 90; or
+  (a) search information made available by the Registrar-General under section 89; or
   (b) request access to information and source documents under section 91.
 (2) The person must—
   (a) satisfy any evidence of identity requirements prescribed by regulations; and
   (b) in respect of a request under section 91, provide any means of identification that the Registrar-General reasonably requires to confirm the identity of the person making the request.
+(3) However, a person does not have to confirm their identity under subsection (1) to request access to historical information under section 91(1)﻿(a) or (b).
 
 **General searches**
 
@@ -1029,7 +1030,7 @@ The Registrar-General may make any or all of the following historical informatio
 **Named person searches**
 
 ### 91 Any person may request access to information in relation to named person
-(1) A person whose identity is confirmed under section 88 may request the Registrar-General to—
+(1) A person may, after their identity is confirmed under section 88 (if required), request the Registrar-General to—
   (a) search for information relating to a named person’s birth, death, marriage (or intended marriage), civil union, or name change; or
   (b) provide a printout or certificate of the information; or
   (c) permit the inspection of, or provide a copy of, a source document relating to a named person’s birth, death, marriage (or intended marriage), civil union, or name change; or
