@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2025-08-27_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -1074,7 +1074,7 @@ The local authority must record the remitted rates—
 (2) The chief executive must not delegate the power to delegate under this section.
 
 ### 90D Amount of rates written off to be included in notes to financial statements
-A local authority must ensure that the notes to the financial statements described in clause 29(1)﻿(a) of Schedule 10 of the Local Government Act 2002 disclose the amount of rates written off each financial year under sections 90A and 90B.
+[Repealed]
 
 ## Part 4 — Rating of Māori freehold land
 
