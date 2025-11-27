@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2025-10-25_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -458,12 +458,12 @@ A constable conducting a search of a place or vehicle under section 20 may, with
   (b) the Misuse of Drugs Act 1975:
   (c) the Criminal Procedure Act 2011.
 
-### Subpart 8 — Warrantless powers in relation to offences against section 78 or 78AA of Crimes Act 1961
+### Subpart 8 — Warrantless powers in relation to offences against section 78, 78AAA, 78AAB, or 78AA of Crimes Act 1961
 
-### 25 Warrantless searches if offence against section 78 or 78AA of Crimes Act 1961 suspected
+### 25 Warrantless searches if offence against section 78, 78AAA, 78AAB, or 78AA of Crimes Act 1961 suspected
 (1) A constable may, without a warrant, carry out a search in the circumstances set out in subsection (2).
 (2) The circumstances are that there are reasonable grounds—
-  (a) to suspect that an offence against section 78 or 78AA of the Crimes Act 1961 has been, is being, or will be committed and that the case is one of great urgency and requires immediate action; and
+  (a) to suspect that an offence against section 78, 78AAA, 78AAB, or 78AA of the Crimes Act 1961 has been, is being, or will be committed and that the case is one of great urgency and requires immediate action; and
   (b) to believe that there is evidence in any place, or in or on any vehicle or other thing, as to the commission of that offence or evidence of a thing that is intended to be used for the purpose of committing that offence.
 
 ### Subpart 9 — Warrantless powers in relation to offences against section 202A of Crimes Act 1961
@@ -2647,7 +2647,7 @@ If a photograph or a copy of a seized or produced thing will be adequate for inv
 (2) The Police may destroy the seized weapon if—
   (a) notice is given to the person from whom the weapon was seized and that person—
     (i) consents to its destruction; or
-    (ii) does not within 30 days consent to its destruction; or
+    (ii) does not within 30 days object to its destruction; or
   (b) the person to whom the notice would otherwise be given under paragraph (a) cannot be located after reasonable inquiries have been made; or
   (c) in a case where a person objects to the destruction of the weapon within 30 working days of receiving a notice under paragraph (a) and any person applies within that period to a court to determine the status of the weapon, the court is satisfied that—
     (i) the possession of the weapon by the person from whom it was seized is unlawful under New Zealand law; or
