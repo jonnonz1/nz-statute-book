@@ -1,5 +1,5 @@
 # Land Transfer Act 2017
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Land Transfer Act 2017.
@@ -682,7 +682,7 @@ The court must not make an order under section 55 if person B has transferred th
 
 ### 61 Exceptions to compensation
 (1) The Crown is not liable to pay compensation under section 58 or 59 if—
-  (a) the loss or damage results from a breach of trust by the claimant:
+  (a) the loss or damage results from a breach of trust by the claimant or the registered owner:
   (b) the loss or damage results from the improper exercise of a power of sale under a mortgage or re-entry under a lease:
   (c) the loss or damage results from the operation of an enactment other than this Act that overrides or limits the title to an estate or interest in land.
 (2) The Crown is not liable to pay compensation under section 59 for loss of an estate or interest in land as a result of bringing the land under this Act if the estate or interest in the land could have been, but was not, registered under the Deeds Registration Act 1908 or any comparable earlier legislation unless, before the land was brought under this Act,—
@@ -700,8 +700,8 @@ The court must not make an order under section 55 if person B has transferred th
 **Consideration of claim**
 
 ### 63 Consideration of claim
-(1) If the claim does not exceed the prescribed amount, the Registrar may accept Crown liability for payment of the whole or part of the claim without the need for the claimant to commence a proceeding.
-(2) If the claim exceeds the prescribed amount, the Attorney-General and the Registrar may accept Crown liability for payment of the whole or part of the claim without the need for the claimant to commence a proceeding.
+(1) If the claim does not exceed the prescribed amount, the Registrar may accept Crown liability for payment of the whole or part of the claim without the need for the claimant to commence a proceeding, and, without further appropriation than this section, the claim may be paid out of a Crown Bank Account.
+(2) If the claim exceeds the prescribed amount, the Attorney-General and the Registrar may accept Crown liability for payment of the whole or part of the claim without the need for the claimant to commence a proceeding, and, without further appropriation than this section, the claim may be paid out of a Crown Bank Account.
 
 **Calculation of compensation for deprivation of estate or interest in land**
 
@@ -954,6 +954,7 @@ On registration of a transmission instrument, the applicant—
 (2) If a lease variation instrument relates to a cross lease, the consent of the following must be obtained before registration of the lease variation instrument:
   (a) any registered mortgagee of the cross lease:
   (b) any other registered mortgagee of a cross lease held by a person who has an estate or interest in an undivided share in the same land.
+(2A) A consent under subsection (1) or (2) binds the mortgagee and every person who subsequently derives an interest in the mortgage from the mortgagee.
 (3) In this section, cross lease means a lease of a building or part of a building on or to be erected on land owned in common that is granted by all of the owners of the land to the owner of an estate or interest in any undivided share in the land.
 
 ### 94 Surrender of lease
@@ -2153,16 +2154,21 @@ A person who is dissatisfied with either of the following decisions may appeal t
 **Notices**
 
 ### 220 Public notice
-For the purposes of this Act, public notice of a matter relating to land means a notice that—
+(1) For the purposes of this Act, public notice of a matter relating to land means a notice that—
   (a) is published—
     (i) in the Gazette and in 1 or more newspapers circulating in the area where the land is located; and
     (ii) in any other way that the Registrar may direct; and
   (b) gives sufficient information about the matter to enable persons who might respond to the notice to understand it.
+(2) If it is impracticable to include all required information in the notice under subsection (1) due to the volume of information, then—
+  (a) all or part of the information may be made available on an Internet site maintained by the department, instead of in the notice; and
+  (b) the notice must—
+    (i) make it clear that further information relating to the notice is available on that site; and
+    (ii) give sufficient detail to enable persons to understand what sort of further information is available on that site.
 
 ### 221 Giving of notice to persons other than Registrar
 (1) A notice required or permitted by this Act to be given by the Registrar or any other person (the sender) to another person (the recipient) may be given by—
   (a) delivering it to the recipient; or
-  (b) delivering it to the recipient's usual home or business address; or
+  (b) delivering it to the recipient's usual home or business address (including by a courier service that records details of delivery to the address); or
   (c) posting it to the recipient at the recipient's usual home or business address; or
   (d) if the recipient has given the sender a fax number for the purpose of receiving notices by fax, faxing it to that number; or
   (e) if the recipient has given the sender an email address for the purpose of receiving notices by email, emailing it to that address; or
@@ -2178,6 +2184,7 @@ For the purposes of this Act, public notice of a matter relating to land means a
   (b) if the Registrar has specified a fax number for the purpose of receiving notices of that class by fax, by faxing it to that number; or
   (c) if the Registrar has specified an email address for the purpose of receiving notices of that class by email, by emailing it to that address; or
   (d) if the Registrar has specified that notices of that class may be sent or delivered from an electronic workspace facility, by sending or delivering it from that facility; or
+  (da) by delivering it to a designated Land Registry Office by a courier service that records details of delivery to the address; or
   (e) by any other prescribed method.
 (2) Subsection (1) applies unless a provision of this Act requires the notice to be given in a particular way.
 (3) The Registrar must give notice of the address of the designated land registry office—
@@ -2190,6 +2197,7 @@ For the purposes of this Act, public notice of a matter relating to land means a
   (b) if sent by fax, at the time shown on the record of transmission:
   (c) if sent by email, at the time a record of transmission shows that it was received in the electronic communications system:
   (d) if sent to or from an electronic workspace facility, at the time a record of transmission shows that it was received in the electronic communications system:
+  (da) if sent by courier service, at the time of delivery recorded by the courier service provider:
   (e) in the case of any prescribed method, at the time prescribed.
 (2) Subsection (1) does not apply if a person shows that through no fault on the person's part, the notice was not received within the time specified in subsection (1).
 (3) For the purposes of subsection (1)﻿(a), it is sufficient to prove that the notice was properly addressed and posted.
@@ -2240,7 +2248,7 @@ For the purposes of this Act, public notice of a matter relating to land means a
 (8) The Registrar must publish a form specified under this section on an Internet site maintained by or on behalf of the department.
 
 ### 226 Cost of survey to correct plans
-The Crown must meet the cost of a survey certified by the Surveyor-General as required to correct an error in a plan deposited under this Act or in a record of title.
+The Crown must meet the cost of a survey certified by the Surveyor-General as required to correct an error in a plan deposited under this Act or in a record of title and, without further appropriation than this section, the cost may be paid out of a Crown Bank Account.
 
 **Regulations**
 
@@ -2357,9 +2365,9 @@ The Crown must meet the cost of a survey certified by the Surveyor-General as re
 (2) The seal may be electronic or mechanical.
 (3) An instrument that bears a representation of the Registrar's seal and that appears to be issued by or on behalf of the Registrar is, in the absence of proof to the contrary, to be treated as having been issued by or under the direction of the Registrar.
 
-### 233 Delegation of Registrar's duties and powers
-(1) The Registrar may delegate in writing any of the Registrar's duties and powers under this Act or any other Act other than—
-  (a) a power or duty under any of sections 63, 209(2)﻿(b), 214, 216, 225, and 236; or
+### 233 Delegation of Registrar's functions, duties, and powers
+(1) The Registrar may delegate in writing any of the Registrar's functions, duties, and powers under this Act or any other Act other than—
+  (a) a function, duty, or power under any of sections 63, 209(2)﻿(b), 214, 216, 225, and 236; or
   (b) the power to delegate under this section.
 (2) A delegation may be made to—
   (a) a specified person:
@@ -2368,18 +2376,18 @@ The Crown must meet the cost of a survey certified by the Surveyor-General as re
 (3) A delegation may be—
   (a) general; or
   (b) specific; or
-  (c) limited to performing a duty or exercising a power in relation to a particular activity or operation or class of activity or operation.
+  (c) limited to performing a function or duty or exercising a power in relation to a particular activity or operation or class of activity or operation.
 (4) A delegation may be made to a person whether or not that person is an employee of the department or of any other department or ministry of the public service.
 (5) A delegation—
-  (a) does not affect or prevent the performance of a duty or the exercise of a power by the Registrar:
-  (b) does not affect the responsibility of the Registrar for the actions of a person to whom a duty or power is delegated:
+  (a) does not affect or prevent the performance of a function or duty or the exercise of a power by the Registrar:
+  (b) does not affect the responsibility of the Registrar for the actions of a person to whom a function, duty, or power is delegated:
   (c) may be revoked by the Registrar in writing:
   (d) continues in force despite a change in the person holding office as Registrar:
   (e) is subject to any directions or conditions imposed by the Registrar.
-(6) A person to whom a duty or power has been delegated may perform the duty or exercise the power in the same manner and with the same effect as if the duty or power had been conferred directly on the person by this Act.
-(7) A person to whom a duty or power is delegated must perform the duty or exercise the power in accordance with any standard set or directive issued by the Registrar under section 236.
+(6) A person to whom a function, duty, or power has been delegated may perform the function or duty or exercise the power in the same manner and with the same effect as if the function, duty, or power had been conferred directly on the person by this Act.
+(7) A person to whom a function, duty, or power is delegated must perform the function or duty or exercise the power in accordance with any standard set or directive issued by the Registrar under section 236.
 (8) A person who purports to act under a delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the delegation.
-(9) A person to whom a duty or power is delegated who is not an employee of the department must, if requested to do so, produce evidence of the delegation.
+(9) A person to whom a function, duty, or power is delegated who is not an employee of the department must, if requested to do so, produce evidence of the delegation.
 
 ### 234 Registrar not required to give certain evidence
 (1) Unless the court makes an order requiring the Registrar or a delegate of the Registrar to do so, neither the Registrar nor a delegate is obliged to—
