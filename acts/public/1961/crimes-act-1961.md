@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2025-10-30_
+_Consolidation as at 2025-11-27_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -78,6 +78,36 @@ _Consolidation as at 2025-10-30_
   (b) induces or permits the other person to do an indecent act with or on him or her.
 (2)
 
+### 2A Meaning of person who owes allegiance to the Sovereign in right of New Zealand
+Relationship between this section and common law
+(1) For the purposes of this Act only, this section sets out circumstances in which a person owes allegiance to the Sovereign in right of New Zealand.
+(2) However,—
+  (a) this section is not an exhaustive code of the law relating to the circumstances in which a person owes allegiance to the Sovereign in right of New Zealand; and
+  (b) a person is not excluded from owing allegiance to the Sovereign in right of New Zealand under the common law just because they do not owe allegiance under this section.
+Persons in New Zealand
+(3) A person who is in New Zealand owes allegiance to the Sovereign in right of New Zealand unless 1 or more of the following apply:
+  (a) the person enjoys immunity under Article 31 or 37 of the Vienna Convention on Diplomatic Relations by virtue of the Diplomatic Privileges and Immunities Act 1968:
+  (b) the person enjoys immunity under Article 43 of the Vienna Convention on Consular Relations by virtue of the Consular Privileges and Immunities Act 1971:
+  (c) the person—
+    (i) is a citizen of a State that is at war with New Zealand; and
+    (ii) is not a citizen of New Zealand; and
+    (iii) is not bound by the oath of allegiance:
+  (d) the person—
+    (i) is a child of a person in New Zealand who meets the conditions in paragraph (c); and
+    (ii) is under the age of 18 years.
+Persons outside New Zealand
+(4) A person who is outside New Zealand owes allegiance to the Sovereign in right of New Zealand if 1 or more of the following apply:
+  (a) the person is a citizen of New Zealand (whether or not the person is also a citizen of any other State):
+  (b) the person is bound by the oath of allegiance (whether or not the person is also bound by any other oath):
+  (c) the person—
+    (i) is not a citizen of a State that is at war with New Zealand; and
+    (ii) has previously owed allegiance to the Sovereign in right of New Zealand (whether under this section or under the common law); and
+    (iii) has family or property in New Zealand that demonstrates an enduring connection to New Zealand.
+Interpretation
+(5) It is a question of law whether a person owes allegiance to the Sovereign in right of New Zealand for the purposes of an offence under this Act.
+(6) Where the decision on a question of law under subsection (5) depends on any questions of fact, the prosecutor or the defendant may adduce, and the Judge may hear, in addition to the evidence heard by the jury, any evidence relevant to those questions of fact.
+(7) In this section, the oath of allegiance means the oath of allegiance referred to in the Oaths and Declarations Act 1957 and includes any oath substituted for that oath or any affirmation or declaration to the same effect as that oath.
+
 ### 3 Meaning of convicted on indictment
 [Repealed]
 
@@ -103,7 +133,7 @@ Subject to the provisions of section 7, no act done or omitted outside New Zeala
 For the purpose of jurisdiction, where any act or omission forming part of any offence, or any event necessary to the completion of any offence, occurs in New Zealand, the offence shall be deemed to be committed in New Zealand, whether the person charged with the offence was in New Zealand or not at the time of the act, omission, or event.
 
 ### 7A Extraterritorial jurisdiction in respect of certain offences with transnational aspects
-(1) Even if the acts or omissions alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for any offence against this Act committed in the course of carrying out a terrorist act (within the meanings of those terms or expressions in sections 5 and 5A of the Terrorism Suppression Act 2002) or an offence against section 98AA, section 98A, section 98C, section 98D, any of sections 100 to 104, section 105(2), section 116, section 117, section 207A, section 243, section 298A, or section 298B—
+(1) Even if the acts or omissions alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for any offence against this Act committed in the course of carrying out a terrorist act (within the meanings of those terms or expressions in sections 5 and 5A of the Terrorism Suppression Act 2002) or an offence against section 78AAA, section 78AAB, section 98AA, section 98A, section 98C, section 98D, any of sections 100 to 104, section 105(2), section 116, section 117, section 207A, section 243, section 298A, or section 298B—
   (a) if the person to be charged—
     (i) is a New Zealand citizen; or
     (ii) is ordinarily resident in New Zealand; or
@@ -145,6 +175,7 @@ For the purpose of jurisdiction, where any act or omission forming part of any o
 (1) Proceedings for an offence against section 98AA, section 98A, section 116, section 117, section 207A, section 243, section 298A, or section 298B cannot be brought in a New Zealand court against a person without the Attorney-General's consent, if jurisdiction over the person is claimed by virtue of section 7A.
 (2) A person over whom jurisdiction is claimed by virtue of section 7A may be arrested for an offence against section 98AA, section 98A, section 116, section 117, or section 243, or a warrant for the person's arrest for the offence may be issued and executed, and the person may be remanded in custody or on bail, even though the Attorney-General's consent to the bringing of proceedings against the person has not been obtained.
 (3) Proceedings for an offence against this Act committed in the course of carrying out a terrorist act (within the meanings of those terms or expressions in sections 5 and 5A of the Terrorism Suppression Act 2002) cannot be brought in a New Zealand court against a person without the Attorney-General's consent, if jurisdiction over the person is claimed solely by virtue of section 7A.
+(4) See section 78B about Attorney-General consent to proceedings for an offence against section 78AAA or section 78AAB (whether jurisdiction is claimed by virtue of section 7A or otherwise).
 
 ### 8 Jurisdiction in respect of crimes on ships or aircraft beyond New Zealand
 (1) This section applies to any act done or omitted beyond New Zealand by any person—provided that paragraph (c) shall not apply where the act was done or omitted by a person, not being a British subject, on any ship or aircraft for the time being used as a ship or aircraft of any of the armed forces of a country that is not a Commonwealth country.
@@ -291,6 +322,7 @@ Nothing in this Act shall be construed to limit or affect in any way any provisi
 (1) Subject to the provisions of this section, a person who commits an offence under compulsion by threats of immediate death or grievous bodily harm from a person who is present when the offence is committed is protected from criminal responsibility if he or she believes that the threats will be carried out and if he or she is not a party to any association or conspiracy whereby he or she is subject to compulsion.
 (2) Nothing in subsection (1) shall apply where the offence committed is an offence specified in any of the following provisions of this Act, namely:
   (a) section 73 (Treason) or section 78 (Espionage):
+  (aa) section 78AAA (Improper conduct for or on behalf of foreign power):
   (b) section 79 (Sabotage):
   (c) section 92 (Piracy):
   (d) section 93 (Piratical acts):
@@ -516,10 +548,31 @@ A person is capable of conspiring with his or her spouse or civil union partner 
 
 ### 69 Party to any other crime outside New Zealand
 (1) Every one is liable to imprisonment for a term not exceeding 14 years who, in New Zealand, aids, incites, counsels, or procures the doing or omission outside New Zealand, by any person not owing allegiance to the Sovereign in right of New Zealand, of any act which, if done or omitted outside New Zealand by a person owing such allegiance, would be any of the crimes of treason, inciting to mutiny, or espionage, as specified in sections 73, 77, and 78.
-(2) Every one is liable to imprisonment for a term not exceeding 10 years who, in New Zealand, incites, counsels, or attempts to procure the doing or omission outside New Zealand of any act which, if done or omitted in New Zealand, would be any such crime as aforesaid, when that act is not in fact done or omitted.
+(1A) A person who owes allegiance to the Sovereign in right of New Zealand commits an offence if the person, outside New Zealand, aids, incites, counsels, or procures the doing or omission outside New Zealand, by any person not owing allegiance to the Sovereign in right of New Zealand, of any act which, if done or omitted outside New Zealand by a person owing such allegiance, would be any of the crimes mentioned in subsection (1).
+(1B) A person who commits an offence against subsection (1A) is liable to imprisonment for a term not exceeding 14 years.
+(2) Every one is liable to imprisonment for a term not exceeding 10 years who, in New Zealand, incites, counsels, or attempts to procure the doing or omission outside New Zealand of any act which, if done or omitted in New Zealand, would be any of the crimes mentioned in subsection (1), when that act is not in fact done or omitted.
+(2A) A person who owes allegiance to the Sovereign in right of New Zealand commits an offence if the person, outside New Zealand, incites, counsels, or attempts to procure the doing or omission outside New Zealand of any act which, if done or omitted in New Zealand, would be any of the crimes mentioned in subsection (1), when that act is not in fact done or omitted.
+(2B) A person who commits an offence against subsection (2A) is liable to imprisonment for a term not exceeding 10 years.
 (3) Every one who, in New Zealand, aids, incites, counsels, or procures the doing or omission outside New Zealand of any act (not being an act to which the foregoing provisions of this section apply) which, if done or omitted in New Zealand, would be an offence other than murder punishable by imprisonment for life or by 2 or more years' imprisonment, is liable to imprisonment for a term not exceeding that prescribed for the offence, or 7 years, whichever is the less:provided that it shall be a defence to a charge under this subsection to prove that the doing or omission of the act to which the charge relates was not an offence under the law of the place where it was, or was to be, done or omitted.
 (4) Except as otherwise provided in this Act, no one shall be convicted of inciting, counselling, or attempting to procure in New Zealand the doing or omission of an act outside New Zealand when that act is not in fact done or omitted.
 (5) Nothing in this section limits or affects sections 9 to 11 of the International Crimes and International Criminal Court Act 2000.
+
+### 69A Party to certain acts or omissions in New Zealand
+Relevant act done or omitted
+(1) A person who owes allegiance to the Sovereign in right of New Zealand commits an offence if—
+  (a) the person, in or outside New Zealand, aids, abets, incites, counsels, or procures a person who does not owe such allegiance to do or omit a relevant act in New Zealand; and
+  (b) the relevant act is in fact done or omitted.
+(2) A person who commits an offence against subsection (1) is liable to imprisonment for a term not exceeding 14 years.
+Relevant act not done or omitted
+(3) A person who owes allegiance to the Sovereign in right of New Zealand commits an offence if—
+  (a) the person, in or outside New Zealand, incites, counsels, or attempts to procure a person who does not owe such allegiance to do or omit a relevant act in New Zealand; and
+  (b) the relevant act is not in fact done or omitted.
+(4) A person who commits an offence against subsection (3) is liable to imprisonment for a term not exceeding 10 years.
+Interpretation
+(5) In this section, relevant act means an act which, if done or omitted in New Zealand by a person who owes allegiance to the Sovereign in right of New Zealand, would be an offence against—
+  (a) section 73 (treason); or
+  (b) section 77 (inciting to mutiny); or
+  (c) section 78 (espionage).
 
 ### 70 Offence committed other than offence intended
 (1) Every one who incites, counsels, or procures another to be a party to an offence of which that other is afterwards guilty is a party to that offence, although it may be committed in a way different from that which was incited, counselled, or suggested.
@@ -567,7 +620,7 @@ Every one owing allegiance to the Sovereign in right of New Zealand is liable to
   (b) during any war or state of hostilities in which New Zealand forces are engaged, endeavours to seduce any person serving in any allied armed force, whether a Commonwealth force or not, from his or her duty.
 
 ### 78 Espionage
-Every one is liable to imprisonment for a term not exceeding 14 years who, being a person who owes allegiance to the Sovereign in right of New Zealand, within or outside New Zealand,—if the communication or delivery or intended communication or intended delivery under paragraph (a) or paragraph (b) is likely to prejudice the security or defence of New Zealand.
+(1) Every one is liable to imprisonment for a term not exceeding 14 years who, being a person who owes allegiance to the Sovereign in right of New Zealand, within or outside New Zealand,—if the communication or delivery or intended communication or intended delivery under paragraph (a) or paragraph (b) is likely to prejudice the security or defence of New Zealand.
   (a) with intent to prejudice the security or defence of New Zealand, communicates information or delivers any object to a country or organisation outside New Zealand or to a person acting on behalf of any such country or organisation; or
   (b) with intent to prejudice the security or defence of New Zealand and with the intention of communicating information or delivering any object to a country or organisation outside New Zealand or to a person acting on behalf of any such country or organisation,—
     (i) collects or records any information; or
@@ -577,6 +630,95 @@ Every one is liable to imprisonment for a term not exceeding 14 years who, being
     (v) takes any photograph; or
     (vi) records any sound or image; or
     (vii) delivers any object to any person,—
+(2) In this section,—
+  - **document** has the meaning given in section 217
+  - **information** includes information about military tactics, techniques, or procedures.
+
+### 78AAA Improper conduct for or on behalf of foreign power to compromise protected New Zealand interest
+Intentional conduct
+(1) A person commits an offence if—
+  (a) the person engages in improper conduct for or on behalf of a foreign power; and
+  (b) the person knows, or ought to know, that they are engaging in the conduct for or on behalf of a foreign power; and
+  (c) the person engages in the conduct intending to compromise a protected New Zealand interest.
+(2) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 14 years.
+Reckless conduct
+(3) A person commits an offence if—
+  (a) the person engages in improper conduct for or on behalf of a foreign power; and
+  (b) the person knows, or ought to know, that they are engaging in the conduct for or on behalf of a foreign power; and
+  (c) the person engages in the conduct being reckless as to whether doing so is likely to compromise a protected New Zealand interest.
+(4) A person who commits an offence against subsection (3) is liable on conviction to imprisonment for a term not exceeding 10 years.
+Interpretation
+(5) To avoid doubt,—
+  (a) the fact that a person protects information for a lawful purpose in the ordinary course of business, a profession, or an occupation, whether paid or unpaid, is not, by itself, a sufficient basis for inferring that the person is engaging in improper conduct:
+  (b) the fact that a person engages in any protest, advocacy, or dissent, or engages in any strike, lockout, or other industrial action, is not, by itself, a sufficient basis for inferring that the person is—
+    (i) intending to compromise a protected New Zealand interest; or
+    (ii) reckless as to whether the person’s conduct is likely to compromise a protected New Zealand interest.
+(6) Examples of conduct contemplated by subsection (5)﻿(a) include the protection of trade secrets, commercially sensitive information, personal information, journalists’ sources, or legally privileged communications, including by way of encryption.
+(7) In this section, conduct that a person engages in for or on behalf of a foreign power—
+  (a) includes conduct that is—
+    (i) instigated, directed, or supervised by a foreign power; or
+    (ii) undertaken in collaboration with, or with the assistance, funding, or agreement of, a foreign power; but
+  (b) excludes conduct that constitutes the lawful performance of the person’s functions or duties as an employee, contractor, authorised representative, or agent of the Government of New Zealand.
+(8) In this section,—
+  - **foreign power** means any of the following:
+    (a) a foreign government (as defined in section 105C):
+    (b) a foreign public agency (as defined in section 105C):
+    (c) a foreign public enterprise (as defined in section 105C):
+    (d) a foreign public official (as defined in section 105C, but as if the references to a public international organisation were removed):
+    (e) a political party within a foreign country (as defined in section 105C) that constitutes, forms part of, or represents a foreign government (as defined in section 105C):
+    (f) a person in their capacity as a holder of a political or official post if—
+      (i) the person holds that post as a result of, or in the course of, their membership of a political party referred to in paragraph (e); or
+      (ii) the person is subject to the direction or control of, or is significantly influenced by, a political party referred to in paragraph (e) in exercising the functions of that post:
+    (g) a company, body, organisation, or association whose main purpose is to support a political party referred to in paragraph (e)
+  - **improper conduct** means conduct that includes any of the following:
+    (a) conduct that is of a covert nature, which may include—
+      (i) concealing a person’s actions or identity:
+      (ii) obscuring the existence of an association or relationship:
+      (iii) collecting or sharing information about a person without their knowledge or consent:
+    (b) conduct that is of a deceptive nature, which may include—
+      (i) misrepresenting or obfuscating a person’s purpose in acting or not acting:
+      (ii) failing to disclose the consequences of acting or not acting in accordance with any representation:
+      (iii) making a false representation:
+      (iv) omitting any material particular in dealing with another person:
+    (c) conduct that is of a coercive nature, which may include—
+      (i) using intimidating, threatening, manipulative, or exploitative behaviour against another person:
+      (ii) enabling the denial or restriction of access to property or services that another person would otherwise be entitled to access:
+    (d) conduct that is of a corruptive nature, which may include abusing a person’s position or authority in a manner that enables the person to—
+      (i) exert undue influence or control over another person:
+      (ii) make a monetary or personal gain
+  - **protected New Zealand interest** means any of the following:
+    (a) the security or defence of New Zealand:
+    (b) the economic well-being of New Zealand:
+    (c) the international relations of New Zealand:
+    (d) the functioning of the executive, judiciary, or legislature of New Zealand:
+    (e) the exercise or performance of any public function, duty, or power conferred or imposed on a person or body by or pursuant to the law of New Zealand:
+    (f) the fair and impartial conduct of any election, poll, or referendum under the law of New Zealand:
+    (g) the ability of any person to exercise in New Zealand any human, civil, political, or democratic right recognised under the law of New Zealand:
+    (h) the safety or security of—
+      (i) any person in New Zealand; or
+      (ii) any citizen of New Zealand, whether or not that person is in New Zealand; or
+      (iii) any person ordinarily resident in New Zealand, whether or not that person is in New Zealand.
+
+### 78AAB Commission of imprisonable offence for or on behalf of foreign power to provide relevant benefit
+Intentional conduct
+(1) A person commits an offence if the person commits any imprisonable offence for or on behalf of a foreign power intending to provide a relevant benefit to a foreign power.
+(2) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years.
+Reckless conduct
+(3) A person commits an offence if the person commits any imprisonable offence for or on behalf of a foreign power being reckless as to whether doing so is likely to provide a relevant benefit to a foreign power.
+(4) A person who commits an offence against subsection (3) is liable on conviction to imprisonment for a term not exceeding 7 years.
+Interpretation
+(5) To avoid doubt, the fact that a person engages in any protest, advocacy, or dissent, or engages in any strike, lockout, or other industrial action, is not, by itself, a sufficient basis for inferring that the person is—
+  (a) intending to provide a relevant benefit to a foreign power; or
+  (b) reckless as to whether the person’s conduct is likely to provide a relevant benefit to a foreign power.
+(6) In this section, committing an imprisonable offence for or on behalf of a foreign power includes committing the offence—
+  (a) at the instigation, at the direction, or under the supervision of a foreign power; or
+  (b) in collaboration with, or with the assistance, funding, or agreement of, a foreign power.
+(7) In this section,—
+  - **foreign power** has the same meaning as in section 78AAA
+  - **to provide a relevant benefit to a foreign power** means 1 or more of the following:
+    (a) to support the intelligence activities of a foreign power:
+    (b) to enhance the political or economic influence or the military or technological capability of a foreign power:
+    (c) to advance the coercive influence of a foreign power over persons in or outside New Zealand.
 
 ### 78AA Wrongful communication, retention, or copying of classified information
 (1) Every person specified in subsection (2) is liable to imprisonment for a term not exceeding 5 years if the person, within or outside New Zealand,—
@@ -591,17 +733,17 @@ Every one is liable to imprisonment for a term not exceeding 14 years who, being
 (3) In this section,—
   - **classified information** means—
     (a) information that—
-      (i) is, or was, official information; and
+      (i) is, or was, relevant information; and
       (ii) is classified under the New Zealand Government Security Classification System as being accessible only to persons who have a national security clearance:
     (b) foreign government information that is—
       (i) classified in a foreign country; and
       (ii) accessible only to persons having a government-sponsored national security clearance
-  - **New Zealand Government Security Classification System** means the security classification system applying to official information that is published (and from time to time amended) on an Internet site maintained by or on behalf of the New Zealand Security Intelligence Service
-  - **official information** has the meaning given to it by section 78A(2).
+  - **New Zealand Government Security Classification System** means the security classification system applying to relevant information that is published (and from time to time amended) on an Internet site maintained by or on behalf of the New Zealand Security Intelligence Service
+  - **relevant information** has the meaning given to it by section 78A(2).
 
-### 78A Wrongful communication, retention, or copying of official information
+### 78A Wrongful communication, retention, or copying of relevant information
 (1) Every one is liable to imprisonment for a term not exceeding 3 years who, being a person who owes allegiance to the Sovereign in right of New Zealand, within or outside New Zealand,—
-  (a) knowingly or recklessly, and with knowledge that he or she is acting without proper authority, communicates any official information or delivers any object to any other person knowing that such communication or delivery is likely to prejudice the security or defence of New Zealand; or
+  (a) knowingly or recklessly, and with knowledge that he or she is acting without proper authority, communicates any information that is, or was, relevant information or delivers any object to any other person knowing that such communication or delivery is likely to prejudice the security or defence of New Zealand; or
   (b) with intent to prejudice the security or defence of New Zealand, retains or copies any official document—
     (i) which he or she knows he or she does not have proper authority to retain or copy; and
     (ii) which he or she knows relates to the security or defence of New Zealand; and
@@ -611,42 +753,59 @@ Every one is liable to imprisonment for a term not exceeding 14 years who, being
     (ii) which he or she knows relates to the security or defence of New Zealand; and
     (iii) which would, by its unauthorised disclosure, be likely to prejudice seriously the security or defence of New Zealand.
 (2) In this section,—
-  - **department** means a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975
+  - **document** has the meaning given in section 217
+  - **information** includes information about military tactics, techniques, or procedures
+  - **local authority** means a local authority or public body named or specified in Schedule 1 or 2 of the Local Government Official Information and Meetings Act 1987 and includes—
+    (a) any committee or subcommittee or standing committee or special committee or joint standing committee or joint special committee that the local authority is empowered to appoint under its standing orders or rules of procedure or under any enactment or Order in Council constituting the local authority or regulating its proceedings; and
+    (b) a committee of the whole local authority
   - **object** means any object which—is entitled to have in its or his or her possession by virtue of its or his or her rights as the owner, hirer, lessee, bailee, or custodian of that object
-    (a) a department; or
+    (a) a public service agency; or
+    (aa) a local authority; or
+    (ab) a relevant office; or
     (b) a Minister of the Crown in his or her official capacity; or
     (c) an organisation; or
-    (d) an officer or employee of any department or organisation in his or her capacity as such an officer or employee or in his or her capacity as a statutory officer; or
-    (e) an independent contractor engaged by any department or Minister of the Crown or organisation in his or her capacity as such contractor; or
-    (f) a branch or post, outside New Zealand, of a department or organisation; or
+    (d) an officer or employee of any public service agency or local authority or relevant office or organisation in his or her capacity as such an officer or employee or in his or her capacity as a statutory officer; or
+    (e) an independent contractor engaged by any public service agency or local authority or relevant office or Minister of the Crown or organisation in his or her capacity as such contractor; or
+    (f) a branch or post, outside New Zealand, of a public service agency or local authority or relevant office or organisation; or
     (g) an unincorporated body (being a board, council, committee, subcommittee, or other body)—
-      (i) which is established for the purpose of assisting or advising, or performing functions connected with, any department or Minister of the Crown or organisation; and
-      (ii) which is so established in accordance with the provisions of any enactment or by any department or Minister of the Crown or organisation,—
-  - **official information** —
-    (a) means any information held by—
-      (i) a department; or
-      (ii) a Minister of the Crown in his or her official capacity; or
-      (iii) an organisation; or
-      (iv) an officer or employee of any department or organisation in his or her capacity as such an officer or employee or in his or her capacity as a statutory officer; or
-      (v) an independent contractor engaged by any department or Minister of the Crown or organisation in his or her capacity as such contractor; and
-    (b) includes any information held outside New Zealand by any branch or post of—
-      (i) a department; or
-      (ii) an organisation; and
-    (c) includes any information held by an unincorporated body (being a board, council, committee, subcommittee, or other body)—
-      (i) which is established for the purpose of assisting or advising, or performing functions connected with, any department or Minister of the Crown or organisation; and
-      (ii) which is so established in accordance with the provisions of any enactment or by any department or Minister of the Crown or organisation
+      (i) which is established for the purpose of assisting or advising, or performing functions connected with, any public service agency or local authority or relevant office or Minister of the Crown or organisation; and
+      (ii) which is so established in accordance with the provisions of any enactment or by any public service agency or local authority or relevant office or Minister of the Crown or organisation,—
   - **organisation** means—
     (a) an organisation named in Part 2 of Schedule 1 of the Ombudsmen Act 1975:
     (b) an organisation named in Schedule 1 of the Official Information Act 1982
+  - **public service agency** means a department, departmental agency, interdepartmental executive board, or interdepartmental venture named in Parts 1 to 1C of Schedule 1 of the Ombudsmen Act 1975
+  - **relevant information** —
+    (a) means any information held by—
+      (i) a public service agency; or
+      (ii) a local authority; or
+      (iii) a relevant office; or
+      (iv) a Minister of the Crown in their official capacity; or
+      (v) an organisation; or
+      (vi) an officer or employee of any public service agency, local authority, relevant office, or organisation in their capacity as such an officer or employee or in their capacity as a statutory officer; or
+      (vii) an independent contractor engaged by any public service agency, local authority, relevant office, Minister of the Crown, or organisation in their capacity as such contractor; and
+    (b) includes any information held outside New Zealand by any branch or post of—
+      (i) a public service agency; or
+      (ii) a local authority; or
+      (iii) a relevant office; or
+      (iv) an organisation; and
+    (c) includes any information held by an unincorporated body (being a board, council, committee, subcommittee, or other body)—
+      (i) that is established for the purpose of assisting or advising, or performing functions connected with, any public service agency, local authority, relevant office, Minister of the Crown, or organisation; and
+      (ii) that is so established in accordance with the provisions of any enactment or by any public service agency, local authority, relevant office, Minister of the Crown, or organisation
+  - **relevant office** means—
+    (a) the Inspector-General of Intelligence and Security, the Deputy Inspector-General of Intelligence and Security, or any employee of the Inspector-General of Intelligence and Security, acting in that capacity:
+    (b) the Controller and Auditor-General, the Deputy Controller and Auditor-General, or any employee or appointed auditor of the Controller and Auditor-General, acting in that capacity:
+    (c) any Ombudsman appointed under the Ombudsmen Act 1975 or any officer or employee of the Chief Ombudsman, acting in that capacity:
+    (d) the Office of the Clerk of the House of Representatives:
+    (e) the Independent Police Conduct Authority
   - **statutory officer** means a person—
     (a) holding or performing the duties of an office established by an enactment; or
     (b) performing duties expressly conferred on him or her by virtue of his or her office by an enactment.
 
-### 78B Consent of Attorney-General to proceedings in relation to espionage or wrongful communication, retention, or copying of classified information or official information
+### 78B Consent of Attorney-General to proceedings in relation to certain offences
 (1) No charging document may be filed against any person for—except with the consent of the Attorney-General:provided that a person alleged to have committed any offence mentioned in this subsection may be arrested, or a warrant for his or her arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the filing of a charge for the offence has not been obtained, but no further or other proceedings shall be taken until that consent has been obtained.
-  (a) an offence against section 78, 78AA(1), or 78A(1); or
-  (b) the offence of conspiring to commit an offence against section 78, 78AA(1), or 78A(1); or
-  (c) the offence of attempting to commit an offence against section 78, 78AA(1), or 78A(1),—
+  (a) an offence against section 78, 78AAA(1), 78AAA(3), 78AAB(1), 78AAB(3), 78AA(1), or 78A(1); or
+  (b) the offence of conspiring to commit an offence against section 78, 78AAA(1), 78AAA(3), 78AAB(1), 78AAB(3), 78AA(1), or 78A(1); or
+  (c) the offence of attempting to commit an offence against section 78, 78AAA(1), 78AAA(3), 78AAB(1), 78AAB(3), 78AA(1), or 78A(1),—
 (2) The Attorney-General may, before deciding whether or not to give his or her consent under subsection (1), make such inquiries as he or she thinks fit.
 
 ### 78C Questions of law in relation to espionage or wrongful communication of information
@@ -953,7 +1112,7 @@ In this Part, unless the context otherwise requires,—
 (2) Every one is liable to imprisonment for a term not exceeding 7 years who corruptly gives or offers or agrees to give any bribe to any person with intent to influence any official in respect of any act or omission by him or her in his or her official capacity.
 
 ### 105A Corrupt use of official information
-Every official is liable to imprisonment for a term not exceeding 7 years who, whether within New Zealand or elsewhere, corruptly uses or discloses any information, acquired by him or her in his or her official capacity, to obtain, directly or indirectly, an advantage or a pecuniary gain for himself or herself or any other person.
+Every official is liable to imprisonment for a term not exceeding 7 years who, whether within New Zealand or elsewhere, corruptly uses or discloses any information (including information about military tactics, techniques, or procedures), acquired by him or her in his or her official capacity, to obtain, directly or indirectly, an advantage or a pecuniary gain for himself or herself or any other person.
 
 ### 105B Use or disclosure of personal information disclosed in breach of section 105A
 (1) Every person is liable to imprisonment for a term not exceeding 7 years who,—uses or discloses that information to obtain, directly or indirectly, an advantage or pecuniary gain for that person or any other person.
@@ -1571,6 +1730,7 @@ Culpable homicide is murder in each of the following cases:
   (c) if he or she by any means wilfully stops the breath of any person for any of the purposes aforesaid, and death ensues from such stopping of breath.
 (2) The offences referred to in subsection (1) are those specified in the following provisions of this Act, namely:
   (a) section 73 (Treason) or section 78 (Espionage):
+  (aa) section 78AAA (Improper conduct for or on behalf of foreign power):
   (b) section 79 (Sabotage):
   (c) section 92 (Piracy):
   (d) section 93 (Piratical acts):
@@ -1618,7 +1778,7 @@ Every one is liable to imprisonment for a term not exceeding 7 years who is an a
 
 ### 178 Infanticide
 (1) Where a woman causes the death of any child of hers under the age of 10 years in a manner that amounts to culpable homicide, and where at the time of the offence the balance of her mind was disturbed, by reason of her not having fully recovered from the effect of giving birth to that or any other child, or by reason of the effect of lactation, or by reason of any disorder consequent upon childbirth or lactation, to such an extent that she should not be held fully responsible, she is guilty of infanticide, and not of murder or manslaughter, and is liable to imprisonment for a term not exceeding 3 years.
-(2) Where upon the trial of a woman for the murder or manslaughter of any child of hers under the age of 10 years there is evidence that would support a verdict of infanticide, the jury may return such a verdict instead of a verdict of murder or manslaughter, and the defendant shall be liable accordingly. Subsection (2) of section 339 shall be read subject to the provisions of this subsection, but nothing in this subsection shall affect the power of the jury under that section to return a verdict of manslaughter.
+(2) Where upon the trial of a woman for the murder or manslaughter of any child of hers under the age of 10 years there is evidence that would support a verdict of infanticide, the jury may return such a verdict instead of a verdict of murder or manslaughter, and the defendant shall be liable accordingly. Section 110 of the Criminal Procedure Act 2011 shall be read subject to the provisions of this subsection, but nothing in this subsection shall affect the power of the jury under that section to return a verdict of manslaughter.
 (3) Where upon the trial of a woman for infanticide, or for the murder or manslaughter of any child of hers under the age of 10 years, the jury are of opinion that at the time of the alleged offence the balance of her mind was disturbed, by reason of her not having fully recovered from the effect of giving birth to that or any other child, or by reason of the effect of lactation, or by reason of any disorder consequent upon childbirth or lactation, to such an extent that she was insane, the jury shall return a special verdict of acquittal on account of insanity caused by childbirth.
 (4) If the jury returns a special verdict under subsection (3), the Judge must order that the woman be examined by 2 medical practitioners and the following provisions apply:
   (a) pending the receipt by the Judge of certificates from the medical practitioners, the woman must be detained in a place that the Judge thinks appropriate, and that place must be one of the following:
