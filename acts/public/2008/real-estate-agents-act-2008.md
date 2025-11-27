@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2025-10-22_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -628,7 +628,7 @@ For the purposes of this Act, a licensee is guilty of misconduct if the licensee
   (a) refer the complaint to the Registrar of the register of licensees, who must consider whether to deal with the complaint under subsection (3); and
   (b) if the Registrar decides not to deal with the complaint under that subsection, refer the complaint to a Committee for determination and notify the person complained about of the reference.
 (3) The Registrar may determine that—
-  (a) the complaint discloses only an inconsequential matter, and for that reason need not be pursued:
+  (a) the complaint is not sufficiently serious to warrant further action, and for that reason need not be pursued:
   (b) the complaint is frivolous or vexatious or not made in good faith, and for that reason need not be pursued:
   (c) the complaint should be referred to another agency, and refer it accordingly:
   (d) the complaint has been resolved to the complainant’s satisfaction and no further action is needed.
@@ -843,6 +843,13 @@ The provisions of Schedule 1 have effect in relation to the Tribunal and its pro
 ### 105 Proceeding before Tribunal
 (1) The Tribunal may regulate its procedures as it thinks fit.
 (2) Subsection (1) is subject to the rules of natural justice, this Act, any regulations made under this Act, and any practice notes issued under section 115A.
+
+### 105A Manner of giving documents to Tribunal
+Any notice or other document required under the following sections to be given to the Tribunal by written notice may be given electronically if it is transmitted to an electronic address provided by the Tribunal:
+  (a) section 91:
+  (b) section 111:
+  (c) section 112:
+  (d) section 115.
 
 ### 106 Representation before Disciplinary Tribunal
 (1) Every person whose rights may be affected by a proceeding of the Disciplinary Tribunal (other than a review under section 112) is entitled to appear and be heard at the hearing of that proceeding and to be represented by counsel or otherwise.
