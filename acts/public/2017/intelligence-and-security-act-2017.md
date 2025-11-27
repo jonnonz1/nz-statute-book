@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -1882,7 +1882,7 @@ Any information, document, or thing produced by any person in the course of an i
   (d) a person who is, or has been, a member of the advisory panel.
 (2) Nothing in subsection (1) applies in respect of proceedings for—
   (a) an offence against section 219; or
-  (b) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+  (b) an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
   (c) an offence of conspiring to commit an offence against any of those sections of the Crimes Act 1961; or
   (d) an offence of attempting to commit an offence against any of those sections of the Crimes Act 1961.
 
@@ -3407,7 +3407,7 @@ The Inspector-General and Deputy Inspector-General must each give written notice
 (2) A member of the advisory panel is not personally liable for any act done or omitted to be done in good faith in the performance or intended performance of his or her functions or duties.
 (3) Nothing in subclauses (1) and (2) applies in respect of proceedings for—
   (a) an offence against section 219; or
-  (b) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+  (b) an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
   (c) an offence of conspiring to commit an offence against any of those sections of the Crimes Act 1961; or
   (d) an offence of attempting to commit an offence against any of those sections of the Crimes Act 1961.
 
