@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-11-27_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -32,7 +32,7 @@ _Consolidation as at 2023-12-23_
   - **health practitioner** has the same meaning as in section 5 of the Health Practitioners Competence Assurance Act 2003
   - **local authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **manager** means the manager of a denominational burial ground
-  - **Maori burial ground** means any land set apart for the purposes of a burial ground under section 439 of the Maori Affairs Act 1953 or any corresponding former provision
+  - **Maori burial ground** means any land set apart for the purposes of a burial ground under section 338 of Te Ture Whenua Maori Act 1993 or any corresponding former provision
   - **medical practitioner** means a health practitioner who—
     (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; and
     (b) holds a current practising certificate
@@ -421,7 +421,7 @@ The Minister may, by any reopening order or by any later notice in the Gazette,�
   (c) has examined the person's body.
 (6) A certificate of cause of death must not be given under subsection (2) or (3) if—
   (a) the death—
-    (i) must be reported to the New Zealand Police because section 13 (except subsection (1)﻿(b)) of the Coroners Act 2006 applies; or
+    (i) must be reported to the New Zealand Police because section 14(2) (except paragraph (f)) of the Coroners Act 2006 applies; or
     (ii) has been reported to a coroner under section 15(2) of that Act; and
   (b) the coroner has decided to open an inquiry into the death.
 
