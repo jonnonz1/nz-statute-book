@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-11-27_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -263,7 +263,7 @@ A radio engineer issuing a certificate under section 25—
 (2) If 2 or more instruments executed by the same manager or rightholder, and purporting to transfer management rights in relation to the same radio frequencies, or to transfer the same spectrum licence, are presented at the same time to the Registrar for registration, the Registrar shall not register any of the transfers to which the instruments relate until the Registrar is satisfied that one of the instruments has priority in time over the other instrument or instruments and shall, in that case, accept for registration the instrument having priority.
 
 ### 28 Register to be open for search
-(1) Any person may, upon payment of the prescribed fee, have access to the register for the purpose of determining whether or not any radio frequency is subject to a record of management rights, a spectrum licence, or a radio licence and determining the identity of the owner of a management right, a rightholder, or the holder of a radio licence.
+(1) Any person may, upon payment of the prescribed fee (if any), have access to the register for the purpose of determining whether or not any radio frequency is subject to a record of management rights, a spectrum licence, or a radio licence and determining the identity of the owner of a management right, a rightholder, or the holder of a radio licence.
 (2) The register must be so arranged that it may be searched by—
   (a) reference number; or
   (b) frequency band or frequency within a frequency band; or
@@ -274,11 +274,11 @@ A radio engineer issuing a certificate under section 25—
 (4) Information protected in accordance with this section may be disclosed to the persons or class of persons prescribed in regulations made under this Act for the purposes prescribed in those regulations.
 
 ### 29 Registrar to issue search copies
-(1) The Registrar shall, upon application and payment of the prescribed fee, furnish to any person a copy of any record in the register.
+(1) The Registrar shall, upon application and payment of the prescribed fee (if any), furnish to any person a copy of any record in the register.
 (2) Nothing in subsection (1) requires the Registrar to furnish to any person a copy of any record if permission to search that record has been or could be declined to that person pursuant to section 28(3).
 
 ### 30 Certified copies of register to be evidence
-(1) The Registrar shall, upon application and payment of the prescribed fee, furnish to any person a certified copy of any record in the register.
+(1) The Registrar shall, upon application and payment of the prescribed fee (if any), furnish to any person a certified copy of any record in the register.
 (2) Every such certified copy signed by the Registrar shall be received in evidence for all purposes as conclusive evidence that the particulars shown on the certified copy have been duly registered.
 (3) Nothing in subsection (1) requires the Registrar to furnish to any person a certified copy of any record if permission to search that record has been or could be declined to that person pursuant to section 28(3).
 (4) This section does not apply to records of radio licences.
@@ -681,9 +681,9 @@ The Registrar shall not be required to produce in any court of law or elsewhere 
 ### 72 Liability of officers
 (1) No criminal proceedings shall lie against the Registrar, or any employee employed to assist the Registrar in the exercise of the Registrar's functions under this Act, for anything the Registrar or employee may do or fail to do in the course of the exercise or intended exercise of the functions of the Registrar, unless it is shown that the Registrar or employee acted in bad faith.
 (2) Nothing in subsection (1) applies in respect of proceedings for—
-  (a) an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961; or
-  (b) the offence of conspiring to commit an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961; or
-  (c) the offence of attempting to commit an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961.
+  (a) an offence against section 78 or section 78AAA or section 78AAB or section 78AA or section 78A or section 105 or section 105A of the Crimes Act 1961; or
+  (b) the offence of conspiring to commit an offence against section 78 or section 78AAA or section 78AAB or section 78AA or section 78A or section 105 or section 105A of the Crimes Act 1961; or
+  (c) the offence of attempting to commit an offence against section 78 or section 78AAA or section 78AAB or section 78AA or section 78A or section 105 or section 105A of the Crimes Act 1961.
 (3) Where any civil proceedings are brought against the Registrar, or any employee employed to assist the Registrar in the exercise of the Registrar's functions under this Act, in their personal capacities, for anything the Registrar or employee has done or failed to do in the course of the exercise or intended exercise of the functions of the Registrar, the Registrar or employee is entitled to be indemnified by the Crown in respect of all expenses incurred by him or her in connection with the proceedings, and in respect of any amount awarded against him or her in those proceedings, unless it is shown that the Registrar or employee acted, or failed to act, in bad faith.
 
 ### 72A Matters relevant to radio engineer's certificate
@@ -1083,8 +1083,11 @@ Where any person is alleged to have committed an infringement offence, that pers
 (2) An infringement notice may be served—
   (a) by attaching an infringement notice, or a copy of an infringement notice, to the equipment to which the notice relates; or
   (b) by delivering it personally to the person who appears to have committed the infringement offence; or
-  (c) by sending it by post addressed to that person at that person's last known place of residence or business.
-(3) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent to a person by post under subsection (2)﻿(c) is deemed to have been served on the person when it would have been delivered in the ordinary course of post.
+  (c) by sending it by post addressed to that person at that person's last known place of residence or business; or
+  (d) by sending it to an electronic address of the person in any case where the person does not have a known place of residence or business in New Zealand.
+(3) For the purposes of the Summary Proceedings Act 1957, unless the contrary is shown,—
+  (a) an infringement notice sent to a person by post under subsection (2)﻿(c) is to be treated as having been served on the person when it would have been delivered in the ordinary course of post; and
+  (b) an infringement notice sent to a valid electronic address under subsection (2)﻿(d) is to be treated as having been served at the time the electronic communication first enters an information system that is outside the control of the Secretary or the authorised person.
 (4) Every infringement notice must be in the prescribed form and must contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence:
   (b) the amount of the infringement fee for that offence:
