@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2025-11-27_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -3986,7 +3986,7 @@ Requirement relating to acquisition of first share or option
 (3) The second requirement is that, when the non-resident first acquires a share or option to buy a share (the first interest) in the company, a person (the venture capital manager) must acquire, at the same time and on the same terms,—
   (a) the first interest, on behalf of the non-resident; and
   (b) another share or option that confers the same rights and imposes the same obligations as the first interest—
-    (i) on behalf of the Venture Investment Fund or a company owned by the Venture Investment Fund; and
+    (i) on behalf of New Zealand Growth Capital Partners Limited or a company owned by New Zealand Growth Capital Partners Limited; and
     (ii) under a venture investment agreement.
 Continuing requirement relating to company
 (4) The third requirement is that, while the non-resident holds the share or option, the company must not have 1 or more of the following as a main activity:
@@ -4001,13 +4001,13 @@ Continuing requirement relating to company
 Requirement relating to situation at disposition of share or option
 (5) The fourth requirement is that, when the non-resident disposes of the share or option,—
   (a) the venture capital manager must have complied with the venture capital manager’s obligations under the venture investment agreement; and
-  (b) the non-resident must have complied with the non-resident’s obligations under any agreement between the non-resident and the Venture Investment Fund or a company owned by the Venture Investment Fund; and
+  (b) the non-resident must have complied with the non-resident’s obligations under any agreement between the non-resident and New Zealand Growth Capital Partners Limited or a company owned by New Zealand Growth Capital Partners Limited; and
   (c) no person who is resident in New Zealand and no group of associated persons who are resident in New Zealand has a direct or indirect interest of more than 10% in the share or option.
 Venture investment agreement
 (6) In this section, venture investment agreement means an agreement that—
   (a) is an agreement, relating to investment in companies, between parties that include—
     (i) a venture capital manager; and
-    (ii) the Venture Investment Fund or a company owned by the Venture Investment Fund; and
+    (ii) New Zealand Growth Capital Partners Limited or a company owned by New Zealand Growth Capital Partners Limited; and
   (b) provides for investments under the agreement to be managed by the venture capital manager; and
   (c) provides that an investment under the agreement must be in a company that, when the first investment in the company under the agreement is made, has in New Zealand—
     (i) more than 50% in value of the company’s assets; and
@@ -18776,7 +18776,7 @@ A person's rights in a FIF in an income year are not an attributing interest if�
   (a) the FIF is a grey list company; and
   (b) the person first acquires a share or option to buy a share in the company—
     (i) under a venture investment agreement; and
-    (ii) at the same time and on the same terms as an acquisition of an interest in the FIF by the Venture Investment Fund or a company owned by the Venture Investment Fund.
+    (ii) at the same time and on the same terms as an acquisition of an interest in the FIF by New Zealand Growth Capital Partners Limited or a company owned by New Zealand Growth Capital Partners Limited.
 
 ### EX 38 Exemptions for employee share schemes
 Grey list companies
@@ -46681,6 +46681,7 @@ In this Act, unless the context requires otherwise,—
   - **New Zealand banking group** , for a registered bank, means the New Zealand banking group referred to in sections FE 36 and FE 36B (which identify the members of a New Zealand banking group) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **New Zealand business** , in relation to a life insurer not resident in New Zealand, means the part of the business of the life insurer that consists of life insurance policies or life reinsurance policies offered or entered into in New Zealand
   - **New Zealand emissions unit** means a New Zealand unit as defined in section 4(1) of the Climate Change Response Act 2002
+  - **New Zealand Growth Capital Partners Limited** means the company called New Zealand Growth Capital Partners Limited that is listed in Schedule 2 of the Crown Entities Act 2004
   - **New Zealand net equity** , for a New Zealand banking group is the amount referred to in section FE 21 (Banking group’s New Zealand net equity) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **New Zealand-new asset** is defined in section EZ 25 (Meaning of New Zealand-new asset)
   - **New Zealand partnership** means a partnership that—
@@ -48211,7 +48212,7 @@ In this Act, unless the context requires otherwise,—
     (b) in the old financial arrangements rules, is defined in section EZ 48 (Definitions)
   - **VCF** means the Venture Capital Fund established under section 8 of the Venture Capital Fund Act 2019
   - **venture investment agreement** is defined in section CW 13(6) (Proceeds from share or option acquired under venture investment agreement)
-  - **Venture Investment Fund** means the company called New Zealand Venture Investment Fund Limited that is listed in Schedule 2 of the Crown Entities Act 2004
+  - **Venture Investment Fund**
   - **veteran’s pension** means any of the following:
     (a) a veteran’s pension, other than a portable veteran’s pension, paid or payable under Part 6 of the Veterans’ Support Act 2014:
     (b) veteran’s pension equivalent assistance
