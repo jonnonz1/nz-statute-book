@@ -1,5 +1,5 @@
 # Incorporated Societies Act 2022
-_Consolidation as at 2023-10-05_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Incorporated Societies Act 2022.
@@ -2145,7 +2145,7 @@ The High Court may hear and determine the following matters:
     (iv) access to the register:
     (v) search criteria for the register:
     (vi) circumstances in which amendments must be made to the register:
-  (u) specifying Acts for the purposes of section 257 and Schedule 3 (which allow an entity formed or incorporated by or under a specified Act to apply to be reregistered as an incorporated society):
+  (u) specifying Acts and Provincial Ordinances for the purposes of section 257 and Schedule 3 (which allow an entity formed or incorporated by or under a specified Act or Provincial Ordinance to apply to be reregistered as an incorporated society):
   (v) specifying the preconditions that must be met for a body corporate or other association (an entity) to be reregistered as an incorporated society under section 257 and Schedule 3:
   (w) specifying terms and conditions that must be complied with by an entity after it has reregistered as an incorporated society under section 257 and Schedule 3:
   (x) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
@@ -2196,7 +2196,7 @@ The High Court may hear and determine the following matters:
 ### Subpart 4 — Conversion of entities into incorporated societies
 
 ### 257 Entities formed or incorporated by other Acts may convert to be incorporated societies
-A body corporate or other association that is formed or incorporated by or under an Act that is specified by the regulations for the purposes of this section may be reregistered as an incorporated society under this Act in accordance with Schedule 3.
+A body corporate or other association that is formed or incorporated by or under an Act or a Provincial Ordinance that is specified by the regulations for the purposes of this section may be reregistered as an incorporated society under this Act in accordance with Schedule 3.
 
 ### 258 Consequences of failing to comply with terms or conditions of conversion
 (1) This section applies if an incorporated society fails to comply with a term or condition imposed under regulations made under section 254(1)﻿(w).
@@ -2546,7 +2546,7 @@ A person may not act as a decision maker in relation to a complaint if 2 or more
 ## Schedule 3 — Conversion of entity into incorporated society
 
 ### 1 When schedule applies
-This schedule applies to a body corporate or other association (a specified entity) that is formed or incorporated by or under an Act that is specified by the regulations (the entity’s Act).
+This schedule applies to a body corporate or other association (a specified entity) that is formed or incorporated by or under an Act or a Provincial Ordinance that is specified by the regulations (the entity’s legislation).
 
 ### 2 Specified entity may decide to be reregistered as incorporated society
 (1) This clause sets out how a specified entity may decide to apply to be reregistered as an incorporated society under this Act.
@@ -2580,8 +2580,8 @@ An application for reregistration under this schedule must—
   (a) all the requirements of this schedule about applying for reregistration have been complied with; and
   (b) on and from the date of reregistration stated in the certificate, the specified entity is reregistered as a society and incorporated under this Act.
 
-### 5 Entity’s Act ceases to apply on reregistration
-The entity’s Act ceases to apply to the specified entity on its reregistration as a society under this Act.
+### 5 Entity’s legislation ceases to apply on reregistration
+The entity’s legislation ceases to apply to the specified entity on its reregistration as a society under this Act.
 
 ### 6 Consequences of reregistering specified entity under this Act
 (1) A specified entity that is reregistered as a society under this Act continues as the same legal entity.
