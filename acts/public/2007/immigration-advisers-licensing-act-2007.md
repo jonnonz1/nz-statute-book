@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -184,7 +184,12 @@ The following persons must not be licensed unless the Registrar is satisfied tha
 In determining a person's fitness to be licensed, the Registrar may take into account—
   (a) any conviction, whether in New Zealand or in another country, for an offence of a kind other than those referred to in sections 15 and 16:
   (b) any disciplinary proceedings, whether in New Zealand or in another country, and whether in relation to the provision of immigration advice or in relation to the conduct of any other occupation or profession, taken or being taken against the person (including any past cancellation or suspension of a licence under this Act, or any non-compliance with any other sanction imposed under this Act):
-  (c) whether or not the person is related by employment or association to a person to whom a licence would be refused under this section or section 15 or 16:
+  (c) whether or not the person is related by employment or association to a person—
+    (i) who has previously been refused a licence; or
+    (ii) who is prohibited from being licensed under section 15; or
+    (iii) who is subject to a restriction on being licensed under section 16; or
+    (iv) who has a conviction for an offence of a kind referred to in paragraph (a); or
+    (v) against whom disciplinary proceedings of a kind referred to in paragraph (b) have been taken or are being taken:
   (d) any other matters that the Registrar considers relevant.
 
 **Licensing process**
@@ -194,7 +199,7 @@ An application for licensing as an immigration adviser must—
   (a) be made to the Registrar in a form approved by the Registrar; and
   (b) be accompanied by the prescribed fee (if any); and
   (c) include the following information:
-    (i) the applicant's full name and date of birth; and
+    (i) the applicant's full name (including any aliases and former names used by the applicant) and date of birth; and
     (ii) a physical address at which documents can be served on the applicant; and
     (iii) the person's business address (if different from the address referred to in subparagraph (ii)); and
     (iv) any further information and other material that may be prescribed or required by the Registrar; and
