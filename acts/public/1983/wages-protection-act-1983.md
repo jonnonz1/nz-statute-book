@@ -1,5 +1,5 @@
 # Wages Protection Act 1983
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-11-27_
 
 > An Act to consolidate and amend the law relating to the payment of wages and salaries
 
@@ -89,7 +89,9 @@ Where any wages become payable to a worker who is for the time being absent from
 (1) Subject to subsections (2) and (3), a worker, or a Labour Inspector on behalf of a worker, may recover from that worker's employer, by action in the Employment Relations Authority, established by the Employment Relations Act 2000, in the prescribed manner,—
   (a) any deduction made (otherwise than pursuant to section 6) by that employer from wages that have been paid, or but for that deduction would have been paid, by that employer to that worker, if—
     (i) that deduction was not consented to, or requested by, that worker in writing; or
-    (ii) the making of that deduction was consented to, or requested by, that worker in writing; but the consent or request concerned was obtained by threat of dismissal, or otherwise by duress:
+    (ii) the making of that deduction was consented to, or requested by, that worker in writing; but the consent or request concerned was obtained by threat of dismissal, or otherwise by duress; or
+    (iii) the making of that deduction was in accordance with a general deductions clause in that worker’s employment agreement but that worker was not consulted before that deduction was made; or
+    (iv) that deduction was unreasonable:
   (b) an amount equal to any wages required by section 7 to be paid to that worker in money, if that employer paid those wages to that worker otherwise than in money.
 (2) No action under subsection (1) shall be brought after the expiration of 6 years from the date on which the cause of action concerned arose.
 (3) No such action shall be brought in respect of any cause of action that arose more than 2 years before the commencement of this Act.
