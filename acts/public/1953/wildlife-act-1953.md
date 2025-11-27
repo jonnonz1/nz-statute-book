@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2025-05-14_
+_Consolidation as at 2025-11-27_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -388,7 +388,7 @@ In determining the maximum allowable level of fishing-related mortality for thre
   (a) approve the Council's draft notice; or
   (b) require the Council to amend the draft notice in such manner as the Minister may specify.
 (4) As soon as practicable after the draft notice is approved by the Minister, the New Zealand Fish and Game Council must arrange for it to be published under the Legislation Act 2019.
-(5) At any time during an open game season declared under subsection (4), the notice published in respect of that season may in like manner—
+(5) At any time before or during an open game season declared under subsection (4), the notice published in respect of that season may in like manner—
   (a) be amended; or
   (b) be revoked and be replaced by a new notice.
 (6) Every person who hunts or kills any game during a close season commits an offence against this Act and is liable on conviction to the penalty set out in section 67E(3).
@@ -1027,7 +1027,9 @@ Every person who, without lawful authority, breaches or fails to comply with any
 (2) A person who is required to give information or produce evidence under subsection (1) must—
   (a) give the information:
   (b) produce the evidence as soon as practicable.
-(3) A person who contravenes subsection (2) commits an offence and is liable on conviction to the penalty set out in section 67F(5).
+(3) A person commits an offence and is liable on conviction to the penalty set out in section 67F(5) if the person—
+  (a) contravenes subsection (2); or
+  (b) wilfully gives false information or provides false evidence under subsection (2).
 (4) In this section,—
   - **authorised person** has the meaning given in section 61(3)
   - **honorary fish and game ranger** means a person appointed to be a fish and game ranger in an honorary capacity under section 26FA(2) of the Conservation Act 1987
