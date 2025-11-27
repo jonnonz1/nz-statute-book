@@ -1,5 +1,5 @@
 # Ngāti Rangi Claims Settlement Act 2019
-_Consolidation as at 2025-08-27_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Ngāti Rangi Claims Settlement Act 2019.
@@ -1636,7 +1636,7 @@ In subparts 1 to 3,—
 (2) Each property ceases to be a conservation area under the Conservation Act 1987 immediately before it is transferred under section 130.
 
 ### 132 Transfer of defence area land to trustees
-(1) If a binding agreement for the transfer of any defence area land is reached by the New Zealand Defence Force and the trustees within a period of 4 years from the settlement date, the New Zealand Defence Force may transfer the land specified in the agreement to the trustees for the purpose described in subsection (2).
+(1) If a binding agreement for the transfer of any defence area land is reached by the New Zealand Defence Force and the trustees within a period of 7 years from the settlement date, the New Zealand Defence Force may transfer the land specified in the agreement to the trustees for the purpose described in subsection (2).
 (2) The New Zealand Defence Force may transfer to the trustees any defence area land specified in the agreement on condition that the land is used only for the purpose of a commercial housing venture, on the terms set out in clauses 11.26.2 to 11.26.4 of the deed of settlement.
 
 ### 133 Minister of Conservation may grant easements
