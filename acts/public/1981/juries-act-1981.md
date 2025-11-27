@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2024-11-26_
+_Consolidation as at 2025-11-27_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -134,7 +134,7 @@ A jury list remains current until it is replaced by a new list provided by the E
   (b) disqualified according to section 7; or
   (c) not to serve on any jury according to section 8; or
   (d) otherwise prevented or excused from serving on a jury by this Act or by order of a Judge; or
-  (da) an applicant for deferral of jury service, under section 14B, whose application has been accepted but who has not yet been issued with a replacement summons under section 14C(1)﻿(d); or
+  (da) an applicant for deferral of jury service, under section 14B, whose application has been accepted but who has not yet been issued with a replacement summons; or
   (e) dead.
 (2) In exercising the power to amend the jury list, the Registrar may act on his or her own knowledge, or on such evidence as he or she considers satisfactory.
 
@@ -145,7 +145,7 @@ A jury list remains current until it is replaced by a new list provided by the E
 (3) Every person who is summoned for jury service shall be liable to serve until the end of the week for which that person was summoned.
 (3A) Subsection (3) does not apply to a person who is summoned for jury service if—
   (a) the Registrar has, following an application under section 14B, permitted the person to defer that person's jury service and—
-    (i) the person is summoned under a replacement summons issued under section 14C(1)﻿(c) (in which case the person is liable to serve until the end of the week for which the person is summoned under the replacement summons); or
+    (i) the person is summoned under a replacement summons (in which case the person is liable to serve until the end of the week for which the person is summoned under the replacement summons); or
     (ii) the Registrar has served on the person a written notice under section 14C(1)﻿(d) (in which case the person is no longer liable to serve as a juror as a result of the summons in respect of which the application under section 14B was made); or
   (b) the Registrar has, under section 15, excused the person from jury service on a particular occasion; or
   (ba) the Registrar has, under section 15A, excused the person from jury service permanently (unless the person's permanent excusal is cancelled under section 15A(3) before the person is summoned for jury service); or
