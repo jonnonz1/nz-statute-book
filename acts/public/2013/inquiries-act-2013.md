@@ -1,5 +1,5 @@
 # Inquiries Act 2013
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Inquiries Act 2013.
@@ -340,7 +340,17 @@ Every person who commits an offence against section 29(1) is liable, on convicti
   (a) the Chief Archivist must authorise the disposal of the public records of the inquiry under section 20 of the Public Records Act 2005; and
   (b) the relevant department must dispose of the public records of that inquiry in accordance with the authority issued by the Chief Archivist.
 (3) The Chief Archivist may accept the transfer of any things from an inquiry to the control of the Chief Archivist, even though that thing is not a public record.
-(4) In determining, for the purposes of Part 3 of the Public Records Act 2005, the access status of the public records or any things transferred to the control of the Chief Archivist under this section, the relevant department must take into account any order made by the inquiry under section 15(1).
+(4) In determining, for the purposes of Part 3 of the Public Records Act 2005, the access status of the public records or any things transferred to the control of the Chief Archivist under this section, if an order has been made under section 15(1) of this Act that—
+  (a) applies for a specified time period, the relevant department must act consistently with the order:
+  (b) applies permanently, the relevant department must take the order into account.
+(4A) In this subsection and subsection (4),—
+  - **act consistently with the order** means,—
+    (a) if the order forbids publication of any thing described in section 15(1)﻿(a)﻿(i) to (iv), to classify any records relating to that thing as restricted access records as defined in section 4 of the Public Records Act 2005:
+    (b) if the order restricts public access to any part or aspect of the inquiry, to classify any records relating to that part or aspect as restricted access records:
+    (c) if the order requires the inquiry or any part of it to be held in private, to classify any records relating to that inquiry or part of an inquiry as restricted access records as defined in section 4 of the Public Records Act 2005
+  - **take the order into account** means to consider whether the reasons for making the order still apply and,—
+    (a) if they do, to act consistently with the order:
+    (b) if they do not, to classify the record in accordance with section 44 of the Public Records Act 2005.
 (5) In this section, public record has the meaning it is given in section 4 of the Public Records Act 2005.
 
 **Court proceedings**
