@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -249,7 +249,7 @@ This Act binds the Crown.
     (ii) that was medically unexpected:
   (d) the death of a woman that occurred while the woman was giving birth, or that appears to have been a result of the woman being pregnant or giving birth:
   (e) a death in official custody or care:
-  (f) a death in relation to which no doctor has given a doctor's certificate (as defined in section 2(1) of the Burial and Cremation Act 1964).
+  (f) a death in relation to which there has not been given a certificate of cause of death (as defined in section 2(1) of the Burial and Cremation Act 1964).
 (3) For the purposes of subsection (2)﻿(b) and (c), a death is medically unexpected if it would not reasonably have been expected by a health practitioner who—
   (a) was competent to carry out the procedure, or administer the anaesthetic, in question; and
   (b) had knowledge of the dead person’s medical condition before the procedure began.
@@ -943,6 +943,7 @@ The following have the same privileges and immunities as witnesses and counsel i
     (i) scrutinise evidence considered by the coroner as part of the inquiry; or
     (ii) offer new evidence in respect of the death.
 (3) A coroner who decides under this section not to hold an inquest must comply with section 77.
+(4) This section does not apply to an associate coroner except to the extent set out in section 77A(1)﻿(a).
 
 ### 81 Date, etc, and notice of inquest
 (1) A coroner who decides to hold an inquest for the purposes of an inquiry must—
@@ -1414,12 +1415,14 @@ A warrant under section 128 authorises a constable executing the warrant—
     (ii) calling for investigations or examinations, or commissioning reports (see section 118(2)):
     (iii) determining the format of their written findings:
     (iv) co-ordinating with other investigating authorities, official bodies, and statutory officers who investigate deaths:
+    (v) co-ordinating with other coroners or associate coroners over a death:
+    (vi) determining whether a person is appropriately regarded as an expert in a particular area:
   (b) to which coroners must have regard when—
     (i) recommending to the chief coroner that a specialist adviser be appointed to sit with and help the coroner at an inquest (see section 83(2)):
     (ii) holding joint inquests (see section 84(3)):
     (iii) managing the disclosure of evidence to witnesses appearing at a hearing:
-    (iv) determining whether to hold a pre-hearing:
-    (v) determining whether a person is appropriately regarded as an expert in a particular area.
+    (iv) determining whether to hold a pre-hearing.
+    (v)
 (3) Subsection (2) does not limit subsection (1).
 (4) Before issuing a practice note (or an amendment, revocation, or replacement of a practice note) under this section, the chief coroner must take all reasonable steps to consult coroners and associate coroners about the terms and effect of that practice note (or of that amendment, revocation, or replacement of a practice note).
 (5) The chief coroner must regularly review any practice notes issued under this section.
