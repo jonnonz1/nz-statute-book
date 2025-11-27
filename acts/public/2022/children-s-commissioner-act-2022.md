@@ -1,5 +1,5 @@
 # Children’s Commissioner Act 2022
-_Consolidation as at 2025-08-01_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Children’s Commissioner Act 2022.
@@ -332,7 +332,7 @@ Information rules made under section 31 must contain rules relating to—
 (1) No civil or criminal proceedings may be brought against an employee or officeholder for anything done or omitted in the performance or intended performance or exercise of any functions, duties, or powers under this Act, unless it is shown that the person acted in bad faith.
 (2) No employee or officeholder may be called to give evidence in court, or in any proceedings of a judicial nature, in respect of anything that comes to their knowledge in the performance or exercise of their functions or powers under this Act.
 (3) Nothing in subsection (1) or (2) applies in respect of proceedings for—
-  (a) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+  (a) an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
   (b) the offence of conspiring to commit or attempting to commit an offence against any of the provisions specified in paragraph (a).
 (4) Nothing in subsection (2) applies to a report made by the Commissioner under section 20(j).
 (5) Sections 122 to 126 of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
