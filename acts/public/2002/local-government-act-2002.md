@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2025-08-27_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -7902,6 +7902,9 @@ An annual report must include, in relation to each council-controlled organisati
   (c) such other information as is necessary to enable an informed assessment of the operations of each entity reported on; and
   (d) the numerical information from the statements described in paragraphs (a) and (b) for the financial year before the financial year to which the report relates.
 (2) The numerical information described in subclause (1)﻿(d) must be presented in a way that allows the public to compare the information with the numerical information contained in the forecast financial statements for the financial year covered by the report.
+
+### 29A Amount of rates written off to be included in notes to financial statements
+A local authority must ensure that the notes to the financial statements described in clause 29(1)﻿(a)﻿ disclose the amount of rates written off each financial year under sections 90A and 90B of the Local Government (Rating) Act 2002.
 
 ### 30 Funding impact statement
 (1) An annual report must include an audited funding impact statement for the financial year to which the report relates.
