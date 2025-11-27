@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2025-03-31_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
@@ -188,7 +188,7 @@ The Minister may, by notice to the FMA, request that the FMA inquire into, and r
 (1) The FMA is not liable for anything it may do or fail to do in the course of the performance or exercise or intended performance or exercise of its functions, powers, or duties, unless it is shown that it acted in bad faith or without reasonable care.
 (2) No member or employee of the FMA, nor any delegate of the FMA, is liable for anything that person may do or say or fail to do or say in the course of the operations of the FMA, unless it is shown that the person acted in bad faith.
 (3) Nothing in subsections (1) and (2) applies in respect of proceedings for—
-  (a) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+  (a) an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
   (b) the offence of conspiring to commit an offence against any of those sections of the Crimes Act 1961; or
   (c) the offence of attempting to commit an offence against any of those sections of the Crimes Act 1961.
 (4) Sections 122 to 126 of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
@@ -666,7 +666,7 @@ This Part does not limit any power that the FMA or any other person has under an
   (b) proceedings to which the FMA is a party (including where the FMA is acting under subpart 3); or
   (c) proceedings in respect of—
     (i) an offence under section 51 or 61; or
-    (ii) an offence against section 78, 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+    (ii) an offence against section 78, 78AAA, 78AAB, 78AA, 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
     (iii) the offence of conspiring to commit an offence against any of those sections of the Crimes Act 1961; or
     (iv) the offence of attempting to commit an offence against any of those sections of the Crimes Act 1961.
 (3) This section does not limit the application of the Official Information Act 1982.
