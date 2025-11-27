@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2025-10-22_
+_Consolidation as at 2025-11-27_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -264,9 +264,9 @@ No proceeding of an Ombudsman shall be held bad for want of form, and, except on
   (a) no proceedings, civil or criminal, shall lie against any Ombudsman, or against any person holding any office or appointment under the Chief Ombudsman, for anything he may do or report or say in the course of the exercise or intended exercise of his functions under this Act or the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987 or the Protected Disclosures (Protection of Whistleblowers) Act 2022, unless it is shown that he acted in bad faith:
   (b) no Ombudsman, and no such person as aforesaid, shall be called to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his knowledge in the exercise of his functions under this Act or the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987 or the Protected Disclosures (Protection of Whistleblowers) Act 2022.
 (2) Nothing in subsection (1) applies in respect of proceedings for—
-  (a) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
-  (b) the offence of conspiring to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
-  (c) the offence of attempting to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961.
+  (a) an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+  (b) the offence of conspiring to commit an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+  (c) the offence of attempting to commit an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961.
 (3) Anything said or any information supplied or any document, paper, or thing produced by any person in the course of any inquiry by or proceedings before an Ombudsman under this Act or the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987 or the Protected Disclosures (Protection of Whistleblowers) Act 2022 shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
 (4) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by an Ombudsman under this Act, or under the Official Information Act 1982, or under the Local Government Official Information and Meetings Act 1987, or under the Protected Disclosures (Protection of Whistleblowers) Act 2022, shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
 
