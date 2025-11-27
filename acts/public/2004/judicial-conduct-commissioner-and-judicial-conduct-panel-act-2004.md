@@ -1,5 +1,5 @@
 # Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004
-_Consolidation as at 2023-10-06_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004.
@@ -230,7 +230,7 @@ Part 1 of Schedule 2 applies in relation to the Commissioner and the Deputy Comm
   (a) must keep confidential all matters that come to their knowledge in the performance of their functions; and
   (b) must not communicate any of those matters to any person except for the purpose of carrying out their functions under or giving effect to this Act.
 (2) The Commissioner and every person employed in the office of the Commissioner—
-  (a) are officers of a department for the purposes of sections 78 and 78A of the Crimes Act 1961 and section 20A of the Summary Offences Act 1981:
+  (a) are officers of a public service agency for the purposes of sections 78, 78AA, and 78A of the Crimes Act 1961 and section 20A of the Summary Offences Act 1981:
   (b) are officials for the purposes of sections 105 and 105A of the Crimes Act 1961.
 (3) Nothing in information privacy principle 6 set out in section 22 of the Privacy Act 2020 (access to personal information) applies in respect of any information held by the office of the Commissioner that relates to any investigation conducted by the Commissioner under this Act, other than any document (as defined in section 7(1) of the Privacy Act 2020) that comes into existence before the commencement of that investigation.
 
@@ -389,8 +389,8 @@ The Governor-General, on an address from the House of Representatives, may remov
 (2) No proceedings, civil or criminal, lie against any person to whom this section applies for anything he or she may do or report or say in the course of the exercise or intended exercise of his or her duties under this Act, unless it is shown that he or she acted in bad faith.
 (3) No person to whom this clause applies is required to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his or her knowledge in the exercise of his or her functions.
 (4) Nothing in subclause (2) or subclause (3) applies in respect of proceedings for—
-  (a) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961 or against section 20A of the Summary Offences Act 1981; or
-  (b) the offence of attempting or conspiring to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961 or against section 20A of the Summary Offences Act 1981.
+  (a) an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961 or against section 20A of the Summary Offences Act 1981; or
+  (b) the offence of attempting or conspiring to commit an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961 or against section 20A of the Summary Offences Act 1981.
 (5) Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by, or proceedings before, the Commissioner or the Deputy Commissioner under this Act is privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
 (6) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commissioner or the Deputy Commissioner under this Act is deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
 
