@@ -1,5 +1,5 @@
 # Armed Forces Discipline Act 1971
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-11-27_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand and the Parliament of the United Kingdom relating to the discipline of Her Majesty’s Armed Forces of New Zealand, and to provide for the discipline of and the administration of justice within those forces
 
@@ -22,7 +22,6 @@ _Consolidation as at 2021-10-28_
     (c) any other gear, apparatus, or instruments in, or for use in, aircraft:
     (d) any apparatus used in connection with the taking-off or landing of aircraft or for detecting the movement of aircraft:
     (e) any fuel used for the propulsion of aircraft and any material used as a lubricant for aircraft or aircraft material
-  - **airman** has the meaning assigned to that term by section 2(1) of the Defence Act 1990
   - **alcohol** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
   - **Allied force** means a force or part of a force of another country acting in co-operation with a part of the Armed Forces
   - **Armed Forces** means the Navy, the Army, and the Air Force collectively; and includes any branch, corps, command, formation, unit, or other part of the Armed Forces; but does not include any part of the cadet forces
@@ -31,6 +30,7 @@ _Consolidation as at 2021-10-28_
   - **Army** means the New Zealand Army constituted under section 11(4) of the Defence Act 1990
   - **Army camp** has the meaning assigned to that term by section 2(1) of the Defence Act 1990
   - **Authority** means the Reconsidering Authority established under section 151
+  - **aviator** has the meaning given by section 2(1) of the Defence Act 1990
   - **basic pay** , in relation to a member of the Armed Forces, means the daily amount payable to the member as determined by the Chief of Defence Force, but excluding allowances
   - **before the enemy** , in relation to any person subject to this Act, means that he is in the presence or vicinity of the enemy, or is engaged in any action or operation against the enemy, or is under orders to be prepared for any action or operation by or against the enemy
   - **cadet forces** means the cadet forces raised and maintained under Part 6 of the Defence Act 1990
@@ -84,7 +84,7 @@ _Consolidation as at 2021-10-28_
     (b) includes the Chief Judge and a Deputy Chief Judge
   - **Judge Advocate General** means the Judge Advocate General of the Armed Forces appointed under section 203
   - **lawyer** means a person who holds a current practising certificate as a barrister or as a barrister and solicitor
-  - **leading aircraftman** includes an aircraftman, a general service hand, and an air force cadet
+  - **leading aviator classification** includes an aviator classification, a general service hand, and an air force cadet
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **member of the Armed Forces** means a person subject to this Act by virtue of section 6, or section 9, or section 10, or section 11
   - **member of the Court Martial** means a Judge or a military member
@@ -237,8 +237,8 @@ This Act binds the Crown.
   (d) all soldiers of any additional New Zealand army force raised in accordance with section 11(4)﻿(d) of the Defence Act 1990.
 (3) The following members of the Air Force shall be subject to this Act:
   (a) all officers of the Regular Air Force, the Territorial Air Force, or the Air Force Reserve, or of any additional air force raised in accordance with section 11(5)﻿(d) of the Defence Act 1990:
-  (b) all airmen of the Regular Air Force:
-  (c) all airmen of the Territorial Air Force or the Air Force Reserve who for the time being are—
+  (b) all aviators of the Regular Air Force:
+  (c) all aviators of the Territorial Air Force or the Air Force Reserve who for the time being are—
     (i) undergoing or required to undergo training, whether in uniform or not; or
     (ii) performing or required to perform any air force duty, whether in uniform or not; or
     (iii) in or on any Air Force base, unit, ship, aircraft, or vehicle, or performing any work for the Air Force; or
@@ -249,7 +249,7 @@ This Act binds the Crown.
     (viii) called out under any enactment to render assistance in a disaster; or
     (ix) present, whether in uniform or not, when members of the Armed Forces are parading or undergoing training; or
     (x) in uniform:
-  (d) all airmen of any additional air force raised in accordance with section 11(5)﻿(d) of the Defence Act 1990.
+  (d) all aviators of any additional air force raised in accordance with section 11(5)﻿(d) of the Defence Act 1990.
 
 ### 7 Provisions of Act may be modified, etc, in relation to certain classes of persons
 [Repealed]
@@ -268,13 +268,13 @@ A member of the Armed Forces who is temporarily attached to the forces of anothe
 (1) Subject to subsection (2), where any person, not otherwise subject to this Act, volunteers or engages for service, training, or exercise with any part of the Armed Forces (not being a person or a member of a class of persons excepted from the provisions of this subsection by Defence Force Order), he shall be subject to this Act during the period of service, training, or exercise.
 (2) Subject to any Defence Force Order to the contrary, where, by virtue of this section, this Act applies to a person who is not a member of the Armed Forces, the following provisions shall apply:
   (a) if the person holds a rank in an armed force, this Act shall, subject to such exceptions and modifications as may be prescribed, apply to him in the same manner and to the same extent as it applies to a person holding the corresponding rank in the Armed Forces:
-  (b) in any other case, this Act shall, subject to such exceptions and modifications as may be prescribed, apply to him in the same manner and to the same extent as it applies to a rating of able rank or to a private or a leading aircraftman.
+  (b) in any other case, this Act shall, subject to such exceptions and modifications as may be prescribed, apply to him in the same manner and to the same extent as it applies to a rating of able rank or to a private or a leading aviator classification.
 
 ### 11 Trainees
 (1) Subject to subsection (2), where any person, not otherwise being subject to this Act, is a member of any armed force other than the Armed Forces of New Zealand (not being a force excepted from the provisions of this subsection by Defence Force Order), he shall be subject to this Act during any period when he is under orders to carry out any training or exercise in any defence area or ship or with any unit or other part of the Armed Forces.
 (2) Subject to any Defence Force Order to the contrary, where, by virtue of this section, this Act applies to a person who is not a member of the Armed Forces of New Zealand, the following provisions shall apply:
   (a) if the person holds a rank in an armed force, this Act shall, subject to such exceptions and modifications as may be prescribed, apply to him in the same manner and to the same extent as it applies to a person holding the corresponding rank in the Armed Forces:
-  (b) in any other case, this Act shall, subject to such exceptions and modifications as may be prescribed, apply to him in the same manner and to the same extent as it applies to a rating of able rank or to a private or a leading aircraftman.
+  (b) in any other case, this Act shall, subject to such exceptions and modifications as may be prescribed, apply to him in the same manner and to the same extent as it applies to a rating of able rank or to a private or a leading aviator classification.
 
 ### 12 Prisoners of war
 (1) Subject to the provisions of the Geneva Conventions Act 1958 and of subsection (2), a prisoner of war in the custody of any part of the Armed Forces shall be subject to this Act.
@@ -300,12 +300,12 @@ Every person subject to this Act by virtue of section 12 or section 13 shall, fo
 Where any person (being a person who would not, apart from this section, be subject to this Act) is for the time being a passenger in any ship, aircraft, or vehicle of the Armed Forces, whether in New Zealand or elsewhere, that person shall be subject to this Act to such extent as may be prescribed; and the provisions of this Act, subject to such exceptions and modifications as may be prescribed, shall apply to him accordingly.
 
 ### 16 Certain civilians closely associated with Armed Forces subject to this Act
-(1) Subject to subsections (5) to (7), where any New Zealand force is on active service—shall, while so employed or while accompanying the force or part of the force, as the case may be, be subject to this Act in the same manner and to the same extent as if he were a rating, soldier, or airman, unless there is for the time being in force a certificate issued by the officer commanding that part of the force with which he is employed or which he is accompanying stating that he is entitled to be treated as if he were an officer, in which case he shall, so long as the certificate remains in force, be treated as if he were an officer for the purposes of any proceedings against him for an offence against this Act.
+(1) Subject to subsections (5) to (7), where any New Zealand force is on active service—shall, while so employed or while accompanying the force or part of the force, as the case may be, be subject to this Act in the same manner and to the same extent as if he were a rating, soldier, or aviator, unless there is for the time being in force a certificate issued by the officer commanding that part of the force with which he is employed or which he is accompanying stating that he is entitled to be treated as if he were an officer, in which case he shall, so long as the certificate remains in force, be treated as if he were an officer for the purposes of any proceedings against him for an offence against this Act.
   (a) every person employed in the service of that force; and
   (b) every person employed in the service of a part of that force or any member of the force; and
   (c) every person who accompanies the force or any part of it—
 (2) Every person who is subject to this Act by virtue of subsection (1) shall be deemed to be on active service.
-(3) Without limiting the provisions of subsection (1), but subject to subsections (4) to (7), any member of a class of persons specified in Schedule 1 who is for the time being within the limits of the command of any officer commanding any New Zealand force outside New Zealand shall, while within those limits, be subject to this Act in the same manner and to the same extent as if he were a rating, soldier, or airman, unless there is for the time being in force a certificate issued by the officer commanding that part of the force with which he is employed or which he is accompanying stating that he is entitled to be treated as if he were an officer, in which case he shall, so long as the certificate remains in force, be treated as an officer for the purposes of any proceedings against him for an offence against this Act.
+(3) Without limiting the provisions of subsection (1), but subject to subsections (4) to (7), any member of a class of persons specified in Schedule 1 who is for the time being within the limits of the command of any officer commanding any New Zealand force outside New Zealand shall, while within those limits, be subject to this Act in the same manner and to the same extent as if he were a rating, soldier, or aviator, unless there is for the time being in force a certificate issued by the officer commanding that part of the force with which he is employed or which he is accompanying stating that he is entitled to be treated as if he were an officer, in which case he shall, so long as the certificate remains in force, be treated as an officer for the purposes of any proceedings against him for an offence against this Act.
 (4) The provisions of Parts 2 and 3 shall not apply to persons who are subject to this Act by virtue only of subsection (3) except—
   (a) section 37, sections 39 and 40, sections 44 and 45, sections 70, 71, and 74, and subsections (5) and (6) of section 34:
   (b) sections 75 to 77, so far as they relate to offences against those sections specified in paragraph (a) of this subsection:
@@ -349,7 +349,7 @@ Where any person (being a person who would not, apart from this section, be subj
 Where, by virtue of section 17 or section 18, a person is deemed to be subject to this Act during any term of imprisonment or detention the following provisions shall apply:
   (a) if, before he was sentenced to dismissal from His Majesty’s Service, or was sentenced to imprisonment involving dismissal from His Majesty’s Service, or was discharged or otherwise ceased to be a member of the Armed Forces, that person was a member of the Navy, the provisions of this Act shall apply to him in the same manner and to the same extent as they apply to a rating of able rank:
   (b) if, before he was sentenced to dismissal from His Majesty’s Service, or was sentenced to imprisonment involving dismissal from His Majesty’s Service, or was discharged or otherwise ceased to be a member of the Armed Forces, that person was a member of the Army, the provisions of this Act shall apply to him in the same manner and to the same extent as they apply to a soldier holding the rank of private:
-  (c) if, before he was sentenced to dismissal from His Majesty’s Service, or was sentenced to imprisonment involving dismissal from His Majesty’s Service, or was discharged or otherwise ceased to be a member of the Armed Forces, that person was a member of the Air Force, the provisions of this Act shall apply to him in the same manner and to the same extent as they apply to an airman holding the rank of leading aircraftman:
+  (c) if, before he was sentenced to dismissal from His Majesty’s Service, or was sentenced to imprisonment involving dismissal from His Majesty’s Service, or was discharged or otherwise ceased to be a member of the Armed Forces, that person was a member of the Air Force, the provisions of this Act shall apply to him in the same manner and to the same extent as they apply to an aviator holding the rank of leading aviator classification:
   (d) if, by virtue of subsection (2) of section 17, a person continues to be subject to this Act for the duration of the term of his imprisonment or detention, the provisions of this Act shall apply to him in the same manner and to the same extent as if he were a soldier holding the rank of private.
 
 ### 20 Limitation of time within which charges may be dealt with summarily or tried under this Act
@@ -458,7 +458,7 @@ Where, by virtue of section 17 or section 18, a person is deemed to be subject t
 (3) For the purposes of this section, the term intelligence means information that would or might be, or purports to be, directly or indirectly useful to the enemy.
 
 ### 25 Unauthorised disclosure of information
-Every person subject to this Act commits an offence, and is liable to imprisonment for a term not exceeding 2 years, who knowingly, and with knowledge that he is acting without proper authority, communicates to any other person any official information (as defined in section 78A of the Crimes Act 1961), not being official information that is publicly available, or delivers to any other person any object (as defined in that provision of that Act), knowing that the communication of that information or the delivery of that object is likely—
+Every person subject to this Act commits an offence, and is liable to imprisonment for a term not exceeding 2 years, who knowingly, and with knowledge that he is acting without proper authority, communicates to any other person any relevant information (as defined in section 78A of the Crimes Act 1961), not being relevant information that is publicly available, or delivers to any other person any object (as defined in that provision of that Act), knowing that the communication of that information or the delivery of that object is likely—
   (a) to prejudice the security or defence of New Zealand; or
   (b) to prejudice the entrusting of information, being information relating directly or indirectly to the security or defence of New Zealand or otherwise of use or interest to the Armed Forces of New Zealand, to the Government of New Zealand on a basis of confidence by—
     (i) the government of any other country or any agency of such a government; or
@@ -886,7 +886,7 @@ Where the Court Martial convicts a person of more than 1 offence or, on convicti
 
 ### 82 Dismissal from service and reduction in rank
 (1) Subject to the provisions of this Part, every officer sentenced by the Court Martial to imprisonment shall be deemed to be dismissed from His Majesty’s Service.
-(2) Where a rating, soldier, or airman is sentenced by the Court Martial to imprisonment, he may also be sentenced to be dismissed from His Majesty’s Service.
+(2) Where a rating, soldier, or aviator is sentenced by the Court Martial to imprisonment, he may also be sentenced to be dismissed from His Majesty’s Service.
 (3) Where a non-commissioned officer is sentenced by the Court Martial to imprisonment or detention (whether or not such sentence includes dismissal from His Majesty’s Service), he shall be deemed to be reduced to the lowest rank to which he can be reduced, being such rank as may be prescribed.
 (4)
 (5) If a member of the Armed Forces is sentenced to dismissal from His Majesty’s Service and also to imprisonment or detention, or is dismissed from His Majesty’s Service by virtue of subsection (1), the dismissal shall not take effect until he has served the term of imprisonment or detention and any further sentence of imprisonment or detention imposed in accordance with subsection (1) or subsection (4) of section 178.
@@ -935,7 +935,7 @@ In no case shall any person be sentenced by the Court Martial to detention for a
   (b) the expiration of such period; or
   (c) the giving of such consent; or
   (d) the occurrence of such event or circumstance—
-(2) Without limiting section 160 of this Act or section 19 of the Court Martial Appeals Act 1953, where the operation of any such order or the operation of the said provisions is so suspended, the order or provisions shall not take effect if the conviction is quashed on review or appeal.
+(2) Without limiting section 19 of the Court Martial Appeals Act 1953, where the operation of any such order or the operation of the said provisions is so suspended, the order or provisions shall not take effect if the conviction is quashed on review or appeal.
 (3) Subsection (1), with any necessary modifications, applies to—
   (a) a finding of guilty made by a disciplinary officer, being a finding to which section 152(1) of the Contract and Commercial Law Act 2017 applies:
   (b) an order for compensation or restitution made by a disciplinary officer under section 86 or 87.
@@ -950,12 +950,12 @@ In no case shall any person be sentenced by the Court Martial to detention for a
   (b) he has reasonable grounds to suspect that the person is committing or has committed such an offence.
 (2) For the purposes of this section—
   (a) an officer is empowered to arrest—
-    (i) a rating, soldier, or airman; or
+    (i) a rating, soldier, or aviator; or
     (ii) an officer who is not his superior officer; or
     (iii) any officer (though of higher rank), if the offence or suspected offence is mutiny or the officer is behaving in a disorderly or violent manner:
   (b) a non-commissioned officer is empowered to arrest—
-    (i) a rating, soldier, or airman who is not his superior officer; or
-    (ii) any rating, soldier, or airman (though of higher rank) if the offence or suspected offence is mutiny or the rating, soldier, or airman is behaving in a disorderly or violent manner:
+    (i) a rating, soldier, or aviator who is not his superior officer; or
+    (ii) any rating, soldier, or aviator (though of higher rank) if the offence or suspected offence is mutiny or the rating, soldier, or aviator is behaving in a disorderly or violent manner:
   (c) a provost officer, or a person lawfully exercising authority under or on behalf of a provost officer, is empowered to arrest any person subject to this Act:
     provided that an officer may be arrested under paragraph (c) only by or on the order of a provost officer.
 (3) In the exercise of his power of arrest over a person, a member of the Armed Forces may—and it shall be the duty of every member of the Armed Forces to whom any such order has been given to carry out the order forthwith.
@@ -1664,7 +1664,7 @@ If a person tried summarily, or otherwise dealt with, under this Part in respect
   (c) both to pay compensation and make restitution.
 (2) However,—
   (a) if the offender was given the right to elect trial by the Court Martial under section 117D or 117M, he or she may not be ordered under this section to pay an amount by way of compensation exceeding his or her basic pay for a period of 28 days:
-  (b) if the offender was not given the right to elect trial by the Court Martial wider section 117D or 117M, he or she may not be ordered to pay an amount by way of compensation exceeding his or her basic pay for a period of 14 days.
+  (b) if the offender was not given the right to elect trial by the Court Martial under section 117D or 117M, he or she may not be ordered to pay an amount by way of compensation exceeding his or her basic pay for a period of 14 days.
 (3) The disciplinary officer must ensure that he or she has received a specified certificate if he or she intends to order the offender to pay an amount by way of compensation that exceeds the offender's basic pay for a period of 7 days.
 
 ### Subpart 5 — Miscellaneous matters
@@ -1754,8 +1754,8 @@ If a disciplinary officer is required to refer a charge against an accused to an
 ### 117ZJ Procedures for prisoners of war, spies, midshipmen, officer cadets, and chaplains
 (1) If the accused is subject to this Act by virtue of section 12 or 13, the following provisions apply:
   (a) if the accused holds a rank in an armed force, the same procedure for dealing with the charge under this Part must be followed, with any necessary modifications, as if the accused held the corresponding rank in the Armed Forces of New Zealand:
-  (b) in any other case, the same procedure for dealing with the charge under this Part must be followed, with any necessary modifications, as if the accused were a rating of able rank in the Navy or a private in the Army or a leading aircraftman in the Air Force, as the case may be.
-(2) If the accused is a midshipman or an officer cadet, the same procedure for dealing with the charge under this Part must be followed, with any necessary modifications, as if the accused were a rating of able rank in the Navy or a private in the Army or a leading aircraftman in the Air Force, as the case may be.
+  (b) in any other case, the same procedure for dealing with the charge under this Part must be followed, with any necessary modifications, as if the accused were a rating of able rank in the Navy or a private in the Army or a leading aviator classification in the Air Force, as the case may be.
+(2) If the accused is a midshipman or an officer cadet, the same procedure for dealing with the charge under this Part must be followed, with any necessary modifications, as if the accused were a rating of able rank in the Navy or a private in the Army or a leading aviator classification in the Air Force, as the case may be.
 (3) If the accused is a chaplain, the same procedure for dealing with the charge under this Part must be followed, with any necessary modifications, as if the accused,—
   (a) in the case of a chaplain Class I, were a captain in the Navy, a colonel in the Army, or a group captain in the Air Force:
   (b) in the case of a chaplain Class II, were a commander in the Navy, a lieutenant colonel in the Army, or a wing commander in the Air Force:
@@ -2429,7 +2429,7 @@ No member of the Discipline Committee is personally liable for any act done or o
 (3) Subject to the provisions of orders made by the Chief of Defence Force in accordance with section 175, every service detainee shall serve the term of his detention—or partly in one way and partly in another:
   (a) in a detention quarter; or
   (b) in service custody; or
-  (c) in the case of a detainee who is for the time being attached to any part of the Army or Air Force which is on active service or who is a soldier or airman on active service, as field punishment if so ordered by the Court Martial or disciplinary officer that sentenced him—
+  (c) in the case of a detainee who is for the time being attached to any part of the Army or Air Force which is on active service or who is a soldier or an aviator on active service, as field punishment if so ordered by the Court Martial or disciplinary officer that sentenced him—
   provided that a service detainee who has once been transferred to a detention quarter after having served part of the term of his detention as field punishment shall not be subsequently required to serve as field punishment any further part of that term of detention or the term or part of the term of a concurrent or consecutive sentence of detention.
 
 ### 169 Committal, removal, release, etc, of members of the Armed Forces serving imprisonment or detention
@@ -3309,7 +3309,7 @@ A combination of punishments shall be regarded as less severe than a single puni
 |  | Stoppage of leave, not exceeding 21 days | Stoppage of leave, not exceeding 21 days |
 |  | Extra duty for a period not exceeding 21 days | Extra duty for a period not exceeding 21 days |
 |  | A caution | A caution |
-| 4A rating of able rank, a private, or a leading aircraftman, or a rating, soldier, or airman of lower rank | Detention for a period not exceeding 60 days (this punishment may be of an offence committed on active service or sea service) |  |
+| 4A rating of able rank, a private, or a leading aviator classification, or a rating, soldier, or aviator of lower rank | Detention for a period not exceeding 60 days (this punishment may be of an offence committed on active service or sea service) |  |
 |  | Detention for a period not exceeding 28 days |  |
 |  | A fine, not exceeding 28 days’ basic pay | A fine, not exceeding 7 days’ basic pay |
 |  | A reprimand | A reprimand |
