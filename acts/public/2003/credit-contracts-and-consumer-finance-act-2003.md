@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -386,6 +386,7 @@ This Act binds the Crown.
 (7) The lender must provide the records within 20 working days of the date on which the request is received by the lender or, in the case of records being provided to the Commission, within any longer period of time specified by the Commission.
 (8) The Commission does not need to use its powers under section 98 of the Commerce Act 1986 to make a request under subsection (3).
 (9) The lender must keep the records for a period of at least 7 years after the date on which the inquiry was made.
+(10) To avoid doubt, the lender is not required to keep records about inquiries when an application is declined or withdrawn.
 
 ### 9D Proceedings for breach of legal obligations under other Acts
 (1) This section applies if, in relation to a legal obligation referred to in section 9C(3)﻿(f) or (4)﻿(e),—
@@ -825,7 +826,7 @@ If a consumer credit contract is cancelled under section 27(1)﻿(a), section 30
 (1A) However, subsection (1)﻿(d) and (e) is subject to the conditions that—
   (a) the statement must be readily accessible at that time the electronic communication is sent, and at all reasonable times over the life of the contract, in accordance with the communication; and
   (b) that statement can, at that time the electronic communication is sent, and at all reasonable times over the life of the contract, be stored in a permanent and legible form (for example, saved to an electronic file and printed).
-(2) If the place of residence referred to in subsection (1)﻿(b) is the same for 2 or more persons, or if 2 or more persons have specified the same information system for the purposes of subsection (1)﻿(c) to (e), the disclosure statement given or sent to any of those persons is to be treated as having been given or sent to all of those persons.
+(2) If the place of residence referred to in subsection (1)﻿(b) is the same for 2 or more persons, or if 2 or more persons have specified the same address for the purpose of subsection (1)﻿(b) or the same information system for the purposes of subsection (1)﻿(c) to (e), the disclosure statement given or sent to any of those persons is to be treated as having been given or sent to all of those persons.
 (3) For the purposes of sections 27 and 99 to 102, when disclosure is made by sending the disclosure statement to a person by post, the disclosure is to be treated as having been made on the fourth working day after the day on which the statement is posted.
 (4) For the purposes of sections 27 and 99 to 102, when disclosure is made—
   (a) by sending the disclosure statement to the information system specified by the person for that purpose under subsection (1)﻿(c), the disclosure is to be treated as having been made on the second working day after the day on which the statement is sent:
