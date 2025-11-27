@@ -1,5 +1,5 @@
 # Secondhand Dealers and Pawnbrokers Act 2004
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Secondhand Dealers and Pawnbrokers Act 2004.
@@ -101,7 +101,7 @@ This Act binds the Crown.
   (a) in a form approved by the chief executive of the Ministry of Justice after consultation with all Licensing Authorities; and
   (b)
   (c) accompanied by any prescribed fee.
-(3) An application by an individual must be accompanied by a photograph of the applicant, authenticated in the prescribed manner, and must include the following information:
+(3) An application by an individual must be accompanied by a photograph of the applicant, authenticated in the required manner, and must include the following information:
   (a) the applicant’s full name, residential address, and date of birth:
   (b) the name under which the applicant engages in business:
   (c) the street address of the principal place of business used by the applicant for business purposes (unless the applicant is or proposes to be an itinerant secondhand dealer) and the street address of every other place of business used by the applicant:
@@ -114,6 +114,7 @@ This Act binds the Crown.
   (c) the street address of the principal place of business used by the applicant for business purposes (unless the applicant is or proposes to be an itinerant secondhand dealer) and the street address of every other place of business used by the applicant:
   (d) the full name and date of birth of every person concerned in the management of the company:
   (e) any other prescribed matters.
+(5) In subsection (3), required manner means the manner required under section 77AA.
 
 ### 9 Issue of licence: individual applicant
 (1) A Licensing Authority must issue a licence to an applicant who is an individual if—
@@ -233,7 +234,7 @@ If a Licensing Authority declines an application, he or she must immediately not
 ### 21 Application for certificate
 (1) An application for a certificate must—
   (a) be made to a Licensing Authority on a form approved by the chief executive of the Ministry of Justice after consultation with all Licensing Authorities; and
-  (b) be accompanied by a photograph of the applicant, authenticated in the prescribed manner; and
+  (b) be accompanied by a photograph of the applicant, authenticated in the manner required under section 77AA; and
   (c)
   (d) be accompanied by any prescribed fee.
 (2) The approved form must, without limitation, require the following information to be supplied:
@@ -850,6 +851,9 @@ The responsible Minister must ensure that the department that is authorised to p
 (1) All Licensing Authorities acting together may issue practice notes, to apply to all of them, as they think fit.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of a Deputy Licensing Authority, officers of a Licensing Authority, and parties before a Licensing Authority.
 
+### 77AA Authentication of photographs
+All Licensing Authorities acting together must set requirements as to the manner in which photographs required to accompany applications under sections 8 and 21 must be authenticated.
+
 ### 77B Online publication of information about procedures, time frames, and progress of decisions
 The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
   (a) information about the purpose of the Licensing Authorities and how to make an application or a complaint:
@@ -927,7 +931,7 @@ If a constable seeks any of the following information from any Licensing Authori
   (e) prescribing a class or classes of secondhand dealers who are not engaged in business as secondhand dealers for the purposes of this Act:
   (f) prescribing the matters for which fees are payable under this Act and the amount of those fees:
   (fa) providing for the exemption from fees, in whole or in part:
-  (g) prescribing the size or form of the photograph that is required to accompany an application, and prescribing the manner in which it is to be authenticated:
+  (g) prescribing the size or form of the photograph that is required to accompany an application:
   (h) prescribing alternative places in which, or arrangements under which, employee records, dealers records, pawnbrokers records, promoters records, and Internet auction providers records may be kept:
   (i) prescribing, with respect to dealers records, pawnbrokers records, promoters records, and Internet auction providers records (or any of those records), any or all of the following:
     (i) the form in which the records must be kept:
