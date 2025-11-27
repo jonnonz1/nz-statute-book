@@ -1,5 +1,5 @@
 # Conservation Amendment Act 1996
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2025-11-27_
 
 > An Act to amend the Conservation Act 1987
 
@@ -91,12 +91,12 @@ This section inserted s 26ZF of the principal Act.
 ### 23 Application of Part
 This section amended s 26ZG of the principal Act.
 
-### 24 New sections inserted
-The principal Act is hereby amended by inserting, after section 26ZJ (as inserted by section 17 of the Conservation Law Reform Act 1990), the following sections:Sports fishing guidesUse of gaffs prohibited
-  (1) No person shall act as a sports fishing guide unless he or she holds a current sports fishing guide licence.
-  (2) Every person commits an offence and is liable to a fine not exceeding $5,000 who contravenes subsection (1) of this section.
-  (1) No person shall use a gaff to take any freshwater fish unless permitted to do so by an Anglers Notice.
-  (2) Every person commits an offence and is liable to a fine not exceeding $5,000 who contravenes subsection (1) of this section.
+### 24 New sections 26ZIA and 26ZIB inserted
+After section 26ZI, insert:Sports fishing guidesUse of gaffs prohibited
+  (1) A person must not act as a sports fishing guide unless they hold a current sports fishing guide licence.
+  (2) A person who contravenes subsection (1) commits an offence and is liable to a fine not exceeding $5,000.
+  (1) A person must not use a gaff to take any freshwater fish unless permitted to do so by an Anglers Notice.
+  (2) A person who contravenes subsection (1) commits an offence and is liable to a fine not exceeding $5,000.
 
 ### 25 Restrictions on fishing
 This section amended s 26ZL of the principal Act.
@@ -120,8 +120,8 @@ This section amended s 26ZR of the principal Act.
 This section amended s 28(3) of the principal Act.
 
 ### 32 Taking of plants
-(1) This subsection substituted s 30(1)(a) and inserted s 30(1)(aa) of the principal Act.
-(2) This subsection repealed s 30(1)(c) and (5) of the principal Act.
+(1) This subsection substituted s 30(1)﻿(a) and inserted s 30(1)﻿(aa) of the principal Act.
+(2) This subsection repealed s 30(1)﻿(c) and (5) of the principal Act.
 (3) Section 19(3) of the Conservation Law Reform Act 1990 is hereby consequentially repealed.
 
 ### 33 Production of concession, etc, on demand
@@ -130,8 +130,8 @@ This section amended s 37 of the principal Act.
 ### 34 Other offences in respect of conservation areas
 (1) This subsection amended s 39(1) of the principal Act.
 (2) This subsection amended s 39(1) of the principal Act.
-(3) This subsection inserted s 39(1)(ba) of the principal Act.
-(4) This subsection inserted s 39(1)(ca) of the principal Act.
+(3) This subsection inserted s 39(1)﻿(ba) of the principal Act.
+(4) This subsection inserted s 39(1)﻿(ca) of the principal Act.
 (5) This subsection amended s 39 of the principal Act.
 (6) This subsection amended s 39 of the principal Act.
 (7) This subsection amended s 39 of the principal Act.
@@ -140,7 +140,7 @@ This section amended s 37 of the principal Act.
 (10) Section 2(2) of the Conservation Amendment Act 1988 is hereby consequentially repealed.
 
 ### 35 Forfeiture of property
-This section amended s 46(7A)(b) of the principal Act.
+This section amended s 46(7A)﻿(b) of the principal Act.
 
 ### 36 Special regulations relating to freshwater fisheries
 This section amended s 48A(1) of the principal Act.
@@ -152,13 +152,13 @@ This section substituted s 51 of the principal Act.
 This section amended s 53 of the principal Act.
 
 ### 39 Director-General may recover certain costs
-This section amended s 60B(1) and (4)(a) of the principal Act.
+This section amended s 60B(1) and (4)﻿(a) of the principal Act.
 
 ### 40 Indirect applications
 This section amended s 60C(b) and (c) of the principal Act.
 
 ### 41 Royalties, etc, may be required in certain circumstances
-This section amended s 60D(1)(a) and (b)(i) of the principal Act.
+This section amended s 60D(1)﻿(a) and (b)﻿(i) of the principal Act.
 
 ### 42 Certain former State forest land to become protected area on commencement of Act
 This section amended s 61(10) of the principal Act.
