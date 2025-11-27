@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 2021
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Reserve Bank of New Zealand Act 2021.
@@ -1485,7 +1485,7 @@ The Bank must—
   (b) the prudential legislation; or
   (c) any other legislation that confers or imposes functions or powers on the Bank.
 (2) Nothing in this section applies in respect of proceedings for—
-  (a) an offence under section 78, 78AA(1), 78A(1), 105, 105A, 105B, or 105F of the Crimes Act 1961; or
+  (a) an offence under section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, 105B, or 105F of the Crimes Act 1961; or
   (b) the offence of conspiring to commit an offence under any of those sections of the Crimes Act 1961; or
   (c) the offence of attempting to commit an offence under any of those sections of the Crimes Act 1961.
 (3) This section does not limit any liability that the Bank has in relation to any contract or other enforceable obligation entered into by the Bank (see section 191).
@@ -1501,7 +1501,7 @@ The Bank must—
   (g) a statutory manager appointed under any provision of the prudential legislation.
 (2) A person to whom this section applies is not liable for any excluded act or omission.
 (3) Nothing in subsection (2) applies in respect of proceedings for—
-  (a) an offence under section 78, 78AA(1), 78A(1), 105, 105A, 105B, or 105F of the Crimes Act 1961 or an offence under section 270 or 289 of this Act; or
+  (a) an offence under section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, 105B, or 105F of the Crimes Act 1961 or an offence under section 270 or 289 of this Act; or
   (b) the offence of conspiring to commit an offence referred to in paragraph (a); or
   (c) the offence of attempting to commit an offence referred to in paragraph (a).
 (4) This section does not apply to the liability of a member of the board to the Bank (see section 184).
