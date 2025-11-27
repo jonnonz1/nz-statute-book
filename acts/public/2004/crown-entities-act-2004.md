@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2025-10-22_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -886,7 +886,7 @@ A responsible Minister of an independent Crown entity or a Crown entity company 
 (2) Sections 114 and 115 apply to the direction.
 
 ### 107 Directions to support whole of government approach
-(1) The Minister of State Services and the Minister of Finance may jointly direct Crown entities to support a whole of government approach by complying with specified requirements for any of the following purposes:ExampleA direction may be given requiring that all Crown entities comply with e-government requirements to improve public services.
+(1) The Minister for the Public Service and the Minister of Finance may jointly direct Crown entities to support a whole of government approach by complying with specified requirements for any of the following purposes:ExampleA direction may be given requiring that all Crown entities comply with e-government requirements to improve public services.
   (a) to improve (directly or indirectly) public services:
   (b) to secure economies or efficiencies:
   (c) to develop expertise and capability:
@@ -1105,8 +1105,8 @@ Amendment(s) incorporated in the Act(s).
 ### 133 Power to request information
 (1) The board of a Crown entity must supply to its responsible Minister any information relating to the operations and performance of the Crown entity that the Minister requests.
 (2) The board of a Crown entity must supply to the Minister of Finance any information requested by the Minister in connection with the exercise of his or her powers under Part 4.
-(2A) The board of a Crown entity must supply to the Minister of State Services any information requested by the Minister in accordance with subsection (2B).
-(2B) The Minister of State Services—
+(2A) The board of a Crown entity must supply to the Minister for the Public Service any information requested by the Minister in accordance with subsection (2B).
+(2B) The Minister for the Public Service—
   (a) may request a Crown entity to supply information only for the purpose of assessing the capability and performance of the State services; and
   (b) must make the request to a group of Crown entities that—
     (i) is made up of at least 3 Crown entities; and
@@ -1784,8 +1784,8 @@ The following provisions of the Public Finance Act 1989 apply (without limitatio
 ### 177 Application of liquidation provisions of Companies Act 1993 to statutory entities
 For the avoidance of doubt, section 240B of the Companies Act 1993 applies to a statutory entity, unless the statutory entity may be put into liquidation in accordance with the entity's Act.
 
-### 178 Application of Archives Act 1957
-The Archives Act 1957 applies to a Crown entity that is a government office for the purpose of that Act.
+### 178 Application of Public Records Act 2005
+The Public Records Act 2005 applies to a Crown entity that is a government office for the purpose of that Act.
 
 ### 179 Public Bodies Contracts Act 1959 does not apply to Crown entities
 (1) The Public Bodies Contracts Act 1959 does not apply to a Crown entity.
@@ -1946,7 +1946,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Kāinga Ora–Homes and Communities |  |  |  |  |  |
 | Maritime New Zealand |  |  |  |  | ✓ |
 | New Zealand Antarctic Institute |  |  |  |  |  |
-| New Zealand Blood Service |  |  |  |  |  |
+| New Zealand Blood and Organ Service |  |  |  |  |  |
 | New Zealand Qualifications Authority |  |  |  |  | ✓ |
 | New Zealand Tourism Board |  |  |  |  |  |
 | New Zealand Trade and Enterprise |  |  |  |  |  |
@@ -2014,7 +2014,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Auckland Light Rail Limited |  |  |  |  |  |
 | Crown Irrigation Investments Limited | ✓ |  |  |  |  |
 | Crown Research Institutes | ✓ | ✓ | ✓ | ✓ | ✓ |
-| New Zealand Venture Investment Fund Limited | ✓ | ✓ | ✓ |  |  |
+| New Zealand Growth Capital Partners Limited | ✓ | ✓ | ✓ |  |  |
 | Radio New Zealand Limited |  |  |  |  | ✓ |
 | Television New Zealand Limited | ✓ | ✓ | ✓ | ✓ | ✓ |
 
@@ -2046,7 +2046,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Section 168(1) and (2), except that the reference to section 154 must be read as a reference to section 134(3) of the Education and Training Act 2020 | Accounting records |
 | Section 173 | Regulations |
 | Section 176 | Application of provisions of the Public Finance Act 1989 |
-| Section 178 | Application of Archives Act 1957 |
+| Section 178 | Application of Public Records Act 2005 |
 | Section 179 | Public Bodies Contracts Act 1959 does not apply |
 | Section 180 | Local Authorities (Members' Interests) Act 1968 does not apply |
 | Sections 181, 188, 191, 193, 194, 195, 196, 197, 198, 199, 200 | Transitional and savings provisions and associated consequential amendments |
@@ -2076,7 +2076,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Section 168(1) and (2) | Accounting records |
 | Sections 171(1)﻿(b) and (2) and 172 | Offences and penalties |
 | Section 176 | Application of provisions of the Public Finance Act 1989 |
-| Section 178 | Application of Archives Act 1957 |
+| Section 178 | Application of Public Records Act 2005 |
 | Sections 181, 188, 191, 193, 194, 198, 199, 200 | Transitional and savings provisions and associated consequential amendments |
 
 ### Part 2 — Additional provisions that apply to New Zealand Institute of Skills and Technology
