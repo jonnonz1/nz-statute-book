@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2024-07-01_
+_Consolidation as at 2025-11-27_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -1687,8 +1687,8 @@ The High Court shall have power to make such order as to the whole or any part o
 (2A) Sections 122 to 126 of the Crown Entities Act 2004 then apply as if the conduct for which a relevant person may be indemnified or insured under those sections included conduct that is covered by the immunity in subsection (2).
 (2B) No relevant person can be required to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his or her knowledge in the exercise of his or her functions.
 (3) Nothing in subsection (2) applies in respect of proceedings for—
-  (a) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
-  (b) the offence of attempting or conspiring to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961.
+  (a) an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+  (b) the offence of attempting or conspiring to commit an offence against section 78, 78AAA, 78AAB, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961.
 (4) Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by, or proceedings before, the Commission or a Commissioner under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
 (5) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commission or a Commissioner under this Act shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
 
@@ -1886,7 +1886,7 @@ No act or omission that occurred before 1 January 2002 is capable of being in br
   (c) specifies an age at which an employee is required to retire.
 (2) Where the parties to an employment contract to which this section applies agree in writing, at any time on or after 1 April 1992, to confirm or vary the age specified in the employment contract, the age, as so confirmed or varied, shall have effect notwithstanding section 22.
 (3) Where the parties to an employment contract to which this section applies have not agreed in writing to confirm or vary the age specified in the employment contract, section 22 shall apply in relation to that employment contract.
-(4) Where, as at 1 April 1992, the age at which an employer is required to retire, under a term of that employee's employment contract, was specified only in a document that sets out the employer's policy on the retirement ages of the employer's employees or any of them, this section shall not apply in relation to that employee's employment contract.
+(4) Where, as at 1 April 1992, the age at which an employee is required to retire, under a term of that employee's employment contract, was specified only in a document that sets out the employer's policy on the retirement ages of the employer's employees or any of them, this section shall not apply in relation to that employee's employment contract.
 
 ### 150 Charitable instruments
 (1) Nothing in this Act shall apply—
