@@ -1,5 +1,5 @@
 # Taxation Review Authorities Act 1994
-_Consolidation as at 2024-07-05_
+_Consolidation as at 2025-11-27_
 
 > An Act to consolidate the law relating to Taxation Review Authorities
 
@@ -181,7 +181,7 @@ An Authority may at any time dismiss any objection or challenge, if the Authorit
 ### 22 Power to order costs in certain cases
 (1) Where—the Authority may order the Commissioner or the objector or a disputant, as the case may require, to pay to the Crown such sum in respect of the costs of the Authority as the Authority considers reasonable.
   (a) the Commissioner or an objector or a disputant fails to appear at the time fixed for any hearing of an objection or challenge before an Authority, or fails to give adequate notice of the abandonment or settlement of the objection or challenge; or
-  (b) an Authority strikes out a proceeding under sections 21 and 21A,—
+  (b) an Authority dismisses a proceeding under section 21, or strikes out a proceeding under section 21A,—
 (2) An order by an Authority under this section shall be subject to appeal under section 26 as if—and the provisions of sections 25 to 29 shall apply accordingly with any necessary modifications.
   (a) the order were a determination of the Authority on an objection or challenge, or a part of any determination of the Authority on the objection or challenge in respect of which the costs were ordered; and
   (b) the amount of costs ordered were an amount of tax or duty,—
