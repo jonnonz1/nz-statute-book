@@ -1,5 +1,5 @@
 # Defence Act 1990
-_Consolidation as at 2023-12-20_
+_Consolidation as at 2025-11-27_
 
 > An Act—ato continue to authorise the raising and maintaining of armed forces for certain purposes; andbto constitute the New Zealand Defence Force, comprising—ithe Armed Forces under the command of the Chief of Defence Force; andiithe Civil Staff under the control of the Chief of Defence Force; andcto reaffirm that the Armed Forces are under Ministerial authority; anddto define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeto redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfto make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
@@ -16,13 +16,17 @@ _Consolidation as at 2023-12-20_
   - **aircraft** means any machine that can derive support in the atmosphere from the reactions of the air; and includes any aeroplane, balloon, kite balloon, airship, or glider
   - **Air Force** means the Royal New Zealand Air Force constituted under section 11(5)
   - **air force base** means any area of land or water (either in New Zealand or elsewhere) used or set aside for the purposes of the Air Force; and includes any building or other premises, tents, structures, or works on any such land, and any structures or works in any such water
-  - **airman** means any person duly attested for service in the Air Force, or declared by or under this or any other enactment to belong to the Air Force; and includes—but does not include an officer
-    (a) a non-commissioned officer of the Air Force; and
-    (b) a rating of the Navy and a soldier of the Army attached to the Air Force;—
   - **allied force** means a force or part of a force of another country acting in co-operation with a part of the Armed Forces
   - **Armed Forces** means the Navy, the Army, and the Air Force collectively; and includes any branch, corps, command, formation, unit, or other part of the Armed Forces; but does not include any part of the cadet forces
   - **Army** means the New Zealand Army constituted under section 11(4)
   - **Army camp** means any area of land or water (either in New Zealand or elsewhere) used or set aside for the purposes of the Army; and includes any building or other premises, tents, structures, or works on any such land, and any structures or works in any such water
+  - **aviator** —
+    (a) means any person duly attested for service in the Air Force or declared by or under this or any other enactment to belong to the Air Force; and
+    (b) includes—
+      (i) a non-commissioned officer of the Air Force; and
+      (ii) a rating of the Navy attached to the Air Force; and
+      (iii) a soldier of the Army attached to the Air Force; but
+    (c) does not include an officer
   - **cadet forces** means the Sea Cadet Corps, the New Zealand Cadet Corps, and the Air Training Corps collectively; and includes any part of those forces
   - **cadet officer** means a person who holds a cadet commission from the Minister in any corps of the cadet forces; but does not include an officer of the regular forces, the territorial forces, or the reserve forces
   - **Civil Staff** means the persons employed as members of the Defence Force under section 61A
@@ -42,9 +46,9 @@ _Consolidation as at 2023-12-20_
   - **joint force** means a joint force established under section 12
   - **joint force commander** , in relation to a joint force, means the officer appointed under section 12 to command that force
   - **land** includes any estate or interest in land
-  - **leading aircraftman** includes an aircraftman, a general service hand, and an air force cadet
+  - **leading aviator classification** includes an aviator classification, a general service hand, and an air force cadet
   - **member of the Defence Force** means—
-    (a) an officer, a rating, a soldier, or an airman; and
+    (a) an officer, a rating, a soldier, or an aviator; and
     (b) a member of the Civil Staff
   - **military** means of or pertaining to the Armed Forces
   - **Minister** means the Minister of Defence; and includes any other Minister for the time being lawfully exercising the powers of the Minister of Defence
@@ -60,7 +64,7 @@ _Consolidation as at 2023-12-20_
     (b) in relation to the Army, a soldier above the rank of private but below the rank of officer cadet; and includes a warrant officer; and also includes—
       (i) a non-commissioned officer of the Navy or the Air Force attached to the Army; and
       (ii) a person duly attached or lent as a non-commissioned officer to or seconded for service or appointed for duty as a non-commissioned officer with the Army:
-    (c) in relation to the Air Force, an airman above the rank of leading aircraftman but below the rank of officer cadet; and includes a warrant officer; and also includes—
+    (c) in relation to the Air Force, an aviator above the rank of leading aviator classification but below the rank of officer cadet; and includes a warrant officer; and also includes—
       (i) a non-commissioned officer of the Navy or the Army attached to the Air Force; and
       (ii) a person duly attached or lent as a non-commissioned officer to or seconded for service or appointed for duty as a non-commissioned officer with the Air Force
   - **officer** means,—
@@ -79,7 +83,7 @@ _Consolidation as at 2023-12-20_
   - **rank** , in relation to any member of the Armed Forces, means the rank held by that member for the time being, whether substantive, temporary, acting, or honorary
   - **rating** means any person duly attested for service in the Navy or declared by or under this or any other enactment to belong to the Navy; and includes—but does not include an officer
     (a) a non-commissioned officer of the Navy; and
-    (b) a soldier of the Army and an airman of the Air Force attached to the Navy;—
+    (b) a soldier of the Army and an aviator of the Air Force attached to the Navy;—
   - **regular forces** means the Royal New Zealand Navy, the Regular Force of the New Zealand Army, and the Regular Air Force collectively
   - **relative rank** means the appropriate rank prescribed under section 17
   - **reserve forces** means the Naval Reserves (other than the Royal New Zealand Naval Reserve and the Royal New Zealand Naval Volunteer Reserve), the Army Reserve, and the Air Force Reserve collectively
@@ -88,7 +92,7 @@ _Consolidation as at 2023-12-20_
   - **ship** means every description of vessel, boat, barge, or watercraft, however propelled; and includes a machine designed to be supported in the atmosphere, wholly or partly by air expelled from the machine to form a cushion extending beneath the machine to the surface of any ground, water, or other portion of the earth’s surface
   - **soldier** means any person duly attested for service in the Army or declared by or under this or any other enactment to belong to the Army; and includes—but does not include an officer
     (a) a non-commissioned officer of the Army; and
-    (b) a rating of the Navy and an airman of the Air Force attached to the Army;—
+    (b) a rating of the Navy and an aviator of the Air Force attached to the Army;—
   - **territorial forces** means the Royal New Zealand Naval Reserve, the Royal New Zealand Naval Volunteer Reserve, the Territorial Force of the New Zealand Army, and the Territorial Air Force collectively
   - **unit** means any part of the Armed Forces determined by the Chief of Defence Force to be a unit
   - **warrant officer** means—
@@ -153,9 +157,29 @@ For the purposes of the general responsibility of the Minister in relation to th
   (a) may, for any purpose necessary to assist the Police in dealing with the emergency, exercise any power of a constable; and
   (b) shall, for the purposes of civil and criminal liability, have the protections of a constable, in addition to all other protections that the member of the Armed Forces may have.
 (7) The Minister of Defence or the Prime Minister or other Minister granting any authority under subsection (2) or subsection (4) shall inform the House of Representatives, forthwith if the House is then sitting or at the earliest practicable time if it is not, that the authority has been given and of the reasons for giving it, and, if the authority was given in writing, shall lay a copy of it before the House.
-(8) Any authority given under subsection (2) or subsection (4) shall lapse on the expiration of 14 days after the day on which it was given unless—
+(8) Any authority given under subsection (2) lapses 30 days after it is given and any authority given under subsection (4) lapses 14 days after it is given unless—
   (a) the House of Representatives passes a resolution extending the authority for such period as is specified in the resolution; or
   (b) if Parliament was dissolved or had expired before or after the authority was given and has not been summoned to meet before the authority would lapse, the Governor-General, being satisfied that it is necessary to extend the authority, extends it by Proclamation approved in Executive Council for such period as is specified in the Proclamation.
+(9) Despite subsection (8)﻿(a), if the House of Representatives is adjourned before or after an authority is given under subsection (2) and does not or will not reconvene before that authority would otherwise lapse, the authority is automatically extended until the next sitting day of the House.
+
+### 9A Use of Armed Forces to perform work of Civil Staff
+(1) No part of the Armed Forces may be used to perform work of the Civil Staff in connection with an industrial dispute except in accordance with the authority of the Minister.
+(2) The Minister may grant an authority under subsection (1) if the Minister believes on reasonable grounds that—
+  (a) the work needs to be performed in order to avoid prejudicing—
+    (i) national security; or
+    (ii) the ability or readiness (or both) of the Armed Forces to perform specific operational activities (whether within New Zealand or offshore) that are integral to core defence outputs; or
+  (b) it is necessary for the work to be performed for reasons of safety or health.
+(3) An authority under this section must be in writing and must specify—
+  (a) the part or parts of the Armed Forces that may be used and the work that may be performed; and
+  (b) the period for which the authority applies.
+(4) Subsection (2)—
+  (a) is not limited by the scope of section 97 of the Employment Relations Act 2000; and
+  (b) applies only to work performed by the Civil Staff (see section 9(2) in respect of the performance of other public services).
+(5) The Chief of Defence Force must inform the Civil Staff whose work is to be performed by the Armed Forces, and their union, that an authority has been given under this section.
+(6) The Minister must inform the House of Representatives (immediately if the House is then sitting or at the earliest practicable time if it is not) that an authority has been given under this section and of the reasons for giving it.
+(7) The Minister is not required to share any sensitive information relating to the authority as part of the notification required to be given under subsection (6).
+(8) The Minister may, by notice in writing, if satisfied that the circumstances under subsection (2) still apply at the end of the period specified under subsection (3)﻿(b), extend the period for which the authority applies for a further specified period.
+(9) Subsections (5) to (7) apply to an extension of an authority under subsection (8) as if every reference to an authority were a reference to an extension of the authority.
 
 ### 10 Powers of requisition
 (1) Where the Minister is satisfied—the Minister may authorise the Chief of Defence Force to exercise the powers conferred by subsection (2) in respect of any specified property or type of property referred to in that subsection.
@@ -210,18 +234,18 @@ For the purposes of the general responsibility of the Minister in relation to th
   (b) such other necessary modifications as may be prescribed.
 
 ### 13 Members of regular forces
-(1) The regular forces of the Armed Forces shall, subject to Part 4, consist of such officers and of such ratings, soldiers, and airmen as are for the time being and from time to time appointed, engaged, enlisted, or transferred for continuing full-time service in the Royal New Zealand Navy, the Regular Forces of the Army, or the Regular Air Force.
-(2) The maximum numbers of officers, ratings, soldiers, and airmen in the regular forces shall be such as the Minister authorises from time to time.
+(1) The regular forces of the Armed Forces shall, subject to Part 4, consist of such officers and of such ratings, soldiers, and aviators as are for the time being and from time to time appointed, engaged, enlisted, or transferred for continuing full-time service in the Royal New Zealand Navy, the Regular Forces of the Army, or the Regular Air Force.
+(2) The maximum numbers of officers, ratings, soldiers, and aviators in the regular forces shall be such as the Minister authorises from time to time.
 
 ### 14 Members of Civil Staff
 [Repealed]
 
 ### 15 Members of territorial forces
-(1) The territorial forces of the Armed Forces shall, subject to Part 4, consist of such officers and of such ratings, soldiers, and airmen as are for the time being and from time to time appointed, engaged, enlisted, or transferred for service in the Royal New Zealand Naval Reserve, the Royal New Zealand Naval Volunteer Reserve, the Territorial Force of the New Zealand Army, or the Territorial Air Force.
-(2) The maximum number of officers, ratings, soldiers, and airmen in the territorial forces shall be such as the Minister authorises from time to time.
+(1) The territorial forces of the Armed Forces shall, subject to Part 4, consist of such officers and of such ratings, soldiers, and aviators as are for the time being and from time to time appointed, engaged, enlisted, or transferred for service in the Royal New Zealand Naval Reserve, the Royal New Zealand Naval Volunteer Reserve, the Territorial Force of the New Zealand Army, or the Territorial Air Force.
+(2) The maximum number of officers, ratings, soldiers, and aviators in the territorial forces shall be such as the Minister authorises from time to time.
 
 ### 16 Members of reserve forces
-The reserve forces of the Armed Forces shall, subject to Part 4, consist of such officers and of such ratings, soldiers, and airmen as are for the time being and from time to time appointed, engaged, enlisted, or transferred for service in the Naval Reserves, the Army Reserve, or the Air Force Reserve.
+The reserve forces of the Armed Forces shall, subject to Part 4, consist of such officers and of such ratings, soldiers, and aviators as are for the time being and from time to time appointed, engaged, enlisted, or transferred for service in the Naval Reserves, the Army Reserve, or the Air Force Reserve.
 
 ### 17 Relative ranks
 (1) For the purpose of this Act and the Armed Forces Discipline Act 1971, the Chief of Defence Force may prescribe the relative ranks of the Armed Forces and of the armed forces of other States.
@@ -231,7 +255,7 @@ The reserve forces of the Armed Forces shall, subject to Part 4, consist of such
 A member of the Armed Forces belonging to one Service may be attached to either of the other 2 Services, subject to such conditions as may be prescribed.
 
 ### 19 Circumstances in which members of one Service are deemed attached to another Service
-(1) Except when provided in orders issued by or under the authority of the Chief of Defence Force, an officer or soldier of the Army or an officer or airman of the Air Force shall, for the purposes of this Act and of the Armed Forces Discipline Act 1971, be deemed to be attached to the Navy—
+(1) Except when provided in orders issued by or under the authority of the Chief of Defence Force, an officer or soldier of the Army or an officer or aviator of the Air Force shall, for the purposes of this Act and of the Armed Forces Discipline Act 1971, be deemed to be attached to the Navy—
   (a) when he or she is serving in any naval ship or naval establishment; or
   (b) when he or she is lawfully ordered to serve in any naval ship or naval establishment; or
   (c) when he or she is serving in a joint service organisation that is primarily a naval responsibility; or
@@ -239,8 +263,8 @@ A member of the Armed Forces belonging to one Service may be attached to either 
   (e) when he or she is a patient in a naval hospital ship or other naval medical establishment; or
   (f) when he or she is in transit in any naval establishment or other establishment administered by the Navy; or
   (g) when he or she is serving a sentence of imprisonment or detention in a naval detention quarter.
-(2) When any order is given under paragraph (b) or paragraph (d) of subsection (1), the officer, soldier, or airman to whom the order relates shall be deemed to be attached to the Service specified in the order from such time and for such period (if any) as may be specified in the order.
-(3) Except as provided in orders issued by or under the authority of the Chief of Defence Force, an officer or rating of the Navy or an officer or airman of the Air Force shall, for the purposes of this Act and of the Armed Forces Discipline Act 1971, be deemed to be attached to the Army—
+(2) When any order is given under paragraph (b) or paragraph (d) of subsection (1), the officer, soldier, or aviator to whom the order relates shall be deemed to be attached to the Service specified in the order from such time and for such period (if any) as may be specified in the order.
+(3) Except as provided in orders issued by or under the authority of the Chief of Defence Force, an officer or rating of the Navy or an officer or aviator of the Air Force shall, for the purposes of this Act and of the Armed Forces Discipline Act 1971, be deemed to be attached to the Army—
   (a) when he or she is serving in a unit or formation of the Army; or
   (b) when he or she is lawfully ordered to serve in a unit or formation of the Army; or
   (c) when he or she is serving in a joint service organisation that is primarily an army responsibility; or
@@ -248,7 +272,7 @@ A member of the Armed Forces belonging to one Service may be attached to either 
   (e) when he or she is a patient in an army hospital, hospital ship, or other army medical establishment; or
   (f) when he or she is in transit at a transit camp or other establishment administered by the Army; or
   (g) when he or she is serving a sentence of imprisonment or detention in an army detention quarter.
-(4) When any order is given under paragraph (b) or paragraph (d) of subsection (3), the officer, rating, or airman to whom the order relates shall be deemed to be attached to the Service specified in the order from such time and for such period (if any) as may be specified in the order.
+(4) When any order is given under paragraph (b) or paragraph (d) of subsection (3), the officer, rating, or aviator to whom the order relates shall be deemed to be attached to the Service specified in the order from such time and for such period (if any) as may be specified in the order.
 (5) Except as provided in orders issued by or under the authority of the Chief of Defence Force, an officer or rating of the Navy or an officer or soldier of the Army shall, for the purposes of this Act and of the Armed Forces Discipline Act 1971, be deemed to be attached to the Air Force—
   (a) when he or she is serving in a unit or formation of the Air Force; or
   (b) when he or she is lawfully ordered to serve in a unit or formation of the Air Force; or
@@ -692,7 +716,7 @@ The Chief of Defence Force may from time to time issue a code of conduct coverin
 
 ### 61A Appointment of members of Civil Staff
 (1) Subject to this Part, the Chief of Defence Force—
-  (a) may from time to time appoint such suitable persons, not being officers, ratings, soldiers, or airmen of the regular forces, to be employees (including acting or temporary or casual employees) of the Defence Force as the Chief of Defence Force thinks necessary for the efficient conduct of the Defence Force; and
+  (a) may from time to time appoint such suitable persons, not being officers, ratings, soldiers, or aviators of the regular forces, to be employees (including acting or temporary or casual employees) of the Defence Force as the Chief of Defence Force thinks necessary for the efficient conduct of the Defence Force; and
   (b) may, subject to any conditions of employment included in the employment agreement applying to the employee, at any time remove any such employee from that employee’s employment.
 (2) Except as provided in sections 70 and 71, the Chief of Defence Force has all the rights, duties, and powers of an employer in respect of members of the Civil Staff.
 
