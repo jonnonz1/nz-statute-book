@@ -1,5 +1,5 @@
 # Oaths and Declarations Act 1957
-_Consolidation as at 2023-10-06_
+_Consolidation as at 2025-11-27_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to oaths, affirmations, and declarations
 
@@ -9,6 +9,7 @@ _Consolidation as at 2023-10-06_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **audiovisual link** means facilities that enable audio and visual communication between people in different places
   - **Commonwealth** means the British Commonwealth of Nations; and includes every territory for whose international relations the Government of any Commonwealth country is responsible; and also includes the Republic of Ireland as if that country were a member of the British Commonwealth of Nations
   - **Commonwealth representative** means any Ambassador, High Commissioner, Commissioner, Minister, Counsellor, Chargé d'Affaires, Head of Mission, Consular Officer, Pro-consul, Trade Commissioner, or Tourist Commissioner of a Commonwealth country (including New Zealand); and includes any person lawfully acting for any such officer; and also includes any diplomatic secretary on the staff of any such Ambassador, High Commissioner, Commissioner, Minister, Counsellor, Chargé d'Affaires, or Head of Mission
   - **oath** means an oath administered or taken for any purpose, whether in judicial proceedings or otherwise
@@ -16,6 +17,15 @@ In this Act, unless the context otherwise requires,—
   - **proceeding** includes any action, trial, inquiry, cause, or matter, whether civil or criminal or otherwise, in any court or before any person acting judicially.
 
 ## Part 1 — Oaths, affirmations, and declarations in general
+
+**Use of audiovisual links**
+
+### 2A Requirements relating to oaths, affirmations, and declarations may be met by audiovisual link
+(1) Where this Part requires an oath to be taken, or an affirmation or a declaration to be made, in the presence of the person administering the oath or affirmation or taking the declaration (the administrator), that requirement may be met using an audiovisual link (subject to subsections (2) and (3)).
+(2) The oath or affirmation may not be administered, and the declaration may not be made, by audio communication only.
+(3) If the oath, affirmation, or declaration is, or is required to be evidenced, in a document,—
+  (a) the administrator must be satisfied that the person taking the oath, or making the affirmation or declaration, signed the document concerned in the course of the audiovisual link; and
+  (b) as soon as practicable after signing the document, the person must send the signed document (or a photograph or scan of the signed document) to the administrator for the administrator to sign.
 
 **Oaths and affirmations**
 
