@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2023-06-15_
+_Consolidation as at 2025-11-27_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -82,7 +82,7 @@ In this Act, unless the context otherwise requires,—
       (ii) section 132 (sexual intercourse with a girl under 12):
       (iii) section 133 (indecency with a girl under 12):
       (iv) section 134 (sexual intercourse or indecency with a girl between 12 and 16):
-      (v) section 138 (sexual intercourse with a severely subnormal woman or girl):
+      (v) section 138 (sexual intercourse with certain persons):
       (vi) section 139 (indecent act between a woman and a girl):
       (vii) section 140 (indecency with a boy under 12):
       (viii) section 140A (indecency with a boy between 12 and 16):
@@ -98,7 +98,7 @@ In this Act, unless the context otherwise requires,—
       (vii) section 214 (defiling children under 12):
       (viii) section 215 (attempting to defile a child under 12):
       (ix) section 216 (defiling girls between 12 and 16):
-      (x) section 217 (defiling idiot or imbecile woman or girl):
+      (x) section 217 (defiling certain persons):
       (xi) section 218 (procuring defilement of girls):
     (e) an attempt to commit an offence against a provision listed in any of paragraphs (a) to (d), if—
       (i) the offence is not itself specified as an attempt; and
