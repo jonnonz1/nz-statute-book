@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2025-11-28_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -4807,6 +4807,7 @@ A reference in new section 79E to an offence that it is suspected has been commi
 |  |  | 72 |  | Property seized may be forfeited to Crown on conviction |  | Subpart 6 |
 | Immigration Act 2009 |  | 285A |  | Immigration officer may perform search of person coming into New Zealand from another country |  | Sections 123 to 126 and subpart 7 |
 |  |  | 293A |  | Immigration officer may apply for and execute search warrant |  | All (except that sections 118 and 119 apply only if warrant is executed by constable) |
+|  |  | 293B |  | Immigration officer may apply for and execute warrant to enter a dwelling or marae and search for a person |  | Section 98 |
 | Immigration Advisers Licensing Act 2007 |  | 57(1)﻿(e) |  | Person authorised by Registrar who enters premises for purposes of administering licensing regime may retain certain documents if there are grounds for believing they are evidence of commission of offence |  | Subparts 1, 5, 6, 7, 9, and 10 |
 |  |  | 61(1) |  | Person may obtain entry warrant for dwellinghouse if there are reasonable grounds to believe that immigration adviser, former immigration adviser, or applicant for licence as immigration adviser has worked there, and obtaining entry warrant is only practicable way in which to obtain entry |  | Subparts 1, 3, and 9 |
 |  |  | 61A |  | Registrar may apply for a search warrant in relation to an offence under the Act |  | Section 6 |
