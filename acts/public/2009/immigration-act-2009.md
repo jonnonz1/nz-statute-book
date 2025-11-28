@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-11-28_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -114,6 +114,7 @@ In this Act, unless the context otherwise requires,—
     (c) a copy of the order specified in paragraph (a) or (b)
   - **designated agency** means the agency designated by the Prime Minister under section 264(1) for the purpose of recognising lawyers as special advocates
   - **disembarkation** means the process of physically leaving a craft, whether onto land or otherwise
+  - **dwelling** has the meaning given in section 286(3)
   - **education provider** means a provider of a course of study, and—
     (a) in relation to any institution controlled by a board constituted under subpart 5 of Part 3 of the Education and Training Act 2020, means that board:
     (b) in relation to any institution controlled by the chief executive of the department of State that, with the authority of the Prime Minister, is responsible for the administration of the Education and Training Act 2020, means that chief executive:
@@ -129,6 +130,15 @@ In this Act, unless the context otherwise requires,—
   - **excluded person** means a person to whom section 15 or 16 applies
   - **exclusive economic zone of New Zealand** has the same meaning as in section 9 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **execute** , in relation to a deportation order, has the meaning described in section 178(2)
+  - **first available craft** means the first craft that is available to place a person on after they meet the following criteria:
+    (a) the person is liable for deportation or turnaround; and
+    (b) the person has—
+      (i) applied for leave to bring judicial review proceedings within 28 days after being notified of the Tribunal’s determination in respect of the decision or matter to which the review proceedings relate, or within any further time allowed by the High Court, but leave has been refused; or
+      (ii) applied for leave to bring judicial review proceedings after the prescribed time; or
+      (iii) not applied for leave to bring judicial review proceedings; and
+    (c) the person has no further rights of appeal under this Act; and
+    (d) there are no impediments to the deportation or turnaround of the person; and
+    (e) the deportation or turnaround of the person from New Zealand will not contravene section 164
   - **former Act** means the Immigration Act 1987
   - **government agency** —
     (a) means—
@@ -154,6 +164,13 @@ In this Act, unless the context otherwise requires,—
   - **infringement offence** has the meaning given to it by section 359
   - **international visitor conservation and tourism levy** means a levy imposed by regulations under section 400 for the purposes of section 399A
   - **invitation to apply** means an invitation to apply for a visa, as described in section 94
+  - **irregular entry into New Zealand** includes, without limitation, entry into New Zealand by a person if—
+    (a) the identity of the person is unknown; or
+    (b) in the circumstances referred to in section 324E(6)﻿(a), the person’s identity has not been established to the satisfaction of a District Court Judge; or
+    (c) the person has used false or fraudulently obtained documents, or other deceptive or fraudulent means, to gain entry; or
+    (d) the person has failed to observe border control or other immigration formalities; or
+    (e) the person has used a deceptive or clandestine method of entry (for example, as a stowaway or by entering outside of official points of entry, including closed or unauthorised entry points); or
+    (f) the person has been assisted to enter by smugglers
   - **leave New Zealand** means, except in the circumstances specified in section 121, leave New Zealand for a destination in another country
   - **mass arrival group** has the meaning given to it by section 9A
   - **Minister** , in relation to a provision of, or made under, this Act (or to such a provision for particular purposes), means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the provision (or for its administration for those purposes)
@@ -171,6 +188,7 @@ In this Act, unless the context otherwise requires,—
     (b) in relation to an airport, means—
       (i) an airport authority within the meaning of the Airport Authorities Act 1966 that operates or manages the airport; and
       (ii) an airport operator registered under Part 7 of the Civil Aviation Act 2023 in relation to the airport
+  - **out of hours** has the meaning given in section 286(3)
   - **passenger** , in relation to a craft,—
     (a) means a person, other than a member of the crew, who is carried in or on the craft with the consent of the carrier, or the person in charge, of the craft; but
     (b) for the purpose of any provision in this Act or secondary legislation made under this Act that deems certain passengers to hold a visa and to have been granted entry permission, does not include a person who is a member of a mass arrival group
@@ -349,7 +367,8 @@ In this Act, unless the context otherwise requires,—
   (a) on board the same craft; or
   (b) on board the same group of craft at the same time; or
   (c) on board the same group of craft and within such a time period or in such circumstances that each person arrived, or intended to arrive, in New Zealand as part of the group.
-(2) In subsection (1), craft does not include a craft travelling to New Zealand in the course of a scheduled international service.
+(1A) A group of people arriving on board a group of aircraft are a mass arrival group under subsection (1)﻿(c) if the aircraft arrive within the same 24-hour time period.
+(2)
 
 ### 10 Meaning of deported
 (1) For the purposes of this Act, a person is deported from a country if the person leaves the country (whether or not at the expense of the government of the country) and an order for the person's departure made by the government of the country, an authorised official of the country, or a judicial authority in the country, is in force.
@@ -455,6 +474,7 @@ This Act binds the Crown.
     (iii) the holder of a resident visa arriving in New Zealand for a second or subsequent time as the holder of the visa:
   (b) a visa and entry permission must be granted to a person who is for the time being entitled to any immunity from jurisdiction by or under the Diplomatic Privileges and Immunities Act 1968 (other than a person referred to in section 10D(2)﻿(d) of that Act) or the Consular Privileges and Immunities Act 1971.
 (3) A decision to grant a visa and entry permission under subsection (1) is in the absolute discretion of the decision maker.
+(4) Nothing in section 15 or 16 limits the power of the Minister to grant a temporary entry class visa under section 75A.
 
 **Persons unlawfully in New Zealand**
 
@@ -860,11 +880,38 @@ At any one time, a person may hold only 1 current visa.
   (b) takes effect—
     (i) from the date the visa is granted, if the condition is imposed, varied, or waived when the visa is granted; or
     (ii) from the date specified in the notice (being a date not earlier than the date of notification), in any other case.
-(4A)
-(4B)
-(4C)
-(4D)
-(4E)
+(4A) The Minister may, by special direction in relation to a class or classes of persons holding resident visas,—
+  (a) vary conditions that would otherwise apply to visas of the relevant types, or that were imposed under this section, that relate to travel to New Zealand:
+  (b) vary or cancel conditions that would otherwise apply to visas of the relevant types or that were imposed under this section.
+(4B) However, the Minister may not make a special direction under subsection (4A) unless satisfied that the special direction is reasonably necessary to respond to 1 or more of the following circumstances:
+  (a) any unusual circumstance:
+  (b) any circumstance that is unable to be dealt with under any other provision of the Act:
+  (c) any circumstance that is outside the Department’s control:
+  (d) any circumstance that poses a challenge to the immigration system.
+(4C) A special direction under subsection (4A) may, without limiting the generality of the manner in which persons may be classified, classify persons to whom a variation or cancellation of a visa condition applies by reference to all or any of the following:
+  (a) their nationality:
+  (b) the country or place from which they are travelling or have travelled (whether it is their original or an intermediate point of departure):
+  (c) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
+  (d) the type of visa that they hold:
+  (e) any other type of visa that they have applied for.
+(4D) The Minister must certify a special direction made under subsection (4A) as follows:
+  (a) the Minister considers that the exercise of the power to make the special direction in the particular situation is reasonably necessary to respond to 1 or more of the following circumstances:
+    (i) any unusual circumstance:
+    (ii) any circumstance that is unable to be dealt with under any other provision of the Act:
+    (iii) any circumstance that is outside the Department’s control:
+    (iv) any circumstance that poses a challenge to the immigration system; and
+  (b) the Minister considers that the exercise of the power to make the special direction in the particular situation will—
+    (i) benefit the class or classes of persons to whom it applies; or
+    (ii) not disadvantage the class or classes of persons to whom it applies; and
+  (c) the Minister has undertaken any consultation that they consider to be appropriate in the particular situation.
+(4E) A special direction under subsection (4A)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commences in accordance with section 378(3), even if it is not yet published; and
+  (c) must be published together with an explanation of the effect of the special direction; and
+  (d) must specify—
+    (i) its duration, which can be no longer than 6 months; and
+    (ii) any statutory power exercised; and
+    (iii) the class of persons to whom it applies.
 (5) To avoid doubt,—
   (a) subsection (2) applies whether the resident visa was granted as an exception to residence instructions or otherwise:
   (b) nothing in this section allows the Minister to impose conditions on a permanent resident visa, whether at the time of or subsequent to granting the visa.
@@ -887,11 +934,38 @@ At any one time, a person may hold only 1 current visa.
   (b) takes effect—
     (i) from the date the visa is granted, if the condition is imposed, varied, or waived when the visa is granted; or
     (ii) from the date specified in the notice (being a date not earlier than the date of notification), in any other case.
-(4A)
-(4B)
-(4C)
-(4D)
-(4E)
+(4A) The Minister may, by special direction in relation to a class or classes of persons holding temporary entry class visas,—
+  (a) impose further conditions on the visas, whether or not the conditions are specified in the temporary entry instructions in relation to visas of the relevant types:
+  (b) vary or cancel conditions that would otherwise apply to visas of the relevant types or that were imposed under this section.
+(4B) However, the Minister may not make a special direction under subsection (4A) unless satisfied that the special direction is reasonably necessary to respond to 1 or more of the following circumstances:
+  (a) any unusual circumstance:
+  (b) any circumstance that is unable to be dealt with under any other provision of the Act:
+  (c) any circumstance that is outside the Department’s control:
+  (d) any circumstance that poses a challenge to the immigration system.
+(4C) A special direction under subsection (4A) may, without limiting the generality of the manner in which persons may be classified, classify persons to whom a further visa condition, or a variation or cancellation of a visa condition, applies by reference to all or any of the following:
+  (a) their nationality:
+  (b) the country or place from which they are travelling or have travelled (whether it is their original or an intermediate point of departure):
+  (c) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
+  (d) the type of visa that they hold:
+  (e) any other type of visa that they have applied for.
+(4D) The Minister must certify a special direction made under subsection (4A) as follows:
+  (a) the Minister considers that the exercise of the power to make the special direction in the particular situation is reasonably necessary to respond to 1 or more of the following circumstances:
+    (i) any unusual circumstance:
+    (ii) any circumstance that is unable to be dealt with under any other provision of the Act:
+    (iii) any circumstance that is outside the Department’s control:
+    (iv) any circumstance that poses a challenge to the immigration system; and
+  (b) the Minister considers that the exercise of the power to make the special direction in the particular situation will—
+    (i) benefit the class or classes of persons to whom it applies; or
+    (ii) not disadvantage the class or classes of persons to whom it applies; and
+  (c) the Minister has undertaken any consultation that they consider to be appropriate in the particular situation.
+(4E) A special direction under subsection (4A)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commences in accordance with section 378(3), even if it is not yet published; and
+  (c) must be published together with an explanation of the effect of the special direction; and
+  (d) must specify—
+    (i) its duration, which can be no longer than 6 months; and
+    (ii) any statutory power exercised; and
+    (iii) the class of persons to whom it applies.
 (5) Nothing in this section applies to a temporary entry class visa that is subject to restricted temporary entry instructions.
 
 ### 53 Conditions on temporary entry class visas subject to restricted temporary entry instructions
@@ -907,11 +981,38 @@ At any one time, a person may hold only 1 current visa.
   (b) takes effect—
     (i) from the date the visa is granted, if the condition is imposed, varied, or waived when the visa is granted; or
     (ii) from the date specified in the notice (being a date not earlier than the date of notification), in any other case.
-(4A)
-(4B)
-(4C)
-(4D)
-(4E)
+(4A) The Minister may, by special direction in relation to a class or classes of persons holding temporary entry class visas subject to restricted temporary entry instructions,—
+  (a) impose further conditions on the visas, whether or not the conditions are specified in the restricted temporary entry instructions in relation to visas of the relevant types:
+  (b) vary or cancel conditions that would otherwise apply to visas of the relevant types or that were imposed under this section.
+(4B) However, the Minister may not make a special direction under subsection (4A) unless satisfied that the special direction is reasonably necessary to respond to 1 or more of the following circumstances:
+  (a) any unusual circumstance:
+  (b) any circumstance that is unable to be dealt with under any other provision of the Act:
+  (c) any circumstance that is outside the Department’s control:
+  (d) any circumstance that poses a challenge to the immigration system.
+(4C) A special direction under subsection (4A) may, without limiting the generality of the manner in which persons may be classified, classify persons to whom a further visa condition, or a variation or cancellation of a visa condition, applies by reference to all or any of the following:
+  (a) their nationality:
+  (b) the country or place from which they are travelling or have travelled (whether it is their original or an intermediate point of departure):
+  (c) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
+  (d) the type of visa that they hold:
+  (e) any other type of visa that they have applied for.
+(4D) The Minister must certify a special direction made under subsection (4A) as follows:
+  (a) the Minister considers that the exercise of the power to make the special direction in the particular situation is reasonably necessary to respond to 1 or more of the following circumstances:
+    (i) any unusual circumstance:
+    (ii) any circumstance that is unable to be dealt with under any other provision of the Act:
+    (iii) any circumstance that is outside the Department’s control:
+    (iv) any circumstance that poses a challenge to the immigration system; and
+  (b) the Minister considers that the exercise of the power to make the special direction in the particular situation will—
+    (i) benefit the class or classes of persons to whom it applies; or
+    (ii) not disadvantage the class or classes of persons to whom it applies; and
+  (c) the Minister has undertaken any consultation that they consider to be appropriate in the particular situation.
+(4E) A special direction under subsection (4A)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commences in accordance with section 378(3), even if it is not yet published; and
+  (c) must be published together with an explanation of the effect of the special direction; and
+  (d) must specify—
+    (i) its duration, which can be no longer than 6 months; and
+    (ii) any statutory power exercised; and
+    (iii) the class of persons to whom it applies.
 (5) To avoid doubt, subsection (2) applies whether the temporary entry class visa was granted as an exception to temporary entry instructions or otherwise.
 
 ### 54 Conditions on transit visas
@@ -952,11 +1053,36 @@ At any one time, a person may hold only 1 current visa.
 ### 57 Applications for visas
 (1) An application for a visa must be made in the manner prescribed for the class or type of visa sought.
 (2) The applicant must provide his or her contact address and address for service.
-(3)
-(4)
-(5)
-(6)
-(7)
+(3) The Minister may, by special direction, waive 1 or more of the prescribed requirements for applying for a visa (whether at an immigration control area or otherwise) in respect of a class or classes of persons.
+(4) However, the Minister may not make a special direction under subsection (3) unless satisfied that the special direction is reasonably necessary to respond to 1 or more of the following circumstances:
+  (a) any unusual circumstance:
+  (b) any circumstance that is unable to be dealt with under any other provision of the Act:
+  (c) any circumstance that is outside the Department’s control:
+  (d) any circumstance that poses a challenge to the immigration system.
+(5) A waiver made in accordance with subsection (3) may, without limiting the generality of the manner in which persons may be classified, classify persons to whom the waiver applies by reference to all or any of the following:
+  (a) their nationality:
+  (b) the country or place from which they are travelling or have travelled (whether it is their original or an intermediate point of departure):
+  (c) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
+  (d) the type of visa that they hold:
+  (e) any other type of visa that they have applied for.
+(6) The Minister must certify a special direction made under subsection (3) as follows:
+  (a) the Minister considers that the exercise of the power to make the special direction in the particular situation is reasonably necessary to respond to 1 or more of the following circumstances:
+    (i) any unusual circumstance:
+    (ii) any circumstance that is unable to be dealt with under any other provision of the Act:
+    (iii) any circumstance that is outside the Department’s control:
+    (iv) any circumstance that poses a challenge to the immigration system; and
+  (b) the Minister considers that the exercise of the power to make the special direction in the particular situation will—
+    (i) benefit the class or classes of persons to whom it applies; or
+    (ii) not disadvantage the class or classes of persons to whom it applies; and
+  (c) the Minister has undertaken any consultation that they consider to be appropriate in the particular situation.
+(7) A special direction under subsection (3)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commences in accordance with section 378(3), even if it is not yet published; and
+  (c) must be published together with an explanation of the effect of the special direction; and
+  (d) must specify—
+    (i) its duration, which can be no longer than 6 months; and
+    (ii) any statutory power exercised; and
+    (iii) the class of persons to whom it applies.
 
 ### 58 Obligation on applicant to inform of all relevant facts, including changed circumstances
 (1) It is the responsibility of an applicant for a visa to ensure that all information, evidence, and submissions that the applicant wishes to have considered in support of the application are provided when the application is made.
@@ -987,8 +1113,49 @@ Where an application for a visa is made by or for a person under 18 years of age
   (c) is not a person in respect of whom a removal order is in force.
 (2) A decision to grant a visa under subsection (1) is in the Minister’s absolute discretion.
 
+### 61A Grant of visa to individual
+(1) The Minister may at any time, of the Minister’s own volition, grant a visa of any type to a person who—
+  (a) is outside New Zealand; or
+  (b) is in New Zealand and holds a temporary entry class visa.
+(2) A visa may be granted under subsection (1) even if the grant is contrary to immigration instructions.
+(3) A decision to grant a visa under subsection (1) is in the Minister’s absolute discretion.
+
 ### 61A Grant of visas by special direction
 [Repealed]
+
+### 61B Grant of visas to class of persons by special direction
+(1) The Minister may, at any time of the Minister’s own volition, by special direction, grant visas of any type to a class or classes of persons who—
+  (a) are outside New Zealand; or
+  (b) are in New Zealand and hold temporary entry class visas.
+(2) A visa may be granted under subsection (1) even if the grant is contrary to immigration instructions.
+(3) However, the Minister may not make a special direction under subsection (1) unless satisfied that the special direction is reasonably necessary to respond to 1 or more of the following circumstances:
+  (a) any unusual circumstance:
+  (b) any circumstance that is unable to be dealt with under any other provision of the Act:
+  (c) any circumstance that is outside the Department’s control:
+  (d) any circumstance that poses a challenge to the immigration system.
+(4) A special direction under subsection (1) may, without limiting the generality of the manner in which persons may be classified, classify persons to whom a visa is granted by reference to all or any of the following:
+  (a) their nationality:
+  (b) the country or place from which they are travelling or have travelled (whether it is their original or an intermediate point of departure):
+  (c) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
+  (d) any type of visa that they hold or have applied for.
+(5) The Minister must certify a special direction made under subsection (1) as follows:
+  (a) the Minister considers that the exercise of the power to make the special direction in the particular situation is reasonably necessary to respond to 1 or more of the following circumstances:
+    (i) any unusual circumstance:
+    (ii) any circumstance that is unable to be dealt with under any other provision of the Act:
+    (iii) any circumstance that is outside the Department’s control:
+    (iv) any circumstance that poses a challenge to the immigration system; and
+  (b) the Minister considers that the exercise of the power to make the special direction in the particular situation will—
+    (i) benefit the class or classes of persons to whom it applies; or
+    (ii) not disadvantage the class or classes of persons to whom it applies; and
+  (c) the Minister has undertaken any consultation that they consider to be appropriate in the particular situation.
+(6) A special direction under subsection (1)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commences in accordance with section 378(3), even if it is not yet published; and
+  (c) must be published together with an explanation of the effect of the special direction; and
+  (d) must specify—
+    (i) its duration, which can be no longer than 6 months; and
+    (ii) any statutory power exercised; and
+    (iii) the class of persons to whom it applies.
 
 ### 62 Form of visa
 (1) A visa is granted by being entered and retained in the records (whether electronic or physical) of the Department in a manner determined by the chief executive.
@@ -1113,6 +1280,7 @@ The following classes of visa may be granted under this Act:
     (iii) in a prescribed place.
 (2) No person who is of a class or category that, by virtue of immigration instructions, may only apply for a resident visa or a permanent resident visa by invitation, may apply for such a visa without an invitation.
 (3) A person may apply for a resident visa or a permanent resident visa in response to an invitation to apply only if the application is made in the time frame specified in the residence instructions.
+(3A) No person whose residence class visa has been cancelled under section 75A may apply for a residence class visa.
 (4) To avoid doubt, no limited visa holder, interim visa holder, transit visa holder, or person who is liable for deportation may apply for a residence class visa.
 (5) However, the Minister, in his or her absolute discretion, may grant a residence class visa to a person to whom subsection (4) applies.
 
@@ -1147,6 +1315,19 @@ The holder of a permanent resident visa is entitled—
 (2) The person is deemed, from the date of renouncing, or being deprived of, his or her citizenship, to hold a resident visa—
   (a) permitting the person to stay in New Zealand; and
   (b) subject to any conditions specified in residence instructions certified for the purposes of this section at the time the person renounced or was deprived of his or her citizenship.
+
+### 75A Cancellation of residence class visa of person threatening security
+(1) The Minister may cancel a person’s residence class visa if—
+  (a) the Minister has certified under section 163(1) that the person constitutes a threat or risk to security; but
+  (b) a refugee and protection officer has determined under section 164(5) that section 164(3) or (4) does not allow the person to be deported.
+(2) If the Minister cancels a visa under subsection (1), the Minister must grant the person a temporary entry class visa of a type that the Minister thinks fit.
+(3) The expiry date of a temporary entry class visa granted under subsection (2) is a matter for the discretion of the Minister.
+(4) A person granted a temporary entry class visa under subsection (2) may apply to the Minister for a further temporary entry class visa if the criteria for cancellation set out in subsection (1) still apply to that person.
+(5) On receipt of an application under subsection (4), the Minister, if satisfied that the criteria for cancellation set out in subsection (1) still apply to that person,—
+  (a) must grant a further temporary entry class visa of a type that the Minister thinks fit; and
+  (b) may—
+    (i) impose on the visa granted any conditions that the Minister thinks fit; or
+    (ii) vary or waive conditions that would otherwise apply to it.
 
 **Temporary entry class visas: provisions applying to all types**
 
@@ -1193,7 +1374,8 @@ The holder of a permanent resident visa is entitled—
 (1) The following persons may apply for a temporary visa:
   (a) a person, including a person to whom a visa waiver applies, who is outside New Zealand and who wishes to come to New Zealand for any purpose for which a temporary visa may be granted:
   (b) a person arriving in New Zealand and to whom a visa waiver applies:
-  (c) a person who is onshore, is the holder of a temporary visa, and is either—
+  (c) a person who is onshore, is the holder of a temporary visa, and is—
+    (iaaa) a person to whom section 75A(2) applies; or
     (i) a person to whom section 150(1) and (2) do not apply; or
     (ii) a claimant to whom section 150(3) applies:
   (d) a person who is a member of a mass arrival group and has the responsibility of applying for a visa under section 103(1)﻿(daa).
@@ -1314,6 +1496,60 @@ An immigration officer may cancel a transit visa at any time but, if he or she c
 At any time before the transit period of a transit passenger expires, an immigration officer may, in his or her absolute discretion,—
   (a) extend the transit passenger's transit period beyond the transit period prescribed under section 401(d); or
   (b) grant the transit passenger a visa and entry permission.
+
+**Special directions to extend temporary entry class visas and transit visas**
+
+### 91A Extension of temporary entry class visas and transit visas by special direction
+(1) The Minister may, by special direction in relation to a class or classes of persons holding the following visas, extend the visas by a period of up to 9 months from the date on which they would otherwise expire:
+  (a) temporary entry class visas (excluding those visas that are subject to restricted temporary entry instructions):
+  (b) temporary entry class visas subject to restricted temporary entry instructions:
+  (c) transit visas.
+(2) However, the Minister may not make a special direction under subsection (1) unless satisfied that the special direction is reasonably necessary to respond to 1 or more of the following circumstances:
+  (a) any unusual circumstance:
+  (b) any circumstance that is unable to be dealt with under any other provision of the Act:
+  (c) any circumstance that is outside the Department’s control:
+  (d) any circumstance that poses a challenge to the immigration system.
+(3) A visa extended under subsection (1)﻿(a) or (b) must, for all purposes, be treated as if it continues to be a current visa allowing a person to travel to New Zealand, apply for entry permission, and stay in New Zealand until the earlier of the following events:
+  (a) the cancellation of the visa:
+  (b) the expiry of the period of the extension.
+(4) A transit visa extended under subsection (1)﻿(c) must, for all purposes, be treated as if it continues to be a current visa giving the holder of the visa permission to travel to New Zealand, and to remain, for no longer than the transit period,—
+  (a) on the craft concerned; or
+  (b) in an immigration control area; or
+  (c) in the custody of the Police.
+(5) Subsection (1) does not require—
+  (a) the endorsement or modification of the visa; or
+  (b) the issue of a document extending the visa; or
+  (c) the grant of a new visa.
+(6) A visa extension under subsection (1) may, without limiting the generality of the manner in which persons may be classified, classify persons to whom the extension applies by reference to all or any of the following:
+  (a) their nationality:
+  (b) the country or place from which they are travelling or have travelled (whether it is their original or an intermediate point of departure):
+  (c) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
+  (d) the type of visa that they hold.
+(7) The Minister must certify a special direction made under subsection (1) as follows:
+  (a) the Minister considers that the exercise of the power to make the special direction in the particular situation is reasonably necessary to respond to 1 or more of the following circumstances:
+    (i) any unusual circumstance:
+    (ii) any circumstance that is unable to be dealt with under any other provision of the Act:
+    (iii) any circumstance that is outside the Department’s control:
+    (iv) any circumstance that poses a challenge to the immigration system; and
+  (b) the Minister considers that the exercise of the power to make the special direction in the particular situation will—
+    (i) benefit the class or classes of persons to whom it applies; or
+    (ii) not disadvantage the class or classes of persons to whom it applies; and
+  (c) the Minister has undertaken any consultation that they consider to be appropriate in the particular situation.
+(8) A special direction under subsection (1)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commences in accordance with section 378(3), even if it is not yet published; and
+  (c) must be published together with an explanation of the effect of the special direction; and
+  (d) must specify—
+    (i) its duration, which can be no longer than 6 months; and
+    (ii) any statutory power exercised; and
+    (iii) the class of persons to whom it applies.
+
+**Reporting to Minister about grant of visas by special direction**
+
+### 91B Departmental annual report to record exercise of power to make special directions (class of persons)
+The chief executive must include in every annual report prepared by the chief executive for the purposes of section 43 of the Public Finance Act 1989—
+  (a) the number of times that the power to make a special direction under sections 50(4A), 52(4A), 53(4A), 57(3), 61B(1), and 91A(1) has been used in the financial year and the previous 3 financial years (if applicable); and
+  (b) the reasons for which any special directions under sections 50(4A), 52(4A), 53(4A), 57(3), 61B(1), and 91A(1) were made in the financial year.
 
 **Invitation to apply for visa**
 
@@ -2147,7 +2383,7 @@ When making a determination under section 143, 145, or 146,—
     (iii) not later than 2 years after the person first held a residence class visa; or
   (b) of an offence for which the court has the power to impose imprisonment for a term of 2 years or more, if the offence was committed not later than 5 years after the person first held a residence class visa; or
   (c) of an offence and sentenced to imprisonment for a term of 5 years or more (or for an indeterminate period capable of running for 5 years or more), if the offence was committed not later than 10 years after the person first held a residence class visa; or
-  (d) of an offence against section 350(1)﻿ or 351, if the offence was committed not later than 10 years after the person first held a residence class visa, and whether that visa was granted before or after this paragraph comes into force.
+  (d) of an offence against section 350(1), 351, or 351A, if the offence was committed not later than 10 years after the person first held a residence class visa, and whether that visa was granted before or after this paragraph comes into force.
 (2) A person liable for deportation under this section may, not later than 28 days after being served with a deportation liability notice, appeal to the Tribunal—
   (a) on humanitarian grounds against his or her liability for deportation; and
   (b) if he or she is a refugee or a protected person, against any decision of a refugee and protection officer that he or she may be deported.
@@ -2800,7 +3036,7 @@ If the Tribunal decides that an appeal against liability for deportation should 
 (1) If the Tribunal allows an appeal under this Part against liability for deportation, the appellant's liability is cancelled and subsection (2), (3), or (4) applies, as the case may be.
 (2) If the appellant is in custody under this Act, an immigration officer must immediately notify, in writing, the manager or other person in charge of the prison or other premises in which the appellant is detained that the appellant's liability for deportation is cancelled, and the appellant must be immediately released.
 (3) If the appellant is subject to residence or reporting requirements under section 315, an immigration officer must immediately notify, in writing, the appellant (and, if applicable, his or her guarantor) that the appellant's liability for deportation is cancelled, and the appellant ceases to be subject to those requirements.
-(4) If the appellant has been released on conditions under section 320, an immigration officer must immediately notify, in writing, the appellant that his or her liability for deportation is cancelled, and the appellant ceases to be subject to those conditions.
+(4) If the appellant has been released on conditions under section 324F, an immigration officer must immediately notify, in writing, the appellant that his or her liability for deportation is cancelled, and the appellant ceases to be subject to those conditions.
 (5) Subsection (1) applies unless—
   (a) the appeal concerned is a humanitarian appeal; and
   (b) the appellant is a resident or a permanent resident; and
@@ -2824,7 +3060,7 @@ If the Tribunal decides that an appeal against liability for deportation should 
   (d) subject to sections 9 and 10 of the Citizenship Act 1977 and sections 7(1)﻿(b)﻿(i) and 7A of the Citizenship (Western Samoa) Act 1982, the person may not be granted citizenship on the basis of meeting a requirement (or requirements) for the grant of New Zealand citizenship that the person hold a residence class visa.
 (2) If the person is in custody under this Act, an immigration officer must immediately notify, in writing, the manager or other person in charge of the prison or other premises in which the person is detained that the person's liability for deportation is suspended, and the person must be immediately released.
 (3) If the person is subject to residence or reporting requirements under section 315, an immigration officer must immediately notify, in writing, the person and the person's guarantor (if applicable) that the person's liability for deportation is suspended, and the person ceases to be subject to those requirements.
-(4) If the person has been released on conditions under section 320, an immigration officer must immediately notify, in writing, the person that his or her liability for deportation is suspended, and the person ceases to be subject to those conditions.
+(4) If the person has been released on conditions under section 324F, an immigration officer must immediately notify, in writing, the person that his or her liability for deportation is suspended, and the person ceases to be subject to those conditions.
 (5) If the Minister determines that a person has met any conditions imposed by the Tribunal under section 212(1) for the duration of the suspension, the Minister must cancel the person's liability for deportation and notify the Tribunal accordingly.
 (6) If the Tribunal did not impose conditions on the person under section 212(1) and the period of suspension has expired, the Minister must cancel the person's liability for deportation and notify the person and the Tribunal accordingly.
 
@@ -3345,7 +3581,7 @@ No Judge or member of the Tribunal is disqualified from hearing any proceedings 
   (a) has not appointed a special advocate to represent him or her in any appeal, matter, or review proceedings involving classified information; and
   (b) is the subject of an application under Part 9 in which classified information may be relied on in determining the application.
 (2) If the person has been arrested and detained under Part 9, the Department must contact the designated agency as soon as practicable after the person is arrested and detained and make arrangements for a special advocate to whom section 264(5) applies to be available, on behalf of the person, for the warrant of commitment hearing.
-(3) If the person has been detained under a warrant of commitment, or released on conditions under section 320, the Department must contact the designated agency as soon as practicable after it becomes apparent that this section applies to the person and make arrangements for a special advocate to whom section 264(5) applies to be available, on behalf of the person, for the hearing of the application.
+(3) If the person has been detained under a warrant of commitment, or released on conditions under section 324F, the Department must contact the designated agency as soon as practicable after it becomes apparent that this section applies to the person and make arrangements for a special advocate to whom section 264(5) applies to be available, on behalf of the person, for the hearing of the application.
 (4) If an application on a matter to which subsection (2) or (3) applies is made directly to the High Court, or is transferred to the High Court, the special advocate concerned must be provided with access to the classified information provided to the High Court before the application is heard (and he or she may not unreasonably refuse to be provided with access to the classified information).
 (5) The designated agency must not provide the name of a special advocate unless the special advocate is reasonably available, having regard to the time frames in Part 9.
 
@@ -3387,7 +3623,7 @@ No Judge or member of the Tribunal is disqualified from hearing any proceedings 
 
 ### 268 Protection of special advocates from liability
 (1) To the extent that a special advocate is acting in accordance with the requirements of this Act, he or she is not guilty of—
-  (a) misconduct within the meaning of section 9 of the Lawyers and Conveyancers Act 2006; or
+  (a) misconduct within the meaning of section 7 of the Lawyers and Conveyancers Act 2006; or
   (b) unsatisfactory conduct within the meaning of section 12 of that Act.
 (2) To avoid doubt, the provisions of this Act apply despite the requirements of any practice rules made and approved under the Lawyers and Conveyancers Act 2006.
 (3) No person is personally liable for any act done or omitted to be done in good faith, in his or her capacity as a special advocate, in accordance with the requirements or provisions of this Act or of any regulations made under this Act.
@@ -3519,7 +3755,7 @@ The persons and bodies who may be required by certificate under section 274 to p
 ### 277A Powers of entry and search for employees on employers’ premises
 (1) In this section,—
   - **premises** means any premises, including a dwellinghouse and any ship or other vessel or vehicle
-  - **specified employee** means a person who an immigration officer believes on reasonable grounds is or may be an employee of an employer who the immigration officer has good cause to suspect is committing an offence under section 350 or 351
+  - **specified employee** means a person who an immigration officer believes on reasonable grounds is or may be an employee of an employer who the immigration officer has good cause to suspect is committing an offence under section 350, 351, or 351A
   - **specified person** means a person who an immigration officer believes on reasonable grounds is or may be a person who—
     (a) is not entitled under this Act to work in New Zealand; or
     (b) is not complying with 1 or more work-related conditions of his or her visa.
@@ -3553,7 +3789,7 @@ The persons and bodies who may be required by certificate under section 274 to p
 ### 277C Departmental annual report to record exercise of entry and search powers under section 277A
 (1) The chief executive must include in every annual report prepared by the chief executive for the purposes of section 43 of the Public Finance Act 1989—
   (a) the number of occasions during the period covered by the report on which immigration officers exercised the powers conferred by section 277A(3)﻿(a) or (b), or both; and
-  (b) the number of persons charged during the period covered by the report with an offence under section 350 or 351, if the collection of evidence relevant to the offence was significantly assisted by the exercise of the powers under section 277A(3)﻿(a) or (b), or both.
+  (b) the number of persons charged during the period covered by the report with an offence under section 350, 351, or 351A, if the collection of evidence relevant to the offence was significantly assisted by the exercise of the powers under section 277A(3)﻿(a) or (b), or both.
 (2) To avoid doubt, this section does not require the chief executive to include in any annual report information about an entry or a search undertaken by consent.
 
 ### 278 Powers of entry and inspection relating to records of education providers
@@ -3699,9 +3935,16 @@ An immigration officer may, at any time of day or night, without a warrant or an
 **Powers relating to deportation and turnaround**
 
 ### 286 Powers of entry and search relating to deportation
-For the purpose of serving any deportation liability notice, deportation order, or removal order, or executing a deportation order or removal order, an immigration officer may, without further authority than this section, and by force if necessary,—
+(1) For the purpose of serving any deportation liability notice, deportation order, or removal order, or executing a deportation order or removal order, an immigration officer may, without further authority than this section, and by force if necessary,—
   (a) enter and search at any reasonable time by day or night any building or premises in which the officer believes on reasonable grounds that the person named in the notice or order is present; and
   (b) serve the notice or order, or execute the deportation order or removal order.
+(2) However, if an immigration officer intends to enter a dwelling or marae out of hours and search for the person named in the deportation liability notice, deportation order, or removal order and for the purposes set out in subsection (1), they must first obtain a warrant authorising them to do so.
+(3) In this section and in section 293B,—
+  - **dwelling** means any building or part of a building that is used for residential accommodation of any kind, and includes a garage or shed associated with the building or part of the building
+  - **out of hours** means—
+  (a) Monday to Friday between 9 pm and 7 am on the following day:
+  (b) any time on a Saturday or Sunday:
+  (c) any time on a public holiday (as specified in section 44(1) of the Holidays Act 2003).
 
 ### 287 Special biometric information
 For the purposes of sections 288 to 290A, special biometric information means, in relation to any person, any of the following that are or may be required in order to meet the entry or transit requirements of any country to which or through which the person is to travel:
@@ -3785,6 +4028,39 @@ For the purposes of this Act, a constable has all the powers of an immigration o
   (b) the former Act or any regulations made under it; or
   (c) any other enactment, if the offence relates directly to matters concerning immigration.
 (5) The provisions of Part 4 of the Search and Surveillance Act 2012 apply, except that sections 118 and 119 apply only if the warrant is executed (as provided for in section 293 of this Act) by a constable.
+
+### 293B Application for warrant to enter and search relating to deportation
+(1) An immigration officer may apply for a warrant to enter a dwelling or marae and search for a person named in a deportation liability notice, deportation order, or removal order out of hours.
+(2) The application must be made to a District Court Judge in the manner provided for in section 98 of the Search and Surveillance Act 2012.
+(3) The application must, in addition to the particulars set out in section 98(1) of the Search and Surveillance Act 2012,—
+  (a) set out how the proposed entry and search is intended to be carried out; and
+  (b) include an assessment of how the proposed entry and search takes into account the culture of the person named in a deportation liability notice, deportation order, or removal order and anyone else who may be present in the dwelling or marae; and
+  (c) consider the potential impact of the proposed entry and search on anyone else who may be present in the dwelling or marae, including—
+    (i) children; and
+    (ii) elderly persons; and
+    (iii) other vulnerable persons; and
+  (d) demonstrate that reasonable alternatives to the proposed entry and search have been considered; and
+  (e) include an assessment of whether the proposed entry and search is reasonable, proportionate, and in the public interest.
+(4) A District Court Judge may issue a warrant to an immigration officer if the Judge is satisfied that—
+  (a) there are reasonable grounds to believe that the person specified in the application is liable for deportation from New Zealand; and
+  (b) there are reasonable grounds to believe that the person is likely to be at the dwelling or marae specified in the application out of hours; and
+  (c) the application meets the requirements set out in subsection (3); and
+  (d) on the basis of the application, it is appropriate to issue the warrant.
+(5) Section 98 of the Search and Surveillance Act 2012 applies to an application, but with the following modifications:
+  (a) every reference to an issuing officer is to be read as a reference to a District Court Judge; and
+  (b) every reference to the applicant is to be read as a reference to the immigration officer.
+
+### 293C Departmental annual report to record exercise of power to issue warrant to enter and search relating to deportation
+(1) The chief executive must include in every annual report prepared by the chief executive for the purposes of section 43 of the Public Finance Act 1989 the following information in respect of the financial year that is being reported on:
+  (a) the total number of applications made for a warrant under section 293B to enter and search relating to deportation; and
+  (b) the number of those applications that were approved and the reasons why they were approved; and
+  (c) the number of those applications that were declined and the reasons why they were declined; and
+  (d) the number of those applications that identified that children, elderly persons, or other vulnerable persons were likely to be present in the dwelling or marae at the time the entry and search was proposed to be carried out.
+(2) The information included in the annual report in relation to subsection (1)﻿(b) and (c) must also specify, in relation to each application,—
+  (a) the nationality, gender, and age range of the person specified in the application; and
+  (b) the age range of any person who was identified in the application as being likely to be present in the dwelling or marae at the time the entry and search was proposed to be carried out; and
+  (c) the region of New Zealand in which the person specified in the application lives; and
+  (d) the time frame during which the entry and search was proposed to be carried out.
 
 **Disclosure of information to or by other agencies, bodies, or persons**
 
@@ -4409,7 +4685,7 @@ The powers of arrest and detention under this Part may be exercised for the foll
   (d) in the case of a person—
     (i) who is suspected of constituting a threat or risk to security, to detain the person pending the making of a deportation order; or
     (ii) who is subject to a deportation order under section 163, to deport the person by placing him or her on the first available craft leaving New Zealand:
-  (e) in the case of a person who has breached residence and reporting requirements agreed under section 315 or conditions imposed under section 320, to detain the person pending a determination by a District Court Judge under section 317, 318, or 320.
+  (e) in the case of a person who has breached residence and reporting requirements agreed under section 315 or conditions imposed under section 324F, to detain the person pending a determination by a District Court Judge under section 317, 318, or 324F.
 
 ### 311 Implications of liability to arrest and detention
 Where a person is liable to arrest and detention under this Part,—
@@ -4417,7 +4693,7 @@ Where a person is liable to arrest and detention under this Part,—
   (b) the person may be arrested and detained without warrant by a constable in accordance with section 313 for no longer than 96 hours (or, for a member of a mass arrival group, no longer than allowed by section 313(2)﻿(b)﻿(ii)):
   (c) an immigration officer may agree to residence and reporting requirements with the person in accordance with section 315:
   (d) the person may be detained in custody under a warrant of commitment:
-  (e) the person may be released on conditions under section 320.
+  (e) the person may be released on conditions under section 324F.
 
 ### 312 Limited power of detention for up to 4 hours
 A person liable to arrest and detention under this Part may be detained by an immigration officer for a purpose set out in section 310 until the earliest of—
@@ -4463,7 +4739,7 @@ A person liable to arrest and detention under this Part may be detained by an im
   (c) in order to execute a deportation order or place the person on the first available craft leaving New Zealand.
 (7) An agreement under this section lapses and the person ceases to be bound by it when the person leaves New Zealand or otherwise ceases to be liable to arrest and detention under this Part.
 
-**Warrants of commitment**
+**Warrants of commitment and release on conditions**
 
 ### 316 Application for warrant of commitment
 (1) An immigration officer may apply to a District Court Judge for a warrant of commitment (or a further warrant of commitment) authorising a person’s detention for up to 28 days in any case where it becomes apparent, in the case of a person detained in custody under this Part, that before the expiry of the period for which detention is authorised—
@@ -4482,23 +4758,21 @@ A person liable to arrest and detention under this Part may be detained by an im
   (a) must, if satisfied on the balance of probabilities that the person is not the person named in the application for the warrant of commitment, order that the person be released from custody immediately:
   (b) may, in any other case, either—
     (i) issue a warrant of commitment in the prescribed form authorising the person’s detention, in a place named in the warrant, for a period of up to 28 days, if satisfied of the matters in subsections (2) and (3) (and having taken into account the matters in subsections (4) and (5)); or
-    (ii) order the person’s release from custody on conditions under section 320, if the Judge is not satisfied that detention is warranted.
+    (ii) order the person’s release from custody on conditions under section 324F, if the Judge is not satisfied that detention is warranted.
 (2) A Judge may issue a warrant of commitment if satisfied on the balance of probabilities that the person in custody is the person named in the application and that any 1 or more of the following applies:
   (a) a craft is likely to be available, within the proposed period of the warrant of commitment, to take the person from New Zealand:
   (b) the reasons why a craft was not available to take the person from New Zealand are continuing and are likely to continue, but not for an unreasonable period:
   (c) the other reasons the person was not able to leave New Zealand are still in existence and are likely to remain in existence, but not for an unreasonable period:
   (d) the person has not supplied satisfactory evidence of his or her identity.
-(3) If subsection (2) does not apply, the Judge may, nevertheless, make a warrant of commitment if it is, in all the circumstances, in the public interest to do so.
+(3) If subsection (2) does not apply, the Judge may, nevertheless, issue a warrant of commitment if it is, in all the circumstances, in the public interest to do so.
 (4) In determining whether to issue a warrant of commitment, or whether to order the person’s release on conditions, the Judge must have regard to, among other things, the need to seek an outcome that maximises compliance with this Act.
 (5) Unless there are exceptional circumstances, the Judge must not release the person on conditions if—
   (a) the identity of the person is unknown; or
   (b) the person’s identity has not been established to the satisfaction of the court; or
   (c) a direct or indirect reason for the person being unable to leave New Zealand is, or was, some action or inaction by the person occurring after the person was—
     (i) served with a deportation liability notice; or
-    (ii) arrested and detained for the purpose of deportation or turnaround; or
-  (d) the person claimed refugee or protection status only after the person was—
-    (i) served with a deportation liability notice or deportation order or with a removal order under the former Act; or
-    (ii) arrested and detained for the purposes of deportation or turnaround.
+    (ii) arrested and detained for the purpose of deportation or turnaround.
+  (d)
 
 ### 317A Application for mass arrival warrant
 (1) An immigration officer may apply to a District Court Judge for a warrant of commitment authorising the detention, for a period of not more than 6 months, of the members of a mass arrival group (a mass arrival warrant) if—
@@ -4608,7 +4882,7 @@ A person liable to arrest and detention under this Part may be detained by an im
 (2) A District Court Judge must, if satisfied on the balance of probabilities that the person is not the person named in the application for the warrant of commitment, order that the person be released from custody immediately.
 (3) Except where subsection (2) applies, the Judge must—
   (a) issue a warrant of commitment in the prescribed form authorising the person’s detention, in a place named in the warrant, for a period of up to 28 days; or
-  (b) if satisfied that the release of the person would not be contrary to the public interest, order that the person be released on conditions under section 320 pending the person’s deportation from New Zealand.
+  (b) if satisfied that the release of the person would not be contrary to the public interest, order that the person be released on conditions under section 324F pending the person’s deportation from New Zealand.
 
 ### 319 Warrant of commitment
 (1) A warrant of commitment authorises the manager of the prison or the person in charge of the premises identified in the warrant to detain the person to whom the warrant relates until the earliest of the following:
@@ -4620,43 +4894,21 @@ A person liable to arrest and detention under this Part may be detained by an im
 (2) The period for which detention is authorised by a warrant of commitment must be calculated exclusive of any period commencing on the date on which the person to whom the warrant relates escapes from lawful custody and ending 96 hours after the date on which the person is again taken into custody under this Act.
 
 ### 320 Court may instead release person on conditions
-(1) Where a District Court Judge orders a person’s release under section 317(1)﻿(b)﻿(ii), 318(3)﻿(b), 323(3), or 324A(6)﻿(b) on conditions, the conditions imposed on release may be any conditions that the Judge thinks fit to impose in the circumstances, including all or any of the following:
-  (a) a condition that the released person must reside at a specified place:
-  (b) a condition that the released person must report to a specified place at specified periods or times in a specified manner:
-  (c) if the person is a claimant, a condition that the released person must attend any required interview with a refugee and protection officer or hearing with the Tribunal:
-  (d) a condition that the released person provide a guarantor who is responsible for—
-    (i) ensuring compliance with any conditions imposed under this section; and
-    (ii) reporting any failure to comply with those conditions:
-  (e) a condition that the person take a specified action for the purpose of facilitating the person’s deportation or departure from New Zealand.
-(2) Where conditions are imposed on a released person under subsection (1),—
-  (a) the conditions must be notified in writing to the person before his or her release, and take effect on release; and
-  (b) the notice of conditions must include a warning that, if the person fails to comply with any condition, the person may be detained under section 312 or arrested and detained under section 313.
-(3) Conditions imposed under this section may be varied at any time—
-  (a) by a District Court Judge on the application of the person released or an immigration officer under section 324:
-  (b) by consent between the released person and an immigration officer, if—
-    (i) the conditions imposed relate to the matters described in subsection (1)﻿(a) or (b); or
-    (ii) the order imposing the conditions allows the variation.
-(4) A variation of a condition under subsection (3)—
-  (a) takes effect immediately; but
-  (b) must be put in writing, and notified to the released person, as soon as practicable.
-(5) A person may be detained under section 312 or arrested and detained under section 313—
-  (a) if an immigration officer determines that the person, without reasonable excuse, has failed to comply with any conditions imposed under subsection (1) or varied under subsection (3); or
-  (b) if an immigration officer makes an application under section 324(2) for an order that the person be detained under a warrant of commitment; or
-  (c) to execute a deportation order or place the person on the first available craft leaving New Zealand.
-(6) Conditions imposed under this section lapse, and the person ceases to be bound by them, when the person leaves New Zealand or otherwise ceases to be liable to arrest and detention under this Part.
+[Repealed]
 
 ### 321 Special conditions where threat or risk to security
-Where a District Court Judge determines to order the release of a person to whom section 318 applies on conditions in accordance with subsection (3)﻿(b) of that section, the conditions imposed under section 320 may also include 1 or both of the following:
-  (a) a condition that the person not have access to or use specified communication devices or facilities (such as a telephone, the Internet, or email):
-  (b) a condition that the person refrain from associating with any 1 or more named individuals, or individuals associated with 1 or more named organisations.
+(1) This section applies if a District Court Judge determines to order the release of a person to whom section 318 applies on conditions in accordance with section 318(3)﻿(b).
+(2) The conditions on release imposed under section 324F may also include a condition that the person not have access to or use specified communication devices or facilities (such as a telephone, the Internet, or an email service), except for the purposes of seeking and receiving legal or immigration advice (or both).
 
 ### 322 Persons detained under warrant of commitment or released on conditions pending making of deportation order
 (1) This section applies in the case of a person who was arrested and detained on the suspicion of an immigration officer or a constable that the person constitutes a threat or risk to security and who—
   (a) is being detained pursuant to a warrant of commitment; or
-  (b) has been released on conditions under section 320.
+  (b) has been released on conditions under section 324F.
 (2) If the Minister decides not to certify that a person to whom this section applies constitutes a threat or risk to security, or fails to make a certification not later than 14 days after the initial arrest under section 313,—
   (a) the person ceases to be liable to arrest and detention under this Part; and
-  (b) in the case of a person being detained under a warrant of commitment, an immigration officer must notify that fact in writing to the manager or other person in charge of the prison or premises identified in the warrant.
+  (b) an immigration officer must give written notice of that fact,—
+    (i) in the case of a person being detained under a warrant of commitment, to the manager or other person in charge of the prison or premises identified in the warrant; or
+    (ii) in the case of a person released on conditions under section 317(1)﻿(b)﻿(ii), 318(3)﻿(b), 323(3), 324A(6)﻿(b), 324D, 324E, or 324F, to the person.
 
 ### 323 Decisions on warrants of commitment where detention beyond 6 months
 (1) This section applies where a person would, upon a successful application for a further warrant of commitment under section 316, be detained under consecutive warrants of commitment for a continuous period of more than 6 months following—
@@ -4670,7 +4922,7 @@ Where a District Court Judge determines to order the release of a person to whom
 (2) A further warrant of commitment authorising the detention of a person to whom this section applies must be issued if a District Court Judge is satisfied—
   (a) that the person's deportation or departure is prevented by some action or inaction of the person; and
   (b) that no exceptional circumstances exist that would warrant release.
-(3) If the Judge is not so satisfied, the Judge must order the person’s release on conditions under section 320.
+(3) If the Judge is not so satisfied, the Judge must order the person’s release on conditions under section 324F.
 (4) An application for a further warrant of commitment in a case to which this section applies—
   (a) must be supported by evidence under oath by an immigration officer; and
   (b) must include a statement as to why the further warrant is required; and
@@ -4694,14 +4946,14 @@ Where a District Court Judge determines to order the release of a person to whom
   (b) a further warrant of commitment issued under section 317E(1)﻿(a) (in respect of all or specified members of a mass arrival group).
 (1) At any stage during the currency of a warrant of commitment an immigration officer may apply to a District Court Judge for—
   (a) a variation of the warrant of commitment; or
-  (b) an order that the person who is detained under the warrant be released on conditions under section 320; or
+  (b) an order that the person who is detained under the warrant be released on conditions under section 324F; or
   (c) an order that the person be released from custody.
-(2) At any stage when a person is released on conditions under section 320 an immigration officer may apply to a District Court Judge for—
+(2) At any stage when a person is released on conditions under section 324F an immigration officer may apply to a District Court Judge for—
   (a) an order that the person who is released on conditions be detained under a warrant of commitment; or
   (b) a variation of conditions.
 (3) Subject to subsection (5), a person detained under a warrant of commitment may apply to a District Court Judge for—
   (a) a variation of the warrant of commitment; or
-  (b) an order that the person be released on conditions under section 320.
+  (b) an order that the person be released on conditions under section 324F.
 (4) Subject to subsection (5), a person released on conditions may apply to a District Court Judge seeking a variation of those conditions.
 (5) An application under subsection (3) or (4) must be made with the leave of a District Court Judge, which may be granted only if the Judge is satisfied that new information has become available that—
   (a) is material to the person’s ongoing detention or release on conditions; and
@@ -4729,7 +4981,7 @@ Where a District Court Judge determines to order the release of a person to whom
 (5) On an application under subsection (2)﻿(b), a District Court Judge may vary the warrant of commitment, but only to authorise the detention of the persons in a place or places other than the place or places currently specified in the warrant for those persons.
 (6) At any stage during the currency of a warrant of commitment, an immigration officer may, in respect of a particular individual detained under the warrant, apply to a District Court Judge for—
   (a) a warrant of commitment for the individual as an individual; or
-  (b) an order that the individual be released on conditions under section 320; or
+  (b) an order that the individual be released on conditions under section 324F; or
   (c) an order that the individual be released.
 (7) An application for a warrant of commitment under subsection (6)﻿(a) must be made under section 316 and determined by a District Court Judge in accordance with subsection (3) of that section.
 (8) An application for release on conditions under subsection (6)﻿(b) must be considered having regard to section 317, 318, or 323, as appropriate.
@@ -4739,6 +4991,130 @@ Where a District Court Judge determines to order the release of a person to whom
     (ii) must, from the time of the Judge's determination, be dealt with under this Act as any other individual would be; and
   (b) the Judge must consequentially amend the warrant of commitment relating to the mass arrival group to exclude the member from the warrant.
 (10) Subsection (9)﻿(a) is for the avoidance of doubt.
+
+### 324B Application for release on conditions (non-claimant)
+(1) This section applies to a person who a District Court Judge is satisfied is not a claimant if,—
+  (a) in respect of a person detained in custody under this Part, it becomes apparent that, before the expiry of the period for which detention is authorised,—
+    (i) there will not be, or there is unlikely to be, a craft available to take the person from New Zealand; or
+    (ii) the person will not, or is unlikely to, supply satisfactory evidence of their identity; or
+    (iii) the Minister has not made, or is not likely to make, a decision as to whether to certify that the person constitutes a threat or risk to security; or
+    (iv) for any other reason, the person is unable to leave New Zealand; or
+  (b) in respect of a person who is liable to arrest and detention (but is not detained in custody) under this Part, it becomes apparent that—
+    (i) there will not be, or there is unlikely to be, a craft available to take the person from New Zealand; or
+    (ii) the person has not supplied satisfactory evidence of their identity; or
+    (iii) the Minister has not decided whether to certify that the person constitutes a threat or risk to security; or
+    (iv) for any other reason, the person is unable to leave New Zealand.
+(2) An immigration officer may apply to a District Court Judge for an order releasing the person on conditions.
+(3) The application—
+  (a) must be made on oath; and
+  (b) must include a statement of the reasons why the person should be released on conditions; and
+  (c) may include any other supporting evidence.
+(4) The Judge must determine the application under section 324D.
+
+### 324C Application for release on conditions (claimant)
+(1) This section applies to a person who a District Court Judge is satisfied is a claimant if,—
+  (a) in respect of a person detained in custody under this Part, it becomes apparent that, before the expiry of the period for which detention is authorised,—
+    (i) there will not be, or there is unlikely to be, a craft available to take the person from New Zealand; or
+    (ii) the Minister has not made, or is not likely to make, a decision as to whether to certify that the person constitutes a threat or risk to security; or
+    (iii) for any other reason, the person is unable to leave New Zealand; or
+  (b) in respect of a person who is liable to arrest and detention (but is not detained in custody) under this Part, it becomes apparent that—
+    (i) there will not be, or there is unlikely to be, a craft available to take the person from New Zealand; or
+    (ii) the Minister has not decided whether to certify that the person constitutes a threat or risk to security; or
+    (iii) for any other reason, the person is unable to leave New Zealand.
+(2) An immigration officer may apply to a District Court Judge for an order releasing the person on conditions.
+(3) The application—
+  (a) must be made on oath; and
+  (b) must include a statement—
+    (i) of the reasons why the person should be released on conditions; and
+    (ii) that explains the threat or risk to security that the person poses; and
+    (iii) that explains how releasing the person on conditions is reasonable in all the circumstances, proportionate, and the least restrictive measure necessary to manage the threat or risk to security; and
+  (c) may include any other supporting evidence.
+(4) The Judge must determine the application under section 324E.
+
+### 324D Decision on application for release on conditions (non-claimant)
+(1) On an application under section 324B, a District Court Judge may—
+  (a) order the person’s release on conditions; or
+  (b) issue a warrant of commitment in the prescribed form authorising the person’s detention, in a place named in the warrant, for a period of up to 28 days.
+(2) A Judge may release the person on conditions if satisfied on the balance of probabilities that the person in custody is the person named in the application and that any 1 or more of the following apply:
+  (a) a craft is likely to be available, within the proposed period of the release on conditions, to take the person from New Zealand:
+  (b) the reasons why a craft was not available to take the person from New Zealand continue to exist and are likely to continue to exist, but not for an unreasonable period:
+  (c) the other reasons the person was not able to leave New Zealand continue to exist and are likely to continue to exist, but not for an unreasonable period:
+  (d) the person has not supplied satisfactory evidence of their identity.
+(3) If subsection (2) does not apply, the Judge may still order the person’s release on conditions if the Judge is satisfied that, in all the circumstances, it is in the public interest to do so.
+(4) In determining under this section whether to order the person’s release on conditions, or whether to issue a warrant of commitment, the Judge must have regard to, among other things, the need to seek an outcome that maximises compliance with this Act.
+
+### 324E Decision on application for release on conditions (claimant)
+(1) This section applies to a person who a District Court Judge is satisfied is a claimant.
+(2) On an application under section 324C, a District Court Judge may—
+  (a) order the person’s release on conditions; or
+  (b) issue a warrant of commitment in the prescribed form authorising the person’s detention, in a place named in the warrant, for a period of up to 28 days.
+(3) A Judge may release the person on conditions if satisfied on the balance of probabilities that the person in custody is the person named in the application and that any 1 or more of the following apply:
+  (a) a craft is likely to be available, within the proposed period of the release on conditions, to take the person from New Zealand:
+  (b) the reasons why a craft was not available to take the person from New Zealand continue to exist and are likely to continue to exist, but not for an unreasonable period:
+  (c) the other reasons the person was not able to leave New Zealand continue to exist and are likely to continue to exist, but not for an unreasonable period.
+(4) If subsection (3) does not apply, the Judge may still order the person’s release on conditions if the Judge is satisfied that, in all the circumstances, it is in the public interest to do so.
+(5) In determining under this section whether to order the person’s release on conditions, or whether to issue a warrant of commitment, the Judge must be satisfied that,—
+  (a) on the basis of the application under section 324C and the information contained in it, the person poses a clearly articulated threat or risk; and
+  (b) the conditions are reasonable in all the circumstances, proportionate, and the least restrictive measure necessary to manage that threat or risk.
+(6) A District Court Judge—
+  (a) may consider a person’s irregular entry into New Zealand when assessing whether the person poses a clearly articulated threat or risk; but
+  (b) may not be satisfied that the person poses a clearly articulated threat or risk solely on the ground that the person entered New Zealand irregularly.
+
+### 324F Release on conditions
+(1) This section applies if a District Court Judge orders a person’s release under section 317(1)﻿(b)﻿(ii), 318(3)﻿(b), 323(3), 324A(6)﻿(b), 324D, or 324E on conditions.
+(2) The Judge must impose the following conditions:
+  (a) a condition that the released person report to a specified place for specified periods or at specified times in a specified manner:
+  (b) if the person is a claimant, a condition that the released person attend any—
+    (i) interview that a refugee and protection officer may require under section 149(1)﻿(f); or
+    (ii) hearing with the Tribunal.
+(3) In addition to the conditions in subsection (2), the Judge may impose any other condition that the Judge thinks fit to impose in the circumstances, including, without limitation, the following conditions:
+  (a) a condition that the released person remain in specified places or areas at specified times or at all times:
+  (b) a condition that the released person not enter or remain in specified places or areas at specified times or at all times:
+  (c) a condition that an immigration officer may, if satisfied that the request is reasonable in all the circumstances, agree to a request from the released person that the released person be temporarily excused from compliance with a condition or conditions imposed on the released person under subsection (3)﻿(a) or (b), for example, including, but not limited to, a request from the released person to attend a medical appointment or a job interview (if the released person is entitled to work in New Zealand):
+  (d) a condition that the released person provide a guarantor who is responsible for—
+    (i) ensuring compliance with any conditions imposed under this section; and
+    (ii) reporting any failure to comply with those conditions:
+  (e) a condition that the released person refrain from associating with any 1 or more named individuals, or individuals associated with 1 or more named organisations:
+  (f) a condition that the released person take a specified action for the purpose of facilitating the person’s deportation or departure from New Zealand:
+  (g) any other condition relevant to the management of any threat or risk relating to the released person (including any threat or risk that the person may harm themselves or another person or may abscond).
+(4) The Judge may impose a condition under subsection (3) if satisfied that,—
+  (a) when considered alongside any other conditions that are being imposed, the condition is the least restrictive measure necessary to manage the threat or risk; and
+  (b) when considered individually, the condition is the least restrictive measure necessary to manage the threat or risk.
+(5) The purpose of a condition imposed under subsection (3)﻿(a) or (b) is to limit the released person’s ability to leave or enter the specified places or areas—
+  (a) because there is a threat or risk that the individual may abscond; and
+  (b) in order to be able to place the person on the first available craft leaving New Zealand.
+(6) If the Judge imposes a condition under subsection (2) or (3), they must specify an initial term, not exceeding 3 months, for which the condition applies (an initial term).
+(7) An immigration officer may apply to the Judge for an extension of—
+  (a) the initial term for a further term not exceeding 3 months (an extended term):
+  (b) any extended term or terms for, in each case, a further term not exceeding 3 months.
+(8) An application for an extension under subsection (7) must be made in the manner provided for in section 324B or 324C (as applicable).
+(9) The Judge may grant an extension if satisfied that the criteria for release on conditions under section 324D or 324E (as applicable) still apply to that person.
+(10) When conditions are imposed on a released person under this section,—
+  (a) the conditions must be notified in writing to the person before their release, and apply from the time the person is released; and
+  (b) the notice of conditions must include a warning that the conditions apply from the time of the person’s release and that, if the person fails to comply with any condition, the person may be detained under section 312 or arrested and detained under section 313.
+(11) The released person does not need to obtain agreement from an immigration officer under subsection (3)﻿(c) to seek urgent medical or dental treatment or to take action to avoid or minimise a serious risk of death or injury to the released person or any other person even if doing that thing will mean that they will, or are likely to, breach a condition or conditions imposed on the released person under subsection (3)﻿(a) or (b).
+
+### 324G Variation of conditions imposed under section 324F
+(1) Conditions imposed under section 324F may be varied at any time—
+  (a) by a District Court Judge on the application of the person released or an immigration officer under section 324B or 324D (as applicable); or
+  (b) by consent between the released person and an immigration officer if the order imposing the conditions allows the variation.
+(2) A variation of a condition under subsection (1)—
+  (a) takes effect immediately; but
+  (b) must be in writing, and notified to the released person, as soon as practicable.
+
+### 324H Circumstances in which person released on conditions may later be detained
+A person may be detained under section 312 or arrested and detained under section 313—
+  (a) if an immigration officer determines that the person, without reasonable excuse, has failed to comply with any conditions imposed under section 324F or varied under section 324G; or
+  (b) if an immigration officer makes an application under section 324(2)﻿(a) for an order that the person be detained under a warrant of commitment; or
+  (c) in order to execute a deportation order or place the person on the first available craft leaving New Zealand.
+
+### 324I Lapse of conditions of release
+Conditions imposed under section 324F or varied under section 324G lapse, and the person subject to the conditions ceases to be bound by them,—
+  (a) if the person—
+    (i) is detained under section 313 or under a warrant of commitment under section 317; or
+    (ii) leaves New Zealand; or
+    (iii) otherwise ceases to be liable to arrest and detention under this Part:
+  (b) on the final expiry of any term for which the condition applies.
 
 **Applications under this Part involving classified information**
 
@@ -4756,7 +5132,7 @@ Where a District Court Judge determines to order the release of a person to whom
 ### 326 Process for High Court to consider application
 (1) Where an application is transferred or made directly to the High Court under section 325, sections 252, 257 to 259, and 261 to 270 apply, with the necessary modifications.
 (2) In determining the application,—
-  (a) sections 317, 318, 320, 321, 323, and 324 apply as appropriate, with the necessary modifications; and
+  (a) sections 317, 318, 324F, 321, 323, and 324 apply as appropriate, with the necessary modifications; and
   (b) it is not the role of the nominated Judge to determine the matters described in section 243(1); and
   (c) the classified information must be treated as accurate.
 
@@ -4862,7 +5238,7 @@ Every person who is to be detained in custody under a warrant of commitment must
   (b) for any other reason it is not practicable in all the circumstances for the person to leave New Zealand at the expected time.
 (2) When this section applies,—
   (a) a person who was released from custody pursuant to a warrant of commitment must be returned to the custody of the person to whom the warrant of commitment was addressed, and for that purpose the warrant remains in full force and effect:
-  (b) a person who has been subject to residence and reporting conditions under section 315, or released on conditions under section 320, may once again be released on those conditions:
+  (b) a person who has been subject to residence and reporting conditions under section 315, or released on conditions under section 324F, may once again be released on those conditions:
   (c) in any other case, an application may be made under section 316 for a warrant of commitment authorising the further detention of the person.
 
 **Special provision where epidemic management notice in force**
@@ -4883,8 +5259,8 @@ Every person who is to be detained in custody under a warrant of commitment must
 (2A) In subsection (1), warrant of commitment does not include a mass arrival warrant issued under section 317B (in respect of all or specified members of a mass arrival group) for a period of more than 28 days.
 (3) If the notice applies to only stated parts of New Zealand, subsections (1) and (2) apply within those parts only.
 
-### 340 Application of section 320 during epidemic
-(1) While an epidemic management notice is in force, an immigration officer and a released person may agree in writing to vary a condition imposed under section 320—
+### 340 Application of section 324F during epidemic
+(1) While an epidemic management notice is in force, an immigration officer and a released person may agree in writing to vary a condition imposed under section 324F—
   (a) whether or not the order containing it provides for them to do so; and
   (b) whether or not they have the consent of a District Court Judge.
 (2) If the notice applies to only stated parts of New Zealand, subsection (1) applies within those parts only.
@@ -5053,6 +5429,37 @@ Every person commits an offence against this Act who, not being an immigration o
     (a) the employer knows, under this Act, the person is not entitled to undertake; or
     (b) the person is, under this Act, not entitled to undertake and in respect of which the employer is reckless as to whether or not the person is entitled to undertake the work.
 
+### 351A Exploitation of victims by charging premium for employment
+(1) Every employment-related person commits an offence against this Act who, whether in or outside New Zealand, knowingly seeks or receives any premium in respect of the employment or potential employment in New Zealand of a victim.
+(2) Subsection (1) applies—
+  (a) before and after the victim commences work in New Zealand; and
+  (b) whether or not the victim commences work in New Zealand.
+(3) Subsection (1) does not apply to conduct that is an offence under section 351(1)﻿(a)﻿(iii).
+(4) In this section, a person is a victim if they are domiciled in New Zealand or are overseas-based, and are one of the following:
+  (a) an unlawful worker:
+  (b) a temporary entry class visa holder:
+  (c) a potential temporary entry class visa holder:
+  (d) a potential residence class visa holder.
+(5) In this section,—
+  - **employment-related person** means—
+    (a) a New Zealand-based employer or potential employer of a victim:
+    (b) a New Zealand-based agent of an employer or potential employer of a victim:
+    (c) a New Zealand-based person involved in the recruitment of a victim for employment or potential employment in New Zealand:
+    (d) a New Zealand-based person who has dealt with a victim in the context of the victim’s employment or potential employment in New Zealand
+  - **New Zealand-based** means a person who is—
+    (a) a New Zealand citizen; or
+    (b) domiciled in New Zealand (whether or not they hold a visa)
+  - **overseas-based** means a person who is not New Zealand-based
+  - **potential residence class visa holder** means a person who—
+    (a) seeks to hold a residence class visa; and
+    (b) seeks to obtain employment in New Zealand; and
+    (c) is required to be employed in New Zealand in order to be granted a residence class visa in accordance with immigration instructions certified under section 22
+  - **potential temporary entry class visa holder** means a person who seeks—
+    (a) to hold a temporary entry class visa; and
+    (b) to obtain employment in New Zealand
+  - **temporary entry class visa holder** means a person who holds a temporary entry class visa
+  - **unlawful worker** means a person who undertakes, or seeks to undertake, work that the person is not entitled, under this Act, to undertake.
+
 ### 352 Offences by education providers
 (1) Every education provider commits an offence against this Act who—
   (a) allows or continues to allow any other person to undertake a course of study knowing that the person is not entitled under this Act to undertake the course; or
@@ -5087,7 +5494,7 @@ Every person commits an offence who, without reasonable excuse,—
 **Penalties**
 
 ### 355 Penalties: general
-(1) A person convicted of an offence against section 342(1)﻿(b), 343(1)﻿(a), 345, or 348 is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both.
+(1) A person convicted of an offence against section 342(1)﻿(b), 343(1)﻿(a), 345, 348, or 351A is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both.
 (2) A person convicted of an offence against section 343(1)﻿(b) or (c)﻿(i) is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both, for each person in respect of whom the offence was committed.
 (3) A person convicted of an offence against section 342(1)﻿(c), 343(1)﻿(d), 344(c) or (d), or 354 is liable to imprisonment for a term not exceeding 3 months, a fine not exceeding $10,000, or both.
 (4) A person convicted of an offence against section 346 is liable to imprisonment for a term not exceeding 12 months, a fine not exceeding $15,000, or both.
@@ -5327,7 +5734,7 @@ For the purposes of section 370(3), or any other proceedings under this Act, it 
 (1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the earlier of—
   (a) the date when the incident, situation, or set of circumstances to which the offence relates first became known to an immigration officer; or
   (b) the date when the incident, situation, or set of circumstances to which the offence relates should reasonably have become known to an immigration officer.
-(2) Subsection (1) does not apply to the offences set out in sections 342(1)﻿(b), 343(1)﻿(a), (b), or (c)﻿(i), 345, 348, and 351.
+(2) Subsection (1) does not apply to the offences set out in sections 342(1)﻿(b), 343(1)﻿(a), (b), or (c)﻿(i), 345, 348, 351, and 351A.
 
 ## Part 11 — Miscellaneous provisions
 
@@ -5409,15 +5816,16 @@ In any proceedings or process of a kind referred to in section 375(2) in relatio
   (a) any person, visa, or document; or
   (b) any 2 or more persons, visas, or documents where by reason of any specific event, occurrence, or unusual circumstances there is a common link between those persons, visas, or documents.
 (2) The Minister may give in writing a special direction—
-  (aaa)
-  (aab)
-  (aac)
-  (aad)
+  (aaa) varying or cancelling conditions of resident visas in relation to any class of persons, in accordance with section 50(4A):
+  (aab) imposing, varying, or cancelling conditions of temporary entry class visas in relation to any class of persons, in accordance with section 52(4A) or 53(4A):
+  (aac) waiving 1 or more prescribed requirements for applying for a visa in relation to any class of persons, in accordance with section 57(3):
+  (aad) granting, at any time and of the Minister’s own volition, visas of any type to any class of persons, in accordance with section 61B(1):
   (a) waiving the requirement to hold a visa permitting travel to New Zealand in relation to any class of persons, in accordance with section 69(2)﻿(a):
   (b) suspending, under section 69(2)﻿(b), a visa waiver made in accordance with section 69(1):
   (ba)
   (c) classifying persons to whom a transit visa waiver applies, in accordance with section 86(4)﻿(a):
-  (d) suspending, under section 86(4)﻿(b), a transit visa waiver made in accordance with section 86(2)﻿(a).
+  (d) suspending, under section 86(4)﻿(b), a transit visa waiver made in accordance with section 86(2)﻿(a):
+  (e) extending temporary entry class visas and transit visas in relation to any class of persons, in accordance with section 91A(1).
 (2A)
 (3) A special direction comes into force on the day on which it is made, or any later date specified in the direction.
 (4) Where a special direction is given orally, the chief executive or immigration officer must as soon as possible make a written record of the content and date of the direction.
@@ -5439,7 +5847,13 @@ Any decision made, or discretion exercised, under this Act by an immigration off
   (a) this power of delegation; and
   (b) the power to certify immigration instructions under section 22; and
   (c) the powers referred to in section 33(1) and (2) (which relate to the use of classified information); and
-  (ca)
+  (ca) the power to make a special direction under—
+    (i) section 50(4A) (in relation to conditions on resident visas):
+    (ii) section 52 (in relation to conditions on temporary entry class visas (other than those subject to restricted temporary entry instructions)):
+    (iii) section 53(4A) (in relation to conditions on temporary entry class visas subject to restricted temporary entry instructions):
+    (iv) section 57 (in relation to applications for visas):
+    (v) section 61B (in relation to grant of visas):
+    (vi) section 91A (in relation to extension of temporary entry class visas and transit visas); and
   (cb)
   (cc)
   (cd)
@@ -5759,7 +6173,11 @@ Sections 386A to 387A are default rules that apply subject to any other provisio
 (8) Nothing in this section or in section 55, 118, or 355 authorises the Crown to recover any particular cost more than once.
 
 ### 399 Immigration levy
-(1) Any regulations made under section 400 may provide for the imposition and collection of an immigration levy on applicants for a visa.
+(1) Regulations made under section 400 may provide for the imposition and collection of an immigration levy on the following persons:
+  (a) applicants for a visa:
+  (b) employers who hold, or have applied for, permission to employ migrants who are (or who, on grant of the employer’s application, could be) temporary entry class work visa holders:
+  (c) education providers that are signatory providers (within the meaning of section 10 of the Education and Training Act 2020) that provide education to international fee-paying students:
+  (d) any persons by whom a fee or charge is payable under regulations made under sections 393 and 400 of this Act.
 (2) The purpose of the levy is to fund, or contribute to the funding of,—
   (a) the provision of programmes intended to assist the successful settlement of migrants or categories of migrants; and
   (b) the carrying out of research into settlement issues and the impacts of immigration; and
@@ -5776,6 +6194,9 @@ Sections 386A to 387A are default rules that apply subject to any other provisio
   (c) prescribe different amounts or methods of calculation of the levy in respect of different categories or classes of applicants:
   (d) provide for exemptions from or refunds of the levy, in whole or in part, in any class of case:
   (e) provide for the manner of collection of the levy, including provision for the relevant amount of levy to be deposited with the chief executive.
+(3AA) The Minister must not recommend that regulations be made for the imposition and collection of a levy referred to in subsection (1) unless the Minister—
+  (a) has had regard to the effect that the obligation to pay the levy is likely to have on levy payers; and
+  (b) is satisfied that there is a direct or indirect justifiable relationship between the benefit, cost, or risk that the persons required to pay the levy derive from, or introduce into, the immigration system and the purposes for which the levy is to be used.
 (3A) The Minister may, by special direction,—
   (a) exempt any person or persons from the obligation to pay all or part of the levy; or
   (b) refund all or part of a levy paid.
@@ -5793,6 +6214,42 @@ Sections 386A to 387A are default rules that apply subject to any other provisio
 (8) On and after the commencement date,—
   (a) a relevant person is not liable to pay, in respect of an application for a visa made before the commencement date, the immigration levy imposed by regulations that apply after the commencement date; but
   (b) if the relevant person is granted a visa on the basis of that application, he or she is liable to pay the migrant levy that would have been payable if section 102 of the Immigration Amendment Act 2015 had not come into force.
+
+### 399AA Immigration levy: consultation and review
+(1) Before recommending the making of regulations for the purposes of section 399(1), the Minister must consult any persons and organisations the Minister considers appropriate, taking into account the requirements in section 399(3AA).
+(2) At intervals of no more than 5 years following the commencement of this section, the Department must review the amount and method of calculation of any immigration levy.
+
+### 399AB Extended immigration levy
+(1) Regulations made under section 400 may provide for the imposition and collection of an extended immigration levy on the following persons:
+  (a) applicants for residence-class, student, or work visas, or their sponsors:
+  (b) employers of migrants where the migrant holds, or could hold, a temporary entry class work visa on the basis of their employment.
+(2) The purpose of the extended immigration levy is to—
+  (a) fund or contribute to the funding of costs arising from immigration that relate to either the infrastructure required for, or the operation of, the public health and education systems, including,—
+    (i) in the case of applicants for residence-class, student, or work visas, contribution to costs incurred in the education system that can be linked to demand arising from immigration and that relate to funding specialist teachers, school property, teacher training, or learning support; and
+    (ii) in the case of applicants for parent visas or their sponsors, contribution to costs incurred in the health system that can be linked to demand arising from immigration; and
+  (b) require employers of migrants referred to in subsection (1)﻿(b) to contribute to the cost of skills training in New Zealand to recognise the training costs avoided and therefore the benefits received by employers through recruiting people from outside New Zealand who are already skilled.
+(3) An extended immigration levy is payable by the person on whom it is imposed at the time prescribed for payment whether that time is before, during, or after completion of the immigration process to which that levy relates.
+(4) The Minister must not recommend the making of regulations for the purposes of this section unless the Minister has had regard to the effect that the obligation to pay the levy is likely to have on levy payers and,—
+  (a) in the case of the persons referred to in subsection (1)﻿(a), the Minister is satisfied that there is a direct or indirect justifiable relationship between the class or classes of levy payers and the benefits that the class or classes derive or will derive from the infrastructure or services; and
+  (b) in the case of the employers referred to in subsection (1)﻿(b), the Minister is satisfied that there is a direct or indirect justifiable relationship between the class or classes of levy payers and the training costs avoided by those levy payers.
+(5) Regulations made for the purposes of this section may—
+  (a) specify the classes of persons who are liable to pay the extended immigration levy:
+  (b) prescribe the amount or method of calculation of the levy:
+  (c) prescribe different amounts or methods of calculation of the levy in respect of different classes of persons:
+  (d) provide for exemptions from or refunds of the levy, in whole or in part, in any class or case:
+  (e) provide for the manner of collection of the levy, including provision for the relevant amount of levy to be deposited with the chief executive.
+(6) The Minister may, by special direction,—
+  (a) exempt any person or class of persons from the obligation to pay all or part of the levy; or
+  (b) refund all or part of a levy paid.
+(7) All levy money collected under this section must be paid into a Crown Bank Account.
+(8) Not later than 1 October in each year, the chief executive must provide to the Minister a report setting out, in respect of the financial year ending on the preceding 30 June,—
+  (a) the amount collected through the extended immigration levy; and
+  (b) how the amount of the extended immigration levy was applied.
+(9) The Minister must present the report to the House of Representatives not later than 15 sitting days after its receipt.
+
+### 399AC Extended immigration levy: consultation and review
+(1) Before recommending the making of regulations for the purposes of section 399AB, the Minister must consult any persons and organisations the Minister considers appropriate, taking into account the requirements in section 399AB(4).
+(2) At intervals of no more than 5 years following the commencement of this section, the Department must review the amount and method of calculation of any extended immigration levy.
 
 ### 399A International visitor conservation and tourism levy
 (1) Regulations made under section 400 may provide for the imposition and collection of an international visitor conservation and tourism levy on—
@@ -6519,6 +6976,16 @@ Nothing in regulations made under section 400 for the purpose in section 401A(1)
 
 ### 5 Power to access employment documents
 The power in section 275A to require a document applies on and from the commencement of that section, even if the document was created before that commencement.
+
+### Part 4 — Provision relating to Immigration (Fiscal Sustainability and System Integrity) Amendment Act 2025
+
+### 6 Persons released on conditions before commencement date
+(1) This clause applies to any person who before the commencement date had been released under section 317(1)﻿(b)﻿(ii), 318(3)﻿(b), 323(3), or 324A(6)﻿(b) subject to conditions under section 320 (as it was before the commencement date).
+(2) Subject to subclause (3), the conditions of release that applied to the person immediately before the commencement date are not affected by the amendments made to this Act by the amendment Act.
+(3) Any variation of the conditions must be made under this Act as amended by the amendment Act.
+(4) In this clause,—
+  - **amendment Act** means the Immigration (Fiscal Sustainability and System Integrity) Amendment Act 2025
+  - **commencement date** means the day after Royal assent.
 
 ## Schedule 1 — Convention Relating to the Status of Refugees
 
