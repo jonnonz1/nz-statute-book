@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2024-11-21_
+_Consolidation as at 2025-11-28_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -1220,7 +1220,9 @@ The Commissioner may examine a claim or part of a claim by a provider of legal a
 (2) A body may, for the purposes of this Act, be a community law centre even if it performs functions in addition to those described in subsection (1).
 
 ### 94 Secretary may enter into contracts with community law centres
-(1) The Secretary may enter into a contract with 1 or more community law centres to purchase community legal services as the Secretary determines appropriate.
+(1) The Secretary may, as they determine appropriate, enter into a contract with 1 or more community law centres to—
+  (a) purchase community legal services:
+  (b) fund, facilitate, and otherwise support the provision of community legal services.
 (2) The money provided by the Secretary to a community law centre under a contract under this section must come from either or both—
   (a) the Special Fund; or
   (b) any other money.
