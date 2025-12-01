@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2025-03-20_
+_Consolidation as at 2025-12-01_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -56,11 +56,13 @@ _Consolidation as at 2025-03-20_
     (j) lawns, gardens, and outhouses
   - **fixed-term tenancy** means a tenancy for a fixed term; but, except as provided in section 50(1)﻿(a) to (ac), does not include such a tenancy that is terminable by notice
   - **the Fund** means the Residential Tenancies Fund established by section 127
+  - **general bond** means a bond referred to in section 18
   - **goods** means goods, baggage, and chattels of any description; and includes animals and plants; and also includes money, documents, and all other things of value
   - **guarantor** , in relation to a tenancy, means a person who guarantees the performance of the tenant’s obligations, or who indemnifies the landlord against loss that he or she may incur in respect of the tenancy, or who assumes liability for the performance of the obligations of the tenant, and has a corresponding meaning
   - **healthy homes standards** means the standards provided for in regulations under section 138B(1)
   - **infringement fee** has the meaning given to it by section 126A
   - **infringement offence** has the meaning given to it by section 126A
+  - **keeps a pet** has the meaning set out in subsection (4)
   - **key money** means any sum of money demanded by way of fine, premium, foregift, reimbursement of expenses, administration charges, or otherwise as consideration for the grant, continuance, extension, variation, or renewal of a tenancy agreement, or for consent to the surrender or disposition of the tenant's interest under a tenancy agreement or to a subletting by the tenant; but does not include any sum payable or paid by way of rent or bond
   - **landlord** , in relation to any residential premises that are the subject of a tenancy agreement, means the grantor of a tenancy of the premises under the agreement; and, where appropriate, includes—
     (a) a prospective landlord; and
@@ -74,7 +76,7 @@ _Consolidation as at 2025-03-20_
       (i) the grant, continuance, extension, variation, or renewal of any tenancy agreement; or
       (ii) the assignment of a tenant’s interest under any tenancy agreement; or
       (iii) the subletting of the whole or any part of the premises by a tenant; but
-    (b) does not include any expenses recoverable under section 44(5)
+    (b) does not include any expenses recoverable under section 44A
   - **member of the landlord’s or owner’s family** , in relation to a landlord or an owner, means—
     (a) any person who is or has been related to the landlord or owner—
       (i) by blood; or
@@ -91,6 +93,8 @@ _Consolidation as at 2025-03-20_
   - **officer of the Tribunal** means an officer of the department or the Ministry of Justice who is for the time being acting in the service of the Tribunal; and includes a Tenancy Mediator
   - **order** , in relation to the Tribunal, means any order, decision, determination, consent, approval, or ruling given or made by the Tribunal; and includes an order by the Tribunal dismissing an application
   - **periodic tenancy** means a residential tenancy other than a fixed-term tenancy
+  - **pet** does not include a disability assist dog (within the meaning of section 2 of the Dog Control Act 1996)
+  - **pet bond** means a bond referred to in section 18AA
   - **possession order** means an order made by the Tribunal under section 64, 65, or 66Y granting possession of any premises to any person named in the order
   - **premises** includes (other than in relation to a boarding house tenancy, in which case the definition in section 66B applies)—
     (a) any part of any premises; and
@@ -148,8 +152,9 @@ _Consolidation as at 2025-03-20_
     (v) if a third person owns or controls shares in each of them that carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of each of them.
 (2B) For the purposes of any provision of this Act that applies to landlords that have 6 or more tenancies, a person who is a landlord (A) of 1 or more tenancies must also be treated as if they were the landlord of any tenancy for which an associated person of A is a landlord.
 (2C) For the purposes of determining, under subsection (2B), how many tenancies a landlord has or how many tenancies an associated person of the landlord has, any tenancies related to a residential premises described in subsection (2D) must be treated as if they were 1 tenancy.
-(2D) Subsection (2C) applies to a residential premises that would be a boarding house (within the meaning of section 66B) except that the premises are occupied, or intended to be occupied, by fewer than 6 tenants at any one time.ExampleA, a landlord, has 4 tenancies. Two of the tenancies relate to a house in which the tenants have exclusive rights to occupy their respective sleeping quarters while sharing some facilities (that is, the premises would be a boarding house except that the premises are not occupied, or intended by the landlord to be occupied, by at least 6 tenants). Under subsection (2C), those 2 tenancies must be treated as 1 tenancy. As a result, A is treated as having 3 tenancies.A’s spouse, B, is also a landlord and has 4 tenancies. Under subsection (2B), because B is an associated person of A, A must be treated as if A were also the landlord of B’s 4 tenancies. As a consequence, A is treated as having 7 tenancies for the purposes of any provision of this Act that applies to landlords that have 6 or more tenancies. If A commits an infringement offence in relation to one of A’s tenancies, A is liable to the fine or the infringement fee that applies to landlords who have 6 or more tenancies.
+(2D) Subsection (2C) applies to a residential premises that would be a boarding house (within the meaning of section 66B) except that the premises are occupied, or intended to be occupied, by fewer than 6 tenants at any one time.ExampleA, a landlord, has 4 tenancies. Two of the tenancies relate to a house in which the tenants have exclusive rights to occupy their respective sleeping quarters while sharing some facilities (that is, the premises would be a boarding house except that the premises are not occupied, or intended by the landlord to be occupied, by at least 6 tenants). Under subsection (2C), those 2 tenancies must be treated as 1 tenancy. As a result, A is treated as having 3 tenancies.A’s spouse, B, is also a landlord and has 4 tenancies. Under subsection (2B), because B is an associated person of A, A must be treated as if A were also the landlord of B’s 4 tenancies.As a consequence, A is treated as having 7 tenancies for the purposes of any provision of this Act that applies to landlords that have 6 or more tenancies.If A commits an infringement offence in relation to one of A’s tenancies, A is liable to the fine or the infringement fee that applies to landlords who have 6 or more tenancies.
 (3) For the purposes of this Act, where any premises that are subject to a legal or an equitable lease are used for both commercial and residential purposes, the premises shall be deemed to be residential premises unless it is proved that the premises were let principally for purposes other than residential purposes.
+(4) For the purposes of this Act, the tenant of a premises keeps a pet on the premises if the tenant permits the pet to be kept there even if the tenant is not the owner of the pet.
 
 ### 2A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
@@ -328,7 +333,7 @@ Where, in any proceedings before the Tribunal, any party contends that this Act 
   (f) the landlord's address for service; and
   (g) the tenant's address for service; and
   (h) whether the tenant is under the age of 18; and
-  (i) the amount of any bond; and
+  (i) the amount of any general bond and the amount of any pet bond; and
   (j) the rent payable; and
   (k) the frequency of the rent payments; and
   (l) the place or bank account number where the rent is to be paid; and
@@ -461,13 +466,25 @@ Sections 13 to 13B (and, in the case of a boarding house tenancy, section 66C) d
 (3) Any requirement to pay a letting fee in contravention of subsection (1) is an unlawful act.
 (4) A landlord who contravenes subsection (1) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 
-### 18 Bonds to be no more than 4 weeks' rent
-(1) A landlord shall not require payment by way of bond of an amount greater than 4 weeks' rent lawfully payable under the tenancy agreement.
-(2) On the lawful increase of the rent, the landlord may require payment by way of bond of a further sum not exceeding the amount by which the rent payable for 4 weeks has been increased.
-(3) On the decrease of the rent, the amount by which the total sum already paid by way of bond exceeds the rent payable for 4 weeks following the decrease shall, on application to the chief executive by the person who paid the bond, be refunded to the tenant.
-(4) A landlord who contravenes this section—
+### 18 General bonds
+(1) A landlord may require payment of a bond (a general bond) of no more than 4 weeks’ rent lawfully payable under the tenancy agreement relating to all of the tenant’s obligations.
+(2) If the landlord lawfully increases the amount of the rent, the landlord may require payment of a further sum of general bond not exceeding the amount by which the rent payable for 4 weeks has been increased.
+(3) If the landlord decreases the amount of the rent, the chief executive must, on application by the person who paid the general bond, refund the tenant the amount by which the total sum of general bond already paid exceeds the rent payable for 4 weeks following the decrease.
+(4) A landlord who requires payment of a general bond that is greater than the amount referred to in subsection (1)—
   (a) commits an unlawful act; and
   (b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
+
+### 18AA Pet bonds
+(1) A landlord may require payment of a bond (a pet bond) of no more than 2 weeks’ rent lawfully payable under the tenancy agreement relating to the tenant’s obligations in relation to a pet if—
+  (a) the tenant is keeping, or intends to keep, a pet on the premises; and
+  (b) the landlord has agreed the pet may be kept on the premises.
+(2) A landlord must not require payment of more than 1 pet bond at any one time during a tenancy.ExamplesExample 1A tenant has their landlord’s consent to keep 3 pets. The landlord may require payment of 1 pet bond of no more than 2 weeks’ rent.Example 2A pet bond is paid out following the death of a tenant’s pet (see section 22BA). The tenant subsequently obtains the landlord’s consent to keep a new pet. The landlord may require payment of a pet bond again.
+(3) If the landlord lawfully increases the amount of the rent, the landlord may require payment of a further sum of pet bond not exceeding the amount by which the rent payable for 2 weeks has been increased.
+(4) If the landlord decreases the amount of the rent, the chief executive must, on application by the person who paid the bond, refund the tenant the amount by which the total sum of pet bond already paid exceeds the rent payable for 2 weeks following the decrease.
+(5) A landlord commits an unlawful act if the landlord requires payment of a pet bond—
+  (a) that is greater than the amount referred to in subsection (1); or
+  (b) from a tenant who is not keeping, or does not intend to keep, a pet on the premises.
+(6) A landlord commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B if the landlord requires payment of a pet bond as set out in subsection (5)﻿(a) or (b).
 
 ### 18A Landlord must not require security other than permitted bond
 (1) A landlord may not require a tenant to provide the landlord with any form of security to secure any payment or performance arising out of, or in connection with, the tenancy.
@@ -479,14 +496,14 @@ Sections 13 to 13B (and, in the case of a boarding house tenancy, section 66C) d
     (i) any interest in real or personal property; or
     (ii) the power to exercise a right of the tenant, including the authority to cause an account to be debited (for example, without limitation, by reference to a card, such as the imprint of a credit card or a PIN number) or the means to obtain money from a third party; but
   (b) does not include—
-    (i) a payment by way of bond that is permitted under section 18; or
+    (i) a payment by way of bond that is permitted under section 18 or 18AA; or
     (ii) any guarantee.
 
 ### 19 Duties of landlord on receipt of bond
 (1) Where any person pays to the landlord, or to any other person on behalf of the landlord, any amount by way of bond (whether the amount is for the whole or part of the bond), the following provisions shall apply:
   (a) as soon as practicable after receiving the payment, the person who receives it must give to the payer a written receipt, signed by that person, showing—
     (i) the address of the premises to which the payment relates; and
-    (ii) the amount and nature of the payment; and
+    (ii) the type of bond and the amount paid; and
     (iii) the date of the payment; and
     (iv) the name of the payer (if known to the person who receives the payment):
   (b) the landlord shall, within 23 working days after the payment is made, forward the amount received to the chief executive, together with a statement of particulars in the approved form.
@@ -501,7 +518,7 @@ Where a landlord forwards to the chief executive any amount paid by way of bond,
     (i) the address of the premises to which the payment relates; and
     (ii) the name of the landlord; and
     (iii) the name of the tenant; and
-    (iv) the amount and nature of the payment; and
+    (iv) the type of bond and the amount paid; and
     (v) the date of the receipt by the chief executive of the payment:
   (c) give to the tenant a copy of the receipt issued in accordance with paragraph (b).
 
@@ -514,7 +531,7 @@ Where a landlord forwards to the chief executive any amount paid by way of bond,
     (i) the address of the premises to which the payment relates; and
     (ii) the name of the landlord; and
     (iii) the name of the tenant; and
-    (iv) the amount and nature of the payment; and
+    (iv) the type of bond and the amount paid; and
     (v) the date of the receipt by the chief executive of the payment:
   (c) give to the landlord a copy of the receipt issued in accordance with paragraph (b).
 
@@ -531,7 +548,10 @@ Where a landlord forwards to the chief executive any amount paid by way of bond,
 (2) The chief executive must pay the bond (or, as the case requires, part of the bond) in accordance with the terms of the application.
 
 ### 22A Applications to chief executive for payment of bond without agreement of other party
-(1) This section applies to an application in the approved form for payment of a bond, or part of a bond, made by a party (party A) without the agreement of the other party (party B).
+(1) This section applies to an application for payment of a bond, or part of a bond, made by a party (party A) without the agreement of the other party (party B).
+(1A) The application must—
+  (a) be made in the approved form; and
+  (b) identify the type or types of bond to which the application relates and the amount requested for each type.
 (2) The application may be made at any time after the termination of the tenancy if party A is the tenant, but must be made within 2 months of the termination of the tenancy if party A is the landlord.
 (3) On receiving the application, the chief executive must notify party B of the application and invite party B to indicate, within 10 working days after being notified, whether or not party B wishes to contest the application.
 (4) An indication by party B must be in writing, unless the chief executive waives that requirement.
@@ -547,6 +567,10 @@ Where a landlord forwards to the chief executive any amount paid by way of bond,
 (3) If, more than 2 months after the termination of a tenancy, the landlord seeks payment of a bond held in respect of that tenancy but does not have the agreement of the tenant, the landlord may apply to the Tribunal for an order determining to whom the bond, or any part of it, is to be paid.
 (4) If the chief executive is satisfied that a tenancy has terminated and no application for payment of a bond, or part of a bond, has been made within a reasonable time, the chief executive may apply to the Tribunal for an order determining to whom the bond, or any part of it, is to be paid.
 (5) If the Tribunal makes an order concerning the payment of a bond, or part of a bond, the chief executive must make the payment in accordance with the terms of the order.
+
+### 22BA Application for payment of pet bond if tenant no longer keeping pet
+(1) A tenant may apply for payment of a pet bond in accordance with sections 22 to 22B at any time during a tenancy if the tenant is no longer keeping a pet.
+(2) This section does not limit sections 22 to 22B.
 
 ### 22C Payments of bond to be made out of Residential Tenancies Trust Account
 The chief executive must make any payments of a bond under section 22, 22A, or 22B out of the Residential Tenancies Trust Account.
@@ -697,7 +721,7 @@ The Tribunal may, on application by the landlord, make an order increasing the r
 ### 30 Landlord to keep records
 (1) Every landlord under a tenancy to which this Act applies shall keep or cause to be kept proper business records showing—
   (a) all payments of rent paid by or on behalf of the tenant, sufficient to enable the landlord to comply within a reasonable time with any request made by the tenant under section 29(3); and
-  (b) any amount by way of bond paid by or on behalf of the tenant on or after 1 May 1996.
+  (b) the type and amount of any bond paid by or on behalf of the tenant on or after 1 May 1996.
 (1A) The records must be kept for 7 tax years after the tax year to which they relate.
 (1B) In subsection (1A), tax year means—
   (a) the period of 9 months beginning with 1 July 2016 and ending with 31 March 2017; or
@@ -779,7 +803,7 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
     (iv) return to the landlord all keys, and security or pass cards or other such devices, provided by the landlord for the use of the tenant; and
     (v) leave in or at the premises all other chattels provided by the landlord for the use of the tenant.
 (2) The tenant shall not—
-  (a) intentionally or carelessly damage, or permit any other person to damage, the premises; or
+  (a) intentionally or carelessly damage, or permit any other person to damage, the premises, or damage the premises as a result of keeping a pet; or
   (ab) cause or permit any interference with, or render inoperative, any means of escape from fire within the meaning of the Building Act 2004; or
   (b) use the premises, or permit the premises to be used, for any unlawful purpose; or
   (c) cause or permit any interference with the reasonable peace, comfort, or privacy of any of the landlord's other tenants in the use of the premises occupied by those other tenants, or with the reasonable peace, comfort, or privacy of any other person residing in the neighbourhood.
@@ -834,6 +858,58 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
 (4) If a minor change is made in accordance with a request under section 42A, the tenant must, on or before the expiry of the tenancy, return the premises to a condition that is substantially the same as the condition that the premises were in before the minor change was made.
 (5) Subsection (4) does not apply if the landlord and the tenant agree a different arrangement in relation to the minor change for the end of the tenancy (for example, that the minor change will remain in place).
 (6) A tenant who fails to comply with subsection (4) commits an unlawful act.
+
+### 42C When tenant may keep pet
+(1) A tenant may keep a pet on the premises—
+  (a) if the tenancy agreement provides that the tenant may keep the pet or the landlord gives written consent to the tenant keeping the pet; and
+  (b) in accordance with any reasonable conditions set out in the tenancy agreement or attached to the consent (see section 42G regarding reasonable conditions).
+(2) A tenant who keeps a pet but fails to comply with subsection (1)﻿(a) commits an unlawful act.
+(3) See section 49B(1)﻿(c) regarding the tenant’s liability for destruction or damage as a result of a pet being kept on the premises.
+
+### 42D Provisions in tenancy agreements relating to tenant keeping pet
+(1) A tenancy agreement must not prohibit a tenant from keeping a pet on the premises unless the landlord provides reasonable grounds in the agreement for the prohibition.
+(2) A tenancy agreement must not impose on the tenant an unreasonable condition relating to the tenant keeping a pet.
+(3) A landlord who fails to comply with subsection (1) commits an unlawful act.
+(4) The following provisions of a tenancy agreement are of no effect:
+  (a) a provision that prohibits a tenant from keeping a pet without providing reasonable grounds for the prohibition:
+  (b) a provision that imposes an unreasonable condition relating to the tenant keeping a pet.
+
+### 42E Written consent for tenant to keep pet
+(1) If the tenant makes a written request to the landlord for consent for the tenant to keep a pet on the premises, the landlord must respond in writing within 21 days of receiving the request.
+(2) The landlord’s response must include—
+  (a) the landlord’s decision on whether consent is given or refused; and
+  (b) if consent is given, any reasonable conditions attached to the consent; and
+  (c) if consent is refused, the grounds for the refusal.
+(3) The landlord’s response may set out details of—
+  (a) which pet or pets the consent applies to (for example, a specific pet, pets generally, a specified number of pets, or a specified type or breed of pet); and
+  (b) reasonable requirements relating to the characteristics of the pet or pets (for example, relating to size or breed).
+(4) The landlord must not—
+  (a) refuse consent without reasonable grounds; or
+  (b) attach an unreasonable condition to the consent.
+(5) A landlord who, without reasonable excuse, fails to comply with subsection (1) commits an unlawful act.
+(6) A landlord who fails to comply with subsection (4)﻿(a) commits an unlawful act.
+
+### 42F Reasonable grounds for prohibiting tenant from, or refusing tenant consent for, keeping pet
+For the purposes of sections 42D and 42E, reasonable grounds for prohibiting a tenant from keeping a pet in a tenancy agreement or refusing consent for a tenant to keep a pet include the following (for example):
+  (a) the premises are not suitable for the pet or pets (for example, because of the size or fencing of the premises, or other unique features of the premises):
+  (b) a rule or bylaw applying to the premises under this Act or other legislation prohibits the pet or pets from being kept on the premises:
+  (c) the tenant has not complied with relevant bylaws relating to the pet or type of pet:
+  (d) the pet or pets are not suitable for the premises—
+    (i) due to the number of pets; or
+    (ii) due to their size or type (for example, their species or breed); or
+    (iii) due to their propensity for causing damage to premises or disruption to other persons residing in the neighbourhood; or
+    (iv) because they include a dog that has been classified as dangerous or menacing under the Dog Control Act 1996; or
+    (v) because there is good reason to believe they have previously attacked persons, livestock, or other pets:
+  (e) the tenant has not agreed with a reasonable condition to which the landlord proposes to make the tenancy agreement or the consent subject:
+  (f) the tenant has previously failed to comply with a reasonable condition relating to the tenant keeping a pet.
+
+### 42G Reasonable conditions relating to tenant keeping pet
+(1) For the purposes of sections 42C to 42F, a condition relating to a tenant keeping a pet that is set out in a tenancy agreement or attached to a landlord’s consent must be reasonable having regard to the nature of the premises and the type of pet or pets to which it applies.
+(2) Reasonable conditions may include the following (for example):
+  (a) a condition that the tenant agree to pay an amount of pet bond set by the landlord in accordance with section 18AA (and agree to a variation of the tenancy agreement under section 13B to that effect):
+  (b) a condition requiring a pet or pets to be restrained while a landlord lawfully enters the premises:
+  (c) if a pet is allowed inside the premises, a condition requiring the carpets in the premises to be cleaned to a professional standard at the end of the tenancy.
+(3) Subsection (2) is subject to subsection (1).
 
 ### 43 Disposition of landlord's interest
 (1) Where the landlord disposes of his or her interest in the premises to any other person (in this section referred to as the purchaser), the following provisions shall apply:
@@ -1038,7 +1114,8 @@ Where any party to a tenancy agreement breaches any of the provisions of the agr
 ### 49B When tenant liable
 (1) A tenant is not excused from liability or obligation by section 49A(1) if, and to the extent that,—
   (a) the destruction or damage was intentionally done or caused by the tenant or by a person for whose actions the tenant is responsible under section 41 or 66L; or
-  (b) the destruction or damage was the result of an act or omission by the tenant or by a person for whose actions the tenant is responsible under section 41 or 66L and the act or omission occurred on or about the premises and constitutes an imprisonable offence.
+  (b) the destruction or damage was the result of an act or omission by the tenant or by a person for whose actions the tenant is responsible under section 41 or 66L and the act or omission occurred on or about the premises and constitutes an imprisonable offence; or
+  (c) the destruction or damage was the result of the tenant, or a person for whose actions the tenant is responsible under section 41 or 66L, keeping a pet on the premises.
 (2) To the extent provided in subsection (3), the tenant is liable to the landlord for destruction of, or damage to, the premises that is caused by a careless act or omission of the tenant or of a person for whose actions the tenant is responsible under section 41 or 66L, other than an act or omission described in subsection (1).
 (3) The tenant’s liability under subsection (2) is limited,—
   (a) if the property is insured against the destruction or damage, to the lesser of the applicable excess under the insurance and whichever of the following is applicable:
@@ -1060,7 +1137,8 @@ Where any party to a tenancy agreement breaches any of the provisions of the agr
     (iii) that any insurance moneys are irrecoverable for the reasons described in subsection (4)﻿(a); and
   (b) it is for the tenant to prove—
     (i) that any destruction or damage was not intentionally done or caused as described in subsection (1)﻿(a); and
-    (ii) that any destruction or damage was not caused by a careless act or omission described in subsection (2).
+    (ii) that any destruction or damage was not caused by a careless act or omission described in subsection (2); and
+    (iii) that any destruction or damage was not caused in circumstances described in subsection (1)﻿(c).
 
 ### 49C Landlord, not insurer, to benefit from tenant liability for careless damage
 (1) An insurer of the premises against destruction or damage has no right or claim in relation to a tenant’s liability under section 49B(2) or (6), including no right of equitable or contractual subrogation and no right arising out of an assignment by the insured.
@@ -1525,7 +1603,7 @@ Sections 62A to 62D and any regulations made for the purposes of section 62(3A) 
 (2) The following provisions do not apply to boarding house tenancies unless otherwise specifically applied:
   (a) section 7 (relating to short fixed-term tenancies):
   (b) section 9(1) and (2) (relating to transitional provisions):
-  (c) sections 36 to 42, 43A to 45A, and 46 to 49 (relating to the rights and obligations of landlords and tenants):
+  (c) sections 36 to 42, 42C to 42G, 43A to 45A, and 46 to 49 (relating to the rights and obligations of landlords and tenants):
   (d) sections 50A, 51, and 55 to 57 (relating to the termination of tenancies):
   (e) section 61 (relating to the abandonment of premises):
   (f) section 64 (relating to possession orders).
@@ -1680,7 +1758,7 @@ A boarding house tenancy is not assignable by a tenant.
   (e) observe the house rules.
   (f)
 (2) The tenant of a boarding house must not—
-  (a) intentionally or carelessly damage, or permit any other person to damage, the premises; or
+  (a) intentionally or carelessly damage, or permit any other person to damage, the premises, or damage the premises as a result of keeping a pet; or
   (b) cause or permit any interference with, or render inoperative, any means of escape from fire within the meaning of the Building Act 2004; or
   (c) use the tenant’s boarding room, or permit the room to be used, for an unlawful purpose; or
   (d) cause or permit any interference with the reasonable peace, comfort, or privacy of any person residing in the neighbourhood; or
@@ -1996,6 +2074,9 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (i) during the tenancy, and on the application of both of the parties, consent to the inclusion of any term in any tenancy agreement to which this Act applies, where the inclusion of that term would otherwise be contrary to any of the provisions of this Act, and to make an order varying the agreement accordingly:
   (j) to order that a provision of this Act shall not apply to, or in relation to, any tenancy agreement or any residential premises, or shall apply in such modified form as the Tribunal may specify in the order:
   (k) to order the tenant under any tenancy agreement to which this Act applies to pay to the landlord any sum found to be owing by the tenant to the landlord, whether by way of rent in arrear or otherwise pursuant to the tenancy agreement, and to order the landlord under any such tenancy agreement to pay to the tenant the whole or any part of any sum found to have been paid by way of rent in excess of the amount lawfully payable, or of any other sum demanded or received by the landlord in contravention of any of the provisions of this Act:
+  (kaa) to order the payment of all or part of—
+    (i) a general bond, if money found to be owing by a tenant to a landlord for destruction of, or damage to, the premises caused by a pet kept at the premises exceeds the amount of the pet bond:
+    (ii) a pet bond, if money found to be owing by a tenant to a landlord (whether for damage unrelated to a pet, rent in arrear, or otherwise owing in accordance with the tenancy agreement) exceeds the amount of the general bond:
   (ka) to determine whether, and the extent to which, the guarantor of a tenant is liable to the landlord under the guarantee, and to order the guarantor to pay to the landlord any sum found to be payable under the guarantee:
   (l) to order the landlord or the tenant under any tenancy agreement to which this Act applies to do anything necessary to remedy the breach by that party of any express or implied provision of the tenancy agreement or any provision of this Act, or to do anything that that party is required to do by any such provision:
   (m) to order the landlord or the tenant under any tenancy agreement to which this Act applies to refrain from doing anything if the doing of that thing by that party would constitute a contravention or (as the case may require) a further contravention of any express or implied provision of the tenancy agreement or any provision of this Act:
@@ -3560,7 +3641,8 @@ The amendment made by section 39 of the 2024 Act applies to an application wheth
 | 16A(6) | Landlord failing to appoint agent when outside New Zealand for longer than 21 consecutive days | 1,500 |
 | 17(3) | Requiring key money | 1,500 |
 | 17A(3) | Requiring letting fee | 1,500 |
-| 18(4)﻿(a) | Landlord requiring bond greater than amount permitted | 1,500 |
+| 18(4)﻿(a) | Landlord requiring general bond greater than amount permitted | 1,500 |
+| 18AA(5) | Landlord requiring pet bond greater than amount permitted or from tenant who is not keeping, or does not intend to keep, a pet | 1,500 |
 | 18A(2)﻿(a) | Landlord requiring unauthorised form of security | 1,500 |
 | 19(2) | Breaching duties on receipt of bond | 1,500 |
 | 22F(3)﻿(a) | Landlord failing to state amount of rent when offering tenancy | 1,500 |
@@ -3579,6 +3661,10 @@ The amendment made by section 39 of the 2024 Act applies to an application wheth
 | 42A(7) | Landlord failing to respond to written request seeking consent for fixtures, etc | 1,500 |
 | 42B(3) | Landlord failing to consent to request for minor change | 1,500 |
 | 42B(6) | Tenant failing to reinstate premises at end of tenancy following minor change | 1,500 |
+| 42C(2) | Tenant keeping pet without provision in tenancy agreement or landlord’s consent to keep pet | 750 |
+| 42D(3) | Landlord including prohibition on tenant keeping pet in tenancy agreement without providing reasonable grounds in agreement for prohibition | 1,500 |
+| 42E(5) | Landlord failing, without reasonable excuse, to provide written notice in response to tenant’s request for consent to keep pet within 21 days of receiving request | 1,500 |
+| 42E(6) | Landlord refusing consent without reasonable grounds | 1,500 |
 | 43B(3) | Tenant assigning tenancy without the landlord’s written consent or when prohibited to do so | 750 |
 | 43B(5) | Landlord failing to respond to written request for consent to assignment | 1,500 |
 | 44(2A) | Tenant subletting or parting with possession when prohibited to do so or without the landlord’s written consent | 1,500 |
@@ -3636,7 +3722,7 @@ The infringement fee for an infringement offence specified in column 1 of the ta
 An infringement notice served on a landlord that has 6 or more tenancies or that is the landlord of a boarding house is not invalid merely because the notice imposes the fee for the offence that is in column 6 of the table in clause 4.
 
 ### 4 Table of fines and fees for infringement offences
-The following table sets out the fines and fees for infringement offences under this Act:The following table is small in size and has 6 columns. Column 1 is headed Section. Column 2 is headed Description of offence. Column 3 is headed Fine (cl 1(a)) ($). Column 4 is headed Fine (cl 1(b)) ($). Column 5 is headed Fee (cl 2(a)) ($). Column 6 is headed Fee (cl 2(b)) ($).Column 1Column 2Column 3Column 4Column 5Column 6SectionDescription of offenceFine (cl 1(a)) ($)Fine (cl 1(b)) ($)Fee (cl 2(a)) ($)Fee (cl 2(b)) ($)13(4)﻿(b)Failing to ensure tenancy agreement in writing, signed, and provided to tenant2,0001,0001,00050013A(1G)Failing to comply with section 13A(1A), (1CA), (1CB), or (2)2,0001,0001,00050015(3)Failing to give notice as successor2,0001,0001,00050016(2A)Failing to notify change of name or address2,0001,0001,00050016A(6)﻿(b)Failing to appoint agent when outside New Zealand for longer than 21 consecutive days3,0001,5001,00050017(3A)Requiring key money3,0001,5001,00050017A(4)Requiring letting fee3,0001,5001,00050018(4)﻿(b)Requiring bond greater than amount permitted3,0001,5001,00050018A(2)﻿(b)Requiring unauthorised form of security3,0001,5001,00050019(3)Breaching duties on receipt of bond3,0001,5001,00050022F(3)﻿(b)Failing to state amount of rent in advertisement or offer2,0001,0001,00050023(4)﻿(b)Requiring rent more than 2 weeks in advance or before rent already paid expires3,0001,5001,00050029(6)Failing to give receipt for rent2,0001,0001,00050030(2)﻿(b)Failing to keep records2,0001,0001,00050044A(3)﻿(b)Failing to itemise expenses incurred on assignment, subletting, parting with possession, or termination by consent2,0001,0001,00050045(1AD)﻿(b)Failing to provide healthy homes information2,0001,0001,00050047(4)Failing to inform prospective tenants that premises on the market3,0001,5001,00050048(4A)Failing to notify tenant of results of test for contaminants2,0001,0001,00050066I(7)Failing to provide healthy homes information2,0001,0001,00050066J(2B)﻿(b)Failing to inform prospective tenants that boarding house premises on the market3,0001,5001,00050066J(4)﻿(b)Failing to notify tenant of results of test for contaminants (relating to boarding house facilities)2,0001,0001,00050066T(1A)Failing to notify tenant of results of test for contaminants (relating to boarding room)2,0001,0001,000500123A(5)﻿(b)Failing to produce documents to chief executive3,0001,5001,000500
+The following table sets out the fines and fees for infringement offences under this Act:The following table is small in size and has 6 columns. Column 1 is headed Section. Column 2 is headed Description of offence. Column 3 is headed Fine (cl 1(a)) ($). Column 4 is headed Fine (cl 1(b)) ($). Column 5 is headed Fee (cl 2(a)) ($). Column 6 is headed Fee (cl 2(b)) ($).Column 1Column 2Column 3Column 4Column 5Column 6SectionDescription of offenceFine (cl 1(a)) ($)Fine (cl 1(b)) ($)Fee (cl 2(a)) ($)Fee (cl 2(b)) ($)13(4)﻿(b)Failing to ensure tenancy agreement in writing, signed, and provided to tenant2,0001,0001,00050013A(1G)Failing to comply with section 13A(1A), (1CA), (1CB), or (2)2,0001,0001,00050015(3)Failing to give notice as successor2,0001,0001,00050016(2A)Failing to notify change of name or address2,0001,0001,00050016A(6)﻿(b)Failing to appoint agent when outside New Zealand for longer than 21 consecutive days3,0001,5001,00050017(3A)Requiring key money3,0001,5001,00050017A(4)Requiring letting fee3,0001,5001,00050018(4)﻿(b)Requiring general bond greater than amount permitted3,0001,5001,00050018AA(6)Requiring pet bond greater than amount permitted or from tenant who is not keeping, or does not intend to keep, a pet3,0001,5001,00050018A(2)﻿(b)Requiring unauthorised form of security3,0001,5001,00050019(3)Breaching duties on receipt of bond3,0001,5001,00050022F(3)﻿(b)Failing to state amount of rent in advertisement or offer2,0001,0001,00050023(4)﻿(b)Requiring rent more than 2 weeks in advance or before rent already paid expires3,0001,5001,00050029(6)Failing to give receipt for rent2,0001,0001,00050030(2)﻿(b)Failing to keep records2,0001,0001,00050044A(3)﻿(b)Failing to itemise expenses incurred on assignment, subletting, parting with possession, or termination by consent2,0001,0001,00050045(1AD)﻿(b)Failing to provide healthy homes information2,0001,0001,00050047(4)Failing to inform prospective tenants that premises on the market3,0001,5001,00050048(4A)Failing to notify tenant of results of test for contaminants2,0001,0001,00050066I(7)Failing to provide healthy homes information2,0001,0001,00050066J(2B)﻿(b)Failing to inform prospective tenants that boarding house premises on the market3,0001,5001,00050066J(4)﻿(b)Failing to notify tenant of results of test for contaminants (relating to boarding house facilities)2,0001,0001,00050066T(1A)Failing to notify tenant of results of test for contaminants (relating to boarding room)2,0001,0001,000500123A(5)﻿(b)Failing to produce documents to chief executive3,0001,5001,000500
 
 ## Schedule 2 — Enactments repealed
 
