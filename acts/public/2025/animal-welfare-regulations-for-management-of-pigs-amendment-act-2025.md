@@ -5,7 +5,7 @@ _Consolidation as at 2025-12-16_
 This Act is the Animal Welfare (Regulations for Management of Pigs) Amendment Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 17 December 2025.
 
 ### 3 Principal Act
 This Act amends the Animal Welfare Act 1999.
