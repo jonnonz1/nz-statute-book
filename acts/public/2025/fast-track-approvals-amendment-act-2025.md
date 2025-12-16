@@ -5,7 +5,7 @@ _Consolidation as at 2025-12-16_
 This Act is the Fast-track Approvals Amendment Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after Royal assent.
+(1) This Act comes into force on 17 December 2025.
 (2) However, the following sections come into force on 31 March 2026:
   (a) sections 6 to 10:
   (b) section 14:
