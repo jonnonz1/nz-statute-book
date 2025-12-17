@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2025-12-17_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -885,6 +885,7 @@ A code of welfare may relate to 1 or more of the following:
   (d) a list of the places where the draft code may be obtained or inspected; and
   (e) the closing date for the receipt by the National Animal Welfare Advisory Committee of submissions on the draft code, being a date no earlier than 30 working days after the date on which the notice is first published in a daily newspaper in accordance with subsection (3)﻿(a); and
   (f) the address of the place to which submissions on the draft code may be delivered or sent.
+(5) Subsection (1)﻿(b) must be treated as being met in relation to proposed standards and recommendations in a draft code of welfare if the National Animal Welfare Advisory Committee is satisfied that they are needed to give effect to, or for consistency with, any of regulations 25 to 27 of the Animal Welfare (Care and Procedures) Regulations 2018.
 
 ### 72 Consultation
 (1) The National Animal Welfare Advisory Committee may consult with those persons who, in response to a notice published or given under section 71(3), make submissions on the draft code of welfare.
@@ -903,6 +904,7 @@ A code of welfare may relate to 1 or more of the following:
 (4) The National Animal Welfare Advisory Committee may recommend to the Minister that regulations be made under section 183A(1)﻿(a) (which relates to standards or requirements for the purposes of giving effect to Parts 1 and 2).
 (5) The National Animal Welfare Advisory Committee may recommend to the Minister the making of regulations under section 183A(2) (which relates to prescribing standards or requirements that do not fully meet specified obligations).
 (6) Before making a recommendation under subsection (5), the National Animal Welfare Advisory Committee must consider the relevant provisions of section 183A.
+(7) Subsection (1)﻿(a) must be treated as being met in relation to proposed standards if the National Animal Welfare Advisory Committee is satisfied that they are needed to give effect to, or for consistency with, any of regulations 25 to 27 of the Animal Welfare (Care and Procedures) Regulations 2018.
 
 ### 74 Recommendation to Minister
 (1) The National Animal Welfare Advisory Committee must, as soon as reasonably practicable after the closing date for the receipt of submissions in relation to a draft code of welfare, decide whether or not to recommend to the Minister the issue of the code.
@@ -923,6 +925,8 @@ A code of welfare may relate to 1 or more of the following:
   (b) supply to the person who prepared the draft code a copy of the report made under paragraph (a).
 (3) Subsection (1) applies, with all necessary modifications, to the recommendations received by the Minister under subsection (2).
 (4) Where the Minister decides, under subsection (1)﻿(c) to decline to issue the code of welfare, the Minister must give to the National Animal Welfare Advisory Committee and to the person who prepared the code of welfare, the Minister's reasons for declining to issue the code of welfare.
+(4A) Standards and recommendations in a code of welfare issued under this section must be treated as complying with the purposes of this Act if the Minister is satisfied that they are needed to give effect to, or for consistency with, any of regulations 25 to 27 of the Animal Welfare (Care and Procedures) Regulations 2018.
+(4B) Recommendations in a report under subsection (2)﻿(a) must be treated as complying with the purposes of this Act if the National Animal Welfare Advisory Committee is satisfied that they are needed to give effect to, or for consistency with, any of regulations 25 to 27 of the Animal Welfare (Care and Procedures) Regulations 2018.
 (5) A code of welfare under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 76 Amendment or revocation of code of welfare
@@ -2157,6 +2161,7 @@ Nothing in this Act applies in relation to the use of—
 (9) Nothing in this section obliges the Minister to recommend the making of regulations in reliance on subsection (2).
 (10) The Minister must consult the National Animal Welfare Advisory Committee before recommending the making of any regulations under this section (other than regulations already proposed by the Committee), but nothing in sections 71 to 75 applies in relation to the making of regulations under subsection (1)﻿(b).
 (11) If a person does or omits to do anything in reliance on regulations made under subsection (2) that would otherwise be a contravention of, or failure to comply with, any provision of Part 1 or 2, the person has a defence to a prosecution for an offence under this Act in respect of the act or omission if the court is satisfied that the act or omission was authorised by the regulations.
+(11A) See section 204(2), which provides that subsection (6) does not apply to regulations 26 and 27 of the Animal Welfare (Care and Procedures) Regulations 2018.
 (12) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 183B Regulations relating to surgical and painful procedures
@@ -2411,6 +2416,34 @@ The enactments specified in Schedule 6 are repealed.
     (ii) the interests of persons involved in the commercial use of any affected animals; and
     (iii) any other relevant factor.
 
+**Validation and extension of regulations relating to management of pigs**
+
+### 203 Validation of regulations relating to management of pigs
+(1) This section applies to regulations 25 to 27 of the Animal Welfare (Care and Procedures) Regulations 2018 as in force immediately before and immediately after the Animal Welfare (Regulations for Management of Pigs) Amendment Act 2025 comes into force.
+(2) Regulation 25 is, and always has been, validly made under section 183A(1).
+(3) Regulations 26 and 27 are, and always have been, validly made under section 183A(2).
+
+### 204 Extension and revocation of regulations relating to management of pigs
+(1) Unless sooner replaced or revoked,—
+  (a) regulation 27 of the Animal Welfare (Care and Procedures) Regulations 2018 is revoked on the close of 18 December 2026:
+  (b) regulations 25 and 26 of those regulations are revoked on the close of 18 December 2035.
+(2) Section 183A(5) and (6) does not apply to regulations 26 and 27 of those regulations.
+
+### 205 Amendments taking effect on 19 December 2026
+On 19 December 2026,—
+  (a) in sections 71(5), 73(7), and 75(4A) and (4B), replace any of regulations 25 to 27 with either or both of regulations 25 and 26:
+  (b) in sections 183A(11A) and 204(2), replace regulations 26 and 27 with regulation 26.
+
+### 206 Repeals taking effect on 19 December 2035
+Repeal the following on 19 December 2035:
+  (a) section 71(5):
+  (b) section 73(7):
+  (c) section 75(4A) and (4B):
+  (d) section 183A(11A):
+  (e) the cross-heading above section 203:
+  (f) sections 203 to 205:
+  (g) this section.
+
 ## Schedule 1 — Provisions applying in respect of National Animal Welfare Advisory Committee and National Animal Ethics Advisory Committee
 
 ### 1 Interpretation
@@ -2597,6 +2630,19 @@ In this Part, amendment Act means the Animal Welfare Amendment Act (No 2) 2015.
 (2) The instrument ceases to have effect for the purpose of section 40(2) (that is, as an exception to the offence created by section 40(1)) to the extent that the instrument—
   (a) applies to the export of cattle, deer, goats, or sheep by ship; and
   (b) relates to an export by a ship that starts its voyage from a New Zealand port on or after 30 April 2023.
+
+### Part 3 — Provision relating to Animal Welfare (Regulations for Management of Pigs) Amendment Act 2025
+
+### 8 Code of welfare for pigs: compliance with certain prerequisites and processes
+(1) This clause applies if—
+  (a) a draft code of welfare is prepared under section 70 before commencement; and
+  (b) the code is issued under section 75 after commencement; and
+  (c) the code contains standards or recommendations that the Minister is satisfied are needed to give effect to, or for consistency with, any of regulations 25 to 27 of the Animal Welfare (Care and Procedures) Regulations 2018.
+(2) The following must be treated as being met in relation to the standards and recommendations referred to in subclause (1)﻿(c):
+  (a) section 71(1)﻿(b), if the draft code is publicly notified under section 71 before commencement:
+  (b) section 73(1)﻿(a), if the draft code is considered under section 73 before commencement.
+(3) If a report is made on the code under section 75(2)﻿(a) before commencement, section 75(4B) must be treated as applying in relation to the recommendations (if any) in the report for the code to contain the standards and recommendations referred to in subclause (1)﻿(c).
+(4) In this clause, commencement means the date on which the Animal Welfare (Regulations for Management of Pigs) Amendment Act 2025 comes into force.
 
 ## Schedule 5 — Enactments amended
 
