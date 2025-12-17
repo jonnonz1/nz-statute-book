@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2025-10-31_
+_Consolidation as at 2025-12-17_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -770,9 +770,24 @@ In performing its functions and duties and exercising its powers under this Act,
   (a) net accounting emissions of greenhouse gases in a calendar year, other than biogenic methane, are zero by the calendar year beginning on 1 January 2050 and for each subsequent calendar year; and
   (b) emissions of biogenic methane in a calendar year—
     (i) are 10% less than 2017 emissions by the calendar year beginning on 1 January 2030; and
-    (ii) are 24% to 47% less than 2017 emissions by the calendar year beginning on 1 January 2050 and for each subsequent calendar year.
+    (ii) are 14% to 24% less than 2017 emissions by the calendar year beginning on 1 January 2050 and for each subsequent calendar year.
 (2) The 2050 target will be met if emissions reductions meet or exceed those required by the target.
-(3) In this section, 2017 emissions means the emissions of biogenic methane for the calendar year beginning on 1 January 2017.
+(3) In this section and in section 5QA, 2017 emissions means the emissions of biogenic methane for the calendar year beginning on 1 January 2017.
+
+### 5QA Government to review 2050 target for biogenic methane emissions reduction
+(1) The Minister and the Minister of Agriculture must initiate a review of the biogenic methane component of the 2050 target set out in section 5Q(1)﻿(b)﻿(ii).
+(2) The review must—
+  (a) assess whether the biogenic methane component of the 2050 target is relevant; and
+  (b) recommend a target for the reduction of biogenic methane emissions below 2017 emissions by the calendar year beginning on 1 January 2050.
+(3) In making its assessment and recommendation, the review must consider—
+  (a) the latest science on the warming impact of biogenic methane emissions and what is required to achieve no additional global warming from New Zealand’s biogenic methane emissions; and
+  (b) New Zealand’s progress in reducing its biogenic methane emissions; and
+  (c) New Zealand’s trading partners’ progress in reducing their biogenic methane emissions; and
+  (d) the progress made and actions taken internationally to reduce biogenic methane emissions in order to meet emissions reduction targets under international treaties and agreements, such as the Paris Agreement; and
+  (e) whether the target recommended under subsection (2)﻿(b) should be a single percentage target; and
+  (f) any other matters specified by the Ministers when initiating the review.
+(4) A report on the review must be provided to the Ministers no later than 31 December 2040.
+(5) The Ministers must jointly consider the report on the review.
 
 ### 5R Review of inclusion of emissions from international shipping and aviation in 2050 target
 The Commission must, no later than 31 December 2024, provide written advice to the Minister on whether the 2050 target should be amended to include emissions from international shipping and aviation (and, if so, how the target should be amended).
@@ -830,7 +845,7 @@ The purpose of this subpart and subparts 3 and 4 is to require the Minister to s
   (a) for the emissions budget period 2022 to 2025, by 31 May 2022:
   (b) for the emissions budget period 2026 to 2030, by 31 May 2022:
   (c) for the emissions budget period 2031 to 2035, by 31 May 2022:
-  (d) for the emissions budget period 2036 to 2040, by 31 December 2025:
+  (d) for the emissions budget period 2036 to 2040, by 31 December 2027:
   (e) for the emissions budget period 2041 to 2045, by 31 December 2030:
   (f) for the emissions budget period 2046 to 2050, by 31 December 2035:
   (g) for any subsequent emissions budget period, by 31 December not less than 10 years before that emissions budget period commences.
@@ -898,7 +913,8 @@ The purpose of this subpart and subparts 3 and 4 is to require the Minister to s
     (viii) economic circumstances and the likely impact of the Minister’s decision on taxation, public spending, and public borrowing:
     (ix) the implications, or potential implications, of land-use change for communities:
     (x) responses to climate change taken or planned by parties to the Paris Agreement or to the Convention:
-    (xi) New Zealand’s relevant obligations under international agreements.
+    (xi) New Zealand’s relevant obligations under international agreements:
+    (xii) the implications, or potential implications, for domestic food production.
 
 ### 5ZD Publication of emissions budgets
 (1) Before an emissions budget is notified in the Gazette and presented to the House of Representatives, the Minister must consult the appropriate representative of each of the political parties represented in the House of Representatives.
@@ -1702,7 +1718,7 @@ No action may be brought against the Crown or the Registrar for any loss or dama
     (ii) the sale of units at the minimum price; or
   (b) the Minister is satisfied that the amendment is justified by the following special circumstances:
     (i) a change that has significantly affected any matter that the Minister was required to consider under section 30GC when recommending the limits and price control settings that are to be amended; or
-    (ii) a change in the budget or contribution described by section 30GC(2)﻿(a) or (b) that applies to the year to which the amendment applies; or
+    (ii) a change in the budget described by section 30GC(2)﻿(a) or (b) that applies to the year to which the amendment applies; or
     (iii) a force majeure event.
 (6) Regulations made under subsection (2)﻿(a)﻿(ii) may be made in respect of different units, transactions, persons, classes of units, subclasses of units, classes of transactions, or classes of persons.
 (7) See section 30GC for requirements relating to this section.
@@ -1718,11 +1734,11 @@ ExampleRegulations are first made under this section in December 2020. They must
   (a) recommending under section 30GB(2), (3), or (4)﻿(b) the making of regulations that prescribe individual limits, overall limits, or price control settings; and
   (b) considering under section 30GB(4)﻿(a) whether to recommend prescribing new individual limits, overall limits, and price control settings for the 2 calendar years before a further calendar year.
 (2) The Minister must be satisfied that the limits and price control settings are in accordance with—
-  (a) the emissions budget, and the nationally determined contribution for New Zealand under the Paris Agreement, that applies to—
+  (a) the emissions budget that applies to—
     (i) the period for which the limits or price control settings are being prescribed; or
-    (ii) any period after that, if a budget or contribution exists for that period; and
+    (ii) any period after that, if a budget exists for that period; and
   (b) the 2050 target.
-(3) However, they need not strictly accord with the budgets or contributions as long as the Minister is satisfied that the discrepancy is justified, after considering the other matters under this section.
+(3) However, they need not strictly accord with the budgets as long as the Minister is satisfied that the discrepancy is justified, after considering the other matters under this section.
 (4) The Minister must consider—
   (a) the main matters; and
   (b) the additional matters, but only in relation to the price control settings.
@@ -8140,6 +8156,22 @@ In this Part,—
     (i) had a clear interest in the LUC class 1–6 land before 4 December 2024; and
     (ii) has made or obtained 1 or more qualifying forestry investments in relation to the LUC class 1–6 land in the period from 1 January 2021 to 4 December 2024; and
   (b) the ETS applicant was not able to make an ETS application at an earlier date due to circumstances beyond their control.
+
+### Part 6 — Provisions relating to Climate Change Response (2050 Target and Other Matters) Amendment Act 2025
+
+### 49 Interpretation
+In this Part, amendment Act means the Climate Change Response (2050 Target and Other Matters) Amendment Act 2025.
+
+**Emissions budget 2036–2040 and revisions to notified emissions budgets**
+
+### 50 Commission to update advice to Minister on emissions budget and revisions to notified emissions budgets
+(1) The Commission must update the advice provided under section 5ZA(1) in respect of the following to reflect the amendment to the 2050 target made by section 4 of the amendment Act:
+  (a) the emissions budget for the period 2036 to 2040:
+  (b) revisions to emissions budgets notified under section 5ZD.
+(2) The Commission must—
+  (a) prepare its updated advice in accordance with section 5ZA(1) and (2); and
+  (b) despite section 5ZA(4)﻿(b), provide its updated advice to the Minister on or before 31 March 2027.
+(3) The Commission need not comply with section 5ZA(3) before providing the updated advice to the Minister, but may consult on the proposed updated advice in accordance with section 5N.
 
 ## Schedule 1 — United Nations Framework Convention on Climate Change
 
