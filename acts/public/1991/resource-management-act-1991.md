@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2025-12-17_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -5255,6 +5255,7 @@ If a resource consent is subject to the grant of an application to exchange recr
   (c) the period for which any other coastal permit, or any other land use consent to do something that would otherwise contravene section 13, is granted is such period, not exceeding 35 years, as is specified in the consent and if no such period is specified, is 5 years from the date of commencement of the consent under section 116:
   (d) the period for which any other resource consent is granted is the period (not exceeding 35 years from the date of granting) specified in the consent and, if no such period is specified, is 5 years from the date of commencement of the consent under section 116.
 (2) Despite anything in subsection (1), the period of an extant wastewater consent (as defined in section 139B), may be extended as specified in section 139C.
+(3) Despite anything in subsection (1), the period of a resource consent to which section 123C applies is the period specified in that section.
 
 ### 123A Duration of consent for aquaculture activities
 (1) A coastal permit authorising aquaculture activities to be undertaken in the coastal marine area must specify the period for which it is granted.
@@ -5278,6 +5279,33 @@ If a resource consent is subject to the grant of an application to exchange recr
 (4) This section applies subject to section 125.
 (5) To avoid doubt, this section does not apply to a land use consent under section 9.
 (6) In this section, relevant group means a group who may be or is required to be involved in processes under this Act that relate to planning documents or resource consents by virtue of any Treaty settlement, the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019, or the Marine and Coastal Area (Takutai Moana) Act 2011.
+
+### 123C Duration of certain current and continued consents
+(1) This section applies to—
+  (a) a resource consent that is current on the commencement date but due to expire before the close of 31 December 2027:
+  (b) a resource consent that expired before the commencement date, but only if,—
+    (i) immediately before the commencement date, the holder was eligible to operate under the consent in reliance on section 124; and
+    (ii) the holder’s application for a new consent had not been determined by the consent authority before the commencement date.
+(2) A resource consent—
+  (a) referred to in subsection (1)﻿(a) is extended to the close of 31 December 2027:
+  (b) referred to in subsection (1)﻿(b) is deemed to be reinstated and extended to the close of 31 December 2027.
+(3) However, if the resource consent relates to water, the consent expires on the earlier of—
+  (a) the close of 31 December 2027:
+  (b) the date that is 35 years after the date the consent commenced.
+(4) Despite subsection (3), a resource consent that relates to water expires on the close of 1 October 2026 if, on the commencement of this Act, the consent was deemed to be (or otherwise to be treated as) granted under this Act.
+(5) Any conditions applying to a resource consent or that applied to a resource consent before it expired (as the case may be) continue to apply unless a change to a condition is required as a consequence of extending the consent under this section.
+(6) However, any extension, or reinstatement and extension, of a consent under this section does not affect the application of sections 125, 127, 128, and 129.
+(7) A consent authority must,—
+  (a) no later than 6 months after the commencement date, update a resource consent to which this section applies to record its new expiry date; and
+  (b) if applicable, continue to process and determine the application for the new consent unless it is withdrawn.
+(8) This section does not apply to any extant wastewater consent that has already been extended under section 139C or 139D.
+(9) In this section, commencement date means the date on which this section comes into force.
+(10) In subsections (3) and (4), a resource consent relates to water if it is—
+  (a) a water permit within the meaning of section 87(d):
+  (b) a discharge permit (within the meaning of section 87(e)) authorising—
+    (i) a discharge of contaminant or water into water:
+    (ii) a discharge of contaminant onto or into land, in the circumstances described in section 15(1)﻿(b):
+  (c) a land use consent under section 9 that includes associated discharges.
 
 ### 124 Exercise of resource consent while applying for new consent
 (1) Subsection (3) applies when—
