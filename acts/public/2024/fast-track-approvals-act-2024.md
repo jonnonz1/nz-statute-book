@@ -1,5 +1,5 @@
 # Fast-track Approvals Act 2024
-_Consolidation as at 2025-11-21_
+_Consolidation as at 2025-12-17_
 
 ### 1 Title
 This Act is the Fast-track Approvals Act 2024.
@@ -15,7 +15,7 @@ The purpose of this Act is to facilitate the delivery of infrastructure and deve
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **administering agency** —
-    (a) means the chief executive of a department that, with the authority of the Prime Minister, is responsible for the administration of a specified Act; and
+    (a) means the chief executive of a department that, with the authority of the Prime Minister, is responsible for the administration of a specified Act (other than the chief executives of the departments that, with the authority of the Prime Minister, are responsible for the administration of the Heritage New Zealand Pouhere Taonga Act 2014 and the Resource Management Act 1991); and
     (b) includes,—
       (i) in relation to the Heritage New Zealand Pouhere Taonga Act 2014, Heritage New Zealand Pouhere Taonga:
       (ii) in relation to the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, the EPA:
@@ -36,16 +36,17 @@ The purpose of this Act is to facilitate the delivery of infrastructure and deve
     (b) in relation to an unlisted project, an authorised person specified for the project under section 27(2):
     (c) if, under paragraph (a) or (b), there is more than 1 authorised person for a project, all of those authorised persons
   - **compensation declaration** has the meaning given in section 186ZD of the Fisheries Act 1996
-  - **competing application** , in relation to a substantive application (), means a substantive application or an application for an approval under a specified Act () if the approval sought or applied for by application B—
-    (a) relates to the same natural and physical resources as an approval sought by application A; and
-    (b) could not be fully exercised (if at all) if the approval referred to in paragraph (a) were granted
+  - **competing application** , in relation to a substantive application (), means a substantive application or an application for an approval under a specified Act () if—
+    (a) the approval sought or applied for by application B relates to the same natural and physical resources as an approval sought by application A; and
+    (b) the approval sought or applied for by application B could not be fully exercised (if at all) if the approval referred to in paragraph (a) were granted; and
+    (c) application B was lodged by someone other than the person who lodged application A
   - **complex freshwater fisheries activity** means an activity that includes construction of any of the following:
     (a) a culvert or ford that permanently blocks fish passage:
     (b) a permanent dam or diversion structure:
     (c) works—
       (i) that require disturbance to a water body, including diversions, in-stream operations, and removal of gravel, that persists for more than 3 months; or
-      (ii) that are within 500 m of the coast and occur during the whitebaiting season; or
-      (iii) that are in an area known to be used for trout, salmon, or native fish spawning and occur during the spawning season; or
+      (ii) that require disturbance of any duration during the whitebaiting season to a water body within 500 m of the coast; or
+      (iii) that require disturbance of any duration during the relevant spawning season to a water body that is known for the spawning of trout, salmon, or native fish; or
       (iv) that require repeated disturbance to a water body and are temporary works for which there is a period of 6 months or less between each period of work
   - **conservation area** has the meaning given in clause 22 of Schedule 6
   - **Conservation Board** has the meaning given in section 2(1) of the Conservation Act 1987
@@ -66,6 +67,7 @@ The purpose of this Act is to facilitate the delivery of infrastructure and deve
   - **fast-track approvals process** means the process for granting an approval that is set out in subparts 2 and 3 of Part 2
   - **Game Animal Council** means the council established under section 6 of the Game Animal Council Act 2013
   - **General land owned by Māori** has the meaning given in section 4 of Te Ture Whenua Maori Act 1993
+  - **Government policy statement** means a Government policy statement issued under section 10A
   - **identified Māori land** means any of the following:
     (a) Māori freehold land:
     (b) land that forms part of a natural feature that has been declared under an Act to be a legal entity or person (including Te Urewera land within the meaning of section 7 of the Te Urewera Act 2014):
@@ -149,6 +151,11 @@ The purpose of this Act is to facilitate the delivery of infrastructure and deve
   - **relevant local authority** , in relation to a referral application or substantive application,—
     (a) means any local authority whose region or district the project area is in; and
     (b) if a proposed approval in the referral application or an approval sought in the substantive application is one described in section 42(4)﻿(k) (marine consent), includes any local authority whose region or district is adjacent to the site where the relevant activity would be undertaken
+  - **relevant portfolio Minister** means a Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for,—
+    (a) in relation to a proposed Government policy statement, a portfolio that is directly related to the subject of the proposed Government policy statement; or
+    (b) in relation to a project, either or both of the following:
+      (i) a portfolio that is directly related to the nature of the project (for example, the Minister responsible for energy, in the case of a project to construct a solar farm):
+      (ii) the administration of a specified Act that relates to a proposed approval for the project or to an approval being sought in the substantive application (for example, the Minister responsible for the administration of the Heritage New Zealand Pouhere Taonga Act 2014, in the case of a project that requires an archaeological authority)
   - **reservation** , in relation to an approval described in section 42(4)﻿(a) or (b) regarding aquaculture activities to be undertaken in the coastal marine area, means a decision by a panel or a recommendation by the relevant chief executive that they are not satisfied that the aquaculture activities authorised by the approval will not have an undue adverse effect on fishing
   - **responsible agency** means the Secretary for the Environment
   - **specified Act** means any of the following:
@@ -165,8 +172,8 @@ The purpose of this Act is to facilitate the delivery of infrastructure and deve
     (b) weirs that comply with the conditions of regulation 72 of the Resource Management (National Environmental Standards for Freshwater) Regulations 2020:
     (c) works—
       (i) that require active disturbance to a water body, including diversions, in-stream operations, and removal of gravel, that does not persist for more than 3 months; or
-      (ii) that are within 500 m of the coast and do not occur during the whitebaiting season; or
-      (iii) that are in an area known to be used for trout, salmon, or native fish spawning and do not occur during the spawning season; or
+      (ii) that require disturbance of any duration outside the whitebaiting season to a water body within 500 m of the coast; or
+      (iii) that require disturbance of any duration outside the relevant spawning season to a water body that is known for the spawning of trout, salmon, or native fish; or
       (iv) that require repeated disturbance to a water body and are temporary works for which there is a period of more than 6 months between each period of work
   - **substantive application** means an application under section 42 for 1 or more approvals for a listed project or a referred project
   - **taiāpure-local fishery** means a taiāpure-local fishery established under Part 9 of the Fisheries Act 1996
@@ -289,6 +296,18 @@ This Act binds the Crown.
   (a) includes a duty to act promptly in circumstances where no time limit has been set for the performance or exercise of a function, power, duty, or requirement under this Act:
   (b) applies to any chief executive of a department when they are providing any advice, report, or comment under this Act or supporting a Minister to do so.
 (3) A failure to comply with this section does not of itself invalidate the performance of a function or duty or the exercise of a power under this Act.
+
+### 10A Government policy statements
+(1) The Minister may issue a Government policy statement.
+(2) The purpose of a Government policy statement is to state the Government’s policies about the regional or national benefits of certain types of infrastructure or development projects.
+(3) Before issuing a Government policy statement, the Minister—
+  (a) must consult the relevant portfolio Ministers; and
+  (b) may consult any other person the Minister thinks appropriate.
+(4) The responsible agency must—
+  (a) notify a Government policy statement in the Gazette; and
+  (b) make a Government policy statement available on an internet site administered by or on behalf of the responsible agency.
+(5) See section 22(1A), which requires the Minister to consider a relevant Government policy statement when making a decision to accept or decline a referral application.
+(6) See section 81(2)﻿(aab), which requires a panel to consider a relevant Government policy statement when making a decision whether to grant an approval and set any conditions, or to decline the approval.
 
 ## Part 2 — Fast-track approvals process
 
@@ -476,7 +495,7 @@ If the Minister receives a referral application from the responsible agency unde
 (4) Those Ministers must respond to the responsible agency within 10 working days after receiving the draft report.
 
 ### 19 Report in relation to use of public conservation land
-(1) If a project area includes public conservation land, the Minister must, for the referral application, obtain and consider a report that is prepared by the Director-General of Conservation in accordance with this section.
+(1) If a project area includes public conservation land, the Minister must, for a referral application, obtain and consider a report that is prepared by the Director-General of Conservation in accordance with this section.
 (2) The report must set out—
   (a) the existing arrangements (whether formal or informal) for the administration, access to, or use of public conservation land within the project area; and
   (b) advice on the risks to, and potential liabilities of, the Crown that relate to any proposed approvals of the kind described in section 42(4)﻿(e), (f), (l), or (m) (concession, land exchange, or access arrangement); and
@@ -536,6 +555,7 @@ Avoidance of doubt and definitions
   (b) referring the project to the fast-track approvals process—
     (i) would facilitate the project, including by enabling it to be processed in a more timely and cost-effective way than under normal processes; and
     (ii) is unlikely to materially affect the efficient operation of the fast-track approvals process.
+(1A) For the purposes of subsection (1)﻿(a), the Minister must consider a relevant Government policy statement.
 (2) For the purposes of subsection (1)﻿(a), the Minister may consider—
   (a) whether the project—
     (i) has been identified as a priority project in a central government, local government, or sector plan or strategy (for example, in a general policy statement or spatial strategy), or a central government infrastructure priority list:
@@ -547,6 +567,7 @@ Avoidance of doubt and definitions
     (vii) will support climate change mitigation, including the reduction or removal of greenhouse gas emissions:
     (viii) will support climate change adaptation, reduce risks arising from natural hazards, or support recovery from events caused by natural hazards:
     (ix) will address significant environmental issues:
+    (ixa) will promote competition in the grocery industry:
     (x) is consistent with local or regional planning documents, including spatial strategies:
   (b) any other matters the Minister considers relevant.
 (3) Subsection (4) applies if—
@@ -606,9 +627,9 @@ Minister may decline to make determination for any reason
 
 ### 25 Timing of decision to decline referral application
 (1) A decision to decline a referral application may be made, in accordance with section 21,—
-  (a) before or after comments on the application are invited under section 17(1):
-  (b) before or after a report on the application is obtained under section 18 or 19:
-  (c) whether or not further information on the application is requested and provided under section 20.
+  (a) before or after comments are invited under section 17(1):
+  (b) before or after a report is obtained under section 18 or 19:
+  (c) whether or not further information is requested and provided under section 20.
 (2) However, if a report has been obtained, or if comments or further information have been sought and provided within the required time frame, the Minister must consider those things, along with the referral application, before deciding to decline the application.
 
 **Steps if referral application accepted**
@@ -684,20 +705,20 @@ Minister may decline to make determination for any reason
 (1) This section applies if—
   (a) a substantive application for a listed project or a referred project is to seek an approval described in section 42(4)﻿(a) (resource consent); and
   (b) the authorised person for the project does not hold an existing resource consent for the same activity using some or all of the same natural resource.
-(2) Before lodging the substantive application, the authorised person must notify in writing each consent authority that has jurisdiction over an area where the approval would apply.
-(3) A consent authority that receives the notice must, by written notice, advise the authorised person—
+(2) Before lodging the substantive application, the authorised person must notify in writing each regional council that is the consent authority for an area where the approval would apply.
+(3) A regional council that receives the notice must, within 10 working days after receiving it, notify the authorised person in writing—
   (a) of any existing resource consent to which section 124C(1)﻿(c) or 165ZI of the Resource Management Act 1991 would apply if the approval were to be applied for as a resource consent under that Act; or
   (b) that there are no existing resource consents of that kind.
-(4) If there is an existing resource consent of the kind referred to in subsection (3)﻿(a), the consent authority must notify the holder of the existing resource consent in writing that—
-  (a) the consent authority has received notice under this section; and
+(4) If there is an existing resource consent of the kind referred to in subsection (3)﻿(a), the regional council must notify the holder of the existing resource consent in writing that—
+  (a) the regional council has received notice under this section; and
   (b) the holder of the existing resource consent may—
     (i) lodge an application for a resource consent under the Resource Management Act 1991 that is affected by section 124 or 165ZH of that Act; or
     (ii) if the existing resource consent relates to a listed project or referred project for which a substantive application has not been lodged, lodge a substantive application that seeks an approval described in section 42(4)﻿(a) (resource consent) for the same activity as is authorised by the existing resource consent.
-(5) The consent authority must notify the authorised person in writing if the holder of the existing resource consent—
-  (a) notifies the consent authority in writing that they do not propose to lodge an application described in subsection (4)﻿(b); or
+(5) The regional council must notify the authorised person in writing if the holder of the existing resource consent—
+  (a) notifies the regional council in writing that they do not propose to lodge an application described in subsection (4)﻿(b); or
   (b) does or does not lodge an application described in that subsection more than 3 months before the expiry of the existing resource consent.
 (6) The authorised person—
-  (a) must not lodge the substantive application until they receive a notice under subsection (3)﻿(b) or (5) from each consent authority or for each existing resource consent, as the case may be; and
+  (a) must not lodge the substantive application until they receive a notice under subsection (3)﻿(b) or (5) from each regional council or for each existing resource consent, as the case may be; and
   (b) if they wish to lodge a substantive application after receiving those notices, must do so within 3 months after the date of the earliest notice.
 (7) If there is more than 1 authorised person for a project,—
   (a) subsection (1)﻿(b) is met if none of the authorised persons hold the resource consent referred to in that paragraph; and
@@ -714,8 +735,12 @@ Minister may decline to make determination for any reason
 
 **Preliminary steps for application for land exchange**
 
-### 32 Sections 33 to 36 apply to land exchange
-Sections 33 to 36 apply if a substantive application for a listed project or a referred project is to seek an approval described in section 42(4)﻿(f) (land exchange).
+### 32 Sections 32A to 36 apply to land exchange
+Sections 32A to 36 apply if a substantive application for a listed project or a referred project is to seek an approval described in section 42(4)﻿(f) (land exchange).
+
+### 32A Pre-lodgement consultation with Director-General of Conservation
+(1) Before lodging a land exchange application under section 33, the authorised person for the project must consult the Director-General of Conservation.
+(2) If there is more than 1 authorised person for a project, any 1 of the authorised persons may comply with subsection (1) on behalf of all of them.
 
 ### 33 Land exchange application lodged with Director-General of Conservation
 (1) Before lodging the substantive application, the authorised person for the project must lodge with the Director-General of Conservation a land exchange application that consists of—
@@ -747,11 +772,13 @@ Director-General of Conservation invites comments for report
   (a) the persons and groups referred to in section 53(2)﻿(a) to (l); and
   (b) the persons listed in clause 25 of Schedule 6; and
   (c) any persons or groups specified by the Minister under section 27(3)﻿(c)﻿(iii); and
-  (d) any groups with recognised negotiation mandates for, or current negotiations for, Treaty settlements in the area of the proposed land exchange.
-(2) For the purposes of subsection (1), sections 53(3), 54, and 55, including the time frames for comments and responses, apply—
+  (d) any groups with recognised negotiation mandates for, or current negotiations for, Treaty settlements in the area of the proposed land exchange; and
+  (e) any other person the Director-General of Conservation considers appropriate.
+(2) For the purposes of subsection (1), sections 54 and 55, including the time frames for comments and responses, apply—
   (a) as if references in those sections to a panel or the EPA were references to the Director-General of Conservation; and
   (b) as if references in those sections to the area to which the substantive application relates were references to the area of the land exchange; and
   (c) with any other necessary modifications.
+(2A) Any comments made by a relevant local authority or a relevant administering agency must be relevant to the proposed land exchange and the report that the Director-General is required to prepare under this section.
 Director-General of Conservation prepares report
 (3) The Director-General of Conservation must provide a report to the applicant that includes—
   (a) the matters specified in clause 26 of Schedule 6; and
@@ -1139,8 +1166,8 @@ Application of Local Government Official Information and Meetings Act 1987
 ### 60 When processing of substantive application may be suspended
 (1) Processing of a substantive application may be suspended in the following circumstances:
   (a) by direction of the EPA under section 61:
-  (b) by direction of the Minister under section 62:
-  (c) at the discretion of the panel following a request under section 64 by the applicant:
+  (b) by direction of the panel convener under section 62:
+  (c) at the discretion of the panel convener or the panel following a request under section 64 by the applicant:
   (d) if the EPA commissions advice under section 68(2)﻿(b).
 (2) Any time frame under this Act that relates to the processing of a substantive application excludes any period during which processing of the application is suspended.
 
@@ -1157,27 +1184,27 @@ Application of Local Government Official Information and Meetings Act 1987
   (a) suspend processing of the substantive application if they receive a notice under subsection (1); and
   (b) resume processing of the application if they receive a notice under subsection (2).
 
-### 62 Minister may direct suspension in processing substantive application
-(1) The Minister may, at any time after a substantive application has been provided to a panel, give a written direction, with reasons, to the EPA that processing of the application be suspended.
-(2) The Minister may give a direction under subsection (1) if the Minister considers that—
+### 62 Panel convener may direct suspension in processing substantive application
+(1) The panel convener may, at any time after a substantive application has been provided to a panel, give a written direction, with reasons, to the EPA that processing of the application be suspended.
+(2) The panel convener may give a direction under subsection (1) if the panel convener considers that—
   (a) different or further approvals are required in respect of the project; and
   (b) those approvals relate to the same specified Act as an approval that is sought in the substantive application; and
   (c) the nature of the project would be better understood if the substantive application were amended to seek those approvals before the panel proceeds further.
-(3) If the EPA receives a direction from the Minister under subsection (1), the EPA must, within 5 working days after receiving the direction, give notice of the direction to—
+(3) If the EPA receives a direction from the panel convener under subsection (1), the EPA must, within 5 working days after receiving the direction, give notice of the direction to—
   (a) the panel; and
   (b) the relevant local authorities; and
   (c) the applicant; and
   (d) if advice or a report has been requested from a person under section 51 and is yet to be provided to the EPA, that person; and
   (e) if a recommendation has been requested from the relevant chief executive under section 48 and is yet to be made, the relevant chief executive; and
   (f) if persons or groups have been invited to provide comments under section 35 or 53, those persons or groups.
-(4) A notice under subsection (3) must include a copy of the direction and reasons received from the Minister by the EPA.
+(4) A notice under subsection (3) must include a copy of the direction and reasons received from the panel convener by the EPA.
 (5) The panel and a person referred to in subsection (3)﻿(d) or (e) must suspend processing of the substantive application if they receive a notice under subsection (3).
 
 ### 63 Resumption in processing substantive application following suspension under section 62
-(1) The Minister may, at any time, by notice in writing with reasons, withdraw the direction given to the EPA under section 62.
-(2) Subsection (3) applies if the Minister's direction is withdrawn before the substantive application is amended to seek the different or further approvals referred to in section 62(2).
-(3) If this subsection applies, the panel and any person notified under section 62(3)﻿(d) or (e) must resume processing the original substantive application from the date on which the Minister's direction is withdrawn.
-(4) Subsection (5) applies if a substantive application is amended to seek the further or different approvals referred to in section 62(2) before the Minister's direction is withdrawn.
+(1) The panel convener may, at any time, by notice in writing with reasons, withdraw the direction given to the EPA under section 62.
+(2) Subsection (3) applies if the panel convener’s direction is withdrawn before the substantive application is amended to seek the different or further approvals referred to in section 62(2).
+(3) If this subsection applies, the panel and any person notified under section 62(3)﻿(d) or (e) must resume processing the original substantive application from the date on which the panel convener’s direction is withdrawn.
+(4) Subsection (5) applies if a substantive application is amended to seek the further or different approvals referred to in section 62(2) before the panel convener’s direction is withdrawn.
 (5) If this subsection applies, the panel and any person notified under section 62(3)﻿(d) or (e) must—
   (a) process the parts of the amended substantive application that relate to the further or different approvals as if they were a new substantive application (except for the purposes of section 81); and
   (b) resume processing the parts of the amended substantive application that relate to the approvals originally sought but, in doing so, observe the time frames set out in this Act that apply to the parts of the application described in paragraph (a).
@@ -1185,10 +1212,10 @@ Application of Local Government Official Information and Meetings Act 1987
 ### 64 Applicant may request suspension of processing substantive application
 (1) An applicant may make a written request to the EPA that processing of their substantive application be suspended.
 (2) A request may be made only in the period between—
-  (a) the time when the EPA provides the substantive application to the panel convener under section 46; and
+  (a) the time when the EPA provides the substantive application to the panel convener; and
   (b) the time when a panel makes its decisions under section 81 on the approvals sought in the application.
-(3) A panel may, at its discretion, suspend the processing of a substantive application when a request is made under subsection (1).
-(4) If a panel grants a suspension, the EPA must give notice of the date on which the panel suspended processing of the application to—
+(3) When a request is made under subsection (1), the panel convener or, if a panel has been set up, the panel, may suspend the processing of a substantive application at their or its discretion.
+(4) If the panel convener or a panel grants a suspension, the EPA must give notice of the date on which the panel convener or the panel suspended processing of the application to—
   (a) the applicant; and
   (b) if advice or a report has been requested from a person under section 51 and is yet to be provided to the EPA, that person; and
   (c) if a recommendation has been requested from the relevant chief executive under section 48 and is yet to be made, the relevant chief executive; and
@@ -1197,9 +1224,9 @@ Application of Local Government Official Information and Meetings Act 1987
 
 ### 65 Resumption in processing of substantive application following suspension under section 64
 (1) An applicant granted a suspension under section 64(3) may request in writing to the EPA that the processing of the substantive application be resumed.
-(2) If a request is made under subsection (1), the panel must resume processing the substantive application.
+(2) If a request is made under subsection (1), the panel convener or the panel must resume processing the substantive application.
 (3) The panel may decide under section 66(2)﻿(b) to resume processing the substantive application in the absence of a request under subsection (1).
-(4) If a panel resumes processing a substantive application under subsection (2) or (3), the EPA must give written notice of that fact, specifying the date on which the panel resumed processing, to the persons or groups notified of the suspension under section 64(4).
+(4) If the panel convener or a panel resumes processing a substantive application under subsection (2) or (3), the EPA must give written notice of that fact, specifying the date on which the panel convener or the panel resumed processing, to the persons or groups notified of the suspension under section 64(4).
 (5) A person referred to in section 64(4)﻿(b) or (c) must resume processing the substantive application if they receive a notice under subsection (4).
 
 ### 66 Return of substantive application
@@ -1207,12 +1234,12 @@ Application of Local Government Official Information and Meetings Act 1987
 (2) A panel must decide whether to—
   (a) return the substantive application to the applicant; or
   (b) resume processing the application.
-(3) The decision of a panel under this section must be notified in writing to—
+(3) The decision of the panel convener or a panel under this section must be notified in writing to—
   (a) the persons or groups notified under section 64(4); and
   (b) the relevant administering agencies.
-(4) If a panel decides to return the substantive application, it must be returned together with written reasons for its return.
+(4) If the panel convener or a panel decides to return the substantive application, it must be returned together with written reasons for its return.
 (5) If a substantive application that has been returned is lodged again with the EPA, the application must be treated as a new application.
-(6) If a substantive application is suspended more than once, the total number of working days during which processing is suspended must not be more than 50.
+(6) If a substantive application is suspended more than once, the total number of working days during which processing is suspended must not be more than 100.
 
 **Further information, etc**
 
@@ -1375,11 +1402,14 @@ Before a panel makes a decision under section 81 on an approval referred to in s
   (a) grant the approval and set any conditions to be imposed on the approval; or
   (b) decline the approval.
 (2) For the purpose of making the decision, the panel—
+  (aaa) must, if the substantive application relates to an unlisted project, consider the Minister’s reasons for accepting the referral application that are stated in the notice given by the responsible agency under section 28(1):
+  (aab) must consider a relevant Government policy statement:
   (a) must consider the substantive application and any advice, report, comment, or other information received by the panel under section 51, 52, 53, 55, 58, 67, 68, 69, 70, 72, or 90:
   (b) must apply the applicable clauses set out in subsection (3) (see those clauses in relation to the weight to be given to the purpose of this Act when making the decision):
   (c) must comply with section 82, if applicable:
   (d) must comply with section 83 in setting conditions:
   (e) may impose conditions under section 84:
+  (ea) may impose conditions under section 84A:
   (f) may decline the approval only in accordance with section 85.
 (3) For the purposes of subsection (2)﻿(b), the clauses are as follows:
   (a) for an approval described in section 42(4)﻿(a) (resource consent), clauses 17 to 22 of Schedule 5:
@@ -1398,7 +1428,7 @@ Before a panel makes a decision under section 81 on an approval referred to in s
   (n) for an approval described in section 42(4)﻿(m) (access arrangement), clauses 8, 9, and 10 of Schedule 11:
   (o) for an approval described in section 42(4)﻿(n) (mining permit), clauses 19 to 21 of Schedule 11.
 (4) When taking the purpose of this Act into account under a clause referred to in subsection (3), the panel must consider the extent of the project's regional or national benefits.
-(5) For the purposes of subsection (4), if the substantive application was made under section 42(1)﻿(b), the panel—
+(5) For the purposes of subsection (4), if the substantive application was made under section 42(1)﻿(aa) or (b), the panel—
   (a) must treat the stage of the project to which the application relates as constituting the project; but
   (b) may consider the regional or national benefits of the whole project, having regard to the likelihood that any later stages of the project will be completed.
 (6) Despite subsection (2)﻿(a), the panel—
@@ -1420,6 +1450,13 @@ When exercising a discretion to set a condition under this Act, the panel must n
 ### 84 Conditions relating to Treaty settlements and recognised customary rights
 (1) For the purposes of section 7, the panel may set conditions to recognise or protect a relevant Treaty settlement and any obligations arising under the Marine and Coastal Area (Takutai Moana) Act 2011 or the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019.
 (2) This section applies in addition to, and does not limit, any other powers to set conditions under this Act.
+
+### 84A Conditions relating to infrastructure
+(1) The panel may set conditions to ensure that the infrastructure in the project area or other infrastructure the project will rely on is or can be made adequate to support—
+  (a) the project; or
+  (b) the stage of the project to which the application relates.
+(2) This section applies in addition to, and does not limit, any other powers to set conditions under this Act.
+(3) To avoid doubt, a condition set under this section may impose an obligation on the applicant only.
 
 ### 85 When panel must or may decline approvals
 When approval must be declined
@@ -1516,6 +1553,20 @@ Despite section 90, if information sensitive to an iwi or a hapū is held by a r
 (2) The EPA must publish the written notice or other document on an internet site that is administered by or on behalf of the EPA and is publicly available as far as practicable and free of charge.
 (3) In complying with subsection (1), the EPA may withhold information if the EPA is satisfied that there would be good reason to withhold the information under the Official Information Act 1982 if the information were requested under that Act.
 
+### 93A Directions to EPA
+(1) The Minister may give a general direction to the EPA in relation to the EPA’s performance and exercise of its functions, duties, and powers under this Act.
+(2) Subsection (1) does not authorise the Minister to give a direction—
+  (a) in relation to a statutorily independent function of the EPA under this Act; or
+  (b) that requires the performance or exercise, or prevents the performance or exercise, of a particular function, duty, or power in relation to a particular person or substantive application.
+(3) The Minister must—
+  (a) notify the direction in the Gazette; and
+  (b) make the direction available on an internet site administered by or on behalf of the EPA; and
+  (c) present a copy of the direction to the House of Representatives.
+(4) Before giving a direction under subsection (1), the Minister must comply with section 115(1) of the Crown Entities Act 2004.
+(5) In this section, statutorily independent function means—
+  (a) any function that this Act provides must be carried out independently; or
+  (b) any matter in respect of which this Act provides that Ministers of the Crown may not give directions.
+
 ### Subpart 4 — Other provisions relating to approvals
 
 ### 94 Use of specified Act to apply for approval
@@ -1582,7 +1633,7 @@ Despite section 90, if information sensitive to an iwi or a hapū is held by a r
   (a) the applicant (or, if the substantive application was lodged by more than 1 authorised person, the person who was proposed to hold the approval):
   (b) any relevant local authority:
   (c) the Attorney-General:
-  (d) any person or group that provided comments in response to an invitation given under this Act.
+  (d) any person or group that provided comments in response to an invitation given under section 17(1) or 53(2) or any of section 35(1)﻿(a) to (d).
 (2) No appeal may be made to the Court of Appeal against a determination of the High Court under this section.
 (3) However, a party may apply to the Supreme Court for leave to bring an appeal to that court against a determination of the High Court and, for this purpose, sections 73 to 76 of the Senior Courts Act 2016 apply with any necessary modifications.
 (4) If the Supreme Court refuses to give leave for an appeal (on the grounds that exceptional circumstances have not been established under section 75 of the Senior Courts Act 2016) but considers that a further appeal from the determination of the High Court is justified, the court may remit the proposed appeal to the Court of Appeal.
@@ -1642,7 +1693,7 @@ To avoid doubt, no right of appeal, review, or reconsideration under a specified
 
 ### 103 Interpretation
 In subpart 2 and sections 104 to 112, unless the context otherwise requires,—
-  - **administering agency** has the meaning given in section 4(1), and also includes the Ministry for Primary Industries, the Office for Māori Crown Relations—Te Arawhiti, and the Ministry of Māori Development—Te Puni Kōkiri in relation to their functions, duties, and powers under this Act
+  - **administering agency** has the meaning given in section 4(1), and also includes the Ministry for the Environment, the Ministry for Culture and Heritage, the Ministry for Primary Industries, the Office for Māori Crown Relations—Te Arawhiti, and the Ministry of Māori Development—Te Puni Kōkiri in relation to their functions, duties, and powers under this Act
   - **agency** means the EPA, the responsible agency, an administering agency, or a relevant local authority
   - **application** means a referral application, a land exchange application, or a substantive application
   - **functions, duties, and powers under this Act** , in relation to the recovery of costs, includes—
@@ -1663,17 +1714,17 @@ In subpart 2 and sections 104 to 112, unless the context otherwise requires,—
     (b) any other class of persons specified as a third party by regulations.
 
 ### 104 Cost recovery
-(1) An agency may recover from a person who intends to lodge an application the actual and reasonable costs incurred by the agency in consulting and providing assistance to the person before the application is lodged (whether or not the application is subsequently lodged).
+(1) An agency may recover from a person who intends to lodge an application the actual and reasonable costs (determined in accordance with regulations made under section 108, if any) incurred by the agency in consulting and providing assistance to the person before the application is lodged (whether or not the application is subsequently lodged).
 (2) If a person lodges an application,—
-  (a) the EPA may recover from the person the actual and reasonable costs incurred by the EPA and any other agency in performing or exercising their functions, duties, or powers under this Act in relation to the application; and
-  (b) the Minister may recover from the person the actual and reasonable costs incurred in relation to a panel and a panel convener in performing or exercising their functions, powers, and duties under this Act in relation to the application.
+  (a) the EPA may recover from the person the actual and reasonable costs (determined in accordance with regulations made under section 108, if any) incurred by the EPA and any other agency in performing or exercising their functions, duties, or powers under this Act in relation to the application; and
+  (b) the Minister may recover from the person the actual and reasonable costs (determined in accordance with regulations made under section 108, if any) incurred in relation to a panel and a panel convener in performing or exercising their functions, powers, and duties under this Act in relation to the application.
 (3) The following applies in relation to the recovery of costs incurred in respect of the preliminary steps set out in sections 29 to 31 and 37 to 39:
   (a) if a substantive application is not lodged,—
-    (i) an agency may recover from the authorised person the actual and reasonable costs incurred by the agency in performing or exercising its functions, duties, or powers; and
-    (ii) the Minister may recover from the authorised person the actual and reasonable costs incurred by the Minister in performing or exercising their functions, duties, or powers; and
+    (i) an agency may recover from the authorised person the actual and reasonable costs (determined in accordance with regulations made under section 108, if any) incurred by the agency in performing or exercising its functions, duties, or powers; and
+    (ii) the Minister may recover from the authorised person the actual and reasonable costs (determined in accordance with regulations made under section 108, if any) incurred by the Minister in performing or exercising their functions, duties, or powers; and
   (b) if a substantive application is lodged,—
-    (i) the EPA may recover from the applicant the actual and reasonable costs incurred by the EPA and any other agency in performing or exercising their functions, duties, or powers; and
-    (ii) the Minister may recover from the applicant the actual and reasonable costs incurred in relation to a panel and a panel convener in performing or exercising their functions, powers, and duties.
+    (i) the EPA may recover from the applicant the actual and reasonable costs (determined in accordance with regulations made under section 108, if any) incurred by the EPA and any other agency in performing or exercising their functions, duties, or powers; and
+    (ii) the Minister may recover from the applicant the actual and reasonable costs (determined in accordance with regulations made under section 108, if any) incurred in relation to a panel and a panel convener in performing or exercising their functions, powers, and duties.
 (4) The EPA may recover from the applicant the costs of contributions made under section 110 to the costs of relevant third parties.
 (5) The EPA must—
   (a) recover costs recoverable under this section on behalf of the Minister or another agency if requested to do so by that Minister or agency; and
@@ -1691,7 +1742,9 @@ In subpart 2 and sections 104 to 112, unless the context otherwise requires,—
   (a) fixed fees or charges:
   (b) estimated fees or charges, or fees or charges based on estimated costs, paid before the performance of the function, duty, or power, followed by reconciliation and 1 or more further payments or refunds:
   (c) levies.
-(2) In the case of fees or charges described in subsection (1)﻿(b), all interest accruing from the fee or charge in the period after payment is retained by the EPA and applied to the costs that may be recovered under section 104.
+(2) Interest accruing from the fees, charges, and levies described in subsection (1) in the period after payment is retained by the EPA and applied to any 1 or more of the costs that may be—
+  (a) recovered under section 104:
+  (b) met under section 109(1)﻿(a) by the imposition of a levy.
 
 ### 107 Liability to pay costs constitutes debt due
 (1) Subsection (2) applies when—
@@ -1705,6 +1758,10 @@ In subpart 2 and sections 104 to 112, unless the context otherwise requires,—
 
 ### 108 Regulations may set fees, charges, and contributions
 (1) Regulations may do any of the following:
+  (aaa) provide for the costs that may be recovered under section 104(1), (2), or (3), including by—
+    (i) setting upper limits:
+    (ii) setting out criteria for the quantification of costs:
+    (iii) including or excluding certain categories of costs in or from the costs that may be recovered:
   (a) set the amounts of fees and charges, estimated fees or charges, or fees or charges based on estimated costs (the fees or charges) for any matters for which costs may be recovered under section 104:
   (b) in the case of estimated fees or charges, set out a reconciliation process, which may be based on charging rates set by an agency, to establish any further payment or refund that may be required in respect of an application:
   (c) set the method by which the amount of any fee or charge is to be calculated:
@@ -1714,7 +1771,8 @@ In subpart 2 and sections 104 to 112, unless the context otherwise requires,—
   (g) set—
     (i) the method by which the amount of the contribution that may be claimed by a relevant third party is to be calculated; or
     (ii) the amount of that contribution:
-  (h) set out the process required to be followed, or require a process publicly notified by the EPA to be followed, for a relevant third party to claim a contribution to their costs.
+  (h) set out the process required to be followed, or require a process publicly notified by the EPA to be followed, for a relevant third party to claim a contribution to their costs:
+  (i) provide for, or set out, a dispute resolution process in relation to costs sought to be recovered under section 104.
 (2) If regulations made in relation to subsection (1)﻿(e) authorise the EPA to grant an exemption, waiver, or refund,—
   (a) an instrument granting an exemption, waiver, or refund is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only in a particular case; and
   (b) the regulations must contain a statement to that effect.
@@ -1825,6 +1883,17 @@ Schedules 5 to 12 have effect according to their terms.
   (b) for the purposes of subsection (3)﻿(d)﻿(i), the application must set out evidence that each person would be eligible to apply for each approval under a specified Act that corresponds to an approval that the person is proposed to hold for the project under this Act.
 (6) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
+### 117A Order in Council to amend description in Schedule 2
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 2 to amend—
+  (a) the project description of a listed project:
+  (b) the description of the approximate geographical location of a listed project.
+(2) The Minister must not make the recommendation unless the Minister is satisfied that the scope of the listed project will not be substantially different as a result of the amendment, taking into account—
+  (a) the significant regional or national benefits of the project; and
+  (b) the purpose of the project; and
+  (c) the location, scale, and nature of the works involved in the project.
+(3) To avoid doubt, no new projects may be added to the list in Schedule 2 by an Order in Council made under this section.
+(4) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
 ### 118 Order in Council to amend Schedule 4
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, amend Schedule 4.
 (2) Before making a recommendation, the Minister of Conservation must consult to the extent that is reasonably practicable, having regard to all the circumstances of the particular case, those persons the Minister has reason to believe are representative of interests likely to be substantially affected by the Order in Council or representative of some aspect of the public interest.
@@ -1879,7 +1948,83 @@ The following may not be lodged before 7 February 2025:
   (d) information relating to an approval described in section 42(4)﻿(n) (mining permit) that would be lodged under section 37:
   (e) a substantive application.
 
-## Schedule 2 — Listed projects
+### Part 2 — Provisions relating to Fast-track Approvals Amendment Act 2025
+
+### 5 Interpretation
+In this Part,—
+  - **amendment Act** means the Fast-track Approvals Amendment Act 2025
+  - **application** means any of the following:
+    (a) a land exchange application:
+    (b) a referral application:
+    (c) a substantive application
+  - **first commencement date** means the date on which the amendment Act comes into force under section 2(1) of that Act (the day after the amendment Act receives Royal assent)
+  - **new clause** means the specified clause as amended, replaced, or inserted by the amendment Act
+  - **new section** means the specified section as amended, replaced, or inserted by the amendment Act
+  - **old section** means the specified section as in force immediately before being amended, replaced, or inserted by the amendment Act
+  - **second commencement date** means the date on which the amendment Act comes into force under section 2(2) of that Act (31 March 2026).
+
+**Transitional provisions relating to applications**
+
+### 6 Application of amendments to applications lodged before first commencement date
+(1) This Act, as in force immediately before the first commencement date, continues to apply in respect of an application lodged before the first commencement date.
+(2) However,—
+  (a) if the application is a referral application and it is not decided under section 21 before the first commencement date, new section 22 applies in respect of that application on and after the first commencement date:
+  (b) if the application is a substantive application and the approvals sought in the application have not been decided under section 81 before the first commencement date, the following provisions apply in respect of that application on and after the first commencement date:
+    (i) new section 60:
+    (ii) new sections 62 to 66:
+    (iii) new section 81:
+    (iv) new section 84A:
+    (v) new clause 20 of Schedule 11:
+  (c) if the application is a substantive application and the approvals sought in the application have not been decided under section 81 before the second commencement date, the following provisions apply in respect of that application on and after the second commencement date:
+    (i) new sections 68A and 68B:
+    (ii) new section 88.
+
+### 7 Application of amendments to applications lodged between first commencement date and second commencement date
+(1) This Act, as in force on the first commencement date, continues to apply in respect of an application that is lodged—
+  (a) on or after the first commencement date; but
+  (b) before the second commencement date.
+(2) However, if the application is a substantive application and the approvals sought in the application have not been decided under section 81 before the second commencement date, the following provisions apply in respect of that application on and after the second commencement date:
+  (a) new sections 68A and 68B:
+  (b) new section 88.
+
+### 8 Application of amendments to applications lodged after second commencement date
+This Act, as in force on the second commencement date, applies in respect of an application that is lodged on or after the second commencement date.
+
+### 9 Application of clauses 10 to 14
+Clauses 10 to 14 apply despite clause 7 or 8 (whichever applies).
+
+### 10 Notification under section 11 if consultation undertaken before second commencement date
+(1) This clause applies if an applicant has, as at the second commencement date, consulted or started consulting under old section 11.
+(2) The applicant is not required to notify any person or group referred to in section 11(1)﻿(b) that the applicant consulted or started consulting before the second commencement date.
+(3) The applicant must notify any person or group referred to in section 11(1)﻿(b) that the applicant has not consulted or started consulting before the second commencement date.
+(4) The applicant must finish their pre-commencement consultation.
+(5) Section 13(4)﻿(k)﻿(i) applies, in respect of pre-commencement consultation, as if the reference to consultation undertaken for the purposes of section 11(1)﻿(a) were a reference to consultation undertaken for the purposes of old section 11.
+(6) In this clause, pre-commencement consultation means consultation that was completed or started under old section 11 before the second commencement date.
+
+### 11 Notification under section 29 if consultation undertaken before second commencement date
+(1) This clause applies if an authorised person has, as at the second commencement date, consulted or started consulting under old section 29.
+(2) The authorised person is not required to notify any person or group referred to in section 29(1)﻿(aa) that the authorised person consulted or started consulting before the second commencement date.
+(3) The authorised person must notify any person or group referred to in section 29(1)﻿(aa) that the authorised person has not consulted or started consulting before the second commencement date.
+(4) The authorised person must finish their pre-commencement consultation.
+(5) Section 43(2)﻿(a)﻿(i) applies, in respect of pre-commencement consultation, as if the reference to section 29 were a reference to old section 29.
+(6) In this clause, pre-commencement consultation means consultation that was completed or started under old section 29 before the second commencement date.
+
+### 12 Identification of existing resource consent if notification provided before first commencement
+(1) This clause applies if an authorised person has, as at the first commencement date, notified 1 or more consent authorities under old section 30(2).
+(2) Old section 30 continues to apply in respect of the substantive application.
+
+### 13 Appeal by person or group that received invitation to comment before first commencement date
+Old section 99 continues to apply in respect of any person or group that, before the first commencement date, received an invitation to comment under this Act.
+
+### 14 Interest on fees, charges, and levies paid before first commencement date
+Section 106(2) applies in respect of any fees, charges, and levies described in section 106(1) that are paid before the first commencement date.
+
+**Transitional provision relating to consultation on Government policy statement**
+
+### 15 Consultation on Government policy statement undertaken before first commencement date
+Any consultation undertaken before the first commencement date that is of the kind referred to in new section 10A(3) must be treated as consultation required for the purposes of that section.
+
+## Schedule 2 — Listed projects with significant regional or national benefits
 
 | Authorised person | Project name | Project description | Approximate geographical location |
 | --- | --- | --- | --- |
@@ -1889,7 +2034,7 @@ The following may not be lodged before 7 February 2025:
 | Auckland Transport | Airport to Botany Bus Rapid Transit | Construct and operate a Bus Rapid Transit facility, and walking and cycling facilities, connecting the Auckland International Airport Precinct to Botany Town Centre through Manukau Central | Botany Town Centre to Auckland International Airport via Te Irirangi Drive, Great South Road, Ronwood Avenue, Osterley Way, Manukau Station Road, Lambie Drive, Puhinui Road, and State Highway 20B ending at Orrs Road |
 | Auckland Transport | Auckland Level Crossings Removals | In stages, remove and grade separate approximately 42 level crossings | Auckland |
 | Auckland Transport | Papakura to Pukekohe Route Protection—Fourtracking and Active Mode Corridor | In stages, remove 6 level crossings and associated crossing interventions, and establish an active mode corridor from Pukekohe to Drury Railway Station | North Island Main Trunk railway line between Papakura and Pukekohe, Auckland |
-| Bathurst Coal Limited, Bathurst Resources Limited, BT Mining Limited, Buller Coal Limited | Buller Plateaux Continuation | Expand existing coking coal mining activities, and extend the life of the mine, to enable the extraction of, approximately, an additional 20 million tonnes over 25 years, including—water diversion, and water control and treatment facilitieshistoric acid mine drainage rehabilitation | Within the Buller Coal Plateaux: Stockton Plateau: Stockton Mine (including the aerial ropeway and Ngakawau Rail loadout area), and Upper Waimangaroa mine permit area (includes Mt Fred South)Denniston Plateau (near Westport): Escarpment Mine permit area and Whareatea West mine permit application area (Escarpment Extension), and Sullivan Coal Mining Licence area |
+| Bathurst Coal Limited, Bathurst Resources Limited, BT Mining Limited, Buller Coal Limited | Buller Plateaux Continuation | Expand existing coking coal mining activities, and extend the life of the mine, to enable the extraction of, approximately, an additional 20 million tonnes over 25 years, including—water diversion, and water control and treatment facilitieshistoric acid mine drainage rehabilitation | Within the Buller Coal Plateaux:Stockton Plateau: Stockton Mine (including the aerial ropeway and Ngakawau Rail loadout area), and Upper Waimangaroa mine permit area (includes Mt Fred South)Denniston Plateau (near Westport): Escarpment Mine permit area and Whareatea West mine permit application area (Escarpment Extension), and Sullivan Coal Mining Licence area |
 | Beachlands South Limited Partnership | Beachlands South | Develop approximately 2,700 residential dwellings, including community and commercial spaces, approximately 88 hectares of protected ecological restoration area, walking and cycling networks, and community facilities, and enable the potential development of 2 schools | 110 Jack Lachlan Drive, Beachlands, Auckland |
 | Bell Road Limited Partnership | Wairakei South | Develop rural land for residential, commercial, and industrial use, including up to approximately 2,000 to 3,000 residential allotments, approximately 60 to 80 hectares of new industrial land, stormwater corridors and management areas, and a State Highway Buffer Reserve | 123 to 340 hectares at Bell Road, Papamoa |
 | Ben Dormer | West Rangiora Residential Development | Subdivide land and develop (in stages) approximately 700 to 780 residential dwellings (400 to 480 in Stage 1 and 300 in Stage 2) | 40 hectares, between Oxford Road, Lehmans Road, Johns Road, and Acacia Avenue, Rangiora |
@@ -1919,9 +2064,9 @@ The following may not be lodged before 7 February 2025:
 | Gisborne District Council | Tokomaru Bay Legacy Landfill Contaminated Land Remediation | Remove and remediate the historic contaminated landfill and site to return the site to its original floodplain state | Refuse Transfer Station site at the end of Paikea St, 31 Paikea Street, Tokomaru Bay, and abutting the true left bank of a meander in the Mangahauini River |
 | Golden Ridge Farm Limited, Golden Ridge Park Limited, Industre Property Rua Limited, Southpark Agri Development Limited, Theodoor Bongers Limited, Hamilton City Council | Southern Links 1 | Subdivide land and develop approximately 1035 residential allotments across approximately 48 hectares, and land for industrial activity across approximately 66 hectares | 3 to 4 kilometres southwest of Hamilton City Centre, Waipa District, partially bound by State Highway 3 to the southeast, the North Island Main Trunk Rail to the northeast, and the Hamilton Southern Links designation to the west |
 | Grassmere Estates Limited | Grassmere Residential Development | Develop approximately 528 residential dwellings | 17 hectares at 45, 57, 59, 63, and 69 Grassmere Street, Papanui, Christchurch |
-| Harmony Energy NZ #5 Limited | Bunnythorpe Solar Farm | Construct and operate a solar farm of approximately 660,000 solar panels, and connect and supply electricity to the national grid | 433 hectares at Bunnythorpe, Manawatū-Whanganui |
-| Harmony Energy NZ #6 Limited | Hinuera Solar Farm | Construct and operate a solar farm of approximately 180,000 solar panels, and connect and supply electricity to the national grid | 152 hectares at Hinuera, Waikato |
-| Harmony Energy NZ #8 Limited | Huirangi Solar Farm | Construct and operate a solar farm of approximately 165,000 solar panels, and connect and supply electricity to the national grid | 433 hectares at Huirangi, Taranaki |
+| Harmony Energy NZ #5 Limited | Bunnythorpe Solar Farm | Construct, operate, and maintain a solar farm and battery energy storage facility with an installed capacity of approximately 400 MW DC, and connect and supply electricity to the national grid | 433 hectares at Bunnythorpe, Manawatū-Whanganui |
+| Harmony Energy NZ #6 Limited | Hinuera Solar Farm | Construct, operate, and maintain a solar farm and battery energy storage facility with an installed capacity of approximately 100 MW DC, and connect and supply electricity to the national grid | 152 hectares at Hinuera, Waikato |
+| Harmony Energy NZ #8 Limited | Huirangi Solar Farm | Construct, operate, and maintain a solar farm and battery energy storage facility with an installed capacity of approximately 100 MW DC, and connect and supply electricity to the national grid | 150 hectares near Huirangi, Taranaki |
 | ImpactMarine (Bluff) Limited | Impact Marine—Sustainable and Climate Resilient Aquaculture on Land in Southland | Construct and operate an on-land salmon farm and processing facility, including—a land-based recirculatory aquaculture system salmon farmhatchery, smolt and grow-out facilities, and a processing plant and buildings | 250 Ocean Beach Road and 68 Nicol Road, Bluff, Southland |
 | Invercargill City Council | Alternate Water Supply Project | Develop a secondary water source for Invercargill from groundwater bores, including a treatment facility, additional water storage, and pumping infrastructure | 1276 Bluff Highway, Awarua, Southland |
 | K B Contracting & Quarries Limited | Miners Road Northern Expansion | Expand existing aggregate extraction activities over a 25-to-30-year period | 405, 431, 441, and 455 Old West Coast Road, Christchurch |
@@ -1931,9 +2076,9 @@ The following may not be lodged before 7 February 2025:
 | Kings Quarry Limited | Kings Quarry Expansion—Stages 2 and 3 | Expand existing quarrying activities to enable the extraction and processing of up to approximately 500,000 tonnes per annum for up to 100 years (up to 60 years for Stage 2 and up to 40 years for Stage 3) | 60 hectares (of 152-hectare total site) at 306 Pebble Brook Road, Wainui, Auckland |
 | Kingsgate Holdings Limited | Kingsgate—Oriana Reserve | Develop approximately 93 to 97 residential dwellings | 219 to 235 Tremaine Avenue and 16 to 18 Henley Court, Palmerston North |
 | Kiwi Property Holdings No. 2 Limited | Drury Metropolitan Centre–Consolidated Stages 1 and 2 | Develop land for future residential activity and a commercial retail centre (including, approximately, 10,000 square metres commercial, 56,000 square metres retail, and 2,000 square metres community activity) | 53.2 hectares within the Drury Centre Precinct, bound by Flanagan Road, Brookfield Road, and Fitzgerald Road, at 61 and 97 Brookfield Road, 133, 139, 155, 173, and 189 Fitzgerald Road, and 68, 108, 120, 124, 128, and 132 Flanagan Road, South Auckland |
-| KiwiRail Holdings Limited | Crosstown (Avondale–Southdown) Corridor | Complete a cross-isthmus rail corridor connecting Avondale and Westfield Junction, via Onehunga, by—constructing an approximately 13 kilometre, 2-track, railway from Avondale via Wesley, Mt Roskill, and Onehunga to KiwiRail’s Southdown freight hubconnecting the corridor to the existing North Island Main Trunk via Westfield Junction | Between Avondale (PAK’nSAVE New North Road) and Westfield Junction, Auckland |
-| KiwiRail Holdings Limited | Four Tracking Westfield to Pukekohe | Widen the existing rail corridor and expand the North Island Main Trunk between Westfield Junction (Newmarket) and Pukekohe (approximately 38 kilometres) from a 2-track to 4-track railway, including—grade-separating Westfield Junctionwidening bridges, removing level crossings, and changing the configuration of station platformsnew track, signals, and electrified lines | 38 kilometres of the North Island Main Trunk between Westfield Newmarket and Pukekohe |
-| KiwiRail Holdings Limited | Lower North Island Integrated Rail Mobility and PBC—Stage RS4.3 | Upgrade existing rail network, comprising new or extended passing loops, additional stabling (Wellington and Palmerston North), a new depot and stabling facility (Masterton), and station upgrades (north of Waikanae and Wairarapa) | National rail network, comprising—Wairarapa Line (between Wellington and Masterton)North Island Main Trunk Line (between Wellington and Palmerston North) |
+| KiwiRail Holdings Limited | Crosstown (Avondale–Southdown) Corridor | Complete a cross-isthmus rail corridor connecting Avondale and Westfield Junction, via Onehunga, by—constructing an approximately 13-kilometre, 2-track railway from Avondale via Wesley, Mt Roskill, and Onehunga to KiwiRail’s Southdown freight hubconstructing up to 6 new railway stations for metro passenger servicesconnecting the corridor to the existing North Island Main Trunk via a modified grade-separated Westfield Junction | Between Avondale (PAK’nSAVE New North Road) and Westfield Junction, Auckland |
+| KiwiRail Holdings Limited | Four Tracking Westfield to Pukekohe | Widen the existing rail corridor and expand the North Island Main Trunk between Westfield Junction and Pukekohe (approximately 38 kilometres) from a 2-track to 4-track railway, including—grade-separating Westfield Junctionwidening bridges, removing level crossings, and modifying stations, including modifying the configuration of station platformsnew track, signals, and electrified lines | 38 kilometres of the North Island Main Trunk between Westfield and Pukekohe |
+| KiwiRail Holdings Limited | Lower North Island Integrated Rail Mobility and PBC—Stage RS4.3 | Upgrade existing rail network, comprising—new or extended passing loopsadditional stabling (Wellington and Palmerston North)a new depot and stabling facility (Masterton)station upgrades (north of Waikanae and Wairarapa)the duplication of tracks between Pukerua Bay and Paekākāriki (referred to as North–South Junction) and on approach to Waikanae Station | National rail network, comprising—Wairarapa Line (between Wellington and Masterton)North Island Main Trunk Line (between Wellington and Palmerston North) |
 | KiwiRail Holdings Limited | Marsden Point Rail Link | Construct and operate an approximately 19 kilometre rail link corridor connection | From the North Auckland line at Oakleigh via Mata Hill, along the Ruakākā River to Northport, Marsden Point, Northland |
 | KM & MG Holdings Limited | Plimmerton Farm | Develop approximately 2,400 residential dwellings, a commercial area, and a retirement village, and enable the potential development of a school | 18 State Highway 59, Plimmerton, Porirua |
 | Lake Ōmāpere Trust | The Lake Ōmāpere Restoration | Dredge and construct wetland and water-level management infrastructure to restore the mauri and water quality of Lake Ōmāpere and provide for the long-term sustainable use of the lake, and a potential irrigation water supply | Lake Ōmāpere, Northland |
@@ -1942,7 +2087,7 @@ The following may not be lodged before 7 February 2025:
 | McCallum Bros Limited | Bream Bay Sand Extraction Project | Extract (using a motorised trailing suction dredge) up to approximately 150,000 cubic metres of sand per annum for an initial period of 3 years and up to approximately 250,000 cubic metres per annum thereafter | 17 square kilometre area of seabed in the marine and coastal area of Bream Bay, Northland |
 | Maia Properties Limited | Maia Properties—Mangorei Road Development | Develop approximately 119 allotments for residential development, including stormwater infrastructure | 448 Mangorei Road, between Mangorei Road and Ainslee Street, Merrilands, New Plymouth |
 | Malcolm's Rest Limited, Kathryn Seeney, Lloyd Seeney | Wallace Road—Stages 1A and 1B Subdivision and Land Use Consent With Associated Roading and Infrastructure | Subdivide land and develop approximately 230 residential dwellings of mixed typology | 111.5 hectares at 27 Wallace Road and 461 Whatawhata Road, Hamilton |
-| Mana Ahuriri Holdings Limited Partnership | Ahuriri Station | Development comprising—approximately 1,000 residential dwellingsa commercial and industrial business parkecological parks and recreational spaces an approximately 30 to 80 hectare solar farmpreserving and enhancing places of cultural significance | 1,300 hectares at Ahuriri Station, 131 Onehunga Road, Napier |
+| Mana Ahuriri Holdings Limited Partnership | Ahuriri Station | Development comprising—approximately 1,000 residential dwellingsa commercial and industrial business parkecological parks and recreational spacesan approximately 30 to 80 hectare solar farmpreserving and enhancing places of cultural significance | 1,300 hectares at Ahuriri Station, 131 Onehunga Road, Napier |
 | Manawa Energy Limited | Huriwaka Wind Farm | Construct and operate a wind farm comprising approximately 60 wind turbines and transformers, and connect and supply electricity to the national grid | Hihitahi Plateau, 12 kilometres north of Taihape and 10 kilometres southeast of Waiouru |
 | Manawa Energy Limited | Kaimai Hydro-Electric Power Scheme Re-Consenting | Reconsent Manawa Energy Limited’s existing Kaimai Hydroelectric Power Scheme, including increasing residual river flows, providing fish passage, and implementing a sediment management plan | Within the Kaimai Ranges and the Wairoa River Catchment, 12 kilometres southwest of Tauranga and 25 kilometres northwest of Rotorua |
 | Manawa Energy Limited | Wheao HydroElectric Power Scheme Reconsenting | Reconsent of Manawa Energy Limited’s existing Wheao Hydroelectric Power Scheme ahead of expiry in 2026 | Within the Rangitaiki River Catchment, approximately 44 kilometres east of Taupō and 21 kilometres southwest of Murupara |
@@ -1955,20 +2100,20 @@ The following may not be lodged before 7 February 2025:
 | Mt Iron Junction Limited | Mt Iron Junction Housing Scheme | Develop approximately 263 high-density residential dwellings, a childcare centre, a retail building, a restaurant, a service station, and parks | 237 Wānaka to Luggate Highway, Wānaka |
 | Napier City Council | Taradale and Awatoto Borefields/Water Treatment Plants | Increase capacity at existing bore field sites, including drilling new bores (up to 3 at each site), decommissioning existing bores, and water treatment plant improvements | Taradale bore field, 294 Guppy Road, Taradale, Napier, and Awatoto bore field, 94 Awatoto Road, Meeanee, Napier |
 | National Green Steel Limited | Green Steel | Construct and operate a structural steel manufacturing plant, including—a scrap-steel shredding plantelectric furnaces to produce structural steela solar farm to provide electricity needed to operate the plantbuildings, access roads, and hardstand areasscreening and planting to attenuate noise | 53 hectares at 61 Hampton Downs Road, Hampton Downs |
-| New Zealand Transport Agency Waka Kotahi | Alternative to the Brynderwyn Hills | Plan, design, and construct a road intended as an alternative to the State Highway 1 Brynderwyn Hills route | State Highway 1 Brynderwyn Hills, between Kaiwaka and Waipu, Northland (likely including the State Highway 1–State Highway 12 intersection) |
+| New Zealand Transport Agency Waka Kotahi | Alternative to the Brynderwyn Hills | Develop a road and associated infrastructure between Te Hana and State Highway 15 (Port Marsden Highway) or 1 or more sections of road between those 2 points | Between Te Hana and the State Highway 1 and State Highway 15 (Port Marsden Highway) intersection |
 | New Zealand Transport Agency Waka Kotahi | End of Life Bridge Replacement Programme | Replace 8 end-of-life state highway bridges | Bridges on the state highway network throughout New Zealand—State Highway 25 Boundary Creek Bridge, Te Mata, CoromandelState Highway 3 Manapepeki No 2 Culvert, between Mt Messenger and Tongapōrutu, New Plymouth, TaranakiState Highway 43 Kururau Stream Water Drive, Aukopae, King Country, Manawatū–WanganuiState Highway 36 Hauraki Stream Culvert, Hamurana, Bay of PlentyState Highway 25 Ramarama Stream Bridge, Whiritoa, WaikatoState Highway 82 Waihao North Bridge, Waimate, Waihao Downs, CanterburyState Highway 27 Ohinekaua Stream Bridge, Tahuna Patetonga Road, WaikatoState Highway 6 Coal Creek Overbridge, Greymouth, West Coast |
-| New Zealand Transport Agency Waka Kotahi | Hamilton Southern Links | Develop a network of state highway and urban arterial routes to support Hamilton’s planned southern growth (approximately 21 kilometres of state highway and 11 kilometres of local arterial road) | State Highway 1 from Kahikatea Drive to the Waikato Expressway at Tamahere, and State Highway 3 from Hamilton Airport to central and east Hamilton |
-| New Zealand Transport Agency Waka Kotahi | Hawke’s Bay Expressway | Upgrade the existing state highway between Napier and Hastings, including—2 additional lanes (1 in each direction) along approximately 24 kilometres of highwayapproximately 3 to 5 interchanges and 3 to 4 bridge upgrades between Watchman Road and Pakipakialtering the existing designation, and additional land acquisition outside of that designation | State Highway 2 between Napier and Hastings, Hawke’s Bay |
-| New Zealand Transport Agency Waka Kotahi | Hope Bypass | Construct approximately 4.2 kilometres of new highway bypassing Richmond and Hope townships, altering the existing designation, and additional land acquisition outside of that designation | Parallel to existing Gladstone Road, State Highway 6, Richmond and Hope townships, Tasman |
-| New Zealand Transport Agency Waka Kotahi | Mill Road | Works on approximately 21 kilometres of road between the Redoubt Road interchange on State Highway 1 in Manukau to the proposed Drury South interchange on State Highway 1 in Drury, including developing new roads and upgrading existing roads, altering the existing designation, and additional land acquisition outside of that designation | Redoubt Road interchange on State Highway 1 in Manukau to the proposed Drury South interchange on State Highway 1 in Drury, Auckland |
-| New Zealand Transport Agency Waka Kotahi | North West Rapid Transit | Develop a rapid transit link between Brigham Creek and Auckland City Centre, including connections to local roads and existing transit infrastructure, and a bi-directional offline busway | Alongside State Highway 16 Northwest Auckland to Auckland central |
+| New Zealand Transport Agency Waka Kotahi | Hamilton Southern Links | Develop 1 or more roads and associated infrastructure to support Hamilton’s planned southern growth, including by—improving existing roads (including State Highways 1, 1C, and 3) and any associated infrastructuredeveloping new roads and any associated infrastructure | State Highway 1 from Kahikatea Drive to the Waikato Expressway at Tamahere, State Highway 1C between State Highways 23 and 3, and State Highway 3 from Hamilton Airport to central and east Hamilton |
+| New Zealand Transport Agency Waka Kotahi | Hawke’s Bay Expressway | Upgrade the existing State highway between the vicinity of Pakipaki and Taradale | State Highway 2 between Pakipaki and Taradale |
+| New Zealand Transport Agency Waka Kotahi | Hope Bypass | Undertake State highway improvements in 1 or more sections of new or existing road between the Salisbury Road extension to south of Hope township, including a new roading section bypassing Richmond and Hope townships | Richmond Deviation and associated intersections and the new highway section parallel to existing Gladstone Road, State Highway 6, Richmond and Hope townships, Tasman |
+| New Zealand Transport Agency Waka Kotahi | Mill Road | Develop works in 1 or more sections of new or existing road between the Redoubt Road interchange on State Highway 1 in Manukau and the proposed Drury South interchange on State Highway 1 in Drury | Redoubt Road interchange on State Highway 1 in Manukau to the proposed Drury South interchange on State Highway 1 in Drury, Auckland |
+| New Zealand Transport Agency Waka Kotahi | North West Rapid Transit | Develop a rapid transit link and associated infrastructure and connections between Brigham Creek and Auckland City centre, which may be progressed in 1 or more sections of new or existing road between those 2 points | Alongside State Highway 16 Northwest Auckland to Auckland central |
 | New Zealand Transport Agency Waka Kotahi | State Highway 1 Cambridge to Piarere Long Term Improvements Project | Construct a 4-lane, approximately 16 kilometre highway from the southern end of the Waikato Expressway at Cambridge to the intersection of State Highway 1 and State Highway 29 at Piarere | State Highway 1 Cambridge to Piarere |
-| New Zealand Transport Agency Waka Kotahi | State Highway 1 North Canterbury—Woodend Bypass Project (Belfast to Pegasus) | Extend the State Highway 1 Christchurch Northern Corridor between Belfast and Pegasus by approximately 4 kilometres, altering the existing designation, and additional land acquisition outside of that designation | State Highway 1 North Canterbury |
-| New Zealand Transport Agency Waka Kotahi | State Highway 1 Wellington Improvements | Improve State Highway 1 between the Terrace Tunnel and Kilbirnie, including constructing either a second Mt Victoria Tunnel and Basin Reserve improvements or a long tunnel that bypasses the central city | North of Terrace Tunnel to Kilbirnie, Wellington City |
-| New Zealand Transport Agency Waka Kotahi | State Highway 1 Whangārei to Port Marsden Highway | Upgrade approximately 22 kilometres of State Highway 1 between Whangārei and State Highway 15 to 4 lanes and associated intersection upgrade, altering the existing designation, and additional land acquisition outside of that designation | State Highway 1, Whangārei, to State Highway 1 and State Highway 15 (Port Marsden Highway) intersection |
-| New Zealand Transport Agency Waka Kotahi | State Highway 16 North West Alternative State Highway | Construct a new 4-lane dual carriageway motorway and upgrade Brigham Creek interchange, connecting Redhills North and State Highway 16 west of Kumeū-Huapai, as an alternative to the existing State Highway 16, altering the existing designation, and additional land acquisition outside of that designation | State Highway 16 Auckland (west) |
+| New Zealand Transport Agency Waka Kotahi | State Highway 1 North Canterbury—Woodend Bypass Project (Belfast to Pegasus) | Extend the State Highway 1 Christchurch Northern Corridor between Belfast and Pegasus | State Highway 1 North Canterbury |
+| New Zealand Transport Agency Waka Kotahi | State Highway 1 Wellington Improvements | Improve State Highway 1 between north of the Terrace Tunnel and Kilbirnie, including associated infrastructure and connections | North of Terrace Tunnel to Kilbirnie, Wellington City |
+| New Zealand Transport Agency Waka Kotahi | State Highway 1 Whangārei to Port Marsden Highway | Develop a road and associated infrastructure between Whangārei and State Highway 15 (Port Marsden Highway) or 1 or more sections of road between those 2 points | State Highway 1, Whangārei to State Highway 1 and State Highway 15 (Port Marsden Highway) intersection |
+| New Zealand Transport Agency Waka Kotahi | State Highway 16 North West Alternative State Highway | Develop a road and associated infrastructure connecting Redhills North and State Highway 16 west of Kumeū-Huapai, which may be progressed in 1 or more sections of new corridor between those 2 points | State Highway 16 Auckland (west) |
 | New Zealand Transport Agency Waka Kotahi | State Highway 25 Pepe Stream Bridge Replacement | Replace the existing one-way bridge and footpath bridge with a new 2-lane bridge with a shared path | Pepe Stream Bridge, Tairua |
-| New Zealand Transport Agency Waka Kotahi | State Highway 29 Tauriko Network Connections (including Omanawa Bridge replacement) | Develop State Highway 29 and State Highway 29A, including to the Port of Tauranga, and replace the Omanawa Bridge | State Highway 29 and State Highway 29A area |
+| New Zealand Transport Agency Waka Kotahi | State Highway 29 Tauriko Network Connections (including Omanawa Bridge replacement) | Upgrade existing, and construct new, roading corridor between the vicinity of the Omanawa Road/State Highway 29 intersection and the Takitimu Northern Link interchange, together with upgrades to connections between State Highway 29 and State Highway 36 at the intersection with Taurikura Drive and State Highway 29A, through to the Oropi Road–State Highway 29A roundabout, including associated infrastructure and connections or 1 or more sections of new or existing road between the points | State Highway 29 and State Highway 29A area |
 | New Zealand Transport Agency Waka Kotahi | Takitimu North Link—Stage 2 | Construct a 4-lane, median divided highway to replace existing State Highway 2 corridor between Te Puna and Ōmokoroa, including altering the existing designation | Between Te Puna and Ōmokoroa, Bay of Plenty |
 | Ngā Pōtiki a Tamapahore Trust | Tara Road Development | Develop approximately 605 residential allotments, including constructing approximately 400 dwellings (no less than 30% quality affordable housing) and an approximately 2.5-hectare commercial precinct | Tara Road, Papamoa, bounded by Tara Road to the north and the Tauranga Eastern Link (State Highway 2) to the south |
 | Ngāi Tahu Property Development Holdings (registered as NTP Development Holdings Limited) | Pound Road Industrial Development | Subdivide land and develop industrial lots (approximately 50 lots ranging between 2,000 square metres and 1.5 hectares and comprising approximately 84 lots across the full site) | 61.4 hectares northwest of Pound Road, east of Barters Road, Christchurch |
@@ -1980,8 +2125,8 @@ The following may not be lodged before 7 February 2025:
 | Oceana Gold (New Zealand) Limited | Waihi North | In stages, expand the existing gold and silver mining operations, including establishing new open pit and underground mines, and extending the life of the mine from expiry in 2030 to 2040, including—exploration drill sites within Department of Conservation land, including 4 ventilation shafts and 4 new geotechnical drilling sitesa new underground mine at Wharekirauponga with associated twin decline access to explore and mine including 4 ventilation or escapeway shafts capped at surfacea new open pit on Oceana Gold (New Zealand) Limited’s private land at Gladstone Hill (with capacity to co-dispose waste and tailings)a third tailings storage facility plus a new rock storage facility (with capacity to co-dispose waste and encapsulated filtered tailings) | 43 Moresby Avenue, Waihi, Waikato, and across 7 areas described as Wharekirauponga Underground Mine (Area 1), Willows Road Farm (Area 2), Wharekirauponga Access Tunnel Corridor (Area 3), Services Trench Corridor (Area 4), Gladstone Open Pit and Waihi Surface Facilities Area (Area 5), Northern Rock Stack (Area 6), and Tailings Storage Facility 3 (Area 7) |
 | Port of Auckland Limited | Bledisloe North Wharf and Fergusson North Berth Extension | Construct a new reinforced concrete-piled wharf structure at the Bledisloe Terminal, a reinforced concrete-piled extension to the existing Fergusson North Berth, a cruise passenger terminal, and fendering | Land and coastal marine area at the Port of Auckland, 1 to 9 Quay Street, Auckland |
 | Port of Tauranga Limited | Capital and Maintenance Dredging Reconsenting | Expand and maintain the navigation channels at the Port of Tauranga by removing dredging material from the coastal marine area and depositing the material at offshore sites | Coastal marine area (being adjacent to the Port of Tauranga) within and outside Tauranga Harbour (being the shipping channels and associated disposal grounds for dredged sediment) |
-| Port of Tauranga Limited | Stella Passage Development | In stages, extend the Sulphur Point wharf, including associated reclamation and dredging of the seabed | 8.5 hectares of the coastal marine area within Tauranga Harbour at Sulphur Point and Mount Maunganui |
-| Precinct Properties New Zealand Limited | The Downtown Carpark Redevelopment—Te Pūmanawa o Tāmaki | Demolish the existing Downtown Carpark Building and develop an approximately 170,000 square metre mixed-use commercial and residential precinct comprising 2 towers (approximately 56 levels, and approximately 41 levels, respectively), 3 podium buildings, and a laneway network, for—commercial office spaceresidential space (providing approximately 300 to 350 apartments) retail and hospitalitya new civic space a 5-level basement for approximately 613 carparks | 2 Lower Hobson Street, 29 Customs Street (Aon House), 188 Quay Street (HSBC Tower), and 204 Quay Street, Auckland Central |
+| Port of Tauranga Limited | Stella Passage Development | In stages, extend the Sulphur Point wharf and Mount Maunganui wharves, including associated reclamation and dredging of the seabed | Coastal marine area within Tauranga Harbour at Sulphur Point and Mount Maunganui |
+| Precinct Properties New Zealand Limited | The Downtown Carpark Redevelopment—Te Pūmanawa o Tāmaki | Demolish the existing Downtown Carpark Building and develop an approximately 170,000-square-metre gross building area mixed-use commercial and residential precinct comprising 2 towers (approximately 55 levels and approximately 45 levels, respectively), 3 podium buildings, and a laneway network, for—commercial office spaceresidential space (providing apartments and a hotel)retail and hospitalitya new civic spacea 4-level basement for carparks | 2 Lower Hobson Street, 29 Customs Street (Aon House), 188 Quay Street (HSBC Tower), and 204 Quay Street, Auckland Central |
 | Rangitoopuni Developments Limited Partnership | Rangitoopuni | Subdivide land and develop approximately 210 residential allotments and an approximately 350-unit retirement village | Old North Road, Huapai, and Forestry Road, Riverhead |
 | RCL Homestead Bay Limited | Homestead Bay | Develop approximately 2,800 residential allotments, an approximately 1,100 square metre commercial retail precinct, and associated features such as parks, trails, and native revegetation | Near Homestead Bay Road, Homestead Bay, Queenstown |
 | Sanford Limited | Makarewa Hatchery | Construct and operate a land-based recirculating water salmon hatchery, including storing hazardous substances, disturbing contaminated soil, and taking and using water from and to the Makarewa River | 24 hectares at 226 Branxholme–Makarewa Road, Invercargill |
@@ -2012,12 +2157,12 @@ The following may not be lodged before 7 February 2025:
 | Te Rāhui Herenga Waka Limited Partnership (Te Rāhui Lands Trust, Whakatāne District Council, Ngāti Awa Group Holdings, the Crown via Kānoa – Regional Economic Development and Investment Unit) | Te Rāhui Land Fill | Establish disposal sites for the deposit of excavated material from Te Rāhui Herenga Waka Whakatāne—Whakatāne Boat Harbour project site | 1 Kope Drain Road, Awakeri, and 44 Keepa Road, Whakatāne (Site 1), 304 Tahuna Road, Te Teko (Site 2), and 1257 State Highway 2, Waimana (Site 3) |
 | Te Rūnanga o Ngāi Takoto | NgāiTakoto Fast Track | Develop—2 residential housing developments (approximately 140 and 30 allotments each)a water storage project for approximately 3 million cubic litresa historic campsite | 126 State Highway 1, Awanui, 258 Sandhills Road, Awanui, and Hukatere Road, Northland |
 | Te Rūnanga o Ngāti Waewae | Arahura Papakāinga Housing | Papakāinga development enabled by land exchange between Te Rūnanga o Ngāti Waewae and the Department of Conservation | Near 33 Old Christchurch Road, Arahura, HokitikaNgāi Tahu Forestry: Part of Lot 8 DP301 (105 hectares)Public Conservation Land: Pt Sec 2 SO12035 (74.5 hectares) |
-| The Eden Park Trust | Eden Park 2.1 | Redevelop the existing Eden Park facility to provide an approximately 50,000-person-capacity stadium with a retractable roof, including—developing the North and West Stands constructing an approximately 20,000-seat rectangular playing field and pedestrian bridgefunction and entertainment facilities, a boutique hotel, and student accommodation | 42 Reimers Avenue, Kingsland, Auckland |
+| The Eden Park Trust | Eden Park 2.1 | Redevelop the existing Eden Park facility to provide an approximately 50,000-person-capacity stadium with a retractable roof, including—developing the North and West Standsconstructing an approximately 20,000-seat rectangular playing field and pedestrian bridgefunction and entertainment facilities, a boutique hotel, and student accommodation | 42 Reimers Avenue, Kingsland, Auckland |
 | The Guildford Timber Company Limited | Silverstream Forest Development | Develop approximately 1,500 to 2,040 residential dwellings across 5 district neighbourhood areas | 330 hectares at Southern Upper Hutt, from Silverstream to Pinehaven |
 | The Hills Holdings Limited, The Hills Residences Limited | The Hills Resort Development | Construct and operate a golf resort and related facilities, an 18-hole championship course, and visitor, worker, and residential accommodation (including approximately 66 residential dwellings) | 180 hectares between Arrowtown—Lake Hayes, McDonnell, and Hogans Gully Roads, comprising 167 McDonnell Road, 37 Hogans Gully Road, 77 Hogans Gully Road, 37 Arrowtown Lake Hayes Road, 424 Arrowtown Lake Hayes Road, and 428 Arrowtown Lake Hayes Road, Wakatipu Basin, near Arrowtown (adjacent to The Hills private golf course) |
 | The Wellington Company Limited | New Central Park | Extend the Paraparaumu Town Centre, including—approximately 1,800 residential allotmentsretail and tourism activitiesaged-care residential facilitiesrealigning the Wharemauku Stream and wetland development | 77 and 109 Kapiti Road, Paraparaumu |
 | The Wellington Company Limited | Ōtaki Māori Racing Club Development | Develop—approximately 550 residential dwellings of mixed typology, a childcare centre and a caféa housing assembly and distribution centreexisting racing activities over the remaining site area | 20.3 hectares (total site 59.8 hectares) at 47 Te Roto Road, Ōtaki |
-| TiGa Minerals and Metals Limited | Barrytown Mineral Sands Project | In stages, establish and operate mine sites for mineral sand extraction activities, processing, and transporting processed minerals through the Greymouth Port, comprising—Stage 1: Northern Block and Rapahoe plant—sand mineral extraction (approximately 63 hectares over 5 years), establishing a wet concentrator plant, and constructing and operating a secondary mineral separation plantStage 2: Central Block—sand mineral extraction (approximately 208 hectares over 9 years)Stage 3: Southern Block—sand mineral extraction (approximately 172 hectares over 9 years), including Maher swamp enhancement, planting, and restoration | 635 hectares at Barrytown Flats, GreymouthNorthern Block3261 Coast Road and Burke Road, State Highway 6Central Block3067 Coast Road, State Highway 6Southern BlockCargill Road and Warren RoadMineral separation plantRapahoeSeven Mile Road |
+| Tāiko Critical Minerals Limited | Barrytown Minerals Project | Establish and operate mine sites, processing facilities, and ancillary activities for mineral sand extraction activities, processing, and transporting product at Barrytown, West CoastMining may be undertaken in stagesResource blocks include—Southern Block (between Fagan Creek and Canoe Creek)Central Block (north of Canoe Creek to the northern extent of Canoe Creek Lagoon)Northern Block (south of Burke Road and north of Burke Road to Maher Swamp) | Approximately 700 hectares between Fagan Creek and Maher Swamp and between the coast and State Highway 6 at Barrytown Flats, Greymouth |
 | Tory Hill Trust | Flint’s Park Urban Intensification | Develop approximately 500 residential dwellings, a neighbourhood mixed-use centre, and an automated cable way to access the residential development on the lower slopes of Slope Hill | 429 State Highway 6, Lake Hayes, Queenstown |
 | Transpower New Zealand Limited | Central Park Resilience | Develop a secondary indoor substation with line connections to the existing substation and line | 92 and 96 Nairn Street, 67 Brooklyn Road, Wellington |
 | Transpower New Zealand Limited | High Voltage Direct Current Cable Replacement and Capacity Project | Upgrade the HVDC inter-island transmission link and replace undersea cables connecting the North Island and the South Island, including—replacing, recovering, and disposing of 3 existing HVDC undersea cables, and installing a fourth cableconstructing new or extended cable termination stations at the Oteranga Bay and Ōraumoa / Fighting Bay sites, and relocating existing transmission lines to connect to the termination stations | In the Cook Strait, generally in the area subject to the Cook Strait Cable Protection Zone, Oteranga Bay, Ōraumoa / Fighting Bay, and land under the BEN-HAY A line |
@@ -2158,8 +2303,9 @@ When a panel is assessing a proposed approval under the Resource Management Act 
   (c) the panel in its role of deciding any matters before it.
 (2) A relevant local authority must assist the panel by providing advice within the knowledge of the authority, if requested by the panel.
 
-### 13 Liability of members
-The panel convener and members appointed to a panel are not liable for anything that the panel convener or a member does or omits to do in good faith in performing or exercising the functions, duties, or powers of the panel.
+### 13 Liability of panel convener, associate panel convener, and members
+(1) The panel convener or an associate panel convener is not liable for anything that they do or omit to do in good faith in performing or exercising their functions, duties, or powers under this Act.
+(2) The members appointed to a panel are not liable for anything that a member does or omits to do in good faith in performing or exercising the functions, duties, or powers of the panel.
 
 ## Schedule 4 — Land on which non-mining activities are ineligible
 
@@ -2590,16 +2736,10 @@ In this Part,—
 (2) If the substantive application is to be lodged by more than 1 authorised person, the references to the applicant in subclause (1)﻿(g)﻿(ii), (i), and (n) must be read as references to the authorised person who is to be identified in the application as the proposed holder of the concession.
 
 ### 4 Report by Director-General of Conservation
-(1) The report referred to in section 51(2)﻿(a) must include information to address the matters in clause 7(1)﻿(a)﻿(ii) to (xii) (except subclause (1)﻿(a)﻿(vii)﻿(B) and (viii)﻿(B)) and (b) and information about—
-  (a) any conservation management strategies or conservation management plans that have been co-authored, authored, or approved by a Treaty settlement entity; and
-  (b) the purposes for which the land concerned is held; and
-  (c) the status, ownership, and administration of the land that would be subject to the concession; and
-  (d) whether the land is subject to any existing arrangements that create obligations in relation to the land; and
-  (e) the legal and financial liabilities; and
-  (f) if the application is for a concession for electricity infrastructure in a national park, any statement of general policy for parks; and
-  (g) any conditions that should be imposed in accordance with clause 8 or section 84.
-(2) The report must specify any conditions of those specified under section 78 that the panel must impose in accordance with clause 9.
-(3) In preparing the report, the Director-General of Conservation must consult every person that is an administrator of the land (except if the administrator is the Crown).
+(1) The report referred to in section 51(2)﻿(a) must—
+  (a) address the matters in clause 7(1) (except clause 7(1)﻿(a)﻿(i), (vii)﻿(B), and (viii)﻿(B)); and
+  (b) include any conditions that the Director-General of Conservation considers appropriate to be imposed by the panel under clause 8.
+(2) For the purposes of this clause, the provisions referred to in clause 7(1) must be read with all necessary modifications, including that a reference to the Minister of Conservation in section 17U of the Conservation Act 1987 or section 49 of the National Parks Act 1980 must be read as a reference to a panel.
 
 ### 5 Persons to be invited to provide written comments
 For the purposes of section 53(2)﻿(m)﻿(ii), the persons are—
@@ -2678,7 +2818,7 @@ Section 17Z of the Conservation Act 1987 applies to the duration of a concession
 
 ### 14 Concessions treated as granted under Conservation Act 1987
 (1) When given effect in accordance with clause 11, an approval referred to in paragraph (a)﻿(i) of the definition of concession that is granted under this Act has the same force and effect for its duration, and according to its terms and conditions, as if it were a concession granted under the Conservation Act 1987, except that section 17A of that Act does not apply.
-(2) An application for a variation to or an extension of the concession must be determined by the Minister of Conservation in accordance with Part 3B of the Conservation Act 1987 with the following modifications:
+(2) An application for a variation to, an extension of, or a transfer of the concession must be determined by the Minister of Conservation in accordance with Part 3B of the Conservation Act 1987 with the following modifications:
   (a) sections 17S, 17SC, 17U(1), (3), (4), and (8), 17W, and 49 of that Act do not apply; and
   (b) unless section 17ZC(1) or (3) of that Act applies, sections 53 and 54 of this Act apply with all necessary modifications as if—
     (i) references in sections 53 and 54 to the panel were references to the Minister of Conservation; and
@@ -2687,7 +2827,7 @@ Section 17Z of the Conservation Act 1987 applies to the duration of a concession
 
 ### 15 Concessions treated as granted under Wildlife Act 1953
 (1) When given effect in accordance with clause 11, an approval referred to in paragraph (a)﻿(ii) of the definition of concession that is granted under this Act has the same force and effect for its duration, and according to its terms and conditions, as if it were a concession granted under section 14AA of the Wildlife Act 1953, except that sections 9(4), 14B, 14D, and 43 of that Act do not apply.
-(2) An application for a variation to or an extension of the concession must be determined by the Minister of Conservation in accordance with Part 3B of the Conservation Act 1987 with the following modifications:
+(2) An application for a variation to, an extension of, or a transfer of the concession must be determined by the Minister of Conservation in accordance with Part 3B of the Conservation Act 1987 with the following modifications:
   (a) sections 17S, 17SC, 17U(1), (3), (4), and (8), 17W, and 49 of that Act do not apply; and
   (b) unless section 17ZC(1) or (3) of that Act applies, sections 53 and 54 of this Act apply with all necessary modifications as if—
     (i) references in sections 53 and 54 to the panel were references to the Minister of Conservation; and
@@ -2698,7 +2838,7 @@ Section 17Z of the Conservation Act 1987 applies to the duration of a concession
 (1) When given effect in accordance with clause 11, an approval referred to in paragraph (a)﻿(iii) of the definition of concession that is granted under this Act has the same force and effect for its duration, and according to its terms and conditions, as if it were a concession granted under section 49 of the National Parks Act 1980, except that—
   (a) section 43 of the National Parks Act 1980 does not apply to it:
   (b) no bylaw made under section 56 of the National Parks Act 1980 restricting or prohibiting the use of vehicles or aircraft in any national park applies to the activities of the concessionaire under the concession.
-(2) An application for a variation to or an extension of the concession must be determined by the Minister of Conservation in accordance with Part 3B of the Conservation Act 1987 with the following modifications:
+(2) An application for a variation to, an extension of, or a transfer of the concession must be determined by the Minister of Conservation in accordance with Part 3B of the Conservation Act 1987 with the following modifications:
   (a) sections 17S, 17SC, 17U(1), (3), (4), and (8), 17W, and 49 of that Act do not apply; and
   (b) unless section 17ZC(1) or (3) of that Act applies, sections 53 and 54 of this Act apply with all necessary modifications as if—
     (i) references in sections 53 and 54 to the panel were references to the Minister of Conservation; and
@@ -2707,13 +2847,13 @@ Section 17Z of the Conservation Act 1987 applies to the duration of a concession
 
 ### 17 Concessions treated as granted under Reserves Act 1977
 (1) When given effect in accordance with clause 11, a Reserves Act approval that is granted under this Act has the same force and effect for its duration, and according to its terms and conditions, as if it were granted under section 59A of the Reserves Act 1977, except that sections 40A and 40B of that Act do not apply to it.
-(2) An application for a variation to or an extension of an approval referred to in paragraph (a) of the definition of Reserves Act approval must be determined by the Minister of Conservation in accordance with Part 3B of the Conservation Act 1987 as if it were a variation of a concession within the meaning of the Reserves Act 1977 with the following modifications:
+(2) An application for a variation to, an extension of, or a transfer of an approval referred to in paragraph (a) of the definition of Reserves Act approval must be determined by the Minister of Conservation in accordance with Part 3B of the Conservation Act 1987 as if it were a variation to, an extension of, or a transfer of a concession within the meaning of the Reserves Act 1977 with the following modifications:
   (a) sections 17S, 17SC, 17U(1), (3), (4), and (8), 17W, and 49 of the Conservation Act 1987 do not apply; and
   (b) unless section 17ZC(1) or (3) of that Act applies, sections 53 and 54 of this Act apply with all necessary modifications as if—
     (i) references in sections 53 and 54 to the panel were references to the Minister of Conservation; and
     (ii) references in section 54 to the EPA were references to the Minister of Conservation; and
   (c) for the purpose of section 17ZC(2) and (3) of that Act, clause 7 applies with any necessary modifications as if the references in that clause to the panel were references to the Minister of Conservation.
-(3) An application for a variation of or an extension to an approval referred to in paragraph (b) of the definition of Reserves Act approval must be determined by the administering body in accordance with Part 3B of the Conservation Act 1987 as if it were a variation of a concession within the meaning of the Reserves Act 1977 with the following modifications:
+(3) An application for a variation to, an extension of, or a transfer of an approval referred to in paragraph (b) of the definition of Reserves Act approval must be determined by the administering body in accordance with Part 3B of the Conservation Act 1987 as if it were a variation to, an extension of, or a transfer of a concession within the meaning of the Reserves Act 1977 with the following modifications:
   (a) sections 17S, 17SC, 17U(1), (3), (4), and (8), 17W, and 49 of the Conservation Act 1987 do not apply; and
   (b) sections 53 and 54 of this Act apply with all necessary modifications as if—
     (i) references in sections 53 and 54 to the panel were references to the administering body; and
@@ -2771,6 +2911,9 @@ The information provided for the purposes of section 33 must include—
   (c) any proposals to address impacts on existing users of the land to be disposed of by the Crown, such as proposed easements where access to private land or a culturally significant site is via the Crown land that will become private land:
   (d) information about financial and legal liabilities and obligations associated with the land to be acquired by the Crown:
   (e) if the land exchange would trigger a right of first refusal or a right of offer or return, a copy of the written agreement from the holder of the right of first refusal or right of offer or return to waive that right for the purpose of the land exchange:
+  (ea) a summary of—
+    (i) the consultation undertaken for the purposes of section 32A; and
+    (ii) how the consultation has informed the project:
   (f) full details of any consultation undertaken by the applicant with relevant iwi, and any others with rights or interests in the land to be exchanged by the Crown.
 
 ### 25 Persons to be invited to provide written comments
@@ -2816,7 +2959,7 @@ For the purposes of section 74, the appropriate Minister may call in a decision 
     (vi) statements of general policy approved under section 17B or 17C of the Conservation Act 1987; and
     (vii) any conservation management strategy, conservation management plan, or reserve management plan that has been co-authored, authored, or approved by a Treaty settlement entity and the views of the entity on the proposed land exchange; and
   (b) may consider any conservation management strategy, conservation management plan, or reserve management plan (other than a strategy or plan referred to in paragraph (a)﻿(vii)).
-(2) The panel must not grant the approval unless the panel is satisfied that the land exchange (including any money that may be received under clause 30 and any conditions that the panel may impose in accordance with clause 32) will enhance the conservation values of land managed by the Department of Conservation.
+(2) The panel must not grant the approval unless the panel is satisfied that the land exchange (including any money that may be received under clause 30 and any conditions that the panel may impose in accordance with clause 32) will enhance the conservation values of conservation areas and Crown-owned reserves considered as a whole.
 (3) The panel must not grant the approval if—
   (a) the land to be exchanged by the Crown is—
     (i) land listed in Schedule 4; or
@@ -2845,7 +2988,7 @@ Alongside a land exchange under this Act, the panel may authorise the receipt by
 ### 32 Conditions
 (1) The panel may grant a land exchange subject to a condition that—
   (a) the land being given by way of exchange by the Crown will be subject to a reservation, classification, interest, or encumbrance specified by the panel:
-  (b) the applicant is required to undertake or bear the cost of any work that the panel thinks necessary as part of ensuring that the land exchange will enhance the conservation values of land managed by the Department of Conservation.
+  (b) the applicant is required to undertake or bear the cost of any improvements to the land acquired by the Crown that the panel thinks necessary as part of ensuring that the land exchange will enhance the conservation values of conservation areas and Crown-owned reserves considered as a whole.
 (2) The panel may impose any condition to address impacts on any person who has a right to use the land, but the condition must not include the requirement for the applicant to obtain the person’s agreement to the land exchange.
 (3) If the substantive application is lodged by more than 1 authorised person, the references to the applicant in subclauses (1) and (2) must be read as references to the authorised person who is identified in the application as the person proposed to exchange land.
 
@@ -2857,7 +3000,7 @@ If the panel grants the land exchange, the panel must impose any conditions that
   (a) the preconditions imposed in accordance with clause 31 have been met; and
   (b) a period of 30 working days has expired after the decision document for the land exchange was issued under section 88(1).
 (2) All land acquired by the Crown under this clause must be held for any conservation purposes that the Minister of Conservation may specify in respect of that land by notice in the Gazette.
-(3) Money received under clause 30 must be used on improvements to the land acquired by the Crown that were necessary to satisfy the panel in accordance with clause 29 that the land exchange would enhance the conservation values of land managed by the Department of Conservation.
+(3) Money received under clause 30 for the purposes of the panel’s decision under clause 29(2) must be used on improvements to the land acquired by the Crown that were necessary to satisfy the panel in accordance with clause 29 that the land exchange would enhance the conservation values of conservation areas and Crown-owned reserves considered as a whole.
 (4) The Registrar-General of Land is authorised to make any entry in a register and do all other things that may be necessary to give effect to a land exchange approved under this Act.
 
 ### 35 Commencement of approval for land exchange
@@ -2938,7 +3081,7 @@ The amendment or revocation of a covenant under this Act commences only after it
 ## Schedule 7 — Approvals relating to Wildlife Act 1953
 
 ### 1 Interpretation
-In this schedule, wildlife approval means a lawful authority for an act or omission that would otherwise be an offence under any of sections 58(1), 63(1), 63A, 64, 65(1)﻿(f), 70G(1), 70P, and 70T(2) of the Wildlife Act 1953.
+In this schedule, wildlife approval means a lawful authority for an act or omission that would otherwise be an offence under any of sections 56(1), 58(1), 63(1), 63A, 64, 65(1)﻿(f), 70G(1), 70P, and 70T(2) of the Wildlife Act 1953.
 
 ### 2 Information required in application for wildlife approval
 (1) For the purposes of section 43(3)﻿(h), an application for a wildlife approval must—
@@ -2984,11 +3127,11 @@ For the purposes of section 81, when considering an application for a wildlife a
   (b) where more than minor residual impacts on protected wildlife cannot be avoided, minimised, or remedied, ensure that they are offset or compensated for where possible and appropriate; and
   (c) take into account, as the case may be, the New Zealand Threat Classification System or any relevant international conservation agreement that may apply in respect of the protected wildlife that is to be covered by the approval.
 
-### 7 Status of wildlife approval and variation of wildlife approval
+### 7 Status of wildlife approval and variation, replacement, or transfer of wildlife approval
 (1) A wildlife approval granted under this Act—
   (a) has force and effect for its duration, and according to its terms and conditions, as a lawful authority for the purposes of Part 5 of the Wildlife Act 1953 for the act or omission for which the approval was granted; and
   (b) is treated as if it were granted under that Act.
-(2) The Director-General of Conservation may at any time vary or replace a wildlife approval referred to in subclause (1) on application by the holder of the approval.
+(2) The Director-General of Conservation may at any time vary, replace, or transfer a wildlife approval referred to in subclause (1) on application by the holder of the approval.
 (3) For the purposes of subclause (2),—
   (a) the information required to be submitted to the Director-General is the information specified in clause 2(1); and
   (b) the Director-General must decide the application for the variation or replacement and set any conditions in accordance with clauses 5 and 6 as if the application were for a Wildlife Act approval and as if the references in clauses 5 and 6 to the panel were to the Director-General; and
@@ -3375,7 +3518,7 @@ For the purposes of section 53(2)﻿(m)﻿(vii), the person is WorkSafe New Zeal
 
 ### 20 When mining permit must not be granted
 (1) The panel must not grant a mining permit unless the panel is satisfied—
-  (a) that the deposit for which the mining permit is sought was discovered as a result of activities authorised by the exploration permits or existing privileges referred to in section 42(11); and
+  (a) that the deposit for which the mining permit is sought is in the land to which any of the exploration permits or existing privileges referred to in section 42(11) apply; and
   (b) that the proposed work programme provided by the applicant is consistent with—
     (i) the purpose of the Crown Minerals Act 1991; and
     (ii) the purpose of the proposed permit; and
@@ -3386,7 +3529,7 @@ For the purposes of section 53(2)﻿(m)﻿(vii), the person is WorkSafe New Zeal
     (iii) any relevant and available information on the applicant’s previous compliance record in relation to compliance with permits or rights, and conditions of those permits or rights, authorising prospecting for exploring, or mining of minerals, in New Zealand or internationally; and
   (d) that, in the case of an application for a petroleum mining permit, the applicant is highly likely to comply with the relevant obligations under the Crown Minerals Act 1991 in respect of decommissioning and post-decommissioning; and
   (e) that the applicant is highly likely to comply with the relevant obligations under the Crown Minerals Act 1991 in respect of reporting and the payment of fees and royalties; and
-  (f) that in the case of an applicant for a Tier 1 permit to mine, the proposed permit operator has or is likely to have, by the time relevant work undertaken under a permit is completed, the capability and systems that are likely to be required to meet the health and safety requirements of all specified Acts (as defined in section 2(1) of the Crown Minerals Act 1991) for the types of activities proposed under the permit.
+  (f) that in the case of an applicant for a Tier 1 permit to mine, the proposed permit operator has or is highly likely to have, by the time relevant work under a permit is undertaken, the capability and systems that are likely to be required to meet the health and safety requirements of all specified Acts (as defined in section 2(1) of the Crown Minerals Act 1991) for the types of activities proposed under the permit.
 (2) For the purpose of the panel satisfying itself of the matters in subclause (1)﻿(f), section 29A(3) and (4) of the Crown Minerals Act 1991 apply as if references in those provisions to the Minister were to the panel.
 (3) If the substantive application was lodged by more than 1 authorised person, the references to the applicant in subclause (1)﻿(b) to (e) must be read as references to the applicant who was identified in the application as the proposed holder of the mining permit.
 
