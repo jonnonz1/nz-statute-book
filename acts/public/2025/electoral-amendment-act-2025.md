@@ -5,7 +5,7 @@ _Consolidation as at 2025-12-19_
 This Act is the Electoral Amendment Act 2025.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after Royal assent.
+(1) This Act comes into force on 20 December 2025.
 (2) However, the following sections come into force on 1 January 2026:
   (a) sections 59 to 62:
   (b) sections 122 and 123:
