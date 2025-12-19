@@ -5,7 +5,7 @@ _Consolidation as at 2025-12-19_
 This Act is the Secondary Legislation Confirmation Act 2025.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 20 December 2025.
 
 ## Part 1 — Preliminary provisions
 
