@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2025-12-20_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -16,9 +16,12 @@ This Act may be cited as the Electoral Act 1993.
 
 ### 3 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **adult** —
-    (a) means a person of or over the age of 18 years; but
-    (b) where a writ has been issued for an election, includes, on or after the Monday immediately before polling day, a person under the age of 18 years if that person’s 18th birthday falls in the period beginning on that Monday and ending on polling day
+  - **adult** means an individual of or over the age of 18 years
+  - **advance polling period** has the meaning given in section 171B
+  - **advance polling place** , in relation to an election in any district, means a polling place for the election maintained by the Returning Officer during the advance polling period
+  - **advance voter** , in relation to an election in any district, means a person who—
+    (a) is qualified to vote at the election; and
+    (b) during the advance polling period, attends in person at an advance polling place and applies to vote
   - **approved electronic medium** , in relation to the making of an application or the providing of any information, means an electronic medium approved by the Electoral Commission for the making of that application or the providing of that information
   - **bribery** has the meaning assigned to that term by section 216
   - **by-election** means any election other than a general election
@@ -32,6 +35,7 @@ This Act may be cited as the Electoral Act 1993.
     (b) not to vote for a constituency candidate (whether or not the name of the candidate is stated)
   - **census** means the census of population and dwellings carried out by Statistics New Zealand under the Data and Statistics Act 2022
   - **Chief Electoral Officer** means the Chief Electoral Officer appointed under this Act; and includes any person authorised to exercise the powers, duties, and functions of the Chief Electoral Officer
+  - **close of registration** , in relation to registration as an elector of an electoral district for an election, means the close of the 13th day before polling day for the election
   - **component party** means, in relation to a registered political party (in this definition called the ) or in relation to a political party that is applying for registration (in this definition called the ),—
     (a) a political party that is a member of the registered party or of the applicant party; or
     (b) a political party that has combined some or all of its membership with that of another political party and thereby formed the registered party or the applicant party or augmented the membership of such a party, as the case may be
@@ -47,6 +51,7 @@ This Act may be cited as the Electoral Act 1993.
       (i) on becoming a member; and
       (ii) then at specified intervals of not more than 3 years; and
     (c) who has paid to the party every membership fee that has for the time being become payable by the member in accordance with those rules
+  - **Director of Mental Health** means the person holding or acting in that office under section 91 of the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **district** or or means a General electoral district or a Maori electoral district constituted under this Act
   - **election** means an election of a member of the House of Representatives
   - **election advertisement** has the meaning given to it by section 3A
@@ -64,7 +69,9 @@ This Act may be cited as the Electoral Act 1993.
   - **General electoral district** means an electoral district other than a Maori electoral district
   - **General electoral population** means total ordinarily resident population as shown in the last periodical census of population and dwellings with the exception of the Maori electoral population
   - **Government** means the Government of New Zealand
-  - **hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
+  - **hospital** —
+    (a) means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001; but
+    (b) for the purposes of sections 80, 86AA, 86AAB, 86AAC, 86A, and 86C, has the meaning given in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **illegal practice** means any act declared by this Act to be an illegal practice
   - **issuing officer** , in relation to a polling place, means the manager of the polling place or a person authorised, under section 158(3)﻿(a), to issue ballot papers in the polling place
   - **list candidate** means any person whose name is specified in a party list submitted to the Electoral Commission under section 127
@@ -81,12 +88,13 @@ This Act may be cited as the Electoral Act 1993.
         (A) registered as electors of Māori electoral districts or General electoral districts; or
         (B) named on the dormant rolls for Māori electoral districts or General electoral districts; and
     (b) by applying the proportion ascertained under paragraph (a) to the total number of ordinarily resident Māori persons on census day
+  - **Māori option** means the option that may be exercised under section 76(1) by a Māori who is eligible to be registered as an elector (to choose whether to register as an elector of a Māori electoral district or a General electoral district)
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **member of the Defence Force** means any person resident in New Zealand within the meaning of this Act who is for the time being a member of the New Zealand Defence Force constituted by section 11(1) of the Defence Act 1990; and includes any person so resident who is attached to, or employed by, or carries out duties of the New Zealand Defence Force which necessitate his or her being outside New Zealand
   - **mental impairment** , in relation to any person, means an impairment causing a person to lack, wholly or partly, the capacity to understand the nature of any decision about registering as an elector
   - **meshblock** means statistical meshblock
   - **Minister** means the Minister of Justice
-  - **nomination day** , in relation to any election, means the day appointed in the writ for that election as the latest day for the nomination of candidates
+  - **nomination day** , in relation to any election, means the latest day for the nomination of candidates for election
   - **on census day** has the meaning given in section 79(2)
   - **party** , in Parts 6AA, 6A, and 6B,—
     (a) means a political party registered under Part 4; and
@@ -95,16 +103,15 @@ This Act may be cited as the Electoral Act 1993.
     (a) to vote for a party (whether or not the name of the party is stated):
     (b) not to vote for a party (whether or not the name of the party is stated)
   - **party secretary** or has the meaning given to it by section 3EA
-  - **permanent resident of New Zealand** has the meaning assigned thereto by section 73
   - **personation** has the meaning assigned to that term by section 215
   - **polling day** , in relation to any election, means the day appointed in the writ for that election for the polling to take place if a poll is required
   - **polling place official** means a person appointed, under section 158(1), as an official for a polling place
   - **prescribed** means prescribed by this Act or by regulations made thereunder or (for the purposes of Part 8) by rules of court
   - **prison** means a prison established or deemed to be established under the Corrections Act 2004
   - **prison manager** has the same meaning as in section 3(1) of the Corrections Act 2004
-  - **public inspection period** means, in relation to a return filed under sections 205K, 206I, 206ZC, 209, 210, 210C, 214C, and 214F, the period—
-    (a) beginning 3 working days after the date of receipt by the Electoral Commission of the duly completed return; and
-    (b) ending with the close of polling day for the second general election that takes place after the date of receipt by the Electoral Commission of the duly completed return
+  - **public inspection period** means, in relation to a return filed under any of sections 205K, 206I, 206ZC, 209, 210, 210C, 214C, and 214F, the period—
+    (a) commencing as soon as is reasonably practicable after the Electoral Commission receives the completed return; and
+    (b) ending 6 years later
   - **public money** has the same meaning as in the Public Finance Act 1989
   - **public notice** or means a notice printed in some newspaper circulating in the district intended to be affected by the notice
   - **public place** has the same meaning as in section 2 of the Summary Offences Act 1981
@@ -135,8 +142,10 @@ This Act may be cited as the Electoral Act 1993.
       (ii) a welfare guardian appointed under section 12(1) of the Protection of Personal and Property Rights Act 1988:
       (iii) an attorney appointed under an enduring power of attorney
   - **residence** and have the meanings assigned thereto by section 72
+  - **resident for electoral purposes** has the meaning given to it by section 73
   - **Returning Officer** means an electoral official designated under section 20B; and includes a person authorised to exercise or perform the powers, duties, or functions of a Returning Officer
   - **roll** means an electoral roll, a main roll, or a supplementary roll, as the case may be; and includes a composite roll printed under section 107
+  - **secure facility** has the meaning given in section 9 of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
   - **Speaker** means—
     (a) the Speaker of the House of Representatives; or
     (b) if the Speaker of the House of Representatives is (for whatever reason) unable to act, the Deputy Speaker of the House of Representatives; or
@@ -244,7 +253,9 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
 
 ### 3BA Meaning of regulated period: by-election
 In this Act, regulated period, in relation to a by-election, means the period that—
-  (a) commences on the day after the day on which the notice of the vacancy to be filled by the by-election is published under section 129(1); and
+  (a) commences on the day after the day on which—
+    (i) a notice of the vacancy to be filled by the by-election is published under section 129(1); or
+    (ii) a writ for a fresh election in a district is issued by the Governor-General under section 153E(2) (on receiving notification of the death or incapacity of a constituency candidate in the district); and
   (b) ends with the close of the day before polling day.
 
 ### 3C Electoral Commission to publish details relating to regulated period
@@ -319,9 +330,9 @@ The objective of the Electoral Commission is to administer the electoral system 
   (c) maintains confidence in the administration of the electoral system.
 
 ### 4D Membership of Electoral Commission
-(1) The Governor-General, on the recommendation of the House of Representatives, must appoint 3 members of the Electoral Commission as follows:
-  (a) 1 member as the Chief Electoral Officer; and
-  (b) 1 member as the chairperson; and
+(1) The Governor-General, on the recommendation of the House of Representatives, must appoint at least 3, but not more than 7, members of the Electoral Commission, including—
+  (a) 1 member as the Chief Electoral Officer:
+  (b) 1 member as the chairperson:
   (c) 1 member as the deputy chairperson.
 (2) The member appointed as the Chief Electoral Officer under subsection (1)﻿(a) is the chief executive of the Electoral Commission.
 (3) The members of the Electoral Commission are the board for the purposes of the Crown Entities Act 2004.
@@ -348,14 +359,17 @@ The appointment of a Judge as a member of the board of the Electoral Commission 
 (2) Despite subsection (1), if the vacancy exists at the close of a session, or the vacancy occurs while Parliament is not in session, and the House of Representatives has not recommended an appointment to fill the vacancy, the Governor-General in Council may appoint a successor at any time before the commencement of the next session of Parliament.
 (3) An appointment made under subsection (2) lapses, and the office again becomes vacant, unless the appointment is confirmed by the House of Representatives before the end of the 24th sitting day following the date of the appointment.
 
-### 4I Deputy Electoral Commissioners
-(1) The Electoral Commission may, by written notice, appoint an electoral official to be the deputy for an Electoral Commissioner.
+### 4I Deputies
+(1) The Electoral Commission may, by written notice, appoint an electoral official to be the deputy of—
+  (a) the Chief Electoral Officer:
+  (b) the chairperson:
+  (c) the deputy chairperson.
 (2) The persons described in section 30(2) of the Crown Entities Act 2004 are disqualified from being appointed as Deputy Electoral Commissioners.
 (3) The notice of appointment must—
   (a) state the date on which the appointment takes effect, which must not be earlier than the date on which the notice is received; and
   (b) state the term of the appointment; and
   (c) be published by the Electoral Commission in the Gazette as soon as practicable after the appointment is made.
-(4) If an Electoral Commissioner becomes incapable of performing his or her functions or duties or exercising his or her powers by reason of illness, absence, or other sufficient cause, the functions, duties, and powers of that Electoral Commissioner may be performed and exercised by his or her deputy.
+(4) If the Chief Electoral Officer, the chairperson, or the deputy chairperson becomes incapable of performing their functions or duties or exercising their powers by reason of illness, absence, or other sufficient cause, the functions, duties, and powers of the Chief Electoral Officer, the chairperson, or the deputy chairperson may be performed and exercised by their deputy.
 (5) Despite subsection (4), a Deputy Electoral Commissioner—
   (a) must not act as chairperson or deputy chairperson of the board of the Electoral Commission; and
   (b) is not eligible to be appointed by the board of the Electoral Commission as a temporary deputy chairperson under clause 5 of Schedule 5 of the Crown Entities Act 2004.
@@ -751,7 +765,7 @@ The following persons are not qualified to be a candidate or to be elected as a 
   (a) he or she is qualified to be registered as an elector of the electoral district in respect of which he or she was previously registered; and
   (b) his or her name was removed from the electoral roll for that district through no fault or failure of his or her own.
 (4) A person nominated as a candidate must, when giving his or her consent to the nomination, send the statutory declaration to—
-  (a) the Returning Officer, if the person was nominated as a constituency candidate by registered electors under section 143; or
+  (a) the Electoral Commission, if the person was nominated as a constituency candidate by registered electors under section 143; or
   (b) the party secretary, if the person is to be nominated as—
     (i) a constituency candidate by the party secretary under section 146D; or
     (ii) a list candidate.
@@ -923,16 +937,18 @@ Subject to the provisions of this Act, the following persons, and no others, sha
   (a) any person whose name lawfully appears on the main roll or any supplementary roll for the district and who is qualified to be registered as an elector of the district:
   (b) any person—
     (i) who is qualified to be registered as an elector of the district; and
-    (ii) who is registered as an elector of the district as a result of having applied for registration as an elector of the district before polling day:
-  (c) any person who is qualified to be registered as an elector of the district, and was at the time of the last preceding election duly registered as an elector of the district or, where a change of boundaries has intervened, of some other district in which his or her then place of residence within the first-mentioned district was then situated:
-  (d) any person—
-    (i) who is qualified to be registered as an elector of the district; and
-    (ii) who is registered as an elector of the district as a result of having applied, since the last preceding election and before polling day, for registration as an elector of the district or, where a change of boundaries has intervened, of some other district in which that person’s then place of residence within the first-mentioned district was then situated:
+    (ii) who is registered as an elector of the district as a result of having applied for registration as an elector of the district before the close of registration:
+  (c) any person who is qualified to be registered as an elector of the district and was at the time of the last preceding election—
+    (i) registered as an elector of that district (district A); or
+    (ii) registered as an elector of some other district in which the elector’s place of residence at the time of the last preceding election was situated if, because of a subsequent change of boundaries, that place of residence is now within district A:
+  (d) any person who—
+    (i) is qualified to be registered as an elector of the district (district A); and
+    (ii) has been registered as an elector of district A as a result of having applied, since the last preceding election and before the close of registration,—
+      (A) for registration as an elector of district A; or
+      (B) for registration as an elector of some other district in which the elector’s place of residence at the time of the last preceding election was situated if, because of a subsequent change of boundaries, that place of residence is now within district A:
   (e) any person who is qualified to be registered as an elector of the district pursuant to section 74 and who resides on Campbell Island or Raoul Island or has resided on either of those Islands at any time in the 1 month before polling day:
-  (f) any member of the Defence Force who is outside New Zealand, if he or she is or will be of or over the age of 18 years on polling day, and his or her place of residence immediately before he or she last left New Zealand is within the district:
-  (g) any person present in New Zealand who—
-    (i) is qualified to be registered as an elector of the district; and
-    (ii) applies, on polling day, for registration as an elector of the district.
+  (f) any member of the Defence Force who is outside New Zealand, if he or she is or will be of or over the age of 18 years on polling day, and his or her place of residence immediately before he or she last left New Zealand is within the district.
+  (g)
 
 ### 61 Special voters
 (1) A person who is qualified to vote at any election in any district may vote as a special voter if—
@@ -943,9 +959,7 @@ Subject to the provisions of this Act, the following persons, and no others, sha
   (e) the person is, by reason of a religious objection, unable to attend to vote on the day of the week on which polling day falls:
   (f) the person satisfies the Returning Officer or issuing officer that on any other ground it will not be practicable for that person to vote at a polling place in the district without incurring hardship or serious inconvenience.
 (2) A person who is registered as an elector of a Maori electoral district and who is qualified to vote at any election in that district may vote as a special voter not only on the grounds set out in subsection (1) but also on the ground that the person attends to vote on polling day at a polling place that is not a polling place for that district.
-(3) A person whose name appears on the main roll or any supplementary roll for an electoral district and who is qualified to vote at an election in that district may vote as a special voter if the person—
-  (a) applies to vote in person before polling day; and
-  (b) does so within that district or at an office maintained by the Returning Officer of that district.
+(3)
 
 ## Part 4 — Registration of political parties and party logos
 
@@ -1198,8 +1212,8 @@ The Electoral Commission may publish, in any manner that the Electoral Commissio
   (b) upon being registered as an elector of the other district pursuant to an application as aforesaid, the applicant shall cease to be entitled to continue to be registered under this subsection as an elector of the original district.
 (11) A person whose home is on any ship, boat, or vessel permanently located in any harbour shall be deemed to reside in the electoral district in which the wharf or landing place or the main wharf or landing place in the harbour is situated. If any question arises under this subsection as to the district in which the wharf or landing place or main wharf or landing place in any harbour is situated, it shall be determined by the Representation Commission.
 
-### 73 Meaning of permanent resident of New Zealand
-For the purposes of this Act, a person is a permanent resident of New Zealand if, and only if, that person—
+### 73 Meaning of resident for electoral purposes
+For the purposes of this Act, a person is a resident for electoral purposes if, and only if, that person—
   (a) resides in New Zealand; and
   (b) is not—
     (i) a person to whom section 15 or 16 of the Immigration Act 2009 applies; or
@@ -1212,14 +1226,15 @@ For the purposes of this Act, a person is a permanent resident of New Zealand if
 (1) Subject to the provisions of this Act, every adult person is qualified to be registered as an elector of an electoral district if—
   (a) that person is—
     (i) a New Zealand citizen; or
-    (ii) a permanent resident of New Zealand; and
+    (ii) a resident for electoral purposes; and
   (b) that person has at some time resided continuously in New Zealand for a period of not less than 1 year; and
   (c) that electoral district—
     (i) is the last in which that person has continuously resided for a period equalling or exceeding 1 month; or
     (ii) where that person has never resided continuously in any one electoral district for a period equalling or exceeding 1 month, is the electoral district in which that person resides or has last resided.
-(2) Where a writ has been issued for an election, every person—shall (whether or not he or she does so continue to reside in that electoral district) be deemed, for the purposes of subsection (1)﻿(c), to have completed on that Monday a period of 1 month’s continuous residence in that electoral district.
-  (a) who resides in an electoral district on the Monday before polling day; and
-  (b) who would, if he or she continued to reside in that electoral district until the close of polling day, have continuously resided in that electoral district for a period equalling or exceeding 1 month,—
+(2) If a writ has been issued for an election, every person is treated, for the purposes of subsection (1)﻿(c), as having completed a period of 1 month’s continuous residence in an electoral district if the person—
+  (a) resides in the electoral district at the close of registration; and
+  (b) would, if they continued to reside in the electoral district until the close of polling day, have continuously resided in the electoral district for a period equalling or exceeding 1 month.
+(3) Subsection (2) applies whether or not the person in fact continues to reside in the electoral district during the period between the close of registration and polling day.
 
 ### 75 Registration in respect of more than 1 electoral district
 (1) Subject to subsection (2), a person shall not be entitled to be registered as an elector of more than 1 electoral district.
@@ -1230,7 +1245,7 @@ For the purposes of this Act, a person is a permanent resident of New Zealand if
 (1) A Māori who is eligible to be registered as an elector may choose to be registered as an elector of—
   (a) a Māori electoral district; or
   (b) a General electoral district.
-(2) The option under subsection (1) (the Māori option) may be exercised by a person in accordance with section 77.
+(2) The option under subsection (1) may be exercised by a person in accordance with section 77.
 
 ### 77 Exercise of Māori option
 Exercise of option by 17-year-olds
@@ -1282,14 +1297,22 @@ Effect of exercise of option
 (1) The following persons may not exercise the Māori option during a local government election period:
   (a) a Māori who is registered as an elector of an electoral district:
   (b) a Māori who is named on a dormant roll and applies for registration as an elector of an electoral district.
-(2) To avoid doubt, subsection (1) relates to changing the type of district in which the person is entitled to vote only and does not otherwise affect any other section in this Act relating to the registration of electors.
+(2) To avoid doubt, subsection (1) relates to changing the type of electoral district in which the person is entitled to vote only and does not otherwise affect any other section in this Act relating to the registration of electors.
 (3) The Electoral Commission must not give effect to either of the following during a local government election period:
   (a) any advice received under section 77(3) by a registered elector; or
-  (b) if processing an application under section 83 by a Māori person named on a dormant roll, the choice made by the person when exercising the Māori option in that application if it would register them as an elector for a different type of district from that for which they were previously registered.
-(4) In this section, local government election period means a period that is 3 months before polling day for an election held under section 10(2) of the Local Electoral Act 2001.
+  (b) if processing an application under section 83 by a Māori person named on a dormant roll, the choice made by the person when exercising the Māori option in that application if it would register them as an elector for a different type of electoral district from that for which they were previously registered.
+(4) In this section,—
+  - **district** , , , and have the meanings given to them in section 5(1) of the Local Electoral Act 2001
+  - **local government election period** means a period that is 3 months before polling day for—
+    (a) an election held under section 10(2) of the Local Electoral Act 2001; or
+    (b) an election that is either of the following if the district or region in which the election is to be held has a Māori ward or Māori constituency:
+      (i) a triennial general election of members of a local authority that has been postponed under section 24A(3)﻿(c) or 258I(1) of the Local Government Act 2002:
+      (ii) a general election of a local authority called under section 258M(1) of the Local Government Act 2002 by the Minister responsible for the administration of that Act.
 
 ### 78C Māori option may not be exercised in by-election period
-(1) This section applies if the Speaker has published a notice of vacancy for an electoral district.
+(1) This section applies if—
+  (a) a notice of vacancy for an electoral district is published by the Speaker under section 129(1); or
+  (b) a writ for a fresh election in a district is issued by the Governor-General under section 153E(2).
 (2) The following persons may not exercise the Māori option during a by-election period if doing so would result in the person being eligible to vote in the by-election:
   (a) a Māori who is registered as an elector of an electoral district:
   (b) a Māori who is named on a dormant roll and applies for registration as an elector of an electoral district.
@@ -1298,7 +1321,9 @@ Effect of exercise of option
   (a) any advice received under section 77(3) by a registered elector; or
   (b) if processing an application under section 83 by a Māori person named on a dormant roll, the choice made by the person when exercising the Māori option in that application if it would register them as an elector for a different type of district from that for which they were previously registered.
 (5) However, subsections (2) and (4) do not apply if under section 131 no writ is issued.
-(6) In this section, by-election period means the period beginning on the date on which the notice of vacancy is published and ending on polling day for the by-election.
+(6) In this section, by-election period means,—
+  (a) in the case of a by-election conducted to fill a vacancy published by the Speaker under section 129(1), the period beginning on the date on which the notice of vacancy is published and ending on polling day for the by-election; and
+  (b) in the case of a fresh election conducted in a district following the issue of a writ by the Governor-General under section 153E(2), the period beginning on the date on which the previous election failed and ending on polling day for the fresh election.
 
 ### 79 Determination of Māori electoral population
 (1) For the purpose of enabling the Government Statistician to calculate the Māori electoral population, the Electoral Commission must, as soon as practicable after counting day, supply to the Government Statistician the following information as on counting day:
@@ -1315,21 +1340,23 @@ Effect of exercise of option
 ### 80 Disqualifications for registration
 (1) The following persons are disqualified for registration as electors:
   (a) a New Zealand citizen who (subject to subsection (3)) is outside New Zealand and has not been in New Zealand within the last 3 years:
-  (b) a permanent resident of New Zealand (not being a New Zealand citizen) who (subject to subsection (3)) is outside New Zealand and has not been in New Zealand within the last 12 months:
+  (b) a resident for electoral purposes (not being a New Zealand citizen) who (subject to subsection (3)) is outside New Zealand and has not been in New Zealand within the last 12 months:
   (c) a person who is detained in a hospital under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or in a secure facility under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, and to whom one of the following applies:
     (i) the person has been found by a court or a Judge to be unfit to stand trial within the meaning of the Criminal Procedure (Mentally Impaired Persons) Act 2003, or has been acquitted on account of his or her insanity, and (in either case) is detained under an order or direction under section 24 or section 31 or section 33 of that Act or under the corresponding provisions of the Criminal Justice Act 1985 and has been so detained for a period exceeding 3 years:
     (ii) the person has been found by a court, on conviction of any offence, to be mentally impaired, and is detained under an order made under section 34 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 or section 118 of the Criminal Justice Act 1985, and has been so detained for a period exceeding 3 years:
     (iii) the person is subject to, and has for a period exceeding 3 years been subject to, a compulsory treatment order made following an application under section 45(2) of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or a compulsory care order made following an application under section 29(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
     (iv) the person is detained under section 46 of the Mental Health (Compulsory Assessment and Treatment) Act 1992, and is a person to whom paragraph (d) would otherwise apply:
-  (d) a person who is detained in prison under—
-    (i) a sentence of imprisonment for life; or
-    (ii) a sentence of preventive detention; or
-    (iii) a sentence of imprisonment for a term of 3 years or more:
+  (d) a person who is detained in prison under a sentence of imprisonment (including following detention in a hospital or secure facility) in any case where the sentence of imprisonment—
+    (i) was imposed for offending that occurred before the commencement of this paragraph and is a sentence—
+      (A) of imprisonment for life; or
+      (B) of preventive detention; or
+      (C) for a term of 3 years or more; or
+    (ii) is imposed for any offending that occurred after the commencement of this paragraph:
   (e) a person whose name is on the Corrupt Practices List made out for any district.
-(1A) For the purposes of subsection (1)﻿(d)﻿(iii) and sections 86A, 86AB, and 86B, 2 or more sentences of imprisonment for a fixed term that are at any time directed to be served cumulatively are to be treated as a single sentence of imprisonment for a term equal to the sum of the term of imprisonment of each sentence.
-(2) The Registrar of the court in which a compulsory treatment order or any order under section 24 or 34 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 is made or in which any person is convicted of a corrupt practice must, not later than the fifth day of the month following the date of the order or conviction, forward to the Electoral Commission a certificate showing—
-  (a) the name, date of birth, place of abode, and description of the patient or offender; and
-  (b) the particulars of the order or conviction.
+(1A) For the purposes of subsection (1)﻿(d)﻿(i) and section 86B, 2 or more sentences of imprisonment for a fixed term that are at any time directed to be served cumulatively are to be treated as a single sentence of imprisonment for a term equal to the sum of the term of imprisonment of each sentence.
+(2) The Registrar of the court in which any person is convicted of a corrupt practice must, not later than the fifth day of the month following the date of the conviction, forward to the Electoral Commission a certificate showing—
+  (a) the name, date of birth, place of residence, and description of the offender; and
+  (b) the particulars of the conviction.
 (3) Nothing in subsection (1)﻿(a) or (b) applies to—
   (a) a person, being—
     (i) a public servant or a member of the Defence Force; or
@@ -1340,9 +1367,7 @@ Effect of exercise of option
     (ii) is the spouse, civil union partner, de facto partner, or child of the person referred to in subparagraph (i), or the child of the spouse, civil union partner, or de facto partner of that person.
 
 ### 81 Prison manager to forward to Electoral Commission details of prisoners disqualified for registration
-Not later than 7 days after a person described in section 80(1)﻿(d) is received into a prison to serve the whole or part of their sentence, the prison manager must forward to the Electoral Commission a notice stating—
-  (a) the name, previous residential address, and date of birth of the person; and
-  (b) the name and address of the prison.
+[Repealed]
 
 **Registration**
 
@@ -1355,6 +1380,7 @@ Not later than 7 days after a person described in section 80(1)﻿(d) is receive
 (4) Where a Maori is qualified to be registered as an elector of both a Maori electoral district and a General electoral district, that person may apply for registration as an elector of only one of those districts, being the district in respect of which that person has exercised his or her option under section 76.
 (5) A person commits an offence against this section who, being required by this section to apply for registration as an elector during any period, knowingly and wilfully fails to apply.
 (6) A person who applies for registration as an elector is not liable to prosecution for his or her earlier failure to apply for registration as an elector.
+(6A) A person who is registered as an elector by the Electoral Commission under section 89CB is not liable to prosecution for their earlier failure to apply for registration as an elector.
 (7) A person who commits an offence against this section is liable on conviction to a fine not exceeding—
   (a) $100 on a first conviction; and
   (b) $200 on a second or subsequent conviction.
@@ -1368,8 +1394,8 @@ Not later than 7 days after a person described in section 80(1)﻿(d) is receive
   (b) the person's date of birth; and
   (c) the place of residence in respect of which registration is claimed, specified in a manner that enables it to be clearly identified; and
   (d) the person's postal address, if different from the address given under paragraph (c); and
-  (e) the person's occupation, if any; and
-  (f) the honorific (if any) by which the person wishes to be addressed; and
+  (e) the person’s contact details, if any (for example, the person’s email address or phone numbers); and
+  (f)
   (g) whether or not the person is a Maori; and
   (h) any other particulars that are prescribed in regulations.
 (3) The Electoral Commission may reject an application for registration as an elector if—
@@ -1410,69 +1436,144 @@ A person who has a physical or mental impairment may apply for registration as a
   (a) in writing, by completing and signing a form approved for the purpose by the Electoral Commission; or
   (b) in an approved electronic medium, by providing the information necessary to complete the form.
 
-### 86A Registration of prisoners serving sentence of imprisonment of less than 3 years
-(1) This section applies when—
-  (a) a prisoner who is 18 years or older—
-    (i) is received into a prison to serve a sentence of imprisonment for a term of less than 3 years; or
-    (ii) has their sentence of imprisonment reduced or altered on appeal, or following a retrial, to a term of less than 3 years; or
-  (b) a prisoner turns 18 years while serving a sentence of imprisonment for a term of less than 3 years.
-(2) If this section applies, the prison manager must, as soon as is reasonably practicable,—
-  (a) advise the prisoner that if they are a New Zealand citizen or a permanent resident of New Zealand (as defined in section 73) and have at some time resided continuously in New Zealand for a period of not less than 1 year they are qualified to be registered as an elector of an electoral district, and are required by section 82 to apply to the Electoral Commission for registration; and
-  (b) ask the prisoner whether they want their enrolment details sent to the Electoral Commission to facilitate their registration as an elector.
-(3) If the prisoner wants their enrolment details sent to the Electoral Commission to facilitate their registration as an elector, section 86B applies.
+### 86AA Director of Mental Health to send to Electoral Commission information about persons disqualified for registration
+(1) The Director of Mental Health must send to the Electoral Commission the information specified in subsection (2) in relation to a person who—
+  (a) is disqualified under section 80(1)﻿(c) for registration as an elector; and
+  (b) is of or over the age of 17 years.
+(2) The information referred to in subsection (1) is—
+  (a) the name and date of birth of the person; and
+  (b) the person’s previous residential address; and
+  (c) the name and address of the hospital or secure facility in which the person is detained.
 
-### 86AB Registration of prisoners released after serving sentence of imprisonment of 3 years or more
-(1) Before a prisoner who is serving a sentence of imprisonment for a term of 3 years or more is released on parole or after serving the full sentence, the prison manager must, if the prisoner is 18 years or older,—
-  (a) advise the prisoner that if they are a New Zealand citizen or a permanent resident of New Zealand (as defined in section 73) they will, on release, be qualified to be registered as an elector of an electoral district, and are required by section 82 to apply to the Electoral Commission, within 1 month after their release, for registration; and
-  (b) ask the prisoner whether they want their enrolment details sent to the Electoral Commission to facilitate their registration as an elector.
-(2) If the prisoner wants their enrolment details sent to the Electoral Commission to facilitate their registration as an elector, section 86B applies.
+### 86AAB Registration of persons removed from prison to hospital or secure facility
+(1) This section applies in respect of a person who—
+  (a) was detained in a prison to serve a term of imprisonment; and
+  (b) is removed to a hospital or secure facility; and
+  (c) is not disqualified for registration under section 80(1)﻿(c); and
+  (d) is of or over the age of 17 years.
+(2) The Director of Mental Health must, as soon as is reasonably practicable,—
+  (a) advise the person that,—
+    (i) if they are of or over the age of 18 years and they are a New Zealand citizen or a resident for electoral purposes (as defined in section 73) and have at some time resided continuously in New Zealand for a period of not less than 1 year, they must, within 1 month after the date on which they were removed to the hospital or secure facility, apply to the Electoral Commission for registration as an elector of an electoral district; or
+    (ii) if they are of or over the age of 17 years, but under the age of 18 years, and they are a New Zealand citizen or a resident for electoral purposes (as defined in section 73) and have at some time resided continuously in New Zealand for a period of not less than 1 year, they may apply to the Electoral Commission for registration as an elector of an electoral district; and
+  (b) ask the person whether they want their registration details sent to the Electoral Commission to facilitate their registration as an elector.
+(3) If the person wants their registration details sent to the Electoral Commission to facilitate their registration as an elector, section 86AAD applies.
 
-### 86B Prison manager to collect and send enrolment information to Electoral Commission
-(1) If a prisoner referred to in section 86A or 86AB wants their enrolment details sent to the Electoral Commission to facilitate their registration as an elector, the prisoner must provide to the prison manager the following information for that purpose:
-  (a) the prisoner’s details specified in section 83(2)﻿(a), (b), (c), (d), (g), and (h); and
-  (b) if the prisoner is Māori, whether their choice is to be registered in a Māori electoral district or a General electoral district.
-(2) The prison manager must collect the enrolment information provided by a prisoner and send that information to the Electoral Commission as soon as is reasonably practicable—
-  (a) after collecting the information, if the information is collected from a prisoner referred to in section 86A; or
-  (b) after the prisoner’s release from prison, if the information is collected from a prisoner referred to in section 86AB.
-(3) If a prisoner wishes to apply for a direction under section 115 (unpublished names), the prison manager must—
-  (a) assist the prisoner to prepare an application accompanied by supporting information; and
-  (b) send the application and supporting information to the Electoral Commission with the prisoner’s enrolment information.
-(4) A prison manager may not use or disclose the information collected from a prisoner other than in accordance with subsection (2) or (3).
-(5) If, at any time after a prison manager sends a prisoner’s information to the Electoral Commission, the overall length of a prisoner’s sentence or sentences of imprisonment changes in a way that results in the prisoner becoming disqualified for registration as an elector under section 80(1)﻿(d), the prison manager must advise the Electoral Commission.
+### 86AAC Registration of persons disqualified for registration under section 80(1)﻿(c) following discharge
+(1) Before a person who is disqualified for registration under section 80(1)﻿(c) is discharged from a hospital or secure facility, the Director of Mental Health must, so far as is reasonably practicable,—
+  (a) advise the person that,—
+    (i) if they are of or over the age of 18 years and they are a New Zealand citizen or a resident for electoral purposes (as defined in section 73) and have at some time resided continuously in New Zealand for a period of not less than 1 year, they must, within 1 month after the date of their discharge, apply to the Electoral Commission for registration as an elector of an electoral district; or
+    (ii) if they are of or over the age of 17 years, but under the age of 18 years, and they are a New Zealand citizen or a resident for electoral purposes (as defined in section 73) and have at some time resided continuously in New Zealand for a period of not less than 1 year, they may, after their discharge, apply to the Electoral Commission for registration as an elector of an electoral district; and
+  (b) ask the person whether they want their registration details sent to the Electoral Commission to facilitate their registration as an elector.
+(2) If the person wants their registration details sent to the Electoral Commission to facilitate their registration as an elector, section 86AAD applies.
+(3) Subsection (1) does not apply if the person is being discharged to a prison.
 
-### 86C Enrolment information received from prison manager treated as application for registration
+### 86AAD Director of Mental Health to collect and send registration information to Electoral Commission
+(1) If a person referred to in section 86AAB or 86AAC wants their registration details sent to the Electoral Commission to facilitate their registration as an elector, the person must provide to the Director of Mental Health the following registration information for that purpose:
+  (a) their details required by section 83(2); and
+  (b) if the person is Māori, whether their choice is to be registered in a Māori electoral district or a General electoral district.
+(2) The Director of Mental Health must collect the registration information provided by the person and send that information to the Electoral Commission as soon as is reasonably practicable.
+(3) If the person wishes to apply for a direction under section 115 (unpublished names), the Director of Mental Health must—
+  (a) assist the person to prepare an application accompanied by supporting information; and
+  (b) send the application and supporting information to the Electoral Commission with the person's registration information.
+(4) The Director of Mental Health may not use or disclose the registration information collected from the person other than in accordance with subsection (2) or (3).
+
+### 86AAE Registration information received from Director of Mental Health treated as application for registration
 (1) The Electoral Commission must, for the purposes of this Act, treat—
-  (a) the receipt of a person’s details referred to in section 86B(1)﻿(a) as an application by the person to register as an elector of an electoral district; and
-  (b) the receipt of a person’s preference referred to in section 86B(1)﻿(b) to be enrolled on the Maori electoral roll as a request by the person to be registered as an elector of a Maori electoral district.
+  (a) the receipt of a person’s details referred to in section 86AAD(1)﻿(a) as an application by the person to register as an elector of an electoral district; and
+  (b) the receipt of a person’s preference referred to in section 86AAD(1)﻿(b) to be registered on the Māori electoral roll as a request by the person to be registered as an elector of a Māori electoral district.
 (2) This section overrides section 83(1) to (4).
 
-### 86D Delegation of prison manager’s functions under sections 86A, 86AB, and 86B
-(1) A prison manager may delegate to 1 or more prison officers the prison manager’s functions under sections 86A, 86AB, and 86B.
-(2) Subject to any directions or conditions imposed by the prison manager, a prison officer to whom the prison manager’s functions are delegated under this section may carry out those functions in the same manner and with the same effect as if they had been conferred on the prison officer directly by sections 86A, 86AB, and 86B.
+### 86AAF Director of Mental Health to communicate with person in way person can understand
+When carrying out their duties under sections 86AAB, 86AAC, and 86AAD, the Director of Mental Health must communicate with a person in a way that the person can reasonably be expected to understand.
+
+### 86AAG Delegation of Director of Mental Health’s functions under sections 86AAB, 86AAC, and 86AAD
+(1) The Director of Mental Health may delegate to 1 or more Directors of Area Mental Health Services or compulsory care co-ordinators any or all of the functions of the Director of Mental Health under sections 86AAB, 86AAC, and 86AAD.
+(2) Subject to any directions or conditions imposed by the Director of Mental Health, a Director of Area Mental Health Services or compulsory care co-ordinator to whom the functions of the Director of Mental Health are delegated under this section may carry out those functions in the same manner and with the same effect as if they had been conferred on the Director of Area Mental Health Services or compulsory care co-ordinator directly by sections 86AAB, 86AAC, and 86AAD.
+(3) A delegation must be in writing and may be revoked at any time.
+(4) In this section,—
+  - **compulsory care co-ordinator** means a co-ordinator within the meaning of section 5(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
+  - **Director of Area Mental Health Services** means a person appointed as a Director of Area Mental Health Services under section 92 of the Mental Health (Compulsory Assessment and Treatment) Act 1992.
+
+### 86A Prison manager to send to Electoral Commission information about prisoners disqualified for registration
+(1) This section applies in respect of a prisoner who—
+  (a) is of or over the age of 17 years; and
+  (b) is a person who is described in section 80(1)﻿(d) and who has been received into a prison to serve the whole or part of their sentence.
+(2) No later than 7 days after a prisoner is received into a prison, the prison manager must forward to the Electoral Commission a notice stating—
+  (a) the name and date of birth of the prisoner; and
+  (b) the prisoner’s previous residential address or, if the prisoner has been transferred to the prison after previously being detained in a hospital or secure facility, the name and address of the hospital or secure facility in which the prisoner was detained; and
+  (c) the name and address of the prison.
+
+### 86AB Registration of prisoners released after serving sentence of imprisonment of 3 years or more
+[Repealed]
+
+### 86B Registration of prisoners serving sentence of imprisonment who are not disqualified for registration under section 80(1)﻿(d)
+(1) This section applies in respect of a prisoner who is sentenced to a term of imprisonment and who—
+  (a) is not disqualified under section 80(1)﻿(d)﻿(i) from registration; or
+  (b) was disqualified under section 80(1)﻿(d)﻿(i) from registration but who has had their sentence of imprisonment reduced or altered on appeal, or following a retrial, to a term of less than 3 years.
+(2) The prison manager must, as soon as is reasonably practicable,—
+  (a) advise the prisoner that,—
+    (i) if they are of or over the age of 18 years and they are a New Zealand citizen or a resident for electoral purposes (as defined in section 73) and have at some time resided continuously in New Zealand for a period of not less than 1 year, they are qualified to be registered as an elector of an electoral district and are required by section 82 to apply to the Electoral Commission for registration as an elector; or
+    (ii) if they are of or over the age of 17 years, but under 18 years, and they are a New Zealand citizen or a resident for electoral purposes (as defined in section 73) and have at some time resided continuously in New Zealand for a period of not less than 1 year, they may apply to the Electoral Commission for registration as an elector; and
+  (b) ask the prisoner whether they want their registration details sent to the Electoral Commission to facilitate their registration as an elector.
+(3) If the prisoner wants their registration details sent to the Electoral Commission to facilitate their registration as an elector, section 86E applies.
+
+### 86C Prison manager to inform prisoners removed from hospital or secure facility of disqualification for registration
+(1) This section applies in respect of a prisoner who—
+  (a) is removed to a prison from a hospital or secure facility to serve a sentence of imprisonment; and
+  (b) during their detention in the hospital or secure facility, was not disqualified under section 80(1)﻿(c) for registration as an elector.
+(2) As soon as is reasonably practicable after the prisoner has been removed to the prison, the prison manager must inform the prisoner that they are disqualified under section 80(1)﻿(d) for registration as an elector of an electoral district.
+
+### 86D Registration of prisoners disqualified for registration under section 80(1)﻿(d) following release
+(1) Before a prisoner who is disqualified for registration as an elector under section 80(1)﻿(d) is released from prison, the prison manager must—
+  (a) advise the prisoner that,—
+    (i) if they are of or over the age of 18 years and they are a New Zealand citizen or a resident for electoral purposes (as defined in section 73) and have at some time resided continuously in New Zealand for a period of not less than 1 year, they must, within 1 month after the date of their release, apply to the Electoral Commission for registration as an elector of an electoral district; or
+    (ii) if they are of or over the age of 17 years, but under 18 years, and they are a New Zealand citizen or a resident for electoral purposes (as defined in section 73) and have at some time resided continuously in New Zealand for a period of not less than 1 year, they may, after their release, apply to the Electoral Commission for registration as an elector of an electoral district; and
+  (b) ask the prisoner whether they want their registration details sent to the Electoral Commission to facilitate their registration as an elector.
+(2) If the prisoner wants their registration details sent to the Electoral Commission to facilitate their registration as an elector, section 86E applies.
+
+### 86E Prison manager to collect and send registration information to Electoral Commission
+(1) If a prisoner referred to in section 86B or 86D wants their registration details sent to the Electoral Commission to facilitate their registration as an elector, the prisoner must provide to the prison manager the following registration information for that purpose:
+  (a) their details required by section 83(2); and
+  (b) if the prisoner is Māori, whether their choice is to be registered in a Māori electoral district or a General electoral district.
+(2) The prison manager must collect the registration information provided by the prisoner and send that information to the Electoral Commission as soon as is reasonably practicable after the prisoner’s release from prison.
+(3) If the prisoner wishes to apply for a direction under section 115 (unpublished names), the prison manager must—
+  (a) assist the prisoner to prepare an application accompanied by supporting information; and
+  (b) send the application and supporting information to the Electoral Commission with the prisoner’s registration information.
+(4) The prison manager may not use or disclose the registration information collected from the prisoner other than in accordance with subsection (2) or (3).
+
+### 86F Registration information received from prison manager treated as application for registration
+(1) The Electoral Commission must, for the purposes of this Act, treat—
+  (a) the receipt of a prisoner’s details referred to in section 86E(1)﻿(a) as an application by the prisoner to register as an elector of an electoral district; and
+  (b) the receipt of a prisoner’s preference referred to in section 86E(1)﻿(b) to be registered on the Māori electoral roll as a request by the prisoner to be registered as an elector of a Māori electoral district.
+(2) This section overrides section 83(1) to (4).
+
+### 86G Prison manager to communicate with prisoner in way prisoner can understand
+When carrying out their duties under sections 86B, 86C, 86D, and 86E, a prison manager must communicate with a prisoner in a way that the prisoner can reasonably be expected to understand.
+
+### 86H Delegation of prison manager’s functions under sections 86A, 86B, 86C, 86D, and 86E
+(1) A prison manager may delegate to 1 or more prison officers any or all of the prison manager’s functions under sections 86A, 86B, 86C, 86D, and 86E.
+(2) Subject to any directions or conditions imposed by the prison manager, a prison officer to whom the prison manager’s functions are delegated under this section may carry out those functions in the same manner and with the same effect as if they had been conferred on the prison officer directly by sections 86A, 86B, 86C, 86D, and 86E.
 (3) A delegation must be in writing and may be revoked at any time.
 (4) In this section, prison officer means an officer within the meaning of paragraph (a)﻿(ii) of the definition of that term in section 3(1) of the Corrections Act 2004.
-
-### 86E Prison manager to communicate with prisoner in way prisoner can understand
-When carrying out their duties under sections 86A, 86AB, and 86B, a prison manager must communicate with a prisoner in a way that the prisoner can reasonably be expected to understand.
 
 ### 87 Procedure if immigration status means applicant apparently not qualified to be registered
 (1) This section applies if, as a result of a comparison carried out under section 263A, the Electoral Commission believes that a person who has applied to be (but is not yet) registered as an elector of an electoral district is—
   (a) unlawfully in New Zealand; or
   (b) lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type.
 (2) If this section applies, the Electoral Commission must comply with subsections (3) to (5) before determining whether the applicant is qualified to be registered.
-(3) The Electoral Commission must, as soon as practicable, deliver to the applicant (personally or by post) a written notice that specifies—
+(3) The Electoral Commission must, as soon as practicable, give written notice to the applicant stating—
   (a) that it believes that the person is—
     (i) unlawfully in New Zealand; or
     (ii) lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type; and
   (b) that it may determine that the applicant’s immigration status means that the applicant is not qualified to be registered as an elector if information to the contrary is not made available to it by or on behalf of the applicant within 10 working days after the applicant receives the notice.
-(4) If the Electoral Commission receives no response within the time required, it must, as soon as practicable, deliver to the applicant (personally or by post) a further written notice that specifies—
+(4) If the Electoral Commission receives no response within the time required, it must, as soon as practicable, give written notice again to the applicant stating—
   (a) the advice that it received under section 263A(5) in respect of the applicant; and
   (b) the date on which the initial notice was delivered to the applicant; and
   (c) that it may determine that the applicant’s immigration status means that the applicant is not qualified to be registered as an elector if information to the contrary is not made available to it by or on behalf of the applicant within 10 working days after the applicant receives the further notice.
 (5) The Electoral Commission may determine whether the applicant is qualified to be registered if—
   (a) it has not received any response within the time specified in subsection (4)﻿(c); or
   (b) it has considered any response that was received within that time.
-(6) If the Electoral Commission determines that the applicant is not qualified to be registered, it must deliver to the applicant (personally or by post) a written notice of the determination.
+(6) If the Electoral Commission determines that the applicant is not qualified to be registered, it must give written notice to the applicant of the determination.
 (7) For the purposes of this section, a notice sent to the applicant by post—
   (a) is, in the absence of proof to the contrary, to be treated as having been delivered to and received by the applicant by post on the fourth working day after the date on which it is sent by post; and
   (b) is to be treated as sent by post to the applicant on a particular day if it is proved to have been—
@@ -1480,28 +1581,32 @@ When carrying out their duties under sections 86A, 86AB, and 86B, a prison manag
     (ii) submitted on that day to a person registered as a postal operator under the Postal Services Act 1998 for posting.
 
 ### 88 Applications received after issue of writ
-(1) If a writ has been issued requiring the conduct of an election in a district, then the Electoral Commission may not, at any time in the period beginning on the day after polling day and ending on the day of the return of the writ, register an application for registration as an elector that the Electoral Commission receives—
-  (a) on polling day from a person outside New Zealand; or
-  (b) after polling day from any person.
+(1) If a writ has been issued requiring the conduct of an election in a district, the Electoral Commission may not, at any time during the period beginning on the day after the close of registration and ending on the day of the return of the writ,—
+  (a) register an application for registration as an elector that the Electoral Commission receives after the close of registration; or
+  (b) amend an elector’s particulars on the roll in accordance with an application that the Electoral Commission receives after the close of registration.
 (1A) Subsection (1) is subject to subsections (2) to (4).
-(2) For the purposes of subsection (1), an application for registration is to be treated as having been received before or on polling day if—
-  (a) the application or the envelope in which it is contained bears a postmark or date stamp impressed before or on polling day at a place that the Electoral Commission has designated; or
+(2) For the purposes of subsection (1)﻿(a), an application for registration is to be treated as having been received before the close of registration if—
+  (a) the application or the envelope in which it is contained bears a postmark or date stamp impressed before the close of registration at a place that the Electoral Commission has designated; or
   (b) the applicant for registration produces a receipt that—
     (i) relates to the application; and
-    (ii) was issued before or on polling day at a place that the Electoral Commission has designated; and
-    (iii) was lodged at a polling place or with an electoral officer issuing special votes.
-(3) If a person applies for registration after the issue of a writ requiring the conduct of an election in a district and before polling day,—
+    (ii) was issued before the close of registration at a place that the Electoral Commission has designated.
+    (iii)
+(3) If a person applies for registration after the issue of a writ requiring the conduct of an election in a district and before the close of registration,—
   (a) the Electoral Commission must, if satisfied that the person is qualified to be registered, enter the name of the person on the electoral roll; and
   (b) the Electoral Commission is not required to enter the name of the person on the main roll or any supplementary roll or composite roll used at that election; and
   (c) the person may, at that election,—
     (i) be issued with a ballot paper in accordance with section 167, if the rolls can be marked (either manually or by electronic means) to indicate the person has applied to vote; or
     (ii) be issued with a special vote ballot paper in any other case.
-(4) If a person who is present in New Zealand applies on polling day for registration as an elector of a district in which an election is being conducted, the Electoral Commission—
-  (a) may issue the person with a special vote ballot paper; and
-  (b) must, if the Electoral Commission subsequently determines that the person is qualified to be registered as an elector, enter the name of the person on the electoral roll.
+(4) Subsection (3)﻿(a) does not apply if section 89(1A) or (1B) applies.
 
 ### 89 Procedure following application for registration
 (1) If the Electoral Commission is satisfied that any applicant for registration as an elector (whether by transfer from another district, or otherwise) is qualified to be registered, the Electoral Commission must enter the name of the applicant on the roll.
+(1A) If, before the close of registration, the Electoral Commission receives an application for registration as an elector from a person who is aged 17 years and who attains the age of 18 years in the period between the close of registration and the close of polling day, the Electoral Commission must, at the close of registration, on being satisfied the person is qualified to be registered as an elector but for their age,—
+  (a) treat the person as qualified to be registered as an elector; and
+  (b) enter the person’s name on the roll.
+(1B) After receiving a notice under section 89C(2) from an elector that they have changed their place of residence to a different electorate (a new electoral district), the Electoral Commission must treat the elector as qualified to be registered as an elector of the new electoral district and enter the elector’s name on the roll for the new electoral district in advance of the elector having resided in that district for a period equalling or exceeding 1 month if—
+  (a) the notice was received before the close of registration; and
+  (b) the elector would have resided in the new electoral district for a period equalling or exceeding 1 month by the close of polling day (whether or not the elector in fact continues to reside in the electoral district during the period between the close of registration and polling day).
 (2) If on receiving any application that includes the exercise of the Māori option the Electoral Commission believes that it is prevented, by any of sections 78A to 78C, from giving effect to the option, the Electoral Commission must—
   (a) notify the applicant of the reason why the exercise of the Māori option cannot be given effect to until a later date and advise what that date is; and
   (b) advise the applicant whether they are entitled to be registered as an elector in another type of district.
@@ -1511,7 +1616,7 @@ When carrying out their duties under sections 86A, 86AB, and 86B, a prison manag
   (b) to delete the name of the applicant from that main, supplementary, or composite roll.
 
 ### 89A Notice of registration
-The Electoral Commission must, not later than 14 days after the registration of a person as an elector, deliver to that person personally, or send to that person by post, written notice of the registration.
+The Electoral Commission must, not later than 14 days after the registration of a person as an elector, give to the person written notice of the registration.
 
 **Change of address**
 
@@ -1532,7 +1637,9 @@ The Electoral Commission must, not later than 14 days after the registration of 
     (i) not exceeding $50 on a first conviction; and
     (ii) not exceeding $100 on any subsequent conviction; but
   (b) is not, by reason only of that failure, disqualified from voting at an election in the electoral district in which he or she is registered.
-(7) Despite subsection (6), an elector who gives notice of the matters specified in subsection (2) after the expiry of the period referred to in that subsection but before the commencement of a prosecution is not liable for prosecution for his or her earlier failure to give notice.
+(7) However, a person is not liable for prosecution for an offence under subsection (6) if, before the commencement of the prosecution,—
+  (a) the person gives notice, in accordance with subsection (3), of the matters specified in subsection (2)﻿(a) and (b); or
+  (b) the Electoral Commission has, under section 89CA, amended the electoral roll to record the change in the person’s place of residence.
 
 ### 89C Elector must give notice of change of place of residence to different electoral district
 (1) This section applies to an elector who, being registered as an elector of an electoral district, changes his or her place of residence to a different electoral district (the new electoral district).
@@ -1557,23 +1664,53 @@ The Electoral Commission must, not later than 14 days after the registration of 
 (14) An elector who knowingly or wilfully fails to comply with subsection (2) commits an offence and is liable on conviction to a fine—
   (a) not exceeding $100 on a first conviction; and
   (b) not exceeding $200 on any subsequent conviction.
-(15) Despite subsection (14), an elector who gives notice of the matters specified in subsection (2) after the expiry of the period referred to in that subsection but before the commencement of a prosecution is not liable for prosecution for his or her earlier failure to give notice.
+(15) However, a person is not liable for prosecution for an offence under subsection (14) if, before the commencement of the prosecution,—
+  (a) the person gives notice, in accordance with subsection (3), of the matters specified in subsection (2)﻿(a), (b), and (c); or
+  (b) the Electoral Commission has, under section 89CA, removed the person’s name from the electoral roll for the district in which the elector is registered and entered the person’s name and particulars on the electoral roll for new electoral district.
 (16)
+
+### 89CA Electoral Commission updating elector’s address on electoral roll without receipt of notice from elector
+(1) This section applies if, on the basis of information disclosed to it pursuant to section 263B, the Electoral Commission is satisfied that an elector’s current place of residence is different from that recorded on the electoral roll.
+(2) The Electoral Commission may notify the elector in writing of the following matters:
+  (a) that the Electoral Commission believes that the electoral roll does not correctly record the elector’s current place of residence:
+  (b) the address that the Electoral Commission is satisfied is the elector’s current place of residence (the elector’s new address):
+  (c) in the case that the elector’s new address is located in the electoral district in which the elector is registered, that the Electoral Commission proposes to amend the electoral roll for the district in which the elector is registered to record the elector’s new address:
+  (d) in the case that the elector’s new address is located in a different electoral district from that in which the elector is registered, that the Electoral Commission proposes to remove the elector’s name and particulars from the electoral roll for the district in which the elector is registered (district A) and enter the elector’s name and particulars on the electoral roll for the district in which the elector’s new address is located (district B), which is—
+    (i) a Māori electoral district if district A was a Māori electoral district; or
+    (ii) a General electoral district if district A was a General electoral district:
+  (e) that the proposed action in paragraph (c) or (d) will be taken after the expiry of 28 days from the date the notification is sent (the notice period) unless before the end of the notice period the elector provides in writing such evidence as may be necessary to satisfy the Electoral Commission that the proposed action should not be taken.
+(3) If the Electoral Commission takes the proposed action described in subsection (2)﻿(c), the Electoral Commission must notify the elector, in accordance with section 94A, of the amendment made to the electoral roll.
+(4) If the Electoral Commission takes the proposed action described in subsection (2)﻿(d), the Electoral Commission must, no later than 14 days after entering the elector’s name and particulars on the electoral roll for district B, notify the elector in writing that—
+  (a) their name has been removed from the electoral roll for district A; and
+  (b) they are registered as an elector of district B.
+(5) In this section, elector includes any person of or over the age of 17 years who has had an application to register as an elector accepted by the Electoral Commission.
+
+### 89CB Electoral Commission may remove person’s name from dormant roll and register person as elector
+(1) This section applies if, on the basis of information disclosed to it pursuant to section 263B, the Electoral Commission is satisfied that a person whose name is on the dormant roll for any district should be registered as an elector of that district or any other district.
+(2) The Electoral Commission may notify the person in writing of the following matters:
+  (a) that the person’s name is on the dormant roll for an electoral district (district A):
+  (b) the address that the Electoral Commission is satisfied is the person’s current place of residence (the person’s address):
+  (c) that the Electoral Commission proposes to register the person’s name and particulars on the electoral roll for the district in which the person’s address is located (district B), which is—
+    (i) a Māori electoral district if district A was a Māori electoral district; or
+    (ii) a General electoral district if district A was a General electoral district:
+  (d) that the proposed action in paragraph (c) will be taken after the expiry of 28 days from the date on which the notification is sent (the notice period) unless before the end of the notice period the person provides in writing such evidence as may be necessary to satisfy the Electoral Commission that the proposed action should not be taken.
+(3) If the Electoral Commission takes the proposed action described in subsection (2)﻿(d), the Electoral Commission must, no later than 14 days after entering the person’s name and particulars on the electoral roll for district B, notify the person in writing that the person is registered as an elector of district B.
+(4) To avoid doubt, district B may be the same district as district A or a different district.
 
 **Updating of electoral rolls**
 
 ### 89D Inquiry to be made to update electoral rolls
-(1) The Electoral Commission must, at the times required by or under this section, direct an inquiry to be made in relation to the particulars on the roll for every person registered as an elector of a district.
-(2) An inquiry must be made,—
-  (a) where practicable, within the period of 12 months ending with the day on which a Parliament is due to expire; and
+(1) The Electoral Commission must make an inquiry into the particulars on the roll for every person registered as an elector of a district at the following times:
+  (a) if practicable, within the period of 12 months ending with the day on which a Parliament is due to expire; and
   (b) at any other time determined by the Electoral Commission.
-(3) In any year in which a triennial general election of members of any local authority must be held under the Local Electoral Act 2001, the Electoral Commission must direct an inquiry to be made concerning the particulars on the roll of every person who—
+(2) Additionally, in any year in which a triennial general election of members of any local authority is due to be held in accordance with section 10(2) of the Local Electoral Act 2001, the Electoral Commission must make an inquiry into the particulars on the roll for every person who—
   (a) is registered as an elector of a district; and
   (b) appears from those particulars to reside within a particular local government area.
-(4) If a roll that is not yet in force has been compiled under section 101(1), the inquiry directed to be made under this section must be in respect of that roll.
-(5) An inquiry made under subsection (1)—
+(3)
+(4) If a roll that is not yet in force has been compiled under section 101(1), the inquiry to be made under this section must be in respect of that roll.
+(5) An inquiry may be made by giving to every elector in respect of whom an inquiry is made a written notice that—
   (a) must—
-    (i) contain the particulars on the roll for the elector to whom it is addressed; or
+    (i) contain some or all of the particulars on the roll for the elector to whom it is addressed; or
     (ii) contain information about how the elector can access his or her particulars electronically; and
   (b) must require the elector, if any of those particulars have changed or are incorrect, to notify the Electoral Commission by—
     (i) sending the corrected particulars to the Electoral Commission in a form that the Electoral Commission has approved; or
@@ -1592,12 +1729,12 @@ The Electoral Commission must, not later than 14 days after the registration of 
   (a) must inform the elector that they are currently registered in a Māori electoral district or a General electoral district (whichever applies); and
   (b) must inform the elector that they are entitled to—
     (i) exercise the Māori option under section 76 at any time other than as provided in sections 78A to 78C; and
-    (ii) change the type of district in which they are registered; and
+    (ii) change the type of electoral district in which they are registered; and
   (c) must include a form or information about an approved electronic medium to use to exercise the Māori option; and
   (d) may give information about the differences between the 2 types of electoral districts that the Electoral Commission considers would be useful.
 
 ### 89E No inquiry required if application for registration as elector received
-If the Electoral Commission receives, during an inquiry under section 89D(1), or within 28 days before the commencement of an inquiry under that section, a duly completed application for registration as an elector,—
+If the Electoral Commission receives, during an inquiry under section 89D, or within 28 days before the commencement of an inquiry under that section, a duly completed application for registration as an elector,—
   (a) that application is deemed to be a completed form for the purposes of section 89D; and
   (b) the Electoral Commission must notify that elector that he or she will not receive an inquiry under section 89D.
 
@@ -1614,13 +1751,13 @@ If the Electoral Commission receives, during an inquiry under section 89D(1), or
   (a) is not an application in respect of registration as an elector required by section 83(1)﻿(a) to be signed; but
   (b) may be rejected for incompleteness under section 83(3) (which applies with all necessary modifications) if it does not include all the details specified in section 83(2)﻿(a), (b), (c), and (h).
 
-### 89G Elector who cannot be contacted to be included in dormant roll
+### 89G Elector who cannot be contacted to be included on dormant roll
 (1) This section applies if—
-  (a) the Electoral Commission is notified that an inquiry made under section 89D(1) cannot be delivered to the elector to whom it is addressed because the whereabouts of the elector are not known; or
+  (a) an inquiry under section 89D in relation to an elector cannot be delivered (whether by post, courier, or otherwise) to the elector at the elector's address on the roll; or
   (b) at any other time, the elector cannot be contacted at the elector’s address on the roll.
 (2) If this section applies, the Electoral Commission must—
   (a) make any inquiry as to the whereabouts of the elector that the Electoral Commission thinks fit; and
-  (b) if the Electoral Commission is unable to contact the elector, remove the name of the elector from the roll and include the name in the dormant roll maintained under section 109.
+  (b) if the Electoral Commission is unable to contact the elector, remove the name of the elector from the roll and include the name on the dormant roll maintained under section 109.
 
 **Changes of address**
 
@@ -1651,7 +1788,7 @@ If the Electoral Commission receives, during an inquiry under section 89D(1), or
   (a) registered as an elector of any district; or
   (b) a person who has applied under section 82(2) for registration as an elector.
 (4) The Electoral Commission must—
-  (a) send to the party to the marriage or civil union a notice asking for details of any changes resulting from the marriage or civil union that may be required to the name, address, and occupation under which he or she is registered on the roll; and
+  (a) give written notice to the party to the marriage or civil union asking for details of any changes resulting from the marriage or civil union that may be required to the name and address under which they are registered on the roll; and
   (b) if a change is required, amend the roll in accordance with the details supplied.
 (5) If an amendment to the roll is required under subsection (4) and the amendment does not appear on the main or supplementary roll printed for any election, the person is, if otherwise qualified, entitled to vote at the election under his or her former name as it appears on the roll.
 
@@ -1671,7 +1808,7 @@ If the Electoral Commission receives, during an inquiry under section 89D(1), or
   (a) the place of residence of the person, following a change of residence within an electoral district; or
   (b) the name of the person; or
   (c) any other particulars of a kind specified in section 83(2)﻿(d), (g), or (h).
-(2) The Electoral Commission must, not later than 14 days after the roll is amended, deliver to that person personally, or send to that person by post, notice in writing of the amendment of the particulars on the roll.
+(2) The Electoral Commission must, not later than 14 days after the roll is amended, give to the person written notice of the amendment of the particulars on the roll.
 
 **Objections to registration**
 
@@ -1697,7 +1834,7 @@ If the Electoral Commission receives, during an inquiry under section 89D(1), or
   (c) that if he or she fails to forward a statement to the Electoral Commission within 14 days after the day on which that notice is served on the person objected to, the Electoral Commission will, under section 95B, remove from the roll the name of the person objected to.
 (4) If, after making the inquiries it thinks fit, the Electoral Commission is unable to serve the notice of objection on a person personally after making at least 2 attempts, the Electoral Commission must—
   (a) remove the name of the person from the roll; and
-  (b) include the name in the dormant roll maintained under section 109.
+  (b) include the name on the dormant roll maintained under section 109.
 
 ### 95B Power to remove name from roll
 Where, within 14 days after the day on which a notice under section 95A(1) or section 96(2) is served on the person objected to,—either fails to provide evidence of eligibility to be on the roll or notifies the Electoral Commission that he or she consents to the removal from the roll of the name of the person objected to, the Electoral Commission must, unless the objection has been withdrawn by the objector, remove from the roll the name of the person objected to and must notify the parties accordingly.
@@ -1733,7 +1870,7 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
   (b) be served personally in accordance with the rules governing personal service contained in the District Courts Rules 2014.
 (4) If the Electoral Commission is unable, after making any inquiries it thinks fit, to serve notice of objection on the person objected to personally, after making at least 2 attempts, the Electoral Commission must—
   (a) remove the person’s name from the roll; and
-  (b) include the person’s name in the dormant roll maintained under section 109.
+  (b) include the person’s name on the dormant roll maintained under section 109.
 (5) Nothing in this section affects any other provision of this Act that relates to the removal of names from the roll by the Electoral Commission.
 
 ### 97 Procedure on reference of application or objection to District Court
@@ -1759,11 +1896,11 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
     (i) by any Registrar of Births and Deaths; or
     (ii) by the father, mother, or spouse, civil union partner, or de facto partner of that person or by a sister or brother of that person:
   (c)
-  (d) the name of every person who, as a result of an inquiry made at that person’s address on the roll, the Electoral Commission has reason to believe has ceased for 1 month or upwards to reside in the district:
+  (d) the name of every person who, as a result of inquiries made under section 89G(2)﻿(a), the Electoral Commission has reason to believe has ceased for 1 month or more to reside in the district in which they are registered:
   (e) the name of every person whose name is entered on the Corrupt Practices List made out for any district:
   (f) the name of every person whose disqualification under section 80—
     (i) is duly certified to the Electoral Commission; or
-    (ii) is notified to the Electoral Commission under section 81:
+    (ii) is notified to the Electoral Commission under section 86A:
     (ii)
   (g) the name of every Māori person who has exercised the Māori option under section 76 and chosen to be registered as an elector for a different type of electoral district:
   (h) where the roll is for a Maori electoral district, the name of every person who is not a Maori:
@@ -1785,14 +1922,10 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
 (6) No alteration pursuant to this section shall be made to the roll for a district in the period beginning on the day after polling day and ending on the day after the day of the return of the writ.
 
 ### 99 Notice of alterations to roll
-(1) Where, pursuant to any of the provisions of paragraphs (c) to (i) of section 98(1), the name of a person is removed from the roll, the Electoral Commission must, in accordance with subsection (3) or subsection (4), deliver or send to that person, notice in writing of the removal of that person’s name from the roll.
-(2) Where the name of a person (being a name which, pursuant to section 98(1)﻿(h) or section 98(1)﻿(i), has been removed from a roll) is entered, pursuant to section 98(4), on another roll, the Electoral Commission must, in accordance with subsection (3) or subsection (4), deliver or send to that person notice in writing of the entry of that person’s name on that other roll.
-(3) Subject to subsection (4), the notice required by subsection (1) or subsection (2)—
-  (a) shall be delivered to the person personally or sent to the person by post; and
-  (b) shall be so delivered or sent not later than 14 days after the date on which,—
-    (i) where the notice is required by subsection (1), the person’s name is removed; or
-    (ii) where the notice is required by subsection (2), the person’s name is entered.
-(4) Where the name of a person is removed or entered, as the case may be, in the period beginning on the day after writ day and ending on polling day, the notice required by subsection (1) or (2) must immediately be delivered to the person personally or sent to the person by post.
+(1) If the name of a person is removed from the roll under any of the provisions in section 98(1)﻿(d) to (i), the Electoral Commission must, in accordance with subsection (3) or (4), give written notice to the person that their name has been removed from the roll.
+(2) If the name of a person has been removed from a roll under section 98(1)﻿(h) or (i) and, under section 98(4), entered on another roll, the Electoral Commission must, in accordance with subsection (3) or (4), give written notice to the person that their name has been entered on another roll.
+(3) If the name of a person is removed or entered in the period beginning on the day after writ day and ending on polling day, the notice required by subsection (1) or (2) must be given immediately.
+(4) In any other case, a notice required by subsection (1) or (2) must be given no later than 14 days after the date on which the person’s name is removed or entered.
 
 ### 100 Corrupt Practices List
 (1) Where it is proved before the Electoral Commission that any person who is registered or who applies for registration as an elector of a district has, within the immediately preceding period of 3 years,—the Electoral Commission must enter the name, residence, and description of that person and particulars of the conviction or report on a list to be called the Corrupt Practices List.
@@ -1832,11 +1965,11 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
   (b) incorporate the additions, alterations, and deletions made to an electoral roll into the electoral roll that supersedes it.
 
 ### 104 Main roll to be printed
-(1) The Electoral Commission must, at least once in each year, print a main roll for each district that contains a list of all persons whose names are lawfully on the electoral roll for the relevant district on a date to be fixed for the closing of the main rolls.
-(2) The date to be fixed for the purposes of subsection (1) shall,—
-  (a) in the case of a year in which Parliament is due to expire, be fixed by the Governor-General by Order in Council published in the Gazette; and
-  (b) in the case of any other year, be fixed by the Electoral Commission by notice in the Gazette.
-(3) Every main roll printed for any district under this section shall be the main roll for the district until a new main roll is printed for the district.
+(1) Each year, the Electoral Commission must—
+  (a) fix a date for the closing of the main rolls; and
+  (b) publish the date in the Gazette.
+(2) At least once a year, the Electoral Commission must print a main roll for each district that lists all persons whose names are lawfully on the electoral roll for the relevant district as at the date fixed for the closing of the main rolls.
+(3) Every main roll printed for a district is the main roll for the district until a new main roll is printed for the district.
 
 ### 105 Supplementary rolls to be printed
 (1) The Electoral Commission must, from time to time, print a supplementary roll for a district that contains a list of all persons whose names do not appear on the main roll or any existing supplementary roll for the district but are lawfully on the electoral roll for the district on a date to be fixed for the closing of that supplementary roll by the Electoral Commission.
@@ -1844,7 +1977,7 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
 (3) Every supplementary roll printed for a district under this section is a supplementary roll for the district until a new main roll is printed for the district.
 
 ### 106 Form of main roll and supplementary rolls
-(1) Every main roll or supplementary roll printed for any district shall show the names, residences, and occupations (if any) of the persons included therein, arranged alphabetically in order of surnames.
+(1) The main roll and supplementary rolls printed for a district must show the names and residences of the persons included on the roll, arranged alphabetically in order of surnames.
 (2) The names on each page of the main roll and of every supplementary roll printed for any district shall be numbered consecutively, beginning with the number 1 in the case of the first name on each page.
 (3) The pages of every main roll or supplementary roll printed for any district shall be numbered consecutively, beginning with the number 1 in the case of the first page of the main roll and, in the case of a supplementary roll, with the number immediately following the number of the last page of the last printed roll of the district, whether main or supplementary.
 (4) The number appearing on the main roll or, as the case may be, on any supplementary roll printed for any district against the name of any elector, preceded by the number of the page on which his or her name appears, shall be deemed to be his or her number on the roll.
@@ -1862,10 +1995,10 @@ Where, within 14 days after the day on which a notice under section 95A(1) or se
   (a) shall cause the composite roll to be printed as soon as may be after the issue of the writ for the election; and
   (b) shall not be obliged to issue a supplementary roll for the district under the proviso to section 105(1) in relation to that election.
 (4) Where a composite roll for a district is printed under this section,—
-  (a) the composite roll shall, notwithstanding section 104(3), be the main roll for the district until a new main roll is printed for the district under section 104(1) or a new composite roll is printed for the district under this section; and
+  (a) the composite roll shall, notwithstanding section 104(3), be the main roll for the district until a new main roll is printed for the district under section 104(2) or a new composite roll is printed for the district under this section; and
   (b) the main roll and any supplementary rolls that were in force for the district immediately before the date of the closing of the composite roll shall cease to be in force.
 (5) Nothing in this section—
-  (a) limits the provisions of section 104(1); or
+  (a) limits the provisions of section 104(2); or
   (b) prevents any main roll or supplementary roll that is no longer in force from being examined for the purpose of determining—
     (i) whether any person’s name should appear on the main roll or any supplementary roll for the time being in force for any district; or
     (ii) whether any person is qualified to vote in any district as a special voter.
@@ -1880,10 +2013,11 @@ The Electoral Commission—
 ### 109 Dormant roll
 (1) The Electoral Commission must maintain a dormant roll that shows for each district the particulars of those persons whose names have been removed from the roll for the relevant district—
   (a) under section 89G; or
-  (b) as a result of the removal of the name of that person from the roll under section 95A(4) or 96(5).
+  (b) as a result of the removal of the name of that person from the roll under section 95A(4) or 96(4).
 (2) The Electoral Commission must remove the name of a person from the dormant roll on the first occurrence of any of the following events:
   (a) in the case of a person whose name has been removed from the electoral roll under section 89G, when the person registers as an elector of any district; or
-  (b) in the case of a person whose name has been removed from the electoral roll under section 95A(4) or section 96(5), when the person registers as an elector of any district; or
+  (b) in the case of a person whose name has been removed from the electoral roll under section 95A(4) or section 96(4), when the person registers as an elector of any district; or
+  (ba) in the case of a person whose name has been removed from the electoral roll under section 89G, 95A(4), or 96(4), when the person is registered as an elector of any district on the initiative of the Electoral Commission under section 89CB; or
   (c) in the case of a person who dies, when the Electoral Commission is satisfied of the identity of the person and the death has been notified to the Electoral Commission—
     (i) by any Registrar of Births and Deaths; or
     (ii) by the father, mother, spouse, civil union partner, de facto partner, sister, or brother of the person; or
@@ -1952,7 +2086,7 @@ For the purposes of sections 111C to 111F,—
 ### 111C Electoral Commission may seek consent of Maori electors to supply of information to designated body
 (1) The Electoral Commission may seek the consent of any Maori elector to the supply by the Electoral Commission from time to time of the particulars described in subsection (2) to the designated body for the purpose of establishing and maintaining a register or registers of iwi affiliations.
 (2) The particulars referred to in subsection (1) are—
-  (a) the elector’s name, including first names, surname, and preferred honorific (if any):
+  (a) the elector’s first names and surname:
   (b) the elector’s postal address, email address (if any), and contact telephone numbers (if any):
   (c) the elector’s date of birth:
   (d) any randomly generated number assigned to that elector by the Electoral Commission.
@@ -2015,7 +2149,7 @@ For the purposes of sections 111C to 111F,—
   (c) without limiting paragraph (a), for the purposes of research by that person that relates to elector participation in an election, a by-election, or a poll conducted under this Act or the Local Electoral Act 2001,—
     (i) a list of electors in a particular age group as defined in section 114(9); or
     (ii) a list of electors of Māori descent.
-(2) Every list supplied pursuant to a request under subsection (1) shall specify, in relation to each elector on that list, his or her name, postal address, residential address, occupation (if any), preferred honorific (if any), and meshblock.
+(2) A list supplied pursuant to a request under subsection (1) must specify, in relation to each elector on the list, the elector’s name, postal address, residential address, and meshblock.
 (3) Any request made under subsection (1) may seek information about electors appearing to be entitled to vote in—but shall not include any request for a random sample of electors.
   (a) 1 or more named electoral districts; or
   (b) all electoral districts; or
@@ -2040,7 +2174,7 @@ For the purposes of sections 111C to 111F,—
   (c) a list of electors whose birthdays fall within a period of 12 months:
   (d) a list of electors as at a date specified by the Statistician:
   (e) a list of electors on the dormant roll:
-  (f) in relation to each elector on a list described in paragraphs (a) to (e), the elector’s name, date of birth, postal address, residential address, occupation (if any), preferred honorific (if any), and meshblock:
+  (f) in relation to each elector on a list described in paragraphs (a) to (e), the elector’s name, date of birth, postal address, residential address, and meshblock:
   (g) information about any elector appearing to be entitled to vote in—
     (i) 1 or more named electoral districts; or
     (ii) all electoral districts; or
@@ -2074,9 +2208,9 @@ For the purposes of sections 111C to 111F,—
   (a) the body has in place procedures for the democratic conduct of its elections; and
   (b) it is in the public interest that the elections are conducted using the specified information.
 (10) For the purposes of this section, the term specified information means, in respect of each elector appearing to reside in the appropriate area and entitled to vote in the election, by-election, or poll, so much of the following information as is requested by an electoral officer or electoral official or designated body:in respect of which the elector appears to be entitled to vote.
-  (a) the elector’s name, including first names, surname, and preferred honorific (if any):
+  (a) the elector’s first names and surname:
   (b) the elector’s residential address and postal address (if different):
-  (c) the elector’s occupation (if any):
+  (c)
   (d) the elector’s electoral district (whether Maori or General):
   (e) statistical meshblock details:
   (f) a description of each—
@@ -2101,7 +2235,7 @@ For the purposes of sections 111C to 111F,—
   (d)
   (e) any other person charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand and relating to electoral matters or the conduct of any general election or by-election.
 (3) The information referred to in subsection (1)﻿(a) is—
-  (a) the names, residential addresses, occupations (if any), preferred honorifics (if any), meshblock, and postal addresses of, and any randomly generated number assigned by the Electoral Commission to, any or all of the following persons:
+  (a) the names, residential addresses, meshblock, and postal addresses of, and any randomly generated number assigned by the Electoral Commission to, any or all of the following persons:
     (i) the electors of an electoral district:
     (ii) the persons whose names are on the dormant roll for an electoral district:
     (iii) the electors of an electoral district who were registered as electors for that district on or after the date fixed for the closing of the main roll for the district pursuant to section 104, or on or after a date nominated by the applicant, that date being not earlier than the date on which the roll was last closed for printing:
@@ -2131,7 +2265,7 @@ If the Electoral Commission is required in accordance with this Act to supply in
 
 ### 115 Unpublished names
 (1) Notwithstanding sections 101, 104, 105, 107, 108, and 110(3)﻿(c) and (d), where the Electoral Commission is satisfied, on the application of any person, that the publication of that person’s name would be prejudicial to the personal safety of that person or his or her family, the Electoral Commission may direct that—
-  (a) the name, residence, and occupation of that person shall not be published in any main or supplementary roll or in any list or index that may be available for inspection by the public; and
+  (a) the name and residence of that person shall not be published in any main or supplementary roll or in any list or index that may be available for inspection by the public; and
   (b) the name and particulars of that person shall not be available for inspection under section 110(3)﻿(c); and
   (c) the application for registration of that person shall not be available for inspection under section 110(3)﻿(d).
 (2) Without limiting the discretion conferred on the Electoral Commission by subsection (1), the Electoral Commission may on the production of—exercise in respect of that person’s name, and without further evidence or inquiry, the power conferred on the Electoral Commission by that subsection.
@@ -2233,7 +2367,7 @@ Whenever Parliament is dissolved or expires, the Governor-General must, not late
     (iii) if the party has 1 or more component parties, the name of each component party; and
   (d) be in a form that the Electoral Commission has approved.
 (3) Every list submitted under this section—
-  (a) must be submitted to the Electoral Commission not later than noon on the day before nomination day; and
+  (a) must be submitted to the head office of the Electoral Commission no later than noon on nomination day; and
   (b) may be submitted by hand, post, or electronically.
 (3A)
 (4) The secretary of the political party must lodge with the list submitted under this section, in relation to each candidate nominated in the list,—
@@ -2245,18 +2379,18 @@ Whenever Parliament is dissolved or expires, the Governor-General must, not late
   (a) on the left-hand side of the ballot paper beside the name of that party on the party vote part of the ballot paper; and
   (b) on the right-hand side of the ballot paper beside the name of any constituency candidate of that party (if any) on the electorate vote part of the ballot paper.
 (8) Every logo submitted under this section—
-  (a) must be submitted to the Electoral Commission not later than noon on the date specified in the writ for the election of constituency candidates as the latest date for the nomination of constituency candidates; and
+  (a) must be submitted to the head office of the Electoral Commission no later than noon on nomination day; and
   (b) may be submitted by hand, post, or electronically.
 
 ### 127A Deposit by party secretary
-(1) If a secretary of a political party submits a list under section 127, he or she must pay to the Electoral Commission, no later than noon on the day before nomination day, a deposit of $1,000 (inclusive of goods and services tax).
+(1) If a secretary of a political party submits a list under section 127, he or she must pay to the Electoral Commission, no later than noon on nomination day, a deposit of $1,000 (inclusive of goods and services tax).
 (2) The deposit must be paid by direct credit to a bank account nominated by the Electoral Commission.
 (3) The deposit is forfeit and must be paid into a Crown Bank Account if the party neither—
   (a) receives in total at least 0.5% of the total number of all party votes received by all the parties listed on the part of the ballot paper that relates to the party vote; nor
   (b) wins a constituency seat.
 (4) In every other case the deposit must be returned to the secretary of the party on whose behalf the deposit is paid, but only after the Electoral Commission has received—
   (a) a duly completed return under section 206I in respect of that party; and
-  (b) the auditor’s report obtained under section 206L that relates to that return.
+  (b) an auditor’s report obtained under section 206L relating to the return, if that section applies.
 (5) For the purposes of subsection (3)﻿(b), a party wins a constituency seat if—
   (a) a constituency candidate for that party has his or her name endorsed on the writ under section 185 as a person declared to be elected as a member of Parliament; or
   (b) a constituency candidate for a component party of that party (being a component party that is not listed on the part of the ballot paper that relates to the party vote but is, in accordance with the details held by the Electoral Commission under any of the provisions of sections 127(3A) and 128A, a component party of that party) has his or her name endorsed on a writ under section 185 as a person declared to be elected as a member of Parliament.
@@ -2264,14 +2398,14 @@ Whenever Parliament is dissolved or expires, the Governor-General must, not late
 ### 128 Acceptance or rejection of lists by Electoral Commission
 (1) The Electoral Commission must reject a list submitted under section 127—
   (a) if the list is not submitted by a political party registered under Part 4; or
-  (b) if the list is not lodged with the Electoral Commission by noon on the day before nomination day; or
+  (b) if the list is not lodged with the Electoral Commission by noon on nomination day; or
   (c) if the list does not contain the name of at least 1 candidate; or
   (d) if the list does not contain the declaration required by section 127(2)﻿(c); or
   (da)
-  (e) if the deposit required by section 127A is not paid by noon on the day before nomination day.
+  (e) if the deposit required by section 127A is not paid by noon on nomination day.
 (2) Where—the Electoral Commission shall delete the name of that person from the list and the order of preference in the list shall be deemed to be amended accordingly.
   (a) any person named as a candidate on a list submitted under section 127 is not qualified both to be a candidate and to be elected a member of Parliament; or
-  (b) the consent of any person named as a candidate on a list submitted under section 127 is not lodged in the required form with the Electoral Commission not later than noon on the day before nomination day,—
+  (b) the consent of any person named as a candidate on a list submitted under section 127 is not lodged in the required form with the Electoral Commission not later than noon on nomination day,—
 (3) If, after the deletion of any name or names of candidates from a list pursuant to subsection (2), there are no names of candidates left remaining on the list, the provisions of subsection (1)﻿(c) shall apply.
 
 ### 128A Notice of change in component parties
@@ -2364,12 +2498,18 @@ Where any vacancy is filled under section 137, or the Electoral Commission deter
 ### 141 Returning Officer to be notified of writ
 [Repealed]
 
-### 142 Electoral Commission to give public notice of polling day, nomination day, and nomination process
-(1) Immediately after receiving a writ requiring an election to be held in a district, the Electoral Commission must give public notice of the following matters:
-  (a) the polling day appointed in the writ:
-  (b) the nomination day appointed in the writ:
-  (c) the requirements for submitting nominations of candidates.
-(2)
+### 142 Electoral Commission to give notice of nomination day and nomination process
+(1) This section applies,—
+  (a) in respect of a general election, on the earlier of the following:
+    (i) the day on which the Prime Minister gives public notice of the day that is to be polling day for a general election; and
+    (ii) the day on which the Governor-General issues, under section 125, a writ for a general election; or
+  (b) in respect of a by-election, on the day on which either of the following occurs:
+    (i) the Speaker publishes, under section 129(1), a notice of vacancy in the seat of a member of Parliament elected to represent an electoral district that is to be filled by a by-election:
+    (ii) the Governor-General issues, under section 153E(2), a writ for a fresh election in a district.
+(2) If this section applies, the Electoral Commission must give notice to the public of the following matters:
+  (a) the date of nomination day; and
+  (b) the requirements for submitting nominations of candidates.
+(3) Notice may be given in any manner that the Electoral Commission considers appropriate.
 
 **Nominations**
 
@@ -2378,16 +2518,17 @@ Where any vacancy is filled under section 137, or the Electoral Commission deter
 (2) A person's consent to nomination—
   (a) must, unless subsection (3) applies, be given in writing or electronically; but
   (b) need not be given at the time the nomination paper is lodged.
-(3) Where any person is for the time being outside New Zealand, his or her consent, for the purposes of subsection (2), may be signified to the Returning Officer in any manner approved by the Electoral Commission.
+(3) Where any person is for the time being outside New Zealand, his or her consent, for the purposes of subsection (2), may be signified in any manner approved by the Electoral Commission.
 (3A)
-(4) Every nomination paper and every consent and every logo submitted under subsection (3A) for inclusion on the ballot paper shall be lodged with or given to the Returning Officer for the district not later than noon on nomination day. The Returning Officer shall give a receipt in writing for every nomination accepted by him or her.
-(5) Each constituency candidate shall be nominated by a separate nomination paper in such manner as, in the opinion of the Returning Officer, is sufficient to identify the constituency candidate.
+(4) A nomination paper and a person’s consent to nomination must be lodged with the Electoral Commission, in accordance with the requirements notified under section 142(2)﻿(b), no later than noon on nomination day.
+(4A) The Electoral Commission must acknowledge, in writing, receipt of a nomination made in accordance with the requirements in subsections (1) to (3).
+(5) Each constituency candidate shall be nominated by a separate nomination paper in such manner as, in the opinion of the Electoral Commission, is sufficient to identify the constituency candidate.
 (6) Every constituency candidate shall ensure that the name or names shown on the nomination paper as the name or names to be used on the ballot paper are short enough to fit on the ballot paper.
 (7) No elector may nominate more than 1 constituency candidate.
-(8) Any registered elector of the district may inspect any nomination paper or consent at the Returning Officer’s office without payment at any time when the office is open for the transaction of business.
+(8)
 
 ### 144 Deposit by candidate
-(1) Every constituency candidate, or some person on the constituency candidate’s behalf, shall deposit with the Returning Officer the sum of $300 not later than noon on nomination day.
+(1) Every constituency candidate, or some person on the constituency candidate’s behalf, must deposit with the Electoral Commission the sum of $300 not later than noon on nomination day.
 (2) The deposit must be paid—
   (a) in cash; or
   (b) by direct credit to a bank account nominated by the Electoral Commission.
@@ -2395,40 +2536,39 @@ Where any vacancy is filled under section 137, or the Electoral Commission deter
 (4) In every other case, the deposit of a constituency candidate must be returned to the person who paid it, but only after the Electoral Commission has received from that candidate duly completed returns under sections 205K and 209.
 
 ### 145 Acceptance or rejection of nomination
-(1) Subject to the concurrence of the Electoral Commission, the Returning Officer shall reject the nomination of any constituency candidate—
-  (a) if the nomination paper and the consent of the candidate are not lodged with the Returning Officer not later than noon on nomination day; or
-  (b) if the nomination paper does not state that the candidate is a registered elector of a specified electoral district, or, where section 49 applies, is a qualified elector of a specified electoral district; or
-  (c) if the nomination paper is not signed by at least 2 registered electors of the district for which the nomination is made; or
-  (ca)
-  (d) if the required deposit is not paid as required by this Act.
-(2) Subject to the concurrence of the Electoral Commission, the Returning Officer shall not accept the nomination of any constituency candidate if the Returning Officer is not satisfied, by such evidence (if any) as the Returning Officer requires, that the name under which the candidate is nominated is—
+(1) The Electoral Commission must reject the nomination of a constituency candidate if—
+  (a) the nomination paper and the consent of the candidate are not lodged with the Electoral Commission by noon on nomination day; or
+  (b) the nomination paper does not state that the candidate is a registered elector of a specified electoral district, or, where section 49 applies, is a qualified elector of a specified electoral district; or
+  (c) the nomination paper is not signed by at least 2 registered electors of the district for which the nomination is made; or
+  (d) the required deposit is not paid as required by this Act.
+(2) The Electoral Commission must also reject the nomination of a constituency candidate if the Electoral Commission is not satisfied, by such evidence (if any) that the Electoral Commission requires, that the name under which the candidate is nominated is—
   (a) the name under which the candidate’s birth was registered, with any alteration or addition made to it under section 67 of the Births, Deaths, Marriages, and Relationships Registration Act 2021 (or an earlier corresponding provision); or
   (b) in the case of a person who has been adopted, the name conferred on that person by the adoption order; or
-  (c) the name by which the candidate was commonly known throughout the period of 12 months ending with the day on which the nomination paper is lodged with the Returning Officer; or
-  (d) the name which was adopted by the candidate through a name change registered under section 71 of the Births, Deaths, Marriages, and Relationships Registration Act 2021 (or an earlier corresponding provision) before the period of 12 months ending with the day on which the nomination paper is lodged with the Returning Officer and which was used by the candidate throughout that period.
-(3) Despite anything in subsection (2), in applying that subsection in the case of any constituency candidate who is, or has been, married to, or in a civil union with, another person, the other person’s surname may be substituted for the candidate’s surname in any of the cases specified in paragraphs (a) to (d) of that subsection, unless, if the other person were nominated as a constituency candidate under that surname, the Returning Officer would be required to reject his or her nomination under the provisions of that subsection.
-(4)
-(5) Notwithstanding anything in subsection (2), the Returning Officer may, with the concurrence of the Electoral Commission, accept the nomination of any constituency candidate under a name that does not comply with the provisions of that subsection, if the Returning Officer is satisfied that the name has been adopted by the candidate in good faith and for good reason and is not indecent or offensive or likely to deceive or cause confusion.
-(6) In every other case the Returning Officer shall accept the nomination.
-(7) Nothing in subsection (6) limits the jurisdiction of the court hearing an election petition.
+  (c) the name by which the candidate was commonly known throughout the period of 12 months ending with the day on which the nomination paper is lodged with the Electoral Commission; or
+  (d) the name that the candidate adopted through a name change registered under section 71 of the Births, Deaths, Marriages, and Relationships Registration Act 2021 (or an earlier corresponding provision) before the period of 12 months ending with the day on which the nomination paper is lodged with the Electoral Commission and that the candidate used throughout that period.
+(3) However, the Electoral Commission may accept the nomination of any constituency candidate under a name that does not comply with subsection (2) if—
+  (a) the Electoral Commission is satisfied that the candidate adopted the name in good faith and for good reason and the name is not indecent or offensive or likely to deceive or cause confusion; or
+  (b) the candidate has substituted their surname with the surname of another person with whom the candidate is, or has been, married to, or in a civil union with, and the Electoral Commission would not be required to reject any nomination of the other person as a constituency candidate with that surname under subsection (2).
+(4) In any other case, the Electoral Commission must accept the nomination.
+(5) Subsection (4) does not limit the jurisdiction of the court hearing an election petition.
 
 ### 146 Withdrawal of nomination
 (1) A constituency candidate may, by giving signed notice, withdraw his or her nomination.
 (1A) The notice must—
   (a) be in a form that the Electoral Commission has approved; and
   (b) be witnessed as specified in the form.
-(2) No withdrawal of nomination shall have any effect unless it is lodged with the Returning Officer not later than noon on nomination day.
+(2) No withdrawal of nomination shall have any effect unless it is lodged with the Electoral Commission not later than noon on nomination day.
 (3) Where a candidate has duly withdrawn his or her nomination his or her deposit shall be returned to the person who paid it.
 
 **Bulk nomination of candidates by registered political parties**
 
-### 146A Purpose of sections 146B to 146L
-Sections 146B to 146L provide an alternative to the procedures set out in sections 143 to 146 by which people can be nominated as candidates for election for electoral districts.
+### 146A Purpose of sections 146B to 146K
+Sections 146B to 146K provide an alternative to the procedures set out in sections 143 to 146 by which people can be nominated as candidates for election for electoral districts.
 
 ### 146B Notice of intention to lodge bulk nomination
 (1) If, at any general election, a political party that is registered under Part 4 intends to lodge a bulk nomination schedule of candidates for election for electoral districts, the secretary of that party must notify that intention to the Electoral Commission.
 (2) A notification under subsection (1)—
-  (a) must be given not later than 1 working day after writ day for the general election; and
+  (a) must be given no later than 7 days after the commencement of the regulated period for the general election; and
   (b) must be on a form provided by the Electoral Commission; and
   (c) may be given by hand, post, or electronically.
 (3) The secretary of a party may, at any time before lodging a bulk nomination schedule, withdraw a notification under subsection (1) by notifying the withdrawal to the Electoral Commission.
@@ -2444,15 +2584,15 @@ Sections 146B to 146L provide an alternative to the procedures set out in sectio
     (i) an express statement on the form on which the withdrawal is made that the party intends to lodge another bulk nomination schedule; or
     (ii) another bulk nomination schedule in accordance with section 146D.
 (2) While a notification of a party’s intention under section 146B remains in force for the purposes of a general election,—
-  (a) no Returning Officer may accept a nomination made under section 143 in respect of a candidate for that political party; and
-  (b) if a Returning Officer has already accepted a nomination made under section 143 in respect of a candidate for that political party, that nomination is of no effect and is to be treated as if it had been withdrawn under section 146.
+  (a) the Electoral Commission may not accept a nomination made under section 143 in respect of a candidate for that political party; and
+  (b) if the Electoral Commission has already accepted a nomination made under section 143 in respect of a candidate for that political party, that nomination is of no effect and is to be treated as if it had been withdrawn under section 146.
 
 ### 146D Bulk nomination of constituency candidates
 (1) At any general election, the secretary of a political party that is registered under Part 4 may, in accordance with this section, nominate as candidates for election for electoral districts persons who are qualified under this Act and who consent to be nominated.
 (2) The secretary of a party may nominate its candidates under this section by lodging, with the Electoral Commission, a single bulk nomination schedule on a form provided by the Electoral Commission.
 (3) A bulk nomination schedule—
   (a) may be lodged by hand, post, or electronically; and
-  (b) must be lodged with the Electoral Commission not later than noon on the day before nomination day.
+  (b) must be lodged with the Electoral Commission not later than noon on nomination day.
 (4) The Electoral Commission must give a written receipt for every bulk nomination schedule that the Electoral Commission accepts.
 
 ### 146E Bulk nomination schedule
@@ -2468,10 +2608,10 @@ Sections 146B to 146L provide an alternative to the procedures set out in sectio
 (4) If the secretary of a political party lodges a bulk nomination schedule and the political party has a logo registered under section 71F, but the political party is not submitting a party list under section 127, then a copy of the logo may be lodged with the Electoral Commission for inclusion on the ballot paper in accordance with section 150(13).
 (5) Every logo lodged under subsection (4)—
   (a) may be lodged by hand, post, or electronically; and
-  (b) must be lodged with the Electoral Commission not later than noon on nomination day.
+  (b) must be lodged with the head office of the Electoral Commission not later than noon on nomination day.
 
 ### 146F Deposit payable in respect of bulk nomination schedule
-(1) If a secretary of a party lodges a bulk nomination schedule under section 146D, he or she must pay to the Electoral Commission, by noon on the day before nomination day, a deposit of $300 (inclusive of goods and services tax) for every constituency candidate nominated in the bulk nomination schedule.
+(1) If a secretary of a party lodges a bulk nomination schedule under section 146D, he or she must pay to the Electoral Commission, by noon on nomination day, a deposit of $300 (inclusive of goods and services tax) for every constituency candidate nominated in the bulk nomination schedule.
 (2) The deposit must be paid in 1 lump sum by direct credit to a bank account nominated by the Electoral Commission.
 (3) If an unsuccessful constituency candidate nominated in a bulk nomination schedule receives in total less than 5% of the total number of votes received by constituency candidates in the district for which the unsuccessful candidate was nominated, the amount of the deposit paid under subsection (1) in respect of that unsuccessful candidate is forfeit and must be paid into a Crown Bank Account.
 (4) After deducting any amounts forfeit under subsection (3), the Electoral Commission must return the remainder (if any) of the amount paid under subsection (1) to the party secretary, but only if the Electoral Commission has received from every constituency candidate nominated in the bulk nomination schedule duly completed returns under sections 205K and 209.
@@ -2480,11 +2620,11 @@ Sections 146B to 146L provide an alternative to the procedures set out in sectio
 (1) The Electoral Commission must reject a bulk nomination schedule lodged under section 146D—
   (a) if the schedule is not lodged by the secretary of a political party registered under Part 4; or
   (b) if the intention to lodge the schedule has not been notified under section 146B; or
-  (c) if the schedule is not lodged with the Electoral Commission by noon on the day before nomination day; or
+  (c) if the schedule is not lodged with the Electoral Commission by noon on nomination day; or
   (d) if the schedule does not contain the declaration required by section 146E(2); or
   (da)
-  (e) if the deposit required by section 146F(1) is not paid by noon on the day before nomination day.
-(2) The Electoral Commission must not accept the nomination of a candidate listed on a bulk nomination schedule in any case where a Returning Officer would be required to reject the nomination of that candidate under section 145(2) if the candidate had been nominated under section 143; and the provisions of subsections (2) to (5) of section 145 apply accordingly with all necessary modifications.
+  (e) if the deposit required by section 146F(1) is not paid by noon on nomination day.
+(2) The Electoral Commission must not accept the nomination of a candidate listed on a bulk nomination schedule in any case where the Electoral Commission would be required to reject the nomination of that candidate under section 145(2) if the candidate had been nominated under section 143, and the provisions of section 145(2) and (3) apply accordingly with all necessary modifications.
 (3) The Electoral Commission must reject the nomination of a candidate listed on a bulk nomination schedule if—
   (a) the candidate is not qualified both to be a candidate and to be elected as a member of Parliament; or
   (b) the written notice required by section 146E(3) in relation to that candidate is not lodged with the Electoral Commission by noon on nomination day.
@@ -2492,14 +2632,7 @@ Sections 146B to 146L provide an alternative to the procedures set out in sectio
 (5) Subsection (4) does not limit the jurisdiction of the court hearing an election petition.
 
 ### 146H Amendment of bulk nomination schedule
-(1) If the secretary of a party lodges a bulk nomination schedule with the Electoral Commission by noon on the day before nomination day, the secretary may, at any time before noon on nomination day, provide to the Electoral Commission any information necessary to remedy any defect or omission in the schedule, or in any document required to be lodged with the schedule.
-(2) Information may be provided under subsection (1) to the Electoral Commission by hand, post, or electronically.
-(3) If the Electoral Commission receives any information under subsection (1),—
-  (a) the Electoral Commission must, where appropriate, amend the bulk nomination schedule or other document to which the information relates:
-  (b) the Electoral Commission must take the information into account in determining whether to accept or reject, under section 146G, the bulk nomination schedule, or the nomination of a candidate listed on the schedule.
-(4) This section does not authorise the secretary of a party to—
-  (a) substitute a different person as a candidate for election for an electoral district; or
-  (b) nominate a candidate for election for an electoral district for which no candidate was nominated in the schedule as originally lodged with the Electoral Commission.
+[Repealed]
 
 ### 146I Withdrawal of bulk nomination schedule
 (1) A secretary of a party may withdraw a bulk nomination schedule lodged by him or her under section 146D.
@@ -2524,30 +2657,26 @@ Sections 146B to 146L provide an alternative to the procedures set out in sectio
   (a) written notice of the nomination must be lodged with the Electoral Commission, by hand, post, or electronically, not later than noon on nomination day:
   (b) the requirements set out in subsections (1) to (3) of section 146E apply in relation to a notice under this section as if the nomination were made in a bulk nomination schedule:
   (c) the secretary of the party must lodge with the Electoral Commission, by noon on nomination day, a deposit (in cash or in the form of direct credit to a bank account nominated by the Electoral Commission) of the amount payable under section 146F(1) for a constituency candidate nominated in a bulk nomination schedule, unless the Electoral Commission holds the amount of the deposit paid under section 146F(1) in respect of the candidate whose nomination was withdrawn or (as the case may be) who died or became incapacitated.
-(2) Sections 146F(3) and (4), 146G, and 146H apply in relation to a nomination lodged under this section as if the nomination had been included in a bulk nomination schedule, except that the references in those sections to the day before nomination day are to be read as references to nomination day.
+(2) Sections 146F(3) and (4) and 146G apply in relation to a nomination lodged under this section as if the nomination had been included in a bulk nomination schedule.
 
 ### 146L Inspection of bulk nomination schedules and consents to nomination
-Any registered elector may inspect the following material at the Electoral Commission's office without payment at any time when the office is open for the transaction of business:
-  (a) any bulk nomination schedule lodged under this Act:
-  (b) any copy of a consent lodged with a bulk nomination schedule in accordance with section 146E(3):
-  (c) any information provided to the Electoral Commission under section 146H:
-  (d) any nomination lodged under section 146K.
+[Repealed]
 
 **Advertisements**
 
 ### 147 Advertisement of nomination and polling places
-(1) After the close of nominations in any district, the Returning Officer must, as soon as practicable, forward to the Electoral Commission at Wellington the names of the constituency candidates who have been nominated under section 143 and who have not withdrawn their nominations.
-(2) The Electoral Commission must immediately notify to every Returning Officer—
+(1)
+(2) After the close of nominations, the Electoral Commission must immediately notify to every Returning Officer—
   (a) the names of the constituency candidates who have been nominated for each district in which a poll is required to be taken and who have not withdrawn their nominations; and
   (b) the party affiliations (if any) of the candidates referred to in paragraph (a), and copies of the party logos (if any) submitted in accordance with section 146E(4) in respect of those candidates; and
   (c) the names of the political parties that have submitted lists in accordance with section 127 and the party logos (if any) submitted in accordance with subsections (7) and (8) of that section in respect of those parties; and
-  (d) the names of the candidates on the lists referred to in paragraph (c) or, where the names of more than 65 candidates are included on any such list, the first 65 of those names.
+  (d) the names of the candidates on the lists referred to in paragraph (c) or, where the names of more than 120 candidates are included on any such list, the first 120 of those names.
 (3) The Electoral Commission—
   (a) must publish the nomination and polling place information on an Internet site administered by the Electoral Commission; and
   (b) may also, by any other means it considers appropriate, provide registered electors for the district with the nomination and polling place information.
 (4) In this section, the nomination and polling place information, in relation to a district, means—
   (a) the names of constituency candidates contesting the district and their party affiliations (if any); and
-  (b) the name of each political party that submitted a list in accordance with section 127 and, under the name of each political party, the names of the political party’s list candidates in the political party’s order of preference (up to a maximum of 65 candidates); and
+  (b) the name of each political party that submitted a list in accordance with section 127 and, under the name of each political party, the names of the political party’s list candidates in the political party’s order of preference (up to a maximum of 120 candidates); and
   (c) the polling places for the district; and
   (d) the polling places in the district that have suitable access for persons who are physically disabled.
 (5)
@@ -2603,15 +2732,15 @@ A poll shall be taken by secret ballot at the several polling places of the dist
 (19) Where the name or names given by a candidate as the name or names to be used on the ballot paper are too long to fit on the ballot paper, the Electoral Commission may abbreviate the name or names to be shown in such manner as will enable them to fit on the ballot paper.
 
 ### 151 Name of political party for constituency candidates
-(1) Where a name is shown on a nomination paper, or other document on which a constituency candidate consents to his or her nomination, as the name of the constituency candidate’s political party, the Returning Officer may, if he or she considers it necessary, require the candidate to produce evidence sufficient to satisfy the Returning Officer of the candidate’s eligibility to claim that accreditation.
-(2) Subject to the concurrence of the Electoral Commission, where the Returning Officer considers that the name shown on the nomination paper or other document as the name of the constituency candidate’s political party is indecent or offensive or excessively long or likely to cause confusion to or mislead electors,—
-  (a) the Returning Officer shall, after consultation with the candidate, show on the ballot paper as the name of the candidate’s political party such name as the Returning Officer and the candidate agree upon in place of that shown on the nomination paper or other document; and
-  (b) if, on such consultation, the Returning Officer and the candidate cannot agree, or if consultation is not reasonably practicable, the Returning Officer shall not show any name on the ballot papers as the name of the candidate’s political party.
+(1) If the name of the constituency candidate’s political party is shown on a nomination paper or consent to nomination, the Electoral Commission may require the candidate to produce sufficient evidence to satisfy the Electoral Commission of the candidate’s eligibility to claim that accreditation.
+(2) If the Electoral Commission considers that the name of the constituency candidate’s political party shown on the candidate’s nomination paper or consent to nomination is indecent or offensive or excessively long or likely to cause confusion to or mislead electors, the Electoral Commission—
+  (a) must, after consultation with the candidate, show on the ballot paper as the name of the candidate’s political party such name as the Electoral Commission and the candidate agree in place of that shown on the nomination paper or consent to nomination; or
+  (b) must not show any name on the ballot papers as the name of the candidate’s political party if after consultation the Electoral Commission and the candidate cannot agree, or if consultation is not reasonably practicable.
 
 **Death or incapacity of candidate**
 
 ### 151A Interpretation
-For the purposes of sections 152A to 153H, a candidate is incapacitated if the Returning Officer or, as the case requires, the Electoral Commission is satisfied that, because the candidate is suffering from a serious illness or has sustained a serious injury,—
+For the purposes of sections 152A to 153H, a candidate is incapacitated if the Electoral Commission is satisfied that, because the candidate is suffering from a serious illness or has sustained a serious injury,—
   (a) if section 152A applies, the candidate is unable to personally withdraw his or her nomination; and
   (b) in any case, the candidate, if elected, would be unlikely to be capable of taking the Oath of Allegiance as a member of Parliament on the 61st day after writ day.
 
@@ -2620,26 +2749,26 @@ For the purposes of sections 152A to 153H, a candidate is incapacitated if the R
   (a) his or her nomination is to be treated in all respects as if it had not been made; and
   (b) his or her deposit must be returned to his or her personal representatives or, as the case may be, to the person who paid it.
 (2) Subsection (3) applies if the candidate dies on nomination day before noon, or on any of the 3 days immediately before nomination day.
-(3) If this subsection applies, then, once the Returning Officer is satisfied of the fact of death,—
+(3) If this subsection applies, then, once the Electoral Commission is satisfied of the fact of death,—
   (a) the time for the close of nominations in that district is postponed until noon on the fourth day after the date of the candidate’s death; and
-  (b) the Returning Officer must immediately give public notice of the fact that the close of nominations in that district has been postponed and of the new time for the close of nominations.
-(4) If subsection (3) applies, but the candidate was nominated in a bulk nomination schedule or in accordance with section 146K, the references to Returning Officer in subsection (3) are to be read as references to the Electoral Commission.
+  (b) the Electoral Commission must immediately give public notice of the fact that the close of nominations in that district has been postponed and of the new time for the close of nominations.
+(4)
 
 ### 152A Incapacity of candidate before close of nominations
 (1) If a constituency candidate who has been nominated and has not withdrawn his or her nomination becomes incapacitated before the close of nominations, an application may be made for the cancellation of the nomination.
 (2) Section 152B sets out how an application under subsection (1) must be made, and section 152C sets out how it is to be dealt with.
-(3) If the Returning Officer or, as the case requires, the Electoral Commission cancels the nomination in accordance with section 152C(3),—
+(3) If the Electoral Commission cancels the nomination in accordance with section 152C(3),—
   (a) the candidate’s nomination is to be treated in all respects as if it had not been made; and
   (b) the candidate’s deposit must be returned to the candidate or, as the case may be, to the person who paid it.
 (4) If the candidate’s nomination is cancelled on nomination day, or on any of the 3 days immediately before nomination day, then—
   (a) the time for the close of nominations in the district is postponed until noon on the fourth day after the date on which the candidate’s nomination is cancelled; and
-  (b) the Returning Officer or, as the case requires, the Electoral Commission must immediately give public notice of the fact that the close of nominations in the district has been postponed and of the new time for the close of nominations.
+  (b) the Electoral Commission must immediately give public notice of the fact that the close of nominations in the district has been postponed and of the new time for the close of nominations.
 
 ### 152B Procedural provisions relating to making of application under section 152A(1)
 (1) An application under section 152A(1) must be made as follows:
   (a) if the candidate was nominated under section 143,—
     (i) the application must be made by the 2 registered electors who nominated the candidate, or, if either or both of them are unavailable or unable to act for any reason, then by the candidate’s agent:
-    (ii) the application must be made to the Returning Officer for the district:
+    (ii) the application must be made to the Electoral Commission:
   (b) if the candidate was nominated in a bulk nomination schedule or in accordance with section 146K,—
     (i) the application must be made by the secretary of the party:
     (ii) the application must be made to the Electoral Commission.
@@ -2648,17 +2777,17 @@ For the purposes of sections 152A to 153H, a candidate is incapacitated if the R
   (a) as to the candidate’s condition; and
   (b) that, in the practitioner’s opinion, the candidate is incapacitated within the meaning of section 151A.
 (4) The application—
-  (a) must be submitted to the Returning Officer or, as the case requires, the Electoral Commission not later than 4 pm on nomination day; and
+  (a) must be submitted to the Electoral Commission not later than 4 pm on nomination day; and
   (b) may be submitted by hand, post, or electronically.
 
 ### 152C How application under section 152A to be dealt with
-(1) On receiving an application made under section 152A(1), the Returning Officer or, as the case requires, the Electoral Commission must, without delay, determine whether or not the candidate became incapacitated before the close of nominations.
-(2) For the purpose of making a determination under subsection (1), the Returning Officer or Electoral Commission may make any inquiries, and seek any assistance (including, without limitation, expert medical assistance), that the Returning Officer or Electoral Commission considers necessary.
-(3) If, before midnight on nomination day, the Returning Officer or Electoral Commission determines that the candidate became incapacitated before the close of nominations, the Returning Officer or Electoral Commission must cancel the candidate’s nomination.
-(4) If the Returning Officer or Electoral Commission has not made a determination under subsection (1) before midnight on nomination day, then—
+(1) On receiving an application made under section 152A(1), the Electoral Commission must, without delay, determine whether or not the candidate became incapacitated before the close of nominations.
+(2) For the purpose of making a determination under subsection (1), the Electoral Commission may make any inquiries, and seek any assistance (including, without limitation, expert medical assistance), that the Electoral Commission considers necessary.
+(3) If, before midnight on nomination day, the Electoral Commission determines that the candidate became incapacitated before the close of nominations, the Electoral Commission must cancel the candidate’s nomination.
+(4) If the Electoral Commission has not made a determination under subsection (1) before midnight on nomination day, then—
   (a) section 152A does not apply; and
   (b) the application is to be treated as if it were an application under section 153G(1), and is to be determined accordingly.
-(5) As soon as practicable after making a determination under subsection (1), the Returning Officer or Electoral Commission must inform the applicant or applicants of that determination.
+(5) As soon as practicable after making a determination under subsection (1), the Electoral Commission must inform the applicant or applicants of that determination.
 
 ### 153 Death or incapacity of list candidate after submission of list
 (1) This section applies if a list candidate dies, or his or her nomination is cancelled on the grounds of incapacity, after the submission of the list and before the declaration required by section 193(5).
@@ -2668,33 +2797,25 @@ For the purposes of sections 152A to 153H, a candidate is incapacitated if the R
 
 ### 153A Death or incapacity of constituency candidate after close of nominations and before polling day
 (1) This section applies if a constituency candidate dies, or his or her nomination is cancelled on the grounds of incapacity, after the close of nominations and before polling day.
-(2) If this section applies, then once the Returning Officer is satisfied that the candidate has died or, as the case requires, that the candidate’s nomination has been cancelled, the Returning Officer must,—
+(2) If this section applies, then, once the Electoral Commission is satisfied that the candidate has died or, as the case requires, that the candidate’s nomination has been cancelled, the Electoral Commission must,—
   (a) in the case of a general election,—
     (i) issue a notice cancelling the poll for the election of a member of Parliament for the district; and
     (ii) proceed to conduct the poll on the part of the ballot paper that relates to the party vote, which for these purposes is to be treated as if it were the only part of the ballot paper; and this Part applies with any necessary modifications; and
-  (b) in the case of a by-election, issue a notice cancelling the poll; and
-  (c) report to the Electoral Commission—
-    (i) the issue and the date of the notice, under paragraph (a) or paragraph (b), cancelling the poll; and
-    (ii) whether the poll was cancelled because of the candidate’s death or because of the candidate’s incapacity; and
-    (iii) the date of the candidate’s death, if applicable; and
-    (iv) if the candidate’s incapacity was determined, under section 153H, by the Returning Officer, the date of the determination.
-(3) Immediately after the Electoral Commission receives the Returning Officer’s report under subsection (2)﻿(c), an Electoral Commissioner must, on behalf of the Electoral Commission, endorse on the writ—
+  (b) in the case of a by-election, issue a notice cancelling the poll.
+(3) After a notice has been issued under subsection (2)﻿(a)﻿(i) or (b), an Electoral Commissioner must, on behalf of the Electoral Commission, endorse on the writ—
   (a) the name of the candidate whose death or whose incapacity resulted in the cancellation of the poll for the election of a member of Parliament for the district concerned; and
   (b) the date of the notice by which the poll was cancelled; and
   (c) the date on which the candidate died or, as the case requires, the date on which the candidate’s incapacity was determined.
 
 ### 153B Death or incapacity of constituency candidate on polling day
 (1) This section applies if a constituency candidate dies, or his or her nomination is cancelled on the grounds of incapacity, on polling day before the close of the poll.
-(2) If this section applies, then once the Returning Officer is satisfied that the candidate has died or, as the case requires, that the candidate’s nomination has been cancelled, the Returning Officer must,—
+(2) If this section applies, then once the Electoral Commission is satisfied that the candidate has died or, as the case requires, that the candidate’s nomination has been cancelled, the Electoral Commission must,—
   (a) in the case of a general election,—
     (i) immediately close the part of the poll that is based on electorate votes and declare that part of the poll to be of no effect; and
     (ii) proceed to conduct the poll on the part of the ballot paper that relates to the party vote, which for these purposes is to be treated as if it were the only part of the ballot paper; and this Part applies with any necessary modifications; and
-  (b) in the case of a by-election, immediately close the poll; and
-  (c) report to the Electoral Commission—
-    (i) the closure of the poll or part of the poll and the time of the closure; and
-    (ii) whether the poll or part of the poll was closed because of the candidate’s death or because of the candidate’s incapacity; and
-    (iii) if the candidate’s incapacity was determined, under section 153H, by the Returning Officer, the date of the determination.
-(3) Immediately after the Electoral Commission receives the Returning Officer’s report under subsection (2)﻿(c), an Electoral Commissioner must, on behalf of the Electoral Commission, endorse on the writ—
+  (b) in the case of a by-election, immediately close the poll.
+  (c)
+(3) After a poll has been closed under subsection (2)﻿(a)﻿(i) or (b), an Electoral Commissioner must, on behalf of the Electoral Commission, endorse on the writ—
   (a) the name of the candidate whose death or whose incapacity resulted in the closure of the poll for the election of a member of Parliament for the district concerned; and
   (b) the time of that closure; and
   (c) the date on which the candidate died or, as the case requires, the date on which the candidate’s incapacity was determined.
@@ -2703,11 +2824,8 @@ For the purposes of sections 152A to 153H, a candidate is incapacitated if the R
 (1) This section applies if—
   (a) a constituency candidate dies, or his or her nomination is cancelled on the grounds of incapacity, after the close of the poll and before the declaration of the result of the poll; and
   (b) it is found on the completion of the count of votes or on a recount that the candidate, if still living or if not incapacitated, would have been elected.
-(2) If this section applies, then once the Returning Officer is satisfied that the candidate has died or, as the case requires, that the candidate’s nomination has been cancelled, the Returning Officer must report to the Electoral Commission—
-  (a) the death or incapacity of the candidate; and
-  (b) the date of the candidate’s death, if applicable; and
-  (c) if the candidate’s incapacity was determined, under section 153H, by the Returning Officer, the date of the determination.
-(3) Immediately on the Electoral Commission being satisfied of the Returning Officer’s report under subsection (2), an Electoral Commissioner must, on behalf of the Electoral Commission, endorse on the writ—
+(2)
+(3) Once the Electoral Commission is satisfied that the candidate has died or that the candidate’s nomination has been cancelled on the grounds of incapacity, an Electoral Commissioner must, on behalf of the Electoral Commission, endorse on the writ—
   (a) the name of the candidate; and
   (b) that the candidate would, if still living or if not incapacitated, have been elected as the member of Parliament for the district concerned; and
   (c) the date on which the candidate died or, as the case requires, the date on which the candidate’s incapacity was determined.
@@ -2726,8 +2844,8 @@ The provisions of this Act as to an equality of votes between constituency candi
 (1) This section applies if, in the case of a by-election, the poll is interrupted as a result of the death of a constituency candidate or the cancellation of the nomination of a constituency candidate on the grounds of incapacity.
 (2) If this section applies,—
   (a) all ballot papers that have been placed in ballot boxes must be taken out by the managers of polling places and made up into secured packages; and
-  (b) those packages must be sent, unopened, to the Returning Officer; and
-  (c) the Returning Officer must immediately destroy those packages in the presence of a District Court Judge or a Justice of the Peace.
+  (b) those packages must be sent, unopened, to the Electoral Commission; and
+  (c) the Electoral Commission must immediately destroy those packages in the presence of a District Court Judge or a Justice of the Peace.
 
 ### 153G Application for cancellation of nomination if candidate incapacitated after close of nominations
 (1) An application may be made for the cancellation of the nomination of a candidate if,—
@@ -2736,7 +2854,7 @@ The provisions of this Act as to an equality of votes between constituency candi
 (2) An application under subsection (1) must be made as follows:
   (a) if the candidate was nominated under section 143,—
     (i) the application must be made by the 2 registered electors who nominated the candidate or, if either or both of them are unavailable or unable to act for any reason, then by the candidate’s agent:
-    (ii) the application must be made to the Returning Officer for the district:
+    (ii) the application must be made to the Electoral Commission:
   (b) if the candidate was nominated in a bulk nomination schedule or in accordance with section 146K, or is a candidate whose name is included on a list submitted under section 127,—
     (i) the application must be made by the secretary of the party:
     (ii) the application must be made to the Electoral Commission.
@@ -2745,17 +2863,17 @@ The provisions of this Act as to an equality of votes between constituency candi
   (a) as to the candidate’s condition; and
   (b) that, in the practitioner’s opinion, the candidate is incapacitated within the meaning of section 151A.
 (5) The application—
-  (a) must be submitted to the Returning Officer or, as the case requires, the Electoral Commission—
+  (a) must be submitted to the Electoral Commission—
     (i) as soon as practicable after the candidate becomes incapacitated; and
     (ii) before the declaration of the result of the poll; and
   (b) may be submitted by hand, post, or electronically.
 
 ### 153H How application under section 153G to be dealt with
-(1) On receiving an application made under subsection (1) of section 153G, the Returning Officer or, as the case requires, the Electoral Commission must, without delay, determine whether or not the candidate became incapacitated in the circumstances set out in that subsection.
-(2) For the purpose of making a determination under subsection (1), the Returning Officer or Electoral Commission may make any inquiries, and seek any assistance (including, without limitation, expert medical assistance), that the Returning Officer or Electoral Commission considers necessary.
-(3) If, before the declaration of the result of the poll, the Returning Officer or Electoral Commission determines that the candidate became incapacitated in the circumstances set out in section 153G(1), the Returning Officer or Electoral Commission must cancel the candidate’s nomination.
-(4) If the Returning Officer or Electoral Commission has not made a determination under subsection (1) before the declaration of the result of the poll, the application is to be treated as having been declined.
-(5) As soon as practicable after making a determination under subsection (1), the Returning Officer or Electoral Commission must inform the applicant or applicants of that determination.
+(1) On receiving an application made under subsection (1) of section 153G, the Electoral Commission must, without delay, determine whether or not the candidate became incapacitated in the circumstances set out in that subsection.
+(2) For the purpose of making a determination under subsection (1), the Electoral Commission may make any inquiries, and seek any assistance (including, without limitation, expert medical assistance), that the Electoral Commission considers necessary.
+(3) If, before the declaration of the result of the poll, the Electoral Commission determines that the candidate became incapacitated in the circumstances set out in section 153G(1), the Electoral Commission must cancel the candidate’s nomination.
+(4) If the Electoral Commission has not made a determination under subsection (1) before the declaration of the result of the poll, the application is to be treated as having been declined.
+(5) As soon as practicable after making a determination under subsection (1), the Electoral Commission must inform the applicant or applicants of that determination.
 
 **Candidates’ meetings**
 
@@ -2768,6 +2886,17 @@ The provisions of this Act as to an equality of votes between constituency candi
 (3) For the purposes of this section, the term candidate means—
   (a) any person who has declared his or her intention of becoming a candidate either by advertisement in a newspaper, or by circular, or by announcement at a public meeting, or by duly consenting to nomination, but does not include a candidate who has withdrawn his or her nomination; or
   (b) any person whose name has been included in a list submitted under section 127.
+
+**Scrutineers**
+
+### 154A Appointment of scrutineers
+(1) A person may be appointed as a scrutineer under section 160, 172, 174F, 175, or 183, or any regulations made under this Act, if that person is not—
+  (a) a member of Parliament; or
+  (b) a candidate.
+(2) Before acting, a scrutineer must declare that they will comply with section 203.
+(3) The declaration must—
+  (a) be in a form that the Electoral Commission has approved; and
+  (b) be witnessed as specified in the form.
 
 **Polling at elections**
 
@@ -2797,7 +2926,7 @@ The provisions of this Act as to an equality of votes between constituency candi
   (d) 1 or more copies (in printed or electronic form and as supplied under section 123) of the main roll and supplementary rolls for the district:
   (e) a sufficient number of ballot papers.
 (2) The Returning Officer must ensure that there is displayed prominently in every polling place either—
-  (a) the name of each political party that submitted a list in accordance with section 127 and, under the name of each political party, the names of the political party’s list candidates in the political party’s order of preference (up to a maximum of 65 candidates); or
+  (a) the name of each political party that submitted a list in accordance with section 127 and, under the name of each political party, the names of the political party’s list candidates in the political party’s order of preference (up to a maximum of 120 candidates); or
   (b) copies of the information published under section 147(3)﻿(a).
 
 ### 158 Appointment of polling place officials
@@ -2826,20 +2955,18 @@ The provisions of this Act as to an equality of votes between constituency candi
 (1) Whenever the Returning Officer designates polling place officials as interpreters, the Returning Officer must, at the request of a candidate, give the candidate the names of the interpreters.
 (2) Regulations made under section 267 may prescribe procedures governing the use of interpreters.
 
-### 160 Scrutineers
+### 160 Scrutineers for polling places
 (1) Each constituency candidate may appoint 1 or more scrutineers for each polling place at any election.
 (2) If, at an election in a district, no constituency candidate is standing for a political party that is listed in the part of the ballot paper that relates to the party vote, the secretary of the party may appoint 1 or more scrutineers for each polling place in the district.
 (3) Every appointment of a scrutineer—
   (a) must be in writing; and
   (b) must be signed by the constituency candidate or, as the case requires, the secretary of the party.
-(4) Every scrutineer must, before being allowed to act, declare that he or she will comply with section 203.
-(4A) The declaration must—
-  (a) be in a form that the Electoral Commission has approved; and
-  (b) be witnessed as specified in the form.
+(4)
+(4A)
 (5) The number of scrutineers for a candidate or for a political party who may be present in a polling place may not exceed the number of issuing officers designated for the polling place.
 (6) A scrutineer may at any time during the hours of polling leave and re-enter the polling place for which he or she is appointed.
 (7) Nothing in this Act renders it unlawful for a scrutineer to communicate to a person information as to the names of persons who have voted.
-(8) No candidate may act as a scrutineer under this section.
+(8) In this section, polling place includes an advance polling place.
 
 ### 161 Hours of polling
 (1) The poll at every election shall commence at 9 am on polling day, and, except as otherwise provided in this Act, shall finally close at 7 pm on the same day.
@@ -2943,6 +3070,41 @@ No person not actually engaged in voting may remain in a polling place other tha
 ### 171 Procedure when second vote given in same name
 If any person proposing to vote at any election gives as his or her name the name of any person to whom a ballot paper has already been given at the same election, he or she shall be dealt with in all respects in like manner as any other voter:provided that the ballot paper of any such person shall not be deposited in the ballot box or allowed by the issuing officer, but shall be set aside for separate custody.
 
+**Advance voting**
+
+### 171A Voting in advance of polling day
+During the advance polling period for an election in any district, an advance voter may—
+  (a) be issued with—
+    (i) an ordinary ballot paper for the election under section 167 if the rolls can be marked (either manually or by electronic means) to indicate the person has applied to vote; or
+    (ii) special vote ballot papers under section 172 in any other case; and
+  (b) vote at the election.
+
+### 171B Advance polling period
+The advance polling period for an election in any district is the period of 12 consecutive days ending with the close of the day before polling day.
+
+### 171C Advance polling period may be shortened or extended if unforeseen or unavoidable disruption occurs before commencement of advance polling period
+(1) This section applies if, before the commencement of the advance polling period, there is an unforeseen or unavoidable disruption in any electoral district or districts.
+(2) The Chief Electoral Officer may direct that the advance polling period in the electoral district or districts be—
+  (a) shortened to fewer than 12 consecutive days before polling day; or
+  (b) extended to more than 12 consecutive days before polling day.
+(3) Before making a direction under subsection (2), the Chief Electoral Officer must—
+  (a) consult—
+    (i) the Prime Minister; and
+    (ii) the Leader of the Opposition; and
+    (iii) any person or organisation that in the Chief Electoral Officer’s opinion is able to give information about the scale and duration of the unforeseen or unavoidable disruption; and
+  (b) be satisfied that the direction is necessary in all of the circumstances.
+(4) The Chief Electoral Officer must, as soon as is reasonably practicable after making a direction under subsection (2), give public notice of the direction in any manner that the Chief Electoral Officer considers appropriate.
+(5) In this section and section 171E, unforeseen or unavoidable disruption has the same meaning as that given in section 195 for sections 195A, 195B, and 195D.
+
+### 171D Matters Chief Electoral Officer must have regard to when exercising discretion under section 171C
+The Chief Electoral Officer must have regard to the following matters when considering whether to exercise the discretion under section 171C:
+  (a) the need to ensure the safety of voters and electoral officials; and
+  (b) the need to ensure that the election process is free from corrupt or illegal practices; and
+  (c) the need to ensure that the election process is concluded in a timely and expeditious manner.
+
+### 171E Advance polling period may be curtailed if unforeseen or unavoidable disruption occurs after commencement of advance polling period
+The advance polling period in section 171B may be curtailed under section 195B if an unforeseen or unavoidable disruption occurs after the commencement of the advance polling period.
+
 **Special voting**
 
 ### 172 Voting by special voters
@@ -2951,12 +3113,10 @@ If any person proposing to vote at any election gives as his or her name the nam
 (3) The ballot papers for use by special voters or by any class of special voters may be in such form as is prescribed by regulations, and the consecutive numbers of the special ballot papers for any district may be in a different series from that used for the ordinary ballot papers.
 (3A) The special vote ballot papers may contain the logos submitted in accordance with section 127(7) and (8) or section 143(3A) and (4) or section 146E(4) and (5) or a depiction of those logos in black and white; but nothing in this Act requires the inclusion of those logos on the special vote ballot papers.
 (4) Each constituency candidate may, in writing, appoint 1 or more scrutineers to be present at the office of the Electoral Commission when the Commission is performing its duties in relation to special vote declarations for the district.
-(5) Every scrutineer must, before being allowed to act, declare that he or she will comply with section 203.
-(5A) The declaration must—
-  (a) be in a form that the Electoral Commission has approved; and
-  (b) be witnessed as specified in the form.
+(5)
+(5A)
 (6) If a constituency candidate appoints more than 1 scrutineer under subsection (4), not more than 1 scrutineer for that candidate may be present at any time at the office of the Electoral Commission when the Commission is performing its duties in relation to special vote declarations for the district.
-(7) No candidate shall act as scrutineer under this section.
+(7)
 (8) Subject to the provisions of this section and section 61, and to the provisions of any regulations made for the purposes of this section, all the provisions of this Act shall, as far as applicable and with the necessary modifications, apply with respect to voting by special voters and to their votes.
 
 ### 173 Voting by special voters on Tokelau, Campbell Island, and Raoul Island, in Ross Dependency, and on fishing vessels
@@ -2964,6 +3124,13 @@ If any person proposing to vote at any election gives as his or her name the nam
 
 ### 173A Special voting by facsimile
 [Repealed]
+
+### 173B Determining whether special voter qualified to vote
+(1) The Electoral Commission must, in accordance with any regulations made under this Act, examine each declaration made by a person in respect of a special vote to determine whether the person is qualified to vote.
+(2) An examination under subsection (1) may be commenced before—
+  (a) the close of polling:
+  (b) the scrutiny of the rolls under section 175.
+(3) Every scrutineer appointed under section 172(4) may be present at the office of the Electoral Commission during an examination under subsection (1).
 
 **Preliminary count of votes**
 
@@ -3017,9 +3184,7 @@ If any person proposing to vote at any election gives as his or her name the nam
 (2) This section overrides sections 174 and 174A.
 
 ### 174C Preliminary count of early votes
-(1) In this section and in sections 174D to 174G, early votes means special votes that—
-  (a) are delivered or sent to the Returning Officer on or before polling day; and
-  (b) were, in accordance with regulations made under this Act, issued in substantially the same manner as ordinary ballot papers are issued under section 167.
+(1) In this section and in sections 174D to 174G, early votes means votes cast by advance voters who have been issued with ordinary ballot papers under section 167.
 (2) The Returning Officer must, in the presence of any scrutineers appointed under section 174F and any of the Returning Officer’s assistants, but of no other person, conduct (either manually or by electronic means), in accordance with this section, a preliminary count of early votes.
 (3) The Returning Officer must take the early votes and ascertain, as the case may require,—
   (a) the number of votes received by each party listed in the part of the ballot paper that relates to the party vote; or
@@ -3057,10 +3222,8 @@ If any person proposing to vote at any election gives as his or her name the nam
 (2) Every appointment of a scrutineer—
   (a) must be in writing; and
   (b) must be signed by the constituency candidate.
-(3) Every scrutineer must, before being allowed to act, declare that he or she will comply with section 203.
-(3A) The declaration must—
-  (a) be in a form that the Electoral Commission has approved; and
-  (b) be witnessed as specified in the form.
+(3)
+(3A)
 (4) If the count is conducted before the close of the poll, every scrutineer appointed under this section may enter and be present in the restricted area from the time on polling day that is 30 minutes before the time determined under section 174C(5)﻿(a) for the start of the count until the conclusion of the count.
 (5) No scrutineer may, before the close of the poll, enter a restricted area with a device that enables information to be conveyed to a person or machine outside the area.
 (6) If a scrutineer fails to comply with subsection (5) or an instruction issued under section 174E(3) and communicated to the scrutineer, the Returning Officer may—
@@ -3081,10 +3244,8 @@ If any person proposing to vote at any election gives as his or her name the nam
   (a) shall make arrangements for a scrutiny of the rolls as soon as practicable after the close of the poll; and
   (b) shall give notice in writing to each of the constituency candidates or their scrutineers of the time and place at which the Returning Officer will commence the scrutiny.
 (2) Each constituency candidate may appoint 1 or more scrutineers to be present at the scrutiny of the rolls.
-(3) Every scrutineer must, before being allowed to act, declare that he or she will comply with section 203.
-(3A) The declaration must—
-  (a) be in a form that the Electoral Commission has approved; and
-  (b) be witnessed as specified in the form.
+(3)
+(3A)
 (4) Where a constituency candidate appoints more than 1 scrutineer to be present at the scrutiny of the rolls, only 1 scrutineer for that candidate, or such greater number as is permitted by the Returning Officer, shall be present at the scrutiny of the rolls at any time.
 (5) The only persons who may be present at the scrutiny are—
   (a) an Electoral Commissioner:
@@ -3092,7 +3253,7 @@ If any person proposing to vote at any election gives as his or her name the nam
   (c) any assistant of the Electoral Commissioner or of the Returning Officer:
   (d) any expert or technician who provides advice or support to the Electoral Commissioner or to the Returning Officer for the purpose of the scrutiny:
   (e) any scrutineer.
-(6) No candidate shall act as scrutineer under this section.
+(6)
 (7) A scrutineer may be appointed under this section electronically.
 
 ### 176 Marked copies of rolls to be compared
@@ -3215,12 +3376,10 @@ Nothing in section 180 or section 181 requires the electorate votes or the party
   (a) by an application under section 180(2) for a recount of party votes in an electoral district; or
   (b) by an application under section 181(1) for recounts of the party votes in every electoral district,—
 (3) Any political party listed in the part of the ballot paper that relates to the party vote may appoint 1 or more scrutineers to be present during the allocation of list seats by the Electoral Commission under sections 191 to 193.
-(4) Every scrutineer must, before being allowed to act, declare that he or she will comply with section 203.
-(4A) The declaration must—
-  (a) be in a form that the Electoral Commission has approved; and
-  (b) be witnessed as specified in the form.
+(4)
+(4A)
 (5) Where a political party appoints more than 1 scrutineer to be present during the allocation of list seats, only 1 scrutineer for that political party, or such greater number as is permitted by the Electoral Commission, shall be present at any one time.
-(6) No candidate shall act as a scrutineer under this section.
+(6)
 (7)
 
 ### 184 Ballot papers and certificate to be compared on recount
@@ -3386,7 +3545,7 @@ Nothing in section 180 or section 181 requires the electorate votes or the party
   (b) an unforeseen or unavoidable disruption occurs at 1 or more polling places on polling day.
 (2) The Chief Electoral Officer may manage an unforeseen or unavoidable disruption to which this section applies by using alternative voting processes if the Chief Electoral Officer considers that doing so is the most appropriate and efficient way to address the disruption.
 (3) The alternative voting processes referred to in subsection (2) may modify or adapt any requirements, processes, or procedures specified by or prescribed under this Act (for example, the Chief Electoral Officer may extend the polling hours, or extend to voters in New Zealand the procedure for the electronic issue of voting papers that is available to voters outside New Zealand).
-(4) In this section, advance polling place has the same meaning given to it in section 197A(10).
+(4)
 
 ### 195C Matters Chief Electoral Officer must have regard to when exercising discretion under section 195A or 195B
 When considering whether to exercise his or her discretion under section 195A or 195B, the Chief Electoral Officer must have regard to the following matters:
@@ -3413,8 +3572,8 @@ When considering whether to exercise his or her discretion under section 195A or
 If, under section 195A, voting at any polling place is adjourned, then, when polling resumes at that polling place or any alternative polling place and until the close of the poll at that place,—
   (a) section 197(1)﻿(i) and (j) applies with all necessary modifications as if references in those paragraphs to any polling place were references to the polling place at which polling has resumed; and
   (b) section 197A applies with all necessary modifications as if—
-    (i) references in that section to an advance voting place were references to the polling place at which polling has resumed; and
-    (ii) references in that section to a buffer zone for the advance voting place were references to the buffer zone for the polling place at which polling has resumed.
+    (i) references in that section to an advance polling place were references to the polling place at which polling has resumed; and
+    (ii) references in that section to a buffer zone for the advance polling place were references to the buffer zone for the polling place at which polling has resumed.
 
 **Custody of ballot papers**
 
@@ -3463,7 +3622,7 @@ If, under section 195A, voting at any polling place is adjourned, then, when pol
   (j) subject to any regulations made under this Act, at any time on polling day before the close of the poll, within, or at the entrance to, or in the vicinity of, any polling place,—
     (i) gives or offers to give any person any written or oral information derived from a main or supplementary roll as to any name or number on the main roll or any supplementary roll being used at the election:
     (ii) permits or offers to permit any person to examine any copy of the main roll or any supplementary roll being used at the election:
-  (k) in respect of an advance voting place or a buffer zone, as defined in section 197A(10), does any of the things prohibited in that section.
+  (k) in respect of an advance polling place or a buffer zone, as defined in section 197A(10), does any of the things prohibited in that section.
 (2) It shall be a defence to a prosecution for an offence against subsection (1)﻿(g) that relates to the exhibition in or in view of a public place of a statement, name, emblem, slogan, or logo, if the defendant proves that—
   (a) the exhibition was inadvertent; and
   (b) the defendant caused the exhibition to cease as soon as the defendant was notified by a Returning Officer or a manager of the polling place that the exhibition was taking place.
@@ -3471,13 +3630,13 @@ If, under section 195A, voting at any polling place is adjourned, then, when pol
   (a) the statement or material was placed on the web site before polling day; and
   (b) the defendant did not operate or permit the operation of systems that cause the statement or material on the web site to be made available, on polling day, to persons other than persons who voluntarily access the web site; and
   (c) the defendant did not, on polling day, distribute, broadcast, or exhibit in or in view of a public place, or publish, or at any time cause to be published, in an issue of a newspaper or magazine that is first issued on polling day any material promoting or advertising the web site.
-(2B) It is a defence to a prosecution for an offence against subsection (1)﻿(k) that relates to the exhibition of a statement, name, emblem, slogan, or logo in an advance voting place or a buffer zone if the defendant proves that—
+(2B) It is a defence to a prosecution for an offence against subsection (1)﻿(k) that relates to the exhibition of a statement, name, emblem, slogan, or logo in an advance polling place or a buffer zone if the defendant proves that—
   (a) the exhibition was inadvertent; and
-  (b) the defendant caused the exhibition to cease as soon as the defendant was notified by the Electoral Commission or a manager of the advance voting place that the exhibition was taking place.
+  (b) the defendant caused the exhibition to cease as soon as the defendant was notified by the Electoral Commission or a manager of the advance polling place that the exhibition was taking place.
 (3) Nothing in this section shall apply to any official statement or announcement made or exhibited under the authority of this Act.
 
 ### 197A Interfering with or influencing advance voters
-(1) A person must not do any of the things listed in subsection (2) in an advance voting place or in a buffer zone for that advance voting place while the advance voting place is open for voting.
+(1) A person must not do any of the things listed in subsection (2) in an advance polling place or in a buffer zone for that advance polling place while the advance polling place is open for voting.
 (2) A person must not—
   (a) hold or take part in a demonstration or procession having direct or indirect reference to the poll; or
   (b) make a statement that contains a direct or indirect reference to the poll by means of a loudspeaker, public address apparatus, cinematograph, or television apparatus; or
@@ -3486,22 +3645,21 @@ If, under section 195A, voting at any polling place is adjourned, then, when pol
     (ii) a statement advising or intended or likely to influence an elector to abstain from voting; or
     (iii) a party name, emblem, slogan, or logo; or
     (iv) any ribbons, streamers, rosettes, or items of a similar nature in party colours.
-(3) Despite subsections (1) and (2), a person may do the things allowed by subsections (4) to (7) in an advance voting place or in a buffer zone for that advance voting place while the advance voting place is open for voting.
+(3) Despite subsections (1) and (2), a person may do the things allowed by subsections (4) to (7) in an advance polling place or in a buffer zone for that advance polling place while the advance polling place is open for voting.
 (4) A person may make a statement described in subsection (2)﻿(b) if the statement is a publication by radio or television broadcast made by a broadcaster within the meaning of section 2 of the Broadcasting Act 1989 of—
   (a) an advertisement placed by the Electoral Commission; or
   (b) a non-partisan advertisement broadcast, as a community service, by a broadcaster within the meaning of section 2 of the Broadcasting Act 1989; or
   (c) news that relates to an election.
 (5) A person may exhibit a statement, party name, emblem, slogan, or logo described in subsection (2)﻿(c) if—
   (a) the statement or thing does not relate specifically to the election campaign; and
-  (b) before the advance voting place is first opened, the statement or thing is exhibited in a fixed position and in relation to the New Zealand or regional or campaign headquarters (not being mobile headquarters) of a political party.
+  (b) before the advance polling place is first opened, the statement or thing is exhibited in a fixed position and in relation to the New Zealand or regional or campaign headquarters (not being mobile headquarters) of a political party.
 (6) A person may wear, or display on a vehicle, ribbons, streamers, rosettes, or other items of a similar nature in party colours if the person is not an electoral official.
 (7) A person may wear a party lapel badge if the person is not an electoral official.
 (8) Nothing in this section applies to an official statement or announcement made or exhibited under the authority of this Act.
-(9) The Electoral Commission may, at any time during the period when an advance voting place is maintained, cause to be removed or obliterated from the advance voting place or the buffer zone statements or things referred to in section 198(1)﻿(a) to (c), subject to section 198(2) and (3).
+(9) The Electoral Commission may, at any time during the period when an advance polling place is maintained, cause to be removed or obliterated from the advance polling place or the buffer zone statements or things referred to in section 198(1)﻿(a) to (c), subject to section 198(2) and (3).
 (10) In this section,—
-  - **advance voting place** means an office for advance special voters maintained by the Electoral Commission under regulations made under this Act, but does not include other facilities for special voting (for example, special voting facilities at a hospital)
-  - **buffer zone** means the area within 10 metres of any entrance, or any smaller buffer zone specified by the Electoral Commission for a particular advance voting place
-  - **entrance** means an entrance, used by voters, to the area of the advance voting place where voting papers are being issued, and the Electoral Commission may specify an entrance for a particular advance voting place.
+  - **buffer zone** means the area within 10 metres of any entrance, or any smaller buffer zone specified by the Electoral Commission for a particular advance polling place
+  - **entrance** means an entrance, used by voters, to the area of the advance polling place where voting papers are being issued, and the Electoral Commission may specify an entrance for a particular advance polling place.
 
 ### 198 Power to remove statements, names, emblems, slogans, or logos
 (1) The Returning Officer may at any time on polling day before the close of the poll cause to be removed or obliterated—which is exhibited in or in view of any public place.
@@ -3614,8 +3772,8 @@ In this Part, unless the context otherwise requires,—
   (a) a party secretary:
   (b) a candidate:
   (c) a registered promoter:
-  (d) an unregistered promoter who does not incur advertising expenses exceeding $16,700 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
-(2) The amount in subsection (1)﻿(d) is inclusive of goods and services tax.
+  (d) an unregistered promoter who does not incur advertising expenses exceeding the amount published on the Electoral Commission’s internet site under section 266A in relation to election advertisements published during the regulated period.
+(2) The amount published on the Electoral Commission’s internet site is inclusive of goods and services tax.
 (3) Every person who wilfully promotes an election advertisement without being entitled to do so under subsection (1) is guilty of an illegal practice.
 
 ### 204C Apportionment of advertising expenses for publication of election advertisement promoted by unregistered promoter both before and during regulated period
@@ -3805,11 +3963,10 @@ Every person is guilty of—
   (a) a corrupt practice who wilfully contravenes section 205A; and
   (b) an illegal practice who contravenes section 205A in any other case.
 
-### 205C Maximum amount of candidate's total election expenses
-(1) The total election expenses of a candidate in respect of any regulated period must not exceed—
-  (a) $34,800 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
-  (b) $69,500 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
-(2) The amounts in subsection (1) are inclusive of goods and services tax.
+### 205C Maximum amount of candidate’s total election expenses
+(1) The total election expenses of a candidate in respect of any regulated period for a general election must not exceed the amount published on the Electoral Commission’s internet site under section 266A.
+(2) The total election expenses of a candidate in respect of any regulated period for a by-election must not exceed the amount published on the Electoral Commission’s internet site under section 266A.
+(3) The amounts published on the Electoral Commission’s internet site are inclusive of goods and services tax.
 
 ### 205D Apportionment of advertising expenses for publication of candidate advertisement both before and during regulated period
 (1) This section applies if a candidate advertisement—
@@ -3902,10 +4059,8 @@ If a candidate considers that there is no relevant information to disclose under
 ### 205Q Return of candidate's election expenses to be sent by Chief Electoral Officer to Electoral Commission
 [Repealed]
 
-### 205R Return of candidate's election expenses to be publicly available
-(1) The Electoral Commission may publish, in any manner that the Electoral Commission considers appropriate, every return filed under section 205K.
-(2) During the public inspection period, the Electoral Commission must make available for public inspection a copy of every return filed under section 205K.
-(3) The Electoral Commission may make inspection under subsection (2) subject to the payment of any charges that may be made under the Official Information Act 1982.
+### 205R Return of candidate’s election expenses to be publicly available
+During the public inspection period, the Electoral Commission must ensure that every return filed under section 205K is publicly available (free of charge) on the Electoral Commission’s internet site.
 
 ### 205S Unlawful use of public money not validated
 Nothing in this subpart validates any use of public money that would otherwise be unlawful.
@@ -3944,12 +4099,12 @@ Every person is guilty of—
   (a) a corrupt practice who wilfully contravenes section 206A; and
   (b) an illegal practice who contravenes section 206A in any other case.
 
-### 206C Maximum amount of party's total election expenses
+### 206C Maximum amount of party’s total election expenses
 (1) If a party is listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed—
-  (a) $1,480,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
-  (b) $34,800 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
-(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $34,800 for each electoral district contested by a candidate for the party.
-(3) The amounts in subsections (1) and (2) are inclusive of goods and services tax.
+  (a) the amount published on the Electoral Commission’s internet site under section 266A; and
+  (b) the amount published on the Electoral Commission’s internet site under section 266A for each electoral district contested by a candidate for the party.
+(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed the amount published on the Electoral Commission’s internet site under section 266A for each electoral district contested by a candidate for the party.
+(3) The amounts published on the Electoral Commission’s internet site are inclusive of goods and services tax.
 
 ### 206CA Apportionment of advertising expenses for publication of party advertisement both before and during regulated period
 (1) This section applies if a party advertisement—
@@ -4011,7 +4166,7 @@ Every payment made in respect of any election expenses of a party, other than a 
 (1) Within 90 working days after polling day, a party secretary must file a return of the party's election expenses with the Electoral Commission.
 (2) The return must be—
   (a) in the form required by the Electoral Commission; and
-  (b) accompanied by an auditor's report obtained under section 206L.
+  (b) accompanied by an auditor’s report obtained under section 206L, if that section applies.
 
 ### 206IA Return of party’s allocation expenses
 (1) Within 90 days after polling day for a general election, a party secretary must file with the Electoral Commission a return of expenses incurred by the party that have been funded from the party’s allocation.
@@ -4046,6 +4201,7 @@ A person is eligible to be appointed as an auditor under section 206J unless tha
   (g) a Returning Officer.
 
 ### 206L Auditor's report on return of party's election expenses
+(1AAA) This section applies if a party’s return of election expenses shows that the party’s total election expenses exceed $50,000.
 (1) A party secretary must, before the Electoral Commission receives the return required by section 206I, obtain from the auditor appointed under section 206J a report on the return.
 (2) The auditor must state in the report—
   (a) the position shown by the return in respect of the requirement that the party’s total election expenses not exceed the maximum amount prescribed by section 206C; and
@@ -4093,10 +4249,12 @@ If a party secretary considers that there is no relevant information to disclose
 (1) If the Electoral Commission believes that any person has committed an offence specified in this subpart, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
 (2) Subsection (1) does not apply if the Electoral Commission considers that the offence is so inconsequential that there is no public interest in reporting those facts to the New Zealand Police.
 
-### 206Q Return of party's election expenses and return of party’s allocation expenses to be publicly available
-(1) The Electoral Commission may publish, in any manner that the Electoral Commission considers appropriate, every return and every accompanying auditor's report filed under section 206I or 206IA.
-(2) During the public inspection period, the Electoral Commission must make available for public inspection a copy of every return and report referred to in subsection (1).
-(3) The Electoral Commission may make inspection under subsection (2) subject to the payment of any charges that may be made under the Official Information Act 1982.
+### 206Q Return of party’s election expenses and return of party’s allocation expenses to be publicly available
+During the public inspection period, the Electoral Commission must ensure that the following are publicly available (free of charge) on the Electoral Commission’s internet site:
+  (a) a return filed under section 206I; and
+  (b) an auditor’s report obtained under section 206L accompanying the return referred to in paragraph (a); and
+  (c) a return filed under section 206IA; and
+  (d) an auditor’s report obtained under section 206LA accompanying the return referred to in paragraph (c).
 
 ### 206R Unlawful use of public money not validated
 Nothing in this subpart validates any use of public money that would otherwise be unlawful.
@@ -4127,9 +4285,9 @@ Every person is guilty of—
   (a) a corrupt practice who wilfully contravenes section 206T; and
   (b) an illegal practice who contravenes section 206T in any other case.
 
-### 206V Maximum amount of registered promoter's total election expenses
-(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $417,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
-(2) The amount in subsection (1) is inclusive of goods and services tax.
+### 206V Maximum amount of registered promoter’s total election expenses
+(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed the amount published on the Electoral Commission’s internet site under section 266A.
+(2) The amount published on the Electoral Commission’s internet site is inclusive of goods and services tax.
 
 ### 206W Apportionment of advertising expenses for publication of election advertisement promoted by registered promoter both before and during regulated period
 (1) This section applies if an election advertisement that is promoted by a registered promoter—
@@ -4212,10 +4370,8 @@ Every person is guilty of—
 (1) If the Electoral Commission believes that any person has committed an offence specified in this subpart, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
 (2) Subsection (1) does not apply if the Electoral Commission considers that the offence is so inconsequential that there is no public interest in reporting those facts to the New Zealand Police.
 
-### 206ZH Return of registered promoter's election expenses to be publicly available
-(1) The Electoral Commission may publish, in any manner that the Electoral Commission considers appropriate, every return filed under section 206ZC.
-(2) During the public inspection period, the Electoral Commission must make available for public inspection a copy of every return filed under section 206ZC.
-(3) The Electoral Commission may make inspection under subsection (2) subject to the payment of any charges that may be made under the Official Information Act 1982.
+### 206ZH Return of registered promoter’s election expenses to be publicly available
+During the public inspection period, the Electoral Commission must ensure that every return filed under section 206ZC is publicly available (free of charge) on the Electoral Commission’s internet site.
 
 ### Subpart 3 — General provisions relating to donations
 
@@ -4541,10 +4697,7 @@ If a candidate considers that there is no relevant information to disclose under
 [Repealed]
 
 ### 209E Return of candidate donations to be publicly available
-(1) The Electoral Commission may publish, in any manner that the Electoral Commission considers appropriate, every return filed under section 209.
-(2)
-(3) During the public inspection period, the Electoral Commission must make available for public inspection a copy of every return filed under section 209.
-(4) The Electoral Commission may make inspection under subsection (3) subject to the payment of any charges that may be made under the Official Information Act 1982.
+During the public inspection period, the Electoral Commission must ensure that every return filed under section 209 is publicly available (free of charge) on the Electoral Commission’s internet site.
 
 ### Subpart 6 — Disclosure of parties' donations
 
@@ -4613,7 +4766,11 @@ If a candidate considers that there is no relevant information to disclose under
   (a) be filed by 30 April of the following year; and
   (b) be in the form required by the Electoral Commission; and
   (c) be accompanied by an auditor’s report, if an auditor’s report is required to be obtained under section 210A.
-(8) Despite anything in subsection (1), if a party secretary is required to file under that subsection a return of party donations that relates to the year in which the party became registered, that return is to relate to the period beginning with the date of registration of the party and ending with 31 December of that year.
+(8) Despite anything in subsection (1),—
+  (a) if a party secretary is required to file under that subsection a return of party donations that relates to the year in which the party became registered, that return is to relate to the period beginning with the date of registration of the party and ending on 31 December of that year:
+  (b) if a party secretary is required to file under that subsection a return of party donations that relates to the year in which the party’s registration was cancelled, that return is to relate to the period beginning on 1 January of that year and ending on the date of cancellation of the party’s registration:
+  (c) if a party secretary is required to file under that subsection a return of party donations that relates to the year in which the party became registered and the party’s registration was cancelled, that return is to relate to the period beginning with the date of registration of the party and ending on the date of cancellation of the party’s registration.
+(8A) The cancellation of a party’s registration before the close of 30 April in any year does not release the party secretary, or the person who most recently held that position, from the requirement under this section to file a return of party donations for the preceding year.
 (9) In this section, year means the period of 12 months starting on 1 January and ending with the close of 31 December.
 
 ### 210A Auditor's report on annual return of party donations
@@ -4690,12 +4847,10 @@ If a party secretary considers that there is no relevant information to disclose
 (2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 210F Return of party donations to be publicly available
-(1) The Electoral Commission may publish, in any manner that the Electoral Commission considers appropriate, the following returns and reports:
+During the public inspection period, the Electoral Commission must ensure that the following are publicly available (free of charge) on the Electoral Commission’s internet site:
   (a) a return filed under section 210; and
-  (b) a report obtained under section 210A accompanying the return referred to in paragraph (a); and
+  (b) an auditor’s report obtained under section 210A accompanying the return referred to in paragraph (a); and
   (c) a return filed under section 210C.
-(2) During the public inspection period, the Electoral Commission must make available for public inspection a copy of every return and report referred to in subsection (1).
-(3) The Electoral Commission may make inspection under subsection (2) subject to the payment of any charges that may be made under the Official Information Act 1982.
 
 ### Subpart 7 — Annual financial statements of parties
 
@@ -4709,6 +4864,9 @@ If a party secretary considers that there is no relevant information to disclose
   (b) details of the assets and liabilities of the party at the close of the previous 12-month period; and
   (c) details of all mortgages, charges, and other security interests of any description affecting any of the property of the party at the close of the previous 12-month period.
 (4) No annual financial statements that are in respect of any period before 1 January 2023 are required to be provided to the Electoral Commission under this section.
+(4A) If a party’s registration is cancelled in any year, the secretary of the party, or the person who most recently held that position, must provide to the Electoral Commission a copy of—
+  (a) the party’s annual financial statements next due under this section as if the party’s registration had not been cancelled; or
+  (b) the financial statements of the party for the period commencing on the day after the party’s last balance date and ending on the date of cancellation of the party’s registration.
 (5) In this section,—
   - **default balance date** means 31 March in any year
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
@@ -4826,7 +4984,11 @@ A person who enters into an agreement, arrangement, or understanding with any ot
   (b) be in a form required by the Electoral Commission; and
   (c) be accompanied by an auditor's report obtained under section 214D.
 (6) In this section, year means the period of 12 months starting on 1 January and ending with the close of 31 December.
-(7) Despite anything in subsection (1), if a party secretary is required to file under that subsection a return of party loans that relates to the year in which the party became registered, that return is to relate to the period beginning with the date of registration of the party and ending with 31 December of that year.
+(7) Despite anything in subsection (1),—
+  (a) if a party secretary is required to file under that subsection a return of party loans that relates to the year in which the party became registered, that return is to relate to the period beginning with the date of registration of the party and ending on 31 December of that year:
+  (b) if a party secretary is required to file under that subsection a return of party loans that relates to the year in which the party’s registration was cancelled, that return is to relate to the period beginning on 1 January of that year and ending on the date of cancellation of the party’s registration:
+  (c) if a party secretary is required to file under that subsection a return of party loans that relates to the year in which the party became registered and the party’s registration was cancelled, that return is to relate to the period beginning with the date of registration of the party and ending on the date of cancellation of the party’s registration.
+(8) The cancellation of a party’s registration before the close of 30 April in any year does not release the party secretary, or the person who most recently held that position, from the requirement under this section to file a return of party loans for the preceding year.
 
 ### 214D Auditor’s report on annual return of party loans
 (1) This section applies to a return of party loans required to be filed under section 214C, except for a nil return filed under section 214E.
@@ -4926,13 +5088,11 @@ If a candidate considers that there is no relevant information to disclose under
 (4) A candidate who fails, without reasonable excuse, to comply with subsection (3) commits an offence and is liable on conviction to a fine not exceeding $40,000.
 
 ### 214J Returns of loans to be publicly available
-(1) The Electoral Commission may publish, in any manner that the Electoral Commission considers appropriate, the following returns and reports:
+During the public inspection period, the Electoral Commission must ensure that the following are publicly available (free of charge) on the Electoral Commission’s internet site:
   (a) a return filed under section 214C; and
-  (b) a report obtained under section 214D accompanying a return referred to in paragraph (a); and
+  (b) an auditor’s report obtained under section 214D accompanying the return referred to in paragraph (a); and
   (c) a return filed under section 214F; and
   (d) a return filed under section 214GA.
-(2) During the public inspection period, the Electoral Commission must make available for public inspection a copy of every return and report referred to in subsection (1).
-(3) The Electoral Commission may make inspection under subsection (2) subject to the payment of any charges that may be made under the Official Information Act 1982.
 
 ### 214K Obligation to file nil returns
 [Repealed]
@@ -4955,40 +5115,108 @@ If a candidate considers that there is no relevant information to disclose under
 
 ### 216 Bribery
 (1) Every person is guilty of a corrupt practice who commits the offence of bribery.
-(2) Every person commits the offence of bribery who, directly or indirectly, by himself or herself or by any other person on his or her behalf—or who, upon or in consequence of any such gift or procurement as aforesaid, procures, or engages, promises, or endeavours to procure, the return of any person or candidates at any election or the vote of any voter.
-  (a) gives any money or procures any office to or for any voter, or to or for any other person on behalf of any voter, or to or for any other person, in order to induce any voter to vote or refrain from voting; or
-  (b) corruptly does any such act as aforesaid on account of any voter having voted or refrained from voting; or
-  (c) makes any such gift or procurement as aforesaid to or for any person in order to induce that person to procure, or endeavour to procure, the return of any person or candidates at an election or the vote of any voter,—
+(2) A person commits the offence of bribery if the person directly, indirectly, or by an agent—
+  (a) gives any money to, or procures any benefit for, a voter to induce the voter to—
+    (i) vote or refrain from voting; or
+    (ii) refrain from registering as an elector of an electoral district; or
+    (iii) register on the roll for a General electoral district and not a Māori electoral district, or register on the roll for a Māori electoral district and not a General electoral district; or
+  (b) gives any money to, or procures any benefit for, another person on behalf of any voter to induce the voter to—
+    (i) vote or refrain from voting; or
+    (ii) refrain from registering as an elector of an electoral district; or
+    (iii) register on the roll for a General electoral district and not a Māori electoral district, or register on the roll for a Māori electoral district and not a General electoral district; or
+  (c) gives any money to, or procures any benefit for, any person for that person to induce any voter to—
+    (i) vote or refrain from voting; or
+    (ii) refrain from registering as an elector of an electoral district; or
+    (iii) register on the roll for a General electoral district and not a Māori electoral district, or register on the roll for a Māori electoral district and not a General electoral district; or
+  (d) gives any money to, or procures any benefit for, any person, corruptly, on account of any voter having—
+    (i) voted or refrained from voting; or
+    (ii) refrained from registering as an elector of an electoral district; or
+    (iii) registered on the roll for a General electoral district and not a Māori electoral district, or registered on the roll for a Māori electoral district and not a General electoral district; or
+  (e) gives any money to, or procures any benefit for, any other person to induce the other person to procure—
+    (i) the return of any candidate or candidates at an election; or
+    (ii) the vote of any voter; or
+  (f) receives any money, or obtains any benefit, for procuring or agreeing to procure—
+    (i) the return of any candidate or candidates at an election; or
+    (ii) the vote of any voter.
 (3) For the purposes of this section,—
   (a) references to giving money shall include references to giving, lending, agreeing to give or lend, offering, promising, or promising to procure or endeavour to procure, any money or valuable consideration:
-  (b) references to procuring any office shall include references to giving, procuring, agreeing to give or procure, offering, promising, or promising to procure or to endeavour to procure, any office, place, or employment.
+  (b) references to procuring any benefit shall include references to giving, procuring, agreeing to give or procure, offering, promising, or promising to procure or to endeavour to procure, any office, place, or employment.
 (4) Every person commits the offence of bribery who—
   (a) advances or pays or causes to be paid any money to or to the use of any other person with the intent that that money or any part thereof shall be expended in bribery at any election; or
   (b) knowingly pays or causes to be paid any money to any person in discharge or repayment of any money wholly or in part expended in bribery at any election.
 (5) The foregoing provisions of this section shall not extend or be construed to extend to any money paid or agreed to be paid for or on account of any legal expenses incurred in good faith at or concerning an election.
-(6) A voter commits the offence of bribery if before or during an election he or she directly or indirectly, by himself or herself or by any other person on his or her behalf, receives, or agrees or contracts for, any money, gift, loan, or valuable consideration, office, place, or employment for himself or herself or for any other person for voting or agreeing to vote or for refraining or agreeing to refrain from voting.
-(7) Every person commits the offence of bribery if after an election he or she directly or indirectly, by himself or herself or by any other person on his or her behalf, receives any money or valuable consideration on account of any person having voted or refrained from voting or having induced any other person to vote or refrain from voting.
+(6) A person commits the offence of bribery if the person directly, indirectly, or by an agent receives, or agrees to receive, any money, benefit, office, place, or employment for themselves, or any other person, for—
+  (a) agreeing to vote, or voting; or
+  (b) agreeing to refrain from voting, or refraining from voting; or
+  (c) agreeing to refrain from registering as an elector of an electoral district, or refraining from registering as an elector of an electoral district; or
+  (d) agreeing to register, or registering, as an elector of a General electoral district and not a Māori electoral district, or as an elector of a Māori electoral district and not a General electoral district; or
+  (e) agreeing to induce, or inducing, a person to—
+    (i) vote or refrain from voting; or
+    (ii) refrain from registering as an elector of an electoral district; or
+    (iii) register on the roll for a General electoral district and not a Māori electoral district, or register on the roll for a Māori electoral district and not a General electoral district.
+(7) A person commits the offence of bribery if the person directly, indirectly, or by an agent receives any money or benefit for having, or for any other person having,—
+  (a) voted or refrained from voting; or
+  (b) refrained from registering as an elector of an electoral district; or
+  (c) registered on the roll for a General electoral district and not a Māori electoral district, or registered on the roll for a Māori electoral district and not a General electoral district; or
+  (d) induced a person to—
+    (i) vote or refrain from voting; or
+    (ii) refrain from registering as an elector of an electoral district; or
+    (iii) register on the roll for a General electoral district and not a Māori electoral district, or register on the roll for a Māori electoral district and not a General electoral district.
 (8) In this section the term voter includes any person who has or claims to have a right to vote.
 
 ### 217 Treating
 (1) Every person is guilty of a corrupt practice who commits the offence of treating.
-(2) Every person commits the offence of treating who corruptly, by himself or herself or by any other person on his or her behalf, either before, during, or after an election, directly or indirectly gives or provides, or pays wholly or in part the expense of giving or providing, any food, drink, entertainment, or provision to or for any person—
-  (a) for the purpose of corruptly influencing that person or any other person to vote or refrain from voting; or
-  (b) for the purpose of procuring himself or herself to be elected; or
-  (c) on account of that person or any other person having voted or refrained from voting, or being about to vote or refrain from voting.
+(2) A person commits the offence of treating if at any time the person directly, indirectly, or by an agent corruptly gives, provides, or pays (in whole or in part) the expense of giving or providing, any food, drink, entertainment, or other thing to or for a person—
+  (a) for the purpose of influencing that person, or any other person, to—
+    (i) vote or refrain from voting; or
+    (ii) refrain from registering as an elector of an electoral district; or
+    (iii) register on the roll for a General electoral district and not a Māori electoral district, or register on the roll for a Māori electoral district and not a General electoral district; or
+  (b) for the purpose of procuring the vote of that person or any other person; or
+  (c) on account of that person, or any other person, having—
+    (i) voted or refrained from voting; or
+    (ii) refrained from registering as an elector of an electoral district; or
+    (iii) registered on the roll for a General electoral district and not a Māori electoral district, or registered on the roll for a Māori electoral district and not a General electoral district.
 (3) Every person commits the offence of treating who, being the holder of a licence for the sale by retail of alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012), knowingly supplies any food, drink, entertainment, or provision—
   (a) to any person where the supply thereof is demanded for the purpose of treating, or for any corrupt or illegal practice; or
   (b) to any persons, whether electors or not, for the purpose of procuring the return of a candidate or candidates at an election, and without receiving payment for it at the time when it is supplied.
-(4) Every elector who corruptly accepts or takes any such food, drink, entertainment, or provision also commits the offence of treating.
+(4) A person who corruptly accepts or takes any food, drink, entertainment, or other thing in any of the circumstances specified in subsection (2) also commits the offence of treating.
 (5) Notwithstanding anything in this section, the provision of a light supper after any election meeting shall be deemed not to constitute the offence of treating.
 
 ### 218 Undue influence
 (1) Every person is guilty of a corrupt practice who commits the offence of undue influence.
-(2) Every person commits the offence of undue influence who—
-  (a) directly or indirectly, by himself or herself or by any other person on his or her behalf, makes use of or threatens to make use of any force, violence, or restraint, or inflicts or threatens to inflict, by himself or herself or by any other person, any temporal or spiritual injury, damage, harm, or loss upon or against any person, in order to induce or compel that person to vote for or against a particular candidate or party or to vote or refrain from voting, or on account of that person having voted for or against a particular candidate or having voted or refrained from voting; or
-  (b) by abduction, duress, or any fraudulent device or contrivance, impedes or prevents the free exercise of the franchise of an elector, or thereby compels, induces, or prevails upon an elector either to vote or to refrain from voting.
+(2) A person commits the offence of undue influence if the person—
+  (a) directly, indirectly, or by an agent uses, or threatens to use, any force, violence, or restraint, or inflicts or threatens to inflict any injury, damage, harm, or loss upon or against any other person to induce or compel that other person to—
+    (i) vote or refrain from voting; or
+    (ii) vote, or refrain from voting, for or against a particular candidate or party; or
+    (iii) refrain from registering as an elector of an electoral district; or
+    (iv) register on the roll for a General electoral district and not a Māori electoral district, or register on the roll for a Māori electoral district and not a General electoral district; or
+  (b) directly, indirectly, or by an agent uses, or threatens to use, any force, violence, or restraint, or inflicts or threatens to inflict any injury, damage, harm, or loss upon or against any other person on account of that other person having—
+    (i) voted or refrained from voting; or
+    (ii) voted, or refrained from voting, for or against a particular candidate or party; or
+    (iii) refrained from registering as an elector of an electoral district; or
+    (iv) registered on the roll for a General electoral district and not a Māori electoral district, or registered on the roll for a Māori electoral district and not a General electoral district; or
+  (c) by abduction, duress, or any fraudulent means—
+    (i) impedes or prevents the free exercise of the franchise of an elector; or
+    (ii) compels or induces an elector to vote or to refrain from voting; or
+    (iii) compels or induces a person to refrain from registering as an elector of an electoral district; or
+    (iv) compels or induces a person to register on the roll for a General electoral district and not a Māori electoral district, or to register on the roll for a Māori electoral district and not a General electoral district.
 
 **Illegal practices**
+
+### 218A Providing food, drink, or entertainment around polling places
+(1) During any voting period, a person must not provide, free of charge, any food, drink, or entertainment in an area around a polling place knowing that the area is a controlled area.
+(2) Subsection (1) does not apply to an entity that in its ordinary course of business provides, free of charge,—
+  (a) any food or drink in the controlled area around a polling place:
+  (b) entertainment—
+    (i) in the controlled area around a polling place; or
+    (ii) outside the controlled area around a polling place but that may be seen or heard in the controlled area around a polling place.
+(3) A person who, without reasonable excuse, contravenes subsection (1) is guilty of an illegal practice.
+(4) In this section,—
+  - **controlled area** , in relation to a polling place, means the area within 100 metres of any entrance to the polling place, or any smaller area specified by the Electoral Commission for a particular polling place
+  - **drink** excludes water
+  - **entertainment** includes music
+  - **polling place** includes an advance polling place
+  - **voting period** , in relation to a polling place, means any period during which electors may vote at the polling place.
 
 ### 219 Payments for exhibition of election notices
 (1) No payment or contract for payment may be made to any elector on account of the exhibition of, or the use of any house, land, building, or premises for the exhibition of, any address, poster, or notice that promotes or procures the election of a candidate or candidates at an election.
@@ -5296,12 +5524,7 @@ At the conclusion of the trial of an election petition to which section 258 appl
 ## Part 9 — Miscellaneous provisions
 
 ### 263 Service of notices
-(1) Any notice under this Act may be served on any person by delivering it to that person, and may be delivered to that person either personally or by leaving it at his or her place of residence as stated on the roll or by posting it by registered letter addressed to him or her at that place of residence.
-(2) A notice so posted shall be deemed to have been served at the time when the registered letter would in the ordinary course of post be delivered.
-(3) Where any notice is sent by registered letter addressed to any person at his or her place of residence as stated on the roll, with a special request that the letter be returned to the sender at the expiration of 15 days if the person to whom the letter is addressed cannot be found, the return of the letter by a person registered as a postal operator under the Postal Services Act 1998 must be treated as sufficient proof that the person has quitted that place of residence.
-(4) Registered letter includes any service that—
-  (a) provides a system of recorded delivery; and
-  (b) is similar in nature to a registered post service provided by a person registered as a postal operator under the Postal Services Act 1998.
+[Repealed]
 
 ### 263A Disclosure of immigration information for matching purposes
 (1) In this section,—
@@ -5343,7 +5566,7 @@ At the conclusion of the trial of an election petition to which section 258 appl
   (b) the person’s date of birth:
   (c) the person’s address of residence (if known):
   (d) the person’s postal address (if known and if different from the address of residence in paragraph (c)):
-  (e) the person’s preferred honorific (if known):
+  (e) the person’s email address or phone numbers (if known):
   (f) the date at which the information in paragraphs (a) to (e) held by the agency was last provided to the agency.
 (3) For the purposes of this section, a specified agency means—
   (a) the department for the time being responsible for the administration of the Social Security Act 2018; and
@@ -5380,31 +5603,50 @@ At the conclusion of the trial of an election petition to which section 258 appl
 Registrars of Electors shall be exempt from the payment of any court fees in respect of any proceedings under this Act.
 
 ### 266 Validation of irregularities
-Where anything is omitted to be done or cannot be done at the time required by or under this Act, or is done before or after that time, or is otherwise irregularly done in matter of form, or sufficient provision is not made by or under this Act, the Governor-General may, by Order in Council published in the Gazette, at any time before or after the time within which the thing is required to be done, extend that time, or validate anything so done before or after the time required or so irregularly done in matter of form, or make other provision for the case as he or she thinks fit:provided that this section shall not apply with respect to the presentation of an election petition or to the giving of security for costs in relation to an election petition.
+(1) The Governor-General may, by Order in Council, take any of the actions described in subsection (2) if—
+  (a) anything is omitted to be done by, at, on, or within the time required by or under this Act or any regulations made under this Act; or
+  (b) anything cannot be done by, at, on, or within the time required by or under this Act or any regulations made under this Act; or
+  (c) anything is done before or after the time required by or under this Act or any regulations made under this Act; or
+  (d) anything is otherwise irregularly done in matter of form; or
+  (e) sufficient provision is not made by or under this Act or any regulations made under this Act.
+(2) The actions are,—
+  (a) at any time before or after the time within which anything is required to be done, to extend that time; or
+  (b) to validate anything done before or after the time required; or
+  (c) to validate anything irregularly done in matter of form; or
+  (d) to make such other provision for the case as the Governor-General thinks fit.
+(3) Subsection (1) does not apply to—
+  (a) the presentation of an election petition; or
+  (b) the giving of security for costs in relation to an election petition.
+(4) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 266A Expenditure limits to be adjusted each year by Order in Council
-(1) The Governor-General must, by Order in Council made on the recommendation of the Minister, in the manner provided in subsections (2) to (6), adjust the amounts specified in the following provisions:
-  (a) section 204B(1)﻿(d) (which relates to the maximum amount of advertising expenses that may be incurred by an unregistered promoter):
-  (b) section 205C (which relates to the maximum amount of a candidate's election expenses):
-  (c) section 206C (which relates to the maximum amount of a party's election expenses):
-  (d) section 206V (which relates to the maximum amount of a registered promoter's election expenses).
-(2) The first Order in Council must—
-  (a) come into force on 1 July 2011; and
-  (b) adjust the amount referred to in section 206C(1)﻿(a) to reflect the movement between the CPI for the quarter ending 30 September 2010 and the CPI for the quarter ending 31 March 2011.
-(3) Every subsequent Order in Council must—
-  (a) come into force on every following 1 July; and
-  (b) adjust the amounts referred to in subsection (1) to reflect the movement between the CPI for the quarter ending 31 March of the previous year and the CPI for the quarter ending 31 March of the current year.
-(4) If after adjustment in accordance with subsection (3)﻿(b) any of the amounts specified in the following sections is not a whole number of hundred dollars, the adjusted amount must be rounded up to the next whole hundred dollars:
-  (a) section 204B(1)﻿(d):
-  (b) section 205C(1)﻿(a) and (b):
-  (c) section 206C(1)﻿(b) and (2).
-(5) If after adjustment in accordance with subsection (2)﻿(b) or (3)﻿(b) the amount specified in section 206C(1)﻿(a) or 206V is not a whole number of thousand dollars, the adjusted amount must be rounded up to the next whole thousand dollars.
-(6) If an adjusted amount has been rounded up in accordance with subsection (4) or (5), the adjustment to that amount made the following year must be based on the adjusted amount as it was before it was rounded up.
-(6A) If in any year a regulated period for a general election or a by-election commences before 1 July and ends on or after that date,—
-  (a) the adjustments to the amounts referred to in subsection (1) made by the Order in Council that commences on 1 July of that year do not apply in respect of that election or by-election; and
-  (b) the adjustments to the amounts referred to in subsection (1) made by the Order in Council of the previous year apply to that election or by-election.
-(7) In this section, CPI means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
-(8) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+### 266A Expenditure limits to be adjusted each election year
+(1) This section applies to the amounts referred to in the following provisions:
+  (a) section 204B(1)﻿(d) (the maximum amount of advertising expenses that may be incurred by an unregistered promoter):
+  (b) section 205C(1) (the maximum amount of a candidate’s election expenses):
+  (c) section 206C(1) and (2) (the maximum amount of a party’s election expenses):
+  (d) section 206V(1) (the maximum amount of a registered promoter’s election expenses).
+(2) The amounts must be adjusted on 1 January of each election year by the Electoral Commission.
+(3) The first adjustment of the amounts must—
+  (a) come into effect on 1 January 2026; and
+  (b) be based on the adjusted amounts as they were before being rounded up for the purpose of the adjustment made on 1 July 2025 (the 2025 unrounded amounts); and
+  (c) adjust the 2025 unrounded amounts to reflect the percentage movement between the CPI for the quarter ending 31 March 2025 and the CPI for the quarter ending 30 September 2025.
+(4) Every subsequent adjustment must—
+  (a) come into effect on 1 January of the next election year; and
+  (b) adjust the amounts to reflect the percentage movement between—
+    (i) the CPI for the quarter ending 30 September of the year preceding the last election year; and
+    (ii) the CPI for the quarter ending 30 September of the year preceding the election year in which the adjustment is being made.
+(5) If, after adjustment in accordance with subsection (3)﻿(c) or (4)﻿(b), an amount is not a whole number of thousand dollars, the adjusted amount must be rounded up to the next whole thousand dollars.
+(6) If an adjusted amount has been rounded up in accordance with subsection (5), the adjustment next made to that amount must be based on the adjusted amount as it was before it was rounded up.
+(7) Despite subsections (2) to (4), no adjustment is made—
+  (a) to an amount if, in respect of the amount, the effect of subsections (5) and (6) is that no adjustment is required; or
+  (b) to any of the amounts if there is no percentage movement upwards between the CPI quarters referred to in subsection (3)﻿(c) or (4)﻿(b).
+(8) No later than 31 December in the year preceding an election year, the Electoral Commission must publish on its internet site the amounts applying on 1 January of the election year, being—
+  (a) the amounts adjusted in accordance with subsections (3) to (6) that come into effect on that date; and
+  (b) any amounts that, in accordance with subsection (7), have not been adjusted and that came into effect (or applied) on 1 January of the previous election year.
+(9) If, for any election year, the regulated period for the general election or a by-election commences before 31 December of the previous year and ends after 1 January in the election year, the amounts applying in respect of the general election or by-election are the amounts that came into effect on 1 January of the last election year.
+(10) In this section,—
+  - **CPI** means the New Zealand Consumers Price Index (All Groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index
+  - **election year** means the year in which the term of Parliament is due to expire.
 
 ### 267 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -5571,6 +5813,36 @@ Despite sections 6 and 7 of the Electoral Amendment Act 2022, sections 210 and 2
 
 ### 6 Transitional provision relating to party donations received from same donor over $30,000
 Despite section 8 of the Electoral Amendment Act 2022, section 210C as in force immediately before 1 January 2023 continues to apply on and after that date in respect of all party donations received before the close of 31 December 2022.
+
+### Part 4 — Provisions relating to Electoral Amendment Act 2025
+
+### 7 Interpretation
+In this Part,—
+  - **amendment Act** means the Electoral Amendment Act 2025
+  - **commencement date** ,—
+    (a) in clauses 8 and 10, means the date on which this schedule comes into force; and
+    (b) in clause 9, means 1 January 2026.
+
+### 8 Close of registration for by-election held between commencement date and next general election
+(1) This clause applies if a by-election is held—
+  (a) after the commencement date; and
+  (b) before the next general election.
+(2) Sections 60 and 88, as in force immediately before the commencement date, continue to apply in respect of the by-election.
+
+### 9 Application for registration of eligible political party made but not determined before commencement date
+(1) This clause applies if, before the commencement date,—
+  (a) an application for registration of an eligible political party is made to the Electoral Commission under section 63; and
+  (b) the Electoral Commission has not determined the application.
+(2) The Electoral Commission must determine the application as if—
+  (a) section 63(2)﻿(da) had not been inserted by section 59 of the amendment Act; and
+  (b) section 71B had not been replaced by section 61 of the amendment Act.
+
+### 10 Hard copy special vote declaration forms printed before commencement date
+(1) This clause applies in respect of a special vote declaration form that is—
+  (a) printed before the commencement date; and
+  (b) issued by an Issuing Officer to a person before 31 December 2027.
+(2) The special vote declaration form may provide for the collection of the person’s occupation despite section 83(2)﻿(e) being replaced by section 14 of the amendment Act.
+(3) A person who is issued with a special vote declaration form that provides for the collection of the details specified in subclause (2) need not provide those details.
 
 ## Schedule 1 — Provisions relating to Electoral Commission
 
