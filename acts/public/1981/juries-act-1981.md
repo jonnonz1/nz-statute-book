@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2025-12-20_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -108,9 +108,7 @@ The following persons shall not serve on any jury in any court on any occasion:
   (a) the number of names to be included in the jury list; and
   (b) the date by which the list is required.
 (3) The Electoral Commission must, for each jury district, prepare a jury list containing a random selection of the names of people who, according to the electoral roll, reside in the jury district and are registered as electors.
-(4) A jury list must not contain the name of any person—
-  (a) who, according to the electoral roll, holds any office, or is engaged in any occupation, referred to in section 8:
-  (b) in respect of whom a direction is in force under section 115 of the Electoral Act 1993 that his or her name, residence, and occupation not be published.
+(4) A jury list must not contain the name of any person in respect of whom a direction is in force under section 115 of the Electoral Act 1993 that their name and address not be published.
 
 ### 10 Jury lists sent to chief executive
 The Electoral Commission must, within the time specified by the chief executive, forward a jury list for each jury district to the chief executive in accordance with the jury rules.
