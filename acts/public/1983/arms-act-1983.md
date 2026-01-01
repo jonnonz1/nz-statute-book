@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2025-06-29_
+_Consolidation as at 2026-01-01_
 
 > Title
 
@@ -2415,22 +2415,7 @@ No action, claim, or demand whatsoever shall lie or be made or allowed by or in 
 [Repealed]
 
 ### 74D Regulations providing for transitional matters relating to Arms Legislation Act 2020
-(1) The Governor-General may, by Order in Council made on the recommendation of the responsible Minister, make regulations—
-  (a) providing transitional and savings provisions concerning the coming into force of the amendment Act that may be in addition to, or in substitution for, the transitional and savings provisions in Part 2 of Schedule 1:
-  (b) providing that (subject to any conditions specified in the regulations), during a specified transitional period,—
-    (i) specified provisions of this Act (including definitions or transitional and savings provisions) do not apply (or apply with modifications or additions):
-    (ii) specified provisions repealed, revoked, or amended by the amendment Act continue to apply (or continue to apply with modifications or additions):
-    (iii) specified terms have the meanings given to them by regulations:
-    (iv) conditions for the possession and use of a specified item apply during the amnesty period:
-  (c) providing for any other matters necessary for facilitating or ensuring an orderly transition from the legislative regime that applies under this Act before the amendment Act comes fully into force to the legislative regime that applies when the amendment Act comes fully into force.
-(2) On the close of 31 December 2025,—
-  (a) this section is repealed; and
-  (b) any regulations made under it are revoked.
-(3) In this section,—
-  - **amendment Act** means the Arms Legislation Act 2020
-  - **amnesty period** has the meaning given in clause 8 of Schedule 1
-  - **specified item** has the meaning given in clause 8 of Schedule 1.
-(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 75 Consequential amendment to Summary Proceedings Act 1957
 Amendment(s) incorporated in the Act(s).
