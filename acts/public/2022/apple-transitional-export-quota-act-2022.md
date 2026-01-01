@@ -1,5 +1,5 @@
 # Apple Transitional Export Quota Act 2022
-_Consolidation as at 2023-05-31_
+_Consolidation as at 2026-01-01_
 
 ### 1 Title
 This Act is the Apple Transitional Export Quota Act 2022.
