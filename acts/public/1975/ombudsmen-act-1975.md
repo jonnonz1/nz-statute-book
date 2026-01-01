@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2026-01-01_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -369,7 +369,6 @@ Despite the enactment of the Amendment Act, the entity known as Insurance & Fina
 
 | Interdepartmental executive board | Servicing department |
 | --- | --- |
-| Border Executive Board | New Zealand Customs Service |
 | Climate Change Chief Executives Board | Ministry for the Environment |
 | Digital Executive Board | Department of Internal Affairs |
 | Executive Board for the Elimination of Family Violence and Sexual Violence | Ministry of Justice |
