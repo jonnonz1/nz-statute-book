@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2025-12-17_
+_Consolidation as at 2026-01-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -93,6 +93,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (xva) section 180G (exemptions for deforestation of land with tree weeds):
     (xvi) section 181W (P90 offsetting):
     (xvia) section 190F (pecuniary penalty for clear-felling):
+    (xviab) section 190KZE (regulations for changing annual hectare limit):
     (xvib) section 191I (averaging):
     (xvic) section 192U (P89 offsetting):
     (xvid) section 193R (temporary adverse event suspensions):
@@ -136,6 +137,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   (na) section 180G (exemptions for deforestation of land with tree weeds):
   (o) section 181W (P90 offsetting):
   (oa) section 190F (pecuniary penalty for clear-felling):
+  (oab) section 190KZE (regulations for changing annual hectare limit):
   (ob) section 191I (averaging):
   (oc) section 192U (P89 offsetting):
   (od) section 193R (temporary adverse event suspensions):
@@ -4642,7 +4644,7 @@ Sections 169 to 176 do not affect the application of sections 29 to 32 of the St
     (iv) is used only for the purpose of implementing New Zealand's best practice forest management:
   (b) in the case of pre-1990 forest land in relation to which a P90 offset application has been submitted under section 181A, the land may not be treated as deforested during the period—
     (i) starting on the date on which the application is submitted; and
-    (ii) ending on the P90 offset date for the land under section 181F(3):
+    (ii) ending on the P90 offset date for the land under section 181F(5):
   (c) in the case of post-1989 forest land, the post-1989 forest land that is cleared may not be treated as deforested if the cleared land—
     (i) is contiguous with the edge of post-1989 forest land that existed on the date of the first registration of any person as a participant in standard forestry or permanent forestry in respect of the cleared land; and
     (ii) is an area that is less than 1 hectare or that is less than 30 metres wide at its widest point; and
@@ -6116,6 +6118,164 @@ The 25% allowance is in addition to any LUC class 6 land that may be registered 
 
 ### 190KE The 25% allowance is not increased if LUC class 1–6 land area increases
 If the landowner of an individual farm becomes the landowner of LUC class 1–6 land adjacent to the individual farm, the 25% allowance for the individual farm does not increase.
+
+### Subpart 4B — LUC class 6 land permits
+
+**Application of this subpart**
+
+### 190KF Application of this subpart
+This subpart applies to LUC class 6 land.
+
+**Ballots for LUC class 6 land permits**
+
+### 190KG Permit allocation in addition to 25% allowance
+The number of hectares of LUC class 6 land that may be registered under a LUC class 6 land permit is in addition to any LUC class 6 land registered under the 25% allowance available to the permit holder under subpart 4A in relation to LUC class 6 land on the same individual farm.
+
+### 190KH Annual hectare limit
+The annual hectare limit of LUC class 6 land in total for the first and second ballots in a calendar year is,—
+  (a) if no regulations are made under section 190KZE, 15,000 hectares; or
+  (b) if regulations are made under section 190KZE, the limit specified in those regulations.
+
+### 190KI Ballots for LUC class 6 land permits
+(1) Each calendar year, the EPA must issue LUC class 6 land permits by conducting 2 ballots: the first ballot and the second ballot.
+(2) Each ballot must—
+  (a) be conducted so as to provide the prescribed amount of hectares that is reserved for small applications; and
+  (b) be completed within any prescribed time frames.
+(3) A small application that is not drawn from a ballot before the ballot’s reserve of hectares for small applications is fully used is included in that ballot with the remaining applications in that ballot.
+
+### 190KJ First ballot
+(1) The first ballot of a calendar year must include—
+  (a) its prescribed portion of the annual hectare limit; and
+  (b) its reserved allocation of hectares for small applications; and
+  (c) any hectares reallocated to the ballot in accordance with section 190KK(2).
+(2) Any hectares that are not included in the LUC class 6 permits that are issued following the first ballot may be reallocated as prescribed in regulations.
+
+### 190KK Second ballot
+(1) In addition to any hectares referred to in section 190KJ(2), the second ballot must also include—
+  (a) its prescribed portion of the annual hectare limit; and
+  (b) its reserved allocation of hectares for small applications; and
+  (c) any hectares reallocated to the ballot in accordance with section 190KL(1).
+(2) Any hectares that are not included in the LUC class 6 permits that are issued following the second ballot may be reallocated as prescribed in regulations,—
+  (a) subject to the roll-over limit; and
+  (b) if reallocated to a later year, subject to no further reallocation to any later calendar year.
+
+### 190KL Reallocating unused small applications hectares
+(1) If the total number of hectares included in all of the eligible small applications that are drawn from the first ballot of a calendar year does not reach the reserved allocation for small applications in that ballot, the unused hectares must be reallocated into the second ballot of the year and made available as hectares that are not reserved for small applications.
+(2) If the total number of hectares included in all of the eligible small applications that are drawn from the second ballot of a calendar year does not reach the reserved allocation for small applications in that ballot, the unused hectares must be made available in that ballot as hectares that are not reserved for small applications.
+(3) When hectares are reallocated or made available under subsection (1) or (2), they do not affect or add to—
+  (a) the allocation reserved in the second ballot for small applications; or
+  (b) the prescribed portion of the annual hectare limit for that ballot.
+
+**Ballot process**
+
+### 190KM Conditions of eligibility
+To enter an application into a ballot for a LUC class 6 land permit, a person must—
+  (a) specify the record or records of title comprising the land on which the LUC class 6 land to which the application relates is located; and
+  (b) be the landowner of the land or provide the written consent of the landowner to make the application; and
+  (c) make no more than 1 application in respect of the same record or records of title in that ballot; and
+  (d) specify the number of hectares in respect of which the application is made, which must be no more than the area of LUC class 6 land contained in the record or records of title referred to in paragraph (a); and
+  (e) ensure that the application—
+    (i) is in the form, if any, prescribed by the EPA for that purpose; and
+    (ii) is accompanied by the prescribed fee, if any; and
+    (iii) provides any other prescribed information.
+
+### 190KN Application ineligible if current permit includes record of title
+An application for a LUC class 6 land permit is not eligible to be entered into a ballot if the application contains a record of title that is included in a LUC class 6 land permit that contains that record of title and is currently valid under section 190KY or 190KZ.
+
+### 190KO Multiple applications with same record of title in common
+If a record of title is included in more than 1 eligible application for a LUC class 6 land permit and one of those applications is drawn from a ballot, all remaining applications in the ballot that include that record of title become ineligible and are wholly cancelled.
+
+### 190KP Retention of property-scale assessment records
+An applicant must keep property-scale assessment records for 20 years if the applicant has used a property-scale assessment of the land use capability classification of land described in a record of title in an application for a LUC class 6 land permit.
+
+### 190KQ Conducting ballot
+The EPA must conduct a ballot by random selection—
+  (a) in accordance with this Act and any regulations made under it; and
+  (b) by using electro-mechanical drawing equipment or any other equipment that the EPA may determine.
+
+### 190KR Review and appeal not available for decisions about entering application into ballot
+There is no right of review or appeal under any of sections 144 to 146 in relation to a decision by the EPA as to whether or not to enter an application into a ballot for a LUC class 6 land permit.
+
+**Issuing permits**
+
+### 190KS Effect of permit being issued
+(1) A person issued a LUC class 6 land permit may apply to be registered as a participant in relation to an activity of standard or permanent forestry in respect of LUC class 6 land or to add a carbon accounting area or areas to the post-1989 forest land in respect of which the person is recorded as a participant, as the case may be, up to the maximum number of hectares in respect of the LUC class 6 land permit.
+(2) The person may apply to register, or add, fewer hectares than the permit allows, but must not register or add more.
+
+### 190KT EPA may decline application
+(1) The EPA may decline an application if the application does not meet the conditions of eligibility set out in section 190KM.
+(2) The EPA may decline an application partially in the circumstances set out in section 190KU.
+
+### 190KU Exceeding remaining available hectares
+If the final successful application in a ballot partially exceeds the remaining hectares available for that ballot, the EPA may issue a LUC class 6 land permit to the applicant for those remaining hectares but not the full number of hectares sought in the application.
+
+**Use of LUC class 6 land permit**
+
+### 190KV Using LUC class 6 land permit
+(1) The holder of a LUC class 6 land permit must meet the requirements, conditions, and criteria under this Act in relation to applying for emissions trading scheme registration in respect of the LUC class 6 land, or adding that land to land that is already registered in the emissions trading scheme, as the case may be.
+(2) An application on the basis of a LUC class 6 land permit must also demonstrate to the EPA that the post-1989 forest land that the applicant seeks to register—
+  (a) is contained within the record or records of title to which the LUC class 6 land permit relates; and
+  (b) has an area equal to, or less than, the area of land in hectares that the LUC class 6 land permit provides.
+
+### 190KW Permit not transferable to other person
+(1) Except as provided in this section, a permit is unusable if it is purported to be transferred to a person other than the person specified in the LUC class 6 land permit application.
+(2) If the person who is issued a LUC class 6 land permit dies while the permit is valid, the person to whom their estate in the LUC class 6 land is transmitted becomes the permit holder.
+(3) If an unincorporated body is issued a LUC class 6 land permit, the permit remains usable by the body while at least 60% of the members of the body are the same as when the permit was issued to the body.
+(4) In this section, a permit is usable if it may be used to register forest land in the emissions trading scheme.
+
+### 190KX Permit not transferable to other land or when land subdivided
+(1) A LUC class 6 land permit cannot be used to register forest land in the emissions trading scheme other than land specified in the application for the LUC class 6 land permit.
+(2) If land described in a record or records of title to which a LUC class 6 land permit relates is subdivided, the permit is no longer valid.
+
+**LUC class 6 land permit duration**
+
+### 190KY LUC class 6 land permit duration
+(1) The standard duration of a LUC class 6 land permit is that it is valid until the close of 31 December of the year that is 3 full years after the year in which the permit was issued.
+(2) However, a valid LUC class 6 land permit remains valid until a decision to approve or decline an ETS application to register or add land is made, if—
+  (a) the permit is valid at the time the application is made; and
+  (b) the application is full and complete; and
+  (c) the application is made within the standard duration of a LUC class 6 land permit.
+(3) This section is subject to sections 190KZ, 190KZA, and 190KZB.
+
+### 190KZ Extension of permit duration
+The EPA may accept an ETS application using a LUC class 6 land permit until the close of 31 December of the year that is 6 full years after the year in which the permit is issued if the EPA is satisfied that a temporary adverse weather event or similar circumstances materially disrupted the applicant’s ability to register forest land before the expiry date.
+
+### 190KZA Expiry of LUC class 6 land permit through use
+(1) When the EPA approves or declines either of the following that is made using a LUC class 6 land permit, the permit expires:
+  (a) an application under section 57 to be registered as a participant:
+  (b) an application under section 182C(5) to add a carbon accounting area to the post-1989 forest land in respect of which a person is recorded as a participant.
+(2) The unused or partially unused area of an expired permit is not—
+  (a) able to be used by the holder under the expired permit; or
+  (b) added to future ballots, unless regulations allow this.
+
+### 190KZB Holder of LUC class 6 land permit may cancel permit
+(1) The holder of a LUC class 6 land permit may cancel the permit by notifying the EPA in the prescribed form.
+(2) The permit is cancelled on the date that the EPA receives the notification.
+(3) If the permit holder is not the landowner of the land to which the permit relates,—
+  (a) the permit holder, when notifying the EPA, must provide the EPA with the landowner’s last known contact details; and
+  (b) the EPA must take reasonable steps to notify the landowner, using the contact details provided in accordance with paragraph (a).
+
+**EPA may report on ballots**
+
+### 190KZC EPA may report publicly about ballots
+The EPA may report publicly on processes under this subpart, including information regarding receiving and approving applications and allocating the annual hectare limit.
+
+**Review of annual hectare limit**
+
+### 190KZD Review of annual hectare limit
+(1) The Minister of Climate Change and the Minister of Agriculture, in consultation with the Minister of Forestry, may initiate a review of the annual hectare limit.
+(2) Reviews may take place in 2028, 2034, and at intervals of 5 years after 2034.
+
+### 190KZE Regulations for changing annual hectare limit
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations to change the annual hectare limit.
+(2) The Minister may recommend the making of those regulations if that Minister and the Minister of Agriculture consider that the annual hectare limit should change, after they have undertaken consultation in accordance with sections 3A(b)﻿(xviab) and 3B(1)﻿(oab) and have considered the effect on the following matters of changing the limit:
+  (a) meeting emissions budgets and national emission reduction targets:
+  (b) the proper functioning of the emissions trading scheme:
+  (c) the pace and scale of current and projected rural land use change to forestry:
+  (d) economic considerations related to land use change:
+  (e) any other matters the Ministers consider relevant.
+(3) Regulations made under this section must state which ballot the changed annual hectare limit will apply from.
+(4) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### Subpart 5 — Averaging accounting methodology
 
@@ -7771,7 +7931,7 @@ If section 27 applies to information immediately before its amendment by the ame
 (1) In this clause, an existing forestry consolidated group means a consolidated group that—
   (a) was formed in respect of an activity or activities listed in Part 1 or 1A of Schedule 3 or Part 1 of Schedule 4; and
   (b) exists immediately before the commencement of this clause.
-(2) Sections 150 and 151A do not apply to an existing forestry consolidated group (so that no members or activities may be added to the group).
+(2) Sections 151 and 151A do not apply to an existing forestry consolidated group (so that no members or activities may be added to the group).
 (3) The nominated entity of an existing forestry consolidated group—
   (a) may submit a single emissions return under section 183 in respect of 1 or more of the activities of standard forestry carried out by a member of the group in a year; and
   (b) must submit any emissions return required under a provision of Part 5 on behalf of any member of the group when the member is required to do so; and
