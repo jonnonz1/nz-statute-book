@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2026-01-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -6657,9 +6657,7 @@ No deduction
     (ii) based on Articles 2.1 to 2.3 of the global anti-base erosion model rules:
     (iii) based on Articles 2.4 to 2.6 of those model rules:
     (iv) a qualified domestic minimum top-up tax, as defined in Article 10.1.1 of those model rules:
-    (v) substantially the same as the tax that will be imposed by this Act—
-      (A) when all the provisions of the Taxation (Annual Rates for 2023–24, Multinational Tax, and Remedial Matters) Act 2024 (the amendment Act) listed in section 2(31) and (33) of the amendment Act have come into force; and
-      (B) because of the application of the modifications to Article 2.1 of the global anti-base erosion model rules made by section 123(3) of the amendment Act:
+    (v) substantially the same as multinational top-up tax payable because of the application of the modifications to Article 2.1 of the global anti-base erosion model rules set out in schedule 25B, item 1B (Items modifying global anti-base erosion model rules):
   (bb) an amount withheld under section 1471 or 1472 of the Internal Revenue Code of 1986 (USA), as amended from time to time:
   (c) ancillary tax, unless listed in subsection (2):
   (d) a civil penalty under Part 9 of the Tax Administration Act 1994:
@@ -34147,10 +34145,10 @@ For the purposes of this Part, foreign income tax—
   (a) means—
     (i) an amount of a tax of another country meeting the requirements of section YA 2(5) (Meaning of income tax varied):
     (ii) in relation to a double tax agreement providing relief from tax or double taxation, an amount of tax to which the double tax agreement applies; and
-  (b) includes an amount of a tax of another country that is a qualified domestic minimum top-up tax, as defined in Article 10.1.1 of the global anti-base erosion model rules; and
-  (c) includes an amount of a tax of another country that is of substantially the same nature as the tax that will be imposed by this Act—
-    (i) when all the provisions of the Taxation (Annual Rates for 2023–24, Multinational Tax, and Remedial Matters) Act 2024 (the amendment Act) listed in section 2(31) and (33) of the amendment Act have come into force; and
-    (ii) because of the application of the modifications to Article 2.1 of the global anti-base erosion model rules made by section 123(3) of the amendment Act; and
+  (b) includes an amount of a tax of another country that is either or both of the following:
+    (i) a qualified domestic minimum top-up tax, as defined in Article 10.1.1 of the global anti-base erosion model rules:
+    (ii) of substantially the same nature as multinational top-up tax payable because of the application of the modifications to Article 2.1 of the global anti-base erosion model rules set out in schedule 25B, item 1B (Items modifying global anti-base erosion model rules); and
+  (c)
   (d) does not include an amount of a tax of another country that is based on—
     (i) Articles 2.1 to 2.3 of the global anti-base erosion model rules; or
     (ii) Articles 2.4 to 2.6 of those model rules.
@@ -36958,6 +36956,14 @@ Table reference
 Credit date
 (3) The credit date is the day the qualifying company election tax is paid.
 
+### OB 7BB ICA payment of multinational top-up tax
+Credit
+(1) An ICA company has an imputation credit for an amount of multinational top-up tax paid under section HP 1 (Liability for multinational top-up tax) to the extent to which it was payable because of the application of the modifications to Article 2.1 of the global anti-base erosion model rules set out in schedule 25B, item 1B (Items modifying global anti-base erosion model rules).
+Table reference
+(2) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 5BB (payment of multinational top-up tax).
+Credit date
+(3) The credit date is the day the multinational top-up tax is paid.
+
 ### OB 7C ICA expenditure on research and development
 [Repealed]
 
@@ -39118,6 +39124,14 @@ Table reference
 (2) The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 6 (payment of further income tax).
 Credit date
 (3) The credit date is the day the further income tax is paid.
+
+### OP 11BA Consolidated ICA payment of multinational top-up tax
+Credit
+(1) A consolidated imputation group has an imputation credit for an amount of multinational top-up tax paid under section HP 1 (Liability for multinational top-up tax) to the extent to which it was payable because of the application of the modifications to Article 2.1 of the global anti-base erosion model rules set out in schedule 25B, item 1B (Items modifying global anti-base erosion model rules).
+Table reference
+(2) The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 6BA (multinational top-up tax paid for group tax liability).
+Credit date
+(3) The credit date is the day the multinational top-up tax is paid.
 
 ### OP 11B Consolidated ICA expenditure on research and development
 [Repealed]
