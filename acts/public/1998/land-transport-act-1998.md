@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2025-12-15_
+_Consolidation as at 2026-01-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -5071,8 +5071,8 @@ Without limiting any other method of proof, the production in proceedings of a c
   (i) prescribing, for the purposes of section 174, how the carbon dioxide emissions of an imported vehicle must be determined, which may be in accordance with a land transport rule:
   (j) prescribing targets for the level of carbon dioxide emissions from light vehicles imported annually, and matters relating to those targets, including—
     (i) separate targets for different classes of imported vehicles; and
-    (ii) targets adjusted for vehicle weights; and
-    (iii) formulas for calculating targets, including vehicle weight-adjusted targets; and
+    (ii)
+    (iii) formulas for calculating targets; and
     (iv) targets in respect of any calendar year after 2024, beginning on 1 January of the relevant calendar year:
   (k) requiring vehicle importers to include, among the vehicles they import in any given year, a minimum proportion of vehicles with zero carbon dioxide emissions:
   (l) prescribing procedures and requirements for the purposes of banking and transferring carbon dioxide credits:
@@ -5318,18 +5318,7 @@ For the purposes of this Part, a vehicle is imported into New Zealand at the poi
 **Targets for reducing carbon dioxide emissions**
 
 ### 175 Targets for reducing carbon dioxide emissions
-(1) The targets for the purposes of calculating the weight-adjusted target applicable to each vehicle importer in accordance with the regulations are,—
-  (a) for the calendar year beginning on 1 January 2023,—
-    (i) for Type A vehicles, 145 grams; and
-    (ii) for Type B vehicles, 218.3 grams; and
-  (b) for the calendar year beginning on 1 January 2024,—
-    (i) for Type A vehicles, 133.9 grams; and
-    (ii) for Type B vehicles, 201.9 grams; and
-  (c)
-  (d)
-  (e)
-  (f) for any calendar year after 2024, any target set by regulations made under section 167C(1)﻿(j)﻿(iv).
-(2) Every reference to grams in subsection (1) must be read as a reference to grams of carbon dioxide per kilometre.
+[Repealed]
 
 ### 175A Minister must review targets
 (1) The Minister must, not later than 30 June 2024, initiate a review of the targets for reducing carbon dioxide emissions set out in section 175 or prescribed in any regulations made under section 167C(1)﻿(j)﻿(iv).
@@ -5351,10 +5340,13 @@ For the purposes of this Part, a vehicle is imported into New Zealand at the poi
   (a) there are sufficient carbon dioxide credits available in the importer’s carbon dioxide account to offset the excess emissions (whether such credits may have resulted from banking overachievement under section 178 or from 1 or more transfers of carbon dioxide credits into the importer’s carbon dioxide account under section 180); or
   (b) the importer can defer their obligation under section 179.
 (2) The charges are,—
-  (a) from 1 January 2023,—
-    (i) $22.50 per gram of carbon dioxide in excess multiplied by the number of used vehicles in the fleet; and
-    (ii) $45.00 per gram of carbon dioxide in excess multiplied by the number of new vehicles in the fleet; and
-  (b) from 1 January 2025,—
+  (a) from 1 January 2025,—
+    (i) $33.75 per gram of carbon dioxide in excess multiplied by the number of used vehicles in the fleet; and
+    (ii) $67.50 per gram of carbon dioxide in excess multiplied by the number of new vehicles in the fleet; and
+  (b) from 1 January 2026,—
+    (i) $7.50 per gram of carbon dioxide in excess multiplied by the number of used vehicles in the fleet; and
+    (ii) $15.00 per gram of carbon dioxide in excess multiplied by the number of new vehicles in the fleet; and
+  (c) from 1 January 2028,—
     (i) $33.75 per gram of carbon dioxide in excess multiplied by the number of used vehicles in the fleet; and
     (ii) $67.50 per gram of carbon dioxide in excess multiplied by the number of new vehicles in the fleet.
 (3) The charges payable under this section are land transport revenue for the purposes of the Land Transport Management Act 2003.
@@ -5362,18 +5354,22 @@ For the purposes of this Part, a vehicle is imported into New Zealand at the poi
 ### 178 Category 1 light vehicle importer may bank overachievement of carbon dioxide emissions target
 (1) If the actual average vehicle carbon dioxide emissions across the fleet of vehicles imported by a category 1 light vehicle importer in an obligation year are less than the fleet target applicable to that importer, the excess reduction in emissions may be carried forward to the next obligation year (banked) in the vehicle importer’s carbon dioxide account in accordance with the regulations.
 (2) Banking provides that the vehicle importer’s carbon dioxide account for the next obligation year will be credited by the amount carried forward.
-(3) Carbon dioxide credits banked in an importer’s carbon dioxide account expire 3 years from the end of the year in which the credits accrue.
+(3) Carbon dioxide credits banked in a vehicle importer’s carbon dioxide account expire on the later of—
+  (a) the close of 31 December 2028; and
+  (b) 4 years from the end of the year in which the credits accrue.
 
 ### 179 Category 1 light vehicle importer may defer obligation
-(1) This section applies in relation to obligation years 2023, 2024, and 2025.
+(1)
 (2) A category 1 light vehicle importer may apply to the Director, in accordance with the regulations, to defer their obligation to meet the category 1 light vehicle importer fleet target for an applicable obligation year (year 1) until the following obligation year (year 2).
 (3) If a category 1 light vehicle importer defers their year 1 obligation until year 2, the importer must, at the end of year 2, ensure that they have met or bettered both the year 1 and the year 2 fleet targets.
 (4) If the vehicle importer does not meet the year 1 and year 2 fleet targets, the charges in section 177 apply.
 
 ### 180 Category 1 light vehicle importer may transfer carbon dioxide credits
-((1)) A category 1 light vehicle importer who imports new vehicles may transfer carbon dioxide credits in their carbon dioxide account to the carbon dioxide account of another light vehicle importer who imports new vehicles, in accordance with the regulations.
-(2) A category 1 light vehicle importer who imports used vehicles may transfer carbon dioxide credits in their carbon dioxide account to the carbon dioxide account of another light vehicle importer who imports used vehicles, in accordance with the regulations.
-(3) No transfer may be made under subsection (1) or (2) between a carbon dioxide account relating to new vehicles and a carbon dioxide account relating to used vehicles.
+((1)) A category 1 light vehicle importer who imports new vehicles may transfer carbon dioxide credits in their carbon dioxide account to the carbon dioxide account of a light vehicle importer who imports new vehicles or a light vehicle importer who imports used vehicles, in accordance with the regulations.
+(2) A category 1 light vehicle importer who imports used vehicles may transfer carbon dioxide credits in their carbon dioxide account to the carbon dioxide account of a light vehicle importer who imports new vehicles or a light vehicle importer who imports used vehicles, in accordance with the regulations.
+(3) If a transfer under subsection (1) or (2) involves a transfer between a carbon dioxide account relating to new vehicles and a carbon dioxide account relating to used vehicles, the transfer must be calculated as follows:
+  (a) each credit transferred from a carbon dioxide account relating to new vehicles is receipted into a carbon dioxide account relating to used vehicles as 2 credits:
+  (b) each set of 2 credits transferred from a carbon dioxide account relating to used vehicles is receipted into a carbon dioxide account relating to new vehicles as 1 credit.
 
 **Category 2 light vehicle importers: obligations and ways of complying with targets**
 
@@ -5384,10 +5380,13 @@ For the purposes of this Part, a vehicle is imported into New Zealand at the poi
 ### 182 Charges payable by category 2 light vehicle importer if emissions targets exceeded
 (1) If the carbon dioxide emissions of a vehicle imported by a category 2 light vehicle importer exceed the category 2 light vehicle importer target, the charges set out in subsection (2) apply unless there are sufficient credits available in the importer’s carbon dioxide account (whether such credits may have resulted from banking overachievement under section 183 or from 1 or more transfers into the importer’s account under section 184) to offset the excess emissions.
 (2) The charges are,—
-  (a) from 1 January 2023,—
-    (i) $18.00 per gram of carbon dioxide by which a used vehicle exceeds its target; and
-    (ii) $36.00 per gram of carbon dioxide by which a new imported vehicle exceeds its target; and
-  (b) from 1 January 2025,—
+  (a) from 1 January 2025,—
+    (i) $27.00 per gram of carbon dioxide by which a used vehicle exceeds its target; and
+    (ii) $54.00 per gram of carbon dioxide by which a new vehicle exceeds its target; and
+  (b) from 1 January 2026,—
+    (i) $6.00 per gram of carbon dioxide by which a used vehicle exceeds its target; and
+    (ii) $12.00 per gram of carbon dioxide by which a new vehicle exceeds its target; and
+  (c) from 1 January 2028,—
     (i) $27.00 per gram of carbon dioxide by which a used vehicle exceeds its target; and
     (ii) $54.00 per gram of carbon dioxide by which a new vehicle exceeds its target.
 (3) The charges payable under this section are land transport revenue for the purposes of the Land Transport Management Act 2003.
@@ -5397,9 +5396,11 @@ For the purposes of this Part, a vehicle is imported into New Zealand at the poi
 (2) Section 178(3) applies to any credits banked under this section.
 
 ### 184 Category 2 light vehicle importer may transfer carbon dioxide credits
-((1)) A category 2 light vehicle importer who imports new vehicles may transfer carbon dioxide credits in their carbon dioxide account to the carbon dioxide account of another light vehicle importer who imports new vehicles, in accordance with the regulations.
-(2) A category 2 light vehicle importer who imports used vehicles may transfer carbon dioxide credits in their carbon dioxide account to the carbon dioxide account of another light vehicle importer who imports used vehicles, in accordance with the regulations.
-(3) No transfer may be made under subsection (1) or (2) between a carbon dioxide account relating to new vehicles and a carbon dioxide account relating to used vehicles.
+((1)) A category 2 light vehicle importer who imports new vehicles may transfer carbon dioxide credits in their carbon dioxide account to the carbon dioxide account of a light vehicle importer who imports new vehicles or a light vehicle importer who imports used vehicles, in accordance with the regulations.
+(2) A category 2 light vehicle importer who imports used vehicles may transfer carbon dioxide credits in their carbon dioxide account to the carbon dioxide account of a light vehicle importer who imports new vehicles or a light vehicle importer who imports used vehicles, in accordance with the regulations.
+(3) If a transfer under subsection (1) or (2) involves a transfer between a carbon dioxide account relating to new vehicles and a carbon dioxide account relating to used vehicles, the transfer must be calculated as follows:
+  (a) each credit transferred from a carbon dioxide account relating to new vehicles is receipted into a carbon dioxide account relating to used vehicles as 2 credits:
+  (b) each set of 2 credits transferred from a carbon dioxide account relating to used vehicles is receipted into a carbon dioxide account relating to new vehicles as 1 credit.
 
 **Carbon dioxide accounts: general provisions**
 
@@ -6827,6 +6828,14 @@ Section 52A(4), as amended by the Land Transport (Road Safety) Amendment Act 202
 (4) The Minister must, within 60 working days of the day on which the reviewer reports to the Minister under subclause (3), present to the House of Representatives—
   (a) the report; and
   (b) a response to the report.
+
+### Part 10 — Provisions relating to Land Transport (Clean Vehicle Standard) Amendment Act 2025
+
+### 30 Interpretation
+In this Part, amendment Act means the Land Transport (Clean Vehicle Standard) Amendment Act 2025.
+
+### 31 Transitional arrangement for carbon dioxide credits banked in vehicle importer’s carbon dioxide account
+Section 178(3) as amended by the amendment Act, and section 183(2) as it has effect following that amendment, apply to credits banked in a vehicle importer’s carbon dioxide account regardless of whether the credits are banked before or after the amendment Act comes into force.
 
 ## Schedule 1 — Provisions concerning Land Transport Safety Authority of New Zealand
 
