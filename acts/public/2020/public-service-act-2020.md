@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2026-01-01_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
@@ -1196,12 +1196,6 @@ The amendments to the State Sector (Ministry for Primary Industries) Order 2012 
 
 | Interdepartmental executive board |  | Departments in board’s remit (see section 26(2)﻿(b)) | Servicing department |
 | --- | --- | --- | --- |
-| Border Executive Board |  | Ministry of Business, Innovation, and Employment | New Zealand Customs Service |
-|  |  | Ministry of Foreign Affairs and Trade |  |
-|  |  | Ministry of Health |  |
-|  |  | Ministry for Primary Industries |  |
-|  |  | Ministry of Transport |  |
-|  |  | New Zealand Customs Service |  |
 | Climate Change Chief Executives Board |  | Department of Conservation | Ministry for the Environment |
 |  | Department of Internal Affairs |  |  |
 |  | Ministry of Business, Innovation, and Employment |  |  |
