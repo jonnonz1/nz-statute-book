@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2025-12-20_
+_Consolidation as at 2026-01-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -992,6 +992,9 @@ Subject to the provisions of this Act, the following persons, and no others, sha
   (d) shall be accompanied by a declaration made by the secretary of the party in the manner provided by section 9 of the Oaths and Declarations Act 1957, which declaration shall—
     (i) state whether the party is a party in respect of which there are 1 or more component parties; and
     (ii) where the party has 1 or more component parties, state the name of each component party; and
+  (da) must be accompanied by a copy of—
+    (i) the rules governing membership of the party; and
+    (ii) the rules governing the selection of persons to represent the party as candidates for election as members of Parliament; and
   (e) must be accompanied by the application fee payable under section 63A.
 (3) Upon receipt of an application for the registration of a political party, the Electoral Commission shall deal with the application in accordance with this Part and determine whether the party can be registered.
 (4) Notwithstanding subsection (3), the Electoral Commission shall not be obliged to deal with any application for registration if it receives notice in writing withdrawing the application from a person entitled to apply for the registration of that party and the Electoral Commission is satisfied that the application is made by that person on behalf of the party.
@@ -1002,10 +1005,9 @@ Subject to the provisions of this Act, the following persons, and no others, sha
 (2) The fee must be paid by direct credit to a bank account nominated by the Electoral Commission.
 
 ### 64 Times when registration prohibited
-(1) At no time in the period that, in relation to a general election,—shall action be taken in relation to any application for the registration of a political party.
-  (a) commences on the date beginning with the issue of the writ for the election of members of Parliament for all electoral districts within New Zealand; and
-  (b) ends with the day appointed as the latest day for the return of the writ containing the names of constituency candidates who are elected,—
-(2)
+No action may be taken in relation to an application for the registration of a political party during the period that—
+  (a) begins with the commencement of the regulated period for a general election; and
+  (b) ends with the close of the latest day for the return of the writ for that general election.
 
 ### 65 Parties with certain names not to be registered
 The Electoral Commission shall refuse an application for the registration of a political party if, in its opinion, the name of the party or any proposed abbreviation—
@@ -1100,14 +1102,16 @@ The secretary of any political party registered under this Act must ensure that 
     (iii) both; and
   (b) state whether the party has at least 500 current financial members who are eligible to enrol as electors.
 
-### 71B Obligation to provide copy of party membership rules and candidate selection rules
-(1) The secretary of any political party registered under this Act must supply the Electoral Commission with the following:
-  (a) a copy of the rules governing membership of the party:
-  (b) a copy of the rules governing the selection of persons to represent that party as candidates for election as members of Parliament:
-  (c) a copy of any changes to the rules referred to in paragraph (a) or paragraph (b).
-(2) The copies required by subsection (1)﻿(a) and (b) must be supplied within 1 month after notice of the registration of the party is notified in the Gazette in accordance with section 67(1)﻿(c).
-(3) The copies required by subsection (1)﻿(c) must be supplied within 1 month after the date on which the changes to the rules are adopted by the party.
-(4) Members of the public are entitled to inspect the documents supplied to the Electoral Commission under this section. They may inspect them, without payment, at any time between 9 am and 5 pm on any day on which the office of the Electoral Commission is open.
+### 71B Obligation to provide copy of changes to party membership rules and candidate selection rules
+(1) The secretary of a political party registered under this Act must supply the Electoral Commission with a copy of any changes to the rules governing—
+  (a) the membership of the party:
+  (b) the selection of persons to represent that party as candidates for election as members of Parliament.
+(2) Copies of any changes must be supplied within 1 month after the date on which the changes to the rules are adopted by the party.
+
+### 71BA Inspection of party rules
+Members of the public are entitled to inspect the following without payment at any time between 9 am and 5 pm on any day on which the office of the Electoral Commission is open:
+  (a) copies of the rules referred to in section 63(2)﻿(da) accompanying a political party’s application for registration; and
+  (b) copies of any changes to those rules supplied by the secretary of a political party to the Electoral Commission under section 71B.
 
 ### Subpart 2 — Registration of party logos
 
@@ -1151,13 +1155,13 @@ The secretary of any political party registered under this Act must ensure that 
   (b) the reasons for the refusal.
 
 ### 71E Times when registration of party logos prohibited
-No action may be taken in relation to any application made under section 71C during the period that,—
+No action may be taken in relation to an application for the registration of a party logo during the period that,—
   (a) in relation to a general election,—
-    (i) commences on the date beginning with the issue of the writ for the election of members of Parliament for all electoral districts within New Zealand; and
-    (ii) ends with the day appointed as the latest day for the return of the writ containing the names of constituency candidates who are elected; and
+    (i) begins with the commencement of the regulated period for a general election; and
+    (ii) ends with the close of the latest day for the return of the writ for that general election:
   (b) in relation to a by-election,—
-    (i) commences on the date beginning with the issue of the writ for the by-election; and
-    (ii) ends with the day appointed as the latest day for the return of the writ for the by-election.
+    (i) begins with the commencement of the regulated period for the by-election; and
+    (ii) ends with the close of the latest day for the return of the writ for the by-election.
 
 ### 71F Registration of party logos
 If, on receipt of an application under section 71C, the Electoral Commission determines to register the logo of a political party, the Electoral Commission must—
@@ -3744,10 +3748,12 @@ In this Part, unless the context otherwise requires,—
     (b) in relation to a body corporate or unincorporated,—
       (i) the full street address of the body's principal place of business; or
       (ii) the full street address of the body's head office
-  - **contact details** for a person means that person's—
-    (a) address; and
-    (b) telephone numbers; and
-    (c) email address (if any)
+  - **contact details** , in relation to a person, means 1 or more of the following:
+    (a) the person’s address:
+    (b) the person’s email address:
+    (c) the person’s post office box number:
+    (d) the person’s phone number:
+    (e) a link to a page on an internet site that contains 1 or more of the person’s contact details specified in paragraphs (a) to (d)
   - **election advertisement** has the meaning given to it by section 3A
   - **promoter** means a person who initiates or instigates an election advertisement that—
     (a) is published; or
@@ -3801,8 +3807,8 @@ In this Part, unless the context otherwise requires,—
 
 ### 204F Election advertisement to include promoter statement
 (1) A person may publish or cause or permit to be published an election advertisement only if the advertisement includes a promoter statement.
-(2) A promoter statement referred to in subsection (1) must state the name and address of the promoter of the election advertisement.
-(3) If the promoter is a registered promoter, the name and address of the promoter stated in the promoter statement must be the same name and address of the promoter that appear in the register.
+(2) A promoter statement referred to in subsection (1) must state the name and contact details of the promoter of the election advertisement.
+(3) If the promoter is a registered promoter, the name of the promoter stated in the promoter statement must be the same name of the promoter that appears in the register.
 (4) If the promoter is an unregistered promoter and is a body corporate or unincorporated, the promoter statement must also include the name of a member of the body who is the duly authorised representative of the promoter.
 (5) If the election advertisement is published in a visual form, the promoter statement must be clearly displayed in the advertisement.
 (6) If the election advertisement is published only in an audible form, the promoter statement when published must be no less audible than the other content of the advertisement.
@@ -3853,7 +3859,7 @@ A promoter (including a corporation sole, a body corporate, and an unincorporate
   (b) if the promoter is a company, by a person who is duly authorised by the board of directors to make the application; or
   (c) if the promoter is not an individual or a company, by the promoter's representative who is duly authorised by the promoter to make the application.
 (2) An application to be a registered promoter must be made in the form required by the Electoral Commission and set out—
-  (a) the name and contact details of—
+  (a) the name, address, phone numbers, and email address (if any) of—
     (i) the promoter; and
     (ii) the person described in subsection (1)﻿(b) or (c) who made the application, if the promoter is not an individual; and
   (b) the names of the persons occupying a position in the body that is comparable with that of a director of a company, if the promoter is not an individual or a company; and
@@ -3876,7 +3882,7 @@ The Electoral Commission must refuse an application by a promoter to be register
   (a) refuse the application; and
   (b) notify the person who made the application of the refusal and the reasons.
 
-### 204O Obligation to notify Electoral Commission of change in contact details
+### 204O Obligation to notify Electoral Commission of change in registration details
 A registered promoter must give written notice to the Electoral Commission of any change in the information provided under section 204L(2) within 10 working days after the change.
 
 ### 204P Cancellation of registration
@@ -4703,8 +4709,8 @@ During the public inspection period, the Electoral Commission must ensure that e
 
 ### 210 Annual return of party donations
 (1) A party secretary must file with the Electoral Commission, for each year, a return of party donations setting out—
-  (a) the details specified in subsection (2) for every party donation (other than a donation of the kind referred to in paragraphs (c) to (e)) received by him or her that, either on its own or when aggregated with all other donations made by or on behalf of the same donor during the year, exceeds $5,000 in sum or value; and
-  (b) whether section 207C applies to any donation and, if so, and to the extent known or ascertainable from the information supplied under that section, the details specified in subsection (3) in respect of every contribution received from a New Zealand person that, either on its own or when aggregated with other contributions made by or on behalf of the same contributor to the donation, or to other donations during the year, exceeds $5,000 in sum or value; and
+  (a) the details specified in subsection (2) for every party donation (other than a donation of the kind referred to in paragraphs (c) to (e)) received by him or her that, either on its own or when aggregated with all other donations made by or on behalf of the same donor during the year, exceeds $6,000 in sum or value; and
+  (b) whether section 207C applies to any donation and, if so, and to the extent known or ascertainable from the information supplied under that section, the details specified in subsection (3) in respect of every contribution received from a New Zealand person that, either on its own or when aggregated with other contributions made by or on behalf of the same contributor to the donation, or to other donations during the year, exceeds $6,000 in sum or value; and
   (c) the details specified in subsection (4) in respect of every anonymous party donation received by him or her—
     (i) exceeding $50, in any case where the party secretary believes or has reasonable grounds to suspect the donor is an overseas person; or
     (ii) exceeding $1,500, in any other case; and
@@ -4749,7 +4755,7 @@ During the public inspection period, the Electoral Commission must ensure that e
   (b) in respect of all other party donations received of an amount not exceeding $1,500,—
     (i) the number of donations; and
     (ii) the total amount of the donations; and
-  (c) in respect of party donations received of an amount exceeding $1,500 but not exceeding $5,000,—
+  (c) in respect of party donations received of an amount exceeding $1,500 but not exceeding $6,000,—
     (i) the number of donations; and
     (ii) the total amount of the donations.
 (6B) A return must also set out—
@@ -4823,7 +4829,7 @@ If a party secretary considers that there is no relevant information to disclose
   (d) the amounts of all previous donations; and
   (e) the date the donation was received; and
   (f) the dates all previous donations were received.
-(6) A return must be filed under subsection (1)﻿(a) or (b) within 10 working days of the donation being received by the party secretary.
+(6) A return must be filed under subsection (1)﻿(a) or (b) within 20 working days of the donation being received by the party secretary.
 (7) In this section, give public notice means issue a media statement.
 
 ### 210D Offences relating to return of party donations
@@ -5232,14 +5238,16 @@ Where any person knowingly provides money for any purpose which is contrary to t
 ### 221A Electoral advertisements
 (1) A person must not publish or cause or permit to be published in any medium, or broadcast or cause or permit to be broadcast in any medium, any advertisement relating to an election (not being an election advertisement as defined in section 3A) unless the advertisement includes a statement specifying—
   (a) the true name of the person for whom or at whose direction it is published or broadcast; and
-  (b) the address of that person’s place of residence or business.
+  (b) the contact details of that person.
 (2) Subsection (1) does not apply to any advertisement published or broadcast, or caused or permitted to be published or broadcast, in any medium, by the Electoral Commission, or any other agency charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand and relating to electoral matters or the conduct of any general election or by-election and which either contains a statement indicating that the advertisement has been authorised by that officer or agency, or contains a symbol indicating that the advertisement has been authorised by that officer or agency.
 (3) Every person is guilty of an illegal practice who wilfully contravenes any provision of subsection (1).
 (4) Nothing in this section—
   (a) restricts the publication or broadcast in any medium of any news or comments relating to an election made in a newspaper or periodical or by a broadcaster (as that term is defined in section 2(1) of the Broadcasting Act 1989); or
   (b) applies to the editorial content of a publication on a news media Internet site; or
   (c) applies to any publication on the Internet, or other electronic medium, of personal political views by an individual who does not make or receive a payment in respect of the publication of those views.
-(5) In this section, medium includes the Internet or any other electronic medium.
+(5) In this section,—
+  - **contact details** , in relation to a person, has the meaning given in section 204A
+  - **medium** includes the internet or any other electronic medium.
 
 ### 221B Display of advertisement of a specified kind
 (1) During the period beginning 9 weeks before polling day and ending with the close of the day before polling day, the display of an advertisement of a specified kind is not subject to—
