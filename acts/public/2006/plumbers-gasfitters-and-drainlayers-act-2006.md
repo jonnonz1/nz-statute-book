@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2025-10-25_
+_Consolidation as at 2026-01-01_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -1943,12 +1943,10 @@ The Minister must present a copy of the annual report given to him or her under 
 (4) An output agreement need not be legally enforceable as an agreement, but may allow the Minister to act under section 136.
 (5) An output agreement must be in writing, be dated, and be signed by, or on behalf of, the Minister and the Board.
 
-### 157 Minister may require output agreement to include matters relating to Board’s relationship with industry skills board or workforce development council
-(1) The Minister may require the output agreement referred to in section 156 to include matters relating to the Board’s relationship with any industry skills board or workforce development council (as applicable).
-(2) The purpose of the matters referred to in subsection (1) is to assist the Board and the industry skills board or workforce development council to clarify, align, and manage their respective expectations and responsibilities in relation to their respective functions and powers.
-(3) In this section,—
-  - **industry skills board** means an industry skills board established under section 362 of the Education and Training Act 2020
-  - **workforce development council** means a workforce development council continued for the time being under clause 170 of Schedule 1 of the Education and Training Act 2020.
+### 157 Minister may require output agreement to include matters relating to Board’s relationship with industry skills board
+(1) The Minister may require the output agreement referred to in section 156 to include matters relating to the Board’s relationship with any industry skills board.
+(2) The purpose of the matters referred to in subsection (1) is to assist the Board and the industry skills board to clarify, align, and manage their respective expectations and responsibilities in relation to their respective functions and powers.
+(3) In this section, industry skills board means an industry skills board established under section 362 of the Education and Training Act 2020.
 
 ### 158 Annual financial statements and statement of responsibility
 (1) The Board must ensure that, within 3 months after the end of the financial year, financial statements that comply with generally accepted accounting practice are—
