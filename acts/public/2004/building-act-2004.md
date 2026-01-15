@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2026-01-15_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -569,7 +569,8 @@ Under this Act, the chief executive—
   (a) performs the functions of a building consent authority set out in subsection (1)﻿(a) (including the issue of building consents subject to a waiver or modification of the building code) if—
     (i) the territorial authority is also a building consent authority; and
     (ii) an owner applies to the territorial authority for a building consent; and
-  (b) issues project information memoranda; and
+  (b) issues project information memoranda (including memoranda in relation to non-consented small stand-alone dwellings); and
+  (ba) issues documents under section 35A; and
   (c) grants exemptions under clause 2 of Schedule 1; and
   (d) grants waivers and modifications of the building code; and
   (e) issues certificates of acceptance; and
@@ -972,17 +973,23 @@ If the chief executive is not satisfied of the matters in section 30F, the chief
   (b) a project information memorandum has been issued before the application for a building consent is made.
 
 ### 32 Owner may apply for project information memorandum
-An owner may apply to a territorial authority for a project information memorandum for building work if—
+(1) An owner may apply to a territorial authority for a project information memorandum for building work if—
   (a) the owner is considering carrying out building work; and
-  (b) a building consent is required for that work.
+  (b) either—
+    (i) building consent is required for that work; or
+    (ii) the building work is in connection with a non-consented small stand-alone dwelling.
+(2) No building work may begin on the building of a non-consented small stand-alone dwelling before a project information memorandum for that dwelling in relation to its final site has been issued under section 34 by the relevant territorial authority.
 
 ### 33 Content of application
-(1) An application for a project information memorandum must be in the prescribed form and be accompanied by—
+(1) An application for a project information memorandum must be in the appropriate prescribed form and be accompanied by—
   (a) any fees and charges imposed by the territorial authority under section 219; and
   (b) any information that the territorial authority reasonably requires in relation to authorisations or requirements (if any) that—
     (i) the territorial authority is authorised to refuse or impose under any Act (except this Act); and
     (ii) are likely to be relevant to the design and construction of the proposed building; and
   (c) any other information that the territorial authority (acting as agent for a network utility operator by prior agreement with that network utility operator) requires in respect of proposed connections to public utilities from the proposed building work.
+(1A) In the case of a project information memorandum for building work in connection with a non-consented small stand-alone dwelling, the application must, in addition to complying with subsection (1), contain the following information:
+  (a) a description of the proposed building work; and
+  (b) preliminary design plans for the proposed building work.
 (2) The territorial authority may not make a requirement under subsection (1)﻿(b) if more than 10 working days have elapsed since the date on which the territorial authority received the application.
 (3) For the purposes of subsection (1)﻿(b), the authorisations and requirements referred to in that subsection include, without limitation, authorisations and requirements in respect of—
   (a) the intended use of the proposed building; and
@@ -994,15 +1001,23 @@ An owner may apply to a territorial authority for a project information memorand
   (d) precautions to be taken if building work is carried out over any existing drains or sewers or in close proximity to wells or water mains.
 
 ### 34 Issue of project information memorandum
-(1) A territorial authority must issue a project information memorandum within 20 working days after receiving an application under section 31(1)﻿(a) or section 32.
-(2) However, if the territorial authority requires any information under section 33(1)﻿(b) or (c), the period specified in subsection (1) is suspended until it receives the information.
+(1) A territorial authority must issue a project information memorandum—
+  (a) within 10 working days after receiving an application in relation to a non-consented small stand-alone dwelling; or
+  (b) in any other case, within 20 working days after receiving an application under section 31(1)﻿(a) or 32.
+(2) However, if the territorial authority requires any information under section 33(1)﻿(b) or (c), the relevant period specified in subsection (1) is suspended until it receives the information.
 (3) The territorial authority must issue the project information memorandum within 10 working days after receiving that information.
-(4) A territorial authority may, within the period specified in subsection (1) or, if applicable, in subsection (3), reissue a project information memorandum if the territorial authority—
+(4) A territorial authority may, within the relevant period specified in subsection (1) or, if applicable, in subsection (3), reissue a project information memorandum if the territorial authority—
   (a) considers, on reasonable grounds, that the project information memorandum contains an error or omission; or
   (b) receives information that affects the project information memorandum.
+(5) If a project information memorandum is issued for building work in connection with a non-consented small stand-alone dwelling on a particular site (the final site), no further project information memorandum is required just because the place where the dwelling is constructed is in a different location from the dwelling’s final site (for example, a dwelling that is constructed in a factory and then transported to the final site).
+
+### 34A Lapse of project information memorandum for non-consented small stand-alone dwelling
+A project information memorandum for building work in connection with a non-consented small stand-alone dwelling lapses and is of no effect if the building work to which it relates has not been completed within—
+  (a) 2 years after the date of issue of the project information memorandum; or
+  (b) any further period that the territorial authority may allow.
 
 ### 35 Content of project information memorandum
-(1AA) A project information memorandum must be issued in the prescribed form (if any).
+(1AA) A project information memorandum must be issued in the appropriate prescribed form (if any) for building work in connection with a non-consented small stand-alone dwelling, or in a different prescribed form (if any), in the case of other proposed building work.
 (1) A project information memorandum must include—
   (a) information likely to be relevant to the proposed building work that identifies—
     (i) the heritage status of the building (if any); and
@@ -1016,7 +1031,7 @@ An owner may apply to a territorial authority for a project information memorand
     (ii) the conditions to which an authorisation will be subject; and
   (e) if the territorial authority considers that the owner of the building or proposed building to which the project information memorandum relates is likely to be required, under section 76 of the Fire and Emergency New Zealand Act 2017, to make provision for a scheme that provides for evacuation from the scene of a fire, a statement to that effect; and
   (f) if the territorial authority considers that notification to Heritage New Zealand Pouhere Taonga is likely to be required under section 39, a statement to that effect; and
-  (g) either—
+  (g) unless the memorandum relates to a non-consented small stand-alone dwelling, either—
     (i) confirmation, subject to this Act, that building work may be carried out subject to the requirements of a building consent and subject also to all other necessary authorisations being obtained; or
     (ii) notification that building work may not be carried out because any necessary authorisation has been refused, despite the issue of any building consent; and
   (h) if section 75 applies, the statement referred to in section 75(2); and
@@ -1032,9 +1047,27 @@ An owner may apply to a territorial authority for a project information memorand
     (b) is known to the territorial authority; and
     (c) is not apparent from the district plan under the Resource Management Act 1991.
 
+### 35A Additional information to be supplied in certain circumstances
+(1) This section applies if a project information memorandum is issued by a territorial authority for building work in connection with a non-consented small stand-alone dwelling.
+(2) The memorandum must be accompanied by an attached document, in the prescribed form, containing—
+  (a) a statement indicating whether—
+    (i) the proposed building work is likely or unlikely to satisfy the characteristics of clause 1 of Schedule 1A; or
+    (ii) it is unclear if the proposed building work is likely to satisfy those characteristics; and
+  (b) a statement indicating whether the territorial authority considers that the construction of the dwelling—
+    (i) is proposed to occur on land that is, or is likely to be, subject to 1 or more natural hazards (within the meaning of section 71(3)) or that it is unclear whether that is likely to be the case; or
+    (ii) is likely to accelerate, worsen, or result in a natural hazard on that land or any other property, or that it is unclear whether that effect is likely to occur; and
+  (c) if the territorial authority advises under paragraph (b) that there is or is likely to be a natural hazard present on the relevant land, or that the construction of the dwelling is likely to accelerate, worsen, or result in a natural hazard on the land or any other property,—
+    (i) a statement as to whether section 71(2) would apply if Schedule 1A did not apply; and
+    (ii) if a statement is made under subparagraph (i) that section 71(2) would not apply if Schedule 1A did not apply, a statement that a building consent may be required, or that the preliminary design plans may need to be amended to adequately protect the land, building work, or other property from the natural hazard; and
+  (d) a description of any bylaws that may affect the design, construction, or location of the non-consented small stand-alone dwelling (for example, bylaws relating to wastewater or stormwater pipes).
+(3) The document may contain any other information concerning the land that the territorial authority considers, at its discretion, to be relevant (including relevant information in the district plan and regional plan).
+
 ### 36 Territorial authority may issue development contribution notice
 (1) This section applies if a territorial authority considers that a development contribution under the Local Government Act 2002 is payable by the owner.
 (2) The territorial authority must issue a notice, in the prescribed form, to the effect that a code compliance certificate for the building work will not be issued unless the development contribution is paid (development contribution notice).
+(2A) Subsection (2) does not apply in the case of a project information memorandum for building work in connection with a non-consented small stand-alone dwelling, but if an application is made for a project information memorandum for building work in connection with a small stand-alone dwelling of that kind and the territorial authority considers that a development contribution under the Local Government Act 2002 is payable by the owner, the territorial authority must issue a development contribution notice—
+  (a) in the prescribed form; and
+  (b) stating that the development contribution is required to be paid by the owner within 20 working days after the completion of the building work (as described in section 42B(6)).
 (3) The development contribution notice must be—
   (a) attached to the project information memorandum; or
   (b) if no project information memorandum has been applied for, provided to the building consent authority.
@@ -1049,6 +1082,7 @@ An owner may apply to a territorial authority for a project information memorand
 (3) The certificate must be—
   (a) attached to the project information memorandum; or
   (b) if no project information memorandum has been applied for, provided to the building consent authority.
+(4) This section does not apply in respect of building work in connection with a non-consented small stand-alone dwelling.
 
 ### 38 Territorial authority must give copy of project information memorandum in certain circumstances
 If a project information memorandum contains information previously supplied to a territorial authority by a network utility operator or a statutory authority, the territorial authority must give a copy of the project information memorandum to that operator or that authority.
@@ -1069,7 +1103,7 @@ If a project information memorandum contains information previously supplied to 
 ### 41 Building consent not required in certain cases
 (1) Despite section 40, a building consent is not required in relation to—
   (a) a Crown building or Crown building work to which, under section 6, this Act does not apply; or
-  (b) any building work described in Schedule 1 for which a building consent is not required (see section 42A); or
+  (b) any building work described in Schedule 1 or Schedule 1A for which a building consent is not required (see sections 42A and 42B); or
   (c) any building work in respect of which a building consent cannot practicably be obtained in advance because the building work has to be carried out urgently—
     (i) for the purpose of saving or protecting life or health or preventing serious damage to property; or
     (ii) in order to ensure that a specified system in a building that is covered by a compliance schedule, or would be covered if a compliance schedule were issued in respect of the building, is maintained in a safe condition or is made safe; or
@@ -1086,6 +1120,7 @@ If a project information memorandum contains information previously supplied to 
   (aa) removing any building work or class of building work from Schedule 1 as being building work for which a building consent is not required:
   (b) extending or clarifying the scope of any building work or class of building work listed in Schedule 1 as building work for which a building consent is not required:
   (c) restating, for the purpose of clarity, any building work or class of building work listed in Schedule 1.
+(2A) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 1A by adding to, removing, or amending any requirements for a small stand-alone dwelling or other provisions in clauses 2 and 3 of Schedule 1A.
 (3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 42 Owner must apply for certificate of acceptance if building work carried out urgently
@@ -1110,6 +1145,30 @@ If a project information memorandum contains information previously supplied to 
   (c) the building work does not breach any other enactment:
   (d) the building to which the building work relates is not a hazardous substance location that is required to be authorised under the Health and Safety at Work Act 2015 or any regulations made under that Act.
 (3) In subsection (1)﻿(b), authorised person means a person who is authorised under the Plumbers, Gasfitters, and Drainlayers Act 2006 to do the work, except for a person who is authorised under section 15, 16, 19, or 25 of that Act.
+
+### 42B Building work for which building consent is not required under Schedule 1A
+(1) Despite section 40, a building consent is not required for building work specified in Schedule 1A, subject to the conditions set out in subsection (3) and whether or not a building consent would otherwise have been required.
+(2) Despite subsection (1), an owner who wishes to obtain a building consent for the work described in clause 1 of Schedule 1A, which defines a small stand-alone dwelling, and the other work described in that schedule, may apply for a building consent for that work, and in that case this Act applies as if the work required a building consent.
+(3) The exemption created by subsection (1) is subject to the following conditions:
+  (a) the building work complies with the building code to the extent required by this Act:
+  (b) all building work (including all design work described in paragraph (b) of the definition of restricted building work in section 7(1)), sanitary plumbing, drainlaying, electrical work, or gasfitting is carried out in accordance with the requirements of this Act and, where applicable, the Plumbers, Gasfitters, and Drainlayers Act 2006, the Electricity Act 1992, or the Gas Act 1992, by a person who is authorised to do the work:
+  (c) no building work on a non-consented small stand-alone dwelling may be carried out before a project information memorandum for that dwelling in relation to its final site has been issued under section 34 by the relevant territorial authority and building work may continue only until the project information memorandum lapses:
+  (d) the building work is carried out on land that is not subject to a natural hazard (as advised by the relevant territorial authority) or, where a natural hazard (within the meaning of section 71(3)) is present or is likely to be present on the relevant land or construction of the dwelling is likely to accelerate, worsen, or result in a natural hazard on the land or any other property, building work is not carried out unless adequate provision has been made to protect the land, building work, or other property from the natural hazard:
+  (e) the small stand-alone dwelling is not constructed over a boundary on land that comprises or partly comprises 2 or more allotments of 1 or more existing subdivisions (whether comprised in the same record of title or not).
+(4) The owner of a non-consented small stand-alone dwelling must send to the territorial authority that issued the relevant project information memorandum, within 20 working days after completion of the building work (as defined in subsection (6)),—
+  (a) the records of work and other documents described in subsection (6)﻿(a) to (d):
+  (b) a set of final design plans for building, sanitary plumbing, and drainlaying work and the certificate of work required by section 45AA.
+(5) A person who contravenes subsection (4) commits an infringement offence and is liable to a fine not exceeding $1,000.
+(6) For the purposes of this Act, building work in connection with a non-consented small stand-alone dwelling is complete when the owner of the building has received from the relevant designers, builders, plumbers, drainlayers, electricians, and gasfitters—
+  (a) the records of work required under section 88 for restricted building work:
+  (b) the records of work required under section 27A of the Plumbers, Gasfitters, and Drainlayers Act 2006 for prescribed sanitary plumbing and drainlaying:
+  (c) all certificates of compliance and electrical safety certificates required under the Electricity Act 1992 or the Electricity (Safety) Regulations 2010 for electrical work or any corresponding document under subsequent legislation that amends or replaces that Act or those regulations:
+  (d) all certificates of compliance and gas safety certificates required under the Gas Act 1992 or the Gas (Safety and Measurement) Regulations 2010 for gasfitting work or any corresponding document under subsequent legislation that amends or replaces that Act or those regulations.
+(7) To avoid doubt, building work, sanitary plumbing, and drainlaying undertaken in connection with a non-consented small stand-alone dwelling must comply with applicable requirements under other legislation or documents under that legislation (for example, the New Zealand Electrical Code of Practice for Electrical Safe Distances (NZECP 34:2001)), unless the context otherwise requires.
+
+### 42C Purpose of section 42B(4)
+(1) The purpose of section 42B(4) is to ensure that the owner and future owners of a non-consented small stand-alone dwelling know who carried out the building work, sanitary plumbing, drainlaying, electrical, and gasfitting work, as applicable, and have access to information or knowledge about the ongoing maintenance requirements of the building.
+(2) Section 42B(4) does not place a territorial authority under any duty or obligation to assess or inquire into any information supplied to it under that provision.
 
 ### 43 Building consent not required for energy work
 (1) Energy work does not require a building consent.
@@ -1167,6 +1226,17 @@ If a project information memorandum contains information previously supplied to 
 (5) The application must be accompanied by a statutory declaration, in the prescribed form, as to owner-builder status—
   (a) if the building work includes restricted building work to be carried out by the owner-builder; or
   (b) if any accompanying plans or specifications contain design work that is restricted building work and that has been carried out by the owner-builder.
+
+### 45AA Certificate of work required for non-consented small stand-alone dwelling
+(1) This section applies if final design plans are submitted by a person under section 42B(4)﻿(b) in connection with the building work for a non-consented small stand-alone dwelling.
+(2) The final design plans containing design work for building work that is restricted building work must be accompanied by a certificate of work.
+(3) The certificate of work must—
+  (a) be provided by 1 or more licensed building practitioners who carried out or supervised that design work; and
+  (b) identify work described in paragraph (b) of the definition of restricted building work in section 7(1); and
+  (c) state that the design work complies with the building code.
+(4) A certificate of work provided under section 42B(4)﻿(b) does not, of itself,—
+  (a) create any liability in relation to any matter to which the certificate of work relates; or
+  (b) give rise to any civil liability to the owner that would not otherwise exist if the licensed building practitioner were not required to provide the certificate of work.
 
 ### 45A Minor variations to building consents
 (1) An application for a minor variation to a building consent—
@@ -1586,11 +1656,12 @@ All restricted building work must be carried out or supervised by a licensed bui
 
 ### 88 Licensed building practitioner to provide record of work in respect of restricted building work
 (1) Each licensed building practitioner who carries out (other than as an owner-builder) or supervises restricted building work under a building consent must, on completion of the restricted building work, provide the persons specified in subsection (2) with a record of work, in the prescribed form, stating what restricted building work the licensed building practitioner carried out or supervised.
+(1A) Each licensed building practitioner who carries out or supervises restricted building work on a non-consented small stand-alone dwelling must, on completion of the restricted building work, provide the owner and the territorial authority that issued the project information memorandum for the dwelling under section 34 with a record of work, in the prescribed form (if applicable), stating what restricted building work the licensed building practitioner carried out or supervised.
 (2) The persons are—
   (a) the owner; and
   (b) the territorial authority for the district in which the restricted building work is situated.
 (3)
-(4) A record of work given under subsection (1) does not, of itself,—
+(4) A record of work given under subsection (1) or (1A) does not, of itself,—
   (a) create any liability in relation to any matter to which the record of work relates; or
   (b) give rise to any civil liability to the owner that would not otherwise exist if the licensed building practitioner were not required to provide the record of work.
 (5) Subsection (4) does not limit section 362I(1)﻿(c).
@@ -1634,6 +1705,7 @@ For the purposes of section 90B(1)﻿(a), relevant interest, in relation to the 
 
 ### 90D Owner-builder exemption
 (1) A person who is an owner-builder in relation to restricted building work may carry out that restricted building work without being supervised by a licensed building practitioner.
+(1A) Subsection (1) does not apply to building work in connection with a non-consented small stand-alone dwelling.
 (2) Subsection (1) does not apply if the restricted building work in question is low-risk building work under a low-risk building consent, simple residential building work under a simple residential building consent, or commercial building work under a commercial building consent.
 
 ### Subpart 5 — Code compliance certificates, certificates of acceptance, and compliance schedules
@@ -3717,6 +3789,7 @@ In sections 177 to 190, party, in relation to a determination, means any or all 
   (e) a compliance schedule:
   (f) a notice to fix.
 (3) Subsection (1)﻿(b) applies to any power of decision of a territorial authority in respect of, or under, all or any of the following:
+  (aaa) an extension under section 34A(b) of the period during which building work must be completed before the project information memorandum lapses:
   (a) any waiver or modification under section 67 or 67A:
   (b) a certificate of acceptance under section 96:
   (c) an exemption from building consent requirements under clause 2 of Schedule 1:
@@ -4408,13 +4481,20 @@ A territorial authority must, for the purpose of ensuring that it complies with 
     (ii) building consents:
     (iii) if applicable, the specified intended life of the building:
     (iv) code compliance certificates:
-    (iva) records of work and certificates of work provided by licensed building practitioners under section 45(2) or 88(1)﻿(a):
+    (iva) records of work and certificates of work provided by licensed building practitioners under section 45(2) or 88:
     (ivb) statutory declarations provided by owner-builders:
     (ivc)
     (v) compliance schedules:
     (vi) building warrants of fitness:
     (vii) energy work certificates relating to building work:
     (viii) any other records that relate to the information referred to in subparagraphs (i) to (vii); and
+  (ba) all information it has issued or received in relation to a non-consented small stand-alone dwelling, including—
+    (i) the additional information it provides under section 35A; and
+    (ii) the information described in section 42B(6)﻿(a) to (d); and
+    (iii) all preliminary design plans; and
+    (iv) the set of final design plans for the building, plumbing, and drainlaying work; and
+    (v) any certificate of work provided under section 45AA; and
+    (vi) the project information memorandum issued in respect of the building work to be carried out on the dwelling; and
   (c) any orders issued by the District Court under section 126 in respect of a building; and
   (d) any records of any information on any land or building received by the territorial authority from a statutory authority; and
   (e) a summary of written complaints received by the territorial authority concerning alleged breaches of this Act or the former Act; and
@@ -6082,6 +6162,7 @@ A licensed building practitioner must—
   (da) a licensed building practitioner has failed, without good reason, in respect of a building consent that relates to restricted building work that he or she is to carry out (other than as an owner-builder) or supervise, or has carried out (other than as an owner-builder) or supervised, (as the case may be),—
     (i) to provide a certificate of work about any plans and specifications required to accompany the building consent application; or
     (ii) to provide the persons specified in section 88(2) with a record of work, on completion of the restricted building work, in accordance with section 88(1); or
+  (daa) a licensed building practitioner has failed, without good reason, in respect of restricted building work in connection with a non-consented small stand-alone dwelling that they have carried out or supervised (as the case may be), to provide the owner of the dwelling and the relevant territorial authority with a record of work, on completion of the restricted building work, in accordance with section 88(1A) or a certificate of work issued under section 45AA relating to the final design plans for the building; or
   (db) a licensed building practitioner has held himself or herself out as being licensed to carry out or supervise building work or building inspection work of a type that, at that time, he or she was not licensed to carry out or supervise; or
   (e) a licensed building practitioner has, for the purpose of becoming licensed himself or herself, or for the purpose of any other person becoming licensed,—
     (i) either orally or in writing, made any declaration or representation, knowing it to be false or misleading in a material particular; or
@@ -6483,7 +6564,7 @@ Nothing in this Part limits or derogates from the provisions of the Fair Trading
 (1) In every contract to which this section applies, the following warranties about building work to be carried out under the contract are implied and are taken to form part of the contract:
   (a) that the building work will be carried out—
     (i) in a proper and competent manner; and
-    (ii) in accordance with the plans and specifications set out in the contract; and
+    (ii) in accordance with the plans and specifications set out in the contract or, in the case of a non-consented small stand-alone dwelling, in accordance with the final design plans; and
     (iii) in accordance with the relevant building consent (if any):
   (b) that all building products to be supplied for use in the building work—
     (i) will be suitable for the purpose for which they will be used; and
@@ -6634,6 +6715,7 @@ The purpose of regulations prescribing information and documentation under secti
     (i) the heading to this section is amended by omitting code compliance certificate and substituting consent completion certificate; and
     (ii) subsections (1) and (2) are amended by omitting code compliance certificate and substituting consent completion certificate; and
   (b) second, this subsection is repealed.
+(7) This section does not apply to a non-consented small stand-alone dwelling.
 
 ## Part 4B — Building product information requirements
 
@@ -7065,6 +7147,11 @@ Any civil proceedings against a building consent authority in respect of the per
 (5) No civil proceedings may be brought against a building consent authority for anything done or omitted to be done in good faith in reliance on a claim made by a manufacturer, importer, retailer, or wholesaler given under Part 4B that the relevant building product has been—
   (a) manufactured in accordance with a standard, or performs or will perform in accordance with a standard, that the Minister has recognised under section 272HB; and
   (b) certified as meeting the standard referred to in paragraph (a) under a standards certification scheme that the Minister has recognised under section 272HB.
+
+### 392A Territorial authority not liable
+No civil proceedings may be brought against a territorial authority or any member, employee, or agent of that authority for anything in good faith—
+  (a) stated in, or omitted from, a statement or description required by or provided under section 35A; or
+  (b) done or omitted to be done in relation to the information supplied to it under section 42B(4) or 88(1A).
 
 ### 393 Limitation defences
 (1) The Limitation Act 2010 applies to civil proceedings against any person if those proceedings arise from—
@@ -8276,6 +8363,71 @@ Building work in connection with 1 or more solar panel arrays mounted on a roof 
 
 ### 50 Removal of structures
 The removal of any of the structures referred to in clauses 39 to 49, whether or not the design of the structure has been carried out or reviewed by a chartered professional engineer.
+
+## Schedule 1A — Other building work for which building consent not required
+
+### 1 Characteristics of small stand-alone dwelling
+This schedule applies to building work in connection with a small stand-alone dwelling. A small stand-alone dwelling is a building that has all of the following characteristics:
+  (a) it is stand-alone:
+  (b) it is new (that is, it is wholly new and not an addition or alteration to existing building work or an existing building):
+  (c) it has a floor area that is equal to or less than 70 square metres:
+  (d) it has a single storey only.
+
+### 2 Requirements for small stand-alone dwelling
+(1) A small stand-alone dwelling must be constructed in accordance with the following requirements:
+  (a) it meets the requirements for a detached dwelling, as defined in clause A1 of the building code:
+  (b) it has a maximum height of 4 metres above the floor:
+  (c) it has a floor level of up to 1 metre above the supporting ground:
+  (d) it must not contain a mezzanine floor:
+  (e) it has a frame made of lightweight building products (being steel or timber):
+  (f) it is at least 2 metres away from any other residential building or any legal boundary:
+  (g) it is built using lightweight building products for the roof that have a maximum weight of 20 kilograms per square metre:
+  (h) its wall cladding has a maximum weight of 220 kilograms per square metre or less:
+  (i) its water supply, sanitary plumbing, and drainage must—
+    (i) be designed and built in accordance with the following acceptable solutions or verification methods for compliance with clauses E1, G12, and G13 of the building code:
+      (A) E1/AS1, E1/AS2, or E1/VM1 for its surface water system; and
+      (B) G12/AS1 or G12/AS3 for its water supply system; and
+      (C) both G13/AS1 and G13/AS2 or G13/AS3 for its foul water drainage system; and
+    (ii) connect to network utility operator systems (NUO systems), if those systems are available, or, if not available (within the meaning of clause 3), connect to on-site systems:
+  (j) an on-site system referred to in paragraph (i)﻿(ii) must be designed and built in accordance with—
+    (i) any applicable acceptable solution specified in paragraph (i)﻿(i) of this clause of this schedule; or
+    (ii) verification methods E1/VM1 and G13/VM4 (if applicable):
+  (k) it must have an independent source of supply for electricity and, if gas is to be used in the dwelling, an independent source of supply for gas:
+  (l) where heaters are installed, they must be either electric or gas heaters:
+  (m) it does not have a level entry shower requiring a waterproof membrane.
+(2) The following additional requirements apply to the water supply, sanitary plumbing, and drainage systems for a small stand-alone dwelling (but do not apply to on-site systems):
+  (a) there must be no more than 30 fixture units, as defined by AS/NZS 3500.0.2021 and rated under clause 6.3 of AS/NZS 3500.2.2025:
+  (b) there must be no pumped systems within the dwelling:
+  (c) the main drain must be no less than DN100, at a grade of 1:60:
+  (d) all branch drains must be no less than DN65, at a grade of 1:40:
+  (e) upstream vents in connection with any branch or main drain must be no less than DN65:
+  (f) there must be no uncontrolled water heating.
+(3) For the purposes of subclause (1)﻿(i) and (j),—
+  (a) a connection to an NUO system or an on-site system does not require a building consent:
+  (b) building work in connection with an on-site system does not require a building consent.
+(4) A small stand-alone dwelling can include a garage with internal access if the characteristics in clause 1 and requirements in clause 2 are met.
+
+### 3 Interpretation
+In this schedule, unless the context otherwise requires,—
+  - **AS/NZS 3500.0.2021** means AS/NZS 3500.0.2021 Australian/New Zealand Standard—Plumbing and Drainage—Part 0: Glossary of terms
+  - **AS/NZS 3500.2.2025** means AS/NZS 3500.2.2025 Australian/New Zealand Standard—Plumbing and Drainage—Part 2: Sanitary Plumbing and Drainage
+  - **branch drain** has the same meaning as in AS/NZS 3500.0.2021
+  - **E1/AS1** means Acceptable Solution E1/AS1 as set out in the Acceptable Solutions for New Zealand Building Code Clause E1 Surface Water, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2023
+  - **E1/AS2** means Acceptable Solution E1/AS2 as set out in the Acceptable Solutions for New Zealand Building Code Clause E1 Surface Water, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2023
+  - **E1/VM1** means Verification Method E1/VM1 as set out in the Verification Methods for New Zealand Building Code Clause E1 Surface Water, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2023
+  - **floor area** , in relation to a small stand-alone dwelling, means the overall internal dimensions measured between the finished internal faces of the external walls of the building
+  - **G12/AS1** means Acceptable Solution G12/AS1 as set out in the Acceptable Solutions for New Zealand Building Code Clause G12 Water Supplies, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2024
+  - **G12/AS3** means Acceptable Solution G12/AS3 as set out in the Acceptable Solutions for New Zealand Building Code Clause G12 Water Supplies, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2024
+  - **G13/AS1** means Acceptable Solution G13/AS1 as set out in the Acceptable Solutions for New Zealand Building Code Clause G13 Foul Water, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2023
+  - **G13/AS2** means Acceptable Solution G13/AS2 as set out in the Acceptable Solutions for New Zealand Building Code Clause G13 Foul Water, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2023
+  - **G13/AS3** means Acceptable Solution G13/AS3 as set out in the Acceptable Solutions for New Zealand Building Code Clause G13 Foul Water, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2023
+  - **G13/VM4** means Verification Method G13/VM4 as set out in the Verification Methods for New Zealand Building Code Clause G13 Foul Water, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2023
+  - **main drain** has the same meaning as in AS/NZS 3500.0.2021
+  - **not available** , in relation to an NUO system, means—
+    (a) there is no NUO system sufficiently close to the relevant small stand-alone dwelling to enable a connection to be made between that dwelling and an NUO system; or
+    (b) there is an NUO system (as certified in the project information memorandum) that is sufficiently close to the relevant small stand-alone dwelling to enable a connection to be made between the dwelling and the NUO system, but the network utility operator informs the owner of the dwelling that the NUO system does not have sufficient capacity to allow a connection to be made
+  - **on-site system** means a system for the independent management of stormwater, wastewater, or water supply that does not connect to an NUO system
+  - **upstream vent** has the same meaning as in AS/NZS 3500.0.2021.
 
 ## Schedule 2 — Buildings in respect of which requirement for provision of access and facilities for persons with disabilities applies
 
