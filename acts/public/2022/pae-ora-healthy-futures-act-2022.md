@@ -1,5 +1,5 @@
 # Pae Ora (Healthy Futures) Act 2022
-_Consolidation as at 2024-10-25_
+_Consolidation as at 2026-01-15_
 
 ### 1 Title
 This Act is the Pae Ora (Healthy Futures) Act 2022.
@@ -1467,6 +1467,7 @@ A person is funding eligible if the person belongs to a class of eligible people
 | Ātiawa Toa | Te Upoko o te Ika Greater Wellington/Hutt |
 | Te Kāhui Hauora o Te Tau Ihu | Nelson–Marlborough |
 | Te Tauraki | Ngāi Tahu |
+| Te Pūhana Ora | Rēkohu/Wharekauri/Chatham Islands |
 
 ### 1 Interpretation
 In this Part, unless the context otherwise requires,—
@@ -1766,6 +1767,9 @@ The Nelson–Marlborough area consists of all the lands, islands, and coasts of 
 
 ### 14 Description of Ngāi Tahu area
 The Ngāi Tahu area consists of the area identified as the takiwā of Ngāi Tahu Whānui in section 5 of the Te Runanga o Ngai Tahu Act 1996.
+
+### 15 Description of Rēkohu/Wharekauri/Chatham Islands area
+The Rēkohu/Wharekauri/Chatham Islands area consists of the area constituted as The Chatham Islands Territory in section 5 of the Chatham Islands Council Act 1995.
 
 ## Schedule 5 — Provisions applying to mortality review committees
 
