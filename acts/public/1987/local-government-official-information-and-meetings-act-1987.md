@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2025-10-22_
+_Consolidation as at 2026-01-15_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -30,6 +30,7 @@ _Consolidation as at 2025-10-22_
     (d) a committee of the whole local authority
   - **member** , in relation to a local authority, means any person elected or appointed to that local authority or to any committee or subcommittee of that local authority, and includes the presiding member of that local authority or of any committee or subcommittee of that local authority
   - **natural hazard** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **non-consented small stand-alone dwelling** has the same meaning as in section 7(1) of the Building Act 2004
   - **official information** —
     (a) means any information held by a local authority; but
     (b) does not include—
@@ -509,6 +510,7 @@ Except as expressly provided in this Act, nothing in this Act shall derogate fro
     (ii) how liability for targeted rates under that Act on the land is calculated; and
     (iii) amounts of any unpaid targeted rates under that Act:
   (d) information concerning any consent, certificate, notice, order, or requisition affecting the land or any building on the land previously issued by the territorial authority (whether under the Building Act 1991, the Building Act 2004, or any other Act):
+  (daa) information relating to non-consented small stand-alone dwellings:
   (da) the information required to be provided to a territorial authority under section 362T(2) of the Building Act 2004:
   (e) information concerning any certificate issued by a building certifier pursuant to the Building Act 1991 or the Building Act 2004:
   (ea) information notified to the territorial authority under section 124 of the Weathertight Homes Resolution Services Act 2006:
@@ -543,7 +545,7 @@ Except as expressly provided in this Act, nothing in this Act shall derogate fro
 
 ### 44D Territorial authority, regional council, and water organisation protected against certain actions when providing information in good faith
 (1) A territorial authority, regional council, or water organisation is not liable in civil or criminal proceedings for making available in good faith,—
-  (a) in the case of a territorial authority, information in a land information memorandum under section 44A(2)﻿(a); or
+  (a) in the case of a territorial authority, information in a land information memorandum under section 44A(2)﻿(a) or (daa); or
   (b) in the case of a regional council, information to a territorial authority under section 44C; or
   (c) in the case of a water organisation, information provided to a territorial authority under section 108 of the Local Government (Water Services) Act 2025.
 (2) In this section, water organisation has the meaning given in section 4 of the Local Government (Water Services) Act 2025.
