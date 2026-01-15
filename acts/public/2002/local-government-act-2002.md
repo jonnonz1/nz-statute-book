@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2026-01-15_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -104,6 +104,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **natural hazard** has the meaning given to it in section 2(1) of the Resource Management Act 1991
   - **network infrastructure** has the meaning set out in section 197(2)
+  - **non-consented small stand-alone dwelling** has the same meaning as in section 7(1) of the Building Act 2004
   - **operating expenses** and have the same meaning as under generally accepted accounting practice
   - **pecuniary interest** , in relation to a member, means a matter or activity of financial benefit to the member
   - **pecuniary interest return** means the return required to be made under section 54C
@@ -3116,6 +3117,7 @@ The purpose of the development contributions provisions in this Act is to enable
 (1) A territorial authority may require a development contribution to be made to the territorial authority when—
   (a) a resource consent is granted under the Resource Management Act 1991 for a development within its district:
   (b) a building consent is granted under the Building Act 2004 for building work situated in its district (whether by the territorial authority or a building consent authority):
+  (ba) a project information memorandum is issued under the Building Act 2004 for building work in connection with a non-consented small stand-alone dwelling within its district:
   (c) an authorisation for a service connection is granted.
 (2) A territorial authority may only require the development contribution as provided for in a policy adopted under section 102(1) that is consistent with section 201.
 (2A) For the purposes of subsection (2), a development contribution must be consistent with the content of the policy adopted under section 102(1) that was in force at the time that the application for a resource consent, building consent, or service connection was submitted, accompanied by all required information.
@@ -3255,7 +3257,7 @@ A territorial authority must supply all secretarial and administrative services 
 (1) A territorial authority must not require a development contribution for a reserve, network infrastructure, or community infrastructure if, and to the extent that—
   (a) it has, under section 108(2)﻿(a) of the Resource Management Act 1991, imposed a condition on a resource consent in relation to the same development for the same purpose; or
   (b) the developer will fund or otherwise provide for the same reserve, network infrastructure, or community infrastructure; or
-  (ba) the territorial authority has already required a development contribution for the same purpose in respect of the same building work, whether on the granting of a building consent or a certificate of acceptance; or
+  (ba) the territorial authority has already required a development contribution for the same purpose in respect of the same building work, whether on the granting of a building consent or a certificate of acceptance or for a project information memorandum for building work in connection with a non-consented small stand-alone dwelling situated within its district; or
   (c) a third party has funded or provided, or undertaken to fund or provide, the same reserve, network infrastructure, or community infrastructure.
 (2) This subpart does not prevent a territorial authority from accepting from a person, with that person's agreement, additional contributions for reserves, network infrastructures, or community infrastructures.
 (3) This section does not prevent a territorial authority from requiring a development contribution if—
@@ -3315,10 +3317,11 @@ A territorial authority must supply all secretarial and administrative services 
     (i) reserves; and
     (ii) network infrastructure; and
     (iii) community infrastructure; and
-  (b) the event that will give rise to a requirement for a development contribution under section 198, whether upon granting—
-    (i) a resource consent under the Resource Management Act 1991; or
-    (ii) a building consent under the Building Act 2004; or
-    (iii) an authorisation for a service connection.
+  (b) the event that will give rise to a requirement for a development contribution under section 198, whether on—
+    (i) granting a resource consent under the Resource Management Act 1991; or
+    (ii) granting a building consent under the Building Act 2004; or
+    (iii) granting an authorisation for a service connection; or
+    (iv) issuing a project information memorandum for a non-consented small stand-alone dwelling.
 (2) If different development contributions are payable in different parts of the district, subsection (1) applies in relation to the parts of the district.
 (3) The specifications required under subsection (1) or subsection (2) must be given separately in relation to each activity or group of activities for which separate development contributions are required.
 
@@ -3465,7 +3468,11 @@ Despite sections 197AB(d) and 205, if the territorial authority considers that t
   (b) the building consent lapses under section 52 of the Building Act 2004; or
   (c) the development or building in respect of which the resource consent or building consent was granted does not proceed; or
   (d) the territorial authority does not provide the reserve, network infrastructure, or community infrastructure for which the development contribution was required.
-(2) A territorial authority may retain any portion of a development contribution or land referred to in subsection (1) of a value equivalent to the costs incurred by the territorial authority in relation to the development or building and its discontinuance.
+(1A) A territorial authority must refund or return to the applicant for a project information memorandum for a non-consented small stand-alone dwelling, or to their personal representative, a development contribution paid or land set aside under this subpart if—
+  (a) the project information memorandum lapses (see section 34A of the Building Act 2004); or
+  (b) the development or building in respect of which the project information memorandum was granted does not proceed; or
+  (c) the territorial authority does not provide the reserve, network infrastructure, or community infrastructure for which the development contribution was required.
+(2) A territorial authority may retain any portion of a development contribution or land referred to in subsection (1) or (1A), of a value equivalent to the costs incurred by the territorial authority in relation to the development or building and its discontinuance.
 
 ### 210 Refund of money or return of land if not applied to specified reserve purposes
 (1) If a development contribution has been required for a specified reserve purpose, a territorial authority must—
@@ -3776,10 +3783,10 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   - **alcohol ban** means a bylaw made under section 147
   - **enforcement officer** , in relation to an alcohol ban, means a constable
   - **infringement fee** ,—
-    (a) in relation to an infringement offence specified as such by regulations under section 259(a), means the amount prescribed by regulations under section 259(b) as the infringement fee for the offence; and
-    (b) in relation to a breach of an alcohol ban, means the amount prescribed by regulations under section 259(b) as the infringement fee for the breach
+    (a) in relation to an infringement offence specified as such by regulations under section 259(1)(a), means the amount prescribed by regulations under section 259(1)(b) as the infringement fee for the offence; and
+    (b) in relation to a breach of an alcohol ban, means the amount prescribed by regulations under section 259(1)(b) as the infringement fee for the breach
   - **infringement offence** —
-    (a) means an offence specified as such by regulations under section 259(a); and
+    (a) means an offence specified as such by regulations under section 259(1)(a); and
     (b) includes a breach of an alcohol ban.
 (2) The definition in subsection (1) of enforcement officer overrides the definition of that term in section 5.
 
@@ -4778,8 +4785,9 @@ The power that a local authority has, under section 198, to require a developmen
   (a) the requirement is made in respect of the granting, on or after 1 July 2003, of—
     (i) a resource consent; or
     (ii) a building consent; or
-    (iii) an authorisation for a service connection; and
-  (b) the application for the resource consent, building, consent, or authorisation—
+    (iii) an authorisation for a service connection; or
+  (aa) the requirement is made in respect of the issuing, on and after the commencement of this paragraph, of a project information memorandum for a non-consented small stand-alone dwelling; and
+  (b) the application for the resource consent, building, consent, authorisation, or issue of a project information memorandum—
     (i) is made on or after 1 July 2003; or
     (ii) was made in the period beginning on 19 December 2001 and ending with the close of 30 June 2003.
 
@@ -5351,6 +5359,13 @@ In this Part,—
   (b) a statement of expectations prepared under section 64B of this Act in relation to the CCO continues in force until the first statement of expectations is provided to the water organisation under section 224 of the 2025 Act:
   (c) the requirements for a half-yearly report under section 66 of this Act continue to apply until the water organisation adopts its first half-yearly report under section 248 of the 2025 Act:
   (d) the requirements for an annual report under section 67 of this Act continue to apply until the water organisation adopts its first water services annual report under section 243 of the 2025 Act.
+
+### Part 11 — Provisions relating to Building and Construction (Small Stand-alone Dwellings) Amendment Act 2025
+
+### 63 Territorial authorities may require development contributions for small stand-alone dwellings even where not authorised by policy
+(1) This clause applies during the period beginning with the commencement of this Part of Schedule 1AA and expiring 3 years after that date.
+(2) A territorial authority may require a development contribution to be paid in respect of a non-consented small stand-alone dwelling, even if this is not authorised by, or is contrary to, the relevant policies of the territorial authority.
+(3) Subpart 5 of Part 8 applies, subject to this clause and with any necessary modifications.
 
 ## Schedule 1 — Acts under which responsibilities, powers, and duties are conferred or imposed on Minister of Local Government and Secretary for Local Government
 
