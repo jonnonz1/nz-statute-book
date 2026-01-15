@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2026-01-01_
+_Consolidation as at 2026-01-15_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -233,6 +233,7 @@ A body corporate that is responsible for any sanitary plumbing, gasfitting, or d
 (4) Subsection (1) applies in the places that the Minister determines after consultation with the appropriate local authority.
 (5) Subsection (1) applies despite any bylaw that requires sanitary plumbing to be done only by specified persons or classes of persons.
 (6) Neither subsection (1) nor section 17 prohibits any person from completing any sanitary plumbing that the person has lawfully commenced.
+(6A) However, subsection (1) does not apply in respect of any sanitary plumbing done in connection with a non-consented small stand-alone dwelling.
 (7) A determination under subsection (4)—
   (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named places; or
   (b) if it applies only to 1 or more named places, must be made by notice in the Gazette.
@@ -246,6 +247,7 @@ A body corporate that is responsible for any sanitary plumbing, gasfitting, or d
 (4) A person is not prevented from completing any sanitary plumbing that he or she has lawfully commenced by—
   (a) the variation or revocation of a notice under this section; or
   (b) section 17.
+(4A) However, subsection (1) does not apply in respect of any sanitary plumbing done in connection with a non-consented small stand-alone dwelling.
 (5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 17 Provisions relating to alteration of boundaries of local authority districts
