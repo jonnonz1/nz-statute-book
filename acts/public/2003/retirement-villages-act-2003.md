@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2026-01-24_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -920,9 +920,9 @@ In accordance with sections 76 to 83, the Disputes Tribunal established under se
   (d) make an order under section 82(3)﻿(d) requiring a person to pay an amount exceeding $350,000:
   (e) make an order under section 82(3)﻿(e) directing a person to supply services if the value of the services exceeds $350,000.
 (2) In the exercise of its jurisdiction under section 82, the Disputes Tribunal must not—
-  (a) make an order under section 82(3)﻿(c) directing a person to refund money or return property if the amount of money or the value of the property exceeds $30,000:
-  (b) make an order under section 82(3)﻿(d) requiring a person to pay an amount exceeding $30,000:
-  (c) make an order under section 82(3)﻿(e) directing a person to supply services if the value of the services exceeds $30,000.
+  (a) make an order under section 82(3)﻿(c) directing a person to refund money or return property if the amount of money or the value of the property exceeds $60,000:
+  (b) make an order under section 82(3)﻿(d) requiring a person to pay an amount exceeding $60,000:
+  (c) make an order under section 82(3)﻿(e) directing a person to supply services if the value of the services exceeds $60,000.
 (3)
 
 ### 84 General provisions relating to section 82 orders
@@ -1456,7 +1456,7 @@ You have the right not to be exploited by the operator, the people who work at t
 ## Schedule 5 — Matters to be included in code of practice
 
 ### 1 Staffing of retirement village
-The matters that must be addressed in the code of practice area—
+The matters that must be addressed in the code of practice are—
   (a) the qualifications and experience of staff at each retirement village:
   (b) arrangements for the training and ongoing supervision of those staff.
 
