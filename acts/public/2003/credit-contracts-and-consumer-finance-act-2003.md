@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2026-01-24_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -1903,13 +1903,13 @@ The High Court may hear and determine the following matters:
 (5) For the purposes of sections 86 to 88 of the District Court Act 2016, an application made to the District Court for an order under this Act is to be treated as a proceeding.
 
 ### 87 Jurisdiction of Disputes Tribunal
-(1) The Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 has jurisdiction to hear and determine applications for orders under sections 90, 93, 94A, 120, and 122 if the total amount in respect of which an order of the Tribunal is sought is not more than $30,000.
-(2) The Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 has jurisdiction to hear and determine applications for orders under sections 58 and 59 if, at the date that the claim is lodged with the Tribunal, the unpaid balance under the consumer credit contract does not exceed $30,000.
+(1) The Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 has jurisdiction to hear and determine applications for orders under sections 90, 93, 94A, 120, and 122 if the total amount in respect of which an order of the Tribunal is sought is not more than $60,000.
+(2) The Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 has jurisdiction to hear and determine applications for orders under sections 58 and 59 if, at the date that the claim is lodged with the Tribunal, the unpaid balance under the consumer credit contract does not exceed $60,000.
 (3) An order of the Disputes Tribunal under this Act must not—
-  (a) require a person to pay an amount exceeding $30,000:
-  (b) declare a person not liable to another person for an amount exceeding $30,000:
-  (c) vest any property exceeding $30,000 in value in any person:
-  (d) direct the transfer or assignment or delivery of possession of any property exceeding $30,000 in value.
+  (a) require a person to pay an amount exceeding $60,000:
+  (b) declare a person not liable to another person for an amount exceeding $60,000:
+  (c) vest any property exceeding $60,000 in value in any person:
+  (d) direct the transfer or assignment or delivery of possession of any property exceeding $60,000 in value.
 (4) An order of the Tribunal that exceeds any restriction specified in subsection (3) is entirely of no effect.
 (5)
 
@@ -3061,7 +3061,7 @@ Statutory damages and other remedies and enforcement
 ### 9 Application to existing high-cost consumer credit contracts
 (1) The amendments made by section 25 (new subpart 6A of Part 2) of the 2019 Act apply to an existing agreement as set out in this clause.
 Costs cap
-(2) Section 45E (costs of borrowing must not exceed loan advance) applies to an existing agreement as follows: ExampleBefore commencement, Ms D borrows $100 from a creditor (C) under a consumer credit contract that has an annual interest rate of 500% pa and a term of 6 weeks. Section 45E does not limit the amount that can be recovered under that contract.As at commencement, Ms D has repaid $92, consisting of $32 in interest and fees and $60 of the principal. Her unpaid balance is $40.After commencement, Ms D refinances by entering into a further high-cost consumer credit contract with C to repay the remaining $40, and will receive a further advance of $50, ie, $90 in total.The first advance of $100 in the pre-commencement contract caps the maximum costs of borrowing under the new contract. The maximum costs of borrowing that Ms D will have to pay under the new contract is $100 - $32 = $68 (ie, the amount in interest and fees charged on the first contract ($32) is subtracted from the first advance of $100 to give a remaining cap of $68).
+(2) Section 45E (costs of borrowing must not exceed loan advance) applies to an existing agreement as follows:ExampleBefore commencement, Ms D borrows $100 from a creditor (C) under a consumer credit contract that has an annual interest rate of 500% pa and a term of 6 weeks. Section 45E does not limit the amount that can be recovered under that contract.As at commencement, Ms D has repaid $92, consisting of $32 in interest and fees and $60 of the principal. Her unpaid balance is $40.After commencement, Ms D refinances by entering into a further high-cost consumer credit contract with C to repay the remaining $40, and will receive a further advance of $50, ie, $90 in total.The first advance of $100 in the pre-commencement contract caps the maximum costs of borrowing under the new contract. The maximum costs of borrowing that Ms D will have to pay under the new contract is $100 - $32 = $68 (ie, the amount in interest and fees charged on the first contract ($32) is subtracted from the first advance of $100 to give a remaining cap of $68).
   (a) section 45E restricts maximum costs of borrowing under an existing agreement only if the parties to the agreement agree to change the agreement with effect after commencement; and
   (b) the rules in that section for calculating the first advance and whether a contract is a related consumer credit contract apply equally to all agreements (including those entered into before commencement).
 Sections 45F and 45G
