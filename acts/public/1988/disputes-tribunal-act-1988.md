@@ -1,5 +1,5 @@
 # Disputes Tribunal Act 1988
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2026-01-24_
 
 ### 1 Title and commencement
 (1) This Act is the Disputes Tribunal Act 1988.
@@ -169,9 +169,9 @@ The Minister may from time to time, by notice in the Gazette,—
     (iii) the recovery of any property.
 (1A) The Tribunal has jurisdiction to exercise any power conferred on a court by any enactment listed in Part 1 of Schedule 1 if—
   (a) the occasion for the exercise of the power arises in the course of proceedings properly before the Tribunal; and
-  (b) the total amount sought in the proceedings does not exceed $30,000.
+  (b) the total amount sought in the proceedings does not exceed $60,000.
 (2) The Tribunal shall have such other jurisdiction as is conferred upon it by any of the enactments specified in Part 2 of Schedule 1.
-(3) For the purposes of subsection (1), a claim is within the jurisdiction of the Tribunal only if the total amount in respect of which an order of the Tribunal is sought does not exceed $30,000, including,—
+(3) For the purposes of subsection (1), a claim is within the jurisdiction of the Tribunal only if the total amount in respect of which an order of the Tribunal is sought does not exceed $60,000, including,—
   (a) where a claim is made for the recovery of property, the value of that property; and
   (b) where a claim is made for a work order, the value of the work sought to be included in the order.
 (4) If it is necessary for the purposes of this Act to ascertain the value of any property or work or to resolve any dispute as to such value (whether for the purposes of subsection (3) or otherwise), that value shall be determined by the Tribunal in such manner as it thinks fit, and the Tribunal may, for that purpose, appoint an Investigator to report to it under section 41.
@@ -209,7 +209,7 @@ The Minister may from time to time, by notice in the Gazette,—
 [Repealed]
 
 ### 14 Abandonment to bring claim within jurisdiction
-A person may abandon so much of a claim as exceeds $30,000 in order to bring the claim within the jurisdiction of the Tribunal; and in that event the approval of an agreed settlement under section 18(3) or, as the case may require, an order of the Tribunal under this Act or any other enactment, in relation to the claim, shall operate to discharge from liability in respect of the amount so abandoned any other person—
+A person may abandon so much of a claim as exceeds $60,000 in order to bring the claim within the jurisdiction of the Tribunal; and in that event the approval of an agreed settlement under section 18(3) or, as the case may require, an order of the Tribunal under this Act or any other enactment, in relation to the claim, shall operate to discharge from liability in respect of the amount so abandoned any other person—
   (a) who is a party to that agreed settlement; or
   (b) against whom the claim and the subsequent order are made.
 
@@ -286,12 +286,12 @@ A cause of action shall not be divided into 2 or more claims for the purpose of 
 (3) Where the Tribunal makes a work order against a party, it shall, where the order is made under section 18(8) or section 46(2), at the same time make an order under subsection (1)﻿(a) of this section to be complied with as an alternative to compliance with the work order.
 (4) Subject to section 20, the Tribunal shall not make an order under this Act that exceeds any of the monetary restrictions specified in subsection (5), and any order that exceeds any such restriction shall be entirely of no effect.
 (5) The monetary restrictions that apply for the purposes of subsection (4) are as follows:
-  (a) an order under subsection (1)﻿(a) or under section 47(3)﻿(b) shall not require payment of money exceeding $30,000:
-  (b) a declaration under subsection (1)﻿(b) shall not relate to a claim or demand exceeding $30,000:
-  (c) an order under subsection (1)﻿(c) shall not relate to any property exceeding $30,000 in value:
-  (d) the work to be done or matters to be attended to under a work order shall not exceed $30,000 in value:
-  (e) an order under paragraph (e) or paragraph (f) of subsection (1) shall not be made in respect of an agreement if the total amount in respect of which an order of the Tribunal is sought exceeds $30,000.
-(6) Except as provided in subsection (3), the Tribunal shall not, in respect of a claim, make more than 1 of the orders authorised by paragraphs (a) to (d) of subsection (1), or by any other enactment, if the aggregate amount or value of those orders exceeds $30,000, and every order so made contrary to this subsection shall be entirely of no effect.
+  (a) an order under subsection (1)﻿(a) or under section 47(3)﻿(b) shall not require payment of money exceeding $60,000:
+  (b) a declaration under subsection (1)﻿(b) shall not relate to a claim or demand exceeding $60,000:
+  (c) an order under subsection (1)﻿(c) shall not relate to any property exceeding $60,000 in value:
+  (d) the work to be done or matters to be attended to under a work order shall not exceed $60,000 in value:
+  (e) an order under paragraph (e) or paragraph (f) of subsection (1) shall not be made in respect of an agreement if the total amount in respect of which an order of the Tribunal is sought exceeds $60,000.
+(6) Except as provided in subsection (3), the Tribunal shall not, in respect of a claim, make more than 1 of the orders authorised by paragraphs (a) to (d) of subsection (1), or by any other enactment, if the aggregate amount or value of those orders exceeds $60,000, and every order so made contrary to this subsection shall be entirely of no effect.
 (7)
 (8) Nothing in subsection (1) shall restrict the making by the Tribunal of any order that it is authorised to make by any other enactment.
 
@@ -793,6 +793,19 @@ Every reference to a Small Claims Tribunal in any enactment (other than an enact
 (2) In this clause,—
   - **commencement date** means the date on which the Remuneration Authority Legislation Act 2022 comes into force
   - **Principal Disputes Referee** includes a person appointed as an Acting Principal Disputes Referee under section 6B.
+
+### Part 3 — Provisions relating to Disputes Tribunal Amendment Act 2025
+
+### 3 Jurisdictional limit of claims made before commencement date
+(1) This clause applies to a person who, before the commencement date,—
+  (a) makes a claim under this Act; and
+  (b) abandons under section 14 so much of the claim as exceeds $30,000 in order to bring the claim within the jurisdiction of the Tribunal.
+(2) If the claim has not been disposed of before the commencement date, the person may not, on or after the commencement date,—
+  (a) amend the claim to include any of the amount of the claim that the person abandoned under section 14; or
+  (b) withdraw, or ask the Disputes Tribunal to strike out, the claim in order to make a new claim seeking—
+    (i) the amount originally claimed; and
+    (ii) the amount, in whole or in part, that the person had abandoned under section 14.
+(3) In this clause, commencement date means the date on which this clause comes into force.
 
 ## Schedule 1 — Powers and jurisdiction of Disputes Tribunal
 
