@@ -1,5 +1,5 @@
 # Fencing Act 1978
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2026-01-24_
 
 > An Act to reform the law relating to the erection and repair of dividing fences, and in substitution for the Fencing Act 1908
 
@@ -192,11 +192,11 @@ Save as otherwise agreed or ordered by the court, the middle of a fence shall be
   (b) exercise the powers conferred by subsection (2) or subsection (3) of that section.
 (2) In the exercise of its jurisdiction under subsection (1), the Disputes Tribunal shall not—and an order or judgment of the Tribunal that exceeds any such restriction shall be entirely of no effect.
   (a) make an order under section 24(2)﻿(a)—
-    (i) requiring a person to pay an amount exceeding $30,000:
-    (ii) requiring a person to incur any expense that exceeds $30,000:
-    (iii) declaring a person not liable to another for an amount exceeding $30,000:
-    (iv) requiring a person to remove a fence where the value of the fence exceeds $30,000:
-  (b) enter judgment under section 24(2)﻿(b) for an amount exceeding $30,000—
+    (i) requiring a person to pay an amount exceeding $60,000:
+    (ii) requiring a person to incur any expense that exceeds $60,000:
+    (iii) declaring a person not liable to another for an amount exceeding $60,000:
+    (iv) requiring a person to remove a fence where the value of the fence exceeds $60,000:
+  (b) enter judgment under section 24(2)﻿(b) for an amount exceeding $60,000—
 (3)
 
 ### 25 Power to come in and defend proceedings
