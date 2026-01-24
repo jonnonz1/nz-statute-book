@@ -1,5 +1,5 @@
 # Consumer Guarantees Act 1993
-_Consolidation as at 2019-10-29_
+_Consolidation as at 2026-01-24_
 
 > Title
 
@@ -343,7 +343,7 @@ Notwithstanding section 25, there shall be no right of redress against the manuf
     (i) an act or default or omission of, or any representation made by, any person other than the manufacturer or a servant or agent of the manufacturer; or
     (ii) a cause independent of human control, occurring after the goods have left the control of the manufacturer; or
     (iii) the price charged by the supplier being higher than the manufacturer's recommended retail price or the average retail price:
-  (b) fail to correspond with the guarantee as to correspondence with description because of—
+  (b) fail to comply with the guarantee as to correspondence with description because of—
     (i) an act or default or omission of a person other than the manufacturer or a servant or agent of the manufacturer; or
     (ii) a cause independent of human control, occurring after the goods have left the control of the manufacturer.
 
@@ -577,12 +577,12 @@ The damages that a consumer may recover for a failure of goods supplied under a 
   (b) vest any property exceeding $350,000 in value in any person:
   (c) direct the transfer or assignment or delivery of possession of any property exceeding $350,000 in value:
   (d) permit a supplier to retain any money paid or other consideration provided in excess of an aggregate value of $350,000.
-(4) The Disputes Tribunal shall have jurisdiction to hear and determine any claim referred to in subsection (1) where the claim does not exceed $30,000.
+(4) The Disputes Tribunal shall have jurisdiction to hear and determine any claim referred to in subsection (1) where the claim does not exceed $60,000.
 (5) The Disputes Tribunal may make an order under section 23A or 39 if the order does not—
-  (a) require a person to pay an amount exceeding $30,000:
-  (b) vest any property exceeding $30,000 in value:
-  (c) direct the transfer or assignment or delivery of possession of any property exceeding $30,000 in value:
-  (d) permit a supplier to retain any money paid or other consideration provided in excess of an aggregate value of $30,000.
+  (a) require a person to pay an amount exceeding $60,000:
+  (b) vest any property exceeding $60,000 in value:
+  (c) direct the transfer or assignment or delivery of possession of any property exceeding $60,000 in value:
+  (d) permit a supplier to retain any money paid or other consideration provided in excess of an aggregate value of $60,000.
 (6)
 
 **Amendment to Sale of Goods Act 1908**
