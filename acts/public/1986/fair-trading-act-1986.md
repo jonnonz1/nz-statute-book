@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2026-01-24_
 
 > Title
 
@@ -834,7 +834,7 @@ The purpose of this Part is to set out in one place the rules applying to—
   (b) the price of the goods is to be paid by—
     (i) 3 or more instalments; or
     (ii) if the agreement specifies that it is a layby sale agreement, 2 or more instalments.
-(2) However, a layby sale agreement does not include an agreement for the supply of goods that have a purchase price that is more than $30,000 or, if greater, the amount specified in section 10(1A)﻿(b) of the Disputes Tribunal Act 1988.
+(2) However, a layby sale agreement does not include an agreement for the supply of goods that have a purchase price that is more than $60,000 or, if greater, the amount specified in section 10(1A)﻿(b) of the Disputes Tribunal Act 1988.
 (3) For the purposes of subsection (1)﻿(b), a deposit paid by the consumer for the goods is an instalment.
 (4)
 (5)
@@ -1391,7 +1391,7 @@ A person may apply to a court or the Disputes Tribunal for an order under sectio
 ### 43B Limits on jurisdiction of District Court and Disputes Tribunal to make orders under section 43
 (1) The District Court must not make an order under section 43 if a value or amount described in subsection (3) exceeds $350,000 or, if greater, the amount specified in section 74 of the District Court Act 2016.
 (2) The Disputes Tribunal must not make an order under section 43 if a value or amount described in subsection (3) exceeds whichever is the greatest of the following:
-  (a) $30,000:
+  (a) $60,000:
   (b) the amount specified in section 10(1A)﻿(b) of the Disputes Tribunal Act 1988.
   (c)
 (3) The values and amounts are as follows:
