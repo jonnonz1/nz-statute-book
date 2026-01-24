@@ -1,5 +1,5 @@
 # Customer and Product Data Act 2025
-_Consolidation as at 2025-03-29_
+_Consolidation as at 2026-01-24_
 
 ### 1 Title
 This Act is the Customer and Product Data Act 2025.
@@ -782,7 +782,7 @@ A declaration of contravention must state the following:
   (b) another person (the aggrieved person) has suffered, or is likely to suffer, loss or damage because of the contravention.
 (2) However, the court or the Disputes Tribunal may not make a compensatory order for an interference with the privacy of an individual referred to in section 51(3) (see instead section 102 of the Privacy Act 2020, which provides for remedies in respect of an interference with privacy, including damages under section 103 of that Act).
 (3) The court or the Disputes Tribunal may make a compensatory order whether or not the aggrieved person is a party to the proceeding.
-Guidance noteSection 94 provides for the Disputes Tribunal’s jurisdiction under this section. In particular, the Disputes Tribunal may hear and determine an application for compensation only if the amount claimed does not exceed $30,000.
+Guidance noteSection 94 provides for the Disputes Tribunal’s jurisdiction under this section. In particular, the Disputes Tribunal may hear and determine an application for compensation only if the amount claimed does not exceed $60,000.
 
 ### 79 Terms of compensatory orders
 (1) If section 78 applies, the court or the Disputes Tribunal may make any order it thinks just to compensate an aggrieved person in whole or in part for the loss or damage, or to prevent or reduce the loss or damage, referred to in that section.
@@ -898,10 +898,10 @@ The District Court may hear and determine applications for orders, or for a cour
   (d) the parties consent, under section 81 of the District Court Act 2016, to the District Court having jurisdiction to hear and determine the application.
 
 ### 94 Jurisdiction of Disputes Tribunal
-(1) The Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 may hear and determine applications for orders to pay compensation under sections 78 and 79 if the amount claimed does not exceed $30,000.
+(1) The Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 may hear and determine applications for orders to pay compensation under sections 78 and 79 if the amount claimed does not exceed $60,000.
 (2) An order of the Disputes Tribunal under this Act must not—
-  (a) require a person to pay an amount exceeding $30,000; or
-  (b) declare a person not liable to another person for an amount exceeding $30,000.
+  (a) require a person to pay an amount exceeding $60,000; or
+  (b) declare a person not liable to another person for an amount exceeding $60,000.
 (3) An order of the Tribunal that exceeds any restriction specified in subsection (2) is entirely of no effect.
 
 ## Part 5 — Administrative matters
