@@ -1,5 +1,5 @@
 # Contract and Commercial Law Act 2017
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2026-01-24_
 
 ### 1 Title
 This Act is the Contract and Commercial Law Act 2017.
@@ -871,12 +871,12 @@ An order under section 111 may be made by the court on its own motion or on an a
 ### 114 Jurisdiction of Disputes Tribunal
 (1) The Disputes Tribunal established under the Disputes Tribunal Act 1988 has jurisdiction to exercise the powers conferred by sections 86 to 95 if—
   (a) the occasion for the exercise of the power arises in the course of any proceeding properly before the Tribunal; and
-  (b) the total amount for which an order of the Tribunal is sought does not exceed $30,000.
+  (b) the total amount for which an order of the Tribunal is sought does not exceed $60,000.
 (2) An order of the Disputes Tribunal under section 95 may not—
-  (a) require a person to pay an amount exceeding $30,000:
-  (b) declare that a person is not liable to any other person for an amount exceeding $30,000:
-  (c) vest any property that exceeds $30,000 in value in any person:
-  (d) direct the transfer, assignment, or delivery of possession of any property that exceeds $30,000 in value.
+  (a) require a person to pay an amount exceeding $60,000:
+  (b) declare that a person is not liable to any other person for an amount exceeding $60,000:
+  (c) vest any property that exceeds $60,000 in value in any person:
+  (d) direct the transfer, assignment, or delivery of possession of any property that exceeds $60,000 in value.
 (3) An order of the Disputes Tribunal that exceeds a restriction in subsection (2) is entirely of no effect.
 (4)
 
