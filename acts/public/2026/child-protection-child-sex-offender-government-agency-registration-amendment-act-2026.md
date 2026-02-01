@@ -5,7 +5,7 @@ _Consolidation as at 2026-02-01_
 This Act is the Child Protection (Child Sex Offender Government Agency Registration) Amendment Act 2026.
 
 ### 2 Commencement
-This Act comes into force 3 months after Royal assent.
+This Act comes into force on 1 May 2026.
 
 ### 3 Principal Act
 This Act amends the Child Protection (Child Sex Offender Government Agency Registration) Act 2016.
