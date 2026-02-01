@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2026-02-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -144,6 +144,7 @@ This Act is the KiwiSaver Act 2006.
     (a) a KiwiSaver scheme:
     (b) a QROPS:
     (c) a superannuation scheme constituted outside New Zealand that is a qualifying recognised overseas pension scheme for the purposes of the Finance Act 2004 (UK)
+  - **rate reduction** , for a person, means a period on or after 1 April 2026 for which the deduction of contributions is to be made from their salary or wages at the rate set out in section 64(1)﻿(c) in accordance with subpart 3B of Part 3
   - **register of managed investment schemes** means the register of managed investment schemes kept under Schedule 2 of the Financial Markets Conduct Act 2013
   - **restricted scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **retirement scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
@@ -337,6 +338,7 @@ An opt-out notice given in respect of one employment terminates the application 
   (b) his or her tax file number; and
   (c) whether or not he or she is already a member of a KiwiSaver scheme and, if that person is a member, must either—
     (i) notify his or her employer of their KiwiSaver status; or
+    (ia) give or show to his or her employer a copy of a notice given by the Commissioner under section 101N that grants a rate reduction that has not yet ended; or
     (ii) give or show to his or her employer a copy of a notice given by the Commissioner under section 105 that grants a savings suspension that has not yet ended; or
     (iii) give his or her employer a non-deduction notice.
 (2) That information must be given, in a form authorised by the Commissioner, as soon as practicable after the person starts the new employment.
@@ -811,7 +813,8 @@ An employer who makes a deduction under this subpart must specify the amount of 
     (ii) section 66A applied in respect of the employee immediately before 1 April 2009; or
     (iii) the employee is on a 2% contribution rate immediately before the first pay period that starts on or after 1 April 2013 because they chose 2% under subsection (2); or
   (ab) 4% of the employee's gross salary or wages, if section 60(1)﻿(a), (b) or (c) first applied in respect of the employee before 1 April 2009 and the employee has not given his or her employer a notice under paragraph (b); or
-  (b) 8% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate.
+  (b) 8% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate; or
+  (c) 3% of the employee’s gross salary or wages if the payment of salary or wages is calculated on or after 1 April 2026 and the employee has a rate reduction under subpart 3B.
 (2) Despite subsection (1), the employee may choose a contribution rate of 3%, 4%, 6%, 8%, or 10% of their gross salary or wages by giving notice of the rate they choose to—
   (a) their employer; or
   (b) their KiwiSaver scheme provider; or
@@ -1251,6 +1254,67 @@ For a payment of gross salary or wages to an employee, an employer does not have
 
 ### 101K Recovered amounts
 [Repealed]
+
+### Subpart 3B — Rate reduction
+
+**Applications for rate reduction**
+
+### 101L How to apply for rate reduction
+(1) A person to whom subpart 1 of Part 3 applies may apply to the Commissioner for a rate reduction by any means that the Commissioner accepts.
+(2) The application must include the following:
+  (a) the person’s name and address; and
+  (b) the person’s tax file number; and
+  (c) the period for which the rate reduction is required; and
+  (d) any other information the Commissioner requires.
+(3) For the purposes of subsection (2)﻿(c), the period for which the rate reduction is required must be no less than 92 days and no more than 1 year.
+
+### 101M Grant of rate reduction
+The Commissioner must grant a rate reduction for the period specified in the application if the application is made in accordance with section 101L.
+
+### 101N Commissioner must give notice of grant of rate reduction
+The Commissioner must, as soon as practicable after granting a rate reduction, give notice—
+  (a) to the person who applied for the rate reduction—
+    (i) that the rate reduction has been granted; and
+    (ii) of the date on which the rate reduction will end; and
+  (b) to each employer for whom the rate reduction will apply—
+    (i) that a rate reduction has been granted for the person; and
+    (ii) that the employer must make deductions of contributions from the salary or wages of the person at the rate set out in section 64(1)﻿(c); and
+    (iii) of the date on which the rate reduction will end.
+
+### 101O Deductions at specified rate
+If an employer is notified under section 101N for a person, the employer must make deductions of contributions from the salary or wages of the person at the rate set out in section 64(1)﻿(c) with effect from the next payment of salary or wages that the employer calculates.
+
+**End of rate reduction**
+
+### 101P Commissioner must give notice before rate reduction ends
+Before a rate reduction ends, the Commissioner must give notice of the date it ends to the person granted the rate reduction.
+
+### 101Q Commissioner must give notice to employer of end of rate reduction
+The Commissioner must give notice to each affected employer known to the Commissioner, as soon as practicable after the end of a rate reduction,—
+  (a) of the date on which the rate reduction ended; and
+  (b) that the employer must cease making deductions of contributions from the salary or wages of the person at the rate set out in section 64(1)﻿(c).
+
+### 101R Deductions at applicable rate
+(1) If an employer is notified under section 101Q about the end of a person’s rate reduction or under section 101S about the revocation of a person’s rate reduction, the employer must cease making deductions of contributions from the salary or wages of the person at the rate set out in section 64(1)﻿(c) and must start making deductions at the contribution rate that applies under section 64.
+(2) Subsection (1) applies with effect from the next payment of salary or wages that the employer calculates after the date on which the employer receives the notice referred to in that subsection.
+(3) This section is subject to any new rate reduction that is granted under this subpart.
+
+**Revocations and refunds**
+
+### 101S Revocation of rate reduction
+(1) Subject to subsection (2), a person may at any time revoke their rate reduction for an employer by giving notice to the employer requiring the employer to cease making deductions of contributions from their salary or wages at the rate set out in section 64(1)﻿(c) and to start making deductions at the applicable contribution rate under section 64(1)﻿(a), (ab), (b), or (2).
+(2) No rate reduction may be used for an employer for less than 92 days unless the employer agrees.
+
+### 101T Refund if person cannot comply
+(1) This section applies if a person—
+  (a) has a rate reduction that has not yet ended; and
+  (b) starts new employment but cannot comply with section 22(1)﻿(c)﻿(ia).
+(2) The employer may, at any time after the person complies with section 22(1)﻿(c)﻿(ia), refund to the person the amount determined under the following formula:contributions deducted − rate reduction amount.
+(3) The items in the formula are defined in subsections (4) and (5).
+(4) Contributions deducted is the total amount of contributions deducted by the employer from the person’s salary or wages at a contribution rate other than the rate set out in section 64(1)﻿(c).
+(5) Rate reduction amount is the amount the contributions deducted in subsection (4) would have totalled if the employer had deducted those contributions at the rate set out in section 64(1)﻿(c).
+(6) The Commissioner may refund the amount determined under subsection (2) to the person if the money is held by the Commissioner.
+(7) This section is subject to section 91B.
 
 ### Subpart 4 — Savings suspension
 
@@ -2658,6 +2722,9 @@ If a member dies, the manager must,—
 
 ### 15 Savings suspension
 An employee member may, at any time, take a savings suspension in accordance with subpart 4 of Part 3.
+
+### 15B Rate reduction
+An employee member may, at any time, take a rate reduction in accordance with subpart 3B of Part 3.
 
 ### 16 Transfer of members
 (1) A member may, at any time during that person’s membership of a KiwiSaver scheme, on application to the manager, apply to have the manager transfer the member’s accumulation to another KiwiSaver scheme.
