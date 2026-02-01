@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2025-12-15_
+_Consolidation as at 2026-02-01_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -399,7 +399,8 @@ If the Registrar accepts a charging document for filing under section 26 or the 
 (3) This section is subject to—
   (a) section 114(2); and
   (b) any order made under section 72 of the District Court Act 2016 or under section 157 of this Act; and
-  (c) section 139.
+  (c) section 139; and
+  (d) any direction made under section 156A.
 
 ### 36 Court dealing with proceeding before transfer for trial: category 4
 (1) A defendant's first appearance in court for a category 4 offence before the proceeding is transferred under subsection (2) must be in the District Court at the place where the charging document was filed.
@@ -1687,6 +1688,17 @@ An order for a retrial under section 151 or 154 may be granted subject to—
   (c) if the person appears in court in accordance with a summons or is brought before a court under an arrest warrant, section 168(1) applies with any necessary modifications as if the proceeding was adjourned:
   (d) the retrial must be conducted in the same manner as a retrial ordered following a successful appeal by a defendant against conviction.
 (2) Subsection (1) overrides sections 45 to 48 and any other enactment or rule of law.
+
+**Management of pre-trial processes if defendant charged in respect of 2 or more offences in different District Court offices**
+
+### 156A Pre-trial processes for 2 or more proceedings in different District Court offices may be managed in single office
+(1) This section applies if—
+  (a) a defendant is charged with 2 or more offences; and
+  (b) proceedings in respect of the offences have been commenced in 2 or more offices of the District Court.
+(2) A District Court Judge, on the Judge’s own initiative or on the application of the prosecutor or the defendant, may direct that the pre-trial processes in respect of some or all of the proceedings be managed in one of the offices of the District Court in which proceedings have been commenced.
+(3) A direction under subsection (2) may only be made if the Judge is satisfied that the management in 1 office of the District Court of the pre-trial processes for all of the proceedings subject to the direction would—
+  (a) ensure the just, timely, and efficient determination of all of the proceedings; and
+  (b) not be contrary to the interests of justice.
 
 **Transfer of proceedings to court at different place**
 
@@ -3184,6 +3196,14 @@ The Solicitor-General may, with the leave of the Supreme Court, refer a question
 
 ### Subpart 12 — Further provisions
 
+**Court of Appeal Judge may remit first appeals to High Court**
+
+### 319A Judge of Court of Appeal may remit first appeal, or application for leave to appeal to first appeal court, to High Court
+(1) This section applies to a first appeal or an application for leave to appeal made to the Court of Appeal as the first appeal court under this Part that is against a decision (including a ruling, conviction entered, or sentence imposed) of the District Court.
+(2) A Judge of the Court of Appeal, acting alone and on their own initiative, may, if they consider it appropriate, remit to the High Court for determination the first appeal or the application for leave to appeal.
+(3) If a matter is remitted to the High Court under subsection (2), the High Court is treated as the first appeal court for the purposes of the subpart of this Part to which the first appeal applies, with all necessary modifications.
+(4) No party may appeal against a decision under this section.
+
 **Procedure for determining jurisdiction where appeals lie to different appeal courts**
 
 ### 320 Meaning of related right of appeal
@@ -4063,6 +4083,17 @@ In this Part, unless the context otherwise requires,—
 ### 7 Proceedings affected by amendments
 (1) The amendments made to this Act by the 2022 Act (except for this clause) apply only to proceedings commenced on or after the commencement date.
 (2) Proceedings commenced before the commencement date, and not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if those amendments had not been enacted.
+
+### Part 5 — Provisions relating to Judicature (Timeliness) Legislation Amendment Act 2025
+
+### 8 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **amendment Act** means the Judicature (Timeliness) Legislation Amendment Act 2025
+  - **commencement date** means the date on which the amendment Act comes into force.
+
+### 9 Amendment Act not to apply to existing proceedings
+(1) A direction under section 156A may not be made in respect of proceedings commenced before the commencement date.
+(2) Section 319A does not apply to appeals or applications for leave to appeal made to the Court of Appeal before the commencement date.
 
 ## Schedule 1AB — Temporary provisions in respect of COVID-19
 
