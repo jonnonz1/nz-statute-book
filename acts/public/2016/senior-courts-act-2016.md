@@ -1,5 +1,5 @@
 # Senior Courts Act 2016
-_Consolidation as at 2022-11-30_
+_Consolidation as at 2026-02-01_
 
 ### 1 Title
 This Act is the Senior Courts Act 2016.
@@ -81,14 +81,15 @@ This Act binds the Crown.
 (4) The High Court is the same court as the High Court continued by section 3(1) of the Judicature Act 1908.
 
 ### 7 Number of High Court Judges
-(1) The number of High Court Judges appointed from time to time referred to in section 6(2)﻿(b) may not exceed 55.
+(1) The number of High Court Judges appointed from time to time referred to in section 6(2)﻿(b) may not exceed 60.
 (2) For the purposes of subsection (1),—
   (a) a permanent Judge who is sitting on a full-time basis counts as 1:
   (b) a permanent Judge who is sitting on a part-time basis counts as an appropriate fraction of 1:
-  (c) the aggregate number (for example 54.5) must not exceed 55.
-(3) Despite subsection (1), the Governor-General may appoint more than 55 High Court Judges (additional Judges) if the Governor-General thinks that 1 or more additional Judges are required because of—
+  (c) the aggregate number (for example 59.5) must not exceed 60.
+(3) Despite subsection (1), the Governor-General may appoint more than 60 High Court Judges (additional Judges) if at any time the Governor-General thinks that an additional Judge is required because of—
   (a) the absence of any Judge on leave preliminary to retirement; or
-  (b) the anticipated absence of any Judge on leave preliminary to retirement.
+  (b) the anticipated absence of any Judge on leave preliminary to retirement; or
+  (c) the anticipated retirement of any Judge if the retirement is within 3 months of the appointment of the additional Judge.
 (4) The appointment of an additional Judge under subsection (3) must fill the vacancy next occurring in the office of Judge, not being a vacancy filled by an earlier appointment under subsection (3).
 
 ### 8 Seal
@@ -421,7 +422,10 @@ A witness is not required to attend the hearing of a civil proceeding in the Hig
   (a) any contested application for leave to appeal:
   (b) any contested application for an extension of time to appeal:
   (c) any other contested application or matter (other than an appeal) that effectively determines or disposes of the substantive proceeding.
-(3) Any other application to or matter in the Court of Appeal (other than an appeal) may be heard and determined by a single Judge of the Court of Appeal.
+(2A) A single Judge of the Court of Appeal may—
+  (a) make an order or give directions under section 164B(2) on a proceeding that is referred to a Judge of the Court of Appeal under section 164A:
+  (b) hear and determine an appeal against an order made under section 164B(2)﻿(a).
+(3) In any other case, an application to or matter in the Court of Appeal (other than an appeal) may be heard and determined by a single Judge of the Court of Appeal.
 (4) If a single Judge acting under subsection (3) determines not to grant an application or not to resolve a matter in favour of a party, the party may apply to have the Judge’s determination reviewed by 2 or more Judges of the Court of Appeal.
 (5) The Judges who determine an application under subsection (4) may confirm, modify, or reverse the single Judge’s determination.
 (6) A single Judge of the Court of Appeal may—
@@ -676,6 +680,9 @@ The Supreme Court may remit a proceeding that began in any New Zealand court to 
 (2) Two or more permanent Judges of the Supreme Court may act as the court—
   (a) to decide whether an oral hearing of an application for leave to appeal to the court should be held, or the application should be determined just on the basis of written submissions:
   (b) to determine an application for leave to appeal to the court.
+(2A) A single permanent Judge of the Supreme Court may act as the court to—
+  (a) make an order or give directions under section 164B(2) on a proceeding that is referred to a Judge of the Supreme Court under section 164A:
+  (b) hear and determine an application for leave to appeal against an order made under section 164B(2)﻿(a).
 (3) A judgment of the Supreme Court may be delivered in the manner and by the number of Judges provided by rules made under section 148.
 (4) This section is subject to sections 82(1) and 84(1).
 
@@ -1341,12 +1348,59 @@ A Judge or Registrar of a senior court may, subject to any terms or conditions t
   (b) include a daily fee for each day on which the technical adviser is required to assist the court.
 (5) Civil or criminal proceedings may not be commenced against a technical adviser in relation to advice given to the court in good faith.
 
+**Striking out or otherwise dealing with plainly abusive civil proceeding**
+
+### 164A Registrar may refer plainly abusive civil proceeding to Judge
+(1) This section applies if—
+  (a) a civil proceeding is tendered for filing in the High Court, Court of Appeal, or Supreme Court; and
+  (b) the Registrar of the court in which the proceeding is tendered believes that, on the face of the proceeding, the proceeding is plainly an abuse of the process of the court.
+(2) If the Registrar accepts the proceeding for filing, the Registrar may,—
+  (a) as soon as practicable after accepting the proceeding for filing, refer it to a Judge of the court in which the proceeding was filed for consideration as to whether any orders or directions should be made or given under section 164B; and
+  (b) until the Judge has considered the proceeding under that section, decline to take any further actions in relation to the proceeding.
+
+### 164B Judge’s powers to make orders and give directions in respect of plainly abusive civil proceeding
+(1) This section applies if a Judge to whom a Registrar refers a civil proceeding under section 164A is satisfied that the proceeding is plainly an abuse of the process of the court.
+(2) The Judge may, on the Judge’s own initiative,—
+  (a) make an order that the proceeding be struck out; or
+  (b) make an order or give directions to ensure that the proceeding is disposed of or, as the case may be, proceeds in a way that complies with rules made under section 148 that apply to the relevant court.
+(3) The Judge may make an order or give directions under subsection (2)—
+  (a) on the papers; and
+  (b) without giving the person who filed the proceeding the opportunity to make submissions.
+Statements that must be contained in strike-out order
+(4) If the Judge makes an order under subsection (2)﻿(a) in respect of a proceeding filed by a person, the order must contain a statement stating the following matters:
+  (a) if the order is a first strike-out order for the purposes of section 164C, the consequences of a subsequent strike-out order being made, in respect of another proceeding filed by the person, within 2 years of the date of the first strike-out order, as specified in section 164C; and
+  (b) if the order is a subsequent strike-out order for the purposes of section 164C, that the person is restrained in the manner specified by section 164C(3) for the period specified in section 164C(4); and
+  (c) if the order is made by a Judge of the High Court or a Judge of the Court of Appeal, the person’s rights in respect of appeal against the order.
+
+**Automatic restraint on commencing or continuing civil proceeding**
+
+### 164C Automatic restraint on persons from commencing or continuing civil proceeding
+(1) This section applies if—
+  (a) an order is made under section 164B(2)﻿(a) in respect of a proceeding filed by a person (the first strike-out order); and
+  (b) after the first strike-out order is made, an order is made under section 164B(2)﻿(a) in respect of another proceeding filed by the same person (the subsequent strike-out order); and
+  (c) the subsequent strike-out order referred to in paragraph (b) is made within 2 years of the date that the first strike-out order was made.
+(2) For the purposes of subsection (1), it does not matter that—
+  (a) the first strike-out order and subsequent strike-out order were made in different courts; or
+  (b) the proceedings in respect of the first strike-out order and subsequent strike-out order were commenced against the same or different persons.
+(3) A person referred to in subsection (1) is restrained from doing any of the following in a senior court, another court, or a tribunal without first obtaining the leave of the High Court:
+  (a) commencing a civil proceeding (including an appeal):
+  (b) continuing a civil proceeding.
+(4) Subsection (3) applies until the earlier of the following:
+  (a) 3 years from the date that the subsequent strike-out order is made; or
+  (b) the first strike-out order or subsequent strike-out order is set aside on appeal.
+(5) In respect of an application for leave to commence or continue a civil proceeding by a person restrained by subsection (3),—
+  (a) the application for leave may be made without notice, but the court may direct that the application for leave be served on any specified person; and
+  (b) the application for leave must be determined on the papers, unless the Judge considers that an oral hearing should be conducted because there are exceptional circumstances and it is appropriate to do so in the interests of justice; and
+  (c) the High Court’s determination of the application for leave is final.
+(6) A restraint under subsection (3) does not apply to an appeal against an order made under section 164B(2)﻿(a).
+(7) This section does not prevent or affect the commencement of a private criminal prosecution in any case.
+
 **Contempt**
 
 ### 165 Contempt of court
 [Repealed]
 
-**Restriction on commencing or continuing proceeding**
+**Order restricting commencement or continuation of proceeding**
 
 ### 166 Judge may make order restricting commencement or continuation of proceeding
 (1) A Judge of the High Court may make an order restricting a person from commencing or continuing a civil proceeding.
@@ -1786,3 +1840,10 @@ In this Part, unless the context otherwise requires,—
   (b) rule 7 of the High Court (Access to Court Documents) Amendment Rules 2009; or
   (c) rule 5 of the High Court Amendment Rules 2010.
 (2) So far as the enactments referred to in subclause (1)﻿(a) to (c) may be applicable, they continue to have effect as if the Judicature Act 1908 had not been repealed.
+
+### Part 3 — Provision relating to Judicature (Timeliness) Legislation Amendment Act 2025
+
+### 13 Section 164A not to apply to existing proceedings
+(1) Section 164A does not apply to civil proceedings tendered for filing before the commencement date.
+(2) In this clause, commencement date means the date on which the Judicature (Timeliness) Legislation Amendment Act 2025 comes into force.
+  - ****
