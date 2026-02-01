@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2026-02-01_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -31,7 +31,7 @@ This Act is the Coroners Act 2006.
   (e) if an inquiry is to be opened and conducted,—
     (i) to open and conduct it for the 3 purposes stated in subsection (2) (and in section 57), and not to determine civil, criminal, or disciplinary liability; and
     (ii) to determine related matters such as whether to prohibit the making public of evidence and whether to authorise the making public of certain particulars of deaths suspected or found to be self-inflicted deaths; and
-    (iii) on completing it, to complete and sign a certificate of findings in relation to the death; and
+    (iii) to complete and sign a certificate of findings in relation to the death (if the inquiry is completed and not earlier closed); and
   (f) to give members and representatives of the immediate family of the person who is, or of a person who is suspected to be, the dead person concerned, and certain others, notice of significant matters in the carrying out of the duties and processes required by law to be performed or followed in relation to the death.
 (2) The 3 purposes referred to in subsection (1)﻿(e)﻿(i) are—
   (a) to establish, so far as possible,—
@@ -72,9 +72,11 @@ In performing or exercising a function, power, or duty, a coroner must have rega
   (a) custody and removal of bodies:
   (b) interests of families and other relevant people or organisations:
   (c) release of bodies, and retention and return of body parts and bodily samples.
-(3) Part 3 deals with the opening and conduct of inquiries into the causes and circumstances of deaths and, in particular,—
-  (a) holding of inquests, and completion of inquiries:
-  (b) inquiries or further inquiries ordered by the Solicitor-General or the High Court.
+(3) Part 3 deals with—
+  (a) the opening and conduct of inquiries into the causes and circumstances of deaths and, in particular,—
+    (i) the holding of inquests and completion of inquiries:
+    (ii) inquiries or further inquiries ordered by the Solicitor-General or the High Court; and
+  (b) the closing of inquiries.
 (4) Part 4 relates to appointments (including removal of, and complaints about, the chief coroner and other coroners), administration, powers, offences and penalties, and technical matters (including regulations and repeals).
 (5) This section is only a guide to the general scheme and effect of this Act.
 
@@ -393,6 +395,7 @@ A coroner is not required to view any body.
 ### 28 Any person may access specified certificates and notices
 (1) On a written request for the purpose made to the responsible department, any person may, without charge, during ordinary office hours inspect and, on payment of the charge (if any) fixed by an officer or employee of the responsible department under section 30, obtain a copy of a certificate or notice given to the Secretary under this Act and that is—
   (a) a notice under section 64 of a coroner's decision not to open an inquiry; or
+  (aa) a notice under section 65A(5) of a coroner’s decision to close an inquiry that the coroner has opened; or
   (b) a notice under section 70(4) of a coroner's decision not to open or resume a postponed or adjourned inquiry; or
   (c) a certificate under section 93 of a coroner's interim findings in relation to a death (which includes a written statement of the reasons for those findings); or
   (d) a certificate under section 94 of a coroner's findings in relation to a death (which includes a written statement of the reasons for those findings).
@@ -633,13 +636,14 @@ In ascertaining whether the family members or other people to whom the body is t
 (1) A part or sample referred to in section 53 or 55 may be retained, or may be returned subject to specified conditions (for example, conditions relating to the storage of the part or sample in a sealed container) if, in the pathologist's opinion, returning it, or returning it otherwise than subject to the specified conditions, would endanger the health or safety of the public or a member of the public.
 (2) No part or sample referred to in section 53, 55, or 56 may be returned or disposed of under that section unless—
   (a) the coroner has first confirmed in writing that the return or disposal (as the case requires) of the part or sample appears unlikely to prejudice the prevention, detection, investigation, prosecution, and punishment of criminal offences relating to the death concerned or its circumstances; and
-  (b) the return or disposal is otherwise lawful.
+  (b) the return or disposal is otherwise lawful; and
 
 ### 55 Return on request of retained parts and samples
 (1) This section applies to a part or sample whose return is sought by a request under section 50 or 51.
 (2) The part or sample must, to the extent that it has not been destroyed in the course of analysis conducted for the purpose for which it was retained, be returned to the makers of the request when—
   (a) the coroner, having conducted and completed an inquiry into the death, completes and signs a certificate of findings in accordance with section 94; or
   (b) the coroner notifies the Secretary, under section 64, of the coroner's decision not to open an inquiry.
+  (c) the coroner notifies the Secretary of the coroner’s decision to close an inquiry under section 65A.
 (3) However, the part or sample need not be returned, and may be used and disposed of under section 56, if the makers of the request cannot, after all reasonable efforts for the purpose have been made, be located.
 (4) Subsection (3) overrides subsection (2).
 (5) This section is subject to section 54.
@@ -782,6 +786,39 @@ In deciding whether to open and conduct an inquiry, a coroner must have regard t
 ### 65 Coroner may decide to open inquiry despite initial decision
 (1) A coroner who, after deciding not to open an inquiry, becomes satisfied (whether because of information not available at the time of deciding, or for any other reason) that it is desirable to open an inquiry into the death concerned, may do so.
 (2) Clause 14 of Schedule 3 empowers a coroner to open an inquiry under this section following a decision under section 20 of the Coroners Act 1988 not to hold an inquest.
+
+### 65A Coroner may close inquiry despite initial decision
+Grounds for closing inquiry
+(1) A coroner, after deciding to open an inquiry (the initial decision), may close that inquiry if the coroner—
+  (a) is satisfied that new information unavailable at the time of the initial decision, or another change in circumstances, means that it is no longer appropriate to conduct the inquiry; and
+  (b) has considered submissions made under subsection (4).
+Restrictions on closing inquiry
+(2) However, a coroner must not close an inquiry under subsection (1)—
+  (a) that is required to be opened and conducted under section 60; or
+  (b) on or after the date fixed for an inquest under section 81(1) or (2); or
+  (c) if the coroner is not satisfied of the matters in section 92(1); or
+  (d) if the inquiry is ordered by the Solicitor-General or the High Court under any of sections 95 to 97.
+Notification of proposal to close inquiry
+(3) Before deciding to close an inquiry under subsection (1), a coroner must notify interested parties, in an approved form, of the proposal to close the inquiry, including—
+  (a) the reasons for proposing to close the inquiry; and
+  (b) a statement that the coroner is satisfied as to the identity of the dead person concerned.
+(4) Persons notified under subsection (3) may make submissions to the coroner on the proposal within 15 working days of the notification being made.
+Notification after inquiry closed
+(5) A coroner who decides to close an inquiry under subsection (1) must notify the following persons of the decision in an approved form:
+  (a) the Secretary:
+  (b) interested parties.
+(6) An approved form under subsection (5) must contain or have attached to it, as the case requires,—
+  (a) the coroner’s reasons for the decision to close the inquiry; and
+  (b) if any submissions are made under subsection (4), the coroner’s consideration of those submissions; and
+  (c) the cause of death to the extent that it is known; and
+  (d) a statement that the coroner is satisfied as to the identity of the dead person concerned.
+(7) The coroner may record the cause of death as presumed natural causes if the coroner is satisfied, based on the evidence gathered to date, that—
+  (a) the death appears to be from natural causes; and
+  (b) no further investigation is required to discharge the coroner’s role under this Act.
+(8) In the coroner’s notification under subsection (5), the coroner is not required to provide information about the circumstances of the death concerned if the coroner—
+  (a) takes into account the public interest in the circumstances of the death; and
+  (b) considers that there is no clear benefit to the public in providing the information.
+(9) The coroner’s notification under subsection (5) prevails over a certificate of interim findings issued under section 93 in relation to the death concerned.
 
 ### 66 Which coroner conducts inquiry
 [Repealed]
@@ -972,7 +1009,9 @@ The following have the same privileges and immunities as witnesses and counsel i
 (3) The specialist adviser must give the advice—
   (a) on any questions referred to the specialist adviser; and
   (b) in any manner the coroner may direct.
-(4) The appointment of a specialist adviser ends when the coroner conducting the inquiry concerned completes and signs a certificate of findings in relation to the death concerned.
+(4) The appointment of a specialist adviser ends when—
+  (a) the coroner conducting the inquiry concerned closes the inquiry under section 65A; or
+  (b) the coroner conducting the inquiry concerned completes and signs a certificate of findings in relation to the death concerned.
 (5) Advice given by a specialist adviser may be given any weight the coroner thinks fit.
 
 ### 84 Joint inquests
@@ -1060,15 +1099,17 @@ A person who gives evidence at an inquest—
   (b) all interested parties.
 
 ### 94A Chief coroner to monitor inquiries not completed within 1 year
-If a coroner conducting an inquiry into a death has not, in respect of the death, completed and signed a certificate of findings under section 94 within 1 year of the date on which the death was reported to the coroner, the chief coroner—
+(1) If a coroner conducting an inquiry into a death has not, in respect of the death, completed and signed a certificate of findings under section 94 within 1 year of the date on which the death was reported to the coroner, the chief coroner—
   (a) must monitor the progress of the inquiry; and
   (b) may require the coroner conducting the inquiry to explain why he or she has not concluded the inquiry.
+(2) Subsection (1) does not apply if an inquiry is closed under section 65A.
 
 ### 94B Chief coroner to publish information regarding certain inquiries for which findings not completed
 (1) The chief coroner must, at regular intervals, publish—
   (a) a list of all inquiries in respect of which an inquest, or a hearing on the papers, has been held but a certificate of findings has not been completed and signed under section 94; and
   (b) for each inquiry, the date on which the inquest, or hearing on the papers, was held.
 (2) In addition to the information specified in subsection (1), the chief coroner must publish an explanation of the process by which a person can find out the status of an inquiry in relation to which an inquest, or a hearing on the papers, has been held but a certificate of findings has not yet been completed and signed.
+(3) However, this section does not apply to an inquiry closed under section 65A.
 
 **Inquiries or further inquiries ordered by Solicitor-General or High Court**
 
@@ -1298,7 +1339,8 @@ The chief coroner must, after consulting the Attorney-General, develop and publi
 ### 118 Coroner may call for investigations or examinations or commission reports
 (1) A coroner may cause to be made by other persons any investigations or examinations, or commission from them any reports, medical or otherwise, the coroner thinks proper—
   (a) for the purpose of deciding whether to open an inquiry; or
-  (b) if the coroner is to open an inquiry, or has opened and not completed one.
+  (b) if the coroner is to open an inquiry, or has opened and not completed one; or
+  (c) for the purpose of deciding whether to close an inquiry that has been opened.
 (2) Before acting under this section, a coroner must have regard to any relevant practice notes issued under section 132 by the chief coroner.
 (3) This section does not limit or affect a coroner's powers under any other enactment, for example, under section 200 (coroner may call for report on fatal accident) of the Health and Safety at Work Act 2015.
 
@@ -1617,6 +1659,12 @@ Section 77 (as it read before the commencement date) continues to apply as if th
   (b) the coroner receives a notification of the kind referred to in section 77(1)﻿(b)—
     (i) before, on, or after the commencement date; but
     (ii) within the notification period stated in the notice.
+
+### Part 3 — Provision relating to Judicature (Timeliness) Legislation Amendment Act 2025
+
+### 8 Application of section 65A to inquiries opened before, on, or after commencement date
+(1) An inquiry opened before, on, or after the commencement date is an inquiry for the purposes of section 65A.
+(2) In this clause, commencement date means the date on which section 65A of this Act comes into force.
 
 ## Schedule 2 — Functions or powers available day after assent
 
