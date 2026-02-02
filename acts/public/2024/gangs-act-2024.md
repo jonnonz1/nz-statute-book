@@ -1,5 +1,5 @@
 # Gangs Act 2024
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2026-02-02_
 
 ### 1 Title
 This Act is the Gangs Act 2024.
