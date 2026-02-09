@@ -5,7 +5,7 @@ _Consolidation as at 2026-02-09_
 This Act is the Ngāti Hāua Claims Settlement Act 2026.
 
 ### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
+This Act comes into force on 10 February 2026.
 
 ## Part 1 — Preliminary matters, historical account, acknowledgements and apology, and settlement of historical claims
 
