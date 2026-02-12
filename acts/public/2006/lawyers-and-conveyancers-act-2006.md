@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2026-02-12_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -3757,49 +3757,25 @@ If any proceedings to which section 353 applies have not been determined by the 
 **Transitional provisions relating to Solicitors' Fidelity Guarantee Fund**
 
 ### 363 Continuation of Part 9 of Law Practitioners Act 1982
-Despite the repeal of the Law Practitioners Act 1982 by section 349, the provisions of Part 9 of the Law Practitioners Act 1982 and of the Solicitors' Guarantee Fund Rules 1936 (SR 1936/60) are, subject to sections 364 to 369, to continue to be in force until section 370 comes into force.
+[Repealed]
 
 ### 364 Money payable into Solicitors' Fidelity Guarantee Fund
-For the purposes of section 363, section 160 of the Law Practitioners Act 1982 must be read as if, for paragraphs (a) and (aa), there were substituted the following paragraphs:
-  (aa) all sums standing to the credit of the fund on the repeal of the Law Practitioners Act 1982 by section 349 of the Lawyers and Conveyancers Act 2006:
-  (a) all sums paid to or on account of the fund by solicitors, either as annual contributions or as levies, in accordance with this Part of this Act:
+[Repealed]
 
 ### 365 Claims in relation to Solicitors' Fidelity Guarantee Fund
-(1) No person has any claim against the Solicitors' Fidelity Guarantee Fund in relation to any theft committed on or after the date on which the repeal of the Law Practitioners Act 1982 takes effect.
-(2) No person has any claim against the Solicitors' Fidelity Guarantee Fund in respect of any theft committed before the date on which the repeal of the Law Practitioners Act 1982 takes effect unless that person has, on or before the last date for submitting claims, given notice of the claim in writing to the Council of the New Zealand Law Society or to the Management Committee appointed under Part 9 of the Law Practitioners Act 1982.
-(3) The last date for submitting a claim is the last day of the period of 12 months beginning with the date on which a report under section 367 is submitted by the New Zealand Law Society to the Minister.
+[Repealed]
 
 ### 366 Public notice of last day for making claims
-(1) The New Zealand Law Society must give public notice of the last date for submitting any claim against the Solicitors' Fidelity Guarantee Fund in respect of any theft committed before the date on which the repeal of the Law Practitioners Act 1982 takes effect.
-(2) The public notice under subsection (1) must be given at least twice before that last date, the first such notice being given not less than 3 months before that date and the second being given not more than 1 month and not less than 14 days before that date.
+[Repealed]
 
 ### 367 Winding up of Solicitors' Fidelity Guarantee Fund
-(1) If the Council of the New Zealand Law Society or the Management Committee appointed under Part 9 of the Law Practitioners Act 1982 forms the opinion that all claims against the Solicitors' Fidelity Guarantee Fund that it is aware of have been received and fully dealt with, it must submit a report to the Minister stating that opinion and outlining the reasons for that opinion.
-(2) If, in the period of 12 months beginning with the date on which the Council of the New Zealand Law Society or the Management Committee appointed under Part 9 of the Law Practitioners Act 1982 submits a report under subsection (1), further claims against the Solicitors' Fidelity Guarantee Fund are submitted to the Council or the Committee, it must receive, and deal with, those claims.
-(3) After the expiration of the period of 12 months referred to in subsection (2), the Council of the New Zealand Law Society and the Management Committee appointed under Part 9 of the Law Practitioners Act 1982 must decline to receive any further claims against the Solicitors' Fidelity Guarantee Fund.
-(4) If—the New Zealand Law Society must so inform the Minister and submit to the Minister its final report and final audited accounts in respect of the Fund.
-  (a) no further claims against the Solicitor's Fidelity Guarantee Fund are received in the period referred to in subsection (2); or
-  (b) the Council of the New Zealand Law Society or the Management Committee appointed under Part 9 of the Law Practitioners Act 1982 has fully dealt with any further claims against the Solicitor's Fidelity Guarantee Fund that were received in the period referred to in subsection (2),—
-(5) The Minister may, on receiving that report and those accounts, recommend to the Governor-General the making of an Order in Council declaring that the Solicitors' Fidelity Guarantee Fund is deemed to be wound up.
-(6) An order under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 368 Completion of determination of claim
-(1) For the purposes of section 367, a claim is fully dealt with when—
-  (a) the Council of the New Zealand Law Society or the Management Committee within the meaning of Part 9 of the Law Practitioners Act 1982 has notified a claimant of its final determination in relation to the claim; and
-  (b) either—
-    (i) the claimant does not, in the manner prescribed by subsection (2) or subsection (3), lodge an objection to the determination within 90 days after the date on which a copy of the determination is given to the claimant; or
-    (ii) any objection lodged, in the manner prescribed by subsection (2) or subsection (3), is finally disposed of.
-(2) If, before a copy of the determination is given to the claimant, the claimant has commenced proceedings against the New Zealand Law Society in relation to the claim, the claimant may,—
-  (a) if the originating document in relation to the proceedings has been served on the New Zealand Law Society before the copy of the determination is given to the claimant, lodge an objection to the determination only by serving on the New Zealand Law Society a written notice stating that the claimant both objects to the determination and intends to proceed with the proceedings; or
-  (b) if the originating document in relation to the proceedings has not been served on the New Zealand Law Society before the copy of the determination is given to the claimant, lodge an objection to the determination only by serving that document on the New Zealand Law Society.
-(3) In any case to which subsection (2) does not apply, the claimant may lodge an objection to the determination only by commencing proceedings against the New Zealand Law Society in relation to the claim and serving a copy of the originating document in relation to those proceedings on that society.
-(4) If the claimant lodges, in accordance with subsection (2) or subsection (3), an objection to the determination, the determination is not to be treated as having been fully dealt with until the proceedings commenced by the claimant have been finally disposed of or discontinued.
+[Repealed]
 
 ### 369 Application of Solicitors' Fidelity Guarantee Fund on winding up
-(1) From the commencement of the date on which the Solicitors' Fidelity Guarantee Fund is deemed to be wound up, any remaining assets of the fund cease to be held by the New Zealand Law Society in trust for the purposes appearing in Part 9 of the Law Practitioners Act 1982 and must be applied by the New Zealand Law Society in accordance with subsection (2).
-(2) The residue of the fund and any other money produced by the realisation of the other remaining assets of the fund must be applied as follows:
-  (a) one-third must be paid into the Lawyers' Fidelity Fund to be held and applied as part of that fund:
-  (b) the other two-thirds must be held in trust by the New Zealand Law Society to be applied by that society in carrying out its functions under section 66 (representative functions).
+[Repealed]
 
 ### 370 Repeal of provisions relating to Solicitors' Fidelity Guarantee Fund
 (1) Sections 363 to 369 are repealed.
