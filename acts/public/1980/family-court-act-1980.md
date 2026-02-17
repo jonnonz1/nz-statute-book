@@ -1,5 +1,5 @@
 # Family Court Act 1980
-_Consolidation as at 2023-10-06_
+_Consolidation as at 2026-02-17_
 
 > Title
 
@@ -18,6 +18,9 @@ In this Act, unless the context otherwise requires,—
   - **District Court Rules** means the rules made under section 228 of the District Court Act 2016
   - **Family Court Judge** includes the Principal Family Court Judge
   - **Family Court Rules** means the rules made under section 16A.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -275,6 +278,47 @@ While any Family Court Rules are in force, all proceedings in the Family Court (
     (iii) one in which the court receives evidence or further evidence.
 (4) The effect of section 5(3) of the Evidence Act 2006 is that that Act applies to the proceeding. However, the court hearing the proceeding may receive any evidence, whether or not admissible under the Evidence Act 2006, that the court considers may assist it to determine the proceeding.
 
+### 12B Restriction on commencing or continuing proceedings under specified Acts in cases of litigant abuse
+(1) This section applies if a Judge—
+  (a) is satisfied that, having regard to all of the circumstances, a party to a proceeding under a specified Act has exhibited conduct that is litigant abuse; and
+  (b) has given the party a reasonable opportunity to be heard.
+(2) The Judge may at any time during the course of the proceeding, on the court’s initiative or on an interlocutory application for the purpose, order that the party may do any or all of the following only with the leave of a Judge:Guidance noteSection 4 of the Care of Children Act 2004 applies to a Judge’s decision to—
+  (a) take any further step in the proceeding (including in an interlocutory proceeding):
+  (b) take any further step in a related proceeding (including in an interlocutory proceeding) under a specified Act if there is evidence that the party has exhibited conduct in that proceeding that is litigant abuse:
+  (c) commence, or take any further step in, a new proceeding (or an interlocutory proceeding) under a specified Act that is—
+    (i) of any kind, or of any specified kind; or
+    (ii) in respect of any specified person; or
+    (iii) in respect of any specified matter.
+  (a) make an order under subsection (2) if the order would affect proceedings involving the guardianship of, or the role of providing day-to-day care for, or contact with, a child; or
+  (b) grant leave in respect of an order made under subsection (2) if the leave would affect proceedings involving the guardianship of, or the role of providing day-to-day care for, or contact with, a child.
+(3) However, an order made under subsection (2) does not prevent the party from lodging an appeal or filing a judicial review in respect of a proceeding (including an interlocutory proceeding).
+(4) The Judge must have regard to the following in considering the circumstances referred to in subsection (1)﻿(a):
+  (a) the party’s conduct during the course of the proceeding; and
+  (b) the party’s conduct in any other proceedings (including any interlocutory or related proceedings) that is litigant abuse; and
+  (c) the party’s conduct outside of proceedings that is intended to annoy, harass, or harm, or that amounts to psychological abuse of, any other party to the proceeding or the related proceedings; and
+  (d) any other matter that the Judge considers relevant.
+(5) An order made under subsection (2) continues in force for 3 years unless—
+  (a) the order specifies a shorter period, in which case the order continues in force for that shorter period; or
+  (b) in the Judge’s opinion, there are extraordinary circumstances that warrant a longer period (which may not exceed 5 years), in which case the order continues in force for that longer period.
+(6) An applicant for an order under subsection (2), or a party subject to an order under subsection (2), may appeal to the High Court against the whole or a part of the Judge's decision to make, or refuse to make, an order under subsection (2).
+(7) Nothing in this section limits—
+  (a) any provision in any other enactment that empowers the court to restrict the commencement or continuation of any proceeding; or
+  (b) the inherent powers of the court.
+(8) In this section,—
+  - **litigant abuse** means abuse of another party to the proceedings, and—
+    (a) includes conduct that is intended to annoy, harass, or harm that other party, or that amounts to psychological abuse; and
+    (b) may include a number of acts that form part of a pattern of behaviour (even if all or any of those acts, when viewed in isolation, appear to be minor or trivial)
+  - **psychological abuse** has the same meaning as in section 11 of the Family Violence Act 2018
+  - **related proceedings** means any proceedings under a specified Act that involve the same parties
+  - **specified Act** means any of the following Acts:
+    (a) the Status of Children Act 1969:
+    (b) the Domestic Actions Act 1975:
+    (c) the Property (Relationships) Act 1976:
+    (d) the Family Proceedings Act 1980:
+    (e) the Child Support Act 1991:
+    (f) the Care of Children Act 2004:
+    (g) the Family Violence Act 2018.
+
 ### 13 Court may state case for High Court
 The Family Court may, on the application of any party to any proceedings before the court, or of its own motion, state a case for the opinion of the High Court on any question of law arising in any matter before the court.
 
@@ -460,6 +504,17 @@ The following provisions are repealed:
 (1) Subject to subsections (2) and (3), all matters and proceedings commenced under any enactment before the commencement of section 11 and required by virtue of that section to be heard and determined in a Family Court, shall be continued in a Family Court.
 (2) All matters and proceedings commenced in the High Court under the Matrimonial Proceedings Act 1963 or the Guardianship Act 1968 before the commencement of section 11 and required by virtue of that section to be heard and determined in a Family Court, shall, notwithstanding that section, be continued in the High Court.
 (3) Where the hearing of any matter or proceeding referred to in subsection (1) has commenced in a District Court before the commencement of this Act, the matter or proceeding shall be continued in a District Court as if this Act had not been passed.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Victims of Family Violence (Strengthening Legal Protections) Legislation Act 2025
+
+### 1 Application of section 12B
+(1) This clause applies to section 12B (as inserted by the Victims of Family Violence (Strengthening Legal Protections) Legislation Act 2025).
+(2) That section applies, on and after its commencement (the commencement), to—
+  (a) proceedings commenced on or after the commencement; and
+  (b) proceedings commenced before the commencement and not finally determined (including any rehearing, retrial, or appeal) before the commencement.
+(3) However, in determining whether to make an order under section 12B(2), the Judge must only have regard to a party’s conduct that occurred after the commencement.
 
 ## Schedule 1 — Enactments amended
 
