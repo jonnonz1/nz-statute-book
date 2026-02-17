@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2023-10-06_
+_Consolidation as at 2026-02-17_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -1717,7 +1717,11 @@ The court may dismiss proceedings before it under this Act if it is satisfied—
 (2) A Family Court Judge may order that the person may commence either of the following only with the leave of a Family Court Judge or Family Court Associate:
   (a) proceedings under this Act of any kind:
   (b) proceedings under this Act of any specified kind or in respect of any specified person or matter.
-(3) Nothing in this section limits sections 166 to 169 of the Senior Courts Act 2016 (which empowers the High Court to make orders restricting the institution or continuation of vexatious proceedings).
+(3) Nothing in this section limits—
+  (a) sections 166 to 169 of the Senior Courts Act 2016 (which empowers the High Court to make orders restricting the institution or continuation of vexatious proceedings); or
+  (b) section 12B of the Family Court Act 1980 (which empowers the Family Court to make orders restricting the commencement or continuation of proceedings under specified Acts where there has been litigant abuse); or
+  (c) section 216A of the District Court Act 2016 (which empowers the District Court to make orders restricting the commencement or continuation of proceedings under specified Acts where there has been litigant abuse); or
+  (d) section 169A of the Senior Courts Act 2016 (which empower the High Court, the Court of Appeal, and the Supreme Court to make orders restricting the commencement or continuation of proceedings under specified Acts where there has been litigant abuse).
 
 ### 142 Costs
 (1) In any proceedings under this Act, the court may make any order as to costs it thinks fit.
