@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2026-02-17_
 
 > Title
 
@@ -3408,6 +3408,7 @@ In any proceedings under this Act (other than criminal proceedings), a court may
 ### 227 Vexatious proceedings
 (1) The Family Court or District Court may dismiss any proceeding before it under this Act if it is satisfied that it is frivolous or vexatious or an abuse of the procedure of the court.
 (2) The Family Court or District Court may, if it is satisfied that a person has persistently instituted vexatious proceedings under this Act or any former Act (whether against the same person or against different persons), after giving the first-mentioned person an opportunity of being heard, order that no proceeding under this Act, or no such proceeding of any specified kind or against any specified person, shall be commenced by the first-mentioned person without the leave of the court.
+(3) Nothing in this section limits section 12B of the Family Court Act 1980 or section 216A of the District Court Act 2016.
 
 ### 228 Evidence
 [Repealed]
