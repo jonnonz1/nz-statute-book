@@ -1,5 +1,5 @@
 # Family Proceedings Act 1980
-_Consolidation as at 2025-10-17_
+_Consolidation as at 2026-02-17_
 
 > An Act to revise the law relating to matrimonial and domestic proceedings
 
@@ -1373,6 +1373,7 @@ In any proceedings under this Act (other than criminal proceedings), a court may
 ### 163 Vexatious proceedings
 (1) The District Court or the Family Court may dismiss any proceedings before it under this Act if it is satisfied that they are frivolous or vexatious or an abuse of the procedure of the court.
 (2) The District Court or the Family Court may, if it is satisfied that a person has persistently instituted vexatious proceedings under this Act or any former Act (whether against the same person or against different persons), after giving the first-mentioned person an opportunity of being heard, order that no proceedings under this Act, or no such proceedings of any specified kind or against any specified person, shall be commenced by the first-mentioned person without the leave of the court.
+(3) Nothing in this section limits section 12B of the Family Court Act 1980 or section 216A of the District Court Act 2016.
 
 ### 164 Evidence
 [Repealed]
