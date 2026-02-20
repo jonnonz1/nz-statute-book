@@ -5,7 +5,7 @@ _Consolidation as at 2026-02-20_
 This Act is the Juries (Age of Excusal) Amendment Act 2026.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 21 February 2026.
 
 ### 3 Principal Act
 This Act amends the Juries Act 1981.
