@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2025-12-20_
+_Consolidation as at 2026-02-21_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -41,6 +41,9 @@ _Consolidation as at 2025-12-20_
   - **trial** includes, in civil cases, an inquiry or assessment of damages
   - **view** means a visual inspection by jurors of any place or premises, a view of which is considered by the court to be proper or necessary for the better understanding of the evidence that may be given at the trial before the jurors, or material to the proper determination of the question in dispute.
 (2) For the purpose of issuing a summons under section 13 or for any applications made under any or all of sections 14A, 14AB, 14B, 14C, 15, 15A, and 29A, any requirement that the applications be made by writing or in the form of a document is satisfied by an electronic communication that, subject to any rules made under section 35, is in a form acceptable to the Registrar.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 3 Act binds Crown
 This Act binds the Crown.
@@ -266,7 +269,7 @@ A jury list remains current until it is replaced by a new list provided by the E
 (1B) The Registrar may, if the Registrar thinks fit, treat an application under this section as if it were an application for deferral under section 14B and, if the Registrar does so, the application must be determined accordingly.
 (2) The Registrar must excuse a person summoned to attend as a juror on an occasion from attending on that occasion if satisfied, on a written application for the purpose made by or on behalf of the person, that the person—
   (a) is a practising member of a religious sect or order that holds service as a juror to be incompatible with its tenets; or
-  (aa) is of or over the age of 65 years; or
+  (aa) is of or over the age of 72 years; or
   (b) has served, or (having been summoned) has attended for service, as a juror at any time within the preceding period of 2 years; or
   (c) has been excused from jury service for a period that has not yet expired.
 (3) The Registrar may ask a person to provide evidence in support of an application under this section if the Registrar reasonably thinks that evidence of that kind is necessary in order to determine the application.
@@ -274,7 +277,7 @@ A jury list remains current until it is replaced by a new list provided by the E
 
 ### 15A Registrar's discretion and duty to excuse from jury service permanently
 (1) The Registrar may excuse a person summoned to attend as a juror on an occasion from attending in any court on any occasion if satisfied, on a written application for the purpose made by or on behalf of the person, that, because of the person's disability or state of health, the person would not, if required to attend as a juror in any court on any occasion, be able to perform a juror's duties satisfactorily.
-(2) The Registrar must excuse a person summoned to attend as a juror on an occasion from attending in any court on any occasion if satisfied, on a written application for the purpose made by or on behalf of the person, that the person is of or over the age of 65 years.
+(2) The Registrar must excuse a person summoned to attend as a juror on an occasion from attending in any court on any occasion if satisfied, on a written application for the purpose made by or on behalf of the person, that the person is of or over the age of 72 years.
 (3) The Registrar must cancel a person's permanent excusal under subsection (2) promptly after receiving a written application for the purpose made by or on behalf of the person.
 (4) The Registrar may ask a person to provide evidence in support of an application under this section if the Registrar reasonably thinks that evidence of that kind is necessary in order to determine the application.
 (5) If the Registrar declines an application under this section, the applicant may, in accordance with the jury rules, appeal against that decision to the court before which the applicant is summoned to appear.
@@ -609,6 +612,18 @@ Effect of temporary provisions
 (1) Clauses 1, 4 to 15, 17, 20, 21, 23, and 25 of Schedule 2 are repealed on the date on which the COVID-19 Public Health Response Act 2020 is repealed.
 (2) This section, section 38 and the cross-heading above it, and the rest of Schedule 2 are repealed on the second anniversary of the date on which the COVID-19 Public Health Response Act 2020 is repealed.
 (3) A protocol made under clause 4 is revoked on the date on which the COVID-19 Public Health Response Act 2020 is repealed.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Juries (Age of Excusal) Amendment Act 2026
+
+### 1 Amendment to age of excusal does not apply to certain summonses
+(1) The amendments to sections 15 and 15A of this Act by the Juries (Age of Excusal) Amendment Act 2026 do not apply to a person in respect of a summons issued to that person before the commencement date.
+(2) In this clause,—
+  - **commencement date** means the date on which the Juries (Age of Excusal) Amendment Act 2026 comes into force
+  - **summons** means—
+    (a) a summons issued under section 13(1) of this Act; or
+    (b) a replacement summons referred to in section 14C(1)﻿(c) or clause 19(4)﻿(b) of Schedule 2 of this Act.
 
 ## Schedule 1 — Enactments repealed
 
