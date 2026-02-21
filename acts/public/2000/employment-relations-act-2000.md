@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2026-02-21_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -94,6 +94,7 @@ A party to an employment relationship who fails to comply with the duty of good 
 ### 5 Interpretation
 In this Act, unless the context otherwise requires,—
   - **agreed hours of work** means the hours of work specified in accordance with section 67C(1)
+  - **annual remuneration** , in relation to an employee, has the meaning given to it by section 67I(4)
   - **applicable collective agreement** means the collective agreement that is binding on the relevant union and employer, at the relevant point in time in relation to an employee of the employer who is a member of the union
   - **Authority** means the Employment Relations Authority established by section 156
   - **bargaining** , in relation to bargaining for a collective agreement,—
@@ -171,6 +172,7 @@ In this Act, unless the context otherwise requires,—
   - **relevant Acts** ,—
     (a) in sections 223A and 223B, means the Acts specified in section 223(1), except section 69LA of this Act:
     (b) in sections 223D to 223F, means the Acts specified in section 223(1), except Part 5 and section 69LA of this Act
+  - **specified remuneration threshold** has the meaning given to it by section 113B
   - **strike** has the meaning given to it by section 81
   - **union** means a union registered under Part 4
   - **wages** includes amounts payable to an employee in respect of services provided to the employer—
@@ -191,7 +193,8 @@ Schedule 1AA contains application, savings, and transitional provisions relating
     (ii) a person intending to work; but
   (c) excludes a volunteer who—
     (i) does not expect to be rewarded for work to be performed as a volunteer; and
-    (ii) receives no reward for work performed as a volunteer.
+    (ii) receives no reward for work performed as a volunteer; and
+  (d) excludes a specified contractor.
   (d)
 (1A)
 (2) In deciding for the purposes of subsection (1)﻿(a) whether a person is employed by another person under a contract of service, the court or the Authority (as the case may be) must determine the real nature of the relationship between them.
@@ -208,7 +211,20 @@ Schedule 1AA contains application, savings, and transitional provisions relating
     (i) is the applicant; or
     (ii) has consented in writing to another person applying for the order; and
   (b) the other person who is alleged to be the employer of the person is a party to the application or has an opportunity to be heard on the application.
+(7) In this section, specified contractor means a person (person A) who has entered into an arrangement with another person (person B) under which person A either performs work for person B or performs work for a third party that is facilitated by person B, and—
+  (a) that arrangement includes a written agreement that specifies that person A—
+    (i) is an independent contractor; or
+    (ii) is not an employee; and
+  (b) person A is not restricted from performing work for any other person, except while performing work for person B or facilitated by person B; and
+  (c) either—
+    (i) person A is not required to perform, or be available to perform, work for person B or facilitated by person B at a specified time or on a specified day or for a minimum period; or
+    (ii) person A is allowed to subcontract the work for person B or facilitated by person B to another person (person C) and person B—
+      (A) does not require person C to undergo vetting before being subcontracted by person A; or
+      (B) requires person C to undergo vetting before being subcontracted by person A, but only to ensure compliance with any relevant statutory requirements, or, if justified by the nature of the work, to check for a relevant qualification or criminal record, or both (as the case may be); and
+  (d) the arrangement may not be terminated for the reason that person A declines any work offered to them by person B (whether for or facilitated by person B) that is additional to the work that person A agreed to perform under the arrangement; and
+  (e) person A had a reasonable opportunity to seek independent advice before entering into the arrangement.
 (7)
+(8) Person A is not restricted from performing work for any other person under subsection (7)﻿(b) if the hours of work for person B or facilitated by person B are such that they have the effect of restricting person A’s ability to perform work for any other person.
 
 ### 6A Status of examples
 (1) In this Act, an example is only illustrative of the provision it relates to and does not limit the provision.
@@ -463,22 +479,7 @@ Every person commits an offence and is liable on conviction by the court to a fi
 **Employer’s information sharing obligations**
 
 ### 30A Union may provide employer with information about role and functions of union to pass on to prospective employees
-(1) A union that is a party to a collective agreement may, at any time, request an employer that is a party to the agreement to provide certain specified information about the role and functions of the union to prospective employees under section 63B(3)﻿(b).
-(2) The union must—
-  (a) specify the information that the union requests the employer to provide to prospective employees; and
-  (b) specify the form in which the union requests the employer to provide the information to prospective employees; and
-  (c) provide the information to the employer in the specified form.
-(3) The employer or a representative of the employer may refuse to comply with the request only if—
-  (a) the information is confidential; or
-  (b) the information—
-    (i) is about the employer; and
-    (ii) would, or is likely to, mislead or deceive the prospective employee; and
-    (iii) would significantly undermine bargaining between the employer and the prospective employee.
-(4) An employer who agrees to comply with the request must provide the information to prospective employees under section 63B(3)﻿(b) in the specified form.
-(5) An employer must be treated as having agreed to comply with the request if the employer or a representative of the employer does not respond to the request within 15 working days.
-(6) If the union requests under subsection (2)﻿(b) that the employer provide hard copies of the information to prospective employees,—
-  (a) the union must supply to the employer any hard copies of the information that the employer is requested to provide to prospective employees; and
-  (b) the employer must notify the union in writing when the employer requires further hard copies of the information to comply with the request.
+[Repealed]
 
 ## Part 5 — Collective bargaining
 
@@ -1010,41 +1011,25 @@ The object of this Part is—
     (i) resigns as a member of a union and enters into an individual employment agreement with the same employer; or
     (ii) enters into a new individual employment agreement with the same employer.
 (2) For the purposes of subsection (1)﻿(a), a collective agreement that includes a coverage clause referring to named employees, or the work done by named employees, to whom the collective agreement applies must be treated as covering the work or type of work done by the named employees (whether done by those employees or any other employees).
-(3) For the first 30 days after the new employee commences employment with the employer, the employee's terms and conditions of employment comprise—
-  (a) the terms and conditions in the collective agreement that would bind the employee if the employee were a member of the union (other than any bargaining fee payable under Part 6B); and
-  (b) any additional terms and conditions mutually agreed to by the employee and employer that are no less favourable to the employee than the terms and conditions in the collective agreement.
-(4) If the work to be done by the new employee is covered by more than 1 collective agreement, subsection (3)﻿(a) applies to the collective agreement that binds the greatest number of the employer's employees in relation to the work the employee will be performing.
-(5) No term or condition of employment may be expressed to alter automatically after the 30-day period in a way that makes it less favourable to the employee than the collective agreement.
-(6) For an employee who holds a minimum wage exemption permit under section 8 of the Minimum Wage Act 1983, the terms and conditions under subsection (3) are subject to the terms of the permit relating to the wages to be paid.
+(3) At the time when the employee enters into an individual employment agreement with an employer, the employer must—
+  (a) inform the employee—
+    (i) that the collective agreement exists and covers work to be done by the employee; and
+    (ii) that the employee may join the union that is a party to the collective agreement; and
+    (iii) about how to contact the union; and
+    (iv) that, if the employee joins the union, the employee will be bound by the collective agreement; and
+  (b) give the employee a copy of the collective agreement; and
+  (c) if the employee agrees, inform the union as soon as practicable that the employee has entered into an individual employment agreement with the employer.
+(4) If the work to be done by the employee is covered by more than 1 collective agreement, the employer must—
+  (a) comply with subsection (3) in relation to the collective agreement that binds more of the employer’s employees in relation to the work that the new employee will be performing than any of the other collective agreements; and
+  (b) inform the employee of the existence of the other agreement or agreements.
+(5) An employer who fails to comply with this section is liable to a penalty imposed by the Authority.
+(6)
 
 ### 62A Employer must share new employee information with union unless employee objects
-(1) This section applies to an employer who enters into an individual employment agreement with a new employee under section 62.
-(2) The employer must, within 10 days after the employee commences employment with the employer, provide the employee with a form approved by the chief executive under section 237AA that the employee may complete and return in accordance with subsection (4) for the purposes of—
-  (a) notifying the employer whether the employee intends to join a union (or a particular union):
-  (b) objecting to the employer providing information about the employee to,—
-    (i) if the employee does not intend to join a union, any union; or
-    (ii) if the employee intends to join a particular union, any other union.
-(3) The form must be accompanied by a notice that—
-  (a) specifies the period during which the employee may complete and return the form, which is the period described in subsection (4); and
-  (b) explains that, unless the employee objects in accordance with this section, the employer will provide the following information to each union that is a party to a collective agreement that covers the work to be done by the employee:
-    (i) the name of the employee:
-    (ii) whether the employee has, during the period,—
-      (A) notified the employer that the employee intends to join the union; or
-      (B) notified the employer that the employee does not intend to join the union; or
-      (C) not completed and returned the form.
-(4) The employee may complete and return the form during the period that—
-  (a) starts when the employee receives the form; and
-  (b) ends 30 days after the employee commences employment with the employer.
-(5) The employer must, within 10 working days of the expiry of the period described in subsection (4), provide the following to each union that is a party to a collective agreement that covers the work to be done by the employee (unless the employee has objected in accordance with this section):
-  (a) the name of the employee:
-  (b) if the employee completes and returns a form in accordance with this section, the completed form:
-  (c) if the employee does not complete and return the form in accordance with this section, notice that the employee did not complete and return the form.
-(6) Nothing in this section limits or affects the right of an employee to become, or not to become, a member of a union or a particular union at any time.
-(7) An employer who fails to comply with this section is liable to a penalty imposed by the Authority.
+[Repealed]
 
 ### 63 Terms and conditions of employment of employee who is not member of union after expiry of 30-day period
-(1) This section applies after the expiry of the 30-day period described in section 62(3) to an employee who is not a member of a union that is a party to a collective agreement that covers the work done by the employee.
-(2) The employee and the employee’s employer may, by mutual agreement, vary the individual employment agreement entered into under section 62 as they think fit.
+[Repealed]
 
 ### 63 Terms and conditions of employment of new employee who is not member of union
 [Repealed]
@@ -1057,9 +1042,9 @@ The object of this Part is—
   (b) under section 61(2), in relation to—
     (i) additional terms and conditions to the collective agreement on which the individual employment agreement is based; and
     (ii) variations to the individual employment agreement in subparagraph (i):
-  (c) under section 62(3), in relation to additional terms and conditions for the first 30 days of an employee’s employment:
   (c)
-  (d) under section 63(2), in relation to variations to terms and conditions of an individual employment agreement after the 30-day period:
+  (c)
+  (d)
   (d)
   (e) in relation to the terms and conditions of an individual employment agreement (including any variations to that agreement) for an employee if no collective agreement covers the work done, or to be done, by the employee:
   (f) where a fixed term of employment, or probationary or trial period of employment, is proposed:
@@ -1078,19 +1063,7 @@ The object of this Part is—
 (7) In this section, employee includes a prospective employee.
 
 ### 63B Additional employer obligations when bargaining for terms and conditions of employment under section 62
-(1) This section applies to an employer who is bargaining with a prospective employee for terms and conditions of employment for the first 30 days of an individual employment agreement under section 62(3).
-(2) The employer must, in addition to doing the things described in section 63A(2), inform the prospective employee—
-  (a) that a collective agreement exists and covers work to be done by the prospective employee; and
-  (b) that the prospective employee may join a union that is a party to the collective agreement; and
-  (c) how to contact the union; and
-  (d) that, if the prospective employee joins the union, the prospective employee will be bound by the collective agreement; and
-  (e) that, if the prospective employee enters into an individual employment agreement with the employer, the prospective employee's terms and conditions of employment will, during the first 30 days of the prospective employee's employment, comprise—
-    (i) the terms and conditions in the collective agreement that would bind the prospective employee if the prospective employee were a member of the union; and
-    (ii) any additional terms and conditions mutually agreed to by the prospective employee and employer that are no less favourable to the employee than the terms and conditions in the collective agreement.
-(3) The employer must also provide to the prospective employee—
-  (a) a copy of the collective agreement; and
-  (b) any information about the role and functions of the union that the employer is required to provide to prospective employees in accordance with a request by a union under section 30A.
-(4) An employer who fails to comply with this section is liable to a penalty imposed by the Authority.
+[Repealed]
 
 **Individual employment agreements**
 
@@ -1176,8 +1149,12 @@ The object of this Part is—
 
 ### 67B Effect of trial provision under section 67A
 (1) This section applies if an employer terminates an employment agreement containing a trial provision under section 67A by giving the employee notice of the termination before the end of the trial period, whether the termination takes effect before, at, or after the end of the trial period.
-(2) An employee whose employment agreement is terminated in accordance with subsection (1) may not bring a personal grievance or legal proceedings in respect of the dismissal.
-(3) Neither this section nor a trial provision prevents an employee from bringing a personal grievance or legal proceedings on any of the grounds specified in section 103(1)﻿(b) to (k).
+(2) An employee whose employment agreement is terminated in accordance with subsection (1) may not bring a personal grievance or legal proceedings in respect of the dismissal, including—
+  (a) a personal grievance on the ground specified in section 103(1)﻿(a):
+  (b) a personal grievance on the ground specified in section 103(1)﻿(b) if the ground relates to the dismissal.
+(3) Neither this section nor a trial provision prevents an employee from bringing a personal grievance or legal proceedings—
+  (a) on the ground specified in section 103(1)﻿(b) if the ground does not relate to the dismissal:
+  (b) on any of the grounds specified in section 103(1)﻿(c) to (k).
 (4) An employee whose employment agreement contains a trial provision is, in all other respects (including access to mediation services), to be treated no differently from an employee whose employment agreement contains no trial provision or contains a trial provision that has ceased to have effect.
 (5) Subsection (4) applies subject to the following provisions:
   (a) in observing the obligation in section 4 of dealing in good faith with the employee, the employer is not required to comply with section 4(1A)﻿(c) in making a decision whether to terminate an employment agreement under this section; and
@@ -1271,6 +1248,18 @@ An employee is entitled to refuse to perform work in addition to any guaranteed 
   (a) prohibit the employee from performing work for another person unless it is necessary having regard to the reasons for which the provision is included; or
   (b) restrict the employee from performing work for another person to a greater extent than is necessary having regard to the reasons for which the provision is included.
 (5) This section does not limit or affect the law relating to restraint of trade provisions.
+
+### 67I Termination of employment of employee whose annual remuneration meets or exceeds specified threshold
+(1) This section applies to an employee if the employee’s annual remuneration meets or exceeds the specified remuneration threshold.
+(2) The employer, in making a decision whether to terminate the employee’s employment agreement, is not required to comply with section 4(1A)﻿(c) in observing the obligation in section 4 to deal in good faith with the employee.
+(3) If the employer terminates the employee’s employment agreement, the employer is not required to comply with a request under section 120 that relates to the employee.
+(4) An employee’s annual remuneration is calculated as follows:ar = (r ÷ d) × 364where—aris the employee’s annual remunerationris the total remuneration that the employer has paid to the employee in the period that consists of the pay periods that start and end within the 364 days immediately before the first day of the pay period within which the employer notifies the employee of the dismissaldis the number of part or full days for which the employee has held the position with the employer in the 364 days immediately before the first day of the pay period within which the employer notifies the employee of the dismissal.
+(5) For the purposes of the definition of annual remuneration (see subsection (4)), remuneration includes—
+  (a) a PAYE income payment (as that term is defined in section RD 3(1) of the Income Tax Act 2007) that is made by the employer, other than an accident compensation earnings-related payment:
+  (b) any other benefit arising from an employee share scheme under section CE 2 of the Income Tax Act 2007.
+
+### 67J Employer and employee may agree that sections 67I and 113A do not apply
+Despite section 238, an employer and employee may agree in writing, as a term of the employee’s employment, that both sections 67I and 113A do not apply.
 
 **Unfair bargaining**
 
@@ -2868,11 +2857,12 @@ An employee who believes that he or she has a personal grievance may pursue that
   (a) whether, having regard to the resources available to the employer, the employer sufficiently investigated the allegations against the employee before dismissing or taking action against the employee; and
   (b) whether the employer raised the concerns that the employer had with the employee before dismissing or taking action against the employee; and
   (c) whether the employer gave the employee a reasonable opportunity to respond to the employer's concerns before dismissing or taking action against the employee; and
-  (d) whether the employer genuinely considered the employee's explanation (if any) in relation to the allegations against the employee before dismissing or taking action against the employee.
+  (d) whether the employer genuinely considered the employee's explanation (if any) in relation to the allegations against the employee before dismissing or taking action against the employee; and
+  (e) whether the employer was obstructed by the employee from taking—
+    (i) an action specified in any of paragraphs (a) to (d):
+    (ii) an action that relates to any other factor that the Authority or the court considers in accordance with subsection (4).
 (4) In addition to the factors described in subsection (3), the Authority or the court may consider any other factors it thinks appropriate.
-(5) The Authority or the court must not determine a dismissal or an action to be unjustifiable under this section solely because of defects in the process followed by the employer if the defects were—
-  (a) minor; and
-  (b) did not result in the employee being treated unfairly.
+(5) The Authority or the court must not determine a dismissal or an action to be unjustifiable under this section solely because of defects in the process followed by the employer if the defects did not result in the employee being treated unfairly.
 
 ### 103B Joining controlling third party to personal grievance
 (1) This section applies if—
@@ -3067,6 +3057,35 @@ Each of the terms personal grievance, discrimination, sexual harassment, adverse
   (b) wages or other money relating to the employment prior to the dismissal; or
   (c) other money payable on dismissal.
 
+### 113A Employee whose annual remuneration meets or exceeds specified threshold may not pursue personal grievance for unjustified dismissal or unjustified disadvantage
+(1) This section applies to an employee if—
+  (a) the employee is dismissed by their employer; and
+  (b) the employee’s annual remuneration meets or exceeds the specified remuneration threshold.
+(2) The employee may not bring a personal grievance or legal proceedings in respect of the dismissal, including—
+  (a) a personal grievance on the ground specified in section 103(1)﻿(a):
+  (b) a personal grievance on the ground specified in section 103(1)﻿(b) if the ground relates to the dismissal.
+(3) This section does not prevent the employee from bringing a personal grievance or legal proceedings—
+  (a) on the ground specified in section 103(1)﻿(b) if the ground does not relate to the dismissal:
+  (b) on any of the grounds specified in section 103(1)﻿(c) to (k).
+
+### 113B Specified remuneration threshold
+(1) The specified remuneration threshold is—
+  (a) $200,000; or
+  (b) if an increase has occurred under this section, the amount that resulted from the last increase.
+Increases to specified remuneration threshold
+(2) The specified remuneration threshold must increase in a given year if the amount of average ordinary weekly earnings for the first quarter of that year, as specified in the relevant Quarterly Employment Survey, is more than the amount of average ordinary weekly earnings for the first quarter of the year in which the specified remuneration threshold last increased (the year of last increase), as specified in the relevant Quarterly Employment Survey.
+(3) The specified remuneration threshold must be increased by the percentage that results from the following formula:a = ((b − c) ÷ c) × 100where—ais the percentage by which the specified remuneration threshold must increasebis the amount of average ordinary weekly earnings for the first quarter of the given year, as specified in the relevant Quarterly Employment Surveycis the average ordinary weekly earnings for the year of last increase, as specified in the relevant Quarterly Employment Survey.
+(4) If the amount that results from the percentage increase is not a whole number, it must be rounded to the nearest whole number.
+(5) The amount that results from the application of subsection (3) and, if applicable, subsection (4)—
+  (a) takes effect as the specified remuneration threshold on 1 July of the given year; and
+  (b) continues to have effect until the threshold is next increased under this section.
+(6) Before the amount that results from the application of subsection (3) and, if applicable, subsection (4) takes effect as the specified remuneration threshold, the chief executive must publish that amount on an Internet site maintained by or on behalf of the department.
+(7) Any correction that is made to the amount of average ordinary weekly earnings for the first quarter of the given year must be disregarded until the next increase to the specified remuneration threshold, which must reflect the corrected amount in the calculation of that increase and must otherwise be made in accordance with subsections (2) and (3).
+(8) In this section,—
+  - **average ordinary weekly earnings** , in relation to the Quarterly Employment Survey, means the average ordinary weekly earnings per full-time equivalent employee (seasonally adjusted, total industries) or any measure that is equivalent to that measure
+  - **first quarter** means the period beginning on 1 January and ending on the close of 31 March
+  - **Quarterly Employment Survey** means the Quarterly Employment Survey published by Statistics New Zealand or, if that survey ceases to be published, any measure certified by the Government Statistician as being equivalent to that survey.
+
 ### 114 Raising personal grievance
 (1) An employee who wishes to raise a personal grievance must, subject to subsections (3) and (4), raise the grievance with their employer within the applicable employee notification period unless the employer consents to the personal grievance being raised after the expiration of that period.
 (2) For the purposes of subsection (1), a grievance is raised with an employer as soon as the employee has made, or has taken reasonable steps to make, the employer or a representative of the employer aware that the employee alleges a personal grievance that the employee wants the employer to address.
@@ -3156,6 +3175,7 @@ Nothing in this Part or in any employment agreement prevents a finding that a pe
     (i) concerning the action the employer should take in respect of the person who made the request referred to in section 108(1)﻿(a) or was guilty of the harassing behaviour or of the adverse treatment on that ground, which action may include the transfer of that person, the taking of disciplinary action against that person, or the taking of rehabilitative action in respect of that person:
     (ii) about any other action that it is necessary for the employer to take to prevent further harassment, or adverse treatment on that ground, of the employee concerned or any other employee.
 (2) When making an order under subsection (1)﻿(b) or (c), the Authority or the court may order payment to the employee by instalments, but only if the financial position of the employer requires it.
+(3) This section is subject to sections 123B and 123C.
 
 ### 123A Remedies where controlling third party caused or contributed to personal grievance
 (1) This section applies if the Authority or the court—
@@ -3165,13 +3185,29 @@ Nothing in this Part or in any employment agreement prevents a finding that a pe
 (2) The Authority or the court may, if satisfied that it is just to do so, order the controlling third party to provide to the employee either or both of the remedies in section 123(1)﻿(b) and (c).
 (3) The Authority or the court must consider the extent to which the actions of the controlling third party caused or contributed to the situation that gave rise to the personal grievance.
 (4) The Authority or the court must award any remedies against the employer under section 123 and against the controlling third party under subsection (2) in a way that reflects the extent to which the actions of each contributed to the situation that gave rise to the personal grievance.
+(4A) The Authority or the court must not make an order under subsection (2) awarding—
+  (a) the remedy in section 123(1)﻿(b) against the controlling third party if the Authority or the court determines that—
+    (i) an action of the employee contributed to the situation that gave rise to the personal grievance; and
+    (ii) that action amounts to serious misconduct (see section 123B):
+  (b) the remedy in section 123(1)﻿(c) against the controlling third party if the Authority or the court determines that an action of the employee contributed to the situation that gave rise to the personal grievance (see sections 123B and 123C).
 (5) The Authority or the court may, if making an order under subsection (2), order payment to the employee by instalments, but only if the financial position of the controlling third party requires it.
 (6) Subsection (2) applies subject to subsections (3) to (5).
 
-### 124 Remedy reduced if contributing behaviour by employee
-Where the Authority or the court determines that an employee has a personal grievance, the Authority or the court must, in deciding both the nature and the extent of the remedies to be provided in respect of that personal grievance,—
+### 123B Remedies not available if contributing behaviour by employee amounts to serious misconduct
+Despite section 123, the Authority or the court must not provide for any remedy if the Authority or the court determines that—
+  (a) an action of the employee contributed to the situation that gave rise to the personal grievance; and
+  (b) that action amounts to serious misconduct.
+
+### 123C Reinstatement and compensation not available if contributing behaviour by employee
+Despite section 123, the Authority or the court must not provide for any of the following remedies if the Authority or the court determines that an action of the employee contributed to the situation that gave rise to the personal grievance:
+  (a) the remedy in section 123(1)﻿(a):
+  (b) the remedy in section 123(1)﻿(c).
+
+### 124 Available remedies reduced if contributing behaviour by employee
+(1) Where the Authority or the court determines that an employee has a personal grievance, the Authority or the court must, in deciding both the nature and the extent of the remedies to be provided in respect of that personal grievance,—
   (a) consider the extent to which the actions of the employee contributed towards the situation that gave rise to the personal grievance; and
   (b) if those actions so require, reduce the remedies that would otherwise have been awarded accordingly.
+(2) Remedies may be reduced in accordance with subsection (1) by up to 100%.
 
 ### 125 Reinstatement to be primary remedy
 (1) This section applies if—
@@ -4198,7 +4234,7 @@ The Authority is to have a seal, which is to be judicially noticed by all courts
   (b) without limiting paragraph (a), to a matter, or part of a matter, about whether the Authority may follow or adopt a particular procedure.
 
 ### 178AA Removal to court of proceeding involving national security information
-If the Attorney-General gives written notice to the Authority that the Crown intends to make an SI application (under section 32 of the Security Information in Proceedings Act 2022) in connection with proceedings before the Authority, section 44 of that Act applies as if a reference in that section to the District Court were a reference to the Authority and a reference to the High Court were a reference to the Employment Court.
+If the Attorney-General gives written notice to the Authority that the Crown intends to make an SI application (under section 32 of the Security Information in Proceedings Act 2022) in connection with proceedings before the Authority, section 46 of that Act applies as if a reference in that section to the District Court were a reference to the Authority and a reference to the High Court were a reference to the Employment Court.
 
 ### 178A Challenge in respect of dismissal of frivolous or vexatious proceedings
 (1) A party to a matter before the Authority that was dismissed because the Authority determined it was frivolous or vexatious under clause 12A of Schedule 2 may challenge that determination in the court.
@@ -5353,6 +5389,60 @@ In this Part,—
 
 ### 25 Application of sections 103(1)﻿(ja), 110AB, and 111
 Sections 103(1)﻿(ja), 110AB, and 111 (as amended by the 2025 amendment Act) apply to an employer’s conduct on or after the commencement date in relation to an act by an employee described in section 110AB(2) that occurs before the commencement date.
+
+### Part 9 — Provisions relating to Employment Relations Amendment Act 2026
+
+### 26 Interpretation
+In this Part,—
+  - **2026 amendment Act** means the Employment Relations Amendment Act 2026
+  - **commencement date** means the date on which the 2026 amendment Act comes into force
+  - **different position** , in relation to an employee, means a position that is different from the position that the employee held immediately before the commencement date
+  - **same position** , in relation to an employee, means the position that the employee held immediately before the commencement date.
+
+**Provision relating to specified contractors**
+
+### 27 Person is specified contractor on and from commencement date unless proceedings brought before commencement
+(1) This clause applies to a person—
+  (a) who, on the commencement date, meets the definition of a specified contractor in relation to an arrangement that the person entered into before the commencement date; but
+  (b) only if, as at the commencement date, proceedings under section 6 have not been brought before the Authority or the court in respect of the person to determine whether the person is an employee in relation to the arrangement.
+(2) The person is a specified contractor in relation to the arrangement on and from the commencement date.
+(3) Subclause (2) applies even if, on or after the commencement date,—
+  (a) the person (or another person on the person’s behalf) brings proceedings under section 6 before the Authority to determine whether the person is an employee in relation to the arrangement; and
+  (b) the Authority determines that the person is an employee in relation to the period of the arrangement that falls before the commencement date.
+(4) In this clause,—
+  - **arrangement** means an arrangement under which a person agrees with another person () to perform work for person B or facilitated by person B
+  - **specified contractor** has the meaning given to it by section 6(7).
+
+**Provisions relating to specified remuneration threshold**
+
+### 28 Section 67I does not apply to certain employees for period of up to 12 months
+(1) Section 67I does not apply in respect of an employee whose annual remuneration meets or exceeds the specified remuneration threshold if the employee—
+  (a) holds the same position with the employer by whom they were employed immediately before the commencement date; or
+  (b) as a result of a restructuring, holds a different position with the employer by whom they were employed immediately before the commencement date; or
+  (c) as a result of a restructuring, holds a different position with an employer other than the employer by whom they were employed immediately before the commencement date.
+(2) Subclause (1) applies in respect of the employee for as long as subclause (1)﻿(a), (b), or (c) applies to the employee or for a period of 12 months from the commencement date, whichever ends first.
+(3) Despite subclauses (1) and (2), the employee and their employer may agree in writing, as a term of the employee’s employment, that section 67I applies in respect of the employee.
+
+### 29 Section 113A does not apply to certain employees dismissed within 12 months of commencement
+(1) Section 113A does not apply in respect of an employee whose annual remuneration meets or exceeds the specified remuneration threshold if—
+  (a) the employee is dismissed by their employer within 12 months of the commencement date; and
+  (b) at the time of the dismissal, the employee—
+    (i) holds the same position with the employer by whom they were employed immediately before the commencement date; or
+    (ii) as a result of a restructuring, holds a different position with the employer by whom they were employed immediately before the commencement date; or
+    (iii) as a result of a restructuring, holds a different position with an employer other than the employer by whom they were employed immediately before the commencement date.
+(2) Despite subclause (1), the employee and their employer may agree in writing, as a term of the employee’s employment, that section 113A applies in respect of the employee.
+
+### 30 Application of dispute resolution procedures that enable employees to bring personal grievance or legal proceedings
+(1) This clause applies in respect of a dispute resolution procedure—
+  (a) that is contained in an employment agreement that was entered into before the commencement date; and
+  (b) that has the effect of enabling an employee, who may not bring a personal grievance or legal proceedings in respect of a dismissal under this Act as amended by the 2026 amendment Act, to bring a personal grievance or legal proceedings in respect of a dismissal.
+(2) The dispute resolution procedure applies on and from the commencement date as if the procedure did not have the effect of enabling the employee to bring a personal grievance or legal proceedings in respect of a dismissal.
+
+### 31 Specified remuneration threshold must not increase before 1 July 2027
+Despite section 113B(2), the specified remuneration threshold must not increase before 1 July 2027.
+
+### 32 Application of section 113B to first increase of specified remuneration threshold
+Section 113B applies in respect of the first increase of the specified remuneration threshold as if a reference to the year of last increase were a reference to the year in which the 2026 amendment Act commenced.
 
 ## Schedule 1 — Essential services
 
