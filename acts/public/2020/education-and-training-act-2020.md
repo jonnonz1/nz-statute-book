@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2025-11-19_
+_Consolidation as at 2026-02-23_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -174,6 +174,7 @@ The purpose of this Act is to establish and regulate an education system that—
   - **Crown entity group** has the meaning given by section 136(1) of the Crown Entities Act 2004
   - **deputy chief referee** means a person appointed as a deputy chief referee under section 219(3)
   - **designated character school** means a school designated in accordance with sections 204 and 205
+  - **Director of Regulation** or means the person appointed under section 27A
   - **Directory of Assessment and Skill Standards** means the Directory of Assessment and Skill Standards described in section 437
   - **disciplinary body** means either or both of the Complaints Assessment Committee and the Disciplinary Tribunal
   - **Disciplinary Tribunal** means the Disciplinary Tribunal established by rules made under section 486
@@ -190,6 +191,9 @@ The purpose of this Act is to establish and regulate an education system that—
     (b) who is a tertiary student enrolled at an institution or a registered establishment
   - **DRS** means the student contract dispute resolution scheme established under section 536
   - **DRS operator** means a person or an organisation appointed under section 536(4)
+  - **early childhood education** , in relation to Part 2, means education and care services provided by—
+    (a) an early childhood service; and
+    (b) a playgroup that opts to be certified under this Act
   - **early childhood education and care centre** —
     (a) means premises that are used regularly for the education or care of 3 or more children (not being children of the persons providing the education or care or children enrolled at a school who are being provided with education or care before or after school) under the age of 6 years by day (or part of a day) but not for any continuous period of more than 7 days; and
     (b) despite paragraph (c), includes premises that—
@@ -646,10 +650,17 @@ This Act binds the Crown.
 (4) Subpart 3 sets out several offence provisions.
 
 ### 14 Purpose of Part 2
-The purpose of this Part is to regulate an early childhood education system where all children are able to participate and receive a strong foundation for learning, positive well-being, and life outcomes by—
-  (a) setting standards to support quality provision and learning; and
-  (b) supporting the health, safety, and well-being of children; and
-  (c) enabling parental choice by providing for licensing and funding of different types of provision.
+The purpose of this Part is to regulate an early childhood education system to—
+  (a) set and implement minimum standards to provide for quality early childhood education that allows all children to establish strong foundations for learning, well-being, and life outcomes; and
+  (b) support the choice of parents and caregivers to participate in the labour market.
+
+### 14A Objectives of Part 2
+The objectives of this Part are to support the purpose in section 14 by—
+  (a) protecting the health, safety, and well-being of children receiving early childhood education; and
+  (b) improving educational and developmental outcomes for those children; and
+  (c) supporting accessibility and choice for parents and caregivers, including by providing for licensing and certification of different types of services and enabling their funding; and
+  (d) providing information to parents, caregivers, and others to improve knowledge about the quality of early childhood education, including to inform parental choice; and
+  (e) implementing a licensing and certification system that provides service providers, parents, and caregivers with certainty and clarity, as far as is reasonably practicable, regarding minimum standards for quality services.
 
 ### Subpart 1 — Licensing and certification
 
@@ -704,7 +715,7 @@ A service provider who operates a playgroup may, but need not, apply for a certi
 (2) Despite section 65 of the Legislation Act 2019, clause 1 of Schedule 2 of that Act (which is about consultation) does not apply in relation to the incorporation of that material.
 
 ### 22 Records
-The service provider of a licensed early childhood service must keep, and make available to the Secretary on request,—
+The service provider of a licensed early childhood service must keep, and make available to the Secretary or the Director of Regulation on request,—
   (a) a register of the children who attend or have attended the service, specifying the date of birth of each; and
   (b) a record of the attendance of children at the service; and
   (c) a record of all fees and other charges paid in respect of children's attendance at the service; and
@@ -753,13 +764,82 @@ The parent of a child has a right to enter the premises of a licensed early chil
     (i) under the influence of alcohol or any other substance that has a detrimental effect on the functioning or behaviour of the person; or
     (ii) exhibiting behaviour that is, or is likely to be, disruptive to the effective operation of the centre or service.
 
+**Director of Regulation**
+
+### 27A Director of Regulation
+(1) The Secretary must appoint a person to be the Director of Regulation.
+(2) The Secretary must be satisfied that the person has the appropriate experience and expertise to perform and exercise the functions, duties, and powers of the Director of Regulation.
+(3) The person must be employed by the Ministry but need not be a current employee of the Ministry at the time of appointment.
+(4) When performing or exercising a function, duty, or power under this Act, the Director—
+  (a) does so as an employee of the Ministry; but
+  (b) must exercise independent judgement if this Act requires the Director to do so (for example, if there is a requirement to act independently of the Minister or any other person).
+
+### 27B Functions of Director of Regulation
+The functions of the Director of Regulation are to—Statutorily independent functionsOther functions
+  (a) issue licences to early childhood services and certify playgroups:
+  (b) enforce compliance by service providers with applicable requirements under this Act, including by undertaking investigations and prosecutions, as appropriate:
+  (c) provide support, information, and guidance to service providers about applicable requirements under this Act:
+  (d) provide information to parents, caregivers, and other interested parties on the compliance by service providers with applicable requirements under this Act:
+  (e) carry out proactive, regular, risk-based monitoring of compliance by service providers with applicable requirements under this Act:
+  (f) help improve the knowledge of parents, caregivers, and other interested parties about the quality of early childhood education:
+  (g) assess and respond to—
+    (i) complaints about licensed early childhood services and certified playgroups:
+    (ii) complaints and appeals from service providers regarding decisions under this Act:
+    (iii) incidents at licensed early childhood services and certified playgroups:
+  (h) collect and provide information to the Secretary that is necessary for the Secretary to perform and exercise their functions, duties, and powers under this Act and other legislation, including in relation to system stewardship, monitoring, funding, and child protection:
+  (i) publish and regularly update information about the Director’s general regulatory approach, including a regulatory strategy:
+  (j) collaborate with other agencies involved in regulating early childhood services and playgroups, including by sharing information with those agencies if permitted or authorised by or under law:
+  (k) carry out any other functions conferred or imposed on the Director under this Act or any other legislation.
+
+### 27C Performance and exercise of Director’s functions, duties, and powers
+(1) In performing and exercising their functions, duties, and powers, the Director of Regulation must give effect to—
+  (a) the purpose set out in section 14; and
+  (b) the objectives set out in section 14A.
+(2) In performing the functions set out in section 27B(a) and (b), the Director of Regulation must act independently of the Minister and the Minister must not give directions to the Director in relation to performing those functions.
+(3) The Director of Regulation is accountable to the Secretary for the performance of their functions and duties, and for the exercise of their powers.
+(4) The Director of Regulation must have arrangements in place to avoid or manage conflicts of interest relating to the performance of their functions and duties, and the exercise of their powers.
+
+### 27D Principles guiding performance and exercise of Director’s functions, duties, and powers
+The Director of Regulation must have regard to the following principles when performing or exercising a function, duty, or power under this Act:
+  (a) the health, safety, and well-being of children receiving early childhood education is paramount:
+  (b) the learning and development of those children is essential and supports their readiness to transition to school:
+  (c) the role of parents and caregivers in the early childhood education of their children is recognised and supported:
+  (d) principles relating to good regulatory practice, including (without limitation) decision-making that—
+    (i) is risk-based, proportionate, fair, and transparent; and
+    (ii) avoids imposing unnecessary costs on parents, caregivers, and service providers.
+
+### 27E Delegation of Director’s functions, duties, and powers
+(1) The Director of Regulation may, either generally or specifically, delegate to a person any of their functions, duties, or powers.
+(2) A delegation—
+  (a) must be in writing; and
+  (b) may be revoked at will in writing; and
+  (c) may be subject to instructions or conditions.
+(3) Despite subsection (1), the Director of Regulation—Delegation to person within public service who is not Ministry employeeDelegation to person outside public service
+  (a) may delegate their functions, duties, or powers to a person described in subsection (4) only if—
+    (i) the Secretary consents in writing to that delegation; and
+    (ii) the delegation is for a specified period; and
+  (b) may delegate a clearly identified function, duty, or power to a person outside the public service only if—
+    (i) the Secretary consents in writing to that delegation; and
+    (ii) the delegation is for a specified period; and
+    (iii) the Director is satisfied that any conflicts of interest will be avoided or managed; but
+  (c) must not delegate the general power of delegation.
+(4) For the purposes of subsection (3)﻿(a), the person is a person who—
+  (a) is not an employee of the Ministry; but
+  (b) is a public service employee, or an individual working in the public service as a contractor or as a secondee from elsewhere in the State services in relation to a function of the public service.
+(5) The person to whom any functions, duties, or powers are delegated may perform or exercise those functions, duties, or powers in the same manner, subject to the same restrictions, and with the same effect as if they had been conferred on that person directly by this Act (subject to any instructions given or conditions imposed by the Director of Regulation).
+(6) A person purporting to act under a delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
+(7) In this section,—
+  - **public service** has the meaning given in section 10 of the Public Service Act 2020
+  - **public service employee** has the meaning given in section 65 of the Public Service Act 2020
+  - **State services** has the meaning given in section 5 of the Public Service Act 2020.
+
 ### Subpart 3 — Offences
 
 ### 28 Service providers must be licensed
 (1) Every service provider who operates an early childhood education and care centre commits an offence if the service provider—
   (a) operates the centre without holding a current licence to operate the centre; or
-  (b) ceases to operate a centre for which it holds a current licence to operate the centre, in circumstances other than an emergency, without first telling the Secretary that it intends to stop operating the centre; or
-  (c) ceases to operate the centre for which it holds a current licence to operate the centre, in circumstances involving an emergency, and fails to tell the Secretary as soon as practicable after the closure.
+  (b) ceases to operate a centre for which it holds a current licence to operate the centre, in circumstances other than an emergency, without first telling the Secretary and the Director of Regulation that it intends to stop operating the centre; or
+  (c) ceases to operate the centre for which it holds a current licence to operate the centre, in circumstances involving an emergency, and fails to tell the Secretary and the Director of Regulation as soon as practicable after the closure.
 (2) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an offence against subsection (1)﻿(a), to a fine not exceeding $50,000; and
   (b) in the case of an offence against subsection (1)﻿(b) or (c), to a fine not exceeding $200.
@@ -8103,6 +8183,14 @@ The council, for just cause or excuse, may remove the chief executive from offic
   (c) monitoring and ensuring student rights in respect of enrolment and attendance.
 (5) For the purposes of registering or inspecting private schools, information required under subsection (1) is relevant to determining whether a school meets the criteria for registration as a private school.
 
+### 619A Director of Regulation may require information for administration of Part 2
+(1) The Director of Regulation may, by written notice, require information from a service provider who operates—
+  (a) a licensed early childhood service; or
+  (b) a certified playgroup.
+(2) The notice must specify the information required and the date by which it must be provided.
+(3) The service provider must provide the information in writing by the date specified in the notice.
+(4) Information that identifies individuals may only be used for statistical purposes.
+
 ### 620 Report on performance of school sector
 (1) The Minister must in each year, not later than 30 September, prepare and present to the House of Representatives a report on the performance of the school sector in the immediately preceding financial year ending on 31 December.
 (2) The report must include information about—
@@ -8166,7 +8254,7 @@ A review officer who enters any place under the authority of section 624 must, o
 (2) If any documents are removed from premises under subsection (1)﻿(c), the person who removes them must—
   (a) leave at the premises a list of the documents removed; and
   (b) return the documents, or a copy of them, to the premises as soon as practicable, unless to do so would prejudice any investigation being or to be carried out by the Ministry.
-(3) The Secretary may authorise in writing any person who, in the Secretary’s opinion, is suitably qualified and trained in the exercise of powers under subsection (1) to exercise those powers.
+(3) The Secretary or the Director of Regulation may authorise in writing any person who, in the Secretary’s opinion or the Director of Regulation’s opinion, is suitably qualified and trained in the exercise of powers under subsection (1) to exercise those powers.
 (4) An authorisation under subsection (3) must contain—
   (a) a reference to this section; and
   (b) the full name of the person authorised; and
@@ -8343,10 +8431,19 @@ The right of parents who have children in early childhood centres to enter the p
     (v) practices in relation to behaviour management and limits on the use of physical restraint:
     (vi) communication and consultation with parents:
     (vii) the operation or administration of licensed early childhood services:
-  (b) authorise the Minister, after consultation with those organisations that appear to the Minister to be representative of persons likely to be substantially affected by the regulations, to prescribe criteria to be used by the Secretary to assess compliance with the minimum standards imposed by the regulations:
+  (b) authorise the Minister, after consultation with the Director of Regulation and those organisations that appear to the Minister to be representative of persons likely to be substantially affected by the regulations, to prescribe criteria to be used by the Director of Regulation to assess compliance with the minimum standards imposed by the regulations:
   (c)
   (d) limit or regulate the number of children who may attend licensed early childhood education and care centres or any premises used to provide a licensed home-based education and care service or a licensed hospital-based education and care service:
   (e) provide for the grant or refusal to grant, duration, expiry, renewal, suspension, transfer, reclassification, and cancellation of licences of 1 or more specified kinds for service providers for each kind of early childhood service, and prescribe the conditions under which licences may be granted, renewed, suspended, or transferred and the fees payable in respect of the grant, renewal, suspension, or transfer of the licences, or do any of those things:
+  (ea) provide for the Director of Regulation to take 1 or more actions in relation to a licence held by a service provider of a licensed early childhood service, including—
+    (i) making a record of non-compliance; and
+    (ii) issuing a formal warning or a written direction; and
+    (iii) requiring the provider to employ or engage specialist help or prepare, implement, and complete an improvement plan:
+  (eb) enable or require the Director of Regulation to publicly notify action taken by the Director in relation to a non-compliance by a service provider of a licensed early childhood service with—
+    (i) a condition of their licence; or
+    (ii) a requirement of regulations:
+  (ec) enable the Director of Regulation to give public notice of an investigation into a complaint against a service provider of a licensed early childhood service or an incident involving the service provider:
+  (ed) enable the Director of Regulation to require a service provider of a licensed early childhood service to inform parents or caregivers of children attending the service that an investigation into a complaint or incident is being carried out by the Director or licensed service provider, or both:
   (f) prescribe conditions governing licensed early childhood services and the duties of their service providers:
   (g) prescribe the records to be kept by service providers in respect of children attending licensed early childhood education and care centres, licensed home-based education and care services, and licensed hospital-based education and care services:
   (h) regulate, including by authorising the Secretary to issue a notice recognising a qualification, the qualifications to be held by any specified number or proportion of persons carrying out the following activities:
@@ -8363,6 +8460,7 @@ The right of parents who have children in early childhood centres to enter the p
     (ii) different kinds of licences; and
     (iii) different minimum standards.
   (b)
+(4A) Regulations made under subsection (2)﻿(b) must contain a statement that the Secretary is the Minister’s principal policy adviser in relation to any criteria that are prescribed.
 (5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (6) If the regulations authorise the Minister under subsection (2)﻿(b) to prescribe criteria,—
   (a) an instrument that prescribes the criteria is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
@@ -8379,7 +8477,7 @@ The right of parents who have children in early childhood centres to enter the p
     (v) practices in relation to behaviour management and limits on the use of physical restraint:
     (vi) communication and consultation with parents:
     (vii) the operation and administration of playgroups:
-  (b) authorise the Minister, after consultation with those organisations that appear to the Minister to be representative of persons likely to be substantially affected by the regulations, to prescribe criteria to be used by the Secretary to assess compliance with the minimum standards imposed by the regulations:
+  (b) authorise the Minister, after consultation with the Director of Regulation and those organisations that appear to the Minister to be representative of persons likely to be substantially affected by the regulations, to prescribe criteria to be used by the Director of Regulation to assess compliance with the minimum standards imposed by the regulations:
   (c)
   (d) limit or regulate the number of children who may attend certified playgroups:
   (e) provide for the grant, duration, expiry, renewal, suspension, transfer, reclassification, and cancellation of certificates of 1 or more specified kinds for playgroups, and prescribe the conditions under which certificates may be granted, renewed, or transferred and the fees payable in respect of the grant, renewal, or transfer of the certificates:
@@ -8394,6 +8492,7 @@ The right of parents who have children in early childhood centres to enter the p
     (i) different kinds of certificates; and
     (ii) different minimum standards.
   (b)
+(3A) Regulations made under subsection (2)﻿(b) must contain a statement that the Secretary is the Minister’s principal policy adviser in relation to any criteria that are prescribed.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) If the regulations authorise the Minister under subsection (2)﻿(b) to prescribe criteria,—
   (a) an instrument that prescribes the criteria is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
@@ -10478,6 +10577,38 @@ The council of a university is not required to adopt a statement on freedom of e
 ### 199 Initial appointment of additional member under section 475(1)﻿(a)
 (1) This clause applies to the first appointment by the Minister of the additional member of the Teaching Council under section 475(1)﻿(a) (as amended by the amendment Act).
 (2) The Minister need not comply with section 476(3) when appointing the member.
+
+### Part 9 — Provisions relating to Education and Training (Early Childhood Education Reform) Amendment Act 2025
+
+### 200 Interpretation
+In this Part,—
+  - **amendment Act** means the Education and Training (Early Childhood Education Reform) Amendment Act 2025
+  - **commencement date** means the date on which the amendment Act comes into force
+  - **Director of Regulation function** means a function, duty, or power of the Secretary under this Act that becomes a function, duty, or power of the Director of Regulation on and after the commencement date.
+
+### 201 Effect of transfer of functions to Director of Regulation on matters, documents, and decisions
+(1) This clause applies if, before the commencement date,—
+  (a) a person has applied to the Secretary and the application relates to a Director of Regulation function, for example, a licence to operate an early childhood service, but the application has not been considered; or
+  (b) the Secretary has commenced a matter or process in relation to a Director of Regulation function, for example, an investigation into a service provider’s non-compliance with their licence, but the investigation has not been completed; or
+  (c) a person has appealed to the District Court against, or applied for judicial review of, a decision or direction of the Secretary in relation to early childhood education.
+(2) The Director of Regulation, in place of the Secretary, must consider the application or complete the matter or process on or after the commencement date.
+(3) If subclause (1)﻿(c) applies, the Director, in place of the Secretary, is treated as a respondent to the appeal or application for judicial review on and after the commencement date.
+(4) A document or notice given by the Secretary under this Act is treated as a document or notice given by the Director of Regulation if—
+  (a) it relates to a Director of Regulation function; and
+  (b) it was given before the commencement date.
+(5) The transfer of a Director of Regulation function to the Director of Regulation does not, of itself, affect—
+  (a) a decision made, or anything done or omitted to be done, by the Secretary in relation to the Director of Regulation function before the commencement date; or
+  (b) any other matter or thing arising out of the Secretary performing the Director of Regulation function before the commencement date.
+(6) In this section, applied for judicial review means—
+  (a) to have applied for review of the decision or direction under the Judicial Review Procedure Act 2016; or
+  (b) to have instituted proceedings seeking any writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in respect of that decision or direction.
+
+### 202 Personal information
+Personal information that was held by the Secretary before the commencement date when performing a Director of Regulation function is to be treated on and after the commencement date as having been held by the Director of Regulation.
+
+### 203 References to Secretary
+(1) On and after the commencement date, a reference to the Secretary in any legislation (other than this Act), notice, instrument, contract, or other document must, in relation to a Director of Regulation function, be read as a reference to the Director of Regulation.
+(2) This clause applies unless the context otherwise requires.
 
 ## Schedule 2 — Special institutions
 
