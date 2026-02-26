@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2025-06-17_
+_Consolidation as at 2026-02-26_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -49,10 +49,21 @@ This Act binds the Crown.
   - **enforcement agency** means the New Zealand Police or any body or organisation that has a statutory responsibility for the enforcement of an enactment
   - **expert** means a person who has specialised knowledge or skill based on training, study, or experience
   - **expert evidence** means the evidence of an expert based on the specialised knowledge or skill of that expert and includes evidence given in the form of an opinion
+  - **Family Court proceeding** , in sections 106BA to 106BC, includes a proceeding in the District Court under—
+    (a) section 15 of the Family Court Act 1980; or
+    (b) section 151 of the Oranga Tamariki Act 1989
   - **family violence** has the same meaning as in section 9 of the Family Violence Act 2018
   - **family violence case** —
     (a) means a criminal proceeding in which a person is charged with, or is waiting to be sentenced or otherwise dealt with for, a family violence offence; but
     (b) does not include a sexual case
+  - **family violence evidence** , in sections 106BA to 106BC, in relation to a witness, means evidence—
+    (a) given or to be given by the witness orally in a Family Court proceeding (whether evidence in chief, evidence given in cross-examination, or evidence in re-examination given about matters arising out of evidence given in cross-examination); and
+    (b) of family violence that the witness experienced as a person against whom the family violence was inflicted; and
+    (c) that is not a Police video record—
+      (i) of an interview with the witness; and
+      (ii) made under regulations made under section 201 to be offered by the prosecution as the witness’s evidence in chief in a criminal proceeding under section 106; and
+      (iii) that a Family Court Judge under those regulations orders access to, or disclosure of, for a Family Court proceeding; and
+    (d) that is not the wishes or views of a child or young person ascertained by the court or Judge (at, or apart from, any hearing of any application or proceeding) under any Act or rules of court
   - **family violence offence** means an offence—
     (a) against any enactment (including the Family Violence Act 2018); and
     (b) involving family violence (as defined in section 9 of that Act)
@@ -1161,6 +1172,7 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
 ### 102 General provisions are subject to provisions for specific situations
 Sections 103 to 106 (which provide for alternative ways of giving evidence) are subject to the following provisions (which deal with specific situations):
   (a) sections 106AA to 106B (which relate to family violence complainants):
+  (aa) sections 106BA to 106BC (which relate to witnesses giving family violence evidence in Family Court proceedings):
   (b) sections 106C to 106J (which relate to sexual case complainants or propensity witnesses):
   (ba) sections 109A and 109B (which relate to intelligence officers and intelligence sources):
   (c) sections 107AA to 107B (which relate to child witnesses in criminal proceedings):
@@ -1258,6 +1270,44 @@ Sections 106A and 106B apply to a complainant (a family violence complainant) wh
   (b) may call for and receive a report, from any person considered by the Judge to be qualified to advise, on the effect on the complainant of giving evidence in the ordinary way or any alternative way.
 (4) When considering whether to give a direction under this section, the Judge must have regard to—
   (a) whether the interests of justice require a departure from the usual procedure under section 106A in the particular case; and
+  (b) the matters in section 103(3) and (4).
+
+**Giving of family violence evidence by witnesses in Family Court proceedings**
+
+### 106BA Sections 106BB and 106BC apply to witnesses giving family violence evidence in Family Court proceedings
+Sections 106BB and 106BC apply to a witness who is to give or is giving family violence evidence in a Family Court proceeding.
+
+### 106BB Giving family violence evidence in Family Court proceedings
+(1) A witness in a Family Court proceeding who is to give or is giving family violence evidence is entitled to give evidence in 1 or more alternative ways so that—
+  (a) the witness gives evidence in either or both of the following ways:
+    (i) while in the courtroom but unable to see 1 or more other persons to whom the evidence relates (for example, another witness, a party or another party to the proceeding, or both):
+    (ii) from an appropriate place outside the courtroom, either in New Zealand or elsewhere:
+  (b) by use of any appropriate practical and technical means the Judge and any lawyers can see and hear the witness giving evidence, in accordance with any regulations made under section 201:
+  (c) the parties can see and hear the witness, unless the Judge directs otherwise.
+(2) A witness who gives evidence of any kind in one way is entitled to give the other parts of their evidence in 1 or more other ways.
+(3) Any party intending to call a witness in a Family Court proceeding who will give family violence evidence must provide every other party and the court with a written notice stating the 1 or more ways in which the witness will give their evidence (which may be or include the ordinary way).
+(4) Unless a Judge permits otherwise, the notice required under subsection (3) must be given—
+  (a) as early as practicable; and
+  (b) in any event, no later than 28 days before the hearing.
+(5) If a party has given notice under subsection (3) and it is no longer possible or desirable for the witness to give evidence by the means stated in the notice, the party—
+  (a) may file an amended notice; but
+  (b) must do so as early as practicable.
+
+### 106BC Direction that family violence evidence be given in ordinary way or different alternative way
+(1) Despite section 106BB, if a notice given under section 106BB(3) states that a witness is to give all or any part of their evidence in an alternative way, the Judge may give a direction that the witness give evidence or that part of their evidence—
+  (a) in the ordinary way under section 83; or
+  (b) in a different alternative way under section 106BB.
+(2) A direction under subsection (1) may be made—
+  (a) on an application made by any other party; or
+  (b) on the Judge’s own initiative.
+(3) An application for a direction under subsection (1) must be made—
+  (a) as early as practicable before the hearing; or
+  (b) at a later time permitted by a Judge.
+(4) Before giving a direction under this section, the Judge—
+  (a) must give each party an opportunity to be heard in chambers; and
+  (b) may call for and receive a report, from any person considered by the Judge to be qualified to advise, on the effect on the witness of giving evidence in the ordinary way or any alternative way.
+(5) When considering whether to give a direction under this section, the Judge must, in addition to any other matter that the Judge considers relevant, have regard to—
+  (a) whether the interests of justice require a departure from the usual procedure under section 106BB(1) in the particular case; and
   (b) the matters in section 103(3) and (4).
 
 **Giving of evidence by sexual case complainants or propensity witnesses**
@@ -2534,6 +2584,12 @@ In this Part, unless the context otherwise requires,—
 (1) The amendments made to this Act by the 2022 Act (except for this clause) apply to proceedings commenced on or after the commencement date.
 (2) To avoid doubt, subclause (1) applies to proceedings that commence on or after the commencement date, but that relate to circumstances, events, or decisions that occurred before, on, or after the commencement date.
 (3) Proceedings commenced before the commencement date, and not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if the amendments made to this Act by the 2022 Act had not been enacted.
+
+### Part 3 — Provision relating to Evidence (Giving Family Violence Evidence in Family Court Proceedings) Amendment Act 2025
+
+### 4 Proceedings affected by Evidence (Giving Family Violence Evidence in Family Court Proceedings) Amendment Act 2025
+(1) Amendments made by a provision of the Evidence (Giving Family Violence Evidence in Family Court Proceedings) Amendment Act 2025 (except for this clause) apply only to proceedings commenced on or after the commencement of that provision.
+(2) Proceedings commenced before that commencement, and not finally determined (including any rehearing or appeal) before that commencement, continue as if those amendments had not been enacted.
 
 ## Schedule 1 — Enactments repealed
 
