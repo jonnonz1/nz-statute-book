@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2025-11-28_
+_Consolidation as at 2026-02-27_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -166,7 +166,7 @@ In this Act, unless the context otherwise requires,—
   - **invitation to apply** means an invitation to apply for a visa, as described in section 94
   - **irregular entry into New Zealand** includes, without limitation, entry into New Zealand by a person if—
     (a) the identity of the person is unknown; or
-    (b) in the circumstances referred to in section 324E(6)﻿(a), the person’s identity has not been established to the satisfaction of a District Court Judge; or
+    (b) in the circumstances referred to in sections 317AA(3)﻿(a) and 324E(6)﻿(a), the person’s identity has not been established to the satisfaction of a District Court Judge; or
     (c) the person has used false or fraudulently obtained documents, or other deceptive or fraudulent means, to gain entry; or
     (d) the person has failed to observe border control or other immigration formalities; or
     (e) the person has used a deceptive or clandestine method of entry (for example, as a stowaway or by entering outside of official points of entry, including closed or unauthorised entry points); or
@@ -278,7 +278,7 @@ In this Act, unless the context otherwise requires,—
       (ii) any visa deemed to be, or treated as being, held under this Act
   - **visa waiver** means a waiver under section 69 of the requirement to hold a visa permitting travel to New Zealand
   - **warrant of commitment** —
-    (a) means a warrant of commitment issued under section 317, 318, or 323; and
+    (a) means a warrant of commitment issued under section 317, 317AA, 318, or 323; and
     (b) includes—
       (i) a mass arrival warrant issued under section 317B (in respect of all or specified members of a mass arrival group); and
       (ii) a further warrant of commitment issued under section 317E(1)﻿(a) (in respect of all or specified members of a mass arrival group)
@@ -1914,8 +1914,8 @@ A constable may arrest a person, and present him or her to an immigration office
   (a) the expiry of 72 hours after the person (including a stowaway) first reports or presents to an immigration officer after arriving in New Zealand, unless that person is sooner arrested and detained or otherwise dealt with under Part 9:
   (b) in the case of a person whose visa is deemed to be cancelled under section 64(1)﻿(d)﻿(ii), 72 hours after the time when the person is physically located by an immigration officer or a constable following the person’s leaving the immigration control area in contravention of the instruction of an immigration officer, unless the person is sooner arrested and detained or otherwise dealt with under Part 9:
   (c) the person being granted a visa and entry permission:
-  (d) the expiry of a warrant of commitment issued under section 317 or 318, unless a further warrant of commitment is issued or the person is released on conditions under Part 9 or agrees to residence and reporting requirements under section 315:
-  (e) in the case of a person detained under a mass arrival warrant issued under section 317B, the expiry of the mass arrival warrant, unless a further warrant of commitment is issued under section 317, 317E, 318, or 323 or the person is released on conditions under Part 9, or agrees to residence and reporting requirements under section 315.
+  (d) the expiry of a warrant of commitment issued under section 317, 317AA, or 318, unless a further warrant of commitment is issued or the person is released on conditions under Part 9 or agrees to residence and reporting requirements under section 315:
+  (e) in the case of a person detained under a mass arrival warrant issued under section 317B, the expiry of the mass arrival warrant, unless a further warrant of commitment is issued under section 317, 317AA, 317E, 318, or 323 or the person is released on conditions under Part 9, or agrees to residence and reporting requirements under section 315.
 (2) This section is subject to section 117.
 (3) For the purposes of this section, a stowaway is deemed to arrive in New Zealand at the time when the craft on which the stowaway is travelling crosses into the territorial limits of New Zealand.
 
@@ -1927,8 +1927,8 @@ A constable may arrest a person, and present him or her to an immigration office
 (3) Subsection (4) applies to a person who is liable for turnaround and who is arrested and detained not later than 72 hours after he or she has been released from custody or imprisonment for suspected criminal offending, or criminal offending.
 (4) The person remains liable for turnaround until the earliest of the following:
   (a) the person is granted a visa and entry permission:
-  (b) the expiry of a warrant of commitment issued under section 317 or 318, unless a further warrant of commitment is issued or the person is released on conditions under Part 9 or agrees to residence and reporting requirements under section 315:
-  (c) in the case of a person detained under a mass arrival warrant issued under section 317B, the expiry of the mass arrival warrant, unless a further warrant of commitment is issued under section 317, 317E, 318, or 323 or the person is released on conditions under Part 9, or agrees to residence and reporting requirements under section 315.
+  (b) the expiry of a warrant of commitment issued under section 317, 317AA, or 318, unless a further warrant of commitment is issued or the person is released on conditions under Part 9 or agrees to residence and reporting requirements under section 315:
+  (c) in the case of a person detained under a mass arrival warrant issued under section 317B, the expiry of the mass arrival warrant, unless a further warrant of commitment is issued under section 317, 317AA, 317E, 318, or 323 or the person is released on conditions under Part 9, or agrees to residence and reporting requirements under section 315.
 
 **Obligations in relation to departure from New Zealand**
 
@@ -4685,7 +4685,7 @@ The powers of arrest and detention under this Part may be exercised for the foll
   (d) in the case of a person—
     (i) who is suspected of constituting a threat or risk to security, to detain the person pending the making of a deportation order; or
     (ii) who is subject to a deportation order under section 163, to deport the person by placing him or her on the first available craft leaving New Zealand:
-  (e) in the case of a person who has breached residence and reporting requirements agreed under section 315 or conditions imposed under section 324F, to detain the person pending a determination by a District Court Judge under section 317, 318, or 324F.
+  (e) in the case of a person who has breached residence and reporting requirements agreed under section 315 or conditions imposed under section 324F, to detain the person pending a determination by a District Court Judge under section 317, 317AA, 318, or 324F.
 
 ### 311 Implications of liability to arrest and detention
 Where a person is liable to arrest and detention under this Part,—
@@ -4751,10 +4751,11 @@ A person liable to arrest and detention under this Part may be detained by an im
   (a) must be made on oath; and
   (b) must include a statement of the reasons why the person should be the subject of a warrant of commitment; and
   (c) may include any other supporting evidence.
-(3) The Judge must determine the application under section 317, 318, or 323, as appropriate.
+(3) The Judge must determine the application under section 317, 317AA, 318, or 323, as appropriate.
 
-### 317 Decision on application for warrant of commitment
-(1) On an application for a warrant of commitment, a District Court Judge—
+### 317 Decision on application for warrant of commitment (non-claimant)
+(1AA) This section applies to a person who a District Court Judge is satisfied is not a claimant.
+(1) On an application for a warrant of commitment in respect of a person to whom this section applies, a District Court Judge—
   (a) must, if satisfied on the balance of probabilities that the person is not the person named in the application for the warrant of commitment, order that the person be released from custody immediately:
   (b) may, in any other case, either—
     (i) issue a warrant of commitment in the prescribed form authorising the person’s detention, in a place named in the warrant, for a period of up to 28 days, if satisfied of the matters in subsections (2) and (3) (and having taken into account the matters in subsections (4) and (5)); or
@@ -4773,6 +4774,29 @@ A person liable to arrest and detention under this Part may be detained by an im
     (i) served with a deportation liability notice; or
     (ii) arrested and detained for the purpose of deportation or turnaround.
   (d)
+
+### 317AA Decision on application for warrant of commitment (claimant)
+(1) This section—
+  (a) applies in respect of a person who a District Court Judge is satisfied is a claimant:
+  (b) does not apply in respect of a person who is subject to a mass arrival warrant under section 317A.
+(2) On an application for a warrant of commitment in respect of a person to whom this section applies, a District Court Judge—
+  (a) must, if satisfied on the balance of probabilities that the person is not the person named in the application for the warrant of commitment, order that the person be released from custody immediately:
+  (b) may, in any other case,—
+    (i) issue a warrant of commitment in the prescribed form authorising the person’s detention, in a place named in the warrant, for a period of up to 28 days, if satisfied that,—
+      (A) on the basis of the application and the information contained in it, the person poses a clearly articulated threat or risk; and
+      (B) detention is reasonable in all the circumstances, proportionate, and the least restrictive measure necessary to manage that threat or risk; or
+    (ii) order the person’s release from custody on conditions under section 324F, if the Judge is not satisfied that detention is warranted.
+(3) A Judge—
+  (a) may consider a person’s irregular entry into New Zealand when assessing whether the person poses a clearly articulated threat or risk; but
+  (b) may not be satisfied that the person poses a clearly articulated threat or risk solely on the ground that the person entered New Zealand irregularly.
+(4) In this section,—
+  - **threat or risk** includes, without limitation, a threat or risk to—
+  (a) public order:
+  (b) public health:
+  (c) security
+  - **threat or risk to public order** includes, in relation to a person and without limitation, a threat or risk of the person—
+    (a) absconding for the purpose of avoiding compliance with this Act:
+    (b) failing to comply with this Act.
 
 ### 317A Application for mass arrival warrant
 (1) An immigration officer may apply to a District Court Judge for a warrant of commitment authorising the detention, for a period of not more than 6 months, of the members of a mass arrival group (a mass arrival warrant) if—
@@ -4908,7 +4932,7 @@ A person liable to arrest and detention under this Part may be detained by an im
   (a) the person ceases to be liable to arrest and detention under this Part; and
   (b) an immigration officer must give written notice of that fact,—
     (i) in the case of a person being detained under a warrant of commitment, to the manager or other person in charge of the prison or premises identified in the warrant; or
-    (ii) in the case of a person released on conditions under section 317(1)﻿(b)﻿(ii), 318(3)﻿(b), 323(3), 324A(6)﻿(b), 324D, 324E, or 324F, to the person.
+    (ii) in the case of a person released on conditions under section 317(1)﻿(b)﻿(ii), 317AA, 318(3)﻿(b), 323(3), 324A(6)﻿(b), 324D, 324E, or 324F, to the person.
 
 ### 323 Decisions on warrants of commitment where detention beyond 6 months
 (1) This section applies where a person would, upon a successful application for a further warrant of commitment under section 316, be detained under consecutive warrants of commitment for a continuous period of more than 6 months following—
@@ -4958,7 +4982,7 @@ A person liable to arrest and detention under this Part may be detained by an im
 (5) An application under subsection (3) or (4) must be made with the leave of a District Court Judge, which may be granted only if the Judge is satisfied that new information has become available that—
   (a) is material to the person’s ongoing detention or release on conditions; and
   (b) was unavailable at the time the warrant of commitment or the decision to release on conditions was made.
-(6) An application for a review of a warrant of commitment or release on conditions must be considered having regard to section 317, 318, or 323, as appropriate.
+(6) An application for a review of a warrant of commitment or release on conditions must be considered having regard to section 317, 317AA, 318, or 323, as appropriate.
 
 ### 324A Review of mass arrival warrant
 (1) In this section, warrant of commitment means—
@@ -4984,7 +5008,7 @@ A person liable to arrest and detention under this Part may be detained by an im
   (b) an order that the individual be released on conditions under section 324F; or
   (c) an order that the individual be released.
 (7) An application for a warrant of commitment under subsection (6)﻿(a) must be made under section 316 and determined by a District Court Judge in accordance with subsection (3) of that section.
-(8) An application for release on conditions under subsection (6)﻿(b) must be considered having regard to section 317, 318, or 323, as appropriate.
+(8) An application for release on conditions under subsection (6)﻿(b) must be considered having regard to section 317, 317AA, 318, or 323, as appropriate.
 (9) If a member of a mass arrival group is dealt with under subsection (6),—
   (a) he or she—
     (i) is no longer to be treated as a member of a mass arrival group for the purposes of this Act; and
@@ -5061,7 +5085,7 @@ A person liable to arrest and detention under this Part may be detained by an im
   (b) may not be satisfied that the person poses a clearly articulated threat or risk solely on the ground that the person entered New Zealand irregularly.
 
 ### 324F Release on conditions
-(1) This section applies if a District Court Judge orders a person’s release under section 317(1)﻿(b)﻿(ii), 318(3)﻿(b), 323(3), 324A(6)﻿(b), 324D, or 324E on conditions.
+(1) This section applies if a District Court Judge orders a person’s release under section 317(1)﻿(b)﻿(ii), 317AA(2)﻿(b)﻿(ii), 318(3)﻿(b), 323(3), 324A(6)﻿(b), 324D, or 324E on conditions.
 (2) The Judge must impose the following conditions:
   (a) a condition that the released person report to a specified place for specified periods or at specified times in a specified manner:
   (b) if the person is a claimant, a condition that the released person attend any—
@@ -5111,7 +5135,7 @@ A person may be detained under section 312 or arrested and detained under sectio
 ### 324I Lapse of conditions of release
 Conditions imposed under section 324F or varied under section 324G lapse, and the person subject to the conditions ceases to be bound by them,—
   (a) if the person—
-    (i) is detained under section 313 or under a warrant of commitment under section 317; or
+    (i) is detained under section 313 or under a warrant of commitment under section 317 or 317AA; or
     (ii) leaves New Zealand; or
     (iii) otherwise ceases to be liable to arrest and detention under this Part:
   (b) on the final expiry of any term for which the condition applies.
@@ -5132,7 +5156,7 @@ Conditions imposed under section 324F or varied under section 324G lapse, and th
 ### 326 Process for High Court to consider application
 (1) Where an application is transferred or made directly to the High Court under section 325, sections 252, 257 to 259, and 261 to 270 apply, with the necessary modifications.
 (2) In determining the application,—
-  (a) sections 317, 318, 324F, 321, 323, and 324 apply as appropriate, with the necessary modifications; and
+  (a) sections 317, 317AA, 318, 321, 323, 324, and 324F apply as appropriate, with the necessary modifications; and
   (b) it is not the role of the nominated Judge to determine the matters described in section 243(1); and
   (c) the classified information must be treated as accurate.
 
