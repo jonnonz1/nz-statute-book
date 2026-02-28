@@ -1,5 +1,5 @@
 # Social Workers Registration Act 2003
-_Consolidation as at 2025-08-01_
+_Consolidation as at 2026-02-28_
 
 ### 1 Title
 This Act is the Social Workers Registration Act 2003.
@@ -250,16 +250,7 @@ If an authorisation includes a condition referred to in section 8B(3)﻿(a) that
 [Repealed]
 
 ### 13 Board may recognise practical experience in certain cases
-(1) The Board may decide that the applicant should be registered fully if—
-  (a) the applicant has neither a prescribed qualification nor an overseas qualification equivalent to a prescribed qualification; but
-  (b) the Board is satisfied that—
-    (i) the applicant’s practical experience in practising as a social worker in New Zealand is enough to compensate for the lack of such a qualification; and
-    (ii) the applicant’s competence to practise as a social worker has been found satisfactory under Part 3; and
-    (iii) the applicant is a fit and proper person to practise as a social worker; and
-    (iv) that (whether as a result of the applicant’s satisfactory completion of a course or courses of training, or because the applicant’s practical experience in practising as a social worker in New Zealand is enough to compensate for not having completed such a course) the applicant—
-      (A) is competent to practise as a social worker with Māori; and
-      (B) is competent to practise as a social worker with various ethnic and cultural groups in New Zealand.
-(2) Subsection (1) overrides section 8F.
+[Repealed]
 
 ### 14 Criteria for provisional registration
 The Board must decide that the applicant should be registered provisionally if satisfied—
