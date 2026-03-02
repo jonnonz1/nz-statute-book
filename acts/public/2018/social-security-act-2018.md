@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2025-10-20_
+_Consolidation as at 2026-03-02_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -618,41 +618,47 @@ MSD may grant a young parent payment to a young person (P) who meets all of the 
 
 ### Subpart 10 — Accommodation supplement
 
-### 65 Accommodation supplement: discretionary grant
-(1) MSD may grant a person (P), for the period that MSD determines, an accommodation supplement if—
+### 65AAA Accommodation supplement: interpretation
+In this subpart and Part 7 of Schedule 4, unless the context otherwise requires,—
+  - **accommodation costs** , for a person () and a period, means,—
+    (a) if P owns the premises at which P resides and paragraph (b) does not apply, the total amount of all payments (including essential repairs and maintenance, local authority rates, and house insurance premiums, but excluding any service costs and any arrears) that,—
+      (i) subject to clause 18 of Schedule 3, are required to be made for the period under any mortgage security for money advanced under that security to acquire those premises, or to repay advances similarly secured; or
+      (ii) MSD is satisfied are reasonably required to be made in relation to those premises for the period:
+    (b) if P resides at premises that P owns as a joint tenant, or as a tenant in common, with another person or other persons residing at those premises, the share of the total amount described in paragraph (a) that MSD is satisfied that P is paying:
+    (c) if P resides at any social housing in relation to which P is an additional resident, 62% of P’s contributions for the period (excluding any arrears):
+    (d) if P is a boarder, 62% of the amount paid by P for the period for board and lodgings at the premises at which P resides (excluding any arrears):
+    (e) in any other case, the amount of rent that MSD is satisfied that P has paid for the period in respect of the premises at which P resides (excluding any service costs and any arrears)
+  - **boarder** —
+    (a) means a person—
+      (i) who resides, and pays for board and lodgings, at a boarding house; or
+      (ii) who—
+        (A) resides at any other premises; and
+        (B) makes payments for board and lodgings at those other premises that do not include a separately identifiable component that is paid for lodgings; but
+    (b) does not include a person who resides at any social housing
+  - **boarding house** has the same meaning as in section 66B of the Residential Tenancies Act 1986
+  - **contributions** has the same meaning as in section 2(1) of the Public and Community Housing Management Act 1992
+  - **service costs** , in relation to any premises,—
+    (a) means the cost as reasonably determined by MSD of any services (for example, electricity supply, gas supply, telephone network connection, or broadband Internet connection) provided to or in connection with the premises for consumption or use by the occupants of the premises; but
+    (b) does not include the cost of water supplied to the premises.
+
+### 65 Accommodation supplement: requirements
+(1) A person (P) is entitled to an accommodation supplement if—
   (a) P has accommodation costs; and
   (b) P meets the assets requirement (as set out in regulations made under section 423); and
   (c) P is not excluded on either of the following grounds:
     (i) the social housing exclusion:
     (ii) the other funding exclusion.
-(2) In this subpart, unless the context otherwise requires,—
-  - **accommodation costs** , in relation to any person for any given period, means,—
-    (a) in relation to premises rented by the person, the amount payable by the person for rent of the premises, excluding any service costs included in that rent and any arrears:
-    (b) in relation to premises that are owned by the person, the total amount of all payments (including essential repairs and maintenance, local authority rates, and house insurance premiums, but excluding any service costs and any arrears) that,—
-      (i) subject to clause 18 of Schedule 3, are required to be made under any mortgage security for money advanced under that security to acquire the premises, or to repay advances similarly secured; or
-      (ii) MSD is satisfied are reasonably required to be made:
-    (c) in relation to a person who is a boarder or lodger in any premises, 62% of the amount paid for board or lodging (excluding any arrears):
-    (d) if a person is a joint tenant of, or an owner in common of, any premises with another person or other persons living in the premises, that applicant’s accommodation costs are the share of the total accommodation costs of the jointly tenanted, or commonly owned, premises that MSD is satisfied the person is paying
-  - **service costs** , in relation to any premises,—
-    (a) means the cost as reasonably determined by MSD of any services (for example, electricity supply, gas supply, telephone network connection, or broadband Internet connection) provided to or in connection with the premises for consumption or use by the occupants of the premises; but
-    (b) does not include the cost of water supplied to the premises.
+(2)
 
-### 66 Social housing exclusion
-(1) A person is ineligible for an accommodation supplement (on the ground of the social housing exclusion) if the person’s accommodation costs (as defined in section 65) include—
+### 66 Accommodation supplement: social housing exclusion
+(1) A person is ineligible for an accommodation supplement (on the ground of the social housing exclusion) if the person’s accommodation costs (as defined in section 65AAA) include—
   (a) rent paid in respect of premises let by or on behalf of Kāinga Ora–Homes and Communities; or
   (b) rent paid in respect of premises let by or on behalf of a registered community housing provider (but only if that person has been allocated those premises as social housing); or
   (c) payments, required to be made under a mortgage security to Kāinga Ora–Homes and Communities or the Crown in right of Te Puni Kōkiri, that MSD believes are required to be made at a concessionary rate.
-(2) In this section,—
-  - **Kāinga Ora–Homes and Communities** means Kāinga Ora–Homes and Communities established by the Kāinga Ora–Homes and Communities Act 2019
-  - **registered community housing provider** has the same meaning as in section 2 of the Public and Community Housing Management Act 1992
-  - **social housing** has the same meaning as in section 2 of the Public and Community Housing Management Act 1992.
-(3) In this section and section 68,—
-  - **premises** , in relation to a person,—
-    (a) means the place that the person occupies as a home; and
-    (b) if the person is a boarder or lodger, includes a room, or other accommodation, that the person occupies as a home
-  - **tenant** , in relation to rented premises, includes a person who pays rent, whether or not the person is a party to the tenancy agreement or lease of the premises.
+(2)
+(3)
 
-### 67 Other funding exclusion
+### 67 Accommodation supplement: other funding exclusion
 A person (P) is ineligible for an accommodation supplement (on the ground of the other funding exclusion) if—
   (a) P is the spouse or partner of a person who is already receiving an accommodation supplement (except as provided in section 68); or
   (b) P—
@@ -668,18 +674,21 @@ A person (P) is ineligible for an accommodation supplement (on the ground of the
     (ii) if P is a community spouse or partner (as so defined), the total income of P alone (disregarding any income of P’s spouse or partner who is receiving long-term residential care in a hospital or rest home) is more than the applicable amount specified in Part 2 of Schedule 5.
 
 ### 68 Accommodation supplement: special rules for joint tenants who are in relationship
-(1) If premises are occupied by 2 or more joint tenants that include 1 or more couples who are in a relationship, then, for the purposes of determining the rate of an accommodation supplement,—
+(1) If premises are occupied as a residence by 2 or more joint tenants that include 1 or more couples who are in a relationship, then, for the purposes of determining the rate of an accommodation supplement,—
   (a) each couple is treated as 1 joint tenant; and
-  (b) despite the definition of accommodation costs in section 65, the accommodation costs of that 1 joint tenant are the total of the accommodation costs of both members of the couple; and
+  (b) despite the definition of weekly qualifying accommodation costs in clause 7 of Part 7 of Schedule 4, the weekly qualifying accommodation costs of that 1 joint tenant are the total of the weekly qualifying accommodation costs of both members of the couple; and
   (c) the cash assets and income of that 1 joint tenant are the total of the cash assets and income respectively of both members of the couple.
-(2) In this section, cash assets—
-  (a) means—
-    (i) money saved with a bank or other institution, money invested with a bank or other institution, or money banked with a bank or other institution:
-    (ii) money invested in securities, bonds, or debentures, or advanced on mortgage:
-    (iii) money withdrawn from a KiwiSaver scheme registered under subpart 2 of Part 4 of the Financial Markets Conduct Act 2013:
-    (iv) money invested in shares in a partnership or limited liability company or other incorporated or unincorporated body; but
-  (b) does not include any contributions to, or any member’s interest in, any KiwiSaver scheme that is registered under subpart 2 of Part 4 of the Financial Markets Conduct Act 2013; and
-  (c) does not include any item or kind of cash assets or any amount of cash assets exempted by regulations made under section 423(1)﻿(b).
+(2) In this section,—
+  - **cash assets** —
+    (a) means—
+      (i) money saved with a bank or other institution, money invested with a bank or other institution, or money banked with a bank or other institution:
+      (ii) money invested in securities, bonds, or debentures, or advanced on mortgage:
+      (iii) money withdrawn from a KiwiSaver scheme registered under subpart 2 of Part 4 of the Financial Markets Conduct Act 2013:
+      (iv) money invested in shares in a partnership or limited liability company or other incorporated or unincorporated body; but
+    (b) does not include—
+      (i) any contributions to, or any member’s interest in, any KiwiSaver scheme that is registered under subpart 2 of Part 4 of the Financial Markets Conduct Act 2013; or
+      (ii) any item or kind of cash assets or any amount of cash assets exempted by regulations made under section 423(1)﻿(b)
+  - **tenant** , in relation to rented premises, includes a person who pays rent in respect of the premises, whether or not the person is a party to the tenancy agreement or lease of the premises.
 
 ### 69 Accommodation supplement: refusal, reduction, or cancellation of grant in certain circumstances
 (1) If MSD is satisfied that an applicant for an accommodation supplement (A), or A’s spouse or partner, has not realised any assets available for A’s personal use, MSD may—
@@ -692,6 +701,8 @@ A person (P) is ineligible for an accommodation supplement (on the ground of the
   (b) A’s spouse or partner is receiving long-term residential care in a hospital or rest home.
 (2B) However, subsection (2) does not limit section 67(c), under which a person (P, who may, or may not, be A’s spouse or partner) is ineligible for an accommodation supplement if P is a resident assessed as requiring care in respect of whom a funder is paying some or all of the cost of contracted care services under section 54, 55, 56, 57, or 58 of the Residential Care and Disability Support Services Act 2018.
 (3) For the period of 12 months after A or A’s spouse or partner receives a specified lump sum payment, subsection (1) does not apply to that specified lump sum payment.
+(3A) MSD must refuse to grant an accommodation supplement if MSD is satisfied that it would, if granted, be payable at a rate of zero.
+(3B) MSD must cancel an accommodation supplement that has been granted if it has been payable at a rate of zero for 8 consecutive weeks.
 (4) This section does not limit MSD’s discretion to refuse to grant, to reduce the rate of, or to cancel an accommodation supplement in accordance with the other provisions of this Act.
 (5) In this section, specified lump sum payment means—
   (a) a payment of an impairment lump sum under Schedule 1 of the Accident Compensation Act 2001; or
@@ -1027,6 +1038,42 @@ MSD must take reasonable and appropriate steps to explain, to every person who i
 
 ### 108 MSD must assist in relation to obtaining overseas pension, etc
 MSD must take all reasonable steps to assist any person to comply with that person’s obligations under sections 173 and 177.
+
+**Obligations in relation to discrepancies in information received**
+
+### 108A Obligations in relation to discrepancies in information received relevant to housing assistance
+(1) This section applies if—
+  (a) MSD identifies a discrepancy between—
+    (i) information received by MSD from a beneficiary (A) who is receiving housing assistance; and
+    (ii) information received by MSD from—
+      (A) another beneficiary (B) who is receiving housing assistance; or
+      (B) a tenant of social housing (B) who pays an income-related rent; and
+  (b) the discrepancy is in information that is relevant for the purposes of ascertaining—
+    (i) either or both of the following:
+      (A) whether A is, or remains, entitled to receive housing assistance, or the rate of housing assistance, that is being paid to A:
+      (B) whether A was not entitled to receive housing assistance, or the rate of housing assistance, that was paid to A; and
+    (ii) any 1 or more of the following:
+      (A) whether B is, or remains, entitled to receive housing assistance, or the rate of housing assistance, that is being paid to B:
+      (B) whether B was not entitled to receive housing assistance, or the rate of housing assistance, that was paid to B:
+      (C) whether the income-related rent that B is paying or some other income-related rent is now appropriate:
+      (D) whether the income-related rent that B was paying at some earlier time or some other income-related rent was appropriate; and
+  (c) the discrepancy is not resolved to MSD’s satisfaction, within 1 working day after MSD identified the discrepancy, as a result of MSD doing either or both of the following:
+    (i) checking with A that the information that MSD received from A correctly reflects what A intended to provide to MSD:
+    (ii) checking with B that the information that MSD received from B correctly reflects what B intended to provide to MSD.
+(2) MSD must notify A and B of the particulars of the discrepancy as soon as reasonably practicable.
+(3) If the discrepancy is not resolved to MSD’s satisfaction within 10 working days from the date on which MSD notified A and B of the particulars of the discrepancy, MSD must suspend, with effect starting on the first working day after the end of that 10-working-day period,—
+  (a) any housing assistance that is payable to A; and
+  (b) any housing assistance that is payable to B.
+(4) If the discrepancy is not resolved to MSD’s satisfaction within 8 weeks of the date on which the suspensions took effect, MSD must cancel—
+  (a) any housing assistance that has been granted to A; and
+  (b) any housing assistance that has been granted to B.
+(5) If there is an inconsistency between this section and another provision of this Act, this section prevails.
+(6) In this section,—
+  - **housing assistance** means a benefit that is—
+    (a) an accommodation supplement; or
+    (b) temporary additional support; or
+    (c) a special benefit continued under section 23 of the Social Security (Working for Families) Amendment Act 2004 (as that section is saved by clause 19 of Schedule 1 of this Act)
+  - **income-related rent** and have the same meanings as in section 2(1) of the Public and Community Housing Management Act 1992.
 
 ### Subpart 3 — Beneficiaries’ obligations
 
@@ -1465,8 +1512,10 @@ The procedure for the granting of an exemption under section 158, including the 
     (i) details of the young person’s accommodation costs and service costs and other lawful debts and liabilities; and
     (ii) any other information reasonably required by MSD to effect youth money management under section 341.
 (2) In this section,—
-  - **accommodation costs** , in relation to any young person, has the same meaning as in section 65 except that, in relation to a person who is a boarder or lodger in any premises, it means 100% of the amount paid for board or lodging
-  - **service costs** has the same meaning as in section 65.
+  - **accommodation costs** , for a young person and a period, has the same meaning as in section 65AAA except that,—
+    (a) if the person resides at any social housing in relation to which the person is an additional resident, it means 100% of the person’s contributions (as defined in section 65AAA) for the period; and
+    (b) if the person is a boarder, it means 100% of the amount paid by the person for the period for board and lodgings at the premises at which they reside
+  - **service costs** has the same meaning as in section 65AAA.
 (3) In this section and in sections 166 and 167,—
   - **approved training** means an employment-related training course approved by MSD
   - **full-time course** has the same meaning as in—
@@ -3438,6 +3487,113 @@ After the review, MSD may terminate a winter energy payment under section 75.
 (3) In this section, benefit includes special assistance granted under a programme approved under section 100 or 101.
 (4) For the purposes of this section, the amount of an insurance payment must, to the extent MSD so determines, be reduced by the amount of any costs incurred by an applicant for a benefit or a beneficiary in obtaining receipt of that payment.
 
+### Subpart 3A — Mandatory reviews
+
+### 310A Meaning of specified benefit
+In this subpart, specified benefit means a benefit designated by regulations made under section 438A to be a specified benefit for the purposes of this subpart.
+
+### 310B MSD must review eligibility for, and rate of, specified benefits
+(1) MSD must, for the purpose set out in subsection (2), review a specified benefit that has been granted—
+  (a) within 52 weeks after the date on which the benefit commences; and
+  (b) within 52 weeks after the date of completion of the most recent review of the benefit under this subpart or section 304 for that purpose.
+(2) The purpose referred to in subsection (1) is to ascertain whether the beneficiary—
+  (a) is, or remains, entitled to receive the benefit, or the rate of benefit, that is being paid to the beneficiary; or
+  (b) was not entitled to receive the benefit, or the rate of benefit, that was paid to the beneficiary.
+(3) MSD must review all specified benefits when undertaking a mandatory review and must review those specified benefits no later than 52 weeks after the later of the following dates:
+  (a) if the client receives a main benefit that is a specified benefit,—
+    (i) the date on which the beneficiary’s main benefit commenced; or
+    (ii) the date on which the beneficiary’s main benefit was last reviewed:
+  (b) if the client does not receive a main benefit that is a specified benefit,—
+    (i) the date on which the beneficiary’s last specified benefit that is a supplementary benefit commenced; or
+    (ii) the date on which the beneficiary’s last specified benefit that is a supplementary benefit was last reviewed.
+(4) Subsections (1) to (3) are subject to sections 310C to 310G.
+(5) To avoid doubt, a beneficiary remains entitled to receive the specified benefit, and the rate of the specified benefit, that the beneficiary received immediately before the review if the review determines that the beneficiary’s circumstances are unchanged.
+
+### 310C Information for mandatory reviews of specified benefits
+(1) For the purposes of the mandatory review specified in section 310B, the beneficiary must, before the date by which MSD is required under section 310B(1) to have reviewed a specified benefit, provide MSD with—
+  (a) the information that MSD has notified the beneficiary under section 310D that MSD requires for the review:
+  (b) the answers to questions that MSD has notified the beneficiary under section 310D that MSD requires for the review.
+(2) If, as a result of giving information or answers in response to a notification described in subsection (1), MSD determines that the beneficiary’s circumstances have changed, MSD may require the beneficiary to provide information or answers—
+  (a) in a way that MSD specifies; and
+  (b) by a reasonable deadline that MSD specifies.
+(3) If, in the case of a mandatory review of a specified benefit for the purpose set out in section 310B(2), the beneficiary contacts MSD before the specified deadline, MSD may extend the time allowed under subsection (1) by up to 20 working days if MSD is satisfied that the beneficiary has a good and sufficient reason for not being able to provide the information, or answer the questions, in the specified way by the specified deadline.
+(4) If the beneficiary fails to comply with a requirement under this section, MSD must suspend, with effect from the end of the day before the relevant deadline set out in subsection (5), every benefit or special assistance granted under section 100 or 101 that—
+  (a) the beneficiary is receiving; and
+  (b) is not of a kind listed in subsection (6).
+(5) The relevant deadline referred to in subsections (4) and (8)﻿(a) and (b) is,—
+  (a) if MSD does not require information under subsection (2) and has not granted the beneficiary an extension under subsection (3), the deadline specified in subsection (1):
+  (b) if MSD has not granted the beneficiary an extension under subsection (3), the deadline MSD has specified under subsection (2):
+  (c) if MSD has granted the beneficiary an extension under subsection (3), the extended deadline.
+(6) The kinds of benefits referred to in subsection (4)﻿(b) are the following:
+  (a) a child disability allowance:
+  (b) an orphan’s benefit:
+  (c) an unsupported child’s benefit:
+  (d) a youth payment:
+  (e) a young parent payment:
+  (f) childcare assistance:
+  (g) New Zealand superannuation (other than New Zealand superannuation that is being paid at a rate specified in clause 1 of Part 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001):
+  (h) a veteran’s pension:
+  (i) assistance paid under the guaranteed childcare assistance programme.
+(7) If MSD suspends a benefit under subsection (4) and the beneficiary does not provide the information required under subsection (1) or (2) within the relevant period set out in subsection (8), MSD must cancel the benefit or special assistance granted under section 100 or 101.
+(8) The relevant period referred to in subsection (7) is,—
+  (a) if the suspended benefit is not New Zealand superannuation paid at the rate specified in clause 1 of Part 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001, a period of 8 weeks starting immediately after the relevant deadline set out in subsection (5):
+  (b) if the suspended benefit is New Zealand superannuation paid at the rate specified in clause 1 of Part 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001, a period of 2 years starting immediately after the relevant deadline set out in subsection (5).
+(9) This section does not limit sections 113, 290, and 300, and clause 2 of Schedule 6.
+
+### 310D MSD must notify or advise beneficiaries
+(1) For the purposes of the mandatory review specified in section 310B, MSD must, at least 20 working days before the date by which MSD is required under section 310B(1) to have reviewed a specified benefit, inform the beneficiary of—
+  (a) the information that it requires for the review:
+  (b) the questions for which it requires answers for the review.
+(2) When requiring information under subsection (1), MSD must give the beneficiary a notice that—
+  (a) states—
+    (i) that MSD is required to review the specified benefit in accordance with section 310B; and
+    (ii) the date by which the beneficiary is required to provide the information or answer questions; and
+    (iii) that, unless an exception, exemption, or extension applies, the beneficiary’s benefit will be suspended if the beneficiary fails to provide the information by the deadline specified in section 310C(1) or (2) or the date specified in an extension given under section 310C(3); and
+  (b) specifies—
+    (i) any information that MSD, under section 310C, requires the beneficiary to provide for the mandatory review; and
+    (ii) the way in which that information must be provided; and
+    (iii) any questions that MSD, under section 310C, requires the beneficiary to answer for the mandatory review; and
+    (iv) the way in which those questions must be answered; and
+    (v) the deadline for providing that information or answering those questions.
+(3) Subsections (1) and (2) do not apply if, at the time that MSD is required to give a notice under that subsection, the specified benefit—
+  (a) is suspended; or
+  (b) is not for the time being payable under this Act, for example, under—
+    (i) section 217 (benefit not payable during custody in prison or on remand); or
+    (ii) section 219 (general rule: benefit not payable while beneficiary absent from New Zealand).
+(4) However, if the suspension ends and the specified benefit becomes payable under this Act, or the specified benefit otherwise becomes payable under this Act, MSD must, as soon as practicable, take reasonable steps to advise the beneficiary of the matters set out in subsection (2).
+
+### 310E Exceptions to requirement to review specified benefits
+(1) MSD is not required to undertake or complete a review that MSD would, but for this section, be required to undertake and complete under section 310B(1) if,—
+  (a) at the mandatory review deadline, the specified benefit—
+    (i) is suspended; or
+    (ii) is not for the time being payable under this Act; or
+  (b) at any time or times, or at all times, in the period that starts at least 20 working days before the mandatory review deadline and ends on the mandatory review deadline,—
+    (i) there is a disruption to an automated electronic system used for mandatory reviews by MSD of specified benefits; or
+    (ii) 1 or more of the prescribed circumstances apply to the beneficiary.
+(2) In this section,—
+  - **mandatory review deadline** means the date by which MSD would, but for this section, be required to undertake the mandatory review
+  - **prescribed circumstances** means any circumstances that are—
+    (a) circumstances in which MSD is not required under this section to undertake a mandatory review that MSD would, but for this section, be required to undertake under section 310B(1); and
+    (b) prescribed for the purposes of this section by regulations made under section 438A.
+
+### 310F Exemption from mandatory review
+MSD is not required to undertake or complete a review that MSD would, but for section 310E, be required to undertake and complete under section 310B(1) if MSD is satisfied that, owing to the beneficiary’s circumstances, a mandatory review should not be undertaken or completed (for example, the circumstances specified in sections 326 to 330).
+
+### 310G When MSD must review specified benefit that was suspended or otherwise not payable at mandatory review deadline
+(1) This section applies if,—
+  (a) because section 310E(1)﻿(a) applies, MSD is not required to undertake or complete a review that MSD would, but for that section, be required to undertake and complete under section 310B(1); and
+  (b) the suspension ends and the specified benefit becomes payable under this Act, or the specified benefit otherwise becomes payable under this Act, after the mandatory review deadline (as defined in section 310E(2)).
+(2) MSD must, as soon as practicable, review the specified benefit for the purpose set out in section 310B(2).
+
+### 310H Application of certain provisions in subpart 3 of this Part to this subpart
+The following provisions in subpart 3 of this Part apply, with all necessary modifications, to mandatory reviews under this subpart:
+  (a) section 304(3) (review of, or appeal against, decision on review under subpart):
+  (b) section 306 (no entitlement, or entitlement only at different rate):
+  (c) section 307 (benefit on another eligibility ground more appropriate):
+  (d) section 308 (another benefit more appropriate):
+  (e) section 309 (termination of winter energy payment):
+  (f) section 310 (certain benefits granted, or granted at rate, not taking into account certain insurance payments).
+
 ### Subpart 4 — Commencement, stand downs, ending, and expiry and regrant
 
 **Commencement of benefits**
@@ -3985,13 +4141,15 @@ Meanings of specified person and specified provision
     (b) a public service employee, or other person, acting under a delegation (direct or indirect) from that chief executive
   - **specified provision** has the same meaning as in clause 11 of Schedule 3.
 What specified provision must be about
-(3) The specified provision must be about—
-  (a) how an information share child support payment is or affects any person’s assets, income, or other means of any kind (however described), for the purposes of, or for any purpose related to,—
+(3) The specified provision must—
+  (a) be about how an information share child support payment is or affects any person’s assets, income, or other means of any kind (however described), for the purposes of, or for any purpose related to,—
     (i) a benefit; or
     (ii) any other assistance under this Act; or
-  (b) sanctions for breach of obligations other than young person or young parent obligations; or
-  (c) sanctions for breach of young person or young parent obligations; or
-  (d) expiry and regrant of specified benefits.
+  (b) be about sanctions for breach of—
+    (i) young person or young parent obligations; or
+    (ii) obligations other than young person or young parent obligations; or
+  (c) be about mandatory reviews by MSD of specified benefits (as defined in section 310A(1)); or
+  (d) be about expiry and regrant of specified benefits (as defined in section 331(1)).
 Requirements for approval
 (4) MSD may approve the use of an automated electronic system only if—
   (a) the system is under the responsible department’s control; and
@@ -4945,6 +5103,12 @@ A power in this Part to make any Orders in Council is not limited by any power o
   (m) provide for MSD, in any special case, and despite other regulations, to authorise payment of travelling expenses in respect of any applicant or beneficiary, or applicants or beneficiaries of any description, at rates and subject to conditions determined by MSD:
   (n) provide for receipt and deadline requirements for claims for refunds, and allow MSD to extend the deadline in any special circumstances.
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 438A Regulations: requirement regarding specified benefits
+(1) The Governor-General may, by Order in Council, make regulations for either or both of the following purposes:
+  (a) designating the benefits or kinds of benefits that are a specified benefit or specified benefits for the purposes of subpart 3A of Part 6:
+  (b) prescribing circumstances for the exception under section 310E(1) from the requirement for MSD to undertake a mandatory review under section 310B(1).
+(2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 439 Regulations: certain benefits granted, or granted at rate, not taking into account certain insurance payments
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of section 310.
@@ -6024,6 +6188,62 @@ Secondary legislation
 Power ends at, and any regulations made are revoked at, start of 1 July 2028
 (7) Regulations made under this clause cannot be made after, and are revoked by this clause at, the start of 1 July 2028.
 
+### Part 11 — Provisions relating to Social Assistance Legislation (Accommodation Supplement and Income-related Rent) Amendment Act 2025
+
+### 104 How MSD must decide accommodation supplement application made, but not decided, before 2 March 2026
+(1) This clause applies if, before 2 March 2026,—
+  (a) an application for an accommodation supplement was made; and
+  (b) the application—
+    (i) was not withdrawn; and
+    (ii) did not lapse; and
+  (c) MSD did not make a decision under section 301 in relation to the application.
+(2) Section 65AAA and the amendments to sections 65, 66, and 69 made by sections 5, 6, and 9 of the Social Assistance Legislation (Accommodation Supplement and Income-related Rent) Amendment Act 2025 do not apply for the purposes of the decision required to be made under section 301 in relation to the application.
+
+### 105 Transitional provision for persons granted benefit or other assistance before 2 March 2026
+(1) This clause applies to a person who—
+  (a) was receiving a benefit or other assistance under this Act immediately before 2 March 2026; or
+  (b) was granted a benefit or other assistance under this Act before 2 March 2026 that—
+    (i) commences on or after 2 March 2026; or
+    (ii) immediately before 2 March 2026, was subject to a suspension.
+(2) Section 65AAA and the amendments to section 68, clause 18 of Schedule 3, and Schedule 4 made by sections 8, 14(3), and 15 of the Social Assistance Legislation (Accommodation Supplement and Income-related Rent) Amendment Act 2025 apply to the person for weeks starting on or after 2 March 2026.
+(3) This clause is subject to clause 104.
+
+### Part 12 — Provisions relating to Social Security (Mandatory Reviews) Amendment Act 2025
+
+### 106 Interpretation
+In this Part,—
+  - **amendment Act** means the Social Security (Mandatory Reviews) Amendment Act 2025
+  - **commencement date** means the date on which the amendment Act comes into force.
+
+### 107 First mandatory review date for specified benefit granted and commences before commencement date
+(1) This clause applies if, before the commencement date,—
+  (a) MSD grants a beneficiary a specified benefit or specified benefits; and
+  (b) the specified benefit or specified benefits have commenced.
+(2) MSD must undertake the beneficiary’s first mandatory review for the purposes of subpart 3A of Part 6 no later than 52 weeks after the later of the following dates:
+  (a) the date on which the specified benefit or specified benefits commenced; or
+  (b) the date on which the beneficiary’s last review for the purposes of subpart 3 of Part 6 was completed; or
+  (c) the date on which MSD last contacted the beneficiary to confirm whether the information MSD holds regarding the beneficiary’s circumstances is correct.
+
+### 108 First mandatory review date for specified benefit granted but not commenced before commencement date
+(1) This clause applies if, before the commencement date,—
+  (a) MSD grants a beneficiary a specified benefit or specified benefits; but
+  (b) the specified benefit or specified benefits have not commenced.
+(2) MSD must undertake the beneficiary’s first mandatory review for the purposes of subpart 3A of Part 6 no later than 52 weeks after the date on which the beneficiary’s last specified benefit commenced.
+(3) However, if the beneficiary is also receiving a specified benefit to which clause 107 applies, the beneficiary’s first mandatory review for the specified benefit or specified benefits to which this clause applies must—
+  (a) be part of the mandatory review for the specified benefit to which clause 107 applies; and
+  (b) commence as specified in clause 107.
+
+### 109 First mandatory review date if clauses 107 and 108 both apply
+(1) Despite anything in clauses 107 and 108, this clause applies if a beneficiary has—
+  (a) a specified benefit or specified benefits to which clause 107 applies; and
+  (b) a specified benefit or specified benefits to which clause 108 applies.
+(2) The beneficiary’s first mandatory review for the specified benefit to which clause 108 applies must—
+  (a) be part of the mandatory review for the specified benefit to which clause 107 applies; and
+  (b) commence as specified in clause 107.
+(3) However, if a specified benefit to which clause 108 applies is the beneficiary’s main benefit, the beneficiary’s first mandatory review for the specified benefit or specified benefits to which clause 107 applies must—
+  (a) be part of the mandatory review for the specified benefit to which clause 108 applies; and
+  (b) commence as specified in clause 108.
+
 ## Schedule 2 — Dictionary
 
 ## Schedule 3 — Income and liabilities
@@ -6121,7 +6341,7 @@ Special provisions about cash assets or income for particular purposes
   (d) a benefit’s stand-down period (see regulations made under section 440).
 
 ### 8 Income excludes specified benefits, payments, interests acquired, etc
-A person’s income excludes the following amounts or payments:
+(1) A person’s income excludes the following amounts or payments:
   (a) any benefit, grant, allowance, or concession received by the person under this Act, Part 6 of the Veterans’ Support Act 2014, or Part 1 of the New Zealand Superannuation and Retirement Income Act 2001:
   (b) any pension or allowance (other than weekly income compensation or weekly compensation) under the Veterans’ Support Act 2014 received by any person because of the person’s own disablement:
   (c) any surviving spouse or partner pension received by the person under section 66 of the Veterans’ Support Act 2014:
@@ -6144,7 +6364,39 @@ A person’s income excludes the following amounts or payments:
   (n) a child support deduction for a receiving carer who is a UCB beneficiary:
   (na) a child support excess payment (which includes, without limitation, a mixed child support payment):
   (o) any amount of output tax charged in respect of a supply of goods and services made by that person:
-  (p) any amount of goods and services tax payable by the Commissioner of Inland Revenue to that person.
+  (p) any amount of goods and services tax payable by the Commissioner of Inland Revenue to that person:
+  (q) if the person is an applicable person (as defined in section 2(1) of the Public and Community Housing Management Act 1992) in relation to any social housing,—
+    (i) 38% of the value of any goods or services provided or paid for—
+      (A) by an additional resident; and
+      (B) for any 1 or more of the reasons set out in paragraphs (a) to (c) of the definition of contributions in section 2(1) of the Public and Community Housing Management Act 1992:
+    (ii) 38% of any payment made to the person—
+      (A) by an additional resident; and
+      (B) for any 1 or more of the reasons set out in paragraphs (a) to (c) of the definition of contributions in section 2(1) of the Public and Community Housing Management Act 1992:
+  (r) 38% of any amount that—
+    (i) is received by the person from a boarder (as defined in section 65AAA) for board and lodgings at the premises at which the person resides; and
+    (ii) is not derived by the person from a business carried on by the person.
+(2) In addition, the income of a person who has accommodation income for a period excludes the person’s accommodation income for the period to the extent that it does not exceed,—
+  (a) if the person resides at any social housing and is not an additional resident in relation to that housing, the market rent for that housing for the period; or
+  (b) in any other case, the amount calculated in accordance with the following formula:a × (1 − ((b + c + d) ÷ e))where—ais the person’s accommodation costs for the periodbis,—cis,—dis,—eis the total area of the premises at which the person resides.
+    (i) if the person does not use any separately identifiable part of the premises at which they reside primarily for business purposes during the period, zero; or
+    (ii) if paragraph (i) does not apply, the sum of the areas of each separately identifiable part of the premises at which the person resides that the person uses primarily for business purposes during the period
+    (i) if, during the period, the person does not let any self-contained part of the premises at which they reside to another person or other persons who reside at those premises, zero; or
+    (ii) if paragraph (i) does not apply, the sum of the areas of each self-contained part of the premises at which the person resides that, during the period, the person lets to another person or other persons who reside at those premises
+    (i) if, during the period, the person does not let any separately identifiable part of the premises at which they reside to another person or other persons who do not reside at those premises, zero; or
+    (ii) if paragraph (i) does not apply, the sum of the areas of each separately identifiable part of the premises at which the person resides that, during the period, the person lets to another person or other persons who do not reside at those premises
+(3) In this clause,—
+  - **accommodation costs** has the meaning given to it by section 65AAA
+  - **accommodation income** has the meaning given to it by clause 7 of Part 7 of Schedule 4
+  - **agency** has the same meaning as in section 2(1) of the Public and Community Housing Management Act 1992
+  - **Kāinga Ora housing** has the same meaning as in section 2(1) of the Public and Community Housing Management Act 1992
+  - **market rent** ,—
+    (a) for Kāinga Ora housing and for a period, means the rent notified to the agency by Kāinga Ora–Homes and Communities—
+      (i) as being the market rent for that housing; and
+      (ii) most recently before the agency last calculated or reviewed an income-related rent for a tenant of that housing before the start of the period:
+    (b) for housing provided by a registered community housing provider and for a period, means the rent notified to the agency by the provider—
+      (i) as being the market rent for that housing; and
+      (ii) most recently before the agency last calculated or reviewed an income-related rent for a tenant of that housing before the start of the period
+  - **tenant** has the same meaning as in section 2(1) of the Public and Community Housing Management Act 1992.
 
 ### 8A Exception to exclusion in clause 8(a): income includes COVID-19 income relief payment
 [Repealed]
@@ -6419,7 +6671,7 @@ Relationship with clauses 15F and 15G
 (1) This clause applies to a person if a debt insurance payment in relation to a mortgage security is made to the person, or to some other person—
   (a) on the person’s behalf; or
   (b) for the person’s benefit.
-(2) For the purposes of the definition in section 65 of accommodation costs, the payments required to be made by that person under that mortgage security are taken to be reduced by the amount of the debt insurance payment.
+(2) For the purposes of the definition in section 65AAA of accommodation costs, the payments required to be made by that person under that mortgage security are taken to be reduced by the amount of the debt insurance payment.
 
 ### 19 How expenses for disability allowance may be affected by health or disability insurance payment
 (1) This clause applies to a person if a health or disability insurance payment is made to the person, or to some other person—
@@ -6525,7 +6777,7 @@ The following table is small in size and contains 4 columns. The columns have no
 ### Part 7 — Accommodation supplement
 
 ###
-The following table is small in size and has 3 columns. The columns have no headings.1To a person who has 1 or more dependent children and who is in a relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are rent or payments for board and lodgings70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—2To a person who has no dependent children and who is in a relationship, or a sole parent with 1 dependent child, whose accommodation costs are rent or payments for board and lodgings70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—3To any other person whose accommodation costs are rent or payments for board and lodgings70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—4To a person who has 1 or more dependent children and who is in a relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—5To a person who has no dependent children and who is in a relationship, or a sole parent with 1 dependent child, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—6To any other person whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—6AThe rate of accommodation supplement payable to a community spouse or partner (as defined in Schedule 2) is the rate in items 1 to 6 that would apply to them if they were single (and their other circumstances were unchanged).7In this Part, dependent child (as defined in Schedule 2) excludes a child in respect of whom an orphan’s benefit or an unsupported child’s benefit is being paid.8For the purposes of subpart 10 of Part 2 and of this Part of this schedule,—Area 1 means the following parts of New Zealand (as on 26 June 2017 defined by the Government Statistician):Arrowtown urban areaBombay area unitCentral Auckland urban zoneClevedon area unitGlenbrook area unitHelensville South area unitHelensville urban areaHunua area unitKarekare area unitKaukapakapa area unitKaukapakapa rural area unitKingseat area unitMahurangi area unitMuriwai Beach area unitMuriwai Valley area unitNorthern Auckland urban zoneParakai urban area unitPatumahoe area unitPokeno area unitPukekohe urban areaQueenstown urban areaRewiti area unitRiverhead area unitSnells Beach urban areaSouthern Auckland urban zoneTahekeroa area unitTauranga urban areaWaiheke Island urban areaWaitakere West area unitWaiuku urban areaWanaka urban areaWarkworth urban areaWestern Auckland urban zoneArea 2 means the following parts of New Zealand (as on 26 June 2017 defined by the Government Statistician):Amberley urban areaAshburton urban areaAwhitu area unitBlenheim urban areaBrightwater urban areaCambridge urban zoneCape Rodney area unitCape Rodney South area unitChristchurch urban areaCromwell urban areaDarfield urban areaGreat Barrier Island area unitHamilton urban zoneHastings urban zoneIslands–Motutapu, Rangitoto, Rakino area unitKaiaua area unitKapiti urban areaKatikati Community urban areaKawakawa–Orere area unitKawau area unitKerikeri urban areaLeeston urban areaLeigh area unitLincoln urban areaLittle Barrier Island area unitLower Hutt urban zoneMakara–Ohariu area unitMangatawhiri area unitMangawhai area unitMangawhai Heads urban areaMapua urban areaMaramarua area unitMatakana area unitMatamata urban areaMatheson Bay area unitMeremere area unitMoonshine Valley area unitMotueka urban areaNapier urban zoneNelson urban areaNew Plymouth urban areaNgunguru urban areaOmaha area unitOnewhero area unitOtaua area unitOxford urban areaPaparata area unitParakai rural area unitPoint Wells area unitPorirua urban zoneRaglan urban areaRakaia urban area Rangiora urban areaRapaura area unitRolleston urban areaSouth Head area unitTauhoa–Puhoi area unitTaupo urban areaTe Awamutu urban zoneTe Kauwhata urban areaTe Puke Community urban areaUpper Hutt urban zoneWaihi Beach urban areaWakefield urban areaWellington urban zoneWellsford urban areaWhangamata urban areaWhangarei urban areaWhitianga urban areaWoodend urban areaArea 3 means the following parts of New Zealand (as on 26 June 2017 defined by the Government Statistician):Alexandra urban areaCarterton urban areaCloustonville area unitCoromandel urban areaDargaville urban areaDunedin urban areaEdgecumbe urban areaFeilding urban areaGeraldine urban areaGisborne urban areaGreymouth urban areaGreytown urban areaHanmer Springs area unitHawera urban areaHokitika urban areaHuntly urban areaInglewood urban areaKaikohe urban areaKaikoura urban areaKaitaia urban areaKapiti Island area unitKauwhata area unitKawakawa urban areaLevin urban areaMana Island area unitMangaroa area unitMartinborough urban areaMasterton urban areaMaungakotukutuku area unitMethven urban areaMorrinsville urban areaNgatea urban areaOamaru urban areaOpiki area unitOtaki urban areaOtorohanga urban areaPaekakariki Hill area unitPaeroa urban areaPaihia urban areaPalmerston North urban areaPencarrow area unitPicton urban areaPleasant Point urban areaRotorua urban areaRussell area unitShannon urban areaTaipa Bay–Mangonui urban areaTairua urban areaTakaka urban areaTe Aroha urban areaTemuka urban areaThames urban areaTimaru urban areaTokomaru area unitTokorangi–Hiwinui area unitTwizel Community urban areaWaihi urban areaWaikouaiti urban areaWaipawa urban areaWaitara urban areaWhakatane urban areaWinton urban areaArea 4 means any part of New Zealand not included in Area 1, Area 2, or Area 3.
+The following table is small in size and has 3 columns. The columns have no headings.1To a person who has 1 or more dependent children and who is in a relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are rent, contributions, or payments for board and lodgings70% of the amount by which an applicant's weekly qualifying accommodation costs exceeds 25% of the base rate, but not more than—2To a person who has no dependent children and who is in a relationship, or a sole parent with 1 dependent child, whose accommodation costs are rent, contributions, or payments for board and lodgings70% of the amount by which an applicant's weekly qualifying accommodation costs exceeds 25% of the base rate, but not more than—3To any other person whose accommodation costs are rent, contributions, or payments for board and lodgings70% of the amount by which an applicant's weekly qualifying accommodation costs exceeds 25% of the base rate, but not more than—4To a person who has 1 or more dependent children and who is in a relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home70% of the amount by which an applicant's weekly qualifying accommodation costs exceeds 30% of the base rate, but not more than—5To a person who has no dependent children and who is in a relationship, or a sole parent with 1 dependent child, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home70% of the amount by which an applicant's weekly qualifying accommodation costs exceeds 30% of the base rate, but not more than—6To any other person whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home70% of the amount by which an applicant's weekly qualifying accommodation costs exceeds 30% of the base rate, but not more than—6AThe rate of accommodation supplement payable to a community spouse or partner (as defined in Schedule 2) is the rate in items 1 to 6 that would apply to them if they were single (and their other circumstances were unchanged).7In this Part,—8For the purposes of subpart 10 of Part 2 and of this Part of this schedule,—Area 1 means the following parts of New Zealand (as on 26 June 2017 defined by the Government Statistician):Arrowtown urban areaBombay area unitCentral Auckland urban zoneClevedon area unitGlenbrook area unitHelensville South area unitHelensville urban areaHunua area unitKarekare area unitKaukapakapa area unitKaukapakapa rural area unitKingseat area unitMahurangi area unitMuriwai Beach area unitMuriwai Valley area unitNorthern Auckland urban zoneParakai urban area unitPatumahoe area unitPokeno area unitPukekohe urban areaQueenstown urban areaRewiti area unitRiverhead area unitSnells Beach urban areaSouthern Auckland urban zoneTahekeroa area unitTauranga urban areaWaiheke Island urban areaWaitakere West area unitWaiuku urban areaWanaka urban areaWarkworth urban areaWestern Auckland urban zoneArea 2 means the following parts of New Zealand (as on 26 June 2017 defined by the Government Statistician):Amberley urban areaAshburton urban areaAwhitu area unitBlenheim urban areaBrightwater urban areaCambridge urban zoneCape Rodney area unitCape Rodney South area unitChristchurch urban areaCromwell urban areaDarfield urban areaGreat Barrier Island area unitHamilton urban zoneHastings urban zoneIslands–Motutapu, Rangitoto, Rakino area unitKaiaua area unitKapiti urban areaKatikati Community urban areaKawakawa–Orere area unitKawau area unitKerikeri urban areaLeeston urban areaLeigh area unitLincoln urban areaLittle Barrier Island area unitLower Hutt urban zoneMakara–Ohariu area unitMangatawhiri area unitMangawhai area unitMangawhai Heads urban areaMapua urban areaMaramarua area unitMatakana area unitMatamata urban areaMatheson Bay area unitMeremere area unitMoonshine Valley area unitMotueka urban areaNapier urban zoneNelson urban areaNew Plymouth urban areaNgunguru urban areaOmaha area unitOnewhero area unitOtaua area unitOxford urban areaPaparata area unitParakai rural area unitPoint Wells area unitPorirua urban zoneRaglan urban areaRakaia urban area Rangiora urban areaRapaura area unitRolleston urban areaSouth Head area unitTauhoa–Puhoi area unitTaupo urban areaTe Awamutu urban zoneTe Kauwhata urban areaTe Puke Community urban areaUpper Hutt urban zoneWaihi Beach urban areaWakefield urban areaWellington urban zoneWellsford urban areaWhangamata urban areaWhangarei urban areaWhitianga urban areaWoodend urban areaArea 3 means the following parts of New Zealand (as on 26 June 2017 defined by the Government Statistician):Alexandra urban areaCarterton urban areaCloustonville area unitCoromandel urban areaDargaville urban areaDunedin urban areaEdgecumbe urban areaFeilding urban areaGeraldine urban areaGisborne urban areaGreymouth urban areaGreytown urban areaHanmer Springs area unitHawera urban areaHokitika urban areaHuntly urban areaInglewood urban areaKaikohe urban areaKaikoura urban areaKaitaia urban areaKapiti Island area unitKauwhata area unitKawakawa urban areaLevin urban areaMana Island area unitMangaroa area unitMartinborough urban areaMasterton urban areaMaungakotukutuku area unitMethven urban areaMorrinsville urban areaNgatea urban areaOamaru urban areaOpiki area unitOtaki urban areaOtorohanga urban areaPaekakariki Hill area unitPaeroa urban areaPaihia urban areaPalmerston North urban areaPencarrow area unitPicton urban areaPleasant Point urban areaRotorua urban areaRussell area unitShannon urban areaTaipa Bay–Mangonui urban areaTairua urban areaTakaka urban areaTe Aroha urban areaTemuka urban areaThames urban areaTimaru urban areaTokomaru area unitTokorangi–Hiwinui area unitTwizel Community urban areaWaihi urban areaWaikouaiti urban areaWaipawa urban areaWaitara urban areaWhakatane urban areaWinton urban areaArea 4 means any part of New Zealand not included in Area 1, Area 2, or Area 3.
 (a) $305 a week, if the applicant resides in Area 1:
 (b) $220 a week, if the applicant resides in Area 2:
 (c) $160 a week, if the applicant resides in Area 3:
@@ -6550,6 +6802,18 @@ The following table is small in size and has 3 columns. The columns have no head
 (b) $105 a week, if the applicant resides in Area 2:
 (c) $80 a week, if the applicant resides in Area 3:
 (d) $70 a week, if the applicant resides in Area 4
+- **accommodation income** , for a person () and a period, means the sum of—
+  (a) all rent paid to P for the period by other persons (not being additional residents or boarders) residing at the premises at which P resides in consideration of the right to occupy those premises or a non-self-contained part of those premises (excluding any service costs, any arrears, and any rent that is income from a business carried on by P); and
+  (b) 62% of all contributions received by P for the period from additional residents residing at the premises at which P resides (excluding any arrears); and
+  (c) 62% of the total amount of all payments for board and lodgings at those premises made to P for the period by boarders residing at those premises (excluding any arrears and any payments that are income from a business carried on by P)
+- **dependent child** (as defined in Schedule 2) excludes a child in respect of whom an orphan’s benefit or an unsupported child’s benefit is being paid
+- **weekly qualifying accommodation costs** , for a person, means the greater of zero and the amount calculated in accordance with the following formula:a × (1 − ((b + c + d) ÷ e)) − fwhere—ais the person’s weekly accommodation costsbis,—cis,—dis,—eis the total area of the premises at which the person residesfis the person’s weekly accommodation income.
+  (a) if the person does not use any separately identifiable part of the premises at which they reside primarily for business purposes, zero; or
+  (b) if paragraph (a) does not apply, the sum of the areas of each separately identifiable part of the premises at which the person resides that the person uses primarily for business purposes
+  (a) if the person does not let any self-contained part of the premises at which they reside to another person or other persons who reside at those premises, zero; or
+  (b) if paragraph (a) does not apply, the sum of the areas of each self-contained part of the premises at which the person resides that the person lets to another person or other persons who reside at those premises
+  (a) if the person does not let any separately identifiable part of the premises at which they reside to another person or other persons who do not reside at those premises, zero; or
+  (b) if paragraph (a) does not apply, the sum of the areas of each separately identifiable part of the premises at which the person resides that the person lets to another person or other persons who do not reside at those premises
 
 ### Part 8 — Winter energy payment
 
