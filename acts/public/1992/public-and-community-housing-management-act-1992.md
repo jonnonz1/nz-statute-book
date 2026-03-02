@@ -1,5 +1,5 @@
 # Public and Community Housing Management Act 1992
-_Consolidation as at 2023-07-01_
+_Consolidation as at 2026-03-02_
 
 > Title
 
@@ -460,7 +460,9 @@ In this Part, unless the context otherwise requires,—
   (a) the date on which it takes effect; and
   (b) the matters referred to in paragraphs (j) and (k) of section 13A of that Act.
 (3) In the case of a reduction in rent, the notice has effect as a variation of the tenancy agreement for the housing whether or not the tenant signs it.
-(4) In the case of an increase in rent, the notice must comply with section 24 of the Residential Tenancies Act 1986 except to the extent that section 74 of this Act provides otherwise.
+(4) In the case of an increase in rent, the notice must comply with section 24 of the Residential Tenancies Act 1986, except—
+  (a) subsections (1)﻿(d) to (h) and (1A) of that section do not apply to the increase in rent if Kāinga Ora–Homes and Communities has received a notification from the agency under sections 106 and 118A(3) of this Act that the rent for the housing must be its market rent for the time being:
+  (b) to the extent that section 74 of this Act provides otherwise, in any other case.
 
 ### 74 Increase in rent due to change in tenant's circumstances
 (1) If Kāinga Ora–Homes and Communities receives a notification from the agency under section 106 of an increase in an income-related rent due to a change in the tenant’s circumstances or the circumstances of an applicable person in relation to the tenant,—
@@ -688,7 +690,9 @@ In this Part, unless the context otherwise requires,—
   (a) the day on which it takes effect; and
   (b) the matters referred to in paragraphs (j) and (k) of section 13A of that Act.
 (3) In the case of a reduction in rent, the notice has effect as a variation of the tenancy agreement for the housing whether or not the tenant signs it.
-(4) In the case of an increase in rent, the notice must comply with section 24 of the Residential Tenancies Act 1986 except to the extent that section 94 provides otherwise.
+(4) In the case of an increase in rent, the notice must comply with section 24 of the Residential Tenancies Act 1986, except—
+  (a) subsections (1)﻿(d) to (h) and (1A) of that section do not apply to the increase in rent if the registered community housing provider has received a notification from the agency under sections 106 and 118A(3) of this Act that the rent for the housing may be determined by the provider but must not exceed its market rent for the time being:
+  (b) to the extent that section 94 of this Act provides otherwise, in any other case.
 
 ### 94 Increase in rent due to change in tenant's circumstances
 (1) If a registered community housing provider receives a notification from the agency under section 106 of an increase in an income-related rent due to a change in the tenant’s circumstances or the circumstances of an applicable person in relation to the tenant,—
@@ -842,7 +846,9 @@ The functions of the agency include the following:
 (2) The agency—
   (a) must update the notification following any change to the income-related rent calculated or notified for the tenant, including any change where the agency's assessment is that the income-related rent should be equal to the market rent; and
   (b) may update a notification following an investigation under this Part.
-(3) An updated notification must state whether the change in income-related rent is due to a change in the tenant’s circumstances or the circumstances of any other applicable person and, if so, the date the change in circumstances occurred.
+(3) An updated notification must state—
+  (a) whether the change in income-related rent is due to a change in the tenant’s circumstances or the circumstances of any other applicable person and, if so, the date the change in circumstances occurred; and
+  (b) whether the change in income-related rent is required or permitted under section 118A(3).
 (4) A social housing provider is entitled to rely on a notification given under this section.
 (5) A notification under this section may be given by electronic means in accordance with subpart 2 of Part 4 of the Contract and Commercial Law Act 2017.
 
@@ -850,19 +856,21 @@ The functions of the agency include the following:
 
 ### 107 Calculating income-related rents
 (1) An income-related rent (calculated on a weekly basis) is the higher of the following rents:
-  (a) a rent calculated by reference to household income under subsection (2):
-  (b) a rent calculated by reference to benefit levels under subsection (3).
-(2) A rent calculated by reference to household income is the sum of—
+  (a) a rent calculated under subsection (2):
+  (b) a rent calculated under subsection (3).
+(2) A rent referred to in subsection (1)﻿(a) is the sum of—
   (a) the prescribed proportion of the sum of the assessable incomes of the applicable persons concerned, up to the prescribed threshold (or the threshold prescribed for tenants of a category to which the tenant belongs); and
   (b) the prescribed proportion of any amount by which that sum is greater than that threshold; and
   (c) if any of the applicable persons is eligible to receive family tax credits under subparts MA to MF and MZ of the Income Tax Act 2007, the prescribed proportion of the lesser of—
     (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under those subparts; and
-    (ii) a prescribed amount (or an amount calculated by a prescribed means).
-(3) A rent calculated by reference to benefit levels is the sum of—
+    (ii) a prescribed amount (or an amount calculated by a prescribed means); and
+  (d) if the applicable persons receive contributions from additional residents, 62% of the sum of the contributions from the additional residents.
+(3) A rent referred to in subsection (1)﻿(b) is the sum of—
   (a) the prescribed proportion of the rate (before reduction on account of income) of jobseeker support stated in clause 1(b) to (j) of Part 1 of Schedule 4 of the Social Security Act 2018 that would be appropriate if the tenant were a beneficiary; and
   (b) if any of the applicable persons is eligible to receive family tax credits under subparts MA to MF and MZ of the Income Tax Act 2007, the prescribed proportion of the lesser of—
     (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under those subparts; and
-    (ii) a prescribed amount (or an amount calculated by a prescribed means).
+    (ii) a prescribed amount (or an amount calculated by a prescribed means); and
+  (c) if the applicable persons receive contributions from additional residents, 62% of the sum of the contributions from the additional residents.
 
 ### 108 Assessable income
 The assessable income of an applicable person is the agency's estimate of the person's weekly income from all sources,—
@@ -880,9 +888,9 @@ The assessable income of an applicable person is the agency's estimate of the pe
 (1) For the purposes of section 108, a person's weekly income includes—
   (a) the appropriate weekly proportion of any periodical payment, whether capital or not, made to the person on a regular basis by any other person for income-related purposes and used by the person for income-related purposes; and
   (b) the appropriate weekly proportion of the value of any goods, service, transport, or accommodation (other than accommodation provided by Kāinga Ora–Homes and Communities or a registered community housing provider) supplied to the person on a regular basis by any other person.
-(2) A person's weekly income includes contributions from additional residents to the extent only required by the calculation mechanism.
+(2)
 (3) Subsection (1) does not limit section 108.
-(4) Subsection (2) overrides subsection (1) and section 108.
+(4)
 
 ### 110 Calculation mechanism may include amounts in or exclude amounts from weekly income
 (1) For the purposes of section 108, a person's weekly income—
@@ -1017,6 +1025,24 @@ Meaning of information share child support payment
 ### 118 Agency may review housing needs of tenant
 (1) The agency may, at any time, on its own motion or on the application of a social housing provider, review the housing needs of a tenant.
 (2) Nothing in this section limits or affects any power of the agency to conduct a review under any other enactment.
+
+### 118A Discrepancies in information received relevant to income-related rent
+(1) This section applies if—
+  (a) the agency identifies a discrepancy between—
+    (i) information received by the agency from a tenant of social housing (A) who pays an income-related rent; and
+    (ii) information received by the agency from another person (B) who is receiving housing assistance; and
+  (b) the discrepancy is in information that is relevant for the purposes of ascertaining either or both of the following:
+    (i) whether the income-related rent that A is paying or some other income-related rent is now appropriate:
+    (ii) whether the income-related rent that A was paying at some earlier time or some other income-related rent was appropriate; and
+  (c) the discrepancy is not resolved to the agency’s satisfaction, within 1 working day after the agency identified the discrepancy, as a result of the agency doing either or both of the following:
+    (i) checking with A that the information that the agency received from A correctly reflects what A intended to provide to the agency:
+    (ii) checking with B that the information that the agency received from B correctly reflects what B intended to provide to the agency.
+(2) The agency must notify A and B of the particulars of the discrepancy as soon as reasonably practicable.
+(3) If the discrepancy is not resolved to the agency’s satisfaction within 10 working days from the date on which the agency notified A and B of the particulars of the discrepancy, the agency must, on the first working day after the end of that 10-working-day period, provide notification to the social housing provider under section 106 that, as applicable,—
+  (a) the rent for the housing must be its market rent for the time being, in accordance with section 72(3); or
+  (b) the rent for the housing may be determined by the registered community housing provider but must not exceed its market rent for the time being, in accordance with section 92(3).
+(4) If there is an inconsistency between this section and another provision of this Act, this section prevails.
+(5) In this section, housing assistance has the same meaning as in section 108A(6) of the Social Security Act 2018.
 
 **Investigations and information-gathering powers**
 
@@ -2097,6 +2123,24 @@ Every reference in any enactment and in any document to the Housing Restructurin
 
 ### 23 Regulations for transitional and savings purposes
 Clause 22 may be added to or displaced by transitional provisions or savings provisions prescribed by regulations made under clause 98(1) of Schedule 1 of the Social Security Act 2018.
+
+### Part 6 — Provisions relating to Social Assistance Legislation (Accommodation Supplement and Income-related Rent) Amendment Act 2025
+
+### 24 Meaning of amendments
+In this Part, amendments means the amendments made to this Act by sections 23 and 24 of the Social Assistance Legislation (Accommodation Supplement and Income-related Rent) Amendment Act 2025.
+
+### 25 Application of amendments: general rule
+(1) The amendments apply for weeks starting on or after 2 March 2026.
+(2) This clause is subject to clauses 26 and 27.
+
+### 26 How agency must make income-related rent calculation applied for, but not made, before 2 March 2026
+(1) This clause applies if,—
+  (a) before 2 March 2026, a tenant has applied to the agency for it to calculate an income-related rent; and
+  (b) the agency is required under section 104(2) to calculate the income-related rent for the time being for the tenant, but did not do so before 2 March 2026.
+(2) The amendments do not apply for the purposes of the calculation the agency is required to make under section 104(2).
+
+### 27 Application of amendments to reviews of income-related rents begun before 2 March 2026
+The amendments do not apply for the purposes of any review under section 116 (reviews of income-related rents) begun before 2 March 2026.
 
 ### 1 Title
 This order may be cited as the Housing New Zealand Limited Vesting Order 1993.
