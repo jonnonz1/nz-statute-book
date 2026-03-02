@@ -1,5 +1,5 @@
 # Residential Care and Disability Support Services Act 2018
-_Consolidation as at 2025-07-01_
+_Consolidation as at 2026-03-02_
 
 ### 1 Title
 This Act is the Residential Care and Disability Support Services Act 2018.
@@ -31,7 +31,7 @@ This Act—
 
 ### 5 Interpretation
 In this Act and in Schedules 1 to 3, unless the context otherwise requires,—
-  - **accommodation costs** has the same meaning as in section 65 of the Social Security Act 2018
+  - **accommodation costs** has the same meaning as in section 65AAA of the Social Security Act 2018
   - **applicable asset threshold** means the applicable asset threshold (which is the value of assets that is applied to determine whether a resident assessed as requiring care must use the resident’s assets to pay the maximum contribution towards the cost of LTR contracted care provided to the resident) set out in Part 1 of Schedule 2
   - **assets** has, for the purpose of an assets assessment conducted under section 34, the meaning given in clause 4 of Schedule 2
   - **benefit** has the same meaning as in Schedule 2 of the Social Security Act 2018
@@ -679,7 +679,7 @@ Regulations made under section 132D or 155(1) of the Social Security Act 1964, a
   (c) whose spouse or partner is not a qualifying person or special case person but who has elected, under clause 2, to have Threshold A apply to P rather than Threshold B.
 (3) Threshold B is $159,810 and applies to every qualifying person or special case person (P)—
   (a) whose spouse or partner is not a qualifying person or special case person; and
-  (b) who has not elected, under clause 2, to have Threshold A apply to R.
+  (b) who has not elected, under clause 2, to have Threshold A apply to P.
 
 ### 2 Certain residents may elect which threshold to apply
 A qualifying person or special case person (P) whose spouse or partner is not a qualifying person or special case person may elect to have Threshold A in clause 1 apply to P instead of having Threshold B in clause 1 apply.
@@ -748,7 +748,7 @@ In this schedule, specified outgoings, in relation to a person, means the annual
   (ii) contributions to any superannuation scheme:
   (iii) contributions to any employee welfare fund:
   (iv) any other essential costs of that employment (not including travel to and from work) to the extent that they are not reimbursed by the employer:
-(d) the person's accommodation costs (as defined in section 65 of the Social Security Act 2018 for the purposes of subpart 10 of Part 2 and Part 7 of Schedule 4 of that Act (accommodation supplement)):
+(d) the person's accommodation costs (as defined in section 65AAA of the Social Security Act 2018 for the purposes of subpart 10 of Part 2 and Part 7 of Schedule 4 of that Act (accommodation supplement)):
 (e) the person's telephone rental (being the standard line charge and base user charge including hire of a basic telephone applicable to a person living in the place where the person lives), calculated on an annual basis:
 (f) the cost of the person's ongoing and regular medical and pharmaceutical expenses, calculated on an annual basis:
 (g) the cost of the person's regular essential expenses (being expenses other than the cost of food, clothing, travel, running a motor vehicle, life insurance, house and contents insurance, hire purchase, entertainment, and personal savings), calculated on an annual basis.
