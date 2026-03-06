@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2025-08-28_
+_Consolidation as at 2026-03-06_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -13,9 +13,10 @@ This Act is the Overseas Investment Act 2005.
 
 ### 3 Purpose
 (1) The purpose of this Act is to acknowledge that it is a privilege for overseas persons to own or control sensitive New Zealand assets by—
-  (a) requiring overseas investments in those assets, before being made, to meet criteria for consent; and
-  (b) imposing conditions on those overseas investments.
-(2) This Act also has the purpose of managing certain risks, such as national security and public order risks, associated with transactions by overseas persons.
+  (a) providing for notification or consent for any overseas investments in those assets before the investment is made; and
+  (b) imposing appropriate conditions on those overseas investments; and
+  (c) managing the risks to New Zealand’s national interest that are associated with overseas investment transactions, including national security and public order risks.
+(2) This Act also has the purpose of recognising the role of overseas investment in increasing economic opportunity by enabling the timely consent of less sensitive investments through an initial national interest risk assessment.
 
 ### 4 Overview
 (1) In this Act,—
@@ -86,9 +87,14 @@ This Act is the Overseas Investment Act 2005.
     (a) an easement; or
     (b) a profit à prendre that is not a regulated profit à prendre
   - **exemption certificate** means a certificate granted under clause 4 of Schedule 3 (dwellings in large apartment developments that are purchased off-the-plans)
-  - **farm land** means land (other than residential (but not otherwise sensitive) land) used exclusively or principally for agricultural, horticultural, or pastoral purposes, or for the keeping of bees, poultry, or livestock (which, to avoid doubt, do not include forestry activities within the meaning of section 16A(9))
+  - **farm land** means land (other than residential (but not otherwise sensitive) land) used exclusively or principally for agricultural, horticultural, or pastoral purposes, or for the keeping of bees, poultry, or livestock (which, to avoid doubt, do not include forestry activities)
   - **fishing quota decision** means a decision under sections 56 to 58B of the Fisheries Act 1996 on whether or not to consent to an overseas investment in fishing quota
   - **foreshore, seabed** has the same meaning as marine and coastal area
+  - **forestry activities** means any of the following activities in respect of any trees (whether exotic or native) that are to be harvested to provide wood:
+    (a) maintaining a crop of trees:
+    (b) harvesting a crop of trees:
+    (c) maintaining the land during the period between harvesting a crop of trees and establishing a new crop of trees:
+    (d) establishing a crop of trees
   - **forestry right** means—
     (a) a right created in accordance with the Forestry Rights Registration Act 1983; or
     (b) any other profit à prendre that—
@@ -114,6 +120,7 @@ This Act is the Overseas Investment Act 2005.
   - **incidental residential use test** means the test set out in clause 14 of Schedule 2
   - **increased housing test** means the test set out in clause 11 of Schedule 2
   - **individuals with control of the relevant overseas person** has the meaning set out in section 15
+  - **initial national interest risk assessment** means the process referred to in section 19A
   - **intelligence or security agency** means—
     (a) the New Zealand Defence Force:
     (b) the Government Communications Security Bureau:
@@ -145,11 +152,14 @@ This Act is the Overseas Investment Act 2005.
       (i) that control of which, or access to which, could pose a significant risk to national security or public order; and
       (ii) that is within a class of technology set out in regulations
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **Ministerial directive letter** means a letter referred to in section 34
   - **more than 25% ownership or control interest** has the meaning set out in subsection (4)
   - **more than 25% subsidiary** has the meaning set out in subsection (5)
+  - **national interest assessment** means the assessment required by section 19B
+  - **national interest test** means the test set out in section 19
   - **natural and physical resources** has the meaning set out in section 2(1) of the Resource Management Act 1991
   - **natural environment** includes land, water, air, soil, all forms of plants and animals (whether native to New Zealand or introduced), and ecosystems and their constituent parts
-  - **New Zealand listed issuer** means a listed issuer that is incorporated in New Zealand or, in the case of a managed investment scheme, established under New Zealand law
+  - **New Zealand listed issuer** means a listed issuer that is incorporated in New Zealand or, in the case of a limited partnership, registered under section 51 of the Limited Partnerships Act 2008 or, in the case of a managed investment scheme, established under New Zealand law
   - **non-occupation outcome** has the meaning set out in clause 17 of Schedule 2
   - **non-NZ government investor** means—
     (a) the government, or any part of the government (including regional or local government), of—
@@ -270,7 +280,8 @@ This Act is the Overseas Investment Act 2005.
     (i) in section 20A (relating to transactions of national interest),—
       (i) a business of a class set out in regulations that is involved in an irrigation scheme:
       (ii) any other business of a class set out in regulations that is involved in a strategically important industry or that owns or controls high-risk critical national infrastructure:
-    (j) in section 82(2) (definition of overseas investment in SIB assets), a business of a class set out in regulations that develops, produces, maintains, or otherwise has access to sensitive information
+    (j) in section 82(2) (definition of overseas investment in SIB assets), a business of a class set out in regulations that develops, produces, maintains, or otherwise has access to sensitive information:
+    (k) a business prescribed to be a strategically important business by regulations made under section 127(1)﻿(c)
   - **strategic goods list** means the list of all goods and classes of goods whose exportation is prohibited under section 96 of the Customs and Excise Act 2018 because they have or may have a strategic use (within the meaning of section 96(11) of that Act) that the Secretary is required to publish under section 96(7) of that Act
   - **subsidiary** has the meaning set out in sections 5 and 6 of the Companies Act 1993
   - **transaction** includes—
@@ -290,15 +301,15 @@ This Act is the Overseas Investment Act 2005.
   (a) for the purposes of a transaction that will result in an overseas investment in sensitive land where the relevant land is or includes residential land, and related matters, if the person—
     (i) holds a residence class visa granted under the Immigration Act 2009; and
     (ii) has been residing in New Zealand for at least the immediately preceding 12 months; and
-    (iii) is tax resident in New Zealand (see subsection (2A)); and
-    (iv) has been present in New Zealand for 183 days or more in total in the immediately preceding 12 months (counting presence in New Zealand for part of a day as a presence for a whole day):
+    (iii) is tax resident in New Zealand (see subsection (2A)):
+    (iv)
   (b) for the purposes of a transaction that will not result in an overseas investment in sensitive land where the relevant land is or includes residential land, and related matters, if the person—
     (i) holds a residence class visa granted under the Immigration Act 2009; and
     (ii) is in one of the following categories:
       (A) is domiciled in New Zealand; or
-      (B) is residing in New Zealand with the intention of residing there indefinitely, and has done for the immediately preceding 12 months (see subsection (3)).
+      (B) is residing in New Zealand with the intention of residing there indefinitely and has been residing in New Zealand for at least the immediately preceding 12 months and has been present in New Zealand for more than 183 days in the immediately preceding 12 months.
 (2A) In subsection (2)﻿(a)﻿(iii), tax resident in New Zealand means a person who is a New Zealand resident under section YD 1(3) of the Income Tax Act 2007, where the reference in section YD 1(3) to a 12-month period is treated as the immediately preceding 12 months (disregarding the rules in section YD 1(4) to (6) of that Act).
-(3) Absence from New Zealand for no more than 183 days in aggregate in the last 12 months (counting presence in New Zealand for part of a day as presence for a whole day) does not prevent a person from satisfying the requirement for residing in New Zealand for the last 12 months under subsection (2)﻿(b)﻿(ii)﻿(B).
+(3)
 (4) In this Act, a person (A) has a more than 25% ownership or control interest in another person (B) if A has—and references to other ownership or control interests (for example, of 10% or more) have a corresponding meaning.
   (a) a beneficial entitlement to, or a beneficial interest in, more than 25% of B's securities; or
   (b) the power to control the composition of more than 25% of the governing body of B; or
@@ -333,6 +344,9 @@ This Act is the Overseas Investment Act 2005.
   (c) a body corporate—
     (i) that is a New Zealand listed issuer; and
     (ii) that meets the ownership test in subsection (3)﻿(a), or the control test in subsection (3)﻿(b), or both; or
+  (ca) a limited partnership—
+    (i) that is a New Zealand listed issuer; and
+    (ii) that meets the ownership test in subsection (3A)﻿(a), or the control test in subsection (3A)﻿(b), or both; or
   (d) a body corporate (A) (other than a New Zealand listed issuer) if an overseas person or persons have—
     (i) more than 25% of any class of A’s securities; or
     (ii) the power to control the composition of more than 25% of A’s governing body; or
@@ -356,7 +370,7 @@ This Act is the Overseas Investment Act 2005.
     (i) the manager or the trustee (as the case may be) is an overseas person; or
     (ii) more than 25% of the value of the investment products in the managed investment scheme is invested on behalf of overseas persons; or
   (j) an overseas limited partnership within the meaning set out in section 4 of the Limited Partnerships Act 2008; or
-  (k) any other limited partnership registered under the Limited Partnerships Act 2008 (A) if—
+  (k) any other limited partnership registered under the Limited Partnerships Act 2008 (A) (other than a New Zealand listed issuer) if—
     (i) a general partner of A is an overseas person; or
     (ii) more than 25% of the persons having the right to control the composition of the governing body of A are overseas persons; or
     (iii) more than 25% of the partnership interests (as defined in that Act) of the partners of A are held by overseas persons; or
@@ -368,6 +382,13 @@ This Act is the Overseas Investment Act 2005.
     (ii) when the interests of each overseas person to which subparagraph (i) applies are added together, those overseas persons cumulatively have the right to—
       (A) control the composition of 50% or more of A’s governing body; or
       (B) exercise or control the exercise of more than 25% of the voting power at a meeting of A.
+(3A) For the purpose of applying subsection (2)﻿(ca)﻿(ii) to a New Zealand listed issuer that is a limited partnership (A),—
+  (a) the ownership test is that an overseas person has, or 2 or more overseas persons cumulatively have, a beneficial entitlement to, or a beneficial interest in, 50% or more of A’s partnership interests (as defined in the Limited Partnerships Act 2008):
+  (b) the control test is that—
+    (i) at least 1 overseas person (alone or together with its associates) has 10% or more ownership or control interest in a general partner of A; and
+    (ii) when the interests of each overseas person to which subparagraph (i) applies are added together, those overseas persons cumulatively have the right to—
+      (A) control the composition of 25% or more of a general partner of A; or
+      (B) exercise or control the exercise of more than 25% of the voting power at a meeting of a general partner of A.
 (4) For the purpose of applying subsection (2)﻿(h)﻿(ii) to a New Zealand listed issuer that is a managed investment scheme (A),—
   (a) the ownership test is that 50% or more of the value of the managed investment products in A is invested on behalf of overseas persons:
   (b) the control test is that more than 25% of the managed investment products in A that entitle holders to vote are beneficially owned by or on behalf of overseas persons who each beneficially own 10% or more of those products (alone or together with their associates).
@@ -437,17 +458,18 @@ This Act binds the Crown.
   (b) rights or interests in securities of a person (A) if A owns or controls (directly or indirectly) an estate or interest in land described in paragraph (a) and, as a result of the acquisition,—
     (i) the overseas person or the associate (either alone or together with its associates) has a more than 25% ownership or control interest in A; or
     (ii) the overseas person or the associate (either alone or together with its associates) has an increase in an existing more than 25% ownership or control interest in A that—
-      (A) results in an ownership or control interest in A that equals or exceeds their ownership or control interest limit as set out in subsection (2); or
+      (A) results in an ownership or control interest in A that equals or exceeds their ownership or control interest limit as set out in subsection (2) (if any); or
       (B) is in securities of A of a different class to the class in which their existing interest is held; or
       (C) gives the overseas person or the associate (either alone or together with its associates) any or more disproportionate access to or control of a strategically important business; or
     (iii) A becomes an overseas person in any of the following circumstances:
       (A) A is a body corporate that is a New Zealand listed issuer and meets the control test in section 7(3)﻿(b):
+      (AA) A is a limited partnership that is a New Zealand listed issuer and meets the control test in section 7(3A)﻿(b):
       (B) A is a managed investment scheme that is a New Zealand listed issuer and meets the control test in section 7(4)﻿(b):
       (C) A is not a New Zealand listed issuer.
 (2) The ownership or control interest limits are as follows:
   (a) if their existing ownership or control interest in A amounts to more than 25% but less than 50%, their ownership or control interest limit is 50%:
   (b) if their existing ownership or control interest in A amounts to 50% or more but less than 75%, their ownership or control interest limit is 75%:
-  (c) if their existing ownership or control interest in A amounts to 75% or more, their ownership or control interest limit is 100%.
+  (c) if their existing ownership or control interest in A amounts to 75% or more, their ownership or control interest limit is 100% but only if A is a strategically important business.
 
 ### 13 What are overseas investments in significant business assets
 (1) An overseas investment in significant business assets is—
@@ -463,13 +485,14 @@ This Act binds the Crown.
 **Criteria for consent**
 
 ### 14 Approach to criteria for consent
-(1) The relevant Minister or Ministers, in considering whether or not to grant consent to an overseas investment transaction,—
+(1) The relevant Minister or Ministers or the regulator, in considering whether or not to grant consent to an overseas investment transaction,—
   (a) must have regard to only the criteria and factors that apply to the relevant category of overseas investment under this subpart (subject to this section); and
-  (b) may consult with any other person or persons, as the Minister or Ministers think appropriate; and
+  (b) may consult with any other person or persons, as the Minister or Ministers or the regulator think appropriate; and
   (c) must grant consent if satisfied that all of the criteria in section 16 or section 18 (as the case may be) are met; and
   (d) must decline to grant consent if not satisfied that all of the criteria in section 16 or section 18 are met.
-(2) For a transaction that is in more than 1 category of overseas investment, the relevant Ministers must have regard to the criteria that apply to all of the relevant categories.
-(3) However, if the criteria are the same, the relevant Ministers only need to consider the same criteria once (and not consider them under each relevant category).
+(2) For a transaction that is in more than 1 category of overseas investment, the relevant Ministers or, if applicable, the regulator in relation to the national interest test must have regard to the criteria that apply to all of the relevant categories.
+(3) However, if the criteria are the same, the relevant Ministers or, if applicable, the regulator in relation to the national interest test only need to consider the same criteria once (and not consider them under each relevant category).
+(4) Subject to subsection (2), if the national interest test is met under section 19 and if the transaction is not contrary to the national interest, the regulator must grant consent.
 
 ### 15 Who are relevant overseas persons, and individuals with control, for overseas investments
 (1) The relevant Minister or Ministers may determine which 1 or more of the following persons is the relevant overseas person for an overseas investment:
@@ -481,7 +504,7 @@ This Act binds the Crown.
   (c) the individual or body of individuals who the Minister or Ministers consider to have that control (whether directly or indirectly).
 
 ### 16 Criteria for consent for overseas investments in sensitive land
-(1) The criteria for an overseas investment in sensitive land are all of the following:Criteria regardless of type of relevant landCriteria if relevant land is exclusively residential and not otherwise sensitiveCriteria if relevant land is exclusively non-residential land that is sensitiveCriteria if relevant land is all residential and some or all is sensitive for some other reasonCriteria if some relevant land is residential and some or all is sensitive for some other reasonAdditional criteria if land includes farm landAdditional criteria for transaction of national interest
+(1) The criteria for an overseas investment in sensitive land are all of the following:Criteria regardless of type of relevant landCriteria if relevant land is exclusively residential and not otherwise sensitiveCriteria if relevant land is exclusively non-residential land that is or includes farm landCriteria if relevant land is all residential and some or all is sensitive for some other reasonCriteria if some relevant land is residential and some or all is sensitive for some other reasonCriteria if relevant land used exclusively, or nearly exclusively, for forestry activities and includes residential landAdditional criteria if land includes farm landAdditional criteria for transaction of national interestDefault criteria: for land that is sensitive but neither residential land nor farm land
   (a) the investor test is met (unless the overseas investment is exempt from this criterion under subsection (3)):
   (b) if the relevant land is residential (but not otherwise sensitive) land,—
     (i) 1 or more of the following tests in Schedule 2 are met:
@@ -490,18 +513,21 @@ This Act binds the Crown.
       (BA) the large rental development test:
       (C) the non-residential use test:
       (D) the incidental residential use test; or
-    (ii) the benefit to New Zealand test is met:
-  (c) if the relevant land is sensitive (but not residential) land,—
+    (ii) the benefit to New Zealand test is met; or
+    (iii) if the applicant relies on a qualifying investor visa in accordance with section 19E, the national interest test is met:
+  (c) if the relevant land is or includes farm land (but not residential land),—ExampleThe relevant land is all farm land.
     (i) the relevant overseas person is, or (if that person is not an individual) each of the individuals with control of the relevant overseas person is, a New Zealand citizen, ordinarily resident in New Zealand, or intending to reside in New Zealand indefinitely; or
     (ii) the benefit to New Zealand test is met:
-  (d) if the relevant land is residential land but is not described in paragraph (b),—
+  (d) if the relevant land is residential land but is not described in paragraph (b),—ExampleThe relevant land is residential land exceeding 0.4 hectares on Waiheke Island.
     (i) the commitment to reside in New Zealand test is met; or
     (ii) the benefit to New Zealand test is met:
-  (e) if the relevant land is not described in paragraphs (b) to (d), the benefit to New Zealand test is met:
-  (f) if the relevant land is or includes farm land, before a transaction is entered into with the relevant overseas person, the farm land or section 12 interest has been offered for acquisition on the open market to persons who are not overseas persons as required by the regulations (but see section 20):
-  (g) if the overseas investment in sensitive land is a transaction of national interest, the Minister has not declined consent to the transaction (see section 20C).
+  (e) if some relevant land is residential and some or all is sensitive for some other reason, the benefit to New Zealand test is met:ExampleThe relevant land is a mix of sensitive (but not residential) land and residential land. See the example in section 16B.
+  (f) if the relevant land is used exclusively, or nearly exclusively, for forestry activities and includes residential land, the national interest test is met:
+  (g) if the relevant land is or includes farm land, before a transaction is entered into with the relevant overseas person, the farm land or section 12 interest has been offered for acquisition on the open market to persons who are not overseas persons as required by the regulations (but see section 18B):
+  (h) if the overseas investment in sensitive land is a transaction of national interest, the national interest test is met under section 19(b) or (c):ExampleResidential land is being acquired by a non-NZ government investor.
+  (i) if the relevant land is not described in paragraphs (b) to (f), the national interest test is met.ExampleThe land is neither residential land nor farm land.
 (2)
-(3) The investor test does not apply to an overseas investment in sensitive land if either of the following circumstances applies:
+(3) The investor test does not apply to an overseas investment in sensitive land if any of the following circumstances applies:
   (a) Circumstance 1:
     (i) the application for consent is under the commitment to reside in New Zealand test only; and
     (ii) the relevant land is residential (but not otherwise sensitive) land:
@@ -509,13 +535,15 @@ This Act binds the Crown.
     (i) the application for consent is under the increased housing test only; and
     (ii) the increased housing outcome under the test is to be met by a development described in clause 4(1) of Schedule 3 (large apartment developments); and
     (iii) the estate or interest in land relates to 1 or more new residential dwellings in that development; and
-    (iv) the transaction is entered into before the construction of the dwelling is complete.
+    (iv) the transaction is entered into before the construction of the dwelling is complete:
+  (c) Circumstance 3:
+    (i) the application for consent is under the national interest test (see subsection (1)﻿(b)﻿(iii), (f), (h), and (i)).
 (4) See also clause 4(5) of Schedule 2 (which relates to the commitment to reside in New Zealand test and relationship property) for a circumstance in which an individual with control of the relevant overseas person can be disregarded in determining whether the investor test is met.
 (5)
 
 ### 16A Benefit to New Zealand test
 Outline
-(1AA) This subsection shows the ways in which the benefit to New Zealand test can be met, but it is a guide only to the general scheme and effect of this section.The following table is small in size and has 3 columns. Column 1 is headed Pathway. Column 2 is headed Which subsections apply. Column 3 is headed Which counterfactual applies.PathwayWhich subsections applyWhich counterfactual appliesGeneral testSubsections (1), (1A)Subsection (1A)﻿(a)Modified benefit test if relevant land is or includes farm land described in subsection (1C)Subsections (1), (1A), (1C), (1D), (1E), (2)Subsection (1A)﻿(a)Special benefit test relating to forestry activities Subsections (4) to (9)N/a
+(1AA) This subsection shows the ways in which the benefit to New Zealand test can be met, but it is a guide only to the general scheme and effect of this section.The following table is small in size and has 3 columns. Column 1 is headed Pathway. Column 2 is headed Which subsections apply. Column 3 is headed Which counterfactual applies.PathwayWhich subsections applyWhich counterfactual appliesGeneral testSubsections (1), (1A)Subsection (1A)﻿(a)Modified benefit test if relevant land is or includes farm land described in subsection (1C)Subsections (1), (1A), (1C), (1D), (1E), (2)Subsection (1A)﻿(a)
 General test
 (1) The benefit to New Zealand test is met if both of the following are met:
   (a) the overseas investment will, or is likely to, benefit New Zealand (or any part of it or group of New Zealanders) to the extent required by this section, as determined by the relevant Ministers under section 17; and
@@ -525,7 +553,7 @@ General test
   (b) must take a proportionate approach to whether the benefit test is met, by taking into account whether that benefit is proportionate to the following:
     (i) the sensitivity of the land (for example, the importance to New Zealand of the purpose for which the land is used, the size and value of the land, any sensitive features associated with the land, and the level of interest that the public have in the land) or the fishing quota; and
     (ii) the nature of the overseas investment transaction (for example, the estate or interest being acquired, whether the estate or interest is temporary or permanent, and the degree of overseas ownership or control of the land or of the estate or interest in land).
-(1B) However, subsection (1A) does not apply if subsection (4) applies.
+(1B)
 Modified benefit test if relevant land is or includes farm land
 (1C) If the relevant land is or includes farm land that in area exceeds 5 hectares, the relevant Ministers must—
   (a) give the following factors high relative importance:
@@ -542,42 +570,22 @@ Modified benefit test if relevant land is or includes farm land
   (b) that, whenever a crop of trees is harvested on the farm land, a new crop will be, or is likely to be, established on the farm land to replace the crop that is harvested (subject to subsection (7)); and
   (c) that the non-occupation outcome will, or is likely to, occur in relation to the farm land (where that outcome in clause 17(3) to (5) of Schedule 2 applies with necessary modifications as if the reference to residential land were a reference to the farm land).
 (3)
-Special test relating to forestry activities
-(4) Regulations may provide that the benefit to New Zealand test is also met if the relevant Ministers are satisfied—
-  (a) that the relevant land is already used when the transaction is entered into, and will continue to be used, exclusively, or nearly exclusively, for forestry activities; and
-  (b) that—
-    (i) the relevant land is not residential land only; and
-    (ii) if the relevant land includes any residential land, the residential land adjoins other land that is included in the relevant land but is not residential land; and
-  (c) that the non-occupation outcome will, or is likely to, occur in relation to the relevant land (where that outcome in clause 17(3) to (5) of Schedule 2 applies with necessary modifications as if the reference to residential land were a reference to the relevant land); and
-  (d) that any requirements set out in regulations in accordance with subsection (5) will be, or are likely to be, met (subject to subsection (8)); and
-  (e) that, whenever a crop of trees is harvested on the relevant land, a new crop will be, or is likely to be, established on the relevant land to replace the crop that is harvested (subject to subsection (7)); and
-  (f)
-  (g) that any other requirements set out in regulations are met.
-(4A) To avoid doubt, the reference in subsection (2)﻿(a) to the use of the farm land and the reference in subsection (4)﻿(a) to the use of the relevant land mean the use that arises under the estate or interest referred to in section 12(1)﻿(a).
-(5) Regulations may, for the purposes of subsection (4)﻿(d), set out requirements that must be met after the overseas investment is given effect to.
-(6) Requirements set out in regulations for the purposes of subsection (4)﻿(d) may (without limitation) be about 1 or more of the following:
-  (a) activities that must, or must not, be carried out on the relevant land:
-  (b) the maintenance or protection of things that exist when or before the overseas investment transaction is entered into (including (without limitation) the maintenance of existing arrangements relating to historic heritage, biodiversity, environmental matters, public access, or the supply of logs):
-  (c) outcomes that must result from the overseas investment.
+(4)
+(4A)
+(5)
+(6)
 Powers not to apply, or to modify, certain requirements
 (7) The relevant Ministers may decide—
-  (a) not to apply the requirement set out in subsection (2)﻿(b) or (4)﻿(e) if satisfied that the relevant overseas person (together with the relevant overseas person’s associates) will not have sufficient ownership or control (direct or indirect) of rights in respect of the relevant land to ensure that the requirement will be met:
-  (b) to modify the requirement set out in subsection (2)﻿(b) or (4)﻿(e) by not applying the requirement for a part of the relevant land if satisfied that the relevant overseas person (together with the relevant overseas person’s associates) will not have sufficient ownership or control (direct or indirect) of rights in respect of that part of the relevant land to ensure that the requirement will be met for that part of the relevant land.
-(8) The relevant Ministers may decide not to apply, or may modify, any requirement set out in regulations for the purposes of subsection (4)﻿(d) if satisfied that the relevant overseas person (together with the relevant overseas person’s associates) will not have sufficient ownership or control (direct or indirect) of rights in respect of the relevant land to ensure that the requirement will be met.
-Definitions
-(9) In this section,—
-  - **adjoins** includes separated only by a public road (including a motorway or a State highway, and whether or not the road is formed)
-  - **forestry activities** means any of the following activities in respect of any trees (whether exotic or native) that are to be harvested to provide wood:
-    (a) maintaining a crop of trees:
-    (b) harvesting a crop of trees:
-    (c) maintaining the land during the period between harvesting a crop of trees and establishing a new crop of trees:
-    (d) establishing a crop of trees.
+  (a) not to apply the requirement set out in subsection (2)﻿(b) if satisfied that the relevant overseas person (together with the relevant overseas person’s associates) will not have sufficient ownership or control (direct or indirect) of rights in respect of the relevant land to ensure that the requirement will be met:
+  (b) to modify the requirement set out in subsection (2)﻿(b) by not applying the requirement for a part of the relevant land if satisfied that the relevant overseas person (together with the relevant overseas person’s associates) will not have sufficient ownership or control (direct or indirect) of rights in respect of that part of the relevant land to ensure that the requirement will be met for that part of the relevant land.
+(8)
+(9)
 
 ### 16B Conditions for consents relating to sensitive land that is residential land: benefit to New Zealand test
 (1) This section applies if an application for consent for an overseas investment in sensitive land is being considered under the benefit to New Zealand test and the relevant land is or includes residential land.
 (2) However, this section does not apply (and see instead section 16C)—
-  (a) to the extent that the relevant land is farm land and the relevant Ministers are satisfied in accordance with section 16A(2); or
-  (b) where the application is being considered in accordance with section 16A(4).
+  (a) to the extent that the relevant land is farm land and the relevant Ministers are satisfied in accordance with section 16A(2).
+  (b)
 (3) If consent is granted, to the extent that the consent relates to the residential land,—
   (a) the relevant Ministers must determine a residential land outcome listed in the table in clause 19 of Schedule 2 as applying to the residential land; and
   (b) the consent must be made subject to the set of conditions for the residential land outcome, subject to any exemptions applying (in each case, as described in the table).
@@ -587,14 +595,12 @@ ExampleA is an overseas person who wants to buy 100% of the shares in what is cu
 ### 16C Conditions for consents relating to sensitive land that will be used for forestry activities
 (1) Subsection (2) applies if an application for consent for an overseas investment in sensitive land is being considered under the benefit to New Zealand test, to the extent that the relevant land is farm land and the relevant Ministers are satisfied in accordance with section 16A(2).
 (2) If granted, the consent must be made subject to conditions for the purpose of ensuring that the requirements set out in section 16A(2) will be met, subject to section 16A(7).
-(3) Subsection (4) applies if an application for consent for an overseas investment in sensitive land is being considered under the benefit to New Zealand test in accordance with section 16A(4).
-(4) If granted, the consent must be made subject to conditions for the purpose of ensuring that the following requirements will be met:
-  (a) the requirements set out in section 16A(4)﻿(a) and (c):
-  (b) the requirements set out in regulations made for the purposes of section 16A(4)﻿(d), subject to section 16A(8):
-  (c) the requirement set out in section 16A(4)﻿(e), subject to section 16A(7).
-(5) A condition imposed in relation to the requirement set out in section 16A(2)﻿(b) or (4)﻿(e) may require the replacement of a crop of trees that is harvested to be on a like-for-like basis or on any similar basis.
+(3)
+(4)
+(5) A condition imposed in relation to the requirement set out in section 16A(2)﻿(b) may require the replacement of a crop of trees that is harvested to be on a like-for-like basis or on any similar basis.
 
 ### 17 Factors for assessing benefit of overseas investments in sensitive land
+(1AAA) This section applies if an application for consent for an overseas investment in sensitive land is being considered under the benefit to New Zealand test.
 What are the factors
 (1) The factors for assessing the benefit of overseas investments in sensitive land are whether the overseas investment will, or is likely to,—
   (a) result in economic benefits for New Zealand (for example, the creation or retention of jobs, the introduction of technology or business skills, increases in productivity or export receipts, or a reduced risk of illiquid assets):
@@ -609,16 +615,12 @@ How factors must be considered
   (a) must consider all the factors in subsection (1) to determine which factor or factors are relevant to the overseas investment; and
   (b) must determine whether the criteria in section 16A(1)﻿(a) and (b) are met after having regard to those relevant factors and, in doing so,—
     (i) must deduct from any benefit arising under a factor any directly comparable aspect of the counterfactual, and any negative impact of the overseas investment that is directly comparable, but must stop deducting at zero unless subsection (3) applies:
-    (ii) must not deduct from any benefit arising under a factor any non-directly comparable aspect of the counterfactual or any negative impact of the overseas investment that is not directly comparable unless subsection (3) applies:ExamplesDirectly comparableIf a company is generating $10 million in export receipts at the time that the overseas investment transaction is entered into and the overseas investment will result in a total of $15 million in export receipts, the net benefit in respect of export receipts under the economic factor is $5 million.Non-directly comparableIf the overseas investment will result in an increase in jobs, but a decrease in export receipts, as compared with the counterfactual, the decrease in export receipts cannot be deducted from the benefit associated with the increase in jobs. If an overseas investment will result in the introduction of technology but a decrease in export receipts, the decrease in export receipts must not be deducted from any benefits arising from the introduction of technology.
+    (ii) must not deduct from any benefit arising under a factor any non-directly comparable aspect of the counterfactual or any negative impact of the overseas investment that is not directly comparable unless subsection (3) applies:ExamplesDirectly comparableIf a company is generating $10 million in export receipts at the time that the overseas investment transaction is entered into and the overseas investment will result in a total of $15 million in export receipts, the net benefit in respect of export receipts under the economic factor is $5 million.Non-directly comparableIf the overseas investment will result in an increase in jobs, but a decrease in export receipts, as compared with the counterfactual, the decrease in export receipts cannot be deducted from the benefit associated with the increase in jobs.If an overseas investment will result in the introduction of technology but a decrease in export receipts, the decrease in export receipts must not be deducted from any benefits arising from the introduction of technology.
     (iii) must determine the relative importance to be given to each relevant factor or particular benefit arising under a factor, subject to section 16A(1C).
-(3) If the overseas investment involves the extraction of water for bottling, or other extraction of water in bulk for human consumption,—
-  (a) an additional factor is whether the overseas investment will, or is likely to, result in a negative impact on water quality or sustainability; and
-  (b) the relevant Ministers must determine the relative importance to be given to this factor and deduct that from any overall benefit to New Zealand that has been determined under section 16A(1)﻿(a).
+(3)
 
-### 18 Criteria for consent for overseas investments in significant business assets
-The criteria for an overseas investment in significant business assets are both of the following:
-  (a) the investor test is met:
-  (b) if the overseas investment in significant business assets is a transaction of national interest, the Minister has not declined consent to the transaction (see section 20C).
+### 18 Criterion for consent for overseas investments in significant business assets
+The criterion for an overseas investment in significant business assets is that the national interest test is met.
 
 ### 18A Investor test
 Purpose
@@ -654,10 +656,7 @@ Investor test factors
   (d) section 15(2) of the Immigration Act 2009 applies to subsection (4)﻿(a) in the same way as it applies to section 15(1)﻿(a) and (b) of that Act:
   (e) an individual is not an individual of a kind referred to in section 16 of the Immigration Act 2009 if a special direction referred to in section 17(1)﻿(a) of that Act has been made permitting a visa or entry permission to be granted to that individual.
 
-### 19 Applying good character and Immigration Act 2009 criteria
-[Repealed]
-
-### 20 Exemptions from farm land offer criterion
+### 18B Exemptions from farm land offer criterion
 Powers to exempt
 (1) Section 16(1)﻿(f) does not apply to an overseas investment if—
   (a) the relevant Ministers consider that the overseas investment need not meet this criterion by reason of the circumstances relating to the particular overseas investment or section 12 interest or the nature of the land to which the section 12 interest relates (for example, its productive capacity); or
@@ -685,18 +684,94 @@ Other exemptions
 Maximum duration
 (11) An exemption under this section may continue in force for not more than 5 years (and at the close of the date that is 5 years after the exemption first comes into force, the exemption must be treated as having been revoked unless it sooner is revoked or expires).
 
+**National interest test**
+
+### 19 National interest test
+The national interest test is met in respect of an overseas investment—
+  (a) if, after completing an initial national interest risk assessment, the regulator considers that a national interest assessment is not required; or
+  (b) if, after a national interest assessment has been completed, the application is not referred to the Minister under section 19B(3); or
+  (c) if, after consideration under section 19D, the Minister considers the transaction is not contrary to the national interest.
+
+### 19 Applying good character and Immigration Act 2009 criteria
+[Repealed]
+
+### 19A Stage 1: initial national interest risk assessment
+(1) The regulator must complete an initial national interest risk assessment in the case of an application that is being considered under the national interest test to establish—
+  (a) that the national interest test is met because a national interest assessment is not required; or
+  (b) that a national interest assessment is required.
+(2) If, after completing an initial national interest risk assessment, the regulator has reasonable grounds to consider that the transaction may include a risk to New Zealand’s national interest, the transaction becomes a transaction of national interest and a national interest assessment is required.
+(3) However, if section 20A (which relates to transactions of national interest) already applies, subsection (1) does not require an initial national interest risk assessment and section 19B applies in accordance with section 20C.
+(4) See section 34, which provides that a Ministerial directive letter may direct the regulator about the risks or factors that suggest that a national interest assessment is required under subsection (2) and that the regulator must comply with the direction.
+
+### 19B Stage 2: national interest assessment by regulator
+(1) In undertaking a national interest assessment, the regulator—
+  (a) must comply with any relevant directions included in a Ministerial directive letter; and
+  (b) must have regard to the mandatory factors in section 19C(1); and
+  (c) may have regard to 1 or more of the non-mandatory factors in section 19C(2).
+(2) The regulator cannot decline consent at this stage.
+(3) If the regulator has reasonable grounds to consider that the transaction may be contrary to New Zealand’s national interest, the regulator must refer the application to the Minister and section 19D applies.
+
+### 19C Factors for national interest assessment
+(1) The mandatory factors for a national interest assessment are both of the following:
+  (a) the risk of the overseas investment transaction to the national interest, including its impact on national security or public order; and
+  (b) whether an identified risk to the national interest can be adequately managed by another regulatory regime.
+(2) The non-mandatory factors for a national interest assessment are all of the following:
+  (a) investor risk factors; and
+  (b) whether a national interest risk may be adequately managed by a condition imposed on the investment; and
+  (c) whether a risk that is contrary to the national interest may be offset by the benefits of the transaction.
+
+### 19D Stage 3: decisions under national interest test by Minister
+(1) The Minister may decline consent to a transaction of national interest if the Minister considers that the transaction is contrary to New Zealand’s national interest.
+(2) In making a decision under this section, the Minister—
+  (a) must have regard to any relevant directions included in the Ministerial directive letter; and
+  (b) must have regard to the mandatory factors in section 19C(1); and
+  (c) may have regard to 1 or more of the non-mandatory factors in section 19C(2).
+(3) The regulator, or the person making a decision under section 24 in relation to a particular application, cannot exercise the Minister’s power to decline consent under this section.
+
+### 19E When qualifying investor visa may be relied on under national interest test
+(1) An applicant may rely on a qualifying investor visa for the purposes of section 16(1)﻿(b)﻿(iii) in respect of relevant land that is residential (but not otherwise sensitive) land if—
+  (a) either the relevant land is or includes a residential dwelling or the relevant overseas person plans to construct a new residential dwelling on the relevant land; and
+  (b) either—
+    (i) the agreed purchase price for the relevant land (including goods and services tax, if any) is more than $5 million; or
+    (ii) if the relevant overseas person plans to construct a new residential dwelling on the relevant land, the sum of the agreed purchase price for the relevant land and the cost of construction of the new residential dwelling on the relevant land (including goods and services tax, if any) will be more than $5 million; and
+  (c) the relevant overseas person is—
+    (i) an individual (A) who holds a residence class visa granted under the Immigration Act 2009 of a category that is listed in the regulations for the purposes of this section (a qualifying investor visa) or another qualifying individual; or
+    (ii) a body corporate in which—
+      (A) either A has, or A and A’s spouse, civil union partner, or de facto partner (B) jointly have, a more than 25% ownership or control interest; and
+      (B) overseas persons (other than qualifying individuals) cumulatively do not have a more than 25% ownership or control interest; or
+    (iii) a trust (other than a unit trust) in respect of which—
+      (A) no overseas person other than A or an immediate family member of A has a beneficial interest in, or entitlement to, the trust property; and
+      (B) no person other than a qualifying individual or an exempt individual has the right to amend, or control the amendment of, the trust deed of the trust; and
+      (C) no person other than a qualifying individual or an exempt individual has the right to control the composition of the trustees of the trust; and
+  (d) A will not have any beneficial interest in, or beneficial entitlement to, more than 1 property as a result of any person relying on A’s qualifying investor visa.
+(2) In this section and section 16(1)﻿(b)﻿(iii), unless the context otherwise requires,—
+  - **exempt individual** means an individual determined by the regulator to be an exempt individual because of the circumstances relating to the particular relevant overseas person and the purpose of the overseas investment; which determination may be made only if the regulator is satisfied of both of the following:
+    (a) that the individual will not have any beneficial interest in, or beneficial entitlement to, the relevant interest in the residential land; and
+    (b) if the relevant overseas person is a trust, that the individual is not a person who may (directly or indirectly) benefit under the trust at the discretion of the trustees and is not likely to become such a person
+  - **immediate family** , in relation to A,—
+    (a) means B and any child of A or B; and
+    (b) includes any other person who is treated by A as, and acknowledged by A to be, a member of A’s immediate family
+  - **qualifying individual** , for the overseas investment, means any of the following:
+    (a) A:
+    (b) B, if the relevant section 12 interest in the residential land will be jointly owned by A and B:
+    (c) a person who is not an overseas person
+  - **qualifying investor visa** has the meaning given in subsection (1)﻿(c).
+(3) The Minister may not recommend that the regulations list a visa as a qualifying investor visa for the purposes of this section unless the Minister is satisfied that the visa requires an amount to be invested in New Zealand that will result in economic benefits for New Zealand.
+(4) If some or all of the cost of construction of a new residential dwelling is taken into account under subsection (1)﻿(b)﻿(ii) in determining whether the $5 million threshold is met under this section (the threshold costs), the regulator must impose conditions requiring the outcome that those threshold costs are incurred in the construction of the new residential dwelling.
+
 **Transactions of national interest**
 
 ### 20A Transactions that are transactions of national interest
-Transactions involving non-NZ government investors or SIB
-(1) The following kinds of overseas investment transactions are transactions of national interest:Investment by non-NZ government investorsInvestment in strategically important businesses
+(1) The following kinds of overseas investment transactions are transactions of national interest:Investment by non-NZ government investorsInvestment in strategically important businessesOther transactions
   (a) a transaction of a kind described in section 12(1)﻿(a) or 13(1)﻿(c) of this Act, or in section 57D(a) of the Fisheries Act 1996, where, as a result of the acquisition, the relevant estate or interest in land, property, or fishing quota is acquired by a non-NZ government investor:
   (b) a transaction of a kind described in section 12(1)﻿(b)﻿(i) or (ii) or 13(1)﻿(a) of this Act, or in section 57D(b) of the Fisheries Act 1996, where, as a result of the acquisition, a non-NZ government investor has more than 25% ownership or control interest in A:
   (c) a transaction of a kind described in section 12(1)﻿(a) where the estate or interest in land is used in carrying on a SIB:
   (d) a transaction of a kind described in section 12(1)﻿(b)﻿(i) or (ii) or 13(1)﻿(a) where A is carrying on a SIB:
-  (e) a transaction of a kind described in section 13(1)﻿(c) where the acquisition is of or includes property (including goodwill and other intangible assets) in New Zealand used in carrying on a SIB.
+  (e) a transaction of a kind described in section 13(1)﻿(c) where the acquisition is of or includes property (including goodwill and other intangible assets) in New Zealand used in carrying on a SIB:
+  (f) a transaction that requires a national interest assessment under section 19A(2):
+  (g) a transaction required to be treated as a transaction of national interest by regulations made under section 61(1)﻿(c).
 (1A) However, for the purpose of subsection (1)﻿(a) and (b), references to a relevant government investor or investors in the definition of relevant government enterprise in section 6(1) include only relevant government investors from the same country.ExampleAn acquisition by a company of which a New South Wales Government pension fund owns 15% and a Victorian Government pension fund owns 15% is a transaction of national interest (because Australia is the single country). But an acquisition by a company of which a New South Wales Government pension fund owns 15% and a Belgian Government pension fund owns 15% is not a transaction of national interest.
-(2) The Minister must notify an applicant if the Minister considers that an application for consent involves a transaction of the kind set out in subsection (1), unless the applicant has already identified this in their application.
+(2) The Minister must notify an applicant if the Minister considers that an application for consent involves a transaction of the kind set out in subsection (1)﻿(a) to (g), unless the applicant has already identified this in their application.
 (3) However, failure to notify an applicant does not affect a transaction’s status as a transaction of national interest and does not invalidate any action taken by the Minister in reliance on a transaction’s status as a transaction of national interest.
 (4) This section is subject to any regulations made under section 127(1).
 
@@ -716,10 +791,11 @@ Transactions involving non-NZ government investors or SIB
 (1) If the Minister considers that any other overseas investment transaction for which an application for consent has been made could be contrary to New Zealand’s national interest, the Minister may notify the applicant in writing that the transaction is a transaction of national interest.
 (2) The person making a decision under section 24 in relation to a particular application cannot exercise the Minister’s power under subsection (1) in relation to that application.
 
-### 20C Consent may be declined if transaction contrary to national interest
-(1) The Minister may decline consent to a transaction of national interest if the Minister considers that the transaction is contrary to New Zealand’s national interest.
-(2) The person making a decision under section 24 in relation to a particular application cannot exercise the Minister’s power under subsection (1) in relation to that application.
-(3) If the Minister does not decline consent to a transaction of national interest, the Minister may impose any conditions on any consent that may be granted under this Act, and section 25A applies with necessary modifications.
+### 20C How transactions of national interest under section 20A or 20B are dealt with
+If a transaction is a transaction of national interest under section 20A or 20B,—
+  (a) the regulator must undertake a national interest assessment under section 19B; and
+  (b) section 19D applies if the regulator has reasonable grounds to consider that the transaction may be contrary to New Zealand’s national interest; but
+  (c) section 19D always applies to a transaction of national interest under section 20B.
 
 ### 20D Who are critical direct suppliers
 (1) The Minister may identify a person as a critical direct supplier if the Minister is satisfied that—
@@ -815,7 +891,7 @@ An application for consent must be made in accordance with this Act and regulati
   (b) in the case of a business decision, by the Minister:
   (c) in the case of a fishing quota decision, by the Minister and the Minister of Fisheries:
   (d) in the case of a decision that is in more than 1 of the above categories, by all of the Ministers that are relevant to those categories.
-(2) However, a Minister or Ministers may delegate the power to decide (see section 32).
+(2) However, see section 32 (which relates to delegation of powers and functions).
 
 ### 25 Granting or refusal of consent
 (1) A consent under this Act may be—
@@ -829,12 +905,15 @@ An application for consent must be made in accordance with this Act and regulati
 (2) A transaction may not be cancelled under section 29(1)﻿(c) if it has been granted retrospective consent.
 
 ### 25A Conditions of consent
-(1) A consent granted under this Act may, in addition to the automatic conditions in sections 25B, 25C, and 25D and any conditions that this Act requires be imposed on the consent, be made subject to such other conditions (if any) that the relevant Minister or Ministers think appropriate.
-(2) Nothing in this Act limits the discretion of the relevant Minister or Ministers under subsection (1). For example, conditions of a consent may—
+(1) A consent granted under this Act may, in addition to the automatic conditions in sections 25B, 25C, and 25D and any conditions that this Act requires be imposed on the consent, be made subject to such other conditions (if any) that the regulator or relevant Minister or Ministers think appropriate.
+(2) Nothing in this Act limits the discretion of the regulator or relevant Minister or Ministers under subsection (1). For example, conditions of a consent may—
   (a) expand on, or be similar to, conditions that this Act requires be imposed on the consent (if any):
   (b) expand on, be similar to, or be the same as conditions that this Act requires be imposed on other consents:
   (c) require the consent holder to dispose of property in certain circumstances (for example, if a condition of consent is breached).
-(3) For the purpose of enforcing a condition, the relevant Minister or Ministers may enter into a contract or deed with an applicant (including a mortgage or other security arrangement).
+(3) For the purpose of enforcing a condition, the regulator or relevant Minister or Ministers may enter into a contract or deed with an applicant (including a mortgage or other security arrangement).
+(4) The regulator or Minister may apply conditions to manage a risk to New Zealand’s national interest only if—
+  (a) a national interest assessment has been completed under section 19B (see section 19C(2)﻿(b)); and
+  (b) the conditions are no broader than necessary to manage the identified risk.
 
 ### 25B Automatic conditions: every overseas investment
 It is a condition of every consent, whether or not it is stated in the consent, that—
@@ -848,7 +927,7 @@ It is a condition of every consent relating to a transaction of national interes
 (1) Schedule 5 applies if—
   (a) an overseas person or their associate obtains consent for an overseas investment in sensitive land; and
   (b) the section 12 interest to be acquired is or includes a fresh or seawater interest; and
-  (c) the criteria that were satisfied as part of the application for consent included the benefit to New Zealand test.
+  (c) the criteria that were satisfied as part of the application for consent included the benefit to New Zealand test or the national interest test.
 (2) If Schedule 5 applies, it is a condition of every consent, whether or not it is stated in the consent, that each consent holder must comply with the provisions of that schedule.
 
 ### 26 Minister may revoke consent in case of fraud
@@ -904,6 +983,12 @@ The Minister may revoke a consent for an overseas investment transaction before 
   (a) 1 or more persons who together are contemplating an overseas investment transaction (or a series of related or linked transactions); and
   (b) 1 or more persons who would be associates of the persons in paragraph (a) in relation to those transactions, if they went ahead.
 
+### 29B National interest test applications where no substantive change in ownership or control
+(1) A person (A) may apply to be assessed as a repeat investor for the purpose of applications that are to be considered under the national interest test.
+(2) The regulator may assess A as a repeat investor if the regulator has no reasonable cause to consider that A may pose a risk to the national interest.
+(3) If a person is assessed as a repeat investor, the regulator may rely on its assessment of risk under subsection (2) when making a subsequent decision under section 19B(1)﻿(c) about investor risk factors, but only if the regulator is satisfied that there has been no substantive change to the individual or individuals with ownership or control of the relevant overseas person since that assessment of risk was made.
+(4) Nothing in this section applies to an application for an overseas investment transaction that is an investment in a strategically important business.
+
 ### Subpart 3 — Administration
 
 ### 30 Regulator
@@ -912,7 +997,7 @@ The Minister may revoke a consent for an overseas investment transaction before 
 
 ### 31 What regulator does
 The regulator's functions are to—
-  (a) consider each application and advise the relevant Minister or Ministers on how the application should be determined:
+  (a)
   (b) exercise any of the powers or functions that have been delegated to him or her under this Act or regulations:
   (c) in relation to an application, consult as the regulator thinks appropriate:
   (d) monitor compliance with consents or orders made under this Act:
@@ -927,17 +1012,23 @@ The regulator's functions are to—
     (iv) enforce this Act and the regulations:
   (i) do anything else that is necessary for the efficient operation of the rules relating to overseas investment in sensitive New Zealand assets or the management of certain risks, such as national security and public order risks, associated with transactions by overseas persons.
 
-### 32 Delegation by relevant Minister or Ministers
-(1) The relevant Minister or Ministers may delegate to the regulator or any other person any of his or her or their powers or functions under this Act or regulations (including this power of delegation).
-(2) However, the following cannot be delegated in accordance with subsection (1):
-  (a) a decision under section 20B to advise an applicant that a transaction is a transaction of national interest:
-  (b) a decision under section 20C that a transaction of national interest is contrary to New Zealand’s national interest:
-  (c) a decision under section 88, 90, 92, 93, or 96 that a call-in transaction, or an event, or the actions of an overseas person or their associate, gives rise, or is likely to give rise, to a risk referred to in section 81:
+### 32 Delegation of powers and functions
+Statutory delegation
+(1) This subsection delegates to the regulator all of the powers and functions of the relevant Minister or Ministers under this Act or the regulations (including the power of delegation) other than—
+  (a) the powers and functions that cannot be delegated under subsection (4); and
+  (b) any powers and functions that the relevant Minister or Ministers have notified the regulator are exempted from the delegation under this subsection, or that they wish to delegate under subsection (3), (either in whole or in part).
+(2) The delegation in subsection (1) has the effect that the regulator may exercise all of the relevant powers and functions as if the relevant Minister or Ministers had delegated those powers and functions (rather than that subsection).
+Express power to delegate
+(3) The relevant Minister or Ministers may delegate to the regulator or any other person any of their powers or functions under this Act or the regulations (including this power of delegation) other than the powers and functions that cannot be delegated under subsection (4).
+Powers and functions that cannot be delegated
+(4) The following cannot be delegated:
+  (a) a decision under section 19D:
+  (b) a decision under section 20B to advise an applicant that a transaction is a transaction of national interest:
+  (c) a decision under section 88, 90, 92, 93, or 96 that a call-in transaction, an event, or the actions of an overseas person or their associate give rise, or are likely to give rise, to a risk referred to in section 81:
   (d) a decision under section 92, 93, or 96 that a risk referred to in section 81 cannot be adequately managed in another manner or that the risk is too significant to allow a transaction to be given effect to.
-(3) See also section 20B(2) or 20C(2) (a person making a decision under section 24 cannot also exercise the Minister’s power under section 20B(1) or 20C(1)).
 
 ### 33 Rules that apply to delegation under this Act or regulations
-(1) The delegation—
+(1) A notice of delegation under section 32(3) or a notice of exemption under section 32(1)﻿(b)—
   (a) must be in writing:
   (b) in the case of delegation by the Minister, may (but does not have to) be made in a Ministerial directive letter:
   (c) may be made generally or in relation to any particular matter or class of matters:
@@ -946,6 +1037,7 @@ The regulator's functions are to—
     (ii) persons of a specified class; or
     (iii) the holder for the time being of a specified office or appointment; or
     (iv) the holders of offices or appointments of a specified class:
+  (da) in the case of a notice of exemption, may specify which powers and functions are exempt under section 32(1)﻿(b):
   (e) may be revoked at any time.
 (2) The delegation may be made subject to any conditions or restrictions that the delegator thinks appropriate.
 (3) Subject to any general or special directions or conditions or restrictions given or imposed by the delegator, the person to whom a power or function is delegated may exercise that power or function in the same way and with the same effect as if it had been conferred directly by this Act or regulations and not by delegation.
@@ -957,6 +1049,10 @@ The regulator's functions are to—
 (2) Subsection (1) applies even if the subject matter of the Ministerial directive letter relates to a power that has been delegated to the regulator.
 (3) A Ministerial directive letter may direct the regulator about the following things:
   (a) the Government's general policy approach to overseas investment in sensitive New Zealand assets, including the relative importance of different criteria or factors in relation to particular assets:
+  (aa) the risks or factors that suggest that a national interest assessment is required under section 19A(2):
+  (ab) the Government’s preferred approach to undertaking a national interest assessment:
+  (ac) the risks or factors that suggest that an application should be referred under section 19B(3):
+  (ad) requirements and conditions for applications relating to transactions where the relevant land is used for forestry activities:
   (b) the asset types, value thresholds, and area thresholds over which the regulator has power to make decisions:
   (ba) conditions of consents or direction orders, including conditions that this Act requires be imposed:
   (c) the level of monitoring required in relation to conditions of consent:
@@ -994,6 +1090,7 @@ The regulator's functions are to—
 (2) The time frames do not create any legal right enforceable in a court of law or affect or limit the way in which a person (for example, a Minister or the regulator) is required to exercise a statutory power of decision.
 (3) In particular, no form of monetary compensation or relief, or injunctive relief, is available as a remedy if the time frames are not met.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) A time frame for a decision under section 19A (which relates to initial national interest risk assessments) must not be more than 15 working days.
 
 ### Subpart 4 — Information-gathering powers
 
@@ -1348,7 +1445,9 @@ The regulator may defer or dispense with publication of a matter under this subp
 (3) The statement must be made in a manner that is authorised by the regulator in a notice under section 51B.
 (4) The statement—
   (a) may be in a single document; or
-  (b) may be included as part of another document (for example, an agreement for sale and purchase) if this is authorised by the regulator.
+  (b) may be included as part of another document (for example, an agreement for sale and purchase) if this is authorised by the regulator; or
+  (c) may be in a digital format or part of another digital document; or
+  (d) may be stored in a digital format.
 (5) A must, before the instrument is lodged, provide the statement, or a copy of the statement, to the conveyancer who will lodge, or direct the lodgement of, the instrument.
 (6) A statement may be made and provided on A’s behalf by another person (C) in either of the following ways (in which case the statement must be made to the best of C’s knowledge and belief):
   (a) by C acting under an enduring power of attorney granted by A under the Protection of Personal and Property Rights Act 1988; or
@@ -1371,6 +1470,7 @@ The regulator may defer or dispense with publication of a matter under this subp
   (a) has not obtained the statement or a copy of the statement that is required to be provided under section 51A(5) or (6); or
   (b) has reasonable grounds for believing that the statement or copy that is provided is not correct in a material particular.
 (2) The conveyancer must take reasonable steps to ensure that a copy of the statement is kept for a period of at least 7 years after the date on which the instrument is lodged.
+(2A) The conveyancer may comply with this section by keeping the statement in digital form or by contracting with a third party to meet its obligations under this section.
 (3) Sections 41F, 45, and 47 do not apply in respect of a contravention of this section (but a conveyancer may be liable to a civil pecuniary penalty under section 48).
 
 **Administrative penalties**
@@ -1380,8 +1480,9 @@ The regulator may defer or dispense with publication of a matter under this subp
 (2) The regulator may refuse to accept the document if the penalty has not been paid.
 (3) The penalty is recoverable by the regulator in any court of competent jurisdiction as a debt due to the Crown.
 
-### 53 Administrative penalty for retrospective consent
-The regulator may require the applicant for a retrospective consent to pay an administrative penalty before the consent is granted.
+### 53 Administrative penalty for retrospective consent or exemption
+(1) The regulator may require the applicant for a retrospective consent to pay an administrative penalty before the consent is granted.
+(2) The regulator may require the applicant for a retrospective exemption to pay an administrative penalty before the exemption is granted.
 
 **Giving, providing, or serving notices or documents**
 
@@ -1469,7 +1570,8 @@ The court must not refuse to make an order under sections 47 to 51 on the ground
   (aac) prescribing classes of profits à prendre not to be treated as regulated profits à prendre in this Act:
   (a) determining how to measure value or apply the value thresholds under section 13:
   (b) prescribing, for the purposes of the criteria in section 16(1)﻿(f), when and how farm land or section 12 interests must be advertised for acquisition to persons who are not overseas persons (including what is required for open market advertising):
-  (ba) making provision referred to in section 16A(4):
+  (ba)
+  (c) prescribing additional classes of transactions that are transactions of national interest under this Act:
   (c)
   (ca)
   (d)
@@ -1493,7 +1595,7 @@ The court must not refuse to make an order under sections 47 to 51 on the ground
   (m) providing for transitional provisions:
   (n) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 (2) Regulations under this Act (including regulations for prescribing fees, charges, bonds, or administrative penalties) may make different provisions for different cases on any differential basis.
-(3) Any exemptions made in respect of the matters in subsection (1)﻿(lc) are revoked on the 42nd day after the date on which the Overseas Investment Amendment Act (No 3) 2020 receives the Royal assent.
+(3)
 (4) The Minister must, at least once in every period of 4 financial years, commence a review of fees and charges set under subsection (1)﻿(e).
 (5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (6) If regulations authorise a person to grant exemptions, waivers, refunds, or discounts referred to in subsection (1)﻿(h),—
@@ -1544,6 +1646,8 @@ The purpose of sections 61C and 61D is to—
 
 ### 61D Minister may grant individual exemptions
 (1) The Minister may exempt any transaction, person, interest, right, or assets from the requirement for consent or from the definition of overseas person or associate or associated land.
+(1A) An exemption under subsection (1) may be granted with retrospective effect.
+(1B) A transaction may not be cancelled under section 29(1)﻿(c) if the Minister has retrospectively exempted the transaction from the requirement for consent.
 (2) See sections 61E (criteria for all exemptions) and 61F (other provisions applying to all exemptions).
 (3) The Minister must publish each exemption granted under subsection (1) on an Internet site maintained by or for the regulator, unless section 61F(6) applies.
 
@@ -1594,24 +1698,19 @@ The purpose of sections 61C and 61D is to—
 **Dissolution of Commission**
 
 ### 63 Commission dissolved
-The Commission is dissolved.
+[Repealed]
 
 ### 64 Assets and liabilities vest in the Crown
-All rights, assets, liabilities, and debts that the Commission had immediately before the commencement of section 63 must be treated as the rights, assets, liabilities, and debts of the Crown on that commencement.
+[Repealed]
 
 ### 65 No compensation for loss of office
-The Crown is not liable to make a payment to, or otherwise compensate, any person in respect of that person ceasing to hold any office established by or under the Overseas Investment Act 1973.
+[Repealed]
 
 ### 66 Transfer to LINZ
-A person who was employed by the Reserve Bank in a position with the Commission immediately before the commencement of section 63 and who has given a written notice of transfer of employment to the chief executive of LINZ is entitled on the commencement of section 63 to be transferred to LINZ.
+[Repealed]
 
 ### 67 Transferring employee must be employed in equivalent employment
-(1) An employee who transfers to LINZ under section 66 must be employed in equivalent employment to his or her employment immediately before the commencement of section 63.
-(2) In subsection (1), equivalent employment means employment by LINZ of the employee—
-  (a) in substantially the same position; and
-  (b) in the same general locality; and
-  (c) on terms and conditions that are no less favourable.
-(3) The requirement that the terms and conditions of the employee's employment with LINZ are no less favourable continues to apply until those terms and conditions are varied by agreement between the employee and the chief executive of LINZ.
+[Repealed]
 
 ### 68 Continuity of employment
 (1) Every transferring employee becomes an employee of LINZ on the commencement of section 63.
@@ -1620,20 +1719,16 @@ A person who was employed by the Reserve Bank in a position with the Commission 
   (b) the employee's period of service with the Reserve Bank, and every other period of service of that employee that was recognised by the Reserve Bank as continuous service, must be treated as a period of service with LINZ.
 
 ### 69 No compensation for technical redundancy
-A transferring employee is not entitled to receive any payment or any other benefit on the ground that—
-  (a) the position held by the person with the Reserve Bank has ceased to exist (as a result of the dissolution of the Commission); or
-  (b) the person has ceased (as a result of the transfer to LINZ) to be an employee of the Reserve Bank.
+[Repealed]
 
 ### 70 Final report
-(1) Before the commencement of section 63, the Commission must prepare and submit to the Minister a final report of its operations for the period beginning on 1 July 2005 and ending with the close of the day before the commencement of section 63.
-(2) The Minister must present a copy of the report to the House of Representatives not more than 6 sitting days after receiving it.
+[Repealed]
 
 ### 71 References to Commission
-Unless the context otherwise requires, every reference to the Commission in any enactment, agreement, deed, instrument, application, notice, or any other document in force immediately before the commencement of section 63, on and after that commencement, must be read as a reference to the regulator.
+[Repealed]
 
 ### 72 Proceedings of Commission
-(1) Any proceedings to which the Commission is a party before the commencement of section 63 may be continued, completed, and enforced by or against the Crown.
-(2) This section is for the avoidance of doubt.
+[Repealed]
 
 **Amendments to Fisheries Act 1996**
 
@@ -1705,7 +1800,7 @@ A person may apply for an exemption certificate, and the application may be deal
 (1) A call-in transaction is a transaction by an overseas person or an associate of an overseas person that—
   (a) is an overseas investment in SIB assets; but
   (b) does not require consent (see section 10).
-(2) An overseas investment in SIB assets is— Investment in strategically important businessesInvestment in SIB property
+(2) An overseas investment in SIB assets is—Investment in strategically important businessesInvestment in SIB property
   (a) the acquisition by an overseas person, or an associate of an overseas person, of rights or interests in securities of a person (A) who is (directly or indirectly) carrying on a SIB if,—Investment in media businesses with significant impactInvestment in listed issuersAny other investment in SIB business
     (i) in the case of a SIB that is a media business with significant impact, as a result of the acquisition the overseas person or the associate (either alone or together with its associates) has—
       (A) a more than 25% ownership or control interest in A; or
@@ -1747,10 +1842,11 @@ The Minister may determine which 1 or more of the following persons is the relev
 
 **Notification of call-in transactions**
 
-### 85 Military or dual-use technology and critical direct supplier call-in transactions
+### 85 Mandatory notification of certain call-in transactions relating to strategically important businesses
 (1) This section applies to a call-in transaction relating to a SIB that is—
   (a) a business that researches, develops, produces, or maintains military or dual-use technology; or
-  (b) a critical direct supplier.
+  (b) a critical direct supplier; or
+  (c) a transaction that the regulations prescribe as a transaction to which this section applies.
 (2) Each overseas person or associate making the overseas investment in SIB assets must notify the regulator before giving effect to the call-in transaction.
 (3) A call-in transaction must not be given effect to unless the Minister makes a direction order in relation to that transaction.
 (4) However, in the case of an overseas person or associate investing in an unpublished CDS,—
@@ -1763,6 +1859,7 @@ The Minister may determine which 1 or more of the following persons is the relev
 (2) Any overseas person or associate making the overseas investment in SIB assets may notify the regulator of a call-in transaction at any time before the date set out in regulations.
 
 ### 87 Requirements for notification of call-in transaction
+(1AAA) The purpose of requiring a notification under section 85 or 86, or information under subsection (4) or (5) of this section, is to assess risks to New Zealand’s national security or public order.
 (1) The Minister must, by notice, authorise the manner in which a notification under section 85 or 86 must be given, including by doing any of the following:
   (a) specifying the required content of the notification, which may include any information that the Minister thinks relevant:
   (b) approving or prescribing 1 or more forms for the notification or 1 or more methods for making the notification (or both):
@@ -1772,6 +1869,8 @@ The Minister may determine which 1 or more of the following persons is the relev
 (4) The regulator may, by notice in writing, require 1 or more persons giving a notification under section 85 or 86 to provide a statutory declaration verifying that the information contained in the notification is true and correct.
 (5) For the purpose of considering the notification under section 85 or 86, the regulator may, by notice in writing, require a relevant acquirer, or any other person with information relevant to the notification, to provide the information specified in the regulator’s notice and in a form specified by the regulator’s notice.
 (6) A notification under section 85 or 86 must be accompanied by the relevant fee (if any), unless this has already been paid.
+(7) A notification made under section 86 may specify that the information is provided to the Crown in confidence (however, a failure to specify this does not imply that it is not provided in confidence).
+(8) In considering whether to release information acquired under section 85 or 86, or subsection (4) or (5) of this section, the Minister or the regulator, as the case may be, must consider whether the information may be withheld under section 6(a) or 9(2)﻿(ba) of the Official Information Act 1982.
 
 ### Subpart 2 — Risk management actions
 
@@ -2145,6 +2244,7 @@ The Minister may only make a disposal order or a recommendation that a person be
     (ii) call-in transactions:
     (iii) overseas investments covered by the emergency notification regime:
     (iv) overseas investments in SIB assets:
+  (da) prescribing additional classes of transactions to which section 85 applies:
   (e) prescribing a date for notification for the purposes of section 86.
 (2) The Minister must have regard to New Zealand’s international obligations when making a recommendation relating to a regulation for the purposes set out in subsection (1)﻿(a) to (e).
 (3) The Minister must, before making a recommendation for the purpose set out in subsection (1)﻿(c) that applies in section 82, be satisfied that a class of business is not broader than is reasonably necessary to manage risks to national security or public order.
@@ -2497,6 +2597,25 @@ In this Part, unless the context otherwise requires,—
 (2) To avoid doubt, subclause (1) applies to proceedings to which subpart 3 of Part 3 of this Act applies that commence on or after the commencement date, but that relate to a decision that occurred before, on, or after that date.
 (3) Proceedings to which subpart 3 of Part 3 of this Act applies that are commenced before the commencement date, and not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if the amendments made to this Act by the 2022 Act had not been enacted.
 
+### Part 9 — Provisions relating to Overseas Investment (National Interest Test and Other Matters) Amendment Act 2025
+
+### 57 Interpretation in this Part
+(1) In this Part, unless the context otherwise requires,—
+  - **commencement** means the date on which the Overseas Investment (National Interest Test and Other Matters) Amendment Act 2025 comes into force
+  - **new Act** means this Act as it reads immediately after commencement
+  - **old Act** means this Act as it read immediately before commencement.
+(2) Part 1 of this schedule applies when determining whether a transaction is entered into before commencement or on or after commencement (see clause 1(4) and (5)).
+
+### 58 Existing transactions and applications, etc
+(1) This clause applies for the purposes of applying a provision of this Act that relates to—
+  (a) determining who are overseas persons, what are overseas investments in sensitive assets, sensitive land, and other matters in Part 1 of this Act; and
+  (b) determining when consent is required and the criteria for consent under subpart 1 of Part 2 of this Act; and
+  (c) the making of applications for consent and for granting consent under subpart 2 of Part 2 of this Act; and
+  (d) granting exemptions under section 61D of this Act.
+(2) An exemption granted retrospectively cannot apply to a period before commencement.
+(3) The old Act continues to apply to applications received by the regulator, and consents granted, before commencement (regardless of when the transaction is or was entered into or whether it has been given effect to) and any other matters that relate to events or circumstances before commencement.
+(4) In other cases, the new Act applies (including to transactions entered into but not given effect to).
+
 ## Schedule 1 — Sensitive land
 
 | Row | Land is sensitive if it is or includes this type of land | … and that type exceeds this area threshold (if any) |
@@ -2616,7 +2735,7 @@ In this schedule,—
     (i) every key individual is a qualifying individual; and
     (ii) the purpose of acquiring the relevant interest in the residential land is the acquisition of 1 dwelling (whether that dwelling is constructed on, or is being or will be constructed on, the residential land) for all of the key individuals to occupy as their main home or residence; and
   (b) every key individual who is an overseas person (an OP) (if any) provides a statutory declaration that the OP intends,—
-    (i) at least until the declaration end date, to be present in New Zealand for at least 183 days in every 12-month period beginning on the date of consent or its anniversary in any year; and
+    (i) at least until the declaration end date, to be present in New Zealand for more than 183 days in every 12-month period beginning on the date of consent or its anniversary in any year; and
     (ii) (if not already tax resident in New Zealand) to become tax resident in New Zealand; and
     (iii) to remain tax resident in New Zealand at least until the declaration end date.
 (2) See also clause 6 (which sets out certain conditions to be imposed on certain consents that rely on meeting this test, including a requirement for the consent holder to dispose of all relevant interests in the residential land in certain circumstances).
@@ -2774,8 +2893,8 @@ ExampleA is an overseas person who wishes to buy a company. The company owns lan
   (d) any overseas person who has a beneficial interest in, or beneficial entitlement to, the relevant interest in the residential land:
   (e) if A is a trust, a person who may (directly or indirectly) benefit under the trust at the discretion of the trustees.
 (4) However, subclause (3)﻿(c) to (e) do not apply to a person who is entitled to occupy the land under any consent or any exemption in this Act or the regulations (for example, a person who has consent on the basis of the commitment to reside in New Zealand test may be entitled to lease a new dwelling in respect of which the developer is subject to a non-occupation outcome under the increased housing test).
-(5) For the purposes of section 16A(2)﻿(c) and (4)﻿(c), subclause (3)﻿(c) does not apply to the extent that—
-  (a) accommodation is being provided for the purpose only of supporting forestry activities (as defined in section 16A(9)) being carried out on the farm land (in the case of section 16A(2)﻿(c)) or the relevant land (in the case of section 16A(4)﻿(c)); and
+(5) For the purposes of section 16A(2)﻿(c), subclause (3)﻿(c) does not apply to the extent that—
+  (a) accommodation is being provided for the purpose only of supporting forestry activities being carried out on the farm land (in the case of section 16A(2)﻿(c)); and
   (b) all the buildings being used for that accommodation are located on land on which some or all of those forestry activities are being carried out or on land that adjoins land on which some or all of those forestry activities are being carried out.
 
 ### 18 Conditions for consent if 1 or more tests in Part 3 are met
@@ -3033,54 +3152,7 @@ Use-by date
 (5) The standing consent may specify a use-by date.
 
 ### 3 Forestry activities
-Application
-(1) A person may apply for a standing consent for transactions in respect of overseas investments in sensitive land for which the benefit to New Zealand test will be met in accordance with section 16A(4).
-Criteria for grant of standing consent
-(2) The relevant Ministers may, despite section 14(1), grant a standing consent if the relevant Ministers are satisfied—
-  (a) that the investor test is met; and
-  (b) that the conditions referred to in subclauses (3) and (4) will be, or are likely to be, met; and
-  (c) without limiting paragraph (b), that the applicant has, and will continue to have, adequate processes in place for meeting, at all relevant times, the requirements set out in regulations made for the purposes of section 16A(4)﻿(d); and
-  (d) without limiting paragraph (b), that the persons referred to in subclause (2A) have a strong record of 1 or both of the following or of the following taken together:
-    (i) compliance with this Act and with conditions and other requirements imposed under it (including providing the regulator with complete and accurate information):
-    (ii) compliance with corresponding laws, and with conditions and other requirements imposed under corresponding laws, in territories other than New Zealand (including providing regulators with complete and accurate information).
-(2A) For the purposes of subclause (2)﻿(d), the persons are the following (viewed as a group):
-  (a) the applicant:
-  (b) the applicant’s associates:
-  (c) the individuals with control of the relevant overseas person.
-Conditions
-(3) The standing consent must be granted subject to the following conditions:
-  (a) conditions for the purpose of ensuring that the benefit to New Zealand test is met in accordance with section 16A(4) for each overseas investment to which the consent will apply (subject to subclauses (5) and (6)):
-  (b) for an overseas investment where the relevant land is or includes farm land, a condition that effect must not be given to the overseas investment in reliance on the consent unless the criterion in section 16(1)﻿(f) has been met:
-  (c) a condition—
-    (i) that at the time, and in the manner, specified in the consent, the regulator must be notified—
-      (A) of each transaction to which the consent will apply; and
-      (B) in relation to each such transaction, of how the requirements set out in regulations made for the purposes of section 16A(4)﻿(d) will be met for each overseas investment resulting from the transaction; and
-    (ii) that the notification of a transaction must include any other information required by the regulator in relation to the transaction.
-(4) The standing consent may be granted subject to additional conditions, which may include—
-  (a) conditions about the land in relation to which the consent may apply (for example, limits by total land area, location of land, and geographic type of land); and
-  (b) limits on the number of overseas investments for which the standing consent can be relied on.
-(5) For an overseas investment that involves a forestry right, the conditions of the standing consent may provide that, to the extent set out in the conditions, the requirement in section 16A(4)﻿(e) does not have to be met in relation to a crop of trees that is harvested under the forestry right if the forestry right expires—
-  (a) upon the completion of the harvesting; or
-  (b) after a short period (as determined in accordance with the conditions) following the completion of the harvesting.
-(6) For the purposes of subclause (5), an overseas investment involves a forestry right if the overseas investment is the acquisition of—
-  (a) the forestry right; or
-  (b) rights or interests in securities of a person who owns or controls (directly or indirectly) the forestry right.
-Variation of conditions following notification of transaction
-(7) After the regulator is notified of a transaction as referred to in subclause (3)﻿(c), the relevant Ministers may, in relation to an overseas investment that results (or will result) from the transaction, vary the conditions of the standing consent to reflect any information provided as referred to in subclause (3)﻿(c)﻿(i)﻿(B).
-Variation of conditions on ground that consent holder does not have sufficient ownership or control of relevant land
-(8) The holder of the standing consent may, before an overseas investment is given effect to in reliance on the consent, apply to the relevant Ministers for a variation of the conditions of the standing consent in relation to the overseas investment.
-(9) The application may be made only on the ground that the holder of the standing consent (together with the holder’s associates) will not have sufficient ownership or control (direct or indirect) of rights in respect of the relevant land to ensure—
-  (a) that a requirement set out in regulations made for the purposes of section 16A(4)﻿(d) will be met; or
-  (b) that the requirement set out in section 16A(4)﻿(e) will be met.
-(10) If satisfied of that ground, the relevant Ministers may, in relation to the overseas investment, vary the conditions of the standing consent in a way that is consistent with their power under section 16A(7) or (8).
-Variation of conditions to reflect new regulations, etc
-(11) Subclause (12) applies if, after the standing consent is granted, there come into force any new regulations, or any amendment or revocation of any regulations, that make any provision referred to in section 16A(4).
-(12) The relevant Ministers may vary the conditions of the standing consent to reflect the new regulations or the amendment or revocation.
-(13) See also clause 6, which applies in relation to a variation under subclause (12).
-Meaning of vary
-(14) In subclauses (7) to (13), vary, in relation to the conditions of the standing consent, includes to add or revoke 1 or more conditions.
-Use-by date
-(15) The standing consent may specify a use-by date.
+[Repealed]
 
 **Provisions applying to all standing consents**
 
@@ -3094,7 +3166,7 @@ The relevant Ministers may revoke or vary a standing consent (including by varyi
 (2) However, subclause (1) does not apply if the revocation or variation is at the consent holder’s request or is done under subpart 2 of Part 2 of this Act.
 
 ### 6 Effect of revocation or variation of standing consents
-(1) The revocation or variation of a standing consent under clause 3(12) or 4 does not apply to any transaction entered into in reliance on the consent before the revocation or variation.
+(1) The revocation or variation of a standing consent under clause 4 does not apply to any transaction entered into in reliance on the consent before the revocation or variation.
 (2) Clause 1(4) and (5) of Schedule 1AA applies with any necessary modifications when deciding when a transaction is entered into.
 
 ### 7 Schedule does not limit other provisions
