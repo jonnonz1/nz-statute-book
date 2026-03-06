@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2025-09-29_
+_Consolidation as at 2026-03-06_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -1202,7 +1202,7 @@ An overseas investment in fishing quota is the acquisition by an overseas person
 The criteria for an overseas investment in fishing quota are all of the following:
   (a) the investor test is met:
   (b) the overseas investment will, or is likely to, benefit New Zealand (or any part of it or group of New Zealanders) to the extent required by section 16A(1A) of the Overseas Investment Act 2005, as determined by the relevant Ministers under section 57H:
-  (c) if the overseas investment in fishing quota is a transaction of national interest, the Minister has not declined consent to the transaction (see section 20C of the Overseas Investment Act 2005):
+  (c) if the overseas investment in fishing quota is a transaction of national interest, the national interest test is met under section 19(b) or (c) of the Overseas Investment Act 2005:
   (d) the interest in fishing quota is capable of being registered in the Quota Register or the Annual Catch Entitlement Register.
 
 ### 57H Factors for determining whether or not overseas investment in fishing quota will, or is likely to, benefit New Zealand
