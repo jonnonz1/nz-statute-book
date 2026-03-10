@@ -5,7 +5,7 @@ _Consolidation as at 2026-03-10_
 This Act is the Social Security (Accident Compensation and Calculation of Weekly Income) Amendment Act 2026.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 11 March 2026.
 
 ### 3 Principal Act
 This Act amends the Social Security Act 2018.
