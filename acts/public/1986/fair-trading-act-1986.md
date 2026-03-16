@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2026-01-24_
+_Consolidation as at 2026-03-16_
 
 > Title
 
@@ -824,6 +824,7 @@ The purpose of this Part is to set out in one place the rules applying to—
   (a) layby sale agreements; and
   (b) uninvited direct sale agreements; and
   (c) extended warranty agreements; and
+  (ca) gift card expiry dates; and
   (d) auctions.
 
 ### Subpart 1 — Layby sales
@@ -1152,6 +1153,31 @@ In this subpart,—
 (3) A failure to comply with subsection (2) does not affect the validity of any regulations made under this section.
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
+### Subpart 3A — Gift card expiry dates
+
+### 36WA Definitions
+In this subpart, unless the context otherwise requires,—
+  - **expiry date** , in relation to a gift card, means the date on which the gift card ceases to be redeemable
+  - **gift card** means a card or voucher (in whatever form) that is redeemable for goods or services, but does not include—
+    (a) a card or voucher supplied in substitution for goods returned to the supplier of the goods; or
+    (b) a prepaid card or voucher redeemable only for telecommunication services, public transport, or electricity, gas, or water services; or
+    (c) a debit card, credit card, prepaid travel card, or other similar card that allows cash withdrawals; or
+    (d) a card or voucher supplied as part of a customer loyalty programme (other than a card or voucher supplied in exchange for a reduction in customer loyalty points); or
+    (e) a card or voucher redeemable only for goods or services available at a time-limited event (such as a festival, concert, or similar event); or
+    (f) a card or voucher sold principally to raise funds for a charitable purpose.
+
+### 36WB Gift card expiry date must not be less than 3 years
+(1) A person must not, in trade, sell to a consumer a gift card with an expiry date that is less than 3 years after the date of sale of the gift card.
+(2) A term or condition of a gift card sold to a consumer is void to the extent that it contravenes subsection (1).
+(3) If the expiry date of a gift card is void because of subsection (2), the expiry date is taken to be 3 years after the date of sale of the gift card.
+
+### 36WC Expiry date must appear prominently on gift card
+A person must not, in trade, sell to a consumer a gift card unless the card states prominently when it ceases to be redeemable by reference to one of the following:
+  (a) the expiry date:
+  (b) the month and year the gift card ceases to be redeemable:
+  (c) the date the gift card is sold and a statement that identifies the period during which the gift card is redeemable:
+  (d) the words no expiry date or words to that effect.
+
 ### Subpart 4 — Auctions
 
 ### 36X Definitions
@@ -1282,7 +1308,9 @@ In this Act, unless the context otherwise requires,—
       (i) section 36C (layby disclosure requirements):
       (ii) section 36D (further layby disclosure requirements):
       (iii) section 36L (uninvited direct sale disclosure requirements):
-      (iv) section 36U (extended warranty disclosure requirements).
+      (iv) section 36U (extended warranty disclosure requirements):
+      (v) section 36WB (gift card expiry date must not be less than 3 years):
+      (vi) section 36WC (expiry date must appear prominently on gift card).
 
 ### 40C Infringement offence alleged
 (1) If a person is alleged to have committed an infringement offence, the person may either—
@@ -1329,9 +1357,9 @@ If an infringement notice is issued, a criminal record must not be created in re
 
 **Civil proceedings**
 
-### 41 Injunctions may be granted by court for contravention of Part 1, Part 2, Part 3, and Part 4
+### 41 Injunctions may be granted by court for contravention of specified provisions
 (1) The court may, on the application of the Commission or any other person, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute any of the following—
-  (a) a contravention of any of the provisions of Parts 1 to 4:
+  (a) a contravention of any of the provisions of Parts 1 to 4 or section 36WB or 36WC:
   (b) any attempt to contravene such a provision:
   (c) aiding, abetting, counselling, or procuring any other person to contravene such a provision:
   (d) inducing, or attempting to induce, any other person, whether by threats, promises or otherwise, to contravene such a provision:
@@ -1348,7 +1376,7 @@ If an infringement notice is issued, a criminal record must not be created in re
 (6) However, in determining the Commission's application for the grant of an interim injunction, the court must not take into account that the Commission is not required to give an undertaking as to damages.
 
 ### 42 Order to disclose information or publish advertisement
-(1) Where, on the application of the Commission, the court is satisfied that a person has engaged in conduct constituting a contravention of any of the provisions of Parts 1 to 4, the court may (whether or not that person has previously engaged in such conduct), make either or both of the following orders:
+(1) Where, on the application of the Commission, the court is satisfied that a person has engaged in conduct constituting a contravention of any of the provisions of Parts 1 to 4 or section 36WB or 36WC, the court may (whether or not that person has previously engaged in such conduct), make either or both of the following orders:
   (a) an order requiring that person, or any other person involved in the contravention, to disclose, at that person's own expense, to the public, or to a particular person or to persons included in a particular class of persons, in such manner as is specified in the order, such information, or information of such a kind, as is so specified, being information that is in the possession of the person to whom the order is directed or to which that person has access:
   (b) an order requiring that person, or any other person involved in the contravention, to publish, at that person's own expense, in such manner and at such times as are specified in the order, corrective statements the terms of which are specified in, or are to be determined in accordance with, the order.
 (2) The court may hear and determine an application under subsection (1) in conjunction with any other proceedings under any of sections 40, 40A, 41, or 43.
@@ -1912,6 +1940,11 @@ Section 100 of the Commerce Act 1986 (powers of Commission to prohibit disclosur
   - **new** , in relation to a provision of this Act, means the provision as in force on and after the commencement date
   - **old** , in relation to a provision of this Act, means the provision as in force immediately before the commencement date
   - **relevant insurance agreement** has the same meaning as in clause 1 of this schedule.
+
+### Part 3 — Provision relating to Fair Trading (Gift Card Expiry) Amendment Act 2024
+
+### 3 Amendments do not apply to existing gift cards
+The amendments made by the Fair Trading (Gift Card Expiry) Amendment Act 2024 do not apply to a gift card sold before the commencement of that Act.
 
 ## Schedule 1 — Enactment amended
 
