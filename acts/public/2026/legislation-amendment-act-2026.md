@@ -6,9 +6,9 @@ This Act is the Legislation Amendment Act 2026.
 
 ### 2 Commencement
 (1) This Act comes into force on a date or dates set by Order in Council.
-(2) However, sections 5(1), 6(3), 43, 56, 58(2), (14), (22), and (25), and 63(1) and (2) come into force on the day after Royal assent.
+(2) However, sections 5(1), 6(3), 43, 56, 58(2), (14), (22), and (25), and 63(1) and (2) come into force on 17 March 2026.
 (3) Any part of the Act (other than sections 9, 20, 31, and 58(27)) that has not come into force by 2 November 2026 comes into force then.
-(4) Any part of sections 9, 20, 31, and 58(27) that has not come into force by the fifth anniversary of Royal assent comes into force then.
+(4) Any part of sections 9, 20, 31, and 58(27) that has not come into force by 16 March 2031 comes into force then.
 (5) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 3 Principal Act
