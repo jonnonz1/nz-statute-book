@@ -1,5 +1,5 @@
 # Legislation Act 2019
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2026-03-17_
 
 ### 1 Title
 This Act is the Legislation Act 2019.
@@ -39,7 +39,7 @@ This Act is the Legislation Act 2019.
     (i) setting drafting and publication responsibilities; and
     (ii) providing tools for correcting errors in legislation; and
     (iii) providing for revision programmes to revise New Zealand’s legislation:
-  (d) Part 4 sets disclosure requirements for Government-initiated legislation:
+  (d)
   (e) Part 5 supports parliamentary oversight and control over secondary legislation through—
     (i) providing for the House of Representatives to disallow all secondary legislation (with limited exceptions); and
     (ii) setting the deadlines for confirmation of secondary legislation (if confirmation by Parliament is required) and the consequences of not confirming:
@@ -65,13 +65,10 @@ This Act is the Legislation Act 2019.
   - **empowering provision** , in relation to any secondary legislation or instrument, means—
     (a) the provision of the empowering legislation that empowers the making of the secondary legislation or instrument; or
     (b) the Royal prerogative (for anything done under the Royal prerogative)
-  - **Government amendment** has the meaning set out in the rules and practice of the House of Representatives
   - **instrument** includes secondary legislation and any instrument that is not legislation (for example, an administrative document)
   - **introduction** , in relation to a Bill, means the introduction of the Bill in accordance with the rules and practice of the House of Representatives
   - **legislation** means the whole or a part of an Act or any secondary legislation
   - **legislation website** means any Internet site maintained by, or on behalf of, the PCO for the publication of legislation or supporting material (or both)
-  - **legislative guidelines or standards** , in Part 4, has the meaning set out in section 102
-  - **legislative quality procedures** , in Part 4, has the meaning set out in section 102
   - **maker** , in relation to any secondary legislation or instrument, means the person empowered to make the secondary legislation or instrument (but see also subsection (2))
   - **minimum legislative information** means—
     (a) the Title of the legislation; and
@@ -83,8 +80,6 @@ This Act is the Legislation Act 2019.
   - **presentation exemption** means an exemption of the type referred to in section 114(2)
   - **referential words** , in subpart 2 of Part 3, has the meaning set out in section 85
   - **release** , in relation to an amendment to a Bill, means the circulation or release of the amendment to the House of Representatives in accordance with the rules and practice of the House of Representatives
-  - **relevant policy agency** , in Part 4, has the meaning set out in section 102
-  - **responsible Minister** , in Part 4, has the meaning set out in section 102
   - **secondary legislation** means an instrument (whatever it is called) that—ExampleThe ABC Act 2018 enables the Governor-General, by Order in Council, either to make exemptions in the Order in Council or to enable the regulator to issue exemption notices. Both the order and notice are made (directly or indirectly) under the ABC Act (see section 21). The ABC Act states that both are secondary legislation. As a result, both the Order in Council and the exemption notice made under that order are secondary legislation under this definition.
     (a) is made under an Act if the Act (or any other legislation) states that the instrument is secondary legislation; or
     (b) is made under the Royal prerogative in a form and for a purpose set out in Schedule 1A
@@ -841,112 +836,40 @@ The PCO’s annual report under section 43 of the Public Finance Act 1989 may (w
 ## Part 4 — Disclosure requirements for Government-initiated legislation
 
 ### 101 Purpose of this Part
-The purpose of this Part is to—
-  (a) better inform parliamentary and public scrutiny of Government-initiated legislation; and
-  (b) promote good administrative practices for the development of such legislation.
+[Repealed]
 
 ### 102 Interpretation in this Part
-In this Part, unless the context otherwise requires,—
-  - **legislative guidelines or standards** means guidelines or standards relating to the process or content of legislation that are identified in a notice under section 107(2)﻿(a)﻿(ii)
-  - **legislative quality procedures** means processes, practices, or procedures that have the purpose or effect of promoting, or facilitating the preparation of, quality legislation
-  - **relevant policy agency** means,—
-    (a) in relation to any Government Bill, Government amendment, or secondary legislation made by the Governor-General or a Minister, whichever of the following that is primarily involved in developing the legislation (excluding the PCO, unless the PCO is also the administering agency):
-      (i) a department (within the meaning of section 2(1) of the Public Finance Act 1989):
-      (ii) a parliamentary agency (within the meaning of section 5 of the Parliament Act 2025):
-      (iii) the Reserve Bank of New Zealand:
-      (iv) a Crown entity that is a statutory entity (as those terms are defined in section 7(1) of the Crown Entities Act 2004); and
-    (b) in relation to any other secondary legislation, the maker
-  - **responsible Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of this Part.
+[Repealed]
 
 ### 103 Chief executives must prepare and publish disclosure statements for Government-initiated legislation
-(1) The chief executive of the relevant policy agency must ensure that—
-  (a) a disclosure statement is prepared for each of the following:
-    (i) a Government Bill:
-    (ii) a Government amendment:
-    (iii) secondary legislation of a class that is specified under section 107(3)﻿(a); and
-  (b) each disclosure statement complies with—
-    (i) section 104; and
-    (ii) each notice issued under section 107; and
-    (iii) each direction given under section 110; and
-  (c) each disclosure statement is electronically published, in accordance with a notice issued under section 107,—
-    (i) as soon as practicable after the introduction of the Government Bill or release of the Government amendment; or
-    (ii) in the case of secondary legislation, as soon as practicable after it is published under this Act (or otherwise first made available as required by law).
-(2) If there is more than 1 relevant policy agency, subsection (1) applies to each chief executive for the part of the legislation or proposed legislation for which the agency is the relevant policy agency (but, in this case, a direction under section 110 may require the statements to be combined).
+[Repealed]
 
 ### 104 What must be contained, or linked to, in disclosure statements
-(1) A disclosure statement for a Government Bill, Government amendment, or secondary legislation must contain (or link to) the following:
-  (a) information about—
-    (i) the policy background of the Bill, amendment, or secondary legislation; and
-    (ii) the main legislative quality procedures that have been carried out by or on behalf of the relevant policy agency in relation to the Bill, amendment, or secondary legislation; and
-    (iii) any provisions of the Bill, amendment, or secondary legislation that, in the chief executive’s opinion, are unusual or involve matters that call for particular attention; and
-  (b) the information about departures from the legislative guidelines or standards that is required by each notice under section 107.
-(2) However, the disclosure statement does not need to include the chief executive’s (or the policy agency’s) reasons or justifications for the decisions taken by the Government on the Government Bill, Government amendment, or secondary legislation.
+[Repealed]
 
 ### 105 Disclosure statement requirements do not apply to certain Bills and amendments
-(1) Section 103 does not apply to any of the following Bills:
-  (a) Imprest Supply Bills or Appropriation Bills:
-  (b) Bills that are Statutes Amendment Bills under the rules and practice of the House of Representatives:
-  (c) Bills that primarily relate to the repeal or revocation of legislation identified as spent:
-  (d) revision Bills prepared under subpart 3 of Part 3 or Bills prepared for the purposes of confirmation under subpart 3 of Part 5.
-(2) Section 103 does not apply to a Government amendment if—
-  (a) the Bill to which it relates is of a kind referred to in subsection (1); or
-  (b) it is not reasonably practicable to comply with that section before the parliamentary scrutiny of the Government amendment occurs; or
-  (c) in the chief executive’s opinion, the Government amendment would not materially change the Bill.
-(3) In relation to subsection (2)﻿(c),—
-  (a) the amendment would materially change the Bill if the information required to be contained (or linked to) in a disclosure statement on the Bill would be materially different as a result of the amendment; and
-  (b) the chief executive must ensure that a statement of the chief executive’s opinion is, as soon as practicable after the release of the Government amendment,—
-    (i) provided to the Minister; and
-    (ii) electronically published (in accordance with each notice under section 107).
+[Repealed]
 
 ### 106 Chief executives must act independently and include statement of responsibility
-(1) The chief executive of the relevant policy agency is responsible for acting independently (and is not responsible to a Minister) when performing the duties under section 103 and when acting under section 105(2)﻿(c) and (3).
-(2) Subsection (1) applies despite section 52 of the Public Service Act 2020 or any other legislation to the contrary.
-(3) The chief executive must ensure that the disclosure statement includes a statement of responsibility in the form required by the notice under section 107.
+[Repealed]
 
 ### 107 Government notice must be issued to support consistent approach across agencies
-(1) The responsible Minister and the Attorney-General must, in order to support a consistent approach to disclosure under this Part,—
-  (a) jointly issue 1 or more notices under this section; and
-  (b) take all reasonable steps to ensure that at least 1 notice is in force, and remains in force, on and after the date that is 12 months after the date on which this Part comes into force.
-(2) The notice or notices must—
-  (a) provide for the information that must be contained (or linked to) in disclosure statements under section 104, including—
-    (i) specifying the information about departures from the legislative guidelines or standards that must be contained (or linked) in disclosure statements; and
-    (ii) identifying legislative guidelines or standards (in whole or in part) for that purpose; and
-  (b) state how disclosure statements must be electronically published; and
-  (c) provide for any other matters required, under this subpart, to be done in accordance with the notice.
-(3) A notice may also—
-  (a) specify 1 or more classes of secondary legislation to which section 103 applies:
-  (b) in addition to the information referred to in subsection (2)﻿(a), require a disclosure statement to contain, or have a link to, other information about specified matters (for example, information about the drafting of the legislation or about plans for the implementation, monitoring, or review of the legislation).
-(4) A notice under this section is secondary legislation (see Part 3 for publication requirements).
+[Repealed]
 
 ### 108 Government notice may be issued only with approval of House of Representatives
-A notice may be issued under section 107 only after it has been approved by a resolution of the House of Representatives.
+[Repealed]
 
 ### 109 Factors to be considered in determining classes of legislation requiring disclosure statements
-The responsible Minister and the Attorney-General must, in considering whether a class of secondary legislation should be specified under section 107(3)﻿(a), have regard to the costs and benefits of requiring disclosure under this Part and, in particular, the extent to which disclosure would—
-  (a) better inform parliamentary and public scrutiny of legislation in that class; and
-  (b) promote good administrative practices for the development of legislation in that class.
+[Repealed]
 
 ### 110 Ministerial direction may be given to support consistent approach across agencies
-(1) The responsible Minister may give 1 or more directions that set requirements for disclosure statements to—
-  (a) contain, or link to, additional or more specific information in connection with the matters specified in section 104(1) (in addition to that required by a notice under section 107):
-  (b) contain, or link to, other information about specified matters (in addition to any disclosures required under a notice under section 107(3)﻿(b)):
-  (c) be in a specified layout or format (which may include requiring a statement, or joint agency statements, to be in a single document or a series of related documents or to be included as part of 1 or more other documents).
-(2) The responsible Minister must ensure that, as soon as practicable after a direction is given, the direction is—
-  (a) published on an Internet site maintained by, or on behalf of, the New Zealand Government; and
-  (b) presented to the House of Representatives.
-(3) A direction—
-  (a) may apply to the chief executives of 1 or more relevant policy agencies; and
-  (b) may be given only if—
-    (i) a notice under section 107 is in force; and
-    (ii) the direction is not inconsistent with any notice under section 107 or with this Act.
+[Repealed]
 
 ### 111 Disclosure relates only to information available to public under Official Information Act 1982
-Nothing in this Part requires the disclosure of information if a request for that information could be refused under section 18 of the Official Information Act 1982 (other than for the reason set out in section 18(d) of that Act).
+[Repealed]
 
 ### 112 Validity of legislation not affected by failure to comply with this Part
-Failure to comply with this Part does not affect—
-  (a) any power to make any legislation; or
-  (b) the validity of any legislation.
+[Repealed]
 
 ## Part 5 — Parliament’s oversight of secondary legislation
 
@@ -1252,12 +1175,7 @@ Sections 143 and 144 of this Act do not apply to any secondment arranged under s
 **Review of revision programme provisions**
 
 ### 148 Review of revision programme provisions after 30 June 2020
-(1) The Attorney-General must, as soon as practicable after 30 June 2020, require the Chief Parliamentary Counsel to prepare a report on—
-  (a) the need for, and operation and effectiveness of, sections 59 to 62 and subpart 3 of Part 3 (and the corresponding provisions under the Legislation Act 2012); and
-  (b) whether any amendments to any of those provisions are necessary or desirable.
-(2) The Attorney-General must ensure that the persons and organisations that the Attorney-General thinks appropriate are consulted during the preparation of the report about the matters to be considered in the report.
-(3) The Attorney-General must present a copy of the report to the House of Representatives as soon as practicable after the Attorney-General receives the report.
-(4) This section is repealed on 1 July 2021.
+[Repealed]
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
@@ -1269,7 +1187,7 @@ This Part contains transitional and savings provisions as follows:
   (b) subpart 1 relates to the interpretation principles and rules in Part 2 of this Act:
   (c) subpart 2 relates to new and existing secondary legislation and when it and its minimum legislative information must be published under Part 3 of this Act:
   (d) subpart 3 relates to general drafting and publication matters in Part 3 of this Act:
-  (e) subpart 4 relates to disclosure statement matters in Part 4 of this Act:
+  (e)
   (f) subpart 5 relates to Parliament’s oversight of secondary legislation under Part 5 of this Act:
   (g) subpart 6 relates to the PCO under Part 6 of this Act.
 
@@ -1449,7 +1367,7 @@ The following sections do not apply to minimum legislative information lodged, o
   (a) consulting the committee of the House of Representatives that is responsible for the review of secondary legislation; and
   (b) having regard to the purpose of this clause.
 (4) Regulations made under this clause are secondary legislation (see Part 3 for publication requirements).
-(5) This clause is repealed on the publication commencement date.
+(5) This clause is repealed on the fifth anniversary of the publication commencement date.
 
 ### 20 Transitional application of publication responsibilities
 (1) Section 69, and other publication or notification responsibilities for the PCO under Part 3 (as in force on the main commencement date), do not apply to—
@@ -1508,6 +1426,9 @@ The first annual report required under section 83A must—
   (a) be provided to the Attorney-General as soon as practicable after the end of the financial year ending on 30 June 2022; and
   (b) cover the period from the main commencement date to 30 June 2022.
 
+### 27B Publication statement taken not to have been required
+Copies or reprints of legislation published under the Legislation Act 2012 must be taken never to have been required to include a statement that they are published under the authority of the New Zealand Government (despite section 6(6) of that Act).
+
 **Correcting errors and making other editorial changes**
 
 ### 28 How power to make editorial changes applies to legislation published under old publication requirements
@@ -1522,13 +1443,10 @@ Subpart 2 of Part 3 of this Act applies to legislation whether published by the 
 #### Subpart 4 — Disclosure requirements for Government-initiated legislation
 
 ### 30 Disclosure requirements apply only to Bills introduced after Part 4 commencement date
-Part 4 of this Act does not apply to—
-  (a) a Government Bill introduced before the date on which Part 4 comes into force:
-  (b) a Government amendment for a Bill referred to in paragraph (a) (regardless of whether the Government amendment is released before or after the date on which Part 4 comes into force).
+[Repealed]
 
 ### 31 Ministers may perform duties before Part 4 commencement date
-(1) The responsible Minister or the Attorney-General may perform a duty under section 107 or 110 before the date on which Part 4 comes into force.
-(2) This clause does not limit section 43.
+[Repealed]
 
 #### Subpart 5 — Parliament’s oversight of secondary legislation
 
