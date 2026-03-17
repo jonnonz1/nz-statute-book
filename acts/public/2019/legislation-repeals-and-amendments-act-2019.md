@@ -1,5 +1,5 @@
 # Legislation (Repeals and Amendments) Act 2019
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2026-03-17_
 
 ### 1 Title
 This Act is the Legislation (Repeals and Amendments) Act 2019.
@@ -21,7 +21,7 @@ The Legislation Act 2012 is amended as set out in Part 1 of Schedule 1.
 The Acts set out in Part 2 of Schedule 1 are amended as set out in that schedule.
 
 ### 5 Publication statement taken not to have been required
-Copies or reprints of legislation published under the Legislation Act 2012 must be taken never to have been required to include a statement that they are published under the authority of the New Zealand Government (despite section 6(6) of that Act).
+[Repealed]
 
 ## Part 2 — Repeals, revocations, and related amendments
 
@@ -130,7 +130,7 @@ In Part 4, after subpart 5, insert:Evidence of parliamentary journalsCopies of p
 ## Part 3 — Amendments to Legislation Act 2019 for centralised publication requirements
 
 ### 17 Amendments to Legislation Act 2019
-Amend the Legislation Act 2019 as set out in Schedule 2.
+[Repealed]
 
 ## Schedule 1 — Interim amendments affecting operation of Legislation Act 2012
 
@@ -169,87 +169,3 @@ Orders in Council amending or modifying the Tariff made under section 9 or 10—
   (c) are not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
 
 ## Schedule 2 — Amendments to Legislation Act 2019 for centralised publication requirements
-
-### 69 PCO must publish all legislation
-(1) The PCO must publish—
-  (a) all introduced Bills (and those amendments to Bills that the Attorney-General directs); and
-  (b) all Acts; and
-  (c) all secondary legislation; and
-  (d) minimum legislative information for all secondary legislation.
-(2) However, if exemptions of the following type apply (whether under section 77, Schedule 3, or other legislation), the following sections and obligations do not apply: If there is the following type of exemption......the following do not applya publication exemption for the secondary legislation (or part of it)subsection (1)﻿(c) (and any obligations under this Part for the PCO to publish, or the maker to lodge with the PCO for publication, the legislation or part, but see section 76)a list exemption for the secondary legislationsubsection (1)﻿(d) (and any obligations under this Part for the PCO to publish, or the maker to lodge with the PCO for publication, the minimum legislative information)
-
-### 70 PCO must publish consolidations of legislation that is amended
-(1) The PCO must publish consolidations of—
-  (a) all Acts that are amended; and
-  (b) all secondary legislation drafted by the PCO that is amended; and
-  (c) all other secondary legislation specified by regulations made under this Act.
-(2) A consolidation must incorporate the amendments made to the legislation so that it shows the law as at its stated date.
-(3) The consolidation may also show the law as it would be amended by amendments that have not yet commenced if it clearly indicates that those amendments have not yet commenced.
-
-### 71 How and when PCO must publish legislation and consolidations of legislation
-(1) The PCO must electronically publish the following things at the following times:The following table is small in size and has 2 columns. Column 1 is headed What is required to be published. Column 2 is headed When it must be published.What is required to be publishedWhen it must be publishedBillsAs soon as practicable after they are introduced Amendments to BillsAs soon as practicable after the amendments are releasedActsAs soon as practicable after they are enactedSecondary legislation drafted by the PCOAs soon as practicable after the legislation is madeMinimum legislative information for secondary legislation drafted by the PCOAs soon as practicable after the legislation is madeSecondary legislation not drafted by the PCOAs soon as practicable after the legislation is lodged with the PCO for publicationMinimum legislative information for secondary legislation not drafted by the PCOAs soon as practicable after the information is lodged with the PCO for publicationConsolidations of ActsAs soon as practicable after the Acts are amendedConsolidations of secondary legislation that is drafted by the PCOAs soon as practicable after the legislation is amendedConsolidations of secondary legislation not drafted by the PCOAs prescribed by regulations under this Act
-(2) The PCO may also publish those things in printed form and make them available in the way notified to the public.
-(3) Legislation or proposed legislation is sufficiently published for the purposes of this Act (for any period during which it is not practicable to publish it electronically) if it is only published and made available in the way set out in subsection (2).
-(4) Minimum legislative information is sufficiently published for the purposes of this Act if—
-  (a) either the secondary legislation containing that information is published, or the information is published separately, by the PCO; and
-  (b) the information published (whether as part of the secondary legislation or separately) is that required at the time it must be published under this section.
-
-### 72 When and how published versions of legislation must be available on legislation website
-(1) The PCO must ensure that, as far as practicable, the following are at all times able to be accessed at, or downloaded from, the legislation website free of charge:
-  (a) legislation published by the PCO under this Act (including official electronic versions of legislation published under section 78):
-  (b) minimum legislative information published by the PCO under this Act.
-(2) The PCO must ensure that it meets any minimum requirements set by the regulations made under this Act for how that must be done.
-
-### 73 Secondary legislation does not commence until published
-(1) Secondary legislation or a part of secondary legislation does not come into force on its commencement date unless the relevant publication requirement is met.
-(2) To the extent that subsection (1) results in secondary legislation, or a part of secondary legislation, not coming into force on its commencement date, the legislation or part comes into force on the day after the relevant publication requirement is met.
-(3) This section overrides sections 26 to 29.
-(4) However, this section does not apply if—
-  (a) the empowering legislation or any other enactment expressly authorises the legislation or part to commence—
-    (i) even if it is not yet published; or
-    (ii) on or after a particular date or event; or
-  (b) a list exemption applies; or
-  (c) an exemption from this section applies under regulations made under this Act.
-(5) In this section,—
-  - **commencement date** means the date or time when the secondary legislation or part would otherwise commence (including as a result of sections 26 to 29)
-  - **relevant publication requirement** , in relation to any secondary legislation or part, means—
-    (a) the secondary legislation is published under this Act; or
-    (b) (if a publication exemption applies to the whole or any part of the legislation) the minimum legislative information for the secondary legislation is published under this Act.
-(6) This section does not affect—
-  (a) whether the legislation is authorised or validly made:
-  (b) the commencement of the secondary legislation’s Title and commencement provisions, and any provisions identifying the principal legislation amended, under section 26(3):
-  (c) the commencement of anything due to any defect, irregularity, omission, or error in the secondary legislation or minimum legislative information if the legislation or information sufficiently identifies the secondary legislation.
-
-**Other provisions applying to secondary legislation not drafted by PCO**
-
-### 74 Maker must lodge secondary legislation and minimum legislative information for publication (if not drafted by PCO)
-(1) This section applies to—
-  (a) secondary legislation that is not drafted by the PCO; and
-  (b) that legislation’s minimum legislative information.
-(2) The maker of the legislation must, as soon as practicable after it is made, lodge the legislation and information with the PCO for publication.
-
-### 75 Lodgement must be done as required by regulations
-(1) Anything required to be lodged with the PCO for publication must be lodged in accordance with regulations made under this Act.
-(2) If it is not, it is not properly lodged and the PCO is not required to publish it (despite section 69).
-(3) If required by regulations made under this Act, updates or corrections of information lodged with the PCO (or in connection with lodgement) must also be lodged in accordance with those regulations.
-(4) The PCO is not liable for any error or omission in or arising from information lodged with it for publication (or in connection with lodgement) and may act in reliance on that information.
-
-### 76 Alternative obligations if publication exemption applies (but not if list exemption or presentation exemption applies)
-(1) If a publication exemption applies to secondary legislation or a part of secondary legislation, the maker must (instead of lodging the legislation or part with the PCO for publication)—
-  (a) make the legislation or part available in a way that meets the minimum requirements set by regulations made under this Act (if any) and any requirements set by the empowering legislation; and
-  (b) include, in the minimum legislative information lodged with the PCO for publication, the details as to its availability required by the regulations made under this Act (if any).
-(2) However, this section does not apply if a list exemption or a presentation exemption applies.
-
-### 77 Publication exemption if good reason to allow alternative means of publication
-(1) The Chief Parliamentary Counsel may grant a publication exemption for secondary legislation or a part of secondary legislation if the Chief Parliamentary Counsel determines that there is good reason to allow the legislation or part to be made publicly available by an alternative means.
-(2) Before granting an exemption under this section, the Chief Parliamentary Counsel must—
-  (a) have regard to—
-    (i) the purpose of this Act; and
-    (ii) how the legislation is proposed to be made publicly available; and
-  (b) be satisfied that the extent of the exemption is not broader than is reasonably necessary to address the matters that gave rise to the exemption.
-(3) An exemption—
-  (a) is granted by written notice given to the maker of the legislation and copied to the administering agency (if different); and
-  (b) is subject to section 76; and
-  (c) may be made subject to other terms and conditions.
-(4) The Chief Parliamentary Counsel’s reasons for granting the exemption, including why it is appropriate, must be published with the exemption.
-(5) An exemption under this section is secondary legislation (see this Part for publication requirements).
