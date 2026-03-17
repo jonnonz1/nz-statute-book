@@ -1,5 +1,5 @@
 # Secondary Legislation Act 2021
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2026-03-17_
 
 ### 1 Title
 This Act is the Secondary Legislation Act 2021.
@@ -33,8 +33,7 @@ This Act is the Secondary Legislation Act 2021.
 (4) Replace Schedule 3 with the Schedule 3 set out in Schedule 35 of this Act (which contains the replacement schedule for the main commencement date).
 
 ### 5 Deferred amendments to Legislation Act 2019 (for publication commencement date)
-(1) This section amends the Legislation Act 2019.
-(2) Replace Schedule 3 with the Schedule 3 set out in Schedule 36 of this Act (which contains the replacement schedule for the publication commencement date).
+[Repealed]
 
 ### 6 Amendments to Legislation (Repeals and Amendments) Act 2019
 (1) This section amends the Legislation (Repeals and Amendments) Act 2019.
@@ -6107,107 +6106,3 @@ Subpart 2 of Part 5 of this Act (which provides for disallowance of secondary le
 | Rules regulating the granting, use, and retention of the titles The Right Honourable and The Honourable in New Zealand. |  | See s 115(b) |
 
 ## Schedule 36 — Schedule 3 of Legislation Act 2019 replaced on publication commencement date
-
-### Schedule 3 — Exemptions from publication, listing, presentation, or disallowance under this Act
-
-| Empowering provision | Exemption grounds | Publication exemption (s 69(2)) | List exemption (s 69(2)) | Presentation exemption (s 114(2)﻿(a)) | Disallowance exemption (s 115(d)) |
-| --- | --- | --- | --- | --- | --- |
-| Animal Products Act 1999 |  |  |  |  |  |
-| Section 167(1) (for the purposes of section 38(2)﻿(b) or 60) | Exemption groundThe Director-General considers that compliance would result in 1 or more of the following: adisclosure of commercially sensitive information:bdisclosure of a trade secret:cprejudice to New Zealand’s position in current or future negotiations for overseas market access:dprejudice to the international relations of New Zealand. | Exemption applies if exemption ground is met |  | Exemption applies if exemption ground is met | Exemption applies |
-| Armed Forces Discipline Act 1971 |  |  |  |  |  |
-| Section 206 | Exemption groundThe Chief of Defence Force is satisfied that compliance would be likely to—aprejudice the security or defence of New Zealand; orbprejudice the international relations of the Government of New Zealand. | Exemption applies to the secondary legislation or part of it if exemption ground is met for the legislation or part | Exemption applies if exemption ground is met | Exemption applies to the secondary legislation or part of it if exemption ground is met for the legislation or part |  |
-| Biosecurity Act 1993 |  |  |  |  |  |
-| Section 131(2) or (3) | Exemption groundThe chief technical officer or management agency considers that compliance would result in—adisclosure of commercially sensitive information; orbprejudice to New Zealand’s overseas market access. | Exemption applies if exemption ground is met |  | Exemption applies if exemption ground is met |  |
-| Child Poverty Reduction Act 2018 |  |  |  |  |  |
-| Section 6 (in combination with section 34) |  |  |  | Exemption applies | Exemption applies |
-| Civil Aviation Act 1990 |  |  |  |  |  |
-| Section 28 | Exemption groundCompliance is inappropriate for reasons of security. | Exemption applies if exemption ground is met | Exemption applies if exemption ground is met | Exemption applies if exemption ground is met |  |
-| Section 31 | Exemption groundCompliance is inappropriate for reasons of security. | Exemption applies if exemption ground is met | Exemption applies if exemption ground is met | Exemption applies if exemption ground is met |  |
-| Section 34A | Exemption groundCompliance is inappropriate for reasons of security. | Exemption applies if exemption ground is met | Exemption applies if exemption ground is met | Exemption applies if exemption ground is met |  |
-| Section 77A | Exemption groundCompliance would prejudice the national security interests of New Zealand. | Exemption applies if exemption ground is met | Exemption applies if exemption ground is met | Exemption applies if exemption ground is met |  |
-| Section 77B | Exemption groundCompliance would prejudice the national security interests of New Zealand. | Exemption applies if exemption ground is met | Exemption applies if exemption ground is met | Exemption applies if exemption ground is met |  |
-| Section 107(1) |  |  |  |  | Exemption applies |
-| Civil Defence Emergency Management Act 2002 |  |  |  |  |  |
-| Section 39 |  |  |  |  | Exemption applies |
-| Commerce Act 1986 |  |  |  |  |  |
-| Section 52P |  |  |  |  | Exemption applies |
-| Section 52W |  |  |  |  | Exemption applies |
-| Section 53ZG |  |  |  |  | Exemption applies |
-| COVID-19 Public Health Response Act 2020 |  |  |  |  |  |
-| Section 3 |  |  |  | Exemption applies | See s 115(a) |
-| Section 16 |  |  |  | Exemption applies | See s 115(a) |
-| Defence Act 1990 |  |  |  |  |  |
-| Section 27 | Exemption groundThe Chief of Defence Force is satisfied that compliance would be likely to—aprejudice the security or defence of New Zealand; orbprejudice the international relations of the Government of New Zealand. | Exemption applies to secondary legislation or part of it if exemption ground is met for that legislation or part | Exemption applies if exemption ground is met | Exemption applies to secondary legislation or part of it if exemption ground is met for that legislation or part |  |
-| District Court Act 2016 |  |  |  |  |  |
-| Section 60(1)﻿(b), (2) |  |  |  |  | Exemption applies |
-| Dog Control Act 1996 |  |  |  |  |  |
-| Section 78A(1) |  |  |  |  | Exemption applies |
-| Electronic Identity Verification Act 2012 |  |  |  |  |  |
-| Section 47 | Exemption groundThe chief executive considers that there should not be compliance—afor reasons that justify withholding of information in the Official Information Act 1982; orbto protect the security or integrity of the Service. | Exemption applies to part of secondary legislation if exemption ground is met for that part |  | Exemption applies to part of secondary legislation if exemption ground is met for that part |  |
-| Epidemic Preparedness Act 2006 |  |  |  |  |  |
-| Section 18 |  |  |  | Exemption applies | See s 115(a) |
-| Financial Markets Conduct Act 2013 |  |  |  |  |  |
-| Section 556 | Exemption groundWhile the FMA is satisfied on reasonable grounds that it is proper to defer compliance on the ground of commercial confidentiality. | Exemption applies while exemption ground is met | Exemption applies while exemption ground is met | Exemption applies while exemption ground is met |  |
-| Fisheries Act 1996 |  |  |  |  |  |
-| Regulations made under section 186 | Exemption groundThe secondary legislation is bylaws made under the regulations for the purposes of section 49 of Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019. |  |  | Exemption applies if exemption ground is met | Exemption applies if exemption ground is met |
-| Governor-General Act 2010 |  |  |  |  |  |
-| Section 5 |  |  |  |  | Exemption applies |
-| Section 6 |  |  |  |  | Exemption applies |
-| Section 8 |  |  |  |  | Exemption applies |
-| Health and Safety at Work Act 2015 |  |  |  |  |  |
-| Section 7(5) |  |  |  | Exemption applies | Exemption applies |
-| Section 8(2) |  | Exemption applies | Exemption applies | Exemption applies | Exemption applies |
-| Members of Parliament (Remuneration and Services) Act 2013 |  |  |  |  |  |
-| Section 8(1) |  |  |  | Exemption applies | Exemption applies |
-| Section 17(1) |  |  |  | Exemption applies | Exemption applies |
-| Section 23(1) |  |  |  | Exemption applies | Exemption applies |
-| Section 27 |  |  |  | Exemption applies | Exemption applies |
-| Section 32(4), (6) |  |  |  | Exemption applies | Exemption applies |
-| Section 43 |  |  |  | Exemption applies | Exemption applies |
-| Section 44 |  |  |  | Exemption applies | Exemption applies |
-| Misuse of Drugs Act 1975 |  |  |  |  |  |
-| Section 4(1), (1B) |  |  |  |  | Exemption applies |
-| Ombudsmen Act 1975 |  |  |  |  |  |
-| Section 15 |  |  |  | Exemption applies | See s 115(a) |
-| Parliamentary Service Act 2000 |  |  |  |  |  |
-| Section 25 |  |  |  | Exemption applies | See s 115(a) |
-| Remuneration Authority Act 1977 |  |  |  |  |  |
-| Section 12B(1), (2) |  |  |  | Exemption applies | Exemption applies |
-| Takeovers Act 1993 |  |  |  |  |  |
-| Section 45(1)﻿(a), (b) | Exemption groundWhile the Takeovers Panel is satisfied on reasonable grounds that it is proper to defer compliance for reasons of commercial confidentiality. | Exemption applies while exemption ground is met | Exemption applies while exemption ground is met | Exemption applies while exemption ground is met |  |
-| Tariff Act 1988 |  |  |  |  |  |
-| Section 12 |  |  |  | Exemption applies | See s 115(a) |
-| Telecommunications Act 2001 |  |  |  |  |  |
-| Section 27 |  |  |  |  | Exemption applies |
-| Section 30M |  |  |  |  | Exemption applies |
-| Section 30R |  |  |  |  | Exemption applies |
-| Section 39 |  |  |  |  | Exemption applies |
-| Section 51 |  |  |  |  | Exemption applies |
-| Section 58 |  |  |  |  | Exemption applies |
-| Section 59 |  |  |  |  | Exemption applies |
-| Section 87 |  |  |  |  | Exemption applies |
-| Section 94J |  |  |  |  | Exemption applies |
-| Section 170(1) |  |  |  |  | Exemption applies |
-| Section 180 |  |  |  |  | Exemption applies |
-| Section 222 |  |  |  |  | Exemption applies |
-| Section 236 |  |  |  |  | Exemption applies |
-| Section 238 |  |  |  |  | Exemption applies |
-| Schedule 2, clause 10 |  |  |  |  | Exemption applies |
-| Schedule 2, clause 17 |  |  |  |  | Exemption applies |
-| Schedule 2A, clause 3 |  |  |  |  | Exemption applies |
-| Telecommunications (Interception Capability and Security) Act 2013 |  |  |  |  |  |
-| Section 29 |  | Exemption applies | Exemption applies | Exemption applies | Exemption applies |
-| Section 34 |  | Exemption applies | Exemption applies | Exemption applies | Exemption applies |
-| Section 49 |  |  |  | Exemption applies | Exemption applies |
-| Wine Act 2003 |  |  |  |  |  |
-| Section 120(1) (for the purposes of section 41(2)) | Exemption groundThe Director-General is satisfied that compliance would result in 1 or more of the following: adisclosure of commercially sensitive information:bdisclosure of a trade secret:cprejudice to New Zealand’s position in current or future negotiations for overseas market access:dprejudice the international relations of New Zealand. | Exemption applies if exemption ground is met |  | Exemption applies if exemption ground is met | Exemption applies |
-
-| Empowering provision | Publication exemption (s 69(2)) | List exemption (s 69(2)) | Presentation exemption (s 114(2)﻿(a)) | Disallowance exemption (s 115) |
-| --- | --- | --- | --- | --- |
-| Royal prerogative |  |  |  |  |
-| Letters Patent Constituting the Office of Governor-General of New Zealand (and other matters included under Schedule 1A). |  |  | Exemption applies | See s 115(b) |
-| Rules regulating the use of images of the Royal family for commercial purposes. |  |  | Exemption applies | See s 115(b) |
-| Royal Warrants establishing Royal Honours and regulating the granting, use, and retention of those Honours (including by delegating any matter to regulations or rules). |  |  | Exemption applies | See s 115(b) |
-| Regulations or rules regulating eligibility and other matters delegated by Royal Warrant in relation to Royal Honours. |  |  | Exemption applies | See s 115(b) |
-| Rules regulating the acceptance and wearing of Commonwealth, foreign, and international Honours by New Zealand citizens. |  |  | Exemption applies | See s 115(b) |
-| Rules regulating the granting, use, and retention of the titles The Right Honourable and The Honourable in New Zealand. |  |  | Exemption applies | See s 115(b) |
