@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2025-12-18_
+_Consolidation as at 2026-03-30_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3119,7 +3119,7 @@ For the purposes of sections 32E(2)﻿(f), (i), and (j) and 32I, when the person
 (1B) A limited partnership that borrows or lends money, ignoring section HG 2 of the Income Tax Act 2007, is also a person who is eligible to elect to pay approved issuer levy in relation to a security for the purposes of—
   (a) the NRWT rules:
   (b) an exemption under a double tax agreement.
-(2) For the purposes of subsection (1), the person elects to pay approved issuer levy in relation to a security by—
+(2) For the purposes of subsections (1) and (1B), the person elects to pay approved issuer levy in relation to a security by—
   (a) either being an approved issuer or becoming an approved issuer under subsection (2B); and
   (b) applying under section 86G of the Stamp and Cheque Duties Act 1971 to register the security; and
   (c) paying the amount of the levy for the security under section 86I of that Act.
@@ -3389,7 +3389,10 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
 (10) When the Commissioner has considered an application, the Commissioner must notify the person of the amount of the tax credit under sections LD 1 to LD 3 of that Act and of the amount of refund allowed.
 (11) A tax credit may not be refunded to an absentee, a company, a public authority, a Maori authority, an unincorporated body, or a trustee liable for income tax under sections HC 16, HC 32, or HZ 2 of that Act.
 (12) A refund under subsection (1) must be paid as if it were tax paid in excess.
-(13) A refund under subsection (1), to the extent to which it is more than the correct amount of refund, is recoverable as an excess tax credit under section 142D.
+(13) A refund under subsection (1) is recoverable as an excess tax credit under section 142D to the extent to which—
+  (a) it is more than the correct amount of refund; or
+  (b) the charitable or other public benefit gift to which the refund relates has subsequently been returned to the person who made the gift or an associated person.
+(13B) Despite subsection (6B), the time bar in section 108 does not apply to a refund to which subsection (13)﻿(b) applies.
 (14) The Commissioner must publish, from time to time, in a publication chosen by the Commissioner, a list of the names of entities that—
   (a) have provided the information required under subsection (16):
   (b) the Commissioner considers appropriate to include on the list (for example, an entity registered under the Charities Act 2005).
@@ -6860,6 +6863,14 @@ The definition of date interest starts is to be construed as if the words the la
 ### 120PA Applying tax credit for supplementary dividend to earlier income year
 If a taxpayer sets off a tax credit for a supplementary dividend against its income tax liability for an earlier income year under section LP 3(3) of the Income Tax Act 2007, the amount set off does not reduce the taxpayer's tax payable for that year for the purpose of this Part.
 
+### 120PB Suspended recognition of income on deemed disposal of RAM interest
+(1) This section applies if—
+  (a) a person has an amount of FIF income or loss under section EX 56B(3) of the Income Tax Act 2007 for an income year (the departure year) that arises because—
+    (i) the person is treated as having disposed of an attributing interest in a FIF under section EX 56B(12) of that Act; and
+    (ii) the person actually disposes of the interest within the period set out in section EX 56B(14) of that Act; and
+  (b) the disposal referred to in paragraph (a)﻿(ii) takes place in an income year (the disposal year) that is later than the departure year.
+(2) To the extent the actual disposal of the attributing interest alters the person’s liability to tax for the departure year (the extent of that altered liability being called the affected tax), no interest is payable to the Commissioner under this Part on the affected tax to the extent to which it is unpaid tax before the person’s terminal tax date for the disposal year.
+
 ### 120Q Due date for underestimation penalty tax
 For the purposes of this Part, the due date for the payment by a taxpayer of underestimation penalty tax is deemed to be the date of instalment F set out in Schedule 3, Part A of the Income Tax Act 2007, for the taxpayer's corresponding income year.
 
@@ -7781,6 +7792,14 @@ The purposes of this Part are—
 (4) If an instalment arrangement is entered into, an incremental late payment penalty is not to be added if, for a month during which the tax to pay remains unpaid, the taxpayer complies with all of their obligations under the arrangement.
 (5) If an instalment arrangement is cancelled on the basis of false or misleading information provided by the taxpayer, the Commissioner must impose those late payment penalties not imposed as if the instalment arrangement had not been entered into.
 (6) If financial relief is not given, the Commissioner must impose those late payment penalties not imposed as if the request for financial relief had not been made.
+
+### 139BB Imposition of late payment penalty when suspended recognition of income for RAM interest
+(1) This section applies if—
+  (a) a person has an amount of FIF income or loss under section EX 56B(3) of the Income Tax Act 2007 for an income year (the departure year) that arises because—
+    (i) the person is treated as having disposed of an attributing interest in a FIF under section EX 56B(12) of that Act; and
+    (ii) the person actually disposes of the interest within the period set out in section EX 56B(14) of that Act; and
+  (b) the disposal referred to in paragraph (a)﻿(ii) takes place in an income year (the disposal year) that is later than the departure year.
+(2) For the purposes of section 139B, to the extent the actual disposal of the attributing interest alters the person’s liability to tax for the departure year (the extent of that altered liability being called the affected tax), the default date for the affected tax is the person’s terminal tax date for the disposal year.
 
 ### 139C Late payment penalty and provisional tax
 (1) A late payment penalty will only arise on provisional tax that is unpaid at the expiry of an instalment date, or a Commissioner-set instalment date, to the extent that the provisional tax payable exceeds the provisional tax paid. Subsection (1B) overrides this subsection and subsection (1D) modifies this subsection.
@@ -10725,6 +10744,8 @@ Section 18 does not prevent the Commissioner communicating to any Registrar, in 
     (ii) the Commissioner may give an approved credit reporting agency information in relation to the taxpayer and any amount of reportable unpaid tax under this clause; and
   (c) the Commissioner has formally notified the taxpayer under subclause (3)﻿(b) twice in the year before the notice in paragraph (b) of this subclause, but did not communicate information relating to the taxpayer under subclause (5) or (6) in the year, because the taxpayer partially paid the total relevant amount of reportable unpaid tax; and
   (d) the Commissioner has made reasonable efforts to recover an amount of reportable unpaid tax from the taxpayer before the day on which the taxpayer is formally notified under paragraph (b) of this subclause.
+(4B) When the Commissioner has communicated information under subclause (5) about a taxpayer and an amount of reportable unpaid tax to which subclause (3) or (4) applied (the original RUT) and the taxpayer subsequently has 1 or more additional amounts of reportable unpaid tax, subclause (5) also applies to those additional amounts of reportable unpaid tax.
+(4C) Subclause (4B) does not apply to an additional amount of reportable unpaid tax if the taxpayer has repaid in full the original RUT and any amounts of reportable unpaid tax to which subclause (4B) has previously been applied.
 (5) The Commissioner may communicate to an approved credit reporting agency information relating to the taxpayer and any amount of reportable unpaid tax for the purposes of—
   (a) enabling the approved credit reporting agency to include information in the taxpayer’s credit report; and
   (b) evidencing and maintaining the accuracy of the credit report in relation to the information.
@@ -10745,8 +10766,10 @@ Section 18 does not prevent the Commissioner communicating to any Registrar, in 
 (11) For the purposes of this clause, credit report means credit information about a person that is disclosed by an approved credit reporting agency.
 (12) For the purposes of this clause, reportable unpaid tax—
   (a) means, for a taxpayer, unpaid tax—
-    (i) that results from liability for or excess refunds of income tax, excluding refunds under section MF 5 or MF 6 of the Income Tax Act 2007, or is otherwise the overpayment or over-crediting of WFF tax credits; and
-    (ii) that results from liability for or refunds of GST, amounts required to be deducted under the PAYE rules, amounts required to be deducted under the Student Loan Scheme Act 2011, amounts required to be deducted under the Child Support Act 1991, ESCT, RSCT, or any tax credits under Part L of the Income Tax Act 2007 excluding tax credits under section LB 4 of that Act; and
+    (i) that results from—
+      (A) liability for or excess refunds of income tax, excluding refunds under section MF 5 or MF 6 of the Income Tax Act 2007, or is otherwise the overpayment or over-crediting of WFF tax credits; or
+      (B) liability for or refunds of GST, amounts required to be deducted under the PAYE rules, amounts required to be deducted under the Student Loan Scheme Act 2011, amounts required to be deducted under the Child Support Act 1991, ESCT, RSCT, or any tax credits under Part L of the Income Tax Act 2007 excluding tax credits under section LB 4 of that Act; and
+    (ii)
     (iii) that is not subject to a dispute or challenge under Part 4A or 8A of this Act; and
     (iv) that is not subject to an instalment arrangement requested by the taxpayer and entered into by the Commissioner; and
   (b) includes, for a taxpayer, unpaid interest under Part 7 and unpaid civil penalties, to the extent to which they relate to an amount of reportable unpaid tax described in paragraph (a).
@@ -11079,7 +11102,7 @@ Subject to clause 2, the Commissioner must write off the following amounts under
     (i) a schedular payment:
     (ii) income from employment that is an extra pay:
     (iii) income from employment that is secondary employment earnings:
-  (d) an amount derived by an individual whose annual gross income is more than $48,000 when the amount of income is—
+  (d) an amount derived by an individual whose annual gross income is more than $53,500 when the amount of income is—
     (i) a taxable Maori authority distribution:
     (ii) an amount of salary or wages from employment as an election day worker, when the individual has used the EDW code:
     (iii) an amount of salary or wages from employment as a casual agricultural employee, when the individual has used the CAE code:
@@ -11088,7 +11111,8 @@ Subject to clause 2, the Commissioner must write off the following amounts under
   (a) 0.105, if the individual’s annual gross income is $15,600 or less; or
   (b) 0.175, if the individual’s annual gross income is more than $15,600 and not more than $53,500; or
   (c) 0.300, if the individual’s annual gross income is more than $53,500 and not more than $78,100; or
-  (d) 0.330, if the individual’s annual gross income is more than $78,100.
+  (d) 0.330, if the individual’s annual gross income is more than $78,100 and not more than $180,000; or
+  (e) 0.390, if the individual’s annual gross income is more than $180,000.
 
 ### 3 Small amounts of tax payable
 Despite clause 2, the Commissioner may write off an amount of tax under section 22J if the amount is not substantial and represents an underpayment of tax that is attributable to a function or operation of the tax collection rules.
