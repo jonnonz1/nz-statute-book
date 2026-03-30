@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2026-02-01_
+_Consolidation as at 2026-03-30_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -148,7 +148,7 @@ This Act is the KiwiSaver Act 2006.
   - **register of managed investment schemes** means the register of managed investment schemes kept under Schedule 2 of the Financial Markets Conduct Act 2013
   - **restricted scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **retirement scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
-  - **salary or wages** , in relation to any person, means salary or wages as defined in section RD 5(1)﻿(a) to (c) of the Income Tax Act 2007 (whether the salary or wages are primary or secondary employment earnings) except that, in this Act,—
+  - **salary or wages** , in relation to any person, means salary or wages as defined in section RD 5(1) and (1B) of the Income Tax Act 2007 (whether the salary or wages are primary or secondary employment earnings) except that, in this Act,—
     (a) it excludes—
       (i) salary or wages described in section RD 5(4), (6)﻿(b) to (bc), (6)﻿(bh), and (8) and RD 68 of the Income Tax Act 2007; and
       (iaa) salary or wages described in section RD 5(10) of the Income Tax Act 2007 if they are an overpayment of an amount of an employer’s superannuation cash contribution that an employee chooses to have treated as salary or wages under section RD 68 of that Act; and
