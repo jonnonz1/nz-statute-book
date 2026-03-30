@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2026-03-30_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -147,6 +147,9 @@ _Consolidation as at 2025-11-13_
   - **new fine metal** means any fine metal which has been refined into fine metal by a refiner of fine metal
   - **New Zealand** means New Zealand as defined in section YA 1 of the Income Tax Act 2007
   - **non-fungible token** means a cryptoasset that contains unique distinguishing identification codes or metadata
+  - **non-integral deductions** means, for goods (the main goods), deductions for other goods or services that—
+    (a) did not make a substantial improvement to the main goods; and
+    (b) did not become an integral part of the main goods without which the main goods would be incomplete or unable to function
   - **non-profit body** means any society, association, or organisation, whether incorporated or not,—
     (a) which is carried on other than for the purposes of profit or gain to any proprietor, member, or shareholder; and
     (b) which is, by the terms of its constitution, rules, or other document constituting or governing the activities of that society, association, or organisation, prohibited from making any distribution whether by way of money, property, or otherwise howsoever, to any such proprietor, member, or shareholder
@@ -582,7 +585,7 @@ _Consolidation as at 2025-11-13_
   (d) the supply described in section 91(4).
 (16) Subsection (16C) applies where a person—
   (a) has either—
-    (i) claimed a deduction under section 20(3) for goods or services; or
+    (i) claimed a deduction under section 20(3) for the goods or services, excluding non-integral deductions; or
     (ii) acquired goods or services that were zero-rated under section 11(1)﻿(mb); or
     (iii) acquired goods or services that were zero-rated under section 11(1)﻿(m); and
   (b) disposed of the goods or services or ceased to be a registered person; and
@@ -656,12 +659,15 @@ For the purpose of the definition of output tax and sections 8(1), 15A to 15E, 1
     (iii) as a Chairman or member of any local authority or any board, council, committee, or other body, subject to subsection (4); or
   (d) any activity to the extent to which the activity involves the making of exempt supplies; or
   (e) an activity involving the supply of goods, including a deemed supply under section 5(3), that a registered person has elected is not a taxable activity, provided—
-    (i) the person has not previously claimed a deduction under section 20(3) for the supply of goods before the goods are sold; and
+    (i) the person has not previously claimed a deduction under section 20(3) for the goods before the goods are sold, excluding non-integral deductions; and
     (ii) the goods were not acquired for the principal purpose of making taxable supplies; and
     (iii) the goods were not used for the principal purpose of making taxable supplies; and
     (iv) the goods were not acquired as zero-rated supplies under section 11(1)﻿(m) or (mb), unless the person has chosen to return the nominal GST component as output tax under section 20(3J)﻿(a)﻿(iv).
 (4) Despite subsection (3)﻿(b), (c)﻿(iia), and (c)﻿(iii), if a director, member, or other person referred to in those paragraphs is paid a fee or another amount in relation to their engagement, occupation, or employment in circumstances in which they are required to account for the payment to their employer, the payment is treated as consideration for a supply of services by the employer to the person who made the payment to the director, member, or other person.
 (5) For the purposes of subsection (3)﻿(b) and (c)﻿(iii), if a person in carrying on a taxable activity, accepts an office, any services supplied by that person as holder of that office are deemed to be supplied in the course or furtherance of that taxable activity.
+(6) For the purposes of subsection (3)﻿(b), a person is not engaged, occupied, or employed under a contract of service if the person is—
+  (a) a specified contractor, as defined in section 6 of the Employment Relations Act 2000; or
+  (b) not an employee under that section because their employment status is determined as other than an employee under another Act.
 
 ### 7 Act to bind Crown
 This Act shall bind the Crown.
@@ -1016,7 +1022,7 @@ This Act shall bind the Crown.
     (i) the goods are not situated in New Zealand at the time of delivery to the recipient:
     (ii) the goods are not distantly taxable goods and the recipient pays tax under section 12 on the importation of the goods into New Zealand; or
   (jb) the supply is of distantly taxable goods to which section 60(1C)﻿(a) applies, being a supply from an underlying supplier to an operator of a marketplace; or
-  (k) the goods have been supplied in the course of repairing, renovating, modifying or treating goods to which paragraph (i) or section 11A(1)﻿(h) or (i) applies and the goods supplied—
+  (k) the goods have been supplied in the course of repairing, renovating, modifying or treating goods to which paragraph (i) or section 11A(1)﻿(h), (i), or (iba) applies and the goods supplied—
     (i) are wrought into, affixed to, attached to or otherwise form part of those other goods; or
     (ii) are consumable goods that become unusable or worthless as a direct result of being used in the repair, renovation, modification or treatment process; or
   (ka) the goods are supplied for use on, or the use of, a pleasure craft, being a temporary import within the meaning of section 136 of the Customs and Excise Act 2018, that cause or enable the craft to sail, or that ensure the safety of passengers and crew on the craft; or
@@ -1127,7 +1133,7 @@ This Act shall bind the Crown.
   (jd) the services are a supply of services to which section 60(1D)﻿(a) and (b) applies, being supplies made by an underlying supplier to a listing intermediary and by a listing intermediary to an operator of an electronic marketplace, including a supply referred to in section 60CB(3)﻿(a); or
   (k) subject to subsection (2), the services are supplied to a person who is a non-resident and who is outside New Zealand at the time the services are performed, not being services which are—
     (i) supplied directly in connection with land situated in New Zealand, or with an improvement to such land, or are supplied in connection with such land or improvement and are intended to enable or assist a change in the physical condition, or ownership or other legal status, of the land or improvement; or
-    (ii) supplied directly in connection with moveable personal property, other than choses in action or goods to which paragraph (h) or (i) applies, situated in New Zealand at the time the services are performed; or
+    (ii) supplied directly in connection with moveable personal property, other than choses in action or goods to which paragraph (h), (i), or (iba) applies, situated in New Zealand at the time the services are performed; or
     (iii) the acceptance of an obligation to refrain from carrying on a taxable activity, to the extent to which the activity would have occurred within New Zealand; or
   (l) subject to subsection (2), the services are the supply of information to a person who is a non-resident and who is outside New Zealand at the time the services are performed, if the services are supplied directly in connection with moveable personal property situated in New Zealand at the time the services are performed; or
   (m) the services are supplied—
@@ -1930,7 +1936,9 @@ If a person makes a return that includes a figure for the value of supplies char
   (b) using a method that is approved by the Commissioner.
 
 ### 20F Election that sections 11A(1)﻿(q) and (r) and 20C apply
-A person may choose to apply the rules in sections 11A(1)﻿(q) and (r) and 20C in relation to certain supplies of financial services. The person makes the election by taking a tax position in a return for the taxable period.
+A person may choose to apply the rules in sections 11A(1)﻿(q) and (r) and 20C in relation to certain supplies of financial services. The person makes the election by doing either or both of the following:
+  (a) taking a tax position in a return for the taxable period:
+  (b) notifying the Commissioner before the end of the taxable period in which they first choose to apply the rules.
 
 ### 20G Treatment of supplies of certain assets
 [Repealed]
@@ -2701,11 +2709,11 @@ The obligations and liabilities under this Act of any person in respect of anyth
   (c) 2 or more persons carrying on a taxable activity in partnership control all of them,—
 
 ### 55B Supplier group and issuing member
-(1) Members of a group of 2 or more registered persons (the supplier group), each of which is not a member of the same GST group as another member of the supplier group and meets the requirements of subsection (2), may enter an agreement under which a single member (the issuing member) issues under section 19J the taxable supply information and supply correction information for each supply of goods and services made, other than under section 5(2), by a member of the supplier group (the supplying member).
+(1) Members of a group of 2 or more registered persons (the supplier group), each of which is not a member of the same GST group as another member of the supplier group and meets the requirements of subsection (2), may enter an agreement under which a single member (the issuing member) issues under section 19J the taxable supply information and supply correction information for agreed taxable supplies of goods and services made, other than under section 5(2), by a member of the supplier group (the supplying member).
 (2) The requirements of this subsection are met if—
   (a) the members of the supplier group agree that—
-    (i) the issuing member must issue taxable supply information and supply correction information for each supply by a supplying member; and
-    (ii) each member of the supplier group other than the issuing member must not issue taxable supply information and supply correction information for a supply by the member; and
+    (i) the issuing member must issue taxable supply information and supply correction information for agreed taxable supplies by a supplying member; and
+    (ii) each member of the supplier group other than the issuing member must not issue taxable supply information and supply correction information for a supply when the members of the supplier group have agreed that the information will be provided by the issuing member; and
   (b) the agreement includes the name, address, and registration number of each member of the supplier group; and
   (c) if the terms of the agreement differ from normal commercial terms agreed earlier between the members of the supplier group, each member of the supplier group records the circumstances taken into account by the member in entering the agreement; and
   (d) The Commissioner has not invalidated the agreement because the Commissioner considers that the members of the supplier group have failed to satisfy the requirements of the agreement and this section.
@@ -2758,7 +2766,7 @@ The obligations and liabilities under this Act of any person in respect of anyth
   - **specified agent** means a person carrying on any taxable activity in a capacity as personal representative, liquidator, receiver, or administrator of an incapacitated person, or otherwise as agent for or on behalf of or in the stead of an incapacitated person.
 (1A) Despite sections 5(2) and 60, a person who becomes a specified agent is treated as being a registered person carrying on the taxable activity of the incapacitated person during the agency period, and the incapacitated person is not treated as carrying on the taxable activity during the period.
 (1B) If a person becomes a specified agent and has been appointed to carry on part of the incapacitated person's taxable activity only, subsection (1A) applies only to the part of the taxable activity the person has been appointed to carry on.
-(1C) Subject to section 46(7), a specified agent may deduct an amount under section 20(3) relating to supplies made before the agency period if the incapacitated person is entitled to, and has not previously deducted, the amount.
+(1C) Subject to section 46(7), a specified agent may deduct an amount under section 20(3) relating to supplies made before the agency period if, at the time the deduction is claimed, the incapacitated person would have been entitled to a deduction for the amount had they not been incapacitated, and the incapacitated person has not previously deducted the amount.
 (1D) A specified agent is not personally liable for any liabilities incurred under this Act by the incapacitated person on or before the date the agency period starts.
 (2) Where a mortgagee is in possession of any land or other property previously mortgaged by the mortgagor, being a registered person, the Commissioner may, from the date on which the mortgagee took possession of that land or other property, until such time as the mortgagee ceases to be in possession of that land or other property, deem the mortgagee, in any case where and to the extent that the mortgagee carries on any taxable activity of the mortgagor, to be a registered person.
 (3) Any person who becomes a specified agent, or who as a mortgagee in possession carries on any taxable activity of the mortgagor, shall, within 21 days of becoming a specified agent or commencing that taxable activity of the mortgagor, notify the Commissioner of that fact and of the date of the death or of the liquidation or receivership or voluntary administration or bankruptcy or mortgagee taking possession of any land or other property previously mortgaged by the mortgagor, or of the nature of the incapacity and the date on which it began.
@@ -3554,7 +3562,7 @@ Despite section 25 of this Act, and sections 113 and 113A of the Tax Administrat
 [Repealed]
 
 ### 90 Transitional regulation-making power: legislative charges
-(1) For the purposes of section 5(6ED)﻿(a), the Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue, add a charge or class of charges to the schedule.
+(1) For the purposes of section 5(6ED)﻿(a), the Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue, add a charge or class of charges to schedule 1.
 (2) Before making a recommendation referred to in subsection (1), the Minister must be satisfied that the charge should be non-taxable, having regard to whether making the charge non-taxable is consistent with the approach taken for other charges with similar characteristics.
 (3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
@@ -3571,7 +3579,7 @@ Despite section 25 of this Act, and sections 113 and 113A of the Tax Administrat
 (3) If a person makes an election under subsection (2), they must return output tax equal to—
   (a) the input tax previously deducted for the supply minus the amount of output tax adjustments already made for non-taxable use; or
   (b) if the supply was acquired by them as a zero-rated supply, the nominal GST component chargeable under section 20(3J)﻿(a)﻿(i) minus the amount of output tax adjustments already made for non-taxable use.
-(4) If after returning output tax under subsection (3), the person has claimed no deduction under section 20(3) for the goods, then any future disposal of the goods is not a taxable supply.
+(4) If, after returning output tax under subsection (3), the person has claimed no deduction under section 20(3) for the goods, excluding non-integral deductions, then any future disposal of the goods is not a taxable supply.
 
 ## Schedule 1 — Non-taxable legislative charges
 
