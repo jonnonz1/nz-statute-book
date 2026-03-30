@@ -5,7 +5,7 @@ _Consolidation as at 2026-03-30_
 This Act is the Taxation (Annual Rates for 2025–26, Compliance Simplification, and Remedial Measures) Act 2026.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after the date on which it receives the Royal assent, except as provided in this section.
+(1) This Act comes into force on 31 March 2026, except as provided in this section.
 (2) Section 170 comes into force on 10 October 2000.
 (3) Sections 7, 27, 32, 34, 35, 36, 37, 38, 39(1) and (3), 83, 125, 144(2) and (3), and 192(1) come into force on 1 April 2008.
 (4) Section 86 comes into force on 1 January 2009.
