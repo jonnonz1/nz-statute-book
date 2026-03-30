@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2024–25, Emergency Response, and Remedial Measures) Act 2025
-_Consolidation as at 2025-03-29_
+_Consolidation as at 2026-03-30_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2024–25, Emergency Response, and Remedial Measures) Act 2025.
@@ -40,7 +40,7 @@ This Act is the Taxation (Annual Rates for 2024–25, Emergency Response, and Re
 (33) Section 262 comes into force on 31 March 2025.
 (34) Sections 9, 13, 14, 22, 23, 24, 25, 26, 27, 32, 36(1), 37, 40, 45, 57, 58, 63, 65, 69, 72, 85, 86(1), 87(1), (2), and (4)﻿(a), 88, 107, 114, 115, 117, 118, 122, 133, 134(2), (4), (5), (6), (7), (8), (9), (10), (18), (22), (23), (24), (25), (26), (28), (29), (30), (32), (34), (35), (48), (49), (50), (51), (59), (61), and (66), 145, 148(3), 150(2), (3), (4), (6), (11), (13), (14), (20), (21), and (22), 151, 164(3), 165, 173(1), (4), and (5), 184, 192, 199, 201(1), 221(1), (2), (3), and (6), 222, 242, 244, 245, and 253 come into force on 1 April 2025.
 (35) Section 243 comes into force on 1 July 2025.
-(36) Sections 16, 103, 104, 119, 120, 121(1), (3), and (4), 131, 132, 134(12), (42), (46), (56), (58), (62), and (63), 146(4), 150(7), (8), (10), and (19), 154, 155, 156, 157, 158, 159, 171, 176(2), 178, 179, 180, 181(1), 188, 189, 190, 193, 194, 196, 198, 200, and 201(3) and (5) come into force on 1 April 2026.
+(36) Sections 16, 103, 104, 119, 120, 121(1), (3), and (4), 131, 132, 134(12), (42), (46), (56), (62), and (63), 146(4), 150(7), (8), (10), and (19), 154, 155, 156, 157, 158, 159, 171, 176(2), 178, 179, 180, 181(1), 188, 189, 190, 193, 194, 196, 198, 200, and 201(3) and (5) come into force on 1 April 2026.
 (37) Section 148(5) comes into force on 1 April 2029.
 (38) Sections 86(2) and 87(3) and (4)﻿(b) come into force on the date on which section 10 of the Deposit Takers Act 2023 comes into force.
 
@@ -2152,7 +2152,7 @@ After section 3(4)﻿(b), insert:
   (3BB) For the purposes of subsection (3)﻿(a)﻿(i), if the supplier received the goods from an associated person, the amount of input tax for the recipient is,—
     (a) to the extent to which paragraph (b) does not apply, the tax fraction of the purchase price of the goods when they were last supplied by a person who is not associated with the supplier; or
     (b) if, after the supply referred to in paragraph (a) but before the supply referred to in subsection (2), the goods were supplied by a registered person (person A) associated with the supplier and all or part of the supply made by person A was a taxable supply, the amount of output tax accounted for by person A that relates to the taxable supply.
-(3) Subsections (1) and (2) apply to goods acquired by a person on and after 30 March 2022. However, subsections (1) and (2) do not apply to a person if the person has taken a tax position in respect of the goods before 26 August 2024 and that tax position relied on section 3A(3)﻿(a)﻿(i) of the Goods and Services Tax Act 1985 as it was before the amendments made by subsections (1) and (2).
+(3) Subsections (1) and (2) apply to taxable periods starting on or after 30 March 2022. However, subsections (1) and (2) do not apply to a person if the person has taken a tax position in respect of the goods before 26 August 2024 and that tax position relied on section 3A(3)﻿(a)﻿(i) of the Goods and Services Tax Act 1985 as it was before the amendments made by subsections (1) and (2).
 
 ### 206 Section 5 amended (Meaning of term supply)
 (1) In section 5(3C), replace financial service with financial service or the transfer of an emissions unit.
