@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2026-03-30_
+_Consolidation as at 2026-03-31_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -29,6 +29,7 @@ This Act is the KiwiSaver Act 2006.
   - **benefit** means a lump sum, allowance, refund, or other payment arising from membership of a KiwiSaver scheme
   - **Commissioner** means the Commissioner of Inland Revenue as defined in section 3(1) of the Tax Administration Act 1994
   - **complying superannuation fund** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
+  - **compulsory employer contribution** means, for an employee, the amount of employer contribution calculated under section 101D
   - **contribution** means any contribution to a KiwiSaver scheme, including an employer contribution and a Crown contribution
   - **contribution rate** , in relation to an employer and a particular employee, has the meaning given by section 64
   - **court** means, in relation to any matter, the court, tribunal, or arbitral tribunal by or before which the matter falls to be determined
@@ -1147,7 +1148,7 @@ For the purposes of the Tax Administration Act 1994, an employer is treated as h
 ### Subpart 3A — Compulsory employer contributions to KiwiSaver schemes and complying superannuation funds
 
 ### 101A General
-(1) An employer must pay, in accordance with sections 101E and 101F, an amount of employer contribution (a compulsory employer contribution) calculated under section 101D for an employee, to the extent to which the employee meets the requirements in section 101C for a period to which a payment of salary or wages relates.
+(1) An employer must pay, in accordance with sections 101E and 101F, a compulsory employer contribution for an employee, to the extent to which the employee meets the requirements in section 101C for a period to which a payment of salary or wages relates.
 (2) Section 101B provides rules relevant to parties to an employment relationship, and how they bargain in respect of compulsory employer contributions and associated matters.
 (2B) Despite subsection (1), an employer does not have to pay a compulsory employer contribution as provided in sections 101FB and 101FC.
 (3) Section 101G provides rules relevant to providers who receive compulsory employer contributions directly or from the Commissioner.
@@ -2510,27 +2511,13 @@ The KiwiSaver scheme rules apply to all KiwiSaver schemes.
 
 ### 4 Withdrawal age
 (1) Subject to other permitted withdrawals, a member is not permitted to withdraw amounts from their KiwiSaver scheme before the date on which the member reaches the New Zealand superannuation qualification age.
-(2) Subject to subclauses (4) to (6), a member is permitted to withdraw amounts, not totalling more than the member’s accumulation, from their KiwiSaver scheme on and after the date on which the member reaches the New Zealand superannuation qualification age.
+(2) A member is permitted to withdraw amounts, not totalling more than the member’s accumulation, from their KiwiSaver scheme on and after the date on which the member reaches the New Zealand superannuation qualification age.
 (3) A person ceases, at the option of the provider of the KiwiSaver scheme, to be a member of the KiwiSaver scheme if—
   (a) the balance in all of the member’s accounts reaches zero; and
   (b) the provider gives notice to the member that the person’s membership is terminated.
-(4) Despite subclause (2) and subject to other permitted withdrawals (other than under subclause (2)), a person is not permitted to make a withdrawal from their KiwiSaver scheme before the grandparented end payment date, if the person is a grandparented member.
-(5) On and after the date on which a grandparented member reaches the grandparented end payment date, the member is permitted to withdraw amounts from their KiwiSaver scheme, not totalling more than the member’s accumulation.
-(6) For the purposes of these rules,—
-  - **5-year grandparenting date** means the earliest of—
-    (a) the date that is 5 years after the day on which the member first became a member of a KiwiSaver scheme; or
-    (b) the date that is 5 years after the day, under section 85, on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member; or
-    (c) the date that is 5 years after the day on which the member first became a member of a complying superannuation fund, if the member has become a member of the KiwiSaver scheme as a result of a transfer from a complying superannuation fund
-  - **grandparented end payment date** means the later of—
-    (a) the date on which the member reaches the New Zealand superannuation qualification age:
-    (b) the 5-year grandparenting date
-  - **grandparented member** —
-    (a) means a member for whom 1 of the following dates is before 1 July 2019:
-      (i) the date on which the member first became a member of a KiwiSaver scheme:
-      (ii) the date, under section 85, on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member:
-      (iii) the date on which the member first became a member of a complying superannuation fund, if the member has become a member of the KiwiSaver scheme as a result of a transfer from a complying superannuation fund; but
-    (b) does not include a person who has given their KiwiSaver scheme provider notice of the person’s election that this definition does not apply to them; and
-  (c) does not include a person who was of New Zealand superannuation qualification age before 1 July 2019.
+(4)
+(5)
+(6)
 
 ### 4A No external financial advantages from funds
 (1) The manager must ensure that the entire value, benefit, or other return derived in respect of the member's accumulation is credited to the member's accumulation and is not received as an external financial advantage.
