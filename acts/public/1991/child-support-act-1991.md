@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2026-02-17_
+_Consolidation as at 2026-03-31_
 
 > Title
 
@@ -2946,20 +2946,21 @@ Subject to section 180, no legal action may be taken by a payee in relation to a
 (6) If a waiver is revoked, the liable parent must pay the child support due in relation to the child from the date the revocation takes effect, and must pay it within 30 days after the date on which the notice of revocation is given to the liable parent.
 
 ### 180 Payee may uplift financial support debt
-(1) A person who is the payee in respect of an amount of child support or domestic maintenance may elect, by written notice to the Commissioner signed by the payee, that—
+(1) A person who is the payee in respect of an amount of child support or domestic maintenance may elect, by notice to the Commissioner, that—
   (a) the Commissioner cease to pursue payment of the whole or any part of an amount payable by the liable person that is unpaid and in arrear; or
   (b) the Commissioner not pursue payment of an amount that is to become payable in the future by a liable person.
 (2) This section does not entitle an election to be made in relation to an amount of child support payable to a payee, other than pursuant to a lump sum order made under section 109,—
-  (a) under subsection (1)﻿(a), if the amount of child support was payable in respect of a period during which the payee was a UCB beneficiary); or
+  (a) under subsection (1)﻿(a), if the amount of child support was payable in respect of a period during which the payee was a UCB beneficiary; or
   (b) under subsection (1)﻿(b), if the payee is a UCB beneficiary at the time of the making of the election; or
   (c) under subsection (1)﻿(b), if the payee is not a UCB beneficiary at the time of the making of the election, unless, at that time,—
     (i) the Commissioner has accepted an election under section 27 that covers the liability of the liable parent to pay child support; or
     (ii) the payee elects that the liability of the liable parent to pay child support is to end under section 64 or 70.
-(3) Where the Commissioner receives an election under subsection (1) that complies with the requirements of this section, the amount of money that is or becomes unpaid and in arrear, to the extent that the payee has elected that the Commissioner not pursue payment,—
+(3) Where the Commissioner receives an election that complies with the requirements of this section, the amount of money that is or becomes unpaid and in arrear, to the extent that the payee has elected that the Commissioner not pursue payment,—
   (a) ceases to be a debt payable by the liable person to the Crown under this Act; and
   (b) becomes a debt payable by the liable person to the payee; and
   (c) without prejudice to any mode of recovery and despite section 179, may be recovered by the payee in the District Court.
 (4) An election made under this section is irrevocable from the time that the amount of child support or domestic maintenance is unpaid and in arrear.
+(5) A notice of election under subsection (1) must be given using an approved form or in another way approved by the Commissioner.
 
 ### 180A Commissioner may write off benefit component of child support debt if receiving carer was UCB beneficiary and recovery would cause serious hardship or be inefficient use of Commissioner's resources
 (1) The Commissioner may write off some or all of the benefit component of an amount of child support that is payable by the liable person to the Crown under this Act, and that is unpaid and in arrear, if—
