@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2026-03-30_
+_Consolidation as at 2026-03-31_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -1803,7 +1803,7 @@ Refunds
   (a) income tax of the shareholder; and
   (b) non-resident withholding tax (NRWT) or resident withholding tax (RWT) of the company.
 Relationship with subpart RM
-(4) The refund is made despite sections RM 2 to RM 5 (which relate to refunds of excess tax) and RM 18 to RM 21 (which relate to limits on refunds), but subject to the other provisions of this Act.
+(4) The refund is made despite sections RM 2 and RM 4 (which relate to refunds of excess tax).
 Adjustments to accounts
 (5) If the Commissioner has been notified of the recovery and has amended an assessment as described in subsection (2), a credit or debit (as applicable) arises as at the date of recovery, and must be recorded in—
   (a) the imputation credit account of the company; or
@@ -1822,8 +1822,8 @@ Amendment of assessments
 (3) Section 113B of the Tax Administration Act 1994 requires the Commissioner to amend assessments if given notice of the repayment.
 Refunds
 (4) If the Commissioner is given notice of the repayment, the Commissioner must refund any relevant tax of the shareholder.
-Relationship with sections RM 2 to RM 5
-(5) The refund is made despite sections RM 2 to RM 5 (which relate to refunds of excess tax), but subject to the other provisions of this Act.
+Relationship with sections RM 2 and RM 4
+(5) The refund is made despite sections RM 2 and RM 4 (which relate to refunds of excess tax), but subject to the other provisions of this Act.
 Repayment of pre-1992 loans
 (6) Subsection (1) also applies to the repayment of an amount treated as a dividend under section 4(1)﻿(b) of the Income Tax Act 1976 (as it applied before 1 April 1992 to give the Commissioner a discretion to treat loans as dividends), as if the amount repaid were a released amount that is repaid.
 
@@ -4656,7 +4656,7 @@ Exempt income: sinking funds
 Exempt income: other income
 (2) Any other amount of income derived by a public authority is exempt income.
 Exclusion: amounts received in trust
-(3) Subsection (2) does not apply to an amount of income that a public authority derives as a trustee, other than an amount distributed as beneficiary income to a beneficiary who derives the amount as exempt income.
+(3)
 Exclusion: superannuation schemes
 (4) Subsection (2) does not apply to a public authority to the extent to which it is a superannuation scheme.
 Exclusion: certain public authorities
@@ -4679,7 +4679,7 @@ Exempt income: sinking funds
 Exempt income: other income
 (2) Any other amount of income derived by a public purpose Crown-controlled company is exempt income.
 Exclusion: amounts received in trust
-(3) Subsection (2) does not apply to an amount of income that a public purpose Crown-controlled company derives as a trustee, other than an amount distributed as beneficiary income to a beneficiary who derives the amount as exempt income.
+(3)
 Orders in Council
 (4) The Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue, amend schedule 35—
   (a) to add the name of a company that meets the following criteria:
@@ -4702,7 +4702,7 @@ Exempt income: sinking funds
 Exempt income: other income
 (2) Any other amount of income derived by a local authority is exempt income.
 Exclusion: amounts received in trust
-(3) Subsection (2) does not apply to an amount of income that a local authority derives as a trustee, other than an amount distributed as beneficiary income to a beneficiary who derives the amount as exempt income.
+(3)
 Exclusion: certain amounts from commercial undertakings
 (4) Subsection (2) does not apply to an amount of income that—
   (a) is derived by a local authority from—
@@ -5041,7 +5041,7 @@ Exempt income—if less than limit
     (ii) a consumer trust that derives only exempt income under 1 or both of sections CW 41 and CW 42:
   (c) the water organisation is not a company incorporated under the Companies Act 1993, and any distribution it makes is to a person who derives only exempt income.
 Meaning of water organisation
-(2) In this section and section CW 39, water organisation has the same meaning as in section 4 of the Local Government (Water Services) Act 2025.
+(2) Water organisation has the same meaning as in section 4 of the Local Government (Water Services) Act 2025.
 Meaning of water services
 (3) In this section, water services has the same meaning as in section 4 of the Local Government (Water Services) Act 2025.
 Meaning of territorial authority
@@ -6609,6 +6609,14 @@ Some definitions
     (a) the disposal and acquisition of trading stock of the vendor that is not intangible property; and
     (b) not subject to section CB 2 (Amounts received on disposal of business assets that include trading stock)
   - **transaction shares** means the number of shares in Fonterra that the supplying shareholder holds for trading transactions that occurred in the period to which the distribution relates. The number of shares must determine the value of the trading transactions.
+
+### CZ 42 Transitional tax relief: water organisations
+Who this section applies to
+(1) This section applies to a water organisation that derives—
+  (a) assessable income before the 2025–26 income year; and
+  (b) exempt income under section CW 55BC (Water organisations) in the 2025–26 or a later income year.
+Effect of this section
+(2) No income tax liability arises under this Act for the water organisation solely because of the organisation’s income becoming exempt income under section CW 55BC.
 
 ## Part D — Deductions
 
@@ -14984,7 +14992,7 @@ When this section applies
 Deduction: de minimis
 (2) If the initial right of use asset under NZ IFRS 16 is $100,000 or less and the remaining term of the IFRS lease under NZ IFRS 16 is 4 years or less initially and immediately after any extension starts, then the person, as lessee for the IFRS lease, is allowed, for an income year, a deduction for a positive amount, and has income for a negative amount, for the total amount recognised by the person through their profit and loss account for the IFRS lease for the income year, if the amount is in accordance with NZ IFRS 16.
 Deduction: formula
-(3) If subsection (2) does not apply, then the person, as lessee for the IFRS lease, is allowed, for an income year, a deduction for a positive amount, and has income for a negative amount, for amounts calculated using the formula— accounting amount − add-back adjustment + impairment and revaluation adjustment − make-good and direct costs adjustment.
+(3) If subsection (2) does not apply, then the person, as lessee for the IFRS lease, is allowed, for an income year, a deduction for a positive amount, and has income for a negative amount, for amounts calculated using the formula—accounting amount − add-back adjustment + impairment and revaluation adjustment − make-good and direct costs adjustment.
 Definition of items in formula
 (4) In the formula in subsection (3),—
   (a) accounting amount is the total amount recognised by the person through their profit and loss account for the IFRS lease for the income year, if the amount is in accordance with NZ IFRS 16:
@@ -19400,7 +19408,7 @@ Standard formula
 Definition of items in standard formula
 (4) In the standard formula,—
   (a) opening book value is the book value of the interest at the end of the previous income year, calculated under subsection (7):
-  (b) deemed rate is the rate set by the Governor-General by Order in Council for this section for the relevant income year (see subsection (15)).
+  (b) deemed rate is the rate set by a determination made under section 91AAP of the Tax Administration Act 1994 for this section for the relevant income year.
 Part-year formula
 (5) The part-year formula is—(opening book value + costs) × deemed rate × days ÷ 365.
 Definition of items in part-year formula
@@ -19409,7 +19417,7 @@ Definition of items in part-year formula
   (b) costs is the total for the part of the income year of—
     (i) all expenditure, if any, that the person incurs in acquiring or increasing the interest:
     (ii) income tax on the income of the FIF for which the person is liable under the laws of a country or territory outside New Zealand and which is paid by the person in the part of the income year:
-  (c) deemed rate is the rate set by the Governor-General by Order in Council for this section for the relevant income year (see subsection (15)):
+  (c) deemed rate is the rate set by a determination made under section 91AAP of the Tax Administration Act 1994 for this section for the relevant income year:
   (d) days is the number of days in the part of the income year; and for this purpose, an acquisition or increase is treated as occurring at the start of a day, and a disposition or reduction is treated as occurring at the end of a day.
 Closing book value formula
 (7) The book value, at the end of an income year or, in a case in which subsection (5) applies, a part of an income year, of an attributing interest of a person in a FIF under the deemed rate of return method is, unless subsection (9) applies, calculated using the formula (the closing book value formula)—opening book value + costs + deemed income + top-up amounts − gains.
@@ -19446,7 +19454,7 @@ When subsection (13) does not apply
     (ii) its market value, in any other case; and
   (c) the gain that the person derived from disposing of the interest or part-interest is not income, or is income only to the extent to which it gives rise to FIF income.
 Secondary legislation
-(15) An Order in Council under subsection (4)﻿(b) or (6)﻿(c) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(15)
 
 ### EX 56 Cost method
 Cost method formula
@@ -20280,7 +20288,7 @@ Relationship with subpart HE
 Benefits treated as life insurance
 (1) The provision by a trustee of a superannuation scheme of a benefit to a member or beneficiary of the scheme is treated as the provision of life insurance if the trustee provides life insurance to any member or beneficiary, unless subsection (2) applies.
 Exemption for certain schemes
-(2) A trustee of a superannuation fund is treated as not carrying on the business of life insurance for an income year if the fund meets all the requirements of subsections (3) to (9) for the income year.
+(2) A trustee of a superannuation fund is treated as not carrying on the business of life insurance for an income year if the fund meets all the requirements of subsections (3) to (8) for the income year.
 Fund must be registered
 (3) At all times in the income year, the fund must be registered as a superannuation scheme or a workplace savings scheme on the register of managed investment schemes (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 Trustee cannot be a life insurance company
@@ -20288,6 +20296,7 @@ Trustee cannot be a life insurance company
 Nature of funds
 (5) At all times in the income year, the fund must be 1 of the following kinds:
   (a) a fund established by an employer, or a group of employers who are associated, to provide benefits only to persons who are employees of, or related by employment to, such an employer, or to another associated employer who agrees after the fund's establishment to make contributions to it:
+  (ab) a fund approved by the Financial Markets Authority for the purposes of this subsection as providing benefits solely to those who (in the absence of a transfer under section 179 of the Financial Markets Conduct Act 2013) would otherwise be members or beneficiaries of a restricted scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) that meets the requirements of paragraph (a):
   (b) a fund constituted under the Government Superannuation Fund Act 1956 that provides benefits only to persons who are employees of, or related by employment to, an employer who agrees or is required to contribute, or on whose behalf contributions are made, to the fund:
   (c) a fund constituted under the National Provident Fund Act 1950, the National Provident Fund Restructuring Act 1990, or the National Provident Fund Restructuring Amendment Act 1997 that has as its trustee the Board of Trustees of the National Provident Fund.
 Only certain fund beneficiaries allowed
@@ -20300,7 +20309,7 @@ Significant employer superannuation contributions required
 No avoidance effect
 (8) The fund must not have been established, and must not be being used at any time in the income year, in a way that has the effect of defeating the intent and application of the rules for life insurers.
 FMA approval required
-(9) The trustee of the fund must have applied to the FMA for, and the FMA must have granted, approval that the fund is for the income year one that complies with subsections (3) to (8).
+(9)
 Exemptions to requirements of subsection (7)
 (10) Subsection (7) does not apply if—
   (a) the FMA is satisfied that, for the income year, subsection (7) would have been complied with but for the fund assets exceeding the accrued benefits from the fund:
@@ -20308,9 +20317,7 @@ Exemptions to requirements of subsection (7)
 Limited superannuation contributions disregarded for subsection (7)
 (11) For the purposes of subsection (7), superannuation contributions that are merely nominal or that only meet the costs of administration and investment management are disregarded.
 Notice by FMA
-(12) The FMA must notify the trustee of a superannuation fund as soon as practicable after determining that—
-  (a) the fund complies with subsections (3) to (8) for an income year:
-  (b) the fund ceases to comply with the subsections for an income year.
+(12)
 Objection against FMA decision
 (13) A person dissatisfied with the FMA's decision may appeal against the decision to the High Court and has no right of objection under the Tax Administration Act 1994.
 (13A) A decision against which an appeal is lodged under subsection (13) continues in force unless the High Court orders otherwise.
@@ -23253,7 +23260,7 @@ This subpart applies when property is transferred on a settlement of relationshi
 ### FB 1B Meaning of settlement of relationship property and property
 In this subpart,—
   (a) settlement of relationship property means a transaction under a relationship agreement that creates a disposal and acquisition of property between—
-    (i) a person who is a party to the relationship agreement or is associated with a party to the agreement:
+    (i) a person who is a party to the relationship agreement or is associated with a party to the agreement; and
     (ii) another person who is a party to the relationship agreement or is associated with a party to the agreement:
   (b) property includes a look-through interest for a look-through company.
 
@@ -29413,10 +29420,8 @@ When this section applies
 Trustee income
 (2) Despite section BD 1(4)﻿(a), (b), and (5)﻿(c) (Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income), the amount is assessable income of the trustee if, at any time in the income year,—
   (a) a settlor of the trust is a New Zealand resident who is not a transitional resident; or
-  (b) the trust is a superannuation fund; or
-  (c) the trust is a testamentary trust or an inter vivos trust, of which—
-    (i) a trustee is resident in New Zealand; and
-    (ii) a settlor died resident in New Zealand (whether or not they died in the income year) or the last surviving settlor was resident in New Zealand when that settlor ceased to exist.
+  (b) the trust is a superannuation fund.
+  (c)
 First exception
 (3) Subsection (2) does not apply if—
   (a) the trustee is resident outside New Zealand at all times in the income year; and
@@ -31139,7 +31144,7 @@ Taxable income or tax loss
 Use of valuations or financial statements
 (8) Income and deductions of the multi-rate PIE are allocated to investors and investor classes for attribution periods as—
   (a) reflected in the PIE's valuation of investor interests, if the PIE makes these valuations and paragraph (c) does not apply to the income and deductions:
-  (b) shown in the PIE's financial statements, if the PIE does not makes the valuations referred to in paragraph (a) and paragraph (c) does not apply to the income and deductions:
+  (b) shown in the PIE's financial statements, if the PIE does not make the valuations referred to in paragraph (a) and paragraph (c) does not apply to the income and deductions:
   (c) given by Determination G27: Swaps, Method C, if the income and deductions arise from a financial arrangement that meets the requirements for the method and the multi-rate PIE, before becoming a party to the financial arrangement, chooses to use the method for the income and deductions from such financial arrangements and does not revoke the choice.
 
 ### HM 35B Treatment of certain provisions made by multi-rate PIEs
@@ -34037,7 +34042,7 @@ Amount of credit
 Formula
 (2) The formula referred to in subsection (1) is—total gifts × 33⅓%.
 Definition of item in formula
-(3) In the formula, total gifts means the total amount of all charitable or other public benefit gifts made by the person in the tax year.
+(3) In the formula, total gifts means the total amount of all charitable or other public benefit gifts made by the person in the tax year, limited to the amount of the person’s taxable income for that tax year.
 Administrative requirements
 (4) Despite subsection (1), the requirements of section 41A are modified if a tax agent or representative applies for a refund under that section on behalf of a person, and—
   (a) the tax agent or representative sees the receipt for the person’s charitable or other public benefit gift; and
@@ -36558,6 +36563,24 @@ Rate of abatement
 Zero credit
 (3) If the person’s tax credit income for the tax credit quarter is $57,286 or more, the abatement amount is $1,560 and the FamilyBoost tax credit amount under section MH 3(2) and (3) is zero.
 
+### MH 6 Orders in Council for FamilyBoost
+Purpose
+(1) The purpose of subsection (2) is to provide a power to expand eligibility to, or increase the amount of, the FamilyBoost tax credit payable to a person under this subpart.
+What may be done by Order in Council
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue,—
+  (a) increase the percentage of licensed early childhood service fees able to be claimed as a FamilyBoost tax credit in section MH 3(2):
+  (b) increase the maximum tax credit amount in section MH 3(2) and (3):
+  (c) change the rate of abatement in section MH 5(2):
+  (d) increase the abatement amount under section MH 5(3):
+  (e) increase the threshold for a person’s tax credit income in a tax credit quarter in section MH 5(3):
+  (f) increase the tax credit income threshold at which the abatement begins under sections MH 3(3) and MH 5(2).
+Application of Order in Council
+(3) An Order in Council made under subsection (2) applies to tax credit quarters starting on or after the first day of a quarter and cannot apply earlier than the quarter in which the order is made.
+Secondary legislation
+(4) An Order in Council made under subsection (2)—
+  (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+  (b) commences in accordance with subsection (3), even if it is not yet published.
+
 ### Subpart MK — Tax credits for KiwiSaver schemes and complying superannuation funds
 
 ### MK 1 Tax credits for superannuation contributions
@@ -36578,7 +36601,7 @@ Requirements for person
   (a) they must be 16 years or older; and
   (b) they must have a creditable membership of a complying superannuation fund or a KiwiSaver scheme; and
   (c) they must not be entitled under schedule 1, clause 4 of the KiwiSaver Act 2006 or an equivalent provision to withdraw an amount from the scheme or fund; and
-  (cb) they must not have made a withdrawal under clause 12B of the KiwiSaver scheme rules (which relates to life-shortening congenital condition withdrawals); and
+  (cb) they must not have made a withdrawal under schedule 1, clause 12B of the KiwiSaver Act 2006 (which relates to life-shortening congenital condition withdrawals); and
   (cc) their taxable income, as determined under section MK 2B, must be $180,000 or less; and
   (d) they must reside mainly in New Zealand, or otherwise they must—
     (i) be an employee of the State services under the Public Service Act 2020 serving outside New Zealand; or
@@ -38074,7 +38097,7 @@ Amount of excess entitlement
 (5) Company A’s excess entitlement at the time it stops being part of the former group is 1 of the following amounts:
   (a) zero, if the credit balance of its imputation credit account at the time is equal to or more than—
     (i) the amount in the tax pooling account provided by or for the benefit of company A that is more than its liability to pay income tax or provisional tax at the time; or
-    (ii) the entitlement company A would have to a refund under sections RM 2, RM 4, and RM 5 (which relate to refunds of excess tax) as if sections RM 13 to RM 17 (which relate to limits on refunds) did not apply; or
+    (ii) the entitlement company A would have to a refund under section RM 2 or RM 4 (which relate to refunds of excess tax) as if sections RM 13 to RM 17 (which relate to limits on refunds) did not apply; or
   (b) the total of the amounts referred to in paragraph (a)﻿(i) and (ii) if no credit balance exists at the time; or
   (c) the excess of the total of the amounts referred to in paragraph (a)﻿(i) and (ii) over the credit balance, if paragraph (b) does not apply.
 Due date
@@ -38111,7 +38134,7 @@ Excess entitlement
 (6) The company’s excess entitlement at a particular time is 1 of the following amounts:
   (a) zero, if the credit balance of the company's imputation credit account at the time is equal to or more than the amount (the total refundable amount) that is the total of the following:
     (i) the amount in the tax pooling account provided by or for the benefit of the company that is more than the company's liability to pay income tax or provisional tax at the time:
-    (ii) the amount of the refund to which the company is entitled under sections RM 2, RM 4, and RM 5 (which relate to refunds of excess tax), other than an amount affected by a restriction under section OB 72B(5); or
+    (ii) the amount of the refund to which the company is entitled under section RM 2 or RM 4 (which relate to refunds of excess tax), other than an amount affected by a restriction under section OB 72B(5); or
   (b) the total refundable amount, if there is no credit balance in the company's imputation credit account at the time; or
   (c) the excess of the total refundable amount over the credit balance in the company's imputation credit account at the time, if paragraph (b) does not apply.
 Due date
@@ -38133,7 +38156,7 @@ Definition of items in formula
 (3) In the formula,—
   (a) refund amount is the total of the following amounts, determined immediately before the ICA company joins the new group:
     (i) the amount in the tax pooling account provided by or for the benefit of the ICA company that is more than the company's liability to pay income tax or provisional tax at the time:
-    (ii) the amount of the refund to which the ICA company is entitled under sections RM 2, RM 4, and RM 5 (which relate to refunds of excess tax) other than an amount affected by a restriction under subsection (5) for the company and another group:
+    (ii) the amount of the refund to which the ICA company is entitled under section RM 2 or RM 4 (which relate to refunds of excess tax) other than an amount affected by a restriction under subsection (5) for the company and another group:
   (b) ICA credit balance is the credit balance of the ICA company's imputation credit account immediately before the company joins the new group.
 Payment to Commissioner
 (4) If the restricted refund amount is greater than the amount referred to in subsection (3)﻿(a)﻿(ii), the ICA company must pay to the Commissioner an amount equal to the excess and the Commissioner must hold the amount with the balance of the restricted refund amount as if the excess were a refund to which the company were entitled under section RM 2 (Refunds for overpaid tax).
@@ -38155,7 +38178,7 @@ Tax liability in subsection (5) or (5B)
   (a) the ICA company:
   (b) a company (the member) that is in the new group with the ICA company, if the ICA company satisfies the Commissioner that the member was in the former group immediately before the ICA company joined the new group.
 Restriction additional to other requirements
-(6) The restriction imposed by subsection (5) or (5B) on the use of a restricted refund amount is in addition to the requirements under other provisions of the Act for a refund or the satisfaction of a tax liability from an amount to which the ICA company is entitled under sections RM 2, RM 4, and RM 5.
+(6) The restriction imposed by subsection (5) or (5B) on the use of a restricted refund amount is in addition to the requirements under other provisions of the Act for a refund or the satisfaction of a tax liability from an amount to which the ICA company is entitled under section RM 2 or RM 4.
 Reducing restricted refund amount
 (7) The restricted refund amount for the ICA company and a group is reduced by the amount of—
   (a) a refund permitted under subsection (5)﻿(a) or (5B)﻿(a) relating to the restricted refund amount:
@@ -39341,7 +39364,7 @@ Refunds for overpaid amounts
 Limits on refunds
 (6) Despite subsection (5), sections RM 13 to RM 17, RM 32, and RZ 6 do not apply to limit a refund payable to a company that is part of a consolidated imputation group in relation to income tax paid individually by the company to the extent to which those sections would not have limited the refund if it had been a refund payable to the group in relation to income tax paid by the group. However, if an amount is refunded and would not have been payable but for this subsection, section RM 15(1) (Changes in credit balances) applies as if the refund were made in relation to income tax paid by the group.
 Applying for refunds
-(7) If a company that is part of an imputation group is entitled to a refund under section RM 2, RM 4, or RM 5 (which relate to refunds for overpaid income tax), the company must apply for a refund by notifying the Commissioner. Sections RM 13 to RM 17, RM 32, and RZ 6 apply to the entitlement as if—
+(7) If a company that is part of an imputation group is entitled to a refund under section RM 2 or RM 4 (which relate to refunds for overpaid income tax), the company must apply for a refund by notifying the Commissioner. Sections RM 13 to RM 17, RM 32, and RZ 6 apply to the entitlement as if—
   (a) the imputation credit account of the group were the imputation credit account of the company:
   (b) a credit in the imputation credit account for the purposes of those sections were reduced by the amount of a refund to a company that is part of the group.
 
@@ -40565,7 +40588,7 @@ PAYE income payments
     (ii) extra pay; or
     (iii) schedular payment:
   (b) provide further rules in relation to schedular payments as set out in subsection (2):
-  (c) provide that the regulations do not apply to a particular person, or class or persons, on notification from the Commissioner.
+  (c) provide that the regulations do not apply to a particular person, or class of persons, on notification from the Commissioner.
 Schedular payments
 (2) For the purposes of subsection (1)﻿(b), regulations may be made under this Act or the Tax Administration Act 1994 in relation to schedular payments for the following purposes:
   (a) to set the amount of tax for a particular schedular payment or particular class of schedular payment:
@@ -40573,9 +40596,9 @@ Schedular payments
   (c) to provide that the amount of tax for a particular schedular payment, class of schedular payment, or schedular payments under a particular threshold is the person’s income tax liability in relation to the relevant kind of income:
   (d) to provide that an amount of tax must be withheld and paid despite any assignment or charge.
 Employment-related loans
-(3) The Governor-General may make regulations by Order in Council to declare the rate of interest applying to employment-related loans.
+(3)
 Application to quarters
-(4) When regulations referred to in subsection (3) are made, they apply to quarters starting from a date at least 1 month following the date the regulations were made. Regulations that reduce the rate of interest from the prescribed rate of interest at the time, if made at least 1 month before the quarter ends, may apply for that quarter.
+(4)
 Secondary legislation
 (5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
@@ -41344,7 +41367,7 @@ Amount of early-payment discount
   (b) 105% of the small-business person’s residual income tax for the income year.
 Discount rate
 (4) The discount rate is—
-  (a) the rate that is 2% greater than the Commissioner’s paying rate set by an Order in Council under section 120H of the Tax Administration Act 1994 that applied at the end of the preceding tax year if no rate is set under paragraph (b):
+  (a) the rate that is 2% greater than the Commissioner’s paying rate set by a determination under section 120H of the Tax Administration Act 1994 that applied at the end of the preceding tax year if no rate is set under paragraph (b):
   (b) the rate set by the Governor-General by Order in Council.
 Secondary legislation
 (5) An Order in Council under subsection (4)﻿(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -43962,7 +43985,7 @@ Result of calculations
 
 ### RM 10 Using refund to satisfy tax liability
 When this section applies
-(1) This section applies when a person is entitled to a refund of an amount of tax under sections RM 2, RM 4, and RM 5. An amount of tax under this section includes an amount of a refundable tax credit under section LA 5(5) (Treatment of remaining credits). Section LB 4 (Tax credits for families) may apply to adjust the amount available.
+(1) This section applies when a person is entitled to a refund of an amount of tax under section RM 2 or RM 4. An amount of tax under this section includes an amount of a refundable tax credit under section LA 5(5) (Treatment of remaining credits). Section LB 4 (Tax credits for families) may apply to adjust the amount available.
 Request for particular application
 (2) The person may ask under section 173T of the Tax Administration Act 1994 for the Commissioner to apply some or all of the amount on a particular date to satisfy a liability under the Inland Revenue Acts.
 Commissioner applying refund
@@ -44003,7 +44026,7 @@ Treatment of amount refunded or credited
 ### RM 13 Limits on refunds for ICA companies
 When this section applies
 (1) This section applies when an ICA company is entitled to—
-  (a) a refund of income tax under sections RM 2, RM 4, and RM 5, other than a refund of provisional tax paid under the AIM method; or
+  (a) a refund of income tax under section RM 2 or RM 4, other than a refund of provisional tax paid under the AIM method; or
   (b) transfer an amount under section RC 32 (Wholly-owned groups of companies), other than a transfer of provisional tax paid under the AIM method.
 Amount of refund or transfer limited
 (2) The amount of the refund or transfer must be no more than the credit balance of the ICA company in the imputation credit account at the latest of the following dates:
@@ -44046,7 +44069,7 @@ Relationship with section RZ 6
 
 ### RM 17 Treatment of further income tax paid
 When this section applies
-(1) This section applies for the purposes of sections RM 2, RM 4, and RM 5 when a company pays further income tax under sections OB 65 and OB 66 (which relate to further tax payable by ICA companies).
+(1) This section applies for the purposes of sections RM 2 and RM 4 when a company pays further income tax under sections OB 65 and OB 66 (which relate to further tax payable by ICA companies).
 No refund
 (2) The company is not entitled to a refund of the amount of further income tax paid which is treated as tax paid to satisfy an obligation yet to arise.
 
@@ -44068,7 +44091,7 @@ No refund
 
 ### RM 22 Limits on refunds for Maori authorities
 When this section applies
-(1) This section applies when a Maori authority is entitled to a refund of income tax under sections RM 2, RM 4, and RM 5.
+(1) This section applies when a Maori authority is entitled to a refund of income tax under section RM 2 or RM 4.
 Amount of refund limited
 (2) The amount of the refund must be no more than the credit balance of the Maori authority in the Maori authority credit account at the latest of the following dates:
   (a) the last day of the tax year that has just ended:
@@ -44088,7 +44111,7 @@ Relationship with section RZ 6
 
 ### RM 23 Limits on refunds when Maori authority stops being Maori authority
 When this section applies
-(1) This section applies when a Maori authority stops being a Maori authority and is entitled to a refund under section RM 2, RM 4, or RM 5 for a tax year in which it maintained a Maori authority credit account.
+(1) This section applies when a Maori authority stops being a Maori authority and is entitled to a refund under section RM 2 or RM 4 for a tax year in which it maintained a Maori authority credit account.
 Limit on amount of refund
 (2) The amount refunded must be no more than the final balance of the Maori authority credit account arising as a debit under section OK 18 (MACA final balance) just before the Maori authority stopped being a Maori authority.
 
@@ -44107,7 +44130,7 @@ Credit for provisional tax
 
 ### RM 26 Treatment of further income tax paid
 When this section applies
-(1) This section applies for the purposes of sections RM 2, RM 4, and RM 5 when a Maori authority pays further income tax under section OK 21 or OK 22 (which relate to further income tax for closing debit balance or when Maori authority stops being a Maori authority).
+(1) This section applies for the purposes of sections RM 2 and RM 4 when a Maori authority pays further income tax under section OK 21 or OK 22 (which relate to further income tax for closing debit balance or when Maori authority stops being a Maori authority).
 No refund
 (2) The authority is not entitled to a refund of the amount of further income tax paid which is treated as tax paid to satisfy an obligation yet to arise.
 
@@ -44142,7 +44165,7 @@ Sections RM 13 to RM 17 do not apply to an overpayment of tax by a qualifying co
 ### RM 33 Limits on refunds for certain unit trusts and group investment funds
 When this section applies
 (1) This section applies when a public unit trust or group investment fund—
-  (a) is entitled to a refund under section RM 2, RM 4, or RM 5; and
+  (a) is entitled to a refund under section RM 2 or RM 4; and
   (b) goes into liquidation or chooses to become a portfolio investment entity; and
   (c) at the time of the liquidation or election, has—
     (i) a credit balance in its available subscribed capital (ASC) account on liquidation; and
@@ -44368,6 +44391,36 @@ Categories of tax that may be included in new liability
   (h) PAYE:
   (i) RSCT:
   (j) RWT.
+
+### RP 17C Extension of time for tax pooling for 2022–23 and 2023–24 income years
+Extension of time for tax pooling
+(1) This section extends the time within which a person must make a request under section RP 17B(4)﻿(a) and (b).
+Criteria for extension of time
+(2) A person may ask a tax pooling intermediary to arrange the transfer of an amount to their tax account with the Commissioner on or before 1 October 2027 if the criteria in subsections (3) to (7) are met.
+Obligation for 2022–23 or 2023–24 income years
+(3) The transfer satisfies an obligation for either or both of the 2022–23 and 2023–24 income years for 1 or more of the following:
+  (a) provisional tax (other than under the AIM method) for a tax year:
+  (b) terminal tax for a tax year:
+  (c) interest under Part 7 of the Tax Administration Act 1994 on the provisional tax or terminal tax.
+Contract entered into on or before 1 October 2026
+(4) The person enters into a contract with the tax pooling intermediary on or before 1 October 2026 to satisfy an obligation described in subsection (3).
+Person meets certain requirements
+(5) On the date the contract is entered into, the person—
+  (a) is not bankrupt or liquidated:
+  (b) was not presumed to have been unable to pay their debts under section 287 of the Companies Act 1993 at some time in the previous 12 months:
+  (c) has not committed an act of bankruptcy under the Insolvency Act 2006 at some time in the previous 12 months:
+  (d) is not the subject of legal recovery proceedings for unpaid tax.
+No outstanding returns or information
+(6) On the date the contract is entered into, the person has provided all the following that the person is required to provide:
+  (a) returns of income under section 33 of the Tax Administration Act 1994:
+  (b) returns under the Goods and Services Tax Act 1985:
+  (c) employment income information under sections 23E to 23H and 23J of the Tax Administration Act 1994.
+No outstanding amounts
+(7) On the date the contract is entered into, the person does not have any of the following amounts payable for which the due date for payment has already passed:
+  (a) goods and services tax payable under section 23 of the Goods and Services Tax Act 1985:
+  (b) an amount set out in section RA 5 (Tax obligations for employment-related taxes).
+Discretion to waive criteria
+(8) The Commissioner may waive some or all of the criteria set out in subsections (5), (6), and (7) if the Commissioner has accepted a request for financial relief under section 177 of the Tax Administration Act 1994.
 
 ### RP 18 Deposits in tax pooling accounts
 When this section applies
@@ -44643,6 +44696,10 @@ When this section applies
   (c) the Commissioner was unable to make the refund within the 4-year period referred to in section 108(1) of the Tax Administration Act 1994; and
   (d) after the expiry of the 4-year period, the refund could not be made under section RM 2 as it was before it was amended by section 87(1) of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013.
 (2) The Commissioner may pay the refund to the person.
+
+### RZ 17 Interest rate on employment-related loans: transitional provision
+(1) This section applies for the period commencing on the date the Taxation (Annual Rates for 2025–26, Compliance Simplification, and Remedial Measures) Act 2026 comes into force and ending on the day before the date a rate of interest for employment-related loans determined by the Commissioner under section 90B of the Tax Administration Act 1994 first applies.
+(2) For the purposes of the definition of prescribed rate of interest in section YA 1 (Definitions), the prescribed rate of interest means the rate applying under the Income Tax (Fringe Benefit Tax, Interest on Loans) Regulations 1995 immediately before their revocation by the Taxation (Annual Rates for 2025–26, Compliance Simplification, and Remedial Measures) Act 2026.
 
 ## Part Y — Definitions and related matters
 
@@ -46292,10 +46349,7 @@ In this Act, unless the context requires otherwise,—
       (i) by a person erecting a building or otherwise; or
       (ii) by an associated person erecting a building or otherwise
   - **imputation additional tax** means an amount of tax arising under section OB 71 (Imputation additional tax on leaving group of companies) or OB 72 (Imputation additional tax on joining wholly-owned group)
-  - **imputation credit** —
-    (a) means a credit referred to in section OA 5(2) (Credits):
-    (b) is further defined in section CD 16(4) (Certain dividends not increased by tax credits) for the purposes of that section:
-    (c) is further defined in section CD 17(4) (Credit transfer notice) for the purposes of that section
+  - **imputation credit** means a credit referred to in section OA 5(2) (Credits)
   - **imputation credit account** means the account referred to in section OA 2(1)﻿(a) (Memorandum accounts)
   - **imputation debit** means a debit referred to in section OA 6(2) (Debits)
   - **imputation group** means, at a time, an imputation group formed under section FN 7 (Forming imputation groups)
@@ -47491,7 +47545,7 @@ In this Act, unless the context requires otherwise,—
   - **prescribed investor rate** , for a multi-rate PIE and an investor, means an applicable tax rate set out in schedule 6, tables 1 and 1B (Prescribed rates: PIE investments and retirement scheme contributions), modified as necessary by section HM 56(2) (Prescribed investor rates: schedular rates) or HM 57B (Prescribed investor rates for new residents)
   - **prescribed period**
   - **prescribed proportion**
-  - **prescribed rate of interest** means the rate of interest declared by regulations made under section RA 21(3) (Regulations) to be the rate applying to employment-related loans
+  - **prescribed rate of interest** means the rate of interest determined by the Commissioner under section 90B of the Tax Administration Act 1994 to be the rate applying to employment-related loans
   - **present value (gross)** , for a life insurer calculating the outstanding claims reserving amount for a claim under an insurance contract, has the meaning given by section EY 24(5) (Outstanding claims reserving amount: non-participation policies not annuities)
   - **present value (net)** means—
     (a) a present value calculated using the risk-free rate of return as the discount rate, net of tax; but
@@ -47622,6 +47676,7 @@ In this Act, unless the context requires otherwise,—
       (iii) life insurance companies; or
       (iv) superannuation funds; or
       (v) portfolio investment entities
+  - **publish** , as a requirement for the Commissioner, has the meaning set out in section 14H of the Tax Administration Act 1994
   - **QC continuity period** is defined in section HA 6(5) (Corporate requirements) for the purposes of that section
   - **QCP transitional process** is defined in section HZ 4B(7) (Qualifying companies: transition into partnership)
   - **QCST transitional process** is defined in section HZ 4D(4) (Qualifying companies: transition into sole traderships)
@@ -48552,7 +48607,7 @@ In this Act, unless the context requires otherwise,—
     (bc) means, for a person and a limited partnership that is treated as a company under section YB 16B (Limited partnerships treated as companies) and a time, and for the purposes of sections YB 2 and YB 3 (which relate to associated persons) and YC 4 (Look-through rule for corporate shareholders), the partnership share the person has in a right, obligation, or other property, status, or thing of that limited partnership at the time:
     (bd) means, for a person and a partnership that is treated as a company under section YC 4(9) or YC 11(5) (No look-through rule for companies in certain cases) and a time, the partnership share the person has in a right, obligation, or other property, status, or thing of that partnership at the time:
     (c) in section YC 13(4) and (5) (Corporate spin-outs), means, for a person and a company and a time, the percentage voting interest that the person is treated as holding in the company under section YC 2 (Voting interests), as modified by section YC 13(7)
-  - **water organisation** is defined in section CW 55BC (Water organisations) for the purposes of that section and section CW 39 (Local authorities)
+  - **water organisation** is defined in section CW 55BC (Water organisations)
   - **water services** is defined in section CW 55BC (Water organisations) for the purposes of that section
   - **WFF tax credit** means Working for Families tax credit and is defined in section MA 8 (Some definitions for family scheme)
   - **wholly-owned group** has the same meaning as
@@ -48606,16 +48661,14 @@ In this Act, unless the context requires otherwise,—
 ### YA 2 Meaning of income tax varied
 DTA and time bar provisions: ancillary tax
 (1) The term income tax includes ancillary tax in—
-  (a) section BB 3(2) (Overriding effect of certain matters):
+  (a)
   (b) section BH 1 (Double tax agreements):
-  (c) sections 107A to 108B of the Tax Administration Act 1994.
+  (c) sections 107A and 108 of the Tax Administration Act 1994.
 DTA provisions: tax recovery agreements
-(2) The term income tax includes a tax that is prescribed in a tax recovery agreement made under Part 10A of the Tax Administration Act 1994 in—
-  (a) section BB 3(2):
-  (b) section BH 1.
+(2) The term income tax includes a tax that is prescribed in a tax recovery agreement made under Part 10A of the Tax Administration Act 1994 in section BH 1 (Double tax agreements).
 General tax avoidance provisions: ancillary tax
 (3) The term income tax includes ancillary tax, but not excluded ancillary tax, in—
-  (a) section BB 3(1):
+  (a)
   (b) sections BG 1 (Tax avoidance), GA 1 (Commissioner’s power to adjust), and GB 54 (Arrangements involving establishments):
   (c) the definition of tax avoidance.
 Modified application of section GA 1
