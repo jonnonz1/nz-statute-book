@@ -1,5 +1,5 @@
 # Māori Fisheries Amendment Act 2024
-_Consolidation as at 2024-07-26_
+_Consolidation as at 2026-03-31_
 
 ## Preamble
 (1) The first review of entities established under the Māori Fisheries Act 2004 was required by section 114(2) to be completed no later than the end of the 11th year after the commencement of that Act:
@@ -1096,11 +1096,20 @@ Transfer
 (2) Those ordinary shares must, for those purposes, be taken to have been acquired by the transferee at their market value at the time of the transfer.
 
 ### 7 Shareholder continuity
-(1) This clause applies to ordinary shares that—
+Ordinary shares transferred from Te Ohu Kai Moana Trustee Limited
+(1) Subclause (2) applies to ordinary shares that—
   (a) were income shares held by Te Ohu Kai Moana Trustee Limited; and
   (b) become ordinary shares under clause 2; and
   (c) a transferee receives under a transfer under clause 3(3)﻿(a) or (b).
-(2) For the purposes of the continuity provisions (as defined in section YA 1 of the Income Tax Act 2007), the transferee must be taken, on and after the date of the transfer, to have held the ordinary shares without interruption since Te Ohu Kai Moana Trustee Limited acquired the income shares.
+(2) For the purposes of the continuity provisions defined in section YA 1 of the Income Tax Act 2007 (the continuity provisions), the transferee must be taken, on and after the date of the transfer, to have held the ordinary shares without interruption since the date Te Ohu Kai Moana Trustee Limited acquired the income shares.
+Ordinary shares that were income shares
+(3) Subclause (4) applies to ordinary shares that—
+  (a) were income shares held by a holder other than Te Ohu Kai Moana Trustee Limited; and
+  (b) become ordinary shares under clause 2.
+(4) For the purposes of the continuity provisions, the holder must be taken, on and after the date the income shares become ordinary shares, to have held the ordinary shares without interruption since the date the holder acquired the income shares.
+Cancelled voting shares
+(5) Subclause (6) applies to the voting shares held by Te Ohu Kai Moana Trustee Limited that are cancelled under clause 2(1).
+(6) For the purposes of the continuity provisions, the holders of the ordinary shares referred to in subclause (3) must be taken, on and after the date of cancellation of the voting shares, to have held the voting shares without interruption from the date Te Ohu Kai Moana Trustee Limited acquired the shares until the date of cancellation, with each being allocated a proportion of the voting shares the same as the proportion they hold of the total number of ordinary shares.
 
 ### 8 Available subscribed capital
 The reference in section 154(1) to settlement assets transferred under Part 3 of this Act must be taken to include—
