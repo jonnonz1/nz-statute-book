@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2026-03-31_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -2760,8 +2760,11 @@ For the purposes of this Part, the Corporation may determine—
 
 ### 245 Agent to whom levies may be paid
 (1) If the Corporation so requires, a person must pay levies (or any part of any levy) payable under this Act to the Commissioner as agent for the Corporation.
-(2) The Commissioner must, after deducting any agreed collection fee, pay the balance of levies to the Corporation not later than the end of the month following the month in which those levies are received.
-(3) The Commissioner must, after deducting any agreed collection fee, pay to the Corporation, at intervals agreed between the Commissioner and the Corporation, penalties payable in respect of combined tax and earner levy deductions as is estimated by the Commissioner to be attributable to earner levy deductions.
+(2) The Commissioner must, for an agreed collection fee, pay to the Corporation—
+  (a) the actual amount of the levies, and any penalties in respect of those levies, collected by the Commissioner; or
+  (b) if the actual amount cannot be accurately determined, an amount calculated in accordance with a formula agreed between the Commissioner and the Corporation.
+(3) The formula must provide for a close approximation of the amount of the levies and penalties collected based on previous years’ collection rates.
+(3A) The Commissioner must pay the amounts payable under this section to the Corporation on the dates agreed between the Commissioner and the Corporation. As far as reasonably practicable, these dates must align with the timing of payments received by the Commissioner from employers.
 (4) If the Commissioner is acting as agent for the Corporation under this section, the provisions of the Tax Administration Act 1994, so far as they are applicable, apply as if—
   (a) this Act were one of the Inland Revenue Acts and the levy were a tax or duty under one of the Inland Revenue Acts; and
   (b) every offence under the Tax Administration Act 1994 were an offence against this Act.
@@ -3768,10 +3771,7 @@ A person who commits an offence against this Act or any regulations made under i
   (l) establishing a system for differential levies, for the purposes of the Motor Vehicle Account, for categories referred to in—
     (i) section 216(1); or
     (ii) section 216(2):
-  (m) setting, in relation to a prescribed period, a portion of the Work Account, the Motor Vehicle Account, or the Earners' Account that is necessary to achieve,—
-    (i)
-    (ii)
-    (iii)
+  (m)
   (ma) prescribing the manner of payment of the Motorcycle Safety levy for the purposes of section 217(3):
   (n) prescribing classes of levy payers for the purposes of the Treatment Injury Account:
   (o) prescribing exempt amounts of levy for the purpose of section 244, which amounts may differ depending on whether the amount invoiced is for—
@@ -3786,7 +3786,7 @@ A person who commits an offence against this Act or any regulations made under i
 (3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 330 Consultation requirements for regulations relating to classifications, risk rating, or treatment injury
-The Minister may not make any recommendation in respect of regulations made under section 329(f) or (g) or (l)﻿(i) or (ma), or in relation to the Treatment Injury Account, without first consulting such persons or organisations as the Minister considers appropriate having regard to the subject matter of the proposed regulations.
+The Minister may not make any recommendation in respect of regulations made under section 329(1)﻿(f) or (g) or (l)﻿(i) or (ma), or in relation to the Treatment Injury Account, without first consulting such persons or organisations as the Minister considers appropriate having regard to the subject matter of the proposed regulations.
 
 ### 331 Consultation and other requirements for regulations relating to levy setting
 (1) The Minister may not recommend the making of regulations under this Act prescribing the rates of levies unless the Minister has first received and considered a recommendation from the Corporation made in accordance with the provisions of this section.
