@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2024–25, Emergency Response, and Remedial Measures) Act 2025
-_Consolidation as at 2026-03-30_
+_Consolidation as at 2026-03-31_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2024–25, Emergency Response, and Remedial Measures) Act 2025.
@@ -2019,7 +2019,8 @@ After section 185T, insert:Crypto-asset reporting frameworkRequirements for repo
     (d) despite Section II, paragraph G, the information pursuant to Section II, paragraph A must be reported within 3 months of the end of the tax year to which the information relates:
     (e) despite Section III, paragraph D, subparagraph 3, a reporting crypto-asset service provider must maintain all documentation and data for a period of not less than 7 years after the end of the period within which the reporting crypto-asset service provider must report the information required to be reported pursuant to Section II:
     (f) the relevant date for the definition of “Preexisting Individual Crypto-Asset User” is 31 March 2026 (refer: Section IV, paragraph D, subparagraph 4):
-    (g) the relevant date for the definition of “Preexisting Entity Crypto-Asset User” is 31 March 2026 (refer: Section IV, paragraph D, subparagraph 6).
+    (g) the relevant date for the definition of “Preexisting Entity Crypto-Asset User” is 31 March 2026 (refer: Section IV, paragraph D, subparagraph 6):
+    (h) despite Section IV, paragraph F, subparagraph 1, the term “Partner Jurisdiction” means any jurisdiction, other than New Zealand, that has put in place equivalent legal requirements and that is included in a list published by New Zealand.
 
 ### 197 Section 226 amended (Power to extend time for doing anything under Act)
 Replace section 226(1) and (2) with:
