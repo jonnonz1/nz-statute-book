@@ -1,5 +1,5 @@
 # Fast-track Approvals Act 2024
-_Consolidation as at 2026-03-13_
+_Consolidation as at 2026-03-31_
 
 ### 1 Title
 This Act is the Fast-track Approvals Act 2024.
@@ -315,16 +315,20 @@ This Act binds the Crown.
 
 **Steps before lodging referral application**
 
-### 11 Consultation requirements for referral application
-(1) Before lodging a referral application, the applicant must consult—
-  (a) the relevant local authorities; and
-  (b) any relevant iwi authorities, hapū, and Treaty settlement entities, including—
-    (i) iwi authorities and groups that represent hapū that are parties to relevant Mana Whakahono ā Rohe or joint management agreements; and
-    (ii) the tangata whenua of any area within the project area that is a taiāpure-local fishery, a mātaitai reserve, or an area that is subject to bylaws or regulations made under Part 9 of the Fisheries Act 1996; and
-  (c) any relevant applicant groups with applications for customary marine title under the Marine and Coastal Area (Takutai Moana) Act 2011; and
-  (d) ngā hapū o Ngāti Porou, if the project area is within or adjacent to, or the project would directly affect, ngā rohe moana o ngā hapū o Ngāti Porou; and
-  (e) the relevant administering agencies; and
-  (f) if the proposed approvals for the project are to include an approval described in section 42(4)﻿(f) (land exchange), the holder of an interest in the land that is to be exchanged by the Crown.
+### 11 Consultation and notification requirements for referral application
+(1) Before lodging a referral application, the applicant must—
+  (a) consult—
+    (i) any relevant applicant groups with applications for customary marine title under the Marine and Coastal Area (Takutai Moana) Act 2011; and
+    (ii) ngā hapū o Ngāti Porou, if the project area is within or adjacent to, or the project would directly affect, ngā rohe moana o ngā hapū o Ngāti Porou; and
+  (b) notify in writing—
+    (i) the relevant local authorities; and
+    (ii) any relevant iwi authorities, hapū, and Treaty settlement entities, including—
+      (A) iwi authorities and groups that represent hapū that are parties to relevant Mana Whakahono ā Rohe or joint management agreements; and
+      (B) the tangata whenua of any area within the project area that is a taiāpure-local fishery, a mātaitai reserve, or an area that is subject to bylaws or regulations made under Part 9 of the Fisheries Act 1996; and
+    (iii) the relevant administering agencies; and
+    (iv) if the proposed approvals for the project are to include an approval described in section 42(4)﻿(f) (land exchange), the holder of an interest in the land that is to be exchanged by the Crown; and
+  (c) give the persons and groups referred to in paragraph (b) 20 working days to respond to the notice.
+(1A) The applicant must not lodge the referral application until each 20-working-day period given under subsection (1)﻿(c) has expired.
 (2) If a referral application is to be lodged by more than 1 person, any 1 of those persons may comply with this section on behalf of all of them.
 
 ### 12 Notice of request to grant right of access for proposed access arrangement
@@ -360,7 +364,7 @@ Information requirements
   (g) a statement of whether a part of the project is proposed as an alternative project in itself and, if so,—
     (i) a description of that part of the project; and
     (ii) an explanation of how that part of the project meets the criteria in section 22:
-  (h) a description of the anticipated and known adverse effects of the project on the environment:
+  (h) a description of the anticipated and known adverse effects of the project on the environment and the significance of those adverse effects:
   (i) a statement of any activities involved in the project that are prohibited activities under the Resource Management Act 1991:
   (j) a list of the persons and groups the applicant considers are likely to be affected by the project, including—
     (i) relevant local authorities:
@@ -372,8 +376,9 @@ Information requirements
     (vii) relevant applicant groups under the Marine and Coastal Area (Takutai Moana) Act 2011:
     (viii) persons with a registered interest in land that may need to be acquired under the Public Works Act 1981:
   (k) a summary of—
-    (i) the consultation undertaken for the purposes of section 11 and any other consultation undertaken on the project with the persons and groups referred to in paragraph (j); and
+    (i) the consultation undertaken for the purposes of section 11(1)﻿(a) and any other consultation undertaken on the project with the persons and groups referred to in paragraph (j); and
     (ii) how the consultation has informed the project:
+  (ka) a summary of how any responses to a notice given under section 11(1)﻿(b) have informed the project:
   (l) a list of any Treaty settlements that apply to the project area, and a summary of the relevant principles and provisions in those settlements:
   (m) a description of any processes already undertaken under the Public Works Act 1981 in relation to the project:
   (n) a statement of any relevant principles or provisions in the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019:
@@ -404,7 +409,8 @@ Information requirements
     (iii) an approval described in section 42(4)﻿(c) (certificate of compliance), the information specified in clause 4 of Schedule 5:
     (iv) an approval described in section 42(4)﻿(e) (concession), the information specified in clause 2 of Schedule 6:
     (v) an approval described in section 42(4)﻿(f) (land exchange), the information specified in clause 23 of Schedule 6:
-    (vi) an approval described in section 42(4)﻿(a) or (d) where the project includes a standard freshwater fisheries activity, or an approval described in section 42(4)﻿(j) (complex freshwater fisheries activity approval), the information specified in clause 2 of Schedule 9:
+    (vi) an approval described in section 42(4)﻿(a) or (d) in relation to a project that includes a standard freshwater fisheries activity, the information specified in clause 4A of Schedule 5:
+    (via) an approval described in section 42(4)﻿(j) (complex freshwater fisheries activity approval), the information specified in clause 2 of Schedule 9:
     (vii) an approval described in section 42(4)﻿(k) (marine consent), the information specified in clause 2 of Schedule 10:
     (viii) an approval described in section 42(4)﻿(l) or (m) (access arrangement), the information specified in clause 2 of Schedule 11:
     (ix) an approval described in section 42(4)﻿(n) (mining permit), the information specified in clause 15 of Schedule 11.
@@ -421,8 +427,13 @@ Other matters
     (ii) does not appear to involve an ineligible activity; and
   (c) any fee, charge, or levy payable under regulations in respect of the application is paid.
 (3) For the purposes of subsection (2)﻿(b)﻿(ii), an activity that could be the subject of a determination under section 23 or 24 is not considered to be an ineligible activity.
+Further information
+(3A) The responsible agency may request further information from the applicant for the purposes of subsection (1).
+(3B) If the responsible agency requests further information from the applicant, the time period specified in subsection (1) ceases to run until the applicant provides the information or until the end of the fifth working day after the date of the request (whichever occurs first).
+If referral application complies with subsection (2)
 (4) If the responsible agency decides that the referral application complies with subsection (2), the responsible agency must provide the application to the Minister.
-(5) If the responsible agency decides that the referral application does not comply with that subsection, the responsible agency must immediately return the application to the applicant, with written reasons for returning it.
+If referral application does not comply with subsection (2)
+(5) If the responsible agency decides that the referral application does not comply with subsection (2), the responsible agency must immediately return the application to the applicant, with written reasons for returning it.
 (6) If a referral application is lodged again with the responsible agency after it has returned the application,—
   (a) that application must be treated as a new referral application; and
   (b) the time period specified in subsection (1) begins again for the responsible agency.
@@ -451,17 +462,24 @@ If the Minister receives a referral application from the responsible agency unde
 ### 17 Minister invites comments
 (1) The Minister must copy the application to, and invite written comments from,—
   (a) the relevant local authorities; and
-  (b) the Minister for the Environment and other relevant portfolio Ministers; and
+  (b) the following Ministers:
+    (i) the Minister for the Environment:
+    (ii) the Minister for Māori Crown Relations: Te Arawhiti:
+    (iii) the Minister for Māori Development:
+    (iv) other relevant portfolio Ministers; and
   (c) the relevant administering agencies; and
   (d) the Māori groups identified in the list provided to the Minister under subsection (2); and
   (e) the owners of Māori land in the project area.
 (2) Before the Minister invites comments under subsection (1), the responsible agency must provide the Minister with a list of the Māori groups referred to in section 18(2).
-(3) Without limiting subsection (1), a local authority must provide comments advising of—
-  (a) any applications that have been lodged with the local authority that would be competing applications if a substantive application for the project were lodged; and
-  (b) in relation to any proposed approval of the kind described in section 42(4)﻿(a) (resource consent), any existing resource consents of the kind referred to in section 30(3)﻿(a).
-(4) Without limiting subsection (1)﻿(b), if the project area includes land within a World Heritage Area, the Minister of Conservation is a relevant portfolio Minister under that subsection.
+(3) A local authority—
+  (a) must provide comments advising of—
+    (i) any applications that have been lodged with the local authority that would be competing applications if a substantive application for the project were lodged; and
+    (ii) in relation to any proposed approval of the kind described in section 42(4)﻿(a) (resource consent), any existing resource consents of the kind referred to in section 30(3)﻿(a); and
+  (b) may provide other comments, but only if those comments are relevant to the application and the decision on the application that the Minister is required to make under section 21.
+(3A) Any comments made by an administering agency must be relevant to the application and the decision on the application that the Minister is required to make under section 21.
+(4) Without limiting subsection (1)﻿(b)﻿(iv), if the project area includes land within a World Heritage Area, the Minister of Conservation is a relevant portfolio Minister under that subsection.
 (5) The Minister may also copy the application to, and invite written comments from, any other person.
-(6) Anyone who is invited to provide written comments under this section has 20 working days from the receipt of the copy of the application to do so.
+(6) Anyone who is invited to provide written comments under this section has 15 working days from the receipt of the copy of the application to do so.
 (7) The Minister—
   (a) must consider any comments received within that time frame:
   (b) is not required to consider any comments received after that time frame, but may do so, in the Minister's absolute discretion, as long as the Minister has not already made a decision under section 21.
@@ -470,7 +488,7 @@ If the Minister receives a referral application from the responsible agency unde
   - **World Heritage Convention** means the United Nations Convention Concerning the Protection of the World Cultural and Natural Heritage, done at Paris on 16 November 1972.
 
 ### 18 Report on Treaty settlements and other obligations
-(1) The Minister must, for a referral application, obtain and consider a report that is prepared by the responsible agency in accordance with this section.
+(1) The Minister must, for a referral application, consider a report that is prepared and provided by the responsible agency in accordance with this section.
 (2) The report must include the following matters:
   (a) any relevant iwi authorities and relevant Treaty settlement entities:
   (b) any Treaty settlements that relate to land, species of plants or animals, or other resources within the project area:
@@ -489,10 +507,9 @@ If the Minister receives a referral application from the responsible agency unde
     (i) comments received by the Minister after inviting comments from Māori groups under section 17(1)﻿(d) and (e); and
     (ii) any further information received by the Minister from those groups:
   (m) the responsible agency's advice on whether, due to any of the matters identified in this section, it may be more appropriate to deal with the matters that would be authorised by the proposed approvals under another Act or Acts.
-(3) In preparing the report required by this section, the responsible agency must—
-  (a) consult relevant departments; and
-  (b) provide a draft of the report to the Minister for Māori Development and the Minister for Māori Crown Relations: Te Arawhiti.
-(4) Those Ministers must respond to the responsible agency within 10 working days after receiving the draft report.
+(3) In preparing the report required by this section, the responsible agency must consult relevant departments.
+(4) The responsible agency must provide the report to the Minister not later than 20 working days after the date for providing comments under section 17(6).
+(5) However, if the Minister requests further information about a referral application under section 20, the time period specified in subsection (4) ceases to run for the period of time specified in the request.
 
 ### 19 Report in relation to use of public conservation land
 (1) If a project area includes public conservation land, the Minister must, for a referral application, obtain and consider a report that is prepared by the Director-General of Conservation in accordance with this section.
@@ -693,10 +710,12 @@ Minister may decline to make determination for any reason
 
 ### 29 Pre-lodgement requirements for listed project
 (1) Before lodging a substantive application for a listed project, the authorised person for the project must—
-  (a) consult the persons and groups referred to in section 11; and
+  (a) consult the groups referred to in section 11(1)﻿(a); and
+  (aa) notify in writing the persons and groups referred to in section 11(1)﻿(b) and give them 20 working days to respond to the notice; and
   (b) if the substantive application seeks an approval described in section 42(4)﻿(l) or (m) (access arrangement), comply with section 59(1) and (2) of the Crown Minerals Act 1991 (which applies as if a reference to an access arrangement under that Act were a reference to an access arrangement under this Act).
+(1A) The authorised person must not lodge the substantive application until each 20-working-day period given under subsection (1)﻿(aa) has expired.
 (2) If there is more than 1 authorised person for a listed project,—
-  (a) any 1 of the authorised persons may comply with paragraph (a) of subsection (1) on behalf of all of them:
+  (a) any 1 of the authorised persons may comply with paragraph (a) or (aa) of subsection (1) on behalf of all of them:
   (b) the authorised person who is the proposed holder of the approval referred to in paragraph (b) of subsection (1) must comply with that paragraph.
 
 **Preliminary steps for application for resource consent**
@@ -818,14 +837,34 @@ At any time before the Director-General of Conservation provides a report under 
 
 **Ministerial powers**
 
+### 37A Listed projects proceeding in stages
+(1) The authorised person for a listed project that is planned to proceed in stages may apply to the Minister for a determination that the authorised person may lodge a separate substantive application for a specified stage of the project.
+(2) An application under subsection (1) must contain—
+  (a) an outline of the nature and timing of the specified stage to which the application relates and any other stages of the project; and
+  (b) an explanation of how the specified stage meets the criteria in section 22.
+(3) An application must not be made unless any fee, charge, or levy payable under regulations in respect of the application is paid.
+(4) After receiving an application, the Minister may ask the authorised person and any other person or body to provide further information about the specified stage of the project within the time frame specified in the request.
+(5) The Minister—
+  (a) must consider any information received in response to a request under subsection (4) within the time frame specified in the request; and
+  (b) is not required to consider any information received after that time frame but may do so, in the Minister’s absolute discretion, as long as the Minister has not already decided whether to make the determination applied for.
+(6) If the Minister is satisfied that the specified stage of the project would meet the criteria in section 22 if considered as a stand-alone project, the Minister—
+  (a) may determine that the authorised person may lodge a separate substantive application for that stage; and
+  (b) must notify the following of that determination:
+    (i) the authorised person for the project:
+    (ii) the EPA.
+(7) If the Minister declines to make the determination applied for, the Minister must notify the authorised person for the project of the Minister’s decision and the reasons for that decision.
+(8) If there is more than 1 authorised person for the project,—
+  (a) any 1 of the authorised persons may make an application under subsection (1) on behalf of all of them; and
+  (b) references to an authorised person in this section must be read as references to every authorised person who would be required by section 42(2)﻿(b) to jointly lodge the substantive application for the specified stage of the project.
+
 ### 38 Minister may determine that project is priority
-(1) Before a substantive application is lodged for a listed project or a referred project, the Minister may determine that the project is a priority project—
+(1) At any time before a panel is set up for a substantive application (including before a substantive application is lodged), the Minister may determine that the listed project or the referred project to which the application relates is a priority project—
   (a) on application of the authorised person for the project; or
-  (b) on the Minister's own initiative but with the written agreement of that authorised person.
+  (b) on the Minister’s own initiative but with the written agreement of that authorised person.
 (2) The application must not be made unless any fee, charge, or levy payable under regulations in respect of the application is paid.
 (3) The Minister may make the determination if the Minister is satisfied that—
   (a) the project needs to be progressed urgently; and
-  (b) there is a risk that, if a substantive application for the project is lodged, a panel may not be set up within a period that reflects the urgency of the project; and
+  (b) there is a risk that a panel may not be set up within a period that reflects the urgency of the project; and
   (c) there is no information before the Minister to indicate that the substantive application would have a competing application.
 (4) The Minister must give written notice of a decision under this section, and the reasons for it, to—
   (a) the authorised person; and
@@ -873,6 +912,7 @@ Sections 53 to 55 do not apply in relation to the part of a substantive applicat
 ### 42 Authorised person may lodge substantive application for approvals
 (1) The authorised person for a listed project or a referred project may lodge with the EPA—
   (a) 1 substantive application for the project; or
+  (aa) 1 substantive application for a stage of a listed project that the Minister has determined, under section 37A(6)﻿(a), may be lodged as a separate substantive application; or
   (b) in the case of a referred project whose referral application was accepted under section 21(1)﻿(a), 1 substantive application for each stage of the project.
 (2) A substantive application must—
   (a) comply with section 43; and
@@ -883,14 +923,18 @@ Sections 53 to 55 do not apply in relation to the part of a substantive applicat
 (4) A substantive application may seek 1 or more of the following matters (the approvals):
   (a) a resource consent that would otherwise be applied for under the Resource Management Act 1991 (but see subsection (5)):
   (b) a change or cancellation of a resource consent condition that would otherwise be applied for under the Resource Management Act 1991 (but see subsection (6)):
-  (c) a certificate of compliance that would otherwise be applied for under the Resource Management Act 1991 (but see subsection (7)):
+  (c) a certificate of compliance that would otherwise be applied for under the Resource Management Act 1991 (but see subsections (7) and (7A)):
   (d) a designation or an alteration to an existing designation for which a notice of requirement would otherwise be lodged under the Resource Management Act 1991:
   (e) a concession as defined in clause 1 of Schedule 6:
   (f) a land exchange (but see subsection (8)):
   (g) an amendment to or revocation of a conservation covenant as defined in clause 41 of Schedule 6:
   (h) a wildlife approval as defined in clause 1 of Schedule 7:
   (i) an archaeological authority described in section 44(a) or (b) of the Heritage New Zealand Pouhere Taonga Act 2014 that would otherwise be applied for under that Act (but see subsection (9)):
-  (j) an approval or a dispensation that would otherwise be applied for under regulation 42 or 43 of the Freshwater Fisheries Regulations 1983 in respect of a complex freshwater fisheries activity:
+  (j) an approval, a dispensation, or an authorisation that would otherwise be applied for under any of the following in respect of a complex freshwater fisheries activity:
+    (i) regulation 42 of the Freshwater Fisheries Regulations 1983 (culvert or ford):
+    (ii) regulation 43 of the Freshwater Fisheries Regulations 1983 (dam or diversion structure):
+    (iii) regulation 65(2) of the Freshwater Fisheries Regulations 1983 (noxious fish):
+    (iv) section 26ZM(2)﻿(a) or (3)﻿(b) of the Conservation Act 1987 (fish salvage activities):
   (k) a marine consent that would otherwise be applied for under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012:
   (l) an initial access arrangement or a variation to an existing access arrangement that would otherwise be applied for under section 61 of the Crown Minerals Act 1991 (but see subsection (10)):
   (m) an access arrangement that would otherwise be applied for under section 61B of the Crown Minerals Act 1991 or a variation to an access arrangement granted under that section:
@@ -902,6 +946,7 @@ Sections 53 to 55 do not apply in relation to the part of a substantive applicat
   (a) the substantive application also seeks an approval described in subsection (4)﻿(a) or (d); and
   (b) the change or cancellation is material to the implementation or delivery of the project.
 (7) A substantive application may seek an approval described in subsection (4)﻿(c) only if the substantive application also seeks an approval described in subsection (4)﻿(a) or (d).
+(7A) A substantive application that, under subsection (7), seeks an approval described in subsection (4)﻿(a) or (d) may also seek an approval of that kind in relation to an activity that would not require a resource consent under the Resource Management Act 1991.
 (8) A substantive application that seeks an approval described in subsection (4)﻿(f) must comply with section 35(9).
 (9) A substantive application that seeks an approval described in subsection (4)﻿(i)—
   (a) may be made only if the application also seeks an approval described in subsection (4)﻿(a) or (d):
@@ -939,15 +984,22 @@ Sections 53 to 55 do not apply in relation to the part of a substantive applicat
   (h) must state whether the application relates to a priority project and, if so, include confirmation that, to the best of the applicant's knowledge, there are no competing applications; and
   (i) must be made by the deadline specified in the notice under section 28(3)﻿(d); and
   (j) must not lodge a substantive application unless any fee, charge, or levy payable under regulations in respect of the application is paid.
-(2) If a substantive application is for a listed project, it must also contain the information required by section 13(4) (other than section 13(4)﻿(b), (f)﻿(ii) and (iii), and (g)), which applies—
-  (a) as if the reference in section 13(4)﻿(k) to section 11 were a reference to section 29; and
-  (b) as if the reference in clause 2 of Schedule 11 to section 12(2) were a reference to section 29; and
-  (c) with any other necessary modifications.
+(2) If a substantive application is for a listed project, it must also contain the following:
+  (a) the information required by section 13(4) (other than section 13(4)﻿(b), (f)﻿(ii) and (iii), and (g)), which applies—
+    (i) as if the reference in section 13(4)﻿(k) to section 11(1)﻿(a) were a reference to section 29; and
+    (ii) as if the reference in section 13(4)﻿(ka) to section 11(1)﻿(b) were a reference to section 29; and
+    (iii) as if the reference in clause 2 of Schedule 11 to section 12(2) were a reference to section 29; and
+    (iv) with any other necessary modifications:
+  (b) if the project is planned to proceed in stages,—
+    (i) an outline of the nature and timing of the stages; and
+    (ii) a statement of whether a separate substantive application is to be lodged for each of the stages; and
+    (iii) an explanation of how each stage meets the criteria in section 22:
+  (c) the information that the applicant provided to the Minister when applying to have the project listed as a listed project and an explanation of how the substantive application is within the scope of the listed project.
 (3) The requirements referred to in subsection (1)﻿(e)﻿(ii) are those set out in,—
   (a) for an approval described in section 42(4)﻿(a) (resource consent), clauses 5 to 9 of Schedule 5:
   (b) for an approval described in section 42(4)﻿(b) (change or cancellation of resource consent condition), clause 10 of Schedule 5:
   (c) for an approval described in section 42(4)﻿(c) (certificate of compliance), clause 11 of Schedule 5:
-  (d) for an approval described in section 42(4)﻿(d) (designation), clause 12 of Schedule 5:
+  (d) for an approval described in section 42(4)﻿(d) (designation), clauses 9 and 12 of Schedule 5:
   (e) for an approval described in section 42(4)﻿(e) (concession), clause 3 of Schedule 6:
   (f) for an approval described in section 42(4)﻿(f) (land exchange), clause 27 of Schedule 6:
   (g) for an approval described in section 42(4)﻿(g) (conservation covenant), clause 42 of Schedule 6:
@@ -971,6 +1023,9 @@ Information required by section 43 must be specified in sufficient detail to sat
 
 **Steps by EPA after substantive application lodged**
 
+### 45A EPA must provide substantive application to panel convener
+The EPA must, within 5 working days after a substantive application is lodged, provide the application to the panel convener.
+
 ### 46 EPA decides whether substantive application is complete and within scope
 (1) The EPA must, in consultation with the relevant administering agencies and relevant consent authorities, decide whether a substantive application complies with subsection (2) within 15 working days after receiving it.
 (2) A substantive application complies with this subsection if—
@@ -980,9 +1035,16 @@ Information required by section 43 must be specified in sufficient detail to sat
   (b) the application relates solely to a listed project or a referred project; and
   (c) the EPA considers that, on the face of the application, the project does not appear to involve an ineligible activity; and
   (d) any fee, charge, or levy payable under regulations in respect of the application is paid.
-(3) If the EPA decides that the substantive application complies with subsection (2), the EPA must—
-  (a) give written notice of the decision to the applicant; and
-  (b) provide the application to the panel convener.
+Further information
+(2A) The EPA may request further information from the applicant for the purposes of subsection (1).
+(2B) If the EPA requests further information from the applicant, the time period specified in subsection (1) ceases to run until the applicant provides the information or until the end of the twentieth working day after the date of the request (whichever occurs first).
+(2C) If, in relation to a request for further information, an applicant requests information from the EPA, the EPA must, within any time frame specified by the applicant,—
+  (a) provide that information; or
+  (b) advise the applicant that the EPA does hold the information but cannot provide it in the specified time frame (if any); or
+  (c) advise the applicant that the EPA does not hold the information and, if the EPA knows where the information is held, advise the applicant accordingly.
+If substantive application complies with subsection (2)
+(3) If the EPA decides that the substantive application complies with subsection (2), it must give written notice of the decision to the applicant.
+If substantive application does not comply with subsection (2)
 (4) If the EPA decides that the substantive application does not comply with subsection (2), it must return the application immediately to the applicant, with written reasons for returning the application.
 (5) If a substantive application is lodged again with the EPA after the EPA has returned the application,—
   (a) that application must be treated as a new substantive application; and
@@ -993,27 +1055,43 @@ Information required by section 43 must be specified in sufficient detail to sat
   (a) whether a substantive application has any competing applications; and
   (b) if a substantive application seeks an approval described in section 42(4)﻿(a) (resource consent), whether there are any existing resource consents of the kind referred to in section 30(3)﻿(a) that are not identified in the substantive application.
 (2) The EPA must make a recommendation under subsection (1) within 10 working days after the EPA decides that the substantive application complies with section 46(2).
+(3) Subsection (2) does not prevent the EPA, before the EPA decides whether the substantive application complies with section 46(2), from undertaking work for the purpose of—
+  (a) making a recommendation under subsection (1); or
+  (b) if the Minister delegates to the EPA the power to make any or all decisions under section 47A(1) or (4), making that decision or those decisions (see section 47C).
+
+### 47A Minister decides whether there are competing applications or existing resource consents for same activity
 Competing applications
-(3) After receiving a recommendation under subsection (1)﻿(a), the Minister must decide whether the substantive application has a competing application.
-(4) If the Minister decides that the substantive application has a competing application, the Minister must give written notice of that decision to—
+(1) After receiving a recommendation under section 47(1)﻿(a), the Minister must decide whether the substantive application has a competing application.
+(2) If the Minister decides that the substantive application has a competing application, the Minister must give written notice of that decision to—
   (a) the consent authority or administering agency with which the competing application had been lodged; and
   (b) the applicant.
-(5) The Minister must be notified in writing by the following when a competing application has been determined and any rights of appeal that relate to that application have been exhausted or have expired:
+(3) The Minister must be notified in writing by the following when a competing application has been determined and any rights of appeal that relate to that application have been exhausted or have expired:
   (a) the EPA, if the competing application was made under this Act:
-  (b) the consent authority or administering agency referred to in subsection (4)﻿(a), if the competing application was made under a specified Act.
-(6) The Minister may give notice under subsection (7) if the Minister—
-  (a) considers that the substantive application has 1 or more competing applications and the Minister has received notice under subsection (5) for each of those competing applications; or
-  (b) does not consider that the substantive application has any competing applications.
-(7) The EPA must not provide the substantive application to the panel convener before the Minister notifies the EPA in writing that a panel may be set up for the substantive application.
+  (b) the consent authority or administering agency referred to in subsection (2)﻿(a), if the competing application was made under a specified Act.
 Existing resource consents for same activity
-(8) After receiving a recommendation under subsection (1)﻿(b), the Minister must decide whether there are any existing resource consents of the kind referred to in section 30(3)﻿(a) that are not identified in the substantive application.
-(9) If the Minister decides that there are any existing resource consents of that kind, the EPA must return the application under section 46(4) (and section 46(5) applies accordingly).
-Delegation by Minister to EPA
-(10) The Minister may, in writing, delegate to the EPA the Minister's functions, powers, and duties under this section.
-(11) A delegation under subsection (10)—
+(4) After receiving a recommendation under section 47(1)﻿(b), the Minister must decide whether there are any existing resource consents of the kind referred to in section 30(3)﻿(a) that are not identified in the substantive application.
+(5) If the Minister decides that there are existing resource consents of that kind, the EPA must return the application under section 46(4) (and section 46(5) applies accordingly).
+
+### 47B Minister gives notice that panel may be set up
+(1) The Minister may notify the EPA in writing that a panel may be set up for a substantive application if the Minister—
+  (a) either—
+    (i) considers that the application has 1 or more competing applications and the Minister has received notice under section 47A(3) for each of those competing applications; or
+    (ii) does not consider that the application has any competing applications; and
+  (b) if applicable, decides that there are no existing resource consents of the kind referred to in section 30(3)﻿(a) that are not identified in the application.
+(2) On receiving a notice under this section, the EPA must—
+  (a) notify the panel convener in writing that a panel may be set up for the substantive application; and
+  (b) notify the applicant in writing that the panel convener has been notified under paragraph (a).
+
+### 47C Delegation of decision by Minister
+(1) The Minister may, in writing, delegate to the EPA the Minister’s functions, powers, and duties under section 47A or 47B.
+(2) A delegation under this section—
   (a) is revocable at will, but the revocation does not take effect until it is communicated in writing to the EPA; and
   (b) does not prevent the Minister from performing or exercising the functions, duties, or powers concerned.
-(12) If the Minister delegates to the EPA the power to make any or all decisions under subsection (3) or (8), the EPA must make those decisions within the 10-working-day time frame that applies under subsection (2) rather than making recommendations under subsection (1).
+(3) If the Minister delegates to the EPA the power to make any or all decisions under section 47A(1) or (4), the EPA must make those decisions within the 10-working-day time frame that applies under section 47(2) rather than making recommendations under section 47(1).
+(4) Subsection (5) applies if the Minister delegates to the EPA—
+  (a) the power to make any or all decisions under section 47A(1) or (4); and
+  (b) the power to notify under section 47B(1).
+(5) The EPA may comply with section 47B(2) without notifying itself of its decision or decisions under section 47B(1).
 
 ### 48 EPA requests recommendation in relation to aquaculture activities
 (1) This section applies if—
@@ -1022,20 +1100,22 @@ Delegation by Minister to EPA
     (i) the authorised person who is proposed to hold the approval does not hold a coastal permit under the Resource Management Act 1991 to occupy the relevant area of the coastal marine area for aquaculture activities; or
     (ii) that authorised person does hold a coastal permit of that kind but it has conditions specified under section 186H(3) of the Fisheries Act 1996; and
   (c) for an approval described in section 42(4)﻿(b) in relation to a coastal permit to occupy the relevant area of the coastal marine area for aquaculture activities, the coastal permit has conditions specified under section 186H(3) of the Fisheries Act 1996.
-(2) When the EPA provides the substantive application to the panel convener, the EPA must request that the relevant chief executive make a recommendation, in accordance with clauses 14 to 16 of Schedule 5, on the aquaculture decision to be made under section 80.
+(2) When the EPA notifies the panel convener under section 47B(2)﻿(a), the EPA must request that the relevant chief executive make a recommendation, in accordance with clauses 14 to 16 of Schedule 5, on the aquaculture decision to be made under section 80.
 (3) If the EPA sends 2 or more requests to the relevant chief executive at the same time, the EPA must indicate to the relevant chief executive the time at which the respective applications were received.
 (4) The EPA, at the direction of the panel that considers the substantive application, must notify the relevant chief executive of the date on which the panel intends to invite comments under section 53 at least 1 day before that date to allow the processes under clause 14 of Schedule 5 to occur at the same time.
 
 ### 49 EPA obtains section 18 report for listed project
 (1) This section applies to a substantive application that relates to a listed project.
-(2) When the EPA provides the substantive application to the panel convener, the EPA must request a report from the responsible agency that is prepared in accordance with section 18(2) and (3)﻿(a) (but does not contain the matters in section 18(2)﻿(l) and (m)).
+(2) When the EPA receives the substantive application, the EPA must request a report from the responsible agency that is prepared in accordance with section 18(2) and (3) (but does not contain the matters in section 18(2)﻿(l) and (m)).
 (3) The responsible agency must provide the report within 10 working days after receiving the request.
 
 **Steps by panel convener after receiving substantive application from EPA**
 
 ### 50 Panel convener sets up panel
-(1) The panel convener must set up a panel in accordance with Schedule 3 for each substantive application that the panel convener receives from the EPA.
-(2) If a substantive application relates to a priority project, the panel convener must set up a panel for that application before setting up a panel for any substantive application that does not relate to a priority project.
+(1) The panel convener must set up a panel in accordance with Schedule 3 for each substantive application in respect of which the panel convener receives a notice under section 47B(2)﻿(a).
+(2) If a substantive application relates to a priority project, the panel convener—
+  (a) must set up a panel for that application before setting up a panel for any other substantive application that does not relate to a priority project; but
+  (b) is not required to pause or delay work that is already underway in setting up a panel for another substantive application, unless the other substantive application is a competing application in relation to the priority application.
 
 ### 51 Panel convener obtains other advice and reports
 (1) After receiving a substantive application from the EPA, the panel convener must direct the EPA to obtain—
@@ -1071,10 +1151,16 @@ After setting up a panel for a substantive application, the panel convener must 
   (d) any other information received by the panel convener under section 28(4) that the panel convener considers will be necessary for the panel to consider, and make decisions on, the approvals sought in the application; and
   (e) the notice given under section 28 in relation to the project.
 
+**Step by panel after being set up**
+
+### 52A Panel commences work and notifies EPA
+(1) A panel must, not later than 5 working days after the appointment of all panel members, commence work on a substantive application.
+(2) The panel must notify the EPA of the date on which it commences work.
+
 **Opportunity for comment on substantive application**
 
 ### 53 Panel invites comments on substantive application
-(1) A panel must direct the EPA to, in accordance with this section, invite written comments on a substantive application not later than 10 working days after the panel is set up.
+(1) A panel must, not later than 10 working days after the date on which the panel commences work under section 52A(1), direct the EPA to invite written comments on a substantive application in accordance with this section.
 (2) Comments must be invited from—
   (a) the relevant local authorities; and
   (b) any relevant iwi authorities; and
@@ -1099,6 +1185,7 @@ After setting up a panel for a substantive application, the panel convener must 
     (vi) an approval described in section 42(4)﻿(l) or (m) (access arrangement), the persons listed in clause 5 of Schedule 11:
     (vii) an approval described in section 42(4)﻿(n) (mining permit), the person listed in clause 18 of Schedule 11; and
   (n) any persons or groups specified by the Minister under section 27(3)﻿(b)﻿(iii).
+(2A) Any comments made by a relevant local authority or a relevant administering agency must be relevant to the substantive application and the decision that the panel is required to make under section 81 on the approvals sought in the application.
 (3) Comments may be invited from any other person the panel considers appropriate.
 
 ### 54 General provisions relating to invitations given under section 53
@@ -1225,13 +1312,13 @@ Application of Local Government Official Information and Meetings Act 1987
 ### 65 Resumption in processing of substantive application following suspension under section 64
 (1) An applicant granted a suspension under section 64(3) may request in writing to the EPA that the processing of the substantive application be resumed.
 (2) If a request is made under subsection (1), the panel convener or the panel must resume processing the substantive application.
-(3) The panel may decide under section 66(2)﻿(b) to resume processing the substantive application in the absence of a request under subsection (1).
+(3) The panel convener or the panel may decide under section 66(2)﻿(b) to resume processing the substantive application in the absence of a request under subsection (1).
 (4) If the panel convener or a panel resumes processing a substantive application under subsection (2) or (3), the EPA must give written notice of that fact, specifying the date on which the panel convener or the panel resumed processing, to the persons or groups notified of the suspension under section 64(4).
 (5) A person referred to in section 64(4)﻿(b) or (c) must resume processing the substantive application if they receive a notice under subsection (4).
 
 ### 66 Return of substantive application
 (1) This section applies if 50 working days have elapsed since the processing of a substantive application was suspended under section 64(3).
-(2) A panel must decide whether to—
+(2) The panel convener or a panel must decide whether to—
   (a) return the substantive application to the applicant; or
   (b) resume processing the application.
 (3) The decision of the panel convener or a panel under this section must be notified in writing to—
@@ -1289,6 +1376,35 @@ Suspension of processing if advice commissioned
   (b) resume processing of the substantive application if they receive notice of the resumption.
 (6) This section does not limit section 67.
 
+**Reducing scope of substantive application**
+
+### 68A Panel may seek Minister’s determination on proposed reduction of scope
+(1) This section and section 68B apply if a substantive application has been lodged and the applicant wishes to reduce the scope of the application by withdrawing or modifying 1 or more approvals sought in it at any time before the panel makes its decisions on those approvals under section 81.
+(2) The applicant must give written notice of the proposed reduction of scope to the panel.
+(3) After receiving a notice, the panel may, but need not, submit the proposal to the Minister to determine whether, in its proposed reduced form, the project to which the application relates still has significant regional or national benefits.
+(4) If the panel does not submit the proposal to the Minister, the application proceeds in its proposed reduced form.
+
+### 68B Minister’s determination
+(1) The Minister, on receiving a proposal under section 68A(3), may determine that the project to which the substantive application relates may proceed in its proposed reduced form if satisfied that the project still has significant regional or national benefits.
+(2) Before making a determination, the Minister—
+  (a) may request further information about the application from the applicant or any other person to be provided within the time frame specified in the request; and
+  (b) must consider any information received within that time frame; and
+  (c) is not required to consider any information received after that time frame, but may do so, in the Minister’s absolute discretion, as long as the Minister has not already made the determination.
+(3) If the Minister determines that the application may proceed in its proposed reduced form,—
+  (a) the Minister must notify the panel and the EPA of the determination; and
+  (b) the panel must notify—
+    (i) the applicant; and
+    (ii) any persons and groups invited under section 53 to make written comments on the application; and
+    (iii) any persons and groups invited under section 35 to make written comments on any proposed land exchange relating to the application; and
+  (c) the application resumes.
+(4) If the Minister determines that the application may not proceed in its proposed reduced form, the Minister must—
+  (a) notify the panel, the EPA, and the persons and groups referred to in subsection (3)﻿(b) of the determination and the reasons for it; and
+  (b) direct the applicant to—
+    (i) proceed with the application in its original form; or
+    (ii) consider giving notice to the panel under section 68A in relation to a different reduction of scope; or
+    (iii) withdraw the application.
+(5) Any time frame under this Act that relates to the processing of an application excludes the period between the day on which the panel receives a notice under section 68A and the day on which the Minister gives notifications under subsection (3) or (4).
+
 **Draft decisions on approvals**
 
 ### 69 Panel provides draft decisions to applicant before declining approval
@@ -1326,6 +1442,7 @@ Suspension of processing if advice commissioned
 
 ### 72 Panel seeks comments from Minister for Māori Crown Relations: Te Arawhiti and Minister for Māori Development
 (1) Before a panel decides to grant or decline an approval under section 81, the panel must direct the EPA to invite comments from the Minister for Māori Crown Relations: Te Arawhiti and the Minister for Māori Development on the draft decision, including any draft conditions.
+(1A) The panel may comply with subsection (1) at the same time as it complies with section 70(1).
 (2) Those Ministers must be allowed 10 working days to comment on the draft decision, including any assessment made by the panel in relation to a relevant Treaty settlement and any draft conditions related to that assessment.
 (3) The EPA must provide any comments received under subsection (1) to the panel.
 
@@ -1383,8 +1500,10 @@ Before a panel makes a decision under section 81 on an approval referred to in s
   (b) if no time frame is set, within 30 working days after the date specified for receiving comments under section 53.
 (2) A time frame set by the panel convener for the purposes of subsection (1)﻿(a) must—
   (a) be set at or before the time the panel convener complies with section 52; and
-  (b) be a time frame that the panel convener considers is appropriate, having regard to the scale, nature, and complexity of the approvals sought in, and any other matters raised by, the substantive application; and
-  (c) be set after consulting the relevant administering agencies; and
+  (b) be a time frame that—
+    (i) the panel convener considers is appropriate, having regard to the scale, nature, and complexity of the approvals sought in, and any other matters raised by, the substantive application; but
+    (ii) does not exceed 90 working days after the date specified under section 54 for receiving comments under section 53, unless the applicant agrees in writing to the time frame; and
+  (c) be set after consulting the relevant administering agencies and relevant local authorities; and
   (d) be notified to the applicant.
 
 ### 80 Aquaculture decision required for certain coastal permits
@@ -1500,7 +1619,7 @@ Approval may be declined if adverse impacts out of proportion to regional or nat
     (iv) section 42(4)﻿(n) (mining permit), must comply with clauses 22 and 23(1) of Schedule 11.
 
 ### 88 Issue, service, and publication of decision documents
-(1) Each decision document that relates to a substantive application must be issued at the same time by being served on—
+(1) Each decision document that relates to a substantive application must be issued by being served on—
   (a) the applicant; and
   (b) if the relevant chief executive has made a recommendation on an aquaculture decision following a request under section 48 in respect of the substantive application, the relevant chief executive; and
   (c) for an approval described in section 42(4)﻿(i) (archaeological authority), the persons listed in clause 8 of Schedule 8; and
@@ -1508,6 +1627,7 @@ Approval may be declined if adverse impacts out of proportion to regional or nat
   (e) the relevant local authorities; and
   (f) the relevant administering agencies; and
   (g) other persons and authorities that the panel considers appropriate.
+(1A) Decision documents for 2 or more approvals sought in a substantive application may be issued at the same time or at different times at the discretion of the panel issuing them.
 (2) A decision document must be served together with advice as to the time within which an appeal may be lodged under section 99.
 (3) A decision document must be published on an internet site that is administered by or on behalf of the EPA and is publicly available as far as practicable and free of charge.
 (4) In complying with subsection (3), the EPA may withhold information if the EPA is satisfied that there would be good reason to withhold the information under the Official Information Act 1982 if the information were requested under that Act.
@@ -1573,7 +1693,7 @@ Despite section 90, if information sensitive to an iwi or a hapū is held by a r
 (1) This Act does not prevent any person from applying for an approval under a specified Act in relation to a listed project or a referred project.
 (2) However, a person must withdraw an application for an approval under a specified Act if they—
   (a) lodge a substantive application that seeks a corresponding approval under this Act for the same, or substantially the same, activity; and
-  (b) are notified by the EPA that the substantive application complies with section 46(2).
+  (b) are notified by the EPA that the panel convener has been notified under section 47B(2)﻿(a).
 (3) The person must withdraw the application within 5 working days after receiving the notice referred to in subsection (2).
 
 ### 95 Exercise of existing approval under specified Act while applying for approval under this Act
@@ -2230,7 +2350,7 @@ Delegations to associate panel conveners
 (10) This clause is subject to clause 7 (which imposes requirements regarding the qualifications of individual panel members and the collective knowledge and experience of the panel).
 
 ### 4 Chairperson of panel
-(1) The panel convener must appoint, as one of the members appointed under clause 3, a suitably qualified lawyer or planner with experience in relevant law to be the chairperson of a panel.
+(1) The panel convener must appoint, as one of the members appointed under clause 3, a suitably qualified lawyer or resource management planner to be the chairperson of a panel.
 (2) However, the panel convener may act as the chairperson of a panel instead of appointing another person as chairperson of the panel.
 (3) Despite subclauses (1) and (2), the panel convener may, if the circumstances require it, appoint a person who is accredited under section 39A of the Resource Management Act 1991 to be the chairperson of a panel.
 (4) In the event of an equality of votes, the chairperson of the panel has a casting vote.
@@ -2238,7 +2358,7 @@ Delegations to associate panel conveners
 (6) The panel may modify the requirements in subclauses (4) and (5) to provide for—
   (a) different requirements under relevant iwi participation legislation:
   (b) any increase in the number of panel members.
-(7) The panel convener may, but need not, consult the Minister before performing a duty or exercising a power referred to in subclause (1), (2), (3), or (6).
+(7) The panel convener may, but need not, consult the Minister before performing a duty or exercising a power referred to in subclause (1), (2), or (3).
 
 ### 5 Conduct of hearings and other procedural matters in context of Treaty settlements and other arrangements
 (1) This clause applies if any Treaty settlement Act, the Ngā Rohe Moana o Ngā Hapū o Ngāti Porou Act 2019, or any other iwi participation legislation, or any Mana Whakahono a Rohe or joint management agreement, includes procedural arrangements relating to the appointment of a decision-making body for hearings and other procedural matters, such as the following:
@@ -2264,7 +2384,7 @@ The panel convener may, at any time and in consultation with the Minister, appoi
 ### 7 Skills and experience of members of panel
 (1) The members of a panel—
   (a) must, collectively, have—
-    (i) knowledge, skills, and expertise relevant to the approvals sought in the substantive application; and
+    (i) knowledge, skills, and expertise relevant to the approvals sought in the substantive application, including, if practicable, knowledge, skills, and expertise in the sector to which the application relates (for example, mining or quarrying, housing and land development, or aquaculture); and
     (ii) expertise in environmental matters; and
   (b) must include at least 1 member who has an understanding of te ao Māori and Māori development.
 (2) A person is not ineligible for appointment as a panel member by reason only that the person is a member of a particular iwi or hapū (including an iwi or a hapū that is represented by an iwi authority that must be invited by the panel to comment on the application).
@@ -2338,6 +2458,11 @@ The information to be provided under section 13(4)﻿(y)﻿(ii) is information a
 ### 4 Information about certificate of compliance required in referral application
 The information required to be provided under section 13(4)﻿(y)﻿(iii) is information that shows the activity that the certificate of compliance is intended to cover can be done lawfully in the particular location without a resource consent.
 
+### 4A Information about standard freshwater fisheries activity
+The information required to be provided under section 13(4)﻿(y)﻿(vi) is the following:
+  (a) whether an in-stream structure is proposed (including formal notification of any dam or diversion structure) and the extent to which the proposed structure may impede fish passage; and
+  (b) whether any fish salvage activities are proposed.
+
 **Application requirements, etc, for substantive application**
 
 ### 5 Information required in consent application
@@ -2359,7 +2484,7 @@ The information required to be provided under section 13(4)﻿(y)﻿(iii) is inf
     (i) identification of the relevant provisions in those Treaty settlements; and
     (ii) a summary of any redress provided by those settlements that affects natural and physical resources relevant to the project or project area; and
   (j) a list of any relevant customary marine title groups, protected customary rights groups, ngā hapū o Ngāti Porou (where an application is within, adjacent to or directly affecting ngā rohe moana o ngā hapū o Ngāti Porou), or applicants under the Marine and Coastal Area (Takutai Moana) Act 2011; and
-  (k) the conditions that the applicant proposes for the resource consent; and
+  (k) any conditions that the applicant proposes for the resource consent; and
   (l) if a notice under section 30(3)﻿(b) or (5) has been received,—
     (i) a copy of that notice showing that it was received within the time frame specified in section 30(6)﻿(b); and
     (ii) if a notice has been received under section 30(5), any more up-to-date information that the applicant is aware of about the existing resource consent referred to in the notice.
@@ -2426,7 +2551,17 @@ Information required for reclamation consents
   (c) any part of the reclaimed area to be set aside as an esplanade reserve or esplanade strip.
 
 ### 9 Information required in application including standard freshwater fisheries activity
-For the purposes of section 43(3)﻿(a), a consent application for a project that includes a standard freshwater fisheries activity must include the information set out in clause 3 of Schedule 9.
+For the purposes of section 43(3)﻿(a) and (d), an application for a resource consent or a notice of requirement for a project that includes a standard freshwater fisheries activity must include the following information:
+  (a) in relation to the structure and any fish facility,—
+    (i) a description of the type of structure or fish facility:
+    (ii) the dimensions of the structure or fish facility:
+    (iii) the design of the structure or fish facility:
+    (iv) the placement of the structure or fish facility:
+    (v) the water flows:
+    (vi) the operating regime:
+  (b) the freshwater species and values present (with particular focus on threatened, data-deficient, and at-risk species as defined in the New Zealand Threat Classification System):
+  (c) the water quality and quantity in the surrounding habitat (at the proposed structure location, upstream and downstream):
+  (d) how the passage of fish will be provided for or impeded.
 
 ### 10 Information required in application for change or cancellation of condition
 For the purposes of section 43(3)﻿(b) an application for the change or cancellation of a condition must include the same information as required by clauses 5 to 9, and those clauses apply as if references to—
@@ -2443,7 +2578,7 @@ For the purposes of section 43(3)﻿(b) an application for the change or cancell
 
 ### 12 Information required in notice of requirement
 (1) For the purposes of section 43(3)﻿(d), a notice of requirement must include the following information:
-  (a) a description of the site to which the notice of requirement applies, including whether the site is within or adjacent to a statutory area (as defined in a relevant Treaty settlement Act); and
+  (a) a description and map of the site to which the notice of requirement applies, including whether the site is within or adjacent to a statutory area (as defined in a relevant Treaty settlement Act); and
   (b) information on the effects of the proposed project or work on the environment, together with a description of how any adverse effects will be mitigated; and
   (c) confirmation that the notice of requirement complies with section 46(2)﻿(a), (b), and (d); and
   (d) an assessment of the project or work against—
@@ -2454,7 +2589,7 @@ For the purposes of section 43(3)﻿(b) an application for the change or cancell
     (ii) a summary of any redress provided by those settlements that affects natural and physical resources relevant to the area to which the substantive application relates; and
   (f) the full name and address of—
     (i) each owner of the land to which the notice of requirement relates and of the land adjacent to that land; and
-    (ii) each person who, after reasonable inquiry, is known by the requiring authority to be an occupier of the land to which the notice relates and of the land adjacent to that land; and
+    (ii) each occupier of the land to which the notice of requirement relates and of land adjacent to that land whom the requiring authority is able to identify after reasonable inquiry; and
   (g) an assessment of whether the project or work and the designation sought are reasonably necessary for achieving the objectives of the requiring authority; and
   (h) any consideration of alternative sites, routes, or methods of undertaking the project or work; and
   (i) a list of the resource consents needed for the project or work and whether they have been applied for; and
@@ -2544,10 +2679,10 @@ When setting conditions on a consent, the provisions of Parts 6, 9, and 10 of th
 
 ### 19 Conditions on resource consent may deal with standard freshwater fisheries activity
 (1) A panel may set conditions on a consent in respect of a standard freshwater fisheries activity for which approval, dispensation, or authorisation is required, or for which a requirement may be imposed, under the following provisions:
-  (a) regulation 42 of the Freshwater Fisheries Regulations 1983:
-  (b) regulation 43 of the Freshwater Fisheries Regulations 1983:
-  (c) regulation 65(2) of the Freshwater Fisheries Regulations 1983:
-  (d) section 26ZM(2)﻿(a) or (3)﻿(b) of the Conservation Act 1987.
+  (a) regulation 42 of the Freshwater Fisheries Regulations 1983 (culvert or ford):
+  (b) regulation 43 of the Freshwater Fisheries Regulations 1983 (dam or diversion structure):
+  (c) regulation 65(2) of the Freshwater Fisheries Regulations 1983 (noxious fish):
+  (d) section 26ZM(2)﻿(a) or (3)﻿(b) of the Conservation Act 1987 (transfer or release of live aquatic life).
 (2) If the panel sets conditions under subclause (1), they must be the conditions the panel considers necessary to manage the effects of the activity on freshwater fish species, taking into account—
   (a) best practice standards; and
   (b) the New Zealand Fish Passage Guidelines.
@@ -2613,7 +2748,7 @@ When setting conditions on a designation, the provisions of Part 8 of the Resour
 ### 26 Content of decision document for resource consent or designation
 (1) A decision document for a resource consent or designation may specify the date on which the approval lapses unless it is given effect to by the specified date.
 (2) A date specified under subclause (1) must be no less than 2 years after the approval commences.
-(3) If no date is specified under subclause (1), the approval lapses after it commences.
+(3) If no date is specified under subclause (1), the approval lapses 2 years after it commences.
 
 ### 27 Criteria and other matters for assessment of applications for certificate of compliance
 (1) For the purposes of section 81, the panel must grant the certificate of compliance if the activity that the certificate is intended to cover can be done lawfully in the particular location without a resource consent.
@@ -2895,13 +3030,16 @@ If a panel has, in accordance with clause 8, imposed any condition on a concessi
 
 ### 23 Information about land exchange required in referral application
 (1) The information required to be provided under section 13(4)﻿(y)﻿(v) is—
-  (a) a description of both land areas proposed for exchange (for example, maps showing areas and location, addresses, and legal descriptions where possible:
+  (a) a description of both land areas proposed for exchange (for example, maps showing areas and location, addresses, and legal descriptions where possible):
   (b) the financial value of the land proposed to be acquired by the Crown:
-  (c) a brief description of the conservation values of both pieces of land, including an explanation of why the exchange would benefit the conservation estate:
+  (c) a brief description of the conservation values of both pieces of land:
   (d) if the land exchange would trigger a right of first refusal or a right of offer or return, confirmation that the applicant has written agreement from the holder of the right of first refusal or right of offer or return to waive that right for the purpose of the land exchange:
   (e) confirmation by the applicant that no part of any land to be exchanged by the Crown is—
     (i) land listed in Schedule 4; or
     (ii) a reserve declared to be a national reserve under section 13 of the Reserves Act 1977.
+(1A) The description of conservation values under subclause (1)﻿(c) must include—
+  (a) an explanation of why the exchange would benefit the conservation estate; and
+  (b) details of anything registered or noted for conservation purposes on the record of title for the land to be acquired by the Crown.
 (2) If the substantive application is to be lodged by more than 1 person, the reference to the applicant in subclause (1)﻿(d) must be read as a reference to the person who is to be identified in the application as the person proposed to exchange land.
 
 ### 24 Information required under section 33
@@ -2926,7 +3064,11 @@ For the purposes of section 35, the persons are—
 
 ### 26 Report by Director-General of Conservation
 (1) The report referred to in section 35(3) must include information to address the matters in clause 29(1)﻿(a)﻿(ii) to (vi) and (b), including—
-  (a) the conservation values of the land concerned, including how threatened or abundant they are, and a comparative assessment of the values that relate to each area of land concerned; and
+  (a) the conservation values of the land concerned, including—
+    (i) how threatened or abundant they are; and
+    (ii) a comparative assessment of the values that relate to each area of land concerned; and
+    (iii) an explanation of why the exchange would benefit the conservation estate; and
+    (iv) the impact of anything registered or noted for conservation purposes on the record of title for the land; and
   (b) the financial implications for the Crown of the land exchange; and
   (c) whether the consequences of the land exchange would be practical to manage on an ongoing basis, including consideration of whether the land exchange would result in an enclave of private land within a conservation area or a Crown-owned reserve; and
   (d) the legal and financial liabilities, and health and safety risks, for the Crown associated with the land exchange; and
@@ -2960,6 +3102,7 @@ For the purposes of section 74, the appropriate Minister may call in a decision 
     (vii) any conservation management strategy, conservation management plan, or reserve management plan that has been co-authored, authored, or approved by a Treaty settlement entity and the views of the entity on the proposed land exchange; and
   (b) may consider any conservation management strategy, conservation management plan, or reserve management plan (other than a strategy or plan referred to in paragraph (a)﻿(vii)).
 (2) The panel must not grant the approval unless the panel is satisfied that the land exchange (including any money that may be received under clause 30 and any conditions that the panel may impose in accordance with clause 32) will enhance the conservation values of conservation areas and Crown-owned reserves considered as a whole.
+(2A) When considering the conservation values of the land to be acquired by the Crown, for the purpose of forming its view under subclause (2), the panel must discount the extent to which the conservation values of that land are affected by anything registered or noted for conservation purposes on the record of title for that land.
 (3) The panel must not grant the approval if—
   (a) the land to be exchanged by the Crown is—
     (i) land listed in Schedule 4; or
@@ -3230,10 +3373,10 @@ An archaeological authority granted under this Act—
 ### 1 Interpretation
 In this schedule, complex freshwater fisheries activity approval means an approval described in section 42(4)﻿(j).
 
-### 2 Information required in referral application including standard or complex freshwater fisheries activity
-The information required to be provided under section 13(4)﻿(y)﻿(vi) is the following:
+### 2 Information required in referral application including complex freshwater fisheries activity
+The information required to be provided under section 13(4)﻿(y)﻿(via) is the following:
   (a) whether an in-stream structure is proposed (including formal notification of any dam or diversion structure) and the extent to which this may impede fish passage; and
-  (b) whether any fish salvage activities or other complex freshwater fisheries activities are proposed.
+  (b) whether any other complex freshwater fisheries activities are proposed.
 
 ### 3 Information required in application for complex freshwater fisheries activity approval
 For the purpose of section 43(3)﻿(j), an application for a complex freshwater fisheries activity approval must include the following information:
