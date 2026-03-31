@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2026-03-30_
+_Consolidation as at 2026-03-31_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -450,6 +450,7 @@ _Consolidation as at 2026-03-30_
   - **provisional tax payable** is defined in section 139C
   - **provisional taxpayer** means a person who is liable to pay provisional tax under section RC 3 of the Income Tax Act 2007
   - **public services** is defined in section 18E(5) for the purposes of that section and sections 16B and 18F
+  - **publish** , as a requirement for the Commissioner, has the meaning set out in section 14H
   - **qualifying individual** is defined in section 22D(2) for the purposes of Part 3, subpart 3B, sections 22, 38, 89C, and 120C, in the definition of date interest starts, paragraph (a), and schedule 8
   - **ratio instalment date** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **record** —
@@ -538,7 +539,7 @@ _Consolidation as at 2026-03-30_
       (ix) financial support (as defined in section 2(1) of the Child Support Act 1991):
       (x) an end-of-year repayment obligation or an overseas-based repayment obligation (as those terms are defined in section 4(1) of the Student Loan Scheme Act 2011):
       (xi)
-      (xii) is a tax prescribed in section 173D:
+      (xii) a tax prescribed in section 173D:
       (xiii)
       (xiv) a fee described in section 226C:
       (xv) a registration fee referred to in section 59B:
@@ -588,11 +589,14 @@ _Consolidation as at 2026-03-30_
   - **tax form** means a form or document a taxpayer is required by a tax law—
     (a) to complete; and
     (b) to provide to a person other than the Commissioner
-  - **tax law** means—
-    (a) a provision of an Inland Revenue Act other than the Unclaimed Money Act 1971, or an Act that such an Inland Revenue Act replaces:
-    (b) an Order in Council or a regulation made under another tax law:
-    (c) a non-disputable decision:
-    (d) in relation to an obligation to provide a tax return or a tax form, also includes a provision of the Accident Rehabilitation and Compensation Insurance Act 1992 or a regulation made under that Act or the Accident Insurance Act 1998 or a regulation made under that Act or the Accident Compensation Act 2001 or a regulation made under that Act
+  - **tax law** —
+    (a) means—
+      (i) a provision of an Inland Revenue Act other than the Unclaimed Money Act 1971, or an Act that such an Inland Revenue Act replaces:
+      (ii) an Order in Council or a regulation made under another tax law:
+      (iii) a non-disputable decision; and
+    (b) includes,—
+      (i) in relation to an obligation to provide a tax return or a tax form, a provision of the Accident Rehabilitation and Compensation Insurance Act 1992, the Accident Insurance Act 1998, or the Accident Compensation Act 2001, or a regulation made under any of those Acts:
+      (ii) when the Commissioner is acting as agent for the Accident Compensation Corporation, a provision of the Accident Compensation Act 2001 that treats a levy as if it were a tax
   - **tax paid** is defined in section 120C for the purposes of Part 7
   - **tax payable** is defined in section 120C for the purposes of Part 7
   - **tax position** means a position or approach with regard to tax under 1 or more tax laws, including without limitation a position or approach with regard to—
@@ -949,12 +953,12 @@ Secondary legislation
 ### 7AAAA Administration of final-year fees-free scheme
 (1) It is a function of the Commissioner to administer the final-year fees-free scheme (the scheme) on behalf of the Crown.
 (2) If a person who receives an entitlement under the scheme from the Commissioner does not qualify for the entitlement under the eligibility requirements of the scheme, the person must immediately repay to the Commissioner the total amount of the entitlement.
-(3) The Commissioner must publish, on an internet site administered by the Commissioner, the eligibility requirements referred to in subsection (2).
+(3) The Commissioner must publish the eligibility requirements referred to in subsection (2).
 
 ### 7AAA Administration of cost of living payments scheme
 (1) It is a function of the Commissioner to administer the cost of living payments scheme (the scheme) on behalf of the Crown.
 (2) If a person who receives a grant under the scheme from the Commissioner does not qualify for the grant under the eligibility requirements of the scheme, the person must immediately repay to the Commissioner the total amount of the grant.
-(3) The Commissioner must publish, on an internet site administered by the Commissioner, the eligibility requirements referred to in subsection (2).
+(3) The Commissioner must publish the eligibility requirements referred to in subsection (2).
 
 ### 7AA Authorisation to make payments under small business cashflow loan scheme
 (1) The Commissioner, on behalf of the Crown, may grant a loan under the small business cashflow scheme (the scheme) to a person who—
@@ -989,7 +993,7 @@ Secondary legislation
   (b) must determine—
     (i) the eligibility requirements that a person must meet to qualify for a grant:
     (ii) the terms and conditions that apply to a grant:
-  (c) must publish, on an internet site administered by the Commissioner, the eligibility requirements referred to in paragraph (b)﻿(i).
+  (c) must publish the eligibility requirements referred to in paragraph (b)﻿(i).
 (4) If a person applies for a grant on behalf of another person, both the person and the person in whose name the application is made must provide information as required by the Commissioner.
 (5) The person in whose name an application is made is bound by the CSP terms of the grant.
 (6) The total amount of a grant paid to the person, together with any amount payable under the CSP terms, must be repaid to the Commissioner if the CSP terms require repayment.
@@ -1080,6 +1084,7 @@ Secondary legislation
 (2) Sections 14F and 14G set out the requirements for giving information or communicating by personal delivery, post, or electronic means.
 (3) Despite sections 6, 14B(2)﻿(c), and 14C(2)﻿(a), and sections 220 and 224 of the Contract and Commercial Law Act 2017, when there are reasonable grounds to suppose an electronic communication will be received by a person, the consent of the person is not required in order for the Commissioner to communicate in electronic form.
 (4) Despite subsection (1) and the references to this Act, the Income Tax Act 2007, and the Goods and Services Tax Act 1985, sections 14C to 14G apply when any other Act requires the Commissioner to give notice to a person, or a person to give notice to the Commissioner.
+(5) Section 14H sets out the requirements to be satisfied for the Commissioner to publish information.
 
 ### 14B Asking, requesting, or informing
 (1) This section applies when a provision in this Act, the Income Tax Act 2007, or the Goods and Services Tax Act 1985 refers to or describes person A—
@@ -1160,6 +1165,10 @@ Secondary legislation
     (iii) any other address of the person, if they have notified the Commissioner that they accept delivery at the address.
   (d)
 (2) For the purposes of the delivery of income information, a person’s contact address is the address described in subsection (1)﻿(a) to (c).
+
+### 14H Publishing
+(1) This section applies for the purposes of this Act, the Income Tax Act 2007, and the Goods and Services Tax Act 1985, unless the context requires otherwise.
+(2) A requirement in these Acts for the Commissioner to publish means the Commissioner must make the information accessible and available to the public, including by providing the information on an internet site maintained by or on behalf of the Inland Revenue Department.
 
 ## Part 2A — Taxpayer's tax obligations
 
@@ -1327,7 +1336,7 @@ Particular requirements for information demands and inquiries
 
 ### 17C Commissioner’s powers in relation to documents
 Taking extracts, making copies, removing for inspection
-(1) In relation to a document accessed under section 17, or produced under 1 or more of sections 17B, 17GB, 17H(6), and 17I, the Commissioner may—
+(1) In relation to a document accessed under section 17, or produced under 1 or more of sections 17B, 17H(6), and 17I, the Commissioner may—
   (a) take an extract from the document:
   (b) make a copy of the document:
   (c) remove the document from a place to make a copy:
@@ -1365,13 +1374,13 @@ Definition for this section
 
 ### 17E Information or documents treated as in persons’ knowledge, possession, or control
 Non-residents
-(1) For the purposes of sections 17B(1), 17GB(1), 143(2), and 143A(2), information or a document that is in the knowledge, possession, or control of a non-resident is treated as being in the knowledge, possession, or control of a New Zealand resident if the New Zealand resident controls, directly or indirectly, the non-resident. For this purpose,—
+(1) For the purposes of sections 17B(1), 143(2), and 143A(2), information or a document that is in the knowledge, possession, or control of a non-resident is treated as being in the knowledge, possession, or control of a New Zealand resident if the New Zealand resident controls, directly or indirectly, the non-resident. For this purpose,—
   (a) a New Zealand resident is treated as holding anything held by a person who—
     (i) is resident in New Zealand and is associated with the New Zealand resident:
     (ii) is a controlled foreign company and is associated with the New Zealand resident:
   (b) a law of a foreign country that relates to the secrecy of information is ignored.
 Large multinational groups
-(2) For the purposes of sections 17B(1), 17GB(1), and 139AB, information or a document is treated as being in the knowledge, possession, or control of a member of a large multinational group in an income year, disregarding any law of a foreign country relating to the secrecy of information, if the information or document is relevant to the taxation of the large multinational group and is in the knowledge, possession, or control of the member or another member of the large multinational group.
+(2) For the purposes of sections 17B(1) and 139AB, information or a document is treated as being in the knowledge, possession, or control of a member of a large multinational group in an income year, disregarding any law of a foreign country relating to the secrecy of information, if the information or document is relevant to the taxation of the large multinational group and is in the knowledge, possession, or control of the member or another member of the large multinational group.
 
 **Particular information demands and inquiries**
 
@@ -1425,13 +1434,11 @@ When court overrules treatment of information
   (c) orders that the information be allowed or admissible as evidence in the proceedings.
 
 ### 17GB Commissioner may require information or production of documents for tax policy development
-(1) A person must, when notified by the Commissioner that the person is required to provide information under this section, provide any information that the Commissioner considers relevant for a purpose relating to the development of policy for the improvement or reform of the tax system.
-(2) The Commissioner must not use, as evidence in proceedings against a person, information provided by the person in response to a notice under subsection (1).
-(3) Subsection (2) does not apply to any information subsequently obtained by the Commissioner under another section of this Act.
+[Repealed]
 
 ### 17H Court may make order for provision of information
 Applying to Court for orders
-(1) When a person does not fully comply with a notice under section 17B or 17GB, or does not provide a tax return required under the Inland Revenue Acts, the Commissioner may apply to the District Court for an order requiring the person to provide the information or the tax return, as applicable.
+(1) When a person does not fully comply with a notice under section 17B, or does not provide a tax return required under the Inland Revenue Acts, the Commissioner may apply to the District Court for an order requiring the person to provide the information or the tax return, as applicable.
 Application as alternative remedy
 (2) The Commissioner may make an application under subsection (1) as well as, or instead of, prosecuting the person.
 Notifying persons affected
@@ -1729,7 +1736,7 @@ In any case where the Commissioner has reason to believe that the funds of any g
 ### Subpart 3AB — Tax advice documents
 
 ### 20 Privilege for confidential communications between legal practitioners and their clients
-(1) Despite anything in the Search and Surveillance Act 2012, but subject to subsections (2) and (3), any information or document shall, for the purposes of sections 16 to 17E, 17GB to 17I, 143(1)﻿(b), 143A(1)﻿(b), 143B(1)﻿(b), and 143F, be privileged from disclosure, if—
+(1) Despite anything in the Search and Surveillance Act 2012, but subject to subsections (2) and (3), any information or document shall, for the purposes of sections 16 to 17E, 17H, 17I, 143(1)﻿(b), 143A(1)﻿(b), 143B(1)﻿(b), and 143F, be privileged from disclosure, if—
   (a) it is a confidential communication passing between—whether made directly or indirectly through an agent of either; and
     (i) a legal practitioner in the practitioner's professional capacity and another legal practitioner in such capacity; or
     (ii) a legal practitioner in the practitioner's professional capacity and the practitioner's client,—
@@ -1737,13 +1744,13 @@ In any case where the Commissioner has reason to believe that the funds of any g
   (c) it is not made or brought into existence for the purpose of committing or furthering the commission of some illegal or wrongful act.
 (2) Where the information or document consists wholly or partly of, or relates wholly or partly to, the receipts, payments, income, expenditure, or financial transactions of a specified person (whether a legal practitioner, the practitioner's client, or any other person), it shall not be privileged from disclosure if it is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared or kept by the legal practitioner in connection with a trust account of the legal practitioner within the meaning of section 6 of the Lawyers and Conveyancers Act 2006.
 (3) Where the information or document consists wholly or partly of, or relates wholly or partly to investment receipts (being receipts arising or accruing on or after 1 April 1975 from any money lodged at any time with a legal practitioner for investment) of any person or persons (whether the legal practitioner, the practitioner's client or clients, or any other person or persons), it shall not be privileged from disclosure if it is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared or kept by the legal practitioner in connection with a trust account of the legal practitioner within the meaning of section 6 of the Lawyers and Conveyancers Act 2006.
-(4) Except as provided in subsection (1), no information or document shall for the purposes of sections 16 to 17E, 17GB to 17I, 143(1)﻿(b), 143A(1)﻿(b), 143B(1)﻿(b), and 143F be privileged from disclosure on the ground that it is a communication passing between one legal practitioner and another legal practitioner or between a legal practitioner and the practitioner's client.
+(4) Except as provided in subsection (1), no information or document shall for the purposes of sections 16 to 17E, 17H, 17I, 143(1)﻿(b), 143A(1)﻿(b), 143B(1)﻿(b), and 143F be privileged from disclosure on the ground that it is a communication passing between one legal practitioner and another legal practitioner or between a legal practitioner and the practitioner's client.
 (5) Where any person refuses to disclose any information or document on the ground that it is privileged under this section, the Commissioner or that person may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid; and, for the purposes of determining any such application, the District Court Judge may require the information or document to be produced to the District Court Judge. An application under this subsection may be made in the course of an inquiry under section 17J to the District Court Judge who is holding the inquiry.
 (6) Subject to subsection (3), this section shall apply to information and documents made or brought into existence whether before or after the commencement of this Act.
 (7) In this section, legal practitioner means a barrister or solicitor of the High Court, and references to a legal practitioner include a firm or an incorporated law firm (within the meaning of the Lawyers and Conveyancers Act 2006) in which he or she is, or is held out to be, a partner, director, or shareholder.
 
 ### 20B No requirement to disclose tax advice document
-(1) Despite anything in the Search and Surveillance Act 2012, a person (called in this section and sections 20C to 20G an information holder) who is required under 1 or more of sections 16 to 17E and 17GB to 17I or under a discovery obligation to disclose information in relation to the information holder or another person is not required to disclose a document that is a tax advice document for the person to whom the information relates.
+(1) Despite anything in the Search and Surveillance Act 2012, a person (called in this section and sections 20C to 20G an information holder) who is required under 1 or more of sections 16 to 17E, 17H, and 17I or under a discovery obligation to disclose information in relation to the information holder or another person is not required to disclose a document that is a tax advice document for the person to whom the information relates.
 (2) A document is eligible to be a tax advice document for a person if the document—
   (a) is confidential; and
   (b) is created by—
@@ -1799,7 +1806,7 @@ In any case where the Commissioner has reason to believe that the funds of any g
   (a) if the requirement to disclose information is under section 17 or under section 17 and 17C—
     (i) on the day on which the Commissioner or an officer of the department exercises the right of inspection or removal that leads to the claim:
     (ii) by a later date to which the Commissioner agrees:
-  (b) if the requirement to disclose information is under section 17B or 17GB, by the date that is the later of the following:
+  (b) if the requirement to disclose information is under section 17B, by the date that is the later of the following:
     (i) the date that is given by the Commissioner in the request for disclosure of the information:
     (ii) the date that is 28 days after the date of the request by the Commissioner for disclosure of the information:
   (c) if the requirement to disclose information is under section 17H, 17J, or 17K, by the date on which the court requires the production of information:
@@ -1816,7 +1823,7 @@ An information holder who is required to disclose information in relation to a p
 (1) An information holder who is required to disclose information relating to a person must disclose under subsection (2) a description of tax contextual information from a document that the person claims, under section 20D, to be a tax advice document for the person.
 (2) A disclosure under subsection (1) of a description of tax contextual information from a document must be made—
   (a) if the requirement to disclose information is under section 17 or under section 17 and 17C, by the date that is determined by the Commissioner:
-  (b) if the requirement to disclose information is under section 17B or 17GB and the requirement is accompanied or followed by a requirement for disclosure of a description of tax contextual information, by the date that is the later of—
+  (b) if the requirement to disclose information is under section 17B and the requirement is accompanied or followed by a requirement for disclosure of a description of tax contextual information, by the date that is the later of—
     (i) the date that is given by the Commissioner in the requirement for disclosure of the description:
     (ii) the date that is 28 days after the date of the requirement by the Commissioner for disclosure of the description:
   (c) if the requirement to disclose information is under section 17H, 17J, or 17K, by the date on which the court requires the production of information:
@@ -1969,7 +1976,7 @@ An information holder who is required to disclose information in relation to a p
   (a) impose reasonable conditions on the authorisation:
   (b) reasonably vary the conditions on the authorisation:
   (c) withdraw the authorisation, upon request by the person or after giving reasonable notice of the withdrawal:
-  (d) give public notice of an action under subsection (8)﻿(b) or this subsection, in a publication chosen by the Commissioner.
+  (d) publish notice of an action under subsection (8)﻿(b) or this subsection.
 
 ### 22AA Records to be kept by employers and PAYE intermediaries
 (1) An employer who makes a PAYE income payment to an employee must keep proper records in English or te reo Maori relating to the payment, the amount of tax withheld for the payment, and the other items of information set out in schedule 3, table 1, as required under this Act, the Child Support Act 1991, the KiwiSaver Act 2006, or the Student Loan Scheme Act 2011.
@@ -2050,7 +2057,7 @@ Income types
 Relationship with other provisions
 (3) For the provisions related to—
   (a) returns of income, see sections 33 and 37:
-  (b) returns related to family assistance credits, see section 41:
+  (b) returns related to the family scheme, see section 41:
   (c) donations tax credits, see section 41A:
   (d) disputes, see Part 4A:
   (e) assessments, see sections 92, 106, and 113:
@@ -3270,7 +3277,7 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
   (b) in the case of any taxpayer with a late balance date, not later than the seventh of the month which is the fourth month after the end of the taxpayer's corresponding income year:
   (c) in all other cases, not later than 7 July in each year.
 (1B) For the purposes of this section, an annual return of income for an individual to whom Part 3, subpart 3B applies, means a final account described in section 22D(6) containing the income information of the individual for the tax year.
-(2) The Commissioner shall give public notice of the days by which the returns are required to be furnished by publishing the notice in such manner as the Commissioner thinks fit; but the omission to give any such notice shall not affect the liability of any person to furnish any return within the time prescribed by this section in that behalf.
+(2) The Commissioner must publish the dates by which returns are required to be furnished. A failure to publish the dates does not affect a person’s obligation to furnish a return within the time prescribed by this section.
 (3) Subject to subsection (5), where any taxpayer satisfies the Commissioner that the taxpayer is unable to furnish the required return by the due date required under this section, the Commissioner, upon application by or on behalf of the taxpayer on or before that date, or within such further period as the Commissioner may allow in any case or class of cases, may extend the time for furnishing the required return to such date as the Commissioner thinks proper in the circumstances.
 (3B) Subject to subsection (5), an extension of time to a date advised by the Commissioner is available to a person or a class of persons if—
   (a) a systems issue arises for an Inland Revenue digital platform resulting in a person or class of persons being prevented from, or being otherwise hindered or disadvantaged in, providing the required return or income information; and
@@ -3370,8 +3377,8 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
   (b) notifying the Commissioner by electronic means in relation to an amount of charitable or other public benefit gift that they have made during the tax year to which the application relates:
   (c) completing the form prescribed by the Commissioner.
 (2) The total amount refunded, including a refund made on an application under subsection (7), must be no more than the annual amount of the tax credits.
-(3) The sum of the charitable or other public benefit gifts under sections LD 1 to LD 3 of that Act made by a person must be no more than their taxable income in the tax year in which the gift is made.
-(4) If subsection (3) applies, the Commissioner must reduce the total amount of charitable or other public benefit gifts so that the total is no more than the person’s taxable income in the tax year in which the gift is made.
+(3)
+(4)
 (5) An application under subsection (1) must be made in the manner required by the Commissioner, and be accompanied by any information the Commissioner requires, including—
   (a)
   (b) the amount of a charitable or other public benefit gift to which sections LD 1 to LD 3 of that Act apply.
@@ -3385,7 +3392,7 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
 (8) For the purpose of subsection (7), special circumstances include—
   (a) the person leaving New Zealand, permanently or for a significant length of time:
   (b) a trustee of a deceased person’s estate wishing to wind up the estate.
-(9) Despite subsection (1), the Commissioner must not refund the amount of a tax credit unless the requirements of subsections (2) and (3) are met.
+(9) Despite subsection (1), the Commissioner must not refund the amount of a tax credit unless the requirements of section LD 1 of that Act are met.
 (10) When the Commissioner has considered an application, the Commissioner must notify the person of the amount of the tax credit under sections LD 1 to LD 3 of that Act and of the amount of refund allowed.
 (11) A tax credit may not be refunded to an absentee, a company, a public authority, a Maori authority, an unincorporated body, or a trustee liable for income tax under sections HC 16, HC 32, or HZ 2 of that Act.
 (12) A refund under subsection (1) must be paid as if it were tax paid in excess.
@@ -3393,7 +3400,7 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
   (a) it is more than the correct amount of refund; or
   (b) the charitable or other public benefit gift to which the refund relates has subsequently been returned to the person who made the gift or an associated person.
 (13B) Despite subsection (6B), the time bar in section 108 does not apply to a refund to which subsection (13)﻿(b) applies.
-(14) The Commissioner must publish, from time to time, in a publication chosen by the Commissioner, a list of the names of entities that—
+(14) The Commissioner must publish, from time to time, a list of the names of entities that—
   (a) have provided the information required under subsection (16):
   (b) the Commissioner considers appropriate to include on the list (for example, an entity registered under the Charities Act 2005).
 (15) Despite subsection (14), the name of an entity must not be published on the list if the Commissioner determines that the entity is not described in section LD 3(2)﻿(a), (ab), (b), (c), or (d) of the Income Tax Act 2007.
@@ -4104,7 +4111,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
   (b) the Commissioner has first consulted with the chief executive of the Ministry of Business, Innovation and Employment.
 
 ### 68CE Research and development tax credits: publication of details
-(1) The Commissioner must publish, in a publication chosen by the Commissioner, the names of people who have received a research and development tax credit under subpart LY of the Income Tax Act 2007 and where the amount of their research and development tax credit falls for a tax year, using appropriate dollar bands.
+(1) The Commissioner must publish the names of people who have received a research and development tax credit under subpart LY of the Income Tax Act 2007 and where the amount of their research and development tax credit falls for a tax year, using appropriate dollar bands.
 (2) The names and bands must not be published before 2 years elapse after the end of the tax year to which the relevant tax credit relates.
 
 ### 68CF Research and development tax credits: extension of time for approvals
@@ -4203,7 +4210,7 @@ A company or person apportioning its interest expenditure under section FE 6B of
 Where an amalgamation occurs, the amalgamated company shall, within 63 working days of the date upon which—give notice to the Commissioner, in such form as the Commissioner may approve, detailing—
   (a) documents evidencing the amalgamation are delivered to the Registrar of Companies for registration under Part 13 or Part 15 of the Companies Act 1993; or
   (ab) in the case of an amalgamation of building societies, the notice of the transfer of all engagements is registered under section 34(3) of the Building Societies Act 1965 or the Taxation (Tax Administration and Remedial Matters) Act 2011 receives the Royal assent (whichever is later); or
-  (b) in the case of any amalgamation under section 24A of the Co-operative Dairy Companies Act 1949, the extraordinary resolution referred to in subsection (3)﻿(g) of that section is passed; or
+  (b)
   (c) in the case of any amalgamation occurring under foreign law, the equivalent procedure occurs under foreign law,—
   (d) the name and tax file number (if any) of each amalgamating company and the amalgamated company; and
   (e) the date upon which the amalgamation has effect (being the date provided by paragraph (ab) in the case of an amalgamation of building societies); and
@@ -5116,12 +5123,18 @@ A person who enters into a financial arrangement before a determination or notic
   (a) make a determination that varies, cancels, restricts or extends in scope an earlier determination under this section:
   (b) issue a notice that cancels a determination under this section.
 (6B) A person who enters into a financial arrangement before the date of notification or publication of a determination, or notice, that is authorised by subsection (6) is not required to apply the determination to the financial arrangement, or treat the notice as affecting the financial arrangement, until the first tax year that commences after that date of notification or publication.
-(7) All determinations made by the Commissioner under subsection (1) and notices issued by the Commissioner under subsection (6)﻿(b) shall be published within 30 days of the making of the determination or notice, in a publication chosen by the Commissioner and in such form as may be specified by regulations made under this Act.
+(7) All determinations made by the Commissioner under subsection (1) and notices issued by the Commissioner under subsection (6)﻿(b) shall be published within 30 days of the making of the determination or notice in such form as may be specified by regulations made under this Act.
 (8) For the purposes of this section, a determination or notice shall be deemed to be made when it is signed by the Commissioner.
 (9) If a person has applied a determination under subsection (1), an assessment made in respect of the person must be in accordance with the determination.
 (10) Subsection (9) does not apply if—
   (a) since the date of the determination, the legislation on which the determination was based has been repealed or amended to the detriment of the person relying on the determination; or
   (b) there was a material misrepresentation or omission in the application for the determination, whether intentional or not.
+
+### 90B Determination on interest for employment-related loans
+(1) The Commissioner may, from time to time, determine the rate of interest applying to employment-related loans.
+(2) When a determination is made under subsection (1), the rate of interest is to be set at the Reserve Bank of New Zealand floating first mortgage new customer housing interest rate.
+(3) When a determination is made under subsection (1), it applies to quarters starting from a date at least 1 month after the date the determination is made. A determination that reduces the rate of interest from the rate that applies at the time may apply for a quarter if made at least 1 month before that quarter ends.
+(4) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 91 Determinations in relation to petroleum mining operations
 (1) For the purposes of the Income Tax Act 2007, if a question arises as to—that question shall be determined, for the purposes of ascertaining the income of the petroleum miner for any year,—
@@ -5170,7 +5183,7 @@ A person who enters into a financial arrangement before a determination or notic
 (3) A taxpayer who in a tax year derives an amount from providing a standard-cost household service may, in calculating the taxpayer's income tax liability for the tax year, elect to use a figure for a cost or costs or a method of calculating such a figure that the Commissioner has determined under subsection (2) to be appropriate for the taxpayer.
 (4) A taxpayer who makes an election under subsection (3) to use a figure or method must not use, in calculating the taxpayer's income tax liability for the tax year, any figure for an additional cost of providing the standard-cost household service if the figure or method in the Commissioner's determination relates to a type of cost that includes the additional cost.
 (5) If the Commissioner is satisfied that a determination that is made under this section should be varied or rescinded, or restricted or extended in scope, the Commissioner may make a fresh determination that varies, rescinds, restricts or extends that determination.
-(6) A determination that is made by the Commissioner under this section must be published within 30 days of the making of the determination, in a publication chosen by the Commissioner.
+(6) A determination that is made by the Commissioner under this section must be published within 30 days of the making of the determination.
 (7) A determination that is made by the Commissioner under this section may apply for tax years that are specified in the determination.
 
 ### 91AAB Determinations relating to types and diminishing values of listed horticultural plants
@@ -5183,9 +5196,7 @@ A person who enters into a financial arrangement before a determination or notic
 (3) The determination may set out the income year or income years for which it is to apply, but may not apply for income years before the 2003–04 income year.
 (4) The determination may provide for the extension, limitation, variation, cancellation or revocation of an earlier determination.
 (5) A person affected by a determination made under this section may dispute or challenge the determination under Parts 4A and 8A.
-(6) Within 30 days of issuing a determination under this section, the Commissioner must publish a notice in a publication chosen by the Commissioner that—
-  (a) gives notice that the determination has been issued; and
-  (b) states where copies of the determination can be obtained.
+(6) Within 30 days of issuing a determination under this section, the Commissioner must publish the determination.
 
 ### 91AABB Determinations relating to monetary threshold in extended model reporting standard for digital platforms
 (1) For the purpose of section 185T, the Commissioner may determine the New Zealand dollar equivalent of the monetary threshold set out in the definition of excluded seller in section I, B(4)﻿(d) of the extended model reporting standard for digital platforms.
@@ -5193,7 +5204,7 @@ A person who enters into a financial arrangement before a determination or notic
 (3) The determination may set out the year or years for which it is to apply, but it may not apply for years before the implementation of the extended model reporting standard for digital platforms under section 185T(1).
 (4) The determination may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination.
 (5) A person affected by a determination made under this section may dispute or challenge the determination under Parts 4A and 8A.
-(6) Within 30 days of having made a determination under this section, the Commissioner must publish a notice in a publication chosen by the Commissioner setting out the New Zealand dollar equivalent that is the subject of the determination, any necessary amendment caused by exchange rate fluctuations, and the periods for which the threshold is to apply.
+(6) Within 30 days of having made a determination under this section, the Commissioner must publish the determination.
 
 **Determinations relating to prepayments**
 
@@ -5273,7 +5284,7 @@ A person who enters into a financial arrangement before a determination or notic
   (b) any other person or class of persons.
 (5B) A determination setting a special rate for an item and a person may also be expressed to apply to items, of the same kind as the item, for which the Commissioner considers the special rate is appropriate.
 (6) A determination setting a provisional rate ceases to apply to the item and the person, or any other person, at the time at which an economic rate set under section 91AAF for that kind of item comes into force, unless the determination specifically provides that it does not cease to apply.
-(7) The Commissioner may revoke a provisional determination if it no longer applies to an item or if the item is no longer in use or available for use. The revocation takes effect on the day after the date of publication of the Gazette in which notification under section 91AAM(4) is made.
+(7) The Commissioner may revoke a provisional determination if it no longer applies to an item or if the item is no longer in use or available for use. The revocation takes effect on the day after the date the Commissioner publishes the notice of revocation under section 91AAM(4).
 
 ### 91AAH Commissioner may decline to issue special rate or provisional rate
 (1) The Commissioner may decline to issue a determination under section 91AAG when,—
@@ -5305,7 +5316,7 @@ A person who enters into a financial arrangement before a determination or notic
 (3) If the Commissioner revokes the determination without issuing a new determination, the person must depreciate the item applying the economic rate or an applicable provisional rate.
 (4) A revocation takes effect—
   (a) if notice of the revocation is given to the person under section 91AAM(5), on the day after the date of the notice; or
-  (b) if the notice is published in the Gazette, on the day after the date of the publication.
+  (b) if the notice is published by the Commissioner, on the day after it is published.
 
 ### 91AAJ Disputing or challenging determination
 (1) This section applies to—
@@ -5338,9 +5349,7 @@ A person who enters into a financial arrangement before a determination or notic
   (b) either—
     (i) a copy of the determination; or
     (ii) the reasons for declining to issue the determination.
-(4) Within 30 days of issuing a determination under section 91AAG(4) or revoking a determination under section 91AAG(7) that is expressed to apply to a class of persons, the Commissioner must publish a notice in a publication chosen by the Commissioner that—
-  (a) gives notice that the determination has been issued; and
-  (b) states where copies of it can be obtained.
+(4) Within 30 days of issuing a determination under section 91AAG(4) or revoking a determination under section 91AAG(7) that is expressed to apply to a class of persons, the Commissioner must publish the determination or notice of revocation.
 (5) Within 30 days of revoking a determination under section 91AAI(2), the Commissioner must give to the person who applied for the determination notice of—
   (a) the decision; and
   (b) the reasons for revoking the determination.
@@ -5366,11 +5375,9 @@ A person who enters into a financial arrangement before a determination or notic
 (6) The determination may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination.
 (7) A person affected by a determination made under this section may dispute or challenge the determination under Parts 4A and 8A.
 (8) Within 30 days of issuing a determination under subsection (1), the Commissioner must give notice of the determination to the person or group who applied for the determination.
-(9) Within 30 days of issuing a determination under subsection (1) that is expressed to apply to a class of persons, the Commissioner must publish a notice in a publication chosen by the Commissioner that—
-  (a) gives notice that the determination has been issued; and
-  (b) states where copies of the determination can be obtained.
+(9) Within 30 days of issuing a determination under subsection (1) that is expressed to apply to a class of persons, the Commissioner must publish the determination.
 
-**Determinations relating to calculation of FIF income using fair dividend rate method**
+**Determinations relating to calculation of FIF income**
 
 ### 91AAO Determination on type of interest in FIF and use of fair dividend rate method
 (1) For the purposes of section EX 46 of the Income Tax Act 2007, the Commissioner may determine that a type of financial arrangement or excepted financial arrangement is—
@@ -5389,9 +5396,13 @@ A person who enters into a financial arrangement before a determination or notic
 (3C) Subsection (3D) applies to a multi-rate PIE that calculates and pays its income tax liability under the quarterly calculation option as set out in section HM 43 of the Income Tax Act 2007.
 (3D) A determination does not apply for the multi-rate PIE for a quarter beginning before the date of the determination unless the PIE chooses that the determination apply for the quarter and all following quarters in the income year.
 (4) A determination may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination.
-(5) The Commissioner must:
-  (a) notify the making of a determination within 30 days of the date of the determination, in a publication chosen by the Commissioner; and
-  (b) publish the determination in a publication of the department as soon as possible.
+(5) The Commissioner must publish the determination within 30 days of making the determination.
+
+### 91AAP Determination on deemed rate of return
+(1) For the purposes of section EX 55 of the Income Tax Act 2007 and for an income year, the Commissioner must determine the deemed rate of return used to calculate FIF income or loss under the deemed rate of return method.
+(2) The rate is to be set at the 5-year government stock rate for the income year plus 400 basis points.
+(3) For the purposes of subsection (2), the 5-year government stock rate is calculated as the average of the rates on 30 June, 30 September, 31 December, and 31 March in the income year. If a rate is not available on one of those dates, the rate on the first day a rate is available after that date is to be used in the calculation for that date.
+(4) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 **Determinations relating to non-attributing active CFCs**
 
@@ -5431,7 +5442,7 @@ A person who enters into a financial arrangement before a determination or notic
   (b) in addition to the requirements of subsection (3), for the members of a group of CFCs to be non-attributing active CFCs.
 (6) A determination may be made for income years specified in the determination.
 (7) A determination may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination.
-(8) A determination must be published in a publication chosen by the Commissioner within 30 days of the making of the determination.
+(8) A determination must be published by the Commissioner within 30 days of the making of the determination.
 
 **Determinations relating to relocation payments**
 
@@ -5452,7 +5463,7 @@ A person who enters into a financial arrangement before a determination or notic
 (1) The Commissioner may determine that an event is an emergency event, for the purposes of section MB 13(2)﻿(r) of the Income Tax Act 2007, if the event meets the requirements of paragraphs (a) and (b) of the definition of emergency in section 4 of the Civil Defence Emergency Management Act 2002.
 (2) The determination must set a period relating to the event that begins on the day of the event.
 (3) The determination may provide for the extension, limitation, variation, cancellation, or repeal of an earlier determination.
-(4) As soon as possible after issuing or changing a determination under this section, the Commissioner must publish the new or changed determination in a publication chosen by the Commissioner.
+(4) As soon as possible after issuing or changing a determination under this section, the Commissioner must publish the new or changed determination.
 
 **Determinations relating to certain employment expenditure**
 
@@ -5463,9 +5474,7 @@ A person who enters into a financial arrangement before a determination or notic
 (4) A determination made under this section is not binding on the employer or the employee.
 (5) In making the determination, the Commissioner must have regard to the size of the group or class of employees and the generality of the issue.
 (6) The determination may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must give at least 30 days notice of the implementation date of any change to the determination.
-(7) Within 30 days of issuing or changing a determination under this section, the Commissioner must publish a notice in a publication chosen by the Commissioner that—
-  (a) gives notice that the determination has been issued or changed, as applicable; and
-  (b) states where copies of the determination can be obtained.
+(7) Within 30 days of issuing or changing a determination under this section, the Commissioner must publish the new or changed determination.
 
 **Determinations relating to foreign account information-sharing agreements**
 
@@ -5497,14 +5506,14 @@ A person who enters into a financial arrangement before a determination or notic
   (b) the compliance costs incurred by taxpayers:
   (c) the resources available to approved AIM providers.
 (3) A determination may set out the tax year or years for which it is to apply, or a date from which it is to apply (the implementation date).
-(4) A determination (a later determination) may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must give at least 120 days notice of the implementation date of that later determination, in a publication chosen by the Commissioner.
+(4) A determination (a later determination) may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must publish the implementation date of that later determination at least 120 days before that date.
 (5) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 91AAY Class of taxpayers that must not use AIM method
 (1) The Commissioner may determine, for the purposes of section RC 5(5B)﻿(f) of the Income Tax Act 2007, that a class of taxpayers must not use the AIM method.
 (2) In making a determination the Commissioner must have regard to the risk that allowing the class of taxpayers to use the AIM method will result in less net revenue collectable from the class of taxpayers over time.
 (3) A determination may set out the tax year or years for which it is to apply, or a date from which it is to apply (the implementation date).
-(4) A determination (a later determination) may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must give at least 120 days notice of the implementation date of that later determination, in a publication chosen by the Commissioner.
+(4) A determination (a later determination) may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must publish the implementation date of that later determination at least 120 days before that date.
 (5) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 91AAZ AIM method information
@@ -5514,7 +5523,7 @@ A person who enters into a financial arrangement before a determination or notic
   (b) the compliance costs incurred by taxpayers:
   (c) the resources available to approved AIM providers.
 (3) A determination may set out the tax year or years for which it is to apply, or a date from which it is to apply (the implementation date).
-(4) A determination (a later determination) may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must give at least 120 days notice of the implementation date of that later determination, in a publication chosen by the Commissioner.
+(4) A determination (a later determination) may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must publish the implementation date of that later determination at least 120 days before that date.
 (5) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ## Part 5A — Binding rulings
@@ -5615,7 +5624,7 @@ In this Part—
 ### 91D Commissioner may make public rulings
 The Commissioner may at any time make a public ruling on how a taxation law applies in relation to any type of person and any type of arrangement.
 
-### 91DA Content and notification of a public ruling
+### 91DA Content and publication of a public ruling
 (1) A public ruling must state—Anything that does not contain these statements is not a public ruling.
   (a) that it is a public ruling made under section 91D; and
   (b) the taxation law or laws on which it is a ruling; and
@@ -5624,9 +5633,9 @@ The Commissioner may at any time make a public ruling on how a taxation law appl
   (e) either—
     (i) the period or tax year for which the ruling applies; or
     (ii) in the case of a ruling issued for an indefinite period, the date or tax year from which the ruling applies.
-(2) The Commissioner shall notify the making of a public ruling by notice in a publication chosen by the Commissioner.
-(3) The notice shall indicate the subject of the public ruling and state where a copy of the ruling may be obtained.
-(4) The Commissioner must publish each public ruling, in full, in a publication of the department.
+(2)
+(3)
+(4) The Commissioner must publish each public ruling.
 
 ### 91DB Effect of a public ruling
 (1) Notwithstanding anything in any other Act, if—the Commissioner must apply the taxation law in relation to the person and the arrangement in accordance with the ruling.
@@ -5647,7 +5656,7 @@ The Commissioner may at any time make a public ruling on how a taxation law appl
 (2) Subsection (1) does not apply to a taxpayer who has issued the Commissioner with a notice of proposed adjustment to change the effect of a ruling previously applied by the taxpayer.
 
 ### 91DD Extension of a public ruling
-(1) The Commissioner may extend the period for which a public ruling applies by publishing a notice of extension in a publication chosen by the Commissioner.
+(1) The Commissioner may extend the period for which a public ruling applies by publishing a notice of extension.
 (2) A notice of extension must state—
   (a) that it is an extension of a public ruling under this section; and
   (b) the original period or tax year for which the ruling applied; and
@@ -5655,8 +5664,8 @@ The Commissioner may at any time make a public ruling on how a taxation law appl
 
 ### 91DE Withdrawal of a public ruling
 (1) The Commissioner may at any time withdraw a public ruling.
-(2) The Commissioner must notify the withdrawal by giving adequate notice in a publication chosen by the Commissioner.
-(3) A public ruling is withdrawn on the date stated in the notice of withdrawal. The date cannot be before the date on which notice is given under subsection (2).
+(2) The Commissioner must publish a notice of the withdrawal with adequate notice.
+(3) A public ruling is withdrawn on the date stated in the notice of withdrawal. The date cannot be before the date on which notice is published under subsection (2).
 (4) If the Commissioner withdraws a public ruling, the ruling does not apply to an arrangement entered into after the date of withdrawal.
 (4A) If the Commissioner withdraws a public ruling, the ruling continues to apply—
   (a) to an arrangement to which it previously applied that was entered into before the date of withdrawal; and
@@ -5814,7 +5823,10 @@ Before the Commissioner makes a private ruling, the Commissioner must give the a
   (a) if the person applying is part of a group of companies, the group must meet the threshold requirement:
   (b) if persons apply jointly for a short-process ruling, each person must meet the threshold requirement:
   (c) if a person applies for a short-process ruling on behalf of another person, the other person must meet the threshold requirement:
-  (d) if the person applying is not yet in legal existence, the person must have a reasonable expectation of meeting the threshold requirement for the tax year to which the ruling relates.
+  (d) if the person applying is not yet in legal existence, the person must have a reasonable expectation of meeting the threshold requirement for the tax year to which the ruling relates:
+  (e) if the person applying is a non-resident,—
+    (i) the reference to annual gross income is treated as a reference to the person’s income, including any non-residents’ foreign-sourced income, and excluding any exempt or excluded income:
+    (ii) the reference to the tax year is treated as a reference to the person’s most recently completed financial year.
 (5) For the purposes of subsection (3)﻿(b), if the expected amount is unknown, the person must state this fact in the application, and the Commissioner may then consider under section 91EK(2) whether a short-process ruling is appropriate in the circumstances.
 (6) The application must meet the requirements of section 91EO.
 (7) The person may withdraw the application at any time by notifying the Commissioner.
@@ -5960,7 +5972,7 @@ The Commissioner may at any time request further relevant information from an ap
 ### 91FG Right to consultation
 Before the Commissioner makes a product ruling, the Commissioner must give the applicant a reasonable opportunity to be consulted if the content of the proposed ruling differs from that applied for by the applicant.
 
-### 91FH Content and notification of a product ruling
+### 91FH Content and publication of a product ruling
 (1) A product ruling must state—Anything that does not contain these statements is not a product ruling.
   (a) that it is a product ruling made under section 91F; and
   (b) the name of the person who applied for the ruling; and
@@ -5972,12 +5984,8 @@ Before the Commissioner makes a product ruling, the Commissioner must give the a
 (1B)
 (2) The Commissioner must send a copy of the ruling to the applicant as soon as practicable after the date on which the ruling is made.
 (3) Unless the applicant applies for earlier publication, the Commissioner cannot publish a product ruling until 2 months have passed after the date the ruling is made.
-(4) If the applicant applies for earlier publication, the Commissioner must—
-  (a) notify the making of the product ruling by notice in a publication chosen by the Commissioner; and
-  (b) publish the product ruling in a publication of the department as soon as possible.
-(5) After the 2-month period has ended, the Commissioner must—
-  (a) notify the making of a product ruling by notice in a publication chosen by the Commissioner; and
-  (b) publish each product ruling, in full, in a publication of the department.
+(4) If the applicant applies for earlier publication, the Commissioner must publish the product ruling as soon as possible.
+(5) After the 2-month period has ended, the Commissioner must publish each product ruling.
 (6) A taxpayer, other than the applicant, cannot obtain a copy of a product ruling before it is published by the Commissioner.
 
 ### 91FI Extension of a product ruling
@@ -5985,8 +5993,8 @@ Before the Commissioner makes a product ruling, the Commissioner must give the a
 
 ### 91FJ Withdrawal of a product ruling
 (1) The Commissioner may at any time withdraw a product ruling.
-(2) The Commissioner must notify the withdrawal by giving adequate notice in a publication chosen by the Commissioner.
-(3) A product ruling is withdrawn on the date stated in the notice of withdrawal. The date cannot be before the date on which notice is given under subsection (2).
+(2) The Commissioner must publish a notice of the withdrawal with adequate notice.
+(3) A product ruling is withdrawn on the date stated in the notice of withdrawal. The date cannot be before the date on which notice is published under subsection (2).
 (3A) A status ruling on a withdrawn product ruling does not apply on and after the date specified in the notice of withdrawal.
 (4) If the Commissioner withdraws a product ruling in relation to an arrangement—
   (a) the ruling does not apply to an arrangement entered into after the date of withdrawal; but
@@ -6049,12 +6057,10 @@ A status ruling must identify the private or product ruling on which it is a rul
   (a) that it is a status ruling made under section 91GA; and
   (b) whether the amendment or repeal of a taxation law has changed the way that the law applies in the ruling.
 
-### 91GG Notification of status ruling
+### 91GG Publication of status ruling
 (1) The Commissioner must send a copy of a status ruling to the applicant as soon as practicable after the date on which the ruling is made.
-(2) In the case of a status ruling on a product ruling, the Commissioner must also—
-  (a) notify the making of a status ruling by notice in a publication chosen by the Commissioner; and
-  (b) publish the status ruling in a publication of the department.
-(3) The Commissioner must notify the making of and publish a status ruling as soon as possible but not before the 2-month period specified in section 91FH(3) has passed, unless the applicant has applied for earlier publication of their product ruling under that section.
+(2) In the case of a status ruling on a product ruling, the Commissioner must also publish the status ruling.
+(3) The Commissioner must publish a status ruling as soon as possible but not before the 2-month period specified in section 91FH(3) has passed, unless the applicant has applied for earlier publication of their product ruling under that section.
 
 ### 91GH Effect of status ruling
 If a person applies a taxation law in accordance with a status ruling, the Commissioner must also apply the taxation law in accordance with the status ruling.
@@ -6559,7 +6565,7 @@ Nothing in this Part applies to—
 
 ### 120C Definitions
 (1) In this Part, unless the context otherwise requires,—
-  - **Commissioner's paying rate** means the rate of interest established and notified as the Commissioner's paying rate by an Order in Council made under section 120H
+  - **Commissioner's paying rate** means the rate of interest set as the Commissioner's paying rate by a determination made under section 120H
   - **date interest starts** , subject to sections 120N and 120O,—
     (a) for unpaid tax means—
       (i) if a taxpayer pays too little tax by a due date—
@@ -6605,7 +6611,7 @@ Nothing in this Part applies to—
     (b) an amount credited by the time to a tax pooling account under sections RP 17 to RP 21 of the Income Tax Act 2007:
     (c) an amount credited or transferred by the time to a taxpayer's account with the Commissioner from a tax pooling account under sections RP 17 to RP 21 of that Act
   - **tax payable** , at any time, means the amount of tax payable in respect of a tax liability by that time, determined in accordance with the tax laws; and includes an amount of tax that must be withheld or deducted under a tax law and paid to the Commissioner
-  - **taxpayer's paying rate** means the rate of interest established and notified as the taxpayer's paying rate by an Order in Council made under section 120H.
+  - **taxpayer's paying rate** means the rate of interest set as the taxpayer's paying rate by a determination made under section 120H.
 (2) For the purposes of this Part, when, at any time,—
   (a) the tax paid by a taxpayer exceeds the tax payable, the excess is overpaid tax; and
   (b) the tax payable by a taxpayer exceeds the tax paid, the excess is unpaid tax; and
@@ -6654,10 +6660,13 @@ Example for section 120F(1) (illustrative only)On 1 September 2019, an assessmen
 Except where a tax law provides otherwise, interest payable by a taxpayer to the Commissioner on unpaid tax is payable immediately and without the need for a demand.
 
 ### 120H Setting and varying interest rates
-(1) The Governor-General may from time to time, by Order in Council,—
-  (a) specify the criteria and other requirements by and against which interest rates will be set or reset and notified for the purposes of this Part:
-  (b) set the Commissioner's paying rate and taxpayer's paying rate.
-(2) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(1) The Commissioner may, from time to time, determine the Commissioner’s paying rate and taxpayer’s paying rate.
+(2) When a determination is made under subsection (1), the Commissioner’s paying rate is to be set at the higher of—
+  (a) the Reserve Bank of New Zealand 90-day bank bill rate less 100 basis points; and
+  (b) 0%.
+(3) When a determination is made under subsection (1), the taxpayer’s paying rate is to be set at the Reserve Bank of New Zealand floating first mortgage new customer housing rate plus 250 basis points.
+(4) When a determination is made under subsection (1), it applies from the next applicable instalment date for a person with a standard balance date set out in schedule 3, part A, column B, D, or F of the Income Tax Act 2007 that is at least 1 month after the date the determination is made.
+(5) A determination under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 120I No right to object to interest
 (1) A taxpayer may not object to or challenge the imposition of interest payable under this Part.
@@ -6812,7 +6821,7 @@ The definition of date interest starts is to be construed as if the words the la
   (a) paid to the person the salary or wages relating to an employee as required by sections RP 9 to RP 11 of the Income Tax Act 2007; and
   (b) provided to the person the information requested by the person, as required by section RP 8(b) of that Act.
 (2) In this Part—
-  - **Commissioner's paying rate** means the rate of interest established and notified as the Commissioner's paying rate by an Order in Council made under section 120H
+  - **Commissioner's paying rate** means the rate of interest set as the Commissioner's paying rate by a determination made under section 120H
   - **date interest starts** —
     (a) for unpaid tax means—
       (i) if a PAYE intermediary pays too little tax by a due date—
@@ -6830,7 +6839,7 @@ The definition of date interest starts is to be construed as if the words the la
     (a) has been paid or credited as paid for an amount of tax that must be withheld or deducted under a tax law; and
     (b) has not been refunded by the Commissioner
   - **tax payable** , at any time, means an amount of tax that at the time is due to be withheld or deducted under a tax law and paid to the Commissioner
-  - **taxpayer's paying rate** means the rate of interest established and notified as the taxpayer's paying rate by an Order in Council made under section 120H.
+  - **taxpayer's paying rate** means the rate of interest set as the taxpayer's paying rate by a determination made under section 120H.
 (3) For the purposes of this Part, where, at any time—
   (a) the tax paid by a PAYE intermediary exceeds the tax payable, the excess is overpaid tax; and
   (b) the tax payable by a PAYE intermediary exceeds the tax paid, the excess is unpaid tax.
@@ -7202,7 +7211,7 @@ The Commissioner may approve a person as an approved AIM provider in relation to
 (3) A person who has given notice under subsection (1) must immediately give notice of their choice to revoke to all end-users of the person’s products that will be affected by the revocation.
 
 ### 124ZC Publication of approval or revocation
-The Commissioner may publish a notice in a publication chosen by the Commissioner in relation to any matter in sections 124Y, 124Z, and 124ZB.
+The Commissioner may publish a notice in relation to any matter in sections 124Y, 124Z, and 124ZB.
 
 ### 124ZD AIM method: approval of large business AIM-capable system
 For the purposes of section RC 5(5B)﻿(c)﻿(iii) and the definition of large business AIM-capable system in section YA 1 of the Income Tax Act 2007, the Commissioner may approve an AIM-capable accounting system for use by a class of taxpayers with annual gross income of more than $5,000,000, if the Commissioner decides that there is minimal risk that the approval will result in less net revenue collectable from the class of taxpayers over time.
@@ -7247,7 +7256,7 @@ For the purposes of section RC 5(5B)﻿(c)﻿(ii) of the Income Tax Act 2007, th
   (c) is available to perform core research and development activities on behalf of other persons not associated with them; and
   (d) performs or will perform core research and development activities on behalf of other persons for market value consideration.
 (5) A person may apply for approval as an approved research provider by providing information to the Commissioner in the prescribed form. They may also apply for a revocation of approval.
-(6) If the Commissioner approves a person, the Commissioner must notify the person and publish the approval, in a publication chosen by the Commissioner.
+(6) If the Commissioner approves a person, the Commissioner must notify the person and publish the approval.
 (7) The Commissioner may, at the Commissioner’s discretion, revoke approval as an approved research provider. The Commissioner must give the person reasons for the exercise of the Commissioner’s discretion, and specify the date from which the revocation takes effect.
 
 ### 124ZI Certificates for research and development
@@ -7260,8 +7269,8 @@ For the purposes of section RC 5(5B)﻿(c)﻿(ii) of the Income Tax Act 2007, th
   (a) would adversely affect the integrity of the tax system:
   (b) the Commissioner has revoked under subsection (7) in the last 2 years:
   (c) was surrendered by the person in the last 2 years in anticipation of a revocation.
-(5) If the Commissioner approves a person, the Commissioner must notify the person, and publish the approval in a publication chosen by the Commissioner. The approval starts from the date that the person requests approval.
-(6) The Commissioner may, at the Commissioner’s discretion, revoke approval as an accepted research and development certifier. If the Commissioner revokes a person’s approval, the Commissioner must notify the person, and publish the revocation in a publication chosen by the Commissioner. The revocation starts from the date that the revocation is published.
+(5) If the Commissioner approves a person, the Commissioner must notify the person, and publish the approval. The approval starts from the date that the person requests approval.
+(6) The Commissioner may, at the Commissioner’s discretion, revoke approval as an accepted research and development certifier. If the Commissioner revokes a person’s approval, the Commissioner must notify the person, and publish the revocation. The revocation starts from the date that the revocation is published.
 (7) The Commissioner must revoke a person’s approval if—
   (a) the person is liable for a promoter penalty under section 141EB:
   (b) the person has given a research and development certificate to another person who has, in the 2 years before the income year,—
@@ -9639,13 +9648,13 @@ A taxpayer seeking the remission of an amount or of a liability to pay an amount
 (2) Without limiting subsection (1), a taxpayer is never liable to pay interest or a civil penalty in respect of a tax liability or obligation that is cancelled.
 
 ### 184 Refund of tax paid on income subsequently exempted by Order in Council
-If a double tax agreement exempts from tax any income derived before the date on which the Order in Council that gives effect to the double tax agreement comes into force, and the Commissioner is satisfied tax has been paid in relation to that income, and application is made by or on behalf of the taxpayer at any time within 4 years after the date on which the Order in Council came into force, then notwithstanding anything in sections LA 6 to LA 8, RM 2, RM 4, RM 5, RM 8, and RM 10 of the Income Tax Act 2007 the Commissioner may refund the tax paid.
+If a double tax agreement exempts from tax any income derived before the date on which the Order in Council that gives effect to the double tax agreement comes into force, and the Commissioner is satisfied tax has been paid in relation to that income, and application is made by or on behalf of the taxpayer at any time within 4 years after the date on which the Order in Council came into force, then notwithstanding anything in sections LA 6 to LA 8, RM 2, RM 4, RM 8, and RM 10 of the Income Tax Act 2007 the Commissioner may refund the tax paid.
 
 ### 184AA Refund of tax: deductible amounts of interest
 (1) This section applies when a person is allowed a deduction under section DB 3B of the Income Tax Act 2007, section DB 3B of the Income Tax Act 2004, or section DB 2 of the Income Tax Act 1994.
 (2) The time limits for refunds under the provisions referred to in subsection (3) do not apply for the purposes of the amendments made by sections 194 and 221 of the Taxation (Tax Administration and Remedial Matters) Act 2011 relating to the deductibility of interest imposed under Part 7.
 (3) The provisions are, as applicable,—
-  (a) sections RM 2 to RM 6 of the Income Tax Act 2007:
+  (a) sections RM 2 and RM 4 of the Income Tax Act 2007:
   (b) sections MD 1 and MD 2 of the Income Tax Act 2004:
   (c) sections MD 1 and MD 2 of the Income Tax Act 1994.
 
@@ -9719,7 +9728,7 @@ If a double tax agreement exempts from tax any income derived before the date on
   (b) a choice made by the New Zealand government under the agreement allows, as described or contemplated in the agreement, the person a permitted choice.
 (2) The person is authorised to make, do, or not do, as described or contemplated by the agreement, the permitted choice, and to do or not do anything necessarily incidental to giving effect to the permitted choice.
 (3) The obligations in this Part are modified to the extent necessary to give effect to anything authorised by subsection (2) (for example: a permitted choice, authorised by subsection (2), as to using 1 of 2 due diligence procedures contemplated by the agreement means that the chosen procedure would be part of the required due diligence procedures for the purposes of section 185H).
-(4) The Commissioner must publish an appropriate notice of a choice made or revoked by the New Zealand government under the agreement in a publication chosen by the Commissioner.
+(4) The Commissioner must publish an appropriate notice of a choice made or revoked by the New Zealand government under the agreement.
 (5) A person's permitted choice and a choice made by the New Zealand government under the agreement are treated as part of the agreement for the purposes of this Part and section BH 1 of the Income Tax Act 2007.
 (6) Subsections (2) to (5) do not apply to a choice or course of action or inaction listed in subsection (7) (an excluded choice).
 (7) For the purposes of subsection (6), the following are excluded choices:
@@ -10122,7 +10131,7 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
   (b) a period for which an effect or lack of effect applies or does not apply:
   (c) the effect or lack of effect of a change to the CRS applied standard on the obligations and liabilities of a person or entity or class of persons or entities.
 (2) A regulation may set out the period for which it is to apply, which must not begin before the latest reporting period that finishes before the regulation is made.
-(3) A regulation may provide for the change, extension, limitation, suspension, or cancellation of an earlier regulation.
+(3)
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 226F Application of changes to model reporting standards for digital platforms
@@ -10245,6 +10254,10 @@ For income years in the period from the 2000–01 income year to the 2019–20 i
 
 ### 227H Transitional provision relating to annual return for trusts
 A variation under section 59BA(5) is a disallowable instrument if the variation is made in the period from the date on which the Taxation (Annual Rates for 2020–21, Feasibility Expenditure, and Remedial Matters) Act 2021 receives the Royal assent to the date on which Part 3 of the Legislation Act 2019 comes into force.
+
+### 227I Transitional provision relating to interest rates
+(1) This section applies for the period commencing on the date the Taxation (Annual Rates for 2025–26, Compliance Simplification, and Remedial Measures) Act 2026 comes into force and ending on the day before the date the rates set by the Commissioner by a determination made under section 120H first apply.
+(2) For the purposes of sections 120C(1) and 120OB(2) and section RC 38(4) of the Income Tax Act 2007, the Commissioner’s paying rate and the taxpayer’s paying rate are the rates applying under the Taxation (Use of Money Interest Rates) Regulations 1998 immediately before their revocation by the Taxation (Annual Rates for 2025–26, Compliance Simplification, and Remedial Measures) Act 2026.
 
 ### 228 Commissioner and department
 The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue is deemed to have been appointed Commissioner of Inland Revenue under section 6A.
@@ -10623,7 +10636,7 @@ Section 18 does not prevent the Commissioner communicating information relating 
   (b) as a consequence of communicating the information to the software client using the accepted software package.
 
 ### 18 Digital services providers
-Section 18 does not prevent the Commissioner communicating information about a person (person A) to another person who is listed by the Commissioner in a publication chosen by the Commissioner as an accepted provider of digital services when person A uses the digital services to communicate with the Commissioner and the disclosure is a consequence of that communication.
+Section 18 does not prevent the Commissioner communicating information about a person (person A) to another person who is published in a list by the Commissioner as an accepted provider of digital services when person A uses the digital services to communicate with the Commissioner and the disclosure is a consequence of that communication.
 
 ### Part C — Disclosures to certain agencies for certain purposes
 
@@ -10753,7 +10766,7 @@ Section 18 does not prevent the Commissioner communicating to any Registrar, in 
   (a) the information relates to the taxpayer and any amount that would be reportable unpaid tax if it was not subject to an instalment arrangement requested by the taxpayer and entered into by the Commissioner (the instalment arrangement); and
   (b) the instalment arrangement was entered into by the Commissioner after the Commissioner has communicated to an approved credit reporting agency information relating to the taxpayer under subclause (5).
 (7) The Commissioner may not communicate to an approved credit reporting agency until the Commissioner has finished considering an application under section 177 or 183H, if the application was made in the 30 days after the day on which the taxpayer is formally notified under subclause (3)﻿(b)﻿ or (4)﻿(b).
-(8) The Commissioner must publish annually, in a publication chosen by the Commissioner, the following:
+(8) The Commissioner must publish annually the following:
   (a) the number of taxpayers that the Commissioner has formally notified under this clause in the previous tax year; and
   (b) the number of taxpayers that the Commissioner has communicated information in relation to, under subclause (5) or (6), in the previous tax year; and
   (c) the number of taxpayers that the Commissioner has formally notified and communicated information in relation to, under subclause (5) or (6), but who paid the total relevant amount of reportable unpaid tax in the previous tax year; and
@@ -10762,7 +10775,7 @@ Section 18 does not prevent the Commissioner communicating to any Registrar, in 
 (10) For the purposes of this clause, approved credit reporting agency means an organisation that—
   (a) carries on a business of reporting to other organisations, for payment, information relevant to the assessment of a person’s creditworthiness; and
   (b) is approved by the Commissioner under subclause (9); and
-  (c) the Commissioner has published the name of, in a publication chosen by the Commissioner.
+  (c) has had its name published by the Commissioner.
 (11) For the purposes of this clause, credit report means credit information about a person that is disclosed by an approved credit reporting agency.
 (12) For the purposes of this clause, reportable unpaid tax—
   (a) means, for a taxpayer, unpaid tax—
