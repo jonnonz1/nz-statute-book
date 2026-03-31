@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2025-04-01_
+_Consolidation as at 2026-03-31_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -1410,6 +1410,16 @@ Except as provided in this Part, no interest is payable on a consolidated loan b
   (a) starting on the first day of the 183-day period; and
   (b) ending on the day on which the person's consolidated loan balance was fully repaid.
 
+### 138A Loan interest cancelled if instalment arrangement complied with
+(1) This section applies if—
+  (a) a borrower is liable to pay loan interest under section 134; and
+  (b) the borrower has entered into an instalment arrangement in accordance with section 154(1A) to repay an agreed amount; and
+  (c) the borrower has met all their obligations under the instalment arrangement.
+(2) The Commissioner must cancel any loan interest that is calculated and accrued from the date the instalment arrangement is entered into until the date the agreed amount is repaid in full.
+(3) If loan interest is cancelled under subsection (2),—
+  (a) the borrower’s loan balance is decreased by the amount of the cancelled loan interest if the loan interest has been added to the borrower’s loan balance under section 135(2); and
+  (b) the borrower’s consolidated loan balance is decreased by the amount of the cancelled loan interest if the loan interest has been calculated and accrued under section 135(1) but not yet charged and added to the borrower’s loan balance.
+
 **Late payment interest**
 
 ### 139 Late payment interest charged on unpaid amount
@@ -1425,7 +1435,9 @@ The Commissioner must, as soon as practicable after charging late payment intere
 ### 141 Late payment interest reduced if instalment arrangement complied with
 (1) This section applies if—
   (a) a borrower is liable to pay late payment interest on an unpaid amount under section 139; and
-  (b) the borrower has entered into an instalment arrangement in relation to the unpaid amount in accordance with section 154.
+  (b) the borrower has entered into an instalment arrangement in relation to either—
+    (i) the unpaid amount in accordance with section 154(1); or
+    (ii) an agreed amount in accordance with section 154(1A) and section 141B does not apply because the borrower does not meet all their obligations under the instalment arrangement.
 (2) For each month that the borrower meets his or her obligations under the instalment arrangement, any late payment interest that the borrower is liable to pay on the unpaid amount for that month must be calculated as if, in the definition of late payment interest rate in section 139(3), the reference to base interest rate plus 4% were a reference to base interest rate plus 2%.
 (3) However, subsection (2) applies only to the days in a month during which an instalment arrangement applies.
 
@@ -1435,6 +1447,16 @@ The Commissioner must, as soon as practicable after charging late payment intere
   (b) the Commissioner has exercised powers available under section 157 of the Tax Administration Act 1994 to require any person to deduct or extract any amount from any moneys payable by that person to the borrower.
 (2) For a month during which any unpaid amount remains unpaid and the Commissioner has received tax withheld or deducted in accordance with the requirements of a notice issued under section 157 of the Tax Administration Act 1994 (a deduction or extraction notice), any late payment interest that the borrower is liable to pay on the unpaid amount must be calculated as if, in the definition of late payment interest rate in section 139(3), the reference to base interest rate plus 4% were a reference to base interest rate plus 2%.
 (3) However, subsection (2) applies only to the days in a month during which a deduction or extraction notice is in effect.
+
+### 141B Late payment interest cancelled if instalment arrangement complied with
+(1) This section applies if—
+  (a) a borrower is liable to pay late payment interest on an unpaid amount under section 139; and
+  (b) the borrower has entered into an instalment arrangement in accordance with section 154(1A) to repay an agreed amount; and
+  (c) the borrower has met all their obligations under the instalment arrangement.
+(2) The Commissioner must cancel any late payment interest that is charged from the date the instalment arrangement is entered into until the date the agreed amount is paid in full.
+(3) If late payment interest is cancelled,—
+  (a) the borrower’s consolidated loan balance is decreased by the amount of the cancelled late payment interest; and
+  (b) if the late payment interest has been added to the borrower’s unpaid amount under section 139, the borrower’s unpaid amount is decreased by the amount of the cancelled late payment interest.
 
 **Matters of general application to interest**
 
@@ -1470,15 +1492,29 @@ No interest is payable on—
 
 ### 145 Application for different types of relief for borrower
 (1) A borrower, or a person on a borrower's behalf, may apply for 1 or more of the following:
+  (aa) relief from loan interest (see section 145A):
   (a) relief from late payment interest (see section 146):
   (ab) relief from a penalty (see section 146A):
   (b) hardship relief for the current tax year, any prior tax year, or the next tax year (see section 147):
   (c) financial relief by entry into an instalment arrangement (see section 154).
-(2) An application under subsection (1)﻿(a) must be made by notifying the Commissioner in a manner acceptable to the Commissioner.
+(2) An application under subsection (1)﻿(aa), (a), or (ab) must be made by notifying the Commissioner in a manner acceptable to the Commissioner.
 (3) An application under subsection (1)﻿(b)—
   (a) must be made by notifying the Commissioner in a manner acceptable to the Commissioner:
   (b) that relates to hardship relief for the next tax year must be made on or before 31 March in the tax year that immediately precedes the tax year for which relief is sought.
 (4) An application under subsection (1)﻿(c) must be made in accordance with section 154(1).
+
+**Relief from loan interest**
+
+### 145A Commissioner may grant relief from loan interest
+(1) This section applies if a borrower—
+  (a) has been charged with loan interest; and
+  (b) has agreed with the Commissioner an amount required to repay their consolidated loan balance in full; and
+  (c) applies under section 145(1)﻿(aa) for relief from loan interest.
+(2) The Commissioner may, having regard to the circumstances of the case and if the Commissioner considers it equitable to do so, write off as much of the loan interest as the Commissioner considers equitable.
+(3) If loan interest is written off,—
+  (a) the borrower’s loan balance is decreased by the amount of the written-off loan interest that is loan interest that has been added to the borrower’s loan balance under section 135(2); and
+  (b) the borrower’s consolidated loan balance is decreased by the amount of the written-off loan interest that is loan interest that has been calculated and accrued under section 135(1) but not yet charged and added to the borrower’s loan balance.
+(4) The Commissioner may reverse a write-off if the amount was written off due to false or misleading information provided by the borrower.
 
 **Relief from late payment interest**
 
@@ -1566,6 +1602,7 @@ A borrower who applies for hardship relief under section 145(1)﻿(b) must notif
 (1) An application for entry into an instalment arrangement—
   (a) may be made at any time in relation to an unpaid amount or an amount that is not yet due; and
   (b) must be made in accordance with section 177(1)﻿(b) of the Tax Administration Act 1994.
+(1A) If a borrower agrees with the Commissioner an amount required to repay their consolidated loan balance in full and applies for relief under section 145(1)﻿(aa) or (a), the borrower may apply for entry into an instalment arrangement for that agreed amount. The application must be made in accordance with section 177(1)﻿(b) of the Tax Administration Act 1994.
 (2) Sections 177(1)﻿(b) and (3) to (5), 177A, 177B, and 177CA of the Tax Administration Act 1994 apply to an application under subsection (1) and to an instalment arrangement granted as a result of that application, as far as applicable and with all necessary modifications, as if—
   (a) every reference to a taxpayer included a borrower; and
   (b) every reference to tax included an unpaid amount.
@@ -1808,10 +1845,11 @@ A borrower may challenge a decision by the Commissioner under section 107B not t
 
 ### 184 Challenge to decision concerning relief
 (1) A borrower may challenge a decision by the Commissioner, on the ground that the decision is not fair and reasonable, not to grant the borrower—
+  (aa) relief from loan interest under section 145A:
   (a) relief from late payment interest under section 146:
   (b) hardship relief under section 147:
   (c) entry into an instalment arrangement under section 154.
-(2) A borrower may challenge the relief provided to the borrower under section 146, 147, or 154 on the ground that the relief is not fair and reasonable.
+(2) A borrower may challenge the relief provided to the borrower under section 145A, 146, 147, or 154 on the ground that the relief is not fair and reasonable.
 
 ### 185 Challenge to late notification penalty
 A borrower who is charged with a late notification penalty may challenge the penalty on the ground that it was imposed on the borrower in error.
@@ -1912,8 +1950,8 @@ An entitlement under the final-year fees-free scheme is treated as being credite
 
 ### 196 Cancellation of interest if consolidated loan balance repaid early
 (1) Subsection (2) applies if—
-  (a) the Commissioner informs or notifies a borrower of the borrower's consolidated loan balance (the notification); and
-  (b) the borrower pays the consolidated loan balance stated in the notification in full within 30 days after the date of the notification.
+  (a) the Commissioner informs or notifies a borrower of the amount required to repay the borrower's consolidated loan balance (the notification); and
+  (b) the borrower pays the amount stated in the notification in full within 30 days after the date of the notification.
 (2) The Commissioner must cancel any loan interest that is calculated and accrued between the date of the notification and the date on which the payment is received.
 (3) A notification provided on or after 2 March 2012 under section 60A(1) of the Student Loan Scheme Act 1992 is treated as being a notification under subsection (1).
 (4)
@@ -2197,14 +2235,14 @@ A borrower who makes an application under section 25(1)﻿(e) must—
   (b) provide the Commissioner with the following:
     (i) evidence from the NZQA verifying that the borrower's course is study at postgraduate or undergraduate level; and
     (ii) evidence from the borrower's overseas education provider verifying that the borrower is enrolled full-time in the course verified by the NZQA.
-(2) In this clause, study at postgraduate or undergraduate level means study that is assessed by the NZQA as being equivalent to level 7, 8, 9, or 10 on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under section 452(1)﻿(c) of the Education and Training Act 2020.
+(2) In this clause, study at postgraduate or undergraduate level means study that is assessed by the NZQA as being equivalent to level 7, 8, 9, or 10 on the New Zealand Qualifications and Credentials Framework developed by the NZQA under section 452(1)﻿(c) of the Education and Training Act 2020.
 
 ### 8 Condition to full-time overseas study under formal exchange programme or formal agreement application
 (1) A borrower who makes an application under section 25(1)﻿(h) must—
   (a) be undertaking study that—
     (i) the borrower is enrolled in with a New Zealand tertiary education provider; and
     (ii) if it is completed successfully, will count towards a qualification offered by a New Zealand tertiary education provider; and
-    (iii) is assessed by the NZQA as being equivalent to level 7 or above on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under section 452(1)﻿(c) of the Education and Training Act 2020; and
+    (iii) is assessed by the NZQA as being equivalent to level 7 or above on the New Zealand Qualifications and Credentials Framework developed by the NZQA under section 452(1)﻿(c) of the Education and Training Act 2020; and
     (iv) is full-time and undertaken overseas as part of either—
       (A) a formal exchange programme approved by the New Zealand Government; or
       (B) a formal agreement between a New Zealand tertiary education provider and an overseas tertiary provider; and
@@ -2219,7 +2257,7 @@ A borrower who makes an application under section 25(1)﻿(i) must—
   (a) be undertaking study that—
     (i) the borrower is enrolled in with a New Zealand tertiary education provider; and
     (ii) if it is completed successfully, will count towards a qualification offered by a New Zealand tertiary education provider; and
-    (iii) is assessed by the NZQA as being equivalent to level 8 or above on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under section 452(1)﻿(c) of the Education and Training Act 2020; and
+    (iii) is assessed by the NZQA as being equivalent to level 8 or above on the New Zealand Qualifications and Credentials Framework developed by the NZQA under section 452(1)﻿(c) of the Education and Training Act 2020; and
     (iv) is full-time and undertaken overseas; and
     (v) cannot be completed in New Zealand; and
   (b) provide the Commissioner with evidence from the borrower's New Zealand tertiary education provider verifying that the borrower's study meets the requirements of paragraph (a).
