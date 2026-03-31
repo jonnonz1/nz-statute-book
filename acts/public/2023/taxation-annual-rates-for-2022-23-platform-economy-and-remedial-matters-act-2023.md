@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023
-_Consolidation as at 2025-03-29_
+_Consolidation as at 2026-03-31_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023.
@@ -44,7 +44,7 @@ This Act is the Taxation (Annual Rates for 2022–23, Platform Economy, and Reme
 (37) Sections 121(8) and 124(4) come into force on 1 July 2023.
 (38) Sections 162(4), (7), and (9), 165, 188(1), 189, 191, 201, 202(3), 210, 211, and 212 come into force on 1 January 2024.
 (39) Sections 18, 24B, 28, 36, 100, 103, 104, 106, 114(18), 121(2), (3), (4), (5), (6), and (7), 123(1A), 124(5), 126(1), 130, 132(1), (4), and (5), 134, 135, 136B, 137(4), (5), (14), (15), (16), (17), (23), and (28), 138, 140, 141, 144(1), (3), and (5), 145B, 146, 147, 151, 152(1), (3), (4), (5), and (5B), 152B, 153, 154, 155, 157B, 167, 168, 169, 199, 208(3), and 213(1) come into force on 1 April 2024.
-(40) Section 119(3) comes into force on 1 April 2026.
+(40)
 (41) Sections 124(1) and 158(2) come into force on 30 June 2026.
 (42) Section 119(7) comes into force on 1 April 2027.
 
@@ -1008,7 +1008,7 @@ In schedule 21B, part B, item 21, replace the contract for the Callaghan Innovat
 ### 119 Schedule 32 amended (Recipients of charitable or other public benefit gifts)
 (1) In schedule 32, insert, in appropriate alphabetical order, Cotton On Foundation Limited, Engineers Without Borders New Zealand Incorporated, Family for Every Child New Zealand Trust, Forests for People Limited, Joyya Trust, and Solomon Island Medical Mission Charitable Trust.
 (2) In schedule 32, insert, in appropriate alphabetical order, Heilala Vanilla Foundation.
-(3) In schedule 32, delete Heilala Vanilla Foundation.
+(3)
 (4) In schedule 32, insert, in appropriate alphabetical order, New Zealand for UNHCR (United Nations High Commissioner for Refugees).
 (5) In schedule 32, delete UNHCR (United Nations High Commissioner for Refugees).
 (6) In schedule 32, insert, in appropriate alphabetical order, Pacific Island Food Revolution Limited.
@@ -1452,7 +1452,7 @@ After section 60C, insert:Listing intermediaries and supply of listed services
     (b) enters into an agreement with an operator of an electronic marketplace to list or advertise the listed services provided by the underlying supplier.
 
 ### 153 New section 60H inserted (Information requirements for underlying suppliers operating through electronic marketplaces)
-(1) After section 60G, insert: Information requirements for underlying suppliers operating through electronic marketplaces
+(1) After section 60G, insert:Information requirements for underlying suppliers operating through electronic marketplaces
   (1) An underlying supplier of listed services operating on an electronic marketplace must notify the operator of the electronic marketplace of—
     (a) their name and tax file number:
     (b) their GST registration status.
