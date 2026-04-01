@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2026-03-31_
+_Consolidation as at 2026-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2209,6 +2209,18 @@ Secondary legislation
   (a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
   (b) commences in accordance with subsection (5), even if it is not yet published.
 
+### CE 1BA Reimbursement of employee expenditure for benefit
+When this section applies
+(1) This section applies when an employer pays an amount to reimburse an employee for expenditure the employee has incurred for a benefit that, if the employer provided it directly to the employee, would constitute an unclassified benefit under section CX 37 (Meaning of unclassified benefit).
+Employer election
+(2) The amount paid by the employer is, at the employer’s election, either—
+  (a) employment income of the employee under section CE 1; or
+  (b) an unclassified benefit under section CX 37.
+Exempt income
+(3) If the employer chooses to treat the amount paid as employment income of the employee, as described in subsection (2)﻿(a), section CW 17BA (Reimbursement of expenditure paid as employment income) applies to the payment.
+Exclusion: payments for certain work-related meals
+(4) Subsection (2) does not apply when an employer pays an amount to reimburse an employee for expenditure to which section CW 17CB (Payments for certain work-related meals) applies and the time limit in subsection (5) of that section has elapsed.
+
 ### CE 1B General rule: accommodation provided by employers
 Value of accommodation
 (1) The value of accommodation provided to a person is income of the person when it is provided in relation to their employment or service. The value is an amount equal to the market rental value of the accommodation.
@@ -2413,6 +2425,8 @@ Exclusions
   (b) a right or requirement that is not contemplated by the employee share scheme’s provisions:
   (c) a right or requirement that, at the time it came into existence, had no material risk of operating or no material commercial significance:
   (d) a right or requirement in relation to the transfer of shares, if the right or requirement is 1 that also applies to shares not under the employee share scheme.
+Meaning for employee deferred shares
+(3) Despite subsections (1) and (2), if the shares are employee deferred shares under section EA 4B (Deferred tax for unlisted employee share schemes), the share scheme taxing date is the liquidity event date.
 Example 1 – Simple vesting periodAcme Limited transfers shares worth $10,000 to a trustee on trust for an employee, Alice, of Acme Limited. Under the terms of the trust, Alice forfeits, for no consideration, any contingent interest or beneficial ownership in the shares if she leaves the employ of Acme Limited within 3 years of the transfer of the shares to the trustee. Alice stays for 3 years, and, under the terms of the trust, the shares are transferred absolutely to her on her 3rd anniversary of employment. It is a material risk, for the 3 years after the transfer to the trustee, that the terms of the trust will operate to forfeit any contingent interest or beneficial ownership in the shares. Consequently, the share scheme taxing date for Alice’s shares is her 3rd anniversary of employment.
 Example 2 – Vesting subject to misconductAcme Limited transfers shares worth $10,000 to a trustee on trust for an employee, Bob, of Acme Limited. Under the terms of the trust, Bob forfeits, for no consideration, any contingent interest or beneficial ownership in the shares if he leaves the employ of Acme Limited because he is dismissed for serious misconduct within 3 years of the transfer of the shares to the trustee. It is not a material risk that the terms of the trust will operate to forfeit any contingent interest or beneficial ownership in the shares. The risk that Bob will be dismissed for serious misconduct within 3 years is not material. Consequently, the share scheme taxing date for Bob’s shares is the date when the shares are transferred to the trustee.
 
@@ -2517,8 +2531,10 @@ Some definitions
     (i)
   - **education grant** means a basic grant or an independent circumstances grant under regulations made under section 645 of the Education and Training Act 2020
   - **pension** —
-    (a) includes a gratuitous payment made to a person in return for services that the person, or their parent, child, spouse, civil union partner or de facto partner, former spouse, civil union partner or de facto partner, or dependant, provided to the payer when the payment would not have been made if the services had not been provided; and
-    (b) does not include a payment made to the person because of, and within 1 year after, the death of that parent, child, spouse, civil union partner or de facto partner, former spouse, civil union partner or de facto partner, or dependant.
+    (a) includes a gratuitous payment made to a person or a trustee of their estate if that person, or their parent, child, spouse, civil union partner or de facto partner, former spouse, civil union partner or de facto partner, or dependant, provided services to the payer when the payment would not have been made if the services had not been provided; and
+    (b) does not include a payment made to—
+      (i) the person because of, and within 1 year after, the death of that parent, child, spouse, civil union partner or de facto partner, former spouse, civil union partner or de facto partner, or dependant:
+      (ii) a trustee of the person’s estate because of, and within 1 year after, the person’s death.
 
 ### CF 2 Remission of specified suspensory loans
 When this section applies
@@ -2572,7 +2588,7 @@ Exemption period
   (a) the end of the period of 48 months beginning after the month in which the person meets the requirements of section YD 1(2) or (3) ignoring the rule in section YD 1(4):
   (b) the date on which the person becomes a non-resident again.
 Assessable withdrawal amount
-(7) The part (the assessable withdrawal amount) of a foreign superannuation withdrawal that is treated as not being exempt income of the person depends on the total period (the assessable period) referred to in subsection (8) for the person and the interest in the scheme.
+(7) The assessable withdrawal amount of the person, being the amount of a foreign superannuation withdrawal that is treated as not being exempt income, depends on the total period (the assessable period) referred to in subsection (8) for the person and the interest in the scheme.
 Assessable period
 (8) The assessable period for the person and a foreign superannuation withdrawal arising from an interest in the foreign superannuation scheme—
   (a) if the person is a non-resident when they acquire the interest, begins on the later of—
@@ -3004,6 +3020,9 @@ When this section applies
 Income
 (2) The amount calculated under section FE 7B(3) is income of the excess debt entity for the income year.
 
+### CH 10C Interest apportionment: non-qualifying infrastructure debt
+An amount derived by a person under section FE 7C(4) (Exemption for eligible infrastructure) is income of the person.
+
 **Expenditure other than for entities’ purposes**
 
 ### CH 11 Te Awa Tupua and Te Pou Tupua
@@ -3117,6 +3136,7 @@ General rule
     (xiii)
     (xiva) the exemption for an interest in a foreign superannuation scheme that is not a FIF superannuation interest in section EX 42B (Interests in foreign superannuation scheme other than FIF superannuation interests):
     (xiv) the annuity or pension exemption in section EX 43 (Non-resident’s pension or annuity exception):
+    (xivb) the exemption for share users in returning share transfers in section EX 43B (Exemption for share users in returning share transfers):
     (xv) an exemption for a non-attributing active FIF given by sections EX 50, EX 18A(2)﻿(b)﻿(i), and EX 21B (which relate to the attributable FIF income method and FIFs corresponding to non-attributing active CFCs); and
   (d) if the person is a natural person,—
     (i) the total cost, calculated under section EX 68 (Measurement of cost), of attributing interests in FIFs that the person holds at any time in the year when the person is a New Zealand resident is more than $50,000:
@@ -4176,7 +4196,13 @@ Estimated expenditure of employees
 Depreciation loss included
 (4) In this section, expenditure includes an amount of depreciation loss.
 Relationship with certain employment expenses provisions
-(5) This section does not apply to an amount referred to in section CW 16B to CW 16F, CW 17B, CW 17C, CW 17CB, CW 17CC, CW 17D, or CW 18 (which relate to certain amounts of employment expenditure).
+(5) This section does not apply to an amount referred to in section CW 16B to CW 16F, CW 17BA, CW 17B, CW 17C, CW 17CB, CW 17CC, CW 17D, or CW 18 (which relate to certain amounts of employment expenditure).
+
+### CW 17BA Reimbursement of expenditure paid as employment income
+When this section applies
+(1) This section applies when an employer chooses to treat an amount paid to an employee under section CE 1BA (Reimbursement of employee expenditure for benefit) as employment income.
+Exempt income
+(2) An amount paid as employment income under section CE 1BA(2)﻿(a) is exempt income of the employee to the extent to which the payment would not have exceeded the threshold limits in section RD 45 (Unclassified benefits and gift cards) had the payment been treated as an unclassified benefit under section CX 37 (Meaning of unclassified benefit).
 
 ### CW 17B Relocation payments
 Exempt income
@@ -4309,7 +4335,7 @@ Exempt income
 Exclusion
 (2) This section does not apply to the income of a public entertainer.
 Meaning of public entertainer
-(3) In this section, public entertainer includes—
+(3) In this section and sections CW 22B and CW 22C, public entertainer includes—
   (a) circus performers, dancers, lecturers, motion picture artists, musicians, radio artists, singers, television artists, and theatre artists; and
   (b) athletes, boxers, wrestlers, and other professional sportspersons.
 
@@ -4388,6 +4414,32 @@ Some definitions
       (ii) is in principle similar to any arrangement to which paragraph (a) or (b) applies
   - **international organisation** means an organisation whose members are sovereign powers, whether countries of the Commonwealth or foreign sovereign powers, or the governments of those countries or powers
   - **non-resident person** means a person who would not be resident in New Zealand if they were not present in New Zealand under an arrangement for assistance entered into by the government of New Zealand. The residence of the person is determined without applying section YD 1(3) (Residence of natural persons).
+
+### CW 22B Amounts derived by non-resident visitors during visits
+Exempt income
+(1) Income a non-resident visitor derives from performing personal or professional services in New Zealand during a visit is exempt income if—
+  (a) the services are performed for or on behalf of a person who is not resident in New Zealand; and
+  (b) the amount derived from the personal or professional services is liable to tax in the country or territory outside New Zealand in which the non-resident visitor is resident or liable to tax on the basis of citizenship.
+Exclusion
+(2) This section does not apply to the income of a public entertainer.
+
+### CW 22C Amounts derived by non-residents from non-resident visitors in New Zealand
+Exempt income
+(1) An amount of income derived by a non-resident person that has a source in New Zealand under section YD 4(2) or (3) (Classes of income treated as having New Zealand source) is exempt income if—
+  (a) the income has a source in New Zealand only because a person who is a non-resident visitor is physically present in New Zealand; and
+  (b) the amount derived is liable to tax in the country or territory outside New Zealand in which the non-resident person is resident or liable to tax on the basis of citizenship.
+Exclusion
+(2) This section does not apply to the income of a public entertainer.
+
+### CW 22D Treatment of non-resident visitors for sections CW 22B and CW 22C
+When this section applies
+(1) This section applies to an amount of income derived by a non-resident visitor from performing personal or professional services in New Zealand or an amount of income derived by a non-resident person that has a source in New Zealand under section YD 4(2) or (3) (Classes of income treated as having New Zealand source) if—
+  (a) the amount is not liable to tax in a country or territory outside New Zealand in accordance with section CW 22B(1)﻿(b) or CW 22C(1)﻿(b), as applicable, because the non-resident visitor has ceased to be either resident in that country or territory or liable to tax on the basis of citizenship; and
+  (b) section YD 1B(4) (Non-resident visitors) applies to the non-resident visitor; and
+  (c) the laws of the country or territory outside New Zealand referred to in section YD 1B(4) treat the person’s cessation of residency or liability to tax as having occurred on an earlier date (the effective date) than the date the person stops being a non-resident visitor under that section (the cessation date); and
+  (d) the amount is derived in the period starting on the effective date and ending on the cessation date.
+Amount treated as liable to tax in foreign country or territory
+(2) For the purposes of section CW 22B(1)﻿(b) or CW 22C(1)﻿(b), as applicable, the amount derived is treated as being liable to tax in the country or territory outside New Zealand.
 
 ### CW 23 Income for military or police service in operational area
 When this section applies
@@ -5146,6 +5198,12 @@ When amount treated as expenditure
 Allocation
 (3) For the purposes of subsection (2), the allocation of the amount of the expenditure occurs under section BD 4 (Allocation of deductions to particular income years).
 
+### CW 61B Income from supply of excess electricity from dwelling
+Exempt income
+(1) An amount derived by a natural person from the supply of excess electricity generated at a dwelling occupied as a residence by the person is exempt income.
+Meaning of excess electricity
+(2) For the purposes of this section, excess electricity means electricity generated at a dwelling that is not consumed at the dwelling and is supplied to an electricity retailer.
+
 ### CW 62 Interest paid under the KiwiSaver Act 2006
 Interest paid by the Commissioner under section 84 of the KiwiSaver Act 2006 is exempt income.
 
@@ -5370,7 +5428,7 @@ Exclusion: benefit provided to non-executive director
 Non-cash benefits
 (4) Subsection (2) applies to non-cash benefits that would,—
   (a) in the absence of section CD 32 (Employee benefits), be dividends under section CD 4 (Transfers of company value generally) if provided to a person in their capacity as a shareholder; and
-  (b) in the absence of section CX 4, be unclassified benefits if provided to a person in their capacity as an employee.
+  (b) in the absence of section CX 4, be, or be treated as, unclassified benefits under section RD 45 (Unclassified benefits and gift cards) if provided to a person in their capacity as an employee.
 Exclusion: election by close company
 (4B) Despite subsection (4), subsection (2) does not apply and the benefit is neither a fringe benefit nor a dividend in an income year if—
   (a) the benefit—
@@ -5538,6 +5596,8 @@ Employees’ PAYE income payments
 (1) A benefit received by an employee is not a fringe benefit to the extent to which it is received in a quarter or in an income year in which they derive 1 or more pay-as-you-earn (PAYE) income payments, all of which are not liable for income tax.
 Benefit provided during time spent in New Zealand
 (2) Despite subsection (1), some or all of a benefit received by an employee who is not resident in New Zealand but derives a PAYE income payment that is taxable in New Zealand is a fringe benefit only to the extent to which the benefit relates to time spent by the employee in New Zealand.
+Benefits provided to non-resident visitors
+(3) A benefit received by an employee who is a non-resident visitor is not a fringe benefit.
 
 ### CX 27 Assistance with tax returns
 Not fringe benefit
@@ -9186,6 +9246,7 @@ General rule
     (xiii)
     (xiva) the exemption for an interest in a foreign superannuation scheme that is not a FIF superannuation interest in section EX 42B (Interests in foreign superannuation scheme other than FIF superannuation interests):
     (xiv) the annuity or pension exemption in section EX 43 (Non-resident’s pension or annuity exception):
+    (xivb) the exemption for share users in returning share transfers in section EX 43B (Exemption for share users in returning share transfers):
     (xv) an exemption given by sections EX 50, EX 18A(2)﻿(b)﻿(i), and EX 21B (which relate to the attributable FIF income method and FIFs corresponding to non-attributing active CFCs); and
   (d) if the person is a natural person,—
     (i) the total cost, calculated under section EX 68 (Measurement of cost), of attributing interests in FIFs that the person holds at any time in the year when the person is a New Zealand resident is more than $50,000:
@@ -10744,7 +10805,7 @@ Deduction under section CE 2(3)
 Employment income
 (5) The person is allowed a deduction for an amount of expenditure or loss incurred on employment income other than under section CE 1(1)﻿(d) (Amounts derived in connection with employment).
 Deduction for benefit
-(6) If the person is the employing or contracting company for an employee share scheme beneficiary described in section CE 7(a)﻿(i) or (ii) (Meaning of employee share scheme) (the employee), the person has an amount of expenditure or loss calculated using the formula in subsection (7).
+(6) If the person is the employing or contracting company for an employee share scheme beneficiary described in section CE 7(a)﻿(i) or (ii) (Meaning of employee share scheme) (the employee), the person has an amount of expenditure or loss, arising on the share scheme taxing date, calculated using the formula in subsection (7).
 Formula
 (7) For the purposes of subsection (6), the amount of the expenditure or loss is the positive amount calculated using the formula—employee amount − previous deductions.
 Definition of items in formula
@@ -11384,12 +11445,30 @@ Accounting treatment of transferred obligations
   (a) may account for the amount in a way that treats the relevant employee individually or treats the buyer’s employees as a group; and
   (b) must account for the amount in the same way in each relevant income year.
 
-### EA 5 Income from disposal of original shares under share-lending arrangements
+### EA 4B Deferred tax for unlisted employee share schemes
+When this section applies
+(1) This section applies to shares issued or transferred under an employee share scheme by a company that is not—
+  (a) a listed company:
+  (b) a member of a group of companies where at least 1 member is a listed company.
+Designation
+(2) The employer may, at the time the shares are issued or transferred, designate the shares issued or transferred to an employee share scheme beneficiary as employee deferred shares. If the employer makes that designation, the employer must notify both the Commissioner and the employee share scheme beneficiary of that designation within 20 days after the date of issue or transfer, or by a later date allowed by the Commissioner.
+Consequences of deferral
+(3) If the employer chooses to designate shares as employee deferred shares under subsection (2), the share scheme taxing date for those shares is deferred to the liquidity event date in accordance with section CE 7B(3) (Meaning of share scheme taxing date).
+Meaning of liquidity event date
+(4) Liquidity event date,—
+  (a) subject to paragraph (b), means the earliest of the following dates:
+    (i) the date on which the company that issued or transferred the shares under the employee share scheme referred to in subsection (1) becomes a listed company; and
+    (ii) the date the employee share scheme beneficiary sells or transfers the shares to a person who is not associated with a beneficiary described in section CE 7(a)﻿(i) or (ii) (Meaning of employee share scheme); and
+    (iii) the date the shares are cancelled, including by the company ceasing to exist:
+  (b) if the date determined under paragraph (a) occurs while the shares are subject to a restriction that prevents their disposal, means the date on which the restriction ends:
+  (c) does not include a date referred to in paragraph (a) or (b) if the shares are sold or otherwise exchanged only for shares in a company that would satisfy subsection (1) if it had issued the shares under an employee share scheme.
+
+### EA 5 Income from disposal of original shares under returning share transfers
 When this section applies
 (1) This section applies when a person—
-  (a) is a share user under a share-lending arrangement; and
-  (b) derives an amount of income in an income year from the disposal of an original share under the share-lending arrangement to a person other than the share supplier or a person associated with the share supplier; and
-  (c) has a deduction in the following income year (the later income year) for expenditure incurred on acquiring an identical share.
+  (a) is a share user under a returning share transfer; and
+  (b) derives an amount of income in an income year from the disposal of an original share under the returning share transfer to a person other than the share supplier or a person associated with the share supplier; and
+  (c) has a deduction in a later income year for expenditure incurred on acquiring an identical share.
 Allocation of income
 (2) The amount of income derived by the person may be allocated to the later income year.
 
@@ -16268,7 +16347,9 @@ Short-term option
 Travellers’ cheques
 (24) Travellers’ cheques are excepted financial arrangements, except for a party who makes an election under section EW 8.
 Variable principal debt instrument
-(25) A variable principal debt instrument is an excepted financial arrangement, except for a party who makes an election under section EW 8, if the total value on every day in an income year of all variable principal debt instruments to which a person is a party is $100,000 or less.
+(25) A variable principal debt instrument is an excepted financial arrangement if the total value on every day in an income year for all variable principal debt instruments to which a person is a party is $100,000 or less, except when the person who is a party to the financial arrangement—
+  (a) makes an election under section EW 8; or
+  (b) is a company.
 
 ### EW 6 Relationship between financial arrangements and excepted financial arrangements
 Part of financial arrangement
@@ -17412,7 +17493,10 @@ Absolute value threshold
 (2) For the purposes of section EW 54(1)﻿(b), this subsection applies if, on every day in the income year, the absolute value of all financial arrangements to which the person is a party added together is $2,000,000 or less. The value of each arrangement is,—
   (a) for a fixed principal financial arrangement, its face value:
   (b) for a variable principal debt instrument, the amount owing by or to the person under the financial arrangement:
-  (c) for a financial arrangement to which the old financial arrangements rules apply, the value determined under those rules.
+  (c) for a financial arrangement to which the old financial arrangements rules apply, the value determined under those rules:
+  (d) for a financial arrangement denominated in a foreign currency, the value calculated by converting the value of the arrangement into New Zealand dollars at the exchange rate applying on the date the person first became a party to the arrangement and,—
+    (i) if the principal amount of the arrangement increases, the value of the arrangement is calculated by converting the amount of the increase into New Zealand dollars at the exchange rate applying on the date of the change and adding it to the original New Zealand dollar value of the arrangement:
+    (ii) if the principal amount of the arrangement decreases, the value of the arrangement is calculated by converting the amount of the reduction into New Zealand dollars at the exchange rate applying on the date the person first became a party to the arrangement and subtracting it from the original New Zealand dollar value.
 Deferral threshold
 (3)
 Formula
@@ -18653,7 +18737,7 @@ A foreign investment fund, or FIF, is any of the following
 Three categories
 (1) A person has an attributing interest in a FIF if—
   (a) the person holds rights in 1 of the categories of rights described in subsections (2) to (4); and
-  (b) none of the exemptions in sections EX 31 to EX 43 applies to those rights.
+  (b) none of the exemptions in sections EX 31 to EX 43B applies to those rights.
 Category 1: direct income interest in foreign company
 (2) The first category is a direct income interest, as defined in section EX 30, in a foreign company or in an entity described in schedule 25, part A (Foreign investment funds).
 Category 2: FIF superannuation interest
@@ -18888,6 +18972,19 @@ Elective exclusion of pre-1996–97 rights
 (4) Subsection (1) does not apply if—
   (a) the rights were acquired before the 1996–97 income year; and
   (b) the person chose to treat the rights as an interest in a foreign investment fund for the 1996–97 income year and later income years by complying with the requirements of section CG 15(4) of the Income Tax Act 1994.
+
+### EX 43B Exemption for share users in returning share transfers
+When this section applies
+(1) This section applies when a share user—
+  (a) acquires an original share under a returning share transfer; and
+  (b) disposes of the original share to a person other than the share supplier or a person associated with the share supplier; and
+  (c) acquires an identical share to return to the share supplier under the returning share transfer.
+Exemption
+(2) The share user’s rights in the original share and the identical share are not attributing interests in a FIF in an income year.
+Exclusion
+(3) Subsection (2) does not apply if—
+  (a) the share user is related to the share supplier:
+  (b) the returning share transfer is, or is part of, a structured arrangement.
 
 **Calculation of FIF income or loss**
 
@@ -19214,6 +19311,10 @@ Losses from some attributing interests not subject to rule
 (7) Subsection (8) applies to a person who calculates under subsection (1) an amount of FIF loss for an attributing interest in a FIF (the affected interest) that is not a non-ordinary share described in section EX 46(10).
 No total FIF loss from other attributing interests
 (8) If, in the absence of this subsection, the person would have under subsection (1) a total FIF loss for the income year from all the person's affected interests, the FIF loss for the income year for the person from each affected interest is reduced to the extent necessary for the total FIF loss from the affected interests to be zero.
+Treatment of attributing interests subject to returning share transfer
+(9) For a person using the comparative value method to calculate FIF income for an attributing interest in a FIF that is an original share subject to a returning share transfer, the attributing interest is treated as being held by the share supplier, except if—
+  (a) the share user is related to the share supplier:
+  (b) the returning share transfer is, or is part of, a structured arrangement.
 
 ### EX 52A Fair dividend rate method: use of different forms
 When this section applies
@@ -19847,7 +19948,7 @@ Exemptions ceasing to apply
 (1) Subsections (2) to (4) apply if a person—
   (a) holds rights in 1 of the categories of rights described in section EX 29(2) to (4); and
   (b) either—
-    (i) the rights become an attributing interest in a FIF because 1 of the exemptions in sections EX 31 to EX 43 ceases to apply; or
+    (i) the rights become an attributing interest in a FIF because 1 of the exemptions in sections EX 31 to EX 43B ceases to apply; or
     (ii) the person starts having FIF income or loss from the rights because they incur a cost on an attributing interest in a FIF and exceed the $50,000 threshold in sections CQ 5(1)﻿(d) or (e) (When FIF income arises) and DN 6(1)﻿(d) or (e) (When FIF loss arises).
 Market value for cost-based methods
 (2) If the person uses the comparative value method, deemed rate of return method, the fair dividend rate method, the cost method, or the revenue account method to calculate FIF income or loss from the rights for the period following the change, the person is treated as having—
@@ -19865,7 +19966,7 @@ Exemptions applying
 (5) Subsections (6) to (8) apply if a person—
   (a) holds an attributing interest in a FIF; and
   (b) either—
-    (i) the interest ceases to be an attributing interest in a FIF because 1 of the exemptions in sections EX 31 to EX 43 starts to apply; or
+    (i) the interest ceases to be an attributing interest in a FIF because 1 of the exemptions in sections EX 31 to EX 43B starts to apply; or
     (ii) the person ceases having FIF income or loss from the interest because they dispose of an attributing interest in a FIF and fall below the $50,000 threshold in sections CQ 5(1)﻿(d) or (e) and DN 6(1)﻿(d) or (e).
 Market value for cost-based methods
 (6) If the person uses the comparative value method, the deemed rate of return method, the fair dividend rate method, the cost method, or the revenue account method to calculate FIF income or loss from the interest for the period before the change, the person is treated as having—
@@ -23741,6 +23842,8 @@ Persons to whom interest apportionment rules may apply
     (ic) an interest in a FIF for which the person uses the attributable FIF income method:
     (ii) an ownership interest in a company described in paragraph (e) or (f) of 50% or more:
     (iii) control of a company described in paragraph (e) or (f) by any other means.
+Persons to whom this subpart does not apply
+(1BA) Despite subsection (1), this subpart does not apply, except to the extent provided in section FE 7B or FE 7C, to public project debt or an eligible infrastructure entity when a person chooses to apply section FE 7B or FE 7C.
 Non-resident owning bodies
 (1B) For the purposes of this subpart and the definition of non-resident owning body,—
   (a) a non-resident includes a person who meets the requirements of section FE 2(1)﻿(cc), (d), or (db):
@@ -24017,6 +24120,104 @@ Public projects treated separately
 (5) This section applies separately to each project of an excess debt entity for which the excess debt entity has public project debt.
 Public project debt, interest, assets, and non-debt liabilities, excluded for other applications
 (6) Public project debt, interest on public project debt, public project assets and other assets, and non-debt liabilities, taken into account in the application of this section to an excess debt entity for a project are excluded from the debt, interest, assets, and non-debt liabilities, of the excess debt entity taken into account in the apportionment of interest expenditure for another project or under another section of this subpart.
+
+### FE 7C Exemption for eligible infrastructure
+When this section applies
+(1) This section applies, for a person and an income year, when the person—
+  (a) meets the requirements of section FE 2(1)﻿(b), (c), or (cc); and
+  (b) is an eligible infrastructure entity for the income year; and
+  (c) has qualifying infrastructure debt for the income year; and
+  (d) chooses, in a form and manner approved by the Commissioner, for this section to apply to them for the income year; and
+  (e) has not chosen to apply section FE 7B.
+Non-application of subpart
+(2) Subpart FE does not apply to an eligible infrastructure entity except to the extent necessary to give effect to this section.
+Amounts relating to eligible infrastructure entity excluded
+(3) For the purposes of applying this subpart to any other person, the following are excluded:
+  (a) the debt, interest, assets, and non-debt liabilities of the eligible infrastructure entity; and
+  (b) any asset to the extent it represents a direct or indirect interest in the eligible infrastructure entity (including, for example, goodwill).
+Income
+(4) If the eligible infrastructure entity incurs interest on debt that is not qualifying infrastructure debt or issues fixed-rate foreign equity or fixed-rate shares, the person is treated as deriving an amount of income under section CH 10C (Interest apportionment: non-qualifying infrastructure debt) calculated using the following formula:non-QID interest + FRD.
+Items in formula
+(5) In the formula in subsection (4),—
+  (a) non-QID interest is the total amount of interest incurred by the eligible infrastructure entity for the income year on debt that is not qualifying infrastructure debt:
+  (b) FRD is the total amount of dividends paid by the eligible infrastructure entity, for the income year, for fixed-rate foreign equity or fixed-rate shares issued by the eligible infrastructure entity and held by a person resident in New Zealand.
+Qualifying infrastructure group
+(6) A qualifying infrastructure group is treated as a single person for the purposes of this section if, for the income year, the group, treated as if it were a single entity and disregarding intra-group balances, meets the definition of eligible infrastructure entity, except for paragraph (d).
+Definition of eligible infrastructure entity
+(7) In this section and section FE 2, eligible infrastructure entity means a person—
+  (a) that carries on a business or project consisting of—
+    (i) creating, operating, maintaining, or upgrading qualifying infrastructure assets the person owns; and
+    (ii) any activity in New Zealand that is ancillary to or facilitates the activities described in subparagraph (i), if the person carries on any such activity; and
+  (b) whose assets, to the extent they are used in, or for the purposes of, the business or project referred to in paragraph (a), comprise at least 95% of the total value of the person’s assets recognised in its balance sheet for the income year and include—
+    (i) tangible assets:
+    (ii) intangible assets:
+    (iii) financial assets to which the person is a party:
+    (iv) goodwill:
+    (v) deferred tax assets; and
+  (c) that does not have—
+    (i) a permanent establishment outside New Zealand:
+    (ii) an interest in a foreign investment fund, controlled foreign company, partnership, or a trust in a foreign jurisdiction:
+    (iii) an asset situated outside New Zealand, other than an asset that is held in relation to the business or project described in paragraph (a) and is 1 or more of the following:
+      (A) a hedging arrangement:
+      (B) minor:
+      (C) situated outside New Zealand for maintenance:
+      (D) situated outside New Zealand other than for maintenance for a cumulative period of no more than 6 months; and
+  (d) despite paragraphs (a) to (c), that has a right to impose levies under an Order in Council under the Infrastructure Funding and Financing Act 2020.
+Definition of qualifying infrastructure asset
+(8) In this section, qualifying infrastructure asset—
+  (a) means a tangible asset located in New Zealand that provides, or is integral to providing, essential services to the public or a class of users on a shared-use basis that is similar in nature to the following types of assets, and includes the following types of assets:
+    (i) transport infrastructure (for example, roads, rail, ports, airports, and ferries); and
+    (ii) energy infrastructure (for example, electricity generation, transmission, and distribution assets); and
+    (iii) water infrastructure (for example, water supply, wastewater, and stormwater systems); and
+    (iv) telecommunication infrastructure (for example, fibre networks, data centres, and communication towers); and
+    (v) waste infrastructure (for example, recycling facilities and landfills); and
+    (vi) social infrastructure (for example, hospitals, schools, libraries, prisons, large-scale student accommodation, or similar public facilities); and
+  (b) despite paragraph (a), includes a tangible asset described in that paragraph that provides, or is integral to providing, an essential service that is not provided on a shared-use basis if—
+    (i) the service is of a kind that is ordinarily provided on a shared-use basis to the public or a class of users; and
+    (ii) the absence of shared use arises solely because the service is supplied to a single user or a small group of users under contractual arrangements; and
+  (c) does not include—
+    (i) commercial buildings (for example, offices, supermarkets, and shopping malls); and
+    (ii) industrial buildings (for example, factories); and
+    (iii) dwellings.
+Definition of qualifying infrastructure debt
+(9) In this section, qualifying infrastructure debt means, for the eligible infrastructure entity, debt for which, for the income year, all the following are satisfied:
+  (a) the debt is applied to the eligible infrastructure entity’s business or project; and
+  (b) the debt is third-party debt; and
+  (c) the debt is limited-recourse debt.
+Definition of third-party debt
+(10) In this section, third-party debt—
+  (a) means debt where the funds are provided by a person who is not—
+    (i) a person with a direct or indirect ownership interest in the borrower:
+    (ii) an associated person of a person described in subparagraph (i); and
+  (b) despite paragraph (a) and subject to paragraph (c), includes debt when the funds are provided by a person who, if the eligible infrastructure entity is a listed company,—
+    (i) is a shareholder of the listed company and holds, together with any associated persons, 5% or less of the shares in the listed company:
+    (ii) is an associate of a shareholder described in subparagraph (i), if the shareholder holds, together with any associated persons, 5% or less of the shares in the listed company; and
+  (c) excludes debt if a person described in paragraph (a)﻿(i), or an associated person of that person, provides the funds or pays the money, directly or indirectly, to another person (the direct lender) who provides funds to the borrower, and the arrangement has the purpose or effect of enabling the funds to be provided to the borrower, or of reimbursing or compensating the direct lender for providing the funds; and
+  (d) excludes debt that—
+    (i) is convertible into shares, other equity interests, or partner’s interests of the borrower or an associated person:
+    (ii) provides for any return calculated by reference to profits, cashflows, or distributions of the borrower or an associated person:
+    (iii) entitles the lender to any amount from the borrower or an associated person beyond repayment of principal and accrued interest on the debt, other than fees, charges, or expenses payable to the lender in connection with the debt; and
+  (e) excludes debt if the funds are provided, directly or indirectly, by a partner to a partnership to the extent the partnership is the borrower.
+Definition of limited-recourse debt
+(11) In this section, limited-recourse debt means debt that, in the event of default, the lender’s recourse is limited to—
+  (a) the assets and income of the eligible infrastructure entity, including—
+    (i) shares in the eligible infrastructure entity, if the entity is a New Zealand company:
+    (ii) in the case of an eligible infrastructure entity that is a partner in a partnership, the assets and income only of the partnership giving rise to the eligible infrastructure entity, and any interests in that partnership, but not the assets and income that do not form part of the partnership; and
+  (b) recourse provided, or to be provided, under an equity commitment document or a letter of credit that—
+    (i) relates to the construction or creation of a new qualifying infrastructure asset by an eligible infrastructure entity that was established primarily for the purpose of creating or constructing that asset; and
+    (ii) is for a specified amount of equity that does not exceed the amount reasonably required to obtain the loan to construct or create the qualifying infrastructure asset; and
+    (iii) applies for a period that does not extend beyond the construction period; and
+  (c) if paragraph (d) of the definition of eligible infrastructure entity applies,—
+    (i) the benefit of a guarantee or other assurance from the Crown in connection with the right to impose levies; and
+    (ii) the benefit of a security or a guarantee from a third party over that third party’s assets, to the extent the security or guarantee applies only during the construction period and relates solely to the construction or creation of a qualifying infrastructure asset.
+Definition of non-debt liabilities
+(12) In this section, non-debt liabilities means the portion of the total group non-debt liabilities calculated under section FE 16B(1) or (2), as applicable, to the extent to which they relate to the eligible infrastructure entity.
+Definition of qualifying infrastructure group
+(13) In this section, qualifying infrastructure group means—
+  (a) a wholly-owned group of companies:
+  (b) a subset of a wholly-owned group of companies that chooses to be treated as a group for the purposes of this section if—
+    (i) the subset includes every company in the wholly-owned group that is wholly owned by a member of the subset; and
+    (ii) no member of the subset has an ownership interest in an entity that is not a member of the subset.
 
 ### FE 8 Measurement dates
 Daily, 3-monthly, or annual basis for excess debt entity
@@ -31159,9 +31360,10 @@ When this section applies
 Future amounts
 (2) For the purposes of determining a net amount under section HM 35(2) for an attribution period, a multi-rate PIE may take account of an amount of future income or future expenditure or loss that is—
   (a) for future income, an amount that, when derived, would be assessable income under section HM 35(3)﻿(a):
-  (b) for future expenditure or loss,—
+  (b) for future expenditure or loss, other than expenditure described in paragraph (c),—
     (i) an expense likely to be incurred by the PIE in the tax year in which the attribution period falls, or within 93 days after the end of the tax year; and
     (ii) an amount that, when incurred, would be a deduction under section HM 35(3)﻿(b).
+  (c) for future expenditure incurred in acquiring an identical share under a returning share transfer, the amount that, when incurred, would be a deduction under section HM 35(3)﻿(b).
 Reasonable estimation
 (3) For the purposes of subsection (2), the PIE must make a reasonable estimate of the amount and must be able to demonstrate, if required, the reasonableness of the estimation by—
   (a) explaining why and when the income is likely to be derived or the expense is likely to be incurred, as applicable; and
@@ -32130,6 +32332,8 @@ Meaning of transitional resident
     (ii) were not resident in New Zealand; and
   (d) they were not a transitional resident before the non-residence period; and
   (e) the period described in subsection (3) has not ended.
+Treatment of non-resident visitors
+(2B) For the purposes of determining if a person is a transitional resident under subsection (2), if the person is a non-resident visitor, section YD 1(3) is applied as modified by section YD 1(13) and (14).
 Period of transitional residence
 (3) The period for a person—
   (a) begins on the first day of the residence required by subsection (2)﻿(b); and
@@ -33723,7 +33927,7 @@ Remaining tax credits
 What this section applies to
 (1) This section applies to a remaining tax credit referred to in section LA 4(2).
 Non-refundable credits
-(2) A non-refundable tax credit is extinguished. However, this subsection does not apply to a tax credit for income tax and foreign income tax paid in relation to foreign attributed income used under section LK 4 (Use of remaining credits).
+(2) A non-refundable tax credit is extinguished. However, this subsection does not apply to a tax credit for income tax and foreign income tax paid in relation to foreign attributed income used under section LK 4 (Use of remaining credits) or to a tax credit for TSWT refundable under section RM 8B (Overpaid TSWT).
 Credits for supplementary dividends
 (3) A person uses a tax credit for a supplementary dividend by applying section LP 3 (Use of remaining credits).
 Credits for imputation credits
@@ -33902,6 +34106,14 @@ Tax credit: non-resident
 (3) If the person is not resident in New Zealand, they have a tax credit for the tax year corresponding to the income year of an amount equal to the excess of RSCT withheld over NRWT paid in relation to the contribution.
 When contribution is taxable Maori authority distribution
 (4) If the person is not resident in New Zealand and the retirement scheme contribution is a taxable Maori authority distribution, they have a tax credit for the tax year corresponding to the income year of an amount equal to the RSCT withheld.
+
+### LB 6BA Tax credits for TSWT
+When this section applies
+(1) This section applies in a tax year when a transfer scheme provides the Commissioner with investment income information that shows an amount of TSWT withheld from an assessable withdrawal amount of a person.
+Amount of credit
+(2) The person has a tax credit for the tax year equal to the amount of TSWT shown as withheld.
+Use of credit
+(3) The person must only use the tax credit to satisfy their income tax liability on the assessable withdrawal amount.
 
 ### LB 6B Tax credits for RLWT
 A person has a tax credit, for the tax year corresponding to an income year in which they dispose of residential land, equal to the amount of RLWT paid in relation to that residential land.
@@ -35919,8 +36131,8 @@ Definition of items in formula
 (3) The items in the formula are defined in subsections (4) and (5).
 Prescribed amount
 (4) Prescribed amount is the sum of the following amounts:
-  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, $7,524; and
-  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, $6,130.
+  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, $7,921; and
+  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, $6,454.
 Days
 (5) Days is the number of days in the entitlement period.
 Order in Council increasing amount
@@ -36005,7 +36217,7 @@ Formula
 (2) The formula is—(amount A + amount B × (children − 3)) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) amount A is $5,070:
+  (a) amount A is $7,670:
   (b) amount B is $780:
   (c) children is the greater of—
     (i) 3; and
@@ -36090,8 +36302,8 @@ Formula
 Definition of items in formula
 (3) In the formula,—
   (a) full-year abatement is,—
-    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $42,700, 27 cents for each complete dollar of the excess; or
-    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $42,700, 27 cents for each complete dollar of the excess:
+    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $44,900, 27.5 cents for each complete dollar of the excess; or
+    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $44,900, 27.5 cents for each complete dollar of the excess:
   (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14.
 When 70-day period crosses 2 tax years and parental tax credit paid in instalments
 (4) If a person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) receives instalments of the parental tax credit in a 70-day period that crosses 2 tax years, the formula is applied so that—
@@ -36147,7 +36359,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $35,316:
+  (a) prescribed amount is $36,604:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -36357,6 +36569,24 @@ Definition of items in formula
     (iii) the person and their spouse, civil union partner, or de facto partner:
   (c) weekly periods is the number of periods of 1 week in the entitlement period for which the person is a full-time earner.
 
+### MF 4L Calculation of instalments: 2026–27 tax year
+When this section applies
+(1) This section applies for calculating the amount of an instalment by way of tax credit under section MD 1 (Abating WFF tax credit) for the 2026–27 tax year if section 105(2) of the Taxation (Annual Rates for 2025–26, Compliance Simplification, and Remedial Measures) Act 2026 comes into force on a date (the change date) that is set by Order in Council under section 2(43) of that Act.
+In-work tax credit formula: section MD 10
+(2) The instalments for the tax credit under section MD 1, for the calculation of the in-work tax credit, are calculated using the formula—(amount A + amount B × (children − 3)) × weekly periods ÷ 52.
+Items in formula
+(3) In the formula in subsection (2),—
+  (a) amount A is—
+    (i) for the period starting on 1 April 2026 and finishing on the day before the change date, $7,670:
+    (ii) for the period starting on the change date and finishing on 31 March 2027, $5,070:
+  (b) amount B is $780:
+  (c) children is the greater of—
+    (i) 3; and
+    (ii) the number of children for whom the person is allowed the in-work tax credit:
+  (d) weekly periods,—
+    (i) for 2 or more entitlement periods forming 1 continuous period, is the number of whole periods of 1 week in the continuous period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) (Fifth requirement: earner) refers or is an earner described in section MD 9(1)﻿(b), and includes whole periods of 1 week to which the alternative requirement in section MD 9(6) applies:
+    (ii) for an entitlement period to which subparagraph (i) does not apply, is the number of whole periods of 1 week in the entitlement period for which the person or their spouse, civil union partner, or de facto partner has, from the work activity, income to which section MD 9(2) refers or is an earner described in section MD 9(1)﻿(b), and includes whole periods of 1 week to which the alternative requirement in section MD 9(6) applies.
+
 ### MF 5 Recovery of overpaid tax credit
 When this section applies
 (1) This section applies when the Commissioner considers that the amount of a tax credit under section MD 1 (Abating WFF tax credit) or ME 1 (Minimum family tax credit) set off or refunded to a person for a tax year is more than the proper amount.
@@ -36457,7 +36687,7 @@ Best Start tax credit for dependent child
 (1) For the purposes of section MG 1(3)﻿(a), the person’s Best Start tax credit for the entitlement period for the dependent child is calculated using the formula—prescribed amount × days ÷ 365.
 Definition of items in formula
 (2) In the formula,—
-  (a) prescribed amount is, for the dependent child, $3,838:
+  (a) prescribed amount is, for the dependent child, $4,041:
   (b) days is the number of days in the entitlement period.
 If dependent child dies during entitlement period
 (3) The person continues to be entitled to the Best Start tax credit for 4 weeks after the dependent child dies, if the person otherwise meets the requirements of section MG 1(1).
@@ -36475,7 +36705,7 @@ Definition of items in formula
     (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $79,000, 21 cents for each complete dollar of the excess; or
     (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $79,000, 21 cents for each complete dollar of the excess:
   (b) days is the number of days in the entitlement period excluding—
-    (i) the days on which the dependent child is less than 1 year old:
+    (i) the days on which the dependent child is less than 1 year old, if the dependent child was born before 1 April 2026:
     (ii) the days of any calendar months in which the person receives protected Best Start tax credit as described in section MG 4.
 Order in Council increasing amount
 (3) The amounts in subsection (2)﻿(a) may be changed as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
@@ -40393,6 +40623,9 @@ Meaning of DRCD deferral date
 ### RA 6B Withholding and payment obligations for retirement scheme contributions
 A person who makes a contribution to a retirement savings scheme must withhold and pay RSCT for the contribution to the Commissioner under subpart RH (Withholding tax on retirement scheme contributions) by the due dates.
 
+### RA 6BB Withholding and payment obligations for assessable withdrawal amounts
+A transfer scheme must withhold and pay TSWT to the Commissioner under subpart RI (Transfer scheme withholding tax) by the due date.
+
 ### RA 6C Withholding and payment obligations for residential land
 RLWT: vendors
 (1) A person described in section RL 2 (Vendors: who must pay, and how?) must pay RLWT for a residential land purchase amount to the Commissioner under subpart RL (Residential land withholding tax) by the due date.
@@ -40419,7 +40652,7 @@ Exclusion
 ### RA 10 When obligations not met
 When this section applies
 (1) This section applies when—
-  (a) a person liable to withhold an amount of tax for a PAYE income payment, a residential land purchase amount, an employer's superannuation cash contribution, a retirement scheme contribution, a payment of resident passive income, or a payment of non-resident passive income, does not withhold and pay the amount to the Commissioner; or
+  (a) a person liable to withhold an amount of tax for a PAYE income payment, a residential land purchase amount, an employer's superannuation cash contribution, a retirement scheme contribution, an assessable withdrawal amount, a payment of resident passive income, or a payment of non-resident passive income, does not withhold and pay the amount to the Commissioner; or
   (b) a person liable to pay an amount of tax to the Commissioner for a fringe benefit does not pay the amount; or
   (c) a vendor liable to pay an amount of RLWT does not pay the amount.
 Debt payable to Commissioner
@@ -40491,6 +40724,7 @@ Columns G and H
     (i) the person’s return of income for the income year was linked to a tax agent as described in subsection (4); or
     (ii)
   (b) the month in column G in any other case.
+(2B) Despite subsection (2), if the person is a person to whom section RC 3(2)﻿(e) or (f) applies, the person’s terminal tax for a tax year is due and payable on the date that would be the final instalment date of provisional tax for the tax year if the person were liable to pay provisional tax.
 First occurrence of month
 (3) For the purposes of subsection (1),—
   (a) the month in column G is the first occurrence of that month after the balance date:
@@ -40507,6 +40741,7 @@ When this section applies
   (a) to withhold under section RA 5 an amount of tax for a payment and pay it to the Commissioner; or
   (b) to withhold and pay, or pay, under section RA 6 an amount to the Commissioner for a payment received or benefit provided by them; or
   (c) to withhold and pay under section RA 6B an amount of tax to the Commissioner for a retirement scheme contribution; or
+  (cb) to withhold and pay under section RA 6BB an amount of tax to the Commissioner for an assessable withdrawal amount; or
   (d) to pay under section RA 6C(1) or to withhold and pay under section RA 6C(2), an amount to the Commissioner for a residential land purchase amount.
 When payment due
 (2) The person must pay the amount to the Commissioner by the following dates:
@@ -40520,7 +40755,7 @@ Relevant end dates
   (a) for PAYE and ESCT payable for 2 payment periods in a month under section RD 4(1)﻿(b) or RD 65(3) (which set out the basis for payment of PAYE and ESCT),—
     (i) for the first payment period, the 15th day of the month; and
     (ii) for the second payment period, the last day of the month:
-  (b) for PAYE, RWT, NRWT, RSCT, and RLWT payable monthly under section RD 4(1)﻿(a), RE 21(2) and (7), RF 3, RF 13(3), RH 2(4), or RL 5 (which set out the basis for payment of PAYE, RWT, NRWT, RSCT, and RLWT), as applicable, the last day of a month:
+  (b) for PAYE, RWT, NRWT, RSCT, TSWT, and RLWT payable monthly under section RD 4(1)﻿(a), RE 21(2) and (7), RF 3, RF 13(3), RH 2(4), RI 5, or RL 5 (which set out the basis for payment of PAYE, RWT, NRWT, RSCT, TSWT, and RLWT), as applicable, the last day of a month:
   (c) for FBT payable quarterly under sections RD 58, RD 59, and RD 62 (which set out the basis for payment of FBT), the last day of a quarter:
   (d) for RWT and NRWT payable by instalment under section RE 21(3) or RF 13(2) (which set out the basis for payment of RWT and NRWT)—
     (i) for the first instalment, the last day of September; and
@@ -40684,7 +40919,9 @@ Exclusions
   (a) a company that does not have a fixed establishment in New Zealand and is not treated as resident in New Zealand:
   (b)
   (c) a non-resident contractor who has not been given an exemption by the Commissioner for the tax year:
-  (d) a multi-rate PIE that does not choose to calculate and pay tax using the provisional tax calculation option under section HM 44 (Provisional tax calculation option).
+  (d) a multi-rate PIE that does not choose to calculate and pay tax using the provisional tax calculation option under section HM 44 (Provisional tax calculation option):
+  (e) the Crown as owner of the New Zealand Superannuation Fund and the VCF:
+  (f) a company treated as being wholly owned by the Crown under section HR 4B(3) (Activities relating to New Zealand Superannuation Fund and Venture Capital Fund).
 No obligation
 (3) A person has no obligation to pay provisional tax for a tax year if their residual income tax for the preceding tax year is $5,000 or less.
 
@@ -41644,7 +41881,9 @@ Meaning
     (iii) a payment for services provided by a public authority, a local authority, a Maori authority, or a company, other than a non-resident contractor, a non-resident entertainer, a company in relation to a payment described in schedule 4, part J or part W, or an agricultural, horticultural, or viticultural company; or
     (iv) an exempt payment referred to in section 24H and schedule 5, part C, clause 6 of the Tax Administration Act 1994 applies; or
     (v) a payment for services provided by a non-resident contractor who has full relief from tax under a double tax agreement, and is present in New Zealand for 92 or fewer days in a 12-month period; or
-    (vi) a contract payment for a contract activity or service of a non-resident contractor when the total amount paid for those activities to the contractor or another person on their behalf is $15,000 or less in a 12-month period.
+    (vi) a contract payment for a contract activity or service of a non-resident contractor when the total amount paid for those activities to the contractor or another person on their behalf is $15,000 or less in a 12-month period; or
+    (vii) an amount of exempt income of a non-resident visitor under section CW 22B (Amounts derived by non-resident visitors during visits); or
+    (viii) an amount of exempt income of a non-resident under section CW 22C (Amounts derived by non-residents from non-resident visitors in New Zealand).
 Protected payments
 (2) The fact that a schedular payment may be protected against assignment or charge does not override a person’s obligation to withhold the amount of tax for the payment.
 Determination of expenditure incurred
@@ -42325,6 +42564,8 @@ Below threshold
   (b) pool the value of the benefit under section RD 53.
 Exception for subsidised transport
 (3) Despite section RD 47(1)﻿(c)﻿(i), if the employer provides subsidised transport under section CX 9 (Subsidised transport) with a taxable value over the threshold, they may pool the value of the benefit under section RD 53 if all their employees have the same or a similar entitlement to the fringe benefit.
+Exception for specified insurance premiums paid for all employees
+(3B) Despite section RD 47(1)﻿(c)﻿(v), if the employer pays a specified insurance premium or makes a contribution to the insurance fund of a friendly society for the benefit of an employee under section CX 16 (Contributions to life or health insurance) with a taxable value over the threshold, they may pool the value of the benefit under section RD 53 if all their employees have the same or a similar entitlement to the benefit.
 Amending thresholds
 (4) The Governor-General by Order in Council may determine the amount of the thresholds referred to in section RD 47, setting out the first tax year in which the threshold is to apply.
 Secondary legislation
@@ -42415,7 +42656,8 @@ When this section applies
   (b) an employment-related loan provided by a life insurer under section CX 11 (Employment-related loans: loans by life insurers); or
   (c) a benefit to which section RD 48 applies that cannot be attributed to a particular employee; or
   (d) an attributed benefit to which section RD 49(2) applies; or
-  (e) subsidised transport to which section RD 49(3) applies.
+  (e) subsidised transport to which section RD 49(3) applies; or
+  (f) payment of an insurance premium or contribution to an insurance fund to which section RD 49(3B) applies.
 Pooling value
 (2) The employer must pool the value of the benefits.
 Final quarter pooling
@@ -42584,6 +42826,8 @@ Meaning
   (c) subparts 3C and 3D, sections 22AA, 47, 124H to 124K, 124O to 124Q, Part 9, and schedules 4 and 5 of the Tax Administration Act 1994.
 Application
 (2) The ESCT rules apply to an employer or a person who makes an employer's superannuation cash contribution.
+Exception for non-resident visitors
+(3) Despite subsection (2), the ESCT rules do not apply to an employer of, or a person who makes an employer’s superannuation cash contribution for the benefit of, a person who is a non-resident visitor.
 
 ### RD 65 Employer's superannuation cash contributions
 Contribution in money for benefit of employees or past employees
@@ -43776,6 +44020,31 @@ Definition of items in formula
   (b) contribution to scheme is the amount of the retirement scheme contribution received by the retirement savings scheme excluding the amount of tax:
   (c) tax already paid is any amount of tax for the contribution that has already been paid.
 
+### Subpart RI — Transfer scheme withholding tax
+
+### RI 1 Transfer scheme withholding tax
+This subpart imposes an obligation on a transfer scheme to pay a tax called transfer scheme withholding tax (TSWT).
+
+### RI 2 Withholding tax on assessable withdrawal amounts
+When this subpart applies
+(1) This subpart applies when—
+  (a) a person derives a foreign superannuation withdrawal that is income in the form of a benefit under section CF 3(2)﻿(b) (Withdrawals from foreign superannuation scheme) from an interest in a foreign superannuation scheme that is withdrawn and reinvested as an interest in a superannuation scheme in New Zealand; and
+  (b) the superannuation scheme in New Zealand is a transfer scheme; and
+  (c) all or part of the foreign superannuation withdrawal is an assessable withdrawal amount for the person.
+Election for transfer scheme to withhold tax
+(2) Within 10 working days of the day the person derives the foreign superannuation withdrawal, the person may choose for the transfer scheme to withhold the amount of TSWT from the assessable withdrawal amount under this subpart by notifying the transfer scheme of their election.
+Election under subsection (2) irrevocable
+(3) An election made under subsection (2) cannot be revoked.
+
+### RI 3 Obligation to withhold TSWT
+When a person chooses under section RI 2 to have the transfer scheme withhold the amount of TSWT, the transfer scheme must withhold the TSWT calculated under section RI 4 from the person’s assessable withdrawal amount and pay it to the Commissioner in accordance with section RI 5. The obligation to withhold arises at the time the person derives the foreign superannuation withdrawal.
+
+### RI 4 Rate of TSWT
+The amount of TSWT that the transfer scheme must withhold and pay to the Commissioner for a person is calculated by multiplying the person’s assessable withdrawal amount by 0.28.
+
+### RI 5 Payment of tax
+The transfer scheme must pay the amount of TSWT calculated under section RI 4 to the Commissioner on a monthly basis under section RA 15 (Payment dates for interim and other tax payments).
+
 ### Subpart RL — Residential land withholding tax
 
 ### RL 1 Residential land withholding tax
@@ -43976,6 +44245,12 @@ Certain FIF income: application by payer
   (c) they provide, in relation to the amount, a statement that they will not include particulars in their investment income information under sections 25F to 25H and make disclosure under section 25N of the Tax Administration Act 1994.
 Use of refund
 (6) An amount of a refund paid under subsection (4) or (5) may be used under section RM 10 to satisfy a liability under the Inland Revenue Acts.
+
+### RM 8B Overpaid TSWT
+When this section applies
+(1) This section applies when a transfer scheme withholds and pays to the Commissioner an amount of TSWT and that amount is more than the amount required to be paid under this Part.
+Refund to transfer scheme
+(2) The Commissioner must refund the amount of the overpayment to the transfer scheme.
 
 ### RM 9 Calculations for attributed and non-attributed fringe benefits
 When this section applies
@@ -44305,7 +44580,7 @@ Meaning
 Use of funds in tax pooling accounts
 (2) An amount held in a tax pooling account on behalf of a person may be refunded, transferred, sold, or used to satisfy a person’s liability for—
   (a) provisional tax other than under the AIM method:
-  (b) terminal tax:
+  (b) terminal tax, other than terminal tax for a person to whom section RC 3(2)﻿(e) or (f) (Who is required to pay provisional tax?) applies:
   (c) an increased amount of tax described in subsection (3):
   (d) interest under Part 7 of the Tax Administration Act 1994 on an increased amount of tax described in subsection (3):
   (e) interest under Part 7 of the Tax Administration Act 1994 on the provisional tax or terminal tax described in subsection (4):
@@ -44921,6 +45196,7 @@ In this Act, unless the context requires otherwise,—
   - **ASCA** means available subscribed capital account
   - **ask** , for a mode of communication, has the meaning set out in section 14B of the Tax Administration Act 1994
   - **assessable income** is defined in section BD 1(5) (Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income)
+  - **assessable withdrawal amount** , for a person, means the amount of a foreign superannuation withdrawal derived by the person that is treated as not being exempt income of the person under section CF 3 (Withdrawals from foreign superannuation scheme)
   - **assessment** is defined in section 3(1) of the Tax Administration Act 1994
   - **assessment period** is defined in section GB 45(3) (Arrangements involving money not at risk) for the purposes of that section
   - **asset** —
@@ -44947,7 +45223,7 @@ In this Act, unless the context requires otherwise,—
   - **attributed PIE income** means an amount of income attributed by a multi-rate PIE to an investor in the PIE under section HM 36 (Calculating amounts attributed to investors)
   - **attributed PIE loss** means an amount of loss attributed by a multi-rate PIE to an investor in the PIE under section HM 36 (Calculating amounts attributed to investors)
   - **attributed repatriation**
-  - **attributing interest** means an attributing interest in a foreign investment fund as defined in sections EX 29 to EX 43 (which relate to attributing interests in FIFs)
+  - **attributing interest** means an attributing interest in a foreign investment fund as defined in sections EX 29 to EX 43B (which relate to attributing interests in FIFs)
   - **attribution period** , for a multi-rate PIE, means a period described in section HM 34 (Attribution periods)
   - **Auckland Council** is defined in section CW 39B(4) (Auckland Future Fund) for the purposes of that section
   - **Auckland Future Fund** is defined in section CW 39B(3) (Auckland Future Fund) for the purposes of that section
@@ -45133,7 +45409,7 @@ In this Act, unless the context requires otherwise,—
     (b) is aged 16 or 17 years and is not financially independent; or
     (c) is aged 18 years and is a person for whom a tax credit is allowed under section MD 1 (Abating WFF tax credit) or both sections MD 1 and ME 1 (Minimum family tax credit)
   - **child tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
-  - **civil union partner** , in subparts MA to MG and MZ (which relate to tax credits for families) and in section LC 13 (Tax credits for independent earners) and in the definitions of , , and , does not include a separated person
+  - **civil union partner** , in subparts MA to MG and MZ (which relate to tax credits for families) and in sections LC 13 (Tax credits for independent earners) and YD 1B (Non-resident visitors) and in the definitions of , , and , does not include a separated person
   - **claim** , in the rules for life insurers, is defined in section EY 7 (Meaning of claim)
   - **claim of right** means a belief that an act is lawful, although the belief may be based on ignorance, or mistake, of—
     (a) fact; or
@@ -45290,10 +45566,14 @@ In this Act, unless the context requires otherwise,—
     (h)
     (i)
     (j) section OK 15 (MACA debit for loss of shareholder continuity)
-  - **contract activity or service** , for a non-resident contractor, means—
-    (a) performing any work in New Zealand:
-    (b) rendering a service of any kind in New Zealand:
-    (c) providing the use of, or right to use, in New Zealand, any personal property or services of a person other than the non-resident contractor
+  - **contract activity or service** , for a non-resident contractor,—
+    (a) means—
+      (i) performing any work in New Zealand:
+      (ii) rendering a service of any kind in New Zealand:
+      (iii) providing the use of, or right to use, in New Zealand, any personal property or services of a person other than the non-resident contractor:
+    (b) does not include—
+      (i) the operation of aircraft or ships by a non-resident, except when they load or ship cargo or embark or transport passengers in New Zealand for delivery or disembarkation in New Zealand:
+      (ii) the provision of software as a service, platform as a service, or infrastructure as a service, except to the extent to which the service involves personnel located in New Zealand other than personnel who satisfy the conditions in section RD 8(1)﻿(b)﻿(v) (Schedular payments)
   - **contract of employment** is defined in section DC 3B(3) (Payments to working owners) for the purposes of that section and the definition of
   - **contract of service** is defined in section DC 4(5) (Payments to working partners) for the purposes of that section
   - **contract payment** , for a non-resident contractor, means any payment other than—
@@ -45657,6 +45937,7 @@ In this Act, unless the context requires otherwise,—
   - **electronic format** means the format and the electronic means by which a return or particulars that are filed electronically are provided
   - **eligible candidate** means an eligible candidate as defined in section 67 of the Parliament Act 2025
   - **eligible hedge** is defined in section EM 8 (Some definitions) for the purposes of subpart EM (Hedging of currency movements in Australian non-attributing shares and attributing FDR method interests)
+  - **eligible infrastructure entity** is defined in section FE 7C(7) (Exemption for eligible infrastructure) for the purposes of that section
   - **eligible research and development expenditure** is defined in section LY 5 (Eligible research and development expenditure)
   - **emergency call** is defined in section CX 34 (Meaning of emergency call)
   - **emergency event** —
@@ -45683,6 +45964,7 @@ In this Act, unless the context requires otherwise,—
   - **employee accommodation** —
     (a) means property that the person, or a company in the same wholly-owned group of companies as the person, provides to their employees or other workers for accommodation in connection with their employment or service:
     (b) does not include accommodation provided to employees or other workers who are associated with the person, unless it is necessary for the person to provide the accommodation because of the nature or remoteness of a business carried on by them
+  - **employee deferred shares** means shares issued or transferred to an employee share scheme beneficiary under an employee share scheme by a company that, in accordance with section EA 4B(2) (Deferred tax for unlisted employee share schemes), an employer has chosen to designate as employee deferred shares
   - **employee share loan** is defined in section CX 35 (Meaning of employee share loan)
   - **employee share scheme** is defined in section CE 7 (Meaning of employee share scheme)
     - **employee share scheme beneficiary** is defined in section CE 7C (Meaning of employee share scheme beneficiary)
@@ -45785,6 +46067,7 @@ In this Act, unless the context requires otherwise,—
   - **excess credit amount**
   - **excess debt entity** is defined in section FE 4 (Some definitions) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **excess debt outbound company** is defined in section FE 4 (Some definitions) for the purposes of subpart FE (Interest apportionment)
+  - **excess electricity** is defined in section CW 61B (Income from supply of excess electricity from dwelling) for the purposes of that section
   - **excess expenditure** —
     (a) is defined in section CZ 8(2) (Farm-out arrangements for petroleum mining before 16 December 1991) for the purposes of that section:
     (b) is defined in section DZ 5(6) (Farm-out arrangements for petroleum mining before 16 December 1991) for the purposes of that section
@@ -46017,7 +46300,8 @@ In this Act, unless the context requires otherwise,—
       (iii) an agricultural, forestry, or pastoral property; and
     (c) does not include—
       (i) the use of facilities solely for the purpose of the delivery, display, or storage of goods or merchandise belonging to a business; or
-      (ii) the maintenance of a fixed place of business solely for the purpose of acquiring goods or merchandise or for collecting information or for advertising for business
+      (ii) the maintenance of a fixed place of business solely for the purpose of acquiring goods or merchandise or for collecting information or for advertising for business; or
+      (iii) a fixed place of business of a person who is a non-resident visitor
   - **fixed life intangible property** is defined in section EE 67 (Other definitions)
   - **fixed principal financial arrangement** —
     (a) means a financial arrangement other than a variable principal debt instrument:
@@ -46680,6 +46964,7 @@ In this Act, unless the context requires otherwise,—
   - **limited partnership net deduction**
   - **limited-recourse amount** is defined in section GB 48(2) (Defined terms for sections GB 45 and GB 46) for the purposes of sections GB 45 and GB 46 (which relate to arrangements involving money not at risk)
   - **limited-recourse arrangement** is defined in section DB 31(5B) (Bad debts) for the purposes of that section
+  - **limited-recourse debt** is defined in section FE 7C(11) (Exemption for eligible infrastructure) for the purposes of that section
   - **limited-recourse loan** is defined in section GB 48(3) (Defined terms for sections GB 45 and GB 46) for the purposes of sections GB 45 and GB 46 (which relate to arrangements involving money not at risk)
   - **lines trust** means a trustee of a trust that—
   (a) has had shares allocated or transferred to or vested in it, being shares in—
@@ -46694,6 +46979,7 @@ In this Act, unless the context requires otherwise,—
     (b) includes, in references in this Act to anything occurring on liquidation, anything occurring—
       (i) during the period that starts with a step that is legally necessary to achieve liquidation, including the appointment of a liquidator or a request of the kind referred to in section 318(1)﻿(d) of the Companies Act 1993; and
       (ii) for the purpose of enabling liquidation
+  - **liquidity event date** is defined in section EA 4B (Deferred tax for unlisted employee share schemes)
   - **listed company** means, at any time, a company any shares in which are at that time quoted on an official list of a recognised exchange
   - **listed horticultural plant** , in sections DO 5 to DO 9 (which relate to deductions relating to horticultural plants) and sections FP 1 and FP 12 (which relate to tax relief for emergencies),—
     (a) means a horticultural plant, tree, vine, bush, cane, or similar plant that is cultivated on land, that is of a type that is listed in a determination made by the Commissioner under section 91AAB of the Tax Administration Act 1994:
@@ -47100,6 +47386,7 @@ In this Act, unless the context requires otherwise,—
     (a) is for services provided for a person becoming a party to a financial arrangement; and
     (b) is payable whether or not the financial arrangement proceeds
   - **non-creditable dividend**
+  - **non-debt liabilities** is defined in section FE 7C(12) (Exemption for eligible infrastructure) for the purposes of that section
   - **non-discretionary trust** is defined in section HC 16(8) (Ordering rule for distributions from non-complying and foreign trusts) for the purposes of that section
   - **non-eligible assets** is defined in section EM 8 (Some definitions)
   - **non-executive director** is defined in section CD 20(4) (Benefits of shareholder-employees or directors)
@@ -47128,6 +47415,7 @@ In this Act, unless the context requires otherwise,—
     (d)
     (e) a tax credit under subpart LR (Tax credits for policyholder income):
     (f) an amount in a person’s branch equivalent tax account that the person chooses, under Part O (Memorandum accounts), to credit in payment of income tax:
+    (fba) a tax credit under section LB 6BA (Tax credits for TSWT):
     (fb) a tax credit under sections LS 2, LS 3(2), and LS 4(2) (which relate to multi-rate PIEs and certain of their investors), if the person having the tax credit is a natural person not having the tax credit as a beneficiary of a trust, but this paragraph does not apply to the extent to which the tax credit is taken into account in an adjustment under section HM 36B(2) (Calculating PIE schedular income adjustments for natural person investors):
     (g) a tax credit under sections LS 3(3) and (4) and LS 4(3) and (4) and under section LS 1 (Tax credits for multi-rate PIEs) to the extent to which it arises under section HM 51 (Use of foreign tax credits by PIEs)
   - **non-resident** means a person who is not a New Zealand resident
@@ -47162,6 +47450,7 @@ In this Act, unless the context requires otherwise,—
   - **non-resident trader** means a person who—
     (a) is in New Zealand; and
     (b) carries on business here without having a fixed and permanent place of business or home here
+  - **non-resident visitor** is defined in section YD 1B (Non-resident visitors)
   - **non-residential building**
   - **non-residents’ foreign-sourced income** is defined in section BD 1(4) (Income, exempt income, excluded income, non-residents’ foreign-sourced income, and assessable income)
   - **non-residents’ foreign-sourced income limitation** is defined in section DA 2(6) (General limitations)
@@ -47646,7 +47935,7 @@ In this Act, unless the context requires otherwise,—
     (c) includes the Christmas Island Phosphate Commission, incorporated in Australia by the Christmas Island Agreement Act 1949 of the Parliament of Australia and continued under the Christmas Island Agreement Act 1958; and
     (d) is further defined in section CW 38(6) (Public authorities) for the purposes of that section; and
     (e) does not include a mixed-ownership enterprise
-  - **public entertainer** is defined in section CW 19(3) (Amounts derived during short-term visits) for the purposes of that section
+  - **public entertainer** is defined in section CW 19(3) (Amounts derived during short-term visits) for the purposes of that section and sections CW 22B and CW 22C (which relate to amounts derived from and by non-resident visitors during visits)
   - **public official**
   - **public project asset** is defined in section FE 4B (Meaning of public project asset, public project debt, and public project participant debt)
   - **public project debt** is defined in section FE 4B (Meaning of public project asset, public project debt, and public project participant debt)
@@ -47680,6 +47969,7 @@ In this Act, unless the context requires otherwise,—
   - **QC continuity period** is defined in section HA 6(5) (Corporate requirements) for the purposes of that section
   - **QCP transitional process** is defined in section HZ 4B(7) (Qualifying companies: transition into partnership)
   - **QCST transitional process** is defined in section HZ 4D(4) (Qualifying companies: transition into sole traderships)
+  - **QROPS** means a superannuation scheme in New Zealand that is a qualifying recognised overseas pension scheme for the purposes of the Finance Act 2004 (UK)
   - **qualifying asset** is defined in section EZ 28 (Meaning of qualifying asset)
   - **qualifying capital value** is defined in section EZ 26 (Meaning of qualifying capital value)
   - **qualifying company** is defined in section HA 2 (Meaning of qualifying company)
@@ -47698,6 +47988,9 @@ In this Act, unless the context requires otherwise,—
   - **qualifying event**
   - **qualifying foreign equity investor** is defined in section CW 12(4) (Proceeds of share disposal by qualifying foreign equity investor) for the purposes of that section
   - **qualifying improvement** is defined in section EZ 27 (Meaning of qualifying improvement)
+  - **qualifying infrastructure asset** is defined in section FE 7C(8) (Exemption for eligible infrastructure) for the purposes of that section
+  - **qualifying infrastructure debt** is defined in section FE 7C(9) (Exemption for eligible infrastructure) for the purposes of that section
+  - **qualifying infrastructure group** is defined in section FE 7C(13) (Exemption for eligible infrastructure) for the purposes of that section
   - **qualifying non-transaction shares** is defined in section CZ 41(4) (Distributions to supplying shareholders of Fonterra: 2022–23 to 2024–25 income years) for the purposes of that section
   - **qualifying resident foreign trustee**
   - **qualifying share premium** is defined in section CD 43(28) (Available subscribed capital (ASC) amount) for the purposes of that section
@@ -47976,10 +48269,11 @@ In this Act, unless the context requires otherwise,—
     (i) income to which section YD 8 (Apportionment of premiums derived by non-resident general insurers) applies:
     (j) income under section CR 3B (Lloyd’s of London: income from life insurance premiums):
     (k) income to which section GB 3BAB (Arrangements to inject income into companies carrying forward loss balances) applies:
-    (l) income to which section RD 20B (Treatment of certain support payments made for period of more than 1 year) applies:
+    (l) income to which section RD 20B (Treatment of certain support payments for period of more than 365 days) applies:
     (m) income to which section RD 20C (Payments of recalculated main benefit) applies:
     (n) income to which section HC 35 (Beneficiary income of minors) applies:
-    (o) income to which section HC 38 (Beneficiary income of certain close companies) applies
+    (o) income to which section HC 38 (Beneficiary income of certain close companies) applies:
+    (p) income that is an assessable withdrawal amount for which a person chooses to have a transfer scheme pay an amount of TSWT under subpart RI (Transfer scheme withholding tax)
   - **schedular income tax liability** means the amount determined under section BC 7 (Income tax liability of person with schedular income)
   - **scheduled overhaul period** , for an aircraft engine and an aircraft and an operator of the aircraft, means the maximum permitted interval between successive aircraft engine overhauls of the aircraft engine that the operator is required to perform
   - **schedular payment** is defined in section RD 8 (Schedular payments)
@@ -48230,7 +48524,7 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section EH 36 (Other definitions) for the purposes of the main income equalisation scheme:
     (b)
     (c) is defined in section EH 79 (Other definitions) for the purposes of the thinning operations income equalisation scheme
-  - **spouse** , in subparts MA to MG and MZ (which relate to tax credits for families), and in the definitions of , , and , does not include a separated person
+  - **spouse** , in subparts MA to MG and MZ (which relate to tax credits for families), section YD 1B (Non-resident visitors), and the definitions of , , and , does not include a separated person
   - **spreading method** means a method listed in section EW 14(2) (What spreading methods do)
   - **stallion** means a stallion that is bloodstock
   - **standard accounting year** has the meaning given in section YE 1(4) (References to balance dates and years)
@@ -48432,6 +48726,7 @@ In this Act, unless the context requires otherwise,—
   - **thinning operations income equalisation account** is defined in section EH 79 (Other definitions)
   - **thinning operations income equalisation scheme** means the scheme referred to in section EH 1(2)﻿(c) (Income equalisation schemes)
   - **thinning operations maximum deposit** is defined in section EH 78 (Meaning of thinning operations maximum deposit)
+  - **third-party debt** is defined in section FE 7C (Exemption for eligible infrastructure) for the purposes of that section
   - **timber** —
     (a) is defined in section DP 11(4) (Cost of timber) for the purposes of that section:
     (b) includes standing timber in—
@@ -48495,6 +48790,9 @@ In this Act, unless the context requires otherwise,—
     (cb) includes a disposition of property at less than market value; and
     (d) transfers value has a corresponding meaning
   - **transfer pricing arrangement** is defined in section GC 6(2) (Purpose and application of rules and nature of arrangements)
+  - **transfer scheme** means—
+    (a) a QROPS; or
+    (b) a KiwiSaver scheme that chooses to withhold and pay TSWT under subpart RI (Transfer scheme withholding tax)
   - **transferee** —
     (a) is defined in section DZ 5(6) (Farm-out arrangements for petroleum mining before 16 December 1991) for the purposes of that section:
     (b) in subpart FB (Transfers of relationship property), for property transferred under a relationship agreement, means the person to whom the property is transferred under the agreement
@@ -48528,7 +48826,7 @@ In this Act, unless the context requires otherwise,—
     (g) sections LE 4 to LE 5 and LO 2 (which relate to tax credits for beneficiary minors):
     (gb) the definitions of look-through company and look-through counted owner:
     (gc) section YD 3BA (Country of residence of joint trustees):
-    (h) sections 43B, 59, 59BA, 59BAB, 59B, 59C, 59D, 59DB, 93B, and 139AC of the Tax Administration Act 1994
+    (h) sections 43B, 59, 59B, 59C, 59D, 59DB, 93B, and 139AC of the Tax Administration Act 1994
   - **trustee** ,—
     (a) for a trust,—
       (i) means the trustee only in the capacity of trustee of the trust; and
@@ -48539,6 +48837,7 @@ In this Act, unless the context requires otherwise,—
     (e) for a superannuation scheme that is a trust or that is treated by this Act as a trust, includes a person by whom the investments of the scheme, or a part of the scheme, are managed or controlled:
     (f) is defined in section CW 26G (Meaning of trustee) for the purposes of section CW 26C (Meaning of exempt ESS)
   - **trustee income** is defined in section HC 7 (Trustee income)
+  - **TSWT** means transfer scheme withholding tax that is payable under subpart RI (Transfer scheme withholding tax)
   - **turnover** , in subpart EB (Valuation of trading stock (including dealer’s livestock)) and section HG 6 (Disposal of trading stock),—
     (a) means the total income that a business derives in an income year as a result of trading by that business; and
     (b) does not include the value of closing stock
@@ -49391,6 +49690,35 @@ Treatment of non-resident seasonal workers
 (11) Despite subsection (3), a non-resident seasonal worker is treated for the duration of their employment under the recognised seasonal employer (RSE) instructions as a non-resident.
 Treatment of trustees
 (12) In this section, a natural person includes a natural person who is acting in the capacity of trustee.
+Treatment of non-resident visitors
+(13) Despite subsection (3), if a person is a non-resident visitor, they are treated as a non-resident for the period they are a non-resident visitor unless section YD 1B(3)﻿(a) applies.
+Treatment on ending non-resident visitor status
+(14) Despite subsection (4), if a person who is a non-resident visitor stops being a non-resident visitor under section YD 1B(4) or (5) and meets the requirement in subsection (3), the person is only treated as a resident from the first day the person stops being a non-resident visitor.
+
+### YD 1B Non-resident visitors
+What this section does
+(1) This section contains the rules for determining when a person is a non-resident visitor and when they cease to be a non-resident visitor.
+Meaning of non-resident visitor
+(2) A person who visits New Zealand is a non-resident visitor if—
+  (a) they are a natural person; and
+  (b) their visit is for 275 or fewer days, counting the days of arrival and departure as a whole day each; and
+  (c) they are personally present in New Zealand for 275 or fewer days in total in an 18-month period that includes the period of the visit; and
+  (d) immediately before the first day they are personally present, they were not resident in New Zealand and were not a transitional resident; and
+  (e) they are not undertaking work that—
+    (i) is for a New Zealand resident or a New Zealand branch of a non-resident; or
+    (ii) is offering goods or services in New Zealand for income from persons or businesses in New Zealand; or
+    (iii) requires the person to be physically present in New Zealand; and
+  (f) they, or their spouse, civil union partner, or de facto partner, are not receiving an entitlement under the family scheme; and
+  (g) they are lawfully present in New Zealand under the Immigration Act 2009; and
+  (h) they are resident in a country or territory outside New Zealand or liable to tax in a country or territory outside New Zealand on the basis of citizenship.
+Ending non-resident visitor status: unlawful presence
+(3) If a person who is a non-resident visitor ceases to meet the requirement in subsection (2)﻿(g),—
+  (a) for the purposes of determining the person’s liabilities and obligations under this Act, the person stops being a non-resident visitor and is treated as if they were never a non-resident visitor:
+  (b) for the purposes of determining the liabilities and obligations under this Act of any other person, the person stops being a non-resident visitor on the date the cessation occurs.
+Ending non-resident visitor status: change of residency or citizenship status
+(4) If a person who is a non-resident visitor ceases to meet the requirement in subsection (2)﻿(h), the person stops being a non-resident visitor on the date the event that causes the cessation of residency or liability to tax occurs, regardless of whether the laws of that foreign country or territory treat the person’s cessation of residency or liability to tax as having occurred on an earlier date.
+Ending non-resident visitor status: other requirements
+(5) If a person who is a non-resident visitor ceases to meet 1 or more of the requirements in subsection (2)﻿(a) to (f), the person stops being a non-resident visitor on the date the cessation occurs.
 
 ### YD 2 Residence of companies
 Four bases for residence
@@ -49401,6 +49729,8 @@ Four bases for residence
   (d) its directors, in their capacity as directors, exercise control of the company in New Zealand, even if the directors’ decision-making also occurs outside New Zealand.
 Treatment of trustees
 (1B) In this section, a company includes a company that is acting in the capacity of trustee.
+Treatment of non-resident visitors
+(1C) For the purposes of subsection (1)﻿(b), (c), and (d) and section YD 3(4)﻿(b), (c), and (d), and for a foreign company, the activities in New Zealand of a non-resident visitor are disregarded.
 International tax rules
 (2) Despite subsection (1), for the purpose of the international tax rules, a company is treated as remaining resident in New Zealand if it becomes a foreign company but is resident in New Zealand again within 183 days afterwards.
 Cook Islands National Superannuation Fund trustee
@@ -49420,7 +49750,7 @@ Further rule: first application
   (a) the company is resident in 2 or more countries:
   (b) the company is not resident in any country.
 Applying New Zealand rules
-(4) The company is treated as resident in the country in which—
+(4) Subject to section YD 2(1C), the company is treated as resident in the country in which—
   (a) it is incorporated:
   (b) it has its head office:
   (c) it has its centre of management:
@@ -49494,14 +49824,16 @@ Income from New Zealand partnerships
 Income through permanent establishment
 (17C) Income attributable to a permanent establishment in New Zealand of a non-resident has a source in New Zealand, except if—
   (a) subsections (15) to (17) provide otherwise:
-  (b) the income is a dividend from a share in a foreign company that is not revenue account property.
+  (b) the income is a dividend from a share in a foreign company that is not revenue account property:
+  (c) the income arises because of the activities in New Zealand of a non-resident visitor.
 Income taxable under double tax agreement
 (17D) Income of a non-resident that may be taxed in New Zealand under a double tax agreement and does not have a source under subsections (15) to (17) has a source in New Zealand unless the income is—
   (a) a dividend from a share in a foreign company that is not revenue account property:
   (b) fees for technical, management, or similar services that are—
     (i) treated as royalties under a double tax agreement:
     (ii) subject to article 12 of the double tax agreement between New Zealand and the Republic of India:
-  (c) a royalty or interest payment attributable, under a double tax agreement, to a permanent establishment outside New Zealand.
+  (c) a royalty or interest payment attributable, under a double tax agreement, to a permanent establishment outside New Zealand:
+  (d) income derived by the non-resident because of the activities in New Zealand of a non-resident visitor.
 Any other source in New Zealand
 (18) Income derived directly or indirectly from any other source in New Zealand has a source in New Zealand.
 
@@ -49516,6 +49848,8 @@ No double tax agreement with applicable definition
 (3) Permanent establishment, for an enterprise that is resident in New Zealand or in a country or territory with which New Zealand does not have a double tax agreement that includes a definition of permanent establishment, has the meaning given by schedule 23 (Meaning of permanent establishment).
 Interpretation of schedule 23
 (4) Schedule 23 is treated as applying consistently with the guidance relevant to the schedule that is provided by the Commentary on Article 5 of the Model Tax Convention on Income and on Capital, in Model Tax Convention on Income and on Capital published by the Organisation for Economic Co-operation and Development, as amended at the beginning of the income year in which the enterprise makes the supply.
+Exception
+(5) For the purposes of subsections (2) to (4) and determining if an enterprise has a permanent establishment in New Zealand, the activities in New Zealand of a non-resident visitor are disregarded.
 
 ### YD 5 Apportionment of income derived partly in New Zealand
 When this section applies
@@ -49875,6 +50209,9 @@ The basic rate of income tax for a person on each dollar of the person’s sched
 ### 16 Schedular taxable income: beneficiary income of certain close companies
 The basic rate of income tax for a person on each dollar of the person’s schedular taxable income that is income from a trust to which section HC 38 (Beneficiary income of certain close companies) applies is 0.39.
 
+### 17 Schedular taxable income: assessable withdrawal amounts
+The basic rate of income tax for a person on each dollar of the person’s schedular taxable income that is an assessable withdrawal amount for which the person chooses to have a transfer scheme pay an amount of TSWT under subpart RI (Transfer scheme withholding tax) is 0.28.
+
 | Row | Range of dollar in pay | Tax rate |
 | --- | --- | --- |
 | 1 | $0 – $13,962 | 0.1173 |
@@ -50229,7 +50566,8 @@ The following paragraphs apply to determine the value of the benefit that an emp
   (ii) subject to clause 10, on the basis of the tax value of the vehicle to the person: for a quarter, 9% of the tax value, and for a tax year or income year, 36% of the tax value:
 (b) if the vehicle is leased or rented by the person from another person, whether they are associated or not,—
   (i) on the basis of the cost price of the vehicle to its owner at the time the benefit is provided to the employee: for a quarter, 5% of the cost price, and for a tax year or income year, 20% of the cost price:
-  (ii) subject to clause 10, on the basis of the tax value of the vehicle to its owner at the time the benefit is provided to the employee: for a quarter, 9% of the tax value, and for a tax year or income year, 36% of the tax value.
+  (ii) subject to clause 10, on the basis of the tax value of the vehicle to its owner at the time the benefit is provided to the employee: for a quarter, 9% of the tax value, and for a tax year or income year, 36% of the tax value:
+(c) if expenditure on the vehicle has been allowed as a deduction for a new investment asset under section DI 5, subject to clause 10, the basis of the tax value of the vehicle to the person: for a quarter, 10.35% of the tax value, and for a tax year or income year, 41.4% of the tax value.
 
 ### 2
 If a motor vehicle to which this schedule applies is 1 of a number of motor vehicles, each of which is available for private use as described in clause 1, the value of the benefit is determined as follows:
@@ -50296,8 +50634,10 @@ The following paragraphs apply to a person who values a vehicle on the basis of 
 (a) the terms ‘cost price’ and ‘tax value’ in clause 1 do not include an amount of GST payable:
 (b) the references to 5% in clause 1 are treated as if they were references to a percentage calculated using the formula—5 + (5 × rate of GST applying on last day of relevant quarter):
 (c) the references to 9% in clause 1 are treated as if they were references to a percentage calculated using the formula—9 + (9 × rate of GST applying on last day of relevant quarter):
+(cb) the reference to 10.35% in clause 1 is treated as if it were a reference to a percentage calculated using the formula—10.35 + (10.35 x rate of GST applying on last day of relevant quarter):
 (d) the references to 20% in clause 1 are treated as if they were references to a percentage calculated using the formula—20 + (20 × rate of GST applying on last day of relevant tax year or corresponding income year):
-(e) the references to 36% in clause 1 are treated as if they were references to a percentage calculated using the formula—36 + (36 × rate of GST applying on last day of relevant tax year or corresponding income year).
+(e) the references to 36% in clause 1 are treated as if they were references to a percentage calculated using the formula—36 + (36 × rate of GST applying on last day of relevant tax year or corresponding income year):
+(f) the reference to 41.4% in clause 1 is treated as if it were a reference to a percentage calculated using the formula—41.4 + (41.4 x rate of GST applying on last day of relevant quarter).
 
 ### 11
 When a vehicle is leased or rented to the person after it has been leased or rented to another person (the other person), the cost price of a vehicle is its market value at the time it is first leased or rented to the person if—
@@ -50310,7 +50650,9 @@ When a vehicle is leased or rented to the person after it has been leased or ren
 If the vehicle is leased or rented by the person from another person and the lessee requests that the lessor disclose the cost price or tax value of the vehicle for the lessor, the lessor must disclose to the lessee the information requested.
 
 ### 13
-The minimum tax value of a motor vehicle to which this schedule applies is $8,333.
+The minimum tax value of a motor vehicle to which this schedule applies is—
+(a) $8,333; or
+(b) $7,317 if expenditure on the vehicle has been allowed as a deduction for a new investment asset under section DI 5.
 
 ## Schedule 6 — Prescribed rates: PIE investments and retirement scheme contributions
 
@@ -50737,9 +51079,8 @@ expenditure related to the acquisition of land
 | Annual amount, calculated in accordance with section MF 3(2)﻿(a) | Annualised equivalent amount for section MF 3(2)﻿(b) |
 | --- | --- |
 |  | $ |
-| Amount does not exceed $42,700 | 42,700 |
-| Amount exceeds $42,700 but does not exceed $44,000 | 44,000 |
-| Amount exceeds $44,000 but does not exceed $45,500 | 45,500 |
+| Amount does not exceed $44,900 | 44,900 |
+| Amount exceeds $44,900 but does not exceed $45,500 | 45,500 |
 | Amount exceeds $45,500 but does not exceed $47,000 | 47,000 |
 | Amount exceeds $47,000 but does not exceed $48,500 | 48,500 |
 | Amount exceeds $48,500 but does not exceed $50,000 | 50,000 |
