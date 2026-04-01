@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2026-03-31_
+_Consolidation as at 2026-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -98,6 +98,9 @@ _Consolidation as at 2026-03-31_
     (d) status ruling made under section 91GA
   - **business** is defined in section 152(18) for the purposes of that section
   - **business group amnesty** means an amnesty declared by the Commissioner under section 226B
+  - **CARF document** means International Standards for Automatic Exchange of Information in Tax Matters: Crypto-Asset Reporting Framework and 2023 update to the Common Reporting Standard, as amended from time to time, which is a standard—
+    (a) developed by the Organisation for Economic Co-operation and Development and the Group of Twenty countries; and
+    (b) adopted by the Council for the Organisation for Economic Co-operation and Development
   - **challenge** means—as the context requires
     (a) to commence proceedings under Part 8A challenging a disputable decision; or
     (ab) to commence proceedings under section 89K(6) challenging a refusal to issue a notice; or
@@ -112,7 +115,7 @@ _Consolidation as at 2026-03-31_
     (c) a shortfall penalty; or
     (cb) a promoter penalty; or
     (cbb) a penalty under section 139AAB, 139AB, 139ABB, or 139AC; or
-    (cc) a penalty under section 142H, 142I, 142J, or 142K; or
+    (cc) a penalty under section 142H, 142I, 142J, 142K, 142L, or 142M; or
     (cd) a penalty under section 141EE; or
     (d) a non-electronic filing penalty; or
     (e) a civil penalty under section 215 of the KiwiSaver Act 2006
@@ -157,6 +160,7 @@ _Consolidation as at 2026-03-31_
     (a) developed by the Organisation for Economic Co-operation and Development and the Group of Twenty countries; and
     (b) agreed by the Council for the Organisation for Economic Co-operation and Development on 15 July 2014; and
     (c) contained in Part IIB of the CRS publication
+  - **crypto-asset reporting framework** means Part I of the CARF document, as amended from time to time
   - **CSP terms** is defined in section 7AAB(9)
   - **current year** means an income year that falls within the emergency event period
   - **date interest starts** is defined in section 120C for the purposes of Part 7
@@ -280,7 +284,8 @@ _Consolidation as at 2026-03-31_
     (b) any other person who has RWT-exempt status following an application made under section 32E(2)﻿(k) or (l) in relation to a tax year in which they have that status
   - **government agency** ,—
     (a) in section 6, includes any department or Crown entity (as those terms are defined in the Public Finance Act 1989) and any public authority (as defined in the Income Tax Act 2007):
-    (b) is defined in schedule 7, part C, subpart 1, clause 23B(6) for the purposes of that clause
+    (b) is defined in schedule 7, part C, subpart 1, clause 23B(6) for the purposes of that clause:
+    (c) is defined in section 18HB for the purposes of that section
   - **government screen production payment** means a payment that—
     (a) is in the nature of a large budget screen production grant, post-production digital and visual effects grant, or New Zealand screen production incentive; and
     (b) is authorised by the New Zealand Film Commission in relation to a company that—
@@ -350,16 +355,12 @@ _Consolidation as at 2026-03-31_
     (b) for the purposes of sections 177 and 177A, includes a natural person who is acting in the capacity of trustee
   - **new provisional taxpayer** means a person who has an initial provisional tax liability as described in section YA 1 of the Income Tax Act 2007
   - **New Zealand superannuation qualification age** means the age at which a person becomes entitled to receive New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001
-  - **nil value distribution** is defined in section 59BA(7) for the purposes of that section
-  - **nil value settlement** is defined in section 59BA(7) for the purposes of that section
   - **nominated person** means a person who—
     (a) is nominated under section 124F by another person to act on their behalf in relation to—
       (i) their tax affairs:
       (ii) their social policy entitlements and obligations; and
     (b) is treated by the Commissioner as a nominated person; and
     (c) does not later have their status as a nominated person disallowed by the Commissioner
-  - **non-cash distribution** is defined in section 59BA(7) for the purposes of that section
-  - **non-cash settlement** is defined in section 59BA(7) for the purposes of that section
   - **non-filing taxpayer** , for a person and a tax year, means—
     (a) a person whose only income having a source in New Zealand for the tax year is a schedular payment derived in their capacity as a non-resident entertainer and who chooses not to file a return of income for the tax year; or
     (b) a person who for the tax year, derives only non-resident passive income referred to in section RF 2(3) of the Income Tax Act 2007; or
@@ -395,14 +396,15 @@ _Consolidation as at 2026-03-31_
   - **other income** is defined in section 22D(4) for the purposes of Part 3, subpart 3B, and section 141JA, and schedule 8
   - **outstanding tax** , in sections 139BA, 176, 177, 177A, 177B and 177C, means tax that is payable before or after a due date
   - **parental leave** is defined in schedule 7, part C, subpart 2, clause 46(2) for the purposes of that clause
-  - **passive income** , in the application of the CRS applied standard to a person or entity for a period, means an amount that is not income from a transaction entered into in the ordinary course of the business of a dealer in financial assets and that is—
+  - **passive income** , in the application of the CRS applied standard to a person or entity for a period, means an amount that is not income from a transaction entered into in the ordinary course of the business of a dealer in financial assets, including relevant crypto-assets, and that is—
     (a) a dividend:
     (b) interest:
     (c) income equivalent to interest:
     (d) rent or a royalty, other than rent or a royalty derived in the active conduct of a business conducted, partly or wholly, by employees of the person or entity:
+    (db) income derived from relevant crypto-assets:
     (e) an annuity:
-    (f) for financial assets that give rise to amounts included under paragraphs (a) to (e), the amount by which gains from the sales or exchanges of the financial assets in the period exceed losses from the sales or exchanges:
-    (g) the amount by which gains from the transactions in financial assets in the period exceed losses from the transactions:
+    (f) for financial assets, including relevant crypto-assets, that give rise to amounts included under paragraphs (a) to (e), the amount by which gains from the sales or exchanges of the financial assets in the period exceed losses from the sales or exchanges:
+    (g) the amount by which gains from the transactions in financial assets, including relevant crypto-assets, in the period exceed losses from the transactions:
     (h) the amount by which gains from the foreign currency transactions in the period exceed losses from the transactions:
     (i) the amount by which gains from the swaps in the period exceed losses from the swaps:
     (j) an amount received under a cash value insurance contract
@@ -415,7 +417,9 @@ _Consolidation as at 2026-03-31_
     (b) the day that immediately succeeds the due date for payment of the tax,—
   - **permit area** , in section 91(1)﻿(d), has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **permitted disclosure** is defined in section 16C(5) for the purposes of subpart 3A and schedule 7
-  - **personal information** is defined in schedule 7, part C, subpart 2, clause 45(7) for the purposes of that clause
+  - **personal information—**
+    (a) is defined in schedule 7, part A, clause 6 for the purposes of that clause:
+    (b) is defined in schedule 7, part C, subpart 2, clause 45(7) for the purposes of that clause
   - **petroleum mining operations** , in section 91, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **petroleum permit** , in section 91 of this Act, means—
     (a) a petroleum permit under section YA 1 of the Income Tax Act 2007:
@@ -648,6 +652,7 @@ _Consolidation as at 2026-03-31_
   - **unpaid tax** includes any amount of tax refunded under a tax law to the extent that the amount—under the tax law
     (a) is not properly refundable; or
     (b) is in excess of any amount of tax that is refundable,—
+  - **updated information** is defined in schedule 7, part A, clause 6 for the purposes of that clause
   - **victim** is defined in schedule 7, part C, subpart 2, clause 44(6) for the purposes of that clause
   - **workplace legislation** means—
     (a) Electricity Act 1992:
@@ -1713,6 +1718,56 @@ Section 18 does not apply to a disclosure of sensitive revenue information made 
 ### 18H Disclosures to other agencies for certain specified purposes
 Section 18 does not apply to a disclosure of sensitive revenue information to certain agencies when the disclosure is made for certain specified purposes as set out in schedule 7, part C.
 
+### 18HB Regular disclosure to government agency
+(1) Despite section 18, the Commissioner may disclose sensitive revenue information on an ongoing basis to the chief executive of a government agency to assist the agency in carrying out 1 or more of the following functions:
+  (a) determining entitlement to, or eligibility for, government assistance:
+  (b) the detection, investigation, prosecution, or punishment of suspected or committed crimes punishable by terms of imprisonment of 2 years or more:
+  (c) removing the financial benefit of crime.
+(2) A disclosure to the government agency must be in accordance with a written agreement entered into by—
+  (a) the Minister of Revenue; and
+  (b) the Minister responsible for the government agency.
+(3) Before entering a written agreement under this section, or varying any such agreement, the Ministers must—
+  (a) be satisfied that—
+    (i) the information is readily available to Inland Revenue; and
+    (ii) the disclosure is reasonable and practicable; and
+    (iii) the disclosure will not undermine the integrity of the tax system; and
+    (iv) the disclosure will support the maintenance of voluntary compliance; and
+    (v) reasonable safeguards exist to protect the privacy of individuals and the commercial confidentiality of information, including sufficient compliance and audit requirements for the use, disclosure, and storage of the information; and
+    (vi) appropriate procedures for the disclosure and retention are included in the agreement; and
+  (b) consult the Privacy Commissioner and consider any comments received.
+(4) A written agreement must specify—
+  (a) the type or class of information to be disclosed; and
+  (b) the purpose for which the information is disclosed; and
+  (c) the function being carried out by the government agency for which the information is required; and
+  (d) how the information will assist with the carrying out of that function; and
+  (e) the form or manner in which the information is to be disclosed; and
+  (f) the positions or designations of the persons in the government agency to whom the information may be disclosed; and
+  (g) the safeguards for protecting personal or commercially sensitive information; and
+  (h) the requirements for storage and disposal of the information; and
+  (i) the circumstances, if any, in which the information may be disclosed by the agency to another agency, and how that disclosure may be made; and
+  (j) the requirements for reviewing the agreement.
+(5) Information obtained by compulsion under section 17I or 17J cannot be disclosed under an agreement made under this section.
+(6) The Commissioner must publish on an internet site maintained by or on behalf of the Inland Revenue Department the following information in relation to each agreement made under this section:
+  (a) the name of the agreement; and
+  (b) the parties to the agreement; and
+  (c) the purpose of the information disclosure; and
+  (d) the classes of information to be disclosed; and
+  (e) the intended use of the information by the government agency.
+(7) The Commissioner must publish, in the department’s annual report, information on the ongoing performance of the agreement.
+(8) After an agreement under this section has been entered into, the Privacy Commissioner may raise any concerns about the agreement or its operation directly with—
+  (a) the Minister of Revenue:
+  (b) the Minister responsible for the government agency that is a party to the agreement.
+(9) In this section, government agency means—
+  (a) a department named in Part 1 of Schedule 2 of the Public Service Act 2020:
+  (b) the New Zealand Police:
+  (c) the Accident Compensation Corporation:
+  (d) Kāinga Ora–Homes and Communities:
+  (e) Health New Zealand:
+  (f) New Zealand Transport Agency:
+  (g) National Emergency Management Agency:
+  (h) Ministry for Ethnic Communities:
+  (i) Office of the Privacy Commissioner.
+
 ### 18I Disclosures for international purposes
 Section 18 does not apply to a disclosure of sensitive revenue information that is made for the purposes of an international obligation of the Commissioner as set out in schedule 7, part D.
 
@@ -2084,11 +2139,15 @@ Meaning of reportable income
     (iiic) a payment under the leave support scheme made by the Ministry of Social Development on behalf of the Crown in relation to leave taken as a consequence of COVID-19:
     (iiid) a payment under the short-term absence scheme made by the Ministry of Social Development on behalf of the Crown in relation to absence from work as a consequence of COVID-19:
     (iv) a benefit under an employee share scheme described in schedule 4, table 1, rows 4 and 7:
-    (v) attributed PIE income; and
+    (v) attributed PIE income:
+    (vi) an assessable withdrawal amount for which the individual has not chosen to have a transfer scheme pay an amount of TSWT under subpart RI of the Income Tax Act 2007; and
   (b) for which the person paying the amount has been provided the individual’s tax file number, however this requirement does not apply if the amount is income derived jointly with another person and the Commissioner is able to allocate an amount to the individual for the income year; and
   (c) in relation to which information must be provided under this Act to the Commissioner by—
     (i) for the items referred to in paragraph (a)﻿(i) to (iv), 31 May in the next tax year:
-    (ii) for the item referred to in paragraph (a)﻿(v), the date referred to in section 25K.
+    (ii) for the item referred to in paragraph (a)﻿(v), the date referred to in section 25K:
+    (iii) for the item referred to in paragraph (a)﻿(vi), the date referred to in section 25LB.
+Reportable income: assessable withdrawal amounts
+(3B) For the purposes of subsection (3)﻿(b), a transfer scheme is treated as the person paying an assessable withdrawal amount.
 Meaning of other income
 (4) For the purposes of this subpart and section 141JA and schedule 8, other income or income other than reportable income, for an individual and a tax year, means an amount of income paid or payable to, or treated as income of, the individual for the corresponding income year that is not their reportable income.
 Meaning of pre-populated account
@@ -2600,12 +2659,15 @@ Related provisions
   (g) non-electronic filing penalties, see section 139AA.
 Custodial institutions
 (4) For the purposes of subsection (2), a custodial institution that pays on or transfers an amount of investment income to an end investor is treated as a payer.
+Transfer schemes
+(5) For the purposes of subsection (2), a transfer scheme is treated as the payer of a foreign superannuation withdrawal.
 
 ### 25C Investment income
 For the purposes of this subpart and section 227E, and schedule 6, investment income means—
   (a) resident passive income under section RE 2(1)﻿(a) to (c) of the Income Tax Act 2007, subject to the withholding obligations set out in sections RE 3 and RE 4 of that Act:
   (b) non-resident passive income under section RF 2(1) of that Act:
-  (c) attributed income of investors in portfolio investment entities under sections CP 1, CX 56, and CX 56B of that Act.
+  (c) attributed income of investors in portfolio investment entities under sections CP 1, CX 56, and CX 56B of that Act:
+  (d) foreign superannuation withdrawals that are income under section CF 3(2)﻿(b) of that Act if the superannuation scheme in New Zealand is a transfer scheme.
 
 ### 25D Investment income information
 Meaning of investment income information
@@ -2635,6 +2697,7 @@ Persons
   (f) a multi-rate PIE that attributes income to an investor or a proxy for an investor, see section 25J:
   (g)
   (h) a public unit trust that pays an amount that is treated as a taxable dividend on a withdrawal from the trust, see section 25L:
+  (hb) a transfer scheme that pays a foreign superannuation withdrawal, see section 25LB:
   (i) an emigrating company that is treated under section FL 2 or FL 3 of the Income Tax Act 2007 as paying a dividend to shareholders, see section 25M:
   (ib) a custodial institution that pays on or transfers an amount of investment income to an end investor, see section 25MB:
   (j) a person who would be liable to pay an amount referred to in paragraph (a) but for the circumstances described in subsection (2).
@@ -2688,6 +2751,11 @@ A payer referred to in section 25E(1)﻿(f) must deliver the investment income i
 A payer referred to in section 25E(1)﻿(h) must deliver the investment income information set out in schedule 6, table 1, rows 1 to 11, 14, 16, 21, and 22 for a tax year—
   (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
   (b) by 15 May after the end of the tax year.
+
+### 25LB Information on foreign superannuation withdrawals
+A payer referred to in section 25E(1)﻿(hb) must deliver the investment income information for a foreign superannuation withdrawal as set out in schedule 6, table 1, rows 1, 2, 5, 8, 9, and 22, as applicable, to the Commissioner—
+  (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
+  (b) by the 20th of the month following the month in which the amount of investment income is derived by the payee.
 
 ### 25M Information from emigrating companies
 Delivery of investment income information
@@ -2977,6 +3045,16 @@ A life insurer (the transferor) that transfers a life insurance policy to anothe
 (9) A notice required by this section may be given electronically to—
   (a) the investor, if the investor agrees to have the notice given in that way:
   (b) a person authorised to act on behalf of the investor, if the person and the investor agree to have the notice given in that way.
+
+### 31D Notification requirements for foreign superannuation withdrawals
+(1) This section applies when—
+  (a) a person derives a foreign superannuation withdrawal that is income in the form of a benefit under section CF 3(2)﻿(b) of the Income Tax Act 2007 from an interest in a foreign superannuation scheme that is withdrawn and reinvested as an interest in a superannuation scheme in New Zealand; and
+  (b) the superannuation scheme in New Zealand is a transfer scheme; and
+  (c) all or part of the foreign superannuation withdrawal is an assessable withdrawal amount for the person.
+(2) Within 10 working days of the day the person derives the foreign superannuation withdrawal, the person must notify the transfer scheme of—
+  (a) the amount of the assessable withdrawal amount; and
+  (b) the information the transfer scheme requires to enable it to provide the investment income information under section 25LB; and
+  (c) whether the person has made an election under subpart RI of the Income Tax Act 2007 for the transfer scheme to pay the amount of TSWT.
 
 ### 32 Records of specified charitable, benevolent, philanthropic, or cultural bodies
 (1) All gift-exempt bodies must keep in New Zealand sufficient records in English or te reo Māori to enable the Commissioner to determine both the sources of donations made to them and the application, within New Zealand or within a country or territory outside New Zealand, of their funds.
@@ -3795,6 +3873,13 @@ Where any person at any time—that person shall, notwithstanding any other prov
 (7)
 (8) The Commissioner must prescribe 1 or more electronic forms and means of electronic communication in which or by which a return must be provided under this section. The Commissioner may specify conditions relating to the format, either general or in a particular case.
 
+### 57C Return by transfer scheme withholding TSWT
+(1) This section applies when a transfer scheme withholds in a period an amount of TSWT from a person’s assessable withdrawal amount in accordance with subpart RI of the Income Tax Act 2007.
+(2) The transfer scheme must, at the time of payment of the TSWT, file a return in the prescribed form—
+  (a) showing the total amount of TSWT withheld for the period; and
+  (b) showing the total amount of assessable withdrawal amount from which TSWT has been withheld for the period; and
+  (c) providing further information that the Commissioner considers relevant.
+
 ### 58 Returns of specified charitable, benevolent, philanthropic, or cultural bodies
 Every gift-exempt body must, when notified by the Commissioner, furnish a return of its funds derived or received in any tax year and showing the source and application of those funds, together with such other particulars as may be required by the Commissioner.
 
@@ -3808,49 +3893,10 @@ Every gift-exempt body must, when notified by the Commissioner, furnish a return
 (5) Nothing in subsections (1) and (2) or in section 93B shall, before 1 April 1990, apply to any superannuation scheme constituted outside New Zealand and classified by the Government Actuary under regulation 29 or regulation 30 of the Superannuation Schemes Regulations 1983.
 
 ### 59BA Annual return for trusts
-(1) A trustee of a trust who derives assessable income for a tax year must file a return for the tax year of all income derived in the corresponding income year by the trustee as trustee of the trust.
-(2) A trustee who is required to file a return for a tax year under subsection (1) and does not meet the requirements of subsection (3) must make the return in the form prescribed by the Commissioner and include, unless otherwise required by the Commissioner,—
-  (a) a statement of profit or loss and a statement of financial position:
-  (b) the amount, and nature, of each settlement, other than a nil value settlement, that is made on the trust in the income year:
-  (c) the name, date of birth, jurisdiction of tax residence, and tax file number and taxpayer identification number, of each settlor who makes a settlement on the trust in the income year or whose details have not previously been supplied to the Commissioner:
-  (d) the amount, and nature, of each distribution, other than a nil value distribution, that is made by the trustee in the income year:
-  (db) the name, date of birth, jurisdiction of tax residence, and tax file number or taxpayer identification number, of the beneficiary who receives a distribution referred to in paragraph (d):
-  (e) the name, date of birth, jurisdiction of tax residence, and tax file number and taxpayer identification number, of each person having a power under the trust to appoint or dismiss a trustee, to add or remove a beneficiary, or to amend the trust deed:
-  (f) the other information required by the Commissioner.
-(2B) Subsection (2)﻿(b) does not apply to a non-cash settlement made by a settlor on the trust in the income year if the total market value of all non-cash settlements made by that settlor on the trust in that year is less than $100,000.
-(2C) Subsection (2)﻿(d) does not apply to a non-cash distribution made to a beneficiary by the trustee in the income year if the total market value of all non-cash distributions made to that beneficiary by the trustee in that year is less than $100,000.
-(3) A trustee of a trust who is required to file a return for a tax year under subsection (1) is not required to file a return in the form required by subsection (2) if—
-  (a) the trustee is excluded from the requirement to make a return by section 43B:
-  (b) the trust is a foreign trust:
-  (bb) the trust is a foreign exemption trust:
-  (c) the trustees of the trust are incorporated as a board under the Charitable Trusts Act 1957:
-  (d) the trust is a charitable trust registered under the Charities Act 2005:
-  (e) the trustee is eligible under section HF 2 of the Income Tax Act 2007 to choose under section HF 11 of that Act to become a Maori authority:
-  (f) the trust is a widely-held superannuation fund, as defined in section YA 1 of the Income Tax Act 2007:
-  (g) the trust is an employee share scheme that is an exempt ESS, as defined in section YA 1 of the Income Tax Act 2007:
-  (h) the trustee is a debt funding special purpose vehicle, as defined in section YA 1 of the Income Tax Act 2007:
-  (i) the trustee is a lines trust established under the Energy Companies Act 1992.
-(4) If the trustee of a trust is a non-resident, a settlor of the trust who is a New Zealand resident is responsible for ensuring the performance of the obligations imposed on the trustee by this section.
-(5) The Commissioner may vary the requirements set out in subsection (2) for a trustee or class of trustees.
-(6) A variation under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
-(7) In this section,—
-  - **nil value distribution** is a non-cash distribution that is—
-    (a) the provision of minor services to the beneficiary that are incidental to the activities of the trust:
-    (b) the making available of trust property for a beneficiary if the trust incurs no costs in making that property available to the beneficiary
-  - **nil value settlement** is a non-cash settlement made on a trust by a settlor that is incapable of being distributed by the trustee as a distribution to a beneficiary (for example, a person may provide services to a trust that are consumed by the trust and cannot be distributed to a beneficiary, or a person may choose not to charge interest on a loan to the trust, which is a transfer of value to the trust but is incapable of being distributed by the trustee)
-  - **non-cash distribution** is a distribution to the extent to which it is not a distribution of money
-  - **non-cash settlement** is a settlement to the extent to which it is not a settlement of money.
+[Repealed]
 
 ### 59BAB Commissioner may require trust information for period after 2013–14 income year
-(1) The Commissioner may require a trustee of a trust to provide, in the prescribed form and by the specified date, information that—
-  (a) relates to the trust and a period beginning after the end of the 2013–14 income year and ending before the beginning of the 2021–22 income year; and
-  (b) would be required to be provided under section 59BA if the period began after the end of the 2020–21 income year; and
-  (c) is in the knowledge, possession, or control of the trustee.
-(2) The Commissioner may issue a notice requiring the trustee of each trust having the characteristics specified in the notice to provide, in the prescribed form and by the specified date, information—
-  (a) that is described in subsection (1) and is specified in the notice; and
-  (b) is for each period that is specified in the notice and begins after the end of the 2013–14 income year and ends before the beginning of the 2021–22 income year.
-(3) If the trustee of a trust is a non-resident, a settlor of the trust who is a New Zealand resident is responsible for ensuring the performance of the obligations imposed on the trustee by this section.
-(4) A notice under subsection (2) is secondary legislation under the Legislation Act 2019 (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 59B Foreign exemption trust: registration and disclosure
 (1) The Commissioner may register a foreign exemption trust if a trustee pays the prescribed fee.
@@ -4056,7 +4102,11 @@ A company or person apportioning its interest expenditure under section FE 6B of
   (b) the person complies with any conditions in the Commissioner’s approval; and
   (c) there is no material change in the provisions in subpart LY of that Act and any associated provisions.
   (d)
-(2) The Commissioner may, in accordance with this section, approve a person’s research and development activities for an income year (the first income year), the income year immediately before (the prior year), and up to 2 income years immediately after, if the person makes an application in accordance with subsection (3) on or before the last day of the 3rd month after the end of the first income year. For a prior year, the Commissioner may only approve supporting research and development activities described in section LY 5(1)﻿(ab)﻿(i) of the Income Tax Act 2007.
+(2) The Commissioner may, in accordance with this section, approve a person’s research and development activities for 1 or more of the following:
+  (a) the income year to which the application relates (the first income year):
+  (b) up to 2 income years immediately following the first income year:
+  (c) the income year immediately before the first income year, but only to the extent the activity is a supporting research and development activity described in section LY 5(1)﻿(ab)﻿(i) of the Income Tax Act 2007.
+(2B) The person must apply in accordance with subsection (3) on or before the last day of the third month after the end of the first income year. However, if the person has a balance date of 30 September, the application must be made on or before 15 January following the end of the first income year.
 (3) A person must apply to the Commissioner for approval in the form prescribed by the Commissioner, including—
   (a) the activities the person wants the Commissioner to approve; and
   (b) the income years for which approval is sought; and
@@ -4069,8 +4119,15 @@ A company or person apportioning its interest expenditure under section FE 6B of
 (4) The Commissioner may only approve a person’s activities to the extent to which, in the opinion of the Commissioner, the relevant activity is a core research and development activity or a supporting research and development activity.
 (5) If the Commissioner approves a person’s activities for an income year, the Commissioner must notify the person what activities of the person the Commissioner approves of as core research and development activities or supporting research and development activities, for which income years, and any conditions upon which the approval is made.
 (6) The Commissioner must notify the person of the intention to decline the application before the application is declined.
-(7) The Commissioner may vary an approval, upon application, if the variation application meets the requirements in subsection (1)﻿(a), the variation applied for meets the requirements of subsection (4), and the application is made on or before the last day of the 3rd month after the end of the relevant income year. If the Commissioner accepts the variation, then the Commissioner must notify the person in accordance with subsection (5).
-(7B) The Commissioner may vary an approval, upon application, to the extent to which the variation application relates solely to a supporting research and development activity for the income year immediately after the relevant income year, as provided by section LY 5(1)﻿(ab)﻿(ii) of the Income Tax Act 2007, if the variation application meets the requirements of subsection (1)﻿(a) of this section, the variation applied for meets the requirements of subsection (4) of this section, and the application is made on or before the last day of the 15th month after the end of the relevant income year. If the Commissioner accepts the variation, then the Commissioner must notify the person in accordance with subsection (5) of this section.
+(7) The Commissioner may vary an approval, upon application, if—
+  (a) the variation application meets the requirements in subsection (1)﻿(a); and
+  (b) the variation applied for meets the requirements of subsection (4); and
+  (c) the application is made on or before the last day of the third month after the end of the relevant income year, except if the person has a balance date of 30 September, in which case the application must be made on or before 15 January following the end of the relevant income year.
+(7B) The Commissioner may vary an approval, upon application, to the extent to which the variation application relates solely to a supporting research and development activity for the income year immediately following the relevant income year, as provided by section LY 5(1)﻿(ab)﻿(ii) of the Income Tax Act 2007, if—
+  (a) the variation application meets the requirements in subsection (1)﻿(a); and
+  (b) the variation applied for meets the requirements of subsection (4); and
+  (c) the application is made on or before the last day of the 15th month after the end of the relevant income year, except if the person has a balance date of 30 September, in which case the application must be made on or before 15 January of the second income year following the relevant income year.
+(7BB) If the Commissioner accepts the variation under subsection (7) or (7B), the Commissioner must notify the person in accordance with subsection (5).
 (7C) The Commissioner may vary an approval, upon application, to the extent to which the variation application relates solely to a supporting research and development activity for the 2019–20 income year, if the variation application meets the requirements of subsection (1)﻿(a) of this section, the variation applied for meets the requirements of subsection (4) of this section, and the application is made on or before 31 August 2022. If the Commissioner accepts the variation, then the Commissioner must notify the person in accordance with subsection (5) of this section.
 (8) The Commissioner’s approval under this section binds the Commissioner in accordance with the provisions of this section.
 
@@ -4324,10 +4381,10 @@ A taxpayer who has not provided their investment income payer with their tax fil
 (4) A return must contain a notice of the assessment required to be made under section 92BA.
 
 ### 79 Other annual returns
-In addition to the returns required by sections 33, 41 to 44, 59BA, and 78J, every person, whether a taxpayer or not, shall make to the Commissioner such annual returns as may be prescribed for the purposes of this Act or the Income Tax Act 2007.
+In addition to the returns required by sections 33, 41 to 44, and 78J, every person, whether a taxpayer or not, shall make to the Commissioner such annual returns as may be prescribed for the purposes of this Act or the Income Tax Act 2007.
 
 ### 80 Commissioner may require other returns to be made
-In addition to the returns mentioned in sections 33, 41 to 44, 59BA, 63, 78J, and 79, every person, whether a taxpayer or not, shall, as and when required by the Commissioner, make such further or other returns as the Commissioner requires for the purposes of this Act or the Income Tax Act 2007.
+In addition to the returns mentioned in sections 33, 41 to 44, 63, 78J, and 79, every person, whether a taxpayer or not, shall, as and when required by the Commissioner, make such further or other returns as the Commissioner requires for the purposes of this Act or the Income Tax Act 2007.
 
 ## Part 3A — Income statements
 
@@ -4373,13 +4430,13 @@ In addition to the returns mentioned in sections 33, 41 to 44, 59BA, 63, 78J, an
 (1) An application referred to in section 80KA must—
   (a) be in a form prescribed by the Commissioner; and
   (b) be signed by the person and any other person who, at the time at which the application is made, expects to be, in the selected period, their spouse, civil union partner, or de facto partner; and
-  (c) unless the only tax credit the person expects to be entitled to for the relevant tax year is the Best Start tax credit and all dependent children will be less than 1 year old on the last day of the tax year, give for each person who signed the application (the signatory) a complete statement of—
+  (c) unless the only tax credit the person expects to be entitled to for the relevant tax year is the Best Start tax credit and all dependent children will be less than 1 year old on the last day of the tax year and that tax year is before the 2026–27 tax year, give for each person who signed the application (the signatory) a complete statement of—
     (i) the family scheme income that is expected to be attributable to the tax year; and
     (ii) the family scheme income that is expected to be attributable to the selected period; and
   (d) choose whether the instalments should be paid weekly or fortnightly; and
   (e) contain any other information required by the Commissioner; and
-  (f) be accompanied by the information described in subsection (2), unless the only tax credit the person expects to be entitled to for the relevant tax year is the Best Start tax credit and all dependent children will be less than 1 year old on the last day of the tax year; and
-  (g) be accompanied by the information described in subsection (2)﻿(c) and (d), if the only tax credit the person expects to be entitled to for the relevant tax year is the Best Start tax credit and all dependent children will be less than 1 year old on the last day of the tax year.
+  (f) be accompanied by the information described in subsection (2), unless the only tax credit the person expects to be entitled to for the relevant tax year is the Best Start tax credit and all dependent children will be less than 1 year old on the last day of the tax year and that tax year is before the 2026–27 tax year; and
+  (g) be accompanied by the information described in subsection (2)﻿(c) and (d), if the only tax credit the person expects to be entitled to for the relevant tax year is the Best Start tax credit and all dependent children will be less than 1 year old on the last day of the tax year and that tax year is before the 2026–27 tax year.
 (2) The information for the purposes of subsection (1)﻿(f) and (g) is—
   (a) for a signatory who expects to derive income from employment, evidence of the amount of income from employment derived by them in the period of 1 month immediately before the date on which the application is made:
   (b) for a signatory who expects to derive income from a business,—
@@ -4575,7 +4632,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (b) ends on the day before the first day stated in a notice of entitlement that is later given to the person.
 
 ### 80KV Statement of family scheme income
-(1) This section applies for a notice of entitlement that the Commissioner has given to a person for a tax year, unless the only tax credit the person expects to be entitled to for the tax year is the Best Start tax credit and all dependent children will be less than 1 year old on the last day of the tax year.
+(1) This section applies for a notice of entitlement that the Commissioner has given to a person for a tax year, unless the only tax credit the person expects to be entitled to for the tax year is the Best Start tax credit and all dependent children will be less than 1 year old on the last day of the tax year and that tax year is before the 2026–27 tax year.
 (2) The person must, in the time within which the person is required to file the person’s return of income for the tax year, give the Commissioner a complete statement of the person’s family scheme income for the tax year.
 (3) The person must include in the statement described in subsection (2) the family scheme income of the person’s spouse, civil union partner, or de facto partner, as applicable, unless that other person gives a statement of their own family scheme income under subsection (4).
 (4) The person’s spouse, civil union partner, or de facto partner, as applicable, may give a separate complete statement of their own family scheme income, in the time within which the person is required to file the person’s return of income.
@@ -4762,7 +4819,7 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
   (kb) the taxpayer, who is a qualifying individual, has provided information to the Commissioner under section 22F or 22G and the assessment is made following the subsequent failure by the taxpayer to respond within 2 months to a request by the Commissioner for additional information; or
   (l) the assessment results from an amendment made under section 22G(6); or
   (lbaa) the Commissioner is making an amendment before finalising the account of a qualifying individual under section 22H; or
-  (lba) the assessment is of a penalty under section 139AAB, 139AB, 139ABB, 139AC, 142H, 142I, 142J, or 142K; or
+  (lba) the assessment is of a penalty under section 139AAB, 139AB, 139ABB, 139AC, 142H, 142I, 142J, 142K, 142L, or 142M; or
   (lbab)
   (lb) the assessment extinguishes all or part of a taxpayer's tax loss in accordance with section 177C(5); or
   (lbb) the assessment extinguishes all or part of a taxpayer’s excess amount under section EL 4 of the Income Tax Act 2007 in accordance with section 177C(5BA); or
@@ -6160,7 +6217,7 @@ The fact that there has been an application for a private ruling or a product ru
 (3) An assessment made under subsection (1) is subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act applies accordingly.
 
 ### 94A Assessment of shortfall penalties
-(1) The Commissioner may make or amend an assessment of a civil penalty other than under section 139AAB, 139AB, 139ABB, 139AC, 142H, 142I, 142J, or 142K in the same way as the Commissioner may make or amend an assessment of the tax in respect of which the penalty is imposed.
+(1) The Commissioner may make or amend an assessment of a civil penalty other than under section 139AAB, 139AB, 139ABB, 139AC, 142H, 142I, 142J, 142K, 142L, or 142M in the same way as the Commissioner may make or amend an assessment of the tax in respect of which the penalty is imposed.
 (2) The Commissioner must assess a shortfall penalty in the same way as the tax to which it relates, but separately from the tax. However, this subsection does not apply to a penalty under section 141ED.
 (3) The Commissioner may assess a shortfall penalty before or after unpaid tax has been assessed, or has become assessable or payable, or has been paid.
 (4) If the Commissioner assesses a shortfall penalty in respect of unpaid income tax before the passing of the annual taxing Act, the unpaid income tax shall be calculated by reference to the rates determined by the last preceding annual taxing Act.
@@ -6201,6 +6258,10 @@ The fact that there has been an application for a private ruling or a product ru
 (1) The Commissioner may make an assessment for a reporting platform operator of the amount of a penalty under section 142J(1) to (5) that, in the Commissioner’s opinion, ought to be imposed, and the operator is liable to pay the penalty assessed.
 (2) The Commissioner may make an assessment for a seller operating on a digital platform of a reporting platform operator of the amount of a penalty under section 142K that, in the Commissioner’s opinion, ought to be imposed, and the seller is liable to pay the penalty assessed.
 (3) Despite subsections (1) and (2), this section does not apply in so far as the operator or seller, as applicable, establishes in proceedings challenging the assessment that the assessment is excessive or that the operator or seller, as applicable, is not chargeable with the penalty.
+
+### 94E Assessment of penalties related to crypto-asset reporting framework
+(1) The Commissioner may make an assessment of the amount of a penalty under sections 142L and 142M that, in the Commissioner’s opinion, ought to be imposed on a person, and the person is liable to pay the penalty assessed.
+(2) This section does not apply to the extent to which the person establishes in proceedings challenging the assessment that the assessment is excessive or that they are not chargeable with the penalty.
 
 ### 95 Assessment of withdrawal tax
 [Repealed]
@@ -6246,6 +6307,14 @@ The fact that there has been an application for a private ruling or a product ru
   (a) in sections 111 and 113, the term taxpayer included a person who is chargeable with RSCT; and
   (b) in section 113, the term tax already assessed included RSCT already assessed under subsection (1) of this section.
 (4) An assessment made under this section shall be subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act shall apply accordingly.
+
+### 98C Assessment of transfer scheme withholding tax
+(1) The Commissioner may, for any person who is liable to withhold and pay TSWT under section RI 3 of the Income Tax Act 2007, make an assessment of the amount of TSWT that is payable.
+(2) The person is liable to pay the tax so assessed except to the extent to which the person establishes in proceedings challenging the assessment that the assessment is excessive or that the person is not chargeable with the tax assessed.
+(3) Sections 111 and 113 apply, so far as may be, with respect to an assessment made under subsection (1) of this section as if—
+  (a) the term taxpayer in sections 111 and 113 included a person who is assessed or liable to be assessed under subsection (1) of this section; and
+  (b) the term tax already assessed in section 113 included TSWT already assessed under subsection (1) of this section.
+(4) An assessment made under this section is subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act applies accordingly.
 
 ### 99 Assessment of RWT
 (1) The Commissioner may make an assessment of any amount that, in the Commissioner's opinion, any person is liable to account for or pay to the Commissioner under the RWT rules, and any person who is so assessed shall be liable to pay the amount so assessed, except so far as the person establishes in proceedings challenging the assessment that the assessment is excessive or that the person is not liable to account for or pay the amount so assessed.
@@ -6337,6 +6406,7 @@ Where, whether before or after the commencement of this Act,—the validity of t
     (i) provides a return for an amount of ancillary tax for a period which, for the purposes of this section, is treated as the making of an assessment of the amount of the tax by the taxpayer:
     (ib) provides a return for an amount required to be deducted under section 221 of the Accident Compensation Act 2001 for a period which, for the purposes of this section, is treated as the making of an assessment of the amount by the taxpayer:
     (ii) provides a statement in relation to approved issuer levy payable under section 86K of the Stamp and Cheque Duties Act 1971 for a period which, for the purposes of this section, is treated as the making of an assessment of the levy by the taxpayer:
+    (iib) provides a return under section 57C in relation to an amount of TSWT withheld for a period which, for the purposes of this section, is treated as the making of an assessment of the amount of TSWT by the taxpayer:
     (iii) makes an application for a refund made under section 41A in relation to a tax credit for a charitable or other public benefit gift; and
   (b) 4 years have passed from the end of the period in which the taxpayer provided the return or statement, or made the application, as applicable.
 (1D) For the purposes of the time bar in subsection (1C)﻿(b), a taxpayer who furnishes a statement referred to in subsection (1C)﻿(a)﻿(ii) is treated as having met the requirements for furnishing a tax return for non-resident withholding tax.
@@ -7516,7 +7586,7 @@ A disputant is entitled to challenge a disputable decision that is not an assess
     (i) the PAYE rules; or
     (ii) the provisional tax rules; or
     (iib) section 86H(3) of the Stamp and Cheque Duties Act 1971; or
-    (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2 to RM 4, RM 8, and RM 10 of the Income Tax Act 2007 and sections 18K, 33, 92A, 139 (insofar as it applies to unpaid tax for periods before 1 April 1997) and 184 of the Tax Administration Act 1994; or
+    (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2 to RM 4, RM 8, RM 10, and RP 17B(13) of the Income Tax Act 2007 and sections 18K, 33, 92A, 139 (insofar as it applies to unpaid tax for periods before 1 April 1997) and 184 of the Tax Administration Act 1994; or
     (iv) any of sections 6E, 6F, 17F, 17G, 18I, 21B to 23, 36 to 46, 58, 62, 63, 68CB, 68CC, and 68CD, 78B, 78C, 80, 89C, 89K, 89L, 89M, 89N(1)﻿(c)﻿(viii) and (3), 92, 106, 107, 108B, 109, 110, 111, 113, 114, 120A to 120U, 124ZH, 124ZI, Part 7B, 138I(2B), 138N, 139B, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act; or
     (ivb) any of Parts 1 to 3 of the KiwiSaver Act 2006; or
     (v) any of Parts 4, 6, 7 and 11 (other than section 76) of the Goods and Services Tax Act 1985—
@@ -8474,6 +8544,26 @@ The due date for payment, by a member of a large multinational group, of a penal
   (a) 30 days after the date on which the Commissioner makes the assessment for the penalty:
   (b) the date set out by the Commissioner in the notice of assessment as being the due date for payment of the penalty.
 
+### 142L Non-compliance with crypto-asset reporting framework: reporting crypto-asset service providers
+(1) This section applies when a reporting crypto-asset service provider does not comply with the requirements they have in New Zealand under section 185U.
+(2) The reporting crypto-asset service provider is liable to pay a penalty of $300 for each occasion on which they do not comply.
+(3) Despite subsection (2), the reporting crypto-asset service provider is not liable if their non-compliance is due to circumstances outside of their control. However, they are still liable if a circumstance relates to a crypto-asset user’s failure to provide a valid self-certification to them.
+(4) If the reporting crypto-asset service provider does not take reasonable care to comply with the requirements, and no penalty is imposed under subsection (2), they are liable to pay a penalty of—
+  (a) $20,000 for the first occasion on which they do not comply:
+  (b) $40,000 for each further occasion on which they do not comply.
+(5) The total amount of penalties for a tax year must not be more than—
+  (a) $10,000 for penalties under subsection (2):
+  (b) $100,000 for penalties under subsection (4).
+(6) The due date for payment of a penalty imposed under this section is the later of—
+  (a) 30 days after the date on which the Commissioner makes the assessment for the penalty:
+  (b) the date set out by the Commissioner in the notice of assessment for the penalty as being the due date for the payment of the penalty.
+
+### 142M Non-compliance with crypto-asset reporting framework: crypto-asset users
+(1) A crypto-asset user is liable to pay a penalty of $1,000 for a failure to provide to a person (person A) information that the crypto-asset user holds in relation to themselves or a person related to them if the information is necessary for person A to comply with the requirements of the crypto-asset reporting framework.
+(2) The due date for payment of a penalty imposed under this section is the later of—
+  (a) 30 days after the date on which the Commissioner makes the assessment for the penalty:
+  (b) the date set out by the Commissioner in the notice of assessment for the penalty as being the due date for the payment of the penalty.
+
 **Criminal penalties**
 
 ### 143 Absolute liability offences and strict liability offences
@@ -8492,7 +8582,7 @@ The due date for payment, by a member of a large multinational group, of a penal
   (a) the person did not have the information in the person's knowledge, possession or control; and
   (b) no non-resident, who under section 17E(1) was controlled directly or indirectly by the person, had the information in the non-resident's knowledge, possession or control.
 (2B) No person may be convicted of an offence against subsection (1)﻿(ab) if the relevant failure to register occurred through no fault of the person.
-(2C) No person may be convicted of an offence against subsection (1) if the requirement with which the person fails to comply is a requirement under the CRS applied standard and Part 11B.
+(2C) No person may be convicted of an offence against subsection (1) if the requirement with which the person fails to comply is a requirement under the CRS applied standard or the crypto-asset reporting framework, and Part 11B.
 (2D) No person may be convicted of an offence against subsection (1)﻿(d) if the person proves that the person, either or both,—
   (a) took reasonable care when claiming the amounts of input tax:
   (b) corrected, under section 113A of the Tax Administration Act 1994, the amount claimed for input tax.
@@ -8535,6 +8625,7 @@ The due date for payment, by a member of a large multinational group, of a penal
   (e) a salary or wage deduction made under the Student Loan Scheme Act 2011:
   (f)
   (g) an amount of RSCT withheld:
+  (gb) an amount of TSWT withheld:
   (h) amounts of compulsory employer contributions that must be paid under Part 3, subpart 3A of the KiwiSaver Act 2006 to the Commissioner, including an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of that Act.
 (6)
 (7) Subject to subsections (8) and (9), a person who is convicted of an offence against subsection (1) is liable—
@@ -9719,6 +9810,7 @@ If a double tax agreement exempts from tax any income derived before the date on
 (5) Sections 185S and 185T impose requirements on a person relating to the reporting of information required by—
   (a) the model reporting standard for digital platforms:
   (b) subject to implementation, the extended model reporting standard for digital platforms.
+(6) Section 185U imposes requirements on a person in relation to the crypto-asset reporting framework.
 
 **FATCA agreement**
 
@@ -9787,12 +9879,13 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
 (6) The report by the financial institution for a reporting period must be given to the Commissioner by the 30 June following the 31 March that is the end of the reporting period, except as given by subsection (7).
 (7) The first report by the financial institution for information with respect to a financial account that is maintained by a financial institution in a reporting period must be given to the Commissioner by—
   (a) 30 June 2018, if the financial account is identified before that date as being a reportable account that is a pre-existing individual account and a high value account:
-  (b) 30 June 2019, if the financial account is identified before that date as being a reportable account that is a pre-existing entity account or that is a pre-existing individual account and a lower value account.
+  (b) 30 June 2019, if the financial account is identified before that date as being a reportable account that is a pre-existing entity account or that is a pre-existing individual account and a lower value account:
+  (c) 30 June 2027, if the financial account is identified before that date as being a reportable account that is a pre-existing individual account or pre-existing entity account solely by virtue of the amendments to the Common Reporting Standard.
 (8) For the purposes of this section, a financial account is not an undocumented account except in a situation described in Section III, subparagraph B(5) or C(5)﻿(c) of the CRS applied standard.
 (9) In determining the aggregate balance or value of financial accounts, the financial institution must apply the rules in Section VII, subparagraph C(1) to (3) of the CRS applied standard.
 (10) The financial institution may choose that the reporting requirements given by the CRS applied standard for financial accounts held or controlled by a resident of a reportable jurisdiction apply to all financial accounts maintained by the financial institution and held or controlled by a resident of a foreign jurisdiction.
 (11) A financial institution that makes the election referred to in subsection (10) must comply with the chosen reporting requirements in each report for a reporting period.
-(12) A financial institution that chooses to review pre-existing entity accounts, whether all such accounts or a clearly identified group of such accounts, must complete the review by the date given in Section V, subparagraph D(1) of the CRS applied standard for completion of the review of pre-existing entity accounts with the specified aggregate account balance or value.
+(12) A financial institution that chooses to review pre-existing entity accounts, whether all such accounts or a clearly identified group of such accounts, must complete the review by the date given in Section V, subparagraph E(1) of the CRS applied standard for completion of the review of pre-existing entity accounts with the specified aggregate account balance or value.
 (13) A financial institution that chooses to treat a discretionary beneficiary of a trust as not being a controlling person for the trust until the beneficiary receives a distribution must have reasonable safeguards and procedures for identifying when a distribution is made to the beneficiary.
 (14) The financial institution is not permitted to choose for a report for a reporting period—
   (a) to use a reporting period other than a period ending with 31 March:
@@ -9861,6 +9954,22 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
   (b) the Commissioner must determine and publish the New Zealand dollar equivalent to the monetary threshold in the definition of excluded seller in section I, B(4)﻿(d) of the extended model reporting standard for digital platforms (see section 91AABB).
 (5) An Order in Council under this section may be made only in the period that starts on the date of commencement of the Taxation (Annual Rates for 2022–23, Platform Economy, and Remedial Matters) Act 2023 and ends on the date that is 3 years after that date.
 (6) An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Crypto-asset reporting framework**
+
+### 185U Requirements for reporting crypto-asset service providers and crypto-asset users
+(1) For the purposes of this Act, unless the context otherwise requires, terms used in this Act in provisions that relate to the crypto-asset reporting framework have the same meanings as they have in the crypto-asset reporting framework.
+(2) A reporting crypto-asset service provider must comply with the requirements of the crypto-asset reporting framework.
+(3) A crypto-asset user must provide to a person (person A) information that the crypto-asset user holds in relation to themselves or a person related to them if the information is necessary for person A to comply with the requirements of the crypto-asset reporting framework.
+(4) In the crypto-asset reporting framework,—
+  (a) the “Jurisdiction” is New Zealand, unless the context otherwise requires:
+  (b) the “effective date” is 1 April 2026:
+  (c) the “reporting period” for Section II is a tax year, not a calendar year (refer: Section II, paragraph A):
+  (d) despite Section II, paragraph G, the information pursuant to Section II, paragraph A must be reported within 3 months of the end of the tax year to which the information relates:
+  (e) despite Section III, paragraph D, subparagraph 3, a reporting crypto-asset service provider must maintain all documentation and data for a period of not less than 7 years after the end of the period within which the reporting crypto-asset service provider must report the information required to be reported pursuant to Section II:
+  (f) the relevant date for the definition of “Preexisting Individual Crypto-Asset User” is 31 March 2026 (refer: Section IV, paragraph D, subparagraph 4):
+  (g) the relevant date for the definition of “Preexisting Entity Crypto-Asset User” is 31 March 2026 (refer: Section IV, paragraph D, subparagraph 6):
+  (h) despite Section IV, paragraph F, subparagraph 1, the term “Partner Jurisdiction” means any jurisdiction, other than New Zealand, that has put in place equivalent legal requirements and that is included in a list published by New Zealand.
 
 ## Part 12 — Offences and penalties
 
@@ -10125,11 +10234,13 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
 (5) The effect of a regulation providing that a territory outside New Zealand is a reportable jurisdiction may be suspended by a determination made by the Commissioner under section 91AAV.
 (6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 226E Application of changes to CRS standard
-(1) The Governor-General may from time to time, by Order in Council, make regulations relating to a change in the CRS standard or the CRS publication providing for—
+### 226E Application of changes to CRS standard and crypto-asset reporting framework
+(1) The Governor-General may from time to time, by Order in Council, make regulations relating to a change in the CRS standard, the CRS publication, or the crypto-asset reporting framework providing for—
   (a) the effect or lack of effect of the change on the CRS applied standard:
+  (ab) the effect or lack of effect of the change on the application of the crypto-asset reporting framework under this Act:
   (b) a period for which an effect or lack of effect applies or does not apply:
-  (c) the effect or lack of effect of a change to the CRS applied standard on the obligations and liabilities of a person or entity or class of persons or entities.
+  (c) the effect or lack of effect of a change to the CRS applied standard on the obligations and liabilities of a person or entity or class of persons or entities:
+  (cb) the effect or lack of effect of a change to the application of the crypto-asset reporting framework under this Act on the obligations and liabilities of a person or entity or class of persons or entities.
 (2) A regulation may set out the period for which it is to apply, which must not begin before the latest reporting period that finishes before the regulation is made.
 (3)
 (4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -10253,7 +10364,7 @@ Form and timing of notice
 For income years in the period from the 2000–01 income year to the 2019–20 income year, an individual who may have or may have had an entitlement under the family scheme under sections MD 1 and ME 1 of the Income Tax Act 2007, and the equivalent provisions in the Income Tax Act 2004 and the Income Tax Act 1994, but who was not required to provide a return of income for a tax year in that period, may, despite section 108, choose to file a return of income for the tax year.
 
 ### 227H Transitional provision relating to annual return for trusts
-A variation under section 59BA(5) is a disallowable instrument if the variation is made in the period from the date on which the Taxation (Annual Rates for 2020–21, Feasibility Expenditure, and Remedial Matters) Act 2021 receives the Royal assent to the date on which Part 3 of the Legislation Act 2019 comes into force.
+[Repealed]
 
 ### 227I Transitional provision relating to interest rates
 (1) This section applies for the period commencing on the date the Taxation (Annual Rates for 2025–26, Compliance Simplification, and Remedial Measures) Act 2026 comes into force and ending on the day before the date the rates set by the Commissioner by a determination made under section 120H first apply.
@@ -10552,7 +10663,20 @@ Section 18 does not prevent the Commissioner communicating such information as i
 Section 18 does not prevent the Commissioner divulging or communicating any matter or thing or producing in any court any document, that the Commissioner considers desirable for the purposes of any investigation into any suspected offence or prosecution under the Crimes Act 1961, where the investigation or prosecution is in relation to any tax imposed or payable or any refund made or claimed under the Goods and Services Tax Act 1985, and any such matter or thing shall be deemed to be divulged or communicated and any such document shall be deemed to be produced for the purpose of carrying into effect the Goods and Services Tax Act 1985.
 
 ### 6 Civil recovery action
-Section 18 does not prevent communicating to any authorised person (as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009) any information required for the purpose specified in subsection (2)﻿(b) of that section.
+(1) Despite section 18, the Commissioner may disclose to an authorised person, as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009, either or both of the following:
+  (a) information about a person (person A) for the purpose specified in section 98(2)﻿(b)﻿(i) of that Act:
+  (b) updated information for the purposes of ensuring the information disclosed under paragraph (a) remains accurate and up to date.
+(2) In this clause, updated information means information that—
+  (a) relates to the information previously disclosed under subclause (1)﻿(a); and
+  (b) is readily available to the Commissioner; and
+  (c) does not include information about any person not referred to in the disclosure under subclause (1)﻿(a), unless—
+    (i) that person is person A’s employer or financial services provider; and
+    (ii) the Commissioner has previously disclosed information related to person A’s employment or financial services provider relationship; and
+    (iii) the information is personal information.
+(3) In this clause, personal information means the following information about a person:
+  (a) information that identifies the person:
+  (b) their date of birth (if applicable):
+  (c) their contact details.
 
 ### 7 Offences under revenue laws
 Section 18 does not prevent the Commissioner divulging or communicating any matter or thing to the Director of the Serious Fraud Office, or producing in any court any document, that the Commissioner considers desirable for the purposes of any investigation or prosecution in relation to any suspected Inland Revenue offence, and any such matter or thing shall be deemed to be divulged or communicated, and any such document shall be deemed to be produced, for the purpose of carrying into effect the revenue laws or any other enactment imposing taxes or duties payable to the Crown.
@@ -10695,10 +10819,10 @@ Section 18 does not prevent the Commissioner disclosing to the chief executive o
 ### 25 Business, Innovation, and Employment: New Zealand business number
 (1) Section 18 does not prevent the Commissioner communicating to a person who is an authorised officer of the department for the time being responsible for the New Zealand Business Number Act 2016 any information that—
   (a) is primary business data (as defined in section 20(2) of that Act) for inclusion in the New Zealand Business Number Register; or
-  (b) is information communicated for a purpose set out in subclauses (2) to (3B).
+  (b) is information communicated for the purposes of subclauses (2) and (3).
 (2) This clause authorises the exchange of information between the Inland Revenue Department and the department for the time being responsible for the administration of the New Zealand Business Number Act 2016 to ensure that the correct primary business data (as defined in section 20(2) of that Act) for businesses and New Zealand Business Numbers is provided for inclusion in the New Zealand Business Number Register.
 (3) For the purposes of subclause (2), the Commissioner may supply an authorised officer of the department for the time being responsible for the administration of the New Zealand Business Number Act 2016 information concerning primary business data to verify the correctness of the information to be included in the New Zealand Business Number Register.
-(3B) For the purposes of subclause (2), the Commissioner may disclose to an authorised officer of the department for the time being responsible for the administration of the New Zealand Business Number Act 2016, by way of a single transfer of data, information held by the Commissioner related to the contact address or tax file number of an unincorporated body for the purpose of enabling the department to carry out the duties or functions of the department under that Act.
+(3B)
 (4) In this clause, authorised officer, in relation to the responsible department, means any officer, employee, or agent of that department who is authorised by the chief executive of that department to receive information supplied by the Commissioner under this clause.
 
 ### 25B Business, Innovation, and Employment: Registrar of Business Payment Practices
@@ -10742,21 +10866,21 @@ Section 18 does not prevent the Commissioner communicating to any Registrar, in 
 (2) The purpose of this clause is to facilitate the exchange between the Commissioner and approved credit reporting agencies of information relating to a taxpayer’s reportable unpaid tax.
 (3) Subclauses (5), (6), and (7) apply when—
   (a) a taxpayer has an amount of reportable unpaid tax; and
-  (b) the Commissioner has formally notified the taxpayer that—
+  (b) the Commissioner has notified the taxpayer that—
     (i) the taxpayer has reportable unpaid tax; and
     (ii) the Commissioner may give an approved credit reporting agency information in relation to the taxpayer and any amount of reportable unpaid tax under this clause; and
-  (c) the Commissioner has made reasonable efforts to recover reportable unpaid tax from the taxpayer before the day on which the taxpayer is formally notified under paragraph (b); and
-  (d) 30 days after the formal notification under paragraph (b),—
+  (c) the Commissioner has made reasonable efforts to recover reportable unpaid tax from the taxpayer before the day on which the taxpayer is notified under paragraph (b); and
+  (d) 30 days after the notification under paragraph (b),—
     (i) the taxpayer has an amount of reportable unpaid tax that is greater than the amount prescribed, from time to time, by the Governor-General by Order in Council:
     (ii) the taxpayer has an amount of reportable unpaid tax that has been unpaid for a year, and, in the Commissioner’s judgement, the proportion of the unpaid amount to the taxpayer’s assessable income for that year is 30% or more.
 (3B) An order under subclause (3)﻿(d)﻿(i) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (4) Subclauses (5), (6), and (7) also apply when—
   (a) a taxpayer has an amount of reportable unpaid tax; and
-  (b) the Commissioner has formally notified the taxpayer that—
+  (b) the Commissioner has notified the taxpayer that—
     (i) the taxpayer has reportable unpaid tax; and
     (ii) the Commissioner may give an approved credit reporting agency information in relation to the taxpayer and any amount of reportable unpaid tax under this clause; and
-  (c) the Commissioner has formally notified the taxpayer under subclause (3)﻿(b) twice in the year before the notice in paragraph (b) of this subclause, but did not communicate information relating to the taxpayer under subclause (5) or (6) in the year, because the taxpayer partially paid the total relevant amount of reportable unpaid tax; and
-  (d) the Commissioner has made reasonable efforts to recover an amount of reportable unpaid tax from the taxpayer before the day on which the taxpayer is formally notified under paragraph (b) of this subclause.
+  (c) the Commissioner has notified the taxpayer under subclause (3)﻿(b) twice in the year before the notice in paragraph (b) of this subclause, but did not communicate information relating to the taxpayer under subclause (5) or (6) in the year, because the taxpayer partially paid the total relevant amount of reportable unpaid tax; and
+  (d) the Commissioner has made reasonable efforts to recover an amount of reportable unpaid tax from the taxpayer before the day on which the taxpayer is notified under paragraph (b) of this subclause.
 (4B) When the Commissioner has communicated information under subclause (5) about a taxpayer and an amount of reportable unpaid tax to which subclause (3) or (4) applied (the original RUT) and the taxpayer subsequently has 1 or more additional amounts of reportable unpaid tax, subclause (5) also applies to those additional amounts of reportable unpaid tax.
 (4C) Subclause (4B) does not apply to an additional amount of reportable unpaid tax if the taxpayer has repaid in full the original RUT and any amounts of reportable unpaid tax to which subclause (4B) has previously been applied.
 (5) The Commissioner may communicate to an approved credit reporting agency information relating to the taxpayer and any amount of reportable unpaid tax for the purposes of—
@@ -10765,11 +10889,11 @@ Section 18 does not prevent the Commissioner communicating to any Registrar, in 
 (6) The Commissioner may also communicate to an approved credit reporting agency information for the purposes described in subclause (5) if—
   (a) the information relates to the taxpayer and any amount that would be reportable unpaid tax if it was not subject to an instalment arrangement requested by the taxpayer and entered into by the Commissioner (the instalment arrangement); and
   (b) the instalment arrangement was entered into by the Commissioner after the Commissioner has communicated to an approved credit reporting agency information relating to the taxpayer under subclause (5).
-(7) The Commissioner may not communicate to an approved credit reporting agency until the Commissioner has finished considering an application under section 177 or 183H, if the application was made in the 30 days after the day on which the taxpayer is formally notified under subclause (3)﻿(b)﻿ or (4)﻿(b).
+(7) The Commissioner may not communicate to an approved credit reporting agency until the Commissioner has finished considering an application under section 177 or 183H, if the application was made in the 30 days after the day on which the taxpayer is notified under subclause (3)﻿(b)﻿ or (4)﻿(b).
 (8) The Commissioner must publish annually the following:
-  (a) the number of taxpayers that the Commissioner has formally notified under this clause in the previous tax year; and
+  (a) the number of taxpayers that the Commissioner has notified under this clause in the previous tax year; and
   (b) the number of taxpayers that the Commissioner has communicated information in relation to, under subclause (5) or (6), in the previous tax year; and
-  (c) the number of taxpayers that the Commissioner has formally notified and communicated information in relation to, under subclause (5) or (6), but who paid the total relevant amount of reportable unpaid tax in the previous tax year; and
+  (c) the number of taxpayers that the Commissioner has notified and communicated information in relation to, under subclause (5) or (6), but who paid the total relevant amount of reportable unpaid tax in the previous tax year; and
   (d) any other matter relating to the Commissioner’s use of this clause that the Commissioner decides it is appropriate to publish, including revoking an approval under subclause (9).
 (9) The Commissioner may approve, or revoke the approval of, an organisation described in subclause (10)﻿(a)﻿, if the approval or revocation positively affects the integrity of the tax system.
 (10) For the purposes of this clause, approved credit reporting agency means an organisation that—
@@ -10934,8 +11058,8 @@ Section 18 does not prevent the Commissioner from disclosing sensitive revenue i
 (3) For the purpose of this clause, any authorised officer of the Ministry of Justice may from time to time supply to the Commissioner any fines defaulter information held by that Ministry.
 (4) If, in relation to any fines defaulter, information is supplied by any authorised officer of the Ministry of Justice to the Commissioner, the Commissioner may compare that information with any information held by the Commissioner that relates to the fines defaulter.
 (5) If the Commissioner has information relating to the fines defaulter, the Commissioner may supply to an authorised officer of the Ministry of Justice all or any of the following information that is held by the Commissioner in relation to the fines defaulter:
-  (a) the last known address of the fines defaulter; and
-  (b) the last known telephone number of the fines defaulter; and
+  (a) the last known contact details of the fines defaulter, including postal and email addresses, telephone number, and any other information that may be used to contact the fines defaulter; and
+  (b)
   (c) the name of the last known employer of the fines defaulter; and
   (d) the address of the last known employer of the fines defaulter; and
   (e) the telephone number of the last known employer of the fines defaulter.
