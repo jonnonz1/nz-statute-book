@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2023-07-27_
+_Consolidation as at 2026-04-01_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -1069,7 +1069,9 @@ The provisions of the Policing Act 2008 relating to the delegation of powers, fu
     (b) the Commissioner of Police and any employee, officer, or agent of the police who is authorised by the Commissioner of Police to disclose and receive information under this section.
 (2) No obligation as to secrecy or other restrictions imposed by any enactment or otherwise on the disclosure of information prevents—
   (a) an authorised person referred to in paragraph (b) of the definition of authorised person in subsection (1) from disclosing the name of any person to an authorised person referred to in paragraph (a) of that definition:
-  (b) an authorised person referred to in paragraph (a) of the definition of authorised person in subsection (1) from disclosing any information held by the Department of Inland Revenue about a person whose name is supplied under paragraph (a) of this subsection to an authorised person referred to in paragraph (b) of that definition who requires the information for the purpose of establishing whether a prima facie case exists for taking civil recovery action under this Act.
+  (b) an authorised person referred to in paragraph (a) of the definition of authorised person in subsection (1) from disclosing information permitted to be disclosed by Schedule 7, Part A, clause 6 of the Tax Administration Act 1994 about a person whose name is supplied under paragraph (a) of this subsection to an authorised person referred to in paragraph (b) of that definition who requires the information for the purposes of—
+    (i) establishing whether a prima facie case exists for taking civil recovery action under this Act; or
+    (ii) ensuring the information disclosed under subparagraph (i) remains accurate and up to date.
 (3) Information obtained under subsection (2)﻿(b) must not be disclosed, except—
   (a) to an authorised person; or
   (b) to the person in respect of whom the information was obtained; or
