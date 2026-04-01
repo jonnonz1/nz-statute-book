@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2026-03-31_
+_Consolidation as at 2026-04-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -2313,6 +2313,8 @@ The adjusted net income of a borrower who is non-resident includes the net incom
 
 ### 5 Exempt income included
 An amount derived by the borrower is not treated as exempt income if it is—
+  (aa) an amount of income derived by a non-resident visitor from performing personal or professional services in New Zealand that is exempt income under section CW 22B of the Act:
+  (aab) an amount of income derived by a non-resident that has a source in New Zealand under section YD 4(2) or (3) of the Act that is exempt income under section CW 22C of the Act:
   (a) an overseas pension within the meaning of section CW 28(2)﻿(a) of the Act:
   (b) an amount of salary or wages that is exempt from income tax under an Act, or under a regulation or Order in Council made under an Act, that is listed in Schedule 38 of the Act (Acts exempting income from tax: income included in family scheme income).
 
