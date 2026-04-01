@@ -1,5 +1,5 @@
 # Public Service Act 2020
-_Consolidation as at 2026-01-01_
+_Consolidation as at 2026-04-01_
 
 ### 1 Title
 This Act is the Public Service Act 2020.
