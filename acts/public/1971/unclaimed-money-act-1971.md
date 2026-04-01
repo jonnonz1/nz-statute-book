@@ -1,5 +1,5 @@
 # Unclaimed Money Act 1971
-_Consolidation as at 2022-03-30_
+_Consolidation as at 2026-04-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to unclaimed money
 
@@ -24,6 +24,7 @@ In this Act, unless the context otherwise requires,—
     (b) a trustee bank's successor company in respect of any money vested in it by virtue of the Trustee Banks Restructuring Act 1988:
     (c) a savings bank company's successor in respect of any money vested in it by virtue of the Private Savings Banks (Transfer of Undertakings) Act 1992:
     (d) a building society within the meaning of the Building Societies Act 1965 in respect of any money that was a savings bank deposit within the meaning of section 57 of the Building Societies Act 1965 as in force before the commencement of the Building Societies Amendment Act 1987
+  - **tax file number** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **unclaimed money** means unclaimed money within the meaning of section 4, being unclaimed money situated in New Zealand.
 
 ### 3 Unclaimed money to be paid to Crown
@@ -92,8 +93,11 @@ Subject to this Act, there shall be payable to the Crown all money which becomes
 (1) A holder must make reasonable efforts to locate the owner of money that is, or will soon become, unclaimed money and to communicate with the owner concerning the money.
 (2) A holder of money that pays the money to the Commissioner as unclaimed money must provide to the Commissioner, with or before the payment and in a form acceptable to the Commissioner, the information relating to the owner and the money that is in the possession or control of the holder and is readily available to the holder, including—
   (a) the source, and history of the accrual, of the amount:
-  (b) the identity and whereabouts of the owner:
-  (c) the source of the owner’s entitlement to payment of the money.
+  (aa) the full name, date of birth, and tax file number of the owner:
+  (ab) the address and contact details of the owner:
+  (b) the whereabouts of the owner:
+  (c) the source of the owner’s entitlement to payment of the money:
+  (d) where applicable, the number of the account where the money is held, the date the account was opened, and the date of the owner’s last interaction with the account.
 
 ### 6 Register to be kept
 [Repealed]
@@ -133,7 +137,7 @@ Notwithstanding the provisions of this Act, but without affecting the liability 
 (4) Where any money paid to any claimant under this section is afterwards claimed by any other person, the Commissioner shall not be responsible for the payment of the same, but that person may have recourse against the claimant to whom the Commissioner has paid the money.
 (5) No claimant shall be entitled to interest on the amount of any money for which demand on the Commissioner is made by the claimant or on the amount of any money payment of which is made to the claimant under this section.
 (6) The Commissioner may remove an amount of unclaimed money from the list of amounts that are available for the owner to claim from the Commissioner, and the amount then ceases to be unclaimed money, if the money—
-  (a) has been unclaimed money for 25 years or more:
+  (a) has been unclaimed money for 20 years or more:
   (b) is money for which the Commissioner holds no information relating to the owner:
   (c) is an amount of $100 or less.
 (7) No person shall have a right of action against the Commissioner for the investment or non-investment of an amount of unclaimed money held by the Commissioner.
