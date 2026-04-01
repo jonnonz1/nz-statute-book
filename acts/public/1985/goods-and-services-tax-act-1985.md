@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2026-03-31_
+_Consolidation as at 2026-04-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -80,6 +80,7 @@ _Consolidation as at 2026-03-31_
     (c) platinum, in any form, being platinum of a fineness of not less than 99.0%:
     (d) any other substance that the Governor-General may, from time to time, by Order in Council, declare to be fine metal for the purposes of this definition (see subsection (3))
   - **flat-rate credit** means an amount equal to the amount of input tax that an operator of an electronic marketplace passes on to an underlying supplier for a supply of listed services made through the electronic marketplace as a credit that is intended for an underlying supplier who is not a registered person
+  - **flow-through joint venture** means a joint venture for which an election has been made under section 57B(2) and does not include a partnership
   - **going concern** , in relation to a supplier and a recipient, means the situation where—
     (a) there is a supply of a taxable activity, or of a part of a taxable activity where that part is capable of separate operation; and
     (b) all of the goods and services that are necessary for the continued operation of that taxable activity or that part of a taxable activity are supplied to the recipient; and
@@ -98,7 +99,8 @@ _Consolidation as at 2026-03-31_
   - **insurance** means insurance or guarantee against loss, damage, injury, or risk of any kind whatever, whether pursuant to any contract or any enactment; and includes reinsurance; and includes a policy of insurance, an insurance cover, and a renewal of a contract of insurance:provided that nothing in this definition shall apply to any insurance specified in section 3
   - **invoice** means a document notifying an obligation to make payment
   - **issuing member** means the member responsible under section 55 or 55B for issuing the taxable supply information or supply correction information for each supply made by a member of a GST group or supplier group
-  - **land** , in the zero-rating of land rules,—
+  - **joint venture property** means assets jointly owned and rights jointly held by members of a joint venture for the purposes of the joint venture
+  - **land** , in the zero-rating of land rules and in section 11(1)﻿(md),—
     (a) includes—
       (i) an estate or interest in land:
       (ii) a right that gives rise to an interest in land:
@@ -154,6 +156,7 @@ _Consolidation as at 2026-03-31_
     (a) which is carried on other than for the purposes of profit or gain to any proprietor, member, or shareholder; and
     (b) which is, by the terms of its constitution, rules, or other document constituting or governing the activities of that society, association, or organisation, prohibited from making any distribution whether by way of money, property, or otherwise howsoever, to any such proprietor, member, or shareholder
   - **non-resident** means a person to the extent that the person is not resident in New Zealand
+  - **non-resident visitor** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **non-taxable use** , for goods or services, means use of the goods or services for making exempt supplies or other than for making taxable supplies
   - **notice** , for an item of information, means the form or manner in which the item is notified or communicated, as described in section 14C or 14D of the Tax Administration Act 1994, as appropriate
   - **notify** —
@@ -165,13 +168,16 @@ _Consolidation as at 2026-03-31_
     (c) the Ombudsmen:
     (d) the Controller and Auditor-General
   - **officer of the department** means an officer of the department as defined in the Tax Administration Act 1994
+  - **ordinary joint venture** means a joint venture that is not a partnership or a flow-through joint venture
   - **original visual artwork** has the same meaning as in section 4 of the Resale Right for Visual Artists Act 2023
   - **output tax** , in relation to any registered person, means the tax charged pursuant to section 8(1) in respect of the supply of goods and services made by that person
   - **partnership** and have the meanings set out in the Partnership Law Act 2019
   - **percentage actual use** is defined in section 21G(1)﻿(a) for the purposes of sections 8(4B)﻿(b), 9(2)﻿(h), 20(3JC), and 21 to 21H
   - **percentage difference** is defined in section 21G(1)﻿(c) for the purposes of sections 21 to 21H
   - **percentage intended use** is defined in section 21G(1)﻿(b) for the purposes of sections 8(4B)﻿(b), 20(3H), 20(3JC), and 21 to 21H
-  - **person** includes a company, an unincorporated body of persons, a public authority, and a local authority
+  - **person** —
+    (a) includes a company, an unincorporated body of persons, a public authority, and a local authority; and
+    (b) does not include a flow-through joint venture
   - **Pharmac** means the Pharmaceutical Management Agency established by section 46 of the New Zealand Public Health and Disability Act 2000
   - **Pharmac agreement** means an agreement to which Pharmac is a party and under which Pharmac agrees to list a pharmaceutical on the pharmaceutical schedule as defined in section 6 of the New Zealand Public Health and Disability Act 2000
   - **pharmaceutical** means a pharmaceutical as defined in section 6 of the New Zealand Public Health and Disability Act 2000
@@ -267,7 +273,10 @@ _Consolidation as at 2026-03-31_
   - **trustee** includes an executor and administrator; and also includes Public Trust and the Māori Trustee
   - **unconditional gift** means a payment voluntarily made to any non-profit body for the carrying on or carrying out of the purposes of that non-profit body and in respect of which no identifiable direct valuable benefit arises or may arise in the form of a supply of goods and services to the person making that payment, or any other person where that person and that other person are associated persons; but does not include any payment made by the Crown or a public authority
   - **underlying supplier** , for a supply of goods or services that is supplied by the operator of a marketplace under section 60C or 60D, means the person who would be the supplier of the goods and services in the absence of sections 60C and 60D
-  - **unincorporated body** means an unincorporated body of persons, including a partnership, a joint venture, and the trustees of a trust
+  - **unincorporated body** —
+    (a) means an unincorporated body of persons; and
+    (b) includes a partnership, the trustees of a trust, and an ordinary joint venture; and
+    (c) does not include a flow-through joint venture
   - **unit title body corporate** means a body corporate under the Unit Titles Act 2010, other than a body corporate of a retirement village registered under the Retirement Villages Act 2003
   - **warranty** , in respect of goods supplied, means an undertaking given under the supply agreement to remedy any defect in the goods that appears during a certain period of time after the goods are supplied or before a certain level of usage is reached
   - **water organisation** has the meaning set out in section 4 of the Local Government (Water Services) Act 2025
@@ -299,7 +308,8 @@ _Consolidation as at 2026-03-31_
     (i) person A is associated with another person (the relative) under paragraph (c); and
     (ii) the relative is associated with the trustee under paragraph (f):
   (d) a partnership and a partner in the partnership:
-  (db) a joint venture and a member of the joint venture:
+  (db) an ordinary joint venture and a member of the ordinary joint venture:
+  (dc) 2 members of an ordinary joint venture or of a flow-through joint venture when they transact in their capacity as members of the joint venture:
   (e)
   (f) a trustee of a trust and a person who has benefited or is eligible to benefit under the trust, except if, in relation to a supply of goods and services,—
     (i) the trustee is a charitable or non-profit body with wholly or principally charitable, benevolent, philanthropic, or cultural purposes and the supply is made in carrying out these purposes; or
@@ -328,7 +338,7 @@ _Consolidation as at 2026-03-31_
   (b) persons are connected by marriage, civil union or de facto relationship if one is in a marriage, civil union or de facto relationship with the other or with a person who is connected by blood relationship to the other:
   (c) persons are connected by adoption if one has been adopted as the child of the other or as a child of a person who is within the first degree of relationship to the other.
 (7) For the purpose of subsection (1)﻿(g) and (1)﻿(h), settlor has the meaning set out in section YA 1 of the Income Tax Act 2007.
-(8) Subsection (1)﻿(i) does not apply if 2 persons (persons A and B) are both associated with a third person (person C) under subsection (1)﻿(c).
+(8) Subsection (1)﻿(i) does not apply if 2 persons (persons A and B) are both associated with a third person (person C) under subsection (1)﻿(c) or (db).
 
 ### 3 Meaning of term financial services
 (1) For the purposes of this Act, the term financial services means any 1 or more of the following activities:
@@ -372,7 +382,7 @@ _Consolidation as at 2026-03-31_
     (c) the maintenance of those customers' accounts; and
     (d) the provision of any ancillary services (such as network management, software support and development) supplied in relation to the services referred to in any of paragraphs (a), (b), and (c),—
   - **life insurance contract** means a contract lawfully entered into to the extent that it places a sum or sums at risk upon the contingency of the termination or continuance of human life, marriage, civil union or de facto relationship, or the birth of a child, but not to the extent that it provides for entitlements under Schedule 1, Part 4 of the Accident Compensation Act 2001 (which relates to entitlements arising from fatal injuries)
-  - **participatory security** means any interest or right to participate in any capital, assets, earnings, or other property of any person where that interest or right forms part of a contributory scheme; and includes an interest in a unit trust (within the meaning of section YA 1 of the Income Tax Act 2007); but does not include an equity security, a debt security, money, or a cheque
+  - **participatory security** means any interest or right to participate in any capital, assets, earnings, or other property of any person where that interest or right forms part of a contributory scheme; and includes an interest in a unit trust (within the meaning of section YA 1 of the Income Tax Act 2007); but does not include an equity security, a debt security, money, a cheque, or an interest in a flow-through joint venture
   - **retirement scheme** has the meaning given in section 6(1) of the Financial Markets Conduct Act 2013.
 (3) Notwithstanding subsection (2), the terms debt security, equity security, and participatory security do not include any of the following:
   (a) a life insurance contract or any other contract of insurance:
@@ -587,8 +597,8 @@ _Consolidation as at 2026-03-31_
 (16) Subsection (16C) applies where a person—
   (a) has either—
     (i) claimed a deduction under section 20(3) for the goods or services, excluding non-integral deductions; or
-    (ii) acquired goods or services that were zero-rated under section 11(1)﻿(mb); or
-    (iii) acquired goods or services that were zero-rated under section 11(1)﻿(m); and
+    (ii) acquired goods or services that were zero-rated under section 11(1)﻿(m), (mb), (mc), or (md); and
+    (iii)
   (b) disposed of the goods or services or ceased to be a registered person; and
   (c) is not using the goods or services in the course or furtherance of a taxable activity at the time the goods or services are disposed of or deemed to be supplied; and
   (d) has not previously returned output tax for the goods or services that is equal to or greater than—
@@ -613,6 +623,15 @@ _Consolidation as at 2026-03-31_
   (b) after the date on which the relevant transaction is settled, it is found by the supplier of the goods or the Commissioner that section 11(1)﻿(mb) does not apply; and
   (c) the recipient of the goods did not provide the supplier with correct or sufficient information under section 78F to enable the supplier to determine whether the supply should be zero-rated.
 (23B) The recipient of the supply of the goods referred to in subsection (23) is treated as if they were a supplier making, on the date on which the error referred to in subsection (23)﻿(b) is found, a taxable supply of the goods.
+(23C) Subsection (23D) applies if—
+  (a) section 11(1)﻿(mc) is treated as applying to a taxable supply of goods and services in a return provided by the supplier; and
+  (b) after the date on which the supply is made, the recipient or the Commissioner finds that section 11(1)﻿(mc) does not apply.
+(23D) The recipient of the supply of the goods and services referred to in subsection (23C) is treated as if they were a supplier making a taxable supply of the goods and services on the date on which the error referred to in subsection (23C)﻿(b) is found.
+(23E) Subsection (23F) applies if—
+  (a) section 11(1)﻿(md) is treated as applying to a taxable supply of goods and services in a return provided by the supplier; and
+  (b) after the date on which the supply is made, the supplier or the Commissioner finds that section 11(1)﻿(md) does not apply; and
+  (c) the recipient of the goods and services did not provide the supplier with correct or sufficient information under section 78FB to enable the supplier to determine whether the supply should be zero-rated.
+(23F) The recipient of the supply of the goods and services referred to in subsection (23E) is treated as if they were a supplier making a taxable supply of the goods and services on the date on which the error referred to in subsection (23E)﻿(b) is found.
 (24) If a supply that wholly or partly consists of land is made, and the supply includes the provision of services, the supply of the services is treated as a supply of goods for the purposes of section 11(1)﻿(mb).
 (24B) If a registered person claims a deduction in accordance with section 20(3) and (3K) for supplies of goods and services used in the course or furtherance of an activity that is not a taxable activity, and does not make an election under section 20(3KB) in relation to the activity before making a supply of goods and services used in the course or furtherance of the activity, the supply is a taxable supply.
 (25) For the purposes of this Act, an amount charged for the late payment of an account is treated as being consideration for a supply of services in the course or furtherance of a taxable activity, whether the amount is described as a fee, penalty, or other charge. But this subsection does not apply to the extent to which the amount is penalty or default interest, or a charge in the nature of penalty or default interest, that is imposed under—
@@ -636,6 +655,7 @@ _Consolidation as at 2026-03-31_
   (b) after the date on which the supply of the goods is made, it is found that the notification or provision of information has caused the operator of the marketplace to return a deficient amount of output tax on the supply; and
   (c) the person’s behaviour described in paragraph (a) is a repeated occurrence or the amount of tax on the supply that was not collected by the marketplace operator is substantial.
 (29) The amount of a resale royalty retained by the collection agency under section 20 of the Resale Right for Visual Artists Act 2023 is treated as a fee paid by the right holder for the collection agency’s services.
+(30) Any supply of goods and services made jointly by members of a flow-through joint venture is treated as being divided into separate supplies made by each of the members.
 
 ### 5B Supply of certain imported goods and services
 For the purpose of the definition of output tax and sections 8(1), 15A to 15E, 19A, 20(4), 20B, 25AA, 51, 52, 57, 75, 76(6), 78B, 78BA and 78C, a supply of goods or services that is treated by section 8(4B) as being made in New Zealand is treated as being made by the recipient of the supply in the course or furtherance of a taxable activity carried on by the recipient.
@@ -663,7 +683,7 @@ For the purpose of the definition of output tax and sections 8(1), 15A to 15E, 1
     (i) the person has not previously claimed a deduction under section 20(3) for the goods before the goods are sold, excluding non-integral deductions; and
     (ii) the goods were not acquired for the principal purpose of making taxable supplies; and
     (iii) the goods were not used for the principal purpose of making taxable supplies; and
-    (iv) the goods were not acquired as zero-rated supplies under section 11(1)﻿(m) or (mb), unless the person has chosen to return the nominal GST component as output tax under section 20(3J)﻿(a)﻿(iv).
+    (iv) the goods were not acquired as zero-rated supplies under section 11(1)﻿(m), (mb), (mc), or (md), unless the person has chosen to return the nominal GST component as output tax under section 20(3J)﻿(a)﻿(iv).
 (4) Despite subsection (3)﻿(b), (c)﻿(iia), and (c)﻿(iii), if a director, member, or other person referred to in those paragraphs is paid a fee or another amount in relation to their engagement, occupation, or employment in circumstances in which they are required to account for the payment to their employer, the payment is treated as consideration for a supply of services by the employer to the person who made the payment to the director, member, or other person.
 (5) For the purposes of subsection (3)﻿(b) and (c)﻿(iii), if a person in carrying on a taxable activity, accepts an office, any services supplied by that person as holder of that office are deemed to be supplied in the course or furtherance of that taxable activity.
 (6) For the purposes of subsection (3)﻿(b), a person is not engaged, occupied, or employed under a contract of service if the person is—
@@ -909,7 +929,7 @@ This Act shall bind the Crown.
   (a) an amount equal to the taxable value of the fringe benefit as determined by sections CX 20, and RD 54 to RD 57 of the Income Tax Act 2007, if paragraph (b) does not apply; or
   (b) nil, if the person would not have a deduction under section 20(3) relating to the supply of the fringe benefit if the consideration in money for the supply were given by paragraph (a).
 (7A) If goods and services are deemed to be supplied by a person under section 5(3) or (3B), or if section 5(16C)﻿(b) or 57(2)﻿(db) apply, the consideration in money for the supply is treated as being the open market value of the supply. A supply of common property by a unit title body corporate has a zero value.
-(7B) If goods and services are treated as supplied by a person under section 5(23B), the value of the supply is an amount equal to the consideration for the supply first made to the recipient.
+(7B) If goods and services are treated as supplied by a person under section 5(23B), (23D), or (23F),, the value of the supply is an amount equal to the consideration for the supply first made to the recipient.
 (7C) Where a redeliverer makes a supply of distantly taxable goods to a recipient under section 60E, the value of the supply is an amount equal to the consideration paid for the goods by the recipient.
 (7D) Where an operator of a marketplace makes a supply of remote services, or a supply of listed services, or a supply of distantly taxable goods under section 60C or 60D to a recipient who accepts an offer by the operator of a reduction in the price of the supply to the recipient, the supply is made for the reduced price.
 (7E) Where a person makes a supply of services to the recipient of a supply of goods that include distantly taxable goods, and the supply of services includes services (the related services) that relate to the distantly taxable goods, the consideration for the related services is part of the consideration for the supply of the distantly taxable goods if—
@@ -1039,6 +1059,13 @@ This Act shall bind the Crown.
   (mb) the supply wholly or partly consists of land, being a supply—
     (i) made by a registered person to another registered person who acquires the goods with the intention of using them for making taxable supplies; and
     (ii) that is not a supply of land intended to be used as a principal place of residence of the recipient of the supply or a person associated with them under section 2A(1)﻿(c); or
+  (mc) the supply of goods and services by an unincorporated body, if the supply is—
+    (i) to a registered person who acquires the goods and services with the intention of using them for making taxable supplies; and
+    (ii) made under section 57(2)﻿(db); or
+  (md) the supply of an interest in joint venture property by a member of a flow-through joint venture to a new or existing member if, at the time of supply,—
+    (i) both the supplier and the recipient are registered persons; and
+    (ii) the recipient acquires the interest with the intention of using it for making taxable supplies; and
+    (iii) the supply does not consist wholly or partly of land; or
   (n) the supply of new fine metal, being the first supply of the new fine metal after its refining, by the refiner to a dealer in fine metal, for the purpose of supplying the fine metal for use as an investment item; or
   (o) the goods are supplied to or by the Crown as consideration for a supply—
     (i) for which there is no payment of a price; and
@@ -1256,7 +1283,7 @@ This Act shall bind the Crown.
   (d) section 147 of the Customs and Excise Act 2018, where a person imports goods and the person is either not a registered person or the person is a registered person but not entitled to make an input tax deduction under section 20(3) in respect of the imported goods, if—
     (i) the imported goods or substantially the same goods are exported by the person within 12 months of the goods’ importation:
     (ii) the imported goods or substantially the same goods are exported by the person as a return under a written warranty or a written returns policy in effect at the time of the export; and
-  (e) reference numbers 40, 45, 70, 75, 80, 81, and 82 of Part 2 of the Tariff (as defined in section 2(1) of the Tariff Act 1988) if—
+  (e) reference numbers 40, 45, 70, 71, 80, 81, and 82 of Part 2 of the Tariff (as defined in section 2(1) of the Tariff Act 1988) if—
     (i) the goods are entitled to be entered under any of these reference numbers; or
     (ii) the goods are entitled to be entered duty free under Part 1 of the Tariff (as so defined), but would have been entitled to be entered under any of these reference numbers if the goods had been dutiable under Part 1 of the Tariff (as so defined).
   (f)
@@ -1704,7 +1731,8 @@ Where taxable supply information or supply correction information has been issue
 (7) Supply correction information for a supply may not be issued under subsection (2) after whichever of the following is the date that is, or is the earlier of the dates that are, applicable to the supply:
   (a) if the supply is not described in paragraph (b) or (c), the date that is 4 years from the end of the taxable period in which the registered person provides the return for the taxable period in which the supply was made:
   (b) if the supply gives rise to an overpayment of tax that is described in section 45(1), (2), or (3) and the Commissioner is satisfied that the overpayment is a result of a clear mistake or simple oversight of the registered person, the date that is 4 years from the end of the 4-year period referred to in the subsection that describes the overpayment:
-  (c) if the supply was not zero-rated, because section 11(1)﻿(mb) was incorrectly applied to the supply, the date that is 7 years from the date of settlement of the transaction relating to the supply.
+  (c) if the supply was not zero-rated, because section 11(1)﻿(mb) was incorrectly applied to the supply, the date that is 7 years from the date of settlement of the transaction relating to the supply:
+  (d) if the supply was not zero-rated, because section 11(1)﻿(md) was incorrectly applied to the supply, the date that is 7 years from the date the supply was made.
 (8) If a person claims to have lost supply correction information, the registered person who issued the information may provide a copy to the person.
 (9) Where the Commissioner is satisfied that there are or will be sufficient records available to establish the particulars of any supply or class of supplies, and that it would be impractical to require that supply correction information be provided under this section, the Commissioner may determine that, subject to any conditions that the Commissioner may consider necessary,—
   (a) any 1 or more of the particulars specified in section 19E(1) shall not be contained in the supply correction information; or
@@ -1827,6 +1855,10 @@ Despite sections 19K to 19N, in relation to a supply of listed services made by 
 (3D) A registered person who makes both taxable and exempt supplies is not required to apportion input tax for an adjustment period between such supplies if the registered person has reasonable grounds to believe that the total value of exempt supplies will not exceed the lesser of—
   (a) $90,000:
   (b) 5% of the total consideration for all their taxable and exempt supplies for the adjustment period.
+(3DB) If a flow-through joint venture makes both taxable and exempt supplies, the method of apportionment applied by each member when claiming an input tax deduction on an acquisition of goods or services must be—
+  (a) the same method for all members; and
+  (b) agreed in writing between the members; and
+  (c) fair and reasonable.
 (3E) A registered person who principally makes supplies of financial services may choose to use a fair and reasonable method of apportionment, as agreed with the Commissioner, in relation to the supply for an apportionment on acquisition. For this purpose, the person may include a group of companies.
 (3EB) A registered person may choose to use, for apportioning input tax in relation to a supply of goods and services made to the registered person, a fair and reasonable method of apportionment that is—
   (a) agreed with the Commissioner by the registered person:
@@ -1838,7 +1870,7 @@ Despite sections 19K to 19N, in relation to a supply of listed services made by 
 (3I) In the formula in subsection (3H),—
   (a) full input tax deduction is the total amount of input tax on the supply:
   (b) percentage intended use has the meaning set out in section 21G(1)﻿(b).
-(3J) For a supply to which section 11(1)﻿(m) or (mb) applies, the recipient must,—
+(3J) For a supply to which section 11(1)﻿(m), (mb), (mc), or (md) applies, the recipient must,—
   (a) on acquisition,—
     (i) identify the nominal amount of tax (the nominal GST component) that would be chargeable on the value of the supply, as if the value were equal to the consideration charged for the supply, at the rate set out in section 8(1); and
     (ii) determine the extent to which they intend to use the goods or services as described in subsection (3G); and
@@ -1889,7 +1921,7 @@ Despite sections 19K to 19N, in relation to a supply of listed services made by 
   (c) in the case of a registered person who is required to account for tax payable under section 21D(1) and (3)﻿(b) or 21FB(4)﻿(b), for the relevant adjustment period; or
   (d) in the case of a registered person who elected to return output tax under section 91(3), the taxable period in which the election was made.
   (e) in the case of a registered person who has chosen under section 19DB(3) to account for output tax on a supply of listed services made through an electronic marketplace, the taxable period in which the person chooses to account for the tax which may be no later than the taxable period that includes the date that is 7 days after the performance of the services is completed.
-(4B) A person who is treated under section 5(23B) as a supplier of goods under section 11(1)﻿(mb) is denied a deduction under subsection (3) in relation to the supply. However, this subsection does not apply to a person required to account for tax under section 5(23B) who is either a registered person or later becomes a registered person and uses the relevant goods for making taxable supplies.
+(4B) A person who is treated under section 5(23B), (23D), or (23F) as a supplier of goods or services under section 11(1)﻿(mb), (mc), or (md) is denied a deduction under subsection (3) in relation to the supply. However, this subsection does not apply to a person who is required to account for tax under section 5(23B), (23D), or (23F) who is either a registered person or later becomes a registered person and uses the relevant goods or services for making taxable supplies.
 (4C) For a supply of distantly taxable goods by a non-resident to which section 8(3)﻿(ab) applies or a supply of remote services to which section 8(3)﻿(c) applies, a recipient of the supply is denied a deduction of input tax in relation to the supply unless the recipient has obtained taxable supply information under section 19K(8) or (9).
 (4D) Subsection (4C) does not apply to a supply of distantly taxable goods to which section 8(3)﻿(ab) applies or of remote services, that is treated by section 5B as being made by the recipient, if the recipient has accounted for the output tax charged on the supply.
 (4E) For the purposes of subsection (3JD), an output tax adjustment for the flat-rate credit must be made by the underlying supplier of listed services in a taxable period in which they received the flat-rate credit.
@@ -2061,7 +2093,7 @@ For the purposes of section 21A(b),—
   (b) consideration is the amount of consideration received, or treated as received, for the supply:
   (c) previous use is the percentage intended use or the previous actual use in the period before the period in which the disposal occurs.
 (6) If either of the requirements in subsection (6B) are met, the final adjustment given by subsection (4) must not exceed—
-  (a) for a disposal that the person acquired as a zero-rated supply under section 11(1)﻿(m) or (mb), the amount of output tax that is accounted for by the person under section 20(3J)﻿(a)﻿(iii), taking into account any later adjustments made under the apportionment rules in sections 21 to 21H; or
+  (a) for a disposal that the person acquired as a zero-rated supply under section 11(1)﻿(m), (mb), (mc), or (md), the amount of output tax that is accounted for by the person under section 20(3J)﻿(a)﻿(iii), taking into account any later adjustments made under the apportionment rules in sections 21 to 21H; or
   (b) for a disposal to which paragraph (a) does not apply, the amount that, when added to any deduction already claimed, produces a total amount equal to the amount of the full input tax deduction on acquisition referred to in section 21D(2).
 (6B) For the purposes of subsection (6), the requirements are either—
   (a) the disposal is of land that the person uses in the course or furtherance of a taxable activity that is—
@@ -2527,6 +2559,7 @@ In any case where, upon the investigation by the Commissioner of the liability o
   (e)
 (1B) For the purposes of determining under subsection (1) the liability of a unit title body corporate to be registered, the value of a supply of a service made by the body corporate to a member is not included in the total value of supplies made in New Zealand by the body corporate.
 (1C) For the purposes of subsection (1), if the person is a non-resident supplier making a supply of distantly taxable goods to which section 8(3)﻿(ab) applies, or of remote services to which section 8(3)﻿(c) applies, or of listed services referred to in section 8C, then in determining whether the person is liable to be registered, the person may use a fair and reasonable method of converting foreign currency amounts into New Zealand currency amounts.
+(1D) For the purposes of determining the liability of a person who is a non-resident visitor to be registered under subsection (1), the value of a supply of services to which section 11A(1)﻿(k) applies is not included in the total value of supplies made in New Zealand by the person.
 (2) Every person who, by virtue of subsection (1) or section 51B(4), becomes liable to be registered shall apply to the Commissioner in the prescribed form for registration under this Act, within 21 days of becoming so liable, and provide the Commissioner with such further particulars as the Commissioner may require for the purpose of registering that person.
 (3) Notwithstanding subsections (1) and (2), every person who satisfies the Commissioner that, on or after 1 October 1986,—may apply to the Commissioner in the prescribed form for registration under this Act, and provide the Commissioner with such further particulars as the Commissioner may require for the purpose of registering that person.
   (a) that person is carrying on any taxable activity; or
@@ -2537,6 +2570,7 @@ In any case where, upon the investigation by the Commissioner of the liability o
     provided that the Commissioner may, having regard to the circumstances of the case, determine that person to be a registered person from such later date as the Commissioner considers equitable.
 (5) Notwithstanding anything in this Act, where any taxable activity is carried on by any non-profit body in branches or divisions, that non-profit body may apply to the Commissioner for any such branch or division to be a separate person for the purposes of this section, and if each such branch or division maintains an independent system of accounting and can be separately identified by reference to the nature of the activities carried on or the location of that branch or division, each such branch or division shall be deemed to be a separate person, and not a part of the non-profit body, and, where any such branch or division is a separate person pursuant to this subsection, any taxable activity carried on by that branch or division shall, to that extent, be deemed not to be carried on by the non-profit body first mentioned in this subsection.
 (5B) A unit title body corporate that is registered under this Act as a result of an application under subsection (3) made on a date (the application date) on or after the date of introduction of the Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Bill must be registered with effect from a date after the application date.
+(5C) If members of a flow-through joint venture are jointly carrying on a taxable activity, each member of the joint venture is liable to be registered with effect on the date that the joint venture would have been liable to be registered under subsection (1) if it had been an ordinary joint venture.
 (6) The provisions of this Act relating to the determination of the value of any supply of goods and services shall apply for the purposes of this section, with the modification that no regard shall be had to any tax charged in respect of any such supply.
 (7) An application for registration under this Act purporting to be made by or on behalf of any person shall for all purposes be deemed to have been made by that person or by that person's authority, as the case may be, unless the contrary is proved.
 (8) An order under subsection (1)﻿(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
@@ -2551,12 +2585,12 @@ In any case where, upon the investigation by the Commissioner of the liability o
   (d) a non-resident person referred to in section 54B(2).
 (2) If a person referred to in subsection (1) represents that tax is being charged on a supply that they make in a taxable period, the person is liable to pay the amount of the tax.
 (3) If a person is treated by subsection (1)﻿(c) as being a registered person, the person is treated as being registered from the original date of registration to the date when the Commissioner cancels the registration.
-(4) A person to whom either section 5(16C) or (23B) applies—
-  (a) becomes liable to be registered from the date of the supply under section 5(16C) or (23B), as applicable; and
+(4) A person to whom section 5(16C), (23B), (23D), or (23F) applies—
+  (a) becomes liable to be registered from the date of the supply under section 5(16C), (23B), (23D), or (23F), as applicable; and
   (b) must provide the Commissioner with the particulars the Commissioner may require to register the person as if the person were applying for registration under section 51(2).
-(5) A person who becomes liable to be registered under subsection (4)﻿(b) may ask the Commissioner to cancel their registration under section 52(2) once they have accounted for output tax as required under section 5(16C) or (23B), as applicable.
+(5) A person who becomes liable to be registered under subsection (4)﻿(b) may ask the Commissioner to cancel their registration under section 52(2) once they have accounted for output tax as required under section 5(16C), (23B), (23D), or (23F), as applicable.
 (6) For the purposes of subsection (5), section 5(3) does not apply if—
-  (a) the person seeks cancellation of their registration by the end of the taxable period in which they have accounted for the output tax under section 5(16C) or (23B), as applicable; or
+  (a) the person seeks cancellation of their registration by the end of the taxable period in which they have accounted for the output tax under section 5(16C), (23B), (23D), or (23F), as applicable; or
   (b) the Commissioner so determines, on application by the person.
 (7) For the purposes of this Act, if a recipient is treated as a supplier under section 5(27) of—
   (a) a supply of distantly taxable goods to which section 8(3)﻿(ab) applies, or that is supplied by a resident, the recipient is treated as registered from the date on which the supply of the goods is made:
@@ -2765,6 +2799,32 @@ The obligations and liabilities under this Act of any person in respect of anyth
   (b) in default of any such member, every member holding office as a member of a committee:
   provided that if it is done by any official or committee member, referred to in paragraph (a) or paragraph (b), that shall be sufficient compliance with any such requirement.
 
+### 57B Flow-through joint ventures
+(1) This section applies to ordinary joint ventures that become flow-through joint ventures.
+(2) An ordinary joint venture that has not previously been registered may choose to become a flow-through joint venture if—
+  (a) each member agrees in writing to become a flow-through joint venture; and
+  (b) a nominated member of the joint venture notifies the Commissioner in the prescribed form within 21 days of the date of the agreement.
+(3) An election under subsection (2) takes effect on the date of the agreement and cannot be revoked.
+(4) Despite subsection (3), if the criteria in subsection (2) other than that specified in paragraph (b) are satisfied, the Commissioner may treat the joint venture as a flow-through joint venture with effect on a date the Commissioner decides.
+(5) Goods or services that the ordinary joint venture acquired and that are being used by a member of the flow-through joint venture for making taxable supplies are treated as if the member acquired the goods or services for the purposes of sections 21 to 21H.
+(6) A member of a flow-through joint venture must either—
+  (a) keep records that are sufficient for the Commissioner to ascertain the proportions in which each member makes and receives joint venture supplies and acquisitions; or
+  (b) agree in writing with the other members the proportions in which each member makes and receives joint venture supplies and acquisitions.
+(7) Within 21 days of any change in membership, a nominated member of a flow-through joint venture must notify the Commissioner of—
+  (a) the name of any person who is no longer a member:
+  (b) the name and tax file number of any person who is a new member:
+  (c) the date that the change occurred.
+(8) Special rules apply to a flow-through joint venture. These are set out as follows:
+  (a) section 5(30), for the flow-through treatment of supplies made by the joint venture:
+  (b) sections 5(23F), 11(1)﻿(md), 19N(7)﻿(d), 75(3BB), and 78FB, which apply to zero-rated supplies between flow-through joint venture members:
+  (c) section 20(3DB), if the joint venture makes both taxable and exempt supplies:
+  (d) section 51(5C), for the registration requirements for members of the flow-through joint venture:
+  (e) section 60(2BA), which treats a member of a flow-through joint venture as an agent when supplies are made to the joint venture.
+(9) Sections 92 to 94 set out transitional provisions as follows:
+  (a) section 92 (Unincorporated bodies electing to become flow-through joint ventures):
+  (b) section 93 (Joint ventures applying flow-through treatment before 1 April 2026):
+  (c) section 94 (Transitional rule to become flow-through joint venture before 1 April 2027).
+
 ### 58 Personal representative, liquidator, receiver, etc
 (1) In this section and sections 46 and 55—
   - **agency period** means the period beginning on the date on which a person becomes entitled to act as a specified agent carrying on a taxable activity in relation to an incapacitated person and ending on the earlier of—
@@ -2808,6 +2868,7 @@ The obligations and liabilities under this Act of any person in respect of anyth
   (c) a supply from the operator to the recipient of the supply.
 (2) Subject to this section, for the purposes of this Act, where any registered person makes a taxable supply of goods and services to an agent who is acting on behalf of another person who is the principal for the purposes of that supply, that supply shall be deemed to be made to that principal and not to that agent:
   provided that that agent may nevertheless request that that agent be issued with taxable supply information and that registered person may issue taxable supply information or supply correction information as if the supply were made to that agent.
+(2BA) When a registered person makes a taxable supply of goods and services to a member of a flow-through joint venture, if the member acquires the supply for the benefit of all members of the joint venture then, for the purposes of subsection (2), the member is treated as agent for the other members.
 (2B) Despite subsection (2), when a principal and their agent agree, and record their agreement in a document, either in relation to a particular supply or for a type of supply, that this subsection applies to a supply of goods or services, the supply by a person is treated for the purposes of the Act as 2 separate supplies, being—
   (a) a supply of goods and services from the person to the agent, treating the agent as if they were the principal for the purpose of the supply; and
   (b) a supply of those goods and services from the agent to the principal.
@@ -3091,6 +3152,11 @@ Section HD 15 of the Income Tax Act 2007, with any necessary modifications, appl
   (a) the name and address of the recipient; and
   (b) the registration number of the recipient; and
   (c) a description of the land; and
+  (d) the consideration for the supply.
+(3BB) For the purposes of section 11(1)﻿(md), the supplier must maintain sufficient records to enable the following particulars in relation to the supply to be ascertained at the time of supply:
+  (a) the name and contact details of the recipient; and
+  (b) the registration number of the recipient; and
+  (c) a description of the goods and services; and
   (d) the consideration for the supply.
 (3C) Subsections (3D) and (3E) apply when a supply that wholly or partly consists of land is made to a person who is, for the purposes of the supply, an agent acting on behalf of an undisclosed principal.
 (3D) The requirements of subsection (3B)﻿(a) and (b) are met if the supplier maintains sufficient records to enable the particulars of the name, and address, and registration number or tax file number, as applicable of the agent to be ascertained.
@@ -3394,6 +3460,15 @@ Where—the supplier may increase the consideration for the supply by an amount 
   (c) does not intend to use the land as a principal place of residence for them or a person associated with them under section 2A(1)﻿(c).
 (7) When a supply is made to a person who is, for the purposes of the supply, an agent acting on behalf of an undisclosed principal, the agent must provide their registration number to the supplier at or before the date of settlement. If the agent does not have a registration number, their tax file number may be provided in its place. On meeting the requirements of this subsection, the person is treated as having met the requirements of subsection (2B).
 
+### 78FB Liability for supplies between members of flow-through joint ventures
+(1) This section applies to a supply to which section 11(1)﻿(md) applies.
+(2) At or before the time of supply, the recipient is required to notify the supplier whether, at the time of supply,—
+  (a) they are, or expect to be, a registered person; and
+  (b) they are acquiring the supply of the interest in joint venture property with the intention of using it for making taxable supplies.
+(3) For the purposes of subsection (2)﻿(a), a recipient who is a registered person, or who expects to be a registered person, must provide their registration number to the supplier at or before the time of supply.
+(4) The supplier may rely on the information provided as required by subsection (2) in determining the tax treatment of the supply.
+(5) For the purposes of section 5(2), the notice referred to in subsection (2) must be provided to the second person referred to in section 5(2).
+
 ### 78G Railways vesting: zero-rating and timing of tax calculations and documents
 [Repealed]
 
@@ -3590,6 +3665,33 @@ Despite section 25 of this Act, and sections 113 and 113A of the Tax Administrat
 (4) Any future disposal of the goods is not a taxable supply if, after returning output tax under subsection (3), the person has not—
   (a) claimed a deduction under section 20(3) for the goods, excluding non-integral deductions; and
   (b) used the goods for the principal purpose of making taxable supplies.
+
+### 92 Unincorporated bodies electing to become flow-through joint ventures
+(1) This section applies to an unincorporated body that is—
+  (a) a joint venture and not a partnership; and
+  (b) registered before 1 April 2026.
+(2) Despite section 57B(2) applying to an ordinary joint venture, the unincorporated body may, before 1 April 2027, request the Commissioner to cancel its registration and make an election to become a flow-through joint venture under section 57B(2) if—
+  (a) each member agrees in writing to become a flow-through joint venture; and
+  (b) the joint venture notifies the Commissioner in the prescribed form.
+(3) If subsection (2) applies, each member is liable to be registered in accordance with section 51(5C). This subsection overrides the specific requirements of section 52(1) about the value of the person’s taxable supplies.
+(4) Despite section 57B(3), an election under section 57B(2) in accordance with subsection (2) takes effect on the date of cancellation and cannot be revoked.
+
+### 93 Joint ventures applying flow-through treatment before 1 April 2026
+(1) Subsection (4) applies to a joint venture that is not a partnership if, before 1 April 2026, the following criteria are met:
+  (a) the members of the joint venture have consistently adopted a tax position treating the supply and acquisition of goods and services by the joint venture as separate supplies and acquisitions made by the members; and
+  (b) the joint venture is not registered; and
+  (c) each member of the joint venture is registered if the joint venture would have been liable to have been registered under section 51(1).
+(2) In addition to the criteria set out in subsection (1), subsection (4) applies only if the joint venture chooses to become a flow-through joint venture under section 57B(2) before 1 April 2027. Such an election takes effect on 1 April 2026 and cannot be revoked.
+(3) If the joint venture does not notify the Commissioner as required by subsection (2) but otherwise fulfils the criteria in subsection (1), the Commissioner may treat the joint venture as a flow-through joint venture with effect on a date the Commissioner determines.
+(4) For taxable periods starting before 1 April 2026, the joint venture is not treated as a person under section 2(1), and section 57 does not apply to the joint venture.
+
+### 94 Transitional rule to become flow-through joint venture before 1 April 2027
+(1) An ordinary joint venture that has not previously been registered may choose to become a flow-through joint venture under section 57B(2) if—
+  (a) each member agrees in writing to become a flow-through joint venture; and
+  (b) a nominated member of the joint venture notifies the Commissioner in the prescribed form before 1 April 2027.
+(2) An election made under section 57B(2) takes effect on 1 April 2026, or a later date notified by the joint venture, and cannot be revoked.
+(3) If the joint venture does not notify the Commissioner as required by subsection (1)﻿(b), but otherwise fulfils the criteria in subsection (1), the Commissioner may treat the joint venture as a flow-through joint venture with effect on a date the Commissioner determines.
+(4) The time frames set out in section 57B(2)﻿(b) and (3) do not apply for the purposes of this section.
 
 ## Schedule 1 — Non-taxable legislative charges
 
