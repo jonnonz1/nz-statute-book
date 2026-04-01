@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2026-03-31_
+_Consolidation as at 2026-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -809,14 +809,14 @@ An employer who makes a deduction under this subpart must specify the amount of 
 
 ### 64 Contribution rate
 (1) The contribution rate, in relation to an employee and to an employer and to each payment of salary or wages, is—
-  (a) 3% of the employee's gross salary or wages, if—
+  (a) 3.5% of the employee's gross salary or wages, if—
     (i) section 60(1)﻿(a), (b) or (c) first applied in respect of the employee on or after 1 April 2009 and the employee has not given his or her employer a notice under subsection (2); or
     (ii) section 66A applied in respect of the employee immediately before 1 April 2009; or
     (iii) the employee is on a 2% contribution rate immediately before the first pay period that starts on or after 1 April 2013 because they chose 2% under subsection (2); or
   (ab) 4% of the employee's gross salary or wages, if section 60(1)﻿(a), (b) or (c) first applied in respect of the employee before 1 April 2009 and the employee has not given his or her employer a notice under paragraph (b); or
   (b) 8% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate; or
   (c) 3% of the employee’s gross salary or wages if the payment of salary or wages is calculated on or after 1 April 2026 and the employee has a rate reduction under subpart 3B.
-(2) Despite subsection (1), the employee may choose a contribution rate of 3%, 4%, 6%, 8%, or 10% of their gross salary or wages by giving notice of the rate they choose to—
+(2) Despite subsection (1), the employee may choose a contribution rate of 3.5%, 4%, 6%, 8%, or 10% of their gross salary or wages by giving notice of the rate they choose to—
   (a) their employer; or
   (b) their KiwiSaver scheme provider; or
   (c) the Commissioner.
@@ -1173,7 +1173,7 @@ For the purposes of the Tax Administration Act 1994, an employer is treated as h
 ### 101C Employee’s requirements
 For the purposes of section 101A(1), the requirements are that the employee—
   (a) is paid salary or wages from which the employer deducts or is required to deduct an amount for the employee’s KiwiSaver scheme or complying superannuation fund; and
-  (b) is aged 18 or over; and
+  (b) is aged 16 or over; and
   (c) is not entitled to withdraw an amount from a fund or scheme under clause 4 of the KiwiSaver scheme rules (which relates to lock-in of funds) or a rule the same as that clause; and
   (cb) must not have made a withdrawal under clause 12B of the KiwiSaver scheme rules (which relates to life-shortening congenital condition withdrawals); and
   (d) is not a defined benefit scheme member.
@@ -1182,7 +1182,9 @@ For the purposes of section 101A(1), the requirements are that the employee—
 (1) The amount of a compulsory employer contribution is a positive amount calculated using the following formula:(payment of gross salary or wages × CEC rate) − other contributions − hybrid schemes amount.
 (2) The items in the formula are defined in subsections (3) to (6).
 (3) Payment of gross salary or wages is the amount of a payment of gross salary or wages from which the employer deducts or is required to deduct an amount for the employee’s KiwiSaver scheme or complying superannuation fund.
-(4) CEC rate is 3%.
+(4) CEC rate is—
+  (a) 3% if the employee has been granted a rate reduction under subpart 3B or, if the employee is a member of a complying superannuation fund, the employee has a contribution rate of 3% in accordance with clause 7 of schedule 28 of the Income Tax Act 2007 and, in either case, the employer chooses to apply this rate; or
+  (b) 3.5%.
 (4B) When a change occurs to the CEC rate affecting the amount of a compulsory employer contribution, the calculation of the amount of the contribution must be made at the rate applying on the day on which the salary or wages are paid.
 (5) Other contributions is the total of amounts that the employer pays or credits in relation to the employee for the period to which the payment of gross salary or wages relates, to the extent to which the amounts are—
   (a) employer contributions made in the absence of this section:
