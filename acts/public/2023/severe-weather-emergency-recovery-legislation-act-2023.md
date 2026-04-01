@@ -1,5 +1,5 @@
 # Severe Weather Emergency Recovery Legislation Act 2023
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2026-04-01_
 
 ### 1 Title
 This Act is the Severe Weather Emergency Recovery Legislation Act 2023.
@@ -114,177 +114,57 @@ This Act binds the Crown.
 ## Part 2 — Orders in Council
 
 ### 7 Governor-General may make Orders in Council
-(1) The Governor-General may, by Order in Council made on the recommendation of the relevant Minister, grant exemptions from, modify, or extend any legislation, or any provisions of any legislation referred to in Schedule 2, in connection with the whole or a part of a severe weather events affected area.
-(2) An exemption from, modification of, or extension of any legislation or a provision—
-  (a) may be absolute, or subject to terms or conditions; and
-  (b) may be made by—
-    (i) stating alternative means of complying with the legislation or provision:
-    (ii) creating or substituting a discretionary power for the provision.
-(3) An exemption from, modification of, or extension of any legislation or a provision may be for the purposes of enabling the relaxation or suspension of legislation, or provisions in legislation, referred to in Schedule 2 that—
-  (a) may divert resources away from the effort to—
-    (i) efficiently respond to the damage caused by a severe weather event:
-    (ii) minimise further damage; or
-  (b) may not be reasonably capable of being complied with, or complied with fully, owing to—
-    (i) the circumstances resulting from 1 or more severe weather events:
-    (ii) the effect of those events:
-    (iii) work that is undertaken or needs to be undertaken to respond to or recover from those events.
-(4) Subsections (2) and (3) do not limit subsection (1).
-(5) In this Act, modify,—
-  (a) in relation to legislation, includes adding provisions (including provisions that are additional):
-  (b) in relation to a provision, includes replacing, disapplying, or suspending the provision:
-  (c) includes dealing with a new subject matter if that is reasonably necessary in order to achieve the purposes of an order.
-(6) Orders in Council made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 **Key restrictions on orders**
 
 ### 8 Relevant Minister may recommend order only for 1 or more purposes of Act, etc
-(1) The relevant Minister must not recommend the making of an order unless—
-  (a) the relevant Minister is satisfied that—
-    (i) the order is necessary or desirable for 1 or more purposes of this Act (other than the matter described in section 3(3)); and
-    (ii) the extent of the order is not broader (including geographically broader in application) than is reasonably necessary to address the matters that gave rise to the order; and
-    (iii) the order does not breach section 11; and
-    (iv) the order does not limit or is a justified limit on the rights and freedoms in the New Zealand Bill of Rights Act 1990; and
-  (b) a draft of the order has been reviewed by the Panel; and
-  (c) a draft of the order has been provided to—
-    (i) the Committee of the House of Representatives that is responsible for the review of secondary legislation; or
-    (ii) if Parliament has been dissolved or has expired, each leader of a political party represented in the most recent Parliament (unless a leader cannot be contacted after reasonable efforts have been made); and
-  (d) the relevant Minister has had regard to—
-    (i) the Panel’s recommendations on the draft order; and
-    (ii) the comments on the draft order (if any) that are provided by the Committee or a leader referred to in paragraph (c) and that are provided within 3 working days after the date on which the draft order is first provided under paragraph (c) (or within any longer time allowed by the relevant Minister); and
-  (e) if the order relates to the Resource Management Act 1991, the relevant Minister has considered—
-    (i) the effects on the environment that could occur as a result of the order; and
-    (ii) whether any adverse effects can be avoided, remedied, or mitigated; and
-  (f) the engagement process under section 9 has been complied with.
-(2) The draft order provided to the Panel and under subsection (1)﻿(c) must be accompanied by a draft of the relevant Minister’s reasons for a recommendation under subsection (1) (including why the draft order is appropriate).
-(3) Where a draft of the order has been subject to the process under subsection (1)﻿(b), (c), (d), (e), or (f), that paragraph applies to a subsequent draft of the order only if the relevant Minister considers that, given the differences between the drafts, it would be appropriate to repeat the process.
+[Repealed]
 
 ### 9 Engagement about proposal
-(1) For the purposes of section 8(1)﻿(f), the relevant Minister must—
-  (a) make available the document referred to in subsection (2) to—
-    (i) the persons or representatives of persons that the relevant Minister considers appropriate (including local Māori and local community groups), given the proposed effect of the order; or
-    (ii) the public generally; and
-  (b) invite those persons to make written comments on the document; and
-  (c) give those persons 3 working days from the giving of the invitation within which to make their comments to the relevant Minister (or any longer time allowed by the relevant Minister); and
-  (d) have regard to those comments that are received within the 3-working-day period (or within the longer time allowed by the relevant Minister).
-(2) The document must include—
-  (a) an explanation of what the proposed order is intended to achieve; and
-  (b) a description of the effect of the proposed order; and
-  (c) an explanation of why the relevant Minister considers that the order is necessary or desirable for 1 or more purposes of this Act.
-(3) Subsections (1) and (5) and section 8(1)﻿(f) do not apply, or do not apply to a person or class of persons, if the relevant Minister is satisfied that—
-  (a) engagement is impracticable in the circumstances; or
-  (b) the urgency of the situation requires that the order be made as soon as practicable without that engagement.
-(4) If subsection (3) is relied on, the relevant Minister’s reasons for relying on that subsection must be published together with the order.
-(5) The relevant Minister may extend the period allowed for the provision of comments under subsection (1)﻿(c) or (d) for a period specified by the relevant Minister, if the relevant Minister considers this desirable, in light of local Māori interests and local community group interests likely to be affected by the order.
+[Repealed]
 
 ### 10 Reasons for order
-If the relevant Minister makes a recommendation under section 7, the relevant Minister’s reasons for making the recommendation (including why the order is appropriate) must be published together with the order.
+[Repealed]
 
 ### 11 Further restrictions on orders
-(1) Despite anything else in this Act, an order must not—
-  (a) grant an exemption from or modify a requirement to—
-    (i) release a person from custody or detention; or
-    (ii) have any person’s detention reviewed by a court, Judge, or Registrar; or
-  (b) grant an exemption from or modify a restriction on keeping a person in custody or detention; or
-  (c) grant an exemption from or modify a requirement or restriction imposed by the Bill of Rights 1688, the Constitution Act 1986, the Electoral Act 1993, the Judicial Review Procedure Act 2016, the New Zealand Bill of Rights Act 1990, or Part 2 of the Parliament Act 2025; or
-  (d) contain any provision that has the effect of amending a provision of this Act.
-(2) Subsection (1)﻿(d) does not limit section 19.
+[Repealed]
 
 ### 12 Orders must be kept under review
-(1) The relevant Minister must keep under review all orders for which they are responsible under section 7.
-(2) For the purposes of subsection (1), the relevant Minister, in carrying out the review, must decide whether they continue to be satisfied in relation to the matters specified in section 8(1)﻿(a).
+[Repealed]
 
 **Severe Weather Events Recovery Review Panel**
 
 ### 13 Severe Weather Events Recovery Review Panel
-(1) The Minister must appoint a Severe Weather Events Recovery Review Panel of up to 12 persons who have appropriate knowledge, skills, and experience to assist the Panel to perform its functions.
-(2) One of the members must be a former or retired Judge of the High Court (and that member will be the convener).
-(3) In appointing members of the Panel, the Minister must consider appointing members with—
-  (a) knowledge, experience, or expertise in relation to 1 or more of the following matters:
-    (i) law (including if possible, the Māori land tenure system under Te Ture Whenua Maori Act 1993), public administration, or local government:
-    (ii) environmental protection, health protection, primary industries, biodiversity, or climate change:
-    (iii) the following interests in the severe weather events affected areas (whether that knowledge, experience, or expertise is local, regional, or applies more widely in the severe weather events affected areas):
-      (A) local Māori interests:
-      (B) community interests (including rural interests):
-    (iv) emergency management (including recovery and resilience):
-  (b) local perspectives in the severe weather events affected areas of Māori, Māori communities, and their interests and values, including mātauranga Māori (Māori traditional knowledge) and tikanga Māori (Māori protocol and culture), iwi, and hapū.
-(4) The Minister may seek nominations for appointments to the Panel from—
-  (a) Local Government New Zealand; and
-  (b) those Māori entities that the Minister considers have relevant knowledge of the severe weather events affected areas.
-(5) In this section, Māori entity—
-  (a) has the same meaning as in section 9 of the Urban Development Act 2020; and
-  (b) includes any entity or other body, incorporated or unincorporated, comprising or representing a collective group whose members are 1 or more of the Māori entities.
+[Repealed]
 
 ### 14 Matters relating to appointment
-(1) A member of the Panel must be appointed by notice of appointment in writing that—
-  (a) states the date on which the appointment takes effect; and
-  (b) states the term of the appointment.
-(2) If, for any reason, the convener is unable or unwilling to act in relation to a matter or class of matters,—
-  (a) the convener may designate any other member of the Panel to act in the convener’s place; or
-  (b) if the convener is unable or unwilling to act under paragraph (a), the Minister may designate any other member of the Panel to act in the convener’s place.
-(3) If a person (A) is designated to act in the convener’s place under subsection (2) in relation to a matter or class of matters, references in this section and section 15 to the convener must, in relation to the matter or matters, be treated as references to A.
-(4) An appointed member vacates office if they—
-  (a) are removed by written notice given by the Minister; or
-  (b) resign by written notice given to the Minister.
-(5) The department must provide administrative support for the Panel.
+[Repealed]
 
 ### 15 Panel may act by division
-(1) The convener may determine that the Panel may act in separate divisions of the Panel in relation to any matter or class of matters.
-(2) A division must, subject to section 14(2) and (3), consist of—
-  (a) the convener; and
-  (b) at least 3 other members of the Panel selected by the convener.
-(3) For the purposes of acting in relation to any matter or class of matters referred to a division of the Panel, the Panel consists of the division and section 16 applies with any necessary modifications.
+[Repealed]
 
 ### 16 Functions of Panel
-(1) The functions of the Panel are—
-  (a) to review draft orders; and
-  (b) to provide advice on request to both the Minister and the relevant Minister in relation to orders that may be required for 1 or more purposes of this Act.
-(2) Within 3 working days after the date on which a draft order is received for review, or within any longer time allowed by the relevant Minister, the Panel must—
-  (a) review the draft; and
-  (b) give the Panel’s recommendations to both the Minister and the relevant Minister.
-(3) A review by the Panel may be conducted in any manner that the convener thinks appropriate, including by telephone or video conference.
-(4) The convener has a casting vote if there are more than 2 members voting and there is an equality of votes.
-(5) The relevant Minister must ensure that the Panel’s recommendations on a draft order are publicly available on an Internet site.
-(6) The Panel’s recommendations must include the Panel’s reasons for making the recommendations.
-(7) The relevant Minister must, as soon as practicable after receiving the Panel’s recommendations on a draft order, present a copy of the recommendations to the House of Representatives.
+[Repealed]
 
 **Further provisions about orders**
 
 ### 17 Orders revoked on close of 31 March 2028
-Every order is revoked on the close of 31 March 2028 (unless sooner revoked).
+[Repealed]
 
 ### 18 Validity of orders
-(1) An order may not be held invalid just because—
-  (a) it is, or authorises any act or omission that is, inconsistent with any legislation referred to in Schedule 2; or
-  (b) it confers any discretion on, or allows any matter to be determined or approved by, any person.
-(2) An order may be expressed to come into force on a day that is before, on, or after the date on which it is made, but not earlier than the first day of the earliest relevant severe weather event, and the order comes into force or, as the case may be, is deemed to have come into force accordingly.
-(3) An order may be retrospective only to the extent provided for in subsection (2).
-(4) So far as it is authorised by this Act, an order has the force of law as if it were enacted as a provision of this Act.
-(5) This section is subject to section 11.
+[Repealed]
 
 **Other orders**
 
 ### 19 Order in Council may specify additional Acts
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, specify 1 or more Acts for the purposes of Schedule 2.
-(2) The Minister may make a recommendation for an Order in Council under subsection (1) only if—
-  (a) the Minister is satisfied that—
-    (i) the Order in Council is necessary or desirable for 1 or more purposes of this Act; and
-    (ii) the Order in Council does not breach section 11(1)﻿(a) to (d); and
-  (b) a draft of the Order in Council has been provided to each leader of a political party represented in the current Parliament or, if Parliament has been dissolved or has expired, the most recent Parliament (unless a leader cannot be contacted after reasonable efforts have been made); and
-  (c) the Minister is satisfied that there is unanimous or near-unanimous support for the Order in Council from those leaders.
-(3) The draft order provided under subsection (2)﻿(b) must be accompanied by a draft of the Minister’s reasons for a recommendation under subsection (2) (including why the draft order is appropriate).
-(4) An Order in Council under section 7 that relates to an Act specified by an Order in Council under subsection (1) may, in accordance with section 18(2) and (3), come into force before, on, or after the date on which the order under section 7 is made, but not earlier than the date on which the earliest relevant severe weather event occurred.
-(5) Where a draft of the Order in Council has been subject to the process under subsection (2)﻿(b) or (c), that paragraph applies to a subsequent draft of the order only if the Minister considers that, given the differences between the drafts, it would be appropriate to repeat the process.
-(6) Orders in Council made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 
 ### 20 Order in Council to add Acts revoked if not approved by House
-(1) An Order in Council under section 19 is revoked (unless it is earlier revoked) on the expiry of the relevant period if no motion to approve the Order in Council is agreed to by the House of Representatives within that period.
-(2) The relevant period is the longer of the following:
-  (a) the period of 10 sitting days of the House of Representatives after the date on which the Order in Council is made:
-  (b) the period of 28 days after the date on which notice that the Order in Council has been made is given in the Gazette.
-(3) An order under section 7 that relates to an Act specified by an Order in Council under section 19 that is revoked under subsection (1) is also revoked at the same time.
+[Repealed]
 
 ### 21 Reasons for order
-If the Minister makes a recommendation under section 19, the Minister’s reasons for making the recommendation (including why the Order in Council is appropriate) must be published together with the Order in Council.
+[Repealed]
 
 ## Part 3 — Amendments to other legislation
 
