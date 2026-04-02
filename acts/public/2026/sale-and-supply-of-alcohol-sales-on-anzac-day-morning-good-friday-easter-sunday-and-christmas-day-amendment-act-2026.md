@@ -5,7 +5,7 @@ _Consolidation as at 2026-04-02_
 This Act is the Sale and Supply of Alcohol (Sales on Anzac Day Morning, Good Friday, Easter Sunday, and Christmas Day) Amendment Act 2026.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 3 April 2026.
 
 ## Part 1 — Amendments to Sale and Supply of Alcohol Act 2012
 
