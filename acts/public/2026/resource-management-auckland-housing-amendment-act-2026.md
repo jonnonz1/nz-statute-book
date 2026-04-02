@@ -6,7 +6,7 @@ This Act is the Resource Management (Auckland Housing) Amendment Act 2026.
 
 ### 2 Commencement
 (1) Clause 65 of Schedule 12 (as inserted by section 4) is deemed to have come into force on 9 October 2025.
-(2) The rest of this Act comes into force on the day after Royal assent.
+(2) The rest of this Act comes into force on 3 April 2026.
 
 ## Part 1 — Preliminary provisions
 
