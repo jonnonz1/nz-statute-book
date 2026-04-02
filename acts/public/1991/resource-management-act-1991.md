@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2026-02-10_
+_Consolidation as at 2026-04-02_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -14999,6 +14999,25 @@ Sections 2B, 32(2A), 71, and 86B(4A) apply to any rules in a plan that is notifi
 A wastewater or stormwater environmental performance standard does not apply to an application for a resource consent for an activity associated with constructing or operating all or any part of a wastewater network or stormwater network if,—
   (a) before the date on which the wastewater or stormwater environmental performance standard comes into force, the consent authority has decided under section 95 whether to give public or limited notification of the application; and
   (b) the applicant has determined to proceed with the application without amending it to comply with the wastewater or stormwater environmental performance standard.
+
+### Part 10 — Provisions relating to Resource Management (Auckland Housing) Amendment Act 2026
+
+### 65 Provision for projects relying on MDRS permitted activity rules affected by withdrawal of part of Plan Change 78
+(1) This clause applies on and from the applicable date.
+(2) Subclauses (3) and (4) relate to MDRS permitted activity rules in Plan Change 78 that were withdrawn by Auckland Council in accordance with clause 2(1) of Schedule 3C.
+(3) If a building consent was applied for on or before the applicable date for a residential unit that was a permitted activity, the residential unit continues to be a permitted activity as if the relevant part of Plan Change 78 had not been withdrawn, unless the building consent lapses, if—
+  (a) the residential unit was a permitted activity because of a rule in Plan Change 78 that had immediate legal effect in accordance with section 86BA(1); and
+  (b) the building consent was—
+    (i) applied for but not yet granted on or before the applicable date; or
+    (ii) granted under section 49 of the Building Act 2004 on or before the applicable date.
+(4) Subclause (5) applies if a resource consent was granted on or before the applicable date for an activity related to the construction and use of a residential unit that was a permitted activity.
+(5) The residential unit continues to be a permitted activity unless the associated resource consent lapses—
+  (a) as if the relevant part of Plan Change 78 had not been withdrawn; and
+  (b) if the residential unit was a permitted activity because of a rule in Plan Change 78 that had immediate legal effect in accordance with section 86BA(1).
+(6) In this clause,—
+  - **applicable date** means 9 October 2025
+  - **building consent** has the same meaning as set out in section 7(1) of the Building Act 2004
+  - **Plan Change 78** has the same meaning as set out in clause 1 of Schedule 3C.
 
 ### 1 Title
 (1) This Act is the Resource Management Amendment Act 2003.
