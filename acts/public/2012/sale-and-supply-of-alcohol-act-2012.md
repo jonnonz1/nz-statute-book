@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2026-04-03_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -508,7 +508,7 @@ A special licence must not be issued in circumstances where (in the opinion of t
 (1) The default maximum national trading hours—
   (a) are the hours between 8 am on any day and 4 am on the next day for the sale and supply of alcohol for consumption on premises for which an on-licence or a club licence is held:
   (b) are the hours between 7 am and 11 pm on any day for the sale of alcohol on premises for which an off-licence is held.
-(2) Subsection (1) is subject to sections 47 and 48 (which impose restrictions on the sale and supply of alcohol on Anzac Day morning, Good Friday, Easter Sunday, and Christmas Day).
+(2) Subsection (1) is subject to section 48 (which imposes restrictions on the sale and supply of alcohol on Anzac Day morning, Good Friday, Easter Sunday, and Christmas Day).
 
 ### 44 Permitted trading hours for premises without relevant local alcohol policy
 (1) The trading hours permitted for any licensed premises are the default maximum national trading hours stated by section 43 for the premises if—
@@ -531,6 +531,10 @@ A special licence must not be issued in circumstances where (in the opinion of t
 (3)
 (3)
 (3)
+
+### 45A Trading hours on Anzac Day morning, Good Friday, Easter Sunday, and Christmas day: on-licences
+(1) The premises for which an on-licence is held may remain open during the permitted trading hours that apply to the premises.
+(2) This section overrides anything to the contrary in the Shop Trading Hours Act 1990.
 
 **Rugby World Cup 2023 extended trading hours**
 
@@ -614,18 +618,7 @@ A special licence must not be issued in circumstances where (in the opinion of t
   (b) a person whom that guest permits, consistently with that agreement, to be in that room.
 
 ### 47 Sale and supply on Anzac Day morning, Good Friday, Easter Sunday, and Christmas Day restricted: on-licences
-(1) The holder of an on-licence must ensure that no alcohol is sold or supplied on the premises on Good Friday, Easter Sunday, or Christmas Day, or before 1 pm on Anzac Day, unless—
-  (a) it is sold or supplied while the holder also holds a special licence for the premises; or
-  (b) the buyer is a person of a kind described in subsection (2).
-(2) The kinds of person referred to in subsection (1) are—
-  (a) people residing or lodging on the premises:
-  (b) people who are present on the premises to dine.
-(3) For the purposes of subsection (2),—
-  (a) a person resides or lodges on licensed premises if he or she resides or lodges in the building in which the premises are situated as the guest, lodger, tenant, or employee of the licensee:
-  (b) a person is not present on licensed premises to dine if he or she is there at a time—
-    (i) more than an hour before he or she starts (or is due to start) eating a meal; or
-    (ii) more than an hour after he or she finishes eating a meal.
-(4) Subsection (1) is subject to section 173 of the Gambling Act 2003.
+[Repealed]
 
 ### 47A Anzac Day trading hours for licensed RNZRSA clubs
 (1) This section applies to licensed premises if—
@@ -633,16 +626,15 @@ A special licence must not be issued in circumstances where (in the opinion of t
   (b) the club holds a club licence for the premises.
 (2) Despite anything in section 44 or 45, the permitted trading hours for any licensed premises to which this section applies include the hours from 4 am to 1 pm on Anzac Day.
 (3) Any one-way door restriction applicable to the premises does not operate during the hours specified in subsection (2).
+(3A) Despite anything in section 21 or 60, the licensee of a licensed premises to which this section applies may sell and supply alcohol to persons other than authorised customers for consumption on the premises during the hours specified in subsection (2).
 (4) An RNZRSA club’s use of land at its licensed premises during the hours specified in subsection (2) must be treated as not contravening section 9 of the Resource Management Act 1991 if—
   (a) this section applies to the premises; and
   (b) the use would comply with section 9 of the Resource Management Act 1991 if it occurred during any other permitted trading hours.
 
 ### 48 Sale on Anzac Day morning, Good Friday, Easter Sunday, and Christmas Day restricted: off-licences
-The holder of an off-licence must ensure that—
-  (a) no alcohol is sold on or delivered from the premises on Good Friday, or Christmas Day, or before 1 pm on Anzac Day; and
-  (b) no alcohol is sold on or delivered from the premises at any time on Easter Sunday unless it is grape wine or fruit or vegetable wine made—
-    (i) on the premises; or
-    (ii) from produce harvested from land on which the premises are situated.
+The holder of an off-licence must ensure that no alcohol is sold on or delivered from the premises on Good Friday, Easter Sunday, or Christmas Day, or before 1 pm on Anzac Day, unless it is wine made—
+  (a) on the premises; or
+  (b) from produce harvested from land on which the premises are situated.
 
 ### 49 Remote sales exempted from trading hours restrictions
 (1) A remote sale of alcohol may be made at any time on any day.
@@ -2041,7 +2033,7 @@ Every holder of an on-licence (other than an on-licence endorsed under section 3
 
 ### 215 Circumstances where section 214 does not apply
 (1) The requirement to have a manager on duty at all times when alcohol is being sold or supplied to the public on any licensed premises does not apply to—
-  (a) premises for which a club licence is held; or
+  (a) premises for which a club licence is held, except when alcohol is being sold or supplied to persons other than authorised customers for consumption on the premises under section 47A(3A); or
   (b) premises for which an on-licence endorsed under section 37 is held; or
   (c) premises for which an off-licence endorsed under section 40 is held; or
   (d) premises for which an off-licence but no on-licence is held where fruit or vegetable wine or grape wine is made; or
@@ -3837,6 +3829,30 @@ Adopted local alcohol policies
 (2) If this clause applies,—
   (a) in the case of proceedings begun before the commencement of this clause, the procedures specified in this Act immediately before the commencement of this clause continue to apply as if the Sale and Supply of Alcohol (Community Participation) Amendment Act 2023 had not been enacted:
   (b) in the case of proceedings not begun before the commencement of this clause, the procedures specified in this Act immediately after the commencement of this clause (as amended by the Sale and Supply of Alcohol (Community Participation) Amendment Act 2023) apply.
+
+### Part 3 — Provisions relating to Sale and Supply of Alcohol (Sales on Anzac Day Morning, Good Friday, Easter Sunday, and Christmas Day) Amendment Act 2026
+
+### 3 Interpretation
+In this Part,—
+  - **amendment Act** means the Sale and Supply of Alcohol (Sales on Anzac Day Morning, Good Friday, Easter Sunday, and Christmas Day) Amendment Act 2026
+  - **commencement date** means the date on which the amendment Act comes into force under section 2 of that Act.
+
+### 4 Transitional arrangements for on-licences
+A condition imposed on an on-licence has no effect to the extent that it—
+  (a) is imposed before the commencement date; and
+  (b) provides that no alcohol is to be sold or supplied on the premises on Good Friday, Easter Sunday, or Christmas Day, or before 1 pm on Anzac Day.
+
+### 5 Transitional arrangements for off-licences
+A condition imposed on an off-licence has no effect to the extent that it—
+  (a) is imposed before the commencement date; and
+  (b) prohibits the sale on or delivery from the premises, on Good Friday, or Christmas Day, or before 1 pm on Anzac Day, of grape wine or fruit or vegetable wine made—
+    (i) on the premises; or
+    (ii) from produce harvested from land on which the premises are situated.
+
+### 6 Transitional arrangements for certain club licences
+A condition imposed on a club licence for premises to which section 47A applies has no effect to the extent that it—
+  (a) is imposed before the commencement date; and
+  (b) provides that no alcohol is to be sold or supplied to persons other than authorised persons for consumption on the premises during the hours from 4 am to 1 pm on Anzac Day.
 
 ## Schedule 1 — Existing licensing and community trusts
 
