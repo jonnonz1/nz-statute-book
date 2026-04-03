@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2026-04-02_
+_Consolidation as at 2026-04-03_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -13536,7 +13536,7 @@ An application to a Minister for a direction under section 80C to use the stream
   (a) must provide for the matters set out in subclause (4); and
   (b) must include the Minister’s statement of expectations for the local authority; and
   (c) may include any matters provided for in subclause (5).
-(3A) If the direction relates to an Auckland housing planning instrument, the Minister’s statement of expectations may include expectations about how the instrument will comply with clause 4 of Schedule 3C.
+(3A) If the direction relates to an Auckland housing planning instrument, the Minister’s statement of expectations may include expectations about how the instrument will comply with clause 4 of Schedule 3C (as amended by section 6 of the Resource Management (Auckland Housing) Amendment Act 2026).
 (3B) If the direction relates to the removal, or enabling the removal, of heritage protection from buildings (within the meaning of section 80C(5)) or structures that are listed in a heritage list (within the meaning of section 80C(5)), the Minister’s statement of expectations must include the following criteria:
   (a) heritage significance:
   (b) physical condition, including degree of seismic risk:
@@ -13573,8 +13573,9 @@ An application to a Minister for a direction under section 80C to use the stream
 ### 80 Amendment of direction
 (1) The responsible Minister may initiate an amendment of a direction.
 (2) A local authority may request in writing that the responsible Minister amend a direction that applies to that local authority, setting out the reasons for the request.
-(2A) If the reason for the request is to enable or support a variation to an Auckland housing planning instrument, the request must also contain information on how that instrument, as it is proposed to be varied, would comply with clause 4 of Schedule 3C.
+(2A) If the reason for the request is to enable or support a variation to an Auckland housing planning instrument, the request must also contain information on how that instrument, as it is proposed to be varied, would comply with clause 4 of Schedule 3C (as amended by section 6 of the Resource Management (Auckland Housing) Amendment Act 2026).
 (3) The responsible Minister may amend his or her direction as the Minister thinks appropriate.
+(3A) The Minister may amend the Resource Management (Direction to Auckland Council to use the Streamlined Planning Process to Prepare Proposed Plan Change 120: Housing Intensification and Resilience) Notice 2025 (Gazette 2025-sl6084) in accordance with this clause at any time, except that the requirements in clause 76(4)﻿(b) to (d) of this schedule do not apply to an amendment made under this subclause.
 (4) Unless an amendment made under this clause has no more than a minor effect or is made to correct a technical error, the following clauses apply:
   (a) clause 76(2) to (6); and
   (b) clause 77(2) or 77A(2) (as the case requires); and
@@ -14199,7 +14200,7 @@ Any residential unit facing the street must have a minimum of 20% of the street-
 ## Schedule 3C — Alternative intensification provisions for Auckland and Christchurch
 
 ### 1 Interpretation
-In this schedule, unless the context otherwise requires,—
+(1) In this schedule, unless the context otherwise requires,—
   - **Auckland housing planning instrument** means a change to the Auckland Unitary Plan—
     (a) to comply with clause 4; and
     (b) that may include provisions of a kind permitted under clause 5(2)
@@ -14211,10 +14212,13 @@ In this schedule, unless the context otherwise requires,—
   - **housing capacity** , in relation to the Auckland Unitary Plan or Christchurch district plan, means the housing that the plan enables as a permitted activity, controlled activity, or restricted discretionary activity
   - **listed planning instrument** has the meaning given in section 80B
   - **Maungawhau (Mount Eden) Station** , , , , and mean the railway stations at those places on the North Auckland Line
+  - **new clause 4** means clause 4 of this schedule as amended by section 6 of the Resource Management (Auckland Housing) Amendment Act 2026
   - **Plan Change 14** means the intensification planning instrument for Christchurch City Council notified on 17 March 2023
   - **Plan Change 78** means the intensification planning instrument for Auckland Council notified on 18 August 2022
+  - **Plan Change 120** means the Auckland housing planning instrument that was notified by Auckland Council on 3 November 2025
   - **SPP panel** has the meaning given in section 80B
   - **urban environment** has the meaning given in section 77F.
+(2) On and from the commencement of section 6(2) of the Resource Management (Auckland Housing) Amendment Act 2026, for the purposes of applying references in subclause (1) and in clauses 3 and 5(6) to (9) of this schedule to clause 4 of this schedule, references to clause 4 must be read as references to new clause 4.
 
 ### Part 1 — Process for Auckland Council to withdraw Plan Change 78
 
@@ -14235,7 +14239,7 @@ If Auckland Council withdraws all or part of Plan Change 78 in accordance with c
 
 ### 4 Requirements for Auckland Unitary Plan if Plan Change 78 withdrawn
 (1) Auckland Council must amend the Auckland Unitary Plan to—
-  (a) provide at least the same amount of housing capacity that would have been enabled if Plan Change 78 (as notified) were made operative; and
+  (a) provide a minimum housing capacity of 32.5% less than the housing capacity that would have been enabled if Plan Change 78 (as notified) were made operative; and
   (b) enable, within at least a walkable catchment of the Maungawhau (Mount Eden), Kingsland, and Morningside Stations,—
     (i) heights and densities commensurate with the greater of—
       (A) demand for housing and business use in those locations; or
@@ -14247,7 +14251,7 @@ If Auckland Council withdraws all or part of Plan Change 78 in accordance with c
       (B) the amount of housing and business use that is appropriate given the level of accessibility to commercial activity and community services in those locations; and
     (ii) in all cases, building heights of at least 10 storeys in those locations; and
   (d) give effect to policy 3.
-(2) However, Auckland Council may amend the Auckland Unitary Plan to enable less development than that required by subclause (1)﻿(b) or policy 3 if authorised to do so by clause 8.
+(2) However, Auckland Council may amend the Auckland Unitary Plan to enable less development than that required by subclause (1)﻿(b) or (c) or policy 3 if authorised to do so by clause 8.
 
 ### 5 Auckland housing planning instrument
 (1) Auckland Council must, no later than 10 October 2025, notify the responsible Minister in accordance with clause 75A of Schedule 1 for a direction to use the streamlined planning process to prepare an Auckland housing planning instrument.
@@ -14255,10 +14259,12 @@ If Auckland Council withdraws all or part of Plan Change 78 in accordance with c
 (3) Auckland Council must not notify more than 1 Auckland housing planning instrument.
 (4) Despite clause 88 of Schedule 1, Auckland Council must not withdraw the Auckland housing planning instrument.
 (5) However, Auckland Council may withdraw part of the Auckland housing planning instrument if that part—
-  (a) relates solely to a matter referred to in subclause (2); and
+  (a)
   (b) is not required to comply with clause 4.
-(6) An SPP panel making recommendations on the Auckland housing planning instrument must ensure that its recommendations comply with clause 4.
-(7) Auckland Council must, when making decisions on the Auckland housing planning instrument, ensure that its decisions comply with clause 4.
+(6) An SPP panel making recommendations on Plan Change 120 under clauses 85, 99, and 100 of Schedule 1 must ensure that its recommendations comply with clause 4.
+(7) Auckland Council must, when making decisions on SPP panel recommendations on Plan Change 120 under clause 86 of Schedule 1, ensure that its decisions comply with clause 4.
+(8) For the purpose of calculating the housing capacity that Plan Change 120 enables and the housing capacity that clause 4 requires, Auckland Council must use the same capacity modelling methodology it applied when calculating the housing capacity that Plan Change 78 (as notified) would have enabled if it were made operative.
+(9) For the purposes of clause 4, housing capacity does not include the housing capacity in the city centre as at 6 June 2025 when the Plan Change 78 changes to the city centre became operative.
 
 ### 6 Application of certain provisions if Plan Change 78 withdrawn
 (1) From the date that all or part of Plan Change 78 is withdrawn,—
@@ -14329,6 +14335,61 @@ If Auckland Council withdraws all or part of Plan Change 78 in accordance with c
 (2) Clauses 16A and 16B of Schedule 1 apply to a variation with any necessary modifications, as if the reference in clause 16A(1) to any time before the approval of the policy statement or plan were a reference to any time before Auckland Council notifies a decision on a recommendation of the SPP panel in accordance with clause 86(5) of Schedule 1.
 (3) Auckland Council must submit any variation to the SPP panel as soon as reasonably practicable after it is notified.
 (4) In this clause, direction means the Minister’s direction to Auckland Council (under clause 78 of Schedule 1) to use the streamlined planning process to prepare an Auckland housing planning instrument.
+
+**Provisions relating to Plan Change 120**
+
+### 10A Minister’s statement of expectations
+(1) In paragraph b of the statement of expectations set out in the Minister’s direction, reference to clause 4(1)﻿(a) of Schedule 3C must be read as a reference to the corresponding provision in new clause 4.
+(2) In paragraph d of the statement of expectations set out in the Minister’s direction, reference to clause 4 of Schedule 3C must be read as a reference to new clause 4.
+(3) In this clause, Minister’s direction means the Resource Management (Direction to Auckland Council to use the Streamlined Planning Process to Prepare Proposed Plan Change 120: Housing Intensification and Resilience) Notice 2025 (Gazette 2025-sl6084).
+
+### 10B Process requirements for Plan Change 120
+(1) On and after the commencement of this clause,—
+  (a) clauses 10C to 10E apply to Plan Change 120; and
+  (b) Auckland Council must follow the process set out in those clauses for Plan Change 120.
+(2) However, this clause does not prevent Auckland Council from preparing a variation under clause 10 if the responsible Minister amends their direction in accordance with clause 80 of Schedule 1.
+
+### 10C Decisions relating to changed capacity requirement
+(1) Auckland Council must decide whether to propose any amendments (the proposed amendments) to Plan Change 120.
+(2) Subclause (1) does not limit the scope of amendments that Auckland Council may propose, and does not prevent Auckland Council from deciding not to propose any amendments.
+(3) For the purposes of this Act, the proposed amendments decided on by Auckland Council under this clause and publicly notified under clause 10D are not, and must not be treated as, a proposed plan, proposed policy statement, proposed change, or variation.
+
+### 10D Public notice relating to any proposed amendments decided under clause 10C
+(1) Auckland Council must give public notice of its decision under clause 10C in accordance with this clause.
+(2) The public notice must state—
+  (a) whether Auckland Council proposes amendments to Plan Change 120 in accordance with clause 10C; and
+  (b) whether Auckland Council has withdrawn any parts of Plan Change 120 (as notified) as of the date of the public notice and, if so, which parts it has withdrawn; and
+  (c) where the proposed amendments (if any) may be inspected; and
+  (d) that any person may make a submission on Plan Change 120, including the proposed amendments (if any), and that persons who have previously made a submission on Plan Change 120 may amend their submission; and
+  (e) the process for participating in the consideration of Plan Change 120, including on the proposed amendments (if any); and
+  (f) the closing date for submissions, which is 20 working days from the date of the public notice; and
+  (g) the address for service of Auckland Council; and
+  (h) any further information that Auckland Council sees fit.
+(3) Auckland Council must send the public notice, by post or email, to every person who has previously submitted on Plan Change 120.
+(4) Auckland Council must make the proposed amendments (if any) available in every public library in its area and every other place that it considers appropriate.
+
+### 10E Submissions process for Plan Change 120 and any proposed amendments decided under clause 10C
+(1) Electronic and non-electronic forms approved by the chief executive of Auckland Council may be used for—
+  (a) making submissions on Plan Change 120 and the proposed amendments (if any); and
+  (b) amending submissions made on Plan Change 120 (as notified), whether any previous submission was made electronically or not.
+(2) An approved form must—
+  (a) allow submitters to attach supporting documents to electronic and non-electronic submissions; and
+  (b) at a minimum, require a submitter to—
+    (i) state the submitter’s full name; and
+    (ii) state that the submission is made on Plan Change 120; and
+    (iii) declare whether the submitter could or could not gain an advantage in trade competition through the submission; and
+    (iv) if relevant, declare whether the submitter is directly affected by an adverse effect on the environment that does not relate to trade competition; and
+    (v) identify the specific provisions of Plan Change 120 and the proposed amendments (if any) to which the submission relates; and
+    (vi) state whether the submitter supports, opposes, or seeks amendment of those provisions, and the reasons for that position; and
+    (vii) state the decision sought from the local authority; and
+    (viii) state whether the submitter wishes to be heard in support of the submission; and
+    (ix) provide contact details, including an address for service, a phone number, and an electronic address (if available); and
+    (x) if applicable, state the name of any contact person or authorised agent.
+(3) A person who made a submission on Plan Change 120 (as notified) under clause 6 of Schedule 1 before the commencement of this clause may amend their submission within 20 working days from the date of public notification of Auckland Council’s decision under clause 10C using an approved form.
+(4) Any other person (including Auckland Council) may make a submission on Plan Change 120, including on the proposed amendments (if any), within 20 working days from the date of public notification of Auckland Council’s decision under clause 10C using an approved form.
+(5) A person who could gain an advantage in trade competition through a submission may make a submission only if directly affected by an effect of Plan Change 120 or the proposed amendments (if any) that—
+  (a) adversely affects the environment; and
+  (b) does not relate to trade competition or the effects of trade competition.
 
 ### Part 2 — Process for Christchurch City Council to withdraw Plan Change 14
 
@@ -15002,6 +15063,19 @@ A wastewater or stormwater environmental performance standard does not apply to 
 
 ### Part 10 — Provisions relating to Resource Management (Auckland Housing) Amendment Act 2026
 
+### 62 Interpretation
+In this Part,—
+  - **amendment Act** means the Resource Management (Auckland Housing) Amendment Act 2026
+  - **Plan Change 120** has the same meaning as in clause 1 of Schedule 3C.
+
+### 63 Submissions made on Plan Change 120
+Nothing in the amendment Act affects the validity or status of any submission made, or struck out under section 41D, in relation to Plan Change 120 before the commencement of this clause.
+
+### 64 Previous action taken on Plan Change 120
+Nothing in the amendment Act affects the validity of anything done or omitted under this Act before the commencement of the amendment Act in relation to Plan Change 120, including (but not limited to)—
+  (a) functions or duties performed, or powers exercised, under this Act relating to Plan Change 120:
+  (b) an evaluation report for Plan Change 120 prepared by Auckland Council under section 32.
+
 ### 65 Provision for projects relying on MDRS permitted activity rules affected by withdrawal of part of Plan Change 78
 (1) This clause applies on and from the applicable date.
 (2) Subclauses (3) and (4) relate to MDRS permitted activity rules in Plan Change 78 that were withdrawn by Auckland Council in accordance with clause 2(1) of Schedule 3C.
@@ -15018,6 +15092,16 @@ A wastewater or stormwater environmental performance standard does not apply to 
   - **applicable date** means 9 October 2025
   - **building consent** has the same meaning as set out in section 7(1) of the Building Act 2004
   - **Plan Change 78** has the same meaning as set out in clause 1 of Schedule 3C.
+
+### 66 Temporary exemption from requirements of National Policy Statement on Urban Development 2020
+(1) Auckland Council is exempt from compliance with the requirements of the following provisions of the National Policy Statement on Urban Development 2020:
+  (a) clause 3.10(2) (assessing demand and development capacity under a Housing and Business Development Capacity Assessment):
+  (b) clause 3.12(1) (preparation of a Future Development Strategy):
+  (c) clause 3.16 (review of a Future Development Strategy):
+  (d) clause 3.19(1) (obligation to prepare a Housing and Business Development Capacity Assessment).
+(2) The exemption from compliance with those requirements granted by subclause (1) expires on the sooner of the following:
+  (a) the date on which a new or updated national policy statement directs those requirements to recommence:
+  (b) in time to inform Auckland Council’s 2030–2040 long-term plan, but no later than the close of the third consecutive year to which its next long-term plan (2027–2037) relates.
 
 ### 1 Title
 (1) This Act is the Resource Management Amendment Act 2003.
