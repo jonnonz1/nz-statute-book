@@ -1,5 +1,5 @@
 # Flags, Emblems, and Names Protection Act 1981
-_Consolidation as at 2024-08-10_
+_Consolidation as at 2026-04-05_
 
 > An Act to declare the New Zealand Ensign to be the New Zealand Flag and to make provision relating to its use and to the use of certain other flags, and to make better provision for the protection of certain names and emblems of Royal, national, international, commercial, or other significance
 
@@ -18,7 +18,7 @@ In this Act, unless the context otherwise requires,—
   - **the New Zealand White Ensign** means the flag described in the Schedule of the New Zealand White Ensign Regulations 1968 (SR 1968/93)
   - **proper name** , in relation to any town or road or other place, means the name assigned or approved in respect of that place by the New Zealand Geographic Board or the Surveyor-General or a territorial authority under any Act
   - **registering authority** includes—and also includes any other officer acting on behalf of any officer referred to in any of paragraphs (a) to (k)
-    (a) the Registrar of Incorporated Societies under the Incorporated Societies Act 1908:
+    (a) the Registrar of Incorporated Societies under the Incorporated Societies Act 1908 or the Incorporated Societies Act 2022:
     (b) the Registrar of Industrial and Provident Societies under the Industrial and Provident Societies Act 1908:
     (c) the Registrar of Trade Unions under the Trade Unions Act 1908:
     (d) the Registrar of Friendly Societies and Credit Unions under the Friendly Societies and Credit Unions Act 1982:
