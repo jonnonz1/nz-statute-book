@@ -1,5 +1,5 @@
 # Financial Reporting Act 2013
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2026-04-05_
 
 ### 1 Title
 This Act is the Financial Reporting Act 2013.
@@ -733,7 +733,7 @@ A financial reporting standard (or a part of a standard) that is expressed as ap
 
 ### 48 Minister must regularly review amounts to take into account inflation
 (1) The Minister—
-  (a) must review the monetary amounts specified in sections 45 and 46 of this Act, section 42D of the Charities Act 2005, section 204(3) of the Companies Act 1993, section 64(2) of the Friendly Societies and Credit Unions Act 1982, and sections 461Q and 461S of the Financial Markets Conduct Act 2013 for the purpose of determining whether or not to recommend that an adjustment be made to those amounts in order to take into account any increase in the CPI during the period to which the review relates; and
+  (a) must review the monetary amounts specified in sections 45 and 46 of this Act, section 42D of the Charities Act 2005, section 103(2)﻿(b) and (4) of the Incorporated Societies Act 2022, section 204(3) of the Companies Act 1993, section 64(2) of the Friendly Societies and Credit Unions Act 1982, and sections 461Q and 461S of the Financial Markets Conduct Act 2013 for the purpose of determining whether or not to recommend that an adjustment be made to those amounts in order to take into account any increase in the CPI during the period to which the review relates; and
   (b) may, after conducting a review, make a recommendation for the purposes of section 49.
 (2) The first review under this section must be completed on or before the date that is 8 years after the date on which this section comes into force.
 (3) Subsequent reviews under this section must be completed on or before the date that is 6 years after the previous review was completed.
@@ -746,6 +746,7 @@ A financial reporting standard (or a part of a standard) that is expressed as ap
   (b) amending the amount specified in section 45(1)﻿(b):
   (c) amending the amounts in the example in section 45(1):
   (ca) amending the amounts specified in section 42D of the Charities Act 2005:
+  (cb) amending the amounts specified in section 103(2)﻿(b) and (4) of the Incorporated Societies Act 2022:
   (d) amending the amount specified in section 45(2)﻿(a):
   (e) amending the amount specified in section 45(2)﻿(b):
   (f) amending the amount specified in section 46:
