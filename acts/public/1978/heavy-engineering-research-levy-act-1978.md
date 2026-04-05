@@ -1,5 +1,5 @@
 # Heavy Engineering Research Levy Act 1978
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2026-04-05_
 
 > An Act to authorise the levying of persons engaged in heavy engineering manufacture and related industries to provide funds for research into heavy engineering
 
@@ -118,7 +118,7 @@ For the purpose of reimbursing the Crown for any expenses incurred by Customs in
 (1) The Association shall, within 3 months after the expiration of each financial year or within such extended period as the Minister may allow, provide the Minister and the chief executive with a report on its proceedings and activities during that financial year. There shall be annexed to the report copies of the income and expenditure account and statement of financial position of the Association together with a copy of the report of the auditor or auditors on them.
 (2) The Minister shall, as soon as practicable after receiving the report, present a copy of it to the House of Representatives (together with a copy of the Association's income and expenditure account and statement of financial position for the year to which the report relates).
 (3) Within 3 months after the expiration of its financial year, the Association shall send to each of its members a copy of the report sent to the Minister under subsection (1), together with a copy of its income and expenditure account and statement of financial position for that year and a copy of the report of the auditor or auditors on them.
-(4) Nothing in this section shall limit the application of the Incorporated Societies Act 1908 to the Association.
+(4) Nothing in this section shall limit the application of the Incorporated Societies Act 1908 or the Incorporated Societies Act 2022 to the Association.
 
 ### 16 Copy of rules to be sent to Minister
 If so required by the Minister, the Association shall, within such reasonable time as the Minister may specify, send the Minister a copy of its rules, together with any amendments to them. Any such copy shall be duly certified by the Registrar of Incorporated Societies as being the registered rules of the Association.
