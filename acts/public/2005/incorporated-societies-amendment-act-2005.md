@@ -1,5 +1,5 @@
 # Incorporated Societies Amendment Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2026-04-05_
 
 ### 1 Title
 (1) This Act is the Incorporated Societies Amendment Act 2005.
@@ -46,7 +46,7 @@ The principal Act is amended by repealing section 22, and substituting the follo
   (3) Every society must, on request by the Registrar, send to the Registrar a list of the names and addresses of its members, accompanied by a certificate by an officer of the society certifying that the list is correct.
 
 ### 7 Schedule 1 amended
-The heading of Schedule 1 of the principal Act is amended by omitting the expression Section 7(a), and substituting the reference s 7(1)(a).
+The heading of Schedule 1 of the principal Act is amended by omitting the expression Section 7(a), and substituting the reference s 7(1)﻿(a).
 
 ## Part  — Amendments to amendment Act
 
@@ -60,7 +60,7 @@ The amendment Act is amended by repealing section 3, and substituting the follow
       (i) a majority of the members of the branch or branches has consented to the application; and
       (ii) the rules that are endorsed with the application are the rules of the branch or the group; and
     (c) the prescribed fee.
-  (2) The signature of a person signing for the purposes of subsection (1)(a) must be—
+  (2) The signature of a person signing for the purposes of subsection (1)﻿(a) must be—
     (a) witnessed by a person who has not signed the rules; and
     (b) accompanied by the address of the person signing.
   (3) In the case of a body corporate that has a seal, the seal may also be affixed as part of its signature.
