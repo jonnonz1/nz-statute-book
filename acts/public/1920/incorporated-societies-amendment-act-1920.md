@@ -1,5 +1,5 @@
 # Incorporated Societies Amendment Act 1920
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2026-04-05_
 
 > An Act to amend the Incorporated Societies Act 1908
 
