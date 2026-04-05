@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2026-02-21_
+_Consolidation as at 2026-04-05_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -110,6 +110,7 @@ In this Act, unless the context otherwise requires,—
     (b) 1 or more employers; and
     (c) 2 or more employees
   - **compliance order** means an order made by the Authority or the court under section 137 or section 139
+  - **constitution** , in relation to a union or a society that wishes to register as a union, has the meaning given to it by section 13(3)
   - **controlling third party** means a person—
     (a) who has a contract or other arrangement with an employer under which an employee of the employer performs work for the benefit of the person; and
     (b) who exercises, or is entitled to exercise, control or direction over the employee that is similar or substantially similar to the control or direction that an employer exercises, or is entitled to exercise, in relation to the employee
@@ -282,20 +283,21 @@ The object of this Part is—
 ### 13 Application by society to register as union
 (1) A society that is entitled to be registered as a union may apply to the Registrar of Unions to be registered as a union under this Act.
 (2) An application must be made in the prescribed manner and must be accompanied by—
-  (a) a copy of the society's certificate of incorporation under the Incorporated Societies Act 1908; and
-  (b) a copy of the society's rules as registered under that Act; and
+  (a) a copy of the society’s certificate of incorporation under the Incorporated Societies Act 2022 or the Incorporated Societies Act 1908; and
+  (b) a copy of the society’s constitution; and
   (c) a statutory declaration made by an officer of the society setting out the reasons why the society is entitled to be registered as a union.
+(3) In this section, constitution, in relation to a union or a society that wishes to register as a union, means the society’s constitution registered under the Incorporated Societies Act 2022 or the society’s rules registered under the Incorporated Societies Act 1908.
 
 ### 14 When society entitled to be registered as union
 (1) A society is entitled to be registered as a union if—
   (a) the object or, if the society has more than 1 object, an object of the society is to promote its members' collective employment interests; and
-  (b) the society is incorporated under the Incorporated Societies Act 1908; and
-  (c) the society's rules are—
+  (b) the society is incorporated under the Incorporated Societies Act 2022 or the Incorporated Societies Act 1908; and
+  (c) the society's constitution is—
     (i) not unreasonable; and
     (ii) democratic; and
     (iii) not unfairly discriminatory or unfairly prejudicial; and
     (iv) not contrary to law; and
-  (ca) the society's rules contain a provision relating to the process for holding a secret ballot for the purposes of this Act; and
+  (ca) the society's constitution contains a provision relating to the process for holding a secret ballot for the purposes of this Act; and
   (d) the society is independent of, and is constituted and operates at arm's length from, any employer.
 (1A)
 (1B)
@@ -329,7 +331,7 @@ The object of this Part is—
 
 ### 18A Union delegates entitled to reasonable paid time to represent employees
 (1) An employee is entitled to spend reasonable paid time undertaking union activities during the employee’s normal hours of work if—
-  (a) the employee has been appointed or elected as a union delegate, in accordance with the rules or procedures of the union, to represent other employees of the employee’s employer who are members of the union on matters relating to their employment; and
+  (a) the employee has been appointed or elected as a union delegate, in accordance with the constitution or procedures of the union, to represent other employees of the employee’s employer who are members of the union on matters relating to their employment; and
   (b) the activities relate to representation of employees of the employer; and
   (c) the activities would not unreasonably disrupt the employer’s business or the union delegate’s performance of employment duties.
 (2) Before undertaking activities under subsection (1), an employee must—
@@ -654,7 +656,7 @@ The Authority or court may, in determining whether or not a union and an employe
 (1) This section applies to—
   (a) 1 union proposing to initiate bargaining with 2 or more employers for a single collective agreement:
   (b) 2 or more unions proposing to initiate bargaining with 1 or more employers for a single collective agreement.
-(2) Before bargaining for the single collective agreement is initiated under section 42, the union or each union (as the case may require) must hold, in accordance with its rules, separate secret ballots of its members employed by each employer intended to be a party to the bargaining.
+(2) Before bargaining for the single collective agreement is initiated under section 42, the union or each union (as the case may require) must hold, in accordance with its constitution, separate secret ballots of its members employed by each employer intended to be a party to the bargaining.
 (3) A secret ballot may be held only if the members of the union employed by the employer are—
   (a) not covered by an applicable collective agreement that is in force; or
   (b) covered by an applicable collective agreement that is in force and the secret ballot is held not earlier than 60 days before the time within which bargaining may be initiated by the union under section 41.
@@ -1253,7 +1255,7 @@ An employee is entitled to refuse to perform work in addition to any guaranteed 
 (1) This section applies to an employee if the employee’s annual remuneration meets or exceeds the specified remuneration threshold.
 (2) The employer, in making a decision whether to terminate the employee’s employment agreement, is not required to comply with section 4(1A)﻿(c) in observing the obligation in section 4 to deal in good faith with the employee.
 (3) If the employer terminates the employee’s employment agreement, the employer is not required to comply with a request under section 120 that relates to the employee.
-(4) An employee’s annual remuneration is calculated as follows:ar = (r ÷ d) × 364where—aris the employee’s annual remunerationris the total remuneration that the employer has paid to the employee in the period that consists of the pay periods that start and end within the 364 days immediately before the first day of the pay period within which the employer notifies the employee of the dismissaldis the number of part or full days for which the employee has held the position with the employer in the 364 days immediately before the first day of the pay period within which the employer notifies the employee of the dismissal.
+(4) An employee’s annual remuneration is calculated as follows:ar = (r ÷ d) × 364where—aris the employee’s annual remunerationris the total remuneration that the employer has paid to the employee in a position in the period that consists of the pay periods that start and end within the 364 days immediately before the first day of the pay period within which the employer notifies the employee of the dismissaldis the number of part or full days for which the employee has held the position with the employer in the 364 days immediately before the first day of the pay period within which the employer notifies the employee of the dismissal.
 (5) For the purposes of the definition of annual remuneration (see subsection (4)), remuneration includes—
   (a) a PAYE income payment (as that term is defined in section RD 3(1) of the Income Tax Act 2007) that is made by the employer, other than an accident compensation earnings-related payment:
   (b) any other benefit arising from an employee share scheme under section CE 2 of the Income Tax Act 2007.
@@ -2335,7 +2337,7 @@ In this Act,—
     (i) are or were bound (as the case may be) by the current collective agreement referred to in paragraph (a)﻿(i); or
     (ii) will be bound (as the case may be) by the proposed collective agreement referred to in paragraph (a)﻿(ii).
 (2) Before a strike may proceed under this Part,—
-  (a) the union must hold, in accordance with its rules, a secret ballot of its members who are employed by the same or different employers (as the case may be) and who would become a party to the strike; and
+  (a) the union must hold, in accordance with its constitution, a secret ballot of its members who are employed by the same or different employers (as the case may be) and who would become a party to the strike; and
   (b) the result of the secret ballot must be in favour of the strike.
 (3) For the purposes of subsection (2)﻿(b), the result of a secret ballot is determined by a simple majority of the members of the union who are entitled to vote and who do vote.
 (4) As soon as is reasonably practicable after the conclusion of the secret ballot under subsection (2), the union must notify the result of the ballot to the members of the union who were entitled to vote.
@@ -3975,10 +3977,10 @@ If a matter before the Authority relates principally to an alleged breach of emp
   (f) matters about whether the good faith obligations imposed by this Act (including those that apply where a union and an employer bargain for a collective agreement) have been complied with in a particular case:
   (g) matters about the recovery of wages or other money under section 131:
   (ga) determining the apportionment of liability for the costs of service-related entitlements under section 69LB(4):
-  (h) matters about whether the rules of a union, or of an incorporated society that wishes to register as a union, comply with the provisions of this Act:
+  (h) matters about whether the constitution of a union, or of an incorporated society that wishes to register as a union, comply with the provisions of this Act:
   (i) matters about whether an incorporated society is entitled to register under this Act as a union or is entitled to continue to be so registered:
   (j) matters about whether a person is entitled to be a member of a union:
-  (k) matters related to a failure by a union to comply with its rules:
+  (k) matters related to a failure by a union to comply with its constitution:
   (l) any proceedings related to a strike or lockout (other than those founded on tort or seeking an injunction):
   (la) any proceedings related to a partial strike (other than those founded on tort or seeking an injunction):
   (la)
