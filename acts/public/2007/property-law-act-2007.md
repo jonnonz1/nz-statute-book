@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2026-04-05_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -162,7 +162,7 @@ In this Act, unless the context otherwise requires,—
     (c) in sections 156, 165, 167, and 173,—
       (i) in relation to a company or an overseas company, means the Registrar of Companies appointed in accordance with section 357(1) of the Companies Act 1993:
       (ii) in relation to a society registered under the Industrial and Provident Societies Act 1908, means the Registrar of Industrial and Provident Societies:
-      (iii) in relation to a society registered under the Incorporated Societies Act 1908, means the Registrar of Incorporated Societies:
+      (iii) in relation to a society registered under the Incorporated Societies Act 2022, means the Registrar of Incorporated Societies:
       (iv) in relation to a friendly society or a credit union registered or incorporated under the Friendly Societies and Credit Unions Act 1982, means the Registrar of Friendly Societies and Credit Unions:
       (v) in relation to any other body corporate registered under an enactment, means a person discharging the powers, functions, and duties of a registrar under that enactment
   - **Registrar-General** means the Registrar-General of Land
