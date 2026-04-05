@@ -1,5 +1,5 @@
 # Bylaws Act 1910
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2026-04-05_
 
 > An Act to make better provision for the validity of bylaws
 
@@ -8,7 +8,7 @@ This Act may be cited as the Bylaws Act 1910, and shall come into operation on 1
 
 ### 2 Interpretation
 In this Act, unless a different intention appears from the context or subject matter,—
-  - **bylaw** means any rule or regulation which is made by any local authority by virtue of any Act now or hereafter to be in force, and which is termed a bylaw in the Act by virtue of which it is so made
+  - **bylaw** means any rule or regulation which is made by any local authority by virtue of any Act now or hereafter to be in force, and which is termed a bylaw in the Act by virtue of which it is so made (but does not include a bylaw of a society within the meaning of the Incorporated Societies Act 2022)
   - **local authority** means—
     (a) any local authority within the meaning of the Local Government Act 2002; or
     (b) any body corporate of any kind whatsoever having authority, under any Act now or hereafter to be in force, to make any rules or regulations which are in that Act termed bylaws; or
