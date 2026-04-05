@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2025-06-28_
+_Consolidation as at 2026-04-05_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -100,7 +100,7 @@ The purpose of this Act is to—
   - **commission** means a payment that is based directly or indirectly on a percentage of the turnover in a gambling activity
   - **communication device** means a machine, device, or thing for communicating at a distance and using any technology (including telecommunication, radiocommunication, and broadcasting technology)
   - **corporate society** means 1 society that is—
-    (a) incorporated under the Incorporated Societies Act 1908; or
+    (a) incorporated under the Incorporated Societies Act 2022; or
     (b) incorporated as a board under the Charitable Trusts Act 1957; or
     (c) a company incorporated under the Companies Act 1993 that—
       (i) does not have the capacity or power to make a profit; and
