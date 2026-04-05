@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2026-02-12_
+_Consolidation as at 2026-04-05_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -3824,8 +3824,7 @@ Despite the repeal of the Law Practitioners Act 1982, every District Law Society
 (2) For the purposes of sections 67, 73(3), and 74, the exercise by the New Zealand Law Society in the period referred to in subsection (1) of the power conferred on that Society by that subsection is deemed to be the exercise by that Society of a regulatory power.
 
 ### 377 Members to have no right to property on dissolution of incorporated society
-(1) If, under section 373(1), assets and liabilities of a District Law Society become assets and liabilities of an incorporated society, the members of that incorporated society may not divide between them, on the dissolution of that incorporated society, all or any of its property.
-(2) Nothing in the Incorporated Societies Act 1908 or the rules of an incorporated society limits subsection (1).
+[Repealed]
 
 ### 378 Consequential provisions in relation to assets, money, and property
 (1) Where, under section 373, assets of a District Law Society become assets of an incorporated society or the New Zealand Law Society,—
