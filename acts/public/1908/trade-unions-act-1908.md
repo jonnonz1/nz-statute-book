@@ -1,5 +1,5 @@
 # Trade Unions Act 1908
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2026-04-05_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the regulation and management of trade unions in New Zealand
 
@@ -92,7 +92,7 @@ A trustee of any trade union registered under this Act shall not be liable to ma
 **Registry of trade unions**
 
 ### 16 Registrar of trade unions
-(1) The person for the time being holding office as the Registrar of Incorporated Societies under the Incorporated Societies Act 1908 shall be the Registrar under this Act.
+(1) The person for the time being holding office as the Registrar of Incorporated Societies under the Incorporated Societies Act 2022 shall be the Registrar under this Act.
 (2) The Registrar shall make an annual report to the Governor with respect to the matters transacted by him or her in pursuance of this Act, and the Governor shall cause copies of such report to be laid forthwith before Parliament if in session, or if not, then within 1 month from the commencement of the next ensuing session.
 
 ### 17 Regulations for registry
