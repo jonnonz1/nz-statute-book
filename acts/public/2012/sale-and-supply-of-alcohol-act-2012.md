@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2026-04-03_
+_Consolidation as at 2026-04-05_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -192,7 +192,7 @@ This Act is the Sale and Supply of Alcohol Act 2012.
   - **restricted area** —
     (a) means an area that is designated (under section 119 or a corresponding provision of a former licensing Act) as an area to which minors must not be admitted; and
     (b) in relation to any licensed premises or the licensee or a manager of any licensed premises, means an area of those premises that is designated (under this Act or a former licensing Act) as an area to which minors must not be admitted
-  - **RNZRSA** means the Royal New Zealand Returned and Services’ Association that is incorporated under the Incorporated Societies Act 1908 and is registered as a charity under the Charities Act 2005
+  - **RNZRSA** means the Royal New Zealand Returned and Services’ Association that is incorporated under the Incorporated Societies Act 1908 or the Incorporated Societies Act 2022 and is registered as a charity under the Charities Act 2005
   - **RNZRSA club** means a club that is a member or an affiliate of RNZRSA
   - **secretary** , in relation to a licensing trust or a community trust, means the secretary of the trust
   - **sell** , in relation to alcohol, includes—
