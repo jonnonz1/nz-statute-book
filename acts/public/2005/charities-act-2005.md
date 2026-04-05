@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2024-07-05_
+_Consolidation as at 2026-04-05_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -207,7 +207,7 @@ The chief executive must consult persons or representatives of persons that the 
 
 ### 15 Name of entity
 The name of an entity complies with this section if—
-  (a) the entity is incorporated under that name under the Incorporated Societies Act 1908; or
+  (a) the entity is incorporated under that name under the Incorporated Societies Act 1908 or the Incorporated Societies Act 2022; or
   (b) the entity is incorporated under that name under the Charitable Trusts Act 1957; or
   (c) the entity is incorporated under that name under the Companies Act 1993; or
   (d) the entity is established, or constituted, by an Act under that name; or
@@ -367,6 +367,7 @@ A search of the register for personal information that has not been carried out 
   (b) states the date on which the removal is effective.
 (3) The entity ceases to be a charitable entity on the date referred to in subsection (2)﻿(b).
 (4) The Board may, if it has removed an entity from the register, make an order that an application for the re-registration of the entity as a charitable entity must not be made before the expiry of a specified period.
+(5) The Board must give a copy of an order under subsection (4)﻿(b) to the Registrar of Incorporated Societies.
 (5) If the Board directs a notice under subsection (2) to be registered, it must, as soon as practicable, publish the following on a publicly accessible Internet site maintained by or on behalf of the Board:
   (a) the notice; and
   (b) the reasons for the notice; and
@@ -510,6 +511,9 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
   (c) directions to be complied with in the preparation of the returns.
 (2) The chief executive may prescribe different requirements for different types or classes of entities.
 (3) Section 72A(2) and (5) to (7) apply to a form or requirement to be prescribed under this section.
+(4) Despite section 72A(2), the particulars to be contained in an annual return of a charitable entity that is a society (as defined in the Incorporated Societies Act 2022) may include information or documentation for the purposes of that Act.
+(5) The chief executive must, before exercising a power under this section, consult the Registrar of Incorporated Societies.
+(6) A failure to comply with subsection (5) does not affect the validity of the prescribed matters.
 
 ### 42A Content of financial statements
 (1) The financial statements referred to in section 41(2)﻿(b) must be prepared in accordance with,—
@@ -1093,6 +1097,15 @@ Amendment(s) incorporated in the Act(s).
 (2) Before a charging document in respect of an offence against this Act is filed against a person, the chief executive or the authorised person must lay the facts of the case, so far as the chief executive or the authorised person is acquainted with them, before a Crown Solicitor.
 (3) The chief executive or the authorised person may file a charging document against a person only if a Crown Solicitor certifies that there are reasonable grounds for a prosecution.
 (4) No action may be taken against the chief executive or the authorised person for malicious prosecution in relation to a prosecution under this Act if a Crown Solicitor certified that there were reasonable grounds for bringing the prosecution.
+
+### 74A Sharing of information relating to charitable entities
+(1) The chief executive may provide to the Registrar any information, or a copy of any document, that the chief executive—
+  (a) holds in relation to the exercise or performance of any functions, powers, or duties under this Act; and
+  (b) considers may assist the Registrar in the exercise or performance of the Registrar’s functions, powers, or duties under the Incorporated Societies Act 2022.
+(2) The chief executive may use any information, or a copy of any document, provided to them by the Registrar under the Incorporated Societies Act 2022 in the exercise or performance of any functions, powers, or duties under this Act.
+(3) In this section, Registrar means the Registrar of Incorporated Societies under the Incorporated Societies Act 2022.
+(4) This section applies despite anything to the contrary in any contract, deed, or document.
+(5) Nothing in this section limits the Privacy Act 2020.
 
 ### 75 No obligation on Board or chief executive or any other person to supervise
 This Act does not impose on the Board or the chief executive or any other person any duty or obligation—
