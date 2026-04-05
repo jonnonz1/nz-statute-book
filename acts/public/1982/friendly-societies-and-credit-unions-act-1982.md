@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2026-04-05_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -34,6 +34,7 @@ In this Act, unless the context otherwise requires,—
   - **financial year** means the financial year of every registered society or branch or credit union, being a period of 12 months ending with 1 December or such other day as may be provided in the rules of the society, branch, or credit union
   - **friendly society** means a society of the kind specified in section 11(1)﻿(a)
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
+  - **incorporated society** means an incorporated society registered under the Incorporated Societies Act 2022 or the Incorporated Societies Act 1908
   - **land** includes any interest in land
   - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
   - **meeting** includes (where the rules of a society or branch so allow) a meeting of delegates appointed by members
@@ -920,7 +921,7 @@ Where a registered society or branch amalgamates or transfers its engagements pu
 (2) The persons referred to in subsection (1) are as follows:
   (a) an adult:
   (b) a charitable entity as defined by the Charities Act 2005:
-  (c) an incorporated society registered under the Incorporated Societies Act 1908.
+  (c) an incorporated society.
 
 ### 100A Application for incorporation of credit union
 (1) An application under section 100 for the incorporation of a credit union must—
@@ -1016,10 +1017,10 @@ Where a registered society or branch amalgamates or transfers its engagements pu
   (b) the mechanism for charging the fees, levies, or charges.
 
 ### 106 Membership of credit union, voting rights
-(1) An individual, a charitable entity as defined by the Charities Act 2005, or an incorporated society registered under the Incorporated Societies Act 1908 can be a member of a credit union, except that—
+(1) An individual, a charitable entity as defined by the Charities Act 2005, or an incorporated society can be a member of a credit union, except that—
   (a) section 39(1) and (2) (which relates to the membership of minors) applies to any credit union as if it were a society registered under Part 2; and
   (aa) no person under the age of 18 years can be an officer of a credit union; and
-  (b) no charitable entity as defined by the Charities Act 2005 or incorporated society registered under the Incorporated Societies Act 1908 can be an officer of a credit union.
+  (b) no charitable entity as defined by the Charities Act 2005 or incorporated society can be an officer of a credit union.
 (2) Members need have no more than $10 in fully paid-up shares, although a credit union's rules may allow for a deposit of more or less than $10 in fully paid-up shares.
 (3)
 (4) A member of a credit union who ceases to fulfil the qualifications for admission to membership shall be entitled, subject to subsection (5), to retain his membership unless the rules of the credit union provide otherwise; and in this Act, the term non-qualifying member, in relation to a credit union, means a person who remains a member of the credit union by virtue of this subsection:
