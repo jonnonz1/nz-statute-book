@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2026-04-05_
 
 > An Act to reform the law relating to receivers
 
@@ -57,7 +57,7 @@ _Consolidation as at 2025-11-13_
   - **Registrar** , in relation to—
     (a) a company, has the same meaning as in section 2(1) of the Companies Act 1993:
     (b) a society registered under the Industrial and Provident Societies Act 1908, means the Registrar of Industrial and Provident Societies:
-    (c) a society registered under the Incorporated Societies Act 1908, means the Registrar of Incorporated Societies:
+    (c) a society registered under the Incorporated Societies Act 2022, means the Registrar of Incorporated Societies:
     (d) a friendly society or a credit union registered or incorporated under the Friendly Societies and Credit Unions Act 1982, means the Registrar of Friendly Societies and Credit Unions:
     (e) any other body corporate registered under any enactment, means any person discharging the powers, functions, and duties of a registrar under that enactment
   - **related company** has the same meaning as in section 2(1) of the Companies Act 1993
