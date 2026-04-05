@@ -1,5 +1,5 @@
 # Major Events Management Act 2007
-_Consolidation as at 2024-05-01_
+_Consolidation as at 2026-04-05_
 
 ### 1 Title
 This Act is the Major Events Management Act 2007.
@@ -51,7 +51,7 @@ In this Act, unless the context otherwise requires,—
   - **protection period** means the period for which the protection under section 10 applies in relation to a major event, as declared by Order in Council under section 8(1)
   - **registering authority** includes the following Commission and officers, and also includes any officer acting on behalf of the following Commission and officers:
     (a) the chief executive under the Charities Act 2005:
-    (b) the Registrar of Incorporated Societies under the Incorporated Societies Act 1908:
+    (b) the Registrar of Incorporated Societies under the Incorporated Societies Act 1908 or the Incorporated Societies Act 2022:
     (c) the Registrar of Industrial and Provident Societies under the Industrial and Provident Societies Act 1908:
     (d) the Registrar of Friendly Societies and Credit Unions under the Friendly Societies and Credit Unions Act 1982:
     (e) the Commissioner of Trade Marks under the Trade Marks Act 2002:
