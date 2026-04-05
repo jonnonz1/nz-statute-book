@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2026-04-05_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -19,7 +19,7 @@ In this Part and Parts 2 to 7, unless the context otherwise requires,—
   - **charge** includes a right or interest in relation to property owned by a debtor, by virtue of which a creditor of the debtor is entitled to claim payment in priority to other creditors; but does not include a charge under a charging order issued by a court in favour of a judgment creditor
   - **company** means any company within the meaning of the Companies Act 1993; and includes—
     (a) a building society within the meaning of the Building Societies Act 1965:
-    (b) a society incorporated under the Incorporated Societies Act 1908:
+    (b) a society incorporated under the Incorporated Societies Act 2022 or the Incorporated Societies Act 1908:
     (c) a registered society within the meaning of the Industrial and Provident Societies Act 1908:
     (d) a society incorporated or registered overseas that is similar to any society in paragraphs (a) to (c)
   - **Consumers Price Index** means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index
