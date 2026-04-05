@@ -1,5 +1,5 @@
 # Racing Industry Act 2020
-_Consolidation as at 2025-06-28_
+_Consolidation as at 2026-04-05_
 
 ### 1 Title
 This Act is the Racing Industry Act 2020.
@@ -30,7 +30,7 @@ The purposes of this Act are to—
   (b) state the functions of the 3 racing codes in relation to racing clubs, racing venues, and participants; and
   (c) set out accountability requirements that apply to the racing codes; and
   (d) support the transfer of surplus venues of racing clubs to the racing codes with which they are registered by agreement and enable the vesting of surplus venues in the codes by Order in Council if agreement cannot be reached; and
-  (e) provide for the dissolution of racing clubs that are no longer racing; and
+  (e) provide for racing clubs that are no longer racing to be removed from the register of incorporated societies or dissolved under the Charitable Trusts Act 1957; and
   (f) require each racing code to have racing rules regulating the conduct of racing by the code and require racing clubs and participants registered with the codes to comply with those rules; and
   (g) establish the Racing Integrity Board to oversee the racing integrity system in respect of the conduct of racing; and
   (h) provide for the appointment of inspectors to inspect racecourses and premises of TAB NZ.
@@ -135,7 +135,7 @@ The purposes of this Act are to—
     (c) in relation to greyhound races,—
       (i) the New Zealand Greyhound Racing Association Incorporated; and
       (ii) every racing club registered with the New Zealand Greyhound Racing Association Incorporated
-  - **Registrar** means the Registrar of Incorporated Societies appointed under section 32 of the Incorporated Societies Act 1908
+  - **Registrar** means the Registrar of Incorporated Societies appointed under section 240 of the Incorporated Societies Act 2022
   - **Registrar-General** means the Registrar-General of Land appointed under section 231 of the Land Transfer Act 2017
   - **rights** includes (without limitation) powers, privileges, interests, licences, approvals, consents, benefits, and equities of any kind, whether actual, contingent, or prospective
   - **selection panel** means the panel established under section 56
@@ -254,7 +254,7 @@ The objectives of each racing code are to develop and promote racing conducted b
 ### 16 Racing codes must prepare statement of intent
 (1) Before the start of a racing year, each racing code must prepare and provide to the Minister a statement of intent relating to that year and to each of the 2 subsequent racing years.
 (2) The proposed statement of intent must set out, for each racing year to which it relates,—
-  (a) the code’s rules, as required by section 6 of the Incorporated Societies Act 1908; and
+  (a) the code’s rules, as required by subpart 3 of Part 3 of the Incorporated Societies Act 2022; and
   (b) the objectives of the code; and
   (c) the nature and scope of the activities to be undertaken by the code; and
   (d) a statement of the code’s policy for distributing funds received from TAB NZ to racing clubs registered with the code in accordance with section 19; and
@@ -312,14 +312,17 @@ In this subpart, unless the context otherwise requires,—
 
 **Transfer of assets**
 
-### 24 Transfer of assets on dissolution of club
-(1) This section applies if a racing club is dissolved by any means (including under section 36(3)).
+### 24 Transfer of assets when club ceases to exist or is dissolved
+(1) This section applies if a racing club ceases to exist as a legal entity or is dissolved by any means (including under section 36(3)).
 (2) Subject to section 25, the assets of the racing club remaining after all creditors’ claims on the club have been satisfied vest in the racing code with which the club was registered.
 (3) The code must consider whether any action (for example, a payment) is warranted to recognise the community interest (if any) in any racing venue or venues of the racing club that are vested in the code.
+(4) This section applies despite anything to the contrary in—
+  (a) the Incorporated Societies Act 2022 (in particular, sections 215 to 224 of that Act do not apply to a racing club); or
+  (b) the Charitable Trusts Act 1957.
 
 ### 25 Transfer of assets if racing clubs combine
 (1) This section applies if 2 or more racing clubs propose to combine to form 1 club.
-(2) The assets of a club that proposes to dissolve as a result of that combination may, with the approval of the racing code with which it is registered, be transferred to the club with which it proposes to combine.
+(2) The assets of a club that proposes to cease to exist as a legal entity or dissolve as a result of that combination may, with the approval of the racing code with which it is registered, be transferred to the club with which it proposes to combine.
 
 **Transfer of surplus venues**
 
@@ -461,7 +464,7 @@ General
 (2) The racing code must prepare and maintain a property investment strategy that states how the code proposes to manage those assets or surplus venues, including (without limitation) the code’s priorities regarding the refurbishment of retained venues owned by racing clubs registered with the code.
 (3) The racing code must publish a copy of the strategy on an Internet site maintained by or on behalf of the code.
 
-### Subpart 3 — Dissolution of racing clubs no longer racing
+### Subpart 3 — Removal from register or dissolution of racing clubs no longer racing
 
 ### 34 Racing code may determine that racing club is no longer racing
 (1) Subject to subsection (4), a racing code may make a determination that a racing club registered or previously registered with the code is no longer racing for the purposes of this Act if—
@@ -487,10 +490,11 @@ General
   (a) confirm, cancel, or vary the decision; or
   (b) refer the decision back to the racing code with a direction to reconsider the determination.
 
-### 36 Racing club no longer racing may be dissolved
+### 36 Racing club no longer racing may be removed from register or dissolved
 (1) This section applies if a racing code makes a final determination under section 34(3) that a racing club is no longer racing.
-(2) The racing code may notify the Registrar that the club is no longer carrying out its operations and request that the Registrar exercise the Registrar’s powers to dissolve the racing club under section 28(1)﻿(a) of the Incorporated Societies Act 1908 or to remove the club from the register under section 26(1)﻿(a) of the Charitable Trusts Act 1957 (as the case may be).
-(3) If the Registrar receives a notification under subsection (2), the Registrar must make a declaration of dissolution or record the removal of the club from the register of charitable trust boards (as the case may be).
+(2) The racing code may notify the Registrar that the club is no longer carrying out its operations and request that the Registrar exercise the Registrar’s powers to remove the racing club from the register of incorporated societies under section 175(1)﻿(b) of the Incorporated Societies Act 2022 or dissolve the racing club under or to remove the club from the register under section 26(1)﻿(a) of the Charitable Trusts Act 1957 (as the case may be).
+(3) If the Registrar receives a notification under subsection (2), the Registrar must remove the club from the register of incorporated societies or make a declaration of dissolution or record the removal of the club from the register of charitable trust boards (as the case may be).
+(4) Sections 177 to 182 and 184 to 190 of the Incorporated Societies Act 2022 do not apply to a removal under subsection (3).
 
 ### Subpart 4 — Racing integrity system
 
