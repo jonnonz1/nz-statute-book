@@ -1,5 +1,5 @@
 # Building Research Levy Act 1969
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2026-04-05_
 
 > An Act to authorise the levying of building contractors to provide money for research into improved techniques and materials for use in the building industry
 
@@ -10,7 +10,7 @@ _Consolidation as at 2021-10-28_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **applicable auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
-  - **association** means the Building Research Association of New Zealand (Incorporated), a society incorporated under the Incorporated Societies Act 1908; and, where appropriate, includes the board of the association
+  - **association** means the Building Research Association of New Zealand (Incorporated), a society incorporated under the Incorporated Societies Act 1908 or the Incorporated Societies Act 2022; and, where appropriate, includes the board of the association
   - **builder** , in relation to any construction work, means—
     (a) in any case where there is a main contract by an employer for the performance of the construction work, the person with whom the contract is made:
     (b) in any case where there is no such contract and the construction work is performed by any person for the purposes of sale or leasing on his own account, that person:
@@ -156,7 +156,7 @@ The association must ensure that, within 3 months after the end of the financial
 (1) The association shall, within 3 months after the expiration of each financial year or within such extended period as the Minister may allow, provide the Minister and the chief executive with a report on its proceedings and activities during that financial year. There shall be annexed to the report copies of the financial statements of the association together with a copy of the report of the auditor and auditors thereon.
 (2) The Minister shall lay before Parliament a copy of the report sent to him under subsection (1) (together with a copy of the association's financial statements for the year to which the report relates) within 28 days after the date of his receiving the report if Parliament is then in session or, if Parliament is not in session, within 28 days after the date of the commencement of the next ensuing session.
 (3) Within 3 months after the expiration of its financial year, the association shall send to each of its members a copy of the report sent to the Minister under subsection (1), together with a copy of its financial statements for that year and a copy of the report of the auditor or auditors in respect thereof.
-(4) Nothing in this section shall be construed so as to limit the application of the provisions of the Incorporated Societies Act 1908 to the association.
+(4) Nothing in this section shall be construed so as to limit the application of the provisions of the Incorporated Societies Act 1908 or the Incorporated Societies Act 2022 to the association.
 
 ### 14 Copy of rules to be sent to Minister
 If so required by the Minister, the association shall, within such reasonable time as the Minister may specify, send him a copy of its rules, together with any amendments to them. Any such copy shall be duly certified by the Registrar of Incorporated Societies as being the registered rules of the association.
