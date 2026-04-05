@@ -1,5 +1,5 @@
 # Defamation Act 1992
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2026-04-05_
 
 > An Act to amend the law relating to defamation and other malicious falsehoods
 
@@ -442,14 +442,14 @@ A fair and accurate report of the proceedings at a meeting held in New Zealand t
 (a) is bona fide and lawfully held for a lawful purpose and for the furtherance or discussion of any matter of public concern; and
 (b) is open to the public, whether with or without restriction.
 
-### 9(1)
-A fair and accurate report of—
-(a) the proceedings at a general meeting of a body to which this clause applies (not being a meeting from which the public or members of the news media or both were excluded):
-(b) a report or other document circulated to shareholders or members by the board of directors or other governing body of a body to which this clause applies (not being a report or document circulated on a confidential basis):
-(c) a document circulated to shareholders or members by an auditor of a body to which this clause applies (not being a document circulated on a confidential basis).
+### 9
+(1) A fair and accurate report of—
+  (a) the proceedings at a general meeting of a body to which this clause applies (not being a meeting from which the public or members of the news media or both were excluded):
+  (b) a report or other document circulated to shareholders or members by the board of directors or other governing body of a body to which this clause applies (not being a report or document circulated on a confidential basis):
+  (c) a document circulated to shareholders or members by an auditor of a body to which this clause applies (not being a document circulated on a confidential basis).
 ((2)) This clause applies to—
   (a) any company or association constituted or registered under any Act:
-  (b) any society registered under the Incorporated Societies Act 1908:
+  (b) any society registered under the Incorporated Societies Act 2022:
   (c) any other body corporate operating in New Zealand.
 
 ### 10
