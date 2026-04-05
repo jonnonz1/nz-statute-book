@@ -1,5 +1,5 @@
 # Ngāti Koroki Kahukura Claims Settlement Act 2014
-_Consolidation as at 2022-04-12_
+_Consolidation as at 2026-04-05_
 
 ### 1 Title
 This Act is the Ngāti Koroki Kahukura Claims Settlement Act 2014.
@@ -800,7 +800,7 @@ The Crown acknowledges—
   - **private land** means land that is held in fee simple by any person other than the Crown
   - **Raukawa** has the same meaning as in clause 8.5 of the deed of settlement, dated 2 June 2012, between Raukawa, the Raukawa Settlement Trust, and the Crown
   - **Raukawa Settlement Trust** means the trust of that name established by a trust deed dated 17 October 2009
-  - **Te Arataura** means the executive board of Waikato-Tainui Te Kauhanganui Incorporated being a body corporate under the Incorporated Societies Act 1908
+  - **Te Arataura** means the executive board of Waikato-Tainui Te Kauhanganui Incorporated being a body corporate under the Incorporated Societies Act 1908 or the Incorporated Societies Act 2022
   - **Te Hapori o Maungatautari** means the Maungatautari community comprising iwi with customary interests in Maungatautari and members of the wider community connected with Maungatautari
   - **wāhi tapu** has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **wāhi tupuna** means a place important to Māori for its ancestral significance and associated cultural and traditional values
