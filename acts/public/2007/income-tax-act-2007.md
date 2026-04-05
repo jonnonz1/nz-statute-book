@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2026-04-01_
+_Consolidation as at 2026-04-05_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -45505,7 +45505,7 @@ In this Act, unless the context requires otherwise,—
       (ii) not made before 23 June 1983, including an amount treated as invested at that date under the definition of pre-1983 investment in section HR 3(8):
     (d) includes an airport operator:
     (e) includes a statutory producer board:
-    (f) includes a society registered under the Incorporated Societies Act 1908:
+    (f) includes a society registered under the Incorporated Societies Act 1908 or the Incorporated Societies Act 2022:
     (g) includes a society registered under the Industrial and Provident Societies Act 1908:
     (h) includes a friendly society:
     (i) includes a building society:
@@ -48487,7 +48487,7 @@ In this Act, unless the context requires otherwise,—
     (i) any other statutory body that does not issue shares, if—
       (i) the statutory body is established by an Act of the Parliament of New Zealand or by a statute of the legislature, whether federal or state or provincial, of any territory outside New Zealand; and
       (ii) the Commissioner, having regard to the terms of the statute by which the body is established, is satisfied that it would be appropriate to treat the body as a special corporate entity for the purposes of those provisions of this Act whose application is dependent on the measurement of voting and market value interests:
-    (j) any body incorporated under the Incorporated Societies Act 1908, for an income year in which the body on no day in the income year has shares on issue to the members of the body
+    (j) any body incorporated under the Incorporated Societies Act 1908 or the Incorporated Societies Act 2022, for an income year in which the body on no day in the income year has shares on issue to the members of the body
   - **special excluded depreciable property** is defined in section EE 67 (Other definitions)
   - **special excluded depreciable property**
   - **special home ownership account**
