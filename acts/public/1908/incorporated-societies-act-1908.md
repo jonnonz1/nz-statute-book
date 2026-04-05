@@ -1,5 +1,5 @@
 # Incorporated Societies Act 1908
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2026-04-05_
 
 > An Act to make provision for the incorporation of societies which are not established for the purpose of pecuniary gain
 
