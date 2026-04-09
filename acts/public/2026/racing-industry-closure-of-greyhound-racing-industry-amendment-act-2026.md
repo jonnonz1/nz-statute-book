@@ -5,7 +5,7 @@ _Consolidation as at 2026-04-09_
 This Act is the Racing Industry (Closure of Greyhound Racing Industry) Amendment Act 2026.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after Royal assent.
+(1) This Act comes into force on 10 April 2026.
 (2) However,—
   (a) Part 2 comes into force on 1 August 2026:
   (b) Part 3 comes into force on a date or dates set by Order in Council.
