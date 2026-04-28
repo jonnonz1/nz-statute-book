@@ -5,7 +5,7 @@ _Consolidation as at 2026-04-28_
 This Act is the Appropriation (2024/25 Confirmation and Validation) Act 2026.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 29 April 2026.
 
 ### 3 Purpose
 The purpose of this Act is to—
