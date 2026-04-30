@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2026-04-30_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -1384,10 +1384,16 @@ If there are any relevant rules of court, a Judge or Registrar may exercise a po
 
 ### 98M Appointment of mediator
 (1) Either 1 or 2 persons must be appointed as the mediator, each with the skills and experience to mediate the issues referred to them.
-(2) [not in force]
-(3) [not in force]
-(4) [not in force]
-(5) [not in force]
+(2) The chief executive must record a list of persons whom the chief executive has approved as mediators under this Part.
+(3) The parties to a dispute may appoint the mediator by agreement—
+  (a) from the list of approved persons; or
+  (b) from beyond that list if—
+    (i) the parties consider that it is justified in the circumstances; and
+    (ii) the appointment is approved by the chief executive and the Judge or Registrar who referred the issues to a mediator.
+(4) If the parties do not agree on the mediator, the Judge or Registrar who referred the issues to a mediator must, after consulting the parties, appoint the mediator—
+  (a) from the list of approved persons; or
+  (b) from beyond that list if the appointment is approved by the chief executive.
+(5) In this section, chief executive means the chief executive of the Ministry of Justice.
 
 ### 98N Judge appointed as mediator
 (1) A Judge may act as a mediator but—
