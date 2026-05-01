@@ -1,5 +1,5 @@
 # Child Protection (Child Sex Offender Government Agency Registration) Act 2016
-_Consolidation as at 2024-09-04_
+_Consolidation as at 2026-05-01_
 
 ### 1 Title
 This Act is the Child Protection (Child Sex Offender Government Agency Registration) Act 2016.
@@ -11,20 +11,21 @@ This Act comes into force 30 days after the date on which this Act receives the 
 
 ### 3 Purpose
 The purpose of this Act is to establish a Child Sex Offender Register that will reduce sexual reoffending against child victims, and the risk posed by serious child sex offenders, by—
-  (a) providing government agencies with the information needed to monitor child sex offenders in the community, including after the completion of the sentence; and
+  (a) providing government agencies with the information needed to monitor, and manage the risk posed by, child sex offenders in the community, including after the completion of their sentence; and
   (b) providing up-to-date information that assists the Police to more rapidly resolve cases of child sexual offending.
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **affected person** has the meaning given in section 45(3)
-  - **authorised person** means a person appointed by the Commissioner under section 11(3)
+  - **authorised person** means a person appointed by the Commissioner under section 51(3)
+  - **certificate of identity** has the meaning given in section 4 of the Immigration Act 2009
   - **child** means a person under the age of 16 years
   - **class 1 offence** , , and have the meanings given in Schedule 2
   - **Commissioner** means the Commissioner of Police
   - **constable** has the meaning given in section 4 of the Policing Act 2008
   - **corresponding Act** means a law of a foreign jurisdiction—
     (a) that provides for people who have been sentenced by a court for specified offences to report in that jurisdiction information about themselves and to keep that information current for a specified period; and
-    (b) that regulations state is a corresponding Act for the purposes of this Act
+    (b) that is prescribed by regulations to be a corresponding Act for the purposes of this Act
   - **corresponding offence** means an offence under the law of a foreign jurisdiction that relates to the same or substantially similar conduct as a qualifying offence
   - **corresponding overseas agency** has the meaning given in section 95A of the Policing Act 2008
   - **corresponding registrable offender** has the meaning given in section 8
@@ -35,18 +36,33 @@ In this Act, unless the context otherwise requires,—
   - **equivalent repealed offence** means an offence described in clause 4 of Schedule 2
   - **initial report** means a report made, or required to be made, by a registrable offender under section 17
   - **Minister** means the Minister of Police
+  - **New Zealand refugee travel document** has the meaning given in section 2 of the Passports Act 1992
+  - **place of residence** means, in relation to a registrable offender, the place where a registrable offender makes their home because of family or personal relations, or for other domestic or personal reasons
   - **Police** means the New Zealand Police
   - **qualifying offence** means a class 1 offence, a class 2 offence, a class 3 offence, or an equivalent repealed offence
   - **register** means the Child Sex Offender Register established under section 10(1)
-  - **registered residential address** , in relation to a registrable offender, means an address of premises at which the offender generally resides and that the offender has reported under a provision of subpart 2 of Part 2
+  - **register information** —
+    (a) means all the information contained in the register; but
+    (b) in relation to a registrable offender, means the information contained in the register that relates to that registrable offender
   - **registrable offender** has the meaning given in section 7
   - **registration order** means an order imposed by a court under section 9
+  - **regulations** means regulations made under section 55
   - **release conditions** has the meaning given in section 4 of the Parole Act 2002
-  - **relevant personal information** means the information specified in section 16(1)
+  - **relevant personal information** , in relation to a registrable offender, means the information specified in section 16(1)
   - **reporting obligations** , in relation to a registrable offender, means the obligations imposed on the person by subpart 2 of Part 2
   - **reporting period** means the period, as determined under sections 34 to 38, during which a registrable offender must comply with the offender’s reporting obligations
+  - **residence class visa** has the meaning given in section 4 of the Immigration Act 2009
   - **sentence expiry date** has the meaning given in section 4 of the Parole Act 2002
-  - **specified agency** has the meaning given in section 43(2)
+  - **specified agency or officer** , for the purposes of section 43, means—
+    (a) the Police:
+    (b) the Department of Corrections:
+    (c) the Department of Internal Affairs:
+    (d) Kāinga Ora–Homes and Communities established by the Kāinga Ora–Homes and Communities Act 2019:
+    (e) the Ministry of Social Development:
+    (f) the New Zealand Customs Service:
+    (g) Oranga Tamariki—Ministry for Children:
+    (h) the Registrar-General appointed under section 124(1) of the Births, Deaths, Marriages, and Relationships Registration Act 2021:
+    (i) any public sector agency or officer identified as a specified agency or officer by notice made under section 55A
   - **telecommunications service** has the meaning given in section 5 of the Telecommunications Act 2001.
 
 ### 5 Transitional, savings, and related provisions
@@ -58,16 +74,19 @@ This Act binds the Crown.
 **Offenders to whom Act applies**
 
 ### 7 Who is a registrable offender?
-(1) A registrable offender is a person whom a court has, in respect of a conviction for a qualifying offence,—
-  (a) sentenced to imprisonment; or
-  (b) sentenced to a non-custodial sentence and made subject to a registration order.
-(2) A person who is a corresponding registrable offender and who resides in New Zealand or enters New Zealand with the intention to reside in New Zealand is also a registrable offender.
-(3) However, a person is not a registrable offender if, at the time the person committed the qualifying offence, the person had not attained the age of 18 years.
-(4) A person ceases to be a registrable offender if—
-  (a) the conviction in respect of each qualifying offence that makes him or her a registrable offender for the purposes of this Act is quashed or set aside by a court; or
-  (b) the sentence in respect of that offence is reduced or altered so that he or she would not have fallen within the definition of registrable offender in subsection (1) had the amended sentence been the original sentence; or
-  (c) the registration order in respect of that offence is set aside by a court.
-(5) For the purposes of this section, it is irrelevant whether a person may lodge, or has lodged, an appeal in respect of a conviction or in respect of a sentence or order.
+(1) In this Act, registrable offender means—
+  (a) a person whom a court has, in respect of a conviction for a qualifying offence,—
+    (i) sentenced to imprisonment; or
+    (ii) sentenced to a non-custodial sentence and made subject to a registration order; or
+  (b) a corresponding registrable offender who—
+    (i) resides in New Zealand; or
+    (ii) holds or has applied for a residence class visa and has been granted entry permission to New Zealand.
+(2) However, a person is not a registrable offender if, at the time the person committed the qualifying offence, the person was under the age of 18 years.
+(3) A person ceases to be a registrable offender if, in respect of each qualifying offence that makes the person a registrable offender for the purposes of this Act,—
+  (a) the conviction in respect of each of those qualifying offences is quashed or set aside by a court; or
+  (b) the sentence in respect of each of those qualifying offences is reduced or altered so that the person would not have fallen within the definition of registrable offender in subsection (1) had the amended sentence been the original sentence; or
+  (c) the registration order in respect of each of those qualifying offences is set aside by a court.
+(4) For the purposes of this section, it is irrelevant whether a person may lodge, or has lodged, an appeal in respect of a conviction or in respect of a sentence or order.
 
 ### 8 Who is a corresponding registrable offender?
 A corresponding registrable offender is a person who, as a consequence of a conviction in a foreign jurisdiction for a corresponding offence,—
@@ -97,25 +116,22 @@ A corresponding registrable offender is a person who, as a consequence of a conv
 
 ## Part 2 — Child Sex Offender Register
 
-### Subpart 1 — Establishment and administration of register
+### Subpart 1 — Register established
 
 ### 10 Child Sex Offender Register established
 (1) The Commissioner must establish a register of registrable offenders called the Child Sex Offender Register.
 (2) The register must contain the following information in relation to each registrable offender (to the extent that it is known by the Commissioner):
   (a) the registrable offender’s name and other identifying particulars:
-  (b) details of each qualifying offence or corresponding offence of which the registrable offender has been convicted or with which he or she has been charged:
+  (b) details of each qualifying offence or corresponding offence of which the registrable offender has been convicted or with which the registrable offender has been charged:
   (c) the date on which the registrable offender was sentenced for any qualifying offence:
   (d) for each qualifying offence of which the registrable offender has been convicted, the sentencing notes of the sentencing Judge:
-  (e) the date on which the registrable offender ceased to be in custody in respect of a qualifying offence, or entered or ceased to be in custody in respect of any offence during his or her reporting period:
+  (e) the date on which the registrable offender ceased to be in custody in respect of a qualifying offence, or entered or ceased to be in custody in respect of any offence during their reporting period:
   (f) any information reported in respect of the registrable offender under subpart 2 of this Part:
   (g) any information provided to the Commissioner in respect of the registrable offender under this Part.
+(3) The register may, in relation to each registrable offender, contain any other information held by the Police that relates to monitoring, or managing the risk posed by, the registrable offender.
 
 ### 11 Administration of register
-(1) The Commissioner is responsible for the administration of the register.
-(2) Before making significant operational decisions about the way in which the register is administered, the Commissioner must consult with the chief executive of the Department of Corrections.
-(3) For the purpose of administering the register, the Commissioner may appoint any of the following to be authorised persons:
-  (a) 1 or more Police employees (within the meaning of section 4 of the Policing Act 2008):
-  (b) 1 or more employees of the Department of Corrections nominated by the chief executive of the Department.
+[Repealed]
 
 ### Subpart 2 — Reporting obligations
 
@@ -135,12 +151,12 @@ A corresponding registrable offender is a person who, as a consequence of a conv
   (b) the chief executive of the Department of Corrections.
 
 ### 13 Notices to be given when registrable offender ceases to be in custody
-As soon as practicable before or after a registrable offender who has been in custody for 14 or more consecutive days ceases to be in custody, whether in respect of a qualifying offence or otherwise, the chief executive of the Department of Corrections must give written notice to the offender of—
+As soon as practicable before or after a registrable offender who has been in custody for 14 or more days ceases to be in custody, whether in respect of a qualifying offence or otherwise, the chief executive of the Department of Corrections must give written notice to the offender of—
   (a) the offender’s reporting obligations; and
   (b) the penalties for failing to comply with those obligations.
 
 ### 14 Notices may be given by Commissioner
-The Commissioner may, if he or she suspects that a registrable offender may not have received notice, or may otherwise be unaware, of the offender’s reporting obligations, cause written notice to be given to the offender of—
+The Commissioner may, if they suspect that a registrable offender may not have received notice, or may otherwise be unaware, of the offender’s reporting obligations, cause written notice to be given to the offender of—
   (a) the offender’s reporting obligations; and
   (b) the penalties for failing to comply with those obligations.
 
@@ -148,47 +164,73 @@ The Commissioner may, if he or she suspects that a registrable offender may not 
 (1) This section applies to a corresponding registrable offender who enters New Zealand, if the offender has not previously been given notice of the offender’s reporting obligations in New Zealand.
 (2) The Commissioner must, as soon as practicable after becoming aware that the offender has entered New Zealand, cause written notice to be given to the offender in accordance with the requirements of section 14.
 
-**Initial report**
+**Relevant personal information**
 
 ### 16 Relevant personal information to be reported
-(1) For the purposes of this Act, the relevant personal information to be reported by a registrable offender consists of the following information:
-  (a) his or her name, together with any other name by which he or she is, or has previously been, known:
-  (b) in respect of each name other than his or her current name, the period during which he or she was known by that other name:
-  (c) his or her date of birth:
-  (d) the address of each of the premises at which he or she generally resides or, if he or she does not generally reside at any particular premises, the name of each of the localities in which he or she can generally be found:
-  (e) the name, sex, and date of birth of each child who generally resides in the same household as that in which the offender generally resides:
-  (f) in respect of each child who generally resides in the same household as that in which the offender generally resides, the name of the principal caregiver:
-  (g) his or her postal address for service of notices and documents under this Act:
-  (h) if he or she is working,—
-    (i) the nature of the work; and
-    (ii) the name of his or her employer (if any); and
-    (iii) the address of each of the premises at which the offender generally works or, if he or she does not generally work at any particular premises, the name of each of the localities at which he or she generally works:
-  (i) details of his or her affiliation with any club or organisation that has a child membership or child participation in its activities, including any online club or organisation:
-  (j) the make, model, colour, and registration number of any motor vehicle owned by, or generally driven by, the offender:
-  (k) details of any tattoos, scars, or permanent distinguishing marks that he or she has (including details of any tattoo or mark that has been removed):
-  (l) if, at the time of making an initial report, he or she has 1 or more valid passports, the passport number, place of issue, and date of expiry of each passport:
-  (m) details of any telecommunications service used, or intended to be used, by the offender, including—
-    (i) the name of any landline or mobile telephone service provider used, or intended to be used, by the offender; and
-    (ii) any phone numbers used, or intended to be used, by the offender:
-  (n) the name of any Internet service provider, and the details of any routing or modem device, used, or intended to be used, by the offender:
-  (o) details of any username for any online social networks, online gaming accounts, or online storage accounts used, or intended to be used, by the offender:
-  (p) details of any website domain owned or website administered, or intended to be owned or administered, by the offender:
-  (q) details of any email addresses used, or intended to be used, by the offender.
-(2) For the purposes of this section,—
-  (a) a registrable offender does not generally reside at any particular premises unless he or she resides at those premises for at least 2 days (whether consecutive or not) in any period of 12 months; and
-  (b) a child does not generally reside in the same household as a registrable offender unless they reside together in that household for at least 2 days (whether consecutive or not) in any period of 12 months; and
-  (c) a registrable offender does not generally work at any particular premises unless he or she works at those premises for at least 14 days (whether consecutive or not) in any period of 12 months; and
-  (d) a registrable offender does not generally drive a particular motor vehicle unless the person drives that vehicle on at least 14 days (whether consecutive or not) in any period of 12 months.
+(1) For the purposes of this Act, the relevant personal information to be reported by a registrable offender is the following information as it applies at the time at which the registrable offender makes a report:Address and contact detailsResident children Motor vehiclesOccupation and other activitiesNationality and citizenshipPhone, email, and internet access
+  (a) the registrable offender’s name, together with any other name by which the registrable offender is, or has previously been, known:
+  (b) for each name other than the registrable offender’s current name, the period during which the registrable offender was known by that other name:
+  (c) the registrable offender’s date and place of birth:
+  (d) details of any tattoos, scars, or permanent distinguishing marks that the registrable offender has (including details of any tattoo, scar, or mark that has been removed):
+  (e) the address of the place of residence where the registrable offender ordinarily resides or, if the registrable offender does not ordinarily reside in any particular place of residence, the name of each of the localities in which the registrable offender can ordinarily be found:
+  (f) the following addresses for service of notices and documents under this Act:
+    (i) the registrable offender’s postal address (if they have a postal address):
+    (ii) the registrable offender’s email address (if they have an email address):
+  (g) for each child who resides for at least 2 days in the same place of residence as that in which the registrable offender generally resides, the following information:
+    (i) the name, sex, and date of birth of the child:
+    (ii) the name and contact details of the child’s principal caregiver:
+  (h) the make, model, colour, and registration number of the following motor vehicles:
+    (i) any motor vehicle that the registrable offender owns:
+    (ii) any motor vehicle that the registrable offender drives on at least 14 days (whether consecutive or not) in any period of 12 months:
+  (i) if the registrable offender undertakes work (including voluntary work),—
+    (i) the nature of the work the registrable offender is undertaking; and
+    (ii) the name of the registrable offender’s employer (if any); and
+    (iii) the address of each of the premises at which the registrable offender works for at least 14 days (whether consecutive or not) in any period of 12 months (if any); and
+    (iv) if the registrable offender does not work at any such premises, the name of each of the localities at which the registrable offender ordinarily works:
+  (j) details of any education or training course or programme that the registrable offender—
+    (i) is attending; or
+    (ii) has enrolled or registered to attend:
+  (k) details of the registrable offender’s involvement with any club or organisation that has a child membership or child participation in its activities, including any online or electronic club or organisation:
+  (l) the registrable offender’s nationality:
+  (m) the name of each country of which the registrable offender is a citizen:
+  (n) in respect of each valid passport held by the registrable offender, the passport number, date of expiry, and name of the country issuing the passport:
+  (o) for each New Zealand refugee travel document or certificate of identity held by the registrable offender, the details of that document or certificate:
+  (p) details of any telecommunications service used, or intended to be used, by the registrable offender, including—
+    (i) the name of any landline or mobile phone service provider used, or intended to be used, by the registrable offender; and
+    (ii) any phone numbers used, or intended to be used, by the registrable offender:
+  (q) details of any email addresses used, or intended to be used, by the registrable offender:
+  (r) details of any internet service, computer system or device, and any other storage device used, or intended to be used, by the registrable offender, including—
+    (i) the name of any internet service provider; and
+    (ii) the identifying details of any computer system or device capable of accessing the internet; and
+    (iii) the identifying details of any computer system or device capable of enabling another computer system or device to access the internet (for example, a modem or a router):
+  (s) details of any username for any online account used, or intended to be used, by the registrable offender, including, but not limited to, the following:
+    (i) an online social network or platform to connect, communicate, or broadcast with others:
+    (ii) an online gaming account:
+    (iii) an online storage account:
+    (iv) a service used to obscure internet activity or to direct network traffic:
+    (t) details of any website domain owned or website administered, or intended to be owned or administered, by the registrable offender.
+Name of locality must be reported with specificity
+(2) A registrable offender, in reporting the name of a locality under subsection (1)﻿(e) or (i)﻿(iv), must report the name of an identifiable area or location with the greatest specificity that is reasonably possible.
+Interpretation of this section
+(3) In this section, computer system—
+  (a) means—
+    (i) a computer; or
+    (ii) 2 or more interconnected computers; or
+    (iii) any communication links between computers or to remote terminals or any other device; or
+    (iv) 2 or more interconnected computers combined with any communication links between computers or to remote terminals or any other device; and
+  (b) includes any part of the items described in paragraph (a) and all related input, output, processing, storage, software, communication facilities, and stored data.
+
+**Initial report**
 
 ### 17 When initial report must be made
-A registrable offender must make an initial report to the Commissioner of all relevant personal information within 72 hours of—
-  (a) being released from custody in relation to a qualifying offence; or
+A registrable offender must make an initial report to the Commissioner of all the registrable offender’s relevant personal information within 72 hours of—
+  (a) ceasing to be in custody in relation to a qualifying offence; or
   (b) being made subject to a registration order; or
   (c) in the case of a corresponding registrable offender,—
-    (i) entering New Zealand from a foreign jurisdiction to reside in New Zealand (if a New Zealand or Australian citizen or holder of a resident’s visa); or
-    (ii) demonstrating an intention to reside in New Zealand by applying for a resident’s visa after entering New Zealand from a foreign jurisdiction.
+    (i) entering New Zealand from a foreign jurisdiction to reside in New Zealand (if a New Zealand or Australian citizen or holder of a residence class visa); or
+    (ii) demonstrating an intention to reside in New Zealand by applying for a residence class visa after entering New Zealand from a foreign jurisdiction.
 
-**Ongoing reporting obligations**
+**Periodic reports**
 
 ### 18 Requirement to make periodic reports
 (1) A registrable offender must periodically make reports (each a periodic report) of the offender’s relevant personal information to the Commissioner until the offender’s reporting period ends.
@@ -196,154 +238,226 @@ A registrable offender must make an initial report to the Commissioner of all re
 (3) A periodic report includes a report that simply confirms that the registrable offender’s relevant personal information stated in the last report previously made by the offender—
   (a) is correct; and
   (b) has not changed since the offender made the last report.
-(4) If the registrable offender has been in custody since he or she last reported his or her relevant personal information under this section, the details he or she must report include details of when and where that custody occurred.
+(4) Subsection (5) applies if, since a registrable offender last reported their relevant personal information under section 17 or this section, the registrable offender has entered, and ceased to be in, custody.
+(5) The registrable offender must, at the same time as making a periodic report, report to the Commissioner details of when and where that custody occurred.
 
 ### 19 When periodic reports must be made
-(1) A registrable offender must make a periodic report in each year during the reporting period, starting in the first year after the offender makes his or her initial report.
+(1) A registrable offender must make a periodic report in each year during the reporting period, starting in the first year after the offender makes their initial report.
 (2) The registrable offender must make the report—
   (a) on the date specified by the Commissioner by notice in writing to the registrable offender, being a date that is—
     (i) at least 1 month after the date on which the notice was given; and
     (ii) at least 12 months after the date of the last periodic report by the offender under this Act (if any); or
   (b) if no such date is specified by the Commissioner, by the end of the calendar month in which the anniversary of the date of the last periodic report by the offender under this Act or a corresponding law falls.
 
-### 20 Requirement to report changes to relevant personal information
-(1) A registrable offender must report to the Commissioner—
-  (a) any change in the details reported under section 16(1)﻿(d) (premises at which the offender generally resides or localities at which the offender can generally be found) at least 48 hours before the change occurs; and
-  (b) any other change in his or her relevant personal information within 72 hours after that change occurs.
-(2) For the purposes of subsection (1),—
-  (a) a change occurs in the premises or household where the registrable offender or a child generally resides only on expiry of the relevant 2-day period referred to in section 16(2)﻿(a) or (b), as the case may be; and
-  (b) a change occurs in the premises where the registrable offender generally works, or the motor vehicle that he or she generally drives, only on expiry of the relevant 14-day period referred to in section 16(2)﻿(c) or (d), as the case may be.
-(3) However, a registrable offender who has reported a change of residential address in the course of reporting travel plans under section 21(2) is not required to report that same information for the purpose of subsection (1).
-(4) If the relevant personal information of a registrable offender (other than one to whom section 33 applies) changes while he or she is not in New Zealand, he or she must report the change to the Commissioner within 72 hours after entering and remaining within New Zealand for 7 or more consecutive days, not counting any days spent in custody.
-(5) A registrable offender who is in custody for 7 or more consecutive days must report his or her relevant personal information to the Commissioner on whichever of the following first occurs:
-  (a) within 72 hours after the registrable offender ceases to be in custody; or
-  (b) before the registrable offender leaves New Zealand.
+**Obligations to report changes to relevant personal information**
 
-### 21 Travel plans to be reported
-(1) Subsection (2) applies if a registrable offender intends to travel away from his or her registered residential address (see subsection (6)), within New Zealand, for more than 48 hours.
-(2) At least 48 hours before travelling, the registrable offender must report the intended travel to the Commissioner and must provide the following details:
-  (a) each address at which the offender intends to stay:
-  (b) the dates on which the offender intends to stay at each of those addresses:
-  (c) whether any child will or is likely to reside together with the offender at any of those addresses:
-  (d) if the offender intends to return to his or her registered residential address, the date on which he or she intends to return.
-(3) Subsection (4) applies if a registrable offender intends to travel out of New Zealand for more than 48 hours.
-(4) At least 48 hours before travelling, the registrable offender must report the intended travel to the Commissioner and must provide the following details:Date offender intends to travel out of New ZealandOffender intends to return to New ZealandOffender does not intend to return to New Zealand
-  (a) the date on which the offender intends to travel out of New Zealand:
-  (b) if the offender intends to return to New Zealand,—
-    (i) the date on which the offender intends to return; and
-    (ii) the name of each country that the offender intends to travel to, and remain in for more than 48 hours; and
-    (iii) for each of those countries, the specified details (see subsection (6)):
-  (c) if the offender does not intend to return to New Zealand,—
-    (i) a statement of that intention; and
-    (ii) the name of the country that the offender intends to generally reside in after leaving New Zealand.
-(5) If exceptional circumstances arise making it impracticable for a registrable offender to whom subsection (2) or (4) applies to make the report 48 hours before he or she travels, it is sufficient compliance with subsection (2) or (4) if the offender reports the required information to the Commissioner—
+### 20 Changes that must be reported at least 48 hours before change occurs
+(1) This section applies to a registrable offender if the offender’s relevant personal information specified in the following sections is to change:
+  (a) section 16(1)﻿(e) (registrable offender’s place of residence or localities at which registrable offender can generally be found):
+  (b) section 16(1)﻿(g) (details of any child who resides in the same place of residence as registrable offender and details of child’s principal caregiver).
+(2) The registrable offender must report the anticipated change to the Commissioner at least 48 hours before the anticipated change occurs.
+(3) However, if the registrable offender is outside New Zealand, the registrable offender must report the change or the anticipated change to the Commissioner no more than 72 hours after the registrable offender later enters New Zealand (not counting any time spent in custody).
+(4) If exceptional circumstances arise making it impracticable for a registrable offender to make the report at least 48 hours before the anticipated change occurs, it is sufficient compliance with subsection (2) if the registrable offender reports the anticipated change to the Commissioner—
+  (a) as soon as practicable in the circumstances and before the anticipated change occurs; or
+  (b) if that is not possible in the circumstances, directly after the change occurs.
+(5) The reporting requirement in subsection (2) is satisfied if—
+  (a) the anticipated change that the registrable offender must report is a change in the relevant personal information specified in section 16(1)﻿(e); and
+  (b) the registrable offender reports the anticipated change in the course of reporting travel plans under section 21(2) or 21A(2).
+
+### 20A Changes that must be reported no more than 48 hours after change occurs
+(1) This section applies to a registrable offender if the offender’s relevant personal information under the following sections changes:
+  (a) section 16(1)﻿(p) (telecommunications services used by registrable offender):
+  (b) section 16(1)﻿(q) (email addresses used by registrable offender):
+  (c) section 16(1)﻿(r) (internet services and devices used by registrable offender):
+  (d) section 16(1)﻿(s) (usernames for online accounts used by registrable offender):
+  (e) section 16(1)﻿(t) (website domains owned or websites administered by registrable offender).
+(2) If the change occurs while the registrable offender is in New Zealand, the registrable offender must report the change to the Commissioner—
+  (a) no more than 48 hours after the change occurs; or
+  (b) if the registrable offender is leaving New Zealand less than 48 hours after the change occurs, before the registrable offender leaves New Zealand.
+(3) If the change occurs while the registrable offender is outside New Zealand, the registrable offender must report the change to the Commissioner no more than 72 hours after the registrable offender later enters New Zealand (not counting any time spent in custody).
+(4) See section 33 (which provides for modified reporting procedures for protected witnesses).
+
+### 20B Changes that must be reported no more than 72 hours after change occurs
+(1) This section applies to any change to a registrable offender’s relevant personal information other than a change specified in section 20(1) or 20A(1).
+(2) If the change occurs while the registrable offender is in New Zealand, the registrable offender must report the change to the Commissioner—
+  (a) no more than 72 hours after the change occurs; or
+  (b) if the registrable offender is leaving New Zealand less than 72 hours after the change occurs, before the registrable offender leaves New Zealand.
+(3) If the change occurs while the registrable offender is outside New Zealand, the registrable offender must report the change to the Commissioner no more than 72 hours after the registrable offender later enters New Zealand (not counting any time spent in custody).
+(4) See section 33 (which provides for modified reporting procedures for protected witnesses).
+
+### 20C When changes occurring during, or following, time in custody must be reported
+(1) This section applies to a registrable offender—
+  (a) who is in custody for more than 7 days; and
+  (b) whose relevant personal information changes.
+(2) This section overrides sections 20 to 20B.
+(3) The registrable offender must report the change to the Commissioner—
+  (a) no more than 72 hours after the registrable offender ceases to be in custody; or
+  (b) if the registrable offender is leaving New Zealand less than 72 hours after the registrable offender ceases to be in custody, before the registrable offender leaves New Zealand.
+(4) See section 36(1)﻿(a), which provides that a registrable offender’s reporting obligations under section 18(1) are suspended for any period during which the registrable offender is in custody for more than 7 days.
+
+**Obligations to report travel plans**
+
+### 21 Travel plans within New Zealand to be reported
+(1) This section applies if a registrable offender intends to—
+  (a) travel away from their place of residence (as defined in subsection (5)) for more than 48 hours; and
+  (b) remain within New Zealand.
+(2) The registrable offender must report the intended travel to the Commissioner at least 48 hours before travelling away from their place of residence.
+(3) The registrable offender must report the following details to the Commissioner:
+  (a) each address at which the registrable offender intends to stay:
+  (b) the dates on which the registrable offender intends to stay at each of those addresses:
+  (c) whether any child will or is likely to travel with the registrable offender and, if so,—
+    (i) the name, sex, and date of birth of the child; and
+    (ii) the name and contact details of the child’s principal caregiver:
+  (d) if any child will be or is likely to be present with the registrable offender at any of those addresses and, if so,—
+    (i) the sex of the child; and
+    (ii) the age of the child or, if the registrable offender does not know the child’s actual age, the approximate age of the child:
+  (e) if the registrable offender intends to return to their place of residence, the date on which they intend to return.
+(4) If exceptional circumstances arise making it impracticable for the registrable offender to make the report at least 48 hours before travelling, it is sufficient compliance with this section if the registrable offender reports the required information to the Commissioner—
   (a) as soon as practicable in the circumstances; and
   (b) before travelling.
-(6) In this section,—
-  - **specified details** , for the purposes of subsection (4)﻿(b)﻿(iii), in relation to a registrable offender, means—
-    (a) each address at which the registrable offender intends to stay; and
-    (b) the date on which the offender intends to arrive in the country; and
-    (c) the date on which the offender intends to travel out of the country
-  - **travel away from his or her registered residential address** , for the purposes of subsection (1), in relation to a registrable offender, includes travel between registered residential addresses.
+(5) In this section, travel away from their place of residence, in relation to a registrable offender, includes travel between different places of residence where the registrable offender resides.
 
-### 22 Change of travel plans while away from home or out of New Zealand to be given
-(1) This section applies if a registrable offender who has travelled away from his or her registered residential address decides to change any details given to the Commissioner under section 21(2) or (4).
-(2) As soon as practicable after making the decision, the registrable offender must report the changed details to the Commissioner.
-(3) The registrable offender must make the report—
-  (a) by writing sent by post or transmitted electronically to the Commissioner or to any other address permitted by the regulations; or
-  (b) in any other manner permitted by the regulations.
+### 21A Travel plans outside New Zealand to be reported
+(1) This section applies if a registrable offender intends to leave New Zealand for more than 48 hours.
+(2) The registrable offender must report the intended travel to the Commissioner at least 7 days before leaving New Zealand.
+(3) The registrable offender must report the following details to the Commissioner:
+  (a) the date on which the registrable offender intends to leave New Zealand; and
+  (b) the name of each country that the registrable offender intends to enter and remain in for more than 48 hours; and
+  (c) for each of those countries,—
+    (i) the dates on which the registrable offender intends to enter and leave the country; and
+    (ii) each address at which the registrable offender intends to stay; and
+  (d) if the registrable offender intends to return to New Zealand, the date on which the offender intends to enter New Zealand; and
+  (e) if the registrable offender does not intend to return to New Zealand,—
+    (i) a statement of that intention; and
+    (ii) the name of the country that the registrable offender intends to generally reside in after leaving New Zealand; and
+    (iii) the date on which the registrable offender intends to enter that country.
+(4) If exceptional circumstances arise making it impracticable for the registrable offender to make the report at least 7 days before leaving New Zealand, it is sufficient compliance with this section if the registrable offender reports the required information to the Commissioner—
+  (a) as soon as practicable in the circumstances; and
+  (b) before leaving New Zealand.
 
-### 23 Requirement to report return to New Zealand or decision not to leave
-(1) This section applies if a registrable offender is required under section 21 to report that he or she intends to leave New Zealand.
-(2) If the registrable offender leaves New Zealand, he or she must, within 72 hours after entering and remaining in New Zealand for 7 consecutive days (not counting any days spent in custody),—
-  (a) report his or her return to the Commissioner; and
-  (b) present his or her passport for inspection and copying.
-(3) If the registrable offender decides not to leave New Zealand, he or she must report his or her change of intention within 72 hours after deciding not to leave.
+### 22 Change of travel plans to be reported
+(1) This section applies if a registrable offender decides to change any details reported to the Commissioner under section 21 or 21A.
+(2) The registrable offender must report the changed details to the Commissioner—
+  (a) if the change to be reported is that the registrable offender has decided not to leave New Zealand, as soon as practicable after making the decision and no more than 72 hours after making the decision; or
+  (b) for any other change, as soon as practicable after making the decision.
+
+### 23 Return to New Zealand to be reported
+(1) This section applies to a registrable offender who—
+  (a) leaves New Zealand; and
+  (b) later re-enters New Zealand.
+(2) The registrable offender must report their return to New Zealand to the Commissioner no more than 72 hours after re-entering New Zealand (excluding any period spent in custody).
+(3) The Commissioner may require the registrable offender, for inspection and copying,—
+  (a) to transmit a copy of each passport used by the registrable offender electronically to—
+    (i) the Commissioner; or
+    (ii) any other address prescribed by the regulations; or
+  (b) to provide each of those passports, or a copy of each of those passports, in any other manner prescribed by the regulations.
 
 **Provisions applying to all reporting obligations**
 
 ### 24 Where report is to be made
 (1) A report by a registrable offender under this subpart must be made,—
   (a) if the Commissioner gives the offender a direction that the report is to be made at a specified Police station, at that Police station; or
-  (b) if the relevant personal information last reported by the offender indicates an address for premises at which he or she generally resides and the Commissioner gives the offender a direction that the report is to be made at those premises, at those premises; or
+  (b) if the relevant personal information last reported by the offender indicates an address for premises at which they generally reside and the Commissioner gives the offender a direction that the report is to be made at those premises, at those premises; or
   (c) if no direction is given under paragraph (a) or (b), at a place approved (either generally or in a particular case) by the Commissioner.
 (2) A direction by the Commissioner under subsection (1)﻿(a) or (b)—
   (a) must be given in writing in accordance with any requirements prescribed by the regulations; and
   (b) may be varied or revoked at any time by further notice in writing given to the registrable offender by the Commissioner.
-(3) This section does not apply if, under section 25(2), a report is permitted to be made in a way that is inconsistent with this section.
+(3) This section does not apply if, under section 25(2) or (6), the Commissioner permits, or the regulations provide for, a report to be made in a way that is inconsistent with this section.
 
 ### 25 How report is to be made
-(1) A registrable offender must attend in person to make the following reports under this subpart:
-  (a) a report required by section 17 (initial report):
-  (b) a report required by section 18 (periodic report):
-  (c) a report of a change of address of the premises at which he or she generally resides or, if he or she does not generally reside at any particular premises, of the localities in which he or she can generally be found:
-  (d) a report of the acquisition of, removal of, or change to any tattoo or permanent distinguishing mark:
-  (e) a report required by section 21(4):
-  (f) a report required by section 23(2).
-(2) However, a registrable offender may, with the approval of the Commissioner, make any other report required under this subpart in a manner permitted by the Commissioner or by the regulations, either generally or in a particular case (including by email or other form of electronic transmission).
-(3) If a report under this subpart—
-  (a) is a report referred to in subsection (1)﻿(a), (b), (e), or (f), only a constable may receive it:
-  (b) is a report referred to in subsection (1)﻿(c) or (d) and is made in person, only a constable or an authorised person may receive it:
-  (c) is not made in person but is made in accordance with subsection (2), only a constable or an authorised person may receive it.
-(4) If a registrable offender has a disability that makes it impossible or impracticable for him or her to make a report in the manner required, the registrable offender will be taken to make the report if a parent, guardian, carer, or other adult person nominated by the offender and approved by the Commissioner makes the report (so far as is reasonably possible) on the offender’s behalf.
-(5) A report made on the offender’s behalf under subsection (4) must be made—
-  (a) by both the registrable offender and the person reporting on his or her behalf attending in person; or
-  (b) in another manner permitted by the Commissioner or by the regulations, either generally or in a particular case (including by email or other form of electronic transmission).
+Most reports to be made in manner permitted by Commissioner or prescribed by regulations
+(1) A registrable offender required to make a report under this subpart must do so in accordance with subsection (2), except as provided by subsections (3) to (6).
+(2) The registrable offender must make the report in a manner permitted by the Commissioner or prescribed by the regulations, either generally or in a particular case (including by phone or by email or other form of electronic transmission).
+Reports to be made in person
+(3) Subsection (4) applies to a registrable offender required to make any of the following reports under this subpart:
+  (a) a report under section 17 (an initial report):
+  (b) a report under section 18 (a periodic report):
+  (c) a report under section 20B about a change in the registrable offender’s relevant personal information specified in section 16(1)﻿(d) (details of any tattoos, scars, or permanent distinguishing marks that the registrable offender has).
+(4) The registrable offender must attend in person to make the report.
+Reports to be made in writing
+(5) Subsection (6) applies to a registrable offender required to make a report under section 20B about a change in the registrable offender’s relevant personal information specified in section 16(1)﻿(l) to (o) (information about the registrable offender’s nationality and citizenship).
+(6) The registrable offender must make the report—
+  (a) by writing sent by post or transmitted electronically to—
+    (i) the Commissioner; or
+    (ii) any other address prescribed by the regulations; or
+  (b) in any other manner prescribed by the regulations.
+Who may receive report
+(7) A report made under this section or section 25A may be received by a constable or an authorised person.
+
+### 25A How registrable offender with disability may make report
+(1) This section applies to a registrable offender who has a disability that makes it impossible or impracticable for the registrable offender to make a report in the manner required in section 25.
+(2) A nominated person may make the report (so far as is reasonably possible) on the registrable offender’s behalf.
+(3) A report made by the nominated person on the registrable offender’s behalf must be made—
+  (a) by both the registrable offender and the nominated person attending in person; or
+  (b) in another manner (including by phone or by email or other form of electronic transmission) permitted by the Commissioner or prescribed by the regulations, either generally or in a particular case.
+(4) In this section, nominated person means a person who—
+  (a) is—
+    (i) the registrable offender’s parent, guardian, or carer; or
+    (ii) an adult 18 years of age or over; and
+  (b) is chosen by the registrable offender; and
+  (c) is approved by the Commissioner.
 
 ### 26 Right to privacy and support when reporting
 (1) A person making a report under this subpart by attending in person at a police station or other place approved by the Commissioner—
   (a) is entitled to make the report out of the hearing of members of the public; and
-  (b) is entitled to be accompanied by a support person of his or her own choosing.
+  (b) is entitled to be accompanied by a support person of their own choosing.
 (2) A constable or an authorised person receiving the report—
   (a) may arrange for an interpreter to be present when a person is making a report under this subpart; and
   (b) must not allow an interpreter to be present when a person is making a report under this subpart unless the interpreter has signed an undertaking not to disclose any information derived from the report unless required or authorised by or under any enactment to do so.
 
-### 27 Receipt of information to be acknowledged
-(1) As soon as practicable after receiving a report under this subpart, the constable or authorised person receiving the report must acknowledge the making of the report.
-(2) The acknowledgement must be in writing, must be given to the person who made the report, and must include—
-  (a) the name and signature of the constable or authorised person who received the report; and
-  (b) the date and time when, and the place where, the report was received; and
-  (c) a copy of the information that was reported; and
-  (d) a copy of the record of any agreement made under subsection (4).
-(3) If a report is not made in person, the constable or authorised person who received the report must, as soon as practicable,—
-  (a) give the person making the report a unique reference number; and
-  (b) record that number on the relevant registrable offender’s file and on the acknowledgement.
-(4) The Commissioner may make an agreement with the registrable offender as to the manner in which any reference number or acknowledgement required to be given by this section may be given.
-(5) The Commissioner must ensure—
-  (a) that there is a method of recording an agreement made under subsection (4); and
-  (b) that, except with the written consent of the registrable offender, any reference number or acknowledgement required to be given by this section is given in accordance with the agreement while the agreement remains in force.
-(6) The Commissioner must ensure that a copy of every acknowledgement is retained.
-(7) In this section, signature includes an email signature or other form of electronic signature.
+### 27 Receipt of report to be recorded and acknowledged
+(1) A constable or authorised person who receives a report under this subpart must, as soon as practicable,—
+  (a) record that receipt in the register in accordance with subsection (2); and
+  (b) take reasonable steps to acknowledge that receipt to the person who made the report.
+(2) The constable or authorised person must record receipt by recording in the register the following information about the relevant registrable offender:
+  (a) the unique reference number assigned to the report:
+  (b) the name of the constable or authorised person who received the report:
+  (c) the date and time of receipt.
+(3) The constable or authorised person must acknowledge receipt by providing the following information to the person who made the report:
+  (a) the unique reference number assigned to the report:
+  (b) the date and time of receipt.
+(4) The Commissioner must—
+  (a) ask the registrable offender to specify whether any acknowledgement required to be given under this section is to be transmitted to the offender by post or electronic means, or both; and
+  (b) record the method of transmission (if any) specified by the registrable offender; and
+  (c) ensure that, except with the written consent of the registrable offender, that method of transmission (if any) is used to give an acknowledgement required to be given by this section; and
+  (d) retain a copy of each acknowledgement given.
 
 ### 28 Additional matters to be provided
 (1) If a report is required to be made by attending in person, the person making the report must also—
   (a) present for inspection the registrable offender’s driver licence (if any) or any other form of identification or other document reasonably required by the constable or authorised person receiving the report to verify or support details in the report; and
-  (b) if not the registrable offender, present for inspection his or her driver licence (if any) or other form of identification reasonably required by the constable or authorised person receiving the report.
+  (b) if not the registrable offender, present for inspection their driver licence (if any) or other form of identification reasonably required by the constable or authorised person receiving the report.
 (2) The constable or authorised person receiving the report may waive any requirements of subsection (1) if the constable or authorised person is otherwise satisfied as to the identity of the person making the report.
-(3) If a report is required to be made by attending in person, the person making the report must also present for inspection the registrable offender’s current passport (if any).
+(3) If a report is required to be made by attending in person, the person making the report must also present for inspection the following documents (if any) held by or reasonably available to the registrable offender:
+  (a) each valid passport:
+  (b) each valid New Zealand refugee travel document:
+  (c) each certificate of identity.
 (4) The constable or authorised person receiving the report may copy any document presented for inspection under subsection (1) or (3).
 (5) If a report is made otherwise than in person, the regulations—
-  (a) may specify the circumstances in which—
+  (a) may prescribe the circumstances in which—
     (i) information will be required concerning the identity of the registrable offender and the identity of the person making the report; or
     (ii) a document will be required verifying or supporting details in the report; and
-  (b) may specify the manner in which that information or document is to be provided; and
+  (b) may prescribe the manner in which that information or document is to be provided; and
   (c) may not require an original document to be provided.
 
 ### 29 Power to take fingerprints or fingerscan
-A constable or an authorised person receiving a report made in person under this subpart may take, or may cause to be taken by a person authorised by the constable or the authorised person, the fingerprints or a fingerscan of the registrable offender if not reasonably satisfied as to the identity of the registrable offender after the constable or authorised person has examined all the material relating to identity provided or presented to him or her by, or on behalf of, the registrable offender.
+(1) This section applies to a constable or an authorised person who—
+  (a) receives a report made in person under this subpart; and
+  (b) examines all the material relating to identity provided or presented to the constable or authorised person by, or on behalf of, the registrable offender; and
+  (c) is not reasonably satisfied as to the identity of the registrable offender.
+(2) The constable or authorised person may—
+  (a) take the fingerprints or a fingerscan of the registrable offender; or
+  (b) cause the fingerprints or a fingerscan of the registrable offender to be taken by a person authorised to do so by the constable or the authorised person.
 
 ### 30 Power to take photographs
-A constable or an authorised person receiving a report made in person under this subpart may take, or may cause to be taken by a person authorised by the constable or the authorised person, photographs of the registrable offender for the purpose of ongoing identification.
+A constable or an authorised person receiving a report made in person under this subpart may take, or may cause to be taken by a person authorised by the constable or the authorised person, photographs of the registrable offender for the purpose of identification from time to time.
 
 ### 31 Constable or authorised person must inform offender before exercising power
-Before attempting to exercise a power under section 29 or 30, the constable or authorised person must inform the registrable offender in language likely to be understood by him or her—
+Before attempting to exercise a power under section 29 or 30, the constable or authorised person must inform the registrable offender in language likely to be understood by them—
   (a) of the purpose for which the power is to be exercised; and
   (b) that the Commissioner will retain the fingerprints, fingerscan, or photographs (as the case may be).
 
 ### 32 Identifying particulars and other information may be stored by Police
-(1) Any identifying particulars of a person and any other information obtained by the Police under this subpart may be entered, recorded, and stored on a Police information recording system.
-(2) Information recorded on any Police information recording system is not information held in the register for the purposes of this Act.
-(3) If the Commissioner under section 49(6)﻿(b) revokes a decision to place the person on the register, the Commissioner must ensure that any identifying particulars of the person and other information about the person obtained by Police under this subpart are removed from any Police information recording system on which they are stored.
+[Repealed]
 
 **Modified reporting procedures for protected witnesses**
 
@@ -352,7 +466,7 @@ Before attempting to exercise a power under section 29 or 30, the constable or a
   (a) any registrable offender who is currently a participant in a witness protection programme:
   (b) any registrable offender who has been a participant in a witness protection programme but in respect of whom an order under this section is yet to be made:
   (c) any registrable offender who is the subject of an order in force under this section declaring that the offender is a person to whom this section applies.
-(2) This section (except subsections (4) to (7)) also applies to a registrable offender who is receiving protection under a foreign witness protection law or foreign witness protection scheme specified by the regulations for the purposes of this subsection, or who has the same status as such a person under an order made under a corresponding Act specified by the regulations for the purposes of this subsection.
+(2) This section (except subsections (4) to (7)) also applies to a registrable offender who is receiving protection under a foreign witness protection law or foreign witness protection scheme prescribed by the regulations for the purposes of this subsection, or who has the same status as such a person under an order made under a corresponding Act prescribed by the regulations for the purposes of this subsection.
 (3) It is sufficient compliance with the requirements of this Part—
   (a) if a person to whom this section applies provides information required by the Commissioner, at the times and in the manner authorised by the Commissioner for the purposes of this section; and
   (b) if the acknowledgement of the giving of the information is given in a manner approved by the Commissioner; and
@@ -364,7 +478,7 @@ Before attempting to exercise a power under section 29 or 30, the constable or a
 (6) A person who receives such a notification may, within 14 days after receiving it, apply in writing to the Commissioner for a review of the decision.
 (7) On receiving an application referred to in subsection (6), the Commissioner—
   (a) must review the order, and confirm or reverse it; and
-  (b) before making a decision on the matter, must give the applicant a reasonable opportunity to state his or her case; and
+  (b) before making a decision on the matter, must give the applicant a reasonable opportunity to state their case; and
   (c) after making a decision on the matter, must given written notice of the decision to the applicant.
 
 **Reporting period and period on register**
@@ -374,8 +488,8 @@ For the purposes of this subpart, a registrable offender’s reporting obligatio
   (a) when the person ceases to be in custody in relation to a qualifying offence; or
   (b) when the person (who has received a non-custodial sentence) is made subject to a registration order at the time of sentencing for a qualifying offence; or
   (c) in the case of a corresponding registrable offender,—
-    (i) when the person enters New Zealand from a foreign jurisdiction to reside in New Zealand (if a New Zealand or Australian citizen or holder of a resident’s visa); or
-    (ii) when the person demonstrates an intention to reside in New Zealand by applying for a resident’s visa after entering New Zealand from a foreign jurisdiction.
+    (i) when the person enters New Zealand from a foreign jurisdiction to reside in New Zealand (if a New Zealand or Australian citizen or holder of a residence class visa); or
+    (ii) when the person demonstrates an intention to reside in New Zealand by applying for a residence class visa after entering New Zealand from a foreign jurisdiction.
 
 ### 35 Length of reporting period and period on register
 (1) A registrable offender must continue to comply with the reporting obligations imposed by this subpart for—
@@ -389,19 +503,20 @@ For the purposes of this subpart, a registrable offender’s reporting obligatio
 (3) However, for the purpose of calculating the length of a corresponding registrable offender’s reporting period, and despite section 34(c), the period is taken to have begun—
   (a) when the offender ceased to be in custody in relation to the corresponding offence of which the offender was convicted; or
   (b) in the case of an offender who has not been sentenced to imprisonment for the corresponding offence of which the offender was convicted, when the offender was convicted of that offence.
-(4) A registrable offender remains on the register for the duration of his or her reporting period, including (despite section 36(5)) any period during which his or her reporting obligations are suspended.
+(4) A registrable offender remains on the register for the duration of their reporting period, including (despite section 36(5)) any period during which their reporting obligations are suspended.
 (5) If a registrable offender has reporting obligations in respect of more than 1 qualifying offence or corresponding offence, the reporting periods for each of those offences run concurrently (to the extent that they overlap), not cumulatively.
 
 ### 36 Suspension of reporting obligations
 (1) A registrable offender’s reporting obligations are suspended for any period during which—
-  (a) he or she is in custody for more than 7 days; or
-  (b) he or she is outside New Zealand, unless he or she is a person to whom section 33 applies or the obligation is under section 22; or
+  (a) the registrable offender is in custody for more than 7 days; or
+  (b) the registrable offender is outside New Zealand, unless the registrable offender is a person to whom section 33 applies or the obligation is under section 22(2); or
+  (ba) the registrable offender generally resides in a country other than New Zealand; or
   (c) the Commissioner has suspended the offender’s reporting obligations under subsection (2); or
   (d) the offender’s reporting period has ceased to run under section 348A of the Criminal Procedure Act 2011; or
   (e) a court order suspending the offender’s reporting obligations under section 38(4) is in force.
-(2) The Commissioner may, on his or her own initiative or on the application of the offender, suspend the reporting obligations of a registrable offender if the Commissioner is satisfied, on reasonable grounds,—
+(2) The Commissioner may, on their own initiative or on the application of the offender, suspend the reporting obligations of a registrable offender if the Commissioner is satisfied, on reasonable grounds,—
   (a) that the offender does not pose a risk to the lives or sexual safety of 1 or more children, or of children generally; and
-  (b) that the offender has a terminal illness or a significant cognitive or physical impairment that makes it difficult or impossible for the offender to fulfil his or her reporting obligations.
+  (b) that the offender has a terminal illness or a significant cognitive or physical impairment that makes it difficult or impossible for the offender to fulfil their reporting obligations.
 (3) The Commissioner must, as soon as is reasonably practicable, give the registrable offender written notice of a decision made under subsection (2)—
   (a) to suspend the offender’s reporting obligations; or
   (b) to deny an application to suspend the offender’s reporting obligations.
@@ -411,18 +526,18 @@ For the purposes of this subpart, a registrable offender’s reporting obligatio
 ### 37 Revocation of suspension by Commissioner
 (1) The Commissioner may at any time revoke a suspension granted under section 36(2) if the Commissioner believes, on reasonable grounds,—
   (a) that the registrable offender poses, or may pose, a risk to the lives or sexual safety of a child or children, or of children generally; or
-  (b) that the offender no longer has an illness or impairment that makes it difficult or impossible for the offender to fulfil his or her reporting obligations.
-(2) If the Commissioner revokes a suspension, he or she must give the registrable offender written notice of the revocation as soon as is reasonably practicable.
+  (b) that the offender no longer has an illness or impairment that makes it difficult or impossible for the offender to fulfil their reporting obligations.
+(2) If the Commissioner revokes a suspension, they must give the registrable offender written notice of the revocation as soon as is reasonably practicable.
 (3) The revocation takes effect when the Commissioner gives the notice to the registrable offender.
 
 ### 38 District Court may suspend lifetime reporting obligations on application
-(1) A registrable offender who is subject to lifetime reporting obligations under section 35(1)﻿(a), and who is eligible under subsection (2), may apply to a District Court to have his or her reporting obligations indefinitely suspended.
+(1) A registrable offender who is subject to lifetime reporting obligations under section 35(1)﻿(a), and who is eligible under subsection (2), may apply to a District Court to have their reporting obligations indefinitely suspended.
 (2) A registrable offender is eligible under this subsection if—
   (a) the offender has been subject to lifetime reporting obligations for not less than 15 years; and
   (b) the offender is not currently on parole or subject to any post-sentence order (for example, a public protection order or an extended supervision order); and
   (c) a District Court has not in the last 5 years heard and declined an application by the offender under this section.
 (3) Police and the Department of Corrections are parties to an application made under subsection (1) and are entitled to be heard on the application.
-(4) The court may make an order indefinitely suspending the reporting obligations of the offender only if the offender satisfies the court that he or she does not pose a risk to the lives or sexual safety of 1 or more children, or of children generally.
+(4) The court may make an order indefinitely suspending the reporting obligations of the offender only if the offender satisfies the court that they do not pose a risk to the lives or sexual safety of 1 or more children, or of children generally.
 (5) For the purpose of assessing the risk posed by the offender, the court must consider the following matters:
   (a) the seriousness of the qualifying offence or the corresponding offence:
   (b) the period of time that has elapsed since the offence was committed:
@@ -442,76 +557,76 @@ For the purposes of this subpart, a registrable offender’s reporting obligatio
 **Offences**
 
 ### 39 Offence of failing to comply with reporting obligations
-(1) A registrable offender commits an offence if the offender fails to comply with any of his or her reporting obligations without reasonable excuse.
+(1) A registrable offender commits an offence if the offender fails to comply with any of their reporting obligations without reasonable excuse.
 (2) An offender who is convicted of an offence under this section is liable to imprisonment for a term not exceeding 1 year, or a fine not exceeding $2,000, or both.
 
 ### 40 Offence of providing false or misleading information
 (1) A registrable offender commits an offence if the offender, in purported compliance with this subpart, provides information that the offender knows to be false or misleading in a material particular.
 (2) An offender who is convicted of an offence under this section is liable to imprisonment for a term not exceeding 2 years, or a fine not exceeding $4,000, or both.
 
-### Subpart 3 — Access to register and information sharing
+## Part 2A — Administering register and associated matters
+
+### Subpart 1 — Access to register and sharing information about registrable offender
 
 ### 41 Access to register to be restricted
-(1) The Commissioner must ensure that the register, or any part of the register, is only accessed by a person, or a class of persons, that is authorised to do so by the Commissioner in accordance with guidelines issued in accordance with this section.
-(2) The Commissioner must issue guidelines in relation to access to information in the register to ensure—
-  (a) that persons authorised by the Commissioner can access information in the register for the following purposes:
+(1) The Commissioner must ensure that the register, or any part of the register, is accessed only by a person, or a class of persons, that is authorised to do so by the Commissioner in accordance with guidelines issued in accordance with this section.
+(2) The Commissioner must issue guidelines in relation to access to register information to ensure—
+  (a) that persons authorised by the Commissioner can access register information for the following purposes:
     (i) preventing, detecting, investigating, and prosecuting qualifying offences:
     (ii) monitoring registrable offenders in the community:
     (iii) the purposes specified in section 43(1); and
   (b) that access to information in the register is otherwise restricted to the greatest extent that is possible without interfering with the purpose of this Act.
-(3) Despite subsection (2), the guidelines may authorise the use of information contained in the register for a purpose other than the purpose for which the information was obtained if an authorised person reasonably believes such use is necessary to prevent, detect, investigate, or prosecute an imprisonable offence.
+(3) Despite subsection (2), the guidelines may authorise the use of register information for a purpose other than the purpose for which the register information was obtained if an authorised person reasonably believes such use is necessary to prevent, detect, investigate, or prosecute an offence punishable by a term of imprisonment.
 (4) For the purposes of this section, the register includes any information from any register maintained under a corresponding Act that is accessible by the Commissioner, regardless of whether that information is physically part of the register.
 (5) This section has effect despite any other enactment or law to the contrary.
 
 ### 42 Restriction on who may access information on protected witness
-The Commissioner must ensure that any information in the register about a person to whom section 33 applies, whose identity is apparent or can reasonably be ascertained from that information, can only be accessed in accordance with guidelines issued by the Commissioner for that purpose under section 41.
+(1) This section applies to any register information—
+  (a) that is about a person to whom section 33 applies; and
+  (b) on the basis of which the person’s identity is apparent or can reasonably be ascertained.
+(2) The Commissioner must ensure that the register information can be accessed only in accordance with guidelines issued by the Commissioner for that purpose under section 41.
 
 ### 43 Information sharing between government agencies in interest of public safety
-(1) A specified agency may disclose personal information about a registrable offender or a corresponding registrable offender (whether or not that information is in the register) to another specified agency for 1 or more of the purposes listed in subsection (1A).
-(1A) The purposes are the following:
-  (a) monitoring the whereabouts of the offender:
-  (b) verifying personal information reported by the offender:
-  (c) managing the risk that the offender may commit further sexual offences against children:
+(1) A specified agency or officer may disclose information about a registrable offender (whether or not that information is in the register) to another specified agency or officer for 1 or more of the purposes specified in subsection (2).
+(1A)
+(2) The purposes are the following:
+  (a) monitoring the whereabouts of the registrable offender:
+  (b) verifying information reported by the registrable offender:
+  (c) managing the risk that the registrable offender may commit further sexual offences against children:
   (d) managing any risk or threat to public safety.
-(2) In this section, specified agency means—
-  (a) the Police:
-  (b) the Department of Corrections:
-  (c) the Ministry of Social Development:
-  (d) Kāinga Ora–Homes and Communities established by the Kāinga Ora–Homes and Communities Act 2019:
-  (e) the Department of Internal Affairs:
-  (f) the New Zealand Customs Service:
-  (g) any public sector agency (as that term is defined in section 7(1) of the Privacy Act 2020) that the Minister, after consultation with the Privacy Commissioner, identifies as a specified agency by notice in the Gazette.
 (3) Nothing in this section limits or affects—
   (a) the ability of an agency to access law enforcement information in accordance with section 172 of the Privacy Act 2020; or
   (b) the ability of an agency to disclose personal information about a child sex offender in accordance with section 182A of the Corrections Act 2004.
 
 ### 44 Disclosure of information to corresponding Registrar or to corresponding overseas agency
-The Commissioner may disclose personal information in the register to a corresponding Registrar or to a corresponding overseas agency for the purposes of—
+The Commissioner may disclose register information to a corresponding Registrar or to a corresponding overseas agency for the purposes of—
   (a) a corresponding Act; or
   (b) informing that Registrar or agency of the intention to travel, or actual travel, to the Registrar’s or agency’s jurisdiction of a registrable offender who may pose a threat to the lives or sexual safety of 1 or more children, or of children generally, in that jurisdiction.
 
 ### 45 Disclosure of information to affected person where threat to child safety or welfare
-(1) The Commissioner may disclose personal information in the register to an affected person if the Commissioner believes on reasonable grounds that the registrable offender poses a threat to the life, welfare, or sexual safety of a particular child or particular children.
-(2) The Commissioner may authorise a specified agency to disclose personal information in the register to an affected person if the Commissioner believes on reasonable grounds that the registrable offender poses a threat to the life, welfare, or sexual safety of a particular child or particular children.
+(1) The Commissioner may disclose register information to an affected person if the Commissioner believes on reasonable grounds that the registrable offender poses a threat to the life, welfare, or sexual safety of a particular child or particular children.
+(2) The Commissioner may authorise a specified agency to disclose register information to an affected person if the Commissioner believes on reasonable grounds that the registrable offender poses a threat to the life, welfare, or sexual safety of a particular child or particular children.
 (3) In this section, affected person means a person who is, in relation to a child referred to in subsection (1) or (2),—
   (a) a parent or guardian of the child; or
   (b) a teacher or regular caregiver of the child; or
   (c) for the time being, responsible for the custody or well-being of the child.
 
 ### 46 Disclosure where identity suppressed
-(1) Personal information in the register may be disclosed under sections 43 to 45 even if the identity of the registrable offender is subject to a suppression order under section 200 of the Criminal Procedure Act 2011 or has been automatically suppressed under section 201 of that Act.
-(2) The Commissioner or a specified agency must ensure, when disclosing personal information in the register in relation to a registrable offender whose identity is suppressed, that the disclosure is accompanied by notice of the suppression order or automatic suppression.
+(1) Register information may be disclosed under sections 43 to 45 even if the identity of the registrable offender is subject to a suppression order under section 200 of the Criminal Procedure Act 2011 or has been automatically suppressed under section 201 of that Act.
+(2) The Commissioner or a specified agency must ensure, when disclosing register information in relation to a registrable offender whose identity is suppressed, that the disclosure is accompanied by notice of the suppression order or automatic suppression.
 
 ### 47 Confidentiality
-(1) A person authorised to have access to the register or any part of the register must not disclose any personal information in the register, unless the person is—
-  (a) authorised by the Commissioner to disclose the information; or
-  (b) otherwise permitted or required, under any enactment or other law, to disclose the information.
-(2) A person to whom personal information about a registered offender is disclosed under this subpart must not disclose that information to any other person unless that disclosure is—
+(1) A person authorised to have access to the register or any part of the register must not disclose any register information, unless the person is—
+  (a) authorised by the Commissioner to disclose the register information under this Act; or
+  (b) otherwise permitted or required, under any enactment or other law, to disclose the register information.
+(2) A person to whom register information is disclosed under this subpart must not disclose that information to any other person unless that disclosure is—
   (a) made with the consent of the Commissioner given (either generally or in a particular case) for the purposes of ensuring the safety or protection of a child or of children generally; or
   (b) otherwise permitted or required under any enactment or other law.
 (3) A person who contravenes subsection (1) or who without reasonable excuse contravenes subsection (2) commits an offence and is liable on conviction to,—
   (a) in the case of an individual, imprisonment for a term not exceeding 6 months; and
   (b) in the case of a body corporate, a fine not exceeding $50,000.
+
+### Subpart 2 — Registrable offender may request certain information or review of certain decisions
 
 ### 48 Registrable offender’s rights in relation to register
 (1) If asked, in writing, to do so by a registrable offender, the Commissioner must provide the registrable offender with all of the reportable information that is held in the register in relation to the registrable offender.
@@ -519,6 +634,7 @@ The Commissioner may disclose personal information in the register to a correspo
 (3) A registrable offender may make a written request to the Commissioner to amend any reportable information held in the register in relation to the registrable offender that is incorrect (and the Commissioner must, if satisfied that it is incorrect, amend the information).
 (4) The Commissioner must take reasonable steps to notify the registrable offender as to whether the Commissioner will comply with a request under subsection (3).
 (5) If the Commissioner denies a request made under subsection (3), the Commissioner must ensure that the details of the request and the denial of the request are recorded in the register.
+(6) In this section, reportable information means information reported by the registrable offender under subpart 2 of Part 2.
 
 ### 49 Review where error in placement on register or reporting period
 (1) This section applies if a person believes that—
@@ -528,18 +644,18 @@ The Commissioner may disclose personal information in the register to a correspo
 (3) The person may apply in writing to the Commissioner to review the following:
   (a) the decision to place the person on the register; or
   (b) the decision about the length of the person’s reporting period.
-(4) The application must be made within 28 days after the person is given notice of his or her reporting obligations under section 12, 13, 14, or 15.
+(4)
 (5) The person’s reporting obligations are not suspended because the person made the application.
 (6) On receiving an application for a review, the Commissioner must—
-  (a) give the person a reasonable opportunity to state his or her case before making a decision on the matter; and
+  (a) give the person a reasonable opportunity to state their case before making a decision on the matter; and
   (b) if the application relates to a decision to place the person on the register, review the decision to place the person on the register and confirm or revoke it; and
   (c) if the application relates to a decision about the length of the person’s reporting period, review the decision and confirm or change it; and
   (d) give the person written notice of—
     (i) the decision; and
     (ii) the person’s right under section 48 to a copy of all reportable information that is held in the register in relation to the person; and
     (iii) if confirming the decision to place the person on the register or the decision about the length of the person’s reporting period, the person’s right of appeal under section 50.
-(7) If the Commissioner revokes a decision to place a person on the register, the Commissioner must ensure that the person’s relevant personal information is removed from the register, and any copies of documents, fingerprints, fingerscans, or photographs taken from the person under this Act are not kept.
-(8) If the Commissioner changes a decision about the length of a person’s reporting period, the Commissioner must ensure that the entry for the reporting period on the register is corrected.
+(7)
+(8)
 
 ### 50 Appeal
 (1) This section applies to a person who has received written notice from the Commissioner under section 49(6)﻿(d) that the Commissioner has confirmed a decision specified in section 49(3).
@@ -547,8 +663,40 @@ The Commissioner may disclose personal information in the register to a correspo
 (3) Sections 273 and 274 and subpart 12 of Part 6 of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, apply to an appeal under subsection (2).
 (4) No further appeal lies from the District Court’s determination of an appeal under this section.
 
-### 51 Exclusion of liability
-An act or omission that a person does or omits to do in good faith in the administration or execution of, or in accordance with, this Act does not subject the person personally to any action, liability, claim, or demand.
+### Subpart 3 — Administering register and storing information on Police information recording system
+
+**Administering register**
+
+### 51 Commissioner administers register
+(1) The Commissioner is responsible for administering the register.
+(2) The Commissioner must consult the chief executive of the Department of Corrections before making significant operational decisions about the way in which the register is administered.
+(3) For the purpose of administering the register, the Commissioner may appoint 1 or more of the following employees to be authorised persons:
+  (a) a Police employee (within the meaning of section 4 of the Policing Act 2008):
+  (b) an employee of the Department of Corrections nominated by the chief executive of that department.
+
+### 51A Correcting information on register
+(1) This section applies if the Commissioner, under section 49(6)﻿(c), changes a decision about the length of a person’s reporting period.
+(2) The Commissioner must ensure that the entry in the register for the reporting period is corrected.
+
+**Information stored on Police information recording system**
+
+### 51B Police may store information obtained or taken under subpart 2 of Part 2
+(1) Information obtained or taken by the Police under subpart 2 of Part 2, including identifying particulars, may be entered, recorded, and stored on a Police information recording system.
+(2) Information recorded on any Police information recording system is not register information for the purposes of this Act.
+
+**Removing information from register and Police information recording system**
+
+### 51C When information must be removed from register and Police information recording system
+(1) This section applies if—
+  (a) the Commissioner, under section 49(6)﻿(b), revokes a decision to place a person on the register; or
+  (b) the District Court, in determining an appeal brought under section 50(2), sets aside a review decision to place a person on the register.
+(2) The Commissioner must ensure that the information specified in subsection (3) is removed from—
+  (a) the register; and
+  (b) any Police information recording system in which it is entered, recorded, or stored in accordance with section 51B(1).
+(3) The specified information is—
+  (a) information reported in respect of the person under subpart 2 of Part 2; and
+  (b) copies of documents obtained under subpart 2 of Part 2; and
+  (c) fingerprints, fingerscans, or photographs of the person taken and retained under subpart 2 of Part 2.
 
 ### Subpart 4 — Restrictions on change of name by offender
 
@@ -556,8 +704,8 @@ An act or omission that a person does or omits to do in good faith in the admini
 This subpart applies despite anything to the contrary in the Births, Deaths, Marriages, and Relationships Registration Act 2021.
 
 ### 53 Application for change of name by registrable offender
-(1) A registrable offender must not apply to the Registrar-General to register a change of his or her name under the Births, Deaths, Marriages, and Relationships Registration Act 2021 without first having obtained the written approval of the Commissioner.
-(2) An offender who, without reasonable excuse, contravenes subsection (1) commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years, or a fine not exceeding $4,000, or both.
+(1) A registrable offender must not apply to the Registrar-General to register a change of their name under the Births, Deaths, Marriages, and Relationships Registration Act 2021 without first having obtained the written approval of the Commissioner.
+(2) A registrable offender who, without reasonable excuse, contravenes subsection (1) commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years, or a fine not exceeding $4,000, or both.
 
 ### 54 Approval by Commissioner
 (1) In deciding whether to approve the making of a change of name application referred to in section 53, the Commissioner must consider each of the following:
@@ -570,17 +718,26 @@ This subpart applies despite anything to the contrary in the Births, Deaths, Mar
 
 ## Part 3 — Miscellaneous matters
 
-**Regulations**
+**Secondary legislation**
 
 ### 55 Regulations
-(1) The Governor-General may, by Order in Council, make regulations for any of the following purposes:
-  (a) prescribing certain laws of foreign jurisdictions to be corresponding Acts for the purposes of this Act:
-  (b) prescribing details relating to the administration of the register:
-  (c) specifying, if a report is made otherwise than in person under section 25(2) or (5)﻿(b),—
-    (i) the circumstances in which information will be required concerning the identity of the registrable offender and the identity of the person making the report, or a document will be required verifying or supporting details in the report; and
-    (ii) the manner in which that information or document is to be provided:
-  (d) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+  (a) providing for anything this Act says may or must be provided for by regulations:
+  (b) providing for anything incidental that is necessary for carrying out, or giving full effect to, this Act.
+(2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 55A Minister may identify public sector agency as specified agency or officer
+(1) The Minister may, by notice, identify a public sector agency as a specified agency or officer for the purposes of this Act.
+(2) Before making a notice under subsection (1), the Minister must consult with the Privacy Commissioner.
+(3) In this section, public sector agency has the meaning given in section 7(1) of the Privacy Act 2020.
+(4) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+**Exclusion of liability**
+
+### 55B Exclusion of liability
+A person is immune from liability in civil proceedings for good-faith actions or omissions when—
+  (a) carrying out or intending to carry out their responsibilities under this Act; or
+  (b) performing or exercising or intending to perform or exercise their functions, duties, or powers under this Act.
 
 **Consequential amendments to Corrections Act 2004**
 
@@ -775,5 +932,112 @@ On or after commencement, section 43(1) and (1A) (as inserted by the amendment A
   (a) section 6(1) and (2) of the Sentencing Act 2002:
   (b) sections 25(g) and 26(2) of the New Zealand Bill of Rights Act 1990:
   (c) D (SC 31/2019) v New Zealand Police [2021] NZSC 2.
+
+### Part 3 — Provisions relating to Child Protection (Child Sex Offender Government Agency Registration) Amendment Act 2026
+
+### 17 Interpretation of this Part
+In this Part,—
+  - **amendment Act** means the Child Protection (Child Sex Offender Government Agency Registration) Amendment Act 2026
+  - **commencement** means the commencement of the amendment Act
+  - **pre-existing registrable offender** means a person to whom paragraph (a) or (b) of the definition of specified registrable offender applies
+  - **specified registrable offender** means a person—Offending before 14 October 2016Offending on or after 14 October 2016 and before commencementOffending on or after commencement
+    (a) to whom clause 1 or 5 applies in respect of a qualifying offence, or a corresponding offence in a foreign jurisdiction, committed before 14 October 2016; or
+    (b) who is a registrable offender, or a corresponding registrable offender, in respect of a qualifying offence, or a corresponding offence in a foreign jurisdiction, committed on or after 14 October 2016 and before commencement; or
+    (c) who is a registrable offender, or a corresponding registrable offender, in respect of a qualifying offence, or a corresponding offence in a foreign jurisdiction, committed on or after commencement.
+
+#### Subpart 1 — How Act applies to, and transitional reporting arrangements for, specified registrable offenders
+
+### 18 Application of Act as amended by amendment Act
+On or after commencement, this Act as amended by the amendment Act applies to specified registrable offenders.
+
+### 19 Pre-existing registrable offenders must report additional relevant personal information
+(1) A pre-existing registrable offender must report to the Commissioner no more than 30 days after commencement.
+(2) The report to the Commissioner must be—
+  (a) sent by post; or
+  (b) transmitted by email or other form of electronic transmission; or
+  (c) made by phone.
+(3) The report must specify any relevant personal information that—
+  (a) is required to be reported under the Act (as amended by the amendment Act); but
+  (b) was not required to be reported under the Act immediately before commencement.
+(4) However, if a pre-existing registrable offender is due to make a periodic report within 30 days of commencement, the offender—
+  (a) must make the periodic report; and
+  (b) may report the information specified in subclause (3) to the Commissioner at the same time as making the periodic report.
+(5) This clause applies despite section 34.
+(6) This clause does not limit the reporting obligations under this Act as amended by the amendment Act (see clause 18) of—
+  (a) a pre-existing registrable offender after 30 days after commencement; or
+  (b) a specified registrable offender who is not a pre-existing registrable offender.
+
+### 20 Clauses 18, 19, and 21 to 27 override any inconsistent other law
+(1) The following clauses have effect despite any other law if, or to the extent that, the other law is inconsistent with them:
+  (a) clause 18:
+  (b) clause 19:
+  (c) clauses 21 to 27.
+(2) In particular, any other law, for the purposes of subclause (1), includes any law in all or any of the following:
+  (a) section 6(1) and (2) of the Sentencing Act 2002:
+  (b) sections 25(g) and 26(2) of the New Zealand Bill of Rights Act 1990:
+  (c) D (SC 31/2019) v New Zealand Police [2021] NZSC 2.
+
+#### Subpart 2 — Transitional and savings provisions relating to changes in reporting requirements
+
+### 21 When sections 20 to 20C apply on and after commencement
+(1) Sections 20 to 20C apply only to a change in a specified registrable offender’s relevant personal information that occurs on or after commencement.
+(2) Subclause (1) is subject to clause 22.
+(3) Section 20 as in force immediately before commencement continues to apply to a change in a pre-existing registrable offender’s relevant personal information that occurs before commencement.
+
+### 22 Transitional arrangement for changes required to be reported under section 20(2) and (3)
+(1) This clause applies to a pre-existing registrable offender if,—
+  (a) before commencement, the offender reported their relevant personal information under section 16(1)﻿(e) or (f) as in force immediately before commencement; and
+  (b) in the period starting on commencement and ending 48 hours later,—
+    (i) the offender is in New Zealand; and
+    (ii) the relevant personal information described in paragraph (a) changes.
+(2) Despite section 20(2), the offender must report the change to the Commissioner no more than 72 hours after the change occurs.
+
+### 23 When section 21 applies on and after commencement
+(1) Section 21 applies only to an intent to travel that a specified registrable offender forms on or after commencement to—
+  (a) travel away from their place of residence (as defined in section 21(5)) for more than 48 hours; and
+  (b) remain within New Zealand.
+(2) Section 21(2), (5), and (6) as in force immediately before commencement continues to apply to an intent to travel that a pre-existing registrable offender forms before commencement.
+
+### 24 When section 21A applies on and after commencement
+(1) Section 21A applies only to an intent that a specified registrable offender forms on or after commencement to leave New Zealand for more than 48 hours.
+(2) Subclause (1) is subject to clause 25.
+(3) Section 21(4) and (5) as in force immediately before commencement continues to apply to an intent to travel that a pre-existing registrable offender forms before commencement.
+
+### 25 Transitional arrangement for changes required to be reported under sections 21A(2) and (3) and 25(2)
+(1) This clause applies to a specified registrable offender if, during the period starting on commencement and ending 7 days after commencement, the offender forms the intent to leave New Zealand for more than 48 hours.
+(2) Despite section 21A(2), the offender must report the intended travel to the Commissioner at least 48 hours before travelling.
+(3) Despite sections 21A(3) and 25(2), the offender must attend in person to report the following details to the Commissioner:
+  (a) the date on which the offender intends to travel out of New Zealand:
+  (b) if the offender intends to return to New Zealand,—
+    (i) the date on which the offender intends to return; and
+    (ii) the name of each country that the offender intends to travel to, and remain in for more than 48 hours; and
+    (iii) for each of those countries, the following details:
+      (A) each address at which the offender intends to stay; and
+      (B) the date on which the offender intends to arrive in the country; and
+      (C) the date on which the offender intends to travel out of the country; and
+  (c) if the offender does not intend to return to New Zealand,—
+    (i) a statement of that intention; and
+    (ii) the name of the country that the offender intends to generally reside in after leaving New Zealand.
+
+### 26 When section 22 applies on and after commencement
+(1) Section 22 applies only to a decision that a specified registrable offender makes on or after commencement to change any details reported to the Commissioner under section 21 or 21A.
+(2) Section 22 as in force immediately before commencement continues to apply to a decision that a pre-existing registrable offender makes before commencement to change any details reported to the Commissioner under section 21(2) or (4), as in force immediately before commencement.
+
+### 27 When section 23 applies on and after commencement
+(1) Section 23 applies only to an instance of travel that a specified registrable offender undertakes on or after commencement in which the offender—
+  (a) leaves New Zealand; and
+  (b) later re-enters New Zealand.
+(2) Section 23 as in force immediately before commencement continues to apply to an instance of travel undertaken by a pre-existing registrable offender in which the offender leaves New Zealand before commencement.
+
+#### Subpart 3 — Appointment as authorised person continues
+
+### 28 Appointment as authorised person continues
+(1) A person who, immediately before commencement, is an authorised person appointed under section 11(3) must, on and after commencement, be treated as a person appointed as an authorised person under section 51(3).
+(2) Subclause (1) does not limit the Commissioner’s powers under section 45 of the Legislation Act 2019.
+
+#### Subpart 4 — Amendments to Schedule 2 (qualifying offences)
+
+### 29 Offences affected by amendments
+Schedule 2 as amended by the amendment Act does not apply to a qualifying offence, or a corresponding offence in a foreign jurisdiction, committed before commencement.
 
 ## Schedule 2 — Qualifying offences
