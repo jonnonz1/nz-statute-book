@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2026-05-01_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -261,6 +261,8 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
   - **occasional transaction or activity** means—
     (a) an occasional transaction:
     (b) an occasional activity
+  - **online casino gambling** has the same meaning as in section 5 of the Online Casino Gambling Act 2026
+  - **online casino operator** has the same meaning as operator in section 5 of the Online Casino Gambling Act 2026
   - **ordering institution** —
     (a) means any person who has been instructed by a person (the payer) to electronically transfer funds controlled by the payer to a person (the payee) who may or may not be the payer on the basis that the transferred funds will be made available to the payee by a beneficiary institution; and
     (b) includes a person declared by regulations to be an ordering institution for the purposes of this Act; but
@@ -301,6 +303,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
   - **reporting entity** —
     (a) means—
       (i) a casino:
+      (ia) an online casino operator:
       (ii) a designated non-financial business or profession:
       (iii) a financial institution:
       (iv) a high-value dealer:
@@ -331,8 +334,12 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
       (i) any payment made in satisfaction, in whole or in part, of any contractual or other legal obligation; and
       (ii) a transaction or class of transactions declared by regulations to be a transaction for the purposes of this Act; but
     (c) excludes the following:
-      (i) the placing of any bet unless authorised under the Racing Industry Act 2020:
-      (ii) participation in gambling (as defined in section 4(1) of the Gambling Act 2003) unless authorised under the Racing Industry Act 2020:
+      (i) the placing of any bet unless—
+        (A) authorised under the Racing Industry Act 2020; or
+        (B) the bet is placed in the course of online casino gambling:
+      (ii) participation in gambling (as defined in section 4(1) of the Gambling Act 2003) unless—
+        (A) authorised under the Racing Industry Act 2020; or
+        (B) the gambling is online casino gambling:
       (iii) a transaction or class of transactions declared by regulations not to be a transaction for the purposes of this Act
   - **trust and company service provider** means a person (other than a law firm, a conveyancing practitioner, an incorporated conveyancing firm, an accounting practice, or a real estate agent) who carries out any of the activities described in paragraphs (a)﻿(i) to (vi) of the definition of designated non-financial business or profession
   - **trustee** has the same meaning as in section 9 of the Trusts Act 2019
@@ -385,6 +392,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
       (G) must keep identity and verification records under section 50 when standard customer due diligence is conducted:
       (H) must keep records of any audits under section 51(1)﻿(b), (2), and (3):
       (I) must audit its AML/CFT compliance obligations under section 59A if requested by an AML/CFT supervisor:
+  (da) in the case of an online casino operator, the operator carries out activities that may give rise to a risk of money laundering or financing of terrorism:
   (e) in the case of a casino, the casino carries out activities that may give rise to a risk of money laundering or financing of terrorism.
 (5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
@@ -883,7 +891,8 @@ An AML/CFT supervisor that has, in the performance and exercise of its functions
     (iii) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
     (iv) the Gambling Act 2003:
     (v) the Reserve Bank of New Zealand Act 2021 and the Acts that are prudential legislation (within the meaning of section 5 of that Act):
-    (vi) the Financial Markets Conduct Act 2013.
+    (vi) the Financial Markets Conduct Act 2013:
+    (vii) the Online Casino Gambling Act 2026.
 
 ### Subpart 2A — Prescribed transaction reports
 
@@ -1594,7 +1603,7 @@ In this subpart, unless the context otherwise requires,—
   (a) for registered banks, life insurers, and non-bank deposit takers, the Reserve Bank of New Zealand (Reserve Bank) is the relevant AML/CFT supervisor:
   (b) for persons referred to in subsection (1A) (other than banks, life insurers, and non-bank deposit takers), the Financial Markets Authority is the relevant AML/CFT supervisor:
   (c) for designated non-financial businesses or professions and high-value dealers, the Department of Internal Affairs, or another AML/CFT supervisor prescribed for the purpose, is the relevant AML/CFT supervisor:
-  (d) for TAB NZ, casinos, non-deposit-taking lenders, money changers, and other reporting entities that are not covered by paragraphs (a) to (c), the Department of Internal Affairs is the relevant AML/CFT supervisor.
+  (d) for TAB NZ, casinos, online casino operators, non-deposit-taking lenders, money changers, and other reporting entities that are not covered by paragraphs (a) to (c), the Department of Internal Affairs is the relevant AML/CFT supervisor.
 (1A) For the purposes of subsection (1)﻿(b), the persons are any of the following:
   (a) persons registered, or required to be registered, under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 by virtue of providing any of the services referred to in—
     (i) section 5(1)﻿(a), (ab), (d), (i) to (id), and (ma) of that Act; or
@@ -1679,8 +1688,8 @@ The functions of an AML/CFT supervisor are to—
 (3) The Reserve Bank may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Reserve Bank of New Zealand Act 2021, the Banking (Prudential Supervision) Act 1989, the Insurance (Prudential Supervision) Act 2010, the Financial Market Infrastructures Act 2021, and the Non-bank Deposit Takers Act 2013.
 (4) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Financial Markets Authority Act 2011, the Financial Market Infrastructures Act 2021, and the Financial Markets Conduct Act 2013 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
 (5) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Financial Markets Authority Act 2011, the Financial Market Infrastructures Act 2021, and the Financial Markets Conduct Act 2013.
-(6) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Gambling Act 2003, the Racing Industry Act 2020, and the Charities Act 2005 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
-(7) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Gambling Act 2003, the Racing Industry Act 2020, and the Charities Act 2005.
+(6) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Gambling Act 2003, the Online Casino Gambling Act 2026, the Racing Industry Act 2020, and the Charities Act 2005 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
+(7) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Gambling Act 2003, the Online Casino Gambling Act 2026, the Racing Industry Act 2020, and the Charities Act 2005.
 
 ### 138 Restriction on power to use information under section 137
 An AML/CFT supervisor may only use information obtained under section 137 if the person providing the information was advised of the purpose or purposes for which the information was obtained at the time he or she provided that information.
@@ -1720,6 +1729,7 @@ An AML/CFT supervisor may only use information obtained under section 137 if the
   (n) the Lawyers and Conveyancers Act 2006:
   (o) the New Zealand Institute of Chartered Accountants Act 1996:
   (p) the Non-bank Deposit Takers Act 2013:
+  (paaa) the Online Casino Gambling Act 2026:
   (pa) the Overseas Investment Act 2005:
   (q) the Proceeds of Crime Act 1991:
   (r) the Racing Industry Act 2020:
