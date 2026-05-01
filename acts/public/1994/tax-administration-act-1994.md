@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2026-04-01_
+_Consolidation as at 2026-05-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -10920,6 +10920,11 @@ Section 18 does not prevent the Commissioner communicating to a person who is an
 Section 18 does not prevent the Commissioner communicating information to a person who is an employee of the Department of Internal Affairs that—
   (a) the person is authorised by the department to receive; and
   (b) the Commissioner considers is not undesirable to disclose and is essential to enable the person to carry out any duty lawfully conferred on the person relating to offshore betting charges payable under subpart 1 of Part 5 of the Racing Industry Act 2020 and liable for GST.
+
+### 34B Department of Internal Affairs: online gambling duty
+Section 18 does not prevent the Commissioner from communicating information to a person who is an employee of the Department of Internal Affairs that—
+  (a) the person is authorised by the department to receive; and
+  (b) the Commissioner considers is not undesirable to disclose and is essential to enable the person to carry out any duty lawfully conferred on the person under the Online Casino Gambling Act 2026.
 
 ### 35 NZ Film Commission: government screen production payments
 (1) Section 18 does not prevent the Commissioner communicating information to a person who is an officer, employee, or agent of the New Zealand Film Commission responsible for the administration of a scheme under which government screen production payments are made and who is authorised to receive the information by the chief executive of the New Zealand Film Commission.
