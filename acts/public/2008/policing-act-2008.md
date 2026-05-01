@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2026-05-01_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -503,7 +503,7 @@ In this Part, unless the context otherwise requires,—
 Except as expressly provided in this Act, the Employment Relations Act 2000 applies in relation to the Police.
 
 ### 57 Application of Privacy Act 2020 to assessment for suitability for employment
-Nothing in information privacy principles 2, 3, and 10 set out in section 22 of the Privacy Act 2020 applies in relation to information collected, obtained, held, used, disclosed by, or disclosed to the Police for the purpose of any assessment by the Commissioner of the suitability of any particular person for employment with the Police.
+Nothing in information privacy principles 2, 3, 3A, and 10 set out in section 22 of the Privacy Act 2020 applies in relation to information collected, obtained, held, used, disclosed by, or disclosed to the Police for the purpose of any assessment by the Commissioner of the suitability of any particular person for employment with the Police.
 
 ### 58 Employment principles
 Subject to this Act, the Commissioner must operate a personnel policy that complies with the principle of being a good employer by following, as if he or she were the chief executive of a Department, the provisions of sections 73 and 74 of the Public Service Act 2020.
