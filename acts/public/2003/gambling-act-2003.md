@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2026-04-05_
+_Consolidation as at 2026-05-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -240,6 +240,8 @@ The purpose of this Act is to—
       (i) the owner of the place; and
       (ii) a person who acts as if the person were the occupier of the place; and
       (iii) a person who is involved in the care, management, or control of the place, whether or not the person is the physical occupier
+  - **online casino gambling** has the same meaning as in section 5 of the Online Casino Gambling Act 2026
+  - **online casino operator** has the same meaning as operator in section 5 of the Online Casino Gambling Act 2026
   - **operator’s licence** means a class 3 operator’s licence, a class 4 operator’s licence, or a casino operator’s licence
   - **organiser** , in relation to a class 2 or class 3 gambling activity, means the natural person who conducts the activity
   - **overseas gambling advertisement** means a form of communication that—
@@ -304,7 +306,8 @@ The purpose of this Act is to—
     (b) does not include—
       (i) gambling conducted by the Lotteries Commission; or
       (ii) gambling authorised under the Racing Industry Act 2020; or
-      (iii) subject to section 74AAA of the Racing Industry Act 2020, gambling by a person in New Zealand conducted by a gambling operator located outside New Zealand; or
+      (iia) online casino gambling; or
+      (iii) subject to section 74AAA of the Racing Industry Act 2020, gambling by a person in New Zealand conducted by a gambling operator located outside New Zealand that is not online casino gambling; or
       (iv) a sales promotion scheme that is in the form of a lottery and is conducted in New Zealand; or
       (v) class 3 gambling in the form of a lottery conducted by any gambling operator that holds a class 3 operator’s licence that allows the gambling operator to conduct a lottery
   - **responsible gambling** means lawful participation in gambling—
@@ -408,6 +411,7 @@ This Act binds the Crown.
 (1) Gambling is prohibited and illegal unless it is—
   (a) authorised by or under this Act and complies with this Act and any relevant licence, game rules, and minimum standards; or
   (b) authorised by or under the Racing Industry Act 2020 and complies with that Act and any regulations made under it; or
+  (ba) online casino gambling; or
   (c) private gambling.
 (2) The following types of gambling are prohibited and illegal and are not authorised by and may not be authorised under this Act:
   (a) bookmaking:
@@ -444,6 +448,7 @@ No compensation is payable by the Crown to any person for any loss or damage ari
   (a) the Authority under section 66 of the Casino Control Act 1990; or
   (b) the Gambling Commission under subsection (4).
 (4) The Gambling Commission may approve circumstances in which an offer or provision of credit may be made by the holder of a casino operator’s licence to a person.
+(5) This section does not apply to a person conducting online casino gambling (see section 42 of the Online Casino Gambling Act 2026).
 
 ### 16 Advertising overseas gambling prohibited
 (1) A person must not publish or arrange to publish, in New Zealand, an overseas gambling advertisement.
@@ -452,6 +457,7 @@ No compensation is payable by the Crown to any person for any loss or damage ari
   (b) an advertisement for services to prevent, minimise, or treat harm; or
   (c) a message about preventing, minimising, or treating harm; or
   (d) an advertisement for gambling equipment intended for distribution only to buyers of gambling equipment; or
+  (da) an advertisement relating to online casino gambling (see section 10 of the Online Casino Gambling Act 2026); or
   (e) an advertisement in which the publicising or promotion of gambling or a gambling operator is incidental to the purpose of the advertisement.
 (3) A person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (4) The Governor-General may, by Order in Council, restrict the application of this section, if satisfied that an order is necessary to enable New Zealand to comply with its international obligations relating to trade in services that are or will become binding on New Zealand.
@@ -512,7 +518,8 @@ A sales promotion scheme is authorised by this Act.
 (2) Additionally, this Act—
   (a) authorises private gambling; and
   (b) authorises sales promotion schemes; and
-  (c) recognises gambling authorised by or under the Racing Industry Act 2020.
+  (c) recognises gambling authorised by or under the Racing Industry Act 2020; and
+  (d) recognises gambling authorised by or under the Online Casino Gambling Act 2026.
 
 ### 21 Secretary may categorise gambling
 (1) The Secretary may, by notice, categorise any game, or category or class of game, or form of gambling, as being included in or excluded from a class of gambling if the Secretary considers that—
@@ -930,6 +937,7 @@ A class 3 operator’s licence is not transferable.
   (c) the profile of past compliance by the applicant and each key person with—
     (i) this Act, minimum standards, game rules, Gazette notices, and licence conditions; and
     (ii) the Racing Industry Act 2020 or the previous racing Acts (and any rules of racing made under any of those Acts); and
+    (iia) the Online Casino Gambling Act 2026 (including secondary legislation made, and licences granted, under that Act); and
     (iii) previous gaming Acts, and regulations made under previous gaming Acts; and
     (iv) a licence or a site approval issued under a previous gaming Act; and
   (d) any other matter that the Secretary considers relevant.
@@ -1213,6 +1221,7 @@ A class 4 operator’s licence is not transferable.
   (c) the profile of past compliance by the key person with—
     (i) this Act, minimum standards, game rules, Gazette notices, and licence conditions; and
     (ii) the Racing Industry Act 2020 or the previous racing Acts (and any rules of racing made under any of those Acts); and
+    (iia) the Online Casino Gambling Act 2026 (including secondary legislation made, and licences granted, under that Act); and
     (iii) previous gaming Acts, and regulations made under previous gaming Acts; and
     (iv) a licence or a site approval issued under a previous gaming Act; and
   (d) any other matter that the Secretary considers relevant.
@@ -3763,6 +3772,7 @@ Every holder of a class 4 venue licence or casino operator’s licence must,—
     (i) at least 1 representative of corporate societies licensed to operate gaming machines in commercial venues; and
     (ii) at least 1 representative of corporate societies licensed to operate gaming machines in non-commercial venues; and
     (iii) at least 1 representative of casino licence holders; and
+    (iiia) at least 1 representative of online casino operators; and
     (iv) TAB NZ; and
     (v) the New Zealand Lotteries Commission; and
     (vi) representatives of the providers of problem gambling services; and
@@ -3789,6 +3799,7 @@ Every holder of a class 4 venue licence or casino operator’s licence must,—
   (e) the time by which a levy must be paid, and a penalty for late payment:
   (f) the value of items W1 and W2 in the formula in section 320:
   (g) any other matters necessary or desirable to calculate, administer, collect, and enforce the levy.
+(3A) The regulations may impose the levy on an online casino operator regardless of whether the operator is in or outside New Zealand.
 (4) Regulations under this section—
   (a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
   (b) must be confirmed by an Act (see subpart 3 of Part 5 of the Legislation Act 2019).
@@ -3806,6 +3817,7 @@ Every holder of a class 4 venue licence or casino operator’s licence must,—
     (i) for TAB NZ, has the same meaning as betting profits in section 73(3) of the Racing Industry Act 2020; and
     (ii) for a gaming machine operator (including TAB NZ), has the same meaning as gaming machine profits in section 104(5); and
     (iii) for a casino operator, has the same meaning as casino win in section 12M of the Gaming Duties Act 1971; and
+    (iiia) for an online casino operator, means turnover less prizes paid and payable; and
     (iv) for the Lotteries Commission, means turnover less prizes paid and payable:
   (b) the proposed amounts of A and B, and the periods to which they apply, must take into account the latest, most reliable, and most appropriate sources of information from—
     (i) the Inland Revenue Department, TAB NZ or the department responsible for the administration of this Act on expenditure; and
