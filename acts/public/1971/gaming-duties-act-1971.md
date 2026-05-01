@@ -1,5 +1,5 @@
 # Gaming Duties Act 1971
-_Consolidation as at 2025-03-30_
+_Consolidation as at 2026-05-01_
 
 > An Act to consolidate and amend the law relating to totalisator duty and lottery duty
 
@@ -213,16 +213,25 @@ Sections 12G, 12H, 12HA, 12K, and 12L (except section 12K(2)), as far as they ar
   (d) every reference in those provisions to section 12E were a reference to section 12P.
   (e)
 
-## Part 2C — Offshore gambling duty
+## Part 2C — Online gambling duty
 
 ### 12S Interpretation
 (1) In this Part, unless the context otherwise requires,—
+  - **class 3 gambling** has the meaning set out in section 4(1) of the Gambling Act 2003
+  - **class 3 operator’s licence** has the meaning set out in section 4(1) of the Gambling Act 2003
   - **consumption charges** has the meaning set out in section 105 of the Racing Industry Act 2020
   - **gambling** has the meaning set out in section 4(1) of the Gambling Act 2003
-  - **offshore gambling** means any gambling or prize competition that a person who is resident in New Zealand pays an amount of money to participate in through the supply of remote services that are physically performed outside New Zealand
-  - **offshore gambling operator** means—
-    (a) a registered person located outside New Zealand who conducts any offshore gambling; and
-    (b) for any return period and the obligations and liabilities under sections 12U to 12W of a person who was at any time during that period an offshore gambling operator, includes that person notwithstanding that the person may have ceased, during or after the return period, to be an offshore gambling operator within the meaning of paragraph (a)
+  - **gambling operator** has the meaning set out in section 4(1) of the Gambling Act 2003
+  - **Lotteries Commission** has the meaning set out in section 4(1) of the Gambling Act 2003
+  - **lottery** has the meaning set out in section 4(1) of the Gambling Act 2003
+  - **online gambling** means any gambling or prize competition that a person who is resident in New Zealand pays an amount of money to participate in through the supply of remote services but does not include—
+    (a) gambling conducted by the Lotteries Commission; or
+    (b) gambling authorised under the Racing Industry Act 2020; or
+    (c) a sales promotion scheme that is in the form of a lottery and is conducted in New Zealand; or
+    (d) class 3 gambling in the form of a lottery conducted by any gambling operator that holds a class 3 operator’s licence that allows the gambling operator to conduct a lottery
+  - **online gambling operator** —
+    (a) means a registered person who conducts any online gambling; and
+    (b) for any return period and the obligations and liabilities under sections 12U to 12W of a person who was at any time during that period an online gambling operator, includes that person notwithstanding that the person may have ceased, during or after the return period, to be an online gambling operator within the meaning of paragraph (a)
   - **prize competition** means a scheme or competition—
     (a) for which direct or indirect consideration is paid to a person for conducting the scheme or competition; and
     (b) that distributes prizes of money or in which participants seek to win money; and
@@ -233,41 +242,42 @@ Sections 12G, 12H, 12HA, 12K, and 12L (except section 12K(2)), as far as they ar
   - **remote services** means a service that, at the time of the performance of the service, has no necessary connection between—
     (a) the place where the service is physically performed; and
     (b) the location of the recipient of the service
-  - **return period** means any period of 3 consecutive calendar months that ends with the last day of March, June, September, or December for which a statement of offshore gambling profits and offshore gambling duty payable is required to be delivered under section 12V.
-(2) For the purposes of this Part, section 8B of the Goods and Services Tax Act 1985 applies to determine whether a person is resident in New Zealand as if the offshore gambling operator were a supplier of remote services under that Act.
+  - **return period** means any period of 3 consecutive calendar months that ends with the last day of March, June, September, or December for which a statement of online gambling profits and online gambling duty payable is required to be delivered under section 12V
+  - **sales promotion scheme** has the meaning set out in section 4(1) of the Gambling Act 2003.
+(2) For the purposes of this Part, section 8B of the Goods and Services Tax Act 1985 applies to determine whether a person is resident in New Zealand as if the online gambling operator were a supplier of remote services under that Act.
 
-### 12T Offshore gambling profits
-(1) Offshore gambling profits, in relation to any offshore gambling operator and any return period, means an amount calculated using the following formula for supplies of offshore gambling for which the time of supply under section 9 of the Goods and Services Tax Act 1985 has occurred in that return period:amounts received from residents − prizes paid to residents − offshore betting amounts.
+### 12T Online gambling profits
+(1) Online gambling profits, in relation to any online gambling operator and any return period, means an amount calculated using the following formula for supplies of online gambling for which the time of supply under section 9 of the Goods and Services Tax Act 1985 has occurred in that return period:amounts received from residents − prizes paid to residents − offshore betting amounts.
 (2) In the formula in subsection (1),—
-  (a) amounts received from residents is the total amount in money received by the offshore gambling operator from persons resident in New Zealand:
-  (b) prizes paid to residents is the total amount in money paid and payable by the offshore gambling operator to persons resident in New Zealand as winnings for offshore gambling:
+  (a) amounts received from residents is the total amount in money received by the online gambling operator from persons resident in New Zealand:
+  (b) prizes paid to residents is the total amount in money paid and payable by the online gambling operator to persons resident in New Zealand as winnings for online gambling:
   (c) offshore betting amounts is the total amount in money on which consumption charges are payable under section 113 of the Racing Industry Act 2020.
 (3) If the amount calculated under the formula in subsection (1) for any return period is a negative amount, then that negative amount may be used to reduce a positive amount under the formula for the next return period.
 (4) If, after use of the negative amount described in subsection (3), an excess negative amount remains, the excess may be used to reduce a positive amount under the formula in the immediately following return period.
 (5) Subsection (4) continues to apply until the excess negative amount is extinguished.
-(6) For the purposes of determining the amount of offshore gambling profits under this section, an offshore gambling operator is treated as if they were a non-resident supplier of remote services under section 8(3)﻿(c) of the Goods and Services Tax Act 1985 to which section 77 of that Act applies.
+(6) For the purposes of determining the amount of online gambling profits under this section, an online gambling operator is treated as if they were a non-resident supplier of remote services under section 8(3)﻿(c) of the Goods and Services Tax Act 1985 to which section 77 of that Act applies.
 
-### 12U Offshore gambling duty
-There shall be paid to the Crown a duty (in this Act referred to as offshore gambling duty) at the rate of 12% of the offshore gambling profits of an offshore gambling operator for offshore gambling profits arising on or after 1 July 2024.
+### 12U Online gambling duty
+There shall be paid to the Crown a duty (in this Act referred to as online gambling duty) at the rate of 12% of the online gambling profits of an online gambling operator for online gambling profits arising on or after 1 July 2024.
 
 ### 12V Quarterly returns to be furnished to Commissioner
-(1) Every offshore gambling operator shall deliver to the Commissioner a statement in the prescribed form of—
-  (a) the offshore gambling profits of the offshore gambling operator for the previous return period; and
-  (b) the offshore gambling duty payable by the offshore gambling operator for those offshore gambling profits for that previous return period.
-(2) A person who ceases to be an offshore gambling operator shall deliver to the Commissioner a final statement as set out in subsection (1) for the part of the last return period for which they were an offshore gambling operator.
+(1) Every online gambling operator shall deliver to the Commissioner a statement in the prescribed form of—
+  (a) the online gambling profits of the online gambling operator for the previous return period; and
+  (b) the online gambling duty payable by the online gambling operator for those online gambling profits for that previous return period.
+(2) A person who ceases to be an online gambling operator shall deliver to the Commissioner a final statement as set out in subsection (1) for the part of the last return period for which they were an online gambling operator.
 (3) A statement required by subsection (1) or (2) must be delivered on or before—
   (a) 7 May if the return period ends on 31 March; or
   (b) in any other case, the 28th of the month following the end of the return period.
-(4) A statement of offshore gambling profits and offshore gambling duty payable for any return period that purports to be made by or on behalf of any offshore gambling operator shall for all purposes be deemed to have been made by that offshore gambling operator, or by that offshore gambling operator’s authority, unless the contrary is proved.
+(4) A statement of online gambling profits and online gambling duty payable for any return period that purports to be made by or on behalf of any online gambling operator shall for all purposes be deemed to have been made by that online gambling operator, or by that online gambling operator’s authority, unless the contrary is proved.
 
-### 12W Payment of offshore gambling duty
-Every offshore gambling operator shall, not later than the last day allowed under section 12V for the delivery of the statement of offshore gambling profits and offshore gambling duty payable for any return period, pay to the Commissioner the offshore gambling duty payable for that return period.
+### 12W Payment of online gambling duty
+Every online gambling operator shall, not later than the last day allowed under section 12V for the delivery of the statement of online gambling profits and online gambling duty payable for any return period, pay to the Commissioner the online gambling duty payable for that return period.
 
 ### 12X Assessments, challenges, and recovery of duty
 Sections 12G, 12H, 12HA, 12K, and 12L (except section 12K(2)), as far as they are applicable and with any necessary modifications, shall apply for the purposes of this Part as if—
-  (a) every reference in those provisions to gaming machine duty were a reference to offshore gambling duty; and
-  (b) every reference in those provisions to a gaming machine operator were a reference to an offshore gambling operator; and
-  (c) every reference in those provisions to gaming machine profits were a reference to offshore gambling profits; and
+  (a) every reference in those provisions to gaming machine duty were a reference to online gambling duty; and
+  (b) every reference in those provisions to a gaming machine operator were a reference to an online gambling operator; and
+  (c) every reference in those provisions to gaming machine profits were a reference to online gambling profits; and
   (d) every reference in those provisions to section 12D were a reference to section 12V; and
   (e) every reference in those provisions to section 12E were a reference to section 12W.
 
