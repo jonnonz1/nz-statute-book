@@ -5,7 +5,7 @@ _Consolidation as at 2026-05-06_
 This Act is the Local Government (Auckland Council) (Transport Governance) Amendment Act 2026.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 7 May 2026.
 
 ### 3 Principal Act
 This Act amends the Local Government (Auckland Council) Act 2009.
