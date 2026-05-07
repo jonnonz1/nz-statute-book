@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2026-01-01_
+_Consolidation as at 2026-05-07_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -773,6 +773,7 @@ If an enforcement officer, acting in the course of his or her official duties, b
   (a) applies to any railway on, over, or across any road; or
   (b) limits any provision in this Act or any other Act, or any provision in any rules or regulations made under this Act or any other Act, regarding the regulation of traffic on roads; or
   (c) limits the power to make bylaws conferred on a road controlling authority under any other Act.
+(5A) See section 47D of the Local Government (Auckland Council) Act 2009, which relates to the making of bylaws and resolutions by the Auckland Council under this section.
 (6) In this section,—
   - **keeper** , in relation to a mobile or travelling shop, means the person by whom or on whose behalf any business is carried on by means of the mobile or travelling shop
   - **mobile or travelling shop** —
