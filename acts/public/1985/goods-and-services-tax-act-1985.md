@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2026-04-01_
+_Consolidation as at 2026-05-07_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -123,8 +123,8 @@ _Consolidation as at 2026-04-01_
       (iv) the Canterbury Museum Trust Board continued in existence by section 5(1) of the Canterbury Museum Trust Board Act 1993:
       (v) the Council of the Auckland Institute and Museum constituted under the Charitable Trusts Act 1957:
       (vi) the Otago Museum Trust Board continued in existence by section 5(1) of the Otago Museum Trust Board Act 1996:
-      (vii) Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009):
-      (viii) Auckland Regional Holdings established by section 18 of the Local Government (Auckland) Amendment Act 2004:
+      (vii) the transport CCO (as continued by section 43 of the Local Government (Auckland Council) Act 2009):
+      (viii)
       (ix) the Auckland Council Independent Maori Statutory Board established by section 81 of the Local Government (Auckland Council) Act 2009:
       (x) the trustee of the Auckland Future Fund
   - **loyalty programme** means a consumer incentive scheme under which a customer can obtain loyalty points that are redeemable for goods or services
