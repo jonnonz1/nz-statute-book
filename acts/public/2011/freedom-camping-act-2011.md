@@ -1,5 +1,5 @@
 # Freedom Camping Act 2011
-_Consolidation as at 2023-07-13_
+_Consolidation as at 2026-05-07_
 
 ### 1 Title
 This Act is the Freedom Camping Act 2011.
@@ -128,11 +128,11 @@ In this Act, unless the context requires another meaning,—
 (2) Despite subsection (1), in this Act, local authority area, in relation to the Auckland Council,—
   (a) means an area of land within Auckland that is—
     (i) controlled or managed by the Auckland Council under any enactment; or
-    (ii) controlled or managed by Auckland Transport; or
+    (ii)
     (iii) an area of NZTA land declared to be a local authority area in accordance with a bylaw made under section 10A; and
   (b) includes any part of an area of land referred to in paragraph (a); but
   (c) does not include an area of land referred to in paragraph (a) or (b) that is permanently covered by water.
-(3) In subsection (2), Auckland and Auckland Transport have the meanings given in section 4(1) of the Local Government (Auckland Council) Act 2009.
+(3) In subsection (2), Auckland has the meaning given in section 4(1) of the Local Government (Auckland Council) Act 2009.
 
 ### 6A Meaning of NZTA land
 In this Act, NZTA land—
@@ -667,7 +667,7 @@ An enforcement officer may seize and impound a boat or motor vehicle under secti
   (b) the powers of the NZTA under the transport Acts:
   (c) the powers of LINZ under the Crown land Acts.
 (3) This Act does not limit or affect any rights a person may have under any enactment to occupy a local authority area, conservation land, or LINZ land (for example, rights of occupation under a nohoanga entitlement).
-(4) Nothing in section 50 of the Local Government (Auckland Council) Act 2009 limits or prevents the Auckland Council from exercising its powers under this Act in respect of a local authority area that forms part of the Auckland transport system (as that term is defined in section 37(1) of that Act).
+(4)
 
 ### 43 Regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
