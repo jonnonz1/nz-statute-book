@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2026-04-05_
+_Consolidation as at 2026-05-07_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -45671,7 +45671,7 @@ In this Act, unless the context requires otherwise,—
       (vi) a company or organisation, as defined in section 6(2) of the Local Government Act 2002, that is subject to the control, directly or indirectly, of the New Zealand Local Government Association Incorporated:
       (vii) New Zealand Local Government Insurance Corporation and any subsidiaries it has; but
       (viii)
-    (b) does not include Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009) or Auckland Regional Holdings (as established by section 18 of the Local Government (Auckland) Amendment Act 2004 or the New Zealand Local Government Funding Agency Limited
+    (b) does not include the transport CCO (as continued by section 43 of the Local Government (Auckland Council) Act 2009) or the New Zealand Local Government Funding Agency Limited
   - **counted associate** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **country-by-country report** is the report that must be provided to the Commissioner under section 78G of the Tax Administration Act 1994
   - **cover review period** is defined in section EY 30 (Transitional adjustments: life risk)
@@ -47017,8 +47017,8 @@ In this Act, unless the context requires otherwise,—
       (iv) the council of the Auckland Institute and Museum constituted under the Charitable Trusts Act 1957:
       (v) the Canterbury Museum Trust Board continued in existence by section 5(1) of the Canterbury Museum Trust Board Act 1993:
       (vi) the Otago Museum Trust Board continued in existence by section 5(1) of the Otago Museum Trust Board Act 1996:
-      (vii) Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009):
-      (viii) other than for the purposes of section CW 39(4) (Local authorities), Auckland Regional Holdings as established by section 18 of the Local Government (Auckland) Amendment Act 2004:
+      (vii) the transport CCO (as continued by section 43 of the Local Government (Auckland Council) Act 2009):
+      (viii)
       (ix) the New Zealand Local Government Funding Agency Limited while it is a council-controlled organisation within the meaning of section 6(1) of the Local Government Act 2002:
       (ixa)
       (x) the Auckland Council Independent Maori Statutory Board established by section 81 of the Local Government (Auckland Council) Act 2009
