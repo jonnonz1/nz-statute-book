@@ -1,5 +1,5 @@
 # New Zealand Infrastructure Commission/Te Waihanga Act 2019
-_Consolidation as at 2022-09-01_
+_Consolidation as at 2026-05-07_
 
 ### 1 Title
 This Act is the New Zealand Infrastructure Commission/Te Waihanga Act 2019.
@@ -156,7 +156,7 @@ The Commission must publish every report that is provided to the Minister under 
   (d) the New Zealand Defence Force:
   (e) a local authority, as defined in section 5(1) of the Local Government Act 2002:
   (f) a council-controlled organisation, as defined in section 6 of the Local Government Act 2002 (but disregarding subsection (4) of that section):
-  (g) Auckland Transport, as defined in section 4(1) of the Local Government (Auckland Council) Act 2009.
+  (g) the transport CCO, as defined in section 4(1) of the Local Government (Auckland Council) Act 2009.
 (7) In subsection (1), information does not include—
   (a) personal information as defined in section 7(1) of the Privacy Act 2020; or
   (b) information held by the Government Statistician that was collected under the Data and Statistics Act 2022; or
