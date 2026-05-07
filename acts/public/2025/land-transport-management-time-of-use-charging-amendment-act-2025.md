@@ -1,5 +1,5 @@
 # Land Transport Management (Time of Use Charging) Amendment Act 2025
-_Consolidation as at 2025-11-18_
+_Consolidation as at 2026-05-07_
 
 ### 1 Title
 This Act is the Land Transport Management (Time of Use Charging) Amendment Act 2025.
@@ -19,7 +19,7 @@ After section 65, insert:Time of use charging schemesPreliminary provisionsDefin
     - **enforcement authority** means any 1 or more of the following:
       (a) the Agency:
       (b) the Police:
-      (c) any local authority (and, if the scheme is in Auckland, Auckland Transport) that is specified in an Order in Council made under section 65H as being an enforcement authority
+      (c) any local authority that is specified in an Order in Council made under section 65H as being an enforcement authority
     - **registered person** means, in relation to a motor vehicle, the person registered under Part 17 of the Land Transport Act 1998 in respect of the motor vehicle
     - **scheme board** means an entity established under section 65V(3) that is responsible for a time of use charging scheme
     - **scheme region** means the region in which a time of use charging scheme operates
@@ -60,8 +60,8 @@ After section 65, insert:Time of use charging schemesPreliminary provisionsDefin
   (3) For each proposed time of use charging area, the scheme proposal must identify the anticipated change in service level (including traffic flow) caused by the proposal, including a representative sample of travel times and travel volumes for trips in the scheme region affected by the scheme.
   (1) Before submitting a scheme proposal to the responsible Minister, the scheme board—
     (a) must carry out public consultation in the scheme region; and
-    (b) must consult any local authority in the scheme region that is not a member of the scheme; and
-    (c) if the scheme is in Auckland, must consult Auckland Transport.
+    (b) must consult any local authority in the scheme region that is not a member of the scheme.
+    (c)
   (2) When carrying out public consultation under subsection (1)﻿(a), the scheme board must make the impact assessment produced under section 65ZD(1)﻿(a) available to the public.
   (1) The scheme board may, in accordance with section 65ZG, submit a scheme proposal to the responsible Minister.
   (2) The scheme proposal must be accompanied by—
@@ -82,8 +82,8 @@ After section 65, insert:Time of use charging schemesPreliminary provisionsDefin
     (b) describe the time of use scheme area; and
     (c) set the maximum charge payable by each charging class of motor vehicle under the time of use charging scheme in accordance with regulations made under section 65ZO; and
     (d) set out a methodology by which the maximum charge payable in respect of each charging class of motor vehicle under the time of use charging scheme may be increased over time; and
-    (e) specify any local authorities (and, if the scheme is in Auckland, Auckland Transport) that are an enforcement authority for the purposes of the time of use charging scheme; and
-    (f) specify the local authorities (and, if the scheme is in Auckland, Auckland Transport) that may exercise the powers described in section 65ZJ; and
+    (e) specify any local authorities that are an enforcement authority for the purposes of the time of use charging scheme; and
+    (f) specify the local authorities that may exercise the powers described in section 65ZJ; and
     (g) identify the anticipated change in service level caused by the time of use charging scheme, including a representative sample of travel times and travel volumes for trips in the scheme region affected by the scheme; and
     (h) specify an investment approach prescribing the activity classes to be funded from net time of use charging scheme revenues and the investment principles to be applied in making funding allocations in accordance with the purpose of the Act.
   (3) An order made under subsection (1) may—
@@ -100,7 +100,7 @@ After section 65, insert:Time of use charging schemesPreliminary provisionsDefin
   (1) Following a direction from a scheme board under section 65Z, the Agency must, by notice, describe each time of use charging area by—
     (a) specifying the area or areas within the time of use scheme area in which the time of use charging scheme will operate; and
     (b) describing the places within each time of use charging area at which a time of use charge must be paid.
-  (2) The Agency may make a notice under subsection (1) only if satisfied that the scheme board has publicly consulted on the proposed time of use charging area (including consulting with local authorities that are not members of the scheme and, if the scheme is in Auckland, Auckland Transport).
+  (2) The Agency may make a notice under subsection (1) only if satisfied that the scheme board has publicly consulted on the proposed time of use charging area (including consulting with local authorities that are not members of the scheme ).
   (3) A notice made under subsection (1) must not come into force less than 28 days before a land transport record is created in respect of the information in that notice.
   (4) A notice made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
   (1) Following a direction from a scheme board under section 65Z, the Agency must, by notice, set the charges payable in respect of a motor vehicle passing through a place at which a time of use charge must be paid, and those charges must be—
@@ -114,7 +114,7 @@ After section 65, insert:Time of use charging schemesPreliminary provisionsDefin
     (b) the reasons why the scheme board wants the scheme to be terminated; and
     (c) a date by which the scheme board wants the scheme to be terminated; and
     (d) any other information that the responsible Minister considers necessary.
-  (3) The request must include a report by the scheme board on the views of any local authorities within the scheme region (and, if the scheme is in Auckland, Auckland Transport) that are not members of the scheme.
+  (3) The request must include a report by the scheme board on the views of any local authorities within the scheme region that are not members of the scheme.
   (4) The responsible Minister may, in their complete discretion after considering a request for a time of use charging scheme to be terminated,—
     (a) recommend to the Governor-General that the time of use charging scheme be terminated by Order in Council made under section 65H in the manner set out in the request; or
     (b) refer the request back to the scheme board, asking it to reconsider the request; or
@@ -244,8 +244,8 @@ After section 65, insert:Time of use charging schemesPreliminary provisionsDefin
     (b) set out whether delivery is the responsibility of—
       (i) the Agency; or
       (ii) a local authority that is a member of the scheme; or
-      (iii) a local authority that is not a member of the scheme; or
-      (iv) if the scheme is in Auckland, Auckland Transport.
+      (iii) a local authority that is not a member of the scheme.
+      (iv)
   (5) Each local authority receiving funds under subsection (4) must—
     (a) operate a time of use charging disbursement account into which must be paid all money received by the local authority under an investment agreement; and
     (b) make any payments out of that account only in accordance with—
@@ -308,7 +308,7 @@ After section 65, insert:Time of use charging schemesPreliminary provisionsDefin
   (2) The territorial authority must facilitate the scheme board and its members in operating scheme collection and traffic monitoring infrastructure.
   (1) This section applies to a local authority that is not a member of a scheme.
   (2) The local authority must undertake any land transport activity investment funded by a scheme’s revenue in accordance with an investment agreement reached under section 65ZB(1) or (2).
-  (1) This section applies to the Agency, and any local authority (or, if the scheme is in Auckland, Auckland Transport) specified in an order made under section 65H.
+  (1) This section applies to the Agency, and any local authority specified in an order made under section 65H.
   (2) The powers in this section do not apply to a private road (within the meaning of section 315 of the Local Government Act 1974).
   (3) An entity to which this section applies has the powers listed in subsections (4) to (6)—
     (a) for the purposes of implementing or operating a time of use charging scheme established under section 65H; and
