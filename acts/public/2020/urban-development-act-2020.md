@@ -1,5 +1,5 @@
 # Urban Development Act 2020
-_Consolidation as at 2024-02-17_
+_Consolidation as at 2026-05-07_
 
 ### 1 Title
 This Act is the Urban Development Act 2020.
@@ -84,7 +84,6 @@ In this Act, unless the context otherwise requires,—
   - **administrative charge** means a charge that may be fixed or imposed under section 242
   - **alter** is defined in section 150(2) for the purposes of water-related infrastructure powers
   - **amenity values** has the same meaning as in section 2(1) of the Resource Management Act 1991
-  - **Auckland Transport** means the entity established by section 38 of the Local Government (Auckland Council) Act 2009
   - **authorised person** is defined in section 279 for the purposes of subpart 1 of Part 6
   - **building consent** has the same meaning as in section 7 of the Building Act 2004
   - **building consent authority** has the same meaning as in section 7 of the Building Act 2004
@@ -256,9 +255,7 @@ In this Act, unless the context otherwise requires,—
   - **relevant local authority** , in relation to a specified development project (or a project being assessed as a potential specified development project), means—
     (a) every regional council whose region includes land in the project area (or proposed project area); and
     (b) every relevant territorial authority for the project
-  - **relevant territorial authority** ,—
-    (a) in relation to a specified development project (or a project being assessed as a potential specified development project), means every territorial authority whose district includes land in the project area (or proposed project area):
-    (b) for the purposes of subpart 4 of Part 3, is defined in section 142(1) as including, in Auckland, Auckland Transport
+  - **relevant territorial authority** , in relation to a specified development project (or a project being assessed as a potential specified development project), means every territorial authority whose district includes land in the project area (or proposed project area)
   - **requiring authority** has the same meaning as in section 166 of the Resource Management Act 1991 and includes Kāinga Ora, subject to section 131(2) and (3)
   - **reserve** has the same meaning as in section 2(1) of the Reserves Act 1977
   - **resource consent** has the same meaning as in section 2(1) of the Resource Management Act 1991
@@ -1863,7 +1860,6 @@ Bylaw changes
   - **bylaw-making authority** , in relation to a bylaw change, means the relevant local authority, road controlling authority, or other statutory authority with the power to make the bylaw change under a specified enactment
   - **controlling authority** , in relation to water-related infrastructure, means the territorial authority or other agency responsible for the operation and maintenance of that water-related infrastructure
   - **owner** , in relation to land that is a road and the exercise of water-related infrastructure powers, means the person that has jurisdiction over the road (and, if Kāinga Ora has the roading powers in relation to the road, means Kāinga Ora)
-  - **relevant territorial authority** , in Auckland, includes Auckland Transport
   - **water-related infrastructure** means infrastructure associated with, or necessary for, any of the following:
     (a) three waters services:
     (b) the supply of water through water races:
@@ -3370,9 +3366,7 @@ Kāinga Ora must have a policy that is designed to assist Kāinga Ora—
 (3) This section does not limit section 295.
 
 ### 297 Certain delegations subject to relevant territorial authority approval
-(1) This section applies if, in relation to a specified development project, the board of Kāinga Ora delegates any of its functions and powers to—
-  (a) a local authority; or
-  (b) in Auckland, Auckland Transport.
+(1) This section applies if, in relation to a specified development project, the board of Kāinga Ora delegates any of its functions and powers to a local authority.
 (2) In addition to the approval required under section 73(1)﻿(d) of the Crown Entities Act 2004, the delegate must first be approved by the relevant territorial authority.
 
 ### Subpart 4 — Amendments
