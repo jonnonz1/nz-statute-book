@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2026-05-07_
 
 > Title
 
@@ -599,7 +599,7 @@ The Minister may, by notice in the Gazette, declare that any access way or servi
 (4)
 (5)
 (6)
-(7) In this section, territorial authority includes Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009).
+(7)
 
 ### 63 Delegations
 (1) Any delegation by the Agency of its functions, duties, or powers under section 62 shall be effected by a resolution of the Agency, and may be either absolute or subject to such conditions as the Agency may by that or any subsequent resolution determine.
