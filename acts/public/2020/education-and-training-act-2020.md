@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2026-02-23_
+_Consolidation as at 2026-05-08_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
