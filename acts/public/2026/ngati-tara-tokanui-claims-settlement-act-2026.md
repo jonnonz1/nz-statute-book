@@ -1,0 +1,1191 @@
+# Ngāti Tara Tokanui Claims Settlement Act 2026
+_Consolidation as at 2026-05-18_
+
+### 1 Title
+This Act is the Ngāti Tara Tokanui Claims Settlement Act 2026.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 1 — Preliminary matters, historical account, acknowledgements and apology, and settlement of historical claims
+
+**Preliminary matters**
+
+### 3 Purpose
+The purpose of this Act is—
+  (a) to record in English and te reo Māori the acknowledgements and apology given by the Crown to Ngāti Tara Tokanui in the deed of settlement; and
+  (b) to give effect to certain provisions of the deed of settlement that settles the historical claims of Ngāti Tara Tokanui.
+
+### 4 Provisions to take effect on settlement date
+(1) The provisions of this Act take effect on the settlement date unless stated otherwise.
+(2) Before the date on which a provision takes effect, a person may prepare or sign a document or do anything else that is required for—
+  (a) the provision to have full effect on that date; or
+  (b) a power to be exercised under the provision on that date; or
+  (c) a duty to be performed under the provision on that date.
+
+### 5 Act binds the Crown
+This Act binds the Crown.
+
+### 6 Outline
+(1) This section is a guide to the overall scheme and effect of this Act, but does not affect the interpretation or application of the other provisions of this Act or of the deed of settlement.
+(2) This Part—
+  (a) sets out the purpose of this Act; and
+  (b) provides that the provisions of this Act take effect on the settlement date unless a provision states otherwise; and
+  (c) specifies that the Act binds the Crown; and
+  (d) sets out a summary of the historical account, and records the text of the acknowledgements and apology given by the Crown to Ngāti Tara Tokanui, as recorded in the deed of settlement; and
+  (e) defines terms used in this Act, including key terms such as Ngāti Tara Tokanui and historical claims; and
+  (f) provides that the settlement of the historical claims is final; and
+  (g) provides for—
+    (i) the effect of the settlement of the historical claims on the jurisdiction of a court, tribunal, or other judicial body in respect of the historical claims; and
+    (ii) a consequential amendment to the Treaty of Waitangi Act 1975; and
+    (iii) the effect of the settlement on certain memorials; and
+    (iv) the exclusion of the limit on the duration of a trust; and
+    (v) access to the deed of settlement.
+(3) Part 2 provides for cultural redress, including—
+  (a) cultural redress requiring vesting in the trustees of the fee simple estate in certain cultural redress properties; and
+  (b) cultural redress that does not involve the vesting of land, namely,—
+    (i) a whenua rāhui applying to a certain area of land; and
+    (ii) a statutory acknowledgement by the Crown of the statements made by Ngāti Tara Tokanui of their cultural, historical, spiritual, and traditional association with certain statutory areas and the effect of that acknowledgement; and
+    (iii) protocols for primary industries and taonga tūturu on the terms set out in the documents schedule.
+(4) Part 3 provides for commercial redress, including,—
+  (a) in subpart 1, the transfer of land; and
+  (b) in subpart 2, the vesting of certain Crown owned minerals and related matters.
+(5) There are 3 schedules, as follows:
+  (a) Schedule 1 describes the cultural redress properties:
+  (b) Schedule 2 describes the whenua rāhui area to which the whenua rāhui applies:
+  (c) Schedule 3 describes the statutory areas to which the statutory acknowledgement relates.
+
+**Summary of historical account, acknowledgements, and apology of the Crown**
+
+### 7 Summary of historical account, acknowledgements, and apology
+(1) Section 8 summarises in English and te reo Māori the historical account in the deed of settlement, setting out the basis for the acknowledgements and apology.
+(2) Sections 9 and 10 record in English and te reo Māori the text of the acknowledgements and apology given by the Crown to Ngāti Tara Tokanui in the deed of settlement.
+(3) The acknowledgements and apology are to be read together with the historical account recorded in part 2 of the deed of settlement.
+
+### 8 Summary of historical account
+(1) Ngāti Tara and Ngāti Tokanui had distinct whakapapa but were joined over many generations through intermarriage and together created the iwi known today as Ngāti Tara Tokanui. During the 19th century, Ngāti Tara rangatira described themselves primarily as Ngāti Koi.
+(2) Between 1865 and 1868, the Crown confiscated 290,000 acres of land around Tauranga. All customary interests in this land were extinguished, although the Crown returned most of the district to other Māori, and retained 50,000 acres. Ngāti Tara Tokanui had interests in lands that were included in the confiscation. In 1864, the Crown purchased from another iwi some of the land in the Katikati and Te Puna blocks. Ngāti Koi lands were included in these transactions. The Crown acknowledged the interests of other iwi in subsequent negotiations, but Ngāti Koi had no land returned and do not appear to have signed the sale deeds or to have been paid by the Crown.
+(3) In December 1868, Ngāti Tara Tokanui rangatira were among those who signed an agreement with the Crown to establish a goldfield at Ohinemuri. In 1870, Ngāti Tara Tokanui rangatira Te Keepa Raharuhi applied to the Native Land Court for a title investigation for Owharoa in order to allow gold mining. The court awarded Owharoa to Ngāti Tara Tokanui.
+(4) The iwi accumulated debts through the Native Land Court process; by 1875, 6 of Owharoa’s 7 owners had sold their interests to private buyers. Further sales took place in the 1880s and 1890s. Today just 2 acres of Ngāti Tara Tokanui’s original holdings in the Owharoa blocks remain in Māori ownership.
+(5) From 1872, a Crown agent began making advance payments to individuals the agent deemed to have interests in the Ohinemuri block. In 1875, the Crown realised that it was not going to be able to obtain the agreement of enough owners to purchase the Ohinemuri block, and it negotiated a lease instead. Among the 88 individuals who signed the lease were at least 8 members of the iwi. The Crown applied all the lease income to the repayment of the advances despite not all of the owners having accepted these advances. As a result, Ngāti Tara Tokanui did not receive any income from gold mining in their rohe.
+(6) Between 1877 and 1882, a Crown official again made advance payments to individuals the official deemed to have interests in Ohinemuri. Because the Crown had proclaimed monopoly powers over Ohinemuri, Māori had no option but to alienate their land to private parties if they needed to sell their land. In 1882, the Native Land Court awarded the Crown 31,714 acres in Ohinemuri 17 block. The remaining 3,746-acre Ohinemuri 17A block went to the non-sellers (including Te Keepa Raharuhi). Some 1,170 acres and 3 wāhi tapu sites were reserved for Ngāti Koi, half the reserves they thought they had been promised. After further Crown purchases, by 1896 Ngāti Tara Tokanui were left with approximately 2,500 acres of land.
+(7) In 1895, the Crown authorised the discharge of mine tailings into the Waihou and Ohinemuri Rivers, including cyanide-treated waste. In 1900, a Crown official estimated that about 300 Māori needed an alternative water supply because the Ohinemuri River was polluted and unfit for both human and animal consumption.
+(8) In 1902, Te Keepa Raharuhi and other Māori protested that the discharge of mining waste into the rivers silted up the river beds, causing flooding and extensive crop damage. The Crown eventually initiated a number of schemes to try and control the flooding, resulting in significant changes to the Waihou and Ohinemuri Rivers and their tributaries and the surrounding lands from which Ngāti Tara Tokanui had traditionally drawn resources.
+(9) The wetland areas of the Hauraki Plains were a significant source of food and other resources for Ngāti Tara Tokanui. In the early 1900s, the Crown established the Hauraki Plains Drainage Scheme (1908) to drain the swamp and develop it for farming. The scheme was further expanded in the 1930s. From 1978 to 1995, land that Ngāti Tara Tokanui had traditionally occupied was taken under the Public Works Act for works related to the drainage scheme. Of the 2,500 acres Ngāti Tara Tokanui retained by 1896, only 232 acres remain as Māori freehold land today.
+He Whakarāpopotonga Hītori e Whakaaetia ana e Ngāti Tara Tokanui
+(1) He motuhake ngā whakapapa o Ngāti Tara me Ngāti Tokanui i mua, engari nā te moemoe tahi i roto i ngā whakatipuranga, ka tuituia rātou kia iwi kotahi, ka tupu ko Ngāti Tara Tokanui o ēnei rā. E ai ki ngā rangatira o Ngāti Tara, i te rau tau tekau mā iwa, ko Ngāti Koi kē te ingoa o tō rātou iwi.
+(2) I waenganui i te tau 1865 me te tau 1868, ka raupatuhia e te Karauna tētahi 290,000 eka i ngā whenua huri noa i Tauranga. Tineia ana te mana o te tangata whenua i ēnei whenua, ahakoa te whakahoki a te Karauna i te nuinga o taua rohe ki ētahi atu Māori, me te pupuri tonu i tētahi 50,000 eka mōna. He pānga ō Ngāti Tara Tokanui i ngā whenua i riro i tēnei raupatu. I te tau 1864, ka hokona e te Karauna ētahi whenua i ngā poraka o Katikati me Te Puna mōna, i tētahi atu iwi. Ka riro ētahi whenua o Ngāti Koi i tēnei tauhokohoko. I whakaae te Karauna he pānga o ētahi atu iwi i ngā whakawhitinga kōrero o muri mai, engari kāore i whakahokia he whenua ki a Ngāti Koi, ka mutu kāore a Ngāti Koi i haina i ngā pukapuka hoko, kāore hoki rātou i whiwhi utu i te Karauna.
+(3) I te marama o Tihema 1868, ko ngā rangatira o Ngāti Tara Tokanui tonu ētahi i haina i tētahi whakaaetanga me te Karauna ki te whakatū mahinga kōura i Ohinemuri. I te tau 1870, ka tono te rangatira o Ngāti Tara Tokanui, a Te Keepa Raharuhi, ki te Kōti Whenua Māori kia āta tirohia te taitara mō te Owharoa kia whakaaetia te mahinga kōura. Ka whakawhiwhia e te Kōti a Owharoa ki a Ngāti Tara Tokanui.
+(4) Ka emi haere ngā nama a te iwi i te whaitanga i ngā tikanga Kōti Whenua Māori, taka rawa ki te tau 1875, kua hokona atu e te tokoono o te hunga whai pānga tokowhitu ō rātou pānga ki ētahi kaihoko tūmataiti. Ka hokona atu anō ētahi i ngā ngahurutanga tau o te 1880 me te 1890. Taka mai ki tēnei rā, e rua eka noa o ngā whenua o Ngāti Tara Tokanui i ngā poraka i Owharoa, kei te puritia tonuhia e te Māori.
+(5) Mai i te tau 1872, ka tīmata tētahi o ngā kanohi o te Karauna, ki te utu tōmua, arā, i mua i te whakawhiwhinga taitara ki te whenua, ki te tangata takitahi e whakaaro ana ia e whai pānga ana ki te poraka o Ohinemuri. I te tau 1875, ka mōhio te Karauna kua kore e taea e ia te whakaaetanga a tērā tokomaha o te hunga whai pānga e tika ana hei hoko i te poraka o Ohinemuri, ka tahuri ia ki te whai rīhi. O te hunga e 88 i haina i te rīhi, ko tētahi tokowaru nō te iwi tonu. Ka whakapaua e te Karauna ngā moni rīhi katoa hei whakaea i ngā utunga tōmua ahakoa kāore te hunga whai pānga katoa i kawe ake i aua utunga tōmua. Ko te hua o tēnei, kāore a Ngāti Tara Tokanui i whiwhi utu i ngā mahinga kōura i tō rātou rohe.
+(6) I waenganui i te tau 1877 me te tau 1882, ka tukua anō e tētahi āpiha a te Karauna he utu tōmua ki ētahi tāngata e whakaaro ana ia he pānga ō rātou i Ohinemuri. I te mea kua pānuitia e te Karauna nōna te mana katoa i Ohinemuri, kāore he huringa kē mō te Māori atu i te hoko i ō rātou whenua ki te kāhui tūmataiti, ina mate rātou ki te hoko i ō rātou whenua. I te tau 1882, ka whakawhiwhia e te Kōti Whenua Māori tētahi 31,714 eka i Ohinemuri 17 ki te Karauna. Ko ngā eka e 3,746 e toe ana i whakawhiwhia ki te hunga whai pānga kāore i hoko (ko Te Keepa Raharuhi tonu tētahi). Ko tētahi 1,170 eka me ētahi wahi tapu e toru i tohua mō Ngāti Koi, ka mutu ko tētahi hāwhe noa tēnei o ngā whenua i whakaaro rātou kua oatihia ki a rātou. Ka haere tonu ngā mahi hoko a te Karauna, taka rawa ki te tau 1896, kei tōna 2,500 eka noa te whenua e mahue mai ana ki a Ngāti Tara Tokanui.
+(7) I te tau 1895, ka whakamanahia e te Karauna te tuku parahanga mahinga kōura ki ngā awa o Waihou me Ohinemuri, tae atu ki ngā parahanga kua whāngaihia ki te cyanide. I te tau 1900, ka whakatau tētahi māngai o te Karauna me mātua whai puna wai hou ētahi tāngata Māori e 300 i te mea kua tino kino ngā wai o Ohinemuri, he kimi mate te mahi ki te inumia e te tangata, e te kararehe rānei.
+(8) I te tau 1902, ka whakahē a Te Keepa Raharuhi me ētahi atu Māori i te nui o te para e haupū mai ana i te takere o ngā awa, i ngā mahi tuku parahanga mahinga kōura ki te awa, me te aha, kua kino kē atu ngā waipuke, kua hē katoa ngā māra kai. Nā wai, nā wai, ka whakaritea e te Karauna ētahi kaupapa hei ārai atu i te waipuke, ko te hua o tēnei, ko te tino rerekē rawa atu o ngā awa o te Waihou me Ohinemuri, tae atu ki ō rāua kautawa, me ngā whenua huri noa, ngā whenua i whai oranga ai a Ngāti Tara Tokanui mai rā anō.
+(9) Ko ngā wairepo i ngā raorao o Hauraki te oranga nui o Ngāti Tara Tokanui, taha kai, taha rauemi. I ngā tau tōmua o te ngahurutanga tau 1900, ka whakatūria e te Karauna tana kaupapa whakatahe i te wai i ngā Raorao o Hauraki, kia kore ai te wai i ngā repo, kia pai ai mō te ahuwhenua. Ka whakawhānuihia te kaupapa nei i te ngahurutanga tau 1930. Mai i te tau 1978 ki te tau 1995, ka tangohia ngā whenua i nohoia e Ngāti Tara Tokanui mai rā anō i raro i te Ture Mahi Tūmatanui, mō ngā mahi e pā ana ki te whakatahe wai. O ngā eka e 2,500 e pupuri tonuhia ana e Ngāti Tara Tokanui i te tau 1896, i tēnei rā e 232 eka noa e noho whenua nama kore ana ki te Māori.
+
+### 9 Acknowledgements
+(1) The Crown acknowledges that until now it has failed to deal with the long-standing grievances of Ngāti Tara Tokanui in an appropriate way and that recognition of, and provision of redress for, these grievances is long overdue.
+(2) The Crown acknowledges that the Tauranga confiscation/raupatu and the subsequent Tauranga District Lands Act 1867 and Tauranga District Lands Act 1868 compulsorily extinguished all customary interests within the confiscation district, including those of Ngāti Tara Tokanui, and this was unjust and breached te Tiriti o Waitangi/the Treaty of Waitangi and its principles.
+(3) The Crown acknowledges that it failed to actively protect Ngāti Tara Tokanui interests in lands that they wished to retain when it initiated the purchase of Te Puna and Katikati blocks in 1864 without investigating the rights of Ngāti Tara Tokanui, and this failure was in breach of te Tiriti o Waitangi/the Treaty of Waitangi and its principles.
+(4) The Crown further acknowledges that—
+  (a) Ngāti Tara Tokanui whānau and hapū had no choice but to participate in the Native Land Court system to protect their land against claims from others and to integrate land into the modern economy; and
+  (b) the native land system caused division between hapū, and the Native Land Court title determination process carried significant costs, including survey and hearing costs, which at times led to further alienations of Ngāti Tara Tokanui land; and
+  (c) the operation and impact of the native land laws, in particular the awarding of land to individual members of Ngāti Tara Tokanui rather than to the iwi or hapū, made those lands more susceptible to partition, fragmentation, and alienation; and
+  (d) this contributed to the further erosion of the traditional tribal structures of Ngāti Tara Tokanui, which were based on collective tribal and hapū custodianship of land, and the Crown failed to take adequate steps to protect those structures and this was a breach of te Tiriti o Waitangi/the Treaty of Waitangi and its principles.
+(5) The Crown acknowledges that—
+  (a) it sought to purchase Ngāti Tara Tokanui interests in land blocks before title to the land was determined by the Native Land Court, making payments that sometimes took the form of goods from storekeepers charged against Ngāti Tara Tokanui land; and
+  (b) it made these payments despite recognising that they created severe divisions among Māori of the area; and
+  (c) it agreed to lease the Ohinemuri block from some of the owners in 1875 and assumed control of the leased land without the consent of all the owners. All the rents payable to Ngāti Tara Tokanui were used to repay the advances paid before 1875 even though some of the owners had not accepted any of these advances; and
+  (d) it resumed purchasing Ohinemuri in 1877 despite its commitment in 1875 to refrain from purchasing Ohinemuri lands; and
+  (e) it used monopoly powers in all negotiations to purchase Ngāti Tara Tokanui lands; and
+  (f) the combined effect of these actions was that the Crown failed to actively protect the interests of Ngāti Tara Tokanui, and this was a breach of te Tiriti o Waitangi/the Treaty of Waitangi and its principles.
+(6) The Crown acknowledges that lands of significance to Ngāti Tara Tokanui near Paeroa and elsewhere were acquired by the Crown for the Hauraki Plains Drainage Scheme (1908), including by means of compulsory takings. The Crown acknowledges that the loss of these lands hindered Ngāti Tara Tokanui access to urupā, kaimoana, and other resources. The Crown also acknowledges that its public works takings are a significant grievance for Ngāti Tara Tokanui.
+(7) The Crown acknowledges that the cumulative effect of its actions and omissions left Ngāti Tara Tokanui virtually landless by the 1920s. The Crown’s failure to ensure that Ngāti Tara Tokanui retained sufficient lands for its present and future needs was a breach of te Tiriti o Waitangi/the Treaty of Waitangi and its principles.
+(8) The Crown acknowledges that—
+  (a) the alienation of Ngāti Tara Tokanui from their lands has profoundly affected their economic, social, and cultural development; and
+  (b) Ngāti Tara Tokanui’s virtual landlessness since the 1920s has contributed to high levels of migration of Ngāti Tara Tokanui and that most Ngāti Tara Tokanui now live outside their rohe; and
+  (c) this has severely affected the way te reo Māori and knowledge of tikanga Māori practices are passed between generations of Ngāti Tara Tokanui.
+(9) The Crown acknowledges that it is an ongoing grievance for Ngāti Tara Tokanui that, in 1978, their links with important urupā at Kotangitangi and Rauwharangi were destroyed when these urupā were awarded to other iwi.
+(10) The Crown acknowledges that environmental changes and pollution since the 19th century have been a source of distress and grievance for Ngāti Tara Tokanui. In particular, the Crown acknowledges that—
+  (a) gold-mining activities since 1895 have polluted and degraded the Ohinemuri and Waihou Rivers, and this has caused significant harm to the health and well-being of Ngāti Tara Tokanui communities that relied upon the rivers for physical and spiritual sustenance; and
+  (b) modifications to the course of the Waihou and Ohinemuri Rivers and their tributaries since the 1890s have drained resource-rich wetlands, destroyed Ngāti Tara Tokanui wāhi tapu, and caused significant harm to kaimoana sources relied on by Ngāti Tara Tokanui.
+(11) The Crown further acknowledges that Ngāti Tara Tokanui communities have endured social deprivation for too long.
+Whakaaetanga o te Karauna ki a Ngāti Tara Tokanui
+(1) E whakaae ana te Karauna kāore anō ia kia huri ki te whakatika i ngā nawe tuku iho a Ngāti Tara Tokanui i runga i te tika, me tana whakaae hoki kua tae noa mai te wā mō te whakamana me te tāpae paremata mō aua nawe.
+(2) E whakaae ana te Karauna nā te raupatu o Tauranga me ngā Ture e kīa nei ko ngā Tauranga District Lands Act 1867 and 1868 i muru pokanoa ngā whāinga take tuku iho katoa i roto i te rohe raupatu, tae atu ki ērā o Ngāti Tara Tokanui, ā, kāore hoki tērā i tika, e takahi ana i te Tiriti o Waitangi me ōna mātāpono.
+(3) E whakaae ana hoki te Karauna kāore i āta tika tana tiaki i ngā pānga tūturu o Ngāti Tara Tokanui i roto i ngā whenua i hiahia rātou ki te pupuru, i tana huringa ki te hoko i ngā poraka o Te Puna me Katikati i te tau 1864, me tāna kore e tūhura i ngā whāinga tika o Ngāti Tara Tokanui, ā, he takahi hoki tēnei i te Tiriti o Waitangi me ōna mātāpono.
+(4) E whakaae ana anō hoki te Karauna—
+  (a) kāore he huarahi kē atu i wātea ki ngā whānau me ngā hapū o Ngāti Tara Tokanui ki te whai wāhi ki roto i ngā whakawā o te Kōti Whenua Māori, hei tiaki i ō rātou whenua i ngā kerēme a ētehi, kia haumitia hoki ō rātou whenua ki roto i te ōhanga hou; ā
+  (b) nā ngā whakaritenga whenua Māori i tupu ai te wehewehe o ngā hapū, ā, nā ngā whakaritenga taitara Kōti Whenua Māori i tau ai ngā nama tino nui ki a rātou, tae atu ki ngā utunga mō te rūri me ngā rā whakawā, ā, nā konei hoki ka ngaro ētehi atu o ngā whenua o Ngāti Tara Tokanui; ā
+  (c) nā te mahinga me te pānga o ngā ture whenua Māori; otirā nā te whakawhiwhinga o ngā whenua ki te hunga takitahi o Ngāti Tara Tokanui, kaua ki ō rātou iwi me ō rātou hapū, i ngāwari ai te kotikoti i aua poraka, te wāwāhi rānei, te ngaro rawa atu rānei; ā
+  (d) nā konei i hohoro ai te waimehatanga o ngā tikanga ā-iwi o Ngāti Tara Tokanui me te kaupapa pupuru whenua i herea ki te mana o te iwi me te hapū; ā, kīhai te Karauna i huri mai ki te whaiwhai i ngā mahi e tika ana hei tiaki i aua whakaritenga, ā, ka noho tēnei hei takahitanga i te Tiriti o Waitangi me ōna mātāpono.
+(5) E whakaae ana anō hoki te Karauna—
+  (a) i tahuri ia ki te hoko mai i ngā pānga o Ngāti Tara Tokanui i ngā poraka whenua i mua i te whakataunga o te taitara e te Kōti Whenua Māori, arā, nā te utu mō aua whenua, ā, i ētehi wā ko aua utunga he rawa, he taonga nā ngā kaipupuru toa hokohoko, i namatia ki ngā whenua o Ngāti Tara Tokanui; ā
+  (b) i haere āna utunga pēnei ahakoa tana mōhio nā ēnei utunga i wehewehe te iwi Māori o taua rohe; ā
+  (c) i whakaae ia ki te rīhi i te poraka o Ōhinemuri mai i ētehi o ngā kaipupuru whenua i te tau 1875, me tana whakaae ki te whakahaere i ētehi o aua whenua rīhi, me te kore tonu o ngā kaipupuru katoa e whakaae. Ko ngā rēti katoa i tika kia utua ki a Ngāti Tara Tokanui i riro hei utu i ngā utu tōmua i tukua mai i mua ake i te tau 1875 ahakoa kāore anō ētehi o ngā kaipupuri whenua kia tango i tētehi o aua utunga tōmua; ā
+  (d) i haere tonu anō tāna hoko i Ōhinemuri i te tau 1877 ahakoa tana kī taurangi i te tau 1875 e kore e hokona e ia ngā whenua o Ōhinemuri; ā
+  (e) i whakamahia e ia tōna māna tokitoki i ngā whakawhitinga kōrero katoa hei hoko i ngā whenua o Ngāti Tara Tokanui; ka mutu; ā
+  (f) i te haupūtanga o ēnei mahi katoa kīhai te Karauna i āta tiaki mārire i ngā pānga o Ngāti Tara Tokanui, ā, he takahi tēnei i te Tiriti o Waitangi me ōna mātāpono.
+(6) E whakaae ana te Karauna ko ngā whenua i noho hei whenua nui ki a Ngāti Tara Tokanui i te takiwā o Paeroa me ētehi atu wāhi i hokona e te Karauna mō te Hauraki Plains Drainage Scheme (1908), tae atu ki ētehi tangohanga i āta whakahaua. E whakaae ana anō te Karauna nā te ngaromanga o aua whenua i raru ai te uru a Ngāti Tara Tokanui ki ō rātou urupā, ki ā rātou kaimoana, me ērā atu taonga. E whakaae ana hoki te Karauna ko āna tangohanga whenua mō ngā mahi tūmatanui tētehi nawe nui nō Ngāti Tara Tokanui.
+(7) E whakaae ana te Karauna nā te haupūtanga o ana mahi katoa me ana hapanga hoki, i noho whenua kore ai a Ngāti Tara Tokanui i te taenga ki te ngahuru tau 1920. Nā te korenga o te Karauna e āta whakarite tikanga kia pupuri tonu a Ngāti Tara Tokanui i ētehi whenua rawaka mō ōna hiahia o nāianei, mō ngā rā hoki e tū mai nei, i takahia e ia te Tiriti o Waitangi me ōna mātāpono.
+(8) E whakaae ana anō hoki te Karauna—
+  (a) nā te rironga atu o ngā whenua i a Ngāti Tara Tokanui i tino raru ai te whanaketanga-ā-ōhanga, ā-pāpori, ā-ahurea hoki o te iwi; ā
+  (b) nā te tata noho whenua-kore o Ngāti Tara Tokanui mai i te ngahuru tau 1920 i kaha ake ai te heke o te tokomaha o ngā uri o Ngāti Tara Tokanui, ā, ko te nuinga o Ngāti Tara Tokanui kei waho atu o tō rātou rohe e noho ana; ā
+  (c) i kaha anō te pā o ēnei āhuatanga ki te āhua o te tuku i te reo Māori me ngā tikanga Māori mai i tētehi whakatupuranga o Ngāti Tara Tokanui ki tētehi.
+(9) E whakaae ana te Karauna ko tētehi nawe mau tonu mō Ngāti Tara Tokanui i te tau 1978 i whakangaromia ngā hononga ki ētehi urupā mana nui i Kōtangitangi me Rauwharangi i te whakawhiwhinga o aua urupā ki ētehi atu iwi.
+(10) E whakaae ana te Karauna i noho ko ngā huringa taiao me ngā whakapokenga mai i te rautau tekau mā iwa hei mamaetanga nui, hei nawe nui hoki mō Ngāti Tara Tokanui. Otirā e whakaae ana anō hoki te Karauna—
+  (a) nā ngā mahinga keri kōura mai i te tau 1895 i whakapoke, i tūkino ngā awa o Ōhinemuri me te Waihou, i tau ai te raruraru ki te hauora me te toiora o ngā hapori o Ngāti Tara Tokanui, ā, ko ēnei awa i ngā rā o mua te pātaka kai, ngā awa wairua hoki o te iwi; ā
+  (b) nā ngā huringa i te awa rerenga o ngā awa o Waihou me Ohinemuri me ōna mai i te ngahuru tau 1890 i mimiti ai ngā repo mōmona o taua takiwā, i tūkinotia hoki ngā wāhi tapu o Ngāti Tara Tokanui, i tino raru ai hoki ngā puna kaimoana a Ngāti Tara Tokanui.
+(11) E whakaae ana anō hoki te Karauna kua roa rawa a Ngāti Tara Tokanui e noho ana i roto i te korekore me te rawakore.
+
+### 10 Apology
+Crown apology
+The text of the apology offered by the Crown to Ngāti Tara Tokanui, to your tūpuna, and to your mokopuna, as set out in the deed of settlement, is as follows:
+  (“(a)) The Crown has prejudiced Ngāti Tara Tokanui by promoting laws and policies in New Zealand that led to the alienation of your whenua, caused environmental damage to the Waihou and Ohinemuri Rivers, eroded your tribal structures, and dislocated your people from their pā and kāinga. The Crown has failed to uphold its obligations under te Tiriti o Waitangi/the Treaty of Waitangi and has caused physical and spiritual hardship that is deeply felt today.
+  (b) For its actions, which have caused Ngāti Tara Tokanui prejudice, and its breaches of te Tiriti o Waitangi/the Treaty of Waitangi and its principles, the Crown is truly sorry.
+  (c) The Crown hopes that this settlement marks a new beginning in which the relationship that has been damaged can be restored, and that the Crown and Ngāti Tara Tokanui can begin anew in a spirit of mutual respect and partnership, guided by the principles of te Tiriti o Waitangi/the Treaty of Waitangi.”
+Te Whakapāha a te Karauna ki a Ngāti Tara Tokanui
+E whakapāha ana te Karauna ki a Ngati Tara Tokanui, ki ōna tūpuna me āna mokopuna:
+  (“(a)) I whakatoiharatia koutou e te Karauna i tana whakatairanga i ngā ture me ngā kaupapa here i Aotearoa i ngaro ai ō koutou whenua, i takoto kino ai ngā awa o Waihou me Ōhinemuri, i horohoro ai ngā tikanga e noho iwi kotahi ai koutou, i rērere ai te uri o te tangata i ō koutou pā, i ō koutou kāinga ki wāhi kē noho ai. Kīhai te Karauna i hautū i ōna kawenga i raro i te Tiriti o Waitangi, ā, ko ngā mamaetanga ā-kikokiko, ā-wairua kei te pākikini tonu i waenga i te iwi i ēnei rā.
+  (b) Mō ana mahi i whakatoiharatia ai a Ngāti Tara Tokanui, me āna takahitanga i te Tiriti o Waitangi, ka nui te whakapāha a te Karauna.
+  (c) Ko te tūmanako ia o te Karauna, ka noho tēnei whakataunga hei tohu i tētahi tīmatanga hou kia hoki anō ai te whanaungatanga i huripokina i mua ki te ora, kia tīmata anō hoki te Karauna me Ngāti Tara Tokanui ki te haere whakamua i runga i te whakaaro pai, tētehi ki tētehi, me te mahi ngātahi, i runga anō i te aronga ki ngā mātāpono o te Tiriti o Waitangi.”
+
+**Interpretation provisions**
+
+### 11 Interpretation of Act generally
+It is the intention of Parliament that the provisions of this Act are interpreted in a manner that best furthers the agreements expressed in the deed of settlement.
+
+### 12 Interpretation
+(1) In this Act, unless the context otherwise requires,—
+  - **administering body** has the meaning given in section 2(1) of the Reserves Act 1977
+  - **aquatic life** has the meaning given in section 2(1) of the Conservation Act 1987
+  - **attachments** means the attachments to the deed of settlement
+  - **Commissioner of Crown Lands** means the Commissioner of Crown Lands appointed under section 24AA of the Land Act 1948
+  - **consent authority** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **conservation area** has the meaning given in section 2(1) of the Conservation Act 1987
+  - **conservation management plan** has the meaning given in section 2(1) of the Conservation Act 1987
+  - **conservation management strategy** has the meaning given in section 2(1) of the Conservation Act 1987
+  - **Crown** has the meaning given in section 2(1) of the Public Finance Act 1989
+  - **cultural redress property** has the meaning given in section 22
+  - **deed of settlement** —
+    (a) means the deed of settlement dated 28 July 2022 and signed by—
+      (i) the Honourable Andrew James Little, Minister for Treaty of Waitangi Negotiations, and the Honourable Grant Murray Robertson, Minister of Finance, for and on behalf of the Crown; and
+      (ii) Dr Amelia Amy Tuihana Williams and Russell Charles Karu, for and on behalf of Ngāti Tara Tokanui; and
+      (iii) Dr Amelia Amy Tuihana Williams, Russell Charles Karu, Kerry Patricia Karu, Bessie Gage, and Phyllis Mott, being the trustees of the Ngāti Tara Tokanui Trust; and
+    (b) includes—
+      (i) the schedules of, and attachments to, the deed; and
+      (ii) any amendments to the deed or its schedules and attachments
+  - **deferred selection property** has the meaning given in section 83
+  - **Director-General** means the Director-General of Conservation
+  - **documents schedule** means the documents schedule of the deed of settlement
+  - **effective date** means the date that is 6 months after the settlement date
+  - **historical claims** has the meaning given in section 14
+  - **interest** means a covenant, easement, lease, licence, licence to occupy, tenancy, or other right or obligation affecting a property
+  - **jointly vested property** has the meaning given in section 22
+  - **LINZ** means Land Information New Zealand
+  - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
+  - **member of Ngāti Tara Tokanui** means an individual referred to in section 13(1)﻿(a)
+  - **national park management plan** has the meaning given to management plan in section 2 of the National Parks Act 1980
+  - **Ngāti Tara Tokanui Trust** means the trust of that name established by a trust deed dated 1 February 2014
+  - **Pouarua Farm Limited Partnership** means the limited partnership of that name registered on 8 November 2013 with registration number 2591742
+  - **Pouarua Farm property** means the land held by the Pouarua Farm Limited Partnership that is comprised in record of title 317403
+  - **property redress schedule** means the property redress schedule of the deed of settlement
+  - **record of title** has the meaning given in section 5(1) of the Land Transfer Act 2017
+  - **Registrar-General** has the meaning given to Registrar in section 5(1) of the Land Transfer Act 2017
+  - **representative entity** means—
+    (a) the trustees; and
+    (b) any person, including any trustee, acting for or on behalf of—
+      (i) the collective group referred to in section 13(1)﻿(a); or
+      (ii) 1 or more members of Ngāti Tara Tokanui; or
+      (iii) 1 or more of the whānau, hapū, or groups referred to in section 13(1)﻿(c)
+  - **reserve** has the meaning given in section 2(1) of the Reserves Act 1977
+  - **reserve property** has the meaning given in section 22
+  - **resource consent** has the meaning given in section 2(1) of the Resource Management Act 1991
+  - **settlement date** means the date that is 60 working days after the date on which this Act comes into force
+  - **statutory acknowledgement** has the meaning given in section 64
+  - **tikanga** means customary values and practices
+  - **trustees of the Ngāti Tara Tokanui Trust** and mean the trustees, acting in their capacity as trustees, of the Ngāti Tara Tokanui Trust
+  - **whenua rāhui** has the meaning given in section 49
+  - **working day** means a day other than—
+    (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, and Labour Day:
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or Sunday, the following Monday:
+    (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year:
+    (d) the days observed as the anniversaries of the provinces of Auckland and Wellington.
+(2) In this Act, a reference to the vesting of a cultural redress property, or the vesting of the fee simple estate in a cultural redress property, includes the vesting of an undivided share of the fee simple estate in the property.
+
+### 13 Meaning of Ngāti Tara Tokanui
+(1) In this Act, Ngāti Tara Tokanui—
+  (a) means the collective group composed of individuals who are descended from an ancestor of Ngāti Tara Tokanui; and
+  (b) includes those individuals; and
+  (c) includes any whānau, hapū, or group to the extent that it is composed of those individuals, including the following Ngāti Tara Tokanui groups:
+    (i) Ngāti Tara; and
+    (ii) Ngāti Koi; and
+    (iii) Ngāti Tokanui.
+(2) In this section and section 14,—
+  - **ancestor of Ngāti Tara Tokanui** means an individual who—
+    (a) exercised customary rights by virtue of being descended from—
+      (i) Tara; or
+      (ii) any other recognised ancestor of a group referred to in part 10 of the deed of settlement; and
+    (b) exercised the customary rights predominantly in relation to the area of interest at any time after 6 February 1840
+  - **area of interest** means the area shown as the Ngāti Tara Tokanui area of interest in part 1 of the attachments
+  - **customary rights** means rights exercised according to tikanga Māori, including—
+    (a) rights to occupy land; and
+    (b) rights in relation to the use of land or other natural or physical resources
+  - **descended** means that a person is descended from another person by—
+    (a) birth; or
+    (b) legal adoption; or
+    (c) Māori customary adoption in accordance with Ngāti Tara Tokanui tikanga.
+
+### 14 Meaning of historical claims
+(1) In this Act, historical claims—
+  (a) means the claims described in subsection (2); and
+  (b) includes the claims described in subsections (3) and (4); but
+  (c) does not include the claims described in subsection (5).
+(2) The historical claims are every claim that Ngāti Tara Tokanui or a representative entity had on or before the settlement date, or may have after the settlement date, and that—
+  (a) is founded on a right arising—
+    (i) from the Treaty of Waitangi or its principles; or
+    (ii) under legislation; or
+    (iii) at common law (including aboriginal title or customary law); or
+    (iv) from a fiduciary duty; or
+    (v) otherwise; and
+  (b) arises from, or relates to, acts or omissions before 21 September 1992—
+    (i) by or on behalf of the Crown; or
+    (ii) by or under legislation.
+(3) The historical claims include—
+  (a) a claim to the Waitangi Tribunal that relates exclusively to Ngāti Tara Tokanui or a representative entity, including the Wai 714 (Hone Tiwaewae Williams) claim, to the extent that subsection (2) applies to the claim; and
+  (b) every other claim to the Waitangi Tribunal, including the claims listed in subsection (4), if and to the extent that—
+    (i) the claim relates to Ngāti Tara Tokanui or a representative entity; and
+    (ii) subsection (2) applies to the claim.
+(4) The claims referred to in subsection (3)﻿(b) include—
+  (a) Wai 100 (Hauraki Māori Trust Board claim); and
+  (b) Wai 373 (Maramarua State Forest claim); and
+  (c) Wai 374 (Auckland Central Railways Land claim); and
+  (d) Wai 650 (Athenree Forest and Surrounding Lands claim); and
+  (e) Wai 865 (Waihou Railway Land claim).
+(5) However, the historical claims do not include—
+  (a) a claim that a member of Ngāti Tara Tokanui, or a whānau, hapū, or group referred to in section 13(1)﻿(c), had or may have that is founded on a right arising by virtue of being descended from an ancestor who is not an ancestor of Ngāti Tara Tokanui; or
+  (b) a claim that a representative entity had or may have that is based on a claim referred to in paragraph (a).
+(6) A claim may be a historical claim whether or not the claim has arisen or been considered, researched, registered, notified, or made on or before the settlement date.
+
+**Historical claims settled and jurisdiction of courts, etc, removed**
+
+### 15 Settlement of historical claims final
+(1) The historical claims are settled.
+(2) The settlement of the historical claims is final, and, on and from the settlement date, the Crown is released and discharged from all obligations and liabilities in respect of those claims.
+(3) Subsections (1) and (2) do not limit the deed of settlement.
+(4) Despite any other enactment or rule of law, on and from the settlement date, no court, tribunal, or other judicial body has jurisdiction (including the jurisdiction to inquire or further inquire, or to make a finding or recommendation) in respect of—
+  (a) the historical claims; or
+  (b) the deed of settlement; or
+  (c) this Act; or
+  (d) the redress provided under the deed of settlement or this Act.
+(5) Subsection (4) does not exclude the jurisdiction of a court, tribunal, or other judicial body in respect of the interpretation or implementation of the deed of settlement or this Act.
+
+**Amendment to Treaty of Waitangi Act 1975**
+
+### 16 Amendment to Treaty of Waitangi Act 1975
+(1) This section amends the Treaty of Waitangi Act 1975.
+(2) In Schedule 3, insert in its appropriate alphabetical order:Ngāti Tara Tokanui Claims Settlement Act 2026, section 15(4) and (5)
+
+**Resumptive memorials no longer to apply**
+
+### 17 Certain enactments do not apply
+(1) The enactments listed in subsection (2) do not apply—
+  (a) to a cultural redress property (other than a jointly vested property); or
+  (b) to a jointly vested property on and from the date of its vesting in the trustees; or
+  (c) to the deferred selection property on and from the date of its transfer to the trustees; or
+  (d) for the benefit of Ngāti Tara Tokanui or a representative entity.
+(2) The enactments are—
+  (a) Part 3 of the Crown Forest Assets Act 1989:
+  (b) sections 568 to 570 of the Education and Training Act 2020:
+  (c) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990:
+  (d) sections 27A to 27C of the State-Owned Enterprises Act 1986:
+  (e) sections 8A to 8HJ of the Treaty of Waitangi Act 1975.
+
+### 18 Resumptive memorials to be cancelled
+(1) The chief executive of LINZ must issue to the Registrar-General 1 or more certificates that specify the legal description of, and identify the record of title for, each allotment that—
+  (a) is all or part of—
+    (i) a cultural redress property:
+    (ii) the deferred selection property; and
+  (b) is subject to a resumptive memorial recorded under an enactment listed in section 17(2).
+(2) The chief executive of LINZ must issue a certificate as soon as is reasonably practicable after—
+  (a) the settlement date, for a cultural redress property (other than a jointly vested property); or
+  (b) the date of vesting of the property in the trustees, for a jointly vested property; or
+  (c) the date of transfer of the property to the trustees, for the deferred selection property.
+(3) Each certificate must state that it is issued under this section.
+(4) As soon as is reasonably practicable after receiving a certificate, the Registrar-General must—
+  (a) register the certificate against each record of title identified in the certificate; and
+  (b) cancel each memorial recorded under an enactment listed in section 17(2) on a record of title identified in the certificate, but only in respect of each allotment described in the certificate.
+
+**Miscellaneous matters**
+
+### 19 Limit on duration of trusts does not apply
+(1) A limit on the duration of a trust in any rule of law, and a limit in the provisions of any Act, including section 16 of the Trusts Act 2019,—
+  (a) do not prescribe or restrict the period during which—
+    (i) the Ngāti Tara Tokanui Trust may exist in law; or
+    (ii) the trustees may hold or deal with property or income derived from property; and
+  (b) do not apply to a document entered into to give effect to the deed of settlement if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
+(2) However, if the Ngāti Tara Tokanui Trust is or becomes a charitable trust, the trust may continue indefinitely under section 16(6)﻿(a) of the Trusts Act 2019.
+
+### 20 Access to deed of settlement
+The chief executive of the Office of Treaty Settlements and Takutai Moana—Te Tari Whakatau must make copies of the deed of settlement available—
+  (a) for inspection free of charge, and for purchase at a reasonable price, at that Office in Wellington between 9 am and 5 pm on any working day; and
+  (b) free of charge on an internet site maintained by or on behalf of that Office.
+
+### 21 Provisions that have same effect
+If a provision in this Act has the same effect as a provision in another Act, the provisions must be given effect to only once, as if they were 1 provision.
+
+## Part 2 — Cultural redress
+
+### Subpart 1 — Vesting of cultural redress properties
+
+### 22 Interpretation
+In this subpart,—
+  - **cultural redress property** means each of the following properties, and each property means the land of that name described in Schedule 1:Properties vested in fee simpleProperties vested in fee simple to be administered as reservesProperties vested in fee simple subject to conservation covenant
+    (a) Kepa Place:
+    (b) Ngā Ure Tara:
+    (c) Tanners Point property:
+    (d) Ngāmarama:
+    (e) Ngāti Koi Domain:
+    (f) Tawhitiaraia:
+    (g) Te Pou o Tiki Te Aroha:
+    (h) Karangahake:
+    (i) Mimitu Pā
+  - **Hako settlement legislation** means legislation that—
+    (a) settles the historical claims of Hako; and
+    (b) provides for the vesting, in the trustees of the Hako Tūpuna Trust,—
+      (i) of an undivided half share of the fee simple estate in the Tanners Point property; and
+      (ii) of an undivided third share of the fee simple estate in Karangahake
+  - **Hako Tūpuna Trust** means the trust of that name established by a trust deed dated 26 August 2014
+  - **Hauraki Gulf Marine Park** means the park established under section 33 of the Hauraki Gulf Marine Park Act 2000
+  - **joint management body** means the body established by section 42
+  - **jointly vested property** means each of the properties named in paragraphs (c) and (h) of the definition of cultural redress property
+  - **Ngāti Tamaterā settlement legislation** means legislation that—
+    (a) settles the historical claims of Ngāti Tamaterā; and
+    (b) provides for the vesting of an undivided third share of the fee simple estate in Karangahake in the trustees of the Ngāti Tamaterā Treaty Settlement Trust
+  - **Ngāti Tamaterā Treaty Settlement Trust** means the trust of that name established by a trust deed dated 22 October 2013
+  - **reserve property** means each of the properties named in paragraphs (d) to (g) of the definition of cultural redress property.
+
+**Properties vested in fee simple**
+
+### 23 Kepa Place
+(1) Kepa Place ceases to be a conservation area under the Conservation Act 1987.
+(2) The fee simple estate in Kepa Place vests in the trustees.
+
+### 24 Ngā Ure Tara
+The fee simple estate in Ngā Ure Tara vests in the trustees.
+
+### 25 Tanners Point property
+(1) This section takes effect on and from the later of the following dates:
+  (a) the settlement date:
+  (b) the settlement date under Hako settlement legislation.
+(2) The fee simple estate in the Tanners Point property vests as undivided half shares in the specified groups of trustees as tenants in common as follows:
+  (a) a share vests in the trustees under this paragraph; and
+  (b) a share vests in the trustees of the Hako Tūpuna Trust under Hako settlement legislation.
+
+**Properties vested in fee simple to be administered as reserves**
+
+### 26 Ngāmarama
+(1) The reservation of Ngāmarama (being Mackaytown Recreation Reserve) as a recreation reserve subject to the Reserves Act 1977 is revoked.
+(2) Ngāmarama ceases to be a conservation area under the Conservation Act 1987.
+(3) The fee simple estate in Ngāmarama vests in the trustees.
+(4) Ngāmarama is declared a reserve and classified as a recreation reserve subject to section 17 of the Reserves Act 1977.
+(5) The reserve is named Ngāmarama Recreation Reserve.
+
+### 27 Ngāti Koi Domain
+(1) The reservation of Ngāti Koi Domain as a recreation reserve subject to the Reserves Act 1977 is revoked.
+(2) The fee simple estate in Ngāti Koi Domain vests in the trustees.
+(3) Ngāti Koi Domain is declared a reserve and classified as a recreation reserve subject to section 17 of the Reserves Act 1977.
+(4) The reserve is named Ngāti Koi Domain Recreation Reserve.
+(5) The joint management body is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve as if the reserve were vested in the body (as if the body were trustees) under section 26 of that Act.
+(6) However, the joint management body may exercise or perform, as if it were a local authority, a power or function that the Minister of Conservation has delegated to local authorities under section 10 of the Reserves Act 1977, but only to the extent that the power or function is relevant to the reserve.
+
+### 28 Council improvements attached to Ngāti Koi Domain
+(1) This section applies to the improvements owned by the Hauraki District Council (the Council) and attached to the Ngāti Koi Domain (the property) as at the date of its vesting under section 27(2), and despite that vesting.
+(2) Improvements owned by the Council immediately before the vesting—
+  (a) remain vested in the Council; and
+  (b) are personal property, no longer forming part of the property, and do not confer an estate or interest in the property; and
+  (c) may remain attached to the property without the consent of the owners of the property or the administering body, and without charge; and
+  (d) may be accessed, used, occupied, repaired, or maintained by the Council, or those authorised by the Council, at any time without the consent of the owners of the property or the administering body, and without charge.
+(3) Improvements referred to in subsection (2) may, without charge, but subject to any relevant statutory requirement, be removed or demolished by the Council at any time without the consent of the owners of the property or the administering body.
+(4) However, the Council must—
+  (a) give the owners of the property and the administering body not less than 15 working days’ written notice of the intended removal or demolition; and
+  (b) after the removal or demolition, ensure that the land is left in a clean and tidy condition.
+(5) Subsection (2) applies subject to any other enactment that governs the ownership of an improvement.
+(6) For the purposes of administering the reserve under the Reserves Act 1977, the administering body is responsible for any decisions in respect of a matter that arises from a person exercising, or purporting to exercise, a right in relation to an improvement attached to the property.
+(7) Subsection (6) is subject to any other enactment that governs the use of the improvement concerned.
+(8) The owners of the property are not liable for an improvement for which they would, apart from this section, be liable by reason of their ownership of the property.
+
+### 29 Tawhitiaraia
+(1) The reservation of Tawhitiaraia (being part of Orokawa Scenic Reserve) as a scenic reserve subject to the Reserves Act 1977 is revoked.
+(2) The fee simple estate in Tawhitiaraia vests in the trustees.
+(3) Tawhitiaraia is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
+(4) The reserve is named Tawhitiaraia Scenic Reserve.
+(5) Subsections (1) to (4) do not take effect until the trustees have provided—
+  (a) the Crown with a registrable right of way easement in gross on the terms and conditions set out in part 5.2 of the documents schedule; and
+  (b) the Western Bay of Plenty District Council with a registrable right of way easement in gross on the terms and conditions set out in part 5.5 of the documents schedule.
+(6) Despite the provisions of the Reserves Act 1977, the easements—
+  (a) are enforceable in accordance with their terms; and
+  (b) are to be treated as having been granted in accordance with the Reserves Act 1977.
+
+### 30 Te Pou o Tiki Te Aroha
+(1) The reservation of Te Pou o Tiki Te Aroha (being part of Karangahake Scenic Reserve) as a scenic reserve subject to the Reserves Act 1977 is revoked, and accordingly Te Pou o Tiki Te Aroha ceases to be part of the Hauraki Gulf Marine Park.
+(2) The fee simple estate in Te Pou o Tiki Te Aroha vests in the trustees.
+(3) Te Pou o Tiki Te Aroha is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
+(4) The reserve is named Te Pou o Tiki Te Aroha Scenic Reserve.
+
+**Properties vested in fee simple subject to conservation covenant**
+
+### 31 Karangahake
+(1) This section takes effect on and from the latest of the following dates:
+  (a) the settlement date:
+  (b) the settlement date under Hako settlement legislation:
+  (c) the settlement date under Ngāti Tamaterā settlement legislation.
+(2) Karangahake (being part of Kaimai Mamaku Conservation Park) ceases to be part of the Park and a conservation area under the Conservation Act 1987, and accordingly ceases to be part of the Hauraki Gulf Marine Park.
+(3) The fee simple estate in Karangahake vests as undivided third shares in the specified groups of trustees as tenants in common as follows:
+  (a) a share vests in the trustees under this paragraph; and
+  (b) a share vests in the trustees of the Hako Tūpuna Trust under Hako settlement legislation; and
+  (c) a share vests in the trustees of the Ngāti Tamaterā Treaty Settlement Trust under Ngāti Tamaterā settlement legislation.
+(4) Subsections (2) and (3) do not take effect until the trustees referred to in subsection (3) have jointly provided the Crown with—
+  (a) a registrable covenant in relation to Karangahake on the terms and conditions set out in part 5.4 of the documents schedule; and
+  (b) a registrable right of way easement in gross on the terms and conditions set out in part 5.3 of the documents schedule.
+(5) The covenant is to be treated as a conservation covenant for the purposes of—
+  (a) section 77 of the Reserves Act 1977; and
+  (b) section 27 of the Conservation Act 1987.
+
+### 32 Mimitu Pā
+(1) Mimitu Pā (being part of Coromandel Forest Park) ceases to be part of the Park and a conservation area under the Conservation Act 1987, and accordingly ceases to be part of the Hauraki Gulf Marine Park.
+(2) The fee simple estate in Mimitu Pā vests in the trustees.
+(3) Subsections (1) and (2) do not take effect until the trustees have provided the Crown with a registrable covenant in relation to Mimitu Pā on the terms and conditions set out in part 5.1 of the documents schedule.
+(4) The covenant is to be treated as a conservation covenant for the purposes of—
+  (a) section 77 of the Reserves Act 1977; and
+  (b) section 27 of the Conservation Act 1987.
+
+**General provisions applying to vesting of cultural redress properties**
+
+### 33 Properties vest subject to or together with interests
+Each cultural redress property vested under this subpart is subject to, or has the benefit of, any interests listed for the property in the third column of the table in Schedule 1.
+
+### 34 Interests in land for Ngāti Koi Domain
+(1) This section applies to all or the part of Ngāti Koi Domain that remains a reserve under the Reserves Act 1977 (the reserve land), but only while the joint management body is the administering body of the reserve land.
+(2) Any interest in land that affects the reserve land must be dealt with for the purposes of registration as if the joint management body were the registered owner of the reserve land.
+(3) Subsection (2) continues to apply despite any subsequent transfer of the reserve land under section 46.
+
+### 35 Interests that are not interests in land
+(1) This section applies if a cultural redress property is subject to an interest (other than an interest in land) that is listed for the property in Schedule 1, and for which there is a grantor, whether or not the interest also applies to land outside the cultural redress property.
+(2) The interest applies—
+  (a) as if the owners of the cultural redress property were the grantor of the interest in respect of the property; and
+  (b) until the interest expires or is terminated, but any subsequent transfer of the cultural redress property must be ignored in determining whether the interest expires or is or may be terminated; and
+  (c) with any other necessary modifications; and
+  (d) despite any change in status of the land in the property.
+
+### 36 Registration of ownership
+(1) This section applies to a cultural redress property vested in the trustees under this subpart.
+(2) Subsection (3) applies to a cultural redress property (other than a jointly vested property), but only to the extent that the property is all of the land contained in a record of title for a fee simple estate.
+(3) The Registrar-General must, on written application by an authorised person,—
+  (a) register the trustees as the owners of the fee simple estate in the property; and
+  (b) record any entry on the record of title and do anything else necessary to give effect to this subpart and to part 5 of the deed of settlement.
+(4) Subsection (5) applies to a cultural redress property (other than a jointly vested property), but only to the extent that subsection (2) does not apply to the property.
+(5) The Registrar-General must, in accordance with a written application by an authorised person,—
+  (a) create a record of title for the fee simple estate in the property in the name of the trustees; and
+  (b) record on the record of title any interests that are registered, noted, or to be noted and that are described in the application.
+(6) For a jointly vested property, the Registrar-General must, in accordance with a written application by an authorised person,—
+  (a) create a record of title for an undivided equal share of the fee simple estate in the property in the names of the trustees; and
+  (b) record on the record of title any interests that are registered, noted, or to be noted and that are described in the application.
+(7) Subsections (5) and (6) are subject to the completion of any survey necessary to create a record of title.
+(8) A record of title must be created under this section as soon as is reasonably practicable after the date on which the property vests, but not later than—
+  (a) 24 months after that date; or
+  (b) any later date that is agreed in writing,—
+    (i) in the case of a property that is not jointly vested, by the Crown and the trustees; or
+    (ii) in the case of a jointly vested property, by the Crown, the trustees, and the trustees of any other trust in whom the property is jointly vested.
+(9) In this section, authorised person means a person authorised by—
+  (a) the chief executive of LINZ, for the following properties:
+    (i) Ngā Ure Tara:
+    (ii) Tanners Point property:
+  (b) the Director-General, for all other properties.
+
+### 37 Application of Part 4A of Conservation Act 1987
+(1) The vesting of the fee simple estate in a cultural redress property in the trustees under this subpart is a disposition for the purposes of Part 4A of the Conservation Act 1987, but sections 24(2A), 24A, and 24AA of that Act do not apply to the disposition.
+(2) Section 24 of the Conservation Act 1987 does not apply to the vesting of a reserve property.
+(3) The marginal strip reserved by section 24 of the Conservation Act 1987 from the vesting of Ngā Ure Tara is reduced to a width of 3 metres.
+(4) If the reservation of a reserve property under this subpart is revoked for all or part of the property, the vesting of the property is no longer exempt from section 24 (except subsection (2A)) of the Conservation Act 1987 for all or that part of the property.
+(5) Subsections (2) to (4) do not limit subsection (1).
+
+### 38 Matters to be recorded on record of title
+(1) The Registrar-General must record on the record of title,—
+  (a) for a reserve property,—
+    (i) that the land is subject to Part 4A of the Conservation Act 1987, but that section 24 of that Act does not apply; and
+    (ii) that the land is subject to—
+      (A) sections 37(4) and 44; and
+      (B) section 34(2), in the case of Ngāti Koi Domain; and
+  (b) for Ngā Ure Tara, that the land is subject to Part 4A of the Conservation Act 1987, but that the marginal strip is reduced to a width of 3 metres; and
+  (c) for any other cultural redress property, that the land is subject to Part 4A of the Conservation Act 1987.
+(2) A notation made under subsection (1) that land is subject to Part 4A of the Conservation Act 1987 is to be treated as having been made in compliance with section 24D(1) of that Act.
+(3) For a reserve property (other than Ngāti Koi Domain), if the reservation of the property under this subpart is revoked for—
+  (a) all of the property, the Director-General must apply in writing to the Registrar-General to remove from the record of title for the property the notations that—
+    (i) section 24 of the Conservation Act 1987 does not apply to the property; and
+    (ii) the property is subject to sections 37(4) and 44; or
+  (b) part of the property, the Registrar-General must ensure that the notations referred to in paragraph (a) remain only on the record of title for the part of the property that remains a reserve.
+(4) For Ngāti Koi Domain,—
+  (a) if the property remains a reserve but the joint management body is no longer the administering body of the property, the Director-General must apply in writing to the Registrar-General to remove from the record of title for the property the notation that the property is subject to section 34(2); or
+  (b) if the reservation of the property under this subpart is revoked for—
+    (i) all of the property, the Director-General must apply in writing to the Registrar-General to remove from the record of title for the property the notations that—
+      (A) section 24 of the Conservation Act 1987 does not apply to the property; and
+      (B) the property is subject to sections 37(4) and 44; and
+      (C) the property is subject to section 34(2), if that notation has not been removed under paragraph (a); or
+    (ii) part of the property, the Registrar-General must ensure that the notations referred to in subparagraph (i) remain only on the record of title for the part of the property that remains a reserve.
+(5) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a), (4)﻿(a) or (b)﻿(i), as relevant.
+
+### 39 Application of other enactments
+(1) The Crown Minerals Act 1991 applies, subject to subpart 2 of Part 3, in relation to the vesting of the fee simple estate in a cultural redress property under this subpart.
+(2) The permission of a council under section 348 of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required to fulfil the terms of the deed of settlement in relation to a cultural redress property.
+(3) Sections 24 and 25 of the Reserves Act 1977 do not apply to the revocation, under this subpart, of the reserve status of a cultural redress property.
+(4) Section 11 and Part 10 of the Resource Management Act 1991 do not apply to—
+  (a) the vesting of the fee simple estate in a cultural redress property under this subpart; or
+  (b) any matter incidental to, or required for the purpose of, the vesting.
+
+### 40 Names of Crown protected areas discontinued
+(1) Subsection (2) applies to the land, or the part of the land, in a cultural redress property that, immediately before the date on which the property vests, was all or part of a Crown protected area.
+(2) The official geographic name of the Crown protected area is discontinued in respect of the land, or the part of the land, and the Board must amend the Gazetteer accordingly.
+(3) In this section, Board, Crown protected area, Gazetteer, and official geographic name have the meanings given in section 4 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008.
+
+**Further provisions applying to reserve properties**
+
+### 41 Application of other enactments to reserve properties
+(1) The trustees are the administering body of a reserve property, except as provided for in section 27.
+(2) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve property.
+(3) If the reservation of a reserve property under this subpart is revoked under section 24 of the Reserves Act 1977 for all or part of the property, section 25(2) of that Act applies to the revocation, but not the rest of section 25 of that Act.
+(4) A reserve property is not a Crown protected area under the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, despite anything in that Act.
+(5) A reserve property must not have a name assigned to it or have its name changed under section 16(10) of the Reserves Act 1977 without the written consent of the owners of the property, and section 16(10A) of that Act does not apply to the proposed name.
+(6) While the joint management body is the administering body of Ngāti Koi Domain,—
+  (a) subsection (2) does not apply to the property; and
+  (b) Part 4 of the Reserves Act 1977, which relates to financial provisions, applies to the joint management body as if it were a local authority; and
+  (c) the Hauraki District Council must, to the extent that it is reasonably practicable to distinguish the revenue derived from that property from any other revenue received by the Council,—
+    (i) hold the revenue received from the property by the joint management body in its capacity as the administering body; and
+    (ii) account for that revenue separately from any other revenue of the Council; and
+    (iii) use that revenue, under the direction of the joint management body, but only in relation to the property.
+
+### 42 Joint management body for Ngāti Koi Domain
+(1) A joint management body is established for Ngāti Koi Domain.
+(2) The following are appointers for the purposes of this section:
+  (a) the trustees; and
+  (b) the Hauraki District Council.
+(3) Each appointer must appoint 2 members to the joint management body.
+(4) At least 1 member of the members appointed by the Hauraki District Council must be an elected member whose area of representation includes Ngāti Koi Domain.
+(5) A member is appointed only if the appointer gives written notice with the following details to the other appointers:
+  (a) the full name, address, and other contact details of the member; and
+  (b) the date on which the appointment takes effect, which must be no earlier than the date of the notice.
+(6) An appointment ends after 3 years or when the appointer replaces the member by making another appointment.
+(7) Despite subsection (6), each term of a member referred to in subsection (4) ends on the same day as the term of office of that member ends before a triennial general election under the Local Electoral Act 2001.
+(8) A member may be appointed, reappointed, or discharged at the discretion of the appointer.
+
+### 43 Application of Reserves Act 1977 to joint management body
+(1) Unless otherwise provided by this Act, sections 32 to 34 of the Reserves Act 1977 apply to the joint management body established by section 42 (the body) as if it were a board.
+(2) The following provisions apply, despite the specified requirements of the Reserves Act 1977:
+  (a) despite section 32(1) of that Act, the first meeting of the body must be held not later than 6 months after the settlement date:
+  (b) despite section 32(5) of that Act,—
+    (i) the Hauraki District Council must appoint the chairperson and the trustees must appoint the deputy chairperson for the first term of the body; and
+    (ii) in succeeding 3-year terms, the appointers of the chairperson and the deputy chairperson must alternate between the Hauraki District Council and the trustees:
+  (c) despite section 32(7) of that Act,—
+    (i) no casting vote may be exercised, and the members must strive to reach a consensus; but
+    (ii) if a consensus cannot be reached within a reasonable time, a decision must be made by majority vote:
+  (d) despite section 32(8) and (9) of that Act, all members must be present for all business of the body:
+  (e) despite section 32(10) of that Act, the members must strive to reach a consensus, but if that cannot be reached within a reasonable time, the question must be determined by majority vote:
+  (f) despite section 41(1) of that Act,—
+    (i) the management plan that is in force immediately before the settlement date for all of the reserves administered by the Hauraki District Council in the area in which Ngāti Koi Domain is located continues to apply to Ngāti Koi Domain; and
+    (ii) when the Council is reviewing that plan, to the extent that it applies to Ngāti Koi Domain, the body must prepare and approve a separate management plan for that property.
+(3) In this section, consensus means the absence of a formally recorded dissent by a member at a meeting of the body.
+
+### 44 Subsequent transfer of reserve land
+(1) This section applies to all or the part of a reserve property that remains a reserve under the Reserves Act 1977 after the property has vested in the trustees under this subpart.
+(2) The fee simple estate in the reserve land may be transferred only in accordance with section 45 or 46.
+(3) In this section and sections 45 to 47, reserve land means the land that remains a reserve as described in subsection (1).
+
+### 45 Transfer of reserve land to new administering body
+(1) The registered owners of the reserve land may apply in writing to the Minister of Conservation for consent to transfer the fee simple estate in the reserve land to 1 or more persons (the new owners).
+(2) The Minister of Conservation must give written consent to the transfer if the registered owners satisfy the Minister that the new owners are able—
+  (a) to comply with the requirements of the Reserves Act 1977; and
+  (b) to perform the duties of an administering body under that Act.
+(3) The Registrar-General must, upon receiving the required documents, register the new owners as the owners of the fee simple estate in the reserve land.
+(4) The required documents are—
+  (a) a transfer instrument to transfer the fee simple estate in the reserve land to the new owners, including a notification that the new owners are to hold the reserve land for the same reserve purposes as those for which it was held by the administering body immediately before the transfer; and
+  (b) the written consent of the Minister of Conservation to the transfer of the reserve land; and
+  (c) the written consent of the administering body of the reserve land, if the trustees are transferring the reserve land but are not the administering body; and
+  (d) any other document required for the registration of the transfer instrument.
+(5) The new owners, from the time of their registration under this section,—
+  (a) are the administering body of the reserve land; and
+  (b) hold the reserve land for the same reserve purposes as those for which it was held by the administering body immediately before the transfer.
+(6) A transfer that complies with this section need not comply with any other requirements.
+
+### 46 Transfer of reserve land if trustees change
+The registered owners of the reserve land may transfer the fee simple estate in the reserve land if—
+  (a) the transferors of the reserve land are or were the trustees of a trust; and
+  (b) the transferees are the trustees of the same trust, after any new trustee has been appointed to the trust or any transferor has ceased to be a trustee of the trust; and
+  (c) the instrument to transfer the reserve land is accompanied by a certificate given by the transferees, or the transferees' lawyer, verifying that paragraphs (a) and (b) apply.
+
+### 47 Reserve land not to be mortgaged
+The owners of reserve land must not mortgage, or give a security interest in, the reserve land.
+
+### 48 Saving of bylaws, etc, in relation to reserve properties
+(1) This section applies to any bylaw, or any prohibition or restriction on use or access, that an administering body or the Minister of Conservation made or imposed under the Conservation Act 1987 or the Reserves Act 1977 in relation to a reserve property before the property was vested in the trustees under this subpart.
+(2) The bylaw, prohibition, or restriction remains in force until it expires or is revoked under the Conservation Act 1987 or the Reserves Act 1977.
+
+### Subpart 2 — Whenua rāhui
+
+### 49 Interpretation
+In this subpart,—
+  - **Conservation Board** means a board established under section 6L of the Conservation Act 1987
+  - **New Zealand Conservation Authority** means the Authority established by section 6A of the Conservation Act 1987
+  - **protection principles** , for the whenua rāhui area,—
+    (a) means the principles agreed by the trustees and the Minister of Conservation, as set out for the area in part 1 of the documents schedule; and
+    (b) includes those principles as they are amended by the written agreement of the trustees and the Minister of Conservation
+  - **specified actions** , for the whenua rāhui area, means the actions set out for the area in part 1 of the documents schedule
+  - **statement of values** , for the whenua rāhui area, means the statement—
+    (a) made by Ngāti Tara Tokanui of their values relating to their cultural, historical, spiritual, and traditional association with the whenua rāhui area; and
+    (b) set out in part 1 of the documents schedule
+  - **whenua rāhui** means the application of this subpart to the whenua rāhui area
+  - **whenua rāhui area** —
+    (a) means the area that is declared under section 50(1) to be subject to the whenua rāhui; but
+    (b) does not include an area that is declared under section 61(1) to be no longer subject to the whenua rāhui.
+
+### 50 Declaration of whenua rāhui and the Crown's acknowledgement
+(1) The area described in Schedule 2 is declared to be subject to the whenua rāhui.
+(2) The Crown acknowledges the statement of values for the whenua rāhui area.
+
+### 51 Purposes of whenua rāhui
+The only purposes of the whenua rāhui are—
+  (a) to require the New Zealand Conservation Authority and relevant Conservation Boards to comply with the obligations in section 53; and
+  (b) to enable the taking of action under sections 54 to 59.
+
+### 52 Effect of protection principles
+The protection principles are intended to prevent the values stated in the statement of values for the whenua rāhui area from being harmed or diminished.
+
+### 53 Obligations on New Zealand Conservation Authority and Conservation Boards
+(1) When the New Zealand Conservation Authority or a Conservation Board considers a conservation management strategy, conservation management plan, or national park management plan that relates to the whenua rāhui area, the Authority or Board must have particular regard to—
+  (a) the statement of values for the area; and
+  (b) the protection principles for the area.
+(2) Before approving a strategy or plan that relates to the whenua rāhui area, the New Zealand Conservation Authority or a Conservation Board must—
+  (a) consult the trustees; and
+  (b) have particular regard to the views of the trustees as to the effect of the strategy or plan on—
+    (i) any matters in the implementation of the statement of values for the area; and
+    (ii) any matters in the implementation of the protection principles for the area.
+(3) If the trustees advise the New Zealand Conservation Authority in writing that they have significant concerns about a draft conservation management strategy in relation to the whenua rāhui area, the Authority must, before approving the strategy, give the trustees an opportunity to make submissions in relation to those concerns.
+
+### 54 Noting of whenua rāhui in strategies and plans
+(1) The application of the whenua rāhui to the whenua rāhui area must be noted in any conservation management strategy, conservation management plan, or national park management plan affecting the area.
+(2) The noting of the whenua rāhui is—
+  (a) for the purpose of public notice only; and
+  (b) not an amendment to the strategy or plan for the purposes of section 17I of the Conservation Act 1987 or section 46 of the National Parks Act 1980.
+
+### 55 Notification in Gazette
+(1) The Minister of Conservation must notify in the Gazette, as soon as practicable after the settlement date,—
+  (a) the declaration made by section 50 that the whenua rāhui applies to the whenua rāhui area; and
+  (b) the protection principles for the whenua rāhui area.
+(2) An amendment to the protection principles, as agreed by the trustees and the Minister of Conservation, must be notified by the Minister in the Gazette as soon as practicable after the amendment has been agreed in writing.
+(3) The Director-General may notify in the Gazette any action (including any specified action) taken or intended to be taken under section 56 or 57.
+
+### 56 Actions by Director-General
+(1) The Director-General must take action in relation to the protection principles that relate to the whenua rāhui area, including the specified actions.
+(2) The Director-General retains complete discretion to determine the method and extent of the action to be taken.
+(3) The Director-General must notify the trustees in writing of any action that the Director-General intends to take.
+
+### 57 Amendment to strategies or plans
+(1) The Director-General may initiate an amendment to a conservation management strategy, conservation management plan, or national park management plan to incorporate objectives for the protection principles that relate to the whenua rāhui area.
+(2) The Director-General must consult relevant Conservation Boards before initiating the amendment.
+(3) The amendment is an amendment for the purposes of section 17I(1) to (3) of the Conservation Act 1987 or section 46(1) to (4) of the National Parks Act 1980.
+
+### 58 Regulations
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, make regulations for 1 or more of the following purposes:
+  (a) to provide for the implementation of objectives included in a strategy or plan under section 57(1):
+  (b) to regulate or prohibit activities or conduct by members of the public in relation to the whenua rāhui area:
+  (c) to create offences for breaches of regulations made under paragraph (b):
+  (d) to prescribe the following fines for an offence referred to in paragraph (c):
+    (i) a fine not exceeding $5,000; and
+    (ii) if the offence is a continuing one, an additional amount not exceeding $500 for every day on which the offence continues.
+(2) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 59 Bylaws
+(1) The Minister of Conservation may make bylaws for 1 or more of the following purposes:
+  (a) to provide for the implementation of objectives included in a strategy or plan under section 57(1):
+  (b) to regulate or prohibit activities or conduct by members of the public in relation to the whenua rāhui area:
+  (c) to create offences for breaches of bylaws made under paragraph (b):
+  (d) to prescribe the following fines for an offence referred to in paragraph (c):
+    (i) a fine not exceeding $5,000; and
+    (ii) if the offence is a continuing one, an additional amount not exceeding $500 for every day on which the offence continues.
+(2) Bylaws made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+### 60 Effect of whenua rāhui on whenua rāhui area
+(1) This section applies if, at any time, the whenua rāhui applies to any land in—
+  (a) a national park under the National Parks Act 1980; or
+  (b) a conservation area under the Conservation Act 1987; or
+  (c) a reserve under the Reserves Act 1977.
+(2) The whenua rāhui does not affect—
+  (a) the status of the land as a national park, conservation area, or reserve; or
+  (b) the classification or purpose of a reserve.
+
+### 61 Termination of whenua rāhui
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, declare that all or part of the whenua rāhui area is no longer subject to the whenua rāhui.
+(2) The Minister of Conservation must not make a recommendation for the purposes of subsection (1) unless—
+  (a) the trustees and the Minister of Conservation have agreed in writing that the whenua rāhui is no longer appropriate for the relevant area; or
+  (b) the relevant area is to be, or has been, disposed of by the Crown; or
+  (c) the responsibility for managing the relevant area is to be, or has been, transferred to a different Minister of the Crown or the Commissioner of Crown Lands.
+(3) The Crown must take reasonable steps to ensure that the trustees continue to have input into the management of a relevant area if—
+  (a) subsection (2)﻿(c) applies; or
+  (b) there is a change in the statutory management regime that applies to all or part of the whenua rāhui area.
+(4) The Minister of Conservation must ensure that an order made under this section is published in the Gazette.
+
+### 62 Exercise of powers and performance of functions and duties
+(1) The whenua rāhui does not affect, and must not be taken into account by, any person exercising a power or performing a function or duty under an enactment or a bylaw.
+(2) A person, in considering a matter or making a decision or recommendation under legislation or a bylaw, must not give greater or lesser weight to the values stated in the statement of values for the whenua rāhui area than that person would give if the area were not subject to the whenua rāhui.
+(3) Subsection (2) does not limit subsection (1).
+(4) This section is subject to the other provisions of this subpart.
+
+### 63 Rights not affected
+(1) The whenua rāhui does not—
+  (a) affect the lawful rights or interests of a person who is not a party to the deed of settlement; or
+  (b) have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, the whenua rāhui area.
+(2) This section is subject to the other provisions of this subpart.
+
+### Subpart 3 — Statutory acknowledgement
+
+### 64 Interpretation
+In this subpart,—
+  - **relevant consent authority** , for a statutory area, means a consent authority of a region or district that contains, or is adjacent to, the statutory area
+  - **statement of association** , for a statutory area, means the statement—
+    (a) made by Ngāti Tara Tokanui of their particular cultural, historical, spiritual, and traditional association with the statutory area; and
+    (b) set out in part 2 of the documents schedule
+  - **statutory acknowledgement** means the acknowledgement made by the Crown in section 65 in respect of the statutory areas, on the terms set out in this subpart
+  - **statutory area** means an area described in Schedule 3, the general location of which is indicated on the deed plan for that area
+  - **statutory plan** —
+    (a) means a district plan, regional coastal plan, regional plan, regional policy statement, or proposed policy statement as defined in section 43AA of the Resource Management Act 1991; and
+    (b) includes a proposed plan, as defined in section 43AAC of that Act.
+
+### 65 Statutory acknowledgement by the Crown
+The Crown acknowledges the statements of association for the statutory areas.
+
+### 66 Purposes of statutory acknowledgement
+The only purposes of the statutory acknowledgement are—
+  (a) to require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, in accordance with sections 67 to 69; and
+  (b) to require relevant consent authorities to record the statutory acknowledgement on statutory plans that relate to the statutory areas and to provide summaries of resource consent applications or copies of notices of applications to the trustees, in accordance with sections 70 and 71; and
+  (c) to enable the trustees and any member of Ngāti Tara Tokanui to cite the statutory acknowledgement as evidence of the association of Ngāti Tara Tokanui with a statutory area, in accordance with section 72.
+
+### 67 Relevant consent authorities to have regard to statutory acknowledgement
+(1) This section applies in relation to an application for a resource consent for an activity within, adjacent to, or directly affecting a statutory area.
+(2) On and from the effective date, a relevant consent authority must have regard to the statutory acknowledgement relating to the statutory area in deciding, under section 95E of the Resource Management Act 1991, whether the trustees are affected persons in relation to the activity.
+(3) Subsection (2) does not limit the obligations of a relevant consent authority under the Resource Management Act 1991.
+
+### 68 Environment Court to have regard to statutory acknowledgement
+(1) This section applies to proceedings in the Environment Court in relation to an application for a resource consent for an activity within, adjacent to, or directly affecting a statutory area.
+(2) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to the statutory area in deciding, under section 274 of the Resource Management Act 1991, whether the trustees are persons with an interest in the proceedings greater than that of the general public.
+(3) Subsection (2) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
+
+### 69 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
+(1) This section applies to an application made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area.
+(2) On and from the effective date, Heritage New Zealand Pouhere Taonga must have regard to the statutory acknowledgement relating to the statutory area in exercising its powers under section 48, 56, or 62 of the Heritage New Zealand Pouhere Taonga Act 2014 in relation to the application.
+(3) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to the statutory area—
+  (a) in determining whether the trustees are persons directly affected by the decision; and
+  (b) in determining, under section 59(1) or 64(1) of the Heritage New Zealand Pouhere Taonga Act 2014, an appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application.
+(4) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
+
+### 70 Recording statutory acknowledgement on statutory plans
+(1) On and from the effective date, each relevant consent authority must attach information recording the statutory acknowledgement to all statutory plans that wholly or partly cover a statutory area.
+(2) The information attached to a statutory plan must include—
+  (a) a copy of sections 65 to 69, 71, and 72; and
+  (b) descriptions of the statutory areas wholly or partly covered by the plan; and
+  (c) the statement of association for each statutory area.
+(3) The attachment of information to a statutory plan under this section is for the purpose of public information only and, unless adopted by the relevant consent authority as part of the statutory plan, the information is not—
+  (a) part of the statutory plan; or
+  (b) subject to the provisions of Schedule 1 of the Resource Management Act 1991.
+
+### 71 Provision of summary or notice to trustees
+(1) Each relevant consent authority must, on and from the effective date, provide the following to the trustees for each resource consent application for an activity within, adjacent to, or directly affecting a statutory area:
+  (a) if the application is received by the consent authority, a summary of the application; or
+  (b) if notice of the application is served on the consent authority under section 145(10) of the Resource Management Act 1991, a copy of the notice.
+(2) A summary provided under subsection (1)﻿(a) must be the same as would be given to an affected person by limited notification under section 95B(4) of the Resource Management Act 1991 or as may be agreed between the trustees and the relevant consent authority.
+(3) The summary must be provided—
+  (a) as soon as is reasonably practicable after the relevant consent authority receives the application; but
+  (b) before the relevant consent authority decides under section 95 of the Resource Management Act 1991 whether to notify the application.
+(4) A copy of a notice must be provided under subsection (1)﻿(b) not later than 10 working days after the day on which the consent authority receives the notice.
+(5) The trustees may, by written notice to a relevant consent authority,—
+  (a) waive the right to be provided with a summary or copy of a notice under this section; and
+  (b) state the scope of that waiver and the period it applies for.
+(6) This section does not affect the obligation of a relevant consent authority to decide,—
+  (a) under section 95 of the Resource Management Act 1991, whether to notify an application:
+  (b) under section 95E of that Act, whether the trustees are affected persons in relation to an activity.
+
+### 72 Use of statutory acknowledgement
+(1) The trustees and any member of Ngāti Tara Tokanui may, as evidence of the association of Ngāti Tara Tokanui with a statutory area, cite the statutory acknowledgement that relates to that area in submissions concerning activities within, adjacent to, or directly affecting the statutory area that are made to or before—
+  (a) the relevant consent authorities; or
+  (b) the Environment Court; or
+  (c) Heritage New Zealand Pouhere Taonga; or
+  (d) the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991.
+(2) The content of a statement of association is not, because of the statutory acknowledgement, binding as fact on—
+  (a) the bodies referred to in subsection (1); or
+  (b) parties to proceedings before those bodies; or
+  (c) any other person who is entitled to participate in those proceedings.
+(3) However, the bodies and persons specified in subsection (2) may take the statutory acknowledgement into account.
+(4) To avoid doubt,—
+  (a) neither the trustees nor members of Ngāti Tara Tokanui are precluded from stating that Ngāti Tara Tokanui has an association with a statutory area that is not described in the statutory acknowledgement; and
+  (b) the content and existence of the statutory acknowledgement do not limit any statement made.
+
+**General provisions relating to statutory acknowledgement**
+
+### 73 Application of statutory acknowledgement to river or stream
+If any part of the statutory acknowledgement applies to a river or stream, including a tributary, that part of the acknowledgement—
+  (a) applies only to—
+    (i) the continuously or intermittently flowing body of fresh water, including a modified watercourse, that comprises the river or stream; and
+    (ii) the bed of the river or stream, which is the land that the waters of the river or stream cover at their fullest flow without flowing over the banks of the river or stream; but
+  (b) does not apply to—
+    (i) a part of the bed of the river or stream that is not owned by the Crown; or
+    (ii) an artificial watercourse.
+
+### 74 Exercise of powers and performance of functions and duties
+(1) The statutory acknowledgement does not affect, and must not be taken into account by, a person exercising a power or performing a function or duty under an enactment or a bylaw.
+(2) A person, in considering a matter or making a decision or recommendation under an enactment or a bylaw, must not give greater or lesser weight to the association of Ngāti Tara Tokanui with a statutory area than that person would give if there were no statutory acknowledgement for the statutory area.
+(3) Subsection (2) does not limit subsection (1).
+(4) This section is subject to the other provisions of this subpart.
+
+### 75 Rights not affected
+(1) The statutory acknowledgement—
+  (a) does not affect the lawful rights or interests of a person who is not a party to the deed of settlement; and
+  (b) does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, a statutory area.
+(2) This section is subject to the other provisions of this subpart.
+
+**Consequential amendment to Resource Management Act 1991**
+
+### 76 Amendment to Resource Management Act 1991
+(1) This section amends the Resource Management Act 1991.
+(2) In Schedule 11, insert in its appropriate alphabetical order:Ngāti Tara Tokanui Claims Settlement Act 2026
+
+### Subpart 4 — Protocols
+
+### 77 Interpretation
+In this subpart,—
+  - **protocol** —
+    (a) means each of the following protocols issued under section 78(1)﻿(a):
+      (i) the primary industries protocol:
+      (ii) the taonga tūturu protocol; and
+    (b) includes any amendments made under section 78(1)﻿(b)
+  - **responsible Minister** means the 1 or more Ministers who have responsibility under a protocol.
+
+**General provisions applying to protocols**
+
+### 78 Issuing, amending, and cancelling protocols
+(1) The responsible Minister—
+  (a) must issue a protocol to the trustees on the terms set out in part 4 of the documents schedule; and
+  (b) may amend or cancel that protocol.
+(2) The responsible Minister may amend or cancel a protocol at the initiative of—
+  (a) the trustees; or
+  (b) the responsible Minister.
+(3) The responsible Minister may amend or cancel a protocol only after consulting, and having particular regard to the views of, the trustees.
+
+### 79 Protocols subject to rights, functions, and duties
+A protocol does not restrict—
+  (a) the ability of the Crown to exercise its powers and perform its functions and duties in accordance with the law and Government policy, for example, the ability—
+    (i) to introduce legislation and change Government policy; and
+    (ii) to interact with or consult a person that the Crown considers appropriate, including any iwi, hapū, marae, whānau, or other representative of tangata whenua; or
+  (b) the responsibilities of the responsible Minister or a department of State; or
+  (c) the legal rights of Ngāti Tara Tokanui or a representative entity.
+
+### 80 Enforcement of protocols
+(1) The Crown must comply with a protocol while it is in force.
+(2) If the Crown fails to comply with a protocol without good cause, the trustees may enforce the protocol, subject to the Crown Proceedings Act 1950.
+(3) Despite subsection (2), damages or other forms of monetary compensation are not available as a remedy for a failure by the Crown to comply with a protocol.
+(4) To avoid doubt,—
+  (a) subsections (1) and (2) do not apply to guidelines developed for the implementation of a protocol; and
+  (b) subsection (3) does not affect the ability of a court to award costs incurred by the trustees in enforcing the protocol under subsection (2).
+
+**Primary industries**
+
+### 81 Primary industries protocol
+(1) The chief executive of the Ministry for Primary Industries must note a summary of the terms of the primary industries protocol in the fisheries plan that affects the primary industries protocol area.
+(2) The noting of the summary is—
+  (a) for the purpose of public notice only; and
+  (b) not an amendment to a fisheries plan for the purposes of section 11A of the Fisheries Act 1996.
+(3) The primary industries protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, assets or other property rights (including in respect of fish, aquatic life, or seaweed) that are held, managed, or administered under any of the following enactments:
+  (a) the Fisheries Act 1996:
+  (b) the Maori Commercial Aquaculture Claims Settlement Act 2004:
+  (c) the Maori Fisheries Act 2004:
+  (d) the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992.
+(4) In this section,—
+  - **fisheries plan** means a plan approved or amended under section 11A of the Fisheries Act 1996
+  - **primary industries protocol area** means the area shown on the map attached to the primary industries protocol, together with the adjacent waters.
+
+**Taonga tūturu**
+
+### 82 Taonga tūturu protocol
+(1) The taonga tūturu protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, taonga tūturu.
+(2) In this section, taonga tūturu—
+  (a) has the meaning given in section 2(1) of the Protected Objects Act 1975; and
+  (b) includes ngā taonga tūturu, as defined in section 2(1) of that Act.
+
+## Part 3 — Commercial redress
+
+### Subpart 1 — Transfer of deferred selection property
+
+### 83 Interpretation
+In this subpart,—
+  - **deferred selection property** means the property described in part 3 of the property redress schedule, if the requirements for transfer under the deed of settlement have been satisfied
+  - **land holding agency** means the Ministry of Education.
+
+### 84 The Crown may transfer property
+(1) To give effect to part 6 of the deed of settlement, the Crown (acting by and through the chief executive of the land holding agency) is authorised—
+  (a) to transfer the fee simple estate in the deferred selection property to the trustees; and
+  (b) to sign a transfer instrument or other document, or do anything else, as necessary to effect the transfer.
+(2) Subsection (3) applies to the deferred selection property if that property is subject to a resumptive memorial recorded under any enactment listed in section 17(2).
+(3) As soon as is reasonably practicable after the date on which the deferred selection property is transferred to the trustees, the chief executive of the land holding agency must give written notice of that date to the chief executive of LINZ for the purposes of section 18 (which relates to the cancellation of resumptive memorials).
+
+### 85 Record of title for deferred selection property
+(1) This section applies to the deferred selection property that is to be transferred to the trustees under section 84.
+(2) However, this section applies only to the extent that—
+  (a) the property is not all of the land contained in a record of title for a fee simple estate; or
+  (b) there is no record of title for the fee simple estate in all or part of the property.
+(3) The Registrar-General must, in accordance with a written application by an authorised person,—
+  (a) create a record of title for the fee simple estate in the property in the name of the Crown; and
+  (b) record on the record of title any interests that are registered, noted, or to be noted and that are described in the application; but
+  (c) omit any statement of purpose from the record of title.
+(4) Subsection (3) is subject to the completion of any survey necessary to create a record of title.
+(5) In this section and section 86, authorised person means a person authorised by the chief executive of the land holding agency.
+
+### 86 Authorised person may grant covenant for later creation of record of title
+(1) For the purposes of section 85, the authorised person may grant a covenant for the later creation of a record of title for a fee simple estate in the deferred selection property.
+(2) Despite the Land Transfer Act 2017,—
+  (a) the authorised person may request the Registrar-General to register the covenant under that Act by creating a record of title that records an interest; and
+  (b) the Registrar-General must comply with the request.
+
+### 87 Application of other enactments
+(1) This section applies to the transfer to the trustees of the fee simple estate in the deferred selection property.
+(2) The transfer is a disposition for the purposes of Part 4A of the Conservation Act 1987, but sections 24(2A), 24A, and 24AA of that Act do not apply to the disposition.
+(3) The Crown Minerals Act 1991 applies subject to subpart 2.
+(4) The permission of a council under section 348 of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required to fulfil the terms of the deed of settlement in relation to the transfer.
+(5) Section 11 and Part 10 of the Resource Management Act 1991 do not apply to the transfer or to any matter incidental to, or required for the purpose of, the transfer.
+(6) In exercising the powers conferred by section 84, the Crown is not required to comply with any other enactment that would otherwise regulate or apply to the transfer.
+(7) Subsection (6) is subject to subsections (2) and (3).
+
+### Subpart 2 — Vesting of certain Crown owned minerals and related matters
+
+### 88 Application and interpretation
+(1) This subpart applies to—
+  (a) the land vested in the trustees under subpart 1 of Part 2; and
+  (b) land transferred to the trustees under section 84; and
+  (c) the Pouarua Farm property transferred to the Pouarua Farm Limited Partnership in accordance with the Agreement for Sale and Purchase of Real Estate dated 8 November 2013.
+(2) In this subpart, unless the context otherwise requires,—
+  - **actual amount** means the amount payable in respect of vested minerals in accordance with sections 95 and 99
+  - **applicant** means whichever of the trustees or the Pouarua Farm Limited Partnership that makes an application under section 100
+  - **chief executive** has the meaning given in section 2(1) of the Crown Minerals Act 1991
+  - **Crown owned mineral** has the meaning given in section 2(1) of the Crown Minerals Act 1991
+  - **existing privilege** has the meaning given in section 2(1) of the Crown Minerals Act 1991
+  - **mineral** has the meaning given in section 2(1) of the Crown Minerals Act 1991
+  - **Minister** has the meaning given in section 2(1) of the Crown Minerals Act 1991
+  - **permit area** means—
+    (a) the area of land over which any prospecting, exploration, or mining permit is granted under the Crown Minerals Act 1991; or
+    (b) the area of land over which an existing privilege exists
+  - **privilege** , in relation to any mineral,—
+    (a) means an existing privilege; and
+    (b) also means a prospecting, exploration, or mining permit granted under the Crown Minerals Act 1991, and its associated mining operations (within the meaning of section 2(1) of that Act)
+  - **relevant land** means land referred to in subsection (1)
+  - **representative amount** means the amount—
+    (a) payable in accordance with section 95; and
+    (b) calculated in accordance with section 96
+  - **royalties** has the meaning given in section 2(1) of the Crown Minerals Act 1991
+  - **section 10 minerals** means the minerals named in section 10 of the Crown Minerals Act 1991
+  - **vested minerals** means the minerals referred to in section 90(1) and (2)
+  - **year** means the period of 12 months beginning on 1 January and ending on 31 December.
+
+**Existing rights preserved**
+
+### 89 Certain existing rights preserved
+The following privileges, rights, obligations, functions, and powers (including those preserved by the transitional provisions in Part 2 of the Crown Minerals Act 1991) continue as if section 90 had not been enacted:
+  (a) privileges in existence immediately before—
+    (i) the property is vested or transferred as referred to in section 90(1); or
+    (ii) the transfer of the Pouarua Farm property to the Pouarua Farm Limited Partnership:
+  (b) rights that may be exercised under the Crown Minerals Act 1991 by the holders of those privileges or any other person:
+  (c) subsequent rights and privileges granted to those holders or any other person following the exercise of the rights referred to in paragraph (b) (including those provided for by section 32 of the Crown Minerals Act 1991):
+  (d) the obligations on those holders or any other person imposed by or under the Crown Minerals Act 1991:
+  (e) the Crown’s performance and exercise of its functions and powers under the Crown Minerals Act 1991 in relation to any of the matters referred to in paragraphs (a) to (d).
+
+**Certain minerals vested or transferred under this subpart**
+
+### 90 Vested minerals no longer to be reserved to the Crown
+(1) Despite section 11 of the Crown Minerals Act 1991,—
+  (a) when land referred to in section 88(1)﻿(a) is vested in the trustees, any Crown owned minerals in that land (other than section 10 minerals) vest with the land:
+  (b) when land referred to in section 88(1)﻿(b) is transferred to the trustees, any Crown owned minerals in that land (other than section 10 minerals) transfer with the land.
+(2) Despite section 11 of the Crown Minerals Act 1991, on the latest of the settlement dates applying under the settlement legislation for the relevant iwi named in subsection (5), any Crown owned minerals (other than section 10 minerals) in the land referred to in section 88(1)﻿(c) become the property of the Pouarua Farm Limited Partnership.
+(3) If a share in any relevant land is vested in or transferred to the trustees, the trustees own a share of any Crown owned minerals (other than section 10 minerals) in the same proportion as the shares in which they own the relevant land.
+(4) To avoid doubt, the vesting or transfer of land referred to in section 88(1) is subject to any mineral interests or rights to which, immediately before the commencement of this subpart, any person other than the Crown was entitled under the Land Transfer Act 2017 or any other Act, whether or not such interests or rights are recorded on the record of title for the land.
+(5) In this section and section 93, relevant iwi means all of the following:
+  (a) Ngāti Tara Tokanui:
+  (b) Ngāti Maru:
+  (c) Ngāti Pāoa:
+  (d) Ngāti Tamaterā:
+  (e) Te Patukirikiri.
+
+### 91 Application of Crown Minerals Act 1991
+(1) Nothing in this subpart—
+  (a) limits section 10 of the Crown Minerals Act 1991; or
+  (b) affects other lawful rights to subsurface minerals.
+(2) Section 49A of the Crown Minerals Act 1991 applies to the land described in section 88(1).
+
+**Registration**
+
+### 92 Notation of mineral ownership on records of title (other than for Pouarua Farm property)
+(1) This section applies instead of section 86 of the Crown Minerals Act 1991 to land referred to in section 88(1)﻿(a) and (b) at the time of its vesting or transfer.
+(2) An instrument lodged in respect of that land must include a request to the Registrar-General to record on any record of title for the land that the land is subject to section 90 of the Ngāti Tara Tokanui Claims Settlement Act 2026.
+(3) The Registrar-General must comply with a request received under subsection (2).
+(4) In this section, instrument means—
+  (a) a written application lodged under section 36(3), (5), or (6), as applicable, in respect of land referred to in section 88(1)﻿(a); or
+  (b) a transfer instrument lodged in respect of land referred to in section 88(1)﻿(b).
+
+### 93 Notation of mineral ownership on record of title for Pouarua Farm property
+(1) This section applies instead of section 86 of the Crown Minerals Act 1991 to the Pouarua Farm property referred to in section 88(1)﻿(c).
+(2) As soon as is reasonably practicable after the latest of the settlement dates applying under the settlement legislation for the relevant iwi named in section 90(5), the chief executive of the Office of Treaty Settlements and Takutai Moana—Te Tari Whakatau must make a written request to the Registrar-General—
+  (a) to record on the record of title for the land that the land is subject to section 90 of the Ngāti Tara Tokanui Claims Settlement Act 2026; and
+  (b) to remove from the record of title for the land the notation that the land is subject to section 11 of the Crown Minerals Act 1991.
+(3) The Registrar-General must comply with a request received under subsection (2).
+
+**Amounts payable in respect of vested minerals**
+
+### 94 Purpose and scope of arrangement for payments
+(1) The purpose of sections 95 to 99 is to provide that the rights to vested minerals include the payment by the Crown, in relation to the vested minerals, of—
+  (a) the representative amount; or
+  (b) if section 99(2) applies, the actual amount.
+(2) Payments made under subsection (1) must be made to the applicant.
+(3) The representative amount or the actual amount payable is based on the amount of royalties paid to the Crown in the preceding year or years for which an application is made under section 100 in respect of the vested minerals.
+(4) Payment of the representative amount or the actual amount, as appropriate, discharges the obligations of the Crown under this subpart in respect of any royalties paid to the Crown in respect of the vested minerals.
+
+### 95 Obligation to pay representative or actual amount
+(1) The chief executive, on receiving an application under section 100, must pay the representative amount or the actual amount, as appropriate, in respect of vested minerals to the applicant.
+(2) Subsection (1) applies even if the applicant has sold all or any of the relevant land or vested minerals, and the chief executive is not required to transfer payments to, or otherwise deal with, any new owner of the vested minerals.
+(3) The requirement to pay the representative amount or the actual amount applies—
+  (a) only if the Crown has been paid royalties in respect of the vested minerals in the year or years preceding the year in which an application is made under section 100; and
+  (b) only in respect of a period of not more than 8 years after the date on which those royalties were received by the Crown.
+(4) This section is subject to section 98 (shared ownership of land), section 100 (application for payment of representative amount), and section 102 (other conditions applying to payments).
+
+**Calculation of amount payable**
+
+### 96 Calculation of representative amount
+The representative amount payable under section 95 is calculated using the following formula:$r × (a ÷ pa)where—ais the area of relevant land within or overlapping the permit areapais the total permit area of a privilege that is within or overlaps the relevant land$ris the total amount of royalties paid to the Crown in respect of the vested minerals, for the years applied for under section 100, in respect of a privilege whose permit area is within or overlaps the relevant land.ExampleIf—a is 4 sq kms; andpa is 20 sq kms; and$r is $1,500; then$1,500 × (4 ÷ 20) = $300.
+
+### 97 Calculation of representative amount if more than 1 permit area
+If more than 1 permit area is within or overlaps the relevant land,—
+  (a) the representative amounts must be separately calculated for each permit area in accordance with section 96; and
+  (b) the total representative amount payable to the applicant in respect of the vested minerals for the permit areas is the sum of the separate amounts calculated under paragraph (a).
+
+### 98 Calculation of representative amount if relevant land held in shares
+If the relevant land is held in shares, the representative amount payable to the applicant in respect of the vested minerals is calculated using the following formula:$r × (a ÷ pa) × %where—a, pa, and $rhave the meanings given to those terms in section 96%is the percentage of the vested minerals owned in each share at the time the relevant land is vested in or transferred to the applicant.ExampleIf—a is 4 sq kms; andpa is 20 sq kms; and$r is $1,500; andthe vested minerals are owned in 20% shares; then$1,500 × (4 ÷ 20) × 20% = $60.
+
+### 99 When actual amount may be paid
+(1) When an application is received under section 100, the Minister must determine whether the information is sufficient to identify the actual amount paid to the Crown as royalties in respect of vested minerals in the year or years applied for.
+(2) If the Minister is satisfied that there is sufficient information to determine the actual amount referred to in subsection (1), the Minister may pay to the applicant the actual amount to which the application relates in respect of those vested minerals instead of the representative amount that would otherwise be payable.
+(3) If there is not sufficient information to enable the Minister to make a determination under subsection (1), the chief executive must determine the representative amount payable in accordance with this subpart.
+(4) If the relevant land is owned in shares, any payment of the actual amount in respect of the vested minerals must be made in the same proportion as the proportion of the shares held in the relevant land at the time the land is vested in or transferred to the applicant.
+
+**Application for payment of representative amount**
+
+### 100 Application requirements
+(1) An applicant (but no other person or body), may apply for payment of the representative amount.
+(2) Applications must be made—
+  (a) in writing to the chief executive; and
+  (b) not more than once a year; and
+  (c) not later than 31 March in respect of the preceding year or years applied for.Example relating to paragraph (c)The applicant may apply,—by 31 March 2023, for a payment relating to the year 2022:by 31 March 2028, for a payment relating to the years 2022 to 2027.
+(3) An application must not relate to any year earlier than 8 years before the date of the application.
+(4) An application must contain the information necessary to establish—
+  (a) that the relevant land is or was owned by the applicant (for example, a copy of the record of title for the land); and
+  (b) the date on which the vested minerals in the relevant land became the property of the applicant; and
+  (c) the shares (if any) in which the land is held; and
+  (d) the year or years to which the application relates; and
+  (e) the details of the applicant for the purpose of enabling payment to be made.
+(5) No payment may be made unless an application is made under this section.
+(6) The chief executive may request further information from an applicant—
+  (a) to establish the information required under subsection (4):
+  (b) to enable the Minister to determine whether the actual amount or the representative amount is to be paid.
+
+### 101 Advice to be given to applicant
+The chief executive must—
+  (a) consider the application, including whether the information is sufficient to enable the Minister to determine the actual amount under section 99; and
+  (b) advise the applicant in writing of the amount that the applicant is to be paid.
+
+### 102 Other conditions applying to payments
+(1) Payment of the representative amount or actual amount, as the case requires,—
+  (a) must be made as soon as is reasonably practicable after 31 March in each year; but
+  (b) must not be made more than once a year.
+(2) For the first year of payment of the representative amount or actual amount, the payment must be calculated—
+  (a) from the date on which the vested minerals in the relevant land became the property of the applicant (the vesting date); and
+  (b) in proportion to the number of days that have elapsed in that year on and from the vesting date.
+(3) Interest is not payable on the amounts paid under this subpart, irrespective of the period to which an amount relates.
+
+**Status of certain information**
+
+### 103 Confidentiality of information disclosed or received
+(1) Any information disclosed to the applicant by the Crown under this subpart is a disclosure permitted under section 90A of the Crown Minerals Act 1991.
+(2) Information about the royalties paid to the Crown in respect of the vested minerals may be disclosed to the applicant in fulfilment of the obligations of the Crown under this subpart.
+(3) Information disclosed under subsection (2) is confidential to the applicant, subject to any legal obligations that the applicant may have to disclose the information, such as any statutory reporting requirements.
+
+**Consequential amendments to Crown Minerals Act 1991**
+
+### 104 Amendments to Crown Minerals Act 1991
+(1) This section amends the Crown Minerals Act 1991.
+(2) After section 25(6)﻿(c), insert:
+  (d) section 89 of the Ngāti Tara Tokanui Claims Settlement Act 2026.
+(3) After section 32(7)﻿(d), insert:
+  (e) the persons or body referred to in section 88(1) of the Ngāti Tara Tokanui Claims Settlement Act 2026, subject to section 89 of that Act.
+(4) After section 49A(3)﻿(b), insert:
+  (c) the Ngāti Tara Tokanui Claims Settlement Act 2026.
+(5) In Schedule 6, insert in its appropriate alphabetical order:The land described in section 88(1) of the Ngāti Tara Tokanui Claims Settlement Act 2026.
+
+## Schedule 1 — Cultural redress properties
+
+| Name of property | Description | Interests |
+| --- | --- | --- |
+| Kepa Place | South Auckland Land District—Hauraki District0.2341 hectares, more or less, being Section 18 Block XXXII Town of Paeroa. Balance Gazette notice H639656. |  |
+| Ngā Ure Tara | South Auckland Land District—Western Bay of Plenty District0.4423 hectares, more or less, being Sections 2 and 3 SO 493355. Part Gazette 1865, p 187. | Subject to an unregistered licence to occupy dated 16 September 2013. |
+| Tanners Point property | South Auckland Land District—Western Bay of Plenty District0.1952 hectares, more or less, being Section 1 SO 454555. Part Gazette notice H464848. |  |
+
+| Name of property | Description |  | Interests |
+| --- | --- | --- | --- |
+| Ngāmarama | South Auckland Land District—Hauraki District2.9600 hectares, more or less, being Section 270 Block XIII Ohinemuri Survey District. All Gazette notice B176792.2. |  | Subject to being a recreation reserve, as referred to in section 26(4). |
+|  |  | Subject to Gazette notice B556530.1 declaring adjoining State Highway 2 to be a limited access road. |  |
+| Ngāti Koi Domain | South Auckland Land District—Hauraki District54.1267 hectares, more or less, being Section 15 Block XVI Ohinemuri Survey District. All record of title SA7A/1454 for the fee simple estate. |  | Subject to being a recreation reserve, as referred to in section 27(3). |
+| Tawhitiaraia | South Auckland Land District—Western Bay of Plenty District261.1 hectares, approximately, being Lots 1 and 2 DPS 4983, Part Lot 1 DP 22757 and Part Ohinemuri 8. All transfer S158188, Part Proclamation 10168, and Part Gazette 1884, p 1212. Subject to survey.As shown on OTS-100-206. |  | Subject to being a scenic reserve, as referred to in section 29(3). |
+|  |  | Subject to the right of way easement in gross referred to in section 29(5)﻿(a). |  |
+| Subject to the right of way easement in gross referred to in section 29(5)﻿(b). |  |  |  |
+|  |  |  | Subject to an easement in gross for a right of way, a right to store water, and a right to convey water created by easement instrument 13294332.2. |
+|  |  |  | Subject to an unregistered guiding permit with concession number WK-17785-GUI to Kiwi Dundee Adventures Limited. |
+|  |  |  | Subject to an unregistered guiding permit with concession number 63487-GUI to Nature and Nosh Tours NZ Limited. |
+|  |  |  | Subject to an unregistered guiding permit with concession number 55418-GUI to Sole Ventures Limited. |
+| Te Pou o Tiki Te Aroha | South Auckland Land District—Hauraki District1.4847 hectares, more or less, being Section 88 Block I Aroha Survey District. All Gazette notice S365477. |  | Subject to being a scenic reserve, as referred to in section 30(3). |
+|  |  | Subject to an unregistered guiding permit with concession number WK-17785-GUI to Kiwi Dundee Adventures Limited.Subject to an unregistered guiding permit with concession number 39423-GUI to Active New Zealand Limited. |  |
+
+| Name of property | Description |  | Interests |
+| --- | --- | --- | --- |
+| Karangahake | South Auckland Land District—Hauraki District10.0000 hectares, more or less, being Section 1 SO 533652. Part record of title 65780 for the fee simple estate. |  | Subject to the conservation covenant referred to in section 31(4)﻿(a). |
+|  |  | Subject to the right of way easement in gross referred to in section 31(4)﻿(b). |  |
+|  |  | Subject to an unregistered right of way easement in gross with concession number BP-25311-OTH to Hauraki District Council. |  |
+|  |  |  | Subject to an unregistered guiding permit with concession number 98005-SSE to Total Sport Limited. |
+| Mimitu Pā | South Auckland Land District—Hauraki District180.4898 hectares, more or less, being Section 44 Block XIV Ohinemuri Survey District. All Gazette 1975, p 2275. |  | Subject to the conservation covenant referred to in section 32(3). |
+
+## Schedule 2 — Whenua rāhui area
+
+| Overlay area | Location | Description |
+| --- | --- | --- |
+| Karangahake Scenic Reserve | As shown on OTS-100-220 | South Auckland Land District—Hauraki District0.2175 hectares, more or less, being Part Ohinemuri No 10. |
+|  |  | 8.1952 hectares, more or less, being Part Section 112 Block I Aroha Survey District. |
+|  |  | 0.4097 hectares, more or less, being Section 27 Block I Aroha Survey District. |
+
+## Schedule 3 — Statutory areas
+
+| Statutory area | Location |
+| --- | --- |
+| Aongatete River and its tributaries | As shown on OTS-100-221 |
+| Coastal Statutory Acknowledgement Area | As shown on OTS-100-213 |
+| Conservation Area-Waikino | As shown on OTS-100-218 |
+| Karangahake Walkway Conservation Area | As shown on OTS-100-215 |
+| Ohinemuri River and its tributaries | As shown on OTS-100-210 |
+| Opoutere Beach Recreation Reserve | As shown on OTS-100-214 |
+| Owharoa Falls Scenic Reserve | As shown on OTS-100-216 |
+| Taingahue Stream and its tributaries (being Waitengaue Stream and its tributaries) | As shown on OTS-100-219 |
+| Uretara Stream and its tributaries | As shown on OTS-100-211 |
+| Victoria Battery Historic Reserve | As shown on OTS-100-217 |
+| Waiau River and its tributaries | As shown on OTS-100-222 |
+| Waimata Stream and its tributaries | As shown on OTS-100-223 |
+| Waiorongomai (being part of Kaimai Mamaku Conservation Park) | As shown on OTS-100-212 |
+| Wharekawa Burial Ground | As shown on OTS-100-224 |
