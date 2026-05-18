@@ -5,7 +5,7 @@ _Consolidation as at 2026-05-18_
 This Act is the Ngāti Tara Tokanui Claims Settlement Act 2026.
 
 ### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
+This Act comes into force on 19 May 2026.
 
 ## Part 1 — Preliminary matters, historical account, acknowledgements and apology, and settlement of historical claims
 
