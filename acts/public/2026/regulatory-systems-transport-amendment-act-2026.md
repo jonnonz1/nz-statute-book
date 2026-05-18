@@ -5,7 +5,7 @@ _Consolidation as at 2026-05-18_
 This Act is the Regulatory Systems (Transport) Amendment Act 2026.
 
 ### 2 Commencement
-This Act comes into force on the day after Royal assent.
+This Act comes into force on 19 May 2026.
 
 ## Part 1 — Amendments to Government Roading Powers Act 1989
 
