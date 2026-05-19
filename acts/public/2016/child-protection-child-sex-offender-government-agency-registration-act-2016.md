@@ -1,5 +1,5 @@
 # Child Protection (Child Sex Offender Government Agency Registration) Act 2016
-_Consolidation as at 2026-05-01_
+_Consolidation as at 2026-05-19_
 
 ### 1 Title
 This Act is the Child Protection (Child Sex Offender Government Agency Registration) Act 2016.
@@ -424,8 +424,14 @@ Who may receive report
 
 ### 28 Additional matters to be provided
 (1) If a report is required to be made by attending in person, the person making the report must also—
-  (a) present for inspection the registrable offender’s driver licence (if any) or any other form of identification or other document reasonably required by the constable or authorised person receiving the report to verify or support details in the report; and
-  (b) if not the registrable offender, present for inspection their driver licence (if any) or other form of identification reasonably required by the constable or authorised person receiving the report.
+  (a) present for inspection—
+    (i) the registrable offender’s physical driver licence (if any); or
+    (ii) the registrable offender’s electronic driver licence in a manner that accords with the Land Transport Act 1998 and any regulations or rules made under that Act; or
+    (iii) any other document or form of identification reasonably required by the constable or authorised person receiving the report to verify or support details in the report; and
+  (b) if not the registrable offender, present for inspection—
+    (i) the person’s physical driver licence (if any); or
+    (ii) the person’s electronic driver licence in a manner that accords with the Land Transport Act 1998 and any regulations or rules made under that Act; or
+    (iii) any other document or form of identification reasonably required by the constable or authorised person receiving the report.
 (2) The constable or authorised person receiving the report may waive any requirements of subsection (1) if the constable or authorised person is otherwise satisfied as to the identity of the person making the report.
 (3) If a report is required to be made by attending in person, the person making the report must also present for inspection the following documents (if any) held by or reasonably available to the registrable offender:
   (a) each valid passport:
