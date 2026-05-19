@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2026-05-07_
+_Consolidation as at 2026-05-19_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -83,10 +83,14 @@ _Consolidation as at 2026-05-07_
   - **Director** or means the Director of Land Transport appointed under section 104A of the Land Transport Management Act 2003
   - **drink** means alcoholic drink
   - **driver** , in relation to a vehicle, includes the rider of the motorcycle or moped or bicycle; and has a corresponding meaning
-  - **driver licence** means a licence to drive that is issued or has effect under this Act; and includes an endorsement on a driver licence
+  - **driver licence** means a licence to drive that is issued or has effect under this Act, and includes—
+    (a) an electronic driver licence; and
+    (b) a physical driver licence; and
+    (c) an endorsement on a driver licence
   - **driver licence stop order** means an order imposed under section 91E
   - **elective oral fluid sample** means a sample of oral fluid taken from a person under section 71DC(2)
   - **electronic address** includes an email address
+  - **electronic driver licence** means a driver licence in electronic format
   - **enforcement authority** , in relation to an infringement offence, means (except in relation to Part 17)—
     (a) the New Zealand Police, in any case:
     (b) the Agency or the Director, in the case of an infringement offence for which an infringement notice is issued by an employee of the Agency or the Director or on behalf of the Agency:
@@ -208,7 +212,7 @@ _Consolidation as at 2026-05-07_
   - **mobility device** means—
     (a) a vehicle that—
       (i) is designed and constructed (not merely adapted) for use by persons who require mobility assistance due to a physical or neurological impairment; and
-      (ii) is powered solely by a motor that has a maximum power output not exceeding 1 500 W; or
+      (ii) is powered solely by a motor that has a maximum continuous power output not exceeding 1 500 W; or
     (b) a vehicle that the Agency has declared under section 168A(1) to be a mobility device
   - **moped** means a motor vehicle (other than a power-assisted pedal cycle) that has—
     (a) 2 or 3 wheels; and
@@ -289,6 +293,7 @@ _Consolidation as at 2026-05-07_
       (ii) a vehicle specified as an exempt passenger service vehicle in the regulations or the rules
   - **passive breath-testing device** means a passive breath-testing device of a kind approved by the Minister of Police, by notice (see subsection (6))
   - **permanent speed limit** means a speed limit that is in force except when a seasonal, variable, minimum, emergency, or temporary speed limit is in force
+  - **physical driver licence** means a driver licence in physical format, whether or not the licence contains an electronic element (such as a chip)
   - **point-to-point average speed system** means a system that—
     (a) consists of 2 items of approved vehicle surveillance equipment that operate in combination and with the support of associated software; and
     (b) has the ability to—
@@ -542,8 +547,12 @@ This Act binds the Crown.
 (1) A person may not operate an unsafe motor vehicle on a road.
 (2) If the regulations or the rules require a vehicle to have current evidence of vehicle inspection or a current certificate of loading, or both, a person may not operate the vehicle on a road without the appropriate current evidence of vehicle inspection or certificate or both (as the case may require).
 (3) A person operating a motor vehicle that is required to have current evidence of vehicle inspection or a certificate of loading must comply with the provisions in the regulations and the rules concerning such evidence or certificate, and the operation of the vehicle.
-(4) Evidence of vehicle inspection must be displayed on the vehicle to which it applies.
-(5) A certificate of loading must be displayed on the vehicle to which it applies if required by the rules.
+(4) Evidence of vehicle inspection must be—
+  (a) displayed on the vehicle to which it applies; or
+  (b) electronically available in a manner prescribed by the regulations or rules.
+(5) A certificate of loading must, if required by the regulations or rules, be—
+  (a) displayed on the vehicle to which it applies; or
+  (b) electronically available in a manner prescribed by the regulations or rules.
 
 ### 7 Drivers not to be reckless or dangerous
 (1) A person may not drive a motor vehicle, or cause a motor vehicle to be driven, recklessly.
@@ -592,7 +601,7 @@ A person may not drive or attempt to drive a motor vehicle while under the influ
 (3) A person must comply with all lawful requirements and requests made by a health practitioner or medical officer under section 72 or section 73 (which relate to the administration of blood tests).
 (4) A person may not—
   (a) remove, obscure, or render indistinguishable a notice affixed to a vehicle under section 115, unless current evidence of vehicle inspection has been obtained for the vehicle or (if the notice was given under section 96(1B)) the direction requiring the vehicle not to be driven on a road has been cancelled under section 102(3)﻿(b) or section 110(3)﻿(a)﻿(ii); or
-  (b) drive a vehicle to which a notice given under section 115 applies until current evidence of vehicle inspection has been obtained for, and is displayed on, the vehicle.
+  (b) drive a vehicle to which a notice given under section 115 applies until current evidence of vehicle inspection has been obtained for, and is displayed on, the vehicle or is electronically available in a manner prescribed by the regulations or rules.
 (5) Drivers and other persons must comply with all other lawful requirements, directions, notices, and requests given to, and prohibitions imposed on, them under this Act by an enforcement officer or a dangerous goods enforcement officer.
 
 ## Part 3 — Additional responsibilities concerning road transport
@@ -640,19 +649,42 @@ A person may not, with intent to cause a false record of the distance travelled 
 (4)
 
 ### 19 Licences of certain persons subject to Mental Health (Compulsory Assessment and Treatment) Act 1992 to be suspended
-(1) If a person who holds a driver licence becomes subject to a compulsory treatment order that is an inpatient order or becomes a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992,—
-  (a) the person in charge of the hospital to which the person is referred or at which the person is detained must notify the Director of Land Transport of the making of an inpatient order or that the person is a special patient (as the case may be); and
-  (b) the licence is suspended while the holder is subject to an inpatient order or is a special patient.
-(2) A person who has possession of the driver licence of a person referred to in subsection (1) must, on the request of the person in charge of the hospital at which the holder is an inpatient, deliver the licence to the person in charge of the hospital; and the person in charge must forward the licence to the Director of Area Mental Health Services.
-(3) The Director of Area Mental Health Services must retain a driver licence received under this section until it ceases to be subject to this section, and then,—
-  (a) in the case of a licence that applies to commercial vehicles, forward the licence to the Director of Land Transport; or
-  (b) in any other case, return the licence to the holder or to the person in possession referred to in subsection (2).
-(4) If a person to whom this section applies ceases to be a person referred to in subsection (1) and his or her responsible clinician considers that person to be unfit to hold a driver licence, the responsible clinician must advise the Director of Area Mental Health Services of that opinion and that Director must give the Director of Land Transport a certificate to that effect and (if it is in his or her possession) return the licence to the Director of Land Transport; and the licence has no effect unless it is returned to the holder under subsection (5).
-(5) A person referred to in subsection (4) may apply to the Director of Land Transport for the return of his or her driver licence and the Director of Land Transport must return the licence if satisfied the holder is fit to drive.
-(6) If—subsection (1)﻿(b) does not apply to that person while that person is absent on leave from the hospital, and, if that person's driver licence is held by the Director of Area Mental Health Services, the licence must be returned to the holder.
-  (a) a person to whom subsection (1) applies is, under any of sections 31, 50, and 52 of the Mental Health (Compulsory Assessment and Treatment) Act 1992, permitted to be absent on leave from a hospital under that Act; and
-  (b) a responsible clinician certifies in writing that, in the clinician's opinion, that person is fit to hold a driver licence,—
-(7) In any case to which subsection (3)﻿(a) applies, once the holder ceases to be subject to this section, the Director of Land Transport must, as soon as practicable after the Director of Land Transport is satisfied the holder is eligible to hold the licence, return the licence to the holder or to the person previously in possession referred to in subsection (2).
+(1) If a person who holds a driver licence (a holder) becomes subject to a compulsory treatment order that is an inpatient order or becomes a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992,—
+  (a) the person in charge of the hospital to which the holder is referred, or at which the holder is detained, must notify the Director of Land Transport of the making of the inpatient order or that the holder is a special patient (as the case may be); and
+  (b) the licence is suspended while the holder is subject to the inpatient order or is a special patient.
+Physical driver licence
+(2) If the holder has a physical driver licence, the person who has possession of the holder’s physical driver licence must, on the request of the person in charge of the hospital at which the holder is an inpatient, deliver the physical driver licence to the person in charge of the hospital, and the person in charge must forward the physical driver licence to the Director of Area Mental Health Services.
+(3) The Director of Area Mental Health Services must retain the holder’s physical driver licence until the holder ceases to be subject to an inpatient order or to be a special patient and then,—
+  (a) in the case of a physical driver licence that applies to commercial vehicles, forward the physical driver licence to the Director of Land Transport; or
+  (b) in the case of any other physical driver licence, return the physical driver licence to the holder or to the person who had possession of the physical driver licence under subsection (2).
+(4) In the case of a physical driver licence that applies to commercial vehicles, once the holder ceases to be subject to an inpatient order or to be a special patient, the Director of Land Transport must, as soon as practicable after the Director of Land Transport is satisfied that the holder is eligible to hold the licence, return the licence to the holder or to the person who had possession of the licence under subsection (2).
+Electronic driver licence
+(5) If the holder has an electronic driver licence, the Director of Land Transport may do either or both of the following:
+  (a) prevent the holder’s access to their electronic driver licence:
+  (b) amend the electronic driver licence.
+(6) Once the holder ceases to be subject to an inpatient order or to be a special patient, the Director of Land Transport must restore the holder’s access to their electronic driver licence if access was prevented and remove any amendments made to the electronic driver licence under this section as soon as practicable after the Director of Land Transport is satisfied that—
+  (a) the holder is no longer subject to an inpatient order or a special patient; and
+  (b) the holder is eligible to hold the electronic driver licence.
+Ongoing licence restrictions
+(7) If a holder ceases to be subject to an inpatient order or to be a special patient and their responsible clinician considers the holder to be unfit to hold a driver licence,—
+  (a) the responsible clinician must advise the Director of Area Mental Health Services of that opinion and the Director of Area Mental Health Services must give the Director of Land Transport a certificate to that effect; and
+  (b) if the holder has a physical driver licence and the Director of Area Mental Health Services has possession of that licence, that Director must return the licence to the Director of Land Transport; and
+  (c) if the holder has an electronic driver licence, the Director of Land Transport may do either or both of the following:
+    (i) prevent the holder’s access to their electronic driver licence:
+    (ii) amend the electronic driver licence; and
+  (d) the holder’s driver licence has no effect unless, in accordance with subsection (8),—
+    (i) in the case of a physical driver licence, the licence is returned:
+    (ii) in the case of an electronic driver licence, the holder’s access to their licence is restored.
+(8) The holder may apply to the Director of Land Transport for the return of their driver licence and the Director of Land Transport must, if satisfied that the holder is fit to hold a driver licence,—
+  (a) in respect of a physical driver licence that is held by the Director of Land Transport, return the licence to the holder:
+  (b) in respect of an electronic driver licence, restore the holder’s access to their licence if access was prevented and remove any amendments made to the licence under this section.
+Leave from hospital
+(9) The driver licence of a holder who is subject to an inpatient order or is a special patient is not suspended while that holder is absent on leave from the hospital if—
+  (a) that holder is, under any of sections 31, 50A, and 52 of the Mental Health (Compulsory Assessment and Treatment) Act 1992, permitted to be absent on leave from a hospital under that Act; and
+  (b) a responsible clinician certifies in writing that, in the clinician’s opinion, that holder is fit to hold a driver licence.
+(10) If subsection (9) applies—
+  (a) in respect of a physical driver licence, the Director of Area Mental Health Services must, if they hold the holder’s physical driver licence, return the physical driver licence to the holder:
+  (b) in respect of an electronic driver licence, the Director of Land Transport must, as soon as possible after receiving a certificate under subsection (9)﻿(b), restore the holder’s access to their electronic driver licence if access was prevented and remove any amendments made to the licence under this section.
 
 ### 20 Traffic surveys not to be conducted unless approved by Agency
 (1) A person may not, without the prior written consent of the Agency, conduct on a road a traffic survey that is likely to involve the stopping, delay, or diversion of vehicles.
@@ -670,13 +702,16 @@ If an enforcement officer, acting in the course of his or her official duties, b
 (2) The driver or rider of the vehicle must, if required by an enforcement officer or any other person involved in the accident, give the officer or other person—
   (a) the driver's or rider's name and address; and
   (aa) the driver’s or rider’s electronic address (if the driver or rider has an electronic address); and
+  (ab) the driver’s or rider’s mobile phone number (if the driver or rider has a mobile phone number); and
   (b) the name and address of the owner of the vehicle; and
   (ba) the owner’s electronic address (if the owner has an electronic address); and
+  (bb) the owner’s mobile phone number (if the owner has a mobile phone number); and
   (c) if the vehicle concerned is a motor vehicle, the number or letters or other expression on the registration plates assigned to the vehicle.
 (3) If the accident involves an injury to or the death of a person, the driver or rider must report the accident to an enforcement officer as soon as reasonably practicable, and in any case not later than 24 hours after the time of the accident, unless the driver or rider is incapable of doing so by reason of injuries sustained in the accident.
 (4) If the accident involves damage to an unoccupied motor vehicle or to other property belonging to a person other than the driver or rider, the driver or rider must (unless is incapable of doing so by reason of injuries sustained in the accident), not later than 48 hours after the time of the accident, report to the owner—
   (a) the driver's or rider's name and address; and
   (aa) the driver’s or rider’s electronic address (if the driver or rider has an electronic address); and
+  (ab) the driver’s or rider’s mobile phone number (if the driver or rider has a mobile phone number); and
   (b) the number on the registration plates assigned to the motor vehicle; and
   (c) the location of the accident.
 (5) If the accident involves damage to an unoccupied motor vehicle or to other property belonging to a person other than the driver or rider, but the owner cannot readily be contacted or identified, the driver or rider must report the accident to an enforcement officer as soon as practicable and in any case within 60 hours after the time of the accident.
@@ -730,6 +765,7 @@ If an enforcement officer, acting in the course of his or her official duties, b
     (v) prescribing the conditions under which any parking place or transport station may be used:
     (vi) prescribing the charges to be paid to the relevant road controlling authority in connection with the use of any parking place or transport station, as measured by parking meters or in any other manner specified in the bylaws:
     (vii) providing for the removal of vehicles from parking places or transport stations or roads where those vehicles are using those places or stations in breach of the bylaws, and requiring the payment of the reasonable cost of such removal:
+    (viii) prescribing an infringement fee for any infringement offence involving parking in breach of a bylaw and in excess of a period fixed by a meter or otherwise:
   (p) providing that, subject to the erection of the prescribed signs, vehicles on roads must travel in 1 specified direction only:
   (q) prohibiting, subject to the erection of the prescribed signs, vehicles on a roadway turning from facing or travelling in 1 direction to facing or travelling in the opposite direction, or prohibiting vehicles on a road, other than vehicles of a specified class, from turning to the right or to the left:
   (r) prescribing, subject to the marking of lanes on the roadway, that on any road any traffic lane may be used or any turning movement may be made only by vehicles of specified classes or vehicles carrying specified classes of loads or no fewer than a specified number of occupants:
@@ -768,6 +804,11 @@ If an enforcement officer, acting in the course of his or her official duties, b
 (3) A bylaw made under subsection (1) may leave any matter or thing to be regulated, controlled, or prohibited by the road controlling authority by resolution generally, for any specified classes of case, or in a particular case.
 (3A) A relevant road controlling authority may, by resolution, limit a parking place or transport station or any specified part of that parking place or transport station to vehicles belonging to or used by particular persons or classes of persons or to vehicles used for particular public purposes.
 (3B) If, under subsection (3A), a parking place or transport station is limited to vehicles belonging to or used by particular persons or classes of persons or to vehicles used for particular public purposes, no person in charge of any other vehicle may allow the vehicle to stand in the parking place or transport station.
+(3C) For the purposes of subsection (1)﻿(o)﻿(viii),—
+  (a) the infringement fee must not exceed the relevant fee prescribed by regulations, or must be within the range of fees prescribed if a range is prescribed; but
+  (b) if the road controlling authority has not made a bylaw prescribing an infringement fee, the relevant fee is—
+    (i) the fee prescribed by regulations, in the case of regulations prescribing a single fee; or
+    (ii) the minimum fee prescribed by regulations, in the case of regulations prescribing a range of fees.
 (4) A copy of every bylaw made under this section by a road controlling authority must, within 1 week after being made, be sent by the road controlling authority to the Minister, who may at any time disallow the bylaw or any part of the bylaw under section 22AC.
 (5) Nothing in this section—
   (a) applies to any railway on, over, or across any road; or
@@ -844,7 +885,7 @@ If an enforcement officer, acting in the course of his or her official duties, b
 (1) A person may not use a traction engine in a public place in a manner that, having regard to all the circumstances, is or might be dangerous to the public or to a person.
 (2) If the regulations or the rules require a traction engine to have current evidence of vehicle inspection, or any other certificate, or both, a person may not use the traction engine in a public place without the appropriate current evidence of vehicle inspection, certificate, or both (as the case may require).
 (3) A person who uses a traction engine that is required to have current evidence of vehicle inspection, or a certificate, must comply with the regulations and the rules concerning such evidence or certificate, and the use of the traction engine.
-(4) Current evidence of vehicle inspection must be displayed on the traction engine to which it applies.
+(4) Current evidence of vehicle inspection must be displayed on the traction engine to which it applies or electronically available in a manner prescribed by the regulations or rules.
 
 ## Part 4 — Driver licensing
 
@@ -853,7 +894,8 @@ If an enforcement officer, acting in the course of his or her official duties, b
 (2) Except as provided in subsection (3), a driver licence may be issued for a period not exceeding 10 years and, unless the licence is extended under that subsection or for any reason ceases to have effect on an earlier date, the licence expires on the expiry date specified on the licence.
 (3) The Director may—
   (a) issue licences for a period not exceeding 11 years in cases provided for by the rules:
-  (b) extend, in accordance with the rules, the term of a driver licence by 1 further period not exceeding 12 months.
+  (b) extend, in accordance with the rules, the term of a driver licence by 1 further period not exceeding 12 months:
+  (c) extend, in accordance with section 209B, the term of a driver licence (including a driver licence that has been issued in accordance with paragraph (a) or further extended in accordance with paragraph (b)).
 (4) All driver licences in force immediately before this subsection comes into force continue in force and expire on a date to be determined in accordance with the rules, even though they may have been valid for more than 10 years when issued.
 
 ### 24 Director may issue temporary driver licences
@@ -906,7 +948,7 @@ The Director may require an applicant for a driver licence and holders of driver
 The Director may suspend or revoke a driver licence in accordance with the regulations and the rules.
 
 ### 28 Photographic driver licence
-(1) A driver licence must be in the prescribed form and must have on it—
+(1) A driver licence must, in the prescribed manner, include—
   (a) a photographic image of the holder; and
   (b) the holder's name and signature; and
   (c) the holder's date of birth; and
@@ -917,7 +959,10 @@ The Director may suspend or revoke a driver licence in accordance with the regul
   (h) the date on which the licence expires; and
   (i) organ donor information (if applicable); and
   (j) an indication of any condition the holder must comply with while driving a motor vehicle; and
-  (k) such other features as may be specified in the rules for the purposes of verifying or protecting the integrity of the licence.
+  (k) any other features that may be specified in the regulations or rules—
+    (i) for the purposes of verifying or protecting the integrity of the driver licence; or
+    (ii) for the specific format of the driver licence.
+(1A) Different prescribed forms may be prescribed for different types of driver licences, including different formats of driver licences.
 (2) In addition, a driver licence may show the holder's address if the holder requests that those details be shown.
 (3) A driver licence may not have on it any photographic image, information, or features other than those referred to in subsection (1) or subsection (2).
 (4) This section applies to licences issued or renewed on or after the date this section comes into force, subject to subsections (4A), (4B), and (4C).
@@ -1008,23 +1053,32 @@ Despite section 28(1)﻿(g) and (4), the date of issue of a driver licence conti
   - **imprisonment** has the same meaning as in section 29A(4)
   - **specified serious offence** has the same meaning as in section 29A(4).
 
-### 30 Driver licences are property of Agency and are to be surrendered in certain circumstances
-(1) Driver licences are the property of the Agency and, except where section 19 or subsection (4B) applies, must be surrendered or forwarded to the Agency or the Director in accordance with subsections (2) to (4A).
-(2) The holder of a driver licence must, immediately after receiving notice of the suspension or revocation, surrender his or her licence to the Agency or the Director if—
+### 30 Driver licences are property of Agency and are to be surrendered or access is to be prevented in certain circumstances
+(1) Driver licences are the property of the Agency and,—
+  (a) in the case of a physical driver licence, must be surrendered or forwarded to the Agency or the Director in accordance with subsections (2) to (4A), unless subsection (4B) or section 19 applies:
+  (b) in the case of an electronic driver licence, access to an electronic driver licence may be prevented or the electronic driver licence may be amended in accordance with subsection (4C), unless section 19 applies.
+Surrender of physical driver licence
+(1A) Subsections (2) to (4B) apply if a person holds a physical driver licence.
+(2) The holder of a physical driver licence must, immediately after receiving notice of the suspension or revocation, surrender his or her licence to the Agency or the Director if—
   (a) the licence is suspended or revoked under any Act; or
   (b) the suspension or revocation applies to any endorsement or class specified in the licence but not to the whole licence.
-(3) If the holder of a driver licence is disqualified by order of a court from holding or obtaining a driver licence, the holder must (whether or not a demand is made on him or her) immediately surrender the licence to the court where the order was made or to a constable or at any office of the Agency.
-(3A) If an enforcement officer has suspended a person's driver licence in accordance with section 90(2), the person must immediately surrender his or her licence to the officer.
-(4) A person who receives a driver licence under subsection (3), (3A), (4A)﻿(b) or (c), or (4B) must immediately forward it to the Agency.
-(4A) The holder of a driver licence must, if that licence is superseded by another driver licence, surrender that driver licence to—
+(3) If the holder of a physical driver licence is disqualified by order of a court from holding or obtaining a driver licence, the holder must (whether or not a demand is made on him or her) immediately surrender the licence to the court where the order was made or to a constable or at any office of the Agency.
+(3A) If an enforcement officer has suspended a person's driver licence in accordance with section 90(2), the person must immediately surrender the physical driver licence to the officer.
+(4) A person who receives a physical driver licence under subsection (3), (3A), (4A)﻿(b) or (c), or (4B) must immediately forward it to the Agency.
+(4A) The holder of a physical driver licence must, if that licence is superseded by another physical driver licence, surrender that physical driver licence to—
   (a) the Agency; or
   (b) a person appointed by the Agency or the Director; or
   (c) a constable.
 (4B) A person on whom a driver licence stop order is imposed must,—
-  (a) if the order is served in a way other than that described in section 91B(1)﻿(a), deliver or post his or her driver licence to an employee or agent of the Ministry of Justice at an office of that Ministry or at the District Court:
-  (b) if the order is served in the way described in section 91B(1)﻿(a), surrender his or her driver licence to the employee or agent of the Ministry of Justice, or to the enforcement officer, who serves the order.
+  (a) if the order is served in a way other than that described in section 91B(1)﻿(a), deliver or post the physical driver licence held by the person to an employee or agent of the Ministry of Justice at an office of that Ministry or at the District Court:
+  (b) if the order is served in the way described in section 91B(1)﻿(a), surrender the physical driver licence held by the person to the employee or agent of the Ministry of Justice, or to the enforcement officer, who serves the order.
+Prevention of electronic driver licence access
+(4C) If any of the circumstances described in subsections (2) to (3A), (4A), and (4B) apply to a person who holds an electronic driver licence, the Director may do either or both of the following:
+  (a) prevent the holder’s access to their electronic driver licence:
+  (b) amend the electronic driver licence.
+Issue of new licence
 (5) The Director must, subject to sections 82A, 83, and 105(6A) and as soon as practicable after being satisfied that a person is entitled to apply for and be granted a driver licence,—
-  (a) issue a new driver licence to the person when the disqualification or suspension expires or is removed; or
+  (a) issue a new driver licence to the person, or restore access to the electronic driver licence and remove any amendments made to the electronic driver licence under this section, when the disqualification or suspension expires or is removed; or
   (b) in the case where a court authorises the issue of an alcohol interlock licence, issue an alcohol interlock licence to the person; or
   (c) in the case where a court authorises the issue of a zero alcohol licence, issue a zero alcohol licence to the person; or
   (d) in the case where a court authorises the issue of a limited licence, issue a limited licence to the person.
@@ -1141,6 +1195,22 @@ A transport service operator may not carry on (or, in relation to a small passen
 (2) In determining whether or not a person is a fit and proper person in relation to any transport service, the Director must consider the matters specified in subpart 2.
 (3) Subpart 5 applies to a decision not to grant a transport service licence.
 
+### 30LA New person in control of licensed transport service must be fit and proper person
+(1) This section applies if, after the Director grants a transport service licence to a person (the licence holder), another person is proposed to have control of the licensed transport service (a new person).
+(2) However, this section does not apply if a new person is—
+  (a) an elected member of a local authority who is proposed to take control of the service in that capacity; or
+  (b) an officer or employee of any of the following entities who is proposed to take control of the service in that capacity, unless the Director, by notice to the licence holder, requires compliance with this section:
+    (i) the New Zealand Police:
+    (ii) a public service agency as defined in section 5 of the Public Service Act 2020:
+    (iii) a Crown entity as defined in section 7 of the Crown Entities Act 2004:
+    (iv) a local authority.
+(3) A new person must not have control of the licensed transport service unless approved by the Director.
+(4) The licence holder must not permit a new person to have control of the transport service unless approved by the Director.
+(5) A new person must apply to the Director to be approved to have control of the transport service.
+(6) The Director must not approve an application unless they are satisfied that the new person is a fit and proper person to have control of the transport service.
+(7) In determining whether a new person is a fit and proper person, the Director must consider the matters specified in subpart 2.
+(8) Subpart 5 applies to a decision under this section that a new person is not a fit and proper person.
+
 ### 30M Conditions of goods service licence
 Despite section 30L(1) and (2), the Director may grant the licence on such conditions as the Director may specify on the licence or in writing to the holder if the applicant applies for a goods service licence and the Director—
   (a) is not satisfied that the applicant is a fit and proper person to operate a goods service under the licence sought; but
@@ -1148,11 +1218,12 @@ Despite section 30L(1) and (2), the Director may grant the licence on such condi
     (i) the applicant is a fit and proper person to operate a goods service under a licence to carry the applicant's own goods, if specified conditions are imposed; and
     (ii) the grant of such a licence is not contrary to the public interest.
 
-### 30N Transfer, assignment, or lease of transport service licence prohibited
-(1) A transport service licence may not be transferred, leased, or assigned to any person.
+### 30N Transfer of transport service licence prohibited
+(1) A transport service licence must not be transferred to any person.
 (2) Nothing in subsection (1) prevents the carrying on of a transport service under a transport service licence that was previously held by a deceased person or a person permanently mentally incapacitated, for a period not exceeding 6 months following the death or incapacitation of the person,—
   (a) by the personal representative of the deceased or incapacitated person; or
   (b) by any other person under an arrangement with the personal representative.
+(3) In this section, transfer includes to assign, lease, sell, exchange, grant, loan, or confer, whether on a temporary or permanent basis.
 
 ### 30O Term of transport service licence
 (1) A transport service licence takes effect on the day it is granted and continues in force until it is—
@@ -1193,7 +1264,8 @@ A transport service driver must, when using a vehicle in a transport service,—
   (a) the holder of the transport service licence is not a fit and proper person to be the holder of a transport service licence; or
   (b) any person who has control of the transport service is not a fit and proper person to have control of the service; or
   (c) any representative who lives in New Zealand is not a fit and proper person to be a representative; or
-  (d) any driver is not a fit and proper person.
+  (d) any driver is not a fit and proper person; or
+  (e) a new person has control of the transport service in contravention of section 30LA.
 (1A) Subsection (1)﻿(c) does not apply in relation to drivers who are facilitated to connect with passengers under a facilitated cost-sharing arrangement.
 (2) Subpart 5 applies to a decision to revoke a transport service licence.
 
@@ -1209,17 +1281,37 @@ If the proposed revocation of a licence under section 30S is on the ground that 
   (c) the holder of a small passenger service licence does not have—
     (i) a person with control of the service in New Zealand who lives in New Zealand; or
     (ii) a representative who lives in New Zealand.
-(2) A suspension ceases immediately when the Director is satisfied that subsection (1)﻿(a), (b), or (c) no longer applies.
+(2) A suspension under this section ceases immediately when the Director is satisfied that subsection (1)﻿(a), (b), or (c) no longer applies.
 (2A) Any conditions imposed are immediately removed when the Director is satisfied that subsection (1)﻿(a), (b), or (c) no longer applies.
-(3) Subpart 5 applies to a decision to suspend a transport service licence.
+(3) Subpart 5 applies to a decision to suspend a transport service licence under this section.
 (4) Subpart 5 applies to a decision to impose conditions on a transport service licence as if the licence had been suspended and with any necessary modifications.
+
+### 30UA Immediate suspension of transport service licence for significant health and safety reasons
+(1) The Director may immediately suspend a licence, by notice in writing to the holder of the licence (the licence holder), if the Director is satisfied that doing so is necessary for significant health and safety reasons.
+(2) In subsection (1), significant health and safety reasons may include (but are not limited to) the following:
+  (a) an unsafe motor vehicle is operated under the licence:
+  (b) a driver operating a vehicle under the licence fails to comply with—
+    (i) work time requirements set out in Part 4B or in the rules; or
+    (ii) requirements in the Act or the rules in respect of loading of vehicles; or
+    (iii) dimension requirements or mass limits in this Act or the rules:
+  (c) a driver with a significant impairment operates a vehicle under the licence.
+(3) A suspension under subsection (1) takes effect either immediately or from a date specified by the Director.
+(4) A suspension under subsection (1) immediately ceases if the Director is satisfied that subsection (1) no longer applies.
+(5) If the Director suspends a licence under subsection (1), the notice must—
+  (a) inform the licence holder of the grounds of the suspension; and
+  (b) advise the licence holder that—
+    (i) the suspension has effect from the day on which the licence holder receives the notice, or any later date that is specified in the notice; and
+    (ii) the licence holder may make submissions on the matter to the Director; and
+    (iii) the licence holder has a right of appeal under section 106.
+(6) The Director must, as soon as practicable, consider any submissions made by the licence holder and notify the licence holder of the result of the consideration.
+(7) Subpart 5 does not apply to a decision to immediately suspend a transport service licence under this section.
 
 ### Subpart 5 — Adverse decisions
 
 ### 30V Interpretation
 In sections 30W to 30Y, unless the context otherwise requires,—
   - **adverse decision** means any decision of the Director—
-    (a) that a person is not a fit and proper person under subpart 2; or
+    (a) that a person is not a fit and proper person under subpart 2 or section 30LA; or
     (b) to refuse to grant a transport service licence under section 30L; or
     (c) to grant a licence on conditions under section 30M; or
     (d) to revoke a transport service licence under section 30S; or
@@ -1385,7 +1477,7 @@ The Director may, in accordance with the rules, approve or revoke an alternative
     (ii) without an appropriate driver licence; or
   (b) drives a motor vehicle contrary to the conditions of his or her driver licence; or
   (c) is the driver of a motor vehicle and fails to produce his or her driver licence for inspection without delay after being required to do so by an enforcement officer; or
-  (d) fails to surrender or return his or her driver licence to—
+  (d) fails to surrender or return his or her physical driver licence to—
     (i) the Agency, a person appointed by the Agency, a court, a constable, or an enforcement officer when required to do so by section 30(2), (3), (3A), or (4A):
     (ii) an employee or agent of the Ministry of Justice, or an enforcement officer, when required to do so by section 30(4B)﻿(b).
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $1,000.
@@ -1431,7 +1523,7 @@ The Director may, in accordance with the rules, approve or revoke an alternative
 ### 34 Contravention of section 6
 (1) A person commits an offence if the person—
   (a) operates an unsafe motor vehicle on a road; or
-  (b) operates a vehicle on a road without displaying current evidence of vehicle inspection or a certificate of loading or both (as may be required by the regulations or the rules); or
+  (b) operates a vehicle on a road without displaying, or having electronically available (if the regulations or rules allow), current evidence of vehicle inspection or a certificate of loading or both (as may be required by the regulations or the rules); or
   (c) fails to comply with the provisions of the regulations or the rules concerning evidence of vehicle inspection, certificates of loading, or the operation of a vehicle that is required to have such evidence or certificate or both.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $2,000.
 
@@ -1493,7 +1585,7 @@ The Director may, in accordance with the rules, approve or revoke an alternative
 (1) A person commits an offence if the person—
   (a) uses a traction engine without an appropriate qualification provided for in the regulations or the rules, for the purpose of qualifying the person to safely use the traction engine in a public place; or
   (b) uses a traction engine in a public place in a manner that, having regard to all the circumstances, is or might be dangerous to the public or to a person; or
-  (c) uses a traction engine in a public place without displaying current evidence of vehicle inspection or any other certificate or both (as may be required by the regulations or the rules); or
+  (c) uses a traction engine in a public place without displaying, or having electronically available (if the regulations or rules allow), current evidence of vehicle inspection or any other certificate or both (as may be required by the regulations or the rules); or
   (d) fails to comply with the regulations or the rules concerning evidence of vehicle inspection or any other certificate required by the regulations or the rules, or concerning the use of a traction engine that is required to have such evidence or certificate or both.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $5,000.
 (3) For the purposes of this section, public place has the meaning set out in section 22B(3).
@@ -1607,7 +1699,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (1) A person commits an offence if the person—
   (aa)
   (a) removes, obscures, or renders indistinguishable a notice affixed to a vehicle under section 115, unless new evidence of vehicle inspection has been obtained for the vehicle or (if the notice was given under section 96(1B)) the direction requiring the vehicle not to be driven on a road has been cancelled under section 102(3)﻿(b) or section 110(3)﻿(a)﻿(ii) or, if section 115(2A) applies, the enforcement officer has been notified in writing that the vehicle complies with the regulations and the rules; or
-  (b) drives a vehicle to which a notice under section 115 applies (other than when driving in compliance with a condition imposed under subsection (4) or subsection (5) of that section or under section 96(1D)) before new evidence of vehicle inspection has been obtained for, and is displayed on, the vehicle; or
+  (b) drives a vehicle to which a notice under section 115 applies (other than when driving in compliance with a condition imposed under subsection (4) or subsection (5) of that section or under section 96(1D)) before new evidence of vehicle inspection has been obtained for, and is displayed on, or is electronically available (if the regulations or rules allow) for, the vehicle; or
   (c) fails or refuses to comply with any lawful requirement, direction, notice, request, or prohibition given to or imposed on him or her under this Act by an enforcement officer or a dangerous goods enforcement officer (except for any described in section 52A); or
   (d) whether or not he or she is the person to whom the direction was given, knowingly drives a heavy motor vehicle on a road in breach of a direction given by an enforcement officer under section 128.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
@@ -2702,9 +2794,24 @@ A licence holder or person having control of a transport service who notifies th
 (1A) Subsection (1) does not apply to an enforcement officer acting in the performance or intended performance of the officer’s official duties as an employee or agent of the Agency.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $25,000.
 
+### 79EA Contravention of section 30LA
+(1) A person who has control of a transport service in contravention of section 30LA(3) commits an infringement offence.
+(2) A person who permits another person to have control of a transport service in contravention of section 30LA(4) commits an infringement offence.
+(3) A person who commits an infringement offence under subsection (1) or (2) is liable to—
+  (a) an infringement fee of the amount prescribed in the regulations; or
+  (b) a fine imposed by a court not exceeding,—
+    (i) in the case of an individual, $1,500:
+    (ii) in any other case, $3,000.
+
 ### 79F Contravention of section 30M
 (1) A person who holds a goods service licence commits an offence if the person fails to comply with or contravenes any condition imposed in respect of the holder's licence under section 30M.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
+
+### 79FA Contravention of section 30N
+(1) A person commits an offence if the person transfers a transport service licence to another person in contravention of section 30N.
+(2) A person who commits an offence under subsection (1) is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $30,000:
+  (b) in any other case, to a fine not exceeding $100,000.
 
 ### 79G Contravention of section 87G
 (1) A person commits an offence if the person, having been prohibited under section 87G(1)﻿(b) from driving a transport service vehicle, drives during the currency of the prohibition any vehicle being used in a transport service (other than a rental service) or a specified class of transport service.
@@ -3066,13 +3173,16 @@ In this section and in sections 91C to 91H, unless the context otherwise require
   (b) by an employee or agent of the Ministry of Justice or an enforcement officer leaving it for the defendant, at the defendant’s place of residence, with another person who appears to be of or over the age of 14 years:
   (c) by an employee or agent of the Ministry of Justice or an enforcement officer leaving it for the defendant, at the defendant’s place of business or place of work, with another person:
   (d) by the chief executive of the Ministry of Justice sending it to the defendant by prepaid post addressed to the defendant at the defendant's last known place of residence or business or place of work:
-  (e) if the defendant has a known electronic address, by the chief executive of the Ministry of Justice sending it to the defendant at that address in electronic form.
+  (e) if the defendant has a known electronic address, by the chief executive of the Ministry of Justice sending it to the defendant at that address in electronic form:
+  (f) by the chief executive of the Ministry of Justice sending an electronic notification to the defendant that states where the defendant can access the notice, order, or notice of details electronically (if the defendant has agreed to that method of electronic notification and access).
 (2) An endorsement on a copy of a warning notice or a driver licence stop order, or notice of details of the fines to which that order relates, or, where applicable, on a printout that records an electronic document, stating the fact, mode, date and time of service and purporting to be signed by an employee or agent of the Ministry of Justice or by an enforcement officer is, in the absence of evidence to the contrary, sufficient proof of service of the notice or order.
 (3) If a warning notice or driver licence stop order, or notice of details of the fines to which that order relates, is served in the way described in subsection (1)﻿(d), then, unless the contrary is shown, the notice or order is served when it would have been delivered in the ordinary course of post, and in proving service it is sufficient to prove that the letter concerned was properly addressed and posted.
 (4) If a warning notice or driver licence stop order, or notice of details of the fines to which that order relates, is served in electronic form under subsection (1)﻿(e), then, unless the contrary is shown,—
   (a) the notice or order, or notice of details, is served at the time the electronic communication containing the notice or order, or notice of details, first enters an information system outside the control of its originator; and
   (b) in proving service, it is sufficient to prove that the electronic communication was properly addressed and sent.
-(5)
+(5) If a warning notice or driver licence stop order, or notice of details of the fines to which that order relates, is served in the way described in subsection (1)﻿(f), then, unless the contrary is shown,—
+  (a) the notice, order, or notice of details is served at the time the electronic communication containing the notification of the notice, order, or notice of details is listed as sent in the information system used to send the electronic communication; and
+  (b) in proving service, it is sufficient to prove that the electronic communication containing the notification was properly addressed and sent.
 
 ### 91C Liability to driver licence stop order
 A defendant who is obliged to pay a traffic fine is liable to the imposition of a driver licence stop order if—
@@ -3096,8 +3206,8 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (b) that the notice of details of the traffic fine in respect of which the order is imposed and the amount owing on that fine will be served on the defendant either at the same time as the order is served or as soon as practicable after the order is served; and
   (c) that the order will stay in effect until the defendant's obligation to pay the traffic fine is discharged by payment in full or remission in full, or until it is resolved; and
   (d) that, immediately after the order takes effect, any driver licence held by the defendant, including any limited licence issued under section 105, is suspended until the driver licence stop order is cancelled in accordance with section 91G or terminated in accordance with section 91H; and
-  (e) that if the order is served personally by an employee or agent of the Ministry of Justice or by an enforcement officer (including at the roadside), the defendant must surrender any driver licence held by the defendant to that employee, agent, or enforcement officer; and
-  (f) that if the order is served, but is not served personally, the defendant must post or deliver any driver licence held by the defendant to an employee or agent of the Ministry of Justice at an office of that Ministry or at the District Court; and
+  (e) that if the order is served personally by an employee or agent of the Ministry of Justice or by an enforcement officer (including at the roadside), the defendant must surrender any physical driver licence held by the defendant to that employee, agent, or enforcement officer; and
+  (f) that if the order is served, but is not served personally, the defendant must post or deliver any physical driver licence held by the defendant to an employee or agent of the Ministry of Justice at an office of that Ministry or at the District Court; and
   (g) if the defendant does not hold a current driver licence when the order takes effect, that—
     (i) the defendant is disqualified from holding or obtaining a driver licence (including any limited licence) until the driver licence stop order is cancelled in accordance with section 91G or terminated in accordance with section 91H; and
     (ii) if the defendant is authorised to obtain a limited licence, the limited licence may not be issued by the Director until the driver licence stop order is so cancelled or terminated.
@@ -3110,7 +3220,8 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 ### 91F Effect of driver licence stop order
 (1) A driver licence stop order that is imposed on a defendant takes effect—
   (a) if the order is served personally on the defendant, immediately after the order is so served:
-  (b) if the order is served, but is not served personally, on the defendant and the defendant posts or delivers the driver licence to an employee or agent of the Ministry of Justice, immediately after that employee or agent receives the defendant's driver licence.
+  (b) if the order is served, but is not served personally, on a defendant who holds a physical driver licence and the defendant posts or delivers the physical driver licence to an employee or agent of the Ministry of Justice, immediately after that employee or agent receives the defendant’s physical driver licence:
+  (c) if the order is served, but is not served personally, on a defendant who holds an electronic driver licence, immediately after the Director prevents access to, or amends, the licence in accordance with section 30(4C).
 (2) A driver licence stop order that is in effect continues in effect until it is cancelled under section 91G or terminated under section 91H.
 (3) Throughout the time that a driver licence stop order is in effect,—
   (a) any driver licence held by the defendant on whom the order is imposed, including any limited licence held under section 105, is suspended; and
@@ -3125,15 +3236,19 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (b) is inconsistent with a judicial determination.
 (3) The chief executive of the Ministry of Justice must give notice of the cancellation to the person on whom the order was imposed and to the Director.
 (4) The cancellation takes effect when it is shown on the national register maintained under section 199.
-(5) When the Director receives notice of the cancellation, the Director must, if the defendant's driver licence was surrendered and forwarded to the Director and the defendant is otherwise eligible to hold a current driver licence, replace the photographic driver licence and send it by ordinary post to the defendant's address recorded on the national register maintained under section 199.
-(6) The chief executive of the Ministry of Justice must pay the Director the prescribed fee for replacing the photographic driver licence in accordance with subsection (5).
+(5) When the Director receives notice of the cancellation,—
+  (a) in the case of the cancellation of a driver licence stop order relating to a physical driver licence, the Director must, if the defendant’s physical driver licence was surrendered and forwarded to the Director and the defendant is otherwise eligible to hold a current driver licence, replace the physical driver licence and send it by ordinary post to the defendant’s address recorded on the national register maintained under section 199; and
+  (b) in the case of the cancellation of a driver licence stop order relating to an electronic driver licence, the Director must follow the process prescribed by the regulations or rules to reverse the stop order.
+(6) The chief executive of the Ministry of Justice must pay the Director the prescribed fee for replacing the driver licence in accordance with subsection (5).
 
 ### 91H Termination of driver licence stop order if traffic fine paid or resolved
 (1) The chief executive of the Ministry of Justice must terminate a driver licence stop order if the defendant's obligation to pay the traffic fine is discharged by payment in full or remission in full or if the defendant's obligation is resolved.
 (2) The chief executive of the Ministry of Justice must give notice of the termination to the defendant and to the Director.
 (3) The termination takes effect when it is shown on the national register maintained under section 199.
-(4) When the Director receives notice of the termination, the Director must, if the defendant's driver licence was surrendered and forwarded to the Director and the defendant is otherwise eligible to hold a current driver licence, replace the photographic driver licence and send it by ordinary post to the defendant's address recorded on the national register maintained under section 199.
-(5) The chief executive of the Ministry of Justice must pay the Director the prescribed fee for replacing the photographic driver licence in accordance with subsection (4).
+(4) When the Director receives notice of the termination,—
+  (a) in the case of the termination of a driver licence stop order relating to a physical driver licence, the Director must, if the defendant’s physical driver licence was surrendered and forwarded to the Director and the defendant is otherwise eligible to hold a current driver licence, replace the physical driver licence and send it by ordinary post to the defendant’s address recorded on the national register maintained under section 199; and
+  (b) in the case of the termination of a driver licence stop order relating to an electronic driver licence, the Director must follow the process prescribed by the regulations or rules to reverse the stop order.
+(5) The chief executive of the Ministry of Justice must pay the Director the prescribed fee for replacing the driver licence in accordance with subsection (4).
 
 **Other penalties**
 
@@ -3220,7 +3335,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 (2) A notice under this section must—
   (a) be in a form prescribed by regulations made under this Act or in a form to the same effect; and
   (b) tell the person to whom it is given that the person is suspended from holding or obtaining a driver licence for 28 days; and
-  (c) require the person to immediately surrender any driver licence that the person has to the enforcement officer; and
+  (c) require the person to immediately surrender any physical driver licence that the person has to the enforcement officer; and
   (d) outline the person's rights of appeal under sections 101 and 109.
 (3) A suspension under this section starts immediately after the notice is given to the person to whom it applies.
 (4) A person whose driver licence is suspended under this section has the rights of appeal conferred by sections 101 and 109.
@@ -3278,6 +3393,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (a) complete a notice in the prescribed form, or in a form to the same effect, acknowledging the seizure and impoundment, and setting out (if the particulars are reasonably ascertainable)—
     (i) the full name and full address of the driver; and
     (ia) the driver’s electronic address (if the driver has an electronic address); and
+    (ib) the driver’s mobile phone number (if the driver has a mobile phone number); and
     (ii) the year and make of the vehicle, and its registration plate details or vehicle identification number; and
     (iia) if subsection (1A) applies, the date and time of the alleged offence; and
     (iii) the date and time of the seizure; and
@@ -3288,11 +3404,12 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (d) give or send a copy of the notice to the vehicle recovery service operator who tows or carries the impounded motor vehicle to the place where it is to be stored; and
   (da) give or send a copy of the notice to the storage provider who stores the motor vehicle; and
   (e) retain a copy of the notice for 12 months.
-(2AAA) For the purposes of subsection (2)﻿(c), if the registered person is not present at the time of the seizure, the enforcement officer must, as soon as practicable, send a copy of the notice to the registered person—
-  (a) by post addressed to that person at their last known place of residence or business, their last known postal address, or their address as recorded on the register of motor vehicles or any other register administered by the Agency; or
-  (b) by electronic means addressed to that person at—
+(2AAA) For the purposes of subsection (2)﻿(c), if the registered person is not present at the time of the seizure, the enforcement officer must, as soon as practicable, give the notice to the registered person in one of the following ways:
+  (a) by sending a copy of the notice to the registered person by post addressed to that person at their last known place of residence or business, their last known postal address, or their address as recorded on the register of motor vehicles or any other register administered by the Agency; or
+  (b) by sending a copy of the notice to the registered person by electronic means to—
     (i) an electronic address that the person has given to an enforcement authority; or
-    (ii) otherwise, the person’s last known electronic address.
+    (ii) if no electronic address is given, the person’s last known electronic address; or
+  (c) by sending an electronic notification to the registered person that states where they can access the notice electronically (if the registered person has agreed to that method of electronic notification and access).
 (2A) The driver of a motor vehicle seized or impounded under this section must, if requested to do so by an enforcement officer,—
   (a) provide the driver's—
     (i) full name; and
@@ -3300,7 +3417,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
     (iia) electronic address (if the driver has an electronic address); and
     (iii) date of birth; and
     (iv) occupation; and
-    (v) telephone number; and
+    (v) mobile phone number (if the driver has a mobile phone number) or otherwise another phone number (if the driver has another phone number); and
     (vi) driver licence number:
   (b) provide, if known to the driver and the driver is not the registered person, the registered person's—
     (i) full name; and
@@ -3308,7 +3425,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
     (iia) electronic address (if the person has an electronic address); and
     (iii) date of birth; and
     (iv) occupation; and
-    (v) telephone number.
+    (v) mobile phone number (if the registered person has a mobile phone number) or otherwise another phone number (if the registered person has another phone number).
 (3) The relevant person specified in subsection (6B) has the rights of appeal provided in sections 102 and 110.
 (4) Personal property (other than property attached to or used in connection with the operation of the vehicle) present in a motor vehicle at the time of the seizure and impoundment must be released on request to a person who produces satisfactory evidence to the effect that they were lawfully entitled to possession of the vehicle or personal property immediately before the vehicle was moved.
 (4A) Personal property present in a motor vehicle at the time of the seizure and impoundment must be released subsequently to—
@@ -3404,8 +3521,10 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (a) complete a notice in the prescribed form, or in a form to the same effect, acknowledging the seizure and impoundment, and setting out (if the particulars are reasonably ascertainable)—
     (i) the full name and full address of the driver; and
     (ia) the driver’s electronic address (if the driver has an electronic address); and
+    (ib) the driver’s mobile phone number (if the driver has a mobile phone number); and
     (ii) the full name and full address of the transport service operator, if different from the driver; and
     (iia) the transport service operator’s electronic address (if the transport service operator is different from the driver and has an electronic address); and
+    (iib) the transport service operator’s mobile phone number (if the transport service operator has a mobile phone number); and
     (iii) the year of manufacture and make of the vehicle, and its registration plate details or vehicle identification number; and
     (iv) the date and time of the seizure; and
     (v) the place where the vehicle is to be impounded; and
@@ -3415,11 +3534,12 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (d) give or send a copy of the notice to the vehicle recovery service operator who tows or carries the impounded motor vehicle to the place where it is to be stored; and
   (da) give or send a copy of the notice to the storage provider who stores the motor vehicle; and
   (e) retain a copy of the notice for 12 months.
-(2AAA) For the purposes of subsection (2)﻿(c), if the registered person is not present at the time of the seizure, the enforcement officer must, as soon as practicable, send a copy of the notice to the registered person—
-  (a) by post addressed to that person at their last known place of residence or business, their last known postal address, or their address as recorded on the register of motor vehicles or any other register administered by the Agency; or
-  (b) by electronic means addressed to that person at—
+(2AAA) For the purposes of subsection (2)﻿(c), if the registered person is not present at the time of the seizure, the enforcement officer must, as soon as practicable, give the notice to the registered person in one of the following ways:
+  (a) by sending a copy of the notice to the registered person by post addressed to that person at their last known place of residence or business, their last known postal address, or their address as recorded on the register of motor vehicles or any other register administered by the Agency; or
+  (b) by sending a copy of the notice to the registered person by electronic means to—
     (i) an electronic address that the person has given to an enforcement authority; or
-    (ii) otherwise, the person’s last known electronic address.
+    (ii) if no electronic address is given, the person’s last known electronic address; or
+  (c) by sending an electronic notification to the registered person that states where they can access the notice electronically (if the registered person has agreed to that method of electronic notification and access).
 (2A) The driver of a motor vehicle seized or impounded under this section must, if requested to do so by an enforcement officer,—
   (a) provide the driver’s—
     (i) full name; and
@@ -3427,14 +3547,14 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
     (iia) electronic address (if the driver has an electronic address); and
     (iii) date of birth; and
     (iv) occupation; and
-    (v) telephone number; and
+    (v) mobile phone number (if the driver has a mobile phone number) or otherwise another phone number (if the driver has another phone number); and
     (vi) driver licence number:
   (b) provide, if known to the driver and different from the driver, the transport service operator’s—
     (i) full name; and
     (ii) full address; and
     (iia) electronic address (if the transport service operator has an electronic address); and
     (iii) date of birth (if an individual); and
-    (iv) telephone number.
+    (iv) mobile phone number (if the transport service operator has a mobile phone number) or otherwise another phone number (if the transport service operator has another phone number).
 (3) The relevant person specified in subsection (7) has the rights of appeal provided in sections 102 and 110.
 (4) Personal property (other than property attached to or used in connection with the operation of the vehicle) present in a motor vehicle at the time of the seizure and impoundment must be released on request to a person who produces satisfactory evidence to the effect that they were lawfully entitled to possession of the vehicle or personal property immediately before the vehicle was moved.
 (4A) Personal property present in a motor vehicle at the time of the seizure and impoundment must be released subsequently to—
@@ -3790,8 +3910,8 @@ In this Part,—
 (7A) If a driver licence stop order takes effect in respect of a person who holds a limited licence or is authorised to obtain a limited licence, then the limited licence—
   (a) is revoked or may not be issued (as the case may be); and
   (b) may, when a driver licence stop order is cancelled under section 91G or terminated under section 91H, be reissued or issued (as the case may be) unless the person is otherwise disqualified from holding a limited licence.
-(8) A person who holds a limited licence that is revoked under subsection (7) must immediately surrender their photographic driver licence to the court by which the person was convicted, to an enforcement officer, or at an office of the Agency (whether or not demand is made on the person).
-(8A) The holder of a limited licence that is revoked under subsection (7A) must immediately, and whether demand is made on the holder or not, surrender his or her photographic driver licence to an employee or agent of the Ministry of Justice or at an office of that Ministry or at the court.
+(8) A person who holds a limited licence that is revoked under subsection (7) must immediately surrender any physical driver licence to the court by which the person was convicted, to an enforcement officer, or at an office of the Agency (whether or not demand is made on the person).
+(8A) The holder of a limited licence that is revoked under subsection (7A) must immediately, and whether demand is made on the holder or not, surrender any physical driver licence to an employee or agent of the Ministry of Justice or at an office of that Ministry or at the court.
 (9) Despite section 104(3)﻿(b), the court may not make an order under this section unless the applicant satisfies the court that no more than 20 of the demerit points were accumulated while driving in a passenger service.
 
 **Rights of appeal**
@@ -3803,7 +3923,8 @@ In this Part,—
 (4) Even though an appeal under this section may have been determined in favour of the appellant, the Director may, subject to the like right of appeal, refuse to deal with in accordance with the provisions of this Act the matter of the grant, issue, revocation, or suspension of the land transport document concerned on any sufficient grounds supported by facts or evidence discovered since the hearing of the appeal.
 (5) Subsection (1) does not apply—
   (a) if a right of appeal to the District Court against the decision concerned is conferred by any other section of this Act:
-  (b) to any decision made in relation to a class exemption, including a decision to grant (or not to grant), to amend, or to revoke a class exemption.
+  (b) to any decision made in relation to a class exemption, including a decision to grant (or not to grant), to amend, or to revoke a class exemption:
+  (c) to any decision made in relation to the extension of a land transport document, or of a class or type of land transport document, under section 209B, including a decision to grant (or not to grant), to amend, to replace, or to revoke an extension.
 
 ### 107 Appeals against court orders relating to disqualification or grant of limited licence, and deferral of disqualification
 (1) A person who has been disqualified by order of the District Court from holding or obtaining a driver licence may appeal to the High Court against a decision of the District Court by—
@@ -3935,7 +4056,7 @@ An enforceable undertaking takes effect and becomes enforceable when the Directo
   (a) direct a person on a road (whether or not in charge of a vehicle) to give the person's full name, full address, electronic address (if the person has an electronic address), date of birth, occupation, and telephone number, or such of those particulars as the enforcement officer may specify, and give any other particulars required as to the person's identity, and (unless the person is for the time being detained or under arrest under any enactment) give such information as is within the person's knowledge and as may lead to the identification of the driver or person in charge of a vehicle:
   (b) inspect, test, and examine—
     (i) the brakes or any other part of a vehicle on a road or any associated equipment; or
-    (ii) a land transport document, or a document resembling a land transport document, displayed or carried on the vehicle:
+    (ii) a land transport document, or a document resembling a land transport document, displayed, electronically available (if the regulations or rules allow), or carried on the vehicle:
   (c) if the enforcement officer believes on reasonable grounds that a vehicle on a road causes an obstruction in the road or to a vehicle entrance to any property or that the removal of the vehicle is desirable in the interests of road safety or for the convenience or in the interests of the public,—
     (i) enter, or authorise another person to enter, the vehicle for the purpose of moving it or preparing it for movement; and
     (ii) move, or authorise another person to move, the vehicle to a place where it does not constitute a traffic hazard:
@@ -3974,7 +4095,7 @@ An enforceable undertaking takes effect and becomes enforceable when the Directo
 (2) A notice given under subsection (1) continues in force until the vehicle—
   (a) has been inspected by a person authorised by the Director; and
   (b) the person is satisfied that the vehicle has been made to comply with the regulations and the rules or with the particular requirement of the regulations or the rules; and
-  (c) new evidence of vehicle inspection has been issued for the vehicle by a person authorised by the Director and is displayed on that vehicle.
+  (c) new evidence of vehicle inspection has been issued for the vehicle by a person authorised by the Director and is displayed on that vehicle or electronically available (if the regulations or rules allow).
 (2A) Despite subsection (2), the enforcement officer may specify that the notice in subsection (1) continues in force until—
   (a) the vehicle has been made to comply with the regulations and the rules or with the particular requirement of the regulations or the rules; and
   (b) the enforcement officer has been notified in writing that the vehicle complies with the regulations and the rules or with the particular requirement of the regulations or the rules.
@@ -3983,7 +4104,7 @@ An enforceable undertaking takes effect and becomes enforceable when the Directo
   (b) give the driver or owner of the vehicle a notice in a form approved by the Director by notice in the Gazette stating that the vehicle must be removed from the road and may not be driven on a road until—
     (i) it has been inspected by a person authorised by the Director; and
     (ii) the person is satisfied that the vehicle is in a safe condition for driving on the road; and
-    (iii) new evidence of vehicle inspection has been issued for the vehicle by a person authorised by the Director and is displayed on that vehicle.
+    (iii) new evidence of vehicle inspection has been issued for the vehicle by a person authorised by the Director and is displayed on that vehicle or electronically available (if the regulations or rules allow).
 (3A) When issuing a notice under subsection (3), an enforcement officer may direct the driver or owner of the vehicle to comply with any applicable requirements with respect to the noise emitted by the vehicle's exhaust system if the enforcement officer believes on reasonable grounds that the vehicle does not comply with those requirements.
 (3B) If a vehicle is subject to a direction under subsection (1) or (3) on the grounds that the vehicle's exhaust system exceeds any prescribed noise or decibel limits, the vehicle's exhaust system must, before new evidence of vehicle inspection may be issued, be certified as complying with the relevant limits in accordance with any prescribed testing and certification procedure.
 (4) A notice under subsection (1) may include a condition to the effect that the vehicle may continue to be driven to reach a specified place for repair or may continue to be driven for a given time or under limitations as to speed or route or otherwise.
@@ -4009,7 +4130,11 @@ An enforceable undertaking takes effect and becomes enforceable when the Directo
 (3) A request under subsection (1) or subsection (2) or subsection (6) may be made orally or in writing and the registered person or hirer or licence holder (as the case may be) must comply with the request within 14 days.
 (4) If a vehicle failed to stop (or remain stopped) as signalled, requested, or required under section 114, an enforcement officer may request the registered person for, or the hirer of, the vehicle to give all information in the registered person’s or hirer’s possession or obtainable by the registered person or hirer that may lead to the identification and apprehension of the driver, and the registered person or hirer must give the officer that information immediately.
 (5) Subsection (4) does not apply if the registered person or hirer has been arrested or detained in relation to the suspected offence.
-(6) If the holder of a transport service licence employs any person to drive a vehicle under that licence, the licence holder, on being informed of any offence alleged to have been committed by that person or by a person driving a vehicle being used under the licence, and on being requested to do so by an enforcement officer, must supply in writing the driver’s full name, full address, and electronic address (if the driver has an electronic address).
+(6) If the holder of a transport service licence employs a person to drive a vehicle under that licence, the licence holder, on being informed of any offence alleged to have been committed by that person or by a person driving a vehicle being used under the licence, and on being requested to do so by an enforcement officer, must supply in writing, the driver’s—
+  (a) full name; and
+  (b) full address; and
+  (c) electronic address (if the driver has an electronic address); and
+  (d) mobile phone number (if the driver has a mobile phone number).
 
 **Powers of entry, arrest, immobilisation, and impoundment**
 
@@ -4174,8 +4299,9 @@ Any enforcement officer who is in uniform or who produces evidence of identity a
 (1) A parking warden in uniform or in possession of a warrant or other evidence of authority as a parking warden—
   (a) may enforce the provisions of any stationary vehicle offence or special vehicle lane offence:
   (b) may, in relation to enforcing the provisions of any stationary vehicle offence or special vehicle lane offence, direct any person on any road, and apparently in charge of or in any vehicle, to—
-    (i) provide the person’s full name and full address and give any other identifying particulars required as to the person’s identity (for example, the person’s date of birth, occupation, and telephone number):
-    (ii) give any information that is within the person’s knowledge and that may lead to the identification of the driver or person in charge of any vehicle (for example, the other person’s full name, full address, date of birth, occupation, and telephone number):
+    (i) provide the person’s full name, full address, and electronic address (if the person has an electronic address):
+    (ii) give any other particulars required as to the person’s identity (for example, the person’s date of birth, occupation, mobile phone number, or any other phone number):
+    (iii) give any information that the person has that may lead to the identification of the driver or person in charge of any vehicle (for example, the full name, full address, electronic address, date of birth, occupation, mobile phone number, or any other phone number of the driver or person in charge of the vehicle):
   (c) may direct the driver or person in charge of any vehicle on any road to remove the vehicle from the road or any specified part of any road, if the parking warden believes on reasonable grounds that—
     (i) the vehicle causes an obstruction in the road or to any vehicle entrance to any property; or
     (ii) the removal of the vehicle is desirable in the interests of road safety or for the convenience or in the interests of the public:
@@ -4194,7 +4320,12 @@ Any enforcement officer who is in uniform or who produces evidence of identity a
 ### 128F Powers of enforcement officers in relation to public transport service fares
 (1) An enforcement officer may direct a person to provide evidence that the person has paid a public transport service fare that the person is liable to pay.
 (2) If a person fails to provide evidence of payment after a direction is given under subsection (1), the enforcement officer may—
-  (a) direct the person to provide the person’s full name, full address, telephone number, and date of birth; and
+  (a) direct the person to provide the person’s—
+    (i) full name; and
+    (ii) full address; and
+    (iii) electronic address (if the person has an electronic address); and
+    (iv) mobile phone number (if the person has a mobile phone number) or otherwise another phone number (if the person has another phone number); and
+    (v) date of birth; and
   (b) direct the person not to board, or direct the person to disembark, the public transport service concerned.
 
 **Dangerous goods**
@@ -4270,7 +4401,7 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
   (c) the person has given the enforcement authority a statutory declaration—
     (i) identifying the driver, by giving—
       (A) the full name and full address of the driver; and
-      (B) any other identifying particulars, so far as they are within the person’s knowledge, such as the driver’s date of birth, occupation, telephone number, or electronic address; or
+      (B) any other identifying particulars, so far as they are within the person’s knowledge, such as the driver’s date of birth, occupation, mobile phone number or any other phone number, or electronic address; or
     (ii) establishing that the person could not identify the driver, after taking all reasonable steps to do so.
 (5) In proceedings for a moving vehicle offence or a special vehicle lane offence, a statutory declaration given under subsection (4) is, in the absence of proof to the contrary, sufficient evidence of the matters stated in the declaration; and it is admissible for all purposes of any proceedings under this section.
 
@@ -4293,7 +4424,7 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
   (c) he or she has given the enforcement authority a statutory declaration that—
     (i) identifies another person who was, at the time of the alleged offence, lawfully entitled to possession, or was unlawfully in charge, of the vehicle by providing—
       (A) the full name and full address of the other person; and
-      (B) any other identifying particulars of the other person that are known to the person making the declaration (for example, the other person's date of birth, occupation, telephone number, or electronic address); or
+      (B) any other identifying particulars of the other person that are known to the person making the declaration (for example, the other person's date of birth, occupation, mobile phone number or any other phone number, or electronic address); or
     (ii) establishes that the person making the declaration was unable to identify the other person after taking all reasonable steps to do so.
 (5) In the case of any stationary vehicle offence, any defence available under subsection (3) or (4) is in addition to and not in substitution for any defences available under the enactment creating the offence.
 
@@ -4353,23 +4484,27 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
   (a) by attaching it, or a copy of it, to the vehicle to which the notice relates; or
   (b) by delivering it, or a copy of it, personally to the person who appears to have committed the infringement offence; or
   (ba) by delivering it, or a copy of it, personally to the person who appears to be in charge of the vehicle to which the notice relates; or
-  (c) by sending it, or a copy of it, to the person who appears to have committed the infringement offence—
-    (i) by post addressed to the person at their last known place of residence or business or last known postal address; or
-    (ii) by electronic means addressed to the person at their electronic address; or
-  (d) if the person is the holder of a land transport document, by serving it, or a copy of it, on that person—
-    (i) by post at the last address the person provided for service for the purposes of that land transport document; or
-    (ii) by electronic means at their electronic address.
+  (c) by sending to the person who appears to have committed the infringement offence—
+    (i) the infringement notice (or a copy of it) by post, addressed to the person at their last known place of residence or business or last known postal address; or
+    (ii) the infringement notice (or a copy of it) to the person’s electronic address; or
+    (iii) an electronic notification that states where the person can access the infringement notice (or a copy of it) by electronic means (if the person has agreed to that method of electronic notification and access); or
+  (d) if the person is the holder of a land transport document, by sending to the person—
+    (i) the infringement notice (or a copy of it) by post to the last address the person provided for the purposes of that land transport document; or
+    (ii) the infringement notice (or a copy of it) to the person’s electronic address; or
+    (iii) an electronic notification that states where the person can access the infringement notice (or a copy of it) by electronic means (if the person has agreed to that method of electronic notification and access).
 (3) An infringement notice that—
   (a) is attached to a vehicle under subsection (2)﻿(a) or personally delivered under subsection (2)﻿(b) or (ba) must be treated as having been served on every person liable in respect of the alleged offence when it is attached to the vehicle or personally delivered:
   (b) is sent to a person by post under subsection (2)﻿(c)﻿(i) or (d)﻿(i) must be treated as having been served on the person when it would have been delivered in the ordinary course of post:
-  (c) is sent electronically to a person under subsection (2)﻿(c)﻿(ii) or (d)﻿(ii) must, unless the contrary is shown, be treated as having been sent to, or served on, the person at the time the electronic communication containing the notice first enters an information system that is outside the control of the enforcement officer.
+  (c) is sent to an electronic address under subsection (2)﻿(c)﻿(ii) or (d)﻿(ii) must, unless the contrary is shown, be treated as having been sent to, or served on, the person at the time the electronic communication containing the notice first enters an information system that is outside the control of the enforcement officer:
+  (d) is served in the way described in subsection (2)﻿(c)﻿(iii) or (d)﻿(iii) must, unless the contrary is shown, be treated as having been sent to, or served on, the person at the time the electronic communication containing the notification of the infringement notice is listed as sent in the information system used to send the electronic communication.
+(4) For the purposes of subsection (3)﻿(c) and (d), in proving the sending of any electronic communication, it is sufficient to prove that the electronic communication was properly addressed and sent.
 (4)
 (5)
 (6) If a parking warden has reason to believe that the user of a vehicle has committed an infringement offence that may be enforced by a parking warden under section 128E,—
   (a) the user of the vehicle may be proceeded against for the alleged offence under the Criminal Procedure Act 2011; or
   (b) the parking warden may issue an infringement notice in respect of the alleged offence.
 Service of reminder notice
-(6A) Despite section 24(1)﻿(e) of the Summary Proceedings Act 1957, a reminder notice may be served on a person for the purposes of section 21(2) of that Act by serving the notice in accordance with subsection (2)﻿(c)﻿(ii) or (d)﻿(ii) in addition to the other modes of service set out in section 24(1) of that Act and without otherwise limiting or affecting the operation of section 24 of that Act.
+(6A) Despite section 24(1)﻿(e) of the Summary Proceedings Act 1957, a reminder notice may be served on a person for the purposes of section 21(2) of that Act by serving the notice in accordance with subsection (2)﻿(c)﻿(ii) or (iii) or (d)﻿(ii) or (iii) in addition to the other modes of service set out in section 24(1) of that Act and without otherwise limiting or affecting the operation of section 24 of that Act.
 (7)
 (8) In this section, unless the context otherwise requires, electronic address, in relation to a person, means—
   (a) an electronic address that the person has given to an enforcement authority; or
@@ -4668,7 +4803,7 @@ Without limiting any other method of proof, the production in proceedings of a c
 
 ### 154 Rules concerning driver licensing
 (1) Without limiting the general power to make rules under section 152, ordinary rules may—
-  (a) put in place a system or provide for the licensing of drivers of motor vehicles, including provisions for the issue, endorsement, alteration, replacement, renewal, surrender, suspension, expiry, and revocation of licences:
+  (a) put in place a system or provide for the licensing of drivers of motor vehicles, including provisions for the issue, production, endorsement, alteration, replacement, renewal, surrender, suspension, expiry, and revocation of driver licences:
   (b) specify different requirements for drivers of different age groups or experience, including requirements concerning the issue and expiry of licences:
   (c) provide for different classes of driver licences, and for the endorsement of licences for different purposes, and specify their effect:
   (d) specify the documentary evidence and other information to be submitted with applications concerning driver licences:
@@ -4690,7 +4825,7 @@ Without limiting any other method of proof, the production in proceedings of a c
     (ii) empowering persons to direct the recall of vehicles:
     (iii) specifying the persons who may be directed to recall a vehicle (including the manufacturer, the agent of the manufacturer, the importer of the vehicle, the person or organisation responsible for certifying that a vehicle complies with standards or requirements imposed by the rules, or any other person responsible for the presence of a vehicle on a road):
   (d) require and provide for vehicle identification numbers to be assigned to motor vehicles being operated in New Zealand:
-  (e) provide for the periodical or other examination of motor vehicles and the issue of evidence of vehicle inspection and certificates of loading:
+  (e) provide for the periodical or other examination of motor vehicles, including the requirement for a vehicle or class of vehicles to present for inspection if a safety issue has been identified, and the issue of evidence of vehicle inspection and certificates of loading:
   (ea) provide for the periodical or other examination of traction engines and the issue of a certificate of compliance for boilers and other pressure vessels:
   (f) subject to Part 17,—
     (i) specify when vehicles are to be registered, deregistered, or re-registered:
@@ -4830,9 +4965,11 @@ Without limiting any other method of proof, the production in proceedings of a c
   (b) contain a statement specifying the objective of the rule and the extent of any consultation under subsection (2); and
   (c) set out fully the requirements of the rule, except where certain information is incorporated in the rule by reference under section 165.
 (2) Before making an ordinary rule, the Minister must—
-  (a) publish a notice of his or her intention to make the rule; and
-  (b) give interested persons a reasonable time, which must be specified in the notice published under paragraph (a), to make submissions on the proposal; and
-  (c) consult with such persons, representative groups within the land transport system or elsewhere, government departments, and Crown entities as the Minister in each case considers appropriate.
+  (a) publish a notice of their proposal to make the rule, which must specify a reasonable time for interested persons to make submissions on the proposal; and
+  (b) consult any persons that the Minister considers appropriate, which may include—
+    (i) representative groups within the land transport system or elsewhere; and
+    (ii) government departments; and
+    (iii) Crown entities.
 (3)
 (4)
 
@@ -4921,20 +5058,21 @@ Without limiting any other method of proof, the production in proceedings of a c
   (b) specifying infringement offences for the purposes of this Act:
   (c) setting out defences to offences referred to in paragraph (a) or paragraph (b):
   (d) setting the maximum penalty for each offence prescribed under paragraph (a), which,—
-    (i) in the case of an individual, may be a fine not exceeding $10,000; or
+    (i) in the case of an individual, may be a fine not exceeding $15,000; or
     (ii) in the case of a body corporate, may be a fine not exceeding $50,000:
-  (e) setting the infringement fee for each offence prescribed under paragraph (b), which,—
-    (i) in the case of an individual, may not exceed $2,000; or
+  (e) setting the infringement fee for each offence prescribed under paragraph (b) and for infringement offences in this Act, which,—
+    (i) in the case of an individual, may not exceed $3,000; or
     (ii) in the case of a body corporate, may not exceed $10,000; or
     (iii)
     (iv) in the case of an overloading or over-dimension offence, may not exceed $15,000:
+  (ea) setting an infringement fee, a maximum infringement fee, or a range of infringement fees, for an infringement offence involving parking in breach of a bylaw and in excess of a period fixed by a meter or otherwise:
   (f) setting the penalty for each overloading or over-dimension infringement offence against section 43:
   (fa) setting the infringement fee for a toll offence:
   (g) setting the number of demerit points to be recorded in relation to offences against this Act or any regulations (which offences are in connection with the driving of a motor vehicle), including regulations—
     (i) providing for a greater number of demerit points to be recorded in respect of a second or subsequent conviction for an offence:
     (ii) setting a graduated scale of demerit points for speeding offences:
   (h) creating offences against any regulations made under this Act; and setting the maximum penalty for each offence, which,—
-    (i) in the case of an individual, may not exceed $10,000; or
+    (i) in the case of an individual, may not exceed $15,000; or
     (ii) in the case of a body corporate, may not exceed $50,000:
   (i) declaring which offences against any secondary legislation (including bylaws) under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986 are—
     (i) moving vehicle offences:
@@ -5160,14 +5298,18 @@ All fees and charges (excluding applicable refunds and goods and services tax) i
 [Repealed]
 
 ### 168A Agency may declare that vehicle is mobility device or is not motor vehicle
-(1) If a vehicle or type of vehicle is powered solely by a motor that has a maximum power output not exceeding 1 500 W, the Agency may, by notice, declare that the vehicle or type of vehicle is a mobility device.
-(2) If a vehicle or type of vehicle is propelled by a motor that has a maximum power output not exceeding 300 W, the Agency may, by notice, declare that the vehicle or type of vehicle is not a motor vehicle.
-(3) If a vehicle or type of vehicle is propelled by a motor that has a maximum power output greater than 300 W but not exceeding 600 W, the Agency may, by notice, declare that the vehicle or type of vehicle is not a motor vehicle.
-(4) If the Agency makes a declaration under subsection (3), the Agency may—
+(1) If a vehicle or type of vehicle is powered solely by a motor that has a maximum continuous power output not exceeding 1 500 W, the Agency may, by notice, declare that the vehicle or type of vehicle is a mobility device.
+(2) If a vehicle or type of vehicle is propelled by a motor that has a maximum continuous power output not exceeding 2,000 W, the Agency may, by notice, declare that the vehicle or type of vehicle is not a motor vehicle.
+(3) Before making a declaration under subsection (2), the Agency must—
+  (a) consider how the declaration would contribute to an effective, efficient, and safe land transport system in the public interest; and
+  (b) publish a notice of its proposal to make the declaration, which must specify a reasonable time for interested persons to make submissions on the proposal; and
+  (c) consult any person that the Agency considers appropriate.
+(4) If the Agency makes a declaration under subsection (2), the Agency may—
   (a) impose conditions with respect to—
     (i) the operation of the vehicle or type of vehicle; and
     (ii) the equipment required on the vehicle or type of vehicle; and
   (b) specify those conditions in the notice.
+(4A) In this section, maximum continuous power output, in relation to a motor, means the amount calculated using the following formula:W = V × Awhere—Wis the maximum continuous power output of the motorVis the motor’s rated voltageAis the motor’s rated maximum current.
 (5) A notice under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 168B Order in Council for certain land transport revenue
@@ -5647,7 +5789,9 @@ Sections 109A and 109B of the Land Transport Management Act 2003 apply to inform
 [Repealed]
 
 ### 198 Inspections and audits
-(1) The Director may in writing require any person who holds a land transport document that authorises the provision of a service in the land transport system to undergo such inspections and audits as the Director reasonably considers necessary in the interests of land transport safety (including inspections and audits of vehicles operated by such persons).
+(1) The Director may in writing require any of the following persons to undergo any inspections and audits that the Director reasonably considers necessary in the interests of land transport safety (including inspections and audits of vehicles operated by such persons):
+  (a) a person who holds a land transport document that authorises the provision of a service in the land transport system:
+  (b) a person who the Director has reasonable grounds to believe is carrying on a transport service specified in section 30J without holding a transport service licence.
 (2) The Director may carry out such inspections and audits as the Director reasonably considers necessary in the interests of land transport safety.
 (3) For the purposes of any inspection or audit carried out in respect of any person under this section, the Director may in writing require that person to provide such information as the Director reasonably considers relevant to the inspection or audit.
 (4) A person to whom a requirement is made under this section must comply with that requirement.
@@ -5655,7 +5799,7 @@ Sections 109A and 109B of the Land Transport Management Act 2003 apply to inform
 ### 199 Agency to maintain register of driver licences
 (1) The Agency must continue and maintain the national register of all driver licences that was established under section 45 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
 (2) The national register must show for each driver licence the following information:
-  (a) the holder's full name, address, electronic address (if they have an electronic address that is known to the Agency), gender, date of birth, place of birth (if known to the Agency), and signature:
+  (a) the holder's full name, address, electronic address (if they have an electronic address that is known to the Agency), mobile phone number (if they have a mobile phone number that is known to the Agency), gender, date of birth, place of birth (if known to the Agency), and signature:
   (b) the number of the licence:
   (c) the original date of issue of the licence and the date of issue of the current licence:
   (d) the date of expiry of the licence:
@@ -5674,6 +5818,7 @@ Sections 109A and 109B of the Land Transport Management Act 2003 apply to inform
   (o) photographic images of the holder taken for the purposes of this Act:
   (p) information about demerit points recorded under this Act or any other enactment against the holder for any offence:
   (q) organ donor information about the holder.
+(2A) The national register may show for each driver licence the format or formats of driver licence that are held by the holder.
 (3) The national register must also show information identifying whether a person is disqualified from holding or obtaining a driver licence.
 (4) A person (being the licence holder or another person who obtains the consent of the licence holder) who applies to the Agency and pays the prescribed fee (if any), is entitled to information about the driver licence that is referred to in subsection (2)﻿(b) or (p).
 (5) A medical practitioner is entitled (without payment of a fee) to information about any driver licence holder referred to in subsection (2)﻿(q).
@@ -5693,8 +5838,10 @@ Sections 109A and 109B of the Land Transport Management Act 2003 apply to inform
   (b) if the holder is a natural person, the holder's date of birth:
   (c) the holder's business or residential address:
   (ca) the holder’s business or personal electronic address (if they have an electronic address that is known to the Agency):
+  (cb) the holder’s business or personal mobile phone number (if they have a mobile phone number that is known to the Agency):
   (d) the full name and address of any person in control:
   (da) the business or personal electronic address of any person in control (if they have an electronic address that is known to the Agency):
+  (db) the business or personal mobile phone number of any person in control (if they have a mobile phone number that is known to the Agency):
   (e) the number of the licence:
   (f) the date of issue of the licence:
   (g) the class or classes of transport services to which the licence applies:
@@ -5716,7 +5863,7 @@ Sections 109A and 109B of the Land Transport Management Act 2003 apply to inform
 ### 200 Restrictions on access to photographic images of driver licence holders
 (1) No person other than a person acting in the course of the person’s official duties as an employee of the Agency may access or use any photographic image stored under section 28(5).
 (1A) Subsection (1) is subject to—
-  (a) subsections (2), (3), and (4):
+  (a) subsections (2) to (4B):
   (b) section 141 of the Intelligence and Security Act 2017:
   (c) subpart 2 of Part 7 of the Privacy Act 2020.
 (2) A person who is acting in the course of the person’s official duties as an employee of the Department of Internal Affairs may access or use any photographic image stored under section 28(5) to verify the identity of a particular individual.
@@ -5726,6 +5873,11 @@ Sections 109A and 109B of the Land Transport Management Act 2003 apply to inform
     (ii) the grant of probate of the will of the individual or of letters of administration to the individual’s estate; and
   (b) only if the person who is seeking access to the photographic image satisfies the Agency that the person is the individual’s next of kin.
 (4) A person who is acting in the course of the person’s official duties as an employee of a specified agency may access or use any photographic image stored under section 28(5) to verify the identity of a particular individual for the purpose of law enforcement.
+(4A) A person whose photographic image is stored under section 28(5) may access the photographic image when accessing or using the person’s electronic driver licence, including in order to provide the photographic image to a third party for the purposes of identification or verification, or both.
+(4B) The Agency may provide a third party with a copy of, or access to, a photographic image stored under section 28(5) for the following purposes:
+  (a) creating or maintaining a driver licence, or both:
+  (b) creating or maintaining a driver identification card, or both:
+  (c) maintaining the driver licence register.
 (5) For the purposes of this section,—
   - **next of kin** includes a spouse, a civil union partner, and a de facto partner
   - **specified agency** means any of the following:
@@ -5910,6 +6062,55 @@ Subsections (2A) to (2C) of section 209 expire and are repealed with the close o
 (4) An oral fluid sample or a blood specimen analysed or re-analysed under subsection (1) must be treated in a manner that does not identify the person from whom the oral fluid sample or blood specimen is taken.
 (5) Nothing in this section limits the purposes for which an oral fluid sample or a blood specimen may be analysed or re-analysed under this Act.
 
+### 209B Director may extend term of land transport documents in emergency
+(1) Despite this Act and any rules or regulations made under this Act relating to land transport documents, the Director may, in response to an emergency, extend the term of—
+  (a) a land transport document; or
+  (b) a class or type of land transport document.
+(2) An extension—
+  (a) may be granted before or after the expiry of the land transport document or the class or type of land transport document; and
+  (b) must be for a specified period; and
+  (c) may be amended, replaced, or revoked.
+(3) The Director must notify an extension granted under this section, and any amendment to, or replacement or revocation of, that extension, by,—
+  (a) in the case of a particular land transport document, giving a notice to the holder of that land transport document:
+  (b) in the case of a class or type of land transport document, publishing a notice—
+    (i) in the Gazette; and
+    (ii) on an Internet site maintained by the Agency.
+(4) Any revocation of an extension to a land transport document or a class or type of land transport document must be notified in accordance with subsection (3) at least 5 working days before the revocation takes effect.
+(5) The notice must—
+  (a) identify the particular land transport document or describe the class or type of land transport document that is extended; and
+  (b) describe the emergency that has given rise to the extension; and
+  (c) state the period of the extension or the amended or replaced period of extension, or that the extension has been revoked (whichever applies).
+(6) In this section,—
+  - **class or type of land transport document** includes—
+    (a) a land transport document held by a class of persons; and
+    (b) land transport documents of a particular type, including those that share a particular feature
+  - **emergency** means any of the following:
+    (a) a state of emergency declared under the Civil Defence Emergency Management Act 2002:
+    (b) an outbreak of disease that is the subject of an epidemic notice under the Epidemic Preparedness Act 2006:
+    (c) any other event or circumstance that the Director and the Minister agree in writing may require a land transport document extension
+  - **land transport document** —
+    (a) has the meaning given in section 2(1); and
+    (b) includes a driver licence or permit that is held by a person who is deemed to hold a New Zealand driver licence under any rule or regulation.
+
+### 209C Effect of extension under section 209B
+(1) A land transport document that is extended under section 209B, or that is in a class or of a type of land transport document that is extended under that section, is valid throughout the period of the extension, including any amended or replaced period of extension.
+(2) However, subsection (1) does not apply if—
+  (a) the land transport document is invalid:
+  (b) the land transport document is revoked, cancelled, superseded, or replaced:
+  (c) the land transport document is suspended:
+  (d) the holder of the land transport document is disqualified from holding that land transport document:
+  (e) the holder of the land transport document is for any other reason prohibited under this Act from performing the actions that the land transport document authorises.
+(3) Subsection (1) does not limit or affect—
+  (a) any power or enforcement function under this Act, or any other Act, or regulations or rules, in relation to a land transport document; or
+  (b) the liability of the holder of a land transport document to pay any applicable fee, charge, or levy that is otherwise payable under this Act.
+(4) In this section,—
+  - **class or type of land transport document** includes—
+    (a) a land transport document held by a class of persons; and
+    (b) land transport documents of a particular type, including those that share a particular feature
+  - **land transport document** —
+    (a) has the meaning given in section 2(1); and
+    (b) includes a driver licence or permit that is held by a person who is deemed to hold a New Zealand driver licence under any rule or regulation.
+
 ### 210 How notices and requests are given, served, or made
 (1) This section describes—
   (a) how a notice required to be given or sent to a person, or served on a person, under this Act (other than an infringement notice) may be given, sent, or served; and
@@ -5921,10 +6122,12 @@ Subsections (2A) to (2C) of section 209 expire and are repealed with the close o
     (ii) at the address specified by the person in any application or other document under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986; or
   (c) sending it—
     (i) by post addressed to the person at the place or address referred to in paragraph (b); or
-    (ii) by electronic means addressed to the person at their electronic address.
-(3) A notice or request that is, in accordance with subsection (2)﻿(c), sent to a person—
-  (a) by post must, unless the contrary is shown, be treated as having been given, sent, served, or made when it would have been delivered in the ordinary course of post and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted:
-  (b) by electronic means must, unless the contrary is shown, be treated as having been given, sent, served, or made at the time the electronic communication first enters an information system that is outside the control of the person giving or serving the notice or making the request and, in proving the sending, it is sufficient to prove that the electronic communication was properly addressed and sent.
+    (ii) by electronic means addressed to the person at their electronic address; or
+  (d) sending an electronic notification to the person that states where they can access the notice or request electronically (if the person has agreed to that method of electronic notification and access).
+(3) A notice or request that is sent to a person—
+  (a) by post under subsection (2)﻿(c)﻿(i) must, unless the contrary is shown, be treated as having been given, sent, served, or made when it would have been delivered in the ordinary course of post and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted:
+  (b) at that person’s electronic address under subsection (2)﻿(c)﻿(ii) must, unless the contrary is shown, be treated as having been given, sent, served, or made at the time the electronic communication first enters an information system that is outside the control of the person giving or serving the notice or making the request and, in proving the sending, it is sufficient to prove that the electronic communication was properly addressed and sent:
+  (c) in the way described in subsection (2)﻿(d) must, unless the contrary is shown, be treated as having been given, sent, served, or made at the time the electronic communication containing the notification of the notice or request is listed as sent in the information system used to send the electronic communication and, in proving the sending, it is sufficient to prove that the electronic communication was properly addressed and sent.
 (4) In this section, unless the context otherwise requires, electronic address, in relation to a person, means—
   (a) an electronic address that the person has given to an enforcement authority; or
   (b) otherwise, the person’s last known electronic address.
@@ -6120,6 +6323,7 @@ An application pending under any provision of the Transport Act 1962 that is rep
     (a) their name:
     (b) their physical address:
     (c) an electronic address that the person has given to an enforcement authority (or, otherwise, the person’s last known electronic address):
+    (ca) a mobile phone number that the person has given to an enforcement authority (or, otherwise, the person’s last known mobile phone number):
     (d) if the person is an individual, their date of birth and driver licence number:
     (e) any other information about the person that is on the register
   - **personalised plate** means a registration plate with a single letter or number or combination of letters, numbers, or letters and numbers allocated under section 259
@@ -6243,7 +6447,9 @@ The purposes of the register are to facilitate—
 (1) A motor vehicle must not be operated on a road unless the motor vehicle—
   (a) is registered and licensed in accordance with this Part; and
   (b) has affixed to it and displayed in the manner prescribed by regulations made under this Part the registration plates issued for it; and
-  (c) has displayed in the manner prescribed by regulations made under this Part a current licence issued for it and appropriate for its use under section 244.
+  (c) has a current licence issued for it and appropriate for its use under section 244 that is—
+    (i) displayed in the manner prescribed by regulations or rules made under this Part; or
+    (ii) electronically available in the manner prescribed by the regulations or rules.
 (2) The person registered in respect of a motor vehicle in accordance with this Part must—
   (a) keep the motor vehicle licensed at all times in accordance with this Part; and
   (b) ensure that the prescribed fees and accident insurance levies are paid for the time that the motor vehicle is required to be licensed (whether or not it is actually licensed).
@@ -6315,6 +6521,7 @@ Except as otherwise prescribed by regulations made under this Part, a licence co
   (b) sets out the following matters (if the particulars are reasonably ascertainable):
     (i) the name and address of the driver; and
     (ia) the electronic address of the driver (if the driver has an electronic address); and
+    (ib) the mobile phone number of the driver (if the driver has a mobile phone number); and
     (ii) the year and make of the motor vehicle, and the details of its registration plates or vehicle identification number; and
     (iii) the date and time of the seizure; and
     (iv) the place where the motor vehicle is, or is to be, impounded; and
