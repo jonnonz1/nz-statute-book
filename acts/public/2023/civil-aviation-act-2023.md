@@ -1,5 +1,5 @@
 # Civil Aviation Act 2023
-_Consolidation as at 2024-12-28_
+_Consolidation as at 2026-05-19_
 
 ### 1 Title
 This Act is the Civil Aviation Act 2023.
@@ -2965,7 +2965,7 @@ If the Secretary makes a direction order under section 247, the Secretary—
   (a) the buyer must not deliver it, and no person may deliver it on behalf of the buyer, to any other person within New Zealand; and
   (b) no person may consume it within New Zealand.
 (3) A person commits an offence if the person—
-  (a) sells alcohol at any international airport to any passenger on an aircraft departing from or arriving in New Zealand who is under the age referred to in subsection (1)﻿(a) or (b) (as the case requires); or
+  (a) sells alcohol at any international airport to any passenger on an aircraft departing from or arriving in New Zealand who is under the age referred to in subsection (1); or
   (b) fails to comply with subsection (2).
 (4) A person who commits an offence against subsection (3) is liable on conviction to a fine not exceeding $2,500.
 (5) Nothing in the Sale and Supply of Alcohol Act 2012 applies to the sale of alcohol under the authority of this section or of any regulations made under section 426.
@@ -4565,6 +4565,7 @@ A person who commits an act or omission on an aircraft in flight outside New Zea
   (a) the CAA has requested that the Minister make the recommendation; and
   (b) the Minister is satisfied that the CAA has consulted with persons, representative groups within the aviation industry or elsewhere, government departments, and Crown agencies as the Minister considers appropriate.
 (5) The Minister must not make any recommendation under subsection (1) in respect of a levy for the purpose in subsection (1)﻿(b) or (c) unless the Minister is satisfied that those persons, representative groups within the aviation industry or elsewhere, government departments, and Crown agencies as the Minister considers appropriate have been consulted.
+(5A) Regulations made under this section must not impose a levy in respect of the costs that are otherwise recovered or otherwise to be recovered under the Airports (Cost Recovery for Processing of International Travellers) Act 2014.
 (6) Regulations made under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 419 Basis on which levies may be imposed
