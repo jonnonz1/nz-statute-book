@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2026-05-07_
+_Consolidation as at 2026-05-19_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -164,9 +164,11 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   - **regional public transport plan** means a regional public transport plan adopted under section 119, as from time to time varied or renewed
   - **regional transport committee** means a regional transport committee established under section 105
   - **road** —
-    (a) means a road as defined in section 2(1) of the Government Roading Powers Act 1989; and
-    (b) despite the terms of that definition, includes a motorway as defined in that section; and
-    (c) includes toll booths and other toll-related infrastructure on a road
+    (a) means—
+      (i) any land that is laid out by, or vested in, the Crown as a road:
+      (ii) a road as defined in section 2(1) of the Government Roading Powers Act 1989:
+      (iii) a motorway as defined in section 2(1) of the Government Roading Powers Act 1989 (despite the definition of road in that section); and
+    (b) includes toll booths and other toll-related infrastructure on a road
   - **road controlling authority** , in relation to a road, means the Minister, department of State, Crown entity, State enterprise, or territorial authority that controls the road
   - **road tolling scheme** means a road tolling scheme established by Order in Council under section 46
   - **Route K** has the same meaning as in section 3 of the Tauranga District Council (Route K Toll) Empowering Act 2000 (despite the repeal of that Act or any subsequent renaming of the road)
@@ -1045,22 +1047,28 @@ Part 5 of the Transit New Zealand Act 1989 is consequentially repealed.
 (1) The driver of a motor vehicle is liable for payment of the toll to the toll operator when the vehicle reaches the toll payment point.
 (2) If the driver fails to pay the toll as required by subsection (1), the person registered under Part 17 of the Land Transport Act 1998 in respect of the motor vehicle (the registered person) is liable for payment of the toll to the toll operator.
 (3) However, the registered person is not liable under subsection (2) to pay the toll if, within 28 days after being notified of the non-payment of the toll, the registered person supplies to the toll operator, in a sworn statement in writing or a statutory declaration,—
-  (a) the name and address of the driver of the vehicle or any other particulars within the knowledge of the registered person that may lead to the identification of the person who was in charge or control of the vehicle at the relevant time; or
+  (a) the driver’s name, address, and electronic address (if the driver has an electronic address); or
+  (aa) any particulars within the knowledge of the registered person that may lead to the identification of the person who was in charge or control of the vehicle at the relevant time; or
   (b) a statement that the vehicle was a stolen vehicle at the relevant time.
 (3A) Notice under subsection (3) may be given by—
   (a) sending it, or a copy of it, by post addressed to the registered person at that person’s last known place of residence or business or postal address; or
-  (b) electronic means of communication delivered to the registered person's electronic address if the toll operator complies with Part 4 of the Contract and Commercial Law Act 2017.
-(3B) Unless the registered person proves that the registered person did not (through no fault of the registered person) receive the notice given under subsection (3), a notice delivered by—
-  (a) ordinary post is to be treated as having been delivered 5 working days after the date on which it was posted:
-  (b) electronic means of communication is to be treated as having been delivered on the day after the date on which it was delivered to the person's electronic address.
+  (b) sending it to the registered person’s electronic address; or
+  (c) sending an electronic notification to the registered person that states where they can access the notice electronically (if the registered person has agreed to that method of electronic notification and access).
+(3B) Unless the contrary is shown, a notice given under subsection (3) that is delivered—
+  (a) by ordinary post under subsection (3A)﻿(a) is treated as having been delivered 5 working days after the date on which it was posted:
+  (b) to an electronic address under subsection (3A)﻿(b) is treated as having been delivered at the time the electronic communication containing the notice first enters an information system that is outside the control of the person sending it:
+  (c) in the way described in subsection (3A)﻿(c) is treated as having been delivered at the time the electronic communication containing the notification of the notice is listed as sent in the information system used to send the electronic communication.
+(3C) For the purposes of subsection (3B)﻿(b) and (c), in proving the sending of an electronic communication, it is sufficient to prove that the electronic communication was properly addressed and sent.
 (4) Tolls (and the associated enforcement costs) are recoverable in a court of competent jurisdiction as a debt due to the toll operator.
 (5) Tolls are not payable in respect of any motor vehicle that—
   (a) is an emergency vehicle; or
   (b) is exempt by virtue of an Order in Council made under section 46(1).
-(6) For the purposes of subsection (5), emergency vehicle means a vehicle that is used for attendance at emergencies and operated—
-  (a) as a Police vehicle:
-  (b) as an ambulance service vehicle:
-  (c) as a vehicle for the delivery of designated services (as defined in section 6 of the Fire and Emergency New Zealand Act 2017) by an employee, volunteer, or contractor of Fire and Emergency New Zealand.
+(6) In this section,—
+  - **emergency vehicle** means a vehicle that is used for attendance at emergencies and operated—
+    (a) as a Police vehicle:
+    (b) as an ambulance service vehicle:
+    (c) as a vehicle for the delivery of designated services (as defined in section 6 of the Fire and Emergency New Zealand Act 2017) by an employee, volunteer, or contractor of Fire and Emergency New Zealand
+  - **information system** means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications.
 
 ### 53 Enforcement of tolls
 A toll operator may deny a motor vehicle physical access to its toll road, or past the toll payment point, if—
@@ -1757,6 +1765,16 @@ In the course of performing its functions and exercising its powers, the Agency 
 (8) Before making a declaration under subsection (1) or varying or revoking a declaration under subsection (4), the Agency must consult any regional council or territorial authority that may be affected by the proposed declaration, variation, or revocation and, if the road concerned is within a project area for a specified development project, the Agency must also consult Kāinga Ora–Homes and Communities.
 (9) A declaration, variation, or revocation made under this section comes into force on a date to be specified in the relevant Gazette notice.
 (10) A road declared to be a State highway under section 11 of the National Roads Act 1953 or section 60 of the Government Roading Powers Act 1989 (formerly known as the Transit New Zealand Act 1989), and having that status under either Act immediately before the commencement of this section, is to be treated as having been declared to be a State highway under this section.
+
+### 103A Validation of declarations
+(1) This section applies to—
+  (a) a declaration under section 103 that a road is a State highway that was made on or after 1 August 2008 and before the commencement of the Regulatory Systems (Transport) Amendment Act 2026; and
+  (b) any action taken to enforce a declaration referred to in paragraph (a).
+(2) A declaration, and any action taken to enforce it, is valid and remains in force, despite the road not meeting the definition of road in section 5(1) when the declaration was made.
+(3) Subsection (2) applies only to the extent that—
+  (a) the Agency was otherwise acting lawfully in making the declaration or taking action to enforce it; and
+  (b) in the case of a declaration, the declaration has not expired or been revoked on the date on which this section comes into force; and
+  (c) in the case of action taken to enforce a declaration, the declaration had not expired or been revoked when the action was taken.
 
 ### 104 Government Superannuation Fund
 (1) Despite anything in this Act, a person who, immediately before becoming an employee of the Agency, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, to be treated as if he or she were employed in the Government service so long as the person continues to be an employee of the Agency.
