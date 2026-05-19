@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2024-04-01_
+_Consolidation as at 2026-05-19_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -771,7 +771,7 @@ For the purposes of issuing an assessment under section 53(1), the RUC collector
   (b) the owner or operator of the RUC vehicle was not the person responsible for incurring the unpaid road user charges.
 (2) An application for review must—
   (a) be in writing; and
-  (b) include the full name, telephone number, and address of the applicant; and
+  (b) include the applicant’s full name, address, and any mobile phone number, other phone number, and electronic address that the applicant has; and
   (c) if the applicant is not the owner or operator to whom the assessment was issued, include a written authorisation from the owner or operator for the applicant to act on the owner or operator's behalf; and
   (d) specify the grounds for review; and
   (e) provide any evidence that may be required to substantiate the grounds for review.
@@ -1267,12 +1267,22 @@ In this Part, unless the context otherwise requires,—
 (3) The methods are—
   (a) by personal delivery to a person that is not a body corporate:
   (b) by personal delivery to a person that is a body corporate, if the personal delivery is made to the person's office during working hours:
-  (c) by an electronic means of communication to the person, if the RUC collector complies with Part 4 of the Contract and Commercial Law Act 2017:
+  (c) by sending the notice to the person’s electronic address:
+  (ca) by sending an electronic notification to the person that states where they can access the notice electronically (if the person has agreed to that method of electronic notification and access):
   (d) by post—
     (i) to the street address of the person's usual or last known place of residence; or
     (ii) to the street address of any of the person's usual or last known places of business; or
     (iii) to any other address, if the addressee has notified the RUC collector that the person accepts notices at that address.
-(4) For the purposes of subclause (3)﻿(d), a notice given by post is treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
+(4) For the purposes of subclause (3), a notice sent—
+  (a) by post is, unless the contrary is shown, treated as having been given at the time the notice would have been delivered in the ordinary course of the post:
+  (b) to an electronic address is, unless the contrary is shown, treated as having been delivered at the time the electronic communication containing the notice first enters an information system that is outside the control of the person giving the notice:
+  (c) in the way described in subclause (3)﻿(ca) is, unless the contrary is shown, treated as having been delivered at the time the electronic communication containing the notification of the notice is listed as sent in the information system used to send the electronic communication.
+(5) For the purposes of subclause (4)﻿(b) and (c), in proving the sending of an electronic communication, it is sufficient to prove that the electronic communication was properly addressed and sent.
+(6) In this clause,—
+  - **electronic address** , in relation to a person, means—
+    (a) an electronic address that the person has given to the RUC collector; or
+    (b) if no electronic address is given, the person’s last known electronic address
+  - **information system** means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications.
 
 ### Part 2 — Notice given to RUC collector
 
@@ -1283,8 +1293,10 @@ In this Part, unless the context otherwise requires,—
   (b) using one of the methods specified in subclause (3).
 (3) The methods are—
   (a) by personal delivery, if the delivery is made during working hours; or
-  (b) by electronic means of communication, if the person complies with Part 4 of the Contract and Commercial Law Act 2017; or
+  (b) by sending the notice to a designated electronic address; or
   (c) by post to the street address or post office box number for the office.
-(4) For the purposes of subclause (3)﻿(c), a notice given by post is treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
+(4) For the purposes of subclause (3), a notice given—
+  (a) by post is, unless the contrary is shown, treated as having been given at the time the notice would have been delivered in the ordinary course of the post:
+  (b) to an electronic address under subclause (3)﻿(b) is, unless the contrary is shown, treated as having been delivered at the time the electronic communication containing the notice first enters an information system that is outside the control of the person giving the notice and, in proving the sending, it is sufficient to prove that the electronic communication was properly addressed and sent.
 
 ## Schedule 3 — Consequential amendments to other enactments
