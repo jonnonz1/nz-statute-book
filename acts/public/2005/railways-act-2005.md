@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2026-05-19_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -50,7 +50,10 @@ The purpose of this Act is to—
   - **incident** means an occurrence, other than an accident, that is associated with the operation of a rail vehicle or the use of railway infrastructure or railway premises that placed, or could have placed,—
     (a) a person at risk of death or serious injury; or
     (b) property at risk of significant damage
+  - **information system** , in relation to an electronic communication, means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications
   - **infrastructure owner** means a person who owns, or leases for a period of 7 years or more, any railway infrastructure, whether or not that person engages rail personnel to exercise or assist in exercising the rights and duties of ownership on its behalf; but does not include those rail personnel
+  - **inspector** means a person appointed under section 72Z
+  - **issuing officer** has the same meaning as in section 3(1) of the Search and Surveillance Act 2012
   - **level crossing** —
     (a) means any place where—
       (i) a railway line crosses a road on the same level; or
@@ -148,6 +151,7 @@ The purpose of this Act is to—
       (i) the death of, or serious injury to, individuals; or
       (ii) significant damage to property; and
     (b) there is a need for an early determination of the nature and extent of the action that the Director would require the rail participant to take to mitigate that risk
+  - **State services** has the same meaning as in section 5 of the Public Service Act 2020
   - **transmission machinery** means any shaft, wheel, drum, pulley, system of fast and loose pulleys, gearing, coupling, clutch, driving belt, chain, rope, band, or other device by which the motion of a prime mover is transmitted to or received by any machine or appliance.
 (2) In this Act, the rail activities of a rail participant, or for which a rail participant is responsible, are as follows:
   (a) in the case of an infrastructure owner, the ownership of railway infrastructure:
@@ -301,6 +305,7 @@ A licence may not be transferred or assigned to any person without the prior wri
 (2) The register must show for each licence the following information:
   (a) the holder's name:
   (b) the holder's address:
+  (ba) the holder’s electronic address (if the holder has an electronic address):
   (c) the number of the licence:
   (d) the date of issue of the licence:
   (e) any conditions applying to the licence:
@@ -323,12 +328,12 @@ A licence may not be transferred or assigned to any person without the prior wri
   (a) every rail vehicle used by the rail operator must be maintained as provided for in the approved safety case:
   (b) the rail operator must, whenever required to do so by the Director, present for inspection any rail vehicle that is used by the rail operator:
   (c) a rail vehicle that has suffered serious damage may not be used until it has been approved in accordance with the rail operator's safety system and approved safety case:
-  (d) the rail operator must, on being requested to do so by the Director or an enforcement officer, immediately supply the full name and address of any rail personnel of the rail operator who has committed or allegedly committed an offence (being an offence of which the rail operator is aware and that may be relevant to the safe operation of a rail vehicle).
+  (d) the rail operator must, on being requested to do so by the Director or an enforcement officer, immediately supply the full name, address, and electronic address (if any) of any rail personnel of the rail operator who has committed or allegedly committed an offence (being an offence of which the rail operator is aware and that may be relevant to the safe operation of a rail vehicle).
 (4) Without limiting subsection (1), every licence held by an access provider has the following conditions:
   (a) all railway infrastructure used by the access provider must be maintained as provided for in the approved safety case:
   (b) the access provider must, whenever required to do so by the Director, present for inspection any railway infrastructure controlled by the access provider:
   (c) any railway infrastructure that has suffered serious damage may not be used until it has been approved in accordance with the access provider's safety system and approved safety case:
-  (d) the access provider must, on being requested to do so by the Director or an enforcement officer, immediately supply the full name and address of any rail personnel of the access provider who has committed or allegedly committed an offence (being an offence of which the access provider is aware and that may be relevant to the safe operation of any railway infrastructure).
+  (d) the access provider must, on being requested to do so by the Director or an enforcement officer, immediately supply the full name, address, and electronic address (if any) of any rail personnel of the access provider who has committed or allegedly committed an offence (being an offence of which the access provider is aware and that may be relevant to the safe operation of any railway infrastructure).
 (5) Without limiting subsection (1), every licence has the condition that the licence holder must provide the Director with—
   (a) the licence holder's current—
     (i) place of business; and
@@ -422,6 +427,7 @@ A licence may not be transferred or assigned to any person without the prior wri
     (i) the reasons for the decision if those reasons differ from those notified under subsection (1)﻿(b); and
     (ii) if appropriate, the date on which the decision takes effect; and
     (iii) if appropriate, the right of appeal under section 68.
+(5A) If the adverse decision in question is a decision to issue an improvement notice under section 72M, references to the Director in this section are to be treated as references to the person who issues or proposes to issue an improvement notice under section 72M.
 (6) In this section, unless the context otherwise requires,—
   - **adverse decision** means a decision of the Director—
     (a) to refuse to grant a licence under section 17; or
@@ -429,7 +435,8 @@ A licence may not be transferred or assigned to any person without the prior wri
     (c) to revoke a licence or to impose permanent conditions on a licence under section 24; or
     (d) to amend a licence under section 26(2)﻿(a); or
     (e) to revoke a licence under section 26(2)﻿(b); or
-    (f) to give notice of the requirement for remedial action under section 42(1)
+    (f) to give notice of the requirement for remedial action under section 42(1); or
+    (g) to issue an improvement notice under section 72M
   - **affected licence holder** , in relation to a person directly affected by an adverse decision, means the holder of, or the applicant for, the licence
   - **person directly affected** , in relation to any adverse decision, means the person who would be entitled to appeal against that adverse decision under section 68.
 
@@ -544,6 +551,8 @@ A licence may not be transferred or assigned to any person without the prior wri
 (2) After considering the submission (if any), the Director must, as soon as practicable but not later than 20 working days after considering any submission made by the licence holder,—
   (a) decide whether or not to approve the application or confirm the requirement; and
   (b) give written notice to the licence holder of the Director’s decision.
+(2A) The Director may require further information from the licence holder if the information is reasonably necessary in order to make a decision under subsection (2)﻿(a).
+(2B) If the Director requires and receives further information from the licence holder, any working days that fall between the day on which the Director requires the information and the day on which the Director receives the information are excluded from the 20-working-day time frames specified in subsections (1) and (2).
 (3) The Director may approve an application, or confirm a requirement, in whole or in part and subject to any conditions that the Director considers appropriate.
 (4) If the Director has refused to approve an application, or has confirmed a requirement, the Director must, in the written notice given under subsection (2)﻿(b), inform the licence holder of—
   (a) the reasons for the refusal or confirmation; and
@@ -552,6 +561,7 @@ A licence may not be transferred or assigned to any person without the prior wri
 
 ### 36 Safety improvement plans
 (1) The Director may, by written notice, require a rail participant to prepare a safety improvement plan in respect of the rail activities specified in the notice if the Director has reason to believe that the rail participant has failed to take appropriate remedial action under sections 42 to 44.
+(1A) The Director may require a rail participant to prepare a safety improvement plan under subsection (1) despite an improvement notice also being issued to the rail participant under section 72M.
 (2) As soon as practicable but not later than 20 working days after receiving a plan under subsection (1), the Director must advise the rail participant by written notice—
   (a) whether the Director has approved the plan; and
   (b) if the Director has not approved the plan, of the changes that the Director requires to be made to the plan.
@@ -582,6 +592,7 @@ A licence may not be transferred or assigned to any person without the prior wri
     (i) those safety improvement plans and notices; and
     (ii) any other safety improvements:
   (h) the nature and extent of any recent accidents or incidents that the licence holder has reported to the Director under section 13(3):
+  (ha) the result of any investigation into an accident or incident under Part 2A:
   (i) any other recent reports or information that the Director has received on—
     (i) the overall safety of the rail participant's rail activities; or
     (ii) the safety of particular aspects of the rail participant's rail activities:
@@ -922,8 +933,11 @@ If a body corporate is convicted of an offence against this Act, every director 
 ### Subpart 7 — Appeals
 
 ### 68 Appeal to District Court
-(1) A person who is dissatisfied with a decision relating to that person made by the Agency or the Director may appeal to the District Court against that decision.
-(2) For the purposes of subsection (1), the exercise of a power conferred on the Agency or the Director by a provision of this Act, or a regulation or rule made under this Act, is a decision.
+(1) A person may appeal to the District Court against a decision relating to that person that is made by any of the following, if dissatisfied with that decision:
+  (a) the Agency:
+  (b) the Director:
+  (c) a person issuing a notice under section 72M or 72Q.
+(2) For the purposes of subsection (1), the exercise of a power conferred on the Agency, the Director, or an inspector by a provision of this Act, or a regulation or rule made under this Act, is a decision.
 (3) This section does not apply to any decision made in relation to a class exemption under section 60A, including a decision to grant (or not to grant), to amend, or to revoke a class exemption.
 
 ### 69 Procedure
@@ -948,6 +962,287 @@ A decision of the Agency or the Director appealed against under section 68 or se
 (2) The Court of Appeal may make any order or determination that it thinks fit in relation to the appeal.
 (3) The decision of the Court of Appeal on an appeal or any application for leave to appeal is final.
 (4) Except as provided in this section, the procedures in respect of an appeal under this section must be in accordance with the applicable provisions of the High Court Rules 2016 and the Court of Appeal Rules, as the case may be.
+
+## Part 2A — Investigating accidents and incidents
+
+### Subpart 1 — Powers to enter, inspect, and obtain information
+
+### 72A Powers in this Part are subject to section 14(3) of Transport Accident Investigation Commission Act 1990
+The powers specified in this Part are subject to the limitations set out in section 14(3) of the Transport Accident Investigation Commission Act 1990.
+
+### 72B Director and other persons investigating accident or incident must co-ordinate investigations
+(1) This section applies if an accident or incident is being investigated by an inspector and 1 or more of the following investigators (specified investigators):
+  (a) the Commission:
+  (b) the New Zealand Police:
+  (c) the regulator, an inspector, or any other person authorised under the Health and Safety at Work Act 2015 (in accordance with the memorandum of understanding specified in section 8(2) of this Act).
+(2) The Director and the specified investigator or specified investigators must take reasonable steps to co-ordinate their respective investigations.
+
+### 72C Powers to obtain information
+(1) For the purpose of investigating an accident or incident, an inspector may, at any reasonable time, require a rail participant or rail personnel to do either or both of the following:
+  (a) answer questions that relate to the accident or incident or the investigation of it:
+  (b) provide all other information that the inspector may reasonably require for the purposes of the investigation.
+(2) Nothing in this section affects the application of section 60 of the Evidence Act 2006.
+
+### 72D Powers of entry and inspection
+(1) For the purpose of investigating an accident or incident, an inspector may, at any reasonable time, enter a vehicle, building, or place that—
+  (a) belongs to a rail participant or rail personnel; or
+  (b) is used by a rail participant or rail personnel in that participant’s or personnel’s rail activities.
+(2) On entering the vehicle, building, or place, the inspector may, for the purposes of the investigation,—
+  (a) conduct examinations, tests, inquiries, and inspections:
+  (b) be accompanied and assisted by any other person, and bring into the vehicle, building, or place any equipment necessary to investigate the accident or incident:
+  (c) take photographs and measurements and make sketches and recordings:
+  (d) require the person who is or appears to be in charge of the vehicle, building, or place to ensure that the vehicle, building, or place, or anything inside it, is not disturbed for a reasonable period pending examination, testing, inquiry, or inspection:
+  (e) require the person who is or appears to be in charge of the vehicle, building, or place to—
+    (i) produce information relating to the vehicle, building, or place, the activities carried out there, or any person who carries out any or all of those activities; and
+    (ii) produce information relating to the rail participant’s or rail personnel’s compliance with this Act or with any rules or regulations; and
+    (iii) permit the inspector to examine and make copies of, or take extracts from, the information.
+(3) An inspector may do any of the things referred to in subsection (2) whether or not—
+  (a) the inspector or the person the inspector is dealing with is in the vehicle, building, or place; or
+  (b) the information is—
+    (i) in the vehicle, building, or place; or
+    (ii) in the place where the inspector is; or
+    (iii) in another place.
+(4) Nothing in this section affects the application of section 60 of the Evidence Act 2006.
+(5) For the purposes of this section, if the inspector considers it necessary to enter any other building or land in order to get to the vehicle, building, or place, the inspector may do so after taking any steps that the inspector considers reasonable in the circumstances to obtain the consent of the occupier of the building or land.
+(6) In this section, information includes any document.
+
+### 72E Power to enter homes or marae
+(1) Despite section 72D, an inspector must not, except with the consent of an occupier or pursuant to a warrant issued under subsection (2), enter a vehicle, building, or place referred to in section 72D(1)—
+  (a) that is, or is within, a home, a marae, or a building associated with a marae; or
+  (b) by going through a home, a marae, or a building associated with a marae.
+(2) An issuing officer may, on an application made by an inspector in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, issue a warrant to enter a home (or part of a home), a marae (or part of a marae), or a building associated with a marae (or part of a building associated with a marae) if the issuing officer is satisfied that there are reasonable grounds to believe that the home, marae, or building associated with a marae—
+  (a) is, or has inside it, a vehicle, building, or place referred to in section 72D(1); or
+  (b) is the only practicable means through which the inspector may enter a vehicle, building, or place referred to in section 72D(1).
+(3) A warrant issued under subsection (2) authorises an inspector to enter the home, marae, or building associated with a marae only to exercise the powers specified in section 72D.
+
+### 72F Notice of entry
+If an inspector enters a vehicle, building, or place under section 72D or 72E and is unable, despite reasonable efforts, to find any person in charge, the inspector must, before leaving the vehicle, building, or place, leave a written notice stating—
+  (a) the inspector’s identity; and
+  (b) the inspector’s electronic address and any other contact information the inspector wishes to provide; and
+  (c) the date and time of entry; and
+  (d) the inspector’s reasons for entering.
+
+### 72G Power to take samples and other objects and things
+(1) An inspector exercising a power under section 72D or 72E to enter a vehicle, building, or place referred to in section 72D(1) may, for the purpose of investigating the accident or incident, take or remove from that vehicle, building, or place a sample of any material, substance, or thing for analysis, or seize and retain any material, substance, or thing, in order to—
+  (a) monitor activities being carried out in that vehicle, building, or place; or
+  (b) determine the nature of any material or substance in that vehicle, building, or place; or
+  (c) determine whether this Act or any rules or regulations have been, or are being, contravened.
+(2) This section does not allow an inspector to take a sample from a person's body unless the inspector has the person's informed consent to take the sample.
+(3) If an inspector removes or retains any sample, material, substance, or thing under subsection (1), the inspector must,—
+  (a) when the inspector removes or retains the sample, material, substance, or thing or as soon as practicable after doing so, give the rail participant or rail personnel written notice of—
+    (i) what has been (or is being) removed or retained; and
+    (ii) why it has been (or is being) removed or retained; and
+    (iii) where it will be kept in the meantime; and
+  (b) subject to subsections (4) and (5), within 5 working days of removing or retaining any sample, material, substance, or thing, give the rail participant or rail personnel written notice of whether the inspector intends to return it or destroy it.
+(4) If it is practicable to do so, the inspector must return the sample, material, substance, or thing to its owner—
+  (a) when it is no longer required for any purpose under this Act or any other legislation; or
+  (b) if a court orders its earlier return.
+(5) The inspector may destroy any removed or retained sample, material, substance, or thing if—
+  (a) it is perishable and has become rotten or has otherwise deteriorated; or
+  (b) it is perishable and is likely to become rotten or perish before it can be dealt with under subsection (4); or
+  (c) it is likely to pose a risk to public health.
+(6) In addition, sections 154, 155, and 159 of the Search and Surveillance Act 2012 apply in relation to any sample, material, substance, or thing removed or retained.
+(7) The provisions of the Search and Surveillance Act 2012 referred to in subsection (6) apply as if—
+  (a) the reference in section 159(1) of that Act to a person described in section 156(2) were to—
+    (i) any person from whom the sample, material, substance, or thing was seized:
+    (ii) the owner:
+    (iii) any other person who, in the opinion of the inspector, may be affected by the forfeiture of the sample, material, substance, or thing; and
+  (b) references to a thing were to any sample, material, substance, or thing; and
+  (c) references to seized or produced were to removed or retained; and
+  (d) references to the person in whose custody the thing is were to the inspector; and
+  (e) all other necessary modifications were made.
+(8) Any sample, material, substance, or thing forfeited to the Crown may be destroyed or otherwise disposed of as the inspector directs.
+
+### 72H Power of entry (by consent or under warrant) if Director suspects contravention
+(1) The Director may authorise a specified person to enter and search a vehicle, building, or place for the purpose of ascertaining whether an accident or incident was caused by a person engaging in conduct that contravenes or may contravene a provision of this Act or any rules or regulations.
+(2) Subsection (1) applies only if the Director is satisfied that there are reasonable grounds—
+  (a) to suspect that the person has engaged in or is engaging in conduct that constitutes or may constitute such a contravention; and
+  (b) to suspect that the contravention has caused the accident or incident; and
+  (c) to believe that the search will find evidential material in or on any part of the vehicle, building, or place.
+(3) A specified person authorised under subsection (1) may enter and search the vehicle, building, or place if—
+  (a) the occupier or person in charge of the vehicle, building, or place consents; or
+  (b) the specified person obtains a warrant under subsection (4).
+(4) An issuing officer may issue a search warrant in relation to a vehicle, building, or place on an application made in the manner provided by subpart 3 of Part 4 of the Search and Surveillance Act 2012 by a specified person authorised under subsection (1), if the issuing officer is satisfied that there are reasonable grounds—
+  (a) to suspect that a person has engaged in or is engaging in conduct that contravenes or may contravene a provision of this Act or any rules or regulations; and
+  (b) to suspect that the contravention has caused the accident or incident; and
+  (c) to believe that the search will find evidential material in or on any part of the vehicle, building, or place.
+(5) In this section, specified person means—
+  (a) an inspector; or
+  (b) a constable; or
+  (c) an employee of the Agency; or
+  (d) any other person who the Director is satisfied is suitably qualified and trained, or belongs to a class of persons who are suitably qualified and trained, to act under this section.
+(6) Despite subsection (5), a constable may apply for a warrant to be issued under subsection (4) without an authorisation from the Director under subsection (1).
+(7) Subpart 2 of Part 3 and Part 4 of the Search and Surveillance Act 2012 apply, with any necessary modifications, to any search under this section.
+(8) Despite subsection (7), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
+
+### 72I Continuation of powers of entry and inspection without search warrants
+An inspector who, in the course of exercising a power under section 72D or 72E, finds evidence of a contravention of this Act (or any rules or regulations) that caused an accident or incident is not required to obtain a search warrant under section 72H to continue exercising powers under section 72D or 72E.
+
+### 72J Power to require name, address, and date of birth
+(1) For the purpose of investigating an accident or incident, an inspector may require a rail participant or rail personnel to provide the rail participant’s or rail personnel’s name, residential address, and date of birth if the inspector finds the participant or personnel—
+  (a) committing an offence against this Act or any rules or regulations; or
+  (b) in circumstances that lead, or with information that leads, the inspector to reasonably suspect that the rail participant or rail personnel has committed an offence against this Act or against any rules or regulations.
+(2) When requiring a rail participant or rail personnel to provide their name, residential address, and date of birth, the inspector must—
+  (a) tell the rail participant or rail personnel the reason for the requirement; and
+  (b) warn the rail participant or rail personnel that it is an offence to fail to provide their name, residential address, and date of birth unless the rail participant or rail personnel has a reasonable excuse.
+(3) If the inspector reasonably believes that the name, residential address, or date of birth that a rail participant or rail personnel provides is false, the inspector may require the rail participant or rail personnel to give evidence of its correctness.
+(4) A rail participant or rail personnel must not, without reasonable excuse, refuse or fail to comply with a requirement under subsection (1) or (3).
+(5) A rail participant or rail personnel who breaches subsection (4) commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+### 72K Offence to fail to comply with or assist, or to intentionally obstruct, inspector
+(1) A rail participant or rail personnel must give all reasonable assistance to enable an inspector to enter, inspect, examine, inquire, or exercise any other power under this Act.
+(2) A person commits an offence if they—
+  (a) breach subsection (1); or
+  (b) refuse or fail to comply with a requirement of an inspector under this Act; or
+  (c) intentionally obstruct or intentionally impede an inspector exercising their powers under this Act.
+(3) A person who commits an offence against this section is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $10,000:
+  (b) in any other case, to a fine not exceeding $50,000.
+
+### 72L Immunity of inspectors and persons assisting inspectors or Director
+(1) An inspector is immune from civil and criminal liability for any act done in good faith in the exercise, or intended exercise, of any of the inspector’s powers under this Act if—
+  (a) the inspector exercises the power in a reasonable manner; and
+  (b) the inspector believes on reasonable grounds that the preconditions for the exercise of that power have been satisfied.
+(2) A person is immune from civil and criminal liability for any act done in good faith and in a reasonable manner when assisting an inspector or the Director to exercise the inspector’s or the Director’s powers under this Act.
+(3) In any civil proceeding in which a person asserts that the person has an immunity under this section, the onus is on that person to prove the facts necessary to establish the basis of that claim.
+
+### Subpart 2 — Improvement notices and non-disturbance notices
+
+**Improvement notices**
+
+### 72M Power to issue improvement notices
+(1) This section applies if, in the course of investigating an accident or incident, an inspector reasonably believes that a rail participant or rail personnel—
+  (a) has contravened a provision of this Act or any rules or regulations; and
+  (b) that contravention has—
+    (i) caused the accident or incident; or
+    (ii) made the accident or incident more likely to happen.
+(2) The inspector may issue an improvement notice requiring the rail participant or rail personnel to—
+  (a) remedy the contravention; or
+  (b) remedy the things or activities that caused, or are causing, the contravention; or
+  (c) protect against a future contravention.
+(3) A decision to issue an improvement notice may be appealed under section 68.
+
+### 72N Content of improvement notices
+(1) An improvement notice must state—
+  (a) that the inspector believes that—
+    (i) the rail participant or rail personnel has contravened this Act (or a rule or regulation); and
+    (ii) the contravention has, in relation to an accident or incident,—
+      (A) caused the accident or incident; or
+      (B) made the accident or incident more likely to happen; and
+  (b) the provision that the inspector believes has been contravened; and
+  (c) briefly, how that provision has been contravened; and
+  (d) a reasonable period within which the rail participant or rail personnel must—
+    (i) remedy the contravention; or
+    (ii) remedy the things or activities that caused, or are causing, the contravention; or
+    (iii) prevent a future contravention.
+(2) An improvement notice may include recommendations concerning—
+  (a) the measures that the rail participant or rail personnel could take to remedy the contravention or prevent a future contravention to which the notice relates:
+  (b) the things or activities causing the contravention to which the notice relates.
+
+### 72O Compliance with improvement notice
+(1) A rail participant or rail personnel who has been issued with an improvement notice must comply with the notice within the period specified in the notice.
+(2) A rail participant or rail personnel who breaches subsection (1) commits an offence and is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $50,000:
+  (b) in any other case, to a fine not exceeding $250,000.
+(3) To avoid doubt, a failure to comply with a recommendation under section 72N(2) is not, in itself, an offence.
+
+### 72P Extension of time for compliance with improvement notices
+(1) This section applies if a rail participant or rail personnel has been issued with an improvement notice.
+(2) An inspector may, by written notice given to the rail participant or rail personnel, extend the compliance period for the improvement notice.
+(3) However, the inspector may extend the compliance period only if the period has not ended.
+(4) In this section, compliance period—
+  (a) means the period stated in the improvement notice; and
+  (b) includes any extension of that period under this section.
+
+**Non-disturbance notices**
+
+### 72Q Power to issue non-disturbance notice
+(1) An inspector may issue a non-disturbance notice to a rail participant or rail personnel in respect of a vehicle, building, or place that—
+  (a) belongs to the rail participant or rail personnel; or
+  (b) is used by the rail participant or rail personnel in that participant’s or personnel’s rail activities.
+(2) An inspector may only issue a non-disturbance notice under subsection (1) if the inspector reasonably believes that it is necessary to do so to facilitate the inspector’s investigation into an accident or incident under this Part.
+(3) A decision to issue a non-disturbance notice may be appealed under section 68.
+
+### 72R Content of non-disturbance notice
+(1) A non-disturbance notice may require the person to whom the notice was issued to preserve, or prevent the disturbance of, a vehicle, building, or place specified in section 72Q(1) for a specified period.
+(2) A non-disturbance notice must specify the period (not exceeding 7 days) for which it applies and set out—
+  (a) the obligations of the person to whom the notice is issued; and
+  (b) the measures to be taken to preserve a vehicle, building, or place or prevent the disturbance of a vehicle, building, or place; and
+  (c) the penalty for refusing or failing to comply with the notice.
+(3) A non-disturbance notice does not prevent any action—
+  (a) to assist an injured person; or
+  (b) to remove a deceased person; or
+  (c) that is essential to make the vehicle, building, or place safe or to prevent an accident or incident; or
+  (d) that is done by, or under the direction of, a constable acting in the execution of the constable’s duties; or
+  (e) for which an inspector or the Director has given permission.
+(4) A non-disturbance notice does not apply to the site of any accident or incident being investigated by the Commission.
+
+### 72S Compliance with non-disturbance notice
+(1) A rail participant or rail personnel must not, without reasonable excuse, refuse or fail to comply with a non-disturbance notice issued to them.
+(2) A rail participant or rail personnel who breaches subsection (1) commits an offence and is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $50,000:
+  (b) in any other case, to a fine not exceeding $250,000.
+
+### 72T Issue of subsequent non-disturbance notices
+(1) If an inspector considers it necessary to do so, the inspector may issue 1 or more subsequent non-disturbance notices to a rail participant or rail personnel, whether before or after the expiry of the previous notice.
+(2) A subsequent non-disturbance notice issued under subsection (1) must comply with sections 72Q and 72R.
+
+**General provisions relating to improvement notices and non-disturbance notices**
+
+### 72U Improvement notices and non-disturbance notices must be in writing and may be addressed in certain way
+(1) An improvement notice or a non-disturbance notice must be in writing.
+(2) The notice may be addressed to the rail participant or rail personnel under that participant’s or personnel’s legal name or usual business name or style.
+
+### 72V Inspector may vary or cancel improvement notice or non-disturbance notice
+An inspector may vary or cancel an improvement notice or a non-disturbance notice.
+
+### 72W Formal irregularities or defects in improvement notice or non-disturbance notice
+An improvement notice or a non-disturbance notice is not invalid merely because of—
+  (a) any defect, irregularity, omission, or want of form in the notice unless it causes or is likely to cause a miscarriage of justice; or
+  (b) a failure to use the correct name of the person to whom the notice is issued if the notice sufficiently identifies the person and is issued to the person in accordance with section 72U.
+
+### 72X Display of notice by person issued with improvement notice or non-disturbance notice
+(1) Unless an inspector permits otherwise, a rail participant or rail personnel to whom an improvement notice or a non-disturbance notice is issued must, as soon as practicable, display a copy of the notice in a prominent position at or near the vehicle, building, or place, or part of a vehicle, building, or place, at which activity is being carried out that is affected by the notice.
+(2) If a notice is displayed under subsection (1) and is in force, no person may intentionally—
+  (a) remove or destroy the notice; or
+  (b) damage or deface the notice.
+(3) A person who breaches subsection (1) or (2) commits an offence and is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $5,000:
+  (b) in any other case, to a fine not exceeding $25,000.
+
+### 72Y Inspector may display improvement notice or non-disturbance notice
+An inspector who issues an improvement notice or a non-disturbance notice may, before or after issuing the notice, display a copy of the notice in a prominent place at or near the vehicle, building, or place at which activity is being carried out that is affected by the notice.
+
+### Subpart 3 — Inspectors
+
+### 72Z Appointment of inspectors
+(1) The Director may, by notice in writing, appoint any person as an inspector, including—
+  (a) an employee of the State services:
+  (b) a statutory officer (including a safety assessor and an enforcement officer):
+  (c) an employee or a contractor of the Agency.
+(2) The Director must not appoint a person as an inspector unless the Director is satisfied that the person has appropriate experience, technical competence, and qualifications relevant to the powers proposed to be exercised by an inspector under this Act.
+(3) An inspector may exercise the powers of an inspector under this Act that the Director specifies in the notice of the inspector’s appointment.
+(4) An inspector's powers are subject to any conditions or limitations specified in the notice of the inspector's appointment.
+(5) However, the exercise of the power by an inspector is not invalid merely because it did not comply with the conditions specified in the notice of the inspector's appointment.
+
+### 72ZA Identity cards
+(1) The Director must give each inspector an identity card that—
+  (a) states the person's name and appointment as an inspector; and
+  (b) includes any other matter prescribed by regulations or rules.
+(2) An inspector must, when exercising their powers under this Act, produce their identity card for inspection on request.
+(3) A person who ceases to be an inspector must as soon as practicable return their identity card to the Director.
+
+### 72ZB Suspension and ending of appointment of inspectors
+(1) The Director may suspend or end the appointment of an inspector at any time.
+(2) To avoid doubt, a person's appointment as an inspector ends when the person ceases to be eligible for appointment as an inspector.
+
+### 72ZC Inspectors subject to Director’s directions
+(1) An inspector (whether or not an employee) is subject to directions from the Director in the exercise of the inspector's powers.
+(2) A direction under subsection (1) may be of a general nature or may relate to a specified matter or specified class of matter.
+(3) A failure to comply with a direction under subsection (1) does not invalidate the exercise of an inspector's power.
+
+### 72ZD Director has powers of inspector
+The Director has all the powers that an inspector has under this Act.
 
 ## Part 3 — Rail corridor
 
@@ -1186,11 +1481,20 @@ Except to the extent that a deed or agreement provides otherwise, no person has 
 (1) Except as otherwise specified in this Act or in regulations, if a notice or other document is to be given, served on, or provided to a person under this Act, that notice or document may be—
   (a) given to that person personally; or
   (b) sent by post to that person at that person's usual or last known place of business or abode; or
+  (ba) sent to the person’s usual or last known electronic address; or
+  (bb) given by sending an electronic notification to that person that states where they can access the notice electronically (if the person has agreed to that method of electronic notification and access); or
   (c) given personally to any other person authorised to act on behalf of that person; or
   (d) sent by post to that other person at that other person's usual or last known place of business or abode; or
   (e) except in the case of a notice or other document to be given or served in the course of, or for the purpose of, any court proceedings for an offence against this Act or an appeal under this Act, sent by post to that person, or any other person authorised to act on that person's behalf, at that person's or other person's usual or last known place of business or abode.
-(2) A notice or other document sent by post is deemed to have been given, served, or received 7 days after the date on which it was posted, unless the person to whom it was posted proves that, otherwise than through that person's fault, the notice or other document was not received.
-(3) To avoid doubt, a notice may be in electronic form.
+(1A) In addition to the methods specified in subsection (1), an improvement notice or non-disturbance notice issued under section 72M or 72Q may be issued to a rail participant or rail personnel—
+  (a) by leaving it for the rail participant or rail personnel at the vehicle, building, or place to which the notice relates with a person who is or appears to be in charge of that vehicle, building, or place; or
+  (b) by leaving it for the rail participant or rail personnel at their usual or last known place of residence or business with a person who appears to be 16 years of age or over and who appears to reside or work there; or
+  (c) if the rail participant holds a licence, by delivering the notice to the rail participant’s address shown in the register under section 20.
+(2) A notice (including an improvement notice or a non-disturbance notice) or other document sent—
+  (a) by post is, unless the contrary is shown, treated as being given, served, or received 7 days after the date on which it was posted:
+  (b) to a person’s electronic address is, unless the contrary is shown, treated as being given, served, or received at the time the electronic communication containing the notice first enters an information system that is outside the control of the person giving or serving the notice or document:
+  (c) in the way described in subsection (1)﻿(bb) is, unless the contrary is shown, treated as being given, served, or received at the time the electronic communication containing the notification of the notice is listed as sent in the information system used to send the electronic communication.
+(3) For the purposes of subsection (2)﻿(b) and (c), in proving the sending of an electronic communication, it is sufficient to prove that the electronic communication was properly addressed and sent.
 
 ### 95 Who may file charging document for offence
 A charging document for an offence against this Act may be filed only by the Director or an enforcement officer.
@@ -1218,10 +1522,16 @@ All fees and other money (not being fines, infringement fees, or other penalties
 (2) An infringement notice may be served—
   (a) by delivering it, or a copy of it, personally to that person; or
   (b) by sending it, or a copy of it, by post addressed to that person at that person's last known place of residence or business or postal address; or
+  (ba) by sending it, or a copy of it, to that person’s usual or last known electronic address; or
+  (bb) by sending an electronic notification to that person that states where they can access the notice, or a copy of it, electronically (if the person has agreed to that method of electronic notification and access); or
   (c) if that person is a holder of a rail document, by serving it, or a copy of it, by post on that person at that person's last address for service provided with respect to that rail document.
-(3) An infringement notice sent to a person by post under subsection (2)﻿(b) or (c) is to be treated as having been served on the person 7 days after the date on which it was posted.
-(4)
-(5)
+(3) An infringement notice sent—
+  (a) to a person by post under subsection (2)﻿(b) or (c) is, unless the contrary is shown, treated as having been served on the person 7 days after the date on which it was posted:
+  (b) to a person’s electronic address under subsection (2)﻿(ba) is, unless the contrary is shown, treated as having been served on the person at the time the electronic communication containing the infringement notice first enters an information system that is outside the control of the person serving the notice:
+  (c) in the way described in subsection (2)﻿(bb) is, unless the contrary is shown, treated as having been served on the person at the time the electronic communication containing the notification of the infringement notice is listed as sent in the information system used to send the electronic communication.
+(4) For the purposes of subsection (3)﻿(b) and (c), in proving the sending of an electronic communication, it is sufficient to prove that the electronic communication was properly addressed and sent.
+Service of reminder notice
+(5) Despite section 24(1)﻿(e) of the Summary Proceedings Act 1957, a reminder notice may be served on a person for the purposes of section 21(2) of that Act by serving the notice in accordance with subsection (2)﻿(ba) or (bb) in addition to the other modes of service set out in section 24(1) of that Act and without otherwise limiting or affecting the operation of section 24 of that Act.
 
 ### 100 Contents of infringement notices and reminder notices
 (1) An infringement notice must contain—
