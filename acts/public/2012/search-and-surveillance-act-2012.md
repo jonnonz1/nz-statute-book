@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2025-11-28_
+_Consolidation as at 2026-05-19_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -4876,6 +4876,9 @@ A reference in new section 79E to an offence that it is suspected has been commi
 | Psychoactive Substances Act 2013 |  | 77 |  | Constable may enter and search a place (except private premises), vehicle, or other thing without a warrant to search for evidence of offences against Psychoactive Substances Act 2013 |  | All (except subpart 3) |
 |  |  | 79 |  | Enforcement officer or constable may obtain and execute search warrant to search for evidence of offences against Psychoactive Substances Act 2013 |  | All (except sections 118 and 119 apply to constables only) |
 | Radiocommunications Act 1989 |  | 120 |  | Authorised Ministry of Economic Development employee or constable may obtain warrant to enter and inspect and remove certain documents if issuing officer is satisfied that a person has committed or is committing offence against Radiocommunications Act 1989 or any regulations made under section 134(1)﻿(g) of that Act |  | All (except sections 118 and 119) |
+| Railways Act 2005 |  | 72E |  | Inspector may obtain and execute search warrant to enter home or marae to exercise powers in section 72D |  | Subpart 3 |
+|  |  | 72G |  | Inspector who has entered a vehicle, building, or place under section 72D or 72E may take or remove sample of any material, substance, or thing for analysis, or seize and retain any material, substance, or thing for specified purposes |  | Sections 154, 155, and 159 |
+|  |  | 72H |  | Specified person may obtain and execute search warrant in relation to vehicle, building, or place to search for evidence of contravention of the Railways Act 2005 that is suspected to have caused an accident or incident |  | All (except that sections 118 and 119 apply to constables only) |
 | Reserves Act 1977 |  | 95(1) |  | Certain wildlife and related things found in possession of person in reserve may be seized by constable, ranger, or employee of administering body, if he or she has good cause to suspect that the person, in obtaining possession of the thing, has committed offence against Reserves Act 1977 |  | All (except subpart 3) |
 |  |  | 95(6) |  | Firearms, traps, nets, or similar objects found illegally in possession of any person in reserve and equipment found in possession of any person that has been used to commit offence in reserve may be seized by constable, ranger, or employee of administering body |  | All (except subpart 3) |
 |  |  | 100(1) |  | Officer who has good cause to suspect that offence against Reserves Act 1977 or regulations made under that Act has been committed, on, from, or in respect of certain boats may stop boat and exercise certain powers of search and seizure |  | All (except subpart 3) |
