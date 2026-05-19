@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2026-05-07_
+_Consolidation as at 2026-05-19_
 
 > Title
 
@@ -582,6 +582,13 @@ The Minister may, by notice in the Gazette, declare that any access way or servi
 (10) Nothing in this section (other than any provision of this section that is relied on in an emergency) shall derogate from the provisions of the Resource Management Act 1991.
 (11) Nothing in this section shall divest any territorial authority of the property in any road that may form part of a State highway.
 
+### 61AA Agency may close State highways
+(1) The Agency may—
+  (a) stop, divert, or otherwise control traffic on a State highway; or
+  (b) close a State highway (or any part of it) to traffic.
+(2) The Agency may only exercise the power under subsection (1) if the Agency considers it appropriate to do so for the protection and safety of the public.
+(3) The Agency must notify the New Zealand Police, Fire and Emergency New Zealand, and relevant ambulance services as soon as practicable of any action taken under subsection (1).
+
 ### 61A Controlling authority may grant lease, etc, of certain land
 (1) If the whole or any part of any Government road or State highway is unformed, the controlling authority of the road or highway may grant a lease or tenancy of the land or a licence to occupy the land on such terms and conditions as the controlling authority thinks fit.
 (2) Every lease or tenancy or licence granted under subsection (1) shall be subject to the condition that it may be revoked without compensation if the controlling authority gives the lessee or licensee not less than 6 months' notice of its intention to revoke the lease or licence.
@@ -760,7 +767,10 @@ Neither the Crown nor any local authority nor any other person shall place any w
   (a) in or on a vehicle that is entitled to be on the motorway; or
   (b) on the motorway as a result of any crash, breakdown, or other emergency; or
   (c) on the motorway in connection with any work that is authorised by the Agency or under any enactment to be carried out on the motorway or any work that is being carried out pursuant to a delegation granted by the Agency under section 62; or
-  (d) on the motorway for the purposes of enforcing any enactment.
+  (d) on the motorway for the purposes of enforcing any enactment; or
+  (e) a pedestrian on infrastructure that is—
+    (i) designed for pedestrian use; and
+    (ii) located on the motorway.
 (2) No person shall cause or permit any animal or thing that is or ought to be under that person's control to be on any motorway unless—
   (a) it is a vehicle that is entitled to be on the motorway or is carried in or on such vehicle; or
   (b) it is on the motorway for the purposes of assisting at any crash, breakdown, or other emergency; or
