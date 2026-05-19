@@ -1,5 +1,5 @@
 # Auckland Airport Act 1987
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2026-05-19_
 
 > An Act to provide for the incorporation of a company to own and operate Auckland International Airport, for the transfer of airport assets and liabilities of the Crown, the Auckland Regional Authority, and certain local authorities to that company, for the payment to the Crown and those local authorities of the existing reserves of the airport, and to amend the Civil Aviation Act 1964 and the Stamp and Cheque Duties Act 1971
 
@@ -17,8 +17,8 @@ In this Act, unless the context otherwise requires,—
   - **airport reserves** means the reserves as shown in the accounts for the year ending on 31 March 1986 of the joint venture for the establishment and operation of the airport constituted under the joint venture agreements and any amounts that ought properly to be treated as being of the same character which accrue immediately before the vesting day; but in any event a sum of not less than $110,000,000
   - **assets** has the same meaning as in section 29(1) of the State-Owned Enterprises Act 1986
   - **company** means the company formed and registered under section 4
-  - **constituent authority** means a local authority specified in the Schedule
-  - **contributing percentage** in relation to a constituent authority, means the percentage specified in relation to that constituent authority in the second column of the Schedule
+  - **constituent authority** means a local authority specified in Schedule 2
+  - **contributing percentage** in relation to a constituent authority, means the percentage specified in relation to that constituent authority in the second column of Schedule 2
   - **debt security** has the same meaning as in section 2(1) of the Securities Act 1978
   - **equity security** has the same meaning as in section 2(1) of the Securities Act 1978
   - **joint venture agreements** means—
@@ -29,8 +29,11 @@ In this Act, unless the context otherwise requires,—
   - **liabilities** has the same meaning as in section 29(1) of the State-Owned Enterprises Act 1986
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **Ministers** means the Minister of Finance and the Minister for State-Owned Enterprises acting on behalf of the Crown
-  - **shareholding percentage** in relation to a constituent authority, means the percentage specified in relation to that constituent authority in the first column of the Schedule
+  - **shareholding percentage** in relation to a constituent authority, means the percentage specified in relation to that constituent authority in the first column of Schedule 2
   - **vesting day** means the date specified in the first Order in Council made by the Governor-General under section 6.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -46,7 +49,7 @@ This Act shall bind the Crown.
 (5A) The Ministers may from time to time exercise all or any of the Crown's rights and powers as the holder of any equity securities or any debt securities of the company.
 (6) On and after the vesting day the company shall be deemed to be an airport company within the meaning, and for the purposes, of the Airport Authorities Act 1966.
 (6A) Subsection (6) is subject to clause 39 of Schedule 1 of the Civil Aviation Act 2023.
-(7) Nothing in section 134 of the Companies Act 1955, section 3A of the Airport Authorities Act 1966, or sections 228 to 230 of the Civil Aviation Act 2023 applies to the company.
+(7) Nothing in section 134 of the Companies Act 1955 or section 3A of the Airport Authorities Act 1966 applies to the company.
 
 ### 4A Provisions relating to holding of securities by Minister
 (1) Equity securities and debt securities issued by the company and held in the name of a person described as one of the Ministers shall be held by the person from the time being holding the office of that Minister.
@@ -172,7 +175,15 @@ Amendment(s) incorporated in the Act(s).
 ### 16 Repeals
 Amendment(s) incorporated in the Act(s).
 
-## Schedule Schedule
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Regulatory Systems (Transport) Amendment Act 2026
+
+### 1 Commencement of amendment to section 4(7) by amendment Act
+(1) The amendment to section 4(7) of this Act made by section 123 of the amendment Act is treated as having come into force on 5 April 2025.
+(2) In this clause, amendment Act means the Regulatory Systems (Transport) Amendment Act 2026.
+
+## Schedule 2
 
 | Constituent authorities | Shareholding percentages | Contributing percentages |
 | --- | --- | --- |
