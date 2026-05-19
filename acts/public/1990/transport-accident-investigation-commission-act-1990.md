@@ -1,5 +1,5 @@
 # Transport Accident Investigation Commission Act 1990
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2026-05-19_
 
 > An Act—ato establish the Transport Accident Investigation Commission, and to define its functions, duties, and powers; andbto regulate the disclosure and admissibility of certain transport accident or incident investigation information
 
@@ -134,7 +134,7 @@ The Commission shall notify the Civil Aviation Authority, the New Zealand Transp
 (3) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
 (4) A constable may arrest without warrant any person who the constable believes on reasonable grounds has committed, is committing, or is attempting to commit, or is otherwise concerned in the commission of, an offence against this section.
 
-### 13 Accidents to be investigated
+### 13 Accidents and incidents to be investigated
 (1) As soon as practicable after an accident or incident has been notified to the Commission under section 50 of the Civil Aviation Act 2023 or section 13(4) of the Railways Act 2005 or section 60 of the Maritime Transport Act 1994, the Commission shall investigate the accident or incident if,—
   (a)
   (b) the Commission believes that the circumstances of the accident or incident have, or are likely to have, significant implications for transport safety, or may allow the Commission to establish findings or make recommendations which may increase transport safety; or
@@ -148,7 +148,7 @@ The Commission shall notify the Civil Aviation Authority, the New Zealand Transp
 (5) If an accident or incident has not been notified to the Commission in accordance with section 50 of the Civil Aviation Act 2023 or section 13(4) of the Railways Act 2005 or section 60 of the Maritime Transport Act 1994, and the accident or incident is one that the Commission would investigate under paragraph (a) or paragraph (b) of subsection (1) if it were so notified, the Commission may commence an investigation of the accident or incident.
 (6) Where an accident or incident has not been notified to the Commission in accordance with section 50 of the Civil Aviation Act 2023 or section 13(4) of the Railways Act 2005 or section 60 of the Maritime Transport Act 1994, the Minister may,—direct the Commission to investigate the accident or incident, and in any such case, the Commission shall do so.
   (a) where the Commission has decided not to investigate the accident or incident under subsection (5); or
-  (b) where the accident is one that the Minister would direct the Commission to investigate under subsection (2) if the accident had been notified to the Commission,—
+  (b) where the accident or incident is one that the Minister would direct the Commission to investigate under subsection (2) if the accident or incident had been notified to the Commission,—
 (7) Where the Commission intends to undertake an investigation under this section, the Commission shall notify the Civil Aviation Authority, the New Zealand Transport Agency, or Maritime New Zealand, as the case may require, of its intention as soon as practicable.
 (8) For the purpose of subsection (3), military means with respect to any transport related thing, a transport related thing operated by the New Zealand Defence Force or a visiting force.
 
