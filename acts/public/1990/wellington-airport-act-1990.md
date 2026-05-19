@@ -1,5 +1,5 @@
 # Wellington Airport Act 1990
-_Consolidation as at 2025-04-05_
+_Consolidation as at 2026-05-19_
 
 > An Act to provide for the incorporation of a company to own and operate Wellington International Airport, for the transfer of airport assets and liabilities of the Crown and the Wellington City Council to that company, and for the payment to the Crown and the Wellington City Council of the existing reserves of the airport
 
@@ -29,6 +29,9 @@ In this Act, unless the context otherwise requires,—
   - **Ministers** means the Minister of Finance and the Minister for State-Owned Enterprises acting on behalf of the Crown
   - **vesting day** means the date specified in the first Order in Council made by the Governor-General under section 7.
 
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
 
@@ -43,7 +46,7 @@ This Act shall bind the Crown.
 (6) The Ministers may from time to time exercise all or any of the Crown's rights and powers as the holder of any equity securities or any debt securities of the company.
 (7) On and after the vesting day the company shall be deemed to be an airport company within the meaning, and for the purposes, of the Airport Authorities Act 1966.
 (7A) Subsection (7) is subject to clause 39 of Schedule 1 of the Civil Aviation Act 2023.
-(8) Nothing in section 134 of the Companies Act 1955, section 3A of the Airport Authorities Act 1966, or sections 228 to 230 of the Civil Aviation Act 2023 applies to the company.
+(8) Nothing in section 134 of the Companies Act 1955 or section 3A of the Airport Authorities Act 1966 applies to the company.
 
 ### 4A Provisions relating to holding of securities by Minister
 (1) Equity securities and debt securities issued by the company and held in the name of a person described as one of the Ministers shall be held by the person for the time being holding the office of that Minister.
@@ -160,3 +163,11 @@ This Act shall bind the Crown.
 ### 13 Supply of information
 (1) The Minister of Finance or the Minister for State-Owned Enterprises may, from time to time, require the Council to make available to that Minister information in its possession or over which it has control relating to the assets, liabilities, management or operation of the airport and the Council shall make that information available to the Minister.
 (2) All information required to be made available under this section shall be made available in a form in which it may be readily understood.
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Regulatory Systems (Transport) Amendment Act 2026
+
+### 1 Commencement of amendment to section 4(8) by amendment Act
+(1) The amendment to section 4(8) of this Act made by section 139 of the amendment Act is treated as having come into force on 5 April 2025.
+(2) In this clause, amendment Act means the Regulatory Systems (Transport) Amendment Act 2026.
