@@ -1,5 +1,5 @@
 # Prostitution Reform Act 2003
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2026-05-19_
 
 ### 1 Title
 This Act is the Prostitution Reform Act 2003.
@@ -276,11 +276,11 @@ Every person commits an offence, and is liable on conviction to a fine not excee
   (a) the applicant's full name, date of birth, and gender:
   (b) any other names by which the applicant is, or ever has been, known:
   (c) the address to which the applicant wishes any certificate and related correspondence to be sent:
-  (d) a photocopy of any form of official identification that contains a photograph of the applicant, such as a passport or driver licence, that is authenticated in the prescribed manner:
+  (d) a photocopy of any form of official identification that contains a photograph of the applicant, such as a passport or driver licence, that is authenticated in the prescribed manner, or verification of identity by presenting an electronic driver licence in a manner that accords with the Land Transport Act 1998 and any regulations or rules made under that Act:
   (e) 1 or more recent photographs of the applicant that comply with the prescribed requirements and are authenticated in the prescribed manner:
   (f) if an order has been made under section 37, a copy of the order.
 (5) The Registrar must issue a certificate to an applicant if—
-  (a) the applicant pays the prescribed fee, supplies a properly completed application form, and attaches the required photocopy and photographs; and
+  (a) the applicant pays the prescribed fee, supplies a properly completed application form, and attaches the required photographs and provides the required photocopy or presents an electronic driver licence; and
   (b) the applicant is aged 18 years or older; and
   (c) the applicant is either—
     (i) not disqualified under section 36 from holding a certificate; or
