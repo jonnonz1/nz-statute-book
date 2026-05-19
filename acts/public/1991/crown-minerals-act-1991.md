@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2026-05-19_
 
 > Title
 
@@ -505,7 +505,10 @@ The Minister must notify every person who made a submission on the draft program
 (5) A permit must not be granted under this Part if a monetary deposit or bond that is required by the Minister as security for compliance with the conditions of the permit has not been deposited with the chief executive.
 (6) The Minister must not grant an exploration permit or a mining permit in respect of privately owned minerals, except as provided for by—
   (a) section 84 of the Marine and Coastal Area (Takutai Moana) Act 2011:
-  (b) section 130 of the Ngāti Pāoa Claims Settlement Act 2025.
+  (b) section 130 of the Ngāti Pāoa Claims Settlement Act 2025:
+  (c) section 119 of the Ngāti Rāhiri Tumutumu Claims Settlement Act 2026:
+  (d) section 89 of the Ngāti Tara Tokanui Claims Settlement Act 2026:
+  (e) section 146 of the Ngāti Hei Claims Settlement Act 2026.
 (7) If an existing privilege exists, the Minister must not grant a permit in respect of all or part of the land and the mineral to which the privilege relates without the consent of the current holder of the privilege.
 (8) Subsection (1) is subject to section 5A(3) of the Continental Shelf Act 1964.
 
@@ -657,7 +660,11 @@ Every permit holder shall be the owner of all minerals lawfully obtained by or o
 (7) The Minister may not grant an exploration permit or a mining permit under this section in respect of minerals that are privately owned except in the case of minerals owned by—
   (a) customary marine title groups, as provided for in section 83(2) of the Marine and Coastal Area (Takutai Moana) Act 2011 and subject to section 84 of that Act:
   (b) the persons or body referred to in section 129(1)﻿(a) to (d) of the Ngāti Pāoa Claims Settlement Act 2025, subject to section 130 of that Act:
-  (c) in relation to Ruamāhua, the registered owners, subject to section 130 of the Ngāti Pāoa Claims Settlement Act 2025, if section 136 of that Act applies.
+  (c) in relation to Ruamāhua, the registered owners, subject to section 130 of the Ngāti Pāoa Claims Settlement Act 2025, if section 136 of that Act applies:
+  (d) the trustees referred to in section 118(1) of the Ngāti Rāhiri Tumutumu Claims Settlement Act 2026, subject to section 119 of that Act:
+  (e) the persons or body referred to in section 88(1) of the Ngāti Tara Tokanui Claims Settlement Act 2026, subject to section 89 of that Act:
+  (f) the trustees referred to in section 145(1)﻿(a) and (b) of the Ngāti Hei Claims Settlement Act 2026, subject to section 146 of that Act; and
+  (g) in relation to Ruamāhua, the registered owners, subject to section 146 of the Ngāti Hei Claims Settlement Act 2026, if section 150 of that Act applies.
 (8) A permit that is the subject of an application for a subsequent permit under this section continues in force until the Minister determines the application.
 (9) In this section, deposit means a concentration or an accumulation that is capable of being mined effectively and economically.
 
@@ -1310,7 +1317,11 @@ No right reserved to the Crown, by virtue of any enactment, to enter any land fo
 (2) If a permit holder or any person authorised under section 49 seeks to enter any Schedule 6 land for the purpose of carrying out a minimum impact activity, before entry is made the permit holder or person must—
   (a) comply with section 49; and
   (b) ensure that reasonable efforts have been made to consult the person or body in whom, or to which, the minerals are vested or transferred by or under an Act referred to in subsection (3), as long as the Schedule 6 land concerned continues to be owned by the person or body.
-(3) The Act is the Ngāti Pāoa Claims Settlement Act 2025.
+(3) The Acts are—
+  (a) the Ngāti Pāoa Claims Settlement Act 2025; and
+  (b) the Ngāti Rāhiri Tumutumu Claims Settlement Act 2026; and
+  (c) the Ngāti Tara Tokanui Claims Settlement Act 2026; and
+  (d) the Ngāti Hei Claims Settlement Act 2026.
 
 ### 50 Entry on special classes of land for minimum impact activity
 (1) No person may, without the consent of the owner or occupier of the land, enter land of a class to which any of paragraphs (a) to (g) of section 55(2) relate for the purpose of carrying out a minimum impact activity.
