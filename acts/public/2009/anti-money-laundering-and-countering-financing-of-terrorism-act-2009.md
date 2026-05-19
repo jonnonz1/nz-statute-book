@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2026-05-01_
+_Consolidation as at 2026-05-19_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -61,9 +61,13 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
     (e) a traveller’s cheque; or
     (f) a money order, postal order, or similar order; or
     (g) any other instrument prescribed by regulations
-  - **beneficial owner** means the individual who—
-    (a) has effective control of a customer or person on whose behalf a transaction is conducted; or
-    (b) owns a prescribed threshold of the customer or person on whose behalf a transaction is conducted
+  - **beneficial owner** —
+    (a) means the individual who—
+      (i) has effective control of a customer or person on whose behalf a transaction is conducted; or
+      (ii) owns a prescribed threshold of the customer or person on whose behalf a transaction is conducted; and
+    (b) includes an individual—
+      (i) with ultimate ownership or control of the customer, whether directly or indirectly; or
+      (ii) who is a customer of a customer, and on whose behalf the transaction is conducted, but only if the individual meets the requirement set out in subparagraph (i)
   - **beneficiary institution** , in relation to a wire transfer from an ordering institution, means any person who receives those funds and then makes those funds available to a person (the ) by—
     (a) crediting it to an account held by the payee; or
     (b) paying it to the payee
@@ -121,10 +125,10 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
       (i) acting as a formation agent of legal persons or legal arrangements:
       (ii) acting as, or arranging for a person to act as, a nominee director or nominee shareholder or trustee in relation to legal persons or legal arrangements:
       (iii) providing a registered office or a business address, a correspondence address, or an administrative address for a company, or a partnership, or for any other legal person or arrangement, unless the office or address is provided solely as an ancillary service to the provision of other services (being services that do not constitute an activity listed in this subparagraph or subparagraphs (i), (ii), and (iv) to (vi)):
-      (iv) managing client funds (other than sums paid as fees for professional services), accounts, securities, or other assets:
+      (iv) managing client funds (other than sums paid as fees for professional services provided by the business or profession), accounts, securities, or other assets:
       (v) providing real estate agency work (within the meaning of section 4(1) of the Real Estate Agents Act 2008) to effect a transaction (within the meaning of section 4(1) of the Real Estate Agents Act 2008):
-      (vi) engaging in or giving instructions on behalf of a customer to another person for—
-        (A) any conveyancing (within the meaning of section 6 of the Lawyers and Conveyancers Act 2006) to effect a transaction (within the meaning of section 4(1) of the Real Estate Agents Act 2008), namely,—the sale, the purchase, or any other disposal or acquisition of a freehold estate or interest in land:the grant, sale, or purchase or any other disposal or acquisition of a leasehold estate or interest in land (other than a tenancy to which the Residential Tenancies Act 1986 applies):the grant, sale, or purchase or any other disposal or acquisition of a licence that is registrable under the Land Transfer Act 1952:the grant, sale, or purchase or any other disposal or acquisition of an occupation right agreement within the meaning of section 5 of the Retirement Villages Act 2003:
+      (vi) carrying out, preparing to carry out, or giving instructions on behalf of a customer to another person for—
+        (A) any conveyancing (within the meaning of section 6 of the Lawyers and Conveyancers Act 2006) to effect a transaction (within the meaning of section 4(1) of the Real Estate Agents Act 2008), namely,—the sale, the purchase, or any other disposal or acquisition of a freehold estate or interest in land:the grant, sale, or purchase or any other disposal or acquisition of a leasehold estate or interest in land (other than a tenancy to which the Residential Tenancies Act 1986 applies):the grant, sale, or purchase or any other disposal or acquisition of a licence that is registrable under the Land Transfer Act 2017:the grant, sale, or purchase or any other disposal or acquisition of an occupation right agreement within the meaning of section 5 of the Retirement Villages Act 2003:
         (B) a transaction (within the meaning of section 4(1) of the Real Estate Agents Act 2008); or
         (C) the transfer of a beneficial interest in land or other real property; or
         (D) a transaction on behalf of any person in relation to the buying, transferring, or selling of a business or legal person (for example, a company) and any other legal arrangement; or
@@ -245,6 +249,11 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
   - **Minister** means the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **money laundering offence** means an offence against section 243 of the Crimes Act 1961 or section 12B of the Misuse of Drugs Act 1975 or any act committed overseas that, if committed in New Zealand, would be an offence under those sections of those Acts
+  - **money or value transfer service** —
+    (a) means a service that—
+      (i) accepts, or is involved in the acceptance of, funds or value, whether in cash, in other physical forms, or by electronic or other non-physical means; and
+      (ii) pays, or arranges for the payment of, a corresponding sum in cash, in other physical forms, or by electronic or other non-physical means to a beneficiary by means of a communication, message, or transfer, or through a clearing network to which the operator of the service belongs; and
+    (b) includes transactions that involve 1 or more intermediaries and a final payment to a third party
   - **non-bank deposit taker** has the meaning given to NBDT by section 5 of the Non-bank Deposit Takers Act 2013
   - **occasional activity** —
     (a) means an activity—
@@ -341,7 +350,9 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
         (A) authorised under the Racing Industry Act 2020; or
         (B) the gambling is online casino gambling:
       (iii) a transaction or class of transactions declared by regulations not to be a transaction for the purposes of this Act
-  - **trust and company service provider** means a person (other than a law firm, a conveyancing practitioner, an incorporated conveyancing firm, an accounting practice, or a real estate agent) who carries out any of the activities described in paragraphs (a)﻿(i) to (vi) of the definition of designated non-financial business or profession
+  - **trust and company service provider** —
+    (a) means a person (other than a law firm, a conveyancing practitioner, an incorporated conveyancing firm, an accounting practice, or a real estate agent) who carries out any of the activities described in paragraphs (a)﻿(i) to (vi) of the definition of designated non-financial business or profession; but
+    (b) excludes a person that is a financial institution if the only activity described in paragraphs (a)﻿(i) to (vi) of the definition of designated non-financial business or profession carried out by the financial institution is managing client funds (other than sums paid as fees for professional services provided by the business or profession), accounts, securities, or other assets
   - **trustee** has the same meaning as in section 9 of the Trusts Act 2019
   - **verification information** means information obtained under sections 16, 20, 24, and 28
   - **wire transfer** —
@@ -393,7 +404,8 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
       (H) must keep records of any audits under section 51(1)﻿(b), (2), and (3):
       (I) must audit its AML/CFT compliance obligations under section 59A if requested by an AML/CFT supervisor:
   (da) in the case of an online casino operator, the operator carries out activities that may give rise to a risk of money laundering or financing of terrorism:
-  (e) in the case of a casino, the casino carries out activities that may give rise to a risk of money laundering or financing of terrorism.
+  (e) in the case of a casino, the casino carries out activities that may give rise to a risk of money laundering or financing of terrorism:
+  (f) in the case of a reporting entity specified in paragraphs (a) to (e) that, in the ordinary course of business, carries out an activity (or activities) of another type of reporting entity specified in those paragraphs, it carries out activities of the other type of reporting entity.
 (5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 7 Amounts not in New Zealand currency
@@ -452,7 +464,7 @@ Verification of identity must be done on—
 ### 14 Circumstances when standard customer due diligence applies
 (1) A reporting entity must conduct standard customer due diligence in the following circumstances:
   (a) if the reporting entity establishes a business relationship with a new customer:
-  (b) if a customer seeks to conduct an occasional transaction or activity through the reporting entity:
+  (b) if a person seeks to conduct an occasional transaction or activity through the reporting entity:
   (c) if, in relation to an existing customer, and according to the level of risk involved,—
     (i) there has been a material change in the nature or purpose of the business relationship; and
     (ii) the reporting entity considers that it has insufficient information about the customer:
@@ -491,7 +503,7 @@ A reporting entity must also obtain—
 ### 18 Circumstances when simplified customer due diligence applies
 (1) A reporting entity may conduct simplified customer due diligence if—
   (a) it establishes a business relationship with one of the customers specified in subsection (2); or
-  (b) one of the customers specified in subsection (2) conducts an occasional transaction or activity through the reporting entity; or
+  (b) one of the persons specified in subsection (2) conducts an occasional transaction or activity through the reporting entity; or
   (c) a customer conducts a transaction or obtains a product or service specified in regulations through the reporting entity.
 (2) The following are customers for the purposes of subsection (1):
   (a) a listed issuer (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) that is the issuer of quoted voting products (within the meaning of that Act):
@@ -546,21 +558,21 @@ In the circumstances described in section 18(1)﻿(a), a reporting entity must a
     (i) a trust or another vehicle for holding personal assets:
     (ii) a non-resident customer from a country that has insufficient anti-money laundering and countering financing of terrorism systems or measures in place:
     (iii) a company with nominee shareholders or shares in bearer form:
-  (b) if a customer seeks to conduct an occasional transaction or activity through the reporting entity and that customer is—
+  (b) if a person seeks to conduct an occasional transaction or activity through the reporting entity and that person is—
     (i) a trust or another vehicle for holding personal assets:
-    (ii) a non-resident customer from a country that has insufficient anti-money laundering and countering financing of terrorism systems or measures in place:
+    (ii) a non-resident person from a country that has insufficient anti-money laundering and countering financing of terrorism systems or measures in place:
     (iii) a company with nominee shareholders or shares in bearer form:
   (c) if a customer seeks to conduct, through the reporting entity, a complex, unusually large transaction or unusual pattern of transactions that have no apparent or visible economic or lawful purpose:
   (d) when a reporting entity considers that the level of risk involved is such that enhanced due diligence should apply to a particular situation:
   (e) any other circumstances specified in section 22A or regulations.
 (2) A reporting entity must conduct enhanced customer due diligence in accordance with section 26 if—
   (a) it establishes a business relationship with a customer who it has determined is a politically exposed person; or
-  (b) a customer who it has determined is a politically exposed person seeks to conduct an occasional transaction or activity through the reporting entity.
+  (b) a person who it has determined is a politically exposed person seeks to conduct an occasional transaction or activity through the reporting entity.
 (3) A reporting entity must conduct enhanced customer due diligence in accordance with sections 27 and 28 if it is an ordering institution, an intermediary institution, or a beneficiary institution in relation to a wire transfer.
 (4) A reporting entity must conduct enhanced customer due diligence in accordance with section 29 if it has, or proposes to have, a correspondent banking relationship.
 (5) A reporting entity must conduct enhanced due diligence in accordance with section 30 if—
   (a) it establishes a business relationship with a customer that involves new or developing technologies, or new or developing products, that might favour anonymity; or
-  (b) a customer seeks to conduct an occasional transaction or activity through the reporting entity that involves new or developing technologies, or new or developing products, that might favour anonymity.
+  (b) a person seeks to conduct an occasional transaction or activity through the reporting entity that involves new or developing technologies, or new or developing products, that might favour anonymity.
 (6) Despite subsections (1) to (5), a real estate agent must conduct enhanced customer due diligence at the times, in the circumstances, and with any other modifications specified in regulations.
 
 ### 22A Enhanced customer due diligence required for certain activities requiring suspicious activities report
@@ -594,16 +606,19 @@ In the circumstances described in section 18(1)﻿(a), a reporting entity must a
   (a) it is essential not to interrupt normal business practice; and
   (b) money laundering and financing of terrorism risks are effectively managed through procedures of transaction limitations and account monitoring or (if the reporting entity is not a financial institution) through other appropriate risk management procedures; and
   (c) verification of identity is completed as soon as is practicable once the business relationship has been established.
+(4) However, a reporting entity is not required to comply with subsection (1)﻿(b) if the customer or person is a trust described in section 22(1)﻿(a)﻿(i) or (b)﻿(i) and the reporting entity is satisfied that any risks have been mitigated by conducting—
+  (a) standard customer due diligence under sections 15 and 16; and
+  (b) enhanced customer due diligence under sections 23 and 25.
 
 ### 25 Enhanced customer due diligence: other requirements
 In the circumstances described in section 22(1)﻿(a), 22(2)﻿(a), and 22(5)﻿(a), a reporting entity must also obtain information on the nature and purpose of the proposed business relationship between the customer and the reporting entity.
 
 ### 26 Politically exposed person
-(1) The reporting entity must, as soon as practicable after establishing a business relationship or conducting an occasional transaction or activity, take reasonable steps to determine whether the customer or any beneficial owner is a politically exposed person.
-(2) If a reporting entity determines that a customer or beneficial owner with whom it has established a business relationship is a politically exposed person, then—
+(1) The reporting entity must, as soon as practicable after establishing a business relationship or conducting an occasional transaction or activity, take reasonable steps according to the level of risk involved to determine whether the customer or any beneficial owner is a politically exposed person.
+(2) If a reporting entity determines that a customer or beneficial owner with whom it establishes a business relationship is a politically exposed person, then—
   (a) the reporting entity must have senior management approval for continuing the business relationship; and
   (b) the reporting entity must obtain information about the source of wealth or funds of the customer or beneficial owner and take reasonable steps to verify the source of that wealth or those funds.
-(3) If a reporting entity determines that a customer or beneficial owner with whom it has conducted an occasional transaction or activity is a politically exposed person, then the reporting entity must, as soon as practicable after conducting that transaction or other activity, take reasonable steps to obtain information about the source of wealth or funds of the customer or beneficial owner and verify the source of that wealth or those funds.
+(3) If a reporting entity determines that a customer or beneficial owner with whom it conducts an occasional transaction or activity is a politically exposed person, then the reporting entity must, as soon as practicable after conducting that transaction or other activity, take reasonable steps to obtain information about the source of wealth or funds of the customer or beneficial owner and verify the source of that wealth or those funds.
 
 ### 27 Wire transfers: identity requirements
 (1) A reporting entity that is an ordering institution must identify the originator of a wire transfer that is equal to or above the applicable threshold value by obtaining the following information:
@@ -639,7 +654,7 @@ In the circumstances described in section 22(1)﻿(a), 22(2)﻿(a), and 22(5)﻿
 (2) The correspondent must—
   (a) gather enough information about the respondent to understand fully the nature of the respondent’s business; and
   (b) determine from publicly available information the reputation of the respondent and whether and to what extent the respondent is supervised for AML/CFT purposes, including whether the respondent has been subject to a money laundering or financing of terrorism investigation or regulatory action; and
-  (c) assess the respondent’s anti-money laundering and countering financing of terrorism controls to ascertain that those controls are adequate and effective; and
+  (c) assess the respondent’s anti-money laundering and countering financing of terrorism controls to ascertain that those controls are adequate; and
   (d) have approval from its senior management before establishing a new correspondent banking relationship; and
   (e) document the respective AML/CFT responsibilities of the correspondent and the respondent; and
   (f) be satisfied that, in respect of those of the respondent’s customers who have direct access to accounts of the correspondent, the respondent―
@@ -727,13 +742,14 @@ Information obtained by a third party conducting customer due diligence under se
 **Prohibitions**
 
 ### 37 Prohibitions if customer due diligence not conducted
-(1) If, in relation to a customer, a reporting entity is unable to conduct customer due diligence in accordance with this subpart, the reporting entity—
+(1) If, in relation to a customer, a reporting entity does not conduct customer due diligence in accordance with this subpart, the reporting entity—
   (a) must not establish a business relationship with the customer; and
   (b) must terminate any existing business relationship with the customer; and
   (c) must not carry out an occasional transaction or activity with or for the customer; and
   (d) must consider whether to make a suspicious activity report; and
   (e) may disclose the possibility of making a suspicious activity report only to a person referred to in section 46(2).
 (2) A reporting entity is not prohibited by subsection (1)﻿(a) or (b) from establishing or continuing a business relationship with a customer in respect of an activity that is not specified in section 6(4) in relation to that reporting entity.
+(3) An ordering institution must not order an international wire transfer that does not include the information required by sections 27(1) and 27A(1).
 
 ### 38 Prohibition on false customer names and customer anonymity
 (1) A reporting entity must not,—
@@ -968,9 +984,17 @@ Sections 43 to 48 apply, with all necessary modifications, to prescribed transac
 (3) A reporting entity must make records relating to risk assessments, AML/CFT programmes, and audits available to its AML/CFT supervisor on request.
 
 ### 52 How records to be kept
-Records required by this subpart to be kept by a reporting entity must—
+(1) Records required by this subpart to be kept by a reporting entity must—
   (a) be kept either in written form in the English language, or so as to enable the records to be readily accessible and readily convertible into written form in the English language; and
   (b) be kept in the manner prescribed by regulations (if any).
+(2) If required to produce records on notice under this Act or any other enactment, a reporting entity must produce those records,—
+  (a) in a case where subsection (3) applies, as soon as possible after notice is given to the reporting entity; or
+  (b) in any other case,—
+    (i) by any specified date given in the notice that the person who requires the records considers reasonable in the circumstances; or
+    (ii) if no specified date is given in the notice, within 20 working days after notice is given to the reporting entity.
+(3) If a person requiring records under subsection (2) considers that the production of those records is a matter of urgency, the person—
+  (a) may require those records to be produced as soon as possible after notice is given to the reporting entity; and
+  (b) must state in that notice that the records must be produced as soon as possible.
 
 ### 53 When records need not be kept
 (1) Nothing in this subpart requires the retention of any records kept by a reporting entity that has been liquidated and finally dissolved except as provided in subsection (2).
@@ -994,8 +1018,8 @@ Nothing in this subpart limits or affects any other enactment that requires any 
   (a) detect money laundering and the financing of terrorism; and
   (b) manage and mitigate the risk of money laundering and financing of terrorism.
 (2) A reporting entity must designate an employee as an AML/CFT compliance officer to administer and maintain its AML/CFT programme.
-(3) In the case of a reporting entity that does not have employees, the reporting entity must appoint a person to act as its AML/CFT compliance officer.
-(4) The AML/CFT compliance officer must report to a senior manager of the reporting entity.
+(3) In the case of a reporting entity that does not have employees, the reporting entity must appoint an individual to act as its AML/CFT compliance officer.
+(4) The AML/CFT compliance officer must be a senior manager or report to a senior manager of the reporting entity.
 (5) Despite subsections (2) to (4), if a reporting entity is a partnership,—
   (a) the partnership may designate one of the partners as an AML/CFT compliance officer to administer and maintain its AML/CFT programme, irrespective of whether the partnership has or does not have employees; and
   (b) the partner so designated must report to another partner designated for the purpose of receiving those reports by the partnership.
@@ -1040,6 +1064,7 @@ Nothing in this subpart limits or affects any other enactment that requires any 
 (3) The risk assessment must be in writing and—
   (a) identify the risks faced by the reporting entity in the course of its business; and
   (b) describe how the reporting entity will ensure that the assessment remains current; and
+  (ba) incorporate all relevant risks that are identified by any risk assessments produced under sections 131 and 142; and
   (c) enable the reporting entity to determine the level of risk involved in relation to relevant obligations under this Act and regulations.
 
 ### 59 Review and audit of risk assessment and AML/CFT programmes
@@ -1146,34 +1171,52 @@ A person who is in trade must not buy or sell any of the following articles by w
   (e) motor vehicles (within the meaning of section 6(1) of the Motor Vehicle Sales Act 2003):
   (f) ships (within the meaning of section 2(1) of the Maritime Transport Act 1994).
 
-### Subpart 6 — Cross-border transportation of cash
+### Subpart 6 — Cross-border transportation of cash or stored value instrument
 
-### 68 Reports about movement of cash into or out of New Zealand
-(1) A person must not move cash into or out of New Zealand if—
-  (a) the total amount of the cash is equal to or above than the applicable threshold value; and
-  (b) the person has not given a report in respect of the movement of that cash in accordance with this subpart; and
-  (c) the movement of that cash is not exempted under this Act or regulations (if any).
-(2) For the purposes of this Act, a person moves cash into New Zealand if the person brings or sends the cash into New Zealand.
-(3) For the purposes of this Act, a person moves cash out of New Zealand if the person takes or sends the cash out of New Zealand.
+### 67B Meaning of stored value instrument
+In this subpart, stored value instrument—
+  (a) means a portable device (for example, a voucher or a casino chip) that represents or contains monetary value that is not physical currency but that can be redeemed for cash; and
+  (b) includes gold, silver, precious metals, and precious stones; but
+  (c) does not include a debit card or a credit card.
 
-### 69 Reports about receipt of cash from outside New Zealand
-A person must not receive cash moved to the person from outside New Zealand if—
-  (a) the total amount of the cash is equal to or above the applicable threshold value; and
-  (b) the person has not given a report in respect of the movement of that cash in accordance with this subpart; and
-  (c) the movement of that cash is not exempted under this Act or regulations (if any).
+### 68 Reports about movement of cash or stored value instruments into or out of New Zealand
+(1) A person must not move cash or stored value instruments into or out of New Zealand if—
+  (a) the total amount of the cash or the stored value instruments is equal to or above than the applicable threshold value; and
+  (b) the person has not given a report in respect of the movement of that cash or those stored value instruments in accordance with this subpart; and
+  (c) the movement of that cash or those stored value instruments is not exempted under this Act or regulations (if any).
+(2) For the purposes of this Act, a person moves cash or stored value instruments into New Zealand if the person brings or sends the cash or stored value instruments into New Zealand.
+(3) For the purposes of this Act, a person moves cash or stored value instruments out of New Zealand if the person takes or sends the cash or stored value instruments out of New Zealand.
+(4) For the purposes of this Act, a person is to be treated as having moved cash or stored value instruments out of New Zealand if the person—
+  (a) intends to leave New Zealand on an aircraft or a ship; and
+  (b) for the purpose of leaving New Zealand, goes towards an aircraft or a ship through a Customs-controlled area; and
+  (c) either—
+    (i) takes cash or stored value instruments into the Customs-controlled area; or
+    (ii) has cash or stored value instruments in their baggage; and
+  (d) has not given a report in respect of the movement of that cash or those stored value instruments in accordance with this subpart.
+(5) In this section, Customs-controlled area has the same meaning as in section 5(1) of the Customs and Excise Act 2018.
+
+### 69 Reports about receipt of cash or stored value instruments from outside New Zealand
+(1) A person must not receive cash or stored value instruments moved to the person from outside New Zealand if—
+  (a) the total amount of the cash or the stored value instruments is equal to or above the applicable threshold value; and
+  (b) the person has not given a report in respect of the movement of that cash or those stored value instruments in accordance with this subpart; and
+  (c) the movement of that cash or those stored value instruments is not exempted under this Act or regulations (if any).
+(2) To avoid doubt, subsection (1) does not apply in respect of cash or stored value instruments that were moved into New Zealand by a person who was liable to complete a report in respect of the movement of that cash or those stored value instruments in accordance with this subpart.
 
 ### 70 Reporting requirements
 A report under this subpart must—
   (a) be in writing in the appropriate prescribed form; and
   (b) contain the prescribed information; and
   (c) be completed in accordance with regulations (if any); and
-  (d) be provided to a Customs officer or any other prescribed person,—
-    (i) in the case of accompanied cash, at the time prescribed for the purposes of this subparagraph; and
-    (ii) in the case of unaccompanied cash, at the time prescribed for the purposes of this subparagraph.
+  (d) be provided to a Customs officer or any other prescribed person,—Accompanied cashUnaccompanied cash
+    (i) in the case of accompanied cash or stored value instruments that the person brings into New Zealand, at the same time as the person presents themselves under section 103(1)﻿(a) or (b) (obligations on persons arriving in New Zealand) of the Immigration Act 2009; or
+    (ii) in the case of accompanied cash or stored value instruments that the person takes out of New Zealand, at the same time as the person presents themselves under section 119(1)﻿(a) (obligations of persons leaving New Zealand) of the Immigration Act 2009; or
+    (iii) in the case of unaccompanied cash or stored value instruments that the person sends from outside New Zealand, at least 72 hours before the cash or stored value instruments are received in New Zealand; or
+    (iv) in the case of unaccompanied cash or stored value instruments that the person sends out of New Zealand, at least 72 hours before the cash or stored value instruments leave New Zealand; or
+    (v) in the case of unaccompanied cash or stored value instruments that are sent to the person from outside New Zealand, at least 72 hours before the person receives the cash or stored value instruments in New Zealand.
 
 ### 71 Information to be forwarded to Commissioner
 (1) If a report is made to a Customs officer under this subpart, that officer must, as soon as practicable, forward the report to the Commissioner.
-(2) If, in the course of conducting a search under this Act, a Customs officer discovers any cash in respect of which a report is required to be made under this subpart but has not been made, that officer must, as soon as practicable, report the details of the search, and of the cash, to the Commissioner.
+(2) If, in the course of conducting a search under this Act, a Customs officer discovers any cash or stored value instruments in respect of which a report is required to be made under this subpart but has not been made, that officer must, as soon as practicable, report the details of the search, and of the cash or stored value instruments, to the Commissioner.
 (3) Every report made under subsection (2) must be in the form that the Commissioner may determine after consultation with the chief executive of the New Zealand Customs Service.
 (4) The chief executive of the New Zealand Customs Service must—
   (a) cause a record to be made and kept of—
@@ -1229,8 +1272,11 @@ In this Part, a civil liability act occurs when a reporting entity fails to comp
   (b) fails to adequately monitor accounts and transactions:
   (c) enters into or continues a business relationship with a person who does not produce or provide satisfactory evidence of the person’s identity:
   (d) enters into or continues a correspondent banking relationship with a shell bank:
+  (daa) fails to report activities in accordance with subpart 2 of Part 2:
   (da) fails to report transactions in accordance with subpart 2A of Part 2:
   (e) fails to keep records in accordance with the requirements of subpart 3 of Part 2:
+  (ea) fails to undertake a risk assessment in accordance with the requirements of section 58 or review its risk assessment and AML/CFT programme in accordance with the requirements of section 59:
+  (eb) fails to prepare or provide an annual report in accordance with section 60:
   (f) fails to establish, implement, or maintain an AML/CFT programme:
   (g) fails to ensure that its branches and subsidiaries comply with the relevant AML/CFT requirements:
   (h) enters into cash transactions in relation to certain items in breach of section 67A.
@@ -1324,6 +1370,9 @@ The powers in sections 85 to 89 are in addition to, and do not derogate from, an
   (b) the likelihood, nature, and extent of any damage to the integrity or reputation of New Zealand’s financial system because of the civil liability act; and
   (c) the circumstances in which the civil liability act occurred; and
   (d) whether the person has previously been found by the court in proceedings under this Act to have engaged in any similar conduct.
+
+### 90A Court must order that recovery from pecuniary penalty be applied to AML/CFT supervisor’s actual costs
+If the court orders that a person pay a pecuniary penalty, the court must also order that the penalty must be applied first to pay the AML/CFT supervisor’s actual costs in bringing the proceedings.
 
 ### Subpart 3 — Offences
 
@@ -1637,8 +1686,9 @@ The functions of an AML/CFT supervisor are to—
     (iii) providing feedback on reporting entities' compliance with obligations under this Act and regulations; and
     (iv) undertaking any other activities necessary for assisting reporting entities to understand their obligations under this Act and regulations, including how best to achieve compliance with those obligations; and
   (d) co-operate and share information in accordance with sections 46, 48, and 137 to 140 by communicating or making arrangements to communicate information obtained by the AML/CFT supervisor in the performance of its functions and the exercise of its powers under this Act; and
-  (e) in accordance with this Act and any other enactment, initiate and act on requests from any overseas counterparts; and
-  (f) approve the formation of, and addition of members to, designated business groups.
+  (e) in accordance with this Act and any other enactment, initiate and act on requests from any overseas counterparts, including (but not limited to) conducting inquiries in accordance with this Act on behalf of any overseas counterparts; and
+  (f) approve the formation of, and addition of members to, designated business groups; and
+  (g) recover costs and penalties awarded in proceedings taken under this Act.
 (3) An AML/CFT supervisor may only use the powers conferred on it under this Act and regulations for the purposes of this Act.
 (4) Nothing in this section requires any person to disclose any privileged communication.
 
@@ -1690,6 +1740,7 @@ The functions of an AML/CFT supervisor are to—
 (5) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Financial Markets Authority Act 2011, the Financial Market Infrastructures Act 2021, and the Financial Markets Conduct Act 2013.
 (6) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Gambling Act 2003, the Online Casino Gambling Act 2026, the Racing Industry Act 2020, and the Charities Act 2005 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
 (7) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Gambling Act 2003, the Online Casino Gambling Act 2026, the Racing Industry Act 2020, and the Charities Act 2005.
+(8) Nothing in this section limits the Privacy Act 2020 (which permits certain disclosures in addition to those authorised under this section).
 
 ### 138 Restriction on power to use information under section 137
 An AML/CFT supervisor may only use information obtained under section 137 if the person providing the information was advised of the purpose or purposes for which the information was obtained at the time he or she provided that information.
