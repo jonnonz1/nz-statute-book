@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2026-05-19_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -33,7 +33,6 @@ _Consolidation as at 2025-11-27_
     (g) a person is lost at sea (whether or not subsequently found) or is missing; or
     (h) the ship is foundering, capsizing, being abandoned, stranding, missing, or has foundered, capsized, been abandoned, stranded, been in a collision, or has had a major fire on board
   - **aircraft** has the same meaning as in the Civil Aviation Act 2023
-  - **Articles of Agreement** means an agreement between an employer and 1 or more seafarers setting out the terms and conditions of the seafarers’ employment
   - **Authority** means the authority continued by section 429
   - **ballast water** has the meaning given to it in section 246A(1)
   - **commercial ship** means a ship that is not—
@@ -41,10 +40,13 @@ _Consolidation as at 2025-11-27_
     (b) solely powered manually; or
     (c) solely powered by sail
   - **continental shelf** or has the same meaning as in the Continental Shelf Act 1964
-  - **conventions** , in relation to this Part and Parts 2 to 15, means such conventions as may be declared for the purposes of any such Part by Order in Council pursuant to subsection (2); and includes the amendments to such conventions, being amendments to which New Zealand is a party that are declared in the same manner
+  - **convention** , in relation to this Part and Parts 3 to 15,—
+    (a) means a convention, protocol, or agreement declared for the purposes of any of those Parts by Order in Council under subsection (2); and
+    (b) includes every amendment to, or revision of, those instruments, being an amendment or a revision to which New Zealand is a party
   - **crew** means the persons employed or engaged in any capacity on board a ship (except a master, a pilot, or a person temporarily employed on the ship while it is in port)
   - **demise charter** has the same meaning as in section 2(1) of the Ship Registration Act 1992
   - **Director** means the person who is for the time being the Director of Maritime New Zealand under section 439
+  - **electronic address** includes an email address
   - **emergency rules** means emergency maritime rules or emergency marine protection rules
   - **employer** means a person who employs or engages any other person (other than a person temporarily employed on the ship while it is in port or a pilot) to do any work for hire or reward on board a commercial ship or pleasure craft
   - **fail** includes refuse; and includes refusal
@@ -58,6 +60,7 @@ _Consolidation as at 2025-11-27_
   - **harm** means illness, injury, or both; and and have corresponding meanings
   - **hazard** means an activity, arrangement, circumstance, event, occurrence, phenomenon, process, situation, or substance (whether or not arising or caused on board a ship) that is an actual or potential cause or source of harm; and has a corresponding meaning
   - **incident** means any occurrence, other than an accident, that is associated with the operation of a ship and affects or could affect the safety of operation
+  - **information system** means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications
   - **internal waters of New Zealand** means the internal waters of New Zealand as defined by section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **load lines** means the marks indicating several maximum depths to which a ship is permitted to be loaded in various circumstances prescribed by maritime rules or regulations made under this Act
   - **marine protection rules** means marine protection rules made by the Minister under Part 27; and includes emergency marine protection rules made by the Director under section 391
@@ -156,6 +159,9 @@ _Consolidation as at 2025-11-27_
       (i) is employed or engaged on any ship in any capacity for hire or reward; or
       (ii) works on any ship for gain or reward otherwise than under a contract of employment; but
     (b) does not include a pilot or any person temporarily employed on a ship while it is in port
+  - **seafarer recruitment and placement service** means a person engaged in—
+    (a) recruiting a person as a seafarer on behalf of an owner of a ship; or
+    (b) placing a person as a seafarer with an owner of a ship
   - **seaplane** includes a flying boat and any other aircraft designed to manoeuvre on the water
   - **Secretary** means the chief executive of the Ministry
   - **serious harm** means—
@@ -169,7 +175,7 @@ _Consolidation as at 2025-11-27_
   - **territorial sea of New Zealand** or means the territorial sea of New Zealand as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **tonnage measurement** means measurement of a ship in accordance with the requirements of maritime rules
   - **transport instrument** means an instrument made under section 452B
-  - **unit of account** means 1 special drawing right as defined by the International Monetary Fund, the calculation of which, in New Zealand currency, is in accordance with section 88
+  - **unit of account** means 1 special drawing right as defined by the International Monetary Fund
   - **voyage** means a journey by water from one port—
     (a) to another port; or
     (b) back to the same port without calling at any other port
@@ -179,9 +185,9 @@ _Consolidation as at 2025-11-27_
       (ii) crewed by crew subject to regular armed forces discipline; and
     (b) includes any ship requisitioned under section 10 of the Defence Act 1990; but
     (c) does not include any ship operated by the New Zealand Defence Force that operates, for the time being, for a commercial purpose.
-(2) The Governor-General may from time to time, by Order in Council, declare—
-  (a) that any specified international convention relating to maritime transport, to which New Zealand is a party, shall be a convention for the purposes of this Part and Parts 2 to 15, or such of them (or their provisions) as may be specified in the order:
-  (b) that any specified amendment to any such convention shall form part of that convention for any such purposes.
+(2) The Governor-General may from time to time, by Order in Council, declare a specified international convention, protocol, or agreement to be a convention, protocol, or agreement for the purposes of 1 or more specified provisions of this Part and Parts 3 to 15 only if—
+  (a) the convention, protocol, or agreement relates to maritime transport; and
+  (b) New Zealand is a party to the convention, protocol, or agreement.
 (3) An order under subsection (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 2A Transitional, savings, and related provisions
@@ -316,35 +322,48 @@ Every person, other than a participant (within the meaning of section 17), who�
 
 **Duties in relation to crewing**
 
-### 22 Employer’s duties in relation to seafarers of New Zealand ships on overseas voyages
-(1) Every employer of a seafarer on any New Zealand ship, other than a pleasure craft, going on an overseas voyage shall,—
-  (a) prior to the departure of the ship,—
-    (i) enter into articles of agreement, in a form approved by the Director as meeting the requirements of the relevant convention and subsection (2), with every seafarer (except the master), in relation to the voyage; and
-    (ii) post the articles of agreement up in a place on the ship easily accessible from the seafarer’s quarters; and
-  (b) ensure that any termination of a period of employment of a seafarer is by notice in writing; and
-  (c) make provision on termination of the voyage, or where the seafarer has been left behind by the ship by reason of—to return each seafarer to his or her own country, or to the port where that seafarer was employed, or to the port where the voyage commenced, or to such other place (if any) as may be agreed between the employer and the seafarer; and an employer of a seafarer shall be deemed to have made adequate provision under this paragraph if the seafarer has been provided with suitable employment on board a vessel proceeding to one of the foregoing destinations; and
-    (i) injury sustained during his or her employment on the ship; or
-    (ii) shipwreck; or
-    (iii) illness, which is not due to the seafarer’s own wilful act or default; or
-    (iv) discharge for any cause for which the seafarer cannot be held responsible,—
-  (d) provide to the seafarer, if requested by the seafarer, a certificate as to the quality of the seafarer’s work and whether the seafarer has fully discharged his or her obligations under any articles of agreement with the employer.
-(2) The articles of agreement shall include a statement that the agreement shall be terminated by—
-  (a) mutual consent of the employer and the seafarer; or
-  (b) death of the seafarer; or
-  (c) loss or total unseaworthiness of the ship.
-(3) A seafarer on a New Zealand ship may recover from the seafarer’s employer, or any agent of the employer, the reasonable expenses incurred by the seafarer in returning to his or her own country, or to the port where the crew member was employed, if the employer of that seafarer does not comply with the employer’s obligations under subsection (1)﻿(c).
-(4) For the purposes of this section,—
-  - **overseas voyage** means a voyage to a port outside New Zealand
-  - **reasonable expenses** means all reasonable transportation charges, accommodation, and food expenses, in respect of the period commencing when the seafarer was left behind and ending with the end of the return journey; and includes maintenance in respect of the period commencing when the seafarer was left behind and ending with the time fixed for the seafarer’s return journey departure.
+### 21A Owner’s duty to enter into seafarer employment agreement
+(1) The owner of a New Zealand ship (other than a pleasure craft) must, before the ship departs on a voyage, enter into an employment agreement with every person on the voyage who is a seafarer within the meaning of paragraph (a)﻿(i) of the definition of that term in section 2(1) (a seafarer employment agreement).
+(2) The seafarer employment agreement must—
+  (a) be in a form approved by the Director as meeting the requirements of the relevant convention; and
+  (b) state how the agreement may be terminated, including the reasons set out in subsection (4)﻿(a) to (c).
+(3) The seafarer employment agreement must be displayed in a place on the ship that is easily accessible from the seafarers’ quarters.
+(4) A seafarer employment agreement terminates—
+  (a) by the mutual consent of the owner and the seafarer:
+  (b) on the death of the seafarer:
+  (c) on the loss or unseaworthiness of the ship:
+  (d) in any other circumstance that is specified in the agreement as a circumstance in respect of which the agreement terminates.
+(5) The owner must ensure that any termination of a seafarer employment agreement under subsection (4)﻿(d) is by notice in writing.
 
-### 23 Employer’s duties in relation to seafarers on New Zealand ships
-(1) Every employer of seafarers on a New Zealand ship shall—
-  (a) provide food and water supplies which, having regard to the size of the crew and the duration and nature of the voyage, are suitable in respect of quantity, nutritive value, quality, and variety; and
-  (b) ensure that any seafarer requiring medical attention while overseas receives all necessary medical attention at the employer’s expense; and
+### 22 Owner’s duties in relation to returning seafarer of New Zealand ship on overseas voyage
+(1) This section applies in respect of an overseas voyage of a New Zealand ship (other than a pleasure craft) if—
+  (a) the voyage is terminated; or
+  (b) a seafarer is left behind by the ship due to—
+    (i) an injury sustained during the seafarer’s employment or work on the ship; or
+    (ii) a shipwreck; or
+    (iii) an illness that is not due to the seafarer’s own wilful act or default; or
+    (iv) being discharged for any cause for which the seafarer cannot be held responsible.
+(2) The owner of the ship must arrange for the seafarer to return to—
+  (a) the seafarer’s own country; or
+  (b) the port where the seafarer began employment or work; or
+  (c) the port where the voyage commenced; or
+  (d) any other place that is agreed between the owner and the seafarer.
+(3) The owner of the ship may comply with subsection (2) by providing the seafarer with suitable employment or work on board a ship proceeding to any of the destinations specified in subsection (2)﻿(a) to (d).
+(4) If the owner does not comply with subsection (2) and the seafarer makes their own arrangements to return to a destination specified in subsection (2)﻿(a) to (c), the owner must reimburse the seafarer for reasonable expenses incurred by the seafarer in returning to that destination.
+(5) In this section,—
+  - **overseas voyage** means a voyage to a port outside New Zealand
+  - **reasonable expenses** —
+    (a) means all reasonable transportation, accommodation, and food expenses, in respect of the period commencing when the seafarer is left behind and ending with the end of the return journey; and
+    (b) includes maintenance in respect of the period commencing when the seafarer is left behind and ending with the departure time fixed for the seafarer’s return journey.
+
+### 23 Owner’s duties in relation to seafarers on New Zealand ships
+(1) An owner of a New Zealand ship shall—
+  (a) provide seafarers on board with food and water supplies which, having regard to the size of the crew and the duration and nature of the voyage, are suitable in respect of quantity, nutritive value, quality, and variety; and
+  (b) ensure that any seafarer requiring medical attention while overseas receives all necessary medical attention at the owner’s expense; and
   (c) in the event of the loss or foundering of the ship, pay to every seafarer wages at the normal rate until—whichever first occurs; and
     (i) the seafarer is otherwise employed; or
     (ii) the expiry of 2 months from the date of the loss or foundering,—
-  (d) maintain a record (in a form prescribed or in a form approved by the Director) of the employment on board a New Zealand ship of every seafarer employed on that ship by that employer and provide to a seafarer, if requested by that seafarer, a copy of the record applying to that seafarer.
+  (d) maintain a record (in a form prescribed by maritime rules or in a form approved by the Director) of the employment on board a New Zealand ship of every seafarer employed on that ship by the owner and provide to a seafarer, if requested by that seafarer, a copy of the record applying to that seafarer.
 (2) Any wages payable under subsection (1) shall be recoverable in the same manner as wages earned by the seafarer during his or her normal employment.
 
 ### 24 Inspection of provisions
@@ -358,14 +377,25 @@ Without limiting section 54, the Director shall, upon receipt of a written compl
 ### 26 Provisions relating to crewing of New Zealand ships and young persons
 (1) Every employer of seafarers on a New Zealand ship shall keep a register of all persons under the age of 18 years who are employed on that ship and the register shall include the date of birth of each such person.
 (2) No person shall employ on any New Zealand ship—
-  (a) any person of an age that requires that person to be enrolled at a school; or
-  (b) any person under the age of 18 years as a trimmer or stoker.
-(3) Notwithstanding subsection (2), where an employer has not been able, after taking all reasonable steps, to obtain a person over 18 years of age as a trimmer or stoker in a port, the employer may employ on a New Zealand ship a person over the age of 16 years as a trimmer or stoker in that port, but in any such case 2 persons over the age of 16 years shall be employed to do the work which would otherwise have been performed by 1 person over the age of 18 years.
-(4) Nothing in subsection (2) applies to the employment of a person to carry out work on a training ship if the carrying out of such work by a person of that age is approved by the Director.
+  (a) any person under the age of 16 years; or
+  (b) any person under the age of 18 years to undertake work that is likely to jeopardise the health or safety of the person.
+(3)
+(4)
 
-### 27 Prohibition on receiving remuneration for placing seafarers in employment
-(1) No person shall carry on for pecuniary gain, directly or indirectly, any undertaking in relation to the finding of employment for seafarers (other than persons to be employed or engaged in fishing within the meaning of the Fisheries Act 1996 and masters) on any ship nor shall any person charge, directly or indirectly, any fees for finding employment for such seafarers on any ship.
-(2) Every person commits an offence and is liable on conviction to a fine not exceeding $200 who acts in contravention of subsection (1).
+### 27 Restrictions on charging seafarers for recruitment and placement services
+(1) A seafarer recruitment and placement service or an owner of a ship must not directly or indirectly charge a person a fee for—
+  (a) recruiting or placing that person into employment or work as a seafarer (whether directly or on behalf of an owner); or
+  (b) providing that person with employment or work as a seafarer.
+(2) However, a seafarer recruitment and placement service or an owner of a ship may charge a person for the cost of obtaining, for the purposes of that person’s employment or work as a seafarer, 1 or more of the following:
+  (a) a medical certificate of fitness (as required by maritime rules):
+  (b) a book of records of the seafarer’s qualifications:
+  (c) a passport:
+  (d) any personal travel documents (other than a visa) that are necessary for the person to undertake their duties as a seafarer.
+(3) If a seafarer requires a visa in the course of their employment or work on a ship, the owner of that ship must pay the cost of the visa.
+(4) A seafarer recruitment and placement service or an owner of a ship who contravenes this section commits an offence and is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $5,000:
+  (b) in the case of a body corporate, to a fine not exceeding $30,000:
+  (c) in either case, to an additional penalty under section 409.
 
 **Liens on ships by crew and masters**
 
@@ -489,8 +519,8 @@ A harbourmaster may exercise the powers and perform the duties conferred by this
     (ii) moor, unmoor, anchor, secure, unsecure, place, or move the ship:
   (e) cause a ship to be moored, unmoored, anchored, secured, unsecured, placed, or removed, or to weigh anchor:
   (f) cause any floating, submerged, or stranded object that the harbourmaster considers to be a hazard to navigation to be moored, unmoored, anchored, secured, unsecured, placed, or removed:
-  (g) require any person appearing to be in charge of any ship or seaplane to stop, and to give his or her name and address:
-  (h) require any person found committing an offence against this Act (or any secondary legislation (including bylaws) made under this Act) to give his or her name and address:
+  (g) require any person appearing to be in charge of any ship or seaplane to stop, and to give their name, address, and electronic address:
+  (h) require any person found committing an offence against this Act (or any secondary legislation (including bylaws) made under this Act) to give their name, address, and electronic address:
   (i) on informing the owner of a ship or seaplane of an alleged offence against this Act (or any secondary legislation (including bylaws) made under this Act) involving that ship or seaplane, require the owner to give all information in the owner's possession or obtainable by the owner that may lead to the identification of the person (not being the owner) who it is alleged committed the offence:
   (j) regulate and control traffic and navigation on the occasion of unusual or extraordinary maritime traffic.
 (2) A harbourmaster may exercise the powers under subsection (1) with the assistance of any persons and equipment the harbourmaster reasonably considers necessary in the circumstances.
@@ -640,7 +670,7 @@ For the purposes of carrying out his or her duties under this Part, a harbourmas
 ### 33O Infringement offences relating to navigation bylaws
 (1) The Governor-General may, by Order in Council, make regulations—
   (a) specifying which breaches of navigation bylaws are infringement offences:
-  (b) prescribing an infringement fee, not exceeding $1,000, for any infringement offence specified under paragraph (a):
+  (b) prescribing an infringement fee, not exceeding $3,000 for an individual or $12,000 in any other case, for any infringement offence specified under paragraph (a):
   (c) prescribing the form of infringement notices for infringement offences.
 (2) A person who is alleged to have committed an infringement offence may be—
   (a) proceeded against for the offence under the Summary Proceedings Act 1957; or
@@ -653,25 +683,33 @@ For the purposes of carrying out his or her duties under this Part, a harbourmas
   (b) has reasonable cause to believe—
     (i) is committing an infringement offence; or
     (ii) has committed an infringement offence.
-(2) An infringement notice—
-  (a) is served if the notice or a copy of it is delivered personally to the person alleged to have committed the offence:
-  (b) is to be treated as served for the purposes of the Summary Proceedings Act 1957 if the notice or a copy of it has been posted to the last known place of residence or business of the person alleged to have committed the offence.
+(2) An infringement notice is served if it, or a copy of it, is—
+  (a) delivered personally to the person alleged to have committed the offence; or
+  (b) posted to the last known place of residence or business of the person alleged to have committed the offence; or
+  (c) sent by electronic means to the electronic address of the person alleged to have committed the offence.
+(2A) An infringement notice, or a copy of it, is treated as served for the purposes of the Summary Proceedings Act 1957,—
+  (a) if subsection (2)﻿(b) applies, when the notice (or copy) would have been delivered in the ordinary course of post; or
+  (b) if subsection (2)﻿(c) applies, when the electronic communication containing the notice (or copy) first enters an information system that is outside the control of the person who served the notice under subsection (1).
 (3) Every infringement notice must be in the prescribed form and must contain the following:
   (a) such details of the alleged infringement offence as are sufficient to fairly inform a person of the time, place, and nature of the alleged offence; and
   (b) the amount of the infringement fee specified for that offence; and
-  (c) the address of the place at which the infringement fee may be paid; and
+  (c) how the infringement fee may be paid; and
   (d) the time within which the infringement fee must be paid; and
   (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
   (f) a statement that the person served with the notice has a right to request a hearing; and
   (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
   (h) any other prescribed particulars.
 (4) If an infringement notice has been issued under this section, proceedings may be commenced in respect of the offence to which the notice relates in accordance with section 21 of the Summary Proceedings Act 1957, and the provisions of that section apply with all necessary modifications.
+(5) Despite section 24(1)﻿(e) of the Summary Proceedings Act 1957, a reminder notice may be served on a person for the purposes of section 21(2) of that Act by serving the notice in accordance with subsection (2)﻿(c) in addition to the other methods of service set out in section 24(1) of that Act and without otherwise limiting or affecting the operation of section 24 of that Act.
+(6) In this section, unless the context otherwise requires, electronic address, in relation to a person, means—
+  (a) an electronic address that the person has given to a harbourmaster, enforcement officer, or constable; or
+  (b) otherwise, the last known electronic address of the person.
 
 ### 33Q Entitlement to infringement fees
 A regional council is entitled to retain any infringement fee it receives in respect of an infringement offence—
   (a) under section 33O if the infringement notice was issued by a harbourmaster or an enforcement officer of the council:
   (b) under section 422 if—
-    (i) the infringement offence is a breach of a maritime rule or a navigation bylaw prescribed as an infringement offence by regulations made under section 201(1)﻿(b); and
+    (i) the infringement offence is a breach of a maritime rule prescribed as an infringement offence by regulations made under section 201(1)﻿(b); and
     (ii) the infringement notice was issued under section 423 by a harbourmaster or an enforcement officer of the council.
 
 **Fees and charges**
@@ -782,6 +820,15 @@ Port operators must not operate, maintain, or service a port, or cause or permit
   (b) the reversal of the transfer.
 (5) In this section, council-controlled organisation has the meaning given to it in section 6 of the Local Government Act 2002.
 
+### 33Y Minister of Conservation’s powers and responsibilities in relation to specified areas
+(1) In respect of the specified areas, the Minister of Conservation has the powers, duties, and responsibilities that a regional council would have under this Part.
+(2) The Minister of Conservation may exercise the powers, duties, and responsibilities under this Part—
+  (a) as if the Minister of Conservation were a regional council that had the specified areas within its region; and
+  (b) in the same manner, subject to the same restrictions, and with the same effect as if those powers, duties, and responsibilities had been conferred on them directly by those provisions.
+(3) In this section, specified areas means—
+  (a) the Kermadec Islands and Sub-Antarctic Islands (which include the Antipodes Island Group, the Auckland Islands, the Bounty Islands, Campbell Island/Motu Ihupuku and the islands adjacent to Campbell Island/Motu Ihupuku, and the Snares Islands/Tini Heke); and
+  (b) the New Zealand waters surrounding and within the islands specified in paragraph (a).
+
 ## Part 4 — Further regulation of maritime activity
 
 **Maritime rules**
@@ -797,6 +844,7 @@ Port operators must not operate, maintain, or service a port, or cause or permit
     (i) maritime training; or
     (ii) the testing, inspecting, audit, or certification of ships or maritime products; or
     (iii) the design, manufacture, or maintenance of ships or maritime products:
+  (fa) seafarer recruitment and placement services:
   (g) shipping operations and management:
   (h) shipping containers:
   (i) navigational aid installations:
@@ -805,12 +853,17 @@ Port operators must not operate, maintain, or service a port, or cause or permit
 (3) Subject to any maritime rules, a maritime document may be issued or a document may be recognised as a maritime document, as the case may be, by the Director for such period and subject to such conditions as the Director considers appropriate in each particular case.
 (4) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 
-### 35 Application for maritime document
-(1) Every application for the grant or renewal of a maritime document or the recognition of a document as a maritime document shall be made to the Director in the prescribed form or, if there is no prescribed form, in such form as the Director may require.
-(2) Every applicant for a maritime document shall include in his or her application his or her address for service in New Zealand including, where applicable, telephone and facsimile numbers.
-(3) It shall be the duty of every holder of a maritime document to maintain the currency of the information provided under subsection (2) by promptly notifying the Director of any changes to the address, telephone number, or facsimile number.
-(4) The Director shall ensure that a record of all information provided under this section is maintained at the Maritime Registry.
-(5) Service of any notification under this Act on a holder of, or an applicant for, a maritime document shall be effective service if served at the address last provided by that holder or applicant under this section.
+### 35 Requirements related to holders of, and applications for, maritime documents
+(1) The following applications must be made to the Director in the prescribed form or, if there is no prescribed form, in any form that the Director requires:
+  (a) an application for the grant or renewal of a maritime document:
+  (b) an application for the recognition of a document as a maritime document.
+(2) An application must include the applicant’s address for service in New Zealand and, if applicable,—
+  (a) a phone number; and
+  (b) a fax number; and
+  (c) an electronic address.
+(3) The holder of a maritime document must, as soon as practicable, notify the Director of any change to the information provided under subsection (2).
+(4) The Director must ensure that a record of all information provided under this section is maintained at the Maritime Registry.
+(5) Any notice, notification, or other document served under this Act on the holder of, or an applicant for, a maritime document is treated as served on that person if the notice, notification, or document is served at the address or electronic address last provided by that person.
 
 ### 36 Maritime rules relating to other matters
 (1) The Minister may from time to time make maritime rules that provide for all or any of the following:
@@ -839,6 +892,7 @@ Port operators must not operate, maintain, or service a port, or cause or permit
   (n) the minimum number of seafarers to be employed on any commercial ship, their qualifications, and experience:
   (o) standards, specifications, qualifications, restrictions, and licensing requirements for persons engaged in maritime activities, including any medical requirements and requirements relating to the keeping of records of qualifications, restrictions, and licences:
   (p) technical standards or requirements relating to the health and safety of seafarers:
+  (pa) standards or requirements for seafarer recruitment and placement services:
   (q) the format of maritime documents, forms, and applications:
   (r) the requirements and criteria for determining the tonnage measurement, length, and size of any ship:
   (s) the criteria and conditions under which foreign licences, permits, certificates, or other documents will be recognised by the Director under section 41:
@@ -849,7 +903,7 @@ Port operators must not operate, maintain, or service a port, or cause or permit
   (td) ship traffic separation and management schemes:
   (u) such matters as may be necessary—
     (i) to enable New Zealand to become a party to any international convention, protocol, or agreement relating to maritime transport:
-    (ii) to implement such international practices or standards relating to maritime transport as may, from time to time, be recommended by the International Maritime Organisation:
+    (ii) to implement any international practices or standards relating to maritime transport or maritime labour that may, from time to time, be recommended by the International Maritime Organization or the International Labour Organization:
   (v) assisting maritime safety and security, including (but not limited to) personal security:
   (w) assisting economic development:
   (x) improving access and mobility:
@@ -1571,11 +1625,19 @@ For the purposes of granting or renewing maritime documents in respect of person
   (b) require that person to demonstrate to the Director the familiarity of the master or crew with essential shipboard procedures for the safe operation of the ship:
   (c) require that person to demonstrate to the Director that any operational, maintenance, or servicing procedure in respect of a ship or a maritime product is capable of being carried out in a competent manner.
 
+### 54AA Inspections and audits of seafarer recruitment and placement services
+(1) The Director may, in writing, require a seafarer recruitment and placement service to undergo an inspection or audit if the Director considers it necessary—
+  (a) in the interests of maritime safety; or
+  (b) in the interests of the health and safety of seafarers; or
+  (c) for the purposes of any of Parts 1 to 15.
+(2) The Director may carry out the inspection or audit as the Director considers necessary.
+(3) For the purpose of carrying out the inspection or audit, the Director may, in writing, require the seafarer recruitment and placement service to provide any information the Director considers relevant to the inspection or audit.
+
 ### 54A Power of Director to investigate holder of maritime document
 (1) The Director may, in writing, require any holder of a maritime document to undergo an investigation if the Director—
   (a) has reasonable grounds to believe that an investigation is necessary in the interests of maritime safety; and
   (b) either—
-    (i) believes that the maritime document holder has failed to comply with any conditions of a maritime document; or
+    (i) has reasonable grounds to suspect that the maritime document holder has failed to comply with any of the requirements in section 17; or
     (ii) considers that the privileges or duties for which the maritime document has been granted are being carried out by the maritime document holder in a careless or incompetent manner.
 (2) If the Director requires a maritime document holder to undergo an investigation under subsection (1), the Director must—
   (a) conclude the investigation as soon as practicable; and
@@ -1643,7 +1705,12 @@ For the purposes of granting or renewing maritime documents in respect of person
   (c) take possession of and remove any such document from the place where it is kept for such period of time as is reasonable in the circumstances:
   (d) require a person to reproduce, or to allow the Director (or authorised person) to reproduce, in usable form any information recorded or stored on a document electronically or by other means.
 (2) A person who is required by the Director (or an authorised person) to do anything under subsection (1) has the same privileges and immunities as a person giving evidence before a commission of inquiry has under section 6 of the Commissions of Inquiry Act 1908.
-(3) A summons under this section may be served in the same manner as a summons served under section 5 of the Commissions of Inquiry Act 1908, and that section 5 applies accordingly with any necessary modifications.
+(3) A summons under this section may be served—
+  (a) in the same manner as a summons served under section 5 of the Commissions of Inquiry Act 1908, and that section applies accordingly with any necessary modifications; or
+  (b) by electronic means at the last known electronic address of the person summoned.
+(3A) For the purposes of subsection (3)﻿(b),—
+  (a) a summons is treated as served when the electronic communication containing the summons first enters an information system that is outside the control of the person who served the summons; and
+  (b) a summons must be served at least 5 days before the person’s attendance is required under subsection (1)﻿(b).
 (4) For the purposes of this section, document means a document in any form; and includes—
   (a) any writing on or in any material; and
   (b) information recorded or stored by means of a tape recorder, computer, or other device; and material subsequently derived from information so recorded or stored; and
@@ -1699,8 +1766,8 @@ Without limiting the powers conferred by section 58, for the purpose of exercisi
 ### 64 Unnecessary danger caused by holder of maritime document
 (1) Every holder of a maritime document commits an offence who, in respect of any activity or service to which the document relates, does or omits to do any act, or causes or permits any act or omission, if the act or omission causes unnecessary danger or risk to any other person or to any property, irrespective of whether or not in fact any injury or damage occurs.
 (2) Every person who commits an offence against subsection (1) is liable on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
-  (b) in the case of a body corporate, to a fine not exceeding $100,000:
+  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $150,000:
+  (b) in the case of a body corporate, to a fine not exceeding $1,500,000:
   (c) in any case, to an additional penalty under section 409.
 
 ### 65 Dangerous activity involving ships or maritime products
@@ -1711,14 +1778,14 @@ Without limiting the powers conferred by section 58, for the purpose of exercisi
   (a) causes or permits any ship or maritime product to be operated, maintained, or serviced; or
   (b) causes or permits any other act to be done in respect of any ship or maritime product,—
 (3) Every person who commits an offence against subsection (1) or subsection (2) is liable on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
-  (b) in the case of a body corporate, to a fine not exceeding $100,000:
+  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $50,000:
+  (b) in the case of a body corporate, to a fine not exceeding $1,500,000:
   (c) in any case, to an additional penalty under section 409.
 
 ### 65A Proceeding without pilot contrary to maritime rules or direction given under section 60A
 (1) If a ship proceeds without a pilot in contravention of section 60A, the owner and master of the ship each commits an offence and is liable on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
-  (b) in the case of a body corporate, to a fine not exceeding $100,000:
+  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $150,000:
+  (b) in the case of a body corporate, to a fine not exceeding $1,500,000:
   (c) in any case, to an additional penalty under section 409.
 (2) Despite section 451(5), a contravention of a maritime rule in circumstances to which section 60A(1) applies is an offence against this section.
 
@@ -1729,8 +1796,8 @@ Without limiting the powers conferred by section 58, for the purpose of exercisi
 ### 67 Communicating false information affecting safety
 (1) Every person commits an offence who by any means provides to another person information relating to the safety of a ship, maritime product, or any other facility or product used in or connected with maritime activities, or any person associated therewith, knowing the information to be false or in a manner reckless as to whether it is false.
 (2) Every person who commits an offence against subsection (1) is liable on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
-  (b) in the case of a body corporate, to a fine not exceeding $100,000.
+  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $50,000:
+  (b) in the case of a body corporate, to a fine not exceeding $1,500,000.
 (3) Where the commission of an offence against subsection (1) causes financial loss to any person and the court imposes a fine under subsection (2) in respect of that offence, the court may order that such part of the fine as it thinks fit, but in any event not more than one-half of the fine, be awarded to that person.
 
 ### 67A Offence for submerged load lines
@@ -1742,8 +1809,8 @@ Without limiting the powers conferred by section 58, for the purpose of exercisi
   (a) the ship is in salt water and has no list and the appropriate load line on each side of the ship, as prescribed by the maritime rules, is submerged:
   (b) the appropriate load line on each side of the ship, as prescribed by maritime rules, would be submerged if the ship were in salt water and had no list.
 (3) Every person who commits an offence against subsection (1) is liable,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
-  (b) in the case of a body corporate, to a fine not exceeding $100,000:
+  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $150,000:
+  (b) in the case of a body corporate, to a fine not exceeding $1,500,000:
   (c) in either case, to an additional penalty under section 409.
 
 ### 67B Other offences
@@ -1752,8 +1819,8 @@ Without limiting the powers conferred by section 58, for the purpose of exercisi
   (b) operates a ship outside its prescribed operating limits:
   (c) knowingly breaches any requirement specified in this Act or in regulations or rules made under this Act for the carriage of dangerous goods.
 (2) Every person who commits an offence against subsection (1)﻿(a), (b), or (c) is liable,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
-  (b) in the case of a body corporate, to a fine not exceeding $100,000:
+  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $50,000:
+  (b) in the case of a body corporate, to a fine not exceeding $1,500,000:
   (c) in either case, to an additional penalty under section 409.
 
 **Offences in relation to maritime document**
@@ -1922,11 +1989,11 @@ The provisions of the LLMC Convention as amended by the LLMC Protocol have the f
 (2) The limits notified in accordance with subsection (1), may, in the absence of proof to the contrary, be taken in any proceedings to be the current limits.
 (3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
-### 88 Units of account
-(1)
-(2) For the purposes of paragraph 1 of Article 8 of the LLMC Convention (as amended by the LLMC Protocol), a certificate given by or on behalf of the Secretary to the Treasury stating—shall, in any proceedings, be received in evidence and, in the absence of proof to the contrary, be sufficient evidence of the value of the New Zealand currency for the purposes of paragraph 1 of Article 8 of the LLMC Convention (as amended by the LLMC Protocol).
-  (a) that a particular sum in New Zealand currency has been fixed as the equivalent of 1 special drawing right for a particular date; or
-  (b) that no sum has been fixed for that date, and that a particular sum has been so fixed for the date most recently preceding a particular date,—
+### 88 Certification of units of account for purposes of this Part
+(1) For the purposes of paragraph 1 of Article 8 of the LLMC Convention (as amended by the LLMC Protocol), a certificate given by or on behalf of the Secretary to the Treasury must, in any proceedings, be received in evidence and, in the absence of proof to the contrary, be sufficient evidence of the value of the New Zealand currency.
+(2) A certificate given under subsection (1) must state—
+  (a) that a particular sum in New Zealand currency has been fixed as the equivalent of 1 unit of account for a particular date; or
+  (b) that no sum has been fixed for that date, and that a particular sum has been fixed for the date most recently preceding the particular date.
 
 ### 89 Court may consolidate claims
 [Repealed]
@@ -2379,7 +2446,7 @@ Every person on whom any duty is imposed by this Act—the means required by the
   (c) every item incorporated by reference into rules under section 452:
   (d) every accident, incident, and mishap notification given under section 31:
   (e) every delegation, authorisation, notification of recognition of a document as a maritime document or marine protection document, and exemption granted in writing under this Act:
-  (f) the address for service of—
+  (f) the address for service (including the electronic address for service) of—
     (i) every current applicant for a maritime document or marine protection document; and
     (ii) every current holder of a maritime document or marine protection document; and
     (iii) every person who holds a document recognised under this Act as a maritime document or marine protection document:
@@ -2398,7 +2465,7 @@ Every person on whom any duty is imposed by this Act—the means required by the
 **Maritime levies**
 
 ### 191 Maritime levies
-(1) The Governor-General may from time to time, by Order in Council, on the recommendation of the Minister, make regulations providing for the payment of maritime levies in respect of ships entering any port in New Zealand or operating in New Zealand waters and prescribing the amounts of those levies.
+(1) The Governor-General may from time to time, by Order in Council, on the recommendation of the Minister, make regulations providing for the payment of maritime levies in respect of ships and floating production, storage, and offloading units entering any port in New Zealand or operating in New Zealand waters and prescribing the amounts of those levies.
 (2) Maritime levies may provide funding for any or all of the following purposes:
   (a) to enable the provision of—
     (i) navigational aids other than those referred to in section 200(2):
@@ -2407,9 +2474,9 @@ Every person on whom any duty is imposed by this Act—the means required by the
     (iv) other services related to the safety of shipping:
   (b) any services provided, or any regulatory services or activities undertaken, by the Authority, the Director, or the Crown in the performance or exercise of functions, duties, or powers under this Act:
   (c) the facilitation of, or support for, seafarer welfare services.
-(3) Any such regulations may—whether or not persons levied use, or the ship in respect of which the levy arises uses, any such services.
-  (a) specify the persons by whom the levies are payable including (without limitation) all or any of the master, owner, charterer, person responsible for the management of the ship, or any agent of any of those persons who by law or by contract is liable to pay any other charge on account of the ship:
-  (b) prescribe different levies for different classes of ship based on length, tonnage, equipment available for use on board the ship, or such other criteria as may be specified in the regulations:
+(3) Any such regulations may—whether or not persons levied use, or the ship or floating production, storage, and offloading unit in respect of which the levy arises uses, any such services.
+  (a) specify the persons by whom the levies are payable including (without limitation) all or any of the master, owner, charterer, person responsible for the management of the ship or floating production, storage, and offloading unit, or any agent of any of those persons who by law or by contract is liable to pay any other charge on account of the ship or floating production, storage, and offloading unit:
+  (b) prescribe different levies for different classes of ship or floating production, storage, and offloading unit based on length, tonnage, equipment available for use on board the ship or floating production, storage, and offloading unit, or such other criteria as may be specified in the regulations:
   (c) provide for the refund or waiver of any levy in whole or in part, in any specified case or class of cases:
   (d) provide that the levies are payable on an annual or other equal basis in advance or otherwise, or on a per voyage basis at the option of either the Director or the person liable to pay the levies; and provide for the changing of those options, and for the making of adjustments where an option is changed—
 (3A) The Minister must not make a recommendation under subsection (1) unless he or she has consulted such persons, representative groups within the maritime industry or elsewhere, government departments, and Crown agencies as he or she considers appropriate.
@@ -2572,7 +2639,7 @@ The Minister may direct the Civil Aviation Authority or Maritime New Zealand, or
   (b) remove any ship, craft, or seaplane or person from the designated area:
   (c) prevent any ship, craft, or seaplane or person from entering the designated area:
   (d) prohibit the use of a ship, craft, or seaplane in the designated area, if the enforcement officer considers its use in the designated area would pose an unreasonable risk to the safety of those on board or of other persons:
-  (e) board a ship, craft, or seaplane, give directions for the purposes of this section to the person appearing to be in charge, and require that person to give his or her name and address:
+  (e) board a ship, craft, or seaplane, give directions for the purposes of this section to the person appearing to be in charge, and require that person to give their name, address, and electronic address:
   (f) exercise any power that a harbourmaster may exercise for the purposes of ensuring maritime safety under Part 3A.
 (3) The exercise of any power conferred by subsection (2) does not prevent an enforcement officer or any other person from taking any further action against a person under some other provision of this Act or under any other enactment.
 (4) An enforcement officer exercising any power under this section must produce evidence of identity and evidence that he or she is an enforcement officer, whenever reasonably requested to do so.
@@ -2607,12 +2674,12 @@ The Minister may direct the Civil Aviation Authority or Maritime New Zealand, or
 ### 201 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing those breaches of maritime rules, or breaches of navigation bylaws, that constitute offences against this Act:
-  (b) prescribing those breaches of maritime rules, or breaches of navigation bylaws, that constitute infringement offences against this Act:
+  (b) prescribing those breaches of maritime rules that constitute infringement offences against this Act:
   (c) prescribing the penalty for each offence prescribed under paragraph (a) which,—
-    (i) in the case of an individual, shall be a fine not exceeding $10,000:
+    (i) in the case of an individual, shall be a fine not exceeding $15,000:
     (ii) in the case of a body corporate, shall be a fine not exceeding $50,000:
   (d) prescribing the infringement fee for each offence prescribed under paragraph (b) and for infringement offences against section 200B, which,—
-    (i) in the case of an individual, must not exceed $2,000:
+    (i) in the case of an individual, must not exceed $3,000:
     (ii) in the case of a body corporate, must not exceed $12,000:
   (e) such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act (other than those referred to in section 394(1)﻿(i)) and for their due administration.
 (2) Any regulations made under this Act may be so made that different regulations shall apply with respect to different classes of persons, ships, or maritime products, or with respect to the same class of person, ship, or maritime product in different circumstances.
@@ -2763,7 +2830,9 @@ Any person who—shall take action to enforce that indemnity within 2 years of t
   - **marine incineration facility** has the meaning given to it by section 257
   - **marine oil spill contingency plan** has the meaning given to it by section 281
   - **marine operations** means any operations or operation for, or connected with, the exploration for, or the exploitation or associated processing of, any mineral in the sea or the seabed
-  - **marine protection convention** , in relation to this Part and Parts 19 to 27, means any international convention, protocol, or agreement relating to the protection of the marine environment from pollution that is declared for the purposes of any such Part by Order in Council pursuant to subsection (4); and includes every amendment to, or revision of, any such instrument, being an amendment or revision to which New Zealand is a party that is declared in the same manner
+  - **marine protection convention** , in relation to this Part and Parts 19 to 27,—
+    (a) means any international convention, protocol, or agreement declared for the purposes of any of those Parts by Order in Council under subsection (4); and
+    (b) includes every amendment to, or revision of, those instruments, being an amendment or a revision to which New Zealand is a party
   - **marine protection document** means—
     (a) any permit issued by the Director under section 262 or 262A:
     (b) any certificate of insurance issued, recognised, or accepted by the Director under section 363, 363A, or 385H:
@@ -2831,9 +2900,9 @@ Any person who—shall take action to enforce that indemnity within 2 years of t
   (c) in relation to a pipeline, includes any manager, lessee, licensee, or operator of the pipeline, or the person in charge of the pipeline:
   (d) in relation to an oil transfer site, includes any manager, lessee, licensee, or operator of the transfer site or the person in charge of the site.
 (3) Unless the context otherwise requires, any term defined in this section or any of sections 225, 247, 257, 281, 329, 342, and 370 shall have that meaning throughout Parts 19 to 28 and any regulations or rules made under any of those Parts.
-(4) The Governor-General may from time to time, by Order in Council, declare—
-  (a) that any specified international convention, protocol, or agreement relating to the protection of the marine environment from pollution, to which New Zealand is a party, shall be a marine protection convention for the purposes of this Part and Parts 19 to 27, or such of them (or their provisions) as may be specified in the order:
-  (b) that any specified amendment to, or revision of, any such instrument shall form part of that instrument for any such purposes.
+(4) The Governor-General may from time to time, by Order in Council, declare a specified international convention, protocol, or agreement to be a marine protection convention for the purposes of 1 or more specified provisions of this Part and Parts 19 to 27 only if—
+  (a) the convention, protocol, or agreement relates to protecting the marine environment from pollution; and
+  (b) New Zealand is a party to the convention, protocol, or agreement.
 (5) An order under subsection (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 
 ### 223 Application of Parts 19 to 27 to ships of New Zealand Defence Force
@@ -2979,7 +3048,12 @@ No oil or noxious liquid substance—unless notice has been given by the master 
   (c) take possession of and remove any such document from the place where it is kept for such period of time as is reasonable in the circumstances:
   (d) require a person to reproduce, or to allow the Director (or authorised person) to reproduce, in usable form any information recorded or stored on a document electronically or by other means.
 (3) A person who is required by the Director (or an authorised person) to do anything under subsection (2) has the same privileges and immunities as a person giving evidence before a commission of inquiry has under section 6 of the Commissions of Inquiry Act 1908.
-(4) A summons under this section may be served in the same manner as a summons served under section 5 of the Commissions of Inquiry Act 1908, and that section 5 applies accordingly with any necessary modifications.
+(4) A summons under this section may be served—
+  (a) in the same manner as a summons served under section 5 of the Commissions of Inquiry Act 1908, and that section applies accordingly with any necessary modifications; or
+  (b) by electronic means at the last known electronic address of the person summoned.
+(4A) For the purposes of subsection (4)﻿(b),—
+  (a) a summons is treated as served when the electronic communication containing the summons first enters an information system that is outside the control of the person who served the summons; and
+  (b) a summons must be served at least 5 days before the person’s attendance is required under subsection (2)﻿(b).
 (5) For the purposes of this section, document means a document in any form; and includes—
   (a) any writing on or in any material; and
   (b) information recorded or stored by means of a tape recorder, computer, or other device; and material subsequently derived from information so recorded or stored; and
@@ -3139,7 +3213,12 @@ Every person who commits an offence against section 240, 241, or 242A is liable 
     (ii) prevent any thing involved in the discharge or escape being tampered with, altered, mutilated, or destroyed:
   (f) seize, detain, remove, preserve, protect, or test any thing that the Director believes on reasonable grounds may assist in establishing the cause of the discharge or escape.
 (3) The Director may authorise a person to carry out an action described in subsection (2).
-(4) Section 5 of the Commissions of Inquiry Act 1908 applies to a summons under this section.
+(4) A summons under this section may be served—
+  (a) in the same manner as a summons served under section 5 of the Commissions of Inquiry Act 1908, and that section applies accordingly with any necessary modifications; or
+  (b) by electronic means at the last known electronic address of the person summoned.
+(4A) For the purposes of subsection (4)﻿(b),—
+  (a) a summons is treated as served when the electronic communication containing the summons first enters an information system that is outside the control of the person who served the summons; and
+  (b) a summons must be served at least 5 days before the person’s attendance is required under subsection (2)﻿(b)﻿(i).
 Definition for this section
 (5) In this section, document means a document in any form, electronic or otherwise.
 
@@ -3449,12 +3528,17 @@ Subject to section 267, every person who commits an offence against section 263 
 
 **Powers of Director in relation to marine protection documents**
 
-### 269 Application for marine protection document
-(1) Every application for the grant or renewal of a marine protection document, or for the recognition of a document as a marine protection document, shall be made to the Director in the prescribed form or, if there is no prescribed form, in such form as the Director may require.
-(2) Every applicant under subsection (1) shall include in his or her application his or her address for service in New Zealand including, where applicable, telephone and facsimile numbers.
-(3) It shall be the duty of every holder of a marine protection document to maintain the currency of the information provided under subsection (2) by promptly notifying the Director of any change to the address, telephone number, or facsimile number.
-(4) The Director shall ensure that a record of all information provided under this section is maintained at the Maritime Registry.
-(5) Service of any notice, notification, or other document under this Act on a holder of a marine protection document, or on an applicant under subsection (1), shall be effective service if served at the address last provided by that holder or applicant.
+### 269 Requirements related to holders of, and applications for, marine protection documents
+(1) The following applications must be made to the Director in the prescribed form or, if there is no prescribed form, in any form that the Director requires:
+  (a) an application for the grant or renewal of a marine protection document:
+  (b) an application for the recognition of a document as a marine protection document.
+(2) An application must include the applicant’s address for service in New Zealand and, if applicable,—
+  (a) a phone number; and
+  (b) a fax number; and
+  (c) an electronic address.
+(3) The holder of a marine protection document must, as soon as practicable, notify the Director of any change to the information provided under subsection (2).
+(4) The Director must ensure that a record of all information provided under this section is maintained at the Maritime Registry.
+(5) Any notice, notification, or other document served under this Act on the holder of, or an applicant for, a marine protection document is treated as served on that person if the notice, notification, or document is served at the address or electronic address last provided by that person.
 
 ### 270 Issue of marine protection documents and recognition of documents
 (1) After considering any application under section 269, the Director shall, as soon as practicable, grant the application if he or she is satisfied that—
@@ -4100,6 +4184,12 @@ Notwithstanding any other provision of this Act, for the purposes of this Part, 
 (2) The maximum amount for which an owner of a ship is liable in the circumstances specified in subsection (1) may be fixed from time to time by the Governor-General by Order in Council and, until the time that the maximum amount is so fixed, is—
   (a) 3 million units of account for a ship not exceeding 5 000 units of tonnage; and
   (b) for a ship with a tonnage exceeding 5 000 units, 3 million units of account plus 420 units of account for each additional unit of tonnage, up to a maximum aggregate amount of 59.7 million units of account.
+(2A) For the purposes of subsection (2) and any order made under that subsection, in any proceedings a certificate given by or on behalf of the Secretary to the Treasury—
+  (a) must be received in evidence; and
+  (b) in the absence of proof to the contrary, is sufficient evidence of the value of the New Zealand currency for the purposes of paragraph 9(a) of Article V of the Civil Liability Convention.
+(2B) A certificate given under subsection (2A) must state—
+  (a) that a particular sum in New Zealand currency has been fixed as the equivalent of 1 unit of account for a particular date; or
+  (b) that no sum has been fixed for that date, and that a particular sum has been fixed for the date most recently preceding the particular date.
 (3) The owner of a ship shall be liable for the costs of any proceedings that may be awarded against that owner in addition to any other liabilities which are subject to a maximum amount determined under this section.
 (4) The maximum amount of liability of an owner of a ship determined under this section shall relate to all pollution damage that arises on any one occasion and whether or not the pollution damage arising from that occasion is sustained by more than 1 person.
 (5) If the maximum amount for which the owner of a ship may be liable under this section is paid into court, no subsequent variation of the method of calculating the liability in New Zealand currency under any marine protection rules will affect the maximum amount of liability.
@@ -4594,10 +4684,10 @@ The provisions of sections 446 to 452 apply in relation to marine protection rul
   (d) prescribing those breaches of marine protection rules that constitute offences against this Act:
   (e) prescribing those breaches of marine protection rules that constitute infringement offences against this Act:
   (f) prescribing the penalty for each offence prescribed under paragraph (d) which,—
-    (i) in the case of an individual, shall be a fine not exceeding $10,000; or
+    (i) in the case of an individual, shall be a fine not exceeding $15,000; or
     (ii) in the case of any other person, shall be a fine not exceeding $50,000:
   (g) prescribing the infringement fee for each offence prescribed under paragraph (e) which,—
-    (i) in the case of an individual, shall be a fine not exceeding $2,000; or
+    (i) in the case of an individual, shall be a fine not exceeding $3,000; or
     (ii) in the case of any other person, shall be a fine not exceeding $12,000:
   (h) prescribing offences for breaches of any regulations made under this section and, except where some other penalty is prescribed by this Act, prescribing the penalty for each such offence which,—
     (i) in the case of an individual, shall be a fine not exceeding $10,000; or
@@ -4771,7 +4861,7 @@ Every person commits an offence who,—
 [Repealed]
 
 ### 409 Additional penalty for offence involving commercial gain
-(1) In addition to any other penalty the court may impose under this Act, the court may, on convicting any person of an offence against section 33F, 33T, 33V, 64, 65, 67A, 67B, 68, 69A, 69B, 70, 237, 238, 263, 264, 277, 278, or 400, order that person to pay an amount not exceeding 3 times the value of any commercial gain resulting from the commission of that offence if the court is satisfied that the offence was committed in the course of producing a commercial gain.
+(1) In addition to any other penalty the court may impose under this Act, the court may, on convicting any person of an offence against section 27, 33F, 33T, 33V, 64, 65, 67A, 67B, 68, 69A, 69B, 70, 237, 238, 263, 264, 277, 278, or 400, order that person to pay an amount not exceeding 3 times the value of any commercial gain resulting from the commission of that offence if the court is satisfied that the offence was committed in the course of producing a commercial gain.
 (2) For the purpose of subsection (1), the value of any gain shall be assessed by the court, and any amount ordered to be paid shall be recoverable in the same manner as a fine.
 
 ### 410 Liability of principal for acts of agents
@@ -4864,12 +4954,17 @@ Notwithstanding any other enactment, where a person is convicted of an offence a
 (2) An infringement notice may be served—
   (a) by delivering it personally to the person who appears to have committed the infringement offence; or
   (b) by sending it by post addressed to him or her at his or her last known place of residence or business; or
-  (c) where the person is a holder of a maritime document or marine protection document, by serving it by post on that person at his or her last address for service provided under section 35 or section 269.
-(3) An infringement notice sent to a person by post under paragraph (b) or paragraph (c) of subsection (2) shall be deemed to have been served on the person when it would have been delivered in the ordinary course of post.
+  (c) by sending it by electronic means to that person at their electronic address; or
+  (d) if the person being served with the notice is a holder of a maritime document or marine protection document,—
+    (i) by serving it by post on that person at their last address for service provided under section 35 or 269; or
+    (ii) by sending it by electronic means to that person at their last electronic address for service provided under section 35 or 269.
+(3) An infringement notice is treated as served on a person under subsection (2),—
+  (a) if sent by post under subsection (2)﻿(b) or (d)﻿(i), when it would have been delivered in the ordinary course of post; or
+  (b) if sent by electronic means under subsection (2)﻿(c) or (d)﻿(ii), when the electronic communication containing the notice first enters an information system that is outside the control of the person who issued the notice under subsection (1).
 (4) Every infringement notice shall be in the prescribed form and shall contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence:
   (b) the amount of the infringement fee for that offence:
-  (c) the address at which the infringement fee may be paid:
+  (c) how the infringement fee may be paid:
   (d) the time within which the infringement fee shall be paid:
   (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957:
   (f) a statement of the right of the person served with the notice to request a hearing:
@@ -4877,6 +4972,10 @@ Notwithstanding any other enactment, where a person is convicted of an offence a
   (h) such other particulars as are prescribed in regulations made under this Act.
 (5) Different forms of infringement notices may be prescribed in regulations made under this Act in respect of different kinds of infringement offences.
 (6) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and in that case the provisions of that section shall, with the necessary modifications, apply.
+(7) Despite section 24(1)﻿(e) of the Summary Proceedings Act 1957, a reminder notice may be served on a person for the purposes of section 21(2) of that Act by serving the notice in accordance with subsection (2)﻿(c) or (d)﻿(ii) in addition to the other methods of service set out in section 24(1) of that Act and without otherwise limiting or affecting the operation of section 24 of that Act.
+(8) In this section, unless the context otherwise requires, electronic address, in relation to a person, means—
+  (a) an electronic address that the person has given to the relevant issuer of the notice; or
+  (b) otherwise, the last known electronic address of the person.
 
 **Rights of appeal**
 
@@ -5132,11 +5231,16 @@ Subject to this Act, the Authority shall, in the course of performing its functi
 
 **Provisions in respect of rules under this Act**
 
-### 446 Procedure for making of rules by Minister
-Before making any rule under this Act, the Minister shall—
-  (a) publish a notice of his or her intention to make the rule in the Gazette, and any other media the Minister considers appropriate; and
-  (b) give interested persons a reasonable time, which shall be specified in the notice published under paragraph (a), to make submissions on the proposal; and
-  (c) consult with such persons, representative groups within the maritime industry or elsewhere, government departments, Crown entities, and in the case of rules made under Part 4 (to the extent that the rules relate to pilotage or harbourmasters) or Part 27 with such regional councils or other local authorities, as the Minister in each case considers appropriate.
+### 446 Procedure for Minister to make rules
+Before making any rule under this Act, the Minister must—
+  (a) publish a notice of their proposal to make the rule, which must specify a reasonable time for interested persons to make submissions on the proposal; and
+  (b) consult any persons the Minister considers appropriate, which may include—
+    (i) representative groups within the maritime industry or elsewhere; and
+    (ii) government departments; and
+    (iii) Crown entities; and
+    (iv) regional councils or other local authorities in respect of rules made under—
+      (A) Part 4, to the extent that the rules relate to pilotage or harbourmasters; or
+      (B) Part 27.
 
 ### 446A Procedure for making of rules by Governor-General
 Before recommending the making of any rule under this Act by the Governor-General, the Minister must have regard to the matters set out in section 39(2).
@@ -5288,11 +5392,17 @@ Before making any emergency rule under section 37 or section 391, the Director s
 **Service of documents**
 
 ### 458 Service of documents
-Where for the purposes of this Act any document is to be served on, or any notice, notification, or instructions is or are to be given to, any person, that document may be served and any notice, notification, or instructions may be given,—
-  (a) in any case, by delivering a copy personally to the person concerned or by leaving a copy at his or her last known place of abode; or
+(1) Where for the purposes of this Act any document is to be served on, or any notice, notification, or instructions is or are to be given to, any person, that document may be served and any notice, notification, or instructions may be given,—
+  (a) in any case,—
+    (i) by delivering a copy personally to the person concerned; or
+    (ii) by leaving a copy at their last known place of residence; or
+    (iii) by sending a copy by electronic means to their electronic address; or
   (b) if the person concerned is a master of a ship, where there is a master, or a person belonging to a ship, by leaving a copy for him or her on board the ship with the person appearing to be in command or charge of the ship and explaining to that person the nature of the document, notice, notification, or instructions; or
   (c) if the person concerned is a master of a ship, where there is no master and the ship is within the limits or territorial sea of New Zealand, on the owner of the ship resident in New Zealand, on the agent of the ship in New Zealand, or, where no such agent is known or can be found, by fixing a copy to the mast of the ship or (if there is no mast) to some other conspicuous part of the ship; or
   (d) in any other manner provided for service of that document, notice, notification, or instruction by this Act or by rules or regulations made under this Act.
+(2) For the purposes of sending a document, notice, notification, or instructions (a document) by electronic means under this section, the electronic address must be—
+  (a) an electronic address that the person being sent the document has given to the relevant issuer of the document; or
+  (b) otherwise, the last known electronic address of the person being sent the document.
 
 **Detention of ship and distress on ship**
 
@@ -5569,6 +5679,17 @@ Other exemptions
   (b) ensure that a copy of the instrument, amendment, or revocation is—
     (i) published on the Authority’s Internet site; and
     (ii) available for purchase in hard copy at a reasonable charge.
+
+### Part 4 — Provisions relating to Regulatory Systems (Transport) Amendment Act 2026
+
+### 12 Interpretation
+In this Part, commencement date means the date on which the Regulatory Systems (Transport) Amendment Act 2026 comes into force.
+
+### 13 Savings provision relating to Local Government (Infringement Fees for Offences: Southland Regional Council Navigation Safety Bylaws 2009) Regulations 2009
+The Local Government (Infringement Fees for Offences: Southland Regional Council Navigation Safety Bylaws 2009) Regulations 2009 continue in force on and from the commencement date and are treated as if they were made under section 33O of this Act.
+
+### 14 Savings provision relating to Lake Taupō (Crown Facilities, Permits, and Fees) Regulations 2004
+The Lake Taupō (Crown Facilities, Permits, and Fees) Regulations 2004 continue in force on and from the commencement date and are treated as if they were made under section 33W(5) of this Act.
 
 ## Schedule 1 — Provisions relating to Maritime New Zealand
 
