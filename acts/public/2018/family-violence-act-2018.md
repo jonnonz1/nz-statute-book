@@ -1,5 +1,5 @@
 # Family Violence Act 2018
-_Consolidation as at 2024-06-30_
+_Consolidation as at 2026-05-26_
 
 ### 1 Title
 This Act is the Family Violence Act 2018.
@@ -202,8 +202,9 @@ In this Act, unless the context otherwise requires,—
 ### 11 Meaning of psychological abuse
 (1) Psychological abuse includes—
   (a) threats of physical abuse, of sexual abuse, or of abuse of a kind stated in paragraphs (b) to (f):
-  (b) intimidation or harassment (for example, all or any of the following behaviour that is intimidation or harassment:
+  (b) intimidation, harassment, or stalking (for example, all or any of the following behaviour that is intimidation, harassment, or stalking:
     (i) watching, loitering near, or preventing or hindering access to or from a person’s place of residence, business, or employment, or educational institution, or any other place that the person visits often:
+    (ia) doing, in relation to another person, any of the specified acts described in section 216P of the Crimes Act 1961:
     (ii) following the person about or stopping or accosting a person in any place:
     (iii) if a person is present on or in any land or building, entering or remaining on or in that land or building in circumstances that constitute a trespass):
   (c) damage to property:
