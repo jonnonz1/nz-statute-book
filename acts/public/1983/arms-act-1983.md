@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2026-01-01_
+_Consolidation as at 2026-05-26_
 
 > Title
 
@@ -794,7 +794,7 @@ A person is disqualified from holding a firearms licence if—
   (a) the person has, within the previous 10 years, been convicted, or been released from custody after being convicted, of any of the following offences:
     (i) an offence under section 16(4), 16A, 44A, 50A, 50D, 51A, 53A, 54, 54A, 55, 55A, 55D, 55E, or 55F:
     (ii) a specified violent offence as defined in section 4 of the Victims’ Orders Against Violent Offenders Act 2014:
-    (iii) an offence under section 92, 98, 98A, 189A, 199, 202C, 238, 267(1), 269(1) and (3), 306, or 308A of the Crimes Act 1961:
+    (iii) an offence under section 92, 98, 98A, 189A, 199, 202C, 216Q, 238, 267(1), 269(1) and (3), 306, or 308A of the Crimes Act 1961:
     (iv) an offence under section 6, 9, 10, 11, 12, 12A, 12AB, or 12F of the Misuse of Drugs Act 1975; or
   (b) the person has, or has had within the previous 10 years, a protection order, other than a temporary order, made against them under—
     (i) section 79 of the Family Violence Act 2018; or
@@ -1582,7 +1582,7 @@ In this Part,—
   (a) has been convicted of—
     (i) an offence under section 16(4), 16A, 44A, 50A, 50D, 51A, 53A, 54, 54A, 55, 55A, 55D, 55E, or 55F; or
     (ii) a specified violent offence as defined in section 4 of the Victims’ Orders Against Violent Offenders Act 2014; or
-    (iii) an offence under section 98A, 189A, or 308A of the Crimes Act 1961; or
+    (iii) an offence under section 98A, 189A, 216Q, or 308A of the Crimes Act 1961; or
     (iv) an offence under any of sections 6A to 10 or sections 12 to 13E of the Terrorism Suppression Act 2002; and
   (b) committed the offence—
     (i) when aged 18 years or over; and
