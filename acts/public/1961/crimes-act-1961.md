@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2025-11-27_
+_Consolidation as at 2026-05-26_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -2285,6 +2285,59 @@ Everyone is liable to imprisonment for a term not exceeding 3 years who intentio
 (7) Where a person to whom subsection (1)﻿(a) to (f) applies has in his or her possession an intimate visual recording, the recording must not be kept longer than is required for the purpose of carrying out the functions referred to in subsection (5), and must then either be—
   (a) made available to the person who is the subject of the recording, if that person requests; or
   (b) immediately destroyed if the person who is the subject of the recording makes no request under paragraph (a).
+
+**Stalking and harassment**
+
+### 216O Stalking and harassment defined
+(1) For the purposes of section 216Q, a person (person A) stalks and harasses another person (person B) if person A—
+  (a) engages in a pattern of behaviour that is directed at person B by doing any specified act to person B on at least 2 separate occasions within a period of 2 years; and
+  (b) engages in that pattern of behaviour knowing that it is likely to cause fear or distress to person B.
+(2) To avoid doubt, the specified acts may be the same type of specified act on each separate occasion, or different types of specified acts.
+(3) A constable may, if they believe on reasonable grounds that person A has engaged in 1 or more specified acts towards person B and that those acts have caused, or are likely to cause, fear or distress to person B, notify person A in writing that—
+  (a) the specified act or specified acts done to person B are causing, or are likely to cause, fear or distress to person B; and
+  (b) engaging in any other specified act towards person B may amount to an offence under section 216Q of this Act.
+(4) A constable must inform person B before providing a notice under subsection (3).
+(5) For the purposes of subsection (1)﻿(b), if person A has received a notice in writing under subsection (3), person A is presumed to know that—
+  (a) any specified acts they do to person B after receiving the notice may amount to a pattern of behaviour directed at person B; and
+  (b) that pattern of behaviour is likely to cause fear or distress to person B.
+
+### 216P Meaning of specified act
+(1) For the purposes of section 216O, specified act by a person (person A), in relation to another person (person B),—
+  (a) means any of the following acts:
+    (i) watching, following, loitering near, or obstructing person B:
+    (ii) recording or tracking person B:
+    (iii) contacting or communicating with person B:
+    (iv) damaging, devaluing, moving, entering, or interfering with taonga or property (including pets) that person B has an interest in, whether or not person A has an interest in the taonga or property:
+    (v) damaging or undermining person B’s reputation, opportunities, or relationships:
+    (vi) publishing any statement or other material relating to or purporting to relate to person B, or purporting to originate from person B:
+    (vii) acting in any way that would cause fear or distress to a reasonable person; and
+  (b) includes an act of the kind listed in paragraph (a) done directly or indirectly to—
+    (i) any third-party individual who is in a family relationship with person B (within the meaning of section 12 of the Family Violence Act 2018), if the act is done wholly or partly because of person B’s family relationship with the third party; or
+    (ii) person B through any third-party individual, institution, or organisation, with or without the knowledge of the third party.
+(2) A specified act may be done by or through any means whatsoever (for example, tracking devices, digital applications, spyware, drones, or the use of artificial intelligence).
+
+### 216Q Stalking and harassment
+(1) A person (person A) who stalks and harasses another person (person B) commits an offence and is liable to imprisonment for a term not exceeding 5 years.
+(2) It is a defence to a charge under subsection (1) if person A proves that they engaged in their behaviour—
+  (a) for a lawful purpose; or
+  (b) with a reasonable excuse; or
+  (c) in the public interest.
+
+### 216R Disposal and forfeiture of any intimate visual recordings
+(1) This section applies if—
+  (a) a person (person A) has been convicted of an offence against section 216Q; and
+  (b) person A possesses an intimate visual recording (within the meaning of section 216G) of the person who person A stalked and harassed.
+(2) The court may, in addition to passing any other sentence or making any other order, order that the intimate visual recording be destroyed within 10 working days from the making of the order, and that the recording in the meantime be impounded.
+(3) Before making an order under subsection (2), the court must give the following persons an opportunity to be heard:
+  (a) person A; and
+  (b) any person who, in the opinion of the court, would be directly affected by the making of the order.
+
+### 216S Effect of appeal on order made under section 216R
+(1) If a person is convicted of an offence against section 216Q, and any order is made under section 216R, the operation of the order is suspended,—
+  (a) in any case, until the expiration of the time prescribed in the Criminal Procedure Act 2011 or this Act for the filing of a notice of appeal or an application for leave to appeal; and
+  (b) if a notice of appeal is filed within the prescribed time, until the determination of the appeal; and
+  (c) if the application for leave to appeal is filed within the prescribed time, until the application is determined, and, if leave to appeal is granted, until the determination of the appeal.
+(2) If the operation of any order is suspended until the determination of the appeal, the court determining the appeal may, by order, cancel or vary the order.
 
 ## Part 10 — Crimes against rights of property
 
