@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2026-02-26_
+_Consolidation as at 2026-05-26_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -120,6 +120,7 @@ This Act binds the Crown.
   - **sexual reputation** , of a complainant, for the purposes of section 44AA,—
     (a) means the way in which the complainant is regarded, by others, in sexual matters (including, without limitation, as having a particular sexual disposition or experience); but
     (b) excludes any witness’s evidence that is derived from the witness’s personal sexual experience with, or personal knowledge of the sexual disposition of, the complainant (evidence of which is subject to section 44)
+  - **stalking and harassment** has the same meaning as in section 216O of the Crimes Act 1961
   - **statement** means—
     (a) a spoken or written assertion by a person of any matter; or
     (b) non-verbal conduct of a person that is intended by that person as an assertion of any matter
@@ -1087,10 +1088,10 @@ If a party in any proceeding cross-examines a witness who has the same, or subst
 In any proceeding, the party who calls a witness may, if the Judge determines that the witness is hostile and gives permission, cross-examine the witness to the extent authorised by the Judge.
 
 ### 95 Restrictions on cross-examination by parties in person
-(1) A defendant in or a party to a sexual case, or a defendant in or a party to a criminal or civil proceeding concerning family violence or harassment, is not entitled to personally cross-examine—
+(1) A defendant in or a party to a sexual case, or a defendant in or a party to a criminal or civil proceeding concerning family violence, stalking and harassment, or harassment, is not entitled to personally cross-examine—
   (a) a complainant; or
   (b) any other witness (for example, a propensity witness) who has made an allegation against that defendant or party (as applicable),—
-    (i) in a criminal proceeding, of an offence of a sexual nature, or of an offence of family violence or harassment; or
+    (i) in a criminal proceeding, of an offence of a sexual nature, or of an offence of family violence, or of an offence of stalking and harassment; or
     (ii) in a civil proceeding, of a sexual nature, or of family violence or harassment; or
   (c) a child who is a witness of a kind not described in paragraph (a) or (b), unless the Judge gives permission.
 (2) In a civil or criminal proceeding, a Judge may, on the application of a witness, or a party calling a witness, or on the Judge’s own initiative, order that a party to the proceeding must not personally cross-examine the witness.
