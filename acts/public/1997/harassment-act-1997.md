@@ -1,7 +1,7 @@
 # Harassment Act 1997
-_Consolidation as at 2021-10-28_
+_Consolidation as at 2026-05-26_
 
-> An Act to provide criminal and civil remedies in respect of harassment
+> An Act to provide civil remedies in respect of harassment
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Harassment Act 1997.
@@ -86,9 +86,9 @@ An act is done to a person (person A), for the purposes of this Act, if that act
   (a) recognising that behaviour that may appear innocent or trivial when viewed in isolation may amount to harassment when viewed in context; and
   (b) ensuring that there is adequate legal protection for all victims of harassment.
 (2) This Act aims to achieve its object by—
-  (a) making the most serious types of harassment criminal offences:
+  (a)
   (b) empowering the court to make orders to protect victims of harassment who are not covered by family violence legislation:
-  (c) providing effective sanctions for breaches of the criminal and civil law relating to harassment.
+  (c) providing effective sanctions for breaches of the civil law relating to harassment.
 (3) Any court which, or any person who, exercises any power conferred by or under this Act must be guided in the exercise of that power by the object specified in subsection (1).
 
 **Crown bound**
@@ -99,14 +99,7 @@ This Act binds the Crown.
 ## Part 2 — Criminal harassment
 
 ### 8 Criminal harassment
-(1) Every person commits an offence who harasses another person in any case where—
-  (a) the first-mentioned person intends that harassment to cause that other person to fear for—
-    (i) that other person's safety; or
-    (ii) the safety of any person with whom that other person is in a family relationship; or
-  (b) the first-mentioned person knows that the harassment is likely to cause the other person, given his or her particular circumstances, to reasonably fear for—
-    (i) that other person's safety; or
-    (ii) the safety of any person with whom that other person is in a family relationship.
-(2) Every person who commits an offence against this section is liable, on conviction, to imprisonment for a term not exceeding 2 years.
+[Repealed]
 
 ## Part 3 — Civil harassment
 
@@ -263,7 +256,7 @@ Sections 11 and 13, so far as applicable and with the necessary modifications, a
 (1) This section applies where—
   (a) a complaint is made to a constable alleging that a particular person (in this section referred to as the alleged harasser) is harassing, or has harassed, another person; and
   (b) the person making the complaint does not know the name, or the address, or both, of the alleged harasser.
-(2) It is not necessary, for the purposes of this section, that the harassment to which the complaint relates constitutes an offence against section 8.
+(2)
 (3) Where this section applies, and a constable has reasonable ground to suppose that the alleged harasser is harassing, or has harassed, the complainant,—
   (a) any constable may require the alleged harasser to give particulars of his or her name and address to that constable; and
   (b) that constable must tell the alleged harasser, at the time of requiring the particulars, that the particulars are being required under this section.
@@ -291,10 +284,10 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 **General provisions**
 
 ### 29 Standard of proof
-Every question of fact arising in any proceedings under this Act (other than criminal proceedings) must be decided on the balance of probabilities.
+Every question of fact arising in any proceedings under this Act must be decided on the balance of probabilities.
 
 ### 30 Admission of evidence
-In any proceedings under this Act (other than criminal proceedings), and whether by way of hearing in the first instance or by way of appeal, or otherwise, the court may receive any evidence that would not otherwise be admissible in a court of law, if the court is satisfied that the admission of the evidence is required in the interests of justice.
+In any proceedings under this Act, and whether by way of hearing in the first instance or by way of appeal, or otherwise, the court may receive any evidence that would not otherwise be admissible in a court of law, if the court is satisfied that the admission of the evidence is required in the interests of justice.
 
 ### 31 Applications may be heard together
 (1) A court may hear and determine an application for a restraining order in conjunction with 1 or more other applications for a restraining order in any case where all the applications are made against the same person (whether or not any or all of those applications also relate to any other person).
@@ -304,7 +297,7 @@ In any proceedings under this Act (other than criminal proceedings), and whether
 (1) A court may dismiss any proceedings before it under this Act if it is satisfied that they are frivolous or vexatious or an abuse of the procedure of the court.
 (2) If a court is satisfied that a person has persistently instituted vexatious proceedings under this Act (whether against the same person or against different persons), the court may make an order prohibiting that person from commencing any proceedings under this Act, or proceedings of any specified kind or against any specified person, without the leave of the court.
 (3) A court must not make an order under subsection (2) prohibiting a person from commencing proceedings without giving that person an opportunity to be heard.
-(4) Nothing in this section applies in respect of criminal proceedings.
+(4)
 (5) Nothing in this section limits any other power of the court to dismiss proceedings.
 
 ### 33 Copies of orders to be sent to Police
@@ -405,7 +398,7 @@ Except where the court making the order appealed from otherwise directs,—
     (iii) if any order made under the rules is not complied with; or
     (iv) unless or until any order made under the rules is complied with:
   (f) provide that Registrars may exercise specified powers of the court or a Judge:
-  (g) provide for information about proceedings under this Act to be transferred between courts (whether the District Court, the Family Court, the High Court, the Court of Appeal, or the Supreme Court), including (without limitation) between different courts, or between different divisions of the same court, or between courts exercising civil jurisdiction and courts exercising criminal jurisdiction, or between courts exercising appellate jurisdiction and courts exercising original jurisdiction:
+  (g) provide for information about proceedings under this Act to be transferred between courts (whether the District Court, the Family Court, the High Court, the Court of Appeal, or the Supreme Court), including (without limitation) between different courts, or between different divisions of the same court, or between courts exercising appellate jurisdiction and courts exercising original jurisdiction:
   (h) apply, with or without modification, provisions of the District Court Rules 2014.
 (3) In the absence of any rules under this section or in any situation not covered by any such rules, the District Court Rules 2014 apply, with all necessary modifications, to proceedings under this Act.
 (4) Rules under subsection (1)﻿(b) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
