@@ -1,5 +1,5 @@
 # Private Security Personnel and Private Investigators Act 2010
-_Consolidation as at 2025-11-13_
+_Consolidation as at 2026-05-26_
 
 ### 1 Title
 This Act is the Private Security Personnel and Private Investigators Act 2010.
@@ -607,10 +607,10 @@ The grounds of disqualification for an individual applicant for a licence, or an
   (e) has ever been disqualified from driving under section 65 of the Land Transport Act 1998 or an earlier equivalent provision; or
   (f) has, within the preceding 7 years, been convicted of any—
     (i) offence under the Arms Act 1983; or
-    (ii) offence under any of sections 216H to 216J of the Crimes Act 1961; or
+    (ii) offence under any of sections 216H to 216J or 216Q of the Crimes Act 1961; or
     (iii) offence under section 10, 11, 12A, 13, 16, 19, 21, 24, 47F, or 47J of the Fair Trading Act 1986; or
     (iiia) offence under section 103(1) of the Credit Contracts and Consumer Finance Act 2003 that involves a breach of any provision of Part 3A of that Act; or
-    (iv) offence under section 8 or 25 of the Harassment Act 1997; or
+    (iv) offence under section 25 of the Harassment Act 1997; or
     (v) offence against section 6 of the Misuse of Drugs Act 1975 in relation to a Class A controlled drug, a Class B controlled drug, or a Class C controlled drug, in relation to which the amount, level, or quantity at and over which the drug is presumed to be for supply is specified in Schedule 5 of that Act; or
     (vi) offence of dishonesty; or
     (vii) offence of violence; or
