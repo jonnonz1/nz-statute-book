@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2026-02-27_
+_Consolidation as at 2026-05-27_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -2312,7 +2312,7 @@ When making a determination under section 143, 145, or 146,—
 
 ### 156 Deportation liability if visa held under false identity
 (1) A person is liable for deportation if—
-  (a) the person is convicted of an offence where the identity of the person is established, and that identity is different to the identity under which the person holds a visa; or
+  (a) the person is convicted or found guilty of, or pleads guilty to, an offence where the identity of the person is established, and that identity is different to the identity under which the person holds a visa; or
   (b) the Minister determines that the person holds a visa under a false identity.
 (2) If a person is liable for deportation under this section and the visa is a temporary visa or interim visa,—
   (a) the person may appeal to the Tribunal on humanitarian grounds not later than 42 days after first becoming unlawfully in New Zealand; and
@@ -2340,7 +2340,7 @@ When making a determination under section 143, 145, or 146,—
 
 ### 158 Deportation liability of residence class visa holder due to fraud, forgery, etc
 (1) A residence class visa holder is liable for deportation if—
-  (a) the person is convicted of an offence where it is established that—
+  (a) the person is convicted or found guilty of, or pleads guilty to, an offence where it is established that—
     (i) any of the information provided in relation to the person's application, or purported application, for a residence class visa or entry permission was fraudulent, forged, false, or misleading, or any relevant information was concealed; or
     (ii) any of the information provided in relation to the person's, or any other person’s, application, or purported application, for a visa on the basis of which the residence class visa was granted was fraudulent, forged, false, or misleading, or any relevant information was concealed; or
   (b) the Minister determines that—
@@ -2375,15 +2375,15 @@ When making a determination under section 143, 145, or 146,—
 (3) A person liable for deportation under this section may, not later than 28 days after the date of service of a deportation liability notice, appeal to the Tribunal both on the facts and on humanitarian grounds against his or her liability for deportation.
 (4) For the purposes of subsection (1), the date that a person first held a residence class visa must be calculated in accordance with section 161(5).
 
-### 161 Deportation liability of residence class visa holder convicted of criminal offence
-(1) A residence class visa holder is liable for deportation if he or she is convicted, in New Zealand or elsewhere,—
-  (a) of an offence for which the court has the power to impose imprisonment for a term of 3 months or more if the offence was committed at any time—
+### 161 Deportation liability of residence class visa holder convicted or guilty of criminal offence
+(1) A residence class visa holder is liable for deportation if they are convicted or found guilty of, or plead guilty to, in New Zealand or elsewhere,—
+  (a) an offence for which the court has the power to impose imprisonment for a term of 3 months or more if the offence was committed at any time—
     (i) when the person was unlawfully in New Zealand; or
     (ii) when the person held a temporary entry class visa; or
     (iii) not later than 2 years after the person first held a residence class visa; or
-  (b) of an offence for which the court has the power to impose imprisonment for a term of 2 years or more, if the offence was committed not later than 5 years after the person first held a residence class visa; or
-  (c) of an offence and sentenced to imprisonment for a term of 5 years or more (or for an indeterminate period capable of running for 5 years or more), if the offence was committed not later than 10 years after the person first held a residence class visa; or
-  (d) of an offence against section 350(1), 351, or 351A, if the offence was committed not later than 10 years after the person first held a residence class visa, and whether that visa was granted before or after this paragraph comes into force.
+  (b) an offence for which the court has the power to impose imprisonment for a term of 2 years or more, if the offence was committed not later than 5 years after the person first held a residence class visa; or
+  (c) an offence and sentenced to imprisonment for a term of 5 years or more (or for an indeterminate period capable of running for 5 years or more), if the offence was committed not later than 10 years after the person first held a residence class visa; or
+  (d) an offence against section 350(1), 351, or 351A, if the offence was committed not later than 10 years after the person first held a residence class visa, and whether that visa was granted before or after this paragraph comes into force.
 (2) A person liable for deportation under this section may, not later than 28 days after being served with a deportation liability notice, appeal to the Tribunal—
   (a) on humanitarian grounds against his or her liability for deportation; and
   (b) if he or she is a refugee or a protected person, against any decision of a refugee and protection officer that he or she may be deported.
@@ -2407,7 +2407,7 @@ When making a determination under section 143, 145, or 146,—
 ### 162 Deportation liability if refugee or protection status cancelled under section 146
 (1) A person who is not a New Zealand citizen and who was previously recognised as a refugee or a protected person is liable for deportation if his or her recognition is cancelled under section 146.
 (2) The person may, not later than 28 days after the date of service of a deportation liability notice, appeal to the Tribunal against his or her liability for deportation—
-  (a) on humanitarian grounds only, if the person has been convicted of an offence where it is established that he or she acquired recognition as a refugee or a protected person by fraud, forgery, false or misleading representation, or concealment of relevant information; or
+  (a) on humanitarian grounds only, if the person has been convicted or found guilty of, or pleaded guilty to, an offence where it is established that he or she acquired recognition as a refugee or a protected person by fraud, forgery, false or misleading representation, or concealment of relevant information; or
   (b) on the facts and on humanitarian grounds, in any other case.
 
 ### 163 Deportation liability of persons threatening security
@@ -2502,7 +2502,12 @@ A deportation liability notice must be signed by the Minister or an immigration 
 (7) The cancellation or suspension of a person’s liability for deportation does not prevent the person from becoming liable for deportation on other grounds.
 
 ### 173 Right of victims to make submissions on suspension or cancellation of liability for deportation
-(1) In determining whether to cancel or suspend a person’s liability for deportation, the Minister must have regard to any written submissions made by a victim of an offence or offences of which the person who is liable for deportation has been convicted and from which his or her liability for deportation arises.
+(1) In determining whether to cancel or suspend a person’s liability for deportation, the Minister must have regard to any written submissions made by a victim of an offence or offences if—
+  (a) the person who is liable for deportation—
+    (i) has been convicted of the offence or offences; or
+    (ii) has been found guilty of the offence or offences; or
+    (iii) has pleaded guilty to the offence or offences; and
+  (b) the person’s liability for deportation arises from that offence or those offences.
 (2) The Minister must, on a request for the purpose, make available to a lawyer or agent (if any) who is acting for the person who is liable for deportation a copy of all written submissions made by the victim.
 (3) The Minister, or a lawyer or agent acting for the person, must, on a request for the purpose, show the person a copy of all written submissions made by the victim. However, the person may not keep a copy of any of those submissions.
 (4) Despite subsections (2) and (3), the Minister may withhold from the person and every lawyer or agent (if any) acting for the person any part of the victim’s written submissions if, in the Minister’s opinion, the withholding of that part is necessary to protect the physical safety or security of the victim concerned.
@@ -2605,7 +2610,7 @@ A deportation liability notice must be signed by the Minister or an immigration 
 (3) A deportation order may be executed in respect of a person who is serving a sentence of imprisonment in a prison only if the Minister has ordered the release of the person in accordance with section 55 of the Parole Act 2002.
 
 ### 179 Deported person may not enter New Zealand during period of prohibition on entry
-(1) A person 18 years of age or over who is deported from New Zealand may not return to New Zealand, or be granted a visa or entry permission, during the period of prohibition on entry that applies to the person as set out in the following table:The following table is small in size and contains 2 columns. Column 1 is headed Why person deported. Column 2 is headed Period of prohibition on entry (calculated from the date of deportation)Why person deportedPeriod of prohibition on entry (calculated from the date of deportation)Section 155 applies (granted a visa as the result of an administrative error and visa not cancelled)noneSection 154 applies (unlawfully in New Zealand), and person is subject to deportation order and deported not more than 12 months after date on which person became unlawfully in New Zealand2 yearsSection 154 applies (unlawfully in New Zealand), and person is subject to deportation order and deported 12 months or more after date on which person became unlawfully in New Zealand5 yearsSection 154 applies (unlawfully in New Zealand), and person is subject to deportation order, and it is second or subsequent time that person has been unlawfully in New Zealand5 yearsSection 157 applies (sufficient reasons for temporary entry class visa holder to be deported)5 yearsSection 159 applies (breached resident visa conditions)5 yearsSection 156 applies (visa granted on basis of false identity)permanent prohibitionSection 158 applies (fraud, forgery, etc, in relation to an application)permanent prohibitionSection 160 applies (new information as to character becomes available)permanent prohibitionSection 162 applies (refugee or protection status cancelled for fraud, forgery, etc)permanent prohibitionSection 161 applies (residence class visa holder convicted of specified offence)permanent prohibitionSection 163 applies (certified as person constituting threat or risk to security)permanent prohibition
+(1) A person 18 years of age or over who is deported from New Zealand may not return to New Zealand, or be granted a visa or entry permission, during the period of prohibition on entry that applies to the person as set out in the following table:The following table is small in size and contains 2 columns. Column 1 is headed Why person deported. Column 2 is headed Period of prohibition on entry (calculated from the date of deportation)Why person deportedPeriod of prohibition on entry (calculated from the date of deportation)Section 155 applies (granted a visa as the result of an administrative error and visa not cancelled)noneSection 154 applies (unlawfully in New Zealand), and person is subject to deportation order and deported not more than 12 months after date on which person became unlawfully in New Zealand2 yearsSection 154 applies (unlawfully in New Zealand), and person is subject to deportation order and deported 12 months or more after date on which person became unlawfully in New Zealand5 yearsSection 154 applies (unlawfully in New Zealand), and person is subject to deportation order, and it is second or subsequent time that person has been unlawfully in New Zealand5 yearsSection 157 applies (sufficient reasons for temporary entry class visa holder to be deported)5 yearsSection 159 applies (breached resident visa conditions)5 yearsSection 156 applies (visa granted on basis of false identity)permanent prohibitionSection 158 applies (fraud, forgery, etc, in relation to an application)permanent prohibitionSection 160 applies (new information as to character becomes available)permanent prohibitionSection 161 applies (residence class visa holder convicted or guilty of specified offence)permanent prohibitionSection 162 applies (refugee or protection status cancelled for fraud, forgery, etc)permanent prohibitionSection 163 applies (certified as person constituting threat or risk to security)permanent prohibition
 (2) A person who is liable for deportation is not subject to any period of prohibition on entry if the person—
   (a) is liable for deportation only on the grounds that the person is unlawfully in New Zealand; and
   (b) leaves New Zealand voluntarily before he or she is served with a deportation order.
@@ -2932,7 +2937,7 @@ The Minister must make any decision about a person's immigration status if the T
   (c) persons recognised as refugees or protected persons whose liability for deportation arises under section 162(1), other than persons described in subsection (2)﻿(b).
 (2) The following persons may not appeal to the Tribunal on the facts against their liability for deportation:
   (a) residents or permanent residents whose liability for deportation arises under section 156(1)﻿(a), 158(1)﻿(a), 158(2), or 161:
-  (b) persons whose liability for deportation arises under section 162(1) and who have been convicted of an offence where it is established that the person acquired recognition as a refugee or a protected person by fraud, forgery, false or misleading representation, or concealment of relevant information:
+  (b) persons whose liability for deportation arises under section 162(1) and who have been convicted or found guilty of, or pleaded guilty to, an offence where it is established that the person acquired recognition as a refugee or a protected person by fraud, forgery, false or misleading representation, or concealment of relevant information:
   (c) persons whose liability for deportation arises by way of a deportation order under section 163.
 
 ### 202 Grounds for determining appeal on facts
@@ -3003,7 +3008,12 @@ The Tribunal must allow an appeal against liability for deportation on the facts
 
 ### 208 Right of victims to make submission on appeal
 (1) In determining a humanitarian appeal by a person who becomes liable for deportation under section 161, the Tribunal must have regard to—
-  (a) any written submissions made to it by a victim of an offence or offences of which the appellant has been convicted and from which the liability for deportation arose; and
+  (a) any written submissions made to it by a victim of an offence or offences if—
+    (i) the person who is liable for deportation—
+      (A) has been convicted of the offence or offences; or
+      (B) has been found guilty of the offence or offences; or
+      (C) has pleaded guilty to the offence or offences; and
+    (ii) the person’s liability for deportation arises from that offence or those offences; and
   (b) any relevant written submissions made by a victim to the Minister under section 173.
 (2) In addition to, or instead of, making written submissions under this section, the victim may, with the leave of the Tribunal, make oral submissions to the Tribunal at the hearing.
 (3) The Tribunal must make available to a lawyer or agent acting for the appellant, on a request by the appellant, a copy of all written submissions made by the victim under section 173 or this section.
@@ -6598,7 +6608,7 @@ A person who, immediately before the commencement of section 404 of this Act, wa
   (a) in determining (under section 116 of this Act) whether section 115 of this Act ceases to apply to the person, any period of time must be calculated including any time that has elapsed before the commencement of section 404 of this Act:
   (b) a person must be treated as if he or she were arrested and detained under Part 9 of this Act if he or she was already detained on the commencement of section 404 of this Act.
 
-### 431 Deportation liability of residence class visa holder convicted of criminal offence
+### 431 Deportation liability of residence class visa holder convicted or guilty of criminal offence
 (1) Subsection (2) applies to a person if he or she—
   (a) was exempt from the requirement to hold a permit under Part 2 of Schedule 1 of the Immigration Regulations 1999; and
   (b) was outside New Zealand immediately before the commencement of section 404 of this Act; and
