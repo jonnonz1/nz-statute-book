@@ -1,5 +1,5 @@
 # Crown Pastoral Land Act 1998
-_Consolidation as at 2023-12-23_
+_Consolidation as at 2026-06-03_
 
 ### 1 Short Title
 This Act may be cited as the Crown Pastoral Land Act 1998.
@@ -373,7 +373,7 @@ For the purpose of securing more suitable boundaries of pastoral land held under
 
 ### 22A Chief executive to prepare monitoring framework
 (1) The chief executive must—
-  (a) prepare, regularly update, and make available to the public a framework (the monitoring framework) for the overall performance of the department in relation to the purpose of this Act and the exercise of the department’s stewardship responsibilities (under section 52(1)﻿(d) of the Public Service Act 2020) in relation to this Act; and
+  (a) prepare, regularly update, and make available to the public a framework (the monitoring framework) for the overall performance of the department in relation to the purpose of this Act and the exercise of the department’s stewardship responsibilities (under section 11A(1)﻿(j) of the Public Service Act 2020) in relation to this Act; and
   (b) regularly report on performance against the monitoring framework in relation to the purpose of this Act and those stewardship responsibilities.
 (2) In developing the monitoring framework, the chief executive must—
   (a) consult relevant iwi and representatives of lessees and licensees of pastoral land; and
