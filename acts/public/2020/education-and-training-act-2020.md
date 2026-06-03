@@ -1,5 +1,5 @@
 # Education and Training Act 2020
-_Consolidation as at 2026-05-08_
+_Consolidation as at 2026-06-03_
 
 ### 1 Title
 This Act is the Education and Training Act 2020.
@@ -6379,12 +6379,12 @@ A member of NZQA may be paid any allowances in respect of child care that NZQA d
 (1) The Chief Review Officer must—
   (a) administer reviews, either general or relating to particular matters, of the performance of applicable organisations in relation to the applicable services they provide—
     (i) when directed by the Minister to do so; or
-    (ii) on the Chief Review Officer’s own motion (despite section 52 of the Public Service Act 2020); and
+    (ii) on the Chief Review Officer’s own motion (despite section 11A of the Public Service Act 2020); and
   (b) administer the preparation of reports to the Minister on the undertaking and results of the reviews; and
   (c) give the Minister any other assistance and advice on the performance of the applicable organisations that the Minister requires.
 (2) The Chief Review Officer—
   (a) must administer reviews of professional learning and development services accessed by applicable organisations when directed by the Minister to do so; and
-  (b) may, despite section 52 of the Public Service Act 2020, administer reviews of professional learning and development services accessed by applicable organisations on the Chief Review Officer’s own motion; and
+  (b) may, despite section 11A of the Public Service Act 2020, administer reviews of professional learning and development services accessed by applicable organisations on the Chief Review Officer’s own motion; and
   (c) must administer the preparation of reports to the Minister on the undertaking and results of the reviews.
 
 ### 464 Information requests
