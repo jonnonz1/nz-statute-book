@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2026-04-05_
+_Consolidation as at 2026-06-03_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -4409,7 +4409,7 @@ The provisions of Schedule 3 have effect in relation to the court and matters wi
   (c) the court acts in bad faith.
 
 ### 194 Application for review
-(1) If any person wishes to apply for review under the Judicial Review Procedure Act 2016, or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in relation to the exercise, refusal to exercise, or proposed or purported exercise by—of a statutory power or statutory power of decision (as defined by section 4 of the Judicial Review Procedure Act 2016) conferred by or under this Act or any of the provisions of sections 17 to 21, subpart 4 of Part 3, Part 4, and clauses 1 to 5 and 7 to 11 of Schedule 8 of the Public Service Act 2020 or subpart 4 of Part 6 of the Education and Training Act 2020, the provisions of subsections (2) to (4) of this section apply.
+(1) If any person wishes to apply for review under the Judicial Review Procedure Act 2016, or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in relation to the exercise, refusal to exercise, or proposed or purported exercise by—of a statutory power or statutory power of decision (as defined by section 4 of the Judicial Review Procedure Act 2016) conferred by or under this Act or any of the provisions of sections 17 to 21, subpart 4 of Part 3, Part 4, and clauses 1 to 5 of Schedule 8 of the Public Service Act 2020 or subpart 4 of Part 6 of the Education and Training Act 2020, the provisions of subsections (2) to (4) of this section apply.
   (a) the Authority; or
   (b) an officer of the Authority or the court; or
   (c) an employer, or that employer's representative; or
