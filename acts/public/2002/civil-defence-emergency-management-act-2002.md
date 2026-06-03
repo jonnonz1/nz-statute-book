@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2025-08-27_
+_Consolidation as at 2026-06-03_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -596,9 +596,7 @@ A civil defence emergency management group plan—
 **General duties of government departments and others**
 
 ### 58 Departments and interdepartmental ventures to prepare plans to continue functioning during and after emergency
-Every department must—
-  (a) ensure that it is able to function to the fullest possible extent, even though this may be at a reduced level, during and after an emergency:
-  (b) make available to the Director in writing, on request, its plan for functioning during and after an emergency.
+[Repealed]
 
 ### 59 Departments and others to undertake civil defence emergency management functions and responsibilities
 Every department, Civil Defence Emergency Management Group, local authority, emergency service, and lifeline utility, and any other person required by this Act or any regulations made under this Act, or any civil defence emergency management plan, to undertake civil defence emergency management or to perform any functions or duties, must take all necessary steps to undertake civil defence emergency management or to perform those functions and duties.
