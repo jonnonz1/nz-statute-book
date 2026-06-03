@@ -1,5 +1,5 @@
 # Data and Statistics Act 2022
-_Consolidation as at 2022-08-08_
+_Consolidation as at 2026-06-03_
 
 ### 1 Title
 This Act is the Data and Statistics Act 2022.
@@ -88,7 +88,7 @@ In this Act, unless the context otherwise requires,—
   - **provide** , in relation to data requested under Part 3, means to provide the data to the Statistician or public sector agency requesting the data or to enable the Statistician or public sector agency to access the data
   - **public sector agency** has the meaning given to it in section 7
   - **regulations** means regulations made under this Act
-  - **Statistician** means the Government Statistician referred to in section 12.
+  - **Statistician** means the Government Statistician appointed under section 12.
 
 ### 7 Meaning of public sector agency
 In this Act, unless the context otherwise requires, public sector agency means—
@@ -129,7 +129,8 @@ The Minister has the following functions and powers under this Act:
 **Government Statistician**
 
 ### 12 Government Statistician
-(1) There must be an officer appointed under the Public Service Act 2020 to be called the Government Statistician.
+(1) A Government Statistician must be appointed by the Public Service Commissioner in accordance with clause 3(2) to (9) of Schedule 7 of the Public Service Act 2020.
+(1A) Clause 3(10) to (15) of that schedule does not apply to the appointment of the Government Statistician.
 (2) The Government Statistician is also the chief executive of Statistics New Zealand.
 
 ### 13 Functions of Statistician
