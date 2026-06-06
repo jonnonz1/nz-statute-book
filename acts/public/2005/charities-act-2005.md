@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2026-04-05_
+_Consolidation as at 2026-06-06_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -102,6 +102,7 @@ This Act binds the Crown.
   (b) is not subject to direction from the Minister.
 (5) The Board must, subject to subsection (6), consider whether it could most efficiently and effectively perform or exercise any functions, duties, or powers itself or by delegating the functions, duties, or powers to the chief executive or some other person under section 9.
 (6) The chief executive must supply all secretarial and administrative services required to enable the Board to perform or exercise its functions, duties, and powers.
+(6A) The functions, duties, and powers of the Board are not affected by any vacancy in the membership of the Board.
 (7) Schedule 2 applies to the Board and to the members and chairperson of the Board.
 
 **Nature of Commission**
@@ -330,24 +331,14 @@ The chief executive may, at any time, make any amendments to the register that a
 **Searches of register**
 
 ### 27 Search of register
-(1) A person may search the register in accordance with this Act or regulations.
-(2) The register may be searched only by reference to the following criteria:
-  (a) the name of the charitable entity:
-  (b) the registration number of the charitable entity:
-  (c) the name of an officer of the charitable entity:
-  (d) any other criteria prescribed by regulations.
+(1) A person may search the register in accordance with any regulations relating to access to the register.
+(2)
 
 ### 28 Search purposes
-A search of the register may be carried out only by the following persons for the following purposes:
-  (a) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual:
-  (b) a person for the purpose of determining whether an entity is registered as a charitable entity under this Act:
-  (c) a person for the purpose of obtaining information concerning the nature, activities, and purposes of a charitable entity:
-  (d) a person for the purpose of knowing how to contact a charitable entity:
-  (e) a person for the purpose of assisting the person in the exercise of the person's powers under this Act or any other enactment:
-  (f) a person for the purpose of assisting the person in the performance of the person's functions under this Act or any other enactment.
+[Repealed]
 
 ### 29 When search constitutes interference with privacy of individual
-A search of the register for personal information that has not been carried out in accordance with sections 27 and 28 constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
+A search of the register for personal information that has not been carried out in accordance with section 27 constitutes an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
 
 **Supply of register information and documents**
 
@@ -983,6 +974,12 @@ To the extent that they are not inconsistent with this Act or regulations, the D
 
 ### 58V Authority must notify Attorney-General of bringing of appeal
 The Authority must notify the Attorney-General promptly of the bringing of any appeal to the Authority under this Act.
+
+### 58VA Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the Authority and how to commence a proceeding:
+  (b) any requirements that must be met to bring a proceeding:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
 
 **Appeals to High Court**
 
